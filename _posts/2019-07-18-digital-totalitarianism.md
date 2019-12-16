@@ -2,15 +2,14 @@
 layout: post
 title: "「索引」关于数字极权的研究"
 tags: [索引, 数字极权, 极权主义, 监控]
+date: 2019-07-18
+author: KP2020
+description: "搜集整理数字集权/极权相关研究报告、论文和书籍"
 comments: true
 ---
 
-# 「索引」关于数字极权的研究
-- 作者: KP2020
-- 时间: 2019-07-18
-- 链接: https://github.com/newjrs/newjrs.github.io/blob/master/digitalTotalitarianism.md
+[原始链接](https://github.com/newjrs/newjrs.github.io/blob/master/digitalTotalitarianism.md)
 
-###### tags: `索引` `数字极权` `极权主义` `监控`
 
 ## 正文
 搜集整理数字集权/极权相关研究报告、论文和书籍
@@ -84,3 +83,6 @@ Matters上的相关作者
 * 自由之家 [https://freedomhouse.org](https://freedomhouse.org)
 * 中国美术学院-网络社会研究所 [http://caa-ins.org/](http://caa-ins.org/)
 * [The Citizen Lab](https://citizenlab.ca/)
+
+
+###### tags: `索引` `数字极权` `极权主义` `监控`
