@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "「索引」互联网公共舆论相关研究 2019-11-18"
+title: "「索引」互联网公共舆论相关研究"
+date: 2019-11-18
 tags: [索引, 互联网, 言论, 公共舆论, 社交媒体, 传播, 论文, 讨论]
 comments: true
 ---
 
-
-###### tags: `索引` `互联网` `言论` `公共舆论` `社交媒体` `传播` `论文` `讨论`
 
 ## 关于网络极端言论，仇恨传播，抱团及反仇恨手段
 作者: Merlin
@@ -64,3 +63,6 @@ Sujin Choi, Flow, Diversity, Form, and Influence of Political Talk in Social-Med
 
 *随大流，还是不随大流* ~这是一个问题。
 
+
+
+###### tags: `索引` `互联网` `言论` `公共舆论` `社交媒体` `传播` `论文` `讨论`
