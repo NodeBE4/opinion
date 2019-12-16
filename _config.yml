@@ -20,13 +20,13 @@ avatar:
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Blog
+  - name: 博客
     url: /
-  - name: About
+  - name: 关于
     url: /about
   - name: Archive
     url: /archive
-  - name: Tags
+  - name: 标签
     url: /tags
   - name: Theme
     url: https://github.com/AWEEKJ/kiko-now
@@ -64,7 +64,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://damoresclub.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
