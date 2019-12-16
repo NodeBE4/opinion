@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 关于
+title: 达摩俱乐部： 像James Damore一样参与公共讨论
 permalink: /about/
 ---
-
-# 达摩俱乐部： 像James Damore一样参与公共讨论
 
 ###### tags: `关于` `讨论`
 
