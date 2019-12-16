@@ -2,12 +2,9 @@
 layout: post
 title: "「索引」有关革命的理论"
 tags: [索引, 革命, 理论, 论文]
+author: Merlin
 comments: true
 ---
-
-# 「索引」有关革命的理论 2019-12-12
-
-###### tags: `索引` `革命` `论文`
 
 作者: Merlin
 首发: 2019-12-12
@@ -113,3 +110,7 @@ Mancur Olson的书不错，1982年出版的The Rise and Decline of Nations: Econ
 
 ccp里学经济政治理论的应该有一批人（smart evil men/women，一接触经济学就会有这些社会政治理论分析），一些理论常识应该都掌握,他们对于怎样维持更好统治是积极上心的。反专制力量是需要掌握这些理论常识来更好理解和对抗。
 [@wealldie](https://2049bbs.xyz/member/2286)
+
+
+###### tags: `索引` `革命` `论文`
+
