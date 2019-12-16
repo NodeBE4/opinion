@@ -24,7 +24,7 @@ navigation:
     url: /
   - name: 关于
     url: /about
-  - name: Archive
+  - name: 存档
     url: /archive
   - name: 标签
     url: /tags
