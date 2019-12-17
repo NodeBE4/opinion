@@ -7,7 +7,6 @@ tags: [原创, 笔记, 心理学]
 comments: true
 ---
 
-- 作者： Merlin
 - 链接： [https://pincong.rocks/article/521](https://web.archive.org/web/20190823134705/https://pincong.rocks/article/521)
 
 ## 引言：
