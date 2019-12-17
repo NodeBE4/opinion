@@ -28,6 +28,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
+  - name: 工具
+    url: /tools
   - name: RSS
     url: /atom.xml
 
