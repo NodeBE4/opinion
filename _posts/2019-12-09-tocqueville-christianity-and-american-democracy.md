@@ -6,14 +6,13 @@ author: Carson Holloway
 comments: true
 ---
 
-###### tags: `书评` `译文` `基督教` `美国` `民主`
+- 作者: Carson Holloway, Visiting Scholar, 2014-15 Visiting Fellow in American Political Thought. 
+- 时间: 2016-03-07
+- 链接: https://www.heritage.org/civil-society/report/tocqueville-christianity-and-american-democracy 
+- 译者: 一株株
+- 时间: 2019-12-09
+- 链接: https://2049bbs.xyz/t/2173
 
-作者: Carson Holloway, Visiting Scholar, 2014-15 Visiting Fellow in American Political Thought. 
-时间: 2016-03-07
-链接: https://www.heritage.org/civil-society/report/tocqueville-christianity-and-american-democracy 
-译者: 一株株
-时间: 2019-12-09
-链接: https://2049bbs.xyz/t/2173
 *本文为机器翻译（未校对）*
 
 近年来，美国人忽视了宗教对建立和维持民主的积极贡献。我们没有忘记宗教对我们政治生活的重要性；我们对宗教自由的适当范围的持续辩论不断提醒我们这一点。但是，这些辩论更多地将宗教视为私人偏爱而非公共利益。他们担心个人和团体在行使其宗教信仰时应拥有多少自由。因此，这些辩论几乎没有使我们想起宗教如何能够充当统一的社会力量，这是维持我们民主生活方式必不可少的一系列共同信念。
@@ -341,3 +340,6 @@ comments: true
 [44] Ibid., p. 519.
 
 [45] Ibid., p. 521.
+
+
+###### tags: `书评` `译文` `基督教` `美国` `民主`
