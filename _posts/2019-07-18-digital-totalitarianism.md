@@ -7,8 +7,8 @@ author: KP2020
 description: "搜集整理数字集权/极权相关研究报告、论文和书籍"
 comments: true
 ---
-
-[原始链接](https://github.com/newjrs/newjrs.github.io/blob/master/digitalTotalitarianism.md)
+- 作者： KP2020
+- [原始链接](https://github.com/newjrs/newjrs.github.io/blob/master/digitalTotalitarianism.md)
 
 
 ## 正文
