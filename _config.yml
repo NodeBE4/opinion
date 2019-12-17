@@ -28,8 +28,8 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+  - name: RSS
+    url: /atom.xml
 
 # Pagination
 paginate: 5
@@ -46,7 +46,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: # jekyllrb
