@@ -1,8 +1,10 @@
 ---
 layout: page
-title: 搜藏
+title: 工具搜藏夹
 permalink: /tools/
 ---
+
+欢迎在[这里](https://hackmd.io/@DamoresClub/tools)留言补充  
 
 ## 智库
 * 50个最有影响力的美国智库 https://thebestschools.org/features/most-influential-think-tanks/
