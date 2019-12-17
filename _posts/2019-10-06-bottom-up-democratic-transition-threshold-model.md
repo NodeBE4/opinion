@@ -7,7 +7,7 @@ tags: [原创, 理论, 舆论, 政治学]
 comments: true
 ---
 
-- 作者： [懦夫斯基](https://web.archive.org/web/20191217054745/https://pincong.rocks/people/%E6%87%A6%E5%A4%AB%E6%96%AF%E5%9F%BA)
+
 - 链接： [https://pincong.rocks/article/6119](https://web.archive.org/web/20191110033536/https://pincong.rocks/article/6119)
 
 **目标读者**：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
