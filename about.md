@@ -17,8 +17,8 @@ permalink: /about/
 为避免被炒或被喝茶请注意匿名，当然做不匿名的硬汉也无所谓。
 
 ## 联系方式
-- 首页 https://hackmd.io/@DamoresClub
-- 同步 https://DamoresClub.github.io/
+- 首页 [https://hackmd.io/@DamoresClub](https://hackmd.io/@DamoresClub)
+- 网站 [https://DamoresClub.github.io/](https://DamoresClub.github.io/)
 - 邮箱 damoresclub@protonmail.com
 - 网络讨论平台：[hackmd](https://hackmd.io/), [Matters](https://matters.news), [2049bbs](https://2049bbs.xyz)等对匿名友好的网站组成的[跨平台匿名社区](https://hackmd.io/Z_GJTJznRU-tGxUAq7pllg?view) 
 - 加入编辑团队：注册[hackmd.io](https://hackmd.io/)并将帐号在上述平台用以下加密私信告诉我
@@ -36,7 +36,9 @@ MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm0r2bxOq6Sss3ehDcPsJdNJQXyaEI/nkByF5
 - [哲學哲學雞蛋糕](https://phiphicake.blogspot.com/)
 
 ***相关讨论*** 
-- https://2049bbs.xyz/t/1829
-- https://2049bbs.xyz/t/2024
-- https://2049bbs.xyz/t/2147
+- [台湾社会科学博客RSS集合](https://2049bbs.xyz/t/1829)
+- [https://2049bbs.xyz/t/2024](https://2049bbs.xyz/t/2024)
+- [James Damore: Google's Ideology Echo Chamber原文](https://2049bbs.xyz/t/2147)
+- [打算创建一个「公民学会」，想听听大家的想法？](https://2049bbs.xyz/t/1654)
+- [大家觉得「政见」cnpolitics.org的业务模式有什么优劣？](https://2049bbs.xyz/t/1639)
 
