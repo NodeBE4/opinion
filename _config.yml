@@ -6,7 +6,7 @@
 name: 达摩俱乐部
 
 # Short bio or description (displayed in the header)
-description: 站在巨人的肩膀上看世界
+description: 站在巨人们的肩上看世界
 
 #
 # Flags below are optional
@@ -28,7 +28,7 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: 工具
+  - name: 库藏
     url: /tools
   - name: RSS
     url: /atom.xml
