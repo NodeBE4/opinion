@@ -6,10 +6,8 @@ author: 逻辑思维
 comments: true
 ---
 
-###### tags: `论文` `传播` `互联网` `言论` `公共舆论` `社交媒体` 
-
-作者: 逻辑思维
-原文: https://2049bbs.xyz/t/1639
+- 作者: 逻辑思维
+- 原文: https://2049bbs.xyz/t/1639
 
 推荐一篇2017年Kangqi Fan跟Witold Pedrycz合著的论文 ***广播媒体影响下的封闭社会中的公共舆论演化*** 
 Kangqi Fan, Witold Pedrycz, "Evolution of public opinions in closed societies influenced by broadcast media", Physica A: Statistical Mechanics and its Applications, 15 April 2017, https://doi.org/10.1016/j.physa.2017.01.027
@@ -25,3 +23,6 @@ Kangqi Fan, Witold Pedrycz, "Evolution of public opinions in closed societies in
 >第二个是其发现和结论：在没有反对者的封闭社会，广播网络可以将大多数个体转变为其支持者。只需要一小撮坚定的反对者就能将广播网络对公众意见的支配权推翻。而且反对者和广播网络之间的竞争能消灭绝大多数中间派。
 
 想想近年来发生的事：消声公知、加高墙、统一所有媒体口径，消灭不和谐媒体，监控和遏制社交网络。有兴趣读读原文吧？
+
+###### tags: `论文` `传播` `互联网` `言论` `公共舆论` `社交媒体` 
+
