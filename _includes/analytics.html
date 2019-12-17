@@ -18,5 +18,5 @@
 {% if site.clicky_analytics %}
 	<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push({{ site.clicky_analytics }});</script>
 	<script async src="//static.getclicky.com/js"></script>
-	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101226994ns.gif" /></p></noscript>
+	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/{{ site.clicky_analytics }}ns.gif" /></p></noscript>
 {% endif %}
