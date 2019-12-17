@@ -1,61 +1,30 @@
-# Kiko Now
+Kiko Now [Original README](https://github.com/aweekj/kiko-now/blob/master/README.md)
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md).*
+注册hackmd的俱乐部成员能方便的对文档进行多人协同编辑，具体流程如下：
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+### 方法1
+- 先创建一个私有markdown文档，在所有主页均不可见。
+- 我邀请多人编辑该私有文档，大约1-2周时间。
+- 我将编辑好之后的Hackmd文档发布，并且同步到网站上，大约几分钟到几小时之后文章网站可见。
 
-**Kiko Now** is a Jekyll theme based on **[Jekyll Now](https://github.com/barryclark/jekyll-now)**, following the philosophy of **Jekyll Now**, which makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+### 方法2
+- 由hackmd用户A编辑好一个markdown文档
+- 然后将文档的所有权转给 DamoresClub
+- 我将编辑好之后的Hackmd文档发布，并且同步到网站上，大约几分钟到几小时之后文章网站可见。
 
-![Kiko Now Theme Screenshot](/images/kiko-now-theme-screenshot.png "Kiko Now Theme Screenshot")
+### 注册hackmd.io
+hackmd.io的注册非常匿名友好，支持mail2tor, protonmail, tutanota等匿名邮箱。
 
-## Quick Start
+如果你用Tor Browser或者双虚拟机的话应该问题不大，另外你也不必用这个ID注册hackmd。
 
-### Step 1) Fork Jekyll Now to your User Repository
+### 非注册用户编辑
+其实您不注册hackmd也可以参与文档编辑，您可在非登录状态对任意一个hackmd的文档的某个具体段落留言。
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+比如这篇文章 https://hackmd.io/@DamoresClub/left-right-political-spectrum
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+点击上方的笔头图标进入编辑模式，您可点击预览模式跳转到 https://hackmd.io/dY6UmMfHT761XjJAcuLvZg?view
 
-### Step 2) Customize and view your site
+然后当你把鼠标移动到正文任意一个段落上方的时候，文字右边会出现一个小的对话框图案，点击对话框就可以就该段进行留言评论。
 
-Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
-
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
-
-There are 3 different ways that you can make changes to your blog's files:
-
-1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
-2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-3. Clone down your repository and make updates locally, then push them to your GitHub repository.
-
-![_config.yml](/images/config.png "_config.yml")
-
-### Step 3) Publish your first blog post
-
-Edit `/_posts/2017-10-08-hello-world.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
-
-![First Post](/images/post-screenshot.png "First Post")
-
-You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-#### Frontmatter
-```
----
-layout: post
-title: "post title"
-tags: [tag1, tag2, tag3]
-comments: true
----
-```
-
-## Local Development
-
-1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
-2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
-3. Serve the site and watch for markup/sass changes `jekyll serve`
-4. View your website at http://127.0.0.1:4000/
-5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
-
-## Questions?
-
-[Open an Issue](https://github.com/aweekj/kiko-now/issues/new) and let's chat!
+hackmd支持让非注册用户直接编辑文档，不过为防止捣乱，我都设置成了非注册用户可以添加评论（并不影响正文），编辑团队根据评论对内容进行修改。
+另外，hackmd会为每个文档保留详细的编辑历史，即使出了问题可以方便的回溯。
