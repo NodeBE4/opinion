@@ -18,6 +18,16 @@ layout: default
           {{ post.date | date: "%Y-%m-%d" }}
         </span>
 
+        <!-- Look the author details up from the site config. -->
+        {% assign author = site.data.authors[page.author] %}
+
+        {% if author %}
+            <span>
+                <!-- Personal Info. -->
+                Author: <a href="{{ author.web }}">{{ author.name }}</a>
+            </span>
+        {% endif %}
+        
         <ul class="tag">
           {% for tag in post.tags %}
           <li>
