@@ -28,6 +28,7 @@ tags: [工具, 智库, 搜藏]
 * 日本历史档案 [https://www.jacar.go.jp/english/](https://www.jacar.go.jp/english/) 
 * Library Genesis [https://libgen.is/](https://libgen.is/) 
 * 華文哲學百科 [http://mephilosophy.ccu.edu.tw](http://mephilosophy.ccu.edu.tw)
+* LibriVox - Free Public Domain Audio Books [https://librivox.org/](https://librivox.org/)
 
 ## 社区
 * https://www.iyouport.org
