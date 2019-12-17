@@ -14,7 +14,7 @@ comments: true
 
 论文标题：Hidden resilience and adaptive dynamics of the global online hate ecology 作者：N. F. Johnson, R. Leahy, N. Johnson Restrepo, N. Velasquez, M. Zheng, P. Manrique, P. Devkota, S. Wuchty
 
-链接：https://www.linkresearcher.com/theses/eac73aca-8362-4622-9358-d61a75315c0b
+链接：[https://www.linkresearcher.com/theses/eac73aca-8362-4622-9358-d61a75315c0b](https://www.linkresearcher.com/theses/eac73aca-8362-4622-9358-d61a75315c0b)
 
 >本研究认为，理解网络仇恨言论恢复的关键在于全球网络动力学，数学模型预测单一平台内进行监管可使情况更糟，并产生全球性在线仇恨言论泛滥的“暗池”。研究观测结果有助于提出击败在线仇恨言论的策略矩阵，定量评估各干预措施效果，从而有潜力用于处理更广泛的在线非法行为。这篇 Nature 文章的标题中的关键词是 Hidden resilience ，即隐藏的弹性。这是一个来自生态学的术语，讲述的是生态系统在遭到外界打击后，由于网络结构，得以快速回到之前的状态的能力。 该文将社交网络中的极端言论当成是生态系统中的物种，首先指出了极端言论在不同平台之间的传播是一站式的——某种极端言论可以一次性地从一个地区传播到另一个地区。极端言论的传播网络是去中心化的，也就是一个小世界网络，没办法找到一个核心节点，从而一劳永逸地解决问题。该研究中，作者关注的是泛指的极端言论，而不是某一个特定的主题，例如 ISIS 、新纳粹等。文中指出，这些言论的共同点是充满了偏激和仇恨，尽管仇恨的对象不同（可以是外来移民、同性恋者等）。
 
@@ -34,7 +34,7 @@ comments: true
 原文: https://2049bbs.xyz/t/1639
 
 推荐一篇2017年Kangqi Fan跟Witold Pedrycz合著的论文 ***广播媒体影响下的封闭社会中的公共舆论演化*** 
-Kangqi Fan, Witold Pedrycz, "Evolution of public opinions in closed societies influenced by broadcast media", Physica A: Statistical Mechanics and its Applications, 15 April 2017, https://doi.org/10.1016/j.physa.2017.01.027
+Kangqi Fan, Witold Pedrycz, "Evolution of public opinions in closed societies influenced by broadcast media", Physica A: Statistical Mechanics and its Applications, 15 April 2017, [https://doi.org/10.1016/j.physa.2017.01.027](https://doi.org/10.1016/j.physa.2017.01.027)
 
 刚开始不打算写长篇大论，简要翻译一下摘要。
 
@@ -53,13 +53,13 @@ Kangqi Fan, Witold Pedrycz, "Evolution of public opinions in closed societies in
 时间: 2019-11-18
 原文: https://2049bbs.xyz/t/1852
 
-Sujin Choi, Flow, Diversity, Form, and Influence of Political Talk in Social-Media-Based Public Forums, Human Communication Research, Volume 40, Issue 2, 1 April 2014, Pages 209–237, https://doi.org/10.1111/hcre.12023
+Sujin Choi, Flow, Diversity, Form, and Influence of Political Talk in Social-Media-Based Public Forums, Human Communication Research, Volume 40, Issue 2, 1 April 2014, Pages 209–237, [https://doi.org/10.1111/hcre.12023](https://doi.org/10.1111/hcre.12023)
 
 极简摘要：
-论题：政治话题公共讨论的进行方式，多样性，形式，以及何种讨论有更大影响。
-结论1： 流向集中（话题性强）且仓促。
-结论2： 一方面讨论整体情绪化而非认知导向，表达出更多的愤怒而非焦虑（关切），另一方面认知性讨论更加富有影响力。
-结论3：各种认知中，强势的（assertive，大V心态？）比分析性认知更加富有影响力。
+- 论题：政治话题公共讨论的进行方式，多样性，形式，以及何种讨论有更大影响。
+- 结论1： 流向集中（话题性强）且仓促。
+- 结论2： 一方面讨论整体情绪化而非认知导向，表达出更多的愤怒而非焦虑（关切），另一方面认知性讨论更加富有影响力。
+- 结论3：各种认知中，强势的（assertive，大V心态？）比分析性认知更加富有影响力。
 
 *随大流，还是不随大流* ~这是一个问题。
 
