@@ -28,12 +28,10 @@ navigation:
     url: /archive
   - name: 标签
     url: /tags
-  - name: 库藏
-    url: /tools
   - name: 作者
     url: /authors
-  - name: RSS
-    url: /atom.xml
+  - name: 库藏
+    url: /tools
 
 # Pagination
 paginate: 25
