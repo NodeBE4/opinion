@@ -29,8 +29,8 @@
 {% if site.intensedebate %}
 	<script>
 	var idcomments_acct = '{{ site.intensedebate }}';
-	var idcomments_post_id;
-	var idcomments_post_url;
+	var idcomments_post_id = '{{ page.url }}';
+	var idcomments_post_url = '{{ site.url}}{{ page.url }}';
 	</script>
 	<span id="IDCommentsPostTitle" style="display:none"></span>
 	<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
