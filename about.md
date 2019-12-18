@@ -16,11 +16,14 @@ permalink: /about/
 
 为避免被炒或被喝茶请注意匿名，当然做不匿名的硬汉也无所谓。
 
+[参与方式点此](https://github.com/DamoresClub/DamoresClub.github.io/blob/master/README.md)
+
+
 ## 联系方式
 - 首页 [https://hackmd.io/@DamoresClub](https://hackmd.io/@DamoresClub)
 - 网站 [https://DamoresClub.github.io/](https://DamoresClub.github.io/)
 - 邮箱 damoresclub@protonmail.com
-- 网络讨论平台：[hackmd](https://hackmd.io/), [Matters](https://matters.news), [2049bbs](https://2049bbs.xyz)等对匿名友好的网站组成的[跨平台匿名社区](https://hackmd.io/Z_GJTJznRU-tGxUAq7pllg?view) 
+- 网络讨论平台：[hackmd](https://hackmd.io/), [Matters](https://matters.news/@DamoresClub), [2049bbs](https://2049bbs.xyz)等对匿名友好的网站组成的[跨平台匿名社区](https://hackmd.io/Z_GJTJznRU-tGxUAq7pllg?view) 
 - 加入编辑团队：注册[hackmd.io](https://hackmd.io/)并将帐号在上述平台用以下加密私信告诉我
 - 加密联系方法：[RSA加密通信发送阅后即焚链接在公共平台实现私信](https://matters.news/@kp2020/%E7%94%A8%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86%E5%92%8C%E9%96%B1%E5%BE%8C%E5%8D%B3%E7%84%9A%E5%9C%A8%E5%85%AC%E5%85%B1%E8%AB%96%E5%A3%87%E5%AE%89%E5%85%A8%E7%9A%84%E7%A7%81%E8%81%8A-zdpuAsFV4yPhakL4vDLT2KqAyssnbmF54bj46dBrFLHrUsDRH)
 - 俱乐部官方RSA公钥
