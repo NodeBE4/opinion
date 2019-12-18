@@ -30,6 +30,8 @@ navigation:
     url: /tags
   - name: 库藏
     url: /tools
+  - name: 作者
+    url: /authors
   - name: RSS
     url: /atom.xml
 
