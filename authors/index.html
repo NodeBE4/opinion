@@ -14,9 +14,8 @@ permalink: /authors/
       {{ author.name }}
     </h2>
     <ul class="tag">
-      {% assign filtered_posts = site.posts | where: 'author', author %}
-      {% for post in filtered_posts %}
-        {% if post.title != null %}
+      {% for post in site.posts %}
+        {% if post.author == author %}
           <li>
             {% if post.link %}
               <a href="{{ post.link }}">
