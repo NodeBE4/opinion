@@ -8,26 +8,24 @@ permalink: /authors/
   <h2>No post found</h2>
 {% endif %}
 
-<div class="tags">
-  {% for author in site.data.authors %}
-    <h2 id="{{ author.name }}">
-      {{ author.name }}
-    </h2>
-    <ul class="tag">
-      {% for post in site.posts %}
-        {% if post.author == author %}
-          <li>
-            {% if post.link %}
-              <a href="{{ post.link }}">
-            {% else %}
-              <a href="{{ site.baseurl }}{{ post.url }}">
-            {% endif %}
-                {{ post.title }}
-              </a>
-              <time>{{ post.date | date: "%Y-%m-%d" }}</time>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endfor %}
-</div>
+{% for author in site.data.authors %}
+  <h2 id="{{ author[1].name }}">
+    {{ author[1].name }}
+  </h2>
+  <ul class="tag">
+    {% for post in site.posts %}
+      {% if post.author == author[1].name %}
+        <li>
+          {% if post.link %}
+            <a href="{{ post.link }}">
+          {% else %}
+            <a href="{{ site.baseurl }}{{ post.url }}">
+          {% endif %}
+              {{ post.title }}
+            </a>
+            <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endfor %}
