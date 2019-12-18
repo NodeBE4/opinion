@@ -12,6 +12,9 @@ Kiko Now [Original README](https://github.com/aweekj/kiko-now/blob/master/README
 - 然后将文档的所有权转给 DamoresClub
 - 我将编辑好之后的Hackmd文档发布，并且同步到网站上，大约几分钟到几小时之后文章网站可见。
 
+### 方法3
+- 将你的文章的链接通过电子邮件或阅后即焚发到 damoresclub@protonmail.com
+
 ### 注册hackmd.io
 hackmd.io的注册非常匿名友好，支持mail2tor, protonmail, tutanota等匿名邮箱。
 
