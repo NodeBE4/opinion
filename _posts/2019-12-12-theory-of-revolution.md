@@ -7,7 +7,6 @@ author: Merlin
 comments: true
 ---
 
-- 作者: Merlin
 - 原文: [https://2049bbs.xyz/t/2223](https://2049bbs.xyz/t/2223)
 
 无意间看到@懦夫斯基的[文章](https://pincong.rocks/article/6119)，很不错呀，忍不住跳出来做一个简单（但非科普向，且需要自己动手查阅原文）的索引：
