@@ -4,10 +4,10 @@ title: "「论文」极权政府如何控制社会公共舆论"
 date: 2019-11-08
 tags: [论文, 传播, 互联网, 言论, 公共舆论, 社交媒体]
 author: 逻辑思维
+from: https://2049bbs.xyz/t/1639
+hackmd: Me1nOoP-SWW42MDuy4fVvQ
 comments: true
 ---
-
-- 原文: https://2049bbs.xyz/t/1639
 
 推荐一篇2017年Kangqi Fan跟Witold Pedrycz合著的论文 ***广播媒体影响下的封闭社会中的公共舆论演化*** 
 Kangqi Fan, Witold Pedrycz, "Evolution of public opinions in closed societies influenced by broadcast media", Physica A: Statistical Mechanics and its Applications, 15 April 2017, https://doi.org/10.1016/j.physa.2017.01.027
