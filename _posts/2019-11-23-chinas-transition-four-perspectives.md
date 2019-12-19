@@ -4,10 +4,10 @@ title: "「原创」关于中国民主化转型的四种观点"
 author: 懦夫斯基
 date: 2019-11-23
 tags: [原创, 国际关系, 理论, 民主化, 裴敏欣]
+from: https://web.archive.org/web/20191218023354/https://pincong.rocks/article/9308
+hackmd: hWukrEImSnSEq0g6aW6Qgg
 comments: true
 ---
-
-- 链接: [https://pincong.rocks/article/9308](https://web.archive.org/web/20191218023354/https://pincong.rocks/article/9308)
 
 **目标读者**：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
 
