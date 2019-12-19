@@ -21,7 +21,7 @@ hackmd.io的注册非常匿名友好，支持mail2tor, protonmail, tutanota等�
 如果你用Tor Browser或者双虚拟机的话应该问题不大，另外你也不必用这个ID注册hackmd。
 
 ### 非注册用户编辑
-其实您不注册hackmd也可以参与文档编辑，您可在非登录状态对任意一个hackmd的文档的某个具体段落留言。
+其实您不注册hackmd也可以参与文档编辑，您可在非登录状态对任意一个hackmd的文档的某个具体段落留言，具体[官方教程](https://hackmd.io/c/tutorials/%2Fs%2Fhow-to-use-comments)
 
 比如这篇文章 https://hackmd.io/@DamoresClub/left-right-political-spectrum
 
