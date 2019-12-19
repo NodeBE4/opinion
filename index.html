@@ -37,6 +37,20 @@ layout: default
           </li>
           {% endfor %}
         </ul>
+        
+        {% if post.from %}
+            <span>
+                <!-- Personal Info. -->
+                <a href="{{ post.from }}">来源</a>  
+            </span>
+        {% endif %}    
+
+        {% if post.hackmd %}
+            <span>
+                <!-- Personal Info. -->
+                MD: <a href="https://hackmd.io/{{ post.hackmd }}?view">逐段点评</a> 
+            </span>
+        {% endif %}            
       </div>
 
       <div class="entry">
