@@ -4,11 +4,10 @@ title: "「原创」微博爱国党盛行，我们无需痛恨，更无需绝望
 date: 2019-10-06
 author: 懦夫斯基
 tags: [原创, 理论, 舆论, 政治学]
+from: https://web.archive.org/web/20191110033536/https://pincong.rocks/article/6119
+hackmd: yjXMxvrDSXC-_8XgfNVpHA
 comments: true
 ---
-
-
-- 链接： [https://pincong.rocks/article/6119](https://web.archive.org/web/20191110033536/https://pincong.rocks/article/6119)
 
 **目标读者**：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
 
