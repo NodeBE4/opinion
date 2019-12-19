@@ -4,10 +4,10 @@ title: "「论文」社交媒体上的政治讨论"
 date: 2019-11-18
 author: Merlin
 tags: [论文, 社交媒体, 政治, 讨论]
+from: https://2049bbs.xyz/t/1852
+hackmd: reK1zNU-RJi2WB-Fv_NRLQ
 comments: true
 ---
-
-- 原文: [https://2049bbs.xyz/t/1852](https://2049bbs.xyz/t/1852)
 
 Sujin Choi, Flow, Diversity, Form, and Influence of Political Talk in Social-Media-Based Public Forums, Human Communication Research, Volume 40, Issue 2, 1 April 2014, Pages 209–237, [https://doi.org/10.1111/hcre.12023](https://doi.org/10.1111/hcre.12023)
 
