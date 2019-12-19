@@ -4,10 +4,10 @@ title: "「原创」中国人不适合民主吗？——文化与政治制度"
 author: 懦夫斯基
 date: 2019-12-15
 tags: [原创, 文化, 意识形态, 民主, 政治, 文明冲突]
+from: https://2049bbs.xyz/t/2272
+hackmd: _pfatXO1R5CAexo2Ffosrw
 comments: true
 ---
-
-- 链接： [https://2049bbs.xyz/t/2272](https://2049bbs.xyz/t/2272)
 
 **目标读者**：刚开始接触自由世界政治讨论，对政治理论几乎一无所知的新难民。
 
