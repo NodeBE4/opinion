@@ -4,10 +4,10 @@ title: "「索引」有关革命的理论"
 date: 2019-12-12
 tags: [索引, 革命, 理论, 论文]
 author: Merlin
+from: https://2049bbs.xyz/t/2223
+hackmd: T-baHgYETPGMNTS1Pc8ZuQ
 comments: true
 ---
-
-- 原文: [https://2049bbs.xyz/t/2223](https://2049bbs.xyz/t/2223)
 
 无意间看到@懦夫斯基的[文章](https://pincong.rocks/article/6119)，很不错呀，忍不住跳出来做一个简单（但非科普向，且需要自己动手查阅原文）的索引：
 
