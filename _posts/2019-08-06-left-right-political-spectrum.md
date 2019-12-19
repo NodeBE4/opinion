@@ -4,10 +4,10 @@ title: "「原创」左-右政治光谱及中共对其畸化"
 date: 2019-08-06
 author: 懦夫斯基
 tags: [原创, 政治, 政治光谱, 洗脑, 定义]
+from: https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881
+hackmd: dY6UmMfHT761XjJAcuLvZg
 comments: true
 ---
-
-- 链接： [https://pincong.rocks/article/2881](https://web.archive.org/web/20191110033015/https://pincong.rocks/article/2881)
 
 **目标读者**：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
 
