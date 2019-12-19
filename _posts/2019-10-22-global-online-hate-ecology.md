@@ -4,10 +4,10 @@ title: "「论文」关于网络极端言论，仇恨传播，抱团及反仇恨
 author: Merlin
 date: 2019-10-22
 tags: [论文, 极端言论, 仇恨, 传播, 网络]
+from: https://2049bbs.xyz/t/1554
+hackmd: bgRDkh5tSJmCv6_-hdUkaQ
 comments: true
 ---
-
-- 原文: [https://2049bbs.xyz/t/1554](https://2049bbs.xyz/t/1554)
 
 论文标题：Hidden resilience and adaptive dynamics of the global online hate ecology 作者：N. F. Johnson, R. Leahy, N. Johnson Restrepo, N. Velasquez, M. Zheng, P. Manrique, P. Devkota, S. Wuchty
 
