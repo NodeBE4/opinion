@@ -5,13 +5,11 @@ tags: [索引, 数字极权, 极权主义, 监控]
 date: 2019-07-18
 author: KP2020
 description: "搜集整理数字集权/极权相关研究报告、论文和书籍"
+from: https://github.com/newjrs/newjrs.github.io/blob/master/digitalTotalitarianism.md
+hackmd: fNHi1SCmSsy7reL5Z97ojw
 comments: true
 ---
-- 作者： KP2020
-- [原始链接](https://github.com/newjrs/newjrs.github.io/blob/master/digitalTotalitarianism.md)
 
-
-## 正文
 搜集整理数字集权/极权相关研究报告、论文和书籍
 
 1. 张千帆, [极权主义的建构与解构](https://ipfs.ink/e/QmdRY16z6ZFrtHnDsJMBVukVta14Ri9Q4KNhUJ6SBGHQHa), 中国战略分析总第1期, 2017年01月13日 [存档](https://archive.ph/67VFR)
