@@ -32,6 +32,8 @@ navigation:
     url: /authors
   - name: 库藏
     url: /tools
+  - name: 编辑
+    url: https://hackmd.io/@DamoresClub
 
 # Pagination
 paginate: 25
@@ -53,9 +55,10 @@ footer-links:
   tumblr: # https://<username>.tumblr.com
   twitter: # jekyllrb
   youtube: # channel/<your_long_string> or user/<user-name>
+  hackmd: DamoresClub
 
 # Text under the icons in footer
-footer-text: © 2019 Kiko Now + © 
+footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a>, <a href="https://intensedebate.com/">IntenseDebate</a>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
