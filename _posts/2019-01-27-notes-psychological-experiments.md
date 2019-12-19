@@ -4,13 +4,12 @@ title: "「原创」极简的四十个心理学实验总结，重点自带下划
 date: 2019-01-27
 author: Merlin
 tags: [原创, 笔记, 心理学]
+from: https://web.archive.org/web/20190823134705/https://pincong.rocks/article/521
+hackmd: 3i-CTNzNRMm3NxGVQ5d8tQ
 comments: true
 ---
 
-- 链接： [https://pincong.rocks/article/521](https://web.archive.org/web/20190823134705/https://pincong.rocks/article/521)
-
 ## 引言：
-
 Once upon a time， 心理学实验还没有严格的道德标准，于是诞生出了一些列无法再重复的著名实验（不过以下不全是变态实验）......
 
 ## 人类行为的生理基础：
