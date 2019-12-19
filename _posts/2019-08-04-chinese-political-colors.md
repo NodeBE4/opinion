@@ -4,11 +4,10 @@ title: "「原创」中文世界政治立场颜色一览"
 date: 2019-08-04
 author: 懦夫斯基
 tags: [原创, 政治, 颜色, 立场]
+from: https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821
+hackmd: -v5QFqdOQMSrLSfDTiWo3w
 comments: true
 ---
-
-- 链接： [https://pincong.rocks/article/2821](https://web.archive.org/web/20191110033043/https://pincong.rocks/article/2821)
-
 
 **目标读者**：刚开始接触自由世界政治新闻，对其他国家地区政治几乎一无所知的新难民。
 
