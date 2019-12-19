@@ -29,16 +29,18 @@ layout: default
       </li>
       {% endfor %}
     </ul>
-    {% if from_url %}
+    
+    {% if from %}
         <span>
             <!-- Personal Info. -->
-            <a href="{{ from_url }}">来源</a>  
+            <a href="{{ from }}">来源</a>  
         </span>
     {% endif %}    
-    {% if hackmd_url %}
+    
+    {% if hackmd %}
         <span>
             <!-- Personal Info. -->
-            MD: <a href="{{ hackmd_url }}">逐段点评</a> 
+            MD: <a href="https://hackmd.io/{{ hackmd }}?view">逐段点评</a> 
         </span>
     {% endif %}    
   </div>
