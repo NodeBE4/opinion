@@ -37,17 +37,6 @@ layout: default
           </li>
           {% endfor %}
         </ul>
-        
-        {% if site.intensedebate %}
-          
-            <script>
-            var idcomments_acct = '{{ site.intensedebate }}';
-            var idcomments_post_id = '{{ post.url }}';
-            var idcomments_post_url = '{{ site.url }}{{ site.baseurl }}{{ post.url }}';
-            </script>
-            <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
-          
-        {% endif %}
       </div>
 
       <div class="entry">
@@ -57,6 +46,17 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+  {% if site.intensedebate %}
+
+      <script>
+      var idcomments_acct = '{{ site.intensedebate }}';
+      var idcomments_post_id;
+      var idcomments_post_url;
+      </script>
+      <script type="text/javascript" src="https://www.intensedebate.com/js/genericLinkWrapperV2.js"></script>
+
+   {% endif %}
+
 </div>
 
 <div class="pagination">
