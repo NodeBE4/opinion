@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "「原创」从蛋糕店案说美国的联邦权与州权历史"
+title: "「原创」从蛋糕店案说美国的联邦权与州权历史（侵删）"
 date: 2019-04-03
 author: 平章律事
 tags: [原创, 法律, 地方权力]
+from: https://web.archive.org/web/20190823123042/https://pincong.rocks/article/1108
+hackmd: utR0C1J6RmywKdUGu-L-eQ
 comments: true
 ---
-
-- 链接：[https://pincong.rocks/article/1108](https://web.archive.org/web/20190823123042/https://pincong.rocks/article/1108) （侵删）
 
 蛋糕店这个案子是最高法院出的最新的关于LGBT的案子。这个案子在国内许多平台上也有了广泛的讨论。但大部分的讨论都或多或少地对这个案子有一些误解。我今天就来解释一下这个案子中容易出现的一些误解。
 
