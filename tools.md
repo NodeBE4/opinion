@@ -2,10 +2,11 @@
 layout: page
 title: 工具搜藏夹
 permalink: /tools/
+hackmd: q-frOpExQxmvCySN8_QrjA
 tags: [工具, 智库, 搜藏]
 ---
 
-欢迎在[这里](https://hackmd.io/@DamoresClub/tools)留言补充  
+欢迎在[这里](https://hackmd.io/q-frOpExQxmvCySN8_QrjA?view)留言补充  
 
 ## 智库
 * [50个最有影响力的美国智库](https://thebestschools.org/features/most-influential-think-tanks/)
@@ -66,6 +67,7 @@ tags: [工具, 智库, 搜藏]
 
 ## 趣味
 * PolitiScale 在线政治测试 [https://www.politiscales.net/](https://www.politiscales.net/)
+* （英文）8项价值观测试 [https://8values.github.io](https://8values.github.io)
 * 世界价值观普查： [https://www.worldvaluessurvey.org](https://www.worldvaluessurvey.org)
 * 链接中国--中国官场关系和权力机构图 [http://china.fathom.info/](http://china.fathom.info/)
 * 劳改档案数据库 [https://laogairesearch.org/](https://laogairesearch.org/)，[中文](https://laogairesearch.org/lang=zh-hant) 
