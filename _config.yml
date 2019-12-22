@@ -13,7 +13,7 @@ description: 站在巨人们的肩上看世界
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://img.icons8.com/ios/100/000000/d.png
+avatar: https://damoresclub.github.io/images/d.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -69,8 +69,8 @@ intensedebate: 13bdf6c9084970458179741d3a6af6cf
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Enter your Clicky Analytics Web tracking code 
-clicky_analytics: 
+# Enter your Clicky Analytics Web tracking code
+clicky_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
