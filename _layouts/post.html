@@ -11,15 +11,15 @@ layout: default
     <span class="date">
       {{ page.date | date: "%Y-%m-%d" }}
     </span>
-    
+
     <!-- Output author details if some exist. -->
     {% if author %}
         <span>
             <!-- Personal Info. -->
-            作者: <a href="{{ author.web }}">{{ author.name }}</a> 
+            作者: <a href="{{ author.web }}">{{ author.name }}</a>
         </span>
     {% endif %}
-    
+
     <ul class="tag">
       {% for tag in page.tags %}
       <li>
@@ -29,20 +29,20 @@ layout: default
       </li>
       {% endfor %}
     </ul>
-    
+
     {% if page.from %}
         <span>
             <!-- Personal Info. -->
-            <a href="{{ page.from }}">来源</a>  
+            <a href="{{ page.from }}">来源</a>
         </span>
-    {% endif %}    
-    
+    {% endif %}
+
     {% if page.hackmd %}
         <span>
             <!-- Personal Info. -->
-            MD: <a href="https://hackmd.io/{{ page.hackmd }}?view">逐段点评</a> 
+            MD: <a href="https://hackmd.io/{{ page.hackmd }}?view">逐段点评</a>
         </span>
-    {% endif %}    
+    {% endif %}
   </div>
 
   <div class="entry">
@@ -53,14 +53,14 @@ layout: default
     {% if page.previous.url %}
       <span class="prev" >
           <a href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
-            &#xE000; {{ page.previous.title }}
+            上一篇：{{ page.previous.title }}
           </a>
       </span>
     {% endif %}
     {% if page.next.url %}
       <span class="next" >
           <a href="{{ site.url }}{{ site.baseurl }}{{ page.next.url }}">
-            {{ page.next.title }} &#xE001;
+            下一篇：{{ page.next.title }}
           </a>
       </span>
     {% endif %}
