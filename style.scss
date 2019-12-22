@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-h1, h2, h3, h5 {
+h1, h2, h3, h4, h5 {
   font-weight: bold;
 }
 
@@ -62,7 +62,6 @@ h3 {
 
 h4 {
   font-size: 20px;
-  color: $base-lighten-color;
 }
 
 h6 {
@@ -71,7 +70,8 @@ h6 {
 
 p {
   color: $text-color;
-  margin: 15px 0;
+  margin: 15px 0px;
+  text-align: justify;
 }
 
 a {
@@ -81,6 +81,11 @@ a {
   &:hover, &:active {
     color: $link-color;
   }
+}
+
+figcaption {
+  text-align: center;
+  font-size: medium;
 }
 
 em, i {
@@ -103,7 +108,7 @@ sup {
 
 hr {
   border: 0;
-  border-top: 1px solid $divider-color;
+  border-top: 2px solid $divider-color;
   margin: 1.5em auto;
 }
 
@@ -215,15 +220,14 @@ tbody tr:nth-child(odd) th {
 blockquote {
   font-weight: 300;
   padding: 0 0 0 1.4rem;
-  margin: 0 2rem 1rem 0;
+  margin: 0 2.0rem 1rem 0rem;
   border-left: .2em solid $blockquote-border-color;
+  text-align: justify;
 
   p {
-    color: $blockquote-color;
-  }
-
-  p:last-child {
     margin-bottom: 0;
+    font-family: 'Palatino Linotype','Book Antiqua',Palatino,STKaiti,KaiTi,'楷体',
+      SimKai,DFKai-SB,NSimSun,serif
   }
 }
 
@@ -258,7 +262,8 @@ a.footnote {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1em;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 5px;
 }
 
@@ -368,6 +373,7 @@ img {
 
   @include mobile {
     margin: 3px 0;
+    text-align: center;
   }
 }
 
@@ -558,6 +564,7 @@ footer {
 
   p {
     font-size: $small-font-size;
+    text-align: center;
   }
 
   .svg-icon {
