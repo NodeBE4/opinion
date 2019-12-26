@@ -41,6 +41,7 @@ tags: [工具, 智库, 搜藏]
 * https://www.solidot.org
 * https://slashdot.org/
 * https://nei.st/
+* https://gravitysworm.com/
 * 中国数字时代 https://chinadigitaltimes.net/chinese/
 * https://old.reddit.com/r/geopolitics
 * 纵揽中国 http://www.chinainperspective.com/
@@ -63,6 +64,7 @@ tags: [工具, 智库, 搜藏]
 * 大众科学： https://www.popsci.com/
 * 科学美国人： https://www.scientificamerican.com/ 
 * 英国自然：https://www.nature.com/
+* https://ourworldindata.org/
 
 
 ## 趣味
@@ -84,26 +86,29 @@ tags: [工具, 智库, 搜藏]
     * https://tinyurl.com/
 * 在线框图绘制工具 [https://www.draw.io](https://www.draw.io)
 * 动态时间线制作工具 [https://time.graphics](https://time.graphics)
-* 网⻚转PDF工具 https://pdfcrowd.com
+* 网⻚转PDF工具 [https://pdfcrowd.com](https://pdfcrowd.com)
 * 如何用BBCode在回复中发链接 https://www.bbcode.org/reference.php
 * 网⻚转BBCode的工具SCEditor https://www.sceditor.com/
 * 在線匿名圖片儲存
     * [https://imgur.com/](https://imgur.com/)
     * https://postimages.org/
     * http://www.datafilehost.com/
-    * https://sm.ms/
 * 在线文件分享
     * [https://uploadfiles.io/](https://uploadfiles.io/)
-    * https://send.firefox.com
-    * https://drop.me
-    * https://openload.co
-    * https://anonfiles.com 
-    * https://www.mediafire.com/
-    * 星際文件系統IPFS分享 https://ipfs-forever.github.io/
-    * 视频分享 https://ipfstube.erindachtler.me/
-* 阅后即焚
+    * [https://send.firefox.com](https://send.firefox.com)
+    * [https://drop.me](https://drop.me)
+    * [https://openload.co](https://openload.co)
+    * [https://anonfiles.com](https://anonfiles.com) 
+    * [https://www.mediafire.com/](https://www.mediafire.com/)
+    * 星際文件系統IPFS分享 [https://ipfs-forever.github.io/](https://ipfs-forever.github.io/)
+    * 视频分享 [https://ipfstube.erindachtler.me/](https://ipfstube.erindachtler.me/)
+* 阅后即焚消息服务
     * [https://naive.cf](https://naive.cf) 
     * [https://privnote.com](https://privnote.com)
     * [https://zerobin.net](https://zerobin.net)
+    * [https://bin.privacytools.io/](https://bin.privacytools.io/)
+    * [https://privnote.com/](https://privnote.com/)
+    * [https://safenote.co/](https://safenote.co/)
+    * [https://temp.pm/](https://temp.pm/)
 
 ###### tags: `工具` `智库` `搜藏`
