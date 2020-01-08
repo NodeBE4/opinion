@@ -10,12 +10,14 @@ permalink: /about/
 - 编辑部(后端) [https://hackmd.io/@DamoresClub](https://hackmd.io/@DamoresClub)
 - 关注本站 [https://DamoresClub.github.io/](https://DamoresClub.github.io/) 或订阅RSS
 - 邮箱投稿 damoresclub@protonmail.com
-- 网络讨论平台：[hackmd](https://hackmd.io/), [Matters](https://matters.news/@DamoresClub), [2049bbs](https://2049bbs.xyz)等对匿名友好的网站组成的[跨平台匿名社区](https://hackmd.io/Z_GJTJznRU-tGxUAq7pllg?view) 
+- 网络讨论平台：[hackmd](https://hackmd.io/), [Matters](https://matters.news/@DamoresClub), [2049bbs](https://2049bbs.xyz)等对匿名友好的网站组成的[跨平台匿名社区](https://hackmd.io/Z_GJTJznRU-tGxUAq7pllg?view)
 - 加入编辑团队：注册[hackmd.io](https://hackmd.io/)并将帐号在上述平台用以下加密私信告诉我
 - 加密联系方法：[RSA加密通信发送阅后即焚链接在公共平台实现私信](https://matters.news/@kp2020/%E7%94%A8%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86%E5%92%8C%E9%96%B1%E5%BE%8C%E5%8D%B3%E7%84%9A%E5%9C%A8%E5%85%AC%E5%85%B1%E8%AB%96%E5%A3%87%E5%AE%89%E5%85%A8%E7%9A%84%E7%A7%81%E8%81%8A-zdpuAsFV4yPhakL4vDLT2KqAyssnbmF54bj46dBrFLHrUsDRH)
 - 俱乐部官方RSA公钥
 
->MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm0r2bxOq6Sss3ehDcPsJdNJQXyaEI/nkByF5o1QjIIKMBJtGba5Uf5gHunhFUhQaLfohok+XUT6RQUbhZdIEe31XKn4xf4yCvS65JKoSqVSvatBqcjF4DzWhWzTnntof2xUrQastcinqiWn0Ho8a5qN6NfkBB5ZLk2AfNXUCN8h7APoa6je1Mi0pMh8gksl62BekSONpQQu1jfcLbGVWaaUyLPLvMZJ1SNLokL/MkOkk5jDT0x/Sl+NAhjmQN7vpTKq5VrlZ2YwD3+YSVt0RrFpz2oEB5IuDpXFq2dwpZer7ji4Ao5BNpoYu+MrWPt2ECrVzCTWKBnk9wwuXAAV17T95krFbyG+lr9ohtnFlx1bQhLbofrJ24xTuetHet2XpQz6ck1lCOgvYDk6qlf4KOvMw6QpWLh9mppcVG2/MslpDJJa1c89gNZHB230Odu/9C288AVoIf3lSoMaCOLubuuAf55wHviMoyVa2hQD8kxif/LY0gqll7xrfx4xTjhoAT0cHxdvlzInjw4Wu17fR57V94zOh8fdi2fzIXgGyGTdd4Vp/fN0703xRREAsePZVp4zJC7aU+SF3n5ds1+FTbOGOezmkYWngqdKKGHTR8hR9CpYxs7YVvdWa5m4wiQKdPBio318xpxtP9zPdSpmIPLkb+xi8ZqeD4NSozOyUOgsCAwEAAQ==
+```text
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm0r2bxOq6Sss3ehDcPsJdNJQXyaEI/nkByF5o1QjIIKMBJtGba5Uf5gHunhFUhQaLfohok+XUT6RQUbhZdIEe31XKn4xf4yCvS65JKoSqVSvatBqcjF4DzWhWzTnntof2xUrQastcinqiWn0Ho8a5qN6NfkBB5ZLk2AfNXUCN8h7APoa6je1Mi0pMh8gksl62BekSONpQQu1jfcLbGVWaaUyLPLvMZJ1SNLokL/MkOkk5jDT0x/Sl+NAhjmQN7vpTKq5VrlZ2YwD3+YSVt0RrFpz2oEB5IuDpXFq2dwpZer7ji4Ao5BNpoYu+MrWPt2ECrVzCTWKBnk9wwuXAAV17T95krFbyG+lr9ohtnFlx1bQhLbofrJ24xTuetHet2XpQz6ck1lCOgvYDk6qlf4KOvMw6QpWLh9mppcVG2/MslpDJJa1c89gNZHB230Odu/9C288AVoIf3lSoMaCOLubuuAf55wHviMoyVa2hQD8kxif/LY0gqll7xrfx4xTjhoAT0cHxdvlzInjw4Wu17fR57V94zOh8fdi2fzIXgGyGTdd4Vp/fN0703xRREAsePZVp4zJC7aU+SF3n5ds1+FTbOGOezmkYWngqdKKGHTR8hR9CpYxs7YVvdWa5m4wiQKdPBio318xpxtP9zPdSpmIPLkb+xi8ZqeD4NSozOyUOgsCAwEAAQ==
+```
 
 ## 安全小技巧
 1. 强烈推荐 [https://hackmd.io](https://hackmd.io/) 进行写作和多人编辑
@@ -24,7 +26,7 @@ permalink: /about/
 4. [本站](https://damoresclub.github.io)评论区采用 [intensedebate](https://www.intensedebate.com/) 作为后台，站方不保存你的用户名和密码
 5. 注册[hackmd](https://hackmd.io), [Matters](https://matters.news), [intensedebate](https://www.intensedebate.com/)所需要电子邮件
     * 推荐使用[Protonmail](https://protonmail.com/), [Tutanota](https://tutanota.com/), [OpenMailbox](https://www.openmailbox.org/)等支持匿名和加密的邮件服务
-    * 如果仅仅是注册可用10分钟临时邮箱 [https://bccto.me/](https://bccto.me/) 
+    * 如果仅仅是注册可用10分钟临时邮箱 [https://bccto.me/](https://bccto.me/)
 6. 3种[参与方式](https://github.com/DamoresClub/DamoresClub.github.io/blob/master/README.md)
 
 
@@ -42,7 +44,7 @@ permalink: /about/
 
 
 ## 相关
-***类似网站*** 
+***类似网站***
 - [政见](http://cnpolitics.org)
 - [菜市場政治學](https://whogovernstw.org/)
 - [巷仔口社会学](https://twstreetcorner.org/)
@@ -50,10 +52,9 @@ permalink: /about/
 - [歷史學柑仔店](https://kamatiam.org/)
 - [哲學哲學雞蛋糕](https://phiphicake.blogspot.com/)
 
-***相关讨论*** 
+***相关讨论***
 - [台湾社会科学博客RSS集合](https://2049bbs.xyz/t/1829)
 - [https://2049bbs.xyz/t/2024](https://2049bbs.xyz/t/2024)
 - [James Damore: Google's Ideology Echo Chamber原文](https://2049bbs.xyz/t/2147)
 - [打算创建一个「公民学会」，想听听大家的想法？](https://2049bbs.xyz/t/1654)
 - [大家觉得「政见」cnpolitics.org的业务模式有什么优劣？](https://2049bbs.xyz/t/1639)
-
