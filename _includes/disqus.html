@@ -40,6 +40,7 @@
 	<div id="gitalk-container"></div>
 
 	<script src="{{ site.url}}{{ site.baseurl }}/gitalk.min.js"></script>
+	<script src="{{ site.url}}{{ site.baseurl }}/md5.min.js"></script>
 
   <script type="text/javascript">
 		const gitalk = new Gitalk({
@@ -48,7 +49,7 @@
 		  repo: '{{ site.gitalk.repo }}',
 		  owner: '{{ site.gitalk.owner }}',
 		  admin: ['DamoresClub','TerminusBot'],
-		  id: '{{ page.title }}',      // Ensure uniqueness and length less than 50
+		  id: md5('{{ page.title }}'),      // Ensure uniqueness and length less than 50
 		  distractionFreeMode: false  // Facebook-like distraction free mode
 		})
 
