@@ -58,7 +58,7 @@ footer-links:
   hackmd: DamoresClub
 
 # Text under the icons in footer
-footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a>, <a href="https://intensedebate.com/">IntenseDebate</a>
+footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
