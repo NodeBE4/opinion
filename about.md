@@ -14,7 +14,8 @@ permalink: /about/
 - 加入编辑团队：注册[hackmd.io](https://hackmd.io/)并将帐号在上述平台用以下加密私信告诉我
 - 加密联系方法：[RSA加密通信发送阅后即焚链接在公共平台实现私信](https://matters.news/@kp2020/%E7%94%A8%E9%9D%9E%E5%B0%8D%E7%A8%B1%E5%8A%A0%E5%AF%86%E5%92%8C%E9%96%B1%E5%BE%8C%E5%8D%B3%E7%84%9A%E5%9C%A8%E5%85%AC%E5%85%B1%E8%AB%96%E5%A3%87%E5%AE%89%E5%85%A8%E7%9A%84%E7%A7%81%E8%81%8A-zdpuAsFV4yPhakL4vDLT2KqAyssnbmF54bj46dBrFLHrUsDRH)
 - 俱乐部官方RSA公钥
-MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm0r2bxOq6Sss3ehDcPsJdNJQXyaEI/nkByF5o1QjIIKMBJtGba5Uf5gHunhFUhQaLfohok+XUT6RQUbhZdIEe31XKn4xf4yCvS65JKoSqVSvatBqcjF4DzWhWzTnntof2xUrQastcinqiWn0Ho8a5qN6NfkBB5ZLk2AfNXUCN8h7APoa6je1Mi0pMh8gksl62BekSONpQQu1jfcLbGVWaaUyLPLvMZJ1SNLokL/MkOkk5jDT0x/Sl+NAhjmQN7vpTKq5VrlZ2YwD3+YSVt0RrFpz2oEB5IuDpXFq2dwpZer7ji4Ao5BNpoYu+MrWPt2ECrVzCTWKBnk9wwuXAAV17T95krFbyG+lr9ohtnFlx1bQhLbofrJ24xTuetHet2XpQz6ck1lCOgvYDk6qlf4KOvMw6QpWLh9mppcVG2/MslpDJJa1c89gNZHB230Odu/9C288AVoIf3lSoMaCOLubuuAf55wHviMoyVa2hQD8kxif/LY0gqll7xrfx4xTjhoAT0cHxdvlzInjw4Wu17fR57V94zOh8fdi2fzIXgGyGTdd4Vp/fN0703xRREAsePZVp4zJC7aU+SF3n5ds1+FTbOGOezmkYWngqdKKGHTR8hR9CpYxs7YVvdWa5m4wiQKdPBio318xpxtP9zPdSpmIPLkb+xi8ZqeD4NSozOyUOgsCAwEAAQ==
+
+>MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm0r2bxOq6Sss3ehDcPsJdNJQXyaEI/nkByF5o1QjIIKMBJtGba5Uf5gHunhFUhQaLfohok+XUT6RQUbhZdIEe31XKn4xf4yCvS65JKoSqVSvatBqcjF4DzWhWzTnntof2xUrQastcinqiWn0Ho8a5qN6NfkBB5ZLk2AfNXUCN8h7APoa6je1Mi0pMh8gksl62BekSONpQQu1jfcLbGVWaaUyLPLvMZJ1SNLokL/MkOkk5jDT0x/Sl+NAhjmQN7vpTKq5VrlZ2YwD3+YSVt0RrFpz2oEB5IuDpXFq2dwpZer7ji4Ao5BNpoYu+MrWPt2ECrVzCTWKBnk9wwuXAAV17T95krFbyG+lr9ohtnFlx1bQhLbofrJ24xTuetHet2XpQz6ck1lCOgvYDk6qlf4KOvMw6QpWLh9mppcVG2/MslpDJJa1c89gNZHB230Odu/9C288AVoIf3lSoMaCOLubuuAf55wHviMoyVa2hQD8kxif/LY0gqll7xrfx4xTjhoAT0cHxdvlzInjw4Wu17fR57V94zOh8fdi2fzIXgGyGTdd4Vp/fN0703xRREAsePZVp4zJC7aU+SF3n5ds1+FTbOGOezmkYWngqdKKGHTR8hR9CpYxs7YVvdWa5m4wiQKdPBio318xpxtP9zPdSpmIPLkb+xi8ZqeD4NSozOyUOgsCAwEAAQ==
 
 ## 安全小技巧
 1. 强烈推荐 [https://hackmd.io](https://hackmd.io/) 进行写作和多人编辑
@@ -34,6 +35,8 @@ MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAm0r2bxOq6Sss3ehDcPsJdNJQXyaEI/nkByF5
 我们不一定认同James Damore的观点，但却十分认可他打开公共讨论的正确方式。Damore作为一个生物学博士，不但用从博士训练中获得的系统化学习方法成为Google的软件工程师，还对多样化与包容性这个热门的社会公共话题进行了深入研究，获得远超主流媒体的专业见解，其在闲暇时间撰写的这份备忘录更是实质性促进了整个美国社会在对多样化和包容性议题的理解。
 
 中文世界的高手们，反正你也花大把时间关注社会和政治新闻，甚至在社交媒体上参与公共讨论，为什么不像James Damore那样参与公共讨论呢？在政治、社会、历史等并没有飞速发展的人文领域，像Damore那样获得高水平见解并产生社会影响真的并不难，只要习惯这种正确的打开方式就好。所以，作为像少林达摩院一样聚集了一众Damore般较真的玩家的场所，这里自然就叫 ***达摩(Damore)俱乐部*** 啦。
+
+***达则兼济天下***
 
 为避免被炒或被喝茶请注意匿名，当然做不匿名的硬汉也无所谓。
 
