@@ -64,7 +64,15 @@ footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a
 # You can find your shortname on the Settings page of your Disqus account
 disqus: # damoresclub.disqus.com
 
-intensedebate: 13bdf6c9084970458179741d3a6af6cf
+intensedebate: #13bdf6c9084970458179741d3a6af6cf
+
+gitalk:
+  clientID: 09a67b9b7e8204bb577e
+  clientSecret: 3a3f8d975a81c202d7909562687bf7ebd161f155
+  repo: Comments
+  owner: DamoresClub
+  admin: ['DamoresClub','TerminusBot']
+
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
