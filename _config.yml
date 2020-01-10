@@ -125,3 +125,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+destination: ./build
