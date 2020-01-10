@@ -44,6 +44,7 @@ comments: true
 ### 理解媒体行业和传播原理
 
 - 【入门】Media Studies 101, [https://opentextbc.ca/mediastudies101/，推荐度 ★★★★★ ](https://opentextbc.ca/mediastudies101/)
+- 数字媒体扫盲（英文视频）[https://edu.gcfglobal.org/en/digital-media-literacy/](https://edu.gcfglobal.org/en/digital-media-literacy/)
 - 《传播学教程》第二版 http://www.downcc.com/soft/347264.html 网盘 [https://ufile.io/8vbropft](https://ufile.io/8vbropft)
 - Edward S. Herman, Noam Chomsky, Manufacturing Consent: The Political Economy of the Mass Media, 1988
 - Computational
@@ -101,5 +102,6 @@ redditers: sunjinxiang, [-plenipotentiary-](https://www.reddit.com/user/-plenipo
 
 （如果你是相关领域学生或学者，欢迎在[这里](https://pincong.rocks/article/4604)补充或评论，本帖目标是搜集揭示极权统治与信息操控原理的基础知识，本页内容主要来自网友推荐，或受大众媒体影响较大）
 
+> 本文维护与更新 [name=达摩俱乐部]
 
 ###### tags: `索引` `极权主义` `信息传播` `意识操纵`
