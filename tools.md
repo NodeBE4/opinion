@@ -33,6 +33,24 @@ tags: [工具, 智库, 教育, 搜藏]
 * 中國哲學書電子化計劃 [https://ctext.org/zh](https://ctext.org/zh)
 * 消失的檔案 [http://vanishedarchives.org/](http://vanishedarchives.org/)
 
+
+## 教育科普
+* 世界数字图书馆——国会图书馆与联合国教科文组织协办 [https://www.wdl.org/](https://www.wdl.org/)
+    * [世界历史](https://www.wdl.org/zh/sets/world-history/timeline/)
+    * [中国书籍、手稿、地图和印刷品](https://www.wdl.org/zh/sets/chinese-literature/timeline/)
+    * [欧洲的泥金装饰手抄本](https://www.wdl.org/zh/sets/illuminated-manuscripts/timeline.new/)
+    * [第一次世界大战](https://www.wdl.org/zh/sets/world-war-i/timeline.new/)
+    * [美国历史](https://www.wdl.org/zh/sets/us-history/timeline/)
+* Facing History网站 [https://www.facinghistory.org/topics](https://www.facinghistory.org/topics)
+* Free Online Learning [https://edu.gcfglobal.org/en/](https://edu.gcfglobal.org/en/)
+* 钱钢老师课上的生日报 [https://medium.com/birthday-paper](https://medium.com/birthday-paper)
+* 国际电子工程师协会： https://spectrum.ieee.org/
+* 聚焦科学新闻： https://phys.org/
+* 大众科学： https://www.popsci.com/
+* 科学美国人： https://www.scientificamerican.com/ 
+* 英国自然：https://www.nature.com/
+* https://ourworldindata.org/
+
 ## 社区
 * https://www.iyouport.org
 * https://matters.news
@@ -52,23 +70,6 @@ tags: [工具, 智库, 教育, 搜藏]
 * Prager University https://www.prageru.com/
 * 教会杂志 https://www.churchchina.org/
 * https://github.com/XX-net/XX-Net/wiki/%E5%8D%8E%E8%AF%AD%E5%9C%88%E5%AF%BC%E8%88%AA
-
-## 教育科普
-* 世界数字图书馆——国会图书馆与联合国教科文组织协办 [https://www.wdl.org/](https://www.wdl.org/)
-    * [世界历史](https://www.wdl.org/zh/sets/world-history/timeline/)
-    * [中国书籍、手稿、地图和印刷品](https://www.wdl.org/zh/sets/chinese-literature/timeline/)
-    * [欧洲的泥金装饰手抄本](https://www.wdl.org/zh/sets/illuminated-manuscripts/timeline.new/)
-    * [第一次世界大战](https://www.wdl.org/zh/sets/world-war-i/timeline.new/)
-    * [美国历史](https://www.wdl.org/zh/sets/us-history/timeline/)
-* Facing History网站 [https://www.facinghistory.org/topics](https://www.facinghistory.org/topics)
-* Free Online Learning [https://edu.gcfglobal.org/en/](https://edu.gcfglobal.org/en/)
-* 钱钢老师课上的生日报 [https://medium.com/birthday-paper](https://medium.com/birthday-paper)
-* 国际电子工程师协会： https://spectrum.ieee.org/
-* 聚焦科学新闻： https://phys.org/
-* 大众科学： https://www.popsci.com/
-* 科学美国人： https://www.scientificamerican.com/ 
-* 英国自然：https://www.nature.com/
-* https://ourworldindata.org/
 
 
 ## 趣味
