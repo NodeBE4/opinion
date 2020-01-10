@@ -71,7 +71,9 @@ gitalk:
   clientSecret: 3a3f8d975a81c202d7909562687bf7ebd161f155
   repo: Comments
   owner: DamoresClub
-  admin: ['DamoresClub','TerminusBot']
+  admin:
+    - DamoresClub
+    - TerminusBot
 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
