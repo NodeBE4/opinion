@@ -273,6 +273,7 @@ img {
 }
 
 // Specify the color of the selection
+/*
 ::-moz-selection {
   color: $selection-color;
   background: $selection-background-color;
@@ -281,6 +282,7 @@ img {
   color: $selection-color;
   background: $selection-background-color;
 }
+*/
 
 // Nicolas Gallagher's micro clearfix hack
 // http://nicolasgallagher.com/micro-clearfix-hack/
@@ -600,4 +602,4 @@ footer {
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
-@import "highlights";
+//@import "highlights";
