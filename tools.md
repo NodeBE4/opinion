@@ -4,6 +4,8 @@ title: 互联网搜藏夹
 permalink: /tools/
 hackmd: q-frOpExQxmvCySN8_QrjA
 tags: [工具, 智库, 教育, 搜藏]
+hackmd: q-frOpExQxmvCySN8_QrjA
+comments: true
 ---
 
 欢迎在[这里](https://hackmd.io/q-frOpExQxmvCySN8_QrjA?view)留言补充  
@@ -25,9 +27,9 @@ tags: [工具, 智库, 教育, 搜藏]
 * Internet Encyclopedia of Philosophy [https://www.iep.utm.edu/](https://www.iep.utm.edu/)
 * 无产阶级图书馆 [https://www.proletarian.me/](https://www.proletarian.me/)
 * 百科全书 [https://www.encyclopedia.com/](https://www.encyclopedia.com/)
-* 日本国立图书馆 [http://dl.ndl.go.jp/](http://dl.ndl.go.jp/) 
-* 日本历史档案 [https://www.jacar.go.jp/english/](https://www.jacar.go.jp/english/) 
-* Library Genesis [https://libgen.is/](https://libgen.is/) 
+* 日本国立图书馆 [http://dl.ndl.go.jp/](http://dl.ndl.go.jp/)
+* 日本历史档案 [https://www.jacar.go.jp/english/](https://www.jacar.go.jp/english/)
+* Library Genesis [https://libgen.is/](https://libgen.is/)
 * 華文哲學百科 [http://mephilosophy.ccu.edu.tw](http://mephilosophy.ccu.edu.tw)
 * LibriVox - Free Public Domain Audio Books [https://librivox.org/](https://librivox.org/)
 * 中國哲學書電子化計劃 [https://ctext.org/zh](https://ctext.org/zh)
@@ -47,7 +49,7 @@ tags: [工具, 智库, 教育, 搜藏]
 * 国际电子工程师协会： https://spectrum.ieee.org/
 * 聚焦科学新闻： https://phys.org/
 * 大众科学： https://www.popsci.com/
-* 科学美国人： https://www.scientificamerican.com/ 
+* 科学美国人： https://www.scientificamerican.com/
 * 英国自然：https://www.nature.com/
 * https://ourworldindata.org/
 
@@ -77,7 +79,7 @@ tags: [工具, 智库, 教育, 搜藏]
 * （英文）8项价值观测试 [https://8values.github.io](https://8values.github.io)
 * 世界价值观普查： [https://www.worldvaluessurvey.org](https://www.worldvaluessurvey.org)
 * 链接中国--中国官场关系和权力机构图 [http://china.fathom.info/](http://china.fathom.info/)
-* 劳改档案数据库 [https://laogairesearch.org/](https://laogairesearch.org/)，[中文](https://laogairesearch.org/lang=zh-hant) 
+* 劳改档案数据库 [https://laogairesearch.org/](https://laogairesearch.org/)，[中文](https://laogairesearch.org/lang=zh-hant)
 * 中国大事件时间线 [https://chinatimeline.github.io](https://chinatimeline.github.io)
 
 
@@ -85,7 +87,7 @@ tags: [工具, 智库, 教育, 搜藏]
 * 隐私工具 [英文 https://www.privacytools.io/](https://www.privacytools.io/), [繁中 https://privacytools.twngo.xyz/](https://privacytools.twngo.xyz/)
 * 将Rich Text转化为Markdown的在线工具 [https://euangoddard.github.io/clipboard2markdown/](https://euangoddard.github.io/clipboard2markdown/)
 * 转换为短网址（转https）
-    * [https://bitly.com/Rich](https://bitly.com/Rich) 
+    * [https://bitly.com/Rich](https://bitly.com/Rich)
     * https://www.shorturl.at/
     * http://bit.do/
     * https://tinyurl.com/
@@ -103,12 +105,12 @@ tags: [工具, 智库, 教育, 搜藏]
     * [https://send.firefox.com](https://send.firefox.com)
     * [https://drop.me](https://drop.me)
     * [https://openload.co](https://openload.co)
-    * [https://anonfiles.com](https://anonfiles.com) 
+    * [https://anonfiles.com](https://anonfiles.com)
     * [https://www.mediafire.com/](https://www.mediafire.com/)
     * 星際文件系統IPFS分享 [https://ipfs-forever.github.io/](https://ipfs-forever.github.io/)
     * 视频分享 [https://ipfstube.erindachtler.me/](https://ipfstube.erindachtler.me/)
 * 阅后即焚消息服务
-    * [https://naive.cf](https://naive.cf) 
+    * [https://naive.cf](https://naive.cf)
     * [https://privnote.com](https://privnote.com)
     * [https://zerobin.net](https://zerobin.net)
     * [https://bin.privacytools.io/](https://bin.privacytools.io/)
