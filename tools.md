@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 工具搜藏夹
+title: 互联网搜藏夹
 permalink: /tools/
 hackmd: q-frOpExQxmvCySN8_QrjA
-tags: [工具, 智库, 搜藏]
+tags: [工具, 智库, 教育, 搜藏]
 ---
 
 欢迎在[这里](https://hackmd.io/q-frOpExQxmvCySN8_QrjA?view)留言补充  
@@ -30,6 +30,8 @@ tags: [工具, 智库, 搜藏]
 * Library Genesis [https://libgen.is/](https://libgen.is/) 
 * 華文哲學百科 [http://mephilosophy.ccu.edu.tw](http://mephilosophy.ccu.edu.tw)
 * LibriVox - Free Public Domain Audio Books [https://librivox.org/](https://librivox.org/)
+* 中國哲學書電子化計劃 [https://ctext.org/zh](https://ctext.org/zh)
+* 消失的檔案 [http://vanishedarchives.org/](http://vanishedarchives.org/)
 
 ## 社区
 * https://www.iyouport.org
@@ -59,6 +61,8 @@ tags: [工具, 智库, 搜藏]
     * [第一次世界大战](https://www.wdl.org/zh/sets/world-war-i/timeline.new/)
     * [美国历史](https://www.wdl.org/zh/sets/us-history/timeline/)
 * Facing History网站 [https://www.facinghistory.org/topics](https://www.facinghistory.org/topics)
+* Free Online Learning [https://edu.gcfglobal.org/en/](https://edu.gcfglobal.org/en/)
+* 钱钢老师课上的生日报 [https://medium.com/birthday-paper](https://medium.com/birthday-paper)
 * 国际电子工程师协会： https://spectrum.ieee.org/
 * 聚焦科学新闻： https://phys.org/
 * 大众科学： https://www.popsci.com/
@@ -110,5 +114,10 @@ tags: [工具, 智库, 搜藏]
     * [https://privnote.com/](https://privnote.com/)
     * [https://safenote.co/](https://safenote.co/)
     * [https://temp.pm/](https://temp.pm/)
+* 相似互联网产品查找
+    * https://alternativeto.net/
+    * https://www.similarweb.com
+    * https://www.producthunt.com/
+    * https://www.slant.co/
 
 ###### tags: `工具` `智库` `搜藏`
