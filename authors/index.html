@@ -14,7 +14,7 @@ permalink: /authors/
   </h2>
   <ul class="tag">
     {% for post in site.posts %}
-      {% if post.author == author[1].name %}
+      {% if post.author == author[0] %}
         <li>
           {% if post.link %}
             <a href="{{ post.link }}">

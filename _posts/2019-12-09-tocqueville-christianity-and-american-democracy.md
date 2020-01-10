@@ -3,15 +3,15 @@ layout: post
 title: "「译文」托克维尔论基督教与美国民主"
 date: 2019-12-09
 tags: [书评, 译文, 基督教, 美国, 民主]
-author: 一株株
+author: KP2020
 from: https://2049bbs.xyz/t/2173
 hackmd: WJ89rrjtSDSDSuJHR0KICw
 comments: true
 ---
 
-- 作者: Carson Holloway, Visiting Scholar, 2014-15 Visiting Fellow in American Political Thought. 
+- 作者: Carson Holloway, Visiting Scholar, 2014-15 Visiting Fellow in American Political Thought.
 - 时间: 2016-03-07
-- 链接: [https://www.heritage.org/civil-society/report/tocqueville-christianity-and-american-democracy](https://www.heritage.org/civil-society/report/tocqueville-christianity-and-american-democracy) 
+- 链接: [https://www.heritage.org/civil-society/report/tocqueville-christianity-and-american-democracy](https://www.heritage.org/civil-society/report/tocqueville-christianity-and-american-democracy)
 
 *本文为机器翻译（未校对）*
 
