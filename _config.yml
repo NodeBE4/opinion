@@ -13,7 +13,7 @@ description: 站在巨人们的肩上看世界
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://i.imgur.com/GWuSrBj.png # /images/apple-touch-icon.png # 
+avatar: https://i.imgur.com/GWuSrBj.png # /images/apple-touch-icon.png #
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -111,6 +111,7 @@ kramdown:
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
+  parse_block_html: true
 
 # Set the Sass partials directory, as we're using @imports
 sass:
