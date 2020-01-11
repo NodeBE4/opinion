@@ -2,6 +2,7 @@
 layout: page
 title: 达摩俱乐部：像James Damore一样参与公共讨论
 permalink: /about/
+hackmd: 4nD88YctROSQ69GvXD1TIw
 comments: true
 ---
 
