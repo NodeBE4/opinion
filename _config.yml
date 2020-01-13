@@ -20,8 +20,6 @@ avatar: https://i.imgur.com/GWuSrBj.png # /images/apple-touch-icon.png #
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 首页
-    url: /
   - name: 关于
     url: /about
   - name: 存档
@@ -30,6 +28,8 @@ navigation:
     url: /tags
   - name: 作者
     url: /authors
+  - name: 学者
+    url: /scholars
   - name: 库藏
     url: /tools
   - name: 编辑
