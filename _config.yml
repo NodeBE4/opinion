@@ -130,3 +130,5 @@ exclude:
   - CNAME
 
 destination: ./build
+
+future: false
