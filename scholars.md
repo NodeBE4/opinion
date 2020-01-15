@@ -8,8 +8,11 @@ comments: true
 
 ## 本站相关（完善中）
 
-1. Jannifer Pan
+1. [Jannifer Pan](http://jenpan.com/)
 2. 裴敏欣
+3. [Fred Turner](http://fredturner.stanford.edu/)
+4. [David Y. Yang](http://davidyyang.com/)
+
 
 ## 大众搜集（欢迎补充）
 
