@@ -1,12 +1,7 @@
-language: node_js
-node_js: stable
-
-cache:
-  directories:
-    - node_modules
-
-before_deploy:
-  - "npm run build"
+language: ruby
+rvm:
+  - 2.3
+script: "bundle exec jekyll build"
 
 deploy:
   provider: pages
