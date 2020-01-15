@@ -129,6 +129,6 @@ exclude:
   - README.md
   - CNAME
 
-destination: ./build
+destination: build
 
 future: false
