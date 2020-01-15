@@ -1,8 +1,53 @@
+bundler_args: --without benchmark:development
+script: script/cibuild
+cache: bundler
 language: ruby
+
 rvm:
-  - 2.6.3
- - jruby
- 
+  - &ruby1 2.7.0
+  - &ruby2 2.5.7
+  - &jruby jruby-9.2.9.0
+
+matrix:
+  include:
+    - rvm: *ruby1
+      env: TEST_SUITE=fmt
+      name: "🤖️ Code Format"
+    - rvm: *ruby1
+      env: TEST_SUITE=default-site
+      name: "🏠️ Default Site"
+    - rvm: *ruby1
+      env: TEST_SUITE=profile-docs
+      name: "Profile Docs"
+    - rvm: *ruby1
+      env: TEST_SUITE=memprof
+      name: "Profile Memory Allocation"
+  exclude:
+    - rvm: *jruby
+      env: TEST_SUITE=cucumber
+
+env:
+  matrix:
+    - TEST_SUITE=test
+    - TEST_SUITE=cucumber
+branches:
+  only:
+    - master
+    - source
+    - /.*-stable/
+
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
+
+after_script:
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
+
+before_install:
+  - gem update --system --no-document
+  - gem install bundler --no-document
+
 deploy:
   provider: pages
   skip_cleanup: true
