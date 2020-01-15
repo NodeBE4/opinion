@@ -35,7 +35,7 @@ PS： PCI所用的互动图插件跟我的时间线用的绘图插件都是一�
 
 - Chan, Julian TszKin and Weifeng Zhong. 2019. “The ‘Value’ of Propaganda: Machine Predictions of Rare Events Based on Text Data,” Yale Journal of International Affairs (forthcoming).
 - Chan, Julian TszKin and Weifeng Zhong. 2019. “Predicting Authoritarian Crackdowns: A Machine Learning Approach,” Mercatus Working Paper (forthcoming).
-- Chan, Julian TszKin and Weifeng Zhong. 2019. “Reading China: Predicting Policy Change with Machine Learning.” AEI Economics Working Paper No. 2018-11 (latest version available here).
+- Chan, Julian TszKin and Weifeng Zhong. 2019. “Reading China: Predicting Policy Change with Machine Learning.” AEI Economics Working Paper No. 2018-11 (latest version available [here](https://policychangeindex.org/pdf/Reading_China.pdf)).
 - Chan, Julian TszKin and Weifeng Zhong. 2018. “Policy Change Index: A Simulated Example.” Quantitative Notes, No. 2018-3.
 
 ---
