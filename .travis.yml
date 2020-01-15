@@ -1,7 +1,8 @@
 language: ruby
 rvm:
   - 2.6.3
-
+ - jruby
+ 
 deploy:
   provider: pages
   skip_cleanup: true
