@@ -5,7 +5,10 @@ _site
 .jekyll-cache
 .bundle
 .sass-cache
+.ipynb_checkpoints
 build
 node_modules
 package.json
 Gemfile.lock
+*.ipynb
+*.py
