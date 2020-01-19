@@ -83,4 +83,13 @@ layout: default
       </a>
     </span>
   {% endif %}
+
+  <script>
+  /* post pagination keyboard shortcuts */
+  document.body.onkeyup = function(e){
+    if (e.keyCode == '37') { window.location = '{{ site.baseurl }}{{ paginator.previous_page_path }}'; } // left arrow key
+    if (e.keyCode == '39') { window.location = '{{ site.baseurl}}{{ paginator.next_page_path }}'; } // right arrow key
+  };
+  </script>
+
 </div>
