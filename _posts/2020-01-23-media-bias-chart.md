@@ -4,7 +4,7 @@ title: "「科普」怎样判断一家媒体的「立场」与「可信度」？
 author: 莫道石人一只眼
 date: 2020-01-23
 tags: [科普, 媒体, 数据分析]
-from: https://pincong.rocks/article/12348
+from: https://web.archive.org/web/20200114220248/https://pincong.rocks/article/12348
 hackmd: W9VyTXUuSO2H-KrSLW_gfA
 comments: true
 ---
