@@ -22,7 +22,7 @@ comments: true
 
 ### 极权统治的原理
 
-- [【入门】鲍鹏山讲《商君书》，推荐度 ★★★★★ ](https://pincong.rocks/video/321)
+- [【入门】鲍鹏山讲《商君书》，推荐度 ★★★★★ ](https://youtu.be/wxbZ6ujPxOg)
 - 【入门】乔治·奥威尔《1984》《动物庄园》，赫胥黎《美丽新世界》推荐度 ★★★
 - 张千帆, [极权主义的建构与解构](https://ipfs.ink/e/QmdRY16z6ZFrtHnDsJMBVukVta14Ri9Q4KNhUJ6SBGHQHa), 中国战略分析总第1期, 2017年01月13日
 - 马基雅维利,《君王论》Niccolò Machiavelli, "[_The Prince_](https://en.wikipedia.org/wiki/The_Prince)", 1532
@@ -35,8 +35,8 @@ comments: true
 
 ### 渗透和颠覆（苏共输出革命、中国毛左派如何颠覆改革开放及港澳台、中共大外宣原理）
 
-- [【入门】Yuri Bezmenov: 欺骗是我的工作（完整版，英文）](https://pincong.rocks/video/322)
-- [【入门】Yuri Bezmenov:心理战争 颠覆和控制西方社会（完整版），推荐度 ★★★★★ ](https://pincong.rocks/video/323)
+- [【入门】Yuri Bezmenov: 欺骗是我的工作（完整版，英文）](https://www.youtube.com/watch?v=y3qkf3bajd4)
+- [【入门】Yuri Bezmenov:心理战争 颠覆和控制西方社会（完整版），推荐度 ★★★★★ ](https://www.youtube.com/watch?v=5gnpCqsXE8g)
 - [China’s Overseas United Front Work: Background and Implications for the United States](https://www.uscc.gov/sites/default/files/Research/China%27s%20Overseas%20United%20Front%20Work%20-%20Background%20and%20Implications%20for%20US_final_0.pdf) 中共海外统战工作如何影响华人与西方社会
 - [文革2.0时间线完整版](https://chinatimeline.github.io/ideology_backup1.html)
 
@@ -100,7 +100,7 @@ redditers: sunjinxiang, [-plenipotentiary-](https://www.reddit.com/user/-plenipo
 
 ---
 
-（如果你是相关领域学生或学者，欢迎在[这里](https://pincong.rocks/article/4604)补充或评论，本帖目标是搜集揭示极权统治与信息操控原理的基础知识，本页内容主要来自网友推荐，或受大众媒体影响较大）
+（如果你是相关领域学生或学者，欢迎在[这里](https://damoresclub.github.io/totalitarianism-mass-communication-manipulation)补充或评论，本帖目标是搜集揭示极权统治与信息操控原理的基础知识，本页内容主要来自网友推荐，或受大众媒体影响较大）
 
 > 本文维护与更新 [name=达摩俱乐部]
 
