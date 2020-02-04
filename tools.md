@@ -13,6 +13,7 @@ comments: true
 * [50个最有影响力的美国智库](https://thebestschools.org/features/most-influential-think-tanks/)
 * 天则经济研究所 [http://unirule.cloud/](http://unirule.cloud/)
 * 中国战略分析 [http://zhanlve.org/](http://zhanlve.org/)
+* 独立中文笔会 [https://www.chinesepen.org](https://www.chinesepen.org)
 * 中参馆 [http://www.chinafile.com/](http://www.chinafile.com/)
 * Hudson Institute [https://www.hudson.org](https://www.hudson.org)
 * Center for a New American Security (CNAS) [https://www.cnas.org/](https://www.cnas.org/)
@@ -111,7 +112,6 @@ comments: true
     * 视频分享 [https://ipfstube.erindachtler.me/](https://ipfstube.erindachtler.me/)
 * 阅后即焚消息服务
     * [https://naive.cf](https://naive.cf)
-    * [https://privnote.com](https://privnote.com)
     * [https://zerobin.net](https://zerobin.net)
     * [https://bin.privacytools.io/](https://bin.privacytools.io/)
     * [https://privnote.com/](https://privnote.com/)
