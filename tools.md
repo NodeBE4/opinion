@@ -21,6 +21,7 @@ comments: true
 * Brookings Institution [http://www.brookings.edu/](http://www.brookings.edu/)
 * Heritage Foundation [http://www.heritage.org/](http://www.heritage.org/)
 * The Foundation for Law, Justice and Society [https://www.fljs.org](https://www.fljs.org)
+* Albert Einstein Institution [https://www.aeinstein.org/](https://www.aeinstein.org/)
 
 ## 文献库
 * Stanford Encyclopedia of Philosophy [https://plato.stanford.edu/index.html](https://plato.stanford.edu/index.html)
@@ -30,6 +31,7 @@ comments: true
 * 日本国立图书馆 [http://dl.ndl.go.jp/](http://dl.ndl.go.jp/)
 * 日本历史档案 [https://www.jacar.go.jp/english/](https://www.jacar.go.jp/english/)
 * Library Genesis [https://libgen.is/](https://libgen.is/)
+* Z Library [https://b-ok.cc/](https://b-ok.cc/), [https://b-ok.org/](https://b-ok.org/)
 * 華文哲學百科 [http://mephilosophy.ccu.edu.tw](http://mephilosophy.ccu.edu.tw)
 * LibriVox - Free Public Domain Audio Books [https://librivox.org/](https://librivox.org/)
 * 中國哲學書電子化計劃 [https://ctext.org/zh](https://ctext.org/zh)
