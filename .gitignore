@@ -1,4 +1,5 @@
 _site
+_algolia_api_key
 .DS_Store
 .jekyll
 .jekyll-metadata

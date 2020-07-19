@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: 达摩俱乐部
+name: 观点
 
 # Short bio or description (displayed in the header)
-description: 站在巨人们的肩上看世界
+description: 跟踪优秀的UP主
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://i.imgur.com/GWuSrBj.png # /images/apple-touch-icon.png #
+avatar:  # /images/apple-touch-icon.png #
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -28,12 +28,10 @@ navigation:
     url: /tags
   - name: 作者
     url: /authors
-  - name: 学者
-    url: /scholars
   - name: 库藏
     url: /tools
-  - name: 编辑
-    url: https://hackmd.io/@DamoresClub
+  - name: 论坛
+    url: https://be4.herokuapp.com
 
 # Pagination
 paginate: 25
@@ -42,10 +40,10 @@ paginate: 25
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: damoresclub@protonmail.com
+  email: beauti4@protonmail.com
   facebook:
   flickr:
-  github: DamoresClub/DamoresClub.github.io
+  github: NodeBE4/opinion
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -55,7 +53,6 @@ footer-links:
   tumblr: # https://<username>.tumblr.com
   twitter: # jekyllrb
   youtube: # channel/<your_long_string> or user/<user-name>
-  hackmd: DamoresClub
 
 # Text under the icons in footer
 footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a>
@@ -66,15 +63,6 @@ disqus: # damoresclub.disqus.com
 
 intensedebate: #13bdf6c9084970458179741d3a6af6cf
 
-gitalk:
-  clientID: 09a67b9b7e8204bb577e
-  clientSecret: 3a3f8d975a81c202d7909562687bf7ebd161f155
-  repo: Comments
-  owner: DamoresClub
-  admin:
-    - DamoresClub
-    - TerminusBot
-
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -84,13 +72,13 @@ clicky_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://damoresclub.github.io
+url: https://nodebe4.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl:
+baseurl: "/opinion/"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -132,9 +120,9 @@ exclude:
   - CNAME
 
 algolia:
-  application_id: AQ2NWA6FRT
-  index_name:     DamoresClub # You can replace that with whatever name you want
-  search_only_api_key: 533d855435d988fee73b330d3df4e41c
+  application_id: XPLK8EODKC
+  index_name:     opinion # You can replace that with whatever name you want
+  search_only_api_key: cb6c839c65948b7fcdd13991ad4a4665
   files_to_exclude: [README.md, 404.md, README.ko.md]
 
 destination: build
