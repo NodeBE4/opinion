@@ -17,6 +17,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
-          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
         uses: BryanSchuetz/jekyll-deploy-gh-pages@master
-      - uses: bundle exec jekyll algolia
+      - name: Algolia Indexing
+        env:
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
+        uses: bundle exec jekyll algolia
