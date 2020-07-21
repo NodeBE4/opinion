@@ -2,6 +2,8 @@
 
 访问地址 https://nodebe4.github.io/opinion/
 
+分享短链接 https://git.io/JJCxS
+
 左右键翻页
 
 内容每小时更新一次
