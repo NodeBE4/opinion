@@ -9,7 +9,6 @@ _algolia_api_key
 .ipynb_checkpoints
 build
 node_modules
-package.json
 Gemfile.lock
 *.ipynb
 *.py
