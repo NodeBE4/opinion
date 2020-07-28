@@ -129,7 +129,9 @@ async function performSite(site) {
 
     let articles = await fetchArticles(site)
 
-    articles.filter(x => x.pubDate > lastDate).map(a => {
+    let lastDate = new Date()
+
+    articles.map(a => {
       generateArticle(a)
     })
 
