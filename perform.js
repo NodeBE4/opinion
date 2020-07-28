@@ -127,22 +127,10 @@ async function performSite(site) {
 
     let files = fs.readdirSync(siteFolder)
 
-    let lastId, lastDate
-    if (files.length > 0) {
-      let lastArticle = fs.readFileSync(`${siteFolder}/${files[0]}`, 'utf8')
-      lastDate = +lastArticle.match(/<!--(\d+)-/)[1]
-      // lastId = +files[0].match(/_(\d+).md/)[1]
-      lastId = 0xFFFFF
-    } else {
-      lastId = 0xFFFFF
-      lastDate = 0
-    }
-
     let articles = await fetchArticles(site)
 
     articles.filter(x => x.pubDate > lastDate).map(a => {
-      lastId -= 1
-      generateArticle(a, lastId)
+      generateArticle(a)
     })
 
     // generateList(site)
@@ -151,7 +139,7 @@ async function performSite(site) {
   }
 }
 
-function generateArticle(article, id) {
+function generateArticle(article) {
   let today = new Date()
   let md = renderMD(article)
   let pubDate = timeConverter(article.pubDate)
