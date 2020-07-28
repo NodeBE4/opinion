@@ -13,6 +13,7 @@ let feedxUrls = {
   '野兽爱智慧': 'https://rsshub-node.herokuapp.com/matters/author/philosophia1979',
   'Nei.st': 'https://nei.st/feed',
   '政見': 'http://cnpolitics.org/feed/',
+  '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
 }
 
 async function fetchArticles(site) {
