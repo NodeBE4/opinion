@@ -37,9 +37,15 @@ async function fetchFeedx(site, url) {
   let feed = await parser.parseURL(url)
 
   return feed.items.map(item => {
+    let content;
+    if(item['content:encoded']){
+      content = item['content:encoded']
+    }else{
+      content = item.content
+    }
     return {
       title: item.title,
-      content: item.content,
+      content: content,
       link: item.link,
       pubDate: Date.parse(item.pubDate),
       site: site
