@@ -22,9 +22,9 @@ avatar:  # /images/apple-touch-icon.png #
 navigation:
   - name: 首頁
     url: /
-  - name: 列表
+  - name: 時間
     url: /archive
-  - name: 主題
+  - name: 來源
     url: /tags
   - name: 作者
     url: /authors
@@ -34,7 +34,7 @@ navigation:
     url: /about
 
 # Pagination
-paginate: 25
+paginate: 50
 
 # Includes an icon in the footer for each username you enter
 footer-links:
