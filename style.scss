@@ -463,7 +463,7 @@ nav {
 
 .pagination {
   font-weight: 300;
-  padding: 0 0;
+  padding: 2em 0;
   width: 100%;
   display: inline-block;
 
@@ -506,34 +506,6 @@ nav {
     font-weight: 300;
     margin-left: 3px;
   }
-  /* unvisited link */
-  // a:link {
-  //   color: red;
-  // }
-
-  /* visited link */
-  a:visited {
-    color: gray;
-  }
-
-  /* mouse over link */
-  a:hover {
-    color: hotpink;
-  }
-
-  /* selected link */
-  a:active {
-    color: blue;
-  }
-}
-
-a.tag {
-    display: inline-block;
-    margin: 1px;
-    color: $tag-index-label-color;
-    background-color: $tag-index-label-background-color;
-    border-radius: 3px;
-    font-size: $small-font-size;
 }
 
 // Tags
