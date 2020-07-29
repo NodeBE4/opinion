@@ -18,7 +18,13 @@ layout: default
             <!-- Personal Info. -->
             作者: <a href="{{ author.web }}">{{ author.name }}</a>
         </span>
+    {% elsif page.author %}
+        <span>
+            <!-- Personal Info. -->
+            作者: {{ author.name }}
+        </span>
     {% endif %}
+
 
     <ul class="tag">
       {% for tag in page.tags %}
