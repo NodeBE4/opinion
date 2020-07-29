@@ -11,6 +11,8 @@ let feedxUrls = {
   '透視中國-油管': 'http://fetchrss.com/rss/5dd0cf918a93f8fc5b8b45675dd0e1b18a93f8f3238b4567.xml',
   '透視中國-文章': 'https://tw.sinoinsider.com/feed/',
   '野兽爱智慧': 'https://rsshub.app/matters/author/philosophia1979',
+  'The Sociologist': 'https://sociologist.xyz/feed.xml',
+  'The Sociologist TG': 'https://rsshub.app/telegram/channel/thesoc',
   'Nei.st': 'https://nei.st/feed',
   '政見': 'http://cnpolitics.org/feed/',
   '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
