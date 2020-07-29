@@ -1,11 +1,11 @@
 <!-- Left & centered positioning -->
 <div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
     <a href="https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}" class="ssk ssk-facebook"></a>
-    <a href="https://twitter.com/intent/tweet?url={{site.url}}{{page.url}}&text={{ page.title }}&hashtags=达摩俱乐部" class="ssk ssk-twitter"></a>
+    <a href="https://twitter.com/intent/tweet?url={{site.url}}{{page.url}}&text={{ page.title }}&hashtags={{ site.name }}" class="ssk ssk-twitter"></a>
     <a href="https://reddit.com/submit?url={{site.url}}{{page.url}}&title={{ page.title }}" class="ssk ssk-reddit"></a>
     <a href="https://www.linkedin.com/shareArticle?mini=true&url={{site.url}}{{page.url}}&title={{page.title}}" class="ssk ssk-linkedin"></a>
-    <a href="mailto:{email_address}?subject={{ page.title }}&body={{ page.excerpt }}" class="ssk ssk-email"></a>
+    <a href="mailto:{email_address}?subject={{ page.title }}&body={{ page.excerpt | strip_html }}" class="ssk ssk-email"></a>
     <a href="http://pinterest.com/pin/create/link/?url={{site.url}}{{page.url}}" class="ssk ssk-pinterest"></a>
-    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={{site.url}}{{page.url}}&title={{ page.title }}&caption={{ page.excerpt }}&tags=达摩俱乐部" class="ssk ssk-tumblr"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl={{site.url}}{{page.url}}&title={{ page.title }}&caption={{ page.excerpt | strip_html  }}&tags={{ site.name }}" class="ssk ssk-tumblr"></a>
     <a href="https://buffer.com/add?text={{ page.title }}&url={{site.url}}{{page.url}}" class="ssk ssk-buffer"></a>
 </div>
