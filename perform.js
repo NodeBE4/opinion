@@ -157,7 +157,7 @@ function generateArticle(article) {
     pubDate = today
   }
   let dateString = pubDate.toISOString()
-  let titletext = article.title.toString().replace('"', '\\"').replace('\'','\\\'')
+  let titletext = article.title.toString().replace('"', '\\"')
   let header = `---
 layout: post
 title: "${titletext}"

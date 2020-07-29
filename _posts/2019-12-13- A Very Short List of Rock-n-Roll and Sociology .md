@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " A Very Short List of Rock\'n'Roll and Sociology "
+title: " A Very Short List of Rock'n'Roll and Sociology "
 date: 2019-12-13T17:53:47.000Z
 author: The Sociologist
 from: https://sociologist.xyz/rock-sociology
