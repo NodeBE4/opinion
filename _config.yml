@@ -121,7 +121,8 @@ exclude:
   - README.md
   - CNAME
   - Gemfile
-  - *scraping_records.txt
+  - nei.st_scraping_records.txt
+  - www.chinese-future.org_scraping_records.txt
 
 # algolia:
 #   application_id: XPLK8EODKC
