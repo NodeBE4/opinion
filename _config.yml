@@ -124,6 +124,10 @@ exclude:
   - nei.st_scraping_records.txt
   - www.chinese-future.org_scraping_records.txt
 
+feed:
+  posts_limit: 100
+  tags: true
+
 # algolia:
 #   application_id: XPLK8EODKC
 #   index_name:     opinion # You can replace that with whatever name you want
