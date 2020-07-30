@@ -13,7 +13,6 @@ let feedxUrls = {
   '野兽爱智慧': 'https://rsshub.app/matters/author/philosophia1979',
   'The Sociologist': 'https://sociologist.xyz/feed.xml',
   'The Sociologist TG': 'https://rsshub.app/telegram/channel/thesoc',
-  '衔枚疾进': 'https://rsshub.app/telegram/channel/silentmarching',
   '政見': 'http://cnpolitics.org/feed/',
   '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
 }
