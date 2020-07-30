@@ -25,8 +25,6 @@ async function fetchArticles(site) {
     articles = await fetchFeedx(site, feedxUrls[site])
 //  } else if (site == '中国数字时代') {
 //    articles = await fetchCDT()
-  } else if (site == '自由亚洲电台') {
-    articles = await fetchRFA()
   }
 
   articles.sort((x, y) => x.pubDate - y.pubDate)
@@ -100,21 +98,6 @@ async function performCDT() {
   } catch(e) {
     console.log([site, e])
   }
-}
-
-async function fetchRFA() {
-  let parser = new Parser()
-  let feed = await parser.parseURL('https://www.rfa.org/mandarin/yataibaodao/rss2.xml')
-
-  return feed.items.map(item => {
-    return {
-      title: item.title,
-      content: item['content:encoded'],
-      link: item.guid,
-      pubDate: Date.parse(item.pubDate),
-      site: '自由亚洲电台'
-    }
-  })
 }
 
 async function perform() {
