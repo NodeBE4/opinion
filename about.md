@@ -26,10 +26,11 @@ comments: true
 
 ### 支持离线阅读
 
--   下载仓库， https://github.com/NodeBE4/opinion
+-   下载仓库，`git clone https://github.com/NodeBE4/opinion.git`
 -   安装jekyll, [官方安装教程](https://jekyllrb.com/docs/installation/)
 -   运行`jekyll serve`或 `bundle exec jekyll serve`
 -   打开 http://127.0.0.1:4000/opinion
+-  从github同步 `git pull`
 
 ### 期待更多UP主
 
