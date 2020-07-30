@@ -28,6 +28,8 @@ navigation:
     url: /tags
   - name: 作者
     url: /authors
+  - name: 外媒
+    url: https://nodebe4.github.io/waimei/
   - name: 論壇
     url: https://be4.herokuapp.com
   - name: 關於
