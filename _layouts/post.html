@@ -16,13 +16,17 @@ layout: default
     {% if author %}
         <span>
             <!-- Personal Info. -->
-            作者: <a href="{{ author.web }}">{{ author.name }}</a>
+            <a href="{{ author.web }}" style="font-size:14px;">作者: {{ author.name }}</a>
         </span>
-    {% elsif page.author %}
+    {% else %}
+      {% for tag in page.tags %}
+      {% if tag != page.author %}
         <span>
             <!-- Personal Info. -->
-            作者: {{ page.author }}
+            <a  style="font-size:14px;">作者: {{ page.author }}</a>
         </span>
+      {% endif %}
+      {% endfor %}
     {% endif %}
 
 
@@ -39,7 +43,7 @@ layout: default
     {% if page.from %}
         <span>
             <!-- Personal Info. -->
-            <a href="{{ page.from }}">来源</a>
+            <a href="{{ page.from }}" style="font-size:14px;">原文</a>
         </span>
     {% endif %}
 
