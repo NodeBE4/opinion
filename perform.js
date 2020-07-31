@@ -18,6 +18,7 @@ let feedxUrls = {
   '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
   'Stratechery': 'https://stratechery.com/feed/',
   '兰德研究': 'http://www.rand.org/research_areas/international_affairs/findings.xml',
+  '中参馆': 'http://feeds.feedburner.com/chinafile/All',
 }
 
 async function fetchArticles(site) {
