@@ -16,6 +16,7 @@ let feedxUrls = {
   '衔枚疾进': 'https://rsshub.app/telegram/channel/silentmarching',
   '政見': 'http://cnpolitics.org/feed/',
   '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
+  'Stratechery': 'https://stratechery.com/feed/',
 }
 
 async function fetchArticles(site) {
