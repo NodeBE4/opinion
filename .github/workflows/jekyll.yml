@@ -24,5 +24,3 @@ jobs:
         git add -f build
         git commit -m "Initial build subtree commit"
         git subtree push --prefix ${{ github.workspace }}/build origin gh-pages
-        git push -f origin gh-pages:gh-pages
-        git branch -D gh-pages
