@@ -7,7 +7,6 @@ _algolia_api_key
 .bundle
 .sass-cache
 .ipynb_checkpoints
-build
 node_modules
 Gemfile.lock
 *.ipynb
