@@ -132,6 +132,6 @@ feed:
 #   search_only_api_key: cb6c839c65948b7fcdd13991ad4a4665
 #   files_to_exclude: [README.md, 404.md, README.ko.md]
 
-destination: build
+destination: _site
 
 future: false

@@ -16,7 +16,7 @@ jobs:
         ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
       run: |
         docker run \
-        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/build:/srv/jekyll/build \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/build:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --incremental"
         ls ${{ github.workspace }}/build
         git subtree split --prefix ${{ github.workspace }}/build -b gh-pages
