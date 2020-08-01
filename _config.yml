@@ -26,8 +26,6 @@ navigation:
     url: /archive
   - name: 來源
     url: /tags
-  - name: 作者
-    url: /authors
   - name: 外媒
     url: https://nodebe4.github.io/waimei/
   - name: 論壇
