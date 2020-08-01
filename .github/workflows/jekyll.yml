@@ -19,6 +19,8 @@ jobs:
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/build:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --incremental"
         ls ${{ github.workspace }}/build
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
         git add -f build
         git commit -m "Initial dist subtree commit"
         git subtree split --prefix ${{ github.workspace }}/build -b gh-pages
