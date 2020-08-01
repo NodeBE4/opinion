@@ -23,4 +23,4 @@ jobs:
         git config --global user.name "Your Name"
         git add -f build
         git commit -m "Initial build subtree commit"
-        git subtree push --prefix ${{ github.workspace }}/build origin gh-pages
+        git subtree push --prefix -f ${{ github.workspace }}/build origin gh-pages
