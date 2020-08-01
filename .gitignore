@@ -1,4 +1,5 @@
 _site
+build
 _algolia_api_key
 .DS_Store
 .jekyll
