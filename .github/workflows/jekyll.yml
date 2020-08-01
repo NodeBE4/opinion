@@ -20,6 +20,7 @@ jobs:
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --incremental"
         git config --global user.email "you@example.com"
         git config --global user.name "Your Name"
+        git push origin --delete gh-pages
         git add -f build
         git commit -m "Initial build subtree commit"
         git subtree split --prefix build -b gh-pages
