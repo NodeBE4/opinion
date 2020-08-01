@@ -23,6 +23,6 @@ jobs:
         git config --global user.name "Your Name"
         git add -f build
         git commit -m "Initial build subtree commit"
-        git subtree split --prefix ${{ github.workspace }}/build -b gh-pages
+        git subtree push --prefix ${{ github.workspace }}/build origin gh-pages
         git push -f origin gh-pages:gh-pages
         git branch -D gh-pages
