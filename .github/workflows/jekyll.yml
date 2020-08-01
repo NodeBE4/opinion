@@ -18,6 +18,6 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future --incremental"
-        git subtree split --prefix _site -b gh-pages
+        git subtree split --prefix ${{ github.workspace }}/_site -b gh-pages
         git push -f origin gh-pages:gh-pages
         git branch -D gh-pages
