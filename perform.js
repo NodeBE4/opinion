@@ -17,6 +17,7 @@ let feedxUrls = {
   '政見': 'http://cnpolitics.org/feed/',
   '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
   'Stratechery': 'https://stratechery.com/feed/',
+  'NGOCN': 'https://rsshub.app/matters/author/ngocncat',
 }
 
 async function fetchArticles(site) {
