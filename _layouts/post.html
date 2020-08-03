@@ -83,7 +83,7 @@ layout: default
   {% include copyright.html %}
 
   <div id="sametag">
-    <h4>#{{ page.tags[0] }} 的其它文章</h4>
+    <h4>#{{ page.categories.last }} 的其它文章</h4>
     {% if post_tag_m2.url %}
       <li>
         <time>{{ post_tag_m2.date | date: "%Y-%m-%d" }}</time>
