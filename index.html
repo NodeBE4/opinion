@@ -6,6 +6,27 @@ layout: default
   <h2>No post found</h2>
 {% endif %}
 
+<div id="search-container">
+<input type="text" id="search-input" placeholder="search..."
+  style="margin: 0px 0px 20px 0px; height: 40px; width: 100%;">
+<ul id="results-container"></ul>
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
+
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '{{site.baseurl}}/search.json',
+  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+  noResultsText: 'No results found',
+  limit: 50,
+  fuzzy: true,
+  exclude: ['Welcome']
+})
+</script>
+
 <div class="pagination">
   {% if paginator.previous_page %}
     <span class="prev">
