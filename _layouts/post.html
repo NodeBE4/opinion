@@ -7,8 +7,8 @@ layout: default
 {% assign post_tag_p2 = false %}
 {% assign post_tag_p1 = false %}
 
-{% assign tag = page.tags[0] %}
-{% assign tag_posts = site.tags[tag] %}
+{% assign tag = page.categories.last %}
+{% assign tag_posts = site.categories[tag] %}
 {% for post in tag_posts %}
   {% if post.url == page.url %}
     {% break %}
@@ -16,7 +16,7 @@ layout: default
   {% assign post_tag_m2 = post_tag_m1 %}
   {% assign post_tag_m1 = post %}
 {% endfor %}
-{% assign tag_posts = site.tags[tag] | reverse %}
+{% assign tag_posts = site.categories[tag] | reverse %}
 {% for post in tag_posts %}
   {% if post.url == page.url %}
     {% break %}
@@ -44,14 +44,12 @@ layout: default
             <a href="{{ author.web }}" style="font-size:14px;">作者: {{ author.name }}</a>
         </span>
     {% else %}
-      {% for tag in page.tags %}
-      {% if tag != page.author %}
+      {% if page.categories.last != page.author %}
         <span>
             <!-- Personal Info. -->
             <a  style="font-size:14px;">作者: {{ page.author }}</a>
         </span>
       {% endif %}
-      {% endfor %}
     {% endif %}
 
 
