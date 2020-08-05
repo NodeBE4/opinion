@@ -8,7 +8,7 @@ let feedxUrls = {
   '火光': 'https://2049post.wordpress.com/feed/',
   '萬有引力之蟲': 'http://gravitysworm.tumblr.com/rss',
   '编程随想的博客': 'https://feeds2.feedburner.com/programthink?format=xml',
-  '透視中國-油管': 'http://fetchrss.com/rss/5dd0cf918a93f8fc5b8b45675dd0e1b18a93f8f3238b4567.xml',
+  '透視中國-YouTube': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUGekZ_Ig4dP3NDcJCdOK6aA',
   '透視中國-文章': 'https://tw.sinoinsider.com/feed/',
   '野兽爱智慧': 'https://rsshub.app/matters/author/philosophia1979',
   'The Sociologist': 'https://sociologist.xyz/feed.xml',
@@ -35,13 +35,20 @@ async function fetchArticles(site) {
 }
 
 async function fetchFeedx(site, url) {
-  let parser = new Parser()
+  let parser = new Parser({customFields: {
+                              item: [
+                                ['media:group', 'media:group'],
+                              ]
+                            }
+                          })
   let feed = await parser.parseURL(url)
 
   return feed.items.map(item => {
     let content;
     if(item['content:encoded']){
       content = item['content:encoded']
+    }else if (item['media:group']) {
+      content = item['media:group']['media:description'][0]
     }else{
       content = item.content
     }
