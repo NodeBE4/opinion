@@ -22,8 +22,6 @@ avatar:  # /images/apple-touch-icon.png #
 navigation:
   - name: 首頁
     url: /
-  - name: 時間
-    url: /archive
   - name: 來源
     url: /categories
   - name: 外媒
