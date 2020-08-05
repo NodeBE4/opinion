@@ -4,7 +4,7 @@ title: "扫盲 Linux 逻辑卷管理（LVM）——兼谈 RAID 以及“磁盘�
 date: 2020-06-16T12:41:00.000Z
 author: 编程随想
 from: http://feedproxy.google.com/~r/programthink/~3/TSLjygK2N3c/Linux-Logical-Volume-Manager.html
-tags: [ 编程随想 ]
+tags: [ 编程随想的博客 ]
 categories: [ news, 编程随想 ]
 ---
 <!--1592311260000-->

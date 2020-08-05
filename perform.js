@@ -7,7 +7,7 @@ let URL = urlMod.URL
 let feedxUrls = {
   '火光': 'https://2049post.wordpress.com/feed/',
   '萬有引力之蟲': 'http://gravitysworm.tumblr.com/rss',
-  '编程随想': 'https://feeds2.feedburner.com/programthink?format=xml',
+  '编程随想的博客': 'https://feeds2.feedburner.com/programthink?format=xml',
   '透視中國-油管': 'http://fetchrss.com/rss/5dd0cf918a93f8fc5b8b45675dd0e1b18a93f8f3238b4567.xml',
   '透視中國-文章': 'https://tw.sinoinsider.com/feed/',
   '野兽爱智慧': 'https://rsshub.app/matters/author/philosophia1979',
