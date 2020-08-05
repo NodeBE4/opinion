@@ -5,7 +5,7 @@ date: 2020-07-10T06:02:54.000Z
 author: The Sociologist TG
 from: https://t.me/thesoc/366
 tags: [ The Sociologist TG ]
-categories: [ news, The Sociologist TG ]
+categories: [ The Sociologist TG ]
 ---
 <!--1594360974000-->
 [上世纪七八十年代，美国社会学界逐渐完善对社会运动的研究，ASA 也在 1981 年创建了集体行为与社会运动分会（CBSM），并形成了资源动员的研究范式（resource mob...](https://t.me/thesoc/366)

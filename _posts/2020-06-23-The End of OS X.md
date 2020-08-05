@@ -5,7 +5,7 @@ date: 2020-06-23T17:50:14.000Z
 author: Stratechery
 from: https://stratechery.com/2020/the-end-of-os-x/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1592934614000-->
 [The End of OS X](https://stratechery.com/2020/the-end-of-os-x/)

@@ -5,7 +5,7 @@ date: 2019-12-13T17:53:47.000Z
 author: The Sociologist
 from: https://sociologist.xyz/rock-sociology
 tags: [ The Sociologist ]
-categories: [ news, The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1576259627000-->
 [A Very Short List of Rock'n'Roll and Sociology](https://sociologist.xyz/rock-sociology)

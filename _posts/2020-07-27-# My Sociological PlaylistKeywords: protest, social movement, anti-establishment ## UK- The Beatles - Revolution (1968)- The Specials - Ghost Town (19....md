@@ -5,7 +5,7 @@ date: 2020-07-27T06:14:07.000Z
 author: The Sociologist TG
 from: https://t.me/thesoc/371
 tags: [ The Sociologist TG ]
-categories: [ news, The Sociologist TG ]
+categories: [ The Sociologist TG ]
 ---
 <!--1595830447000-->
 [# My Sociological PlaylistKeywords: protest, social movement, anti-establishment ## UK- The Beatles - Revolution (1968)- The Specials - Ghost Town (19...](https://t.me/thesoc/371)

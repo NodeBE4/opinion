@@ -5,7 +5,7 @@ date: 2020-07-14T14:05:27.000Z
 author: Stratechery
 from: https://stratechery.com/2020/the-tiktok-war/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1594735527000-->
 [The TikTok War](https://stratechery.com/2020/the-tiktok-war/)

@@ -5,7 +5,7 @@ date: 2020-06-02T15:25:44.000Z
 author: Stratechery
 from: https://stratechery.com/2020/dust-in-the-light/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1591111544000-->
 [Dust in the Light](https://stratechery.com/2020/dust-in-the-light/)

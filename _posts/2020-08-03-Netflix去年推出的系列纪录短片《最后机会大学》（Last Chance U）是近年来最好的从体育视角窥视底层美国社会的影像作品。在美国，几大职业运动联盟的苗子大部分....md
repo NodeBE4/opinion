@@ -5,7 +5,7 @@ date: 2020-08-03T17:38:18.000Z
 author: 衔枚疾进
 from: https://t.me/silentmarching/18
 tags: [ 衔枚疾进 ]
-categories: [ news, 衔枚疾进 ]
+categories: [ 衔枚疾进 ]
 ---
 <!--1596476298000-->
 [Netflix去年推出的系列纪录短片《最后机会大学》（Last Chance U）是近年来最好的从体育视角窥视底层美国社会的影像作品。在美国，几大职业运动联盟的苗子大部分...](https://t.me/silentmarching/18)

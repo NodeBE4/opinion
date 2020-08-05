@@ -5,7 +5,7 @@ date: 2020-07-07T14:58:27.000Z
 author: Stratechery
 from: https://stratechery.com/2020/the-slack-social-network/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1594133907000-->
 [The Slack Social Network](https://stratechery.com/2020/the-slack-social-network/)

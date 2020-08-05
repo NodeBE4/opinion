@@ -5,7 +5,7 @@ date: 2020-06-09T16:07:59.000Z
 author: Stratechery
 from: https://stratechery.com/2020/never-ending-niches/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1591718879000-->
 [Never-ending Niches](https://stratechery.com/2020/never-ending-niches/)

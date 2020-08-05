@@ -5,7 +5,7 @@ date: 2020-07-10T17:42:15.000Z
 author: Stratechery
 from: https://stratechery.com/2020/exponent-podcast-india-tiktok-and-the-u-s/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1594402935000-->
 [Exponent Podcast: India, TikTok, and the U.S.](https://stratechery.com/2020/exponent-podcast-india-tiktok-and-the-u-s/)

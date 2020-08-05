@@ -5,7 +5,7 @@ date: 2020-07-31T18:50:15.000Z
 author: 衔枚疾进
 from: https://t.me/silentmarching/17
 tags: [ 衔枚疾进 ]
-categories: [ news, 衔枚疾进 ]
+categories: [ 衔枚疾进 ]
 ---
 <!--1596221415000-->
 [📎今天端傳媒 Initium Media这篇讨论「内循环」的概念和政治逻辑的文章值得一读。除了文章本身之外，值得观察的还有原文评论区里读者对文章的反馈。一部分立场...](https://t.me/silentmarching/17)

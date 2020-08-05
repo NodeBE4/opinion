@@ -5,7 +5,7 @@ date: 2020-08-02T17:51:32.000Z
 author: The Sociologist TG
 from: https://t.me/thesoc/373
 tags: [ The Sociologist TG ]
-categories: [ news, The Sociologist TG ]
+categories: [ The Sociologist TG ]
 ---
 <!--1596390692000-->
 [最近 Annual Review of Sociology 刊出 2020 年第 46 卷 。其中一篇 UNC-CH 社会学系的研究梳理了当下新的媒介环境与社会运动间的相互塑造的过往研究，并提出了...](https://t.me/thesoc/373)

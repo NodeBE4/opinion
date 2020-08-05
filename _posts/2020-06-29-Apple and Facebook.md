@@ -5,7 +5,7 @@ date: 2020-06-29T14:51:46.000Z
 author: Stratechery
 from: https://stratechery.com/2020/apple-and-facebook/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1593442306000-->
 [Apple and Facebook](https://stratechery.com/2020/apple-and-facebook/)

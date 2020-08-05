@@ -5,7 +5,7 @@ date: 2020-08-01T02:01:43.000Z
 author: 火光
 from: https://2049post.wordpress.com/2020/08/01/v2tech3/
 tags: [ 火光 ]
-categories: [ news, 火光 ]
+categories: [ 火光 ]
 ---
 <!--1596247303000-->
 [Shadowsocks 简史](https://2049post.wordpress.com/2020/08/01/v2tech3/)

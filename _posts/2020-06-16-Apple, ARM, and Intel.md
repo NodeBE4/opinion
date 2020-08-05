@@ -5,7 +5,7 @@ date: 2020-06-16T13:02:18.000Z
 author: Stratechery
 from: https://stratechery.com/2020/apple-arm-and-intel/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1592312538000-->
 [Apple, ARM, and Intel](https://stratechery.com/2020/apple-arm-and-intel/)

@@ -5,7 +5,7 @@ date: 2020-07-21T15:55:20.000Z
 author: Stratechery
 from: https://stratechery.com/2020/india-jio-and-the-four-internets/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1595346920000-->
 [India, Jio, and the Four Internets](https://stratechery.com/2020/india-jio-and-the-four-internets/)

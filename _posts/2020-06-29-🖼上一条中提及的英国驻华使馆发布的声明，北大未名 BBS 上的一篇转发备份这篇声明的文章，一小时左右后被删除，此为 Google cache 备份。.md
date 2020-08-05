@@ -5,7 +5,7 @@ date: 2020-06-29T16:30:01.000Z
 author: The Sociologist TG
 from: https://t.me/thesoc/358
 tags: [ The Sociologist TG ]
-categories: [ news, The Sociologist TG ]
+categories: [ The Sociologist TG ]
 ---
 <!--1593448201000-->
 [🖼上一条中提及的英国驻华使馆发布的声明，北大未名 BBS 上的一篇转发备份这篇声明的文章，一小时左右后被删除，此为 Google cache 备份。](https://t.me/thesoc/358)

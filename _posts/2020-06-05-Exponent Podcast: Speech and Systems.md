@@ -5,7 +5,7 @@ date: 2020-06-05T17:22:19.000Z
 author: Stratechery
 from: https://stratechery.com/2020/exponent-podcast-speech-and-systems/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1591377739000-->
 [Exponent Podcast: Speech and Systems](https://stratechery.com/2020/exponent-podcast-speech-and-systems/)

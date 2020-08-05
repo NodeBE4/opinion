@@ -5,7 +5,7 @@ date: 2020-08-04T15:32:20.000Z
 author: Stratechery
 from: https://stratechery.com/2020/antitrust-politics/
 tags: [ Stratechery ]
-categories: [ news, Stratechery ]
+categories: [ Stratechery ]
 ---
 <!--1596555140000-->
 [Antitrust Politics](https://stratechery.com/2020/antitrust-politics/)

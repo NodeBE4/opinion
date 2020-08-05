@@ -150,7 +150,7 @@ date: ${dateString}
 author: ${article.site}
 from: ${article.link}
 tags: [ ${article.site} ]
-categories: [ news, ${article.site} ]
+categories: [ ${article.site} ]
 ---
 `
   md = header + md
