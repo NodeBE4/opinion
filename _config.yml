@@ -114,11 +114,15 @@ plugins:
 exclude:
   - vendor
   - LICENSE
-  - README.md
+  - README*.md
   - CNAME
   - Gemfile
   - nei.st_scraping_records.txt
   - www.chinese-future.org_scraping_records.txt
+  - program-think.blogspot.com*
+  - debug.sh
+  - perform.js
+  - package*
 
 feed:
   posts_limit: 100
