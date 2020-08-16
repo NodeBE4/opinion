@@ -146,14 +146,14 @@ layout: default
     document.body.onkeyup = function(e){
       if (e.keyCode == '37') { window.location = '{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}'; } // left arrow key
       if (e.keyCode == '39') { window.location = '{{ site.url }}{{ site.baseurl }}{{ page.next.url }}'; } // right arrow key
-      if (e.keyCode == '45') { window.location = '{{ site.url }}{{ site.baseurl }}{{ page.post_tag_m1.url }}'; } // insert key
-      if (e.keyCode == '46') { window.location = '{{ site.url }}{{ site.baseurl }}{{ page.post_tag_p1.url }}'; } // delete key
+      if (e.keyCode == '45') { window.location = '{{ site.url }}{{ site.baseurl }}{{ post_tag_m1.url }}'; } // insert key
+      if (e.keyCode == '46') { window.location = '{{ site.url }}{{ site.baseurl }}{{ post_tag_p1.url }}'; } // delete key
     };
     </script>
 
   </div>
 
-
+  {% include fab.html %}
 
   {% include disqus.html %}
 </article>
