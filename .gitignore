@@ -13,3 +13,4 @@ Gemfile.lock
 *.ipynb
 *.py
 *.sh
+_posts_sample
