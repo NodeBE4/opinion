@@ -2,6 +2,16 @@
 
 <div class="fab-wrapper">
   <div class="fab-wheel">
+    {% if paginator.previous_page_path %}
+    <a class="fab-action fab-action-1" title="上一页(热键 &#8594;)" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
+      <i>上</i>
+    </a>
+    {% endif %}
+    {% if paginator.next_page_path %}
+    <a class="fab-action fab-action-2" title="下一页(热键 &#8592;)" href="{{ site.baseurl}}{{ paginator.next_page_path }}">
+      <i>下</i>
+    </a>
+    {% endif %}
     {% if page.previous %}
     <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="{{ site.url }}{{ site.baseurl }}{{ page.previous.url }}">
       <i>后</i>

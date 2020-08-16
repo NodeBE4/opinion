@@ -27,24 +27,6 @@ SimpleJekyllSearch({
 })
 </script>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <span class="prev">
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="prev">
-        上一页
-      </a>
-    </span>
-  {% endif %}
-  {% if paginator.next_page %}
-    <span class="next">
-      <a href="{{ site.baseurl}}{{ paginator.next_page_path }}" class="next">
-        下一页
-      </a>
-    </span>
-  {% endif %}
-
-</div>
-
 <ul class="archive">
   {% for post in paginator.posts %}
   {% unless post.next %}
@@ -119,6 +101,8 @@ SimpleJekyllSearch({
       </a>
     </span>
   {% endif %}
+
+  {% include fab.html %}
 
   <script>
   /* post pagination keyboard shortcuts */
