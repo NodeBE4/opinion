@@ -10,7 +10,7 @@ layout: null
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%Y-%m-%d' }}",
-      "description" : "{{ post.excerpt | strip_html | strip_newlines | escape | truncate: 100 }}"
+      "desc"     : "{{ post.excerpt | strip_html | strip_newlines | escape | truncate: 100 }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
