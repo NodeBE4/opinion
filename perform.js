@@ -45,6 +45,7 @@ async function fetchFeedx(site, url) {
 
   return feed.items.map(item => {
     let content;
+    let link;
     if(item['content:encoded']){
       content = item['content:encoded']
     }else if (item['media:group']) {
@@ -52,10 +53,15 @@ async function fetchFeedx(site, url) {
     }else{
       content = item.content
     }
+    if (item['link']){
+      link = item.link
+    }else{
+      link = item.guid
+    }
     return {
       title: item.title,
       content: content,
-      link: item.link,
+      link: link,
       pubDate: Date.parse(item.pubDate),
       site: site
     }
@@ -95,12 +101,7 @@ async function performCDT() {
     let articles = await fetchCDT()
 
     articles.map(a => {
-      let id = 0
-      if (match = a.guid.match(/\?p=(\d+)/)) {
-        id = 0xFFFFF ^ (+match[1])
-      }
-
-      generateArticle(a, id)
+      generateArticle(a)
     })
 
     // generateList(site)
@@ -128,8 +129,6 @@ async function performSite(site) {
     let files = fs.readdirSync(siteFolder)
 
     let articles = await fetchArticles(site)
-
-    let lastDate = new Date()
 
     articles.map(a => {
       generateArticle(a)
@@ -162,7 +161,6 @@ categories: [ ${article.site} ]
 ---
 `
   md = header + md
-  // let filename = `${pubDate.substring(0, 10)}-${article.title}_${id}.md`.replace(/\//g, '--')
   let filename = `${dateString.substring(0, 10)}-${titletext.substring(0, 50)}.md`.replace(/\//g, '--')
   if (!fs.existsSync(`./_posts/${filename}`)) {
     fs.writeFileSync(`./_posts/${filename}`, md)
