@@ -398,7 +398,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 0px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -516,6 +516,37 @@ nav {
 .archive {
   a {
     color: $base-color;
+  }
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
+  /* unvisited link */
+  // a:link {
+  //   color: red;
+  // }
+
+  /* visited link */
+  a:visited {
+    color: gray;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+}
+
+.searched {
+  a {
+    color: $oc-blue-7;
   }
   time {
     color: $base-lighten-color;
