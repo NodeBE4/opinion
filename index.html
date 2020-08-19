@@ -6,6 +6,21 @@ layout: default
   <h2>No post found</h2>
 {% endif %}
 
+{% if paginator.page == 1 %}
+<div class="tags wrapper-masthead">
+  <ul class="label">
+    {% for tag in site.categories %}
+    <li>
+      <a href="{{ site.baseurl }}/categories/#{{ tag[0] }}">
+        <span>{{ tag[0] }}</span>
+        <span class="count">{{ tag[1] | size }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 <ul class="archive">
   {% for post in paginator.posts %}
   {% unless post.next %}
