@@ -1,0 +1,527 @@
+---
+layout: post
+title: "Antitrust Politics"
+date: 2020-08-04T15:32:20+00:00
+author: Ben Thompson
+from: https://stratechery.com/2020/antitrust-politics/
+tags: [ Stratechery ]
+categories: [ Stratechery ]
+---
+
+<article class="post-5163 post type-post status-publish format-standard hentry category-articles topics-competition topics-government-organizations topics-regulation topics-us-congress concepts-aggregation-theory concepts-antitrust concepts-politics concepts-smiling-curve concepts-technology-and-society companies-amazon companies-apple companies-facebook companies-google companies-ring" id="post-5163">
+ <header class="entry-header">
+  <h1 class="entry-title">
+   Antitrust Politics
+  </h1>
+  <div class="entry-meta">
+   <span class="posted-on">
+    <span class="screen-reader-text">
+     Posted on
+    </span>
+    <time class="entry-date published" datetime="2020-08-04T08:32:20-07:00">
+     Tuesday, August 4, 2020
+    </time>
+    <time class="updated" datetime="2020-08-05T16:18:23-07:00">
+     Wednesday, August 5, 2020
+    </time>
+   </span>
+   <span class="byline">
+    <span class="author vcard">
+     <span class="screen-reader-text">
+      Author
+     </span>
+     by
+     <a class="url fn n" href="https://stratechery.com/author/stratechery/">
+      Ben Thompson
+     </a>
+    </span>
+   </span>
+  </div>
+  <!-- .entry-meta -->
+ </header>
+ <!-- .entry-header -->
+ <div class="entry-content">
+  <div class="podcastlinks">
+   <a href="https://stratechery.com/podcasts/">
+    Manage your Stratechery subscription.
+   </a>
+  </div>
+  <p>
+   The only thing more predictable than members of Congress using hearings to make statements instead of ask questions, and when they do ask questions, usually of the “gotcha” variety, refusing to allow witnesses to answer (even as those witnesses seek to run out the clock), is people watching said hearings and griping about how worthless the whole exercise is.
+  </p>
+  <p>
+   There was, needless to say, all of the above last Wednesday, when the House Subcommittee on Antitrust, Commercial, and Administrative Law held a hearing featuring Tim Cook, CEO of Apple, Jeff Bezos, CEO of Amazon, Sundar Pichai, CEO of Google, and Mark Zuckerberg, CEO of Facebook. Statements were made, gotcha questions were asked, answers were interrupted, clocks were run out, and there was a whole lot of griping about what a waste of time it all was.
+  </p>
+  <p>
+   To be sure, it does seem like there must be a better way to hold these hearings, particularly if the goal is to learn something new, but the reality is that genuine inquiry is much more likely to happen without the glare of the media spotlight that inevitably accompanies such a high profile hearing; what that glare will highlight is the politics of the topic in question: what do various politicians and parties actually care about, what do they think that their constituents care about, and how should those affected by said hearings respond.
+  </p>
+  <p>
+   In that regard last Wednesday’s hearing was a success: partisan priorities were made clear on the politician side, tech’s collective position and impact on society came into view, even as each of the companies at the hearing revealed different strengths and vulnerabilities. This article will examine all of these points, but first a caveat: this post, even more than most on Stratechery, is meant as an analysis of the politics of this hearing in particular, not a statement of values; unless I say so explicitly, I am not necessarily endorsing or condemning any particular line of argument, simply pointing it out.
+  </p>
+  <h4>
+   The Political Effects of Monopoly
+  </h4>
+  <p>
+   Lina Khan, who rose to prominence with her 2017 law review article
+   <a href="https://www.yalelawjournal.org/note/amazons-antitrust-paradox">
+    Amazon’s Antitrust Paradox
+   </a>
+   , and who served as counsel for the antitrust subcommittee over the course of the investigation that culminated in Wednesday’s hearings, summarized the
+   <a href="https://academic.oup.com/jeclap/article/9/3/131/4915966">
+    New Brandeis Movement
+   </a>
+   of antitrust in 2018:
+  </p>
+  <blockquote>
+   <p>
+    As the name suggests, this new movement traces its intellectual roots to Justice Louis Brandeis, who served on the Supreme Court between 1916 and 1939. Brandeis was a strong proponent of America’s Madisonian traditions—which aim at a democratic distribution of power and opportunity in the political economy. Early in the twentieth century, Brandeis successfully updated America’s antimonopoly regime, along Madisonian lines, for the industrial era, and his philosophy held sway well into the 1970s. As the ‘New Brandeis School’ gains prominence — even prompting two floor speeches by Senator Orrin Hatch (a Republican from Utah) — it’s worth understanding what this vision of antimonopoly does and does not represent.
+   </p>
+  </blockquote>
+  <p>
+   While the article is worth reading in full, it is no accident that Khan started with “democracy”:
+  </p>
+  <blockquote>
+   <p>
+    Brandeis and many of his contemporaries feared that concentration of economic power aids the concentration of political power, and that such private power can itself undermine and overwhelm public government. Dominant corporations wield outsized influence over political processes and outcomes, be it through lobbying, financing elections, staffing government, funding research, or establishing systemic importance that they can leverage. They use these strategies to win favorable policies, further entrenching their dominance.
+   </p>
+   <p>
+    Brandeis also believed that the structure of our markets and of our economy can determine how much real liberty individuals experiences in their daily lives. Most people’s day-to-day experience of power comes not from interacting with public officials, but through relationships in their economic lives — negotiating pay with an employer, for example, or wrangling the terms of business with a trading partner. Brandeis feared that autocratic structures in the commercial sphere — such as when one or a few private corporations call all the shots — can preclude the experience of liberty, threatening democracy in our civic sphere.
+   </p>
+  </blockquote>
+  <p>
+   Chairman David Cicilline, in the conclusion to his opening statement, made a clear gesture to the New Brandeis Movement:
+   <a class="footnote-link footnote-identifier-link" href="#footnote_0_5163" id="identifier_0_5163" title="That is Khan sitting behind Cicilline">
+    1
+   </a>
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-zDWTDcpo-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/zDWTDcpo?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    Because concentrated economic power also leads to concentrated political power, this investigation also goes to the heart of whether we as a people govern ourselves, or whether we let ourselves be governed by private monopolies. American democracy has always been at war against monopoly power. Throughout our history, we’ve recognized that concentrated markets and concentrated political control are incompatible with democratic ideals. When the American people confronted monopolies in the past, be it the railroads or the oil tycoons or AT&amp;T and Microsoft, we took action to ensure no private corporation controls our economy or our democracy.
+   </p>
+  </blockquote>
+  <p>
+   What was notable to me is that in the hearing Cicilline and the other Democrats never really focused on this point; the rest of Cicilline’s opening statement, and much of the Democratic questioning, focused on what they perceived as illegal activities that caused economic harm, without necessarily tying that to political harm. Again, that’s not to say they were ignoring the linkage, but it wasn’t a priority.
+  </p>
+  <p>
+   What made this stand out was that Republicans were focused almost entirely on the politics of monopoly, specifically their contention that large platforms, particularly Google and Facebook (and Twitter), were censoring conservative viewpoints and working to elect Democratic candidates to office, particularly the presidency, and that this was a problem because of their dominance. Leave aside, if you can, your opinion about the veracity of these complaints (and remember my note at the beginning about focusing on analysis): while the Republicans were certainly not endorsing the “New Brandeis School” — Ranking Member James Sensenbrenner in particular took care to highlight support for the consumer welfare standard, also known as the “Chicago School” — their concern with the size of tech companies had nothing to do with economic effects and everything to do with political effects. It was a striking contrast.
+  </p>
+  <h4>
+   Begging the Question
+  </h4>
+  <p>
+   One of the more humorous lines of questioning, at least for language nerds, came courtesy of Republican Representative Matt Gaetz:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-OX8l0Ypj-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/OX8l0Ypj?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    I want to talk about Search because that’s an area where I know Google has real market dominance. On December 11th, you testified to the Judiciary Committee, and in response to a question from my colleague Zoe Lofgren about Search, you said, “We don’t manually intervene on any particular search result.” But leaked memos obtained by The Daily Caller show that that isn’t true. In fact, those memos were altered December 3rd, just a week before your testimony. And they describe a deceptive news blacklist and a process for developing that blacklist approved by Ben Gomes, who leads Search with your company. And also something called a fringe ranking, which seems to beg the question, who gets to decide what’s fringe?
+   </p>
+   <p>
+    And in your answer, you said to Ms. Lofgren that there is no manual intervention of search. That was your testimony, but … And now I’m going to cite specifically from this memo from The Daily Caller. It says that the … I’m sorry, that The Daily Caller obtained from your company. It says, “The beginning of the workflow starts when a website is placed on a watch list.” It continues, “This watch list is maintained and stored by Ares with access restricted to policy and enforcement specialists.” Sort of does beg the question who these enforcement specialists are?
+   </p>
+  </blockquote>
+  <p>
+   First off, note that this is an example of Republicans linking dominance to concerns about censorship. The point about language, though, is that Gaetz is using the phrase “begs the question” incorrectly; I know this, because I used to make the same mistake, until a reader graciously corrected me a couple of years ago. What Gaetz meant to say was “raises the question”; “begs the question”, on the other hand, to use
+   <a href="https://en.wikipedia.org/wiki/Begging_the_question">
+    Wikipedia’s definition
+   </a>
+   , is:
+  </p>
+  <blockquote>
+   <p>
+    An informal fallacy that occurs when an argument’s premises assume the truth of the conclusion, instead of supporting it. It is a type of circular reasoning: an argument that requires that the desired conclusion be true. This often occurs in an indirect way such that the fallacy’s presence is hidden, or at least not easily apparent.
+   </p>
+  </blockquote>
+  <p>
+   For an example of this logical fallacy at work, look no further than this antitrust hearing, and Cicilline’s concluding statement:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-U2zVQGLL-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/U2zVQGLL?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    Today, we had the opportunity to hear from the decision makers at four of the most powerful companies in the world. This hearing has made one fact clear to me. These companies, as exist today, have monopoly power. Some need to be broken up, all need to be properly regulated and held accountable.
+   </p>
+  </blockquote>
+  <p>
+   If I may nitpick, this is obviously not true — Cicilline had decided well before this hearing that these companies have monopoly power. The problem is that a huge number of questions in the hearing took it as a given that these companies were monopolies, and proceeded to find rather common business practices as being major crimes. In other words, they begged the question.
+  </p>
+  <p>
+   One of the most striking examples of this fallacy — where it is assumed that a company is a monopoly, and therefore its actions are illegal, and because its actions are illegal it is a monopoly — was this exchange between Representative Jamie Raskin and Bezos:
+  </p>
+  <div align="center">
+   <div class="video-player" id="v-jhRfu787-1">
+    <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/jhRfu787?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+    </iframe>
+   </div>
+  </div>
+  <p>
+   Start with the HBO Max-on-Fire TV question. One of the first things you learn about conducting effective negotiations is that you want to negotiate about more things, not fewer. The reasoning is straightforward: if you are only negotiating about a single variable — in this example, Raskin believes that Amazon and HBO should
+   <em>
+    only
+   </em>
+   negotiate on price — the outcome is zero sum: every cent that Amazon wins is a cent that HBO loses. However, if you are able to introduce more variables, then you might find out that one company cares a lot about price, while the other company cares a lot about promotion (just to make up an example); in that case one company can get a better price and give up a lot of promotional opportunities, while the other can get a worse price and gain a lot of promotional opportunities, and thanks to their differing priorities, both feel like winners. That’s good negotiating!
+  </p>
+  <p>
+   It also appears to be, at least according to Raskin, illegal, because Amazon is “us[ing its] gatekeeper status role in the streaming device market to promote [its] position as a competitor in the video streaming market with respect to content.” That’s the problem though: there was zero evidence provided that Amazon has a monopolistic position in either streaming devices or video streaming; it was simply taken as fact, which made basic negotiating practices suspect, and evidence that Amazon was a monopoly. Begging the question.
+  </p>
+  <p>
+   Raskin’s question about Amazon’s acquisition of Ring was an even better example of the fallacy at work; while I don’t really understand why multivariate negotiations would be illegal even if you are a monopoly, there are clear antitrust issues raised by a monopolist acquiring a company for market share. Crucially, though, acquiring a company for market share if you are
+   <em>
+    not
+   </em>
+   a monopolist is not a crime.
+  </p>
+  <p>
+   It follows, then, that if Amazon had a monopoly in the home automation market, and acquired Ring for market share reasons, that could very well be an antitrust violation, but if they weren’t a monopoly, it would not be. What is critical to note is that you have to establish that Amazon has a monopoly
+   <em>
+    first
+   </em>
+   ; only then can you decide if the acquisition was anticompetitive. Raskin, though, begs the question: the fact that Amazon acquired Ring for market share reasons is taken as evidence that Amazon has a monopoly, which then makes the acquisition illegal.
+  </p>
+  <p>
+   The same problem applied to Raskin’s final two complaints: Alexa defaulting to Amazon Prime Music, and recommending Amazon Basics. Those may be a problem if you first establish that Amazon has a monopoly in the relevant product areas, but it is not itself evidence that Amazon is a monopoly.
+  </p>
+  <p>
+   I’m focusing on this specific exchange, but the truth is that a combination of vilifying common business practices and
+   <em>
+    begging the question
+   </em>
+   was a consistent theme. Things like market research or copying competitor features or improving products were held up as obvious crimes and evidence of monopoly, when they were often not crimes at all, or only crimes if a monopoly in the relevant market had first been established. That is not to say that the committee’s investigation didn’t produce evidence of illegal anticompetitive actions, but rather that said evidence, such that there was, too often begged the question.
+  </p>
+  <h4>
+   The GOP Bargain
+  </h4>
+  <p>
+   The combination of the Republicans’ focus on the political aspects of antitrust and the tendency of the Democrats to see antitrust crimes even in normal business proceedings produced what was, I think, the most obvious political takeaway for tech companies: the Democrats have made up their minds (that tech is guilty), while the Republicans are willing to cut a deal.
+  </p>
+  <p>
+   The outline of that deal could not have been more obvious: Republicans are fine with the consumer welfare standard (which, as I noted back in 2016,
+   <a href="https://stratechery.com/2016/antitrust-and-aggregation/">
+    inherently favors Aggregators
+   </a>
+   ) and tech’s business practices, as long as tech companies don’t “censor”; the alternating format of Congressional hearings placed these demands in direct contrast to Democratic assumptions of guilt. To put it in explicit terms: “We, Republicans, are your friends in Washington, but if you want us to defend you from the Democrats, you need to stop censoring conservatives.”
+  </p>
+  <p>
+   Again, it doesn’t matter that conservative websites tend to do particularly well on social media, or that
+   <a href="https://stratechery.com/2016/the-voters-decide/">
+    the destruction of the media business model helped lay the groundwork for President Trump’s rise
+   </a>
+   ; Republicans expect that tech companies — by which they mostly mean Google and Facebook (and Twitter) — err on the side of not censoring or checking conservative content if they want help in Washington, because that help is not coming from the Democrats.
+  </p>
+  <h4>
+   Tech’s United Front
+  </h4>
+  <p>
+   Something that stood out from the four CEOs’
+   <a href="https://www.politico.com/news/2020/07/28/tech-ceo-antitrust-hearing-opening-statement-385233">
+    opening statements
+   </a>
+   , and the general tenor of their defenses, was their insistence that they supported small-and-medium sized businesses.
+  </p>
+  <p>
+   Bezos:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-fEOewA7c-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/fEOewA7c?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    20 years ago, we made the decision to invite other sellers to sell in our store, to share the same valuable real estate we’ve spent billions to build, market, and maintain. We believe that combining the strengths of Amazon Store with the vast selection of products offered by third parties would be a better experience for customers, and that the growing pie of revenue and profits would be big enough for all. We were betting that it was not a zero sum game. Fortunately, we were right. There are now, 1.7 million small-and-medium-sized businesses selling on Amazon.
+   </p>
+  </blockquote>
+  <p>
+   Pichai:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-Z00Yc6Gr-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/Z00Yc6Gr?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    One way we contribute is by building helpful products. Research found that free services like search, Gmail, maps, and photos provide thousands of dollars a year in value to the average American. And many are small businesses using our digital tools to grow. Stone Dimensions, a family owned stone company in Pewaukee, Wisconsin uses Google My Business to draw more customers. Gil’s appliances, a family owned appliance store in Bristol, Rhode Island credits Google analytics with helping them reach customers online during the pandemic. Nearly one third of small business owners say that without digital tools, they would have had to close all or part of their business during COVID.
+   </p>
+  </blockquote>
+  <p>
+   Cook:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-fZWPCjhX-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/fZWPCjhX?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    What does motivate us is that timeless drive to build new things that we’re proud to show our users. We focus relentlessly on those innovations, on deepening core principles like privacy and security and on creating new features. In 2008, we introduced a new feature of the iPhone called the App Store launched with 500 apps, which seemed like a lot at the time, the App Store provided a safe and trusted way for users to get more out of their phone. We knew the distribution options for software developers at the time didn’t work well, brick-and-mortar stores charged high fees and have limited reach, physical media like CDs had to be shipped and were hard to update. From the beginning, the App Store was a revolutionary alternative. App Store developers set prices for their apps and never pay for shelf space.
+    <a class="footnote-link footnote-identifier-link" href="#footnote_1_5163" id="identifier_1_5163" title="Yes, Cook is pretending like the Internet never existed as a distribution channel">
+     2
+    </a>
+   </p>
+  </blockquote>
+  <p>
+   Zuckerberg:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-lJk32uUY-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/lJk32uUY?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    We’ve built services that billions of people find useful. I’m proud that we’ve given people who’ve never had a voice before the opportunity to be heard, and given small businesses access to tools that only the largest players used to have.
+   </p>
+  </blockquote>
+  <p>
+   This shared focus was notable for two reasons, one specific to these hearings, and one that tells a broader story about how the Internet is changing the world.
+  </p>
+  <p>
+   First off, probably the most obvious connective thread in the hearing was concern about these companies creating platforms and then favoring themselves unfairly. Amazon, for example, is accused of using data about third party sellers to inform its private-label goods strategy (and data from AWS); Google is accused of using data about search to keep users on its pages; Apple is accused of using its control of the App Store to favor its own apps; and Facebook is accused of using data about app usage to drive its acquisition strategy. What each of these companies is arguing is that focusing on a couple of disgruntled companies is to miss the larger picture, wherein these companies created those opportunities in the first place, and for exponentially more companies than those the Committee may have heard from.
+  </p>
+  <p>
+   What is particularly interesting, though, is that to the extent these companies are right it foretells both a new kind of economy and a new kind of political alignment. Zuckerberg’s summary was the shortest yet most explicit, perhaps because Facebook is the best example of this phenomenon; I wrote in
+   <a href="https://stratechery.com/2020/apple-and-facebook/">
+    Apple and Facebook
+   </a>
+   :
+  </p>
+  <blockquote>
+   <p>
+    This explains why the news about large CPG companies boycotting Facebook is, from a financial perspective, simply not a big deal. Unilever’s $11.8 million in U.S. ad spend, to take one example, is replaced with the same automated efficiency that Facebook’s timeline ensures you never run out of content. Moreover, while Facebook loses some top-line revenue — in an auction-based system, less demand corresponds to lower prices — the companies that are the most likely to take advantage of those lower prices are those that would not exist without Facebook, like the direct-to-consumer companies trying to steal customers from massive conglomerates like Unilever.
+   </p>
+  </blockquote>
+  <p>
+   The Internet is best illustrated by
+   <a href="https://stratechery.com/2014/publishers-smiling-curve/">
+    the smiling curve
+   </a>
+   , in which value flows to large Aggregators and Platforms on one side, and small businesses built with Internet assumptions about addressable markets (and Internet cost structures) on the other side, while the folks in the middle that built their businesses on owning distribution in a world of scarcity are increasingly obsolete.
+  </p>
+  <blockquote>
+   <div align="center">
+    <a href="https://stratechery.com/2014/publishers-smiling-curve/">
+     <img alt="" class="aligncenter size-large wp-image-5164" height="449" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/08/smilingcurve-1-1024x718.png" srcset="https://stratechery.com/wp-content/uploads/2020/08/smilingcurve-1-1024x718.png 1024w, https://stratechery.com/wp-content/uploads/2020/08/smilingcurve-1-300x210.png 300w, https://stratechery.com/wp-content/uploads/2020/08/smilingcurve-1-768x538.png 768w, https://stratechery.com/wp-content/uploads/2020/08/smilingcurve-1-899x630.png 899w, https://stratechery.com/wp-content/uploads/2020/08/smilingcurve-1.png 1280w" width="640"/>
+    </a>
+   </div>
+  </blockquote>
+  <p>
+   That is why you regularly see strange political bedfellows, like Uber and drivers and riders versus taxi companies and politicians, or Airbnb and hosts versus hotels and, well, politicians, or these companies and their small business bases against newspapers, retailers, cross-platform software businesses, vertical aggregators and yes, politicians. Zuckerberg made this point on behalf of the tech industry as a whole:
+  </p>
+  <blockquote>
+   <div align="center">
+    <div class="video-player" id="v-fVmKGjXd-1">
+     <iframe allowfullscreen="" frameborder="0" height="360" src="https://videopress.com/embed/fVmKGjXd?hd=1&amp;loop=0&amp;autoPlay=0&amp;permalink=1" width="640">
+     </iframe>
+    </div>
+   </div>
+   <p>
+    We’re here to talk about online platforms, but I think the true nature of competition is much broader. When Google bought YouTube, they could compete against the dominant player in video, which was the cable industry. When Amazon bought Whole Foods, they could compete against Kroger’s and Walmart. When Facebook bought WhatsApp, we could compete against telcos who used to charge 10 cents a text message, but not anymore. Now people can watch video, get groceries delivered, and send private messages for free. That’s competition. New companies are created all the time, all over the world. And history shows that if we don’t keep innovating, someone will replace every company here today.
+   </p>
+  </blockquote>
+  <p>
+   Companies that used to be big, at least before the big tech companies came along, have the most to lose from tech, but just because they are ill-equipped to compete does not mean they are representative of all businesses, particularly companies that only exist because these platforms and Aggregators exist.
+   <a class="footnote-link footnote-identifier-link" href="#footnote_2_5163" id="identifier_2_5163" title="Again, this is not to say that regulation isn’t necessary — see A Framework for Regulating Competition on the Internet ">
+    3
+   </a>
+  </p>
+  <h4>
+   Tech’s Differing Prospects
+  </h4>
+  <p>
+   That noted, just because there were similarities in their messaging does not mean that each tech company has similar prospects as far as potential regulation is concerned. From the companies that should be the least concerned to the most:
+  </p>
+  <p>
+   <strong>
+    Apple:
+   </strong>
+   It was obvious that the committee only invited Apple because they wanted to say that they invited all of the large consumer tech CEOs. The questions for Cook were hilariously uninformed about the App Store, making it easy for Apple’s CEO to run out the clock (often without any interruption). This was certainly disappointing given that many of Apple’s policies are
+   <a href="https://stratechery.com/2018/antitrust-the-app-store-and-apple/">
+    clearly anticompetitive
+   </a>
+   (which, as I noted above, is different than being illegal), but for now the takeaway is that Congress doesn’t know and doesn’t care.
+  </p>
+  <p>
+   <strong>
+    Facebook:
+   </strong>
+   Facebook was probably the biggest beneficiary of Democrats
+   <em>
+    not
+   </em>
+   focusing on political harm relative to economic harm; as I noted last year in
+   <a href="https://stratechery.com/2019/tech-and-antitrust/">
+    Tech and Antitrust
+   </a>
+   , there really isn’t much about the company’s business practices (post acquisitions) that are anticompetitive. There was an interesting back-and-forth about Facebook’s discriminatory willingness to deal as far as access to their friend graph is concerned, but for that to be illegal you have to first establish that Facebook is a monopoly.
+  </p>
+  <p>
+   On this point I thought the Committee’s questioning was frequently unfair: the fact that social networks that existed when Facebook was founded no longer do (MySpace, Friendster, etc.) was taken as evidence that Facebook is a monopoly, with zero acknowledgment of the rise of Snapchat, TikTok, iMessage, etc. Similarly, Facebook’s acquisition of Instagram was discussed as if it happened today, when Instagram has over a billion users, as opposed to 2012, when it had 30 million. To be sure,
+   <a href="https://twitter.com/benthompson/status/189433922243919872">
+    some
+   </a>
+   saw the anticompetitive angle of that purchase at the time, but many more mocked the price; at a minimum we can all agree that judging decisions made in 2012 according to the facts of 2020 isn’t necessarily just.
+  </p>
+  <p>
+   <strong>
+    Amazon:
+   </strong>
+   Amazon seemed to attract the most in-depth scrutiny from the committee (perhaps because of Kahn), and while the biggest focus was on the 3rd-party marketplace and Amazon’s private-label strategy, there was a clear attempt across multiple questioners to make the case that Amazon creates “innovation kill zones”, as Representative Joe Neguse put it, across all of its product lines. There was clearly a target on Bezos.
+  </p>
+  <p>
+   At the same time, as Bezos regularly noted, it is not clear in what markets Amazon has a monopoly, and if it is not a monopoly, a lot of the behavior lawmakers were objecting to is not illegal (and, as I noted above, may not be illegal regardless). Bezos also made the point that only the military has a higher approval rating than Amazon, and when it comes to politics, that still matters.
+  </p>
+  <p>
+   <strong>
+    Google:
+   </strong>
+   I think that Google is in trouble. The company received the second greatest amount of specificity in its questions as far as competition topics go — Representative Pramila Jayapal’s questions about ad exchanges was particularly well-done, especially given the constraints of the format — but more importantly, at least far as the politics of this hearing is concerned, was revealed to have no friends.
+  </p>
+  <p>
+   Specifically, the price of the company pulling out of Project Maven and the Pentagon’s JEDI project because of concerns about collaborating with the U.S. military
+   <a class="footnote-link footnote-identifier-link" href="#footnote_3_5163" id="identifier_3_5163" title="Incidentally, I think the real reason that Google pulled out of the JEDI project is that Google Cloud was not competitive with Azure and AWS; citing ethical concerns was a misguided attempt to claim a strategy credit that is coming back to bite the company in a major way">
+    4
+   </a>
+   is that the GOP deal I detailed above is not on the table: Republicans pushed Pichai on not just censorship and election interference but also its refusal to support the military repeatedly, and it seems clear than if and when an antitrust case is brought against the company, it will have few defenders. That is a particularly big problem for Google because
+   <a href="https://stratechery.com/2019/tech-and-antitrust/">
+    the antitrust case against the company is by far the most straightforward
+   </a>
+   .
+  </p>
+  <hr/>
+  <p>
+   As I wrote
+   <a href="https://stratechery.com/2020/the-antitrust-hearing-the-role-of-congress-ceo-questions/">
+    last week before the hearing
+   </a>
+   , I am glad that it occurred. Figuring out how to regulate tech companies —
+   <a href="https://stratechery.com/2019/a-framework-for-regulating-competition-on-the-internet/">
+    particularly Aggregators
+   </a>
+   , that base their power on consumer welfare — will require new approaches, and probably new laws. Moreover, any such regulations will necessitate difficult trade-offs between competition, privacy, national security, etc. (I was grateful that Representative Kelly Armstrong highlighted how GDPR made big tech companies stronger), which again means that Congress is best situated to decide what tradeoffs we should make.
+  </p>
+  <p>
+   To that end, I think the hearing was more successful than the format made it seem: there is more clarity about both Democratic and Republican priorities, as well as potential new divisions driven by technology generally, and a finer-grained understanding of how individual companies raise different concerns specifically. No, this wasn’t “Mr. Smith Goes to Washington”, but then again that movie was made by a studio about to be convicted of acting anti-competitively.
+  </p>
+  <p>
+   <em>
+    I wrote a follow-up to this article in
+    <a href="https://stratechery.com/2020/tiktok-key-money-rule-by-law-china-gaslighting/">
+     this Daily Update
+    </a>
+    .
+   </em>
+  </p>
+  <ol class="footnotes">
+   <li class="footnote" id="footnote_0_5163">
+    That is Khan sitting behind Cicilline [
+    <a class="footnote-link footnote-back-link" href="#identifier_0_5163">
+     ↩
+    </a>
+    ]
+   </li>
+   <li class="footnote" id="footnote_1_5163">
+    Yes, Cook is pretending like
+    <a href="https://twitter.com/benthompson/status/1288297750690328576">
+     the Internet never existed
+    </a>
+    as a distribution channel [
+    <a class="footnote-link footnote-back-link" href="#identifier_1_5163">
+     ↩
+    </a>
+    ]
+   </li>
+   <li class="footnote" id="footnote_2_5163">
+    Again, this is not to say that regulation isn’t necessary — see
+    <a href="https://stratechery.com/2019/a-framework-for-regulating-competition-on-the-internet/">
+     A Framework for Regulating Competition on the Internet
+    </a>
+    [
+    <a class="footnote-link footnote-back-link" href="#identifier_2_5163">
+     ↩
+    </a>
+    ]
+   </li>
+   <li class="footnote" id="footnote_3_5163">
+    Incidentally, I think the real reason that Google pulled out of the JEDI project is that Google Cloud was not competitive with Azure and AWS; citing ethical concerns was a misguided attempt to claim a
+    <a href="https://stratechery.com/2013/strategy-credit/">
+     strategy credit
+    </a>
+    that is coming back to bite the company in a major way [
+    <a class="footnote-link footnote-back-link" href="#identifier_3_5163">
+     ↩
+    </a>
+    ]
+   </li>
+  </ol>
+  <div class="sharedaddy sd-sharing-enabled">
+   <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+     Share
+    </h3>
+    <div class="sd-content">
+     <ul>
+      <li class="share-facebook">
+       <a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-5163" href="https://stratechery.com/2020/antitrust-politics/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+        <span>
+         Facebook
+        </span>
+       </a>
+      </li>
+      <li class="share-twitter">
+       <a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-5163" href="https://stratechery.com/2020/antitrust-politics/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+        <span>
+         Twitter
+        </span>
+       </a>
+      </li>
+      <li class="share-linkedin">
+       <a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-5163" href="https://stratechery.com/2020/antitrust-politics/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn">
+        <span>
+         LinkedIn
+        </span>
+       </a>
+      </li>
+      <li class="share-email">
+       <a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2020/antitrust-politics/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend">
+        <span>
+         Email
+        </span>
+       </a>
+      </li>
+      <li class="share-end">
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="jp-relatedposts" id="jp-relatedposts">
+   <h3 class="jp-relatedposts-headline">
+    <em>
+     Related
+    </em>
+   </h3>
+  </div>
+ </div>
+ <!-- .entry-content -->
+</article>
+

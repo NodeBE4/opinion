@@ -1,0 +1,486 @@
+---
+layout: post
+title: "Never-ending Niches"
+date: 2020-06-09T16:07:59+00:00
+author: Ben Thompson
+from: https://stratechery.com/2020/never-ending-niches/
+tags: [ Stratechery ]
+categories: [ Stratechery ]
+---
+
+<article class="post-5020 post type-post status-publish format-standard has-post-thumbnail hentry category-articles topics-digital topics-networks topics-newspapers topics-publishing topics-social concepts-aggregation-theory concepts-commoditizing-suppliers concepts-distribution-and-transaction-costs concepts-evolution-of-technology concepts-history concepts-media concepts-niche-strategy concepts-strategy concepts-the-internet-and-media companies-facebook companies-google companies-new-york-times" id="post-5020">
+ <header class="entry-header">
+  <h1 class="entry-title">
+   Never-ending Niches
+  </h1>
+  <div class="entry-meta">
+   <span class="posted-on">
+    <span class="screen-reader-text">
+     Posted on
+    </span>
+    <time class="entry-date published" datetime="2020-06-09T09:07:59-07:00">
+     Tuesday, June 9, 2020
+    </time>
+    <time class="updated" datetime="2020-06-11T23:39:07-07:00">
+     Thursday, June 11, 2020
+    </time>
+   </span>
+   <span class="byline">
+    <span class="author vcard">
+     <span class="screen-reader-text">
+      Author
+     </span>
+     by
+     <a class="url fn n" href="https://stratechery.com/author/stratechery/">
+      Ben Thompson
+     </a>
+    </span>
+   </span>
+  </div>
+  <!-- .entry-meta -->
+ </header>
+ <!-- .entry-header -->
+ <div class="entry-content">
+  <div class="podcastlinks">
+   <a href="https://stratechery.com/podcasts/">
+    Manage your Stratechery subscription.
+   </a>
+  </div>
+  <p>
+   You have almost certainly seen this chart about newspaper advertising revenue since World War II:
+  </p>
+  <p>
+   <img alt="The notorious chart of plummeting newspaper revenue" class="aligncenter size-large wp-image-5021" height="423" sizes="(max-width: 600px) 100vw, 600px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-8.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-8.png 600w, https://stratechery.com/wp-content/uploads/2020/06/niches-8-300x212.png 300w" width="600"/>
+  </p>
+  <p>
+   The obvious takeaway is that the Internet killed what had been a profitable and growing business; what is interesting, though, is that circulation numbers tell a somewhat different story:
+  </p>
+  <p>
+   <img alt="Newspaper circulation over time" class="aligncenter size-large wp-image-5027" height="401" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-3-1024x641.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-3-1024x641.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-3-300x188.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-3-768x481.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-3-1007x630.png 1007w, https://stratechery.com/wp-content/uploads/2020/06/niches-3.png 1280w" width="640"/>
+  </p>
+  <h4>
+   Time and Reach
+  </h4>
+  <p>
+   That image is from Robert Gordon’s book
+   <a href="https://press.princeton.edu/books/paperback/9780691175805/the-rise-and-fall-of-american-growth">
+    The Rise and Fall of American Growth
+   </a>
+   ; one of the more startling facts surrounding this graph is that between 1910 and 1930 the average household purchased 3.1 different newspapers
+   <em>
+    a day
+   </em>
+   . As Gordon notes:
+  </p>
+  <blockquote>
+   <p>
+    The fastest growth occurred in 1870–1900, by which time newspapers had become firmly established as the main source of information and entertainment for a growing population. Color presses were introduced in the 1890s and were first used to produce color comics and supplements. By the early twentieth century, newspapers had extended their content far beyond the news itself and added “gossip columns, travel and leisure advice, color comics, and sporting results.”
+   </p>
+  </blockquote>
+  <p>
+   It turned out, though, that the daily deadline inherent to newspapers presented a market opportunity for periodicals. Gordon writes:
+  </p>
+  <blockquote>
+   <p>
+    The mass-circulation national magazine was a creation of the 1880s and 1890s. Unlike newspapers, for which the circulation area was limited by the need to provide time-sensitive news to a particular metropolitan area, the features contained in magazines could reach readers at a more leisurely pace. Hence magazines were national almost from the beginning in the mid-nineteenth century, and among those with the highest circulations late in the century were
+    <em>
+     McClure’s
+    </em>
+    ,
+    <em>
+     Collier’s
+    </em>
+    , the
+    <em>
+     Saturday Evening Post
+    </em>
+    , and the
+    <em>
+     Ladies’ Home Journal
+    </em>
+    .
+   </p>
+  </blockquote>
+  <p>
+   In other words, the market opportunity was defined by the intersection of time and reach; newspapers needed to be timely, but that limited reach, whereas periodicals, by virtue of being weekly or monthly, could also have much greater reach:
+  </p>
+  <p>
+   <img alt="Reach versus timeliness in the analog world" class="aligncenter size-large wp-image-5025" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-5-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-5-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-5-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-5-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-5-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/06/niches-5.png 1280w" width="640"/>
+  </p>
+  <p>
+   These limitations of time and space affected the nature of content as well. While newspapers were focused on “time-sensitive news”, magazines, in a format pioneered by Henry Luce’s
+   <em>
+    Time
+   </em>
+   magazine focused more on contextualizing and analyzing the news that you probably already knew about because of your daily newspaper.
+  </p>
+  <p>
+   What drove the post-war decline in newspaper circulation was the television. Gordon writes:
+  </p>
+  <blockquote>
+   <p>
+    Television news, on the other hand, increasingly gained a quality and credibility that the newsreel lacked. The information came first from a familiar anchor, with footage used for the most part as a substantive complement rather than purely as an eye-catching distraction. Indeed, the familiarity of the network anchors helped television news surpass not only the newsreel, but also the newspaper, as the main source of news…
+   </p>
+   <p>
+    The effect of TV news went beyond the ability to present a familiar, trusted face to deliver the top stories. Like radio, television news was immediate, but it also wielded the power of the image to evoke strong feelings in the viewer. In addition to coverage of the day’s top stories, television news also developed more in-depth journalistic programs…and cable television delivered CNN as the first twenty-four-hour news station in 1980…
+   </p>
+   <p>
+    Unsurprisingly, after reaching all-time highs in the postwar years, newspaper circulation per household soon began a gradual but continuous decline, dropping from 1.4 per household in 1949 to 0.8 in 1980 and to less than 0.4 in 2010.
+   </p>
+  </blockquote>
+  <p>
+   This meant that the graph I created above now looked like this:
+  </p>
+  <p>
+   <img alt="TV versus newspapers and magazines in terms of reach and timeliness" class="aligncenter size-large wp-image-5026" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-4-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-4-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-4-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-4-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-4-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/06/niches-4.png 1280w" width="640"/>
+  </p>
+  <p>
+   A daily cadence in a world of CNN was simply the modern version of a weekly cadence for magazines in a world of daily newspapers; what was particularly challenging for newspapers, though, is that TV had further reach as well.
+  </p>
+  <p>
+   That led the most forward-thinking U.S. newspapers to not just shift towards analysis like magazines had once done, but to also push for more reach of their own, none moreso than the
+   <em>
+    New York Times
+   </em>
+   ; while the company first formulated its national strategy in 1998, the best articulation of its plan came in its
+   <a href="https://s1.q4cdn.com/156149269/files/doc_financials/annual/2003_AR_10-K.pdf">
+    2003 annual report
+   </a>
+   :
+  </p>
+  <blockquote>
+   <p>
+    As we have mentioned in our previous annual letters, our long-term strategy is to operate the leading news and advertising media in each of the markets in which we compete – both nationally and locally. The centerpiece of this strategy is extending the reach of
+    <em>
+     The New York Times
+    </em>
+    ’s high-quality journalism into homes and businesses in every city, town, village and hamlet of this country.
+   </p>
+  </blockquote>
+  <p>
+   Then came the Internet, which accomplished exactly that.
+  </p>
+  <h4>
+   Evolution Versus Revolution
+  </h4>
+  <p>
+   In
+   <a href="https://stratechery.com/2020/tiktok-and-quibi-tiktok-and-shopify-tiktok-complications/">
+    yesterday’s Daily Update
+   </a>
+   I described how Jeffrey Katzenberg, the founder of Quibi, mistakenly assumed that mobile was simply the next step in the evolution from motion pictures to television, each of which created new possibilities for, in
+   <a href="https://stratechery.com/2020/tiktok-and-quibi-tiktok-and-shopify-tiktok-complications/">
+    Katzenberg’s words
+   </a>
+   , “the creativity of storytellers [to use] these tools in ways that their inventors had never imagined to amaze audiences.”
+  </p>
+  <p>
+   The problem is that mobile was completely different from movies and TV, not because of its form factor, but because of the Internet:
+  </p>
+  <blockquote>
+   <p>
+    The single most important fact about both movies and television is that they were defined by scarcity: there were only so many movies that would ever be made to fill only so many theater slots, and in the case of TV, there were only 24 hours in a day. That meant that there was significant value in being someone who could figure out what was going to be a hit before it was ever created, and then investing to make it so. That sort of selection and production is what Katzenberg and the rest of Hollywood have been doing for decades, and it’s understandable that Katzenberg thought he could apply the same formula to mobile.
+   </p>
+   <p>
+    Mobile, though, is defined by the Internet, which is to say it is defined by abundance…The goal is not to pick out the hits, but rather to attract as much content as possible, and then algorithmically boost whatever turns out to be good.
+   </p>
+  </blockquote>
+  <p>
+   This point cannot be emphasized enough: the Internet is the single most disruptive
+   <a class="footnote-link footnote-identifier-link" href="#footnote_0_5020" id="identifier_0_5020" title="In the small ‘d’ sense, not necessarily — although often! — the Christensen sense">
+    1
+   </a>
+   force of our lifetimes because it does not evolve existing ways of doing things, but completely smashes the assumptions underlying them — assumptions we often didn’t even realize existed.
+  </p>
+  <p>
+   So it was with the Internet and the trade-off between reach and time: suddenly every single media entity on earth, no matter how large or small, and no matter its medium of choice, could reach anyone instantly. To put it another way, reach went to infinity, and time went to zero:
+  </p>
+  <p>
+   <img alt="The Internet effect on time and reach" class="aligncenter size-large wp-image-5024" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-6-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-6-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-6-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-6-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-6-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/06/niches-6.png 1280w" width="640"/>
+  </p>
+  <p>
+   This is, of course, an impossible graph, because zero and infinity cannot be illustrated with axis in two-dimensional space; this is probably a better representation of how time and reach collapsed in on themselves:
+  </p>
+  <p>
+   <img alt="The first image of a black hole" class="aligncenter size-large wp-image-5022" height="373" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-1-1024x596.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-1-1024x596.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-1-300x175.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-1-768x447.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-1-1082x630.png 1082w, https://stratechery.com/wp-content/uploads/2020/06/niches-1.png 1280w" width="640"/>
+  </p>
+  <p>
+   That is the first image of a black hole, and it is certainly an apt metaphor for the Internet: its effect on media assumptions is incalculable and inescapable.
+  </p>
+  <h4>
+   Competing in an Aggregator World
+  </h4>
+  <p>
+   One of the first Stratechery articles about this shift from scarcity to abundance and its impact on media was from 2014 in an article entitled
+   <a href="https://stratechery.com/2014/economic-power-age-abundance/">
+    Economic Power in the Age of Abundance
+   </a>
+   .
+  </p>
+  <blockquote>
+   <p>
+    One of the great paradoxes for newspapers today is that their financial prospects are inversely correlated to their addressable market. Even as advertising revenues have fallen off a cliff – adjusted for inflation, ad revenues are at the same level as the 1950s – newspapers are able to reach audiences not just in their hometowns but literally all over the world.
+   </p>
+   <figure aria-describedby="caption-attachment-992" class="wp-caption aligncenter" id="attachment_992" style="width: 640px">
+    <a href="https://stratechery.com/2014/economic-power-age-abundance/">
+     <img alt="A drawing of The Internet has Created Unlimited Reach" class="size-large wp-image-992" height="299" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2014/06/abundance-1024x478.png" srcset="https://stratechery.com/wp-content/uploads/2014/06/abundance-1024x478.png 1024w, https://stratechery.com/wp-content/uploads/2014/06/abundance-300x140.png 300w, https://stratechery.com/wp-content/uploads/2014/06/abundance-768x358.png 768w, https://stratechery.com/wp-content/uploads/2014/06/abundance-1200x560.png 1200w, https://stratechery.com/wp-content/uploads/2014/06/abundance.png 1618w" width="640"/>
+    </a>
+    <figcaption class="wp-caption-text" id="caption-attachment-992">
+     Before the Internet, a newspaper like the New York Times was limited in reach; now it can reach anyone on the planet
+    </figcaption>
+   </figure>
+   <p>
+    The problem for publishers, though, is that the free distribution provided by the Internet is not an exclusive. It’s available to every other newspaper as well. Moreover, it’s also available to publishers of any type, even bloggers like myself.
+   </p>
+   <figure aria-describedby="caption-attachment-991" class="wp-caption aligncenter" id="attachment_991" style="width: 640px">
+    <a href="https://stratechery.com/2014/economic-power-age-abundance/">
+     <img alt="A city view of Stratechery's readers in 2014" class="size-large wp-image-991" height="374" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-11.57.35-PM-1024x599.png" srcset="https://stratechery.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-11.57.35-PM-1024x599.png 1024w, https://stratechery.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-11.57.35-PM-300x176.png 300w, https://stratechery.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-11.57.35-PM-768x449.png 768w, https://stratechery.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-11.57.35-PM-1077x630.png 1077w, https://stratechery.com/wp-content/uploads/2014/06/Screen-Shot-2014-06-24-at-11.57.35-PM.png 1576w" width="640"/>
+    </a>
+    <figcaption class="wp-caption-text" id="caption-attachment-991">
+     The city-by-city view of Stratechery’s readers over the last 30 days.
+    </figcaption>
+   </figure>
+   <p>
+    To be clear, this is absolutely a boon, particularly for readers, but also for any writer looking to have a broad impact. For your typical newspaper, though, the competitive environment is diametrically opposed to what they are used to: instead of there being a scarce amount of published material, there is an overwhelming abundance. More importantly, this shift in the competitive environment has fundamentally changed just who has economic power.
+    <a class="footnote-link footnote-identifier-link" href="#footnote_1_5020" id="identifier_1_5020" title="The biggest change in the city view today, beyond the relative numbers for the circles, is a far heavier representation in India and a fairly lighter representation in China">
+     2
+    </a>
+   </p>
+  </blockquote>
+  <p>
+   What followed was probably my first clear articulation of
+   <a href="https://stratechery.com/2015/aggregation-theory/">
+    Aggregation Theory
+   </a>
+   , albeit without the name. The point about effectively infinite competition, though, is a critical one. Neither reach nor timeliness were differentiators, but rather commodities; the companies that dominated on the Internet were those — Google and Facebook in particular — that made sense of the abundance that resulted.
+  </p>
+  <p>
+   That meant there were three strategies available to media companies looking to survive on the Internet. First, cater to Google. This meant a heavy emphasis on both speed and SEO, and an investment in anticipating and creating content to answer consumer questions. Or you could cater to Facebook, which meant a heavy emphasis on click-bait and human interest stories that had the potential of going viral. Both approaches, though, favored media entities with the best cost structures, not the best content, a particularly difficult road to travel given the massive amounts of content on the Internet created for free.
+  </p>
+  <p>
+   That left a single alternative: going around Google and Facebook and directly to users.
+  </p>
+  <h4>
+   Niches and the New York Times
+  </h4>
+  <p>
+   That raises the question as to what are the vectors on which “destination sites” — those that attract users directly, independent of the Aggregators — compete? The obvious two candidates are focus and quality:
+  </p>
+  <p>
+   <img alt="Focus and quality as the determinants of success on the Internet" class="aligncenter size-large wp-image-5030" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-10-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-10-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-10-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-10-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-10-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/06/niches-10.png 1280w" width="640"/>
+  </p>
+  <p>
+   What is important to note, though, is that while quality is relatively binary, the number of ways to be focused — that is, the number of niches in the world — are effectively infinite; success, in other words, is about delivering superior quality in your niche — the former is defined by the latter.
+  </p>
+  <p>
+   <img alt="Every niche competes on its own terms" class="aligncenter size-large wp-image-5023" height="479" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/06/niches-7-1024x767.png" srcset="https://stratechery.com/wp-content/uploads/2020/06/niches-7-1024x767.png 1024w, https://stratechery.com/wp-content/uploads/2020/06/niches-7-300x225.png 300w, https://stratechery.com/wp-content/uploads/2020/06/niches-7-768x575.png 768w, https://stratechery.com/wp-content/uploads/2020/06/niches-7-841x630.png 841w, https://stratechery.com/wp-content/uploads/2020/06/niches-7.png 1280w" width="640"/>
+  </p>
+  <p>
+   This obviously isn’t a new concept to Stratechery readers — this is the entire strategic rationale of this site. Again, though, the fact that this is a one-person blog doesn’t mean that my competitive situation is any different than that of the
+   <em>
+    New York Times
+   </em>
+   or any other media entity on the Internet. In other words, to the extent that the
+   <em>
+    New York Times
+   </em>
+   has been successful online — and the company has been
+   <a href="https://s1.q4cdn.com/156149269/files/doc_financials/annual/2020/Final-2019-Annual-Report.pdf">
+    very successful indeed!
+   </a>
+   — it follows that the company is well-placed in terms of both focus and quality, and in that order.
+  </p>
+  <p>
+   In this view, the fact that
+   <a href="https://www.nytimes.com/2020/06/08/technology/china-twitter-disinformation.html">
+    deeply reported articles about Chinese disinformation on Twitter
+   </a>
+   are held as being low quality by the Chinese government is immaterial; what matters is that the
+   <em>
+    New York Times
+   </em>
+   ‘ audience, which is mostly in the United States, finds it of high quality (I certainly do).
+  </p>
+  <p>
+   That’s an easy example, but there are ones that hit closer to home; for example, I thought this 2018 story that claimed that
+   <a href="https://www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html">
+    Facebook Gave Data Access to Chinese Firm Flagged by U.S. Intelligence
+   </a>
+   was,
+   <a href="https://stratechery.com/2018/morris-chang-retires-apple-microsoft-facebook-follow-up-who-gets-to-be-on-the-steam-store/">
+    as I wrote at the time
+   </a>
+   , “deeply flawed at best, and willfully mendacious at worst.” It turns out, though, that I am not particularly interested in the “Everything tech does is bad” niche;
+   <a class="footnote-link footnote-identifier-link" href="#footnote_2_5020" id="identifier_2_5020" title="I’ve been pretty consistently in the tech is an amoral force camp, criticizing both those that see only evil and those that see only good">
+    3
+   </a>
+   that story was very high quality for much of the
+   <em>
+    New York Times
+   </em>
+   ‘s audience.
+  </p>
+  <p>
+   I don’t bring up this example to complain — quite the contrary! As I wrote in a piece called
+   <a href="https://stratechery.com/2015/in-defense-of-the-new-york-times/">
+    In Defense of the
+    <em>
+     New York Times
+    </em>
+   </a>
+   , after the company wrote an exposé about Amazon’s working conditions:
+  </p>
+  <blockquote>
+   <p>
+    The fact of the matter is that the
+    <em>
+     New York Times
+    </em>
+    almost certainly got various details of the Amazon story wrong. The mistake most critics made, though, was in assuming that any publication ever got everything completely correct. Baquet’s insistence that good journalism starts a debate may seem like a cop-out, but it’s actually a far healthier approach than the old assumption that any one publication or writer or editor was ever in a position to know “All the News That’s Fit to Print.”
+   </p>
+   <p>
+    I’d go further: I think we as a society are in a far stronger place when it comes to knowing the truth than we have ever been previously, and that is thanks to the Internet…the
+    <em>
+     New York Times
+    </em>
+    doesn’t have the truth, but then again, neither do I, and neither does Amazon. Amazon, though, along with the other platforms that, as described by Aggregation Theory, are increasingly coming to dominate the consumer experience, are increasingly powerful, even more powerful than governments. It is a great relief that the same Internet that makes said companies so powerful is architected such that challenges to that power can never be fully repressed, and I for one hope that the
+    <em>
+     New York Times
+    </em>
+    realizes its goal of actually making sustainable revenue in the process of doing said challenging.
+   </p>
+  </blockquote>
+  <p>
+   Indeed they have, and I see the ongoing criticism of tech as a feature, not a bug.
+  </p>
+  <h4>
+   Connections and Transformations
+  </h4>
+  <p>
+   There is, in this long-winded explanation, a connection to recent events.
+  </p>
+  <p>
+   First, that hopeful note about the Internet bringing us closer to the truth by virtue of increasing the amount of information is quite obviously correct.
+   <a href="https://stratechery.com/2020/dust-in-the-light/">
+    The light revealing the dust in the air
+   </a>
+   in terms of the African American experience is coming not from traditional publications, but from the fact that everyone is now a publisher; it turns out the black hole analogy applies not only to analog business models, but also to how the media covered what is clearly not a new problem.
+  </p>
+  <p>
+   Second, given the nichification of everything, whether by subject matter or sensibility, I am not surprised that the
+   <em>
+    New York Times
+   </em>
+   is
+   <a href="https://www.nytimes.com/2020/06/07/business/media/new-york-times-washington-post-protests.html">
+    finding it difficult
+   </a>
+   to sustain an opinion section purporting to represent all sides of an issue. This isn’t the pre-Internet era, when only a few publications had the reach to plausibly claim they had a duty to show both sides, and more importantly, when that reach defined their competitive advantage. Today all opinions from all people are available everywhere, and the
+   <em>
+    New York Times
+   </em>
+   ‘s ultimate responsibility is to its audience and its reporters.
+  </p>
+  <p>
+   Third, this discussion explains why
+   <a href="https://stratechery.com/2020/zuckerbergs-choice-zuckerbergs-power-zuckerbergs-conviction/">
+    Facebook’s calculation should be different
+   </a>
+   : Facebook (and Google) are not participating in the competition of ideas/attention/monetization, they are defining the terms of that competition. Instead of insisting either company leverage their power explicitly — particularly in terms of politicians that have electoral accountability — more attention should be paid to the fact that that power is completely unaccountable in the first place, and applied in so many ways we cannot see.
+  </p>
+  <p>
+   What is more worrying is the question of what, if anything, will be connective tissue for society going forward. Infinite niches on as neutral a set of platforms as we can manage makes sense, but by what means do we ensure that people do not disappear into those niches, even if only to decide on how we wish the underlying platforms to be regulated?
+  </p>
+  <p>
+   Perhaps over time it is geography that will follow business model, instead of the other way around; the shift towards work-from-home is a fascinating development in this regard. What does seem certain is that the past is less of a guide to the future than a reminder that the transformative impact of the Internet is only starting to be felt.
+  </p>
+  <ol class="footnotes">
+   <li class="footnote" id="footnote_0_5020">
+    In the small ‘d’ sense, not necessarily — although often! — the Christensen sense [
+    <a class="footnote-link footnote-back-link" href="#identifier_0_5020">
+     ↩
+    </a>
+    ]
+   </li>
+   <li class="footnote" id="footnote_1_5020">
+    The biggest change in the
+    <a href="https://stratechery.com/wp-content/uploads/2020/06/niches-9.png">
+     city view today
+    </a>
+    , beyond the relative numbers for the circles, is a far heavier representation in India and a fairly lighter representation in China [
+    <a class="footnote-link footnote-back-link" href="#identifier_1_5020">
+     ↩
+    </a>
+    ]
+   </li>
+   <li class="footnote" id="footnote_2_5020">
+    I’ve been pretty consistently in the
+    <a href="https://stratechery.com/2013/friction/">
+     tech is an amoral force
+    </a>
+    camp, criticizing both those that see only evil
+    <em>
+     and
+    </em>
+    <a href="https://stratechery.com/2017/the-pollyannish-assumption/">
+     those that see only good
+    </a>
+    [
+    <a class="footnote-link footnote-back-link" href="#identifier_2_5020">
+     ↩
+    </a>
+    ]
+   </li>
+  </ol>
+  <div class="sharedaddy sd-sharing-enabled">
+   <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+     Share
+    </h3>
+    <div class="sd-content">
+     <ul>
+      <li class="share-facebook">
+       <a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-5020" href="https://stratechery.com/2020/never-ending-niches/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+        <span>
+         Facebook
+        </span>
+       </a>
+      </li>
+      <li class="share-twitter">
+       <a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-5020" href="https://stratechery.com/2020/never-ending-niches/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+        <span>
+         Twitter
+        </span>
+       </a>
+      </li>
+      <li class="share-linkedin">
+       <a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-5020" href="https://stratechery.com/2020/never-ending-niches/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn">
+        <span>
+         LinkedIn
+        </span>
+       </a>
+      </li>
+      <li class="share-email">
+       <a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2020/never-ending-niches/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend">
+        <span>
+         Email
+        </span>
+       </a>
+      </li>
+      <li class="share-end">
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="jp-relatedposts" id="jp-relatedposts">
+   <h3 class="jp-relatedposts-headline">
+    <em>
+     Related
+    </em>
+   </h3>
+  </div>
+ </div>
+ <!-- .entry-content -->
+</article>
+

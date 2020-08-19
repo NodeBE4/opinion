@@ -1,0 +1,483 @@
+---
+layout: post
+title: "The TikTok War"
+date: 2020-07-14T14:05:27+00:00
+author: Ben Thompson
+from: https://stratechery.com/2020/the-tiktok-war/
+tags: [ Stratechery ]
+categories: [ Stratechery ]
+---
+
+<article class="post-5111 post type-post status-publish format-standard hentry category-articles topics-app-stores topics-cfius topics-china topics-content-moderation topics-countries topics-google-play-store topics-government-organizations topics-apple-app-store topics-messaging topics-networks topics-social topics-united-states topics-us-congress concepts-ethics-and-mores concepts-politics concepts-security concepts-technology-and-society companies-apple companies-bytedance companies-facebook companies-google companies-instagram companies-musical-ly companies-snapchat companies-tiktok" id="post-5111">
+ <header class="entry-header">
+  <h1 class="entry-title">
+   The TikTok War
+  </h1>
+  <div class="entry-meta">
+   <span class="posted-on">
+    <span class="screen-reader-text">
+     Posted on
+    </span>
+    <time class="entry-date published" datetime="2020-07-14T07:05:27-07:00">
+     Tuesday, July 14, 2020
+    </time>
+    <time class="updated" datetime="2020-08-03T06:02:50-07:00">
+     Monday, August 3, 2020
+    </time>
+   </span>
+   <span class="byline">
+    <span class="author vcard">
+     <span class="screen-reader-text">
+      Author
+     </span>
+     by
+     <a class="url fn n" href="https://stratechery.com/author/stratechery/">
+      Ben Thompson
+     </a>
+    </span>
+   </span>
+  </div>
+  <!-- .entry-meta -->
+ </header>
+ <!-- .entry-header -->
+ <div class="entry-content">
+  <div class="podcastlinks">
+   <a href="https://stratechery.com/podcasts/">
+    Manage your Stratechery subscription.
+   </a>
+  </div>
+  <p>
+   Over the last week, as the idea of banning TikTok in the U.S. has shifted from a fringe idea to a seeming inevitability (thanks in no small part to
+   <a href="https://stratechery.com/2020/india-bans-chinese-apps-the-app-store-firewall-reddit-and-the-donald/">
+    India’s decision to do just that
+   </a>
+   ), those opposed to the idea and those in support seem to be talking past each other. The reasons for this disconnect go beyond the usual divisions in tech, culture, and national security: what makes TikTok so unique is that it is the culmination of two trends: one about humans and the Internet, and the other about China and ideology.
+  </p>
+  <h4>
+   The Analog World
+  </h4>
+  <p>
+   It is always tricky to look at the analog world if you are trying to understand the digital one. When it comes to designing products, a pattern you see repeatedly is copying what came before, poorly, and only later creating something native to the medium.
+  </p>
+  <p>
+   Consider text: given that newspapers monetized by placing advertisements next to news stories, the first websites tried to monetize by — you guessed it — placing advertisements next to news stories. This worked, but not particularly well; publishers talked about print dollars and digital dimes, and later mobile pennies. Sure, the Internet drew attention, but it just didn’t monetize well.
+  </p>
+  <p>
+   What changed was the feed, something uniquely enabled by digital. Whereas a newspaper had to be defined up-front, such that it could be printed and distributed
+   <a href="https://stratechery.com/2019/the-internet-and-the-third-estate/">
+    at scale
+   </a>
+   , a feed is tailored to the individual in real-time — and so are the advertisements. Suddenly it was print that was worth pennies, while the Internet generally and mobile especially were worth more than newspapers ever were.
+  </p>
+  <p>
+   At the same time, while mediums change, humans remain the same, and here analog history is helpful; last month
+   <a href="https://stratechery.com/2020/never-ending-niches/">
+    I pointed out
+   </a>
+   that while newspaper revenue grew throughout the latter half of the 20th century, circulation actually fell. It’s the same story when it comes to newspapers’ overall share of advertising:
+  </p>
+  <p>
+   <img alt="Newspapers' declining share of advertising to TV" class="aligncenter size-large wp-image-5113" height="346" sizes="(max-width: 640px) 100vw, 640px" src="https://stratechery.com/wp-content/uploads/2020/07/tiktok-1-1024x553.png" srcset="https://stratechery.com/wp-content/uploads/2020/07/tiktok-1-1024x553.png 1024w, https://stratechery.com/wp-content/uploads/2020/07/tiktok-1-300x162.png 300w, https://stratechery.com/wp-content/uploads/2020/07/tiktok-1-768x415.png 768w, https://stratechery.com/wp-content/uploads/2020/07/tiktok-1-1167x630.png 1167w, https://stratechery.com/wp-content/uploads/2020/07/tiktok-1.png 1280w" width="640"/>
+  </p>
+  <p>
+   Assuming that advertising revenue is a reasonable proxy for attention, it turns out that humans like pictures more than text, and moving pictures most of all; so it has gone on the Internet. Once Facebook introduced the news feed the company quickly figured out that photos drove much more engagement; that meant that Instagram, a fledgling social network made of nothing but photos, was a tremendous threat and,
+   <a href="https://twitter.com/benthompson/status/189433922243919872">
+    once acquired
+   </a>
+   , a tremendous opportunity.
+  </p>
+  <p>
+   Four years later, it was Instagram that Facebook used to counter Snapchat’s Stories feature, an even more immersive way of interacting with content than the feed. The point was not to win users back from Snapchat, but
+   <a href="https://stratechery.com/2016/the-audacity-of-copying-well/">
+    to prevent Instagram users from even trying Snapchat out
+   </a>
+   ; the gambit succeeded beautifully.
+  </p>
+  <h4>
+   The Rise of TikTok
+  </h4>
+  <p>
+   The rise of TikTok, though, suggests that Facebook didn’t learn the correct lesson from the Snapchat threat: while part of Snapchat’s allure was the possibility of creating a new network in an app predicated on chat and disappearing media, what made Stories particularly compelling is that the experience was closer to video. That meant there was an opportunity to focus on specifically that.
+  </p>
+  <p>
+   Of course Facebook had spent plenty of time trying to get video to work in its feed; flush with money from its targeted feed-based advertising the company lurched from initiative to initiative predicated on encouraging professional video makers to focus on Facebook instead of YouTube. The error the company made is obvious in retrospect: what has always made Facebook powerful is that its most valuable content is generated by its own users, yet the company was counting on 3rd-parties to make compelling videos.
+  </p>
+  <p>
+   You can understand Facebook’s thinking: while it is easy for users to create text updates, and, with the rise of smartphones, even easier to create pictures, producing video is difficult. Until recently, phone cameras were even worse at video than they were photos, but more importantly, compelling video takes some degree of planning and skill. The chances of your typical Facebook user having a network full of accomplished videographers is slim, and remember, when it comes to showing user-generated content, Facebook is constrained by who your friends are (the company
+   <a href="https://www.ftc.gov/news-events/press-releases/2011/11/facebook-settles-ftc-charges-it-deceived-consumers-failing-keep">
+    got busted by the FTC
+   </a>
+   for trying to switch posts from private to public).
+  </p>
+  <p>
+   All of this explains what makes TikTok such a breakthrough product. First, humans like video. Second, TikTok’s video creation tools were far more accessible and inspiring for non-professional videographers. The crucial missing piece, though, is that TikTok isn’t really a social network.
+  </p>
+  <h4>
+   ByteDance and the Algorithm
+  </h4>
+  <p>
+   This is where it is important to understand the history of ByteDance, TikTok’s Chinese owner. ByteDance’s breakthrough product was a news app called TouTiao; whereas
+   <a href="https://stratechery.com/2015/facebook-and-the-feed/">
+    Facebook evolved from being primarily a social network to an algorithmic feed
+   </a>
+   , TouTiao was about the feed and the algorithm from the beginning. The first time a user opened TouTiao, the news might be rather generic, but every scroll, every linger over a story, every click, was fed into a feedback loop that refined what it was the user saw.
+  </p>
+  <p>
+   Meanwhile all of that data fed back into TouTiao’s larger machine learning processes, which effectively ran billions of A/B tests a day on content of all types, cross-referenced against all of the user data it could collect. Soon the app was indispensable to its users, able to anticipate the news they cared about with nary a friend recommendation in sight. That was definitely more of a feature than a bug in China, where any information service was subject to not just overt government censorship, but also an expectation of self-censorship; all the better to control everything that end users saw, without the messiness of users explicitly recommending content themselves (although that didn’t prevent ByteDance CEO Zhang Yiming from having to give
+   <a href="https://www.newyorker.com/news/daily-comment/why-china-cracked-down-on-the-social-media-giant-bytedance">
+    a groveling apology
+   </a>
+   for giving users too much low-brow content).
+  </p>
+  <p>
+   ByteDance’s 2016 launch of Douyin — the Chinese version of TikTok — revealed another, even more important benefit to relying purely on the algorithm: by expanding the library of available video from those made by your network to any video made by anyone on the service, Douyin/TikTok leverages the sheer scale of user-generated content to generate far more compelling content than professionals could ever generate, and relies on its algorithms to ensure that users are only seeing the cream of the crop. I noted while explaining
+   <a href="https://stratechery.com/2020/tiktok-and-quibi-tiktok-and-shopify-tiktok-complications/">
+    what Quibi got wrong
+   </a>
+   :
+  </p>
+  <blockquote>
+   <p>
+    The single most important fact about both movies and television is that they were defined by scarcity: there were only so many movies that would ever be made to fill only so many theater slots, and in the case of TV, there were only 24 hours in a day. That meant that there was significant value in being someone who could figure out what was going to be a hit before it was ever created, and then investing to make it so. That sort of selection and production is what Katzenberg and the rest of Hollywood have been doing for decades, and it’s understandable that Katzenberg thought he could apply the same formula to mobile.
+   </p>
+   <p>
+    Mobile, though, is defined by the Internet, which is to say it is defined by abundance…So it is on TikTok, or any other app with user-generated content. The goal is not to pick out the hits, but rather to attract as much content as possible, and then algorithmically boost whatever turns out to be good…The truth is that Katzenberg got a lot right: YouTube did have a vulnerability in terms of video content on mobile, in part because it was a product built for the desktop; TikTok, like Quibi, is unequivocally a mobile application. Unlike Quibi, though, it is also an entertainment entity predicated on Internet assumptions about abundance, not Hollywood assumptions about scarcity.
+   </p>
+  </blockquote>
+  <p>
+   To summarize:
+  </p>
+  <ul>
+   <li>
+    Humans prefer video to photos to text
+   </li>
+   <li>
+    TikTok makes it easy to create videos, ensuring a massive supply of content (even if most of the supply is low quality)
+   </li>
+   <li>
+    TikTok relies on the algorithm to surface compelling content, and is not constrained by your social network
+   </li>
+  </ul>
+  <p>
+   This both explains why TikTok succeeds, and why it is an app the United States ought to be concerned about.
+  </p>
+  <h4>
+   China’s War
+  </h4>
+  <p>
+   It was just over a year ago, after the U.S. government placed restrictions on selling components to Huawei, that
+   <a href="https://stratechery.com/2019/china-leverage-and-values/">
+    I pushed back on declarations that tech was entering a cold war
+   </a>
+   :
+  </p>
+  <blockquote>
+   <p>
+    This is where I take the biggest issue with labeling this past week’s actions as the start of a tech cold war: China took the first shots, and they took them a long time ago. For over a decade U.S. services companies have been unilaterally shut out of the China market, even as Chinese alternatives had full reign, running on servers built with U.S. components (and likely using U.S. intellectual property).
+   </p>
+   <p>
+    To be sure, China’s motivation was not necessarily protectionism, at least in the economic sense: what mattered most to the country’s ruling Communist Party was control of the flow of information. At the same time, from a narrow economic perspective, the truth is that China has been limiting the economic upside of U.S. companies far longer than the U.S. has tried to limit China’s.
+   </p>
+  </blockquote>
+  <p>
+   I can’t emphasize this point enough: one of the gravest errors made by far too many people in the U.S. is taking an exceptionally self-centered view of U.S.-China relations, where everything is about what the U.S. says and does, while China is treated like an
+   <a href="https://en.wikipedia.org/wiki/Non-player_character">
+    NPC
+   </a>
+   . Indeed, it is quite insulting to China, a great nation with a history far longer than that of the United States.
+  </p>
+  <p>
+   To that end, this long history looms large in how China thinks about its relationship to the U.S. specifically, and the West generally. China is driven to reverse its “century of humiliation”, and to retake what it sees as its rightful place as a dominant force in the world. What few in the West seem to realize, though, is that the Chinese Communist Party very much believes that Marxism is the means by which that must be accomplished, and that Western liberal values are actively hostile to that goal. Tanner Greer wrote
+   <a href="https://www.tabletmag.com/sections/news/articles/china-plans-global-order">
+    in Tablet
+   </a>
+   :
+  </p>
+  <blockquote>
+   <p>
+    Xi Jinping endorsed this explanation for the Soviet collapse
+    <a href="https://palladiummag.com/2019/05/31/xi-jinping-in-translation-chinas-guiding-ideology/">
+     in a 2013 address to party cadres.
+    </a>
+    “Why did the Soviet Union disintegrate?” he asked his audience. “An important reason is that in the ideological domain, competition is fierce!” The party leadership is determined to avoid the Soviet mistake.
+    <a href="https://www.chinafile.com/document-9-chinafile-translation">
+     A leaked internal party directive from 2013
+    </a>
+    describes “the very real threat of Western anti-China forces and their attempt at carrying out westernization” within China. The directive describes the party as being in the midst of an “intense, ideological struggle” for survival. According to the directive, the ideas that threaten China with “major disorder” include concepts such as “separation of powers,” “independent judiciaries,” “universal human rights,” “Western freedom,” “civil society,” “economic liberalism,” “total privatization,” “freedom of the press,” and “free flow of information on the internet.” To allow the Chinese people to contemplate these concepts would “dismantle [our] party’s social foundation” and jeopardize the party’s aim to build a modern, socialist future.
+   </p>
+   <p>
+    Westerners asked to think about competition with China — a minority until fairly recently, as many envisioned a China liberalized by economic integration — tend to see it through a geopolitical or military lens. But Chinese communists believe that the greatest threat to the security of their party, the stability of their country, and China’s return to its rightful place at the center of human civilization, is ideological. They are not fond of the military machines United States Pacific Command has arrayed against them, but what spooks them more than American weapons and soldiers are ideas—hostile ideas they believe America has embedded in the discourse and institutions of the existing global order. “International hostile forces [seek to] westernize and divide China” warned former CPC General Secretary Jiang Zemin more than a decade ago, and that means that, as Jiang argued in a second speech, the “old international political and economic order” created by these forces “has to be changed fundamentally” to safeguard China’s rejuvenation. Xi Jinping has endorsed this view, arguing that “since the end of the Cold War countries affected by Western values have been torn apart by war or afflicted with chaos. If we tailor our practices to Western values … The consequences will be devastating.”
+   </p>
+  </blockquote>
+  <p>
+   This is why it was not enough for China to have blocked Western social networks like Facebook or Twitter within China, but to also
+   <a href="https://stratechery.com/2019/the-china-cultural-clash/">
+    demand that Western entities like the NBA police Twitter content in the United States
+   </a>
+   ; I wrote at the time:
+  </p>
+  <blockquote>
+   <p>
+    The problem from a Western perspective is that the links Clinton was so sure would push in only one direction — towards political freedom — turned out to be two-way streets: China is not simply resisting Western ideals of freedom, but seeking to impose their own.
+   </p>
+  </blockquote>
+  <p>
+   This understanding of China’s belief that it is fighting an ideological war explains why the severe curtailing of freedom that happened in Hong Kong this month was inevitable; if the Party’s ideology is ultimately opposed to liberalism anywhere, “one country-two systems” were always empty words in service of China’s rejuvenation, and Marxism’s triumph. To see that reality, though, means taking China seriously, and
+   <a href="https://palladiummag.com/2019/05/31/xi-jinping-in-translation-chinas-guiding-ideology/">
+    believing what they say
+   </a>
+   .
+  </p>
+  <h4>
+   TikTok and Data
+  </h4>
+  <p>
+   In that light, the latest TikTok news missed the mark, and ultimately, missed the point; from the
+   <a href="https://www.nytimes.com/2020/07/10/technology/tiktok-amazon-security-risk.html">
+    New York Times
+   </a>
+   :
+  </p>
+  <blockquote>
+   <p>
+    Amazon on Friday asked its employees to delete the Chinese-owned video app TikTok from their cellphones, putting the tech giant at the center of growing suspicion and paranoia about the app. Almost five hours later, Amazon reversed course, saying the email to workers was sent in error.
+   </p>
+   <p>
+    In the initial email, which was obtained by The New York Times, Amazon officials said that because of “security risks,” employees must delete the app from any devices that “access Amazon email.” Employees had to remove the app by Friday to remain able to obtain mobile access to their Amazon email, the note said.
+   </p>
+  </blockquote>
+  <p>
+   While traditional applications on Macs or PCs had full access to your computer — including your email — on modern smartphones apps exist in “sandboxes”, which,
+   <a href="https://twitter.com/ditheringfm/status/1282688510047080449">
+    as John Gruber and I discussed on Dithering
+   </a>
+   , are much more akin to a vault or a prison; apps can only access their own data, and a limited set of external data to which they are explicitly granted permission. In other words, banning TikTok because it is surreptitiously stealing your email doesn’t make technical sense.
+  </p>
+  <p>
+   That is not to say that TikTok is not capturing data: it is vacuuming up as much as it can, from your usage to your IP address to your contacts and location (if you gave the app permission). This, as many TikTok advocates note, is similar to what Facebook does.
+  </p>
+  <p>
+   This, to be clear, is absolutely true. It is also at this point where important differences emerge. First, Facebook is a U.S. company, and while TikTok claims that it is independent from ByteDance and stores data in the U.S. and Singapore, its
+   <a href="https://www.tiktok.com/legal/privacy-policy?lang=en#privacy-us">
+    privacy policy
+   </a>
+   is clear:
+  </p>
+  <blockquote>
+   <p>
+    We may share your information with a parent, subsidiary, or other affiliate of our corporate group.
+   </p>
+  </blockquote>
+  <p>
+   That means that TikTok data absolutely can be sent to China, and, it is important to note, this would be the case even if the privacy policy were not so honest. All Chinese Internet companies are compelled by the country’s
+   <a href="https://www.lawfareblog.com/beijings-new-national-intelligence-law-defense-offense">
+    National Intelligence Law
+   </a>
+   to turn over any and all data that the government demands, and that power is not limited by China’s borders. Moreover, this requisition of data is not subject to warrants or courts, as is the case with U.S. government requests for data from Facebook or any other entity; the Chinese government absolutely could be running a learning algorithms in parallel to ByteDance’s on all TikTok data.
+  </p>
+  <p>
+   If anything it would be a something of a surprise were it not; an important piece of China’s thousands of years of history is the presence of a bureaucracy focused on collecting data on, well, everyone and everything. I see examples of it here in Taiwan, where my household is registered, cameras are everywhere (and routinely accessed), and
+   <a href="https://stratechery.com/2020/compaq-and-coronavirus/">
+    cellphone data is a pandemic fighting tool
+   </a>
+   , and this is a democratic country based on liberal values. China, which combines this tradition with a totalitarian government, takes data collection to the max. Facial recognition is omnipresent, nearly all transactions, even in the real world, are digital, and social networks like WeChat are completely open to censors, both from Tencent and the government; the government even
+   <a href="https://www.chinalawblog.com/2020/07/china-malware-sorry-techno-geeks-there-still-is-no-place-to-hide.html">
+    hacks your computers
+   </a>
+   as a matter of policy. Given this reality it is completely reasonable to be concerned about TikTok data!
+  </p>
+  <p>
+   That, though, is not the primary risk: what should truly concern Americans is the algorithm.
+  </p>
+  <h4>
+   TikTok’s Algorithm
+  </h4>
+  <p>
+   Last month, after President Trump held a rally in Tulsa with a far-smaller crowd than he anticipated,
+   <a href="https://www.nytimes.com/2020/06/21/style/tiktok-trump-rally-tulsa.html">
+    the New York Times suggested
+   </a>
+   that TikTok might be responsible:
+  </p>
+  <blockquote>
+   <p>
+    President Trump’s campaign promised huge crowds at his rally in Tulsa, Okla., on Saturday, but it failed to deliver. Hundreds of teenage TikTok users and K-pop fans say they’re at least partially responsible…
+   </p>
+   <p>
+    TikTok users and fans of Korean pop music groups claimed to have registered potentially hundreds of thousands of tickets for Mr. Trump’s campaign rally as a prank. After the Trump campaign’s official account @TeamTrump posted a tweet asking supporters to register for free tickets using their phones on June 11, K-pop fan accounts began sharing the information with followers, encouraging them to register for the rally — and then not show.
+   </p>
+  </blockquote>
+  <p>
+   Leaving aside whether or not the TikTok campaign or coronavirus concerns were responsible for the low turnout, I actually am inclined to believe that this movement on the video service was genuine. It is important to note, though, that there is no way we can know for sure, and, to the extent that TikTok actually did have an impact on the rally, that should frighten people of all political persuasions.
+  </p>
+  <p>
+   After all, this certainly wasn’t the first time that TikTok has seemed to act politically: the service
+   <a href="https://www.cnbc.com/2020/06/02/tiktok-blacklivesmatter-censorship.html">
+    censored #BlackLivesMatter and #GeorgeFloyd
+   </a>
+   ,
+   <a href="https://www.theguardian.com/technology/2019/nov/28/tiktok-says-sorry-to-us-teenager-blocked-after-sharing-xinjiang-videos">
+    blocked a teenager
+   </a>
+   discussing China’s
+   <a href="https://apnews.com/269b3de1af34e17c1941a514f78d764c">
+    genocide in Xinjiang
+   </a>
+   , and
+   <a href="https://qz.com/1788836/targeting-tiktoks-privacy-alone-misses-a-much-larger-point/">
+    blocked a video of Tank Man
+   </a>
+   .
+   <a href="https://www.theguardian.com/technology/2019/sep/25/revealed-how-tiktok-censors-videos-that-do-not-please-beijing">
+    The Guardian
+   </a>
+   published TikTok guidelines that censored Tiananmen Square, Tibetan independence, and the Falun Gong, and
+   <a href="https://stratechery.com/2019/the-china-cultural-clash/">
+    I myself demonstrated
+   </a>
+   that TikTok appeared to be censoring the Hong Kong protests and Houston Rockets basketball team.
+  </p>
+  <p>
+   The point, though, is not just censorship, but its inverse: propaganda. TikTok’s algorithm, unmoored from the constraints of your social network or professional content creators, is free to promote whatever videos it likes, without anyone knowing the difference. TikTok could promote a particular candidate or a particular issue in a particular geography, without anyone — except perhaps the candidate, now indebted to a Chinese company — knowing. You may be skeptical this might happen, but again, China has already demonstrated a willingness to censor speech on a platform banned in China; how much of a leap is it to think that a Party committed to ideological dominance will forever leave a route directly into the hearts and minds of millions of Americans untouched?
+  </p>
+  <p>
+   Again, this is where it is worth taking China seriously: the Party has shown through its actions, particularly building and maintaining the Great Firewall at tremendous expense, that it believes in the power of information and ideas.
+   <a href="https://palladiummag.com/2020/07/08/the-theory-of-history-that-guides-xi-jinping/">
+    Countless speeches
+   </a>
+   , from Chairman Xi and others, have stated that the Party believes it is in an ideological war with liberalism generally and the U.S. specifically. If we are to give China’s leaders the respect of believing what they say, instead of projecting our own beliefs for no reason other than our own solipsism, how can we take that chance?
+  </p>
+  <h4>
+   A Reluctant Prescription
+  </h4>
+  <p>
+   I am not a China absolutist; to give one timely example, while I mourn the end of a free and vibrant Hong Kong that I have had the pleasure of visiting on multiple occasions, I am unmoved by complaints about China’s promised adherence to the Basic Law; it has become clear that was a means to the end of reclaiming Hong Kong from a colonial power,
+   <a class="footnote-link footnote-identifier-link" href="#footnote_0_5111" id="identifier_0_5111" title="This originally said, “that was an agreement imposed on China by a colonial power” which is not technically correct; the point I was trying to make is that China promulgated the Basic Law as a response to British rule, not because it believed in it">
+    1
+   </a>
+   and Hong Kong is unquestionably a Chinese city, ultimately subject to Chinese law. Similarly, I abhor and condemn and encourage all
+   <a href="https://stratechery.com/2020/hong-kong-and-facebook-the-pacific-light-cable-network-system-and-stripe-facebook-lasso-and-instagram-reels/">
+    to speak out
+   </a>
+   about
+   <a href="https://www.nytimes.com/interactive/2019/11/16/world/asia/china-xinjiang-documents.html">
+    what is happening to Uighur’s in Xinjiang
+   </a>
+   , but I am not counseling U.S. intervention.
+  </p>
+  <p>
+   What is increasingly clear, though, is that China’s insistence that the West ignore the country’s “internal affairs” is a sentiment that is not reciprocated; the list of Western companies
+   <a href="https://www.reddit.com/r/HongKong/comments/dfg1ce/list_of_companies_under_chinas_censorship_orders/">
+    bullied by China
+   </a>
+   for Western content is long and growing, the country is
+   <a href="https://www.propublica.org/article/how-china-built-a-twitter-propaganda-machine-then-let-it-loose-on-coronavirus">
+    flooding Twitter and Facebook
+   </a>
+   with coronavirus propaganda, and is
+   <a href="https://www.cjr.org/tow_center_reports/wechatting-american-politics-misinformation-polarization-and-immigrant-chinese-media.php">
+    leveraging WeChat to spread misinformation
+   </a>
+   and to
+   <a href="https://citizenlab.ca/2020/05/wechat-surveillance-explained/">
+    surveil the Chinese diaspora
+   </a>
+   .
+  </p>
+  <p>
+   In short, I believe it is time to take China seriously and literally: the Communist Party is not only ideologically opposed to liberalism, it believes that only one of liberalism or Marxism can prevail. To that end it has been taking action for over 20 years to control information within its borders and, over the last several years, to control information outside of its borders. It is time for the U.S. to respond, both on the government level and corporate level, and it should do so in a multi-faceted fashion.
+  </p>
+  <p>
+   First, data security is absolutely a concern. To that end all companies that deal with valuable intellectual property or national security-related information should ban the use of WeChat by any of their employees, as should the government; it is simply too easy to pass information, even by accident. In addition, that same group of companies and governments
+   <a href="https://stratechery.com/2020/podcast-apps-banned-in-china-podcast-censorship-zoom-suspends-u-s-based-chinese-activist/">
+    should not use Zoom
+   </a>
+   until the (American) company has shifted the bulk of its engineering out of China and demonstrated
+   <a href="https://stratechery.com/2020/zooms-genuine-oversight-zooms-strengths-and-weaknesses-virality-versus-network-effects/">
+    vastly improved corporate controls
+   </a>
+   .
+  </p>
+  <p>
+   What matters more in an ideological war, though, is influence, and that is why I do believe that ByteDance’s continued ownership of TikTok is unacceptable. My strong preference would be for ByteDance to sell TikTok to non-Chinese investors or a non-Chinese company, by which I mean not-Facebook. TikTok is not only a brilliant app that figured out video on mobile, it is also shaping up to be a major challenge to Facebook’s hold on attention and thus, in the long run, advertising. This would be a very good thing, and I fear that simply banning TikTok will simply leave the market to Instagram Reels,
+   <a href="https://www.youtube.com/watch?v=94FOrfF0pew">
+    Facebook’s TikTok clone
+   </a>
+   .
+  </p>
+  <p>
+   However, if ByteDance is unwilling to sell, then the U.S. government should be willing to act. One possible route is a review of ByteDance’s acquisition of Musical.ly by the Committee on Foreign Investment in the United States (CFIUS), or invoking the International Emergency Economic Powers Act (IEEPA), which would require declaring a national emergency; I would prefer that Congress take the lead. What is notable is that because of the dominance of the iOS App Store and Google Play Store there is no need for an ISP-level firewall; Apple and Google can not only remove TikTok from the App Store, they could, if ordered, make already-installed apps unusable.
+  </p>
+  <p>
+   This is, without question, a prescription I don’t come to lightly. Perhaps the most powerful argument against taking any sort of action is that we aren’t China, and isn’t blocking TikTok something that China would do? Well yes, we know that is what they would do, because the Chinese government has blocked U.S. social networks for years. Wars, though, are fought not because we lust for battle, but because we pray for peace. If China is on the offensive against liberalism not only within its borders but within ours, it is in liberalism’s interest to cut off a vector that has taken root precisely because it is so brilliantly engineered to give humans exactly what they want.
+  </p>
+  <p>
+   <em>
+    I wrote a follow-up to this article in
+    <a href="https://stratechery.com/2020/xi-jinping-thought-facebooks-blindspot-the-moat-map-revisited/">
+     this Daily Update
+    </a>
+    .
+   </em>
+  </p>
+  <ol class="footnotes">
+   <li class="footnote" id="footnote_0_5111">
+    This originally said, “that was an agreement imposed on China by a colonial power” which is not technically correct; the point I was trying to make is that China promulgated the Basic Law as a response to British rule, not because it believed in it [
+    <a class="footnote-link footnote-back-link" href="#identifier_0_5111">
+     ↩
+    </a>
+    ]
+   </li>
+  </ol>
+  <div class="sharedaddy sd-sharing-enabled">
+   <div class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing">
+    <h3 class="sd-title">
+     Share
+    </h3>
+    <div class="sd-content">
+     <ul>
+      <li class="share-facebook">
+       <a class="share-facebook sd-button share-icon" data-shared="sharing-facebook-5111" href="https://stratechery.com/2020/the-tiktok-war/?share=facebook" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Facebook">
+        <span>
+         Facebook
+        </span>
+       </a>
+      </li>
+      <li class="share-twitter">
+       <a class="share-twitter sd-button share-icon" data-shared="sharing-twitter-5111" href="https://stratechery.com/2020/the-tiktok-war/?share=twitter" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on Twitter">
+        <span>
+         Twitter
+        </span>
+       </a>
+      </li>
+      <li class="share-linkedin">
+       <a class="share-linkedin sd-button share-icon" data-shared="sharing-linkedin-5111" href="https://stratechery.com/2020/the-tiktok-war/?share=linkedin" rel="nofollow noopener noreferrer" target="_blank" title="Click to share on LinkedIn">
+        <span>
+         LinkedIn
+        </span>
+       </a>
+      </li>
+      <li class="share-email">
+       <a class="share-email sd-button share-icon" data-shared="" href="https://stratechery.com/2020/the-tiktok-war/?share=email" rel="nofollow noopener noreferrer" target="_blank" title="Click to email this to a friend">
+        <span>
+         Email
+        </span>
+       </a>
+      </li>
+      <li class="share-end">
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <div class="jp-relatedposts" id="jp-relatedposts">
+   <h3 class="jp-relatedposts-headline">
+    <em>
+     Related
+    </em>
+   </h3>
+  </div>
+ </div>
+ <!-- .entry-content -->
+</article>
+
