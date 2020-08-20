@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "俄罗斯正模仿美国棱镜计划建立大规模监视系统 — — Wikileaks 披露（中文版）⏳ - iYouPort"
+title: "俄罗斯正模仿美国棱镜计划建立大规模监视系统 — — Wikileaks 披露（中文版）- iYouPort"
 date: 2017-06-22T10:48:14+00:00
 author: iYouPort
 from: https://www.iyouport.org/%e4%bf%84%e7%bd%97%e6%96%af%e6%ad%a3%e6%a8%a1%e4%bb%bf%e7%be%8e%e5%9b%bd%e6%a3%b1%e9%95%9c%e8%ae%a1%e5%88%92%e5%bb%ba%e7%ab%8b%e5%a4%a7%e8%a7%84%e6%a8%a1%e7%9b%91%e8%a7%86%e7%b3%bb%e7%bb%9f%e2%80%8a/
@@ -11,7 +11,7 @@ categories: [ iYouPort ]
 <article class="post-5325 post type-post status-publish format-standard has-post-thumbnail hentry category-knowledge-node category-newsletters category-59 category-20 tag-bigbrother tag-humanrights tag-russia tag-surveillance tag-transparency-revolution tag-wikileaks" id="post-5325">
  <header class="entry-header">
   <h1 class="entry-title">
-   俄罗斯正模仿美国棱镜计划建立大规模监视系统 — — Wikileaks 披露（中文版）⏳
+   俄罗斯正模仿美国棱镜计划建立大规模监视系统 — — Wikileaks 披露（中文版）⏳
   </h1>
  </header>
  <div class="entry-meta">
