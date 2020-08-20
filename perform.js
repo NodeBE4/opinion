@@ -59,8 +59,8 @@ async function fetchFeedx(site, url) {
       link = item.guid
     }
     return {
-      title: item.title,
-      content: content,
+      title: item.title.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),
+      content: content.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),
       link: link,
       pubDate: Date.parse(item.pubDate),
       site: site
@@ -148,7 +148,7 @@ function generateArticle(article) {
     pubDate = today
   }
   let dateString = pubDate.toISOString()
-  let titletext = article.title.toString().replace(/"/g, '\\"').replace(/'/g,'\\\'').replace("...", '')
+  let titletext = article.title.toString().replace(/"/g, '\\"').replace("...", '')
   let articlelink = new URL(article.link).href
   let header = `---
 layout: post
