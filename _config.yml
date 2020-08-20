@@ -34,6 +34,8 @@ navigation:
 # Pagination
 paginate: 50
 
+searchlimit: 100
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
@@ -108,7 +110,6 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-paginate
-  - jekyll-algolia
 
 # Exclude these files from your production _site
 exclude:

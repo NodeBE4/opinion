@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Missing "Why" of the iPad"
+title: 'The Missing "Why" of the iPad'
 date: 2013-10-24T15:33:18+00:00
 author: Ben Thompson
 from: https://stratechery.com/2013/missing-ipad/

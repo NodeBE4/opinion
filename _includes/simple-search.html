@@ -12,7 +12,7 @@
     json: '{{site.baseurl}}/search.json',
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
     noResultsText: '没找到',
-    limit: 100,
+    limit: {{ site.searchlimit }},
     fuzzy: false,
     exclude: ['Welcome']
   })
