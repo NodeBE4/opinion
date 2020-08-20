@@ -10,7 +10,7 @@ layout: null
       "tags"     : "{{ post.tags | join: ', ' }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date | date: '%Y-%m-%d' }}",
-      "desc"     : "{{ post.author }} {{ post.content | strip_html | strip_newlines | normalize_whitespace | escape | replace: "\", " " | remove: '\b' | truncate: 100 }}"
+      "desc"     : "{{ post.author }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
