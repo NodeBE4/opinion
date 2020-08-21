@@ -9,7 +9,6 @@ let feedxUrls = {
   '萬有引力之蟲': 'http://gravitysworm.tumblr.com/rss',
   '编程随想的博客': 'https://feeds2.feedburner.com/programthink?format=xml',
   '透視中國-YouTube': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUGekZ_Ig4dP3NDcJCdOK6aA',
-  '透視中國-文章': 'https://tw.sinoinsider.com/feed/',
   '野兽爱智慧': 'https://rsshub.app/matters/author/philosophia1979',
   'The Sociologist': 'https://sociologist.xyz/feed.xml',
   'The Sociologist TG': 'https://rsshub.app/telegram/channel/thesoc',
