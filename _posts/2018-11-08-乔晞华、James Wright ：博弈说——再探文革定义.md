@@ -1,444 +1,443 @@
 ---
-layout: post
-title: "乔晞华、James Wright ：博弈说——再探文革定义"
+author: ''
+categories: [中國戰略分析]
 date: 2018-11-08
-author: 乔晞华、James
 from: http://zhanlve.org/?p=6246
-tags: [ 中國戰略分析 ]
-categories: [ 中國戰略分析 ]
+layout: post
+tags: [中國戰略分析]
+title: 乔晞华、James Wright ：博弈说——再探文革定义
 ---
 
 <div id="entry">
- <div class="at-above-post addthis_tool" data-url="http://zhanlve.org/?p=6246">
- </div>
- <p>
-  <img alt="" class="aligncenter wp-image-6247 size-medium" height="169" sizes="(max-width: 300px) 100vw, 300px" src="http://zhanlve.org/wp-content/uploads/2018/11/160503044327_baidu_976x549_afp_nocredit-8-300x169.jpg" srcset="http://zhanlve.org/wp-content/uploads/2018/11/160503044327_baidu_976x549_afp_nocredit-8-300x169.jpg 300w, http://zhanlve.org/wp-content/uploads/2018/11/160503044327_baidu_976x549_afp_nocredit-8.jpg 660w" width="300"/>
- </p>
- <p>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<div class="at-above-post addthis_tool" data-url="http://zhanlve.org/?p=6246">
+</div>
+<p>
+<img alt="" class="aligncenter wp-image-6247 size-medium" height="169" sizes="(max-width: 300px) 100vw, 300px" src="http://zhanlve.org/wp-content/uploads/2018/11/160503044327_baidu_976x549_afp_nocredit-8-300x169.jpg" srcset="http://zhanlve.org/wp-content/uploads/2018/11/160503044327_baidu_976x549_afp_nocredit-8-300x169.jpg 300w, http://zhanlve.org/wp-content/uploads/2018/11/160503044327_baidu_976x549_afp_nocredit-8.jpg 660w" width="300"/>
+</p>
+<p>
+</p>
+<p>
+<span style="font-size: 12pt;">
    摘要
   </span>
-  <span style="font-size: 12pt;">
+<span style="font-size: 12pt;">
    关于文革定义，一直存在着争议。本文对具有代表性的四大派别进行了批判。中共《决议》的“内乱说”把保守派和党的各级领导在文革中的罪责一笔勾消。造反派被描绘成为双手沾满鲜血的恶棍和流氓。邓及其追随者被打扮成文革的主要受害者，掩盖了真正受害者是黑五类的事实。“一个文革说”是建筑在早已被摒弃的“乌合之众论”框架下的学说。而该理论早在上世纪的70年代已经遭到毁灭性批判。马克思主义的“社会冲突论”由于社会运动学出现了更新的理论，早已失去往日的威力退出了历史舞台。“两个文革说”存在着定位问题，牵强附会地把文革定义为“人民起义”缺乏根据。文革中的群众运动事实上是社会运动中常见的“改革运动”，与革命无关。本文提出文革的新定义：文革是党内外的激进派、温和派和保守派六个集团间和集团内进行的一场不完全信息的非合作式的博弈，简称为“博弈说”。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    关键词：文革定义、一个文革说、两个文革说、社会冲突论、博弈说
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    绪言 :
   </span>
-  <span style="font-size: 12pt;">
+<span style="font-size: 12pt;">
    对于文革的定义和分期，一直存在着争议。文革不同的定义具有相应的不同分期。在众多的派别中，具有代表性的有四个大派别。它们可分为两大阵营：即“十年阵营”和“三年阵营”。“十年阵营”中的第一派是“内乱说”。这是中共十一届六中全会定的基调。为了维护中共统治的合法性，邓小平主持审议并通过了《关于建国以来党的若干历史问题的决议》（以下简称《决议》）。《决议》对文革的定义如下：文革“是一场由领导者错误发动，被反革命集团利用，给党、国家和各族人民带来严重灾难的内乱”。关于责任的问题，《决议》指出：对于文革这一全局性的、长时间的左倾严重错误，毛“负有主要责任”。毛发动文革的这些左倾错误论点，明显地脱离了作为马列主义普遍原理和中国革命具体实践相结合的毛思想的轨道。《决议》把文革分为三个时期：一、从文革开始到九大；二、九大到十大；三、十大到1976年。第一阶段中，几乎所有的各级党政机关失去了权力，由此产生动乱不得不依靠军队得以维持秩序。九大的召开加强了林彪和“四人帮”在党内的地位。第二阶段中林彪集团企图篡夺党和国家的权力。这一阴谋被粉碎。周在毛的支持下主持中央的日常工作，各方面有所好转。十大的路线继续了九大的错误，同时加强了“四人帮”的实力。第三阶段中，“四人帮”发动了批林批孔运动，把矛头指向了周。因为周的身体原因，在毛的支持下，邓取代周主持中央的日常工作，局势有了明显的好转。但是毛不能容忍邓对文革的否定，又一次罢了他的官。毛去世后，中央粉碎了“四人帮”的阴谋，结束了灾难性的文革。总而言之，《决议》把文革定义为“灾难性的内乱”，以林彪集团和“四人帮”集团的兴衰为标志分为三个阶段。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    国内的学者对《决议》把文革定义为“内乱”并不满意。金春明指出，“内乱”在中文里是个中性词，指一种社会现象，不能明确表述该现象的性质和特点。“内乱”可以是强大的蕃镇向封建最高统治者皇帝夺权，可以是最高统治者家族内部的权力之争，也可以是农民起义造封建统治者反的革命斗争。虽然文革与历史上的“内乱”有某些相似之处，但是本质上是不同的。《决议》中的“内乱”有两个形容词修饰加以补充：“由领导者错误发动的”和“被反革命集团利用的”，但是依然不能回答一个关键的问题，即领导者为什么发动文革？
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    因此，国内的学者把文革定义为是“一场复杂的政治运动”。这是“十年阵营”中的另一个派别。根据该派的定义，文革是“由党和国家的最高领导人亲自发动和领导的，以‘无产阶级专政下继续革命理论’为指导思想的，以所谓走资派和反动学术权威为革命对象的，采取‘四大’方法动员亿万群众参与的，以反修防修巩固红色江山为神圣目标的一场矛盾错综复杂的大规模的长时期的特殊政治运动”。这就是人们后来常说的“一个文革说”。该学说把文革分为五个阶段：一、文革发动阶段（1965年11月到1966年12月），二、高潮阶段（1967年1月至1968年），三、趋于稳定和林彪事件阶段（1969年4月到1971年9月），四、批林批孔阶段（1971年9月到1974年12月），五、反击右倾翻案风和文革结束（1975年1月到1976年10月）。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    陈佩华对中共的“内乱说”提出尖锐的批评。她认为“内乱说”是对历史的严重歪曲，是毛与温和派、保守派对手（特别是邓及其追随者）长期斗争中的胜利者对历史的描述。历史从来都是胜利者写的。中共的《决议》也不例外，是邓及其追随者在巩固了他们在党政军地位后做的一次努力。在陈佩华看来，《决议》对文革的定义是一场“权力斗争”，是邓及其盟友同毛及其追随者之间围绕着权力的斗争。这是一场十年的斗争。在此期间毛的对手受到了迫害、摧残甚至死亡。《决议》忽略了广大民众（特别是红卫兵和造反派）在这场斗争中所起的作用。在邓氏框架中，广大民众的作用充其量只是被动的，民众在中共高层的权力斗争中只是无足轻重的棋子而已。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    陈佩华等人提出“社会冲突说”来定义文革。这是“三年阵营”中的一个学派。在这一模式下，民众占据了文革的中心舞台。文革中，民众分裂成对立的派别：保守派和造反派。造反派也进一步分裂成敌对的派别。每一个派别都有来自不同社会阶层的成员。在文革的前三年中，这些派别之间为了夺取权力进行了激烈的斗争。在此期间，中国陷入了内战，伤亡数百万，所以不是“内乱”，不是运动，更不是权力斗争，而是你死我活的为控制中国的阶级斗争。许多西方学者（如陈佩华、李鸿永、White）发现区分派别的明显因素是民众的阶级背景。而这些阶级背景和标签是中共1949年建国后强加在百姓头上的。每一个中国人都被分为三大类中的一类：红五类，黑五类或灰五类。这些标签决定了人们的社会地位、教育机会、政治前途、事业前景。换言之，决定了人们的整个未来。陈佩华等人调查了广州中学红卫兵的派别与家庭背景之间的关系，发现出身不好的人倾向于参加造反派（“红旗派”），而出身好的人倾向于参加保守派（“东风派”）。简言之，“社会冲突说”把文革描写成是为期三年的民众反抗中共及其同盟（保守派）的群众运动。文革的结束标志是九大的召开。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    深受“社会冲突说”的中国学者提出了“两个文革说”。这是“三年阵营”中的第二个学派，与“社会冲突说”大同小异。王希哲最先提出“人民文革”的观点。他认为在文革中，“伴随着毛泽东的每一步胜利，都是人民对他的认识的进一步加深和抵抗的进一步加强。经过了1966年至1971年感性认识的积累，经过了1971年至1975年比较理性认识的积累，终于在1976年4月3日爆发了人民自己的文化大革命。”
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    对毛来说，文革是为了清洗中央、省市政府机构里的走资派。而在众多的群众运动中却存在着“人民文革”，迫使毛及其军政界内的追随者不得不镇压民众以维持国家的稳定。“两个文革说”认为清洗敌人和镇压民众是文革中的两大要素。而“人民文革”是中国人民进行的抗争，是为了结束政治歧视和压迫，要求纠正社会不公和分裂，追求基本权力的保护（包括人权），代表了民众反抗中共统治制度。因此，“人民文革”也可以理解为是文革中的抵抗运动。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    按照郑义的说法，第一个文革是“毛的文革”，主动自觉地利用群众运动来打乱共产党，以清除威胁他地位的高级同僚。他不怕天下大乱，他自信有控制大局的天才。第二个文革可称为“人民的文革”：被动地不自觉地利用毛泽东的威望，来打倒直接压迫他们的贪官污吏，以争得起码的民主权利。两个文革为了各自的目标相互利用，同时又相互冲突斗争。“毛文革”持续了十年，而“人民文革”仅持续了三年（从1966年到1968年）。文革中成立的群众组织被毛依靠军队的帮助强行解散了。“人民文革”以那些敢于挑战中共统治的造反派被抓捕、判刑甚至死刑而告终。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    “内乱说”被广大中国的民众所接受，包括大多数知识分子。而西方学者大多认同“社会冲突说”，把文革看成是一个大规模的为期三年的群众运动。当然，近年来有些西方学者也开始接受文革是十年的看法。“社会冲突说”与“一个文革说”的重要区别是三年和十年的分期问题。前者视文革为一个独立的社会运动，不应该与后七年的党的运动混淆在一起。对这些西方学者来说，区分中共的镇压、迫害与民众造反运动的最佳途径是把文革分期为三年。而“一个文革说”与“两个文革说”争论的焦点是“人民文革”的存在问题，即是否存在着一个独立于“毛文革”的“人民文革”。支持“两个文革说”的学者大多是当年的造反派。这一批学者与参与上世纪70年代学潮的西方学者一样有着类似的经历。他们的一个重要的特征是，对把抗议的民众描述为“暴民”的作法持否定态度。在他们看来，“人民文革”不是“乌合之众”心理的非理性爆发，而是一个具有明确目标和策略的政治运动。因此，“两个文革说”的支持者通过他们自身的经历和史命感从正面角度来描述文革的造反运动。这些曾经的造反派试图把造反运动与文革后发生的民主运动联系起来，认为造反运动是文革后民主运动的前奏，而民主运动是文革造反运动的继续。“一个文革说”的学者对“两个文革说”学者的前造反派身份持鄙视态度。中共竭尽全力抹黑当年的造反派，使得民众对曾经的造反派保持距离。因此，在文革定义的争议中，不仅有学术的因素，还具有政治色彩。本文试图以中立的立场来分析文革定义争论中各派别存在的问题和缺陷，并试图对文革的定义和分期提出新的观点。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    “内乱说”的问题
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    “内乱说”把文革定义为以邓为首的被迫害的领导人与以毛为首的极左派之间进行的一场权力斗争。在为期十年的内乱中，坚持正确路线的老干部受到了残害、清洗，有的甚至被整死。但是他们在毛死后终于“拔乱反正”“挽救”了党和国家。在该版本的文革定义中，没有亿万民众的身影，没有提到在文革中影响巨大的红卫兵运动和造反运动。在邓以及他的追随者的眼里，民众在权力斗争中只是工具和棋子，民众不可能理解党内的权力斗争。中共的“内乱说”把民众描述成是无知、非理性、无意识的群氓，根本没有必要在文革的官方史中写上一笔。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    而事实与“内乱说”大相径庭。文革中，民众分裂成敌对的派别，陷入激烈的斗争。而这些派别可以基本分为三大阵营：激进的造反派、温和的造反派、保守派。而这些派别分裂的根源是社会冲突。工人、农民和广大民众的心中积累了多年来对政府的不满。当机会来临时，民众趁机造反、发泄不满。由于这一现实令中共十分不利也十分尴尬，所以中共的“内乱说”有意避之，尽力缩小民众在文革中的作用。“内乱说”把具有造反精神的民众与林彪、“四人帮”故意混淆在一起。造反派从毛、林和“四人帮”的受害者变成了他们的同伙，成了十恶不赦的恶魔。这就混淆了造反民众与党内激进派的区别。同时，“内乱说”把邓及其追随者打扮成文革的主要受害者。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    事实上，文革的最大受害者是黑五类。他们在文革的一系列运动中始终是被打击的对象。甚至连造反派也对他们避而远之，生怕受到牵连。三年的造反运动过去后，造反派相继倒台，所受的迫害不亚于所谓的走资派和资产阶级反动权威。众多的造反派被枪杀。如南京王金事件运动的首领查全华就因言获罪被军管会于1969年底枪决。查全华并未参与过“打、砸、抢”，他很早就淡出运动，潜心研究马列主义。但是，当局仍未放过他。总之，“内乱说”掩盖了黑五类和造反派在文革中受到的迫害，而且这一现象到现在仍在继续。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    更重要的是，“内乱说”把保守派和党的各级领导在文革中的罪责一笔勾消。造反派被描绘成为双手沾满鲜血的恶棍和流氓，文革中所有的坏事和恶事都被转稼到了造反派身上。如果有人在文革中受到迫害，那都是造反派干的。而事实上，保守派和党的干部在群众运动结束后不久就重掌权力，对民众犯下了许多不可饶恕的罪恶。这些人的罪责却没有引起足够的注意。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    被歪曲的文革造反史也使得我们不能正确理解文革群众运动与后来的民主运动之间的联系。在“内乱说”的影响下，造反派与流氓成为同义词，造反派受到民运人士的抵制和排斥。这些民运人士没有从造反派身上汲取教训。持不同政见的中国学生运动更不愿将文革造反运动与后来的民主运动联系起来。而这一错误的后果是令人痛心的。尽管中国的民运人士鄙视造反派，可是他们却依然在犯先驱们同样的错误：不包容、不妥协、无休止地争权夺利，最后走上自毁的道路。在文革中，造反派好歹还造就出一批叱咤风云的领袖人物，领导数万、数十万甚至上百万的民众进行抗争。而今天的中国民运队伍却是一盘散沙，毫无战斗力，比当年的造反派还不如。这正应了美国哲学家桑塔亚那的一句名言：“忘记过去，必将重蹈覆辙。”
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    “一个文革说”的问题
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    “一个文革说”的学者虽然把文革定义为是一场复杂的政治运动，但是他们驳斥“两个文革说”的论点是：“人民文革说”是否能够成立的关键在于“要看是否存在着所谓的反抗共产暴政的人民起义”。该派学者认为，在这方面“两个文革说”并没有也不可能提供有说服力的证据。群众组织身上找不到一丝的反抗所谓“暴政”的影子，更不用说有任何“反共”的味道。文革中的造反派的目标既非改朝换代，也非推翻国家政权和打倒共产党，即使有反官僚的因素也只是反官僚不反皇帝，连古代的造反者都不如。总之，“两个文革说”的致命问题是“只反贪官不反皇帝”。显然，“一个文革说”的学者在这里采取了一套双重标准。“人民文革说”的成立需要建筑在造反派是否推翻共产党政权的基础之上，那么“毛文革”反的是哪个政权、哪个“皇帝”呢？
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    社会运动学把社会运动分为四类。其中一个重要而又常见的类别是“改革运动”。“改革运动”的矛头并不指向现行的制度，只是对现有体制进行局部的改革。运动的目标是改革社会的某些不合理部分，并非企图推翻整个现行体制。按照“一个文革说”学者的标准，中国的1976年的4·5运动、1989年的民主运动也不能成为独立的社会运动，因为它们只反对“四人帮”、只是请愿要求民主化，并没有把矛头直接指向中共的政权和现行的体制。既然文革中根本没有“一个文革说”学者所指的那种“革命”（无论是“人民文革”还是“毛文革”），为什么他们对属于“改革运动”的文革造反运动与党的运动的迥然性质视而不见呢？这是因为“一个文革说”是建筑在一个错误的理论框架下的学说。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    按照“一个文革说”的观点，亿万群众卷入文革的原因是由于林彪和“四人帮”的蛊惑挑唆、是不明真相。徐贲认为毛对各种各样的群众始终牢牢地维持着全面控制。毛展现了巨大的蛊惑天才。尽管造反派的行为动机中包含了反官僚的因素，但是这种逆反的作用有限。有学者更明确地提出，民众不辨真伪、失去个性、没有推理能力，变成了乌合之众。陈子明则更明确地提出，造反派是“疯子”、消遥派是“傻子”。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    认为民众智力低下、是疯子、是傻子的作法是有理论根据的。这个理论就是“乌合之众论”。它的代表人物是勒庞，代表作是1895年发表的《乌合之众》。遗憾的是，“乌合之众论”早在上世纪的70年代就已经被“不名誉地开除出”了社会运动学的研究领域，是只“死老虎”。建筑在已经被摒弃的“乌合之众论”理论框架下的“一个文革说”也就不攻自破了。我们华人学界没有必要再重复西方学界六十年前批判“民众非理性”的老路。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    “社会冲突说”的问题
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    李鸿永和陈佩华等人在分析文革造反运动时运用了“社会冲突论”的理论。这是马克思主义的理论。马克思主义虽然没有提出专门的社会运动理论，但是马克思主义本身就是一个关于社会运动的理论。马克思主义的基本观点是：无产阶级和资产阶级之间的矛盾是不可调和的。只要资产阶级掌握权力一天，工人阶级的工作和生活条件就不可能真正得到改善。该理论的核心是社会的不平等必将导致革命运动的爆发。阶级利益是社会运动的核心。由于受“必然性”的影响，认同“社会冲突论”的学者往往把文革中的矛盾归咎于集团利益冲突。家庭出身问题成为突出的矛盾，保守派由出身好的人组成，激进派中出身不好的占多数。阶级背景的对立转化成红卫兵的派性。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    文革中暴露出来的社会矛盾并非一朝一夕产生。为什么文革前17年这些矛盾并没有导致民众大规模的反抗？结构条件并不能自动导致民众的反抗。而“资源动员论”显示出了优越性。该理论认为运动的发起不仅需要存在的社会矛盾和冲突，还需要社会资源。“政治过程论”强调不仅需要民众的反叛意识还需要政治机会。民众有了额外的机会，运动才发动起来。“新社会运动理论”强调后物质主义的价值追求，跳出了过去的经济范围。虽然文革中曾出现过一些“经济主义”运动，但是民众关心的更多是政治问题。由于“社会冲突论”存在的缺陷，该理论的运用受到了限制，以阶级斗争为基础的“社会冲突论”在上世纪70年代开始失去了往日的威力，退出了历史舞台。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    “社会冲突说”的另一个问题是其分期问题。“内乱说”把文革作为十年一起否定出于政治考虑。邓小平很“策略地”把三年造反和不受欢迎的七年镇压混合起来，使造反派成了文革罪孽的两个最重要的集体记忆之一：上层是林彪、“四人帮”，下层是造反派。造反派成了诬陷、阴谋和暴力的代名词。当局将文革定为十年，使得许多人把造反派诞生前和造反组织已经解散后受迫害的账也算到了造反派头上。在各种复旧风、翻案风、平反风、昭雪风中，当局为过去遗留下来的问题和不公正找到一个容量巨大的替罪羊。“文革三年说”可以撇清当局对造反派的妖化。至少文革后七年自上而下的党的运动的迫害账不能算在造反派头上。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    然而，这种因噎废食的作法忽视了群众运动和党的运动之间的联系。中国是一个专制的国家，不同于西方社会的民主国家。生活在或者曾经生活在中国的华人有深刻的切身体会。除了文革初期毛为了打败政敌的特殊情况，执政党对群众运动一直视为洪水猛兽。持“两个文革说”者也不得不承认，没有“毛文革”就没有“人民文革”，两个文革的关系是相互利用，相互交错,正如Unger所说，文革不是要么“人民文革”要么“毛文革”的问题。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    为了防止文革结束后秋后算账遭报复，造反派开始时几乎无一例外地寻求官方的正式承认。“上海工总司”试图通过让市委领导露面的方式得到官方的承认。结果市委抓住了造反派的软肋，下令“三不”：即不参加、不承认、不支持。毛深夜召见首都五大学生领袖标志着文革造反派组织的终止。但是造反组织的消失并不意昧着其人心、影响力和战斗力的消失。造反派组织消失的同时，各地的革委会相继成立。有一些造反派得以进入新的政权机构。而且当时还存在一个合法组织专门收留造反派成员。这就是“革命工人代表大会”（简称“工代会”）。有些省的造反派利用这一活动平台在批林批孔运动中东山再起与保守派做最后的抗争。尽管造反派组织在形式上没有了，但是造反派的人还在，思想还在，斗争还在继续。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    中国是一党天下的专制国家，与西方民主国家有着诸多的不同。最重要的一个差别是群众运动的生存条件。中共历来实行禁言禁党的政治高压政策和对社会的严密控制。草根的社会运动在中国大陆基本上没有生存空间，无法有效地向民众传播自己的主张。自下而上的草根运动的兴起和发展壮大几乎不可能，自发和自主的社会改革运动的可能性几乎不存在。文革中的造反运动虽然有其独立性，应该与党的运动区别对待，但是造反运动并不像西方国家里的民主运动那样享受真正的自主权，并不完全独立。由于忽略了以上这些区别，不少西方学者未能正确地理解文革和造反运动之间的关系。西方学者一边倒地持文革三年的观点，原因是在西方国家不以推翻现行政权的社会运动司空见惯、习以为常。深受“社会冲突说”影响的“二个文革说”的中国学者提出“人民文革”作为一种妥协和让步。这是因为中国学者经历过文革，对中共及其体制有更深刻的体会。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    “两个文革说”的问题
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    尽管“一个文革说”存在着严重的缺陷，但是这并不能说明“两个文革说”的正确性。“两个文革说”的问题与“一个文革说”一样，问题也出在理论框架上。该学说基于一个已经过时了的理论——“社会冲突论”。“两个文革说”的另一问题是其错误的定位。该派学者认为，文革中的群众运动是一个利用皇帝打倒贪官污吏，争取自身权力的不自觉的带有民主色彩的“人民起义”和“人民革命”。面对“一个文革说”极力否定“人民文革”的存在，“两个文革说”的学者只好牵强附会，把文革中民众的“改革运动”硬说成是“革命运动”。在这个问题上，“一个文革说”和“两个文革说”犯了一个低级错误。两派学者忽视了社会运动学中对社会运动的分类，没有意识到：“只反贪官不反皇帝”的群众运动有其合法地位。如果持“两个文革说”的学者在一开始就旗帜鲜明地提出，文革中民众的造反行为是社会运动中常见的“改革运动”，那么他们就理直气壮得多。“起义说”和“革命说”过于激进，缺乏令人信服的的证据，被“一个文革说”抓住了把柄。“真理向前一步是谬误”的说法用在“两个文革说”的定位上再合适不过。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    文革的新定义：“博弈说”
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    文革涉及全中国的亿万民众和中共的各层官僚。文革不是“内乱”，不是革命，也不是一个运动，而是一场为谋取利益的斗争，是诸多的决策主体根据掌握的信息和对自身能力的认知，做出有利于自己决策的一场经济和政治斗争。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    现代数学中的博弈论是应用数学的一个重要分支。这是在多个决策主体之间行为具有相互作用时，做出决策的一种行为理论。当相互发生作用的当事人之间有一个具有约束力的协定，博弈属于合作博弈。反之，博弈是非合作博弈。按照参与人对其他参与人的了解程度，博弈又分为完全信息博弈和不完全信息博弈。完全信息博弈是指在博弈过程中，每一位参与人对其他参与人的特征、策略及收益有准确的信息。如果参与人对其他参与人的情况了解得不够准确，博弈就是不完全信息博弈。文革属于不完全信息的博弈。中共的保守派和温和派对毛的目的并不清楚。毛对中共的保守派尤其防备，保守派对毛的意图不甚明了，以至于保守派在文革一开始处处被动，几乎全军覆没。同样，民众中的激进派和温和派对毛的意图也不甚理解，所以迟迟不敢有所动作。毛不得不千方百计动员民众起来造反，达到他的目的。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    文革的前三年中，激进派和温和派联合起来对付保守派，保守派无情地打压民众的激进派。当保守派垮台以后，民众的激进派和温和派发生分裂打派仗。毛通过用军队依靠“三支两军”的方式控制群众组织，用文革中的新文官入主军队制衡军队中的保守派，用民众反对保守派。毛泽东依靠小将，不靠谱；依靠老将，不放心；依靠军队，不可靠；依靠工人，又不行。走马灯，恶性循环，他自己也收不了场。保守派失势以后，党内的激进派分裂，林彪集团倒台是激进派内部分裂的结果。与此同时，民众的激进派受到残酷的整治。文革的后七年是党内的激进派、温和派与保守派之间的斗争，最终以激进派彻底失败而告终。文革是一场混战，六个集团没有固定的同盟，没有长久的利益，没有真心的合作，各打各的算盘，是一场非合作式的博弈。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    本文对文革的定义是：为期十年的文革是中国现代史上的重要事件。文革中，党内外的激进派、温和派和保守派六个集团间和集团内进行了一场不完全信息的非合作式的博弈。文革以保守派失势开始，以激进派完败而告终。本文提出的文革定义可以简称为“博弈说”。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    结语
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    本文对文革定义的四个大派别分别进行了分析批判，指出了各自存在的问题，并提出了新的定义：“博弈说”。对四个派别的批判并不意味着对它们的完全否定。本文提出的“博弈说”事实上汲取了各派别合理的成份。“博弈说”不仅包括了“内乱说”中的权力斗争，包含了“社会冲突说”和“两个文革说”的民众为自身利益进行的抗争，也包含了“一个文革说”中所暗指的一系列清洗运动。文革实质上党内外的激进派、温和派和保守派六个集团间和内部的一场博杀和斗争。忽略这些复杂斗争的任何一个方面都将导致我们不能正确地认识文革。文革定义的长期争论突显了我们对社会运动学这一年轻的新领域的忽视。希望文革学者们能重视社会运动学的发展，为文革研究的发展做出新的贡献。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    James Wright     美国University of Central Florida教授
   </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+</p>
+<p>
+<span style="font-size: 12pt;">
    乔晞华                社会学博士     现任美国某州司法部研究人员
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
    参考文献：
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    1.金春明。“‘两个文革说’与‘文化大革命’的定性研究”。 《中共党史研究》1998年第2期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    2.金春明。《“文化大革命”史稿》。成都：四川人民出版社。1995年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    3.何蜀。“对‘文化大革命’历史分期的思考”。《爱思想》l《中国数字时代》(2013年11月1日)。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    4. Chan, Anita. “Dispelling Misconceptions about the Red Guard Movement: The Necessity to Re-Examine Cultural Revolution Factionalism and Periodization”. Journal of Contemporary China, 1992, Volume 1, Issue 1, pp. 61-85. 陈佩华。“解除对红卫兵运动的误解：再探文革的派别和分期的需要性。”《现代中国》1992年第1卷，第1期，第61-85页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    5. Chan, Anita, Rosen, Stanley, and Unger, Jonathan. “Students and Class Warfare: The Social Roots of the Red Guard Conflict in Guangzhou (Canton).” The China Quarterly, 1980. No. 83, pp. 397-446. 陈佩华、骆思典、安德佳。“学生和阶级的战争：广州红卫兵冲突的社会根源。”《中国季刊》1980年第83期，第397-446页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    6. Lee, Hong Yung. The Politics of the Chinese Cultural Revolution: A Case Study. Berkeley, CA: University of California Press. 1978. 李鸿永。《中国文革的政治：一个个案分析》。美国加州伯克利：加州大学出版社，1978年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    7.White, Lynn T Politics of Chaos: The Organizational Causes of Violence in China’s Cultural Revolution. Princeton, NJ: Princeton University Press. 1989。林恩·怀特。《混乱的政治：中国文革暴力的组织机构原因》新泽西普林斯敦：普林斯敦大学出版社，1989年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    8.王希哲。“毛泽东与文化大革命”。《七十年代月刊》，1981年2月刊。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    9.郑义。《历史的一部份——永远寄不出的十一封信》。台北：万象出版社。1993年。 10.Chan, Anita. “Dispelling Misconceptions about the Red Guard Movement: The Necessity to Re-Examine Cultural Revolution Factionalism and Periodization”. Journal of Contemporary China, 1992, Volume 1, Issue 1, pp. 61-85. 陈佩华。“解除对红卫兵运动的误解：再探文革的派别和分期的需要性。”《现代中国》1992年第1卷，第1期，第61-85页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    11.金春明。“‘两个文革说’与‘文化大革命’的定性研究”。 《中共党史研究》1998年第2期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    12.徐友渔。《形形色色的造反》。香港：香港中文大学出版社。1999年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    13.郑仲兵、雷颐、韩钢、李郁。“漫谈文革研究”。《往事》第1期，2004年9月。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    14.席宣、金春明。《“文化大革命”简史》北京：中共党史出版社。2005年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    15.徐贲。“‘人民文革’和中国‘群众’”。《纵览中国》，2010年2月18日。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    16.王克明、宋小明。2014年。“前言”。《我们忏悔》。中信出版社。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    17.陈子明。“文革：一场游戏一场梦——兼与‘人民文革’说商榷”。《昨天》第28期，2014年1月。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    18.Kurzman, Charles. The Unthinkable Revolution in Iran. Cambridge, MA: Harvard University Press. 2004. 查理·库兹曼。《伊朗不可思议的革命》。麻省剑桥：哈佛大学出版社。2004年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    19.乔晞华。“乌合之众论的破产”。《记忆》第211期。2018年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    20.Lee, Hong Yung. The Politics of the Chinese Cultural Revolution: A Case Study. Berkeley, CA: University of California Press. 1978. 李鸿永。《中国文革的政治：一个个案分析》。加州伯克利：加州大学出版社。1978年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    21.Chan, Anita. “Dispelling Misconceptions about the Red Guard Movement: The Necessity to Re-Examine Cultural Revolution Factionalism and Periodization”. Journal of Contemporary China, 1992, Volume 1, Issue 1, pp. 61-85. 陈佩华。“解除对红卫兵运动的误解：再探文革的派别和分期的需要性。”《现代中国》1992年第1卷，第1期，第61-85页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    Chan, Anita, Rosen, Stanley, and Unger, Jonathan. “Students and Class Warfare: The Social Roots of the Red Guard Conflict in Guangzhou (Canton).” The China Quarterly, 1980, No. 83, pp. 397-446. 陈佩华、骆思典、安德佳。“学生和阶级的战争：广州红卫兵冲突的社会根源。”《中国季刊》1980年第83期，第397-446页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    22.Cox, Laurence and Nilsen, Alf Gunvald. “‘At the Heart of Society Burns the Fire of Social Movements’: What Would a Marxist Theory of Social Movements Look Like?”, Tenth International Conference on Alternative Futures and Popular Protest, ed., by Barker, Colin and Tydesley, Mike, Manchester Metropolitan University. 2005, p1. http://eprints.nuim.ie/460/. 劳伦斯·考克思、艾尔夫·尼尔逊. “社会之心燃烧着社会运动之火：马克思主义的社会运动学理论应该是怎样的？”《第十届关于可能的未来和公众抗议国际会议》，科林·巴克尔、马克·泰德斯利主编。曼切斯特大都市大学出版社，2005年，第1 页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    23.Edwards, Gemma. Social Movements and Protest. New York: Cambridge University Press, 2014. p. 115. 哥玛·爱德华兹。《社会运动和抗议》。纽约：剑桥大学出版社，2014年，第115页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    24.Lee, Hong Yung. 1978. The Politics of the Chinese Cultural Revolution: A Case Study. Berkeley, CA: University of California Press, pp. 1-5. 李鸿永。《中国文革的政治：一个个案分析》。加州伯克利：加州大学出版社。1978年，第1-5页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    25.Chan, Anita, Rosen, Stanley and Unger, Jonathan. 1980. “Students and Class Warfare: The Social Roots of the Red Guard Conflict in Guangzhou (Canton)”. The China Quarterly, No. 83, September 1980, pp. 397-446.陈佩华、骆思典、安德佳。“学生和阶级的战争：广州红卫兵冲突的社会根源。”《中国季刊》1980年第83期，第397-446页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    26.McAdam, Douglas. Political Process and the Development of Black Insurgency, 1930-1970. Chicago, IL: University of Chicago Press. 1982, pp. 48-51。道格拉斯·麦克亚当斯。《黑人反抗的政治过程和发展：1930-1970》芝加哥：芝加哥大学出版社。1982年，第48-51页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    27.Porta, Donatella D. And Diani, Mario. Social Movements: An Introduction, 2nd Edition. Malden, MA: Blackwell Publishing, 2006. p. 6. 唐奈特拉·波塔、玛利亚·戴安妮。《社会运动简介》第二版。麻省莫尔顿：布莱克威尔出版社. 2006年第6页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    28.Morris, Aldon and Herring, Cedric. “Theory and Research in Social Movements: A Critical Review”, Annual Review of Political Science, 1987. p. 4. 爱尔顿·莫里斯、瑟德瑞克·海森。“社会运动的理论和研究：一个批判性的梳理”《政治科学年鉴》，1987年第4页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    29.Habermas, Jurgen. 1987. The Theory of Communication Action, 2 Vols. Vol. II. Cambridge: Polity Press, p. 350.
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    杰根·赫伯默斯。《交通行为理论》第2卷。麻省剑桥：政治出版社。1987年，第350页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    30.Chan, Anita. 1992. “Dispelling Misconceptions about the Red Guard Movement: The Necessity to Re-Examine Cultural Revolution Factionalism and Periodization”. Journal of Contemporary China, 1992, Volume 1, Issue 1, pp. 61-85. 陈佩华。“解除对红卫兵运动的误解：再探文革的派别和分期的需要性。”《现代中国》1992年第1卷，第1期，第61-85页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    31.宋永毅。“造反派和‘三种人’—一个亟待深入研究的历史课题”。《动向》2006年2月刊。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    32.喜东。“‘十年文革’，还是两年文革？”《华夏文摘增刊》1996年4月，第83/84期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    33.刘国凯。“论人民文革——为文革四十周年而作”。《北京之春》2006年1月，第152期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    34.郑义。“两个文化大革命雏议”。《华夏文摘增刊》1996年4月，第83期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    35.刘国凯。“三年文革与两条线索”。《中国之春》1997年，第2期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    36.Unger, Jonathan. “The Cultural Revolution at the Grass Roots.” The China Journal, No. 57 (January 2007), pp. 109-137. 安德佳。“草根的文革”《中国学刊》2007年第57期，第109-137页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    37.喜东。“‘十年文革’，还是两年文革？”《华夏文摘增刊》1996年4月，第83/84期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    38.刘国凯。“三年文革与两条线索”。《中国之春》1997年，第2期。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    39.朱嘉明。“三十年后思考文化革命的几个问题”。转自《华夏文摘增刊》1996年第97期（原载《新闻自由导报》第207期）。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    40.叶永烈。《文革名人风云录》。西宁：青海人民出版社。1995年，第278页。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    41.乔晞华。《既非一个文革，也非两个文革——南外红卫兵打死工人王金事件个案分析》。台湾博客思出版社。2015年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
    Zhang, Joshua and Wright, James. Violence, Periodization and Definition of the Cultural Revolution: A Case Study of the Two Deaths by the Red Guards. Boston, MA: Brill. 2018. 乔晞华、James Wright。《文革的暴力、分期和定义：两桩红卫兵打死人案的个案分析》麻省波士顿：Brill出版社。2018年。
   </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
-  <br/>
-  <span style="font-size: 12pt;">
-  </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+<br/>
+<span style="font-size: 12pt;">
+</span>
+<br/>
+<span style="font-size: 12pt;">
+</span>
+</p>
+<p>
+<span style="font-size: 12pt;">
    出处：天文联合学会   《文化大革命定性学术言谈会专辑》
   </span>
- </p>
- <p>
-  <span style="font-size: 12pt;">
+</p>
+<p>
+<span style="font-size: 12pt;">
    2018年9月20日
   </span>
- </p>
- <p>
- </p>
- <!-- AddThis Advanced Settings above via filter on the_content -->
- <!-- AddThis Advanced Settings below via filter on the_content -->
- <!-- AddThis Advanced Settings generic via filter on the_content -->
- <!-- AddThis Share Buttons above via filter on the_content -->
- <!-- AddThis Share Buttons below via filter on the_content -->
- <div class="at-below-post addthis_tool" data-url="http://zhanlve.org/?p=6246">
- </div>
- <!-- AddThis Share Buttons generic via filter on the_content -->
+</p>
+<p>
+</p>
+<!-- AddThis Advanced Settings above via filter on the_content -->
+<!-- AddThis Advanced Settings below via filter on the_content -->
+<!-- AddThis Advanced Settings generic via filter on the_content -->
+<!-- AddThis Share Buttons above via filter on the_content -->
+<!-- AddThis Share Buttons below via filter on the_content -->
+<div class="at-below-post addthis_tool" data-url="http://zhanlve.org/?p=6246">
 </div>
-
+<!-- AddThis Share Buttons generic via filter on the_content -->
+</div>
