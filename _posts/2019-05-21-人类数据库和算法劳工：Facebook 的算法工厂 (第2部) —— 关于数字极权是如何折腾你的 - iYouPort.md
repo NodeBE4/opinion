@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "人类数据库和算法劳工：Facebook 的算法工厂 (第2部) —— 关于数字极权是如何折腾你的 - iYouPort"
+title: "人类数据库和算法劳工：Facebook 的算法工厂 (第2部) —— 关于数字极权是如何折腾你的 - iYouPort"
 date: 2019-05-21T16:05:01+00:00
 author: iYouPort
 from: https://www.iyouport.org/%e4%ba%ba%e7%b1%bb%e6%95%b0%e6%8d%ae%e5%ba%93%e5%92%8c%e7%ae%97%e6%b3%95%e5%8a%b3%e5%b7%a5%ef%bc%9afacebook-%e7%9a%84%e7%ae%97%e6%b3%95%e5%b7%a5%e5%8e%82-%e7%ac%ac2%e9%83%a8/

@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/duty-machine/chinadigitaltimes-latest#readme",
   "dependencies": {
+    "request": "^2.88.2",
     "rss-parser": "^3.8.0"
   }
 }

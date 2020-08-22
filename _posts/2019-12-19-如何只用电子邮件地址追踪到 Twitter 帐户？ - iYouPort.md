@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何只用电子邮件地址追踪到 Twitter 帐户？ - iYouPort"
+title: "如何只用电子邮件地址追踪到 Twitter 帐户？ - iYouPort"
 date: 2019-12-19T16:02:50+00:00
 author: iYouPort
 from: https://www.iyouport.org/%e5%a6%82%e4%bd%95%e5%8f%aa%e7%94%a8%e7%94%b5%e5%ad%90%e9%82%ae%e4%bb%b6%e5%9c%b0%e5%9d%80%e8%bf%bd%e8%b8%aa%e5%88%b0-twitter-%e5%b8%90%e6%88%b7%ef%bc%9f/

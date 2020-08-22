@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "非物质劳动和数据收集：Facebook 的算法工厂 (第1部) —— 关于数字极权是如何剥削你的 - iYouPort"
+title: "非物质劳动和数据收集：Facebook 的算法工厂 (第1部) —— 关于数字极权是如何剥削你的 - iYouPort"
 date: 2019-05-20T16:06:11+00:00
 author: iYouPort
 from: https://www.iyouport.org/%e9%9d%9e%e7%89%a9%e8%b4%a8%e5%8a%b3%e5%8a%a8%e5%92%8c%e6%95%b0%e6%8d%ae%e6%94%b6%e9%9b%86%ef%bc%9afacebook-%e7%9a%84%e7%ae%97%e6%b3%95%e5%b7%a5%e5%8e%82-%e7%ac%ac1%e9%83%a8/
