@@ -17,6 +17,8 @@ let feedxUrls = {
   '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
   'Stratechery': 'https://stratechery.com/feed/',
   'NGOCN': 'https://rsshub.app/matters/author/ngocncat',
+  '蔷蔷': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UC_Udz5R0NCgLTWbmn-QiWGA',
+  '臺大演講網': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUSgvLn9EzRHS7yOJqXcJ68Q',
 }
 
 async function fetchArticles(site) {
