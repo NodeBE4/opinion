@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何在运行 Manjaro Linux 或 CentOS 的计算机上安装 Tor - iYouPort"
+title: "如何在运行 Manjaro Linux 或 CentOS 的计算机上安装 Tor - iYouPort"
 date: 2020-04-13T16:03:09+00:00
 author: iYouPort
 from: https://www.iyouport.org/%e5%a6%82%e4%bd%95%e5%9c%a8%e8%bf%90%e8%a1%8c-manjaro-linux-%e6%88%96-centos-%e7%9a%84%e8%ae%a1%e7%ae%97%e6%9c%ba%e4%b8%8a%e5%ae%89%e8%a3%85-tor/
