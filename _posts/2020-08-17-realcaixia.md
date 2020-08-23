@@ -1,10 +1,12 @@
 ---
 author: realcaixia
-categories: [Twitter]
+categories:
+- Twitter
 date: 2020-08-23
 from: https://twitter.com/realcaixia/status/1297178646579425280
 layout: post
-tags: [Twitter]
+tags:
+- Twitter
 title: '蔡霞 的 Twitter: 2020-08-17~2020-08-23'
 ---
 
@@ -44,4 +46,28 @@ title: '蔡霞 的 Twitter: 2020-08-17~2020-08-23'
 ### 8: [2020-08-23 03:07:29+08:00 推文](https://twitter.com/realcaixia/status/1297249046785134593)
 
 媒体确认我的推特账号 <br><br>仇志榮: #BREAKING 剛與蔡霞教授確認@realcaixia 是她本人昨日收到官方處罰通知後開設的帳號。她向我表示，推特是廣闊交流的管道，會堅持與各方朋友交流。請關注本台詳細報導。 <br><br><img src="https://pbs.twimg.com/media/Efst6-aUcAAcOj6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-08-23 08:53:42+08:00 推文](https://twitter.com/realcaixia/status/1297336178329485312)
+
+这个假冒我的推特账号很流氓！请大家看，他居然再次盗用我的照片，把我的照片头像换到他那里，猛一看与我一摸一样！请大家注意，这个假推特帐号与我的有不同。请各位推友看清账号的不同！这个假推的推主应该是中共网军或中共特务，公然上推特来耍流氓！ <br><img src="https://pbs.twimg.com/media/EgEQX_0XgAADTb0?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2020-08-23 09:00:16+08:00 推文](https://twitter.com/realcaixia/status/1297337828553228288)
+
+请看这个流氓是蓄意的！一定是中共放出的网军魔鬼。我认为这是中共在推特上对我开展的一场战争！这是故意的，不是一般蹭热度蹭流量那么简单！ <br><img src="https://pbs.twimg.com/media/EgER4PEWsAY56sG?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-08-23 10:52:35+08:00 推文](https://twitter.com/realcaixia/status/1297366093888184320)
+
+#NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgErlgEXoAARNuv?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2020-08-23 10:58:05+08:00 推文](https://twitter.com/realcaixia/status/1297367480151810048)
+
+#NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgEs2LYXoAIkTjP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2020-08-23 12:29:18+08:00 推文](https://twitter.com/realcaixia/status/1297390434440941569)
+
+【中共是人类公敌】<br>     下面这篇是我5月下旬写的一篇短评，评港版国安法。这篇短文本来是朋友聊天，后来不知怎么会公开传出去了，引起中共高层恼怒，认为我有严重问题、短文损害了党和国家声誉。我相信，历史会记住习共凶残强权摧毁香港的这笔帐，习与镇压香港民众的酷吏恶警，都将受到历史的惩罚！ <br><img src="https://pbs.twimg.com/media/EgFBt1hWoAk_fLp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EgFBt1jXoAAY_56?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EgFBuRkWsAU9xl4?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-08-23 20:24:09+08:00 推文](https://twitter.com/realcaixia/status/1297509933550833666)
+
+#NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgGuaD9XgAE-qiw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
