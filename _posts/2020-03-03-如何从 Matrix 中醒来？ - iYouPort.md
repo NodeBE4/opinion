@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何从 Matrix 中醒来？ - iYouPort"
+title: "如何从 Matrix 中醒来？ - iYouPort"
 date: 2020-03-03T16:04:09+00:00
 author: iYouPort
 from: https://www.iyouport.org/%e5%a6%82%e4%bd%95%e4%bb%8e-matrix-%e4%b8%ad%e9%86%92%e6%9d%a5%ef%bc%9f/
