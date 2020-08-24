@@ -18,6 +18,7 @@ let feedxUrls = {
   'Stratechery': 'https://stratechery.com/feed/',
   'NGOCN': 'https://rsshub.app/matters/author/ngocncat',
   '蔷蔷': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UC_Udz5R0NCgLTWbmn-QiWGA',
+  '李肃Hi5': 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLmp6SED1O-uyPp8NoKmnHEsm3-BwOSyg1',
   '臺大演講網': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUSgvLn9EzRHS7yOJqXcJ68Q',
 }
 
