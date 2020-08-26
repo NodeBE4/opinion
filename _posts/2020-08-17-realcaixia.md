@@ -1,10 +1,12 @@
 ---
 author: realcaixia
-categories: [Twitter]
+categories:
+- Twitter
 date: 2020-08-23
 from: https://twitter.com/realcaixia/status/1297178646579425280
 layout: post
-tags: [Twitter]
+tags:
+- Twitter
 title: '蔡霞 的 Twitter: 2020-08-17~2020-08-23'
 ---
 
@@ -37,43 +39,71 @@ title: '蔡霞 的 Twitter: 2020-08-17~2020-08-23'
 
 我这张照片是从来没有发到网上去过的，冒充我的假推账号现在用的照片都是网上流传的。我现在的头像小照片都外面没有的。请推友看清我的头像照片。谢谢
 
-### 7: [2020-08-23 03:06:56+08:00 推文](https://twitter.com/realcaixia/status/1297248909316763655)
+### 7: [2020-08-23 01:54:24+08:00 推文](https://twitter.com/realcaixia/status/1297230655835734019)
+
+Re 请教如何做认证？
+
+### 8: [2020-08-23 02:03:23+08:00 推文](https://twitter.com/realcaixia/status/1297232918281150467)
+
+Re @lunanweiyi 去看我给你的信息，
+
+### 9: [2020-08-23 02:10:30+08:00 推文](https://twitter.com/realcaixia/status/1297234709320290304)
+
+Re @peter4play2010 感谢您🙏！
+
+### 10: [2020-08-23 03:06:56+08:00 推文](https://twitter.com/realcaixia/status/1297248909316763655)
 
 这是前几天媒体确认我的推特 <br><br>仇志榮: #BREAKING 剛與蔡霞教授確認@realcaixia 是她本人昨日收到官方處罰通知後開設的帳號。她向我表示，推特是廣闊交流的管道，會堅持與各方朋友交流。請關注本台詳細報導。 <br><br><img src="https://pbs.twimg.com/media/Efst6-aUcAAcOj6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 8: [2020-08-23 03:07:29+08:00 推文](https://twitter.com/realcaixia/status/1297249046785134593)
+### 11: [2020-08-23 03:07:29+08:00 推文](https://twitter.com/realcaixia/status/1297249046785134593)
 
 媒体确认我的推特账号 <br><br>仇志榮: #BREAKING 剛與蔡霞教授確認@realcaixia 是她本人昨日收到官方處罰通知後開設的帳號。她向我表示，推特是廣闊交流的管道，會堅持與各方朋友交流。請關注本台詳細報導。 <br><br><img src="https://pbs.twimg.com/media/Efst6-aUcAAcOj6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 9: [2020-08-23 08:53:42+08:00 推文](https://twitter.com/realcaixia/status/1297336178329485312)
+### 12: [2020-08-23 08:53:42+08:00 推文](https://twitter.com/realcaixia/status/1297336178329485312)
 
 这个假冒我的推特账号很流氓！请大家看，他居然再次盗用我的照片，把我的照片头像换到他那里，猛一看与我一摸一样！请大家注意，这个假推特帐号与我的有不同。请各位推友看清账号的不同！这个假推的推主应该是中共网军或中共特务，公然上推特来耍流氓！ <br><img src="https://pbs.twimg.com/media/EgEQX_0XgAADTb0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 10: [2020-08-23 09:00:16+08:00 推文](https://twitter.com/realcaixia/status/1297337828553228288)
+### 13: [2020-08-23 09:00:16+08:00 推文](https://twitter.com/realcaixia/status/1297337828553228288)
 
 请看这个流氓是蓄意的！一定是中共放出的网军魔鬼。我认为这是中共在推特上对我开展的一场战争！这是故意的，不是一般蹭热度蹭流量那么简单！ <br><img src="https://pbs.twimg.com/media/EgER4PEWsAY56sG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 11: [2020-08-23 10:52:35+08:00 推文](https://twitter.com/realcaixia/status/1297366093888184320)
+### 14: [2020-08-23 09:03:32+08:00 推文](https://twitter.com/realcaixia/status/1297338650989035520)
+
+Re 请推友们看清这个流氓推特的账号！请看清帐号！我的帐号是不带任何数字的，而这个流氓假推账号是带着数字的。
+
+### 15: [2020-08-23 09:14:17+08:00 推文](https://twitter.com/realcaixia/status/1297341358122897408)
+
+Re 请各位网友帮我一起去举报这个流氓推。感谢各位推友们！
+
+### 16: [2020-08-23 10:52:35+08:00 推文](https://twitter.com/realcaixia/status/1297366093888184320)
 
 #NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgErlgEXoAARNuv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 12: [2020-08-23 10:58:05+08:00 推文](https://twitter.com/realcaixia/status/1297367480151810048)
+### 17: [2020-08-23 10:58:05+08:00 推文](https://twitter.com/realcaixia/status/1297367480151810048)
 
 #NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgEs2LYXoAIkTjP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 13: [2020-08-23 12:29:18+08:00 推文](https://twitter.com/realcaixia/status/1297390434440941569)
+### 18: [2020-08-23 12:29:18+08:00 推文](https://twitter.com/realcaixia/status/1297390434440941569)
 
 【中共是人类公敌】<br>     下面这篇是我5月下旬写的一篇短评，评港版国安法。这篇短文本来是朋友聊天，后来不知怎么会公开传出去了，引起中共高层恼怒，认为我有严重问题、短文损害了党和国家声誉。我相信，历史会记住习共凶残强权摧毁香港的这笔帐，习与镇压香港民众的酷吏恶警，都将受到历史的惩罚！ <br><img src="https://pbs.twimg.com/media/EgFBt1hWoAk_fLp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EgFBt1jXoAAY_56?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EgFBuRkWsAU9xl4?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 14: [2020-08-23 20:24:09+08:00 推文](https://twitter.com/realcaixia/status/1297509933550833666)
+### 19: [2020-08-23 12:35:18+08:00 推文](https://twitter.com/realcaixia/status/1297391942138036225)
+
+Re 中共在大陆全国报纸和网上对我全面围剿攻击，扣了N个严重罪名，但就是不公布我的评论短文和发言音频。弄的大陆网友到处打听：蔡霞究竟说了什么？他们不敢公开，那我就来公开，看看我对港版国安法究竟是怎么评论的。
+
+### 20: [2020-08-23 13:03:46+08:00 推文](https://twitter.com/realcaixia/status/1297399109683425286)
+
+Re @AndyJee1983 非常感谢你们。那个流氓账号盗用我的照片，伪装假冒我，故意搅浑水。感谢推特管理团队，请屏蔽那个流氓推，净化推特环境。🌹🌹🌹
+
+### 21: [2020-08-23 20:24:09+08:00 推文](https://twitter.com/realcaixia/status/1297509933550833666)
 
 #NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgGuaD9XgAE-qiw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 15: [2020-08-23 23:04:02+08:00 推文](https://twitter.com/realcaixia/status/1297550168431169536)
+### 22: [2020-08-23 23:04:02+08:00 推文](https://twitter.com/realcaixia/status/1297550168431169536)
 
 #NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgHTAFSXsAAr7HZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 16: [2020-08-23 23:14:09+08:00 推文](https://twitter.com/realcaixia/status/1297552716701540353)
+### 23: [2020-08-23 23:14:09+08:00 推文](https://twitter.com/realcaixia/status/1297552716701540353)
 
 那个流氓推又跟着盗用我今早启用标明了推特账号的头像照片，但是它们不敢露出帐号来。我把帐号放在头像圆圈最中间，让大家清楚地看到，不敢露出帐号的就是假推！<br>    中共网军或被中共收买的推上痞子流氓，对我发动了这场攻击搅浑水战争！请大家看清楚我的唯一账号完全显示，流氓推不敢显示出账号
 

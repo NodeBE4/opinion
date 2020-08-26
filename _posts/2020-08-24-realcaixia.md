@@ -1,10 +1,12 @@
 ---
 author: realcaixia
-categories: [Twitter]
+categories:
+- Twitter
 date: 2020-08-26
 from: https://twitter.com/realcaixia/status/1298233856970108934
 layout: post
-tags: [Twitter]
+tags:
+- Twitter
 title: '蔡霞 的 Twitter: 2020-08-24~2020-08-30'
 ---
 
