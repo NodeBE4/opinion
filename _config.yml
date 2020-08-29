@@ -26,6 +26,8 @@ navigation:
     url: /categories
   - name: 外媒
     url: https://nodebe4.github.io/waimei/
+  - name: 英雄
+    url: https://nodebe4.github.io/hero/
   - name: 論壇
     url: https://be4.herokuapp.com
   - name: 關於
