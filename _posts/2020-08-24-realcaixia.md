@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-08-27
+date: 2020-08-30
 from: https://twitter.com/realcaixia/status/1298233856970108934
 layout: post
 tags:
@@ -46,4 +46,12 @@ Re @EarthSystemRes 谢谢您的支持和帮助。
 ### 8: [2020-08-27 16:40:03+08:00 推文](https://twitter.com/realcaixia/status/1298903088279977984)
 
 #NewProfilePic (新個人資料照片) <br><img src="https://pbs.twimg.com/media/EgaheSXWsAUU752?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-08-30 02:41:41+08:00 推文](https://twitter.com/realcaixia/status/1299779271293054980)
+
+为刘力朋鼓掌叫好！推翻极权统治，需要你我他在各个不同位置上共同努力！刘力朋了不起！让我们更多的同道中人携手同行，奋力推倒习共的信息封锁罪恶之墙！ <br><br>美国之音中文网: “这是一个脏活儿，”在中国互联网审查业工作十年的 #刘力朋 说。从入行第一天，他就秘密收集公司的“交班文档”，为共产党“真理部”那些荒谬的、事无巨细、朝令夕改的审查指令留下见证。他决心对抗审查体制，因为这是一个“作恶的系统”，而他，“不甘做个坏人”。<br>#网络审查<br>全文：<br><br><video src="https://video.twimg.com/amplify_video/1299449921481969664/vid/720x720/DBWyaMiEkv7ICYGy.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EgihbEtXgAQbVlH?format=jpg&name=orig" style="width: 100%"></video><a href="http://voachinese.com/a/5540475.html" target="_blank" rel="noopener noreferrer">http://voachinese.com/a/5540475.html</a>
+
+### 10: [2020-08-30 02:42:41+08:00 推文](https://twitter.com/realcaixia/status/1299779524125655040)
+
+Re 全球所有使用微信的正直人士，都深受微信被封禁之害。网络审查压制言论自由，已经成为习维持极权统治的支柱之一，习共把这脏活压给各大门户网站，哪家网络言论管控出问题，就严厉处罚哪家网站，就此各门户网站招聘所谓信息审查员，合起来已经有几百万人之多，在大陆中国俨然成为一个庞大的行业。
 
