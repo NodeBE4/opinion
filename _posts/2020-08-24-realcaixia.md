@@ -55,3 +55,7 @@ Re @EarthSystemRes 谢谢您的支持和帮助。
 
 Re 全球所有使用微信的正直人士，都深受微信被封禁之害。网络审查压制言论自由，已经成为习维持极权统治的支柱之一，习共把这脏活压给各大门户网站，哪家网络言论管控出问题，就严厉处罚哪家网站，就此各门户网站招聘所谓信息审查员，合起来已经有几百万人之多，在大陆中国俨然成为一个庞大的行业。
 
+### 11: [2020-08-30 14:03:41+08:00 推文](https://twitter.com/realcaixia/status/1299950903496146944)
+
+前两天我发出一篇推文，谈到“党主立宪”此路不通，并且2018年习把持下的中共修宪就是一场闹剧、丑剧。下面将我2018年反对修宪的5点看法发出来。将来中国政治转型中，重新制定宪法，必须是全社会参与、充分讨论协商、最终全民表决，这是争取政治和平转型不可回避的第一步。 <br><img src="https://pbs.twimg.com/media/Egpac6gWkAIU6kN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Egpac6gXgAgRYCJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Egpac6hXgAEGfby?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Egpac6hWkAAZ_wy?format=jpg&name=orig" referrerpolicy="no-referrer">
+
