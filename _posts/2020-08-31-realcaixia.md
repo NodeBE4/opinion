@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-01
+date: 2020-09-02
 from: https://twitter.com/realcaixia/status/1300403438589706241
 layout: post
 tags:
@@ -34,4 +34,16 @@ Re 事实上，中共一直在刻意扭曲集体记忆。四川大学谭教授�
 ### 5: [2020-09-01 06:48:01+08:00 推文](https://twitter.com/realcaixia/status/1300566037767782400)
 
 油管有一视频，警察骚扰一位反对强推汉语教学的老师。老师的话铿锵有力：“保护母语”！警察说：“你是党员，要宣传正能量”。老师响亮回答：“什么正能量？！这词是男骗子诱奸女生用的词！”为这位“党员”叫好！相信9000万党员中不甘为党奴而反抗者会不断涌现。揭露习共用文字断根变相灭族的恶政！特转推文。 <br><br>韩连潮: 中共国内蒙古地区这几天爆发民众抗议，引发世界多国关注。中共在少数民族地区强制推行汉语教学，从儿童教育入手，切断少数民族的根，自然遭到蒙古民族民众的共同抵抗！上个世纪德国纳粹法西斯对犹太人搞残忍的杀戳式种族灭绝，现在习推行阴险恶毒的从孩子抓起，搞民族文字记忆灭断式的“灭族”。 <br><a href="https://twitter.com/dajiyuan/status/1300513701838098432" target="_blank" rel="noopener noreferrer">https://twitter.com/dajiyuan/status/1300513701838098432</a>
+
+### 6: [2020-09-01 20:31:39+08:00 推文](https://twitter.com/realcaixia/status/1300773311002087427)
+
+831一週年旺角新世紀廣場有市民喊「光復香港」口號，唱歌「願榮光歸香港」| #香港大紀元新唐人聯合新聞頻道 <a href="https://youtu.be/f-MYv06QHNA" target="_blank" rel="noopener noreferrer">https://youtu.be/f-MYv06QHNA</a>
+
+### 7: [2020-09-02 01:54:45+08:00 推文](https://twitter.com/realcaixia/status/1300854624145080321)
+
+请看蒙族女老师与骚扰她的警察这段对话！“执法须在阳光下”，这位老师说得好！对那些以执法为名恐吓骚扰我们的人就要公开对话，让更多的人看到听到，这是自我保护的一个方法。这位女老师很棒！ <br><br>wei hao: @realcaixia <br><a href="https://twitter.com/naochashu/status/1300275965675753472?s=21" target="_blank" rel="noopener noreferrer">https://twitter.com/naochashu/status/1300275965675753472?s=21</a>
+
+### 8: [2020-09-02 02:10:05+08:00 推文](https://twitter.com/realcaixia/status/1300858479905734658)
+
+Re 有次我独自一人在家，被警察半夜11点半上门“执法”恐吓威胁，被强制开门。我要求他们出示执法书面告知，警察拿不出来，我就将警察挡在门外楼道里。我故意大声说话，让左邻右舍都听到。警察问隔壁有人住吗？我说这层楼所有住户都在家。我坚持一切对话都当众公开，警察就有所顾忌，不敢太蛮横施暴。
 
