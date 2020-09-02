@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-02
+date: 2020-09-03
 from: https://twitter.com/realcaixia/status/1300403438589706241
 layout: post
 tags:
@@ -66,4 +66,24 @@ Re “自由化”意味着政治罪名；所谓“反分裂”、骂“港独�
 ### 13: [2020-09-02 20:11:28+08:00 推文](https://twitter.com/realcaixia/status/1301130621293662208)
 
 Re 大陆不少人使用的汉语充斥着暴戾气，与崇拜“暴力革命”有关。大陆中文在某种程度上已经成了一个邪恶话语体系。给各民族孩子甚至从幼儿园起就用这套党言党语教学中文，不仅断各民族文化之根，而且熏陶灌输出具有极权思维的“共产主义新人”，长此以往，孩子平时将成党国斗士；战时就是党国炮灰。
+
+### 14: [2020-09-02 22:06:52+08:00 推文](https://twitter.com/realcaixia/status/1301159662641872896)
+
+Re 大陆一些幼儿，5、6岁小男孩玩玩具枪能比划着说：打死日本小鬼子，打死美国佬。听得大人毛骨悚然。从小被灌输仇恨意识、暴力意识，检举他人意识，孩子们的爱心与纯真，就慢慢地被泯灭了。
+
+### 15: [2020-09-02 23:15:04+08:00 推文](https://twitter.com/realcaixia/status/1301176826597965835)
+
+【因言获罪株连九族必须终止 -- 为任志强再辩】（1）任志强因说真话而被强栽罪名打入监狱，至今无人能获得他的确切消息。为此，特推出我的这篇文字，呼吁推友们、呼吁国际人权组织关注任志强，营救任志强。因文字较长，故而分两次推发。 <br><img src="https://pbs.twimg.com/media/Eg61Y3oXcAII6PX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg61Y3qXYAItwXv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg61Y3pWsAAnm0i?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg61Y3rWoAAXYvk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2020-09-02 23:19:23+08:00 推文](https://twitter.com/realcaixia/status/1301177912704598017)
+
+【因言获罪株连九族必须终止 -- 为任志强再辩】（2）任志强因说真话而被强栽罪名打入监狱，至今无人能获得他的确切消息。为此，特推出我的这篇文字，呼吁推友们、呼吁国际人权组织关注任志强，营救任志强。因文字较长，故而分两次推发。 <br><img src="https://pbs.twimg.com/media/Eg62aP2X0AAECeG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg62aP2WsAA2nVZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg62aP1WAAU6qog?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2020-09-03 00:06:09+08:00 推文](https://twitter.com/realcaixia/status/1301189679547650050)
+
+【灌输党国观念——从娃娃抓起】大陆中文已经成为中共极权意识形态的载体，孩子们从小学学中文开始就处在极权意识的灌输下，热爱极权统治，感恩极权党魁，丧失自我主体意识，甘为党奴，满脑子阶级斗争、极端思维、阴谋论、仇恨意识，鼓励告密揭发……这样长大的孩子还有健康心理、健全人格吗？！ <br><img src="https://pbs.twimg.com/media/Eg7BG96XsAIwOUI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg7BG8lXsAgHRCp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg7BG85X0AcEa_A?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg7BG8mXsAAlTGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2020-09-03 00:18:33+08:00 推文](https://twitter.com/realcaixia/status/1301192802253131781)
+
+Re 请看央视开学第一课画面设计：“五星红旗”、图片上孩子们背后站着三位军人，这些都满含意味。还记得2018年“两会”人大会堂的一幕吗：全场寂然，只听得军人皮靴声“咔、咔、咔”，押着“宪法”进场。在场的人大代表有一个敢转身敢出声的吗？！
 
