@@ -47,3 +47,7 @@ Re 事实上，中共一直在刻意扭曲集体记忆。四川大学谭教授�
 
 Re 有次我独自一人在家，被警察半夜11点半上门“执法”恐吓威胁，被强制开门。我要求他们出示执法书面告知，警察拿不出来，我就将警察挡在门外楼道里。我故意大声说话，让左邻右舍都听到。警察问隔壁有人住吗？我说这层楼所有住户都在家。我坚持一切对话都当众公开，警察就有所顾忌，不敢太蛮横施暴。
 
+### 9: [2020-09-02 09:59:02+08:00 推文](https://twitter.com/realcaixia/status/1300976498971738112)
+
+从小学一年级起禁止母语教学，全部采用汉语教学，这种文化断根的灭族做法，极为邪恶。 <br><img src="https://pbs.twimg.com/media/Eg3_OMJWkAA3uFw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg3_OQxWsAAAimw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg3_OMHXsAEcFNv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg3_ON3WkAInk_f?format=jpg&name=orig" referrerpolicy="no-referrer">
+
