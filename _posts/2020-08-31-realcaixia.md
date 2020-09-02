@@ -51,3 +51,19 @@ Re 有次我独自一人在家，被警察半夜11点半上门“执法”恐吓
 
 从小学一年级起禁止母语教学，全部采用汉语教学，这种文化断根的灭族做法，极为邪恶。 <br><img src="https://pbs.twimg.com/media/Eg3_OMJWkAA3uFw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg3_OQxWsAAAimw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg3_OMHXsAEcFNv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eg3_ON3WkAInk_f?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2020-09-02 19:20:57+08:00 推文](https://twitter.com/realcaixia/status/1301117908668616704)
+
+中共百年，特别是统治大陆70多年，大陆汉语已经被高度污染，许多词语已经先在地内涵着极权意识观念，例如大陆官方说的“爱国”就是“爱中共政权”；“党中央”就是“习近平”。极权主义造了许多新词，毛时期的“三忠于”“四无限”、习现在的“四个自信”“四个意识”“两个维护”……，汉语已是党文化载体，已成党言党语 <br><br>韩连潮: 【消灭文字是灭族的一步】欲灭一国，先灭其族，欲灭一族，先灭其文化；欲灭文化，先灭其文字；习黑帮禁止蒙语教学是其系统性灭族政策的一步，西藏新疆已实施，轮到内蒙了，最终要把56个民族变成一个红色帝国民族，汉文化已成党文化，汉人已成党人，中共邪恶如斯，罪莫大焉！支持蒙族人保卫自己的文字！ <br><br><img src="https://pbs.twimg.com/media/Eg5DTu3XgAAZMuw?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-09-02 19:39:27+08:00 推文](https://twitter.com/realcaixia/status/1301122562118868993)
+
+Re 中共极权统治至今70多年里，极权思维方式已经渗透在汉语中。例如“牛鬼蛇神”即大陆政治贱民群体；“无产阶级专政铁拳”意味着草菅人命不用负法律责任而且政治正确；“净化灵魂”意味着禁锢思想；“增强党性”意味着反对与抹杀人性；“当好螺丝钉”意味着消灭主体意识以甘为党奴；““舍小家顾大家”意味着国家本位
+
+### 12: [2020-09-02 20:00:37+08:00 推文](https://twitter.com/realcaixia/status/1301127888608133122)
+
+Re “自由化”意味着政治罪名；所谓“反分裂”、骂“港独”“台独”“疆独”“藏独”等，即占领政治正确高地，实质是大汉族主义的“大一统”专制意识。“中共党”、“马列毛习思想”天然具有神圣性，容不得半点质疑，“反党”就是严重罪行……这类思维深深嵌入人们的观念系统，支配着许多大陆人的头脑。
+
+### 13: [2020-09-02 20:11:28+08:00 推文](https://twitter.com/realcaixia/status/1301130621293662208)
+
+Re 大陆不少人使用的汉语充斥着暴戾气，与崇拜“暴力革命”有关。大陆中文在某种程度上已经成了一个邪恶话语体系。给各民族孩子甚至从幼儿园起就用这套党言党语教学中文，不仅断各民族文化之根，而且熏陶灌输出具有极权思维的“共产主义新人”，长此以往，孩子平时将成党国斗士；战时就是党国炮灰。
+
