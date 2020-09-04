@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-03
+date: 2020-09-04
 from: https://twitter.com/realcaixia/status/1300403438589706241
 layout: post
 tags:
@@ -90,4 +90,12 @@ Re 请看央视开学第一课画面设计：“五星红旗”、图片上孩�
 ### 19: [2020-09-03 00:36:04+08:00 推文](https://twitter.com/realcaixia/status/1301197208411398144)
 
 Re 从用以灌输党国极权思维角度上说，大陆中文已变成邪恶话语了。中共动辄封号删帖抓网友，逼着民众用错别字、拼音字母、数字谐音表达思考，有哪个民族被逼着如此糟蹋自己母语的？！只有顺服党国意志的文章才能在网上存活，大陆网络充斥各种谎言欺骗……。在某种意义上，大陆中文难道不是一种邪恶话语吗？
+
+### 20: [2020-09-04 10:53:56+08:00 推文](https://twitter.com/realcaixia/status/1301715087221194752)
+
+韩先生的这段文字直击要害！“色厉内荏的五个不”戳穿习的虚弱本质。“去习非共”！这四个字好！大赞👍！ <br><br>韩连潮: 【色厉内荏的五个不】习的五个“绝不答应”恰恰说明他惧怕这五个方面的真相，尤其是美国区分中共和中国人民的政策，让他绑架14亿人难以为继，其意识形态建立在谎言之上，在阳光下和民主理念对决绝无获胜机会；自由世界会逐项落实去习非共（delegitimize）措施，中国人民也绝不会答应世世代代沦为党奴。 <br><br><img src="https://pbs.twimg.com/media/EhCMIFvWoAAOYNw?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2020-09-04 10:58:42+08:00 推文](https://twitter.com/realcaixia/status/1301716290269306882)
+
+香港有关法院坚持了法治香港底线，司法不被极权政治淫威捆绑！坚守司法独立原则！致敬！ <br><br>美国之音中文网: 香港民主运动标杆性人物、壹传媒创办人黎智英因涉嫌在2017年维园六四纪念晚会期间恐吓威胁亲中香港媒体记者被起诉。西九龙法院于9月3日做出裁决称，黎智英的证词有效可信，罪名不成立。全文：<br><br><video src="https://video.twimg.com/amplify_video/1301513118556852229/vid/720x720/TFQ78944WMJVsAX2.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1301513118556852229/img/KMRz_Scy2w-GBFXU.jpg" style="width: 100%"></video><a href="https://bit.ly/2EY4RQD" target="_blank" rel="noopener noreferrer">https://bit.ly/2EY4RQD</a>
 
