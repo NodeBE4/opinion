@@ -3,7 +3,7 @@
   {% assign shareurl = page.from %}
   {% assign sharetitle = page.title %}
 {% else %}
-  {% assign shareurl = site.url + '/' + site.baseurl %}
+  {% assign shareurl = site.url | append: site.baseurl | append: page.url %}
   {% assign sharetitle = site.name | append: '-' | append: site.description %}
 {% endif %}
 <div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">

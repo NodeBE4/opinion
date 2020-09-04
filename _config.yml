@@ -30,7 +30,7 @@ navigation:
     url: https://nodebe4.github.io/hero/
   - name: 社會
     url: https://nodebe4.github.io/society/
-  - name: 關於
+  - name: <i class="fa fa-info-circle"></i>
     url: /about
 
 # Pagination
