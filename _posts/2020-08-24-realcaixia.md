@@ -59,3 +59,11 @@ Re 全球所有使用微信的正直人士，都深受微信被封禁之害。�
 
 前两天我发出一篇推文，谈到“党主立宪”此路不通，并且2018年习把持下的中共修宪就是一场闹剧、丑剧。下面将我2018年反对修宪的5点看法发出来。将来中国政治转型中，重新制定宪法，必须是全社会参与、充分讨论协商、最终全民表决，这是争取政治和平转型不可回避的第一步。 <br><img src="https://pbs.twimg.com/media/Egpac6gWkAIU6kN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Egpac6gXgAgRYCJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Egpac6hXgAEGfby?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Egpac6hWkAAZ_wy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 12: [2020-08-30 21:40:14+08:00 推文](https://twitter.com/realcaixia/status/1300065794450173955)
+
+Re 非常感谢几位推友的好心提醒，确实推文中错了两个字，意思就有明显差错。即：第三，“取消职务终身制”我笔误写成了“取消职务任期制”，在此特向提醒我的推友们表示深深的感谢，想阅读我推文的推友们表示深深的歉意。以后再忙再晚，发推文时一定反复多读几遍，争取不再出这类差错。再次鞠躬致谢并致歉。
+
+### 13: [2020-08-30 21:44:14+08:00 推文](https://twitter.com/realcaixia/status/1300066802857279488)
+
+Re 又有一错：“向”点击时点成了“想”
+
