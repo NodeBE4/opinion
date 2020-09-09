@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-09
+date: 2020-09-10
 from: https://twitter.com/realcaixia/status/1302688019317764107
 layout: post
 tags:
@@ -50,4 +50,12 @@ Re @WallStTV <br><img src="https://pbs.twimg.com/media/Ehee8VGWAAAsD6d?format=jp
 ### 9: [2020-09-09 23:45:47+08:00 推文](https://twitter.com/realcaixia/status/1303721268965933062)
 
 【耿潇男女士与丈夫一起被失联！】耿潇男女士是中国一位热心侠义的大陆女士，在许章润先生被警察带走后，曾大力声援许章润先生。北京当局以经济问题为名，调查她们夫妇的出版公司，并封了她先生与公司账号，并抓走公司的几名职员。耿潇男女士夫妇被失联，已遭当局毒手。请高度关注并声援耿潇男夫妇！
+
+### 10: [2020-09-10 00:32:30+08:00 推文](https://twitter.com/realcaixia/status/1303733028372525056)
+
+一边极左杂志重出江湖，一边中共国大肆迫害中国政治反对力量，两相对比何其鲜明！ <br><br>韩连潮: 中共国毛左杂志被停刊20年后重出江湖——一个重要信号——共产极权明目张胆走上前台。 <br><br><img src="https://pbs.twimg.com/media/EhWyo4AWkAAGZf7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhWyo3-WsAA7qtm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhWyo3_XcAUbDGy?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-09-10 01:22:04+08:00 推文](https://twitter.com/realcaixia/status/1303745502178152448)
+
+章润先生转发海外华人企业家陈天庸呼吁救援耿潇男女士的文字；同时章润先生挺身而出为公义而呼喊！习高压恐怖统治，大肆抓捕迫害政治异见人士，已经到了末日疯狂的地步了！ <br><img src="https://pbs.twimg.com/media/EhfVng4XcAECthV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhfVng3X0AEGdaV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
