@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-10
+date: 2020-09-11
 from: https://twitter.com/realcaixia/status/1302688019317764107
 layout: post
 tags:
@@ -74,4 +74,20 @@ Re @WallStTV <br><img src="https://pbs.twimg.com/media/Ehee8VGWAAAsD6d?format=jp
 ### 15: [2020-09-10 10:51:01+08:00 推文](https://twitter.com/realcaixia/status/1303888680457768962)
 
 潇男多年从事文化艺术产业，多年致力于公益事业。她曾经在日本做访学研究，对日本文化艺术有许多独特见解和精当阐释，赢得文学界知名作家、学术界许多学者的赞赏。 <br><img src="https://pbs.twimg.com/media/EhhX1SXWoAEDoRe?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2020-09-10 21:14:41+08:00 推文](https://twitter.com/realcaixia/status/1304045631166611456)
+
+今天是中国的教师节。作为教师，借今天这个日子，看看中国教师的真实处境。 <br><img src="https://pbs.twimg.com/media/EhjmlLaX0AIsdEu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhjmlLZWAAA-6DZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhjmlLaXcAUOukO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2020-09-10 21:25:56+08:00 推文](https://twitter.com/realcaixia/status/1304048462804246531)
+
+潇男深知她帮助的人都是被中共极权政权迫害的人，她若是走近去，帮助他们为他们扶危解困，她自己也会很危险。于是，她提前签约了委托律师。然而，她没有退缩，她义无反顾地往前走，继续做她认为应该做的和必须做的事！好一位中国十二月党人的女人！致敬耿潇男！🌹🌹🌹 <br><br>ZHANGDONG: 据律師通报，耿瀟男女士被刑拘在北京市海淀区看守所！😭 <br><br><img src="https://pbs.twimg.com/media/Ehih27tWAAUpd5N?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2020-09-10 21:34:36+08:00 推文](https://twitter.com/realcaixia/status/1304050646312722433)
+
+中国没有现代法治意义上的法律，只有专制极权用于统治民众的酷法工具。曾经听一著名律师亲口告诉我：他们用A罪名抓人；用B罪名搜罗证据；用C罪名庭审；用D罪名判刑。法律在他们手里，他们想怎么用就怎么用。 <br><br>北明BeiMing: 耿潇男被刑拘！<br>耿潇男夫妇被刑事拘留，耿潇男目前被关押在海淀区看守所。罗织的罪名是“非法经营”。<br><br> 按照相关法律，“刑事拘留必须同时具备两个条件：其一，拘留的对象是现行犯或者是重大嫌疑分子。 现行犯是指正在实施犯罪的人，重大嫌疑分子是指有证据证明具有重大犯罪嫌疑的人。”<br>
+
+### 19: [2020-09-11 00:10:36+08:00 推文](https://twitter.com/realcaixia/status/1304089902091567105)
+
+章润先生雄文！慷慨陈辞，浩然正气，为正义呼喊，天地万物为之动容。<br>“还潇男自由，还潇男夫妇自由，还这个世界以公道！”<br>若“潇男有罪，吾人同罪，莫欺负女子，坐牢杀头，请自章润始。” <br><br>ZHANGDONG: 请转发！ <br><br><img src="https://pbs.twimg.com/media/EhkLv2zWkAAfVEV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
