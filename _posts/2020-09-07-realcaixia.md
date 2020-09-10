@@ -63,3 +63,15 @@ Re @WallStTV <br><img src="https://pbs.twimg.com/media/Ehee8VGWAAAsD6d?format=jp
 
 据国内朋友说，当局又封锁了9月11日任志强案开庭的消息。中国许多人都很敬重佩服任志强，任志强先生有巨大的人格感召力量。 <br><br>一剑飘尘06: 任志强案件9月11日开庭，值得注意的是，一审是在中院，这说明绝对要重判。因为中国的刑事案件一审都放在中院的。习近平一定会杀一儆百。 <br><br><img src="https://pbs.twimg.com/media/EheunaaU8AAR0be?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 13: [2020-09-10 10:03:11+08:00 推文](https://twitter.com/realcaixia/status/1303876645695172609)
+
+潇男是我多年的好朋友，她善良侠义早有口碑，多年来悉心照顾帮助政治异见老人，如鲍彤先生、杜光教授、姚监复先生、杨继绳先生等；她的侠义勇敢令人感佩，她曾四处奔波呼吁声援救助许章润等志士仁人；她写得一手好文章，才华出众文采斐然，常常令人叫绝！而今她身陷险境，我们呼吁放人！还潇男自由！ <br><br>韩连潮: 中共当局疯狂迫害中国政治异见人士，引发社会广泛关注，引发海内外公愤！曾经奔走呼吁救援许章润先生的侠义女士耿潇男夫妇，被北京警方带走拘押，直至现在不见音信。许章润先生不畏暴政高压恐怖，挺身疾呼：还潇男女士以自由，还世界以公道！ <br><br><img src="https://pbs.twimg.com/media/EhhGyh9WsAYLfBP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-09-10 10:26:55+08:00 推文](https://twitter.com/realcaixia/status/1303882617134215168)
+
+许章润先生配图再发文，呼吁救援潇男夫妇！ <br><img src="https://pbs.twimg.com/media/EhhSU3bWkAIh492?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2020-09-10 10:51:01+08:00 推文](https://twitter.com/realcaixia/status/1303888680457768962)
+
+潇男多年从事文化艺术产业，多年致力于公益事业。她曾经在日本做访学研究，对日本文化艺术有许多独特见解和精当阐释，赢得文学界知名作家、学术界许多学者的赞赏。 <br><img src="https://pbs.twimg.com/media/EhhX1SXWoAEDoRe?format=jpg&name=orig" referrerpolicy="no-referrer">
+
