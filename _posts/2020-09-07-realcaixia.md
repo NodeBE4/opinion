@@ -59,3 +59,7 @@ Re @WallStTV <br><img src="https://pbs.twimg.com/media/Ehee8VGWAAAsD6d?format=jp
 
 章润先生转发海外华人企业家陈天庸呼吁救援耿潇男女士的文字；同时章润先生挺身而出为公义而呼喊！习高压恐怖统治，大肆抓捕迫害政治异见人士，已经到了末日疯狂的地步了！ <br><img src="https://pbs.twimg.com/media/EhfVng4XcAECthV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhfVng3X0AEGdaV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 12: [2020-09-10 05:54:14+08:00 推文](https://twitter.com/realcaixia/status/1303813992255762433)
+
+据国内朋友说，当局又封锁了9月11日任志强案开庭的消息。中国许多人都很敬重佩服任志强，任志强先生有巨大的人格感召力量。 <br><br>一剑飘尘06: 任志强案件9月11日开庭，值得注意的是，一审是在中院，这说明绝对要重判。因为中国的刑事案件一审都放在中院的。习近平一定会杀一儆百。 <br><br><img src="https://pbs.twimg.com/media/EheunaaU8AAR0be?format=jpg&name=orig" referrerpolicy="no-referrer">
+
