@@ -91,3 +91,7 @@ Re @WallStTV <br><img src="https://pbs.twimg.com/media/Ehee8VGWAAAsD6d?format=jp
 
 章润先生雄文！慷慨陈辞，浩然正气，为正义呼喊，天地万物为之动容。<br>“还潇男自由，还潇男夫妇自由，还这个世界以公道！”<br>若“潇男有罪，吾人同罪，莫欺负女子，坐牢杀头，请自章润始。” <br><br>ZHANGDONG: 请转发！ <br><br><img src="https://pbs.twimg.com/media/EhkLv2zWkAAfVEV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 20: [2020-09-11 04:38:16+08:00 推文](https://twitter.com/realcaixia/status/1304157264790671360)
+
+【请别上当受骗】这是假冒耿潇男的推特，请各位推友仔细明辨。我发布的截图2，是假耿潇男推发出的第一个推文，这个假耿推截用了我的推文。请注意图片2，这是假推的第一个推文。真的耿潇男推特，发布过她曾经的各种经历和记载。我记得住她的真推特，现在这个真推特似乎在推特上找不见了！ <br><img src="https://pbs.twimg.com/media/EhlMHivX0AALfre?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhlMHiyX0AIe-30?format=jpg&name=orig" referrerpolicy="no-referrer">
+
