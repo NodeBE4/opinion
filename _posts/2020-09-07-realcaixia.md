@@ -95,3 +95,15 @@ Re @WallStTV <br><img src="https://pbs.twimg.com/media/Ehee8VGWAAAsD6d?format=jp
 
 【请别上当受骗】这是假冒耿潇男的推特，请各位推友仔细明辨。我发布的截图2，是假耿潇男推发出的第一个推文，这个假耿推截用了我的推文。请注意图片2，这是假推的第一个推文。真的耿潇男推特，发布过她曾经的各种经历和记载。我记得住她的真推特，现在这个真推特似乎在推特上找不见了！ <br><img src="https://pbs.twimg.com/media/EhlMHivX0AALfre?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhlMHiyX0AIe-30?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 21: [2020-09-11 09:50:11+08:00 推文](https://twitter.com/realcaixia/status/1304235762162991106)
+
+Re @AnnaWruiqin 任志强案现在开庭，但无人能进入法院旁听，除非是“特别邀请的人”。批着法律外衣，实为打击镇压不同政治意见者。可以想见，他们怎么可能真的公开透明、依法审理呢？！
+
+### 22: [2020-09-11 09:51:48+08:00 推文](https://twitter.com/realcaixia/status/1304236168230449153)
+
+任志强案现在开庭，但无人能进入法院旁听，除非是“特别邀请的人”。批着法律外衣，实为打击镇压不同政治意见者。可以想见，他们怎么可能真的公开透明、依法审理呢？！ <br><br>Anna.wangruiqin: 【快讯】任志强开庭情况通报.1<br><br>         前方：我现在北京市第二中级人民法院开庭进去大门马路对面，大门口及周围有很多警察，对面这里有很多人在拍照摄像，刚才有两个警察过来盘问拍摄者。<br><br>         任志强案开庭时，警察说除了有“特别邀请的人”外，无人能进入法庭旁听。<br><br>2020年9月11日9点27分 <br><br><img src="https://pbs.twimg.com/media/EhmSJsKXsAI0QbE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmSJsJXkAIFXTJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmSJsJXcAUmxXo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmSJsJX0AAVrLA?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2020-09-11 10:20:54+08:00 推文](https://twitter.com/realcaixia/status/1304243488733777923)
+
+什么情况？把法院门外的人都赶走了？ <br><br>Anna.wangruiqin: 【快讯】任志强开庭情况通报.2<br><br>前方报道：后面三张还是九点十几分的照片，…先前找个地方发出消息后再回去时，所有的人都不见了，那是九点三十七分，上面那张独立照片是法院大门左边三十米的十字路口，还有警察<br>…现在除了大门外和边上有几个警察外，看不出有什么情况了<br>…，最新警察也撤了 <br><br><img src="https://pbs.twimg.com/media/EhmWWkVXYAEdqWs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmWWkWXYAE8II7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmWWkWXkAcRedt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmWWkYXYAEZJnM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
