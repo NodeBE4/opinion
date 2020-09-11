@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-11
+date: 2020-09-12
 from: https://twitter.com/realcaixia/status/1302688019317764107
 layout: post
 tags:
@@ -106,4 +106,28 @@ Re @AnnaWruiqin 任志强案现在开庭，但无人能进入法院旁听，除�
 ### 23: [2020-09-11 10:20:54+08:00 推文](https://twitter.com/realcaixia/status/1304243488733777923)
 
 什么情况？把法院门外的人都赶走了？ <br><br>Anna.wangruiqin: 【快讯】任志强开庭情况通报.2<br><br>前方报道：后面三张还是九点十几分的照片，…先前找个地方发出消息后再回去时，所有的人都不见了，那是九点三十七分，上面那张独立照片是法院大门左边三十米的十字路口，还有警察<br>…现在除了大门外和边上有几个警察外，看不出有什么情况了<br>…，最新警察也撤了 <br><br><img src="https://pbs.twimg.com/media/EhmWWkVXYAEdqWs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmWWkWXYAE8II7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmWWkWXkAcRedt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhmWWkYXYAEZJnM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2020-09-11 20:51:11+08:00 推文](https://twitter.com/realcaixia/status/1304402104996581376)
+
+国内微信传出两则消息，透露了北京时间9月11日任志强案开庭审理情况。所谓公开审理是幌子。法院门外站着好几个警察，警察驱赶法院附近人群，不允许人们靠近，并对法院路对面的拍照记者和拍照路人进行盘问。 <br><img src="https://pbs.twimg.com/media/EhoqzD2X0AAyZ-v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhoqzD3WoAAVCVV?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2020-09-11 23:48:35+08:00 推文](https://twitter.com/realcaixia/status/1304446749679943689)
+
+9/11【焦点对话】中共开审任志强之际 蔡霞谈红二代与中共危机 <a href="https://youtu.be/5RMKFhoDaJY" target="_blank" rel="noopener noreferrer">https://youtu.be/5RMKFhoDaJY</a>
+
+### 26: [2020-09-12 00:07:56+08:00 推文](https://twitter.com/realcaixia/status/1304451618608381952)
+
+今早VOA播出了对我的访谈，这个访谈内容：1，我对任志强案的看法，2，作为红二，我的认知；红二群体内对放弃特权还是放弃政权的思考；红二群体的反思；3对当下中国政治的观察与思考。
+
+### 27: [2020-09-12 00:09:30+08:00 推文](https://twitter.com/realcaixia/status/1304452015884570627)
+
+Re <br><img src="https://pbs.twimg.com/media/EhpYMWjXYAAqKrT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 28: [2020-09-12 00:43:58+08:00 推文](https://twitter.com/realcaixia/status/1304460687801024521)
+
+今天9.11，我们共同纪念所有被邪恶势力夺取生命的死难者。我们要为我们自己与我们的子孙后代能和平生活，而合力扫除一切邪恶势力。 <br><br>韩连潮: 【永不忘记】911是当今世界正邪大战的重要部分，2977人的生命让我们更懂得珍惜自由，而在承诺永不忘记 #NeverForget 之时，更要总结教训，不能贪图一时安全而牺牲自由。#中共病毒 致死人数是911的65倍，面对中共这样的邪恶势力我们别无选择，只有决死一战！ <br><br><img src="https://pbs.twimg.com/media/EhogkK5X0AExwKC?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2020-09-12 01:40:34+08:00 推文](https://twitter.com/realcaixia/status/1304474933075103744)
+
+Re @amandalan1107 读你的这两段文字，忍不住泪下。
 
