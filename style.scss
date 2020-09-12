@@ -676,6 +676,24 @@ footer {
   }
 }
 
+.help::after {
+  font-size: 12px;
+  display: none;
+}
+
+#toggle:checked ~ .help::after {
+  font-size: 0px;
+  display: block;
+}
+
+.visually-hidden {
+    position: absolute;
+    left: -100vw;
+    opacity: 0%;
+    
+    /* Note, you may want to position the checkbox over top the label and set the opacity to zero instead. It can be better for accessibilty on some touch devices for discoverability. */
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 //@import "highlights";

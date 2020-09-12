@@ -20,17 +20,11 @@ avatar:  # /images/apple-touch-icon.png #
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: 觀點2
-    url: https://nodebe4.github.io/oped2/
-  - name: 來源
+  - name: <i class="fa fa-tags" title="分类"></i>
     url: /categories
-  - name: 外媒
-    url: https://nodebe4.github.io/waimei/
-  - name: 英雄
-    url: https://nodebe4.github.io/hero/
-  - name: 社會
-    url: https://nodebe4.github.io/society/
-  - name: <i class="fa fa-info-circle"></i>
+  - name: <i class="fa fa-comments" title="论坛"></i>
+    url: https://be4.herokuapp.com/
+  - name: <i class="fa fa-info-circle" title="关于"></i>
     url: /about
 
 # Pagination
@@ -57,7 +51,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a>, 站务反馈 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">已被墙</span>）
+footer-text: <span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
