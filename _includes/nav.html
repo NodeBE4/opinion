@@ -23,7 +23,7 @@
         {% endif %}
         {% endfor %}
         <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
-        <a title="BE4服务列表" onclick="toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+        <a id="fa-home" href="{{ site.url }}" title="BE4服务列表" onclick="toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
       </nav>
 
     </header>
@@ -45,6 +45,8 @@
   const url = "https://nodebe4.github.io/sitelist.json"
 
   document.addEventListener("DOMContentLoaded", function(event){
+    var homebtn = document.getElementById("fa-home")
+    homebtn.href=''
     var content = document.getElementById("site-list");
     content.innerHTML = ''
     var ul = document.createElement("ul")
