@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-12
+date: 2020-09-13
 from: https://twitter.com/realcaixia/status/1302688019317764107
 layout: post
 tags:
@@ -146,4 +146,16 @@ Re @zhaoxin8964 还有印象呢😄。您好🤝
 ### 33: [2020-09-12 22:32:24+08:00 推文](https://twitter.com/realcaixia/status/1304789966745149446)
 
 鲁难戳穿那些李鬼一针见血！ <br><br>鲁  难: 李鬼害怕了！作假之前就把我隔离，这是对我的褒奖和肯定，他们预感我一定会识破并揭露。我这里有照妖镜，漫说造假的雕虫小技，就连那些在推上假冒民运，天天舔共反川反美的无耻文人也立马现形。这李鬼从假冒蔡霞、耿潇男账号到假冒许章润都失败，必须另辟蹊径，再找出路，才能领到钢镚儿了。 <br><br><img src="https://pbs.twimg.com/media/EhuKz28XkAcMVY6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhuKz26XcAcreiM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhuKz28WoAE8hzd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 34: [2020-09-13 00:39:14+08:00 推文](https://twitter.com/realcaixia/status/1304821885063114757)
+
+多年前我在与鲍彤老先生聚会中认识了潇男，她开车接送年高行走不便的老人；她提前为庆寿诞老人订蛋糕；她为老人聚会制定张贴招贴画；多年来她为照顾老先生们，只是做事，从不张扬，很让人感动。我对潇男的信任感敬重感由此而生。潇男遭毒手，是中共极权镇压升级的信号。救援潇男，需要你我他一起努力！ <br><br>鲍彤 Bao Tong: 是的，耿潇男是我的朋友。蔡霞，许章润，浦志强，王藏，丁家喜，许志永，708律师的夫人们，余文生律师的夫人，陈云飞，陈秋实.......已经和我们永别的刘晓波......已经失踪和正在继续不断失踪的我们的同胞，都是我的朋友。我以他们为友，我当然以他们为念。忍看言者纷纷成罪犯，我又能说什么呢！呜呜！ <br><a href="https://twitter.com/dw_chinese/status/1304350260504993793" target="_blank" rel="noopener noreferrer">https://twitter.com/dw_chinese/status/1304350260504993793</a>
+
+### 35: [2020-09-13 00:41:43+08:00 推文](https://twitter.com/realcaixia/status/1304822512086323201)
+
+日本读卖新闻刊登潇男被警方抓捕迫害的消息。潇男遭迫害引国际关注。 <br><img src="https://pbs.twimg.com/media/EhupJFDXkAMyuue?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 36: [2020-09-13 04:08:39+08:00 推文](https://twitter.com/realcaixia/status/1304874586761240588)
+
+【任志强铮铮傲骨铁汉子】下面是开庭播报。<br>澄清一点，我不是任总朋友圈里人。2016年我声援任志强，任总根本不认识我。后来有朋友邀我参加一次10人聚餐，席间有任总，任才认识了我。此后，我与任总没有交往。我写文章只为表达看法，与是否好朋友毫无关系。 <br><img src="https://pbs.twimg.com/media/EhvYgvbWsAIXJTc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhvYgvgXsAAHlNP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhvYgveXgAEjKPC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhvYgveXcAgTczt?format=jpg&name=orig" referrerpolicy="no-referrer">
 
