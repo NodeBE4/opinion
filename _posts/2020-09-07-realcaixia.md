@@ -139,3 +139,11 @@ Re @amandalan1107 读你的这两段文字，忍不住泪下。
 
 Re @zhaoxin8964 还有印象呢😄。您好🤝
 
+### 32: [2020-09-12 21:50:49+08:00 推文](https://twitter.com/realcaixia/status/1304779501554085889)
+
+欲加之罪 何患无辞！非法经营罪就如同寻衅滋事罪一样，就是把所有他们想惩罚而又找不到名目的企业家都以这个口袋罪来抓人！ <br><br>鲁  难: 消失三天后，官方的黑帽子扣下来，无论如何是不会承认耿潇男是因言获罪的。老百姓心里有杆秤，看你横行到几时？ <br><br><img src="https://pbs.twimg.com/media/Eht74KsXsAE_MhO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eht74KrXcAAcUk4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eht74KtXgAA-9a_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 33: [2020-09-12 22:32:24+08:00 推文](https://twitter.com/realcaixia/status/1304789966745149446)
+
+鲁难戳穿那些李鬼一针见血！ <br><br>鲁  难: 李鬼害怕了！作假之前就把我隔离，这是对我的褒奖和肯定，他们预感我一定会识破并揭露。我这里有照妖镜，漫说造假的雕虫小技，就连那些在推上假冒民运，天天舔共反川反美的无耻文人也立马现形。这李鬼从假冒蔡霞、耿潇男账号到假冒许章润都失败，必须另辟蹊径，再找出路，才能领到钢镚儿了。 <br><br><img src="https://pbs.twimg.com/media/EhuKz28XkAcMVY6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhuKz26XcAcreiM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhuKz28WoAE8hzd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
