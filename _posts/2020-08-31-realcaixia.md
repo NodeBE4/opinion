@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-04
+date: 2020-09-06
 from: https://twitter.com/realcaixia/status/1300403438589706241
 layout: post
 tags:
@@ -98,4 +98,12 @@ Re 从用以灌输党国极权思维角度上说，大陆中文已变成邪恶�
 ### 21: [2020-09-04 10:58:42+08:00 推文](https://twitter.com/realcaixia/status/1301716290269306882)
 
 香港有关法院坚持了法治香港底线，司法不被极权政治淫威捆绑！坚守司法独立原则！致敬！ <br><br>美国之音中文网: 香港民主运动标杆性人物、壹传媒创办人黎智英因涉嫌在2017年维园六四纪念晚会期间恐吓威胁亲中香港媒体记者被起诉。西九龙法院于9月3日做出裁决称，黎智英的证词有效可信，罪名不成立。全文：<br><br><video src="https://video.twimg.com/amplify_video/1301513118556852229/vid/720x720/TFQ78944WMJVsAX2.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1301513118556852229/img/KMRz_Scy2w-GBFXU.jpg" style="width: 100%"></video><a href="https://bit.ly/2EY4RQD" target="_blank" rel="noopener noreferrer">https://bit.ly/2EY4RQD</a>
+
+### 22: [2020-09-06 23:20:02+08:00 推文](https://twitter.com/realcaixia/status/1302627626855600131)
+
+【中共强力压制蒙族干部反抗文化灭族暴政】蒙古族民众全民反抗文化灭族暴政，蒙古族党员干部与本民族民众站在一起，其中有任领导职务的官员。中共极权专制对蒙族公职人员卡脖子断生路，勒令必须送孩子上学，如不服从，便以撤职、降职、开除、停发一切待遇、强押孩子进园等流氓做法，进行恐吓、压制。 <br><img src="https://pbs.twimg.com/media/EhPc6qBXgAM5XkM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhPc6qhWoAEpVUo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhPc6qgXgAU2lGp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhPc6qhXYAAqmLB?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2020-09-06 23:36:20+08:00 推文](https://twitter.com/realcaixia/status/1302631727932887043)
+
+目前中共国民众人权的真实写照！我们做人的权利要靠我们抗争得来，我们生而为人，绝不甘于沉沦为奴。 <br><br>韩连潮: 这个概括得好，准确地反映了中共国民众人权的真实现状！这是习共极权暴政下民众的痛苦呐喊。去习非共，中共国民众才能解脱暴政之苦！民众苦共久矣…… <br><br><img src="https://pbs.twimg.com/media/EhO4jy5XgAArPcl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
