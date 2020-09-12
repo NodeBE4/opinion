@@ -46,7 +46,7 @@
 
   document.addEventListener("DOMContentLoaded", function(event){
     var homebtn = document.getElementById("fa-home")
-    homebtn.href=''
+    homebtn.removeAttribute("href")
     var content = document.getElementById("site-list");
     content.innerHTML = ''
     var ul = document.createElement("ul")
