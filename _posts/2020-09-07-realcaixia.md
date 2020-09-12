@@ -131,3 +131,11 @@ Re <br><img src="https://pbs.twimg.com/media/EhpYMWjXYAAqKrT?format=jpg&name=ori
 
 Re @amandalan1107 读你的这两段文字，忍不住泪下。
 
+### 30: [2020-09-12 04:54:17+08:00 推文](https://twitter.com/realcaixia/status/1304523681822134276)
+
+这是VOA中文文字版节选了访谈的几个问题，算是这次访谈中的重点内容。有兴趣的朋友可以看看文字版。<br>“转型正义”我说到了，文字版发布了有关段落，但这四个字没有出现，有点缺憾。另外有一处，“权力”误写成了“权利”，这是同音字误用。<br><br><a href="https://www.voachinese.com/a/Exclusive-Interview-with-Cai-Xia-20200912/5580191.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/Exclusive-Interview-with-Cai-Xia-20200912/5580191.html</a>
+
+### 31: [2020-09-12 05:10:29+08:00 推文](https://twitter.com/realcaixia/status/1304527759838937095)
+
+Re @zhaoxin8964 还有印象呢😄。您好🤝
+
