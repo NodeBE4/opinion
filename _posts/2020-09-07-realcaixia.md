@@ -159,3 +159,7 @@ Re @zhaoxin8964 还有印象呢😄。您好🤝
 
 【任志强铮铮傲骨铁汉子】下面是开庭播报。<br>澄清一点，我不是任总朋友圈里人。2016年我声援任志强，任总根本不认识我。后来有朋友邀我参加一次10人聚餐，席间有任总，任才认识了我。此后，我与任总没有交往。我写文章只为表达看法，与是否好朋友毫无关系。 <br><img src="https://pbs.twimg.com/media/EhvYgvbWsAIXJTc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhvYgvgXsAAHlNP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhvYgveXgAEjKPC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EhvYgveXcAgTczt?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 37: [2020-09-13 04:32:14+08:00 推文](https://twitter.com/realcaixia/status/1304880520615079937)
+
+这篇推文好！ <br><br>韩连潮: 一位红二的反思：在苏俄尸身碎片上，为何没有类似红二代的概念?因为人家权力继承不带封建性。这是其在政治制度和社会领域先进于我的国之处。由此可知，许多放弃原有身份，翻出臀部钤记而寻找认同的人，具有某种逐权力蹭荣耀投机性质。当此风再次归零时，其将因再次失落而后悔!真的相信红色江山万年长？ <br><br><img src="https://pbs.twimg.com/media/EhunNgYXcAAhpYF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
