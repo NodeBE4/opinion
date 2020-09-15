@@ -676,6 +676,21 @@ footer {
   }
 }
 
+.fa-m:before {
+    font-family: Arial; /* your font family here! */
+    font-weight: bold;
+    content: 'M';
+}
+
+.thumb-post img {
+  object-fit: cover; 
+  object-position: top; 
+  width: 40px;
+  overflow: hidden;
+  height: 40px;
+  display: inline;
+}
+
 .help::after {
   font-size: 12px;
   display: none;
