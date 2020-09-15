@@ -340,8 +340,7 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  padding: 5px 0;
 
   @include mobile {
     text-align: center;
@@ -674,6 +673,21 @@ footer {
       left: 0;
     }
   }
+}
+
+.fa-m:before {
+    font-family: Arial; /* your font family here! */
+    font-weight: bold;
+    content: 'M';
+}
+
+.thumb-post img {
+  object-fit: cover; 
+  object-position: top; 
+  width: 40px;
+  overflow: hidden;
+  height: 40px;
+  display: inline;
 }
 
 .help::after {

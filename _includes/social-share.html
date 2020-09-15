@@ -7,6 +7,7 @@
   {% assign sharetitle = site.name | append: '-' | append: site.description %}
 {% endif %}
 <div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  {% include social-share-addon.html %}
     <a href="https://be4news.pythonanywhere.com/archivenow/ia/{{ shareurl | url_encode }}" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
     <a href="https://www.facebook.com/sharer.php?u={{ shareurl }}" class="ssk ssk-facebook"></a>
     <a href="https://twitter.com/intent/tweet?url={{ shareurl }}&text={{ sharetitle }}&hashtags={{ site.name }}" class="ssk ssk-twitter"></a>

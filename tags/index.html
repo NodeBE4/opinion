@@ -25,8 +25,9 @@ permalink: /tags/
       {{ tag[0] }}
     </h2>
     <ul class="tag">
+      {% assign counter = 0 %}
       {% for post in tag[1] %}
-        {% if post.title != null %}
+        {% if post.title != null and counter < 100 %}
           <li>
             {% if post.link %}
               <a href="{{ post.link }}">
@@ -37,6 +38,7 @@ permalink: /tags/
               </a>
               <time>{{ post.date | date: "%Y-%m-%d" }}</time>
           </li>
+          {% assign counter = counter | plus: 1 %}
         {% endif %}
       {% endfor %}
     </ul>
