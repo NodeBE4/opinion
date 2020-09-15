@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-14
+date: 2020-09-16
 from: https://twitter.com/realcaixia/status/1305314175338582016
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: '蔡霞 的 Twitter: 2020-09-14~2020-09-20'
 ### 2: [2020-09-14 09:18:29+08:00 推文](https://twitter.com/realcaixia/status/1305314947946229761)
 
 习共疯了！这样公然紧逼蒙古族民众，加速他自己的垮台崩溃。 <br><br>韩连潮: 紧急通知：<br>中共对蒙族的全民反抗行动进行全面镇压：限期三天必须送蒙族孩子到校，否则对当地基层官员问责审计审查；对校长老师评不合格，取消三年职称晋升；对学生家长用法律惩罚；对学生取消学籍；对孩子父母解除政府聘用；对牧民停止贷款；对低保户残疾人取消低保、停发残疾补贴。中共穷凶极恶了！ <br><br><img src="https://pbs.twimg.com/media/Eh1hLjHX0AABExa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh1hLjGXcAIaTQx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh1hLjFX0AI79Vq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh1hLjHWAAEuv95?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2020-09-15 21:23:18+08:00 推文](https://twitter.com/realcaixia/status/1305859740313018370)
+
+习共反人类摧残孩子邪恶至极！但凡做了父母的，谁能忍心令孩子因极度恐惧而这样嚎哭？！但凡有些人性的人，都会被孩子哭得揪心，为孩子痛心！把孩子父母还给孩子！习共极权统治不会长久的！所有奉命作恶的警察，请停止作恶，为你自己留条退路！ <br><br>新闻/真话: 不送孩子上学的牧民父母被公安局抓了，孩子在公安局大哭！😭<br>愿长生天保佑！共产党的罪恶罄竹难书！<br><br><br><video src="https://video.twimg.com/ext_tw_video/1305722338999070720/pu/vid/304x640/poGyngm5Onh4Gq_L.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1305722338999070720/pu/img/nYNfgTnyHd0EowF2.jpg" style="width: 100%"></video>
+
+### 4: [2020-09-16 04:12:57+08:00 推文](https://twitter.com/realcaixia/status/1305962831842508800)
+
+闫丽梦博士的推特被封杀，真是匪夷所思。推特管理层处理问题何以反差如此之大？一方面，尽管许多网友帮助我举报和揭露假冒我的流氓推，但推特管理层至今没有做出处置；而另一方面，对闫丽梦博士的推特却如此神速处置，这其中怎么不引人生疑？期待美国政府进行调查，以切实保护言论自由权利。 <br><br>韩连潮: 【封杀闫丽梦就是打压言论自由】闫博士发表的是一篇科学论文，有不同意见可以质疑反驳，而她在推特上还没有发个几个推就被封杀，这太匪夷所思了；推特如不澄清，美政府应当对这种打压言论自由的行为进行调查。社交媒体已成公共广场，必须要有公开透明的规则来规范公司行为，不能为所欲为！ <br><br><img src="https://pbs.twimg.com/media/Eh-pSIgXcAMPjAf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
