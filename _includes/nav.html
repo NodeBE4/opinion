@@ -23,12 +23,12 @@
         {% endif %}
         {% endfor %}
         <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
-        <a id="fa-home" href="{{ site.url }}" title="BE4服务列表" onclick="toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+        <a id="fa-home" href="{{ site.url }}" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
       </nav>
 
     </header>
-    <p id="help" style="font-size: 14px;display: none;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span></p>
-      <div id="site-list" class="tags" style="display: none;"></div>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span></p>
   </div>
 </div>
 
@@ -45,8 +45,8 @@
   const url = "https://nodebe4.github.io/sitelist.json"
 
   document.addEventListener("DOMContentLoaded", function(event){
-    var homebtn = document.getElementById("fa-home")
-    homebtn.removeAttribute("href")
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
     var content = document.getElementById("site-list");
     content.innerHTML = ''
     var ul = document.createElement("ul")
