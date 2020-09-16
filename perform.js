@@ -20,6 +20,7 @@ let feedxUrls = {
   '蔷蔷': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UC_Udz5R0NCgLTWbmn-QiWGA',
   '李肃Hi5': 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLmp6SED1O-uyPp8NoKmnHEsm3-BwOSyg1',
   '臺大演講網': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUSgvLn9EzRHS7yOJqXcJ68Q',
+  '共识沙龙': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUYHXsX3B3LXWnkl4iBsTzog',
 }
 
 async function fetchArticles(site) {
