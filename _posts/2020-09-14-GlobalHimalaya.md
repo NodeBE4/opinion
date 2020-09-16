@@ -3,7 +3,7 @@ author: GlobalHimalaya
 categories:
 - Twitter
 date: 2020-09-16
-from: https://twitter.com/GlobalHimalaya/status/1305290973182717952
+from: https://twitter.com/GlobalHimalaya/status/1305254240420388864
 layout: post
 tags:
 - Twitter
@@ -15,51 +15,63 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-14~2020-09-20'
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1: [2020-09-14 07:43:13+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305290973182717952)
+### 1: [2020-09-14 05:17:16+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305254240420388864)
+
+🔥🔥纳瓦罗首次在福克斯采访中直接说出：<br><br>中国共产党病毒！ <br>CHINESE COMMUNIST PARTY VIRUS!<br><br>他说，中共攻击了川普建起的史上最强劲的美国经济<br><br>#CCPVirus <br><video src="https://video.twimg.com/amplify_video/1305253375429103616/vid/960x540/Ir7-6GgbQbt9k4eW.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1305253375429103616/img/ID-kO9tTvc5WuuQc.jpg" style="width: 100%"></video>
+
+### 2: [2020-09-14 07:43:13+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305290973182717952)
 
 闫丽梦博士接受莱恩博士和川普私人律师朱利安尼采访！<br><br>闫博士再次表明新冠病毒是基于舟山蝙蝠改造的，科学报告下周发布，将证明病毒起源<br>朱利安尼说，闫博士讲话意味着，一旦论文发布，就能证明病毒是人工改造的<br><br>该采访后WABC网站发起了投票，截止目前为止，99.82%的人认为病毒来自于武汉实验室 <br><video src="https://video.twimg.com/amplify_video/1305289745421885440/vid/960x540/b4VJEr51H2ScmEvD.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1305289745421885440/img/BmFWjT-_JoZU3ywp.jpg" style="width: 100%"></video>
 
-### 2: [2020-09-14 08:04:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305296296211701761)
+### 3: [2020-09-14 08:04:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305296296211701761)
 
 采访完闫丽梦博士后，川普私人律师朱利安尼和莱恩博士讨论新冠病毒是中共生物武器，以及是中共蓄意袭击的可能性<br><br>莱恩博士说，千万不要低估中共的邪恶，他们是中国人民的敌人，也是美国人民的敌人<br>朱利安尼说，中共袭击了中国人民，也袭击了全世界<br><br>（第2部分） <br><video src="https://video.twimg.com/amplify_video/1305295518805843968/vid/960x540/I7QCr_UFm-vRSxVh.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1305295518805843968/img/NqfokbgswKDc0wwN.jpg" style="width: 100%"></video>
 
-### 3: [2020-09-14 23:32:32+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305529873566367746)
+### 4: [2020-09-14 23:32:32+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305529873566367746)
 
 #闫丽梦 博士发布科学报告，公布中共病毒是人造的证据<br><br>不出所料，第一个为报告背书的组织就是中共。在发布几分钟内，著名的学术分享网站Zenodo就被黑。如果病毒不是人造，为什么黑掉这个“虚假”的报告，不让人看呢？<br><br>所以说灭共最积极的就是以习总加速师为核心的中共，在这方面，它们从来没让人失望过 <a href="https://twitter.com/LiMengYAN119/status/1305500268214222848" target="_blank" rel="noopener noreferrer">https://twitter.com/LiMengYAN119/status/1305500268214222848</a>
 
-### 4: [2020-09-14 23:43:38+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305532669279629313)
+### 5: [2020-09-14 23:43:38+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305532669279629313)
 
 Re 说明：以上论述是基于以下假设：<br><br>1.论文无法下载是黑客攻击行为引起的<br>2.中共或其支持的组织或个人发起的这次攻击<br><br>喜站并未从工程上、技术上、情报上对以上假设给予验证，特此声明
 
-### 5: [2020-09-15 03:20:41+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305587292262731776)
+### 6: [2020-09-15 03:20:41+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305587292262731776)
 
 福克斯著名主持人玛丽亚 @MariaBartiromo 点赞了白宫贸易与制造业政策办公室主任纳瓦罗对闫博士报告的转推<br><br>有人质疑纳瓦罗的推号 @PeterNavarro45 是否是纳瓦罗本人。玛丽亚也被这个“假号”骗了吗？ <br><img src="https://pbs.twimg.com/media/Eh5fbEuVoAEye5D?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 6: [2020-09-15 03:22:02+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305587632697536512)
+### 7: [2020-09-15 03:22:02+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305587632697536512)
 
 Re 这是玛丽亚点赞的推，大家可以亲自验证<br><a href="https://twitter.com/MariaBartiromo/likes" target="_blank" rel="noopener noreferrer">https://twitter.com/MariaBartiromo/likes</a>
 
-### 7: [2020-09-15 10:28:12+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305694877418577921)
+### 8: [2020-09-15 10:28:12+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305694877418577921)
 
 #闫丽梦 博士关于冠状病毒起源的论文发布后，在12小时内，总浏览量和总下载量已经排到了著名的学术分享网站Zenodo历史上所有八十万篇论文的第3位， 不重复下载量（unique download）排在第2位。<br><br>对，您没看错，确实是所有八十万篇论文的第3位，而且仅用了12小时 <br><img src="https://pbs.twimg.com/media/Eh7B-JQUwAEk3fy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 8: [2020-09-15 18:03:19+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305809414960553984)
+### 9: [2020-09-15 18:03:19+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305809414960553984)
 
 福克斯著名主播卢道博最新时评：<br>中共是一群谎话连篇的杀人犯<br>他们从没改变过 <br><video src="https://video.twimg.com/amplify_video/1305808599067705344/vid/960x540/yMhqIX5PmBIrXu3J.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Eh8qse5UYAENkBj?format=jpg&name=orig" style="width: 100%"></video>
 
-### 9: [2020-09-15 18:57:25+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305823028719153152)
+### 10: [2020-09-15 18:57:25+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305823028719153152)
 
 对于美国驻中共国大使辞职，蓬佩奥最新福克斯采访说：<br>「他的团队将在他缺席的情况下继续前行」<br><br>这意味着至少在短期内，美国不会向中共国派遣继任大使 <br><video src="https://video.twimg.com/amplify_video/1305822706298880000/vid/960x540/9a3EjGTvrcHbiDoc.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Eh83CJjUYAEbPVQ?format=jpg&name=orig" style="width: 100%"></video>
 
-### 10: [2020-09-16 02:33:51+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305937893123219456)
+### 11: [2020-09-16 02:33:51+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305937893123219456)
 
 #闫丽梦 博士科学报告中文翻译(完整版) <br><br>报告的第一部分描述了SARS-CoV- 2的基因组和结构特征，这些特征的存在与该病毒是实验室改造的产物这一理论一致。报告的第二部分描述了SARS-CoV-2在实验室产生的极有可能的途径，其中的关键步骤得到了病毒基因组中证据的支持<br><br><a href="https://drive.google.com/file/d/1eL-T_CJnLxJZEbqOLygkzSxdau6-HAdj/view" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1eL-T_CJnLxJZEbqOLygkzSxdau6-HAdj/view</a>
 
-### 11: [2020-09-16 03:08:06+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305946514057867266)
+### 12: [2020-09-16 03:08:06+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305946514057867266)
 
 Re 英文原文：<br><br><br>中文翻译时间仓促，水平有限，尽请包涵<br>请专业人士不吝指教<a href="https://zenodo.org/record/4028830#.X2EQlpNKjYW" target="_blank" rel="noopener noreferrer">https://zenodo.org/record/4028830#.X2EQlpNKjYW</a>
 
-### 12: [2020-09-16 03:48:14+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305956614172672001)
+### 13: [2020-09-16 03:48:14+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305956614172672001)
 
 Re 说明：中文译本为喜马拉雅国际工作站翻译，未经专业人士审阅，未经作者授权。仅供参考。
+
+### 14: [2020-09-16 05:11:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1305977563735490560)
+
+在昨天黑客论文网站，强力背书闫博士的报告之后，中共和习总加速师可能觉得速度加的还不够快，为了不让大家失望，今天再度发力，直接封了闫博士的推特，以此向世人宣布：<br><br>1.闫博士说的都是真的，所以我们很怕她<br>2.大家快来关注闫博士，看看她为什么被封 <br><br>喜馬拉雅國際工作站: #闫丽梦 博士发布科学报告，公布中共病毒是人造的证据<br><br>不出所料，第一个为报告背书的组织就是中共。在发布几分钟内，著名的学术分享网站Zenodo就被黑。如果病毒不是人造，为什么黑掉这个“虚假”的报告，不让人看呢？<br><br>所以说灭共最积极的就是以习总加速师为核心的中共，在这方面，它们从来没让人失望过 <br><a href="https://twitter.com/LiMengYAN119/status/1305500268214222848" target="_blank" rel="noopener noreferrer">https://twitter.com/LiMengYAN119/status/1305500268214222848</a>
+
+### 15: [2020-09-16 07:39:19+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306014765165158400)
+
+🔥🔥🔥福克斯著名主持人卢道博解读 #闫丽梦 博士科学报告！<br><br>卢道博说，文章非常有说服力。所有看过论文的人得出的推断结论都是：病毒是武汉实验室制造的！<br><br>#LiMengYan @LouDobbs @LiMengYAN119 <br><video src="https://video.twimg.com/amplify_video/1306014180110036993/vid/960x540/F2x5OUN5DSe4o7eS.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1306014180110036993/img/l8zkW_I5qyCNZ3Cl.jpg" style="width: 100%"></video>
 

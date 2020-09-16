@@ -31,3 +31,19 @@ title: '蔡霞 的 Twitter: 2020-09-14~2020-09-20'
 
 闫丽梦博士的推特被封杀，真是匪夷所思。推特管理层处理问题何以反差如此之大？一方面，尽管许多网友帮助我举报和揭露假冒我的流氓推，但推特管理层至今没有做出处置；而另一方面，对闫丽梦博士的推特却如此神速处置，这其中怎么不引人生疑？期待美国政府进行调查，以切实保护言论自由权利。 <br><br>韩连潮: 【封杀闫丽梦就是打压言论自由】闫博士发表的是一篇科学论文，有不同意见可以质疑反驳，而她在推特上还没有发个几个推就被封杀，这太匪夷所思了；推特如不澄清，美政府应当对这种打压言论自由的行为进行调查。社交媒体已成公共广场，必须要有公开透明的规则来规范公司行为，不能为所欲为！ <br><br><img src="https://pbs.twimg.com/media/Eh-pSIgXcAMPjAf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2020-09-16 05:34:24+08:00 推文](https://twitter.com/realcaixia/status/1305983330186416128)
+
+【关于红二代】<br>许多网友关注我在VOA访谈里的“红二代”问题。对“红二”范围划分，我在此做一简要说明。1978年后“红二”分化很大。不少“红二”坚决反对极权专制，努力推进中国宪政民主。VOA在YouTube上发布访谈后，我的“红二”朋友们给我不少反馈，从他们给我的信息中，他们的思考之深，相信网友们可以看到。 <br><img src="https://pbs.twimg.com/media/Eh_I5umWsAUYiNa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_I5uiXgAAvsV7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_I5ukXgAAl6vV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_I5ujXsAAxl6H?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2020-09-16 08:21:45+08:00 推文](https://twitter.com/realcaixia/status/1306025445159251970)
+
+【中国唯一对911事件充满人道主义关怀的报道】<br>看到好朋友李大同的一篇回忆文章，转发过来。李大同2018年公开反对修宪，从此家门口就被警察“站岗”了。 <br><img src="https://pbs.twimg.com/media/Eh_vNbRWkAcVu6p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_vNd1XYAEbPYR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_vNd1XcAE7t1C?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_vNd2XYAErnfE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2020-09-16 08:34:50+08:00 推文](https://twitter.com/realcaixia/status/1306028738719748097)
+
+【国际民主日】中国争取实现宪政民主，需要我们每一个中华儿女坚韧不拔的努力。 <br><img src="https://pbs.twimg.com/media/Eh_yNamXYAErWLs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eh_yNaoXgAEpqfx?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2020-09-16 11:09:28+08:00 推文](https://twitter.com/realcaixia/status/1306067651177992192)
+
+这类闹剧都是当地官员演给上级看的，表示他们站队正确，政治忠诚。另一方面，也表明他们黔驴技穷。 <br><br>何頻: 余茂春“族籍”被开除！这个虚幻的称号，显示不了实力，只有荒唐。那只是失去血性，更加无理性的义和团精神。这是精神病 ｜晓天下（晓鹏）（20200915） <br><a href="https://youtu.be/VTsYXI9vJ8U" target="_blank" rel="noopener noreferrer">https://youtu.be/VTsYXI9vJ8U</a>
+
