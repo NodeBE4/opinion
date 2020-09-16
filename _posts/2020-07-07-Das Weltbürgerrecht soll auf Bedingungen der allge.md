@@ -2,10 +2,10 @@
 layout: post
 title: "Das Weltbürgerrecht soll auf Bedingungen der allgemeinen Hospitalität eingeschränkt sein.近期美国收紧留学签证政策，英国扩大对持 BN(O) 香港人定居和"
 date: 2020-07-07T10:00:48.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/364
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1594116048000-->
 [Das Weltbürgerrecht soll auf Bedingungen der allgemeinen Hospitalität eingeschränkt sein.近期美国收紧留学签证政策，英国扩大对持 BN(O) 香港人定居和...](https://t.me/thesoc/364)

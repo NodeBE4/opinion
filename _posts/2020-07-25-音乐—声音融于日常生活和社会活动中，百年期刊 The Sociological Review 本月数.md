@@ -2,10 +2,10 @@
 layout: post
 title: "音乐—声音融于日常生活和社会活动中，百年期刊 The Sociological Review 本月数字主题是音乐与声音（Music and Sound），回顾数据库中往期刊载的相关主题论文，"
 date: 2020-07-25T07:44:11.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/370
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1595663051000-->
 [音乐—声音融于日常生活和社会活动中，百年期刊 The Sociological Review 本月数字主题是音乐与声音（Music and Sound），回顾数据库中往期刊载的相关主题论文，...](https://t.me/thesoc/370)

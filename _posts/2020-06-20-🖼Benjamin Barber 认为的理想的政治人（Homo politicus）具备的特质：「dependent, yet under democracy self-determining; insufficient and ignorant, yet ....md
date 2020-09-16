@@ -2,10 +2,10 @@
 layout: post
 title: "🖼Benjamin Barber 认为的理想的政治人（Homo politicus）具备的特质：「dependent, yet under democracy self-determining; insufficient and ignorant, yet ..."
 date: 2020-06-20T17:07:15.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/353
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1592672835000-->
 [🖼Benjamin Barber 认为的理想的政治人（Homo politicus）具备的特质：「dependent, yet under democracy self-determining; insufficient and ignorant, yet ...](https://t.me/thesoc/353)

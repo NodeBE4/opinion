@@ -2,10 +2,10 @@
 layout: post
 title: "张跃然在豆瓣分享了 UC Berkeley 社会学博士资格考他选择的三个领域的书单，Part 1：政治社会学（备份），Part 2：发展社会学（备份），Part 3：政治经济学（备"
 date: 2020-08-12T07:53:20.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/376
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1597218800000-->
 [张跃然在豆瓣分享了 UC Berkeley 社会学博士资格考他选择的三个领域的书单，Part 1：政治社会学（备份），Part 2：发展社会学（备份），Part 3：政治经济学（备...](https://t.me/thesoc/376)

@@ -2,10 +2,10 @@
 layout: post
 title: "# My Sociological PlaylistKeywords: protest, social movement, anti-establishment ## UK- The Beatles - Revolution (1968)- The Specials - Ghost Town (19"
 date: 2020-07-27T06:14:07.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/371
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1595830447000-->
 [# My Sociological PlaylistKeywords: protest, social movement, anti-establishment ## UK- The Beatles - Revolution (1968)- The Specials - Ghost Town (19...](https://t.me/thesoc/371)

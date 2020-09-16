@@ -2,10 +2,10 @@
 layout: post
 title: "BJS 最新一期 v71i3 是测试社会学（sociology of testing ）的特刊。测试，现代社会中无处不在。作为揭示一个实体未知属性或能力的尝试，测试已不限于工程、科学"
 date: 2020-07-09T06:57:25.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/365
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1594277845000-->
 [BJS 最新一期 v71i3 是测试社会学（sociology of testing ）的特刊。测试，现代社会中无处不在。作为揭示一个实体未知属性或能力的尝试，测试已不限于工程、科学...](https://t.me/thesoc/365)

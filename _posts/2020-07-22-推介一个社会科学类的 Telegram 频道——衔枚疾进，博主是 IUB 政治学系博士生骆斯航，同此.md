@@ -2,10 +2,10 @@
 layout: post
 title: "推介一个社会科学类的 Telegram 频道——衔枚疾进，博主是 IUB 政治学系博士生骆斯航，同此前推荐的万有引力之虫 相似，都是以美国近期社会运动的讨论于观察为契"
 date: 2020-07-22T15:12:10.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/367
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1595430730000-->
 [推介一个社会科学类的 Telegram 频道——衔枚疾进，博主是 IUB 政治学系博士生骆斯航，同此前推荐的万有引力之虫 相似，都是以美国近期社会运动的讨论于观察为契...](https://t.me/thesoc/367)

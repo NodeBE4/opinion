@@ -2,10 +2,10 @@
 layout: post
 title: "常收听的播客之一，卫报的 Audio Long Reads 今天新的一集从各角度详述了香港去年六月以来的抗议活动（文字稿），包括二战之后的经济发展，英国「liberty withou"
 date: 2020-06-29T14:40:54.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/357
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1593441654000-->
 [常收听的播客之一，卫报的 Audio Long Reads 今天新的一集从各角度详述了香港去年六月以来的抗议活动（文字稿），包括二战之后的经济发展，英国「liberty withou...](https://t.me/thesoc/357)

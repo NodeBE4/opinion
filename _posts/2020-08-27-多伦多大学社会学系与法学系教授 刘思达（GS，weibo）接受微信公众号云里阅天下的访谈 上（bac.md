@@ -2,10 +2,10 @@
 layout: post
 title: "多伦多大学社会学系与法学系教授 刘思达（GS，weibo）接受微信公众号云里阅天下的访谈 上（backup）、下（backup）。其中谈到他自身的学术之路，田野调查的技术"
 date: 2020-08-27T15:52:21.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/378
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1598543541000-->
 [多伦多大学社会学系与法学系教授 刘思达（GS，weibo）接受微信公众号云里阅天下的访谈 上（backup）、下（backup）。其中谈到他自身的学术之路，田野调查的技术...](https://t.me/thesoc/378)

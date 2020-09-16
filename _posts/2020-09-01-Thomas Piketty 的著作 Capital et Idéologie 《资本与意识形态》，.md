@@ -2,10 +2,10 @@
 layout: post
 title: "Thomas Piketty 的著作 Capital et Idéologie 《资本与意识形态》，在引入中国的过程中收到审查删节的要求，但 Piketty 拒绝删除其中对中国的后共产主义社会贫"
 date: 2020-09-01T03:38:02.000Z
-author: The Sociologist TG
+author: The Sociologist
 from: https://t.me/thesoc/379
-tags: [ The Sociologist TG ]
-categories: [ The Sociologist TG ]
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
 ---
 <!--1598931482000-->
 [Thomas Piketty 的著作 Capital et Idéologie 《资本与意识形态》，在引入中国的过程中收到审查删节的要求，但 Piketty 拒绝删除其中对中国的后共产主义社会贫...](https://t.me/thesoc/379)
