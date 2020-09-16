@@ -4,31 +4,17 @@ let querystring = require('querystring')
 let urlMod = require('url')
 let URL = urlMod.URL
 
-let feedxUrls = {
-  '火光': 'https://2049post.wordpress.com/feed/',
-  '萬有引力之蟲': 'http://gravitysworm.tumblr.com/rss',
-  '编程随想的博客': 'https://feeds2.feedburner.com/programthink?format=xml',
-  '透視中國-YouTube': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUGekZ_Ig4dP3NDcJCdOK6aA',
-  '野兽爱智慧': 'https://rsshub.app/matters/author/philosophia1979',
-  'The Sociologist': 'https://sociologist.xyz/feed.xml',
-  'The Sociologist TG': 'https://rsshub.app/telegram/channel/thesoc',
-  '衔枚疾进': 'https://rsshub.app/telegram/channel/silentmarching',
-  '政見': 'http://cnpolitics.org/feed/',
-  '中國戰略分析': 'http://zhanlve.org/?feed=rss2',
-  'Stratechery': 'https://stratechery.com/feed/',
-  'NGOCN': 'https://rsshub.app/matters/author/ngocncat',
-  '蔷蔷': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UC_Udz5R0NCgLTWbmn-QiWGA',
-  '李肃Hi5': 'https://www.youtube.com/feeds/videos.xml?playlist_id=PLmp6SED1O-uyPp8NoKmnHEsm3-BwOSyg1',
-  '臺大演講網': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUSgvLn9EzRHS7yOJqXcJ68Q',
-  '共识沙龙': 'http://www.youtube.com/feeds/videos.xml?playlist_id=UUYHXsX3B3LXWnkl4iBsTzog',
-  '共识沙龙2': 'https://www.youtube.com/feeds/videos.xml?playlist_id=UU7edaZCmZEB1oynZJgDXO5Q',
-}
+
+let jsonText = fs.readFileSync('./subs.json');
+let feedxUrls = JSON.parse(jsonText);
+let content = JSON.stringify(feedxUrls, undefined, 4);
+fs.writeFileSync(`./subs.json`, content)
 
 async function fetchArticles(site) {
 
   let articles
-  if (feedxUrls[site]) {
-    articles = await fetchFeedx(site, feedxUrls[site])
+  if (site['url']) {
+    articles = await fetchFeedx(site['site'], site['url'])
 //  } else if (site == '中国数字时代') {
 //    articles = await fetchCDT()
   }
@@ -115,7 +101,8 @@ async function performCDT() {
 }
 
 async function perform() {
-  let sites = Object.keys(feedxUrls)
+  // let sites = Object.keys(feedxUrls)
+  let sites = feedxUrls
 
   sites.map(site => {
     performSite(site)
@@ -140,7 +127,7 @@ async function performSite(site) {
 
     // generateList(site)
   } catch(e) {
-    console.log([site, e])
+    console.log([site['site'], e])
   }
 }
 
