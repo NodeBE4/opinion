@@ -75,3 +75,19 @@ Re 说明：中文译本为喜马拉雅国际工作站翻译，未经专业人�
 
 🔥🔥🔥福克斯著名主持人卢道博解读 #闫丽梦 博士科学报告！<br><br>卢道博说，文章非常有说服力。所有看过论文的人得出的推断结论都是：病毒是武汉实验室制造的！<br><br>#LiMengYan @LouDobbs @LiMengYAN119 <br><video src="https://video.twimg.com/amplify_video/1306014180110036993/vid/960x540/F2x5OUN5DSe4o7eS.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1306014180110036993/img/l8zkW_I5qyCNZ3Cl.jpg" style="width: 100%"></video>
 
+### 16: [2020-09-16 17:52:08+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306168986464186368)
+
+班农：<br>如果 #闫丽梦 报告里的证据成立，<br>如果这是源于生物武器，<br>那么这毫无疑问是战争行为，是对人类的种族灭绝。<br><br>中共在热战各方面根本不是美国对手。<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1306168143677513728/vid/960x540/7Y6FI2FsUYWW8IUF.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiBxWq_U0AE35i6?format=jpg&name=orig" style="width: 100%"></video>
+
+### 17: [2020-09-16 18:40:17+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306181102168494082)
+
+#闫丽梦 博士接受全美新闻节目收视率第一的福克斯主持人塔克卡森@TuckerCarlson采访。闫博士说：<br>1.科学证据证明病毒是实验室制造<br>2.中共故意释放病毒<br>3.科学界被中共噤声<br>4.中共为什么蓄意制造病毒？要去问中共<br><br>（第1部分）<br><br>#LiMengYan <br><video src="https://video.twimg.com/amplify_video/1306179918066151424/vid/960x540/RhPM7Lte7keDl0DI.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiB8bnuUMAA9SAz?format=jpg&name=orig" style="width: 100%"></video>
+
+### 18: [2020-09-16 19:18:10+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306190636475756545)
+
+Re （第2部分）<br>#闫丽梦 博士接受全美新闻节目收视率第一的福克斯主持人塔克卡森@TuckerCarlson采访。闫博士说：<br>1.科学证据证明病毒是实验室制造<br>2.中共故意释放病毒<br>3.科学界被中共噤声<br>4.中共为什么蓄意制造病毒？要去问中共 <br><video src="https://video.twimg.com/ext_tw_video/1306190563037724672/pu/vid/960x540/y6I5sl_8rBoq8JUA.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/media/EiCFyn8UcAAi-FP?format=jpg&name=orig" style="width: 100%"></video>
+
+### 19: [2020-09-16 20:07:35+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306203074466164736)
+
+Re （第3部分）<br>#闫丽梦 博士接受全美新闻节目收视率第一的福克斯主持人塔克卡森@TuckerCarlson采访。闫博士说：<br>1.科学证据证明病毒是实验室制造<br>2.中共故意释放病毒<br>3.科学界被中共噤声<br>4.中共为什么蓄意制造病毒？要去问中共<br><br>#LiMengYan <br><video src="https://video.twimg.com/ext_tw_video/1306203033542352896/pu/vid/960x540/l-OWpI8__dzjBPhg.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1306203033542352896/pu/img/V7pxhmxaht6XUPm5.jpg" style="width: 100%"></video>
+
