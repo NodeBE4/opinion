@@ -15,8 +15,8 @@ async function fetchArticles(site) {
   let articles
   if (site['url']) {
     articles = await fetchFeedx(site['site'], site['url'])
-//  } else if (site == '中国数字时代') {
-//    articles = await fetchCDT()
+  } else if (site == '中国数字时代') {
+    articles = await fetchCDT()
   }
 
   articles.sort((x, y) => x.pubDate - y.pubDate)
@@ -116,8 +116,6 @@ async function performSite(site) {
     // let siteFolder = `./news/${site}/_posts`
     let siteFolder = `./_posts`
     fs.mkdirSync(siteFolder, { recursive: true })
-
-    let files = fs.readdirSync(siteFolder)
 
     let articles = await fetchArticles(site)
 
