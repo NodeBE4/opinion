@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-16
+date: 2020-09-17
 from: https://twitter.com/GlobalHimalaya/status/1305254240420388864
 layout: post
 tags:
@@ -90,4 +90,8 @@ Re （第2部分）<br>#闫丽梦 博士接受全美新闻节目收视率第一�
 ### 19: [2020-09-16 20:07:35+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306203074466164736)
 
 Re （第3部分）<br>#闫丽梦 博士接受全美新闻节目收视率第一的福克斯主持人塔克卡森@TuckerCarlson采访。闫博士说：<br>1.科学证据证明病毒是实验室制造<br>2.中共故意释放病毒<br>3.科学界被中共噤声<br>4.中共为什么蓄意制造病毒？要去问中共<br><br>#LiMengYan <br><video src="https://video.twimg.com/ext_tw_video/1306203033542352896/pu/vid/960x540/l-OWpI8__dzjBPhg.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1306203033542352896/pu/img/V7pxhmxaht6XUPm5.jpg" style="width: 100%"></video>
+
+### 20: [2020-09-17 00:57:11+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306275953597755392)
+
+Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/EiDTAmEU8AU7ENc?format=jpg&name=orig" referrerpolicy="no-referrer">
 

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-16
+date: 2020-09-17
 from: https://twitter.com/realcaixia/status/1305314175338582016
 layout: post
 tags:
@@ -66,4 +66,20 @@ title: '蔡霞 的 Twitter: 2020-09-14~2020-09-20'
 ### 13: [2020-09-16 22:57:39+08:00 推文](https://twitter.com/realcaixia/status/1306245873333145601)
 
 Re @ZhangDong_SCH 这是上面德文的中文版。 <br><img src="https://pbs.twimg.com/media/EiC3sqeWoAEA98W?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-09-17 01:10:19+08:00 推文](https://twitter.com/realcaixia/status/1306279258080325632)
+
+Re @ZhangDong_SCH 这是对德文的中文意译。 <br><img src="https://pbs.twimg.com/media/EiDWD61WAAYbMXF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2020-09-17 01:43:22+08:00 推文](https://twitter.com/realcaixia/status/1306287576295321600)
+
+【大時代華人】一根「牙籤」背後的愛情 <a href="https://www.epochtimes.com/gb/20/9/12/n12397963.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/20/9/12/n12397963.htm</a>
+
+### 16: [2020-09-17 01:48:19+08:00 推文](https://twitter.com/realcaixia/status/1306288823526199297)
+
+Re 我在北京的一次聚会上认识了张宝成夫妇，当时不知道他们俩生活如此的坎坷艰难，今日偶然读到这篇文章，深为感动，特转发于此。
+
+### 17: [2020-09-17 04:08:58+08:00 推文](https://twitter.com/realcaixia/status/1306324216401321989)
+
+这篇评论极其精彩！评论直指习最恐惧的事：揭露中共新冠病毒究竟来源于何处？中共新冠病毒疫情究竟害死多少中国人？文章结尾指出：“世界将近140个国家就中共病毒向中共追责，要求赔偿，并要求独立追查病毒来源，也正是习政权的要害。一旦靴子落下，中国和世界都会变样。”<br><br><a href="https://hk.appledaily.com/local/20200917/SUHDHB73FRBIZHJ52ZUZYTDZKY/?utm_source=twitter&utm_medium=social&utm_campaign=hkad_article_share&utm_content=share_link" target="_blank" rel="noopener noreferrer">https://hk.appledaily.com/local/20200917/SUHDHB73FRBIZHJ52ZUZYTDZKY/?utm_source=twitter&utm_medium=social&utm_campaign=hkad_article_share&utm_content=share_link</a>
 
