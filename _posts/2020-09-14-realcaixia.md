@@ -47,3 +47,23 @@ title: '蔡霞 的 Twitter: 2020-09-14~2020-09-20'
 
 这类闹剧都是当地官员演给上级看的，表示他们站队正确，政治忠诚。另一方面，也表明他们黔驴技穷。 <br><br>何頻: 余茂春“族籍”被开除！这个虚幻的称号，显示不了实力，只有荒唐。那只是失去血性，更加无理性的义和团精神。这是精神病 ｜晓天下（晓鹏）（20200915） <br><a href="https://youtu.be/VTsYXI9vJ8U" target="_blank" rel="noopener noreferrer">https://youtu.be/VTsYXI9vJ8U</a>
 
+### 9: [2020-09-16 21:14:58+08:00 推文](https://twitter.com/realcaixia/status/1306220033127911425)
+
+【中国名校破败源于政治强奸教育】转发中国山东大学教授文章，这个百年名校败倒于权力意志的卑劣龌龊。 <br><img src="https://pbs.twimg.com/media/EiCgL4MWkAIOH_r?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiCgL4UXsAsqwXB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiCgL4SXsAEOZ7O?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiCgL51WoAEQupn?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2020-09-16 22:16:05+08:00 推文](https://twitter.com/realcaixia/status/1306235412139180032)
+
+【律师会见耿潇男警方设阻】耿潇男侠女热心公益，曾努力帮助遭极权迫害的政治异见者，而今她也遭极权毒手。一切正直善良的网友们，我们关注耿潇男夫妇，就是关注我们自己的亲友和中国所有平民百姓的命运！呼吁警方执行人员听从良知召唤，请“枪口抬高一寸”。 <br><img src="https://pbs.twimg.com/media/EiCuLTYXsAAymQq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiCuLTXWAAA8uDH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-09-16 22:46:13+08:00 推文](https://twitter.com/realcaixia/status/1306242993159131139)
+
+完全同意此推文。 <br><br>郭于华: 有关部门，<br>你们为此刑拘潇男夫妇，你们违法！<br>你们不按规定通知家人、让耄耋之人四处寻人，你们违法！<br>你们不承认当事人签约的律师，你们违法！<br>你们百般阻挠律师会见当事人，你们违法！<br>你们在约定会见时间以“刑警提审”不让会见，你们违法！<br>你们是为违法而存在的吗？<br>
+
+### 12: [2020-09-16 22:54:42+08:00 推文](https://twitter.com/realcaixia/status/1306245129003569156)
+
+精致的极权统治，一方面用高科技精准监控民众；另一方面用高科技建信息阻隔之墙，把真实情况隔绝于墙外，而在墙内大肆谎言欺骗。任志强曾公开呼吁墙内外的朋友们合力推墙。 <br><br>郭于华: 不是技术封建主义，而是大数据极权主义 <br><a href="https://twitter.com/wuzuolai/status/1305898365134106624" target="_blank" rel="noopener noreferrer">https://twitter.com/wuzuolai/status/1305898365134106624</a>
+
+### 13: [2020-09-16 22:57:39+08:00 推文](https://twitter.com/realcaixia/status/1306245873333145601)
+
+Re @ZhangDong_SCH 这是上面德文的中文版。 <br><img src="https://pbs.twimg.com/media/EiC3sqeWoAEA98W?format=jpg&name=orig" referrerpolicy="no-referrer">
+
