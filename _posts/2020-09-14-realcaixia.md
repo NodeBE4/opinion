@@ -83,3 +83,11 @@ Re 我在北京的一次聚会上认识了张宝成夫妇，当时不知道他�
 
 这篇评论极其精彩！评论直指习最恐惧的事：揭露中共新冠病毒究竟来源于何处？中共新冠病毒疫情究竟害死多少中国人？文章结尾指出：“世界将近140个国家就中共病毒向中共追责，要求赔偿，并要求独立追查病毒来源，也正是习政权的要害。一旦靴子落下，中国和世界都会变样。”<br><br><a href="https://hk.appledaily.com/local/20200917/SUHDHB73FRBIZHJ52ZUZYTDZKY/?utm_source=twitter&utm_medium=social&utm_campaign=hkad_article_share&utm_content=share_link" target="_blank" rel="noopener noreferrer">https://hk.appledaily.com/local/20200917/SUHDHB73FRBIZHJ52ZUZYTDZKY/?utm_source=twitter&utm_medium=social&utm_campaign=hkad_article_share&utm_content=share_link</a>
 
+### 18: [2020-09-17 10:54:26+08:00 推文](https://twitter.com/realcaixia/status/1306426255567396864)
+
+【习共加紧控制民营企业】所谓加强民营经济统战工作，实质加紧控制民营经济。习共以“参与混合所有制改革开放”为名，再次抢夺民企资产，要求民企参与“一带一路”建设；习共以统战为名直接进行政治控制，居然要民营企业家增强“四个意识”做到“两个维护”，在民企坚持党管人才，建全选人机制，积极发展党员。 <br><img src="https://pbs.twimg.com/media/EiFbv0XX0AAed0Q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFbv0aX0AE-2uD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFbv0ZXcAIaTOV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFbv0bXsAMZfI1?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2020-09-17 11:28:31+08:00 推文](https://twitter.com/realcaixia/status/1306434835582509057)
+
+【中共事实上已经死亡，现在只剩僵尸骷髅】 <br><img src="https://pbs.twimg.com/media/EiFjjiAX0AAqHwb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFjjh_WsAA467b?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFjjiAX0AMGh2a?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFjjiLXcAIGHZH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
