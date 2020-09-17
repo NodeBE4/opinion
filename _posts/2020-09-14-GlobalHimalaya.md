@@ -95,3 +95,7 @@ Re （第3部分）<br>#闫丽梦 博士接受全美新闻节目收视率第一�
 
 Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/EiDTAmEU8AU7ENc?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 21: [2020-09-17 08:08:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306384493779890177)
+
+美司法部宣布对中国网络入侵活动的起诉书，5人侵入全球100多家公司，2名马来西亚人也参与其中<br><br>司法部副部长罗森说：理想状况下，我们应该感谢中国政府的合作，但是中共却选择不合作，为什么呢？因为这些犯罪分子就是为中共工作的<br><br>评：对中共的RICO法案开始了？ <br><video src="https://video.twimg.com/amplify_video/1306383105813405696/vid/960x540/slQLpAfo2JcM7R9g.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1306383105813405696/img/1Oxr0qq_u1yB_BHx.jpg" style="width: 100%"></video>
+
