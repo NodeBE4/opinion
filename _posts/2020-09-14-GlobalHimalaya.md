@@ -99,3 +99,15 @@ Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/E
 
 美司法部宣布对中国网络入侵活动的起诉书，5人侵入全球100多家公司，2名马来西亚人也参与其中<br><br>司法部副部长罗森说：理想状况下，我们应该感谢中国政府的合作，但是中共却选择不合作，为什么呢？因为这些犯罪分子就是为中共工作的<br><br>评：对中共的RICO法案开始了？ <br><video src="https://video.twimg.com/amplify_video/1306383105813405696/vid/960x540/slQLpAfo2JcM7R9g.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1306383105813405696/img/1Oxr0qq_u1yB_BHx.jpg" style="width: 100%"></video>
 
+### 22: [2020-09-17 17:43:10+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306529117974618114)
+
+蓬佩奥与英国外相会晤后讲话，明确说：病毒是中共允许从武汉出来的（allowed out of Wuhan)<br><br>他还说，中共不仅是全世界面对的挑战，也是中国人民面对的挑战。<br>美国和英国永远站在一起，为自由而战！<br><br>他紧接着谈到俄罗斯化学武器事件。<br>他说，任何时候、任何情况下、任何人都不能使用化学武器。 <br><video src="https://video.twimg.com/amplify_video/1306528718114836482/vid/960x540/bgVkKuInho7_cZtq.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiG5DW0UcAI0Qei?format=jpg&name=orig" style="width: 100%"></video>
+
+### 23: [2020-09-17 18:44:08+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306544461866913793)
+
+参议员霍利接受 @TuckerCarlson 采访，表示正在致力于修改相关法律，削弱巨型科技公司的权力。<br><br>这样，#闫丽梦 博士 、被这些言论平台打压的每一个人，就可以依法提告。 <br><video src="https://video.twimg.com/amplify_video/1306543071715160065/vid/960x540/gIrWxRnX9qmQjEAe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiHGdN0VoAE5W2H?format=jpg&name=orig" style="width: 100%"></video>
+
+### 24: [2020-09-17 19:20:34+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306553630955196416)
+
+参议员布莱克本 @MarshaBlackburn 为被脸书屏蔽的福克斯主播塔克卡森、与被推特封号的 #闫丽梦 博士发声。<br><br>她在她发布的推文里写到：何时科技公司停止保护中共？<br>还在视频里对推特喊话：推特，恢复闫博士的账号！ <br><video src="https://video.twimg.com/amplify_video/1306550855592677376/vid/960x540/ueoGCLcbw0OlooIw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiHPh9qUwAMEwu6?format=jpg&name=orig" style="width: 100%"></video>
+
