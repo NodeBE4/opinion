@@ -111,3 +111,7 @@ Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/E
 
 参议员布莱克本 @MarshaBlackburn 为被脸书屏蔽的福克斯主播塔克卡森、与被推特封号的 #闫丽梦 博士发声。<br><br>她在她发布的推文里写到：何时科技公司停止保护中共？<br>还在视频里对推特喊话：推特，恢复闫博士的账号！ <br><video src="https://video.twimg.com/amplify_video/1306550855592677376/vid/960x540/ueoGCLcbw0OlooIw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiHPh9qUwAMEwu6?format=jpg&name=orig" style="width: 100%"></video>
 
+### 25: [2020-09-17 23:59:03+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306623711286423552)
+
+发布不到三天，#闫丽梦 博士与合作者的论文已成为Zenodo所有158万条目中(包括论文，书籍，数据集，视频，图片等)，浏览总数第一,下载总数第一<br><br>其实如果闫博士这篇论文成为人类历史上阅读下载量最多的两篇学术论文之一 (另一篇她还未发布)，也并不应该感到奇怪<br><br>这就是民意<br>因为只要是人, 都想好好活着 <br><img src="https://pbs.twimg.com/media/EiIOqndUYAAVNwn?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiIPDHaUYAElUg_?format=jpg&name=orig" referrerpolicy="no-referrer">
+

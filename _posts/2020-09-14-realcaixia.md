@@ -91,3 +91,11 @@ Re 我在北京的一次聚会上认识了张宝成夫妇，当时不知道他�
 
 【中共事实上已经死亡，现在只剩僵尸骷髅】 <br><img src="https://pbs.twimg.com/media/EiFjjiAX0AAqHwb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFjjh_WsAA467b?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFjjiAX0AMGh2a?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiFjjiLXcAIGHZH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 20: [2020-09-17 22:33:42+08:00 推文](https://twitter.com/realcaixia/status/1306602234365571072)
+
+习共极权统治下，法律是强权意志手里的玩物，警察治国是基本特征。纽约大学法学院退休教授孔杰荣先生专门撰文，指出中国法律捉摸不定，普遍谴责中国不公平的惩罚制度，可能（对被极权迫害的受惩罚者）是唯一可信的辩护。耿潇男律师贴出警察局通知，警察要继续关押耿潇男！迫害耿潇男是想恐吓一大片。 <br><img src="https://pbs.twimg.com/media/EiH7zAdXcAAia6R?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiH7zAdXcAEE4fQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiH7zAgXYAE67RU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2020-09-17 22:38:53+08:00 推文](https://twitter.com/realcaixia/status/1306603535451250689)
+
+凡政治反对者突然失踪，人们的第一反应就是很可能被警察抓走了。警察凶恶到所谓执法不需要书面程序手续，想怎么抓就怎么抓。我们会持续关注王峭岭消息。 <br><img src="https://pbs.twimg.com/media/EiH8_C2WkAEy5N7?format=jpg&name=orig" referrerpolicy="no-referrer">
+
