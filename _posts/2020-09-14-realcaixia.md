@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-17
+date: 2020-09-18
 from: https://twitter.com/realcaixia/status/1305314175338582016
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re 我在北京的一次聚会上认识了张宝成夫妇，当时不知道他�
 ### 21: [2020-09-17 22:38:53+08:00 推文](https://twitter.com/realcaixia/status/1306603535451250689)
 
 凡政治反对者突然失踪，人们的第一反应就是很可能被警察抓走了。警察凶恶到所谓执法不需要书面程序手续，想怎么抓就怎么抓。我们会持续关注王峭岭消息。 <br><img src="https://pbs.twimg.com/media/EiH8_C2WkAEy5N7?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 22: [2020-09-18 10:29:10+08:00 推文](https://twitter.com/realcaixia/status/1306782286428409861)
+
+【王峭岭被“劫持”数小时  劫持作案者——北京警察】 <br><img src="https://pbs.twimg.com/media/EiKfjSWWoAIzghR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
