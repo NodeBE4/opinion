@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-17
+date: 2020-09-18
 from: https://twitter.com/GlobalHimalaya/status/1305254240420388864
 layout: post
 tags:
@@ -114,4 +114,8 @@ Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/E
 ### 25: [2020-09-17 23:59:03+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306623711286423552)
 
 发布不到三天，#闫丽梦 博士与合作者的论文已成为Zenodo所有158万条目中(包括论文，书籍，数据集，视频，图片等)，浏览总数第一,下载总数第一<br><br>其实如果闫博士这篇论文成为人类历史上阅读下载量最多的两篇学术论文之一 (另一篇她还未发布)，也并不应该感到奇怪<br><br>这就是民意<br>因为只要是人, 都想好好活着 <br><img src="https://pbs.twimg.com/media/EiIOqndUYAAVNwn?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiIPDHaUYAElUg_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 26: [2020-09-18 17:56:03+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306894749547204614)
+
+班农接受福克斯主播塔克卡尔森采访说：<br><br>#闫丽梦 博士是生物武器实验室的证人！<br>推特封了她的账号，脸书禁了塔克采访她的视频<br>但推特和脸书却对中共走狗水军抹黑闫博士视而不见 <br><video src="https://video.twimg.com/amplify_video/1306894062490808324/vid/960x540/I_g5I3GJ8qfJ3Miu.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiMFzKMUMAAEjZv?format=jpg&name=orig" style="width: 100%"></video>
 
