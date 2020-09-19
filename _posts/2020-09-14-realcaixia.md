@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-18
+date: 2020-09-19
 from: https://twitter.com/realcaixia/status/1305314175338582016
 layout: post
 tags:
@@ -102,4 +102,8 @@ Re 我在北京的一次聚会上认识了张宝成夫妇，当时不知道他�
 ### 22: [2020-09-18 10:29:10+08:00 推文](https://twitter.com/realcaixia/status/1306782286428409861)
 
 【王峭岭被“劫持”数小时  劫持作案者——北京警察】 <br><img src="https://pbs.twimg.com/media/EiKfjSWWoAIzghR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2020-09-19 11:09:00+08:00 推文](https://twitter.com/realcaixia/status/1307154700173705218)
+
+这是我的一个访谈。 <br><br>自由亚洲电台: 【RFA独家：#蔡霞  近期首次出镜接受视频采访】<br><br>蔡霞（上）：中国社会:从威权时代到精致新极权时代|#观点<br>前中央党校教授蔡霞所指“变革”，是否会让中共改头换面存活？部分 “红二代”反习背后，是否代表被习打压的政治势力？中国社会如何才能实现和平政治转型？ #任志强 #许章润 <br><br><video src="https://video.twimg.com/ext_tw_video/1307092026190594052/pu/vid/720x658/ysqtwicDSDIZ72oD.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1307092026190594052/pu/img/pHahj-Gz0piujDih.jpg" style="width: 100%"></video><a href="https://youtu.be/p6DcXSAlJq0" target="_blank" rel="noopener noreferrer">https://youtu.be/p6DcXSAlJq0</a>
 
