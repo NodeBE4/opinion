@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-18
+date: 2020-09-19
 from: https://twitter.com/GlobalHimalaya/status/1305254240420388864
 layout: post
 tags:
@@ -118,4 +118,8 @@ Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/E
 ### 26: [2020-09-18 17:56:03+08:00 推文](https://twitter.com/GlobalHimalaya/status/1306894749547204614)
 
 班农接受福克斯主播塔克卡尔森采访说：<br><br>#闫丽梦 博士是生物武器实验室的证人！<br>推特封了她的账号，脸书禁了塔克采访她的视频<br>但推特和脸书却对中共走狗水军抹黑闫博士视而不见 <br><video src="https://video.twimg.com/amplify_video/1306894062490808324/vid/960x540/I_g5I3GJ8qfJ3Miu.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiMFzKMUMAAEjZv?format=jpg&name=orig" style="width: 100%"></video>
+
+### 27: [2020-09-19 08:30:32+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307114817799385093)
+
+商务部长罗斯：将与本周日禁掉（shut down）微信，抖音将不能下载更新，如11月12号不能达成交易，抖音也将被禁<br><br>主持人问，CCP会不会报复，罗斯说，那就看他们的咯<br><br>根据罗斯讲话和商务部公告，本周日后，微信很可能将完全不能在美使用，不仅不能下载，支付、发信息、视频、语音等所有功能也将全部被禁 <br><video src="https://video.twimg.com/amplify_video/1307113859145113600/vid/960x540/7dFmyv0E0FicffM9.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1307113859145113600/img/eVC4gF-TSq9wFDyx.jpg" style="width: 100%"></video>
 
