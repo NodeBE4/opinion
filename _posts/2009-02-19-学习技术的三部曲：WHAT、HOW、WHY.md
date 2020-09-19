@@ -2,10 +2,10 @@
 layout: post
 title: "学习技术的三部曲：WHAT、HOW、WHY"
 date: 2009-02-19T10:33:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/02/study-technology-in-three-steps.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

@@ -2,10 +2,10 @@
 layout: post
 title: "“如何翻墙”系列：fqrouter——安卓系统翻墙利器（免 ROOT）"
 date: 2014-07-31T17:15:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2014/07/gfw-fqrouter.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

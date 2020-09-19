@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 HTTPS 和 SSL-TLS 协议[1]：背景知识、协议的需求、设计的难点"
 date: 2014-11-08T23:51:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2014/11/https-ssl-tls-1.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

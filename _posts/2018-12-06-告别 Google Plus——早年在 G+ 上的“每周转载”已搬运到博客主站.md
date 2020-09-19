@@ -2,10 +2,10 @@
 layout: post
 title: "告别 Google Plus——早年在 G+ 上的“每周转载”已搬运到博客主站"
 date: 2018-12-06T23:57:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2018/12/Google-Plus-Is-Dead.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

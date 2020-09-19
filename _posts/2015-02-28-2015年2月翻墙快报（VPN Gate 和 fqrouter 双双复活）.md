@@ -2,10 +2,10 @@
 layout: post
 title: "2015年2月翻墙快报（VPN Gate 和 fqrouter 双双复活）"
 date: 2015-02-28T21:56:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2015/02/gfw-news.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

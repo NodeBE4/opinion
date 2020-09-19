@@ -2,10 +2,10 @@
 layout: post
 title: "C-C++ 中一个简单的 enum 手法（idiom）"
 date: 2009-04-18T23:21:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/04/c-cxx-enum-idiom.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

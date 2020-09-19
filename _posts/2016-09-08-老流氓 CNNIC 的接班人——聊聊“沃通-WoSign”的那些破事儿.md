@@ -2,10 +2,10 @@
 layout: post
 title: "老流氓 CNNIC 的接班人——聊聊“沃通-WoSign”的那些破事儿"
 date: 2016-09-08T22:17:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2016/09/About-WoSign.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

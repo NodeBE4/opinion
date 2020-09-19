@@ -2,10 +2,10 @@
 layout: post
 title: "弃用 Chrome 改用 Firefox 的几点理由——关于 Chrome 69 隐私丑闻的随想"
 date: 2018-09-30T23:00:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2018/09/Why-You-Should-Switch-from-Chrome-to-Firefox.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

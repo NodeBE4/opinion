@@ -2,10 +2,10 @@
 layout: post
 title: "C++ 对象是怎么死的？关于标准输入输出流（cout,cerr,clog,etc）的进一步探讨"
 date: 2009-02-26T23:01:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/02/cxx-object-destroy-with-io-stream.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

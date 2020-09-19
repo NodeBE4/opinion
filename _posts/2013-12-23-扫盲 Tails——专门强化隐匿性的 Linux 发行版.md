@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 Tails——专门强化隐匿性的 Linux 发行版"
 date: 2013-12-23T22:58:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/12/linux-tails-guide.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

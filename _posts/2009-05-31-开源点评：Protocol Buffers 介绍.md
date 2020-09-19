@@ -2,10 +2,10 @@
 layout: post
 title: "开源点评：Protocol Buffers 介绍"
 date: 2009-05-31T21:50:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/05/opensource-review-protocol-buffers.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

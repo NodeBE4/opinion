@@ -2,10 +2,10 @@
 layout: post
 title: "如何用 GreaseMonkey 扩展 Google Reader"
 date: 2011-11-02T22:29:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2011/11/greasemonkey-scripts-for-google-reader.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

@@ -2,10 +2,10 @@
 layout: post
 title: "为什么俺推荐 Python[2]：作为动态语言的 Python"
 date: 2009-08-21T23:22:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/08/why-choose-python-2-dynamic.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

@@ -2,10 +2,10 @@
 layout: post
 title: "聊聊分布式散列表（DHT）的原理——以 Kademlia（Kad） 和 Chord 为例"
 date: 2017-09-21T22:29:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2017/09/Introduction-DHT-Kademlia-Chord.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 HTTPS 和 SSL-TLS 协议[3]：密钥交换（密钥协商）算法及其原理"
 date: 2016-09-30T15:47:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2016/09/https-ssl-tls-3.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

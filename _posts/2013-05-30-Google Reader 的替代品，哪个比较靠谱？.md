@@ -2,10 +2,10 @@
 layout: post
 title: "Google Reader 的替代品，哪个比较靠谱？"
 date: 2013-05-30T00:21:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/05/google-reader-replacement.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

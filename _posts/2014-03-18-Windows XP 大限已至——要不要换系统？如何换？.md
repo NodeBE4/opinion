@@ -2,10 +2,10 @@
 layout: post
 title: "Windows XP 大限已至——要不要换系统？如何换？"
 date: 2014-03-18T22:51:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2014/03/windows-xp-dead.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

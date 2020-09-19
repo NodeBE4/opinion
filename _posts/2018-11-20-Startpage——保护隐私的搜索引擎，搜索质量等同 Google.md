@@ -2,10 +2,10 @@
 layout: post
 title: "Startpage——保护隐私的搜索引擎，搜索质量等同 Google"
 date: 2018-11-20T16:24:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2018/11/Private-Search-Engine-Startpage.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

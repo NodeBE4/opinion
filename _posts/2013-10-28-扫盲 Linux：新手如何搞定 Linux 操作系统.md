@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 Linux：新手如何搞定 Linux 操作系统"
 date: 2013-10-28T23:28:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/10/linux-newbie-guide.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

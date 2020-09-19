@@ -2,10 +2,10 @@
 layout: post
 title: "俺的 GitHub 开张——原 Google Code 的 wiki 页面已迁移至此"
 date: 2015-06-11T15:50:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2015/06/My-GitHub.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

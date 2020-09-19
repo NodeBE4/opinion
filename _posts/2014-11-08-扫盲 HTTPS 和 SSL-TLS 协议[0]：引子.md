@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 HTTPS 和 SSL-TLS 协议[0]：引子"
 date: 2014-11-08T23:49:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2014/11/https-ssl-tls-0.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

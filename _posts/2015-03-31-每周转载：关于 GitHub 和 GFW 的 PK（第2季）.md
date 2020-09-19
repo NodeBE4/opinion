@@ -2,10 +2,10 @@
 layout: post
 title: "每周转载：关于 GitHub 和 GFW 的 PK（第2季）"
 date: 2015-03-31T09:56:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2015/03/weekly-share-82.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

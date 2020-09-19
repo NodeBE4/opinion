@@ -2,10 +2,10 @@
 layout: post
 title: "Google Reader 之死——原因分析、应对措施、教训"
 date: 2013-03-15T13:22:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/03/google-reader-dead.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

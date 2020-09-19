@@ -2,10 +2,10 @@
 layout: post
 title: "分析一下 TrueCrypt 之死（自杀 or 他杀？）——兼谈应对措施"
 date: 2014-06-10T16:43:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2014/06/truecrypt-dead.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

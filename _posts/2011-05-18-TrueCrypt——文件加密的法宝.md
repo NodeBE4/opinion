@@ -2,10 +2,10 @@
 layout: post
 title: "TrueCrypt——文件加密的法宝"
 date: 2011-05-18T23:14:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2011/05/recommend-truecrypt.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

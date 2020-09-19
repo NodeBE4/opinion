@@ -2,10 +2,10 @@
 layout: post
 title: "TrueCrypt 使用经验[2]：关于加密盘的密码认证和 KeyFiles 认证"
 date: 2013-08-11T13:32:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/08/truecrypt-2.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

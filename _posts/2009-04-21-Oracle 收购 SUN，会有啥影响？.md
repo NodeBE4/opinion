@@ -2,10 +2,10 @@
 layout: post
 title: "Oracle 收购 SUN，会有啥影响？"
 date: 2009-04-21T19:51:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/04/oracle-buy-sun.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">
