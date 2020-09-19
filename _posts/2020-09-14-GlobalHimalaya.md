@@ -123,3 +123,7 @@ Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/E
 
 商务部长罗斯：将与本周日禁掉（shut down）微信，抖音将不能下载更新，如11月12号不能达成交易，抖音也将被禁<br><br>主持人问，CCP会不会报复，罗斯说，那就看他们的咯<br><br>根据罗斯讲话和商务部公告，本周日后，微信很可能将完全不能在美使用，不仅不能下载，支付、发信息、视频、语音等所有功能也将全部被禁 <br><video src="https://video.twimg.com/amplify_video/1307113859145113600/vid/960x540/7dFmyv0E0FicffM9.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1307113859145113600/img/eVC4gF-TSq9wFDyx.jpg" style="width: 100%"></video>
 
+### 28: [2020-09-19 19:26:11+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307279819088961536)
+
+#闫丽梦 博士再次接受Newsmax斯宾塞采访<br>除了强调病毒是人造，中共故意释放以外<br>闫博士还首次透露美国政府相关部门和专家已阅读过报告，并强烈支持报告结论<br>此外，她还透露了除了论文里的科学证据以外，她还有情报证据<br><br>#LiMengYan <br><video src="https://video.twimg.com/ext_tw_video/1307279574523285510/pu/vid/960x540/9q8FzIN5D-GO5bST.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1307279574523285510/pu/img/925mpSKede0PpLXL.jpg" style="width: 100%"></video>
+
