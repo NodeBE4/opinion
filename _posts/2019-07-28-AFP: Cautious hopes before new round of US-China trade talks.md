@@ -2,10 +2,10 @@
 layout: post
 title: "AFP: Cautious hopes before new round of US-China trade talks"
 date: 2019-07-28T06:12:46+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2019/07/afp-cautious-hopes-before-new-round-of-us-china-trade-talks/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7205 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7205" itemscope="" itemtype="https://schema.org/CreativeWork">

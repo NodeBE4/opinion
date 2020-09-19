@@ -2,10 +2,10 @@
 layout: post
 title: "LA TRIBUNE: La guerre contre TikTok et la 5G contrarie les ambitions de la tech chinoise"
 date: 2020-09-16T06:54:05+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2020/09/la-tribune-la-guerre-contre-tiktok-et-la-5g-contrarie-les-ambitions-de-la-tech-chinoise/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-9667 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-9667" itemscope="" itemtype="https://schema.org/CreativeWork">

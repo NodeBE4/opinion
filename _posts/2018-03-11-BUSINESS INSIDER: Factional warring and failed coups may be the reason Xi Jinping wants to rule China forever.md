@@ -2,10 +2,10 @@
 layout: post
 title: "BUSINESS INSIDER: Factional warring and failed coups may be the reason Xi Jinping wants to rule China forever"
 date: 2018-03-11T11:28:09+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2018/03/business-insider-factional-warring-and-failed-coups-may-be-the-reason-xi-jinping-wants-to-rule-china-forever/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7278 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7278" itemscope="" itemtype="https://schema.org/CreativeWork">

@@ -2,10 +2,10 @@
 layout: post
 title: "SinoInsider’s Accurate Predictions and Analysis [0001] SinoInsider 20190814"
 date: 2019-08-22T14:52:18.000Z
-author: 透視中國-YouTube
+author: 透視中國
 from: https://www.youtube.com/watch?v=-n7KgQaxsb0
-tags: [ 透視中國-YouTube ]
-categories: [ 透視中國-YouTube ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 <!--1566485538000-->
 [SinoInsider’s Accurate Predictions and Analysis [0001] SinoInsider 20190814](https://www.youtube.com/watch?v=-n7KgQaxsb0)

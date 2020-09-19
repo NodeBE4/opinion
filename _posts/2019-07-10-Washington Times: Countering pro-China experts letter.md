@@ -2,10 +2,10 @@
 layout: post
 title: "Washington Times: Countering pro-China experts letter"
 date: 2019-07-10T06:28:52+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2019/07/countering-pro-china-experts-letter/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7210 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7210" itemscope="" itemtype="https://schema.org/CreativeWork">

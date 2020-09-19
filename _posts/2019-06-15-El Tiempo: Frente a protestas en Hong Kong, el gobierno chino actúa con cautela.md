@@ -2,10 +2,10 @@
 layout: post
 title: "El Tiempo: Frente a protestas en Hong Kong, el gobierno chino actúa con cautela"
 date: 2019-06-15T09:40:09+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2019/06/el-tiempo-frente-a-protestas-en-hong-kong-el-gobierno-chino-actua-con-cautela/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7265 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7265" itemscope="" itemtype="https://schema.org/CreativeWork">

@@ -2,10 +2,10 @@
 layout: post
 title: "Why is the CCP Provoking the US? An Analysis of CCP Strategy - China Analysis by Don Tse - 010"
 date: 2020-04-09T07:49:08.000Z
-author: 透視中國-YouTube
+author: 透視中國
 from: https://www.youtube.com/watch?v=Wb-sH-IleoE
-tags: [ 透視中國-YouTube ]
-categories: [ 透視中國-YouTube ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 <!--1586418548000-->
 [Why is the CCP Provoking the US? An Analysis of CCP Strategy - China Analysis by Don Tse - 010](https://www.youtube.com/watch?v=Wb-sH-IleoE)

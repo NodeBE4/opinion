@@ -2,10 +2,10 @@
 layout: post
 title: "ThePrint: Modi must look at Xis military modernisation in last 8 yrs to understand Galwan aggression"
 date: 2020-06-18T23:13:34+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2020/06/theprint-modi-must-look-at-xis-military-modernisation-in-last-8-yrs-to-understand-galwan-aggression/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-9135 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-9135" itemscope="" itemtype="https://schema.org/CreativeWork">

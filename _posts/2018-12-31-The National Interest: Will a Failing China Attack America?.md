@@ -2,10 +2,10 @@
 layout: post
 title: "The National Interest: Will a Failing China Attack America?"
 date: 2018-12-31T09:59:37+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2018/12/the-national-interest-will-a-failing-china-attack-america/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7268 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7268" itemscope="" itemtype="https://schema.org/CreativeWork">

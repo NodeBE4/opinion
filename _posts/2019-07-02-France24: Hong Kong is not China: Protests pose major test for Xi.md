@@ -2,10 +2,10 @@
 layout: post
 title: "France24: Hong Kong is not China: Protests pose major test for Xi"
 date: 2019-07-02T09:23:32+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2019/07/france24-hong-kong-is-not-china-protests-pose-major-test-for-xi/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7255 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7255" itemscope="" itemtype="https://schema.org/CreativeWork">

@@ -2,10 +2,10 @@
 layout: post
 title: "Chine: rebond des importations en juin (+2,7%), les exportations se tassent"
 date: 2020-07-15T00:33:31+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2020/07/chine-rebond-des-importations-en-juin-27-les-exportations-se-tassent/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-9399 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-9399" itemscope="" itemtype="https://schema.org/CreativeWork">

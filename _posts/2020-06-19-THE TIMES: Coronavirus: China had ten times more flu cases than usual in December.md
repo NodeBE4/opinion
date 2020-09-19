@@ -2,10 +2,10 @@
 layout: post
 title: "THE TIMES: Coronavirus: China had ten times more flu cases than usual in December"
 date: 2020-06-19T09:22:14+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2020/06/the-times-coronavirus-china-had-ten-times-more-flu-cases-than-usual-in-december/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-9146 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-9146" itemscope="" itemtype="https://schema.org/CreativeWork">

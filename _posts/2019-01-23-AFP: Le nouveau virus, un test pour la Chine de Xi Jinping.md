@@ -2,10 +2,10 @@
 layout: post
 title: "AFP: Le nouveau virus, un test pour la Chine de Xi Jinping"
 date: 2019-01-23T23:38:25+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2019/01/afp-le-nouveau-virus-un-test-pour-la-chine-de-xi-jinping/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7185 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7185" itemscope="" itemtype="https://schema.org/CreativeWork">

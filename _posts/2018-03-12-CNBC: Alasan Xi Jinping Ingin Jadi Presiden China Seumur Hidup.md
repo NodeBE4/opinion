@@ -2,10 +2,10 @@
 layout: post
 title: "CNBC: Alasan Xi Jinping Ingin Jadi Presiden China Seumur Hidup"
 date: 2018-03-12T11:38:33+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2018/03/cnbc-alasan-xi-jinping-ingin-jadi-presiden-china-seumur-hidup/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7282 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7282" itemscope="" itemtype="https://schema.org/CreativeWork">

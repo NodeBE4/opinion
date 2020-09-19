@@ -2,10 +2,10 @@
 layout: post
 title: "MINT: Unfriended abroad, Chinas tech giants seek home comfort"
 date: 2020-09-16T06:52:28+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2020/09/mint-unfriended-abroad-chinas-tech-giants-seek-home-comfort/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-9663 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-9663" itemscope="" itemtype="https://schema.org/CreativeWork">

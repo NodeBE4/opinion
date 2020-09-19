@@ -2,10 +2,10 @@
 layout: post
 title: "JANPAN Forward: Chinese Communist Partys Influence in Interpol Should No Longer Be Tolerated"
 date: 2018-10-20T11:15:49+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2018/10/janpan-forward-chinese-communist-partys-influence-in-interpol-should-no-longer-be-tolerated/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7275 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7275" itemscope="" itemtype="https://schema.org/CreativeWork">

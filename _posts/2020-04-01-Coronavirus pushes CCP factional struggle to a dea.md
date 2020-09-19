@@ -2,10 +2,10 @@
 layout: post
 title: "Coronavirus pushes CCP factional struggle to a deadlier phase"
 date: 2020-04-01T06:00:05.000Z
-author: 透視中國-YouTube
+author: 透視中國
 from: https://www.youtube.com/watch?v=N8cG_9iiopc
-tags: [ 透視中國-YouTube ]
-categories: [ 透視中國-YouTube ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 <!--1585720805000-->
 [Coronavirus pushes CCP factional struggle to a deadlier phase](https://www.youtube.com/watch?v=N8cG_9iiopc)

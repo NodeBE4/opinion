@@ -2,10 +2,10 @@
 layout: post
 title: "AEI: More on China probably hiding COVID"
 date: 2020-06-17T23:11:03+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2020/06/aei-more-on-china-probably-hiding-covid/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-9131 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-9131" itemscope="" itemtype="https://schema.org/CreativeWork">

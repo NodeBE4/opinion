@@ -2,10 +2,10 @@
 layout: post
 title: "JPR: Wall Street Elites Against Democracy? A Case Study in Pro-China Media Bias"
 date: 2018-12-09T11:05:45+08:00
-author: 透視中國-文章
+author: 透視中國
 from: https://tw.sinoinsider.com/2018/12/jpr-wall-street-elites-against-democracy-a-case-study-in-pro-china-media-bias/
-tags: [ 透視中國-文章 ]
-categories: [ 透視中國-文章 ]
+tags: [ 透視中國 ]
+categories: [ 透視中國 ]
 ---
 
 <article class="post-7272 post type-post status-publish format-standard has-post-thumbnail hentry category-media" id="post-7272" itemscope="" itemtype="https://schema.org/CreativeWork">
