@@ -2,10 +2,10 @@
 layout: post
 title: "如何挖掘网络资源[3]：解答 Google 搜索的常见问题（FAQs）"
 date: 2013-03-22T23:31:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/03/internet-resource-discovery-3.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

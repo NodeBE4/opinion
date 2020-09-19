@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 BTSync（Resilio Sync）——不仅是同步利器，而且是【分布式】网盘"
 date: 2015-01-18T23:58:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2015/01/BitTorrent-Sync.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

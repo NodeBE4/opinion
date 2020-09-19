@@ -2,10 +2,10 @@
 layout: post
 title: "为啥俺推荐 Python[5]：作为瑞士军刀的 Python——顺便分享俺整理的 Python 开源库"
 date: 2013-02-16T23:31:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/02/why-choose-python-5-tools.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

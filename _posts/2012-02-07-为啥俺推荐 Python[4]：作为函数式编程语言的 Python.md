@@ -2,10 +2,10 @@
 layout: post
 title: "为啥俺推荐 Python[4]：作为函数式编程语言的 Python"
 date: 2012-02-07T21:55:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2012/02/why-choose-python-4-fp.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

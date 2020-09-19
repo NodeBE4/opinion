@@ -2,10 +2,10 @@
 layout: post
 title: "邮件订阅功能发布——免翻墙的“Google Reader 替代品”"
 date: 2013-06-20T22:04:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/06/email-subscription.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

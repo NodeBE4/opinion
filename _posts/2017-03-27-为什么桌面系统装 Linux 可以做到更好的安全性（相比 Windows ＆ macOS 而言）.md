@@ -2,10 +2,10 @@
 layout: post
 title: "为什么桌面系统装 Linux 可以做到更好的安全性（相比 Windows ＆ macOS 而言）"
 date: 2017-03-27T23:58:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2017/03/Why-Linux-Is-More-Secure-Than-Windows-and-macOS.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

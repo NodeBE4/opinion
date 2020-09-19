@@ -2,10 +2,10 @@
 layout: post
 title: "在线查毒工具 VirusTotal 的 N 种玩法——从“误报-漏报”聊到“攻击者对它的利用”"
 date: 2020-03-27T21:38:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2020/03/VirusTotal-Tricks.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

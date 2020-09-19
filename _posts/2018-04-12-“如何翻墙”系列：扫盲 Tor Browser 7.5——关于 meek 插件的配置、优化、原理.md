@@ -2,10 +2,10 @@
 layout: post
 title: "“如何翻墙”系列：扫盲 Tor Browser 7.5——关于 meek 插件的配置、优化、原理"
 date: 2018-04-12T21:21:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2018/04/gfw-tor-browser-7.5-meek.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

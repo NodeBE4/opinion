@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 VeraCrypt——跨平台的 TrueCrypt 替代品"
 date: 2015-10-10T11:48:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2015/10/VeraCrypt.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

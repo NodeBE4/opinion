@@ -2,10 +2,10 @@
 layout: post
 title: "微软需要 Twitter 来对抗 Google"
 date: 2009-04-05T15:56:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/04/microsoft-need-twitter-to-pk-google.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

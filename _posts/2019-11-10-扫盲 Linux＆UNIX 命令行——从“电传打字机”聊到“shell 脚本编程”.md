@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 Linux＆UNIX 命令行——从“电传打字机”聊到“shell 脚本编程”"
 date: 2019-11-10T21:02:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2019/11/POSIX-TUI-from-TTY-to-Shell-Programming.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

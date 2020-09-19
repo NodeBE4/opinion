@@ -2,10 +2,10 @@
 layout: post
 title: "从 Google 搜索的严重 bug 想开去"
 date: 2009-02-01T12:35:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2009/02/google-search-fatal-bug.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

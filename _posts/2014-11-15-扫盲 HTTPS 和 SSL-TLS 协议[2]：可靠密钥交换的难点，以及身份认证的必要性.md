@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 HTTPS 和 SSL-TLS 协议[2]：可靠密钥交换的难点，以及身份认证的必要性"
 date: 2014-11-15T20:01:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2014/11/https-ssl-tls-2.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

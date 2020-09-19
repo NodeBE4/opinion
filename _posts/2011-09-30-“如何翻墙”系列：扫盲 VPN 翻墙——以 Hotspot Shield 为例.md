@@ -2,10 +2,10 @@
 layout: post
 title: "“如何翻墙”系列：扫盲 VPN 翻墙——以 Hotspot Shield 为例"
 date: 2011-09-30T18:53:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2011/09/gfw-vpn-hotspot-shield.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

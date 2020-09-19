@@ -2,10 +2,10 @@
 layout: post
 title: "提醒一下 Google Reader 的身后事"
 date: 2013-07-05T23:56:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/07/about-google-reader.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

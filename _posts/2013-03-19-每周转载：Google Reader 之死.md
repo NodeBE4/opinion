@@ -2,10 +2,10 @@
 layout: post
 title: "每周转载：Google Reader 之死"
 date: 2013-03-19T23:57:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/03/weekly-share-44.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

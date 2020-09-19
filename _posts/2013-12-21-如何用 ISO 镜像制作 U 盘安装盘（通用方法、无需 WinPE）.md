@@ -2,10 +2,10 @@
 layout: post
 title: "如何用 ISO 镜像制作 U 盘安装盘（通用方法、无需 WinPE）"
 date: 2013-12-21T12:28:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/12/create-bootable-usb-stick-from-iso.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

@@ -2,10 +2,10 @@
 layout: post
 title: "用提问来促进思维——兼谈【非】技术领域的 WHAT HOW WHY 三部曲"
 date: 2012-03-07T20:45:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2012/03/think-what-how-why.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

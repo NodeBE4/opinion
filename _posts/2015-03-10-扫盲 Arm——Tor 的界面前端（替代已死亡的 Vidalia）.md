@@ -2,10 +2,10 @@
 layout: post
 title: "扫盲 Arm——Tor 的界面前端（替代已死亡的 Vidalia）"
 date: 2015-03-10T15:50:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2015/03/Tor-Arm.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">

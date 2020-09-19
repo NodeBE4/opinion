@@ -2,10 +2,10 @@
 layout: post
 title: "“如何翻墙”系列：扫盲 VPN Gate——分布式的 VPN 服务器"
 date: 2013-04-19T14:58:00+08:00
-author: 编程随想的博客
+author: 编程随想
 from: https://program-think.blogspot.com/2013/04/gfw-vpngate.html
-tags: [ 编程随想的博客 ]
-categories: [ 编程随想的博客 ]
+tags: [ 编程随想 ]
+categories: [ 编程随想 ]
 ---
 
 <div class="post hentry uncustomized-post-template">
