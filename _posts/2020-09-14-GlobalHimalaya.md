@@ -127,3 +127,7 @@ Re 川普总统转推了这个视频 <br><img src="https://pbs.twimg.com/media/E
 
 #闫丽梦 博士再次接受Newsmax斯宾塞采访<br>除了强调病毒是人造，中共故意释放以外<br>闫博士还首次透露美国政府相关部门和专家已阅读过报告，并强烈支持报告结论<br>此外，她还透露了除了论文里的科学证据以外，她还有情报证据<br><br>#LiMengYan <br><video src="https://video.twimg.com/ext_tw_video/1307279574523285510/pu/vid/960x540/9q8FzIN5D-GO5bST.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1307279574523285510/pu/img/925mpSKede0PpLXL.jpg" style="width: 100%"></video>
 
+### 29: [2020-09-19 23:39:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307343527358001153)
+
+Re 还没看过报告的朋友，“迫切要求”证据的朋友，可以在这里下载报告：<br><br>这是第一份报告，包含科学证据的第一部分，即将发布的第二份报告包含科学证据的第二部分。此外，据闫博士的采访透露，还有情报证据，但应该不会以科学报告的形式发布<a href="https://zenodo.org/record/4028830#.X2YlK9Z7nyU" target="_blank" rel="noopener noreferrer">https://zenodo.org/record/4028830#.X2YlK9Z7nyU</a>
+
