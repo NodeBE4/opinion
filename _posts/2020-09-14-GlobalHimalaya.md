@@ -139,3 +139,19 @@ Re 还没看过报告的朋友，“迫切要求”证据的朋友，可以在�
 
 Re 其实这也算不上奇迹<br>是人都想好好活着<br>凡是正常人，谁不想知道危害他们生命的事情的真相呢？<br>凡是正常人，谁不支持敢于冒生命危险揭露真相的勇士呢？
 
+### 32: [2020-09-20 06:43:05+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307450165217775616)
+
+Re 成为史上最高并非那么容易。大家想想福克斯作为美国最大的有线新闻台，每天有多少节目，发布多少视频，偏偏闫博士的采访支持率史上第一（2百万及以上观看量的视频中）！<br><br>数据来源于著名的社交网络数据分析网站Social Blade，大家可自行验证：<br><a href="https://socialblade.com/youtube/user/foxnewschannel" target="_blank" rel="noopener noreferrer">https://socialblade.com/youtube/user/foxnewschannel</a>
+
+### 33: [2020-09-20 06:47:52+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307451371826806784)
+
+<br><br>灭毒先灭共: @GlobalHimalaya @TuckerCarlson 能否给个链接<br>
+
+### 34: [2020-09-20 07:35:47+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307463429779644418)
+
+川普明州集会上讲话：我跟习主席曾经关系不错，但现在我的感觉不同了 <br><br>川普还绘声绘色地描述了总加速师阅兵时的“壮观”景象，现场观众听后发出了愉悦的笑声 <br><video src="https://video.twimg.com/amplify_video/1307463268168994818/vid/960x540/bue2iAiFq0Odec3u.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1307463268168994818/img/4jWag4O5IU4ObC_5.jpg" style="width: 100%"></video>
+
+### 35: [2020-09-20 08:38:16+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307479152514138114)
+
+朱利安尼@WarRoomPandemic重磅讲话：沒有比中共更适合RICO法案的了，因为中共是黑帮中的黑帮！<br><br>他还说，灭黑帮的关键点是以个案起诉（即便是民事）为切入点，冻结黑帮所有资产，一网打尽<br><br>郭先生评道，中共之所以这么怕朱利安尼，就是因为他是用RICO法案灭黑的专家，而中共最清楚他们自己就是黑帮 <br><video src="https://video.twimg.com/amplify_video/1307479022687805441/vid/960x540/0A5TTNhG6a2JjIkR.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1307479022687805441/img/GJXokh3oHcO_oPlL.jpg" style="width: 100%"></video>
+
