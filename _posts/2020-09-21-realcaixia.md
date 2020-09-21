@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-21
+date: 2020-09-22
 from: https://twitter.com/realcaixia/status/1307746491721814017
 layout: post
 tags:
@@ -30,4 +30,8 @@ title: '蔡霞 的 Twitter: 2020-09-21~2020-09-27'
 ### 4: [2020-09-21 23:39:40+08:00 推文](https://twitter.com/realcaixia/status/1308068385109028865)
 
 中国腾讯公司微信APP ，作为中共极权统治镇压言论自由的凶狠打手，以肆意删帖、封群封号而恶名昭著于世界。美国加州法院法官竟然以保护言论自由为名，做出微信胜诉的“裁决”，真是对法官自己莫大的讽刺！且看中国网友如何评价加州法院法官的裁决： <br><img src="https://pbs.twimg.com/media/EicxQcaXkAE6cDM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2020-09-22 03:14:59+08:00 推文](https://twitter.com/realcaixia/status/1308122573666947073)
+
+支持中国人权律师团为救援张展所做的一切努力。张展无罪！呼吁立即释放张展！ <br><br>自由亚洲电台: 声明中说，#张展 已经绝食抗议多日。中国人权律师团希望，受理该案的法院出于人道考虑，毫不延迟地进行审理，并宣告张展无罪、立即释放。<br><a href="https://www.rfa.org/mandarin/Xinwen/1-09202020111756.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/Xinwen/1-09202020111756.html</a>
 
