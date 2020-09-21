@@ -19,3 +19,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-21~2020-09-27'
 
 喜站用socialblade数据，爆出 #闫丽梦 博士采访成为福克斯油管史上支持率最高后，该网站上闫博士视频条目神奇地消失了！<br><br>最简单的逻辑，如果闫博士说的有一点不实，中共难道不应该大肆宣传，然后一举揭穿吗？就像大外宣常爆的假料一样<br><br>大小加速师们，感谢你们再次强力为闫博士背书！你们辛苦了！ <br><img src="https://pbs.twimg.com/media/EiX6ChoUcAAjEwH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EiX6O4AVoAAVvoj?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 2: [2020-09-21 08:16:32+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307836072089460736)
+
+🔥蓬佩奥在德州浸信会教堂最新演讲：<br><br>不敬畏神的希特勒、毛主席以及现在的中共毁掉了千万人的生命！<br>中共在世界上制造的恐怖，没有一个政权能与之相比<br><br>他说，我们作为基督徒，作为美国人，必须坚定信心，面对这些挑战<br><br>美国国务卿已经把中共和希特勒放在了一起 <br><video src="https://video.twimg.com/amplify_video/1307835745340538881/vid/960x540/EXeeU23tsPMKAWHQ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1307835745340538881/img/E0xkWTFP7942kXXs.jpg" style="width: 100%"></video>
+
