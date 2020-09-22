@@ -35,3 +35,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-21~2020-09-27'
 
 Re 对应的油管视频已经无法观看<br><a href="https://www.youtube.com/watch?v=qQGDyWDtsT0&feature=youtu.be" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=qQGDyWDtsT0&feature=youtu.be</a>
 
+### 6: [2020-09-23 05:56:16+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308525546377076736)
+
+⚡️川普联合国讲话：我们一定要追究中国政府释放瘟疫（unleashed this plague）的责任！<br><br>川普说，有些国家牺牲本国人民利益追求全球扩张。你只有关心自己的公民，我们才能有真正的合作基础<br><br>他还说，美国的军事实力空前强大，但他祈求上帝，永远不必使用 <br><video src="https://video.twimg.com/amplify_video/1308525107069902849/vid/960x540/VZt0Ndc-ZzqVfOc_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1308525107069902849/img/OIvS5SUHN69NwFM9.jpg" style="width: 100%"></video>
+
