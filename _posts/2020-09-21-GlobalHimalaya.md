@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-21
+date: 2020-09-22
 from: https://twitter.com/GlobalHimalaya/status/1307726661157187585
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-21~2020-09-27'
 ### 2: [2020-09-21 08:16:32+08:00 推文](https://twitter.com/GlobalHimalaya/status/1307836072089460736)
 
 🔥蓬佩奥在德州浸信会教堂最新演讲：<br><br>不敬畏神的希特勒、毛主席以及现在的中共毁掉了千万人的生命！<br>中共在世界上制造的恐怖，没有一个政权能与之相比<br><br>他说，我们作为基督徒，作为美国人，必须坚定信心，面对这些挑战<br><br>美国国务卿已经把中共和希特勒放在了一起 <br><video src="https://video.twimg.com/amplify_video/1307835745340538881/vid/960x540/EXeeU23tsPMKAWHQ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1307835745340538881/img/E0xkWTFP7942kXXs.jpg" style="width: 100%"></video>
+
+### 3: [2020-09-22 07:39:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308189030744424449)
+
+⚡️川普总统透露，明天在联合国讲话中将传达对中国的「强硬信息」<br><br>讲话视频已经录制完成，他并未透露具体内容，只是强调「强硬」（strong message on China） <br><video src="https://video.twimg.com/amplify_video/1308188509291773952/vid/960x540/wxWkQBmN5pzue-XZ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1308188509291773952/img/kny4EDv7NPb5ZARV.jpg" style="width: 100%"></video>
 
