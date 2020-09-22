@@ -51,3 +51,11 @@ title: '蔡霞 的 Twitter: 2020-09-21~2020-09-27'
 
 任志强被重判18年监禁，中共加强打压异议 <a href="https://cn.nytimes.com/china/20200922/china-ren-zhiqiang-tycoon/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/china/20200922/china-ren-zhiqiang-tycoon/</a>
 
+### 10: [2020-09-22 22:28:38+08:00 推文](https://twitter.com/realcaixia/status/1308412899183013894)
+
+Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极点➕认知错乱到极点的家伙，用正常人逻辑去分析他，抬举他了。
+
+### 11: [2020-09-22 23:14:00+08:00 推文](https://twitter.com/realcaixia/status/1308424313649934339)
+
+任志强被重判迫害引发海内外舆论大哗，海内外许多朋友愤愤不平，习的党心人心将进一步丧尽，中共党内必将进一步分崩离析！ <br><img src="https://pbs.twimg.com/media/Eih0-FwXsAADqLk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eih0-FyXsA0amRK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eih0-FxXYAYlmJM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eih0-GBXYAIwRek?format=jpg&name=orig" referrerpolicy="no-referrer">
+
