@@ -35,3 +35,11 @@ title: '蔡霞 的 Twitter: 2020-09-21~2020-09-27'
 
 支持中国人权律师团为救援张展所做的一切努力。张展无罪！呼吁立即释放张展！ <br><br>自由亚洲电台: 声明中说，#张展 已经绝食抗议多日。中国人权律师团希望，受理该案的法院出于人道考虑，毫不延迟地进行审理，并宣告张展无罪、立即释放。<br><a href="https://www.rfa.org/mandarin/Xinwen/1-09202020111756.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/Xinwen/1-09202020111756.html</a>
 
+### 6: [2020-09-22 19:18:38+08:00 推文](https://twitter.com/realcaixia/status/1308365082250874880)
+
+英雄任志强！任青史留英名！那个是等着被押上历史审判台！ <br><br>ZHANGDONG: 现代男版窦娥！拭目以待历史的审判！ <br><a href="https://twitter.com/lunanweiyi/status/1308264254299136003" target="_blank" rel="noopener noreferrer">https://twitter.com/lunanweiyi/status/1308264254299136003</a>
+
+### 7: [2020-09-22 19:22:04+08:00 推文](https://twitter.com/realcaixia/status/1308365946327887872)
+
+悲壮！这火把会照亮前路，激励更多的人勇敢前行！ <br><br>ZHANGDONG: “69岁那年，大炮将自已的骨架拆散，做成火把，点燃希望，照亮黑暗。致敬！人民英雄！”（转自国内网络） <br><br><img src="https://pbs.twimg.com/media/EigZBroXsAA6cDU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
