@@ -43,3 +43,11 @@ title: '蔡霞 的 Twitter: 2020-09-21~2020-09-27'
 
 悲壮！这火把会照亮前路，激励更多的人勇敢前行！ <br><br>ZHANGDONG: “69岁那年，大炮将自已的骨架拆散，做成火把，点燃希望，照亮黑暗。致敬！人民英雄！”（转自国内网络） <br><br><img src="https://pbs.twimg.com/media/EigZBroXsAA6cDU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 8: [2020-09-22 21:02:04+08:00 推文](https://twitter.com/realcaixia/status/1308391111707234310)
+
+中国一网友说：以反腐的名义重判大炮，做实他反腐就是清洗党内，就是残酷打击良心人士。也证明大炮所言：他是脱光衣服也要当皇帝的小丑和谁不让我当皇帝我就让谁灭亡的决心。海内外凡正常人都看得清楚：任志强千古奇冤！请看真相与各界反应： <br><img src="https://pbs.twimg.com/media/EihWwQFWAAISPPm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EihWwQIXYAAMGTU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EihWwQHWAAAAYY7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EihWwQIXsAEtWrD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-09-22 21:10:16+08:00 推文](https://twitter.com/realcaixia/status/1308393175426437120)
+
+任志强被重判18年监禁，中共加强打压异议 <a href="https://cn.nytimes.com/china/20200922/china-ren-zhiqiang-tycoon/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/china/20200922/china-ren-zhiqiang-tycoon/</a>
+
