@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-22
+date: 2020-09-23
 from: https://twitter.com/GlobalHimalaya/status/1307726661157187585
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-21~2020-09-27'
 ### 3: [2020-09-22 07:39:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308189030744424449)
 
 ⚡️川普总统透露，明天在联合国讲话中将传达对中国的「强硬信息」<br><br>讲话视频已经录制完成，他并未透露具体内容，只是强调「强硬」（strong message on China） <br><video src="https://video.twimg.com/amplify_video/1308188509291773952/vid/960x540/wxWkQBmN5pzue-XZ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1308188509291773952/img/kny4EDv7NPb5ZARV.jpg" style="width: 100%"></video>
+
+### 4: [2020-09-23 01:58:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308465677540286464)
+
+印度最大的国际英语台WION @WIONews  采访 #闫丽梦 博士<br><br><a href="https://www.wionews.com/videos/chinese-virologist-li-meng-yan-speaks-to-wions-palki-sharma-upadhyay-329504" target="_blank" rel="noopener noreferrer">https://www.wionews.com/videos/chinese-virologist-li-meng-yan-speaks-to-wions-palki-sharma-upadhyay-329504</a>
+
+### 5: [2020-09-23 01:59:35+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308465986207535104)
+
+Re 对应的油管视频已经无法观看<br><a href="https://www.youtube.com/watch?v=qQGDyWDtsT0&feature=youtu.be" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=qQGDyWDtsT0&feature=youtu.be</a>
 

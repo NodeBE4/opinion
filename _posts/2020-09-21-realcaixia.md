@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-22
+date: 2020-09-23
 from: https://twitter.com/realcaixia/status/1307746491721814017
 layout: post
 tags:
@@ -58,4 +58,8 @@ Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极�
 ### 11: [2020-09-22 23:14:00+08:00 推文](https://twitter.com/realcaixia/status/1308424313649934339)
 
 任志强被重判迫害引发海内外舆论大哗，海内外许多朋友愤愤不平，习的党心人心将进一步丧尽，中共党内必将进一步分崩离析！ <br><img src="https://pbs.twimg.com/media/Eih0-FwXsAADqLk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eih0-FyXsA0amRK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eih0-FxXYAYlmJM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eih0-GBXYAIwRek?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2020-09-23 01:37:40+08:00 推文](https://twitter.com/realcaixia/status/1308460470689509381)
+
+看看中共女代表耍泼的无耻表演。 <br><br>冷山时评: 中共女代表在联合国人权理事会上撤泼耍赖，试图阻止该國代表揭露新疆集中营真相。<br>无奈大会主席伸张正义，支持其发言！看來中共的撒贝外交也有马失前蹄的時候！<br>歡迎大家转发，让世界知道新疆集中营真相！<br><br><video src="https://video.twimg.com/ext_tw_video/1308240296833056768/pu/vid/960x544/8iLnOXv5O4tHfYfo.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1308240296833056768/pu/img/1nW1JIhKO-Vwl-ik.jpg" style="width: 100%"></video>
 
