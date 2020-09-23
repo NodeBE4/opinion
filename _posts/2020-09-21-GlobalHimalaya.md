@@ -39,3 +39,7 @@ Re 对应的油管视频已经无法观看<br><a href="https://www.youtube.com/w
 
 ⚡️川普联合国讲话：我们一定要追究中国政府释放瘟疫（unleashed this plague）的责任！<br><br>川普说，有些国家牺牲本国人民利益追求全球扩张。你只有关心自己的公民，我们才能有真正的合作基础<br><br>他还说，美国的军事实力空前强大，但他祈求上帝，永远不必使用 <br><video src="https://video.twimg.com/amplify_video/1308525107069902849/vid/960x540/VZt0Ndc-ZzqVfOc_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1308525107069902849/img/OIvS5SUHN69NwFM9.jpg" style="width: 100%"></video>
 
+### 7: [2020-09-23 18:57:39+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308722190368399362)
+
+蓬佩奥在“价值观选民峰会”接受参访说：<br>中共对内消灭少数族裔、篡改圣经、压迫本国人民；对外扰乱美国、想用专制控制世界。<br><br>蓬佩奥相信自由世界会与美国团结在一起，对抗中共威胁，并最终取得胜利。 <br><video src="https://video.twimg.com/amplify_video/1308721628948213761/vid/960x540/D-qS4cDbj0Mu3xIT.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EimD0k3UwAEmcEk?format=jpg&name=orig" style="width: 100%"></video>
+
