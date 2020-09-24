@@ -71,3 +71,7 @@ Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极�
 
 那次采访，唐琪薇老师和我聊的话题比较多。对任与王的关系等我们都谈到，由此还谈到了政权与红二代的关系等问题。 <br><br>自由亚洲电台: 【蔡霞透露王岐山不挺任志强的真正原因】<br>前中共中央党校教授 #蔡霞 接受自由亚洲电台独家专访，谈到“红二代” #任志强 遭打压， #王岐山 不发声的真正原因。 <br><br><video src="https://video.twimg.com/ext_tw_video/1308891085553401857/pu/vid/720x720/OBwSsiGaJu9p2rEi.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1308891085553401857/pu/img/fQ7lnqt6iWfWyT7R.jpg" style="width: 100%"></video>
 
+### 15: [2020-09-24 15:51:11+08:00 推文](https://twitter.com/realcaixia/status/1309037652663042048)
+
+为何不让达赖喇嘛回西藏？蔡霞：中共顾虑政权被动摇 <a href="https://www.rfa.org/mandarin/yataibaodao/shaoshuminzu/hx-09232020100616.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/shaoshuminzu/hx-09232020100616.html</a>
+
