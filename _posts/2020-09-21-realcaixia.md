@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-23
+date: 2020-09-24
 from: https://twitter.com/realcaixia/status/1307746491721814017
 layout: post
 tags:
@@ -62,4 +62,12 @@ Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极�
 ### 12: [2020-09-23 01:37:40+08:00 推文](https://twitter.com/realcaixia/status/1308460470689509381)
 
 看看中共女代表耍泼的无耻表演。 <br><br>冷山时评: 中共女代表在联合国人权理事会上撤泼耍赖，试图阻止该國代表揭露新疆集中营真相。<br>无奈大会主席伸张正义，支持其发言！看來中共的撒贝外交也有马失前蹄的時候！<br>歡迎大家转发，让世界知道新疆集中营真相！<br><br><video src="https://video.twimg.com/ext_tw_video/1308240296833056768/pu/vid/960x544/8iLnOXv5O4tHfYfo.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1308240296833056768/pu/img/1nW1JIhKO-Vwl-ik.jpg" style="width: 100%"></video>
+
+### 13: [2020-09-24 11:18:47+08:00 推文](https://twitter.com/realcaixia/status/1308969099972825088)
+
+专栏 | 不同的声音： 谁给了习近平残害人民的底气？ <a href="https://www.rfa.org/mandarin/zhuanlan/butongdeshengyin/jkdv-09232020182815.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/zhuanlan/butongdeshengyin/jkdv-09232020182815.html</a>
+
+### 14: [2020-09-24 11:26:16+08:00 推文](https://twitter.com/realcaixia/status/1308970982615519235)
+
+那次采访，唐琪薇老师和我聊的话题比较多。对任与王的关系等我们都谈到，由此还谈到了政权与红二代的关系等问题。 <br><br>自由亚洲电台: 【蔡霞透露王岐山不挺任志强的真正原因】<br>前中共中央党校教授 #蔡霞 接受自由亚洲电台独家专访，谈到“红二代” #任志强 遭打压， #王岐山 不发声的真正原因。 <br><br><video src="https://video.twimg.com/ext_tw_video/1308891085553401857/pu/vid/720x720/OBwSsiGaJu9p2rEi.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1308891085553401857/pu/img/fQ7lnqt6iWfWyT7R.jpg" style="width: 100%"></video>
 
