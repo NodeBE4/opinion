@@ -75,3 +75,7 @@ Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极�
 
 为何不让达赖喇嘛回西藏？蔡霞：中共顾虑政权被动摇 <a href="https://www.rfa.org/mandarin/yataibaodao/shaoshuminzu/hx-09232020100616.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/shaoshuminzu/hx-09232020100616.html</a>
 
+### 16: [2020-09-24 21:45:30+08:00 推文](https://twitter.com/realcaixia/status/1309126816339197954)
+
+中国最著名律师莫少平先生对任志强一案作了高度专业性的分析。 <br><br>DW 中文- 德国之声: 莫少平律师指出，过去也确实发生过被告原本在判决当天决定不上诉，但是后来又改变主意决定上诉的情况。所以，针对 #任志强 的判决是否生效，现年69岁的任志强是否要开始他18年的服刑生活，还需要等到2020年10月2日才能有所定论。<br><br><a href="https://p.dw.com/p/3itU4" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3itU4</a>
+
