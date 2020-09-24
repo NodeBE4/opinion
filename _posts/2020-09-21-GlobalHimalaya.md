@@ -51,3 +51,7 @@ Re 对应的油管视频已经无法观看<br><a href="https://www.youtube.com/w
 
 Re 对闫博士还有一丝怀疑的，请问问自己，如果她所说的不是真实的，他们为什么这么害怕呢？
 
+### 10: [2020-09-24 07:44:27+08:00 推文](https://twitter.com/GlobalHimalaya/status/1308915159642107906)
+
+⚡️蓬佩奥 威斯康辛州 议会最新讲话，揭穿中共对美国各州的渗透！<br><br>蓬佩奥说，中共为达目的不择手段，他们看到联邦政府已全面对抗中共，就集中力量渗透州政府和议会<br><br>他特别强调中共和中国人民完全不同，中国人民与美国人民一样，想追求幸福美好生活<br><br>他还说，这不是冷战，这是一个完全不同的情况！ <br><video src="https://video.twimg.com/amplify_video/1308914692040073217/vid/960x540/kRCk5ldUvuoWlJXl.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1308914692040073217/img/T0cMk5bpxKBpG1CV.jpg" style="width: 100%"></video>
+
