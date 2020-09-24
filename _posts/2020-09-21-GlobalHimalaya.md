@@ -59,3 +59,7 @@ Re 对闫博士还有一丝怀疑的，请问问自己，如果她所说的不�
 
 #闫丽梦 博士接受福克斯著名主持人卢道博采访<br>她说，病毒是中共实验室人工改造的，只有推翻中共政权，才能查清所有真相<br><br>（节选1/2） <br><video src="https://video.twimg.com/amplify_video/1309092026554736647/vid/960x540/25LZtW_BuFv3Q6Gb.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EirUhIeXYAAPuJE?format=jpg&name=orig" style="width: 100%"></video>
 
+### 12: [2020-09-24 22:34:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309139191813623808)
+
+Re 福克斯著名主持人卢道博问：您认为中共有生物战部队，他们还有其他病毒可以释放吗？<br>#闫丽梦 博士：中共可以释放的病毒绝对不会只有这一种！<br><br>（节选2/2） <br><video src="https://video.twimg.com/ext_tw_video/1309139036007731212/pu/vid/960x540/DqurFSAv9uvWLVwS.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/media/Eir_rBvXcAgtYm8?format=jpg&name=orig" style="width: 100%"></video>
+
