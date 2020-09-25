@@ -75,3 +75,7 @@ Re 勘误，1:08应为：我们今年平均每个月都要逮捕一名千人计�
 
 🔥参议院情报委员会听证会上，联邦调查局长发言：<br>中国黑客的背后是中共政府，他们已经盗走了一半美国成年人的「个人可识别信息（PII）」 <br><video src="https://video.twimg.com/amplify_video/1309276236762492929/vid/960x540/2DeztoHdk2ikmhga.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309276236762492929/img/dm_-oo2I6GYWJnxY.jpg" style="width: 100%"></video>
 
+### 16: [2020-09-25 17:54:44+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309431131880603649)
+
+在路德社 @ding_gang 爆猛料的同时，鲁迪.朱利安尼在 @newsmax 几乎爆了同样的料<br><br>朱利安尼还明确说，这件事会在3个星期内曝光。此外，他还说有人可能会因此暗杀他，但是他干这行50年了，知道背后是谁指使，知道他们要干什么<br><br>至于这是路德社与朱利安尼、Newsmax互相配合，还是纯属巧合，不得而知 <br><video src="https://video.twimg.com/amplify_video/1309430351479992321/vid/960x540/7IehirDdv4OK52gM.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiwIkDmVkAA1WMg?format=jpg&name=orig" style="width: 100%"></video>
+
