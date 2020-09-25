@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-25
+date: 2020-09-26
 from: https://twitter.com/GlobalHimalaya/status/1307726661157187585
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re 勘误，1:08应为：我们今年平均每个月都要逮捕一名千人计�
 ### 16: [2020-09-25 17:54:44+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309431131880603649)
 
 在路德社 @ding_gang 爆猛料的同时，鲁迪.朱利安尼在 @newsmax 几乎爆了同样的料<br><br>朱利安尼还明确说，这件事会在3个星期内曝光。此外，他还说有人可能会因此暗杀他，但是他干这行50年了，知道背后是谁指使，知道他们要干什么<br><br>至于这是路德社与朱利安尼、Newsmax互相配合，还是纯属巧合，不得而知 <br><video src="https://video.twimg.com/amplify_video/1309430351479992321/vid/960x540/7IehirDdv4OK52gM.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EiwIkDmVkAA1WMg?format=jpg&name=orig" style="width: 100%"></video>
+
+### 17: [2020-09-26 06:15:09+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309617464813051906)
+
+福克斯报道了纽约警局共谍案，该警员与中共驻纽约领馆勾结，从事间谍活动<br>国务卿蓬佩奥说，纽约领事馆是中共间谍中心<br>纽约警局局长说，各部门协作彻查中共间谍和内鬼的行动早已开始<br>主持人玛丽亚评论道，中共正在渗透控制其他国家，中共已经大规模渗透到美国各领域 <br><video src="https://video.twimg.com/amplify_video/1309617126001373185/vid/960x540/Purfw4KLVVO7soZP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309617126001373185/img/xCqcPT2Jc5Upze5X.jpg" style="width: 100%"></video>
 
