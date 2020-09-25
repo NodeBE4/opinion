@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-24
+date: 2020-09-25
 from: https://twitter.com/GlobalHimalaya/status/1307726661157187585
 layout: post
 tags:
@@ -62,4 +62,16 @@ Re 对闫博士还有一丝怀疑的，请问问自己，如果她所说的不�
 ### 12: [2020-09-24 22:34:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309139191813623808)
 
 Re 福克斯著名主持人卢道博问：您认为中共有生物战部队，他们还有其他病毒可以释放吗？<br>#闫丽梦 博士：中共可以释放的病毒绝对不会只有这一种！<br><br>（节选2/2） <br><video src="https://video.twimg.com/ext_tw_video/1309139036007731212/pu/vid/960x540/DqurFSAv9uvWLVwS.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/media/Eir_rBvXcAgtYm8?format=jpg&name=orig" style="width: 100%"></video>
+
+### 13: [2020-09-25 07:54:59+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309280197997408261)
+
+⚡️联邦调查局长雷  在参议院情报委员会听证会发言，再次重申中国政府是美国最大威胁，没有之一！ <br><video src="https://video.twimg.com/amplify_video/1309280098839863296/vid/960x540/jDIjGGnSLZ9RdlZU.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309280098839863296/img/RxRz_H9QsT0JWmX4.jpg" style="width: 100%"></video>
+
+### 14: [2020-09-25 08:17:36+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309285889844162560)
+
+Re 勘误，1:08应为：我们今年平均每个月都要逮捕一名千人计划间谍
+
+### 15: [2020-09-25 08:20:03+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309286509187604480)
+
+🔥参议院情报委员会听证会上，联邦调查局长发言：<br>中国黑客的背后是中共政府，他们已经盗走了一半美国成年人的「个人可识别信息（PII）」 <br><video src="https://video.twimg.com/amplify_video/1309276236762492929/vid/960x540/2DeztoHdk2ikmhga.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309276236762492929/img/dm_-oo2I6GYWJnxY.jpg" style="width: 100%"></video>
 
