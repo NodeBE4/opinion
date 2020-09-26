@@ -83,3 +83,7 @@ Re 勘误，1:08应为：我们今年平均每个月都要逮捕一名千人计�
 
 福克斯报道了纽约警局共谍案，该警员与中共驻纽约领馆勾结，从事间谍活动<br>国务卿蓬佩奥说，纽约领事馆是中共间谍中心<br>纽约警局局长说，各部门协作彻查中共间谍和内鬼的行动早已开始<br>主持人玛丽亚评论道，中共正在渗透控制其他国家，中共已经大规模渗透到美国各领域 <br><video src="https://video.twimg.com/amplify_video/1309617126001373185/vid/960x540/Purfw4KLVVO7soZP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309617126001373185/img/xCqcPT2Jc5Upze5X.jpg" style="width: 100%"></video>
 
+### 18: [2020-09-26 11:34:19+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309697782614171649)
+
+冠博士对「江曾孟+习王+三个硬盘+拜登」事件，路德社 @ding_gang 已曝光部分的精彩总结<br><br>2分钟让您了解概况！<br><br>（片尾附送博博士@BoDiplo经典笑声） <br><video src="https://video.twimg.com/amplify_video/1309697064431804416/vid/960x540/610qNWUbvvRMEr4J.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309697064431804416/img/h4NVAgf5S_J811KH.jpg" style="width: 100%"></video>
+

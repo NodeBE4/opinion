@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-24
+date: 2020-09-26
 from: https://twitter.com/realcaixia/status/1307746491721814017
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极�
 ### 16: [2020-09-24 21:45:30+08:00 推文](https://twitter.com/realcaixia/status/1309126816339197954)
 
 中国最著名律师莫少平先生对任志强一案作了高度专业性的分析。 <br><br>DW 中文- 德国之声: 莫少平律师指出，过去也确实发生过被告原本在判决当天决定不上诉，但是后来又改变主意决定上诉的情况。所以，针对 #任志强 的判决是否生效，现年69岁的任志强是否要开始他18年的服刑生活，还需要等到2020年10月2日才能有所定论。<br><br><a href="https://p.dw.com/p/3itU4" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3itU4</a>
+
+### 17: [2020-09-26 12:12:43+08:00 推文](https://twitter.com/realcaixia/status/1309707450304561154)
+
+Re @David10102020 @RFI_Cn 非常感谢您的支持。
 
