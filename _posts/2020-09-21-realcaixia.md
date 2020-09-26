@@ -83,3 +83,7 @@ Re @FiGPLyDIVLUQumZ @lianchaohan 习是一个蠢到极点➕胆小懦弱到极�
 
 Re @David10102020 @RFI_Cn 非常感谢您的支持。
 
+### 18: [2020-09-26 21:09:22+08:00 推文](https://twitter.com/realcaixia/status/1309842501130485760)
+
+任志强重判18年, 中国时局里的政治逻辑(字幕)/Ren Zhiqiang Sentenced to 18 Years/王剑每日观察/20200922 <a href="https://youtu.be/2nom9hjU8mk" target="_blank" rel="noopener noreferrer">https://youtu.be/2nom9hjU8mk</a>
+
