@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-26
+date: 2020-09-27
 from: https://twitter.com/GlobalHimalaya/status/1307726661157187585
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re 勘误，1:08应为：我们今年平均每个月都要逮捕一名千人计�
 ### 18: [2020-09-26 11:34:19+08:00 推文](https://twitter.com/GlobalHimalaya/status/1309697782614171649)
 
 冠博士对「江曾孟+习王+三个硬盘+拜登」事件，路德社 @ding_gang 已曝光部分的精彩总结<br><br>2分钟让您了解概况！<br><br>（片尾附送博博士@BoDiplo经典笑声） <br><video src="https://video.twimg.com/amplify_video/1309697064431804416/vid/960x540/610qNWUbvvRMEr4J.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1309697064431804416/img/h4NVAgf5S_J811KH.jpg" style="width: 100%"></video>
+
+### 19: [2020-09-27 13:17:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1310086135683534848)
+
+冠博士@Guan_PhD 2分钟总结路德社@ding_gang今天震撼爆料！<br><br>关键词：<br>习近平 普京 拜登 美国大选 人类命运共同体 <br>岳欣禹 刘亦菲 <br><br>说关键也不那么关键说不关健也确实挺让人关注的词：<br>#十亿飞<br><br>欲知它们的后事如何办，且听路德社下回分解 <br><video src="https://video.twimg.com/amplify_video/1310085493795610624/vid/960x540/SBigkCWSZDiupPGc.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310085493795610624/img/XtLwSJq4XOUet0jc.jpg" style="width: 100%"></video>
 
