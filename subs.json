@@ -16,7 +16,7 @@
         "url": "http://www.youtube.com/feeds/videos.xml?playlist_id=UUGekZ_Ig4dP3NDcJCdOK6aA"
     },
     {
-        "site": "野兽爱智慧",
+        "site": "Matters",
         "url": "https://rsshub.app/matters/author/philosophia1979"
     },
     {
@@ -44,12 +44,16 @@
         "url": "https://stratechery.com/feed/"
     },
     {
-        "site": "NGOCN",
+        "site": "Matters",
         "url": "https://rsshub.app/matters/author/ngocncat"
     },
     {
-        "site": "春山出版",
+        "site": "Matters",
         "url": "https://rsshub.app/matters/author/springhill"
+    },
+    {
+        "site": "Matters",
+        "url": "https://rsshub.app/matters/author/gusa0601"
     },
     {
         "site": "蔷蔷",
