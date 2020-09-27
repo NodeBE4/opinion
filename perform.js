@@ -48,12 +48,17 @@ async function fetchFeedx(site, url) {
     }else{
       link = item.guid
     }
+    let author = site
+    if (item['author']){
+      author = item.author
+    }
     return {
       title: item.title.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),
       content: content.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),
       link: link,
       pubDate: Date.parse(item.pubDate),
-      site: site
+      site: site,
+      author: author
     }
   })
 }
@@ -76,7 +81,8 @@ async function fetchCDT() {
       link: item.link,
       guid: item.guid,
       pubDate: Date.parse(item.pubDate),
-      site: '中国数字时代'
+      site: '中国数字时代',
+      author: '中国数字时代'
     }
   })
 }
@@ -143,7 +149,7 @@ function generateArticle(article) {
 layout: post
 title: "${titletext}"
 date: ${dateString}
-author: ${article.site}
+author: ${article.author}
 from: ${articlelink}
 tags: [ ${article.site} ]
 categories: [ ${article.site} ]
