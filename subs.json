@@ -74,5 +74,9 @@
     {
         "site": "共识沙龙",
         "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=UU7edaZCmZEB1oynZJgDXO5Q"
+    },
+    {
+        "site": "RFA",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLhpxddL0HGm5b4NxdZ5TXTiuTlPfeyCub"
     }
 ]
