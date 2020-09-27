@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-26
+date: 2020-09-27
 from: https://twitter.com/realcaixia/status/1307746491721814017
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re @David10102020 @RFI_Cn 非常感谢您的支持。
 ### 18: [2020-09-26 21:09:22+08:00 推文](https://twitter.com/realcaixia/status/1309842501130485760)
 
 任志强重判18年, 中国时局里的政治逻辑(字幕)/Ren Zhiqiang Sentenced to 18 Years/王剑每日观察/20200922 <a href="https://youtu.be/2nom9hjU8mk" target="_blank" rel="noopener noreferrer">https://youtu.be/2nom9hjU8mk</a>
+
+### 19: [2020-09-27 20:47:42+08:00 推文](https://twitter.com/realcaixia/status/1310199437289979906)
+
+这个推特指出的事实不容忽视！保护潇男夫妇的基本权利.就是保护我们自己的人权。潇男夫妇以及每一个受到人权迫害的良心人士得不到正义声张，那么下一个被迫害的很可能就是监狱外的我们任何一个人。律师会见职权必须得到保障！我们再次呼吁：潇男夫妇无罪，释放潇男夫妇 <br><br>ZHANGDONG: 何止是贪污犯会受到虐待，良心犯更是如此！潇男夫妇已经被关押在拘留所整整19天了，当局以种种借口至今不让律师和当事人见面。很有可能不认罪就不许律师介入。再次强烈呼吁，尊重人权！还潇男人身自由！！ <br><a href="https://twitter.com/hrw_chinese/status/1309376339837845504" target="_blank" rel="noopener noreferrer">https://twitter.com/hrw_chinese/status/1309376339837845504</a>
 
