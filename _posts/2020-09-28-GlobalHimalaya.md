@@ -19,3 +19,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 ⚡️参议院国土安全委员会主席约翰逊<br>接受福克斯玛丽亚采访<br><br>谈完上星期发布的亨特拜登乌克兰报告后<br>约翰逊还“顺便”提到亨特与中共白手套之间的「上千万现金流」<br>他还强调，拜登想推脱他不知道亨特与中共之间的“生意”是不可能的<br>他认为这应该让拜登立即失去总统竞选资格 <br><video src="https://video.twimg.com/amplify_video/1310341899438309376/vid/960x540/qntuSjW5S0p6yd0f.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310341899438309376/img/abdb0XSnkyO8cTef.jpg" style="width: 100%"></video>
 
+### 2: [2020-09-28 08:24:24+08:00 推文](https://twitter.com/GlobalHimalaya/status/1310374766990168064)
+
+🔥🔥川普与朱利安尼刚刚一起出席了记者会，川普说：<br><br>除了已公布的15亿美元外，中共给了亨特·拜登更多的钱，非常多的钱<br>我们掌握了所有的信息，信息是刚刚获得的 <br><video src="https://video.twimg.com/amplify_video/1310374690922229760/vid/960x540/wV4qnSKZKcL1G4Ok.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310374690922229760/img/W-q8cpyI8Ynq6sWn.jpg" style="width: 100%"></video>
+
