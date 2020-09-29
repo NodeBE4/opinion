@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-28
+date: 2020-09-29
 from: https://twitter.com/GlobalHimalaya/status/1310342174270091264
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 ### 2: [2020-09-28 08:24:24+08:00 推文](https://twitter.com/GlobalHimalaya/status/1310374766990168064)
 
 🔥🔥川普与朱利安尼刚刚一起出席了记者会，川普说：<br><br>除了已公布的15亿美元外，中共给了亨特·拜登更多的钱，非常多的钱<br>我们掌握了所有的信息，信息是刚刚获得的 <br><video src="https://video.twimg.com/amplify_video/1310374690922229760/vid/960x540/wV4qnSKZKcL1G4Ok.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310374690922229760/img/W-q8cpyI8Ynq6sWn.jpg" style="width: 100%"></video>
+
+### 3: [2020-09-29 09:44:47+08:00 推文](https://twitter.com/GlobalHimalaya/status/1310757381924552704)
+
+⚡️蓬佩奥接受福克斯采访时直接说：<br><br>习近平总书记领导的中共是美国最大的威胁！ <br><video src="https://video.twimg.com/amplify_video/1310757261304766465/vid/960x540/XyjWyaOQTenD0N1s.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310757261304766465/img/jiHUWyPuBKg8ojKg.jpg" style="width: 100%"></video>
 
