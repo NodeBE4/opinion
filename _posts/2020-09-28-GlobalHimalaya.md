@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-29
+date: 2020-09-30
 from: https://twitter.com/GlobalHimalaya/status/1310342174270091264
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 ### 3: [2020-09-29 09:44:47+08:00 推文](https://twitter.com/GlobalHimalaya/status/1310757381924552704)
 
 ⚡️蓬佩奥接受福克斯采访时直接说：<br><br>习近平总书记领导的中共是美国最大的威胁！ <br><video src="https://video.twimg.com/amplify_video/1310757261304766465/vid/960x540/XyjWyaOQTenD0N1s.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310757261304766465/img/jiHUWyPuBKg8ojKg.jpg" style="width: 100%"></video>
+
+### 4: [2020-09-30 07:51:21+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311091223348740096)
+
+🔥🔥班农@WarRoomPandemic：<br>有充分的证据证明拜登家族与中共勾结，你们会看到证据的<br>班农还提到证据里包含亨特·拜登与华信和叶简明的“生意”<br>他还说，川普总统今晚的辩论一定会直击拜登与中共的勾结 <br><video src="https://video.twimg.com/amplify_video/1311090074122031104/vid/960x540/i39qScb9-7-1upkQ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311090074122031104/img/MsXfvGpyZbWfnJUT.jpg" style="width: 100%"></video>
+
+### 5: [2020-09-30 08:55:51+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311107455175122944)
+
+#闫丽梦 博士接受@LondonRealTV采访，回应阴谋论之说：<br><br>中共超出正常人的想象，我们不愿意相信，因为我们很善良<br>但真相只有一个：病毒是人造，是故意释放<br>p3p4实验室绝不可能无意泄漏如此致命的病毒<br><br>#LiMengYan <br><video src="https://video.twimg.com/amplify_video/1311099283479785473/vid/960x540/FPsJyXWmLOnzgzV5.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311099283479785473/img/2NBFaFYZ8KYxJkIX.jpg" style="width: 100%"></video>
 
