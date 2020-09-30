@@ -39,3 +39,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 病毒涉及到每个人的生命安全，没有人能置身事外<br>我个人不重要，我是信息传递人，每个人都可以验证我提供的信息，传播真相，采取行动<br>不要再浪费时间了！<br>我们的时间不多了！<br><br>— #闫丽梦 博士接受@LondonRealTV采访 <br><video src="https://video.twimg.com/amplify_video/1311109487105683456/vid/960x540/0N8nWMLmZNR18ckw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311109487105683456/img/o3p6R9P-rKRw32x_.jpg" style="width: 100%"></video>
 
+### 7: [2020-09-30 17:53:41+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311242808028782592)
+
+#郭文贵 先生对美国精英阶层的肺腑之言：<br><br>停止与中共勾兑吧！<br>命都快没了，还要黑心钱有什么用？<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1311242595197169664/pu/vid/960x540/k1jSfwOLublD9h2I.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1311242595197169664/pu/img/tWJIqjxqrq56-33X.jpg" style="width: 100%"></video>
+
