@@ -39,3 +39,7 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 
 中共国内天天打“内战”。一边是中共党、政府和富商，一边是无权无钱的平民百姓。中共党政府富商有权有钱有法律，平民百姓只有命。他们强拆民房强抢土地，逼得民众以命相拼。这样的人间惨剧在西方国家无法想象，却在中共国里天天都有！谁还为中共国欺压掠夺百姓而强词辩护，谁就是丧尽天良！ <br><br>鲁  难: 义乌又见强拆，只是被拆迁人不知道，强拆的手段已经不是以往的谈判、刁难为主，而是变成了直接硬拆。拆迁的主体已经转移为开发商，弄死人现在不再是社会问题而是用多少钱摆平的简单计算。国家需要房地产支撑，开发商需要尽快尽多的利润，在此背景下根本没有老百姓的位置。 <br><br><video src="https://video.twimg.com/ext_tw_video/1310997421388894213/pu/vid/368x640/syYFnsd9tWx_Tpbs.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1310997421388894213/pu/img/6hZIVMvugk4xinN2.jpg" style="width: 100%"></video>
 
+### 7: [2020-09-30 19:27:23+08:00 推文](https://twitter.com/realcaixia/status/1311266385406894080)
+
+潇男终于有了消息，律师见到了她。她受苦了。 <br><br>北明BeiMing: 自由亞洲最新編輯報導 <br><br><video src="https://video.twimg.com/ext_tw_video/1311243842797162497/pu/vid/480x480/HpIr36L8MR3SVeH4.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1311243842797162497/pu/img/HU5GD1OFwxofT95y.jpg" style="width: 100%"></video>
+
