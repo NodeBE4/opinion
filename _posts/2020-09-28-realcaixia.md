@@ -43,3 +43,7 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 
 潇男终于有了消息，律师见到了她。她受苦了。 <br><br>北明BeiMing: 自由亞洲最新編輯報導 <br><br><video src="https://video.twimg.com/ext_tw_video/1311243842797162497/pu/vid/480x480/HpIr36L8MR3SVeH4.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1311243842797162497/pu/img/HU5GD1OFwxofT95y.jpg" style="width: 100%"></video>
 
+### 8: [2020-09-30 20:37:22+08:00 推文](https://twitter.com/realcaixia/status/1311283998438588416)
+
+偶尔看到这照片。习怕被武汉新冠病毒传染，那所有参会的人就不会被传染？让所有参会被接见的人围成一个大圆圈，离他远远的，确保了他有足够安全距离，而参会人却因这样的位置排列设计，互相挨得紧紧的，丝毫不顾参会人安全距离。这张照片活脱脱展现出2点:1，习极怕死；2，习极自私，丝毫不考虑别人。 <br><br>Kevin B: 中共说得真是一点没错：<br><br>「14亿人民群众就是保护党和国家的铜墙铁壁」<br><br>这照片看起来就是把人民的血肉筑成新的长城啊。。。 <br><br><img src="https://pbs.twimg.com/media/Ehg3pIWUYAUU0kJ?format=png&name=orig" referrerpolicy="no-referrer">
+
