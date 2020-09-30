@@ -35,3 +35,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 #闫丽梦 博士接受@LondonRealTV采访，回应阴谋论之说：<br><br>中共超出正常人的想象，我们不愿意相信，因为我们很善良<br>但真相只有一个：病毒是人造，是故意释放<br>p3p4实验室绝不可能无意泄漏如此致命的病毒<br><br>#LiMengYan <br><video src="https://video.twimg.com/amplify_video/1311099283479785473/vid/960x540/FPsJyXWmLOnzgzV5.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311099283479785473/img/2NBFaFYZ8KYxJkIX.jpg" style="width: 100%"></video>
 
+### 6: [2020-09-30 09:25:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311114791214178309)
+
+病毒涉及到每个人的生命安全，没有人能置身事外<br>我个人不重要，我是信息传递人，每个人都可以验证我提供的信息，传播真相，采取行动<br>不要再浪费时间了！<br>我们的时间不多了！<br><br>— #闫丽梦 博士接受@LondonRealTV采访 <br><video src="https://video.twimg.com/amplify_video/1311109487105683456/vid/960x540/0N8nWMLmZNR18ckw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311109487105683456/img/o3p6R9P-rKRw32x_.jpg" style="width: 100%"></video>
+
