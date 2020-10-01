@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-01
+date: 2020-10-02
 from: https://twitter.com/realcaixia/status/1310391002902007808
 layout: post
 tags:
@@ -58,4 +58,16 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 ### 11: [2020-10-01 10:52:52+08:00 推文](https://twitter.com/realcaixia/status/1311499290846658560)
 
 哈！有意思！我不是领导，没法“肃清流毒”，但必须要在全国党校系统树个批斗靶子。对上，进一步向习表忠诚；对下，进一步恐吓全国党校人员。且搬个小板凳看这出闹剧丑剧如何演。也让50岁以下的国人长长见识，看看文革大批判是啥阵势。 <br><br>韩连潮: 【中央党校教授蔡霞遭大批判】据国内网友透露，中共已经在全国党校系统发起对前中央党校教授蔡霞的大批判，各个部门派代表上台声讨表态，此举表明蔡教授在中共党内的影响力，越批，她的正义声音和观点传播得越广！ <br><br><img src="https://pbs.twimg.com/media/EjK29Y_WkAA4SPP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2020-10-01 23:37:08+08:00 推文](https://twitter.com/realcaixia/status/1311691625865842689)
+
+今天，他们本来应该与家人团圆过中秋，但他们却被囚禁在极权独裁的监狱中。未来，历史将会把他们的名字奉进中华民族的先贤堂-…… <br><img src="https://pbs.twimg.com/media/EjQQkrTWoAAFKj9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjQQkrYXcAYwN3u?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjQQkrcXYAEhQmZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjQQkrdX0AAiatT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2020-10-02 00:20:12+08:00 推文](https://twitter.com/realcaixia/status/1311702463653785603)
+
+每逢佳节倍思亲，许多朋友在与家人团聚之日分外挂念潇男。潇男平时只踏实做事从不高调，她的人格魅力深深地吸引了各方各界朋友。因潇男蒙难，许多素不相识但都是潇男的朋友走到了一起。深深感动于潇男的豪侠正直善良，深深感动于朋友们对潇男挚真至诚的情谊，特推出中秋之际朋友思念潇男的几首短诗。 <br><img src="https://pbs.twimg.com/media/EjQabm5XsAAH4qH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjQabm5XkAAArI-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjQabm6WAAMlZtw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjQabnFWkAQ9CmV?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-10-02 00:28:09+08:00 推文](https://twitter.com/realcaixia/status/1311704464638779392)
+
+今天还是另外一个日子。我的一位好友思绪万千感慨不已，写了下面这首七律。 <br><img src="https://pbs.twimg.com/media/EjQcQaqWAAEoRqn?format=jpg&name=orig" referrerpolicy="no-referrer">
 
