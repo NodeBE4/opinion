@@ -47,3 +47,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 ⚡️蓬佩奥在罗马教廷讲话：<br>世界上最严重的宗教迫害正发生在中国<br>由于中共知道其政权缺乏合法性，他们迫害所有的信仰和自由，希望以此维护自己的“终极道德权威“<br><br>他号召罗马教廷起来捍卫「永恒真理」，对抗「邪恶政权」 <br><video src="https://video.twimg.com/amplify_video/1311462791165825024/vid/960x540/5FnNEGTwwc5PZQ56.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311462791165825024/img/bjpySZ1xle2E7fCp.jpg" style="width: 100%"></video>
 
+### 9: [2020-10-01 09:48:19+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311483047078813697)
+
+🔥🔥众议院「中国工作组」发布针对中共「邪恶全球计划」的对策报告<br><br>众议院共和党领袖麦卡锡和众议员麦克考都认为中共严重影响渗透了民主党和拜登<br>麦克考还直接说：病毒是中国制造的（the virus was made in China）<br>麦卡锡说：中共一定抓住了民主党的大把柄 <br><video src="https://video.twimg.com/amplify_video/1311481154197884928/vid/960x540/yVYo-_XDIoRoRUvY.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjNRP0HU0AEMes_?format=jpg&name=orig" style="width: 100%"></video>
+

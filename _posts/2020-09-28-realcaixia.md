@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-09-30
+date: 2020-10-01
 from: https://twitter.com/realcaixia/status/1310391002902007808
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 ### 8: [2020-09-30 20:37:22+08:00 推文](https://twitter.com/realcaixia/status/1311283998438588416)
 
 偶尔看到这照片。习怕被武汉新冠病毒传染，那所有参会的人就不会被传染？让所有参会被接见的人围成一个大圆圈，离他远远的，确保了他有足够安全距离，而参会人却因这样的位置排列设计，互相挨得紧紧的，丝毫不顾参会人安全距离。这张照片活脱脱展现出2点:1，习极怕死；2，习极自私，丝毫不考虑别人。 <br><br>Kevin B: 中共说得真是一点没错：<br><br>「14亿人民群众就是保护党和国家的铜墙铁壁」<br><br>这照片看起来就是把人民的血肉筑成新的长城啊。。。 <br><br><img src="https://pbs.twimg.com/media/Ehg3pIWUYAUU0kJ?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-10-01 09:25:25+08:00 推文](https://twitter.com/realcaixia/status/1311477285279666180)
+
+中秋阖家团圆，莫忘身陷天牢众英杰。任志强、耿潇男、许志永、丁家喜………以及众多知名与不知名的勇士-…… <br><img src="https://pbs.twimg.com/media/EjNNoXZX0AERO4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNNoXbXYAImUsK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNNoXeXsAAb3i-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNNoXcXsAIisET?format=jpg&name=orig" referrerpolicy="no-referrer">
 
