@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-09-30
+date: 2020-10-01
 from: https://twitter.com/GlobalHimalaya/status/1310342174270091264
 layout: post
 tags:
@@ -42,4 +42,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 ### 7: [2020-09-30 17:53:41+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311242808028782592)
 
 #郭文贵 先生对美国精英阶层的肺腑之言：<br><br>停止与中共勾兑吧！<br>命都快没了，还要黑心钱有什么用？<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1311242595197169664/pu/vid/960x540/k1jSfwOLublD9h2I.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1311242595197169664/pu/img/tWJIqjxqrq56-33X.jpg" style="width: 100%"></video>
+
+### 8: [2020-10-01 08:28:09+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311462874447966208)
+
+⚡️蓬佩奥在罗马教廷讲话：<br>世界上最严重的宗教迫害正发生在中国<br>由于中共知道其政权缺乏合法性，他们迫害所有的信仰和自由，希望以此维护自己的“终极道德权威“<br><br>他号召罗马教廷起来捍卫「永恒真理」，对抗「邪恶政权」 <br><video src="https://video.twimg.com/amplify_video/1311462791165825024/vid/960x540/5FnNEGTwwc5PZQ56.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311462791165825024/img/bjpySZ1xle2E7fCp.jpg" style="width: 100%"></video>
 
