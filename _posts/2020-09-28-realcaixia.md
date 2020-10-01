@@ -51,3 +51,11 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 
 中秋阖家团圆，莫忘身陷天牢众英杰。任志强、耿潇男、许志永、丁家喜………以及众多知名与不知名的勇士-…… <br><img src="https://pbs.twimg.com/media/EjNNoXZX0AERO4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNNoXbXYAImUsK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNNoXeXsAAb3i-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNNoXcXsAIisET?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2020-10-01 10:38:46+08:00 推文](https://twitter.com/realcaixia/status/1311495746173231109)
+
+这文是中国一轶名作者所写。他说：当前政治环境恶化如斯，不论置身体制内外，不论贫富贵贱，中国大陆全社会均进入到高压状态。许多人选择了忍气吞声，一部分人则义无反顾地发出独立的声音。耿潇男被刑拘，任志强被判重刑，但在追求自由法治的道路上，他们会激励更多人顶风冒雪继续前行。特节录部分推出 <br><img src="https://pbs.twimg.com/media/EjNeakLWAAAp97u?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNeakJWsAAK5Z-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNeakHXYAAr9lx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjNeakHXgAAFacJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-10-01 10:52:52+08:00 推文](https://twitter.com/realcaixia/status/1311499290846658560)
+
+哈！有意思！我不是领导，没法“肃清流毒”，但必须要在全国党校系统树个批斗靶子。对上，进一步向习表忠诚；对下，进一步恐吓全国党校人员。且搬个小板凳看这出闹剧丑剧如何演。也让50岁以下的国人长长见识，看看文革大批判是啥阵势。 <br><br>韩连潮: 【中央党校教授蔡霞遭大批判】据国内网友透露，中共已经在全国党校系统发起对前中央党校教授蔡霞的大批判，各个部门派代表上台声讨表态，此举表明蔡教授在中共党内的影响力，越批，她的正义声音和观点传播得越广！ <br><br><img src="https://pbs.twimg.com/media/EjK29Y_WkAA4SPP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
