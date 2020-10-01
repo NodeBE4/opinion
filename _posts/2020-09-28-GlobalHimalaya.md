@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-01
+date: 2020-10-02
 from: https://twitter.com/GlobalHimalaya/status/1310342174270091264
 layout: post
 tags:
@@ -54,4 +54,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 ### 10: [2020-10-01 17:57:56+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311606265848553472)
 
 班农：中共是犯罪集团、是黑帮组织、是非法政府，5个黑帮家族控制中国<br>朱利安尼：就像当年纽约的5个黑帮家族吗？<br>班农：是的，就像你用RICO法案灭掉的那5个家族<br>朱利安尼：呵呵…<br><br>班农还说，对拜登家族与中共勾结的调查才刚刚开始<br>班农再次强调，美国的敌人不是中国、不是中国人民，是中共黑帮 <br><video src="https://video.twimg.com/amplify_video/1311604687028641793/vid/960x540/9Ilw6lJ_6X-YpYPy.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjPCzPJU8AAnRCc?format=jpg&name=orig" style="width: 100%"></video>
+
+### 11: [2020-10-02 04:15:08+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311761586311159808)
+
+战斗室@WarRoomPandemic播放Miles Guo新歌<br><br>Dear Mamma, I Am Ending the CCP<br>亲爱的妈妈，我正在消灭中共<br><br>@RaheemKassam您太会玩儿了！ <br><video src="https://video.twimg.com/amplify_video/1311760717603770370/vid/960x540/njOV1WZyBlBLi3GZ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311760717603770370/img/QXOAUWVEhn1zeVi_.jpg" style="width: 100%"></video>
 

@@ -71,3 +71,11 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 
 今天还是另外一个日子。我的一位好友思绪万千感慨不已，写了下面这首七律。 <br><img src="https://pbs.twimg.com/media/EjQcQaqWAAEoRqn?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 15: [2020-10-02 02:27:09+08:00 推文](https://twitter.com/realcaixia/status/1311734413143703557)
+
+中国互联网平台已经成为极权意识形态欺骗民众的得力工具。 <br><br>郭于华: 载入史册 <br><a href="https://twitter.com/EricLiu_USA/status/1311383279166087170" target="_blank" rel="noopener noreferrer">https://twitter.com/EricLiu_USA/status/1311383279166087170</a>
+
+### 16: [2020-10-02 02:32:22+08:00 推文](https://twitter.com/realcaixia/status/1311735726669692929)
+
+国殇日，民众苦难日。兴，百姓苦；亡，百姓苦！ <br><br>郭于华: 💔🙏 <br><a href="https://twitter.com/ningli21/status/1311344745449312256" target="_blank" rel="noopener noreferrer">https://twitter.com/ningli21/status/1311344745449312256</a>
+
