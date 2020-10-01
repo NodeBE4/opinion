@@ -51,3 +51,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 🔥🔥众议院「中国工作组」发布针对中共「邪恶全球计划」的对策报告<br><br>众议院共和党领袖麦卡锡和众议员麦克考都认为中共严重影响渗透了民主党和拜登<br>麦克考还直接说：病毒是中国制造的（the virus was made in China）<br>麦卡锡说：中共一定抓住了民主党的大把柄 <br><video src="https://video.twimg.com/amplify_video/1311481154197884928/vid/960x540/yVYo-_XDIoRoRUvY.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjNRP0HU0AEMes_?format=jpg&name=orig" style="width: 100%"></video>
 
+### 10: [2020-10-01 17:57:56+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311606265848553472)
+
+班农：中共是犯罪集团、是黑帮组织、是非法政府，5个黑帮家族控制中国<br>朱利安尼：就像当年纽约的5个黑帮家族吗？<br>班农：是的，就像你用RICO法案灭掉的那5个家族<br>朱利安尼：呵呵…<br><br>班农还说，对拜登家族与中共勾结的调查才刚刚开始<br>班农再次强调，美国的敌人不是中国、不是中国人民，是中共黑帮 <br><video src="https://video.twimg.com/amplify_video/1311604687028641793/vid/960x540/9Ilw6lJ_6X-YpYPy.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjPCzPJU8AAnRCc?format=jpg&name=orig" style="width: 100%"></video>
+
