@@ -63,3 +63,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 ⚡️众议员斯科特·佩里提起议案，将中共定为「跨国犯罪组织」！<br>该法案将剥夺中共的主权豁免权，用RICO法案灭共<br>所有替中共工作的人（包括外交人员）一旦触犯该法，都要替中共坐牢<br><br>他说，我们要推翻中共的残暴统治！ <br><video src="https://video.twimg.com/amplify_video/1311817758175191041/vid/960x540/nPAuKRmnja4KVlCu.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311817758175191041/img/HghFFOJCAMPgSBmQ.jpg" style="width: 100%"></video>
 
+### 13: [2020-10-02 20:06:07+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312000910726361090)
+
+闫丽梦博士接受Newmax采访，直接说出：<br><br>要想灭毒，必先灭共！<br><br>主持人认为如果闫博士所说属实，中共犯有严重的战争罪<br>闫丽梦博士回应，这次攻击比一次核武器攻击的损害大多了 <br><video src="https://video.twimg.com/amplify_video/1312000424958861315/vid/960x540/Ap2aKq3pGzfaO9Ap.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjUpxxgVcAAWTb_?format=jpg&name=orig" style="width: 100%"></video>
+
