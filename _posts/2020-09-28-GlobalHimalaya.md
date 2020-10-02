@@ -59,3 +59,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 战斗室@WarRoomPandemic播放Miles Guo新歌<br><br>Dear Mamma, I Am Ending the CCP<br>亲爱的妈妈，我正在消灭中共<br><br>@RaheemKassam您太会玩儿了！ <br><video src="https://video.twimg.com/amplify_video/1311760717603770370/vid/960x540/njOV1WZyBlBLi3GZ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311760717603770370/img/QXOAUWVEhn1zeVi_.jpg" style="width: 100%"></video>
 
+### 12: [2020-10-02 07:59:54+08:00 推文](https://twitter.com/GlobalHimalaya/status/1311818150577487874)
+
+⚡️众议员斯科特·佩里提起议案，将中共定为「跨国犯罪组织」！<br>该法案将剥夺中共的主权豁免权，用RICO法案灭共<br>所有替中共工作的人（包括外交人员）一旦触犯该法，都要替中共坐牢<br><br>他说，我们要推翻中共的残暴统治！ <br><video src="https://video.twimg.com/amplify_video/1311817758175191041/vid/960x540/nPAuKRmnja4KVlCu.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1311817758175191041/img/HghFFOJCAMPgSBmQ.jpg" style="width: 100%"></video>
+
