@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-02
+date: 2020-10-03
 from: https://twitter.com/GlobalHimalaya/status/1310342174270091264
 layout: post
 tags:
@@ -66,4 +66,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 ### 13: [2020-10-02 20:06:07+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312000910726361090)
 
 闫丽梦博士接受Newmax采访，直接说出：<br><br>要想灭毒，必先灭共！<br><br>主持人认为如果闫博士所说属实，中共犯有严重的战争罪<br>闫丽梦博士回应，这次攻击比一次核武器攻击的损害大多了 <br><video src="https://video.twimg.com/amplify_video/1312000424958861315/vid/960x540/Ap2aKq3pGzfaO9Ap.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjUpxxgVcAAWTb_?format=jpg&name=orig" style="width: 100%"></video>
+
+### 14: [2020-10-03 07:32:55+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312173751316873216)
+
+川普总统推特发表讲话，表示感觉良好<br>随后他走出白宫，登上「海军陆战队一号」，前往沃尔特·里德医疗中心 <br><br>祝愿川普总统和夫人早日康复！ <br><video src="https://video.twimg.com/amplify_video/1312173326786129920/vid/960x540/akzU_-WRxfXWzeUD.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1312173326786129920/img/hQXgsJpA_rt-v2pJ.jpg" style="width: 100%"></video>
 
