@@ -71,3 +71,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 川普总统推特发表讲话，表示感觉良好<br>随后他走出白宫，登上「海军陆战队一号」，前往沃尔特·里德医疗中心 <br><br>祝愿川普总统和夫人早日康复！ <br><video src="https://video.twimg.com/amplify_video/1312173326786129920/vid/960x540/akzU_-WRxfXWzeUD.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1312173326786129920/img/hQXgsJpA_rt-v2pJ.jpg" style="width: 100%"></video>
 
+### 15: [2020-10-03 17:47:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312328287327313920)
+
+#闫丽梦 博士在战斗室 @WarRoomPandemic 曝光世卫组织参照实验室主任Malik Peiris在一月份至少两次秘密去了武汉。<br>闫博士是还曝光福奇反对氢氯奎，因为他跟中共和Peiris是好朋友 <br>「他自己心里清楚，我也知道」 <br><video src="https://video.twimg.com/amplify_video/1312268389058928640/vid/960x540/b-Z7_qs1DA7jctsU.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjYefCbU4AAhSOn?format=jpg&name=orig" style="width: 100%"></video>
+
