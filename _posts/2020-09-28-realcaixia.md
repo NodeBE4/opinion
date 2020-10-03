@@ -83,3 +83,7 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 
 向这位网友致以深深的敬意！公开具名发表意见书，无疑将自己置于危险之中，警察随时会抓他。这再次证明，强权压不垮自由意志！其次，《意见书》条分缕析，充分论证了强加于潇男的罪名不成立。再次，《意见书》点出了“非法经营罪”是“口袋罪”，是极权统治抓捕敢于反抗者的“合法”借口，“口袋罪”是恶法条款 <br><img src="https://pbs.twimg.com/media/EjaRlKgWoAEB1G0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjaRlKlXgAIRY__?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjaRlLKWkAMZcTw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 18: [2020-10-03 22:46:39+08:00 推文](https://twitter.com/realcaixia/status/1312403699491274752)
+
+刚把法律《意见书》转到推上，便看到了原来《意见书》已经被微信秒删！号称“依法治国”，实质是恶法制民。微信肆无忌惮地删除文章、封号封群，一再证明它是极权统治的工具，微信经营管理者是极权统治的凶恶打手。待到实现了宪政民主转型的那一天，必须把微信经营管理者押上审判台。 <br><br>ZHANGDONG: 法律学者认为，对耿潇男案的法律适用应遵循刑法谦抑原则。如此平和的一篇法律意见书，竟也遭到微信围追堵截封杀！ <br><br><img src="https://pbs.twimg.com/media/EjZfysOXcAAwbFw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjZfy8iWkAA-TZl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjZfzJIWkAE5gtk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjZfzXUWsAYwHjm?format=jpg&name=orig" referrerpolicy="no-referrer">
+
