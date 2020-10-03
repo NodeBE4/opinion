@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-02
+date: 2020-10-03
 from: https://twitter.com/realcaixia/status/1310391002902007808
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re 再看世界各国媒体和自媒体，纷纷质疑任志强被判刑一案�
 ### 16: [2020-10-02 02:32:22+08:00 推文](https://twitter.com/realcaixia/status/1311735726669692929)
 
 国殇日，民众苦难日。兴，百姓苦；亡，百姓苦！ <br><br>郭于华: 💔🙏 <br><a href="https://twitter.com/ningli21/status/1311344745449312256" target="_blank" rel="noopener noreferrer">https://twitter.com/ningli21/status/1311344745449312256</a>
+
+### 17: [2020-10-03 22:17:49+08:00 推文](https://twitter.com/realcaixia/status/1312396440094810112)
+
+向这位网友致以深深的敬意！公开具名发表意见书，无疑将自己置于危险之中，警察随时会抓他。这再次证明，强权压不垮自由意志！其次，《意见书》条分缕析，充分论证了强加于潇男的罪名不成立。再次，《意见书》点出了“非法经营罪”是“口袋罪”，是极权统治抓捕敢于反抗者的“合法”借口，“口袋罪”是恶法条款 <br><img src="https://pbs.twimg.com/media/EjaRlKgWoAEB1G0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjaRlKlXgAIRY__?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjaRlLKWkAMZcTw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
