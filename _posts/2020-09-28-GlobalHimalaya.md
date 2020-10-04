@@ -79,3 +79,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 
 ⚡️川普总统最新推特讲话：<br>我现在感觉良好，我要尽快回去工作<br>作为总统我必须毫无畏惧，直面问题<br>我不能为了自己不被感染，就只顾自己躲避<br>作为美国总统，我别无选择！ <br><video src="https://video.twimg.com/amplify_video/1312570579799601154/vid/960x540/Kx0WFAjatVnQsVGH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1312570579799601154/img/_-nCVNkc_l8PjgJO.jpg" style="width: 100%"></video>
 
+### 17: [2020-10-04 17:56:23+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312693037626081287)
+
+朱利安尼接受福克斯采访，直接说：<br>川普总统遭到中国的袭击（attack）！<br><br>朱利安尼还透露，川普在电话中告诉他，他现在就可以出院，只是工作人员为了以防万一，不让他出院 <br><video src="https://video.twimg.com/amplify_video/1312691968418299904/vid/960x540/Qzw8FVE8RXxqygrE.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjefPlAUwAEdVG0?format=jpg&name=orig" style="width: 100%"></video>
+
