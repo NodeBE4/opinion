@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-03
+date: 2020-10-04
 from: https://twitter.com/GlobalHimalaya/status/1310342174270091264
 layout: post
 tags:
@@ -74,4 +74,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-28~2020-10-04'
 ### 15: [2020-10-03 17:47:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312328287327313920)
 
 #闫丽梦 博士在战斗室 @WarRoomPandemic 曝光世卫组织参照实验室主任Malik Peiris在一月份至少两次秘密去了武汉。<br>闫博士是还曝光福奇反对氢氯奎，因为他跟中共和Peiris是好朋友 <br>「他自己心里清楚，我也知道」 <br><video src="https://video.twimg.com/amplify_video/1312268389058928640/vid/960x540/b-Z7_qs1DA7jctsU.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EjYefCbU4AAhSOn?format=jpg&name=orig" style="width: 100%"></video>
+
+### 16: [2020-10-04 09:50:24+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312570736339427328)
+
+⚡️川普总统最新推特讲话：<br>我现在感觉良好，我要尽快回去工作<br>作为总统我必须毫无畏惧，直面问题<br>我不能为了自己不被感染，就只顾自己躲避<br>作为美国总统，我别无选择！ <br><video src="https://video.twimg.com/amplify_video/1312570579799601154/vid/960x540/Kx0WFAjatVnQsVGH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1312570579799601154/img/_-nCVNkc_l8PjgJO.jpg" style="width: 100%"></video>
 
