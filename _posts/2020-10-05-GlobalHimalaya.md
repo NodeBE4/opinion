@@ -31,3 +31,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 
 川普总统出院！ <br><video src="https://video.twimg.com/ext_tw_video/1313254352191016960/pu/vid/960x540/iU6BEfrP9mwpdr8Y.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1313254352191016960/pu/img/XoglwQ8Ch8kWNRFF.jpg" style="width: 100%"></video>
 
+### 5: [2020-10-06 10:53:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313311267000520705)
+
+川普总统敬军礼，长达20多秒<br>开始战斗了！ <br><video src="https://video.twimg.com/amplify_video/1313310978243616773/vid/960x540/WxSa4nXSXYZJQheP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313310978243616773/img/7CE7Y3N4FoUmDeQm.jpg" style="width: 100%"></video>
+
