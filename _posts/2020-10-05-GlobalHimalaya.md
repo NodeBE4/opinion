@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-06
+date: 2020-10-07
 from: https://twitter.com/GlobalHimalaya/status/1312885561372278784
 layout: post
 tags:
@@ -34,4 +34,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 ### 5: [2020-10-06 10:53:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313311267000520705)
 
 川普总统敬军礼，长达20多秒<br>开始战斗了！ <br><video src="https://video.twimg.com/amplify_video/1313310978243616773/vid/960x540/WxSa4nXSXYZJQheP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313310978243616773/img/7CE7Y3N4FoUmDeQm.jpg" style="width: 100%"></video>
+
+### 6: [2020-10-07 06:01:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313600292554825728)
+
+班农先生接受福克斯玛丽亚采访，再次说 #CCPVirus （#中共病毒）<br>他说，这个病毒来自于中国共产党！<br><br>他还认为川普总统在投票日当晚一定会大胜，但之后民主党会用各种手段试图翻盘，但是川普一定会取得最后胜利<br><br>几乎在同一时刻，班农和朱利安尼分别在电视采访和推特上说出 #CCPVirus ，仅仅是巧合吗？ <br><video src="https://video.twimg.com/amplify_video/1313600025558020096/vid/960x540/QxvjRoS0ZbAGdoWK.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313600025558020096/img/EfIFGwn0a65rqacK.jpg" style="width: 100%"></video>
 
