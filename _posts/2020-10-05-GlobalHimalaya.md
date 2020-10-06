@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-05
+date: 2020-10-06
 from: https://twitter.com/GlobalHimalaya/status/1312885561372278784
 layout: post
 tags:
@@ -26,4 +26,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 ### 3: [2020-10-05 08:28:13+08:00 推文](https://twitter.com/GlobalHimalaya/status/1312912442553364481)
 
 川普总统最新报平安视频<br>看精气神，恢复的太快了！<br><br>随后川普总统问候了医院外的支持者，在车里向他们挥手致谢 <br><video src="https://video.twimg.com/amplify_video/1312911812992540672/vid/960x540/KhXTi8QwiRJYpQvS.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1312911812992540672/img/cNfJsJJyWS7XMv35.jpg" style="width: 100%"></video>
+
+### 4: [2020-10-06 07:07:35+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313254536971083777)
+
+川普总统出院！ <br><video src="https://video.twimg.com/ext_tw_video/1313254352191016960/pu/vid/960x540/iU6BEfrP9mwpdr8Y.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1313254352191016960/pu/img/XoglwQ8Ch8kWNRFF.jpg" style="width: 100%"></video>
 
