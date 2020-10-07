@@ -43,3 +43,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 
 蓬佩奥访日，参加「美日印澳」四方安全对话<br>蓬佩奥说，专制独裁的中共隐瞒病毒真相，关押噤声本国公民<br>我们四国必须紧密合作，共同抵御中国共产党的邪恶输出、腐败和强权 <br><video src="https://video.twimg.com/amplify_video/1313604375982403586/vid/960x540/dc6T5KH7hmKDZEFj.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313604375982403586/img/7yq0Rkgk6LVAGQv7.jpg" style="width: 100%"></video>
 
+### 8: [2020-10-07 18:02:34+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313781755518709760)
+
+#闫丽梦 博士再次接受福克斯收视率第一主持人塔克卡尔森采访<br>闫博士说，中共抓了她63岁的母亲和家人，目的是威胁她、让她噤声。中共什么都干得出来，根本不需要任何理由。<br>中共还大肆庆祝川普总统感染<br><br>（第1部分） <br><video src="https://video.twimg.com/amplify_video/1313780723451523073/vid/960x540/jlXhwNjMI5wcJeAw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ejt9XI2UYAAtZW4?format=jpg&name=orig" style="width: 100%"></video>
+
