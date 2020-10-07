@@ -47,3 +47,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 
 #闫丽梦 博士再次接受福克斯收视率第一主持人塔克卡尔森采访<br>闫博士说，中共抓了她63岁的母亲和家人，目的是威胁她、让她噤声。中共什么都干得出来，根本不需要任何理由。<br>中共还大肆庆祝川普总统感染<br><br>（第1部分） <br><video src="https://video.twimg.com/amplify_video/1313780723451523073/vid/960x540/jlXhwNjMI5wcJeAw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ejt9XI2UYAAtZW4?format=jpg&name=orig" style="width: 100%"></video>
 
+### 9: [2020-10-07 19:11:07+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313799006812688384)
+
+Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，这次母亲被抓的原因就因为她接受了福克斯卢道博和卡尔森的采访<br>第一篇和第二篇科学报告都已经得到美国官方专家评审和支持，而那些所谓的科学组织却没有发声<br>她还透露第二篇科学报告即将发布 <br><video src="https://video.twimg.com/ext_tw_video/1313798953473765376/pu/vid/960x540/RoXJmOCihAyUsbW8.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1313798953473765376/pu/img/uyuNg5rh3GR8lnzl.jpg" style="width: 100%"></video>
+
