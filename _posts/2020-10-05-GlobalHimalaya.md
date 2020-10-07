@@ -39,3 +39,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 
 班农先生接受福克斯玛丽亚采访，再次说 #CCPVirus （#中共病毒）<br>他说，这个病毒来自于中国共产党！<br><br>他还认为川普总统在投票日当晚一定会大胜，但之后民主党会用各种手段试图翻盘，但是川普一定会取得最后胜利<br><br>几乎在同一时刻，班农和朱利安尼分别在电视采访和推特上说出 #CCPVirus ，仅仅是巧合吗？ <br><video src="https://video.twimg.com/amplify_video/1313600025558020096/vid/960x540/QxvjRoS0ZbAGdoWK.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313600025558020096/img/EfIFGwn0a65rqacK.jpg" style="width: 100%"></video>
 
+### 7: [2020-10-07 07:35:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313623824185913346)
+
+蓬佩奥访日，参加「美日印澳」四方安全对话<br>蓬佩奥说，专制独裁的中共隐瞒病毒真相，关押噤声本国公民<br>我们四国必须紧密合作，共同抵御中国共产党的邪恶输出、腐败和强权 <br><video src="https://video.twimg.com/amplify_video/1313604375982403586/vid/960x540/dc6T5KH7hmKDZEFj.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313604375982403586/img/7yq0Rkgk6LVAGQv7.jpg" style="width: 100%"></video>
+
