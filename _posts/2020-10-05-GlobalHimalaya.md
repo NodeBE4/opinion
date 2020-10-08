@@ -59,3 +59,7 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 🔥班农先生@WarRoomPandemic明确灭共决心！<br><br>他们为什么这么恨我们？<br>就是因为我们把中国和中共分开<br>把中国人民和中共分开！<br>中共是黑帮，是纳粹，是恶魔<br>必须消灭中共！ <br><video src="https://video.twimg.com/amplify_video/1314001181572689922/vid/960x540/BUiX4FM1l44LABVv.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314001181572689922/img/FR4bGGvE5_t2xeb6.jpg" style="width: 100%"></video>
 
+### 12: [2020-10-08 11:20:10+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314042878310543360)
+
+福克斯塔克.卡尔森昨天采访 #闫丽梦 博士，是三大新闻台中全天收视率最高的节目。其收视率比同时段的CNN和MSNBC总和还要高！ <br><img src="https://pbs.twimg.com/media/EjxqL2EUwAAw-Hp?format=png&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjxqL2EVgAIJAZW?format=png&name=orig" referrerpolicy="no-referrer">
+
