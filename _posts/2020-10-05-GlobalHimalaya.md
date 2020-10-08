@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-07
+date: 2020-10-08
 from: https://twitter.com/GlobalHimalaya/status/1312885561372278784
 layout: post
 tags:
@@ -50,4 +50,12 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 ### 9: [2020-10-07 19:11:07+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313799006812688384)
 
 Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，这次母亲被抓的原因就因为她接受了福克斯卢道博和卡尔森的采访<br>第一篇和第二篇科学报告都已经得到美国官方专家评审和支持，而那些所谓的科学组织却没有发声<br>她还透露第二篇科学报告即将发布 <br><video src="https://video.twimg.com/ext_tw_video/1313798953473765376/pu/vid/960x540/RoXJmOCihAyUsbW8.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1313798953473765376/pu/img/uyuNg5rh3GR8lnzl.jpg" style="width: 100%"></video>
+
+### 10: [2020-10-08 08:08:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1313994685904424961)
+
+⚡️川普最新讲话：<br>这是中国的错，中国将为此付出沉重的代价 <br><video src="https://video.twimg.com/amplify_video/1313994118977130496/vid/960x540/dqTV0kzO9y-OJXpt.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1313994118977130496/img/KuXN_n8g7FZMBZzw.jpg" style="width: 100%"></video>
+
+### 11: [2020-10-08 08:35:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314001405535895552)
+
+🔥班农先生@WarRoomPandemic明确灭共决心！<br><br>他们为什么这么恨我们？<br>就是因为我们把中国和中共分开<br>把中国人民和中共分开！<br>中共是黑帮，是纳粹，是恶魔<br>必须消灭中共！ <br><video src="https://video.twimg.com/amplify_video/1314001181572689922/vid/960x540/BUiX4FM1l44LABVv.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314001181572689922/img/FR4bGGvE5_t2xeb6.jpg" style="width: 100%"></video>
 

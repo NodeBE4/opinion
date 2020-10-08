@@ -27,3 +27,7 @@ title: '蔡霞 的 Twitter: 2020-10-05~2020-10-11'
 
 22年前中国政府代表在联合国总部签署了《公民权利和政治权利国际公约》，22年来中共国人大始终没有批准这个《公约》；相反，22年来中共国人权状况愈亦恶劣。<br>在联合国193个会员国中，截至2010年底，《公民权利和政治权利国际公约》已有167个缔约国。这从另一个角度显示出中共与中共国制度反人类的本质 <br><br>ZHANGDONG: 是啊，一等就是22年，在等什么？两种可能：1,还没想好拒批的借口，2,等待人们遗忘这回事。所以大家要时时提醒政府，提醒每一届人大代表。 <br><a href="https://twitter.com/liu_xiaoyuan/status/1313028946963779584" target="_blank" rel="noopener noreferrer">https://twitter.com/liu_xiaoyuan/status/1313028946963779584</a>
 
+### 4: [2020-10-08 07:47:31+08:00 推文](https://twitter.com/realcaixia/status/1313989364167438337)
+
+<a href="https://p.dw.com/p/3jXPf?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3jXPf?maca=zh-Twitter-sharing</a>
+
