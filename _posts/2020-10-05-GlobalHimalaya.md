@@ -63,3 +63,11 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 福克斯塔克.卡尔森昨天采访 #闫丽梦 博士，是三大新闻台中全天收视率最高的节目。其收视率比同时段的CNN和MSNBC总和还要高！ <br><img src="https://pbs.twimg.com/media/EjxqL2EUwAAw-Hp?format=png&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EjxqL2EVgAIJAZW?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 13: [2020-10-08 23:34:25+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314227656129347585)
+
+著名的财经博主「零对冲」说：<br><br>闫博士上一个推号2天内被封，这次会是几天呢？ <br><br>zerohedge: Her last account was suspended in less than 2 days. How long will it take this time <br><a href="https://twitter.com/DrLiMengYAN1/status/1314191600571031557" target="_blank" rel="noopener noreferrer">https://twitter.com/DrLiMengYAN1/status/1314191600571031557</a>
+
+### 14: [2020-10-08 23:38:14+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314228616633348097)
+
+#闫丽梦 博士第二篇科学报告已经在zenodo发布，可以在此下载：<br><br><br>这是闫博士唯一推号，欢迎大家关注 <br><br>Dr. Li-Meng YAN: My second scientific report is published in zenodo.<br><br>This is the only account in Twitter for Dr. Li-Meng YAN. <br><br><img src="https://pbs.twimg.com/media/EjzySnVWAAInXLR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
