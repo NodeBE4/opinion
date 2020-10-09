@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-08
+date: 2020-10-09
 from: https://twitter.com/GlobalHimalaya/status/1312885561372278784
 layout: post
 tags:
@@ -70,4 +70,8 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 ### 14: [2020-10-08 23:38:14+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314228616633348097)
 
 #闫丽梦 博士第二篇科学报告已经在zenodo发布，可以在此下载：<br><br><br>这是闫博士唯一推号，欢迎大家关注 <br><br>Dr. Li-Meng YAN: My second scientific report is published in zenodo.<br><br>This is the only account in Twitter for Dr. Li-Meng YAN. <br><br><img src="https://pbs.twimg.com/media/EjzySnVWAAInXLR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2020-10-09 08:22:15+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314360492836622336)
+
+🔥班农说，如果川普总统输了大选，唯一的原因就是没有对中共病毒追责！<br><br>对于 #闫丽梦 博士刚刚发布的第二篇报告<br>他说，如果闫博士的报告理由充分(make her case)，这就是中共对美国的战争行为<br>中共已经对中国人民开战<br>已经对美国开战！<br>10个月过去了，还没有进入武汉实验室调查，这是不可接受的 <br><video src="https://video.twimg.com/amplify_video/1314359907823435776/vid/960x540/xBA1U9E-7qkF6IdC.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314359907823435776/img/9n5wpMAZEhpz0_qU.jpg" style="width: 100%"></video>
 
