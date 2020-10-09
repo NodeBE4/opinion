@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-09
+date: 2020-10-10
 from: https://twitter.com/GlobalHimalaya/status/1312885561372278784
 layout: post
 tags:
@@ -74,4 +74,12 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 ### 15: [2020-10-09 08:22:15+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314360492836622336)
 
 🔥班农说，如果川普总统输了大选，唯一的原因就是没有对中共病毒追责！<br><br>对于 #闫丽梦 博士刚刚发布的第二篇报告<br>他说，如果闫博士的报告理由充分(make her case)，这就是中共对美国的战争行为<br>中共已经对中国人民开战<br>已经对美国开战！<br>10个月过去了，还没有进入武汉实验室调查，这是不可接受的 <br><video src="https://video.twimg.com/amplify_video/1314359907823435776/vid/960x540/xBA1U9E-7qkF6IdC.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314359907823435776/img/9n5wpMAZEhpz0_qU.jpg" style="width: 100%"></video>
+
+### 16: [2020-10-10 00:39:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314606381941444609)
+
+「没事儿，我也有清单...」<br>咱们拉-清-单!<br><br>#闫丽梦 博士@DrLiMengYAN1第二篇科学报告下载链接🔗：<br><a href="https://zenodo.org/record/4073131" target="_blank" rel="noopener noreferrer">https://zenodo.org/record/4073131</a><br><video src="https://video.twimg.com/ext_tw_video/1314605306438017024/pu/vid/960x540/Wi4gIoke3oX5ZSL9.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1314605306438017024/pu/img/OH37hc5UuP_rSXOI.jpg" style="width: 100%"></video>
+
+### 17: [2020-10-10 01:41:53+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314622122854019072)
+
+「中共，你不管做什么<br>直到你杀掉我之前的那一刻<br>我都会去揭露真相！」<br><br>#闫丽梦 博士@DrLiMengYAN1第二篇科学报告下载链接🔗<br><a href="http://zenodo.org/record/4073131" target="_blank" rel="noopener noreferrer">http://zenodo.org/record/4073131</a><br><video src="https://video.twimg.com/amplify_video/1314612553872408577/vid/960x540/KI5IQ4J8WykJ_1FY.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314612553872408577/img/aBcz-nwS180MVown.jpg" style="width: 100%"></video>
 
