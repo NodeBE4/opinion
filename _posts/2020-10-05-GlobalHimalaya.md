@@ -87,3 +87,7 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 蓬佩奥最新采访说，中共屏蔽辩论会上彭斯发言的部分，这足以表明中共的本质<br>他透露，美澳印日四国会谈的目的就是建立国际联盟，共同对抗中共的威胁 <br><video src="https://video.twimg.com/amplify_video/1314721756049858564/vid/960x540/guXWTm5hc8B74rm3.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314721756049858564/img/4tW4m5Rzw6pOBE0r.jpg" style="width: 100%"></video>
 
+### 19: [2020-10-10 17:48:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314865254157836288)
+
+川普最新福克斯采访说：<br><br>这个病毒是从 … 出来的 （came to us out of ...）<br>我现在还不能告诉你们<br>也许未来我能精确地向大家报告为什么这个病毒会来到我们这里 <br><video src="https://video.twimg.com/amplify_video/1314838182450524160/vid/960x540/X4RMssdGdL01PEm3.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ej8-m-zVgAAdIcz?format=jpg&name=orig" style="width: 100%"></video>
+
