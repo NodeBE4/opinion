@@ -83,3 +83,7 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 「中共，你不管做什么<br>直到你杀掉我之前的那一刻<br>我都会去揭露真相！」<br><br>#闫丽梦 博士@DrLiMengYAN1第二篇科学报告下载链接🔗<br><a href="http://zenodo.org/record/4073131" target="_blank" rel="noopener noreferrer">http://zenodo.org/record/4073131</a><br><video src="https://video.twimg.com/amplify_video/1314612553872408577/vid/960x540/KI5IQ4J8WykJ_1FY.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314612553872408577/img/aBcz-nwS180MVown.jpg" style="width: 100%"></video>
 
+### 18: [2020-10-10 08:20:56+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314722548253224961)
+
+蓬佩奥最新采访说，中共屏蔽辩论会上彭斯发言的部分，这足以表明中共的本质<br>他透露，美澳印日四国会谈的目的就是建立国际联盟，共同对抗中共的威胁 <br><video src="https://video.twimg.com/amplify_video/1314721756049858564/vid/960x540/guXWTm5hc8B74rm3.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1314721756049858564/img/4tW4m5Rzw6pOBE0r.jpg" style="width: 100%"></video>
+
