@@ -91,3 +91,7 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 川普最新福克斯采访说：<br><br>这个病毒是从 … 出来的 （came to us out of ...）<br>我现在还不能告诉你们<br>也许未来我能精确地向大家报告为什么这个病毒会来到我们这里 <br><video src="https://video.twimg.com/amplify_video/1314838182450524160/vid/960x540/X4RMssdGdL01PEm3.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ej8-m-zVgAAdIcz?format=jpg&name=orig" style="width: 100%"></video>
 
+### 20: [2020-10-10 18:54:09+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314881904106110982)
+
+主持人问蓬佩奥，川普总统说要让中国为病毒付出沉重代价，什么时候宣布？什么代价？怎么一直说，不见行动？<br><br>蓬佩奥说，他不能在总统之前透露<br>但他强调中共对此负有直接责任，全世界都已经了认清中共本性，并与美国联合，共同对抗中共 <br><video src="https://video.twimg.com/amplify_video/1314879178089492482/vid/960x540/Mb9pzZN3z4EBQipi.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ej9mAXxU0AAV5hZ?format=jpg&name=orig" style="width: 100%"></video>
+
