@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-10
+date: 2020-10-11
 from: https://twitter.com/GlobalHimalaya/status/1312885561372278784
 layout: post
 tags:
@@ -94,4 +94,8 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 ### 20: [2020-10-10 18:54:09+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314881904106110982)
 
 主持人问蓬佩奥，川普总统说要让中国为病毒付出沉重代价，什么时候宣布？什么代价？怎么一直说，不见行动？<br><br>蓬佩奥说，他不能在总统之前透露<br>但他强调中共对此负有直接责任，全世界都已经了认清中共本性，并与美国联合，共同对抗中共 <br><video src="https://video.twimg.com/amplify_video/1314879178089492482/vid/960x540/Mb9pzZN3z4EBQipi.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ej9mAXxU0AAV5hZ?format=jpg&name=orig" style="width: 100%"></video>
+
+### 21: [2020-10-11 07:13:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315067963007885312)
+
+班农先生战斗室炸裂演讲🔥🔥🔥<br><br>面对美国暗势力与中共的狼狈为奸，操纵华尔街，拖延疫情问责，班大爷拍案震怒！<br><br>班农直面镜头说，我一点也不畏惧，我们将在历史留下光辉，因为我们与天使同行，中共与魔鬼共舞<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1315067458160525312/vid/960x540/YpZai5XrGXrzUhfJ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315067458160525312/img/eSn-3z7lhooZucLZ.jpg" style="width: 100%"></video>
 
