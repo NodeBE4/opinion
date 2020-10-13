@@ -43,3 +43,11 @@ Re 3，中共强化极权统治的一个重要标志就是警察头子提升官�
 
 Re 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。
 
+### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
+
+Re @zfb468590 谢谢您看的仔细。
+
+### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
+
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
+
