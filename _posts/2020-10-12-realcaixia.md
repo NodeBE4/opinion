@@ -51,3 +51,7 @@ Re @zfb468590 谢谢您看的仔细。
 
 Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
+
+看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。 <br><br>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ: @realcaixia <br><br><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video>
+
