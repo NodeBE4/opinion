@@ -1,0 +1,16 @@
+---
+layout: post
+title: "前日晚上，Matters 举办的自由读书会系周保松读罗尔斯（John Rawls）的《正义论》（A Theory of Justice）。虽然周的普通话说得很好，却还是不如讲广东话自然，"
+date: 2020-10-13T10:47:43.000Z
+author: The Sociologist
+from: https://t.me/thesoc/387
+tags: [ The Sociologist ]
+categories: [ The Sociologist ]
+---
+<!--1602586063000-->
+[前日晚上，Matters 举办的自由读书会系周保松读罗尔斯（John Rawls）的《正义论》（A Theory of Justice）。虽然周的普通话说得很好，却还是不如讲广东话自然，...](https://t.me/thesoc/387)
+------
+
+<div>
+<p>前日晚上，Matters 举办的<a href="https://matters.news/@hi176/%E8%87%AA%E7%94%B1%E8%88%87%E6%AD%A3%E7%BE%A9-%E4%B8%89%E5%95%8F%E5%8F%8A-%E8%87%AA%E7%94%B1%E8%AE%80%E6%9B%B8%E6%9C%83-%E7%AC%AC%E4%B8%89%E5%A0%B4-%E5%91%A8%E4%BF%9D%E6%9D%BE%E8%AE%80%E7%BE%85%E7%88%BE%E6%96%AF-bafyreidtj773tjxfxjwrxjck2voglt5ccsj5kpxcabmtaw4rjviwyfvyhi" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">自由读书会</a>系<a href="https://t.me/thesoc/278" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">周保松</a>读罗尔斯（John Rawls）的《正义论》（<a href="https://t.me/thesoclib/16" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">A Theory of Justice</a>）。虽然周的普通话说得很好，却还是不如讲<a href="https://youtu.be/_HndnUcgnL8" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">广东话</a>自然，哲思讨论也因为语言和不稳定网络稍显艰难，最终讨论了五个多钟头，直至子夜。<br><br>周也简要提及三本重要的对 Rawls 的批判的著述。一本是 Robert Nozick 的 <a href="https://t.me/thesoclib/94" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Anarchy, State, and Utopia</a>。并非 Rawls 的自由主义，而是以自由意志主义（libertarianism）为出发。不过 Nozick 也认同了 Rawls 的这部 <i>A Theory of Justice</i> 提出的理论设想成为政治哲学绕不开的议题。<br><br>一本是 Michael Sandel 的 <a href="https://t.me/thesoclib/95" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Liberalism and the Limits of Justice</a>。Sandel 最出名的或许是他讲正义的<a href="https://justiceharvard.org/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">公开课程</a>，但他在学术场名气的基础其实是对 Rawls 批判的这部书。Sandel 的理论源头来自亚里士多德与黑格尔，对 Rawls 建立在个人主义的自我概念与对公民理性的期待不同，是一种强调国家政治团体的以培养公民参与公共生活的社群主义（communitarianism）。<br><br>最后一本是 G. A. Cohen 的 <a href="https://t.me/thesoclib/96" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Rescuing Justice and Equality</a>。Cohen 与 Rawls 的主要分歧在于分配正义（distributive justice），也是周在导读中着重提到两条原则中的第二条 (1971: 302)，即差异原则（difference principle），简单说是需要通过制度安排，另弱势群体获得相对公平的起跑线。这也涉及到运气与公正的问题，但在共读中未有提及。<br><br>除了这三本，也提及在价值与观念与 Rawls 不同，仿佛隔空喊话的的一本施特劳斯的 <a href="https://t.me/thesoclib/97" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">Natural Right and History</a>，以及中译本甘阳作序的<a href="https://site.douban.com/162358/widget/notes/8717941/note/586112058/" target="_blank" rel="noopener" onclick="return confirm('Open this link?\n\n'+this.href);">如何阅读《自然权利与历史》</a>一文。<br><br>最后周读了一段 Rawls 书中感性的一段，结合自身经历与过往香港社会脉络变迁感触颇多。<br><br></p><pre>Once we love we are vulnerable: there is no such thing as loving while being ready to consider whether to love, just like that. And the loves that may hurt the least are not the best loves. When we love we accept the dangers of injury and loss.<br></pre> (1971: 573)<br><br>周也反复提及，自己陷入了「为何要自由」的迷惘，仿佛这一段话可以令他暂时纾解。但这或许是近百年来社会科学中形上学思考的缺位。<p></p>
+</div>
