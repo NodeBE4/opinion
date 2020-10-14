@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-13
+date: 2020-10-14
 from: https://twitter.com/realcaixia/status/1315777621666467840
 layout: post
 tags:
@@ -54,4 +54,8 @@ Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/m
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
 看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。 <br><br>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ: @realcaixia <br><br><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video>
+
+### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
+
+最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
 
