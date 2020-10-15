@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-14
+date: 2020-10-15
 from: https://twitter.com/realcaixia/status/1315777621666467840
 layout: post
 tags:
@@ -58,4 +58,12 @@ Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/m
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
 最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
+
+Re @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！
+
+### 13: [2020-10-15 23:03:54+08:00 推文](https://twitter.com/realcaixia/status/1316756691510325248)
+
+有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！特再推。 <br><br>韩连潮: 【五中全会欲结新朋党？】以下信息为国内网友转来，真实性无法确认，试翻译如下：歧山因病下课；李强接副（副总理？国家副主席？）并兼上海书记；黄坤明接王沪宁；王小红接公安部长；蔡琦可能去全国政协；李小鹏接手善（首善：首都市委书记，但没有最后定）五中全会主要内容。请读者自判。 <br><br><img src="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig" referrerpolicy="no-referrer">
 

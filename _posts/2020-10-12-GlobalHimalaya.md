@@ -39,3 +39,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 🔥班农：这不是普通的腐败或说谎，「拜登家族是国家安全的重大威胁」！<br><br>朱利安尼说，我们获得的材料包括1000多张照片，从「高度不当」到「严重违法」。他说，中共早就拥有这些材料了<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1316521473171886080/vid/960x540/6goLSnoY0kbiVqle.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316521473171886080/img/3blCwR9s2csybNET.jpg" style="width: 100%"></video>
 
+### 7: [2020-10-15 18:27:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316687094916374535)
+
+#蓬佩奥 最新新闻发布会：<br>谈美国联合全世界对抗中共的一些举措 <br><video src="https://video.twimg.com/amplify_video/1316686752677990407/vid/960x540/LlYNEMXT6-hsVdgA.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXPy3pVoAERc3g?format=jpg&name=orig" style="width: 100%"></video>
+
+### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
+
+福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
+
