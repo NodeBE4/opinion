@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-15
+date: 2020-10-16
 from: https://twitter.com/GlobalHimalaya/status/1315414967596666880
 layout: post
 tags:
@@ -46,4 +46,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
 福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
+
+### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
+
+⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前 <br><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video>
 
