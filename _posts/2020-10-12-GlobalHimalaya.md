@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-16
+date: 2020-10-17
 from: https://twitter.com/GlobalHimalaya/status/1315414967596666880
 layout: post
 tags:
@@ -50,4 +50,12 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
 ⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前 <br><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video>
+
+### 10: [2020-10-17 06:03:31+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317224681145921536)
+
+#闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a>
+
+### 11: [2020-10-17 06:05:05+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317225077390278656)
+
+Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原文作者及任何专业人士审阅，仅供参考
 
