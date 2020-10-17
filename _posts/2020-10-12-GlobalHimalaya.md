@@ -59,3 +59,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原文作者及任何专业人士审阅，仅供参考
 
+### 12: [2020-10-17 07:52:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317252150804631553)
+
+朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘 <br><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video>
+
+### 13: [2020-10-17 08:16:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317258020645003264)
+
+⚡️班农福克斯激情演讲：<br>拜登家族案是世界上最大的丑闻<br>拜登对着全世界睁眼撒谎<br>拜登是一个为中共渗透并在美国洗钱铺路的典型代表<br>拜登家族每年从中共获得上千万美元收入，都是中国老百姓的血汗钱！ <br><video src="https://video.twimg.com/amplify_video/1317256268164202496/vid/960x540/XfXZS7KITXBOLJBH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317256268164202496/img/k68ANdfgIS2nXWnN.jpg" style="width: 100%"></video>
+
