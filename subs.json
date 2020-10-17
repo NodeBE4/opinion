@@ -86,5 +86,21 @@
     {
         "site": "RFA",
         "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLhpxddL0HGm5b4NxdZ5TXTiuTlPfeyCub"
+    },
+    {
+        "site": "Matters",
+        "url": "https://rsshub.app/matters/author/aotujingdoc"
+    },
+    {
+        "site": "Matters",
+        "url": "https://rsshub.app/matters/author/mafang"
+    },
+    {
+        "site": "Matters",
+        "url": "https://rsshub.app/matters/author/kmchan"
+    },
+    {
+        "site": "Matters",
+        "url": "https://rsshub.app/matters/author/tianguowawa"
     }
 ]
