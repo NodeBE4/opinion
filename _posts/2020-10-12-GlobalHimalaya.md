@@ -21,15 +21,15 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 2: [2020-10-12 07:32:12+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315435059394953216)
 
-主持人问川普，国防部为什么建立「不明飞行物（UFO）工作组」，真的有UFO吗？<br>川普没有肯定，也没有否定，只是说他要了解一下。但他接着说美国的军队和武器空前强大，他祈求上帝永远不会用到 <br><video src="https://video.twimg.com/amplify_video/1315432668721344513/vid/960x540/rdX6TYCknnCclEU9.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315432668721344513/img/BWSIVHsAGHLam5ug.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  主持人问川普，国防部为什么建立「不明飞行物（UFO）工作组」，真的有UFO吗？<br>川普没有肯定，也没有否定，只是说他要了解一下。但他接着说美国的军队和武器空前强大，他祈求上帝永远不会用到<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315432668721344513/vid/960x540/rdX6TYCknnCclEU9.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315432668721344513/img/BWSIVHsAGHLam5ug.jpg" style="width: 100%"></video><hr><small>10/12/2020, 7:32:12 AM</small>
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  路德社 @ding_gang 两个多星期前就已经爆出了拜登硬盘事件。再一次 #站在未来说现在的历史<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/HimalayaGlobal"><img align="left" src="https://pbs.twimg.com/profile_images/1191936683853393921/yDKLFF8I_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>Himalaya Global</strong></a>:  Bombshell… 3 hard disk drives of videos and dossier of Hunter Biden’s connections with the Chinese Communist Party (CCP) have been sent to Nancy Pelosi and DOJ.  Big money and sex scandal! may come out soon according to Youtuber media Lude @ding_gang <br><br>#WhereIsHunter<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1310679391198834688/vid/960x540/GocU2ZD_sH_k77H_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310679391198834688/img/tv4w9u_9AjZrdVoS.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/HimalayaGlobal/status/1310723464341286912" target="_blank" rel="noopener noreferrer">https://twitter.com/HimalayaGlobal/status/1310723464341286912</a></small><br><small>9/29/2020, 7:30:00 AM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/15/2020, 3:18:42 AM</small>
+路德社 @ding_gang 两个多星期前就已经爆出了拜登硬盘事件。再一次 #站在未来说现在的历史 <br><br>Himalaya Global: Bombshell… 3 hard disk drives of videos and dossier of Hunter Biden’s connections with the Chinese Communist Party (CCP) have been sent to Nancy Pelosi and DOJ.  Big money and sex scandal! may come out soon according to Youtuber media Lude @ding_gang <br><br>#WhereIsHunter <br><br><video src="https://video.twimg.com/amplify_video/1310679391198834688/vid/960x540/GocU2ZD_sH_k77H_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310679391198834688/img/tv4w9u_9AjZrdVoS.jpg" style="width: 100%"></video>
 
 ### 5: [2020-10-15 07:26:53+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316520886418120704)
 
@@ -41,7 +41,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 7: [2020-10-15 18:27:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316687094916374535)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #蓬佩奥 最新新闻发布会：<br>谈美国联合全世界对抗中共的一些举措<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316686752677990407/vid/960x540/LlYNEMXT6-hsVdgA.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXPy3pVoAERc3g?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:27:20 PM</small>
+#蓬佩奥 最新新闻发布会：<br>谈美国联合全世界对抗中共的一些举措 <br><video src="https://video.twimg.com/amplify_video/1316686752677990407/vid/960x540/LlYNEMXT6-hsVdgA.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXPy3pVoAERc3g?format=jpg&name=orig" style="width: 100%"></video>
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
@@ -61,11 +61,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 12: [2020-10-17 07:52:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317252150804631553)
 
-朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘 <br><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video><hr><small>10/17/2020, 7:52:40 AM</small>
 
 ### 13: [2020-10-17 08:16:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317258020645003264)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  ⚡️班农福克斯激情演讲：<br>拜登家族案是世界上最大的丑闻<br>拜登对着全世界睁眼撒谎<br>拜登是一个为中共渗透并在美国洗钱铺路的典型代表<br>拜登家族每年从中共获得上千万美元收入，都是中国老百姓的血汗钱！<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317256268164202496/vid/960x540/XfXZS7KITXBOLJBH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317256268164202496/img/k68ANdfgIS2nXWnN.jpg" style="width: 100%"></video><hr><small>10/17/2020, 8:16:00 AM</small>
+⚡️班农福克斯激情演讲：<br>拜登家族案是世界上最大的丑闻<br>拜登对着全世界睁眼撒谎<br>拜登是一个为中共渗透并在美国洗钱铺路的典型代表<br>拜登家族每年从中共获得上千万美元收入，都是中国老百姓的血汗钱！ <br><video src="https://video.twimg.com/amplify_video/1317256268164202496/vid/960x540/XfXZS7KITXBOLJBH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317256268164202496/img/k68ANdfgIS2nXWnN.jpg" style="width: 100%"></video>
 
 ### 14: [2020-10-18 06:31:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317594003865444352)
 
@@ -73,5 +73,5 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 
-作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video><hr><small>10/18/2020, 8:59:57 AM</small>
 
