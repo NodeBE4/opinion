@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-15
+date: 2020-10-18
 from: https://twitter.com/realcaixia/status/1315777621666467840
 layout: post
 tags:
@@ -45,7 +45,7 @@ Re 4，这意味着，中国自上而下通过强化警察在政府系统中的�
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-Re @zfb468590 谢谢您看的仔细。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
@@ -57,7 +57,7 @@ Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/m
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
-最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/14/2020, 8:37:45 AM</small>
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 
@@ -65,5 +65,13 @@ Re @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人�
 
 ### 13: [2020-10-15 23:03:54+08:00 推文](https://twitter.com/realcaixia/status/1316756691510325248)
 
-有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！特再推。 <br><br>韩连潮: 【五中全会欲结新朋党？】以下信息为国内网友转来，真实性无法确认，试翻译如下：歧山因病下课；李强接副（副总理？国家副主席？）并兼上海书记；黄坤明接王沪宁；王小红接公安部长；蔡琦可能去全国政协；李小鹏接手善（首善：首都市委书记，但没有最后定）五中全会主要内容。请读者自判。 <br><br><img src="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！特再推。<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/lianchaohan"><img align="left" src="https://pbs.twimg.com/profile_images/1066380930183516161/sqLkirNc_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>韩连潮</strong></a>:  【五中全会欲结新朋党？】以下信息为国内网友转来，真实性无法确认，试翻译如下：歧山因病下课；李强接副（副总理？国家副主席？）并兼上海书记；黄坤明接王沪宁；王小红接公安部长；蔡琦可能去全国政协；李小鹏接手善（首善：首都市委书记，但没有最后定）五中全会主要内容。请读者自判。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig" referrerpolicy="no-referrer"></a><br><small>Source: <a href="https://twitter.com/lianchaohan/status/1316714818913669121" target="_blank" rel="noopener noreferrer">https://twitter.com/lianchaohan/status/1316714818913669121</a></small><br><small>10/15/2020, 8:17:30 PM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/15/2020, 11:03:54 PM</small>
+
+### 14: [2020-10-18 20:42:39+08:00 推文](https://twitter.com/realcaixia/status/1317808310570176513)
+
+赵紫阳在6.4事件中坚持良知的底线，达到他政治人格完整的最高点，赵紫阳在被软禁的十多年里，达到他思想认识的最高点。回顾赵紫阳的整个人生历程，越接近生命的最后时刻，越绽放他生命的光彩！赵紫阳与胡耀邦一样，“是人民的紫阳！” <br><br>仇志榮: 今天是已故中共前總書記趙紫陽夫婦骨灰下葬一週年。趙紫陽部分家屬早上到北京郊區的墓地拜祭。 <br><br><img src="https://pbs.twimg.com/media/Eklf5cmVcAE0yhB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eklf5cnVgAAhSpb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eklf5cmVcAA5X3k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Eklf5cmUcAE9szs?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2020-10-18 21:30:08+08:00 推文](https://twitter.com/realcaixia/status/1317820257919209473)
+
+这是墙内朋友在群里传发的。这些中共“网评队伍”人员翻墙出来在推特上、在油管上污言秽语谩骂，热衷人身攻击而讲不出道理的，在真实生活中里究竟是些什么人。特转发于此。 <br><img src="https://pbs.twimg.com/media/EknWidRXYAIv1Kb?format=jpg&name=orig" referrerpolicy="no-referrer">
 

@@ -10,7 +10,7 @@ tags:
 title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-05~2020-10-11'
 ---
 
-喜马拉雅国际工作站致力於衝破語言和文化屏障，成為溝通爆料革命與西方的橋樑。喜站唯一中文號專注於中文原創內容及翻譯西方世界與爆料革命相關報導，力求迅速、準確、貼切地傳達信息。GTV: https://t.co/LnPmkEfdth, English account: @HimalayaGlobal 
+喜马拉雅国际工作站致力於衝破語言和文化屏障，成為溝通爆料革命與西方的橋樑。喜站唯一中文號專注於中文原創內容及翻譯西方世界與爆料革命相關報導，力求迅速、準確、貼切地傳達信息。GTV: https://t.co/LnPmkDXCBJ, English account: @HimalayaGlobal 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -93,7 +93,7 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 ### 20: [2020-10-10 18:54:09+08:00 推文](https://twitter.com/GlobalHimalaya/status/1314881904106110982)
 
-主持人问蓬佩奥，川普总统说要让中国为病毒付出沉重代价，什么时候宣布？什么代价？怎么一直说，不见行动？<br><br>蓬佩奥说，他不能在总统之前透露<br>但他强调中共对此负有直接责任，全世界都已经了认清中共本性，并与美国联合，共同对抗中共 <br><video src="https://video.twimg.com/amplify_video/1314879178089492482/vid/960x540/Mb9pzZN3z4EBQipi.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ej9mAXxU0AAV5hZ?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  主持人问蓬佩奥，川普总统说要让中国为病毒付出沉重代价，什么时候宣布？什么代价？怎么一直说，不见行动？<br><br>蓬佩奥说，他不能在总统之前透露<br>但他强调中共对此负有直接责任，全世界都已经了认清中共本性，并与美国联合，共同对抗中共<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1314879178089492482/vid/960x540/Mb9pzZN3z4EBQipi.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ej9mAXxU0AAV5hZ?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/10/2020, 6:54:09 PM</small>
 
 ### 21: [2020-10-11 07:13:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315067963007885312)
 

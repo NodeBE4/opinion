@@ -10,7 +10,7 @@ tags:
 title: '喜馬拉雅國際工作站 的 Twitter: 2020-09-21~2020-09-27'
 ---
 
-喜马拉雅国际工作站致力於衝破語言和文化屏障，成為溝通爆料革命與西方的橋樑。喜站唯一中文號專注於中文原創內容及翻譯西方世界與爆料革命相關報導，力求迅速、準確、貼切地傳達信息。GTV: https://t.co/LnPmkEfdth, English account: @HimalayaGlobal 
+喜马拉雅国际工作站致力於衝破語言和文化屏障，成為溝通爆料革命與西方的橋樑。喜站唯一中文號專注於中文原創內容及翻譯西方世界與爆料革命相關報導，力求迅速、準確、貼切地傳達信息。GTV: https://t.co/LnPmkDXCBJ, English account: @HimalayaGlobal 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
