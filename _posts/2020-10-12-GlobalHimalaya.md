@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-17
+date: 2020-10-18
 from: https://twitter.com/GlobalHimalaya/status/1315414967596666880
 layout: post
 tags:
@@ -66,4 +66,12 @@ Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原�
 ### 13: [2020-10-17 08:16:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317258020645003264)
 
 ⚡️班农福克斯激情演讲：<br>拜登家族案是世界上最大的丑闻<br>拜登对着全世界睁眼撒谎<br>拜登是一个为中共渗透并在美国洗钱铺路的典型代表<br>拜登家族每年从中共获得上千万美元收入，都是中国老百姓的血汗钱！ <br><video src="https://video.twimg.com/amplify_video/1317256268164202496/vid/960x540/XfXZS7KITXBOLJBH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317256268164202496/img/k68ANdfgIS2nXWnN.jpg" style="width: 100%"></video>
+
+### 14: [2020-10-18 06:31:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317594003865444352)
+
+路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br><br><br>Himalaya Global: Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse! <br><br><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video>
+
+### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
+
+作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video>
 
