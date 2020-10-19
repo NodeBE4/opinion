@@ -25,7 +25,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
@@ -37,7 +37,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 6: [2020-10-15 08:05:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316530476887101440)
 
-🔥班农：这不是普通的腐败或说谎，「拜登家族是国家安全的重大威胁」！<br><br>朱利安尼说，我们获得的材料包括1000多张照片，从「高度不当」到「严重违法」。他说，中共早就拥有这些材料了<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1316521473171886080/vid/960x540/6goLSnoY0kbiVqle.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316521473171886080/img/3blCwR9s2csybNET.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  🔥班农：这不是普通的腐败或说谎，「拜登家族是国家安全的重大威胁」！<br><br>朱利安尼说，我们获得的材料包括1000多张照片，从「高度不当」到「严重违法」。他说，中共早就拥有这些材料了<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316521473171886080/vid/960x540/6goLSnoY0kbiVqle.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316521473171886080/img/3blCwR9s2csybNET.jpg" style="width: 100%"></video><hr><small>10/15/2020, 8:05:00 AM</small>
 
 ### 7: [2020-10-15 18:27:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316687094916374535)
 
@@ -45,7 +45,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
-福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:57:49 PM</small>
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
@@ -57,7 +57,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 11: [2020-10-17 06:05:05+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317225077390278656)
 
-Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原文作者及任何专业人士审阅，仅供参考
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  🔁 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原文作者及任何专业人士审阅，仅供参考<hr><small>10/17/2020, 6:05:05 AM</small>
 
 ### 12: [2020-10-17 07:52:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317252150804631553)
 
@@ -69,7 +69,7 @@ Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原�
 
 ### 14: [2020-10-18 06:31:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317594003865444352)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/HimalayaGlobal"><img align="left" src="https://pbs.twimg.com/profile_images/1191936683853393921/yDKLFF8I_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>Himalaya Global</strong></a>:  Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse!<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/HimalayaGlobal/status/1317592030818676737" target="_blank" rel="noopener noreferrer">https://twitter.com/HimalayaGlobal/status/1317592030818676737</a></small><br><small>10/18/2020, 6:23:14 AM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/18/2020, 6:31:04 AM</small>
+路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br><br><br>Himalaya Global: Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse! <br><br><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video>
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 
