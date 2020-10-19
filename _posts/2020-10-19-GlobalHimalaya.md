@@ -23,3 +23,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 
 ⚡️参议员约翰逊最新采访，未排除亨特.拜登的电脑里有虐童证据！<br>他说，我现在不能作更多评论，未来几天会透露<br><br>他还说硬盘里有拜登家族与中共和解放军的紧密关系，这是严重的国家安全威胁，仅表面证据，就比对川普通俄虚假指控严重几个数量级！<br><br>玛丽亚和约翰逊还谈到共有三个硬盘(笔记本电脑） <br><video src="https://video.twimg.com/amplify_video/1317965384977317889/vid/960x540/kUzyAPiUQQ3eHy_w.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317965384977317889/img/ZnFa1bPJrODDiky6.jpg" style="width: 100%"></video>
 
+### 3: [2020-10-19 18:00:14+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318129823709949953)
+
+班农 @WarRoomPandemic ：更多的信息和证据接踵而来证明拜登说谎！<br><br>拜登对内出卖美国安全，对外跟中共独裁者狼狈为奸、吞噬无辜中国人民的民脂民膏。<br>这些钱分分带血，它们来自于强拆的教堂、监狱里的穆斯林和西藏被压迫的僧侣…拜登家族偷了中国人民的钱！ <br><video src="https://video.twimg.com/amplify_video/1318126790011879425/vid/960x540/FWq--7e_5QxCVkEK.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ekrtey-U0AEuLCm?format=jpg&name=orig" style="width: 100%"></video>
+
