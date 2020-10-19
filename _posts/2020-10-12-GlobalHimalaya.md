@@ -17,7 +17,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 1: [2020-10-12 06:12:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315414967596666880)
 
-川普总统最新福克斯采访透露，将公布更多「令人震惊（breathtaking）」的文档，比希拉里邮件和通俄门更重磅。他说，我可以告诉你，我们发现的事情，没有人敢相信<br><br>当主持人玛丽亚问关于哪方面的文档时，川普说，涉及面非常广（it is about everything） <br><video src="https://video.twimg.com/amplify_video/1315414571360817153/vid/960x540/lKqdSqrVnNiqeyUe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315414571360817153/img/brStFJaWV8jJVDBL.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  川普总统最新福克斯采访透露，将公布更多「令人震惊（breathtaking）」的文档，比希拉里邮件和通俄门更重磅。他说，我可以告诉你，我们发现的事情，没有人敢相信<br><br>当主持人玛丽亚问关于哪方面的文档时，川普说，涉及面非常广（it is about everything）<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315414571360817153/vid/960x540/lKqdSqrVnNiqeyUe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315414571360817153/img/brStFJaWV8jJVDBL.jpg" style="width: 100%"></video><hr><small>10/12/2020, 6:12:22 AM</small>
 
 ### 2: [2020-10-12 07:32:12+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315435059394953216)
 
@@ -25,7 +25,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
+#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
@@ -33,11 +33,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 5: [2020-10-15 07:26:53+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316520886418120704)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  🔥拜登硬盘事件发酵！福克斯玛丽亚邀请班农先生解读<br>班农说，拜登有「严重的国家安全问题」！这只是冰山一角，更多更惊人的与外国政府关系的内幕将被揭露<br>而FBI去年12月就已经掌握这些信息了，但他们毫无行动，这是国家级的丑闻！<br><br>在蓬佩奥国务院新闻发布会上，记者也问到这个重磅新闻<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316520141652287489/vid/960x540/JV_t2ECxqrBszRcl.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316520141652287489/img/Y3kLKfn-zY_fhLw2.jpg" style="width: 100%"></video><hr><small>10/15/2020, 7:26:53 AM</small>
+🔥拜登硬盘事件发酵！福克斯玛丽亚邀请班农先生解读<br>班农说，拜登有「严重的国家安全问题」！这只是冰山一角，更多更惊人的与外国政府关系的内幕将被揭露<br>而FBI去年12月就已经掌握这些信息了，但他们毫无行动，这是国家级的丑闻！<br><br>在蓬佩奥国务院新闻发布会上，记者也问到这个重磅新闻 <br><video src="https://video.twimg.com/amplify_video/1316520141652287489/vid/960x540/JV_t2ECxqrBszRcl.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316520141652287489/img/Y3kLKfn-zY_fhLw2.jpg" style="width: 100%"></video>
 
 ### 6: [2020-10-15 08:05:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316530476887101440)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  🔥班农：这不是普通的腐败或说谎，「拜登家族是国家安全的重大威胁」！<br><br>朱利安尼说，我们获得的材料包括1000多张照片，从「高度不当」到「严重违法」。他说，中共早就拥有这些材料了<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316521473171886080/vid/960x540/6goLSnoY0kbiVqle.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316521473171886080/img/3blCwR9s2csybNET.jpg" style="width: 100%"></video><hr><small>10/15/2020, 8:05:00 AM</small>
+🔥班农：这不是普通的腐败或说谎，「拜登家族是国家安全的重大威胁」！<br><br>朱利安尼说，我们获得的材料包括1000多张照片，从「高度不当」到「严重违法」。他说，中共早就拥有这些材料了<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1316521473171886080/vid/960x540/6goLSnoY0kbiVqle.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316521473171886080/img/3blCwR9s2csybNET.jpg" style="width: 100%"></video>
 
 ### 7: [2020-10-15 18:27:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316687094916374535)
 
@@ -45,7 +45,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:57:49 PM</small>
+福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
@@ -61,11 +61,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 12: [2020-10-17 07:52:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317252150804631553)
 
-朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘 <br><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video><hr><small>10/17/2020, 7:52:40 AM</small>
 
 ### 13: [2020-10-17 08:16:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317258020645003264)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  ⚡️班农福克斯激情演讲：<br>拜登家族案是世界上最大的丑闻<br>拜登对着全世界睁眼撒谎<br>拜登是一个为中共渗透并在美国洗钱铺路的典型代表<br>拜登家族每年从中共获得上千万美元收入，都是中国老百姓的血汗钱！<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317256268164202496/vid/960x540/XfXZS7KITXBOLJBH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317256268164202496/img/k68ANdfgIS2nXWnN.jpg" style="width: 100%"></video><hr><small>10/17/2020, 8:16:00 AM</small>
+⚡️班农福克斯激情演讲：<br>拜登家族案是世界上最大的丑闻<br>拜登对着全世界睁眼撒谎<br>拜登是一个为中共渗透并在美国洗钱铺路的典型代表<br>拜登家族每年从中共获得上千万美元收入，都是中国老百姓的血汗钱！ <br><video src="https://video.twimg.com/amplify_video/1317256268164202496/vid/960x540/XfXZS7KITXBOLJBH.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317256268164202496/img/k68ANdfgIS2nXWnN.jpg" style="width: 100%"></video>
 
 ### 14: [2020-10-18 06:31:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317594003865444352)
 
