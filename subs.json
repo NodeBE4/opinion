@@ -84,6 +84,10 @@
         "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLhpxddL0HGm5b4NxdZ5TXTiuTlPfeyCub"
     },
     {
+        "site": "RFA",
+        "url": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLhpxddL0HGm5JTHft3No5LndiezQSfVE5"
+    },
+    {
         "site": "Matters",
         "url": "https://rsshub.app/matters/author/aotujingdoc"
     },
