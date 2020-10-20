@@ -17,7 +17,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 1: [2020-10-12 06:12:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315414967596666880)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  川普总统最新福克斯采访透露，将公布更多「令人震惊（breathtaking）」的文档，比希拉里邮件和通俄门更重磅。他说，我可以告诉你，我们发现的事情，没有人敢相信<br><br>当主持人玛丽亚问关于哪方面的文档时，川普说，涉及面非常广（it is about everything）<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315414571360817153/vid/960x540/lKqdSqrVnNiqeyUe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315414571360817153/img/brStFJaWV8jJVDBL.jpg" style="width: 100%"></video><hr><small>10/12/2020, 6:12:22 AM</small>
+川普总统最新福克斯采访透露，将公布更多「令人震惊（breathtaking）」的文档，比希拉里邮件和通俄门更重磅。他说，我可以告诉你，我们发现的事情，没有人敢相信<br><br>当主持人玛丽亚问关于哪方面的文档时，川普说，涉及面非常广（it is about everything） <br><video src="https://video.twimg.com/amplify_video/1315414571360817153/vid/960x540/lKqdSqrVnNiqeyUe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315414571360817153/img/brStFJaWV8jJVDBL.jpg" style="width: 100%"></video>
 
 ### 2: [2020-10-12 07:32:12+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315435059394953216)
 
@@ -45,7 +45,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
-福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:57:49 PM</small>
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
@@ -69,7 +69,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 14: [2020-10-18 06:31:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317594003865444352)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/HimalayaGlobal"><img align="left" src="https://pbs.twimg.com/profile_images/1191936683853393921/yDKLFF8I_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>Himalaya Global</strong></a>:  Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse!<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/HimalayaGlobal/status/1317592030818676737" target="_blank" rel="noopener noreferrer">https://twitter.com/HimalayaGlobal/status/1317592030818676737</a></small><br><small>10/18/2020, 6:23:14 AM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/18/2020, 6:31:04 AM</small>
+路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br><br><br>Himalaya Global: Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse! <br><br><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video>
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 

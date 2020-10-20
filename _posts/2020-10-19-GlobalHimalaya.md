@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-20
+date: 2020-10-21
 from: https://twitter.com/GlobalHimalaya/status/1317951463998418945
 layout: post
 tags:
@@ -30,4 +30,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 ### 4: [2020-10-20 07:43:44+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318337063553437696)
 
 国家情报总监拉特克利夫，是除总统外能看到最多情报的官员，他今天接受福克斯采访时确认:<br><br>亨特.拜登的硬盘不是俄罗斯的虚假信息！<br>一些政客为了政治目的歪曲事实<br>美国老百姓都明白 <br><video src="https://video.twimg.com/amplify_video/1318336617359101952/vid/960x540/zt5GbJjovNnDSdZR.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1318336617359101952/img/r4g2nqoVtUThP4Jy.jpg" style="width: 100%"></video>
+
+### 5: [2020-10-21 03:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318640381525774336)
+
+#闫丽梦 博士 @DrLiMengYAN1 第一篇科学报告（中文修订版）<br><br>《SARS-CoV-2基因组的不寻常特征表明，该基因组是经过复杂的实验室改造而非自然进化的，并描述了其可能的合成途径》<br><br><a href="https://drive.google.com/file/d/1vZ0vbPJ9QAhGDjna9pkMxqUHhIdakODW/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1vZ0vbPJ9QAhGDjna9pkMxqUHhIdakODW/view?usp=sharing</a>
 
