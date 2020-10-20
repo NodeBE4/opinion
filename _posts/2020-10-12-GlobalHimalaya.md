@@ -25,7 +25,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
+#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
@@ -53,7 +53,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 10: [2020-10-17 06:03:31+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317224681145921536)
 
-#闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a><hr><small>10/17/2020, 6:03:31 AM</small>
 
 ### 11: [2020-10-17 06:05:05+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317225077390278656)
 
@@ -73,5 +73,5 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video><hr><small>10/18/2020, 8:59:57 AM</small>
+作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video>
 
