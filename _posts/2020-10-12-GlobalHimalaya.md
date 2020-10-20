@@ -25,7 +25,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
@@ -45,15 +45,15 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:57:49 PM</small>
+福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  ⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video><hr><small>10/16/2020, 7:36:57 AM</small>
+⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前 <br><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video>
 
 ### 10: [2020-10-17 06:03:31+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317224681145921536)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a><hr><small>10/17/2020, 6:03:31 AM</small>
+#闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a>
 
 ### 11: [2020-10-17 06:05:05+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317225077390278656)
 
@@ -73,5 +73,5 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 
-作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video><hr><small>10/18/2020, 8:59:57 AM</small>
 
