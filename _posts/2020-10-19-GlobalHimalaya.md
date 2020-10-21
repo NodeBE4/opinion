@@ -35,3 +35,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 
 #闫丽梦 博士 @DrLiMengYAN1 第一篇科学报告（中文修订版）<br><br>《SARS-CoV-2基因组的不寻常特征表明，该基因组是经过复杂的实验室改造而非自然进化的，并描述了其可能的合成途径》<br><br><a href="https://drive.google.com/file/d/1vZ0vbPJ9QAhGDjna9pkMxqUHhIdakODW/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1vZ0vbPJ9QAhGDjna9pkMxqUHhIdakODW/view?usp=sharing</a>
 
+### 6: [2020-10-21 06:18:36+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318678029464293376)
+
+⚡️班农接受福克斯采访透露：<br>在未来24-48小时内，更多 #拜登 与中共勾结的证据将爆出<br>尤其是关于中共情报线人（Chinese Communist intelligence assets）和情报人员的黑幕！<br>彻头彻尾的邪恶（total depravity)<br>这些都已经被独立的执法部门（independent law enforcement）验证过了 <br><video src="https://video.twimg.com/amplify_video/1318677683048390657/vid/960x540/F0I57usJiAivH3dw.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1318677683048390657/img/XbVGQ6SgPi_pMOoX.jpg" style="width: 100%"></video>
+
+### 7: [2020-10-21 07:29:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318695913024409600)
+
+喜站备用号 @GlobalHimalaya1<br>欢迎大家关注，以备不测<br><br><a href="https://twitter.com/GlobalHimalaya1" target="_blank" rel="noopener noreferrer">https://twitter.com/GlobalHimalaya1</a>
+
