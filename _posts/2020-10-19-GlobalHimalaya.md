@@ -43,3 +43,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 
 喜站备用号 @GlobalHimalaya1<br>欢迎大家关注，以备不测<br><br><a href="https://twitter.com/GlobalHimalaya1" target="_blank" rel="noopener noreferrer">https://twitter.com/GlobalHimalaya1</a>
 
+### 8: [2020-10-21 17:59:03+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318854302710988800)
+
+#班农 @WarRoomPandemic :<br>拜登！你从中共那里得到的钱都是中国老百姓的血汗钱！<br>多少中国的底层人民活得像个牲口！<br>又有多少中国人民被迫害的生不如死！<br>有人看到他们的苦难吗？<br>拜登！中国人民会来找你！新中国联邦会来找你！<br>Twitter和FB关闭不了老百姓为了自由而发出的怒吼！ <br><video src="https://video.twimg.com/amplify_video/1318852390800424962/vid/960x540/J1n4PQM5NCyZ52_M.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ek2C2G0U0AcHh1x?format=jpg&name=orig" style="width: 100%"></video>
+
+### 9: [2020-10-21 18:53:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318868000615718912)
+
+#朱利安尼 在Newsmax确认，亨特• 拜登电脑上有大量未成年女孩图片，他已经交给特拉华州警局 <br><video src="https://video.twimg.com/amplify_video/1318867447752007680/vid/960x540/z7YkPHiCqFXBhiKW.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ek2PJJ3VoAELB4A?format=jpg&name=orig" style="width: 100%"></video>
+
