@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-20
+date: 2020-10-21
 from: https://twitter.com/realcaixia/status/1318191346658824192
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: '蔡霞 的 Twitter: 2020-10-19~2020-10-25'
 ### 2: [2020-10-20 21:59:18+08:00 推文](https://twitter.com/realcaixia/status/1318552374064054272)
 
 特别赞成这位推主的建议！习当局在国内如何严酷迫害潇男等主持社会公义的良知者，习共邪恶政权就会在海外如何对所有国家尤其是对民主国家耍流氓。大陆中国的人权状况越来越恶劣，数年前我们的不少朋友就说未来中国将可能糟到成为“西朝鲜”，真是一语成谶！习当局已经把大陆变成了真实的“习朝鲜”。 <br><br>Suyutong 🎗️: 耿潇男被正式批捕，当局把构陷她的「非法经营罪」加码了，原来指控她非法出版的书是8千册，现在加到20万册。这是要加重报复的节奏。推友们，尤其是海外推友，请你们向所在国家的政府讲这个案例，讲独裁者习近平是如何报复批评者的，它对耿潇男的方式，其实也是它对整个西方民主国家的基本取态。 <br><br><img src="https://pbs.twimg.com/media/Ekw2UUiXIAAGhbq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2020-10-21 22:50:06+08:00 推文](https://twitter.com/realcaixia/status/1318927547887910912)
+
+【联名呼吁释放耿潇男夫妇公开信】指出：1，“非法经营罪”是计划经济时期的“投机倒把”的翻版，是可以由强权任意解释含义的“口袋罪”，其主要功能是掩盖习中共当局对经济界企业界良心人士进行的政治迫害，是彻头彻尾的恶法。2，不是耿潇男夫妇犯罪，正是极权当局滥用职权在犯罪。篇幅所限，此为节选发推。 <br><img src="https://pbs.twimg.com/media/Ek3FmieX0AUvPtR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Ek3FmimXUAoiwYm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Ek3FmifXEAMEPOv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Ek3FmieWkAUBqDu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
