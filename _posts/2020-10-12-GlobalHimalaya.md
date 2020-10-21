@@ -17,7 +17,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 1: [2020-10-12 06:12:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315414967596666880)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  川普总统最新福克斯采访透露，将公布更多「令人震惊（breathtaking）」的文档，比希拉里邮件和通俄门更重磅。他说，我可以告诉你，我们发现的事情，没有人敢相信<br><br>当主持人玛丽亚问关于哪方面的文档时，川普说，涉及面非常广（it is about everything）<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315414571360817153/vid/960x540/lKqdSqrVnNiqeyUe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315414571360817153/img/brStFJaWV8jJVDBL.jpg" style="width: 100%"></video><hr><small>10/12/2020, 6:12:22 AM</small>
+川普总统最新福克斯采访透露，将公布更多「令人震惊（breathtaking）」的文档，比希拉里邮件和通俄门更重磅。他说，我可以告诉你，我们发现的事情，没有人敢相信<br><br>当主持人玛丽亚问关于哪方面的文档时，川普说，涉及面非常广（it is about everything） <br><video src="https://video.twimg.com/amplify_video/1315414571360817153/vid/960x540/lKqdSqrVnNiqeyUe.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315414571360817153/img/brStFJaWV8jJVDBL.jpg" style="width: 100%"></video>
 
 ### 2: [2020-10-12 07:32:12+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315435059394953216)
 
@@ -49,7 +49,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
-⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前 <br><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  ⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video><hr><small>10/16/2020, 7:36:57 AM</small>
 
 ### 10: [2020-10-17 06:03:31+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317224681145921536)
 
@@ -73,5 +73,5 @@ Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原�
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video><hr><small>10/18/2020, 8:59:57 AM</small>
+作为处理RICO案件的老手，朱利安尼说，所有信息已得到充分验证，他非常有信心对拜登家族定罪<br><br>老猎手 朱利安尼 引而不发 <br>嫩菜鸟 亨特律师 自愿上钩<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/ext_tw_video/1317631269379870720/pu/vid/960x540/LTOiKubiv_tJK15a.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1317631269379870720/pu/img/K8ReI4-375E9MH2W.jpg" style="width: 100%"></video>
 
