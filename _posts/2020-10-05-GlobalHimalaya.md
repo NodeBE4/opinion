@@ -97,5 +97,5 @@ Re #闫丽梦 博士福克斯卡尔森采访（第2部分）<br>闫博士说，�
 
 ### 21: [2020-10-11 07:13:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315067963007885312)
 
-班农先生战斗室炸裂演讲🔥🔥🔥<br><br>面对美国暗势力与中共的狼狈为奸，操纵华尔街，拖延疫情问责，班大爷拍案震怒！<br><br>班农直面镜头说，我一点也不畏惧，我们将在历史留下光辉，因为我们与天使同行，中共与魔鬼共舞<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1315067458160525312/vid/960x540/YpZai5XrGXrzUhfJ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315067458160525312/img/eSn-3z7lhooZucLZ.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  班农先生战斗室炸裂演讲🔥🔥🔥<br><br>面对美国暗势力与中共的狼狈为奸，操纵华尔街，拖延疫情问责，班大爷拍案震怒！<br><br>班农直面镜头说，我一点也不畏惧，我们将在历史留下光辉，因为我们与天使同行，中共与魔鬼共舞<br><br>@WarRoomPandemic<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315067458160525312/vid/960x540/YpZai5XrGXrzUhfJ.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1315067458160525312/img/eSn-3z7lhooZucLZ.jpg" style="width: 100%"></video><hr><small>10/11/2020, 7:13:29 AM</small>
 
