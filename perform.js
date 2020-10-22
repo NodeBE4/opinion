@@ -51,6 +51,8 @@ async function fetchFeedx(site, url) {
     let author = site
     if (item['author']){
       author = item.author
+    }else if (item['dc:creator']){
+      author = item['dc:creator']
     }
     return {
       title: item.title.replace(/[\x00-\x1F\x7F-\x9F]/g, ""),

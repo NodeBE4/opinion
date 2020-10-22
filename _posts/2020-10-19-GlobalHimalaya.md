@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-21
+date: 2020-10-22
 from: https://twitter.com/GlobalHimalaya/status/1317951463998418945
 layout: post
 tags:
@@ -50,4 +50,16 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 ### 9: [2020-10-21 18:53:29+08:00 推文](https://twitter.com/GlobalHimalaya/status/1318868000615718912)
 
 #朱利安尼 在Newsmax确认，亨特• 拜登电脑上有大量未成年女孩图片，他已经交给特拉华州警局 <br><video src="https://video.twimg.com/amplify_video/1318867447752007680/vid/960x540/z7YkPHiCqFXBhiKW.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Ek2PJJ3VoAELB4A?format=jpg&name=orig" style="width: 100%"></video>
+
+### 10: [2020-10-22 07:51:15+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319063731628773377)
+
+蓬佩奥宣布新增6家中共“媒体”为外国使团<br>Yicai Global第一财经<br>Jiefang Daily解放日报<br>Xinmin Evening News新民晚报<br>Social Sciences in China Press中国社会科学出版社<br>Beijing Review北京周报<br>Economic Daily经济日报<br><br>他还说，在关键技术竞争中，美国要保持对「中共」和「俄罗斯」这两个对手的优势 <br><video src="https://video.twimg.com/amplify_video/1319063404162641920/vid/960x540/KXll-8RQ09AOH-ij.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319063404162641920/img/1dOuuoBU2liV-GBC.jpg" style="width: 100%"></video>
+
+### 11: [2020-10-22 08:28:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319073073040011265)
+
+⚡️正在进行中的北卡演讲上，川普首提「共产中国 Communist China」！<br><br>他说拜登是一个彻头彻尾的腐败政客，勾结「共产中国」，而媒体却掩盖真相 <br><video src="https://video.twimg.com/amplify_video/1319072974763257857/vid/960x540/HQ9L8SjdrlQxv6Y3.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319072974763257857/img/w9_G6lTzzIHpjMei.jpg" style="width: 100%"></video>
+
+### 12: [2020-10-22 11:33:50+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319119748819423232)
+
+🔥朱利安尼先生最新视频透露，有证人马上会公开作证，证明拜登就是那个“大人物”，拿了中共10%的股份！<br><br>这个证人会是谁呢？不论是谁，他（她）都是英雄！ <br><video src="https://video.twimg.com/amplify_video/1319119471911395328/vid/960x540/QwwkxOG78hh2iqn_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319119471911395328/img/QvLNKbhuHdJ71ThJ.jpg" style="width: 100%"></video>
 
