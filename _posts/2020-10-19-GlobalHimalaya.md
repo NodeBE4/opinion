@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-23
+date: 2020-10-24
 from: https://twitter.com/GlobalHimalaya/status/1317951463998418945
 layout: post
 tags:
@@ -78,4 +78,8 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 ### 16: [2020-10-23 18:27:17+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319586183563767808)
 
 #朱利安尼 先生怒了，乔•拜登明明知道他儿子对儿童的侵害，却无动于衷！<br>你们贪污腐败就罢了，绝不能这样残害孩子！！<br>如果FBI不依法办案，我就没收他们的警徽！<br><br>谁会接任FBI代理局长呢？ <br><video src="https://video.twimg.com/amplify_video/1319585544733507586/vid/960x540/S89mwRJ6OqN68W6u.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/ElAcJcbUYAEPBOW?format=jpg&name=orig" style="width: 100%"></video>
+
+### 17: [2020-10-24 04:24:22+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319736445314056193)
+
+#闫丽梦 博士 @DrLiMengYAN1:<br>那些专家们都跑哪去了？<br>为什么都躲起来了，不敢以科学的方式与我对话？<br>让我们各自出示证据来谈谈事实吧？<br>你们到底在为谁工作？<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1319735962881015808/vid/960x540/l8mPqTwN3RSMuhBS.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319735962881015808/img/q4pO-feWA-k8ALdn.jpg" style="width: 100%"></video>
 
