@@ -75,3 +75,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 
 白宫发布推文：<br><br>多年来，华盛顿一厢情愿地相信中国共产党。<br>在川普总统的领导下，我们擦亮了眼睛，认清了中共的邪恶本质。我们一定会战胜它！ <br><br>The White House: For years, Washington believed what it wanted to believe about the Chinese Communist Party.<br><br>Under President @realDonaldTrump, we are clear-eyed about the CCP's malign behavior—and we will prevail against it.<br><br>West Wing Reads: <br><br><img src="https://pbs.twimg.com/media/Ek9uGOJX0AMEF8J?format=jpg&name=orig" referrerpolicy="no-referrer"><a href="http://45.wh.gov/qPpLTE" target="_blank" rel="noopener noreferrer">http://45.wh.gov/qPpLTE</a>
 
+### 16: [2020-10-23 18:27:17+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319586183563767808)
+
+#朱利安尼 先生怒了，乔•拜登明明知道他儿子对儿童的侵害，却无动于衷！<br>你们贪污腐败就罢了，绝不能这样残害孩子！！<br>如果FBI不依法办案，我就没收他们的警徽！<br><br>谁会接任FBI代理局长呢？ <br><video src="https://video.twimg.com/amplify_video/1319585544733507586/vid/960x540/S89mwRJ6OqN68W6u.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/ElAcJcbUYAEPBOW?format=jpg&name=orig" style="width: 100%"></video>
+
