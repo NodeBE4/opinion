@@ -25,7 +25,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
+#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
@@ -41,7 +41,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 7: [2020-10-15 18:27:20+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316687094916374535)
 
-#蓬佩奥 最新新闻发布会：<br>谈美国联合全世界对抗中共的一些举措 <br><video src="https://video.twimg.com/amplify_video/1316686752677990407/vid/960x540/LlYNEMXT6-hsVdgA.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXPy3pVoAERc3g?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #蓬佩奥 最新新闻发布会：<br>谈美国联合全世界对抗中共的一些举措<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316686752677990407/vid/960x540/LlYNEMXT6-hsVdgA.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXPy3pVoAERc3g?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:27:20 PM</small>
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
@@ -49,7 +49,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  ⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video><hr><small>10/16/2020, 7:36:57 AM</small>
+⚡️班农@WarRoomPandemic剑指拜登家族： <br><br>拜登家族持有中共公司大份额股份，每年从中共获得巨额利益。拜登手上沾满了被奴役中国老百姓的鲜血<br><br>更多信息将涌现，拜登之子亨特的糜烂生活，拜登家族与中共的勾结即将完全曝光于世人眼前 <br><video src="https://video.twimg.com/amplify_video/1316884629970841601/vid/960x540/JDzixbq73bCmSRYP.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1316884629970841601/img/ZkJO9sZjkztI4u-R.jpg" style="width: 100%"></video>
 
 ### 10: [2020-10-17 06:03:31+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317224681145921536)
 
@@ -61,7 +61,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 12: [2020-10-17 07:52:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317252150804631553)
 
-朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘 <br><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video><hr><small>10/17/2020, 7:52:40 AM</small>
 
 ### 13: [2020-10-17 08:16:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317258020645003264)
 
@@ -69,7 +69,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 14: [2020-10-18 06:31:04+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317594003865444352)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/HimalayaGlobal"><img align="left" src="https://pbs.twimg.com/profile_images/1191936683853393921/yDKLFF8I_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>Himalaya Global</strong></a>:  Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse!<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/HimalayaGlobal/status/1317592030818676737" target="_blank" rel="noopener noreferrer">https://twitter.com/HimalayaGlobal/status/1317592030818676737</a></small><br><small>10/18/2020, 6:23:14 AM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/18/2020, 6:31:04 AM</small>
+路德社@ding_gang揭穿中共如何通过蓝金黄控制像 #拜登 家族这样的美国政客和媒体，其手段竟包括虐童，而残害对象就是中国同胞！<br><br>请大家广传，让美国人民和西方世界看到真相和全人类面临的巨大危机<br><br><br>Himalaya Global: Breaking! Lude Media @ding_gang reveals how the Chinese Communist Party(CCP) compromises/controls #BidenFamily and other American politicians, and media. <br><br>It includes offering real estate properties as gifts through untraceable family trusts, sex bribery, and child sex abuse! <br><br><video src="https://video.twimg.com/amplify_video/1317590828974403584/vid/960x540/N7uvYUkYwgvyX_ia.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317590828974403584/img/USNCPy8BMoBjd0hJ.jpg" style="width: 100%"></video>
 
 ### 15: [2020-10-18 08:59:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317631467942412288)
 

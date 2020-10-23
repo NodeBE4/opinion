@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-21
+date: 2020-10-23
 from: https://twitter.com/realcaixia/status/1318191346658824192
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: '蔡霞 的 Twitter: 2020-10-19~2020-10-25'
 ### 3: [2020-10-21 22:50:06+08:00 推文](https://twitter.com/realcaixia/status/1318927547887910912)
 
 【联名呼吁释放耿潇男夫妇公开信】指出：1，“非法经营罪”是计划经济时期的“投机倒把”的翻版，是可以由强权任意解释含义的“口袋罪”，其主要功能是掩盖习中共当局对经济界企业界良心人士进行的政治迫害，是彻头彻尾的恶法。2，不是耿潇男夫妇犯罪，正是极权当局滥用职权在犯罪。篇幅所限，此为节选发推。 <br><img src="https://pbs.twimg.com/media/Ek3FmieX0AUvPtR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Ek3FmimXUAoiwYm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Ek3FmifXEAMEPOv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/Ek3FmieWkAUBqDu?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2020-10-22 23:11:02+08:00 推文](https://twitter.com/realcaixia/status/1319295203048525824)
+
+任志強重判，許章潤軟禁，聲援中國良心的耿瀟男為何被捕？習近平的政治上的明白人終極目的是什麼？十二月黨人的女人的故事（江峰漫談20201021第2... <a href="https://youtu.be/3omRhBSYqFg" target="_blank" rel="noopener noreferrer">https://youtu.be/3omRhBSYqFg</a>
+
+### 5: [2020-10-23 09:23:04+08:00 推文](https://twitter.com/realcaixia/status/1319449226548568065)
+
+声援耿潇男女士就是反抗中共极权暴政！ <br><br>楊建利 Yang Jianli: 先前公开为许章润发声的耿潇男女士遭拘留37天后被中共当局以涉嫌“非法经营”罪正式批捕，并将“非法出版物”数量由8千册升为20多万册。因丈夫和员工同被拘押，她向律师表示要揽下全部“责任”。当局按任志强案如法炮制，将“非法经营”等经济罪名，变为打压异见者的“口袋罪”。<br><br>【习共犯有非法经营中国罪！】 <br><br><img src="https://pbs.twimg.com/media/Ek0EujaWkAAoqy_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
