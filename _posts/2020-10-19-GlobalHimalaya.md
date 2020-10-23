@@ -71,3 +71,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 
 ⚡️川普在北卡演讲再提「中共」<br>他说，我不仅在与乔•拜登竞选，我还要对抗腐败的媒体，对抗腐败的科技巨头，对抗华盛顿的沼泽<br>川普还调侃了那个“大人物”<br><br>腐败的政客<br>腐败的媒体<br>腐败的高科技公司<br>这些腐败背后的黑手 — 中共<br>我们已经无处可躲了！ <br><video src="https://video.twimg.com/amplify_video/1319371597824704514/vid/960x540/avzCKIkr-3n2-aKF.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319371597824704514/img/95E5fQgRVus-TQMP.jpg" style="width: 100%"></video>
 
+### 15: [2020-10-23 10:41:51+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319469054751457285)
+
+白宫发布推文：<br><br>多年来，华盛顿一厢情愿地相信中国共产党。<br>在川普总统的领导下，我们擦亮了眼睛，认清了中共的邪恶本质。我们一定会战胜它！ <br><br>The White House: For years, Washington believed what it wanted to believe about the Chinese Communist Party.<br><br>Under President @realDonaldTrump, we are clear-eyed about the CCP's malign behavior—and we will prevail against it.<br><br>West Wing Reads: <br><br><img src="https://pbs.twimg.com/media/Ek9uGOJX0AMEF8J?format=jpg&name=orig" referrerpolicy="no-referrer"><a href="http://45.wh.gov/qPpLTE" target="_blank" rel="noopener noreferrer">http://45.wh.gov/qPpLTE</a>
+
