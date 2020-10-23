@@ -36,6 +36,14 @@ permalink: /categories/
             {% endif %}
                 {{ post.title }}
               </a>
+
+            {% if tag != post.author %}
+              <span>
+                  <!-- Personal Info. -->
+                  <a  style="font-size:14px; background-color:#DAD2EA;">作者: {{ post.author }}</a>
+              </span>
+            {% endif %}
+
               <time>{{ post.date | date: "%Y-%m-%d" }}</time>
           </li>
           {% assign counter = counter | plus: 1 %}
