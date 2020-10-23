@@ -2,7 +2,7 @@
 author: GlobalHimalaya
 categories:
 - Twitter
-date: 2020-10-22
+date: 2020-10-23
 from: https://twitter.com/GlobalHimalaya/status/1317951463998418945
 layout: post
 tags:
@@ -62,4 +62,12 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 ### 12: [2020-10-22 11:33:50+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319119748819423232)
 
 🔥朱利安尼先生最新视频透露，有证人马上会公开作证，证明拜登就是那个“大人物”，拿了中共10%的股份！<br><br>这个证人会是谁呢？不论是谁，他（她）都是英雄！ <br><video src="https://video.twimg.com/amplify_video/1319119471911395328/vid/960x540/QwwkxOG78hh2iqn_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319119471911395328/img/QvLNKbhuHdJ71ThJ.jpg" style="width: 100%"></video>
+
+### 13: [2020-10-23 03:53:56+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319366398796165120)
+
+⚡️川普总统邀请亨特.拜登的合伙人托尼.鲍布林斯基（Tony Bobulinski）出席今晚辩论！<br><br>鲍布林斯基今天指证乔.拜登就是那个拿了10%股份的“大人物”<br><br><a href="https://www.foxnews.com/politics/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/politics/president-trump-plans-to-bring-hunter-biden-associate-tony-bobulinski-as-guest-to-debate</a>
+
+### 14: [2020-10-23 04:17:45+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319372389860270080)
+
+⚡️川普在北卡演讲再提「中共」<br>他说，我不仅在与乔•拜登竞选，我还要对抗腐败的媒体，对抗腐败的科技巨头，对抗华盛顿的沼泽<br>川普还调侃了那个“大人物”<br><br>腐败的政客<br>腐败的媒体<br>腐败的高科技公司<br>这些腐败背后的黑手 — 中共<br>我们已经无处可躲了！ <br><video src="https://video.twimg.com/amplify_video/1319371597824704514/vid/960x540/avzCKIkr-3n2-aKF.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319371597824704514/img/95E5fQgRVus-TQMP.jpg" style="width: 100%"></video>
 
