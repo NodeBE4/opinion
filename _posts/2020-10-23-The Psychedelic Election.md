@@ -4,8 +4,8 @@ title: "The Psychedelic Election"
 date: 2020-10-23T17:27:02.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/the-psychedelic-election
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1603474022000-->
 [The Psychedelic Election](https://andrewsullivan.substack.com/p/the-psychedelic-election)

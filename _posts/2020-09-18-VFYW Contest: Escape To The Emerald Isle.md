@@ -4,8 +4,8 @@ title: "VFYW Contest: Escape To The Emerald Isle"
 date: 2020-09-18T20:20:56.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-escape-to-the-emerald
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1600460456000-->
 [VFYW Contest: Escape To The Emerald Isle](https://andrewsullivan.substack.com/p/vfyw-contest-escape-to-the-emerald)

@@ -4,8 +4,8 @@ title: "VFYW Contest: The Set Of The Next BearCity?"
 date: 2020-10-16T16:51:40.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-the-set-of-the-next
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1602867100000-->
 [VFYW Contest: The Set Of The Next BearCity?](https://andrewsullivan.substack.com/p/vfyw-contest-the-set-of-the-next)

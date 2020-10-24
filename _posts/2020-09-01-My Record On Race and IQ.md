@@ -4,8 +4,8 @@ title: "My Record On Race and IQ"
 date: 2020-09-01T19:31:09.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/my-record-on-race-and-iq
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1598988669000-->
 [My Record On Race and IQ](https://andrewsullivan.substack.com/p/my-record-on-race-and-iq)

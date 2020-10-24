@@ -4,8 +4,8 @@ title: "The Dishcast w/ Brian Muraresku (teaser)"
 date: 2020-09-01T04:00:00.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/the-dishcast-w-brian-muraresku-teaser
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1598932800000-->
 [The Dishcast w/ Brian Muraresku (teaser)](https://andrewsullivan.substack.com/p/the-dishcast-w-brian-muraresku-teaser)

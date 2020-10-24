@@ -4,8 +4,8 @@ title: "VFYW Contest: A Tale Of Two Towers"
 date: 2020-10-09T16:39:58.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1602261598000-->
 [VFYW Contest: A Tale Of Two Towers](https://andrewsullivan.substack.com/p/window-contest-252-a-tale-of-two)

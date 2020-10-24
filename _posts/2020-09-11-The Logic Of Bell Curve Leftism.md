@@ -4,8 +4,8 @@ title: "The Logic Of Bell Curve Leftism"
 date: 2020-09-11T17:00:57.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/the-logic-of-bell-curve-leftism
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1599843657000-->
 [The Logic Of Bell Curve Leftism](https://andrewsullivan.substack.com/p/the-logic-of-bell-curve-leftism)

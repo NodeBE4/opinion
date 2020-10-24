@@ -4,8 +4,8 @@ title: "VFYW Contest: Overlooking A Ghost Town"
 date: 2020-10-23T17:02:02.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-overlooking-a-ghost
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1603472522000-->
 [VFYW Contest: Overlooking A Ghost Town](https://andrewsullivan.substack.com/p/vfyw-contest-overlooking-a-ghost)

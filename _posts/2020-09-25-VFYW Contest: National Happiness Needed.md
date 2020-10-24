@@ -4,8 +4,8 @@ title: "VFYW Contest: National Happiness Needed"
 date: 2020-09-25T20:20:09.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1601065209000-->
 [VFYW Contest: National Happiness Needed](https://andrewsullivan.substack.com/p/vfyw-contest-national-happiness-needed)

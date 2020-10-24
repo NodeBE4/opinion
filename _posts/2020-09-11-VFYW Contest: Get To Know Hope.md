@@ -4,8 +4,8 @@ title: "VFYW Contest: Get To Know Hope"
 date: 2020-09-11T20:20:00.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1599855600000-->
 [VFYW Contest: Get To Know Hope](https://andrewsullivan.substack.com/p/vfyw-contest-get-to-know-hope)

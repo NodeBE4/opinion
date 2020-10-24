@@ -4,8 +4,8 @@ title: "We Are All Algorithms Now"
 date: 2020-09-18T17:00:37.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/we-are-all-algorithms-now
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1600448437000-->
 [We Are All Algorithms Now](https://andrewsullivan.substack.com/p/we-are-all-algorithms-now)

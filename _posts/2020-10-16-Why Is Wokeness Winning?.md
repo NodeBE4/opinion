@@ -4,8 +4,8 @@ title: "Why Is Wokeness Winning?"
 date: 2020-10-16T17:07:58.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/why-is-wokeness-winning
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1602868078000-->
 [Why Is Wokeness Winning?](https://andrewsullivan.substack.com/p/why-is-wokeness-winning)

@@ -4,8 +4,8 @@ title: "Reality Ends The Reality Show"
 date: 2020-10-02T17:17:26.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/reality-ends-the-reality-show
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1601659046000-->
 [Reality Ends The Reality Show](https://andrewsullivan.substack.com/p/reality-ends-the-reality-show)

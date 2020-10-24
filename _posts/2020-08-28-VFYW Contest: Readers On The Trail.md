@@ -4,8 +4,8 @@ title: "VFYW Contest: Readers On The Trail"
 date: 2020-08-28T21:15:00.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1598649300000-->
 [VFYW Contest: Readers On The Trail](https://andrewsullivan.substack.com/p/vfyw-contest-readers-on-the-trail)

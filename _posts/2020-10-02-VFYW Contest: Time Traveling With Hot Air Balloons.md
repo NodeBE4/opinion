@@ -4,8 +4,8 @@ title: "VFYW Contest: Time Traveling With Hot Air Balloons"
 date: 2020-10-02T21:00:59.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-time-traveling-with
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1601672459000-->
 [VFYW Contest: Time Traveling With Hot Air Balloons](https://andrewsullivan.substack.com/p/vfyw-contest-time-traveling-with)

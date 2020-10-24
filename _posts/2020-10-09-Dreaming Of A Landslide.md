@@ -4,8 +4,8 @@ title: "Dreaming Of A Landslide"
 date: 2020-10-09T16:48:08.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/dreaming-of-a-landslide
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1602262088000-->
 [Dreaming Of A Landslide](https://andrewsullivan.substack.com/p/dreaming-of-a-landslide)

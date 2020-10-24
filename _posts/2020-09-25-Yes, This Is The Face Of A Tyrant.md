@@ -4,8 +4,8 @@ title: "Yes, This Is The Face Of A Tyrant"
 date: 2020-09-25T17:11:25.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/yes-this-is-the-face-of-a-tyrant
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1601053885000-->
 [Yes, This Is The Face Of A Tyrant](https://andrewsullivan.substack.com/p/yes-this-is-the-face-of-a-tyrant)

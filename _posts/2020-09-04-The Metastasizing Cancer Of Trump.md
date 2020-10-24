@@ -4,8 +4,8 @@ title: "The Metastasizing Cancer Of Trump"
 date: 2020-09-04T17:09:17.000Z
 author: Andrew Sullivan
 from: https://andrewsullivan.substack.com/p/the-metastasizing-cancer-of-trump
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1599239357000-->
 [The Metastasizing Cancer Of Trump](https://andrewsullivan.substack.com/p/the-metastasizing-cancer-of-trump)

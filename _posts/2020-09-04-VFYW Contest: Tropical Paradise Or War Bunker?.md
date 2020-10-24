@@ -4,8 +4,8 @@ title: "VFYW Contest: Tropical Paradise Or War Bunker?"
 date: 2020-09-04T20:39:19.000Z
 author: Chris Bodenner
 from: https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or
-tags: [ Andrew Sullivan ]
-categories: [ Andrew Sullivan ]
+tags: [ The Weekly Dish ]
+categories: [ The Weekly Dish ]
 ---
 <!--1599251959000-->
 [VFYW Contest: Tropical Paradise Or War Bunker?](https://andrewsullivan.substack.com/p/vfyw-contest-tropical-paradise-or)
