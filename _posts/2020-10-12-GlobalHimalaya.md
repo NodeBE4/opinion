@@ -25,11 +25,11 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 3: [2020-10-13 17:49:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1315952669408731136)
 
-#闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。 <br><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士Newsmax采访，揭露中共操纵学术界制造假数据，掩盖病毒是实验室制造的真相。<br>她表示，要想最终解决病毒，除了疫苗外，最重要的是解决掉病毒来源。<br>她说：我不害怕，因为我站在正义的一方。<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1315949220642209792/vid/960x540/tqyw_ERMHuFCDLei.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkMxL-ZU4AAfAwd?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/13/2020, 5:49:00 PM</small>
 
 ### 4: [2020-10-15 03:18:42+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316458430022914048)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  路德社 @ding_gang 两个多星期前就已经爆出了拜登硬盘事件。再一次 #站在未来说现在的历史<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/HimalayaGlobal"><img align="left" src="https://pbs.twimg.com/profile_images/1191936683853393921/yDKLFF8I_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>Himalaya Global</strong></a>:  Bombshell… 3 hard disk drives of videos and dossier of Hunter Biden’s connections with the Chinese Communist Party (CCP) have been sent to Nancy Pelosi and DOJ.  Big money and sex scandal! may come out soon according to Youtuber media Lude @ding_gang <br><br>#WhereIsHunter<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1310679391198834688/vid/960x540/GocU2ZD_sH_k77H_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310679391198834688/img/tv4w9u_9AjZrdVoS.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/HimalayaGlobal/status/1310723464341286912" target="_blank" rel="noopener noreferrer">https://twitter.com/HimalayaGlobal/status/1310723464341286912</a></small><br><small>9/29/2020, 7:30:00 AM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/15/2020, 3:18:42 AM</small>
+路德社 @ding_gang 两个多星期前就已经爆出了拜登硬盘事件。再一次 #站在未来说现在的历史 <br><br>Himalaya Global: Bombshell… 3 hard disk drives of videos and dossier of Hunter Biden’s connections with the Chinese Communist Party (CCP) have been sent to Nancy Pelosi and DOJ.  Big money and sex scandal! may come out soon according to Youtuber media Lude @ding_gang <br><br>#WhereIsHunter <br><br><video src="https://video.twimg.com/amplify_video/1310679391198834688/vid/960x540/GocU2ZD_sH_k77H_.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1310679391198834688/img/tv4w9u_9AjZrdVoS.jpg" style="width: 100%"></video>
 
 ### 5: [2020-10-15 07:26:53+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316520886418120704)
 
@@ -45,7 +45,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 8: [2020-10-15 18:57:49+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316694763916075008)
 
-福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻 <br><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video>
+<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  福克斯著名主持人塔克卡尔森，痛斥推特和脸书封杀纽约邮报对拜登硬盘事件的报道<br><br>塔克说，这是美国建国245年以来从没经历过的新闻审查，这与中共政府没有任何区别<br>没人会想到这样的事情会发生在美国，这是美国的黑暗时刻<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1316694328903757824/vid/960x540/RSJldYYVDwbQvLjm.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EkXWsjlUYAUqQaT?format=jpg&name=orig" style="width: 100%"></video><hr><small>10/15/2020, 6:57:49 PM</small>
 
 ### 9: [2020-10-16 07:36:57+08:00 推文](https://twitter.com/GlobalHimalaya/status/1316885806980628482)
 
@@ -53,7 +53,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-12~2020-10-18'
 
 ### 10: [2020-10-17 06:03:31+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317224681145921536)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  #闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a><hr><small>10/17/2020, 6:03:31 AM</small>
+#闫丽梦 博士与合作团队第二篇科学报告中文版<br><br>《SARS-CoV-2是一种超限生物武器：揭露⼤规模、有组织的科学造假的真相》<br><br>闫博士两篇科学报告已彻底击碎中共谎言，这是中共对全人类的袭击，这是超限生物战的结果<br><br>人类必须抓紧时间采取行动，找出真相，拯救自己！<br><br><a href="https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing" target="_blank" rel="noopener noreferrer">https://drive.google.com/file/d/1xfOFCw3qK03GFf33g-_t074c95aEZgdH/view?usp=sharing</a>
 
 ### 11: [2020-10-17 06:05:05+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317225077390278656)
 
@@ -61,7 +61,7 @@ Re 声明：本中文版为「喜马拉雅国际工作站」翻译，未经原�
 
 ### 12: [2020-10-17 07:52:40+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317252150804631553)
 
-<a href="https://twitter.com/GlobalHimalaya"><img align="left" src="https://pbs.twimg.com/profile_images/1191935747168899074/c8UKfiFH_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>喜馬拉雅國際工作站</strong></a>:  朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video><hr><small>10/17/2020, 7:52:40 AM</small>
+朱利安尼最新福克斯采访透露：<br><br>硬盘里的证据表明，乔.拜登通过亨特.拜登参股中共情报机构控制的公司，这是典型RICO案例！<br>拜登家族对美国国家安全构成威胁<br><br>硬盘里的资料100%属于亨特拜登，有充分证据，绝不可能抵赖，亨特的律师还曾向修电脑的索要硬盘 <br><video src="https://video.twimg.com/amplify_video/1317251858558111744/vid/960x540/rfu-sBkNltJlRwh6.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1317251858558111744/img/CV4JrfU1zmv-_TJT.jpg" style="width: 100%"></video>
 
 ### 13: [2020-10-17 08:16:00+08:00 推文](https://twitter.com/GlobalHimalaya/status/1317258020645003264)
 

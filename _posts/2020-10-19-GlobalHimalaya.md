@@ -83,3 +83,7 @@ title: '喜馬拉雅國際工作站 的 Twitter: 2020-10-19~2020-10-25'
 
 #闫丽梦 博士 @DrLiMengYAN1:<br>那些专家们都跑哪去了？<br>为什么都躲起来了，不敢以科学的方式与我对话？<br>让我们各自出示证据来谈谈事实吧？<br>你们到底在为谁工作？<br><br>@WarRoomPandemic <br><video src="https://video.twimg.com/amplify_video/1319735962881015808/vid/960x540/l8mPqTwN3RSMuhBS.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1319735962881015808/img/q4pO-feWA-k8ALdn.jpg" style="width: 100%"></video>
 
+### 18: [2020-10-24 19:06:10+08:00 推文](https://twitter.com/GlobalHimalaya/status/1319958355712962561)
+
+#朱利安尼 市长感人讲话：<br><br>只有你们能拯救美国，用选票阻止这些腐败政客进入白宫<br>我保证会尽全力彻底排干沼泽，我们现在非常清楚沼泽是谁了<br>祈求上帝从这场灾难中拯救我们的共和国！ <br><video src="https://video.twimg.com/amplify_video/1319957754816020480/vid/960x540/b-7y2aMlZaS25v1B.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/ElFu2uwVkAEmAdN?format=jpg&name=orig" style="width: 100%"></video>
+
