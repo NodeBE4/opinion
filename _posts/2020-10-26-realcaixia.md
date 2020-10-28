@@ -23,3 +23,11 @@ title: '蔡霞 的 Twitter: 2020-10-26~2020-11-01'
 
 说得对：耿潇男命运揭示中国人权至暗时代降临。 <br><br>自由亚洲电台: 专栏 | #华盛顿手记：#耿潇男 命运揭示中国人权至暗时代降临（上） <br><a href="https://www.rfa.org/mandarin/zhuanlan/huashengdunshouji/wdbm-10272020102931.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/zhuanlan/huashengdunshouji/wdbm-10272020102931.html</a>
 
+### 3: [2020-10-28 21:10:15+08:00 推文](https://twitter.com/realcaixia/status/1321439133999443968)
+
+在大陆中国有许多吴淦争取自由民主的义士被中共国当局投入监狱。吴淦，耿潇男，任志强，许志永，丁家喜，王藏，张展；方斌；王怡牧师；伊力哈木；刘艳丽、董瑶琼………让我们记住他们，让我们在各自环境中为争取自由民主宪政而做好力所能及的事。兄弟爬山，各自努力！ <br><br>王荔蕻: 今天是2020年10月26日月，#屠夫吳淦 已經在牢獄中扛過 #1987天！2015年5月19日吳淦在江西以「尋釁滋事」被抓，在北京天津歷經酷刑，終以其維護民眾權益12宗義行，被控「顛覆國家政權」，惡判8年刑囚。吳淦說 「不反對專制我還是人嗎」 #自由吳淦 #FreeWuGan <br><br><img src="https://pbs.twimg.com/media/ElOa6tEUYAcvkBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2020-10-28 21:21:05+08:00 推文](https://twitter.com/realcaixia/status/1321441859424686082)
+
+有意思。在中国做报纸杂志很微妙。这张报纸版面可以有各种角度的解读。 <br><br>鲁  难: 昨天的潇湘晨报很典型，妥妥的大字报化了。编辑说，现在的工作就是把字体大一号，再大一号。 <br><br><img src="https://pbs.twimg.com/media/ElTRN4HX0AE9cvD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/ElTRN4IWkAEPC_v?format=jpg&name=orig" referrerpolicy="no-referrer">
+
