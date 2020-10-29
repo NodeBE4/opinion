@@ -35,9 +35,9 @@ Sweden bans Huawei, ZTE gear for use by firms taking part in 5G spectrum auction
 
 1/ Sweden's post & telecoms authority has announced that #Huawei will be excluded from the 5G network. This includes essentially the entire network, including radio access (RAN). This is the most open and most far-reaching option Sweden could have chosen. <a href="http://shorturl.at/cqELX" target="_blank" rel="noopener noreferrer">http://shorturl.at/cqELX</a>
 
-### 6: [2020-10-20 18:16:25+08:00 推文](https://twitter.com/ruehlig/status/1318496283468980225)
+### 6: [2020-10-20 18:16:25+08:00 推文](https://twitter.com/ruehlig/status/1318496285104787458)
 
-Re 2/ Not only Huawei, also ZTE products cannot be used. When ZTE/Huawei is used in the existing infrastructure relevant for the frequency bands made available for 5G, such equiptment needs to be replaced by 1 January 2025, the authorities announce.
+Re 3/ Until 1 January 2025, operators have to make sure all central functions are located in Sweden and depend on Swedish personnel only. The decision is based on a law that was adopted last year and came into force on 1 January 2020. It allows the security services the exclusion.
 
 ### 7: [2020-10-20 18:16:26+08:00 推文](https://twitter.com/ruehlig/status/1318496290272088065)
 

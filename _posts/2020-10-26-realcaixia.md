@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-10-28
+date: 2020-10-29
 from: https://twitter.com/realcaixia/status/1321092249938178049
 layout: post
 tags:
@@ -30,4 +30,8 @@ title: '蔡霞 的 Twitter: 2020-10-26~2020-11-01'
 ### 4: [2020-10-28 21:21:05+08:00 推文](https://twitter.com/realcaixia/status/1321441859424686082)
 
 有意思。在中国做报纸杂志很微妙。这张报纸版面可以有各种角度的解读。 <br><br>鲁  难: 昨天的潇湘晨报很典型，妥妥的大字报化了。编辑说，现在的工作就是把字体大一号，再大一号。 <br><br><img src="https://pbs.twimg.com/media/ElTRN4HX0AE9cvD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/ElTRN4IWkAEPC_v?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2020-10-29 04:54:16+08:00 推文](https://twitter.com/realcaixia/status/1321555907004801027)
+
+从做研究角度说，这份资料极其宝贵。从中透露出中共“真理部”欺瞒民众、控制封锁信息的愚民机制是如何运作的某些情况。他们真是见不得光的名副其实的“鬼魅魍魉”。 <br><br>韩连潮: 中共强化思想控制的中心任务与基础性做法就是控制信息，封杀真相。请看中共最近的指令：【中共真理部】五中全会宣传指令 <br><br><img src="https://pbs.twimg.com/media/ElbwGIfXgAA-Bee?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/ElbwGIeWkAEfB7D?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/ElbwGIeW0AEW-PE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/ElbwGIfXYAIguC5?format=jpg&name=orig" referrerpolicy="no-referrer"><a href="https://chinadigitaltimes.net/chinese/2020/10/%e3%80%90%e7%9c%9f%e7%90%86%e9%83%a8%e3%80%91-%e4%ba%94%e4%b8%ad%e5%85%a8%e4%bc%9a%e5%ae%a3%e4%bc%a0%e6%8c%87%e4%bb%a4/" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/2020/10/%e3%80%90%e7%9c%9f%e7%90%86%e9%83%a8%e3%80%91-%e4%ba%94%e4%b8%ad%e5%85%a8%e4%bc%9a%e5%ae%a3%e4%bc%a0%e6%8c%87%e4%bb%a4/</a>
 
