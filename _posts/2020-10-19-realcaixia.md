@@ -41,5 +41,5 @@ title: '蔡霞 的 Twitter: 2020-10-19~2020-10-25'
 
 ### 7: [2020-10-25 08:10:58+08:00 推文](https://twitter.com/realcaixia/status/1320155855925448704)
 
-东北经济看着很凄惨。 <br><br>老灯: 我的故乡啊<br>我的乡亲...... <br><a href="https://twitter.com/SusanHa70016730/status/1318055692691939328" target="_blank" rel="noopener noreferrer">https://twitter.com/SusanHa70016730/status/1318055692691939328</a>
+东北经济看着很凄惨。<br><br>老灯: 我的故乡啊<br>我的乡亲......<br> <a href="https://twitter.com/SusanHa70016730/status/1318055692691939328" target="_blank" rel="noopener noreferrer">https://twitter.com/SusanHa70016730/status/1318055692691939328</a>
 
