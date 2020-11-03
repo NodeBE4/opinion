@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-02
+date: 2020-11-03
 from: https://twitter.com/vshih2/status/1323082876737351681
 layout: post
 tags:
@@ -30,4 +30,8 @@ Xi Jinping was referred to as the "pilot at the helm" in the communique from the
 ### 4: [2020-11-02 22:21:02+08:00 推文](https://twitter.com/RollandNadege/status/1323268885701951491)
 
 RT Nadège Rolland<br>Grand timonier. Petit timonier. Et maintenant, un pilote est aux commandes...<br><br>China Media Project: Xi Jinping was referred to as the "pilot at the helm" in the communique from the recent Fifth Plenum. Here is CMP's  brief history of the phrase "helmsman," not used by any top leader since Mao.<br><br><img style src="https://pbs.twimg.com/media/El0XqfxXUAAHnds?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2020/11/02/a-brief-history-of-the-helmsman/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/02/a-brief-history-of-the-helmsman/</a>
+
+### 5: [2020-11-03 06:10:53+08:00 推文](https://twitter.com/nerysinchina/status/1323387130421399557)
+
+RT Nerys Avery<br>Party makes a very visible and unnecessary show of who’s boss. Humiliating for Jack Ma. Jack Ma Summoned by China’s Regulators on Eve of Ant Debut - Bloomberg <a href="https://www.bloomberg.com/news/articles/2020-11-02/jack-ma-summoned-by-china-financial-regulators-on-eve-of-ant-ipo" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2020-11-02/jack-ma-summoned-by-china-financial-regulators-on-eve-of-ant-ipo</a>
 
