@@ -35,3 +35,7 @@ RT Nadège Rolland<br>Grand timonier. Petit timonier. Et maintenant, un pilote
 
 RT Nerys Avery<br>Party makes a very visible and unnecessary show of who’s boss. Humiliating for Jack Ma. Jack Ma Summoned by China’s Regulators on Eve of Ant Debut - Bloomberg <a href="https://www.bloomberg.com/news/articles/2020-11-02/jack-ma-summoned-by-china-financial-regulators-on-eve-of-ant-ipo" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2020-11-02/jack-ma-summoned-by-china-financial-regulators-on-eve-of-ant-ipo</a>
 
+### 6: [2020-11-03 15:25:07+08:00 推文](https://twitter.com/williamnee/status/1323526607080886272)
+
+RT William Nee<br>BREAKING: Hong Kong police arrest producer of TV documentary about Yuen Long mob attacks - report | Hong Kong Free Press @hkfp <a href="https://hongkongfp.com/2020/11/03/breaking-hong-kong-police-arrest-producer-of-tv-documentary-about-yuen-long-mob-attacks-report/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2020/11/03/breaking-hong-kong-police-arrest-producer-of-tv-documentary-about-yuen-long-mob-attacks-report/</a>
+
