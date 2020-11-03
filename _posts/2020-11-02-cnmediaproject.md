@@ -39,3 +39,23 @@ RT Nerys Avery<br>Party makes a very visible and unnecessary show of who’s b
 
 RT William Nee<br>BREAKING: Hong Kong police arrest producer of TV documentary about Yuen Long mob attacks - report | Hong Kong Free Press @hkfp <a href="https://hongkongfp.com/2020/11/03/breaking-hong-kong-police-arrest-producer-of-tv-documentary-about-yuen-long-mob-attacks-report/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2020/11/03/breaking-hong-kong-police-arrest-producer-of-tv-documentary-about-yuen-long-mob-attacks-report/</a>
 
+### 7: [2020-11-03 20:39:39+08:00 推文](https://twitter.com/cnmediaproject/status/1323605760832643075)
+
+For those who missed it: A Brief History of the Helmsmen. Looking at the honorific title "helmsman" as it has been used in China's past. <a href="https://chinamediaproject.org/2020/11/02/a-brief-history-of-the-helmsman/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/02/a-brief-history-of-the-helmsman/</a><br><img style src="https://pbs.twimg.com/media/El5kO4GXEAIIRSR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2020-11-03 21:17:17+08:00 推文](https://twitter.com/ulywang/status/1323615233013772288)
+
+RT Wang Feng 王丰<br>Oops, half of Thursday just fell through. That is not just a slap on the wrist.<br><img style src="https://pbs.twimg.com/media/El5tCgkVcAAZRQB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>Wang Feng 王丰: Thursday's gonna be, interesting. #AntFinancial<br><br><img style src="https://pbs.twimg.com/media/El0pIK7VgAAhxWg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/El0pIYKU4AAlWUX?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-11-03 21:17:56+08:00 推文](https://twitter.com/ChorzempaMartin/status/1323615397061472257)
+
+RT Martin Chorzempa 马永哲<br>Wow. Shanghai exchange delaying Ant IPO because of regulator summons (compulsory tea for Jack Ma, Eric Jing, Simon Hu) and darkening regulatory outlook. “Could cause your company not to meet IPO issuance or disclosure standards.” Jack Ma speech will go down as a big mistake.<br><img style src="https://pbs.twimg.com/media/El5sdNbXIAEb1_v?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2020-11-03 21:24:08+08:00 推文](https://twitter.com/ulywang/status/1323616955589296129)
+
+RT Wang Feng 王丰<br>HKEX like, what the ...<br><img style src="https://pbs.twimg.com/media/El5umxmU4AIeLVB?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-11-03 21:47:52+08:00 推文](https://twitter.com/PekingMike/status/1323622930383777793)
+
+RT Mike Forsythe  傅才德<br>Re @niubi Which the NYT confirmed.... <a href="https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html</a>
+
