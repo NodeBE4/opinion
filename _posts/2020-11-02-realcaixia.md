@@ -27,3 +27,11 @@ Re 美国的选举是真选举，选举制度的设计与运转深深地内嵌�
 
 Re @zfb468590 对！正是因为胡赵站在人民一边，中共党才迫胡辞职，才软禁赵至逝世。我在这个推文说的是中共党内和政府组成从来都没有进行过真正的选举。这是两个问题。
 
+### 4: [2020-11-04 23:06:30+08:00 推文](https://twitter.com/realcaixia/status/1324005107000856577)
+
+川普不是常规总统，美国病需要下猛药 | 大事小评（Julia Xu 陈小平20201103） <a href="https://youtu.be/CVgiiAl1j80" target="_blank" rel="noopener noreferrer">https://youtu.be/CVgiiAl1j80</a>
+
+### 5: [2020-11-04 23:10:38+08:00 推文](https://twitter.com/realcaixia/status/1324006146156470273)
+
+Re 这位访谈嘉宾分析美国社会不同人群支持或反对川普总统的深层原因分析，很有深度。推荐
+
