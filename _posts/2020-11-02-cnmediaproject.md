@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-03
+date: 2020-11-04
 from: https://twitter.com/vshih2/status/1323082876737351681
 layout: post
 tags:
@@ -58,4 +58,8 @@ RT Wang Feng 王丰<br>HKEX like, what the ...<br><img style src="https://pbs.
 ### 11: [2020-11-03 21:47:52+08:00 推文](https://twitter.com/PekingMike/status/1323622930383777793)
 
 RT Mike Forsythe  傅才德<br>Re @niubi Which the NYT confirmed.... <a href="https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2020/08/12/business/china-hong-kong-elite.html</a>
+
+### 12: [2020-11-04 22:43:55+08:00 推文](https://twitter.com/muyixiao/status/1323999421483409409)
+
+RT Muyi Xiao<br>“Many countries awaiting vaccine doses, like Indonesia, the Philippines and Malaysia, are anxious to avoid antagonizing Beijing. And this is something the latter is keenly aware of.” <a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Red-Pill-Behind-China-s-COVID-19-vaccine-diplomacy" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Spotlight/The-Big-Story/Red-Pill-Behind-China-s-COVID-19-vaccine-diplomacy</a>
 
