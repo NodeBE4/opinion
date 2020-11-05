@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-04
+date: 2020-11-05
 from: https://twitter.com/vshih2/status/1323082876737351681
 layout: post
 tags:
@@ -62,4 +62,16 @@ RT Mike Forsythe  傅才德<br>Re @niubi Which the NYT confirmed.... <a href
 ### 12: [2020-11-04 22:43:55+08:00 推文](https://twitter.com/muyixiao/status/1323999421483409409)
 
 RT Muyi Xiao<br>“Many countries awaiting vaccine doses, like Indonesia, the Philippines and Malaysia, are anxious to avoid antagonizing Beijing. And this is something the latter is keenly aware of.” <a href="https://asia.nikkei.com/Spotlight/The-Big-Story/Red-Pill-Behind-China-s-COVID-19-vaccine-diplomacy" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Spotlight/The-Big-Story/Red-Pill-Behind-China-s-COVID-19-vaccine-diplomacy</a>
+
+### 13: [2020-11-05 15:30:00+08:00 推文](https://twitter.com/fcchk/status/1324252609599995904)
+
+RT The Foreign Correspondents’ Club, Hong Kong<br>From the latest issue of #TheCorrespondentMagazine: What are the implications of #HongKong's #NationalSecurityLaw for #PressFreedom? #journalism #journalists #journalismmatters #JournalismIsNotACrime <a href="https://www.fcchk.org/correspondent/hong-kongs-national-security-law-implications-for-journalists/" target="_blank" rel="noopener noreferrer">https://www.fcchk.org/correspondent/hong-kongs-national-security-law-implications-for-journalists/</a>
+
+### 14: [2020-11-05 15:54:27+08:00 推文](https://twitter.com/cnmediaproject/status/1324258762690056197)
+
+Re @rob_schmitz Interesting translation. This is apparently from 流浪乞讨人员, <a href="http://www.xinhuanet.com/local/2020-11/02/c_1126684960.htm" target="_blank" rel="noopener noreferrer">http://www.xinhuanet.com/local/2020-11/02/c_1126684960.htm</a> <a href="http://news.bbc.co.uk/chinese/simp/hi/newsid_3000000/newsid_3001800/3001886.stm" target="_blank" rel="noopener noreferrer">http://news.bbc.co.uk/chinese/simp/hi/newsid_3000000/newsid_3001800/3001886.stm</a>
+
+### 15: [2020-11-05 16:21:53+08:00 推文](https://twitter.com/JMSCHKU/status/1324265667558838272)
+
+RT HKU Journalism<br>See what we've been up to @jmschku and read what @keithrichburg has to say about what the media did right covering the US elections. #media #journalism #disinformation #election2020 - <a href="https://mailchi.mp/eb8d951c971b/hkujournalism_nov2020" target="_blank" rel="noopener noreferrer">https://mailchi.mp/eb8d951c971b/hkujournalism_nov2020</a><br><img style src="https://pbs.twimg.com/media/EmC8m3hW0AAvyuo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
