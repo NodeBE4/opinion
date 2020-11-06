@@ -59,3 +59,7 @@ Re @fpuGLPaqJhgiBnA @BertonW73930 这图片最后一句话绝不是新华社官�
 
 这个视频里选票居然是中国顺丰快递公司寄过来的。谁能验证一下真假？<br><video src="https://video.twimg.com/ext_tw_video/1324566999721218054/pu/vid/720x1280/aosnuP7fHG8pViiM.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1324566999721218054/pu/img/glvdFN79gppsFC7U.jpg"></video>
 
+### 12: [2020-11-06 12:56:38+08:00 推文](https://twitter.com/realcaixia/status/1324576403552129024)
+
+Re 计票现场一个顺丰快递信封的视频一发出，居然跟帖留言的80-90%几乎是一个口径，看来真是“组织”统一口径，五毛粉红们连辩护掩盖多点各种借口都没有。看来真是“词穷”了。
+

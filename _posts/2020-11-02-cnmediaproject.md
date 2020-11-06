@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-05
+date: 2020-11-06
 from: https://twitter.com/vshih2/status/1323082876737351681
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re @rob_schmitz Interesting translation. This is apparently from 流浪乞讨人
 ### 15: [2020-11-05 16:21:53+08:00 推文](https://twitter.com/JMSCHKU/status/1324265667558838272)
 
 RT HKU Journalism<br>See what we've been up to @jmschku and read what @keithrichburg has to say about what the media did right covering the US elections. #media #journalism #disinformation #election2020 - <a href="https://mailchi.mp/eb8d951c971b/hkujournalism_nov2020" target="_blank" rel="noopener noreferrer">https://mailchi.mp/eb8d951c971b/hkujournalism_nov2020</a><br><img style src="https://pbs.twimg.com/media/EmC8m3hW0AAvyuo?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2020-11-06 13:12:31+08:00 推文](https://twitter.com/paulmozur/status/1324580399071158272)
+
+RT Paul Mozur 孟建國<br>Fascinating by @QiZHAI et al showing how much Jack Ma's speech caused the regulatory clampdown on Ant. It's also a striking sign of how Xi has changed China. Jack hit out at regulators several times. Never before were the consequences so grave. <a href="https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX</a>
 
