@@ -79,3 +79,7 @@ RT HKU Journalism<br>See what we've been up to @jmschku and read what @keithri
 
 RT Paul Mozur 孟建國<br>Fascinating by @QiZHAI et al showing how much Jack Ma's speech caused the regulatory clampdown on Ant. It's also a striking sign of how Xi has changed China. Jack hit out at regulators several times. Never before were the consequences so grave. <a href="https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/ant-group-ipo-suspension-regulators/how-billionaire-jack-ma-fell-to-earth-and-took-ants-mega-ipo-with-him-idUSKBN27L2GX</a>
 
+### 17: [2020-11-06 23:39:39+08:00 推文](https://twitter.com/cnmediaproject/status/1324738224254783488)
+
+China's new restrictions on Australian imports have made headlines in the West this week. But curiously, beyond very limited coverage in the Global Times that is getting global attention, all is mostly silent inside China. What does this tell us? <a href="https://chinamediaproject.org/2020/11/06/chinas-silent-trade-row/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/06/chinas-silent-trade-row/</a><br><img style src="https://pbs.twimg.com/media/EmJqTIhW0Ac9dKN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
