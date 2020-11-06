@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-05
+date: 2020-11-06
 from: https://twitter.com/realcaixia/status/1323654857455263744
 layout: post
 tags:
@@ -54,4 +54,8 @@ Re @fpuGLPaqJhgiBnA @BertonW73930 这图片最后一句话绝不是新华社官�
 ### 10: [2020-11-05 19:46:16+08:00 推文](https://twitter.com/realcaixia/status/1324317104376553473)
 
 这两段评论非常好！灯塔国的选举关系未来全球格局和走势的变化，灯塔国这次大选中出现的异常诡异复杂的情况，既使灯塔国陷入空前的宪政危机，也是对灯塔国基本制度力量和美国人民的考验。解决问题总有一个过程，需要一段时间，相信美国人民会很好解决问题。<br><br>ZHANGDONG: 华人，无论海内海外，空前关注本届美国大选，社交媒体实时报道，冷静分析，激烈争辩，其热烈程度不亚于美国选民。这是因为华人对灯塔国寄予极大的希望！当下选举结果尚未明确，无论谁入主白宫，我们都要对民主理念和民主制度有信心。民主制度对僵化政治既有注入生机的作用，也有其自身纠错机制。（1）<br>
+
+### 11: [2020-11-06 12:19:31+08:00 推文](https://twitter.com/realcaixia/status/1324567062140903425)
+
+这个视频里选票居然是中国顺丰快递公司寄过来的。谁能验证一下真假？<br><video src="https://video.twimg.com/ext_tw_video/1324566999721218054/pu/vid/720x1280/aosnuP7fHG8pViiM.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1324566999721218054/pu/img/glvdFN79gppsFC7U.jpg"></video>
 
