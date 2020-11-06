@@ -40,6 +40,8 @@ async function fetchFeedx(site, url) {
       content = item['content:encoded']
     }else if (item['media:group']) {
       content = item['media:group']['media:description'][0]
+    }else if (item['description']) {
+      content = item['description']
     }else{
       content = item.content
     }
