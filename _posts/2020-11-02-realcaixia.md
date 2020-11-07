@@ -71,3 +71,55 @@ Re 计票现场一个顺丰快递信封的视频一发出，居然跟帖留言�
 
 Re @lunanweiyi 继续看选战大剧，大剧还没到中场,更不是终场。选战激战正酣，战场转移阵地至司法领域。
 
+### 15: [2020-11-08 02:22:24+08:00 推文](https://twitter.com/realcaixia/status/1325141568169398272)
+
+Re @lunanweiyi 继续看选战大剧，大剧还没到中场,更不是终场。选战激战正酣，战场转移阵地至司法领域。媒体宣布不具备法律效应。媒体怎么说都只能是一家之言而不是一锤定音。法律定音之锤还未落下。
+
+### 16: [2020-11-08 02:30:08+08:00 推文](https://twitter.com/realcaixia/status/1325143516608081920)
+
+Re @lunanweiyi 如此舞弊还能作为胜选而上位，美国选民能答应吗？美国宪法还有权威吗？如此伤害与动摇美国200多年的立国根基，这些作弊者想过他们将面临什么样的历史与正义的审判吗？这些作弊者想过他们的家人与子孙将会面对什么样的名誉蒙羞？这次大选，美利坚合众国历史将如何记载？
+
+### 17: [2020-11-08 02:51:43+08:00 推文](https://twitter.com/realcaixia/status/1325148947510386688)
+
+Re @lunanweiyi 鲁难你看看曹长青的推文。
+
+### 18: [2020-11-08 02:55:22+08:00 推文](https://twitter.com/realcaixia/status/1325149865706360833)
+
+<br><img style src="https://pbs.twimg.com/media/EmPgxq2U8AEDf9w?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2020-11-08 02:57:15+08:00 推文](https://twitter.com/realcaixia/status/1325150336600985605)
+
+<br><img style src="https://pbs.twimg.com/media/EmPhNEbWEAELGNc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2020-11-08 03:06:02+08:00 推文](https://twitter.com/realcaixia/status/1325152547833831425)
+
+中国网友的幽默。请有兴趣的网友猜一猜：川黑《沁园春》和应的是中国20世纪中谁的诗词音律？川粉这首运用了20世纪中国那首歌的节律？😄<br><img style src="https://pbs.twimg.com/media/EmPjNQYVoAcyT9Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2020-11-08 03:09:15+08:00 推文](https://twitter.com/realcaixia/status/1325153356705226753)
+
+Re 写错一字：不是音律，是韵律。猜一猜：川黑《沁园春》和应的是20世纪中国谁的诗词韵律？
+
+### 22: [2020-11-08 03:14:04+08:00 推文](https://twitter.com/realcaixia/status/1325154569534509056)
+
+Re @HUAWEI251996 👏🌹
+
+### 23: [2020-11-08 03:14:16+08:00 推文](https://twitter.com/realcaixia/status/1325154619497000960)
+
+Re @6zxSk7VMQN6GVmi 👏🌹
+
+### 24: [2020-11-08 03:36:02+08:00 推文](https://twitter.com/realcaixia/status/1325160098726023169)
+
+Re @HeQinglian 何老师这个推文精彩！未来一层层拨开美国2020大选真相，回顾竞选过程几百天各方的每一步动作；追踪每一个紧要环节、每一个扑簌迷离的细节直至最终的尘埃落定。那情节曲折离奇远远超过好莱坞任何一部大片；也给社会科学研究尤其政治学研究提出若干新课题，将促进丰富政治学的理论。
+
+### 25: [2020-11-08 03:58:24+08:00 推文](https://twitter.com/realcaixia/status/1325165725804359680)
+
+Re @highighig @FM6801 👏🌹
+
+### 26: [2020-11-08 03:59:07+08:00 推文](https://twitter.com/realcaixia/status/1325165906935377920)
+
+Re @danielk88295994 👏🌹
+
+### 27: [2020-11-08 03:59:17+08:00 推文](https://twitter.com/realcaixia/status/1325165948395954176)
+
+Re @Dannio1998 👏🌹
+
