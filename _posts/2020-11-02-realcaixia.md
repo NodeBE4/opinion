@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-07
+date: 2020-11-08
 from: https://twitter.com/realcaixia/status/1323654857455263744
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re 计票现场一个顺丰快递信封的视频一发出，居然跟帖留言�
 ### 13: [2020-11-07 23:19:00+08:00 推文](https://twitter.com/realcaixia/status/1325095413431537667)
 
 美国大选全球关注！中国大陆民众更是紧紧盯着美国选战动态，很有趣的一组图片😄，在中国各个微信群里流传。<br><img style src="https://pbs.twimg.com/media/EmOvPFWXMAMjXj2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvPZwXIAE_c_S?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvP0NW4AIGOec?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvQKcXYAEcS9s?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-11-08 02:20:15+08:00 推文](https://twitter.com/realcaixia/status/1325141029088006144)
+
+Re @lunanweiyi 继续看选战大剧，大剧还没到中场,更不是终场。选战激战正酣，战场转移阵地至司法领域。
 
