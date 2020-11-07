@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-06
+date: 2020-11-07
 from: https://twitter.com/realcaixia/status/1323654857455263744
 layout: post
 tags:
@@ -62,4 +62,8 @@ Re @fpuGLPaqJhgiBnA @BertonW73930 这图片最后一句话绝不是新华社官�
 ### 12: [2020-11-06 12:56:38+08:00 推文](https://twitter.com/realcaixia/status/1324576403552129024)
 
 Re 计票现场一个顺丰快递信封的视频一发出，居然跟帖留言的80-90%几乎是一个口径，看来真是“组织”统一口径，五毛粉红们连辩护掩盖多点各种借口都没有。看来真是“词穷”了。
+
+### 13: [2020-11-07 23:19:00+08:00 推文](https://twitter.com/realcaixia/status/1325095413431537667)
+
+美国大选全球关注！中国大陆民众更是紧紧盯着美国选战动态，很有趣的一组图片😄，在中国各个微信群里流传。<br><img style src="https://pbs.twimg.com/media/EmOvPFWXMAMjXj2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvPZwXIAE_c_S?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvP0NW4AIGOec?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvQKcXYAEcS9s?format=jpg&name=orig" referrerpolicy="no-referrer">
 
