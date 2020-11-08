@@ -123,3 +123,7 @@ Re @danielk88295994 👏🌹
 
 Re @Dannio1998 👏🌹
 
+### 28: [2020-11-08 20:48:17+08:00 推文](https://twitter.com/realcaixia/status/1325419872323596291)
+
+请看看我的推下聚集了大量机器制造的所谓跟帖者。这些都是登记了推特账号而不发帖的，或者发个几个贴来蒙圈的贴。这些机器五毛粉红的操控者凭着在我推下发各种撕咬去领中共的狗粮。大量机器制造的跟帖者攻击推特上反抗中共极权暴政的异见人士，是中共网军信息战的一个部分。<br><img style src="https://pbs.twimg.com/media/EmTWViyW8AE9IVF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWVz4XYAE3opG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWWAiWEAAGkNF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWWOMXUAARu4x?format=jpg&name=orig" referrerpolicy="no-referrer">
+
