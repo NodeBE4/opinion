@@ -127,3 +127,7 @@ Re @Dannio1998 👏🌹
 
 请看看我的推下聚集了大量机器制造的所谓跟帖者。这些都是登记了推特账号而不发帖的，或者发个几个贴来蒙圈的贴。这些机器五毛粉红的操控者凭着在我推下发各种撕咬去领中共的狗粮。大量机器制造的跟帖者攻击推特上反抗中共极权暴政的异见人士，是中共网军信息战的一个部分。<br><img style src="https://pbs.twimg.com/media/EmTWViyW8AE9IVF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWVz4XYAE3opG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWWAiWEAAGkNF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWWOMXUAARu4x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 29: [2020-11-08 23:59:53+08:00 推文](https://twitter.com/realcaixia/status/1325468091522932736)
+
+习提出的“宗教中国化”是习中共对宗教界人士及其信众的政治绑架！“宗教中国化”是以国家暴政权力为支撑，公然推行“政教合一”的宗教政治化。无论是佛教、道教、天主教、基督教还是伊斯兰教，其教职人员事实上变成了中共另类宣传部，执行中共的“洗脑毒心”任务，并与维稳结合，控制教徒与信众的思想。<br><img style src="https://pbs.twimg.com/media/EmUCL71XUAQcpWM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmUCMVrWMAA4fLN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmUCMl3XMAImX8G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmUCM4BW8AAlPKr?format=jpg&name=orig" referrerpolicy="no-referrer">
+
