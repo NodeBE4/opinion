@@ -35,3 +35,7 @@ Re @fZlgRVEFK1uDiJZ 🙏🌹
 
 Re @shuyhuang 看来你只有单面理解。另，看来这一段中共给你的脏活就是专门盯我的推，我的推文发了不出半小时，准有你出现。我统计一下，看看你从中共那里领到多少个五毛脏钱。
 
+### 6: [2020-11-09 01:13:48+08:00 推文](https://twitter.com/realcaixia/status/1325486693202468865)
+
+Spalding 将军的《STEALTH WAR》，是我在美买的第一本书。将军对中共极权对美国的经济、政治、科技、国家安全等领域的渗透扩张偷窃与对抗，做了很精彩的揭露分析。美国人与来美几十年的华人长期生活在与中国完全不同的制度环境里，他们想不到习中共有多邪恶，将军的这本书能提高人们的认识与警觉。<br><br>General Spalding: Stealth Warriors- my number one priority is to protect the safety and prosperity of our democracy. We must continue to reshape the international order away from totalitarianism towards the promotion of human rights, civil liberty, rule of law, free trade and economic prosperity.<br>
+
