@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-09
+date: 2020-11-10
 from: https://twitter.com/bueti/status/1325688694410502146
 layout: post
 tags:
@@ -22,4 +22,8 @@ RT Reinhard Bütikofer<br>#Politico's Brussels Playbook is today "presented by
 ### 2: [2020-11-09 18:53:42+08:00 推文](https://twitter.com/cnmediaproject/status/1325753425741615104)
 
 Xi Jinping at Buddhism's Core: a WeChat post by the Da Ci'en Temple in Xi'an, a key site of early Chinese Buddhism and symbol of China-India relations, reveals how deeply CCP ideology and dominance is being pushed within religion in China. <a href="https://chinamediaproject.org/2020/11/09/xi-jinping-at-buddhisms-core/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/09/xi-jinping-at-buddhisms-core/</a><br><img style src="https://pbs.twimg.com/media/EmYFmexXYAE5VdM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2020-11-10 00:05:42+08:00 推文](https://twitter.com/susanjakes/status/1325831941145436160)
+
+RT Susan Jakes<br>Quick but substantial read on Xi Jinping's continuing consolidation of power from always must-read, @mcgregorrichard- <a href="https://www.nytimes.com/2020/11/09/opinion/xi-jinping-china-power.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2020/11/09/opinion/xi-jinping-china-power.html</a>
 
