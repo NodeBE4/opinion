@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-09
+date: 2020-11-10
 from: https://twitter.com/realcaixia/status/1325470651537305602
 layout: post
 tags:
@@ -42,4 +42,28 @@ Spalding 将军的《STEALTH WAR》，是我在美买的第一本书。将军对
 ### 7: [2020-11-09 22:05:30+08:00 推文](https://twitter.com/realcaixia/status/1325801692332437504)
 
 今天柏林墙倒塌31周年。东德原统一社会党筑墙，防止东德人投向西德。28年后墙倒塌了，是人心的力量。据说习中共前不久在中越边境口岸城市筑墙，阻挡中国民工去越南打工。1978年底改革开放，42年后筑墙，是极权制度在作孽。里根总统的“推倒这座墙”的声音成为29世纪人类最强音之一，至今回响全世界。<br><img style src="https://pbs.twimg.com/media/EmYxmgFWEAAJ_v0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmYxmvtWMAAnvvW?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmYxm6eXIAAUsvm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmYxnGhXIAQUbzA?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2020-11-09 22:44:20+08:00 推文](https://twitter.com/realcaixia/status/1325811465119477760)
+
+Re 抱歉啊，写数字是把20世纪不小心点击数字0时碰到了9，结果错成了29。特此声明更正。
+
+### 9: [2020-11-09 22:48:10+08:00 推文](https://twitter.com/realcaixia/status/1325812429910061057)
+
+Re @a9909178 是笔误，是20世纪，但点击手机屏幕数字0时因显示屏小，碰到了9。我发出去时检查不仔细。是笔误。
+
+### 10: [2020-11-09 22:55:31+08:00 推文](https://twitter.com/realcaixia/status/1325814282177667075)
+
+Re @licolemon1 边境有隔离网或隔离墙，是防止外国人非法入侵入境，这与柏林墙、中越边境口岸城市筑墙性质完全不同。要么是你自己糊涂分不清；要么是拿你的跟帖领脏钱吧。按说正常讨论不应质疑动机，但明显的事实都在往歪处扭曲混淆视听，即为反常。反常必有妖！
+
+### 11: [2020-11-09 22:56:40+08:00 推文](https://twitter.com/realcaixia/status/1325814571580403714)
+
+Re @AaronTaoNan 请你亲身去口岸墙看看真相。
+
+### 12: [2020-11-09 23:20:08+08:00 推文](https://twitter.com/realcaixia/status/1325820476627832832)
+
+Re @Db3nYgEv4dyWhN6 看来你是有翻墙特权的人。在大陆能有翻墙特权，且一个劲地夸中共国，用发帖来做到“两个维护”-维护习核心，大概这是个什么人，相信网友们都心如明镜。
+
+### 13: [2020-11-10 00:30:23+08:00 推文](https://twitter.com/realcaixia/status/1325838155283652608)
+
+关于柏林墙倒塌的推文发出去，就有改头换面来为习中共筑墙作辩护的跟帖。索性再发一个推，看看中国越南边境、中国老挝边境发生了什么。平壤我去过；首尔我去过；三八线停战协议签署房间我进过。2次到柏林，每去必看柏林墙。当我身处上面那些地方时，总要问：我们中国人的命运将如何？<br><img style src="https://pbs.twimg.com/media/EmZSxK7W8AALoec?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmZSxfDXMAAHAxH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
