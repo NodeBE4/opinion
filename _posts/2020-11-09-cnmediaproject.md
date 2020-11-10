@@ -27,3 +27,11 @@ Xi Jinping at Buddhism's Core: a WeChat post by the Da Ci'en Temple in Xi'an, a 
 
 RT Susan Jakes<br>Quick but substantial read on Xi Jinping's continuing consolidation of power from always must-read, @mcgregorrichard- <a href="https://www.nytimes.com/2020/11/09/opinion/xi-jinping-china-power.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2020/11/09/opinion/xi-jinping-china-power.html</a>
 
+### 4: [2020-11-10 17:14:14+08:00 推文](https://twitter.com/cnmediaproject/status/1326090781116030979)
+
+CMP looks at China's coverage of import restrictions on Australia that FM spokesman Wang Wenbin said "also protect the safety of consumers" and comes up empty-handed. No coverage outside Global Times suggests this is a punitive response, despite denials. <a href="https://chinamediaproject.org/2020/11/06/chinas-silent-trade-row/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/06/chinas-silent-trade-row/</a><br><img style src="https://pbs.twimg.com/media/Emc3fheW8AAhlkx?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2020-11-10 21:18:21+08:00 推文](https://twitter.com/FGodement/status/1326152213220249600)
+
+RT François Godement<br>And as we debate, China announces major antitrust measures against the largest Chinese digital platforms, cutting down their size. Their stock drops. It shows what’s happening is wider than the Jack Ma issue. And incidentally will reduce their international agressivité 1/2<br><br>François Godement: Plusieurs facteurs possibles, c’est vrai. Mais ce que vous citez était vrai dés le début de l’IPO. Ce qui a changé brusquement, c’est l’échelle des capitaux ramassés et de la valorisation d’ANT... et la sortie publique de Ma contre les banques officielles devant leurs parrains!<br> <a href="https://twitter.com/qianheparis/status/1326146073077936128" target="_blank" rel="noopener noreferrer">https://twitter.com/qianheparis/status/1326146073077936128</a>
+
