@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-10
+date: 2020-11-11
 from: https://twitter.com/bueti/status/1325688694410502146
 layout: post
 tags:
@@ -34,4 +34,20 @@ CMP looks at China's coverage of import restrictions on Australia that FM spokes
 ### 5: [2020-11-10 21:18:21+08:00 推文](https://twitter.com/FGodement/status/1326152213220249600)
 
 RT François Godement<br>And as we debate, China announces major antitrust measures against the largest Chinese digital platforms, cutting down their size. Their stock drops. It shows what’s happening is wider than the Jack Ma issue. And incidentally will reduce their international agressivité 1/2<br><br>François Godement: Plusieurs facteurs possibles, c’est vrai. Mais ce que vous citez était vrai dés le début de l’IPO. Ce qui a changé brusquement, c’est l’échelle des capitaux ramassés et de la valorisation d’ANT... et la sortie publique de Ma contre les banques officielles devant leurs parrains!<br> <a href="https://twitter.com/qianheparis/status/1326146073077936128" target="_blank" rel="noopener noreferrer">https://twitter.com/qianheparis/status/1326146073077936128</a>
+
+### 6: [2020-11-11 17:56:36+08:00 推文](https://twitter.com/SophieMak1/status/1326463833083244544)
+
+RT Sophie Mak<br>For the first time in Hong Kong history, there will be no more effective opposition in the legislature. Pro-democracy legislators were unseated for failing to display "patriotism" and show "loyalty" to Beijing. This is what authoritarianism looks like. <a href="https://qz.com/1931705/china-exerts-its-control-over-hong-kongs-legislative-council/" target="_blank" rel="noopener noreferrer">https://qz.com/1931705/china-exerts-its-control-over-hong-kongs-legislative-council/</a>
+
+### 7: [2020-11-11 19:41:38+08:00 推文](https://twitter.com/cnmediaproject/status/1326490264278601728)
+
+A social media essay from a leading legal scholar in China drives discussion of the difficulties facing women as they struggle between the pressures of work and family. h/t @SPCmonitor <a href="https://chinamediaproject.org/2020/11/11/the-impossible-balance/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/11/the-impossible-balance/</a><br><img style src="https://pbs.twimg.com/media/EmijpPEXUAA-bQ_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2020-11-11 23:47:09+08:00 推文](https://twitter.com/jwassers/status/1326552050952335367)
+
+RT Jeff Wasserstrom<br>A good time to read (or revisit) this powerful piece by @laurelchor<br><br>Indira Lakshmanan: #HongKong mourns the end of its way of life as #China continues its crackdown on dissent<br> <a href="https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/" target="_blank" rel="noopener noreferrer">https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/</a>
+
+### 9: [2020-11-11 23:47:39+08:00 推文](https://twitter.com/IlariaMariaSala/status/1326552174315282437)
+
+RT Ilaria Maria Sala<br>I wrote a poem about that sentence that keeps being said about Hong Kong - how it is dead, and dead, and dead again. You can read it here: <a href="https://hkprotesting.com/2020/11/11/not-dead/amp/?__twitter_impression=true" target="_blank" rel="noopener noreferrer">https://hkprotesting.com/2020/11/11/not-dead/amp/?__twitter_impression=true</a>
 
