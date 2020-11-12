@@ -43,19 +43,27 @@ RT Sophie Mak<br>For the first time in Hong Kong history, there will be no mor
 
 A social media essay from a leading legal scholar in China drives discussion of the difficulties facing women as they struggle between the pressures of work and family. h/t @SPCmonitor <a href="https://chinamediaproject.org/2020/11/11/the-impossible-balance/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/11/the-impossible-balance/</a><br><img style src="https://pbs.twimg.com/media/EmijpPEXUAA-bQ_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 8: [2020-11-11 23:47:09+08:00 推文](https://twitter.com/jwassers/status/1326552050952335367)
+### 8: [2020-11-11 19:56:02+08:00 推文](https://twitter.com/rob_schmitz/status/1326493888014639107)
+
+RT Rob Schmitz<br>As a democratic system is tested in the US, another is dismantled in Hong Kong, where lawmakers I've interviewed for years are forced from their elected positions: <a href="https://apnews.com/article/beijing-democracy-hong-kong-china-national-security-7434a6f1ac28a059827b51d02987f71c" target="_blank" rel="noopener noreferrer">https://apnews.com/article/beijing-democracy-hong-kong-china-national-security-7434a6f1ac28a059827b51d02987f71c</a>
+
+### 9: [2020-11-11 23:47:09+08:00 推文](https://twitter.com/jwassers/status/1326552050952335367)
 
 RT Jeff Wasserstrom<br>A good time to read (or revisit) this powerful piece by @laurelchor<br><br>Indira Lakshmanan: #HongKong mourns the end of its way of life as #China continues its crackdown on dissent<br> <a href="https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/" target="_blank" rel="noopener noreferrer">https://www.nationalgeographic.com/history/2020/09/hong-kong-mourns-way-life-china-cracks-down-dissent/</a>
 
-### 9: [2020-11-11 23:47:39+08:00 推文](https://twitter.com/IlariaMariaSala/status/1326552174315282437)
+### 10: [2020-11-11 23:47:39+08:00 推文](https://twitter.com/IlariaMariaSala/status/1326552174315282437)
 
 RT Ilaria Maria Sala<br>I wrote a poem about that sentence that keeps being said about Hong Kong - how it is dead, and dead, and dead again. You can read it here: <a href="https://hkprotesting.com/2020/11/11/not-dead/amp/?__twitter_impression=true" target="_blank" rel="noopener noreferrer">https://hkprotesting.com/2020/11/11/not-dead/amp/?__twitter_impression=true</a>
 
-### 10: [2020-11-12 19:52:14+08:00 推文](https://twitter.com/cnmediaproject/status/1326855319461523460)
+### 11: [2020-11-12 19:52:14+08:00 推文](https://twitter.com/cnmediaproject/status/1326855319461523460)
 
 CMP looks at the US "Clean Network" plan and China's response, the "Global Initiative on Data Security" -- and translates a related editorial in today's People's Daily. <a href="https://chinamediaproject.org/2020/11/12/china-growls-over-clean-network-plan/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/12/china-growls-over-clean-network-plan/</a><br><img style src="https://pbs.twimg.com/media/Emnv3ZBXUAAW7NF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 11: [2020-11-12 20:01:26+08:00 推文](https://twitter.com/pingroma/status/1326857636118032384)
+### 12: [2020-11-12 20:01:26+08:00 推文](https://twitter.com/pingroma/status/1326857636118032384)
 
 RT Zheping Huang<br>Tencent's revenue beat estimates, as its bread-and-butter games grew 45% for Q3, the fastest pace since 2017. Ad recovered with marco. Fintech is doing all right. Investment portfolio paid off with $1.7 billion one-time gain.<br>What more can you ask for? <a href="http://bloomberg.com/news/articles/2020-11-12/tencent-s-results-beat-estimates-thanks-to-resilient-gaming-boom?sref=D9adxNGw" target="_blank" rel="noopener noreferrer">http://bloomberg.com/news/articles/2020-11-12/tencent-s-results-beat-estimates-thanks-to-resilient-gaming-boom?sref=D9adxNGw</a>
+
+### 13: [2020-11-12 21:57:46+08:00 推文](https://twitter.com/cnmediaproject/status/1326886911777120256)
+
+An opinion in the People's Daily claims China's “Global Data Security Initiative” has "attracted widespread attention from the international community." Only Syria and Pakistan have openly supported it. <a href="https://chinamediaproject.org/2020/11/12/china-growls-over-clean-network-plan/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/12/china-growls-over-clean-network-plan/</a>
 
