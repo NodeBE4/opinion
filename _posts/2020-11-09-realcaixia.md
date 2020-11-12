@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-10
+date: 2020-11-12
 from: https://twitter.com/realcaixia/status/1325470651537305602
 layout: post
 tags:
@@ -66,4 +66,20 @@ Re @Db3nYgEv4dyWhN6 看来你是有翻墙特权的人。在大陆能有翻墙特
 ### 13: [2020-11-10 00:30:23+08:00 推文](https://twitter.com/realcaixia/status/1325838155283652608)
 
 关于柏林墙倒塌的推文发出去，就有改头换面来为习中共筑墙作辩护的跟帖。索性再发一个推，看看中国越南边境、中国老挝边境发生了什么。平壤我去过；首尔我去过；三八线停战协议签署房间我进过。2次到柏林，每去必看柏林墙。当我身处上面那些地方时，总要问：我们中国人的命运将如何？<br><img style src="https://pbs.twimg.com/media/EmZSxK7W8AALoec?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmZSxfDXMAAHAxH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-11-12 08:26:02+08:00 推文](https://twitter.com/realcaixia/status/1326682630784512007)
+
+Re @robert_spalding 中共做得出这些邪恶的事情。这些所谓志愿者，一定都是领到赏钱的。他们打那么多电话，跑那么多人家，那是“计件工资制”，赏钱刺激作用。
+
+### 15: [2020-11-12 09:25:31+08:00 推文](https://twitter.com/realcaixia/status/1326697602595889152)
+
+习中共当局捏造罪名拘捕耿潇男后，再次半夜抓人，拘禁了著名的农民企业家孙大午，此事再次引发公众关注。孙大午是坚定追求宪政民主的有思想的企业家，他遭到中共专制暴政的长期打压，曾被以所谓“非法集资”判过罪刑，这次再度遭受政治迫害。为维护“政治安全”，大陆暴力镇压达到疯狂。<br><img style src="https://pbs.twimg.com/media/Emlga-DXEAA64N8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmlgbYMW8AA18wP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmlgbqtWEAA8a5B?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Emlgb54XYAE312-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2020-11-12 09:54:36+08:00 推文](https://twitter.com/realcaixia/status/1326704919794028545)
+
+习中共极权统治靠“两杆子”：暴力与洗脑。为保统治稳固，他们一边残酷镇压公民力量，一边加紧推行洗脑宣传毒害人心：迫使记者学“习强国思想”；为早就破产的国有经济“理论”招魂；街道出“朝阳大妈”，学校培养嗜好仇恨暴力的“朝阳娃娃”，教育部规定导师不得与学生发生不正当关系。无耻必然无德！<br><img style src="https://pbs.twimg.com/media/EmlnFAKW8AAklyA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmlnFOUXIAEuvPT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmlnFf5XEAElr82?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmlnFvWXcAAVAmO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2020-11-12 11:23:29+08:00 推文](https://twitter.com/realcaixia/status/1326727287669186560)
+
+Re 刚刚听到一消息，抓孙大午时连同他儿子一起抓了，这与抓任志强后抓任志强儿子一样。
 
