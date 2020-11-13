@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-12
+date: 2020-11-13
 from: https://twitter.com/bueti/status/1325688694410502146
 layout: post
 tags:
@@ -66,4 +66,8 @@ RT Zheping Huang<br>Tencent's revenue beat estimates, as its bread-and-butter 
 ### 13: [2020-11-12 21:57:46+08:00 推文](https://twitter.com/cnmediaproject/status/1326886911777120256)
 
 An opinion in the People's Daily claims China's “Global Data Security Initiative” has "attracted widespread attention from the international community." Only Syria and Pakistan have openly supported it. <a href="https://chinamediaproject.org/2020/11/12/china-growls-over-clean-network-plan/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/12/china-growls-over-clean-network-plan/</a>
+
+### 14: [2020-11-13 16:58:58+08:00 推文](https://twitter.com/projectechowall/status/1327174102923227136)
+
+RT Echowall<br>In a toughening geopolitical context, with much hanging also on the transition in the US, the months and years to come will certainly be difficult for China-Europe relations – just as this year has undoubtedly been. @PhLeCorre <a href="https://www.echo-wall.eu/currents-context/chinas-challenging-year-europe" target="_blank" rel="noopener noreferrer">https://www.echo-wall.eu/currents-context/chinas-challenging-year-europe</a><br><img style src="https://pbs.twimg.com/media/EmsRysdW4AIR-EB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
