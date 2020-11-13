@@ -33,7 +33,7 @@ CMP looks at China's coverage of import restrictions on Australia that FM spokes
 
 ### 5: [2020-11-10 21:18:21+08:00 推文](https://twitter.com/FGodement/status/1326152213220249600)
 
-RT François Godement<br>And as we debate, China announces major antitrust measures against the largest Chinese digital platforms, cutting down their size. Their stock drops. It shows what’s happening is wider than the Jack Ma issue. And incidentally will reduce their international agressivité 1/2<br><br>François Godement: Plusieurs facteurs possibles, c’est vrai. Mais ce que vous citez était vrai dés le début de l’IPO. Ce qui a changé brusquement, c’est l’échelle des capitaux ramassés et de la valorisation d’ANT... et la sortie publique de Ma contre les banques officielles devant leurs parrains!<br> <a href="https://twitter.com/qianheparis/status/1326146073077936128" target="_blank" rel="noopener noreferrer">https://twitter.com/qianheparis/status/1326146073077936128</a>
+RT François Godement<br>And as we debate, China announces major antitrust measures against the largest Chinese digital platforms, cutting down their size. Their stock drops. It shows what’s happening is wider than the Jack Ma issue. And incidentally will reduce their international agressivité 1/2<br><br>François Godement: Plusieurs facteurs possibles, c’est vrai. Mais ce que vous citez était vrai dés le début de l’IPO. Ce qui a changé brusquement, c’est l’échelle des capitaux ramassés et de la valorisation d’ANT... et la sortie publique de Ma contre les banques officielles devant leurs parrains!<br> <a href="https://twitter.com/QianHeParis/status/1326146073077936128" target="_blank" rel="noopener noreferrer">https://twitter.com/QianHeParis/status/1326146073077936128</a>
 
 ### 6: [2020-11-11 17:56:36+08:00 推文](https://twitter.com/SophieMak1/status/1326463833083244544)
 
@@ -70,4 +70,8 @@ An opinion in the People's Daily claims China's “Global Data Security Initiati
 ### 14: [2020-11-13 16:58:58+08:00 推文](https://twitter.com/projectechowall/status/1327174102923227136)
 
 RT Echowall<br>In a toughening geopolitical context, with much hanging also on the transition in the US, the months and years to come will certainly be difficult for China-Europe relations – just as this year has undoubtedly been. @PhLeCorre <a href="https://www.echo-wall.eu/currents-context/chinas-challenging-year-europe" target="_blank" rel="noopener noreferrer">https://www.echo-wall.eu/currents-context/chinas-challenging-year-europe</a><br><img style src="https://pbs.twimg.com/media/EmsRysdW4AIR-EB?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2020-11-13 22:05:24+08:00 推文](https://twitter.com/cnmediaproject/status/1327251217383387137)
+
+CMP's David Bandurski writes for TechStream at Brookings about China's recent, short-lived experiment with Tuber, an app offering Chinese (very filtered) access to the global internet. Will a global "Great Filter" one day replace the "Great Firewall"? <a href="https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/</a>
 
