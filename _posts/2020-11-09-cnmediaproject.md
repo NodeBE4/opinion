@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-13
+date: 2020-11-14
 from: https://twitter.com/bueti/status/1325688694410502146
 layout: post
 tags:
@@ -74,4 +74,8 @@ RT Echowall<br>In a toughening geopolitical context, with much hanging also on
 ### 15: [2020-11-13 22:05:24+08:00 推文](https://twitter.com/cnmediaproject/status/1327251217383387137)
 
 CMP's David Bandurski writes for TechStream at Brookings about China's recent, short-lived experiment with Tuber, an app offering Chinese (very filtered) access to the global internet. Will a global "Great Filter" one day replace the "Great Firewall"? <a href="https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/</a>
+
+### 16: [2020-11-14 00:39:54+08:00 推文](https://twitter.com/dwertime/status/1327290099764117504)
+
+RT 𝖣𝖺𝗏𝗂𝖽 𝖶𝖾𝗋𝗍𝗂𝗆𝖾<br>Western reporting & commentary on China's social credit system has gotten so disconnected from reality that Chinese web users are laughing at it.<br><br>Manya Koetse: Weibo post that's nearing 70,000 likes: "There's this online rumor which some foreigners believe, that China operates this system of "credit points" similar to Sesame Credit and that everyone's closely monitored. If you behave badly, points will be deducted, ...<br><br><img style src="https://pbs.twimg.com/media/EmswbuSXIAA5GjE?format=png&name=orig" referrerpolicy="no-referrer">
 
