@@ -95,3 +95,7 @@ Re 今天特转推广传媒网播发的孙大午自述，这篇自述十分感�
 
 孙大午因正直而遭迫害。据说中共当局调集了约300警察，乘孙大午全家睡觉之时半夜抓人，将孙大午妻儿亲属与公司职工一起抓走。此事引发中国民间普遍不安：这是以“法”为名，习新时代“打土豪分田地”的序幕？中国大陆民营企业是否再度为刀俎之鱼肉？抓孙大午使民企家更心惊胆颤，毫无安全感谈何创业发展？<br><img style src="https://pbs.twimg.com/media/EmvjXNIWEAolS41?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmvjXh4XYAITU14?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmvjX4mXEAE5zqs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmvjYO1W4AAFHYF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 21: [2020-11-14 11:03:38+08:00 推文](https://twitter.com/realcaixia/status/1327447069611712512)
+
+Re @AnnaWruiqin 真抱歉，我知道是光，但发信息时急了，点击错了。后来我也发现了。
+
