@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-12
+date: 2020-11-14
 from: https://twitter.com/realcaixia/status/1325470651537305602
 layout: post
 tags:
@@ -82,4 +82,16 @@ Re @robert_spalding 中共做得出这些邪恶的事情。这些所谓志愿者
 ### 17: [2020-11-12 11:23:29+08:00 推文](https://twitter.com/realcaixia/status/1326727287669186560)
 
 Re 刚刚听到一消息，抓孙大午时连同他儿子一起抓了，这与抓任志强后抓任志强儿子一样。
+
+### 18: [2020-11-14 07:36:04+08:00 推文](https://twitter.com/realcaixia/status/1327394834475323394)
+
+农民企业家孙大午是有情怀的人，他办企业不与贪腐官员勾兑，得罪了当地官府；他维护农民利益，与霸占他们土地的国营农场抗争了许多年。他提出“私有，公治，共享”理念，试行“三权分立”的企业制度，用制度凝聚人心，靠制度创新挣钱。他深受农民爱戴，却为中共当局所不容，据说可能被打成黑社会案件。<br><br>Anna.wangruiqin: 关注孙大午、关注所有被割韭菜的民营企业主。<br><br>孙大午自述：倘若这个世界一定要杀掉公鸡，我能不能做一条狗？<br> <a href="https://www.ipkmedia.com/%e5%ad%99%e5%a4%a7%e5%8d%88%ef%bc%9a%e5%80%98%e8%8b%a5%e8%bf%99%e4%b8%aa%e4%b8%96%e7%95%8c%e4%b8%80%e5%ae%9a%e8%a6%81%e6%9d%80%e6%8e%89%e5%85%ac%e9%b8%a1%ef%bc%8c%e6%88%91%e8%83%bd%e4%b8%8d%e8%83%bd/" target="_blank" rel="noopener noreferrer">https://www.ipkmedia.com/%e5%ad%99%e5%a4%a7%e5%8d%88%ef%bc%9a%e5%80%98%e8%8b%a5%e8%bf%99%e4%b8%aa%e4%b8%96%e7%95%8c%e4%b8%80%e5%ae%9a%e8%a6%81%e6%9d%80%e6%8e%89%e5%85%ac%e9%b8%a1%ef%bc%8c%e6%88%91%e8%83%bd%e4%b8%8d%e8%83%bd/</a>
+
+### 19: [2020-11-14 07:37:57+08:00 推文](https://twitter.com/realcaixia/status/1327395305827000322)
+
+Re 今天特转推广传媒网播发的孙大午自述，这篇自述十分感人。
+
+### 20: [2020-11-14 08:14:35+08:00 推文](https://twitter.com/realcaixia/status/1327404526278746113)
+
+孙大午因正直而遭迫害。据说中共当局调集了约300警察，乘孙大午全家睡觉之时半夜抓人，将孙大午妻儿亲属与公司职工一起抓走。此事引发中国民间普遍不安：这是以“法”为名，习新时代“打土豪分田地”的序幕？中国大陆民营企业是否再度为刀俎之鱼肉？抓孙大午使民企家更心惊胆颤，毫无安全感谈何创业发展？<br><img style src="https://pbs.twimg.com/media/EmvjXNIWEAolS41?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmvjXh4XYAITU14?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmvjX4mXEAE5zqs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmvjYO1W4AAFHYF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
