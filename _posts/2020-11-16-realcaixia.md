@@ -23,3 +23,7 @@ title: '蔡霞 的 Twitter: 2020-11-16~2020-11-22'
 
 昨天就在寻找这篇文章，中国大陆微信群里这篇文章已经被封杀了。<br><br>Sheng Hong: 【横议】如何让民营企业家相信政府？｜盛洪<br> <a href="http://hillhouses.net/2020/11/14/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e5%a6%82%e4%bd%95%e8%ae%a9%e6%b0%91%e8%90%a5%e4%bc%81%e4%b8%9a%e5%ae%b6%e7%9b%b8%e4%bf%a1%e6%94%bf%e5%ba%9c%ef%bc%9f%ef%bd%9c%e7%9b%9b%e6%b4%aa/" target="_blank" rel="noopener noreferrer">http://hillhouses.net/2020/11/14/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e5%a6%82%e4%bd%95%e8%ae%a9%e6%b0%91%e8%90%a5%e4%bc%81%e4%b8%9a%e5%ae%b6%e7%9b%b8%e4%bf%a1%e6%94%bf%e5%ba%9c%ef%bc%9f%ef%bd%9c%e7%9b%9b%e6%b4%aa/</a>
 
+### 3: [2020-11-16 13:05:56+08:00 推文](https://twitter.com/realcaixia/status/1328202622411661313)
+
+习中共极权制度残酷迫害一切正直人士，多年前中央党校一位研究中国政治改革的老教授说，党内有个潜规则：劣胜优汰。党内有个“掐尖”机制，从基层党支部开始就容不得优秀的人。由极权性质决定，党内与体制内不断将有良知的党员官员排挤出体制外；在体制外不断打压迫害社会优秀人才，孙大午就是其中之一。<br><br>韩连潮: 国内网友传来一篇短文，评孙大午事件，特转发于此。中国大陆再次爆发反抗极权暴政的呼声。<br>       孙大午是中国知名农民企业家，在民间享有很高声望。事件引爆中国网络舆论，法律界、经济学界、新闻媒体以及民营企业界人士，纷纷以各种方式表达对孙大午的支持肯定，隐晦而强烈呼吁关注孙大午！<br><br><img style src="https://pbs.twimg.com/media/Em4qhqhWMAAt-F7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Em4qh5EWMAI4Zh4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Em4qiSnW8AA_WpZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Em4qikKWEAITavp?format=jpg&name=orig" referrerpolicy="no-referrer">
+
