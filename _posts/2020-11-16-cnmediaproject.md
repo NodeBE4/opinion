@@ -35,3 +35,11 @@ So on the nightly official newscast "Xinwen Lianbo" tonight Wang Huning (王沪�
 
 Re And Xi Jinping used "revolutionize" (革命化). More on that soon.
 
+### 6: [2020-11-17 20:44:49+08:00 推文](https://twitter.com/cnmediaproject/status/1328680492762337285)
+
+Important take here from @SPCmonitor . We should note that 法治专门队伍革命化, or "the revolutionizing of professional rule of/by law teams," resonates with the Mao era. And 队伍革命化 first appeared in 1963.<br><br>Susan Finder: @cnmediaproject “speed up the creation of a revolutionized, regularized, specialized, professionalized team...”  @lingli_vienna &my comment is that it signals absolute Party leadership<br> <a href="https://supremepeoplescourtmonitor.com/2019/04/22/signals-in-the-2019-supreme-peoples-court-work-report-to-the-npc/" target="_blank" rel="noopener noreferrer">https://supremepeoplescourtmonitor.com/2019/04/22/signals-in-the-2019-supreme-peoples-court-work-report-to-the-npc/</a>
+
+### 7: [2020-11-17 20:47:42+08:00 推文](https://twitter.com/SPCmonitor/status/1328681215335960576)
+
+RT Susan Finder<br>Re @cnmediaproject also Zhang Jun, head of Supreme People's Procuratorate used the same language in 2019 (and I assume in 2020)
+
