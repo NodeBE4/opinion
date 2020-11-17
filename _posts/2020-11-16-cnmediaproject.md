@@ -19,3 +19,11 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 RT Sebastian Veg<br>Tomorrow!<br><br>Asian Institute UofT: On Nov 17, the East Asia Seminar Series present "The Fall of Hong Kong: A Tragedy in Five Acts" featuring Jeffrey Wasserstrom @UCIrvineHistory, followed by a discussion with Sebastian Veg @EHESS_fr and moderated by Diana Fu @AI_UofT @munkschool. Register:<br><br><img style src="https://pbs.twimg.com/media/EmjO6sCU8AIsMAr?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/2HGeTr1" target="_blank" rel="noopener noreferrer">https://bit.ly/2HGeTr1</a>
 
+### 2: [2020-11-17 16:37:56+08:00 推文](https://twitter.com/mtdtl/status/1328618361803202561)
+
+RT Mathieu Duchâtel<br>Wang Jisi's new piece is courageous. Title: 跳出大国关系窠臼把握国际趋势大框架, Break free of great power relations and grasp the bigger framework of international trends. It is as close as you can get as advocating a complete change of course for China <a href="http://www.aisixiang.com/data/123537.html" target="_blank" rel="noopener noreferrer">http://www.aisixiang.com/data/123537.html</a>
+
+### 3: [2020-11-17 17:00:42+08:00 推文](https://twitter.com/cnmediaproject/status/1328624089284681728)
+
+The Geopolitics of Cyberpunk: wolf-warrior language comparing the US to "The Matrix" in an attempt to undermine its "Clean Network" initiative has now seeped into Party-state media. <a href="https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/</a><br><img style src="https://pbs.twimg.com/media/EnA4icIXcAAxymE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
