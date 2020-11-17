@@ -27,3 +27,11 @@ RT Mathieu Duchâtel<br>Wang Jisi's new piece is courageous. Title: 跳出大�
 
 The Geopolitics of Cyberpunk: wolf-warrior language comparing the US to "The Matrix" in an attempt to undermine its "Clean Network" initiative has now seeped into Party-state media. <a href="https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/</a><br><img style src="https://pbs.twimg.com/media/EnA4icIXcAAxymE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2020-11-17 19:24:59+08:00 推文](https://twitter.com/cnmediaproject/status/1328660402041982976)
+
+So on the nightly official newscast "Xinwen Lianbo" tonight Wang Huning (王沪宁) was quoted on "Xi Jinping Thought on Rule of Law" (习近平法治思想)." This permutation of "Xi Thought" could get more attention in coming days.
+
+### 5: [2020-11-17 19:35:24+08:00 推文](https://twitter.com/cnmediaproject/status/1328663022169157633)
+
+Re And Xi Jinping used "revolutionize" (革命化). More on that soon.
+
