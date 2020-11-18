@@ -7,7 +7,7 @@ from: https://twitter.com/sebastianveghk/status/1328387483751636994
 layout: post
 tags:
 - Twitter
-title: 'China Media Project 的 Twitter: 2020-11-16~2020-11-22'
+title: 'Twitter @China Media Project: 2020-11-16~2020-11-22'
 ---
 
 CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 

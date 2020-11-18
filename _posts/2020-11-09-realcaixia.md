@@ -7,7 +7,7 @@ from: https://twitter.com/realcaixia/status/1325470651537305602
 layout: post
 tags:
 - Twitter
-title: '蔡霞 的 Twitter: 2020-11-09~2020-11-15'
+title: 'Twitter @蔡霞: 2020-11-09~2020-11-15'
 ---
 
 曾经的中共中央党校教授，现与中共党彻底脱钩。 
