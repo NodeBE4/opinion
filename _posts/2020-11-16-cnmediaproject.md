@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-17
+date: 2020-11-18
 from: https://twitter.com/sebastianveghk/status/1328387483751636994
 layout: post
 tags:
@@ -42,4 +42,8 @@ Important take here from @SPCmonitor . We should note that 法治专门队伍革
 ### 7: [2020-11-17 20:47:42+08:00 推文](https://twitter.com/SPCmonitor/status/1328681215335960576)
 
 RT Susan Finder<br>Re @cnmediaproject also Zhang Jun, head of Supreme People's Procuratorate used the same language in 2019 (and I assume in 2020)
+
+### 8: [2020-11-18 05:04:03+08:00 推文](https://twitter.com/billbirtles/status/1328806127245488128)
+
+RT Bill Birtles<br>The Australian on the left... and China's Global Times on the right:<br><img style src="https://pbs.twimg.com/media/EnDd_x6VEAE5EZ4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EnDeBRFVoAAsf_H?format=jpg&name=orig" referrerpolicy="no-referrer">
 
