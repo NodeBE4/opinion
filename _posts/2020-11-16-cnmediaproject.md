@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-18
+date: 2020-11-19
 from: https://twitter.com/sebastianveghk/status/1328387483751636994
 layout: post
 tags:
@@ -50,4 +50,12 @@ RT Bill Birtles<br>The Australian on the left... and China's Global Times on t
 ### 9: [2020-11-18 19:48:06+08:00 推文](https://twitter.com/cnmediaproject/status/1329028607054925829)
 
 FM Spokesman Zhao Lijian's language about the US as "The Matrix" (a "Hacker Empire"), a threat to global cybersecurity, has now made it into the CCP's mainstream discourse. <a href="https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/</a>
+
+### 10: [2020-11-18 23:44:31+08:00 推文](https://twitter.com/niubi/status/1329088101797437442)
+
+RT Bill Bishop<br>China's great firewall looks like it has blocked <a href="http://substack.com/" target="_blank" rel="noopener noreferrer">http://substack.com</a> <a href="https://en.greatfire.org/https/substack.com" target="_blank" rel="noopener noreferrer">https://en.greatfire.org/https/substack.com</a><br><img style src="https://pbs.twimg.com/media/EnHee7HVgAMSg68?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-11-19 00:35:12+08:00 推文](https://twitter.com/KaiserKuo/status/1329100859163205634)
+
+RT Kaiser Kuo<br>Brookings has published a collection of very timely policy proposals for the incoming Biden administration, from some of the smartest folks working on China policy. Digging into this now. <a href="https://www.brookings.edu/multi-chapter-report/the-future-of-us-policy-toward-china/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/multi-chapter-report/the-future-of-us-policy-toward-china/</a>
 
