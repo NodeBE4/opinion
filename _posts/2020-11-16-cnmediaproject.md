@@ -7,7 +7,7 @@ from: https://twitter.com/sebastianveghk/status/1328387483751636994
 layout: post
 tags:
 - Twitter
-title: 'China Media Project 的 Twitter: 2020-11-16~2020-11-22'
+title: 'Twitter @China Media Project: 2020-11-16~2020-11-22'
 ---
 
 CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
@@ -46,4 +46,8 @@ RT Susan Finder<br>Re @cnmediaproject also Zhang Jun, head of Supreme People's
 ### 8: [2020-11-18 05:04:03+08:00 推文](https://twitter.com/billbirtles/status/1328806127245488128)
 
 RT Bill Birtles<br>The Australian on the left... and China's Global Times on the right:<br><img style src="https://pbs.twimg.com/media/EnDd_x6VEAE5EZ4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EnDeBRFVoAAsf_H?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-11-18 19:48:06+08:00 推文](https://twitter.com/cnmediaproject/status/1329028607054925829)
+
+FM Spokesman Zhao Lijian's language about the US as "The Matrix" (a "Hacker Empire"), a threat to global cybersecurity, has now made it into the CCP's mainstream discourse. <a href="https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/17/the-geopolitics-of-cyberpunk/</a>
 
