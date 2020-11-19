@@ -59,3 +59,15 @@ RT Bill Bishop<br>China's great firewall looks like it has blocked <a href="
 
 RT Kaiser Kuo<br>Brookings has published a collection of very timely policy proposals for the incoming Biden administration, from some of the smartest folks working on China policy. Digging into this now. <a href="https://www.brookings.edu/multi-chapter-report/the-future-of-us-policy-toward-china/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/multi-chapter-report/the-future-of-us-policy-toward-china/</a>
 
+### 12: [2020-11-19 11:13:27+08:00 推文](https://twitter.com/fryan/status/1329261479829245952)
+
+RT 💯Fergus Ryan<br>David Bandurski at @cnmediaproject on the 'striking lack of coverage' of China's new restrictions on Australian imports in their domestic media: <a href="https://chinamediaproject.org/2020/11/06/chinas-silent-trade-row/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/11/06/chinas-silent-trade-row/</a>
+
+### 13: [2020-11-19 15:03:46+08:00 推文](https://twitter.com/hcsteinhardt/status/1329319438273957888)
+
+RT Christoph Steinhardt<br>NPCSC Basic Law interpretation coming<br><br>Chris Lau: [Breaking] HK court rules in favour of @HKJA_Official to find that gov's failure to maintain an independent complaint system against the police, and police officers' failure to wear their ID number during last year's anti-gov protests in breach of the city's Bill of Rights<br>
+
+### 14: [2020-11-19 15:42:10+08:00 推文](https://twitter.com/dangillmor/status/1329329102445166592)
+
+RT Dan Gillmor<br>The vaccines will be here within months. In the meantime, wear a mask. Don't gather indoors. Don't be the person who infects someone who then dies. Be a good person and save some lives.<br><br>Eric Topol: The @Pfizer/@BioNTech_Group vaccine trial is complete for efficacy. Of 43,661 participants, 170 events, 162 in placebo group, 8 in the vaccine. That's 95% efficacy; *phenomenal*; replicated @moderna_tx, ~ as good as it gets👇<br><br><img style src="https://pbs.twimg.com/media/EnG7bEkVcAcpJge?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.statnews.com/2020/11/18/pfizer-biontech-covid19-vaccine-fda-data/" target="_blank" rel="noopener noreferrer">https://www.statnews.com/2020/11/18/pfizer-biontech-covid19-vaccine-fda-data/</a>
+
