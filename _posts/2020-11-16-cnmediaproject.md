@@ -71,3 +71,11 @@ RT Christoph Steinhardt<br>NPCSC Basic Law interpretation coming<br><br>Chris 
 
 RT Dan Gillmor<br>The vaccines will be here within months. In the meantime, wear a mask. Don't gather indoors. Don't be the person who infects someone who then dies. Be a good person and save some lives.<br><br>Eric Topol: The @Pfizer/@BioNTech_Group vaccine trial is complete for efficacy. Of 43,661 participants, 170 events, 162 in placebo group, 8 in the vaccine. That's 95% efficacy; *phenomenal*; replicated @moderna_tx, ~ as good as it gets👇<br><br><img style src="https://pbs.twimg.com/media/EnG7bEkVcAcpJge?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.statnews.com/2020/11/18/pfizer-biontech-covid19-vaccine-fda-data/" target="_blank" rel="noopener noreferrer">https://www.statnews.com/2020/11/18/pfizer-biontech-covid19-vaccine-fda-data/</a>
 
+### 15: [2020-11-19 22:35:19+08:00 推文](https://twitter.com/cnmediaproject/status/1329433075583954948)
+
+Re @ABPevzner @niubi @Yangguobin @MariaRepnikova @fangkc Thank you. Yes, a very important message, a strong re-iteration of points Xi has made since at least August 19, 2013. More analysis on the way.
+
+### 16: [2020-11-19 22:38:51+08:00 推文](https://twitter.com/cnmediaproject/status/1329433964151533570)
+
+For TechStream at Brookings, CMP's David Bandurski looks at the recent one-day surge and then disappearance of the Tuber app, promising Chinese "open" access to the global internet. <a href="https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/</a>
+
