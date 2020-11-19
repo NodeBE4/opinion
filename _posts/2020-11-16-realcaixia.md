@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-18
+date: 2020-11-20
 from: https://twitter.com/realcaixia/status/1328069444527140872
 layout: post
 tags:
@@ -78,4 +78,20 @@ Re 谢谢众位网友的指教。🙏🌹
 ### 16: [2020-11-18 12:27:32+08:00 推文](https://twitter.com/realcaixia/status/1328917732721631233)
 
 Re @zhanglifan 李怀庆的推文是我截图保留下来的，我没有选择这个图上传，但点击错了。上传了才发现有错。
+
+### 17: [2020-11-20 01:29:23+08:00 推文](https://twitter.com/realcaixia/status/1329476882199359488)
+
+细想下面这贴很有道理！习中共党统治集团告诉国内民众，全世界的富国都是敌人，曾经的铁杆盟友也是敌人或随时可以是敌人；而在国内党内，习统治集团时刻担心“政治安全”，他们认为党里有野心家阴谋家，民间有“颠覆”力量，敌人无处不在，他们要严密监控所有人。问：里外都是敌人的人，他自己是什么人？！<br><img style src="https://pbs.twimg.com/media/EnNAK4wW4AQw4LY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2020-11-20 03:07:55+08:00 推文](https://twitter.com/realcaixia/status/1329501675946696709)
+
+中共一向崇拜暴力革命，他们对血腥暴力是一种嗜好。这里就不仅仅是政治文明与世界的差距了，赵立坚的话很直观地显示出人性与兽性、野蛮与文明的本质区别。<br><br>LT 視界: 針對「五眼聯盟」五國聯合聲明譴責中共逮捕前香港立法會委員，中共外交部發言人趙立堅稱要「小心眼睛被戳瞎」。即使不談立場，中共這種「戳瞎眼睛」的野蠻、殘忍的表達竟然是一個國家發言人脫口而出。可以想像，中共的政治文明與世界的距離。<br><br><img style src="https://pbs.twimg.com/media/EnMP2k8WEAE3vuS?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2020-11-20 03:22:34+08:00 推文](https://twitter.com/realcaixia/status/1329505366284046341)
+
+无论美国哪个党上台，如果对中共实行绥靖政策，往近处说对不起因武汉疫情在全球扩散而丧失生命的逝者，对不起因疫情而使致经济社会不能正常运转从而生存陷入种种困境的普通美国民众；往远处看，等于帮着中共极权做大成世界恶霸，毁坏美国的自由民主宪政，对不起美国人民和美国人的子孙。<br><br>韩连潮: 【绥靖中共必将再度失败】Thayer教授和我今天在《国会报》发文提醒美决策者，美国如果放弃川普制共政策，再度绥靖中共必将再度遭到失败，私人关系不可能改变习共作恶和争霸世界的战略野心，美国必须用对抗而不是绥靖来回应习近平的亮剑叫嚣。<br> <a href="https://thehill.com/opinion/international/526399-why-biden-must-beware-of-accommodating-china-again#.X7a67dts0qE.twitter" target="_blank" rel="noopener noreferrer">https://thehill.com/opinion/international/526399-why-biden-must-beware-of-accommodating-china-again#.X7a67dts0qE.twitter</a>
+
+### 20: [2020-11-20 03:33:07+08:00 推文](https://twitter.com/realcaixia/status/1329508018569027584)
+
+Re @s1Cu9qnbWGLGC2x @white_walkboy 对。习家“党”，为什么党字打引号？因为习实在是把中共变成了习家帮，他们达不到现代意义上的“党”字这类组织该有的起码文明底线。
 
