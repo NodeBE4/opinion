@@ -95,3 +95,11 @@ Re @zhanglifan 李怀庆的推文是我截图保留下来的，我没有选择�
 
 Re @s1Cu9qnbWGLGC2x @white_walkboy 对。习家“党”，为什么党字打引号？因为习实在是把中共变成了习家帮，他们达不到现代意义上的“党”字这类组织该有的起码文明底线。
 
+### 21: [2020-11-20 12:42:31+08:00 推文](https://twitter.com/realcaixia/status/1329646281401241602)
+
+一个嗜好暴力统治如命，迷信暴力迷信金钱，恐惧真相恐惧真话，惶惶不可终日的警察国家。他们在法院门外撒多少警力，就说明他们有多少恐惧。<br><br>李方: 重庆，李怀庆煽动颠覆案今日宣判，法院外黑警林立，如临大敌！一个如此恐惧的政权！<br><br><video src="https://video.twimg.com/ext_tw_video/1329622014852730883/pu/vid/720x1280/pd3Hq2dRfAZqYKU2.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1329622014852730883/pu/img/ZSR4n38CkoDj_zCg.jpg"></video>
+
+### 22: [2020-11-20 12:55:39+08:00 推文](https://twitter.com/realcaixia/status/1329649586303012864)
+
+一个靠暴力谎言支撑的极权野蛮政权，特别怕人们说话。他们内心越是惶恐与虚弱，就越是不顾一切地疯狂镇压民众。相信在马格尼茨基法案的惩治名单上，中共自上而下各级作恶官员将越来越多！相信终有一天，中共极权暴政统治将被中国民众推翻！<br><br>李方: 重庆民营企业家李怀庆煽动颠覆案，宣判结果：<br><br>有期徒刑20年！<br><br>因微信言论重判20年，超出人类的想象，野兽的政权才会如此疯狂！<br><br><img style src="https://pbs.twimg.com/media/EnPI8hdW4AEyYsJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
