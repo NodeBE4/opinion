@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-11-19
+date: 2020-11-20
 from: https://twitter.com/sebastianveghk/status/1328387483751636994
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re @ABPevzner @niubi @Yangguobin @MariaRepnikova @fangkc Thank you. Yes, a very 
 ### 16: [2020-11-19 22:38:51+08:00 推文](https://twitter.com/cnmediaproject/status/1329433964151533570)
 
 For TechStream at Brookings, CMP's David Bandurski looks at the recent one-day surge and then disappearance of the Tuber app, promising Chinese "open" access to the global internet. <a href="https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/a-brief-experiment-in-a-more-open-chinese-web/</a>
+
+### 17: [2020-11-20 16:19:40+08:00 推文](https://twitter.com/cnmediaproject/status/1329700927184515072)
+
+OK, so maybe it's time to talk about "Xi Jinping Thought on Finance" (习近平金融思想). <a href="https://www.wsj.com/articles/china-president-xi-jinping-halted-jack-ma-ant-ipo-11605203556?mod=e2tw" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-president-xi-jinping-halted-jack-ma-ant-ipo-11605203556?mod=e2tw</a> <a href="https://m.huanqiu.com/article/9CaKrnKae21" target="_blank" rel="noopener noreferrer">https://m.huanqiu.com/article/9CaKrnKae21</a>
 
