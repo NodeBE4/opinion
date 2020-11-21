@@ -2,12 +2,12 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-06
+date: 2020-11-08
 from: https://twitter.com/realcaixia/status/1323654857455263744
 layout: post
 tags:
 - Twitter
-title: '蔡霞 的 Twitter: 2020-11-02~2020-11-08'
+title: 'Twitter @蔡霞: 2020-11-02~2020-11-08'
 ---
 
 曾经的中共中央党校教授，现与中共党彻底脱钩。 
@@ -62,4 +62,72 @@ Re @fpuGLPaqJhgiBnA @BertonW73930 这图片最后一句话绝不是新华社官�
 ### 12: [2020-11-06 12:56:38+08:00 推文](https://twitter.com/realcaixia/status/1324576403552129024)
 
 Re 计票现场一个顺丰快递信封的视频一发出，居然跟帖留言的80-90%几乎是一个口径，看来真是“组织”统一口径，五毛粉红们连辩护掩盖多点各种借口都没有。看来真是“词穷”了。
+
+### 13: [2020-11-07 23:19:00+08:00 推文](https://twitter.com/realcaixia/status/1325095413431537667)
+
+美国大选全球关注！中国大陆民众更是紧紧盯着美国选战动态，很有趣的一组图片😄，在中国各个微信群里流传。<br><img style src="https://pbs.twimg.com/media/EmOvPFWXMAMjXj2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvPZwXIAE_c_S?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvP0NW4AIGOec?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmOvQKcXYAEcS9s?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-11-08 02:20:15+08:00 推文](https://twitter.com/realcaixia/status/1325141029088006144)
+
+Re @lunanweiyi 继续看选战大剧，大剧还没到中场,更不是终场。选战激战正酣，战场转移阵地至司法领域。
+
+### 15: [2020-11-08 02:22:24+08:00 推文](https://twitter.com/realcaixia/status/1325141568169398272)
+
+Re @lunanweiyi 继续看选战大剧，大剧还没到中场,更不是终场。选战激战正酣，战场转移阵地至司法领域。媒体宣布不具备法律效应。媒体怎么说都只能是一家之言而不是一锤定音。法律定音之锤还未落下。
+
+### 16: [2020-11-08 02:30:08+08:00 推文](https://twitter.com/realcaixia/status/1325143516608081920)
+
+Re @lunanweiyi 如此舞弊还能作为胜选而上位，美国选民能答应吗？美国宪法还有权威吗？如此伤害与动摇美国200多年的立国根基，这些作弊者想过他们将面临什么样的历史与正义的审判吗？这些作弊者想过他们的家人与子孙将会面对什么样的名誉蒙羞？这次大选，美利坚合众国历史将如何记载？
+
+### 17: [2020-11-08 02:51:43+08:00 推文](https://twitter.com/realcaixia/status/1325148947510386688)
+
+Re @lunanweiyi 鲁难你看看曹长青的推文。
+
+### 18: [2020-11-08 02:55:22+08:00 推文](https://twitter.com/realcaixia/status/1325149865706360833)
+
+<br><img style src="https://pbs.twimg.com/media/EmPgxq2U8AEDf9w?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2020-11-08 02:57:15+08:00 推文](https://twitter.com/realcaixia/status/1325150336600985605)
+
+<br><img style src="https://pbs.twimg.com/media/EmPhNEbWEAELGNc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2020-11-08 03:06:02+08:00 推文](https://twitter.com/realcaixia/status/1325152547833831425)
+
+中国网友的幽默。请有兴趣的网友猜一猜：川黑《沁园春》和应的是中国20世纪中谁的诗词音律？川粉这首运用了20世纪中国那首歌的节律？😄<br><img style src="https://pbs.twimg.com/media/EmPjNQYVoAcyT9Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2020-11-08 03:09:15+08:00 推文](https://twitter.com/realcaixia/status/1325153356705226753)
+
+Re 写错一字：不是音律，是韵律。猜一猜：川黑《沁园春》和应的是20世纪中国谁的诗词韵律？
+
+### 22: [2020-11-08 03:14:04+08:00 推文](https://twitter.com/realcaixia/status/1325154569534509056)
+
+Re @HUAWEI251996 👏🌹
+
+### 23: [2020-11-08 03:14:16+08:00 推文](https://twitter.com/realcaixia/status/1325154619497000960)
+
+Re @6zxSk7VMQN6GVmi 👏🌹
+
+### 24: [2020-11-08 03:36:02+08:00 推文](https://twitter.com/realcaixia/status/1325160098726023169)
+
+Re @HeQinglian 何老师这个推文精彩！未来一层层拨开美国2020大选真相，回顾竞选过程几百天各方的每一步动作；追踪每一个紧要环节、每一个扑簌迷离的细节直至最终的尘埃落定。那情节曲折离奇远远超过好莱坞任何一部大片；也给社会科学研究尤其政治学研究提出若干新课题，将促进丰富政治学的理论。
+
+### 25: [2020-11-08 03:58:24+08:00 推文](https://twitter.com/realcaixia/status/1325165725804359680)
+
+Re @highighig @FM6801 👏🌹
+
+### 26: [2020-11-08 03:59:07+08:00 推文](https://twitter.com/realcaixia/status/1325165906935377920)
+
+Re @danielk88295994 👏🌹
+
+### 27: [2020-11-08 03:59:17+08:00 推文](https://twitter.com/realcaixia/status/1325165948395954176)
+
+Re @Dannio1998 👏🌹
+
+### 28: [2020-11-08 20:48:17+08:00 推文](https://twitter.com/realcaixia/status/1325419872323596291)
+
+请看看我的推下聚集了大量机器制造的所谓跟帖者。这些都是登记了推特账号而不发帖的，或者发个几个贴来蒙圈的贴。这些机器五毛粉红的操控者凭着在我推下发各种撕咬去领中共的狗粮。大量机器制造的跟帖者攻击推特上反抗中共极权暴政的异见人士，是中共网军信息战的一个部分。<br><img style src="https://pbs.twimg.com/media/EmTWViyW8AE9IVF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWVz4XYAE3opG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWWAiWEAAGkNF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmTWWOMXUAARu4x?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2020-11-08 23:59:53+08:00 推文](https://twitter.com/realcaixia/status/1325468091522932736)
+
+习提出的“宗教中国化”是习中共对宗教界人士及其信众的政治绑架！“宗教中国化”是以国家暴政权力为支撑，公然推行“政教合一”的宗教政治化。无论是佛教、道教、天主教、基督教还是伊斯兰教，其教职人员事实上变成了中共另类宣传部，执行中共的“洗脑毒心”任务，并与维稳结合，控制教徒与信众的思想。<br><img style src="https://pbs.twimg.com/media/EmUCL71XUAQcpWM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmUCMVrWMAA4fLN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmUCMl3XMAImX8G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EmUCM4BW8AAlPKr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
