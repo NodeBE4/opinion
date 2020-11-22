@@ -17,11 +17,11 @@ title: 'Twitter @蔡霞: 2020-10-12~2020-10-18'
 
 ### 1: [2020-10-13 06:13:25+08:00 推文](https://twitter.com/realcaixia/status/1315777621666467840)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  因篇幅所限，转发许志永案件律师谢宇燕所写的公开信。谢律师在公开信中指出的几点至关重要：1，许志永，丁家喜因2019年12月26日在厦门一餐厅正常的公民聚会而被拘，罪名是邪恶的“煽颠罪”；2、许志永、丁家喜被拘至今未被获准见其辩护律师，许、丁无法获得权利救助，律师无法履行法律职责；<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkKUwqdWoAMK4wj?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqdWoAMK4wj?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKUwqeX0AAxK80?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqeX0AAxK80?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKUwqfXcAUoiX8?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqfXcAUoiX8?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKUwqpWkAEFjPe?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKUwqpWkAEFjPe?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 6:13:25 AM</small>
+因篇幅所限，转发许志永案件律师谢宇燕所写的公开信。谢律师在公开信中指出的几点至关重要：1，许志永，丁家喜因2019年12月26日在厦门一餐厅正常的公民聚会而被拘，罪名是邪恶的“煽颠罪”；2、许志永、丁家喜被拘至今未被获准见其辩护律师，许、丁无法获得权利救助，律师无法履行法律职责； <br><img src="https://pbs.twimg.com/media/EkKUwqdWoAMK4wj?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKUwqeX0AAxK80?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKUwqfXcAUoiX8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKUwqpWkAEFjPe?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2020-10-13 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1315778676261302274)
 
-Re 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。<hr><small>10/13/2020, 6:17:37 AM</small>
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
@@ -45,7 +45,7 @@ Re 4，这意味着，中国自上而下通过强化警察在政府系统中的�
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-Re @zfb468590 谢谢您看的仔细。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
@@ -57,7 +57,7 @@ Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/m
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
-最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/14/2020, 8:37:45 AM</small>
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 
