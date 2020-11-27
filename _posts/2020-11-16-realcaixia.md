@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-11-20
+date: 2020-11-22
 from: https://twitter.com/realcaixia/status/1328069444527140872
 layout: post
 tags:
@@ -102,4 +102,12 @@ Re @s1Cu9qnbWGLGC2x @white_walkboy 对。习家“党”，为什么党字打引
 ### 22: [2020-11-20 12:55:39+08:00 推文](https://twitter.com/realcaixia/status/1329649586303012864)
 
 一个靠暴力谎言支撑的极权野蛮政权，特别怕人们说话。他们内心越是惶恐与虚弱，就越是不顾一切地疯狂镇压民众。相信在马格尼茨基法案的惩治名单上，中共自上而下各级作恶官员将越来越多！相信终有一天，中共极权暴政统治将被中国民众推翻！<br><br>李方: 重庆民营企业家李怀庆煽动颠覆案，宣判结果：<br><br>有期徒刑20年！<br><br>因微信言论重判20年，超出人类的想象，野兽的政权才会如此疯狂！<br><br><img style src="https://pbs.twimg.com/media/EnPI8hdW4AEyYsJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2020-11-22 04:40:58+08:00 推文](https://twitter.com/realcaixia/status/1330249868200341507)
+
+今天是（北京时间）当代中国最著名的宪法学家、推进中国宪政民主的先行者蔡定剑先生逝去十周年忌日。那个北风凛冽异常寒冷的冬日，南至深圳北到哈尔滨，全国各地一千多人赶来为定剑先生送行。人们展开横幅冷眼面对派来维稳的警察，横幅上赫然展现定剑先生的遗言：宪政民主是我们这一代人的使命！<br><img style src="https://pbs.twimg.com/media/EnX_MRyXYAUYBsz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EnX_Me4XEAQo9nT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EnX_MoNXIAE5vv0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EnX_M4zWMAI82TZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2020-11-22 23:45:54+08:00 推文](https://twitter.com/realcaixia/status/1330538001055821824)
+
+蔡定剑先生十周年忌日，大陆朋友发文给我，深深怀念定剑先生。十年来中国大陆的政治状况不仅仅是倒退，而且是走向反动。其突出标志就是2018年修宪取消国家主席任期制，事实上恢复帝制。定剑先生一生为之奋斗的实现中国宪政民主之事业，需要我们活着的人继续努力前行。<br><img style src="https://pbs.twimg.com/media/EncFPKPXMAAtpaM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EncFPhGXEAE3DTq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EncFP-QWEAc2IMT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EncFQYvXcAYlUuo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
