@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-02
+date: 2020-12-03
 from: https://twitter.com/realcaixia/status/1333462119896002568
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re 打着“政治正确”旗号，借市场买卖方式，迫使下面各级�
 ### 8: [2020-12-02 01:27:01+08:00 推文](https://twitter.com/realcaixia/status/1333824938512420867)
 
 说得合理合情，这是任何一个人都能接受的常识。常识朴素，然而以良知为内核，就有触动人心的强大力量。只要是善良者，是有恻隐之心的人，都不能不强烈关注与同情董瑶琼。<br><br>Christina: 一个灵秀女孩，仅仅对一张画像泼了墨，就被这样蹂躏胁迫控制！<br><br>习主席，自信的男人该有点胸襟，不欺负人！这不是你的意思吧！快管管你手下那些干脏活的，不然让全世界都觉得你没气度不厚道，更没自信，大国元首不会连画像上泼个墨都受不了！迫害一个手无寸铁的女孩，简直给大国的人权记录抹黑！！<br> <a href="https://twitter.com/feefeefly/status/1333362715486633986" target="_blank" rel="noopener noreferrer">https://twitter.com/feefeefly/status/1333362715486633986</a>
+
+### 9: [2020-12-03 10:02:57+08:00 推文](https://twitter.com/realcaixia/status/1334317165500112896)
+
+这个会议很有意义。推倒中共隔绝信息的墙是我们所有中国人的共同愿望。传播这个会议消息本身，就是传播战胜极权黑暗的希望，就是鼓舞人心。<br><br>韩连潮: 【网络自由的未来】兰托斯基金会与美洲大学等机构明天东部时间下午2:30举行题为“互联网自由的未来”视频会议，有关政策和技术专家将讨论互联网受到审查和限制的直接影响，以及翻墙平台和技术的开发等问题。推倒中共的防火墙对推翻暴政至关重要。有兴趣者可用以下链接注册参加。<br> <a href="https://www.eventbrite.com/e/the-future-of-internet-freedom-registration-129323705685" target="_blank" rel="noopener noreferrer">https://www.eventbrite.com/e/the-future-of-internet-freedom-registration-129323705685</a>
 
