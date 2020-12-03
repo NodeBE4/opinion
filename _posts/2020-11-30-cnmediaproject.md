@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-02
+date: 2020-12-03
 from: https://twitter.com/hancocktom/status/1333270826888544257
 layout: post
 tags:
@@ -26,4 +26,12 @@ RT Hong Kong Free Press HKFP<br>BREAKING: Hong Kong activists Joshua Wong, Agn
 ### 3: [2020-12-02 15:46:26+08:00 推文](https://twitter.com/alanwongw/status/1334041219932901376)
 
 RT Alan Wong<br>Joshua Wong, Agnes Chow and Ivan Lam jailed 7 to 13 months for a 2019 Hong Kong protest. Chow turns 24 tomorrow <a href="https://www.vice.com/en/article/88axw4/joshua-wong-jailed-13-months-for-hong-kong-protest" target="_blank" rel="noopener noreferrer">https://www.vice.com/en/article/88axw4/joshua-wong-jailed-13-months-for-hong-kong-protest</a>
+
+### 4: [2020-12-03 17:29:54+08:00 推文](https://twitter.com/cnmediaproject/status/1334429644951592963)
+
+Thoughts on a High-level Error: CMP's look at how Xinhua and Xinwen Lianbo both made a huge political error yesterday in their phrasing of core CCP discourse. Oops. <a href="https://chinamediaproject.org/2020/12/03/thoughts-on-a-high-level-error/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/03/thoughts-on-a-high-level-error/</a><br><img style src="https://pbs.twimg.com/media/EoTYrU4XcAMi4GE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2020-12-03 18:20:04+08:00 推文](https://twitter.com/cnmediaproject/status/1334442268426711041)
+
+When it comes to the official discourse of the Chinese Communist Party, even a simple "and" in the wrong place can result in a serious political error. <a href="https://chinamediaproject.org/2020/12/03/thoughts-on-a-high-level-error/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/03/thoughts-on-a-high-level-error/</a>
 
