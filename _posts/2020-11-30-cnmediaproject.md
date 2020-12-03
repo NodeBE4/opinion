@@ -35,3 +35,7 @@ Thoughts on a High-level Error: CMP's look at how Xinhua and Xinwen Lianbo both 
 
 When it comes to the official discourse of the Chinese Communist Party, even a simple "and" in the wrong place can result in a serious political error. <a href="https://chinamediaproject.org/2020/12/03/thoughts-on-a-high-level-error/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/03/thoughts-on-a-high-level-error/</a>
 
+### 6: [2020-12-03 18:35:52+08:00 推文](https://twitter.com/bueti/status/1334446243884511232)
+
+RT Reinhard Bütikofer<br>There is going to be a strong contest for standards in low carbon technologies. China pushes hard. EU and US must wake up to this. (Isabel Hilton)
+
