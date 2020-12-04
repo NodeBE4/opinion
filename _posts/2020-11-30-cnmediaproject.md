@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-03
+date: 2020-12-04
 from: https://twitter.com/hancocktom/status/1333270826888544257
 layout: post
 tags:
@@ -54,4 +54,8 @@ RT Susan Finder<br>Zhejiang High Court issues personal bankruptcy rules  ​�
 ### 10: [2020-12-03 21:15:35+08:00 推文](https://twitter.com/sebastianveghk/status/1334486441754324992)
 
 RT Sebastian Veg<br>Re @limlouisa The Yale talks are not recorded. But the main argument is here: <a href="https://tocqueville21.com/le-club/the-restructuring-of-hong-kong-and-the-rise-of-neostatism/" target="_blank" rel="noopener noreferrer">https://tocqueville21.com/le-club/the-restructuring-of-hong-kong-and-the-rise-of-neostatism/</a>
+
+### 11: [2020-12-04 19:26:28+08:00 推文](https://twitter.com/jonlsullivan/status/1334821367376699392)
+
+RT Jonathan Sullivan<br>In reporting on China-Taiwan and other country relations, it really is imperative to grasp the distinction between the PRC's "One China Principle" and other countries' "One China Policy". Obfuscation & elision of these terms is Beijing's hope and aim
 
