@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-05
+date: 2020-12-06
 from: https://twitter.com/realcaixia/status/1333462119896002568
 layout: post
 tags:
@@ -54,4 +54,16 @@ Re 打着“政治正确”旗号，借市场买卖方式，迫使下面各级�
 ### 10: [2020-12-05 07:13:52+08:00 推文](https://twitter.com/realcaixia/status/1334999392567373825)
 
 Re @SydneyDaddy1 感谢理解。因杂志篇幅所限，文章只简要回述我20年思想变化过程。如果从我开始思考问题说起，要追述到9.13林彪事件，那是思想上八级地震，改变了我的人生方向；如果从我对中国基层政治的真实了解说，要从80年代与工人相处的几年说起；如果从我对中共真实性质的思考，从1989年起。可惜许多事没法都写出来
+
+### 11: [2020-12-06 03:17:22+08:00 推文](https://twitter.com/realcaixia/status/1335302261292011525)
+
+Cai Xia: An Insider Breaks with the Chinese Communist Party <a href="https://www.foreignaffairs.com/articles/china/2020-12-04/chinese-communist-party-failed" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/articles/china/2020-12-04/chinese-communist-party-failed</a>
+
+### 12: [2020-12-06 03:24:46+08:00 推文](https://twitter.com/realcaixia/status/1335304125026852868)
+
+Re @Macmengss 💪🌹
+
+### 13: [2020-12-06 03:27:45+08:00 推文](https://twitter.com/realcaixia/status/1335304873873698816)
+
+Re @FluctHydro 从他而言，这是人之常情，也是无奈。
 
