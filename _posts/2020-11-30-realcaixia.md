@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-03
+date: 2020-12-05
 from: https://twitter.com/realcaixia/status/1333462119896002568
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re 打着“政治正确”旗号，借市场买卖方式，迫使下面各级�
 ### 9: [2020-12-03 10:02:57+08:00 推文](https://twitter.com/realcaixia/status/1334317165500112896)
 
 这个会议很有意义。推倒中共隔绝信息的墙是我们所有中国人的共同愿望。传播这个会议消息本身，就是传播战胜极权黑暗的希望，就是鼓舞人心。<br><br>韩连潮: 【网络自由的未来】兰托斯基金会与美洲大学等机构明天东部时间下午2:30举行题为“互联网自由的未来”视频会议，有关政策和技术专家将讨论互联网受到审查和限制的直接影响，以及翻墙平台和技术的开发等问题。推倒中共的防火墙对推翻暴政至关重要。有兴趣者可用以下链接注册参加。<br> <a href="https://www.eventbrite.com/e/the-future-of-internet-freedom-registration-129323705685" target="_blank" rel="noopener noreferrer">https://www.eventbrite.com/e/the-future-of-internet-freedom-registration-129323705685</a>
+
+### 10: [2020-12-05 07:13:52+08:00 推文](https://twitter.com/realcaixia/status/1334999392567373825)
+
+Re @SydneyDaddy1 感谢理解。因杂志篇幅所限，文章只简要回述我20年思想变化过程。如果从我开始思考问题说起，要追述到9.13林彪事件，那是思想上八级地震，改变了我的人生方向；如果从我对中国基层政治的真实了解说，要从80年代与工人相处的几年说起；如果从我对中共真实性质的思考，从1989年起。可惜许多事没法都写出来
 
