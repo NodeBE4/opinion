@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-07
+date: 2020-12-09
 from: https://twitter.com/MalinOud/status/1335870381094219778
 layout: post
 tags:
@@ -30,4 +30,8 @@ RT Susan Finder<br>Party Center issues an outline for implementing the buildin
 ### 4: [2020-12-07 23:13:36+08:00 推文](https://twitter.com/cnmediaproject/status/1335965690260557834)
 
 Scandal Dogs China’s ‘King of Vaccines,’ Partner to AstraZeneca <a href="https://nyti.ms/3qDgLTo" target="_blank" rel="noopener noreferrer">https://nyti.ms/3qDgLTo</a>
+
+### 5: [2020-12-09 01:30:53+08:00 推文](https://twitter.com/xinwenxiaojie/status/1336362625886777350)
+
+RT Yuen Chan<br>Once upon a time in Beijing.<br>When there was healthy competition among the TV news operations in Hong Kong. <br>When the city was a beacon for press freedom in the region.<br>One of those stations is extinct, the other has been shaken to the core.<br><img style src="https://pbs.twimg.com/media/Eou2NIFXIAI-CR1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
