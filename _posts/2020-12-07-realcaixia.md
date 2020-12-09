@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-08
+date: 2020-12-09
 from: https://twitter.com/realcaixia/status/1336089815209668608
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 ### 2: [2020-12-08 07:29:51+08:00 推文](https://twitter.com/realcaixia/status/1336090576551370754)
 
 裴敏欣教授对中国政治与中共体制有着相当深透的观察与研究。<br><br>自由亚洲电台: 【政治学者裴敏欣批习近平行“新史太林主义”路线】<br>专研中国民主化的美国克莱蒙特麦肯纳学院政治学教授裴敏欣，当地周四在美国民主基金会与加拿大驻美大使馆合办的讲座上发表演说，指习近平没有汲取苏联崩坏的经验，以“新史太林主义”独裁管治中国，漠视政治和经济改革，取态很可能自掘坟墓。<br><br><video src="https://video.twimg.com/ext_tw_video/1335912575440056320/pu/vid/720x720/TO1X_9GfLgTlxu1r.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1335912575440056320/pu/img/ViZAFQkruWDRtAvn.jpg"></video>
+
+### 3: [2020-12-09 11:54:24+08:00 推文](https://twitter.com/realcaixia/status/1336519542240120832)
+
+潇男被入监遭受残酷迫害已将近百日，知情人透露她的境况极令人揪心。她被捏造罪名故意加害，在看守所被密集审讯，审讯人员竟然对她进行人身攻击与言词辱骂，软硬兼施，企图逼迫她配合极权暴政当局构陷他人。当局不仅在审讯中折磨她，还故意将她换到条件情况更恶劣的监房，当局对她身心的折磨令人发指。<br><br>独立中文笔会 ICPC: 独立中文笔会授予耿潇男2020年度林昭纪念奖<br> <a href="https://www.chinesepen.org/blog/archives/157398" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/157398</a>
 
