@@ -43,3 +43,7 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 
 今天是时区东八区的国际人权日。香港人权保护状况急剧恶化；中国全境内不分民族不分宗教信仰，所有人的基本人权都随时被威胁、被剥夺，习当局反人类反人权，受害最烈的是中国14亿民众。<br><br>DW 中文- 德国之声: 德国之声客座评论员Alexander Görlach指出：”黄之锋自愿留在香港，意在让世界看到，香港的自由和独立是如何死去的。他做出的牺牲和所有与他一道捍卫港人的自由和尊严的众多人们做出的牺牲，不应由于我们的无所作为而付诸东流“<br> <a href="https://p.dw.com/p/3mTfc" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3mTfc</a>
 
+### 8: [2020-12-10 01:14:46+08:00 推文](https://twitter.com/realcaixia/status/1336720957906575363)
+
+“XUAR中的大象：我。整个家庭被判刑”。全新疆地区就是人间地狱，整个家庭被判刑，骇人听闻。这样的惨剧不是少数案例。习当局对中国内地严密封锁新疆情况，许多中国人对此几无所知。国际社会关注到以技术培训为名的集中营，我们呼吁同时关注被以法律名义迫害而判刑的新疆民众。 <a href="https://livingotherwise.com/2020/12/09/the-elephant-in-the-xuar-i-entire-families-sentenced/" target="_blank" rel="noopener noreferrer">https://livingotherwise.com/2020/12/09/the-elephant-in-the-xuar-i-entire-families-sentenced/</a>
+
