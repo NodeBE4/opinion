@@ -47,3 +47,7 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 
 “XUAR中的大象：我。整个家庭被判刑”。全新疆地区就是人间地狱，整个家庭被判刑，骇人听闻。这样的惨剧不是少数案例。习当局对中国内地严密封锁新疆情况，许多中国人对此几无所知。国际社会关注到以技术培训为名的集中营，我们呼吁同时关注被以法律名义迫害而判刑的新疆民众。 <a href="https://livingotherwise.com/2020/12/09/the-elephant-in-the-xuar-i-entire-families-sentenced/" target="_blank" rel="noopener noreferrer">https://livingotherwise.com/2020/12/09/the-elephant-in-the-xuar-i-entire-families-sentenced/</a>
 
+### 9: [2020-12-10 22:24:09+08:00 推文](https://twitter.com/realcaixia/status/1337040409013481474)
+
+转推。<br><br>韩连潮: 这位推友用德语写出张展在狱中受难的生命危急情况，期望能引起华语世界之外的国际社会人士广泛关注。特别转推发。<br> <a href="https://twitter.com/zhangdong_sch/status/1336842524305088512" target="_blank" rel="noopener noreferrer">https://twitter.com/zhangdong_sch/status/1336842524305088512</a>
+
