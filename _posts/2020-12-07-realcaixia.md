@@ -51,3 +51,7 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 
 转推。<br><br>韩连潮: 这位推友用德语写出张展在狱中受难的生命危急情况，期望能引起华语世界之外的国际社会人士广泛关注。特别转推发。<br> <a href="https://twitter.com/zhangdong_sch/status/1336842524305088512" target="_blank" rel="noopener noreferrer">https://twitter.com/zhangdong_sch/status/1336842524305088512</a>
 
+### 10: [2020-12-10 22:31:02+08:00 推文](https://twitter.com/realcaixia/status/1337042140975816707)
+
+再转发。前面用德文写作介绍张展情况的推友，又用中文呼吁大家伸出援手解救张展。确实，张展的危急情况再明白不过地显示，极权暴政统治的中国大陆人权灾难深重。我们所有人一起努力，推到极权暴政，改变我们自己的命运。天助自助者！<br><br>韩连潮: 前面所推是这位推友的德语推文，这位网友还特别用中文叙说张展命运与所有中国人命运的息息相关。深为网友的正义感所感动，特别再转推此文。<br><br><img style src="https://pbs.twimg.com/media/Eo4UU8OXEAAiM79?format=jpg&name=orig" referrerpolicy="no-referrer">
+
