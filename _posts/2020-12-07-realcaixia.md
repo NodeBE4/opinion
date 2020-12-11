@@ -75,3 +75,15 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 
 Re @HYZhang17 不错，桥是炸不了的，但拼命是真的。中共国天天在打内战。
 
+### 16: [2020-12-12 02:58:41+08:00 推文](https://twitter.com/realcaixia/status/1337471885316124675)
+
+北京强拆民房恶性事件（3）中国著名诗人郭小川之女郭岭梅，以命相搏保护自己的家园。前面有人（五毛、小粉红、中共网军）为极权辩护说，买小产权房就该被拆。他们故意不说，这类房子是当地政府开发建房卖房，并政府一直在卖房达20多年。即便有错，也理应当地政府承担责任，何来政府强拆之理？！<br><img style src="https://pbs.twimg.com/media/Eo-nkpOXcAERdfb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-nlK7XIAIFGYT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-nlmrWEAMdaQC?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2020-12-12 03:16:19+08:00 推文](https://twitter.com/realcaixia/status/1337476324726861828)
+
+Re @amsoft6 你是专职替极权洗地吗？最近一位上海市民用煤气罐爆炸与强拆房子暴徒同归于尽，你还能替极权洗地吗？你想过有一天你的家人亲友儿女子孙也可能被极权碾压吗？！
+
+### 18: [2020-12-12 03:22:47+08:00 推文](https://twitter.com/realcaixia/status/1337477952762744832)
+
+Re @cn_lixiang 感谢提醒。以后注意都涂抹，国内微信群友发出任何一点声音，都会冒着巨大的危险。
+
