@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-10
+date: 2020-12-11
 from: https://twitter.com/realcaixia/status/1336089815209668608
 layout: post
 tags:
@@ -54,4 +54,8 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 ### 10: [2020-12-10 22:31:02+08:00 推文](https://twitter.com/realcaixia/status/1337042140975816707)
 
 再转发。前面用德文写作介绍张展情况的推友，又用中文呼吁大家伸出援手解救张展。确实，张展的危急情况再明白不过地显示，极权暴政统治的中国大陆人权灾难深重。我们所有人一起努力，推到极权暴政，改变我们自己的命运。天助自助者！<br><br>韩连潮: 前面所推是这位推友的德语推文，这位网友还特别用中文叙说张展命运与所有中国人命运的息息相关。深为网友的正义感所感动，特别再转推此文。<br><br><img style src="https://pbs.twimg.com/media/Eo4UU8OXEAAiM79?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2020-12-11 09:49:30+08:00 推文](https://twitter.com/realcaixia/status/1337212882753376261)
+
+曾铮了不起！曾铮把翟东生的得意炫耀演讲做了英文翻译，有力地揭露了中共收买华盛顿华尔街的龌龊邪恶勾当！中共爪牙公然威胁曾铮的人身安全，油管居然对曾铮公然封杀。可见中共对美国的渗透收买、寻找代理人，不计成本不惜代价，肆无忌惮。曾铮是英雄！我支持曾铮，我们与曾铮站在一起！<br><br>Jennifer Zeng 曾錚: 是的，我曾經是共產黨員，也曾經在國務院發展研究中心工作。我在置頂視頻裏都說了，沒打算瞞著誰。我的退黨聲明（中英雙語版）請學習一下（2004年12月就退了）：<br> <a href="https://www.jenniferzengblog.com/home/2018/3/1/the-story-of-my-father34" target="_blank" rel="noopener noreferrer">https://www.jenniferzengblog.com/home/2018/3/1/the-story-of-my-father34</a> <a href="https://twitter.com/kunlun1236/status/1337128752770412544" target="_blank" rel="noopener noreferrer">https://twitter.com/kunlun1236/status/1337128752770412544</a>
 
