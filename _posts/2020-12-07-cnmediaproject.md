@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-09
+date: 2020-12-11
 from: https://twitter.com/MalinOud/status/1335870381094219778
 layout: post
 tags:
@@ -34,4 +34,8 @@ Scandal Dogs China’s ‘King of Vaccines,’ Partner to AstraZeneca <a href=
 ### 5: [2020-12-09 01:30:53+08:00 推文](https://twitter.com/xinwenxiaojie/status/1336362625886777350)
 
 RT Yuen Chan<br>Once upon a time in Beijing.<br>When there was healthy competition among the TV news operations in Hong Kong. <br>When the city was a beacon for press freedom in the region.<br>One of those stations is extinct, the other has been shaken to the core.<br><img style src="https://pbs.twimg.com/media/Eou2NIFXIAI-CR1?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2020-12-11 22:07:58+08:00 推文](https://twitter.com/cnmediaproject/status/1337398726801952771)
+
+A very important case to keep an eye on.<br><br>Ian Johnson: A key question is what she was doing and if editors put her in a dangerous position. This is another reason why it’s increasingly important for reporters to speak Chinese—more and more areas are too risky for Chinese employees to research.<br> <a href="https://www.bloomberg.com/news/articles/2020-12-11/chinese-authorities-detain-bloomberg-news-beijing-staff-member" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2020-12-11/chinese-authorities-detain-bloomberg-news-beijing-staff-member</a>
 
