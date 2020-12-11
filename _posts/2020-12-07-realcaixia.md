@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-11
+date: 2020-12-12
 from: https://twitter.com/realcaixia/status/1336089815209668608
 layout: post
 tags:
@@ -58,4 +58,8 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 ### 11: [2020-12-11 09:49:30+08:00 推文](https://twitter.com/realcaixia/status/1337212882753376261)
 
 曾铮了不起！曾铮把翟东生的得意炫耀演讲做了英文翻译，有力地揭露了中共收买华盛顿华尔街的龌龊邪恶勾当！中共爪牙公然威胁曾铮的人身安全，油管居然对曾铮公然封杀。可见中共对美国的渗透收买、寻找代理人，不计成本不惜代价，肆无忌惮。曾铮是英雄！我支持曾铮，我们与曾铮站在一起！<br><br>Jennifer Zeng 曾錚: 是的，我曾經是共產黨員，也曾經在國務院發展研究中心工作。我在置頂視頻裏都說了，沒打算瞞著誰。我的退黨聲明（中英雙語版）請學習一下（2004年12月就退了）：<br> <a href="https://www.jenniferzengblog.com/home/2018/3/1/the-story-of-my-father34" target="_blank" rel="noopener noreferrer">https://www.jenniferzengblog.com/home/2018/3/1/the-story-of-my-father34</a> <a href="https://twitter.com/kunlun1236/status/1337128752770412544" target="_blank" rel="noopener noreferrer">https://twitter.com/kunlun1236/status/1337128752770412544</a>
+
+### 12: [2020-12-12 00:32:41+08:00 推文](https://twitter.com/realcaixia/status/1337435144337182721)
+
+北京强拆民房恶性事件（1）：北京市昌平区政府20多年前盖章批准崔村镇政府开发建设小产权房，北京市许多老人或卖掉城里老旧房或倾尽一生积蓄，买了香堂村开发的住房，图的是晚年养老依青山绿水而居，信的是政府盖章即是政府信用。寒冬腊月上头命令强拆，老人被迫拼命护家。中国人权灾难每天都在发生。<br><img style src="https://pbs.twimg.com/media/Eo-GJZpXEAAIdAo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-GJ_3W8AIpqh2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-GKWPXIAUjiMV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-GKw0WEAoh6wy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
