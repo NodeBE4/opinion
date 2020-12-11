@@ -63,3 +63,15 @@ title: 'Twitter @蔡霞: 2020-12-07~2020-12-13'
 
 北京强拆民房恶性事件（1）：北京市昌平区政府20多年前盖章批准崔村镇政府开发建设小产权房，北京市许多老人或卖掉城里老旧房或倾尽一生积蓄，买了香堂村开发的住房，图的是晚年养老依青山绿水而居，信的是政府盖章即是政府信用。寒冬腊月上头命令强拆，老人被迫拼命护家。中国人权灾难每天都在发生。<br><img style src="https://pbs.twimg.com/media/Eo-GJZpXEAAIdAo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-GJ_3W8AIpqh2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-GKWPXIAUjiMV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-GKw0WEAoh6wy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 13: [2020-12-12 00:53:47+08:00 推文](https://twitter.com/realcaixia/status/1337440455382982658)
+
+北京市强拆民房恶性事件（2）：政府大量警察警车进村、官员连哄骗带威胁、法院违法介入，国家专政机器全盘开动对付手无寸铁的平民与耄耋老人！居住平民与老人们这边是拼死抗争，毁房即毁家即是毁灭老人的生存权利。如此残暴为何？民间一传说，香堂村位于帝都龙脉之龙头气口，帝不爽故逼拆。<br><img style src="https://pbs.twimg.com/media/Eo-K-f_XIAA_sqD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-K-9yW4AczIGu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-K_o5W8AYrOH8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eo-LAFSW4Ak3P-s?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2020-12-12 01:05:40+08:00 推文](https://twitter.com/realcaixia/status/1337443444797665280)
+
+帝都不平安。这是北京南二环。据说老者拿着手榴弹炸桥。想起曾经被洗脑时看过的打仗电影：地道战、地雷战……平民拿起武器，必是拼命之举。香堂村老人们在拼命，北京城里也有这位老人在拼命。一个不让人活的政权它自己能活得下去吗？！<br><img style src="https://pbs.twimg.com/media/Eo-NuBQXIAAS3AB?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2020-12-12 01:19:51+08:00 推文](https://twitter.com/realcaixia/status/1337447012678164481)
+
+Re @HYZhang17 不错，桥是炸不了的，但拼命是真的。中共国天天在打内战。
+
