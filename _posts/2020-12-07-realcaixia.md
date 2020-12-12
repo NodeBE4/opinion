@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-12
+date: 2020-12-13
 from: https://twitter.com/realcaixia/status/1336089815209668608
 layout: post
 tags:
@@ -186,4 +186,12 @@ Re @dawei89805787 你知道邪教二字谁定的吗？！中共定的。邪教�
 ### 43: [2020-12-12 19:31:47+08:00 推文](https://twitter.com/realcaixia/status/1337721809370828800)
 
 Re @macbook27418532 你这个中共网军假推号，跑这边来作妖孽蒙骗网友！网友去这个什么鸟头推的页面上看一眼，真相即刻显露！
+
+### 44: [2020-12-13 05:13:23+08:00 推文](https://twitter.com/realcaixia/status/1337868172070948864)
+
+Re @damaziwang 我前几天偶然这个视频，后来就找不到了。我这就转推。
+
+### 45: [2020-12-13 05:33:08+08:00 推文](https://twitter.com/realcaixia/status/1337873143965372420)
+
+转推自网友。前几天看到这个视频的后半部分，70多岁的孤老妇人，丈夫去世儿子病故，毕生积蓄加卖掉旧房才买下的住房，政府强拆只赔160万人民币。这在天津北京根本买不到住房。垂老之身将栖居何处？老妇人声泪俱下的哭诉充满辛酸悲伤与无奈，这类惨况处处可见，中共抢夺民产无人性，中共国即成人间炼狱<br><br>王大麻子: @realcaixia 您的版本过时了，最新版本的抢劫方法是70年大产权五证俱全的房子都要算做违建拆除<br> <a href="https://twitter.com/damaziwang/status/1336748013880922114?s=20" target="_blank" rel="noopener noreferrer">https://twitter.com/damaziwang/status/1336748013880922114?s=20</a>
 
