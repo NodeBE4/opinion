@@ -131,3 +131,39 @@ Re @Longdechuanren4 你够蠢够坏！
 
 还有比中共国政府更无耻更没人性的吗？！在我的推下一直都聚了一大堆替中共极权洗地、遮掩极权暴政罪行的中共爪牙，且看这帮爪牙如何为此无耻报道狡辩。<br><img style src="https://pbs.twimg.com/media/EpBGMhiXIAAY77q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpBGM8KWEAES05a?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpBGNdkWEAIgooQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 30: [2020-12-12 14:52:56+08:00 推文](https://twitter.com/realcaixia/status/1337651634562863105)
+
+Re @iLan2pad 你这个热衷于转推战狼部华春莹、赵立坚推的家伙，他们给你发多少赏金，亮出来。
+
+### 31: [2020-12-12 16:18:54+08:00 推文](https://twitter.com/realcaixia/status/1337673269021970433)
+
+政府作孽，大冬天逼得老人们没有避寒护身之处。居然还有人对被强拆的住户中某些人幸灾乐祸。这些人没有起码的同情心也罢了，还咒别人报应甚至辱别人为狗。真不知这些自封为自由民主人士的人有多少尊重别人人格尊严、认可每个人权利平等之基本观念。<br><br>荣剑: 真的要拆，必须要拆，总得要有基本的人道关怀吧！难道就不能过了这个大冬天，到明年开春后再拆?对于那些只有这一套房的业主，拆了他们的家，大冬天的叫他们去哪里住?<br> <a href="https://twitter.com/gaoyu200812/status/1337398319383863311" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1337398319383863311</a>
+
+### 32: [2020-12-12 16:23:47+08:00 推文](https://twitter.com/realcaixia/status/1337674497172844544)
+
+Re @taosheng_wz 这是又一个网军假推！大家可以去这假推的页面上看看。
+
+### 33: [2020-12-12 16:25:05+08:00 推文](https://twitter.com/realcaixia/status/1337674824286670850)
+
+Re @hongyingqiang3 你现在效忠于这个黑帮，你于与你的主子同样无耻。
+
+### 34: [2020-12-12 16:25:58+08:00 推文](https://twitter.com/realcaixia/status/1337675046119149568)
+
+Re @david07246560 这也是个中共爪牙！
+
+### 35: [2020-12-12 16:28:24+08:00 推文](https://twitter.com/realcaixia/status/1337675656717594624)
+
+Re @Jwad48570123 这是一个中共爪牙专门盯人的。无耻黑帮！
+
+### 36: [2020-12-12 16:29:04+08:00 推文](https://twitter.com/realcaixia/status/1337675824712052738)
+
+Re @KuantanGoh 中共走卒一枚！
+
+### 37: [2020-12-12 16:31:36+08:00 推文](https://twitter.com/realcaixia/status/1337676465006112768)
+
+Re @wang2584 一个打手假推！有兴趣者去这厮推页上去看，就可以扒下它的假推马甲。
+
+### 38: [2020-12-12 16:32:22+08:00 推文](https://twitter.com/realcaixia/status/1337676658317406208)
+
+Re @wang2584 @fxxkccp3 你无耻，甘作恶。
+
