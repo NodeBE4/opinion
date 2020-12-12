@@ -111,3 +111,23 @@ Re @raymondshark 你是中共网军伪装的吧？！中共一切作恶都要帮
 
 Re @raymondshark 你这个中共网军，2018年注册推特，至今一共推出两个推，一个只有几个字，另一个推特转载中共战狼部华春莹的推文！扒开你的伪装皮！
 
+### 25: [2020-12-12 13:20:36+08:00 推文](https://twitter.com/realcaixia/status/1337628398240337920)
+
+中国经济出问题只是时间问题，这位网友推文说的养老金、工资等能否按时发放，只是冰山一角。<br><br>沈艳秋: 今天10号我去工商银行拿退休工资，没有，我再查明细帐，我操，退休工资还没发，上海是国际大都市，魔都，不会连基本的养老工资都发不出来吧？老百姓就是每个月靠这么一点退休金过日子的，你们不发工资，还让老百姓怎么生活？<br>
+
+### 26: [2020-12-12 14:19:13+08:00 推文](https://twitter.com/realcaixia/status/1337643150505103363)
+
+Re @ginger_jsh 这个是假推，中共网军机器人。大家可以上这推去看，看看推文数字是如何造假的。
+
+### 27: [2020-12-12 14:22:51+08:00 推文](https://twitter.com/realcaixia/status/1337644064611721218)
+
+Re @registerkevin1 这个2016年注册的推，数字显示发了20条推文，实际数一下只有8条推文。这是正常推吗？！
+
+### 28: [2020-12-12 14:25:14+08:00 推文](https://twitter.com/realcaixia/status/1337644664514605058)
+
+Re @Longdechuanren4 你够蠢够坏！
+
+### 29: [2020-12-12 14:31:43+08:00 推文](https://twitter.com/realcaixia/status/1337646292978249728)
+
+还有比中共国政府更无耻更没人性的吗？！在我的推下一直都聚了一大堆替中共极权洗地、遮掩极权暴政罪行的中共爪牙，且看这帮爪牙如何为此无耻报道狡辩。<br><img style src="https://pbs.twimg.com/media/EpBGMhiXIAAY77q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpBGM8KWEAES05a?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpBGNdkWEAIgooQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
