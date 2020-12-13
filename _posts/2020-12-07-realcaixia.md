@@ -195,3 +195,7 @@ Re @damaziwang 我前几天偶然这个视频，后来就找不到了。我这�
 
 转推自网友。前几天看到这个视频的后半部分，70多岁的孤老妇人，丈夫去世儿子病故，毕生积蓄加卖掉旧房才买下的住房，政府强拆只赔160万人民币。这在天津北京根本买不到住房。垂老之身将栖居何处？老妇人声泪俱下的哭诉充满辛酸悲伤与无奈，这类惨况处处可见，中共抢夺民产无人性，中共国即成人间炼狱<br><br>王大麻子: @realcaixia 您的版本过时了，最新版本的抢劫方法是70年大产权五证俱全的房子都要算做违建拆除<br> <a href="https://twitter.com/damaziwang/status/1336748013880922114?s=20" target="_blank" rel="noopener noreferrer">https://twitter.com/damaziwang/status/1336748013880922114?s=20</a>
 
+### 46: [2020-12-13 12:02:24+08:00 推文](https://twitter.com/realcaixia/status/1337971105483599873)
+
+昨晚转推天津市强拆住房，逼迫赶走“五证齐全”老人。又有网友发出新的完整链接。看完惊到不寒而栗！活在暴政下，随时有飞来横祸，：政府想要这块地，你的房子就被拆；政府看上企业家的钱，分分钟你就进监狱，政府冠冕堂皇宣布没收资产；你说话惹政府不高兴，按你个煽颠罪，轻则进监所重则被判刑N年…<br><br>当代鲁迅: @realcaixia 传送门，原帖地址。事情的来龙去脉，里面已经介绍的一清二楚。顺藤摸瓜看完，惊得汗流浃背。<br> <a href="https://mp.weixin.qq.com/s/zOLUxEeOlFWbCbBA4eAr0g" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/zOLUxEeOlFWbCbBA4eAr0g</a>
+
