@@ -203,3 +203,11 @@ Re @damaziwang 我前几天偶然这个视频，后来就找不到了。我这�
 
 简直无语。为李文亮之无奈，为钟南山之无良，为中共之无耻。于无声处听惊雷，惊雷何时炸起，九州大地拨云见日？<br><br>荣剑: 转国内网上评论:初，李文亮医生凄然离世，四海同悲。当时舆论说，国家应当为牺牲和浴血奋战的医护人员立一座无名纪念碑，以志其功，以告万世。今天碑成，竟是一人之生祠！<br><br><img style src="https://pbs.twimg.com/media/EpHFsptU8AAxLLY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpHFtAIVQAEKhN4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpHFtP3U8AEFF47?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpHFtlcU0AAN_FN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 48: [2020-12-13 22:47:47+08:00 推文](https://twitter.com/realcaixia/status/1338133519776813060)
+
+特转王剑虹的推，“张展”名字现在一看到就如利剑穿心。我们一齐喊：张展回家！张展何时能回家？不能让张展成为刘晓波第二！救援张展需要全世界的正义力量一起努力。呼吁所有与国际社会人权组织、与欧盟组织与主要欧洲国家政府、与美国政府有联系的网友，尽力发挥影响力，共同要求中共政权立即释放张展。<br><br>王剑虹 #一起喊 #张展回家: @realcaixia 因报道武汉疫情的公民记者张展被捕7个月，看守所中绝食，受酷刑，生命垂危，请关注，谢谢<br> <a href="https://twitter.com/changchengwai/status/1337936233989812224?s=20" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1337936233989812224?s=20</a>
+
+### 49: [2020-12-13 22:56:27+08:00 推文](https://twitter.com/realcaixia/status/1338135701171425281)
+
+Re @86Literature 这就是极权极度残酷暴虐的特征之一！极权暴政下的“法”，本质即是恶法。
+
