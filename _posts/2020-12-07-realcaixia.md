@@ -199,3 +199,7 @@ Re @damaziwang 我前几天偶然这个视频，后来就找不到了。我这�
 
 昨晚转推天津市强拆住房，逼迫赶走“五证齐全”老人。又有网友发出新的完整链接。看完惊到不寒而栗！活在暴政下，随时有飞来横祸，：政府想要这块地，你的房子就被拆；政府看上企业家的钱，分分钟你就进监狱，政府冠冕堂皇宣布没收资产；你说话惹政府不高兴，按你个煽颠罪，轻则进监所重则被判刑N年…<br><br>当代鲁迅: @realcaixia 传送门，原帖地址。事情的来龙去脉，里面已经介绍的一清二楚。顺藤摸瓜看完，惊得汗流浃背。<br> <a href="https://mp.weixin.qq.com/s/zOLUxEeOlFWbCbBA4eAr0g" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/zOLUxEeOlFWbCbBA4eAr0g</a>
 
+### 47: [2020-12-13 20:16:17+08:00 推文](https://twitter.com/realcaixia/status/1338095395470258176)
+
+简直无语。为李文亮之无奈，为钟南山之无良，为中共之无耻。于无声处听惊雷，惊雷何时炸起，九州大地拨云见日？<br><br>荣剑: 转国内网上评论:初，李文亮医生凄然离世，四海同悲。当时舆论说，国家应当为牺牲和浴血奋战的医护人员立一座无名纪念碑，以志其功，以告万世。今天碑成，竟是一人之生祠！<br><br><img style src="https://pbs.twimg.com/media/EpHFsptU8AAxLLY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpHFtAIVQAEKhN4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpHFtP3U8AEFF47?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpHFtlcU0AAN_FN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
