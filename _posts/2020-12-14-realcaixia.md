@@ -31,3 +31,7 @@ Re @painfreelife13 对，我刚发现这个数字有误，不是指到海外的�
 
 Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类问题。有兴趣的话请您上美国外交事务杂志网，前不久有一篇文章发出了。英文版与中文版都有。即便那篇文章也依旧谈得不深。 <a href="https://www.foreignaffairs.com/articles/china/2020-12-04/chinese-communist-party-failed" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/articles/china/2020-12-04/chinese-communist-party-failed</a>
 
+### 5: [2020-12-14 12:10:51+08:00 推文](https://twitter.com/realcaixia/status/1338335620264038400)
+
+北京昌平区香堂村强拆民房，村民呼救！据说有“高人”给习帝看风水做京城规划，说香堂村房压了龙脉气口，于是强拆房。住户拼死抗争，特警保安威胁恐吓，双方剑拔弩张，严重对峙。已有为此向李克强总理进言写信，有向中央与北京市政府提出紧急建议等。看来事态还在恶化中。中共不是号称唯物主义无神论吗？<br><img style src="https://pbs.twimg.com/media/EpK5JbeXcAA7DAo?format=jpg&name=orig" referrerpolicy="no-referrer">
+
