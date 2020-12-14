@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-14
+date: 2020-12-15
 from: https://twitter.com/realcaixia/status/1338160939699466245
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类
 ### 6: [2020-12-14 21:43:01+08:00 推文](https://twitter.com/realcaixia/status/1338479611647324160)
 
 概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位…<br><br>荣剑: 新三个凡是，概括还是蛮精准的。<br><br><img style src="https://pbs.twimg.com/media/EpMhkxDUwAAh9Dd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2020-12-15 00:15:58+08:00 推文](https://twitter.com/realcaixia/status/1338518099339997193)
+
+看这是个中共僵尸推！这个僵尸2010年就在推特上潜伏，今天爬出尸洞狰狞疯咬。可见，我确实打痛了中共极权新纳粹！要识别哪些是中共布下的黑暗幽灵，就去查看这类推的首页与是否有正常推文。在推特脸书油管上，都有中共网军在绞杀反抗习中共极权暴政的良心人士。为自由民主而战，绝不放弃，绝不后退！<br><img style src="https://pbs.twimg.com/media/EpNfGwsXUAI4Tq1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNfG_kW8AA4Ej-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNfHKUXYAAtZaK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNfHZtXMAQwfzD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2020-12-15 00:31:05+08:00 推文](https://twitter.com/realcaixia/status/1338521904521555970)
+
+香堂村强拆事件是中共北京当局制造的人道主义灾难事件！是中共政权流氓化的又一罪证。这是北京市民所写对香堂村强拆情况的举报，因篇幅较长，只能推出部分文字。<br><img style src="https://pbs.twimg.com/media/EpNijU_WMAYy-5v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNij1hXIAIZ86c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNikVmWEAEBR4e?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNikt2XEAMSeJN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
