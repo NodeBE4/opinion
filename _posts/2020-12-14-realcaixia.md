@@ -27,3 +27,7 @@ Re @painfreelife13 对，我刚发现这个数字有误，不是指到海外的�
 
 人有梦有野心是好事，怕只怕没文化➕没人管得了的权力。不许妄议➕定于一尊➕任期无限制➕人类共同体。嫌压了龙脉气口就强拆昌平民房；恨话语冒犯就抓监判刑；想全球称帝就一带一路、撒疫各国；想治国辉煌就批准脱贫；想被赞满腹经纶就建雄安大学…<br>耗中华之资源邀一人之欢心，梦想成“真”时生灵涂炭日<br><img style src="https://pbs.twimg.com/media/EpJmCIPXcAEJTbw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2020-12-14 07:53:57+08:00 推文](https://twitter.com/realcaixia/status/1338270968289095681)
+
+Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类问题。有兴趣的话请您上美国外交事务杂志网，前不久有一篇文章发出了。英文版与中文版都有。即便那篇文章也依旧谈得不深。 <a href="https://www.foreignaffairs.com/articles/china/2020-12-04/chinese-communist-party-failed" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/articles/china/2020-12-04/chinese-communist-party-failed</a>
+
