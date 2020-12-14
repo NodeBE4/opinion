@@ -37,7 +37,7 @@ Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类
 
 ### 6: [2020-12-14 21:43:01+08:00 推文](https://twitter.com/realcaixia/status/1338479611647324160)
 
-概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位…<br><br>荣剑: 新三个凡是，概括还是蛮精准的。<br><br><img style src="https://pbs.twimg.com/media/EpMhkxDUwAAh9Dd?format=jpg&name=orig" referrerpolicy="no-referrer">
+概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位… <a href="https://twitter.com/rongjian1957/status/1338450432759230464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1338450432759230464</a>
 
 ### 7: [2020-12-15 00:15:58+08:00 推文](https://twitter.com/realcaixia/status/1338518099339997193)
 
@@ -46,4 +46,8 @@ Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类
 ### 8: [2020-12-15 00:31:05+08:00 推文](https://twitter.com/realcaixia/status/1338521904521555970)
 
 香堂村强拆事件是中共北京当局制造的人道主义灾难事件！是中共政权流氓化的又一罪证。这是北京市民所写对香堂村强拆情况的举报，因篇幅较长，只能推出部分文字。<br><img style src="https://pbs.twimg.com/media/EpNijU_WMAYy-5v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNij1hXIAIZ86c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNikVmWEAEBR4e?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpNikt2XEAMSeJN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2020-12-15 01:30:32+08:00 推文](https://twitter.com/realcaixia/status/1338536866254102530)
+
+这是北京市香堂村住户的呼救视频。数九寒天断水断电，住户中许多是70岁以上的老人。北京市天气预报：未来一周内最低温度一直在摄氏—8度。<br>这是将住户逼入绝境，置于死地！这样的政权何其狠毒！为中共极权暴政做辩护的全都丧尽天良！<br><video src="https://video.twimg.com/ext_tw_video/1338536572472406022/pu/vid/720x1232/IDDJSWFoT7Vh1OSH.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1338536572472406022/pu/img/anUBOMoB_u3NU0sK.jpg"></video>
 
