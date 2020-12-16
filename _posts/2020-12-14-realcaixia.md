@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-15
+date: 2020-12-16
 from: https://twitter.com/realcaixia/status/1338160939699466245
 layout: post
 tags:
@@ -50,4 +50,20 @@ Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类
 ### 9: [2020-12-15 01:30:32+08:00 推文](https://twitter.com/realcaixia/status/1338536866254102530)
 
 这是北京市香堂村住户的呼救视频。数九寒天断水断电，住户中许多是70岁以上的老人。北京市天气预报：未来一周内最低温度一直在摄氏—8度。<br>这是将住户逼入绝境，置于死地！这样的政权何其狠毒！为中共极权暴政做辩护的全都丧尽天良！<br><video src="https://video.twimg.com/ext_tw_video/1338536572472406022/pu/vid/720x1232/IDDJSWFoT7Vh1OSH.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1338536572472406022/pu/img/anUBOMoB_u3NU0sK.jpg"></video>
+
+### 10: [2020-12-16 12:50:28+08:00 推文](https://twitter.com/realcaixia/status/1339070363477663744)
+
+这场人道主义灾难若不及时制止，还会有更多的悲剧发生。从根本上说，一人独裁遍地生灾，极权暴政民不聊生。<br><br>鲁  难: 12月16曰深夜因强拆导致 停水 停电 停气.,北京昌平区香堂村有母女二人在零下十几度的家中用煤炉取暖，发生煤气中毒事件。有人质疑强拆的时间选择在隆冬，或许是故意而为之。<br><br><video src="https://video.twimg.com/ext_tw_video/1339068579942182913/pu/vid/960x544/KTZ3EqG314eWclsw.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1339068579942182913/pu/img/KIqVAtrnuc-nTsNi.jpg"></video>
+
+### 11: [2020-12-16 13:50:16+08:00 推文](https://twitter.com/realcaixia/status/1339085414146117633)
+
+Re @Freedom58296417 🙏
+
+### 12: [2020-12-16 13:50:38+08:00 推文](https://twitter.com/realcaixia/status/1339085506836094976)
+
+Re @alnflaura 🙏
+
+### 13: [2020-12-16 13:50:56+08:00 推文](https://twitter.com/realcaixia/status/1339085584258781185)
+
+Re @James50056336 🌹🙏
 
