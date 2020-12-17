@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-14
+date: 2020-12-17
 from: https://twitter.com/Yaqiu/status/1338486924793798657
 layout: post
 tags:
@@ -18,4 +18,12 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 ### 1: [2020-12-14 22:12:05+08:00 推文](https://twitter.com/Yaqiu/status/1338486924793798657)
 
 RT Yaqiu Wang 王亚秋<br>In which I spoke about the curious case of Tuber. A great analysis on it by @cnmediaproject :<br><br>Antony J Funnell: This morning at 10.30 on Future Tense @Neil_Selwyn of @MonashUni details his survey of public attitudes toward AI, while @Michael_b_evans explains the benefits of adopting a national plan. That's on RN..<br><br><img style src="https://pbs.twimg.com/media/Eo7DNihU0AE41Ng?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.abc.net.au/radionational/programs/futuretense/our-understanding-of-ai-and-the-value-of-a-national-plan/12919314" target="_blank" rel="noopener noreferrer">https://www.abc.net.au/radionational/programs/futuretense/our-understanding-of-ai-and-the-value-of-a-national-plan/12919314</a>
+
+### 2: [2020-12-17 17:46:31+08:00 推文](https://twitter.com/cnmediaproject/status/1339507256908517376)
+
+Vaccine diplomacy stepping in where the Belt and Road Initiative is losing steam.<br><br>Mathieu Duchâtel: Developed countries are racing to book available vaccines. China, with its four vaccines in phase III trial, none needing ultra-cold storage, positions itself as the solution to meet the needs of the developing world<br> <a href="https://asia.nikkei.com/Spotlight/Coronavirus/China-forges-on-with-vaccine-diplomacy-amid-Pfizer-fanfare" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Spotlight/Coronavirus/China-forges-on-with-vaccine-diplomacy-amid-Pfizer-fanfare</a>
+
+### 3: [2020-12-17 17:53:18+08:00 推文](https://twitter.com/cnmediaproject/status/1339508964833300480)
+
+Just as the tide was turning decisively against Huawei in Europe, this decision muddies the waters. Again, there is talk of "dependency" on China -- but this dependency is perhaps overestimated.<br><br>François Godement: If Germany wanted to prove to the US it is unreliable, it took exactly the right move - using the transition period to cave in to Chinese relentless pressure in favour if its favorite Trojan horse that is Huawei. And making Europeans look like fools. WSJ<br> <a href="https://www.wsj.com/articles/huawei-gets-conditional-green-light-in-germany-as-government-approves-security-bill-11608117504" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/huawei-gets-conditional-green-light-in-germany-as-government-approves-security-bill-11608117504</a>
 
