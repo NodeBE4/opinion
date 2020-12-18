@@ -31,3 +31,7 @@ Just as the tide was turning decisively against Huawei in Europe, this decision 
 
 CMP explores the intersection of security, technology, privacy and . . . toilet paper? <a href="https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/</a><br><img style src="https://pbs.twimg.com/media/Epg7NnvXEAIhjrR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2020-12-18 20:32:28+08:00 推文](https://twitter.com/mtdtl/status/1339911405567401984)
+
+RT Mathieu Duchâtel<br>€1,91 billion: good to have an estimate for the EU public procurement tenders won by Chinese companies in 2019 (including through the European companies they have acquired). This puts in the spotlight one of the symbols of asymetry in EU-China relations <a href="https://www.wsj.com/articles/chinese-companies-win-billions-in-european-taxpayer-funded-contracts-11608222716" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinese-companies-win-billions-in-european-taxpayer-funded-contracts-11608222716</a>
+
