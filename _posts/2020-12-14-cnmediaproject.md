@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-17
+date: 2020-12-18
 from: https://twitter.com/Yaqiu/status/1338486924793798657
 layout: post
 tags:
@@ -26,4 +26,8 @@ Vaccine diplomacy stepping in where the Belt and Road Initiative is losing steam
 ### 3: [2020-12-17 17:53:18+08:00 推文](https://twitter.com/cnmediaproject/status/1339508964833300480)
 
 Just as the tide was turning decisively against Huawei in Europe, this decision muddies the waters. Again, there is talk of "dependency" on China -- but this dependency is perhaps overestimated.<br><br>François Godement: If Germany wanted to prove to the US it is unreliable, it took exactly the right move - using the transition period to cave in to Chinese relentless pressure in favour if its favorite Trojan horse that is Huawei. And making Europeans look like fools. WSJ<br> <a href="https://www.wsj.com/articles/huawei-gets-conditional-green-light-in-germany-as-government-approves-security-bill-11608117504" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/huawei-gets-conditional-green-light-in-germany-as-government-approves-security-bill-11608117504</a>
+
+### 4: [2020-12-18 18:51:37+08:00 推文](https://twitter.com/cnmediaproject/status/1339886027717152774)
+
+CMP explores the intersection of security, technology, privacy and . . . toilet paper? <a href="https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/</a><br><img style src="https://pbs.twimg.com/media/Epg7NnvXEAIhjrR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
