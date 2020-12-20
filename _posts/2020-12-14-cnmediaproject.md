@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-18
+date: 2020-12-19
 from: https://twitter.com/Yaqiu/status/1338486924793798657
 layout: post
 tags:
@@ -34,4 +34,8 @@ CMP explores the intersection of security, technology, privacy and . . . toilet 
 ### 5: [2020-12-18 20:32:28+08:00 推文](https://twitter.com/mtdtl/status/1339911405567401984)
 
 RT Mathieu Duchâtel<br>€1,91 billion: good to have an estimate for the EU public procurement tenders won by Chinese companies in 2019 (including through the European companies they have acquired). This puts in the spotlight one of the symbols of asymetry in EU-China relations <a href="https://www.wsj.com/articles/chinese-companies-win-billions-in-european-taxpayer-funded-contracts-11608222716" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinese-companies-win-billions-in-european-taxpayer-funded-contracts-11608222716</a>
+
+### 6: [2020-12-19 19:21:13+08:00 推文](https://twitter.com/m_huotari/status/1340255865169960960)
+
+RT Mikko Huotari<br>This should be read carefully by  everyone hoping for better market access in China via CAI. China issues national security rules on foreign investment | Article [AMP] | Reuters <a href="https://www.reuters.com/article/china-investment-idUSKBN28T0FS" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/china-investment-idUSKBN28T0FS</a>
 
