@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-21
+date: 2020-12-22
 from: https://twitter.com/ChinaFile/status/1340840559745904640
 layout: post
 tags:
@@ -38,4 +38,8 @@ This is an on-the-money thread about moves within the CCP discourse and what is 
 ### 6: [2020-12-21 19:10:00+08:00 推文](https://twitter.com/caixin/status/1340977816293261312)
 
 RT Caixin Global<br>Two board members of a Beijing-based insurance company have been fired over an embezzlement scandal, Caixin learned. <a href="https://www.caixinglobal.com/2020-12-21/exclusive-regulator-removes-insurers-chair-in-embezzlement-scandal-101641596.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKtO7sTD%2FeRZRa4cCjpcjJYQ%3D%3D&cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2020-12-21/exclusive-regulator-removes-insurers-chair-in-embezzlement-scandal-101641596.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKtO7sTD%2FeRZRa4cCjpcjJYQ%3D%3D&cxg=web&Sfrom=twitter</a>
+
+### 7: [2020-12-22 00:21:19+08:00 推文](https://twitter.com/cnmediaproject/status/1341056162050039808)
+
+There is nothing at all wrong with well-supported, well-documented and cogent lack of surprise.<br><br>Alex Dukalskis: It bugs me when reviewers criticize something in a paper for being “unsurprising”. Counterintuitive findings are interesting when they happen but not every paper or book need be counterintuitive. This isn’t a magic show or a circus: it’s not the author’s job to “surprise” people.<br>
 
