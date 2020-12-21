@@ -35,3 +35,7 @@ RT Reinhard Bütikofer<br>Vis-à-vis #Vietnam EU in its FTA deal insisted, suc
 
 This is an on-the-money thread about moves within the CCP discourse and what is at stake.<br><br>Carl Minzner: (1/x) Starting to suspect that the rectification campaign that will sweep through China's political-legal bureaucracy in 2021 might be a major vector for trying to raise Xi Jinping's ideological place in the CCP political pantheon yet closer to Mao Zedong.<br>
 
+### 6: [2020-12-21 19:10:00+08:00 推文](https://twitter.com/caixin/status/1340977816293261312)
+
+RT Caixin Global<br>Two board members of a Beijing-based insurance company have been fired over an embezzlement scandal, Caixin learned. <a href="https://www.caixinglobal.com/2020-12-21/exclusive-regulator-removes-insurers-chair-in-embezzlement-scandal-101641596.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKtO7sTD%2FeRZRa4cCjpcjJYQ%3D%3D&cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2020-12-21/exclusive-regulator-removes-insurers-chair-in-embezzlement-scandal-101641596.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKtO7sTD%2FeRZRa4cCjpcjJYQ%3D%3D&cxg=web&Sfrom=twitter</a>
+
