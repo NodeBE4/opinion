@@ -1,0 +1,37 @@
+---
+author: cnmediaproject
+categories:
+- Twitter
+date: 2020-12-21
+from: https://twitter.com/ChinaFile/status/1340840559745904640
+layout: post
+tags:
+- Twitter
+title: 'Twitter @China Media Project: 2020-12-21~2020-12-27'
+---
+
+CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2020-12-21 10:04:35+08:00 推文](https://twitter.com/ChinaFile/status/1340840559745904640)
+
+RT ChinaFile<br>NEW @ChinaFile investigation: How a For-Profit Industry Helps China’s Leaders ‘Manage Public Opinion’ by Jessica Batke & @MareikeOhlberg based on analysis of some 3000 Chinese government procurement documents- <a href="https://www.chinafile.com/reporting-opinion/features/message-control-china" target="_blank" rel="noopener noreferrer">https://www.chinafile.com/reporting-opinion/features/message-control-china</a>
+
+### 2: [2020-12-21 10:09:11+08:00 推文](https://twitter.com/SheenaGreitens/status/1340841716861976577)
+
+RT Sheena Greitens<br>Terribly sad to hear of Ezra Vogel's passing. He was a remarkable scholar, & his wisdom, energy, humor, & kindness made him a role model for so many. His impact on the field, on US-China relations, & on all who knew him is hard to measure. He will be missed. 🙏🏻<br><br>Richard J. Samuels: @DanielPAldrich @MansfieldFDN @sfujihira @AbeFellowship @devintstewart Sadly, the reports are accurate. He passed away from complications after surgery.  A giant as scholar, public servant, and human being. Tirelessly curious.  Terrible loss.<br>
+
+### 3: [2020-12-21 12:52:00+08:00 推文](https://twitter.com/PekingMike/status/1340882690858479616)
+
+RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2020-12-21 15:52:27+08:00 推文](https://twitter.com/bueti/status/1340928103942643712)
+
+RT Reinhard Bütikofer<br>Vis-à-vis #Vietnam EU in its FTA deal insisted, successfully, that the country would ratify pertinent core conventions of the ILO. Why should the EU accept double standards under a #CAI deal with #China? <a href="https://www.scmp.com/news/china/diplomacy/article/3114695/xinjiang-forced-labour-concerns-threaten-derail-chinas" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/diplomacy/article/3114695/xinjiang-forced-labour-concerns-threaten-derail-chinas</a>
+
+### 5: [2020-12-21 16:32:14+08:00 推文](https://twitter.com/cnmediaproject/status/1340938114693537793)
+
+This is an on-the-money thread about moves within the CCP discourse and what is at stake.<br><br>Carl Minzner: (1/x) Starting to suspect that the rectification campaign that will sweep through China's political-legal bureaucracy in 2021 might be a major vector for trying to raise Xi Jinping's ideological place in the CCP political pantheon yet closer to Mao Zedong.<br>
+
