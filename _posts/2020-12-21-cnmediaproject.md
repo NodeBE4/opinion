@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-22
+date: 2020-12-23
 from: https://twitter.com/ChinaFile/status/1340840559745904640
 layout: post
 tags:
@@ -50,4 +50,8 @@ RT Olivia Qi Zhang<br>*Some personal news*:<br><br>After almost 5 years at Cai
 ### 9: [2020-12-22 13:00:22+08:00 推文](https://twitter.com/ulywang/status/1341247185497640960)
 
 RT Wang Feng 王丰<br>Shoot there goes my cunning plan to slap a Chinese pavilion top on the Pentagon.<br><br>Andrew Feinberg: INBOX: @realDonaldTrump has signed an executive order prohibiting new federal buildings from being built in anything other than Neoclassical, Georgian, Federal, Greek Revival, Beaux-Arts, or Art Deco styles.<br><br><img style="" src="https://pbs.twimg.com/media/Epxn21OW4AYHNIp?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Epxn21EXUAQmHs7?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Epxn21IXUAQK13W?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Epxn21TXEAMqmJV?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2020-12-23 08:16:39+08:00 推文](https://twitter.com/luluyilun/status/1341538170177875968)
+
+RT Lulu Yilun Chen<br>Chinese billionaire Jack Ma dropped from public view after Ant’s IPO collapsed. But his spectacular fall from grace has been years in the making <a href="https://www.bloomberg.com/news/features/2020-12-22/jack-ma-s-empire-in-crisis-after-china-halts-ant-group-ipo" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2020-12-22/jack-ma-s-empire-in-crisis-after-china-halts-ant-group-ipo</a>
 
