@@ -32,6 +32,10 @@
         "url": "http://cnpolitics.org/feed/"
     },
     {
+        "site": "智识",
+        "url": "http://www.ideobook.com/feed/"
+    },
+    {
         "site": "中國戰略分析",
         "url": "http://zhanlve.org/?feed=rss2"
     },
