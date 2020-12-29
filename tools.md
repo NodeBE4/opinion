@@ -99,6 +99,9 @@ comments: true
 * 网⻚转PDF工具 [https://pdfcrowd.com](https://pdfcrowd.com)
 * 如何用BBCode在回复中发链接 https://www.bbcode.org/reference.php
 * 网⻚转BBCode的工具SCEditor https://www.sceditor.com/
+* 在線網頁截圖與圖片編輯
+    * [https://www.url2png.com/](https://www.url2png.com/)
+    * [https://www.online-image-editor.com/](https://www.online-image-editor.com/)    
 * 在線匿名圖片儲存
     * [https://imgur.com/](https://imgur.com/)
     * https://postimages.org/
