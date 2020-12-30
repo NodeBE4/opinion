@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-23
+date: 2020-12-25
 from: https://twitter.com/ChinaFile/status/1340840559745904640
 layout: post
 tags:
@@ -25,7 +25,7 @@ RT Sheena Greitens<br>Terribly sad to hear of Ezra Vogel's passing. He was a r
 
 ### 3: [2020-12-21 12:52:00+08:00 推文](https://twitter.com/PekingMike/status/1340882690858479616)
 
-RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style="" src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2020-12-21 15:52:27+08:00 推文](https://twitter.com/bueti/status/1340928103942643712)
 
@@ -54,4 +54,8 @@ RT Wang Feng 王丰<br>Shoot there goes my cunning plan to slap a Chinese pavi
 ### 10: [2020-12-23 08:16:39+08:00 推文](https://twitter.com/luluyilun/status/1341538170177875968)
 
 RT Lulu Yilun Chen<br>Chinese billionaire Jack Ma dropped from public view after Ant’s IPO collapsed. But his spectacular fall from grace has been years in the making <a href="https://www.bloomberg.com/news/features/2020-12-22/jack-ma-s-empire-in-crisis-after-china-halts-ant-group-ipo" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2020-12-22/jack-ma-s-empire-in-crisis-after-china-halts-ant-group-ipo</a>
+
+### 11: [2020-12-25 12:11:05+08:00 推文](https://twitter.com/RollandNadege/status/1342321945669414912)
+
+RT Nadège Rolland<br>Oh boy. Poisoned pu’er tea?! Russian favorite with an Asian twist.<br><br>Rebecca Davis: God, can't make this stuff up!! Latest WTF in the saga of "Three-Body Problem" adaptations: the @netflix series' China producer was v probably POISONED in an ATTEMPTED MURDER by fellow exec managing the IP - possibly via aged pu'er tea (classy, at least?)<br> <a href="https://variety.com/2020/film/news/netflix-yoozoo-three-body-problem-murder-poison-1234874776/" target="_blank" rel="noopener noreferrer">https://variety.com/2020/film/news/netflix-yoozoo-three-body-problem-murder-poison-1234874776/</a>
 
