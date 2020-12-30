@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-29
+date: 2020-12-30
 from: https://twitter.com/MareikeOhlberg/status/1343592427840528384
 layout: post
 tags:
@@ -90,4 +90,8 @@ Re Looking at current affairs through official discourse, our analysis of how do
 ### 19: [2020-12-29 21:14:35+08:00 推文](https://twitter.com/cnmediaproject/status/1343908271086833664)
 
 Re @luoshanji @CRTejada This photograph should appear in Chinese phrase dictionaries to illustrate the popular application of <br>上有政策，下有对策.
+
+### 20: [2020-12-30 22:55:02+08:00 推文](https://twitter.com/SheenaGreitens/status/1344295940283219969)
+
+RT Sheena Greitens<br>An article on the local politics of information collection & data integration in China has finally been conditionally accepted for publication. It took 3+ years, so I’m incredibly relieved. Happy New Year! 😁
 
