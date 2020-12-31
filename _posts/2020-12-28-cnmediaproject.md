@@ -103,7 +103,15 @@ RT Mark Jia<br>My article on Illiberal Law in American Courts is live now at @
 
 RT Nick Marro<br>1/ Lots of good analysis out there on why the EU-China CAI is a bad decision in the context of Xinjiang, transatlantic partnerships, etc. But  I also think that even the trade/econ benefits of the CAI look quite limited. Thread:
 
-### 23: [2020-12-31 18:18:36+08:00 推文](https://twitter.com/cnmediaproject/status/1344588760638509063)
+### 23: [2020-12-31 17:48:04+08:00 推文](https://twitter.com/You_Shu_China/status/1344581074958102529)
+
+RT 优述/You Shu<br>Good review of China’s local government debt problem. Economists Yin Jianfeng & Wang Jiangjiang suggest it could turn into a “European-style” debt crisis as periphery gets into deeper trouble (though Beijing isn’t Berlin, so there’s limits to that analogy) <a href="https://mp.weixin.qq.com/s/29sH2MqHgOmNf8AdeoWOlg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/29sH2MqHgOmNf8AdeoWOlg</a>
+
+### 24: [2020-12-31 18:18:36+08:00 推文](https://twitter.com/cnmediaproject/status/1344588760638509063)
 
 China in 2020: A nearly full-page commentary in the People's Daily declares a glorious year for China, for the CCP, but most of all for Xi Jinping. <a href="https://chinamediaproject.org/2020/12/31/china-in-2020/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/31/china-in-2020/</a><br><img style src="https://pbs.twimg.com/media/EqjwVukW4AE0Sat?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2020-12-31 20:47:29+08:00 推文](https://twitter.com/thorstenbenner/status/1344626227399839747)
+
+RT Thorsten Benner<br>"No one can predict where Germany will come down on China when she leaves the political stage next year. But Merkel’s own legacy on China is already set in stone. The history books may not be kind."<br>@noahbarkin in @ForeignPolicy <a href="https://foreignpolicy.com/2020/12/31/what-merkel-really-thinks-about-china-and-the-world/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2020/12/31/what-merkel-really-thinks-about-china-and-the-world/</a>
 
