@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-30
+date: 2020-12-31
 from: https://twitter.com/MareikeOhlberg/status/1343592427840528384
 layout: post
 tags:
@@ -94,4 +94,12 @@ Re @luoshanji @CRTejada This photograph should appear in Chinese phrase dictiona
 ### 20: [2020-12-30 22:55:02+08:00 推文](https://twitter.com/SheenaGreitens/status/1344295940283219969)
 
 RT Sheena Greitens<br>An article on the local politics of information collection & data integration in China has finally been conditionally accepted for publication. It took 3+ years, so I’m incredibly relieved. Happy New Year! 😁
+
+### 21: [2020-12-30 23:10:28+08:00 推文](https://twitter.com/MarkZJia/status/1344299822740865027)
+
+RT Mark Jia<br>My article on Illiberal Law in American Courts is live now at @PennLRev. I show how U.S. courts must increasingly grapple with interpretive challenges posed by foreign authoritarian legal systems, and suggest a few ways forward. <a href="https://www.pennlawreview.com/wp-content/uploads/2020/12/Jia_Final.pdf" target="_blank" rel="noopener noreferrer">https://www.pennlawreview.com/wp-content/uploads/2020/12/Jia_Final.pdf</a>
+
+### 22: [2020-12-31 15:50:33+08:00 推文](https://twitter.com/nickm4rro/status/1344551501654421504)
+
+RT Nick Marro<br>1/ Lots of good analysis out there on why the EU-China CAI is a bad decision in the context of Xinjiang, transatlantic partnerships, etc. But  I also think that even the trade/econ benefits of the CAI look quite limited. Thread:
 
