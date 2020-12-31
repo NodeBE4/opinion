@@ -55,25 +55,29 @@ comments: true
 * 英国自然：https://www.nature.com/
 * https://ourworldindata.org/
 
-## 社区
-* https://www.iyouport.org
-* https://matters.news
-* https://2049bbs.xyz
-* https://program-think.blogspot.com
-* https://terminus2049.github.io/
-* https://civicforum.github.io
-* https://www.solidot.org
-* https://slashdot.org/
-* https://nei.st/
-* https://gravitysworm.com/
-* 中国数字时代 https://chinadigitaltimes.net/chinese/
-* https://old.reddit.com/r/geopolitics
-* 纵揽中国 http://www.chinainperspective.com/
-* 爱思想 http://www.aisixiang.com/
-* 独立中文笔会 https://www.chinesepen.org
-* Prager University https://www.prageru.com/
-* 教会杂志 https://www.churchchina.org/
-* https://github.com/XX-net/XX-Net/wiki/%E5%8D%8E%E8%AF%AD%E5%9C%88%E5%AF%BC%E8%88%AA
+## 社区与博客
+* <https://www.iyouport.org>
+* <https://matters.news>
+* <https://program-think.blogspot.com>
+* <https://www.solidot.org>
+* <https://slashdot.org/>
+* <https://gravitysworm.com/>
+* NodeBE4信息聚合 <https://nodebe4.github.io>
+* 中国数字时代 <https://chinadigitaltimes.net/chinese/>
+* <https://old.reddit.com/r/geopolitics>
+* 纵揽中国 <http://www.chinainperspective.com/>
+* 爱思想 <http://www.aisixiang.com/>
+* 独立中文笔会 <https://www.chinesepen.org>
+* Prager University <https://www.prageru.com/>
+* 教会杂志 <https://www.churchchina.org/>
+* 翻墙软件 <https://github.com/XX-net/XX-Net/>
+* 网络安全讨论小组 <https://github.com/net4people/bbs/issues>
+* 公共空间抢救小组 <https://github.com/co-memory/bbs/issues>
+* 开源社会影响榜单 <https://nodebe4.github.io/impact/>
+* <https://terminus2049.github.io/>
+* <https://2049bbs.xyz>
+* <https://civicforum.github.io>
+* <https://nei.st/>
 
 
 ## 趣味
@@ -91,9 +95,9 @@ comments: true
 * 将Rich Text转化为Markdown的在线工具 [https://euangoddard.github.io/clipboard2markdown/](https://euangoddard.github.io/clipboard2markdown/)
 * 转换为短网址（转https）
     * [https://bitly.com/Rich](https://bitly.com/Rich)
-    * https://www.shorturl.at/
-    * http://bit.do/
-    * https://tinyurl.com/
+    * <https://www.shorturl.at/>
+    * <http://bit.do/>
+    * <https://tinyurl.com/>
 * 在线框图绘制工具 [https://www.draw.io](https://www.draw.io)
 * 动态时间线制作工具 [https://time.graphics](https://time.graphics)
 * 网⻚转PDF工具 [https://pdfcrowd.com](https://pdfcrowd.com)
@@ -104,8 +108,8 @@ comments: true
     * [https://www.online-image-editor.com/](https://www.online-image-editor.com/)    
 * 在線匿名圖片儲存
     * [https://imgur.com/](https://imgur.com/)
-    * https://postimages.org/
-    * http://www.datafilehost.com/
+    * <https://postimages.org/>
+    * <http://www.datafilehost.com/>
 * 在线文件分享
     * [https://uploadfiles.io/](https://uploadfiles.io/)
     * [https://send.firefox.com](https://send.firefox.com)
@@ -123,9 +127,9 @@ comments: true
     * [https://safenote.co/](https://safenote.co/)
     * [https://temp.pm/](https://temp.pm/)
 * 相似互联网产品查找
-    * https://alternativeto.net/
-    * https://www.similarweb.com
-    * https://www.producthunt.com/
-    * https://www.slant.co/
+    * <https://alternativeto.net/>
+    * <https://www.similarweb.com>
+    * <https://www.producthunt.com/>
+    * <https://www.slant.co/>
 
 ###### tags: `工具` `智库` `搜藏`
