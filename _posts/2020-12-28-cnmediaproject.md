@@ -103,3 +103,7 @@ RT Mark Jia<br>My article on Illiberal Law in American Courts is live now at @
 
 RT Nick Marro<br>1/ Lots of good analysis out there on why the EU-China CAI is a bad decision in the context of Xinjiang, transatlantic partnerships, etc. But  I also think that even the trade/econ benefits of the CAI look quite limited. Thread:
 
+### 23: [2020-12-31 18:18:36+08:00 推文](https://twitter.com/cnmediaproject/status/1344588760638509063)
+
+China in 2020: A nearly full-page commentary in the People's Daily declares a glorious year for China, for the CCP, but most of all for Xi Jinping. <a href="https://chinamediaproject.org/2020/12/31/china-in-2020/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/31/china-in-2020/</a><br><img style src="https://pbs.twimg.com/media/EqjwVukW4AE0Sat?format=jpg&name=orig" referrerpolicy="no-referrer">
+
