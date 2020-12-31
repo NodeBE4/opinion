@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 来源
+title: 标签
 permalink: /categories/
 ---
 
@@ -8,47 +8,47 @@ permalink: /categories/
   <h2>No post found</h2>
 {% endif %}
 
+<div align="center">
+  <p style="text-align:center;color:blue;font-size:14px">点击下方关键词，或在搜索框内输入关键词</p>
+  <span id="search-container" >
+  <input type="text" id="search-input-main" placeholder="標題 作者 來源 日期 (已收集{{ site.posts | size }}條記錄)"
+    style="margin: 0px 0px 0px 0px; height: 30px;width: 85%" title="本站最正確的打開方式">
+    <a><i class="fa fa-search" title="限前{{ site.searchlimit }}結果"></i></a>
+  </span>
+  <p style="text-align:center;color:purple;font-size:14px">注意：计数上千的标签加载较慢 <i>——让子弹飞会儿</i></p>
+</div>
+
 <div class="tags">
   <ul class="label">
     {% for tag in site.categories %}
     <li>
-      <a href="#{{ tag[0] }}">
+      <a onclick="sjs.search('{{tag[0]}}')">
         <span>{{ tag[0] }}</span>
         <span class="count">{{ tag[1] | size }}</span>
       </a>
     </li>
     {% endfor %}
   </ul>
-
-  {% for tag in site.categories %}
-    <h2 id="{{ tag[0] }}">
-      {{ tag[0] }}
-    </h2>
-    <ul class="tag">
-      {% assign counter = 0 %}
-      {% for post in tag[1] %}
-        {% if post.title != null and counter < 100 %}
-          <li>
-            {% if post.link %}
-              <a href="{{ post.link }}">
-            {% else %}
-              <a href="{{ site.baseurl }}{{ post.url }}">
-            {% endif %}
-                {{ post.title }}
-              </a>
-
-            {% if tag != post.author %}
-              <span>
-                  <!-- Personal Info. -->
-                  <a  style="font-size:14px; background-color:#DAD2EA;">作者: {{ post.author }}</a>
-              </span>
-            {% endif %}
-
-              <time>{{ post.date | date: "%Y-%m-%d" }}</time>
-          </li>
-          {% assign counter = counter | plus: 1 %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-  {% endfor %}
 </div>
+
+
+<!-- Html Elements for Search -->
+<ul id="results-container-main" class="searched" style="color: #2980B9;"></ul>
+
+<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
+
+<!-- Configuration -->
+<script>
+var sjs = SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input-main'),
+  resultsContainer: document.getElementById('results-container-main'),
+  json: '{{site.baseurl}}/search.json',
+  searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><a style="font-size:14px; background-color:#DAD2EA;">作者: {desc}</a><time>{date}</time><a class="tag">{category}</a></li>',
+  noResultsText: '没找到',
+  limit: {{ 5000 }},
+  fuzzy: false,
+  exclude: ['Welcome']
+})
+
+</script>
+
