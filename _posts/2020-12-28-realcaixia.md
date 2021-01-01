@@ -67,3 +67,7 @@ Re @YanBuran 这是你的逻辑，也是习中共惯用的非黑即白逻辑。
 
 ★宁鸣而死，不默而生——中国人权律师团律师2021年新年献辞 <a href="https://jiangangpl.blogspot.com/2020/12/2021.html" target="_blank" rel="noopener noreferrer">https://jiangangpl.blogspot.com/2020/12/2021.html</a>
 
+### 14: [2021-01-02 06:53:30+08:00 推文](https://twitter.com/realcaixia/status/1345141127511465984)
+
+转发我很尊敬的高瑜大姐的2021元旦感言推文，与高瑜大姐同感。更思念牵挂担忧被监禁在牢狱中的潇男好友。<br><br>高瑜: 50歲以上的人，很少有下一個庚子年了。我不知道庚子年最後一個月還有什麼比武漢疫情再爆發更壞的事情。我只期待着美國的1月6日。<br>選擇這張照片，只因為它是瀟男給我拍的，擺拍的姿勢都是她調動的。<br>新春寄語<br> <a href="https://sinoeurovoices.com/%e6%96%b0%e6%98%a5%e5%af%84%e8%aa%9e/" target="_blank" rel="noopener noreferrer">https://sinoeurovoices.com/%e6%96%b0%e6%98%a5%e5%af%84%e8%aa%9e/</a>
+
