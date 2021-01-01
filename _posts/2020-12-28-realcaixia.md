@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2020-12-30
+date: 2021-01-02
 from: https://twitter.com/realcaixia/status/1343537145852669952
 layout: post
 tags:
@@ -62,4 +62,8 @@ Re @YanBuran 这是你的逻辑，也是习中共惯用的非黑即白逻辑。
 ### 12: [2020-12-30 12:35:11+08:00 推文](https://twitter.com/realcaixia/status/1344139948782452736)
 
 数九严冬居然以环保和人民健康为名，砸掉拆除民众烤火取暖过冬的火炉。毫无人性的政权大冬天强拆民房、强拆火炉，直接置民众于极度寒冷的严酷之中，令人发指！特地查了山西临汾的天气预报，最低温度低至零下14摄氏度，最高温度还不到零度。<br><img style src="https://pbs.twimg.com/media/EqdYIqdXIAAXkDc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EqdYJChXEAA4qw8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EqdYJiqXEAAVPZX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EqdYJ6uXYAEMErc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-01-02 00:58:34+08:00 推文](https://twitter.com/realcaixia/status/1345051803243728898)
+
+★宁鸣而死，不默而生——中国人权律师团律师2021年新年献辞 <a href="https://jiangangpl.blogspot.com/2020/12/2021.html" target="_blank" rel="noopener noreferrer">https://jiangangpl.blogspot.com/2020/12/2021.html</a>
 
