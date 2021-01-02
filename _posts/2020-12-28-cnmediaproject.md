@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2020-12-31
+date: 2021-01-02
 from: https://twitter.com/MareikeOhlberg/status/1343592427840528384
 layout: post
 tags:
@@ -118,4 +118,8 @@ RT Thorsten Benner<br>"No one can predict where Germany will come down on Chin
 ### 26: [2020-12-31 23:52:06+08:00 推文](https://twitter.com/noahbarkin/status/1344672688846082049)
 
 RT Noah Barkin<br>Important point here from @m_huotari: like it or not, the CAI is a bet on China’s future behavior. What if Beijing evolves increasingly in the direction of international bully?<br><br>Mikko Huotari: Seems wrong to me to blame Berlin and Brussels for naivité: More greyness & calculation here. 3 big risks could turn CAI process (it is still one) into a miscalculation (suggested title of this piece in German for Handelsblatt was "Realpolitik with Risks")<br> <a href="https://www.handelsblatt.com/meinung/gastbeitraege/gastbeitrag-das-eu-china-abkommen-birgt-chancen-aber-auch-drei-grosse-risiken/26760932.html?ticket=ST-21092728-IGQThPeF1epsqSyfjcTb-ap2" target="_blank" rel="noopener noreferrer">https://www.handelsblatt.com/meinung/gastbeitraege/gastbeitrag-das-eu-china-abkommen-birgt-chancen-aber-auch-drei-grosse-risiken/26760932.html?ticket=ST-21092728-IGQThPeF1epsqSyfjcTb-ap2</a>
+
+### 27: [2021-01-02 23:32:41+08:00 推文](https://twitter.com/cnmediaproject/status/1345392577193930752)
+
+Must-read from Dan Wang, who read Qiushi in 2019: "For all of Xi’s hopes to 'tell China’s story well,' the regime seems congenitally incapable of allowing good stories about itself to be told, because of its obsession with exercising total control." <a href="https://danwang.co/2020-letter/" target="_blank" rel="noopener noreferrer">https://danwang.co/2020-letter/</a>
 
