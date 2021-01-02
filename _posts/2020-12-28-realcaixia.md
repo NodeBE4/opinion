@@ -71,3 +71,7 @@ Re @YanBuran 这是你的逻辑，也是习中共惯用的非黑即白逻辑。
 
 转发我很尊敬的高瑜大姐的2021元旦感言推文，与高瑜大姐同感。更思念牵挂担忧被监禁在牢狱中的潇男好友。<br><br>高瑜: 50歲以上的人，很少有下一個庚子年了。我不知道庚子年最後一個月還有什麼比武漢疫情再爆發更壞的事情。我只期待着美國的1月6日。<br>選擇這張照片，只因為它是瀟男給我拍的，擺拍的姿勢都是她調動的。<br>新春寄語<br> <a href="https://sinoeurovoices.com/%e6%96%b0%e6%98%a5%e5%af%84%e8%aa%9e/" target="_blank" rel="noopener noreferrer">https://sinoeurovoices.com/%e6%96%b0%e6%98%a5%e5%af%84%e8%aa%9e/</a>
 
+### 15: [2021-01-02 22:27:41+08:00 推文](https://twitter.com/realcaixia/status/1345376221790695429)
+
+2020年全世界各国的正常运转都由于中共病毒扩散而造成巨大伤害与动荡，全世界被病毒感染的人有8000多万，被夺取生命的有180多万人，几乎所有人的生活都被中共病毒疫情的阴影笼罩。2020年习中共战狼外交猖狂；利用口罩等防护用品作政治勒索外交极为狰狞，全球都看清习中共是全人类和平与发展的巨大威胁<br><br>ZHANGDONG: 去年的今天，如果谣言真是谣言，世界就不会是今天。中国的一个辟谣给全世界带来了巨大灾难。武汉对8位医生的惩罚，造成了全世界180万人的死亡。<br>根据JHU最新公布的数据，2020年全世界范围内死于武汉病毒的共计180万人，感染病毒者达8410万人。这些数据每天还在噩梦般地增长。<br><br><img style src="https://pbs.twimg.com/media/EquiSdqWMAE3_-A?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EquiSt6WMAUvxx7?format=jpg&name=orig" referrerpolicy="no-referrer">
+
