@@ -5,7 +5,7 @@ layout: null
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>NodeBE4</title>
+ <title>{{ site.name }}-{{ site.description }}</title>
  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
  <link href="{{ site.url }}{{ site.baseurl }}/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -21,7 +21,7 @@ layout: null
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}<div style="text-align:center"><img width="100px" src="{{ site.barcode }}" alt="二维码分享本站"/></div></content>
+   <content type="html">{{ post.content | xml_escape }}<div style="text-align:center"><img width="100px" src="{{ site.barcode }}" alt="二维码分享本站" style="text-align:center"/></div></content>
  </entry>
  {% endfor %}
 
