@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-02
+date: 2021-01-03
 from: https://twitter.com/MareikeOhlberg/status/1343592427840528384
 layout: post
 tags:
@@ -119,7 +119,15 @@ RT Thorsten Benner<br>"No one can predict where Germany will come down on Chin
 
 RT Noah Barkin<br>Important point here from @m_huotari: like it or not, the CAI is a bet on China’s future behavior. What if Beijing evolves increasingly in the direction of international bully?<br><br>Mikko Huotari: Seems wrong to me to blame Berlin and Brussels for naivité: More greyness & calculation here. 3 big risks could turn CAI process (it is still one) into a miscalculation (suggested title of this piece in German for Handelsblatt was "Realpolitik with Risks")<br> <a href="https://www.handelsblatt.com/meinung/gastbeitraege/gastbeitrag-das-eu-china-abkommen-birgt-chancen-aber-auch-drei-grosse-risiken/26760932.html?ticket=ST-21092728-IGQThPeF1epsqSyfjcTb-ap2" target="_blank" rel="noopener noreferrer">https://www.handelsblatt.com/meinung/gastbeitraege/gastbeitrag-das-eu-china-abkommen-birgt-chancen-aber-auch-drei-grosse-risiken/26760932.html?ticket=ST-21092728-IGQThPeF1epsqSyfjcTb-ap2</a>
 
-### 27: [2021-01-02 23:32:41+08:00 推文](https://twitter.com/cnmediaproject/status/1345392577193930752)
+### 27: [2021-01-02 09:38:18+08:00 推文](https://twitter.com/Aligarciaherrer/status/1345182599233163264)
+
+RT Alicia GarciaHerrero<br>Good morning 2021!. So much hope for you!. Here is my first oped of the year, this time for @NikkeiAsia : The underwhelming EU-China deal, and I only focus on the economics of it! <a href="https://asia.nikkei.com/Opinion/Europe-s-disappointing-investment-deal-with-China" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Opinion/Europe-s-disappointing-investment-deal-with-China</a>
+
+### 28: [2021-01-02 23:32:41+08:00 推文](https://twitter.com/cnmediaproject/status/1345392577193930752)
 
 Must-read from Dan Wang, who read Qiushi in 2019: "For all of Xi’s hopes to 'tell China’s story well,' the regime seems congenitally incapable of allowing good stories about itself to be told, because of its obsession with exercising total control." <a href="https://danwang.co/2020-letter/" target="_blank" rel="noopener noreferrer">https://danwang.co/2020-letter/</a>
+
+### 29: [2021-01-03 16:54:28+08:00 推文](https://twitter.com/JKynge/status/1345654750402859009)
+
+RT James Kynge<br>Why does Cato put out a ranking now that is based on 2018 data? Seems flat footed.<br><br>Cato Institute: The Human Freedom Index is a resource that can help to more objectively observe relationships between freedom and other social and economic phenomena, as well as the ways in which the various dimensions of freedom interact with one another.<br><br><img style src="https://pbs.twimg.com/media/EqtZvppXAAImTWl?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://j.mp/2U7U1d1" target="_blank" rel="noopener noreferrer">https://j.mp/2U7U1d1</a>
 
