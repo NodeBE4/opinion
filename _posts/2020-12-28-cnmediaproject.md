@@ -131,3 +131,7 @@ Must-read from Dan Wang, who read Qiushi in 2019: "For all of Xi’s hopes to 't
 
 RT James Kynge<br>Why does Cato put out a ranking now that is based on 2018 data? Seems flat footed.<br><br>Cato Institute: The Human Freedom Index is a resource that can help to more objectively observe relationships between freedom and other social and economic phenomena, as well as the ways in which the various dimensions of freedom interact with one another.<br><br><img style src="https://pbs.twimg.com/media/EqtZvppXAAImTWl?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://j.mp/2U7U1d1" target="_blank" rel="noopener noreferrer">https://j.mp/2U7U1d1</a>
 
+### 30: [2021-01-03 22:39:59+08:00 推文](https://twitter.com/stevenleemyers/status/1345741704624705537)
+
+RT Steven Lee Myers<br>With the EU investment agreement and other moves, China has countered the Trump administration's efforts to isolate it. It has also made it harder for the new administration to forge a united front. “They’ve been very smart about this," @noahbarkin says <a href="https://www.nytimes.com/2021/01/03/world/asia/china-eu-investment-biden.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/01/03/world/asia/china-eu-investment-biden.html</a>
+
