@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-04
+date: 2021-01-05
 from: https://twitter.com/eolander/status/1345894861640142848
 layout: post
 tags:
@@ -50,4 +50,12 @@ RT Bill Bishop<br>《中国共产党党员权利保障条例》修订前后对
 ### 9: [2021-01-04 23:39:45+08:00 推文](https://twitter.com/ehundman/status/1346119130714406914)
 
 RT Eric Hundman | 何諳銳<br>Just release the trial data, guys<br><img style src="https://pbs.twimg.com/media/Eq5gNp1XIAIKwCW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-01-05 02:02:50+08:00 推文](https://twitter.com/MalinOud/status/1346155141309865990)
+
+RT Malin Oud<br>Series of triumphalist Global Times opinion pieces and editorials today on the theme of US/West decline and rise of China, all while accusing ”West” of ”politicisation” (and claiming China never ”brags”. Expect (and dread) much more on this theme in 2021...<br><img style src="https://pbs.twimg.com/media/Eq6A9uUW4AEkndU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eq6A9uZXcAA0-zk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eq6A9vPW4AYu4di?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eq6A9wmXUAU-24y?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-01-05 02:16:24+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1346158556442189825)
+
+RT Zhaoyin Feng 馮兆音<br>Chinese citizen journalist Zhang Zhan spoke to an independent filmmaker in May 2019 about why she decided to cover the Covid outbreak in Wuhan. <br><br>The BBC has obtained the footage of what is thought to be Zhang's last interview before she was detained. <a href="https://www.bbc.com/news/av/world-asia-55473501" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/av/world-asia-55473501</a>
 
