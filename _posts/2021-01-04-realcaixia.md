@@ -27,3 +27,7 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 
 荣剑这个总结到位。民族主义、民粹主义和国家主义，不仅是战狼外交的意识形态基础，而且是习中共在墙内欺骗民众控制民众的洗脑基调。<br><br>荣剑: 民族主义、民粹主义和国家主义三位一体，构成了战狼外交的意识形态基础，重返义和团时代的精神世界，当国者以为民意可用，底层则高呼圣上英明，上下互动，主动出击，四面树敌，已经刹不住车了。<br> <a href="https://twitter.com/zaobaosg/status/1344808915981111296" target="_blank" rel="noopener noreferrer">https://twitter.com/zaobaosg/status/1344808915981111296</a>
 
+### 4: [2021-01-04 18:08:47+08:00 推文](https://twitter.com/realcaixia/status/1346035843438436353)
+
+有网友评论问：这是抗疫还是杀人？！<br><br>新闻/真话: 和去年武汉一模一样，把老百姓焊死在家里，让病毒和人一起自生自灭，这就是所谓的有效方法。<br><br>记得这个有效的方法成功灭门了很多武汉人<br><br><video src="https://video.twimg.com/ext_tw_video/1345774360880181248/pu/vid/360x634/nNhW67wRQB7XuPsP.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1345774360880181248/pu/img/_zhWYTxY-9S0l1Oh.jpg"></video>
+
