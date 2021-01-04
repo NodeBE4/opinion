@@ -39,3 +39,11 @@ RT Yiqin Fu<br>Hangzhou, China:<br><br>A food delivery rider got hit by a car 
 
 RT Malin Oud<br>How many times can Beijing sell the same horse (promises to respect UN, ILO, WTO rules) to Brussels? Is EU naive or just opportunistic? Europe has handed China a strategic victory <a href="https://www.ft.com/content/2d759671-0b1d-4587-ba63-7480990f0438" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/2d759671-0b1d-4587-ba63-7480990f0438</a>
 
+### 7: [2021-01-04 23:30:22+08:00 推文](https://twitter.com/niubi/status/1346116771598790656)
+
+RT Bill Bishop<br>《中国共产党党员权利保障条例》修订前后对照表 <a href="http://www.ccdi.gov.cn/toutiao/202101/t20210104_233232.html" target="_blank" rel="noopener noreferrer">http://www.ccdi.gov.cn/toutiao/202101/t20210104_233232.html</a>
+
+### 8: [2021-01-04 23:39:45+08:00 推文](https://twitter.com/ehundman/status/1346119130714406914)
+
+RT Eric Hundman | 何諳銳<br>Just release the trial data, guys<br><img style src="https://pbs.twimg.com/media/Eq5gNp1XIAIKwCW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
