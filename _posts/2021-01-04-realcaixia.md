@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-04
+date: 2021-01-05
 from: https://twitter.com/realcaixia/status/1345884070602014723
 layout: post
 tags:
@@ -30,4 +30,8 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 ### 4: [2021-01-04 18:08:47+08:00 推文](https://twitter.com/realcaixia/status/1346035843438436353)
 
 有网友评论问：这是抗疫还是杀人？！<br><br>新闻/真话: 和去年武汉一模一样，把老百姓焊死在家里，让病毒和人一起自生自灭，这就是所谓的有效方法。<br><br>记得这个有效的方法成功灭门了很多武汉人<br><br><video src="https://video.twimg.com/ext_tw_video/1345774360880181248/pu/vid/360x634/nNhW67wRQB7XuPsP.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1345774360880181248/pu/img/_zhWYTxY-9S0l1Oh.jpg"></video>
+
+### 5: [2021-01-05 08:09:47+08:00 推文](https://twitter.com/realcaixia/status/1346247487741427712)
+
+中共公布新党员条例 蔡霞:加强9000万党员围着一个人转 — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/jt-01042021164612.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/jt-01042021164612.html</a>
 
