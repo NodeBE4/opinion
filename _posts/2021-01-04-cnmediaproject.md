@@ -59,3 +59,11 @@ RT Malin Oud<br>Series of triumphalist Global Times opinion pieces and editori
 
 RT Zhaoyin Feng 馮兆音<br>Chinese citizen journalist Zhang Zhan spoke to an independent filmmaker in May 2019 about why she decided to cover the Covid outbreak in Wuhan. <br><br>The BBC has obtained the footage of what is thought to be Zhang's last interview before she was detained. <a href="https://www.bbc.com/news/av/world-asia-55473501" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/av/world-asia-55473501</a>
 
+### 12: [2021-01-05 15:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1346358521198227457)
+
+RT Jonathan Cheng<br>The Economist: "One of the final places declared poverty-free is Ziyun, a county in the south-western province of Guizhou. 'Speaking frankly, it’s a lie,' says Liang Yong, a gruff villager…'It’s a show. In our hearts we all know the truth.'" <a href="https://econ.st/35baJA7" target="_blank" rel="noopener noreferrer">https://econ.st/35baJA7</a>
+
+### 13: [2021-01-05 15:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1346360210210873345)
+
+"Amid simmering geopolitical tensions ... investigators were unlikely to be allowed to scrutinise some of the more sensitive aspects of the outbreak, with Beijing desperate to avoid blame for a virus that has killed more than 1.8 million people worldwide." <a href="https://uk.reuters.com/article/uk-health-coronavirus-china-who/china-doubles-down-on-covid-narrative-as-who-investigation-looms-idUKKBN29A0LV" target="_blank" rel="noopener noreferrer">https://uk.reuters.com/article/uk-health-coronavirus-china-who/china-doubles-down-on-covid-narrative-as-who-investigation-looms-idUKKBN29A0LV</a>
+
