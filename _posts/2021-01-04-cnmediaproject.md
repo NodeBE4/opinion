@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-05
+date: 2021-01-06
 from: https://twitter.com/eolander/status/1345894861640142848
 layout: post
 tags:
@@ -66,4 +66,20 @@ RT Jonathan Cheng<br>The Economist: "One of the final places declared poverty-
 ### 13: [2021-01-05 15:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1346360210210873345)
 
 "Amid simmering geopolitical tensions ... investigators were unlikely to be allowed to scrutinise some of the more sensitive aspects of the outbreak, with Beijing desperate to avoid blame for a virus that has killed more than 1.8 million people worldwide." <a href="https://uk.reuters.com/article/uk-health-coronavirus-china-who/china-doubles-down-on-covid-narrative-as-who-investigation-looms-idUKKBN29A0LV" target="_blank" rel="noopener noreferrer">https://uk.reuters.com/article/uk-health-coronavirus-china-who/china-doubles-down-on-covid-narrative-as-who-investigation-looms-idUKKBN29A0LV</a>
+
+### 14: [2021-01-06 21:06:35+08:00 推文](https://twitter.com/cnmediaproject/status/1346805363832664066)
+
+CMP's roundup of chatter in the official CCP media about the EU-China Comprehensive Agreement on Investment (CAI). Hint: it's all mutual benefit and win-win. <a href="https://chinamediaproject.org/2021/01/06/on-eu-deal-the-word-is-win-win/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/06/on-eu-deal-the-word-is-win-win/</a><br><img style src="https://pbs.twimg.com/media/ErDQUGKXcAIRrij?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-01-06 21:12:04+08:00 推文](https://twitter.com/cnmediaproject/status/1346806741028241409)
+
+Re We translated a part of the "interview" (really article) by Huang Ping of CASS at Guancha Syndicate. Choice line: "Regarding the economic difficulties facing Europe in recent years, we can say that the CAI is for Europe like a delivery of coal in the harshness of winter" 雪中送炭
+
+### 16: [2021-01-06 21:18:55+08:00 推文](https://twitter.com/cnmediaproject/status/1346808467198251009)
+
+Re This is rich imagery considering China's continued commitment to coal <a href="https://www.scmp.com/news/china/society/article/3110610/chinas-vow-cut-carbon-emissions-clashes-plans-expand-coal-power" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/society/article/3110610/chinas-vow-cut-carbon-emissions-clashes-plans-expand-coal-power</a>
+
+### 17: [2021-01-06 21:58:36+08:00 推文](https://twitter.com/LizEconomy/status/1346818454960140295)
+
+RT Elizabeth Economy<br>China will engage on climate change--or it won't--for its own reasons. The EU investment agreement will have no impact.<br><br>Stuart Lau: EU Commission spokesman @MamerEric defended the bloc’s decision to reach an investment deal, and added the need to engage China on issues like climate change, when asked about the impact of the human rights situation in Hong Kong on EU-China relations.<br><br><img style src="https://pbs.twimg.com/media/ErC1NZLW4AIGeRr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
