@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-05
+date: 2021-01-06
 from: https://twitter.com/realcaixia/status/1345884070602014723
 layout: post
 tags:
@@ -34,4 +34,8 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 ### 5: [2021-01-05 08:09:47+08:00 推文](https://twitter.com/realcaixia/status/1346247487741427712)
 
 中共公布新党员条例 蔡霞:加强9000万党员围着一个人转 — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/jt-01042021164612.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/jt-01042021164612.html</a>
+
+### 6: [2021-01-06 07:45:56+08:00 推文](https://twitter.com/realcaixia/status/1346603871527985152)
+
+中共国官方媒体这篇报道引起中国民众普遍愤怒。网友点评：一篇不知廉耻的新闻。更有朋友直接抨击：这是国家之耻！这篇报道岂只无耻，更是赤裸裸地显示出中共国的毫无人性，中国民众的极度贫困状况直接打脸习，让习所谓已经消灭贫困人口的弥天大谎直接破产。<br><img style src="https://pbs.twimg.com/media/ErAZDomXUAMi5WH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErAZEAUW4AEcSUd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErAZEikXIAAcPW6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErAZFBzXEAEdPp7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
