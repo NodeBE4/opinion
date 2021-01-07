@@ -87,3 +87,11 @@ RT Elizabeth Economy<br>China will engage on climate change--or it won't--for 
 
 RT Jun Mai<br>And of course this is how it looks on CCTV.<br><img style src="https://pbs.twimg.com/media/ErGko0JVcAEYpyD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErGko0FVQAUVVQN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErGko0IVEAE2zdO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 19: [2021-01-07 19:26:39+08:00 推文](https://twitter.com/cnmediaproject/status/1347142600143339520)
+
+Re @melissakchan Yes, absolutely. And here is one of the key catchphrases, a Pelosi remark that has become formalized in CCP discourse. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a>
+
+### 20: [2021-01-07 19:27:50+08:00 推文](https://twitter.com/cnmediaproject/status/1347142898006028288)
+
+As Chinese state media have a field day with events unfolding in the United States, a Pelosi-inspired CCP neologism is defining much of the tone in coverage. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a>
+
