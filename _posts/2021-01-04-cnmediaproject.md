@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-06
+date: 2021-01-07
 from: https://twitter.com/eolander/status/1345894861640142848
 layout: post
 tags:
@@ -82,4 +82,8 @@ Re This is rich imagery considering China's continued commitment to coal <a hr
 ### 17: [2021-01-06 21:58:36+08:00 推文](https://twitter.com/LizEconomy/status/1346818454960140295)
 
 RT Elizabeth Economy<br>China will engage on climate change--or it won't--for its own reasons. The EU investment agreement will have no impact.<br><br>Stuart Lau: EU Commission spokesman @MamerEric defended the bloc’s decision to reach an investment deal, and added the need to engage China on issues like climate change, when asked about the impact of the human rights situation in Hong Kong on EU-China relations.<br><br><img style src="https://pbs.twimg.com/media/ErC1NZLW4AIGeRr?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-01-07 12:34:09+08:00 推文](https://twitter.com/Junmai1103/status/1347038793929433092)
+
+RT Jun Mai<br>And of course this is how it looks on CCTV.<br><img style src="https://pbs.twimg.com/media/ErGko0JVcAEYpyD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErGko0FVQAUVVQN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErGko0IVEAE2zdO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
