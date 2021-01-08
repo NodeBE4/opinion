@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-06
+date: 2021-01-08
 from: https://twitter.com/eolander/status/1345894861640142848
 layout: post
 tags:
@@ -82,4 +82,28 @@ Re This is rich imagery considering China's continued commitment to coal <a hr
 ### 17: [2021-01-06 21:58:36+08:00 推文](https://twitter.com/LizEconomy/status/1346818454960140295)
 
 RT Elizabeth Economy<br>China will engage on climate change--or it won't--for its own reasons. The EU investment agreement will have no impact.<br><br>Stuart Lau: EU Commission spokesman @MamerEric defended the bloc’s decision to reach an investment deal, and added the need to engage China on issues like climate change, when asked about the impact of the human rights situation in Hong Kong on EU-China relations.<br><br><img style src="https://pbs.twimg.com/media/ErC1NZLW4AIGeRr?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-01-07 12:34:09+08:00 推文](https://twitter.com/Junmai1103/status/1347038793929433092)
+
+RT Jun Mai<br>And of course this is how it looks on CCTV.<br><img style src="https://pbs.twimg.com/media/ErGko0JVcAEYpyD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErGko0FVQAUVVQN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErGko0IVEAE2zdO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-01-07 19:26:39+08:00 推文](https://twitter.com/cnmediaproject/status/1347142600143339520)
+
+Re @melissakchan Yes, absolutely. And here is one of the key catchphrases, a Pelosi remark that has become formalized in CCP discourse. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a>
+
+### 20: [2021-01-07 19:27:50+08:00 推文](https://twitter.com/cnmediaproject/status/1347142898006028288)
+
+As Chinese state media have a field day with events unfolding in the United States, a Pelosi-inspired CCP neologism is defining much of the tone in coverage. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a>
+
+### 21: [2021-01-08 07:37:46+08:00 推文](https://twitter.com/SpiegelPeter/status/1347326592251523078)
+
+RT Peter Spiegel<br>For journalism junkies: the great Neil Sheehan, who just passed away, agreed 5 yrs ago to tell the tale of how he got the Pentagon Papers — on the condition it not be published until his death. @nytimes has now published the tale. And what a tale it is! <a href="https://www.nytimes.com/2021/01/07/us/now-it-can-be-told-how-neil-sheehan-got-the-pentagon-papers.html?action=click&block=more_in_recirc&impression_id=8041ba00-5140-11eb-84e6-ab19cc57164b&index=0&pgtype=Article&region=footer" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/01/07/us/now-it-can-be-told-how-neil-sheehan-got-the-pentagon-papers.html?action=click&block=more_in_recirc&impression_id=8041ba00-5140-11eb-84e6-ab19cc57164b&index=0&pgtype=Article®ion=footer</a>
+
+### 22: [2021-01-08 20:43:09+08:00 推文](https://twitter.com/cnmediaproject/status/1347524241604927489)
+
+Here is a very typical and predictable post on Twitter, again (mis)using the Pelosi reference to "beautiful sight," which as CMP noted in yesterday's analysis has become an official CCP catchphrase. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a><br><img style src="https://pbs.twimg.com/media/ErNdztzXUAE-zsr?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-01-08 21:23:53+08:00 推文](https://twitter.com/noahbarkin/status/1347534493863833602)
+
+RT Noah Barkin<br>China tried to punish European states for Huawei bans by adding eleventh-hour rule to EU investment deal ⁦@fbermingham⁩ ⁦@SCMPNews⁩ <a href="https://www.scmp.com/economy/china-economy/article/3116896/china-tried-punish-european-states-huawei-bans-adding" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3116896/china-tried-punish-european-states-huawei-bans-adding</a>
 

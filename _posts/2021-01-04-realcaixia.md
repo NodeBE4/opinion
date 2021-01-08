@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-06
+date: 2021-01-08
 from: https://twitter.com/realcaixia/status/1345884070602014723
 layout: post
 tags:
@@ -38,4 +38,8 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 ### 6: [2021-01-06 07:45:56+08:00 推文](https://twitter.com/realcaixia/status/1346603871527985152)
 
 中共国官方媒体这篇报道引起中国民众普遍愤怒。网友点评：一篇不知廉耻的新闻。更有朋友直接抨击：这是国家之耻！这篇报道岂只无耻，更是赤裸裸地显示出中共国的毫无人性，中国民众的极度贫困状况直接打脸习，让习所谓已经消灭贫困人口的弥天大谎直接破产。<br><img style src="https://pbs.twimg.com/media/ErAZDomXUAMi5WH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErAZEAUW4AEcSUd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErAZEikXIAAcPW6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErAZFBzXEAEdPp7?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-01-08 23:50:55+08:00 推文](https://twitter.com/realcaixia/status/1347571495850151936)
+
+律师履行其职业行为是完全正当合法的，严酷打压律师，蛮横剥夺律师的职业资格是中共极权统治犯下的新罪行。<br><br>自由亚洲电台: 无论 #12港人案 是否吊照的决定因素，#任全牛、#卢思位 都表示，无怨无悔。<br>任全牛：“后悔完全没有的，完全谈不上后悔。我做的是正当的，任何一个律师都应该会做的事情。从律师执业的角度，我并没有披露任何禁止性的内容。”<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf1-01082021051104.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf1-01082021051104.html</a>
 
