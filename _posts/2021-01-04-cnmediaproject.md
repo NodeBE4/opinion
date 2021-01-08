@@ -99,3 +99,7 @@ As Chinese state media have a field day with events unfolding in the United Stat
 
 RT Peter Spiegel<br>For journalism junkies: the great Neil Sheehan, who just passed away, agreed 5 yrs ago to tell the tale of how he got the Pentagon Papers — on the condition it not be published until his death. @nytimes has now published the tale. And what a tale it is! <a href="https://www.nytimes.com/2021/01/07/us/now-it-can-be-told-how-neil-sheehan-got-the-pentagon-papers.html?action=click&block=more_in_recirc&impression_id=8041ba00-5140-11eb-84e6-ab19cc57164b&index=0&pgtype=Article&region=footer" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/01/07/us/now-it-can-be-told-how-neil-sheehan-got-the-pentagon-papers.html?action=click&block=more_in_recirc&impression_id=8041ba00-5140-11eb-84e6-ab19cc57164b&index=0&pgtype=Article®ion=footer</a>
 
+### 22: [2021-01-08 20:43:09+08:00 推文](https://twitter.com/cnmediaproject/status/1347524241604927489)
+
+Here is a very typical and predictable post on Twitter, again (mis)using the Pelosi reference to "beautiful sight," which as CMP noted in yesterday's analysis has become an official CCP catchphrase. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a><br><img style src="https://pbs.twimg.com/media/ErNdztzXUAE-zsr?format=jpg&name=orig" referrerpolicy="no-referrer">
+
