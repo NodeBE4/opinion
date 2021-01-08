@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-07
+date: 2021-01-08
 from: https://twitter.com/eolander/status/1345894861640142848
 layout: post
 tags:
@@ -94,4 +94,8 @@ Re @melissakchan Yes, absolutely. And here is one of the key catchphrases, a Pel
 ### 20: [2021-01-07 19:27:50+08:00 推文](https://twitter.com/cnmediaproject/status/1347142898006028288)
 
 As Chinese state media have a field day with events unfolding in the United States, a Pelosi-inspired CCP neologism is defining much of the tone in coverage. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a>
+
+### 21: [2021-01-08 07:37:46+08:00 推文](https://twitter.com/SpiegelPeter/status/1347326592251523078)
+
+RT Peter Spiegel<br>For journalism junkies: the great Neil Sheehan, who just passed away, agreed 5 yrs ago to tell the tale of how he got the Pentagon Papers — on the condition it not be published until his death. @nytimes has now published the tale. And what a tale it is! <a href="https://www.nytimes.com/2021/01/07/us/now-it-can-be-told-how-neil-sheehan-got-the-pentagon-papers.html?action=click&block=more_in_recirc&impression_id=8041ba00-5140-11eb-84e6-ab19cc57164b&index=0&pgtype=Article&region=footer" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/01/07/us/now-it-can-be-told-how-neil-sheehan-got-the-pentagon-papers.html?action=click&block=more_in_recirc&impression_id=8041ba00-5140-11eb-84e6-ab19cc57164b&index=0&pgtype=Article®ion=footer</a>
 
