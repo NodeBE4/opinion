@@ -103,3 +103,7 @@ RT Peter Spiegel<br>For journalism junkies: the great Neil Sheehan, who just p
 
 Here is a very typical and predictable post on Twitter, again (mis)using the Pelosi reference to "beautiful sight," which as CMP noted in yesterday's analysis has become an official CCP catchphrase. <a href="https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/07/chinese-media-pounce-on-pelosi-buzzword/</a><br><img style src="https://pbs.twimg.com/media/ErNdztzXUAE-zsr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 23: [2021-01-08 21:23:53+08:00 推文](https://twitter.com/noahbarkin/status/1347534493863833602)
+
+RT Noah Barkin<br>China tried to punish European states for Huawei bans by adding eleventh-hour rule to EU investment deal ⁦@fbermingham⁩ ⁦@SCMPNews⁩ <a href="https://www.scmp.com/economy/china-economy/article/3116896/china-tried-punish-european-states-huawei-bans-adding" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3116896/china-tried-punish-european-states-huawei-bans-adding</a>
+
