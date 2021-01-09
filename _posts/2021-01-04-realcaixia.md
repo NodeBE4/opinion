@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-08
+date: 2021-01-09
 from: https://twitter.com/realcaixia/status/1345884070602014723
 layout: post
 tags:
@@ -42,4 +42,8 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 ### 7: [2021-01-08 23:50:55+08:00 推文](https://twitter.com/realcaixia/status/1347571495850151936)
 
 律师履行其职业行为是完全正当合法的，严酷打压律师，蛮横剥夺律师的职业资格是中共极权统治犯下的新罪行。<br><br>自由亚洲电台: 无论 #12港人案 是否吊照的决定因素，#任全牛、#卢思位 都表示，无怨无悔。<br>任全牛：“后悔完全没有的，完全谈不上后悔。我做的是正当的，任何一个律师都应该会做的事情。从律师执业的角度，我并没有披露任何禁止性的内容。”<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf1-01082021051104.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf1-01082021051104.html</a>
+
+### 8: [2021-01-09 21:05:05+08:00 推文](https://twitter.com/realcaixia/status/1347892150021840896)
+
+封号是中国的基本特征,一夜之间在美国公然堂皇地发生。昨天我对朋友和家人说，破坏民主制度的起点是封杀言论自由。推特、脸书等大科技公司现在成了“美国的腾讯公司”。<br><br>韩连潮: 【言论自由是民主基石】美各大社交媒体永久性封杀了川普及一些支持者的号，这是对民主制度的破坏；虽然不是政府行为，社交平台已变为公共广场，公民在其中的言论都应受到宪法保护；信息的真实性应由受众判断，其合法性由法院裁决，公司高管和政府官员无权加以限制！<br><br><img style src="https://pbs.twimg.com/media/ErSjAe9W4AAHG_Z?format=jpg&name=orig" referrerpolicy="no-referrer">
 
