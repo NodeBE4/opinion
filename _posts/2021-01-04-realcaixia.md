@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-09
+date: 2021-01-10
 from: https://twitter.com/realcaixia/status/1345884070602014723
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 ### 8: [2021-01-09 21:05:05+08:00 推文](https://twitter.com/realcaixia/status/1347892150021840896)
 
 封号是中国的基本特征,一夜之间在美国公然堂皇地发生。昨天我对朋友和家人说，破坏民主制度的起点是封杀言论自由。推特、脸书等大科技公司现在成了“美国的腾讯公司”。<br><br>韩连潮: 【言论自由是民主基石】美各大社交媒体永久性封杀了川普及一些支持者的号，这是对民主制度的破坏；虽然不是政府行为，社交平台已变为公共广场，公民在其中的言论都应受到宪法保护；信息的真实性应由受众判断，其合法性由法院裁决，公司高管和政府官员无权加以限制！<br><br><img style src="https://pbs.twimg.com/media/ErSjAe9W4AAHG_Z?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-01-10 03:35:52+08:00 推文](https://twitter.com/realcaixia/status/1347990493024677891)
+
+Re @Wang6Eden @lianchaohan 你这说法与中共剥夺9000万党员的公民言论自由权利一样。川普作为个人是有在社交媒体平台的合法言论权的，只是他的个人影响力大一些。如果只要是公职人员就没有发言权利，就像中共一样，因为你是党员就不可以发任何批评性的言论。实际上是以党员身份名义剥夺你的公民权利。
 
