@@ -51,3 +51,15 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 
 Re @Wang6Eden @lianchaohan 你这说法与中共剥夺9000万党员的公民言论自由权利一样。川普作为个人是有在社交媒体平台的合法言论权的，只是他的个人影响力大一些。如果只要是公职人员就没有发言权利，就像中共一样，因为你是党员就不可以发任何批评性的言论。实际上是以党员身份名义剥夺你的公民权利。
 
+### 10: [2021-01-10 11:32:50+08:00 推文](https://twitter.com/realcaixia/status/1348110523427074048)
+
+中国公民郭飞雄（笔名）的妻子移居美国，患癌症并已转移至肝，刚动了大手术，身边无人照顾。作为丈夫，赴美照顾妻儿是天经地义，义不容辞。然而，郭飞雄因为争取民主自由而多年遭受中共当局严酷打压，被没收私人护照限制出国。不得已，郭飞雄写此致李克强总理与公安部部长赵克志的公开信。关注此事。<br><img style src="https://pbs.twimg.com/media/ErVzWwMW8AQyvI8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErVzXRNWMAE9OMK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErVzXs8XUAMmmV8?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-01-10 12:51:13+08:00 推文](https://twitter.com/realcaixia/status/1348130251675725824)
+
+49年前中国大学有政治学科，49后至文革结束，大陆废除政治学科。1980年代政治学科恢复，但8964中国社科院政治学所被严厉打压，所长远走海外。1990年代中期，全中国政治学学者不过百来人。2000-20006年，政治学教研环境相对宽松，现在习中共再次撤销部分大学政治学科。政治学教学研究在中国命运多舛。<br><img style src="https://pbs.twimg.com/media/ErWFUNPXcAEUhP-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-01-10 13:00:58+08:00 推文](https://twitter.com/realcaixia/status/1348132705599430656)
+
+Re @3dyI2sfsM6Tamw2 你何其冷酷！人命关头居然还挑剔文辞！何况这帮官员理当服务于民众，没收私人护照，侵犯个人自由权利，本就毫无道理。还护照给郭飞雄，不阻挡他赴美照顾妻儿，才是做有人性之事。我们都看着，这事他们怎么做，看看中共国官员还有没有人性。
+
