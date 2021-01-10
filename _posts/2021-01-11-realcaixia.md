@@ -39,3 +39,11 @@ Re @john8311 @zijuno 当时是严家其先生。
 
 Re @AlexLiu82384382 @patrickzqh 现在的所谓“党”就是习，“听党指挥”实质就是听习指挥。过去说PLA是“党军”，现在习把“党军”变成“习家军”。他们强调绝对听从习指挥，就是绝对忠诚。
 
+### 7: [2021-01-11 05:17:56+08:00 推文](https://twitter.com/realcaixia/status/1348378565495185409)
+
+Re @jenniferatntd 队，这个地址我认为就是钓鱼地址。小心上当。
+
+### 8: [2021-01-11 05:20:26+08:00 推文](https://twitter.com/realcaixia/status/1348379194338766848)
+
+Re @jenniferatntd 删除这个邮件，并且再进邮件垃圾桶里直接清除。
+
