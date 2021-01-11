@@ -107,7 +107,11 @@ Here is a very typical and predictable post on Twitter, again (mis)using the Pel
 
 RT Noah Barkin<br>China tried to punish European states for Huawei bans by adding eleventh-hour rule to EU investment deal ⁦@fbermingham⁩ ⁦@SCMPNews⁩ <a href="https://www.scmp.com/economy/china-economy/article/3116896/china-tried-punish-european-states-huawei-bans-adding" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3116896/china-tried-punish-european-states-huawei-bans-adding</a>
 
-### 24: [2021-01-10 18:45:33+08:00 推文](https://twitter.com/MattCKnight/status/1348219422184505344)
+### 24: [2021-01-10 08:07:10+08:00 推文](https://twitter.com/Chinlitpod/status/1348058766684483586)
+
+RT Chinese Literature<br>The most important Chinese writer of the 20th century? One way or the other, there's no question that Lu Xun is a towering figure in Chinese literature. Join us as we discuss him: 100 Years of Chinese Literature (1900-2000. <a href="https://chineseliteraturepodcast.com/" target="_blank" rel="noopener noreferrer">https://chineseliteraturepodcast.com</a><br><img style src="https://pbs.twimg.com/media/ErVERBcVEAAJelH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-01-10 18:45:33+08:00 推文](https://twitter.com/MattCKnight/status/1348219422184505344)
 
 RT Matt K<br>Chinese state media has published an investigation into BBC's investigation of Xinjiang forced labour. <br><br>Yes, it's as bad as it sounds.<br><video src="https://video.twimg.com/ext_tw_video/1348219338533314561/pu/vid/1136x640/RPzcSQPeYXzkPI9l.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1348219338533314561/pu/img/ZM5qH2SsDG4rR7gK.jpg"></video>
 
