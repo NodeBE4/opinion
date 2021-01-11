@@ -51,3 +51,7 @@ Re @fryan How ineffective of you.
 
 RT 21st Century China<br>Join us this Wednesday for a talk by @YashengHuang on the four factors that have shaped China’s development: education, autocracy, stability and technology (EAST) - drawing historical lessons for the PRC's technological development today. RSVP: <a href="https://ucsd.zoom.us/webinar/register/WN_yVwUKQ4lSbO9Csq6ZpqyjA" target="_blank" rel="noopener noreferrer">https://ucsd.zoom.us/webinar/register/WN_yVwUKQ4lSbO9Csq6ZpqyjA</a><br><img style src="https://pbs.twimg.com/media/EreKZm2VQAMX2SV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2021-01-12 05:30:16+08:00 推文](https://twitter.com/MIC_Journal/status/1348744055858089986)
+
+RT Made in China Journal<br>One decade ago, Bo Xilai’s ‘Chongqing Model’ was making headlines. But what was the model about? What did it say about the broader picture of contemporary Chinese politics? And what are its afterlives under Xi Jinping? An essay by Zhang Yueran. <a href="https://madeinchinajournal.com/2021/01/11/the-chongqing-model-one-decade-on/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/01/11/the-chongqing-model-one-decade-on/</a>
+
