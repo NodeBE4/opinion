@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-11
+date: 2021-01-12
 from: https://twitter.com/SusanShirk1/status/1348358814211297280
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re Choice phrase, of unsurpassed profundity: "Effective implementation means 'fu
 ### 8: [2021-01-11 17:40:07+08:00 推文](https://twitter.com/cnmediaproject/status/1348565340855349249)
 
 Re @fryan How ineffective of you.
+
+### 9: [2021-01-12 02:35:16+08:00 推文](https://twitter.com/21CenturyChina/status/1348700017930878976)
+
+RT 21st Century China<br>Join us this Wednesday for a talk by @YashengHuang on the four factors that have shaped China’s development: education, autocracy, stability and technology (EAST) - drawing historical lessons for the PRC's technological development today. RSVP: <a href="https://ucsd.zoom.us/webinar/register/WN_yVwUKQ4lSbO9Csq6ZpqyjA" target="_blank" rel="noopener noreferrer">https://ucsd.zoom.us/webinar/register/WN_yVwUKQ4lSbO9Csq6ZpqyjA</a><br><img style src="https://pbs.twimg.com/media/EreKZm2VQAMX2SV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
