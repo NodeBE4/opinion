@@ -23,3 +23,27 @@ RT Susan Shirk<br>“More tech-savvy policy leaders must find more productive 
 
 The foreign policy buzzword today, as PD reports on Wang Yi meeting with officials from Nigeria, Congo, Botswana, Tanzania and Seychelles: "China-Africa Community of Common Destiny" (中非命运共同体). <a href="http://paper.people.com.cn/rmrb/html/2021-01/11/nw.D110000renmrb_20210111_2-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-01/11/nw.D110000renmrb_20210111_2-03.htm</a><br><img style src="https://pbs.twimg.com/media/ErcJCL3XIAIAgqR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-01-11 17:15:48+08:00 推文](https://twitter.com/cnmediaproject/status/1348559224079605761)
+
+Re But the full phrase here, appearing also in a commentary below it, seems to be "the building of an even closer China-Africa Community of Common Destiny" (构建更加紧密的中非命运共同体). <a href="http://paper.people.com.cn/rmrb/html/2021-01/11/nw.D110000renmrb_20210111_3-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-01/11/nw.D110000renmrb_20210111_3-03.htm</a>
+
+### 4: [2021-01-11 17:17:49+08:00 推文](https://twitter.com/cnmediaproject/status/1348559731753955328)
+
+Re This phrase actually dates back to the 2017 <a href="http://www.catas.cn/channels/261.html" target="_blank" rel="noopener noreferrer">http://www.catas.cn/channels/261.html</a> <a href="http://www.lawinfochina.com/display.aspx?id=7827&lib=tax&SearchKeyword=&SearchCKeyword=" target="_blank" rel="noopener noreferrer">http://www.lawinfochina.com/display.aspx?id=7827&lib=tax&SearchKeyword=&SearchCKeyword=</a>
+
+### 5: [2021-01-11 17:20:23+08:00 推文](https://twitter.com/cnmediaproject/status/1348560378385608710)
+
+Re "Shared future" is China's preferred official translation of 命运共同体, avoiding the notion of "destiny" (命运) and its suggestion of inevitability. However, the sense of "destiny" is a better reflection of the intent in the original.
+
+### 6: [2021-01-11 17:32:27+08:00 推文](https://twitter.com/cnmediaproject/status/1348563413170053121)
+
+Aficionados of Chinese political discourse can seek comic relief today in this not-at-all-tongue-in-cheek exposition of the phrase "effectively implement" (有效落实), by the top CCP leader in Jinan. <a href="http://paper.people.com.cn/rmrb/html/2021-01/11/nw.D110000renmrb_20210111_2-05.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-01/11/nw.D110000renmrb_20210111_2-05.htm</a><br><img style src="https://pbs.twimg.com/media/ErcPP7CXEAIfCbL?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-01-11 17:33:31+08:00 推文](https://twitter.com/cnmediaproject/status/1348563682469572609)
+
+Re Choice phrase, of unsurpassed profundity: "Effective implementation means 'full implementation,' not 'selective implementation'."
+
+### 8: [2021-01-11 17:40:07+08:00 推文](https://twitter.com/cnmediaproject/status/1348565340855349249)
+
+Re @fryan How ineffective of you.
+
