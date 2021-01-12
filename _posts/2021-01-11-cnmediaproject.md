@@ -67,3 +67,7 @@ RT Tom Hancock<br>Writing this assessment of how the Trump's administration's 
 
 RT Sari Arho Havrén<br>“In..propaganda terms, Wang’s Africa Tour 2021 was a huge success.But..Even though Wang didn’t talk about 🇨🇳debt restructuring, over-fishing, the status of race relations in Guangzhou, or any of the other..contentious issues,doesn’t mean they’ve gone away” <a href="https://chinaafricaproject.com/analysis/wang-yi-gets-to-enjoy-the-luxury-of-staying-on-message/" target="_blank" rel="noopener noreferrer">https://chinaafricaproject.com/analysis/wang-yi-gets-to-enjoy-the-luxury-of-staying-on-message/</a>
 
+### 14: [2021-01-12 23:28:03+08:00 推文](https://twitter.com/RollandNadege/status/1349015291527901189)
+
+RT Nadège Rolland<br>A look at China’s “vaccine diplomacy.” Thanks @jruwitch for the chat! <a href="https://www.npr.org/2021/01/11/955720013/china-plans-to-sell-covid-19-vaccines-to-other-countries" target="_blank" rel="noopener noreferrer">https://www.npr.org/2021/01/11/955720013/china-plans-to-sell-covid-19-vaccines-to-other-countries</a>
+
