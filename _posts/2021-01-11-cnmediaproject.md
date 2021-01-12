@@ -47,11 +47,23 @@ Re Choice phrase, of unsurpassed profundity: "Effective implementation means 'fu
 
 Re @fryan How ineffective of you.
 
-### 9: [2021-01-12 02:35:16+08:00 推文](https://twitter.com/21CenturyChina/status/1348700017930878976)
+### 9: [2021-01-11 21:04:00+08:00 推文](https://twitter.com/Yaqiu/status/1348616651005190147)
+
+RT Yaqiu Wang 王亚秋<br>This kind of external propaganda has had little success among foreign audience, but has given Chinese audience the false impression that foreigners all over the world admire China's success and its governance model. <a href="https://www.thetimes.co.uk/article/beijing-funds-british-youtubers-to-further-its-propaganda-war-x5gqp5fg0?fbclid=IwAR0nqoZpucRfM-sBn_b2wWdUZk5oB7iy0Y1oy550p0Q5GdLbQ7zGBtSecLU" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/beijing-funds-british-youtubers-to-further-its-propaganda-war-x5gqp5fg0?fbclid=IwAR0nqoZpucRfM-sBn_b2wWdUZk5oB7iy0Y1oy550p0Q5GdLbQ7zGBtSecLU</a>
+
+### 10: [2021-01-12 02:35:16+08:00 推文](https://twitter.com/21CenturyChina/status/1348700017930878976)
 
 RT 21st Century China<br>Join us this Wednesday for a talk by @YashengHuang on the four factors that have shaped China’s development: education, autocracy, stability and technology (EAST) - drawing historical lessons for the PRC's technological development today. RSVP: <a href="https://ucsd.zoom.us/webinar/register/WN_yVwUKQ4lSbO9Csq6ZpqyjA" target="_blank" rel="noopener noreferrer">https://ucsd.zoom.us/webinar/register/WN_yVwUKQ4lSbO9Csq6ZpqyjA</a><br><img style src="https://pbs.twimg.com/media/EreKZm2VQAMX2SV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 10: [2021-01-12 05:30:16+08:00 推文](https://twitter.com/MIC_Journal/status/1348744055858089986)
+### 11: [2021-01-12 05:30:16+08:00 推文](https://twitter.com/MIC_Journal/status/1348744055858089986)
 
 RT Made in China Journal<br>One decade ago, Bo Xilai’s ‘Chongqing Model’ was making headlines. But what was the model about? What did it say about the broader picture of contemporary Chinese politics? And what are its afterlives under Xi Jinping? An essay by Zhang Yueran. <a href="https://madeinchinajournal.com/2021/01/11/the-chongqing-model-one-decade-on/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/01/11/the-chongqing-model-one-decade-on/</a>
+
+### 12: [2021-01-12 10:42:40+08:00 推文](https://twitter.com/hancocktom/status/1348822675154640899)
+
+RT Tom Hancock<br>Writing this assessment of how the Trump's administration's trade war with China produced few clear wins provided a chance to read through some of the academic research on what happened. These were some of the more surprising findings <a href="https://www.bloomberg.com/news/articles/2021-01-11/how-china-won-trump-s-good-and-easy-to-win-trade-war" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2021-01-11/how-china-won-trump-s-good-and-easy-to-win-trade-war</a>
+
+### 13: [2021-01-12 16:54:46+08:00 推文](https://twitter.com/SariArhoHavren/status/1348916316292395009)
+
+RT Sari Arho Havrén<br>“In..propaganda terms, Wang’s Africa Tour 2021 was a huge success.But..Even though Wang didn’t talk about 🇨🇳debt restructuring, over-fishing, the status of race relations in Guangzhou, or any of the other..contentious issues,doesn’t mean they’ve gone away” <a href="https://chinaafricaproject.com/analysis/wang-yi-gets-to-enjoy-the-luxury-of-staying-on-message/" target="_blank" rel="noopener noreferrer">https://chinaafricaproject.com/analysis/wang-yi-gets-to-enjoy-the-luxury-of-staying-on-message/</a>
 
