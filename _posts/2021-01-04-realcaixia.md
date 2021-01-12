@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-08
+date: 2021-01-10
 from: https://twitter.com/realcaixia/status/1345884070602014723
 layout: post
 tags:
@@ -42,4 +42,60 @@ Re 有关武汉P4实验室的一个说法：实验室是法国科学家帮助设
 ### 7: [2021-01-08 23:50:55+08:00 推文](https://twitter.com/realcaixia/status/1347571495850151936)
 
 律师履行其职业行为是完全正当合法的，严酷打压律师，蛮横剥夺律师的职业资格是中共极权统治犯下的新罪行。<br><br>自由亚洲电台: 无论 #12港人案 是否吊照的决定因素，#任全牛、#卢思位 都表示，无怨无悔。<br>任全牛：“后悔完全没有的，完全谈不上后悔。我做的是正当的，任何一个律师都应该会做的事情。从律师执业的角度，我并没有披露任何禁止性的内容。”<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf1-01082021051104.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf1-01082021051104.html</a>
+
+### 8: [2021-01-09 21:05:05+08:00 推文](https://twitter.com/realcaixia/status/1347892150021840896)
+
+封号是中国的基本特征,一夜之间在美国公然堂皇地发生。昨天我对朋友和家人说，破坏民主制度的起点是封杀言论自由。推特、脸书等大科技公司现在成了“美国的腾讯公司”。<br><br>韩连潮: 【言论自由是民主基石】美各大社交媒体永久性封杀了川普及一些支持者的号，这是对民主制度的破坏；虽然不是政府行为，社交平台已变为公共广场，公民在其中的言论都应受到宪法保护；信息的真实性应由受众判断，其合法性由法院裁决，公司高管和政府官员无权加以限制！<br><br><img style src="https://pbs.twimg.com/media/ErSjAe9W4AAHG_Z?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-01-10 03:35:52+08:00 推文](https://twitter.com/realcaixia/status/1347990493024677891)
+
+Re @Wang6Eden @lianchaohan 你这说法与中共剥夺9000万党员的公民言论自由权利一样。川普作为个人是有在社交媒体平台的合法言论权的，只是他的个人影响力大一些。如果只要是公职人员就没有发言权利，就像中共一样，因为你是党员就不可以发任何批评性的言论。实际上是以党员身份名义剥夺你的公民权利。
+
+### 10: [2021-01-10 11:32:50+08:00 推文](https://twitter.com/realcaixia/status/1348110523427074048)
+
+中国公民郭飞雄（笔名）的妻子移居美国，患癌症并已转移至肝，刚动了大手术，身边无人照顾。作为丈夫，赴美照顾妻儿是天经地义，义不容辞。然而，郭飞雄因为争取民主自由而多年遭受中共当局严酷打压，被没收私人护照限制出国。不得已，郭飞雄写此致李克强总理与公安部部长赵克志的公开信。关注此事。<br><img style src="https://pbs.twimg.com/media/ErVzWwMW8AQyvI8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErVzXRNWMAE9OMK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/ErVzXs8XUAMmmV8?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-01-10 12:51:13+08:00 推文](https://twitter.com/realcaixia/status/1348130251675725824)
+
+49年前中国大学有政治学科，49后至文革结束，大陆废除政治学科。1980年代政治学科恢复，但8964中国社科院政治学所被严厉打压，所长远走海外。1990年代中期，全中国政治学学者不过百来人。2000-20006年，政治学教研环境相对宽松，现在习中共再次撤销部分大学政治学科。政治学教学研究在中国命运多舛。<br><img style src="https://pbs.twimg.com/media/ErWFUNPXcAEUhP-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-01-10 13:00:58+08:00 推文](https://twitter.com/realcaixia/status/1348132705599430656)
+
+Re @3dyI2sfsM6Tamw2 你何其冷酷！人命关头居然还挑剔文辞！何况这帮官员理当服务于民众，没收私人护照，侵犯个人自由权利，本就毫无道理。还护照给郭飞雄，不阻挡他赴美照顾妻儿，才是做有人性之事。我们都看着，这事他们怎么做，看看中共国官员还有没有人性。
+
+### 13: [2021-01-10 14:57:48+08:00 推文](https://twitter.com/realcaixia/status/1348162108471595009)
+
+Re @eddyupc 政治学与马列主义系根本就是两回事。
+
+### 14: [2021-01-10 15:09:02+08:00 推文](https://twitter.com/realcaixia/status/1348164933704413185)
+
+Re @Wang6Eden @lianchaohan 揭露中共内部的一个事实，而这个事实所持的禁止党员说话的理由逻辑与你的逻辑一样.看来你是中共的人，否则怎么与中共说法如此相同！
+
+### 15: [2021-01-10 15:14:12+08:00 推文](https://twitter.com/realcaixia/status/1348166232411942912)
+
+Re @LiveInNAmerica @Wang6Eden @lianchaohan 你去试一下，别说你封习近平的推特（假如习开了推特），只要你敢说习一个不好，警察立即把你抓进局子里去！你拿封习近平的言论账号来硕事，等于说太阳是从西边升起的，你胡搅蛮缠还是脑子错乱？
+
+### 16: [2021-01-10 15:17:12+08:00 推文](https://twitter.com/realcaixia/status/1348166988598808577)
+
+Re @Wang6Eden @lianchaohan 这些大公司暗地里中共给他们钱，一给就是数亿，他们来钱更省力。你以为他们是正经的市场行为规则吗？中共早已经渗透操控了！你是再给中共打掩护么？
+
+### 17: [2021-01-10 15:19:58+08:00 推文](https://twitter.com/realcaixia/status/1348167684190588930)
+
+Re @Wang6Eden @lianchaohan 川普有哪些话是煽动暴力的？你列举出来。不列举事实就扣帽子定罪名，你也是接受了中共的训练吧？！
+
+### 18: [2021-01-10 15:27:49+08:00 推文](https://twitter.com/realcaixia/status/1348169660051714048)
+
+Re @Jupiter_bj @lianchaohan 川普白宫新闻发布会，所谓主流媒体一个不报道不转播还中间掐断。推特脸书油管，全部封杀川普账号。包括川普团队人员账号全部封杀，连parler都被下架，这次真是开眼见识了科技巨头联手封杀川普和支持川普的民众的言论权利，科技巨头破坏民主政治，比中共国腾讯有过之而无不及。大资本权力侵犯公民人权。
+
+### 19: [2021-01-10 15:33:40+08:00 推文](https://twitter.com/realcaixia/status/1348171134517198852)
+
+Re @Russell04639956 少来胡搅蛮缠。
+
+### 20: [2021-01-10 15:37:30+08:00 推文](https://twitter.com/realcaixia/status/1348172098326421505)
+
+Re @Cabroker1 这不是求救信，是公开揭露信是公开说理信。
+
+### 21: [2021-01-10 15:41:33+08:00 推文](https://twitter.com/realcaixia/status/1348173118637027329)
+
+Re @Wang6Eden @lianchaohan 你说话要有事实根据，否则就是谣言构陷。你指控必须你举证啊。
 
