@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-12
+date: 2021-01-13
 from: https://twitter.com/SusanShirk1/status/1348358814211297280
 layout: post
 tags:
@@ -70,4 +70,8 @@ RT Sari Arho Havrén<br>“In..propaganda terms, Wang’s Africa Tour 2021 was
 ### 14: [2021-01-12 23:28:03+08:00 推文](https://twitter.com/RollandNadege/status/1349015291527901189)
 
 RT Nadège Rolland<br>A look at China’s “vaccine diplomacy.” Thanks @jruwitch for the chat! <a href="https://www.npr.org/2021/01/11/955720013/china-plans-to-sell-covid-19-vaccines-to-other-countries" target="_blank" rel="noopener noreferrer">https://www.npr.org/2021/01/11/955720013/china-plans-to-sell-covid-19-vaccines-to-other-countries</a>
+
+### 15: [2021-01-13 06:05:45+08:00 推文](https://twitter.com/mrbaopanrui/status/1349115375837995008)
+
+RT Patrick Boehler<br>Here is a Britain-based comedian curtailing his own right to free speech and lame jokes over concerns that Beijing might get upset by his innocuous collaboration with another comedian who had condemned a massacre.<br><br>Karen Tse: .@MrNigelNg has apologised to his Chinese fans on Weibo for creating a video with "StrictlyDumpling" @mikexingchen, because the latter has been open about his views on the Tiananmen Massacre. Ng then deleted all content related to Chen. What a shame, RMB is not the new MSG.<br><br><img style src="https://pbs.twimg.com/media/EriyTYDXEAMLmEq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EriyUtCWMAMsLEO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eriy7vAVkAEkgOK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
