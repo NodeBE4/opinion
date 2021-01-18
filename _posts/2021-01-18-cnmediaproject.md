@@ -23,3 +23,11 @@ How has Twitter's labelling of "state-affiliated media" impacted the accounts of
 
 RT Kevin Schoenmakers 宋楷文<br>After Twitter put a ‘state-affiliated’ label on Chinese media, their tweets saw a big drop in likes and retweets. @CGTNOfficial, @XHNews, and @PDChina, the three accounts with the most followers, are all down more than 20%. By @LiuChang_Claire and myself <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
 
+### 3: [2021-01-18 22:11:31+08:00 推文](https://twitter.com/davidpaulk/status/1351170356686577668)
+
+RT David Paulk 波大卫<br>Fascinating analysis on the effect Twitter’s labeling of “China state-affiliated media” has had on user engagement.<br><br>Did any such accounts actually perform better afterward? Yes, it turns out — but it helped if their content was exclusively panda-related. <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a><br><img style src="https://pbs.twimg.com/media/EsBR6f7W4As-dU9?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-01-18 22:45:05+08:00 推文](https://twitter.com/mauracunningham/status/1351178804270665732)
+
+RT Maura Cunningham 马丽娜<br>Analysis by @cnmediaproject shows that labeling Chinese news organizations "state-affiliated media" on Twitter shows less engagement with their tweets—except for one feed that's all panda tweets. Because, pandas. 🐼 <a href="https://buff.ly/39DBfn8" target="_blank" rel="noopener noreferrer">https://buff.ly/39DBfn8</a>
+
