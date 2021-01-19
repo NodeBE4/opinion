@@ -39,3 +39,7 @@ RT Maura Cunningham 马丽娜<br>Analysis by @cnmediaproject shows that labeli
 
 RT Victor Shih<br>Comrade Xi, your own media just admitted outbreaks in 11 regions. Isn’t that more important?<br><br>CCTV: Pioneering China's development as the leader of China's ruling party, #XiJinping has been steering the CPC to enhance friendship, promote exchanges with foreign political parties, and work with political parties worldwide for the global good.<br><br><img style src="https://pbs.twimg.com/media/Er_GVZ_XEAAeUEh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://ow.ly/Y5qk50DaVZV" target="_blank" rel="noopener noreferrer">http://ow.ly/Y5qk50DaVZV</a>
 
+### 7: [2021-01-19 15:53:43+08:00 推文](https://twitter.com/cnmediaproject/status/1351437667859365889)
+
+China's Telling Twitter Story: Twitter users are liking and sharing fewer tweets by Chinese news outlets since the social media platform started labeling them as state-affiliated -- unless pandas are involved. <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
+
