@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-19
+date: 2021-01-20
 from: https://twitter.com/rhodium_group/status/1351079662701699079
 layout: post
 tags:
@@ -46,4 +46,12 @@ China's Telling Twitter Story: Twitter users are liking and sharing fewer tweets
 ### 8: [2021-01-19 16:40:22+08:00 推文](https://twitter.com/cnmediaproject/status/1351449408676782081)
 
 Re @caixin OK, but why are we doing this? 😂
+
+### 9: [2021-01-19 22:46:03+08:00 推文](https://twitter.com/cnmediaproject/status/1351541436034985991)
+
+Re @dktatlow @ClimateHome Time for a propaganda piece from the Global Times on a Chinese firm installing solar panels in Bangladesh.<br><img style src="https://pbs.twimg.com/media/EsGjvW8XEAMeq2u?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-01-20 00:17:26+08:00 推文](https://twitter.com/jessbrandt/status/1351564434074984448)
+
+RT Jessica Brandt<br>Some thoughts on China's information strategy -- including state media's approach to audience building on twitter, a platform banned at home (using, yes, panda videos) via Bret Schafer and me, for @BrookingsFP<br><br>China Media Project: China's Telling Twitter Story: Twitter users are liking and sharing fewer tweets by Chinese news outlets since the social media platform started labeling them as state-affiliated -- unless pandas are involved.<br> <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
 
