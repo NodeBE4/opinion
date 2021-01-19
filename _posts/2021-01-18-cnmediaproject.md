@@ -43,3 +43,7 @@ RT Victor Shih<br>Comrade Xi, your own media just admitted outbreaks in 11 reg
 
 China's Telling Twitter Story: Twitter users are liking and sharing fewer tweets by Chinese news outlets since the social media platform started labeling them as state-affiliated -- unless pandas are involved. <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
 
+### 8: [2021-01-19 16:40:22+08:00 推文](https://twitter.com/cnmediaproject/status/1351449408676782081)
+
+Re @caixin OK, but why are we doing this? 😂
+
