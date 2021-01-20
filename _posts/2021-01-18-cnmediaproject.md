@@ -67,3 +67,7 @@ RT Sarah Cook<br>Re @stegersaurus Apparently some state-run accounts on sports
 
 RT Caixin Global<br>Jack Ma, billionaire founder of Alibaba and Ant Group, reemerged after months of speculation over his whereabouts, speaking at an annual online event promoting the achievements of rural teachers on Wednesday. <a href="https://www.caixinglobal.com/2021-01-20/jack-ma-surfaces-after-months-of-speculation-over-his-whereabouts-101653119.html?cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-01-20/jack-ma-surfaces-after-months-of-speculation-over-his-whereabouts-101653119.html?cxg=web&Sfrom=twitter</a>
 
+### 14: [2021-01-20 17:51:48+08:00 推文](https://twitter.com/cnmediaproject/status/1351829774293876740)
+
+Who was the top columnist last year in the CCP's official Seeking Truth journal? None other than the general secretary, Xi Jinping. Elinor Zhou takes an in-depth look at this important trend. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a><br><img style src="https://pbs.twimg.com/media/EsKp_BEVQAIyvDh?format=jpg&name=orig" referrerpolicy="no-referrer">
+
