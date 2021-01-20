@@ -71,3 +71,7 @@ RT Caixin Global<br>Jack Ma, billionaire founder of Alibaba and Ant Group, ree
 
 Who was the top columnist last year in the CCP's official Seeking Truth journal? None other than the general secretary, Xi Jinping. Elinor Zhou takes an in-depth look at this important trend. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a><br><img style src="https://pbs.twimg.com/media/EsKp_BEVQAIyvDh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 15: [2021-01-20 19:18:50+08:00 推文](https://twitter.com/cnmediaproject/status/1351851674856394756)
+
+Re @vshih2 Yes, indeed. Perfectly accords with what we would expect as Xi seeks discourse grandeur. But the proof, as they say, is in the thick, unpalatable pudding of CCP discourse practice. 🤓
+
