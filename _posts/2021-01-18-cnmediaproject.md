@@ -63,3 +63,7 @@ RT Kaiser Kuo<br>An exhaustive list of all the China-related actions during th
 
 RT Sarah Cook<br>Re @stegersaurus Apparently some state-run accounts on sports, travel, panda are still allowed to advertise. see this recent analysis from @cnmediaproject - <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
 
+### 13: [2021-01-20 15:09:15+08:00 推文](https://twitter.com/caixin/status/1351788864638054400)
+
+RT Caixin Global<br>Jack Ma, billionaire founder of Alibaba and Ant Group, reemerged after months of speculation over his whereabouts, speaking at an annual online event promoting the achievements of rural teachers on Wednesday. <a href="https://www.caixinglobal.com/2021-01-20/jack-ma-surfaces-after-months-of-speculation-over-his-whereabouts-101653119.html?cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-01-20/jack-ma-surfaces-after-months-of-speculation-over-his-whereabouts-101653119.html?cxg=web&Sfrom=twitter</a>
+
