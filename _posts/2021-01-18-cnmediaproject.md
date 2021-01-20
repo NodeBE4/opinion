@@ -55,3 +55,11 @@ Re @dktatlow @ClimateHome Time for a propaganda piece from the Global Times on a
 
 RT Jessica Brandt<br>Some thoughts on China's information strategy -- including state media's approach to audience building on twitter, a platform banned at home (using, yes, panda videos) via Bret Schafer and me, for @BrookingsFP<br><br>China Media Project: China's Telling Twitter Story: Twitter users are liking and sharing fewer tweets by Chinese news outlets since the social media platform started labeling them as state-affiliated -- unless pandas are involved.<br> <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
 
+### 11: [2021-01-20 02:22:06+08:00 推文](https://twitter.com/KaiserKuo/status/1351595805992484865)
+
+RT Kaiser Kuo<br>An exhaustive list of all the China-related actions during the Trump administration's 2020 full-court press. And here's my take on one major factor driving these 210 actions:<br><br>B. Allen-Ebrahimian: In this special report, check out the timeline and the exhaustive compilation of EVERY public China-related action that the Trump administration took in 2020 (there were at least 210 of them!)<br>
+
+### 12: [2021-01-20 06:12:36+08:00 推文](https://twitter.com/Sarah_G_Cook/status/1351653812721868806)
+
+RT Sarah Cook<br>Re @stegersaurus Apparently some state-run accounts on sports, travel, panda are still allowed to advertise. see this recent analysis from @cnmediaproject - <a href="https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/18/chinas-telling-twitter-story/</a>
+
