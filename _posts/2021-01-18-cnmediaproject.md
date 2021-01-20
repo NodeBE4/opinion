@@ -75,3 +75,7 @@ Who was the top columnist last year in the CCP's official Seeking Truth journal?
 
 Re @vshih2 Yes, indeed. Perfectly accords with what we would expect as Xi seeks discourse grandeur. But the proof, as they say, is in the thick, unpalatable pudding of CCP discourse practice. 🤓
 
+### 16: [2021-01-20 23:39:59+08:00 推文](https://twitter.com/cnmediaproject/status/1351917395045093378)
+
+Pleased to see CMP research referenced in this sober take from Institut Montaigne on the EU-China CAI. <a href="https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai" target="_blank" rel="noopener noreferrer">https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai</a><br><img style src="https://pbs.twimg.com/media/EsL5qxJUwAIJs4n?format=jpg&name=orig" referrerpolicy="no-referrer">
+
