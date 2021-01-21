@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-18
+date: 2021-01-21
 from: https://twitter.com/realcaixia/status/1350925436348411911
 layout: post
 tags:
@@ -34,4 +34,12 @@ Re @jelujah 8964时陈希同是北京市委书记，执行中共邓小平李鹏�
 ### 5: [2021-01-18 06:37:29+08:00 推文](https://twitter.com/realcaixia/status/1350935299573096450)
 
 下面这个推文纪念赵紫阳的引语写得何等之好！<br><br>lina: 1月17日是紫阳书记的忌日。其故居和墓地不允许前去祭奠。但如鲍老所言:中共党内只有极少数的最高领导人能够跳出“有我无人”、“唯党独尊”的眼界，赵紫阳是其中之一。他的最后十六年是在非法幽禁中度过的，但他至今活在老百姓心中。人们心中有赵紫阳，因为紫阳把人当人。摘自鲍彤《赵紫阳和公平正义》<br><br><img style src="https://pbs.twimg.com/media/Er8gbKcU0AI2yYG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Er8gbcAUwAAytZk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Er8gb5zVEAEIg1t?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-01-21 11:51:49+08:00 推文](https://twitter.com/realcaixia/status/1352101568619945984)
+
+昨天美国拟任国务卿布林肯在参院听证会表明对中美关系的态度与原则。布林肯用“对抗性的竞争”定位中美关系，用“威权主义”定性中共政权性质，用“最大的威胁”评价中共对美国的危险。布林肯爷爷辈父母辈遭到过苏联列宁主义政权、纳粹希特勒迫害，并是前东欧匈牙利难民。家族遭遇使他对极权纳粹有更深感受。<br><img style src="https://pbs.twimg.com/media/EsOhMdTXAAEYwKx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsOhMzUXUAU05vm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsOhNCzW8AU6Nu7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsOhNTEXUAw4D8k?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-01-21 12:02:27+08:00 推文](https://twitter.com/realcaixia/status/1352104242887192576)
+
+Re 从布林肯在听证会的回答看，以强硬态度遏制与抗击中共极权主义是美国两党的共同政策思路。希望看到民主党政府与布林肯不是停留于口头，而是实实在在地贯穿于施行于美国对外政策的实际工作中并能取得切实的效果。
 
