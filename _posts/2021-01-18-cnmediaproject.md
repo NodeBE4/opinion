@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-20
+date: 2021-01-22
 from: https://twitter.com/rhodium_group/status/1351079662701699079
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re @vshih2 Yes, indeed. Perfectly accords with what we would expect as Xi seeks 
 ### 16: [2021-01-20 23:39:59+08:00 推文](https://twitter.com/cnmediaproject/status/1351917395045093378)
 
 Pleased to see CMP research referenced in this sober take from Institut Montaigne on the EU-China CAI. <a href="https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai" target="_blank" rel="noopener noreferrer">https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai</a><br><img style src="https://pbs.twimg.com/media/EsL5qxJUwAIJs4n?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-01-22 16:13:41+08:00 推文](https://twitter.com/cnmediaproject/status/1352529856819388416)
+
+For those who missed it this week, CMP's look at the revealing Xi-era phenomenon of General Secretary-led editions of the CCP's Seeking Truth journal. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
 
