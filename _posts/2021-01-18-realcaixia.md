@@ -51,3 +51,7 @@ Re @SongHuyi 我同意你的看法，我称中共政权是利用高科技力量�
 
 这个司法局长是典型的豺狼虎豹酷吏，中共国民众的命运就被控制在这种制度环境中。这种残酷迫害民众的中共作恶官员，应该被曝光名字，一是将其列入依据马格尼茨基法案的制裁名单上；二是记好这个凶残酷吏的每一件罪行，当中国政治转型实行后，依据人民制定的宪法与国际法庭条款，审判他们。<br><img style src="https://pbs.twimg.com/media/EsVqgEoXEAIiDXS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsVqge9XAAApuM0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsVqhBEWMAEnpDQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsVqhiLXMAog5yM?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2021-01-22 21:49:03+08:00 推文](https://twitter.com/realcaixia/status/1352614256714387458)
+
+民企汇源果汁曾被美国可口可乐公司打算斥资1792亿港元（相当于当时汇源两倍溢价）收购全部股份。这成为中华“人民共和国”《反垄断法》第一个开刀问斩的案例。民企做大了，垄断政权、垄断资源、垄断“真理”的中共国当局就眼红害怕了，于是制造法令割肥韭菜。孙大午、马云等企业家的遭遇，本质就是如此。<br><img style src="https://pbs.twimg.com/media/EsVzfkcXUAMAG8Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
