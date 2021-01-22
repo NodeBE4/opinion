@@ -87,3 +87,7 @@ For those who missed it this week, CMP's look at the revealing Xi-era phenomenon
 
 In the coming weeks, journalists in China will undergo a process of credential verification for their "press cards," which will also look at whether their social media activity for possible violations. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a><br><img style src="https://pbs.twimg.com/media/EsVLYhiU4AQl7dR?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 19: [2021-01-22 20:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1352600981662429188)
+
+As China applies new assessment rules for press cards,  journalists will have their social media activity scrutinized. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a>
+
