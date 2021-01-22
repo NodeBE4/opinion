@@ -83,3 +83,7 @@ Pleased to see CMP research referenced in this sober take from Institut Montaign
 
 For those who missed it this week, CMP's look at the revealing Xi-era phenomenon of General Secretary-led editions of the CCP's Seeking Truth journal. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
 
+### 18: [2021-01-22 18:53:55+08:00 推文](https://twitter.com/cnmediaproject/status/1352570180396716032)
+
+In the coming weeks, journalists in China will undergo a process of credential verification for their "press cards," which will also look at whether their social media activity for possible violations. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a><br><img style src="https://pbs.twimg.com/media/EsVLYhiU4AQl7dR?format=png&name=orig" referrerpolicy="no-referrer">
+
