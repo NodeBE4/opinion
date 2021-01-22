@@ -47,3 +47,7 @@ Re 从布林肯在听证会的回答看，以强硬态度遏制与抗击中共�
 
 Re @SongHuyi 我同意你的看法，我称中共政权是利用高科技力量强化统治的精致新极权主义体制。无论是纳粹法西斯还是前苏共政权，与中共极权比，都是粗陋的极权主义，现在习独裁统治的中共国比法西斯与前苏共更野蛮更残酷。美国两党政府都称中国是威权主义，他们认识还不到位。
 
+### 9: [2021-01-22 21:09:52+08:00 推文](https://twitter.com/realcaixia/status/1352604394550947844)
+
+这个司法局长是典型的豺狼虎豹酷吏，中共国民众的命运就被控制在这种制度环境中。这种残酷迫害民众的中共作恶官员，应该被曝光名字，一是将其列入依据马格尼茨基法案的制裁名单上；二是记好这个凶残酷吏的每一件罪行，当中国政治转型实行后，依据人民制定的宪法与国际法庭条款，审判他们。<br><img style src="https://pbs.twimg.com/media/EsVqgEoXEAIiDXS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsVqge9XAAApuM0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsVqhBEWMAEnpDQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsVqhiLXMAog5yM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
