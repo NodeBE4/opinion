@@ -79,15 +79,19 @@ Re @vshih2 Yes, indeed. Perfectly accords with what we would expect as Xi seeks 
 
 Pleased to see CMP research referenced in this sober take from Institut Montaigne on the EU-China CAI. <a href="https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai" target="_blank" rel="noopener noreferrer">https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai</a><br><img style src="https://pbs.twimg.com/media/EsL5qxJUwAIJs4n?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 17: [2021-01-22 16:13:41+08:00 推文](https://twitter.com/cnmediaproject/status/1352529856819388416)
+### 17: [2021-01-22 07:02:02+08:00 推文](https://twitter.com/DSORennie/status/1352391028917956609)
+
+RT David Rennie  任大伟<br>China’s rulers face a tricky 2021. To outsiders, esp US, they’ve incentives to sound non-threatening, to play economics up & ideology down. But at home it’s the CCP’s centenary so they must set out vast ambitions for China with Party at centre. My Chaguan. <a href="https://www.economist.com/china/2021/01/21/chinas-communist-party-turns-100-this-year-expect-mixed-signals" target="_blank" rel="noopener noreferrer">https://www.economist.com/china/2021/01/21/chinas-communist-party-turns-100-this-year-expect-mixed-signals</a>
+
+### 18: [2021-01-22 16:13:41+08:00 推文](https://twitter.com/cnmediaproject/status/1352529856819388416)
 
 For those who missed it this week, CMP's look at the revealing Xi-era phenomenon of General Secretary-led editions of the CCP's Seeking Truth journal. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
 
-### 18: [2021-01-22 18:53:55+08:00 推文](https://twitter.com/cnmediaproject/status/1352570180396716032)
+### 19: [2021-01-22 18:53:55+08:00 推文](https://twitter.com/cnmediaproject/status/1352570180396716032)
 
 In the coming weeks, journalists in China will undergo a process of credential verification for their "press cards," which will also look at whether their social media activity for possible violations. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a><br><img style src="https://pbs.twimg.com/media/EsVLYhiU4AQl7dR?format=png&name=orig" referrerpolicy="no-referrer">
 
-### 19: [2021-01-22 20:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1352600981662429188)
+### 20: [2021-01-22 20:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1352600981662429188)
 
 As China applies new assessment rules for press cards,  journalists will have their social media activity scrutinized. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a>
 
