@@ -95,3 +95,7 @@ In the coming weeks, journalists in China will undergo a process of credential v
 
 As China applies new assessment rules for press cards,  journalists will have their social media activity scrutinized. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a>
 
+### 21: [2021-01-22 23:30:44+08:00 推文](https://twitter.com/cnmediaproject/status/1352639842992066560)
+
+Re @WilliamYang120 To avoid any misunderstanding, we should stress that these regulations refer specifically to the "press cards," or 记者证, that PRC journalists must technically have to conduct reporting activities. It does not apply to foreign journalists.
+
