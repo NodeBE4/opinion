@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-22
+date: 2021-01-23
 from: https://twitter.com/realcaixia/status/1350925436348411911
 layout: post
 tags:
@@ -54,4 +54,24 @@ Re @SongHuyi 我同意你的看法，我称中共政权是利用高科技力量�
 ### 10: [2021-01-22 21:49:03+08:00 推文](https://twitter.com/realcaixia/status/1352614256714387458)
 
 民企汇源果汁曾被美国可口可乐公司打算斥资1792亿港元（相当于当时汇源两倍溢价）收购全部股份。这成为中华“人民共和国”《反垄断法》第一个开刀问斩的案例。民企做大了，垄断政权、垄断资源、垄断“真理”的中共国当局就眼红害怕了，于是制造法令割肥韭菜。孙大午、马云等企业家的遭遇，本质就是如此。<br><img style src="https://pbs.twimg.com/media/EsVzfkcXUAMAG8Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-01-23 04:05:11+08:00 推文](https://twitter.com/realcaixia/status/1352708913280507904)
+
+Re @zhaowu83879102 谢谢您。是我看得不仔细，字太小了，没有注意到有很小的一个“.”。我这一下把数字放大了10倍。
+
+### 12: [2021-01-23 04:06:28+08:00 推文](https://twitter.com/realcaixia/status/1352709233612103680)
+
+Re @shutuppigs 谢谢您。是我看得不仔细，字太小了，没有注意到有很小的一个“.”。我这一下把数字放大了10倍。
+
+### 13: [2021-01-23 04:19:14+08:00 推文](https://twitter.com/realcaixia/status/1352712449762459649)
+
+Re @Max63494392 你是真糊涂还是装糊涂？！中共糟蹋祖国河山，坑害祖国十四亿人。正是对祖国深深的爱，我才坚决地反对习中共独裁统治集团。你是把习中共国等同于祖国，偷换了概念，是想掩盖习中共的罪恶吗？
+
+### 14: [2021-01-23 04:20:49+08:00 推文](https://twitter.com/realcaixia/status/1352712846346489862)
+
+Re @Max63494392 查了你的推特，原来是中共网军操控的前台小鬼。
+
+### 15: [2021-01-23 04:21:57+08:00 推文](https://twitter.com/realcaixia/status/1352713132997750784)
+
+Re @Corleone_Zhao 又一个中共网军操控的小鬼蹦跶。
 
