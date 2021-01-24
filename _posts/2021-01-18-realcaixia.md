@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-23
+date: 2021-01-24
 from: https://twitter.com/realcaixia/status/1350925436348411911
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re @Corleone_Zhao 又一个中共网军操控的小鬼蹦跶。
 ### 16: [2021-01-23 06:03:08+08:00 推文](https://twitter.com/realcaixia/status/1352738596520824832)
 
 Re @lori82553196 @MichelleJin14 有个著名的律师陈有西多年前就说过这话：中国的民营企业家不是在监狱里就是走在通往监狱的路上。
+
+### 17: [2021-01-24 10:43:37+08:00 推文](https://twitter.com/realcaixia/status/1353171568759869442)
+
+民营企业家孙大午被中共当局半夜从家里抓走，同时抓他家人与公司高管。当时当局对外宣称抓的理由是寻衅滋事，现在当局对外宣称抓的理由又变了，并且是3天内两变。有位中国十大著名刑事案律师之一曾告诉我，当局以A罪名抓人；以Ｂ罪名侦查；以C罪名开庭；以D罪名判刑。果然！法治在中共手里就是玩物。<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 关注中国民企、关注孙大午！<br> <a href="https://twitter.com/weiquanwang/status/1352993558391791617" target="_blank" rel="noopener noreferrer">https://twitter.com/weiquanwang/status/1352993558391791617</a>
 
