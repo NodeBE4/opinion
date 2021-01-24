@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-22
+date: 2021-01-24
 from: https://twitter.com/rhodium_group/status/1351079662701699079
 layout: post
 tags:
@@ -98,4 +98,12 @@ As China applies new assessment rules for press cards,  journalists will have th
 ### 21: [2021-01-22 23:30:44+08:00 推文](https://twitter.com/cnmediaproject/status/1352639842992066560)
 
 Re @WilliamYang120 To avoid any misunderstanding, we should stress that these regulations refer specifically to the "press cards," or 记者证, that PRC journalists must technically have to conduct reporting activities. It does not apply to foreign journalists.
+
+### 22: [2021-01-24 09:00:53+08:00 推文](https://twitter.com/hkfp/status/1353145714944204808)
+
+RT Hong Kong Free Press HKFP<br>China’s Xi Jinping, the headline columnist <a href="https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist</a><br><img style src="https://pbs.twimg.com/media/EsdW22dXMAACduP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-01-24 15:15:05+08:00 推文](https://twitter.com/williamnee/status/1353239887516852226)
+
+RT William Nee<br>“Xi’s speeches do not just appear in the publication as ornamental flourishes, or as routine nods to the leader’s ideas. They are meant to lead and set the tone for each issue, placing Xi himself at the centre of the Party’s theoretical life” <a href="https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist/</a>
 
