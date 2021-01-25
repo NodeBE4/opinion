@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-25
+date: 2021-01-26
 from: https://twitter.com/realcaixia/status/1353713629359706118
 layout: post
 tags:
@@ -26,4 +26,8 @@ title: 'Twitter @蔡霞: 2021-01-25~2021-01-31'
 ### 3: [2021-01-25 23:25:53+08:00 推文](https://twitter.com/realcaixia/status/1353725786667290625)
 
 Re @muwmie 你的分析一针见血！对，所谓“左倾”错误，其实不是左右错误而是罪行。源于极权意识形态和极权制度机制。感谢您🌹。“三人行必有我师”，众人议必得思想启发。
+
+### 4: [2021-01-26 02:47:21+08:00 推文](https://twitter.com/realcaixia/status/1353776487678287872)
+
+中共国内疫情严重，北京上海急发中风险警报，疫情严重下经济社会几近瘫痪，企业关闭，民众失业已是必然后果；多省多地实施反人权的极端封门封楼措施，民众缺食断粮几近绝境；物价上飞涨民不聊生自是必然趋势。令人齿冷的是，官媒将涨价称之为“积极性涨价”！中共官媒没有最无耻，只有更无耻。<br><img style src="https://pbs.twimg.com/media/EsmUiVmXMAEF5hB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
