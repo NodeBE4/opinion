@@ -31,3 +31,15 @@ Re @muwmie 你的分析一针见血！对，所谓“左倾”错误，其实不
 
 中共国内疫情严重，北京上海急发中风险警报，疫情严重下经济社会几近瘫痪，企业关闭，民众失业已是必然后果；多省多地实施反人权的极端封门封楼措施，民众缺食断粮几近绝境；物价上飞涨民不聊生自是必然趋势。令人齿冷的是，官媒将涨价称之为“积极性涨价”！中共官媒没有最无耻，只有更无耻。<br><img style src="https://pbs.twimg.com/media/EsmUiVmXMAEF5hB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2021-01-26 12:18:26+08:00 推文](https://twitter.com/realcaixia/status/1353920205001527296)
+
+若是去年全社会齐声支持方方日记，今年或许难以发生官员不顾民众死活，采取极端措施隔离，导致民众面对饿病而亡威胁的严重情况了。中共长期欺骗洗脑，致使部分人是非善恶不分，去年跟着当局厉声攻击方方。而今自己遭殃却无呼喊之人，这就是善恶不分最终害人害己。至今还当五毛粉红的人该清醒过来反省了<br><img style src="https://pbs.twimg.com/media/EsoXP6AW4AASkwR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-01-26 12:24:50+08:00 推文](https://twitter.com/realcaixia/status/1353921816838987782)
+
+Re @0eXZHl3KJl2Uibt 查了你的推特，你连当个五毛都没资格，实实在在是中网军变出来的一个网上跳蚤。
+
+### 7: [2021-01-26 12:27:02+08:00 推文](https://twitter.com/realcaixia/status/1353922368968810497)
+
+Re @zhd2020 你又是一个中共网军放出来的小跳蚤虱子。
+
