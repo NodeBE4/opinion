@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-26
+date: 2021-01-27
 from: https://twitter.com/realcaixia/status/1353713629359706118
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re @zhd2020 你又是一个中共网军放出来的小跳蚤虱子。
 ### 8: [2021-01-26 20:28:49+08:00 推文](https://twitter.com/realcaixia/status/1354043613458669571)
 
 Re @zhengguangyou 凡是像你这样跟帖反常识反人性反常情的，必不是真人。查了你这推，果然！1、“反常必有妖”2、中共没钱了发不起5毛了，于是中共网军制造的机器小鬼出来冒充五毛粉红了。
+
+### 9: [2021-01-27 00:52:34+08:00 推文](https://twitter.com/realcaixia/status/1354109991842623490)
+
+中共国应对武汉病毒疫情的方法就是让有疫情风险地区的人家变成“死牢”。能否熬到“开封”之日活下来，就看命大不大了。真是匪夷所思！<br><br>鲍简: 大陆应付武汉肺炎疫情的方式令人开眼。你不服不行😉🙄<br><br><img style src="https://pbs.twimg.com/media/Esj6Nm0U0AAT9ct?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Esj6Nm4VoAE4f5s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Esj6NmuU4AM6PBf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
