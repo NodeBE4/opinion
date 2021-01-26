@@ -51,3 +51,11 @@ Re @zhengguangyou 凡是像你这样跟帖反常识反人性反常情的，必�
 
 中共国应对武汉病毒疫情的方法就是让有疫情风险地区的人家变成“死牢”。能否熬到“开封”之日活下来，就看命大不大了。真是匪夷所思！<br><br>鲍简: 大陆应付武汉肺炎疫情的方式令人开眼。你不服不行😉🙄<br><br><img style src="https://pbs.twimg.com/media/Esj6Nm0U0AAT9ct?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Esj6Nm4VoAE4f5s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Esj6NmuU4AM6PBf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2021-01-27 01:37:28+08:00 推文](https://twitter.com/realcaixia/status/1354121288047071232)
+
+中共国家政权地基是杀、关、管垒出来的，72年里中共为巩固政权搞了数百次大小运动，大陆中国死人数千万，政权地基下越堆越高的是累累白骨……；美国人国家政权地基是1787年《联邦宪法》垒起来的，为保护民众权利制约监督国家权力，200多年里政权地基下增加的是27条宪法修正案……两国政权性质泾渭分明<br><br>郭于华: 有计划按比例抓人杀人<br> <a href="https://twitter.com/dudiaohan/status/1354075181304705028" target="_blank" rel="noopener noreferrer">https://twitter.com/dudiaohan/status/1354075181304705028</a>
+
+### 11: [2021-01-27 01:43:02+08:00 推文](https://twitter.com/realcaixia/status/1354122690827853825)
+
+Re @md62452381 你连人都不是，我当然不曾与中共网军造出来的虚拟人真正鬼同过事！
+
