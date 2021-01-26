@@ -79,31 +79,35 @@ Re @vshih2 Yes, indeed. Perfectly accords with what we would expect as Xi seeks 
 
 Pleased to see CMP research referenced in this sober take from Institut Montaigne on the EU-China CAI. <a href="https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai" target="_blank" rel="noopener noreferrer">https://www.institutmontaigne.org/en/publications/wins-and-losses-eu-china-investment-agreement-cai</a><br><img style src="https://pbs.twimg.com/media/EsL5qxJUwAIJs4n?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 17: [2021-01-22 07:02:02+08:00 推文](https://twitter.com/DSORennie/status/1352391028917956609)
+### 17: [2021-01-21 19:30:28+08:00 推文](https://twitter.com/AJIunit/status/1352216990899953666)
+
+RT Al Jazeera Investigations<br>Two journalists in Wuhan investigate an unknown virus, days before it changes the world.<br>Their censored videos show a healthcare system at breaking point and the Chinese government's attempt to stop them from reporting on the outbreak.<br>#3Days
+
+### 18: [2021-01-22 07:02:02+08:00 推文](https://twitter.com/DSORennie/status/1352391028917956609)
 
 RT David Rennie  任大伟<br>China’s rulers face a tricky 2021. To outsiders, esp US, they’ve incentives to sound non-threatening, to play economics up & ideology down. But at home it’s the CCP’s centenary so they must set out vast ambitions for China with Party at centre. My Chaguan. <a href="https://www.economist.com/china/2021/01/21/chinas-communist-party-turns-100-this-year-expect-mixed-signals" target="_blank" rel="noopener noreferrer">https://www.economist.com/china/2021/01/21/chinas-communist-party-turns-100-this-year-expect-mixed-signals</a>
 
-### 18: [2021-01-22 16:13:41+08:00 推文](https://twitter.com/cnmediaproject/status/1352529856819388416)
+### 19: [2021-01-22 16:13:41+08:00 推文](https://twitter.com/cnmediaproject/status/1352529856819388416)
 
 For those who missed it this week, CMP's look at the revealing Xi-era phenomenon of General Secretary-led editions of the CCP's Seeking Truth journal. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
 
-### 19: [2021-01-22 18:53:55+08:00 推文](https://twitter.com/cnmediaproject/status/1352570180396716032)
+### 20: [2021-01-22 18:53:55+08:00 推文](https://twitter.com/cnmediaproject/status/1352570180396716032)
 
 In the coming weeks, journalists in China will undergo a process of credential verification for their "press cards," which will also look at whether their social media activity for possible violations. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a><br><img style src="https://pbs.twimg.com/media/EsVLYhiU4AQl7dR?format=png&name=orig" referrerpolicy="no-referrer">
 
-### 20: [2021-01-22 20:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1352600981662429188)
+### 21: [2021-01-22 20:56:18+08:00 推文](https://twitter.com/cnmediaproject/status/1352600981662429188)
 
 As China applies new assessment rules for press cards,  journalists will have their social media activity scrutinized. <a href="https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/22/new-journalist-rules-target-social-media-conduct/</a>
 
-### 21: [2021-01-22 23:30:44+08:00 推文](https://twitter.com/cnmediaproject/status/1352639842992066560)
+### 22: [2021-01-22 23:30:44+08:00 推文](https://twitter.com/cnmediaproject/status/1352639842992066560)
 
 Re @WilliamYang120 To avoid any misunderstanding, we should stress that these regulations refer specifically to the "press cards," or 记者证, that PRC journalists must technically have to conduct reporting activities. It does not apply to foreign journalists.
 
-### 22: [2021-01-24 09:00:53+08:00 推文](https://twitter.com/hkfp/status/1353145714944204808)
+### 23: [2021-01-24 09:00:53+08:00 推文](https://twitter.com/hkfp/status/1353145714944204808)
 
 RT Hong Kong Free Press HKFP<br>China’s Xi Jinping, the headline columnist <a href="https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist</a><br><img style src="https://pbs.twimg.com/media/EsdW22dXMAACduP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 23: [2021-01-24 15:15:05+08:00 推文](https://twitter.com/williamnee/status/1353239887516852226)
+### 24: [2021-01-24 15:15:05+08:00 推文](https://twitter.com/williamnee/status/1353239887516852226)
 
 RT William Nee<br>“Xi’s speeches do not just appear in the publication as ornamental flourishes, or as routine nods to the leader’s ideas. They are meant to lead and set the tone for each issue, placing Xi himself at the centre of the Party’s theoretical life” <a href="https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2021/01/24/chinas-xi-jinping-the-headline-columnist/</a>
 
