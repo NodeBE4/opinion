@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-27
+date: 2021-01-28
 from: https://twitter.com/realcaixia/status/1353713629359706118
 layout: post
 tags:
@@ -58,4 +58,16 @@ Re @zhengguangyou 凡是像你这样跟帖反常识反人性反常情的，必�
 ### 11: [2021-01-27 01:43:02+08:00 推文](https://twitter.com/realcaixia/status/1354122690827853825)
 
 Re @md62452381 你连人都不是，我当然不曾与中共网军造出来的虚拟人真正鬼同过事！
+
+### 12: [2021-01-28 01:16:54+08:00 推文](https://twitter.com/realcaixia/status/1354478500980420610)
+
+请网友关注并声援。郭飞雄妻子患癌症刚动手术，即将化疗24周，他须立即赴美，倾至爱之情尽为夫之责，这是人所共情人之常理。但凡有点人性的，都会尽力助他飞美。想到刘晓波被迫害入监至癌症晚期，多国政府呼吁人道救援，邀刘晓波出国治疗，中共拒不放人，终致刘晓波逝于囚禁之中。人道悲剧不能一再重复<br><img style src="https://pbs.twimg.com/media/EswS_QyXMAER7Pp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswS_u1W4AQaxDQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswTAQsXAAM13Kx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswTAwpXIAM6dWo?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-01-28 02:42:52+08:00 推文](https://twitter.com/realcaixia/status/1354500138161606658)
+
+特转发国内评论《涨价已经“疯狂”，还说什么“温和”与“积极”？》<br>本推曾推出官媒报道肉蛋菜“积极性涨价“，一批五毛粉红和中共网军“虚拟人”小鬼为中共洗地。也有些善良网友以为是“季节性涨价”点击出错，我也曾以为我误发了不实信息。今日看国内一评论以及文章下留言，方知这种匪夷所思的标题居然是真的。<br><img style src="https://pbs.twimg.com/media/EswmqpyW4AgZAKI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswmrMcW8AoOlYa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswmrtzXUAIzAdF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswmsSQXMAAnoyU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-01-28 03:01:45+08:00 推文](https://twitter.com/realcaixia/status/1354504888902803459)
+
+本推曾推出官媒报道肉蛋菜“积极性涨价“，一批五毛粉红和中共网军“虚拟人”小鬼为中共洗地。有些善良网友以为是“季节性涨价”点击出错，我也曾以为我误发了不实信息。今日看国内一评论以及文章下留言，方知这种标题居然是真的。由于篇幅所限，上推只能节选评论文章。现特把评论文章中的图片转发于此。<br><img style src="https://pbs.twimg.com/media/Eswq_yVXIAU6m2P?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswrAMsXEAAzFcY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswrAcqXYAQ5eHC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswrAzSXIAEAUgd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
