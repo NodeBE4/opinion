@@ -71,3 +71,11 @@ Re @md62452381 你连人都不是，我当然不曾与中共网军造出来的�
 
 本推曾推出官媒报道肉蛋菜“积极性涨价“，一批五毛粉红和中共网军“虚拟人”小鬼为中共洗地。有些善良网友以为是“季节性涨价”点击出错，我也曾以为我误发了不实信息。今日看国内一评论以及文章下留言，方知这种标题居然是真的。由于篇幅所限，上推只能节选评论文章。现特把评论文章中的图片转发于此。<br><img style src="https://pbs.twimg.com/media/Eswq_yVXIAU6m2P?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswrAMsXEAAzFcY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswrAcqXYAQ5eHC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EswrAzSXIAEAUgd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 15: [2021-01-28 07:41:58+08:00 推文](https://twitter.com/realcaixia/status/1354575407513821186)
+
+<br><img style src="https://pbs.twimg.com/media/EsxrJCKXMAArLK1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsxrJQAW4AA3nvo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsxrJffXAAU7YDB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EsxrJxSXAAkRych?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-01-28 08:38:33+08:00 推文](https://twitter.com/realcaixia/status/1354589647289069570)
+
+请网友帮忙转发，为郭飞雄等呼喊就是为我们自己的权利呼喊。<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【独家重磅】<br><br>蔡霞：请将人道主义漂亮宣传口号付诸行动自放行郭飞雄赴美做起 <br><br>关注郭飞雄，勿让义人流血又流泪！<br> <a href="https://www.ipkmedia.com/%e8%94%a1%e9%9c%9e%ef%bc%9a%e8%af%b7%e5%b0%86%e4%ba%ba%e9%81%93%e4%b8%bb%e4%b9%89%e6%bc%82%e4%ba%ae%e5%ae%a3%e4%bc%a0%e5%8f%a3%e5%8f%b7%e4%bb%98%e8%af%b8%e8%a1%8c%e5%8a%a8%e8%87%aa%e6%94%be%e8%a1%8c/" target="_blank" rel="noopener noreferrer">https://www.ipkmedia.com/%e8%94%a1%e9%9c%9e%ef%bc%9a%e8%af%b7%e5%b0%86%e4%ba%ba%e9%81%93%e4%b8%bb%e4%b9%89%e6%bc%82%e4%ba%ae%e5%ae%a3%e4%bc%a0%e5%8f%a3%e5%8f%b7%e4%bb%98%e8%af%b8%e8%a1%8c%e5%8a%a8%e8%87%aa%e6%94%be%e8%a1%8c/</a>
+
