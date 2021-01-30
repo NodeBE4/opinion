@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-30
+date: 2021-01-31
 from: https://twitter.com/realcaixia/status/1353713629359706118
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re 德不孤必有邻，正义自在人心。照片一是包龙军律师（高�
 ### 21: [2021-01-30 23:37:18+08:00 推文](https://twitter.com/realcaixia/status/1355540599760445440)
 
 Re @wangyulawyer 谢谢您的指正。祝好🌹
+
+### 22: [2021-01-31 03:15:55+08:00 推文](https://twitter.com/realcaixia/status/1355595618568302602)
+
+律师的天职是维护人的权利、维护法治尊严、维护公平正义。凡正直的律师与记者几乎都站在反对专制、争取自由民主宪政的第一线，成为专制独裁暴政的眼中钉，而被千方百计地打压。大陆中国许多正直的记者、律师都遭受到严酷迫害。原来说民营企业家不在监狱里，就在走向监狱的路上，现在记者律师也是如此。<br><img style src="https://pbs.twimg.com/media/EtALBuvXAAAd5SH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
