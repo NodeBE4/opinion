@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-28
+date: 2021-01-30
 from: https://twitter.com/realcaixia/status/1353713629359706118
 layout: post
 tags:
@@ -82,4 +82,8 @@ Re @md62452381 你连人都不是，我当然不曾与中共网军造出来的�
 ### 17: [2021-01-28 23:59:39+08:00 推文](https://twitter.com/realcaixia/status/1354821450750861320)
 
 郭飞雄在上海机场被拦截，中共当局禁止他赴美，郭飞雄并有被绑架危险。这迫使郭飞雄在上海机场宣布绝食抗议。现在大陆与海外许多朋友都在严重关切郭飞雄的处境，并在尽可能声援帮助他。请网友们多多关注郭飞雄，并尽可能让更多的人知道郭飞雄的情况。围观就是声援。<br><br>自由亚洲电台: “我年龄也比较大了，现在身心俱疲、处于严重的悲痛之中，很可能被他们弄残了、甚至死在他们手下，但是我必须反抗。这种原始的反抗最有效，否则永远无法突破这么黑暗的压力、这种无任何理由的残暴。“<br>#郭飞雄 #绝食抗议<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xx-01272021095925.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xx-01272021095925.html</a>
+
+### 18: [2021-01-30 10:19:31+08:00 推文](https://twitter.com/realcaixia/status/1355339830859882499)
+
+关注潇男，声援潇男！<br><br>韩连潮: 【侠女耿潇男将直面袋鼠法庭】中共刀把子精心策划的耿潇男非法经营案闹剧进入第二幕，检察院已装模作样地提起了公诉，法院会于春节前速判速决。潇男很可能遭受逼供信，中共专政机器打着法律幌子作恶，编造莫须有罪名迫害公民已经到无以复加的地步。侠女耿潇男恐有牢狱之灾，望国内外推友声援她！<br><br><img style src="https://pbs.twimg.com/media/Es8dKgDXAAAAekW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
