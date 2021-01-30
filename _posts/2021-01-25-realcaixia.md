@@ -87,3 +87,15 @@ Re @md62452381 你连人都不是，我当然不曾与中共网军造出来的�
 
 关注潇男，声援潇男！<br><br>韩连潮: 【侠女耿潇男将直面袋鼠法庭】中共刀把子精心策划的耿潇男非法经营案闹剧进入第二幕，检察院已装模作样地提起了公诉，法院会于春节前速判速决。潇男很可能遭受逼供信，中共专政机器打着法律幌子作恶，编造莫须有罪名迫害公民已经到无以复加的地步。侠女耿潇男恐有牢狱之灾，望国内外推友声援她！<br><br><img style src="https://pbs.twimg.com/media/Es8dKgDXAAAAekW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 19: [2021-01-30 22:51:41+08:00 推文](https://twitter.com/realcaixia/status/1355529120978001924)
+
+最近中共吊销了任全牛律师从业资格证书，以断其生计，恐吓更多的人。包龙军律师在听证会为任全牛作代理辩护人。<br>中共当初闹革命蒙骗更多人跟他们走时宣传说：“不劳动者不得食”、“剥夺剥夺者”。而他们实际做的是“不顺从者不得食”，他们以极权独裁剥夺主持正义的律师的生存权利，他们是罪恶的剥夺者！<br><img style src="https://pbs.twimg.com/media/Es_Oh0CXEAI9S_S?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Es_OiT0XYAIzyEQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Es_OivVXAAgmHqu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Es_OjFAXMAAUNQg?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-01-30 22:54:46+08:00 推文](https://twitter.com/realcaixia/status/1355529897427533825)
+
+Re 德不孤必有邻，正义自在人心。照片一是包龙军律师（高个）与任全牛律师；照片二是律师同行声援支持任全牛律师。
+
+### 21: [2021-01-30 23:37:18+08:00 推文](https://twitter.com/realcaixia/status/1355540599760445440)
+
+Re @wangyulawyer 谢谢您的指正。祝好🌹
+
