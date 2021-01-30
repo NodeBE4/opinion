@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-29
+date: 2021-01-30
 from: https://twitter.com/austinramzy/status/1354002502325178368
 layout: post
 tags:
@@ -22,4 +22,12 @@ RT Austin Ramzy<br>"When we heard the sound of the drill breaking through, eve
 ### 2: [2021-01-29 23:22:33+08:00 推文](https://twitter.com/cnmediaproject/status/1355174500707528708)
 
 China claimed last month to have lifted all of its people out of poverty. But was this just another self-fulfilled prophecy? Propaganda Soars Into Orbit: CMP's dive in the narrative campaign for poverty eradication that began as soon as the goal was set. <a href="https://chinamediaproject.org/2021/01/29/propaganda-soars-into-orbit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/29/propaganda-soars-into-orbit/</a><br><img style src="https://pbs.twimg.com/media/Es6LoKZWMAENtb2?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-01-30 04:27:24+08:00 推文](https://twitter.com/Yaqiu/status/1355251220370386945)
+
+RT Yaqiu Wang 王亚秋<br>Sun Jiaodong had 27 followers on Twitter. In 2019, he tweeted, "glory to Hong Kong, shame on Communist bandits." He got 13 months in prison. Great reporting by @ByChunHan on the heavy punishment doled out to ordinary citizens for their speech. <a href="https://www.wsj.com/articles/china-is-now-sending-twitter-users-to-prison-for-posts-most-chinese-cant-see-11611932917" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-is-now-sending-twitter-users-to-prison-for-posts-most-chinese-cant-see-11611932917</a>
+
+### 4: [2021-01-30 13:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1355388018866188296)
+
+RT Jonathan Cheng<br>"This is the ghost of basic skepticism that haunts all of the grand claims in China’s tightly controlled press. When success is the only outcome possible, when happy endings are the order of the day, can success and positivity be trusted?"<br>@cnmediaproject <a href="https://bit.ly/3iXPS9c" target="_blank" rel="noopener noreferrer">https://bit.ly/3iXPS9c</a>
 
