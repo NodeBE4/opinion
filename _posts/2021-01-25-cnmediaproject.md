@@ -31,7 +31,11 @@ RT Yaqiu Wang 王亚秋<br>Sun Jiaodong had 27 followers on Twitter. In 2019, 
 
 RT Jonathan Cheng<br>"This is the ghost of basic skepticism that haunts all of the grand claims in China’s tightly controlled press. When success is the only outcome possible, when happy endings are the order of the day, can success and positivity be trusted?"<br>@cnmediaproject <a href="https://bit.ly/3iXPS9c" target="_blank" rel="noopener noreferrer">https://bit.ly/3iXPS9c</a>
 
-### 5: [2021-01-31 14:55:41+08:00 推文](https://twitter.com/MalinOud/status/1355771720326643715)
+### 5: [2021-01-31 10:00:22+08:00 推文](https://twitter.com/jwassers/status/1355697399021232130)
+
+RT Jeff Wasserstrom<br>I'm thrilled that my piece on Xi bios (or lack thereof) came out today in @TheAtlantic (but speaking of bios, if you click on my name you may see one needing updating: the Hong Kong book I was writing is out<br><br>The Atlantic: It is high time we have a better sense of what makes the autocratic, muscular-nationalist, order-obsessed strongman in charge of China tick. @jwassers<br> <a href="http://on.theatln.tc/cLtW2r0" target="_blank" rel="noopener noreferrer">http://on.theatln.tc/cLtW2r0</a>
+
+### 6: [2021-01-31 14:55:41+08:00 推文](https://twitter.com/MalinOud/status/1355771720326643715)
 
 RT Malin Oud<br>For those interested in climate and environmental issues, here’s a meaty thread by @LiShuo_GP analysing the juiciest Chinese bureaucratic document in years<br><br>Li Shuo_Greenpeace: A SIGNIFICANT move that bears HUGE political implications for China's envi governance, air pollution, & coal development. On Jan 29, the central environmental inspection group (CEIP) released findings on its inspection at the National Energy Administration (NEA). Thread.<br><br><img style src="https://pbs.twimg.com/media/Es-UbBOUUAQlV5U?format=jpg&name=orig" referrerpolicy="no-referrer">
 
