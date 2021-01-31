@@ -103,3 +103,7 @@ Re @wangyulawyer 谢谢您的指正。祝好🌹
 
 律师的天职是维护人的权利、维护法治尊严、维护公平正义。凡正直的律师与记者几乎都站在反对专制、争取自由民主宪政的第一线，成为专制独裁暴政的眼中钉，而被千方百计地打压。大陆中国许多正直的记者、律师都遭受到严酷迫害。原来说民营企业家不在监狱里，就在走向监狱的路上，现在记者律师也是如此。<br><img style src="https://pbs.twimg.com/media/EtALBuvXAAAd5SH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 23: [2021-01-31 08:06:23+08:00 推文](https://twitter.com/realcaixia/status/1355668716315418630)
+
+Re @ForStCharles @Chilling888 👍
+
