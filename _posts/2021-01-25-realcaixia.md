@@ -107,3 +107,7 @@ Re @wangyulawyer 谢谢您的指正。祝好🌹
 
 Re @ForStCharles @Chilling888 👍
 
+### 24: [2021-01-31 12:35:52+08:00 推文](https://twitter.com/realcaixia/status/1355736531688951809)
+
+一国号称十四亿人，只能一个脑袋想事，其余的必须当行尸走肉；只能一个声音齐喊“正能量”，其余的都必须封口缄言。他们有枪有钱有监狱有各种探头和手机各种后门，但他们还是怕。怕人们想问题，怕人们讲真话。他们好脆弱，好虚假。大陆中国究竟是谁怕谁？<br><br>楊錦麟: 風聲鶴唳 草木皆兵，再往後，風花雪月也該屬於「莫談國事」範疇了吧？！<br><br><img style src="https://pbs.twimg.com/media/Es-YT5QVEAMBPtZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Es-YT5PUwAItpKJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
