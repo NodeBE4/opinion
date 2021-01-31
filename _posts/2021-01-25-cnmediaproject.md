@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-30
+date: 2021-01-31
 from: https://twitter.com/austinramzy/status/1354002502325178368
 layout: post
 tags:
@@ -30,4 +30,8 @@ RT Yaqiu Wang 王亚秋<br>Sun Jiaodong had 27 followers on Twitter. In 2019, 
 ### 4: [2021-01-30 13:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1355388018866188296)
 
 RT Jonathan Cheng<br>"This is the ghost of basic skepticism that haunts all of the grand claims in China’s tightly controlled press. When success is the only outcome possible, when happy endings are the order of the day, can success and positivity be trusted?"<br>@cnmediaproject <a href="https://bit.ly/3iXPS9c" target="_blank" rel="noopener noreferrer">https://bit.ly/3iXPS9c</a>
+
+### 5: [2021-01-31 14:55:41+08:00 推文](https://twitter.com/MalinOud/status/1355771720326643715)
+
+RT Malin Oud<br>For those interested in climate and environmental issues, here’s a meaty thread by @LiShuo_GP analysing the juiciest Chinese bureaucratic document in years<br><br>Li Shuo_Greenpeace: A SIGNIFICANT move that bears HUGE political implications for China's envi governance, air pollution, & coal development. On Jan 29, the central environmental inspection group (CEIP) released findings on its inspection at the National Energy Administration (NEA). Thread.<br><br><img style src="https://pbs.twimg.com/media/Es-UbBOUUAQlV5U?format=jpg&name=orig" referrerpolicy="no-referrer">
 
