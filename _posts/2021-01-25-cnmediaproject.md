@@ -39,3 +39,7 @@ RT Jeff Wasserstrom<br>I'm thrilled that my piece on Xi bios (or lack thereof)
 
 RT Malin Oud<br>For those interested in climate and environmental issues, here’s a meaty thread by @LiShuo_GP analysing the juiciest Chinese bureaucratic document in years<br><br>Li Shuo_Greenpeace: A SIGNIFICANT move that bears HUGE political implications for China's envi governance, air pollution, & coal development. On Jan 29, the central environmental inspection group (CEIP) released findings on its inspection at the National Energy Administration (NEA). Thread.<br><br><img style src="https://pbs.twimg.com/media/Es-UbBOUUAQlV5U?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 7: [2021-01-31 20:22:41+08:00 推文](https://twitter.com/PekingMike/status/1355854013313511424)
+
+RT Mike Forsythe  傅才德<br>Re None of that is remotely possible in today’s China under Xi. A video viewable to ordinary Chinese people documenting Xi Jinping’s family wealth?  Nationwide, coordinated protests? Not in China of 2021. This explains the difficulty in doing a good, honest, Xi biography.
+
