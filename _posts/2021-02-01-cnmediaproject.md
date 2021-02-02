@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-01
+date: 2021-02-02
 from: https://twitter.com/cnmediaproject/status/1356172079264129025
 layout: post
 tags:
@@ -26,4 +26,8 @@ RT Nadège Rolland<br>Sweden created a new center for China studies @S_C_C_S_ 
 ### 3: [2021-02-01 23:34:11+08:00 推文](https://twitter.com/tomgrundy/status/1356264591940980736)
 
 RT Tom Grundy<br>Surreal old photo of Sai Wan, #HongKong - by Fan Ho.<br><img style src="https://pbs.twimg.com/media/EtJrNxDUcAM4Mox?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-02-02 17:58:19+08:00 推文](https://twitter.com/rob_schmitz/status/1356542457236893697)
+
+RT Rob Schmitz<br>There is much more to China than its gov't, which receives most of the media coverage of the country. That's why I was thrilled to hear @NPRinskeep's interview w/ @tepingchen<br>a/b her new book "Land of Big Numbers," short stories a/b China's individuals: <a href="https://www.npr.org/2021/02/01/962714219/land-of-big-numbers-short-story-collection-from-te-ping-chen" target="_blank" rel="noopener noreferrer">https://www.npr.org/2021/02/01/962714219/land-of-big-numbers-short-story-collection-from-te-ping-chen</a>
 
