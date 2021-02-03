@@ -23,3 +23,7 @@ title: 'Twitter @蔡霞: 2021-02-01~2021-02-07'
 
 给马云先生的一封公开信 <a href="https://yibaochina.com/?p=240492" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=240492</a>
 
+### 3: [2021-02-03 11:32:21+08:00 推文](https://twitter.com/realcaixia/status/1356807714022846466)
+
+Re @SongVolog 只能说明你孤陋寡闻
+
