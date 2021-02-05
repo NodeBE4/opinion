@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-04
+date: 2021-02-06
 from: https://twitter.com/realcaixia/status/1356416429021626369
 layout: post
 tags:
@@ -34,4 +34,20 @@ Re @SongVolog 只能说明你孤陋寡闻
 ### 5: [2021-02-04 23:52:29+08:00 推文](https://twitter.com/realcaixia/status/1357356362334932994)
 
 再转发丁家喜夫人的推文。丁家喜不仅在监狱里遭受酷刑，而且还被严重克扣维持生存所必需的口粮，遭受严重的生活虐待。中共当局的监狱残暴黑暗超出正常人的想象。中共当局电视播映大秦王朝电视剧，秦政暴虐无道，极权暴政胜过秦政。<br><img style src="https://pbs.twimg.com/media/EtZMZ0xXcAIUupS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EtZMaFUWgAIMKMf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EtZMaTNXAAkr7-6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EtZMajzXAAUL1-a?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-02-05 23:36:38+08:00 推文](https://twitter.com/realcaixia/status/1357714761190952961)
+
+1921年中共宣告成立。2021年中共一百年与中国社会一百年，这一百年究竟如何认识？从1989枪响以后，中国在历史十字路口徘徊了32年了！2021，中共病毒坑害不仅坑害中国人民而且危害全世界；2021不仅是中国人的命运往何处去，或许全球都要面对这个问题。百年中国系列，期待与关注，回顾思考………<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 敬请关注：<br>【开篇重磅·百年中国系列】<br>鲍彤：俄国十月炮响给中国送来了什么？ <br><br>造反有理+马克思主义招牌欺骗<br><br>“马克思一辈子偏激。这是他的大毛病。…“十月革命一声炮响”是一块金字招牌，…毛泽东们当时真正得到而且奉为最高最终真理的…没有超过《水浒传》<br><br><img style src="https://pbs.twimg.com/media/EsrqSx2W8AIqBY3?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.ipkmedia.com/%e9%b2%8d%e5%bd%a4%ef%bc%9a%e4%bf%84%e5%9b%bd%e5%8d%81%e6%9c%88%e7%82%ae%e5%93%8d%e7%bb%99%e4%b8%ad%e5%9b%bd%e9%80%81%e6%9d%a5%e4%ba%86%e4%bb%80%e4%b9%88%ef%bc%9f/" target="_blank" rel="noopener noreferrer">https://www.ipkmedia.com/%e9%b2%8d%e5%bd%a4%ef%bc%9a%e4%bf%84%e5%9b%bd%e5%8d%81%e6%9c%88%e7%82%ae%e5%93%8d%e7%bb%99%e4%b8%ad%e5%9b%bd%e9%80%81%e6%9d%a5%e4%ba%86%e4%bb%80%e4%b9%88%ef%bc%9f/</a>
+
+### 7: [2021-02-06 00:36:26+08:00 推文](https://twitter.com/realcaixia/status/1357729808826925063)
+
+昨天偶然读到这篇文章，触目惊心令人发指罄竹难书！这些情况在北京时就听一个人隐隐约约地说过，没这么详实，我当时将信将疑。现在看来，当时对我讲述的人，自己都不忍心细说维族妇女惨遭的那种侮辱迫害。但他当时很沉重的神态至今让我难忘。<br><br>RFI 華語 - 法國國際廣播電台: 《解放報》：世界應當傾聽維吾爾婦女講述的經歷<br> <a href="https://rfi.my/76TJ.T" target="_blank" rel="noopener noreferrer">https://rfi.my/76TJ.T</a>
+
+### 8: [2021-02-06 00:49:45+08:00 推文](https://twitter.com/realcaixia/status/1357733159669018627)
+
+Re @cedar49923828 对，从徘徊到停滞到反动倒退。
+
+### 9: [2021-02-06 00:58:17+08:00 推文](https://twitter.com/realcaixia/status/1357735307349753864)
+
+Re @ydfN1I50W0bpwlb 喜欢💕。若信就先下功夫去读去理解。信仰能在自己心中立起来的基础是理解是真诚。
 
