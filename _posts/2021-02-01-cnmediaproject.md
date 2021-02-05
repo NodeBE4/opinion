@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-04
+date: 2021-02-05
 from: https://twitter.com/cnmediaproject/status/1356172079264129025
 layout: post
 tags:
@@ -34,4 +34,8 @@ RT Rob Schmitz<br>There is much more to China than its gov't, which receives m
 ### 5: [2021-02-04 15:27:34+08:00 推文](https://twitter.com/tomgrundy/status/1357229294376783872)
 
 RT Tom Grundy<br>Re I sympathise w/the pressure mainland students-studying-abroad may be under, but don't think western institutions should bend to it. I've often done talks w/mainland students - they ask great Q's, never a problem.
+
+### 6: [2021-02-05 06:04:28+08:00 推文](https://twitter.com/jwassers/status/1357449971696476166)
+
+RT Jeff Wasserstrom<br>A good indication of what's special about @ananthkrishnan's newsletter here: explores parallels between "hurt feelings" rhetoric coming out of China & India, w/quotes from/links to writings by insightful analysts of each setting, @Ram_Guha & David Bandurski of @cnmediaproject<br><br>Ananth Krishnan: Today's newsletter - Republics of hurt feelings, and how to read the Global Times<br> <a href="https://indiachina.substack.com/p/republics-of-hurt-feelings-and-how" target="_blank" rel="noopener noreferrer">https://indiachina.substack.com/p/republics-of-hurt-feelings-and-how</a>
 
