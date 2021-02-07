@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-06
+date: 2021-02-07
 from: https://twitter.com/realcaixia/status/1356416429021626369
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re @cedar49923828 对，从徘徊到停滞到反动倒退。
 ### 9: [2021-02-06 00:58:17+08:00 推文](https://twitter.com/realcaixia/status/1357735307349753864)
 
 Re @ydfN1I50W0bpwlb 喜欢💕。若信就先下功夫去读去理解。信仰能在自己心中立起来的基础是理解是真诚。
+
+### 10: [2021-02-07 06:27:50+08:00 推文](https://twitter.com/realcaixia/status/1358180631243612162)
+
+说真话的活不了，说假话的人模狗样当抗疫英雄，谎言蒙骗的后果就是全世界200多万生命被夺走，肆虐全球的疫情至今还没有结束。剥夺言论自由权利，人祸必然酿出大灾难，并且还会一次又一次地发生。想要结束人祸灾难，必当首先维护言论自由权利，任何以言治罪都是反人类的邪恶罪行。<br><br>八九季风: 历史上的今天：<br>2020年2月6日他离开了我们！<br>今天是李文亮医生去世一周年纪念日。<br>我们为英灵祈祷！<br>[玫瑰][玫瑰][玫瑰][合十][合十][合十]<br><br><img style src="https://pbs.twimg.com/media/EtiAgvnVkAA45Qk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
