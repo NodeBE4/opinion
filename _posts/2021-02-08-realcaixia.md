@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-08
+date: 2021-02-09
 from: https://twitter.com/realcaixia/status/1358462052902330371
 layout: post
 tags:
@@ -18,4 +18,12 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 ### 1: [2021-02-08 01:06:07+08:00 推文](https://twitter.com/realcaixia/status/1358462052902330371)
 
 张文宏：人类的道德和自律跟几百年前相比没有进步_一见读书-梨视频官网-Pear Video <a href="https://www.pearvideo.com/video_1714436" target="_blank" rel="noopener noreferrer">https://www.pearvideo.com/video_1714436</a>
+
+### 2: [2021-02-09 19:50:55+08:00 推文](https://twitter.com/realcaixia/status/1359107508057612288)
+
+一场政治迫害！潇男把所有指控都承担下来，不是为了自己，而是为了救亲属、救换员工、救合作的两家印刷厂。为了让他们能回家过年。潇男真正是無私無畏的女子！🌹<br><br>ZHANGDONG: 耿潇男案今天庭审，不让亲友参加旁听，却竟然网络直播弄成了一场公开审判，谁都知道这是杀鸡给猴看。把一桩政治诬陷搞成经济犯罪案，又把经济犯罪案搞成政治公审。Show Trial!<br>刚刚传来国内消息，耿潇男被判3年，没有缓刑。其丈夫秦真，被判两年半，缓刑三年。<br><br><img style src="https://pbs.twimg.com/media/Etxty2YXEAAQdJw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1359074561409486853" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1359074561409486853</a>
+
+### 3: [2021-02-09 20:15:21+08:00 推文](https://twitter.com/realcaixia/status/1359113657553149953)
+
+当局禁止亲友到开庭现场，却罕见地电视直播，不出几小时就将视频消失。说白了，既要政治迫害潇男，又害怕全球围观。起初秘密抓捕潇男，而后在全球大媒体和大量网友围观下，不得不宣布因所谓“非法经营”而拘留侦查，最初说涉案书8000册，后来加数到20万册。無任何市场销售，無具体受害人，却被判刑3年！<br><br>自由亚洲电台: 【耿潇男庭上认罪道歉】<br><br>曾声援清华大学前教授许章润的出版人耿潇男，被控"非法经营罪"，周二在北京海淀法院开审，罕有在网上直播<br><br>耿认罪，并向社会道歉<br><br>同案另有多名被告，耿强调其他同事都是执行她的指令，希望法庭把处罚焦点聚焦在她本人身上<br><br>公诉人对耿潇男的量刑建议为3年有期徒刑，下午宣判<br><br><video src="https://video.twimg.com/ext_tw_video/1359042902907736067/pu/vid/720x720/SGpQdVdzGT3ubOYi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1359042902907736067/pu/img/g015gGasPqV73Oo2.jpg"></video>
 
