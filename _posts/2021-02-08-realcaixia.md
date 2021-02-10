@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-10
+date: 2021-02-11
 from: https://twitter.com/realcaixia/status/1358462052902330371
 layout: post
 tags:
@@ -30,4 +30,8 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 ### 4: [2021-02-10 08:04:32+08:00 推文](https://twitter.com/realcaixia/status/1359292127361052672)
 
 陈小平先生，运用法学理论分析潇男开庭审理的情况，揭露中共当局的无耻卑鄙。可以分明感受到陈小平先生对中国目前法律最黑暗时期的义愤，对潇男的高度尊敬。特转发。公道自在人心！<br>耿瀟男审判穿帮了，法庭陈述证明她人缘确实好 | 大事小评（20210209） <a href="https://youtu.be/8zu-B25s2gg" target="_blank" rel="noopener noreferrer">https://youtu.be/8zu-B25s2gg</a>
+
+### 5: [2021-02-11 02:12:40+08:00 推文](https://twitter.com/realcaixia/status/1359565966858989571)
+
+曾经读到过回忆舒尔茨的文章，敬佩这位政治家，他对促进亚洲国家走向民主，推动亚洲国家政治文明发展做了巨大的努力。舒尔茨先生是美国有着博大心胸博爱精神，关心和热爱中国人民的政治家中的代表人物之一。<br><br>韩连潮: 【世纪政治家舒尔茨】推荐朋友Wolfowitz纪念舒尔茨文章：舒卿推动亚洲民主，促成苏邪恶帝国解体；他认为外交最重要的是信任， 有信任好事连连；无信任一事无成。去年他发文呐喊中共乱港，谴责北京失信于国际，未来很难与中共达成协议。舒卿是一位卓识远见的外交家，愿他安息！<br> <a href="https://www.wsj.com/articles/george-shultz-statesman-of-the-century-11612807363?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/george-shultz-statesman-of-the-century-11612807363?reflink=desktopwebshare_twitter</a>
 
