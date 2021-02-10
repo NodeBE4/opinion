@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-09
+date: 2021-02-10
 from: https://twitter.com/realcaixia/status/1358462052902330371
 layout: post
 tags:
@@ -26,4 +26,8 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 ### 3: [2021-02-09 20:15:21+08:00 推文](https://twitter.com/realcaixia/status/1359113657553149953)
 
 当局禁止亲友到开庭现场，却罕见地电视直播，不出几小时就将视频消失。说白了，既要政治迫害潇男，又害怕全球围观。起初秘密抓捕潇男，而后在全球大媒体和大量网友围观下，不得不宣布因所谓“非法经营”而拘留侦查，最初说涉案书8000册，后来加数到20万册。無任何市场销售，無具体受害人，却被判刑3年！<br><br>自由亚洲电台: 【耿潇男庭上认罪道歉】<br><br>曾声援清华大学前教授许章润的出版人耿潇男，被控"非法经营罪"，周二在北京海淀法院开审，罕有在网上直播<br><br>耿认罪，并向社会道歉<br><br>同案另有多名被告，耿强调其他同事都是执行她的指令，希望法庭把处罚焦点聚焦在她本人身上<br><br>公诉人对耿潇男的量刑建议为3年有期徒刑，下午宣判<br><br><video src="https://video.twimg.com/ext_tw_video/1359042902907736067/pu/vid/720x720/SGpQdVdzGT3ubOYi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1359042902907736067/pu/img/g015gGasPqV73Oo2.jpg"></video>
+
+### 4: [2021-02-10 08:04:32+08:00 推文](https://twitter.com/realcaixia/status/1359292127361052672)
+
+陈小平先生，运用法学理论分析潇男开庭审理的情况，揭露中共当局的无耻卑鄙。可以分明感受到陈小平先生对中国目前法律最黑暗时期的义愤，对潇男的高度尊敬。特转发。公道自在人心！<br>耿瀟男审判穿帮了，法庭陈述证明她人缘确实好 | 大事小评（20210209） <a href="https://youtu.be/8zu-B25s2gg" target="_blank" rel="noopener noreferrer">https://youtu.be/8zu-B25s2gg</a>
 
