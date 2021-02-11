@@ -35,3 +35,7 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 
 曾经读到过回忆舒尔茨的文章，敬佩这位政治家，他对促进亚洲国家走向民主，推动亚洲国家政治文明发展做了巨大的努力。舒尔茨先生是美国有着博大心胸博爱精神，关心和热爱中国人民的政治家中的代表人物之一。<br><br>韩连潮: 【世纪政治家舒尔茨】推荐朋友Wolfowitz纪念舒尔茨文章：舒卿推动亚洲民主，促成苏邪恶帝国解体；他认为外交最重要的是信任， 有信任好事连连；无信任一事无成。去年他发文呐喊中共乱港，谴责北京失信于国际，未来很难与中共达成协议。舒卿是一位卓识远见的外交家，愿他安息！<br> <a href="https://www.wsj.com/articles/george-shultz-statesman-of-the-century-11612807363?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/george-shultz-statesman-of-the-century-11612807363?reflink=desktopwebshare_twitter</a>
 
+### 6: [2021-02-11 07:45:25+08:00 推文](https://twitter.com/realcaixia/status/1359649703953108995)
+
+袁莉这篇文章写得好👍。一旦推到高墙，一旦能有机会自由表达，中国大陆民众的经历、思考、呐喊就会汇成不可阻挡的强大力量，极权崩溃的丧钟就敲响了！合力推墙！<br>Clubhouse被封背后：对话与人性穿透数字高墙 - 纽约时报中文网 <a href="https://cn.nytimes.com/technology/20210210/china-clubhouse/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/technology/20210210/china-clubhouse/</a>
+
