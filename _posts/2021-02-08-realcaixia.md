@@ -43,3 +43,7 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 
 一说推倒防火墙，一堆中共小鬼出来撒谎造谣污蔑，看来推倒防火墙真是戳中了他们痛处！推倒防火墙，所有的历史真相与现实真相将都会曝光在光天化日之下！
 
+### 8: [2021-02-11 21:37:17+08:00 推文](https://twitter.com/realcaixia/status/1359859050364731394)
+
+今日中国春节除夕夜，正是千家万户围坐守岁，祈愿来年的时刻。“每逢佳节倍思亲”，我的朋友，不是亲人胜似亲人的一大批义士，为着我们与亲友、为着我们的子孙后代免于恐惧的自由生活，他们正身陷牢狱。我为他们祈愿：潇男、张展、任志强、丁家喜、许志永……。特节选推出潇男的文章。人美心美文字美。<br><img style src="https://pbs.twimg.com/media/Et8wldeWgAQTJQP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et8wltJWYAUmFTm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et8wl8IWYAIIs4v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et8wmNmXYAAyB2D?format=jpg&name=orig" referrerpolicy="no-referrer">
+
