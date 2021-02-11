@@ -39,3 +39,7 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 
 袁莉这篇文章写得好👍。一旦推到高墙，一旦能有机会自由表达，中国大陆民众的经历、思考、呐喊就会汇成不可阻挡的强大力量，极权崩溃的丧钟就敲响了！合力推墙！<br>Clubhouse被封背后：对话与人性穿透数字高墙 - 纽约时报中文网 <a href="https://cn.nytimes.com/technology/20210210/china-clubhouse/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/technology/20210210/china-clubhouse/</a>
 
+### 7: [2021-02-11 10:33:59+08:00 推文](https://twitter.com/realcaixia/status/1359692128083972097)
+
+一说推倒防火墙，一堆中共小鬼出来撒谎造谣污蔑，看来推倒防火墙真是戳中了他们痛处！推倒防火墙，所有的历史真相与现实真相将都会曝光在光天化日之下！
+
