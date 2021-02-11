@@ -47,3 +47,15 @@ title: 'Twitter @蔡霞: 2021-02-08~2021-02-14'
 
 今日中国春节除夕夜，正是千家万户围坐守岁，祈愿来年的时刻。“每逢佳节倍思亲”，我的朋友，不是亲人胜似亲人的一大批义士，为着我们与亲友、为着我们的子孙后代免于恐惧的自由生活，他们正身陷牢狱。我为他们祈愿：潇男、张展、任志强、丁家喜、许志永……。特节选推出潇男的文章。人美心美文字美。<br><img style src="https://pbs.twimg.com/media/Et8wldeWgAQTJQP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et8wltJWYAUmFTm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et8wl8IWYAIIs4v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et8wmNmXYAAyB2D?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 9: [2021-02-11 23:04:09+08:00 推文](https://twitter.com/realcaixia/status/1359880912108978178)
+
+再发几张潇男的照片，让我们为潇男等一批朋友们义士们祈祷🙏。义士不孤，人间道义暖人心，有朋友专程开车去看望潇男父亲（第四张照片）。许多大陆网友表示，他们将尽心尽力照顾好潇男父亲。为了大陆朋友的安全，只能对照片作了涂抹，敬请谅解。<br><img style src="https://pbs.twimg.com/media/Et9Ed93XMAAQ4Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et9EeH-WQAQ0sJ0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et9EeVXWQAEX630?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et9EeimXUAEh4JO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-02-11 23:30:34+08:00 推文](https://twitter.com/realcaixia/status/1359887560206667776)
+
+Re @Jonatha39933528 他们在武汉烈士陵园表格中特地隐去了李文亮的名字，就是不让人们去悼念李文亮，怕那里成了中国的哭墙。他们台上的说法与实际干的事，反差何其之大！他们极度虚伪！他们居然把死了无数人的人祸灾难又当作功绩来自夸自吹！他们就不怕被疫情夺去生命的冤魂找他们催命吗？！他们就真不怕报应吗？！
+
+### 11: [2021-02-11 23:31:50+08:00 推文](https://twitter.com/realcaixia/status/1359887878189428739)
+
+Re @othermg 你还是人吗？！直接当了极权走狗！
+
