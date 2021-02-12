@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-08
+date: 2021-02-12
 from: https://twitter.com/cclhku/status/1358612026751406080
 layout: post
 tags:
@@ -46,4 +46,8 @@ RT Carl Minzner<br>Thread👇 <br><br>Ideologically, Xi Jinping is steadily be
 ### 8: [2021-02-08 20:14:00+08:00 推文](https://twitter.com/melissakchan/status/1358750926899732482)
 
 RT Melissa Chan<br>There was a bit of a scramble in one of the Clubhouse rooms following the news it's been blocked in China, as moderators wonder whether they should let everyone in China at the moment jump the speaking queue to get their last free word.
+
+### 9: [2021-02-12 14:26:03+08:00 推文](https://twitter.com/fccchina/status/1360112914623918084)
+
+RT Foreign Correspondents' Club of China<br>FCCC statement on the BBC broadcasting ban in China<br><img style src="https://pbs.twimg.com/media/EuAXcYlVoAMrymq?format=jpg&name=orig" referrerpolicy="no-referrer">
 
