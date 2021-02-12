@@ -47,11 +47,15 @@ RT Carl Minzner<br>Thread👇 <br><br>Ideologically, Xi Jinping is steadily be
 
 RT Melissa Chan<br>There was a bit of a scramble in one of the Clubhouse rooms following the news it's been blocked in China, as moderators wonder whether they should let everyone in China at the moment jump the speaking queue to get their last free word.
 
-### 9: [2021-02-12 14:26:03+08:00 推文](https://twitter.com/fccchina/status/1360112914623918084)
+### 9: [2021-02-11 23:30:16+08:00 推文](https://twitter.com/RyanFedasiuk/status/1359887486638522372)
+
+RT Ryan Fedasiuk<br>How does the Chinese government spend its money? <br><br>I'm thrilled to announce a new resource for the China studies and national security community that attempts to answer that question:<br><br>The Chinese State Council Budget Tracker from @CSETGeorgetown (1/9). <a href="https://cset.georgetown.edu/research/chinese-state-council-budget-tracker/" target="_blank" rel="noopener noreferrer">https://cset.georgetown.edu/research/chinese-state-council-budget-tracker/</a>
+
+### 10: [2021-02-12 14:26:03+08:00 推文](https://twitter.com/fccchina/status/1360112914623918084)
 
 RT Foreign Correspondents' Club of China<br>FCCC statement on the BBC broadcasting ban in China<br><img style src="https://pbs.twimg.com/media/EuAXcYlVoAMrymq?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 10: [2021-02-12 20:18:11+08:00 推文](https://twitter.com/cnmediaproject/status/1360201534026448898)
+### 11: [2021-02-12 20:18:11+08:00 推文](https://twitter.com/cnmediaproject/status/1360201534026448898)
 
 CMP's David Bandurski walks through the Ofcom decision on CGTN and China's response, noting the odd fact that despite the uproar all sides see eye-to-eye on a basic point: Party-state media are of a "wholly political nature." <a href="https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/</a>
 
