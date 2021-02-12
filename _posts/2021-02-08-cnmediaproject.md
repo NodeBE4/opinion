@@ -51,3 +51,7 @@ RT Melissa Chan<br>There was a bit of a scramble in one of the Clubhouse rooms
 
 RT Foreign Correspondents' Club of China<br>FCCC statement on the BBC broadcasting ban in China<br><img style src="https://pbs.twimg.com/media/EuAXcYlVoAMrymq?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2021-02-12 20:18:11+08:00 推文](https://twitter.com/cnmediaproject/status/1360201534026448898)
+
+CMP's David Bandurski walks through the Ofcom decision on CGTN and China's response, noting the odd fact that despite the uproar all sides see eye-to-eye on a basic point: Party-state media are of a "wholly political nature." <a href="https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/</a>
+
