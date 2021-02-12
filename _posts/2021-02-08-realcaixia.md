@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-11
+date: 2021-02-12
 from: https://twitter.com/realcaixia/status/1358462052902330371
 layout: post
 tags:
@@ -58,4 +58,20 @@ Re @Jonatha39933528 他们在武汉烈士陵园表格中特地隐去了李文亮
 ### 11: [2021-02-11 23:31:50+08:00 推文](https://twitter.com/realcaixia/status/1359887878189428739)
 
 Re @othermg 你还是人吗？！直接当了极权走狗！
+
+### 12: [2021-02-12 10:13:22+08:00 推文](https://twitter.com/realcaixia/status/1360049327209652225)
+
+老司机推友说得好！看这个半疯半魔的场面，有半点现代文明的气息吗？总想着给全球指明方向，提供中国方案、中国模式……。先问问网友，有多少人愿意生活在这个模式里的？<br><br>老司机: 什么是传统习俗？什么是群众基础？什么是末日邪教？去中国广大农村看看，你就会觉得盛世强国真是一个中囯梦！一个痴人说梦！<br><br><video src="https://video.twimg.com/ext_tw_video/1360036234538586113/pu/vid/272x480/kmjx6M1Oy10z5R-F.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1360036234538586113/pu/img/BzY8hJm7Ws7KRv6K.jpg"></video>
+
+### 13: [2021-02-12 10:18:29+08:00 推文](https://twitter.com/realcaixia/status/1360050615397871624)
+
+这位推友的话也是我的心愿！<br><br>ZHANGDONG: 糟糕的鼠年终于过去了，但愿牛年牛气冲天、赶走鼠年大瘟疫，解放天下牛栏良心犯！元日之际借王安石之《元日》与众共勉：<br>爆竹声中一岁除，<br>春风送暖入屠苏。<br>千门万户曈曈日，<br>总把新桃换旧符。<br><br><img style src="https://pbs.twimg.com/media/Et-yQm1XYAAQjO_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Et-yQzeXAAc4rlq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-02-12 10:23:51+08:00 推文](https://twitter.com/realcaixia/status/1360051964894142465)
+
+Re @reporter3166 谢谢您，㊗️牛年一切逐步好起来！
+
+### 15: [2021-02-12 10:24:49+08:00 推文](https://twitter.com/realcaixia/status/1360052205697568769)
+
+Re @sohorock75 谢谢您，祝福我们大家牛年安康，一切都逐步好起来！🌹
 
