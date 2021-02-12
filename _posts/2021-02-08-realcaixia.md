@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-12
+date: 2021-02-13
 from: https://twitter.com/realcaixia/status/1358462052902330371
 layout: post
 tags:
@@ -74,4 +74,16 @@ Re @reporter3166 谢谢您，㊗️牛年一切逐步好起来！
 ### 15: [2021-02-12 10:24:49+08:00 推文](https://twitter.com/realcaixia/status/1360052205697568769)
 
 Re @sohorock75 谢谢您，祝福我们大家牛年安康，一切都逐步好起来！🌹
+
+### 16: [2021-02-13 01:05:41+08:00 推文](https://twitter.com/realcaixia/status/1360273886118608898)
+
+笑话！BBC何时在中国落地过？或许在中南海里落地过？香港凤凰卫视，内部都知道是中共在港大外宣，曾在中央党校内部落地过。凤凰卫视要伪装，当然得播墙外消息，引得党校人每天都看凤凰卫视，后来凤凰卫视在党校被取消了。连党媒大外宣都不敢对内部落地，何来BBC公开落地过？煞有介事地撒谎，还要脸吗？<br><br>ZHANGDONG: BBC什么时候在中国落过地？<br>长城防火墙挡住了一切西方媒体，隔断中外网络世界天地各一方。BBC从来没有落过地，谈何不许落地？笑话！香港曾经例外，今天起也被🈲播了。2021年2月12日辛丑年元日BBC告别香港。<br><br><img style src="https://pbs.twimg.com/media/EuA4ziaXcAAeNeE?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/bbcchinese/status/1360061332989620228" target="_blank" rel="noopener noreferrer">https://twitter.com/bbcchinese/status/1360061332989620228</a>
+
+### 17: [2021-02-13 01:32:53+08:00 推文](https://twitter.com/realcaixia/status/1360280729834430466)
+
+20多年不看春晚。起先是喜欢与书为伴，要清静；后来是感觉没看头，徒浪费时间而已；再后来反感厌恶之极，低俗、虚假、说教恶习窠臼难脱。倒是年年元旦守着看维也纳新年音乐会！年年岁岁没断过，陶醉于交响乐，痴迷于指挥风格。<br><br>荣剑: 这位学者点评春晚，言简意赅，说得很到位。<br><br><img style src="https://pbs.twimg.com/media/EuBo3LJVEAUEeUv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1360023812197126148" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1360023812197126148</a>
+
+### 18: [2021-02-13 02:00:36+08:00 推文](https://twitter.com/realcaixia/status/1360287705163300866)
+
+Re @LeoHKHKHK 🙏🌹新年好。
 
