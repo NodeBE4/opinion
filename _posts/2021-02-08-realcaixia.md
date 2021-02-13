@@ -123,3 +123,15 @@ Re 其实早在1989年6.4事件过程中，偶然读到了荣剑的一篇文章�
 
 Re @KarenNJ17 你不妨试试沙里淘金，还是有值得读的文章。
 
+### 28: [2021-02-14 02:30:21+08:00 推文](https://twitter.com/realcaixia/status/1360657581690216454)
+
+莫怪我骂人！没见过这么不要脸的报道！硬是把因祭奠被中共病毒夺去生命的亲人而致武汉全城菊花卖光的悲情场景，说成是买花寓意牛气冲天，是报复性消费！听说过一句老话：“有的人良心被狗吃了”。中共官媒记者根本就丧尽天良。必须将编造谎言的骗子姓名与官媒名称曝光天下！<br><img style src="https://pbs.twimg.com/media/EuIG1-TXEAExe9J?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuIG2bSXAAcyT1Z?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuIG2ncXYAIS7Hb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuIG2ybXEAA8qgc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2021-02-14 02:43:41+08:00 推文](https://twitter.com/realcaixia/status/1360660934537183235)
+
+Re @mqmthbb 仅仅自己知道没有意义，把邪恶曝光天下就是该做的事情。
+
+### 30: [2021-02-14 03:18:02+08:00 推文](https://twitter.com/realcaixia/status/1360669581048741889)
+
+这位网友写得好，特转发推出。<br><br>良知❣️❣️自知: 年年岁岁春节到，岁岁年年断肠日。<br>习惯在大年初一祭祀上一年去世亲人的武汉人，纷纷前往花市，购买祭祀用的菊花。可是，全市的菊花都卖断市，即使有花可买，每朵花亦被炒至超过100元人民币，不禁让当地人质疑：去年的武汉有多惨，今年上清香要用的菊花来告诉你！<br><br>国之殇，恸未央！民族之悲哀！<br><br><img style src="https://pbs.twimg.com/media/EuIG-RBUcAI902n?format=jpg&name=orig" referrerpolicy="no-referrer">
+
