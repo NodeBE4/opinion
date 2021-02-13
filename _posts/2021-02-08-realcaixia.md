@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-13
+date: 2021-02-14
 from: https://twitter.com/realcaixia/status/1358462052902330371
 layout: post
 tags:
@@ -110,4 +110,16 @@ Re @jason_x_w 你撒谎！！！坏透了！
 ### 24: [2021-02-13 22:09:20+08:00 推文](https://twitter.com/realcaixia/status/1360591893600600064)
 
 Re @Peter_Goldenman 你恨武汉人与湖北人，连他们祭奠去年春节被中共病毒造成的武汉肺炎，你都装着视而不见，还不让我表达同情。你为什么这么恨武汉人和湖北人？！
+
+### 25: [2021-02-13 23:56:28+08:00 推文](https://twitter.com/realcaixia/status/1360618853194231808)
+
+我个人认为，关于中国政治分析的透彻程度，目前无人能超过荣剑。请阅读荣剑关于中共最高权力交接的接班人困局的文章。荣剑的洞察力何等了得！<br><br>荣剑: 2020年，纽约时报中文网编辑特别推荐的15篇原创文章。<br> <a href="https://twitter.com/nytchinese/status/1360438550777397248" target="_blank" rel="noopener noreferrer">https://twitter.com/nytchinese/status/1360438550777397248</a>
+
+### 26: [2021-02-14 00:21:53+08:00 推文](https://twitter.com/realcaixia/status/1360625250711572485)
+
+Re 其实早在1989年6.4事件过程中，偶然读到了荣剑的一篇文章，从此记住了这个名字。后来见到荣剑时告诉他，我从8964起就是他的粉丝了。算来有30年了。只是1989年时中国大陆还没有出现“粉丝”这个词语。
+
+### 27: [2021-02-14 00:43:50+08:00 推文](https://twitter.com/realcaixia/status/1360630774291120130)
+
+Re @KarenNJ17 你不妨试试沙里淘金，还是有值得读的文章。
 
