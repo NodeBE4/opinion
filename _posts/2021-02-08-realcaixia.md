@@ -99,3 +99,15 @@ Re @nr_134_456 🌹🙏，谢谢，新年快乐！
 
 2020春节彻底改变了武汉人湖北人传统的喜庆氛围，从此后，对于武汉人和湖北人来说，年年岁岁春节到，岁岁年年断肠日。<br><img style src="https://pbs.twimg.com/media/EuFOUyTXUAIOxfG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuFOVQHXcAMYdwL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuFOVj4XMAAQjlm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuFOV5CXEAAcTkX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 22: [2021-02-13 22:05:43+08:00 推文](https://twitter.com/realcaixia/status/1360590982295801863)
+
+Re @nihaodajia 这个极权统治的根本性质决定了，必须不断揭露真相，让大家更多的看透它。你嘴里的所谓好的地方，那是他谎言欺骗，假象蒙人。从你的推特看出，你要末就是被蒙骗，要么就是在执行骗人的任务。说不定你就是中共网军放出来的幽灵小鬼
+
+### 23: [2021-02-13 22:06:11+08:00 推文](https://twitter.com/realcaixia/status/1360591098582863875)
+
+Re @jason_x_w 你撒谎！！！坏透了！
+
+### 24: [2021-02-13 22:09:20+08:00 推文](https://twitter.com/realcaixia/status/1360591893600600064)
+
+Re @Peter_Goldenman 你恨武汉人与湖北人，连他们祭奠去年春节被中共病毒造成的武汉肺炎，你都装着视而不见，还不让我表达同情。你为什么这么恨武汉人和湖北人？！
+
