@@ -95,3 +95,7 @@ Re @FuStephane 谢谢您，祝您阖家牛新春快乐，幸福安康，越来�
 
 Re @nr_134_456 🌹🙏，谢谢，新年快乐！
 
+### 21: [2021-02-13 13:04:12+08:00 推文](https://twitter.com/realcaixia/status/1360454707634929665)
+
+2020春节彻底改变了武汉人湖北人传统的喜庆氛围，从此后，对于武汉人和湖北人来说，年年岁岁春节到，岁岁年年断肠日。<br><img style src="https://pbs.twimg.com/media/EuFOUyTXUAIOxfG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuFOVQHXcAMYdwL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuFOVj4XMAAQjlm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EuFOV5CXEAAcTkX?format=jpg&name=orig" referrerpolicy="no-referrer">
+
