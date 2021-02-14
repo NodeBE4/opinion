@@ -135,3 +135,7 @@ Re @mqmthbb 仅仅自己知道没有意义，把邪恶曝光天下就是该做�
 
 这位网友写得好，特转发推出。<br><br>良知❣️❣️自知: 年年岁岁春节到，岁岁年年断肠日。<br>习惯在大年初一祭祀上一年去世亲人的武汉人，纷纷前往花市，购买祭祀用的菊花。可是，全市的菊花都卖断市，即使有花可买，每朵花亦被炒至超过100元人民币，不禁让当地人质疑：去年的武汉有多惨，今年上清香要用的菊花来告诉你！<br><br>国之殇，恸未央！民族之悲哀！<br><br><img style src="https://pbs.twimg.com/media/EuIG-RBUcAI902n?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 31: [2021-02-14 11:25:33+08:00 推文](https://twitter.com/realcaixia/status/1360792269239050243)
+
+Re @k0108886 无知至极居然也敢当自己百事懂！
+
