@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-17
+date: 2021-02-18
 from: https://twitter.com/realcaixia/status/1361755636992794632
 layout: post
 tags:
@@ -30,4 +30,24 @@ Re @amEAUPI3MEQduIm 你是伪装的中共网军吧？！军人自然熟悉军队
 ### 4: [2021-02-17 12:22:49+08:00 推文](https://twitter.com/realcaixia/status/1361893841108938755)
 
 Re @amEAUPI3MEQduIm 胡微博对我除了威胁就是污陷，我厌恶透了胡叼盘以及他那张肮脏卑污不堪的环球时报。在中国乘飞机时，空姐送上环球时报阅读，我从来都拒绝。请把中共与中国民众区分开。Kevin客观理性地叙述了稍一批评中共极权统治，立即招来谩骂威胁的经历，他没有错。言论自由是基本人权，支持Kevin就是支持我们自己。
+
+### 5: [2021-02-17 22:49:16+08:00 推文](https://twitter.com/realcaixia/status/1362051495139622915)
+
+Re @MissTwwei @Lane44543448 你们造谣就不怕良心不安吗？哦，你们根本就没有良心，责问你的良心，还真是抬举了你！无耻卑鄙之徒。
+
+### 6: [2021-02-17 23:33:50+08:00 推文](https://twitter.com/realcaixia/status/1362062707541819398)
+
+大陆中国经济20年前就叫唤产业结构升级换代，改变靠外延扩张的经济增长方式，但20年没有做到。根本原因在权力抢夺私人财产；暴力镇压言论自由。没有安全感、没有自由思想，何来真正的创新创业？只能靠卖地盖房保党国的税费收入。这种经济运行迟早要爆雷，现在到了见底爆雷开始的时候了。<br><br>鲍彤 Bao Tong: “独钓寒江雪” 是谁的诗呀？<br> <a href="https://twitter.com/dudiaohan/status/1361901566547034112" target="_blank" rel="noopener noreferrer">https://twitter.com/dudiaohan/status/1361901566547034112</a>
+
+### 7: [2021-02-17 23:43:52+08:00 推文](https://twitter.com/realcaixia/status/1362065234475761665)
+
+这场面令我想起1984年的北京天安门广场。那时的中央电视台，还向公众实播北京街头与天安门广场的现场实况。令我印象最深的是医护人员抢救绝食学生；各个大学、一些政府机关人员高举横幅走在各单位游行请愿队伍最前面；中央电视台杜宪身穿黑色服装，语调沉重地播报军队进入天安门广场………<br><br>風再起時【香港挺郭后援會3】: 【即時】仰光市中心Sule，大批示威者聚集，越來越多人。軍政府出裝甲車，出坦克，出無人機，開槍，放殺人犯，放強姦犯，放毒販，放火，但緬甸人表示不認命。<br><br><img style src="https://pbs.twimg.com/media/Eua3RkCVoAA1e1R?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eua3SEgVoAAga6-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-02-17 23:56:23+08:00 推文](https://twitter.com/realcaixia/status/1362068385144713219)
+
+Re @JamesFord8964 啊，谢谢你指正。对，是1989。最近一直在想中共精致的信息技术大数据，能精准监控到中国每个民众，早就超过了奥威尔《一九八四》中的“老大哥盯着你”的水平了，中共政权是精致的新纳粹极权国家。心有所想行必反映，这应该就是我手误的原因。
+
+### 9: [2021-02-18 00:17:43+08:00 推文](https://twitter.com/realcaixia/status/1362073753249808385)
+
+前一条转推仰光民众抗议军事政变的图片时，在引语中把1989天安门广场事件误写为1984，有推友指出了这一错误。感谢🙏。最近思考中共的信息技术大数据能精准监控到每个人，早就超过奥威尔《一九八四》中的“老大哥盯着你”的水平了，中共政权是精致的新纳粹极权国家。心有所想行必反映，这是我手误的原因。
 
