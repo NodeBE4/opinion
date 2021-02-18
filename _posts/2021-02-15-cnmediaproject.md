@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-15
+date: 2021-02-18
 from: https://twitter.com/vshih2/status/1361112234894659586
 layout: post
 tags:
@@ -26,4 +26,12 @@ RT The Wire China<br>This week: a long read on China’s expulsion of journali
 ### 3: [2021-02-15 15:35:16+08:00 推文](https://twitter.com/cnmediaproject/status/1361217497140183040)
 
 As China's Party-state media go on the attack over the Ofcom decision in the UK, assert their own "independence", and accuse Western media broadly of bias and impartiality, it's a good time to revisit the bedrock truths about the role of Chinese media. <a href="https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/</a>
+
+### 4: [2021-02-18 17:21:25+08:00 推文](https://twitter.com/SPCmonitor/status/1362331376859504640)
+
+RT Susan Finder<br>Supreme People's Court issues policy document on integrating socialist core values into court judgments/rulings & in the reasoning and explanation of the law 关于深入推进社会主义核心价值观融入裁判文书释法说理的指导意见 <a href="http://www.court.gov.cn/fabu-xiangqing-287211.html" target="_blank" rel="noopener noreferrer">http://www.court.gov.cn/fabu-xiangqing-287211.html</a>
+
+### 5: [2021-02-18 19:43:48+08:00 推文](https://twitter.com/MaraHvistendahl/status/1362367208681336832)
+
+RT Mara Hvistendahl<br>SCOOP: The Oracle TikTok deal was supposed to prevent TikTok from passing data to Chinese police. Turns out Oracle has been marketing its own data analytics software to...Chinese police.<br><br>a.k.a. the weirdest China tech story I’ve ever written 1/1 <a href="https://theintercept.com/2021/02/18/oracle-china-police-surveillance/" target="_blank" rel="noopener noreferrer">https://theintercept.com/2021/02/18/oracle-china-police-surveillance/</a>
 
