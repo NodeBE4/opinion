@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-18
+date: 2021-02-19
 from: https://twitter.com/vshih2/status/1361112234894659586
 layout: post
 tags:
@@ -34,4 +34,8 @@ RT Susan Finder<br>Supreme People's Court issues policy document on integratin
 ### 5: [2021-02-18 19:43:48+08:00 推文](https://twitter.com/MaraHvistendahl/status/1362367208681336832)
 
 RT Mara Hvistendahl<br>SCOOP: The Oracle TikTok deal was supposed to prevent TikTok from passing data to Chinese police. Turns out Oracle has been marketing its own data analytics software to...Chinese police.<br><br>a.k.a. the weirdest China tech story I’ve ever written 1/1 <a href="https://theintercept.com/2021/02/18/oracle-china-police-surveillance/" target="_blank" rel="noopener noreferrer">https://theintercept.com/2021/02/18/oracle-china-police-surveillance/</a>
+
+### 6: [2021-02-19 17:56:00+08:00 推文](https://twitter.com/schneiderfa77/status/1362702465460748291)
+
+RT Florian Schneider<br>ICYMI, regulators in the UK revoked  the license of the PRC #propaganda outlet #China Global Television Network (CGTN). Official media are fuming. Here's an excellent summary from @cnmediaproject, with a reality check on why such criticism is disingenuous: <a href="https://bit.ly/3pyHWgn" target="_blank" rel="noopener noreferrer">https://bit.ly/3pyHWgn</a>
 
