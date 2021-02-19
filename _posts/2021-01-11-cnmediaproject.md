@@ -87,7 +87,7 @@ RT lokman tsui 😷<br>it's official. @hkpoliceforce issued request under nati
 
 RT Malin Oud<br>U.S. Bans All Cotton and Tomatoes From Xinjiang Region of China <a href="https://www.nytimes.com/2021/01/13/business/economy/xinjiang-cotton-tomato-ban.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/01/13/business/economy/xinjiang-cotton-tomato-ban.html?smid=tw-share</a>
 
-### 19: [2021-01-14 16:43:45+08:00 推文](https://twitter.com/StuartKLau/status/1349638322411417601)
+### 19: [2021-01-14 16:43:45+08:00 推文](https://twitter.com/stuartklau/status/1349638322411417601)
 
 RT Stuart Lau<br>🚨 Got you some personal news... Thrilled to be joining the great team at @POLITICOEurope as EU-China Correspondent. I’ll be launching China Direct newsletter in March, so please send me all your tips and ideas slau@politico.eu <a href="https://www.politico.eu/politico-europe-announces-launch-of-china-direct/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/politico-europe-announces-launch-of-china-direct/</a>
 
