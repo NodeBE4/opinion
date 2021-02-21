@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-19
+date: 2021-02-21
 from: https://twitter.com/realcaixia/status/1361755636992794632
 layout: post
 tags:
@@ -62,4 +62,12 @@ Re @yishuihan_1 我反抗者。你是什么人？！大概是习纳粹党徒吧�
 ### 12: [2021-02-19 01:01:33+08:00 推文](https://twitter.com/realcaixia/status/1362447169895161860)
 
 Re @AFRONOVA83611 我在谈中共政权是精致的新纳粹国家，你在扯爹妈。问你：你把中共新纳粹政权当爹妈？中共是你亲爹还是你亲妈？中共新纳粹怎么生你养你的？
+
+### 13: [2021-02-21 06:45:54+08:00 推文](https://twitter.com/realcaixia/status/1363258604917313543)
+
+3年前看过这年轻人的视频。他在北大当保安，听课懂得了不少道理。在离开北大的最后那天，他自己录下了心声发到网上，随即被抓进监狱，2020年5月出狱。年初三又被抓进监狱。请听听这孩子真诚的心声，请关注他……<br>前北大保安員23歲中國公民張盼成被消失前的心聲 <a href="https://youtu.be/AIzD1uRXGd8" target="_blank" rel="noopener noreferrer">https://youtu.be/AIzD1uRXGd8</a>
+
+### 14: [2021-02-21 07:54:11+08:00 推文](https://twitter.com/realcaixia/status/1363275792076144641)
+
+Re @TCET0XgI9Uihm08 @YouTube 你这话很不合适！他已经被抓了，如果都不关注他们，残暴的当局就会毫无顾忌地迫害他们，会有更多的人被迫害。中国大陆人就永远在极权黑暗世界里。关注就是声援！不仅要关注张盼成，还要关注新疆维吾尔同胞、西藏同胞、内蒙同胞……所有被极权迫害的同胞都应该得到关注。关注他们遭遇就是揭露极权罪恶！
 
