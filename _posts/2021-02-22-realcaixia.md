@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-22
+date: 2021-02-23
 from: https://twitter.com/realcaixia/status/1363521691335467017
 layout: post
 tags:
@@ -118,4 +118,12 @@ Re @HIoVYPWGkYW8GB9 您说对了。以后有机会我会谈谈我与工人相处
 ### 26: [2021-02-22 10:19:37+08:00 推文](https://twitter.com/realcaixia/status/1363674776909275136)
 
 Re @andy19567064 没有关系啊，尖锐地质疑恰恰说明您是很认真地对待这些问题的。时间会让三观一致的人最终联合起来共同努力。
+
+### 27: [2021-02-23 00:44:16+08:00 推文](https://twitter.com/realcaixia/status/1363892375542759424)
+
+Re @Jason13840402 @tommygame @ZhangDong_SCH 因为我帮着转发推特上了。
+
+### 28: [2021-02-23 00:56:09+08:00 推文](https://twitter.com/realcaixia/status/1363895365146202112)
+
+Re @duojiaodu @ZhangDong_SCH @VOAYUWEN 尊重知识产权是最起码的行事底线。
 
