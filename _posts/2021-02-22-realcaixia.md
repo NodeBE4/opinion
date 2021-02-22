@@ -63,3 +63,39 @@ Re @YuShenTongXing1 人非生而知之者 ，孰能无惑？我庆幸自己终�
 
 Re @evancheung0 谢谢您的鼓励和许多网友的支持关心。我会努力的。
 
+### 13: [2021-02-22 06:44:15+08:00 推文](https://twitter.com/realcaixia/status/1363620577412579331)
+
+一些网友不清楚我的思想变化过程，请读《外交事务》杂志上这篇文章，这是我写的回顾自己20年的心路历程。我是经历了一些事情后才慢慢看清楚中共理论的虚伪卑污，看清楚这个极权体制的反人性的极度残暴。<br><br>Cai Xia: An Insider Breaks with the Chinese Communist Party <a href="https://www.foreignaffairs.com/articles/china/2020-12-04/shibaidedang" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/articles/china/2020-12-04/shibaidedang</a>
+
+### 14: [2021-02-22 06:49:29+08:00 推文](https://twitter.com/realcaixia/status/1363621897280307200)
+
+Re @kingsley3072 请看我刚发出来的推文。《外交事务》杂志2021年1期上我的一篇文章，回顾我20年的心路历程。
+
+### 15: [2021-02-22 06:50:16+08:00 推文](https://twitter.com/realcaixia/status/1363622094710444034)
+
+Re @mqmthbb 当然。
+
+### 16: [2021-02-22 07:26:19+08:00 推文](https://twitter.com/realcaixia/status/1363631166239236100)
+
+Re @louiswyn 谢谢您的鼓励🌹
+
+### 17: [2021-02-22 09:01:02+08:00 推文](https://twitter.com/realcaixia/status/1363655002238177281)
+
+Re @tping001 这是英文版翻译成中文。看来你是习惯了中共文法表述、会很不习惯英翻中保持原义的直译中文。我希望英语的世界的人都来深刻认识中国大陆的与中共的真相。老外很有兴趣深入了解中国大陆。
+
+### 18: [2021-02-22 09:07:15+08:00 推文](https://twitter.com/realcaixia/status/1363656566759694340)
+
+Re @tping001 英文版中文版发布前我都字斟句酌地看过。英文版再翻译成中文版是我请一个朋友翻译的，我们又仔细地琢磨过。你感觉中文版语法文法不通，其实是英文思维与中文思维有很大差异的原因。
+
+### 19: [2021-02-22 09:10:39+08:00 推文](https://twitter.com/realcaixia/status/1363657423001681921)
+
+Re @laosi_li 🤝🌹。确实是这样的。我在国内的其中一个微信群，绝大多数都是中共军人子弟，群里许多人与我观点一致。
+
+### 20: [2021-02-22 09:11:43+08:00 推文](https://twitter.com/realcaixia/status/1363657690371743745)
+
+Re @sunhaifeng521 国富民穷，6亿人月平均收入1000元人民币。
+
+### 21: [2021-02-22 09:14:01+08:00 推文](https://twitter.com/realcaixia/status/1363658270729252867)
+
+Re @EmmaGuo15 谢谢您和大家的关心。🌹
+
