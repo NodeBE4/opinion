@@ -127,3 +127,11 @@ Re @Jason13840402 @tommygame @ZhangDong_SCH 因为我帮着转发推特上了。
 
 Re @duojiaodu @ZhangDong_SCH @VOAYUWEN 尊重知识产权是最起码的行事底线。
 
+### 29: [2021-02-23 02:52:11+08:00 推文](https://twitter.com/realcaixia/status/1363924564250660887)
+
+Re @21centurybrake1 请问您读过我出版的哪些文字作品？您能具体说一下曾经在哪几点上毒害了您吗？我还真想看看我的文字有那么大的力量？
+
+### 30: [2021-02-23 02:53:59+08:00 推文](https://twitter.com/realcaixia/status/1363925017566859269)
+
+Re @jasonjinxiao 学谢谢您。真希望我们大陆能有越来越多的人觉醒。🌹
+
