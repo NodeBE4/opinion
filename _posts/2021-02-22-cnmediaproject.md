@@ -27,3 +27,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great work by David Bandurski, Qian Gang and t
 
 RT Christian Goebel<br>My first slide: Xi outperforming Mao in frequency of People's Daily headline mentions<br><img style src="https://pbs.twimg.com/media/Eu2OS1mXEAQvYZG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>GIGA Institute: “Stretching Boundaries: How Chief Executives Expand their #Power”: Register for #GIGA #event on #politicalleaders in democratic & authoritarian #regimes bolstering their power, 24 Feb 4pm (CET)<br> <a href="https://www.giga-hamburg.de/en/events/23570207-how-chief-executives-expand-their-power/" target="_blank" rel="noopener noreferrer">https://www.giga-hamburg.de/en/events/23570207-how-chief-executives-expand-their-power/</a>
 
+### 4: [2021-02-23 18:50:30+08:00 推文](https://twitter.com/schneiderfa77/status/1364165732062347268)
+
+RT Florian Schneider<br>If you are interested in #China's political #discourse of 2020, @niubi and @cnmediaproject<br>have put together this excellent overview of the most-used terms in PRC propaganda. Fascinating shifts in priority and in the most relevant "watch words" (提法). <a href="https://bit.ly/2NoqZIx" target="_blank" rel="noopener noreferrer">https://bit.ly/2NoqZIx</a>
+
