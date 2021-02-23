@@ -135,3 +135,11 @@ Re @21centurybrake1 请问您读过我出版的哪些文字作品？您能具体
 
 Re @jasonjinxiao 学谢谢您。真希望我们大陆能有越来越多的人觉醒。🌹
 
+### 31: [2021-02-23 10:29:27+08:00 推文](https://twitter.com/realcaixia/status/1364039641670778883)
+
+<br><img style src="https://pbs.twimg.com/media/Eu4K0H8WQAE3o3U?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4K0UjXAAgZhIB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4K0hxXAAIWeWT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4K0vaXIAEAwlD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 32: [2021-02-23 10:37:30+08:00 推文](https://twitter.com/realcaixia/status/1364041666492063745)
+
+缅甸民众抗议军事政变推翻民选政府，已经延续多天，全国局面几近失控。今日看到这一推文即想转发，不料推特把这些图片都给遮封了。幸亏我当时截图保存了。很奇怪，为何缅甸情况也要被禁封？触犯说什么敏感点？<br><img style src="https://pbs.twimg.com/media/Eu4MpvHXEAYWCkn?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4MqDpXUAc5EBg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4MqTiWgAglL5g?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4MqhmXEAAfZie?format=jpg&name=orig" referrerpolicy="no-referrer">
+
