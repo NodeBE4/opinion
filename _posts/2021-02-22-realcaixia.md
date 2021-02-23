@@ -143,3 +143,15 @@ Re @jasonjinxiao 学谢谢您。真希望我们大陆能有越来越多的人觉
 
 缅甸民众抗议军事政变推翻民选政府，已经延续多天，全国局面几近失控。今日看到这一推文即想转发，不料推特把这些图片都给遮封了。幸亏我当时截图保存了。很奇怪，为何缅甸情况也要被禁封？触犯说什么敏感点？<br><img style src="https://pbs.twimg.com/media/Eu4MpvHXEAYWCkn?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4MqDpXUAc5EBg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4MqTiWgAglL5g?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eu4MqhmXEAAfZie?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 33: [2021-02-23 10:51:02+08:00 推文](https://twitter.com/realcaixia/status/1364045071155425280)
+
+Re @bUWCHgDFa4tC77l 这是个中共网军幽灵嘛！
+
+### 34: [2021-02-23 12:21:34+08:00 推文](https://twitter.com/realcaixia/status/1364067856267300865)
+
+Re @bUWCHgDFa4tC77l 哈！
+
+### 35: [2021-02-23 12:32:33+08:00 推文](https://twitter.com/realcaixia/status/1364070618283581441)
+
+Re @niuniutou119781 江林是我的好朋友。我们在京时常聚一起聊天。人的思想不是一天裂变的，长期的读书思考是思想酝酿过程。遇到事情时，以前读的书和思考就起了作用，事情只是一个“触发点”。外交事务杂志那篇文章因为篇幅有限（他们已经给了我很大篇幅了），只能简写，2000年之前还有读书思考10多年，接触底层民众的过程
+
