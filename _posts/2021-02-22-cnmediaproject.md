@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-23
+date: 2021-02-24
 from: https://twitter.com/FerdinandSchaff/status/1363818726253092865
 layout: post
 tags:
@@ -21,7 +21,7 @@ RT Ferdinand Schaff<br>All This Talk of Independence <a href="https://chinam
 
 ### 2: [2021-02-23 00:36:03+08:00 推文](https://twitter.com/lingli_vienna/status/1363890305645350915)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great work by David Bandurski, Qian Gang and their teams. @cnmediaproject <a href="https://twitter.com/niubi/status/1363880031345336330" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1363880031345336330</a>
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great work by David Bandurski, Qian Gang and their teams. @cnmediaproject<br><br>Bill Bishop: And very happy to announce that “In 2021, Sinocism and the CMP will also cooperate on monthly reports for Sinocism subscribers looking at leading trends in Chinese official discourse.”<br> <a href="https://twitter.com/niubi/status/1363867112180232200" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1363867112180232200</a>
 
 ### 3: [2021-02-23 01:35:31+08:00 推文](https://twitter.com/Chri5tianGoebel/status/1363905271320489993)
 
@@ -30,4 +30,12 @@ RT Christian Goebel<br>My first slide: Xi outperforming Mao in frequency of Pe
 ### 4: [2021-02-23 18:50:30+08:00 推文](https://twitter.com/schneiderfa77/status/1364165732062347268)
 
 RT Florian Schneider<br>If you are interested in #China's political #discourse of 2020, @niubi and @cnmediaproject<br>have put together this excellent overview of the most-used terms in PRC propaganda. Fascinating shifts in priority and in the most relevant "watch words" (提法). <a href="https://bit.ly/2NoqZIx" target="_blank" rel="noopener noreferrer">https://bit.ly/2NoqZIx</a>
+
+### 5: [2021-02-24 17:55:18+08:00 推文](https://twitter.com/cnmediaproject/status/1364514227910803457)
+
+"Thoughts on a Dark Year": CMP's translation of the recent letter from journalist Gao Yu on a tough 2020, and what it says about where media are now. <a href="https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/</a><br><img style src="https://pbs.twimg.com/media/Eu-6auHXUAAb3zA?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-02-24 18:30:04+08:00 推文](https://twitter.com/cnmediaproject/status/1364522978088804355)
+
+After state media outrage over the UK Ofcom decision, and rejection of the view that the objects of CCTV/CGTN are "mainly of a political nature," it's fascinating to see the five-year anniversary coverage of Xi Jinping's 2016 media speech. <a href="https://chinamediaproject.org/2021/02/24/revisiting-chinas-media-policy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/24/revisiting-chinas-media-policy/</a>
 
