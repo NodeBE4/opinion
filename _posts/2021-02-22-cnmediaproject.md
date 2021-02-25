@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-02-24
+date: 2021-02-25
 from: https://twitter.com/FerdinandSchaff/status/1363818726253092865
 layout: post
 tags:
@@ -38,4 +38,16 @@ RT Florian Schneider<br>If you are interested in #China's political #discourse
 ### 6: [2021-02-24 18:30:04+08:00 推文](https://twitter.com/cnmediaproject/status/1364522978088804355)
 
 After state media outrage over the UK Ofcom decision, and rejection of the view that the objects of CCTV/CGTN are "mainly of a political nature," it's fascinating to see the five-year anniversary coverage of Xi Jinping's 2016 media speech. <a href="https://chinamediaproject.org/2021/02/24/revisiting-chinas-media-policy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/24/revisiting-chinas-media-policy/</a>
+
+### 7: [2021-02-25 18:14:45+08:00 推文](https://twitter.com/cnmediaproject/status/1364881512173363201)
+
+Re @PM_Thornton If you believe it hard enough, across a sufficient number of official news pages, it must be true. <a href="https://chinamediaproject.org/2021/01/29/propaganda-soars-into-orbit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/29/propaganda-soars-into-orbit/</a>
+
+### 8: [2021-02-25 18:16:12+08:00 推文](https://twitter.com/cnmediaproject/status/1364881877644025859)
+
+For those who missed it, our discussion and translation of the letter posted online by Caixin deputy editor Gao Yu on the state of journalism in China. <a href="https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/</a>
+
+### 9: [2021-02-25 20:04:14+08:00 推文](https://twitter.com/cnmediaproject/status/1364909063381860353)
+
+Are you a foreigner hankering to be a part of the official CCP policy of "telling China's story well"? Our translation of an advertisement for the Chongqing city channel "iChongqing." <a href="https://chinamediaproject.org/2021/02/25/hiring-globally-for-chinas-voice/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/25/hiring-globally-for-chinas-voice/</a><br><img style src="https://pbs.twimg.com/media/EvEhVH4XEAQXy50?format=jpg&name=orig" referrerpolicy="no-referrer">
 
