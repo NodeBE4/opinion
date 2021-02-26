@@ -163,3 +163,23 @@ Re @niuniutou119781 江林是我的好朋友。我们在京时常聚一起聊天
 
 十有八九是中共网军攻击光传媒网。可见光传媒网打痛了邪恶的极权统治。<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【紧急公告】<br><br>光传媒网站数小时前突然不能登录，<br>目前仍在抢救中。<br>感谢大家的支持，我们将一如既往地提供最新咨询和各类文章，关注中国、推动民主、打造全球华人思想平台是我们努力的方向，不会因为黑恶拦住而停止。<br><br>思想如光熠熠生辉<br>照亮黑暗冲破专制<br><br>2021年2月26日10:00AM·ETM<br>
 
+### 38: [2021-02-27 01:31:06+08:00 推文](https://twitter.com/realcaixia/status/1365353712122789889)
+
+今天是中国民俗春节的正月十五元宵节。看到国内群里朋友们传野夫老弟的这幅好对联，特转推。祝我们所有三观一致的师友们网友们：元宵节快乐🏮！<br><img style src="https://pbs.twimg.com/media/EvK19mOXcAgC5v8?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 39: [2021-02-27 01:36:36+08:00 推文](https://twitter.com/realcaixia/status/1365355095207075840)
+
+Re @pRjizZtcEnbr3zd 🌹🙏
+
+### 40: [2021-02-27 01:45:00+08:00 推文](https://twitter.com/realcaixia/status/1365357207915794435)
+
+Re @ST850106 也㊗️您全家元宵节快乐！合家安康。🌹🌹🙏
+
+### 41: [2021-02-27 01:45:33+08:00 推文](https://twitter.com/realcaixia/status/1365357347405766668)
+
+Re @DarrenHu3 您好。元宵节快乐🏮
+
+### 42: [2021-02-27 01:46:42+08:00 推文](https://twitter.com/realcaixia/status/1365357635617386502)
+
+Re @ZYJ_777 没有关系啊，不打不相识嘛。😄元宵节快乐🏮🎉
+
