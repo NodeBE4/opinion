@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-25
+date: 2021-02-27
 from: https://twitter.com/realcaixia/status/1363521691335467017
 layout: post
 tags:
@@ -158,4 +158,8 @@ Re @niuniutou119781 江林是我的好朋友。我们在京时常聚一起聊天
 ### 36: [2021-02-25 05:13:55+08:00 推文](https://twitter.com/realcaixia/status/1364685007718125570)
 
 中共国城市高楼大厦、高速公路成网、高铁风驰电掣；央视新闻里处处经济繁荣社会和谐；春晚颂歌高唱、缤纷绚丽。这就是中共显摆给各国老外看的中国模式风光表面。然而，中国农村是中国模式的“里子”。“里子”衰败至此，面子能撑多久？<br><img style src="https://pbs.twimg.com/media/EvBVxI5XUAI0TCF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvBVxWwWgAMPrJ-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvBVxjIWYAEzS7h?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvBVxzKXUAEVsKL?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 37: [2021-02-27 00:59:24+08:00 推文](https://twitter.com/realcaixia/status/1365345734678183938)
+
+十有八九是中共网军攻击光传媒网。可见光传媒网打痛了邪恶的极权统治。<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【紧急公告】<br><br>光传媒网站数小时前突然不能登录，<br>目前仍在抢救中。<br>感谢大家的支持，我们将一如既往地提供最新咨询和各类文章，关注中国、推动民主、打造全球华人思想平台是我们努力的方向，不会因为黑恶拦住而停止。<br><br>思想如光熠熠生辉<br>照亮黑暗冲破专制<br><br>2021年2月26日10:00AM·ETM<br>
 
