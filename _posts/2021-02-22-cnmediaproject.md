@@ -47,7 +47,11 @@ Re @PM_Thornton If you believe it hard enough, across a sufficient number of off
 
 For those who missed it, our discussion and translation of the letter posted online by Caixin deputy editor Gao Yu on the state of journalism in China. <a href="https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/</a>
 
-### 9: [2021-02-25 20:04:14+08:00 推文](https://twitter.com/cnmediaproject/status/1364909063381860353)
+### 9: [2021-02-25 18:58:29+08:00 推文](https://twitter.com/xinwenxiaojie/status/1364892516441591815)
+
+RT Yuen Chan<br>Students who attended @cityjournalism panel on Future of China Reporting might be interested in this (tho it's more related to future of Chinese reporting).<br><br>China Media Project: For those who missed it, our discussion and translation of the letter posted online by Caixin deputy editor Gao Yu on the state of journalism in China.<br> <a href="https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/24/thoughts-on-a-dark-year/</a>
+
+### 10: [2021-02-25 20:04:14+08:00 推文](https://twitter.com/cnmediaproject/status/1364909063381860353)
 
 Are you a foreigner hankering to be a part of the official CCP policy of "telling China's story well"? Our translation of an advertisement for the Chongqing city channel "iChongqing." <a href="https://chinamediaproject.org/2021/02/25/hiring-globally-for-chinas-voice/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/25/hiring-globally-for-chinas-voice/</a><br><img style src="https://pbs.twimg.com/media/EvEhVH4XEAQXy50?format=jpg&name=orig" referrerpolicy="no-referrer">
 
