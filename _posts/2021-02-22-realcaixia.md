@@ -199,3 +199,11 @@ Re @zhiganglei1 @HIoVYPWGkYW8GB9 也㊗️您阖家安康幸福🏮🏮🏮
 
 问得好！带血的商品用得心安吗？<br><br>韩连潮: 【与纳粹国自由贸易】我在美国会经委会期间接受了奥地利学派及自由贸易立场，常和同仁定期学习讨论；当时我反对给中共最惠国，所以一个困扰问题是，应否与纳粹国自由贸易，无人给出满意回答。美候任贸易代表戴琦称中共是竞争对手也是贸易伙伴； 问题还是应否把搞种族灭绝以美为敌的党国作为贸易伙伴？<br><br><img style src="https://pbs.twimg.com/media/EvPKaDoXYAAS11p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 47: [2021-02-28 20:20:14+08:00 推文](https://twitter.com/realcaixia/status/1366000254240325634)
+
+Re @wulala1990lala 你少来冒充新疆人！卑鄙无耻！居然不让曝光邪恶势力的罪行！邪恶当局肆无忌惮地迫害少数民族，你不谴责还指责揭露罪恶的人。你这是帮着魔鬼作恶。
+
+### 48: [2021-02-28 20:29:46+08:00 推文](https://twitter.com/realcaixia/status/1366002652061040641)
+
+Re @InnocentZhu 与中共国贸易就是拿美元继续支持中共剥削中国民众。中共国的世界工厂建立在廉价劳动力成本的基础之上。
+
