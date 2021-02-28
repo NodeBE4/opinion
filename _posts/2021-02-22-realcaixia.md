@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-02-27
+date: 2021-02-28
 from: https://twitter.com/realcaixia/status/1363521691335467017
 layout: post
 tags:
@@ -194,4 +194,8 @@ Re @rskpoXc0rG42LSO @gongtianxia 👍
 ### 45: [2021-02-27 10:18:25+08:00 推文](https://twitter.com/realcaixia/status/1365486415027580929)
 
 Re @zhiganglei1 @HIoVYPWGkYW8GB9 也㊗️您阖家安康幸福🏮🏮🏮
+
+### 46: [2021-02-28 07:01:45+08:00 推文](https://twitter.com/realcaixia/status/1365799312136024068)
+
+问得好！带血的商品用得心安吗？<br><br>韩连潮: 【与纳粹国自由贸易】我在美国会经委会期间接受了奥地利学派及自由贸易立场，常和同仁定期学习讨论；当时我反对给中共最惠国，所以一个困扰问题是，应否与纳粹国自由贸易，无人给出满意回答。美候任贸易代表戴琦称中共是竞争对手也是贸易伙伴； 问题还是应否把搞种族灭绝以美为敌的党国作为贸易伙伴？<br><br><img style src="https://pbs.twimg.com/media/EvPKaDoXYAAS11p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
