@@ -27,3 +27,7 @@ title: 'Twitter @蔡霞: 2021-03-01~2021-03-07'
 
 斯伯丁将军的这个访谈相当好。转发推荐，希望读到这个访谈的网友越多越好。<br>美退役空军准将：中共不代表中国人民 | 斯伯丁 | 大纪元 <a href="https://www.epochtimes.com/gb/21/2/24/n12771145.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/21/2/24/n12771145.htm</a>
 
+### 4: [2021-03-01 11:10:31+08:00 推文](https://twitter.com/realcaixia/status/1366224301385482244)
+
+北京的六四，中国人心中永远的痛，眼见缅甸重演六四，军队屠杀平民是不可饶恕的罪！<br><br>财经冷眼: 今天缅军在首都仰光大规模开枪射杀抗议的平民，缅甸的六四来了！<br><br><video src="https://video.twimg.com/ext_tw_video/1365471563357827072/pu/vid/512x272/cqauugNfe4TTcZ-C.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1365471563357827072/pu/img/DGNKvfy7C7fu72dt.jpg"></video>
+
