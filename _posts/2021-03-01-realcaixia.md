@@ -23,3 +23,7 @@ title: 'Twitter @蔡霞: 2021-03-01~2021-03-07'
 
 王靖宇因质疑中共当局隐瞒中印边境冲突真相与质疑中国军人伤亡的真实数字而被当作罪犯网上追捕他，以他父母为人质逼迫他回国。<br>请关注VOA的这篇报道。<br>“限你三天内回国自首”：00后因言获罪，父母被警察监视居住 <a href="https://www.voachinese.com/a/big-brother-wants-you-chinese-teens-living-abroad-harassed-for-online-posts-2021227/5794945.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/big-brother-wants-you-chinese-teens-living-abroad-harassed-for-online-posts-2021227/5794945.html</a>
 
+### 3: [2021-03-01 08:38:47+08:00 推文](https://twitter.com/realcaixia/status/1366186116865474563)
+
+斯伯丁将军的这个访谈相当好。转发推荐，希望读到这个访谈的网友越多越好。<br>美退役空军准将：中共不代表中国人民 | 斯伯丁 | 大纪元 <a href="https://www.epochtimes.com/gb/21/2/24/n12771145.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/21/2/24/n12771145.htm</a>
+
