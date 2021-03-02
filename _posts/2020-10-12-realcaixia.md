@@ -29,7 +29,7 @@ Re 3、中共司法当局明知无证据、无事实根据、无法律依据，�
 
 ### 4: [2020-10-13 08:00:08+08:00 推文](https://twitter.com/realcaixia/status/1315804478453489670)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  中国正在酝酿表面叫付乡镇长兼派出所长，实质是派出所所长兼任副乡镇长的所谓“改革”。这标志着中共国进一步强化警察治国。1，今年7月中国将400万辅警转为正式编制，使警察总数达到600万之多。扩张政府人员编制意味大幅度增加财政支出，等于纳税人交钱给强权加强监视控制自己。（请接着看下几条推文）<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkKtML8X0AEAvlu?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKtML8X0AEAvlu?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKtML-XcAAcwu6?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKtML-XcAAcwu6?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKtML9WAAAYaps?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKtML9WAAAYaps?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 8:00:08 AM</small>
+中国正在酝酿表面叫付乡镇长兼派出所长，实质是派出所所长兼任副乡镇长的所谓“改革”。这标志着中共国进一步强化警察治国。1，今年7月中国将400万辅警转为正式编制，使警察总数达到600万之多。扩张政府人员编制意味大幅度增加财政支出，等于纳税人交钱给强权加强监视控制自己。（请接着看下几条推文） <br><img src="https://pbs.twimg.com/media/EkKtML8X0AEAvlu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKtML-XcAAcwu6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKtML9WAAAYaps?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2020-10-13 08:03:57+08:00 推文](https://twitter.com/realcaixia/status/1315805439360225281)
 
@@ -49,7 +49,7 @@ Re 4，这意味着，中国自上而下通过强化警察在政府系统中的�
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
