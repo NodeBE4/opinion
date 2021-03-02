@@ -43,3 +43,7 @@ title: 'Twitter @蔡霞: 2021-03-01~2021-03-07'
 
 对香港民主人士抓监庭审治罪，震动世界。曾经保障民主自由权利具世界前列的香港，如今成了暴政统治的恐怖世界；曾经高度繁荣热闹的香港如今成了死气沉沉游客绝踪的窒息世界；曾经是世界金融中心之一的香港如今成了金融危坑之地。曾经承诺的“50年不变”而今23年面目全非，香港变成炼狱。<br><br>美国之音中文网: 香港47名民主活动人士星期一(3月1日)上午11点在西九龙裁判法院首次出庭。多国驻港外交人员都来到庭审现场外声援被捕活动人士。英国驻香港总领事馆领事韦俊辉(Jonathan Williams)指出，中港当局曾承诺，国安法只会被非常有限地使用，现在看起来显然并非如此。<br><br><video src="https://video.twimg.com/amplify_video/1366464736171352069/vid/720x720/pQn09Yw4wqqsUjVq.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Evat3SSXEAA_yyK?format=jpg&name=orig"></video>
 
+### 8: [2021-03-02 11:58:32+08:00 推文](https://twitter.com/realcaixia/status/1366598773024165888)
+
+最高层想搞啥，啥就成运动。 “运动”是中共惯用方式，地方政府谋政绩，科技江湖混混儿骗国家巨款，糊弄不了就猝死。“运动治国”本质上就是“大跃进”重演的权力意志游戏。60年前的大跃进中国人抵进去3000多万人命；现在的大跃进动辄抵进去千亿元，糟蹋中国人的血汗钱，追责吗？！ <a href="https://3g.163.com/money/article/G42QFSVQ00258105.html" target="_blank" rel="noopener noreferrer">https://3g.163.com/money/article/G42QFSVQ00258105.html</a>
+
