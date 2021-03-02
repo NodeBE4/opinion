@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-01
+date: 2021-03-02
 from: https://twitter.com/realcaixia/status/1366056939684265985
 layout: post
 tags:
@@ -30,4 +30,16 @@ title: 'Twitter @蔡霞: 2021-03-01~2021-03-07'
 ### 4: [2021-03-01 11:10:31+08:00 推文](https://twitter.com/realcaixia/status/1366224301385482244)
 
 北京的六四，中国人心中永远的痛，眼见缅甸重演六四，军队屠杀平民是不可饶恕的罪！<br><br>财经冷眼: 今天缅军在首都仰光大规模开枪射杀抗议的平民，缅甸的六四来了！<br><br><video src="https://video.twimg.com/ext_tw_video/1365471563357827072/pu/vid/512x272/cqauugNfe4TTcZ-C.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1365471563357827072/pu/img/DGNKvfy7C7fu72dt.jpg"></video>
+
+### 5: [2021-03-02 06:29:36+08:00 推文](https://twitter.com/realcaixia/status/1366515996190769152)
+
+中共赤裸裸地以言治罪，根本不在乎所谓“党”“国家”起码的政治伦理，显其极权统治之本质。遑论中国著名法学教授许章润；遑论有数百万粉丝的“蜡笔小球”；更遑论王靖宇这样稚气未脱的无名年轻人，即便各国大媒体记者都动辄被抓，以泄中共报复心理，以敲诈恐吓记者与所在国政府，活脱脱的黑社会恐怖国家。<br><br>ZHANGDONG: 当今为何正常思考正常行动的人越来越少？遑论文人许章润，即便像网名“蜡笔小球”和大男孩王靖宇这类小人物竟也会因网络言论被揪小辫子而获罪！党国大兴文字狱，哪里还有正常人发声渠道？鮑老举哀钟沛璋先生，也是对当下举国窒息的谴责。<br>推荐高瑜女士佳文：读鲍彤举哀钟沛璋书<br><br><img style src="https://pbs.twimg.com/media/EvbBlL2XAAEltUa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvbBliqXMAUVpYE?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.ipkmedia.com/%e9%ab%98%e7%91%9c%ef%bc%9a%e8%af%bb%e9%b2%8d%e5%bd%a4%e4%b8%be%e5%93%80%e9%92%9f%e6%b2%9b%e7%92%8b%e4%b9%a6-2/" target="_blank" rel="noopener noreferrer">https://www.ipkmedia.com/%e9%ab%98%e7%91%9c%ef%bc%9a%e8%af%bb%e9%b2%8d%e5%bd%a4%e4%b8%be%e5%93%80%e9%92%9f%e6%b2%9b%e7%92%8b%e4%b9%a6-2/</a>
+
+### 6: [2021-03-02 06:35:31+08:00 推文](https://twitter.com/realcaixia/status/1366517485785280522)
+
+声援香港民众，捍卫自由权利。<br><br>美国之音中文网: 香港47名民主活动人士星期一（3月1日）被提堂。一天前，他们被控“串谋颠覆国家政权罪”，并被通宵扣押。<br><br>当天一早，大批民众在西九龙裁判法院外声援被捕人士，他们手持写有“释放政治犯”、“撑手足”的标语，高喊“五大诉求，缺一不可”等口号。<br><br><video src="https://video.twimg.com/amplify_video/1366429339252908035/vid/720x720/gXTnGDCcAi2bwfNk.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/EvaM_j5XAAcScok?format=jpg&name=orig"></video> <a href="https://www.voachinese.com/a/5796001.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/5796001.html</a>
+
+### 7: [2021-03-02 06:49:32+08:00 推文](https://twitter.com/realcaixia/status/1366521013283016715)
+
+对香港民主人士抓监庭审治罪，震动世界。曾经保障民主自由权利具世界前列的香港，如今成了暴政统治的恐怖世界；曾经高度繁荣热闹的香港如今成了死气沉沉游客绝踪的窒息世界；曾经是世界金融中心之一的香港如今成了金融危坑之地。曾经承诺的“50年不变”而今23年面目全非，香港变成炼狱。<br><br>美国之音中文网: 香港47名民主活动人士星期一(3月1日)上午11点在西九龙裁判法院首次出庭。多国驻港外交人员都来到庭审现场外声援被捕活动人士。英国驻香港总领事馆领事韦俊辉(Jonathan Williams)指出，中港当局曾承诺，国安法只会被非常有限地使用，现在看起来显然并非如此。<br><br><video src="https://video.twimg.com/amplify_video/1366464736171352069/vid/720x720/pQn09Yw4wqqsUjVq.mp4?tag=13" controls="controls" poster="https://pbs.twimg.com/media/Evat3SSXEAA_yyK?format=jpg&name=orig"></video>
 
