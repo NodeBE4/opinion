@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-03
+date: 2021-03-04
 from: https://twitter.com/realcaixia/status/1366056939684265985
 layout: post
 tags:
@@ -58,4 +58,28 @@ Re 华西村这信息在国内已经“全网失踪”。越失踪越引人注�
 ### 11: [2021-03-03 03:46:22+08:00 推文](https://twitter.com/realcaixia/status/1366837302299869190)
 
 Re @jsbrwxc 那是电视直播法庭公开审判。四人帮好像没有一个当庭公开认罪的。
+
+### 12: [2021-03-03 23:55:15+08:00 推文](https://twitter.com/realcaixia/status/1367141527441539072)
+
+中共的“敏感”日子越来越多，常规的敏感日子：两会、6.4、10.1、胡耀邦与赵紫阳忌日，其余的视每年情况临时增加敏感日。中共每到敏感日之前，必安排好“敏感人”，以防出“情况”。而且，中共的敏感人名单不断加长。前几年钱多时，警察陪着“敏感人”出京旅游，现在没钱了或许上门“站岗”“警告”多了。<br><br>郭于华: 章诒和先生发圈：昨天警察上门“看看”我，这是两会前的一种防范，也是惯例。以前从未来过，现在把我这个老人也列入了。我告诉他们：我是持不同政见者。——害怕什么？<br><br><img style src="https://pbs.twimg.com/media/EvitOw-VgAIoBPX?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-03-04 00:08:50+08:00 推文](https://twitter.com/realcaixia/status/1367144946424242180)
+
+Re 每到敏感日前，各地必派下级官员到京，协助北京大规模驱赶访民。迫于压力，这些“截访”官员必须参与驱赶、捆绑、虐待、连哄带恐吓访民的行动。有良知的官员内心充满罪感，不断地自我谴责。我有一个老同学曾经被派到北京执行“截访”。我请她吃饭时，她说她内心受不了，当时就眼泪汪汪，回去后不久辞职了。
+
+### 14: [2021-03-04 00:17:56+08:00 推文](https://twitter.com/realcaixia/status/1367147237730623488)
+
+Re 几年后，我去当地参加同学50周年聚会，得知我的这位老同学回去后很长一段时间陷于精神抑郁状态，老同学们都为她担忧，但谁都不敢当面提起。大陆有良知人士，无论你在体制内还是在体制外，都是这类残暴统治的受害者。
+
+### 15: [2021-03-04 02:17:31+08:00 推文](https://twitter.com/realcaixia/status/1367177332855832578)
+
+Re @miqilin6 正是心痛死伤官兵，才会追问真实的数字。印度对死亡的印军官兵，以英雄待之安葬。中共政府隐瞒死伤官兵数字，那些死亡的官兵连个数字都算不上，何来该有的中国军人尊严与尊敬？！究竟谁对死伤官兵没良心？中共拿平民孩子当炮灰，他们有一个官二代当兵守边境吗？官兵尸骨未寒，中共就给印度提供贷款！<br><img style src="https://pbs.twimg.com/media/EvkwiF1XYAQ7Q32?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvkwiF7WYAEGJO2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvkwiF1WQAIoBZ6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvkwiF2XYAUb6vs?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-03-04 02:50:10+08:00 推文](https://twitter.com/realcaixia/status/1367185549258346497)
+
+Re @lisongyang2015 谢谢您提示，我刚才查百度，果然有不少消息。不知是一直都有呢，还是中间确有一段时间封闭了消息但后来又把消息开放了？我是听一位自媒体人在油管上评论华西村这事，说华西村消息已经被消失了。我就加了后面这段话。这要怪我没有核查，做事不细致。感谢您的纠正。🌹
+
+### 17: [2021-03-04 02:57:35+08:00 推文](https://twitter.com/realcaixia/status/1367187416503758849)
+
+Re @WangLiujing 谢谢您，我刚才查了一下百度，发现果然还有。不知是曾经被封锁了而后又打开了消息呢，还是从来就没有封锁过？此前是听油管一自媒体人评论此事时说的，当时没有查核就发了这段话。以后我会查验一下再转发。感谢您的提示。🌹
 
