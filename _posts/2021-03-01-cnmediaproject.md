@@ -43,3 +43,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>I will just say it:<br><br>What @CarlMinzner @
 
 Re @sehof Adding "educated acquiescence" to our China vocabulary . . .
 
+### 8: [2021-03-04 23:12:26+08:00 推文](https://twitter.com/RollandNadege/status/1367493142388342793)
+
+RT Nadège Rolland<br>This is such an essential resource! <br>The Decoding China Dictionary, a lexicon of terms officially used by the PRC ostensibly similar to the ones used by liberal democracies, but with profoundly different meanings. <a href="https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf" target="_blank" rel="noopener noreferrer">https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf</a>
+
