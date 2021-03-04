@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-03
+date: 2021-03-04
 from: https://twitter.com/Junmai1103/status/1366225585379282948
 layout: post
 tags:
@@ -38,4 +38,8 @@ RT Carl Minzner<br>(1/x) China's flagship Party paper @PDChina steadily rampin
 ### 6: [2021-03-03 16:35:22+08:00 推文](https://twitter.com/lingli_vienna/status/1367030830728626178)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>I will just say it:<br><br>What @CarlMinzner @cnmediaproject @niubi @PM_Thornton & others have astutely observed and meticulously recorded/analyzed here points only to one direction:<br><br>Launch of Xi Jinping Thought <br>Revival of Party Chairmanship<br><br>in 2022<br><br>A trope used before & well.<br><br>Carl Minzner: (1/x) China's flagship Party paper @PDChina steadily ramping up singular focus on Xi Jinping.  Two more lengthy articles in today's paper.<br><br>Building on points made by @cnmediaproject and @niubi, let me point out two specific trends I see.<br>
+
+### 7: [2021-03-04 15:56:48+08:00 推文](https://twitter.com/cnmediaproject/status/1367383510407933952)
+
+Re @sehof Adding "educated acquiescence" to our China vocabulary . . .
 
