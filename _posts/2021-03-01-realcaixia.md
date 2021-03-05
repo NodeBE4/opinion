@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-05
+date: 2021-03-06
 from: https://twitter.com/realcaixia/status/1366056939684265985
 layout: post
 tags:
@@ -106,4 +106,12 @@ Re @WangLiujing 谢谢您，我刚才查了一下百度，发现果然还有。�
 ### 23: [2021-03-05 12:47:05+08:00 推文](https://twitter.com/realcaixia/status/1367698155823894531)
 
 前一条推文说到中国大陆50年前以言治罪，枪杀了遇罗克。现在类似文革的某种运动有可能再次重演。没有深刻的思考，就没有尽力制止文革灾难再次发生的自觉意识。再推荐一篇反思控诉文革的力作：林达老师的《已经消失的中国“犹太人群体》，文章长无法完整推出，特推荐搜寻路径。<br><img style src="https://pbs.twimg.com/media/EvsKNevXIAEEfO1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsKNraXAAAAAvq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsKN7KXYAEJJhU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsKOMeXYAEMN0q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2021-03-06 01:38:27+08:00 推文](https://twitter.com/realcaixia/status/1367892275376820224)
+
+汪洋报告表明香港将不复存在“两制”。既然敢于公然不在乎国际舆论不在乎国际关系，那么，下一个劫难或许就将落到台湾人民头上。<br><br>ZHANGDONG: “中央已下定决心从根本上改变香港政治‘游戏规则’。”<br>这意味着，中国向国际社会正式宣告：中共已下定决心从根本上终止香港的“一国两制”，曾经许诺的“50年不变”正式毁约。<br>翻手为云，覆手为雨。一个没有诚信的政府必将会被国际社会孤立抛弃！<br><br><img style src="https://pbs.twimg.com/media/EvuJstHXcAIpR4A?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-03-06 02:27:35+08:00 推文](https://twitter.com/realcaixia/status/1367904639996280835)
+
+Re @pRjizZtcEnbr3zd 你这是道听途说吧？国防大学就是国防大学，国防大学就在中央党校附近，我去过不止一次。与电子学院不是一个学校。
 
