@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-04
+date: 2021-03-05
 from: https://twitter.com/Junmai1103/status/1366225585379282948
 layout: post
 tags:
@@ -46,4 +46,28 @@ Re @sehof Adding "educated acquiescence" to our China vocabulary . . .
 ### 8: [2021-03-04 23:12:26+08:00 推文](https://twitter.com/RollandNadege/status/1367493142388342793)
 
 RT Nadège Rolland<br>This is such an essential resource! <br>The Decoding China Dictionary, a lexicon of terms officially used by the PRC ostensibly similar to the ones used by liberal democracies, but with profoundly different meanings. <a href="https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf" target="_blank" rel="noopener noreferrer">https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf</a>
+
+### 9: [2021-03-05 15:17:29+08:00 推文](https://twitter.com/AlexDukalskis/status/1367736005340651520)
+
+RT Alex Dukalskis<br>"I think for the CCP (Chinese Communist Party), they really want to remove the voices that they don't like to hear."<br><br>-@ChongJaIan on Hong Kong <a href="https://www.bbc.co.uk/news/world-asia-china-56264117" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-56264117</a>
+
+### 10: [2021-03-05 16:51:23+08:00 推文](https://twitter.com/cnmediaproject/status/1367759637332819971)
+
+The Spider Reweaves the Web: our deep-dive into the recent Cyberspace Administration regulations on public accounts  -- and what they tell us about trends in media control. <a href="https://chinamediaproject.org/2021/03/05/the-spider-reweaves-the-web/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/05/the-spider-reweaves-the-web/</a><br><img style src="https://pbs.twimg.com/media/EvtCH-0XEAAmnPb?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-03-05 17:16:27+08:00 推文](https://twitter.com/cnmediaproject/status/1367765944978837506)
+
+Re The demand here is not just that platforms behave in terms of content regulation, but that they work “actively” to strengthen the presence of Party-state voices in the “self-media” space, ensuring that the Party’s views and agendas are mainstreamed.
+
+### 12: [2021-03-05 17:21:41+08:00 推文](https://twitter.com/cnmediaproject/status/1367767260996247553)
+
+Re Building the Party’s traditional influence over public opinion into the changing information landscape is a major priority, not least because the leadership has recognized mere restrictions on content, the cat-and-mouse game between censor and censored, is counter-productive.
+
+### 13: [2021-03-05 17:22:26+08:00 推文](https://twitter.com/cnmediaproject/status/1367767448087375872)
+
+Re As one scholar explained the dilemma four years ago: "When relevant departments block and restrict public opinion arbitrarily ... this lowers the effectiveness of news and opinion guidance, or even renders it ineffective, ultimately impacting the credibility of the government."
+
+### 14: [2021-03-05 17:37:41+08:00 推文](https://twitter.com/cnmediaproject/status/1367771287582617600)
+
+One of the perks of major political meetings like the annual <br>"two sessions" of the NPC and CPPCC . . . . Overwrought fonts, usually red and gold, glistening with the light of two suns. And so it is at People's Daily Online.<br><img style src="https://pbs.twimg.com/media/EvtMlZ_XYAA64ZV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
