@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-04
+date: 2021-03-05
 from: https://twitter.com/realcaixia/status/1366056939684265985
 layout: post
 tags:
@@ -82,4 +82,24 @@ Re @lisongyang2015 谢谢您提示，我刚才查百度，果然有不少消息�
 ### 17: [2021-03-04 02:57:35+08:00 推文](https://twitter.com/realcaixia/status/1367187416503758849)
 
 Re @WangLiujing 谢谢您，我刚才查了一下百度，发现果然还有。不知是曾经被封锁了而后又打开了消息呢，还是从来就没有封锁过？此前是听油管一自媒体人评论此事时说的，当时没有查核就发了这段话。以后我会查验一下再转发。感谢您的提示。🌹
+
+### 18: [2021-03-05 10:59:16+08:00 推文](https://twitter.com/realcaixia/status/1367671022632189953)
+
+一年了，似乎外界得不到任何方斌的消息，令人揪心。我们不能忘记方彬，不能放弃寻找方斌。借用一段名言：“为众人抱薪者，不可使其冻毙于风雪；为自由开辟道路者，不可使其困顿于荆棘”。方斌究竟在哪里？<br><br>珊珊來遲: 武漢方斌，被中共非法抓捕了這麼久，也幾乎沒有什麼關注度，大家還記得他嗎？<br><br><video src="https://video.twimg.com/ext_tw_video/1302236741101780992/pu/vid/720x576/58qJkSG2WH5YVT1S.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1302236741101780992/pu/img/qQjjlJhZU48ml8oR.jpg"></video>
+
+### 19: [2021-03-05 12:07:13+08:00 推文](https://twitter.com/realcaixia/status/1367688120574111749)
+
+国内微信群出现下面这三个信息，难道是再演“正宗”文革的标志？1970年3月5号，遇罗克与另外19位所谓政治犯被判死刑并被执行枪决，遇罗克写文章批驳反动“血统论”、控诉人以出身成分定等级，就被枪决，他们遇难50周年了！50岁以下的大陆人不知文革是啥样，或将亲身经历再一场浩劫？历史真会演两次悲剧？！<br><img style src="https://pbs.twimg.com/media/EvsBFYeXYAAhDf8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsBFogXcAIZmE4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsBF6RXIAAH5C5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-03-05 12:22:13+08:00 推文](https://twitter.com/realcaixia/status/1367691898408865794)
+
+林达：已经消失的中国“犹太人群体” _爱思想 <a href="https://m.aisixiang.com/data/39161.html" target="_blank" rel="noopener noreferrer">https://m.aisixiang.com/data/39161.html</a>
+
+### 21: [2021-03-05 12:27:34+08:00 推文](https://twitter.com/realcaixia/status/1367693245531230208)
+
+林达：已经消失的中国“犹太人群体” _爱思想 <a href="http://m.aisixiang.com/data/39161.html" target="_blank" rel="noopener noreferrer">http://m.aisixiang.com/data/39161.html</a>
+
+### 22: [2021-03-05 12:29:48+08:00 推文](https://twitter.com/realcaixia/status/1367693807869952000)
+
+请看林达老师的这篇文章：这是反思文革最有思想深度的文章之一<br>林达：已经消失的中国“犹太人群体” _爱思想本文链接： <a href="http://m.aisixiang.com/data/39161.html" target="_blank" rel="noopener noreferrer">http://m.aisixiang.com/data/39161.html</a> <a href="http://m.aisixiang.com/data/39161.html" target="_blank" rel="noopener noreferrer">http://m.aisixiang.com/data/39161.html</a>
 
