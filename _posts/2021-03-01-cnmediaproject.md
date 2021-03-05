@@ -47,51 +47,63 @@ Re @sehof Adding "educated acquiescence" to our China vocabulary . . .
 
 RT Nadège Rolland<br>This is such an essential resource! <br>The Decoding China Dictionary, a lexicon of terms officially used by the PRC ostensibly similar to the ones used by liberal democracies, but with profoundly different meanings. <a href="https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf" target="_blank" rel="noopener noreferrer">https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf</a>
 
-### 9: [2021-03-05 15:17:29+08:00 推文](https://twitter.com/AlexDukalskis/status/1367736005340651520)
+### 9: [2021-03-05 14:38:19+08:00 推文](https://twitter.com/SPCmonitor/status/1367726146679279616)
+
+RT Susan Finder<br>How the Supreme People’s Court Coordinates With Other Party & State Organs <a href="http://supremepeoplescourtmonitor.com/2021/03/05/how-the-supreme-peoples-court-coordinates-with-other-party-and-state-organs/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2021/03/05/how-the-supreme-peoples-court-coordinates-with-other-party-and-state-organs/</a>
+
+### 10: [2021-03-05 15:17:29+08:00 推文](https://twitter.com/AlexDukalskis/status/1367736005340651520)
 
 RT Alex Dukalskis<br>"I think for the CCP (Chinese Communist Party), they really want to remove the voices that they don't like to hear."<br><br>-@ChongJaIan on Hong Kong <a href="https://www.bbc.co.uk/news/world-asia-china-56264117" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-56264117</a>
 
-### 10: [2021-03-05 16:51:23+08:00 推文](https://twitter.com/cnmediaproject/status/1367759637332819971)
+### 11: [2021-03-05 16:51:23+08:00 推文](https://twitter.com/cnmediaproject/status/1367759637332819971)
 
 The Spider Reweaves the Web: our deep-dive into the recent Cyberspace Administration regulations on public accounts  -- and what they tell us about trends in media control. <a href="https://chinamediaproject.org/2021/03/05/the-spider-reweaves-the-web/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/05/the-spider-reweaves-the-web/</a><br><img style src="https://pbs.twimg.com/media/EvtCH-0XEAAmnPb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 11: [2021-03-05 17:16:27+08:00 推文](https://twitter.com/cnmediaproject/status/1367765944978837506)
+### 12: [2021-03-05 17:16:27+08:00 推文](https://twitter.com/cnmediaproject/status/1367765944978837506)
 
 Re The demand here is not just that platforms behave in terms of content regulation, but that they work “actively” to strengthen the presence of Party-state voices in the “self-media” space, ensuring that the Party’s views and agendas are mainstreamed.
 
-### 12: [2021-03-05 17:21:41+08:00 推文](https://twitter.com/cnmediaproject/status/1367767260996247553)
+### 13: [2021-03-05 17:21:41+08:00 推文](https://twitter.com/cnmediaproject/status/1367767260996247553)
 
 Re Building the Party’s traditional influence over public opinion into the changing information landscape is a major priority, not least because the leadership has recognized mere restrictions on content, the cat-and-mouse game between censor and censored, is counter-productive.
 
-### 13: [2021-03-05 17:22:26+08:00 推文](https://twitter.com/cnmediaproject/status/1367767448087375872)
+### 14: [2021-03-05 17:22:26+08:00 推文](https://twitter.com/cnmediaproject/status/1367767448087375872)
 
 Re As one scholar explained the dilemma four years ago: "When relevant departments block and restrict public opinion arbitrarily ... this lowers the effectiveness of news and opinion guidance, or even renders it ineffective, ultimately impacting the credibility of the government."
 
-### 14: [2021-03-05 17:37:41+08:00 推文](https://twitter.com/cnmediaproject/status/1367771287582617600)
+### 15: [2021-03-05 17:37:41+08:00 推文](https://twitter.com/cnmediaproject/status/1367771287582617600)
 
 One of the perks of major political meetings like the annual <br>"two sessions" of the NPC and CPPCC . . . . Overwrought fonts, usually red and gold, glistening with the light of two suns. And so it is at People's Daily Online.<br><img style src="https://pbs.twimg.com/media/EvtMlZ_XYAA64ZV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 15: [2021-03-05 17:42:56+08:00 推文](https://twitter.com/cnmediaproject/status/1367772609539104770)
+### 16: [2021-03-05 17:42:56+08:00 推文](https://twitter.com/cnmediaproject/status/1367772609539104770)
 
 Re The headlines to the right follow closely the line-up on the People's Daily newspaper, leading with Xi Jinping's opening of the "two sessions."<br><img style src="https://pbs.twimg.com/media/EvtN7KPXcAcnRbk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 16: [2021-03-05 17:45:48+08:00 推文](https://twitter.com/cnmediaproject/status/1367773328547676162)
+### 17: [2021-03-05 17:45:48+08:00 推文](https://twitter.com/cnmediaproject/status/1367773328547676162)
 
 Re And this is also a day on which Party paper layout staff have even less need than usual to make choices. The People's Daily and the People's Daily (overseas edition).<br><img style src="https://pbs.twimg.com/media/EvtOjdGWQAIbao6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 17: [2021-03-05 17:53:05+08:00 推文](https://twitter.com/cnmediaproject/status/1367775161093664770)
+### 18: [2021-03-05 17:53:05+08:00 推文](https://twitter.com/cnmediaproject/status/1367775161093664770)
 
 Re More variety surely at the provincial and municipal levels, right?  Wrong. Nanfang Daily, the official mouthpiece of the Guangdong CCP Committee, and Beijing Daily, the same of the BJ municipal CCP Committee. Papers published 2,000 km apart.<br><img style src="https://pbs.twimg.com/media/EvtQPfBXIAMgtq3?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 18: [2021-03-05 17:55:46+08:00 推文](https://twitter.com/cnmediaproject/status/1367775838599528448)
+### 19: [2021-03-05 17:55:46+08:00 推文](https://twitter.com/cnmediaproject/status/1367775838599528448)
 
 Re The commercial spin-offs, or 子报 (lit. "child papers") have just a bit more leeway. And they do use it, sparingly. Here is Southern Metropolis Daily, under the Nanfang Daily Group.<br><img style src="https://pbs.twimg.com/media/EvtQ3PhXcAM3boc?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 19: [2021-03-05 18:01:06+08:00 推文](https://twitter.com/cnmediaproject/status/1367777181154373636)
+### 20: [2021-03-05 18:01:06+08:00 推文](https://twitter.com/cnmediaproject/status/1367777181154373636)
 
 Re On the NFDB front-page you can see that the story about the opening of the session leads, with primary mention of Xi. But the biggest headline below the photo is for news that changes will be proposed to the Hong Kong electoral system. More regional relevance down south.<br><img style src="https://pbs.twimg.com/media/EvtR6luWgAAPZL4?format=png&name=orig" referrerpolicy="no-referrer">
 
-### 20: [2021-03-05 18:25:31+08:00 推文](https://twitter.com/cnmediaproject/status/1367783323595116544)
+### 21: [2021-03-05 18:25:31+08:00 推文](https://twitter.com/cnmediaproject/status/1367783323595116544)
 
 Re Such teases of variety are overwhelmed by sameness today. Here are the "party papers" (党报) of Fujian, Yunnan, Liaoning, Xinjiang, Gansu, Henan, Hunan and Shanghai.<br><img style src="https://pbs.twimg.com/media/EvtXpt8XAAMNtfY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 22: [2021-03-05 18:44:29+08:00 推文](https://twitter.com/cnmediaproject/status/1367788097367334915)
+
+Re @luigiluib Prizes to the scholar who reads all of them first.
+
+### 23: [2021-03-05 18:52:30+08:00 推文](https://twitter.com/cnmediaproject/status/1367790116320796673)
+
+Re @luigiluib To wit, that was our point. 😆
 
