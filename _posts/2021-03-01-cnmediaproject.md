@@ -71,3 +71,27 @@ Re As one scholar explained the dilemma four years ago: "When relevant departmen
 
 One of the perks of major political meetings like the annual <br>"two sessions" of the NPC and CPPCC . . . . Overwrought fonts, usually red and gold, glistening with the light of two suns. And so it is at People's Daily Online.<br><img style src="https://pbs.twimg.com/media/EvtMlZ_XYAA64ZV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 15: [2021-03-05 17:42:56+08:00 推文](https://twitter.com/cnmediaproject/status/1367772609539104770)
+
+Re The headlines to the right follow closely the line-up on the People's Daily newspaper, leading with Xi Jinping's opening of the "two sessions."<br><img style src="https://pbs.twimg.com/media/EvtN7KPXcAcnRbk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-03-05 17:45:48+08:00 推文](https://twitter.com/cnmediaproject/status/1367773328547676162)
+
+Re And this is also a day on which Party paper layout staff have even less need than usual to make choices. The People's Daily and the People's Daily (overseas edition).<br><img style src="https://pbs.twimg.com/media/EvtOjdGWQAIbao6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-03-05 17:53:05+08:00 推文](https://twitter.com/cnmediaproject/status/1367775161093664770)
+
+Re More variety surely at the provincial and municipal levels, right?  Wrong. Nanfang Daily, the official mouthpiece of the Guangdong CCP Committee, and Beijing Daily, the same of the BJ municipal CCP Committee. Papers published 2,000 km apart.<br><img style src="https://pbs.twimg.com/media/EvtQPfBXIAMgtq3?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-03-05 17:55:46+08:00 推文](https://twitter.com/cnmediaproject/status/1367775838599528448)
+
+Re The commercial spin-offs, or 子报 (lit. "child papers") have just a bit more leeway. And they do use it, sparingly. Here is Southern Metropolis Daily, under the Nanfang Daily Group.<br><img style src="https://pbs.twimg.com/media/EvtQ3PhXcAM3boc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-03-05 18:01:06+08:00 推文](https://twitter.com/cnmediaproject/status/1367777181154373636)
+
+Re On the NFDB front-page you can see that the story about the opening of the session leads, with primary mention of Xi. But the biggest headline below the photo is for news that changes will be proposed to the Hong Kong electoral system. More regional relevance down south.<br><img style src="https://pbs.twimg.com/media/EvtR6luWgAAPZL4?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-03-05 18:25:31+08:00 推文](https://twitter.com/cnmediaproject/status/1367783323595116544)
+
+Re Such teases of variety are overwhelmed by sameness today. Here are the "party papers" (党报) of Fujian, Yunnan, Liaoning, Xinjiang, Gansu, Henan, Hunan and Shanghai.<br><img style src="https://pbs.twimg.com/media/EvtXpt8XAAMNtfY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
