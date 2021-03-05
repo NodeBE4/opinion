@@ -103,3 +103,7 @@ Re @WangLiujing 谢谢您，我刚才查了一下百度，发现果然还有。�
 
 请看林达老师的这篇文章：这是反思文革最有思想深度的文章之一<br>林达：已经消失的中国“犹太人群体” _爱思想本文链接： <a href="http://m.aisixiang.com/data/39161.html" target="_blank" rel="noopener noreferrer">http://m.aisixiang.com/data/39161.html</a> <a href="http://m.aisixiang.com/data/39161.html" target="_blank" rel="noopener noreferrer">http://m.aisixiang.com/data/39161.html</a>
 
+### 23: [2021-03-05 12:47:05+08:00 推文](https://twitter.com/realcaixia/status/1367698155823894531)
+
+前一条推文说到中国大陆50年前以言治罪，枪杀了遇罗克。现在类似文革的某种运动有可能再次重演。没有深刻的思考，就没有尽力制止文革灾难再次发生的自觉意识。再推荐一篇反思控诉文革的力作：林达老师的《已经消失的中国“犹太人群体》，文章长无法完整推出，特推荐搜寻路径。<br><img style src="https://pbs.twimg.com/media/EvsKNevXIAEEfO1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsKNraXAAAAAvq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsKN7KXYAEJJhU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvsKOMeXYAEMN0q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
