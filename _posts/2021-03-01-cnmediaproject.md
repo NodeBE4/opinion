@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-05
+date: 2021-03-06
 from: https://twitter.com/Junmai1103/status/1366225585379282948
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re @luigiluib Prizes to the scholar who reads all of them first.
 ### 23: [2021-03-05 18:52:30+08:00 推文](https://twitter.com/cnmediaproject/status/1367790116320796673)
 
 Re @luigiluib To wit, that was our point. 😆
+
+### 24: [2021-03-06 19:07:14+08:00 推文](https://twitter.com/ulywang/status/1368156210210299907)
+
+RT Wang Feng 王丰<br>Hu Xijin quoting Korean American Evangelical 'news' site quoting Canadian anti-abortion site quoting US anti-vaccine site quoting German lawyer who threatened to sue the WHO for 'misleading the world over the severity of the COVID-19 pandemic'... <a href="https://news.sina.com.cn/c/2021-03-06/doc-ikknscsh8675600.shtml" target="_blank" rel="noopener noreferrer">https://news.sina.com.cn/c/2021-03-06/doc-ikknscsh8675600.shtml</a>
 
