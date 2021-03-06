@@ -127,3 +127,7 @@ Re @pRjizZtcEnbr3zd 你这是道听途说吧？国防大学就是国防大学，
 
 政治挂帅，政治统帅一切。经历过文革和阶级斗争为纲的年代，眼看着中国大陆这几年的变化，真感到“太阳底下无新鲜事”。以前文革发生过的事，许多50岁以下的不懂，60以上的人应该有记忆。<br><br>刘晓原: 时代不同了，就是无法律依据，法院也能做判决了。😄<br><br><img style src="https://pbs.twimg.com/media/EvtQ0S5VkAE_yGn?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 29: [2021-03-06 21:03:42+08:00 推文](https://twitter.com/realcaixia/status/1368185521768460295)
+
+这个地方政府的教育部门无良无耻到超出了常人想象的地步！居然把手伸到孩子口袋里，连人伦关系的最底线都要毁掉！权力之恶，恶到赤裸裸抢夺孩子的口袋，摧残孩子的纯真情感。这个教育局还不如直接挂个牌子叫摧残孩子局。<br><br>荣剑: 前天看到这个让孩子捐赠压岁钱的红头文件，以为是网民恶搞，今天得知原来是真的，下巴差点惊掉了。地方政府胡作非为，荒唐逼捐到了这个地步，已经超出任何正常人的想象。这个教育局局长和这个慈善总会会长，如不辞职滚蛋，他们管着的这两个衙门还有什么信用和脸面?！<br><br><img style src="https://pbs.twimg.com/media/Evy6BLPXYAYC0Jx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Evy6BYiWgAYMVB5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Evy63d9XAAwH-2p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Evy63xDXYAcAOl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+
