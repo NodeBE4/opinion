@@ -115,3 +115,15 @@ Re @WangLiujing 谢谢您，我刚才查了一下百度，发现果然还有。�
 
 Re @pRjizZtcEnbr3zd 你这是道听途说吧？国防大学就是国防大学，国防大学就在中央党校附近，我去过不止一次。与电子学院不是一个学校。
 
+### 26: [2021-03-06 12:13:13+08:00 推文](https://twitter.com/realcaixia/status/1368052018611359745)
+
+《张展的泪与血》（1）读来令人揪心地痛，痛得心都颤抖……。这位刚毅决绝的女子为了心中的信念，为了疫情中被武汉病毒夺去生命的无辜之人，在看守所、在监狱里作着赴死的抗争，其惨烈程度超出常人的想象，与所能忍受的极限。实在太不忍心张展这样的遭罪。因篇幅长，分两次推出。张展无罪！释放张展！<br><img style src="https://pbs.twimg.com/media/EvxMC1sWgAAHNGC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvxMDMrXMAMhtAg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvxMDmFXMAAMAEW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 27: [2021-03-06 12:15:14+08:00 推文](https://twitter.com/realcaixia/status/1368052526742970373)
+
+《张展的泪与血》（2）读来令人揪心地痛，痛得心都颤抖……。这位刚毅决绝的女子为了心中的信念，为了疫情中被武汉病毒夺去生命的无辜之人，在看守所、在监狱里作着赴死的抗争，其惨烈程度超出常人的想象，与所能忍受的极限。实在太不忍心张展这样的遭罪。因篇幅长，分两次推出。张展无罪！释放张展！<br><img style src="https://pbs.twimg.com/media/EvxMg5qWYAsQKtt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EvxMhQ2WgAEjecE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 28: [2021-03-06 12:29:12+08:00 推文](https://twitter.com/realcaixia/status/1368056041993306112)
+
+政治挂帅，政治统帅一切。经历过文革和阶级斗争为纲的年代，眼看着中国大陆这几年的变化，真感到“太阳底下无新鲜事”。以前文革发生过的事，许多50岁以下的不懂，60以上的人应该有记忆。<br><br>刘晓原: 时代不同了，就是无法律依据，法院也能做判决了。😄<br><br><img style src="https://pbs.twimg.com/media/EvtQ0S5VkAE_yGn?format=jpg&name=orig" referrerpolicy="no-referrer">
+
