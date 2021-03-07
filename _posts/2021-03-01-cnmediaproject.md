@@ -119,3 +119,7 @@ RT Marina Rudyak 卢玛丽<br>Our Decoding China Dictionary: A Guide to Unders
 
 RT Mathieu Duchâtel<br>The "New Era" is looking for its Edgard Snow(s). Would the Party let the new Snow spend four months inside Zhongnanhai and interview Xi Jinping?  #新时代的斯诺 <a href="https://news.cgtn.com/news/2021-03-07/China-welcomes-foreign-journalists-like-Edgar-Snow-Wang-Yi-Yrfav8Dc6Q/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-07/China-welcomes-foreign-journalists-like-Edgar-Snow-Wang-Yi-Yrfav8Dc6Q/index.html</a>
 
+### 27: [2021-03-07 22:08:52+08:00 推文](https://twitter.com/MalinOud/status/1368564307714260992)
+
+RT Malin Oud<br>China’s restrictions on overseas academic exchanges have gone too far, according to #TwoSessions2021 proposal. “It is only through keeping in touch with others that experts can get an up-to-date and objective understanding of what’s happening outside" <a href="https://www.scmp.com/news/china/diplomacy/article/3124362/chinas-restrictions-overseas-academic-exchanges-could-harm?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124362" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/diplomacy/article/3124362/chinas-restrictions-overseas-academic-exchanges-could-harm?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124362</a>
+
