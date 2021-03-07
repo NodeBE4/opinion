@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-06
+date: 2021-03-07
 from: https://twitter.com/Junmai1103/status/1366225585379282948
 layout: post
 tags:
@@ -110,4 +110,12 @@ Re @luigiluib To wit, that was our point. 😆
 ### 24: [2021-03-06 19:07:14+08:00 推文](https://twitter.com/ulywang/status/1368156210210299907)
 
 RT Wang Feng 王丰<br>Hu Xijin quoting Korean American Evangelical 'news' site quoting Canadian anti-abortion site quoting US anti-vaccine site quoting German lawyer who threatened to sue the WHO for 'misleading the world over the severity of the COVID-19 pandemic'... <a href="https://news.sina.com.cn/c/2021-03-06/doc-ikknscsh8675600.shtml" target="_blank" rel="noopener noreferrer">https://news.sina.com.cn/c/2021-03-06/doc-ikknscsh8675600.shtml</a>
+
+### 25: [2021-03-06 21:26:28+08:00 推文](https://twitter.com/RudyakMarina/status/1368191250835402755)
+
+RT Marina Rudyak 卢玛丽<br>Our Decoding China Dictionary: A Guide to Understanding the Chinese Meaning of Key Terms in International Relations and Development Cooperation has just been called an "instant classic for anybody interested in #China". <a href="https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf" target="_blank" rel="noopener noreferrer">https://rwi.lu.se/wp-content/uploads/2021/03/Decoding-China-Publication_FINAL.pdf</a><br><img style src="https://pbs.twimg.com/media/EvzI1oRXcAExQ85?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 26: [2021-03-07 19:32:23+08:00 推文](https://twitter.com/mtdtl/status/1368524929860333568)
+
+RT Mathieu Duchâtel<br>The "New Era" is looking for its Edgard Snow(s). Would the Party let the new Snow spend four months inside Zhongnanhai and interview Xi Jinping?  #新时代的斯诺 <a href="https://news.cgtn.com/news/2021-03-07/China-welcomes-foreign-journalists-like-Edgar-Snow-Wang-Yi-Yrfav8Dc6Q/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-07/China-welcomes-foreign-journalists-like-Edgar-Snow-Wang-Yi-Yrfav8Dc6Q/index.html</a>
 
