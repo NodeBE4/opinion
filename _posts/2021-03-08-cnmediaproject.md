@@ -23,3 +23,7 @@ In the first edition of The Journal of the European Association for Chinese Stud
 
 Re The next piece in the journal, p. 239, is a must-read from @NDLoubere on censorship in academic scholarship on China. "The New Censorship, the New Academic Freedom: Commercial Publishers and the Chinese Market."
 
+### 3: [2021-03-08 16:33:10+08:00 推文](https://twitter.com/cnmediaproject/status/1368842214894407680)
+
+The buzzword of the day is "high-quality development" (高质量发展). Tops PD print edition and online. In its current context the phrase dates back to the 19th National Congress of the CCP in 2017. But it has been used for decades.<br><img style src="https://pbs.twimg.com/media/Ev8aGBgXYAAyLFQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
