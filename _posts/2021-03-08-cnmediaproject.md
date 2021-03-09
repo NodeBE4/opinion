@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-08
+date: 2021-03-09
 from: https://twitter.com/cnmediaproject/status/1368810851302580224
 layout: post
 tags:
@@ -34,4 +34,28 @@ RT Graeme Smith 史林<br>Brilliant concept! Anything with @MalinOud, @RudyakM
 ### 5: [2021-03-08 23:17:17+08:00 推文](https://twitter.com/davidpaulk/status/1368943912656670720)
 
 RT David Paulk 波大卫<br>Fed up with sexist, paternalistic “well-wishes” on Girls’ Day, young women on China’s college campuses are fighting to reclaim International Women’s Day and the feminist values it was founded on. <a href="http://www.sixthtone.com/news/1006929/chinas-female-students-want-to-abolish-girls-day" target="_blank" rel="noopener noreferrer">http://www.sixthtone.com/news/1006929/chinas-female-students-want-to-abolish-girls-day</a><br><img style src="https://pbs.twimg.com/media/Ev9211hVkAY-PUn?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ev922GZVIAAt3zF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-03-09 09:47:48+08:00 推文](https://twitter.com/HernandezJavier/status/1369102587060834304)
+
+RT Javier C. Hernández<br>Excited to announce that I will soon take on a new role as @nytimes classical music & dance reporter. Grateful to my colleagues on the NYT China team for the memories, from Beijing to HK to Wuhan. Honored to join the formidable @nytimesarts team! <a href="https://bit.ly/38nCfMf" target="_blank" rel="noopener noreferrer">https://bit.ly/38nCfMf</a>
+
+### 7: [2021-03-09 14:43:00+08:00 推文](https://twitter.com/orvilleschell/status/1369176876527226886)
+
+RT Orville Schell<br>It took 35 years to complete, but my novel on the US-China conundrum, "My Old Home," comes out today from Pantheon Books. <br>Why write a novel about China? <br>Because so much of what animates this singular land is almost impossible to convey in non-fiction. <a href="https://www.amazon.com/My-Old-Home-Novel-Exile/dp/0593315812/ref=sr_1_1?dchild=1&keywords=schell&qid=1615271720&sr=8-1" target="_blank" rel="noopener noreferrer">https://www.amazon.com/My-Old-Home-Novel-Exile/dp/0593315812/ref=sr_1_1?dchild=1&keywords=schell&qid=1615271720&sr=8-1</a>
+
+### 8: [2021-03-09 16:03:21+08:00 推文](https://twitter.com/cnmediaproject/status/1369197099695407106)
+
+The X Factor: a look at the latest English-language propaganda push for China's anti-poverty "victory" and the simple message it conveys about power politics. <a href="https://chinamediaproject.org/2021/03/09/the-x-factor/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/09/the-x-factor/</a>
+
+### 9: [2021-03-09 16:05:08+08:00 推文](https://twitter.com/CarlMinzner/status/1369197546728423431)
+
+RT Carl Minzner<br>Compare @PDChina page 2020 (l) & today (r).<br><br>Main article: Opening of 2nd plenary session of nat. legislature.  Nearly identical.<br><br>But note difference. Mandatory article invoking Xi rising up from bottom.  Starting to overshadow main story.<br><br>Still just a small tweak.<br><br>Next year?<br><img style src="https://pbs.twimg.com/media/EwBZfjtU8AEYKBs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EwBZjO2UcAMTjqk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-03-09 16:10:33+08:00 推文](https://twitter.com/cnmediaproject/status/1369198909906681857)
+
+Re @orvilleschell @otherlisa Very exciting to see this new contribution with a fresh direction from one of the most seasoned observers of the US-China relationship.
+
+### 11: [2021-03-09 17:13:24+08:00 推文](https://twitter.com/mtdtl/status/1369214725544943621)
+
+RT Mathieu Duchâtel<br>Focus on China's efforts to go around ARM architecture and design chips based on open source architecture, by definition not subject to tech transfers restrictions. Promising for Huawei, Alibaba and ZTE, but clearly not "salvation". <a href="https://www.sdxcentral.com/articles/news/is-risc-v-chinas-semiconductor-salvation/2021/03/" target="_blank" rel="noopener noreferrer">https://www.sdxcentral.com/articles/news/is-risc-v-chinas-semiconductor-salvation/2021/03/</a>
 
