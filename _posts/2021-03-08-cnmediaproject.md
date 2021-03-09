@@ -59,3 +59,11 @@ Re @orvilleschell @otherlisa Very exciting to see this new contribution with a f
 
 RT Mathieu Duchâtel<br>Focus on China's efforts to go around ARM architecture and design chips based on open source architecture, by definition not subject to tech transfers restrictions. Promising for Huawei, Alibaba and ZTE, but clearly not "salvation". <a href="https://www.sdxcentral.com/articles/news/is-risc-v-chinas-semiconductor-salvation/2021/03/" target="_blank" rel="noopener noreferrer">https://www.sdxcentral.com/articles/news/is-risc-v-chinas-semiconductor-salvation/2021/03/</a>
 
+### 12: [2021-03-09 21:17:46+08:00 推文](https://twitter.com/lauriechenwords/status/1369276224267165698)
+
+RT Laurie Chen<br>Mofa summoned the British Ambassador today to make “stern representations” over an “inappropriate” essay she recently wrote, which stressed the importance of media freedoms. Mofa called the essay “full of paternalistic arrogance and ideological prejudice”:<br><br>Caroline Wilson: Seems like someone doesn’t want my article to be shared 🤔<br><br><img style src="https://pbs.twimg.com/media/Evh1mcwXEAEUF6Q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/CWilson_FCDO/status/1366682915669704708" target="_blank" rel="noopener noreferrer">https://twitter.com/CWilson_FCDO/status/1366682915669704708</a>
+
+### 13: [2021-03-09 21:24:01+08:00 推文](https://twitter.com/cnmediaproject/status/1369277798054002692)
+
+State media are now calling China's supposed eradication of extreme poverty an “earthly miracle" (人间奇迹). What can external propaganda about the campaign tell us about its core objectives? The X Factor: <a href="https://chinamediaproject.org/2021/03/09/the-x-factor/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/09/the-x-factor/</a><br><img style src="https://pbs.twimg.com/media/EwCmy7BWYAMB-Qk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
