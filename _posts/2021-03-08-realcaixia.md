@@ -91,3 +91,7 @@ Re @ZhangDong_SCH @RFI_Cn 这是德国画家画作中全球受迫害的中国女
 
 Re 希望有知道被迫害的两位中国新疆女记者情况的网友，请把她们的情况也推文发出来。极权暴政的罪恶应当被曝光于天下，她们所遭受的苦难应当为世人所知，绝揭露暴政才能让更多的人看清真相。
 
+### 20: [2021-03-09 07:52:46+08:00 推文](https://twitter.com/realcaixia/status/1369073639665074178)
+
+国际人权组织：致敬中国的勇敢女性 <a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210308-%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82-%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87-%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8B%87%E6%95%A2%E5%A5%B3%E6%80%A7" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210308-%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82-%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87-%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8B%87%E6%95%A2%E5%A5%B3%E6%80%A7</a>
+
