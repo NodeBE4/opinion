@@ -103,3 +103,11 @@ Re 希望有知道被迫害的两位中国新疆女记者情况的网友，请�
 
 China Change » Fighting Terror With Faith — The Road Walked by a Human Rights Defender’s Wife <a href="https://chinachange.org/2021/03/09/fighting-terror-with-faith-the-road-walked-by-a-human-rights-defenders-wife/" target="_blank" rel="noopener noreferrer">https://chinachange.org/2021/03/09/fighting-terror-with-faith-the-road-walked-by-a-human-rights-defenders-wife/</a>
 
+### 23: [2021-03-10 10:05:37+08:00 推文](https://twitter.com/realcaixia/status/1369469459824582657)
+
+Re @MindyShi227 应该的啊！向您致敬🌹！您的勇敢坚强就与709妻子们一样。您的女儿现在心理上还好吧？但愿中共的凶残没有给她心灵带来太多的创伤。这么小的孩子就要承受连大人都难以承受的痛苦与苦难，太不忍心了。所以要把您的遭遇告诉更多的人，唤起更多人和我们一起努力，早日结束暴政，还人们自由。
+
+### 24: [2021-03-10 10:26:17+08:00 推文](https://twitter.com/realcaixia/status/1369474660887330818)
+
+Re @MindyShi227 中共暴政迫害了许许多多的人，他们的罪恶罄竹难书！他们比希特勒法西斯更加残暴！一些欧盟国家定中共性质为跨国犯罪恐怖组织完全正确！
+
