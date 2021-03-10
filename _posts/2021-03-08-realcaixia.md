@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-10
+date: 2021-03-11
 from: https://twitter.com/realcaixia/status/1368674954355634177
 layout: post
 tags:
@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。 <a href="https://twitter.com/KKK02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/KKK02676879/status/1368738018513743873</a>
+请网友一起关注。<br><br>Jack Blue: @realcaixia 大家关注下这件事儿：<br> <a href="https://youtu.be/4_sEG0CcfTU" target="_blank" rel="noopener noreferrer">https://youtu.be/4_sEG0CcfTU</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
@@ -114,4 +114,16 @@ Re @MindyShi227 中共暴政迫害了许许多多的人，他们的罪恶罄竹�
 ### 25: [2021-03-10 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1369650640163643393)
 
 偶然看到这个推。推主提出了一个极重要、极深刻、极现实的好问题。仔细读了许多跟帖发言，好暖心！在国内时常感叹高手在民间，尽管极权打压下许多人犹如行尸走肉，几乎看不到思想的文字，但偶有缝隙便闪出或霹雳或讽喻的绝妙文章。今天这贴及留言好暖心，所有追求自由民主的力量团结起来，大陆便有希望<br><br>Theresa Liu: 以前不明白为啥中国人不能团结? 现在我想到一种可能----因为统治阶级不让我们团结。因为一旦团结起来，就不利于他们独裁统治，不利于他们推行愚民政策。<br>
+
+### 26: [2021-03-11 03:47:52+08:00 推文](https://twitter.com/realcaixia/status/1369736784570183692)
+
+这份报道中透露的细节令人震撼，中共搞种族灭绝的罪行证据确凿，“魔鬼在细节之中”！<br>国际首份独立调查报告认证：中共在新疆实施“种族灭绝” | 调查报告 | 新疆 | 维吾尔族 | 种族灭绝 | 中共 | 希望之声 <a href="https://www.soundofhope.org/post/482402" target="_blank" rel="noopener noreferrer">https://www.soundofhope.org/post/482402</a>
+
+### 27: [2021-03-11 04:45:46+08:00 推文](https://twitter.com/realcaixia/status/1369751354533683208)
+
+2018年我与长平老师有过两次畅聊。他低调，听得多说得少。睿智的人都这样，时刻不放弃独立思考，但又特别用心地倾听。这篇文章后面有访谈连续篇目链接，可以完整地读完。《南方周末》不仅是大陆首屈一指的纸媒，而且培养出一大批优秀新闻人才。但终为暴政所打压，现在的《南方周末》，早已没了脊梁。<br><br>Yaxue Cao: 近三万字的长平 @chang_ping 访谈中文版终于登完。长平的经历与中国九十年开始的改革完美平行，他的故事也完美折射了时代的本质。我们虽从头到尾一字没讨论“勇气”，但我在访谈期间及后期制作时都深深感到了这样的东西。 有英文读者说，这是他读过的来自中国记者的最好的讲述。<br> <a href="https://chinachangechinese.org/2021/03/07/%e7%ac%bc%e4%b8%ad%e8%87%aa%e7%94%b1-%e5%af%b9%e3%80%8a%e5%8d%97%e6%96%b9%e5%91%a8%e6%9c%ab%e3%80%8b%e5%89%8d%e6%96%b0%e9%97%bb%e4%b8%bb%e7%ae%a1%e9%95%bf%e5%b9%b3%e7%9a%84%e8%ae%bf%e8%b0%88/" target="_blank" rel="noopener noreferrer">https://chinachangechinese.org/2021/03/07/%e7%ac%bc%e4%b8%ad%e8%87%aa%e7%94%b1-%e5%af%b9%e3%80%8a%e5%8d%97%e6%96%b9%e5%91%a8%e6%9c%ab%e3%80%8b%e5%89%8d%e6%96%b0%e9%97%bb%e4%b8%bb%e7%ae%a1%e9%95%bf%e5%b9%b3%e7%9a%84%e8%ae%bf%e8%b0%88/</a>
+
+### 28: [2021-03-11 05:07:13+08:00 推文](https://twitter.com/realcaixia/status/1369756752716181510)
+
+为王宇呼吁！中国大陆太多太多的抗争者被突然“失联”“失踪”，但反抗从来没有停止过！<br>为暴政凶残所逼迫，许多参与抗争的朋友早就聘请了律师；早就写了“声明”：本人若上电视认罪，一定是遭受了酷刑或当局抓了家人而逼迫“认罪”，“认罪”无一字为本人自愿；若当局宣布本人自杀身亡，一定是“被自杀”……<br><br>自由亚洲电台: 王宇在事先录制好的视频中历数自己在2008年和2015年后多次被中国当局打击迫害的经历，“我（在）代理案件的过程中，也看到司法的腐败和堕落。因此，作为一个法律人，我觉得有义务推进法治。我也希望有更多的人站出来.<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xx-03082021093440.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/xx-03082021093440.html</a>
 
