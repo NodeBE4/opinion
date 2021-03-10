@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-09
+date: 2021-03-10
 from: https://twitter.com/realcaixia/status/1368674954355634177
 layout: post
 tags:
@@ -94,4 +94,12 @@ Re 希望有知道被迫害的两位中国新疆女记者情况的网友，请�
 ### 20: [2021-03-09 07:52:46+08:00 推文](https://twitter.com/realcaixia/status/1369073639665074178)
 
 国际人权组织：致敬中国的勇敢女性 <a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210308-%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82-%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87-%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8B%87%E6%95%A2%E5%A5%B3%E6%80%A7" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210308-%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82-%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87-%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%8B%87%E6%95%A2%E5%A5%B3%E6%80%A7</a>
+
+### 21: [2021-03-10 06:47:36+08:00 推文](https://twitter.com/realcaixia/status/1369419628619968512)
+
+许多海外华人同胞听说中共极权暴政，却不知究竟怎样的凶残？特转发施明磊的文章。只因她的先生做公益活动就莫名被抓，甚至她也被扣上涉嫌“煽动颠覆罪”监视居住半年。文章中许多细节叙述，非亲身经历决无法想象与体验。<br>人生触底，何须反弹？挥别过去，不必精英。 | 光传媒 <a href="https://www.ipkmedia.com/%e6%96%bd%e6%98%8e%e7%a3%8a%ef%bc%9a%e4%ba%ba%e7%94%9f%e8%a7%a6%e5%ba%95%ef%bc%8c%e4%bd%95%e9%a1%bb%e5%8f%8d%e5%bc%b9%ef%bc%9f%e6%8c%a5%e5%88%ab%e8%bf%87%e5%8e%bb%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%b2%be/" target="_blank" rel="noopener noreferrer">https://www.ipkmedia.com/%e6%96%bd%e6%98%8e%e7%a3%8a%ef%bc%9a%e4%ba%ba%e7%94%9f%e8%a7%a6%e5%ba%95%ef%bc%8c%e4%bd%95%e9%a1%bb%e5%8f%8d%e5%bc%b9%ef%bc%9f%e6%8c%a5%e5%88%ab%e8%bf%87%e5%8e%bb%ef%bc%8c%e4%b8%8d%e5%bf%85%e7%b2%be/</a>
+
+### 22: [2021-03-10 06:53:43+08:00 推文](https://twitter.com/realcaixia/status/1369421168332115968)
+
+China Change » Fighting Terror With Faith — The Road Walked by a Human Rights Defender’s Wife <a href="https://chinachange.org/2021/03/09/fighting-terror-with-faith-the-road-walked-by-a-human-rights-defenders-wife/" target="_blank" rel="noopener noreferrer">https://chinachange.org/2021/03/09/fighting-terror-with-faith-the-road-walked-by-a-human-rights-defenders-wife/</a>
 
