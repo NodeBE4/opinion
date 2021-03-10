@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。<br><br>Jack Blue: @realcaixia 大家关注下这件事儿：<br> <a href="https://youtu.be/4_sEG0CcfTU" target="_blank" rel="noopener noreferrer">https://youtu.be/4_sEG0CcfTU</a>
+请网友一起关注。 <a href="https://twitter.com/KKK02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/KKK02676879/status/1368738018513743873</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
@@ -110,4 +110,8 @@ Re @MindyShi227 应该的啊！向您致敬🌹！您的勇敢坚强就与709妻
 ### 24: [2021-03-10 10:26:17+08:00 推文](https://twitter.com/realcaixia/status/1369474660887330818)
 
 Re @MindyShi227 中共暴政迫害了许许多多的人，他们的罪恶罄竹难书！他们比希特勒法西斯更加残暴！一些欧盟国家定中共性质为跨国犯罪恐怖组织完全正确！
+
+### 25: [2021-03-10 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1369650640163643393)
+
+偶然看到这个推。推主提出了一个极重要、极深刻、极现实的好问题。仔细读了许多跟帖发言，好暖心！在国内时常感叹高手在民间，尽管极权打压下许多人犹如行尸走肉，几乎看不到思想的文字，但偶有缝隙便闪出或霹雳或讽喻的绝妙文章。今天这贴及留言好暖心，所有追求自由民主的力量团结起来，大陆便有希望<br><br>Theresa Liu: 以前不明白为啥中国人不能团结? 现在我想到一种可能----因为统治阶级不让我们团结。因为一旦团结起来，就不利于他们独裁统治，不利于他们推行愚民政策。<br>
 
