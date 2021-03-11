@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-09
+date: 2021-03-11
 from: https://twitter.com/cnmediaproject/status/1368810851302580224
 layout: post
 tags:
@@ -66,4 +66,8 @@ RT Laurie Chen<br>Mofa summoned the British Ambassador today to make “stern 
 ### 13: [2021-03-09 21:24:01+08:00 推文](https://twitter.com/cnmediaproject/status/1369277798054002692)
 
 State media are now calling China's supposed eradication of extreme poverty an “earthly miracle" (人间奇迹). What can external propaganda about the campaign tell us about its core objectives? The X Factor: <a href="https://chinamediaproject.org/2021/03/09/the-x-factor/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/09/the-x-factor/</a><br><img style src="https://pbs.twimg.com/media/EwCmy7BWYAMB-Qk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-03-11 15:23:56+08:00 推文](https://twitter.com/denise_tsang/status/1369911956988166144)
+
+RT Denise Tsang<br>China’s national legislature has approved a resolution to drastically overhaul Hong Kong’s electoral system to ensure only “patriots” can rule the city, in a sweeping move critics fear will further quash opposition voices. <a href="https://www.scmp.com/news/china/politics/article/3124990/chinas-npc-approves-sweeping-changes-hong-kong-electoral-system" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3124990/chinas-npc-approves-sweeping-changes-hong-kong-electoral-system</a>
 
