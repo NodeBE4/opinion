@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。 <a href="https://twitter.com/kkk02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/kkk02676879/status/1368738018513743873</a>
+请网友一起关注。<br><br>Jack Blue: @realcaixia 大家关注下这件事儿：<br> <a href="https://youtu.be/4_sEG0CcfTU" target="_blank" rel="noopener noreferrer">https://youtu.be/4_sEG0CcfTU</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
@@ -150,4 +150,8 @@ Re @maliangyu 你去看看国际组织的调查报告，你去看看CNN的报道
 ### 34: [2021-03-11 18:08:05+08:00 推文](https://twitter.com/realcaixia/status/1369953263311859714)
 
 Re @Wesley16827262 对啊！你直接去看国际组织的调查报告去。不用在这里浪费时间
+
+### 35: [2021-03-11 20:44:24+08:00 推文](https://twitter.com/realcaixia/status/1369992601634537474)
+
+Re @maliangyu 中国普通人谁能翻墙出来上推特？你是怎么做到开推特的？
 
