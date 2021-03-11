@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-11
+date: 2021-03-12
 from: https://twitter.com/realcaixia/status/1368674954355634177
 layout: post
 tags:
@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。<br><br>Jack Blue: @realcaixia 大家关注下这件事儿：<br> <a href="https://youtu.be/4_sEG0CcfTU" target="_blank" rel="noopener noreferrer">https://youtu.be/4_sEG0CcfTU</a>
+请网友一起关注。 <a href="https://twitter.com/kkk02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/kkk02676879/status/1368738018513743873</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
@@ -154,4 +154,32 @@ Re @Wesley16827262 对啊！你直接去看国际组织的调查报告去。不�
 ### 35: [2021-03-11 20:44:24+08:00 推文](https://twitter.com/realcaixia/status/1369992601634537474)
 
 Re @maliangyu 中国普通人谁能翻墙出来上推特？你是怎么做到开推特的？
+
+### 36: [2021-03-11 22:15:39+08:00 推文](https://twitter.com/realcaixia/status/1370015568993075200)
+
+尽管遭到缅甸军方的血腥镇压，但缅甸民众的抗争还在坚持。联合国安理会发了声明，这表明国际有公论，世界支持缅甸民众。推翻民选政府，搞枪杆子维持的政权不得人心！枪杆子里面出政权是中共的信条，枪杆子政权只能是强权者的专制统治，民主选票里出政府才是人心所向。<br><br>ZHANGDONG: 周三联合国安理会发声明强烈谴责缅甸军方针对和平示威者的暴力行为。安理会在周三短暂会议后的声明中要求，必须立即释放所有被捕者，安理会呼吁军方“极端克制”。  15个成员国宣布，将继续密切监测局势。对于人权活动组织来说，只是口头谴责还远远不够。 大赦国际指责缅甸军政府对示威者使用战争武器。<br><br><img style src="https://pbs.twimg.com/media/EwMa4dZWQAIDoJC?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/SZ/status/1369880090159570945" target="_blank" rel="noopener noreferrer">https://twitter.com/SZ/status/1369880090159570945</a>
+
+### 37: [2021-03-11 22:17:30+08:00 推文](https://twitter.com/realcaixia/status/1370016031545176069)
+
+仿佛曾经的年年香港维园6.4之夜……<br><br>王剑虹 #FreeZhangZhan #释放张展: 缅甸人用烛光摆出“安息，我们的英雄”，悼念60多位献出生命的反政变示威者<br> <a href="https://twitter.com/walone4/status/1369685721586470924" target="_blank" rel="noopener noreferrer">https://twitter.com/walone4/status/1369685721586470924</a>
+
+### 38: [2021-03-11 22:20:38+08:00 推文](https://twitter.com/realcaixia/status/1370016819801694208)
+
+对一位忠于自己内心情感的年轻女性，对身患多种疾病的病人，当局竟然逮捕她，无丝毫人性。反人伦反人类。<br><br>王丹: 呼吁外界多多关注。<br> <a href="https://twitter.com/freeliqiaochu/status/1369544681588101121" target="_blank" rel="noopener noreferrer">https://twitter.com/freeliqiaochu/status/1369544681588101121</a>
+
+### 39: [2021-03-11 22:23:21+08:00 推文](https://twitter.com/realcaixia/status/1370017503620063233)
+
+每天都看到这类消息，暴政罪孽深重！我们都来关注声援王藏一家。<br><br>倪玉兰: 停止监控老人和四个年幼的孩子！保障家人最基本的生存权、发声权和室外活动的权利！<br> <a href="https://twitter.com/niyulan2013/status/1369898447646646278" target="_blank" rel="noopener noreferrer">https://twitter.com/niyulan2013/status/1369898447646646278</a>
+
+### 40: [2021-03-11 22:26:21+08:00 推文](https://twitter.com/realcaixia/status/1370018260633202693)
+
+Re @TQlhhhTRSfU8Z5x 对我做人身攻击竟然还再污黑我偏狭，你真是很能狡辩啊！
+
+### 41: [2021-03-11 22:28:22+08:00 推文](https://twitter.com/realcaixia/status/1370018767388938243)
+
+Re @TQlhhhTRSfU8Z5x 你应该摊出你的所谓知识，去证明国际组织独立调查报告不实，而不是在这里攻击我个人。
+
+### 42: [2021-03-12 01:49:48+08:00 推文](https://twitter.com/realcaixia/status/1370069460841807877)
+
+请网友们看看这个视频。这位评论人曾经是中国一所著名大学的教授。一位正直善良坚守良知的人。请听他揭露那些在推特上的五毛的真相。<br>駭人聽聞：習近平指使共青團炮製『境外極端反華言論』1170 <a href="https://youtu.be/ZC6ph3IkDRM" target="_blank" rel="noopener noreferrer">https://youtu.be/ZC6ph3IkDRM</a>
 
