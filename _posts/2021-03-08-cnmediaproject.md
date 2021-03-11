@@ -71,3 +71,11 @@ State media are now calling China's supposed eradication of extreme poverty an �
 
 RT Denise Tsang<br>China’s national legislature has approved a resolution to drastically overhaul Hong Kong’s electoral system to ensure only “patriots” can rule the city, in a sweeping move critics fear will further quash opposition voices. <a href="https://www.scmp.com/news/china/politics/article/3124990/chinas-npc-approves-sweeping-changes-hong-kong-electoral-system" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3124990/chinas-npc-approves-sweeping-changes-hong-kong-electoral-system</a>
 
+### 15: [2021-03-11 17:41:45+08:00 推文](https://twitter.com/JerkerHellstrom/status/1369946639520129024)
+
+RT Jerker Hellström<br>Speaking of 人走茶凉, don't miss the entry on democracy by @KDrinhausen in the Decoding China dictionary <br><br><br><br>@MalinOud   <br>@cnmediaproject <br>@RudyakMarina <br>@S_C_C_S_<br><img style src="https://pbs.twimg.com/media/EwMGXLKWQAIlZYv?format=png&name=orig" referrerpolicy="no-referrer"><br><br>Giulia Pompili: Two sessions, two teacups<br> <a href="https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-Xi-Jinping-s-two-cups-signal-there-s-plenty-of-hot-tea-left" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-Xi-Jinping-s-two-cups-signal-there-s-plenty-of-hot-tea-left</a>
+
+### 16: [2021-03-11 21:26:28+08:00 推文](https://twitter.com/MalinOud/status/1370003191472001030)
+
+RT Malin Oud<br>'The Decoding China Dictionary: a guide to understanding the Chinese meaning of key terms in international relations and development cooperation' is now available at <a href="http://www.decodingchina.eu/" target="_blank" rel="noopener noreferrer">http://www.decodingchina.eu</a><br><img style src="https://pbs.twimg.com/media/EwM5771XEAcINuM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
