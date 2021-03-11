@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-11
+date: 2021-03-12
 from: https://twitter.com/cnmediaproject/status/1368810851302580224
 layout: post
 tags:
@@ -78,4 +78,8 @@ RT Jerker Hellström<br>Speaking of 人走茶凉, don't miss the entry on demo
 ### 16: [2021-03-11 21:26:28+08:00 推文](https://twitter.com/MalinOud/status/1370003191472001030)
 
 RT Malin Oud<br>'The Decoding China Dictionary: a guide to understanding the Chinese meaning of key terms in international relations and development cooperation' is now available at <a href="http://www.decodingchina.eu/" target="_blank" rel="noopener noreferrer">http://www.decodingchina.eu</a><br><img style src="https://pbs.twimg.com/media/EwM5771XEAcINuM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-03-12 02:57:17+08:00 推文](https://twitter.com/isabelhilton/status/1370086440634302466)
+
+RT Isabel Hilton<br>The complete series of the investigation into China's relationship with #Venezuela. Eye opening and extraordinary work. <a href="https://dialogochino.net/en/trade-investment/40018-venezuelas-dance-with-china/" target="_blank" rel="noopener noreferrer">https://dialogochino.net/en/trade-investment/40018-venezuelas-dance-with-china/</a>
 
