@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-12
+date: 2021-03-13
 from: https://twitter.com/cnmediaproject/status/1368810851302580224
 layout: post
 tags:
@@ -90,4 +90,8 @@ Selling China's Anti-Poverty Model: CMP's look at the concerted propaganda push,
 ### 19: [2021-03-12 17:53:59+08:00 推文](https://twitter.com/cnmediaproject/status/1370312106189414402)
 
 Re Oh, and adding a commentary appearing in Canada.<br><img style src="https://pbs.twimg.com/media/EwRTlkSWEAMliTF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-03-13 01:31:17+08:00 推文](https://twitter.com/cnmediaproject/status/1370427185773871105)
+
+A look inside China's global diplomatic campaign claiming it has the secret to eliminating global poverty. <a href="https://chinamediaproject.org/2021/03/12/selling-chinas-anti-poverty-model/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/12/selling-chinas-anti-poverty-model/</a>
 
