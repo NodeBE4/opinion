@@ -83,3 +83,11 @@ RT Malin Oud<br>'The Decoding China Dictionary: a guide to understanding the C
 
 RT Isabel Hilton<br>The complete series of the investigation into China's relationship with #Venezuela. Eye opening and extraordinary work. <a href="https://dialogochino.net/en/trade-investment/40018-venezuelas-dance-with-china/" target="_blank" rel="noopener noreferrer">https://dialogochino.net/en/trade-investment/40018-venezuelas-dance-with-china/</a>
 
+### 18: [2021-03-12 17:49:10+08:00 推文](https://twitter.com/cnmediaproject/status/1370310893368655872)
+
+Selling China's Anti-Poverty Model: CMP's look at the concerted propaganda push, inside and outside, to portray China as a miracle-maker on poverty alleviation, in possession of the secret codes. <a href="https://chinamediaproject.org/2021/03/12/selling-chinas-anti-poverty-model/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/12/selling-chinas-anti-poverty-model/</a><br><img style src="https://pbs.twimg.com/media/EwRSd_aXAAAe5L9?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-03-12 17:53:59+08:00 推文](https://twitter.com/cnmediaproject/status/1370312106189414402)
+
+Re Oh, and adding a commentary appearing in Canada.<br><img style src="https://pbs.twimg.com/media/EwRTlkSWEAMliTF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
