@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。 <a href="https://twitter.com/kkk02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/kkk02676879/status/1368738018513743873</a>
+请网友一起关注。 <a href="https://twitter.com/KKK02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/KKK02676879/status/1368738018513743873</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
@@ -182,4 +182,40 @@ Re @TQlhhhTRSfU8Z5x 你应该摊出你的所谓知识，去证明国际组织独
 ### 42: [2021-03-12 01:49:48+08:00 推文](https://twitter.com/realcaixia/status/1370069460841807877)
 
 请网友们看看这个视频。这位评论人曾经是中国一所著名大学的教授。一位正直善良坚守良知的人。请听他揭露那些在推特上的五毛的真相。<br>駭人聽聞：習近平指使共青團炮製『境外極端反華言論』1170 <a href="https://youtu.be/ZC6ph3IkDRM" target="_blank" rel="noopener noreferrer">https://youtu.be/ZC6ph3IkDRM</a>
+
+### 43: [2021-03-12 09:36:40+08:00 推文](https://twitter.com/realcaixia/status/1370186949873504256)
+
+Re @maliangyu 你是在监狱里挣表现好想加分立功减刑早点出监狱的犯人吗？大陆普通人几乎不可能翻墙出来，能翻墙出来还不怕被中共处罚，出来又是替中共洗地的，无非这几类：中共网军；共青团组织的必须完成任务的粉红、五毛；还有一大类就是监狱犯人。被许可翻网当中共网上打手，挣表现好分的刑事犯。你属于哪一类？
+
+### 44: [2021-03-12 10:31:02+08:00 推文](https://twitter.com/realcaixia/status/1370200630845976578)
+
+这段音频震动了我。我是军营里长大的孩子，也曾经当兵9年多,年轻时战友几年，酿成一辈子的感情。我对战士天然有一种亲近感。当局居然不允许人们纪念中印边境冲突中牺牲的战士，不允许去看望牺牲战士的家人，太令人心寒！真把平民孩子当炮灰啊！这样对待战士，还有多少人愿意当兵？！<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【强力推荐】社区书记与退休大校关于祭奠中印边界“烈士”的录音，欢迎五毛粉红发表评价，说明<br>1.赵国强大的监听、网管技术以及严格的预防跟进机制<br>2.可怜百姓子弟变中共炮灰“为国捐躯”，死后姓名无有、葬地不知甚至连祭奠也不允许<br>3.两会变成敏感时期严格监控扰民害人，何意义<br> <a href="https://mp.weixin.qq.com/s/0KeLmfCKkyEFHDdeW46Cxw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/0KeLmfCKkyEFHDdeW46Cxw</a>
+
+### 45: [2021-03-12 10:35:42+08:00 推文](https://twitter.com/realcaixia/status/1370201807234998273)
+
+Re @MyUsernameUsed @Ipkmedia 油管上寻找一下，或许能找到吧？
+
+### 46: [2021-03-12 10:48:16+08:00 推文](https://twitter.com/realcaixia/status/1370204969551417346)
+
+Re 这段音频我也是在国内微信里听到的。当局隐瞒真实的死亡数字，还不许人去看望牺牲战士家人。那段音频有7分钟多，没有办法推上来，我只好放弃了。广传媒推特上有就转推过来，没想到被封了。是一社区居委会书记电话通知一位当兵32年转业的原大校军官不许去纪念战士。都曾经是军人，我理解转业军官的感受
+
+### 47: [2021-03-12 10:51:32+08:00 推文](https://twitter.com/realcaixia/status/1370205791144263682)
+
+Re @MarciaJ35928549 你活在黑暗里。光明照到黑暗处，光明曝光了黑暗，于是黑暗说光明有罪。
+
+### 48: [2021-03-12 11:04:28+08:00 推文](https://twitter.com/realcaixia/status/1370209044741427200)
+
+隐瞒中印边境冲突死伤数字，不允许人们纪念牺牲战士，却要逼着人去当炮灰！说保卫国家光荣，请中共党中央委员、中央常委家先带头把自己孩子孙子送到中印边境、送到新疆南疆边境，送到中朝边境。<br><img style src="https://pbs.twimg.com/media/EwP12q9WUAUMZVO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EwP13ChWEAA_wYX?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 49: [2021-03-12 11:13:41+08:00 推文](https://twitter.com/realcaixia/status/1370211365030334466)
+
+Re @Nemuranainohito 是啊，蜡笔小球就是调侃了一下全身而退的团长，追问了一下死亡数字，就被抓进监狱了。
+
+### 50: [2021-03-12 11:27:13+08:00 推文](https://twitter.com/realcaixia/status/1370214772663275520)
+
+纽约时代广场电子屏幕成了中共的宣传专栏屏幕？中共宣传光天化日下的占领美国公共空间。<br><br>美国之音中文网: 就在美国因新冠疫情导致全国关闭一周年的时刻，中国官媒新华社在纽约时报广场电子屏幕上打出中国如何“协助各国携手抗疫”的广告，引人侧目。美国国会参议员斯科特发推文说 “是时候取消这面‘中国屏幕’了。<br><br><video src="https://video.twimg.com/amplify_video/1369827159322341382/vid/720x720/hiu_Lje_zIWSt6A3.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/EwKa7rsWEAIUmGL?format=png&name=orig"></video>
+
+### 51: [2021-03-12 11:34:59+08:00 推文](https://twitter.com/realcaixia/status/1370216726223323137)
+
+中国大陆强拆民房的恶性事件几乎全国各地到处都有。政府作恶，集中体现强权之暴虐。<br><br>美国之音中文网: 强拆抗争者两会期间遭维稳 被困乡政府吞大量安眠药<br> <a href="http://dlvr.it/RvQLDv" target="_blank" rel="noopener noreferrer">http://dlvr.it/RvQLDv</a>
 

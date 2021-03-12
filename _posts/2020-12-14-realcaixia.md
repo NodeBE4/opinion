@@ -93,7 +93,7 @@ Re 据王剑YouTube说山东、天津也停电限电。
 
 ### 20: [2020-12-18 21:04:44+08:00 推文](https://twitter.com/realcaixia/status/1339919525626728448)
 
-中共帝国不顾百姓死活，总是拿伤害国内民众来硬打关税战。西方各国政府都要考虑民生，因为他们是民众选的，中共口号上好话但行动上坏事做绝，因为他们拿几千万人命抢来权力垄断权力。明知冬天民生用电量激增，但还要施加惩罚性关税，实质上他们不是砸自己的脚，是拿民众当人肉盾牌，砸烂民众他们不在乎<br><br>荣剑: 冬天是用媒高峰时期，这个时候对进口澳国煤炭设置惩罚性关税，不就是搬起石头砸自己的脚吗？<br><br><img style="" src="https://pbs.twimg.com/media/EpZwN7tU8AA0gzy?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共帝国不顾百姓死活，总是拿伤害国内民众来硬打关税战。西方各国政府都要考虑民生，因为他们是民众选的，中共口号上好话但行动上坏事做绝，因为他们拿几千万人命抢来权力垄断权力。明知冬天民生用电量激增，但还要施加惩罚性关税，实质上他们不是砸自己的脚，是拿民众当人肉盾牌，砸烂民众他们不在乎<br><br>荣剑: 冬天是用媒高峰时期，这个时候对进口澳国煤炭设置惩罚性关税，不就是搬起石头砸自己的脚吗？<br><br><img style src="https://pbs.twimg.com/media/EpZwN7tU8AA0gzy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2020-12-20 04:27:09+08:00 推文](https://twitter.com/realcaixia/status/1340393254873952256)
 
