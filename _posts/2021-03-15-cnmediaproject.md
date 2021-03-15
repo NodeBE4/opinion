@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-15
+date: 2021-03-16
 from: https://twitter.com/cnmediaproject/status/1371379152197140480
 layout: post
 tags:
@@ -30,4 +30,8 @@ Re @merics_eu @MalinOud @RWallenbergInst @KDrinhausen The China Media Project is
 ### 4: [2021-03-15 23:35:54+08:00 推文](https://twitter.com/cnmediaproject/status/1371485315534295042)
 
 What does Li Zhanshu's work report to the NPC Standing Committee tell us? David Bandurski breaks (some of) it down -- so you don't have to suffer through it. <a href="https://chinamediaproject.org/2021/03/15/what-does-li-zhanshus-report-tell-us/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/15/what-does-li-zhanshus-report-tell-us/</a><br><img style src="https://pbs.twimg.com/media/Ewh-LmmXIAMiJ4u?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-03-16 05:20:21+08:00 推文](https://twitter.com/gwbstr/status/1371571997629501445)
+
+RT Graham Webster<br>Qiushi publishes 2018 Xi Jinping speech: "Strive to become the world's main scientific center and innovation heights" 努力成为世界主要科学中心和创新高地 <br><br>#DigiChina translation to follow... <a href="http://www.qstheory.cn/dukan/qs/2021-03/15/c_1127209130.htm" target="_blank" rel="noopener noreferrer">http://www.qstheory.cn/dukan/qs/2021-03/15/c_1127209130.htm</a>
 
