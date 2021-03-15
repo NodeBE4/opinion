@@ -27,3 +27,7 @@ Re @CarlMinzner @dbandurski The appearance of "Xi Thought" permutations like "Xi
 
 Re @merics_eu @MalinOud @RWallenbergInst @KDrinhausen The China Media Project is delighted to be involved in this great endeavor. <a href="http://decodingchina.eu/" target="_blank" rel="noopener noreferrer">http://decodingchina.eu</a>
 
+### 4: [2021-03-15 23:35:54+08:00 推文](https://twitter.com/cnmediaproject/status/1371485315534295042)
+
+What does Li Zhanshu's work report to the NPC Standing Committee tell us? David Bandurski breaks (some of) it down -- so you don't have to suffer through it. <a href="https://chinamediaproject.org/2021/03/15/what-does-li-zhanshus-report-tell-us/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/15/what-does-li-zhanshus-report-tell-us/</a><br><img style src="https://pbs.twimg.com/media/Ewh-LmmXIAMiJ4u?format=jpg&name=orig" referrerpolicy="no-referrer">
+
