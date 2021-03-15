@@ -23,3 +23,7 @@ Re @CarlMinzner @dbandurski More soon from CMP on this. Yes, there is a marked i
 
 Re @CarlMinzner @dbandurski The appearance of "Xi Thought" permutations like "Xi Jinping Thought on Rule of Law" are notable -- but  interesting to see "Xi Jinping Thought on Diplomacy" actually disappear between 2020 and 2021 reports.
 
+### 3: [2021-03-15 17:27:57+08:00 推文](https://twitter.com/cnmediaproject/status/1371392718077886465)
+
+Re @merics_eu @MalinOud @RWallenbergInst @KDrinhausen The China Media Project is delighted to be involved in this great endeavor. <a href="http://decodingchina.eu/" target="_blank" rel="noopener noreferrer">http://decodingchina.eu</a>
+
