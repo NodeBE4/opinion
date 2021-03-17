@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-17
+date: 2021-03-18
 from: https://twitter.com/cnmediaproject/status/1371379152197140480
 layout: post
 tags:
@@ -58,4 +58,12 @@ RT Zhaoyin Feng 馮兆音<br>Shaken.<br><br>Xinyan Yu: What a horrific story
 ### 11: [2021-03-17 21:37:46+08:00 推文](https://twitter.com/cnmediaproject/status/1372180362303045636)
 
 In the People's Daily today, a very revealing feature on the paper's nearly 4,500 "media drops" in foreign media just during the recent NPC. This campaign would have cost a fortune. See for yourself: <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&_thumbnail_id=46953" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&_thumbnail_id=46953</a><br><img style src="https://pbs.twimg.com/media/Ewr2uHaWgAIZE9g?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-03-18 00:31:40+08:00 推文](https://twitter.com/cnmediaproject/status/1372224123074658304)
+
+The CCP's flagship newspaper boasts about 4,500 "media drops" in overseas media during the recent National People's Congress, and offers a tip-of-the-iceberg glimpse into external propaganda efforts. <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/</a><br><img style src="https://pbs.twimg.com/media/Ewseg6kWEAEgaeU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-03-18 03:46:12+08:00 推文](https://twitter.com/xinwenxiaojie/status/1372273081096540172)
+
+RT Yuen Chan<br>Journalists and journalism students, please read:<br><br>Michelle Ye Hee Lee: We’re troubleshooting @AAJA website, which is crashing from the traffic after we released guidance on covering the Atlanta shooting. It’ll be back up shortly, but please share these screenshots in the meantime.<br><br><img style src="https://pbs.twimg.com/media/Ews8L8SWQAY5cPH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ews8L8QWgAURv-y?format=jpg&name=orig" referrerpolicy="no-referrer">
 

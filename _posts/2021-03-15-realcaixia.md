@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-17
+date: 2021-03-18
 from: https://twitter.com/realcaixia/status/1371850971308040196
 layout: post
 tags:
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-03-15~2021-03-21'
 
 ### 3: [2021-03-17 22:47:24+08:00 推文](https://twitter.com/realcaixia/status/1372197884452569096)
 
-一个推主在我前面转推的狂沙大作小视频跟帖下说：我就在这里，没那么可怕。可是现在我转发的是这个推主自己先转推出的场景视频。这个推主自相矛盾。怎么回事？是接到上峰指令不许妄议“一刮风沙就北宋”吗？<br><br>Uncle LEE 2025: <br><br><video src="https://video.twimg.com/ext_tw_video/1371325271874277377/pu/vid/720x720/9PYBLiUfHuvxLl-E.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1371325271874277377/pu/img/-BfLFaMjR2sRb1Cc.jpg"></video>
+一个推主在我前面转推的狂沙大作小视频跟帖下说：我就在这里，没那么可怕。可是现在我转发的是这个推主自己先转推出的场景视频。这个推主自相矛盾。怎么回事？是接到上峰指令不许妄议“一刮风沙就北宋”吗？ <a href="https://twitter.com/toxw1xla08q3ctt/status/1371340364758589440" target="_blank" rel="noopener noreferrer">https://twitter.com/toxw1xla08q3ctt/status/1371340364758589440</a>
 
 ### 4: [2021-03-17 22:50:54+08:00 推文](https://twitter.com/realcaixia/status/1372198767257063425)
 
@@ -50,4 +50,8 @@ Re @toXW1Xla08Q3CtT 我转发了你转推的北京天安门狂沙大作视频。
 ### 9: [2021-03-17 23:21:28+08:00 推文](https://twitter.com/realcaixia/status/1372206456582369283)
 
 Re @flyme26 你给出个2010年蒙古国沙尘影响香港的链接来吧？！互联网可是有记忆的。我查过了，没有你说的消息，你是臆想天开呢？还是瞎话呢？你把你说的消息网络链接发出来吧，来证明你的话是真的。
+
+### 10: [2021-03-18 05:09:53+08:00 推文](https://twitter.com/realcaixia/status/1372294141200244742)
+
+精彩访谈。<br><br>余茂春:美中战略竞争没有双赢|观点 <a href="https://youtu.be/B0oU-rv2_gQ" target="_blank" rel="noopener noreferrer">https://youtu.be/B0oU-rv2_gQ</a>
 
