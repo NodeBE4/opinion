@@ -43,3 +43,19 @@ RT Chris Fraser<br>“Hong Kong risks losing its standing as a vibrant place f
 
 RT Susan Finder<br>Joint MOE/MOJ document approving 15 law schools to run these programs, with headcount limitations<br><img style src="https://pbs.twimg.com/media/Ewo1XVvVIAAKhGZ?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ewo1riRVEAkwFzK?format=png&name=orig" referrerpolicy="no-referrer"><br><br>Susan Finder: Chinese law schools rush to set up masters degrees in being a lawyer specializing in foreign-related matters, this is ECUPL's, SHUPL has already set up its 华东政法大学法律硕士专业学位（涉外律师<br> <a href="https://mp.weixin.qq.com/s/yCJnDZvGpw1g8hAdycEvvQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/yCJnDZvGpw1g8hAdycEvvQ</a>
 
+### 8: [2021-03-17 15:39:51+08:00 推文](https://twitter.com/mtdtl/status/1372090287955316736)
+
+RT Mathieu Duchâtel<br>EU’s COVID travel pass draft "stresses EU countries can choose to accept Russian and Chinese vaccines at their own discretion". Are we not going to address China's decision to relax entry restrictions for foreigners inoculated with Chinese vaccine only? <a href="https://www.politico.eu/article/digital-green-certificate-proposal-leaves-eu-countries-in-the-driving-seat-coronavirus-passport/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/digital-green-certificate-proposal-leaves-eu-countries-in-the-driving-seat-coronavirus-passport/</a>
+
+### 9: [2021-03-17 16:33:12+08:00 推文](https://twitter.com/Bkerrychina/status/1372103711972069376)
+
+RT Kerry Brown<br>The brutal murder of Asian American women in the US last night is a shocking manifestation of the mindless racial hatred which has been intensifying lately. Everyone working in the area of Europe/US/Asia relations has to make a stand here. This must stop ✋.
+
+### 10: [2021-03-17 21:31:14+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1372178717032734722)
+
+RT Zhaoyin Feng 馮兆音<br>Shaken.<br><br>Xinyan Yu: What a horrific story. I'm heartbroken, speechless and angry. Hate crimes against Asians are not just people getting cursed at, pushed or spat on. It's about time we take it seriously.<br> <a href="https://apnews.com/article/georgia-massage-parlor-shooting-8-dead-9e39706c523c733a6d83d9baf4866154" target="_blank" rel="noopener noreferrer">https://apnews.com/article/georgia-massage-parlor-shooting-8-dead-9e39706c523c733a6d83d9baf4866154</a>
+
+### 11: [2021-03-17 21:37:46+08:00 推文](https://twitter.com/cnmediaproject/status/1372180362303045636)
+
+In the People's Daily today, a very revealing feature on the paper's nearly 4,500 "media drops" in foreign media just during the recent NPC. This campaign would have cost a fortune. See for yourself: <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&_thumbnail_id=46953" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&_thumbnail_id=46953</a><br><img style src="https://pbs.twimg.com/media/Ewr2uHaWgAIZE9g?format=jpg&name=orig" referrerpolicy="no-referrer">
+
