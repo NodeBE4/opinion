@@ -67,3 +67,11 @@ The CCP's flagship newspaper boasts about 4,500 "media drops" in overseas media 
 
 RT Yuen Chan<br>Journalists and journalism students, please read:<br><br>Michelle Ye Hee Lee: We’re troubleshooting @AAJA website, which is crashing from the traffic after we released guidance on covering the Atlanta shooting. It’ll be back up shortly, but please share these screenshots in the meantime.<br><br><img style src="https://pbs.twimg.com/media/Ews8L8SWQAY5cPH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ews8L8QWgAURv-y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 14: [2021-03-18 11:04:54+08:00 推文](https://twitter.com/myhlee/status/1372383483146997762)
+
+RT Michelle Ye Hee Lee<br>So, today was the first day that @AAJA's website crashed in 9 years (when we issued media guidance on the ESPN/Jeremy Lin headline). Really grateful for the journalists determined to get news coverage right, and for those who turned to AAJA for our expertise.
+
+### 15: [2021-03-18 14:41:56+08:00 推文](https://twitter.com/Junmai1103/status/1372438099750309889)
+
+RT Jun Mai<br>Xi once worried about the internet but now sees it as a tool to empower China <a href="https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124107" target="_blank" rel="noopener noreferrer">https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124107</a>
+
