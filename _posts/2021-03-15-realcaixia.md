@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-18
+date: 2021-03-19
 from: https://twitter.com/realcaixia/status/1371850971308040196
 layout: post
 tags:
@@ -54,4 +54,28 @@ Re @flyme26 你给出个2010年蒙古国沙尘影响香港的链接来吧？！�
 ### 10: [2021-03-18 05:09:53+08:00 推文](https://twitter.com/realcaixia/status/1372294141200244742)
 
 精彩访谈。<br><br>余茂春:美中战略竞争没有双赢|观点 <a href="https://youtu.be/B0oU-rv2_gQ" target="_blank" rel="noopener noreferrer">https://youtu.be/B0oU-rv2_gQ</a>
+
+### 11: [2021-03-18 22:28:29+08:00 推文](https://twitter.com/realcaixia/status/1372555513603502082)
+
+这是我3天前写的一个影评短文。赵婷的《无依之地》获得金球奖，正有希望问鼎奥斯卡奖，引起许多人的关注，也有许多影评文章。我凑个热闹，把我对这部影片的初步感受写了一个小短文。现推出来与有兴趣的推友分享交流。<br>404共和国 |蔡霞：美国精神：爱，独立与自由 <a href="https://www.rfa.org/mandarin/pinglun/404gongheguo/404-03172021171146.html/ampRFA" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/404gongheguo/404-03172021171146.html/ampRFA</a>
+
+### 12: [2021-03-18 22:31:57+08:00 推文](https://twitter.com/realcaixia/status/1372556385599246342)
+
+这是我3天前写的一个影评短文。赵婷的《无依之地》获得金球奖，正有希望问鼎奥斯卡奖，引起许多人的关注，也有许多影评文章。我凑个热闹，把我对这部影片的初步感受写了一个小短文。现推出来与有兴趣的推友分享交流。<br>404共和国 |蔡霞：美国精神：爱，独立与自由 <a href="http://rfa.org/mandarin/pingl" target="_blank" rel="noopener noreferrer">http://rfa.org/mandarin/pingl</a><br><img style src="https://pbs.twimg.com/media/EwxMwX8WEAAJBTY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-03-18 22:51:28+08:00 推文](https://twitter.com/realcaixia/status/1372561294788857868)
+
+Re @PingWon70094352 啊,真抱歉。我记忆出错了。谢谢您指出。我看了《那山那人那狗》也是印象很深。艺术片常令人越品越有感觉。
+
+### 14: [2021-03-18 23:59:06+08:00 推文](https://twitter.com/realcaixia/status/1372578316587253761)
+
+Re @JohnCheungMM 这类都是无聊猜测，在这些无聊猜测上花功夫值得吗？
+
+### 15: [2021-03-18 23:59:30+08:00 推文](https://twitter.com/realcaixia/status/1372578417175060480)
+
+Re @Gavin21591233 谢谢您的关心。
+
+### 16: [2021-03-19 00:27:27+08:00 推文](https://twitter.com/realcaixia/status/1372585452440539140)
+
+404共和国 |蔡霞：美国精神：爱，独立与自由 <a href="https://www.rfa.org/mandarin/pinglun/404gongheguo/404-03172021171146.html/ampRFA" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/404gongheguo/404-03172021171146.html/ampRFA</a>
 
