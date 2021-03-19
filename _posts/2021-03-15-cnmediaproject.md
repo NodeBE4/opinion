@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-19
+date: 2021-03-20
 from: https://twitter.com/cnmediaproject/status/1371379152197140480
 layout: post
 tags:
@@ -75,11 +75,27 @@ RT Michelle Ye Hee Lee<br>So, today was the first day that @AAJA's website cra
 
 RT Jun Mai<br>Xi once worried about the internet but now sees it as a tool to empower China <a href="https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124107" target="_blank" rel="noopener noreferrer">https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124107</a>
 
-### 16: [2021-03-19 20:14:14+08:00 推文](https://twitter.com/cnmediaproject/status/1372884115456987145)
+### 16: [2021-03-19 18:41:58+08:00 推文](https://twitter.com/PeterMartin_PCM/status/1372860893936111619)
+
+RT Peter Martin<br>You’re likely to read a lot of hot takes on the US-China talks in Alaska that explain China’s behavior in terms of Xi's “overreach”<br><br>That’s a fine explanation, but only takes us part of the way. The truth is: China’s had wolf warriors as long as the PRC has had diplomats. THREAD
+
+### 17: [2021-03-19 20:14:14+08:00 推文](https://twitter.com/cnmediaproject/status/1372884115456987145)
 
 Multiplayer Diplomacy: Thoughts on the China-US talks, and what new terms like "bandwagoning" (带节奏), drawn from online gaming, tell us about the importance of domestic grandstanding in China's foreign policy. <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a><br><img style src="https://pbs.twimg.com/media/Ew12wJaXAAEi733?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 17: [2021-03-19 20:32:32+08:00 推文](https://twitter.com/MareikeOhlberg/status/1372888719775174659)
+### 18: [2021-03-19 20:32:32+08:00 推文](https://twitter.com/MareikeOhlberg/status/1372888719775174659)
 
 RT Mareike Ohlberg<br>People often wonder if Chinese party-state media employees use a VPN to access Twitter. No. They have a dedicated direct line. This type of access denied to most Chinese people is also mentioned frequently in public procurement documents.<br><img style src="https://pbs.twimg.com/media/Ew162W0XAAA2lJ4?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-03-19 22:37:32+08:00 推文](https://twitter.com/cnmediaproject/status/1372920178619654147)
+
+Our look at the People's Daily paper on the US-China talks, contrasted with the provocative nature of viral content for domestic audiences -- including this image on the PD official Weibo comparing the Boxer Protocol with what happened yesterday. <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a><br><img style src="https://pbs.twimg.com/media/Ew2XnTdXIAASpaf?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-03-20 00:28:26+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1372948085513539585)
+
+RT Zhaoyin Feng 馮兆音<br>Seen on Weibo. Graphic by People's Daily<br><img style src="https://pbs.twimg.com/media/Ew2w4r6WQAcXuEk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2021-03-20 00:46:58+08:00 推文](https://twitter.com/cnmediaproject/status/1372952750342963203)
+
+Re <br><img style src="https://pbs.twimg.com/media/Ew21PXkXAAA8mIN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
