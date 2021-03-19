@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-18
+date: 2021-03-19
 from: https://twitter.com/cnmediaproject/status/1371379152197140480
 layout: post
 tags:
@@ -74,4 +74,12 @@ RT Michelle Ye Hee Lee<br>So, today was the first day that @AAJA's website cra
 ### 15: [2021-03-18 14:41:56+08:00 推文](https://twitter.com/Junmai1103/status/1372438099750309889)
 
 RT Jun Mai<br>Xi once worried about the internet but now sees it as a tool to empower China <a href="https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124107" target="_blank" rel="noopener noreferrer">https://www.scmp.com/tech/policy/article/3124107/rising-confidence-xi-jinping-wields-internet-tool-empowerment-and?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3124107</a>
+
+### 16: [2021-03-19 20:14:14+08:00 推文](https://twitter.com/cnmediaproject/status/1372884115456987145)
+
+Multiplayer Diplomacy: Thoughts on the China-US talks, and what new terms like "bandwagoning" (带节奏), drawn from online gaming, tell us about the importance of domestic grandstanding in China's foreign policy. <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a><br><img style src="https://pbs.twimg.com/media/Ew12wJaXAAEi733?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-03-19 20:32:32+08:00 推文](https://twitter.com/MareikeOhlberg/status/1372888719775174659)
+
+RT Mareike Ohlberg<br>People often wonder if Chinese party-state media employees use a VPN to access Twitter. No. They have a dedicated direct line. This type of access denied to most Chinese people is also mentioned frequently in public procurement documents.<br><img style src="https://pbs.twimg.com/media/Ew162W0XAAA2lJ4?format=png&name=orig" referrerpolicy="no-referrer">
 
