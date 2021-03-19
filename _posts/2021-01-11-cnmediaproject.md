@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-01-12
+date: 2021-01-14
 from: https://twitter.com/SusanShirk1/status/1348358814211297280
 layout: post
 tags:
@@ -70,4 +70,24 @@ RT Sari Arho Havrén<br>“In..propaganda terms, Wang’s Africa Tour 2021 was
 ### 14: [2021-01-12 23:28:03+08:00 推文](https://twitter.com/RollandNadege/status/1349015291527901189)
 
 RT Nadège Rolland<br>A look at China’s “vaccine diplomacy.” Thanks @jruwitch for the chat! <a href="https://www.npr.org/2021/01/11/955720013/china-plans-to-sell-covid-19-vaccines-to-other-countries" target="_blank" rel="noopener noreferrer">https://www.npr.org/2021/01/11/955720013/china-plans-to-sell-covid-19-vaccines-to-other-countries</a>
+
+### 15: [2021-01-13 06:05:45+08:00 推文](https://twitter.com/mrbaopanrui/status/1349115375837995008)
+
+RT Patrick Boehler<br>Here is a Britain-based comedian curtailing his own right to free speech and lame jokes over concerns that Beijing might get upset by his innocuous collaboration with another comedian who had condemned a massacre.<br><br>Karen Tse: .@MrNigelNg has apologised to his Chinese fans on Weibo for creating a video with "StrictlyDumpling" @mikexingchen, because the latter has been open about his views on the Tiananmen Massacre. Ng then deleted all content related to Chen. What a shame, RMB is not the new MSG.<br><br><img style src="https://pbs.twimg.com/media/EriyTYDXEAMLmEq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EriyUtCWMAMsLEO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eriy7vAVkAEkgOK?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-01-14 11:48:55+08:00 推文](https://twitter.com/S_Rabinovitch/status/1349564125513355264)
+
+RT Simon Rabinovitch<br>Good detailed story about Tesla’s stunning run in China — but perhaps the most depressing editor’s note I’ve ever seen. <a href="https://www.bloomberg.com/news/features/2021-01-13/china-loves-elon-musk-and-tesla-tsla-how-long-will-that-last" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2021-01-13/china-loves-elon-musk-and-tesla-tsla-how-long-will-that-last</a><br><img style src="https://pbs.twimg.com/media/Erqdan9VgAEVrD3?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-01-14 14:03:17+08:00 推文](https://twitter.com/lokmantsui/status/1349597938146709506)
+
+RT lokman tsui 😷<br>it's official. @hkpoliceforce issued request under national security law to get hk website blocked. credit to hkbn for publicly coming out to say so. <a href="https://www.thestandnews.com/politics/%E5%9C%8B%E5%AE%89%E5%B0%81%E7%B6%B2-%E9%A6%99%E6%B8%AF%E5%AF%AC%E9%A0%BB-%E5%B7%B2%E6%8C%89-%E5%9C%8B%E5%AE%89%E6%B3%95-%E8%A6%81%E6%B1%82-%E5%81%9C%E6%AD%A2%E9%80%A3%E7%B7%9A%E8%87%B3-%E9%A6%99%E6%B8%AF%E7%B7%A8%E5%B9%B4%E5%8F%B2-%E7%B6%B2%E7%AB%99/" target="_blank" rel="noopener noreferrer">https://www.thestandnews.com/politics/%E5%9C%8B%E5%AE%89%E5%B0%81%E7%B6%B2-%E9%A6%99%E6%B8%AF%E5%AF%AC%E9%A0%BB-%E5%B7%B2%E6%8C%89-%E5%9C%8B%E5%AE%89%E6%B3%95-%E8%A6%81%E6%B1%82-%E5%81%9C%E6%AD%A2%E9%80%A3%E7%B7%9A%E8%87%B3-%E9%A6%99%E6%B8%AF%E7%B7%A8%E5%B9%B4%E5%8F%B2-%E7%B6%B2%E7%AB%99/</a>
+
+### 18: [2021-01-14 15:34:44+08:00 推文](https://twitter.com/MalinOud/status/1349620950598381568)
+
+RT Malin Oud<br>U.S. Bans All Cotton and Tomatoes From Xinjiang Region of China <a href="https://www.nytimes.com/2021/01/13/business/economy/xinjiang-cotton-tomato-ban.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/01/13/business/economy/xinjiang-cotton-tomato-ban.html?smid=tw-share</a>
+
+### 19: [2021-01-14 16:43:45+08:00 推文](https://twitter.com/stuartklau/status/1349638322411417601)
+
+RT Stuart Lau<br>🚨 Got you some personal news... Thrilled to be joining the great team at @POLITICOEurope as EU-China Correspondent. I’ll be launching China Direct newsletter in March, so please send me all your tips and ideas slau@politico.eu <a href="https://www.politico.eu/politico-europe-announces-launch-of-china-direct/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/politico-europe-announces-launch-of-china-direct/</a>
 

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-01-11
+date: 2021-01-17
 from: https://twitter.com/realcaixia/status/1348358024990248961
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re @jenniferatntd 队，这个地址我认为就是钓鱼地址。小心上当�
 ### 8: [2021-01-11 05:20:26+08:00 推文](https://twitter.com/realcaixia/status/1348379194338766848)
 
 Re @jenniferatntd 删除这个邮件，并且再进邮件垃圾桶里直接清除。
+
+### 9: [2021-01-17 23:34:48+08:00 推文](https://twitter.com/realcaixia/status/1350828930048151553)
+
+1月17日是赵紫阳逝世16周年祭日。1989年6.4事件，中共开枪屠杀民众举世震惊。赵紫阳坚决反对对民众与大学生开枪。事后，邓小平等施加巨大压力与利诱，企图迫使赵紫阳认罪检讨，被赵紫阳拒绝。随后赵紫阳被撤销中共党内一切职务，并被软禁直到逝世。赵紫阳与胡耀邦一样，深受中国民众的崇敬与怀念。<br><img style src="https://pbs.twimg.com/media/Er8bunoXIAAfYOW?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Er8bvNRXcAMaTUU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Er8bvplWMAI2EmP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
