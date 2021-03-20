@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。 <a href="https://twitter.com/KKK02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/KKK02676879/status/1368738018513743873</a>
+请网友一起关注。 <a href="https://twitter.com/kkk02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/kkk02676879/status/1368738018513743873</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
@@ -165,7 +165,7 @@ Re @maliangyu 中国普通人谁能翻墙出来上推特？你是怎么做到开
 
 ### 38: [2021-03-11 22:20:38+08:00 推文](https://twitter.com/realcaixia/status/1370016819801694208)
 
-对一位忠于自己内心情感的年轻女性，对身患多种疾病的病人，当局竟然逮捕她，无丝毫人性。反人伦反人类。<br><br>王丹: 呼吁外界多多关注。<br> <a href="https://twitter.com/freeliqiaochu/status/1369544681588101121" target="_blank" rel="noopener noreferrer">https://twitter.com/freeliqiaochu/status/1369544681588101121</a>
+对一位忠于自己内心情感的年轻女性，对身患多种疾病的病人，当局竟然逮捕她，无丝毫人性。反人伦反人类。<br><br>王丹: 呼吁外界多多关注。<br> <a href="https://twitter.com/FreeLiQiaoChu/status/1369544681588101121" target="_blank" rel="noopener noreferrer">https://twitter.com/FreeLiQiaoChu/status/1369544681588101121</a>
 
 ### 39: [2021-03-11 22:23:21+08:00 推文](https://twitter.com/realcaixia/status/1370017503620063233)
 
