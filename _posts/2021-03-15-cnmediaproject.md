@@ -103,3 +103,11 @@ Re <br><img style src="https://pbs.twimg.com/media/Ew21PXkXAAA8mIN?format=jpg&na
 
 RT Alex Dukalskis<br>Re For what it's worth advertorials like this are reported domestically in China's propaganda streams as evidence of foreign esteem (North Korea used to do the same sort of thing):<br><br>China Media Project: In the People's Daily today, a very revealing feature on the paper's nearly 4,500 "media drops" in foreign media just during the recent NPC. This campaign would have cost a fortune. See for yourself:<br><br><img style src="https://pbs.twimg.com/media/Ewr2uHaWgAIZE9g?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&_thumbnail_id=46953" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/?preview=true&_thumbnail_id=46953</a>
 
+### 23: [2021-03-20 17:06:30+08:00 推文](https://twitter.com/cnmediaproject/status/1373199257356939277)
+
+Our look at the China-US talks in yesterday's People's Daily, and how grandstanding for domestic audiences is a core part of Chinese diplomacy in the digital "New Era." <a href="https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/19/multiplayer-diplomacy/</a>
+
+### 24: [2021-03-20 18:26:31+08:00 推文](https://twitter.com/cnmediaproject/status/1373219392822112257)
+
+Re And another Weibo post from the People's Daily today. "The ruling status of the CCP and system security cannot be harmed, this is a red line."<br><img style src="https://pbs.twimg.com/media/Ew6nwmVXIAArznW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
