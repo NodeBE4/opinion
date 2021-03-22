@@ -27,3 +27,11 @@ RT Christian Goebel<br>With incredible speed, @manyapan has written up a compr
 
 RT Emily Rauhala<br>They may have blocked Canadian diplomats from the courtroom, but the world is watching—and won’t soon forget.<br><br>Nathan VanderKlippe: In a reprise of scenes from Friday, Canadian diplomats at the trial for Michael Kovrig are being kept outside the courthouse in Beijing.<br><br><img style src="https://pbs.twimg.com/media/ExCohI8WEAEvZFD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2021-03-22 19:08:26+08:00 推文](https://twitter.com/lingli_vienna/status/1373954719643746312)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>𝐋𝐢𝐧𝐠 𝐋𝐢<br><br>1⃣st (of a series, presumably) PARTY CENTER Press Conference to be held tomorrow<br><br>March 23 10am (Beijing Time)<br><br>Topic: the centennial celebratory activities of the Party<br><br>#CCPturns100<br><img style src="https://pbs.twimg.com/media/ExFERUkWEAITHrq?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-03-22 23:49:21+08:00 推文](https://twitter.com/cnmediaproject/status/1374025414780289036)
+
+The CCP Central Committee is holding a press conference tomorrow to let everyone know how celebrations for the Party's 100th anniversary are going to go down. Should be an intriguing exercise in dullness for media discourse junkies. Perhaps some telegraphing of major themes.<br><img style src="https://pbs.twimg.com/media/ExF-_Y6WgAQxI43?format=jpg&name=orig" referrerpolicy="no-referrer">
+
