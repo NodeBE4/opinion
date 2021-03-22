@@ -23,3 +23,7 @@ RT Manya Koetse<br>Chinese state media are purposely bringing 'noodle gate' to
 
 RT Christian Goebel<br>With incredible speed, @manyapan has written up a comprehensive enquiry into the origins of 'noodle gate' for @WhatsOnWeibo. (Not related to 中国人不吃这一套 - or is it?)<br><br>Manya Koetse: Chinese state media are purposely bringing 'noodle gate' to the attention of readers. A short write-up of the noodle incident at the #USChina talks in Alaska:<br><br><img style src="https://pbs.twimg.com/media/ExByTY9WUAAUz8L?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.whatsonweibo.com/about-yang-jiechis-instant-noodle-lunch-at-the-us-china-talks-in-alaska/" target="_blank" rel="noopener noreferrer">https://www.whatsonweibo.com/about-yang-jiechis-instant-noodle-lunch-at-the-us-china-talks-in-alaska/</a>
 
+### 3: [2021-03-22 08:01:49+08:00 推文](https://twitter.com/emilyrauhala/status/1373786959529836547)
+
+RT Emily Rauhala<br>They may have blocked Canadian diplomats from the courtroom, but the world is watching—and won’t soon forget.<br><br>Nathan VanderKlippe: In a reprise of scenes from Friday, Canadian diplomats at the trial for Michael Kovrig are being kept outside the courthouse in Beijing.<br><br><img style src="https://pbs.twimg.com/media/ExCohI8WEAEvZFD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
