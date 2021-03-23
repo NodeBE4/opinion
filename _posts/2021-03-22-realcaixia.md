@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-23
+date: 2021-03-24
 from: https://twitter.com/realcaixia/status/1373737326229213191
 layout: post
 tags:
@@ -54,4 +54,8 @@ Re @YanBuran 你需要介入我的通讯吗？这是我的个人空间，我根�
 ### 10: [2021-03-23 23:58:30+08:00 推文](https://twitter.com/realcaixia/status/1374390106291769359)
 
 Re 昨天自由亚洲电台记者电话采访，希望具体谈谈王贵秀老师的情况。看得出来自由亚洲记者做了许多准备，他们查询了很多资料。我在这个采访里谈到了中央党校的一些情况。有兴趣的朋友可以看看这篇报道。
+
+### 11: [2021-03-24 01:26:16+08:00 推文](https://twitter.com/realcaixia/status/1374412189679775747)
+
+杨洁篪一句上不得外交场合、连最起码的文明礼仪都不讲的、太丢人的中国江湖混子俚语，现在被商家当成了商机，加紧生产这句俚语的体恤衫、茄克衫、手提包……。穿上用上这个鲤语标记的商品，极端民族主义情绪将爆棚，韭菜和镰刀一起出击……令人作何感想？网友有何感想？<br><video src="https://video.twimg.com/ext_tw_video/1374412106896871425/pu/vid/720x1280/HCdm9YB7Y8W0dsW2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1374412106896871425/pu/img/Axym44y2FGrb8gtf.jpg"></video>
 
