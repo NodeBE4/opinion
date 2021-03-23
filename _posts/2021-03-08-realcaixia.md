@@ -25,7 +25,7 @@ Re @Sharker20201 读您的这个留言好心酸，大陆许多人都与您的感
 
 ### 3: [2021-03-08 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1368742746245259270)
 
-请网友一起关注。<br><br>Jack Blue: @realcaixia 大家关注下这件事儿：<br> <a href="https://youtu.be/4_sEG0CcfTU" target="_blank" rel="noopener noreferrer">https://youtu.be/4_sEG0CcfTU</a>
+请网友一起关注。 <a href="https://twitter.com/kkk02676879/status/1368738018513743873" target="_blank" rel="noopener noreferrer">https://twitter.com/kkk02676879/status/1368738018513743873</a>
 
 ### 4: [2021-03-08 21:53:39+08:00 推文](https://twitter.com/realcaixia/status/1368922868403306497)
 
