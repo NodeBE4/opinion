@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-22
+date: 2021-03-23
 from: https://twitter.com/manyapan/status/1373724169767170060
 layout: post
 tags:
@@ -34,4 +34,12 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>𝐋𝐢𝐧𝐠 𝐋𝐢<br><br>1⃣st (of a 
 ### 5: [2021-03-22 23:49:21+08:00 推文](https://twitter.com/cnmediaproject/status/1374025414780289036)
 
 The CCP Central Committee is holding a press conference tomorrow to let everyone know how celebrations for the Party's 100th anniversary are going to go down. Should be an intriguing exercise in dullness for media discourse junkies. Perhaps some telegraphing of major themes.<br><img style src="https://pbs.twimg.com/media/ExF-_Y6WgAQxI43?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-03-23 12:24:50+08:00 推文](https://twitter.com/davidpaulk/status/1374215537807474689)
+
+RT David Paulk 波大卫<br>directive in China is "official reports only"...<br><br>Keegan Elmer: If someone blew up a gov building in Chicago, killing 5 people, wouldn’t that make global headlines?<br><br>24 hours since an explosion killed 5, injured 5 more, at Panyu village committee building, almost nothing in English. Nothing from Reuters AFP SCMP etc<br><br><img style src="https://pbs.twimg.com/media/ExIAm64UUAMaevf?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://baijiahao.baidu.com/s?id=1694943093761180179&wfr=spider&for=pc" target="_blank" rel="noopener noreferrer">https://baijiahao.baidu.com/s?id=1694943093761180179&wfr=spider&for=pc</a>
+
+### 7: [2021-03-23 18:16:53+08:00 推文](https://twitter.com/cnmediaproject/status/1374304135806353410)
+
+What Happened in Mingjing Village: David Bandurski looks at yesterday's explosion in Guangzhou's Panyu District, and why it has been swept under the carpet so quickly. <a href="https://chinamediaproject.org/2021/03/23/what-happened-in-mingjing-village/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/23/what-happened-in-mingjing-village/</a><br><img style src="https://pbs.twimg.com/media/ExKCLeDWUAAYvOs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
