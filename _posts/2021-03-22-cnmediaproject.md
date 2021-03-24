@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-23
+date: 2021-03-24
 from: https://twitter.com/manyapan/status/1373724169767170060
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT David Paulk 波大卫<br>directive in China is "official reports only"...<b
 ### 7: [2021-03-23 18:16:53+08:00 推文](https://twitter.com/cnmediaproject/status/1374304135806353410)
 
 What Happened in Mingjing Village: David Bandurski looks at yesterday's explosion in Guangzhou's Panyu District, and why it has been swept under the carpet so quickly. <a href="https://chinamediaproject.org/2021/03/23/what-happened-in-mingjing-village/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/23/what-happened-in-mingjing-village/</a><br><img style src="https://pbs.twimg.com/media/ExKCLeDWUAAYvOs?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-03-24 10:45:12+08:00 推文](https://twitter.com/Rover829/status/1374552851293298696)
+
+RT Vincent Lee<br>March 24 (Reuters) - Pony Ma, the reticent founder of Tencent Holdings, China's biggest social media and video games company, met with China's antitrust watchdog officials this month to discuss compliance at his group, 2 people with direct knowledge said. <a href="https://reut.rs/2PobbWM" target="_blank" rel="noopener noreferrer">https://reut.rs/2PobbWM</a>
 
