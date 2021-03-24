@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-24
+date: 2021-03-25
 from: https://twitter.com/realcaixia/status/1373737326229213191
 layout: post
 tags:
@@ -58,4 +58,20 @@ Re 昨天自由亚洲电台记者电话采访，希望具体谈谈王贵秀老�
 ### 11: [2021-03-24 01:26:16+08:00 推文](https://twitter.com/realcaixia/status/1374412189679775747)
 
 杨洁篪一句上不得外交场合、连最起码的文明礼仪都不讲的、太丢人的中国江湖混子俚语，现在被商家当成了商机，加紧生产这句俚语的体恤衫、茄克衫、手提包……。穿上用上这个鲤语标记的商品，极端民族主义情绪将爆棚，韭菜和镰刀一起出击……令人作何感想？网友有何感想？<br><video src="https://video.twimg.com/ext_tw_video/1374412106896871425/pu/vid/720x1280/HCdm9YB7Y8W0dsW2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1374412106896871425/pu/img/Axym44y2FGrb8gtf.jpg"></video>
+
+### 12: [2021-03-25 00:24:08+08:00 推文](https://twitter.com/realcaixia/status/1374758944665694208)
+
+短短几年中共外交堕落到这个地步：文明外交—战狼外交—流氓外交。中国曾经的一位驻法国大使吴健民先生，致力于促进中法人民友谊，促进两国文化交流，做了大量令人称道的努力，而现今的驻法大使卢沙野到了几乎要被法国人宣布为不受欢迎的人的地步，实在太丢脸。吴健民先生若还活着，当作何感想？<br><br>ZHANGDONG: “战狼外交”转向“流氓外交”, 去看看中国驻法大使馆贴出来的大字报，火药味十足，一步退到了文革年代。<br> <a href="https://twitter.com/DongFang_USA/status/1374692685668352000" target="_blank" rel="noopener noreferrer">https://twitter.com/DongFang_USA/status/1374692685668352000</a>
+
+### 13: [2021-03-25 00:46:43+08:00 推文](https://twitter.com/realcaixia/status/1374764627733721088)
+
+“打倒美帝”代代相传啊！1950年代初，中国军人跨过鸭绿江帮金三胖爷爷抢地盘，“打败美帝野心狼”响遍大街小巷；1960年代“美帝国主义是纸老虎”深入人心；1970年代周恩来与尼克松握手，“打倒美帝”公开不说了；1989后强调“反和平演变”，“美帝国主义亡我之心不死”，而今再现“打倒美帝”。70年中共视美帝为宿敌<br><img style src="https://pbs.twimg.com/media/ExQlJA_XAAMIW-m?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-03-25 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1374766590198177798)
+
+Re @YP1Wzt5RmkiiyH4 对，吴健民先生因车祸不幸遇难。我在北京时参加过《共识网》举办的吴健民先生追思会，会上好几位发言者回忆吴健民先生的事情，令人感动也感慨。
+
+### 15: [2021-03-25 00:57:54+08:00 推文](https://twitter.com/realcaixia/status/1374767440073199616)
+
+Re @ChangeBao 看来是新一代义和团成员。
 
