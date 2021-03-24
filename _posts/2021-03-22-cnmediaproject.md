@@ -47,3 +47,7 @@ What Happened in Mingjing Village: David Bandurski looks at yesterday's explosio
 
 RT Vincent Lee<br>March 24 (Reuters) - Pony Ma, the reticent founder of Tencent Holdings, China's biggest social media and video games company, met with China's antitrust watchdog officials this month to discuss compliance at his group, 2 people with direct knowledge said. <a href="https://reut.rs/2PobbWM" target="_blank" rel="noopener noreferrer">https://reut.rs/2PobbWM</a>
 
+### 9: [2021-03-24 16:39:55+08:00 推文](https://twitter.com/CarlMinzner/status/1374642121324437504)
+
+RT Carl Minzner<br>Beijing releases 2020 report on human rights in the USA<br><br>Full text (Chinese): <a href="http://www.xinhuanet.com/2021-03/24/c_1127250212.htm" target="_blank" rel="noopener noreferrer">http://www.xinhuanet.com/2021-03/24/c_1127250212.htm</a>
+
