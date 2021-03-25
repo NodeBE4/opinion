@@ -79,3 +79,19 @@ RT Josh Chin<br>Muji, meanwhile, tells Chinese media it's sticking with Xinjia
 
 RT Paul Mozur 孟建國<br>So with Beijing’s Winter Olympics a year out, Chinese state media and CCP groups are doubling down on Xinjiang and riling up the legions of internet nationalists to encourage foreign companies to use forced and coerced labor in their supply chains. Wild. <a href="https://chinadigitaltimes.net/2021/03/hm-attacked-by-online-mob-commanded-to-stop-yuejipengci/" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/2021/03/hm-attacked-by-online-mob-commanded-to-stop-yuejipengci/</a>
 
+### 17: [2021-03-25 18:52:13+08:00 推文](https://twitter.com/davidpaulk/status/1375037800295198726)
+
+RT David Paulk 波大卫<br>China news has been so gloomy lately. With journalists getting expelled or too afraid to stay, intl outlets lack the staff to go out and find quirky / light / human interest stories that many of us rely on to stay sane. Everything these days is rancorous politics, and it sucks.
+
+### 18: [2021-03-25 18:53:56+08:00 推文](https://twitter.com/Junmai1103/status/1375038232136572929)
+
+RT Jun Mai<br>THREAD: China’s NPC organisation law amd this month is an important but underreported event. The amd effectively gave NPSCS the power to endorse changes of vice premiers and state councilors. That power used to be in the hands of NPC.
+
+### 19: [2021-03-25 18:54:31+08:00 推文](https://twitter.com/Junmai1103/status/1375038379205660672)
+
+RT Jun Mai<br>Re 2. What does it mean? It’s much easier to change the vice premier after the amd. Such a change won’t need to wait for an endorsement at the annual NPC session in March. The NPCSC meets every one month or two.
+
+### 20: [2021-03-25 22:10:29+08:00 推文](https://twitter.com/SPCmonitor/status/1375087696834625536)
+
+RT Susan Finder<br>Injecting socialist core values into court judgments <a href="http://supremepeoplescourtmonitor.com/2021/03/25/injecting-socialist-core-values-into-court-judgments/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2021/03/25/injecting-socialist-core-values-into-court-judgments/</a>
+
