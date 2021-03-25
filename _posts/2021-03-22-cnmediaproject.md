@@ -59,3 +59,23 @@ RT Jonathan Sullivan<br>Amazing how these campaigns suddenly take off and snow
 
 RT Jeff Wasserstrom<br>👇 @FairbankCenter @amasonny @cnmediaproject @larsonchristina<br><br>Jeff Wasserstrom: "The Good China Story?"--my latest for @TheTLS (paywalled)<br> <a href="https://www.the-tls.co.uk/articles/land-of-big-numbers-te-ping-chen-peach-blossom-paradise-ge-fei-why-fiction-matters-in-contemporary-china-david-der-wei-wang-review-jeffrey-wasserstrom/" target="_blank" rel="noopener noreferrer">https://www.the-tls.co.uk/articles/land-of-big-numbers-te-ping-chen-peach-blossom-paradise-ge-fei-why-fiction-matters-in-contemporary-china-david-der-wei-wang-review-jeffrey-wasserstrom/</a>
 
+### 12: [2021-03-25 04:07:47+08:00 推文](https://twitter.com/AMFChina/status/1374815226806349825)
+
+RT Andreas Fulda<br>“Facebook has blocked a group of hackers in China who used the platform to target Uighurs living abroad with links to malware that would infect their devices and enable surveillance.” <a href="https://www.theguardian.com/technology/2021/mar/24/facebook-blocks-china-based-hackers-uighurs" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/technology/2021/mar/24/facebook-blocks-china-based-hackers-uighurs</a>
+
+### 13: [2021-03-25 09:23:39+08:00 推文](https://twitter.com/Junheng_Li/status/1374894718010617858)
+
+RT Junheng Li<br>$NKE China ambassador, celebrity Wang (38 mm fans on weibo) severed his contract with the brand after #XinjiangCotton PR crisis.<br><img style src="https://pbs.twimg.com/media/ExSaawzVgAUIQqJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-03-25 11:22:14+08:00 推文](https://twitter.com/williamnee/status/1374924560437452801)
+
+RT William Nee<br>On weibo, the People’s Daily, the CCP’s mouthpiece, leading a consumer boycott campaign to support Xinjiang cotton & going after Western companies (H&M, Nike...etc) using colorful metaphor of “碰瓷” (when a person/scammer pretends to get hit by a car to get a cash settlement)<br><img style src="https://pbs.twimg.com/media/ExS2mXJU4AEsY82?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-03-25 12:08:42+08:00 推文](https://twitter.com/joshchin/status/1374936253578104844)
+
+RT Josh Chin<br>Muji, meanwhile, tells Chinese media it's sticking with Xinjiang cotton (which it has been openly advertising for years)<br><img style src="https://pbs.twimg.com/media/ExTBA7sVIAARbAU?format=png&name=orig" referrerpolicy="no-referrer"><br><br>Josh Chin: The world's biggest clothing brand said it's opposed to forced labor in Xinjiang.<br><br>Months later it's undergoing a public flogging in China, one of its biggest markets<br> <a href="https://www.wsj.com/articles/h-m-battered-with-criticism-in-china-over-xinjiang-forced-labor-stance-11616598679" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/h-m-battered-with-criticism-in-china-over-xinjiang-forced-labor-stance-11616598679</a>
+
+### 16: [2021-03-25 13:08:21+08:00 推文](https://twitter.com/paulmozur/status/1374951264845361152)
+
+RT Paul Mozur 孟建國<br>So with Beijing’s Winter Olympics a year out, Chinese state media and CCP groups are doubling down on Xinjiang and riling up the legions of internet nationalists to encourage foreign companies to use forced and coerced labor in their supply chains. Wild. <a href="https://chinadigitaltimes.net/2021/03/hm-attacked-by-online-mob-commanded-to-stop-yuejipengci/" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/2021/03/hm-attacked-by-online-mob-commanded-to-stop-yuejipengci/</a>
+
