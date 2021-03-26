@@ -79,3 +79,7 @@ Re @ChangeBao 看来是新一代义和团成员。
 
 Re @gameweilin @lianchaohan 这就是你的无知了。政府开支用的是纳税人的钱而谷歌等公司用的是公司自己的钱，是算公司成本里的。这是完全不同性质的钱。你连最基本的知识都不具备。
 
+### 17: [2021-03-26 10:17:13+08:00 推文](https://twitter.com/realcaixia/status/1375270584045690893)
+
+勇敢不屈的缅甸年轻人。<br><br>自飞翔: 缅甸年轻人的声音。<br><br><video src="https://video.twimg.com/ext_tw_video/1374927880854020099/pu/vid/640x360/QpscEUTAlDOvTwds.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1374927880854020099/pu/img/6lS5oNpmWjkm-zHy.jpg"></video>
+
