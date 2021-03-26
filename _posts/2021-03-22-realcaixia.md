@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-26
+date: 2021-03-27
 from: https://twitter.com/realcaixia/status/1373737326229213191
 layout: post
 tags:
@@ -82,4 +82,8 @@ Re @gameweilin @lianchaohan 这就是你的无知了。政府开支用的是纳�
 ### 17: [2021-03-26 10:17:13+08:00 推文](https://twitter.com/realcaixia/status/1375270584045690893)
 
 勇敢不屈的缅甸年轻人。<br><br>自飞翔: 缅甸年轻人的声音。<br><br><video src="https://video.twimg.com/ext_tw_video/1374927880854020099/pu/vid/640x360/QpscEUTAlDOvTwds.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1374927880854020099/pu/img/6lS5oNpmWjkm-zHy.jpg"></video>
+
+### 18: [2021-03-27 02:08:37+08:00 推文](https://twitter.com/realcaixia/status/1375510014656274433)
+
+老灯网友写得好！<br><br>老灯: 我曾经雄辩地指出过<br>“美国的事情，无忧，小乱而治<br>中国的事情，无解，大乱而终<br>美国不用我们解放<br>中国需要我们搅合”<br>有人借这次大选之机在批评美国时剑走偏锋<br>比五毛还激进地攻击美国<br>有意无意放过且抬高了土共<br>转移了斗争大方向<br>这无疑是愚蠢甚至是疯狂的<br>我们华人的死敌永远是中共<br>而不是美国政府<br><br><img style src="https://pbs.twimg.com/media/ExVzC2KVoAcr8X5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
