@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-25
+date: 2021-03-26
 from: https://twitter.com/manyapan/status/1373724169767170060
 layout: post
 tags:
@@ -94,4 +94,8 @@ RT Jun Mai<br>Re 2. What does it mean? It’s much easier to change the vice p
 ### 20: [2021-03-25 22:10:29+08:00 推文](https://twitter.com/SPCmonitor/status/1375087696834625536)
 
 RT Susan Finder<br>Injecting socialist core values into court judgments <a href="http://supremepeoplescourtmonitor.com/2021/03/25/injecting-socialist-core-values-into-court-judgments/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2021/03/25/injecting-socialist-core-values-into-court-judgments/</a>
+
+### 21: [2021-03-26 20:41:03+08:00 推文](https://twitter.com/ulywang/status/1375427578719133702)
+
+RT Wang Feng 王丰<br>Whoa.<br><br>CGTN: China reminded the North Atlantic Treaty Organization (NATO) that it still owes blood debt over Chinese journalists killed in the 1999 NATO bombing of the Chinese embassy in Belgrade, Chinese Foreign Ministry Spokesperson Hua Chunying said on Friday.<br> <a href="https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html</a>
 
