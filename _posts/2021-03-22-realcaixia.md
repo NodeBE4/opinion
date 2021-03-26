@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-25
+date: 2021-03-26
 from: https://twitter.com/realcaixia/status/1373737326229213191
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re @YP1Wzt5RmkiiyH4 对，吴健民先生因车祸不幸遇难。我在北京时
 ### 15: [2021-03-25 00:57:54+08:00 推文](https://twitter.com/realcaixia/status/1374767440073199616)
 
 Re @ChangeBao 看来是新一代义和团成员。
+
+### 16: [2021-03-26 07:14:47+08:00 推文](https://twitter.com/realcaixia/status/1375224673080856577)
+
+Re @gameweilin @lianchaohan 这就是你的无知了。政府开支用的是纳税人的钱而谷歌等公司用的是公司自己的钱，是算公司成本里的。这是完全不同性质的钱。你连最基本的知识都不具备。
 
