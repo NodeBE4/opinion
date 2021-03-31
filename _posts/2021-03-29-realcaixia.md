@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-31
+date: 2021-04-01
 from: https://twitter.com/realcaixia/status/1376234302531371008
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re @hiddentrader123 有良知的人年少做错事良心是不安的，所以有
 ### 9: [2021-03-31 23:45:49+08:00 推文](https://twitter.com/realcaixia/status/1377286017393291264)
 
 这篇文章提出的问题，对于中国人挣脱被套百年的精神枷锁具有极为深远的意义！大陆中国的许多官方言说，必须要从质疑他们用以欺骗宣传的基本概念做起，对大陆流行的那些所谓“天然正确”的政治观念，必须从质疑前提做起。砸碎精神枷锁，真正打开我们独立思想的大门！<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【独家重磅】<br><br>鲍彤：三座大山是被谁创造出来的？ <br><br>三座大山不是客观现实的存在，而是主观创造出来的…标志着造反有理从空想到科学，从土到洋从山大王到革命家的飞跃，用以驱动四万万同胞的仇和恨，从而自愿牺牲一切替共产党夺取政权的真理<br> <a href="https://ipkmedia.com/?p=57707" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=57707</a>
+
+### 10: [2021-04-01 01:39:36+08:00 推文](https://twitter.com/realcaixia/status/1377314649750786049)
+
+从小开始灌输极权意识形态，我这代人就是这样从小被毒害被欺骗。现在又在回复到文革时期甚至文革前的做法了。看第二幅跟帖评论，好在还有清醒明白人。想要做到全民受骗是不可能了，毕竟历史往前走了。中国开放过与人类文明主潮流有了交流，想再全民被蒙骗，难！<br><br>维尼大帝: <推友私信>这是我们学校今天发的通知，我一直不明白有宗教信仰的同学为什么会被格外关注，还要和心理异常并列起来说，你呢？<br><br>图二那个评论，草<br><br><img style src="https://pbs.twimg.com/media/Exze0sxUcAM-y4a?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Exze1cDVEAMib7n?format=png&name=orig" referrerpolicy="no-referrer">
 
