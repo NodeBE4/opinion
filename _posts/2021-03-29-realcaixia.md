@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-01
+date: 2021-04-02
 from: https://twitter.com/realcaixia/status/1376234302531371008
 layout: post
 tags:
@@ -58,4 +58,12 @@ Re @hiddentrader123 有良知的人年少做错事良心是不安的，所以有
 ### 11: [2021-04-01 22:07:31+08:00 推文](https://twitter.com/realcaixia/status/1377623667123838992)
 
 Re @HerrKnauk @sk32thD9zS3r9Xh @meimei1935 不错，我和她是特别好的朋友。我们俩在京时就常在一起。只是各自有各自不同的努力领域。
+
+### 12: [2021-04-02 03:55:24+08:00 推文](https://twitter.com/realcaixia/status/1377711213476450307)
+
+读到了这一连串的对话，深为感动。凡是有良知的人都无法忽视新疆维吾尔族人的非人遭遇。我在京时就听一些去新疆回京的朋友谈到新疆尤其是南疆的情况，他们说时有些遮掩，但依旧听的令人心冷心寒。揭露这些罪行是每个有良知的人应该做的事，我敬佩这位年轻记者。<br><br>Vicky Xu (sounds like shoe): 写新疆写了三年，我也不断问自己：为什么要写维吾尔族社区的事情？要冒多大的风险去写？值不值得？我有几点想说的：<br><br>一是一定要报导维族社区的遭遇，再难也要写。关押维族人和其他少数民族的“教培中心”的根源是汉族主导的政府对维族人和文化的彻底摧残。约百万上班族、学生、生意人、公务员、农民，1/<br>
+
+### 13: [2021-04-02 06:59:09+08:00 推文](https://twitter.com/realcaixia/status/1377757456063983625)
+
+世界上有两类逻辑，一类叫人们在真实生活中获得的常识常理中贯穿的正常逻辑；另一类叫中共逻辑。这两类逻辑的根本不同与对立，决定了中共正在用自己的中共逻辑重新定义“选举”与“民主”。反常必有妖。<br><br>ZHANGDONG: 北京政府正在为香港重新定义‘选举’和‘民主’。<br>“当政府能够控制谁能参加选举和谁能提名时，这个新的制度就不能被认为是民主的。再加上筛选委员会，这个系统只适合一个人，而不是所有人。”<br> <a href="https://www.voachinese.com/a/electoral-reforms-in-hk-redefine-democracy-20210331/5836372.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/electoral-reforms-in-hk-redefine-democracy-20210331/5836372.html</a>
 
