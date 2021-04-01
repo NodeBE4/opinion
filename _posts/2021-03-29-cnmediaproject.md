@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-03-29
+date: 2021-04-01
 from: https://twitter.com/Junmai1103/status/1376415065142796290
 layout: post
 tags:
@@ -30,4 +30,20 @@ RT Yuen Chan<br>It's relentless<br><br>Lok.: True sign of our times: #RTHK n
 ### 4: [2021-03-29 16:27:25+08:00 推文](https://twitter.com/cnmediaproject/status/1376450911619461121)
 
 Re @AsiaLeiden @RWallenbergInst CMP is proud to be involved in this interesting and important project.
+
+### 5: [2021-04-01 13:45:55+08:00 推文](https://twitter.com/shenlulushen/status/1377497431634509825)
+
+RT Shen Lu<br>There are plenty of independent journalists in China; they are just not seen. This assertion is a prime example of how Chinese journalists are invisibilized in the English-speaking world.<br><br>Matt Schiavenza: We're heading to a situation where soon, there won't be any independent journalists left in China — meaning that a fifth of the world's population will have no one to help hold their government accountable.<br> <a href="https://news.yahoo.com/bbc-reporter-leaves-china-says-102806877.html" target="_blank" rel="noopener noreferrer">https://news.yahoo.com/bbc-reporter-leaves-china-says-102806877.html</a>
+
+### 6: [2021-04-01 17:51:34+08:00 推文](https://twitter.com/Junmai1103/status/1377559252944871425)
+
+RT Jun Mai<br>Beijing’s radical reforms dash decades of hopes for Hong Kong democracy <a href="https://www.scmp.com/comment/opinion/article/3127765/hong-kong-democracy-beijing-has-dashed-decades-hopes-radical?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3127765" target="_blank" rel="noopener noreferrer">https://www.scmp.com/comment/opinion/article/3127765/hong-kong-democracy-beijing-has-dashed-decades-hopes-radical?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3127765</a>
+
+### 7: [2021-04-01 17:52:02+08:00 推文](https://twitter.com/cnmediaproject/status/1377559369919905794)
+
+As Chinese diplomats talk about battling "mad dogs" in scholarship and journalism, CMP's David Bandurski looks back on the CCP's history with dogs, mad and running. <a href="https://chinamediaproject.org/2021/04/01/mad-dogs-and-wolves-a-history/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/04/01/mad-dogs-and-wolves-a-history/</a><br><img style src="https://pbs.twimg.com/media/Ex4S7snWUAA1osw?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-04-01 19:03:37+08:00 推文](https://twitter.com/cnmediaproject/status/1377577383574769664)
+
+Re @ricomacao We regret that we can't give you your "laughing and howling" in the Chinese. In the party-state press and social media, this is just 疯狗.    :) <a href="https://world.huanqiu.com/article/42P9PKeRWbD" target="_blank" rel="noopener noreferrer">https://world.huanqiu.com/article/42P9PKeRWbD</a> <a href="https://new.qq.com/rain/a/20210322A084KM00" target="_blank" rel="noopener noreferrer">https://new.qq.com/rain/a/20210322A084KM00</a>
 

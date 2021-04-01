@@ -55,3 +55,7 @@ Re @hiddentrader123 有良知的人年少做错事良心是不安的，所以有
 
 从小开始灌输极权意识形态，我这代人就是这样从小被毒害被欺骗。现在又在回复到文革时期甚至文革前的做法了。看第二幅跟帖评论，好在还有清醒明白人。想要做到全民受骗是不可能了，毕竟历史往前走了。中国开放过与人类文明主潮流有了交流，想再全民被蒙骗，难！<br><br>维尼大帝: <推友私信>这是我们学校今天发的通知，我一直不明白有宗教信仰的同学为什么会被格外关注，还要和心理异常并列起来说，你呢？<br><br>图二那个评论，草<br><br><img style src="https://pbs.twimg.com/media/Exze0sxUcAM-y4a?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Exze1cDVEAMib7n?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 11: [2021-04-01 22:07:31+08:00 推文](https://twitter.com/realcaixia/status/1377623667123838992)
+
+Re @HerrKnauk @sk32thD9zS3r9Xh @meimei1935 不错，我和她是特别好的朋友。我们俩在京时就常在一起。只是各自有各自不同的努力领域。
+
