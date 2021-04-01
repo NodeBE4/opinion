@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2020-10-05~2020-10-11'
 
 ### 4: [2020-10-08 07:47:31+08:00 推文](https://twitter.com/realcaixia/status/1313989364167438337)
 
-<a href="https://p.dw.com/p/3jXPf?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3jXPf?maca=zh-Twitter-sharing</a>
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  <br><a href="https://p.dw.com/p/3jXPf?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3jXPf?maca=zh-Twitter-sharing</a><hr><small>10/8/2020, 7:47:31 AM</small>
 
 ### 5: [2020-10-08 23:14:43+08:00 推文](https://twitter.com/realcaixia/status/1314222701054222337)
 
