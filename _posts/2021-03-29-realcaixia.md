@@ -95,3 +95,11 @@ Re @u9HGQjTGbKYkTXe 你居然当面造谣！说我有子女在美国你拿出证
 
 Re @ExanderYan 善恶不分才是违背中华民族传统美德的！我受毒害被欺骗几十年，现在才醒悟过来。你是甘愿被奴役甘愿继续被骗？！
 
+### 21: [2021-04-02 20:57:07+08:00 推文](https://twitter.com/realcaixia/status/1377968337343365121)
+
+分享王剑先生的每日观察这一集：中共欲把新疆模式推向大陆中国各地，上海市先试水遭民众强烈反感。<br><br>上海人口管理新规触动了中国人哪根神经? 新疆化与新疆的真相/王剑每日观察/20210401 <a href="https://youtu.be/crwnTMtDOro" target="_blank" rel="noopener noreferrer">https://youtu.be/crwnTMtDOro</a>
+
+### 22: [2021-04-02 21:04:47+08:00 推文](https://twitter.com/realcaixia/status/1377970264294764551)
+
+再推荐一个评论节目，看看大陆中共将企图推行的全景监狱，对个人监控达到什么程度了。<br><br>上海要獨立了？停留超過24小時需登記，網民憤怒：全景監獄！黎智英、李柱銘等7人遭定罪，恣意控訴罪名令人髮指【#秦鵬觀察 4/1】| #新唐人電視台 <a href="https://youtu.be/tPmJdlORvjg" target="_blank" rel="noopener noreferrer">https://youtu.be/tPmJdlORvjg</a>
+
