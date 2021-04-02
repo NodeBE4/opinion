@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-02
+date: 2021-04-03
 from: https://twitter.com/realcaixia/status/1376234302531371008
 layout: post
 tags:
@@ -102,4 +102,28 @@ Re @ExanderYan 善恶不分才是违背中华民族传统美德的！我受毒�
 ### 22: [2021-04-02 21:04:47+08:00 推文](https://twitter.com/realcaixia/status/1377970264294764551)
 
 再推荐一个评论节目，看看大陆中共将企图推行的全景监狱，对个人监控达到什么程度了。<br><br>上海要獨立了？停留超過24小時需登記，網民憤怒：全景監獄！黎智英、李柱銘等7人遭定罪，恣意控訴罪名令人髮指【#秦鵬觀察 4/1】| #新唐人電視台 <a href="https://youtu.be/tPmJdlORvjg" target="_blank" rel="noopener noreferrer">https://youtu.be/tPmJdlORvjg</a>
+
+### 23: [2021-04-02 23:45:21+08:00 推文](https://twitter.com/realcaixia/status/1378010672550797314)
+
+Re @AnnaWruiqin @lianchaohan 中共党国从根本上讲是对中华民族进行种族灭绝。中共首先是把各个不是汉族的少数民族进行种族灭绝，断割这些少数民族的历史，逐步削弱少数民族的文化、文字以及民族生活方式的影响力，消除少数民族的集体记忆。从1950年代开始，历经几代人的时间，先把少数民族同化到汉民族中，这只是第一步。
+
+### 24: [2021-04-02 23:52:55+08:00 推文](https://twitter.com/realcaixia/status/1378012576055984131)
+
+Re @AnnaWruiqin @lianchaohan 中共在汉民族中伪造与扭曲历史，特别是对1840年以来的中国历史进行大规模的造假与歪曲，封锁历史真相，扭曲中华民族的历史记忆。1949以后迫害留在中国大陆对中共抱有美好期待的知识精英、文化精英、经济精英，通过1952年左右推行的“思想改造运动”，用党文化改造中华文化，打断大陆知识分子的脊梁骨。
+
+### 25: [2021-04-03 00:02:12+08:00 推文](https://twitter.com/realcaixia/status/1378014915777208328)
+
+Re @AnnaWruiqin @lianchaohan 如果说1952年思想改造运动打断民国时期的老一代知识精英的脊梁骨的话，那么1957年反右进一步迫害中国大陆的中年、青年知识精英，“夹边沟”的惨绝人寰的记述，就是这些知识精英的悲惨命运。接着1966-1976年十年文革，全面摧毁中华民族传统文化，摧毁中华民族传统美德，摧毁全民族的文化与精神集体记忆。
+
+### 26: [2021-04-03 00:11:36+08:00 推文](https://twitter.com/realcaixia/status/1378017279888199681)
+
+Re @AnnaWruiqin @lianchaohan 现在，曾经逐步开放的思想空间越来越被封死，大陆民众无法自由表达思想，不得已用谐音字、错别字、拼音字母加数字混用等，来表达观点，这是被极权高压逼迫下出现的文字乱象。中文文字的被破坏被摧毁每天都在发生。中华民族的历史、文化、道德、文字，在大陆中国被全面摧毁。民族意义上的汉族人还有吗？
+
+### 27: [2021-04-03 00:25:09+08:00 推文](https://twitter.com/realcaixia/status/1378020688557137925)
+
+Re @AnnaWruiqin @lianchaohan 事实上汉族人也在变相被灭。按照现在中共的做法，在少数民族地区将所有人同化为“汉族”，同时在大陆汉族人地区进行“教育灌输改造”式的变相灭绝汉民族。接着下去把所有人改造为“党族”，用中共编造的谎言历史替代真实历史；用党性灭掉人性，用党文化取代中华文化，消灭大陆人真实集体记忆，全民变成党族。
+
+### 28: [2021-04-03 00:35:27+08:00 推文](https://twitter.com/realcaixia/status/1378023279936569348)
+
+今天这个推触发了我的许多感想，于是在这个推特下连续跟发了5条推文，干脆把这个推文转发出来。关于种族灭绝问题的感想。<br><br>韩连潮: 【党国不存在种族灭绝？】构成UN的种族灭绝有精神和肉体两个要素，均存在中共对藏、维人的迫害中。大规模屠杀曾经发生，目前以大规模监禁、洗脑为主，通过改变其宗教、文化、语言等，迫使其放弃自己民族认同，而改认所谓中华民族和党文化。中共的灭族心态：非我族类其心必异！<br><br><img style src="https://pbs.twimg.com/media/Ex95ewcXMAQbz4-?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.un.org/en/genocideprevention/genocide.shtml" target="_blank" rel="noopener noreferrer">https://www.un.org/en/genocideprevention/genocide.shtml</a>
 
