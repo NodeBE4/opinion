@@ -67,3 +67,31 @@ Re @HerrKnauk @sk32thD9zS3r9Xh @meimei1935 不错，我和她是特别好的朋�
 
 世界上有两类逻辑，一类叫人们在真实生活中获得的常识常理中贯穿的正常逻辑；另一类叫中共逻辑。这两类逻辑的根本不同与对立，决定了中共正在用自己的中共逻辑重新定义“选举”与“民主”。反常必有妖。<br><br>ZHANGDONG: 北京政府正在为香港重新定义‘选举’和‘民主’。<br>“当政府能够控制谁能参加选举和谁能提名时，这个新的制度就不能被认为是民主的。再加上筛选委员会，这个系统只适合一个人，而不是所有人。”<br> <a href="https://www.voachinese.com/a/electoral-reforms-in-hk-redefine-democracy-20210331/5836372.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/electoral-reforms-in-hk-redefine-democracy-20210331/5836372.html</a>
 
+### 14: [2021-04-02 08:09:02+08:00 推文](https://twitter.com/realcaixia/status/1377775043380396034)
+
+82岁著名大律师，72岁的著名报人以及多名60多岁的香港著名民主人士都是为保护香港民众的自由权利，而bei北京极权统治判罪。历史将记住这7位香港英雄！历史将会把这次所谓审判永远钉在耻辱柱上！作恶多端最终必遭清算。<br><br>美国之音中文网: 李柱铭黎智英等7名香港民主派人士 反送中维园8-18案罪名成立<br> <a href="http://dlvr.it/RwqmPZ" target="_blank" rel="noopener noreferrer">http://dlvr.it/RwqmPZ</a>
+
+### 15: [2021-04-02 08:40:05+08:00 推文](https://twitter.com/realcaixia/status/1377782858006331393)
+
+简直疯了！去年冬天北京市多个地方断水断电断供暖，强拆民房；前年冬天河北山西山东多个地方强拆民众取暖煤炉；现在广东又集中收缴摩托车；大陆政府天天搞得鸡飞狗跳，存心不让民众安生过日子。简直不可理喻。<br><br>杨占青: 现实比电影都魔幻，网友把虎门集中入户收缴摩托车拍成了“‘不敢抗日’神剧”<br><br><video src="https://video.twimg.com/ext_tw_video/1377604984070627331/pu/vid/464x960/6tuLS39bqX-00cdD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1377604984070627331/pu/img/msZV5KTjTWwZ_vcf.jpg"></video>
+
+### 16: [2021-04-02 10:05:21+08:00 推文](https://twitter.com/realcaixia/status/1377804312735330307)
+
+Re @zhjian_m 你疯了吧！明明是事实还睁眼说瞎话！
+
+### 17: [2021-04-02 10:12:05+08:00 推文](https://twitter.com/realcaixia/status/1377806007263490049)
+
+Re @ExanderYan 你逻辑混乱啊！反对极权统治的中共恰恰是在帮助支持中国人民，你把中共与中华民族混为一谈，你要么是真糊涂要么就是真坏。
+
+### 18: [2021-04-02 10:22:02+08:00 推文](https://twitter.com/realcaixia/status/1377808514001821697)
+
+Re @yingxiazhang 你错了！今天中共极权这样的残暴灭绝维族，明天就可能残暴灭绝大陆其他民族包括汉族民众。新疆出事我在京我自然知道。新疆问题的本质不是民族宗教矛盾，是极权统治集团与新疆各族民众的矛盾冲突。曾经参与中共400人去新疆大规模调研的干部回来说，根本的问题还是“党群关系”紧张对立。
+
+### 19: [2021-04-02 10:24:25+08:00 推文](https://twitter.com/realcaixia/status/1377809113938337792)
+
+Re @u9HGQjTGbKYkTXe 你居然当面造谣！说我有子女在美国你拿出证据来！
+
+### 20: [2021-04-02 10:27:50+08:00 推文](https://twitter.com/realcaixia/status/1377809972562657286)
+
+Re @ExanderYan 善恶不分才是违背中华民族传统美德的！我受毒害被欺骗几十年，现在才醒悟过来。你是甘愿被奴役甘愿继续被骗？！
+
