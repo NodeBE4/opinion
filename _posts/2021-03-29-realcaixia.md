@@ -127,3 +127,15 @@ Re @AnnaWruiqin @lianchaohan 事实上汉族人也在变相被灭。按照现在
 
 今天这个推触发了我的许多感想，于是在这个推特下连续跟发了5条推文，干脆把这个推文转发出来。关于种族灭绝问题的感想。<br><br>韩连潮: 【党国不存在种族灭绝？】构成UN的种族灭绝有精神和肉体两个要素，均存在中共对藏、维人的迫害中。大规模屠杀曾经发生，目前以大规模监禁、洗脑为主，通过改变其宗教、文化、语言等，迫使其放弃自己民族认同，而改认所谓中华民族和党文化。中共的灭族心态：非我族类其心必异！<br><br><img style src="https://pbs.twimg.com/media/Ex95ewcXMAQbz4-?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.un.org/en/genocideprevention/genocide.shtml" target="_blank" rel="noopener noreferrer">https://www.un.org/en/genocideprevention/genocide.shtml</a>
 
+### 29: [2021-04-03 02:03:29+08:00 推文](https://twitter.com/realcaixia/status/1378045437542866948)
+
+Re @iguangcheng 向您致敬！祝贺您！维护人权反抗极权的勇士。让我们一起共同努力，争取中国大陆民主政治转型的早日到来。🌹🌹🌹
+
+### 30: [2021-04-03 02:17:44+08:00 推文](https://twitter.com/realcaixia/status/1378049022292860928)
+
+Re @jiwenOUO @Davidshrugger @lianchaohan 很同意您的观点。共产党没有民族属性。所有的共产党有一个共同属性：反人性反文明。
+
+### 31: [2021-04-03 02:29:52+08:00 推文](https://twitter.com/realcaixia/status/1378052075087659011)
+
+Re @jiwenOUO @Davidshrugger @lianchaohan 是的，就看看中共暴政如何对待律师，访民、农民、宗教信众；如何对待报道武汉疫情真相的公民记者张展、方斌、如何对待孙大午、丁家喜、许志永、任志强、耿潇男、如何对待王怡牧师等无数人，就知道中共眼里没有民族之分，只有党奴与站直的人之分。党奴可暂免遭殃，站直的人必须暴力镇压。
+
