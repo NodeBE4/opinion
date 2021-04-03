@@ -21,19 +21,19 @@ title: 'Twitter @蔡霞: 2020-10-12~2020-10-18'
 
 ### 2: [2020-10-13 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1315778676261302274)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。<hr><small>10/13/2020, 6:17:37 AM</small>
+Re 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯<hr><small>10/13/2020, 6:20:30 AM</small>
+Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯
 
 ### 4: [2020-10-13 08:00:08+08:00 推文](https://twitter.com/realcaixia/status/1315804478453489670)
 
-中国正在酝酿表面叫付乡镇长兼派出所长，实质是派出所所长兼任副乡镇长的所谓“改革”。这标志着中共国进一步强化警察治国。1，今年7月中国将400万辅警转为正式编制，使警察总数达到600万之多。扩张政府人员编制意味大幅度增加财政支出，等于纳税人交钱给强权加强监视控制自己。（请接着看下几条推文） <br><img src="https://pbs.twimg.com/media/EkKtML8X0AEAvlu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKtML-XcAAcwu6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkKtML9WAAAYaps?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  中国正在酝酿表面叫付乡镇长兼派出所长，实质是派出所所长兼任副乡镇长的所谓“改革”。这标志着中共国进一步强化警察治国。1，今年7月中国将400万辅警转为正式编制，使警察总数达到600万之多。扩张政府人员编制意味大幅度增加财政支出，等于纳税人交钱给强权加强监视控制自己。（请接着看下几条推文）<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkKtML8X0AEAvlu?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKtML8X0AEAvlu?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKtML-XcAAcwu6?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKtML-XcAAcwu6?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkKtML9WAAAYaps?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkKtML9WAAAYaps?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 8:00:08 AM</small>
 
 ### 5: [2020-10-13 08:03:57+08:00 推文](https://twitter.com/realcaixia/status/1315805439360225281)
 
-Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供养庞大的中共党系统及专职党务官员。由中央决定扩张警力400万，经过中国纳税人批准了吗？！显然，全国人大连装样走走程序都没做。这实质是中共党拿纳税人的钱豢养400万打手，且纳税人只许掏钱不许说话，谁说话就抓谁。这是标准的强盗匪帮行径。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 2、中共国党库国库不分，纳税人既要供养政府系统还要供养庞大的中共党系统及专职党务官员。由中央决定扩张警力400万，经过中国纳税人批准了吗？！显然，全国人大连装样走走程序都没做。这实质是中共党拿纳税人的钱豢养400万打手，且纳税人只许掏钱不许说话，谁说话就抓谁。这是标准的强盗匪帮行径。<hr><small>10/13/2020, 8:03:57 AM</small>
 
 ### 6: [2020-10-13 08:04:41+08:00 推文](https://twitter.com/realcaixia/status/1315805620411469824)
 
