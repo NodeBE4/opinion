@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-01
+date: 2021-04-03
 from: https://twitter.com/Junmai1103/status/1376415065142796290
 layout: post
 tags:
@@ -31,19 +31,27 @@ RT Yuen Chan<br>It's relentless<br><br>Lok.: True sign of our times: #RTHK n
 
 Re @AsiaLeiden @RWallenbergInst CMP is proud to be involved in this interesting and important project.
 
-### 5: [2021-04-01 13:45:55+08:00 推文](https://twitter.com/shenlulushen/status/1377497431634509825)
+### 5: [2021-03-30 21:52:14+08:00 推文](https://twitter.com/QinchenCQ/status/1376895043307376640)
+
+RT Qin Chen<br>Re But demand for quality China reporting and nuanced explanation of the country is only getting stronger. If you ever read and loved Inkstone or yearning to know more about China, here are three great under-the-radar newsletters I recommend:
+
+### 6: [2021-04-01 13:45:55+08:00 推文](https://twitter.com/shenlulushen/status/1377497431634509825)
 
 RT Shen Lu<br>There are plenty of independent journalists in China; they are just not seen. This assertion is a prime example of how Chinese journalists are invisibilized in the English-speaking world.<br><br>Matt Schiavenza: We're heading to a situation where soon, there won't be any independent journalists left in China — meaning that a fifth of the world's population will have no one to help hold their government accountable.<br> <a href="https://news.yahoo.com/bbc-reporter-leaves-china-says-102806877.html" target="_blank" rel="noopener noreferrer">https://news.yahoo.com/bbc-reporter-leaves-china-says-102806877.html</a>
 
-### 6: [2021-04-01 17:51:34+08:00 推文](https://twitter.com/Junmai1103/status/1377559252944871425)
+### 7: [2021-04-01 17:51:34+08:00 推文](https://twitter.com/Junmai1103/status/1377559252944871425)
 
 RT Jun Mai<br>Beijing’s radical reforms dash decades of hopes for Hong Kong democracy <a href="https://www.scmp.com/comment/opinion/article/3127765/hong-kong-democracy-beijing-has-dashed-decades-hopes-radical?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3127765" target="_blank" rel="noopener noreferrer">https://www.scmp.com/comment/opinion/article/3127765/hong-kong-democracy-beijing-has-dashed-decades-hopes-radical?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3127765</a>
 
-### 7: [2021-04-01 17:52:02+08:00 推文](https://twitter.com/cnmediaproject/status/1377559369919905794)
+### 8: [2021-04-01 17:52:02+08:00 推文](https://twitter.com/cnmediaproject/status/1377559369919905794)
 
 As Chinese diplomats talk about battling "mad dogs" in scholarship and journalism, CMP's David Bandurski looks back on the CCP's history with dogs, mad and running. <a href="https://chinamediaproject.org/2021/04/01/mad-dogs-and-wolves-a-history/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/04/01/mad-dogs-and-wolves-a-history/</a><br><img style src="https://pbs.twimg.com/media/Ex4S7snWUAA1osw?format=png&name=orig" referrerpolicy="no-referrer">
 
-### 8: [2021-04-01 19:03:37+08:00 推文](https://twitter.com/cnmediaproject/status/1377577383574769664)
+### 9: [2021-04-01 19:03:37+08:00 推文](https://twitter.com/cnmediaproject/status/1377577383574769664)
 
 Re @ricomacao We regret that we can't give you your "laughing and howling" in the Chinese. In the party-state press and social media, this is just 疯狗.    :) <a href="https://world.huanqiu.com/article/42P9PKeRWbD" target="_blank" rel="noopener noreferrer">https://world.huanqiu.com/article/42P9PKeRWbD</a> <a href="https://new.qq.com/rain/a/20210322A084KM00" target="_blank" rel="noopener noreferrer">https://new.qq.com/rain/a/20210322A084KM00</a>
+
+### 10: [2021-04-03 07:59:11+08:00 推文](https://twitter.com/suilee/status/1378134951556644864)
+
+RT Sui-Lee Wee 黄瑞黎<br>She says she is not yet qualified to claim the mantle of feminist. “It took me so many years to realize that I had to live for myself.” Read this lovely story by ⁦@QiuyiJoy⁩ ⁦@vwang3⁩ <a href="https://www.nytimes.com/2021/04/02/world/asia/china-roadtrip-feminist.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/04/02/world/asia/china-roadtrip-feminist.html</a>
 
