@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-03
+date: 2021-04-04
 from: https://twitter.com/realcaixia/status/1376234302531371008
 layout: post
 tags:
@@ -138,4 +138,12 @@ Re @jiwenOUO @Davidshrugger @lianchaohan 很同意您的观点。共产党没有
 ### 31: [2021-04-03 02:29:52+08:00 推文](https://twitter.com/realcaixia/status/1378052075087659011)
 
 Re @jiwenOUO @Davidshrugger @lianchaohan 是的，就看看中共暴政如何对待律师，访民、农民、宗教信众；如何对待报道武汉疫情真相的公民记者张展、方斌、如何对待孙大午、丁家喜、许志永、任志强、耿潇男、如何对待王怡牧师等无数人，就知道中共眼里没有民族之分，只有党奴与站直的人之分。党奴可暂免遭殃，站直的人必须暴力镇压。
+
+### 32: [2021-04-04 21:54:21+08:00 推文](https://twitter.com/realcaixia/status/1378707514670321668)
+
+今日清明，祭扫先辈，纪念逝去的令我尊敬的人——胡耀邦、赵紫阳。<br><br>高瑜: 這是紫陽子女在父母安葬後第四天，專門陪同鮑彤去墓地祭拜。安葬當天，鮑彤被禁止參加下葬儀式。2005年1月24日，鮑彤也被禁止參加八寶山公祭，此前在夫人蔣宗曹被推倒，脊柱粉碎性骨折，自己左手小手指被打骨折的抗爭之下，當局當天早五點鐘在北京醫院單獨為鮑彤舉行了一場趙紫陽遺體告別式。<br> <a href="https://twitter.com/Ipkmedia/status/1378545233235968004" target="_blank" rel="noopener noreferrer">https://twitter.com/Ipkmedia/status/1378545233235968004</a>
+
+### 33: [2021-04-04 22:27:39+08:00 推文](https://twitter.com/realcaixia/status/1378715895921532936)
+
+清明时节，遥寄哀思。中国大陆曾经有过的改革前进的年代，随着胡耀邦、赵紫阳离开权力位置而黯然落幕，落幕上溅抹着殷红的鲜血。那一年逝去了胡耀邦，随之即是北京6.4前后广场上逝去的年轻激越的生命，还有诸如进厨房倒水喝被射进的子弹结束生命的无辜亡灵………<br><img style src="https://pbs.twimg.com/media/EyIuyiAWEAQ-1jT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EyIuyv3WQAIyzNK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EyIuy6iWQAA0m-0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EyIuzEBXAAMm_MJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
