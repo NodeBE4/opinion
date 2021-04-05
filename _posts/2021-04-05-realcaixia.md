@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-05
+date: 2021-04-06
 from: https://twitter.com/realcaixia/status/1378742138440200194
 layout: post
 tags:
@@ -26,4 +26,16 @@ title: 'Twitter @蔡霞: 2021-04-05~2021-04-11'
 ### 3: [2021-04-05 10:40:28+08:00 推文](https://twitter.com/realcaixia/status/1378900314468843522)
 
 Re @NSJ_zz_ @4hq24FhV7zddB1u 赵紫阳不进八宝山。中共决不敢。赵紫阳不会同意，赵紫阳子女更不会同意。
+
+### 4: [2021-04-06 01:20:53+08:00 推文](https://twitter.com/realcaixia/status/1379121877382234112)
+
+Re @at8341 查了此推特的全部，十有八九是中共网军制造的机器人
+
+### 5: [2021-04-06 01:31:36+08:00 推文](https://twitter.com/realcaixia/status/1379124577654210564)
+
+这是从江峰先生的油管上截取过来的。感谢江峰先生。这话说到根本上了！极权意识形态充满了谎言，没有谎言他们就无法生存、无法维持统治。传播真相，戳穿谎言，推倒封锁信息之墙，需要所有争取自由民主的朋友共同努力。<br><img style src="https://pbs.twimg.com/media/EyOifm9WUAQAgc8?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-04-06 01:53:36+08:00 推文](https://twitter.com/realcaixia/status/1379130112554237957)
+
+清明时节追缅先人。今晨再听陈小平先生9月前的一个油管访谈节目，三位嘉宾回忆那年的6.4他们各自的经历以及今天的思考。6.4是赵紫阳人格尊严的高点，他坚持了良知；6.4是他政治人生的转折点，从此后他给剥夺一切权力软禁至逝世。他逝世至今即便已在墓地，中共依然在拘禁他。<br><br>高瑜: 清明節吳偉發不出去的微信朋友圈和趙家院落盛開的海棠。<br><br><img style src="https://pbs.twimg.com/media/EyLd4qnUcAE_pb_?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EyLd6LaUUAI0fCf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
