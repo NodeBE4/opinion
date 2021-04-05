@@ -39,3 +39,7 @@ Re @at8341 查了此推特的全部，十有八九是中共网军制造的机器
 
 清明时节追缅先人。今晨再听陈小平先生9月前的一个油管访谈节目，三位嘉宾回忆那年的6.4他们各自的经历以及今天的思考。6.4是赵紫阳人格尊严的高点，他坚持了良知；6.4是他政治人生的转折点，从此后他给剥夺一切权力软禁至逝世。他逝世至今即便已在墓地，中共依然在拘禁他。<br><br>高瑜: 清明節吳偉發不出去的微信朋友圈和趙家院落盛開的海棠。<br><br><img style src="https://pbs.twimg.com/media/EyLd4qnUcAE_pb_?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EyLd6LaUUAI0fCf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 7: [2021-04-06 07:28:43+08:00 推文](https://twitter.com/realcaixia/status/1379214447416315904)
+
+Re @dezen__ 江峰先生这话说得好，当然应该传播。不看别人说得对不对，先去否定别人用对别人污名化的做法对人进行人身攻击，这些都是十足的中共做法。真要争取民主自由，先把自己的思维方式从中共洗脑中的毒害中走出来。
+
