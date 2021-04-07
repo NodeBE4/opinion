@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-07
+date: 2021-04-08
 from: https://twitter.com/realcaixia/status/1378742138440200194
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re @wz01 还你一句话：只要话说得对，我就去转发。你们不用�
 ### 9: [2021-04-07 19:25:57+08:00 推文](https://twitter.com/realcaixia/status/1379757333736263680)
 
 Re @wz01 揭露中共干的坏事这是应该做的事。没见你揭露中共坏事做绝，只见你在我推下你攻击发言者个人。你是有意帮中共攻击揭露中共者还是你糊涂？
+
+### 10: [2021-04-08 03:36:18+08:00 推文](https://twitter.com/realcaixia/status/1379880732236079106)
+
+听王剑老师这一讲，内心感受无法用言语表达，孟姜女，窦娥冤……大陆历朝历代的所谓强盛，无一不是底层人的血泪尸骨垒砌。中国无历史。只有一场又一场循环往复的贫民血泪人生与怨愤无尽的生命悲剧<br>中国所谓大国崛起的另类注脚: 自杀/王剑每日观察/20210407 <a href="https://youtu.be/DCdp38nK76g" target="_blank" rel="noopener noreferrer">https://youtu.be/DCdp38nK76g</a>
 
