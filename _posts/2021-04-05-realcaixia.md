@@ -55,3 +55,15 @@ Re @wz01 揭露中共干的坏事这是应该做的事。没见你揭露中共�
 
 听王剑老师这一讲，内心感受无法用言语表达，孟姜女，窦娥冤……大陆历朝历代的所谓强盛，无一不是底层人的血泪尸骨垒砌。中国无历史。只有一场又一场循环往复的贫民血泪人生与怨愤无尽的生命悲剧<br>中国所谓大国崛起的另类注脚: 自杀/王剑每日观察/20210407 <a href="https://youtu.be/DCdp38nK76g" target="_blank" rel="noopener noreferrer">https://youtu.be/DCdp38nK76g</a>
 
+### 11: [2021-04-08 04:58:32+08:00 推文](https://twitter.com/realcaixia/status/1379901427225661444)
+
+请各位网友读读这篇文章吧！字字血行行泪、满页的冤与愤。残酷的事实真相桩桩件件……这样的“崛起”模式反人道反人伦反文明，谁为这样的“崛起”模式叫好唱赞歌，先拷问自己良心何在！凡五毛粉红中共网军喽喽一律拉黑！<br>大车司机服毒自尽，为什么“北斗掉线”成了他们的噩梦？ <a href="https://finance.sina.cn/chanjing/gsxw/2021-04-07/detail-ikmyaawa8402695.d.html?from=wap" target="_blank" rel="noopener noreferrer">https://finance.sina.cn/chanjing/gsxw/2021-04-07/detail-ikmyaawa8402695.d.html?from=wap</a>
+
+### 12: [2021-04-08 05:10:55+08:00 推文](https://twitter.com/realcaixia/status/1379904543060811782)
+
+Re @wongkim728 @YouTube 期待王剑老师有更多更好的观察评论播出。有真相有理性有逻辑有深度的分析思考，是中文大众话语空间里的稀缺品。
+
+### 13: [2021-04-08 06:37:30+08:00 推文](https://twitter.com/realcaixia/status/1379926334873473026)
+
+Re @8rPY7Q1c9x39Gzz @wongkim728 @YouTube 对大康有话说也不错。我曾经误解过大康老师的评论，大康老师的评论也做得很好。
+
