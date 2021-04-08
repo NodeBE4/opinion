@@ -67,3 +67,7 @@ Re @wongkim728 @YouTube 期待王剑老师有更多更好的观察评论播出�
 
 Re @8rPY7Q1c9x39Gzz @wongkim728 @YouTube 对大康有话说也不错。我曾经误解过大康老师的评论，大康老师的评论也做得很好。
 
+### 14: [2021-04-08 08:07:18+08:00 推文](https://twitter.com/realcaixia/status/1379948934987046916)
+
+大车司机服毒自尽，为什么“北斗掉线”成了他们的噩梦？_手机新浪网 <a href="https://finance.sina.cn/chanjing/gsxw/2021-04-07/detail-ikmyaawa8402695.d.html?from=wap" target="_blank" rel="noopener noreferrer">https://finance.sina.cn/chanjing/gsxw/2021-04-07/detail-ikmyaawa8402695.d.html?from=wap</a>
+
