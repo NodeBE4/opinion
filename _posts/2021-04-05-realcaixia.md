@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-08
+date: 2021-04-09
 from: https://twitter.com/realcaixia/status/1378742138440200194
 layout: post
 tags:
@@ -70,4 +70,8 @@ Re @8rPY7Q1c9x39Gzz @wongkim728 @YouTube 对大康有话说也不错。我曾经
 ### 14: [2021-04-08 08:07:18+08:00 推文](https://twitter.com/realcaixia/status/1379948934987046916)
 
 大车司机服毒自尽，为什么“北斗掉线”成了他们的噩梦？_手机新浪网 <a href="https://finance.sina.cn/chanjing/gsxw/2021-04-07/detail-ikmyaawa8402695.d.html?from=wap" target="_blank" rel="noopener noreferrer">https://finance.sina.cn/chanjing/gsxw/2021-04-07/detail-ikmyaawa8402695.d.html?from=wap</a>
+
+### 15: [2021-04-09 22:27:07+08:00 推文](https://twitter.com/realcaixia/status/1380527700939530251)
+
+Re @NicoleE60839403 @jenniferatntd @lianchaohan 杨是中国公务人员，凡是手里握有公共权力的，其言行会影响到社会公众利益的官员，其个人财富信息有责任向社会公开，这是公民监督官员的民主权利。官员的家庭财富与家人情况公民有权利知道。这没有任何不道德，相反，“反美是工作，在美是生活”，杨洁篪言行两面性，人格分裂才是真正的不道德。
 
