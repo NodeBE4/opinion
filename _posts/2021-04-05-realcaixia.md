@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-09
+date: 2021-04-11
 from: https://twitter.com/realcaixia/status/1378742138440200194
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re @8rPY7Q1c9x39Gzz @wongkim728 @YouTube 对大康有话说也不错。我曾经
 ### 15: [2021-04-09 22:27:07+08:00 推文](https://twitter.com/realcaixia/status/1380527700939530251)
 
 Re @NicoleE60839403 @jenniferatntd @lianchaohan 杨是中国公务人员，凡是手里握有公共权力的，其言行会影响到社会公众利益的官员，其个人财富信息有责任向社会公开，这是公民监督官员的民主权利。官员的家庭财富与家人情况公民有权利知道。这没有任何不道德，相反，“反美是工作，在美是生活”，杨洁篪言行两面性，人格分裂才是真正的不道德。
+
+### 16: [2021-04-11 01:06:11+08:00 推文](https://twitter.com/realcaixia/status/1380930118558814210)
+
+中共西藏新疆政府严重侵犯人权，已经引起全球许多国家政府与人权组织的高度关注，特别是集中营与强迫劳动的新疆血棉花问题。这些只是中共极权统治暴行的一个部分，整个大陆各地政府都在严重侵犯人权迫害正直人士。请读刘艳丽：<br><br>刘艳丽：我的自辩书及最后陈述 <a href="https://ipkmedia.com/?p=23196" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=23196</a>
 
