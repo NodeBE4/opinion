@@ -79,3 +79,7 @@ Re @NicoleE60839403 @jenniferatntd @lianchaohan 杨是中国公务人员，凡�
 
 中共西藏新疆政府严重侵犯人权，已经引起全球许多国家政府与人权组织的高度关注，特别是集中营与强迫劳动的新疆血棉花问题。这些只是中共极权统治暴行的一个部分，整个大陆各地政府都在严重侵犯人权迫害正直人士。请读刘艳丽：<br><br>刘艳丽：我的自辩书及最后陈述 <a href="https://ipkmedia.com/?p=23196" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=23196</a>
 
+### 17: [2021-04-11 01:15:06+08:00 推文](https://twitter.com/realcaixia/status/1380932364206010376)
+
+再转推刘艳丽在监狱中的情况。前一推是刘艳丽在法庭上的自辩书与最后陈述。刘艳丽回顾了公安局内部，先后有两个局长一个警察支队长都不认为她有罪，于是这些人被调离岗位，她被硬性判刑。刘艳丽案再次表明整个大陆就是巨型监狱<br>刘艳丽狱中被虐待 申诉听证会不能参加 - 光传媒 <a href="https://ipkmedia.com/?p=61022" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=61022</a>
+
