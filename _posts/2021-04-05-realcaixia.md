@@ -83,3 +83,35 @@ Re @NicoleE60839403 @jenniferatntd @lianchaohan 杨是中国公务人员，凡�
 
 再转推刘艳丽在监狱中的情况。前一推是刘艳丽在法庭上的自辩书与最后陈述。刘艳丽回顾了公安局内部，先后有两个局长一个警察支队长都不认为她有罪，于是这些人被调离岗位，她被硬性判刑。刘艳丽案再次表明整个大陆就是巨型监狱<br>刘艳丽狱中被虐待 申诉听证会不能参加 - 光传媒 <a href="https://ipkmedia.com/?p=61022" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=61022</a>
 
+### 18: [2021-04-11 21:37:11+08:00 推文](https://twitter.com/realcaixia/status/1381239911446011905)
+
+中国大陆人权状况极度恶劣，郭宏伟死于监狱并非大陆第一人，下面文章有所介绍。类似郭宏伟状况的709公民尹旭安、更令人揪心担忧的张展等，他们都处于危急之中，亟需国际社会高度关注，施予人道主义救援。HELP! HELP! <br><br>郭宏伟之死控诉当局持续迫害人权捍卫者的罪恶 - 光传媒 | <a href="https://ipkmedia.com/?p=61411" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=61411</a>
+
+### 19: [2021-04-11 22:21:27+08:00 推文](https://twitter.com/realcaixia/status/1381251048959000578)
+
+中国大陆的良心艺术家令人肃然起敬！<br><br>郭宝胜 Baosheng Guo: 中国国内的艺术家们还在做不屈的抗争！<br><br><video src="https://video.twimg.com/ext_tw_video/1380575521172504582/pu/vid/720x720/tUhUwUKgt2TA6Hck.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1380575521172504582/pu/img/V9--Ox5mxmpYh43D.jpg"></video>
+
+### 20: [2021-04-11 22:39:57+08:00 推文](https://twitter.com/realcaixia/status/1381255705777295361)
+
+中共警察光天化日下的暴行！这不是孤例，是普遍现象。我的一位家人是军队转业干部，前些年与众多战友一起去政府机构情愿，抗议对转业干部待遇政策的不公平。她们看到有些请愿市民被警察暴打，便上前阻拦。警察居然说：“不打人，要我们警察干什么？！”大陆警察、城管，暴力殴打平民，出手与土匪没两样。<br><br>General Spalding: Love me some CCP🤬<br> <a href="https://twitter.com/twtvideoofchina/status/1380755553396387840" target="_blank" rel="noopener noreferrer">https://twitter.com/twtvideoofchina/status/1380755553396387840</a>
+
+### 21: [2021-04-11 22:52:52+08:00 推文](https://twitter.com/realcaixia/status/1381258955008188417)
+
+Re @Gavin21591233 你有意混淆概念！警察行使暴力必须是针对正在实施危害社会公众人身与财产安全的犯罪行为的罪犯嫌疑分子。你见过哪个民主法治国家警察在大街上暴打请愿市民？！你是在替中共暴政洗地。视频中被三四个警察围着暴打的人手无寸铁，你为警察这种暴行辩护只能说明你毫无良知。
+
+### 22: [2021-04-11 23:07:03+08:00 推文](https://twitter.com/realcaixia/status/1381262526789386240)
+
+Re @lianchaohan 中共自己规定，妻儿家人已移居国外的被称之为“裸官”，“裸官”不得被提拔重用至处级以上主要官职。杨洁篪官居中共中央政治局委员，是中共最高权力小集团（25人）成员之一。杨是隐瞒了事实对习中共不忠诚不老实？还是习中共假装不知道杨是裸官？
+
+### 23: [2021-04-11 23:33:31+08:00 推文](https://twitter.com/realcaixia/status/1381269185888714756)
+
+Re @ChenRuida @Tsingwu1 我在国内从2011年起被监控，2016年5月以后被全面封杀，根本发不出任何文章，微信多次被封杀。中共全面封杀国内反抗声音，许多人都像我一样毫无发出文章发表言论的公开渠道。
+
+### 24: [2021-04-11 23:39:21+08:00 推文](https://twitter.com/realcaixia/status/1381270654528405507)
+
+Re @ChenRuida 泼污水、搞人身攻击是你们这些东西的惯用手段。你的上面言论表明你中共帮凶，你真是条舔狗。我都不愿意用你说的“舔狗”二字回敬你，弄脏了我的语言。
+
+### 25: [2021-04-11 23:43:39+08:00 推文](https://twitter.com/realcaixia/status/1381271735891288065)
+
+Re @Gavin21591233 你没有遇到事儿，你可以说岁月静好。但是请不要忘记，在毫无人权保障的国家里，今天等你没遇到事了不等于你就真的平安无事。看看警察怎么肆意暴打别人，就能想到有一天警察也能肆意暴打你，除非你一直当他们的驯服奴才。
+
