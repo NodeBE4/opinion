@@ -57,7 +57,7 @@ Re @zfb468590 谢谢您看的仔细。
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
-最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/14/2020, 8:37:45 AM</small>
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 

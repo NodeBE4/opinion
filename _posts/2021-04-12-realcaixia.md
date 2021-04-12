@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-12
+date: 2021-04-13
 from: https://twitter.com/realcaixia/status/1381299227364634629
 layout: post
 tags:
@@ -70,4 +70,12 @@ Re 民企家通过我的中学同学来找我请我把材料递给中纪委。�
 ### 14: [2021-04-12 22:28:13+08:00 推文](https://twitter.com/realcaixia/status/1381615142736166919)
 
 Re @LipingHuang7 首先你攻击人就不是说理，不屑与你讨论。
+
+### 15: [2021-04-13 04:53:37+08:00 推文](https://twitter.com/realcaixia/status/1381712132165754883)
+
+Re @sirewedesday @TungVargas 1957年7月7日，毛泽东在上海中苏友好大厦接见上海科学、教育、艺术和工商界的代表人士。席间罗稷南问了毛泽东一个问题，<br>“要是鲁迅今天还活着，他会怎么样？”<br>毛泽东的回答语惊四座，“要么被关在牢里继续写他的，要么一句话也不说。”<br>毛泽东与罗稷南的对话最早由周海婴在《鲁迅与我七十年》一书中披露
+
+### 16: [2021-04-13 04:54:38+08:00 推文](https://twitter.com/realcaixia/status/1381712385665335297)
+
+Re @sirewedesday @TungVargas 毛泽东与罗稷南的对话最早由周海婴在《鲁迅与我七十年》一书中披露的。其后，罗稷南的侄子陈焜也发表文章说自己也曾经亲耳听见伯父讲过他这次设问求答的情况。
 
