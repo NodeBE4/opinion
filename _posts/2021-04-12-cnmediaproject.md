@@ -23,19 +23,27 @@ RT Eileen Guo<br>This. Entire. Thread. <br><br>It’s bad enough that journos 
 
 RT David Barboza<br>The Wire is one year old! Thanks to our paid subscribers and others for your support. We have a small team of ambitious, hard working journalists, trying to compete at the highest level, writing about one of the most important stories of our time! <a href="https://www.thewirechina.com/2021/04/11/charged-up/" target="_blank" rel="noopener noreferrer">https://www.thewirechina.com/2021/04/11/charged-up/</a>
 
-### 3: [2021-04-12 15:24:42+08:00 推文](https://twitter.com/lingli_vienna/status/1381508559515570182)
+### 3: [2021-04-12 12:03:33+08:00 推文](https://twitter.com/studersc/status/1381457936703090692)
+
+RT Stephanie Studer<br>More than 1 in 3 children in China experience the prolonged absence of at least one parent, almost always due to migration. Since 2016 officials have paid attention to the plight of these left-behind children. But systems of support are thinly stretched. <a href="https://www.economist.com/china/2021/04/08/the-plight-of-chinas-left-behind-children" target="_blank" rel="noopener noreferrer">https://www.economist.com/china/2021/04/08/the-plight-of-chinas-left-behind-children</a>
+
+### 4: [2021-04-12 15:24:42+08:00 推文](https://twitter.com/lingli_vienna/status/1381508559515570182)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>I've seen simpler versions of the PRC ideological/political spectrum before, but this one is the best.<br><br>"I am inevitable" is my favorite line.<br><br>@YanHui89767430  Did you come up with this? <br><br> h/t @StatesWarring for RT.<br><img style src="https://pbs.twimg.com/media/EywZQo5WUAAV1lG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 4: [2021-04-12 18:06:17+08:00 推文](https://twitter.com/xinwenxiaojie/status/1381549221707399169)
+### 5: [2021-04-12 18:06:17+08:00 推文](https://twitter.com/xinwenxiaojie/status/1381549221707399169)
 
 RT Yuen Chan<br>I can't forget these words from Southern Weekend founder Zuo Fang when he spoke in Hong Kong in June 2014. As Hong Kong's journalists struggle to maintain their independence and professionalism, they have become even more poignant.<br><img style src="https://pbs.twimg.com/media/Eyw_N9jXEAM3huV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 5: [2021-04-13 01:09:26+08:00 推文](https://twitter.com/cnmediaproject/status/1381655714784030724)
+### 6: [2021-04-13 01:09:26+08:00 推文](https://twitter.com/cnmediaproject/status/1381655714784030724)
 
 A recent notice released by the CCP outlines an aggressive propaganda campaign this year for the 100th anniversary of the Party. The theme: “Forever Following the Party” (永远跟党走) <a href="https://chinamediaproject.org/2021/04/13/the-ccps-2021-propaganda-blueprint/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/04/13/the-ccps-2021-propaganda-blueprint/</a><br><img style src="https://pbs.twimg.com/media/Eyygd_qWYAYKVS-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 6: [2021-04-13 01:15:15+08:00 推文](https://twitter.com/cnmediaproject/status/1381657176335339526)
+### 7: [2021-04-13 01:15:15+08:00 推文](https://twitter.com/cnmediaproject/status/1381657176335339526)
 
 The chilling story last week of a 2017 murder exposed the lengths to which some families go to circumvent regulations mandating cremations over burials. The story was quickly deleted, and one of the authors, a university student, was sought by police. <a href="https://chinamediaproject.org/2021/04/11/a-murder-to-ensure-a-proper-burial/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/04/11/a-murder-to-ensure-a-proper-burial/</a><br><img style src="https://pbs.twimg.com/media/Eyyheb1XIAM2b9F?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-04-13 11:11:49+08:00 推文](https://twitter.com/tomwxj/status/1381807309341384711)
+
+RT Tom Wang<br>China's Ministry of Foreign Affairs calls Japan's decision to release nuclear waste water from Fukushima "irresponsible", citing, very rarely, a Greenpeace analysis. <a href="https://xhpfmapi.zhongguowangshi.com/vh512/share/9901523?channel=weixin" target="_blank" rel="noopener noreferrer">https://xhpfmapi.zhongguowangshi.com/vh512/share/9901523?channel=weixin</a>
 
