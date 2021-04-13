@@ -79,3 +79,7 @@ Re @sirewedesday @TungVargas 1957年7月7日，毛泽东在上海中苏友好大
 
 Re @sirewedesday @TungVargas 毛泽东与罗稷南的对话最早由周海婴在《鲁迅与我七十年》一书中披露的。其后，罗稷南的侄子陈焜也发表文章说自己也曾经亲耳听见伯父讲过他这次设问求答的情况。
 
+### 17: [2021-04-13 22:29:57+08:00 推文](https://twitter.com/realcaixia/status/1381977965643333633)
+
+中共对全球尤其是对美国欧盟的意识形态战争，一个突出特点是限制学术自由和批评自由。中共对欧洲与美国研究中国问题的学者，只许他们为中国说好话，不能容忍欧美学者们观察中国情况的客观表述和理性分析。中共对欧美学者的一贯性惩罚方式之一，就是不给理性分析中国的学者签证进入中国大陆。<br><br>ZHANGDONG: 《欧洲汉学学会就中国政府对欧洲从事中国研究的学者实施制裁的声明》，汉学学会官网发布。<br>此处中文翻译非官方翻译，<br>仅供外语不佳者阅读参考！<br><br><img style src="https://pbs.twimg.com/media/Eyy75Q3WEAIctYZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eyy75jqXAAQjqAH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eyy75z2WYAUTOku?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eyy76CaWQAcGGCq?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/hild_de/status/1381547886270418944" target="_blank" rel="noopener noreferrer">https://twitter.com/hild_de/status/1381547886270418944</a>
+
