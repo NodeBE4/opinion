@@ -87,3 +87,15 @@ Re @sirewedesday @TungVargas 毛泽东与罗稷南的对话最早由周海婴在
 
 请读一读这篇报道，香港市民的英勇抗争，很感人。<br><br>上阵父子兵：一个香港抗争家庭的抵抗与流亡之路 <a href="https://www.rfa.org/mandarin/yataibaodao/gangtai/sc-04132021132627.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/gangtai/sc-04132021132627.html</a>
 
+### 19: [2021-04-14 22:29:01+08:00 推文](https://twitter.com/realcaixia/status/1382340116228702208)
+
+再推荐王剑老师的节目。马云发言惹祸—叫停蚂蚁金服上市—整治蚂蚁金服—马云“神隐”公众遐想“马云被双规？”—182亿罚阿里巴巴—官方联手整顿34家平台公司。<br><br>中国平台经济风暴骤起, 中共汹汹批斗互联网企业/拜登派前高官访台, 克里出访上海/王剑每日观察/20210413 <a href="https://youtu.be/C3ROc89_Xic" target="_blank" rel="noopener noreferrer">https://youtu.be/C3ROc89_Xic</a>
+
+### 20: [2021-04-14 22:41:16+08:00 推文](https://twitter.com/realcaixia/status/1382343201042874372)
+
+再推“希望之声”评论。整马云到整34家平台公司，海内外巨大震动。互联网经济是当代新兴经济，一国经济支柱。战狼外交，国际交恶；整互联网经济，伤国内元气。总加速变急速？压经济服从政治目标？<br><br>重罰、舉報、監控：全面左轉的信號？   【希望之聲TV】（04/13) <a href="https://youtu.be/Lkpj6MSIU1w" target="_blank" rel="noopener noreferrer">https://youtu.be/Lkpj6MSIU1w</a>
+
+### 21: [2021-04-14 22:48:46+08:00 推文](https://twitter.com/realcaixia/status/1382345090593611779)
+
+Re @vvjv001 @YouTube 马云是党员，党员就可被双规。此外，民营企业家被事实双规，早已悄悄执行。理由：配合党内反腐工作。要搞到贪腐官员证据，从企业家下手，追行贿受贿证据。2015年春天我亲耳听一个女企业家讲她被双规一周的经历。
+
