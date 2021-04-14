@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-13
+date: 2021-04-14
 from: https://twitter.com/eileenguo/status/1381329501095792643
 layout: post
 tags:
@@ -46,4 +46,16 @@ The chilling story last week of a 2017 murder exposed the lengths to which some 
 ### 8: [2021-04-13 11:11:49+08:00 推文](https://twitter.com/tomwxj/status/1381807309341384711)
 
 RT Tom Wang<br>China's Ministry of Foreign Affairs calls Japan's decision to release nuclear waste water from Fukushima "irresponsible", citing, very rarely, a Greenpeace analysis. <a href="https://xhpfmapi.zhongguowangshi.com/vh512/share/9901523?channel=weixin" target="_blank" rel="noopener noreferrer">https://xhpfmapi.zhongguowangshi.com/vh512/share/9901523?channel=weixin</a>
+
+### 9: [2021-04-13 19:45:00+08:00 推文](https://twitter.com/fcchk/status/1381936453437939712)
+
+RT The Foreign Correspondents’ Club, Hong Kong<br>Now available on our YouTube channel: FCC President @keithrichburg speaks with journalist and author @FareedZakaria about the coronavirus pandemic, how the world will be different when it's over, U.S.-China relations, global trade and much more. <a href="https://youtu.be/mc0sGX7S39w" target="_blank" rel="noopener noreferrer">https://youtu.be/mc0sGX7S39w</a>
+
+### 10: [2021-04-14 01:00:02+08:00 推文](https://twitter.com/supchinanews/status/1382015734365233154)
+
+RT SupChina<br>"Being 'tough on China' is brandished as a measure of personal virtue. Denouncing the country has become a competitive sport. The worst atrocities of the Chinese regime are tokenized to advance partisan agendas." <a href="https://supchina.com/2021/04/09/the-grieving-and-the-grievable/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/04/09/the-grieving-and-the-grievable/</a>
+
+### 11: [2021-04-14 02:28:21+08:00 推文](https://twitter.com/DavidBarboza2/status/1382037959902380040)
+
+RT David Barboza<br>I am so grateful for the opportunity to work on building what I hope will become a great news platform: The Wire. Please subscribe and help us celebrate our first birthday!<br><img style src="https://pbs.twimg.com/media/Ey38LihW8AA4ccD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
