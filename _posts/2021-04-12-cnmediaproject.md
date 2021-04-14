@@ -67,3 +67,11 @@ RT The People's Map of Global China<br>And we are now live! The People’s Map
 
 RT Eric Fish<br>Excellent @CNStorytellers newsletter, as always, on the experiences of Chinese "news assistants" working for foreign media in China. <a href="https://chinesestorytellers.substack.com/p/tales-of-the-news-assistants" target="_blank" rel="noopener noreferrer">https://chinesestorytellers.substack.com/p/tales-of-the-news-assistants</a>
 
+### 14: [2021-04-14 22:52:54+08:00 推文](https://twitter.com/cnmediaproject/status/1382346126796455937)
+
+Our quick analysis of key points in the CCP's list of 80 propaganda slogans for 2021 and the Party's 100th anniversary. <a href="https://chinamediaproject.org/2021/04/14/ccp-slogans-for-2021/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/04/14/ccp-slogans-for-2021/</a><br><img style src="https://pbs.twimg.com/media/Ey8UbjvXAAU_lRH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-04-14 22:54:14+08:00 推文](https://twitter.com/cnmediaproject/status/1382346466031730689)
+
+Re Important to bear in mind that this sort of national top-down release of propaganda slogans was not seen in China from 1978 through to 2019, when the CCP released a list of 70 slogans for the 70th anniversary of the PRC.
+
