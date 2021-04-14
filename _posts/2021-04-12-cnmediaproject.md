@@ -59,3 +59,11 @@ RT SupChina<br>"Being 'tough on China' is brandished as a measure of personal 
 
 RT David Barboza<br>I am so grateful for the opportunity to work on building what I hope will become a great news platform: The Wire. Please subscribe and help us celebrate our first birthday!<br><img style src="https://pbs.twimg.com/media/Ey38LihW8AA4ccD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 12: [2021-04-14 17:38:25+08:00 推文](https://twitter.com/GlobalChinaMap/status/1382266986130997249)
+
+RT The People's Map of Global China<br>And we are now live! The People’s Map of Global China is the result of a collaboration between academics, NGOs, journalists, trade unions, and the public at large to explore various dimensions of Global China in their localities. 1/ <a href="https://thepeoplesmap.net/" target="_blank" rel="noopener noreferrer">https://thepeoplesmap.net/</a>
+
+### 13: [2021-04-14 20:19:34+08:00 推文](https://twitter.com/ericfish85/status/1382307541942743042)
+
+RT Eric Fish<br>Excellent @CNStorytellers newsletter, as always, on the experiences of Chinese "news assistants" working for foreign media in China. <a href="https://chinesestorytellers.substack.com/p/tales-of-the-news-assistants" target="_blank" rel="noopener noreferrer">https://chinesestorytellers.substack.com/p/tales-of-the-news-assistants</a>
+
