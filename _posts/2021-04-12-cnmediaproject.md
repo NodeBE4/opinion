@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-14
+date: 2021-04-15
 from: https://twitter.com/eileenguo/status/1381329501095792643
 layout: post
 tags:
@@ -74,4 +74,8 @@ Our quick analysis of key points in the CCP's list of 80 propaganda slogans for 
 ### 15: [2021-04-14 22:54:14+08:00 推文](https://twitter.com/cnmediaproject/status/1382346466031730689)
 
 Re Important to bear in mind that this sort of national top-down release of propaganda slogans was not seen in China from 1978 through to 2019, when the CCP released a list of 70 slogans for the 70th anniversary of the PRC.
+
+### 16: [2021-04-15 18:28:09+08:00 推文](https://twitter.com/jonlsullivan/status/1382641890588233729)
+
+RT Jonathan Sullivan<br>This is embarassing and the comments get to some of the issues it embodies. Cringe nonsense aside, the information & skills assymetries that exist in cross-cultural US-China interactions substantially favour the latter [despite proud rando's mastery of basic menu options]<br><br>Jeffrey Ngo 敖卓軒 😷🎗: Video of an Orientalist in town who thinks he’s entitled to any attention for being able to speak like a dozen words. Yeah, dude, I can also order cheeseburgers in English. Big fucking deal.<br> <a href="https://twitter.com/PandaoramaLink/status/1382375819809492994" target="_blank" rel="noopener noreferrer">https://twitter.com/PandaoramaLink/status/1382375819809492994</a>
 
