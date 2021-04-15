@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-14
+date: 2021-04-15
 from: https://twitter.com/realcaixia/status/1381299227364634629
 layout: post
 tags:
@@ -98,4 +98,12 @@ Re @sirewedesday @TungVargas 毛泽东与罗稷南的对话最早由周海婴在
 ### 21: [2021-04-14 22:48:46+08:00 推文](https://twitter.com/realcaixia/status/1382345090593611779)
 
 Re @vvjv001 @YouTube 马云是党员，党员就可被双规。此外，民营企业家被事实双规，早已悄悄执行。理由：配合党内反腐工作。要搞到贪腐官员证据，从企业家下手，追行贿受贿证据。2015年春天我亲耳听一个女企业家讲她被双规一周的经历。
+
+### 22: [2021-04-15 05:27:55+08:00 推文](https://twitter.com/realcaixia/status/1382445535953555458)
+
+这是在中国大陆山东烟台市中级法院里，法警阻挡案件当事人面见法官。让全世界都看看中国大陆的所谓“法治”，法院法警就是这样执行法律的。真是笑话！<br><br>新聞看點: #山東 烟臺 #中級法院，法警做成人墻阻擋一民衆面見法官，這位女士在用力突破這堵墻。<br><br><video src="https://video.twimg.com/ext_tw_video/1382106964537249794/pu/vid/1280x720/_pP48zgoW_80gdgy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1382106964537249794/pu/img/w4erEEy8dZ3AMocc.jpg"></video>
+
+### 23: [2021-04-15 05:35:50+08:00 推文](https://twitter.com/realcaixia/status/1382447530622001152)
+
+Re @loveyou_echo 只要听的懂中国话的，都知道这个视频里法警在干啥！中国警察执行法律千奇百怪，真是让地球人大开眼界。
 
