@@ -111,3 +111,11 @@ Re @loveyou_echo 只要听的懂中国话的，都知道这个视频里法警在
 
 中共欲加之罪何患无辞，他们编造故事、谎言欺骗、扭曲事实、任意夸大、无限上纲、栽赃陷害，什么手段都用得出来。A罪名侦查、B罪名抓人、C罪名庭审、D罪名判刑，惯用手法。<br><br>韩连潮: 【无耻的政治迫害】下作党匪污蔑的田某我认识，是个红三代，因出柜而倍受歧视，故选择调查报道人权侵犯为职业，他既不反华也不反共，所谓“受某国十余名高官具体指令污蔑中国”完全是国安编的胡说八道；我带田见美人权官员，他们仅问了情况，无人要他做如何事；党匪一定对田施了酷刑，无耻至极！请转真相<br><br><img style src="https://pbs.twimg.com/media/EzAzKTLWYAED6Eg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 25: [2021-04-16 19:53:47+08:00 推文](https://twitter.com/realcaixia/status/1383025826497753091)
+
+昨天转发推文，大学生田某被中共编造虚假情况构陷罪名。张杰先生专门发YouTube评论，亲口说明这位大学生的旅美情况。特转发提供给网友们了解真相。一党专政、一人独裁的极权统治造谣撒谎是本性本能<br><br>揭秘 20岁大学生田创赴美旅游竟成煽颠政权 神秘音频戳破谎言 <a href="https://youtu.be/eruxSO7gGGQ" target="_blank" rel="noopener noreferrer">https://youtu.be/eruxSO7gGGQ</a>
+
+### 26: [2021-04-16 20:18:05+08:00 推文](https://twitter.com/realcaixia/status/1383031943403507713)
+
+Re @BLACKWO92590436 @YouTube 说得好，情况就是如此。
+
