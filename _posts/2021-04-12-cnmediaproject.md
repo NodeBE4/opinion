@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-15
+date: 2021-04-16
 from: https://twitter.com/eileenguo/status/1381329501095792643
 layout: post
 tags:
@@ -78,4 +78,24 @@ Re Important to bear in mind that this sort of national top-down release of prop
 ### 16: [2021-04-15 18:28:09+08:00 推文](https://twitter.com/jonlsullivan/status/1382641890588233729)
 
 RT Jonathan Sullivan<br>This is embarassing and the comments get to some of the issues it embodies. Cringe nonsense aside, the information & skills assymetries that exist in cross-cultural US-China interactions substantially favour the latter [despite proud rando's mastery of basic menu options]<br><br>Jeffrey Ngo 敖卓軒 😷🎗: Video of an Orientalist in town who thinks he’s entitled to any attention for being able to speak like a dozen words. Yeah, dude, I can also order cheeseburgers in English. Big fucking deal.<br> <a href="https://twitter.com/PandaoramaLink/status/1382375819809492994" target="_blank" rel="noopener noreferrer">https://twitter.com/PandaoramaLink/status/1382375819809492994</a>
+
+### 17: [2021-04-16 16:55:29+08:00 推文](https://twitter.com/xinwenxiaojie/status/1382980958543052800)
+
+RT Yuen Chan<br>This is chilling. Opinion piece in CCP mouthpiece Ta Kung Pao calls for outlawing of @appledaily_hk to "plug national security loopholes". These pieces aren't simply op-eds.<br><img style src="https://pbs.twimg.com/media/EzFV2jmWYAEctd5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-04-16 18:53:08+08:00 推文](https://twitter.com/noahbarkin/status/1383010565010952193)
+
+RT Noah Barkin<br>German readout of Macron-Merkel-Xi call says it touched on climate, biodiversity, COVID-19, economic cooperation and a range of "international and regional themes". So looks like a very broad discussion. No mention of sanctions or human rights<br><img style src="https://pbs.twimg.com/media/EzFv-7bWQAQD5E3?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-04-16 21:14:46+08:00 推文](https://twitter.com/cnmediaproject/status/1383046210295103495)
+
+Continuing with the train of Xi Jinping bylined pieces in the CCP's Seeking Truth journal, then promoted on the front page of the People's Daily, news today under the masthead that the journal has run Xi's speech 5 years ago for the Party's 95th anniversary.<br><img style src="https://pbs.twimg.com/media/EzGRI_EWUAEg_rB?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-04-16 21:15:54+08:00 推文](https://twitter.com/cnmediaproject/status/1383046494098497536)
+
+Re We took a more in-depth look at this trend back in January. <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
+
+### 21: [2021-04-16 22:42:47+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1383068356547346434)
+
+RT Zhaoyin Feng 馮兆音<br>Six Chinese men on the Titanic were rescued, but the miraculous survival was not the end of their ordeal.<br><br>My latest with @yitsingw on @BBCWorld <a href="https://www.bbc.com/news/world-us-canada-56755614" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-us-canada-56755614</a>
 
