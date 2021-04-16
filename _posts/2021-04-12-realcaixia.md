@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-15
+date: 2021-04-16
 from: https://twitter.com/realcaixia/status/1381299227364634629
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re @vvjv001 @YouTube 马云是党员，党员就可被双规。此外，民营�
 ### 23: [2021-04-15 05:35:50+08:00 推文](https://twitter.com/realcaixia/status/1382447530622001152)
 
 Re @loveyou_echo 只要听的懂中国话的，都知道这个视频里法警在干啥！中国警察执行法律千奇百怪，真是让地球人大开眼界。
+
+### 24: [2021-04-16 10:23:14+08:00 推文](https://twitter.com/realcaixia/status/1382882242842800128)
+
+中共欲加之罪何患无辞，他们编造故事、谎言欺骗、扭曲事实、任意夸大、无限上纲、栽赃陷害，什么手段都用得出来。A罪名侦查、B罪名抓人、C罪名庭审、D罪名判刑，惯用手法。<br><br>韩连潮: 【无耻的政治迫害】下作党匪污蔑的田某我认识，是个红三代，因出柜而倍受歧视，故选择调查报道人权侵犯为职业，他既不反华也不反共，所谓“受某国十余名高官具体指令污蔑中国”完全是国安编的胡说八道；我带田见美人权官员，他们仅问了情况，无人要他做如何事；党匪一定对田施了酷刑，无耻至极！请转真相<br><br><img style src="https://pbs.twimg.com/media/EzAzKTLWYAED6Eg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
