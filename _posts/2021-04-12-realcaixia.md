@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-16
+date: 2021-04-17
 from: https://twitter.com/realcaixia/status/1381299227364634629
 layout: post
 tags:
@@ -118,4 +118,12 @@ Re @loveyou_echo 只要听的懂中国话的，都知道这个视频里法警在
 ### 26: [2021-04-16 20:18:05+08:00 推文](https://twitter.com/realcaixia/status/1383031943403507713)
 
 Re @BLACKWO92590436 @YouTube 说得好，情况就是如此。
+
+### 27: [2021-04-17 00:30:10+08:00 推文](https://twitter.com/realcaixia/status/1383095382029303809)
+
+Re @XHuan11 @ABCChinese @convectionlt @QandA 你耐心地看看她的访谈发言，不看就断然否定，更没有说服力。
+
+### 28: [2021-04-17 00:36:02+08:00 推文](https://twitter.com/realcaixia/status/1383096858256547872)
+
+Re @ABCChinese @QandA 一群五毛等用最恶毒最下流的语言对许中秀做人身攻击，就是不敢正面回应许中秀关于新疆维吾尔人的遭遇叙述，可见许中秀打到了要害。
 
