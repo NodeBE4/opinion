@@ -127,3 +127,8 @@ Re @XHuan11 @ABCChinese @convectionlt @QandA 你耐心地看看她的访谈发�
 
 Re @ABCChinese @QandA 一群五毛等用最恶毒最下流的语言对许中秀做人身攻击，就是不敢正面回应许中秀关于新疆维吾尔人的遭遇叙述，可见许中秀打到了要害。
 
+### 29: [2021-04-17 20:35:17+08:00 推文](https://twitter.com/realcaixia/status/1383398661413949443)
+
+三年大饥荒多省惨景如人间地狱。大陆著名老记者杨继绳写的《墓碑》一书，实录报告大陆各地死亡数字，记叙了人们为了活命的各种吃人肉、“易子而食”的挣扎活命。一次给北京武装警察部队总部讲课，举例讲到三年大饥荒，武警副司令员陈某（中将）很感慨地说他是安徽人，那时他15岁，他们村里饿死一半人口。<br><br>冷山时评: 感谢西方的记者，留下了真实的大跃进和大饥荒资料！
+这样一个魔鬼组织，居然活了100年，人类的耻辱！<br><br><video src="https://video.twimg.com/ext_tw_video/1383163513783390222/pu/vid/1280x720/KISB7E1iUZxLfd5h.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1383163513783390222/pu/img/ow9O7c3L3Qs2JlBE.jpg"></video>
+
