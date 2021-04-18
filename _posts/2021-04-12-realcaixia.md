@@ -156,3 +156,15 @@ Re @MyUsernameUsed 香港出版的，大陆完全禁止。请问问台湾和香�
 
 Re @LipingHuang7 劝您一句话，多观察多看多听，但请不要轻易对人下结论，除非你有确凿事实证明你的结论客观真实，而不是被妖魔化编造的事实所蒙骗。相信您不会有意伤害别人，但凭道听途说做判断，一定会被带到沟里。中共撒谎成性，许多谣言假话都是从中共谣言机器中出来的，跟着谣言起哄，亲者痛，仇者快。
 
+### 36: [2021-04-18 23:43:47+08:00 推文](https://twitter.com/realcaixia/status/1383808487117840386)
+
+温家宝母亲2020年12月去世，2021年3-4月，温家宝回忆母亲的长篇文章在澳门报纸上连续刊载。温家宝文章中真实表达了一个普通人家在中国百年战乱、动荡、文革人祸中的命运多舛。大陆中国人活得何其艰辛何其艰难。<br>温家宝深情忆母 谈中南海做官如临深渊 <a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210417-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E6%B7%B1%E6%83%85%E5%BF%86%E6%AF%8D-%E8%B0%88%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%81%9A%E5%AE%98%E5%A6%82%E4%B8%B4%E6%B7%B1%E6%B8%8A" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20210417-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E6%B7%B1%E6%83%85%E5%BF%86%E6%AF%8D-%E8%B0%88%E4%B8%AD%E5%8D%97%E6%B5%B7%E5%81%9A%E5%AE%98%E5%A6%82%E4%B8%B4%E6%B7%B1%E6%B8%8A</a>
+
+### 37: [2021-04-18 23:54:35+08:00 推文](https://twitter.com/realcaixia/status/1383811204833955847)
+
+温家宝回忆母亲的长篇文章居然在大陆微信群里不许传播。请看图一中最下面划红线那行字，温家宝文章犯了忌讳。细读温写的全文，其实文章已经做了“自我审查”，全篇没有“民主”“法治”四个字。即便这样，文章依旧被禁止转发分享。可见大陆极权统治当局对“民主、法治”有多么恐惧。他们恐惧人民的权利。<br><img style src="https://pbs.twimg.com/media/EzRI7uFVEBA1ly0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzRI8OwVUAEGI2Q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzRI8uUVkAE3vO-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 38: [2021-04-18 23:57:45+08:00 推文](https://twitter.com/realcaixia/status/1383811999272820740)
+
+与网友分享：<br>【404文库】学人Scholar | 温家宝深情撰文：我的母亲（全文） <a href="https://cnvision.co/%e3%80%90404%e6%96%87%e5%ba%93%e3%80%91%e5%ad%a6%e4%ba%bascholar-%e6%b8%a9%e5%ae%b6%e5%ae%9d%e6%b7%b1%e6%83%85%e6%92%b0%e6%96%87%ef%bc%9a%e6%88%91%e7%9a%84%e6%af%8d%e4%ba%b2/" target="_blank" rel="noopener noreferrer">https://cnvision.co/%e3%80%90404%e6%96%87%e5%ba%93%e3%80%91%e5%ad%a6%e4%ba%bascholar-%e6%b8%a9%e5%ae%b6%e5%ae%9d%e6%b7%b1%e6%83%85%e6%92%b0%e6%96%87%ef%bc%9a%e6%88%91%e7%9a%84%e6%af%8d%e4%ba%b2/</a>
+
