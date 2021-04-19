@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-16
+date: 2021-04-18
 from: https://twitter.com/eileenguo/status/1381329501095792643
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re We took a more in-depth look at this trend back in January. <a href="https:
 ### 21: [2021-04-16 22:42:47+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1383068356547346434)
 
 RT Zhaoyin Feng 馮兆音<br>Six Chinese men on the Titanic were rescued, but the miraculous survival was not the end of their ordeal.<br><br>My latest with @yitsingw on @BBCWorld <a href="https://www.bbc.com/news/world-us-canada-56755614" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-us-canada-56755614</a>
+
+### 22: [2021-04-18 16:43:41+08:00 推文](https://twitter.com/EmilyZFeng/status/1383702761712193541)
+
+RT Emily Feng 冯哲芸<br>Former Chinese premier Wen Jiabao pens a surprisingly emotional, heartfelt tribute to his late mother. It then gets censored in China, likely for the following paragraph. “The China of my  heart should be one full of equality & justice.” H/t @Amy_23_Cheng <a href="https://cnvision.co/%E3%80%90404%E6%96%87%E5%BA%93%E3%80%91%E5%AD%A6%E4%BA%BAscholar-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E6%B7%B1%E6%83%85%E6%92%B0%E6%96%87%EF%BC%9A%E6%88%91%E7%9A%84%E6%AF%8D%E4%BA%B2/" target="_blank" rel="noopener noreferrer">https://cnvision.co/%E3%80%90404%E6%96%87%E5%BA%93%E3%80%91%E5%AD%A6%E4%BA%BAscholar-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E6%B7%B1%E6%83%85%E6%92%B0%E6%96%87%EF%BC%9A%E6%88%91%E7%9A%84%E6%AF%8D%E4%BA%B2/</a><br><img style src="https://pbs.twimg.com/media/EzPmUqVUYAECdJM?format=jpg&name=orig" referrerpolicy="no-referrer">
 
