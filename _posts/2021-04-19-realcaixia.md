@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-19
+date: 2021-04-20
 from: https://twitter.com/realcaixia/status/1383945415393828869
 layout: post
 tags:
@@ -22,4 +22,8 @@ Re @AdamZhourui @lianchaohan 请看我的推，我已经转载了温家宝的全
 ### 2: [2021-04-19 09:02:58+08:00 推文](https://twitter.com/realcaixia/status/1383949206574886918)
 
 Re @VkCHn7KpYDVpdJm 我同意。温家宝和胡锦涛努力做了一些事情。但是，再多的做具体好事也改变不了邪恶的极权体制，胡温时期是弱势领袖时期，他们改不动政治体制，只好努力做点好事，减少一些底层民众的压力和痛苦，所以温家宝最后一次记者招待会要大声疾呼政治改革。中共极权体制不彻底抛弃，中国大陆就没有希望没有前途。
+
+### 3: [2021-04-20 02:41:16+08:00 推文](https://twitter.com/realcaixia/status/1384215539107598336)
+
+中国对维吾尔人及其他突裔厥穆斯林的危害人类罪行 | HRW. <a href="https://www.hrw.org/zh-hans/report/2021/04/19/378448" target="_blank" rel="noopener noreferrer">https://www.hrw.org/zh-hans/report/2021/04/19/378448</a>
 
