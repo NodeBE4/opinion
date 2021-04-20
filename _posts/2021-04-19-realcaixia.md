@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-20
+date: 2021-04-21
 from: https://twitter.com/realcaixia/status/1383945415393828869
 layout: post
 tags:
@@ -34,4 +34,12 @@ Re @VkCHn7KpYDVpdJm 我同意。温家宝和胡锦涛努力做了一些事情。
 ### 5: [2021-04-20 05:15:36+08:00 推文](https://twitter.com/realcaixia/status/1384254378027089920)
 
 刚评论中共全球监视华人、操控管辖华人、接着就看到新的例证。特转推，请各位网友关注。<br><br>吴祚来: 洛杉矶在罗兰冈那家中共人员开的饭店，以前，友人请客多会定那家，后来发现了，不再去吃了。<br>似乎是上海菜。<br> <a href="https://twitter.com/bannedebook/status/1384221013253128210" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1384221013253128210</a>
+
+### 6: [2021-04-21 06:34:37+08:00 推文](https://twitter.com/realcaixia/status/1384636649150324737)
+
+中共当局编造田创被海外敌对势力策反的惊悚谎言，迫使田创认罪，说到底是以此为例恐吓海内外华人，用长臂限制华人言论，实现全球“堵嘴”的意图。前几天曾转发过相关推文，今再推张杰先生文章，以使网友了解真实情况。<br>张杰：内地学生田创被策反还是被迫害？我与田创相处的日子 <a href="https://yibaochina.com/?p=241562" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=241562</a>
+
+### 7: [2021-04-21 06:36:34+08:00 推文](https://twitter.com/realcaixia/status/1384637140009684994)
+
+这段评论精彩！<br><br>韩连潮: 【报幕还是报丧？】王岐山博鳌论坛称习近平为国家元首，称自己为临时主持人，来为习近平报幕，就差自称奴才、三跪九叩首了；此媚态并不意外，习王关系早已沦为君臣关系，但未想到王公开俯首称臣。这也折射整个中共党内关系的反常和扭曲，作为一个革命党，中共已经彻底死亡。<br><br><img style src="https://pbs.twimg.com/media/Ezbza_jXEAEKDEy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
