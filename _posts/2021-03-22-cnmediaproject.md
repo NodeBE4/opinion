@@ -53,7 +53,7 @@ RT Carl Minzner<br>Beijing releases 2020 report on human rights in the USA<br>
 
 ### 10: [2021-03-24 22:45:58+08:00 推文](https://twitter.com/jonlsullivan/status/1374734236662521862)
 
-RT Jonathan Sullivan<br>Amazing how these campaigns suddenly take off and snowball. 辱華 at your peril! (Easier said than done though, right, Delta, Benz, Carrefour, NBA &co &co?)<br><br>Jane Li: A comprehensive campaign on Xinjiang is being carried out on Weibo now:1: top e-commerce streamer Wei Ya said she’d removed two overseas brands suspected of slandering China over Xinjiang in today’s livestream<br> <a href="https://twitter.com/Jane_Li911/status/1374670665215737858" target="_blank" rel="noopener noreferrer">https://twitter.com/Jane_Li911/status/1374670665215737858</a>
+RT Jonathan Sullivan<br>Amazing how these campaigns suddenly take off and snowball. 辱華 at your peril! (Easier said than done though, right, Delta, Benz, Carrefour, NBA &co &co?) <a href="https://twitter.com/Jane_Li911/status/1374731670268440577" target="_blank" rel="noopener noreferrer">https://twitter.com/Jane_Li911/status/1374731670268440577</a>
 
 ### 11: [2021-03-25 02:15:46+08:00 推文](https://twitter.com/jwassers/status/1374787035479769090)
 
@@ -97,5 +97,5 @@ RT Susan Finder<br>Injecting socialist core values into court judgments <a 
 
 ### 21: [2021-03-26 20:41:03+08:00 推文](https://twitter.com/ulywang/status/1375427578719133702)
 
-RT Wang Feng 王丰<br>Whoa.<br><br>CGTN: China reminded the North Atlantic Treaty Organization (NATO) that it still owes blood debt over Chinese journalists killed in the 1999 NATO bombing of the Chinese embassy in Belgrade, Chinese Foreign Ministry Spokesperson Hua Chunying said on Friday.<br> <a href="https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html</a>
+RT 王丰 Wang Feng<br>Whoa.<br><br>CGTN: China reminded the North Atlantic Treaty Organization (NATO) that it still owes blood debt over Chinese journalists killed in the 1999 NATO bombing of the Chinese embassy in Belgrade, Chinese Foreign Ministry Spokesperson Hua Chunying said on Friday.<br> <a href="https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html" target="_blank" rel="noopener noreferrer">https://news.cgtn.com/news/2021-03-26/China-reminds-NATO-it-still-owes-blood-debt-YWQp4r8SsM/index.html</a>
 
