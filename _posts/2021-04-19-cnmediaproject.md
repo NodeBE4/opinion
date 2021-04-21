@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-21
+date: 2021-04-22
 from: https://twitter.com/david__moser/status/1383973188783153154
 layout: post
 tags:
@@ -38,4 +38,8 @@ RT Simon Rabinovitch<br>The underlying data is, I suspect, a little dated, but
 ### 6: [2021-04-21 15:03:56+08:00 推文](https://twitter.com/lingli_vienna/status/1384764823930556416)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Central Party Political-Legal Committee issued an exceptionally long press release, explaining what it has done and will do to rectify its flaws identified by the Central Inspection Team. <br><br>The report has 28 mentions of Xi Jinping, incl. 9 mentions of XJP Thought of Rule of Law.
+
+### 7: [2021-04-22 00:46:13+08:00 推文](https://twitter.com/cnmediaproject/status/1384911360207753221)
+
+CMP's website is under maintenance and will relaunch very soon. We apologize for any inconvenience, but we're excited for our new platform.
 
