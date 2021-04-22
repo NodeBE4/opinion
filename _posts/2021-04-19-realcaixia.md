@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-22
+date: 2021-04-23
 from: https://twitter.com/realcaixia/status/1383945415393828869
 layout: post
 tags:
@@ -58,4 +58,8 @@ Re @Uyghurian 请看我之前的一些推文。
 ### 11: [2021-04-22 23:39:41+08:00 推文](https://twitter.com/realcaixia/status/1385257004139270148)
 
 这个归纳极为精当。<br><br>He Qinglian: 查尔斯·蒂利在《民主》一书中列举的去民主化有四个标志：<br>1、自由公正的选举恶化，出现大选被操纵的现象；2、言论自由，新闻自由和结社自由权受到削弱，削弱了政治反对派挑战政府的能力；3、法治对政府司法和官僚约束被削弱，司法独立受到威胁；4、政府制造或过分强调国家安全威胁，以制造一种“危机感”<br>
+
+### 12: [2021-04-23 01:30:16+08:00 推文](https://twitter.com/realcaixia/status/1385284834554171392)
+
+Re @a_ba_la_gu 这个图片是真的吗？如果不是p的，我收藏了。
 
