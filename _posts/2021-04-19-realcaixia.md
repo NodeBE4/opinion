@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-21
+date: 2021-04-22
 from: https://twitter.com/realcaixia/status/1383945415393828869
 layout: post
 tags:
@@ -46,4 +46,16 @@ Re @VkCHn7KpYDVpdJm 我同意。温家宝和胡锦涛努力做了一些事情。
 ### 8: [2021-04-21 11:16:03+08:00 推文](https://twitter.com/realcaixia/status/1384707476466057217)
 
 Re @carolin55914431 王剑老师与我的观点一样。我在早几年就说了这话。那是中共19大之前的一次两会上。王岐山在某代表团发言发很令人诧异。我发了一段议论：王的资历身份地位，本不需要如此姿态。而王居然做了，说明这两个人关系已经岌岌可危，看起来私下沟通断了，王只好“隔空喊话”，公开表忠诚了。
+
+### 9: [2021-04-22 23:19:10+08:00 推文](https://twitter.com/realcaixia/status/1385251842033061888)
+
+这就是宗教的“中国化”，或者称之为“中国特色社会主义宗教”。一切都党化，党教统领中国大陆的各个宗教。<br><img style src="https://pbs.twimg.com/media/EzlnMUtXsAA-Reu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzlnMqmWEAM7zEs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzlnM6iXoAIw4Ng?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzlnNK9XsAQKveN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-04-22 23:25:14+08:00 推文](https://twitter.com/realcaixia/status/1385253368441024513)
+
+Re @Uyghurian 请看我之前的一些推文。
+
+### 11: [2021-04-22 23:39:41+08:00 推文](https://twitter.com/realcaixia/status/1385257004139270148)
+
+这个归纳极为精当。<br><br>He Qinglian: 查尔斯·蒂利在《民主》一书中列举的去民主化有四个标志：<br>1、自由公正的选举恶化，出现大选被操纵的现象；2、言论自由，新闻自由和结社自由权受到削弱，削弱了政治反对派挑战政府的能力；3、法治对政府司法和官僚约束被削弱，司法独立受到威胁；4、政府制造或过分强调国家安全威胁，以制造一种“危机感”<br>
 
