@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-22
+date: 2021-04-23
 from: https://twitter.com/david__moser/status/1383973188783153154
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Central Party Political-Legal Committee issued
 ### 7: [2021-04-22 00:46:13+08:00 推文](https://twitter.com/cnmediaproject/status/1384911360207753221)
 
 CMP's website is under maintenance and will relaunch very soon. We apologize for any inconvenience, but we're excited for our new platform.
+
+### 8: [2021-04-23 06:10:19+08:00 推文](https://twitter.com/niubi/status/1385355310437740544)
+
+RT Bill Bishop<br>And China Media Project's @cnmediaproject  China’s Political Discourse: March 2021: Xinjiang Cotton is now live on Sinocism, outside the paywall  @niubi <a href="https://sinocism.com/p/chinas-political-discourse-march?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-march?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter</a>
 
