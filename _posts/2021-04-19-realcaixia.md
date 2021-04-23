@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-23
+date: 2021-04-24
 from: https://twitter.com/realcaixia/status/1383945415393828869
 layout: post
 tags:
@@ -62,4 +62,12 @@ Re @Uyghurian 请看我之前的一些推文。
 ### 12: [2021-04-23 01:30:16+08:00 推文](https://twitter.com/realcaixia/status/1385284834554171392)
 
 Re @a_ba_la_gu 这个图片是真的吗？如果不是p的，我收藏了。
+
+### 13: [2021-04-24 06:18:58+08:00 推文](https://twitter.com/realcaixia/status/1385719876845715456)
+
+Re @a_ba_la_gu 谢谢您，我上这网看了，匪夷所思！党国意识形态收编各类宗教，比文革时更高一筹。文革砸庙毁教，但砸不毁信众的心。现在不砸庙彻底毁教！双管齐下：金钱官职级别引诱僧尼名利地位贪欲；政治鬼话把僧尼变成伪教徒：既言寺庙远避俗世乃清静之地，却又热衷政治作秀。六根清净乃出家人之本，而今六根尽污！
+
+### 14: [2021-04-24 06:33:27+08:00 推文](https://twitter.com/realcaixia/status/1385723522006360064)
+
+匪夷所思！党国意识形态收编各类宗教，非但惊世奇观，且比文革更高一筹。文革砸庙毁教，但砸不毁信众的心。现在不砸庙彻底毁教！<br>党国毁教双管齐下：金钱官职级别引诱僧尼名利贪欲；政治谎言变僧尼为伪善之徒：既言寺庙远避俗世乃清静之地，却又热衷政治作秀。六根清净乃出家人之本，而今六根尽污！<br><img style src="https://pbs.twimg.com/media/EzsULzvWEAoSuCc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzsUMFUXsAEn4MI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzsUMVrWYAE7CkJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzsUMlZWUAIZzoI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
