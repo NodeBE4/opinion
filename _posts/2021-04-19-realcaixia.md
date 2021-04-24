@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-24
+date: 2021-04-25
 from: https://twitter.com/realcaixia/status/1383945415393828869
 layout: post
 tags:
@@ -70,4 +70,12 @@ Re @a_ba_la_gu 谢谢您，我上这网看了，匪夷所思！党国意识形�
 ### 14: [2021-04-24 06:33:27+08:00 推文](https://twitter.com/realcaixia/status/1385723522006360064)
 
 匪夷所思！党国意识形态收编各类宗教，非但惊世奇观，且比文革更高一筹。文革砸庙毁教，但砸不毁信众的心。现在不砸庙彻底毁教！<br>党国毁教双管齐下：金钱官职级别引诱僧尼名利贪欲；政治谎言变僧尼为伪善之徒：既言寺庙远避俗世乃清静之地，却又热衷政治作秀。六根清净乃出家人之本，而今六根尽污！<br><img style src="https://pbs.twimg.com/media/EzsULzvWEAoSuCc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzsUMFUXsAEn4MI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzsUMVrWYAE7CkJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzsUMlZWUAIZzoI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-04-25 03:19:40+08:00 推文](https://twitter.com/realcaixia/status/1386037139872305162)
+
+国法用于家事，与其算是中国特色法治，倒不如说是继承中国“皇权”政治传统。<br><br>ZHANGDONG: 被控泄露习近平女儿信息，牛腾宇被判重刑。<br>4月23日廣東茂名中級法院對牛騰宇等人案件進行非法宣判，律师王宇包龍軍作為辯護人趕往茂名欲出庭參與宣判，但途中遭國保人身控制失去行动自由。<br>在中国律师被架空,形同虚设，法官为非作歹。<br><br><img style src="https://pbs.twimg.com/media/EzqMs1QXoAAiM-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EzqMs1sXMAMCopM?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/7Kvm.T" target="_blank" rel="noopener noreferrer">https://rfi.my/7Kvm.T</a>
+
+### 16: [2021-04-25 03:40:43+08:00 推文](https://twitter.com/realcaixia/status/1386042440742748164)
+
+孙大午之“罪”在于两条：一是绝不臣服于极权统治下官场各种潜规则；不给官僚进贡行贿，官僚恨之；二是被民心拥戴，这就更为可怕。“得人心者得天下”反过来即为“失人心者失天下”。这是中国人都熟知的古训。任何“得人心”者都会威胁到权力宝座根基。极权统治能容得孙大午吗？！ <a href="https://ipkmedia.com/?p=65303" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=65303</a>
 
