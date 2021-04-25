@@ -87,3 +87,23 @@ Re @HIoVYPWGkYW8GB9 你这话是没有具体事实根据的议论。中共当局
 
 在我们揭露大陆极权真相的一些推文下，都会聚集一堆堆的谩骂贴、强词夺理帖、搅浑水贴，造谣污蔑贴，被网友称为“五毛蛆”的，原来是由这群人组成的。<br>一个规律性现象，凡推特文戳到中共要害处的，这推文下必定聚集一大群网友所称的“五毛蛆”。<br>“五毛蛆”也按指令行动，例如对澳洲叶中秀的集中谩骂攻击。<br><br>ZHANGDONG: 恶政！让刑事罪犯监控扰乱社会舆情，愚蠢卑劣至极。<br> <a href="https://twitter.com/lihuanjun/status/1384662962024198146" target="_blank" rel="noopener noreferrer">https://twitter.com/lihuanjun/status/1384662962024198146</a>
 
+### 19: [2021-04-25 21:14:31+08:00 推文](https://twitter.com/realcaixia/status/1386307634614071298)
+
+国内朋友传来，特转发。作者是我师兄。师兄曾在中南海最高层核心机构工作，见证了1980年代中共顶层围绕推进政治改革的种种博弈，8964后师兄被囚禁于秦城监狱，释放后30多年来一直被警察监控。他写评温家宝纪念母亲短文中谈到温的情况。温每年都去看被软禁中的赵紫阳，试问中共最高层还有谁能做到？！<br><img style src="https://pbs.twimg.com/media/Ez0nbSKXoAE_1za?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ez0nbvtXIAUfdJi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ez0ncK_XIAE1H_l?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-04-25 21:31:35+08:00 推文](https://twitter.com/realcaixia/status/1386311933322686465)
+
+Re @Bill36096474 凭你如此议论，可见你是毫无良知的坏人！
+
+### 21: [2021-04-25 21:34:04+08:00 推文](https://twitter.com/realcaixia/status/1386312556105453568)
+
+Re @sirrion1989 温有那个能量吗？你们不惜一切手段污黑温家宝。足见你们有多黑多卑鄙龌龊。
+
+### 22: [2021-04-25 21:44:43+08:00 推文](https://twitter.com/realcaixia/status/1386315235615772675)
+
+Re @nihaodajia 你这表面看是理中客，实质上是恶加坏加无耻！
+
+### 23: [2021-04-25 21:47:14+08:00 推文](https://twitter.com/realcaixia/status/1386315869781995534)
+
+Re @zfb468590 真抱歉，我看名字不仔细，感谢指正我。🌹
+
