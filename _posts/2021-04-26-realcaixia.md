@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-28
+date: 2021-04-29
 from: https://twitter.com/realcaixia/status/1386365688198144000
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re @Harry43521235 @damaziwang 谢谢您，是我误会了您。不好意思。�
 ### 16: [2021-04-28 12:55:42+08:00 推文](https://twitter.com/realcaixia/status/1387269266915958784)
 
 数年前赵婷一句实话，中共就全网封杀赵婷，别说“文化自信”了，就连正常人该有的态度：理性听取理性思考都做不到。可见中共有多心虚胆怯。中共打压赵婷获奖，同时大量鼓吹战争革命。赵婷影片讲述和表现人们之间的温暖与关爱，而🀄️共处处鼓吹暴力、仇恨。<br><img style src="https://pbs.twimg.com/media/E0CSCVjXEAACqYq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0CSCiVX0AoJoom?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0CSCxfXoAIxNcp?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-04-29 00:10:20+08:00 推文](https://twitter.com/realcaixia/status/1387439046033657873)
+
+“少年强则国强”。孩子被教的啥，长大了就成啥，未来的中国就是啥样。现在幼儿园小学重复我这代人小时候学的那一套：空头政治个人崇拜、叫干啥就干啥的有力气不思考的无脑牛、从小准备长大下乡当新知青、打土豪分田地、抓特务、告密父母老师，没有眼望星空，没有放眼未来，这对未来中国是国运还是国殇？<br><img style src="https://pbs.twimg.com/media/E0EsbnVWEAE2tHa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0EscBCWEAEpo9W?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0EscfYXEAI-DTN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0Esc5yXMAkP1XZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
