@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-26
+date: 2021-04-28
 from: https://twitter.com/realcaixia/status/1386365688198144000
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re @Li50720629 你看我转发的文章吗？一个是军网上的短讯，一�
 ### 15: [2021-04-26 07:32:46+08:00 推文](https://twitter.com/realcaixia/status/1386463223482826754)
 
 Re @Harry43521235 @damaziwang 谢谢您，是我误会了您。不好意思。在大陆常会面对某些人的说话隐含威胁的情况。
+
+### 16: [2021-04-28 12:55:42+08:00 推文](https://twitter.com/realcaixia/status/1387269266915958784)
+
+数年前赵婷一句实话，中共就全网封杀赵婷，别说“文化自信”了，就连正常人该有的态度：理性听取理性思考都做不到。可见中共有多心虚胆怯。中共打压赵婷获奖，同时大量鼓吹战争革命。赵婷影片讲述和表现人们之间的温暖与关爱，而🀄️共处处鼓吹暴力、仇恨。<br><img style src="https://pbs.twimg.com/media/E0CSCVjXEAACqYq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0CSCiVX0AoJoom?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0CSCxfXoAIxNcp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
