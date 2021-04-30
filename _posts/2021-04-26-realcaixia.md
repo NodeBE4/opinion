@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-04-29
+date: 2021-05-01
 from: https://twitter.com/realcaixia/status/1386365688198144000
 layout: post
 tags:
@@ -82,4 +82,12 @@ Re @Harry43521235 @damaziwang 谢谢您，是我误会了您。不好意思。�
 ### 17: [2021-04-29 00:10:20+08:00 推文](https://twitter.com/realcaixia/status/1387439046033657873)
 
 “少年强则国强”。孩子被教的啥，长大了就成啥，未来的中国就是啥样。现在幼儿园小学重复我这代人小时候学的那一套：空头政治个人崇拜、叫干啥就干啥的有力气不思考的无脑牛、从小准备长大下乡当新知青、打土豪分田地、抓特务、告密父母老师，没有眼望星空，没有放眼未来，这对未来中国是国运还是国殇？<br><img style src="https://pbs.twimg.com/media/E0EsbnVWEAE2tHa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0EscBCWEAEpo9W?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0EscfYXEAI-DTN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0Esc5yXMAkP1XZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-04-30 23:13:45+08:00 推文](https://twitter.com/realcaixia/status/1388149582496993286)
+
+我这代人有“幸”，真的亲眼看到历史在重演！55年后的2021年，中国大陆穿越回1966年！<br>那时是毛一“气宇轩昂”夹着雨伞走出江湖；而今是毛二“气宇轩昂”，不用走江湖了，脚下踩着960万平方公里山川河海。<br>照例是芸芸众生被红色眩目的晕晕乎乎，老话说的“天网恢恢”，而今是“组织网恢恢”，一切尽在掌控中。<br><img style src="https://pbs.twimg.com/media/E0OyrF4WQAYEySV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0OyrTGWEAQwrzU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0OyrfDWEAoKLW1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0OyrvuXEAIeumu?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-05-01 00:20:17+08:00 推文](https://twitter.com/realcaixia/status/1388166323902066690)
+
+看到微信上有这么一帖。<br><img style src="https://pbs.twimg.com/media/E0PB6RAXIAMnMkW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
