@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-01
+date: 2021-05-02
 from: https://twitter.com/realcaixia/status/1386365688198144000
 layout: post
 tags:
@@ -90,4 +90,8 @@ Re @Harry43521235 @damaziwang 谢谢您，是我误会了您。不好意思。�
 ### 19: [2021-05-01 00:20:17+08:00 推文](https://twitter.com/realcaixia/status/1388166323902066690)
 
 看到微信上有这么一帖。<br><img style src="https://pbs.twimg.com/media/E0PB6RAXIAMnMkW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-05-02 10:29:42+08:00 推文](https://twitter.com/realcaixia/status/1388682076761829376)
+
+这两幅图片在大陆微信群被热搜热议。尽管官方竭力删除长安网图片，但网友们依然一次次搜出一次次发到网上。许多网友谴责中共政法委官网长安网毫无人性。2020年2月，中国人被疫情肆虐遭难时，印度驻华使馆送来了救助；而今印度人遭难时中共如此嘲讽，毫不掩饰他们反人性反人类的邪恶本质。<br><img style src="https://pbs.twimg.com/media/E0WW-mqXIAMIafH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0WW-9VXIAEqMor?format=jpg&name=orig" referrerpolicy="no-referrer">
 
