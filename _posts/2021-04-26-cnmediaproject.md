@@ -31,3 +31,7 @@ RT Bill Bishop<br>Xi continues his quest to intellectually and culturally deco
 
 RT Susan Finder<br>All you ever wanted to know and more about China's ranking system 公务员职务、职级与级别 <a href="https://mp.weixin.qq.com/s/HTwnkj5j06GtVas3_pIG7Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/HTwnkj5j06GtVas3_pIG7Q</a>
 
+### 5: [2021-05-02 19:43:00+08:00 推文](https://twitter.com/iandenisjohnson/status/1388821319907745793)
+
+RT Ian Johnson<br>Listening: @CindyXiaodanYu of @spectator interviewing David Ownby. "You might think that in a country as tightly controlled as China, diversity of opinion is hard to come by ... but there is a vibrant conversation going on." <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMjg2NzIucnNz/episode/dGFnOmF1ZGlvYm9vbS5jb20sMjAyMS0wNC0xOTovcG9zdHMvNzg0NzYxNQ?hl=en-CA&ved=2ahUKEwjpovaa2arwAhXRZs0KHeq0AckQjrkEegQIExAF&ep=6" target="_blank" rel="noopener noreferrer">https://podcasts.google.com/feed/aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMjg2NzIucnNz/episode/dGFnOmF1ZGlvYm9vbS5jb20sMjAyMS0wNC0xOTovcG9zdHMvNzg0NzYxNQ?hl=en-CA&ved=2ahUKEwjpovaa2arwAhXRZs0KHeq0AckQjrkEegQIExAF&ep=6</a>
+
