@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-04-26
+date: 2021-05-02
 from: https://twitter.com/Nectar_Gan/status/1386561849873797122
 layout: post
 tags:
@@ -26,4 +26,8 @@ RT Nectar Gan<br>Re One of the posts shared widely on Weibo was a video of Zha
 ### 3: [2021-04-26 20:51:38+08:00 推文](https://twitter.com/niubi/status/1386664264157519875)
 
 RT Bill Bishop<br>Xi continues his quest to intellectually and culturally decouple the prc from the rest of the world<br><br>Vincent Lee: Reuters: A livestream of the Academy Awards in Shanghai hosted by the alma mater of Oscar-winner Chloe Zhao ran into China's Great Firewall, with the organiser's access to his virtual private network (VPN) service blocked for nearly two hours.<br> <a href="https://reut.rs/3vwUN6b" target="_blank" rel="noopener noreferrer">https://reut.rs/3vwUN6b</a>
+
+### 4: [2021-05-02 06:57:27+08:00 推文](https://twitter.com/SPCmonitor/status/1388628665286610944)
+
+RT Susan Finder<br>All you ever wanted to know and more about China's ranking system 公务员职务、职级与级别 <a href="https://mp.weixin.qq.com/s/HTwnkj5j06GtVas3_pIG7Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/HTwnkj5j06GtVas3_pIG7Q</a>
 
