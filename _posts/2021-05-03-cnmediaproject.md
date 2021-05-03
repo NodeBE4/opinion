@@ -43,3 +43,7 @@ On World Press Freedom Day, or most other days, don’t expect to read the words
 
 Don't miss CMP's new series of interviews with media practitioners from China as well as experts in Chinese media. Stay tuned! Meanwhile, here is our interview with Chen Di of the "Gushi FM" podcast. <a href="https://chinamediaproject.org/2021/04/24/the-power-of-empathy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/04/24/the-power-of-empathy/</a><br><img style src="https://pbs.twimg.com/media/E0fKDnBXIAEmVRI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 8: [2021-05-04 05:20:58+08:00 推文](https://twitter.com/xinwenxiaojie/status/1389329156408815624)
+
+RT Yuen Chan<br>#WorldPressFreedomDay was a terrible day for Hong Kong's public broadcaster RTHK and for Hong Kong. Management has begun deleting programmes older than 1 yr its YouTube channel, and ended journalist Nabela Qoser's job. This is from @MekongReview piece I wrote at the end of 2020.<br><img style src="https://pbs.twimg.com/media/E0fh-QGXoAU5cQB?format=png&name=orig" referrerpolicy="no-referrer">
+
