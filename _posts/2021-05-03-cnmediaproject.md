@@ -51,3 +51,7 @@ RT Yuen Chan<br>#WorldPressFreedomDay was a terrible day for Hong Kong's publi
 
 RT 𝕛𝕒𝕞𝕖𝕤 𝕘𝕣𝕚𝕗𝕗𝕚𝕥𝕙𝕤 🇭🇰🏴󠁧󠁢󠁷󠁬󠁳󠁿<br>Not sure when this redesign happened, but new @cnmediaproject website looks incredible: <a href="https://chinamediaproject.org/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/</a>
 
+### 10: [2021-05-04 19:43:23+08:00 推文](https://twitter.com/schoenmakersk/status/1389546191331856384)
+
+RT Kevin Schoenmakers 宋楷文<br>Such a Chinese news item: Woman sees a forum post criticizing her idol. A "hacker" claiming to be able to delete the post scams her into paying 8,000 yuan. Post is not deleted. Police are investigating. <a href="https://finance.sina.com.cn/consume/puguangtai/2021-05-04/doc-ikmxzfmm0489246.shtml?cref=cj" target="_blank" rel="noopener noreferrer">https://finance.sina.com.cn/consume/puguangtai/2021-05-04/doc-ikmxzfmm0489246.shtml?cref=cj</a><br><img style src="https://pbs.twimg.com/media/E0ioqgrVkAE6w36?format=png&name=orig" referrerpolicy="no-referrer">
+
