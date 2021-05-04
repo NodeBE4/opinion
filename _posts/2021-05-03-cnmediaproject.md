@@ -47,3 +47,7 @@ Don't miss CMP's new series of interviews with media practitioners from China as
 
 RT Yuen Chan<br>#WorldPressFreedomDay was a terrible day for Hong Kong's public broadcaster RTHK and for Hong Kong. Management has begun deleting programmes older than 1 yr its YouTube channel, and ended journalist Nabela Qoser's job. This is from @MekongReview piece I wrote at the end of 2020.<br><img style src="https://pbs.twimg.com/media/E0fh-QGXoAU5cQB?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 9: [2021-05-04 09:04:36+08:00 推文](https://twitter.com/jgriffiths/status/1389385437479792649)
+
+RT 𝕛𝕒𝕞𝕖𝕤 𝕘𝕣𝕚𝕗𝕗𝕚𝕥𝕙𝕤 🇭🇰🏴󠁧󠁢󠁷󠁬󠁳󠁿<br>Not sure when this redesign happened, but new @cnmediaproject website looks incredible: <a href="https://chinamediaproject.org/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/</a>
+
