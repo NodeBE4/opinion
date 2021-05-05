@@ -79,3 +79,7 @@ RT Jeremy Goldkorn<br>With a chapter on Jiang Zemin by yours truly<br><br>Camb
 
 RT Mark MacKinnon<br>Confirmed: the G-7 meeting did not lead to foreign ministers learning to pronounce "Xinjiang."
 
+### 17: [2021-05-06 03:06:14+08:00 推文](https://twitter.com/cnmediaproject/status/1390020025596133376)
+
+Re @MareikeOhlberg If we had a nickel for every time CMP was accused of towing the Party line because we sought to translate, parse and analyze CCP discourse . . . .
+
