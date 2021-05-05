@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-04
+date: 2021-05-05
 from: https://twitter.com/SixthTone/status/1388976727997751298
 layout: post
 tags:
@@ -54,4 +54,16 @@ RT 𝕛𝕒𝕞𝕖𝕤 𝕘𝕣𝕚𝕗𝕗𝕚𝕥𝕙𝕤 🇭🇰🏴󠁧�
 ### 10: [2021-05-04 19:43:23+08:00 推文](https://twitter.com/schoenmakersk/status/1389546191331856384)
 
 RT Kevin Schoenmakers 宋楷文<br>Such a Chinese news item: Woman sees a forum post criticizing her idol. A "hacker" claiming to be able to delete the post scams her into paying 8,000 yuan. Post is not deleted. Police are investigating. <a href="https://finance.sina.com.cn/consume/puguangtai/2021-05-04/doc-ikmxzfmm0489246.shtml?cref=cj" target="_blank" rel="noopener noreferrer">https://finance.sina.com.cn/consume/puguangtai/2021-05-04/doc-ikmxzfmm0489246.shtml?cref=cj</a><br><img style src="https://pbs.twimg.com/media/E0ioqgrVkAE6w36?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-05-04 22:39:35+08:00 推文](https://twitter.com/JerkerHellstrom/status/1389590536533823489)
+
+RT Jerker Hellström<br>We have just published a new report: <br>"Vaccine narratives in Chinese state media"<br>by Karl Stäringe <a href="https://7e98cfb2-ca69-4afe-b2d2-bcd393b1fb2c.filesusr.com/ugd/208c4c_baff06e893d943d5a5ccff8242e30840.pdf" target="_blank" rel="noopener noreferrer">https://7e98cfb2-ca69-4afe-b2d2-bcd393b1fb2c.filesusr.com/ugd/208c4c_baff06e893d943d5a5ccff8242e30840.pdf</a><br><img style src="https://pbs.twimg.com/media/E0jQ5QyXEAISJ_Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-05-05 10:01:03+08:00 推文](https://twitter.com/S_Rabinovitch/status/1389762032791134216)
+
+RT Simon Rabinovitch<br>A look at China's digital yuan, in which I argue that on the spectrum from grand monetary revolution to big nothing-burger, it's a lot closer to the latter.<br><br>There are three bold claims about the eCNY, but none stand up to scrutiny--at least not yet. (1/x) <a href="https://www.economist.com/finance-and-economics/2021/05/03/will-going-digital-transform-the-yuans-status-at-home-and-abroad" target="_blank" rel="noopener noreferrer">https://www.economist.com/finance-and-economics/2021/05/03/will-going-digital-transform-the-yuans-status-at-home-and-abroad</a>
+
+### 13: [2021-05-05 15:11:58+08:00 推文](https://twitter.com/Junmai1103/status/1389840278316490752)
+
+RT Jun Mai<br>was talking with frds how serious Xi is abt his green agenda. I argued that green growth and jobs apart, Xi believes in feng shui. His 2019 article on Qiushi says it better: it's about Marxism, I Ching, among other classical theories. <a href="https://www.scmp.com/news/china/politics/article/2185635/chinas-xi-jinping-goes-back-marx-and-classics-push-modern-green?utm_source=Twitter&utm_medium=share_widget&utm_campaign=2185635" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/2185635/chinas-xi-jinping-goes-back-marx-and-classics-push-modern-green?utm_source=Twitter&utm_medium=share_widget&utm_campaign=2185635</a>
 
