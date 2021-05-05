@@ -67,3 +67,7 @@ RT Simon Rabinovitch<br>A look at China's digital yuan, in which I argue that 
 
 RT Jun Mai<br>was talking with frds how serious Xi is abt his green agenda. I argued that green growth and jobs apart, Xi believes in feng shui. His 2019 article on Qiushi says it better: it's about Marxism, I Ching, among other classical theories. <a href="https://www.scmp.com/news/china/politics/article/2185635/chinas-xi-jinping-goes-back-marx-and-classics-push-modern-green?utm_source=Twitter&utm_medium=share_widget&utm_campaign=2185635" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/2185635/chinas-xi-jinping-goes-back-marx-and-classics-push-modern-green?utm_source=Twitter&utm_medium=share_widget&utm_campaign=2185635</a>
 
+### 14: [2021-05-05 16:20:30+08:00 推文](https://twitter.com/vwang3/status/1389857521406341121)
+
+RT Vivian Wang<br>Special delivery to the NYT office just now from the Hong Kong police department<br><img style src="https://pbs.twimg.com/media/E0nEBk-VcAIKzg_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0nECMmUcAAvyhH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0nEC4OUYAMstsY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
