@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-05
+date: 2021-05-06
 from: https://twitter.com/SixthTone/status/1388976727997751298
 layout: post
 tags:
@@ -70,4 +70,12 @@ RT Jun Mai<br>was talking with frds how serious Xi is abt his green agenda. I 
 ### 14: [2021-05-05 16:20:30+08:00 推文](https://twitter.com/vwang3/status/1389857521406341121)
 
 RT Vivian Wang<br>Special delivery to the NYT office just now from the Hong Kong police department<br><img style src="https://pbs.twimg.com/media/E0nEBk-VcAIKzg_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0nECMmUcAAvyhH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0nEC4OUYAMstsY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-05-05 22:40:11+08:00 推文](https://twitter.com/goldkorn/status/1389953073993375748)
+
+RT Jeremy Goldkorn<br>With a chapter on Jiang Zemin by yours truly<br><br>Cambridge University Press - Academic: It's now just ONE MORE WEEK until 'The Chinese Communist Party' publishes on May 6th @supchinanews @goldkorn @ChinaFile @AsiaSociety @susanjakes<br><br><img style src="https://pbs.twimg.com/media/E0K4jAXX0AQpXGZ?format=png&name=orig" referrerpolicy="no-referrer"> <a href="http://ow.ly/EuEd50E8ylY" target="_blank" rel="noopener noreferrer">http://ow.ly/EuEd50E8ylY</a>
+
+### 16: [2021-05-06 01:31:16+08:00 推文](https://twitter.com/markmackinnon/status/1389996126640779272)
+
+RT Mark MacKinnon<br>Confirmed: the G-7 meeting did not lead to foreign ministers learning to pronounce "Xinjiang."
 
