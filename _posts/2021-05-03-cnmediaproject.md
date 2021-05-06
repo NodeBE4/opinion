@@ -87,3 +87,7 @@ RT Mark MacKinnon<br>Confirmed: the G-7 meeting did not lead to foreign minist
 
 Re @MareikeOhlberg If we had a nickel for every time CMP was accused of towing the Party line because we sought to translate, parse and analyze CCP discourse . . . .
 
+### 19: [2021-05-06 23:59:36+08:00 推文](https://twitter.com/cnmediaproject/status/1390335448854274052)
+
+Stay tuned to the new CMP Dictionary for a growing list of key terms in Chinese discourse and their definitions and history. The latest: "Strong Cyber Power." <a href="https://chinamediaproject.org/the_ccp_dictionary/strong-cyber-power/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/strong-cyber-power/</a><br><img style src="https://pbs.twimg.com/media/E0t2o8aXsAE_Tso?format=jpg&name=orig" referrerpolicy="no-referrer">
+
