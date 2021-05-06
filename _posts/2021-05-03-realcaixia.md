@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-03
+date: 2021-05-06
 from: https://twitter.com/realcaixia/status/1388891711645048841
 layout: post
 tags:
@@ -18,4 +18,12 @@ title: 'Twitter @蔡霞: 2021-05-03~2021-05-09'
 ### 1: [2021-05-03 00:22:43+08:00 推文](https://twitter.com/realcaixia/status/1388891711645048841)
 
 Re @1iang2heng @lianchaohan 关键是“自愿”二字。如果没有相爱基础上的感情达到自愿共同生活的程度，这难道不是一种灭族的手段？！你真会偷换概念，那时找个宫女冒顶“公主”名义搞通婚，是为当时中原汉族朝廷政治目的所服务。朝廷“和亲”与今天中共实施的通婚，都是政治目的，但两者完全不同。你混淆视听。
+
+### 2: [2021-05-06 08:53:20+08:00 推文](https://twitter.com/realcaixia/status/1390107377094037510)
+
+丁家喜律师数次入狱，遭受酷刑，令人揪心担忧。我是在朋友们聚会中认识了丁家喜律师的，一个温和宽厚的人，当时来不及细聊，不知道他反抗极权统治，为维护人权进行了长期的抗争，数次入狱。他令我极为敬重！很后悔那时在京，每次都是匆匆一见寥寥数语，竟没能好好多聊，错过了学习请教机会。<br><br>Luo Shengchun丁家喜律师妻子: #丁家喜在烟台被酷刑  昨天下午，彭剑律师等待近48个小时终于第二次会见到家喜！这次会见没有网络和设备故障，交流比较顺畅。家喜讲述了更多酷刑相关的惨痛记忆，我又心痛难熬！！<br><br><img style src="https://pbs.twimg.com/media/EtY86L2UUAkMzpD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EtY86L3U0AYXKFL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EtY86L3VgAYud7Z?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-05-06 08:54:59+08:00 推文](https://twitter.com/realcaixia/status/1390107792741212173)
+
+令人敬重的女士们！<br><br>Luo Shengchun丁家喜律师妻子: #揭露中共警员酷刑逼供 非常感谢CHRD 帮助我们向联合国各特别工作组报告1226厦门聚会案的酷刑！希望联合国反酷刑委员会对实施酷刑的北京市公安局，烟台市公安局，和宝鸡市公安局及高新分局有关部门和责任人进行调查，请中共遵守其签署的国际法和国际公约，释放受害无辜公民！<br><br><img style src="https://pbs.twimg.com/media/E0qdxZFWQAQ1P7e?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0qdxZDXoAQLX-C?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.nchrd.org/2021/04/chrd-follow-up-communique-alleging-torture-or-cruel-inhumane-or-degrading-treatment-or-punishment-of-former-chinese-lawyer-ding-jiaxi-activists-xu-zhiyong-li-qiaochu-and-lawyer-chang-weiping-durin/" target="_blank" rel="noopener noreferrer">https://www.nchrd.org/2021/04/chrd-follow-up-communique-alleging-torture-or-cruel-inhumane-or-degrading-treatment-or-punishment-of-former-chinese-lawyer-ding-jiaxi-activists-xu-zhiyong-li-qiaochu-and-lawyer-chang-weiping-durin/</a>
 

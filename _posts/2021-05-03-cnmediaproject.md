@@ -75,11 +75,15 @@ RT Vivian Wang<br>Special delivery to the NYT office just now from the Hong Ko
 
 RT Jeremy Goldkorn<br>With a chapter on Jiang Zemin by yours truly<br><br>Cambridge University Press - Academic: It's now just ONE MORE WEEK until 'The Chinese Communist Party' publishes on May 6th @supchinanews @goldkorn @ChinaFile @AsiaSociety @susanjakes<br><br><img style src="https://pbs.twimg.com/media/E0K4jAXX0AQpXGZ?format=png&name=orig" referrerpolicy="no-referrer"> <a href="http://ow.ly/EuEd50E8ylY" target="_blank" rel="noopener noreferrer">http://ow.ly/EuEd50E8ylY</a>
 
-### 16: [2021-05-06 01:31:16+08:00 推文](https://twitter.com/markmackinnon/status/1389996126640779272)
+### 16: [2021-05-06 01:00:07+08:00 推文](https://twitter.com/ftchina/status/1389988289113907203)
+
+RT FT China<br>The Chinese government has punished so many international companies for perceived political insults that many groups now feel like hostages, writes the FT's Asia editor @JamilAnderlini <a href="https://on.ft.com/3uoALub" target="_blank" rel="noopener noreferrer">https://on.ft.com/3uoALub</a>
+
+### 17: [2021-05-06 01:31:16+08:00 推文](https://twitter.com/markmackinnon/status/1389996126640779272)
 
 RT Mark MacKinnon<br>Confirmed: the G-7 meeting did not lead to foreign ministers learning to pronounce "Xinjiang."
 
-### 17: [2021-05-06 03:06:14+08:00 推文](https://twitter.com/cnmediaproject/status/1390020025596133376)
+### 18: [2021-05-06 03:06:14+08:00 推文](https://twitter.com/cnmediaproject/status/1390020025596133376)
 
 Re @MareikeOhlberg If we had a nickel for every time CMP was accused of towing the Party line because we sought to translate, parse and analyze CCP discourse . . . .
 
