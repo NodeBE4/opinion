@@ -27,3 +27,7 @@ Re @1iang2heng @lianchaohan 关键是“自愿”二字。如果没有相爱基�
 
 令人敬重的女士们！<br><br>Luo Shengchun丁家喜律师妻子: #揭露中共警员酷刑逼供 非常感谢CHRD 帮助我们向联合国各特别工作组报告1226厦门聚会案的酷刑！希望联合国反酷刑委员会对实施酷刑的北京市公安局，烟台市公安局，和宝鸡市公安局及高新分局有关部门和责任人进行调查，请中共遵守其签署的国际法和国际公约，释放受害无辜公民！<br><br><img style src="https://pbs.twimg.com/media/E0qdxZFWQAQ1P7e?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0qdxZDXoAQLX-C?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.nchrd.org/2021/04/chrd-follow-up-communique-alleging-torture-or-cruel-inhumane-or-degrading-treatment-or-punishment-of-former-chinese-lawyer-ding-jiaxi-activists-xu-zhiyong-li-qiaochu-and-lawyer-chang-weiping-durin/" target="_blank" rel="noopener noreferrer">https://www.nchrd.org/2021/04/chrd-follow-up-communique-alleging-torture-or-cruel-inhumane-or-degrading-treatment-or-punishment-of-former-chinese-lawyer-ding-jiaxi-activists-xu-zhiyong-li-qiaochu-and-lawyer-chang-weiping-durin/</a>
 
+### 4: [2021-05-06 20:58:24+08:00 推文](https://twitter.com/realcaixia/status/1390289846170701826)
+
+荒唐！国内微信群有这么一段视频：河南省南阳市旅游局学党史有创新，带领下属部门官员搞长征模拟，亲身体验暴力革命。现场大刀长枪乱舞，火光燃起，扭打厮杀。中共嗜好暴力血光，以恐怖维持统治，中共也嗜好演戏作假拿谎言蒙人。这么学党史，虽荒诞却传神，自我曝光这党现在状态的蜕化返祖本质。<br><video src="https://video.twimg.com/ext_tw_video/1390289694638940162/pu/vid/720x1280/hUW3VZxBp1WCb0iA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1390289694638940162/pu/img/Y6IHl-JCk2LhtnpP.jpg"></video>
+
