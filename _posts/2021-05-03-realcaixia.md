@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-07
+date: 2021-05-08
 from: https://twitter.com/realcaixia/status/1388891711645048841
 layout: post
 tags:
@@ -74,4 +74,12 @@ Re @9Cz2lziTg3afBBq @Ian76426554 那不是荒唐二字本身有级别，是说�
 ### 15: [2021-05-07 22:34:04+08:00 推文](https://twitter.com/realcaixia/status/1390676311748796421)
 
 看看这段视频，学校教孩子们什么？！1，大汉族主义：一个个朝代数过来，宋后无元、明后无清，直接数民国。2，嗜血暴力：亡其国、灭其种、绝其苗裔、皆斩、全尸、一寸山河一寸血、十万青年十万兵、虽远必诛、杀！时至21世纪，依旧用仇恨、嗜血、兵战，教育孩子处理国族间纷争，战狼就是这样培养出来的。<br><video src="https://video.twimg.com/ext_tw_video/1390676029203693569/pu/vid/720x1206/qfYNuQnrV3YkYDWn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1390676029203693569/pu/img/8BYCNu70SlP6AEQ6.jpg"></video>
+
+### 16: [2021-05-08 02:22:33+08:00 推文](https://twitter.com/realcaixia/status/1390733809646243846)
+
+中国社会道德沦丧到无底线地步。<br><br>自由亚洲电台: “张煜医生指出的不良医疗行为不会因此得到丝毫的改变，因为整个庞大的医疗体系、整个行业、整个社会都在唱同一首四字歌：谋财害命。” #肿瘤治疗黑幕<br> <a href="https://www.rfa.org/mandarin/yataibaodao/huanjing/hc2-04302021112658.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/huanjing/hc2-04302021112658.html</a>
+
+### 17: [2021-05-08 02:30:17+08:00 推文](https://twitter.com/realcaixia/status/1390735756721901576)
+
+那些残酷摧残维族妇女的家伙禽兽不如啊！令人发指！<br><br>自由亚洲电台: 【新疆集中营幸存者美国国会作证】<br>【指前仓友因遭强奸“内心已死”】<br><br>维吾尔族人齐亚乌敦(Tursunay Ziyawudun)周四（5月6日）向美国众议院外交事务委员会作证，详细述说了她和其他妇女在新疆集中营的遭遇。齐亚乌敦说：“有一天，我见到一位前监仓室友。她虽幸存下来，但她内心已死，完全被强奸杀死。”<br><br><video src="https://video.twimg.com/amplify_video/1390555524861628416/vid/720x720/PrYXmMTen0Js5Ibm.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/E0w_19RUUAQcYXR?format=jpg&name=orig"></video>
 
