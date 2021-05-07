@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-03-19
+date: 2021-03-20
 from: https://twitter.com/realcaixia/status/1371850971308040196
 layout: post
 tags:
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-03-15~2021-03-21'
 
 ### 3: [2021-03-17 22:47:24+08:00 推文](https://twitter.com/realcaixia/status/1372197884452569096)
 
-一个推主在我前面转推的狂沙大作小视频跟帖下说：我就在这里，没那么可怕。可是现在我转发的是这个推主自己先转推出的场景视频。这个推主自相矛盾。怎么回事？是接到上峰指令不许妄议“一刮风沙就北宋”吗？ <a href="https://twitter.com/toxw1xla08q3ctt/status/1371340364758589440" target="_blank" rel="noopener noreferrer">https://twitter.com/toxw1xla08q3ctt/status/1371340364758589440</a>
+一个推主在我前面转推的狂沙大作小视频跟帖下说：我就在这里，没那么可怕。可是现在我转发的是这个推主自己先转推出的场景视频。这个推主自相矛盾。怎么回事？是接到上峰指令不许妄议“一刮风沙就北宋”吗？<br><br>Uncle LEE 2025: <br><br><video src="https://video.twimg.com/ext_tw_video/1371325271874277377/pu/vid/720x720/9PYBLiUfHuvxLl-E.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1371325271874277377/pu/img/-BfLFaMjR2sRb1Cc.jpg"></video>
 
 ### 4: [2021-03-17 22:50:54+08:00 推文](https://twitter.com/realcaixia/status/1372198767257063425)
 
@@ -106,4 +106,8 @@ Re @michaljack9 同感。🌹
 ### 23: [2021-03-19 21:39:38+08:00 推文](https://twitter.com/realcaixia/status/1372905606399602691)
 
 Re @ChandlerKeon 上面正是你这个打入美国的中共别动队打手的自白。
+
+### 24: [2021-03-20 10:34:41+08:00 推文](https://twitter.com/realcaixia/status/1373100653904543748)
+
+国内朋友转来信息，烈女子张展已经被转到上海女子监狱，家人要求探监遭到拒绝。张展一直在坚持半绝食，以表达对非法迫害的抗议。情况十分惨烈，她如何熬得过4年的监狱之虐？张展家人和朋友们都忧心如焚……<br><img style src="https://pbs.twimg.com/media/Ew47v4mWgAYdE4U?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ew47wOVW8AEWHnu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ew47whoXMAEqRiv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ew47w17XMAgYFK-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
