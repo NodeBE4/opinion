@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-06
+date: 2021-05-07
 from: https://twitter.com/realcaixia/status/1388891711645048841
 layout: post
 tags:
@@ -30,4 +30,20 @@ Re @1iang2heng @lianchaohan 关键是“自愿”二字。如果没有相爱基�
 ### 4: [2021-05-06 20:58:24+08:00 推文](https://twitter.com/realcaixia/status/1390289846170701826)
 
 荒唐！国内微信群有这么一段视频：河南省南阳市旅游局学党史有创新，带领下属部门官员搞长征模拟，亲身体验暴力革命。现场大刀长枪乱舞，火光燃起，扭打厮杀。中共嗜好暴力血光，以恐怖维持统治，中共也嗜好演戏作假拿谎言蒙人。这么学党史，虽荒诞却传神，自我曝光这党现在状态的蜕化返祖本质。<br><video src="https://video.twimg.com/ext_tw_video/1390289694638940162/pu/vid/720x1280/hUW3VZxBp1WCb0iA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1390289694638940162/pu/img/Y6IHl-JCk2LhtnpP.jpg"></video>
+
+### 5: [2021-05-07 07:39:14+08:00 推文](https://twitter.com/realcaixia/status/1390451117432229890)
+
+Re @Ian76426554 谁告诉你用荒唐二字有行政级别级别地位规定？红楼梦开篇两句：“满纸荒唐言 一把辛酸泪”，你说说看，曹雪芹什么行政级别？
+
+### 6: [2021-05-07 07:46:29+08:00 推文](https://twitter.com/realcaixia/status/1390452941526638594)
+
+这就是故意整人，缺德到家了。<br><br>郭于华: ✊🙏<br> <a href="https://twitter.com/xuyan709/status/1390176045584711682" target="_blank" rel="noopener noreferrer">https://twitter.com/xuyan709/status/1390176045584711682</a>
+
+### 7: [2021-05-07 07:50:27+08:00 推文](https://twitter.com/realcaixia/status/1390453939984900097)
+
+记得屠夫面对酷刑绝不屈服，他好像是零口供，绝不自污。<br><br>王荔蕻: 今天是2021年5月6日，#屠夫吳淦 因12宗義行而失去自由，被惡判八年。2015年5月19日始，酷刑之後已經扛過2179天。屠夫說，不反對專制，我還是人嗎？#自由還有742天 #FreeWuGan<br><br><img style src="https://pbs.twimg.com/media/E0qgoytVcAA37lH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-05-07 08:07:14+08:00 推文](https://twitter.com/realcaixia/status/1390458164592758789)
+
+这就是中共司法部门的阴招损招。缺德缺到家了。<br><br>Chen Jiangang: 這就是社會主義鐵拳。<br>逃離社會主義鐵拳回頭鼓吹社會主義好的人，大概忘記了社會主義鐵拳打在別人身上也是痛的。<br> <a href="https://twitter.com/zijuan_chen/status/1388865593437089795" target="_blank" rel="noopener noreferrer">https://twitter.com/zijuan_chen/status/1388865593437089795</a>
 
