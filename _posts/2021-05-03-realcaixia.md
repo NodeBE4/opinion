@@ -47,3 +47,15 @@ Re @Ian76426554 谁告诉你用荒唐二字有行政级别级别地位规定？�
 
 这就是中共司法部门的阴招损招。缺德缺到家了。<br><br>Chen Jiangang: 這就是社會主義鐵拳。<br>逃離社會主義鐵拳回頭鼓吹社會主義好的人，大概忘記了社會主義鐵拳打在別人身上也是痛的。<br> <a href="https://twitter.com/zijuan_chen/status/1388865593437089795" target="_blank" rel="noopener noreferrer">https://twitter.com/zijuan_chen/status/1388865593437089795</a>
 
+### 9: [2021-05-07 19:45:05+08:00 推文](https://twitter.com/realcaixia/status/1390633782886158339)
+
+一个很善良又很优秀的教授，很勤奋很努力，我们一起同事了十多年。<br><br>诗人歌手红柳: 中央黨校老師劉玉瑛5月3日發了一條關於加拿大人人免費平等醫療的微博，竟然被粉紅蛆們圍攻辱罵了倆天，被迫退博。<br><br><img style src="https://pbs.twimg.com/media/E0wG1ccVIAMn8re?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E0wG1ccVEAEur8g?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-05-07 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1390660894401642497)
+
+Re @zfb468590 是的。我们10多年的同事。
+
+### 11: [2021-05-07 21:36:52+08:00 推文](https://twitter.com/realcaixia/status/1390661915131666434)
+
+Re @h_v87k @dyviwu 不制造敌人，他们就无以煽动仇恨情绪，挟裹民众。极权主义思维容不得任何一点不同意见，他们把所有的不同意见都看作是敌人进攻，他们天然倾向就是与人为敌。
+
