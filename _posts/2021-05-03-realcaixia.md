@@ -83,3 +83,7 @@ Re @9Cz2lziTg3afBBq @Ian76426554 那不是荒唐二字本身有级别，是说�
 
 那些残酷摧残维族妇女的家伙禽兽不如啊！令人发指！<br><br>自由亚洲电台: 【新疆集中营幸存者美国国会作证】<br>【指前仓友因遭强奸“内心已死”】<br><br>维吾尔族人齐亚乌敦(Tursunay Ziyawudun)周四（5月6日）向美国众议院外交事务委员会作证，详细述说了她和其他妇女在新疆集中营的遭遇。齐亚乌敦说：“有一天，我见到一位前监仓室友。她虽幸存下来，但她内心已死，完全被强奸杀死。”<br><br><video src="https://video.twimg.com/amplify_video/1390555524861628416/vid/720x720/PrYXmMTen0Js5Ibm.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/E0w_19RUUAQcYXR?format=jpg&name=orig"></video>
 
+### 18: [2021-05-08 19:39:00+08:00 推文](https://twitter.com/realcaixia/status/1390994641567289346)
+
+在这党眼里，“人”只是实现他们计划目标的工具。计划经济时期，人被“物化”，宣传做党的驯服工具，一块砖，螺丝钉；半市场经济体制以来，人分等“高端低端”，北京寒冬夜驱赶“低端人口”，现在又有了新名称：“白菜帮子”“白菜心”，留“白菜心”，扔“白菜帮子”。<br><br>郭于华: 非低端人口也不过是 “韭菜叶子”<br> <a href="https://twitter.com/wuyuesanren/status/1390870804741595139" target="_blank" rel="noopener noreferrer">https://twitter.com/wuyuesanren/status/1390870804741595139</a>
+
