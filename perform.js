@@ -10,6 +10,13 @@ let feedxUrls = JSON.parse(jsonText);
 let content = JSON.stringify(feedxUrls, undefined, 4);
 fs.writeFileSync(`./subs.json`, content)
 
+let allurlsdat = './allurls.dat'
+if (!fs.existsSync(allurlsdat)) {
+  fs.writeFileSync(allurlsdat, '')
+}
+let allurls = fs.readFileSync(allurlsdat);
+
+
 async function fetchArticles(site) {
 
   let articles
@@ -145,6 +152,8 @@ function generateArticle(article) {
   let pubDate = timeConverter(article.pubDate)
   if (today < pubDate) {
     pubDate = today
+  }else if(isNaN(pubDate)){
+    pubDate = today
   }
   let dateString = pubDate.toISOString()
   let titletext = article.title.toString().replace(/"/g, '\\"').replace("...", '')
@@ -161,9 +170,11 @@ categories: [ ${article.site} ]
 `
   md = header + md
   let filename = `${dateString.substring(0, 10)}-${titletext.substring(0, 50)}.md`.replace(/\//g, '--')
-  if (!fs.existsSync(`./_posts/${filename}`)) {
+  if ((!fs.existsSync(`./_posts/${filename}`))&&(!allurls.includes(articlelink))) {
     fs.writeFileSync(`./_posts/${filename}`, md)
     console.log(`add ./_posts/${filename}`)
+    allurls = allurls + articlelink+"\n"
+    fs.writeFileSync(allurlsdat, allurls)
   }
 }
 
