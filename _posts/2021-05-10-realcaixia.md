@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-10
+date: 2021-05-12
 from: https://twitter.com/realcaixia/status/1391424487938301963
 layout: post
 tags:
@@ -22,4 +22,12 @@ Re @lianchaohan 引语很感人。每个人对自己父母亲的记忆都是自�
 ### 2: [2021-05-10 07:33:59+08:00 推文](https://twitter.com/realcaixia/status/1391536959340883978)
 
 Re @KeZhan15 @lianchaohan Thanks so much!
+
+### 3: [2021-05-12 12:18:32+08:00 推文](https://twitter.com/realcaixia/status/1392333343467913216)
+
+成都市中学生堕楼事件显示了大陆中国处在深刻的社会危机中。学生不明死亡，学校驱散同学，恐吓警告学生不许说话；家长伤心欲绝，孤坐校门口，没有一个校方人员安慰家长；官方通报含混不清语焉不详……这学校这官方还有一丁点儿正义感吗？毫无正义良善、连一点恻隐之心都没有，这社会还让人活吗？！<br><br>自由亚洲电台: “我也不相信(官方通报)。因为你应该是第一时间坦诚、公开录像，现在联系(#林唯麒)家长也联系不上。完整录相也没公布，官方通报也语焉不详，这根本不符合逻辑。”一位不愿具名的四十九中家长告诉本台，“国内所谓的官方通报没问你信不信，只问你服不服。”<br>#成都49中<br> <a href="https://www.rfa.org/mandarin/yataibaodao/kejiaowen/jt-05112021101136.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/kejiaowen/jt-05112021101136.html</a>
+
+### 4: [2021-05-12 12:37:16+08:00 推文](https://twitter.com/realcaixia/status/1392338061569167360)
+
+政府撒弥天大谎却又漏洞百出，圆谎技穷。中国政府公信力早已完全垮塌。这次全世界众目睽睽围观虚假中国人口数据。造假岂只人口统计？年度GDP数据、吸收外资数据、进出口数据？武汉病毒全国死亡人口数据、脱贫数据………，几乎无一不撒谎。谎言充斥官方媒体、官方文件、官场话语，撒谎成性成本能。<br><br>自由亚洲电台: 【官方人口数据前后矛盾错漏百出】<br><br>中国官方数据为政治服务早已是公開的秘密，但在造假之余，确实缺乏了基本职业操守。新公布的人口数据，连基本的数学加减法也无法自圆其说，基本的数据和資料覆核也沒有，连一般的网民都能找到错漏百出之处。<br><br>#中国人口<br>#未富先老<br> <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql1-05112021055641.html#.YJpleu2ntys.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/ql1-05112021055641.html#.YJpleu2ntys.twitter</a>
 
