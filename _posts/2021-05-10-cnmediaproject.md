@@ -63,3 +63,7 @@ RT Caixin Global<br>While 2021 is set to be the fourth straight year that Chin
 
 RT Bill Bishop<br>Xi’s dismantling of yanhuang chunqiu was a useful step in further controlling the telling of Party history. He thinks ahead<br><img style src="https://pbs.twimg.com/media/E1Lm9kxXsAA26JU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1Lm9kvWUAAqvi_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 13: [2021-05-12 21:53:19+08:00 推文](https://twitter.com/cnmediaproject/status/1392477994145419265)
+
+The IFJ paper on how CCP external propaganda might be filling the gap internationally on China coverage, and "how China is coordinating and tailoring domestic and international content for each country in non-Anglophone languages." <a href="https://www.ifj.org/media-centre/news/detail/category/press-releases/article/china-the-covid-19-story-unmasking-chinas-global-strategy.html" target="_blank" rel="noopener noreferrer">https://www.ifj.org/media-centre/news/detail/category/press-releases/article/china-the-covid-19-story-unmasking-chinas-global-strategy.html</a>
+
