@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-11
+date: 2021-05-12
 from: https://twitter.com/cnmediaproject/status/1391631109763502082
 layout: post
 tags:
@@ -34,4 +34,32 @@ RT Hannah Bailey<br>🚨 NEW RESEARCH! 🚨 I am proud to be a coauthor on two
 ### 5: [2021-05-11 21:53:43+08:00 推文](https://twitter.com/MareikeOhlberg/status/1392115707643584515)
 
 RT Mareike Ohlberg<br>Re I hope on the official side, @Twitter can start labelling Chinese government and party-state media accounts more consistently (though I agree with David Bandurski @cnmediaproject that there needs to be a way to distinguish meaningfully between, say, People's Daily and Caixin)
+
+### 6: [2021-05-12 10:58:17+08:00 推文](https://twitter.com/Junmai1103/status/1392313148556779520)
+
+RT Jun Mai<br>China’s steady erosion of media freedom rose from Sichuan’s ruins <a href="https://www.scmp.com/news/china/politics/article/3133056/how-chinas-steady-erosion-media-freedom-rose-sichuans-ruins?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3133056" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3133056/how-chinas-steady-erosion-media-freedom-rose-sichuans-ruins?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3133056</a>
+
+### 7: [2021-05-12 16:20:09+08:00 推文](https://twitter.com/cnmediaproject/status/1392394152185323521)
+
+A look at Hua Chunying's remarks yesterday rebutting an IFJ report due out today on China's global media influence, by @limlouisa and  @juliabergin1.  -- with partial translation. <a href="https://chinamediaproject.org/2021/05/12/running-defense-for-chinas-global-media-push/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/12/running-defense-for-chinas-global-media-push/</a><br><img style src="https://pbs.twimg.com/media/E1LGvfZWUAIjauO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-05-12 16:22:13+08:00 推文](https://twitter.com/cnmediaproject/status/1392394668625874946)
+
+Re Hua continues the argument, given so often now by MOFA and state media -- as in the anger over the Ofcom decision on CGTN in the UK -- that Chinese media or objective and impartial and committed to professionalism. This is blatantly in contradiction to China's media policies.
+
+### 9: [2021-05-12 16:24:02+08:00 推文](https://twitter.com/cnmediaproject/status/1392395128338321408)
+
+Re Here is David Bandurski's look back in February at the official reaction to the UK Ofcom decision: All This Talk of Independence. <a href="https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/02/12/all-this-talk-of-independence/</a><br><img style src="https://pbs.twimg.com/media/E1LH7LaXEAA1yZl?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-05-12 16:27:44+08:00 推文](https://twitter.com/cnmediaproject/status/1392396057234001920)
+
+Shi Jiangtao's article at SCMP looking back on the  Sichuan earthquake 13 years ago and its impact on media policy in China is a good read -- a reminder again of how constrained the space has become for professional trying to push the bounds. <a href="https://www.scmp.com/news/china/politics/article/3133056/how-chinas-steady-erosion-media-freedom-rose-sichuans-ruins?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3133056" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3133056/how-chinas-steady-erosion-media-freedom-rose-sichuans-ruins?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3133056</a>
+
+### 11: [2021-05-12 16:42:03+08:00 推文](https://twitter.com/caixin/status/1392399663223820288)
+
+RT Caixin Global<br>While 2021 is set to be the fourth straight year that Chinese corporate defaults top 100 billion yuan, the milestone previously hadn’t been hit before September. <a href="https://www.caixinglobal.com/2021-05-12/china-bond-defaults-racing-to-100-billion-yuan-and-its-only-may-101710332.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pK5bLKgyTCIxOTs%2B9bnTo1TA%3D%3D&cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-05-12/china-bond-defaults-racing-to-100-billion-yuan-and-its-only-may-101710332.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pK5bLKgyTCIxOTs%2B9bnTo1TA%3D%3D&cxg=web&Sfrom=twitter</a>
+
+### 12: [2021-05-12 18:39:22+08:00 推文](https://twitter.com/niubi/status/1392429183255597057)
+
+RT Bill Bishop<br>Xi’s dismantling of yanhuang chunqiu was a useful step in further controlling the telling of Party history. He thinks ahead<br><img style src="https://pbs.twimg.com/media/E1Lm9kxXsAA26JU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1Lm9kvWUAAqvi_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
