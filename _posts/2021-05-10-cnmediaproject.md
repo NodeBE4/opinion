@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-12
+date: 2021-05-13
 from: https://twitter.com/cnmediaproject/status/1391631109763502082
 layout: post
 tags:
@@ -66,4 +66,12 @@ RT Bill Bishop<br>Xi’s dismantling of yanhuang chunqiu was a useful step in 
 ### 13: [2021-05-12 21:53:19+08:00 推文](https://twitter.com/cnmediaproject/status/1392477994145419265)
 
 The IFJ paper on how CCP external propaganda might be filling the gap internationally on China coverage, and "how China is coordinating and tailoring domestic and international content for each country in non-Anglophone languages." <a href="https://www.ifj.org/media-centre/news/detail/category/press-releases/article/china-the-covid-19-story-unmasking-chinas-global-strategy.html" target="_blank" rel="noopener noreferrer">https://www.ifj.org/media-centre/news/detail/category/press-releases/article/china-the-covid-19-story-unmasking-chinas-global-strategy.html</a>
+
+### 14: [2021-05-13 05:30:32+08:00 推文](https://twitter.com/gadyepstein/status/1392593057586028548)
+
+RT Gady Epstein<br>In light of China's aggressive response to what otherwise might've been an obscure UN event on Xinjiang, a thread on my latest story about the Communist Party's "new scold war", its increased efforts to fight back against criticism publicly & personally <a href="https://www.economist.com/china/2021/05/08/china-pushes-back-against-critics-of-its-policies-in-xinjiang" target="_blank" rel="noopener noreferrer">https://www.economist.com/china/2021/05/08/china-pushes-back-against-critics-of-its-policies-in-xinjiang</a>
+
+### 15: [2021-05-13 05:30:34+08:00 推文](https://twitter.com/gadyepstein/status/1392593064246628353)
+
+RT Gady Epstein<br>Re David Bandurski @cnmediaproject first pointed me to this concept of the "three afflictions". Far as I can tell, Huang Ping of CASS was the first to be quoted discussing it, in this interview in 2008 (Huang is now head of CASS's HK-Taiwan-Macau Institute) <a href="https://www.aisixiang.com/data/20003-3.html" target="_blank" rel="noopener noreferrer">https://www.aisixiang.com/data/20003-3.html</a>
 
