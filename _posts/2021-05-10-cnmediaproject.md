@@ -75,7 +75,19 @@ RT Gady Epstein<br>In light of China's aggressive response to what otherwise m
 
 RT Gady Epstein<br>Re David Bandurski @cnmediaproject first pointed me to this concept of the "three afflictions". Far as I can tell, Huang Ping of CASS was the first to be quoted discussing it, in this interview in 2008 (Huang is now head of CASS's HK-Taiwan-Macau Institute) <a href="https://www.aisixiang.com/data/20003-3.html" target="_blank" rel="noopener noreferrer">https://www.aisixiang.com/data/20003-3.html</a>
 
-### 16: [2021-05-13 11:29:34+08:00 推文](https://twitter.com/MIC_Journal/status/1392683412297715718)
+### 16: [2021-05-13 10:10:55+08:00 推文](https://twitter.com/keithrichburg/status/1392663615954587650)
+
+RT Keith Richburg<br>Don’t do that @JiayangFan — you got a best-selling book to finish, and one we’re all waiting to devour!<br><br>Jiayang Fan: Figuring out taxes, expenses, the monetary value of my life etc. actually make me want to crawl into a hole and die<br>
+
+### 17: [2021-05-13 11:29:34+08:00 推文](https://twitter.com/MIC_Journal/status/1392683412297715718)
 
 RT Made in China Journal<br>On 12 May 2008, a 7.9 magnitude earthquake hit Wenchuan county, Sichuan province. 69,229 people died and 17,923 went missing. These essays from our archive look into the aftermath of the tragedy and its legacies. 1/<br><img style src="https://pbs.twimg.com/media/E1OxBA2VkAAUxW2?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-05-13 15:13:57+08:00 推文](https://twitter.com/AlexDukalskis/status/1392739879495340035)
+
+RT Alex Dukalskis<br>The aim here is to devalue the idea of a free press; to make it look like just one from among many acceptable ways for the press to operate, including a state-controlled model.<br><br>China Media Project: A look at Hua Chunying's remarks yesterday rebutting an IFJ report due out today on China's global media influence, by @limlouisa and  @juliabergin1.  -- with partial translation.<br><br><img style src="https://pbs.twimg.com/media/E1LGvfZWUAIjauO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/05/12/running-defense-for-chinas-global-media-push/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/12/running-defense-for-chinas-global-media-push/</a>
+
+### 19: [2021-05-13 19:32:05+08:00 推文](https://twitter.com/cnmediaproject/status/1392804840867258369)
+
+In a PRC context, "mainstream" (主流) may not mean what you think it means. More from the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/mainstream/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/mainstream/</a><br><img style src="https://pbs.twimg.com/media/E1Q8h0VWYAA4V6i?format=jpg&name=orig" referrerpolicy="no-referrer">
 
