@@ -75,3 +75,7 @@ RT Gady Epstein<br>In light of China's aggressive response to what otherwise m
 
 RT Gady Epstein<br>Re David Bandurski @cnmediaproject first pointed me to this concept of the "three afflictions". Far as I can tell, Huang Ping of CASS was the first to be quoted discussing it, in this interview in 2008 (Huang is now head of CASS's HK-Taiwan-Macau Institute) <a href="https://www.aisixiang.com/data/20003-3.html" target="_blank" rel="noopener noreferrer">https://www.aisixiang.com/data/20003-3.html</a>
 
+### 16: [2021-05-13 11:29:34+08:00 推文](https://twitter.com/MIC_Journal/status/1392683412297715718)
+
+RT Made in China Journal<br>On 12 May 2008, a 7.9 magnitude earthquake hit Wenchuan county, Sichuan province. 69,229 people died and 17,923 went missing. These essays from our archive look into the aftermath of the tragedy and its legacies. 1/<br><img style src="https://pbs.twimg.com/media/E1OxBA2VkAAUxW2?format=jpg&name=orig" referrerpolicy="no-referrer">
+
