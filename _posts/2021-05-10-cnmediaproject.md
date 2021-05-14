@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-13
+date: 2021-05-14
 from: https://twitter.com/cnmediaproject/status/1391631109763502082
 layout: post
 tags:
@@ -94,4 +94,20 @@ RT Alex Dukalskis<br>The aim here is to devalue the idea of a free press; to m
 ### 20: [2021-05-13 19:32:05+08:00 推文](https://twitter.com/cnmediaproject/status/1392804840867258369)
 
 In a PRC context, "mainstream" (主流) may not mean what you think it means. More from the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/mainstream/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/mainstream/</a><br><img style src="https://pbs.twimg.com/media/E1Q8h0VWYAA4V6i?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2021-05-14 13:56:17+08:00 推文](https://twitter.com/cnmediaproject/status/1393082722629963777)
+
+Daily press conferences at China's Ministry of Foreign Affairs have become forums to air the leadership's grievances over what the CCP views as Western media prejudice and "disinformation." <a href="https://chinamediaproject.org/2021/05/13/mofa-briefings-highlight-tense-media-relations/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/13/mofa-briefings-highlight-tense-media-relations/</a>
+
+### 22: [2021-05-14 15:16:30+08:00 推文](https://twitter.com/cnmediaproject/status/1393102906317025280)
+
+For the Chinese leadership, journalistic objectivity hinges on the capacity of media to reflect the strength and legitimacy of the system as led by the Communist Party. All else is wanton bias. The latest from CMP's David Bandurski. <a href="https://chinamediaproject.org/2021/05/14/objective-falsehoods/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/14/objective-falsehoods/</a><br><img style src="https://pbs.twimg.com/media/E1VLpbLX0AIY-PR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-05-14 15:18:06+08:00 推文](https://twitter.com/cnmediaproject/status/1393103312174653440)
+
+Re See also CMP's rundown yesterday of how critiques of Western media bias have become regular in the routine press conferences of the Ministry of Foreign Affairs. <a href="https://chinamediaproject.org/2021/05/13/mofa-briefings-highlight-tense-media-relations/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/13/mofa-briefings-highlight-tense-media-relations/</a><br><img style src="https://pbs.twimg.com/media/E1VMCmfXIAQxSZ2?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2021-05-14 15:41:53+08:00 推文](https://twitter.com/cnmediaproject/status/1393109295785517060)
+
+PD reports today on Xi Jinping's inspection tour of China's South-North Water Transfer Project. <a href="http://politics.people.com.cn/n1/2021/0513/c1024-32102690.html" target="_blank" rel="noopener noreferrer">http://politics.people.com.cn/n1/2021/0513/c1024-32102690.html</a><br><img style src="https://pbs.twimg.com/media/E1VRVfaXsAQkwGv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
