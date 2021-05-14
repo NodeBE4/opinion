@@ -111,3 +111,7 @@ Re See also CMP's rundown yesterday of how critiques of Western media bias have 
 
 PD reports today on Xi Jinping's inspection tour of China's South-North Water Transfer Project. <a href="http://politics.people.com.cn/n1/2021/0513/c1024-32102690.html" target="_blank" rel="noopener noreferrer">http://politics.people.com.cn/n1/2021/0513/c1024-32102690.html</a><br><img style src="https://pbs.twimg.com/media/E1VRVfaXsAQkwGv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 25: [2021-05-14 15:44:55+08:00 推文](https://twitter.com/cnmediaproject/status/1393110060692353024)
+
+Re Adding to the fun, try searching "Xi Jinping" + "inspection" in Google Images. The options: 1) white shirt or 2) dark cadre jacket . . . and 1) standing, 2) pointing 3) striding forward, 4) gazing thoughtfully away.<br><img style src="https://pbs.twimg.com/media/E1VRpljWEAEfUtO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
