@@ -123,3 +123,7 @@ Re Adding to the fun, try searching "Xi Jinping" + "inspection" in Google Images
 
 How does the Chinese Communist Party view "objectivity" or "multilateralism"? What are "important instructions"? Our CMP Dictionary can help you read the official discourse. <a href="https://chinamediaproject.org/the_ccp_dictionary/objectivity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/objectivity/</a><br><img style src="https://pbs.twimg.com/media/E1VmCdqWEAAGByT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 28: [2021-05-14 20:58:43+08:00 推文](https://twitter.com/niubi/status/1393189031584935942)
+
+RT Bill Bishop<br>China’s Political Discourse for April 2021: Nuclear Wastewater, by @cnmediaproject <a href="https://sinocism.com/p/chinas-political-discourse-for-april?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-for-april?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter</a>
+
