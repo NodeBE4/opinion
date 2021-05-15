@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-14
+date: 2021-05-15
 from: https://twitter.com/cnmediaproject/status/1391631109763502082
 layout: post
 tags:
@@ -126,4 +126,36 @@ How does the Chinese Communist Party view "objectivity" or "multilateralism"? Wh
 ### 28: [2021-05-14 20:58:43+08:00 推文](https://twitter.com/niubi/status/1393189031584935942)
 
 RT Bill Bishop<br>China’s Political Discourse for April 2021: Nuclear Wastewater, by @cnmediaproject <a href="https://sinocism.com/p/chinas-political-discourse-for-april?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-for-april?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter</a>
+
+### 29: [2021-05-15 15:13:33+08:00 推文](https://twitter.com/cnmediaproject/status/1393464554450034688)
+
+On page 4 of today's People's Daily, down below and interview with Communist Party of the USA Chair Rossana Cambron, there is an add for Qiushi (Seeking Truth), the latest edition being out. Whose writing tops the list? <a href="http://paper.people.com.cn/rmrb/html/2021-05/15/nw.D110000renmrb_20210515_8-04.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-05/15/nw.D110000renmrb_20210515_8-04.htm</a><br><img style src="https://pbs.twimg.com/media/E1aUbSJXIAE3cVR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 30: [2021-05-15 15:17:13+08:00 推文](https://twitter.com/cnmediaproject/status/1393465474625724416)
+
+Re Here's a close up . . . Once again, and article from Xi is on top. It's about "using the red resources [of CCP history]" and "transmitting red genes' 红色基因 Other media have reported Xi's article in Qiushi again as a news story. <a href="https://news.cnstock.com/news,bwkx-202105-4703522.htm" target="_blank" rel="noopener noreferrer">https://news.cnstock.com/news,bwkx-202105-4703522.htm</a><br><img style src="https://pbs.twimg.com/media/E1aUzzeWUAE_dsJ?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 31: [2021-05-15 15:20:17+08:00 推文](https://twitter.com/cnmediaproject/status/1393466248332292100)
+
+Re And of course Qiushi is giving the article great big treatment right at the top of its website. Here is the link to the article itself: <a href="http://www.qstheory.cn/dukan/qs/2021-05/15/c_1127446859.htm" target="_blank" rel="noopener noreferrer">http://www.qstheory.cn/dukan/qs/2021-05/15/c_1127446859.htm</a><br><img style src="https://pbs.twimg.com/media/E1aWHnzWEAQ1crq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 32: [2021-05-15 15:23:22+08:00 推文](https://twitter.com/cnmediaproject/status/1393467022571446272)
+
+Re Is this an article written by Xi? No, not really. It is a compilation of quotes from his visits to various CCP historical sites over the years, 32 snippets in all, from December 2012 to March 2021.<br><img style src="https://pbs.twimg.com/media/E1aW3EBXEAIThWx?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 33: [2021-05-15 15:29:20+08:00 推文](https://twitter.com/cnmediaproject/status/1393468526753636354)
+
+Re One of Xi's signatures has been to utilize CCP history -- its heroes as well as governance models. He has said that the decades after and BEFORE reforms are to be valued. One concept he has dusted off is the "Fengqiao Experience," here in our dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/fengqiao-experience/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/fengqiao-experience/</a>
+
+### 34: [2021-05-15 15:35:43+08:00 推文](https://twitter.com/cnmediaproject/status/1393470132094181377)
+
+Re Here is Xi visiting a site for Lei Feng, the soldier elevated during the Cult. Revolution as a model of sacrifice and service for the Party. Much if not most of Lei Feng's story is falsified, and the diary discovered after his death largely an invention. <a href="https://www.newyorker.com/news/evan-osnos/fact-checking-a-chinese-hero" target="_blank" rel="noopener noreferrer">https://www.newyorker.com/news/evan-osnos/fact-checking-a-chinese-hero</a><br><img style src="https://pbs.twimg.com/media/E1aZjdrWEAAb5Hh?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 35: [2021-05-15 15:41:55+08:00 推文](https://twitter.com/cnmediaproject/status/1393471691427356673)
+
+Re A perennial favorite from the Lei Feng canon is this propaganda image of him dutifully reading his Party text by flashlight -- even though the light is clearly on in the room. It's this sort of thing that has made Lei the subject of ridicule too . . . . <a href="https://www.nytimes.com/2012/03/06/world/asia/lei-feng-day-draws-chinese-cynicism.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2012/03/06/world/asia/lei-feng-day-draws-chinese-cynicism.html</a><br><img style src="https://pbs.twimg.com/media/E1abFlzWQAAzzqq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 36: [2021-05-15 15:44:39+08:00 推文](https://twitter.com/cnmediaproject/status/1393472378357878787)
+
+Re But careful now. Not too much giggling. Three years ago, China made defamation of revolutionary heroes illegal. The CCP has grown very concerned about protecting symbols of the Party-state. All about preserving those "red genes." <a href="https://www.reuters.com/article/us-china-lawmaking-idUSKBN1HY14N" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/us-china-lawmaking-idUSKBN1HY14N</a><br><img style src="https://pbs.twimg.com/media/E1abt8lWYAEso88?format=jpg&name=orig" referrerpolicy="no-referrer">
 
