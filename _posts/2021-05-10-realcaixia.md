@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-15
+date: 2021-05-16
 from: https://twitter.com/realcaixia/status/1391424487938301963
 layout: post
 tags:
@@ -50,4 +50,12 @@ Re @HEINIU11 对。我是在国家大剧院音乐厅看的。当时被深深震�
 ### 9: [2021-05-15 21:47:06+08:00 推文](https://twitter.com/realcaixia/status/1393563591584931844)
 
 Re @ConfuseMoral 看来你不懂音乐只会乱喷。
+
+### 10: [2021-05-16 22:42:27+08:00 推文](https://twitter.com/realcaixia/status/1393939909690470405)
+
+今天是5月16日，55年前文革正式开始。那十年是大陆的全民浩劫。现在为文革翻案的恶浪汹涌再起，这背后显然有当局的影子：图一红塔礼堂、官园礼堂是中央国家机关的部门礼堂；图二似乎是国家大剧院音乐厅舞台；图三北京国家图书馆艺术中心；图四一伙人开江青党史研究会，并高调上网。大陆正反动倒退。<br><img style src="https://pbs.twimg.com/media/E1hE8i-WEAEIDtX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1hE8xqXsAAFpuY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1hE9CUXIAEUWC3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1hE9SoX0AEw2k7?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-05-16 22:55:35+08:00 推文](https://twitter.com/realcaixia/status/1393943214906875907)
+
+曹德旺先生现在著名企业家，在大陆改革开放之前是农民，他积一生的亲身经历与经验说的话，很朴实但很深刻。<br><img style src="https://pbs.twimg.com/media/E1hH9f0WQAIFSvA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1hH9vIXoAomyMq?format=jpg&name=orig" referrerpolicy="no-referrer">
 
