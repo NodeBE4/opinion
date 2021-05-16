@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-15
+date: 2021-05-16
 from: https://twitter.com/cnmediaproject/status/1391631109763502082
 layout: post
 tags:
@@ -158,4 +158,8 @@ Re A perennial favorite from the Lei Feng canon is this propaganda image of him 
 ### 36: [2021-05-15 15:44:39+08:00 推文](https://twitter.com/cnmediaproject/status/1393472378357878787)
 
 Re But careful now. Not too much giggling. Three years ago, China made defamation of revolutionary heroes illegal. The CCP has grown very concerned about protecting symbols of the Party-state. All about preserving those "red genes." <a href="https://www.reuters.com/article/us-china-lawmaking-idUSKBN1HY14N" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/us-china-lawmaking-idUSKBN1HY14N</a><br><img style src="https://pbs.twimg.com/media/E1abt8lWYAEso88?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 37: [2021-05-16 08:36:26+08:00 推文](https://twitter.com/CarlMinzner/status/1393727001882554371)
+
+RT Carl Minzner<br>Note that the pg 1 story immediately below this one (and also the lead item on 7pm news) is Xi Jinping's Qiushi article promoting "red genes" & "red culture."《求是》杂志发表习近平总书记重要文章用好红色资源，传承好红色基因，把红色江山世世代代传下去.<br><br>Total coincidence, of course.<br><br>Carl Minzner: In a clear demonstration of love for the Red Planet, China's top Party paper @PDChina announces successful landing of China's Mars rover in bold red font. <br><br>[Note Xi's full text letter on pg 1.  Watch to see if these a) increase over time and b) what font is used for them.]<br><br><img style src="https://pbs.twimg.com/media/E1d-xe0VUAYofxu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
