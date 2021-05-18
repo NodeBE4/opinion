@@ -27,3 +27,7 @@ Re Celebrations of red culture were really picking up pace in the mid-to-late 20
 
 "Red genes" (红色基因). What are they? Do you have them? Learn more about this more recent addition to the CCP lexicon in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/E1q2qKOWQAACoaW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2021-05-18 22:43:41+08:00 推文](https://twitter.com/ReutersChina/status/1394664995422498816)
+
+RT Reuters China<br>China bans financial, payment institutions from cryptocurrency business <a href="https://www.reuters.com/technology/chinese-financial-payment-bodies-barred-cryptocurrency-business-2021-05-18/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/technology/chinese-financial-payment-bodies-barred-cryptocurrency-business-2021-05-18/</a><br><img style src="https://pbs.twimg.com/media/E1rYackVUAAAxXz?format=jpg&name=orig" referrerpolicy="no-referrer">
+

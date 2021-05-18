@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-18
+date: 2021-05-19
 from: https://twitter.com/realcaixia/status/1394044962212306947
 layout: post
 tags:
@@ -26,4 +26,8 @@ title: 'Twitter @蔡霞: 2021-05-17~2021-05-23'
 ### 3: [2021-05-18 08:55:46+08:00 推文](https://twitter.com/realcaixia/status/1394456642922631173)
 
 这件装置艺术品是很有意思的——“智小而谋大，德薄而位尊”。杰出的艺术作品会有强烈的穿透力，撕破一切伪装，直击要害，进而产生巨大的思想震撼力。<br><video src="https://video.twimg.com/ext_tw_video/1394456485606866949/pu/vid/758x720/miSpfN4ph3THd4-G.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1394456485606866949/pu/img/_x1fZSvh_XSSARn0.jpg"></video>
+
+### 4: [2021-05-19 01:49:46+08:00 推文](https://twitter.com/realcaixia/status/1394711827448217609)
+
+前中大學生會會長：毫不絕望沒放棄命運自主　保持信念直至終結時代苦難 – Berliner Bericht <a href="https://berlinerbericht.de/2021/05/18/10488/" target="_blank" rel="noopener noreferrer">https://berlinerbericht.de/2021/05/18/10488/</a>
 
