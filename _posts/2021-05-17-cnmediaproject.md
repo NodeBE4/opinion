@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-19
+date: 2021-05-20
 from: https://twitter.com/cnmediaproject/status/1394580055842598914
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re And the biggest innovator on "red songs" was this guy. Bo Xilai arguably wrot
 ### 13: [2021-05-19 22:25:24+08:00 推文](https://twitter.com/cnmediaproject/status/1395022782598111235)
 
 At a Cyberspace Administration of China meeting in Wenzhou this week, participants discussed the building of a "Comprehensive Cyber Governance System." What does this even mean? CMP's latest in its "Tracking Control" series. <a href="https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/E1wd0r4XMAAzfsD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-05-20 01:58:09+08:00 推文](https://twitter.com/cnmediaproject/status/1395076322213482496)
+
+China is pushing to speed up the building this year of a "comprehensive cyber governance system." What does this involve? <a href="https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/E1xObjuX0AgV-_Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
