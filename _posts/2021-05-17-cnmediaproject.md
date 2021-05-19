@@ -63,3 +63,7 @@ Re Though let us not forget that red songs were a craze in places like Jiangxi f
 
 Re And the biggest innovator on "red songs" was this guy. Bo Xilai arguably wrote the playbook on red culture populism. <a href="https://medium.com/@cmphku/a-brief-history-of-singing-red-63e909eb555d" target="_blank" rel="noopener noreferrer">https://medium.com/@cmphku/a-brief-history-of-singing-red-63e909eb555d</a><br><img style src="https://pbs.twimg.com/media/E1vEPf9WQAImXki?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 13: [2021-05-19 22:25:24+08:00 推文](https://twitter.com/cnmediaproject/status/1395022782598111235)
+
+At a Cyberspace Administration of China meeting in Wenzhou this week, participants discussed the building of a "Comprehensive Cyber Governance System." What does this even mean? CMP's latest in its "Tracking Control" series. <a href="https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/E1wd0r4XMAAzfsD?format=jpg&name=orig" referrerpolicy="no-referrer">
+

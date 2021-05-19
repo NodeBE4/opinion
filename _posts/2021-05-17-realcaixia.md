@@ -31,3 +31,11 @@ title: 'Twitter @蔡霞: 2021-05-17~2021-05-23'
 
 前中大學生會會長：毫不絕望沒放棄命運自主　保持信念直至終結時代苦難 – Berliner Bericht <a href="https://berlinerbericht.de/2021/05/18/10488/" target="_blank" rel="noopener noreferrer">https://berlinerbericht.de/2021/05/18/10488/</a>
 
+### 5: [2021-05-19 23:17:33+08:00 推文](https://twitter.com/realcaixia/status/1395035909284839427)
+
+孙大午案律师团队消息：河北当局欲重判67岁的孙大午25年！欲以认罪与否判其长子和二弟重刑16-20年和11-14年。当局搞现代满门株连骇人听闻。呼吁国际社会将实施迫害罪行的警察、检察官法官本人及其领导人名字写进马格尼茨基法案惩治名单！孙大午全家遭遇再次说明，谁对中共极权抱幻想谁就是自我戕害。<br><img style src="https://pbs.twimg.com/media/E1wpwVnXsAMy8Ql?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1wpwjkWQAYdwmP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1wpwtjXsAcKAyR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E1wpw57WQAw_8WS?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-05-19 23:20:13+08:00 推文](https://twitter.com/realcaixia/status/1395036578553212934)
+
+澳美找到新冠新疗法！有效歼灭99.9％病毒；孙大午重刑恐超任志强！满门株连；佩洛西：美国应抵制北京冬奥；拜登政府再度推迟 川普涉及中共军方的这一... <a href="https://youtu.be/Ef0rOzQg8vE" target="_blank" rel="noopener noreferrer">https://youtu.be/Ef0rOzQg8vE</a>
+
