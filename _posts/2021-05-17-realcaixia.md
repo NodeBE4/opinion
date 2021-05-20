@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-19
+date: 2021-05-20
 from: https://twitter.com/realcaixia/status/1394044962212306947
 layout: post
 tags:
@@ -38,4 +38,8 @@ title: 'Twitter @蔡霞: 2021-05-17~2021-05-23'
 ### 6: [2021-05-19 23:20:13+08:00 推文](https://twitter.com/realcaixia/status/1395036578553212934)
 
 澳美找到新冠新疗法！有效歼灭99.9％病毒；孙大午重刑恐超任志强！满门株连；佩洛西：美国应抵制北京冬奥；拜登政府再度推迟 川普涉及中共军方的这一... <a href="https://youtu.be/Ef0rOzQg8vE" target="_blank" rel="noopener noreferrer">https://youtu.be/Ef0rOzQg8vE</a>
+
+### 7: [2021-05-20 10:55:41+08:00 推文](https://twitter.com/realcaixia/status/1395211597199679490)
+
+本推上午转推了万维网油管播报，如此严酷重刑孙大午令人震惊。刚刚看到下面这推，推特文章披露了当局借开庭前会做满门判重刑，以此绑架孙大午，逼迫孙大午向强权低头的详情。<br><br>光傳媒官推 官網 https://www.ipkmedia.com: 【独家】孙大午案最新进展<br><br>孙大午案十问十答（三） <br>他悲痛地说：我三个月没有太阳，没有窗户。这种精神上的摧残已经到了极限<br>我的家人都在看守所，五个孙子在家（五个未成年孙子孙女的法定监护人全部被抓），我心急如焚，我解决的了吗？<br> <a href="https://ipkmedia.com/?p=73535" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=73535</a>
 
