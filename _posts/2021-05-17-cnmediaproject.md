@@ -103,3 +103,7 @@ Re The article begins: "Wuhan, a heroic city, where the first shot of the Xinhai
 
 Re Here is the entry in the CMP Dictionary for "red genes" <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/E1ztDBfWQAAmDtU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 23: [2021-05-20 22:38:08+08:00 推文](https://twitter.com/iandenisjohnson/status/1395388374668627977)
+
+RT Ian Johnson<br>One of China's most respected and meticulous human rights documentarians, Robin Munro, has recently passed away. h/t @donaldcclarke for the excellent obituary. <a href="https://thechinacollection.org/robin-munro-1952-2021/" target="_blank" rel="noopener noreferrer">https://thechinacollection.org/robin-munro-1952-2021/</a><br><img style src="https://pbs.twimg.com/media/E11qIFoVIAsuSk6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
