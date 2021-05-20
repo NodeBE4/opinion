@@ -71,3 +71,7 @@ At a Cyberspace Administration of China meeting in Wenzhou this week, participan
 
 China is pushing to speed up the building this year of a "comprehensive cyber governance system." What does this involve? <a href="https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/19/comprehensive-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/E1xObjuX0AgV-_Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 15: [2021-05-20 11:20:13+08:00 推文](https://twitter.com/yicaichina/status/1395217770418163714)
+
+RT Yicai Global 第一财经<br>China's @AlibabaGroup updated its #AI platform to make it able to identify fake luxury brand logos in 30 milliseconds to stop sales of counterfeit products. The database contains more than one million logos, covering 500 product categories.<br><img style src="https://pbs.twimg.com/media/E1zPKuoXIAE_iPv?format=jpg&name=orig" referrerpolicy="no-referrer">
+
