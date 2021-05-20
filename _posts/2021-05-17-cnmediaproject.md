@@ -75,3 +75,31 @@ China is pushing to speed up the building this year of a "comprehensive cyber go
 
 RT Yicai Global 第一财经<br>China's @AlibabaGroup updated its #AI platform to make it able to identify fake luxury brand logos in 30 milliseconds to stop sales of counterfeit products. The database contains more than one million logos, covering 500 product categories.<br><img style src="https://pbs.twimg.com/media/E1zPKuoXIAE_iPv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 16: [2021-05-20 13:14:35+08:00 推文](https://twitter.com/cnmediaproject/status/1395246554601201665)
+
+The parade of coverage of "100 years of resplendent CCP history" continues in the People's Daily. But if you want to READ history, this isn't it --like much coverage it's about the campaign itself, not about history. <a href="https://goo.gl/maps/FRzJmRUy7ZtyCrv36" target="_blank" rel="noopener noreferrer">https://goo.gl/maps/FRzJmRUy7ZtyCrv36</a><br><img style src="https://pbs.twimg.com/media/E1zpBX-WYAAUkeX?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-05-20 13:17:26+08:00 推文](https://twitter.com/cnmediaproject/status/1395247271927746562)
+
+Re But down below is a profile of the Red Army general Zuo Quan (左权), a graduate of Whampoa Military Academy who joined the Party in 1925 and died fighting the Japanese in 1942. <a href="http://paper.people.com.cn/rmrb/html/2021-05/20/nw.D110000renmrb_20210520_7-04.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-05/20/nw.D110000renmrb_20210520_7-04.htm</a><br><img style src="https://pbs.twimg.com/media/E1zp78dXIActKFT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2021-05-20 13:20:41+08:00 推文](https://twitter.com/cnmediaproject/status/1395248089175412742)
+
+Re There is also a profile of Ye Ting (叶挺), the military leader who was first a Kuomintang commander and later joined the CCP. <a href="http://paper.people.com.cn/rmrb/html/2021-05/20/nw.D110000renmrb_20210520_6-04.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-05/20/nw.D110000renmrb_20210520_6-04.htm</a><br><img style src="https://pbs.twimg.com/media/E1zqvB4XIA0Lceu?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-05-20 13:26:08+08:00 推文](https://twitter.com/MalinOud/status/1395249461958434816)
+
+RT Malin Oud<br>"Robin helped many Chinese dissidents, who might otherwise have died in prison, to gain their freedom. I was one of them." @handongfang tribute to Robin Munro (China Labour Bulletin) @chinalabour <a href="http://clb.org.hk/content/tribute-robin-munro" target="_blank" rel="noopener noreferrer">http://clb.org.hk/content/tribute-robin-munro</a>
+
+### 20: [2021-05-20 13:26:41+08:00 推文](https://twitter.com/cnmediaproject/status/1395249596788523017)
+
+Re On Page 6 is another headline including the phrase "red resources" (红色资源), again about building on the revolutionary spirit and history of the CCP as a kind of poltical and cultural inheritance ("red genes") . <a href="http://paper.people.com.cn/rmrb/html/2021-05/20/nw.D110000renmrb_20210520_1-06.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-05/20/nw.D110000renmrb_20210520_1-06.htm</a><br><img style src="https://pbs.twimg.com/media/E1zsGriWQAg3zE5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2021-05-20 13:29:38+08:00 推文](https://twitter.com/cnmediaproject/status/1395250340078002176)
+
+Re The article begins: "Wuhan, a heroic city, where the first shot of the Xinhai Revolution was fired, from which three delegates of the First Congress of the CCP emerged, where the 5th Congress was held, and where Comrade Mao Zedong held the Central Peasant Movement School . . . "
+
+### 22: [2021-05-20 13:30:47+08:00 推文](https://twitter.com/cnmediaproject/status/1395250631892520969)
+
+Re Here is the entry in the CMP Dictionary for "red genes" <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/E1ztDBfWQAAmDtU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
