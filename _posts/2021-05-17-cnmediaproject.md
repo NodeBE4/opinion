@@ -111,3 +111,7 @@ RT Ian Johnson<br>One of China's most respected and meticulous human rights do
 
 RT Keith Richburg<br>Very honored to be elected (again) as President ⁦@fcchk⁩, reprising the role I had in 1997. <a href="https://www.fcchk.org/fcc-board-of-governors-2021-2022-election-result/" target="_blank" rel="noopener noreferrer">https://www.fcchk.org/fcc-board-of-governors-2021-2022-election-result/</a>
 
+### 25: [2021-05-21 21:07:36+08:00 推文](https://twitter.com/cnmediaproject/status/1395727981545394178)
+
+First launched 12 years ago, government social media accounts were meant to help China’s leadership set the agenda and interact with the masses. They have now become another headache crowding out the Party's message and demanding official action: <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E16fLw2WUAIdw_k?format=jpg&name=orig" referrerpolicy="no-referrer">
+
