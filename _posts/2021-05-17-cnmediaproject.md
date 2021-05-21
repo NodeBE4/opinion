@@ -115,3 +115,7 @@ RT Keith Richburg<br>Very honored to be elected (again) as President ⁦@fcchk
 
 First launched 12 years ago, government social media accounts were meant to help China’s leadership set the agenda and interact with the masses. They have now become another headache crowding out the Party's message and demanding official action: <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E16fLw2WUAIdw_k?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 26: [2021-05-21 23:44:10+08:00 推文](https://twitter.com/cnmediaproject/status/1395767379477647362)
+
+The debate this month over a tasteless official Weibo post on India revealed a deeper problem: the carelessness and neglect of government affairs new media (政务新媒体) across China that have been part of a push to remake government information. <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E17C_PqWYAQencT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
