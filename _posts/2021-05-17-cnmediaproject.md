@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-20
+date: 2021-05-21
 from: https://twitter.com/cnmediaproject/status/1394580055842598914
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re Here is the entry in the CMP Dictionary for "red genes" <a href="https://ch
 ### 23: [2021-05-20 22:38:08+08:00 推文](https://twitter.com/iandenisjohnson/status/1395388374668627977)
 
 RT Ian Johnson<br>One of China's most respected and meticulous human rights documentarians, Robin Munro, has recently passed away. h/t @donaldcclarke for the excellent obituary. <a href="https://thechinacollection.org/robin-munro-1952-2021/" target="_blank" rel="noopener noreferrer">https://thechinacollection.org/robin-munro-1952-2021/</a><br><img style src="https://pbs.twimg.com/media/E11qIFoVIAsuSk6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2021-05-21 14:06:23+08:00 推文](https://twitter.com/keithrichburg/status/1395621976870297602)
+
+RT Keith Richburg<br>Very honored to be elected (again) as President ⁦@fcchk⁩, reprising the role I had in 1997. <a href="https://www.fcchk.org/fcc-board-of-governors-2021-2022-election-result/" target="_blank" rel="noopener noreferrer">https://www.fcchk.org/fcc-board-of-governors-2021-2022-election-result/</a>
 
