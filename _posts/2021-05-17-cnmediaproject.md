@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-21
+date: 2021-05-22
 from: https://twitter.com/cnmediaproject/status/1394580055842598914
 layout: post
 tags:
@@ -118,4 +118,8 @@ First launched 12 years ago, government social media accounts were meant to help
 ### 26: [2021-05-21 23:44:10+08:00 推文](https://twitter.com/cnmediaproject/status/1395767379477647362)
 
 The debate this month over a tasteless official Weibo post on India revealed a deeper problem: the carelessness and neglect of government affairs new media (政务新媒体) across China that have been part of a push to remake government information. <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E17C_PqWYAQencT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 27: [2021-05-22 11:33:21+08:00 推文](https://twitter.com/cnmediaproject/status/1395945854456958978)
+
+Why was the Weibo account of a site operated by the Central Political and Legal Affairs Commission making clickbait sowing hatred and division? Joyce Chan explores the mess that government affairs new media 政务新媒体 have become in China. <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E19kw99WEAIsZ4T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
