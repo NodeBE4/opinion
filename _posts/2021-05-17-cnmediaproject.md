@@ -131,7 +131,11 @@ State outlets scurry to delete premature tributes after CGTN, China’s internat
 
 Re This case of viral fake news spread by state media now makes a perfect pair with Joyce Chan's interesting article yesterday on how the Chinese government is trying to tackle the problem of unruly "government affairs new media" across the country. <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E197WzrXIAAJB74?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 30: [2021-05-22 14:45:14+08:00 推文](https://twitter.com/cnmediaproject/status/1395994143713857538)
+### 30: [2021-05-22 14:09:58+08:00 推文](https://twitter.com/Dali_Yang/status/1395985266024800258)
+
+RT Dali L. Yang<br>China's iconic agricultural scientist Yuan Longping died. He was 91. Here he spoke of the starvation that gripped China in the 1960s.<br><br>今日中国: 5月22日，13时07分，91岁的袁隆平去世<br><br><video src="https://video.twimg.com/ext_tw_video/1395984082601799682/pu/vid/576x854/qhc1mB8ORN3IOk-s.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1395984082601799682/pu/img/zsQGj38HSO8Bt_zC.jpg"></video>
+
+### 31: [2021-05-22 14:45:14+08:00 推文](https://twitter.com/cnmediaproject/status/1395994143713857538)
 
 State outlets scurried to delete premature tributes after CGTN spread fake news about the death of celebrated scientist Yuan Longping. CGTN apologized. The famed agronomist, 90, passed away several hours later. <a href="https://chinamediaproject.org/2021/05/22/47934/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/22/47934/</a><br><img style src="https://pbs.twimg.com/media/E1-RBjtXMAMX22p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
