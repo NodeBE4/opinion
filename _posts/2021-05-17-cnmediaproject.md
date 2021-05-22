@@ -123,3 +123,15 @@ The debate this month over a tasteless official Weibo post on India revealed a d
 
 Why was the Weibo account of a site operated by the Central Political and Legal Affairs Commission making clickbait sowing hatred and division? Joyce Chan explores the mess that government affairs new media 政务新媒体 have become in China. <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E19kw99WEAIsZ4T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 28: [2021-05-22 13:06:09+08:00 推文](https://twitter.com/cnmediaproject/status/1395969207620276227)
+
+State outlets scurry to delete premature tributes after CGTN, China’s international English-language cable TV news service, spreads fake news about the death of a celebrated scientist who contributed to national agricultural development. <a href="https://chinamediaproject.org/2021/05/22/47934/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/22/47934/</a><br><img style src="https://pbs.twimg.com/media/E196kjrWYA4nc9Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2021-05-22 13:09:39+08:00 推文](https://twitter.com/cnmediaproject/status/1395970089900466176)
+
+Re This case of viral fake news spread by state media now makes a perfect pair with Joyce Chan's interesting article yesterday on how the Chinese government is trying to tackle the problem of unruly "government affairs new media" across the country. <a href="https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/21/sweeping-up-the-governments-social-media-mess/</a><br><img style src="https://pbs.twimg.com/media/E197WzrXIAAJB74?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 30: [2021-05-22 14:45:14+08:00 推文](https://twitter.com/cnmediaproject/status/1395994143713857538)
+
+State outlets scurried to delete premature tributes after CGTN spread fake news about the death of celebrated scientist Yuan Longping. CGTN apologized. The famed agronomist, 90, passed away several hours later. <a href="https://chinamediaproject.org/2021/05/22/47934/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/22/47934/</a><br><img style src="https://pbs.twimg.com/media/E1-RBjtXMAMX22p?format=jpg&name=orig" referrerpolicy="no-referrer">
+
