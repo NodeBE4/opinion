@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-22
+date: 2021-05-23
 from: https://twitter.com/cnmediaproject/status/1394580055842598914
 layout: post
 tags:
@@ -138,4 +138,12 @@ RT Dali L. Yang<br>China's iconic agricultural scientist Yuan Longping died. H
 ### 31: [2021-05-22 14:45:14+08:00 推文](https://twitter.com/cnmediaproject/status/1395994143713857538)
 
 State outlets scurried to delete premature tributes after CGTN spread fake news about the death of celebrated scientist Yuan Longping. CGTN apologized. The famed agronomist, 90, passed away several hours later. <a href="https://chinamediaproject.org/2021/05/22/47934/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/22/47934/</a><br><img style src="https://pbs.twimg.com/media/E1-RBjtXMAMX22p?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 32: [2021-05-23 20:08:23+08:00 推文](https://twitter.com/LizEconomy/status/1396437853589032963)
+
+RT Elizabeth Economy<br>My only hope is that when these CSSA students return to China, they take back the guiding principle of the University of Chicago that allows them to write this letter and Nathan Law to speak--a commitment to free speech and civil discourse.<br><br>Melissa Chan: Can we stop being gaslit that the Chinese Students and Scholars Associations on US campuses are totally benign when they try to shut down free speech — in this case, against Hong Konger Nathan Law, and issue letters that sound exactly like what the Chinese Ministry would say.<br> <a href="https://twitter.com/nathanlawkc/status/1396177742580879361" target="_blank" rel="noopener noreferrer">https://twitter.com/nathanlawkc/status/1396177742580879361</a>
+
+### 33: [2021-05-23 22:02:20+08:00 推文](https://twitter.com/manyapan/status/1396466531937161216)
+
+RT Manya Koetse<br>The ultramarathon tragedy in Gansu that left 21 people dead this weekend is dominating discussions on Chinese social media. Many are touched by the stories of those runners who were rescued by local villagers and shepherds.<br><img style src="https://pbs.twimg.com/media/E2E-t6mX0AAqfP-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2E-t7KXMAgTn9x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2E-wOxXIAEOIuG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2E-xT0XIAE6i8D?format=jpg&name=orig" referrerpolicy="no-referrer">
 
