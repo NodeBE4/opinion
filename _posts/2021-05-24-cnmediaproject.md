@@ -27,3 +27,11 @@ Sweeping Up the Government's Social Media Mess: 12 years ago gov't-run social me
 
 How does China understand the concept of "sovereignty"? Read more from @JerkerHellstrom in the CMP Dictionary <a href="https://chinamediaproject.org/the_ccp_dictionary/sovereignty/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/sovereignty/</a> <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/E2LBprAX0AM9Qip?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2021-05-25 05:57:33+08:00 推文](https://twitter.com/caixin/status/1396948511934099458)
+
+RT Caixin Global<br>The organizer of Gansu’s deadly cross-country race put a team of temps in charge and had no formal employees even after managing the event four times. <a href="https://www.caixinglobal.com/2021-05-25/race-organizer-put-a-team-of-temps-in-charge-of-deadly-race-101717445.html?cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-05-25/race-organizer-put-a-team-of-temps-in-charge-of-deadly-race-101717445.html?cxg=web&Sfrom=twitter</a>
+
+### 5: [2021-05-25 07:03:25+08:00 推文](https://twitter.com/StuartKLau/status/1396965087114665989)
+
+RT Stuart Lau<br>China’s top diplomat, Politburo member Yang Jiechi will visit EU member states Slovenia and Croatia after his current strategic talks in Russia. <br><br>Slovenia will take over the rotating EU Council presidency from July.
+
