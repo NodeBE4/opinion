@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-05-25
+date: 2021-05-27
 from: https://twitter.com/nathanlawkc/status/1396888550625497092
 layout: post
 tags:
@@ -22,4 +22,8 @@ HK activists' free speech are threatened by pro-CCP nationalists, such as CSSAs,
 ### 2: [2021-05-25 02:09:38+08:00 推文](https://twitter.com/nathanlawkc/status/1396891152083734531)
 
 Re This is what happened with my talk at UChicacgo. The letter the CSSA of UChicago sent to the school demonstrates their intention to disallow views in support of HK protests to be expressed. Similar incidents have been repeated so many times. We should act.<br><br>Nathan Law 羅冠聰: 1. Last week I was invited to attend a guest series at UChicago’s Harris School of Public Policy. By then, I did not realize that the UC Chinese Students and Scholars Association(CSSA) protested the invitation and accuse me of “hurting” their feelings with all the disinformation.<br><br><img style src="https://pbs.twimg.com/media/E2A3uyNXEAMw8Cm?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-05-27 04:36:50+08:00 推文](https://twitter.com/nathanlawkc/status/1397652970985099266)
+
+Had a great interview with @GenevaSummit, which detailed my growing-up experience and life as a prominent activist. Stay tuned for my appearance at the Geneva Summit.<br>#StandwithHongKong<br><br>The Geneva Summit for Human Rights and Democracy: “I'll continue this work no matter the intimidation I'll get,” said leading Hong Kong activist @nathanlawkc in an exclusive #GenevaSummit interview. <br><br>Read about Law's harrowing journey to save #HongKong democracy here:<br><br><img style src="https://pbs.twimg.com/media/E2U1NWYXIAgcsKi?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://genevasummit.org/from-politician-to-prisoner-nathan-laws-harrowing-journey-to-save-hong-kongs-democracy/" target="_blank" rel="noopener noreferrer">http://genevasummit.org/from-politician-to-prisoner-nathan-laws-harrowing-journey-to-save-hong-kongs-democracy/</a>
 
