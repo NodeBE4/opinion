@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-27
+date: 2021-05-28
 from: https://twitter.com/cnmediaproject/status/1396718830840332289
 layout: post
 tags:
@@ -62,4 +62,8 @@ Unnatural Causes: in the wake of the death of 21 ultra-marathon runners in Gansu
 ### 12: [2021-05-27 16:55:00+08:00 推文](https://twitter.com/caixin/status/1397838737485094912)
 
 RT Caixin Global<br>China’s battle to maintain order in financial markets is getting tougher as money floods into everything from commodities to housing and stocks. <a href="https://www.caixinglobal.com/2021-05-27/china-struggles-to-suppress-bubbles-in-markets-awash-with-money-101718630.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKspgeeVq7rPvIBhG4JItzaA%3D%3D&cxg=web&Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-05-27/china-struggles-to-suppress-bubbles-in-markets-awash-with-money-101718630.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKspgeeVq7rPvIBhG4JItzaA%3D%3D&cxg=web&Sfrom=twitter</a>
+
+### 13: [2021-05-28 13:57:51+08:00 推文](https://twitter.com/cnmediaproject/status/1398156545154768897)
+
+Today in "China Newspeak" . . . As the CCP's centennial draws near, it is keen to promote the glories of its history through slogans that are now ubiquitous. But regulators warned companies this week against profiting illegally from the festivities. <a href="https://chinamediaproject.org/2021/05/28/cashing-in-on-the-ccp-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/28/cashing-in-on-the-ccp-anniversary/</a><br><img style src="https://pbs.twimg.com/media/E2c_9P2XIAEEPq5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
