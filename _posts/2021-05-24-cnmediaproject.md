@@ -71,3 +71,7 @@ Today in "China Newspeak" . . . As the CCP's centennial draws near, it is keen t
 
 RT Nerys Avery<br>my goodness, Inner Mongolia was really a hotbed of corruption over the last decade. Via @caixin Police chief admits to taking 158 mln yuan <a href="https://www.caixinglobal.com/2021-05-28/former-inner-mongolia-police-chief-admits-to-taking-25-million-in-bribes-101719052.html" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-05-28/former-inner-mongolia-police-chief-admits-to-taking-25-million-in-bribes-101719052.html</a> <a href="https://www.caixinglobal.com/2021-05-25/chinas-graft-busters-reveal-shocking-corruption-among-local-regulators-of-failed-baoshang-bank-101717870.html" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2021-05-25/chinas-graft-busters-reveal-shocking-corruption-among-local-regulators-of-failed-baoshang-bank-101717870.html</a>
 
+### 15: [2021-05-28 18:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1398228166108459010)
+
+With the CCP's centennial just a month away, leaders want a great big celebration and much sloganeering . . . but warn against companies trying to exploit the anniversary for profit. <a href="https://chinamediaproject.org/2021/05/28/cashing-in-on-the-ccp-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/28/cashing-in-on-the-ccp-anniversary/</a><br><img style src="https://pbs.twimg.com/media/E2eBFUIWUAU4lz5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
