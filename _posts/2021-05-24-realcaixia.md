@@ -79,3 +79,7 @@ Re @P5WzTRPRtq76rVd 你的分析很有道理。
 
 文革中受迫害的菁英無數，這段歷史悲劇正在重演。這段最後的話是鮮血與人命凝聚而成的真理：「我閉上眼睛，就看到趙楚的血，他讓我明白了一個道理，讓毀滅性的力量掌握在不該掌握它的勢力手中，對人類是一種犯罪」。<br><img style src="https://pbs.twimg.com/media/E2kjn6MWUAEWbpR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 17: [2021-05-30 05:01:02+08:00 推文](https://twitter.com/realcaixia/status/1398746227290877963)
+
+太邪乎了！<br><br>韩连潮: 【令人毛骨悚然的图片】朋友昨天发给我这三张图，看后惊骇不已，邪共似已进入疯狂期；习近平到底是在上演一出悲剧还是闹剧？我不相信经过十年空前浩劫、40年开放的中国人会蠢到要回到毛魔暴政！<br><br><img style src="https://pbs.twimg.com/media/E2jkL-ZXEAw3bYW?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2jkL-aWEAEsKGO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2jkL-cWQAIgQvR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
