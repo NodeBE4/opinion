@@ -71,3 +71,7 @@ Re @wpSwGG2wXv3ygTJ @lianchaohan 請細看海報上有網上參與連結
 
 高科技，原來能偷的，現在偷不著了。既不通過市場機制激活競爭活力，更不放開思想自由激活創新活力，隨意栽個罪名就把企業家資產「吞」了，許多民營企業家現在獻上資產換保命，人無出境自由，等於蹲巨型監獄。迷信「黨領導一切」，以為黨是萬能神，關國門自力更生想佔據高科技頂尖位子，真是中國夢！<br><img style src="https://pbs.twimg.com/media/E2j-u5ZWYAA4wKU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 15: [2021-05-29 22:57:31+08:00 推文](https://twitter.com/realcaixia/status/1398654742897774601)
+
+Re @P5WzTRPRtq76rVd 你的分析很有道理。
+
