@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-05-27
+date: 2021-05-29
 from: https://twitter.com/SpeechFreedomCN/status/1396625125739417605
 layout: post
 tags:
@@ -54,4 +54,12 @@ Xiamen man Wang arrested for saying on Weibo that those mourning #Yuanlongping's
 ### 10: [2021-05-27 08:39:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1397713921629319170)
 
 Zhejiang man Jin, a minor by the time he got arrested, who shared a piece of short video in WeChat, found guilty by a court, but exempted from punishment. The court said the video that he downloaded from YouTube and shared in WeChat slandered a certain state leader.<br><img style src="https://pbs.twimg.com/media/E2WsQlKVcAAoiLs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2WsRfDUUAMG-wh?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2WsSc4VcAAEuu5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2WsTo1UcAUGdV-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-05-29 12:33:29+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1398497701965099008)
+
+异议人士王爱忠（@wangaizhong）疑似因言获罪，被广州警方刑事拘留。王爱忠是南方街头运动发起人之一，在2014年5月，曾被刑事拘留，后来以取保候审的形式释放。王爱忠此次被捕具体原因不明，但从其推文可见，显然与其推特发言有关。<br><img style src="https://pbs.twimg.com/media/E2h1jqPUUAEHfK0?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-05-29 12:35:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1398498081486696449)
+
+Chinese dissident @wangaizhong arrested and held under criminal detention in Guangzhou. Charges against him unknown yet, but apparently including his tweets critical of the Chinese Communist Party.<br><img style src="https://pbs.twimg.com/media/E2h2RypVoAMwveK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
