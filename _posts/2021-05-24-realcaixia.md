@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-29
+date: 2021-05-30
 from: https://twitter.com/realcaixia/status/1397192343955120130
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re @wpSwGG2wXv3ygTJ @lianchaohan 請細看海報上有網上參與連結
 ### 15: [2021-05-29 22:57:31+08:00 推文](https://twitter.com/realcaixia/status/1398654742897774601)
 
 Re @P5WzTRPRtq76rVd 你的分析很有道理。
+
+### 16: [2021-05-30 01:11:00+08:00 推文](https://twitter.com/realcaixia/status/1398688334864650242)
+
+文革中受迫害的菁英無數，這段歷史悲劇正在重演。這段最後的話是鮮血與人命凝聚而成的真理：「我閉上眼睛，就看到趙楚的血，他讓我明白了一個道理，讓毀滅性的力量掌握在不該掌握它的勢力手中，對人類是一種犯罪」。<br><img style src="https://pbs.twimg.com/media/E2kjn6MWUAEWbpR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
