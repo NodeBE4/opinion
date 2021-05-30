@@ -23,3 +23,23 @@ title: 'Twitter @蔡霞: 2021-05-31~2021-06-06'
 
 勿忘六.四，勿忘天安門事件殉難者，勿忘北京街區上狙擊軍車坦克、天安門廣場中泣血抗爭的市民、學生——六.四事件32週年紀念（英文版）<br><img style src="https://pbs.twimg.com/media/E2qP1wcXoAIJZr6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-05-31 03:48:11+08:00 推文](https://twitter.com/realcaixia/status/1399090281463652355)
+
+Re @jc2020jc 有線上活動。請看廣告海報中間有連結網址
+
+### 4: [2021-05-31 06:32:03+08:00 推文](https://twitter.com/realcaixia/status/1399131520137314306)
+
+LI HAI'S LIST - CHINA CHANGE INTERVIEWS #1 <a href="https://youtu.be/Oghu9HZgM1c" target="_blank" rel="noopener noreferrer">https://youtu.be/Oghu9HZgM1c</a>
+
+### 5: [2021-05-31 06:46:06+08:00 推文](https://twitter.com/realcaixia/status/1399135056413741058)
+
+Re 有推友問32年了，死難者們有姓名嗎？總該有些紀錄吧？這問題很錐心啊！我轉推的這部紀錄片《李海的名單》，李海講述了為保存真實歷史，他想儘辦法收集六四大屠殺以後，北京市被抓捕判刑入獄的市民522人名單，並輾轉送到海外。他因此被逮捕判刑9年。想多瞭解些六四真相的網友請看這紀錄片。向李海致敬！
+
+### 6: [2021-05-31 06:49:55+08:00 推文](https://twitter.com/realcaixia/status/1399136015978274818)
+
+Re 紀錄片最後展示了李海收集的名單。有兩位旅居德國的老人看了紀錄片特地截圖發上，那紅圈標示的是老人的朋友。<br><img style src="https://pbs.twimg.com/media/E2q6yo1XMAkwM-N?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-05-31 06:57:53+08:00 推文](https://twitter.com/realcaixia/status/1399138018750042119)
+
+Re 李海刑滿釋放後講述這段經歷的拍錄實景。向李海致敬！<br><img style src="https://pbs.twimg.com/media/E2q8nKCXMAoxrdE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
