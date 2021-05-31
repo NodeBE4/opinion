@@ -43,3 +43,15 @@ Re The commentary at the top from "this paper's commentator" (本报评论员), 
 
 RT Katrina Yu<br>Following the announcement of #Beijing's new 3-child policy this meme of director Zhang Yimou is doing the rounds on Chinese social media. Translated it says "So can you refund my f*cking 7.48 million CNY?" Zhang was fined more than $1 million in 2014 for having 3 children. lol<br><img style src="https://pbs.twimg.com/media/E2tQkO2VoAUMPEw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 8: [2021-05-31 19:34:31+08:00 推文](https://twitter.com/OldChinaBland/status/1399328435722342403)
+
+RT Old Ch💉 💉na Bland (香港)<br>"With the new policy, you get to take care of 3 children and 4 grandparents while working 996. If you don't die of exhaustion, in 60 years you can look forward to taking care of 9 grandchildren!"
+
+### 9: [2021-05-31 20:44:55+08:00 推文](https://twitter.com/cnmediaproject/status/1399346151569174533)
+
+Social media in China brimming with laughter and bitterness today over the 3-child policy. Here's a play on 民不聊生, which means "the people have no way of getting by," but in this joke means people don't even want to TALK about having kids.<br><img style src="https://pbs.twimg.com/media/E2t55kZWUAozMze?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-05-31 20:48:10+08:00 推文](https://twitter.com/cnmediaproject/status/1399346967982100481)
+
+Re This post says that when pigs don't have piglets in the countryside the conventional response is to find out what's wrong in the pig's environment -- and to fix it. Suggesting perhaps the gov't should address other inequities.<br><img style src="https://pbs.twimg.com/media/E2t6pHFWQAQbOom?format=jpg&name=orig" referrerpolicy="no-referrer">
+

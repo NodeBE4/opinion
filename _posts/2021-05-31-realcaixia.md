@@ -55,3 +55,7 @@ Re 李海刑滿釋放後講述這段經歷的拍錄實景。向李海致敬！<b
 
 Re @GDFDdz7zyjz1emi 看來你造謠中傷誹謗失心瘋了！王丹是男士，嫁給哪個老公？！
 
+### 11: [2021-05-31 22:01:52+08:00 推文](https://twitter.com/realcaixia/status/1399365513445322752)
+
+六一兒童節，一個本來是兒童開心快樂、家長開心花錢的日子，竟不期然平地起雷轟，爆了大陸網各群：中共政治局會議決定讓兩顆韭菜生三顆小韭菜！原本不許生孩子，現在鐮刀發現韭菜快斷根了，趕緊忽悠多生孩子。網絡轟雷表明，韭菜們就是躺平了！<br><img style src="https://pbs.twimg.com/media/E2uLgElXoAM7U_-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2uLgVUXEAgSJcB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2uLgqZXwAY_u6Q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2uLhAMXwAEmXJK?format=jpg&name=orig" referrerpolicy="no-referrer">
+
