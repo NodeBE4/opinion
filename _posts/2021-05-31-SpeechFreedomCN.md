@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-05-31~2021-06-06'
 
 Anhui man Luo detained for 5 days for criticizing the public for their cult of #YuanLongping and other public figures in WeChat Moments. Official claimed his remarks "insulted" Yuan.<br><img style src="https://pbs.twimg.com/media/E2sEWFcUcAEKYjP?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2sEYU7VEAA9HMJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2sEZtbVcAADYLb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-05-31 18:35:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1399313482843975681)
+
+Re 刚刚，仇子明（辣笔小球）被南京建邺区法院判刑八个月。<br><img style src="https://pbs.twimg.com/media/E2tcCcmVcAIUIxS?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-05-31 18:36:41+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1399313879759343629)
+
+Re Just in, Qiu Ziming, the former journalist who was arrested for "insulting PLA soldiers", sentenced to 8 months in prison.<br><img style src="https://pbs.twimg.com/media/E2tcQA_UYAchhPA?format=jpg&name=orig" referrerpolicy="no-referrer">
+
