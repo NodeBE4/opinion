@@ -43,3 +43,7 @@ Re 紀錄片最後展示了李海收集的名單。有兩位旅居德國的老�
 
 Re 李海刑滿釋放後講述這段經歷的拍錄實景。向李海致敬！<br><img style src="https://pbs.twimg.com/media/E2q8nKCXMAoxrdE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 8: [2021-05-31 07:11:34+08:00 推文](https://twitter.com/realcaixia/status/1399141465276702723)
+
+有推友問，32年了死難者們有姓名嗎？總該有些紀錄吧？問題很錐心啊！這部紀錄片《李海的名單》，李海講述了為保存真實歷史，他想儘辦法收集六四大屠殺以後，北京市被抓捕入獄的市民522人名單，並輾轉送到海外。他因此被判刑9年。<br>LI HAI'S LIST - CHINA CHANGE INTERVIEWS #1 <a href="https://youtu.be/Oghu9HZgM1c" target="_blank" rel="noopener noreferrer">https://youtu.be/Oghu9HZgM1c</a>
+
