@@ -47,3 +47,11 @@ Re 李海刑滿釋放後講述這段經歷的拍錄實景。向李海致敬！<b
 
 有推友問，32年了死難者們有姓名嗎？總該有些紀錄吧？問題很錐心啊！這部紀錄片《李海的名單》，李海講述了為保存真實歷史，他想儘辦法收集六四大屠殺以後，北京市被抓捕入獄的市民522人名單，並輾轉送到海外。他因此被判刑9年。<br>LI HAI'S LIST - CHINA CHANGE INTERVIEWS #1 <a href="https://youtu.be/Oghu9HZgM1c" target="_blank" rel="noopener noreferrer">https://youtu.be/Oghu9HZgM1c</a>
 
+### 9: [2021-05-31 08:11:54+08:00 推文](https://twitter.com/realcaixia/status/1399156648405618688)
+
+香港“王婆婆”一人遊行 被指涉嫌非法集結遭逮捕 <a href="https://rfi.my/7RaO.T" target="_blank" rel="noopener noreferrer">https://rfi.my/7RaO.T</a>
+
+### 10: [2021-05-31 12:31:58+08:00 推文](https://twitter.com/realcaixia/status/1399222094827769857)
+
+Re @GDFDdz7zyjz1emi 看來你造謠中傷誹謗失心瘋了！王丹是男士，嫁給哪個老公？！
+
