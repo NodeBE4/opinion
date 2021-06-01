@@ -115,3 +115,7 @@ Re @Bill_Callahan1 Mostly a China-specific thing to be sure.
 
 Re @mtdtl As tempting as this reading may be given the vagaries of the wolf warrior, much debate could be had on the meaning of these two simple characters: "lovable." Developing a "friend circle of international public opinion" 国际舆论朋友圈 does not mean one intends to be friendly.
 
+### 26: [2021-06-01 18:57:03+08:00 推文](https://twitter.com/cnmediaproject/status/1399681392750075907)
+
+Re @ABPevzner @niubi Indeed. The leaves at the bottom of the cup are soggy, and oh so bitter with tannins.   :)
+
