@@ -107,3 +107,11 @@ Re @ABPevzner Would be interesting to find examples of how that might be happeni
 
 Re @ABPevzner @niubi Much to note from the Politburo session on media policy. Also the inclusion yet again of "public opinion struggle" 舆论斗争
 
+### 24: [2021-06-01 17:31:31+08:00 推文](https://twitter.com/cnmediaproject/status/1399659868181643267)
+
+Re @Bill_Callahan1 Mostly a China-specific thing to be sure.
+
+### 25: [2021-06-01 17:35:49+08:00 推文](https://twitter.com/cnmediaproject/status/1399660947711660033)
+
+Re @mtdtl As tempting as this reading may be given the vagaries of the wolf warrior, much debate could be had on the meaning of these two simple characters: "lovable." Developing a "friend circle of international public opinion" 国际舆论朋友圈 does not mean one intends to be friendly.
+
