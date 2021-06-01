@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-01
+date: 2021-06-02
 from: https://twitter.com/chinalawpolicy/status/1399149378087051265
 layout: post
 tags:
@@ -118,4 +118,12 @@ Re @mtdtl As tempting as this reading may be given the vagaries of the wolf warr
 ### 26: [2021-06-01 18:57:03+08:00 推文](https://twitter.com/cnmediaproject/status/1399681392750075907)
 
 Re @ABPevzner @niubi Indeed. The leaves at the bottom of the cup are soggy, and oh so bitter with tannins.   :)
+
+### 27: [2021-06-02 03:49:22+08:00 推文](https://twitter.com/CindyXiaodanYu/status/1399815352784232451)
+
+RT Cindy Yu · 俞小丹<br>A delight to speak to @MariaRepnikova and Fang Kecheng (@fangkc) on the latest episode of Chinese Whispers. We discussed where the red lines lie for journalists, what happens when you misstep and why not all papers can be simply dubbed 'state media' <a href="https://www.spectator.co.uk/podcast/journalism-in-china-what-can-and-can-t-you-say-" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/podcast/journalism-in-china-what-can-and-can-t-you-say-</a>
+
+### 28: [2021-06-02 04:42:20+08:00 推文](https://twitter.com/jwassers/status/1399828682638651392)
+
+RT Jeff Wasserstrom<br>A good thread by @SabinaKnight1 on responses in China to the 3 child family idea, with some visuals worth checking out (note: my very 1st scholarly publication, that came out while I was in grad school 37 years ago was "Resistance to the One-Child Family"<br><br>Sabina Knight 桑禀华: #Memes amplify responses to deleted poll.<br>#ThreeChildPolicy 1/x<br> <a href="https://twitter.com/SabinaKnight1/status/1399322132904124422" target="_blank" rel="noopener noreferrer">https://twitter.com/SabinaKnight1/status/1399322132904124422</a>
 
