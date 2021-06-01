@@ -91,3 +91,19 @@ Re General Secretary Xi Jinping goes over and accompanies the children at work, 
 
 Re This particular article is about the need for Party members to study CCP history.
 
+### 20: [2021-06-01 15:30:01+08:00 推文](https://twitter.com/cnmediaproject/status/1399629290841509888)
+
+Marking International Children's Day, our post on the torrent of ridicule that followed when China announced yesterday that couples are now permitted to have up to 3 children. <a href="https://chinamediaproject.org/2021/06/01/three-child-policy-spawns-ridicule/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/01/three-child-policy-spawns-ridicule/</a><br><img style src="https://pbs.twimg.com/media/E2x7ZxxWQAAz8mH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2021-06-01 15:34:12+08:00 推文](https://twitter.com/lokmantsui/status/1399630345604005897)
+
+RT lokman tsui<br>hong kong government officially announces real name registration for sim cards and mobile phones. starts next year march. <a href="https://news.now.com/urgentnews.jsp?taskId=22478&refer=Share" target="_blank" rel="noopener noreferrer">https://news.now.com/urgentnews.jsp?taskId=22478&refer=Share</a>
+
+### 22: [2021-06-01 16:01:54+08:00 推文](https://twitter.com/cnmediaproject/status/1399637314587004930)
+
+Re @ABPevzner Would be interesting to find examples of how that might be happening. So often the opposite seems to be true in practice. Case in point here: <a href="https://chinamediaproject.org/2021/03/17/dropping-propaganda/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/03/17/dropping-propaganda/</a><br><img style src="https://pbs.twimg.com/media/E2yCtXLWQAIhEcR?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-06-01 16:37:54+08:00 推文](https://twitter.com/cnmediaproject/status/1399646372786225154)
+
+Re @ABPevzner @niubi Much to note from the Politburo session on media policy. Also the inclusion yet again of "public opinion struggle" 舆论斗争
+
