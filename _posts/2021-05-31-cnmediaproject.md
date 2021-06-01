@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-05-31
+date: 2021-06-01
 from: https://twitter.com/chinalawpolicy/status/1399149378087051265
 layout: post
 tags:
@@ -54,4 +54,40 @@ Social media in China brimming with laughter and bitterness today over the 3-chi
 ### 10: [2021-05-31 20:48:10+08:00 推文](https://twitter.com/cnmediaproject/status/1399346967982100481)
 
 Re This post says that when pigs don't have piglets in the countryside the conventional response is to find out what's wrong in the pig's environment -- and to fix it. Suggesting perhaps the gov't should address other inequities.<br><img style src="https://pbs.twimg.com/media/E2t6pHFWQAQbOom?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-06-01 13:20:29+08:00 推文](https://twitter.com/cnmediaproject/status/1399596694132641793)
+
+Language about self-reliance in science and technology again tops the page at People's Daily Online today. <a href="http://finance.people.com.cn/n1/2021/0601/c1004-32118607.html" target="_blank" rel="noopener noreferrer">http://finance.people.com.cn/n1/2021/0601/c1004-32118607.html</a><br><img style src="https://pbs.twimg.com/media/E2xdvlzXMAAws04?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-01 13:21:17+08:00 推文](https://twitter.com/cnmediaproject/status/1399596893081059329)
+
+Re Read David Bandurski's analysis of recent CCP discourse on this issue in "Slogans for Self-Reliance" <a href="https://chinamediaproject.org/2021/05/31/chinas-turns-up-the-volume-on-self-reliance/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/05/31/chinas-turns-up-the-volume-on-self-reliance/</a><br><img style src="https://pbs.twimg.com/media/E2xd7qlXoAEGUjI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-06-01 13:24:03+08:00 推文](https://twitter.com/cnmediaproject/status/1399597589188812803)
+
+Re In the page one commentary today in the People's Daily newspaper, the phrase "science and technology self-reliance and self-improvement" appears several times, including in the final paragraph.<br><img style src="https://pbs.twimg.com/media/E2xelDRWYAA9w1r?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-06-01 13:35:30+08:00 推文](https://twitter.com/cnmediaproject/status/1399600471581528064)
+
+Another front-page promotion in today's People's Daily for an "article" by Xi Jinping appearing in the Qiushi journal. This is part of the continuing trend of rerunning Xi speeches in the journal. Read about it here: <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a><br><img style src="https://pbs.twimg.com/media/E2xhNNgXMAIj_9K?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-06-01 13:44:20+08:00 推文](https://twitter.com/cnmediaproject/status/1399602695921623040)
+
+Today is International Children's Day. So naturally the People's Daily runs a front-page piece on how great Xi Jinping is with children. <a href="http://paper.people.com.cn/rmrb/html/2021-06/01/nw.D110000renmrb_20210601_3-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-06/01/nw.D110000renmrb_20210601_3-01.htm</a><br><img style src="https://pbs.twimg.com/media/E2xjOG_WEAMQPZW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-06-01 13:45:58+08:00 推文](https://twitter.com/cnmediaproject/status/1399603105453555712)
+
+Re Each little vignette begins with gratuitous description. Here is the first line: "The rising sun shines brightly; the dewy flowers are gorgeous and fragrant."
+
+### 17: [2021-06-01 13:55:51+08:00 推文](https://twitter.com/cnmediaproject/status/1399605593678266370)
+
+Re In the crop area of the botanical garden, a bed of tomatoes, kale and celery are growing happily, and children and teenagers are engaged in activities such as preparing the ground, sowing, transplanting, loosening the soil and harvesting vegetables. . . .
+
+### 18: [2021-06-01 13:56:02+08:00 推文](https://twitter.com/cnmediaproject/status/1399605638074978305)
+
+Re General Secretary Xi Jinping goes over and accompanies the children at work, squatting down to talk with the two children transplanting ginseng fruit seedlings . . .
+
+### 19: [2021-06-01 13:58:08+08:00 推文](https://twitter.com/cnmediaproject/status/1399606167232516097)
+
+Re This particular article is about the need for Party members to study CCP history.
 
