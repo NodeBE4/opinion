@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-05-31
+date: 2021-06-02
 from: https://twitter.com/realcaixia/status/1399035192560558089
 layout: post
 tags:
@@ -58,4 +58,16 @@ Re @GDFDdz7zyjz1emi 看來你造謠中傷誹謗失心瘋了！王丹是男士，
 ### 11: [2021-05-31 22:01:52+08:00 推文](https://twitter.com/realcaixia/status/1399365513445322752)
 
 六一兒童節，一個本來是兒童開心快樂、家長開心花錢的日子，竟不期然平地起雷轟，爆了大陸網各群：中共政治局會議決定讓兩顆韭菜生三顆小韭菜！原本不許生孩子，現在鐮刀發現韭菜快斷根了，趕緊忽悠多生孩子。網絡轟雷表明，韭菜們就是躺平了！<br><img style src="https://pbs.twimg.com/media/E2uLgElXoAM7U_-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2uLgVUXEAgSJcB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2uLgqZXwAY_u6Q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2uLhAMXwAEmXJK?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-02 09:45:44+08:00 推文](https://twitter.com/realcaixia/status/1399905038999375872)
+
+Re @Jason59102968 @Ipkmedia 憲法上是寫了，但有一天實行過嗎？！你繼續騙人，摸摸良心看看蒼天想想六四亡靈，你騙得下去嗎？！
+
+### 13: [2021-06-02 10:47:51+08:00 推文](https://twitter.com/realcaixia/status/1399920669773680650)
+
+Re @Jason59102968 @Ipkmedia 壓制人的權利，剝奪人民的自由，統治者坐在火山口上！
+
+### 14: [2021-06-02 11:20:26+08:00 推文](https://twitter.com/realcaixia/status/1399928871189946369)
+
+Re @XuTT16 我學寫繁體字時你爹媽都還沒影子呢！你知識可憐啊！
 
