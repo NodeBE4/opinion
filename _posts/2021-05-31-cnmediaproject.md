@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-02
+date: 2021-06-03
 from: https://twitter.com/chinalawpolicy/status/1399149378087051265
 layout: post
 tags:
@@ -119,11 +119,47 @@ Re @mtdtl As tempting as this reading may be given the vagaries of the wolf warr
 
 Re @ABPevzner @niubi Indeed. The leaves at the bottom of the cup are soggy, and oh so bitter with tannins.   :)
 
-### 27: [2021-06-02 03:49:22+08:00 推文](https://twitter.com/CindyXiaodanYu/status/1399815352784232451)
+### 27: [2021-06-01 22:18:45+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1399732151143354371)
+
+RT China Law Translate<br>Re Is there something we did (or should have done) that you think is more important? Let me know!<br><br>Mine is our overview of the new draft FACIAL RECOGNITION Standards with links to a full translation! <a href="https://www.chinalawtranslate.com/en/quick-take-facial-recognition-standards-overview/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/en/quick-take-facial-recognition-standards-overview/</a>
+
+### 28: [2021-06-02 03:49:22+08:00 推文](https://twitter.com/CindyXiaodanYu/status/1399815352784232451)
 
 RT Cindy Yu · 俞小丹<br>A delight to speak to @MariaRepnikova and Fang Kecheng (@fangkc) on the latest episode of Chinese Whispers. We discussed where the red lines lie for journalists, what happens when you misstep and why not all papers can be simply dubbed 'state media' <a href="https://www.spectator.co.uk/podcast/journalism-in-china-what-can-and-can-t-you-say-" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/podcast/journalism-in-china-what-can-and-can-t-you-say-</a>
 
-### 28: [2021-06-02 04:42:20+08:00 推文](https://twitter.com/jwassers/status/1399828682638651392)
+### 29: [2021-06-02 04:42:20+08:00 推文](https://twitter.com/jwassers/status/1399828682638651392)
 
 RT Jeff Wasserstrom<br>A good thread by @SabinaKnight1 on responses in China to the 3 child family idea, with some visuals worth checking out (note: my very 1st scholarly publication, that came out while I was in grad school 37 years ago was "Resistance to the One-Child Family"<br><br>Sabina Knight 桑禀华: #Memes amplify responses to deleted poll.<br>#ThreeChildPolicy 1/x<br> <a href="https://twitter.com/SabinaKnight1/status/1399322132904124422" target="_blank" rel="noopener noreferrer">https://twitter.com/SabinaKnight1/status/1399322132904124422</a>
+
+### 30: [2021-06-02 09:37:16+08:00 推文](https://twitter.com/MaryGao/status/1399902905554161666)
+
+RT Mary Gallagher<br>Thursday night at 9 PM #zhengfawei will join @MariaRepnikova to discuss China’s changing discourse power and new (?) propaganda strategies with @greenlawchina @vshih2 @izading @NeysunM @DrSidaLiu <a href="https://clublink.to/event/xj6dLb0N" target="_blank" rel="noopener noreferrer">https://clublink.to/event/xj6dLb0N</a>
+
+### 31: [2021-06-02 17:05:36+08:00 推文](https://twitter.com/noahbarkin/status/1400015731337531396)
+
+RT Noah Barkin<br>My latest Watching China in Europe newsletter for @GMFAsia is out. This month I explore:<br>- EU concerns that the space for dialogue w/China is closing<br>- The Cornwall test & US push for a G7+4 infrastructure pact<br>- The missing tool in Biden's China toolbox <a href="https://sites-gmf.vuturevx.com/61/6509/june-2021/june-2021(1).asp?sid=de4d60d7-9196-4612-8f50-400ea4a883e8" target="_blank" rel="noopener noreferrer">https://sites-gmf.vuturevx.com/61/6509/june-2021/june-2021(1).asp?sid=de4d60d7-9196-4612-8f50-400ea4a883e8</a>
+
+### 32: [2021-06-02 18:04:41+08:00 推文](https://twitter.com/cnmediaproject/status/1400030602494197765)
+
+Powers of Persuasion: CMP's David Bandurski reads into the language and context of the CCP collective study session on China's "international communication work." <a href="https://chinamediaproject.org/2021/06/02/powers-of-persuasion/?_thumbnail_id=48141" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/02/powers-of-persuasion/?_thumbnail_id=48141</a><br><img style src="https://pbs.twimg.com/media/E23oZXgWEAQ42tg?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 33: [2021-06-02 18:08:09+08:00 推文](https://twitter.com/cnmediaproject/status/1400031475341406208)
+
+Re @Dana_Heide @EtienneSoula Our very different reading: <a href="https://chinamediaproject.org/2021/06/02/powers-of-persuasion/?_thumbnail_id=48141" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/02/powers-of-persuasion/?_thumbnail_id=48141</a>
+
+### 34: [2021-06-02 18:12:20+08:00 推文](https://twitter.com/cnmediaproject/status/1400032529332195330)
+
+Re Also references @noahbarkin's Watching China in Europe and a senior German diplomat: "Dialogue is now conditional on us not criticizing China."
+
+### 35: [2021-06-02 18:18:34+08:00 推文](https://twitter.com/cnmediaproject/status/1400034094096977920)
+
+Re @jonlsullivan @MaryGao CMP's analysis is now here, focusing on the man behind the study session, Zhang Weiwei. <a href="https://chinamediaproject.org/2021/06/02/powers-of-persuasion/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/02/powers-of-persuasion/</a>
+
+### 36: [2021-06-02 20:25:26+08:00 推文](https://twitter.com/cnmediaproject/status/1400066021600411652)
+
+Language emerging from a recent collective study session of China’s Politburo has prompted some observers to ask whether China might be softening its diplomatic tone. A more careful look at the context is in order, writes David Bandurski.<br><img style src="https://pbs.twimg.com/media/E24IlFEXoAYLjrl?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 37: [2021-06-03 05:23:01+08:00 推文](https://twitter.com/cnmediaproject/status/1400201311354822658)
+
+Re @adrianzenz @DSORennie 把握好基调, the "tone" language is not new, and is likely being misread as referring to a strategic external tone change. In most cases this refers to following the CCP's tone. See Huang Kunming in 2019 below, with 把握好导向 (grasping guidance) right beside 把握好基调.<br><img style src="https://pbs.twimg.com/media/E26DGjdXoAAjXpg?format=jpg&name=orig" referrerpolicy="no-referrer">
 

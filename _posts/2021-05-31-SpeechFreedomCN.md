@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-05-31
+date: 2021-06-02
 from: https://twitter.com/SpeechFreedomCN/status/1399216651443134465
 layout: post
 tags:
@@ -30,4 +30,20 @@ Re 刚刚，仇子明（辣笔小球）被南京建邺区法院判刑八个月�
 ### 4: [2021-05-31 18:36:41+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1399313879759343629)
 
 Re Just in, Qiu Ziming, the former journalist who was arrested for "insulting PLA soldiers", sentenced to 8 months in prison.<br><img style src="https://pbs.twimg.com/media/E2tcQA_UYAchhPA?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-06-02 14:56:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1399983302790901760)
+
+山东省临沂市一名17岁的少年刘某，因在微信群、某APP及与他人私聊时，发布多条“辱骂袁隆平院士”的言论，被处行政拘留。<br><img style src="https://pbs.twimg.com/media/E229IryVgAMym_K?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-06-02 15:01:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1399984458212601857)
+
+Liu, a 17-year-old boy based in Shandong Province, administratively detained for "insulting Yuan Longping" in multiple situations on Internet.<br><img style src="https://pbs.twimg.com/media/E229IryVgAMym_K?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-06-02 16:58:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400013983218737152)
+
+辽宁省营口市男子王某，因在朋友圈发布了一段视频，视频中配有文字说“警察打人了”，并在发布时配文说“狗就是狗”，被认定为侮辱警察，并被拘留5日。<br><img style src="https://pbs.twimg.com/media/E23Y2OJUcAEGmN3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E23Y4RwUYAEFN9O?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-02 17:00:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400014396143800322)
+
+Liaoning man Wang, who shared a video in WeChat, which said police beat civilians, with comments "Dogs are always dogs", detained for 5 days for "insulting police".<br><img style src="https://pbs.twimg.com/media/E23ZXvQUUAYxtcX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E23ZZIfVoAIdvXb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
