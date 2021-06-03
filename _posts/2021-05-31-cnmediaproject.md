@@ -163,3 +163,15 @@ Language emerging from a recent collective study session of China’s Politburo 
 
 Re @adrianzenz @DSORennie 把握好基调, the "tone" language is not new, and is likely being misread as referring to a strategic external tone change. In most cases this refers to following the CCP's tone. See Huang Kunming in 2019 below, with 把握好导向 (grasping guidance) right beside 把握好基调.<br><img style src="https://pbs.twimg.com/media/E26DGjdXoAAjXpg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 38: [2021-06-03 12:27:00+08:00 推文](https://twitter.com/supchinanews/status/1400308007939018754)
+
+RT SupChina<br>No substantial changes in U.S.-China ties are coming, but the two sides have begun talking at senior levels again. It’s not going to be easy: <a href="https://supchina.com/2021/06/02/shy-smiles-from-the-u-s-and-china-on-trade-yellen-meets-liu/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/06/02/shy-smiles-from-the-u-s-and-china-on-trade-yellen-meets-liu/</a>
+
+### 39: [2021-06-03 12:31:00+08:00 推文](https://twitter.com/cnmediaproject/status/1400309016467755008)
+
+Re @adrianzenz @DSORennie It's a question of results over action here. The stated intent is not necessarily to act in ways that are lovable, but for lovability to result. 努力塑造可信、可爱、可敬的中国形象 "To work to create/model an image of China as ___, ____, ____."
+
+### 40: [2021-06-03 13:22:55+08:00 推文](https://twitter.com/cnmediaproject/status/1400322082777579522)
+
+For soaring rhetoric on the glories of the CCP and 100th anniversary, this shines: "All that the CCP does is to work for the happiness of the Chinese people, the rejuvenation of the Chinese nation, and the peace and development of mankind." <a href="http://paper.people.com.cn/rmrb/html/2021-06/03/nw.D110000renmrb_20210603_1-13.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-06/03/nw.D110000renmrb_20210603_1-13.htm</a><br><img style src="https://pbs.twimg.com/media/E27xgM5XwAIoEXQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
