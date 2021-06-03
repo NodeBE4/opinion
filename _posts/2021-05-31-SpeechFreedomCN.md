@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-02
+date: 2021-06-03
 from: https://twitter.com/SpeechFreedomCN/status/1399216651443134465
 layout: post
 tags:
@@ -46,4 +46,12 @@ Liu, a 17-year-old boy based in Shandong Province, administratively detained for
 ### 8: [2021-06-02 17:00:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400014396143800322)
 
 Liaoning man Wang, who shared a video in WeChat, which said police beat civilians, with comments "Dogs are always dogs", detained for 5 days for "insulting police".<br><img style src="https://pbs.twimg.com/media/E23ZXvQUUAYxtcX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E23ZZIfVoAIdvXb?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-06-03 18:54:08+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400405434368884746)
+
+2019年10月，山西清徐县两名男子姚某辰和庞某水，因在一个微信群里发表“污蔑国家领导人的涉政有害言论“，均被处拘留15日。<br><img style src="https://pbs.twimg.com/media/E2889wcVIAEoS26?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-06-03 18:55:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400405852125732865)
+
+Two men from Qingxu County, Shanxi Province, detained for 15 days for sending "politically harmful information that slandered state leaders" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/E289WeSVkAIs2nU?format=png&name=orig" referrerpolicy="no-referrer">
 

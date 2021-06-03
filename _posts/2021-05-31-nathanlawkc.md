@@ -31,3 +31,7 @@ Re Latest Update:<br>After days of closure, the website (<br>I am still waiting 
 
 Re @Wix said they removed the website by mistakes. I genuinely hope that they learnt sth from this incident. The website was down since 31 May, took them 3 days (and three hours after I tweeted) to reinstate it. This is what they told me when I first asked them.<br><img style src="https://pbs.twimg.com/media/E29hFSEUcAAEqFB?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2021-06-03 23:55:58+08:00 推文](https://twitter.com/nathanlawkc/status/1400481394116149250)
+
+Beijing's tyranny forced me to flee Hong Kong, but I will fight for democracy in exile <a href="https://www.buymeacoffee.com/nathanlawkc/beijing-tyranny-forced-flee-hong-kong-i-fight-democracy" target="_blank" rel="noopener noreferrer">https://www.buymeacoffee.com/nathanlawkc/beijing-tyranny-forced-flee-hong-kong-i-fight-democracy</a>
+
