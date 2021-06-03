@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-02
+date: 2021-06-03
 from: https://twitter.com/realcaixia/status/1399035192560558089
 layout: post
 tags:
@@ -70,4 +70,8 @@ Re @Jason59102968 @Ipkmedia 壓制人的權利，剝奪人民的自由，統治�
 ### 14: [2021-06-02 11:20:26+08:00 推文](https://twitter.com/realcaixia/status/1399928871189946369)
 
 Re @XuTT16 我學寫繁體字時你爹媽都還沒影子呢！你知識可憐啊！
+
+### 15: [2021-06-03 22:40:47+08:00 推文](https://twitter.com/realcaixia/status/1400462473610764296)
+
+为阻港人悼六四 港府千方百计文攻武吓 — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/gangtai/al-06032021064250.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/gangtai/al-06032021064250.html</a>
 
