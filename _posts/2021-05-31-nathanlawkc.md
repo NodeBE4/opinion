@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-04
+date: 2021-06-05
 from: https://twitter.com/nathanlawkc/status/1399481543647760388
 layout: post
 tags:
@@ -42,4 +42,8 @@ Light a candle.<br><br>Phoebe Kong: Hong Kong time 20:00, traditionally the ti
 ### 7: [2021-06-04 21:15:30+08:00 推文](https://twitter.com/nathanlawkc/status/1400803400380526608)
 
 1989. Beijing. <br>By French photographer Catherine Henriette.<br>#8964<br>#TiananmenSquareMassacre<br><img style src="https://pbs.twimg.com/media/E3Cm9poXEAMf8qs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3Cm-zwXMAIZRwz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3Cm_59X0AcH4MC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3CnL5yWYAQXFnl?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-05 06:45:50+08:00 推文](https://twitter.com/nathanlawkc/status/1400946927890481153)
+
+We are Hongkongers, and we fight for democracy and freedom.<br>We never surrender. We are never defeated.<br>Even though we are far from home, we believe that our endeavor will eventually pave our way home.<br>The dictators will be held accountable.<br>#8964<br>#London<br>#TiananmenSquareMassacre<br><img style src="https://pbs.twimg.com/media/E3EpHziX0AEIPPL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3EpzJeXEAEZj1T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
