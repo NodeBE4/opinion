@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-03
+date: 2021-06-04
 from: https://twitter.com/chinalawpolicy/status/1399149378087051265
 layout: post
 tags:
@@ -174,4 +174,20 @@ Re @adrianzenz @DSORennie It's a question of results over action here. The state
 ### 40: [2021-06-03 13:22:55+08:00 推文](https://twitter.com/cnmediaproject/status/1400322082777579522)
 
 For soaring rhetoric on the glories of the CCP and 100th anniversary, this shines: "All that the CCP does is to work for the happiness of the Chinese people, the rejuvenation of the Chinese nation, and the peace and development of mankind." <a href="http://paper.people.com.cn/rmrb/html/2021-06/03/nw.D110000renmrb_20210603_1-13.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-06/03/nw.D110000renmrb_20210603_1-13.htm</a><br><img style src="https://pbs.twimg.com/media/E27xgM5XwAIoEXQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 41: [2021-06-03 21:04:02+08:00 推文](https://twitter.com/cnmediaproject/status/1400438124086448128)
+
+In the latest interview for CMP, @fangkc speaks with the founder of the "Shou Lou Chu" public account about life after print journalism in China. <a href="https://chinamediaproject.org/2021/06/03/finding-a-niche-with-innovative-stories/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/03/finding-a-niche-with-innovative-stories/</a><br><img style src="https://pbs.twimg.com/media/E29bA42WYAI0fc6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 42: [2021-06-04 01:14:01+08:00 推文](https://twitter.com/cnmediaproject/status/1400501035748179971)
+
+As the Vanity Fair story on the origin's of Covid-19 makes the rounds, it's a good time to remember that after late December, when virologists like Shi Zhengli were told to investigate an infectious pneumonia, major political meetings in Wuhan went ahead. <a href="https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins" target="_blank" rel="noopener noreferrer">https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins</a>
+
+### 43: [2021-06-04 01:14:57+08:00 推文](https://twitter.com/cnmediaproject/status/1400501269626773511)
+
+Re Our coverage of that story from January last year is here: <a href="https://chinamediaproject.org/2020/02/10/questions-for-hubeis-delegates/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/02/10/questions-for-hubeis-delegates/</a><br><img style src="https://pbs.twimg.com/media/E2-UeUVWUAkKQLF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 44: [2021-06-04 02:03:46+08:00 推文](https://twitter.com/sophie_beach/status/1400513556471193602)
+
+RT Sophie Beach<br>Words that have at times been banned in China at this time of year:<br><br>Xibai Xu: (1) Speaking of subtle censorship in China on 04 June, the emoticon for candle has disappeared from the drop down menus in WeChat/QQ, though one can still manually type [蜡烛] into the dialogue box. It is also not possible to change profile picture due to ‘system maintenance’.<br><br><img style src="https://pbs.twimg.com/media/E2-VsTMUUAUnAGC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2-VsTMVEAI9AO4?format=jpg&name=orig" referrerpolicy="no-referrer">
 
