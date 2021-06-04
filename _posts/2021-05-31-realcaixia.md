@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-03
+date: 2021-06-04
 from: https://twitter.com/realcaixia/status/1399035192560558089
 layout: post
 tags:
@@ -74,4 +74,24 @@ Re @XuTT16 我學寫繁體字時你爹媽都還沒影子呢！你知識可憐啊
 ### 15: [2021-06-03 22:40:47+08:00 推文](https://twitter.com/realcaixia/status/1400462473610764296)
 
 为阻港人悼六四 港府千方百计文攻武吓 — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/gangtai/al-06032021064250.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/gangtai/al-06032021064250.html</a>
+
+### 16: [2021-06-04 09:15:20+08:00 推文](https://twitter.com/realcaixia/status/1400622161358905345)
+
+永不忘記，永不放棄！<br><br>韩连潮: 【永不忘记永不放弃！】#公民力量 合办的六四活动请到美两党政要同台讲话，说明在反制中共问题基本不存在党派和左右之争。32前我开始游说美政府时就得到民主党左翼佩洛西共和党右翼Jesse Helms的坚定支持。佩洛西初心不改，蓬佩奥博明直击中共要害。点击以下链接听他们演讲：<br><br><img style src="https://pbs.twimg.com/media/E2_4hrRXEAYR_uV?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.citizenpowerforchina.org/2021tiananmen/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/2021tiananmen/</a>
+
+### 17: [2021-06-04 18:44:32+08:00 推文](https://twitter.com/realcaixia/status/1400765405023641602)
+
+今日祭奠六四大屠杀殉难者活动。永不忘记永不放弃！<br><br>韩连潮: 【活动节目单】#公民力量 和美人权组织合办的题为《勿忘天安门：谨以王西麟第三交响乐纪念八九六四32周年》活动将于美东时间今天上午9点开始，点击以下链接参加，不须注册：<br><br><img style src="https://pbs.twimg.com/media/E3CAuiqXIAA3oGt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.citizenpowerforchina.org/2021tiananmen/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/2021tiananmen/</a>
+
+### 18: [2021-06-04 19:07:16+08:00 推文](https://twitter.com/realcaixia/status/1400771126557560836)
+
+<br><video src="https://video.twimg.com/ext_tw_video/1400771064658116612/pu/vid/720x1280/s5W_Lqx8Tk41wRPS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1400771064658116612/pu/img/-pOOQsfVYEwz5cL6.jpg"></video>
+
+### 19: [2021-06-04 19:16:43+08:00 推文](https://twitter.com/realcaixia/status/1400773505340383239)
+
+今天这个日子将永远刻在中国历史上。32年来，每到六.四，大陆网友用各种方式寄托哀思表达心志。选辑了一组大陆网友纪念89民运的图片，特转到此推出。<br><img style src="https://pbs.twimg.com/media/E3CMEQ0WQAMN5S-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3CMEccXIAYvU9_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3CMEw7XEAAvEU-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3CME8tXMAMrEDf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-06-04 19:37:05+08:00 推文](https://twitter.com/realcaixia/status/1400778631186731010)
+
+祭奠六四失去的生命。六四的被杀害躺平——现在的不合作躺平，历史的逻辑深藏其中。永不忘记永不放弃！<br><img style src="https://pbs.twimg.com/media/E3CQvGSXoAAdoqo?format=jpg&name=orig" referrerpolicy="no-referrer">
 

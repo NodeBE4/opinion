@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-03
+date: 2021-06-04
 from: https://twitter.com/SpeechFreedomCN/status/1399216651443134465
 layout: post
 tags:
@@ -54,4 +54,8 @@ Liaoning man Wang, who shared a video in WeChat, which said police beat civilian
 ### 10: [2021-06-03 18:55:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400405852125732865)
 
 Two men from Qingxu County, Shanxi Province, detained for 15 days for sending "politically harmful information that slandered state leaders" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/E289WeSVkAIs2nU?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-06-04 15:01:58+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400709395210670086)
+
+#勿忘六四<br><br>中国文字狱事件盘点: 2017年12月7日，居住在天津市北辰区的六四幸存者张长虹被判处有期徒刑3年3个月，因为当局称他攻击共产党执政和编造六四大屠杀等虚假内容。他的具体行为则是多年来在天津多地张贴大字报纪念六四遇难者和呼吁平反六四。#言论自由<br><br><img style src="https://pbs.twimg.com/media/Ecx6I15VcAApJtA?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ecx6QZnU8AES3mA?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ecx6bANU8AAX77N?format=png&name=orig" referrerpolicy="no-referrer">
 
