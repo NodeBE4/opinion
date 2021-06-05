@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-04
+date: 2021-06-05
 from: https://twitter.com/realcaixia/status/1399035192560558089
 layout: post
 tags:
@@ -94,4 +94,12 @@ Re @XuTT16 我學寫繁體字時你爹媽都還沒影子呢！你知識可憐啊
 ### 20: [2021-06-04 19:37:05+08:00 推文](https://twitter.com/realcaixia/status/1400778631186731010)
 
 祭奠六四失去的生命。六四的被杀害躺平——现在的不合作躺平，历史的逻辑深藏其中。永不忘记永不放弃！<br><img style src="https://pbs.twimg.com/media/E3CQvGSXoAAdoqo?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2021-06-05 18:50:10+08:00 推文](https://twitter.com/realcaixia/status/1401129211138658308)
+
+美國漢學家林培瑞朗讀他自己的文章《我們為甚麼記得六四》 <a href="https://youtu.be/BVdi_gnNlwo" target="_blank" rel="noopener noreferrer">https://youtu.be/BVdi_gnNlwo</a>
+
+### 22: [2021-06-05 19:34:41+08:00 推文](https://twitter.com/realcaixia/status/1401140414317539334)
+
+今天在幾個國內與海外華人都有的群裡，看到了這則關於1989的情況報導消息，原來習仲勛替習近平鋪墊了上台掌權的路——踩著六四殉難者的鮮血與生命上去！難怪他們內部說，選黨和國家接班人有三個條件：1，89年時是局級位子；2，太子黨紅二代；3；（支持）開槍派。<br><img style src="https://pbs.twimg.com/media/E3HZxHVXoAI2oRk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3HZxmVWEAEcOXB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
