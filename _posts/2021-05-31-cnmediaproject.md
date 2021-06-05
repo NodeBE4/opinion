@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-04
+date: 2021-06-05
 from: https://twitter.com/chinalawpolicy/status/1399149378087051265
 layout: post
 tags:
@@ -190,4 +190,8 @@ Re Our coverage of that story from January last year is here: <a href="https:/
 ### 44: [2021-06-04 02:03:46+08:00 推文](https://twitter.com/sophie_beach/status/1400513556471193602)
 
 RT Sophie Beach<br>Words that have at times been banned in China at this time of year:<br><br>Xibai Xu: (1) Speaking of subtle censorship in China on 04 June, the emoticon for candle has disappeared from the drop down menus in WeChat/QQ, though one can still manually type [蜡烛] into the dialogue box. It is also not possible to change profile picture due to ‘system maintenance’.<br><br><img style src="https://pbs.twimg.com/media/E2-VsTMUUAUnAGC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E2-VsTMVEAI9AO4?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 45: [2021-06-05 10:39:36+08:00 推文](https://twitter.com/SPCmonitor/status/1401005757890326529)
+
+RT Susan Finder<br>In May, leading experts in China held workshop to discuss the Supervision Officials Law draft. One comment reveals issues w' drafting process--issues with inadequately considering impact on related law- 特别是...监察法体系外的其他法律规范的衔接适用等问题<br><br>China Law Translate: These new procedures, along with the upcoming Supervision Officials Law are providing us with greater insight into how the supervision system will function, and what, if any level of supervision the supervisors will receive.<br> <a href="https://www.chinalawtranslate.com/en/supervisors2/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/en/supervisors2/</a>
 
