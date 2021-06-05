@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-04
+date: 2021-06-05
 from: https://twitter.com/SpeechFreedomCN/status/1399216651443134465
 layout: post
 tags:
@@ -58,4 +58,12 @@ Two men from Qingxu County, Shanxi Province, detained for 15 days for sending "p
 ### 11: [2021-06-04 15:01:58+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1400709395210670086)
 
 #勿忘六四<br><br>中国文字狱事件盘点: 2017年12月7日，居住在天津市北辰区的六四幸存者张长虹被判处有期徒刑3年3个月，因为当局称他攻击共产党执政和编造六四大屠杀等虚假内容。他的具体行为则是多年来在天津多地张贴大字报纪念六四遇难者和呼吁平反六四。#言论自由<br><br><img style src="https://pbs.twimg.com/media/Ecx6I15VcAApJtA?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ecx6QZnU8AES3mA?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Ecx6bANU8AAX77N?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-05 16:49:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1401098790048727041)
+
+2019年4月，广西田林县警方抓获了一名谋杀案嫌疑人，当地网友陆某彬在微信群里谈论此事时，发言称警察没用，说他们“都是吃屎的，一万人抓一个还是自首的”，被多名网友举报并随后被处拘留5日。<br><img style src="https://pbs.twimg.com/media/E3GzRRyVoAk3dOZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3GzTwlVUAADENM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3GzZI3VkAI7NXF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3GzcE7VEA8AYf4?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-06-05 16:56:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1401100590210437123)
+
+Back in Apr 2019, Guangxi police nabbed a murder suspect. Local man Lu was later detained for 5 days for commenting on the news, saying those cops were so useless that can nab only one fugitive, who actually surrendered himself, among 10,000.<br><img style src="https://pbs.twimg.com/media/E3G0AGIVkAQNut0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3G0CJAVEAAo_eP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3G0DvbUcAII6MI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3G0FSBUcAMCYKy?format=png&name=orig" referrerpolicy="no-referrer">
 

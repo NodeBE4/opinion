@@ -47,3 +47,7 @@ Light a candle.<br><br>Phoebe Kong: Hong Kong time 20:00, traditionally the ti
 
 We are Hongkongers, and we fight for democracy and freedom.<br>We never surrender. We are never defeated.<br>Even though we are far from home, we believe that our endeavor will eventually pave our way home.<br>The dictators will be held accountable.<br>#8964<br>#London<br>#TiananmenSquareMassacre<br><img style src="https://pbs.twimg.com/media/E3EpHziX0AEIPPL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3EpzJeXEAEZj1T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 9: [2021-06-05 20:06:44+08:00 推文](https://twitter.com/nathanlawkc/status/1401148481327321092)
+
+My friend, who has lived in London for decades, told me that this year's June 4 vigil is the largest one. Hundreds of people gathered and lit a candle. <br>I said, the number will only grow. Hongkongers will persist, until the day CCP is held accountable.<br>#London<br>#8964<br><img style src="https://pbs.twimg.com/media/E3HgE5qX0AI3s9s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3HgMckXwAQzOGC?format=jpg&name=orig" referrerpolicy="no-referrer">
+
