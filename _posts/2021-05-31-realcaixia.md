@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-05
+date: 2021-06-06
 from: https://twitter.com/realcaixia/status/1399035192560558089
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re @XuTT16 我學寫繁體字時你爹媽都還沒影子呢！你知識可憐啊
 ### 23: [2021-06-05 22:14:20+08:00 推文](https://twitter.com/realcaixia/status/1401180590611779596)
 
 Re @tomson66026341 為什麼需要你瞧得起？！只要認為自己做得對，就義無反顧！你瞧不瞧得起有什麼了不起，你以為你是誰？！我從來不被所謂議論綁架，還會在乎你瞧得起瞧不起？！人最可寶貴的是良知！
+
+### 24: [2021-06-06 06:44:55+08:00 推文](https://twitter.com/realcaixia/status/1401309085711077380)
+
+第三交响曲很有震撼力！<br><br>自由亚洲电台: 现年85岁的 #王西麟 表示，此曲先后展现了他早年受到的政治迫害、#四五运动 和 #六四事件、几十年来萦绕在他耳边的一个“疯子”的歌唱，人们齐聚天安门广场，反抗生生不息等多重主题<br>他在八九民运期间到过天安门广场，还在平板车上发表两次演讲，受到众人拥护<br>#第三交响曲<br> <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hc-06042021100905.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hc-06042021100905.html</a>
 
