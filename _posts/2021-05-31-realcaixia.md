@@ -103,3 +103,7 @@ Re @XuTT16 我學寫繁體字時你爹媽都還沒影子呢！你知識可憐啊
 
 今天在幾個國內與海外華人都有的群裡，看到了這則關於1989的情況報導消息，原來習仲勛替習近平鋪墊了上台掌權的路——踩著六四殉難者的鮮血與生命上去！難怪他們內部說，選黨和國家接班人有三個條件：1，89年時是局級位子；2，太子黨紅二代；3；（支持）開槍派。<br><img style src="https://pbs.twimg.com/media/E3HZxHVXoAI2oRk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3HZxmVWEAEcOXB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 23: [2021-06-05 22:14:20+08:00 推文](https://twitter.com/realcaixia/status/1401180590611779596)
+
+Re @tomson66026341 為什麼需要你瞧得起？！只要認為自己做得對，就義無反顧！你瞧不瞧得起有什麼了不起，你以為你是誰？！我從來不被所謂議論綁架，還會在乎你瞧得起瞧不起？！人最可寶貴的是良知！
+
