@@ -111,3 +111,7 @@ Re @tomson66026341 為什麼需要你瞧得起？！只要認為自己做得對�
 
 第三交响曲很有震撼力！<br><br>自由亚洲电台: 现年85岁的 #王西麟 表示，此曲先后展现了他早年受到的政治迫害、#四五运动 和 #六四事件、几十年来萦绕在他耳边的一个“疯子”的歌唱，人们齐聚天安门广场，反抗生生不息等多重主题<br>他在八九民运期间到过天安门广场，还在平板车上发表两次演讲，受到众人拥护<br>#第三交响曲<br> <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hc-06042021100905.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hc-06042021100905.html</a>
 
+### 25: [2021-06-06 07:35:51+08:00 推文](https://twitter.com/realcaixia/status/1401321901096673280)
+
+Re @ftyt2KLNyTtNxa 国家权力是人民的，一党长期霸占权力，执掌国家权力的人和政党应该通过公平公正公开的投票竞争产生。他们把国家权力看成自己囊中私物，内部私相授受，这是最大的立党为私。
+
