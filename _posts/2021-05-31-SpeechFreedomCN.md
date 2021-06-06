@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-05
+date: 2021-06-06
 from: https://twitter.com/SpeechFreedomCN/status/1399216651443134465
 layout: post
 tags:
@@ -66,4 +66,12 @@ Two men from Qingxu County, Shanxi Province, detained for 15 days for sending "p
 ### 13: [2021-06-05 16:56:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1401100590210437123)
 
 Back in Apr 2019, Guangxi police nabbed a murder suspect. Local man Lu was later detained for 5 days for commenting on the news, saying those cops were so useless that can nab only one fugitive, who actually surrendered himself, among 10,000.<br><img style src="https://pbs.twimg.com/media/E3G0AGIVkAQNut0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3G0CJAVEAAo_eP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3G0DvbUcAII6MI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3G0FSBUcAMCYKy?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-06-06 11:11:31+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1401376177420337156)
+
+山西省清徐县男子韩某鹏，因在朋友圈发布“涉政有害信息”，被处拘留15日。和前两日发表的两个案例一样，此案也是发生在2019年国庆期间的清徐县，即该县在2019年国庆期间至少拘留了三名发布“涉政不当言论“的人士。<br><img style src="https://pbs.twimg.com/media/E3Kvs4iVUAQNR7q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3KvuRVUUAElfDd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-06-06 11:15:53+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1401377276470562819)
+
+Han from Qingxu County, Shanxi Province detained for 15 days for posting "politically harmful" information in Oct 2019, when CCP was celebrating the 70th anniversary of the regime foundation. He was one of the at least 3 that were detained for the same reason in that county.<br><img style src="https://pbs.twimg.com/media/E3KwPElVEAQqOoV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3KwQD5VUAIqGIF?format=jpg&name=orig" referrerpolicy="no-referrer">
 

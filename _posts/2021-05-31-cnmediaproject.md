@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-05
+date: 2021-06-06
 from: https://twitter.com/chinalawpolicy/status/1399149378087051265
 layout: post
 tags:
@@ -194,4 +194,12 @@ RT Sophie Beach<br>Words that have at times been banned in China at this time 
 ### 45: [2021-06-05 10:39:36+08:00 推文](https://twitter.com/SPCmonitor/status/1401005757890326529)
 
 RT Susan Finder<br>In May, leading experts in China held workshop to discuss the Supervision Officials Law draft. One comment reveals issues w' drafting process--issues with inadequately considering impact on related law- 特别是...监察法体系外的其他法律规范的衔接适用等问题<br><br>China Law Translate: These new procedures, along with the upcoming Supervision Officials Law are providing us with greater insight into how the supervision system will function, and what, if any level of supervision the supervisors will receive.<br> <a href="https://www.chinalawtranslate.com/en/supervisors2/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/en/supervisors2/</a>
+
+### 46: [2021-06-06 19:22:56+08:00 推文](https://twitter.com/cnmediaproject/status/1401499845496606721)
+
+It's astonishing how quickly misreads of readouts of Chinese political sessions can become accepted truths. Xi Jinping's change of heart? The CCP's "change in tone"? <a href="https://www.theguardian.com/commentisfree/2021/jun/06/xis-change-of-heart-is-too-late-to-stop-chinas-collision-with-the-west" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2021/jun/06/xis-change-of-heart-is-too-late-to-stop-chinas-collision-with-the-west</a>
+
+### 47: [2021-06-06 19:26:32+08:00 推文](https://twitter.com/cnmediaproject/status/1401500753777283072)
+
+Re Aside from a careful reading of the language, the key context here is the person of Zhang Weiwei, who led the collective study session. Zhang's entire view on how China should engage is the polar opposite of "conciliatory." <a href="https://chinamediaproject.org/2021/06/02/powers-of-persuasion/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/02/powers-of-persuasion/</a><br><img style src="https://pbs.twimg.com/media/E3MhaS8WEAQ5QB8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
