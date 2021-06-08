@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-08
+date: 2021-06-09
 from: https://twitter.com/realcaixia/status/1401877044242358273
 layout: post
 tags:
@@ -42,4 +42,16 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 ### 7: [2021-06-08 22:49:50+08:00 推文](https://twitter.com/realcaixia/status/1402276688940183555)
 
 中共當局對6.4數字如此敏感，既見他們的虛弱更見他們的恐懼，想抹去犯罪歷史，摸得了嗎？！人心不可擋，記住歷史，記住他們的犯罪。<br><br>华夏画报: 他为什么进去？<br><br><img style src="https://pbs.twimg.com/media/E3SP_XcWUAcAAnh?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-09 01:13:29+08:00 推文](https://twitter.com/realcaixia/status/1402312838228684805)
+
+江蘇全省凡涉及本科降為大專的學校學生都起來抗議，逼得江蘇收回成命，浙江省似乎也在撤回指令。這種明顯侵犯學生利益、挑起社會衝突的決定出現在幾省，可見地方政府只是執行上命。這再次表明，中共高層拍腦袋出這種豬腦子決定，別說民主科學決策，甚至連理智決策都沒有。自作孽不可活，亂世亡國之象。<br><br>自由亚洲电台: 【缴交了大学学费，原来是职业学校资格】<br>【浙江大学生维权被武力驱赶】<br>多间浙江大学名下学院大学生上周起在校园请愿，抗议学校与职业学校合并，令他们本科学位降格。有学生上周六到省教育部请愿，期间被防暴警察带上大巴，有学生不满被推撞而坐在地上抗议。<br>到周一下午浙江省政府喝停合并计划。<br><br><video src="https://video.twimg.com/ext_tw_video/1402135705933938689/pu/vid/720x720/OSpbfp8tw8pTp6-h.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1402135705933938689/pu/img/P_EGeqgT5snffmhB.jpg"></video>
+
+### 9: [2021-06-09 01:31:51+08:00 推文](https://twitter.com/realcaixia/status/1402317463598075906)
+
+請看下面系列推文。一個國際江湖騙子居然被朝廷奉為「國師」，不得不讓人懷疑那盤坐龍椅上的智商和思維正常嗎？「政治局學習」讓全世界多看一場大陸當局醜劇。國內許多網友紛紛扒出這位「國師」混江湖的種種見不得光之過往，陪龍坐的20多政治局委員中，總有頭腦正常者吧？甘願今日陪聽明日陪葬？<br><br>良知❣️❣️自知: 数日前，著有“思考中国三部曲”（《中国触动》《中国震撼》《中国超越》）的理论左派张维为成为中南海的新晋国师“座上宾”，为习近平等人授课，一时风头无两，也一时引起不少争议。<br>这些争议不仅来自于与其对阵多年的、却已然沉寂的中国自由派“政敌”，甚至也包括同一阵营的质疑，<br>
+
+### 10: [2021-06-09 01:43:54+08:00 推文](https://twitter.com/realcaixia/status/1402320495702388742)
+
+华尔街日报：美国国家实验室曾得出结论新冠病毒可能来自武汉实验室 <a href="https://www.voachinese.com/a/us-lab-report-on-covid-origin-20210608/5920559.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/us-lab-report-on-covid-origin-20210608/5920559.html</a>
 
