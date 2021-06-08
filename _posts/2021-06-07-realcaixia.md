@@ -39,3 +39,7 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 
 一網友統計了大陸多地接連不斷發生的惡性事件。6月7號再次爆出上海復旦大學教師持刀捅死同事的消息。大陸新內卷時代高校知識分子也成殺手。最近幾個月接連不斷的惡性追殺陌生路人，甚至高校教師也持刀兇殺，這些現象預兆什麼？<br><img style src="https://pbs.twimg.com/media/E3UQISTXoAIIGKg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3UQIncXoAgUiRV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 7: [2021-06-08 22:49:50+08:00 推文](https://twitter.com/realcaixia/status/1402276688940183555)
+
+中共當局對6.4數字如此敏感，既見他們的虛弱更見他們的恐懼，想抹去犯罪歷史，摸得了嗎？！人心不可擋，記住歷史，記住他們的犯罪。<br><br>华夏画报: 他为什么进去？<br><br><img style src="https://pbs.twimg.com/media/E3SP_XcWUAcAAnh?format=jpg&name=orig" referrerpolicy="no-referrer">
+
