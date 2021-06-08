@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-07
+date: 2021-06-08
 from: https://twitter.com/CarlMinzner/status/1401699061132972037
 layout: post
 tags:
@@ -22,4 +22,16 @@ RT Carl Minzner<br>(1/2) Watch China's state media grapple with how to address
 ### 2: [2021-06-07 16:27:44+08:00 推文](https://twitter.com/iandenisjohnson/status/1401818142351925249)
 
 RT Ian Johnson<br>Great interview with @YanzhongHuang of @CFR_org in @thewirechina on public health:  "even though they have successfully contained the [Covid] outbreak, which they say shows the superiority of the China model, they also feel very insecure." <a href="https://www.thewirechina.com/2021/06/06/yanzhong-huang-on-why-chinas-strength-is-also-its-weakness/" target="_blank" rel="noopener noreferrer">https://www.thewirechina.com/2021/06/06/yanzhong-huang-on-why-chinas-strength-is-also-its-weakness/</a>
+
+### 3: [2021-06-08 15:15:09+08:00 推文](https://twitter.com/cnmediaproject/status/1402162264803794946)
+
+For China's young students, annual college entrance examinations are an important rite of passage on the road to university degrees. But they are also an important way to test students' sense of patriotism and dedication to the CCP-led system. <a href="https://chinamediaproject.org/2021/06/08/testing-for-devotion/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/08/testing-for-devotion/</a><br><img style src="https://pbs.twimg.com/media/E3V7Gy3XMAAEC-q?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-06-08 15:17:17+08:00 推文](https://twitter.com/cnmediaproject/status/1402162800848474114)
+
+Re How would you reflect, in 800 words or more, on the "revolutionary culture and advanced socialist culture nurtured in the great struggle carried out by the Party in uniting and leading the people"? The clock starts now.
+
+### 5: [2021-06-08 15:47:58+08:00 推文](https://twitter.com/cnmediaproject/status/1402170522209865733)
+
+The latest entry in the CMP Dictionary: "Development." Definition courtesy of Decoding China and @RudyakMarina. How is the word understood by China's leaders? <a href="https://chinamediaproject.org/the_ccp_dictionary/development/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/development/</a><br><img style src="https://pbs.twimg.com/media/E3WCQpRXoAEmQgJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
