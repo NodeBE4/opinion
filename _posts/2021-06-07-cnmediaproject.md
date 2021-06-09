@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-08
+date: 2021-06-09
 from: https://twitter.com/CarlMinzner/status/1401699061132972037
 layout: post
 tags:
@@ -34,4 +34,8 @@ Re How would you reflect, in 800 words or more, on the "revolutionary culture an
 ### 5: [2021-06-08 15:47:58+08:00 推文](https://twitter.com/cnmediaproject/status/1402170522209865733)
 
 The latest entry in the CMP Dictionary: "Development." Definition courtesy of Decoding China and @RudyakMarina. How is the word understood by China's leaders? <a href="https://chinamediaproject.org/the_ccp_dictionary/development/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/development/</a><br><img style src="https://pbs.twimg.com/media/E3WCQpRXoAEmQgJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-06-09 04:30:19+08:00 推文](https://twitter.com/SixthTone/status/1402362374699507721)
+
+RT Sixth Tone<br>A father waiting outside a test site for China’s national college entrance exam in Zigong, Sichuan while holding a banner reading “No matter how well you did on the exam, Dad and Mom will always love you” has tugged at the heartstrings of Chinese netizens. (Photo: The Paper)<br><img style src="https://pbs.twimg.com/media/E3YxJhNXoAEHzCh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
