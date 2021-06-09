@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-08
+date: 2021-06-09
 from: https://twitter.com/SpeechFreedomCN/status/1402244261240709130
 layout: post
 tags:
@@ -22,4 +22,20 @@ title: 'Twitter @中国文字狱事件盘点: 2021-06-07~2021-06-13'
 ### 2: [2021-06-08 20:43:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402245017050116103)
 
 Back in Feb 2020, when the China had reported just 1000 plus Covid deaths, Jiangxi woman administratively punished by police for saying in WeChat that she got to know in a lecture that the number was just 2.1% of the real death toll.<br><img style src="https://pbs.twimg.com/media/E3XFwJdVEAARw-d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3XFxF9UYAYiaTN?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3XF0LzVcAAekGr?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-06-09 11:00:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402460455784706048)
+
+辽宁省营口市女子战某，因在微信群里发布一段视频，视频中她说警察“像狗似的”，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/E3aJ_bdVoAARPNt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3aKCy0VIAA7P6t?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-06-09 11:01:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402460769292193802)
+
+Liaoning woman Zhan detained for 5 days for saying in a WeChat group that cops "were like dogs".<br><img style src="https://pbs.twimg.com/media/E3aKYlwVUAY9rcX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3aKc6CVgAEv0_n?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3aKe-oVEAUViHu?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-06-09 12:04:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402476644678266881)
+
+因“侮辱”袁隆平，北京抓了不止一个。据北京朝阳区警方5月27日通报，38岁的当地男子袁某因在微博发表“侮辱“袁隆平的言论和”辱华“言论，被刑事拘留。<br><img style src="https://pbs.twimg.com/media/E3aYq5dVgAAJ5kY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-06-09 12:07:41+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402477473741246465)
+
+38-year-old Beijing man Yuan arrested and held under criminal detention for "insulting" Yuan Longping on Weibo. He is the second person in Beijing known arrested for the same reason. Police said in the statement that he had also posted some remarks that "insulted" China.<br><img style src="https://pbs.twimg.com/media/E3aZGYyVgAA4_je?format=jpg&name=orig" referrerpolicy="no-referrer">
 
