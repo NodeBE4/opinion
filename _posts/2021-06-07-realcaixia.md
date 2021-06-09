@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-09
+date: 2021-06-10
 from: https://twitter.com/realcaixia/status/1401877044242358273
 layout: post
 tags:
@@ -58,4 +58,8 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 ### 11: [2021-06-09 08:39:30+08:00 推文](https://twitter.com/realcaixia/status/1402425082551713792)
 
 上海復旦大學最近出兩件大事：一是一個混混混進廟堂最高級，堂而皇之當「國師」；二是一個海歸辛苦N年無歸處,舉刀捅死了代表組織處置他的黨書記。復旦是中國一流頂級大學，培養出中共當局常委王滬寧，主管意識形態，復旦自然應是大陸高校的標竿。這兩件事正表明：復旦確實是中共高校真相的縮影。<br><img style src="https://pbs.twimg.com/media/E3ZqKXtXIAc1WlT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3ZqKm3XMAkjfMp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3ZqK3OWYAAY9df?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3ZqLPEXwAUDnVI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-10 02:28:36+08:00 推文](https://twitter.com/realcaixia/status/1402694130086690818)
+
+中共慣用牽連家人、敲掉工作等威脅要挾政治異見者。這又是一個例子。要記下執行這類惡令的國保領導人和執行任務的人名字，把他們的名字在推特上、臉書上公開示眾，列入人權組織收集的資料中，寫進助紂為虐的惡人榜」，準備好後面算帳。<br><br>王贺楠: 今天上午我回公司，领导找我了解情况。还没有结束国保就找到了我的公司，并让公司领导做我工作。现在公司已经把我工作停掉了，本来明天要飞的航班也没有了。国保找我公司的原因我一清二楚，无非就是拿工作威胁我。让我当一个哑巴，不说话，不做声。你们以为这样就能堵住我的嘴吗？不可能！<br><br><img style src="https://pbs.twimg.com/media/E3V7bbzVUAE9rj-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
