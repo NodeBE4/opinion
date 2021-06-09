@@ -39,3 +39,11 @@ Liaoning woman Zhan detained for 5 days for saying in a WeChat group that cops "
 
 38-year-old Beijing man Yuan arrested and held under criminal detention for "insulting" Yuan Longping on Weibo. He is the second person in Beijing known arrested for the same reason. Police said in the statement that he had also posted some remarks that "insulted" China.<br><img style src="https://pbs.twimg.com/media/E3aZGYyVgAA4_je?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 7: [2021-06-09 16:49:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402548287215869953)
+
+每年六四前后，中共都会对异议人士“严加看管”，且会拘捕一批敢于公开纪念六四的人士。今年因纪念六四被处罚的人包括谢俊彪和陈思明等人，其中谢俊彪被刑事拘留，陈思明被行拘15日，二人此前均因政治原因被拘留过多次。除纪念六四的内容以外，他们也时常发表其它“违法”言论，也是其被喝茶的原因。<br><img style src="https://pbs.twimg.com/media/E3baOOMVUAMOaR_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3baOOQVcAEmg49?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3baOOWUcAIyzdm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3baOOVUcAICtaf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-09 16:56:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402550107057229825)
+
+Around every June 4th, China would arrest some dissidents and activists who mourn the deaths of people massacred by CCP on that day 1989. This June 4th was no different. Activists Xie Junbiao & Chen Siming were among those arrested for openly mourning deaths of the incident.<br><img style src="https://pbs.twimg.com/media/E3bb4SQUUAARrB9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3bb4SRVoAQ-j7F?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3bb4SVVIAYwZTH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3bb4SWVgAcHpsM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
