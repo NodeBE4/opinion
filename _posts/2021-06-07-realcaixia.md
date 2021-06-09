@@ -55,3 +55,7 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 
 华尔街日报：美国国家实验室曾得出结论新冠病毒可能来自武汉实验室 <a href="https://www.voachinese.com/a/us-lab-report-on-covid-origin-20210608/5920559.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/us-lab-report-on-covid-origin-20210608/5920559.html</a>
 
+### 11: [2021-06-09 08:39:30+08:00 推文](https://twitter.com/realcaixia/status/1402425082551713792)
+
+上海復旦大學最近出兩件大事：一是一個混混混進廟堂最高級，堂而皇之當「國師」；二是一個海歸辛苦N年無歸處,舉刀捅死了代表組織處置他的黨書記。復旦是中國一流頂級大學，培養出中共當局常委王滬寧，主管意識形態，復旦自然應是大陸高校的標竿。這兩件事正表明：復旦確實是中共高校真相的縮影。<br><img style src="https://pbs.twimg.com/media/E3ZqKXtXIAc1WlT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3ZqKm3XMAkjfMp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3ZqK3OWYAAY9df?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3ZqLPEXwAUDnVI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
