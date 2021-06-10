@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-09
+date: 2021-06-10
 from: https://twitter.com/SpeechFreedomCN/status/1402244261240709130
 layout: post
 tags:
@@ -46,4 +46,12 @@ Liaoning woman Zhan detained for 5 days for saying in a WeChat group that cops "
 ### 8: [2021-06-09 16:56:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402550107057229825)
 
 Around every June 4th, China would arrest some dissidents and activists who mourn the deaths of people massacred by CCP on that day 1989. This June 4th was no different. Activists Xie Junbiao & Chen Siming were among those arrested for openly mourning deaths of the incident.<br><img style src="https://pbs.twimg.com/media/E3bb4SQUUAARrB9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3bb4SRVoAQ-j7F?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3bb4SVVIAYwZTH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3bb4SWVgAcHpsM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-06-10 15:18:58+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402888002863386624)
+
+河北省正定县网民樊某，在疫情初期时因在微信群发布“涉政不当言论”，被处拘留7日。<br><img style src="https://pbs.twimg.com/media/E3gOc8WUYAArFOI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3gOd3tUUAgyk2v?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-06-10 15:19:58+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1402888252772679682)
+
+Hebei resident Fan administratively detained for 7 days for posting "politically inappropriate remarks" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/E3gPPCcVcAElwJz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3gPP9-VkAY4sBh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
