@@ -55,3 +55,11 @@ Around every June 4th, China would arrest some dissidents and activists who mour
 
 Hebei resident Fan administratively detained for 7 days for posting "politically inappropriate remarks" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/E3gPPCcVcAElwJz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3gPP9-VkAY4sBh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 11: [2021-06-10 23:39:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403014035474243589)
+
+New round of crackdown on the way: China just passed a law that prohibits slandering, insulting or discrediting soldiers.<br><img style src="https://pbs.twimg.com/media/E3iB01nVIAMH85D?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-10 23:41:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403014524484001797)
+
+中国刚刚立法禁止任何形式的“侮辱、诋毁或诽谤“军人的名誉。毫无疑问，这和《英烈保护法》以及侵害英烈名誉罪一样，对于言论管控和打压来讲，这又是一个标志性事件。<br><img style src="https://pbs.twimg.com/media/E3iCRUHVIAUhE3H?format=jpg&name=orig" referrerpolicy="no-referrer">
+
