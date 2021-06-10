@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-10
+date: 2021-06-11
 from: https://twitter.com/realcaixia/status/1401877044242358273
 layout: post
 tags:
@@ -62,4 +62,8 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 ### 12: [2021-06-10 02:28:36+08:00 推文](https://twitter.com/realcaixia/status/1402694130086690818)
 
 中共慣用牽連家人、敲掉工作等威脅要挾政治異見者。這又是一個例子。要記下執行這類惡令的國保領導人和執行任務的人名字，把他們的名字在推特上、臉書上公開示眾，列入人權組織收集的資料中，寫進助紂為虐的惡人榜」，準備好後面算帳。<br><br>王贺楠: 今天上午我回公司，领导找我了解情况。还没有结束国保就找到了我的公司，并让公司领导做我工作。现在公司已经把我工作停掉了，本来明天要飞的航班也没有了。国保找我公司的原因我一清二楚，无非就是拿工作威胁我。让我当一个哑巴，不说话，不做声。你们以为这样就能堵住我的嘴吗？不可能！<br><br><img style src="https://pbs.twimg.com/media/E3V7bbzVUAE9rj-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-06-11 03:28:43+08:00 推文](https://twitter.com/realcaixia/status/1403071648337645571)
+
+今日寫文談如何看中共黨史，再次閱讀下面文章，比之前所讀更震擊心弦。中共官方宏大敘事和偉光正口號編造的所謂百年黨史，滿是謊言虛構扭曲變形乃至顛倒黑白。歷史由一個個鮮活的人之遭遇和命運所組成。以史為鑒，首先必須是真實歷史。<br><br>钱钢丨我的134块“绊脚石” | 自由微信 <a href="https://freewechat.com/a/MjM5OTY3MTY4MA==/2657331604/1" target="_blank" rel="noopener noreferrer">https://freewechat.com/a/MjM5OTY3MTY4MA==/2657331604/1</a>
 
