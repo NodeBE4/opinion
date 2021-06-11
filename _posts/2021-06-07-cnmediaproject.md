@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-09
+date: 2021-06-11
 from: https://twitter.com/CarlMinzner/status/1401699061132972037
 layout: post
 tags:
@@ -38,4 +38,8 @@ The latest entry in the CMP Dictionary: "Development." Definition courtesy of De
 ### 6: [2021-06-09 04:30:19+08:00 推文](https://twitter.com/SixthTone/status/1402362374699507721)
 
 RT Sixth Tone<br>A father waiting outside a test site for China’s national college entrance exam in Zigong, Sichuan while holding a banner reading “No matter how well you did on the exam, Dad and Mom will always love you” has tugged at the heartstrings of Chinese netizens. (Photo: The Paper)<br><img style src="https://pbs.twimg.com/media/E3YxJhNXoAEHzCh?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-06-11 18:07:06+08:00 推文](https://twitter.com/CarlMinzner/status/1403292699885596672)
+
+RT Carl Minzner<br>Anyone interested in China’s 躺平 (lying flat) movement should read this article by @judytzchen on the discontents of a generation of Taiwanese youth. And then check out what has been happening in Japan since the 1990s. <a href="https://international.thenewslens.com/article/152268" target="_blank" rel="noopener noreferrer">https://international.thenewslens.com/article/152268</a>
 
