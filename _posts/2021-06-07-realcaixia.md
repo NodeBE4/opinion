@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-11
+date: 2021-06-12
 from: https://twitter.com/realcaixia/status/1401877044242358273
 layout: post
 tags:
@@ -66,4 +66,8 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 ### 13: [2021-06-11 03:28:43+08:00 推文](https://twitter.com/realcaixia/status/1403071648337645571)
 
 今日寫文談如何看中共黨史，再次閱讀下面文章，比之前所讀更震擊心弦。中共官方宏大敘事和偉光正口號編造的所謂百年黨史，滿是謊言虛構扭曲變形乃至顛倒黑白。歷史由一個個鮮活的人之遭遇和命運所組成。以史為鑒，首先必須是真實歷史。<br><br>钱钢丨我的134块“绊脚石” | 自由微信 <a href="https://freewechat.com/a/MjM5OTY3MTY4MA==/2657331604/1" target="_blank" rel="noopener noreferrer">https://freewechat.com/a/MjM5OTY3MTY4MA==/2657331604/1</a>
+
+### 14: [2021-06-12 00:05:44+08:00 推文](https://twitter.com/realcaixia/status/1403382954743812105)
+
+大陸警察進大學在大學教室和校園毆打學生抓捕學生。<br><video src="https://video.twimg.com/ext_tw_video/1403382545681690624/pu/vid/784x720/tOg5j8CDqgeg86xT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403382545681690624/pu/img/zn564HwJorZg8UVW.jpg"></video>
 
