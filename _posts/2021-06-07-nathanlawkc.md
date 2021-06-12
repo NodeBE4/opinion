@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-11
+date: 2021-06-13
 from: https://twitter.com/nathanlawkc/status/1401969078600933382
 layout: post
 tags:
@@ -34,4 +34,8 @@ Looking forward to seeing you all tonight! It's important for us to preserve the
 ### 5: [2021-06-11 18:38:51+08:00 推文](https://twitter.com/nathanlawkc/status/1403300690794065920)
 
 Films need to be loyal to the CCP in Hong Kong. How ridiculous could the authority be?<br><br>Rebecca Davis: Huge: Hong Kong has just issued new amendments to its film censorship rules that effectively impose Beijing’s strict censorship standards there overnight, in the name of the National Security Law. They take effect today.<br>
+
+### 6: [2021-06-13 01:24:06+08:00 推文](https://twitter.com/nathanlawkc/status/1403765065229144065)
+
+Thanks @SKinnock! Always proud to have you standing with Hong Kong.<br><br>Stephen Kinnock: It was an honour for me to address #StandUpForHongKong rally today, on the 2nd anniversary of the 12.6.19 march - the largest in Hong Kong’s history. Beijing’s brutal crackdown in HK is a scar on the conscience of democracy. HK needs the free world, and the free world needs HK!<br><br><video src="https://video.twimg.com/ext_tw_video/1403702586646085642/pu/vid/480x848/_pzRr__Xks3E3UXF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403702586646085642/pu/img/CMtaL1PMebMWSfIR.jpg"></video>
 
