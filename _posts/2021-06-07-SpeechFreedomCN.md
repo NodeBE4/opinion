@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-10
+date: 2021-06-12
 from: https://twitter.com/SpeechFreedomCN/status/1402244261240709130
 layout: post
 tags:
@@ -62,4 +62,20 @@ New round of crackdown on the way: China just passed a law that prohibits slande
 ### 12: [2021-06-10 23:41:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403014524484001797)
 
 中国刚刚立法禁止任何形式的“侮辱、诋毁或诽谤“军人的名誉。毫无疑问，这和《英烈保护法》以及侵害英烈名誉罪一样，对于言论管控和打压来讲，这又是一个标志性事件。<br><img style src="https://pbs.twimg.com/media/E3iCRUHVIAUhE3H?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-06-12 16:04:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403624164850765826)
+
+江西省安福县男子李某，因在微信群里说“有狗查酒驾”，被处行政拘留。<br><img style src="https://pbs.twimg.com/media/E3qse6oVIAAJqcJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-06-12 16:05:53+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403624583211544576)
+
+Jiangxi man Li administratively detained for referring to traffic police as dogs in a WeChat group chat, saying "Dogs checking drunk driving".<br><img style src="https://pbs.twimg.com/media/E3qsxBuVoAInP79?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-06-12 22:23:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403719508695523333)
+
+Re 华东政法大学教师包毅楠，因在微信朋友圈发文说“国家应该重视高校教师的生机，例如实行多配偶制和终生补贴制“以及其它”不当言论“，被校方停职调查。<br><img style src="https://pbs.twimg.com/media/E3sCzRGVUAI5V24?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3sC6KTVIAAWoQW?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3sC8VhUYAgia2_?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-06-12 22:27:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1403720743049854979)
+
+Re Bao Yi'nan, teacher at East China University of Political Science and Law, suspended & being investigated for his "inappropriate remarks" on Internet, such as "Polygamy and lifetime allowance policy should be practiced for university teachers as a method to keep them active'.<br><img style src="https://pbs.twimg.com/media/E3sDq_4VoAQANWG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3sDsUmVUAU-6jp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3sDt1UUYAU5k6m?format=png&name=orig" referrerpolicy="no-referrer">
 

@@ -71,3 +71,7 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 
 大陸警察進大學在大學教室和校園毆打學生抓捕學生。<br><video src="https://video.twimg.com/ext_tw_video/1403382545681690624/pu/vid/784x720/tOg5j8CDqgeg86xT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403382545681690624/pu/img/zn564HwJorZg8UVW.jpg"></video>
 
+### 15: [2021-06-12 23:46:34+08:00 推文](https://twitter.com/realcaixia/status/1403740519495311367)
+
+這個發言令人感動令人振奮。爭取民主自由的事業後繼有人！<br><br>婉清: 六.四反共后继有人！👍 <br>  98后女孩令共匪肝胆俱裂的演讲！🌹<br><br><video src="https://video.twimg.com/ext_tw_video/1403242390278660100/pu/vid/1280x720/wWRMw_n6HmcUL2vK.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403242390278660100/pu/img/zDANsCxVNJbHNoTg.jpg"></video>
+
