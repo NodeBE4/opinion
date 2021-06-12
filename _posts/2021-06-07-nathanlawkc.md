@@ -39,3 +39,7 @@ Films need to be loyal to the CCP in Hong Kong. How ridiculous could the authori
 
 Thanks @SKinnock! Always proud to have you standing with Hong Kong.<br><br>Stephen Kinnock: It was an honour for me to address #StandUpForHongKong rally today, on the 2nd anniversary of the 12.6.19 march - the largest in Hong Kong’s history. Beijing’s brutal crackdown in HK is a scar on the conscience of democracy. HK needs the free world, and the free world needs HK!<br><br><video src="https://video.twimg.com/ext_tw_video/1403702586646085642/pu/vid/480x848/_pzRr__Xks3E3UXF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403702586646085642/pu/img/CMtaL1PMebMWSfIR.jpg"></video>
 
+### 7: [2021-06-13 05:06:17+08:00 推文](https://twitter.com/nathanlawkc/status/1403820978610839552)
+
+The voices of HKers are everywhere. We need to hold the Chinese Communist Party accountable for its human rights violations. We need to preserve our culture, identity, and universal values as they are the most powerful weapons against tyrannies.<br>#StandWithHongKong<br><img style src="https://pbs.twimg.com/media/E3tfp8MXoA84Cte?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3tftWEX0AIsEAc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E3tfuWCX0AI3QhE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
