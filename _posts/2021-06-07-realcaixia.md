@@ -83,3 +83,7 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 
 孩子彈的琴聲越聽越酸楚，小小年紀就在承受著不該他承受的沉重壓力。<br><br>Chen Zijuan(常玮平律师的妻子): 4月14日是 #常玮平的生日！谢谢有朋友送来了蛋糕🎂！不知道 玮平现在是不是知道日期？是不是知道今天是他生日？不管怎样，希望他身体、精神健康。——小孩子就是不愿意弹生日快乐那一首。<br><br><video src="https://video.twimg.com/ext_tw_video/1382353142940008451/pu/vid/1280x720/5J7Mw4eVq1zmbFuM.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1382353142940008451/pu/img/ZaWozhnnywPUf1X5.jpg"></video>
 
+### 18: [2021-06-13 23:39:41+08:00 推文](https://twitter.com/realcaixia/status/1404101173280399370)
+
+鲁难说得好，拜登总统在G7新闻记者会上，被记者提问到的大部分问题是病毒溯源和疫情防治问题。这个问题成了世界政治的重要问题之一。<br><br>鲁  难: 周五在明镜的讨论中，我认为病毒溯源是G7峰会一个关键看点，何频先生不同意。现在看来，七国集团的公报走的更远，标志着一个世界性的潮流正在确立。青山遮不住 ，毕竟江流去。<br> <a href="https://twitter.com/rfi_tradcn/status/1404085688518148096" target="_blank" rel="noopener noreferrer">https://twitter.com/rfi_tradcn/status/1404085688518148096</a>
+
