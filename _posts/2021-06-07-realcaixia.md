@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-12
+date: 2021-06-13
 from: https://twitter.com/realcaixia/status/1401877044242358273
 layout: post
 tags:
@@ -74,4 +74,12 @@ title: 'Twitter @蔡霞: 2021-06-07~2021-06-13'
 ### 15: [2021-06-12 23:46:34+08:00 推文](https://twitter.com/realcaixia/status/1403740519495311367)
 
 這個發言令人感動令人振奮。爭取民主自由的事業後繼有人！<br><br>婉清: 六.四反共后继有人！👍 <br>  98后女孩令共匪肝胆俱裂的演讲！🌹<br><br><video src="https://video.twimg.com/ext_tw_video/1403242390278660100/pu/vid/1280x720/wWRMw_n6HmcUL2vK.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403242390278660100/pu/img/zDANsCxVNJbHNoTg.jpg"></video>
+
+### 16: [2021-06-13 06:45:31+08:00 推文](https://twitter.com/realcaixia/status/1403845952180527104)
+
+709律師的夫人義正詞嚴地譴責警方。中共國無法律正義，只有警察暴力維持極權秩序。<br><br>原珊珊（谢燕益妻子）: 谢燕益今日在吉林四平居住地被警察破门抓走，兴师动众押解回京，押到我家小区门口又被带走扔在北京密云派出所门口，我已经把他接回家来……<br><br><video src="https://video.twimg.com/ext_tw_video/1403762949089464322/pu/vid/1280x720/kyHfjfe_4eO8pumz.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1403762949089464322/pu/img/sqzMmLrQu9y-uEEH.jpg"></video>
+
+### 17: [2021-06-13 07:01:59+08:00 推文](https://twitter.com/realcaixia/status/1403850094034796551)
+
+孩子彈的琴聲越聽越酸楚，小小年紀就在承受著不該他承受的沉重壓力。<br><br>Chen Zijuan(常玮平律师的妻子): 4月14日是 #常玮平的生日！谢谢有朋友送来了蛋糕🎂！不知道 玮平现在是不是知道日期？是不是知道今天是他生日？不管怎样，希望他身体、精神健康。——小孩子就是不愿意弹生日快乐那一首。<br><br><video src="https://video.twimg.com/ext_tw_video/1382353142940008451/pu/vid/1280x720/5J7Mw4eVq1zmbFuM.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1382353142940008451/pu/img/ZaWozhnnywPUf1X5.jpg"></video>
 
