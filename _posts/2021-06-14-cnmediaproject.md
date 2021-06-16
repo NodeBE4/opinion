@@ -27,3 +27,7 @@ RT Caixin Global<br>A gas explosion in Central China has left at least 12 peop
 
 In an article topping the latest edition of the official journal Seeking Truth, Xi Jinping remarks on the importance of history. More important, however, is how China's leader understands the concept of history. <a href="https://chinamediaproject.org/2021/06/16/controlling-the-mirrors-reflection/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/16/controlling-the-mirrors-reflection/</a><br><img style src="https://pbs.twimg.com/media/E3_Z7frX0AAuiiW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2021-06-16 19:30:44+08:00 推文](https://twitter.com/cnmediaproject/status/1405125688462610435)
+
+In an article topping the latest edition of the official journal Seeking Truth, Xi Jinping argues that history is a valuable teacher, a mirror and a source of sustenance. But what does the Chinese Communist Party mean today when it talks about history? <a href="https://chinamediaproject.org/2021/06/16/controlling-the-mirrors-reflection/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/16/controlling-the-mirrors-reflection/</a><br><img style src="https://pbs.twimg.com/media/E4ACTbcUcAQNiqZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
