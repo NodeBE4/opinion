@@ -27,3 +27,15 @@ title: 'Twitter @蔡霞: 2021-06-14~2021-06-20'
 
 如果消息属实，那就是国门关闭，回到1976年前。中共党内官员有多少人把夫人孩子送到美国欧洲澳洲了，这帮官员将是什么想法？还会允许中国孩子出国留学吗？人为地制造大规模的骨肉分离，国人会接受吗？<br><br>Frank Tian Xie (謝田), Ph.D.: 群友消息：今天有一朋友来我家，说他们单位开会传达新文件：1.   不容许任何人买特斯拉汽车。2.   不容许国人再到美、加、德、法、英、意大利、澳洲等国旅游和探亲。还有特斯拉“不让进院”，就是说，你只要是在这种国家机关，或这个政府部门儿，或这个军事院校和军队，都不允许用特斯拉了。<br>
 
+### 4: [2021-06-17 11:53:17+08:00 推文](https://twitter.com/realcaixia/status/1405372952225497090)
+
+中共极权统治70多年来实行党禁报禁，又将大陆做法搬到香港，企图彻底剿灭民间报纸，剿灭反抗极权暴政的正义人士。他们再次突袭搜查苹果日报，拘押报社高管，强行爆门民宅，抓走苹果日报副社长陈沛敏女士。应与陈沛敏所写凛然正气的告读者信有关。极权统治者愈是惊恐，便愈分外凶狠，香港进入最黑暗时期<br><br>Apple Daily HK 蘋果日報: Hong Kong police raid Apple Daily, arrest executives under national security law<br><br>Read: <br><br>#AppleDailyENG #NationalSecurityLaw<br> <a href="https://bit.ly/3xrLt4d" target="_blank" rel="noopener noreferrer">https://bit.ly/3xrLt4d</a>
+
+### 5: [2021-06-17 11:54:20+08:00 推文](https://twitter.com/realcaixia/status/1405373218743996418)
+
+请看陈沛敏所写告读者信。<br><br>Xinqi Su 蘇昕琪: In a letter to readers sent out yesterday, @appledaily_hk chief editor Ryan Law answered the question “is #NSL the greatest crisis for Apple” with a quote from #JimmyLai, “when the times crumble apart, it’s time for us to stand tall.”<br><br><img style src="https://pbs.twimg.com/media/E4DS4_1WEAAm2sq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4DS4_yXIAkJaok?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4DS4_fVoAMWaM0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4DS4_XUYAQ1iop?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-06-17 11:59:40+08:00 推文](https://twitter.com/realcaixia/status/1405374558694109188)
+
+勇敢的香港女士，不屈的香港民众！<br><br>MrX: 悼念梁凌杰｜女手足一人擋在最前線<br><br>報道：<br><br><video src="https://video.twimg.com/ext_tw_video/1405028314301960194/pu/vid/640x480/IKAavcCFZG4alaHq.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1405028314301960194/pu/img/R7IA1ycKbE3Tmryf.jpg"></video> <a href="https://fb.watch/690ynDF4tj/" target="_blank" rel="noopener noreferrer">https://fb.watch/690ynDF4tj/</a>
+
