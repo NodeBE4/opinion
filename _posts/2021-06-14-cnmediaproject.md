@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-16
+date: 2021-06-17
 from: https://twitter.com/limlouisa/status/1404255590734438402
 layout: post
 tags:
@@ -30,4 +30,8 @@ In an article topping the latest edition of the official journal Seeking Truth, 
 ### 4: [2021-06-16 19:30:44+08:00 推文](https://twitter.com/cnmediaproject/status/1405125688462610435)
 
 In an article topping the latest edition of the official journal Seeking Truth, Xi Jinping argues that history is a valuable teacher, a mirror and a source of sustenance. But what does the Chinese Communist Party mean today when it talks about history? <a href="https://chinamediaproject.org/2021/06/16/controlling-the-mirrors-reflection/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/16/controlling-the-mirrors-reflection/</a><br><img style src="https://pbs.twimg.com/media/E4ACTbcUcAQNiqZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-06-17 21:08:46+08:00 推文](https://twitter.com/schoenmakersk/status/1405512745382862850)
+
+RT Kevin Schoenmakers 宋楷文<br>Sad news reported by 澎湃 today: Just four months after finally finding her family, Dezliangz has lost her mother. They only met once after not knowing each other's whereabouts for 35 years.<br><br>Kevin Schoenmakers 宋楷文: This is just a wonderful, bittersweet story. How a Bouyei woman, trafficked across China 35 years ago and forced into marriage, found her home. Hard of hearing, she never learned Mandarin. This year, someone recognized her language and a search began.<br> <a href="http://www.sixthtone.com/news/1006492/a-woman-called-hey" target="_blank" rel="noopener noreferrer">http://www.sixthtone.com/news/1006492/a-woman-called-hey</a>
 

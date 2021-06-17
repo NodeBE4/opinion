@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-15
+date: 2021-06-17
 from: https://twitter.com/SpeechFreedomCN/status/1404300533469380612
 layout: post
 tags:
@@ -26,4 +26,16 @@ Earlier this year, a police officer in Guangdong Province was spotted publicly c
 ### 3: [2021-06-15 16:22:29+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1404715926105198593)
 
 经鉴定，刚才所发的刘思桐的行政处罚决定书极有可能是伪造的，故删除。<br>文书编号开头为“京公东”，是北京市公安局东城分局的代码，而标题里的处罚机关是双榆树派出所，为海淀分局所属，文书内也有多处笔误和疑点。<br>但文书所指的翻墙被罚这类事件是确实存在。
+
+### 4: [2021-06-17 16:58:58+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1405449880739336193)
+
+广东疫情近日有所反弹，当地政府于是拿出了中共的看家绝技：解决提出问题的人。汕头政府近日连发三篇通告，说其抓捕了几名散步有关疫情谣言的民众。被处罚的三人均是因未经核实转发了“疫情谣言”，但在中国法律中，误信谣言并转发是不违法的，只有主动编造或明知虚假还故意传播谣言才违法。<br><img style src="https://pbs.twimg.com/media/E4EoRcyVUAAL9ql?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4EoSrTVUA0-hIo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4EoTy1UYAc7Acx?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-06-17 17:03:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1405450990736711684)
+
+Police in Shantou city recently arrested at 3 civilians for spreading "rumors" related the pandemic that's hitting the city. All three were arrested for forwarding "rumors" without verifying truthfulness, which however is even legal in China.<br><img style src="https://pbs.twimg.com/media/E4EpUw4UYAY9PAj?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4EpV7cVkAA13U3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4EpWtqUYAAqHx6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-06-17 18:31:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1405473133553848320)
+
+与言论审查有关的趣闻：去年11月，沈阳男子刘福超到派出所申请改名，改为“刘霸道”，原因是他很喜欢丰田霸道这款汽车。不过，派出所拒绝了他的申请，理由是丰田霸道曾经涉嫌辱华，因此以喜欢丰田霸道为由的改名不符合社会良俗。<br><img style src="https://pbs.twimg.com/media/E4E93mBVoAslYDG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4E94p_VkAEumX9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4E96LYVoAEzCTX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
