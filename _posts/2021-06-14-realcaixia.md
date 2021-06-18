@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-17
+date: 2021-06-18
 from: https://twitter.com/realcaixia/status/1404107827380109315
 layout: post
 tags:
@@ -38,4 +38,12 @@ title: 'Twitter @蔡霞: 2021-06-14~2021-06-20'
 ### 6: [2021-06-17 11:59:40+08:00 推文](https://twitter.com/realcaixia/status/1405374558694109188)
 
 勇敢的香港女士，不屈的香港民众！<br><br>MrX: 悼念梁凌杰｜女手足一人擋在最前線<br><br>報道：<br><br><video src="https://video.twimg.com/ext_tw_video/1405028314301960194/pu/vid/640x480/IKAavcCFZG4alaHq.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1405028314301960194/pu/img/R7IA1ycKbE3Tmryf.jpg"></video> <a href="https://fb.watch/690ynDF4tj/" target="_blank" rel="noopener noreferrer">https://fb.watch/690ynDF4tj/</a>
+
+### 7: [2021-06-18 11:49:19+08:00 推文](https://twitter.com/realcaixia/status/1405734342526132226)
+
+北京极权当局与港府林郑警方下狠手镇压苹果日报，将黎智英重判入狱，6月16日又突袭搜查苹果日报编辑部，拘押报社5位高管，抓走副社长陈沛敏，冻结苹果日报资金，以此想恐吓香港民众。但是，请看下面这告示！这就是天道人心！<br><img style src="https://pbs.twimg.com/media/E4Ir7hLXoAQih2O?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-18 11:54:19+08:00 推文](https://twitter.com/realcaixia/status/1405735601123434502)
+
+有趣！极权谎言处处欺骗，却被处处打脸。<br><img style src="https://pbs.twimg.com/media/E4ItE8jX0AAsiQU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
