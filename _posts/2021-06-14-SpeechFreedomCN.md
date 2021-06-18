@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-17
+date: 2021-06-18
 from: https://twitter.com/SpeechFreedomCN/status/1404300533469380612
 layout: post
 tags:
@@ -38,4 +38,12 @@ Police in Shantou city recently arrested at 3 civilians for spreading "rumors" r
 ### 6: [2021-06-17 18:31:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1405473133553848320)
 
 与言论审查有关的趣闻：去年11月，沈阳男子刘福超到派出所申请改名，改为“刘霸道”，原因是他很喜欢丰田霸道这款汽车。不过，派出所拒绝了他的申请，理由是丰田霸道曾经涉嫌辱华，因此以喜欢丰田霸道为由的改名不符合社会良俗。<br><img style src="https://pbs.twimg.com/media/E4E93mBVoAslYDG?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4E94p_VkAEumX9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4E96LYVoAEzCTX?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-06-18 15:52:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1405795428000407556)
+
+拉萨女子陈某，因在某社交网站上发表交警罚单的照片，以及言论“尼玛的，你们到底是有多缺钱“，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/E4JjD69VgAsrb9R?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4JjFz1VEAI6hSg?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-18 15:54:50+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1405796128700854273)
+
+Lhasa woman Chen, who just got a ticket from traffic police, detained for 5 days for saying on Internet that local police were "thirsty for money".<br><img style src="https://pbs.twimg.com/media/E4JjhaIUcAUmNFb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4Jjh1tVEAIr4wR?format=png&name=orig" referrerpolicy="no-referrer">
 
