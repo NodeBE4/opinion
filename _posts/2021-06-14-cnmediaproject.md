@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-18
+date: 2021-06-19
 from: https://twitter.com/limlouisa/status/1404255590734438402
 layout: post
 tags:
@@ -46,4 +46,8 @@ RT Amy Qin 秦颖<br>Compared w/the US, where officials have tried to boost in
 ### 8: [2021-06-18 17:55:20+08:00 推文](https://twitter.com/jonlsullivan/status/1405826453133008897)
 
 RT Jonathan Sullivan<br>At a PHD conference today, and I know there are some nervous first-timers. From a former phd-er who suffered terrible anxiety, know that these things never go as flawlessly as your perfectionist self would want, but also never as badly as your anxious inner voice tells you
+
+### 9: [2021-06-19 14:05:56+08:00 推文](https://twitter.com/chenchenzh/status/1406131110686375936)
+
+RT Chenchen Zhang🤦🏻‍♀️<br>养蛊反噬 that's what happens when you spend years selling and living off the popular consumption of jingoism<br><br>Bill Birtles: Writers at the Global Times are often  viewed abroad as jingoistic nationalists… but within China they’re increasingly fighting off online attacks from the new ‘red guards’ - aggressive ‘populist’ nationalists who are thriving in the Xi era:<br> <a href="https://www.abc.net.au/news/2021-06-19/cancel-culture-comes-to-chinas-global-times-tabloid/100220756" target="_blank" rel="noopener noreferrer">https://www.abc.net.au/news/2021-06-19/cancel-culture-comes-to-chinas-global-times-tabloid/100220756</a>
 
