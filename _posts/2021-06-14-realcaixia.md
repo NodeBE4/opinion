@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-18
+date: 2021-06-20
 from: https://twitter.com/realcaixia/status/1404107827380109315
 layout: post
 tags:
@@ -46,4 +46,8 @@ title: 'Twitter @蔡霞: 2021-06-14~2021-06-20'
 ### 8: [2021-06-18 11:54:19+08:00 推文](https://twitter.com/realcaixia/status/1405735601123434502)
 
 有趣！极权谎言处处欺骗，却被处处打脸。<br><img style src="https://pbs.twimg.com/media/E4ItE8jX0AAsiQU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-06-20 23:36:51+08:00 推文](https://twitter.com/realcaixia/status/1406637175890980869)
+
+有趣。軍警憲特一起出動，明著嚇唬民眾，暗著監視異見人士，連朝陽大媽都出動了。中共当局不妨反问一下他们自己：他们將民眾視為可能的危險敵對分子，那么他们自己是什么？<br><br>韩连潮: 北京市崇文门大街上的景象。几十条狗加几十個警察巡視，這是中共迎接100周年“庆生日”的准备。很鲜明地反应出中共与民众的真实关系，表现出中共内心的深深恐惧。北京朋友说郊区住宅小区里“朝阳大妈”戴着红袖套，在小区里的路口“上岗”放哨了。“朝阳大妈”们说：“这是保卫党中央”。<br><br><video src="https://video.twimg.com/ext_tw_video/1406615545227710476/pu/vid/1044x720/5PlNXrUgmda15Tq-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1406615545227710476/pu/img/GKTXLGhdR5PwIydT.jpg"></video>
 
