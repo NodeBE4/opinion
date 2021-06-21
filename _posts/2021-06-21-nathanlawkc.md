@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-21
+date: 2021-06-22
 from: https://twitter.com/nathanlawkc/status/1406943129991888900
 layout: post
 tags:
@@ -22,4 +22,8 @@ Thank you so much @jaynordlinger  for doing this in-depth podcast with me. We've
 ### 2: [2021-06-21 21:10:22+08:00 推文](https://twitter.com/nathanlawkc/status/1406962699066613764)
 
 This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is forced to close, and its owner and directors face Nationa Security Law charges. <br>Press freedom is gone.<br><br>Hong Kong’s Apple Daily could shut at weekend unless accounts are unblocked <a href="https://www.theguardian.com/world/2021/jun/21/hong-kong-apple-daily-newspaper-crisis-talks-avert-shutdown-advisor-says" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2021/jun/21/hong-kong-apple-daily-newspaper-crisis-talks-avert-shutdown-advisor-says</a>
+
+### 3: [2021-06-22 05:44:36+08:00 推文](https://twitter.com/nathanlawkc/status/1407092112303267842)
+
+"The high commissioner criticized the application of China’s National Security Law in Hong Kong. She noted this was having a chilling impact on the territory’s civic and democratic space. "<br>@mbachelet <a href="https://www.voanews.com/europe/bachelet-poverty-inequality-injustice-eroding-human-rights-worldwide" target="_blank" rel="noopener noreferrer">https://www.voanews.com/europe/bachelet-poverty-inequality-injustice-eroding-human-rights-worldwide</a>
 
