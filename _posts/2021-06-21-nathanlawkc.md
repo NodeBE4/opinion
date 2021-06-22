@@ -27,3 +27,7 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 
 "The high commissioner criticized the application of China’s National Security Law in Hong Kong. She noted this was having a chilling impact on the territory’s civic and democratic space. "<br>@mbachelet <a href="https://www.voanews.com/europe/bachelet-poverty-inequality-injustice-eroding-human-rights-worldwide" target="_blank" rel="noopener noreferrer">https://www.voanews.com/europe/bachelet-poverty-inequality-injustice-eroding-human-rights-worldwide</a>
 
+### 4: [2021-06-22 23:34:01+08:00 推文](https://twitter.com/nathanlawkc/status/1407361236845699074)
+
+"Help from the international community is also needed — there is too much at stake in Hong Kong for the rest of the world to turn a blind eye. "<br><br>Beijing's battle to crush Hong Kong's final freedoms <a href="https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms</a>
+

@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-22
+date: 2021-06-23
 from: https://twitter.com/keithrichburg/status/1406817755282563074
 layout: post
 tags:
@@ -38,4 +38,8 @@ RT Emily Feng 冯哲芸<br>Pro-tip: play sports with your interviewees beforeh
 ### 6: [2021-06-22 18:18:29+08:00 推文](https://twitter.com/cnmediaproject/status/1407281831054041088)
 
 A recent speech by the head of China Media Group, the super-conglomerate directly under the CCP, suggests China is gearing up to further refine its external communication strategy. But can calls for "innovation" break free of one-size-fits-all thinking? <a href="https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/</a><br><img style src="https://pbs.twimg.com/media/E4erVlSWEAAGtcD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-06-23 00:17:27+08:00 推文](https://twitter.com/cnmediaproject/status/1407372168267190277)
+
+The CCP wants to reach younger media consumers globally, designing external propaganda for the next decade. That means China’s external messaging, even as it strictly adheres to political ‘red lines,’ must learn to be youthful and viral. <a href="https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/</a><br><img style src="https://pbs.twimg.com/media/E4f9g4rXEAEzClZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
