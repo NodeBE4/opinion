@@ -31,3 +31,7 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 
 香港彻迅速内地化。中共在大陆70多年实行党禁报禁，剥夺民众所有公民权利。在香港从实行港版国安法起，就事实上禁止结党结社集会；抓黎智英抓苹果日报高管层，就是用国家暴力公开赤裸裸蛮横实行报禁。在全球众目睽睽之下，中共毫不遮掩地残暴剥夺香港民众的所有公民权利。中共自己撕掉了一切伪装。<br><img style src="https://pbs.twimg.com/media/E4geSyXXIAA_M4O?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4geTKdX0AgeBnJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4geTkBXwAIvNwd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2021-06-23 05:43:15+08:00 推文](https://twitter.com/realcaixia/status/1407454158416973824)
+
+青年躺平的实质是制度不公平促使青年人产生绝望感。青年的绝望感预告了中共国制度走到了尽头。<br><br>ZHANGDONG: 国家在做梦，人民却躺平。从直立到躺平，仅用了不到10年的时间，一代青年就完成了退化进程。<br><br><img style src="https://pbs.twimg.com/media/E33MNlRWUAAgg_s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E33MNz_X0AsrWNX?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.voachinese.com/amp/people-lie-flat-but-the-country-is-still-dreaming-a-warning-sign-of-CCP-20210611/5925034.html?__twitter_impression=true" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/amp/people-lie-flat-but-the-country-is-still-dreaming-a-warning-sign-of-CCP-20210611/5925034.html?__twitter_impression=true</a>
+
