@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-22
+date: 2021-06-23
 from: https://twitter.com/realcaixia/status/1406768792550752259
 layout: post
 tags:
@@ -26,4 +26,8 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 ### 3: [2021-06-22 12:05:50+08:00 推文](https://twitter.com/realcaixia/status/1407188050979999748)
 
 中共纪念成立90周年时，各单位组织员工观看电影故事片《建党伟业”》、宣讲党课进行革命传统教育。然而，中共当局一面高调宣传革命、建党；一面严厉打压劳工维权。于是“神评论”传遍微信群：“讲革命传统禁止革命；看《建党伟业》不许建党！”<br>如此“精神分裂”乃一大奇观，十年后的今天更是有过之而无不及。<br><br>荣剑: 两难境地，一方面担心年轻人忘记党史，要对他们进行党史教育，拍电影展示《觉醒年代》和《建党伟业》；另一方面又担心年轻人看样学样，真的觉醒，真的建党，那效果岂不是适得其反?给年轻人洗脑不轻松，怎么把故事编得更圆一些，告诉他们，以前可以觉醒可以建党，现在不行了，这个工作有点难。要加油！<br><br><img style src="https://pbs.twimg.com/media/E4b0lduXoAcKuAH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-06-23 02:40:40+08:00 推文](https://twitter.com/realcaixia/status/1407408211838312460)
+
+香港彻迅速内地化。中共在大陆70多年实行党禁报禁，剥夺民众所有公民权利。在香港从实行港版国安法起，就事实上禁止结党结社集会；抓黎智英抓苹果日报高管层，就是用国家暴力公开赤裸裸蛮横实行报禁。在全球众目睽睽之下，中共毫不遮掩地残暴剥夺香港民众的所有公民权利。中共自己撕掉了一切伪装。<br><img style src="https://pbs.twimg.com/media/E4geSyXXIAA_M4O?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4geTKdX0AgeBnJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4geTkBXwAIvNwd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
