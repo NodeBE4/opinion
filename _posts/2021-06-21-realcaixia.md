@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-21
+date: 2021-06-22
 from: https://twitter.com/realcaixia/status/1406768792550752259
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 ### 2: [2021-06-21 23:13:32+08:00 推文](https://twitter.com/realcaixia/status/1406993697946882056)
 
 2016年夏，中共极权当局强夺炎黄春秋杂志。他们强占杂志社后，想欺骗20万订阅者，盗用编委会成员名字依旧刊于杂志扉页上。我们公开声明抗议，决不当被强夺后的伪炎黄春秋杂志编委，并特聘请丁家喜律师做代理，状告中共文化研究院，北京法院不受理。而今丁律师再次被迫害拘捕。声援丁律师和罗胜春女士。<br><br>Luo Shengchun丁家喜律师妻子: #丁家喜被批捕一周年 从2019年12月26日，家喜被烟台警方从北京的朋友家中带走，至今已经整18个月了。回顾梳理一下18个月里发生的一切，有痛苦，有忧愁，有感动，有喜悦！感谢朋友们的陪伴，鼓励和支持！无论前路多么漫长，多么凶险，坚信自由、公义和爱必将战胜极权和邪恶！期盼家喜早日回家！<br><br><img style src="https://pbs.twimg.com/media/E4Xl6DQWYAEk_7J?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4Xl6DQXIAUaVHd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4Xl6DcWYAEBWam?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4Xl6HlXoAQFA18?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-06-22 12:05:50+08:00 推文](https://twitter.com/realcaixia/status/1407188050979999748)
+
+中共纪念成立90周年时，各单位组织员工观看电影故事片《建党伟业”》、宣讲党课进行革命传统教育。然而，中共当局一面高调宣传革命、建党；一面严厉打压劳工维权。于是“神评论”传遍微信群：“讲革命传统禁止革命；看《建党伟业》不许建党！”<br>如此“精神分裂”乃一大奇观，十年后的今天更是有过之而无不及。<br><br>荣剑: 两难境地，一方面担心年轻人忘记党史，要对他们进行党史教育，拍电影展示《觉醒年代》和《建党伟业》；另一方面又担心年轻人看样学样，真的觉醒，真的建党，那效果岂不是适得其反?给年轻人洗脑不轻松，怎么把故事编得更圆一些，告诉他们，以前可以觉醒可以建党，现在不行了，这个工作有点难。要加油！<br><br><img style src="https://pbs.twimg.com/media/E4b0lduXoAcKuAH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
