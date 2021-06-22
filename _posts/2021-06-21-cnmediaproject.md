@@ -35,3 +35,7 @@ RT StellaHongZhang<br>I may be stating the obvious but there is a stubborn vie
 
 RT Emily Feng 冯哲芸<br>Pro-tip: play sports with your interviewees beforehand to soften them up (@NPR producer @Amy_23_Cheng below, working the hutongs)<br><img style src="https://pbs.twimg.com/media/E4duG9uVcAIOVFP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 6: [2021-06-22 18:18:29+08:00 推文](https://twitter.com/cnmediaproject/status/1407281831054041088)
+
+A recent speech by the head of China Media Group, the super-conglomerate directly under the CCP, suggests China is gearing up to further refine its external communication strategy. But can calls for "innovation" break free of one-size-fits-all thinking? <a href="https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/</a><br><img style src="https://pbs.twimg.com/media/E4erVlSWEAAGtcD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
