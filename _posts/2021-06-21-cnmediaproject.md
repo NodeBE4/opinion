@@ -43,3 +43,7 @@ A recent speech by the head of China Media Group, the super-conglomerate directl
 
 The CCP wants to reach younger media consumers globally, designing external propaganda for the next decade. That means China’s external messaging, even as it strictly adheres to political ‘red lines,’ must learn to be youthful and viral. <a href="https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/</a><br><img style src="https://pbs.twimg.com/media/E4f9g4rXEAEzClZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 8: [2021-06-23 06:50:38+08:00 推文](https://twitter.com/stevenleemyers/status/1407471118517039104)
+
+RT Steven Lee Myers<br>China's "vaccine diplomacy" is taking a beating as countries that relied on Chinese vaccines are now experiencing new outbreaks. @suilee <a href="https://www.nytimes.com/2021/06/22/business/economy/china-vaccines-covid-outbreak.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/06/22/business/economy/china-vaccines-covid-outbreak.html</a>
+
