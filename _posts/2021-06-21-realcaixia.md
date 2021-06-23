@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-23
+date: 2021-06-24
 from: https://twitter.com/realcaixia/status/1406768792550752259
 layout: post
 tags:
@@ -42,4 +42,12 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 ### 7: [2021-06-23 21:56:55+08:00 推文](https://twitter.com/realcaixia/status/1407699190516420608)
 
 <br><br>自由亚洲电台: 【中共党员”告解室”面世】<br>为了庆祝 “建党一百周年” ，中国各地政府和机构都搅尽脑汁，为的是向中央表忠。<br>有人发明了类似圣堂的告解室，在房间里向党说出心底话，但实际上是对着摄像头说的。<br>#1984<br>#中共<br>#党庆<br>#荒唐<br><br><video src="https://video.twimg.com/ext_tw_video/1402885649280077827/pu/vid/720x720/c0VPHEfME12l3LJk.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1402885649280077827/pu/img/iNxW6YfBlay16W5c.jpg"></video>
+
+### 8: [2021-06-24 01:51:48+08:00 推文](https://twitter.com/realcaixia/status/1407758301455073284)
+
+看这几幅图片，读香港中文大学周保松教授的短文，悲愤亦悲壮。中共极权暴政可以杀灭苹果日报，但绝不可能摧毁不屈的香港人的抗争精神！<br><img style src="https://pbs.twimg.com/media/E4lcsM_WYAYcyZT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lcsdHXEAwemi8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lcs-WXEAkJcnT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lctW3WQA0skJ3?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-06-24 02:06:09+08:00 推文](https://twitter.com/realcaixia/status/1407761912163704832)
+
+自由繁荣的香港，坚强不屈的700万香港民众，抗争到最后一刻的苹果日报……，自1997年以来香港人的捍卫独立自由，捍卫公民权利，捍卫人格尊严的英勇抗争，所有的所有，永远铭记在我们的心中………。<br><img style src="https://pbs.twimg.com/media/E4lf-xzXMAc4Yzs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lf_GjWYAQNkDd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lf_ZDXoAAMkyz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lf_ogWYAgDzg5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
