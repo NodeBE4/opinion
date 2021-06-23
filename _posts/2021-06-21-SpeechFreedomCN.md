@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-21
+date: 2021-06-23
 from: https://twitter.com/SpeechFreedomCN/status/1406907189365592066
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @中国文字狱事件盘点: 2021-06-21~2021-06-27'
 ### 2: [2021-06-21 17:34:33+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1406908387342782468)
 
 Jiangsu man Miao, who found local traffic police team was not working during working hours, shot a video of the scene and posted it on Douyin, in which he verbally cursed local police, which made him detained for 3 days.<br><img style src="https://pbs.twimg.com/media/E4ZXqNrVkAQ32kE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4ZXrqrUcAQWyMD?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-06-23 18:09:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1407642060031553536)
+
+陕西省旬阳县男子肖文斌，因在县政府网站、国家信访局网站及微信等网络场合“辱骂“当地县级和市级政府官员以及共产党，被判处有期徒刑八个月。<br><img style src="https://pbs.twimg.com/media/E4jyVwUVcAI52y2?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4jyW5WVUAAv3gm?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4jyYGDVcAE7ulk?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-06-23 18:12:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1407642807720812546)
+
+Shaanxi man Xiao Wenbin sentenced to 8 months in prison for posting remarks on government websites and WeChat that "insulted" local county and municipal government officials and the Communist Party.<br><img style src="https://pbs.twimg.com/media/E4jzJhKVoAw_9hI?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4jzKnKVgAAP6NI?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4jzMqNUYAk4Rhq?format=png&name=orig" referrerpolicy="no-referrer">
 
