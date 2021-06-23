@@ -35,3 +35,11 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 
 青年躺平的实质是制度不公平促使青年人产生绝望感。青年的绝望感预告了中共国制度走到了尽头。<br><br>ZHANGDONG: 国家在做梦，人民却躺平。从直立到躺平，仅用了不到10年的时间，一代青年就完成了退化进程。<br><br><img style src="https://pbs.twimg.com/media/E33MNlRWUAAgg_s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E33MNz_X0AsrWNX?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.voachinese.com/amp/people-lie-flat-but-the-country-is-still-dreaming-a-warning-sign-of-CCP-20210611/5925034.html?__twitter_impression=true" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/amp/people-lie-flat-but-the-country-is-still-dreaming-a-warning-sign-of-CCP-20210611/5925034.html?__twitter_impression=true</a>
 
+### 6: [2021-06-23 20:59:40+08:00 推文](https://twitter.com/realcaixia/status/1407684785171054594)
+
+建党百年前夕搬出叛党者遭灭门案件示警    蔡霞：山雨欲来 <a href="https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hx0623a-06232021075412.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/zhengzhi/hx0623a-06232021075412.html</a>
+
+### 7: [2021-06-23 21:56:55+08:00 推文](https://twitter.com/realcaixia/status/1407699190516420608)
+
+<br><br>自由亚洲电台: 【中共党员”告解室”面世】<br>为了庆祝 “建党一百周年” ，中国各地政府和机构都搅尽脑汁，为的是向中央表忠。<br>有人发明了类似圣堂的告解室，在房间里向党说出心底话，但实际上是对着摄像头说的。<br>#1984<br>#中共<br>#党庆<br>#荒唐<br><br><video src="https://video.twimg.com/ext_tw_video/1402885649280077827/pu/vid/720x720/c0VPHEfME12l3LJk.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1402885649280077827/pu/img/iNxW6YfBlay16W5c.jpg"></video>
+

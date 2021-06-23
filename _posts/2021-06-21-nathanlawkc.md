@@ -35,3 +35,27 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 
 This is one of the most disgusting attacks on press freedom. Apple Daily is murdered by the Chinese Communist Party because it supports democratic movement.<br><br>HK pro-democracy paper Apple Daily announces closure <a href="https://www.bbc.co.uk/news/world-asia-china-57578926" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-57578926</a>
 
+### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719163448156169)
+
+1. Most of you may not understand how dreadful the closure of Apple Daily means to Hong Kong. Not only to its journalistic landscape, but also to the people and the city itself. This is their last day. They are going to print 1 million copies tomorrow to commerate the fight.<br><img style src="https://pbs.twimg.com/media/E4k35ViXIAUu_Nc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-06-23 23:16:18+08:00 推文](https://twitter.com/nathanlawkc/status/1407719169458642948)
+
+Re 3. By arresting executives, journalists and freezing the asserts, the companies cannot pay their staffers, and staffers are afraid of being arrested. The paper with a history of 26 years is gone. The companies and the arresstees are not even trialed yet.<br><img style src="https://pbs.twimg.com/media/E4k4GR3XEAYSZjQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-06-23 23:16:19+08:00 推文](https://twitter.com/nathanlawkc/status/1407719173896146944)
+
+Re 4. Apple Daily is a popular newspaper. It ranked 3rd most credible newspaper in the latest poll by a university research institute. People supporting democracy support them as well. Apple daily is murdered by an authoritarian regime, with the latest weaponized legal state.<br><img style src="https://pbs.twimg.com/media/E4k4QgaWYAMfjh9?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-06-23 23:16:20+08:00 推文](https://twitter.com/nathanlawkc/status/1407719176098172931)
+
+Re 5. More than 1000 workers lost their jobs. A charity operated by Apple Daily that subsidizes underprivileged patients to pay for expensive patent drugs is also closed immediately. They lost all fundings. People lost more than a news channel that dares to speak differently.
+
+### 10: [2021-06-23 23:16:21+08:00 推文](https://twitter.com/nathanlawkc/status/1407719179768246278)
+
+Re 6. Supporters vowed their support to the paper outside its building on its last day. It's a heartbreaking scene, and the govt singlehanded created this tragedy. CCP does not tolerate truth and independent journalism. They crush our civil society, our proud tradition.<br><img style src="https://pbs.twimg.com/media/E4k3QLaXMAI7yjJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-06-23 23:17:16+08:00 推文](https://twitter.com/nathanlawkc/status/1407719412283674638)
+
+Re 7. We are saddened, but we won't give up. I will continue the work in the diasporic community, with supporting more on reporting on the ground and preserving its culture. Hope all of you are also supporting the struggles of Hong Kong people as well. <br>#StandWithHongKong <br>-END<br><img style src="https://pbs.twimg.com/media/E4k5VxiXEAYv9hk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
