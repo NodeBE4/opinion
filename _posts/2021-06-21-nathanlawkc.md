@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-22
+date: 2021-06-23
 from: https://twitter.com/nathanlawkc/status/1406943129991888900
 layout: post
 tags:
@@ -30,4 +30,8 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 ### 4: [2021-06-22 23:34:01+08:00 推文](https://twitter.com/nathanlawkc/status/1407361236845699074)
 
 "Help from the international community is also needed — there is too much at stake in Hong Kong for the rest of the world to turn a blind eye. "<br><br>Beijing's battle to crush Hong Kong's final freedoms <a href="https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms</a>
+
+### 5: [2021-06-23 15:23:24+08:00 推文](https://twitter.com/nathanlawkc/status/1407600158246846465)
+
+This is one of the most disgusting attacks on press freedom. Apple Daily is murdered by the Chinese Communist Party because it supports democratic movement.<br><br>HK pro-democracy paper Apple Daily announces closure <a href="https://www.bbc.co.uk/news/world-asia-china-57578926" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-57578926</a>
 
