@@ -47,3 +47,15 @@ The CCP wants to reach younger media consumers globally, designing external prop
 
 RT Steven Lee Myers<br>China's "vaccine diplomacy" is taking a beating as countries that relied on Chinese vaccines are now experiencing new outbreaks. @suilee <a href="https://www.nytimes.com/2021/06/22/business/economy/china-vaccines-covid-outbreak.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/06/22/business/economy/china-vaccines-covid-outbreak.html</a>
 
+### 9: [2021-06-23 14:11:15+08:00 推文](https://twitter.com/cnmediaproject/status/1407582002543484934)
+
+Influencers, Activists and Diplomats: China Media Group chief Shen Haixiong on China's grand strategy to win hearts and minds around the world. <a href="https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/22/influencers-activists-and-diplomats/</a><br><img style src="https://pbs.twimg.com/media/E4i8UkuXEAUGuzi?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-06-23 15:31:23+08:00 推文](https://twitter.com/cnmediaproject/status/1407602167196925952)
+
+China's Central Propaganda Department, along with the CAC and Ministry of Education, has announced the creation of 200 public accounts to help further the goal of "ideological and political work" in the country's universities. We have the full list. <a href="https://chinamediaproject.org/2021/06/23/putting-the-party-at-the-center-of-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/23/putting-the-party-at-the-center-of-education/</a><br><img style src="https://pbs.twimg.com/media/E4jOo8qWQAAj3_2?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-06-23 16:40:33+08:00 推文](https://twitter.com/tianyuf/status/1407619573042401280)
+
+RT Tianyu M. Fang<br>Wrote about one of China's few state-sponsored subculture communities, Esperanto. Imported from anarchist circles, it became a revolutionary project for post-Qing modernizers and anti-imperialists, before becoming the PRC's int'l propaganda vehicle: <a href="https://radiichina.com/esperanto-subculture/" target="_blank" rel="noopener noreferrer">https://radiichina.com/esperanto-subculture/</a>
+
