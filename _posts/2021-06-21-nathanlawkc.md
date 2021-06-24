@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-24
+date: 2021-06-25
 from: https://twitter.com/nathanlawkc/status/1406943129991888900
 layout: post
 tags:
@@ -35,9 +35,9 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 
 This is one of the most disgusting attacks on press freedom. Apple Daily is murdered by the Chinese Communist Party because it supports democratic movement.<br><br>HK pro-democracy paper Apple Daily announces closure <a href="https://www.bbc.co.uk/news/world-asia-china-57578926" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-57578926</a>
 
-### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719163448156169)
+### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719165759311879)
 
-1. Most of you may not understand how dreadful the closure of Apple Daily means to Hong Kong. Not only to its journalistic landscape, but also to the people and the city itself. This is their last day. They are going to print 1 million copies tomorrow to commerate the fight.<br><img style src="https://pbs.twimg.com/media/E4k35ViXIAUu_Nc?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 2. The parent company of Apple Daily, Next Digital Limited, is a listed company. The govt forced a listed company to close itself in a matter of days, though signs have been there for months.
 
 ### 7: [2021-06-23 23:16:18+08:00 推文](https://twitter.com/nathanlawkc/status/1407719169458642948)
 
@@ -70,4 +70,8 @@ An important thread to understand China's propaganda.<br><br>Jeff Kao: 1/ It s
 ### 14: [2021-06-24 17:29:54+08:00 推文](https://twitter.com/nathanlawkc/status/1407994381232189443)
 
 Thank you @GianniVernetti, former Italian Senator and currently a columnist at La Repubblica for publishing the story of myself and Apple Daily. We are connected to the world.<br><br>Nathan Law: “Hong Kong lo dimostra, Pechino è inaffidabile” <a href="https://www.repubblica.it/esteri/2021/06/23/news/nathan_law_hong_kong_lo_dimostra_pechino_e_inaffidabile_-307389761/?__vfz=medium%3Dsharebar" target="_blank" rel="noopener noreferrer">https://www.repubblica.it/esteri/2021/06/23/news/nathan_law_hong_kong_lo_dimostra_pechino_e_inaffidabile_-307389761/?__vfz=medium%3Dsharebar</a>
+
+### 15: [2021-06-25 04:49:15+08:00 推文](https://twitter.com/nathanlawkc/status/1408165343709872132)
+
+Winston has been a force of good in helping Hong Kong people in the UK and voicing support to the democratic movement. Really thankful for his commitment to helping the people in need.<br>#StandwithHongKong<br><br>Paul Marshall: Why I’m Leaving Mumford & Sons. | by Winston Marshall | Jun, 2021 | Medium - very proud of my son! .<br> <a href="https://mrwinstonmarshall.medium.com/why-im-leaving-mumford-sons-e6e731bbc255" target="_blank" rel="noopener noreferrer">https://mrwinstonmarshall.medium.com/why-im-leaving-mumford-sons-e6e731bbc255</a>
 

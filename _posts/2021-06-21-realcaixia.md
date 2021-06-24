@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-24
+date: 2021-06-25
 from: https://twitter.com/realcaixia/status/1406768792550752259
 layout: post
 tags:
@@ -50,4 +50,8 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 ### 9: [2021-06-24 02:06:09+08:00 推文](https://twitter.com/realcaixia/status/1407761912163704832)
 
 自由繁荣的香港，坚强不屈的700万香港民众，抗争到最后一刻的苹果日报……，自1997年以来香港人的捍卫独立自由，捍卫公民权利，捍卫人格尊严的英勇抗争，所有的所有，永远铭记在我们的心中………。<br><img style src="https://pbs.twimg.com/media/E4lf-xzXMAc4Yzs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lf_GjWYAQNkDd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lf_ZDXoAAMkyz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4lf_ogWYAgDzg5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-06-25 04:48:27+08:00 推文](https://twitter.com/realcaixia/status/1408165145294028806)
+
+中共中宣部把持人文学科教材编撰出版，对他们自己是一箭三雕，利益滚滚来：表绝对忠诚显政治正确；意识形态洗脑控制思想；又一个堂而皇之大把捞金的好机会。但是，对大陆社会来说是黑白颠倒、善恶混淆、毒害心灵、毁人正常认知。罪孽深重啊。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【重磅】<br>大陆教材编辑语文、历史等三门人文学科收归中宣部统一编撰，绝无仅有。<br><br>大陆敏感词汇表越来越长，“民主”“公民社会”“社会信用体系”“极权主义”“专制独裁”等都必须删除或弱化。甚至“伊斯兰极端主义”“IS恐怖组织”“圣战”“国家资本主义”都是敏感词了。<br><br><img style src="https://pbs.twimg.com/media/E4qgiEGWEAAnp7E?format=jpg&name=orig" referrerpolicy="no-referrer">
 
