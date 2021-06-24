@@ -35,9 +35,9 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 
 This is one of the most disgusting attacks on press freedom. Apple Daily is murdered by the Chinese Communist Party because it supports democratic movement.<br><br>HK pro-democracy paper Apple Daily announces closure <a href="https://www.bbc.co.uk/news/world-asia-china-57578926" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-57578926</a>
 
-### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719165759311879)
+### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719163448156169)
 
-Re 2. The parent company of Apple Daily, Next Digital Limited, is a listed company. The govt forced a listed company to close itself in a matter of days, though signs have been there for months.
+1. Most of you may not understand how dreadful the closure of Apple Daily means to Hong Kong. Not only to its journalistic landscape, but also to the people and the city itself. This is their last day. They are going to print 1 million copies tomorrow to commerate the fight.<br><img style src="https://pbs.twimg.com/media/E4k35ViXIAUu_Nc?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-06-23 23:16:18+08:00 推文](https://twitter.com/nathanlawkc/status/1407719169458642948)
 
@@ -62,4 +62,12 @@ Re 7. We are saddened, but we won't give up. I will continue the work in the dia
 ### 12: [2021-06-24 07:37:51+08:00 推文](https://twitter.com/nathanlawkc/status/1407845386367160322)
 
 The experiences of Apple Daily reflect the efforts of the Chinese government to replicate the mainland's media climate on the island. This was clearly shown in the 2021 Press Freedom Index, in which Hong Kong fell from 54th to 80th globally. <a href="https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms</a>
+
+### 13: [2021-06-24 16:56:36+08:00 推文](https://twitter.com/nathanlawkc/status/1407986003088973826)
+
+An important thread to understand China's propaganda.<br><br>Jeff Kao: 1/ It started in late Jan. when we noticed odd videos like this one on YouTube and Twitter. <br><br>Today, my latest for @propublica and @nytimes uncovers one of the most elaborate efforts to date by the CCP to deny its ongoing oppression of Uyghurs in Xinjiang.<br><br>How we got here:<br><br><video src="https://video.twimg.com/ext_tw_video/1407803671728078854/pu/vid/1280x720/qn_0My3oD0SFAIEA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1407803671728078854/pu/img/Lap9dU5bF0_srNbt.jpg"></video>
+
+### 14: [2021-06-24 17:29:54+08:00 推文](https://twitter.com/nathanlawkc/status/1407994381232189443)
+
+Thank you @GianniVernetti, former Italian Senator and currently a columnist at La Repubblica for publishing the story of myself and Apple Daily. We are connected to the world.<br><br>Nathan Law: “Hong Kong lo dimostra, Pechino è inaffidabile” <a href="https://www.repubblica.it/esteri/2021/06/23/news/nathan_law_hong_kong_lo_dimostra_pechino_e_inaffidabile_-307389761/?__vfz=medium%3Dsharebar" target="_blank" rel="noopener noreferrer">https://www.repubblica.it/esteri/2021/06/23/news/nathan_law_hong_kong_lo_dimostra_pechino_e_inaffidabile_-307389761/?__vfz=medium%3Dsharebar</a>
 
