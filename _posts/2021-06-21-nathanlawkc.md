@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-23
+date: 2021-06-24
 from: https://twitter.com/nathanlawkc/status/1406943129991888900
 layout: post
 tags:
@@ -35,9 +35,9 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 
 This is one of the most disgusting attacks on press freedom. Apple Daily is murdered by the Chinese Communist Party because it supports democratic movement.<br><br>HK pro-democracy paper Apple Daily announces closure <a href="https://www.bbc.co.uk/news/world-asia-china-57578926" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-57578926</a>
 
-### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719165759311879)
+### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719163448156169)
 
-Re 2. The parent company of Apple Daily, Next Digital Limited, is a listed company. The govt forced a listed company to close itself in a matter of days, though signs have been there for months.
+1. Most of you may not understand how dreadful the closure of Apple Daily means to Hong Kong. Not only to its journalistic landscape, but also to the people and the city itself. This is their last day. They are going to print 1 million copies tomorrow to commerate the fight.<br><img style src="https://pbs.twimg.com/media/E4k35ViXIAUu_Nc?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-06-23 23:16:18+08:00 推文](https://twitter.com/nathanlawkc/status/1407719169458642948)
 
@@ -58,4 +58,8 @@ Re 6. Supporters vowed their support to the paper outside its building on its la
 ### 11: [2021-06-23 23:17:16+08:00 推文](https://twitter.com/nathanlawkc/status/1407719412283674638)
 
 Re 7. We are saddened, but we won't give up. I will continue the work in the diasporic community, with supporting more on reporting on the ground and preserving its culture. Hope all of you are also supporting the struggles of Hong Kong people as well. <br>#StandWithHongKong <br>-END<br><img style src="https://pbs.twimg.com/media/E4k5VxiXEAYv9hk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-24 07:37:51+08:00 推文](https://twitter.com/nathanlawkc/status/1407845386367160322)
+
+The experiences of Apple Daily reflect the efforts of the Chinese government to replicate the mainland's media climate on the island. This was clearly shown in the 2021 Press Freedom Index, in which Hong Kong fell from 54th to 80th globally. <a href="https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms" target="_blank" rel="noopener noreferrer">https://www.spectator.co.uk/article/beijing-s-battle-to-crush-hong-kong-s-final-freedoms</a>
 
