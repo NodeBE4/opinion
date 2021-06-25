@@ -55,3 +55,19 @@ title: 'Twitter @蔡霞: 2021-06-21~2021-06-27'
 
 中共中宣部把持人文学科教材编撰出版，对他们自己是一箭三雕，利益滚滚来：表绝对忠诚显政治正确；意识形态洗脑控制思想；又一个堂而皇之大把捞金的好机会。但是，对大陆社会来说是黑白颠倒、善恶混淆、毒害心灵、毁人正常认知。罪孽深重啊。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【重磅】<br>大陆教材编辑语文、历史等三门人文学科收归中宣部统一编撰，绝无仅有。<br><br>大陆敏感词汇表越来越长，“民主”“公民社会”“社会信用体系”“极权主义”“专制独裁”等都必须删除或弱化。甚至“伊斯兰极端主义”“IS恐怖组织”“圣战”“国家资本主义”都是敏感词了。<br><br><img style src="https://pbs.twimg.com/media/E4qgiEGWEAAnp7E?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 11: [2021-06-25 21:36:10+08:00 推文](https://twitter.com/realcaixia/status/1408418745299701764)
+
+偶读韩先生推文习思想批判2，翻看前有批判1，我将跟转这系列推文。事实上，习知识可怜，何来“理论”？王沪宁为三朝“党魁”刀笔吏（美称叫“文胆”）已显“江郎才尽”囧相，到习这段只能拼凑。因而所谓习思想狗屁不通，本不值一谈，然习独霸话语权，强迫大陆全民学习，甚而吹嘘“指导人类”，确有必要曝光示众。<br><img style src="https://pbs.twimg.com/media/E4u1YRoX0AAdPkd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4u1YfkWYAA-coe?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-06-25 22:04:15+08:00 推文](https://twitter.com/realcaixia/status/1408425812647350276)
+
+中共赤裸裸的新极权，比纳粹希特勒更凶狠更野蛮。全球热爱和平自由民主的人们与国家政府共同支持香港民众，声援苹果日报，就是捍卫自己的权利与尊严。更希望西方国家政府把政治声援态度转化为、落实为更多的国家政策行动。<br><br>ZHANGDONG: 拜登总统就香港苹果日报被迫停刊事件发表声明说：“对于香港和全世界的媒体自由来说，这是一个悲哀的日子。” <br>总统先生，仅仅表示悲哀就够了吗？请拿出实际行动支持香港人民吧！铁蹄下遭受蹂躏的港人不需要怜悯，他们需要民主国家实际行动的支持！<br> <a href="https://www.voachinese.com/a/statement-by-president-Joe-Biden-on-Hong-Kong-Apple-Daily-20210624/5941437.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/statement-by-president-Joe-Biden-on-Hong-Kong-Apple-Daily-20210624/5941437.html</a>
+
+### 13: [2021-06-25 22:18:54+08:00 推文](https://twitter.com/realcaixia/status/1408429497322442753)
+
+Re @hd21511013 连和尚尼姑都要学习思想，连幼儿园小朋友都要学，难道还不是全民？
+
+### 14: [2021-06-25 22:29:30+08:00 推文](https://twitter.com/realcaixia/status/1408432167303196677)
+
+Re @hd21511013 中共强迫全民学习的做法自然会遭到各种无声无形的抵制。但只要是中共体制控制能力能达到的地方，他们都在竭尽全力灌输洗脑。
+
