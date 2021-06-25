@@ -75,3 +75,11 @@ Re @hd21511013 中共强迫全民学习的做法自然会遭到各种无声无�
 
 “百年中国 · 中共百年” 直播100小时研讨会即将召开 欢迎有识之士共襄义举 - 光传媒 | 传播真理 追求自由 <a href="https://ipkmedia.com/?p=79592" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=79592</a>
 
+### 16: [2021-06-26 03:06:52+08:00 推文](https://twitter.com/realcaixia/status/1408501966146260998)
+
+长平观察：香港人能用眼瞎换来自由吗？ <a href="https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E9%A6%99%E6%B8%AF%E4%BA%BA%E8%83%BD%E7%94%A8%E7%9C%BC%E7%9E%8E%E6%8D%A2%E6%9D%A5%E8%87%AA%E7%94%B1%E5%90%97/a-58030926" target="_blank" rel="noopener noreferrer">https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E9%A6%99%E6%B8%AF%E4%BA%BA%E8%83%BD%E7%94%A8%E7%9C%BC%E7%9E%8E%E6%8D%A2%E6%9D%A5%E8%87%AA%E7%94%B1%E5%90%97/a-58030926</a>
+
+### 17: [2021-06-26 03:49:52+08:00 推文](https://twitter.com/realcaixia/status/1408512788230705152)
+
+台湾电视台详实记录了《苹果日报》被迫停刊的最后时刻，感人至深。《苹果日报》大楼最后的灯熄灭是一个历史性时刻，它标志着自由香港被中共习极权生生地扼杀了，香港堕入完全的黑暗深渊。我相信总有一天，全世界能看到国际人权法庭公开审判中共极权暴政者！ <a href="https://youtube.com/watch?v=Mfk7oMSkYtU&feature=share" target="_blank" rel="noopener noreferrer">https://youtube.com/watch?v=Mfk7oMSkYtU&feature=share</a>
+
