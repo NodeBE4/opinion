@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-23
+date: 2021-06-25
 from: https://twitter.com/keithrichburg/status/1406817755282563074
 layout: post
 tags:
@@ -58,4 +58,8 @@ China's Central Propaganda Department, along with the CAC and Ministry of Educat
 ### 11: [2021-06-23 16:40:33+08:00 推文](https://twitter.com/tianyuf/status/1407619573042401280)
 
 RT Tianyu M. Fang<br>Wrote about one of China's few state-sponsored subculture communities, Esperanto. Imported from anarchist circles, it became a revolutionary project for post-Qing modernizers and anti-imperialists, before becoming the PRC's int'l propaganda vehicle: <a href="https://radiichina.com/esperanto-subculture/" target="_blank" rel="noopener noreferrer">https://radiichina.com/esperanto-subculture/</a>
+
+### 12: [2021-06-25 19:38:47+08:00 推文](https://twitter.com/cnmediaproject/status/1408389203369549826)
+
+Our Color Must Not Fade: A quick look at how the CCP has pushed youth education programs on Party history this year to mark its centennial. <a href="https://chinamediaproject.org/2021/06/25/the-color-must-not-fade/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/25/the-color-must-not-fade/</a><br><img style src="https://pbs.twimg.com/media/E4uafvGXoAQ2NiJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
