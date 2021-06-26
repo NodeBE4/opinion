@@ -95,3 +95,11 @@ Re @VOAChinese @lianchaohan 太好了！我就在寻找这个系列访谈呢！
 
 今天韩先生推出习思想批判3。我将跟转这一系列推文。事实上，习知识可怜，何来“理论”？王沪宁为三朝“党魁”刀笔吏（美称叫“文胆”）已显“江郎才尽”囧相，到习这段只能拼凑。因而所谓习思想，其实狗屁不通。本不值一谈，然习独霸话语权，强迫大陆全民学习，甚而吹嘘“指导人类”，确有必要曝光示众。<br><img style src="https://pbs.twimg.com/media/E4zyJ4gX0AEYxbf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4zyKGeWQAES6NN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4zyKW8XEAMROUd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 21: [2021-06-26 21:33:02+08:00 推文](https://twitter.com/realcaixia/status/1408780344334204928)
+
+这是前几天做的一个连线对谈。有兴趣的网友可以看看。<br><br>自由亚洲电台: 【#中共百年 的历史危机|#亚洲很想聊】<br><br>#蔡霞  #戴忠仁 #明居正<br><br><br>从未清算历史罪恶的中共，能背着包袱继续走下去？靠着利益分赃和恐惧感维系的党，内外交困，随时遍地烽火？#中共内部 有多少有良知的官员可拨乱反正？<br><br>#高科技监控 铁幕下，#人性 依然闪耀追求自由的可能！<br><br><img style src="https://pbs.twimg.com/media/E4vdaCoWUA8a3KA?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/ESNn6igNYoU" target="_blank" rel="noopener noreferrer">https://youtu.be/ESNn6igNYoU</a>
+
+### 22: [2021-06-26 21:45:02+08:00 推文](https://twitter.com/realcaixia/status/1408783365034151938)
+
+Re @hackerchaochao 感谢您的鼓励。我们大家共同的心愿就是希望走向自由民主，让我们每个人和我们的子孙都享有免于恐惧的自由、免于匮乏的自由，让我们有尊严地生活。
+
