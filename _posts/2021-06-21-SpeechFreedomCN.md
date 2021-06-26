@@ -39,3 +39,15 @@ Shaanxi man Xiao Wenbin sentenced to 8 months in prison for posting remarks on g
 
 Jiang Ming, a government officer based in Zigong City, Sichuan Province, dismissed from position and expelled from the party for “advocating capitalism and vilifying leaders of the Party and the country” on Twitter.<br><img style src="https://pbs.twimg.com/media/E4ykuX-VIAUq5Ty?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4ykuarVoAE3AtK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4ykuarVgAIZSvE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4ykuasVEAMrucQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 7: [2021-06-26 17:49:11+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1408724008271454208)
+
+《洛杉矶时报》报道了中国裁判文书网近期的大量删除文书事件。记者联系了中国十余家法院，以我过去推文中的网页截图询问这些对应判决书的情况，多数法院并未回应，有两家回答道：“这些案件是真实的，但是出于工作机密原因下架了，没必要向你解释具体原因“。 <a href="https://www.latimes.com/world-nation/story/2021-06-24/china-world-history-erasure-youth-censorship" target="_blank" rel="noopener noreferrer">https://www.latimes.com/world-nation/story/2021-06-24/china-world-history-erasure-youth-censorship</a>
+
+### 8: [2021-06-26 18:09:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1408729092673794051)
+
+Re 图中这个人是董泽华，这是他在2019年六四当天在天安门广场拍的照片，也正是他被判刑的原因，和他一起因同样事情入狱的，还有原帅，不过据洛杉矶时报报道，二人并不是事先商量好了一同去天安门广场纪念六四，而是到了之后才发现的同道中人。董泽华和原帅的案件：<br><br>中国文字狱事件盘点: 2019年6月4日，即天安门大屠杀30周年纪念日，来自陕西和内蒙古的民主人士董泽华与原帅在北京天安门广场穿着有“敏感标志”的T恤拍照传到网络，并就”敏感话题“采访询问广场上的外国人，被分别判刑七个月和六个月。#言论自由<br><br><img style src="https://pbs.twimg.com/media/Ei_5l5aVoAAzEZ1?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-06-26 18:10:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1408729394164629511)
+
+Re @aiww 这图不是p的，是真实的，照片中的人叫董泽华，这是他在2019年六四当天在天安门广场拍的。<br>因为这张照片，他被判了七个月有期徒刑。<br><br>中国文字狱事件盘点: 2019年6月4日，即天安门大屠杀30周年纪念日，来自陕西和内蒙古的民主人士董泽华与原帅在北京天安门广场穿着有“敏感标志”的T恤拍照传到网络，并就”敏感话题“采访询问广场上的外国人，被分别判刑七个月和六个月。#言论自由<br><br><img style src="https://pbs.twimg.com/media/Ei_5l5aVoAAzEZ1?format=jpg&name=orig" referrerpolicy="no-referrer">
+
