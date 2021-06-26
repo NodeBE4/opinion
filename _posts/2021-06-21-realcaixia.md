@@ -83,3 +83,11 @@ Re @hd21511013 中共强迫全民学习的做法自然会遭到各种无声无�
 
 台湾电视台详实记录了《苹果日报》被迫停刊的最后时刻，感人至深。《苹果日报》大楼最后的灯熄灭是一个历史性时刻，它标志着自由香港被中共习极权生生地扼杀了，香港堕入完全的黑暗深渊。我相信总有一天，全世界能看到国际人权法庭公开审判中共极权暴政者！ <a href="https://youtube.com/watch?v=Mfk7oMSkYtU&feature=share" target="_blank" rel="noopener noreferrer">https://youtube.com/watch?v=Mfk7oMSkYtU&feature=share</a>
 
+### 18: [2021-06-26 09:24:35+08:00 推文](https://twitter.com/realcaixia/status/1408597024329670658)
+
+Re @VOAChinese @lianchaohan 太好了！我就在寻找这个系列访谈呢！
+
+### 19: [2021-06-26 09:27:25+08:00 推文](https://twitter.com/realcaixia/status/1408597738162372614)
+
+李南央：劫后余生踏上美国土地，李锐彻底醒悟 <a href="https://www.voachinese.com/a/CCP-100-Li-Rui-Profile-20210611/5924318.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/CCP-100-Li-Rui-Profile-20210611/5924318.html</a>
+
