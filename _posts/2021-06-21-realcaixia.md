@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-26
+date: 2021-06-27
 from: https://twitter.com/realcaixia/status/1406768792550752259
 layout: post
 tags:
@@ -102,4 +102,8 @@ Re @VOAChinese @lianchaohan 太好了！我就在寻找这个系列访谈呢！
 ### 22: [2021-06-26 21:45:02+08:00 推文](https://twitter.com/realcaixia/status/1408783365034151938)
 
 Re @hackerchaochao 感谢您的鼓励。我们大家共同的心愿就是希望走向自由民主，让我们每个人和我们的子孙都享有免于恐惧的自由、免于匮乏的自由，让我们有尊严地生活。
+
+### 23: [2021-06-27 01:39:18+08:00 推文](https://twitter.com/realcaixia/status/1408842319479070728)
+
+其实，死囚被活摘器官的事在中共文革期间就有。当时是为了做器官移植医学研究，对外严格保密。我曾经听说过，当时很震惊。但那时我还没有人权保护意识和人权保护知识，听完了不敢想，但却是牢牢记住了听到的事情。<br><br>大纪元新闻网: 【独家】郑州公安：死囚如何被强摘器官<br><br>Bob曾是 #中共 河南省郑州的一名普通警察，现居 #美国，大纪元核实了他的警察证件和个人信息。他告诉记者，自己从事的普普通通的公安工作彻底改变了他的人生。“工作中的所见所闻践踏了我的人生观和做人准则，使我下定决心退出公安。”<br> <a href="https://www.epochtimes.com/gb/21/6/24/n13045496.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/21/6/24/n13045496.htm</a>
 
