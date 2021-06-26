@@ -91,3 +91,7 @@ Re @VOAChinese @lianchaohan 太好了！我就在寻找这个系列访谈呢！
 
 李南央：劫后余生踏上美国土地，李锐彻底醒悟 <a href="https://www.voachinese.com/a/CCP-100-Li-Rui-Profile-20210611/5924318.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/CCP-100-Li-Rui-Profile-20210611/5924318.html</a>
 
+### 20: [2021-06-26 20:40:12+08:00 推文](https://twitter.com/realcaixia/status/1408767048029769728)
+
+今天韩先生推出习思想批判3。我将跟转这一系列推文。事实上，习知识可怜，何来“理论”？王沪宁为三朝“党魁”刀笔吏（美称叫“文胆”）已显“江郎才尽”囧相，到习这段只能拼凑。因而所谓习思想，其实狗屁不通。本不值一谈，然习独霸话语权，强迫大陆全民学习，甚而吹嘘“指导人类”，确有必要曝光示众。<br><img style src="https://pbs.twimg.com/media/E4zyJ4gX0AEYxbf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4zyKGeWQAES6NN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E4zyKW8XEAMROUd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
