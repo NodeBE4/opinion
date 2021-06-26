@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-25
+date: 2021-06-26
 from: https://twitter.com/keithrichburg/status/1406817755282563074
 layout: post
 tags:
@@ -62,4 +62,8 @@ RT Tianyu M. Fang<br>Wrote about one of China's few state-sponsored subculture
 ### 12: [2021-06-25 19:38:47+08:00 推文](https://twitter.com/cnmediaproject/status/1408389203369549826)
 
 Our Color Must Not Fade: A quick look at how the CCP has pushed youth education programs on Party history this year to mark its centennial. <a href="https://chinamediaproject.org/2021/06/25/the-color-must-not-fade/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/25/the-color-must-not-fade/</a><br><img style src="https://pbs.twimg.com/media/E4uafvGXoAQ2NiJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-06-26 23:20:25+08:00 推文](https://twitter.com/jwassers/status/1408807368985485320)
+
+RT Jeff Wasserstrom<br>ICYMI, this profile of ⁦@CindyXiaodanYu⁩ captures well what makes her a special voice in the UK (& global) discussion of China, glad to have gotten a chance to chat w/her about Hong Kong yesterday for an upcoming edition of her podcast <a href="https://qz.com/2006713/cindy-yu-the-podcaster-explaining-chinese-society-to-the-west/" target="_blank" rel="noopener noreferrer">https://qz.com/2006713/cindy-yu-the-podcaster-explaining-chinese-society-to-the-west/</a>
 
