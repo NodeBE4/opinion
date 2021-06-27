@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-26
+date: 2021-06-27
 from: https://twitter.com/SpeechFreedomCN/status/1406907189365592066
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re 图中这个人是董泽华，这是他在2019年六四当天在天安门广�
 ### 9: [2021-06-26 18:10:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1408729394164629511)
 
 Re @aiww 这图不是p的，是真实的，照片中的人叫董泽华，这是他在2019年六四当天在天安门广场拍的。<br>因为这张照片，他被判了七个月有期徒刑。<br><br>中国文字狱事件盘点: 2019年6月4日，即天安门大屠杀30周年纪念日，来自陕西和内蒙古的民主人士董泽华与原帅在北京天安门广场穿着有“敏感标志”的T恤拍照传到网络，并就”敏感话题“采访询问广场上的外国人，被分别判刑七个月和六个月。#言论自由<br><br><img style src="https://pbs.twimg.com/media/Ei_5l5aVoAAzEZ1?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-06-27 17:50:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1409086819665203207)
+
+After @mikepompeo declared #Genocide in Xinjiang, local government organized Uyghur people to shoot a video to denounce Pompeo's claim. @FDrinov (Chen Haoyu) leaked info of this government campaign to the AP News, then got arrested 3 days later for "spreading false info".<br><img style src="https://pbs.twimg.com/media/E44TBqZVoAYbpI1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E44TDrmVgAABG8Z?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E44TE8uVgAEwUdy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
