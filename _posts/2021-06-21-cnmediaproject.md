@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-26
+date: 2021-06-27
 from: https://twitter.com/keithrichburg/status/1406817755282563074
 layout: post
 tags:
@@ -66,4 +66,8 @@ Our Color Must Not Fade: A quick look at how the CCP has pushed youth education 
 ### 13: [2021-06-26 23:20:25+08:00 推文](https://twitter.com/jwassers/status/1408807368985485320)
 
 RT Jeff Wasserstrom<br>ICYMI, this profile of ⁦@CindyXiaodanYu⁩ captures well what makes her a special voice in the UK (& global) discussion of China, glad to have gotten a chance to chat w/her about Hong Kong yesterday for an upcoming edition of her podcast <a href="https://qz.com/2006713/cindy-yu-the-podcaster-explaining-chinese-society-to-the-west/" target="_blank" rel="noopener noreferrer">https://qz.com/2006713/cindy-yu-the-podcaster-explaining-chinese-society-to-the-west/</a>
+
+### 14: [2021-06-27 11:32:50+08:00 推文](https://twitter.com/Junmai1103/status/1408991685707649029)
+
+RT Jun Mai<br>Only three months ago we published an article about how the site opens up the legal ‘black box’ to let light in. Now this. <a href="https://www.scmp.com/news/china/politics/article/3138830/millions-court-rulings-removed-official-chinese-database?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3138830" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3138830/millions-court-rulings-removed-official-chinese-database?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3138830</a>
 
