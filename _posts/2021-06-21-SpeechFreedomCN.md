@@ -55,3 +55,7 @@ Re @aiww 这图不是p的，是真实的，照片中的人叫董泽华，这是�
 
 After @mikepompeo declared #Genocide in Xinjiang, local government organized Uyghur people to shoot a video to denounce Pompeo's claim. @FDrinov (Chen Haoyu) leaked info of this government campaign to the AP News, then got arrested 3 days later for "spreading false info".<br><img style src="https://pbs.twimg.com/media/E44TBqZVoAYbpI1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E44TDrmVgAABG8Z?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E44TE8uVgAEwUdy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 11: [2021-06-27 17:52:33+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1409087245680668673)
+
+庞佩奥将中共在新疆的暴行认定为种族灭绝以后，当地政府组织维吾尔人回应，要求他们拍摄视频说自己过得很幸福，这些视频最终成品出现在了很多官方宣传里。而提供这张截图的陈皓宇（@FDrinov）却因此被捕，新疆政府告诉美联社说：那些视频都是维吾尔人自愿拍摄的，说不自愿的那个人已经被我们抓了 。<br><img style src="https://pbs.twimg.com/media/E44RncPVIAMKrDs?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E44RrBYVkAQCJTb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E44RtWxUcAQcwBY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
