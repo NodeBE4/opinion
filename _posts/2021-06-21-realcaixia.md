@@ -111,3 +111,7 @@ Re @hackerchaochao 感谢您的鼓励。我们大家共同的心愿就是希望�
 
 Re @wanchangxian 这位前警察说的是行刑后强摘器官，我说的是死囚犯行刑前被先活摘器官。
 
+### 25: [2021-06-27 11:00:28+08:00 推文](https://twitter.com/realcaixia/status/1408983542420447236)
+
+上了年纪的大陆中国人都知道，1978年前有个判刑的罪名：偷听敌台。现在的年轻人也都知道有个判刑的罪名：翻墙。两个名称看起来风马牛不相及，实质是一个：了解真相罪。<br><img style src="https://pbs.twimg.com/media/E423D30XIAEdYKs?format=jpg&name=orig" referrerpolicy="no-referrer">
+
