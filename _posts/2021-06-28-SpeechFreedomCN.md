@@ -23,3 +23,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-06-28~2021-07-04'
 
 Yunnan woman Xiong administratively detained for 15 days for accusing local government officials of corruption and inaction, and referring to them as dogs on Internet.<br><img style src="https://pbs.twimg.com/media/E48wUK9VgAAVWbV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-06-28 19:00:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1409466741965561858)
+
+中国裁判文书网删文动作时间线：<br><img style src="https://pbs.twimg.com/media/E49uhGeVgAIt3ix?format=jpg&name=orig" referrerpolicy="no-referrer">
+
