@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-29
+date: 2021-06-30
 from: https://twitter.com/cnmediaproject/status/1409518872928174081
 layout: post
 tags:
@@ -62,4 +62,8 @@ Re The new regulations charge CCP committees at the provincial level with regula
 ### 12: [2021-06-29 21:39:30+08:00 推文](https://twitter.com/jwassers/status/1409869135463337984)
 
 RT Jeff Wasserstrom<br>Part 2 of my 3 part essay for @MekongReview on the CCP at 100 <a href="https://mekongreview.com/the-long-party-2/" target="_blank" rel="noopener noreferrer">https://mekongreview.com/the-long-party-2/</a>
+
+### 13: [2021-06-30 04:38:01+08:00 推文](https://twitter.com/KaiserKuo/status/1409974458861842433)
+
+RT Kaiser Kuo<br>Please read this important and well-reported piece on the excesses of the DoJ's "China Initiative."<br><br>Karen Hao: After the FBI accused him of spying for China, Anming Hu, an acclaimed Chinese-Canadian scientist, lost his job, his US work visa & his reputation.<br><br>The FBI agent then admitted he accused Hu using false information.<br><br>Hu likely isn’t the only one.<br> <a href="https://www.technologyreview.com/2021/06/27/1027350/anming-hu-china-initiative-research-espionage-spying/" target="_blank" rel="noopener noreferrer">https://www.technologyreview.com/2021/06/27/1027350/anming-hu-china-initiative-research-espionage-spying/</a>
 
