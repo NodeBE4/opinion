@@ -59,3 +59,7 @@ Re Page 4 is about the new "Party Emblem and Flag Regulations of the CCP" (中�
 
 Re The new regulations charge CCP committees at the provincial level with regulating flag/emblem production, and licensing companies for such production.<br><img style src="https://pbs.twimg.com/media/E5DDEurXoAM_DU-?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 12: [2021-06-29 21:39:30+08:00 推文](https://twitter.com/jwassers/status/1409869135463337984)
+
+RT Jeff Wasserstrom<br>Part 2 of my 3 part essay for @MekongReview on the CCP at 100 <a href="https://mekongreview.com/the-long-party-2/" target="_blank" rel="noopener noreferrer">https://mekongreview.com/the-long-party-2/</a>
+
