@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-06-28
+date: 2021-06-29
 from: https://twitter.com/nathanlawkc/status/1409277186088054785
 layout: post
 tags:
@@ -22,4 +22,8 @@ An excellent and comprehensive report on how the Chinese Communist Party dismant
 ### 2: [2021-06-28 19:20:41+08:00 推文](https://twitter.com/nathanlawkc/status/1409471811167862785)
 
 Yet people in China never vote for their leaders. Oppositions are quashed. Muslim minorities are persecuted and crosses are burnt. That’s how shameless CCP is — falsifying everything.<br><br>Chinese Embassy in UK: The leadership of the CPC is a choice of the people. The CPC is from the people, for the people and by the people. The focus of all its work is always the interests of the people. That’s why the CPC could win the whole-hearted support of all the Chinese people.<br>
+
+### 3: [2021-06-29 18:05:30+08:00 推文](https://twitter.com/nathanlawkc/status/1409815280193257472)
+
+See you guys in a few hours!<br><br>Fight For Freedom. Stand With Hong Kong. 重光團隊: ANNOUNCEMENT<br><br>[On the thorny road of resistance, fearless Hongkongers continue to breakthrough from autocracy]<br><br>SWHK is proud to partner with @AtlanticCouncil on a US-China policy report that will be launched at an event next Tues.<br><br>Details+Registration →<br><br><img style src="https://pbs.twimg.com/media/E4vRh1qVcAA7AyL?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://www.atlanticcouncil.org/event/hong-kongs-future-on-edge/" target="_blank" rel="noopener noreferrer">https://www.atlanticcouncil.org/event/hong-kongs-future-on-edge/</a>
 
