@@ -83,3 +83,7 @@ RT Colum Murphy<br>All set for tomorrow’s CCP centennial event in Beijing’
 
 One of the many things to watch on July 1, as the Chinese Communist Party celebrates its centennial with great fanfare, is whether and how Xi Jinping will use the occasion to elevate the status of his banner term, "Xi Jinping Thought ....." <a href="https://chinamediaproject.org/2021/06/30/raising-the-banner-high/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/raising-the-banner-high/</a><br><img style src="https://pbs.twimg.com/media/E5JQlIOXMAQkuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 18: [2021-07-01 02:40:51+08:00 推文](https://twitter.com/cnmediaproject/status/1410307359738634245)
+
+Bowing to the Chief: This week, one of Xi Jinping's most loyal senior leaders paid him a high compliment -- by seeming to suggest the general secretary might need to stay on until 2049. <a href="https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/</a><br><img style src="https://pbs.twimg.com/media/E5JrDlbWQAU3L9C?format=jpg&name=orig" referrerpolicy="no-referrer">
+
