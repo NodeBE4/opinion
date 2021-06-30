@@ -67,3 +67,7 @@ RT Jeff Wasserstrom<br>Part 2 of my 3 part essay for @MekongReview on the CCP 
 
 RT Kaiser Kuo<br>Please read this important and well-reported piece on the excesses of the DoJ's "China Initiative."<br><br>Karen Hao: After the FBI accused him of spying for China, Anming Hu, an acclaimed Chinese-Canadian scientist, lost his job, his US work visa & his reputation.<br><br>The FBI agent then admitted he accused Hu using false information.<br><br>Hu likely isn’t the only one.<br> <a href="https://www.technologyreview.com/2021/06/27/1027350/anming-hu-china-initiative-research-espionage-spying/" target="_blank" rel="noopener noreferrer">https://www.technologyreview.com/2021/06/27/1027350/anming-hu-china-initiative-research-espionage-spying/</a>
 
+### 14: [2021-06-30 15:53:57+08:00 推文](https://twitter.com/cnmediaproject/status/1410144564120334337)
+
+Latest data of CCP membership released ahead of the 100th anniversary. Male: 71.2%, Female: 28.8%. 7.5% are from minority ethnicities. 40 and Under: 34.75%. Over 40: 65.25% <a href="https://www.thepaper.cn/newsDetail_forward_13375534" target="_blank" rel="noopener noreferrer">https://www.thepaper.cn/newsDetail_forward_13375534</a><br><img style src="https://pbs.twimg.com/media/E5HVu6mXEAUrqrf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
