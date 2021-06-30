@@ -87,3 +87,15 @@ One of the many things to watch on July 1, as the Chinese Communist Party celebr
 
 Bowing to the Chief: This week, one of Xi Jinping's most loyal senior leaders paid him a high compliment -- by seeming to suggest the general secretary might need to stay on until 2049. <a href="https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/</a><br><img style src="https://pbs.twimg.com/media/E5JrDlbWQAU3L9C?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 19: [2021-07-01 03:01:17+08:00 推文](https://twitter.com/AASAsianStudies/status/1410312503243034625)
+
+RT Association for Asian Studies<br>Call for applications: @ScholarsAtRisk invites applications for the 2021-22 Mellon/SAR Academic Freedom Workshop & Fellowships, an 8-month virtual opportunity to develop research projects on #AcademicFreedom & #highered. Application deadline is August 15. <a href="https://buff.ly/365mpUY" target="_blank" rel="noopener noreferrer">https://buff.ly/365mpUY</a>
+
+### 20: [2021-07-01 03:17:26+08:00 推文](https://twitter.com/Colum_M/status/1410316566621659138)
+
+RT Colum Murphy<br>President Xi Jinping is set to deliver a speech linking the Communist Party’s 100th anniversary to China’s return to wealth and power, making the case that the party -- with him at the top -- is the best hope for more growth <a href="https://www.bloomberg.com/news/articles/2021-06-30/china-s-xi-celebrates-party-s-longevity-with-nod-to-his-own-rule?sref=OYPzOH4r" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2021-06-30/china-s-xi-celebrates-party-s-longevity-with-nod-to-his-own-rule?sref=OYPzOH4r</a>
+
+### 21: [2021-07-01 03:28:13+08:00 推文](https://twitter.com/cnmediaproject/status/1410319280156123137)
+
+CCP propaganda in the 21st century. People's Daily Online put together a short video project called #19212021 with videos of historical sites across the country. Kicked off back in March, inviting app-based participation. <a href="http://v.people.cn/GB/61600/437251/index.html" target="_blank" rel="noopener noreferrer">http://v.people.cn/GB/61600/437251/index.html</a><br><img style src="https://pbs.twimg.com/media/E5J11cNWYAMp5ji?format=jpg&name=orig" referrerpolicy="no-referrer">
+
