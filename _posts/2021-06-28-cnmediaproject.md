@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-06-30
+date: 2021-07-01
 from: https://twitter.com/cnmediaproject/status/1409518872928174081
 layout: post
 tags:
@@ -70,4 +70,16 @@ RT Kaiser Kuo<br>Please read this important and well-reported piece on the exc
 ### 14: [2021-06-30 15:53:57+08:00 推文](https://twitter.com/cnmediaproject/status/1410144564120334337)
 
 Latest data of CCP membership released ahead of the 100th anniversary. Male: 71.2%, Female: 28.8%. 7.5% are from minority ethnicities. 40 and Under: 34.75%. Over 40: 65.25% <a href="https://www.thepaper.cn/newsDetail_forward_13375534" target="_blank" rel="noopener noreferrer">https://www.thepaper.cn/newsDetail_forward_13375534</a><br><img style src="https://pbs.twimg.com/media/E5HVu6mXEAUrqrf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-06-30 19:36:58+08:00 推文](https://twitter.com/jayjamescarter/status/1410200684482400257)
+
+RT James Carter<br>I didn’t want to take on the elephant in the Chinese history room this week (CCP100–plenty of excellent takes there already) but thought a look at origin myths of ruling dynasties might add to the conversation. My latest @supchina<br><br>SupChina: Emperor Taizong was one of China's most powerful and successful rulers. It's almost enough to make one forget that his ascent to the throne was bloody and treacherous, including the murder of two brothers:<br> <a href="https://supchina.com/2021/06/30/in-the-7th-century-a-chinese-coup-of-shakespearean-proportions/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/06/30/in-the-7th-century-a-chinese-coup-of-shakespearean-proportions/</a>
+
+### 16: [2021-06-30 20:18:58+08:00 推文](https://twitter.com/Colum_M/status/1410211256808591368)
+
+RT Colum Murphy<br>All set for tomorrow’s CCP centennial event in Beijing’s Tiananmen Square. Invitation, special-edition face mask and hologram for the (only one) smartphone I’m allowed to carry. We have to set off at 3 a.m.!<br><img style src="https://pbs.twimg.com/media/E5ITqHTVUAMu0VA?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-07-01 00:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1410278244692148227)
+
+One of the many things to watch on July 1, as the Chinese Communist Party celebrates its centennial with great fanfare, is whether and how Xi Jinping will use the occasion to elevate the status of his banner term, "Xi Jinping Thought ....." <a href="https://chinamediaproject.org/2021/06/30/raising-the-banner-high/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/raising-the-banner-high/</a><br><img style src="https://pbs.twimg.com/media/E5JQlIOXMAQkuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
 

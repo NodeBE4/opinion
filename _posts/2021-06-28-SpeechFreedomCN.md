@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-28
+date: 2021-06-30
 from: https://twitter.com/SpeechFreedomCN/status/1409398300915081216
 layout: post
 tags:
@@ -26,4 +26,12 @@ Yunnan woman Xiong administratively detained for 15 days for accusing local gove
 ### 3: [2021-06-28 19:00:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1409466741965561858)
 
 中国裁判文书网删文动作时间线：<br><img style src="https://pbs.twimg.com/media/E49uhGeVgAIt3ix?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-06-30 15:41:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1410141404064411648)
+
+河南省项城市律师朱某，因在其父亲被枉法裁判后，在微博等多个网站“辱骂”当地法院法官及法警，被判处犯有寻衅滋事罪，免予处罚。朱某具体的辱骂内容如图所示，其实多为指责法院徇私枉法，制造冤案等，其中使用了“匪警”和“狗官”等词。<br><img style src="https://pbs.twimg.com/media/E5HS6TpUYAYGHDf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HS8rxVgAAPoyO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HS-ewVcAELaxP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HS_egUcAgJbq8?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-06-30 15:45:20+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1410142394788433922)
+
+Lawyer surnamed Zhu in Henan Province, who believed his father was wrongfully prosecuted, and who therefore "insulted" the court and its staffs on Internet, found guilty by the court for those remarks, but exempted from punishment.<br><img style src="https://pbs.twimg.com/media/E5HUK48VoAQURPy?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HUMMKVoAIhudD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HUNNiVIAYsJI0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HUOTvUcAowHES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
