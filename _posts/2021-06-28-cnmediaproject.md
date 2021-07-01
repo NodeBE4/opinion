@@ -103,3 +103,7 @@ CCP propaganda in the 21st century. People's Daily Online put together a short v
 
 RT Yuen Chan<br>New Hong Kong<br><br>Alvin Lum: Hong Kong without Apple Daily = major newspapers carrying commercials on front book that celebrate Chinese Communist Party’s centenary and HKSAR’s anniversary on July 1.<br><br><img style src="https://pbs.twimg.com/media/E5KzmYBVkAMK4oR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5KzmX_VgAEX7Vg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 23: [2021-07-01 15:20:36+08:00 推文](https://twitter.com/cnmediaproject/status/1410498555563884546)
+
+In case you missed them. A look at key phrase paying homage to Xi. <a href="https://chinamediaproject.org/2021/06/30/raising-the-banner-high/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/raising-the-banner-high/</a> <a href="https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/</a><br><img style src="https://pbs.twimg.com/media/E5MY88oXoAAWDbQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
