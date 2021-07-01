@@ -99,3 +99,7 @@ RT Colum Murphy<br>President Xi Jinping is set to deliver a speech linking the
 
 CCP propaganda in the 21st century. People's Daily Online put together a short video project called #19212021 with videos of historical sites across the country. Kicked off back in March, inviting app-based participation. <a href="http://v.people.cn/GB/61600/437251/index.html" target="_blank" rel="noopener noreferrer">http://v.people.cn/GB/61600/437251/index.html</a><br><img style src="https://pbs.twimg.com/media/E5J11cNWYAMp5ji?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 22: [2021-07-01 08:04:23+08:00 推文](https://twitter.com/xinwenxiaojie/status/1410388781551738881)
+
+RT Yuen Chan<br>New Hong Kong<br><br>Alvin Lum: Hong Kong without Apple Daily = major newspapers carrying commercials on front book that celebrate Chinese Communist Party’s centenary and HKSAR’s anniversary on July 1.<br><br><img style src="https://pbs.twimg.com/media/E5KzmYBVkAMK4oR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5KzmX_VgAEX7Vg?format=jpg&name=orig" referrerpolicy="no-referrer">
+
