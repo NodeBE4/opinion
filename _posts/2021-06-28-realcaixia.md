@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-01
+date: 2021-07-02
 from: https://twitter.com/realcaixia/status/1409251623751270401
 layout: post
 tags:
@@ -34,4 +34,8 @@ title: 'Twitter @蔡霞: 2021-06-28~2021-07-04'
 ### 5: [2021-07-01 20:41:09+08:00 推文](https://twitter.com/realcaixia/status/1410579227607511044)
 
 Re @kungat @HuPing1 @ZhouFengSuo @ranxiangmm @JianglinLi 這篇文章是我寫的，不是採訪紀錄。
+
+### 6: [2021-07-02 04:31:56+08:00 推文](https://twitter.com/realcaixia/status/1410697701222715392)
+
+分享推友的精彩推文。<br><img style src="https://pbs.twimg.com/media/E5POFFZWYAAstrz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5POFTCWUAIyuxw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
