@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-06-30
+date: 2021-07-01
 from: https://twitter.com/realcaixia/status/1409251623751270401
 layout: post
 tags:
@@ -30,4 +30,8 @@ title: 'Twitter @蔡霞: 2021-06-28~2021-07-04'
 ### 4: [2021-06-30 22:39:31+08:00 推文](https://twitter.com/realcaixia/status/1410246625688182786)
 
 今天推转韩先生的批判习思想6，7。所谓习思想，与之前的毛邓江胡理论相比，其精神之贫乏、概念之模糊、逻辑之混乱，无出其右。由于习本身没文化没知识，却又偏要自戴“思想家”的神性光环，于是只能在语言上花样翻新、硬造新词，且特别强调不许妄议、定于一尊，可见其心之虚，经不起追问，更不允许质疑。<br><img style src="https://pbs.twimg.com/media/E5Iz0l-WYAUcpiW?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5Iz00XXwAAuTBM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5Iz1E5WQAYkthV?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-07-01 20:41:09+08:00 推文](https://twitter.com/realcaixia/status/1410579227607511044)
+
+Re @kungat @HuPing1 @ZhouFengSuo @ranxiangmm @JianglinLi 這篇文章是我寫的，不是採訪紀錄。
 
