@@ -107,3 +107,19 @@ RT Yuen Chan<br>New Hong Kong<br><br>Alvin Lum: Hong Kong without Apple Dail
 
 In case you missed them. A look at key phrase paying homage to Xi. <a href="https://chinamediaproject.org/2021/06/30/raising-the-banner-high/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/raising-the-banner-high/</a> <a href="https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/30/bowing-to-the-chief/</a><br><img style src="https://pbs.twimg.com/media/E5MY88oXoAAWDbQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 24: [2021-07-01 19:05:04+08:00 推文](https://twitter.com/cnmediaproject/status/1410555046559879169)
+
+Hang on, Global Times. The proper translation is not so bloodless: "Anyone who tries to do so will find their head broken and blood flowing against a great wall of steel built with the flesh and blood of more than 1.4 billion Chinese people!"<br><img style src="https://pbs.twimg.com/media/E5NL2yDXoA0M1ib?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-07-01 20:16:05+08:00 推文](https://twitter.com/cnmediaproject/status/1410572918053081089)
+
+Re "同时，中国人民也绝不允许任何外来势力欺负、压迫、奴役我们，谁妄想这样干，必将在14亿多中国人民用血肉筑成的钢铁长城面前碰得头破血流!"
+
+### 26: [2021-07-01 22:03:34+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1410599966079287296)
+
+RT Zhaoyin Feng 馮兆音<br>Robert Daly's take on CCP centenary, via Politico's China Watcher. Well worth your time. <a href="https://www.politico.com/newsletters/politico-china-watcher/2021/07/01/after-100-years-chinas-communist-party-remains-a-black-box-493433" target="_blank" rel="noopener noreferrer">https://www.politico.com/newsletters/politico-china-watcher/2021/07/01/after-100-years-chinas-communist-party-remains-a-black-box-493433</a>
+
+### 27: [2021-07-01 23:02:49+08:00 推文](https://twitter.com/GMFAsia/status/1410614876154724361)
+
+RT GMF Asia<br>In his July "Watching China in Europe" newsletter, @gmfus' @noahbarkin discusses France’s frustration with the Biden administration's approach and German foreign policy priorities, as Berlin gears up for federal elections in September: <a href="https://www.gmfus.org/blog/2021/07/01/watching-china-europe-july-2021" target="_blank" rel="noopener noreferrer">https://www.gmfus.org/blog/2021/07/01/watching-china-europe-july-2021</a>
+
