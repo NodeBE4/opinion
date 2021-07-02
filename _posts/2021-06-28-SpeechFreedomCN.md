@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-06-30
+date: 2021-07-02
 from: https://twitter.com/SpeechFreedomCN/status/1409398300915081216
 layout: post
 tags:
@@ -34,4 +34,12 @@ Yunnan woman Xiong administratively detained for 15 days for accusing local gove
 ### 5: [2021-06-30 15:45:20+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1410142394788433922)
 
 Lawyer surnamed Zhu in Henan Province, who believed his father was wrongfully prosecuted, and who therefore "insulted" the court and its staffs on Internet, found guilty by the court for those remarks, but exempted from punishment.<br><img style src="https://pbs.twimg.com/media/E5HUK48VoAQURPy?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HUMMKVoAIhudD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HUNNiVIAYsJI0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5HUOTvUcAowHES?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-07-02 15:29:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1410863256109912065)
+
+七一前夕，石家庄卢廷阁律师被当地警方以寻衅滋事为案由传唤，至今未归，可能已经被捕。卢廷阁律师是人权律师和异议人士，此次被传唤的原因很可能是其平时发表的异见言论，如图2.<br><img style src="https://pbs.twimg.com/media/E5RkAf6UYAYvE5_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5RkCgrVkAkW1tg?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-02 15:35:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1410864583133126656)
+
+Human rights lawyer Lu Tingge in Shijiazhuang summoned by local police two days ago for his involvement in "Picking Quarrel and Provoking Trouble". Lu has not returned yet and is therefore possibly under arrest. Reason he got summoned includes his dissent remarks on Internet.<br><img style src="https://pbs.twimg.com/media/E5Rl0jjVkAMSOIF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5Rl20MVkAIFlRW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
