@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-02
+date: 2021-07-03
 from: https://twitter.com/realcaixia/status/1409251623751270401
 layout: post
 tags:
@@ -46,4 +46,12 @@ Re @kungat @HuPing1 @ZhouFengSuo @ranxiangmm @JianglinLi 這篇文章是我寫�
 ### 8: [2021-07-02 19:22:28+08:00 推文](https://twitter.com/realcaixia/status/1410921812364513281)
 
 这是我在“百年中国.中共百年”100小时连续线上直播活动中发言的一部分。计划经济四个字不是仅仅是经济，实质是控制每个人命运的极权统治机制中最核心的部分。有兴趣的朋友请听完我这一段。现在习又要退回去搞计划经济了，请高度警惕习推行的有关措施。<br><br>林姗美国 Lin's USA: @Ipkmedia @realcaixia 光传媒 中共百年 中共中央党校前教授蔡霞：计划经济的本质就是计划人的生死 就是集权统治 比希特勒还野蛮<br>（我第一次花时间加了外挂字幕，方便大家抓住精意和永久记忆，请打开字母功能）<br> <a href="https://www.youtube.com/watch?v=ZyCeX1P5Z10" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=ZyCeX1P5Z10</a>
+
+### 9: [2021-07-02 23:57:59+08:00 推文](https://twitter.com/realcaixia/status/1410991150773768192)
+
+Re @SLin2020 感谢您给我的帮助。🌹
+
+### 10: [2021-07-03 00:14:32+08:00 推文](https://twitter.com/realcaixia/status/1410995312844492808)
+
+这是我6月27号发言后与网友讨论问题时的回答。感谢热心的林珊女士帮助制作传播。<br><br>林姗美国 Lin's USA: 蔡霞教授 Q&A 中共内部和高层政治改革可能吗？中共为什么比前苏联更加残暴和血腥？中美关系预测：终结接触政策！<br> <a href="https://www.youtube.com/watch?v=qnZp8sU2FAQ" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=qnZp8sU2FAQ</a>
 
