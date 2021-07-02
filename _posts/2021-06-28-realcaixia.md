@@ -55,3 +55,7 @@ Re @SLin2020 感谢您给我的帮助。🌹
 
 这是我6月27号发言后与网友讨论问题时的回答。感谢热心的林珊女士帮助制作传播。<br><br>林姗美国 Lin's USA: 蔡霞教授 Q&A 中共内部和高层政治改革可能吗？中共为什么比前苏联更加残暴和血腥？中美关系预测：终结接触政策！<br> <a href="https://www.youtube.com/watch?v=qnZp8sU2FAQ" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=qnZp8sU2FAQ</a>
 
+### 11: [2021-07-03 01:42:23+08:00 推文](https://twitter.com/realcaixia/status/1411017421029322760)
+
+Re @wongkim728 感谢王剑老师的支持和帮助。听到你评论我写的中美关系文章。你的再次梳理文章内容真是一个创造，很清晰。👍🌹
+

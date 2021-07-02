@@ -31,3 +31,7 @@ See you guys in a few hours!<br><br>Fight For Freedom. Stand With Hong Kong. 重
 
 “Normally, the first of July was a showcase of civil society and big crowds of Hong Kong people. But today, you can only see a Hong Kong that is being silenced.”<br>Thanks ⁦@joshrogin⁩!<br><br>The Chinese Communist Party’s anniversary is Hong Kong’s funeral <a href="https://www.washingtonpost.com/opinions/2021/07/01/chinese-communist-party-hong-kong-taiwan/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/07/01/chinese-communist-party-hong-kong-taiwan/</a>
 
+### 5: [2021-07-02 22:00:25+08:00 推文](https://twitter.com/nathanlawkc/status/1410961560625979395)
+
+One of the most high-profile podcasts I have done, and one of the most impressive one. Thank @DavidAltonHL for making this possible. Hongkongers' voices should be heard by people who believe in democracy.<br>#StandWithHongKong<br><br>David Axelrod: How much is democracy worth?<br>As we approach July 4th, I’m posting a new #AxeFiles with @nathanlawkc,  28, the pro-democracy student leader from Hong Kong, who served time in prison and now is living in exile.<br>Sacrificing to win what we Americans have!<br>👉<br><br><img style src="https://pbs.twimg.com/media/E5O8NMJXIAEP3xB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://link.chtbl.com/9p-1b1hf" target="_blank" rel="noopener noreferrer">https://link.chtbl.com/9p-1b1hf</a>
+
