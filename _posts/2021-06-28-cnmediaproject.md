@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-02
+date: 2021-07-03
 from: https://twitter.com/cnmediaproject/status/1409518872928174081
 layout: post
 tags:
@@ -142,4 +142,12 @@ RT Ilaria Maria Sala<br>Re @chenchenzh Hey there any wonder Sweden is neutral 
 ### 32: [2021-07-02 14:18:41+08:00 推文](https://twitter.com/supchinanews/status/1410845364421218310)
 
 RT SupChina<br>With Anti-Foreign Sanctions Law, China is one step closer to busting U.S. "long-arm jurisdiction." It's bad news for foreign businesses: <a href="https://supchina.com/2021/07/02/chinas-anti-foreign-sanctions-law/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/07/02/chinas-anti-foreign-sanctions-law/</a>
+
+### 33: [2021-07-03 01:01:18+08:00 推文](https://twitter.com/PM_Thornton/status/1411007082690756612)
+
+RT Patricia M Thornton<br>1/端傳媒 with a fascinating piece on Worshipping Mao to Suppress Deng 崇毛抑鄧？習時代對兩個領導人的重塑和打通四個「三十年」的野心  Is Xi recovering Mao as the "great man" or "hero" of CCP history, and relegating Deng to a mere "inheritor" of socialism? <a href="https://theinitium.com/article/20210625-opinion-ccp-history-xi-reframe-mao-deng/" target="_blank" rel="noopener noreferrer">https://theinitium.com/article/20210625-opinion-ccp-history-xi-reframe-mao-deng/</a>
+
+### 34: [2021-07-03 01:01:19+08:00 推文](https://twitter.com/PM_Thornton/status/1411007088248119297)
+
+RT Patricia M Thornton<br>Re 3/ The author then adopts the keyword counting method used by @cnmediaproject to come up with levels of "warmth" in political discourse. From 2013 to 2019, the author finds Mao is pretty consistently hotter than Deng, w/a brief deflation due to #COVID19 in 2020<br><img style src="https://pbs.twimg.com/media/E5TCwOxXEAU5kGu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
