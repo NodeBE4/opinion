@@ -39,3 +39,11 @@ Re @kungat @HuPing1 @ZhouFengSuo @ranxiangmm @JianglinLi 這篇文章是我寫�
 
 分享推友的精彩推文。<br><img style src="https://pbs.twimg.com/media/E5POFFZWYAAstrz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5POFTCWUAIyuxw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 7: [2021-07-02 18:47:47+08:00 推文](https://twitter.com/realcaixia/status/1410913086190542853)
+
+鲍老说得好！<br><br>鲍彤 Bao Tong: 此事无耻。但不宜厚责年轻人。他们是从毛选抄来的。<br>叫群众给中共当“铜墙铁壁”的发明者，是中华苏维埃联邦共和国的毛主席。<br> <a href="https://twitter.com/mengsunII/status/1410538024752934914" target="_blank" rel="noopener noreferrer">https://twitter.com/mengsunII/status/1410538024752934914</a>
+
+### 8: [2021-07-02 19:22:28+08:00 推文](https://twitter.com/realcaixia/status/1410921812364513281)
+
+这是我在“百年中国.中共百年”100小时连续线上直播活动中发言的一部分。计划经济四个字不是仅仅是经济，实质是控制每个人命运的极权统治机制中最核心的部分。有兴趣的朋友请听完我这一段。现在习又要退回去搞计划经济了，请高度警惕习推行的有关措施。<br><br>林姗美国 Lin's USA: @Ipkmedia @realcaixia 光传媒 中共百年 中共中央党校前教授蔡霞：计划经济的本质就是计划人的生死 就是集权统治 比希特勒还野蛮<br>（我第一次花时间加了外挂字幕，方便大家抓住精意和永久记忆，请打开字母功能）<br> <a href="https://www.youtube.com/watch?v=ZyCeX1P5Z10" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=ZyCeX1P5Z10</a>
+
