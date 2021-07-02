@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-01
+date: 2021-07-02
 from: https://twitter.com/cnmediaproject/status/1409518872928174081
 layout: post
 tags:
@@ -122,4 +122,24 @@ RT Zhaoyin Feng 馮兆音<br>Robert Daly's take on CCP centenary, via Politico
 ### 27: [2021-07-01 23:02:49+08:00 推文](https://twitter.com/GMFAsia/status/1410614876154724361)
 
 RT GMF Asia<br>In his July "Watching China in Europe" newsletter, @gmfus' @noahbarkin discusses France’s frustration with the Biden administration's approach and German foreign policy priorities, as Berlin gears up for federal elections in September: <a href="https://www.gmfus.org/blog/2021/07/01/watching-china-europe-july-2021" target="_blank" rel="noopener noreferrer">https://www.gmfus.org/blog/2021/07/01/watching-china-europe-july-2021</a>
+
+### 28: [2021-07-02 12:48:56+08:00 推文](https://twitter.com/chenchenzh/status/1410822777268015109)
+
+RT Chenchen Zhang🤦🏻‍♀️<br>Re as a native speaker when I see words like 头破血流 or 粉身碎骨, my first impression is not how violent they are, but how emotional they are<br><br>btw @tingguowrites and I are planning on a panel on the emotional state in AAS2022
+
+### 29: [2021-07-02 13:46:00+08:00 推文](https://twitter.com/JerkerHellstrom/status/1410837136966701057)
+
+RT Jerker Hellström<br>China has used the covid-19 pandemic as an opportunity to promote domestic smart city technologies overseas, says Miriam Tardell in a new brief published by the Swedish Center for China Studies @S_C_C_S_ <br><br>Read it @ <a href="https://www.sccs.se/blog" target="_blank" rel="noopener noreferrer">https://www.sccs.se/blog</a><br><img style src="https://pbs.twimg.com/media/E5PV3XEWYAYBsQz?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 30: [2021-07-02 14:05:53+08:00 推文](https://twitter.com/chenchenzh/status/1410842143514632192)
+
+RT Chenchen Zhang🤦🏻‍♀️<br>the first time when you realize there are national anthems that are not incredibly sad, desperate, angry & militaristic <br>sing from childhood: build a new great wall with our blood and flesh<br>that's the national pathos I grew up with and totally took it for granted<br><br>Ting Microway ㊙️: The Chinese language we grew up w/ is a revolutionary one, full of battlefield discourses. “Eastern wind blows & the war drums are beating” presents school events. National flag is “coloured by patriots’ blood”. Violence is abstracted, it’s the emotions the regime seeks to convey<br> <a href="https://twitter.com/chenchenzh/status/1410822777268015109" target="_blank" rel="noopener noreferrer">https://twitter.com/chenchenzh/status/1410822777268015109</a>
+
+### 31: [2021-07-02 14:12:36+08:00 推文](https://twitter.com/IlariaMariaSala/status/1410843834091642884)
+
+RT Ilaria Maria Sala<br>Re @chenchenzh Hey there any wonder Sweden is neutral the anthem is just the opposite of militarism! “You ancient you free... you silent you joyful” (found here w translation not best version maybe) <a href="https://hejsweden.com/en/swedish-national-anthem-lyrics-swedish-english/" target="_blank" rel="noopener noreferrer">https://hejsweden.com/en/swedish-national-anthem-lyrics-swedish-english/</a>
+
+### 32: [2021-07-02 14:18:41+08:00 推文](https://twitter.com/supchinanews/status/1410845364421218310)
+
+RT SupChina<br>With Anti-Foreign Sanctions Law, China is one step closer to busting U.S. "long-arm jurisdiction." It's bad news for foreign businesses: <a href="https://supchina.com/2021/07/02/chinas-anti-foreign-sanctions-law/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/07/02/chinas-anti-foreign-sanctions-law/</a>
 
