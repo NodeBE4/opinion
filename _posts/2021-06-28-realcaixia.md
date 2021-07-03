@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-03
+date: 2021-07-04
 from: https://twitter.com/realcaixia/status/1409251623751270401
 layout: post
 tags:
@@ -58,4 +58,8 @@ Re @SLin2020 感谢您给我的帮助。🌹
 ### 11: [2021-07-03 01:42:23+08:00 推文](https://twitter.com/realcaixia/status/1411017421029322760)
 
 Re @wongkim728 感谢王剑老师的支持和帮助。听到你评论我写的中美关系文章。你的再次梳理文章内容真是一个创造，很清晰。👍🌹
+
+### 12: [2021-07-04 03:24:53+08:00 推文](https://twitter.com/realcaixia/status/1411405605198249989)
+
+王剑老师对中共百年庆典点评精准深刻，岂止入木三分而是深到骨髓。<br>中共百年党庆的政治计算与失算/王剑每日观察/20210703 <a href="https://youtu.be/VeTuXPczPSk" target="_blank" rel="noopener noreferrer">https://youtu.be/VeTuXPczPSk</a>
 
