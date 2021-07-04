@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-07-02
+date: 2021-07-04
 from: https://twitter.com/nathanlawkc/status/1409277186088054785
 layout: post
 tags:
@@ -34,4 +34,8 @@ See you guys in a few hours!<br><br>Fight For Freedom. Stand With Hong Kong. 重
 ### 5: [2021-07-02 22:00:25+08:00 推文](https://twitter.com/nathanlawkc/status/1410961560625979395)
 
 One of the most high-profile podcasts I have done, and one of the most impressive one. Thank @DavidAltonHL for making this possible. Hongkongers' voices should be heard by people who believe in democracy.<br>#StandWithHongKong<br><br>David Axelrod: How much is democracy worth?<br>As we approach July 4th, I’m posting a new #AxeFiles with @nathanlawkc,  28, the pro-democracy student leader from Hong Kong, who served time in prison and now is living in exile.<br>Sacrificing to win what we Americans have!<br>👉<br><br><img style src="https://pbs.twimg.com/media/E5O8NMJXIAEP3xB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://link.chtbl.com/9p-1b1hf" target="_blank" rel="noopener noreferrer">https://link.chtbl.com/9p-1b1hf</a>
+
+### 6: [2021-07-04 17:50:10+08:00 推文](https://twitter.com/nathanlawkc/status/1411623359356583938)
+
+My feeling when I left Hong Kong.<br><br>David Axelrod: It was moving to hear the young Hong Kong democracy leader @nathanlawkc, driven from the city by China’s crackdown, speak about his flight from family, friends and the life he knew-perhaps forever.<br>All new Independence Weekend #AxeFiles!<br>Pod:<br><br><video src="https://video.twimg.com/ext_tw_video/1410964989595246595/pu/vid/1280x720/4HRjkl3FtjFDixKz.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1410964989595246595/pu/img/pWytThcLxsIOhxSt.jpg"></video> <a href="https://link.chtbl.com/9p-1b1hf" target="_blank" rel="noopener noreferrer">https://link.chtbl.com/9p-1b1hf</a>
 
