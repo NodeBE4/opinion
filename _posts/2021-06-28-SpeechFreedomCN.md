@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-02
+date: 2021-07-04
 from: https://twitter.com/SpeechFreedomCN/status/1409398300915081216
 layout: post
 tags:
@@ -42,4 +42,12 @@ Lawyer surnamed Zhu in Henan Province, who believed his father was wrongfully pr
 ### 7: [2021-07-02 15:35:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1410864583133126656)
 
 Human rights lawyer Lu Tingge in Shijiazhuang summoned by local police two days ago for his involvement in "Picking Quarrel and Provoking Trouble". Lu has not returned yet and is therefore possibly under arrest. Reason he got summoned includes his dissent remarks on Internet.<br><img style src="https://pbs.twimg.com/media/E5Rl0jjVkAMSOIF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5Rl20MVkAIFlRW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-07-04 14:37:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1411574753295429635)
+
+“编程随想“被捕：刚刚，净网志愿者协会（净协）称其耗时数月，查到了编程随想的身份信息，并已举报给公安。净协称其找到了编程随想曾用过的微博与豆瓣账号，且账号浏览记录与他的博客内容符合，使用者是山东东营一名姓马的男子。净协将信息提交给警方后，编程随想随即失联，净协因宣告其“任务成功”。<br><img style src="https://pbs.twimg.com/media/E5bqkaYVoAM7u6P?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5bqlW2UUAEy3UM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-07-04 14:42:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1411576132801994752)
+
+Shandong man Ma, author of the blog Program Think, who was known as a legendary dissident for his high quality political articles and IT skills which kept him safe for 11 years, likely arrested. An NGO in China claims it successfully obtained his info and handed it to police.<br><img style src="https://pbs.twimg.com/media/E5bry7iVcAAevTU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5br0B0VkAAAhVT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
