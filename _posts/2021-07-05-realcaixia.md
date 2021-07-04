@@ -27,3 +27,7 @@ title: 'Twitter @蔡霞: 2021-07-05~2021-07-11'
 
 祝贺美国国庆！昨天看到了新闻，法国向美国赠送了迷你版自由女神像。世界上所有热爱自由民主的人们都会热爱这个国家，热爱视自由民主为立国之基的美国民众。祝美国的自由民主制度更加发展完善。<br><br>Bill Gertz: Happy Birthday, America. Land of the free, home of the brave<br><br><img style src="https://pbs.twimg.com/media/E5dABQGXwAMexLI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2021-07-05 01:46:58+08:00 推文](https://twitter.com/realcaixia/status/1411743349715910658)
+
+这是我们共同做的活动，有兴趣的朋友过一段时间后可以上油管上看看我们的演讲活动。我也做了两个演讲。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【公告】<br><br>由光传媒主办的“百年中国·中共百年”研讨会顺利结束<br><br>本次会议有全球欧洲、亚洲、澳洲和北美四大洲，德国奥國日本台湾🇨🇦🇺🇸等数十个国家的逾百名著名中外专家学者、民主、宗教、文艺界人士参与；产生70余个精彩演讲<br><br>将于国庆节后正式发布系列视频<br><br>敬请期待 特此告知🌹<br>大家毕至 精彩纷呈🌸<br><br><img style src="https://pbs.twimg.com/media/E5dRGDqXMAEvc6d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5dRGD-XoAE8vMj?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5dRGDlXMAUjHqq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5dRGDmWUAI7c5b?format=jpg&name=orig" referrerpolicy="no-referrer">
+
