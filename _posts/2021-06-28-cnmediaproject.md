@@ -155,3 +155,11 @@ RT Patricia M Thornton<br>Re 3/ The author then adopts the keyword counting me
 
 Almost one month after two aerospace experts were violently attacked by an aerospace company executive and hospitalized, the case has become an online sensation -- raising questions about corruption and cover-up within the prestigious industry. <a href="https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/</a><br><img style src="https://pbs.twimg.com/media/E5cXBhQWUAILH80?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 36: [2021-07-04 20:55:30+08:00 推文](https://twitter.com/SixthTone/status/1411670000285327361)
+
+RT Sixth Tone<br>Breaking: The Cyberspace Administration of China has ordered app stores to remove the country’s dominant ride-hailing platform Didi Chuxing due to “serious violations of laws and regulations to collect and use personal information,” according to an announcement on Sunday.<br><img style src="https://pbs.twimg.com/media/E5dCHBZVgAEKdyP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 37: [2021-07-04 22:14:41+08:00 推文](https://twitter.com/lingli_vienna/status/1411689929868988423)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Bo Xicheng, brother of Bo Xilai, was one of the honorable guests, who were invited to attend the July 1st ceremony on the Tiananmen Gate Tower.<br><br>高瑜: 天安門黨慶百年大會，建國之初四副兩高以上、55上將以上家族，一族一人，齊齊登上東觀禮台。<br><br><img style src="https://pbs.twimg.com/media/E5WYxkOVkAUmCIM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5WYzk3UYAYi3sD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5WY2GiVcAQrNCa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5WY9_uUYAIJ-Mf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
