@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-03
+date: 2021-07-04
 from: https://twitter.com/cnmediaproject/status/1409518872928174081
 layout: post
 tags:
@@ -150,4 +150,8 @@ RT Patricia M Thornton<br>1/端傳媒 with a fascinating piece on Worshipping 
 ### 34: [2021-07-03 01:01:19+08:00 推文](https://twitter.com/PM_Thornton/status/1411007088248119297)
 
 RT Patricia M Thornton<br>Re 3/ The author then adopts the keyword counting method used by @cnmediaproject to come up with levels of "warmth" in political discourse. From 2013 to 2019, the author finds Mao is pretty consistently hotter than Deng, w/a brief deflation due to #COVID19 in 2020<br><img style src="https://pbs.twimg.com/media/E5TCwOxXEAU5kGu?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 35: [2021-07-04 17:46:23+08:00 推文](https://twitter.com/cnmediaproject/status/1411622409178959872)
+
+Almost one month after two aerospace experts were violently attacked by an aerospace company executive and hospitalized, the case has become an online sensation -- raising questions about corruption and cover-up within the prestigious industry. <a href="https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/</a><br><img style src="https://pbs.twimg.com/media/E5cXBhQWUAILH80?format=jpg&name=orig" referrerpolicy="no-referrer">
 
