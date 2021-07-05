@@ -31,3 +31,23 @@ title: 'Twitter @蔡霞: 2021-07-05~2021-07-11'
 
 这是我们共同做的活动，有兴趣的朋友过一段时间后可以上油管上看看我们的演讲活动。我也做了两个演讲。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【公告】<br><br>由光传媒主办的“百年中国·中共百年”研讨会顺利结束<br><br>本次会议有全球欧洲、亚洲、澳洲和北美四大洲，德国奥國日本台湾🇨🇦🇺🇸等数十个国家的逾百名著名中外专家学者、民主、宗教、文艺界人士参与；产生70余个精彩演讲<br><br>将于国庆节后正式发布系列视频<br><br>敬请期待 特此告知🌹<br>大家毕至 精彩纷呈🌸<br><br><img style src="https://pbs.twimg.com/media/E5dRGDqXMAEvc6d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5dRGD-XoAE8vMj?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5dRGDlXMAUjHqq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5dRGDmWUAI7c5b?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2021-07-05 09:49:50+08:00 推文](https://twitter.com/realcaixia/status/1411864868622319617)
+
+这篇报道苹果日报总裁黎智英的文章写得感人至深。是的，我们能像黎智英那样为我们自己认定的价值理念牺牲一切吗？这是拷问人的灵魂最深处的问题。黎智英，我崇敬的英雄！<br>Meet The Self-Made Billionaire Who Is Sacrificing It All For God <a href="https://thefederalist.com/2021/07/01/modern-day-martyr-meet-the-self-made-billionaire-who-is-sacrificing-it-all-for-god/" target="_blank" rel="noopener noreferrer">https://thefederalist.com/2021/07/01/modern-day-martyr-meet-the-self-made-billionaire-who-is-sacrificing-it-all-for-god/</a>
+
+### 6: [2021-07-05 09:52:09+08:00 推文](https://twitter.com/realcaixia/status/1411865449923547136)
+
+Re @AntiG53748203 非常感谢🌹，推动中国大陆的自由民主政治转型，需要我们共同的努力💪。
+
+### 7: [2021-07-05 09:56:03+08:00 推文](https://twitter.com/realcaixia/status/1411866434544836613)
+
+Re @NoOneKnowsSH 站在这个华堂里合影的人都是“赵家人”，他们不以为耻反以为荣，怎么可能有与我们为自由民主而努力理念相同的人？
+
+### 8: [2021-07-05 11:34:46+08:00 推文](https://twitter.com/realcaixia/status/1411891275222159362)
+
+视频是我2013年在北京思享讲堂上回答问题。后面录音是2019年在一个红二代为主的微信群里的即兴发言。这个发言有粗梳、遗漏、浅表深度不够等缺憾。如有机会我重谈中国政治转型思考。<br>中央党校教授蔡霞讲座，看看真实的蔡霞风采，有深度，有见解。+蔡霞教授录音。 <a href="https://youtu.be/pczMBc25SZM" target="_blank" rel="noopener noreferrer">https://youtu.be/pczMBc25SZM</a>
+
+### 9: [2021-07-05 12:00:02+08:00 推文](https://twitter.com/realcaixia/status/1411897633459814404)
+
+Re 不知是哪位网友整合后在油管推出的，这是我在大陆时的两次发言。回头看自己那时的认识，有欣慰有缺憾。2016年以后，我被大陆全面封禁，绝对禁止网络、报纸、杂志和出版社发布我的文章和讲座等。所以偶然发现了这个整合资料，对我个人极有保存价值，感谢不知名的油管网友。感谢🌹🌹。
+
