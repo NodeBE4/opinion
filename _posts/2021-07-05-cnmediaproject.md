@@ -27,3 +27,7 @@ RT Carl Minzner<br>Great piece by @ChuBailiang and @KeithBradsher.  <br><br>On
 
 Update late today on the case of Zhang Tao, the aerospace exec who brutally assaulted 2 men in June. Our summary: <a href="https://bit.ly/3yn8buR" target="_blank" rel="noopener noreferrer">https://bit.ly/3yn8buR</a> <a href="https://bit.ly/3dHefqm" target="_blank" rel="noopener noreferrer">https://bit.ly/3dHefqm</a><br><img style src="https://pbs.twimg.com/media/E5eAK5jWQAEhz3V?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 4: [2021-07-05 03:33:17+08:00 推文](https://twitter.com/gwbstr/status/1411770108100317184)
+
+RT Graham Webster<br>Thanks for sharing! So glad to have this @logic_magazine piece out from paywall.<br><br>Shift Print: Concise and brilliant timeline on the development of the internet in China. @gwbstr identities 5 stages from the late 1990s to today including legal, social, technological and political developments that... <br><br>[I/II]<br> <a href="https://logicmag.io/china/a-brief-history-of-the-chinese-internet/" target="_blank" rel="noopener noreferrer">https://logicmag.io/china/a-brief-history-of-the-chinese-internet/</a>
+
