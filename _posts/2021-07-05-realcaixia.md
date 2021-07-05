@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-05
+date: 2021-07-06
 from: https://twitter.com/realcaixia/status/1411717096816381954
 layout: post
 tags:
@@ -54,4 +54,8 @@ Re 不知是哪位网友整合后在油管推出的，这是我在大陆时的�
 ### 10: [2021-07-05 13:12:39+08:00 推文](https://twitter.com/realcaixia/status/1411915910231859202)
 
 清华大学的这位老教授是中共党内<br>少有的清醒者。<br><br>🍎环实果艺看世界🎨: 清华大学外文系退休教授蒋毅君，上海交大毕业，1949年以前加入中共地下党。这是她在清华大学副校长登门送纪念党章是说的话：共产党用纳税人的前为自己歌功颂德、铺张浪费，是极大的犯罪。👍<br><br><video src="https://video.twimg.com/ext_tw_video/1411712522177204229/pu/vid/368x640/uO2DYZrcsHm0AKED.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1411712522177204229/pu/img/NlytCpHcjGmxb964.jpg"></video>
+
+### 11: [2021-07-06 00:16:56+08:00 推文](https://twitter.com/realcaixia/status/1412083083407396865)
+
+昨天去朋友家，也是喜庆气氛浓浓，特地挂起新的🇺🇸。一路过去车都停满了，人们欢聚一起，待候夜空为幕烟花争艳。<br>美国人热爱自己的国家，平常日子许多人家门口都挂着🇺🇸国旗，这是我步行时看到的最多的微型风景。相比之下，中国城乡除了体制内单位，居民家门口没见到一处自己挂中共国旗的。<br><br>韩连潮: 【人民的节日】昨晚美国国庆几乎家家都在放烟花，像过春节一样，没有人被迫感恩总统、民主党、共和党，也没有人组织，人民自发地庆祝。反观邪党僵尸般的庆典，我为自己成为美国人感到十分幸运和万分自豪！<br>图片是我邻居的烟花。<br><br><img style src="https://pbs.twimg.com/media/E5iQ1_pXwAInGpH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
