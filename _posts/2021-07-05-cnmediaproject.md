@@ -31,3 +31,7 @@ Update late today on the case of Zhang Tao, the aerospace exec who brutally assa
 
 RT Graham Webster<br>Thanks for sharing! So glad to have this @logic_magazine piece out from paywall.<br><br>Shift Print: Concise and brilliant timeline on the development of the internet in China. @gwbstr identities 5 stages from the late 1990s to today including legal, social, technological and political developments that... <br><br>[I/II]<br> <a href="https://logicmag.io/china/a-brief-history-of-the-chinese-internet/" target="_blank" rel="noopener noreferrer">https://logicmag.io/china/a-brief-history-of-the-chinese-internet/</a>
 
+### 5: [2021-07-05 19:34:08+08:00 推文](https://twitter.com/cnmediaproject/status/1412011910732697602)
+
+A top aerospace executive in China has been removed from his position after an online uproar over the weekend about his brutal beating of two academicians in early June. Our story yesterday. <a href="https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/</a><br><img style src="https://pbs.twimg.com/media/E5h5VddWEAMgGNs?format=jpg&name=orig" referrerpolicy="no-referrer">
+
