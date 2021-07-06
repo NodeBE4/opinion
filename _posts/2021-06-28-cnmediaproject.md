@@ -151,15 +151,19 @@ RT Patricia M Thornton<br>1/端傳媒 with a fascinating piece on Worshipping 
 
 RT Patricia M Thornton<br>Re 3/ The author then adopts the keyword counting method used by @cnmediaproject to come up with levels of "warmth" in political discourse. From 2013 to 2019, the author finds Mao is pretty consistently hotter than Deng, w/a brief deflation due to #COVID19 in 2020<br><img style src="https://pbs.twimg.com/media/E5TCwOxXEAU5kGu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 35: [2021-07-04 17:46:23+08:00 推文](https://twitter.com/cnmediaproject/status/1411622409178959872)
+### 35: [2021-07-04 10:03:43+08:00 推文](https://twitter.com/elsiechenyi/status/1411505976386064386)
+
+RT Elsie Chen<br>I interviewed a couple of “躺友”lying flat friends including “the Master of Lying Down” who sparked the tangping culture in China. Hear what these young Chinese want to say. My latest story here. <a href="https://www.nytimes.com/2021/07/03/world/asia/china-slackers-tangping.html?referringSource=articleShare" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/07/03/world/asia/china-slackers-tangping.html?referringSource=articleShare</a>
+
+### 36: [2021-07-04 17:46:23+08:00 推文](https://twitter.com/cnmediaproject/status/1411622409178959872)
 
 Almost one month after two aerospace experts were violently attacked by an aerospace company executive and hospitalized, the case has become an online sensation -- raising questions about corruption and cover-up within the prestigious industry. <a href="https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/</a><br><img style src="https://pbs.twimg.com/media/E5cXBhQWUAILH80?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 36: [2021-07-04 20:55:30+08:00 推文](https://twitter.com/SixthTone/status/1411670000285327361)
+### 37: [2021-07-04 20:55:30+08:00 推文](https://twitter.com/SixthTone/status/1411670000285327361)
 
 RT Sixth Tone<br>Breaking: The Cyberspace Administration of China has ordered app stores to remove the country’s dominant ride-hailing platform Didi Chuxing due to “serious violations of laws and regulations to collect and use personal information,” according to an announcement on Sunday.<br><img style src="https://pbs.twimg.com/media/E5dCHBZVgAEKdyP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 37: [2021-07-04 22:14:41+08:00 推文](https://twitter.com/lingli_vienna/status/1411689929868988423)
+### 38: [2021-07-04 22:14:41+08:00 推文](https://twitter.com/lingli_vienna/status/1411689929868988423)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Bo Xicheng, brother of Bo Xilai, was one of the honorable guests, who were invited to attend the July 1st ceremony on the Tiananmen Gate Tower.<br><br>高瑜: 天安門黨慶百年大會，建國之初四副兩高以上、55上將以上家族，一族一人，齊齊登上東觀禮台。<br><br><img style src="https://pbs.twimg.com/media/E5WYxkOVkAUmCIM?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5WYzk3UYAYi3sD?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5WY2GiVcAQrNCa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5WY9_uUYAIJ-Mf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
