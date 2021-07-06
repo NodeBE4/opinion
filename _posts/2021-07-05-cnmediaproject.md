@@ -43,7 +43,11 @@ Published days ahead of its centennial, the official chronicle of the history of
 
 Re We look at the 2011 and 2021 versions of the CCP's chronicle of "Major Events" in its history -- and provide you with downloadable PDFs of both so that you too can search for gaps and differences.
 
-### 8: [2021-07-06 22:58:17+08:00 推文](https://twitter.com/ZeyiYang/status/1412425674908971008)
+### 8: [2021-07-06 22:58:08+08:00 推文](https://twitter.com/CarlMinzner/status/1412425640121290753)
+
+RT Carl Minzner<br>A lot of photos of Xi Jinping on front page of the People's Daily today. <br><br>Note the Mao suit (ok, actually 中山裝) w/military. Anyone who follows military affairs know what the standard is for that? I think I've seen suits, uniforms, and the 中山裝.<br><img style src="https://pbs.twimg.com/media/E5nvsnMWYAcujDm?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-07-06 22:58:17+08:00 推文](https://twitter.com/ZeyiYang/status/1412425674908971008)
 
 RT Zeyi Yang 杨泽毅<br>Today WeChat permabanned most public accounts of college LGBTQ student groups in China. (Beida, Tsinghua, Fudan, etc.) Apparently coordinated decisions, but no explanation yet. Most these groups were already struggling to be recognized by their respective schools.<br><img style src="https://pbs.twimg.com/media/E5nxqe4X0AA4RBb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
