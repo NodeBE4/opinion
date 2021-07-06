@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-05
+date: 2021-07-06
 from: https://twitter.com/gwbstr/status/1411723770402787331
 layout: post
 tags:
@@ -34,4 +34,16 @@ RT Graham Webster<br>Thanks for sharing! So glad to have this @logic_magazine 
 ### 5: [2021-07-05 19:34:08+08:00 推文](https://twitter.com/cnmediaproject/status/1412011910732697602)
 
 A top aerospace executive in China has been removed from his position after an online uproar over the weekend about his brutal beating of two academicians in early June. Our story yesterday. <a href="https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/04/aerospace-executives-violent-tantrum-goes-viral/</a><br><img style src="https://pbs.twimg.com/media/E5h5VddWEAMgGNs?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-07-06 21:39:23+08:00 推文](https://twitter.com/cnmediaproject/status/1412405819744960516)
+
+Published days ahead of its centennial, the official chronicle of the history of the Chinese Communist Party offers a revealing glimpse into how the current leadership would like to remember, and forget, the past. Spoiler: reference to signing ICCPR gone. <a href="https://chinamediaproject.org/2021/07/06/historical-revisions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/06/historical-revisions/</a><br><img style src="https://pbs.twimg.com/media/E5nffI8XoA41N1_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-06 21:40:47+08:00 推文](https://twitter.com/cnmediaproject/status/1412406173148626950)
+
+Re We look at the 2011 and 2021 versions of the CCP's chronicle of "Major Events" in its history -- and provide you with downloadable PDFs of both so that you too can search for gaps and differences.
+
+### 8: [2021-07-06 22:58:17+08:00 推文](https://twitter.com/ZeyiYang/status/1412425674908971008)
+
+RT Zeyi Yang 杨泽毅<br>Today WeChat permabanned most public accounts of college LGBTQ student groups in China. (Beida, Tsinghua, Fudan, etc.) Apparently coordinated decisions, but no explanation yet. Most these groups were already struggling to be recognized by their respective schools.<br><img style src="https://pbs.twimg.com/media/E5nxqe4X0AA4RBb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
