@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-06
+date: 2021-07-07
 from: https://twitter.com/gwbstr/status/1411723770402787331
 layout: post
 tags:
@@ -50,4 +50,16 @@ RT Carl Minzner<br>A lot of photos of Xi Jinping on front page of the People's
 ### 9: [2021-07-06 22:58:17+08:00 推文](https://twitter.com/ZeyiYang/status/1412425674908971008)
 
 RT Zeyi Yang 杨泽毅<br>Today WeChat permabanned most public accounts of college LGBTQ student groups in China. (Beida, Tsinghua, Fudan, etc.) Apparently coordinated decisions, but no explanation yet. Most these groups were already struggling to be recognized by their respective schools.<br><img style src="https://pbs.twimg.com/media/E5nxqe4X0AA4RBb?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-07-07 16:29:24+08:00 推文](https://twitter.com/keithrichburg/status/1412690200019443713)
+
+RT Keith Richburg<br>People aged 45 to 65 are more likely than youngsters to forward misinformation on social media, perhaps because older “baby boomers” are less familiar with the online world, said @rachelblundy of @AFPFactCheck.<br><img style src="https://pbs.twimg.com/media/E5riPxfUUAcqN-y?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-07-07 16:56:05+08:00 推文](https://twitter.com/SPCmonitor/status/1412696915498520578)
+
+RT Susan Finder<br>Re @lingli_vienna 哪里哪里！There is another important concept as well, 编制--headcount/bianzhi, that Kjeld Erik Brødsgaard wrote about, & I have a blogpost on <a href="https://supremepeoplescourtmonitor.com/2020/03/21/controlling-judicial-headcount-in-the-new-era/" target="_blank" rel="noopener noreferrer">https://supremepeoplescourtmonitor.com/2020/03/21/controlling-judicial-headcount-in-the-new-era/</a>
+
+### 12: [2021-07-07 21:01:26+08:00 推文](https://twitter.com/cnmediaproject/status/1412758658644054018)
+
+A new “Research Center for Xi Jinping Economic Thought” (习近平经济思想研究中心) has been launched, another milestone in Xi's bid for a banner term to match Mao's. <a href="https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/</a><br><img style src="https://pbs.twimg.com/media/E5sggBUXwAQp-yP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
