@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-07
+date: 2021-07-08
 from: https://twitter.com/gwbstr/status/1411723770402787331
 layout: post
 tags:
@@ -70,4 +70,12 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>It might trigger an outrage if taobao is shutd
 ### 14: [2021-07-07 22:44:27+08:00 推文](https://twitter.com/cnmediaproject/status/1412784584455081989)
 
 Another Milestone for Xi Jinping Thought: The launch of a new research center dedicated to a slogan used to encompass the economic ideas of China's top leader marks further development toward the "banner term" meant to signal his power and legacy. <a href="https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/</a><br><img style src="https://pbs.twimg.com/media/E5s4FDBWUAU3OD5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-07-08 01:30:49+08:00 推文](https://twitter.com/chenchenzh/status/1412826448663093249)
+
+RT Chenchen Zhang🤦🏻‍♀️<br>love how Chinese nationalists take pride in the high-tech border fence between China and Myanmar built since the pandemic to detect unauthorized travellers and "keep the virus out" and how this would be Trump's wet dream ("makes Trump cry in the toilet")<br><img style src="https://pbs.twimg.com/media/E5teKS7XIAQPA4B?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5teKsGXEAEXNrN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-07-08 02:02:00+08:00 推文](https://twitter.com/PM_Thornton/status/1412834297170432005)
+
+RT Patricia M Thornton<br>Reuters: #China's #WeChat social media platform has deleted dozens of #LGBT accounts run by university students, saying some had broken rules on information on the internet. <a href="https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/</a>
 

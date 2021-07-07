@@ -95,3 +95,7 @@ Re @newcreationmsn 就你这语言反映出来的思维方式，与中共思维�
 
 Re @newcreationmsn 就看你的话语，很显然如果你上台就是第二个习近平。思维方式一样。
 
+### 21: [2021-07-08 04:19:51+08:00 推文](https://twitter.com/realcaixia/status/1412868990423162881)
+
+尊者达赖喇嘛的心胸如大海一般，尊者的仁厚慈爱，在大陆西藏同胞心目中有崇高的人格魅力。<br><br>RFI 华语 - 法国国际广播电台: 达赖喇嘛86岁生日：余生致力于非暴力和慈悲心价值观<br><br><img style src="https://pbs.twimg.com/media/E5pPPN_VcAEPOjQ?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/7YFJ.t" target="_blank" rel="noopener noreferrer">https://rfi.my/7YFJ.t</a>
+
