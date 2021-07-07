@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-07
+date: 2021-07-08
 from: https://twitter.com/realcaixia/status/1411717096816381954
 layout: post
 tags:
@@ -70,4 +70,28 @@ Re 我转发这个视频时困到不行了，今天发现有几个字没有写�
 ### 14: [2021-07-07 00:16:24+08:00 推文](https://twitter.com/realcaixia/status/1412445333272076296)
 
 Re @yzItcamXy6eEUn4 @loveleslierui 灵境胡同一溜高墙是中南海的墙,高墙是宣示极权统治威严神秘的象征之一。你公开表明自己住灵境胡同，要么是中共极权的鹰犬，在推特上活动是你的职务行动；要么你是以遛中南海墙根为荣的驯服奴民。老北京有许多喜欢吹自己祖上是“上三旗”；习7.1把赵家人后代请上车，你是推特上挣表现，挤进赵家人车里去？
+
+### 15: [2021-07-07 21:37:14+08:00 推文](https://twitter.com/realcaixia/status/1412767667195420674)
+
+党史不说的那些事（1）：从建党百年庆典说开去 <a href="https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1806240/%E5%85%9A%E5%8F%B2%E4%B8%8D%E8%AF%B4%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B-1-%E4%BB%8E%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E5%85%B8%E8%AF%B4%E5%BC%80%E5%8E%BB" target="_blank" rel="noopener noreferrer">https://ici.radio-canada.ca/rci/zh-hans/%E6%96%B0%E9%97%BB/1806240/%E5%85%9A%E5%8F%B2%E4%B8%8D%E8%AF%B4%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B-1-%E4%BB%8E%E5%BB%BA%E5%85%9A%E7%99%BE%E5%B9%B4%E5%BA%86%E5%85%B8%E8%AF%B4%E5%BC%80%E5%8E%BB</a>
+
+### 16: [2021-07-07 22:52:55+08:00 推文](https://twitter.com/realcaixia/status/1412786712162537473)
+
+习近平在政党峰会讲话又出状况/美国拒签500中国留学生的真相/张陶打院士刑拘 军委副主席侄子?/王剑每日观察/20210706 <a href="https://youtu.be/jWkHJqghfDY" target="_blank" rel="noopener noreferrer">https://youtu.be/jWkHJqghfDY</a>
+
+### 17: [2021-07-07 23:08:01+08:00 推文](https://twitter.com/realcaixia/status/1412790513544175616)
+
+Re 特推荐王剑老师的这期每日观察。习开会讲话出状况非我关注重点，中共官员开会乱念稿、不知念到哪里，不是孤例。曾经有个副省长，开会念讲话稿，念了10分钟发现下面官员神情不对，才发现自己念稿串错场了，开的是X会念的是Y稿。对此类情况，党内流行一个形象名称：“不在状态”。我关注的重点是：
+
+### 18: [2021-07-07 23:19:32+08:00 推文](https://twitter.com/realcaixia/status/1412793410629648388)
+
+Re 王剑老师紧接着历数中共国顶尖名校系主任、院长、校长的读错字、用错成语、翻译闹笑话。顶尖大学顶尖“官员”的文化素养实在不敢恭维。由此想到，在大陆中华文化面临灭绝非耸人听闻，是实实在在的现实危险。中共统治70多年里摧残中华文化，贻害无穷啊！中华文化的传承文明传统、守护传统美德，都将不覆。
+
+### 19: [2021-07-07 23:30:21+08:00 推文](https://twitter.com/realcaixia/status/1412796133726949379)
+
+Re @newcreationmsn 就你这语言反映出来的思维方式，与中共思维方式一脉相承。讨论这个你扯那个。你是不讨论话题，但攻击提出话题的人，与大陆中共一贯做法：“不解决问题，解决提出问题的人”如出一辙。
+
+### 20: [2021-07-08 00:19:11+08:00 推文](https://twitter.com/realcaixia/status/1412808423486504963)
+
+Re @newcreationmsn 就看你的话语，很显然如果你上台就是第二个习近平。思维方式一样。
 

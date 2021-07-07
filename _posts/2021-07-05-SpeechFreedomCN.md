@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-07-05~2021-07-11'
 
 Two staffs at a Beijing real estate brokerage company held under criminal detention recently for posting “inciting comments” on a new housing market policy, which caused residents gathering. The company has also been under investigation.<br><img style src="https://pbs.twimg.com/media/E5pun9kVEAAUPzu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5pun9jVEAguSuB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-07-07 17:10:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1412700441331126280)
+
+北京男子许迪航，因驾驶摩托车时对着路边欲拦截他的交警竖中指，并将过程视频发布至抖音，被判刑七个月。许迪逃避交警检查的行为或属于强行冲卡，确有不妥，但此行为已由交警单独处罚，且判决书表明，他被判刑只是因为向交警竖中指并发布到抖音。<br><img style src="https://pbs.twimg.com/media/E5rqsAaUcAAdWhw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rqtAoVcAM1Qs7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rqvJIUcAEfVTz?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rqwJVUYAUf2z5?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-07-07 17:13:25+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1412701274403835909)
+
+Beijing man Xu Dihang sentenced to 7 months in prison for raising his middle finger to a traffic police while riding a motorcycle, and sharing the video of the process on Douyin.<br><img style src="https://pbs.twimg.com/media/E5rrm9lVcAI2YMg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rroBuUUAMgRPL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rrpI0UUAIfPFk?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rrqkrUUAU7R4w?format=png&name=orig" referrerpolicy="no-referrer">
+

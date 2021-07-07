@@ -63,3 +63,11 @@ RT Susan Finder<br>Re @lingli_vienna 哪里哪里！There is another important
 
 A new “Research Center for Xi Jinping Economic Thought” (习近平经济思想研究中心) has been launched, another milestone in Xi's bid for a banner term to match Mao's. <a href="https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/</a><br><img style src="https://pbs.twimg.com/media/E5sggBUXwAQp-yP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 13: [2021-07-07 22:02:42+08:00 推文](https://twitter.com/lingli_vienna/status/1412774077035683842)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>It might trigger an outrage if taobao is shutdown, but a few LGBTQ social media accounts?<br><br>Chinese Storytellers: The shutdown of influential LGBTQ social media accounts in China has triggered an online outrage, raising fears of tougher crackdown on queer activism in the country. <br><br>@violazhouyi for @VICE:<br><br><img style src="https://pbs.twimg.com/media/E5soNDcXIAAtmqN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://buff.ly/3jWUlLX" target="_blank" rel="noopener noreferrer">https://buff.ly/3jWUlLX</a>
+
+### 14: [2021-07-07 22:44:27+08:00 推文](https://twitter.com/cnmediaproject/status/1412784584455081989)
+
+Another Milestone for Xi Jinping Thought: The launch of a new research center dedicated to a slogan used to encompass the economic ideas of China's top leader marks further development toward the "banner term" meant to signal his power and legacy. <a href="https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/07/another-point-for-xi-jinping-thought/</a><br><img style src="https://pbs.twimg.com/media/E5s4FDBWUAU3OD5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
