@@ -79,3 +79,15 @@ RT Chenchen Zhang🤦🏻‍♀️<br>love how Chinese nationalists take pride
 
 RT Patricia M Thornton<br>Reuters: #China's #WeChat social media platform has deleted dozens of #LGBT accounts run by university students, saying some had broken rules on information on the internet. <a href="https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china/chinas-wechat-deletes-university-lgbt-accounts-2021-07-07/</a>
 
+### 17: [2021-07-08 08:04:48+08:00 推文](https://twitter.com/DariusLongarino/status/1412925600894001157)
+
+RT Darius Longarino 龙大瑞<br>This 🧵 outlines *some* major developments re online censorship of LGBT content in China over the past few years to provide context for the shuttering of LGBT student groups’ social media accounts. First, this is yesterday's development: <a href="https://variety.com/2021/politics/news/china-censors-lgbtq-campus-group-1235012809/" target="_blank" rel="noopener noreferrer">https://variety.com/2021/politics/news/china-censors-lgbtq-campus-group-1235012809/</a>
+
+### 18: [2021-07-08 12:24:49+08:00 推文](https://twitter.com/Junmai1103/status/1412991035236491265)
+
+RT Jun Mai<br>China abruptly shuts down LGBT organisations on social media <a href="https://www.scmp.com/news/people-culture/gender-diversity/article/3140176/china-targets-lgbt-student-organisations?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3140176" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/people-culture/gender-diversity/article/3140176/china-targets-lgbt-student-organisations?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3140176</a>
+
+### 19: [2021-07-08 16:23:44+08:00 推文](https://twitter.com/amyyqin/status/1413051159669927942)
+
+RT Amy Qin 秦颖<br>Read Alex Palmer on Zhao Lijian - The Man Behind China’s Aggressive New Voice: How one bureaucrat, armed with just a Twitter account, remade Beijing’s diplomacy for a nationalistic era. <a href="https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html?smid=tw-share</a>
+
