@@ -27,3 +27,7 @@ We’ve always been saying that countering CCP’s global aggression is not raci
 
 That's the way we should move forward. Let's hold CCP accountable for its human rights violations.<br><br>Inter-Parliamentary Alliance on China: #BREAKING: EU Parliament passes joint resolution on Hong Kong, calling for: <br><br>👉Sanctions on HK officials<br>👉Termination of extradition treaties with China<br>👉 Diplomatic boycott of #Beijing2022 Olympics<br><br>#IPAC 🇪🇺 co-chair @MiriamMLex: "the free world cannot stand by"<br><br>@hk_watch<br><br><video src="https://video.twimg.com/ext_tw_video/1413152467425009675/pu/vid/1024x576/p02xfXSRAsIzgEPX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1413152467425009675/pu/img/-kIhwOs4R4Z6lbDr.jpg"></video>
 
+### 4: [2021-07-09 02:39:14+08:00 推文](https://twitter.com/nathanlawkc/status/1413206058030571520)
+
+A diplomatic boycott is the LEAST we can do for the people in Xinjiang's concentration camps.<br><br>Lisa Nandy: Two months ago, Parliament voted to recognise that genocide was being committed against the Uyghur people.<br><br>Unless the UN is granted access to Xinjiang, British politicians and the Royal Family should not be attending the Beijing Winter Olympics next year.<br><br><img style src="https://pbs.twimg.com/media/E5rL8MGXIAA5893?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rL9wWXMAERLea?format=jpg&name=orig" referrerpolicy="no-referrer">
+
