@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-07
+date: 2021-07-08
 from: https://twitter.com/SpeechFreedomCN/status/1412561876827791364
 layout: post
 tags:
@@ -30,4 +30,12 @@ Two staffs at a Beijing real estate brokerage company held under criminal detent
 ### 4: [2021-07-07 17:13:25+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1412701274403835909)
 
 Beijing man Xu Dihang sentenced to 7 months in prison for raising his middle finger to a traffic police while riding a motorcycle, and sharing the video of the process on Douyin.<br><img style src="https://pbs.twimg.com/media/E5rrm9lVcAI2YMg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rroBuUUAMgRPL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rrpI0UUAIfPFk?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rrqkrUUAU7R4w?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-07-08 07:44:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1412920506932633602)
+
+编程信息开发网站联合开发网（ <a href="http://pudn.com/" target="_blank" rel="noopener noreferrer">http://pudn.com</a><br><img style src="https://pbs.twimg.com/media/E5uzs2oVEAI98d4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5uzs4zVkAMXzmV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5uzs4zVoAUGniy?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5uzs4zVkAE7Qkz?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-07-08 07:52:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1412922471867555841)
+
+China based programming technology sharing website <a href="http://pudn.com/" target="_blank" rel="noopener noreferrer">http://pudn.com</a><br><img style src="https://pbs.twimg.com/media/E5u1fNiUYAQuAh0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5u1fPzVoAQr2fA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5u1fPyUcAEgfPC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5u1fP0VoAITpNp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
