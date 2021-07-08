@@ -91,3 +91,7 @@ RT Jun Mai<br>China abruptly shuts down LGBT organisations on social media <
 
 RT Amy Qin 秦颖<br>Read Alex Palmer on Zhao Lijian - The Man Behind China’s Aggressive New Voice: How one bureaucrat, armed with just a Twitter account, remade Beijing’s diplomacy for a nationalistic era. <a href="https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/07/07/magazine/china-diplomacy-twitter-zhao-lijian.html?smid=tw-share</a>
 
+### 20: [2021-07-08 23:22:45+08:00 推文](https://twitter.com/cnmediaproject/status/1413156608725721091)
+
+With a 5th "research center" devoted to "Xi Jinping Thought on __", Xi has now covered the major policy bases with his banner term . . . Further move toward formalization of "Xi Jinping Thought" before the next Party Congress? <a href="https://chinamediaproject.org/2021/07/08/a-fifth-center-rounds-out-xi-jinpings-hold-on-policy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/08/a-fifth-center-rounds-out-xi-jinpings-hold-on-policy/</a><br><img style src="https://pbs.twimg.com/media/E5yKZcWXoAwMAXd?format=jpg&name=orig" referrerpolicy="no-referrer">
+

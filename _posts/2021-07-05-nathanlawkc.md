@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-07-05
+date: 2021-07-09
 from: https://twitter.com/nathanlawkc/status/1411723646293495809
 layout: post
 tags:
@@ -22,4 +22,8 @@ We’ve always been saying that countering CCP’s global aggression is not raci
 ### 2: [2021-07-05 22:13:48+08:00 推文](https://twitter.com/nathanlawkc/status/1412052093280698369)
 
 //Mr. Orbán, if you are truly worried about the return of global division, the best way to prevent such a thing would be to work as part of a democratic alliance to implement checks and balances on China’s grip on the world. //<br><br>Letter to Orbán from Nathan <a href="https://www.politico.eu/article/letter-viktor-orban-hong-kong-activist-nathan-law/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/letter-viktor-orban-hong-kong-activist-nathan-law/</a>
+
+### 3: [2021-07-09 00:08:37+08:00 推文](https://twitter.com/nathanlawkc/status/1413168153983598595)
+
+That's the way we should move forward. Let's hold CCP accountable for its human rights violations.<br><br>Inter-Parliamentary Alliance on China: #BREAKING: EU Parliament passes joint resolution on Hong Kong, calling for: <br><br>👉Sanctions on HK officials<br>👉Termination of extradition treaties with China<br>👉 Diplomatic boycott of #Beijing2022 Olympics<br><br>#IPAC 🇪🇺 co-chair @MiriamMLex: "the free world cannot stand by"<br><br>@hk_watch<br><br><video src="https://video.twimg.com/ext_tw_video/1413152467425009675/pu/vid/1024x576/p02xfXSRAsIzgEPX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1413152467425009675/pu/img/-kIhwOs4R4Z6lbDr.jpg"></video>
 
