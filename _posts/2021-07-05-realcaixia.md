@@ -103,3 +103,15 @@ Re @newcreationmsn 就看你的话语，很显然如果你上台就是第二个�
 
 今天是709大抓捕的六週年日。请记住这个日子，请记住为大陆实现自由民主政治转型而承受迫害苦难的一切正直而勇敢的人们，向他们致敬，和他们一起共同努力。<br><br>韩连潮: 【致敬法治死磕派！】法治是民主的基石和保障，律师在法治治理中起核心作用，中国的兴衰取决于法治成败；709大抓捕六周年之际，让我们向为中国法治建设付出牺牲和代价的人权律师和他们家人表示敬意，感谢他们的勇气和担当，以及他们的死磕精神，人民不会忘记他们的无私奉献！<br><br><img style src="https://pbs.twimg.com/media/E52salVVoAYzyKD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 23: [2021-07-10 01:44:49+08:00 推文](https://twitter.com/realcaixia/status/1413554750130466816)
+
+可以理解媒体似乎要显得客观报道，于是两边的话都采纳了，但掩盖不住这个高墙的实质是中国的“柏林墙”。<br><br>自由亚洲电台: 去年初开始，中国政府在中缅边境山脉建造铁丝网围墙，以防止民众外逃缅甸。代号为“南方长城”的边境一期工程长约600公里，已经于去年底完工。本周，有微博网民上传照片称，瑞丽、丽江、高黎贡山500公里围墙已经建成。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/ql0708a-07082021042749.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/ql0708a-07082021042749.html</a>
+
+### 24: [2021-07-10 01:51:07+08:00 推文](https://twitter.com/realcaixia/status/1413556336017690631)
+
+所有这类研究中心都是造神欺骗、荒谬不堪的诡辩洗脑中心。真正严肃的社会科学研究领域的学者都不会认为，这些所谓“思想”含有什么经得起事实证明的、经得起讨论辩驳的理论与逻辑。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【快讯】<br>中国国家发改委成立<br>《习近平经济思想研究中心》<br><br>中国国家发改委成立“习近平经济思想研究中心”，并在5日召开成立大会暨理事会第一次全体会议<br><br>这已不是官方第一次成立同类中心。2020年7月，中国外交部成立“习近平外交思想研究中心”；今年6月，中国法学会成立“习近平法治思想研究中心”<br><br><img style src="https://pbs.twimg.com/media/E5snEylXIAQmUHp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5snEymXMAQ0wuX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5snEzYXoAIhBkS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5snEzYWYAAKt2K?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-07-10 01:54:50+08:00 推文](https://twitter.com/realcaixia/status/1413557269988618240)
+
+这个推文写得好！<br><br>Anna.wangruiqin: 【墙内·中国有限公司股东大会】<br><br>中共元老陈云曾说<br>1. 中国人好管饿死也不会造反<br>2. 党内斗争不要开杀戒，否则后代不好见面<br>3. 权力要移交给我们的孩子，不然我们以后会被挖祖坟的<br>4.《新闻法》不能搞，蒋介石搞新闻法…被我们抓到了漏洞结果被赶到了台湾，我们党要管新闻才好<br> <br>中共之中国与韭菜何干<br><br><img style src="https://pbs.twimg.com/media/E5nPJCaXEAAKnmw?format=jpg&name=orig" referrerpolicy="no-referrer">
+

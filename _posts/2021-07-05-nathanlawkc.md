@@ -31,3 +31,7 @@ That's the way we should move forward. Let's hold CCP accountable for its human 
 
 A diplomatic boycott is the LEAST we can do for the people in Xinjiang's concentration camps.<br><br>Lisa Nandy: Two months ago, Parliament voted to recognise that genocide was being committed against the Uyghur people.<br><br>Unless the UN is granted access to Xinjiang, British politicians and the Royal Family should not be attending the Beijing Winter Olympics next year.<br><br><img style src="https://pbs.twimg.com/media/E5rL8MGXIAA5893?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5rL9wWXMAERLea?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 5: [2021-07-09 22:28:41+08:00 推文](https://twitter.com/nathanlawkc/status/1413505390550175748)
+
+So they regard the European Parliament as a body that does not deserve any attention? Wow. That's a display of arrogance and aggression.<br><br>Stuart Lau: Responding to the European Parliament’s non-binding motion on Hong Kong and closure of Apple Daily, the Chinese foreign ministry said:<br><br>“This issue doesn’t deserve any attention at all.”<br>
+
