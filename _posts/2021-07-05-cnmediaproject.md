@@ -107,3 +107,31 @@ RT Sixth Tone<br>Following the popularity of the red TV series “Age of Awake
 
 At Brookings Tech Stream, CMP's David Bandurski writes about China's sci-tech ambitions and the "lying flat" movement. <a href="https://www.brookings.edu/techstream/the-lying-flat-movement-standing-in-the-way-of-chinas-innovation-drive/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/the-lying-flat-movement-standing-in-the-way-of-chinas-innovation-drive/</a>
 
+### 24: [2021-07-09 19:37:39+08:00 推文](https://twitter.com/Colum_M/status/1413462347029520388)
+
+RT Colum Murphy<br>Beijing's shock crackdown on Didi shows big data is quickly becoming the next battleground between the U.S. and China <a href="https://www.bloomberg.com/news/features/2021-07-08/-didi-crackdown-big-data-is-the-latest-u-s-china-battleground?sref=OYPzOH4r" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2021-07-08/-didi-crackdown-big-data-is-the-latest-u-s-china-battleground?sref=OYPzOH4r</a>
+
+### 25: [2021-07-09 19:42:07+08:00 推文](https://twitter.com/cnmediaproject/status/1413463470930948097)
+
+The six approaches Zhang Jian at SIIS advises for China to improve its image abroad. <a href="https://chinamediaproject.org/2021/07/09/how-to-tell-chinas-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/09/how-to-tell-chinas-story/</a><br><img style src="https://pbs.twimg.com/media/E52hgTZVoAoe4M2?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 26: [2021-07-09 19:42:29+08:00 推文](https://twitter.com/cnmediaproject/status/1413463567161073667)
+
+Re 2) combine grand narratives and subtle emotions, paying special attention to the emotional receptivity of the grassroots and the general public.
+
+### 27: [2021-07-09 19:43:46+08:00 推文](https://twitter.com/cnmediaproject/status/1413463889946288131)
+
+Re 3) telling the China story is the responsibility of everyone. In addition to propaganda departments, external propaganda can be expanded to include individuals, scholars and various platforms. All can preach (宣讲) the China story and the story of the Chinese Communist Party.
+
+### 28: [2021-07-09 19:45:08+08:00 推文](https://twitter.com/cnmediaproject/status/1413464230523777027)
+
+Re 4) be concrete about [China’s] governance practices, linking up the grand narrative (宏大叙事) with China’s concrete experiences in governance. Zhang suggests a collection of cases highlighting China's successes.
+
+### 29: [2021-07-09 19:45:40+08:00 推文](https://twitter.com/cnmediaproject/status/1413464366905655296)
+
+Re 5) telling the Chinese story should be localized (在地化). China’s story is not something to be put out in a singular manner. For the international community to know, recognize and understand, the China story must be more integrated with the stories of the local countries.
+
+### 30: [2021-07-09 19:46:24+08:00 推文](https://twitter.com/cnmediaproject/status/1413464552243556356)
+
+Re 6) "Finally, [we need to use] professional and scientific language to tell China’s story. Scientists, professional groups and social organizations can tell [the story] on different levels."
+
