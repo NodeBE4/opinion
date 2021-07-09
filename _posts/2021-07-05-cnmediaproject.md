@@ -135,3 +135,7 @@ Re 5) telling the Chinese story should be localized (在地化). China’s story
 
 Re 6) "Finally, [we need to use] professional and scientific language to tell China’s story. Scientists, professional groups and social organizations can tell [the story] on different levels."
 
+### 31: [2021-07-09 23:09:48+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1413515739277905930)
+
+RT Zhaoyin Feng 馮兆音<br>My latest - Investigating the fake news spreading in far-right Chinese-American chat rooms <a href="https://www.bbc.com/news/world-us-canada-57587364" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-us-canada-57587364</a>
+
