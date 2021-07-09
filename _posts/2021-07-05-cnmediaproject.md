@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-08
+date: 2021-07-09
 from: https://twitter.com/gwbstr/status/1411723770402787331
 layout: post
 tags:
@@ -94,4 +94,16 @@ RT Amy Qin 秦颖<br>Read Alex Palmer on Zhao Lijian - The Man Behind China’
 ### 20: [2021-07-08 23:22:45+08:00 推文](https://twitter.com/cnmediaproject/status/1413156608725721091)
 
 With a 5th "research center" devoted to "Xi Jinping Thought on __", Xi has now covered the major policy bases with his banner term . . . Further move toward formalization of "Xi Jinping Thought" before the next Party Congress? <a href="https://chinamediaproject.org/2021/07/08/a-fifth-center-rounds-out-xi-jinpings-hold-on-policy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/08/a-fifth-center-rounds-out-xi-jinpings-hold-on-policy/</a><br><img style src="https://pbs.twimg.com/media/E5yKZcWXoAwMAXd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 21: [2021-07-09 16:14:59+08:00 推文](https://twitter.com/cnmediaproject/status/1413411347514134531)
+
+In our latest for "Going Global," we look at a recent series at the Shanghai Institute of International Studies (SIIS) on how to tell China's story abroad. China’s thinkers want a + image of China and the CCP across the world. But are they listening? <a href="https://chinamediaproject.org/2021/07/09/how-to-tell-chinas-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/09/how-to-tell-chinas-story/</a><br><img style src="https://pbs.twimg.com/media/E51yF9mXIAEsTxV?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 22: [2021-07-09 16:40:48+08:00 推文](https://twitter.com/SixthTone/status/1413417845128458242)
+
+RT Sixth Tone<br>Following the popularity of the red TV series “Age of Awakening,” which dramatizes the story of how the CPC was founded in 1921, collectibles featuring main characters or elements from the show became a fad on Chinese social media. (Photos: Little Red Book)<br><img style src="https://pbs.twimg.com/media/E513qigVgAA7R7U?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E513rVtVkAMlP_T?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E513sE4VkAEysQQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E513su_VIAIhV6N?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-07-09 16:40:57+08:00 推文](https://twitter.com/cnmediaproject/status/1413417878905360385)
+
+At Brookings Tech Stream, CMP's David Bandurski writes about China's sci-tech ambitions and the "lying flat" movement. <a href="https://www.brookings.edu/techstream/the-lying-flat-movement-standing-in-the-way-of-chinas-innovation-drive/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/the-lying-flat-movement-standing-in-the-way-of-chinas-innovation-drive/</a>
 
