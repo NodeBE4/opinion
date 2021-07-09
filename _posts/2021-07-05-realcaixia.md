@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-08
+date: 2021-07-10
 from: https://twitter.com/realcaixia/status/1411717096816381954
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re @newcreationmsn 就看你的话语，很显然如果你上台就是第二个�
 ### 21: [2021-07-08 04:19:51+08:00 推文](https://twitter.com/realcaixia/status/1412868990423162881)
 
 尊者达赖喇嘛的心胸如大海一般，尊者的仁厚慈爱，在大陆西藏同胞心目中有崇高的人格魅力。<br><br>RFI 华语 - 法国国际广播电台: 达赖喇嘛86岁生日：余生致力于非暴力和慈悲心价值观<br><br><img style src="https://pbs.twimg.com/media/E5pPPN_VcAEPOjQ?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/7YFJ.t" target="_blank" rel="noopener noreferrer">https://rfi.my/7YFJ.t</a>
+
+### 22: [2021-07-10 00:35:34+08:00 推文](https://twitter.com/realcaixia/status/1413537321660596227)
+
+今天是709大抓捕的六週年日。请记住这个日子，请记住为大陆实现自由民主政治转型而承受迫害苦难的一切正直而勇敢的人们，向他们致敬，和他们一起共同努力。<br><br>韩连潮: 【致敬法治死磕派！】法治是民主的基石和保障，律师在法治治理中起核心作用，中国的兴衰取决于法治成败；709大抓捕六周年之际，让我们向为中国法治建设付出牺牲和代价的人权律师和他们家人表示敬意，感谢他们的勇气和担当，以及他们的死磕精神，人民不会忘记他们的无私奉献！<br><br><img style src="https://pbs.twimg.com/media/E52salVVoAYzyKD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
