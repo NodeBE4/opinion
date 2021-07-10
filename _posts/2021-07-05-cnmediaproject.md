@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-09
+date: 2021-07-10
 from: https://twitter.com/gwbstr/status/1411723770402787331
 layout: post
 tags:
@@ -138,4 +138,8 @@ Re 6) "Finally, [we need to use] professional and scientific language to tell Ch
 ### 31: [2021-07-09 23:09:48+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1413515739277905930)
 
 RT Zhaoyin Feng 馮兆音<br>My latest - Investigating the fake news spreading in far-right Chinese-American chat rooms <a href="https://www.bbc.com/news/world-us-canada-57587364" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-us-canada-57587364</a>
+
+### 32: [2021-07-10 21:45:00+08:00 推文](https://twitter.com/PM_Thornton/status/1413856784666615813)
+
+RT Patricia M Thornton<br>中国日报： A phalanx composed of 1068 members of the CYL & Young Pioneer representatives reassure #China's Xi that they will not "lie down": "Rest assured that the Party will strengthen the country!" 请党放心 强国有我！ <a href="http://china.chinadaily.com.cn/a/202107/10/WS60e925caa3101e7ce975907a.html" target="_blank" rel="noopener noreferrer">http://china.chinadaily.com.cn/a/202107/10/WS60e925caa3101e7ce975907a.html</a>
 
