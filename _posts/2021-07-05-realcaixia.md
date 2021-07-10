@@ -115,3 +115,7 @@ Re @newcreationmsn 就看你的话语，很显然如果你上台就是第二个�
 
 这个推文写得好！<br><br>Anna.wangruiqin: 【墙内·中国有限公司股东大会】<br><br>中共元老陈云曾说<br>1. 中国人好管饿死也不会造反<br>2. 党内斗争不要开杀戒，否则后代不好见面<br>3. 权力要移交给我们的孩子，不然我们以后会被挖祖坟的<br>4.《新闻法》不能搞，蒋介石搞新闻法…被我们抓到了漏洞结果被赶到了台湾，我们党要管新闻才好<br> <br>中共之中国与韭菜何干<br><br><img style src="https://pbs.twimg.com/media/E5nPJCaXEAAKnmw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 26: [2021-07-10 06:00:20+08:00 推文](https://twitter.com/realcaixia/status/1413619051885170688)
+
+Re @Akasaka49773214 @P5WzTRPRtq76rVd 一个字和一个标点符号都不要相信。他们是撒谎成性撒谎成精。极权体制就是谎言制作机器，撒谎官员都能做到撒谎时脸不变色心不跳。
+
