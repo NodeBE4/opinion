@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-08
+date: 2021-07-10
 from: https://twitter.com/SpeechFreedomCN/status/1412561876827791364
 layout: post
 tags:
@@ -38,4 +38,12 @@ Beijing man Xu Dihang sentenced to 7 months in prison for raising his middle fin
 ### 6: [2021-07-08 07:52:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1412922471867555841)
 
 China based programming technology sharing website <a href="http://pudn.com/" target="_blank" rel="noopener noreferrer">http://pudn.com</a><br><img style src="https://pbs.twimg.com/media/E5u1fNiUYAQuAh0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5u1fPzVoAQr2fA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5u1fPyUcAEgfPC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E5u1fP0VoAITpNp?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-10 18:35:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1413808995526070276)
+
+四川藏族僧人仁青持真（Rinchen Tsultrim）因通过微信和个人博客网站发表异见言论，于去年3月被秘密判刑四年半。当局在今年上半年才将其案件告知家属 ，外界近期才得知。 <a href="https://zh.amnesty.org/topic/censorship-and-freedom-of-expression/tibetan-monk-jailed-for-online-messages/" target="_blank" rel="noopener noreferrer">https://zh.amnesty.org/topic/censorship-and-freedom-of-expression/tibetan-monk-jailed-for-online-messages/</a>
+
+### 8: [2021-07-10 18:40:21+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1413810317683871749)
+
+Tibetan Monk Rinchen Tsultrim based in Sichuan Province, who had been expressing his opinion on Tibet affairs on Internet since 2008, sentenced to 4.5 years in prison last March. Authority did not even inform it to the public or his family until this year. <a href="https://www.amnesty.org/en/documents/asa17/4339/2021/en/" target="_blank" rel="noopener noreferrer">https://www.amnesty.org/en/documents/asa17/4339/2021/en/</a>
 
