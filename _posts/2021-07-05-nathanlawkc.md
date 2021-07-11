@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-07-09
+date: 2021-07-11
 from: https://twitter.com/nathanlawkc/status/1411723646293495809
 layout: post
 tags:
@@ -34,4 +34,8 @@ A diplomatic boycott is the LEAST we can do for the people in Xinjiang's concent
 ### 5: [2021-07-09 22:28:41+08:00 推文](https://twitter.com/nathanlawkc/status/1413505390550175748)
 
 So they regard the European Parliament as a body that does not deserve any attention? Wow. That's a display of arrogance and aggression.<br><br>Stuart Lau: Responding to the European Parliament’s non-binding motion on Hong Kong and closure of Apple Daily, the Chinese foreign ministry said:<br><br>“This issue doesn’t deserve any attention at all.”<br>
+
+### 6: [2021-07-11 23:33:32+08:00 推文](https://twitter.com/nathanlawkc/status/1414246487681290247)
+
+//“Partnering with China” to fight climate change may sound like a soothing and practical solution. But it rests on deeply flawed assumptions about the party//<br><br>Opinion | Dear progressives: You can’t fight climate change by going soft on China <a href="https://www.washingtonpost.com/opinions/2021/07/10/pandering-to-china-isnt-the-way-to-fight-climate-change/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/07/10/pandering-to-china-isnt-the-way-to-fight-climate-change/?tid=ss_tw</a>
 
