@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-12
+date: 2021-07-13
 from: https://twitter.com/SPCmonitor/status/1414366447271223299
 layout: post
 tags:
@@ -34,4 +34,8 @@ RT Jun Mai<br>Re If anyone wants to know more about how "written instructions"
 ### 5: [2021-07-12 11:59:33+08:00 推文](https://twitter.com/D_Thorne/status/1414434229346263041)
 
 RT Devin Thorne<br>BBC reports CGTN has an “internet celebrities” dept. and “more than 700 ‘global stringers’ worldwide” incl. foreign YouTubers — <br><br>Interesting that the head of China Media Group, CGTN’s grandparent, just recently emphasized the creation of “influencer studios” h/t @cnmediaproject<br><br>Andrew Erickson 艾立信: "This '#keyboard #army' has long been active, & an influx of messages on #foreigners' #videos has aroused suspicions that they are circumventing the #Chinese #firewall to inflate these #vloggers' presence, & manipulate commentary on their pages."<br><br><br><br>#WuMao<br> <a href="https://www.bbc.com/news/world-asia-china-57780023" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-china-57780023</a>
+
+### 6: [2021-07-13 00:09:00+08:00 推文](https://twitter.com/PM_Thornton/status/1414617798802804741)
+
+RT Patricia M Thornton<br>光明日报 via CCTV: Take clear-cut stand against and resist historical nihilism, activate the "red resources" of #China's colleges and universities to ignite the fire of faith in the Party for the majority of teachers and students <a href="https://news.cctv.com/2021/07/12/ARTII4yCEPDfy0PLvJRfMfxE210712.shtml" target="_blank" rel="noopener noreferrer">https://news.cctv.com/2021/07/12/ARTII4yCEPDfy0PLvJRfMfxE210712.shtml</a>
 
