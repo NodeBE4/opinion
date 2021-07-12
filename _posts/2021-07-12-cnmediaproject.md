@@ -19,3 +19,19 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 RT Susan Finder<br>Yesterday's article was also harmonized, but can be found here<br><br>Susan Finder: Related to yesterday's article on missing cases in the case database--Why is judicial transparency going backwards ?司法公开为何出现倒退的迹象？<br> <a href="https://mp.weixin.qq.com/s/Iw2sPM-cQSAxBQ0szX3HhA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Iw2sPM-cQSAxBQ0szX3HhA</a> <a href="https://twitter.com/SPCmonitor/status/1413985280294486017" target="_blank" rel="noopener noreferrer">https://twitter.com/SPCmonitor/status/1413985280294486017</a>
 
+### 2: [2021-07-12 11:36:27+08:00 推文](https://twitter.com/Junmai1103/status/1414428415680159746)
+
+RT Jun Mai<br>THREAD: A new yellow book by Xi was out recently, yep another one with his de-classified remarks. As always, it's fascinating. For eg, in Jan, Xi slammed officials who wait for orders to act and asked: “If I didn’t hand out instructions, would these officials do any work?”<br><img style src="https://pbs.twimg.com/media/E6EOXFJVEAMelL5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6EOZjDVEAEwhYe?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-07-12 11:43:13+08:00 推文](https://twitter.com/Junmai1103/status/1414430117741297673)
+
+RT Jun Mai<br>Re Another impt quote. “Some said that the centralisation of the party in the past 5 yrs has gone very well, and the next focus should be about promoting democracy within the party... they are made by people who are either confused, have ill intentions or are dirty themselves.”<br><img style src="https://pbs.twimg.com/media/E6EPqFfVUAMItJc?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-07-12 11:53:48+08:00 推文](https://twitter.com/Junmai1103/status/1414432779064922112)
+
+RT Jun Mai<br>Re If anyone wants to know more about how "written instructions" or pi shi, has changed under Xi, here's an exc piece by the always amazing @cnmediaproject <a href="https://chinamediaproject.org/the_ccp_dictionary/important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/important-instructions/</a>
+
+### 5: [2021-07-12 11:59:33+08:00 推文](https://twitter.com/D_Thorne/status/1414434229346263041)
+
+RT Devin Thorne<br>BBC reports CGTN has an “internet celebrities” dept. and “more than 700 ‘global stringers’ worldwide” incl. foreign YouTubers — <br><br>Interesting that the head of China Media Group, CGTN’s grandparent, just recently emphasized the creation of “influencer studios” h/t @cnmediaproject<br><br>Andrew Erickson 艾立信: "This '#keyboard #army' has long been active, & an influx of messages on #foreigners' #videos has aroused suspicions that they are circumventing the #Chinese #firewall to inflate these #vloggers' presence, & manipulate commentary on their pages."<br><br><br><br>#WuMao<br> <a href="https://www.bbc.com/news/world-asia-china-57780023" target="_blank" rel="noopener noreferrer">https://www.bbc.com/news/world-asia-china-57780023</a>
+
