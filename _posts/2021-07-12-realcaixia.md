@@ -27,3 +27,7 @@ title: 'Twitter @蔡霞: 2021-07-12~2021-07-18'
 
 这种洗脑从幼儿园抓起，极大地伤害孩子的独立思考能力。没有独立思考就不可能有创造性，没有创新能力。照此下去，我们民族的整体智商都将可能下降。<br><br>ZHANGDONG: 视频为香港一所亲中幼稚园的宣传片。 很快这将成为香港的常态而非例外，驯服奴隶从小娃娃抓起。东方明珠迅速黯然失色。<br><br><video src="https://video.twimg.com/ext_tw_video/1413040983835504645/pu/vid/636x360/egLTJz-cGGHOH3yT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1413040983835504645/pu/img/MDvIxtmFpUckUfZ4.jpg"></video> <a href="https://twitter.com/Stand_with_HK/status/1413041014609043457" target="_blank" rel="noopener noreferrer">https://twitter.com/Stand_with_HK/status/1413041014609043457</a>
 
+### 4: [2021-07-13 21:13:18+08:00 推文](https://twitter.com/realcaixia/status/1414935972949766148)
+
+同样的迷足球。读博时每到欧洲杯、奥运会足球半决赛决赛，常常是半夜和同学们一起围着电视议论，还不敢太喧闹欢呼，怕影响了别的同学睡觉。荣剑发的这个视频太精彩，转推，也是給自己留个保存之处。<br><br>荣剑: 这个镜头棒！<br> <a href="https://twitter.com/Jacob43817149/status/1414780226089930759" target="_blank" rel="noopener noreferrer">https://twitter.com/Jacob43817149/status/1414780226089930759</a>
+

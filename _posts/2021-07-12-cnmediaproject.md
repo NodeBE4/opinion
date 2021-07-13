@@ -47,3 +47,7 @@ RT Patricia M Thornton<br>光明日报 via CCTV: Take clear-cut stand against 
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Just to drive home <br>@cnmediaproject👍<br><br>指示 v 批示<br><br>If Xi saw someone eating dumplings & then told his 阿姨 to make some for him, that's a 指示. <br><br>If his 阿姨 saw someone eating dumplings & emailed Xi, “Dumplings for dinner”? Xi emailed: “why not, 韭菜猪肉馅 pls.” That’s 批示.<br><br>Donald Clarke 郭丹青: “Important Instructions“ explained by China Media Project. Great piece if this kind of thing interests you. (It does me.)<br> <a href="https://chinamediaproject.org/the_ccp_dictionary/important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/important-instructions/</a>
 
+### 9: [2021-07-13 22:16:28+08:00 推文](https://twitter.com/cnmediaproject/status/1414951866992144407)
+
+Fudan's Storm in Budapest: Plans by Shanghai's top University for a campus in Budapest meet staunch local opposition. What lessons will Fudan's efforts in Hungary will have for the global future of Chinese higher education? By Fülöp Zsófia @initiumnews. <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6LrMoWWUAM_G_c?format=jpg&name=orig" referrerpolicy="no-referrer">
+
