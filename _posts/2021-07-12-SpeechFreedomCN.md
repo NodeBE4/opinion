@@ -23,3 +23,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-07-12~2021-07-18'
 
 Guangdong man Chen detained for 5 days for saying on Weibo that local police law enforcement were unfair, and “go to hell”.<br><img style src="https://pbs.twimg.com/media/E6IQi45VoAAe7_i?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6IQi49VkAAZ0aO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-07-13 20:55:57+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1414931604493930496)
+
+Re 王爱忠已被正式批捕，罪名为“寻衅滋事”。家属今日收到的逮捕通知书显示，王爱忠已于一周前被批捕。<br><img style src="https://pbs.twimg.com/media/E6LYnH1UUAU4sn3?format=jpg&name=orig" referrerpolicy="no-referrer">
+
