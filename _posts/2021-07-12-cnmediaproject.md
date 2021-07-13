@@ -43,3 +43,7 @@ RT Donald Clarke 郭丹青<br>“Important Instructions“ explained by China 
 
 RT Patricia M Thornton<br>光明日报 via CCTV: Take clear-cut stand against and resist historical nihilism, activate the "red resources" of #China's colleges and universities to ignite the fire of faith in the Party for the majority of teachers and students <a href="https://news.cctv.com/2021/07/12/ARTII4yCEPDfy0PLvJRfMfxE210712.shtml" target="_blank" rel="noopener noreferrer">https://news.cctv.com/2021/07/12/ARTII4yCEPDfy0PLvJRfMfxE210712.shtml</a>
 
+### 8: [2021-07-13 05:45:28+08:00 推文](https://twitter.com/lingli_vienna/status/1414702476339695620)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Just to drive home <br>@cnmediaproject👍<br><br>指示 v 批示<br><br>If Xi saw someone eating dumplings & then told his 阿姨 to make some for him, that's a 指示. <br><br>If his 阿姨 saw someone eating dumplings & emailed Xi, “Dumplings for dinner”? Xi emailed: “why not, 韭菜猪肉馅 pls.” That’s 批示.<br><br>Donald Clarke 郭丹青: “Important Instructions“ explained by China Media Project. Great piece if this kind of thing interests you. (It does me.)<br> <a href="https://chinamediaproject.org/the_ccp_dictionary/important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/important-instructions/</a>
+
