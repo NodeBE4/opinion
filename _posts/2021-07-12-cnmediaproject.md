@@ -75,3 +75,15 @@ Fudan's Storm in Budapest: Plans by Shanghai's top University for a campus in Bu
 
 CMP is proud to be working with Initium News @initiumnews to highlight strong reporting on China. Here is our first by reporter Fülöp Zsófia on Fudan University's controversial planned Budapest campus. <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6PD0cAXEAA001z?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 16: [2021-07-14 20:25:06+08:00 推文](https://twitter.com/iandenisjohnson/status/1415286228077973506)
+
+RT Ian Johnson<br>How China's LGBTQ+ clubs and nonprofits got pulled into a nationalist frenzy. @shenlulushen writing in @protocol <a href="https://www.protocol.com/china/china-wechat-delete-lgbt-accounts" target="_blank" rel="noopener noreferrer">https://www.protocol.com/china/china-wechat-delete-lgbt-accounts</a>
+
+### 17: [2021-07-14 21:12:46+08:00 推文](https://twitter.com/MariaRepnikova/status/1415298223829356545)
+
+RT Maria Repnikova<br>There is a lot of talk about #China exporting its #model. I try to present an empirical slice on this topic in the interview with @jessicacweiss for @monkeycageblog. When we examine what is taught and how it is perceived, export is far from the story. <a href="https://www.washingtonpost.com/politics/2021/07/14/does-china-actively-promote-its-way-governing-do-other-countries-listen/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/politics/2021/07/14/does-china-actively-promote-its-way-governing-do-other-countries-listen/</a>
+
+### 18: [2021-07-14 22:43:59+08:00 推文](https://twitter.com/thorstenbenner/status/1415321180442087425)
+
+RT Thorsten Benner<br>Ten years ago, Obama anointed Merkel as European standard-bearer for freedom at state dinner.<br>Today, Merkel arrives in DC as nemesis of Biden’s China policy. <br>My @ForeignPolicy piece on doom & gloom at heart of Merkel's accomodationist China policy. <a href="https://foreignpolicy.com/2021/07/14/the-undeniable-pessimism-of-angela-merkels-worldview/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2021/07/14/the-undeniable-pessimism-of-angela-merkels-worldview/</a>
+
