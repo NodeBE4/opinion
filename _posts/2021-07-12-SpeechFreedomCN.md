@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-13
+date: 2021-07-14
 from: https://twitter.com/SpeechFreedomCN/status/1414710785712947200
 layout: post
 tags:
@@ -26,4 +26,16 @@ Guangdong man Chen detained for 5 days for saying on Weibo that local police law
 ### 3: [2021-07-13 20:55:57+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1414931604493930496)
 
 Re 王爱忠已被正式批捕，罪名为“寻衅滋事”。家属今日收到的逮捕通知书显示，王爱忠已于一周前被批捕。<br><img style src="https://pbs.twimg.com/media/E6LYnH1UUAU4sn3?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-07-14 12:17:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415163559110008837)
+
+安徽省合肥市某小区数十名业主，因穿着印有其诉求的统一样式文化衫在售楼部聚集喊口号，且在警方劝离时不配合，导致其中六人被警方带走，其中二人被行政拘留。警方称该案还在进一步办理中，即还可能会对当事人有其它处罚。<br><img style src="https://pbs.twimg.com/media/E6OqpjyVkAEsXhQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-07-14 12:23:25+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415165010376937478)
+
+Dozens residents of a community in Hefei City gathered recently to express their demands, which are also printed on their clothes. Six of them were taken away by police immediately, and two of whom were later administratively detained.<br><img style src="https://pbs.twimg.com/media/E6Orx-0VoAcH8Hb?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-07-14 12:31:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415167018479755266)
+
+Re “Do not try to engage in any unlawful activity (assembly) under the name of petitioning”, says police in the statement.
 
