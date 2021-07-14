@@ -33,7 +33,7 @@ Scandal Dogs China’s ‘King of Vaccines,’ Partner to AstraZeneca <a href=
 
 ### 5: [2020-12-09 01:30:53+08:00 推文](https://twitter.com/xinwenxiaojie/status/1336362625886777350)
 
-RT Yuen Chan<br>Once upon a time in Beijing.<br>When there was healthy competition among the TV news operations in Hong Kong. <br>When the city was a beacon for press freedom in the region.<br>One of those stations is extinct, the other has been shaken to the core.<br><img style="" src="https://pbs.twimg.com/media/Eou2NIFXIAI-CR1?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yuen Chan<br>Once upon a time in Beijing.<br>When there was healthy competition among the TV news operations in Hong Kong. <br>When the city was a beacon for press freedom in the region.<br>One of those stations is extinct, the other has been shaken to the core.<br><img style src="https://pbs.twimg.com/media/Eou2NIFXIAI-CR1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2020-12-11 22:07:58+08:00 推文](https://twitter.com/cnmediaproject/status/1337398726801952771)
 
