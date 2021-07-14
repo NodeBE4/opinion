@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-13
+date: 2021-07-14
 from: https://twitter.com/SPCmonitor/status/1414366447271223299
 layout: post
 tags:
@@ -70,4 +70,8 @@ RT Ananth Krishnan<br>India's trade with China 1st half 2021 breaking all reco
 ### 14: [2021-07-13 22:16:28+08:00 推文](https://twitter.com/cnmediaproject/status/1414951866992144407)
 
 Fudan's Storm in Budapest: Plans by Shanghai's top University for a campus in Budapest meet staunch local opposition. What lessons will Fudan's efforts in Hungary will have for the global future of Chinese higher education? By Fülöp Zsófia @initiumnews. <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6LrMoWWUAM_G_c?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-07-14 14:03:04+08:00 推文](https://twitter.com/cnmediaproject/status/1415190088313675776)
+
+CMP is proud to be working with Initium News @initiumnews to highlight strong reporting on China. Here is our first by reporter Fülöp Zsófia on Fudan University's controversial planned Budapest campus. <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6PD0cAXEAA001z?format=jpg&name=orig" referrerpolicy="no-referrer">
 
