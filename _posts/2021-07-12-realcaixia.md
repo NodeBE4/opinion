@@ -39,3 +39,15 @@ title: 'Twitter @蔡霞: 2021-07-12~2021-07-18'
 
 2013年的一天，几个朋友讨论中共的未来走势。一朋友说习将会走希特勒的路子，我颇不以为然：汉民族从来没有扩张侵略的性格基因，怎么可能？但后来我参加了军队政治课精品评选，参与评选的讲课内容三分之一是：为一带一路保驾护航，军队必须召之即来、战之能胜。感觉14亿人将被绑在战车上，今果不其然。<br><br>Jennifer Zeng 曾錚: #CCP Vows to Nuke #Japan if Japan defends #Taiwan. As Japan is the only country that has been nuked, so nuking Japan "will get twice the result with half the effort." <br>中共軍事頻道威脅對日本實施連續核打擊，直到日本第二次無條件投降。<br><br><video src="https://video.twimg.com/ext_tw_video/1414968222496051201/pu/vid/1280x720/tsxhZrrnk1zM6eNo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1414968222496051201/pu/img/mnSF9YYo4zeR3SIU.jpg"></video>
 
+### 7: [2021-07-14 06:15:34+08:00 推文](https://twitter.com/realcaixia/status/1415072437780242432)
+
+Re @LipingHuang7 中国东北西北是农耕文明与游牧文明犬牙交错的地区，也是两类文明冲突争夺资源的地区。汉族是农耕民族，闭关自守、内卷内斗内耗是其文化基因之一。农耕文明与游牧文明的冲突，汉族皇帝采用“和亲”的做法来缓解消化。因而有修长城、昭君出塞、文成公主、蔡文君的胡笳十八拍、北宋退至杭州建南宋苟延残喘。
+
+### 8: [2021-07-14 06:23:23+08:00 推文](https://twitter.com/realcaixia/status/1415074406007771138)
+
+Re @LipingHuang7 此前的鲜卑族孝文帝改革、之后的金元明清，只有明朝是汉族皇帝。清灭明后，不是汉族皇帝，左宗棠征战新疆，执行的是清庭意志。正是历史上两个文明交融与冲突，才有今天的中华民族。1949之后的对新疆、西藏、内蒙等民族地区的类似殖民统治等，那是中共的极权统治，汉族民众同样在中共极权统治下。
+
+### 9: [2021-07-14 06:32:48+08:00 推文](https://twitter.com/realcaixia/status/1415076774917152771)
+
+Re @LipingHuang7 中共最喜欢把西藏新疆内蒙民众对中共极权统治的反抗说成是民族宗教矛盾。中共把扩张战争称霸的图谋强加在14亿人头上，无论你是哪个民族。汉族也被中共在文化灭族，且看大陆还有中国传统文化吗？中国传统文化在台湾。汉字的书写现在被彻底糟蹋，人们被迫用错别字用字母夹数字表达意思。
+
