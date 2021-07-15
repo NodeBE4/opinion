@@ -83,3 +83,7 @@ Re @LipingHuang7 中共最喜欢把西藏新疆内蒙民众对中共极权统治
 
 这是我参加藏族同胞的活动中的发言。尊者达赖喇嘛若是回到拉萨布，中共在西藏的统治和思想控制就会自动瓦解。这是中共百般阻挠尊者达赖喇嘛返回西藏的根本原因。我的发言中有一处重大口误：在西藏，所有权权力最大的位子都是汉族官员担任的。我请旅美藏胞帮我翻译，我事先给了他稿子，他翻译是正确的。<br><br>ZHANGDONG: 蔡霞谈西藏，祝尊者健康长寿！<br><br><img style src="https://pbs.twimg.com/media/E6XKc4GXMAMG_IV?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/H4xtjGGBFUs" target="_blank" rel="noopener noreferrer">https://youtu.be/H4xtjGGBFUs</a>
 
+### 18: [2021-07-16 05:11:16+08:00 推文](https://twitter.com/realcaixia/status/1415781031773409292)
+
+Re @Ipkmedia 我要公开说明我在那个地方是口误。西藏所有的权力位子上，“一把手”权力最大，全是汉族干部。我发言时口误说成了“都是藏族干部担任”。现在我必须专门说明白这个问题。
+
