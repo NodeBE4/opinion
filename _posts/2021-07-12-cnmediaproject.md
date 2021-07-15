@@ -95,3 +95,7 @@ RT Zichen Wang<br>a lively discussion on China's international communication a
 
 RT Susan Finder<br>Re @ZichenWanghere @CCG_org @HuiyaoWang But no one there from the audience for China's international communication....
 
+### 21: [2021-07-15 21:21:29+08:00 推文](https://twitter.com/cnmediaproject/status/1415662807257780228)
+
+Plans by Shanghai's Fudan University for an international campus in Budapest have met with strong local opposition. What does this mean for the global future of Chinese higher education? Our story from @initiumnews and Fülöp Zsófia <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6VxwINVEAg06_-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
