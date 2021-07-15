@@ -43,3 +43,7 @@ Re “Do not try to engage in any unlawful activity (assembly) under the name of
 
 福建省莆田市国安局奖励了莆田学院一名学生一万元，因该学生举报了网络反动言论，当局称危害国家安全案。警方通报里也称被举报的当事人已被惩罚。<br><img style src="https://pbs.twimg.com/media/E6Vw5Z0VUAECN_C?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 8: [2021-07-15 21:21:14+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415662743533752323)
+
+In case you don’t know how China crack down freedom of speech: authority in Fujian just awarded a local university student RMB 10,000, for reporting online anti-government remarks, which authority said “harmed national security”. The reported person has also been punished.<br><img style src="https://pbs.twimg.com/media/E6VxwI8VIAMl049?format=jpg&name=orig" referrerpolicy="no-referrer">
+
