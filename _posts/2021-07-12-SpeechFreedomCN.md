@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-14
+date: 2021-07-15
 from: https://twitter.com/SpeechFreedomCN/status/1414710785712947200
 layout: post
 tags:
@@ -38,4 +38,8 @@ Dozens residents of a community in Hefei City gathered recently to express their
 ### 6: [2021-07-14 12:31:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415167018479755266)
 
 Re “Do not try to engage in any unlawful activity (assembly) under the name of petitioning”, says police in the statement.
+
+### 7: [2021-07-15 21:17:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415661804491927556)
+
+福建省莆田市国安局奖励了莆田学院一名学生一万元，因该学生举报了网络反动言论，当局称危害国家安全案。警方通报里也称被举报的当事人已被惩罚。<br><img style src="https://pbs.twimg.com/media/E6Vw5Z0VUAECN_C?format=jpg&name=orig" referrerpolicy="no-referrer">
 
