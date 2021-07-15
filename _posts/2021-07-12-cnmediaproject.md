@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-14
+date: 2021-07-15
 from: https://twitter.com/SPCmonitor/status/1414366447271223299
 layout: post
 tags:
@@ -86,4 +86,12 @@ RT Maria Repnikova<br>There is a lot of talk about #China exporting its #model
 ### 18: [2021-07-14 22:43:59+08:00 推文](https://twitter.com/thorstenbenner/status/1415321180442087425)
 
 RT Thorsten Benner<br>Ten years ago, Obama anointed Merkel as European standard-bearer for freedom at state dinner.<br>Today, Merkel arrives in DC as nemesis of Biden’s China policy. <br>My @ForeignPolicy piece on doom & gloom at heart of Merkel's accomodationist China policy. <a href="https://foreignpolicy.com/2021/07/14/the-undeniable-pessimism-of-angela-merkels-worldview/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2021/07/14/the-undeniable-pessimism-of-angela-merkels-worldview/</a>
+
+### 19: [2021-07-15 11:03:23+08:00 推文](https://twitter.com/ZichenWanghere/status/1415507257354186758)
+
+RT Zichen Wang<br>a lively discussion on China's international communication at @CCG_org Center for China and Globalization led by @HuiyaoWang  on Wednesday <br>with apparently many sharp minds.<br><br>a summary of the opinions, in Mandarin <a href="https://mp.weixin.qq.com/s/7Yflp6wj89vDTXE0ORvHQg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/7Yflp6wj89vDTXE0ORvHQg</a><br><img style src="https://pbs.twimg.com/media/E6TkCiOVcAMgDAa?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 20: [2021-07-15 13:01:44+08:00 推文](https://twitter.com/SPCmonitor/status/1415537038506430466)
+
+RT Susan Finder<br>Re @ZichenWanghere @CCG_org @HuiyaoWang But no one there from the audience for China's international communication....
 
