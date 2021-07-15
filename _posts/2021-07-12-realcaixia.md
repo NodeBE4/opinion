@@ -79,3 +79,7 @@ Re @LipingHuang7 中共最喜欢把西藏新疆内蒙民众对中共极权统治
 
 北京下放执法权的《意见》，表明习当局判断未来大陆形势严峻。经济衰退、大规模失业、中美经济、科技、金融脱钩，全球对武汉病毒的追责，将会促使大陆社会各种矛盾尖锐激化。将执法权下到最基层，是为了随时随地镇压方便，推广枫桥经验的群众专政，更直接省了司法程序，把基层社会变成不挂牌的监狱。<br><br>章立凡 Zhang Lifan: 问曰：回归毛时代“群众专政”？<br><br>【北京下放执法权至乡镇政府 学者指犹如把践踏人权法治的权力下放】《意见》提出要“增强乡镇（街道）行政执行能力。赋予乡镇综合管理权、统筹协调权和应急处置权，并“依法赋予乡镇（街道）行政执法权，整合现有执法力量和资源等。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-07142021064035.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-07142021064035.html</a>
 
+### 17: [2021-07-16 04:06:20+08:00 推文](https://twitter.com/realcaixia/status/1415764689355788299)
+
+这是我参加藏族同胞的活动中的发言。尊者达赖喇嘛若是回到拉萨布，中共在西藏的统治和思想控制就会自动瓦解。这是中共百般阻挠尊者达赖喇嘛返回西藏的根本原因。我的发言中有一处重大口误：在西藏，所有权权力最大的位子都是汉族官员担任的。我请旅美藏胞帮我翻译，我事先给了他稿子，他翻译是正确的。<br><br>ZHANGDONG: 蔡霞谈西藏，祝尊者健康长寿！<br><br><img style src="https://pbs.twimg.com/media/E6XKc4GXMAMG_IV?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/H4xtjGGBFUs" target="_blank" rel="noopener noreferrer">https://youtu.be/H4xtjGGBFUs</a>
+
