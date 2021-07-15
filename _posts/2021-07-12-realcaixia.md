@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-14
+date: 2021-07-16
 from: https://twitter.com/realcaixia/status/1414611360567242752
 layout: post
 tags:
@@ -66,4 +66,16 @@ Re @LipingHuang7 中共最喜欢把西藏新疆内蒙民众对中共极权统治
 ### 13: [2021-07-14 11:08:19+08:00 推文](https://twitter.com/realcaixia/status/1415146109157191681)
 
 果然有推友看到了我的后面两段文字，我现在截图推出来。推特今天真是出鬼了！并且大鬼小鬼成群结队。<br><img style src="https://pbs.twimg.com/media/E6Ob4jBXMAA2VZq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-07-15 23:32:10+08:00 推文](https://twitter.com/realcaixia/status/1415695692274749442)
+
+自由香港被毁灭，让全世界看到中共极权统治无底线的残暴野蛮……<br><br>inmediahknet: 記協發表2021言論自由年報：新聞自由最壞一年<br><br>記協反對立假新聞法 主席陳朗昇：在業界頭上加多把刀<br><br><img style src="https://pbs.twimg.com/media/E6UldFnVUAUtOmL?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3BfSkAG" target="_blank" rel="noopener noreferrer">https://bit.ly/3BfSkAG</a> <a href="https://bit.ly/3wH9wLZ" target="_blank" rel="noopener noreferrer">https://bit.ly/3wH9wLZ</a>
+
+### 15: [2021-07-15 23:38:42+08:00 推文](https://twitter.com/realcaixia/status/1415697337331208194)
+
+一位正直而善良、有着大爱精神的民营企业家遭到凶狠的打击迫害，再次证明中共与民为敌的政权本质。<br><br>刘晓原: 孙大午是知名的民营企业家，大午集团也是有影响的大型企业。<br>今天，孙大午被控九罪站在法庭上受审，与他一同受审的还有多个高管人员。<br>这样的案件，不仅在河北，就是在全国都很有影响。这样的案件，也具有很高的新闻价值。<br>没想到的是，对今天的庭审，还没有一家官媒作报道，似都患上了“失语症”！<br><br><img style src="https://pbs.twimg.com/media/E6VOwQNVcAMU_pY?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-07-16 01:01:37+08:00 推文](https://twitter.com/realcaixia/status/1415718205339881473)
+
+北京下放执法权的《意见》，表明习当局判断未来大陆形势严峻。经济衰退、大规模失业、中美经济、科技、金融脱钩，全球对武汉病毒的追责，将会促使大陆社会各种矛盾尖锐激化。将执法权下到最基层，是为了随时随地镇压方便，推广枫桥经验的群众专政，更直接省了司法程序，把基层社会变成不挂牌的监狱。<br><br>章立凡 Zhang Lifan: 问曰：回归毛时代“群众专政”？<br><br>【北京下放执法权至乡镇政府 学者指犹如把践踏人权法治的权力下放】《意见》提出要“增强乡镇（街道）行政执行能力。赋予乡镇综合管理权、统筹协调权和应急处置权，并“依法赋予乡镇（街道）行政执法权，整合现有执法力量和资源等。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-07142021064035.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/ql2-07142021064035.html</a>
 
