@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-07-14
+date: 2021-07-16
 from: https://twitter.com/nathanlawkc/status/1414635039380451337
 layout: post
 tags:
@@ -22,4 +22,8 @@ Football has many sides. One is about competition, one is connection. Though I a
 ### 2: [2021-07-14 00:20:49+08:00 推文](https://twitter.com/nathanlawkc/status/1414983162904580107)
 
 Turned 28 today and grateful for all the support received in the past year. Will continue to be a voice of Hong Kong, and urge the world to build a stronger global democracy.<br>🎂🎉<br>#StandWithHongKong<br><img style src="https://pbs.twimg.com/media/E6MHr5TXsAgkZZZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-07-16 22:01:32+08:00 推文](https://twitter.com/nathanlawkc/status/1416035272463167500)
+
+"The film “Revolution of Our Times” is not only about the battle of Hongkongers but is about a war between all freedom lovers and dictatorships of our globe."<br>@RoOT_film @Festival_Cannes <br><br>Revolution of Our Times - Official Trailer <a href="https://youtu.be/WbBU1AZS8HA" target="_blank" rel="noopener noreferrer">https://youtu.be/WbBU1AZS8HA</a>
 

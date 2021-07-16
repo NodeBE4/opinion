@@ -99,3 +99,7 @@ Re @jefflee81258649 请把我这句话后面的翻译完整。
 
 韩国有两部电影曾在大陆轰动：《辩护人》、《出租车司机》，说的是韩国政治转型期间律师与新闻人站在抗争最前线。大陆情形与此几乎相同。前有大陆新闻人为揭露真相而被暗杀被拘捕被失业被迫流亡；后有律师为维护人权持续遭残酷打压。特别是2013年以来，高压恐怖日甚一日。向大午律师团队致以崇高敬意！<br><br>湘女: 这是一群来自各地，响应良知召唤，誓死捍卫公平正义，自愿为孙大午提供免费无罪辩护的律师团队。/赞<br><br><img style src="https://pbs.twimg.com/media/E6ZLvQXVoAYz2aN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 22: [2021-07-16 22:38:16+08:00 推文](https://twitter.com/realcaixia/status/1416044517850030080)
+
+一切投⬆️所好！武大郎掌权，上面啥口味，全大陆就得咽下啥口味。君不见百年党庆天安门广场“江青绿”、“毛氏服”、“北韩方阵”，与这队服同一格调？或许清华设计人，一半奉迎上意，一半出于无奈吧？他们是代受过还是活该，只有他们自己知道。屈从于淫威，追荣华富贵，还想鸡犬升天的，自己先就自贬了不是人<br><br>荣剑: 上一届奥运会，国家队服被调侃为是西红柿炒鸡蛋，这回是青花瓷，据说是清华大学设计的，怎么样？<br><br><img style src="https://pbs.twimg.com/media/E6Q0b_5UcAM_OYi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6Q0cN2UYAIM7fa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6Q0cdjVUAA3S30?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6Q0csJVoAEYE1u?format=jpg&name=orig" referrerpolicy="no-referrer">
+

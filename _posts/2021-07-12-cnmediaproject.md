@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-15
+date: 2021-07-16
 from: https://twitter.com/SPCmonitor/status/1414366447271223299
 layout: post
 tags:
@@ -98,4 +98,12 @@ RT Susan Finder<br>Re @ZichenWanghere @CCG_org @HuiyaoWang But no one there fr
 ### 21: [2021-07-15 21:21:29+08:00 推文](https://twitter.com/cnmediaproject/status/1415662807257780228)
 
 Plans by Shanghai's Fudan University for an international campus in Budapest have met with strong local opposition. What does this mean for the global future of Chinese higher education? Our story from @initiumnews and Fülöp Zsófia <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6VxwINVEAg06_-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 22: [2021-07-16 06:21:34+08:00 推文](https://twitter.com/KaiserKuo/status/1415798723410595840)
+
+RT Kaiser Kuo<br>We now include transcripts of each new episode of the @SinicaPodcast. Here's the one for the latest show, featuring @jessicacweiss and @TomPepinsky of Cornell talking about their latest essay in @ForeignAffairs. <a href="https://supchina.com/2021/07/15/why-u-s-should-avoid-ideological-competition-with-china/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/07/15/why-u-s-should-avoid-ideological-competition-with-china/</a>
+
+### 23: [2021-07-16 22:23:17+08:00 推文](https://twitter.com/cnmediaproject/status/1416040747371991042)
+
+The views put forth by a range of Chinese scholars at a recent discussion forum in Beijing hosted by the Center on China and Globalization offer a glimpse into strategic discussions of public diplomacy and propaganda in the country's think-tank sector. <a href="https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/</a><br><img style src="https://pbs.twimg.com/media/E6bJguVX0AYDRWM?format=jpg&name=orig" referrerpolicy="no-referrer">
 
