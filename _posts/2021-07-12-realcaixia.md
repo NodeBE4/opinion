@@ -87,3 +87,11 @@ Re @LipingHuang7 中共最喜欢把西藏新疆内蒙民众对中共极权统治
 
 Re @Ipkmedia 我要公开说明我在那个地方是口误。西藏所有的权力位子上，“一把手”权力最大，全是汉族干部。我发言时口误说成了“都是藏族干部担任”。现在我必须专门说明白这个问题。
 
+### 19: [2021-07-16 08:52:12+08:00 推文](https://twitter.com/realcaixia/status/1415836633132306434)
+
+No. 57 蔡霞：走出危机的努力与难以摆脱危机的命运困境【百年中国 · 中共百年研讨会100小时全球联播 】 <a href="https://youtu.be/OkURxBm4XSk" target="_blank" rel="noopener noreferrer">https://youtu.be/OkURxBm4XSk</a>
+
+### 20: [2021-07-16 09:48:13+08:00 推文](https://twitter.com/realcaixia/status/1415850728921473025)
+
+Re @jefflee81258649 请把我这句话后面的翻译完整。
+
