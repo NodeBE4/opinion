@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-15
+date: 2021-07-17
 from: https://twitter.com/SpeechFreedomCN/status/1414710785712947200
 layout: post
 tags:
@@ -46,4 +46,24 @@ Re “Do not try to engage in any unlawful activity (assembly) under the name of
 ### 8: [2021-07-15 21:21:14+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1415662743533752323)
 
 In case you don’t know how China crack down freedom of speech: authority in Fujian just awarded a local university student RMB 10,000, for reporting online anti-government remarks, which authority said “harmed national security”. The reported person has also been punished.<br><img style src="https://pbs.twimg.com/media/E6VxwI8VIAMl049?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-07-17 15:16:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1416295748455473154)
+
+河南省三门峡市男子薛某，因在微信朋友圈评论他人时称交警为狗，并说他们“都是临时工，都是关系进去的，没有一点素质“，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/E6exKCJUYAEtZKG?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6exLJyVcAECDJk?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6exM34VoAEnzFO?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-07-17 15:19:15+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1416296421955825664)
+
+Henan man Xue detained for 5 days for saying in WeChat that traffic auxiliary police were "uncivilized dogs".<br><img style src="https://pbs.twimg.com/media/E6exgbSVgAkbsk1?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6exhwmVgAUkhQH?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6exjSRVgAQUKaI?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-07-17 16:13:51+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1416310165351976964)
+
+“开放……透明……”<br><br>PS：其实这个网站没有任何社交功能，用户不能发言，所以我实在想不出他能编出个什么理由说我违反了他们的规定。<br><img style src="https://pbs.twimg.com/media/E6e-lHBUUAIAbW0?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-07-17 16:15:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1416310638662414336)
+
+Re 很多人发过被微信微博封号的截图……我猜我应该是唯一一个被政府网站封号的了吧。
+
+### 13: [2021-07-17 16:17:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1416311074282885120)
+
+I might be the only user banned by a top government website.<br><img style src="https://pbs.twimg.com/media/E6e_aAmUUAIUEXv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
