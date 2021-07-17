@@ -107,11 +107,15 @@ Plans by Shanghai's Fudan University for an international campus in Budapest hav
 
 RT Kaiser Kuo<br>We now include transcripts of each new episode of the @SinicaPodcast. Here's the one for the latest show, featuring @jessicacweiss and @TomPepinsky of Cornell talking about their latest essay in @ForeignAffairs. <a href="https://supchina.com/2021/07/15/why-u-s-should-avoid-ideological-competition-with-china/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/07/15/why-u-s-should-avoid-ideological-competition-with-china/</a>
 
-### 24: [2021-07-16 22:23:17+08:00 推文](https://twitter.com/cnmediaproject/status/1416040747371991042)
+### 24: [2021-07-16 20:22:45+08:00 推文](https://twitter.com/sebastianveghk/status/1416010412554739717)
+
+RT Sebastian Veg<br>It was a huge pleasure to chat with @zengjinyan about Minjian intellectuals, Chinese Trumpism, Hong Kong, Women intellectuals, and non-Han reading publics. In a star-studded new issue of @MIC_Journal on ”Imagining the Future of Chinese Civil Society” <a href="https://madeinchinajournal.com/2021/07/15/revisiting-minjian-intellectuals-a-conversation-with-sebastian-veg/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/07/15/revisiting-minjian-intellectuals-a-conversation-with-sebastian-veg/</a>
+
+### 25: [2021-07-16 22:23:17+08:00 推文](https://twitter.com/cnmediaproject/status/1416040747371991042)
 
 The views put forth by a range of Chinese scholars at a recent discussion forum in Beijing hosted by the Center on China and Globalization offer a glimpse into strategic discussions of public diplomacy and propaganda in the country's think-tank sector. <a href="https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/</a><br><img style src="https://pbs.twimg.com/media/E6bJguVX0AYDRWM?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 25: [2021-07-17 02:02:31+08:00 推文](https://twitter.com/nytimes/status/1416095917309050886)
+### 26: [2021-07-17 02:02:31+08:00 推文](https://twitter.com/nytimes/status/1416095917309050886)
 
 RT The New York Times<br>Ida B. Wells, an investigative reporter who exposed the systematic lynching of black men in the South, was born 159 years ago today. She was considered the most famous Black woman in the U.S.<br><br>Her obituary is part of our Overlooked series. <a href="https://nyti.ms/36KijCd" target="_blank" rel="noopener noreferrer">https://nyti.ms/36KijCd</a>
 
