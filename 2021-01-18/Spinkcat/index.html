@@ -1,0 +1,971 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Spinkcat在2021-01-18~2021-01-24的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Spinkcat在2021-01-18~2021-01-24的言论" />
+    <meta property="twitter:title" content="Spinkcat在2021-01-18~2021-01-24的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (14086)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FChina_irl%2Fcomments%2Fkz948e%2F%E5%B1%B1%E4%B8%9C%E7%AC%8F%E5%B1%B1%E9%87%91%E7%9F%BF%E4%BA%95%E4%B8%8B%E8%A2%AB%E5%9B%B022%E4%BA%BA%E9%83%BD%E6%B4%BB%E7%9D%80%E8%A1%A5%E7%BB%99%E5%93%81%E8%A2%AB%E5%8F%96%E8%B5%B0%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/&text=Spinkcat在2021-01-18~2021-01-24的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/&title=Spinkcat在2021-01-18~2021-01-24的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/&title=Spinkcat在2021-01-18~2021-01-24的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Spinkcat在2021-01-18~2021-01-24的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/&title=Spinkcat在2021-01-18~2021-01-24的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Spinkcat在2021-01-18~2021-01-24的言论&url=https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Spinkcat在2021-01-18~2021-01-24的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2021-01-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Spinkcat/" style="font-size:14px;">作者: Spinkcat</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#1304-山东笏山金矿井下被困22人都活着补给品被取走-submitted-on-2021-01-18-0009530800" id="markdown-toc-1304-山东笏山金矿井下被困22人都活着补给品被取走-submitted-on-2021-01-18-0009530800">1304: 山东笏山金矿井下被困22人都活着，补给品被取走, submitted on 2021-01-18 00:09:53+08:00.</a></li>
+  <li><a href="#1305-21世纪华人与狗不得入内-submitted-on-2021-01-18-0221170800" id="markdown-toc-1305-21世纪华人与狗不得入内-submitted-on-2021-01-18-0221170800">1305: 21世纪“华人与狗不得入内”, submitted on 2021-01-18 02:21:17+08:00.</a></li>
+  <li><a href="#1306-无奖竞猜他能做几个任期-submitted-on-2021-01-18-0259370800" id="markdown-toc-1306-无奖竞猜他能做几个任期-submitted-on-2021-01-18-0259370800">1306: 【无奖竞猜】他能做几个任期。, submitted on 2021-01-18 02:59:37+08:00.</a></li>
+</ul>
+
+<h3 id="1304-山东笏山金矿井下被困22人都活着补给品被取走-submitted-on-2021-01-18-0009530800">1304: <a href="https://old.reddit.com/r/China_irl/comments/kz948e/山东笏山金矿井下被困22人都活着补给品被取走/">山东笏山金矿井下被困22人都活着，补给品被取走</a>, submitted on 2021-01-18 00:09:53+08:00.</h3>
+
+<p>—– <strong>1304.1</strong> —–2021-01-18 04:59:26+08:00:</p>
+
+<p>阴间标题</p>
+
+<h3 id="1305-21世纪华人与狗不得入内-submitted-on-2021-01-18-0221170800">1305: <a href="https://old.reddit.com/r/China_irl/comments/kzboy6/21世纪华人与狗不得入内/">21世纪“华人与狗不得入内”</a>, submitted on 2021-01-18 02:21:17+08:00.</h3>
+
+<p>—– <strong>1305.1</strong> —–2021-01-18 04:58:29+08:00:</p>
+
+<p>不许外带，只许买园内现场做的新鲜热狗。</p>
+
+<h3 id="1306-无奖竞猜他能做几个任期-submitted-on-2021-01-18-0259370800">1306: <a href="https://old.reddit.com/r/China_irl/comments/kzcg8s/无奖竞猜他能做几个任期/">【无奖竞猜】他能做几个任期。</a>, submitted on 2021-01-18 02:59:37+08:00.</h3>
+
+<p>—– <strong>1306.1</strong> —–2021-01-18 04:56:47+08:00:</p>
+
+<p>目前我的观点是三个任期后垂帘听政的可能性最大，因为他其实还是谈到过培养社会主义接班人，也不可能永远亲自执政，他想长久运行就需要培育下一代团队。</p>
+
+<p>第一届时，退休常委没人是完全隶属于他，只有盟友和潜在意见者，第二届开始大部分都是自己的嫡系与政治盟友，那么如果做完第三届，元老院内属于他的退休常委人数会最多。</p>
+
+<p>当然也有可能存在四个任期然后转为幕后操控。</p>
+
+<p>第四届大概率是分水岭，如果有第四届，那执政到死或临死前几年才退下来的几率更大。</p>
+
+<p>我之前对比过他和他长兄习正宁与父亲习仲勋的寿命，大体上身体状况都不算特别好，习仲勋到六七十岁时严重衰老，没法继续参与政务，江泽民时代前期就已经要拄拐棍。</p>
+
+<p>习正宁比较瘦，一样心脏病意外去世，习近平祖父习宗德是四十多岁去世，所以家族基因可能不是那么理想，虽然有全国最好与不惜代价的医疗资源，不过人体的衰老是不可逆的，当总书记是一个体力活，胡锦涛末期已经有点撑不住了，19年阅兵时老的不像话。</p>
+
+<p>习近平要集中所有权利，就要对外塑造一个良好的健康形象，但又不能长期不出来，还要到全国各地进行巡防、接待外交人员、出国访问、视察工作情况。</p>
+
+<p>同时处理极大量的政务（因为绕过国务院的工作小组兼职太多了）很难兼顾效率和质量，未来社会面对的压力与问题只多不少，要求改革的声音也必然一浪接一浪，那么习近平总书记怎么面对呢。</p>
+
+<p>我觉得理想的情况是他在第三任期后，能选出一个合适的接班人，然后全国在他晚年控制不住局势下，默许进行改革，或等他死后如改开故事。</p>
+
+<p>不希望他在后期社会问题上，接班人跟他的路线分歧，他就跟毛废弃刘少奇和林彪一样开始搞内部大规模的政治运动，然后波及全国，哪怕是相对温和走慈禧控制光绪的路线，也可能导致权力高层真空而全国陷入分裂危机。</p>
+
+<p>所以我的观点是，习近平还是会需要接班人，三到四个任期的现在没变数的合理估算。</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-04-24/Spinkcat/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-10-17/Yvan888/">最早</a>--</span>
+    
+      <li>
+        <time>2021-02-07</time>
+        <a href="https://nodebe4.github.io/opinion/2021-02-07/Spinkcat/">
+          Spinkcat在2021-02-01~2021-02-07的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-30</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-30/Spinkcat/">
+          Spinkcat在2021-01-25~2021-01-31的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-16</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-16/Spinkcat/">
+          Spinkcat在2021-01-11~2021-01-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2021-01-10</time>
+        <a href="https://nodebe4.github.io/opinion/2021-01-10/Spinkcat/">
+          Spinkcat在2021-01-04~2021-01-10的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-17/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%9B%9E%E9%A6%96%E6%96%87%E9%9D%A96-%E6%A5%B5%E5%B7%A6%E6%B4%BE%E5%8A%89%E5%B0%91%E5%A5%87/">
+            前一篇：禁忌史話：回首文革6 極左派劉少奇
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2021-01-18/Telegram-%E5%88%9B%E5%8A%9E%E4%BA%BA-Pavel-Durov-%E5%89%8D%E4%B8%A4%E6%97%A5%E5%9C%A8%E4%BB%96%E7%9A%84%E9%A2%91%E9%81%93%E4%B8%8A-%E5%BC%95%E4%BB%8B-%E4%BA%86%E5%B7%B4%E8%A5%BF%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A4%E5%9B%BD%E6%80%BB/">
+            後一篇：🖼Telegram 创办人 Pavel Durov 前两日在他的频道上 引介 了巴西和土耳其两国总统新开办的频道，也列出了此前已创建的各国领导人频道，墨西哥、法国、新加坡、
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2021-01-17/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%9B%9E%E9%A6%96%E6%96%87%E9%9D%A96-%E6%A5%B5%E5%B7%A6%E6%B4%BE%E5%8A%89%E5%B0%91%E5%A5%87/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2021-01-18/Telegram-%E5%88%9B%E5%8A%9E%E4%BA%BA-Pavel-Durov-%E5%89%8D%E4%B8%A4%E6%97%A5%E5%9C%A8%E4%BB%96%E7%9A%84%E9%A2%91%E9%81%93%E4%B8%8A-%E5%BC%95%E4%BB%8B-%E4%BA%86%E5%B7%B4%E8%A5%BF%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A4%E5%9B%BD%E6%80%BB/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2021-01-30/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2021-01-16/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2021-01-17/%E7%A6%81%E5%BF%8C%E5%8F%B2%E8%A9%B1-%E5%9B%9E%E9%A6%96%E6%96%87%E9%9D%A96-%E6%A5%B5%E5%B7%A6%E6%B4%BE%E5%8A%89%E5%B0%91%E5%A5%87/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2021-01-18/Telegram-%E5%88%9B%E5%8A%9E%E4%BA%BA-Pavel-Durov-%E5%89%8D%E4%B8%A4%E6%97%A5%E5%9C%A8%E4%BB%96%E7%9A%84%E9%A2%91%E9%81%93%E4%B8%8A-%E5%BC%95%E4%BB%8B-%E4%BA%86%E5%B7%B4%E8%A5%BF%E5%92%8C%E5%9C%9F%E8%80%B3%E5%85%B6%E4%B8%A4%E5%9B%BD%E6%80%BB/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2021-01-30/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2021-01-16/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

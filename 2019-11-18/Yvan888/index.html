@@ -1,0 +1,1711 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-11-18~2019-11-24的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-11-18~2019-11-24的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-11-18~2019-11-24的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (14086)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2FANormalDayInRussia%2Fcomments%2Fdxoi7e%2Ftea_time_with_gzhel%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/&text=Yvan888在2019-11-18~2019-11-24的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/&title=Yvan888在2019-11-18~2019-11-24的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/&title=Yvan888在2019-11-18~2019-11-24的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-11-18~2019-11-24的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/&title=Yvan888在2019-11-18~2019-11-24的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-11-18~2019-11-24的言论&url=https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-11-18~2019-11-24的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-11-18
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#679-tea-time-with-gzhel-submitted-on-2019-11-18-0020420800" id="markdown-toc-679-tea-time-with-gzhel-submitted-on-2019-11-18-0020420800">679: Tea time with Gzhel’, submitted on 2019-11-18 00:20:42+08:00.</a></li>
+  <li><a href="#680-hong-kong-2019-love-in-the-time-of-tear-gas-submitted-on-2019-11-18-0409400800" id="markdown-toc-680-hong-kong-2019-love-in-the-time-of-tear-gas-submitted-on-2019-11-18-0409400800">680: Hong Kong 2019: Love in the Time of Tear Gas, submitted on 2019-11-18 04:09:40+08:00.</a></li>
+  <li><a href="#681-why-did-so-many-han-chinese-migrate-to-the-xinjiang-province-between-1949-and-2008-submitted-on-2019-11-18-0725380800" id="markdown-toc-681-why-did-so-many-han-chinese-migrate-to-the-xinjiang-province-between-1949-and-2008-submitted-on-2019-11-18-0725380800">681: Why did so many Han chinese migrate to the Xinjiang Province between 1949 and 2008?, submitted on 2019-11-18 07:25:38+08:00.</a></li>
+  <li><a href="#682-港高院裁定蒙面法违宪-submitted-on-2019-11-18-1602090800" id="markdown-toc-682-港高院裁定蒙面法违宪-submitted-on-2019-11-18-1602090800">682: 港高院裁定蒙面法违宪, submitted on 2019-11-18 16:02:09+08:00.</a></li>
+  <li><a href="#683-才知道reddit有中文sub呀寻求mods中-submitted-on-2019-11-20-0809440800" id="markdown-toc-683-才知道reddit有中文sub呀寻求mods中-submitted-on-2019-11-20-0809440800">683: 才知道Reddit有中文sub呀，寻求Mods中, submitted on 2019-11-20 08:09:44+08:00.</a></li>
+  <li><a href="#684-刘晓波中国政治与中国当代知识份子后记-submitted-on-2019-11-20-2057130800" id="markdown-toc-684-刘晓波中国政治与中国当代知识份子后记-submitted-on-2019-11-20-2057130800">684: 刘晓波：《中国政治与中国当代知识份子》后记, submitted on 2019-11-20 20:57:13+08:00.</a></li>
+  <li><a href="#685-中文-only-discussion-2019-11-20-submitted-on-2019-11-20-2304190800" id="markdown-toc-685-中文-only-discussion-2019-11-20-submitted-on-2019-11-20-2304190800">685: 中文-only Discussion! 2019-11-20, submitted on 2019-11-20 23:04:19+08:00.</a></li>
+  <li><a href="#686-vent-ongoing-hk-protest-are-turning-my-chinese-acquaintances-to-be-more-pro-ccp-submitted-on-2019-11-21-0818330800" id="markdown-toc-686-vent-ongoing-hk-protest-are-turning-my-chinese-acquaintances-to-be-more-pro-ccp-submitted-on-2019-11-21-0818330800">686: [VENT] Ongoing HK Protest Are Turning My Chinese Acquaintances to Be More Pro-CCP, submitted on 2019-11-21 08:18:33+08:00.</a></li>
+  <li><a href="#687-转一位新疆汉人谈新疆集中营-submitted-on-2019-11-21-0930510800" id="markdown-toc-687-转一位新疆汉人谈新疆集中营-submitted-on-2019-11-21-0930510800">687: （转）一位新疆汉人谈新疆集中营, submitted on 2019-11-21 09:30:51+08:00.</a></li>
+  <li><a href="#688-转一位新疆汉人谈新疆集中营-submitted-on-2019-11-21-0934300800" id="markdown-toc-688-转一位新疆汉人谈新疆集中营-submitted-on-2019-11-21-0934300800">688: （转）一位新疆汉人谈新疆集中营, submitted on 2019-11-21 09:34:30+08:00.</a></li>
+  <li><a href="#689-hong-kongs-descent-into-anarchy-submitted-on-2019-11-21-1638320800" id="markdown-toc-689-hong-kongs-descent-into-anarchy-submitted-on-2019-11-21-1638320800">689: Hong Kong’s descent into anarchy., submitted on 2019-11-21 16:38:32+08:00.</a></li>
+  <li><a href="#690-我国第一块-细胞培养肉-诞生-submitted-on-2019-11-21-2021530800" id="markdown-toc-690-我国第一块-细胞培养肉-诞生-submitted-on-2019-11-21-2021530800">690: 我国第一块 “细胞培养肉” 诞生, submitted on 2019-11-21 20:21:53+08:00.</a></li>
+  <li><a href="#691-从单纯中国人的视角看香港的返送中运动-submitted-on-2019-11-21-2146530800" id="markdown-toc-691-从单纯中国人的视角看香港的返送中运动-submitted-on-2019-11-21-2146530800">691: 从单纯中国人的视角看香港的返送中运动, submitted on 2019-11-21 21:46:53+08:00.</a></li>
+  <li><a href="#692-leader-of-the-german-youth-pro-nazi-propaganda-card-japan-1938-submitted-on-2019-11-22-0720460800" id="markdown-toc-692-leader-of-the-german-youth-pro-nazi-propaganda-card-japan-1938-submitted-on-2019-11-22-0720460800">692: “Leader of the German Youth” (Pro-Nazi Propaganda Card, Japan, 1938), submitted on 2019-11-22 07:20:46+08:00.</a></li>
+  <li><a href="#693-rubio-china-needs-to-stop-interfering-in-uss-internal-affairs-in-response-to-chinas-whining-about-the-hong-kong-human-rights-act-submitted-on-2019-11-22-1201290800" id="markdown-toc-693-rubio-china-needs-to-stop-interfering-in-uss-internal-affairs-in-response-to-chinas-whining-about-the-hong-kong-human-rights-act-submitted-on-2019-11-22-1201290800">693: Rubio: “China needs to stop interfering in US’s internal affairs,” in response to China’s whining about the Hong Kong Human Rights Act, submitted on 2019-11-22 12:01:29+08:00.</a></li>
+  <li><a href="#694-an-english-speech-given-by-a-qings-princess-submitted-on-2019-11-22-1205080800" id="markdown-toc-694-an-english-speech-given-by-a-qings-princess-submitted-on-2019-11-22-1205080800">694: An English speech given by a Qing’s princess, submitted on 2019-11-22 12:05:08+08:00.</a></li>
+  <li><a href="#695-必读新华社新闻信息报道中的禁用词和慎用词-submitted-on-2019-11-22-1220330800" id="markdown-toc-695-必读新华社新闻信息报道中的禁用词和慎用词-submitted-on-2019-11-22-1220330800">695: 必读：新华社新闻信息报道中的禁用词和慎用词, submitted on 2019-11-22 12:20:33+08:00.</a></li>
+  <li><a href="#696-happy-meme-day-everyone-submitted-on-2019-11-22-1306110800" id="markdown-toc-696-happy-meme-day-everyone-submitted-on-2019-11-22-1306110800">696: Happy meme day everyone, submitted on 2019-11-22 13:06:11+08:00.</a></li>
+  <li><a href="#697-wcgw-if-i-push-my-friend-for-fun-submitted-on-2019-11-22-1802330800" id="markdown-toc-697-wcgw-if-i-push-my-friend-for-fun-submitted-on-2019-11-22-1802330800">697: WCGW if i push my Friend for Fun, submitted on 2019-11-22 18:02:33+08:00.</a></li>
+  <li><a href="#698-之前被打的头破血流的老哥-submitted-on-2019-11-23-0013090800" id="markdown-toc-698-之前被打的头破血流的老哥-submitted-on-2019-11-23-0013090800">698: 之前被打的头破血流的老哥, submitted on 2019-11-23 00:13:09+08:00.</a></li>
+  <li><a href="#699-neocolonialism-submitted-on-2019-11-23-0303550800" id="markdown-toc-699-neocolonialism-submitted-on-2019-11-23-0303550800">699: Neocolonialism, submitted on 2019-11-23 03:03:55+08:00.</a></li>
+  <li><a href="#700-how-does-acupuncture-work-what-can-it-cure-stroke-asthma-chinese-medicine-submitted-on-2019-11-23-0354140800" id="markdown-toc-700-how-does-acupuncture-work-what-can-it-cure-stroke-asthma-chinese-medicine-submitted-on-2019-11-23-0354140800">700: How does acupuncture work? What can it cure? Stroke, asthma, Chinese medicine, submitted on 2019-11-23 03:54:14+08:00.</a></li>
+  <li><a href="#701-大跃进海报-菜绿瓜肥产量多-中国-1959-submitted-on-2019-11-23-0543530800" id="markdown-toc-701-大跃进海报-菜绿瓜肥产量多-中国-1959-submitted-on-2019-11-23-0543530800">701: [大跃进海报] 菜绿瓜肥产量多, 中国, 1959, submitted on 2019-11-23 05:43:53+08:00.</a></li>
+  <li><a href="#702-香港法案实际作用并不大美国也做不了太多为什么大陆港台反应那么大-submitted-on-2019-11-23-0550060800" id="markdown-toc-702-香港法案实际作用并不大美国也做不了太多为什么大陆港台反应那么大-submitted-on-2019-11-23-0550060800">702: 香港法案实际作用并不大，美国也做不了太多，为什么大陆港台反应那么大？, submitted on 2019-11-23 05:50:06+08:00.</a></li>
+  <li><a href="#703-中澳关系是怎么搞僵的-submitted-on-2019-11-23-1124420800" id="markdown-toc-703-中澳关系是怎么搞僵的-submitted-on-2019-11-23-1124420800">703: 中澳关系是怎么搞僵的？, submitted on 2019-11-23 11:24:42+08:00.</a></li>
+  <li><a href="#704-震惊叛逃至澳大利亚的中国特工事件竟有了新的转折-submitted-on-2019-11-23-2339220800" id="markdown-toc-704-震惊叛逃至澳大利亚的中国特工事件竟有了新的转折-submitted-on-2019-11-23-2339220800">704: 震惊！叛逃至澳大利亚的中国特工事件竟有了新的转折！？, submitted on 2019-11-23 23:39:22+08:00.</a></li>
+  <li><a href="#705-not-enough-pork-in-the-world-to-deal-with-chinas-demand-for-meat-submitted-on-2019-11-24-0013370800" id="markdown-toc-705-not-enough-pork-in-the-world-to-deal-with-chinas-demand-for-meat-submitted-on-2019-11-24-0013370800">705: ‘Not enough pork in the world’ to deal with China’s demand for meat, submitted on 2019-11-24 00:13:37+08:00.</a></li>
+  <li><a href="#706-才发现reddit竟然有一个相对活跃的中文板块我想知道大家如何看待这篇贴子里发帖者对中国民主化的可能与结果的预测-submitted-on-2019-11-24-0624350800" id="markdown-toc-706-才发现reddit竟然有一个相对活跃的中文板块我想知道大家如何看待这篇贴子里发帖者对中国民主化的可能与结果的预测-submitted-on-2019-11-24-0624350800">706: 才发现reddit竟然有一个相对活跃的中文板块，我想知道大家如何看待这篇贴子里发帖者对中国民主化的可能与结果的预测？, submitted on 2019-11-24 06:24:35+08:00.</a></li>
+  <li><a href="#707-东北人被打血腥照片nsfw-submitted-on-2019-11-24-0728240800" id="markdown-toc-707-东北人被打血腥照片nsfw-submitted-on-2019-11-24-0728240800">707: 东北人被打血腥照片nsfw, submitted on 2019-11-24 07:28:24+08:00.</a></li>
+  <li><a href="#708-i-support-the-hong-kong-police-you-can-hit-me-now-2019-china-submitted-on-2019-11-24-0739200800" id="markdown-toc-708-i-support-the-hong-kong-police-you-can-hit-me-now-2019-china-submitted-on-2019-11-24-0739200800">708: I support the Hong Kong police, you can hit me now; 2019, China, submitted on 2019-11-24 07:39:20+08:00.</a></li>
+  <li><a href="#709-为什么rchina上的很多人非常讨厌中国官方的百年屈辱the-century-of-humiliation的说法-submitted-on-2019-11-24-1358280800" id="markdown-toc-709-为什么rchina上的很多人非常讨厌中国官方的百年屈辱the-century-of-humiliation的说法-submitted-on-2019-11-24-1358280800">709: 为什么/r/China上的很多人非常讨厌中国官方的百年屈辱(the Century of Humiliation)的说法？, submitted on 2019-11-24 13:58:28+08:00.</a></li>
+  <li><a href="#710-更新针对最近被爆出的东北人被打得头破血流图片的新闻来源请求-submitted-on-2019-11-24-1946280800" id="markdown-toc-710-更新针对最近被爆出的东北人被打得头破血流图片的新闻来源请求-submitted-on-2019-11-24-1946280800">710: 【更新】针对最近被爆出的“东北人被打得头破血流”图片的新闻来源请求, submitted on 2019-11-24 19:46:28+08:00.</a></li>
+</ul>
+
+<h3 id="679-tea-time-with-gzhel-submitted-on-2019-11-18-0020420800">679: <a href="https://old.reddit.com/r/ANormalDayInRussia/comments/dxoi7e/tea_time_with_gzhel/">Tea time with Gzhel’</a>, submitted on 2019-11-18 00:20:42+08:00.</h3>
+
+<p>—– <strong>679.1</strong> —–2019-11-18 10:21:11+08:00:</p>
+
+<p>Cool</p>
+
+<p>I thought it was China’s china</p>
+
+<h3 id="680-hong-kong-2019-love-in-the-time-of-tear-gas-submitted-on-2019-11-18-0409400800">680: <a href="https://old.reddit.com/r/China/comments/dxrrbv/hong_kong_2019_love_in_the_time_of_tear_gas/">Hong Kong 2019: Love in the Time of Tear Gas</a>, submitted on 2019-11-18 04:09:40+08:00.</h3>
+
+<p>—– <strong>680.1</strong> —–2019-11-18 09:34:27+08:00:</p>
+
+<p>It’s more like a propaganda or icon, man</p>
+
+<p>Pretty sure there was a female protester wearing high-heel shoes</p>
+
+<h3 id="681-why-did-so-many-han-chinese-migrate-to-the-xinjiang-province-between-1949-and-2008-submitted-on-2019-11-18-0725380800">681: <a href="https://old.reddit.com/r/China/comments/dxuigd/why_did_so_many_han_chinese_migrate_to_the/">Why did so many Han chinese migrate to the Xinjiang Province between 1949 and 2008?</a>, submitted on 2019-11-18 07:25:38+08:00.</h3>
+
+<p>—– <strong>681.1</strong> —–2019-11-18 09:36:06+08:00:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Xinjiang_Production_and_Construction_Corps?wprov=sfti1">Xinjiang Production and Construction Corps</a></p>
+
+<hr />
+
+<p>btw I think people always over-complicate the China’s territory issue</p>
+
+<p>Although China claims Tibet, Xinjiang, and Taiwan, which are not parts of <em>proper China</em>, as the China’s territory, and China do gain the benefits such as natural resources and geopolitical controls, the main reason why modern China occupies them is just because China’s current territory is inherited from <a href="https://images.app.goo.gl/i2twy7W48rjPFL4J9">Qing’s dynasty’s territory</a></p>
+
+<p>Otherwise, why China didn’t occupy more lands during the first decade of its establishment, given the fact that China had a tight controls on the surrounding countries and won several wars on their lands?</p>
+
+<hr />
+
+<p>However, if you are really curious about the China’s <strong>historical</strong> interest on the north and west, here is a short answer:</p>
+
+<p>The treats to ancient China, have always come from the northern and western “barbarians” (e.g. Mongolian) so controlling them can ensure the safety of <em>proper China</em>. Until 19 century, the biggest treats began to come from the eastern and southern ocean, i.e. western blocs (e.g. opium war)</p>
+
+<p>—– <strong>681.2</strong> —–2019-11-18 10:11:53+08:00:</p>
+
+<p>There is no English Wikipedia page on this issue</p>
+
+<p>Here is the <a href="https://zh.wikipedia.org/wiki/%E6%89%8E%E5%B7%B4%E4%BE%9D%E5%96%80%E5%8B%92%E5%B1%B1%E7%A9%BA%E9%9A%BE?wprov=sfti1">Chinese one</a></p>
+
+<p>—– <strong>681.3</strong> —–2019-11-18 14:43:51+08:00:</p>
+
+<p>I would say it’s a good solution to both sides</p>
+
+<p>Both China and Soviet Union needs a buffer zone with each other</p>
+
+<p>btw though CCP officially recognized the independence of Mongolia first, Mongolia was de facto independent under ROC.</p>
+
+<h3 id="682-港高院裁定蒙面法违宪-submitted-on-2019-11-18-1602090800">682: <a href="https://old.reddit.com/r/China_irl/comments/dy091y/港高院裁定蒙面法违宪/">港高院裁定蒙面法违宪</a>, submitted on 2019-11-18 16:02:09+08:00.</h3>
+
+<p>—– <strong>682.1</strong> —–2019-11-19 03:47:06+08:00:</p>
+
+<p>蒙面法是为了抓人时有法可依吧</p>
+
+<p>不是说认为通过蒙面法就万事大吉</p>
+
+<p>而是警察抓那些试图伪装路人的抗议者们更有依据 而不是干瞪眼</p>
+
+<h3 id="683-才知道reddit有中文sub呀寻求mods中-submitted-on-2019-11-20-0809440800">683: <a href="https://old.reddit.com/r/China_irl/comments/dytftf/才知道reddit有中文sub呀寻求mods中/">才知道Reddit有中文sub呀，寻求Mods中</a>, submitted on 2019-11-20 08:09:44+08:00.</h3>
+
+<p>—– <strong>683.1</strong> —–2019-11-20 16:21:50+08:00:</p>
+
+<p>表示很多sub都没语言暴力</p>
+
+<p>求不要自己yy好吗？</p>
+
+<p>—– <strong>683.2</strong> —–2019-11-21 00:44:21+08:00:</p>
+
+<p>你说的“哪儿都有” 当然就涵盖了所有可能 smh</p>
+
+<h3 id="684-刘晓波中国政治与中国当代知识份子后记-submitted-on-2019-11-20-2057130800">684: <a href="https://old.reddit.com/r/China_irl/comments/dz1pjv/刘晓波中国政治与中国当代知识份子后记/">刘晓波：《中国政治与中国当代知识份子》后记</a>, submitted on 2019-11-20 20:57:13+08:00.</h3>
+
+<p>—– <strong>684.1</strong> —–2019-11-21 04:02:24+08:00:</p>
+
+<p>中国一千步笑十步？</p>
+
+<p>—– <strong>684.2</strong> —–2019-11-21 04:06:22+08:00:</p>
+
+<p>虽然我很理解刘晓波为什么这么说和这么想 他很多东西我也挺认同</p>
+
+<p>但是所谓的“殖民地三百年论”这种话不应该摆台面上说 尤其是中国长大的人 都知道中国如何百年耻辱PTSD</p>
+
+<p>刘这么说 即使是气话 实际上却为自己所希望看到的历史进程拖了非常大的后腿</p>
+
+<p>—– <strong>684.3</strong> —–2019-11-21 08:20:20+08:00:</p>
+
+<blockquote>
+  <p>人民内部矛盾</p>
+</blockquote>
+
+<p>（开个玩笑）</p>
+
+<h3 id="685-中文-only-discussion-2019-11-20-submitted-on-2019-11-20-2304190800">685: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dz38k7/中文only_discussion_20191120/">中文-only Discussion! 2019-11-20</a>, submitted on 2019-11-20 23:04:19+08:00.</h3>
+
+<p>—– <strong>685.1</strong> —–2019-11-25 12:23:28+08:00:</p>
+
+<p>没想到身为汉语母语者 来这还能学到中文本身的知识 👍</p>
+
+<p>—– <strong>685.2</strong> —–2019-11-25 12:25:37+08:00:</p>
+
+<p>政治正确 哈哈</p>
+
+<p>—– <strong>685.3</strong> —–2019-11-25 12:26:13+08:00:</p>
+
+<p>我只喜欢吃饭 谢谢</p>
+
+<h3 id="686-vent-ongoing-hk-protest-are-turning-my-chinese-acquaintances-to-be-more-pro-ccp-submitted-on-2019-11-21-0818330800">686: <a href="https://old.reddit.com/r/China/comments/dzavus/vent_ongoing_hk_protest_are_turning_my_chinese/">[VENT] Ongoing HK Protest Are Turning My Chinese Acquaintances to Be More Pro-CCP</a>, submitted on 2019-11-21 08:18:33+08:00.</h3>
+
+<p>—– <strong>686.1</strong> —–2019-11-21 08:50:46+08:00:</p>
+
+<p>Understood tho</p>
+
+<p>I don’t have a huge interest in arguing with anyone, instead, I would prefer to send the information from other sides to let people have a better mutual understanding</p>
+
+<p>However, it’s always a futile attempt. These stuffs, especially this protest, are always polarizing ​society. Some of them are inherent and spontaneous, while others are promoted deliberately.</p>
+
+<p>—– <strong>686.2</strong> —–2019-11-21 09:23:23+08:00:</p>
+
+<p>Right and wrong</p>
+
+<p>It’s true that CCP cannot force everyone to play their game</p>
+
+<p>However, do they really need to do that? This white-or-black argument is too simply. They just need to build a strong influential sphere and maintain significant connections with others</p>
+
+<p>The global empowerment is ongoing</p>
+
+<p>The neo-powers will not be as ideological as the west. They might never can be the allies of China, but it never means they won’t do business with China or use China to balance other powers</p>
+
+<p>—– <strong>686.3</strong> —–2019-11-21 10:06:23+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>China is substantially more ideologically-driven than the West
+</code></pre></div>  </div>
+</blockquote>
+
+<p>I strongly disagree with it. China doesn’t and won’t have any motivation to promote any ideology outside, unlike the west and middle East.</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Where are China's allies?
+</code></pre></div>  </div>
+</blockquote>
+
+<p>I’ve answered this question. Lots of people keep talking about the lack of China’s allies. I never deny it, but I would also ask, <strong>is it really a HUGE matter</strong>? Yes, allies are definitely good. But lacking allies doesn’t mean all the non-allies are enemies, instead, they can be cooperators and/or frienemies, and their relationship can be cold in politics but hot in economic, etc.</p>
+
+<p>One of my interesting observations is that, on one hand, Chinese nationalists always underestimate the global hates towards China, but on the other hand, the westerners always overestimate the global predilection for them.</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>The legitimacy of the CCP is based exclusively on growth. When China encounters the recession, propaganda will not be able to fill the bellies of the hundred million Chinese poor.
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Fair point. And the west will be the scapegoat at that time. Also, though I’m not very positive about China’s economy in the future due to the hyper-aging population thanks to the dumb one-child policy, it’s still far away from recession. Recession is a touchstone of China’s model, I will be curious about the performance of China’s model at that time.</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>But nobody knows when the trade war becomes a cold war.
+</code></pre></div>  </div>
+</blockquote>
+
+<p>First, China isn’t promoting any ideology or even trying to topple any regime, unlike what the Soviet Union did. Second, China has a much much stronger economic and other connections with the world including the west, unlike the Soviet Union’s. Therefore, it’s hard to say there will be a cold war, though China is at odds with western values and the mutual trust between China and the free world is dramatically decreasing.</p>
+
+<p>Modern China is a unique story, both culturally and politically, no matter it’s good or bad. Therefore, I always disagree with simply comparing China to Nazi Germany or the​ ​Soviet Union story due to some so-called similar (actually not) properties such as concentration camps, communism-style one-party, etc.</p>
+
+<p>—– <strong>686.4</strong> —–2019-11-21 10:37:33+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>believe that the major reason behind this phenomenon is that mainlanders can only receive information from state-controlled media
+</code></pre></div>  </div>
+</blockquote>
+
+<p>This is the key point I wanted to discuss, because this phenomenon is more than that.</p>
+
+<p>You may notice that the Chinese acquaintances I mentioned are kinda educated and generally more unbiased than other Chinese, given the fact that most of them, to some extent, realize the problem in this system.</p>
+
+<p>However, in the case of HK, all of them more emotionally accept the China-side news and deny the other. I guessed one factor is that, though the HK’s protest focus on universal suffrage, some movements echoes the detestation of China or even separatism. The second factor is that some behaviors of protestors, such as beating some innocent mainlanders on street, or lighting an anti-protest elder on fire, are unanimously unacceptable to majority mainlanders.</p>
+
+<p><strong>Some of my friends support 2014 HK Occupy Central movement, which is also a pro-democracy movement, but against the current one.</strong></p>
+
+<p>—– <strong>686.5</strong> —–2019-11-21 10:41:05+08:00:</p>
+
+<p><a href="https://reddit.com/r/China/comments/dzavus/_/f86pkzf/?context=1">my comment link to above</a></p>
+
+<p>btw your <a href="https://en.m.wikipedia.org/wiki/Maslow's_hierarchy_of_needs?wprov=sfti1">Maslow’s-hierarchy-of-needs</a> explanation is… very popular in China tho</p>
+
+<p>But just like what you said, similarly, HKers have their demands too, and they won’t turn to be that violent if the government can solve the problem more artfully and sincerely</p>
+
+<p>—– <strong>686.6</strong> —–2019-11-21 11:17:02+08:00:</p>
+
+<p>They may prefer Japanese ones tho</p>
+
+<p>—– <strong>686.7</strong> —–2019-11-21 11:28:23+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I don't know of any HKers who are fearful of the protesters
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Agree all expect this one.</p>
+
+<p>It’s clearly that some pro-government people aka blue ribbons/蓝丝 are kinda afraid at least parts of the protestors aka the valiant/勇武派</p>
+
+<p>—– <strong>686.8</strong> —–2019-11-21 11:32:16+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>In reality, it doesn‘t matter what they think. It has no effect on anything.
+</code></pre></div>  </div>
+</blockquote>
+
+<p>The easiest way to capture a fortress is from within, otherwise do you hope to see WWIII one day?</p>
+
+<p>1.4b people’s attitude is definitely significant, no matter it’s a product of propaganda or not.</p>
+
+<p>—– <strong>686.9</strong> —–2019-11-21 11:58:39+08:00:</p>
+
+<p>Yes, waving foreign flags revoking the memory of the century of humiliation is indeed an important factor too</p>
+
+<p>—– <strong>686.10</strong> —–2019-11-21 12:13:54+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>However at least some of the violence that appear to be done by protesters are actually done by the police pretending to be protesters. And it is hard to tell who did what exactly.
+</code></pre></div>  </div>
+</blockquote>
+
+<p>I know some cops pretended as protestors to arrest them, but doubt that they did something violently to damage the reputation of protestors.</p>
+
+<ul>
+  <li>The man who was lit on fire</li>
+  <li>The elder who was killed by flying bricks</li>
+  <li>The JPM young man who was beaten just because he said <em>we are Chinese</em></li>
+  <li>etc.</li>
+</ul>
+
+<p>—– <strong>686.11</strong> —–2019-11-21 22:05:29+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>seeing people with good US univ degrees saying HK is like that because US manipulates it that way to get China
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Typical</p>
+
+<p>—– <strong>686.12</strong> —–2019-11-21 22:10:25+08:00:</p>
+
+<p>I said <strong>outside</strong></p>
+
+<p>I was talking about whether a country’s foreign policy is driven by ideology</p>
+
+<p>—– <strong>686.13</strong> —–2019-11-21 22:19:39+08:00:</p>
+
+<p>Good points.</p>
+
+<p>But they are like</p>
+
+<ul>
+  <li><em>Oh, CCP was not wrong, the liberty and freedom would always bring chaos</em></li>
+  <li><em>It’s really true that the US never wants China to rise</em></li>
+  <li><em>I thought the west had freedom of speech so I supported them but in this case the west is deleting the pro-China accounts on Twitter and YouTube, just showing the double standard and hypocrisy of the west</em></li>
+  <li>etc</li>
+</ul>
+
+<p>And all of them are the seeds in their minds, persuading them that only CCP is the reliable one</p>
+
+<p>—– <strong>686.14</strong> —–2019-11-21 22:21:24+08:00:</p>
+
+<p>So you thing HK can get five demands without changing mainland?</p>
+
+<p>ZERO probability, I would say</p>
+
+<p>—– <strong>686.15</strong> —–2019-11-21 22:29:49+08:00:</p>
+
+<p>It’s really hard to say 中华民族 is exactly a bad idea</p>
+
+<p>You may argue that this concept is an euphuism of sinicization</p>
+
+<p>But withou it, the country could end up being more violent to the minorities (yes, more than now)</p>
+
+<p>中华民族 was created after the fall of Qing, trying to seek a cooperation among all the ethnics on Qing’s territory. It’s not a brainchild of CCP</p>
+
+<p>—– <strong>686.16</strong> —–2019-11-21 22:41:06+08:00:</p>
+
+<p>Well of course I knew there are some voices not allowed in public, sometimes I am one of them</p>
+
+<p>However by my observation, this kind of voice is less and less existing in Chinese society and in young generation and this pose is a tip of the iceberg</p>
+
+<p>—– <strong>686.17</strong> —–2019-11-21 22:48:49+08:00:</p>
+
+<p>The small countries surrounding a big country always want that big country to fall, no matter it’s China, the US, Russia, India etc (don’t tell me Canada-to-America, that’s different)</p>
+
+<p>Nothing new</p>
+
+<p>On the contrary, they would be the first ones suffer the most from missile raining because they are too close</p>
+
+<p>—– <strong>686.18</strong> —–2019-11-21 22:59:26+08:00:</p>
+
+<p>Cuba etc to the US</p>
+
+<p>Europe etc to Russia</p>
+
+<p>Nepal, Pakistan etc to India</p>
+
+<p>So many…</p>
+
+<p>And, even if they hope to see China to lose, but definitely don’t want their territories to be fucked like France etc surrounding the Germany in WWII or even nuked. If China don’t invade them (why China should invade them except Taiwan), I don’t think they would wholly turn to one side.</p>
+
+<p>—– <strong>686.19</strong> —–2019-11-21 23:06:52+08:00:</p>
+
+<p>I never said they would help China</p>
+
+<p>Philippines… oh wait …</p>
+
+<p>—– <strong>686.20</strong> —–2019-11-21 23:32:08+08:00:</p>
+
+<p>Come on…</p>
+
+<p>First, actually it’s more like a remonstration rather than a serious sanction. A real sanction should be the American sanction towards Iran or European sanction towards Russia</p>
+
+<p>Second, these so-called sanctions have no way to be compared to what America’s doing and what the Soviet Union did, both of them enjoys toppling the regimes they don’t like</p>
+
+<p>Again</p>
+
+<p>If you think <em>century of humiliation</em> is an ideology or some shits, then using the same evaluation, all countries in this world have their ideologies because all of them have their own story versions</p>
+
+<p>However, here I’m talking about whether a country has any interest to broadcast its ideology globally, no matter by softpower or hardpower. In this case, China is passive, with no parallel to America, Middle East, and the ​Soviet Union​.</p>
+
+<p>—– <strong>686.21</strong> —–2019-11-22 21:25:14+08:00:</p>
+
+<p>…</p>
+
+<p>Yes, nationalism is an ideology, but generally speaking, every country has their own stories, norms, values, and so on, i.e. its ideology. Nationalism is just one kind of ideologies and nothing special</p>
+
+<p>So, here when I say some countries are ideology-driven, I am talking about whether they output/project their ideologies globally</p>
+
+<p>In this case, China is more like an opportunist to fit its national interests, but not projecting any ideology globally such as liberalism (the US), socialism (the SU), Sharia law (some ME countries)</p>
+
+<p>—– <strong>686.22</strong> —–2019-11-22 21:35:22+08:00:</p>
+
+<ol>
+  <li>Because I haven’t seen some valid evidences? I have seen the videos that the cops faking the protestors to identify and arrest them but nothing more than that</li>
+  <li>Even if the cops are thugs, it still couldn’t cover all the unjustified violence which are clearly done by the protesters side, such as lighting the man on fire, killing the elder by flying bricks and beating the JPM mainland worker etc</li>
+</ol>
+
+<h3 id="687-转一位新疆汉人谈新疆集中营-submitted-on-2019-11-21-0930510800">687: <a href="https://old.reddit.com/r/saraba1st/comments/dzbstx/转一位新疆汉人谈新疆集中营/">（转）一位新疆汉人谈新疆集中营</a>, submitted on 2019-11-21 09:30:51+08:00.</h3>
+
+<p>—– <strong>687.1</strong> —–2019-11-21 13:04:38+08:00:</p>
+
+<p>一个分子和一团有机体 能比较吗？ 当然前者容易被同化很多</p>
+
+<h3 id="688-转一位新疆汉人谈新疆集中营-submitted-on-2019-11-21-0934300800">688: <a href="https://old.reddit.com/r/China_irl/comments/dzbuj2/转一位新疆汉人谈新疆集中营/">（转）一位新疆汉人谈新疆集中营</a>, submitted on 2019-11-21 09:34:30+08:00.</h3>
+
+<p>—– <strong>688.1</strong> —–2019-11-22 00:20:51+08:00:</p>
+
+<p>所以体验如何？</p>
+
+<h3 id="689-hong-kongs-descent-into-anarchy-submitted-on-2019-11-21-1638320800">689: <a href="https://old.reddit.com/r/Cyberpunk/comments/dzgdrp/hong_kongs_descent_into_anarchy/">Hong Kong’s descent into anarchy.</a>, submitted on 2019-11-21 16:38:32+08:00.</h3>
+
+<p>—– <strong>689.1</strong> —–2019-11-21 23:54:37+08:00:</p>
+
+<p>now it’s already <strong>semi-anarchy</strong> with semi-functioning-regulation</p>
+
+<p>When people in HK can block the roads without restraint</p>
+
+<p>When people in HK can confiscate others without consequence</p>
+
+<p>When people in HK can attack others with different opinions without punishment</p>
+
+<p>—– <strong>689.2</strong> —–2019-11-21 23:57:06+08:00:</p>
+
+<blockquote>
+  <p>it’s Chinese military pretending to be local law enforcement</p>
+</blockquote>
+
+<p>I have seen this statement lots of times in reddit</p>
+
+<p>Though I <a href="https://www.reddit.com/r/China/comments/dzavus/vent_ongoing_hk_protest_are_turning_my_chinese/?utm_source=share&amp;utm_medium=web2x">detest CCP</a> as you guys, could you not spread the fake news?</p>
+
+<p>—– <strong>689.3</strong> —–2019-11-22 00:08:23+08:00:</p>
+
+<p>Some of them (of course not all of them) indeed haven’t gotten punishment yet because all of these things happened in chaos and some of them wearing masks</p>
+
+<p>Also, the majority force and public attentions are not focusing on these “small” issues</p>
+
+<p>I just want to point out the fact of semi-anarchy and am not defending anything here</p>
+
+<p>—– <strong>689.4</strong> —–2019-11-22 00:11:43+08:00:</p>
+
+<p>Including, for instance, <a href="https://www.youtube.com/watch?v=e42RUcHqDXo&amp;t=10s">this one</a> (1:40)?</p>
+
+<p>—– <strong>689.5</strong> —–2019-11-22 00:15:42+08:00:</p>
+
+<p>I was NOT talking about cops here, I’m talking about general citizens</p>
+
+<ul>
+  <li>The man who was lit on fire and still staying in ICU</li>
+  <li>The elder who was killed by flying bricks</li>
+  <li>The young JPM worker who was beaten</li>
+  <li>The ambulance​ being thrown stones and bottles</li>
+  <li>Some blue ribbons (the HK citizens who are more anti-protest) who were attacked by groups of yellow ribbons (the opposite groups)</li>
+</ul>
+
+<p>—– <strong>689.6</strong> —–2019-11-22 01:39:15+08:00:</p>
+
+<p>Most of them are still HKers</p>
+
+<p>I know both Cantonese and mandarin</p>
+
+<p>—– <strong>689.7</strong> —–2019-11-22 01:56:04+08:00:</p>
+
+<p>So, at least the cops who speak in microphone are definitely HKers with Cantonese HK accent.</p>
+
+<p>It’s not surprising IMO, given the fact that there is still a not small group of HK citizens anti-protest.</p>
+
+<p>It’s not a single-dimensional China-vs-HK narrative.</p>
+
+<h3 id="690-我国第一块-细胞培养肉-诞生-submitted-on-2019-11-21-2021530800">690: <a href="https://old.reddit.com/r/China_irl/comments/dzij9v/我国第一块_细胞培养肉_诞生/">我国第一块 “细胞培养肉” 诞生</a>, submitted on 2019-11-21 20:21:53+08:00.</h3>
+
+<p>—– <strong>690.1</strong> —–2019-11-22 08:03:08+08:00:</p>
+
+<p>。。。</p>
+
+<h3 id="691-从单纯中国人的视角看香港的返送中运动-submitted-on-2019-11-21-2146530800">691: <a href="https://old.reddit.com/r/China_irl/comments/dzjjcp/从单纯中国人的视角看香港的返送中运动/">从单纯中国人的视角看香港的返送中运动</a>, submitted on 2019-11-21 21:46:53+08:00.</h3>
+
+<p>—– <strong>691.1</strong> —–2019-11-21 23:38:12+08:00:</p>
+
+<p>请问这篇东东有什么新的东西吗。。。</p>
+
+<p>另外 我发现现在的人很喜欢说 类似于</p>
+
+<blockquote>
+  <p>我待过西方很多很久 我看过墙外很多信息 我有多高的学历 … 所以我并不是被中国政府宣传影响的人 … 但是我依然认为 …</p>
+</blockquote>
+
+<p>我觉得 补充个人背景信息的值得鼓励的 但每个人都应该意识到 上诉论调并没有因果关系 也并不能给下面的个人说辞提供证据</p>
+
+<p>—– <strong>691.2</strong> —–2019-11-22 00:23:13+08:00:</p>
+
+<p>法制 vs 法治</p>
+
+<p>法家的法 vs 西方的法</p>
+
+<h3 id="692-leader-of-the-german-youth-pro-nazi-propaganda-card-japan-1938-submitted-on-2019-11-22-0720460800">692: <a href="https://old.reddit.com/r/PropagandaPosters/comments/dzrymk/leader_of_the_german_youth_pronazi_propaganda/">“Leader of the German Youth” (Pro-Nazi Propaganda Card, Japan, 1938)</a>, submitted on 2019-11-22 07:20:46+08:00.</h3>
+
+<p>—– <strong>692.1</strong> —–2019-11-23 05:35:29+08:00:</p>
+
+<p>Yes, fuck her (pun)</p>
+
+<h3 id="693-rubio-china-needs-to-stop-interfering-in-uss-internal-affairs-in-response-to-chinas-whining-about-the-hong-kong-human-rights-act-submitted-on-2019-11-22-1201290800">693: <a href="https://old.reddit.com/r/China/comments/dzvjzl/rubio_china_needs_to_stop_interfering_in_uss/">Rubio: “China needs to stop interfering in US’s internal affairs,” in response to China’s whining about the Hong Kong Human Rights Act</a>, submitted on 2019-11-22 12:01:29+08:00.</h3>
+
+<p>—– <strong>693.1</strong> —–2019-11-22 21:44:08+08:00:</p>
+
+<p>tbh I’m always curious about the definition of <em>interfering the internal affairs</em></p>
+
+<p>Actually, all the foreign policies are kinda <em>interfering</em>?</p>
+
+<h3 id="694-an-english-speech-given-by-a-qings-princess-submitted-on-2019-11-22-1205080800">694: <a href="https://old.reddit.com/r/China/comments/dzvlil/an_english_speech_given_by_a_qings_princess/">An English speech given by a Qing’s princess</a>, submitted on 2019-11-22 12:05:08+08:00.</h3>
+
+<p>—– <strong>694.1</strong> —–2019-11-22 21:40:47+08:00:</p>
+
+<p><a href="https://en.m.wikipedia.org/wiki/Princess_Der_Ling?wprov=sfti1">Wikipedia </a></p>
+
+<p>Checked. She should be “princess” (not real princess)</p>
+
+<h3 id="695-必读新华社新闻信息报道中的禁用词和慎用词-submitted-on-2019-11-22-1220330800">695: <a href="https://old.reddit.com/r/China_irl/comments/dzvrwg/必读新华社新闻信息报道中的禁用词和慎用词/">必读：新华社新闻信息报道中的禁用词和慎用词</a>, submitted on 2019-11-22 12:20:33+08:00.</h3>
+
+<p>—– <strong>695.1</strong> —–2019-11-23 00:03:35+08:00:</p>
+
+<p>笑死</p>
+
+<h3 id="696-happy-meme-day-everyone-submitted-on-2019-11-22-1306110800">696: <a href="https://old.reddit.com/r/ChineseLanguage/comments/dzwaih/happy_meme_day_everyone/">Happy meme day everyone</a>, submitted on 2019-11-22 13:06:11+08:00.</h3>
+
+<p>—– <strong>696.1</strong> —–2019-11-23 06:13:42+08:00:</p>
+
+<p>”憂鬱的台灣烏龜“</p>
+
+<p>”忧郁的台湾乌龟“</p>
+
+<p>– A famous mainland meme</p>
+
+<h3 id="697-wcgw-if-i-push-my-friend-for-fun-submitted-on-2019-11-22-1802330800">697: <a href="https://old.reddit.com/r/Whatcouldgowrong/comments/dzyz6i/wcgw_if_i_push_my_friend_for_fun/">WCGW if i push my Friend for Fun</a>, submitted on 2019-11-22 18:02:33+08:00.</h3>
+
+<p>—– <strong>697.1</strong> —–2019-11-22 22:32:19+08:00:</p>
+
+<p>Fuck. In my high school, there is one guy enjoying doing this shit. All of us don’t want to walk along with him on the street</p>
+
+<h3 id="698-之前被打的头破血流的老哥-submitted-on-2019-11-23-0013090800">698: <a href="https://old.reddit.com/r/China_irl/comments/e033jl/之前被打的头破血流的老哥/">之前被打的头破血流的老哥</a>, submitted on 2019-11-23 00:13:09+08:00.</h3>
+
+<p>—– <strong>698.1</strong> —–2019-11-23 00:15:54+08:00:</p>
+
+<p>我还以为是那三个哥们</p>
+
+<h3 id="699-neocolonialism-submitted-on-2019-11-23-0303550800">699: <a href="https://old.reddit.com/r/China/comments/e05klf/neocolonialism/">Neocolonialism</a>, submitted on 2019-11-23 03:03:55+08:00.</h3>
+
+<p>—– <strong>699.1</strong> —–2019-11-23 04:06:00+08:00:</p>
+
+<p>Force?</p>
+
+<h3 id="700-how-does-acupuncture-work-what-can-it-cure-stroke-asthma-chinese-medicine-submitted-on-2019-11-23-0354140800">700: <a href="https://old.reddit.com/r/China/comments/e06am9/how_does_acupuncture_work_what_can_it_cure_stroke/">How does acupuncture work? What can it cure? Stroke, asthma, Chinese medicine</a>, submitted on 2019-11-23 03:54:14+08:00.</h3>
+
+<p>—– <strong>700.1</strong> —–2019-11-23 04:14:39+08:00:</p>
+
+<p>In this sub, all the people would call Chinese medicine anti-science</p>
+
+<p>—– <strong>700.2</strong> —–2019-11-23 06:04:52+08:00:</p>
+
+<p>Yes and no</p>
+
+<p>I understood that there are lots of fake and dangerous “traditional Chinese medicines” (TCM) due to the unchecked clinical trials as you said and potential benefits</p>
+
+<p>However, it’s also wrong to say <em>all</em> the traditional Chinese medicines are fake. Chinese medicines, and also other worldwide ancient medicines, are actually <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=3&amp;cad=rja&amp;uact=8&amp;ved=2ahUKEwja29Ot5v7lAhUHM6wKHSc4CnIQFjACegQIDxAH&amp;url=https%3A%2F%2Fwww.mometrix.com%2Facademy%2Fexperimental-science%2F&amp;usg=AOvVaw0364Bl4VdSdwkoCHBzYonA">experimental science</a>. They are neither modern science but nor anti-science. You can see the thousand-of-year’s trail as a kind of “clinical trails” (well, of couse, not the modern one).</p>
+
+<p>TCM are like a big dataset, full of garbage, but you can still dig out some valuable useful resources to some disease from the huge historical datas, such as <a href="https://www.uthscsa.edu/stories/nexrutine-cancer-side-effects">this</a></p>
+
+<p>Also, lots of modern Chinese medicine (MCM) actually pass the clinical trails and have a more modern process.</p>
+
+<p><strong>TLDR: TCM is an <em>ancient experimental science</em> but not <em>modern science</em> (but you cannot say they’re anti-science). TCM should be the <em>research target</em> of modern medicince but not the <em>principle</em> of modern medicine</strong></p>
+
+<p>—– <strong>700.3</strong> —–2019-11-23 11:03:16+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I don’t believe something should be promoted as a treatment, especially for serious diseases
+</code></pre></div>  </div>
+</blockquote>
+
+<p>At least in my personal experience, we Chinese resorts to TCM always just for general disease such as getting cold or long term modest therapy.</p>
+
+<p>Based on my experience, the treatment of TCM from official hospital works  so I’m OK with that. As I said, lots of modern TCM actually have kinda clinical trials (but you have the freedom to distrust the chinese trial)</p>
+
+<p>When you see some guys taking TCM for serious diseases, they are either the uneducated man living a far rural areas or seeking (hoping) a wonder after the fail of modern/western treatment.</p>
+
+<p>—– <strong>700.4</strong> —–2019-11-26 03:46:19+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Don't you think people who are choosing TCM and suffering the consequences deserve a bit of compassion, particularly from their fellow countrymen?
+</code></pre></div>  </div>
+</blockquote>
+
+<p>I do feel compassionate with them</p>
+
+<p>But it’s the fault of a system of <em>cheating</em> and <em>greed</em> but not <em>TCM</em> per se, they can also cheat via “western medicine”, which was and still is happening</p>
+
+<h3 id="701-大跃进海报-菜绿瓜肥产量多-中国-1959-submitted-on-2019-11-23-0543530800">701: <a href="https://old.reddit.com/r/China_irl/comments/e07wbd/大跃进海报_菜绿瓜肥产量多_中国_1959/">[大跃进海报] 菜绿瓜肥产量多, 中国, 1959</a>, submitted on 2019-11-23 05:43:53+08:00.</h3>
+
+<p>—– <strong>701.1</strong> —–2019-11-24 04:54:15+08:00:</p>
+
+<p>/r/PropagandaPosters</p>
+
+<h3 id="702-香港法案实际作用并不大美国也做不了太多为什么大陆港台反应那么大-submitted-on-2019-11-23-0550060800">702: <a href="https://old.reddit.com/r/China_irl/comments/e07zld/香港法案实际作用并不大美国也做不了太多为什么大陆港台反应那么大/">香港法案实际作用并不大，美国也做不了太多，为什么大陆港台反应那么大？</a>, submitted on 2019-11-23 05:50:06+08:00.</h3>
+
+<p>—– <strong>702.1</strong> —–2019-11-23 12:29:28+08:00:</p>
+
+<p>可以取消美国对香港的贸易特别待遇</p>
+
+<p>打击香港国际金融中心地位</p>
+
+<p>中共没了在自由世界的白手套 而且没有替代的东西</p>
+
+<p>你说反应大不大？</p>
+
+<p>—– <strong>702.2</strong> —–2019-11-24 04:55:56+08:00:</p>
+
+<p>怎么说？</p>
+
+<p>美国一派是想着保持联系并且只要一个fair deal</p>
+
+<p>但另一派连decouple都没意见 还在乎hk吗？</p>
+
+<h3 id="703-中澳关系是怎么搞僵的-submitted-on-2019-11-23-1124420800">703: <a href="https://old.reddit.com/r/China_irl/comments/e0cbif/中澳关系是怎么搞僵的/">中澳关系是怎么搞僵的？</a>, submitted on 2019-11-23 11:24:42+08:00.</h3>
+
+<p>—– <strong>703.1</strong> —–2019-11-23 12:26:05+08:00:</p>
+
+<p>其实若真在西方论坛观察过的人 就知道现在西方各国都开始反感并警惕中共的渗透 包括 美国 加拿大 澳大利亚 新西兰 欧洲诸国 等</p>
+
+<p>也开始出现诸如 限制中国公司投资 限制中国学生来学习 甚至整体脱钩重回冷战 的声音</p>
+
+<p>西方人的普遍看法是 当年好心拉中国进入WTO等西方主导体系 是相信经济繁荣能推动中国国内政治改革 并让中国成为西方盟友的一员 共享繁荣 但现在中国变强大了却没有在同一道路上走 反而变得越来越集权 并向外输送反西方普世价值观 担心中国变成下一个苏联或纳粹德国 故而不应该绥靖</p>
+
+<p>在此转变中 澳大利亚其实并没那么特殊</p>
+
+<p>edit：我这里说的是<strong>西方人的看法</strong> 不完全是我自己的 ok？</p>
+
+<p>—– <strong>703.2</strong> —–2019-11-23 13:27:56+08:00:</p>
+
+<ol>
+  <li>我很明显只是在复述西方人的看法，因为题目问澳大利亚等西方对华共识的转变，你语言能力有点低</li>
+  <li>中国入WTO的确大体上对中西都是双赢，但国内宣传得好像经济发展都是政府功劳一样，并有意淡化了西方的力量。中国经济奇迹有很大程度上要归功于中国人民的勤劳和西方主导的搭建好的全球贸易体系，而非政府的领导（btw 当然政府也的确有功，跟文革大跃进的过勉强相抵）。不过不要当年心痒痒入WTO，现在还骂娘……西方真要打压中国，早就不让你进WTO了，不让你去西方上学学技术去了</li>
+  <li>我知道国内大部分人都热衷于什么西方国际金融集团，还有什么帝国主义亡我之心不死，但具体是不是你死我亡的完全对立局面，你认同的话也只是你个人的看法，不要动不动说别人幼稚（虽然这是国内常有的调调）。我真要按你思维列的话可以列一堆：比如东南亚金融危机、前苏联休克疗法、打击华为、高科技禁运、五眼联盟、石油美金霸权剪羊毛、日本广场协议、美国打击法国贝尔斯通德国拜耳日本东芝…抱歉，不是我不知道，而是我保留我的看法。另外，你们那套货币战争式的黑料，很多其实都是从美国国内本来就有的阴谋论搬过来的，讨论早就有很多，不是什么只有中国国内人自己清醒他人独醉。</li>
+  <li>中国很明显有百年耻辱PTSD，一天到晚以为全部人都是要害自己。中国这么一个广阔的中产阶级市场，这么多资本包括西方资本正在参与的盛宴，你担心像乌克兰那样被搞只是无稽之谈。当然，关键地方被控股这个是有可能，我不否认。就像我不否认国与国间存在大量竞争一样，但只看到竞争看不到合作的话，那偏激的是你。</li>
+  <li>信不信由你，二战后西方的确一直想拉中国当盟友。不然的话，能打压你早就打压你了，还会等到现在？还会拉你进贸易组织让你去学习？给予你科技资金声誉各种东西？二战后西方跟中国的确也有过很多摩擦，但你要分清楚那攻击有三种类型，一种是针对意识形态政权上的攻击，一种是基于价值观不合产生的矛盾（比如疆藏问题），剩下一种是对你整个文明的恶意攻击打压。在我看来，攻击绝大部分是基于前二种。</li>
+  <li>很多所谓民主阵痛的地方，像乌克兰中东南美的，本来就有很多自己原生的问题，怪不得民主本身。</li>
+</ol>
+
+<p>—– <strong>703.3</strong> —–2019-11-23 13:43:28+08:00:</p>
+
+<p>我没有说输出意识形态</p>
+
+<p>我说的是 渗透</p>
+
+<ol>
+  <li>官方渗透：比如这次叛逃澳大利亚的间谍 以及 对西方政商学届的资金影响 等等</li>
+  <li>民间渗透：比如中国部分留学生采取的一些过激的不符合别人社会规范的抗议行为：比如把海报违法贴到别人香港抗议者的海报上面、威胁加拿大藏裔当学生主席、疑似以种族歧视的名义误导别人英国学校扯下香港的贴纸，等等（btw 这其中可以看出很多留学生不大熟悉西方的运行操作 “帮倒忙”）</li>
+  <li>被动渗透：如参与中国市场的西方公司有自我审查的行为 比如这次的香港事件 NBA暴雪迪士尼苹果等被搞到里外不是人 给美国民间的感觉是 以前知道中国不自由但不自由是中国人民 我们顶多同情他们 现在随着中国经济发展 好像竟然反过来影响了我们的言论自由 不能忍… 之类的</li>
+</ol>
+
+<p>一句话 在大部分自由世界的人看来 专制集权就是原罪 而且有巨大的突变成独裁的危险性 特别是这几年中国也的确在加强集权 所以无论主观还是客观上 都给自由世界带来了很强的威胁感</p>
+
+<p>（虽然西方也还是有鸽派和拥抱熊猫派 不过2018年后就再也不得势了）</p>
+
+<p>—– <strong>703.4</strong> —–2019-11-24 04:47:05+08:00:</p>
+
+<p>国与国间有利益之争 也有意识形态之争 现在中国跟外面的两者都有 前者无法避免 但后者是可以避免的 甚至美国盟友们也想有个超级大国制衡美国本身 但中国这样越来越集权 只会把别人都推向美国那一边</p>
+
+<p>美国当年是在拉中抗苏 但即使苏联解体后也一样想拉中国当盟友 中国入WTO是苏联解体后的十年了好不好？</p>
+
+<p>当时华府对华策略是“接触加遏制” 接触是为了想推动中国自由化 遏制是为了防避一个集权国家往外扩展 两者是并举并一直存在的 所以这为不同人间留下了很大的分歧 毕竟一个人若只看接触的一面 则会无脑亲美 若只看到遏制的一面 则会无脑反美</p>
+
+<p>我必须声明一点 我从来没说过 中国更为自由民主化后 国与国间就没竞争了 毕竟美国对盟友也不是没打压过 但是 这样的确可以为中国未来发展提供更为广阔的空间 而非现在这样 强大却孤独</p>
+
+<p>—– <strong>703.5</strong> —–2019-11-24 04:49:53+08:00:</p>
+
+<p>美国很多时候强推的确不好 这里面的原因就很多了 肯定也有利益 不单纯是意识形态 美国推翻自由民主政权也不是没试过</p>
+
+<p>但中国现在越来越集权也是个不好的现象 特别是这几年 老实讲 别说那些在自由世界生活很久的人们 即使我自己 有时候也会很反感并担心</p>
+
+<p>集权真的是一个很容易失控的东西</p>
+
+<p>—– <strong>703.6</strong> —–2019-11-24 04:52:47+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>但是有一个，当日本成了美国盟友经济体量快赶上美国的时候，美国剪了一把大羊毛
+</code></pre></div>  </div>
+</blockquote>
+
+<p><a href="https://reddit.com/r/China_irl/comments/e0cbif/_/f8fdqew/?context=1">我的评论</a></p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>我支持民主，但是按目前实际国情来说。中国15亿人，这种民主要怎么办
+</code></pre></div>  </div>
+</blockquote>
+
+<p>老实讲 我个人并不是什么西式民主的狂热拥护者 但法治、制衡、公民社会我还是很拥护的 而且 最起码有些东西不应该开倒车吧？</p>
+
+<p>—– <strong>703.7</strong> —–2019-11-24 20:51:06+08:00:</p>
+
+<p>分裂不是失控，别人英国有公投过，没成，当然，西班牙还做不到这种坦然。</p>
+
+<p>良政与劣质的确是一个指标，这就是为什么当初认为西式民主制度是历史之终结的福山，十年后把执政能力这个指标加入到模型当中以解释中国模式。</p>
+
+<p>但是，集权与民主的一个分别是，集权的上限高但下限非常低，若一个明君或者良好的集团统治一百年，那可能一百年都飞速发展，但若出了昏君或者集团化腐化，那么社会上是没有能够制衡修正的力量的，只能够眼睁睁地看着船沉，毛的后十年就是一个明证。这就是为什么丘吉尔说“民主是最不坏的制度”，不是说其有多么高效多么廉洁多么完美，而是其下限不会低到哪去（当然，我这里说的是比较完善的民主体制如欧美东亚诸国，像中东南美非洲等国只是一个有一个民主的名称而已）。</p>
+
+<p>btw 我个人并不是什么西式民主的强烈信仰者，我也不太认可民众素质还比较低时搞全面民主。但是法治、制衡、公民社会这些我还是认可的，如果tg能相对做到上述几点，证明诸点的达标跟西式民主是可以切割开来的，那我无所谓。可是这几年中国在体制改革上非但没有进一步开明，反而有倒车的迹象。</p>
+
+<p>中国这几十年的经济奇迹，的确是可赞，但也不是什么太神秘之事。横比上，美国等国当年发展时的速度和规模也相差无几。纵比上，中国数个辉煌皇朝如唐朝，也有上百年几代领导人的盛世。古代朝代也有盛世，那你是不是觉得用古王朝的“良政”也是不错的选择？更不要说这几十年的经济奇迹，除了tg领导有功外，还建立在1）中华民族本身的勤劳聪明2）西方搭建好的全球贸易分工体制3）中国的后发优势。对了，还没算前面大跃进和文革被耽误的十几年（当年其他的劣政我就当是建国初的摸索成本，不算进来）。</p>
+
+<p>中国这几十年，基本上是在打顺风仗，但当经济下滑甚至经历当年美国的滞涨甚至日本台湾等地的不发展时，那时候才是对tg的大考（虽然很大可能tg又把西方当作替罪羊）。另外，这几十年就全部发展得很好吗？也不是。比如因为专制模式缺乏反馈和制衡机制，导致的迟放开了十多年的计划生育，会是一个堪比文革式的毒瘤。史无前例的人口萎缩，以及附带的对经济、社会、民族矛盾等负面影响，会是非常大的，而且持续起码半个世纪乃至更久。</p>
+
+<p>最后，专制模式下，公民的部分权力是被政权所代表的，这就是为什么生活在了自由社会的人，如台湾香港等，非常不愿意融入中国的原因之一。大陆人大多只是表面上知道别人的想法，但是大陆人，即使是那些在西方生活学习工作科研过十几年的大陆人，在他们内心深处是感受不到港台人那种疏离感的根本原因的。社会的自由程度能够往前走，但往后走是千难万难，比如现在大陆人虽然可以适应现行制度，但是让他们回到毛时代计划经济时代也是一万个不肯，无解的。</p>
+
+<p>—– <strong>703.8</strong> —–2019-11-24 21:02:43+08:00:</p>
+
+<p>我没说中国要市场完全自由化，市场完全开放应该是到跟美国资本差不多强的时候。</p>
+
+<p>中国这种观念是被百年耻辱影响太深了，再加上tg几十年如一日地宣传“中国vs西方”的二元论，所有人看待问题就只会从这个角度出发。</p>
+
+<p>西方这么多元且言论自由的地方，声音当然也是很多样的，tg专门捡别人几个人的声音来为自己的思想服务。比如对亨廷顿的文明冲突论就奉为圭臬，问题是这仅仅是一家之言而已，他又不是基辛格和王沪宁这种代表几十年意识形态的人，书的评分更不算高（反映西方读者的共鸣程度）。那美国鸽派的声音呢？其他更加自由主义的声音呢？怎么也不见中国传播传播？</p>
+
+<p>—– <strong>703.9</strong> —–2019-11-24 21:07:39+08:00:</p>
+
+<p><a href="https://reddit.com/r/China_irl/comments/e0cbif/_/f8jghj7/?context=1">我另一条评论</a></p>
+
+<p>老实讲，我是不知道的，我也希望中国真能有自己的模式，也减少改革的成本，但一党制下如何有效监督，的确几十年都脱离不了“左右手互相监督”的老毛病，现在也只有“党内监督”和“社会监督”两个所谓的路子。很难的。根本性矛盾。</p>
+
+<p>—– <strong>703.10</strong> —–2019-11-24 23:24:59+08:00:</p>
+
+<p>下限是指对权力的制衡 不是什么烂不烂政</p>
+
+<p>现代思维是靠制度 而不是靠人治</p>
+
+<p>—– <strong>703.11</strong> —–2019-11-24 23:26:43+08:00:</p>
+
+<p>就这种认知水平 别人当然不想跟你一国咯</p>
+
+<p>什么东西都百年耻辱 觉得别人这看不起那看不起 自大又自卑 中国这种心态才是病态</p>
+
+<p>—– <strong>703.12</strong> —–2019-11-25 00:53:18+08:00:</p>
+
+<p>中间派都被挤没了 当然就只剩下极端对极端</p>
+
+<h3 id="704-震惊叛逃至澳大利亚的中国特工事件竟有了新的转折-submitted-on-2019-11-23-2339220800">704: <a href="https://old.reddit.com/r/China_irl/comments/e0jeif/震惊叛逃至澳大利亚的中国特工事件竟有了新的转折/">震惊！叛逃至澳大利亚的中国特工事件竟有了新的转折！？</a>, submitted on 2019-11-23 23:39:22+08:00.</h3>
+
+<p>—– <strong>704.1</strong> —–2019-11-24 06:45:55+08:00:</p>
+
+<p>我也觉得 感觉蹭热度</p>
+
+<h3 id="705-not-enough-pork-in-the-world-to-deal-with-chinas-demand-for-meat-submitted-on-2019-11-24-0013370800">705: <a href="https://old.reddit.com/r/China_irl/comments/e0jvdc/not_enough_pork_in_the_world_to_deal_with_chinas/">‘Not enough pork in the world’ to deal with China’s demand for meat</a>, submitted on 2019-11-24 00:13:37+08:00.</h3>
+
+<p>—– <strong>705.1</strong> —–2019-11-25 00:42:20+08:00:</p>
+
+<p>那还能用微信吗？重新注册？</p>
+
+<p>—– <strong>705.2</strong> —–2019-11-25 08:32:08+08:00:</p>
+
+<p>我艹 这有点过了</p>
+
+<p>而且猪瘟也不应该那么夸张啊</p>
+
+<p>我朋友天天微信发支持香港也没事</p>
+
+<p>当年习修宪票圈都炸了也没事</p>
+
+<p>怎么猪瘟会这么夸张？</p>
+
+<h3 id="706-才发现reddit竟然有一个相对活跃的中文板块我想知道大家如何看待这篇贴子里发帖者对中国民主化的可能与结果的预测-submitted-on-2019-11-24-0624350800">706: <a href="https://old.reddit.com/r/China_irl/comments/e0p7jl/才发现reddit竟然有一个相对活跃的中文板块我想知道大家如何看待这篇贴子里发帖者对中国民主化的可能/">才发现reddit竟然有一个相对活跃的中文板块，我想知道大家如何看待这篇贴子里发帖者对中国民主化的可能与结果的预测？</a>, submitted on 2019-11-24 06:24:35+08:00.</h3>
+
+<p>—– <strong>706.1</strong> —–2019-11-25 10:58:08+08:00:</p>
+
+<p>这不就是鸡生蛋蛋生鸡的问题吗？</p>
+
+<p>不说立场 只说理论 若没有民主体制的熏陶 当然也没有公民参政的意愿 但你不能用后者去反对前者 因为两者是二位一体的</p>
+
+<h3 id="707-东北人被打血腥照片nsfw-submitted-on-2019-11-24-0728240800">707: <a href="https://old.reddit.com/r/China_irl/comments/e0q2zr/东北人被打血腥照片nsfw/">东北人被打血腥照片nsfw</a>, submitted on 2019-11-24 07:28:24+08:00.</h3>
+
+<p>—– <strong>707.1</strong> —–2019-11-25 00:41:25+08:00:</p>
+
+<p>为什么有些血是朱红色</p>
+
+<h3 id="708-i-support-the-hong-kong-police-you-can-hit-me-now-2019-china-submitted-on-2019-11-24-0739200800">708: <a href="https://old.reddit.com/r/PropagandaPosters/comments/e0q84r/i_support_the_hong_kong_police_you_can_hit_me_now/">I support the Hong Kong police, you can hit me now; 2019, China</a>, submitted on 2019-11-24 07:39:20+08:00.</h3>
+
+<p>—– <strong>708.1</strong> —–2019-11-24 07:41:14+08:00:</p>
+
+<p>Poster from <em>Global Times</em>, a mouthpiece of CCP</p>
+
+<p>Background: <a href="https://www.wsj.com/articles/chinese-reporter-assaulted-at-hong-kong-airport-becomes-mainland-hero-11565789917">Chinese Reporter Assaulted at Hong Kong Airport Becomes Mainland Hero</a> (<a href="https://www.youtube.com/watch?v=HlMbPi0PPwA">video</a>), caused <a href="https://www.marketwatch.com/story/boycottmulan-trending-after-star-crystal-liu-yifei-posts-i-support-the-hong-kong-police-2019-08-16">#BoycottMulan</a></p>
+
+<h3 id="709-为什么rchina上的很多人非常讨厌中国官方的百年屈辱the-century-of-humiliation的说法-submitted-on-2019-11-24-1358280800">709: <a href="https://old.reddit.com/r/China_irl/comments/e0unst/为什么rchina上的很多人非常讨厌中国官方的百年屈辱the_century_of/">为什么/r/China上的很多人非常讨厌中国官方的百年屈辱(the Century of Humiliation)的说法？</a>, submitted on 2019-11-24 13:58:28+08:00.</h3>
+
+<p>—– <strong>709.1</strong> —–2019-11-25 00:52:05+08:00:</p>
+
+<p>一方面，百年耻辱算是上世纪华人社会共识，是所有清朝后争取民族自立的华人的共识，不是tg一家的言论。</p>
+
+<p>但另一方面，国内的百年耻辱和“中国vs西方”等也的确宣传过头了，导致国内有一种拿着锤子找钉子的感觉。任何国内外的新闻，小至对西人/国人不文明行为的讨论 等，中至法国巴黎圣母院被烧/对制度可能性的探讨等，大至港台关系国际关系等，都往这上面去套。</p>
+
+<p>我不肯定这是tg有意为之，抑或是历史惯性，但无疑让国人在某些问题上会采取偏激的态度，并且是一个负面循环。</p>
+
+<h3 id="710-更新针对最近被爆出的东北人被打得头破血流图片的新闻来源请求-submitted-on-2019-11-24-1946280800">710: <a href="https://old.reddit.com/r/China_irl/comments/e0xjoc/更新针对最近被爆出的东北人被打得头破血流图片的新闻来源请求/">【更新】针对最近被爆出的“东北人被打得头破血流”图片的新闻来源请求</a>, submitted on 2019-11-24 19:46:28+08:00.</h3>
+
+<p>—– <strong>710.1</strong> —–2019-11-25 09:27:56+08:00:</p>
+
+<p>我也想知道 hk那边说东北人先拿锤子打人 我也没找到信服的新闻源</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-04-24/Spinkcat/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-10-17/Yvan888/">最早</a>--</span>
+    
+      <li>
+        <time>2019-11-25</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-25/Yvan888/">
+          Yvan888在2019-11-25~2019-12-01的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-24</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-24/Spinkcat/">
+          Spinkcat在2019-11-18~2019-11-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-17</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-17/Spinkcat/">
+          Spinkcat在2019-11-11~2019-11-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-11-11</time>
+        <a href="https://nodebe4.github.io/opinion/2019-11-11/Yvan888/">
+          Yvan888在2019-11-11~2019-11-17的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-11-17/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E6%96%B0%E7%96%86%E6%96%87%E4%BB%B6-%E5%86%8D%E6%AC%A1%E8%AD%89%E5%AF%A6%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F/">
+            前一篇：政治觀察：「新疆文件」再次證實中共政治危機
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-11-18/political-discussion-social-media/">
+            後一篇：「论文」社交媒体上的政治讨论
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-11-17/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E6%96%B0%E7%96%86%E6%96%87%E4%BB%B6-%E5%86%8D%E6%AC%A1%E8%AD%89%E5%AF%A6%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-11-18/political-discussion-social-media/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-11-24/Spinkcat/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-11-17/Spinkcat/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-11-17/%E6%94%BF%E6%B2%BB%E8%A7%80%E5%AF%9F-%E6%96%B0%E7%96%86%E6%96%87%E4%BB%B6-%E5%86%8D%E6%AC%A1%E8%AD%89%E5%AF%A6%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%A9%9F/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-11-18/political-discussion-social-media/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-11-24/Spinkcat/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-11-17/Spinkcat/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,1983 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>Yvan888在2019-03-04~2019-03-10的言论 – 觀點 – 從草根到大師 git.io/JJCxS</title>
+
+      <meta charset="utf-8" />
+    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    
+    <meta name="description" content="" />
+    <meta property="og:description" content="" />
+    
+    <meta name="author" content="觀點" />
+
+    
+    <meta property="og:title" content="Yvan888在2019-03-04~2019-03-10的言论" />
+    <meta property="twitter:title" content="Yvan888在2019-03-04~2019-03-10的言论" />
+    
+
+  <link rel="stylesheet" type="text/css" href="/opinion/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="觀點 - 從草根到大師 git.io/JJCxS" href="/opinion/feed.xml" />
+
+  <!-- Social Share Kit CSS -->
+  <link rel="stylesheet" href="/opinion/assets/css/social-share-kit.css" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  <script type="text/javascript" src="/opinion/assets/js/page.js"></script>
+
+</head>
+
+  <body>
+    <div class="wrapper-masthead">
+  <div class="container">
+    <header class="masthead clearfix">
+      
+
+      <div class="site-info">
+        <h1 class="site-name" style="display: inline-block;"><a href="/opinion/">觀點</a></h1>
+        <i class="site-description" style="font-size: 12px;">從草根到大師 git.io/JJCxS</i>
+      </div>
+
+      <nav>
+        <span id="search-container" >
+          <a href="/opinion/tools"><i class="fa fa-bookmark twitter" title="百宝箱"></i></a>
+        <a><i class="fa fa-search" title="限前100結果"></i></a><input type="text" id="search-input" placeholder="標題 作者 來源 日期 (14086)"
+          style="margin: 10px 0px 0px 0px; height: 30px;width: auto" title="本站最正確的打開方式">
+        </span>
+        
+        
+        <a href="/opinion/categories" style="color: Tomato;"><i class="fa fa-tags" title="分类"></i></a>
+        
+        
+        
+        <a href="https://be4.herokuapp.com/" style="color: #003366;"><i class="fa fa-comments" title="论坛"></i></a>
+        
+        
+        
+        <a href="/opinion/about"><i class="fa fa-info-circle" title="关于"></i></a>
+        
+        
+        <a title="电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇，del同来源旧一篇" onclick="toggle_visibility('help')"><i class="fa fa-question-circle"></i></a>
+        <a id="fa-home" href="https://nodebe4.github.io" title="BE4服务列表" onclick="//toggle_visibility('site-list')"><i class="fa fa-home" aria-hidden="true"></i></a>
+      </nav>
+
+    </header>
+    <div id="site-list" class="tags" style="display: block;text-align: right;border-bottom: 1px solid lightGray;"></div>
+    <p id="help" style="font-size: 14px;display: none;text-align: right;"><span style="color:green;">电脑热键：&larr;上一篇(页), &rarr;下一篇(页), ins同来源新一篇, del同来源旧一篇</span>; <span style="color:orange">对应触屏FAB：上下右左</span>; 轉Markdown<a href="https://euangoddard.github.io/clipboard2markdown/"><i class="fa fa-file-text-o"></i></a></p>
+  </div>
+</div>
+
+<script type="text/javascript" >
+  function toggle_visibility(id){
+    var help = document.getElementById(id)
+    if (help.style.display=='none'){
+      help.style.display='block';
+    }else{
+      help.style.display='none';
+    }
+  }
+
+  const url = "https://nodebe4.github.io/sitelist.json"
+
+  document.addEventListener("DOMContentLoaded", function(event){
+    // var homebtn = document.getElementById("fa-home")
+    // homebtn.removeAttribute("href")
+    var content = document.getElementById("site-list");
+    content.innerHTML = ''
+    var ul = document.createElement("ul")
+    ul.classList.add("label")
+    content.appendChild(ul)
+    var cnt = 0
+
+    $.getJSON(url, function(allsites) {
+
+      allsites.map(item =>{
+        var li = document.createElement('li')
+        li.classList.add("tag")
+        li.id = 'site-' + cnt
+        ul.appendChild(li)
+        var a0 = document.createElement('a')
+        li.appendChild(a0)
+        a0.href = item.url[0]
+        var span = document.createElement('span')
+        a0.appendChild(span)
+        span.innerText = item['name']
+        // span.style.backgroundColor = item['background-color']
+        // span.style.color='#E4CBC3'
+        span.style.color = item['background-color']
+        span.style['font-size'] = '14px'
+        cnt += 1
+        // test_alive(li.id, a0.href)
+      })
+    })
+  })
+
+function test_alive(id, url){
+  var divstatus = document.getElementById(id)
+  const base = 'https://textance.herokuapp.com/title/'
+  var fullurl = base + url
+  $.ajax({
+      url: fullurl,
+      complete: function(data) {
+        if (data.responseText.includes('502')){
+          // divstatus.style.color='#FBB7B7'
+          // divstatus.style.color='gray'
+          // divstatus.title = "服务器无响应"
+          divstatus.parentNode.removeChild(divstatus)
+        }else{
+          // divstatus.style.color='#B6FAC8'
+          divstatus.title = data.responseText
+        }
+      }
+  });
+  return divstatus
+}
+</script>
+
+    <!-- Left & centered positioning -->
+
+<div class="ssk-sticky ssk-right ssk-center ssk-sticky-hide-xs ssk-group ssk-round">
+  
+    <a href="https://be4news.pythonanywhere.com/archivenow/ia/https%3A%2F%2Fold.reddit.com%2Fr%2Fstarterpacks%2Fcomments%2Fawvggq%2Fa_chinese_restaurant_in_a_major_east_coast_city%2F" class="ssk ssk-link" title="存到互联网档案馆" target="_blank"></a>
+    <a href="https://www.facebook.com/sharer.php?u=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/" class="ssk ssk-facebook"></a>
+    <a href="https://twitter.com/intent/tweet?url=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/&text=Yvan888在2019-03-04~2019-03-10的言论&hashtags=觀點" class="ssk ssk-twitter"></a>
+    <a href="https://reddit.com/submit?url=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/&title=Yvan888在2019-03-04~2019-03-10的言论" class="ssk ssk-reddit"></a>
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/&title=Yvan888在2019-03-04~2019-03-10的言论" class="ssk ssk-linkedin"></a>
+    <a href="mailto:{email_address}?subject=Yvan888在2019-03-04~2019-03-10的言论&body=" class="ssk ssk-email"></a>
+    <a href="http://pinterest.com/pin/create/link/?url=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/" class="ssk ssk-pinterest"></a>
+    <a href="https://www.tumblr.com/widgets/share/tool?canonicalUrl=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/&title=Yvan888在2019-03-04~2019-03-10的言论&caption=&tags=觀點" class="ssk ssk-tumblr"></a>
+    <a href="https://buffer.com/add?text=Yvan888在2019-03-04~2019-03-10的言论&url=https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/" class="ssk ssk-buffer"></a>
+</div>
+
+
+    <div id="main" role="main" class="container">
+      
+  <!-- Html Elements for Search -->
+  <ul id="results-container" class="searched" style="color: #2980B9;"></ul>
+
+  <script src="/opinion/assets/js/simple-jekyll-search.min.js"></script>
+
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/opinion/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a><time>{date}</time><a class="tag">{category}</a></li>',
+    noResultsText: '没找到',
+    limit: 100,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+
+  </script>
+
+      
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+
+  
+    
+
+
+
+<article class="post">
+  <h1>Yvan888在2019-03-04~2019-03-10的言论</h1>
+  <!-- Look the author details up from the site config. -->
+  
+
+  <div>
+    <span class="date">
+      2019-03-04
+    </span>
+
+    <!-- Output author details if some exist. -->
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://www.reddit.com/user/Yvan888/" style="font-size:14px;">作者: Yvan888</a>
+        </span>
+    
+
+
+    <ul class="tag">
+      <li>
+        <a href="https://nodebe4.github.io/opinion/categories/#Reddit">
+          Reddit
+        </a>
+      </li>
+    </ul>
+
+    
+        <span>
+            <!-- Personal Info. -->
+            <a href="https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/" style="font-size:14px;">原文</a>
+        </span>
+    
+
+    <span style="float: right;" title="Reddit的其它文章">
+      <a style="font-size: 14px;" rel="nofollow" href="#sametag" class="tags">#Reddit 的其它文章</a>
+    </span>
+
+  </div>
+
+  <div class="entry">
+    
+    
+    
+    <ul id="markdown-toc">
+  <li><a href="#15-a-chinese-restaurant-in-a-major-east-coast-city-submitted-on-2019-03-04-0019080800" id="markdown-toc-15-a-chinese-restaurant-in-a-major-east-coast-city-submitted-on-2019-03-04-0019080800">15: a chinese “restaurant” in a major east coast city, submitted on 2019-03-04 00:19:08+08:00.</a></li>
+  <li><a href="#16-what-are-some-chinese-words-that-youve-made-up-because-you-didnt-know-the-real-word-submitted-on-2019-03-04-0117330800" id="markdown-toc-16-what-are-some-chinese-words-that-youve-made-up-because-you-didnt-know-the-real-word-submitted-on-2019-03-04-0117330800">16: What are some Chinese “words” that you’ve made up because you didn’t know the real word?, submitted on 2019-03-04 01:17:33+08:00.</a></li>
+  <li><a href="#17-jordan-peterson对于白左的解析-也挺适用于粉红之类的中共支持者们-submitted-on-2019-03-04-0133550800" id="markdown-toc-17-jordan-peterson对于白左的解析-也挺适用于粉红之类的中共支持者们-submitted-on-2019-03-04-0133550800">17: Jordan Peterson对于”白左”的解析, 也挺适用于粉红之类的中共支持者们, submitted on 2019-03-04 01:33:55+08:00.</a></li>
+  <li><a href="#18-whats-some-juicy-gossip-you-just-found-out-in-your-personal-lives-submitted-on-2019-03-04-0145200800" id="markdown-toc-18-whats-some-juicy-gossip-you-just-found-out-in-your-personal-lives-submitted-on-2019-03-04-0145200800">18: What’s some juicy gossip you just found out in your personal lives?, submitted on 2019-03-04 01:45:20+08:00.</a></li>
+  <li><a href="#19-as-china-tightens-its-grip-on-hong-kong-taiwan-emerges-as-asias-hub-for-foreign-media--hong-kong-free-press-hkfp-submitted-on-2019-03-04-0919510800" id="markdown-toc-19-as-china-tightens-its-grip-on-hong-kong-taiwan-emerges-as-asias-hub-for-foreign-media--hong-kong-free-press-hkfp-submitted-on-2019-03-04-0919510800">19: As China tightens its grip on Hong Kong, Taiwan emerges as Asia’s hub for foreign media | Hong Kong Free Press HKFP, submitted on 2019-03-04 09:19:51+08:00.</a></li>
+  <li><a href="#20-i-see-whole-foods-hurting-some-sensitive-feelings-here-submitted-on-2019-03-04-0924340800" id="markdown-toc-20-i-see-whole-foods-hurting-some-sensitive-feelings-here-submitted-on-2019-03-04-0924340800">20: I see Whole Foods hurting some sensitive feelings here., submitted on 2019-03-04 09:24:34+08:00.</a></li>
+  <li><a href="#21-推上的一些留言-关于大家的隐私-submitted-on-2019-03-04-1103180800" id="markdown-toc-21-推上的一些留言-关于大家的隐私-submitted-on-2019-03-04-1103180800">21: 推上的一些留言 关于大家的隐私, submitted on 2019-03-04 11:03:18+08:00.</a></li>
+  <li><a href="#22-op-ed-why-chinas-social-credit-systems-are-surprisingly-popular-submitted-on-2019-03-04-1657210800" id="markdown-toc-22-op-ed-why-chinas-social-credit-systems-are-surprisingly-popular-submitted-on-2019-03-04-1657210800">22: Op-Ed: Why China’s Social-Credit Systems Are Surprisingly Popular, submitted on 2019-03-04 16:57:21+08:00.</a></li>
+  <li><a href="#23-反制来了加拿大籍人员康明凯涉嫌犯罪案取得重要进展-submitted-on-2019-03-04-1924100800" id="markdown-toc-23-反制来了加拿大籍人员康明凯涉嫌犯罪案取得重要进展-submitted-on-2019-03-04-1924100800">23: 反制来了，加拿大籍人员康明凯涉嫌犯罪案取得重要进展, submitted on 2019-03-04 19:24:10+08:00.</a></li>
+  <li><a href="#24-表示这是在打谁的脸-submitted-on-2019-03-04-2224050800" id="markdown-toc-24-表示这是在打谁的脸-submitted-on-2019-03-04-2224050800">24: 表示这是在打谁的脸？, submitted on 2019-03-04 22:24:05+08:00.</a></li>
+  <li><a href="#25-shiva-and-parvati-in-kizil-caves-xinjiang-china-6th-century-submitted-on-2019-03-04-2243060800" id="markdown-toc-25-shiva-and-parvati-in-kizil-caves-xinjiang-china-6th-century-submitted-on-2019-03-04-2243060800">25: Shiva and Parvati in Kizil Caves, Xinjiang, China 6th century, submitted on 2019-03-04 22:43:06+08:00.</a></li>
+  <li><a href="#26-为什么墙内的开放区和墙外的reddit同一批人舆论差异会如此之大-submitted-on-2019-03-05-0004010800" id="markdown-toc-26-为什么墙内的开放区和墙外的reddit同一批人舆论差异会如此之大-submitted-on-2019-03-05-0004010800">26: 为什么墙内的开放区和墙外的reddit，同一批人，舆论差异会如此之大？, submitted on 2019-03-05 00:04:01+08:00.</a></li>
+  <li><a href="#27-hundreds-of-millions-of-chinese-chat-logs-leak-online-submitted-on-2019-03-05-0021250800" id="markdown-toc-27-hundreds-of-millions-of-chinese-chat-logs-leak-online-submitted-on-2019-03-05-0021250800">27: Hundreds of millions of Chinese chat logs leak online, submitted on 2019-03-05 00:21:25+08:00.</a></li>
+  <li><a href="#28-a-new-report-says-google-is-still-secretly-working-on-its-censored-china-search-engine-but-the-company-outright-denies-it-submitted-on-2019-03-05-0510300800" id="markdown-toc-28-a-new-report-says-google-is-still-secretly-working-on-its-censored-china-search-engine-but-the-company-outright-denies-it-submitted-on-2019-03-05-0510300800">28: A new report says Google is still secretly working on its censored China search engine but the company outright denies it, submitted on 2019-03-05 05:10:30+08:00.</a></li>
+  <li><a href="#29-how-to-improve-chinese-writing-skills-submitted-on-2019-03-05-0715410800" id="markdown-toc-29-how-to-improve-chinese-writing-skills-submitted-on-2019-03-05-0715410800">29: How to improve Chinese writing skills?, submitted on 2019-03-05 07:15:41+08:00.</a></li>
+  <li><a href="#30-sure-fire-way-to-remember-stroke-sequences-no-im-just-kidding-you-just-need-to-repeat-repeat-repeat-if-you-are-interested-in-learning-the-stroke-sequence-of-another-word-comment-below-and-i-can-do-another-one-next-day-cheers-submitted-on-2019-03-05-0823550800" id="markdown-toc-30-sure-fire-way-to-remember-stroke-sequences-no-im-just-kidding-you-just-need-to-repeat-repeat-repeat-if-you-are-interested-in-learning-the-stroke-sequence-of-another-word-comment-below-and-i-can-do-another-one-next-day-cheers-submitted-on-2019-03-05-0823550800">30: Sure fire way to remember stroke sequences! No I’m just kidding, you just need to repeat repeat repeat. If you are interested in learning the stroke sequence of another word, comment below and I can do another one next day! Cheers!, submitted on 2019-03-05 08:23:55+08:00.</a></li>
+  <li><a href="#31-google-employees-uncover-ongoing-work-on-censored-china-search-submitted-on-2019-03-05-0940290800" id="markdown-toc-31-google-employees-uncover-ongoing-work-on-censored-china-search-submitted-on-2019-03-05-0940290800">31: Google Employees Uncover Ongoing Work on Censored China Search, submitted on 2019-03-05 09:40:29+08:00.</a></li>
+  <li><a href="#32-non-binary-genders-are-personalities-not-genders-submitted-on-2019-03-05-1111510800" id="markdown-toc-32-non-binary-genders-are-personalities-not-genders-submitted-on-2019-03-05-1111510800">32: Non-binary “genders” are personalities, not genders., submitted on 2019-03-05 11:11:51+08:00.</a></li>
+  <li><a href="#33-huawei-says-it-would-never-hand-data-to-chinas-government-experts-say-it-wouldnt-have-a-choice-submitted-on-2019-03-05-1119470800" id="markdown-toc-33-huawei-says-it-would-never-hand-data-to-chinas-government-experts-say-it-wouldnt-have-a-choice-submitted-on-2019-03-05-1119470800">33: Huawei says it would never hand data to China’s government. Experts say it wouldn’t have a choice, submitted on 2019-03-05 11:19:47+08:00.</a></li>
+  <li><a href="#34-离岸平衡手的存在对欧洲大陆屁民总体上是好还是坏-submitted-on-2019-03-05-1245030800" id="markdown-toc-34-离岸平衡手的存在对欧洲大陆屁民总体上是好还是坏-submitted-on-2019-03-05-1245030800">34: 离岸平衡手的存在对欧洲大陆屁民总体上是好还是坏？, submitted on 2019-03-05 12:45:03+08:00.</a></li>
+  <li><a href="#35-全员犯人广东广雅中学2018智慧校园信息化采购项目招标文件-submitted-on-2019-03-05-1302540800" id="markdown-toc-35-全员犯人广东广雅中学2018智慧校园信息化采购项目招标文件-submitted-on-2019-03-05-1302540800">35: 全员犯人？广东广雅中学2018智慧校园信息化采购项目招标文件, submitted on 2019-03-05 13:02:54+08:00.</a></li>
+  <li><a href="#36-would-anyone-like-to-peer-review-my-essay-for-the-chinese-class-im-in-its-a-requirement-just-asking-for-feedback-that-will-help-me-develop-ideas-and-fix-correctionscomments-submitted-on-2019-03-05-1454420800" id="markdown-toc-36-would-anyone-like-to-peer-review-my-essay-for-the-chinese-class-im-in-its-a-requirement-just-asking-for-feedback-that-will-help-me-develop-ideas-and-fix-correctionscomments-submitted-on-2019-03-05-1454420800">36: Would anyone like to peer review my essay for the Chinese class I’m in? It’s a requirement, just asking for feedback that will help me develop ideas and fix corrections/comments!, submitted on 2019-03-05 14:54:42+08:00.</a></li>
+  <li><a href="#37-tip-on-steam-you-can-choose-chinese-as-one-of-your-languages-and-practice-reading-some-very-real-chinese-submitted-on-2019-03-05-1751420800" id="markdown-toc-37-tip-on-steam-you-can-choose-chinese-as-one-of-your-languages-and-practice-reading-some-very-real-chinese-submitted-on-2019-03-05-1751420800">37: TIP: On Steam you can choose Chinese as one of your languages and practice reading some very real Chinese!, submitted on 2019-03-05 17:51:42+08:00.</a></li>
+  <li><a href="#38-this-dance-move-submitted-on-2019-03-05-1933400800" id="markdown-toc-38-this-dance-move-submitted-on-2019-03-05-1933400800">38: This dance move, submitted on 2019-03-05 19:33:40+08:00.</a></li>
+  <li><a href="#39-普通大学生想了解下若留学美国能获得些什么收益以及国内对美国的一些普遍看法是否属实生活上-submitted-on-2019-03-05-2001090800" id="markdown-toc-39-普通大学生想了解下若留学美国能获得些什么收益以及国内对美国的一些普遍看法是否属实生活上-submitted-on-2019-03-05-2001090800">39: 普通大学生，想了解下若留学美国，能获得些什么收益，以及国内对美国的一些普遍看法是否属实（生活上）, submitted on 2019-03-05 20:01:09+08:00.</a></li>
+  <li><a href="#40-a-buddy-was-tired-of-seeing-americans-with-chinese-tattoos-so-he-showed-her-what-it-looks-to-a-chinese-person-submitted-on-2019-03-05-2121490800" id="markdown-toc-40-a-buddy-was-tired-of-seeing-americans-with-chinese-tattoos-so-he-showed-her-what-it-looks-to-a-chinese-person-submitted-on-2019-03-05-2121490800">40: A buddy was tired of seeing Americans with Chinese tattoos, so he showed her what it looks to a Chinese person., submitted on 2019-03-05 21:21:49+08:00.</a></li>
+  <li><a href="#41-kfc-dedicates-china-restaurant-to-memory-of-communist-hero-submitted-on-2019-03-05-2216040800" id="markdown-toc-41-kfc-dedicates-china-restaurant-to-memory-of-communist-hero-submitted-on-2019-03-05-2216040800">41: KFC dedicates China restaurant to memory of Communist hero, submitted on 2019-03-05 22:16:04+08:00.</a></li>
+  <li><a href="#42-as-a-chinese-person-how-would-an-arrest-in-the-us-that-resulted-in-a-dismissal-affect-you-in-china-submitted-on-2019-03-05-2249380800" id="markdown-toc-42-as-a-chinese-person-how-would-an-arrest-in-the-us-that-resulted-in-a-dismissal-affect-you-in-china-submitted-on-2019-03-05-2249380800">42: As a Chinese person, How would an arrest in the US that resulted in a dismissal affect you in China, submitted on 2019-03-05 22:49:38+08:00.</a></li>
+  <li><a href="#43-文史贴健胃们讲一讲你们眼中的耄-submitted-on-2019-03-06-0116300800" id="markdown-toc-43-文史贴健胃们讲一讲你们眼中的耄-submitted-on-2019-03-06-0116300800">43: 文史贴！健胃们讲一讲你们眼中的耄, submitted on 2019-03-06 01:16:30+08:00.</a></li>
+  <li><a href="#44-chinese-urban-dictionary--jikipedia-submitted-on-2019-03-06-0444160800" id="markdown-toc-44-chinese-urban-dictionary--jikipedia-submitted-on-2019-03-06-0444160800">44: Chinese Urban Dictionary : jikipedia, submitted on 2019-03-06 04:44:16+08:00.</a></li>
+  <li><a href="#45-chinese-urban-dictionary--jikipedia-submitted-on-2019-03-06-0447180800" id="markdown-toc-45-chinese-urban-dictionary--jikipedia-submitted-on-2019-03-06-0447180800">45: Chinese Urban Dictionary : jikipedia, submitted on 2019-03-06 04:47:18+08:00.</a></li>
+  <li><a href="#46-返回编辑模式国航客机迫降俄罗斯乘客雪地逃生-submitted-on-2019-03-06-0448200800" id="markdown-toc-46-返回编辑模式国航客机迫降俄罗斯乘客雪地逃生-submitted-on-2019-03-06-0448200800">46: 返回编辑模式国航客机迫降俄罗斯乘客雪地逃生, submitted on 2019-03-06 04:48:20+08:00.</a></li>
+  <li><a href="#47-tantan-gets-weirder-everyday--submitted-on-2019-03-06-0826590800" id="markdown-toc-47-tantan-gets-weirder-everyday--submitted-on-2019-03-06-0826590800">47: TanTan gets weirder everyday 😂, submitted on 2019-03-06 08:26:59+08:00.</a></li>
+  <li><a href="#48-今天人大会闭幕了分享十大总结-submitted-on-2019-03-06-0920270800" id="markdown-toc-48-今天人大会闭幕了分享十大总结-submitted-on-2019-03-06-0920270800">48: 今天人大会闭幕了！分享十大总结, submitted on 2019-03-06 09:20:27+08:00.</a></li>
+  <li><a href="#49-好吧谢谢阿姨-submitted-on-2019-03-06-1037200800" id="markdown-toc-49-好吧谢谢阿姨-submitted-on-2019-03-06-1037200800">49: 好吧，谢谢阿姨, submitted on 2019-03-06 10:37:20+08:00.</a></li>
+  <li><a href="#50-wuhan-china---a-city-80x-the-size-of-paris-submitted-on-2019-03-06-1234200800" id="markdown-toc-50-wuhan-china---a-city-80x-the-size-of-paris-submitted-on-2019-03-06-1234200800">50: Wuhan, China - A city 80x the size of Paris., submitted on 2019-03-06 12:34:20+08:00.</a></li>
+  <li><a href="#51-what-made-you-come-to-chinalike-china-submitted-on-2019-03-06-1337530800" id="markdown-toc-51-what-made-you-come-to-chinalike-china-submitted-on-2019-03-06-1337530800">51: What made you come to China/like China?, submitted on 2019-03-06 13:37:53+08:00.</a></li>
+  <li><a href="#52-heaven-doesnt-seem-very-appealing-submitted-on-2019-03-06-1512110800" id="markdown-toc-52-heaven-doesnt-seem-very-appealing-submitted-on-2019-03-06-1512110800">52: Heaven doesn’t seem very appealing, submitted on 2019-03-06 15:12:11+08:00.</a></li>
+  <li><a href="#53-it-is-perfectly-acceptable-to-drink-straight-from-the-jugcarton-if-you-live-alone-or-nobody-else-in-the-home-drinks-it-submitted-on-2019-03-06-2041310800" id="markdown-toc-53-it-is-perfectly-acceptable-to-drink-straight-from-the-jugcarton-if-you-live-alone-or-nobody-else-in-the-home-drinks-it-submitted-on-2019-03-06-2041310800">53: It is perfectly acceptable to drink straight from the jug/carton if you live alone or nobody else in the home drinks it., submitted on 2019-03-06 20:41:31+08:00.</a></li>
+  <li><a href="#54-中文-only-discussion-2019-03-06-submitted-on-2019-03-06-2304580800" id="markdown-toc-54-中文-only-discussion-2019-03-06-submitted-on-2019-03-06-2304580800">54: 中文-only Discussion! 2019-03-06, submitted on 2019-03-06 23:04:58+08:00.</a></li>
+  <li><a href="#55-每日新闻-36-未来-自由市场开启-顶薪教师换选秀权避免奢侈税-submitted-on-2019-03-06-2307490800" id="markdown-toc-55-每日新闻-36-未来-自由市场开启-顶薪教师换选秀权避免奢侈税-submitted-on-2019-03-06-2307490800">55: [每日新闻] 3/6 未来: 自由市场开启, 顶薪教师换选秀权避免奢侈税?, submitted on 2019-03-06 23:07:49+08:00.</a></li>
+  <li><a href="#56-深度解读面对新疆再教育营-西方的双重标准-转自多维新闻-submitted-on-2019-03-07-0244550800" id="markdown-toc-56-深度解读面对新疆再教育营-西方的双重标准-转自多维新闻-submitted-on-2019-03-07-0244550800">56: 深度解读：面对新疆“再教育营” 西方的双重标准 (转自多维新闻）, submitted on 2019-03-07 02:44:55+08:00.</a></li>
+  <li><a href="#57-大家好你们最喜欢的中文电影是什么我最喜欢的中文电影是-捉妖记-和-不可思异-submitted-on-2019-03-07-0746110800" id="markdown-toc-57-大家好你们最喜欢的中文电影是什么我最喜欢的中文电影是-捉妖记-和-不可思异-submitted-on-2019-03-07-0746110800">57: 大家好！你们最喜欢的中文电影是什么？我最喜欢的中文电影是 ”捉妖记” 和 ”不可思异”。, submitted on 2019-03-07 07:46:11+08:00.</a></li>
+  <li><a href="#58-how-to-cheat-at-xi-jinping-thought-a-newly-mandatory-app-is-eating-up-chinese-workers-timeso-theyre-finding-ways-around-it-submitted-on-2019-03-07-2050090800" id="markdown-toc-58-how-to-cheat-at-xi-jinping-thought-a-newly-mandatory-app-is-eating-up-chinese-workers-timeso-theyre-finding-ways-around-it-submitted-on-2019-03-07-2050090800">58: How to Cheat at Xi Jinping Thought: A newly mandatory app is eating up Chinese workers’ time—so they’re finding ways around it., submitted on 2019-03-07 20:50:09+08:00.</a></li>
+  <li><a href="#59-如何评价周恩来-submitted-on-2019-03-07-2216100800" id="markdown-toc-59-如何评价周恩来-submitted-on-2019-03-07-2216100800">59: 如何评价周恩来？, submitted on 2019-03-07 22:16:10+08:00.</a></li>
+  <li><a href="#60-population-densities-on-the-china-russia-border-submitted-on-2019-03-07-2218050800" id="markdown-toc-60-population-densities-on-the-china-russia-border-submitted-on-2019-03-07-2218050800">60: Population densities on the China-Russia border, submitted on 2019-03-07 22:18:05+08:00.</a></li>
+  <li><a href="#61-researchers-chinese-influence-operations-seek-to-elevate-chinas-image-not-sow-discord-submitted-on-2019-03-08-0311440800" id="markdown-toc-61-researchers-chinese-influence-operations-seek-to-elevate-chinas-image-not-sow-discord-submitted-on-2019-03-08-0311440800">61: Researchers: Chinese influence operations seek to elevate China’s image, not sow discord, submitted on 2019-03-08 03:11:44+08:00.</a></li>
+  <li><a href="#62-china-printing-china-submitted-on-2019-03-08-0554570800" id="markdown-toc-62-china-printing-china-submitted-on-2019-03-08-0554570800">62: China printing china, submitted on 2019-03-08 05:54:57+08:00.</a></li>
+  <li><a href="#63-guys-help-i-cant-find-xi-jinping-thought-on-the-appstore-submitted-on-2019-03-08-0628090800" id="markdown-toc-63-guys-help-i-cant-find-xi-jinping-thought-on-the-appstore-submitted-on-2019-03-08-0628090800">63: Guys help I can’t find Xi Jinping thought on the AppStore, submitted on 2019-03-08 06:28:09+08:00.</a></li>
+  <li><a href="#64-传说国内思想最自由的地方在中央党校-submitted-on-2019-03-08-0841120800" id="markdown-toc-64-传说国内思想最自由的地方在中央党校-submitted-on-2019-03-08-0841120800">64: 传说国内思想最自由的地方在中央党校, submitted on 2019-03-08 08:41:12+08:00.</a></li>
+  <li><a href="#65-jin-submitted-on-2019-03-08-0918050800" id="markdown-toc-65-jin-submitted-on-2019-03-08-0918050800">65: Jin!, submitted on 2019-03-08 09:18:05+08:00.</a></li>
+  <li><a href="#66-今年的国庆节会有大型庆祝活动吗-适逢70周年-submitted-on-2019-03-09-0941060800" id="markdown-toc-66-今年的国庆节会有大型庆祝活动吗-适逢70周年-submitted-on-2019-03-09-0941060800">66: 今年的国庆节，会有大型庆祝活动吗？ 适逢70周年, submitted on 2019-03-09 09:41:06+08:00.</a></li>
+  <li><a href="#67-i-like-reddit-better-in-my-phone-than-on-my-computer-am-i-alone-in-this-one-submitted-on-2019-03-09-1054240800" id="markdown-toc-67-i-like-reddit-better-in-my-phone-than-on-my-computer-am-i-alone-in-this-one-submitted-on-2019-03-09-1054240800">67: I like Reddit better in my phone than on my computer, am I alone in this one?, submitted on 2019-03-09 10:54:24+08:00.</a></li>
+  <li><a href="#68-whats-wrong-with-chinese-hospitals-submitted-on-2019-03-09-1123570800" id="markdown-toc-68-whats-wrong-with-chinese-hospitals-submitted-on-2019-03-09-1123570800">68: What’s wrong with chinese hospitals?, submitted on 2019-03-09 11:23:57+08:00.</a></li>
+  <li><a href="#69-writing-prompt-你为什么决定了学中文-submitted-on-2019-03-09-1228370800" id="markdown-toc-69-writing-prompt-你为什么决定了学中文-submitted-on-2019-03-09-1228370800">69: Writing Prompt: 你为什么决定了学中文？, submitted on 2019-03-09 12:28:37+08:00.</a></li>
+  <li><a href="#70-partly-sunny-day-in-shanghai-yesterday-submitted-on-2019-03-09-1759040800" id="markdown-toc-70-partly-sunny-day-in-shanghai-yesterday-submitted-on-2019-03-09-1759040800">70: Partly sunny day in Shanghai yesterday, submitted on 2019-03-09 17:59:04+08:00.</a></li>
+  <li><a href="#71-italy-signs-up-for-belt-and-road-infrastructure-summit-in-china-submitted-on-2019-03-09-1816400800" id="markdown-toc-71-italy-signs-up-for-belt-and-road-infrastructure-summit-in-china-submitted-on-2019-03-09-1816400800">71: Italy signs up for belt and road infrastructure summit in China, submitted on 2019-03-09 18:16:40+08:00.</a></li>
+  <li><a href="#72-what-is-life-in-china-like-for-a-non-chinese-speaker-submitted-on-2019-03-09-2030240800" id="markdown-toc-72-what-is-life-in-china-like-for-a-non-chinese-speaker-submitted-on-2019-03-09-2030240800">72: What is life in China like for a non-Chinese speaker?, submitted on 2019-03-09 20:30:24+08:00.</a></li>
+  <li><a href="#73-键委的键写错了-submitted-on-2019-03-09-2346510800" id="markdown-toc-73-键委的键写错了-submitted-on-2019-03-09-2346510800">73: 键委的键写错了！, submitted on 2019-03-09 23:46:51+08:00.</a></li>
+  <li><a href="#74-每日新闻-39-这是华盛顿寄来的炮弹-麻烦签收一下-submitted-on-2019-03-10-0016130800" id="markdown-toc-74-每日新闻-39-这是华盛顿寄来的炮弹-麻烦签收一下-submitted-on-2019-03-10-0016130800">74: [每日新闻] 3/9 这是华盛顿寄来的炮弹, 麻烦签收一下, submitted on 2019-03-10 00:16:13+08:00.</a></li>
+  <li><a href="#75-习总书记的博士论文大家看过吗各位觉得水平高不高-submitted-on-2019-03-10-0357230800" id="markdown-toc-75-习总书记的博士论文大家看过吗各位觉得水平高不高-submitted-on-2019-03-10-0357230800">75: 习总书记的博士论文大家看过吗？各位觉得水平高不高？, submitted on 2019-03-10 03:57:23+08:00.</a></li>
+  <li><a href="#76-my-mother-in-vietnam-1980s-submitted-on-2019-03-10-0518220800" id="markdown-toc-76-my-mother-in-vietnam-1980s-submitted-on-2019-03-10-0518220800">76: My mother in Vietnam. 1980s, submitted on 2019-03-10 05:18:22+08:00.</a></li>
+  <li><a href="#77-stairs-are-enemies-of-the-state-submitted-on-2019-03-10-0526480800" id="markdown-toc-77-stairs-are-enemies-of-the-state-submitted-on-2019-03-10-0526480800">77: Stairs are enemies of the state, submitted on 2019-03-10 05:26:48+08:00.</a></li>
+  <li><a href="#78-shh-the-car-fire-is-sleepy-submitted-on-2019-03-10-0738240800" id="markdown-toc-78-shh-the-car-fire-is-sleepy-submitted-on-2019-03-10-0738240800">78: Shh, the car fire is sleepy, submitted on 2019-03-10 07:38:24+08:00.</a></li>
+  <li><a href="#79-top-chinese-officials-plagiarised-university-theses-submitted-on-2019-03-10-0945530800" id="markdown-toc-79-top-chinese-officials-plagiarised-university-theses-submitted-on-2019-03-10-0945530800">79: Top Chinese officials plagiarised university theses, submitted on 2019-03-10 09:45:53+08:00.</a></li>
+  <li><a href="#80-this-picture-of-a-british-reporter-being-denied-to-speak-at-a-meeting-during-one-of-the-meetings-of-the-cppcc-lianghui两会-was-published-by-the-national-media-cctv-as-a-propaganda-picture-of-demonstrating-freedom-of-speech-in-mainland-china-submitted-on-2019-03-10-1038300800" id="markdown-toc-80-this-picture-of-a-british-reporter-being-denied-to-speak-at-a-meeting-during-one-of-the-meetings-of-the-cppcc-lianghui两会-was-published-by-the-national-media-cctv-as-a-propaganda-picture-of-demonstrating-freedom-of-speech-in-mainland-china-submitted-on-2019-03-10-1038300800">80: This picture of a British reporter being denied to speak at a meeting during one of the meetings of the CPPCC (Lianghui/两会) was published by the national media CCTV as a propaganda picture of demonstrating “freedom of speech” in mainland China., submitted on 2019-03-10 10:38:30+08:00.</a></li>
+  <li><a href="#81-this-is-killing-twice-submitted-on-2019-03-10-1346410800" id="markdown-toc-81-this-is-killing-twice-submitted-on-2019-03-10-1346410800">81: This is killing… Twice, submitted on 2019-03-10 13:46:41+08:00.</a></li>
+  <li><a href="#82-how-to-decide-on-surname-in-chinese-submitted-on-2019-03-10-1420140800" id="markdown-toc-82-how-to-decide-on-surname-in-chinese-submitted-on-2019-03-10-1420140800">82: How to decide on surname in Chinese, submitted on 2019-03-10 14:20:14+08:00.</a></li>
+  <li><a href="#83-hello-there-does-anyone-know-which-birds-are-represented-in-this-character-its-from-yunnan-my-guess-would-be-a-crane-and-a-heron-but-its-just-a-guess-thanks-in-advance-submitted-on-2019-03-10-2214240800" id="markdown-toc-83-hello-there-does-anyone-know-which-birds-are-represented-in-this-character-its-from-yunnan-my-guess-would-be-a-crane-and-a-heron-but-its-just-a-guess-thanks-in-advance-submitted-on-2019-03-10-2214240800">83: Hello there, does anyone know which birds are represented in this character? It’s from Yunnan. My guess would be a crane and a Heron. But it’s just a guess. Thanks in advance, submitted on 2019-03-10 22:14:24+08:00.</a></li>
+  <li><a href="#84-每日新闻-310-737max又摔了-submitted-on-2019-03-10-2324560800" id="markdown-toc-84-每日新闻-310-737max又摔了-submitted-on-2019-03-10-2324560800">84: [每日新闻] 3/10 737MAX又摔了, submitted on 2019-03-10 23:24:56+08:00.</a></li>
+  <li><a href="#85-africans-were-just-as-complicit-in-the-slave-trade-as-europeans-and-should-share-the-blame-submitted-on-2019-03-10-2348520800" id="markdown-toc-85-africans-were-just-as-complicit-in-the-slave-trade-as-europeans-and-should-share-the-blame-submitted-on-2019-03-10-2348520800">85: Africans were just as complicit in the slave trade as Europeans and should share the blame., submitted on 2019-03-10 23:48:52+08:00.</a></li>
+</ul>
+
+<h3 id="15-a-chinese-restaurant-in-a-major-east-coast-city-submitted-on-2019-03-04-0019080800">15: <a href="https://old.reddit.com/r/starterpacks/comments/awvggq/a_chinese_restaurant_in_a_major_east_coast_city/">a chinese “restaurant” in a major east coast city</a>, submitted on 2019-03-04 00:19:08+08:00.</h3>
+
+<p>—– <strong>15.1</strong> —–2019-03-05 13:10:53+08:00:</p>
+
+<p>Feeling. Traditional Chinese characters, old style menu, old design items sold in street…</p>
+
+<p>—– <strong>15.2</strong> —–2019-03-05 14:21:47+08:00:</p>
+
+<p>Cuz the old Chinese immigrants in the west came from last century when China is backward but China develops fast in decades while China towns in the west stage</p>
+
+<h3 id="16-what-are-some-chinese-words-that-youve-made-up-because-you-didnt-know-the-real-word-submitted-on-2019-03-04-0117330800">16: <a href="https://old.reddit.com/r/ChineseLanguage/comments/aww22b/what_are_some_chinese_words_that_youve_made_up/">What are some Chinese “words” that you’ve made up because you didn’t know the real word?</a>, submitted on 2019-03-04 01:17:33+08:00.</h3>
+
+<p>—– <strong>16.1</strong> —–2019-03-04 13:19:03+08:00:</p>
+
+<p>杨桃？</p>
+
+<p>—– <strong>16.2</strong> —–2019-03-04 13:21:36+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>to my knowledge doesn‘t have a name for Dr. Pepper
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Nah man, we call it 胡椒博士</p>
+
+<p>One way to know the official translation is to search it in English Wikipedia and switch to Chinese version, vice versa.</p>
+
+<p>—– <strong>16.3</strong> —–2019-03-04 21:30:45+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>I didn't know "胡椒" was pepper as well
+</code></pre></div>  </div>
+</blockquote>
+
+<p>pepper can be 胡椒 or sth else. It really depends. But it seems that there is no one in China use 椒 lonely.</p>
+
+<h3 id="17-jordan-peterson对于白左的解析-也挺适用于粉红之类的中共支持者们-submitted-on-2019-03-04-0133550800">17: <a href="https://old.reddit.com/r/RebelsHideout/comments/aww86u/jordan_peterson对于白左的解析_也挺适用于粉红之类的中共支持者们/">Jordan Peterson对于”白左”的解析, 也挺适用于粉红之类的中共支持者们</a>, submitted on 2019-03-04 01:33:55+08:00.</h3>
+
+<p>—– <strong>17.1</strong> —–2019-03-08 04:45:51+08:00:</p>
+
+<p>写得很好，西方很多年轻人都是温室里的花朵。虽然我觉得中国现在还没到那个阶段就开始强烈批判白左有种诡异感。但白左们那种救世主但又肤浅的举动，的确是一种高高在上的姿态，是一种深层次的对他人歧视。</p>
+
+<p>我觉得一个社会，回归到基本的生产和规则总是好的，评判他人也应该以法律和常识为基础。</p>
+
+<p>任何脱离了地面的价值，不管其内涵曾经多么崇高，到最后总是会走回虚伪，成为被人利用谋取私利的工具。</p>
+
+<p>西方中世纪的基督，中国古代的儒家，曾经的共产主义，现在的浮夸白左，到最后都走向迂腐和灭亡。</p>
+
+<p>—– <strong>17.2</strong> —–2019-03-08 08:12:59+08:00:</p>
+
+<blockquote>
+  <p>美國左右屬於神仙打架</p>
+</blockquote>
+
+<p>r/whoosh</p>
+
+<p>Edit: <em>white leftist</em> here is a negative word, i.e. aggressive SJW, not related to the western left wing</p>
+
+<p>—– <strong>17.3</strong> —–2019-03-08 08:37:12+08:00:</p>
+
+<blockquote>
+  <p>反戰民權女權lgbt是今天美國的一部分，他覺得這些東西無非是虛偽的理想主義空話，這顯然是一個長期浸透中文文化圈價值取向的人</p>
+</blockquote>
+
+<p>OVERACTION</p>
+
+<p>—– <strong>17.4</strong> —–2019-03-08 09:04:44+08:00:</p>
+
+<p>我没否认你这句话（第二句），是你自己“拿着锤子看什么都是钉子”，连 r/China 里面那些不鸟中国的expat都downvote你，连这个sub里其他人的话你都能过度解读，你这种皈依者狂热症也是够了</p>
+
+<p>我说的“白左”明明是那种WSJ，“中世纪基督徒”明明是打着贵教旗号实作娈童恋权的玩意</p>
+
+<p>—– <strong>17.5</strong> —–2019-03-08 09:19:07+08:00:</p>
+
+<p>没问题，但不要影响你的理智判断</p>
+
+<p>—– <strong>17.6</strong> —–2019-03-08 09:25:26+08:00:</p>
+
+<p>所以你除了发泄就没了？空想家而已</p>
+
+<p>我真的很好奇你的背景，一方面你在神学和历史上的知识的确很深，另一方面却表现得不太实际，跟你貌似的“读过很多书”不符合</p>
+
+<p>—– <strong>17.7</strong> —–2019-03-08 10:00:38+08:00:</p>
+
+<p>如果追溯回以前甚至宋朝那时来获取合法性，那你如何解释美国对印第安人、墨西哥人、夏威夷土著等的所作所为？</p>
+
+<p>—– <strong>17.8</strong> —–2019-03-08 10:36:16+08:00:</p>
+
+<p>尽管我有很多观点还是不认同你，但首先感谢你写那么长的分析。我过几周忙完后回来跟你继续讨论这个问题。因为长辩论很费时间。</p>
+
+<p>你算是我遇到过的最另类的人，很有趣，值得好好探讨。</p>
+
+<h3 id="18-whats-some-juicy-gossip-you-just-found-out-in-your-personal-lives-submitted-on-2019-03-04-0145200800">18: <a href="https://old.reddit.com/r/AskReddit/comments/awwcfb/whats_some_juicy_gossip_you_just_found_out_in/">What’s some juicy gossip you just found out in your personal lives?</a>, submitted on 2019-03-04 01:45:20+08:00.</h3>
+
+<p>—– <strong>18.1</strong> —–2019-03-04 11:07:27+08:00:</p>
+
+<p>classic</p>
+
+<h3 id="19-as-china-tightens-its-grip-on-hong-kong-taiwan-emerges-as-asias-hub-for-foreign-media--hong-kong-free-press-hkfp-submitted-on-2019-03-04-0919510800">19: <a href="https://old.reddit.com/r/China/comments/ax159d/as_china_tightens_its_grip_on_hong_kong_taiwan/">As China tightens its grip on Hong Kong, Taiwan emerges as Asia’s hub for foreign media | Hong Kong Free Press HKFP</a>, submitted on 2019-03-04 09:19:51+08:00.</h3>
+
+<p>—– <strong>19.1</strong> —–2019-03-04 23:05:53+08:00:</p>
+
+<p>Even if it’s true, it’s still better than direct rape 😀</p>
+
+<p>https://www.usatoday.com/story/news/world/2017/12/01/former-u-s-marine-jailed-raping-and-murdering-woman-okinawa/912488001/</p>
+
+<p>—– <strong>19.2</strong> —–2019-03-04 23:07:34+08:00:</p>
+
+<p>GZ-er love the Cantonese HK televisions so much. Miss you guys</p>
+
+<p>—– <strong>19.3</strong> —–2019-03-04 23:09:18+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This is what makes China strong and stealth
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Yes in the past, big no in the future. Time changes</p>
+
+<p>—– <strong>19.4</strong> —–2019-03-05 00:20:38+08:00:</p>
+
+<p>I just didn’t get your points on your link, neither.</p>
+
+<p>—– <strong>19.5</strong> —–2019-03-05 00:42:19+08:00:</p>
+
+<p>I don’t think the think tanks in the pentagon will agree with you in some aspects</p>
+
+<p>But PLA indeed lacks experience, not like the war machine the US, yeah</p>
+
+<p>—– <strong>19.6</strong> —–2019-03-05 01:19:28+08:00:</p>
+
+<p>China model is good at catch up but may not be that efficient when it beomes a global leader or innovater. May work in hardpower but definitely not in softpower.</p>
+
+<p>Some of the things you list here, such as space exploration and OBOR, are not contradicred to my statement.</p>
+
+<p>—– <strong>19.7</strong> —–2019-03-05 02:10:31+08:00:</p>
+
+<p>Where is your logic??? Chinese students study in the west because the west is still leading everything, vice versa.</p>
+
+<p>—– <strong>19.8</strong> —–2019-03-05 13:11:54+08:00:</p>
+
+<p>R u Chinese?</p>
+
+<p>—– <strong>19.9</strong> —–2019-03-05 14:20:07+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>What is your Phd in? r/saraba1st seems interesting
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Did you say post? Also, it’s better that you answer my question first? It seems that you have a various background which is interesting to me too.</p>
+
+<p>—– <strong>19.10</strong> —–2019-03-06 01:47:07+08:00:</p>
+
+<p>r/saraba1st is a sub for zealous anti-china oversea Chinese. I think their opinions are always biased but you can check. I asked what happen to current Chinese primier Li Keqiang because he lost lots of power as the rise of xi. Chinese movie, you can go to r/ChineseLanguage and search</p>
+
+<h3 id="20-i-see-whole-foods-hurting-some-sensitive-feelings-here-submitted-on-2019-03-04-0924340800">20: <a href="https://old.reddit.com/r/China/comments/ax16xl/i_see_whole_foods_hurting_some_sensitive_feelings/">I see Whole Foods hurting some sensitive feelings here.</a>, submitted on 2019-03-04 09:24:34+08:00.</h3>
+
+<p>—– <strong>20.1</strong> —–2019-03-04 11:28:55+08:00:</p>
+
+<p>tbh if China can control all the red areas, nobody would mind we lose taiwan or even hainan</p>
+
+<p>It reminds me the <a href="https://codegeass.fandom.com/wiki/United_States_of_China">United States of China (aka Chinese Federation)</a> in the Japanese anime Codegeass</p>
+
+<p>Edit: I just read the link a bit and figure out, in this parallel universe, China has a better human rights record than the US besides EU, lol wtf</p>
+
+<h3 id="21-推上的一些留言-关于大家的隐私-submitted-on-2019-03-04-1103180800">21: <a href="https://old.reddit.com/r/China_irl/comments/ax24b3/推上的一些留言_关于大家的隐私/">推上的一些留言 关于大家的隐私</a>, submitted on 2019-03-04 11:03:18+08:00.</h3>
+
+<p>—– <strong>21.1</strong> —–2019-03-05 02:08:53+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>政府对一切隐私信息的无限制接触并不可怕
+</code></pre></div>  </div>
+</blockquote>
+
+<p>你也无知得可怕</p>
+
+<h3 id="22-op-ed-why-chinas-social-credit-systems-are-surprisingly-popular-submitted-on-2019-03-04-1657210800">22: <a href="https://old.reddit.com/r/China/comments/ax512k/oped_why_chinas_socialcredit_systems_are/">Op-Ed: Why China’s Social-Credit Systems Are Surprisingly Popular</a>, submitted on 2019-03-04 16:57:21+08:00.</h3>
+
+<p>—– <strong>22.1</strong> —–2019-03-04 21:09:53+08:00:</p>
+
+<p>scs will come in 2020</p>
+
+<p>—– <strong>22.2</strong> —–2019-03-04 23:15:49+08:00:</p>
+
+<p>Poor guy…</p>
+
+<h3 id="23-反制来了加拿大籍人员康明凯涉嫌犯罪案取得重要进展-submitted-on-2019-03-04-1924100800">23: <a href="https://old.reddit.com/r/China_irl/comments/ax62g1/反制来了加拿大籍人员康明凯涉嫌犯罪案取得重要进展/">反制来了，加拿大籍人员康明凯涉嫌犯罪案取得重要进展</a>, submitted on 2019-03-04 19:24:10+08:00.</h3>
+
+<p>—– <strong>23.1</strong> —–2019-03-05 02:04:01+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>看来孟女士移交美国之时，那个毒贩就执行死刑了。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>上个post才看到一群人在感慨中国无法治，现在这里却把法律当作是政治武器/人质交换，这就是诸位对法治和the land of law的理解吗？如果前后赞贬的是同一批人，我只能说蛮讽刺的</p>
+
+<p>—– <strong>23.2</strong> —–2019-03-05 02:06:22+08:00:</p>
+
+<p>为何不行？监禁负责人不行？我不是说华为一定有问题或者美国没有政治考虑，但单纯你这话就不正确</p>
+
+<p>—– <strong>23.3</strong> —–2019-03-05 03:34:08+08:00:</p>
+
+<p>因为按照美国的控诉，是华为通过子公司把<strong>美国技术</strong>转移到被美制裁的伊朗上（凭记忆手打）</p>
+
+<p>—– <strong>23.4</strong> —–2019-03-05 03:37:04+08:00:</p>
+
+<p>因为按照美国的控诉，是华为通过子公司把<strong>美国技术</strong>转移到被美制裁的伊朗上（凭记忆手打）</p>
+
+<p>—– <strong>23.5</strong> —–2019-03-05 04:25:59+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>国际间法治就是国际政治和争端的延续
+</code></pre></div>  </div>
+</blockquote>
+
+<p>从来都没有国际法治这一称呼，人类还没到那级别。我也没谈及这块。国家间的引渡协定是双边合约而已。</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>美国法
+</code></pre></div>  </div>
+</blockquote>
+
+<p>美国等西方世界是三权分立的国家。我不是说在西方的话司法界就没有政治影响，但司法独立和权力制衡还是有的。拿孟晚舟的事件说，美国起诉孟肯定有政治原因，但从经过加拿大法院判决引渡，到美国法院判决定罪，这是一个漫长的过程，而且整个过程是独立进行的。你问我有没有政治施压？我不敢说肯定没有，但法官是可以按照自己对法律的坚守判决的。中国这次，对一例加拿大毒贩的死刑判决，仅仅20天，有点太过了。</p>
+
+<p>退一步说，即使大家肯定了政治干预，但像楼主(OP)宣传通过人质换人质，可以说是很没有法律常识的宣称。这种声音，除了加坏西方普通民众对华观感外，没有任何的作用。同样地，中国这次外交我觉得也有点过头。</p>
+
+<p>下面有人竟然用“奥巴马吸大麻怎么不见中国抓他”来等同于孟晚舟案，可见即不了解事件过程也不了解法律流程(Source: <a href="https://www.google.com/amp/s/www.bannedbook.org/bnews/baitai/20181209/1044220.html/amp">起诉孟晚舟原件</a>)。</p>
+
+<p>另外，可以查查美国对华为起诉原件，包括bonus program T-mobile案。</p>
+
+<p>—– <strong>23.6</strong> —–2019-03-05 04:38:44+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>美国总统自己还给伊朗偷偷卖武器呢，怎么，总统自己怎么不去维护法治啊？卖东西给伊朗，三星也干了，怎么不说话呢，就因为三星是美国控股？
+</code></pre></div>  </div>
+</blockquote>
+
+<p>这涉及到起诉的问题，别人起不起诉你是一回事，你有没违反禁令是另外一回事。聪明的话，当年就用别的公司干脏活，洗干净手，自己手段没到位栽了也不要不认。</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>国际之间的法律问题就是国际政治的延续。而且，美国控诉的是违法美国自己的法律，我中国法律又不是这么写的。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>请看我另外的<a href="https://reddit.com/r/China_irl/comments/ax62g1/_/ehshbsb/?context=1">答案</a>，你对整个事情经过和西方运作的理解不到位。</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>即便华为屁股不干净，也没有不干净到跑到温哥华抓家人高管，这个就是矛盾所在
+</code></pre></div>  </div>
+</blockquote>
+
+<p>请看美加引渡条文的法律所示，而且现在孟晚舟只是被美国引渡，加拿大法院还在进行法律审理的过程。</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>上来就抱着法治洗地，我只能想起长者的那句，你们呐，too simple。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>我做自干五也十年多了，不用你劳心教我，谢谢。若我这番话你都觉得过头的话，有空去 r/saraba1st 转转呗。</p>
+
+<p>—– <strong>23.7</strong> —–2019-03-05 05:03:41+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>你觉得我没有遵守你的规则惩罚我，我觉得你把你的想法强加给我我就怼回来，挺正常的。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>不知你是在说中美还是你我，若在说我的话，我觉得你还是分清，“规则”和“情绪”的区别？</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>至于别人的看法，有研究的自己既然会了解，不想研究的网上打嘴炮的人家就是想吐槽你，跟吐槽自己总统一回事。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>你们山长水远跑来翻墙只是吐吐槽的话，我也没有干预的自由，只是觉得遗憾。没所谓，有空多去reddit其它sub看看吧。不管是练英文还是开阔眼界，不管你们把西方视为敌人还是朋友还是友敌，多了解西方人的思维总是好的。</p>
+
+<p>Edit: one word</p>
+
+<p>—– <strong>23.8</strong> —–2019-03-05 05:10:57+08:00:</p>
+
+<p>我从头到尾都没有说华为案没有政治因素，上世纪末美日贸易战也是这样抓人。我只是说那种“人质换人质”等说法有点幼稚。</p>
+
+<p>Edit: 说个远点的，我个人觉得，中西之间还是意识形态间的分歧大于文明冲突的分歧。</p>
+
+<p>—– <strong>23.9</strong> —–2019-03-05 05:24:14+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>哈哈，做为一只美帝PhD，首先，我并不需要在论坛上打嘴仗来练英文，也不需要通过biased的帖子来了解真正的美国人的想法和开阔眼界
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Ok congrats, 我只是看了看你reddit账号挺新的</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>我觉得通过论坛来了解西方人的想法是biased。毕竟键盘侠是键盘侠的想法，美国的政策制定人是政策制定人的想法，他们的想法更为重要，他们有渠道有能力来获取正确的信息做正确的判断，绝大部分美国人也不会跑到Reddit来了解中国表达对中国的看法。还有你可能不知道，美帝许许多多好大学的phd项目，各个金融科技公司有大量的中国人，他们才是价值想法之类民间交流的桥梁，而不是论坛键盘侠。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>两者并不是对立的，有些真话别人不会当面对你直白讲。我说的看是指看美国人间的讨论，从而看他们的三观和思维，而不是跟中国或西方的键盘侠辩论。</p>
+
+<p>中国十二年来“百年耻辱”等的教育，造成国人相对地只用中西二元对立的民族叙事来看待问题。西方的话，即有民族主义叙事，但更有自由主义叙事。当年Clinton让中国入WTO也是有这方面的考虑，而非单纯地地缘政治的考虑。说起来太长了，我只是希望中国不要干了几十年最后又是一场洋务运动。</p>
+
+<p>—– <strong>23.10</strong> —–2019-03-05 05:34:40+08:00:</p>
+
+<p>并无屁股的不同，而是解决方式的不同，共勉</p>
+
+<p>—– <strong>23.11</strong> —–2019-03-05 05:44:07+08:00:</p>
+
+<p>这么跟你说吧，中西间的根本分歧还是对于“自由/民主/人权/多元/法治”这些观念接受与否。中国不接受的话，不管怎么样西方都是有戒心的。当然，就像穆斯林文明也有他们自己的一套那样。看你怎么看了，也要看你是否认为西方那套的普世价值，我个人还是认同的，但当然也意识到部分西方政权会通过这些普价来干涉他人，所以这个要辩证看待。</p>
+
+<p>—– <strong>23.12</strong> —–2019-03-05 05:58:23+08:00:</p>
+
+<p>我说的洋务运动是上层建筑的改造，从零几年开始的深化改革到现在依然寸步难行</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>以及，优秀的人自然有自己的思考方式，键盘侠们，也影响不了政策走向。
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Par me?</p>
+
+<p>—– <strong>23.13</strong> —–2019-03-05 06:06:21+08:00:</p>
+
+<p>跟你讨论有种很奇怪的感觉，因为我总感觉在跟以前的自己的辩论。。。不过有点你说得也对，就是我的确是个nobody。所以也就吹吹水，做好自己的事。我个人当然希望中国工业化完成后能有成为新的灯塔，但这几年的事情我不太看好，anyway</p>
+
+<p>Edit: 另外，你前面跟白人说的那番关于“南海”的话太直白了，我不太建议，你这么想也没必要明说</p>
+
+<p>—– <strong>23.14</strong> —–2019-03-05 06:18:20+08:00:</p>
+
+<p>在说“经济基础决定上层建筑”的同时，也有一句话叫“落后的上层建筑阻挡先进的生产关系”。现在改不动是因为当年已经错过了最佳改革时机（不管是政治还是经济上），现在到了不得不改的地步</p>
+
+<p>Edit: 给西方带来重大变革的的确是工业革命，但你不想想工业革命和科学思想为何在西方萌芽？除了古希腊逻辑思维的演变，是不是西方较为多元的结构也有助力呢？</p>
+
+<p>—– <strong>23.15</strong> —–2019-03-05 06:22:25+08:00:</p>
+
+<p>不知道你说的发言间隔是什么，是因为你是新号？</p>
+
+<p>—– <strong>23.16</strong> —–2019-03-05 15:43:47+08:00:</p>
+
+<p>不矛盾，既有文明之争也有意识形态之争</p>
+
+<p>—– <strong>23.17</strong> —–2019-03-06 07:43:33+08:00:</p>
+
+<p>想想司徒雷登为何最后一个走吧, 想想克林顿为何拉中国进入WTO吧, 国内一天到晚说自己如何如何会忽悠西方, 其实那是西方希望中国能成为”自由世界”的一部分而自愿做出的妥协和努力, 西方一直都想把中国争取过来当作盟友. 当然, 鉴于现在华府对华新共识已经形成, 以后就是竞争为主了.</p>
+
+<p>我不是天真地说美国会老老实实地让全部权力出来, 但是中西一直都是友敌(frenemy)的关系, 部分国人一味地受到”百年耻辱”的灌输, 只看到中西文明竞争的一面, 看不到中西可能的合作. 只执着于100年前殖民主义的怨念, 而看不到欧美近几十年在意识形态上的转变.</p>
+
+<p>我很明确地跟你讲, 美欧起码偏liberalism那一派对中国的国家本身本来就没有什么敌意, 主要的分歧还是在意识形态上. 当然我也没有说tg就怎么完全不好, 只是希望给你反映个事实, 看问题要辩证地看待.</p>
+
+<p>一天到晚只会打打打是没有出息的. 做世界霸主也要两条腿走路.</p>
+
+<p>—– <strong>23.18</strong> —–2019-03-06 08:08:00+08:00:</p>
+
+<blockquote>
+  <p>人在国外时，并没有感受到多少西方文明的善意，恶意倒是不少。</p>
+</blockquote>
+
+<p>巧了, 我怎么不觉得? 再者, 别人外国人来中国也觉得国人排外歧视也不少, 在世界融合的过程中当然会有很多摩擦, 但我并没有那么玻璃心</p>
+
+<blockquote>
+  <p>在国内，也没有感受到什么成功忽悠西方的宣传。</p>
+</blockquote>
+
+<p>去知乎忽悠局转一下?</p>
+
+<blockquote>
+  <p>未来就是美帝为首的西方围剿中国的局面。合作？谁敢跟你合作。</p>
+</blockquote>
+
+<p>欧美还是有分歧的, 去欧洲论坛看一下?</p>
+
+<blockquote>
+  <p>你怎么跪舔都没有用的</p>
+</blockquote>
+
+<p>你的世界观就这么非黑即白？不是跪舔就是打仗？</p>
+
+<p>—– <strong>23.19</strong> —–2019-03-06 08:14:49+08:00:</p>
+
+<p>omg 我怎么就被只上网了 你认为我人在国内 ？？？</p>
+
+<h3 id="24-表示这是在打谁的脸-submitted-on-2019-03-04-2224050800">24: <a href="https://old.reddit.com/r/China_irl/comments/ax7o23/表示这是在打谁的脸/">表示这是在打谁的脸？</a>, submitted on 2019-03-04 22:24:05+08:00.</h3>
+
+<p>—– <strong>24.1</strong> —–2019-03-05 02:25:01+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>14-15年为了保某人拍脑袋指定的增长目标
+</code></pre></div>  </div>
+</blockquote>
+
+<p>谁</p>
+
+<p>—– <strong>24.2</strong> —–2019-03-05 02:26:13+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>rich john过去几年没啥成绩
+</code></pre></div>  </div>
+</blockquote>
+
+<p>啥都做不了 怎么有成绩？</p>
+
+<h3 id="25-shiva-and-parvati-in-kizil-caves-xinjiang-china-6th-century-submitted-on-2019-03-04-2243060800">25: <a href="https://old.reddit.com/r/China/comments/ax7uow/shiva_and_parvati_in_kizil_caves_xinjiang_china/">Shiva and Parvati in Kizil Caves, Xinjiang, China 6th century</a>, submitted on 2019-03-04 22:43:06+08:00.</h3>
+
+<p>—– <strong>25.1</strong> —–2019-03-05 01:04:13+08:00:</p>
+
+<p>ancient meme?</p>
+
+<p>—– <strong>25.2</strong> —–2019-03-05 02:11:46+08:00:</p>
+
+<p>If my gf looks like that, I must have nightmare every night</p>
+
+<h3 id="26-为什么墙内的开放区和墙外的reddit同一批人舆论差异会如此之大-submitted-on-2019-03-05-0004010800">26: <a href="https://old.reddit.com/r/China_irl/comments/ax8pra/为什么墙内的开放区和墙外的reddit同一批人舆论差异会如此之大/">为什么墙内的开放区和墙外的reddit，同一批人，舆论差异会如此之大？</a>, submitted on 2019-03-05 00:04:01+08:00.</h3>
+
+<p>—– <strong>26.1</strong> —–2019-03-05 02:27:01+08:00:</p>
+
+<p>起码我不是 我是原redditor 根本不知道贵防区</p>
+
+<p>—– <strong>26.2</strong> —–2019-03-05 02:34:04+08:00:</p>
+
+<p>因为S2那边在吵 我就过来看看 S2有些人还是太过偏激了 虽然这里有时候也感觉这个sub挺红 不过畅所欲言总是一个好的开始 mod辛苦</p>
+
+<p>reddit其实国人也是有的 但一般用英文混不同的sub</p>
+
+<p>—– <strong>26.3</strong> —–2019-03-05 02:42:20+08:00:</p>
+
+<p>但你karma不多 潜水为主吧？</p>
+
+<h3 id="27-hundreds-of-millions-of-chinese-chat-logs-leak-online-submitted-on-2019-03-05-0021250800">27: <a href="https://old.reddit.com/r/China/comments/ax8x3z/hundreds_of_millions_of_chinese_chat_logs_leak/">Hundreds of millions of Chinese chat logs leak online</a>, submitted on 2019-03-05 00:21:25+08:00.</h3>
+
+<p>—– <strong>27.1</strong> —–2019-03-05 02:39:16+08:00:</p>
+
+<p>Chat logs leak, face info leak, on purpose?</p>
+
+<p>—– <strong>27.2</strong> —–2019-03-05 03:14:21+08:00:</p>
+
+<p>旺旺</p>
+
+<h3 id="28-a-new-report-says-google-is-still-secretly-working-on-its-censored-china-search-engine-but-the-company-outright-denies-it-submitted-on-2019-03-05-0510300800">28: <a href="https://old.reddit.com/r/worldnews/comments/axcfbl/a_new_report_says_google_is_still_secretly/">A new report says Google is still secretly working on its censored China search engine but the company outright denies it</a>, submitted on 2019-03-05 05:10:30+08:00.</h3>
+
+<p>—– <strong>28.1</strong> —–2019-03-05 21:49:33+08:00:</p>
+
+<p>I don’t see the point of your link? Am Chinese</p>
+
+<p>—– <strong>28.2</strong> —–2019-03-06 01:01:25+08:00:</p>
+
+<p>wow that’s how the reddit karma machine works</p>
+
+<h3 id="29-how-to-improve-chinese-writing-skills-submitted-on-2019-03-05-0715410800">29: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axdv70/how_to_improve_chinese_writing_skills/">How to improve Chinese writing skills?</a>, submitted on 2019-03-05 07:15:41+08:00.</h3>
+
+<p>—– <strong>29.1</strong> —–2019-03-05 21:12:22+08:00:</p>
+
+<p>What about 字帖？</p>
+
+<h3 id="30-sure-fire-way-to-remember-stroke-sequences-no-im-just-kidding-you-just-need-to-repeat-repeat-repeat-if-you-are-interested-in-learning-the-stroke-sequence-of-another-word-comment-below-and-i-can-do-another-one-next-day-cheers-submitted-on-2019-03-05-0823550800">30: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axekqt/sure_fire_way_to_remember_stroke_sequences_no_im/">Sure fire way to remember stroke sequences! No I’m just kidding, you just need to repeat repeat repeat. If you are interested in learning the stroke sequence of another word, comment below and I can do another one next day! Cheers!</a>, submitted on 2019-03-05 08:23:55+08:00.</h3>
+
+<p>—– <strong>30.1</strong> —–2019-03-05 21:10:21+08:00:</p>
+
+<p>您好！</p>
+
+<h3 id="31-google-employees-uncover-ongoing-work-on-censored-china-search-submitted-on-2019-03-05-0940290800">31: <a href="https://old.reddit.com/r/China/comments/axfd7m/google_employees_uncover_ongoing_work_on_censored/">Google Employees Uncover Ongoing Work on Censored China Search</a>, submitted on 2019-03-05 09:40:29+08:00.</h3>
+
+<p>—– <strong>31.1</strong> —–2019-03-05 10:49:18+08:00:</p>
+
+<p>Why it seems that I heard this new several months ago?</p>
+
+<h3 id="32-non-binary-genders-are-personalities-not-genders-submitted-on-2019-03-05-1111510800">32: <a href="https://old.reddit.com/r/unpopularopinion/comments/axgaqn/nonbinary_genders_are_personalities_not_genders/">Non-binary “genders” are personalities, not genders.</a>, submitted on 2019-03-05 11:11:51+08:00.</h3>
+
+<p>—– <strong>32.1</strong> —–2019-03-06 01:31:57+08:00:</p>
+
+<p>that’s why he just mentioned English-speaking countries /s</p>
+
+<h3 id="33-huawei-says-it-would-never-hand-data-to-chinas-government-experts-say-it-wouldnt-have-a-choice-submitted-on-2019-03-05-1119470800">33: <a href="https://old.reddit.com/r/China/comments/axgdno/huawei_says_it_would_never_hand_data_to_chinas/">Huawei says it would never hand data to China’s government. Experts say it wouldn’t have a choice</a>, submitted on 2019-03-05 11:19:47+08:00.</h3>
+
+<p>—– <strong>33.1</strong> —–2019-03-05 12:36:05+08:00:</p>
+
+<p>https://reddit.com/r/europe/comments/auj41x/huawei_frightens_europes_data_protectors_america/</p>
+
+<h3 id="34-离岸平衡手的存在对欧洲大陆屁民总体上是好还是坏-submitted-on-2019-03-05-1245030800">34: <a href="https://old.reddit.com/r/saraba1st/comments/axh2i3/离岸平衡手的存在对欧洲大陆屁民总体上是好还是坏/">离岸平衡手的存在对欧洲大陆屁民总体上是好还是坏？</a>, submitted on 2019-03-05 12:45:03+08:00.</h3>
+
+<p>—– <strong>34.1</strong> —–2019-03-06 07:24:52+08:00:</p>
+
+<p>除了英国还有谁？</p>
+
+<h3 id="35-全员犯人广东广雅中学2018智慧校园信息化采购项目招标文件-submitted-on-2019-03-05-1302540800">35: <a href="https://old.reddit.com/r/saraba1st/comments/axh872/全员犯人广东广雅中学2018智慧校园信息化采购项目招标文件/">全员犯人？广东广雅中学2018智慧校园信息化采购项目招标文件</a>, submitted on 2019-03-05 13:02:54+08:00.</h3>
+
+<p>—– <strong>35.1</strong> —–2019-03-06 07:21:02+08:00:</p>
+
+<p>我读书的时候已经有很多电子平台让家长老师联系并评测学生的表现了，这个并不奇怪，要知道国人跟西人的三观是不一样的</p>
+
+<h3 id="36-would-anyone-like-to-peer-review-my-essay-for-the-chinese-class-im-in-its-a-requirement-just-asking-for-feedback-that-will-help-me-develop-ideas-and-fix-correctionscomments-submitted-on-2019-03-05-1454420800">36: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axi5s5/would_anyone_like_to_peer_review_my_essay_for_the/">Would anyone like to peer review my essay for the Chinese class I’m in? It’s a requirement, just asking for feedback that will help me develop ideas and fix corrections/comments!</a>, submitted on 2019-03-05 14:54:42+08:00.</h3>
+
+<p>—– <strong>36.1</strong> —–2019-03-07 04:39:22+08:00:</p>
+
+<p>btw, the best and smart de-political behavior is to use <strong>mainland China （中国大陆）</strong> instead of China（中国）when puting PRC with ROC/HK/MC together. This is a buffer term for all of the people here no matter which position you stand. Just say.</p>
+
+<p>—– <strong>36.2</strong> —–2019-03-07 07:02:34+08:00:</p>
+
+<p>No. Mainland China is a term to distinguish CCP-direct-leading part with other parts, such as Hong Kong and Macau SAR, <strong>may or may not include Taiwan</strong>. That’s why it’s a buffer term because it can be accepted by both sides. Please know that both pro-independence and pro-unification are political claims.</p>
+
+<p>Edit: while Greater China is a term that always contains mainland China, HK, MC, and frequently includes Taiwan, and sometimes includes Singapore.</p>
+
+<h3 id="37-tip-on-steam-you-can-choose-chinese-as-one-of-your-languages-and-practice-reading-some-very-real-chinese-submitted-on-2019-03-05-1751420800">37: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axjfnq/tip_on_steam_you_can_choose_chinese_as_one_of/">TIP: On Steam you can choose Chinese as one of your languages and practice reading some very real Chinese!</a>, submitted on 2019-03-05 17:51:42+08:00.</h3>
+
+<p>—– <strong>37.1</strong> —–2019-03-06 03:08:54+08:00:</p>
+
+<p>imo picking up your most FAVORABLE one is the best choice.</p>
+
+<h3 id="38-this-dance-move-submitted-on-2019-03-05-1933400800">38: <a href="https://old.reddit.com/r/BeAmazed/comments/axk65g/this_dance_move/">This dance move</a>, submitted on 2019-03-05 19:33:40+08:00.</h3>
+
+<p>—– <strong>38.1</strong> —–2019-03-06 03:05:58+08:00:</p>
+
+<p>MOUNTAIN CITY !!!</p>
+
+<h3 id="39-普通大学生想了解下若留学美国能获得些什么收益以及国内对美国的一些普遍看法是否属实生活上-submitted-on-2019-03-05-2001090800">39: <a href="https://old.reddit.com/r/China_irl/comments/axkdxv/普通大学生想了解下若留学美国能获得些什么收益以及国内对美国的一些普遍看法是否属实生活上/">普通大学生，想了解下若留学美国，能获得些什么收益，以及国内对美国的一些普遍看法是否属实（生活上）</a>, submitted on 2019-03-05 20:01:09+08:00.</h3>
+
+<p>—– <strong>39.1</strong> —–2019-03-06 11:18:31+08:00:</p>
+
+<blockquote>
+  <p>回国北京那些部委不信任留学生</p>
+</blockquote>
+
+<p>这么夸张的吗？愿闻其详</p>
+
+<h3 id="40-a-buddy-was-tired-of-seeing-americans-with-chinese-tattoos-so-he-showed-her-what-it-looks-to-a-chinese-person-submitted-on-2019-03-05-2121490800">40: <a href="https://old.reddit.com/r/funny/comments/axl3fb/a_buddy_was_tired_of_seeing_americans_with/">A buddy was tired of seeing Americans with Chinese tattoos, so he showed her what it looks to a Chinese person.</a>, submitted on 2019-03-05 21:21:49+08:00.</h3>
+
+<p>—– <strong>40.1</strong> —–2019-03-06 01:10:44+08:00:</p>
+
+<p>Funny in this post, but not funny in life.</p>
+
+<h3 id="41-kfc-dedicates-china-restaurant-to-memory-of-communist-hero-submitted-on-2019-03-05-2216040800">41: <a href="https://old.reddit.com/r/China/comments/axlm0a/kfc_dedicates_china_restaurant_to_memory_of/">KFC dedicates China restaurant to memory of Communist hero</a>, submitted on 2019-03-05 22:16:04+08:00.</h3>
+
+<p>—– <strong>41.1</strong> —–2019-03-07 01:52:59+08:00:</p>
+
+<blockquote>
+  <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Dui, dui, dui, shi, dui, dui...
+</code></pre></div>  </div>
+</blockquote>
+
+<p>Sounds like what I say to my mum</p>
+
+<h3 id="42-as-a-chinese-person-how-would-an-arrest-in-the-us-that-resulted-in-a-dismissal-affect-you-in-china-submitted-on-2019-03-05-2249380800">42: <a href="https://old.reddit.com/r/China/comments/axlxt5/as_a_chinese_person_how_would_an_arrest_in_the_us/">As a Chinese person, How would an arrest in the US that resulted in a dismissal affect you in China</a>, submitted on 2019-03-05 22:49:38+08:00.</h3>
+
+<p>—– <strong>42.1</strong> —–2019-03-06 05:32:51+08:00:</p>
+
+<p>make your question more clear bro</p>
+
+<h3 id="43-文史贴健胃们讲一讲你们眼中的耄-submitted-on-2019-03-06-0116300800">43: <a href="https://old.reddit.com/r/China_irl/comments/axnkr2/文史贴健胃们讲一讲你们眼中的耄/">文史贴！健胃们讲一讲你们眼中的耄</a>, submitted on 2019-03-06 01:16:30+08:00.</h3>
+
+<p>—– <strong>43.1</strong> —–2019-03-06 10:02:28+08:00:</p>
+
+<p>毛一生都推崇“运动”“革命”“人民”，成也革命，败也革命。</p>
+
+<p>他以革命手段赢得内战和促成建国初期的经济建设，但在后来全国需要较为平和的坏境下搞建设，毛这一套就不管用了，所以之后有<a href="https://www.wikiwand.com/zh-hans/%E5%A4%A7%E8%B7%83%E8%BF%9B">大跃进</a>。</p>
+
+<p>大跃进后毛在党的威信直滑下降，刘毛威信在党内和民间都并驾齐驱，<a href="https://www.wikiwand.com/zh/%E4%B8%83%E5%8D%83%E4%BA%BA%E5%A4%A7%E4%BC%9A">7000人大会</a>是刘毛矛盾白热化的阶段。到后面毛开始发动<a href="https://www.wikiwand.com/zh/%E5%9B%9B%E6%B8%85%E8%BF%90%E5%8A%A8">四清运动</a>，此为文革的热身和模拟，到之后<a href="https://www.wikiwand.com/zh/%E6%96%87%E5%8C%96%E5%A4%A7%E9%9D%A9%E5%91%BD">文革</a>正式斗倒刘少奇。</p>
+
+<p>需要注意的是，一个人为国献身的无私跟权力上瘾的自私是并不矛盾的。毛有伟大的一面，但也有恶劣的一面。另外，毛在经济建设这块的知识的确欠缺，他用功的地方更多是在政治革命这一块。</p>
+
+<p>—– <strong>43.2</strong> —–2019-03-06 10:17:44+08:00:</p>
+
+<p>抱歉这个我觉得很难说，我个人觉得他俩本质上没有致命的分歧，但是正确的解读要在所有档案解密后才能清楚。</p>
+
+<p>—– <strong>43.3</strong> —–2019-03-06 10:29:45+08:00:</p>
+
+<p>那就比肩华盛顿了。。。</p>
+
+<h3 id="44-chinese-urban-dictionary--jikipedia-submitted-on-2019-03-06-0444160800">44: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axpz0j/chinese_urban_dictionary_jikipedia/">Chinese Urban Dictionary : jikipedia</a>, submitted on 2019-03-06 04:44:16+08:00.</h3>
+
+<p>—– <strong>44.1</strong> —–2019-03-06 05:40:42+08:00:</p>
+
+<p>Find several funny words <del>with Chinese characteristics</del>:</p>
+
+<p><a href="https://jikipedia.com/definition/5573">Trump</a></p>
+
+<p><a href="https://jikipedia.com/definition/2313">Trump twitter</a></p>
+
+<p><a href="https://jikipedia.com/definition/1381">Hillary</a></p>
+
+<p><a href="https://jikipedia.com/definition/38">Google</a></p>
+
+<p><a href="https://jikipedia.com/definition/4225">Twitter</a></p>
+
+<p><a href="https://jikipedia.com/definition/1510">404</a></p>
+
+<p><a href="https://jikipedia.com/definition/232">US president election</a></p>
+
+<h3 id="45-chinese-urban-dictionary--jikipedia-submitted-on-2019-03-06-0447180800">45: <a href="https://old.reddit.com/r/China/comments/axq09x/chinese_urban_dictionary_jikipedia/">Chinese Urban Dictionary : jikipedia</a>, submitted on 2019-03-06 04:47:18+08:00.</h3>
+
+<p>—– <strong>45.1</strong> —–2019-03-06 05:42:08+08:00:</p>
+
+<p>Find several funny words <del>with Chinese characteristics</del>:</p>
+
+<p><a href="https://jikipedia.com/definition/5573">Trump</a></p>
+
+<p><a href="https://jikipedia.com/definition/2313">Trump twitter</a></p>
+
+<p><a href="https://jikipedia.com/definition/1381">Hillary</a></p>
+
+<p><a href="https://jikipedia.com/definition/38">Google</a></p>
+
+<p><a href="https://jikipedia.com/definition/4225">Twitter</a></p>
+
+<p><a href="https://jikipedia.com/definition/1510">404</a></p>
+
+<p><a href="https://jikipedia.com/definition/232">US president election</a></p>
+
+<h3 id="46-返回编辑模式国航客机迫降俄罗斯乘客雪地逃生-submitted-on-2019-03-06-0448200800">46: <a href="https://old.reddit.com/r/China/comments/axq0oa/返回编辑模式国航客机迫降俄罗斯乘客雪地逃生/">返回编辑模式国航客机迫降俄罗斯乘客雪地逃生</a>, submitted on 2019-03-06 04:48:20+08:00.</h3>
+
+<p>—– <strong>46.1</strong> —–2019-03-06 05:29:35+08:00:</p>
+
+<p>This is a sub for expat but not Chinese speaking user. What about posting on r/China_irl ?</p>
+
+<p>Although I don’t think what your post will be welcome in there …</p>
+
+<h3 id="47-tantan-gets-weirder-everyday--submitted-on-2019-03-06-0826590800">47: <a href="https://old.reddit.com/r/China/comments/axse2e/tantan_gets_weirder_everyday/">TanTan gets weirder everyday 😂</a>, submitted on 2019-03-06 08:26:59+08:00.</h3>
+
+<p>—– <strong>47.1</strong> —–2019-03-06 10:47:22+08:00:</p>
+
+<p>looks like a snake</p>
+
+<p>—– <strong>47.2</strong> —–2019-03-06 22:28:00+08:00:</p>
+
+<p>https://goo.gl/images/DcKWSU</p>
+
+<p>/s</p>
+
+<h3 id="48-今天人大会闭幕了分享十大总结-submitted-on-2019-03-06-0920270800">48: <a href="https://old.reddit.com/r/China_irl/comments/axswrc/今天人大会闭幕了分享十大总结/">今天人大会闭幕了！分享十大总结</a>, submitted on 2019-03-06 09:20:27+08:00.</h3>
+
+<p>—– <strong>48.1</strong> —–2019-03-06 09:53:10+08:00:</p>
+
+<blockquote>
+  <p>3.大学生毕业失业将成常态</p>
+</blockquote>
+
+<p>ok 很棒</p>
+
+<h3 id="49-好吧谢谢阿姨-submitted-on-2019-03-06-1037200800">49: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axtnrz/好吧谢谢阿姨/">好吧，谢谢阿姨</a>, submitted on 2019-03-06 10:37:20+08:00.</h3>
+
+<p>—– <strong>49.1</strong> —–2019-03-07 00:30:03+08:00:</p>
+
+<p>You may ask the server to give you a non-hot/cold water</p>
+
+<p>—– <strong>49.2</strong> —–2019-03-07 06:47:24+08:00:</p>
+
+<p>Gonna learn from Bear Grylls. Hope you can survive</p>
+
+<h3 id="50-wuhan-china---a-city-80x-the-size-of-paris-submitted-on-2019-03-06-1234200800">50: <a href="https://old.reddit.com/r/CityPorn/comments/axur3j/wuhan_china_a_city_80x_the_size_of_paris/">Wuhan, China - A city 80x the size of Paris.</a>, submitted on 2019-03-06 12:34:20+08:00.</h3>
+
+<p>—– <strong>50.1</strong> —–2019-03-07 08:52:07+08:00:</p>
+
+<p>If you include the water area, then <a href="https://www.wikiwand.com/en/Sansha">Sansha City</a>, which is located in the South China Sea and established recently to tighten territory control, should be one of (if not the only one) the biggest cities in the world, with 13 km^2 land and <strong>2,000,000 km^(2)</strong> water.</p>
+
+<h3 id="51-what-made-you-come-to-chinalike-china-submitted-on-2019-03-06-1337530800">51: <a href="https://old.reddit.com/r/China/comments/axvavw/what_made_you_come_to_chinalike_china/">What made you come to China/like China?</a>, submitted on 2019-03-06 13:37:53+08:00.</h3>
+
+<p>—– <strong>51.1</strong> —–2019-03-06 23:49:30+08:00:</p>
+
+<blockquote>
+  <p>I have noticed the lack of individual/critical thinking with Japanese.</p>
+</blockquote>
+
+<p>How?</p>
+
+<p>—– <strong>51.2</strong> —–2019-03-06 23:51:56+08:00:</p>
+
+<p>appreciate your frank</p>
+
+<h3 id="52-heaven-doesnt-seem-very-appealing-submitted-on-2019-03-06-1512110800">52: <a href="https://old.reddit.com/r/unpopularopinion/comments/axw1si/heaven_doesnt_seem_very_appealing/">Heaven doesn’t seem very appealing</a>, submitted on 2019-03-06 15:12:11+08:00.</h3>
+
+<p>—– <strong>52.1</strong> —–2019-03-07 00:19:31+08:00:</p>
+
+<p>So, weed?</p>
+
+<h3 id="53-it-is-perfectly-acceptable-to-drink-straight-from-the-jugcarton-if-you-live-alone-or-nobody-else-in-the-home-drinks-it-submitted-on-2019-03-06-2041310800">53: <a href="https://old.reddit.com/r/unpopularopinion/comments/axyeg9/it_is_perfectly_acceptable_to_drink_straight_from/">It is perfectly acceptable to drink straight from the jug/carton if you live alone or nobody else in the home drinks it.</a>, submitted on 2019-03-06 20:41:31+08:00.</h3>
+
+<p>—– <strong>53.1</strong> —–2019-03-07 11:21:40+08:00:</p>
+
+<p>Is this really an unpopular opinionn?</p>
+
+<h3 id="54-中文-only-discussion-2019-03-06-submitted-on-2019-03-06-2304580800">54: <a href="https://old.reddit.com/r/ChineseLanguage/comments/axzs1o/中文only_discussion_20190306/">中文-only Discussion! 2019-03-06</a>, submitted on 2019-03-06 23:04:58+08:00.</h3>
+
+<p>—– <strong>54.1</strong> —–2019-03-07 04:24:10+08:00:</p>
+
+<p>你好犀利啊</p>
+
+<p>—– <strong>54.2</strong> —–2019-03-07 09:42:40+08:00:</p>
+
+<p>白学？</p>
+
+<h3 id="55-每日新闻-36-未来-自由市场开启-顶薪教师换选秀权避免奢侈税-submitted-on-2019-03-06-2307490800">55: <a href="https://old.reddit.com/r/China_irl/comments/axzt65/每日新闻_36_未来_自由市场开启_顶薪教师换选秀权避免奢侈税/">[每日新闻] 3/6 未来: 自由市场开启, 顶薪教师换选秀权避免奢侈税?</a>, submitted on 2019-03-06 23:07:49+08:00.</h3>
+
+<p>—– <strong>55.1</strong> —–2019-03-07 00:27:42+08:00:</p>
+
+<p>中间那横空白逼死强迫症</p>
+
+<h3 id="56-深度解读面对新疆再教育营-西方的双重标准-转自多维新闻-submitted-on-2019-03-07-0244550800">56: <a href="https://old.reddit.com/r/China_irl/comments/ay2aia/深度解读面对新疆再教育营_西方的双重标准_转自多维新闻/">深度解读：面对新疆“再教育营” 西方的双重标准 (转自多维新闻）</a>, submitted on 2019-03-07 02:44:55+08:00.</h3>
+
+<p>—– <strong>56.1</strong> —–2019-03-07 09:34:33+08:00:</p>
+
+<p>关键是这种行动都是绕过司法系统的，就每人弄张分数表，出国扣个分，种族扣个分，名字伊斯兰扣个分，扣没了就不经司法程序抓进去camp。我真是excuse me？</p>
+
+<p>这几年新疆态势的确是较严重，前几年因为维吾尔语课本上的内容被拉到疆独那方面，维吾尔语被大幅压制。</p>
+
+<p>新疆上任zcx柔性治疆被证明失败后，cqg就下军令状把西藏那边的政策弄个加强版过来铁腕治疆。但先不说这种政策的成本和后果如何？就一项不经司法程序抓这么多人，就很无语。这样中国何时才能实现法治？</p>
+
+<p>不要说因为形势的严峻，从长远而言，司法意识是更为重要的。每次都绕开司法程序，就像服用慢性毒品，每次用每次爽，直到最后一命欢呼。</p>
+
+<p>—– <strong>56.2</strong> —–2019-03-07 10:01:25+08:00:</p>
+
+<p>其实我跟少民青年（非维吾尔）聊过，真挺惨的。注：精英分子那种，不是路边混混。</p>
+
+<p>你想想，出身是没得选的，本来在中国非汉长相的少民就比较难混，日常生活坐个火车住个酒店都经常不行，每次都被人安检。</p>
+
+<p>小时候学校被人歧视，长大了职场歧视也多，相比而言华人在西方所谓天花板已经很好了。身边亲戚八十多岁被抓去一年多现在无声无响，都不知道是不是已经那啥了。</p>
+
+<p>说句罪过点的话，我以前也很支持“铁腕治疆”，但跟人聊过后对我改观很大，让我真正意识到中国人这个身份的含义。</p>
+
+<p>新疆嘛，就去穆斯林极端化这点我是认同的，不过讲道理，新疆更多是跟中亚而非中东相近，也没有太极端。其他政策嘛，我个人持保留意见。</p>
+
+<p>—– <strong>56.3</strong> —–2019-03-07 13:03:08+08:00:</p>
+
+<p>为何这么讲？</p>
+
+<h3 id="57-大家好你们最喜欢的中文电影是什么我最喜欢的中文电影是-捉妖记-和-不可思异-submitted-on-2019-03-07-0746110800">57: <a href="https://old.reddit.com/r/ChineseLanguage/comments/ay5sfr/大家好你们最喜欢的中文电影是什么我最喜欢的中文电影是_捉妖记_和_不可思异/">大家好！你们最喜欢的中文电影是什么？我最喜欢的中文电影是 ”捉妖记” 和 ”不可思异”。</a>, submitted on 2019-03-07 07:46:11+08:00.</h3>
+
+<p>—– <strong>57.1</strong> —–2019-03-07 09:38:32+08:00:</p>
+
+<p>卧虎藏龙。英雄。无间道。功夫。流浪地球</p>
+
+<h3 id="58-how-to-cheat-at-xi-jinping-thought-a-newly-mandatory-app-is-eating-up-chinese-workers-timeso-theyre-finding-ways-around-it-submitted-on-2019-03-07-2050090800">58: <a href="https://old.reddit.com/r/China/comments/ayca2j/how_to_cheat_at_xi_jinping_thought_a_newly/">How to Cheat at Xi Jinping Thought: A newly mandatory app is eating up Chinese workers’ time—so they’re finding ways around it.</a>, submitted on 2019-03-07 20:50:09+08:00.</h3>
+
+<p>—– <strong>58.1</strong> —–2019-03-07 22:45:52+08:00:</p>
+
+<p>There is a Xuexi Qiangguo karma machine on <a href="https://github.com/fuck-xuexiqiangguo">Github</a></p>
+
+<h3 id="59-如何评价周恩来-submitted-on-2019-03-07-2216100800">59: <a href="https://old.reddit.com/r/saraba1st/comments/ayd1xz/如何评价周恩来/">如何评价周恩来？</a>, submitted on 2019-03-07 22:16:10+08:00.</h3>
+
+<p>—– <strong>59.1</strong> —–2019-03-07 23:52:24+08:00:</p>
+
+<p>有没啥靠谱的书籍推荐啊</p>
+
+<h3 id="60-population-densities-on-the-china-russia-border-submitted-on-2019-03-07-2218050800">60: <a href="https://old.reddit.com/r/MapPorn/comments/ayd2n9/population_densities_on_the_chinarussia_border/">Population densities on the China-Russia border</a>, submitted on 2019-03-07 22:18:05+08:00.</h3>
+
+<p>—– <strong>60.1</strong> —–2019-03-08 01:44:29+08:00:</p>
+
+<p>Yes and no? I am not a big fan of ccp and not defending the Chinese govt. But lots of the news here always see China through the lens of western ideology. For example, I can confirm that not that much Chinese people think Social Credit System is a bad plan while it seems to be a taboo subject based on western values. So as others. Am Chinese</p>
+
+<p>—– <strong>60.2</strong> —–2019-03-08 02:21:07+08:00:</p>
+
+<p>To be fair, SCS is a 2020 plan… And the Sesame Credit System are popular among Chinese teens began several years ago</p>
+
+<h3 id="61-researchers-chinese-influence-operations-seek-to-elevate-chinas-image-not-sow-discord-submitted-on-2019-03-08-0311440800">61: <a href="https://old.reddit.com/r/geopolitics/comments/ayge39/researchers_chinese_influence_operations_seek_to/">Researchers: Chinese influence operations seek to elevate China’s image, not sow discord</a>, submitted on 2019-03-08 03:11:44+08:00.</h3>
+
+<p>—– <strong>61.1</strong> —–2019-03-08 06:16:22+08:00:</p>
+
+<p>LOL you get the point. CCP is a huuuuuuge cooperation</p>
+
+<h3 id="62-china-printing-china-submitted-on-2019-03-08-0554570800">62: <a href="https://old.reddit.com/r/China/comments/ayi94c/china_printing_china/">China printing china</a>, submitted on 2019-03-08 05:54:57+08:00.</h3>
+
+<p>—– <strong>62.1</strong> —–2019-03-08 09:57:16+08:00:</p>
+
+<p>lol</p>
+
+<h3 id="63-guys-help-i-cant-find-xi-jinping-thought-on-the-appstore-submitted-on-2019-03-08-0628090800">63: <a href="https://old.reddit.com/r/CCJ2/comments/ayimbf/guys_help_i_cant_find_xi_jinping_thought_on_the/">Guys help I can’t find Xi Jinping thought on the AppStore</a>, submitted on 2019-03-08 06:28:09+08:00.</h3>
+
+<p>—– <strong>63.1</strong> —–2019-03-08 07:36:12+08:00:</p>
+
+<p>I guess it’s in Chinese Apple store? Not sure which one you use</p>
+
+<h3 id="64-传说国内思想最自由的地方在中央党校-submitted-on-2019-03-08-0841120800">64: <a href="https://old.reddit.com/r/China_irl/comments/ayk0nk/传说国内思想最自由的地方在中央党校/">传说国内思想最自由的地方在中央党校</a>, submitted on 2019-03-08 08:41:12+08:00.</h3>
+
+<p>—– <strong>64.1</strong> —–2019-03-08 13:50:02+08:00:</p>
+
+<p>我记得习上台第一年内 党校那边有人就对他评价低了 具体是啥事我忘了</p>
+
+<h3 id="65-jin-submitted-on-2019-03-08-0918050800">65: <a href="https://old.reddit.com/r/China/comments/aykdep/jin/">Jin!</a>, submitted on 2019-03-08 09:18:05+08:00.</h3>
+
+<p>—– <strong>65.1</strong> —–2019-03-08 14:15:55+08:00:</p>
+
+<p>Technically, nothing wrong tho.</p>
+
+<h3 id="66-今年的国庆节会有大型庆祝活动吗-适逢70周年-submitted-on-2019-03-09-0941060800">66: <a href="https://old.reddit.com/r/China_irl/comments/ayy6s2/今年的国庆节会有大型庆祝活动吗_适逢70周年/">今年的国庆节，会有大型庆祝活动吗？ 适逢70周年</a>, submitted on 2019-03-09 09:41:06+08:00.</h3>
+
+<p>—– <strong>66.1</strong> —–2019-03-11 14:13:20+08:00:</p>
+
+<p>100%大阅兵，而且除了照旧的天安门前陆军和空军外，海军应该会有史无前例的阅兵，即展现这几年的海军大跨越的成果，也为接下来的台海造势。收复台湾和上层改革是xi的最大追求之二。</p>
+
+<p>（60周年阅兵，海军的确有，但规模很小）</p>
+
+<h3 id="67-i-like-reddit-better-in-my-phone-than-on-my-computer-am-i-alone-in-this-one-submitted-on-2019-03-09-1054240800">67: <a href="https://old.reddit.com/r/TooAfraidToAsk/comments/ayytdy/i_like_reddit_better_in_my_phone_than_on_my/">I like Reddit better in my phone than on my computer, am I alone in this one?</a>, submitted on 2019-03-09 10:54:24+08:00.</h3>
+
+<p>—– <strong>67.1</strong> —–2019-03-09 23:38:13+08:00:</p>
+
+<p>It really depends. I use Reddit app, Apollo in phone and iPad, plus the pc browser.</p>
+
+<p>They all have good designs. But pc is good for typing a long passage especially if you have to do some research.</p>
+
+<h3 id="68-whats-wrong-with-chinese-hospitals-submitted-on-2019-03-09-1123570800">68: <a href="https://old.reddit.com/r/China/comments/ayz2nc/whats_wrong_with_chinese_hospitals/">What’s wrong with chinese hospitals?</a>, submitted on 2019-03-09 11:23:57+08:00.</h3>
+
+<p>—– <strong>68.1</strong> —–2019-03-10 22:06:01+08:00:</p>
+
+<p>TCM is really common in Chinese life, lots of us prefer TCM in some cases such as skin problems. When I was a boy, I had TCM for fever cure.</p>
+
+<p>I don’t buy the conspiracy and negative comments here. Simple. Just ask the doctor give you western medicine next time.</p>
+
+<h3 id="69-writing-prompt-你为什么决定了学中文-submitted-on-2019-03-09-1228370800">69: <a href="https://old.reddit.com/r/ChineseLanguage/comments/ayzmho/writing_prompt_你为什么决定了学中文/">Writing Prompt: 你为什么决定了学中文？</a>, submitted on 2019-03-09 12:28:37+08:00.</h3>
+
+<p>—– <strong>69.1</strong> —–2019-03-10 22:22:46+08:00:</p>
+
+<p>听闻阿拉伯文也很难</p>
+
+<h3 id="70-partly-sunny-day-in-shanghai-yesterday-submitted-on-2019-03-09-1759040800">70: <a href="https://old.reddit.com/r/China/comments/az1yuh/partly_sunny_day_in_shanghai_yesterday/">Partly sunny day in Shanghai yesterday</a>, submitted on 2019-03-09 17:59:04+08:00.</h3>
+
+<p>—– <strong>70.1</strong> —–2019-03-10 01:48:29+08:00:</p>
+
+<p>What about New York</p>
+
+<h3 id="71-italy-signs-up-for-belt-and-road-infrastructure-summit-in-china-submitted-on-2019-03-09-1816400800">71: <a href="https://old.reddit.com/r/europe/comments/az233a/italy_signs_up_for_belt_and_road_infrastructure/">Italy signs up for belt and road infrastructure summit in China</a>, submitted on 2019-03-09 18:16:40+08:00.</h3>
+
+<p>—– <strong>71.1</strong> —–2019-03-10 06:37:27+08:00:</p>
+
+<p>LOL don’t forget that nearly all the major countries in Eupore, including UK, France, and Germany, are covered by <a href="https://www.wikiwand.com/en/Belt_and_Road_Initiative#/Europe">OBOR</a> and are the members of <a href="https://www.wikiwand.com/en/Asian_Infrastructure_Investment_Bank#/Members">Asian Infrastructure Investment Bank</a> which is highly related to OBOR.</p>
+
+<h3 id="72-what-is-life-in-china-like-for-a-non-chinese-speaker-submitted-on-2019-03-09-2030240800">72: <a href="https://old.reddit.com/r/China/comments/az317c/what_is_life_in_china_like_for_a_nonchinese/">What is life in China like for a non-Chinese speaker?</a>, submitted on 2019-03-09 20:30:24+08:00.</h3>
+
+<p>—– <strong>72.1</strong> —–2019-03-10 08:13:07+08:00:</p>
+
+<p>这句话到底什么意思？</p>
+
+<p>—– <strong>72.2</strong> —–2019-03-10 13:26:37+08:00:</p>
+
+<p>lol why are you using booking? What about the local counterparts such as Xiecheng and  Quna’er, they may have more accurate info (I guess?)</p>
+
+<p>—– <strong>72.3</strong> —–2019-03-10 13:57:12+08:00:</p>
+
+<p>It makes sense. But I personally use all of them (Xiecheng, Quna’er, Booking, Google etc.) no matter I am in China or the states though all of them cover the major global areas. You may find the different information on both Apps and comments, especially if you go to the unusual-for-foreigner parts and sometimes the price may be different too (coupons, promotion, cooperation, etc).</p>
+
+<h3 id="73-键委的键写错了-submitted-on-2019-03-09-2346510800">73: <a href="https://old.reddit.com/r/China_irl/comments/az4r0c/键委的键写错了/">键委的键写错了！</a>, submitted on 2019-03-09 23:46:51+08:00.</h3>
+
+<p>—– <strong>73.1</strong> —–2019-03-10 10:06:20+08:00:</p>
+
+<p>请问“键委”有何含义？</p>
+
+<h3 id="74-每日新闻-39-这是华盛顿寄来的炮弹-麻烦签收一下-submitted-on-2019-03-10-0016130800">74: <a href="https://old.reddit.com/r/China_irl/comments/az51iu/每日新闻_39_这是华盛顿寄来的炮弹_麻烦签收一下/">[每日新闻] 3/9 这是华盛顿寄来的炮弹, 麻烦签收一下</a>, submitted on 2019-03-10 00:16:13+08:00.</h3>
+
+<p>—– <strong>74.1</strong> —–2019-03-10 23:14:44+08:00:</p>
+
+<p>作为eu一哥的德国早就跟俄国眉来眼去好久了</p>
+
+<h3 id="75-习总书记的博士论文大家看过吗各位觉得水平高不高-submitted-on-2019-03-10-0357230800">75: <a href="https://old.reddit.com/r/China_irl/comments/az7e03/习总书记的博士论文大家看过吗各位觉得水平高不高/">习总书记的博士论文大家看过吗？各位觉得水平高不高？</a>, submitted on 2019-03-10 03:57:23+08:00.</h3>
+
+<p>—– <strong>75.1</strong> —–2019-03-10 14:45:15+08:00:</p>
+
+<p>这就厉害了？</p>
+
+<p>—– <strong>75.2</strong> —–2019-03-10 21:36:25+08:00:</p>
+
+<p>我知道.</p>
+
+<h3 id="76-my-mother-in-vietnam-1980s-submitted-on-2019-03-10-0518220800">76: <a href="https://old.reddit.com/r/OldSchoolCool/comments/az88az/my_mother_in_vietnam_1980s/">My mother in Vietnam. 1980s</a>, submitted on 2019-03-10 05:18:22+08:00.</h3>
+
+<p>—– <strong>76.1</strong> —–2019-03-10 13:11:21+08:00:</p>
+
+<p>After seeing your comment, I just check all the comments below which I don’t always do that.</p>
+
+<p>I come back and say, poor OP….</p>
+
+<h3 id="77-stairs-are-enemies-of-the-state-submitted-on-2019-03-10-0526480800">77: <a href="https://old.reddit.com/r/China/comments/az8bge/stairs_are_enemies_of_the_state/">Stairs are enemies of the state</a>, submitted on 2019-03-10 05:26:48+08:00.</h3>
+
+<p>—– <strong>77.1</strong> —–2019-03-10 10:04:50+08:00:</p>
+
+<p>Kill twice</p>
+
+<h3 id="78-shh-the-car-fire-is-sleepy-submitted-on-2019-03-10-0738240800">78: <a href="https://old.reddit.com/r/BeAmazed/comments/az9msl/shh_the_car_fire_is_sleepy/">Shh, the car fire is sleepy</a>, submitted on 2019-03-10 07:38:24+08:00.</h3>
+
+<p>—– <strong>78.1</strong> —–2019-03-10 13:13:30+08:00:</p>
+
+<p>Then the people there will die too…</p>
+
+<p>—– <strong>78.2</strong> —–2019-03-10 14:38:54+08:00:</p>
+
+<p>Conservative troll?</p>
+
+<h3 id="79-top-chinese-officials-plagiarised-university-theses-submitted-on-2019-03-10-0945530800">79: <a href="https://old.reddit.com/r/China/comments/azas5q/top_chinese_officials_plagiarised_university/">Top Chinese officials plagiarised university theses</a>, submitted on 2019-03-10 09:45:53+08:00.</h3>
+
+<p>—– <strong>79.1</strong> —–2019-03-10 12:37:55+08:00:</p>
+
+<p>One reason is that  the high ranked leaders know that they will pass it w/o any doubt, while the students face the risk of losing their degrees.</p>
+
+<p>—– <strong>79.2</strong> —–2019-03-10 12:42:11+08:00:</p>
+
+<p>Here is <a href="https://qiwen.lu/uploads/xilunwen.pdf">Xi’s PhD paper</a> if you are interested.</p>
+
+<p>The title and abstract are in English.</p>
+
+<p>Edit: I’m not sure about the case of Xi, but Jiang and Hu ‘s STEM PhD papers should be real because they are not the ones from red families and were accepted formally by the uni.</p>
+
+<p>—– <strong>79.3</strong> —–2019-03-10 13:15:36+08:00:</p>
+
+<p>I would upvote you if that’s a satire and downvote you if you truely believe it.</p>
+
+<p>—– <strong>79.4</strong> —–2019-03-10 14:31:25+08:00:</p>
+
+<p>The most funny thing is that, he wanted to cover a huge field, something likes <em>The development of Politics, Economics, Culture, and Society in Chinese Socialism</em> (roughly) and his advisor prevented him from doing it.</p>
+
+<p>Again, I don’t know how good his paper is since I didn’t read it carefully. But technically speaking, for a governer of a province, he may has read lots of materials in this field and has first hand information to finish his paper.</p>
+
+<p>—– <strong>79.5</strong> —–2019-03-10 14:38:24+08:00:</p>
+
+<p>Harvard Graduate is not that hard tho. (comparatively)</p>
+
+<p>—– <strong>79.6</strong> —–2019-03-10 14:55:25+08:00:</p>
+
+<p>Yes, market promotion is a key here.</p>
+
+<p>Curious, are they Chinese or non-chinese from Harvard?</p>
+
+<p>To be fair, lots of students even from Harvard are end in average middle class in the long term, including midlife crisis, it’s not that special.</p>
+
+<p>—– <strong>79.7</strong> —–2019-03-11 00:32:01+08:00:</p>
+
+<p>Every paper written in Chinese will provide an English abstract for international communication, so as my undergraduate thesis. For example, if you go to search the papers, you can at least know whether this paper is helpful to your field.</p>
+
+<h3 id="80-this-picture-of-a-british-reporter-being-denied-to-speak-at-a-meeting-during-one-of-the-meetings-of-the-cppcc-lianghui两会-was-published-by-the-national-media-cctv-as-a-propaganda-picture-of-demonstrating-freedom-of-speech-in-mainland-china-submitted-on-2019-03-10-1038300800">80: <a href="https://old.reddit.com/r/China/comments/azb83w/this_picture_of_a_british_reporter_being_denied/">This picture of a British reporter being denied to speak at a meeting during one of the meetings of the CPPCC (Lianghui/两会) was published by the national media CCTV as a propaganda picture of demonstrating “freedom of speech” in mainland China.</a>, submitted on 2019-03-10 10:38:30+08:00.</h3>
+
+<p>—– <strong>80.1</strong> —–2019-03-10 22:31:13+08:00:</p>
+
+<p>Different Wang tho.</p>
+
+<p>Wang Yi 王毅 Wang Yang 汪洋</p>
+
+<p>I just wrote them here to let others know.</p>
+
+<p>—– <strong>80.2</strong> —–2019-03-10 22:35:02+08:00:</p>
+
+<p>Ah, I miss the big boss…</p>
+
+<h3 id="81-this-is-killing-twice-submitted-on-2019-03-10-1346410800">81: <a href="https://old.reddit.com/r/China/comments/azcqd8/this_is_killing_twice/">This is killing… Twice</a>, submitted on 2019-03-10 13:46:41+08:00.</h3>
+
+<p>—– <strong>81.1</strong> —–2019-03-10 21:42:18+08:00:</p>
+
+<p>Real.</p>
+
+<h3 id="82-how-to-decide-on-surname-in-chinese-submitted-on-2019-03-10-1420140800">82: <a href="https://old.reddit.com/r/ChineseLanguage/comments/azcyu3/how_to_decide_on_surname_in_chinese/">How to decide on surname in Chinese</a>, submitted on 2019-03-10 14:20:14+08:00.</h3>
+
+<p>—– <strong>82.1</strong> —–2019-03-11 10:25:29+08:00:</p>
+
+<p>八宝山 (it’s a joke)</p>
+
+<h3 id="83-hello-there-does-anyone-know-which-birds-are-represented-in-this-character-its-from-yunnan-my-guess-would-be-a-crane-and-a-heron-but-its-just-a-guess-thanks-in-advance-submitted-on-2019-03-10-2214240800">83: <a href="https://old.reddit.com/r/China/comments/azg0t4/hello_there_does_anyone_know_which_birds_are/">Hello there, does anyone know which birds are represented in this character? It’s from Yunnan. My guess would be a crane and a Heron. But it’s just a guess. Thanks in advance</a>, submitted on 2019-03-10 22:14:24+08:00.</h3>
+
+<p>—– <strong>83.1</strong> —–2019-03-10 22:39:18+08:00:</p>
+
+<p>They shaped the birds to build the Chinese character “fortune” (福) here</p>
+
+<p>So I don’t think it can be speculated based on the shape</p>
+
+<p>—– <strong>83.2</strong> —–2019-03-10 23:11:30+08:00:</p>
+
+<p>Crane is a good guess. Considering the long peck in the pic and the important role of crane in Chinese culture</p>
+
+<h3 id="84-每日新闻-310-737max又摔了-submitted-on-2019-03-10-2324560800">84: <a href="https://old.reddit.com/r/China_irl/comments/azgoof/每日新闻_310_737max又摔了/">[每日新闻] 3/10 737MAX又摔了</a>, submitted on 2019-03-10 23:24:56+08:00.</h3>
+
+<p>—– <strong>84.1</strong> —–2019-03-11 01:35:33+08:00:</p>
+
+<p>清淡</p>
+
+<p>—– <strong>84.2</strong> —–2019-03-11 06:42:13+08:00:</p>
+
+<p>我个人觉得“清淡”是相对的吧，你说得也没错。但东亚地区都是这个搭配的，跟韩国的泡菜和中国的重油（部分）重辣相比，日本很好了。就问你个问题，你觉得吃一顿日餐和中餐比，哪个摄入的酱料、脂肪等更加多？至于西方，红肉先不说，起码含糖量远远超标。</p>
+
+<h3 id="85-africans-were-just-as-complicit-in-the-slave-trade-as-europeans-and-should-share-the-blame-submitted-on-2019-03-10-2348520800">85: <a href="https://old.reddit.com/r/unpopularopinion/comments/azgx91/africans_were_just_as_complicit_in_the_slave/">Africans were just as complicit in the slave trade as Europeans and should share the blame.</a>, submitted on 2019-03-10 23:48:52+08:00.</h3>
+
+<p>—– <strong>85.1</strong> —–2019-03-11 05:49:18+08:00:</p>
+
+<p>Although I’m Chinese (non-White), I stand with you here. When we were in the schools, the teachers always blame everything to the western imperialism and colonialism.</p>
+
+<p>But now, the more I learnt, the more I know that history is complicated and it’s wrong to put all the things to one side being accountable.</p>
+
+<p>So as the black slavery history. So as the Chinese Century of Humiliation. So as others.</p>
+
+
+  </div>
+
+  <hr style="border-top:1px solid #28323C;"/>
+
+<font size=2px>
+  文章版权归原作者所有。
+</font>
+
+<div style="text-align:center"><img width="1px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站" style="text-align:center"/></div>
+
+  <div id="sametag">
+    <h4 style="display: inline-block;">#Reddit 的其它文章</h4>
+    <span>--<a href="https://nodebe4.github.io/opinion/2021-04-24/Spinkcat/">最新</a>-</span>
+    <span>-<a href="https://nodebe4.github.io/opinion/2018-10-17/Yvan888/">最早</a>--</span>
+    
+      <li>
+        <time>2019-03-18</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-18/Yvan888/">
+          Yvan888在2019-03-18~2019-03-24的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-03-11</time>
+        <a href="https://nodebe4.github.io/opinion/2019-03-11/Yvan888/">
+          Yvan888在2019-03-11~2019-03-17的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2019-02-26/Yvan888/">
+          Yvan888在2019-02-25~2019-03-03的言论
+        </a>
+      </li>
+    
+    
+      <li>
+        <time>2019-02-26</time>
+        <a href="https://nodebe4.github.io/opinion/2019-02-26/Spinkcat/">
+          Spinkcat在2019-02-25~2019-03-03的言论
+        </a>
+      </li>
+    
+  </div>
+
+
+  <hr>
+  <div class="pagination">
+    
+      <span class="prev" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-03/%E6%8F%B4%E8%97%8F%E5%9B%A2%E4%BD%93%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%E6%94%AF%E6%8C%81%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%BF%87-%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E6%9D%83%E6%94%BF%E7%AD%96%E6%B3%95%E6%A1%88/">
+            前一篇：援藏团体发表声明支持美国通过“维吾尔人权政策法案”
+          </a>
+      </span>
+    
+    
+      <span class="next" >
+          <a href="https://nodebe4.github.io/opinion/2019-03-04/%E4%B8%AD%E5%9B%BD%E6%88%98%E7%95%A5%E5%88%86%E6%9E%90-%E7%AC%AC%E5%8D%81%E6%9C%9F%E7%9B%AE%E5%BD%95/">
+            後一篇：中国战略分析 第十期目录
+          </a>
+      </span>
+    
+
+    <script>
+    /* post pagination keyboard shortcuts */
+    document.body.onkeyup = function(e){
+      if (e.keyCode == '37') { window.location = 'https://nodebe4.github.io/opinion/2019-03-03/%E6%8F%B4%E8%97%8F%E5%9B%A2%E4%BD%93%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%E6%94%AF%E6%8C%81%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%BF%87-%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E6%9D%83%E6%94%BF%E7%AD%96%E6%B3%95%E6%A1%88/'; } // left arrow key
+      if (e.keyCode == '39') { window.location = 'https://nodebe4.github.io/opinion/2019-03-04/%E4%B8%AD%E5%9B%BD%E6%88%98%E7%95%A5%E5%88%86%E6%9E%90-%E7%AC%AC%E5%8D%81%E6%9C%9F%E7%9B%AE%E5%BD%95/'; } // right arrow key
+      if (e.keyCode == '45') { window.location = 'https://nodebe4.github.io/opinion/2019-03-11/Yvan888/'; } // insert key
+      if (e.keyCode == '46') { window.location = 'https://nodebe4.github.io/opinion/2019-02-26/Yvan888/'; } // delete key
+    };
+    </script>
+    <link rel="stylesheet" type="text/css" href="/opinion/assets/css/fab.css" />
+
+<div class="fab-wrapper">
+  <div class="fab-wheel">
+    
+    
+    
+    <a class="fab-action fab-action-1" title="上一篇(热键 &#8594;)" href="https://nodebe4.github.io/opinion/2019-03-03/%E6%8F%B4%E8%97%8F%E5%9B%A2%E4%BD%93%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%E6%94%AF%E6%8C%81%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%BF%87-%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E6%9D%83%E6%94%BF%E7%AD%96%E6%B3%95%E6%A1%88/">
+      <i>后</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-2" title="下一篇(热键 &#8592;)" href="https://nodebe4.github.io/opinion/2019-03-04/%E4%B8%AD%E5%9B%BD%E6%88%98%E7%95%A5%E5%88%86%E6%9E%90-%E7%AC%AC%E5%8D%81%E6%9C%9F%E7%9B%AE%E5%BD%95/">
+      <i>前</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-3" title="<Reddit>上一篇(热键 ins)" href="https://nodebe4.github.io/opinion/2019-03-11/Yvan888/">
+      <i>左</i>
+    </a>
+    
+    
+    <a class="fab-action fab-action-4" title="<Reddit>下一篇(热键 del)" href="https://nodebe4.github.io/opinion/2019-02-26/Yvan888/">
+      <i>右</i>
+    </a>
+    
+  </div>
+</div>
+
+
+  </div>
+
+
+  
+
+</article>
+
+    </div>
+
+    <div style="z-index:2;">
+<script src="/opinion/assets/js/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  cornerOffset: 20, // px
+  id: 'back-to-top',
+  backgroundColor: '#ddd',
+  textColor: 'red'
+})</script>
+</div>
+
+
+    <div class="wrapper-footer" id="footer">
+      <div class="container">
+        <footer class="footer">
+          <img width="200px" src="https://i.imgur.com/HSw56Ez.png" alt="二维码分享本站"/>
+<font size=2px>二维码分享本站</font>
+
+<!-- Refer to https://codepen.io/ruandre/pen/howFi -->
+<ul class="svg-icon">
+
+  
+
+  
+
+  
+  <li><a href="mailto:beauti4@protonmail.com" class="icon-8 email" title="Email"><svg viewBox="0 0 512 512"><path d="M101.3 141.6v228.9h0.3 308.4 0.8V141.6H101.3zM375.7 167.8l-119.7 91.5 -119.6-91.5H375.7zM127.6 194.1l64.1 49.1 -64.1 64.1V194.1zM127.8 344.2l84.9-84.9 43.2 33.1 43-32.9 84.7 84.7L127.8 344.2 127.8 344.2zM384.4 307.8l-64.4-64.4 64.4-49.3V307.8z"/></svg><!--[if lt IE 9]><em>Email</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+  <li><a href="https://github.com/NodeBE4/opinion" class="icon-13 github" title="GitHub"><svg viewBox="0 0 512 512"><path d="M256 70.7c-102.6 0-185.9 83.2-185.9 185.9 0 82.1 53.3 151.8 127.1 176.4 9.3 1.7 12.3-4 12.3-8.9V389.4c-51.7 11.3-62.5-21.9-62.5-21.9 -8.4-21.5-20.6-27.2-20.6-27.2 -16.9-11.5 1.3-11.3 1.3-11.3 18.7 1.3 28.5 19.2 28.5 19.2 16.6 28.4 43.5 20.2 54.1 15.4 1.7-12 6.5-20.2 11.8-24.9 -41.3-4.7-84.7-20.6-84.7-91.9 0-20.3 7.3-36.9 19.2-49.9 -1.9-4.7-8.3-23.6 1.8-49.2 0 0 15.6-5 51.1 19.1 14.8-4.1 30.7-6.2 46.5-6.3 15.8 0.1 31.7 2.1 46.6 6.3 35.5-24 51.1-19.1 51.1-19.1 10.1 25.6 3.8 44.5 1.8 49.2 11.9 13 19.1 29.6 19.1 49.9 0 71.4-43.5 87.1-84.9 91.7 6.7 5.8 12.8 17.1 12.8 34.4 0 24.9 0 44.9 0 51 0 4.9 3 10.7 12.4 8.9 73.8-24.6 127-94.3 127-176.4C441.9 153.9 358.6 70.7 256 70.7z"/></svg><!--[if lt IE 9]><em>GitHub</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  <li><a href="/opinion/feed.xml" class="icon-21 rss" title="RSS"><svg viewBox="0 0 512 512"><path d="M201.8 347.2c0 20.3-16.5 36.8-36.8 36.8 -20.3 0-36.8-16.5-36.8-36.8s16.5-36.8 36.8-36.8C185.3 310.4 201.8 326.8 201.8 347.2zM128.2 204.7v54.5c68.5 0.7 124 56.3 124.7 124.7h54.5C306.7 285.3 226.9 205.4 128.2 204.7zM128.2 166.6c57.9 0.3 112.3 22.9 153.2 63.9 41 41 63.7 95.5 63.9 153.5h54.5c-0.3-149.9-121.7-271.4-271.6-271.9V166.6L128.2 166.6z"/></svg><!--[if lt IE 9]><em>RSS</em><![endif]--></a></li>
+  
+
+  
+
+  
+
+  
+
+  
+
+    
+</ul>
+
+
+
+
+
+<p><span style="color:blue">内容每小时更新一次.</span> Powered by <a href="https://github.com/AWEEKJ/kiko-now">Kiko Now</a> & <a href="https://github.com/gitalk/gitalk">Gitalk</a> & <a href="https://github.com/duty-machine/news">duty-machine</a>, 站务 <a href="https://be4.herokuapp.com">NodeBE4</a>（<span style="color:red">被墙</span>）</p>
+
+
+        </footer>
+      </div>
+    </div>
+
+    
+
+
+
+  </body>
+</html>
