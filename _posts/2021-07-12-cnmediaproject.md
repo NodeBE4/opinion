@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-16
+date: 2021-07-17
 from: https://twitter.com/SPCmonitor/status/1414366447271223299
 layout: post
 tags:
@@ -71,39 +71,47 @@ RT Ananth Krishnan<br>India's trade with China 1st half 2021 breaking all reco
 
 Fudan's Storm in Budapest: Plans by Shanghai's top University for a campus in Budapest meet staunch local opposition. What lessons will Fudan's efforts in Hungary will have for the global future of Chinese higher education? By Fülöp Zsófia @initiumnews. <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6LrMoWWUAM_G_c?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 15: [2021-07-14 14:03:04+08:00 推文](https://twitter.com/cnmediaproject/status/1415190088313675776)
+### 15: [2021-07-14 00:27:35+08:00 推文](https://twitter.com/HollySnapeWang/status/1414984865997627393)
+
+RT Holly Snape<br>The party's been beefing up its internal monitoring system for a while now. In June it released a new quasi-policy on the 一把手s (some of the most powerful people in the system). <br><br>Thanks to @niubi I was able to write about it for Sinocism <a href="https://sinocism.com/p/watching-the-number-ones-the-centres?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/watching-the-number-ones-the-centres?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter</a>
+
+### 16: [2021-07-14 14:03:04+08:00 推文](https://twitter.com/cnmediaproject/status/1415190088313675776)
 
 CMP is proud to be working with Initium News @initiumnews to highlight strong reporting on China. Here is our first by reporter Fülöp Zsófia on Fudan University's controversial planned Budapest campus. <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6PD0cAXEAA001z?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 16: [2021-07-14 20:25:06+08:00 推文](https://twitter.com/iandenisjohnson/status/1415286228077973506)
+### 17: [2021-07-14 20:25:06+08:00 推文](https://twitter.com/iandenisjohnson/status/1415286228077973506)
 
 RT Ian Johnson<br>How China's LGBTQ+ clubs and nonprofits got pulled into a nationalist frenzy. @shenlulushen writing in @protocol <a href="https://www.protocol.com/china/china-wechat-delete-lgbt-accounts" target="_blank" rel="noopener noreferrer">https://www.protocol.com/china/china-wechat-delete-lgbt-accounts</a>
 
-### 17: [2021-07-14 21:12:46+08:00 推文](https://twitter.com/MariaRepnikova/status/1415298223829356545)
+### 18: [2021-07-14 21:12:46+08:00 推文](https://twitter.com/MariaRepnikova/status/1415298223829356545)
 
 RT Maria Repnikova<br>There is a lot of talk about #China exporting its #model. I try to present an empirical slice on this topic in the interview with @jessicacweiss for @monkeycageblog. When we examine what is taught and how it is perceived, export is far from the story. <a href="https://www.washingtonpost.com/politics/2021/07/14/does-china-actively-promote-its-way-governing-do-other-countries-listen/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/politics/2021/07/14/does-china-actively-promote-its-way-governing-do-other-countries-listen/</a>
 
-### 18: [2021-07-14 22:43:59+08:00 推文](https://twitter.com/thorstenbenner/status/1415321180442087425)
+### 19: [2021-07-14 22:43:59+08:00 推文](https://twitter.com/thorstenbenner/status/1415321180442087425)
 
 RT Thorsten Benner<br>Ten years ago, Obama anointed Merkel as European standard-bearer for freedom at state dinner.<br>Today, Merkel arrives in DC as nemesis of Biden’s China policy. <br>My @ForeignPolicy piece on doom & gloom at heart of Merkel's accomodationist China policy. <a href="https://foreignpolicy.com/2021/07/14/the-undeniable-pessimism-of-angela-merkels-worldview/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2021/07/14/the-undeniable-pessimism-of-angela-merkels-worldview/</a>
 
-### 19: [2021-07-15 11:03:23+08:00 推文](https://twitter.com/ZichenWanghere/status/1415507257354186758)
+### 20: [2021-07-15 11:03:23+08:00 推文](https://twitter.com/ZichenWanghere/status/1415507257354186758)
 
 RT Zichen Wang<br>a lively discussion on China's international communication at @CCG_org Center for China and Globalization led by @HuiyaoWang  on Wednesday <br>with apparently many sharp minds.<br><br>a summary of the opinions, in Mandarin <a href="https://mp.weixin.qq.com/s/7Yflp6wj89vDTXE0ORvHQg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/7Yflp6wj89vDTXE0ORvHQg</a><br><img style src="https://pbs.twimg.com/media/E6TkCiOVcAMgDAa?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 20: [2021-07-15 13:01:44+08:00 推文](https://twitter.com/SPCmonitor/status/1415537038506430466)
+### 21: [2021-07-15 13:01:44+08:00 推文](https://twitter.com/SPCmonitor/status/1415537038506430466)
 
 RT Susan Finder<br>Re @ZichenWanghere @CCG_org @HuiyaoWang But no one there from the audience for China's international communication....
 
-### 21: [2021-07-15 21:21:29+08:00 推文](https://twitter.com/cnmediaproject/status/1415662807257780228)
+### 22: [2021-07-15 21:21:29+08:00 推文](https://twitter.com/cnmediaproject/status/1415662807257780228)
 
 Plans by Shanghai's Fudan University for an international campus in Budapest have met with strong local opposition. What does this mean for the global future of Chinese higher education? Our story from @initiumnews and Fülöp Zsófia <a href="https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/13/fudans-storm-in-budapest/</a><br><img style src="https://pbs.twimg.com/media/E6VxwINVEAg06_-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 22: [2021-07-16 06:21:34+08:00 推文](https://twitter.com/KaiserKuo/status/1415798723410595840)
+### 23: [2021-07-16 06:21:34+08:00 推文](https://twitter.com/KaiserKuo/status/1415798723410595840)
 
 RT Kaiser Kuo<br>We now include transcripts of each new episode of the @SinicaPodcast. Here's the one for the latest show, featuring @jessicacweiss and @TomPepinsky of Cornell talking about their latest essay in @ForeignAffairs. <a href="https://supchina.com/2021/07/15/why-u-s-should-avoid-ideological-competition-with-china/" target="_blank" rel="noopener noreferrer">https://supchina.com/2021/07/15/why-u-s-should-avoid-ideological-competition-with-china/</a>
 
-### 23: [2021-07-16 22:23:17+08:00 推文](https://twitter.com/cnmediaproject/status/1416040747371991042)
+### 24: [2021-07-16 22:23:17+08:00 推文](https://twitter.com/cnmediaproject/status/1416040747371991042)
 
 The views put forth by a range of Chinese scholars at a recent discussion forum in Beijing hosted by the Center on China and Globalization offer a glimpse into strategic discussions of public diplomacy and propaganda in the country's think-tank sector. <a href="https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/</a><br><img style src="https://pbs.twimg.com/media/E6bJguVX0AYDRWM?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-07-17 02:02:31+08:00 推文](https://twitter.com/nytimes/status/1416095917309050886)
+
+RT The New York Times<br>Ida B. Wells, an investigative reporter who exposed the systematic lynching of black men in the South, was born 159 years ago today. She was considered the most famous Black woman in the U.S.<br><br>Her obituary is part of our Overlooked series. <a href="https://nyti.ms/36KijCd" target="_blank" rel="noopener noreferrer">https://nyti.ms/36KijCd</a>
 
