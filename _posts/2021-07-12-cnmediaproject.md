@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-17
+date: 2021-07-18
 from: https://twitter.com/SPCmonitor/status/1414366447271223299
 layout: post
 tags:
@@ -118,4 +118,20 @@ The views put forth by a range of Chinese scholars at a recent discussion forum 
 ### 26: [2021-07-17 02:02:31+08:00 推文](https://twitter.com/nytimes/status/1416095917309050886)
 
 RT The New York Times<br>Ida B. Wells, an investigative reporter who exposed the systematic lynching of black men in the South, was born 159 years ago today. She was considered the most famous Black woman in the U.S.<br><br>Her obituary is part of our Overlooked series. <a href="https://nyti.ms/36KijCd" target="_blank" rel="noopener noreferrer">https://nyti.ms/36KijCd</a>
+
+### 27: [2021-07-17 15:07:57+08:00 推文](https://twitter.com/lingli_vienna/status/1416293579799019521)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Chief enforcement official of PRC Supreme Court (SPC) Meng Xiang 孟祥 is under corruption investigation. <br><br>Meng, 56, spent 36 years in the judiciary. He held leader positions in Beijing High Court, 2nd intermediate court and a district court before being promoted to the SPC.<br><br>Susan Finder: head of the Supreme People's Court's enforcement bureau under investigation for violations of Pty discipline & law, 最高人民法院党组召开会议 坚决拥护对孟祥涉嫌严重违纪违法进行纪律审查和监察调查<br> <a href="https://mp.weixin.qq.com/s/EopfKMmA4DTWfJ_Wh0gy3A" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/EopfKMmA4DTWfJ_Wh0gy3A</a>
+
+### 28: [2021-07-17 23:29:42+08:00 推文](https://twitter.com/CarlMinzner/status/1416419849312505864)
+
+RT Carl Minzner<br>Yet another day in which Xi Jinping's name is in the headline of *every* single story on the front page of China's top Party paper.  <br><br>Signals couldn't be clearer as to where the power lies. <a href="http://paper.people.com.cn/rmrb/html/2021-07/17/nw.D110000renmrb_20210717_5-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-07/17/nw.D110000renmrb_20210717_5-01.htm</a><br><img style src="https://pbs.twimg.com/media/E6giVbXVcAcmZ-1?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2021-07-18 02:16:04+08:00 推文](https://twitter.com/cnmediaproject/status/1416461718583226369)
+
+Re @MattCKnight @MareikeOhlberg This total fail video is a superb example of what one scholar at a recent forum on ext. propaganda called 外宣内宣化 “mirroring internal propaganda in external propaganda" <a href="https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narrativesn/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narrativesn/</a>
+
+### 30: [2021-07-18 02:34:30+08:00 推文](https://twitter.com/cnmediaproject/status/1416466357370171392)
+
+Re @MattCKnight @MareikeOhlberg Oops. Here's the correct link. <a href="https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/16/seeking-chinas-new-narratives/</a>
 
