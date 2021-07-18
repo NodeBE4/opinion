@@ -147,3 +147,15 @@ Re @jefflee81258649 请把我这句话后面的翻译完整。
 
 丁家喜被中共当局非法拘禁，丁家喜热心社会公益事业，努力促进中国宪政民主无罪。<br><br>中国人权律师团: 丁家喜没有犯罪事实，相反其在案言行系模范遵守宪法和法律，履行公民责任，关心社会公益，促推国家发展、社会进步和政府廉洁勤政的义举，当依法对其作出不起诉的审查起诉决定。<br>中国人权律师团: ▲黎雄兵律师：会见丁家喜<br><br><img style src="https://pbs.twimg.com/media/E6igrAHXoAElMlJ?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://humanrightslawyerscn.blogspot.com/2021/07/blog-post_53.html?spref=tw" target="_blank" rel="noopener noreferrer">https://humanrightslawyerscn.blogspot.com/2021/07/blog-post_53.html?spref=tw</a>
 
+### 34: [2021-07-18 22:06:47+08:00 推文](https://twitter.com/realcaixia/status/1416761370465406978)
+
+香港反修例运动纪录片《时代革命》震撼戛纳电影节 <a href="https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20210716-%E9%A6%99%E6%B8%AF%E5%8F%8D%E4%BF%AE%E4%BE%8B%E8%BF%90%E5%8A%A8%E7%BA%AA%E5%BD%95%E7%89%87-%E6%97%B6%E4%BB%A3%E9%9D%A9%E5%91%BD-%E9%9C%87%E6%92%BC%E6%88%9B%E7%BA%B3%E7%94%B5%E5%BD%B1%E8%8A%82" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20210716-%E9%A6%99%E6%B8%AF%E5%8F%8D%E4%BF%AE%E4%BE%8B%E8%BF%90%E5%8A%A8%E7%BA%AA%E5%BD%95%E7%89%87-%E6%97%B6%E4%BB%A3%E9%9D%A9%E5%91%BD-%E9%9C%87%E6%92%BC%E6%88%9B%E7%BA%B3%E7%94%B5%E5%BD%B1%E8%8A%82</a>
+
+### 35: [2021-07-18 22:07:54+08:00 推文](https://twitter.com/realcaixia/status/1416761652167561219)
+
+不惧中国 戛纳影展加映香港反送中纪录片《时代革命》 <a href="https://www.rfa.org/mandarin/yataibaodao/gangtai/cl-07162021141636.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/gangtai/cl-07162021141636.html</a>
+
+### 36: [2021-07-18 23:08:43+08:00 推文](https://twitter.com/realcaixia/status/1416776955337363461)
+
+孙大午案庭审第四天。这里的字很小，请网友们细细放大了看，魔鬼藏在细节里。<br><br>鲁  难: 孙大午案庭审第四天直击。<br><br><img style src="https://pbs.twimg.com/media/E6lkleKX0AA3hQy?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6lkleLXoAE03PF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6lkleIWQAsC2ll?format=jpg&name=orig" referrerpolicy="no-referrer">
+
