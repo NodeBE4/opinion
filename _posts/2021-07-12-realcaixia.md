@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-16
+date: 2021-07-18
 from: https://twitter.com/realcaixia/status/1414611360567242752
 layout: post
 tags:
@@ -102,4 +102,48 @@ Re @jefflee81258649 请把我这句话后面的翻译完整。
 ### 22: [2021-07-16 22:38:16+08:00 推文](https://twitter.com/realcaixia/status/1416044517850030080)
 
 一切投⬆️所好！武大郎掌权，上面啥口味，全大陆就得咽下啥口味。君不见百年党庆天安门广场“江青绿”、“毛氏服”、“北韩方阵”，与这队服同一格调？或许清华设计人，一半奉迎上意，一半出于无奈吧？他们是代受过还是活该，只有他们自己知道。屈从于淫威，追荣华富贵，还想鸡犬升天的，自己先就自贬了不是人<br><br>荣剑: 上一届奥运会，国家队服被调侃为是西红柿炒鸡蛋，这回是青花瓷，据说是清华大学设计的，怎么样？<br><br><img style src="https://pbs.twimg.com/media/E6Q0b_5UcAM_OYi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6Q0cN2UYAIM7fa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6Q0cdjVUAA3S30?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6Q0csJVoAEYE1u?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-07-18 07:21:36+08:00 推文](https://twitter.com/realcaixia/status/1416538607385460741)
+
+中共的监视居住实质是人权迫害，从孙大午案庭审中的大量情况可以看到，中共实施的“酷刑”，早已超出了人们以往“皮开肉绽、血肉模糊、断骨残肢”的理解范围，中共的酷刑包括摧残人的神经系统、摧毁人的正常心理精神、摧残剥夺人格尊严。<br><br>韩连潮: （一）孙大午案件第三天庭审，庭审暴露中共司法机关种种人权迫害，令人发指。<br>1，监视居住房间24小时高亮度灯光照射，没有窗户不知白天黑夜，不知几点几分，完全搞乱人体生物钟节奏，严重摧残人的神经系统。<br>2，监视居住监视器使人毫无隐私保护，迫使涉案人5个多月没法洗澡。<br><br><img style src="https://pbs.twimg.com/media/E6iAdm5XMAcUkj7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iAd2lX0AAigTN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iAeIfWUAIvaM8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iAeaGXsAAOv5v?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2021-07-18 07:25:47+08:00 推文](https://twitter.com/realcaixia/status/1416539661267259392)
+
+请看孙大午庭审的第三天情况（二）。庭审询问表明，中共司法机关是大陆冤案的制造机器。<br><br>韩连潮: （二）中共司法机关违法拘禁、构陷罪名的细节大量暴露。1、涉案人明明在当地有住房，司法机关实施监视居住，实际是非法拘禁；<br>2。孙大午集团员工去政府门口递交请愿书，离政府门口有一段距离，未妨碍政府正常秩序。而警察从员工背后包操，把员工向政府门口驱赶，构陷员工冲击政府群体闹事的罪名。<br><br><img style src="https://pbs.twimg.com/media/E6iDnA5XsAQEyUn?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iDnVDWEAQnL7D?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iDnmwXEAYUAAe?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-07-18 07:35:05+08:00 推文](https://twitter.com/realcaixia/status/1416542000418013185)
+
+中共的恐吓诱供，不仅司法机关用，中共纪检委的双规（现在叫留置）审讯中也是常用手法。曾听一个女企业家说，当地纪检委要整治一个官员，便先把她双规起来，她确实没给那个官员行贿，自然无交代。但审讯人员说，那官员自己都交代了，你还扛着罪加一等。女企业家要求与那个官员当面对质，纪检委不同意。<br><br>韩连潮: （三）庭审暴露更多中共司法机关侵犯人权、构陷罪名的恶劣行径：1，侦查人员诱供恐吓涉案人；2，庭审询问表明大午集团员工明明是去政府递交材料，没有冲击政府聚众闹事的故意，但公诉人宣读庭审记录时有意无意漏读这一段；3，公诉方将庭审询问回答作为涉案人有罪的证据，完全违反法律规定和常识。<br><br><img style src="https://pbs.twimg.com/media/E6iKJDiXsBAAeq7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iKJXKXoAE7xrI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6iKJsXX0AABJA9?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 26: [2021-07-18 08:32:01+08:00 推文](https://twitter.com/realcaixia/status/1416556328915505163)
+
+視頻中：你是共產黨員嗎，沒有一個敢站出來承認是共產黨，你是什麽組織，黑社會？據稱要強拆老先生的房子，說建造的宅子涉及違章建築，老先生：講理嗎你們... <a href="https://youtu.be/oTbFYXnSSY4" target="_blank" rel="noopener noreferrer">https://youtu.be/oTbFYXnSSY4</a>
+
+### 27: [2021-07-18 09:07:47+08:00 推文](https://twitter.com/realcaixia/status/1416565329661157376)
+
+王峭岭探望江天勇一度受阻 高智晟女儿呼吁国际关注 <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/bx-07162021111101.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/bx-07162021111101.html</a>
+
+### 28: [2021-07-18 09:14:47+08:00 推文](https://twitter.com/realcaixia/status/1416567092015509511)
+
+转推，请大家都来关注声援！<br><br>Luo Shengchun丁家喜律师妻子: #1226厦门聚会案月月讲 尽管因为多种原因耽误了及时提交，尽管四个案子都处在拖延或者踢皮球的状态，还是决定继续向各国人权官员，美国国务院的人权官员，以及各国际人权机构写信，通报厦门聚会案上月进展。让外界看到中共当局迫害虐待这几位和平理性的人权捍卫者的恶毒用心！感谢朋友们关注转发！<br><br><img style src="https://pbs.twimg.com/media/E6TYR1jXsAElpSg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6TYR1kWEAg2q4r?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6TYR1lWUAM-cKk?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6TYR1lXoAAIdh3?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2021-07-18 09:17:22+08:00 推文](https://twitter.com/realcaixia/status/1416567741746667521)
+
+丁家喜曾经为维护我的权利挺身而出，而今他再次受严酷迫害，我当然要为他大声呼喊。<br><br>Luo Shengchun丁家喜律师妻子: #家喜律师辩护意见 非常感谢黎雄兵律师去临沂阅卷，和主办检察官会谈交流，去看守所会见家喜，并连夜写完详尽的临沂之行及会见记录！黎律师有理有据地重申已提交的辩护观点：丁家喜的行为，无论从民权保障、公益关怀，还是制度改良、权力监督方面看， 均无关颠覆政权，不构成犯罪。对丁家喜不应起诉！<br><br><img style src="https://pbs.twimg.com/media/E6ZdLGEXMAQz919?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6ZdLGCWUAEiN9G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6ZdLGAWQAEqZu-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6ZdLGBWUAAEx5S?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 30: [2021-07-18 09:20:00+08:00 推文](https://twitter.com/realcaixia/status/1416568402974584838)
+
+转推，让外面的世界更多了解中共司法系统的真相。<br><br>Luo Shengchun丁家喜律师妻子: #律师第九次会见许志永 非常感谢梁小军律师昨天下午再次去会见志永！志永身体和精神状态都好，他询问翘楚案件进展，询问母亲和家人的近况。以前很少谈及看守所生活细节的志永，这次说看守所伙食依旧很差：“打饭的时候睁大眼睛，也没看清楚打到桶里的是什么菜。每个人碗里除了汤水，看不到半根豆角”！<br><br><img style src="https://pbs.twimg.com/media/E6dZ72EWQAQtinx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6dZ72LXsAIjpIQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 31: [2021-07-18 09:31:07+08:00 推文](https://twitter.com/realcaixia/status/1416571201980338177)
+
+尽管我转推晚了许多天，但我必须转。我去参观过关押和处死苏菲的那个纪念场所。只要是法西斯就必定极度残暴反人类。当年苏菲等反抗法西斯的英雄们的悲剧，如今在大陆中共统治下正在再现。呼吁全球人权保护组织和世界各国人民和政府，进一步关注并加力制裁中共在中国大陆全境内搞人权迫害的累累罪恶。<br><br>ZHANGDONG: 今天5月9日，是母亲节，恰好也是德国反法西斯女英雄苏菲•朔尔暝诞100周年纪念日。苏菲和她哥哥汉斯是纳粹时期抵抗运动白玫瑰组织的成员。1943年他们在慕尼黑大学散发反战传单时遭到盖世太保逮捕，4天后以叛国罪被判处死刑，随即被送上了断头台，殉难时才21岁，大学二年级学生。临刑前她最后的遗言是：<br><br><img style src="https://pbs.twimg.com/media/E09oUv8WEAA5k30?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/AmnestyMuenchen/status/1391341256144531458" target="_blank" rel="noopener noreferrer">https://twitter.com/AmnestyMuenchen/status/1391341256144531458</a>
+
+### 32: [2021-07-18 09:56:23+08:00 推文](https://twitter.com/realcaixia/status/1416577559031070728)
+
+刘晓波，当代一个大写的人！一颗高贵的灵魂。一位为中国实现民主宪政而献出生命的民主先烈。祭奠刘晓波，牢记我们这代人的使命；继续刘晓波的努力，直到中国大陆实现宪政民主。<br><br>liqun chen（陈立群）: 7月13日，又是劉曉波逝世的周年日，今年為什麽選擇了在漢堡的使徒教堂（Apostelkirche）舉辦祭奠禮拜？使徒（Apostle），原意指擔負使命的人、傳遞真理的人，類似於先知。在我們的心目中，在德國朋友的認知中，劉曉波恰恰就是中國未來憲政民主的使徒和使者。<br> <a href="https://www.peoplenews.tw/news/6f9a1959-9441-4c38-ba61-9bdcb1a1b256" target="_blank" rel="noopener noreferrer">https://www.peoplenews.tw/news/6f9a1959-9441-4c38-ba61-9bdcb1a1b256</a>
+
+### 33: [2021-07-18 10:44:34+08:00 推文](https://twitter.com/realcaixia/status/1416589685070213121)
+
+丁家喜被中共当局非法拘禁，丁家喜热心社会公益事业，努力促进中国宪政民主无罪。<br><br>中国人权律师团: 丁家喜没有犯罪事实，相反其在案言行系模范遵守宪法和法律，履行公民责任，关心社会公益，促推国家发展、社会进步和政府廉洁勤政的义举，当依法对其作出不起诉的审查起诉决定。<br>中国人权律师团: ▲黎雄兵律师：会见丁家喜<br><br><img style src="https://pbs.twimg.com/media/E6igrAHXoAElMlJ?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://humanrightslawyerscn.blogspot.com/2021/07/blog-post_53.html?spref=tw" target="_blank" rel="noopener noreferrer">https://humanrightslawyerscn.blogspot.com/2021/07/blog-post_53.html?spref=tw</a>
 
