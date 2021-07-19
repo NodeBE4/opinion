@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-19
+date: 2021-07-20
 from: https://twitter.com/realcaixia/status/1416801615294644224
 layout: post
 tags:
@@ -58,4 +58,12 @@ Re @KennyShi8 @YouTube 谁告诉你我去见尊者达赖喇嘛了？别把自己
 ### 11: [2021-07-19 23:40:00+08:00 推文](https://twitter.com/realcaixia/status/1417147217740275715)
 
 孙大午案是标准的诬陷构陷案。他们要强行制造罪名，迫害正直善良的民营企业家。<br><br>鲁  难: 各方关注的孙大午案近况<br><br><img style src="https://pbs.twimg.com/media/E6q1BEGWUAcSNFU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6q1BFGWYAM_cDa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6q1BJBXMAI1TIq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6q1BI_XsAsPRjL?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-07-20 04:06:30+08:00 推文](https://twitter.com/realcaixia/status/1417214283738460161)
+
+Re @X6dkkonRo0mnhSW 土地集中，统一耕种，供销合作社等国家机构完全控制产、供、销、信用（农村小微金融），农民不再是农村经济活动的主体主人，政府与党组织成了农村生产经营活动的主宰。上网查看了一些地方政府的“实施意见”，通篇是政府意志，没有一个文件写到保障农民权利，以及具体如何保障权利。
+
+### 13: [2021-07-20 04:08:04+08:00 推文](https://twitter.com/realcaixia/status/1417214680016240640)
+
+Re @FangYiDuan1 问得好！
 
