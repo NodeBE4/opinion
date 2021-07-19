@@ -23,3 +23,7 @@ RT Li Yuan<br>China is using the guise of antitrust to cement the Communist Pa
 
 RT Steven Lee Myers<br>When Xi Jinping met with global tech leaders in Seattle in 2015, the founder of Didi, Cheng Wei, attended the gathering. Now the company is under siege, as Beijing reins in its tech giants. @LiYuan6's latest. <a href="https://www.nytimes.com/2021/07/19/technology/what-china-expects-from-businesses-total-surrender.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/07/19/technology/what-china-expects-from-businesses-total-surrender.html</a>
 
+### 3: [2021-07-19 20:13:07+08:00 推文](https://twitter.com/niubi/status/1417095153689444354)
+
+RT Bill Bishop<br>China’s Political Discourse June 2021: Prelude to the Centennial, by @cnmediaproject <a href="https://sinocism.com/p/chinas-political-discourse-june-2021?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-june-2021?r=2e&utm_campaign=post&utm_medium=web&utm_source=twitter</a>
+
