@@ -55,3 +55,7 @@ Re @KennyShi8 @YouTube 谁告诉你我去见尊者达赖喇嘛了？别把自己
 
 借用王剑老师三个字：变天了！<br><img style src="https://pbs.twimg.com/media/E6qMWZ5WYAEbff3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6qMWnnXEAcrvbh?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6qMW3NWEAEtG6r?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6qMXL8XsAYvkq_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 11: [2021-07-19 23:40:00+08:00 推文](https://twitter.com/realcaixia/status/1417147217740275715)
+
+孙大午案是标准的诬陷构陷案。他们要强行制造罪名，迫害正直善良的民营企业家。<br><br>鲁  难: 各方关注的孙大午案近况<br><br><img style src="https://pbs.twimg.com/media/E6q1BEGWUAcSNFU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6q1BFGWYAM_cDa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6q1BJBXMAI1TIq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6q1BI_XsAsPRjL?format=jpg&name=orig" referrerpolicy="no-referrer">
+
