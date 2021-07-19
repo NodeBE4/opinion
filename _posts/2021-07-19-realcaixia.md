@@ -23,3 +23,27 @@ title: 'Twitter @蔡霞: 2021-07-19~2021-07-25'
 
 荣剑是大陆最著名的才子之一。他的文章大气磅礴、文采飞扬、博古通今、旁征博引、信手粘来，令人叫绝！大陆50一60这代人能写出融思想的深刻性与文字的可读性为一体的精彩文章的大学者，当数秦晖荣剑与许章润。自1989年6.4起，我就成了荣剑的忠实粉丝。今见荣剑发出一段访谈视频，特转推。<br><br>荣剑: 几年前的一个访谈，从荣氏家族谈起，一直谈到近二十年所经历的事情，也算是人生总结了。<br> <a href="https://m.youtube.com/watch?v=9j-WfJkeljU" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=9j-WfJkeljU</a>
 
+### 3: [2021-07-19 06:48:59+08:00 推文](https://twitter.com/realcaixia/status/1416892785903509508)
+
+Re @XWYT7U6Omb1GtNr @YouTube 我与人相处是很平和的，说话不强势，但我写出文字常常是会有些强悍的。
+
+### 4: [2021-07-19 06:50:22+08:00 推文](https://twitter.com/realcaixia/status/1416893134072651776)
+
+Re @qiwenhua2 @YouTube 谢谢您的肯定和支持。🤝
+
+### 5: [2021-07-19 07:08:23+08:00 推文](https://twitter.com/realcaixia/status/1416897668622729219)
+
+前几天发推，涉及到民族这个概念，持各种价值观的网友都对此十分敏感。看到油管上专门有一期节目，谈中国、汉族、中华民族，从历史、文化的知识性角度，转推给有兴趣的网友不妨看看。<br><br>誰跟你漢族！黃帝是白人？｜｜20210718｜富察延賀 汪浩 矢板明夫 <a href="https://youtu.be/N0E3dEnALrs" target="_blank" rel="noopener noreferrer">https://youtu.be/N0E3dEnALrs</a>
+
+### 6: [2021-07-19 08:55:37+08:00 推文](https://twitter.com/realcaixia/status/1416924652514025476)
+
+中国农村极可能变相复活人民公社。所谓“首创”这类鬼话，很大程度来自上面旨意。这是中共一惯的办法：先行抓点试验，以点带面，以典型开路。且看历史倒车将带来什么？！<br><img style src="https://pbs.twimg.com/media/E6ntcf5XMAU9hz6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6ntcyVXEAEswSl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6ntdD3WQAAxZXa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6ntdYqWYAAS1vn?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-19 10:51:04+08:00 推文](https://twitter.com/realcaixia/status/1416953709909663747)
+
+Re @wwXAnA6w @YouTube 感谢理解和支持。🤝🌹
+
+### 8: [2021-07-19 10:58:26+08:00 推文](https://twitter.com/realcaixia/status/1416955561350946821)
+
+Re @KennyShi8 @YouTube 谁告诉你我去见尊者达赖喇嘛了？别把自己的想象当成事实，那容易误导你自己。
+
