@@ -47,3 +47,11 @@ Re @wwXAnA6w @YouTube 感谢理解和支持。🤝🌹
 
 Re @KennyShi8 @YouTube 谁告诉你我去见尊者达赖喇嘛了？别把自己的想象当成事实，那容易误导你自己。
 
+### 9: [2021-07-19 20:12:15+08:00 推文](https://twitter.com/realcaixia/status/1417094936936304641)
+
+推荐王剑老师这期评论。他用三个字来概括习当局的做法：“变天了”！值得所有关心大陆人未来命运的朋友听听。<br><br>变天了, 中共下放行政执法权的用意/拜登政府针对新疆香港发商务警告/全球悼念刘晓波(字幕)/王剑每日观察/20210713 <a href="https://youtu.be/kBOtaRJd488" target="_blank" rel="noopener noreferrer">https://youtu.be/kBOtaRJd488</a>
+
+### 10: [2021-07-19 20:29:52+08:00 推文](https://twitter.com/realcaixia/status/1417099367161417734)
+
+借用王剑老师三个字：变天了！<br><img style src="https://pbs.twimg.com/media/E6qMWZ5WYAEbff3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6qMWnnXEAcrvbh?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6qMW3NWEAEtG6r?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6qMXL8XsAYvkq_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
