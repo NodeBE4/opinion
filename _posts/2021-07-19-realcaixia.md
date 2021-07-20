@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-20
+date: 2021-07-21
 from: https://twitter.com/realcaixia/status/1416801615294644224
 layout: post
 tags:
@@ -70,4 +70,24 @@ Re @FangYiDuan1 问得好！
 ### 14: [2021-07-20 12:49:56+08:00 推文](https://twitter.com/realcaixia/status/1417346011203313666)
 
 Re @X6dkkonRo0mnhSW 看来你是十足的计划经济思维。
+
+### 15: [2021-07-21 00:27:56+08:00 推文](https://twitter.com/realcaixia/status/1417521665987198981)
+
+连续转推郑州水灾视频，每一个视频都令人揪心窒息。这个视频中一开始有两个人蹲在地面塌陷洞口使劲想把掉下去的人拉上来，但最后一刻，地面突然再次塌陷，救人的两人掉下去了湍急的水流下那三个人还有命吗？揪心揪到痛……<br><br>鲁  难: 来自郑州的影像<br><br><video src="https://video.twimg.com/ext_tw_video/1417520055944990723/pu/vid/368x640/ZH_E4GAepRCd7CvM.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1417520055944990723/pu/img/27c1bSlLYSUu2hAl.jpg"></video>
+
+### 16: [2021-07-21 00:58:14+08:00 推文](https://twitter.com/realcaixia/status/1417529290841890817)
+
+河南这个中国的农业大省，一直多灾多难。郑州水灾让我想起1975年的驻马店水灾。那是1949年以后大陆最大的水灾，但当时报纸上一个字都没有。要不是我一个战友是驻马店人，否则我们谁都不知道那里发生了水灾，更不知道死了多少人。中共的最惯用方式就是“保密”，将一切都消失在信息黑洞中。<br><br>鲁  难: 郑州水灾成因<br><br><img style src="https://pbs.twimg.com/media/E6wNM43WYAUUPiq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6wNM2iXEAM2gn2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6wNM2oXMAUUI9-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-07-21 01:10:14+08:00 推文](https://twitter.com/realcaixia/status/1417532311097253890)
+
+Re @junxu23049031 @lunanweiyi 我同问。
+
+### 18: [2021-07-21 01:35:47+08:00 推文](https://twitter.com/realcaixia/status/1417538744610131972)
+
+郑州水灾民众生命危困，是个正常人都揪心、都着急呼救。现在还在这些视频下为中共洗地、掩盖真相、推诿搪塞的五毛、粉红、网军，摸摸你的良心还在吗？！你们还是人吗？！你们丧尽天良！<br><br>鲁  难: 郑州水灾<br><br><img style src="https://pbs.twimg.com/media/E6wNtvwX0AEBhbb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6wNtwvXsBEzl-z?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6wNtxgXoAYrXk8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6wNty9XMA4CqA4?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-07-21 03:33:40+08:00 推文](https://twitter.com/realcaixia/status/1417568408254783489)
+
+是啊！武警、警察、辅警们哪里去了？街头暴打小商贩、下乡镇压民众，处处都有这帮国家暴力出现，危急时刻救命，咋不见了他们？<br><br>鲁  难: 谁来帮助那些命悬一线的郑州人？武警、警察、吴京都去哪里了？<br><br><video src="https://video.twimg.com/ext_tw_video/1417567052550844416/pu/vid/368x640/r3rtGi73YPhvYl3D.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1417567052550844416/pu/img/v5Oc1Lw1vemYdYb4.jpg"></video>
 
