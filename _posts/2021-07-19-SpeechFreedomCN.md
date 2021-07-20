@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-19
+date: 2021-07-20
 from: https://twitter.com/SpeechFreedomCN/status/1416981099301928962
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @中国文字狱事件盘点: 2021-07-19~2021-07-25'
 ### 2: [2021-07-19 12:40:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1416981266973351939)
 
 Yunnan man Tong detained for 3 days for referring to traffic cops as "These dogs" in WeChat.<br><img style src="https://pbs.twimg.com/media/E6og1NmVEAQmHfU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-07-20 10:50:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1417316074660405251)
+
+旅游博主“小贤jayson“因一张旅行途中的自拍照（图2）被立案调查，照片中的墓主是在中印边境冲突中牺牲的军人。官方称其在烈士墓旁摆拍的行为涉嫌侮辱英烈。<br><img style src="https://pbs.twimg.com/media/E6tQ542VIAUr1kj?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6tQ8AfUUAAN1Rg?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-07-20 10:55:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1417317140873441280)
+
+Chinese tourism blogger under investigation & facing up to 3 years in jail for a piece of selfie (Fig 2) he took during a recent travel and shared on Internet. The tombstone in the photo belongs to a martyr, and authorities claimed the photo insulted that martyr.<br><img style src="https://pbs.twimg.com/media/E6tRgD4VkAIjCyF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6tRiOHUUAQDapv?format=png&name=orig" referrerpolicy="no-referrer">
 
