@@ -67,3 +67,7 @@ Re @X6dkkonRo0mnhSW 土地集中，统一耕种，供销合作社等国家机构
 
 Re @FangYiDuan1 问得好！
 
+### 14: [2021-07-20 12:49:56+08:00 推文](https://twitter.com/realcaixia/status/1417346011203313666)
+
+Re @X6dkkonRo0mnhSW 看来你是十足的计划经济思维。
+
