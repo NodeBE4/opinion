@@ -99,3 +99,11 @@ Re @junxu23049031 @lunanweiyi 我同问。
 
 新疆、西藏乃至全中国大陆，都深受极权专制统治残酷迫害。而在新疆、西藏、内蒙古、香港等地区，极权统治以反xx独为理由寻找镇压的借口，对汉族民众他们以所谓“寻衅滋事”、“危害国家安全”为理由残酷镇压。希望有更多的海内外华人和各国民众共同关注被迫害的人，关注就是声援。<br><br>jiangty02: 请继续关注因言获罪、关注新疆人权、批评独裁政权而被重判19年的张海涛，他失去自由已2207天了，不允许家属会见1172天了，生死不明，您的关注支持增加他一线生机。<br><br>打电话、寄明信片，或其它方法🙏<br>会见电话：0997-8402113（张女士）邮编：842208，地址：新疆维吾尔自治区阿克苏地区沙雅县15信箱9分箱<br><br><video src="https://video.twimg.com/ext_tw_video/1417379605237813249/pu/vid/848x480/kN5KTkz4CBoB1Uu8.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1417379605237813249/pu/img/2k-jCdXjyJIJ06x0.jpg"></video>
 
+### 22: [2021-07-21 21:58:04+08:00 推文](https://twitter.com/realcaixia/status/1417846340122517508)
+
+央视这是遮掩实情呢？还是真实的新闻报道？央视播报郑州暴雨灾害的做法，让全世界看明白什么叫“党的喉舌”。中国大陆没有新闻没有媒体，只有喉舌，只有谎言与遮蔽真相。<br><br>鲁  难: 央视对新闻的理解与常人有何不同？暖风熏的观众醉，直把欧洲做郑州。<br><br><video src="https://video.twimg.com/ext_tw_video/1417640916773445632/pu/vid/368x368/1p0NCpifKpmKtdKB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1417640916773445632/pu/img/edCLnJHBbV94i43D.jpg"></video>
+
+### 23: [2021-07-21 23:38:33+08:00 推文](https://twitter.com/realcaixia/status/1417871629447835654)
+
+Re @rjsytlhy 你在这卖大一统皇权观念？你若是赵家人，你当然要大一统，统治的奴隶越多越好。如果你不是赵家人，劝你想想自己的人身权利财产权利能不能保全，劝你想想你的家人孩子活得怎么样。
+
