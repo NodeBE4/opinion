@@ -91,3 +91,11 @@ Re @junxu23049031 @lunanweiyi 我同问。
 
 是啊！武警、警察、辅警们哪里去了？街头暴打小商贩、下乡镇压民众，处处都有这帮国家暴力出现，危急时刻救命，咋不见了他们？<br><br>鲁  难: 谁来帮助那些命悬一线的郑州人？武警、警察、吴京都去哪里了？<br><br><video src="https://video.twimg.com/ext_tw_video/1417567052550844416/pu/vid/368x640/r3rtGi73YPhvYl3D.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1417567052550844416/pu/img/v5Oc1Lw1vemYdYb4.jpg"></video>
 
+### 20: [2021-07-21 20:58:23+08:00 推文](https://twitter.com/realcaixia/status/1417831318847623173)
+
+腾讯党委早在2005年左右就建立了。<br><br>大纪元新闻网: 腾讯设275个党支部 传与中共网监一同办公 <br><br>全球市值最高十大企业之一、中国网络巨头 #腾讯 与中共组织完全融合，内设275个 #党支部，被曝与网信办一起工作。<br> <a href="https://www.epochtimes.com/gb/21/7/20/n13102260.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/21/7/20/n13102260.htm</a>
+
+### 21: [2021-07-21 21:08:02+08:00 推文](https://twitter.com/realcaixia/status/1417833749098766343)
+
+新疆、西藏乃至全中国大陆，都深受极权专制统治残酷迫害。而在新疆、西藏、内蒙古、香港等地区，极权统治以反xx独为理由寻找镇压的借口，对汉族民众他们以所谓“寻衅滋事”、“危害国家安全”为理由残酷镇压。希望有更多的海内外华人和各国民众共同关注被迫害的人，关注就是声援。<br><br>jiangty02: 请继续关注因言获罪、关注新疆人权、批评独裁政权而被重判19年的张海涛，他失去自由已2207天了，不允许家属会见1172天了，生死不明，您的关注支持增加他一线生机。<br><br>打电话、寄明信片，或其它方法🙏<br>会见电话：0997-8402113（张女士）邮编：842208，地址：新疆维吾尔自治区阿克苏地区沙雅县15信箱9分箱<br><br><video src="https://video.twimg.com/ext_tw_video/1417379605237813249/pu/vid/848x480/kN5KTkz4CBoB1Uu8.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1417379605237813249/pu/img/2k-jCdXjyJIJ06x0.jpg"></video>
+
