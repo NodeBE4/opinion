@@ -35,3 +35,11 @@ RT Bill Bishop<br>Zhengzhou<br><br>Eefje Rammeloo: Dit filmpje komt langs op
 
 RT Sabina Knight 桑稟华<br>1/ @NobelPrize Laureate Mo Yan 莫言 gave a speech about #truth telling.<br><br>The #video has gone viral.<br><br>He's now been criticized and officially removed from the list of China's master writers of the century「#中国百年名作家」.<br><br>百合: 莫言👍👍👍<br><br><video src="https://video.twimg.com/ext_tw_video/1415529990846697472/pu/vid/640x360/yfjIeIqhUtcHXG9e.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1415529990846697472/pu/img/3c2-osA-WwSDZcZf.jpg"></video> <a href="https://twitter.com/baihe66666/status/1414883256227573760" target="_blank" rel="noopener noreferrer">https://twitter.com/baihe66666/status/1414883256227573760</a>
 
+### 6: [2021-07-21 22:37:27+08:00 推文](https://twitter.com/cnmediaproject/status/1417856252248526854)
+
+CMP's quick take on official media coverage of floods in Zhengzhou today. The story between the headlines -- Premier Li seems to have been completely sidelined as Xi Jinping's "important instructions" are reported w/out Li's "written comments". <a href="https://chinamediaproject.org/2021/07/21/as-disaster-strikes-xi-takes-the-headlines/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/21/as-disaster-strikes-xi-takes-the-headlines/</a><br><img style src="https://pbs.twimg.com/media/E608sqTX0AI_eNO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-21 22:53:39+08:00 推文](https://twitter.com/KaiserKuo/status/1417860329661472773)
+
+RT Kaiser Kuo<br>This is probably the best piece I’ve ever read about Pete Hessler. Totally captures him, as another mutual friend concurs. <a href="http://www.sixthtone.com/news/1008025/peter-hesslers-last-class?fbclid=IwAR1X4-GUf_7bKnS44_QNPljOXbcu8gEdUS8zG1ZK1Tx_7ZwkGppru_CYdus" target="_blank" rel="noopener noreferrer">http://www.sixthtone.com/news/1008025/peter-hesslers-last-class?fbclid=IwAR1X4-GUf_7bKnS44_QNPljOXbcu8gEdUS8zG1ZK1Tx_7ZwkGppru_CYdus</a>
+
