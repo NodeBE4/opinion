@@ -119,3 +119,19 @@ Re @rjsytlhy 你要么就是糊涂要么就是搅浑水。国家与国家，根�
 
 昨天到今天一直在关注郑州大水灾，想起去年26个省市水灾，三分之二以上的省份都泡在水里，出现的问题一样。一年过去了，似乎没有什么改观。所以把去年的媒体报道再发一个上来。政府的半瘫不作为还加谎言欺骗隐瞒，是不是大陆中国民众年年都得遭灾？年年都要有些民众因灾死亡？？
 
+### 27: [2021-07-22 18:24:04+08:00 推文](https://twitter.com/realcaixia/status/1418154873271554051)
+
+中国观察.光明论坛：海外河南人谈郑州水灾。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【河南人谈河南】中国观察·光明论坛 第2期 ：<br><br>灾难的前世今生——郑州洪灾与75年板桥水库的异同，中共进步几何？<br> <a href="https://youtu.be/gCdlwUDDLL0" target="_blank" rel="noopener noreferrer">https://youtu.be/gCdlwUDDLL0</a>
+
+### 28: [2021-07-22 18:44:33+08:00 推文](https://twitter.com/realcaixia/status/1418160027160956928)
+
+郑州大水这场灾难本质上是“人祸”！<br><br>谢万军 Wanjun Xie: <br> <a href="https://twitter.com/i/status/1418124732247920644" target="_blank" rel="noopener noreferrer">https://twitter.com/i/status/1418124732247920644</a>
+
+### 29: [2021-07-22 19:18:13+08:00 推文](https://twitter.com/realcaixia/status/1418168499151777798)
+
+中共党魁与文痞鼓吹的中国制度优势，本质上是极权意志利用垄断资源实现党魁野心目标的制度性手段。所谓的“集中力量办大事”、“亲自部署亲自指挥”，都埋伏下大陆人以死亡惨重为代价的“祸根”。1975年驻马店水灾如此、三峡大坝工程如此、武汉病毒疫情如此、现在郑州大水再次如此。庆父不死 鲁难未已！<br><br>韩连潮: 【郑州大水冲破中国之治神话】党国大肆吹嘘的中国特色社会主义制度优势在天灾人祸下不堪一击，根本还是不尊重生命不把百姓当回事，75年板桥水库因邓小平通宵打麻将溃坝淹死24万人，今天领导人躲在中南海，媒体一片歌舞升平，耽误紧急应对时机，不知葬送了多少无辜生命，和德国抗灾一比，制度优劣立判！<br> <a href="https://twitter.com/S7i5FV0JOz6sV3A/status/1418078830154108929" target="_blank" rel="noopener noreferrer">https://twitter.com/S7i5FV0JOz6sV3A/status/1418078830154108929</a>
+
+### 30: [2021-07-22 21:27:55+08:00 推文](https://twitter.com/realcaixia/status/1418201138692755463)
+
+大水过后的郑州京广路隧道。人们能看到的是隧道口逐渐上坡露出水面的现场，惨不忍睹。桥洞下面的水里是什么样的？真不敢想。郑州市气象局事前连发数次（据说5次）红色预警，但从灾情看，整个市委市政府毫无作为。大灾面前是市民自救互救，中共党和政府的官员哪去了呢？警察武警国保们哪去了？<br><video src="https://video.twimg.com/ext_tw_video/1418200849155870720/pu/vid/720x1280/aLuPtOpT_DHTwnIJ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1418200849155870720/pu/img/Mq82znzoYLtp8ioM.jpg"></video>
+
