@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-21
+date: 2021-07-22
 from: https://twitter.com/LiYuan6/status/1416986500202258438
 layout: post
 tags:
@@ -42,4 +42,16 @@ CMP's quick take on official media coverage of floods in Zhengzhou today. The st
 ### 7: [2021-07-21 22:53:39+08:00 推文](https://twitter.com/KaiserKuo/status/1417860329661472773)
 
 RT Kaiser Kuo<br>This is probably the best piece I’ve ever read about Pete Hessler. Totally captures him, as another mutual friend concurs. <a href="http://www.sixthtone.com/news/1008025/peter-hesslers-last-class?fbclid=IwAR1X4-GUf_7bKnS44_QNPljOXbcu8gEdUS8zG1ZK1Tx_7ZwkGppru_CYdus" target="_blank" rel="noopener noreferrer">http://www.sixthtone.com/news/1008025/peter-hesslers-last-class?fbclid=IwAR1X4-GUf_7bKnS44_QNPljOXbcu8gEdUS8zG1ZK1Tx_7ZwkGppru_CYdus</a>
+
+### 8: [2021-07-22 18:41:14+08:00 推文](https://twitter.com/cnmediaproject/status/1418159194029625345)
+
+Trapped: CMP's translation of a harrowing eyewitness account from Freezing Point of the Zhengzhou floods, provided by a passenger inside one of the cars on Metro Line 1 as floodwaters filled the train and surged past the windows. <a href="https://chinamediaproject.org/2021/07/22/trapped-2/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/22/trapped-2/</a><br><img style src="https://pbs.twimg.com/media/E65QQ7HWUAMkhV6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-07-22 19:48:00+08:00 推文](https://twitter.com/cnmediaproject/status/1418175995027333120)
+
+First-hand account of Zhengzhou metro flood: "At that time, I was truly terrified. When I saw the water level outside the cars was over our heads, I began preparing for the possibility that we wouldn’t make it out." <a href="https://chinamediaproject.org/2021/07/22/trapped-2/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/22/trapped-2/</a><br><img style src="https://pbs.twimg.com/media/E65feN8WYAIFBgv?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-07-22 20:42:41+08:00 推文](https://twitter.com/MattCKnight/status/1418189758665199616)
+
+RT Matt Knight<br>Re A must-read eyewitness account of a woman's four hour ordeal in the subway reveals how passengers worked together until help eventually arrived. Translated into English by @cnmediaproject<br><br>China Media Project: First-hand account of Zhengzhou metro flood: "At that time, I was truly terrified. When I saw the water level outside the cars was over our heads, I began preparing for the possibility that we wouldn’t make it out."<br><br><img style src="https://pbs.twimg.com/media/E65feN8WYAIFBgv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/07/22/trapped-2/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/22/trapped-2/</a>
 
