@@ -27,3 +27,7 @@ Please #RT if you want to watch "Revolution of Our Times." We all know China wil
 
 It's our pleasure to share our thoughts on the integration of HKers with Deputy Mayor @debs_wb and her team. We are here to work together and to help all HKers, especially those in need. Looking forward to our further collaborations.<br>@MrWinMarshall <br>#StandwithHongKong<br><img style src="https://pbs.twimg.com/media/E67aSNpWYAY7uff?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>Debbie Weekes-Bernard: I want to join the Mayor in welcoming new Hongkongers to our city.<br><br>My thanks to @hackneychinese for bringing together @nathanlawkc, @SimonCh15198572, @benedictrogers,  @NeilJamesonUK & others today to discuss how we can ensure advice & services get to Hongkongers who need them.<br>
 
+### 4: [2021-07-23 23:28:11+08:00 推文](https://twitter.com/nathanlawkc/status/1418593794166083585)
+
+Among many others, @hkdc_us is sanctioned by CCP. Outrageous<br><br>Kris Cheng: Retaliation: China sanctions<br>1. Ex-@SecretaryRoss<br>2. @USCC_GOV chair Carolyn Bartholomew<br>3. @CECCgov ex-staff director @jonstivers<br>4. @NDI’s Kim Do-yun<br>5. @IRIglobal’s Adam King<br>6. @hrw’s @SophieHRW <br>7. @hkdc_us<br><br><img style src="https://pbs.twimg.com/media/E6_UsGeXsAEyxgi?format=jpg&name=orig" referrerpolicy="no-referrer">
+

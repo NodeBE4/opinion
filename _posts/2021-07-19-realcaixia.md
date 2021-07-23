@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-23
+date: 2021-07-24
 from: https://twitter.com/realcaixia/status/1416801615294644224
 layout: post
 tags:
@@ -170,4 +170,16 @@ Re @lanyu2008 你们都不是人！良知叫狗吃了！
 ### 39: [2021-07-23 10:53:27+08:00 推文](https://twitter.com/realcaixia/status/1418403860524281856)
 
 Re @t593920 公历8月22号。
+
+### 40: [2021-07-24 01:53:48+08:00 推文](https://twitter.com/realcaixia/status/1418630439242280968)
+
+郑州人祸，究竟吞噬了多少人命，究竟毁了多少个家庭？在中共精致的极权监视控制下，想必是永远的黑洞。就如2020年的武汉病毒吞噬了多少武汉市民？不到极权统治垮台的那天，一切都不可能大白于天下。<br><img style src="https://pbs.twimg.com/media/E6_82VeXEAMwcWq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6_82mIXMAotHvm?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6_8288WEAUNBDW?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6_83M9XMAQoBCE?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 41: [2021-07-24 02:53:54+08:00 推文](https://twitter.com/realcaixia/status/1418645564607057926)
+
+特斯拉汽车在郑州大水灾中的表现。<br><video src="https://video.twimg.com/ext_tw_video/1418645491978485763/pu/vid/464x960/djgdLCsqrXeS1ZBW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1418645491978485763/pu/img/6xA46HfetsPxIYbd.jpg"></video>
+
+### 42: [2021-07-24 03:01:47+08:00 推文](https://twitter.com/realcaixia/status/1418647547707527168)
+
+Re @SLin2020 国内微信群里看到的。估计是无人机航拍的吧？
 
