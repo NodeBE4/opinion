@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-20
+date: 2021-07-23
 from: https://twitter.com/SpeechFreedomCN/status/1416981099301928962
 layout: post
 tags:
@@ -30,4 +30,8 @@ Yunnan man Tong detained for 3 days for referring to traffic cops as "These dogs
 ### 4: [2021-07-20 10:55:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1417317140873441280)
 
 Chinese tourism blogger under investigation & facing up to 3 years in jail for a piece of selfie (Fig 2) he took during a recent travel and shared on Internet. The tombstone in the photo belongs to a martyr, and authorities claimed the photo insulted that martyr.<br><img style src="https://pbs.twimg.com/media/E6tRgD4VkAIjCyF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E6tRiOHUUAQDapv?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-07-23 13:34:29+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1418444384756920322)
+
+2016年7月，河北邢台洪灾，3名网友因“夸大灾情”被拘留；<br>2018年8月，山东寿光洪灾，淄博一名网友因“诋毁救灾官兵”被刑拘；<br>2019年6月，广东连平县洪灾，3名网友因“夸大灾情”被拘留；<br>2019年8月，安徽宁国市洪灾，至少4名网友因“夸大灾情”被拘留。<br>……<br>这事他们很专业，在这次河南洪灾里也不会例外。
 

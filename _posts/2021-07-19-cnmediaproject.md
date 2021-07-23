@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-07-22
+date: 2021-07-23
 from: https://twitter.com/LiYuan6/status/1416986500202258438
 layout: post
 tags:
@@ -54,4 +54,8 @@ First-hand account of Zhengzhou metro flood: "At that time, I was truly terrifie
 ### 10: [2021-07-22 20:42:41+08:00 推文](https://twitter.com/MattCKnight/status/1418189758665199616)
 
 RT Matt Knight<br>Re A must-read eyewitness account of a woman's four hour ordeal in the subway reveals how passengers worked together until help eventually arrived. Translated into English by @cnmediaproject<br><br>China Media Project: First-hand account of Zhengzhou metro flood: "At that time, I was truly terrified. When I saw the water level outside the cars was over our heads, I began preparing for the possibility that we wouldn’t make it out."<br><br><img style src="https://pbs.twimg.com/media/E65feN8WYAIFBgv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/07/22/trapped-2/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/07/22/trapped-2/</a>
+
+### 11: [2021-07-23 09:33:52+08:00 推文](https://twitter.com/ericfish85/status/1418383830088564740)
+
+RT Eric Fish<br>The Wenzhou train crash was 10 years ago today – what became a nationwide indictment of official incompetence and cover-ups at the height of the freewheeling Weibo era, with a traditional media that still had *some* room to operate. So much has changed. <a href="https://www.theguardian.com/world/2011/jul/25/chinese-rail-crash-cover-up-claims" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2011/jul/25/chinese-rail-crash-cover-up-claims</a>
 
