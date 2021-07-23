@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-22
+date: 2021-07-23
 from: https://twitter.com/realcaixia/status/1416801615294644224
 layout: post
 tags:
@@ -134,4 +134,40 @@ Re @rjsytlhy 你要么就是糊涂要么就是搅浑水。国家与国家，根�
 ### 30: [2021-07-22 21:27:55+08:00 推文](https://twitter.com/realcaixia/status/1418201138692755463)
 
 大水过后的郑州京广路隧道。人们能看到的是隧道口逐渐上坡露出水面的现场，惨不忍睹。桥洞下面的水里是什么样的？真不敢想。郑州市气象局事前连发数次（据说5次）红色预警，但从灾情看，整个市委市政府毫无作为。大灾面前是市民自救互救，中共党和政府的官员哪去了呢？警察武警国保们哪去了？<br><video src="https://video.twimg.com/ext_tw_video/1418200849155870720/pu/vid/720x1280/aLuPtOpT_DHTwnIJ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1418200849155870720/pu/img/Mq82znzoYLtp8ioM.jpg"></video>
+
+### 31: [2021-07-23 03:35:46+08:00 推文](https://twitter.com/realcaixia/status/1418293711386120193)
+
+Re @wokaka11 你还是人吗？！你这说的是人话吗？！
+
+### 32: [2021-07-23 03:37:08+08:00 推文](https://twitter.com/realcaixia/status/1418294058968141824)
+
+Re @oraclebones 你眼睛瞎了！你良心被狗吃了！
+
+### 33: [2021-07-23 03:41:20+08:00 推文](https://twitter.com/realcaixia/status/1418295116075347979)
+
+Re @lanyu2008 你们都不是人！良知叫狗吃了！
+
+### 34: [2021-07-23 04:16:33+08:00 推文](https://twitter.com/realcaixia/status/1418303975787466757)
+
+所有的报道得来都很不容易，感谢采写的记者们。所有的报道读来都令人心碎、愤懑、无奈……难道中国人注定就是这样的命么？！<br>故事硬核｜灾后郑州：当一座都市忽然失去了互联网 - 中国数字时代 <a href="https://chinadigitaltimes.net/chinese/668567.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/668567.html</a>
+
+### 35: [2021-07-23 05:42:02+08:00 推文](https://twitter.com/realcaixia/status/1418325487206678532)
+
+他们的人生刚刚展开，他们年轻的生命结束在不该结束的时刻。假如你我是他们的父母、妻儿、爱人、知己………心碎心痛如绞。<br>2020年武汉，2021年郑州，今年的阴历七月十五，中原大地南北遥相对应两座哭城😭😭😭2022还会出现新的哭城吗？<br><br>四环青年｜他们倒在了回家的地铁上 - <a href="https://chinadigitaltimes.net/chinese/668571.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/668571.html</a>
+
+### 36: [2021-07-23 06:20:39+08:00 推文](https://twitter.com/realcaixia/status/1418335205509668866)
+
+网友愤怒的吼声！<br><br>KUI YANG-葵阳先生: 郑州方面一直拿不出地铁上遭遇水灾死伤人员的数量和名单，各种推诿和掩盖。<br>这TM什么年代了？你们的大数据系统被水淹宕机了？如果车上是一些去上访的民众，恐怕当局早就把他们的相关信息查个底朝天了吧？<br>中共的反人类特性，体现在社会运转的所有方面。<br>非人的组织，早就该被清除了。<br><br><img style src="https://pbs.twimg.com/media/E65ocxrUcAAuLJB?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 37: [2021-07-23 06:40:20+08:00 推文](https://twitter.com/realcaixia/status/1418340161050578946)
+
+关注丁家喜。他曾经为保护我的正当权益而努力，今天当是我为丁家喜律而呼吁。丁家喜无罪！释放丁家喜！<br>中国公民运动 » 黎雄兵律师：会见丁家喜 <a href="https://cmcn.org/archives/54844" target="_blank" rel="noopener noreferrer">https://cmcn.org/archives/54844</a>
+
+### 38: [2021-07-23 07:01:49+08:00 推文](https://twitter.com/realcaixia/status/1418345569140027403)
+
+我昨天就在寻找这个视屏，是在国内微信群里看到的。这位首席气象预报员是在秉持良知和职业道德说话。在现在的大陆，这样做也是需要极大的勇气的。<br><br>鲁  难: 1951年才开始有完整的气象记录，最多不过七十年。那些鬼扯千年一遇、百年一遇洪水，纯属胡说八道。不服就让中央气象台的首席来教育你一下子。<br><br><video src="https://video.twimg.com/ext_tw_video/1418265186130173956/pu/vid/720x936/2Sk79nzpyGsJwekg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1418265186130173956/pu/img/liCICfPDShnlWHbj.jpg"></video>
+
+### 39: [2021-07-23 10:53:27+08:00 推文](https://twitter.com/realcaixia/status/1418403860524281856)
+
+Re @t593920 公历8月22号。
 
