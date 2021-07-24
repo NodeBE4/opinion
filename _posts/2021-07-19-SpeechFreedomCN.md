@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-23
+date: 2021-07-24
 from: https://twitter.com/SpeechFreedomCN/status/1416981099301928962
 layout: post
 tags:
@@ -34,4 +34,12 @@ Chinese tourism blogger under investigation & facing up to 3 years in jail for a
 ### 5: [2021-07-23 13:34:29+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1418444384756920322)
 
 2016年7月，河北邢台洪灾，3名网友因“夸大灾情”被拘留；<br>2018年8月，山东寿光洪灾，淄博一名网友因“诋毁救灾官兵”被刑拘；<br>2019年6月，广东连平县洪灾，3名网友因“夸大灾情”被拘留；<br>2019年8月，安徽宁国市洪灾，至少4名网友因“夸大灾情”被拘留。<br>……<br>这事他们很专业，在这次河南洪灾里也不会例外。
+
+### 6: [2021-07-24 14:29:55+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1418820723410227200)
+
+云南省祥云县男子代某，因在朋友圈发布自己的交通违章罚单照片，并配文说“出门遛狗”，被认定为侮辱交警并被拘留5日。<br><img style src="https://pbs.twimg.com/media/E7CpqxoXEAQsWdY?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7CpsAGWEAU7AmD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-24 14:31:33+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1418821133529272321)
+
+Yunan man Dai detained for 5 days for saying in WeChat that he was walking his dogs, with a photo of a ticket from traffic police. Police said his post in WeChat insulted them.<br><img style src="https://pbs.twimg.com/media/E7Cp9mPXEAA-g60?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7Cp--vXoAUyewN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
