@@ -51,3 +51,11 @@ Yunan man Dai detained for 5 days for saying in WeChat that he was walking his d
 
 Petitioner surnamed Guo from Shandong sentenced to 15 months in prison for shooting three pieces of video and sharing them via WeChat, which authority said contained "inflammatory and abusive" remarks.<br><img style src="https://pbs.twimg.com/media/E7HG4YLVUAYcASv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7HG5qBUYAIMQbV?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7HG6uaUcAMyGF9?format=png&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2021-07-25 14:41:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1419186034223423488)
+
+7月12日，即 #郑州洪灾 发生前一周，距离郑州约50公里的武陟县一名女子韩某因在抖音上发布视频称沁河（黄河支流）堤坝多处决堤，被认定为造谣和引起恐慌，被处拘留5日。<br><video src="https://video.twimg.com/ext_tw_video/1419185857097990144/pu/vid/640x368/HFWeUFscCQdYAGvU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1419185857097990144/pu/img/GP_5A88Wcd33lEO3.jpg"></video>
+
+### 11: [2021-07-25 14:44:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1419186788011106304)
+
+One week before the #ZhengzhouFlooding, a woman surnamed Han living in a nearby town shared a piece of video on Douyin, saying there were several dam failures there. Han was later detained for 5 days for spreading “rumor and terror”.<br><video src="https://video.twimg.com/ext_tw_video/1419185857097990144/pu/vid/640x368/HFWeUFscCQdYAGvU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1419185857097990144/pu/img/GP_5A88Wcd33lEO3.jpg"></video>
+
