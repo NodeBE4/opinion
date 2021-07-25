@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-24
+date: 2021-07-25
 from: https://twitter.com/SpeechFreedomCN/status/1416981099301928962
 layout: post
 tags:
@@ -42,4 +42,12 @@ Chinese tourism blogger under investigation & facing up to 3 years in jail for a
 ### 7: [2021-07-24 14:31:33+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1418821133529272321)
 
 Yunan man Dai detained for 5 days for saying in WeChat that he was walking his dogs, with a photo of a ticket from traffic police. Police said his post in WeChat insulted them.<br><img style src="https://pbs.twimg.com/media/E7Cp9mPXEAA-g60?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7Cp--vXoAUyewN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-07-25 11:14:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1419133972752203779)
+
+山东省青岛市访民国某玉，因在国家信访局门口拍摄了三段“带有煽动性和辱骂性言语“的视频并发送到微信群，被判处有期徒刑一年三个月，二审维持原判。<br><img style src="https://pbs.twimg.com/media/E7HGd17VIAIVgJi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7HGezuVEAAHpLn?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7HGf3kVoAMbCob?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-07-25 11:17:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1419134614870773766)
+
+Petitioner surnamed Guo from Shandong sentenced to 15 months in prison for shooting three pieces of video and sharing them via WeChat, which authority said contained "inflammatory and abusive" remarks.<br><img style src="https://pbs.twimg.com/media/E7HG4YLVUAYcASv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7HG5qBUYAIMQbV?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7HG6uaUcAMyGF9?format=png&name=orig" referrerpolicy="no-referrer">
 
