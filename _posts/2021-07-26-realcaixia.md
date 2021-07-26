@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-26
+date: 2021-07-27
 from: https://twitter.com/realcaixia/status/1419367869016576000
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re @dadaogcdccp @jenniferatntd 支持这个意见！把这些人都遣返回大�
 ### 8: [2021-07-26 08:01:28+08:00 推文](https://twitter.com/realcaixia/status/1419447742041137154)
 
 上面的蠢人，以为人们与他一样的蠢，竟然撒谎不在乎能不能圆谎。<br><br>Vanessa 姗: 原来整个隧道里才有265量车，而且大部分人员都成功逃脱了，水抽干后才发现了4人死亡，哇哦，我其实更相信郑州官方的眼睛长到脚后跟了，嘴巴长到屁眼里了。<br><br><img style src="https://pbs.twimg.com/media/E7Eu_u7XIAoD1L3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7EvAGpXoAscK98?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-07-27 05:39:35+08:00 推文](https://twitter.com/realcaixia/status/1419774423423459330)
+
+Re @CCPEndObserver 就是这个。
 
