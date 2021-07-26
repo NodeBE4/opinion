@@ -59,3 +59,7 @@ RT Matt Knight<br>Re A must-read eyewitness account of a woman's four hour ord
 
 RT Eric Fish<br>The Wenzhou train crash was 10 years ago today – what became a nationwide indictment of official incompetence and cover-ups at the height of the freewheeling Weibo era, with a traditional media that still had *some* room to operate. So much has changed. <a href="https://www.theguardian.com/world/2011/jul/25/chinese-rail-crash-cover-up-claims" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2011/jul/25/chinese-rail-crash-cover-up-claims</a>
 
+### 12: [2021-07-23 22:43:24+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1418582524205359104)
+
+RT Zhaoyin Feng 馮兆音<br>Disinformation is spreading on Weibo that the Henan floods were created by America's "weather weapon". <br><br>Jin Canrong shared an article warning the risks of such weapons used by adversaries, noting he's not specifically referring to Henan. I wonder what his 2mil followers believe.<br><img style src="https://pbs.twimg.com/media/E6_Py_nXEAIB4MI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
