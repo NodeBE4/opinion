@@ -55,3 +55,15 @@ Re @CCPEndObserver 就是这个。
 
 按照中国大陆汉族聚居地的风俗，地铁死难者的头七，是必须祭奠逝者的日子。然而郑州市民献祭的花却被围起来，不让人看到。这种做法一再伤害着郑州人的心。终于一位郑州的先生站出来了，带头撤去围档鲜花的围板。<br><video src="https://video.twimg.com/ext_tw_video/1419867865906360327/pu/vid/720x1280/fxyH5hbWywvEs_0R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1419867865906360327/pu/img/VTn2QTTlyDSf7W3B.jpg"></video>
 
+### 11: [2021-07-27 19:03:10+08:00 推文](https://twitter.com/realcaixia/status/1419976654127079464)
+
+天道人心不容忤逆。隆重祭奠逝者头七，这一民俗表达的是寄托哀思，是对逝去生命的缅怀。竟然连祭奠都要阻挡，极权专制反人心反人性到了何等地步！2021郑州的人祸大水，荒谬到了绝伦的地步！物极必反。奉劝中共官员，且给你自己留条后路，若坏事做绝，到头来绝的是自己未来的生路。<br><br>幸運草 Lucky clover: @realcaixia 2021年7月27日上午<br>郑州地铁五号线沙口路站B1出口<br>CCP又开始围堵地铁口<br><br><video src="https://video.twimg.com/ext_tw_video/1419869410282541059/pu/vid/1280x704/-8mE4FMCLSQtqL90.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1419869410282541059/pu/img/v7CT4r3YpaZ_W5ER.jpg"></video>
+
+### 12: [2021-07-27 19:07:43+08:00 推文](https://twitter.com/realcaixia/status/1419977798467432448)
+
+天道人心不容忤逆！这次是郑州市民白天拆除围挡。昨天与朋友聊天，不由聊到了夏桀商纣。<br><br>幸運草 Lucky clover: @realcaixia 2021年7月27日上午<br>郑州地铁五号线沙口路站B1出口<br>勇敢的鄭州市民 似乎又把党板拆了<br>(這次是白天拆 )<br><br>視頻來源：<br><br><br>#中國公民與CCP的拉鋸戰<br><br><video src="https://video.twimg.com/ext_tw_video/1419877030322065413/pu/vid/1280x720/0v_MrDMYZr6uk6bv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1419877030322065413/pu/img/6sGWnCKRHZq1b9WS.jpg"></video> <a href="https://weibo.com/5876448064/KqF13aUvV?refer_flag=1001030103_&type=comment" target="_blank" rel="noopener noreferrer">https://weibo.com/5876448064/KqF13aUvV?refer_flag=1001030103_&type=comment</a>
+
+### 13: [2021-07-27 19:17:42+08:00 推文](https://twitter.com/realcaixia/status/1419980310020706312)
+
+Re @Eileen96813146 隆重一词本是中性词，中共极权专将这词用以妆点他们的拍马迎奉。你的疑问正表明他们对汉字文化的破坏已经扭曲了人们的认知。
+
