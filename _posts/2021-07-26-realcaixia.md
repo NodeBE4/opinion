@@ -51,3 +51,7 @@ Re @dadaogcdccp @jenniferatntd 支持这个意见！把这些人都遣返回大�
 
 Re @CCPEndObserver 就是这个。
 
+### 10: [2021-07-27 11:51:53+08:00 推文](https://twitter.com/realcaixia/status/1419868117677842432)
+
+按照中国大陆汉族聚居地的风俗，地铁死难者的头七，是必须祭奠逝者的日子。然而郑州市民献祭的花却被围起来，不让人看到。这种做法一再伤害着郑州人的心。终于一位郑州的先生站出来了，带头撤去围档鲜花的围板。<br><video src="https://video.twimg.com/ext_tw_video/1419867865906360327/pu/vid/720x1280/fxyH5hbWywvEs_0R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1419867865906360327/pu/img/VTn2QTTlyDSf7W3B.jpg"></video>
+
