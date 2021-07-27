@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-27
+date: 2021-07-28
 from: https://twitter.com/realcaixia/status/1419367869016576000
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re @CCPEndObserver 就是这个。
 ### 13: [2021-07-27 19:17:42+08:00 推文](https://twitter.com/realcaixia/status/1419980310020706312)
 
 Re @Eileen96813146 隆重一词本是中性词，中共极权专将这词用以妆点他们的拍马迎奉。你的疑问正表明他们对汉字文化的破坏已经扭曲了人们的认知。
+
+### 14: [2021-07-28 01:02:59+08:00 推文](https://twitter.com/realcaixia/status/1420067204041695238)
+
+潇男——我们不能忘记她，我们不能忘记张展、任志强、高智晟、丁家喜等许许多多被监禁的勇敢者。她们的被囚禁正是为着我们的权利、为着我们后代的自由生活，他们做出了巨大的牺牲。<br><br>中國政治犯關注: “聚焦在押中國女性人權捍衛者”—— 耿瀟男（女）（CPPC編號：00926）因言獲罪遭打壓。2020年9月9日其夫婦等被北京警方拘捕。2021年 2月9日法院以“非法經營罪”判刑3年，秦真被判緩刑。其在庭審“自我辯護”中為換取他人出獄自願承擔全部罪責。刑期至2023年9月8日。關海澱區看守所。<br><br><img style src="https://pbs.twimg.com/media/E7RD2gYUYAIbeyO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://cppc1989.blogspot.com/2020/09/cppc00926.html" target="_blank" rel="noopener noreferrer">https://cppc1989.blogspot.com/2020/09/cppc00926.html</a>
 
