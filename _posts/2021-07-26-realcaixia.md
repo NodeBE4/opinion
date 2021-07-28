@@ -83,3 +83,15 @@ Re @Eileen96813146 隆重一词本是中性词，中共极权专将这词用以�
 
 视频中还有驱赶人的声音：走啦！走啦！是什么人在驱赶别人？<br><br>ZHANGDONG: 头七。悲痛之余，人们必须要问几个为什么？化悲痛为愤怒，追责一定要一追到底！否则悲剧还会重新上演。<br><br><video src="https://video.twimg.com/ext_tw_video/1420031781772972036/pu/vid/544x960/MX3BOjfv2GtHP1Tv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1420031781772972036/pu/img/gCrbBgPPY5JZBfP8.jpg"></video>
 
+### 18: [2021-07-28 22:20:17+08:00 推文](https://twitter.com/realcaixia/status/1420388645400301568)
+
+刚才已经贴出这个图请教网友什么情况,推友们告诉我这是不正常情况，并让我必须涂黑相关信息。因此，我撤除了之前发的这个图片，涂黑发出来。中共网军黑客是邪恶力量打手，我们一起来揭露他们！<br><img style src="https://pbs.twimg.com/media/E7Y78Z3XoAAco7K?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 19: [2021-07-28 22:33:21+08:00 推文](https://twitter.com/realcaixia/status/1420391932694573057)
+
+Re 感谢推友们的指点。Twitter 、YouTubetong和Facebook，是我们揭露极权罪恶的战场，中共邪恶网军自然会在这里攻击每一个正直有良知的朋友。Twitter，Youtube和Facebook上正义与邪恶的激烈较量，清楚地表明中共极权邪恶力量，不仅残暴统治中国人，而且是全世界自由民主与和平的极大威胁。
+
+### 20: [2021-07-28 23:29:05+08:00 推文](https://twitter.com/realcaixia/status/1420405960917520386)
+
+Re @ystianzun 感谢您的指教🌹，以后照您的指教操作。
+
