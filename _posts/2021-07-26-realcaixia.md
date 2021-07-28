@@ -71,3 +71,15 @@ Re @Eileen96813146 隆重一词本是中性词，中共极权专将这词用以�
 
 潇男——我们不能忘记她，我们不能忘记张展、任志强、高智晟、丁家喜等许许多多被监禁的勇敢者。她们的被囚禁正是为着我们的权利、为着我们后代的自由生活，他们做出了巨大的牺牲。<br><br>中國政治犯關注: “聚焦在押中國女性人權捍衛者”—— 耿瀟男（女）（CPPC編號：00926）因言獲罪遭打壓。2020年9月9日其夫婦等被北京警方拘捕。2021年 2月9日法院以“非法經營罪”判刑3年，秦真被判緩刑。其在庭審“自我辯護”中為換取他人出獄自願承擔全部罪責。刑期至2023年9月8日。關海澱區看守所。<br><br><img style src="https://pbs.twimg.com/media/E7RD2gYUYAIbeyO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://cppc1989.blogspot.com/2020/09/cppc00926.html" target="_blank" rel="noopener noreferrer">https://cppc1989.blogspot.com/2020/09/cppc00926.html</a>
 
+### 15: [2021-07-28 18:29:03+08:00 推文](https://twitter.com/realcaixia/status/1420330454629113856)
+
+习上台以来，多少人权律师被抓；多少异见人士被迫害；多少民营企业被整垮；疆藏内蒙地区种族灭绝加大力度；2019以来武汉病毒蔓延全国；去年26省市区洪水泛滥、今年郑州河南人祸水灾，人员死亡数字密不外泄……现在孙大午被捏造罪名重判18年，儿子们亦被重刑。又一个任志强冤案！<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【快讯】“孙大午法庭最后陈述”<br>——阅之心碎泪奔<br><br>何罪之有、又现被判18年？<br>任志强18年、吴小晖18年、现在孙大午又18年<br><br>18年判刑背后意味着什么，有什么样的动机和不可告人的秘密<br><br>中国民企一个时代结束了<br>民营企业家好自为之，奔流吧！<br>1）<br><br><img style src="https://pbs.twimg.com/media/E7YFkvkWEAIbqxI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7YFkvkXsAMKJpS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7YFkvkWQAU2748?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7YFkvnXoAA3x-6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2021-07-28 18:46:01+08:00 推文](https://twitter.com/realcaixia/status/1420334723231010817)
+
+北朝鲜、“西朝鲜”两国制度本质一样！助纣为虐，当遭全世界谴责制裁。<br><br>ZHANGDONG: 中国7月14日驱逐了 50 名北朝鲜人，把包括空军飞行员、企业家以及饥饿的难民在内的一群人送到了鸭绿江边境。他们的命运可能会因逃离家园而受到严厉惩罚。早些年很多朝鲜人逃进德国驻华大使馆和附属德使馆的北京德国学校，那时他们被遣送到了第三国。<br><br><img style src="https://pbs.twimg.com/media/E7Ut8-RWUAA7xHr?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/BitterHomecoming" target="_blank" rel="noopener noreferrer">https://bit.ly/BitterHomecoming</a> <a href="https://twitter.com/RadioFreeAsia/status/1420160068272545797" target="_blank" rel="noopener noreferrer">https://twitter.com/RadioFreeAsia/status/1420160068272545797</a>
+
+### 17: [2021-07-28 18:49:22+08:00 推文](https://twitter.com/realcaixia/status/1420335568404287492)
+
+视频中还有驱赶人的声音：走啦！走啦！是什么人在驱赶别人？<br><br>ZHANGDONG: 头七。悲痛之余，人们必须要问几个为什么？化悲痛为愤怒，追责一定要一追到底！否则悲剧还会重新上演。<br><br><video src="https://video.twimg.com/ext_tw_video/1420031781772972036/pu/vid/544x960/MX3BOjfv2GtHP1Tv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1420031781772972036/pu/img/gCrbBgPPY5JZBfP8.jpg"></video>
+
