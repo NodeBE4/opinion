@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-28
+date: 2021-07-29
 from: https://twitter.com/realcaixia/status/1419367869016576000
 layout: post
 tags:
@@ -94,4 +94,8 @@ Re 感谢推友们的指点。Twitter 、YouTubetong和Facebook，是我们揭�
 ### 20: [2021-07-28 23:29:05+08:00 推文](https://twitter.com/realcaixia/status/1420405960917520386)
 
 Re @ystianzun 感谢您的指教🌹，以后照您的指教操作。
+
+### 21: [2021-07-29 07:07:19+08:00 推文](https://twitter.com/realcaixia/status/1420521276788121603)
+
+必须把这些酷吏、打手的恶行记录下来，用相关人权法案制裁他们，绝不能放过这些恶势力。<br><br>韩连潮: 【制裁迫害孙大午的恶吏】刚参加由美国务院及英、加政府召开的马格尼茨基法会议，#公民力量 赞赏民主国家联合制裁人权施暴者的努力，希望和其他组织一起提交迫害孙大午的恶吏：<br>郑建军-保定公安正局<br>康海潮-保定公安副局<br>马彦华-高碑店政法书记<br>于建军-高碑店公安局长<br>贾士辉-法院院长 <br>王进文-检察长<br><br><img style src="https://pbs.twimg.com/media/E7ZcfeDVkAExZjY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7ZcfeEUUAgY1-J?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7ZjfpTVkAA7Y36?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7ZjjDUVcAQcBKi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
