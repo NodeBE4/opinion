@@ -99,3 +99,15 @@ Re @ystianzun 感谢您的指教🌹，以后照您的指教操作。
 
 必须把这些酷吏、打手的恶行记录下来，用相关人权法案制裁他们，绝不能放过这些恶势力。<br><br>韩连潮: 【制裁迫害孙大午的恶吏】刚参加由美国务院及英、加政府召开的马格尼茨基法会议，#公民力量 赞赏民主国家联合制裁人权施暴者的努力，希望和其他组织一起提交迫害孙大午的恶吏：<br>郑建军-保定公安正局<br>康海潮-保定公安副局<br>马彦华-高碑店政法书记<br>于建军-高碑店公安局长<br>贾士辉-法院院长 <br>王进文-检察长<br><br><img style src="https://pbs.twimg.com/media/E7ZcfeDVkAExZjY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7ZcfeEUUAgY1-J?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7ZjfpTVkAA7Y36?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7ZjjDUVcAQcBKi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 22: [2021-07-29 19:09:47+08:00 推文](https://twitter.com/realcaixia/status/1420703093658902533)
+
+简直就是渣滓洞。把隔离期搞成重犯人囚禁模式，不仅是实际生活、紧急情况下可能酿成大祸，而且是完全没有人的尊严的概念。<br>剥夺人的权利剥夺人的尊严，这样肆无忌惮的事，试放到西方任何一个民主国家都行不通。放在中共国，赤裸裸地显出他们把人当牲畜，当工具当数字的反人道。<br><br>湘女: 这是集中营还是渣滓洞？<br>不！这是新冠隔离区……<br>这不是缺德，是丧尽天良！<br>里边失火怎么办？有急救病人怎么办？。。。<br><br><video src="https://video.twimg.com/ext_tw_video/1420534139246284803/pu/vid/352x640/t5_yBi_puXuwGfDs.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1420534139246284803/pu/img/iW8HgT_97dtxhZCI.jpg"></video>
+
+### 23: [2021-07-29 19:19:29+08:00 推文](https://twitter.com/realcaixia/status/1420705535444373515)
+
+北京市海淀区的一个小区封闭。隔离需要，但可以这样做吗？上班人早晨出家门，下班回来就被挡在路边。人回家的权利呢？！<br><br>鲁  难: 北京回龙观龙越苑二区，封！<br><br><video src="https://video.twimg.com/ext_tw_video/1420463322651140097/pu/vid/544x960/kPe9nR9Yuq8K9h7n.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1420463322651140097/pu/img/_N4h8fgt_Iosi9Dz.jpg"></video>
+
+### 24: [2021-07-29 19:24:21+08:00 推文](https://twitter.com/realcaixia/status/1420706760483028992)
+
+Re @Tonny8244 你有什么证据说是假新闻？
+
