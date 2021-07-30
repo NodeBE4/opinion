@@ -119,3 +119,7 @@ Re 抱歉，我一直把回龙观那里当做海淀区的，离中央党校不�
 
 Re @EvElebQGDtFKGLk 记住路没有记住行政区划。方向不会搞错。
 
+### 27: [2021-07-30 23:15:07+08:00 推文](https://twitter.com/realcaixia/status/1421127219800387588)
+
+千年大计还没过5年就成了死孩子。应该有几千个亿扔进去了吧？要不要追究决策责任？！<br><img style src="https://pbs.twimg.com/media/E7jbo8VWQAAiPmc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7jbpnaXoAsj6eV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7jbqIPXIAQ4mDr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7jbqv6XIAYZmAO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
