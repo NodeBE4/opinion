@@ -127,3 +127,23 @@ Re @EvElebQGDtFKGLk 记住路没有记住行政区划。方向不会搞错。
 
 習當局在全世界面前毀滅了自由繁榮的香港，公開宣告極權統治容不得自由民主，極權專制的本性就要毀滅自由民主制度，人們對極權專制絕不能存半點幻想。<br><br>韩连潮: 【香港安全已不在】今天《华尔街日报》发表社论称中共对香港《苹果日报》的过度打杀及其对该报母公司壹传媒的调查表明香港不再是一个安全的商业地区。毫无疑问这个结论很准确，曾经以法治和自由市场为荣的香港已不复存在，北京以苹果日报开刀，目的是杀一儆百，彻底掌控舆论！<br> <a href="https://www.wsj.com/articles/hong-kong-apple-daily-next-digital-investigation-paul-chan-jimmy-lai-11627683569?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/hong-kong-apple-daily-next-digital-investigation-paul-chan-jimmy-lai-11627683569?reflink=desktopwebshare_twitter</a>
 
+### 29: [2021-07-31 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1421456863959429120)
+
+自從我開了Twitter以來，中共網軍一邊不斷地企圖攻破我的推特，一邊在我的所有推文下攻擊、謾罵、誣陷。他們下三濫的作法，不斷地證明他們是流氓無賴黑幫。這是我剛收到的：<br><br>xxxxxxxxxxx is your confirmation code to reset your Twitter password. Don't reply to this message with your code.
+
+### 30: [2021-07-31 21:49:12+08:00 推文](https://twitter.com/realcaixia/status/1421467985831735296)
+
+Re 對於中共網軍攻擊我的下三濫作法，我就是要揭露它們、曝光它們，這幫專喜歡黑暗裡搞鬼魅伎倆的邪惡東西！中共在Twitter活動猖獗，想嚇倒我嗎？沒門！在國內10年被監視、5年被徹底封禁我的任何文字，這期間N多次的“組織”谈话威胁、讹诈、警察的上门恐吓，他们无一得逞！还怕这些推特上的鬼魅吗？！
+
+### 31: [2021-07-31 23:14:50+08:00 推文](https://twitter.com/realcaixia/status/1421489539584036869)
+
+祝贺台湾运动员优异成绩！加油！台湾！<br><br>草祭: 在今晚東京奧運羽球男雙金牌决賽中，台灣羽球雙打名將王齊麟和李洋以21比18、21比12直落2局戰勝中國雙打組合，為台灣奪下奧運羽球項目首金，可喜可賀!<br><br><img style src="https://pbs.twimg.com/media/E7oQM5iVUAYMzoI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7oQO39VgAUzi4m?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7oQQBAVEAwsGjW?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 32: [2021-07-31 23:51:49+08:00 推文](https://twitter.com/realcaixia/status/1421498845175947267)
+
+现在的所谓防控组是为了掩盖和堵截大陆疫苗无效、疫情日益严重的疫病扩散；而后中共很大可能是逐渐把社会和社区防控组常态化常规化，防控对象不是疫情而是全社会民众！——西朝鲜化的趋势。极权政权的逻辑如此。<br><br>鲁  难: 越描越黑<br><br><img style src="https://pbs.twimg.com/media/E7or1euWYAIH-8_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 33: [2021-07-31 23:58:58+08:00 推文](https://twitter.com/realcaixia/status/1421500643647401988)
+
+Re @HuPing1 @DongFang_USA 中共对全世界民主国家的意识形态渗透、金钱收买、长臂操控等，无所不用其极。这篇文章背后是否有故事？
+
