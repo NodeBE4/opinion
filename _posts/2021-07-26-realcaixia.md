@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-31
+date: 2021-08-01
 from: https://twitter.com/realcaixia/status/1419367869016576000
 layout: post
 tags:
@@ -146,4 +146,24 @@ Re 對於中共網軍攻擊我的下三濫作法，我就是要揭露它們、�
 ### 33: [2021-07-31 23:58:58+08:00 推文](https://twitter.com/realcaixia/status/1421500643647401988)
 
 Re @HuPing1 @DongFang_USA 中共对全世界民主国家的意识形态渗透、金钱收买、长臂操控等，无所不用其极。这篇文章背后是否有故事？
+
+### 34: [2021-08-01 01:01:21+08:00 推文](https://twitter.com/realcaixia/status/1421516341702537216)
+
+Re @lunanweiyi @rongjian1957 我倒不这么看。没有公开的不等于没有发生。中共撒谎成性！恰恰是崔在一大会场地址的照片和与张文宏合影的照片令人格外生出疑问来，请放大看照片细节……，上次的公安部董经纬副部长出逃，中共官方也发了图片试图“辟谣”，结果疑点更多。反过来说，崔没滞美、董经纬副部长难道不是中共官方撒谎？
+
+### 35: [2021-08-01 01:07:57+08:00 推文](https://twitter.com/realcaixia/status/1421518002869112840)
+
+Re @lunanweiyi @rongjian1957 难道中共的话可信？！我对中共半个字都不信，半个标点符号都不信！中共制度性的说谎、官员们撒谎脸都不红，且看看战狼部官员在全世界面前撒谎振振有词，毫无道德廉耻感！谁信中共的谎言谁将自己害了自己。
+
+### 36: [2021-08-01 01:19:01+08:00 推文](https://twitter.com/realcaixia/status/1421520788788760586)
+
+Re @peichang_yang @lunanweiyi @rongjian1957 约定与现在滞美是两回事，不要把之前的“约定”愿望当成现在的实际事实。这个基本逻辑不要混淆了。
+
+### 37: [2021-08-01 02:41:54+08:00 推文](https://twitter.com/realcaixia/status/1421541648299925511)
+
+Re @mtang2020 @lianchaohan 这两张图片颇可疑，请放大照片看细节………。我是半点都不相信中共，他们撒谎成性！
+
+### 38: [2021-08-01 03:21:18+08:00 推文](https://twitter.com/realcaixia/status/1421551563944960007)
+
+Re @HesserPlato @mtang2020 @lianchaohan 请你仔细看看放大了的照片崔的脸下半部。这是用你贴出的图片放大了的。同时有网友质疑与张文宏合照那张也有疑点。<br><img style src="https://pbs.twimg.com/media/E7pdnFXX0AMHRo_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnFZXEAA7KMo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnGJWUAkRn-h?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnJPWYAEfkmy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
