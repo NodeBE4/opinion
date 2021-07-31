@@ -167,3 +167,35 @@ Re @mtang2020 @lianchaohan 这两张图片颇可疑，请放大照片看细节�
 
 Re @HesserPlato @mtang2020 @lianchaohan 请你仔细看看放大了的照片崔的脸下半部。这是用你贴出的图片放大了的。同时有网友质疑与张文宏合照那张也有疑点。<br><img style src="https://pbs.twimg.com/media/E7pdnFXX0AMHRo_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnFZXEAA7KMo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnGJWUAkRn-h?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnJPWYAEfkmy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 39: [2021-08-01 03:53:29+08:00 推文](https://twitter.com/realcaixia/status/1421559663183732738)
+
+网络上网络上议论崔天凯大使是否回国了，有人贴出图片迫不及待地要证明崔大使在上海。我就把图片放大了细看，疑点很明显。请各位网友自己看。<br><br>蔡霞: @HesserPlato @mtang2020 @lianchaohan 请你仔细看看放大了的照片崔的脸下半部。这是用你贴出的图片放大了的。同时有网友质疑与张文宏合照那张也有疑点。<br><br><img style src="https://pbs.twimg.com/media/E7pdnFXX0AMHRo_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnFZXEAA7KMo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnGJWUAkRn-h?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7pdnJPWYAEfkmy?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 40: [2021-08-01 03:55:39+08:00 推文](https://twitter.com/realcaixia/status/1421560207218409472)
+
+请看这个节目分析的情况……。<br><br>秦剛已到任，崔天凱竟沒被免，38年來最詭異！不甘當替罪羊，崔天凱滯美不歸？中紀委的警告，究竟是針對董經緯，還是崔天凱？| 新視野 第288期 2... <a href="https://youtu.be/GIAD9jzW-2o" target="_blank" rel="noopener noreferrer">https://youtu.be/GIAD9jzW-2o</a>
+
+### 41: [2021-08-01 03:58:46+08:00 推文](https://twitter.com/realcaixia/status/1421560991188492290)
+
+Re @ZJ20672066 你们的估计可能都是以己想法代替体制内官员考虑吧。你们低估了体制内官员的不安全感。习当局的残暴超出人们的想象。
+
+### 42: [2021-08-01 04:27:26+08:00 推文](https://twitter.com/realcaixia/status/1421568207148797955)
+
+Re @HesserPlato @ZJ20672066 他们不需要公开，双方都不会主动公开。
+
+### 43: [2021-08-01 04:49:09+08:00 推文](https://twitter.com/realcaixia/status/1421573672809152516)
+
+Re @AnLakeshore @HesserPlato @mtang2020 @lianchaohan 看看崔在一大会址的照片，1，墙上的砖纹对崔脸下半部上嘴唇有神奇的隐隐穿透，2，墙上砖的纹路线条显然比崔的头像纹路线条清晰得多！
+
+### 44: [2021-08-01 04:58:01+08:00 推文](https://twitter.com/realcaixia/status/1421575904413761540)
+
+Re @Tsilien05 @HesserPlato @mtang2020 @lianchaohan 你就胡说吧！
+
+### 45: [2021-08-01 04:58:36+08:00 推文](https://twitter.com/realcaixia/status/1421576048232341509)
+
+Re @ak79092131 @HesserPlato @mtang2020 @lianchaohan 眼神不好使还是心里有魔障？
+
+### 46: [2021-08-01 05:02:33+08:00 推文](https://twitter.com/realcaixia/status/1421577044882870272)
+
+Re @ChiLokHo @mtang2020 @HesserPlato @lianchaohan 崔大使明确反对中国外交部赵战狼说病毒从美国起源。这实际就是反对了习的“大政方针”。
+
