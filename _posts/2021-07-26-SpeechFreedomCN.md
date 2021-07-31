@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-07-28
+date: 2021-07-31
 from: https://twitter.com/SpeechFreedomCN/status/1419541198499287042
 layout: post
 tags:
@@ -30,4 +30,20 @@ Jiangxi man Hou detained for 5 days for spreading "rumor" on Douyin that a local
 ### 4: [2021-07-28 14:50:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1420275456436178949)
 
 Hunan human rights activist @oubiaofeng arrested after seven months of detention. Charge against him is Inciting Subversion of State Regime. Reasons for his arrest include voicing his support for other political criminals, including Dong Yaoqiong and Jimmy Lai.<br><img style src="https://pbs.twimg.com/media/E7XUBMOVgAMr7fF?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-07-31 11:12:43+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1421307810478911491)
+
+江苏省泰兴市男子叶某，因在被交警处罚后发朋友圈质问交警的处罚是否合理，称其“无法无天”，文字中可能还有脏话，导致被拘留5日并罚款500元。<br><img style src="https://pbs.twimg.com/media/E7l_afYUYAEd6IC?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7l_esnVkAITm58?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7l_4HTUUAQsUQN?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-07-31 11:14:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1421308326600531968)
+
+Jiangsu man Ye, who was just fined by traffic police, detained for 5 days & fined 5000 RMB for questioning the lawfulness of the punishment in WeChat.<br><img style src="https://pbs.twimg.com/media/E7l_9oNVcAQ_htS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7l__ttVUAYrg4f?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mABogVIAEg6Lo?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-07-31 12:25:43+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1421326182520295426)
+
+成都市新都区女子徐某，因在微博发言批评南京的防疫措施，被指“伤害了南京人民的感情”并被刑事拘留。徐某的微博原文中有一句“不死一波不足以消我心头之恨”，具有争议。值得注意的是，事发后黑河市和鄂州市网警均转发了一篇声援徐某的文章，但都立即删除。文章中说到徐某指的是让当地官员以死谢罪。<br><img style src="https://pbs.twimg.com/media/E7mQmGYVgAAbNHi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mQmIpVEAQ9T1k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mQmIqUYAQruhr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mQmIpVoAQ74Or?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-07-31 12:29:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1421327236087508992)
+
+Chengdu woman Xu held under criminal detention for criticizing Nanjing’s pandemic preventive measures on Weibo. Notably, police departments from two other cities expressed their support to Xu and then immediately deleted it, which is very rare, if not unprecedented.<br><img style src="https://pbs.twimg.com/media/E7mRjOQVkAMJIpS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mRjQMVIAYOtBy?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mRjQMVkAQqZr0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7mRjQNVUAQqK5n?format=jpg&name=orig" referrerpolicy="no-referrer">
 
