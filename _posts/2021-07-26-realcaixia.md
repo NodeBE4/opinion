@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-07-30
+date: 2021-07-31
 from: https://twitter.com/realcaixia/status/1419367869016576000
 layout: post
 tags:
@@ -122,4 +122,8 @@ Re @EvElebQGDtFKGLk 记住路没有记住行政区划。方向不会搞错。
 ### 27: [2021-07-30 23:15:07+08:00 推文](https://twitter.com/realcaixia/status/1421127219800387588)
 
 千年大计还没过5年就成了死孩子。应该有几千个亿扔进去了吧？要不要追究决策责任？！<br><img style src="https://pbs.twimg.com/media/E7jbo8VWQAAiPmc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7jbpnaXoAsj6eV?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7jbqIPXIAQ4mDr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7jbqv6XIAYZmAO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 28: [2021-07-31 09:46:15+08:00 推文](https://twitter.com/realcaixia/status/1421286052266971137)
+
+習當局在全世界面前毀滅了自由繁榮的香港，公開宣告極權統治容不得自由民主，極權專制的本性就要毀滅自由民主制度，人們對極權專制絕不能存半點幻想。<br><br>韩连潮: 【香港安全已不在】今天《华尔街日报》发表社论称中共对香港《苹果日报》的过度打杀及其对该报母公司壹传媒的调查表明香港不再是一个安全的商业地区。毫无疑问这个结论很准确，曾经以法治和自由市场为荣的香港已不复存在，北京以苹果日报开刀，目的是杀一儆百，彻底掌控舆论！<br> <a href="https://www.wsj.com/articles/hong-kong-apple-daily-next-digital-investigation-paul-chan-jimmy-lai-11627683569?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/hong-kong-apple-daily-next-digital-investigation-paul-chan-jimmy-lai-11627683569?reflink=desktopwebshare_twitter</a>
 
