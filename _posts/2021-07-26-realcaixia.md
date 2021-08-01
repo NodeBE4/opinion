@@ -199,3 +199,15 @@ Re @ak79092131 @HesserPlato @mtang2020 @lianchaohan 眼神不好使还是心里�
 
 Re @ChiLokHo @mtang2020 @HesserPlato @lianchaohan 崔大使明确反对中国外交部赵战狼说病毒从美国起源。这实际就是反对了习的“大政方针”。
 
+### 47: [2021-08-01 09:20:03+08:00 推文](https://twitter.com/realcaixia/status/1421641846191792128)
+
+Re 看看崔在一大会址的照片，1，墙上的砖纹对崔脸下半部上嘴唇有神奇的隐隐穿透，2，墙上砖纹线条显然比崔的头像纹路线条清晰得多。这是一个镜头同时拍摄的吗？这么明显的差别硬要说看不出来,那就是故意装糊涂：若是故意装睡，那永远都叫不醒。
+
+### 48: [2021-08-01 11:47:37+08:00 推文](https://twitter.com/realcaixia/status/1421678981242359809)
+
+秦刚临到美国前参观了中共一大会址；有人贴出崔天凯人在上海参观一大会址的照片。这两张照片上一大会址标示牌有明显不同。其中必有一张为假！<br><img style src="https://pbs.twimg.com/media/E7rRflEWYAAaGGO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E7rRfylXMAAsD13?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 49: [2021-08-01 12:11:24+08:00 推文](https://twitter.com/realcaixia/status/1421684965503348740)
+
+Re 秦刚大使在自己的推特上发出的这张参观一大会址照片。
+
