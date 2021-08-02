@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-02
+date: 2021-08-03
 from: https://twitter.com/realcaixia/status/1421888133004775430
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re @NuR8FZrHbfT0HJT @wwXAnA6w @meimei1935 @lianchaohan 感谢理解。🌹🤝
 ### 8: [2021-08-02 11:19:47+08:00 推文](https://twitter.com/realcaixia/status/1422034365559844864)
 
 Re @020news1 @NuR8FZrHbfT0HJT @meimei1935 @wwXAnA6w @lianchaohan 不讨论问题本身，却要追究我的动机，这种做法就是典型中共做法。你的说法令我想起2016年的情况，我当然要说出来。你自己认领帽子，还要倒打一耙，你真有本事。
+
+### 9: [2021-08-03 04:27:32+08:00 推文](https://twitter.com/realcaixia/status/1422293006552547330)
+
+当公共权力体制不仅处于黑洞毫不公开透明，而且不断谎言欺骗，同时不断封锁信息时，信息流通不得不以“谣言”形式出现，而强权统治也常以打击“造谣”为名来压制真相，迫害说真话者。例如迫害李文亮、任志强………<br><img style src="https://pbs.twimg.com/media/E7z_8mRXoAcLWOr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
