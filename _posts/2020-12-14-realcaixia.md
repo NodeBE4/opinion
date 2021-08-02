@@ -37,7 +37,7 @@ Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类
 
 ### 6: [2020-12-14 21:43:01+08:00 推文](https://twitter.com/realcaixia/status/1338479611647324160)
 
-概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位…<br><br>荣剑: 新三个凡是，概括还是蛮精准的。<br><br><img style src="https://pbs.twimg.com/media/EpMhkxDUwAAh9Dd?format=jpg&name=orig" referrerpolicy="no-referrer">
+概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位… <a href="https://twitter.com/rongjian1957/status/1338450432759230464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1338450432759230464</a>
 
 ### 7: [2020-12-15 00:15:58+08:00 推文](https://twitter.com/realcaixia/status/1338518099339997193)
 
@@ -69,7 +69,7 @@ Re @James50056336 🌹🙏
 
 ### 14: [2020-12-17 11:01:51+08:00 推文](https://twitter.com/realcaixia/status/1339405420784472066)
 
-张展无罪！<br><br>相林🌸: 張展尋衅滋事案即將開庭，請關注、支持🙏🙏<br>中國公民記者張展因為報導武漢疫情而被捕關押至今，9月15日被檢察官求刑四至五年，本月28日在上海浦東法院開庭。<br>張展自5月中旬起在獄中抗議絕食持續至今。邪惡中共趁美國大選混亂之即，對香港、國內異議人士大開殺戒，請大家多關注與支持。<br><br><img style="" src="https://pbs.twimg.com/media/EpXatutUUAAOUau?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpXatutU0AMXIgl?format=jpg&name=orig" referrerpolicy="no-referrer">
+张展无罪！<br><br>相林🌸: 張展尋衅滋事案即將開庭，請關注、支持🙏🙏<br>中國公民記者張展因為報導武漢疫情而被捕關押至今，9月15日被檢察官求刑四至五年，本月28日在上海浦東法院開庭。<br>張展自5月中旬起在獄中抗議絕食持續至今。邪惡中共趁美國大選混亂之即，對香港、國內異議人士大開殺戒，請大家多關注與支持。<br><br><img style src="https://pbs.twimg.com/media/EpXatutUUAAOUau?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpXatutU0AMXIgl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2020-12-17 11:38:43+08:00 推文](https://twitter.com/realcaixia/status/1339414697498595329)
 
@@ -81,7 +81,7 @@ Re @James50056336 🌹🙏
 
 ### 17: [2020-12-17 23:20:59+08:00 推文](https://twitter.com/realcaixia/status/1339591429425823744)
 
-中共当局故意把张展案放在12月28号开庭审理，那时正是西方国家最重要的传统假期：圣诞节休假期间，西方民众或许对中国关注度会降低一些。即便是这样，我们更要努力为张展呼吁。张展如实报道真相无罪！无罪释放张展！希望有更多的朋友网友与我一起关注张展，不能让迫害张展恶行继续下去。<br><br>ZHANGDONG: Die chi. Bürgerjournalistin, Frau Zhang Zhan wurde seit Mitte Mai dieses Jahres wegen ihres Berichtes über die Pandemie in Wuhan inhaftiert. Am 18.08.<br>2020 wurde offiziell gegen sie Klage erhoben. Sie wurde am 15. September von der chi. Staatsanwaltschaft mit 4-5 Jahren Gefängnis<br><br><img style src="https://pbs.twimg.com/media/EpZTMgBXMAAhz2i?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpZTMvbW8AIfME6?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共当局故意把张展案放在12月28号开庭审理，那时正是西方国家最重要的传统假期：圣诞节休假期间，西方民众或许对中国关注度会降低一些。即便是这样，我们更要努力为张展呼吁。张展如实报道真相无罪！无罪释放张展！希望有更多的朋友网友与我一起关注张展，不能让迫害张展恶行继续下去。<br><br>ZHANGDONG: Die chi. Bürgerjournalistin, Frau Zhang Zhan wurde seit Mitte Mai dieses Jahres wegen ihres Berichtes über die Pandemie in Wuhan inhaftiert. Am 18.08.<br>2020 wurde offiziell gegen sie Klage erhoben. Sie wurde am 15. September von der chi. Staatsanwaltschaft mit 4-5 Jahren Gefängnis<br><br><img style="" src="https://pbs.twimg.com/media/EpZTMgBXMAAhz2i?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpZTMvbW8AIfME6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2020-12-17 23:32:01+08:00 推文](https://twitter.com/realcaixia/status/1339594204205338626)
 
