@@ -51,3 +51,7 @@ Re @020news1 @NuR8FZrHbfT0HJT @meimei1935 @wwXAnA6w @lianchaohan 不讨论问题
 
 当公共权力体制不仅处于黑洞毫不公开透明，而且不断谎言欺骗，同时不断封锁信息时，信息流通不得不以“谣言”形式出现，而强权统治也常以打击“造谣”为名来压制真相，迫害说真话者。例如迫害李文亮、任志强………<br><img style src="https://pbs.twimg.com/media/E7z_8mRXoAcLWOr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 10: [2021-08-03 12:08:03+08:00 推文](https://twitter.com/realcaixia/status/1422408899630616576)
+
+关注张展！请推友们一起呼吁尽快释放张展，尽快送张展去医院治疗。<br><img style src="https://pbs.twimg.com/media/E71pVwyX0AITYze?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71pWD9XEAE4sxE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71pWUDWEAAlyWf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71pWloWEAQdioq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
