@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-03
+date: 2021-08-04
 from: https://twitter.com/realcaixia/status/1421888133004775430
 layout: post
 tags:
@@ -54,4 +54,32 @@ Re @020news1 @NuR8FZrHbfT0HJT @meimei1935 @wwXAnA6w @lianchaohan 不讨论问题
 ### 10: [2021-08-03 12:08:03+08:00 推文](https://twitter.com/realcaixia/status/1422408899630616576)
 
 关注张展！请推友们一起呼吁尽快释放张展，尽快送张展去医院治疗。<br><img style src="https://pbs.twimg.com/media/E71pVwyX0AITYze?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71pWD9XEAE4sxE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71pWUDWEAAlyWf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71pWloWEAQdioq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-08-04 08:49:58+08:00 推文](https://twitter.com/realcaixia/status/1422721438725853184)
+
+这个倡议好！在未来中国的政治转型中，相信中国民营企业家应该而且能发挥很大的作用；在当下中国大陆恶劣的政治环境中，中国海外与大陆的民营企业家需要为保护自己的正当权利和合法财产而“抱团取暖”相互支持。联合起来才有力量。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【独家重磅】<br><br>关于成立中国民营企业联盟<br>             暨工商业者联盟的倡议书 <br><br>民企为社会做出极大贡献，可谓中共“尔禄尔俸、尔党尔军，皆我血汗、民脂民膏“……<br> <a href="https://ipkmedia.com/?p=89225" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=89225</a>
+
+### 12: [2021-08-04 09:30:18+08:00 推文](https://twitter.com/realcaixia/status/1422731588438200323)
+
+Re @LipingHuang7 你以为忍让企业家就安全了吗？逆来顺受的结局就是企业家被捏造个罪名打进监狱，就像他们迫害孙大午一样，企业家的资产被抢夺被榨干。你的说法就是要企业家甘当奴隶，这是没有任何出路的。
+
+### 13: [2021-08-04 09:58:14+08:00 推文](https://twitter.com/realcaixia/status/1422738619886972928)
+
+Re @NuR8FZrHbfT0HJT @lianchaohan 我恰恰不同意你的看法。我2014年就在思考做这个课题：中共不是现代政治意义上的政党，是由毛这样的社会边缘人——乡村小知识分子与社会底层民众集合起来的带有强烈政治色彩的江湖帮会组织。毛在湖南乡村做的就是痞子运动，这个运动打着平等、解放的旗号吸引了众多人参加。号称“党”其实是“痞子帮”！
+
+### 14: [2021-08-04 10:12:35+08:00 推文](https://twitter.com/realcaixia/status/1422742229760757766)
+
+Re @NuR8FZrHbfT0HJT @lianchaohan 1949后中共搞极权统治，毛成了事实上的皇帝。1978年以后，尽管邓实行了改革开放但不许触动极权体制，由此中共一直没能把自己从“痞子帮”转变为名副其实的“政党”，习上台后，急剧“返祖”，“党”的外衣基本被习全撕光，彻底漏出“痞子帮”的底裤本色，习就是黑帮老大，中共是政治僵尸。
+
+### 15: [2021-08-04 10:34:17+08:00 推文](https://twitter.com/realcaixia/status/1422747692418191361)
+
+Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“红”二代，是中共“八旗子弟”自封的，以为“红”是褒义词，而在我看来“红”是鲜血淋漓，马克思高度赞赏法国大革命的暴力，即“红色恐怖”。因而，即便我的外公、父母都是参加了中共暴力革命的，我也要从中国走向现代文明的角度去反思，否则我们中国人将再现野蛮杀戳的历史悲剧。
+
+### 16: [2021-08-04 10:55:57+08:00 推文](https://twitter.com/realcaixia/status/1422753141456613388)
+
+非常赞成这个推文！去年武汉病毒祸害肆虐，至今未见追究责任；今年又现河南大水人祸，郑州市与河南省究竟死亡多少人，一直撒谎隐瞒。郑州当局甚至围挡人们的悼念鲜花，不让人们祭奠死难者。无论是悄悄开闸放水泄洪还是阻挡人们悼念逝去的生命，当局毫无人性！必须查办这几人以谢罪民众，否则天理难容！<br><br>韩连潮: 【楼阳生徐立毅必须引咎辞职以谢中州父老！】河南郑州等地因楼阳生、徐立毅重大渎职酿成灾祸，先是救助不力，无视生命造成大量民众死亡和财产损失，次是瞒情不报和欺上瞒下，死亡人数从最初宣布的14人升至302人，他们必须先辞职，接受调查，交代清关键时间段在做什么，不能因属之江新军而搞特殊！请转<br><br><img style src="https://pbs.twimg.com/media/E76TMInWUAE6wBX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E76TOHnXoAEVvz_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 17: [2021-08-04 11:15:38+08:00 推文](https://twitter.com/realcaixia/status/1422758095743238144)
+
+请读这篇文章。为什么造成河南省与郑州市洪水的灭顶之灾？原来泄洪是为保证南水北调中线工程的调水质量；为什么抗洪救灾一线看不到军人？原来军人被调上南水北调中线工程去加固输水渠道，确保输水质量去了！人民生命财产安全不在首先考虑之列！<br>王维洛：谈谈河南洪水 <a href="https://yibaochina.com/?p=242682" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=242682</a>
 
