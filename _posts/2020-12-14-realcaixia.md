@@ -73,7 +73,7 @@ Re @James50056336 🌹🙏
 
 ### 15: [2020-12-17 11:38:43+08:00 推文](https://twitter.com/realcaixia/status/1339414697498595329)
 
-这个冬天中国民众日子难过。为向澳大利亚施加压力，宁可中国多省拉闸限电，企业停工、经济受损、居民生活困难，也要显示中共强硬态度。中共好与别国斗狠，就拿民众当代价。<br><img style src="https://pbs.twimg.com/media/EpaOiszXYAEQacT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpaOjEDXMAckpvX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpaOjkuXEAIqjfF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EpaOkGCW8AA-I0v?format=jpg&name=orig" referrerpolicy="no-referrer">
+这个冬天中国民众日子难过。为向澳大利亚施加压力，宁可中国多省拉闸限电，企业停工、经济受损、居民生活困难，也要显示中共强硬态度。中共好与别国斗狠，就拿民众当代价。<br><img style="" src="https://pbs.twimg.com/media/EpaOiszXYAEQacT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpaOjEDXMAckpvX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpaOjkuXEAIqjfF?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EpaOkGCW8AA-I0v?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2020-12-17 23:09:01+08:00 推文](https://twitter.com/realcaixia/status/1339588415348592645)
 

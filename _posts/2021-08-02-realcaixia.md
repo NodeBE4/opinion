@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-04
+date: 2021-08-05
 from: https://twitter.com/realcaixia/status/1421888133004775430
 layout: post
 tags:
@@ -82,4 +82,16 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 ### 17: [2021-08-04 11:15:38+08:00 推文](https://twitter.com/realcaixia/status/1422758095743238144)
 
 请读这篇文章。为什么造成河南省与郑州市洪水的灭顶之灾？原来泄洪是为保证南水北调中线工程的调水质量；为什么抗洪救灾一线看不到军人？原来军人被调上南水北调中线工程去加固输水渠道，确保输水质量去了！人民生命财产安全不在首先考虑之列！<br>王维洛：谈谈河南洪水 <a href="https://yibaochina.com/?p=242682" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=242682</a>
+
+### 18: [2021-08-04 22:14:49+08:00 推文](https://twitter.com/realcaixia/status/1422923984992100361)
+
+这个雄安新区如今被国内网友嘲笑为中央首付，河北续尾款。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 习无道：习近平的“千年大计”不到五年就破灭，雄安新区连降三级万亿工程烂尾<br> <a href="https://www.newhighlandvision.com/%e4%b9%a0%e6%97%a0%e9%81%93%ef%bc%9a%e4%b9%a0%e8%bf%91%e5%b9%b3%e7%9a%84%e5%8d%83%e5%b9%b4%e5%a4%a7%e8%ae%a1%e4%b8%8d%e5%88%b0%e4%ba%94%e5%b9%b4%e5%b0%b1%e7%a0%b4%e7%81%ad%ef%bc%8c/" target="_blank" rel="noopener noreferrer">https://www.newhighlandvision.com/%e4%b9%a0%e6%97%a0%e9%81%93%ef%bc%9a%e4%b9%a0%e8%bf%91%e5%b9%b3%e7%9a%84%e5%8d%83%e5%b9%b4%e5%a4%a7%e8%ae%a1%e4%b8%8d%e5%88%b0%e4%ba%94%e5%b9%b4%e5%b0%b1%e7%a0%b4%e7%81%ad%ef%bc%8c/</a>
+
+### 19: [2021-08-04 23:27:31+08:00 推文](https://twitter.com/realcaixia/status/1422942279996674048)
+
+几年前邓朴方曾在全国残联大会上有个讲话，对习提出了看似劝告实质批评的几句话，文字相对温和但细品份量很重，以至于讲话最终被封杀了。这个音频显然犀利多了，或者这是体制内许多人的意见借邓朴方名字表达出来，或者是邓朴方觉得不犀利不行了。15个问题即是习15个痛点，且看习等如何抵赖反扑。<br><br>ZHANGDONG: 去年4月中国流传出一个据说是邓朴方的公开信，向两会代表提出15个问题，质疑一尊各项国策，质问两会代表意义，中国究竟是谁的国家？武肺疫情失控、香港一国两制遭破坏、中美关系恶化、一带一路和雄安新区项目流产、台湾与大陆渐行渐远等问题，谁应承担责任？字字一针见血，都是国人最为关注的现实问题.<br><br><video src="https://video.twimg.com/ext_tw_video/1422912004797390851/pu/vid/304x156/cOqjmZy02GF9iP_t.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1422912004797390851/pu/img/rycJ4kayyxiNPlUM.jpg"></video>
+
+### 20: [2021-08-05 01:21:28+08:00 推文](https://twitter.com/realcaixia/status/1422970959615741965)
+
+这是个很重要的问题。<br><br>KOKANG OF MYANMAR缅甸🇲🇲果敢: 我发现一个很有意思的情况<br>发现几乎所有的粉红和部分中国人，不会代入性思考<br>比如我们在看见中国因疫情封锁整个一栋楼里面居民没有吃的的时候，我们第一反应，就是，这个办法很残酷，假如我在里面我会怎么办，然后会对这种做法产生厌恶感<br>粉红的做法应该是，反正又不是封我家，管我鸟事?<br>
 
