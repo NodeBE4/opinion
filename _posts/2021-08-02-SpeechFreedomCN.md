@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-08-03
+date: 2021-08-05
 from: https://twitter.com/SpeechFreedomCN/status/1422384875416416257
 layout: post
 tags:
@@ -22,4 +22,12 @@ Re 因言获罪被判刑半年的杨开放，原为一名律师，因为在电�
 ### 2: [2021-08-03 10:34:25+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1422385335871238152)
 
 Re Yang was a lawyer before arrested for posting those "illegal remarks". After serving his six-month sentence, Yang was later revoked of his lawyer's license for the same reason.<br><img style src="https://pbs.twimg.com/media/E71TlsjVcAY9w8G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E71TnxBUYAU-lM5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-08-05 15:05:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1423178261530513410)
+
+7月底，有网友爆料称南京市溧水区即将建设方舱医院，并配有会议现场照片等材料。由于此信息暗示出当地疫情形势严峻，官方立刻辟谣，并称正在调查“造谣者”。一周后，新华社报道称南京确实在加快建设应急隔离中心，但不是方舱医院。<br><img style src="https://pbs.twimg.com/media/E8AkRN0UYAAN3zd?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8AkTicVgAIErOi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8AkVngVkAII0ok?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8AkcneVkAE5Ujk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-08-05 15:09:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1423179288338067461)
+
+One week ago, someone said Nanjing authority was building a mobile cabin hospital to deal with local pandemic. Authority shortly denied it and vowed to arrest the person who spread the "rumor". Yesterday, authority confirmed Nanjing was building a mass quarantine center.<br><img style src="https://pbs.twimg.com/media/E8AlJzMUcAI1f1b?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8AlM_HUUAE52g1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8AlOu2VIAEFqiN?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8AlSPcUYAQzrpU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
