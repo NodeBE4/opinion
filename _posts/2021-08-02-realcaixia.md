@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-05
+date: 2021-08-06
 from: https://twitter.com/realcaixia/status/1421888133004775430
 layout: post
 tags:
@@ -98,4 +98,20 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 ### 21: [2021-08-05 06:17:58+08:00 推文](https://twitter.com/realcaixia/status/1423045575986012160)
 
 孙大午是个理想主义者，他用自己30年的努力，期望給自己的父老乡亲走出一条富裕与公平的路来。然而，极权体制统治容不得孙大午创造力的迸发，他们需要奴才与奴隶，不需要正直善良的人。当地贪官同样容不得孙大午，他们要的是行贿送钱的脏老板，孙大午要做堂堂正正的企业家，必然被他们构陷入罪！<br><br>韩连潮: 【孫大午的夢】#公民力量 出版社推出程鐵軍教授深度介紹良心企業家孫大午的專著：走進大午集團，你會在不經意間，發現紅磚牆上寫著關於"大午桃源夢"的標語和詩句。 那個夢，就是在他這個私有制的民營企業里，通過勞動交換和民主管理，最終實現有差別的共同富裕的夢...免費下載<br><br><img style src="https://pbs.twimg.com/media/E7-ghy3XIAQKmyD?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://www.amazon.com/dp/B09BV63Z97" target="_blank" rel="noopener noreferrer">https://www.amazon.com/dp/B09BV63Z97</a>
+
+### 22: [2021-08-05 23:15:32+08:00 推文](https://twitter.com/realcaixia/status/1423301652979855364)
+
+余英時先生是著名的歷史學家，著名的思想家。特轉推余英時先生的這篇文字以誌悼念。<br><img style src="https://pbs.twimg.com/media/E8CVTBVWEAA0_rt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8CVTUzWUAYQmqe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8CVTpKX0AYjxN-?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-08-05 23:16:10+08:00 推文](https://twitter.com/realcaixia/status/1423301814682886151)
+
+余英时：我没有乡愁 - 小组讨论 - 豆瓣 <a href="https://m.douban.com/group/topic/2585245/" target="_blank" rel="noopener noreferrer">https://m.douban.com/group/topic/2585245/</a>
+
+### 24: [2021-08-05 23:27:20+08:00 推文](https://twitter.com/realcaixia/status/1423304622744219652)
+
+這篇文章是從一個獨特的視角，記述余英時先生的生平。<br>余英时：我没有乡愁 | 博谈网 <a href="https://botanwang.com/articles/201410/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E6%88%91%E6%B2%A1%E6%9C%89%E4%B9%A1%E6%84%81.html" target="_blank" rel="noopener noreferrer">https://botanwang.com/articles/201410/%E4%BD%99%E8%8B%B1%E6%97%B6%EF%BC%9A%E6%88%91%E6%B2%A1%E6%9C%89%E4%B9%A1%E6%84%81.html</a>
+
+### 25: [2021-08-06 00:30:45+08:00 推文](https://twitter.com/realcaixia/status/1423320582935007233)
+
+史学泰斗余英时91岁辞世 关注中国文化命运 终身反共 <a href="https://www.rfa.org/mandarin/yataibaodao/hx0805a-08052021075608.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/hx0805a-08052021075608.html</a>
 
