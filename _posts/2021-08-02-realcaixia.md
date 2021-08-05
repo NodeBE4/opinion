@@ -95,3 +95,7 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 
 这是个很重要的问题。<br><br>KOKANG OF MYANMAR缅甸🇲🇲果敢: 我发现一个很有意思的情况<br>发现几乎所有的粉红和部分中国人，不会代入性思考<br>比如我们在看见中国因疫情封锁整个一栋楼里面居民没有吃的的时候，我们第一反应，就是，这个办法很残酷，假如我在里面我会怎么办，然后会对这种做法产生厌恶感<br>粉红的做法应该是，反正又不是封我家，管我鸟事?<br>
 
+### 21: [2021-08-05 06:17:58+08:00 推文](https://twitter.com/realcaixia/status/1423045575986012160)
+
+孙大午是个理想主义者，他用自己30年的努力，期望給自己的父老乡亲走出一条富裕与公平的路来。然而，极权体制统治容不得孙大午创造力的迸发，他们需要奴才与奴隶，不需要正直善良的人。当地贪官同样容不得孙大午，他们要的是行贿送钱的脏老板，孙大午要做堂堂正正的企业家，必然被他们构陷入罪！<br><br>韩连潮: 【孫大午的夢】#公民力量 出版社推出程鐵軍教授深度介紹良心企業家孫大午的專著：走進大午集團，你會在不經意間，發現紅磚牆上寫著關於"大午桃源夢"的標語和詩句。 那個夢，就是在他這個私有制的民營企業里，通過勞動交換和民主管理，最終實現有差別的共同富裕的夢...免費下載<br><br><img style src="https://pbs.twimg.com/media/E7-ghy3XIAQKmyD?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://www.amazon.com/dp/B09BV63Z97" target="_blank" rel="noopener noreferrer">https://www.amazon.com/dp/B09BV63Z97</a>
+
