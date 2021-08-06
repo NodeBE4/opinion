@@ -119,3 +119,7 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 
 荣剑老师说得是。人以群分，物以类聚……<br><br>荣剑: 王义桅号称是国际问题专家，他把塔利班当哥们，把塔利班看作是阿富汗的解放军，也就是说他把现在合法的阿富汗政府看作是一个必须被打倒的非法政府了，这是公开为被世界公认的恐怖组织塔利班张目，在阿富汗煽动叛乱。正如网上有评论指出，敌人的敌人不一定就是朋友，以塔利班为友，只能招来更多的敌人。<br><br><img style src="https://pbs.twimg.com/media/E8ESfmZUYAQHIXU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8ESgfSUUAMQ8eW?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1423271607431168011" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1423271607431168011</a>
 
+### 27: [2021-08-06 20:46:44+08:00 推文](https://twitter.com/realcaixia/status/1423626596079087616)
+
+传说的邓朴方公开信的文字版。无论是不是邓朴方所写，这15个问题都是关键要害问题，追究与解决这些问题，关系到大陆未来的前途，关系到我们还在大陆的家人亲朋好友的福祉。<br><br>ZHANGDONG: 传说中的“邓朴方公开信”的音频在推特上不能完整发出，应推友要求，现将根据音频记录的文字文本再发一遍。这封公开信不一定是邓朴方亲笔之作，也许只是他人假借邓朴方之名表达民意。无论如何，质疑的15个问题入情入理，笔锋犀利，切中要害，传达了民众的心声，时至今日仍有现实意义。<br><br><img style src="https://pbs.twimg.com/media/E8GvtLvWEAIRX5f?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/realcaixia/status/1422942279996674048" target="_blank" rel="noopener noreferrer">https://twitter.com/realcaixia/status/1422942279996674048</a>
+
