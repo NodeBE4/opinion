@@ -115,3 +115,7 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 
 史学泰斗余英时91岁辞世 关注中国文化命运 终身反共 <a href="https://www.rfa.org/mandarin/yataibaodao/hx0805a-08052021075608.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/hx0805a-08052021075608.html</a>
 
+### 26: [2021-08-06 09:06:52+08:00 推文](https://twitter.com/realcaixia/status/1423450468768964612)
+
+荣剑老师说得是。人以群分，物以类聚……<br><br>荣剑: 王义桅号称是国际问题专家，他把塔利班当哥们，把塔利班看作是阿富汗的解放军，也就是说他把现在合法的阿富汗政府看作是一个必须被打倒的非法政府了，这是公开为被世界公认的恐怖组织塔利班张目，在阿富汗煽动叛乱。正如网上有评论指出，敌人的敌人不一定就是朋友，以塔利班为友，只能招来更多的敌人。<br><br><img style src="https://pbs.twimg.com/media/E8ESfmZUYAQHIXU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8ESgfSUUAMQ8eW?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1423271607431168011" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1423271607431168011</a>
+
