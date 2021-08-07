@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-06
+date: 2021-08-08
 from: https://twitter.com/realcaixia/status/1421888133004775430
 layout: post
 tags:
@@ -122,4 +122,12 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 ### 27: [2021-08-06 20:46:44+08:00 推文](https://twitter.com/realcaixia/status/1423626596079087616)
 
 传说的邓朴方公开信的文字版。无论是不是邓朴方所写，这15个问题都是关键要害问题，追究与解决这些问题，关系到大陆未来的前途，关系到我们还在大陆的家人亲朋好友的福祉。<br><br>ZHANGDONG: 传说中的“邓朴方公开信”的音频在推特上不能完整发出，应推友要求，现将根据音频记录的文字文本再发一遍。这封公开信不一定是邓朴方亲笔之作，也许只是他人假借邓朴方之名表达民意。无论如何，质疑的15个问题入情入理，笔锋犀利，切中要害，传达了民众的心声，时至今日仍有现实意义。<br><br><img style src="https://pbs.twimg.com/media/E8GvtLvWEAIRX5f?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/realcaixia/status/1422942279996674048" target="_blank" rel="noopener noreferrer">https://twitter.com/realcaixia/status/1422942279996674048</a>
+
+### 28: [2021-08-07 23:52:09+08:00 推文](https://twitter.com/realcaixia/status/1424035642489688064)
+
+前天CNN报道美国众议院外委会共和党提交了武汉病毒溯源报告；现在大陆中央电视台主持人播报的内容恰恰又给提供了有力的旁证。当时作为政绩显摆，未来将作证据呈堂。用欧美人的话说：上帝是公平的。<br><br>韩连潮: 这个视频给 #中共病毒 实验室泄漏提供了又一个证据，也是中共至今不配合国际社会包括世界卫生组织调查的病毒源头的原因。感谢网友把它挖掘出来！<br><br><video src="https://video.twimg.com/ext_tw_video/1424030642728230915/pu/vid/1280x720/wVpsaKg4PcyknKoq.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1424030642728230915/pu/img/xt8S1tkb3ozXTF8p.jpg"></video>
+
+### 29: [2021-08-08 00:33:32+08:00 推文](https://twitter.com/realcaixia/status/1424046057437159432)
+
+最近大陆自毁经济的动作一个连一个，特别对互联网大企业，为何如此？或许文昭评论的角度颇有些道理。<br><br>總攻來了！武漢實驗室病毒數據被美國一鍋端！中共為大孤立到來做準備；「加速倒車」疑問解開了（文昭談古論今969期） <a href="https://youtu.be/iqRHnXiIZ4s" target="_blank" rel="noopener noreferrer">https://youtu.be/iqRHnXiIZ4s</a>
 
