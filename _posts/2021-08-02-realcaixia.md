@@ -131,3 +131,7 @@ Re @NuR8FZrHbfT0HJT @lianchaohan 韩先生的文字还是温和的。所谓“�
 
 最近大陆自毁经济的动作一个连一个，特别对互联网大企业，为何如此？或许文昭评论的角度颇有些道理。<br><br>總攻來了！武漢實驗室病毒數據被美國一鍋端！中共為大孤立到來做準備；「加速倒車」疑問解開了（文昭談古論今969期） <a href="https://youtu.be/iqRHnXiIZ4s" target="_blank" rel="noopener noreferrer">https://youtu.be/iqRHnXiIZ4s</a>
 
+### 30: [2021-08-08 22:16:11+08:00 推文](https://twitter.com/realcaixia/status/1424373880324505602)
+
+55年前的今天中共发布文革决定，将大陆推入十年动乱……。改革开放曾可能使大陆走向现代文明，但邓小平改革为“救党”，因而改政策不改根本制度，为习上台后的倒退反动埋下了伏笔。当下习当局疯狂摧毁民营经济、加剧垄断资源、再次闭关锁国、发文迫害精英、暴虐抢劫平民，大陆民众还将深陷苦难无尽……<br><img style src="https://pbs.twimg.com/media/E8RkfHZXEAwi5qT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8Rkfd2XEAQrWpn?format=jpg&name=orig" referrerpolicy="no-referrer">
+
