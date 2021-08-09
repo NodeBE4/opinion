@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-08-09~2021-08-15'
 
 Two men in Hebei Province administratively detained for spreading "rumors" relating to a recent flood.<br><img style src="https://pbs.twimg.com/media/E8UtORpVIAIBg5R?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8UtPWwVgAAItko?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-08-09 17:20:02+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1424661740382425088)
+
+湖北省大冶市异议人士尹旭安，因“利用社会热点等问题编造虚假信息发送到推特等网站“，于7月底被判处有期徒刑四年半。判决书中列举出他的“罪行”为三条推文，分别是两段官民冲突的视频到推特，以及与其与友人在“闽D8964”的车牌合影照片，并配文纪念六四。<br><img style src="https://pbs.twimg.com/media/E8VorCmVoAA5b80?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8Vor1pUUAYG_Oh?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8VotFDUcAAcMeE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8VouF4VUAclAik?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-08-09 17:23:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1424662679063392259)
+
+Hubei dissident Yin Xu'an sentenced to 4.5 years in prison for 3 pieces of tweets, two of which are about conflicts between civilians and gov't, and the other implying the June 4 massacre. The court found him guilty of spreading false information on Twitter.<br><img style src="https://pbs.twimg.com/media/E8VqZVYVIAQbE_6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8VqaPpUYAIZz7g?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8VqbRoVoAcmqEA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8VqcLcVoAUU9kp?format=jpg&name=orig" referrerpolicy="no-referrer">
+
