@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-08-03
+date: 2021-08-08
 from: https://twitter.com/skraicer/status/1422190480390037509
 layout: post
 tags:
@@ -26,4 +26,8 @@ RT Zhaoyin Feng 馮兆音<br>Initium Media is moving its headquarters to Singa
 ### 3: [2021-08-03 22:00:55+08:00 推文](https://twitter.com/cnmediaproject/status/1422558100821843980)
 
 A livestream mishap by Tencent Video during the opening ceremony of the Tokyo Summer Olympics reveals just how difficult it can be for internet platforms to please audiences and content regulators. <a href="https://chinamediaproject.org/2021/08/03/an-olympic-censorship-slip/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/03/an-olympic-censorship-slip/</a><br><img style src="https://pbs.twimg.com/media/E73xCc8WEAIDzXf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-08-08 23:12:28+08:00 推文](https://twitter.com/henrysgao/status/1424388043910225922)
+
+RT Henry Gao<br>Today in History.<br><img style src="https://pbs.twimg.com/media/E8RxYGTVIAElaaM?format=jpg&name=orig" referrerpolicy="no-referrer">
 
