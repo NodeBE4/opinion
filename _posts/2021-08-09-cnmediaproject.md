@@ -19,3 +19,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 Our latest from Initium. "Wolf warrior diplomacy" has certainly drawn global attention. But will it prove an effective means of "telling China's story well"? <a href="https://chinamediaproject.org/2021/08/08/growling-back-at-the-west/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/08/growling-back-at-the-west/</a><br><img style src="https://pbs.twimg.com/media/E8Xf_lKWUAIzwA8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 2: [2021-08-10 09:56:08+08:00 推文](https://twitter.com/gadyepstein/status/1424912417612574723)
+
+RT Gady Epstein<br>If you’ve been wondering what the hell is going on with the crackdown(s) on big tech firms in China over the last year, this story by ⁦@donweinland⁩ does a fantastic job of explaining the CCP’s approach. We’re in a new era of regulation <a href="https://www.economist.com/business/2021/08/09/what-tech-does-china-want" target="_blank" rel="noopener noreferrer">https://www.economist.com/business/2021/08/09/what-tech-does-china-want</a>
+
