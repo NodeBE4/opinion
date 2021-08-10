@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-08-09
+date: 2021-08-10
 from: https://twitter.com/nathanlawkc/status/1424438436598013958
 layout: post
 tags:
@@ -26,4 +26,8 @@ Re 2. Individuals publicly supporting the Chinese govt’s Crimes Against Humani
 ### 3: [2021-08-09 18:39:07+08:00 推文](https://twitter.com/nathanlawkc/status/1424681641386127361)
 
 Re 5. Relatives of high-level Chinese govt officials.<br><br>✅We need to retain the integrity of the BNO scheme and make sure it’s a force of good for UK society. <br><br>❌It is a resettlement route for the persecuted, not for the persecutors.<br><br>#StandWithHongKong <br><br>-END
+
+### 4: [2021-08-10 19:06:40+08:00 推文](https://twitter.com/nathanlawkc/status/1425050962968944641)
+
+Let's talk about workers' rights under Communist China.<br>The answer is -- no. There are no independent workers' unions, and more critical voices are eliminated.<br><br>Hong Kong’s biggest teachers’ union to disband after officials severed ties <a href="https://www.scmp.com/news/hong-kong/politics/article/3144518/hong-kongs-biggest-teachers-union-set-disband-after?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3144518" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/hong-kong/politics/article/3144518/hong-kongs-biggest-teachers-union-set-disband-after?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3144518</a>
 
