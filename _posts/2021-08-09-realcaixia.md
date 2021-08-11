@@ -115,3 +115,15 @@ Re @SimonZ666 理论问题不适宜这里讨论，推特短短几百字是说不
 
 昨晚看到国内微信上的这个视频，当时眼泪就下来了。到处都是全红蝉一样的苦孩子，可全红蝉的幸运，只有一个。<br><br>New Freedom: 今天还有一个小粉红和我说中国经济连年创下新高，今年还要增长。我就呵呵呵呵呵呵…..这种人不是蠢就是坏。<br> <a href="https://twitter.com/liuliu92266749/status/1425101261322563589" target="_blank" rel="noopener noreferrer">https://twitter.com/liuliu92266749/status/1425101261322563589</a>
 
+### 26: [2021-08-12 03:45:55+08:00 推文](https://twitter.com/realcaixia/status/1425544024216293376)
+
+习当局企图长臂操控全世界，欧洲国家如果不能在保护人权问题上坚守普世价值底线，那么今天他们交出去的是中国大陆、香港、台湾民众，明天他们就得交出去他们的国家尊严，包括他们的某些国家利益。习中共当局威胁着全世界的人权、自由、民主与和平。<br><br>ZHANGDONG: 中国长臂政策：欧洲未能成为中国异见人士的避风港！<br>据［安全卫士］报道，在波兰一名中国公民等待引渡听证会拘留期间自杀，另一名台湾公民正面临被引渡到大陆的危险。在荷兰，一对年轻的持不同政见夫妇声称他们在移民拘留期间受到虐待。在摩洛哥，来自中国的首次引渡请求<br> <a href="https://safeguarddefenders.com/en/blog/wanted-china-europe-failing-safe-haven-chinese-dissidents" target="_blank" rel="noopener noreferrer">https://safeguarddefenders.com/en/blog/wanted-china-europe-failing-safe-haven-chinese-dissidents</a>
+
+### 27: [2021-08-12 04:20:10+08:00 推文](https://twitter.com/realcaixia/status/1425552642680500235)
+
+Re 国内微信群传的视屏后面还有一段，这位叔叔又给了这女孩100元，女孩无论如何都不要，说已经多拿了叔叔的钱。叔叔说给你妈妈治病用，女孩收下了，深深、深深地鞠躬感谢。这么善良诚实的女孩实在令人心疼心碎………
+
+### 28: [2021-08-12 04:44:57+08:00 推文](https://twitter.com/realcaixia/status/1425558880709455873)
+
+中共国几家智库与央媒比赛，比谁诬黑美国更有本事，谁更能讨得中南海一尊更满意。可以说这两边比赛打个平手：都是按自画像来描摩的。<br><img style src="https://pbs.twimg.com/media/E8iaPSMWYA0jljf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8iaPh8XIAQUHMh?format=jpg&name=orig" referrerpolicy="no-referrer">
+
