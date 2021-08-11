@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-11
+date: 2021-08-12
 from: https://twitter.com/realcaixia/status/1424500701321961475
 layout: post
 tags:
@@ -106,4 +106,12 @@ Re @SimonZ666 理论问题不适宜这里讨论，推特短短几百字是说不
 ### 23: [2021-08-11 10:26:54+08:00 推文](https://twitter.com/realcaixia/status/1425282545738989569)
 
 这是中共国经济的真实情况。在一些经济不发达地区，过去几年拖延发公务员工资是常态，今年以来有不少地方再进一步要求公务员把以往发的年终奖金吐出来，这些都是财政没钱了的信号。<br><br>韩连潮: 【党国经济出大事】党国上半年只有上海市没有出现赤字，连广东、福建、浙江、江苏这些创收大户都入不敷出，显然经济出了大问题。有消息称，上半年党国进出口首次出现逆差，外汇储备减少，习近平国进民退政策制造的经济寒冬来了！<br><br><img style src="https://pbs.twimg.com/media/E8eTbaRXIAYYGvi?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2021-08-12 02:56:44+08:00 推文](https://twitter.com/realcaixia/status/1425531646367911946)
+
+大陆中共当局对内，一刻不停地对大陆正直人士实施政治迫害人权迫害；对外公然支持塔利班恐怖组织，待之以国家上宾。中共国究竟是什么性质的国家政权，中共究竟是什么性质的组织？！国际社会应该是看明白了。<br><br>王贺楠: 今天是爱忠被抓的第76天，律师会见了爱忠。爱忠现在精神充沛，讲话底气十足。爱忠再一次感谢各位朋友们一直以来对他案件的关心和关注。爱忠现在被当局因为在互联网上发表言论而遭受着政治迫害，他不畏强权始终都坚强勇敢的面对。爱忠无罪，我和家人朋友们会一直等待爱忠回家！<br><br><img style src="https://pbs.twimg.com/media/E8g5lSUVIAEDfIt?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 25: [2021-08-12 03:15:12+08:00 推文](https://twitter.com/realcaixia/status/1425536294315335684)
+
+昨晚看到国内微信上的这个视频，当时眼泪就下来了。到处都是全红蝉一样的苦孩子，可全红蝉的幸运，只有一个。<br><br>New Freedom: 今天还有一个小粉红和我说中国经济连年创下新高，今年还要增长。我就呵呵呵呵呵呵…..这种人不是蠢就是坏。<br> <a href="https://twitter.com/liuliu92266749/status/1425101261322563589" target="_blank" rel="noopener noreferrer">https://twitter.com/liuliu92266749/status/1425101261322563589</a>
 
