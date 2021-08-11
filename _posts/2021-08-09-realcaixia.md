@@ -99,3 +99,11 @@ Re 感谢许多网友来指正我。我自己读书不够，我曾听说过杨�
 
 Re @SimonZ666 理论问题不适宜这里讨论，推特短短几百字是说不清楚的。我会发文章。
 
+### 22: [2021-08-11 10:22:23+08:00 推文](https://twitter.com/realcaixia/status/1425281412085784579)
+
+没有人权保障的抗疫，对于民众来说就是灾难。<br><br>鲁  难: 扬州最近的事态严重，封城封门十天，已经有多起悲催案例发生。为了清零不择手段，不如直接说是清人。<br><br><img style src="https://pbs.twimg.com/media/E8dltvMWQAc1hNJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8dltvLXoAQ1cYz?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8dltvLXIAQxjWj?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 23: [2021-08-11 10:26:54+08:00 推文](https://twitter.com/realcaixia/status/1425282545738989569)
+
+这是中共国经济的真实情况。在一些经济不发达地区，过去几年拖延发公务员工资是常态，今年以来有不少地方再进一步要求公务员把以往发的年终奖金吐出来，这些都是财政没钱了的信号。<br><br>韩连潮: 【党国经济出大事】党国上半年只有上海市没有出现赤字，连广东、福建、浙江、江苏这些创收大户都入不敷出，显然经济出了大问题。有消息称，上半年党国进出口首次出现逆差，外汇储备减少，习近平国进民退政策制造的经济寒冬来了！<br><br><img style src="https://pbs.twimg.com/media/E8eTbaRXIAYYGvi?format=jpg&name=orig" referrerpolicy="no-referrer">
+
