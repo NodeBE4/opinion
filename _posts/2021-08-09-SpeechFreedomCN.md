@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-08-11
+date: 2021-08-12
 from: https://twitter.com/SpeechFreedomCN/status/1424594538228633605
 layout: post
 tags:
@@ -42,4 +42,12 @@ Jilin man Zhang detained for 7 days for "cursing" village official in WeChat gro
 ### 7: [2021-08-11 16:25:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1425372747941650439)
 
 北京某事业单位工作人员，因通过其单位媒体平台编造并发表关于新冠病毒的虚假信息，引发大量不明真相的网友围观，造成网络公共秩序严重混乱，未受到任何处罚。<br><img style src="https://pbs.twimg.com/media/E8fw8tuVkAMxEug?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8fw8tuVUAIi1fn?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-08-12 13:37:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1425692920221298688)
+
+江西丰城市一名教师张某良，因在今日头条发表言论，以极其谦卑的语气提议政府允许扬州放弃严防死守的防疫思路，试行“与病毒共存”，被处拘留15日。<br><img style src="https://pbs.twimg.com/media/E8kTwbSVcAorNyq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8kTyLoVUAMUeBU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8kTzb5VEAIB218?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-08-12 13:41:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1425693835389063169)
+
+Jiangxi teacher Zhang detained for 15 days for saying on Internet, humbly, that the government should abolish Zero Tolerance policy and try the Live with the Virus model. Zero Tolerance policy is that China imposes full and strict lockdown in any area with Covid cases.<br><img style src="https://pbs.twimg.com/media/E8kUK7DVgAAeiG3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8kUMCGVUAATg1X?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8kUM9gVcAQIw2l?format=jpg&name=orig" referrerpolicy="no-referrer">
 

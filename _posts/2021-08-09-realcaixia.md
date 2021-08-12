@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-12
+date: 2021-08-13
 from: https://twitter.com/realcaixia/status/1424500701321961475
 layout: post
 tags:
@@ -138,4 +138,12 @@ Re @laoqi_life 这个题材我也看到过好几个。在经济不发达地区�
 ### 31: [2021-08-12 21:05:35+08:00 推文](https://twitter.com/realcaixia/status/1425805663855423488)
 
 Re @dyj20160910 @cb781001 把你的真实姓名亮出来！我上法庭告你：造谣诬陷毁人名誉！
+
+### 32: [2021-08-13 01:59:39+08:00 推文](https://twitter.com/realcaixia/status/1425879670717833223)
+
+谎言欺骗是极权统治者在大陆维持统治的支柱。谎言在大陆能有用，而在世界上只能使自己越来越孤立，最关键原因是极权者能在大陆搞封锁信息、压制言论的信息隔离墙，而他不可能在世界范围内阻挡信息的自由流通。再次呼吁国际社会，推倒中共极权统治者构筑的信息墙隔离墙！帮助大陆人争取民主自由！<br><br>自由亚洲电台: 舆论战对内即使有效，对外却难以欺骗世界。#余茂春 说，“ 连世界上最爱好和平、最不愿激进的国家像瑞士、挪威、加拿大都跟中国翻脸，新中国建立几十年来，（作为）一个国家得不到世界的尊重，我觉得是非常可悲的事情。”<br>#反美舆论战<br> <a href="https://www.rfa.org/mandarin/yataibaodao/meiti/jt-08112021102000.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/meiti/jt-08112021102000.html</a>
+
+### 33: [2021-08-13 02:02:57+08:00 推文](https://twitter.com/realcaixia/status/1425880500858728448)
+
+扬州一教师仅仅是提个建议，就被中共国警察拘留15天！<br><br>楊錦麟: 都覺得匪夷所思！<br><br><img style src="https://pbs.twimg.com/media/E8jenviUcAAItyB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8jenvjVgAEBLqw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8jenviVoAAl9L1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
