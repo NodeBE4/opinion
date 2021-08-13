@@ -147,3 +147,11 @@ Re @dyj20160910 @cb781001 把你的真实姓名亮出来！我上法庭告你：
 
 扬州一教师仅仅是提个建议，就被中共国警察拘留15天！<br><br>楊錦麟: 都覺得匪夷所思！<br><br><img style src="https://pbs.twimg.com/media/E8jenviUcAAItyB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8jenvjVgAEBLqw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8jenviVoAAl9L1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 34: [2021-08-13 23:11:41+08:00 推文](https://twitter.com/realcaixia/status/1426199788605816834)
+
+以隔离为名，大规模拉人入住这类地方，堂而皇之收取隔离费用，难免不让人感到这是发“疫情”财。收缴的隔离费去了哪里？大陆各地共收缴了多少隔离费？<br><br>小婷: 大陸某地五千元的隔離室。被隔離者：二十一天，五千零一十塊，包括住宿，食水。<br><br><video src="https://video.twimg.com/ext_tw_video/1426112010488487940/pu/vid/1280x720/hgFZde29TfBqj2-E.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1426112010488487940/pu/img/INgS4t9kLX3xzfZA.jpg"></video>
+
+### 35: [2021-08-13 23:16:24+08:00 推文](https://twitter.com/realcaixia/status/1426200974578814978)
+
+Re 更正：是江西一教师为扬州疫情提了一个建议，于是被当地警方拘留15天。
+
