@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-13
+date: 2021-08-14
 from: https://twitter.com/realcaixia/status/1424500701321961475
 layout: post
 tags:
@@ -154,4 +154,8 @@ Re @dyj20160910 @cb781001 把你的真实姓名亮出来！我上法庭告你：
 ### 35: [2021-08-13 23:16:24+08:00 推文](https://twitter.com/realcaixia/status/1426200974578814978)
 
 Re 更正：是江西一教师为扬州疫情提了一个建议，于是被当地警方拘留15天。
+
+### 36: [2021-08-14 03:12:36+08:00 推文](https://twitter.com/realcaixia/status/1426260414342520844)
+
+张展女士应当获得人道主义的救护。张展家人探视张展的权利和与张展通信的权利不容被剥夺。尽管呼吁中共当局不一定有效果（他们搞政治迫害无底线），但需要大家共同关注张展，为争取张展家人探视和通信的权利，为争取张展获得保外就医而不放弃任何努力。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【关注】<br><br>为第八届奥斯卡中国自由人权奖获奖者之一狱中张展女士紧急呼吁<br> <a href="https://ipkmedia.com/?p=91131" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=91131</a>
 
