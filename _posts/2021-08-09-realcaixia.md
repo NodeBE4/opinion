@@ -159,3 +159,7 @@ Re 更正：是江西一教师为扬州疫情提了一个建议，于是被当�
 
 张展女士应当获得人道主义的救护。张展家人探视张展的权利和与张展通信的权利不容被剥夺。尽管呼吁中共当局不一定有效果（他们搞政治迫害无底线），但需要大家共同关注张展，为争取张展家人探视和通信的权利，为争取张展获得保外就医而不放弃任何努力。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【关注】<br><br>为第八届奥斯卡中国自由人权奖获奖者之一狱中张展女士紧急呼吁<br> <a href="https://ipkmedia.com/?p=91131" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=91131</a>
 
+### 37: [2021-08-14 18:50:05+08:00 推文](https://twitter.com/realcaixia/status/1426496341363118080)
+
+2019年当许多人认为中共国是威权主义国家时，索罗斯就明确指出他们是极权主义国家，习是开放社会最危险的敌人。事实证明索罗斯是对的！2020年中共国将武汉病毒扩散至全世界；目前中共国不断发出战争叫嚣，对台湾与南海周边国家进行武力威胁，中共极权的穷兵黩武正在严重威胁世界和平。<br><br>韩连潮: 【索罗斯判断精准】索罗斯两年前在达沃斯就警告世界：习近平是开放社会最危险的敌人，其数字专制将祸害世界。今天再度提出，实为各国对此认识不足。我虽不赞同索罗斯的极左观点，但认为其对习专制的认识超越了所有有识之士。期待开放基金能采取实际措施帮助消除这一危险！<br> <a href="https://www.voachinese.com/a/soros-xi-s-dictatorship-threatens-the-chinese-state/6002525.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/soros-xi-s-dictatorship-threatens-the-chinese-state/6002525.html</a>
+
