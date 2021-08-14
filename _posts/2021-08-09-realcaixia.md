@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-14
+date: 2021-08-15
 from: https://twitter.com/realcaixia/status/1424500701321961475
 layout: post
 tags:
@@ -162,4 +162,12 @@ Re 更正：是江西一教师为扬州疫情提了一个建议，于是被当�
 ### 37: [2021-08-14 18:50:05+08:00 推文](https://twitter.com/realcaixia/status/1426496341363118080)
 
 2019年当许多人认为中共国是威权主义国家时，索罗斯就明确指出他们是极权主义国家，习是开放社会最危险的敌人。事实证明索罗斯是对的！2020年中共国将武汉病毒扩散至全世界；目前中共国不断发出战争叫嚣，对台湾与南海周边国家进行武力威胁，中共极权的穷兵黩武正在严重威胁世界和平。<br><br>韩连潮: 【索罗斯判断精准】索罗斯两年前在达沃斯就警告世界：习近平是开放社会最危险的敌人，其数字专制将祸害世界。今天再度提出，实为各国对此认识不足。我虽不赞同索罗斯的极左观点，但认为其对习专制的认识超越了所有有识之士。期待开放基金能采取实际措施帮助消除这一危险！<br> <a href="https://www.voachinese.com/a/soros-xi-s-dictatorship-threatens-the-chinese-state/6002525.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/soros-xi-s-dictatorship-threatens-the-chinese-state/6002525.html</a>
+
+### 38: [2021-08-15 04:50:19+08:00 推文](https://twitter.com/realcaixia/status/1426647394490404868)
+
+中国农村相当部分的老人凄惨而绝望的选择。<br><br>中青报：农村老人自杀现象，已经到了触目惊心的地步！ <a href="https://m.posts.careerengine.us/p/61124f86569497799a98ee11" target="_blank" rel="noopener noreferrer">https://m.posts.careerengine.us/p/61124f86569497799a98ee11</a>
+
+### 39: [2021-08-15 05:23:17+08:00 推文](https://twitter.com/realcaixia/status/1426655691025027078)
+
+当年纳粹党是否要求德国国民家庭忠诚希特勒忠诚纳粹党？请注意，文章来自于解放军报，中共中央机关杂志求是网转载，这意味着在中共眼里，中国大陆所有人都必须甘当党奴。<br><img style src="https://pbs.twimg.com/media/E8x_ySyWQAc6OEh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
