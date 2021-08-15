@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-08-12
+date: 2021-08-15
 from: https://twitter.com/SpeechFreedomCN/status/1424594538228633605
 layout: post
 tags:
@@ -50,4 +50,12 @@ Jilin man Zhang detained for 7 days for "cursing" village official in WeChat gro
 ### 9: [2021-08-12 13:41:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1425693835389063169)
 
 Jiangxi teacher Zhang detained for 15 days for saying on Internet, humbly, that the government should abolish Zero Tolerance policy and try the Live with the Virus model. Zero Tolerance policy is that China imposes full and strict lockdown in any area with Covid cases.<br><img style src="https://pbs.twimg.com/media/E8kUK7DVgAAeiG3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8kUMCGVUAATg1X?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E8kUM9gVcAQIw2l?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 10: [2021-08-15 15:29:02+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1426808135101018114)
+
+宁夏石嘴山市男子马路，因在微博发表质疑中国疫苗的有效性、反对言论管控及指责政府借推行疫苗的名义掏空社保基金等言论，被处拘留15日。<br><img style src="https://pbs.twimg.com/media/E80JRCiUYAMGvaf?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2021-08-15 15:31:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1426808650690039809)
+
+Ningxia man Ma Lu detained for 15 days for questioning the effectiveness of Chinese vaccines, criticizing Internet censorship and accusing the government of corruption on Weibo.<br><img style src="https://pbs.twimg.com/media/E80Kfv6VIAEKb12?format=jpg&name=orig" referrerpolicy="no-referrer">
 
