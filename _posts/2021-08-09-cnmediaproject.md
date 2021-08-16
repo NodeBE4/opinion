@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-08-14
+date: 2021-08-15
 from: https://twitter.com/cnmediaproject/status/1424791172942290948
 layout: post
 tags:
@@ -30,4 +30,8 @@ RT Carl Minzner<br>(1/x) Really worth reading the ongoing @PDChina Q&A on Xi J
 ### 4: [2021-08-14 10:48:12+08:00 推文](https://twitter.com/luoshanji/status/1426375073359925259)
 
 RT Tanner Brown<br>Nothing to worry about, new students of Chinese. No frustrations await you.<br><br>衣农<br>未末<br>土士<br>瓜爪<br>度席<br>子孑<br>日曰<br>午牛<br>已己<br>舟丹<br>九丸<br>洒酒<br>今令<br>环坏<br>特持<br>辛幸<br>耍要<br>师帅<br>旱早
+
+### 5: [2021-08-15 20:07:36+08:00 推文](https://twitter.com/CarlMinzner/status/1426878236181602310)
+
+RT Carl Minzner<br>Re (2/2) See @cnmediaproject on this trend:<br>"The unprecedented appearance, month after month, of Xi Jinping’s speeches in [Qiushi] speak to how the leader has placed himself at the center of the Party’s theoretical life in an increasingly centralized system." <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
 
