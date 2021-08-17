@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-17
+date: 2021-08-18
 from: https://twitter.com/realcaixia/status/1426951807616618500
 layout: post
 tags:
@@ -38,4 +38,20 @@ Re @w_rightnow 这是中共教科书上的吧？
 ### 6: [2021-08-17 23:40:54+08:00 推文](https://twitter.com/realcaixia/status/1427656691877912580)
 
 这就是用脚投票。<br><img style src="https://pbs.twimg.com/media/E9AOMSWWUAsAdIT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-08-18 01:08:27+08:00 推文](https://twitter.com/realcaixia/status/1427678722828771336)
+
+中国经济未来趋势的分析判断，比较客观而理性。大陆中国人的苦日子在今后……<br><img style src="https://pbs.twimg.com/media/E9AiN4jWYAYfYDt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9AiOQUXEA8PFUX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9AiOl2XoAgxTDP?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-08-18 01:23:54+08:00 推文](https://twitter.com/realcaixia/status/1427682611221213191)
+
+这是对中共国经济发动机三架马车熄火的分析。其中图一有两个差错，我先做纠错说明：1、近10年日本软银投资中国的31.5万亿美元有误，这里应为31.5万亿日元。2、房地产不在中国经济三架马车之列，三架马车是指投资、出口、消费。图一一个国际社会投资中国的三大主体：美资、日资、欧洲资本全大幅撤退。<br><img style src="https://pbs.twimg.com/media/E9Alvw-XMAczsz2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9AlwdOX0AkzksI?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9Alw7VXMAUZwoZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 9: [2021-08-18 01:38:00+08:00 推文](https://twitter.com/realcaixia/status/1427686160042766336)
+
+Re 大陆消费明显下降。值得关注的是农村居民消费下降比城镇居民下降幅度小，仅为0.1%。我认为这说明实际上农村居民消费已经处在生存基线上，其下降幅度不大或许是表明降无可降。大陆9亿人月收入不到1000元，5亿多人在银行无存款，又加抗疫阻断经济，大规模失业，农民工回乡，这都是农村消费见底的因素。
+
+### 10: [2021-08-18 01:47:50+08:00 推文](https://twitter.com/realcaixia/status/1427688633876848643)
+
+Re 有朋友问为啥屏幕这么糊？这篇文章应该是触及到大陆当局的敏感度，已经被大陆剔除了。我转到笔记本保存，出现的都是乱码，不得已只能用手机拍摄。
 
