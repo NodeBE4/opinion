@@ -35,3 +35,7 @@ Re @w_rightnow 这是中共教科书上的吧？
 
 支持张文宏<br><br>良知❣️❣️自知: 对人类文明威胁最大，破坏最惨烈的，是不受制约的权力；其次才是自然灾害和人类的无知。——华盛顿<br><br>全世界最丑恶无耻的中共官僚们，<br>不是人们羞辱你们，而是你们太没有人性，没有良知！在自我毁誉！<br><br>良知医生张文宏，希望你像华盛顿说的这样：<br>“努力让你心中的那朵被称为良心的火花永不熄灭”。🔥🙏💐<br><br><img style src="https://pbs.twimg.com/media/E8508arUUAo4vwB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 6: [2021-08-17 23:40:54+08:00 推文](https://twitter.com/realcaixia/status/1427656691877912580)
+
+这就是用脚投票。<br><img style src="https://pbs.twimg.com/media/E9AOMSWWUAsAdIT?format=jpg&name=orig" referrerpolicy="no-referrer">
+
