@@ -55,3 +55,35 @@ Re 大陆消费明显下降。值得关注的是农村居民消费下降比城�
 
 Re 有朋友问为啥屏幕这么糊？这篇文章应该是触及到大陆当局的敏感度，已经被大陆剔除了。我转到笔记本保存，出现的都是乱码，不得已只能用手机拍摄。
 
+### 11: [2021-08-18 08:16:34+08:00 推文](https://twitter.com/realcaixia/status/1427786465157713925)
+
+强烈呼吁国际社会多多关注张展，尽一切可能营救张展。救救张展！<br><br>王剑虹 #FreeZhangZhan #释放张展: 「張展她本身是個很謙卑的人，一直都明白自己所做的事、所說的話知道的人很少，影響很小。她也常强調自己基督徒的身份，說她做事都是基於福音。如此積極關心社會議題、更毫不諱言直指制度，她的確不是一個典型的中國基督徒，她的言行在中國基督徒中會引起多少回響有待觀察。」<br>劍氣如虹<br><br>#救张展<br><br><img style src="https://pbs.twimg.com/media/E9B5y4nWEAgYd-l?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9B53EfWEAIL3N6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9B54rVX0Acu9CO?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2021-08-18 08:21:35+08:00 推文](https://twitter.com/realcaixia/status/1427787725290315777)
+
+每一个关心张展的朋友，请参加签名吧。在张展生命危急的时候，让我们大家一起献上我们的爱心，让我们与张展妈妈站在一起。<br><br>王剑虹 #FreeZhangZhan #释放张展: 张展病重！强烈要求保外就医！<br><br>网友联署 #救张展 呼吁书<br>实名网名不限，请踊跃支持🙏<br>推友可选择以跟推方式加入联署<br>或电邮 freezhangzhannow@protonmail.com<br>名单每日统计公开<br><br>转发也是支持🙏<br><br><img style src="https://pbs.twimg.com/media/E8YoHoUWQAY_SfD?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2021-08-18 09:15:36+08:00 推文](https://twitter.com/realcaixia/status/1427801319637753861)
+
+阿富汗局势陡变，全球关注。下面图二、三、四是大陆网友发的图片。<br>说明：图二，中共王毅外长7月29日会见塔利班代表团，7月30日大陆网友发出塔利班的现代装备，大陆网友问谁给塔利班的？<br>图三，这是塔利班领导人上车的视频截图，大陆网友注意到塔利班领导人与中共领导人一样，都乘坐红旗轿车。<br><img style src="https://pbs.twimg.com/media/E9CRtgmXsAIBIAE?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9CRt48WQAMbxY_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9CRuNzX0AUd0oa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9CRumyXEAAH1dI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 14: [2021-08-18 09:41:59+08:00 推文](https://twitter.com/realcaixia/status/1427807959971778560)
+
+这几天張文宏医生被攻击，而且火力很猛。<br>為什麼要這樣對待張文宏？有信息爆料，请仔细读图二。<br>然而人心不可违，大陆网友几乎一边倒支持张文宏。有民間搞了網上調查，請看圖三；<br>图四：今日金句说出了大陆人的共同心声，图四在大陆微信群热传。<br><img style src="https://pbs.twimg.com/media/E9CXwbjXsAI1j9E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9CXwvoWQAIteWS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9CXxBMXoAAHZUi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9CXxS8WYAI45DI?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-08-18 09:46:06+08:00 推文](https://twitter.com/realcaixia/status/1427808995146883076)
+
+Re @sheppardsmith2 🤝🌹，人同此心，心同此理。
+
+### 16: [2021-08-18 09:48:21+08:00 推文](https://twitter.com/realcaixia/status/1427809562044796933)
+
+Re @shithole6699888 网上调查。
+
+### 17: [2021-08-18 09:56:40+08:00 推文](https://twitter.com/realcaixia/status/1427811652846686210)
+
+Re @AndrosFreeman 微博上有不等于微信群里有。
+
+### 18: [2021-08-18 11:22:16+08:00 推文](https://twitter.com/realcaixia/status/1427833197866389508)
+
+王清鹏写得真好，她的话很有启示意义。特转推。<br><br>王清鹏: 在共匪的教育下，我们从来没有公民意识，只有服从和认命。<br>一件事发生在别人身上，就不去关注；一件事发生在自己身上，就自认倒霉。<br>很多人存有恐惧，即使移民多年。这种恐惧毁掉的不仅是前半生，乃至整个人生。<br>自由需要突破，从一点点开始。<br>呼吁网友签名 #救张展。<br>freezhangzhannow@protonmail.com<br> <a href="https://twitter.com/changchengwai/status/1427744473317056512" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1427744473317056512</a>
+
