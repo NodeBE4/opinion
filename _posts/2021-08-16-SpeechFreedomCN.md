@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-08-16~2021-08-22'
 
 After a traffic police officer was killed in Chongqing, a Henan netizen said on Internet that the killer was “a nice man seeking revenge for all drivers”, and was therefore sentenced to three months detention.<br><img style src="https://pbs.twimg.com/media/E9C6KwIVcAMs0wd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9C6KwKVIAA16Un?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9C6KyYVgAAWlJY?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-08-18 17:06:55+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1427919928338751493)
+
+湖南省娄底市一男子因在微信群“造谣”称“娄底发现3起新冠病毒”，被处拘留7日。该男子的说法真实性不详，但中国刑法或治安管理处罚法中对造谣的定义均是“故意编造或明知虚假还故意传播“，而从官方通报中可见，该男子明显是确实相信该说法进而进行的传播，因此显然不构成违法。<br><img style src="https://pbs.twimg.com/media/E9D8v0kUUA0aTai?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-08-18 17:14:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1427921845286707201)
+
+Hunan man detained for 7 days for spreading a "rumor" that there were 3 new Covid cases in his city. However, Chinese law only prohibits knowingly spreading false information, while it is apparent in this case, according to official announcement, this man did believe the "rumor".<br><img style src="https://pbs.twimg.com/media/E9D9oTDVgAUdyoZ?format=png&name=orig" referrerpolicy="no-referrer">
+
