@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-18
+date: 2021-08-19
 from: https://twitter.com/realcaixia/status/1426951807616618500
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re @AndrosFreeman 微博上有不等于微信群里有。
 ### 18: [2021-08-18 11:22:16+08:00 推文](https://twitter.com/realcaixia/status/1427833197866389508)
 
 王清鹏写得真好，她的话很有启示意义。特转推。<br><br>王清鹏: 在共匪的教育下，我们从来没有公民意识，只有服从和认命。<br>一件事发生在别人身上，就不去关注；一件事发生在自己身上，就自认倒霉。<br>很多人存有恐惧，即使移民多年。这种恐惧毁掉的不仅是前半生，乃至整个人生。<br>自由需要突破，从一点点开始。<br>呼吁网友签名 #救张展。<br>freezhangzhannow@protonmail.com<br> <a href="https://twitter.com/changchengwai/status/1427744473317056512" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1427744473317056512</a>
+
+### 19: [2021-08-19 20:41:04+08:00 推文](https://twitter.com/realcaixia/status/1428336210116812801)
+
+2020年3月，美国与塔利班签署和平协议，并得到联合国安理会的一致支持。下面是<br>《美国—塔利班和平协议》中译文。 <a href="https://news.sina.cn/global/szzx/2020-03-05/detail-iimxyqvz8154339.d.html" target="_blank" rel="noopener noreferrer">https://news.sina.cn/global/szzx/2020-03-05/detail-iimxyqvz8154339.d.html</a>
 
