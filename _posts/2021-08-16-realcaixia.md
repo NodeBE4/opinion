@@ -91,3 +91,7 @@ Re @AndrosFreeman 微博上有不等于微信群里有。
 
 2020年3月，美国与塔利班签署和平协议，并得到联合国安理会的一致支持。下面是<br>《美国—塔利班和平协议》中译文。 <a href="https://news.sina.cn/global/szzx/2020-03-05/detail-iimxyqvz8154339.d.html" target="_blank" rel="noopener noreferrer">https://news.sina.cn/global/szzx/2020-03-05/detail-iimxyqvz8154339.d.html</a>
 
+### 20: [2021-08-19 23:27:08+08:00 推文](https://twitter.com/realcaixia/status/1428378001763352585)
+
+这个段子确实幽默。细想开头一句和最后一句话份量最重。公开力挺张文宏最牛的段子！ <a href="https://mp.weixin.qq.com/s/_q0nyxE6hXNOhFgG3RlIWg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/_q0nyxE6hXNOhFgG3RlIWg</a>
+
