@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-19
+date: 2021-08-20
 from: https://twitter.com/realcaixia/status/1426951807616618500
 layout: post
 tags:
@@ -94,4 +94,8 @@ Re @AndrosFreeman 微博上有不等于微信群里有。
 ### 20: [2021-08-19 23:27:08+08:00 推文](https://twitter.com/realcaixia/status/1428378001763352585)
 
 这个段子确实幽默。细想开头一句和最后一句话份量最重。公开力挺张文宏最牛的段子！ <a href="https://mp.weixin.qq.com/s/_q0nyxE6hXNOhFgG3RlIWg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/_q0nyxE6hXNOhFgG3RlIWg</a>
+
+### 21: [2021-08-20 23:10:57+08:00 推文](https://twitter.com/realcaixia/status/1428736316292861955)
+
+我要把这本书找来读。<br><br>楊建利 Yang Jianli: 华邮评介布鲁金斯学会学者T. Wright和国防副部长C. Kahl最近出的新书,书中揭露了世卫组织和中共的关系,为世卫专家为何在实验室泄漏问题上屡屡为习近平背书提供了内幕.<br>How Chinese pressure on coronavirus origins probe shocked the WHO-and led its director to push back<br> <a href="https://www.washingtonpost.com/world/2021/08/19/covid-origins-who-pressure/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2021/08/19/covid-origins-who-pressure/?tid=ss_tw</a>
 
