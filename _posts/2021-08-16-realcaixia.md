@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-20
+date: 2021-08-21
 from: https://twitter.com/realcaixia/status/1426951807616618500
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re @AndrosFreeman 微博上有不等于微信群里有。
 ### 21: [2021-08-20 23:10:57+08:00 推文](https://twitter.com/realcaixia/status/1428736316292861955)
 
 我要把这本书找来读。<br><br>楊建利 Yang Jianli: 华邮评介布鲁金斯学会学者T. Wright和国防副部长C. Kahl最近出的新书,书中揭露了世卫组织和中共的关系,为世卫专家为何在实验室泄漏问题上屡屡为习近平背书提供了内幕.<br>How Chinese pressure on coronavirus origins probe shocked the WHO-and led its director to push back<br> <a href="https://www.washingtonpost.com/world/2021/08/19/covid-origins-who-pressure/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2021/08/19/covid-origins-who-pressure/?tid=ss_tw</a>
+
+### 22: [2021-08-21 01:36:26+08:00 推文](https://twitter.com/realcaixia/status/1428772930922717189)
+
+阿富汗妇女是勇敢的人！向阿富汗妇女致敬！<br><br>财经冷眼: 阿富汗首都妇女大游行！ <br>美国二十年，一万亿美元，不是没有改变这个国家<br><br><video src="https://video.twimg.com/ext_tw_video/1428005347898183682/pu/vid/480x480/Y6gssCdl0wuJ0Qto.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1428005347898183682/pu/img/TKVa96v3-qEk-xSs.jpg"></video>
 
