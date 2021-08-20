@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-08-19
+date: 2021-08-20
 from: https://twitter.com/nathanlawkc/status/1428060838271848450
 layout: post
 tags:
@@ -18,4 +18,20 @@ Pro
 ### 1: [2021-08-19 02:26:50+08:00 推文](https://twitter.com/nathanlawkc/status/1428060838271848450)
 
 While China's actively making friends with Taliban, HKG is arresting students for "advocating terrorism" because of their speeches. <br>How sarcastic it is.<br><br>Four Hong Kong students arrested for ‘advocating terrorism’ <a href="https://www.theguardian.com/world/2021/aug/18/four-hong-kong-students-arrested-for-advocating-terrorism" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2021/aug/18/four-hong-kong-students-arrested-for-advocating-terrorism</a>
+
+### 2: [2021-08-20 01:04:54+08:00 推文](https://twitter.com/nathanlawkc/status/1428402608495005703)
+
+Thank you @BritishVogue  for featuring my story as #MrVogue in the #Septemberissue. We need to call for larger accountabilities to authoritarian governments and protect democratic values as global democracy dwindles. <br>Hope that my story can spark more action.<br>#StandwithHongKong<br><img style src="https://pbs.twimg.com/media/E9K0ThwWQAEypDx?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-08-20 06:09:08+08:00 推文](https://twitter.com/nathanlawkc/status/1428479170229723136)
+
+1. Let me tell you what has happened to Hong Kong's top university students, who were charged with "advocating terrorism," and you will realize how dictatorial Hong Kong has become. Bails are denied and they could face years in prison.<br><img style src="https://pbs.twimg.com/media/E9L6OuBWQAMw2cd?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-08-20 06:09:09+08:00 推文](https://twitter.com/nathanlawkc/status/1428479173086097410)
+
+Re 2. They have suffered so much as a result of a Student Union motion. In the motion, they have offered their condolences to a person who stabbed a police. That may not be appropriate, but that's definitely not "advocating terrorism." It's way below the threshold.
+
+### 5: [2021-08-20 06:09:10+08:00 推文](https://twitter.com/nathanlawkc/status/1428479177544642568)
+
+Re 4. The Hong Kong government sees our younger and vocal generations as terrorists, while police violence is neglected or even praised by the authorities. What kind of a government is this?<br><br>-END
 
