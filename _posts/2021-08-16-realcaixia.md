@@ -103,3 +103,11 @@ Re @AndrosFreeman 微博上有不等于微信群里有。
 
 阿富汗妇女是勇敢的人！向阿富汗妇女致敬！<br><br>财经冷眼: 阿富汗首都妇女大游行！ <br>美国二十年，一万亿美元，不是没有改变这个国家<br><br><video src="https://video.twimg.com/ext_tw_video/1428005347898183682/pu/vid/480x480/Y6gssCdl0wuJ0Qto.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1428005347898183682/pu/img/TKVa96v3-qEk-xSs.jpg"></video>
 
+### 23: [2021-08-21 09:11:09+08:00 推文](https://twitter.com/realcaixia/status/1428887361887277057)
+
+李庄曾经是大陆的著名律师，2010年前后在揭露薄熙来在重庆以打黑扫恶名义残害企业家、抢夺民企资产的罪恶中被诬陷而被判入刑。李庄在这篇微博中揭露中共警察动酷刑的一种工具——绿色军用手摇电话机。这类酷刑令常人简直无法想象，但在中共极权统治中却实实在在的发生着，其恐怖、邪恶、阴毒令人发指。<br><img style src="https://pbs.twimg.com/media/E9RtemyXsAUTeM5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 24: [2021-08-21 10:22:15+08:00 推文](https://twitter.com/realcaixia/status/1428905255073370114)
+
+这个分析我赞同，我也是这么认为的。<br><br>ZHANGDONG: 也许华为夢大小姐并不情愿回中国：<br>1，明知山有虎偏向虎山行。明知有案在身受到美国监视，偏要过境加拿大，自投网络吗？<br>2，自费重金请保安监守自己，是为防备谁？不言自明！<br>3，华为于中共而言，不仅仅是赚钱工具，更重要是它还掌握中共军方技术甚至机密。<br>夢大小姐在外一天不归，中共就会昼夜难眠!<br> <a href="https://twitter.com/RFI_Cn/status/1428268516948406273" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1428268516948406273</a>
+
