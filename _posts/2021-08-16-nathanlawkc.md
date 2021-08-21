@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-08-20
+date: 2021-08-21
 from: https://twitter.com/nathanlawkc/status/1428060838271848450
 layout: post
 tags:
@@ -34,4 +34,8 @@ Re 2. They have suffered so much as a result of a Student Union motion. In the m
 ### 5: [2021-08-20 06:09:10+08:00 推文](https://twitter.com/nathanlawkc/status/1428479177544642568)
 
 Re 4. The Hong Kong government sees our younger and vocal generations as terrorists, while police violence is neglected or even praised by the authorities. What kind of a government is this?<br><br>-END
+
+### 6: [2021-08-21 19:39:40+08:00 推文](https://twitter.com/nathanlawkc/status/1429045535420436484)
+
+Horrifying.<br><br>//The Taliban have already stopped women from working in other provinces and ordered families to hand over their daughters to be “married” to fighters//<br><br>Back to the past – How will the Taliban rule Afghanistan this time? <a href="https://www.economist.com/asia/2021/08/16/how-will-the-taliban-rule-afghanistan-this-time" target="_blank" rel="noopener noreferrer">https://www.economist.com/asia/2021/08/16/how-will-the-taliban-rule-afghanistan-this-time</a>
 
