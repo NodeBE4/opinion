@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-08-21
+date: 2021-08-22
 from: https://twitter.com/realcaixia/status/1426951807616618500
 layout: post
 tags:
@@ -118,4 +118,16 @@ Re @wwXAnA6w 习以反腐名义一边确实打掉了一部分贪官，但同时�
 ### 26: [2021-08-21 11:30:10+08:00 推文](https://twitter.com/realcaixia/status/1428922346430156800)
 
 Re @wwXAnA6w 在自由民主制度环境里，官员若是滥用权力行为不端，确实会因公众监督、媒体曝光、反对党制衡、法治约束、公开透明限制，而“不聊生”，官员贪腐的成本代价极高。那就是现代文明的社会。
+
+### 27: [2021-08-22 04:52:34+08:00 推文](https://twitter.com/realcaixia/status/1429184676619554830)
+
+微博 <a href="https://m.weibo.cn/status/Kup56yNf1?jumpfrom=weibocom#&gid=1&pid=1" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/Kup56yNf1?jumpfrom=weibocom#&gid=1&pid=1</a>
+
+### 28: [2021-08-22 05:09:45+08:00 推文](https://twitter.com/realcaixia/status/1429188999004950535)
+
+美军士兵接过阿富汗人的孩子带到美国来。每一个孩子身上都饱含着孩子父母对美国的充分信任；饱含着父母对孩子命运的祈祷与希望，饱含着孩子父母的万般无奈；饱含着孩子父母对阿富汗状况的绝望……。<br><img style src="https://pbs.twimg.com/media/E9V_zz5WYAYujvx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9V_0HLXMAA5qa5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9V_0Q-X0AEostY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/E9V_0ZAXsAcZ-l6?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 29: [2021-08-22 05:42:15+08:00 推文](https://twitter.com/realcaixia/status/1429197178887712774)
+
+这个评论连同网友的发言互动都很精彩。推荐关心中国未来经济政策变化的网友不妨听听。<br><br>共同富裕还是杀富济贫?/Common Prosperity or Killing the Rich and Helping the Poor/王... <a href="https://youtu.be/CHTMFpdQpTY" target="_blank" rel="noopener noreferrer">https://youtu.be/CHTMFpdQpTY</a>
 
