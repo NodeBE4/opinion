@@ -131,3 +131,19 @@ Re @wwXAnA6w 在自由民主制度环境里，官员若是滥用权力行为不�
 
 这个评论连同网友的发言互动都很精彩。推荐关心中国未来经济政策变化的网友不妨听听。<br><br>共同富裕还是杀富济贫?/Common Prosperity or Killing the Rich and Helping the Poor/王... <a href="https://youtu.be/CHTMFpdQpTY" target="_blank" rel="noopener noreferrer">https://youtu.be/CHTMFpdQpTY</a>
 
+### 30: [2021-08-22 06:07:15+08:00 推文](https://twitter.com/realcaixia/status/1429203469458673665)
+
+Re @lifuzhang51 @YouTube 2013年夏我对民营企业家说看住钱袋子，不要入股国企，他们不听，觉得加入国企挣钱不累；2014年我在一个民企家座谈会上说，把创业重心挪到海外去，他们不听，觉得哪里也没大陆赚钱快；2017年湖北几个企业家到京，我又说要做到钱先走、人随时能走，他们不听，觉得不至于。2019年企业家来京说他们后悔了。
+
+### 31: [2021-08-22 06:13:54+08:00 推文](https://twitter.com/realcaixia/status/1429205143111835648)
+
+Re @lifuzhang51 @YouTube 总之，并不是人人都认清习极权统治当局本质的。中国传统文化中崇拜强权、依附强权的影响根深蒂固，极权意识形态的谎言蒙骗与封锁真相封锁信息，依旧会使相当一部分人受骗上当，到人为刀俎他为鱼肉时，再吃后悔药也救不了自己。
+
+### 32: [2021-08-22 07:02:46+08:00 推文](https://twitter.com/realcaixia/status/1429217443533230081)
+
+我这两个推文发出来40多分钟了，一个点击量为65；一个点击量为41。出了什么鬼？<br>在大陆，2016年5月起我被全面封杀，我的所有文字上网都发不出去；难道到了美国，中共长臂也伸到了这里？<br><img style src="https://pbs.twimg.com/media/E9WZsFNXMAIXI9v?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 33: [2021-08-22 07:10:31+08:00 推文](https://twitter.com/realcaixia/status/1429219392601133070)
+
+<br><img style src="https://pbs.twimg.com/media/E9WbdhXX0AAFibq?format=jpg&name=orig" referrerpolicy="no-referrer">
+
