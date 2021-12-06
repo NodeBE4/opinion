@@ -10,7 +10,9 @@ tags:
 title: 'Twitter @Nathan Law 羅冠聰: 2021-05-24~2021-05-30'
 ---
 
-Pro
+#HongKong activist. Youngest lawmaker in HK history. Now Exiled in London.
+Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0) 
+#TIME100 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
