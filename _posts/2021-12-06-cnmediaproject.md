@@ -35,3 +35,11 @@ RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign 
 
 The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 6: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
+
+RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll tweet. First up is a Clubhouse chat on Jan 6 with 7 China experts @NeysunM @MaryGao @MargaretKLewis @izading @DrSidaLiu @vshih2 @greenlawchina : <a href="https://www.clubhouse.com/event/xBLXBa1m" target="_blank" rel="noopener noreferrer">https://www.clubhouse.com/event/xBLXBa1m</a>
+
+### 7: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
+
+RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+
