@@ -25,7 +25,7 @@ Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government
 
 ### 3: [2021-12-01 22:34:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053162855501836)
 
-青海省互助县一名村民宋某，因在微信群里“辱骂村干部”，被处拘留10日并罚款500元。<br><img style="" src="https://pbs.twimg.com/media/FFh3cjlXwAUwSgx?format=jpg&name=orig" referrerpolicy="no-referrer">
+青海省互助县一名村民宋某，因在微信群里“辱骂村干部”，被处拘留10日并罚款500元。<br><img style src="https://pbs.twimg.com/media/FFh3cjlXwAUwSgx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-01 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053469668794369)
 
@@ -33,7 +33,7 @@ A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 
 
 ### 5: [2021-12-04 12:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466982342237454336)
 
-贵州省凯里市女子欧某，因在交警建的微信群里抱怨交警执法过严，称每个人应该有一次警告的机会，并称交警为“狗日的”和“野生动物”，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FFtXKv6XEAQt4QN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFtXUXMXwAQynDS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFtXXuBXEAsX51f?format=jpg&name=orig" referrerpolicy="no-referrer">
+贵州省凯里市女子欧某，因在交警建的微信群里抱怨交警执法过严，称每个人应该有一次警告的机会，并称交警为“狗日的”和“野生动物”，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/FFtXKv6XEAQt4QN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFtXUXMXwAQynDS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFtXXuBXEAsX51f?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-04 12:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466983348773945347)
 
