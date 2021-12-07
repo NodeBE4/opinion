@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-12-07
+date: 2021-12-08
 from: https://twitter.com/realcaixia/status/1467546917089468420
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
 联名信：就郭飞雄出国事件对中国政府的呼吁书 - 议报 <a href="https://yibaochina.com/?p=244099" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244099</a>
+
+### 3: [2021-12-08 00:27:22+08:00 推文](https://twitter.com/realcaixia/status/1468255826456584200)
+
+现在官就是穿上政府制服的匪，光天化日之下抢劫贫民。<br><br>鲁  难: 江苏南通市叠石桥，一位小贩眼睁睁看着自己的甘蔗被城管抢走，一根不剩，只能失声痛哭。城管的车上印着静通市容的字样，不过抢走甘蔗后他们一走了之，好像市容与他们无关，所在意的就是甘蔗，是小贩手中的各种商品。<br><br><video src="https://video.twimg.com/ext_tw_video/1467870477519622152/pu/vid/540x456/Zw0YJlZiHnQK9FQ4.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1467870477519622152/pu/img/KpJAFQNYFmfDz4WO.jpg"></video>
+
+### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
+
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
