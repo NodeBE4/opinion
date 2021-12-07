@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-12-06
+date: 2021-12-07
 from: https://twitter.com/mhar4/status/1467588187321036803
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll
 ### 7: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
 
 RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-12-07 18:43:00+08:00 推文](https://twitter.com/PM_Thornton/status/1468169162363125763)
+
+RT Patricia M Thornton<br>(On November 23, Gu Kailai's mother, Fan Chengxiu, widow of Major General Gu Jingsheng, died in Beijing (aged 99). Wreaths from both Bo Xilai & Gu Kailai were sent)
 
