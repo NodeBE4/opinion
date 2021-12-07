@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-12-06
+date: 2021-12-07
 from: https://twitter.com/nathanlawkc/status/1467631372001062913
 layout: post
 tags:
@@ -24,4 +24,12 @@ I am very honored to announce that I am invited by @POTUS to deliver a remark in
 ### 2: [2021-12-06 19:27:59+08:00 推文](https://twitter.com/nathanlawkc/status/1467818096010448898)
 
 //Nathan Law was Hong Kong’s youngest elected lawmaker before he was imprisoned in August 2017 ... In #Freedom, he has penned a manifesto about how quickly freedom can be eroded or dismantled—and how every generation must fight to protect it.// <a href="https://fortune.com/2021/12/01/5-new-books-to-read-in-december/" target="_blank" rel="noopener noreferrer">https://fortune.com/2021/12/01/5-new-books-to-read-in-december/</a>
+
+### 3: [2021-12-07 07:05:35+08:00 推文](https://twitter.com/nathanlawkc/status/1467993653415235585)
+
+From a student protest leader, the youngest elected legislator in Hong Kong, to a political prisoner and exiled activist … these all happened in my 20s. <br><br>And this is the story I want to share. <br><br>#Freedom is available in the US & Canada on 7th Dec. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FF9b4lGXwBEW-Fa?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
+
+Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style="" src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
 
