@@ -29,7 +29,7 @@ Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government
 
 ### 4: [2021-12-01 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053469668794369)
 
-A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 RMB for "cursing village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FFh3m-AWQAIwNm8?format=jpg&name=orig" referrerpolicy="no-referrer">
+A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 RMB for "cursing village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FFh3m-AWQAIwNm8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-04 12:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466982342237454336)
 
@@ -41,9 +41,9 @@ Guizhou woman Ou detained for 5 days for complaining in a WeChat group chat that
 
 ### 7: [2021-12-04 16:48:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053058022645761)
 
-2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
+2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style="" src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-04 16:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053561485807618)
 
-Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
+Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style="" src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
 
