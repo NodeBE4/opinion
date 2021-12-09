@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-06 01:30:25+08:00 推文](https://twitter.com/realcaixia/status/1467546917089468420)
 
-权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br><br><video src="https://video.twimg.com/ext_tw_video/1466612372982882316/pu/vid/720x760/LT465FCn3TSE3xry.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1466612372982882316/pu/img/tH4fdpriuw65M4OD.jpg"></video>
+权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br> <a href="https://twitter.com/LQ0068/status/1466612591468462082/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/LQ0068/status/1466612591468462082/video/1</a>
 
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
@@ -37,7 +37,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 6: [2021-12-08 13:04:38+08:00 推文](https://twitter.com/realcaixia/status/1468446399981395971)
 
-精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
+精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
@@ -53,7 +53,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 10: [2021-12-09 09:55:21+08:00 推文](https://twitter.com/realcaixia/status/1468761149701251080)
 
-德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style="" src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
+德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
@@ -61,9 +61,13 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
-21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style="" src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
+21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-09 12:53:30+08:00 推文](https://twitter.com/realcaixia/status/1468805982830706689)
 
 这是全英文的。文章不长1000多字，但换成图片要12幅，所以没有能贴出全文来。这下面有链接。<br><br>韩连潮: 《经济学人》杂志发表前中央党校教授蔡霞文章，对阵党国卫道士李世默，谈一党专政会给中国带来灾难，只有推行民主宪政中国才有未来。The future of democracy – Cai Xia on why China’s one-party system holds back the country<br> <a href="https://www.economist.com/by-invitation/2021/12/08/cai-xia-on-why-chinas-one-party-system-holds-back-the-country" target="_blank" rel="noopener noreferrer">https://www.economist.com/by-invitation/2021/12/08/cai-xia-on-why-chinas-one-party-system-holds-back-the-country</a>
+
+### 14: [2021-12-09 20:03:54+08:00 推文](https://twitter.com/realcaixia/status/1468914299275993095)
+
+众议院通过三项涉新疆人权议案 禁止强迫劳动产品入美国 <a href="https://www.voachinese.com/a/us-house-passes-uyghur-bills-20211208/6346179.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/us-house-passes-uyghur-bills-20211208/6346179.html</a>
 
