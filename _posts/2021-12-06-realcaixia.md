@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-06 01:30:25+08:00 推文](https://twitter.com/realcaixia/status/1467546917089468420)
 
-权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br><br><video src="https://video.twimg.com/ext_tw_video/1466612372982882316/pu/vid/720x760/LT465FCn3TSE3xry.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1466612372982882316/pu/img/tH4fdpriuw65M4OD.jpg"></video>
+权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br> <a href="https://twitter.com/LQ0068/status/1466612591468462082/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/LQ0068/status/1466612591468462082/video/1</a>
 
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
 
-这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-08 03:24:15+08:00 推文](https://twitter.com/realcaixia/status/1468300339531194368)
 
@@ -37,11 +37,11 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 6: [2021-12-08 13:04:38+08:00 推文](https://twitter.com/realcaixia/status/1468446399981395971)
 
-精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
+精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
-很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style="" src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-09 01:39:11+08:00 推文](https://twitter.com/realcaixia/status/1468636286114320390)
 
@@ -53,7 +53,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 10: [2021-12-09 09:55:21+08:00 推文](https://twitter.com/realcaixia/status/1468761149701251080)
 
-德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style="" src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
+德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
@@ -78,4 +78,16 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 ### 16: [2021-12-10 08:23:43+08:00 推文](https://twitter.com/realcaixia/status/1469100479561048078)
 
 Re @superbhandsome 这篇报道只是说了我分六阶段，并没有说我发言的具体内容。我会后面把自己的完整的文章写完发出来。
+
+### 17: [2021-12-10 09:57:49+08:00 推文](https://twitter.com/realcaixia/status/1469124161893281792)
+
+美国在太平洋这边举行民主峰会，中共在太平洋那边发疯，这几天把所有异见人士都软禁在家不许出门，连送孩子上学都不让。中共怕什么呢？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 呼吁易地举办奥运会<br><br>一个人权灾难、血腥残暴镇压人民的北京政权没有资格举办象征世界文明的国际奥运会<br> <a href="https://twitter.com/RFA_Chinese/status/1468885291935092738" target="_blank" rel="noopener noreferrer">https://twitter.com/RFA_Chinese/status/1468885291935092738</a>
+
+### 18: [2021-12-10 10:35:56+08:00 推文](https://twitter.com/realcaixia/status/1469133754115444743)
+
+中共号称中共国是最大的民主国家，那意思是在世界上高踞于人民之上当主子的国家中，中共国是最大的国家，若记者报道得罪他们，他们把记者弄到监狱里闭嘴。中共开的是高端民主会。<br><br>DW 中文- 德国之声: 保护记者委员会周四发表最新年度报告，2021年全球被监禁记者人数创下293人的新高，中国依然是关押记者人数最多的国家，被囚的包括《苹果日报》创办人黎智英及公民记者张展。<br> <a href="https://p.dw.com/p/442Eh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/442Eh</a>
+
+### 19: [2021-12-10 10:38:54+08:00 推文](https://twitter.com/realcaixia/status/1469134497304256516)
+
+Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人民用选票雇来为自己服务的，他们要被人民监督着干活，这个监督就是言论自由，他们被挑在舆论和法治峰尖上，搞不好就滚下去了，所以是“峰”会。美国和世界上民主国家的政党和政府首脑绝不敢把写揭露自己的记者抓进监狱，因为谁那样干谁把自己干进监狱。
 
