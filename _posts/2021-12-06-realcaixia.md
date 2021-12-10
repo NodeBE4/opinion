@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-06 01:30:25+08:00 推文](https://twitter.com/realcaixia/status/1467546917089468420)
 
-权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br><br><video src="https://video.twimg.com/ext_tw_video/1466612372982882316/pu/vid/720x760/LT465FCn3TSE3xry.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1466612372982882316/pu/img/tH4fdpriuw65M4OD.jpg"></video>
+权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br> <a href="https://twitter.com/LQ0068/status/1466612591468462082/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/LQ0068/status/1466612591468462082/video/1</a>
 
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
 
-这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-08 03:24:15+08:00 推文](https://twitter.com/realcaixia/status/1468300339531194368)
 
@@ -41,7 +41,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
-很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style="" src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-09 01:39:11+08:00 推文](https://twitter.com/realcaixia/status/1468636286114320390)
 
@@ -53,11 +53,11 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 10: [2021-12-09 09:55:21+08:00 推文](https://twitter.com/realcaixia/status/1468761149701251080)
 
-德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
+德国新政府将以何种政策态度对待中共政权，大陆人很关注。毕竟德国是最发达国家之一，毕竟德意志民族曾经历过纳粹法西斯统治的苦难；毕竟东德又经历共产极权残暴统治近半个世纪；毕竟两德人民推倒柏林墙重新统一。德国人民反对极权统治争取自由民主的经验对大陆民众会有很多启示。<br><br>ZHANGDONG: 德国新政府今天闪亮登场。新总理朔尔茨是上届默克尔政府的副总理兼财政部长，声称将会延续默克尔政策。绿党双主席之一贝尔伯克成为德国首位女性外长，富有挑战性，预计将会让东方战狼狂吠不止。<br><br><img style="" src="https://pbs.twimg.com/media/FGG9ByyXoAc7WTm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ZhangDong_SCH/status/1468662072368152576/photo/1</a>
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
-丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
+丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style="" src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
@@ -90,4 +90,8 @@ Re @superbhandsome 这篇报道只是说了我分六阶段，并没有说我发�
 ### 19: [2021-12-10 10:38:54+08:00 推文](https://twitter.com/realcaixia/status/1469134497304256516)
 
 Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人民用选票雇来为自己服务的，他们要被人民监督着干活，这个监督就是言论自由，他们被挑在舆论和法治峰尖上，搞不好就滚下去了，所以是“峰”会。美国和世界上民主国家的政党和政府首脑绝不敢把写揭露自己的记者抓进监狱，因为谁那样干谁把自己干进监狱。
+
+### 20: [2021-12-10 22:21:48+08:00 推文](https://twitter.com/realcaixia/status/1469311390280298504)
+
+中国一些著名大企业如今在股市这么暴跌，有多少是企业本身的问题？有多少是大陆经济趋势问题？有多少是中共当局的行政干预和政策问题？<br><br>王剑 Wong Kim: 美好的一天從恆大（跌84.71%）的房子醒來，拿起小米手機（跌40.78%）刷起了知乎（跌33.16%），騎著小牛電動（跌32.8%）去上班，點上一杯奈雪（跌55.35%）。打開QQ音樂（跌68.56%）。中午去海底撈（跌69.47%）聚餐，打個滴滴（跌56.64%）回公司，偷偷打開愛奇藝（跌73.05%）刷視頻。<br>
 
