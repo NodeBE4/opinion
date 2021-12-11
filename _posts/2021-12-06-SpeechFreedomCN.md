@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-08 13:33:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1468453628440715264)
 
-2018年10月，南京市新街口街道几栋建筑物通过灯光打出了“邓煌，生日快乐“的文字，有传闻称这是市委书记张敬华为他的情人邓煌庆生，花了600万元。邓的单位紧急辟谣，并称警察已经处理了造谣者。直到三年后的近日，张敬华因贪腐落马，当时的灯光秀“谣言”才被证明其实是真的，但官方没有为“造谣者”平反。<br><img style src="https://pbs.twimg.com/media/FGD85ndWYAEszkg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD89USXsAA2GBV?format=jpg&name=orig" referrerpolicy="no-referrer">
+2018年10月，南京市新街口街道几栋建筑物通过灯光打出了“邓煌，生日快乐“的文字，有传闻称这是市委书记张敬华为他的情人邓煌庆生，花了600万元。邓的单位紧急辟谣，并称警察已经处理了造谣者。直到三年后的近日，张敬华因贪腐落马，当时的灯光秀“谣言”才被证明其实是真的，但官方没有为“造谣者”平反。<br><img style="" src="https://pbs.twimg.com/media/FGD85ndWYAEszkg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD89USXsAA2GBV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-08 13:38:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1468455041170386947)
 
@@ -25,7 +25,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-06~2021-12-12'
 
 ### 3: [2021-12-10 12:43:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469165872279400449)
 
-江西省于都县男子孙某福，因在微信群里称交警为土匪，被处行政拘留。<br><img style src="https://pbs.twimg.com/media/FGOGMjDWYAAa1pT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGQ-FWUAEKzFe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGSdWWQAA64x6?format=jpg&name=orig" referrerpolicy="no-referrer">
+江西省于都县男子孙某福，因在微信群里称交警为土匪，被处行政拘留。<br><img style="" src="https://pbs.twimg.com/media/FGOGMjDWYAAa1pT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGQ-FWUAEKzFe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGSdWWQAA64x6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-10 12:44:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469166062709186564)
 
