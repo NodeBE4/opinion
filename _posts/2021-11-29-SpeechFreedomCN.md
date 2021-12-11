@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-29~2021-12-05'
 
 ### 1: [2021-11-29 22:26:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1465326323660955657)
 
-山东省淄博市男子邹志平，因在电报发表反对政府的言论，被以“在境外网站发表有害信息”为由拘留15日。<br><img style src="https://pbs.twimg.com/media/FFXihfEXEAsb6Gs?format=jpg&name=orig" referrerpolicy="no-referrer">
+山东省淄博市男子邹志平，因在电报发表反对政府的言论，被以“在境外网站发表有害信息”为由拘留15日。<br><img style="" src="https://pbs.twimg.com/media/FFXihfEXEAsb6Gs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-11-29 22:28:11+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1465326729648615425)
 
