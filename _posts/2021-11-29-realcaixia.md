@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-11-29~2021-12-05'
 
 ### 3: [2021-12-02 08:56:36+08:00 推文](https://twitter.com/realcaixia/status/1466209651201130497)
 
-導語非常好！直擊要害！<br><br>韩连潮: 【中共數字專制威脅人類文明】強國民眾憤怒控訴政府利用數字技術對社會無處不在的監控，斥責統治者把自己的一切都當作絕密信息藏在黑暗中。現代社會極權統治的三根支柱：暴力恐怖；謊言洗腦；數字技術監控，而推倒防火牆可以拆掉其兩根支柱。<br><br><img style src="https://pbs.twimg.com/media/FFj9qK1UUAA6SGY?format=jpg&name=orig" referrerpolicy="no-referrer">
+導語非常好！直擊要害！<br><br>韩连潮: 【中共數字專制威脅人類文明】強國民眾憤怒控訴政府利用數字技術對社會無處不在的監控，斥責統治者把自己的一切都當作絕密信息藏在黑暗中。現代社會極權統治的三根支柱：暴力恐怖；謊言洗腦；數字技術監控，而推倒防火牆可以拆掉其兩根支柱。<br><br><img style="" src="https://pbs.twimg.com/media/FFj9qK1UUAA6SGY?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-02 11:18:26+08:00 推文](https://twitter.com/realcaixia/status/1466245344577134595)
 
@@ -49,7 +49,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 9: [2021-12-03 22:37:07+08:00 推文](https://twitter.com/realcaixia/status/1466778530008780801)
 
-在中共國，凡申报所谓國家社科理论重点課題的，都只是重金利誘下的“知識”分子投名状。这些投名状一旦被挑中，这些“知識分子”将都身价不菲而唯独人格尊严扫地。细看中共国发布的国家重点社科课题目录，每一项都是为造神而定制新袈裟，产出的各堆垃圾文字，历史将会把耻辱印记贴在这些“知識分子”脸上。<br><br>Jam: 三百多个项目，一半是研究习思想、中国特色社会理论和中国治理模式。<br><br>都是骗钱花的！犹如纺织皇帝的外衣，没毛病！<br><br><img style src="https://pbs.twimg.com/media/FFbWqmcWUAQq74n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFbWqmdXEAETRJr?format=jpg&name=orig" referrerpolicy="no-referrer">
+在中共國，凡申报所谓國家社科理论重点課題的，都只是重金利誘下的“知識”分子投名状。这些投名状一旦被挑中，这些“知識分子”将都身价不菲而唯独人格尊严扫地。细看中共国发布的国家重点社科课题目录，每一项都是为造神而定制新袈裟，产出的各堆垃圾文字，历史将会把耻辱印记贴在这些“知識分子”脸上。<br><br>Jam: 三百多个项目，一半是研究习思想、中国特色社会理论和中国治理模式。<br><br>都是骗钱花的！犹如纺织皇帝的外衣，没毛病！<br><br><img style="" src="https://pbs.twimg.com/media/FFbWqmcWUAQq74n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFbWqmdXEAETRJr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-04 05:33:39+08:00 推文](https://twitter.com/realcaixia/status/1466883351839657993)
 
@@ -65,7 +65,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 13: [2021-12-05 10:41:20+08:00 推文](https://twitter.com/realcaixia/status/1467323173205118981)
 
-《商君书》——中国历代统治者的驭民术宝书。中共建政，毛泽东曾说他是“马克思+秦始皇”，习当局循毛政同样如此。不同的是有了高科技，监控民众、欺骗民众、恐吓镇压民众更加精致精准。<br>习当局说什么全过程民主，实质是习全过程做统治驭民的主子——“秦始皇+习近平思想是21世纪马克思”。习自封已经超越毛。<br><img style src="https://pbs.twimg.com/media/FFz6pflXEAAK9Dm?format=jpg&name=orig" referrerpolicy="no-referrer">
+《商君书》——中国历代统治者的驭民术宝书。中共建政，毛泽东曾说他是“马克思+秦始皇”，习当局循毛政同样如此。不同的是有了高科技，监控民众、欺骗民众、恐吓镇压民众更加精致精准。<br>习当局说什么全过程民主，实质是习全过程做统治驭民的主子——“秦始皇+习近平思想是21世纪马克思”。习自封已经超越毛。<br><img style="" src="https://pbs.twimg.com/media/FFz6pflXEAAK9Dm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-05 22:46:23+08:00 推文](https://twitter.com/realcaixia/status/1467505635117916169)
 
