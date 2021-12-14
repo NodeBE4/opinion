@@ -27,3 +27,7 @@ Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new im
 
 RT Bill Bishop<br>Daimler just disclosed for the first time that a second Chinese shareholder has an almost 10% stake in the company <a href="https://www.bloomberg.com/news/articles/2021-12-13/daimler-reveals-chinese-partner-baic-raised-stake-to-almost-10?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2021-12-13/daimler-reveals-chinese-partner-baic-raised-stake-to-almost-10?sref=6ZE6q2XR</a>
 
+### 4: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
+
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+
