@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-12-13
+date: 2021-12-14
 from: https://twitter.com/realcaixia/status/1470174871523049472
 layout: post
 tags:
@@ -18,4 +18,16 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 ### 1: [2021-12-13 07:32:58+08:00 推文](https://twitter.com/realcaixia/status/1470174871523049472)
 
 中国政府用于保障公民健康的医疗卫生费用，在全世界排名第145位。排在中国前面的国家有哪些？<br><br>一个国家的医疗卫生费用是实现社会公平，保障公民健康的重要手段，也是医疗科技水平发展的重要保障。 在中国GDP总量已经攀上世界第二的今天， 我国军力排世界第二，亚洲第一……… <a href="https://mp.weixin.qq.com/s/PDCu8WAc30_zpDvVtXmGQQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/PDCu8WAc30_zpDvVtXmGQQ</a>
+
+### 2: [2021-12-14 08:04:22+08:00 推文](https://twitter.com/realcaixia/status/1470545160765419522)
+
+王剑老师今天的分析是另一种思路。推荐。对问题的分析可以从不同角度展开，多个角度能够帮助观察思考的更深入一些。<br><br>王剑 Wong Kim: 这个政治议题也被黄标，奇怪的标准。<br>@YouTube @YouTubeCreators<br> <a href="https://twitter.com/wongkim728/status/1470445675578015744" target="_blank" rel="noopener noreferrer">https://twitter.com/wongkim728/status/1470445675578015744</a>
+
+### 3: [2021-12-14 08:08:15+08:00 推文](https://twitter.com/realcaixia/status/1470546139556593672)
+
+每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style="" src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
+
+### 4: [2021-12-14 08:09:39+08:00 推文](https://twitter.com/realcaixia/status/1470546491680952325)
+
+每日一推，为长沙公益仨呼吁！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权（12月14日）<br>湖南省委书记 #张庆伟 湖南政法委书记 #魏建锋，湖南司法厅厅长 #范运田，湖南监狱管理局局长 #钟艺兵<br>#长沙公益仨 程渊 吴葛健雄被任意羁押876天，从未会见过自己的律师，秘密审判，湖南津市监狱衡州监狱至今仍剥夺家属探视和律师会见<br> <a href="https://twitter.com/mindyshi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/mindyshi227/status/1469111277024915457</a>
 
