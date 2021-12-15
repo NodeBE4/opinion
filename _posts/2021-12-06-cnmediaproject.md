@@ -69,7 +69,7 @@ Re The book's publication is big news, right? And editors would freely choose to
 
 ### 14: [2021-12-08 08:24:04+08:00 推文](https://twitter.com/cnmediaproject/status/1468375793504239616)
 
-Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style="" src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
@@ -81,7 +81,7 @@ Re And Dalian Daily, the official organ of the CCP leadership in the city of Dal
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
@@ -93,7 +93,7 @@ Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
-Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style="" src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-08 08:40:36+08:00 推文](https://twitter.com/cnmediaproject/status/1468379952647409664)
 
@@ -169,7 +169,7 @@ RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, wi
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 
