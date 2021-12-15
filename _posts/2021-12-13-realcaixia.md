@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-12-15
+date: 2021-12-16
 from: https://twitter.com/realcaixia/status/1470174871523049472
 layout: post
 tags:
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 3: [2021-12-14 08:08:15+08:00 推文](https://twitter.com/realcaixia/status/1470546139556593672)
 
-每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style="" src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
+每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
 
 ### 4: [2021-12-14 08:09:39+08:00 推文](https://twitter.com/realcaixia/status/1470546491680952325)
 
@@ -38,4 +38,16 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 ### 6: [2021-12-15 09:27:05+08:00 推文](https://twitter.com/realcaixia/status/1470928366681444357)
 
 推倒信息防火墙具有重大战略意义。<br><br>研习营邀请了原政府主管信息战略的高官、公民社会的推动网络自由的专家、以及致力于帮助中国人突破防火墙的一线高科技专家共6人分别从网络国际秩序、信息战战略、中共的假信息策略分析、最前沿的突破防火墙工具等几个方面给出席者做讲座 <a href="https://yibaochina.com/?p=244219" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244219</a>
+
+### 7: [2021-12-16 01:56:10+08:00 推文](https://twitter.com/realcaixia/status/1471177276494598146)
+
+推荐请转发这视频。大陆民众实名上视频揭发中共官员受贿，这需要极大的勇气。习上台后唯一能吹嘘的是“反腐”。这位民众真信了，结果被警察抓了，帮助他发布视频的也被抓了。<br>请转发，转发越多舆论力量越大，越有助于争取举报人与发布视频人平安回家。二是暴露了习当局反腐为假l镇压是真。这需要彻底揭露<br><br>鲁  难: 12月11日下午，这个实名河南鹤壁纠风办原主任曾于2009年12月受贿190万元”视频发出几个小时后，被河南鹤壁警方传讯、羁押，其涉案理由疑似为“诬告陷害”。目前举报人张某失去自由的时间已经超过72小时，发帖人被羁押的时间也超过24小时，已经超过警方正常询问的法定不羁押时间，可能已被刑事强拘。<br><br><video src="https://video.twimg.com/ext_tw_video/1471172050601525266/pu/vid/720x1280/1ijjrYJTsQS7ZN0g.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1471172050601525266/pu/img/yc1TB-Gl8UFYp77r.jpg"></video>
+
+### 8: [2021-12-16 04:20:33+08:00 推文](https://twitter.com/realcaixia/status/1471213611246882818)
+
+特别推荐：<br>请所有人都读一读刘艳丽这篇章。中共“嘴里的“法治”实质是流氓政治！刘艳丽详细记述了这帮警察流氓是如何从心理上折磨一位弱女子的。<br>刘艳丽只是发表了几篇微博文章而已！<br><br>刘艳丽：再劝写悔过书和录认罪视频 | 光传媒 | 传播真理 追求自由 <a href="https://ipkmedia.com/?p=115014" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=115014</a>
+
+### 9: [2021-12-16 04:32:04+08:00 推文](https://twitter.com/realcaixia/status/1471216511662673925)
+
+希望美国两党在捍卫人权问题上有更多的跨党派合作。<br><br>美国国会议员谈台湾或中国问题: Rep. Jennifer Wexton议员说:<br><br>我们刚刚通过了我们的两党法案，要求将强迫劳动制成的商品从美国货架上撤下，并追究中国政府的责任。<br><br>维吾尔人的强迫劳动已经感染了全球供应链，美国企业和消费者绝不能串通一气。<br> <a href="https://www.axios.com/congress-uyghur-forced-labor-bill-d4699c95-16ea-4b42-bda4-eb5baa29326a.html" target="_blank" rel="noopener noreferrer">https://www.axios.com/congress-uyghur-forced-labor-bill-d4699c95-16ea-4b42-bda4-eb5baa29326a.html</a> <a href="https://twitter.com/RepWexton/status/1470941533356634113" target="_blank" rel="noopener noreferrer">https://twitter.com/RepWexton/status/1470941533356634113</a>
 
