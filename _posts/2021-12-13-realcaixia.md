@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 3: [2021-12-14 08:08:15+08:00 推文](https://twitter.com/realcaixia/status/1470546139556593672)
 
-每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
+每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style="" src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
 
 ### 4: [2021-12-14 08:09:39+08:00 推文](https://twitter.com/realcaixia/status/1470546491680952325)
 
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 5: [2021-12-15 08:19:53+08:00 推文](https://twitter.com/realcaixia/status/1470911454115209218)
 
-每日一推！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月15日）<br>今天我给湖南省10月新上任的省委书记张庆伟写了一封公开信，要求湖南津市监狱 衡州监狱依法归还我们的亲属探视权！<br><br>明天会给其他公仆写信 省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FGjQXbSWQAAcfxv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjQXbTXwAA_3bT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjQXbUX0AAEiPm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
+每日一推！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月15日）<br>今天我给湖南省10月新上任的省委书记张庆伟写了一封公开信，要求湖南津市监狱 衡州监狱依法归还我们的亲属探视权！<br><br>明天会给其他公仆写信 省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGjQXbSWQAAcfxv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjQXbTXwAA_3bT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjQXbUX0AAEiPm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
 
 ### 6: [2021-12-15 09:27:05+08:00 推文](https://twitter.com/realcaixia/status/1470928366681444357)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 10: [2021-12-16 09:57:22+08:00 推文](https://twitter.com/realcaixia/status/1471298374536212480)
 
-每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
+每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
 
 ### 11: [2021-12-16 09:58:41+08:00 推文](https://twitter.com/realcaixia/status/1471298706674704384)
 
@@ -66,4 +66,16 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 ### 13: [2021-12-16 11:32:02+08:00 推文](https://twitter.com/realcaixia/status/1471322196849180674)
 
 Re @Ipkmedia @ZhangDong_SCH 胡叼盘这是要就坡撤叫驴。叼盘是本性，当叫驴是工作。主子要卸磨，驴自然不敢再叫，往后也轮不到叫唤了。
+
+### 14: [2021-12-16 19:23:31+08:00 推文](https://twitter.com/realcaixia/status/1471440850093760523)
+
+中共极权统治下的大陆是全世界人权状况最恶劣的国家。<br><br>刘晓原: 历史上的今天：1966年12月16日，联合国大会通过了《公民权利及政治权利国际公约》，由此掀开了国际人权的新篇章。<br>  截止到2019年7月3日为止，《公民权利及政治权利国际公约》有74个签署国及173个缔约国。<br>     中国政府于1998年10月5日在联合国总部签署了《公约》，但至今还未提交全国人大批准实施。<br><br><img style="" src="https://pbs.twimg.com/media/FGsDsaGVQAAFyG3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGsDscyUYAAa9Xk?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 15: [2021-12-16 19:30:22+08:00 推文](https://twitter.com/realcaixia/status/1471442575974404099)
+
+这些告密教师的大学生太卑鄙太下作无耻！<br><br>新闻/真话: 12月14日，上海东方电影学院一个女老师被学校停职，因为她在课堂上说，南京大屠杀30万，是注水数字。她还启迪学生，不应该去恨，而要思考！一个真正的良师，就这么被猖狂的粉红举报了，学校为此事还成立了调查组。<br><br><video src="https://video.twimg.com/amplify_video/1471378636146102272/vid/720x720/LA-_8Gn8BLtHOK8w.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1471378636146102272/img/5dnKYM5RLhi-Phkh.jpg"></video>
+
+### 16: [2021-12-16 19:54:30+08:00 推文](https://twitter.com/realcaixia/status/1471448647736958978)
+
+这篇文章我发给《议报》与光传媒网站同时发布。<br>撕掉中共极权统治下掠夺式经济增长“奇迹”的光鲜外表，将其背后的丑恶与罪孽拿到太阳下曝曝光。<br>这种掠夺式的经济增长、一党专政的独裁专制、对全社会的恐怖统治，不仅不可能使中国经济持续增长，而且对中国与世界都是灾难！ <a href="https://yibaochina.com/?p=244186" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244186</a>
 
