@@ -51,3 +51,11 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 希望美国两党在捍卫人权问题上有更多的跨党派合作。<br><br>美国国会议员谈台湾或中国问题: Rep. Jennifer Wexton议员说:<br><br>我们刚刚通过了我们的两党法案，要求将强迫劳动制成的商品从美国货架上撤下，并追究中国政府的责任。<br><br>维吾尔人的强迫劳动已经感染了全球供应链，美国企业和消费者绝不能串通一气。<br> <a href="https://www.axios.com/congress-uyghur-forced-labor-bill-d4699c95-16ea-4b42-bda4-eb5baa29326a.html" target="_blank" rel="noopener noreferrer">https://www.axios.com/congress-uyghur-forced-labor-bill-d4699c95-16ea-4b42-bda4-eb5baa29326a.html</a> <a href="https://twitter.com/RepWexton/status/1470941533356634113" target="_blank" rel="noopener noreferrer">https://twitter.com/RepWexton/status/1470941533356634113</a>
 
+### 10: [2021-12-16 09:57:22+08:00 推文](https://twitter.com/realcaixia/status/1471298374536212480)
+
+每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
+
+### 11: [2021-12-16 09:58:41+08:00 推文](https://twitter.com/realcaixia/status/1471298706674704384)
+
+丁家喜律师和许志永律师无罪！<br><br>Luo Shengchun丁家喜律师妻子: #释放丁家喜 #释放许志永 美国国会与行政当局中国委员会CECC的“奥运囚犯”中国良心犯系列：<br>丁家喜律师和许志永律师被指控犯有 "颠覆罪"，并因不懈地倡导中国的法律改革和健全的公民社会而被任意拘留，至今已有近两年时间。他们，以及所有被拘留的维权人士，都应该被释放！<br> <a href="https://twitter.com/ceccgov/status/1470820893941239820" target="_blank" rel="noopener noreferrer">https://twitter.com/ceccgov/status/1470820893941239820</a>
+
