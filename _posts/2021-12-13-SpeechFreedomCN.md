@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-12-14
+date: 2021-12-16
 from: https://twitter.com/SpeechFreedomCN/status/1470656856364355586
 layout: post
 tags:
@@ -21,5 +21,13 @@ Re 青岛大学教师高薇嘉（微博名：高鸭），因在微博发表了�
 
 ### 2: [2021-12-14 15:32:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1470657817514237952)
 
-Re Qingdao University announced on Weibo that it has set a special team to investigate into the case of its teacher Gao Weijia posting "inappropriate remarks" on Weibo. Gao's "inappropriate remarks" were that Chinese people should feel free to visit Yasukuni Shrine in Japan.<br><img style="" src="https://pbs.twimg.com/media/FGjStsYXEAAia9n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjSxUlWYAEsLxU?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Qingdao University announced on Weibo that it has set a special team to investigate into the case of its teacher Gao Weijia posting "inappropriate remarks" on Weibo. Gao's "inappropriate remarks" were that Chinese people should feel free to visit Yasukuni Shrine in Japan.<br><img style src="https://pbs.twimg.com/media/FGjStsYXEAAia9n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjSxUlWYAEsLxU?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2021-12-16 16:49:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1471402072511860738)
+
+Re 上海震旦职业学院教师宋某，因在课堂上质疑官方声称的南京大屠杀死亡人数，称“30万这个数字没有史料支撑，只是民间说说而已“，被学生举报后现被校方成立特别工作组调查。<br><video src="https://video.twimg.com/ext_tw_video/1471401308359991296/pu/vid/1280x720/DBqE3Xg59RY2AiNY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1471401308359991296/pu/img/wN_55CKoVUgiGwsz.jpg"></video>
+
+### 4: [2021-12-16 16:52:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1471402956364914692)
+
+Re Shanghai Zhendan Vocational College teacher Song under investigation for questioning official's claim about the death toll of Nanjing Massacre during a lecture, saying the officially claimed death toll 300,000 is "baseless".<br><video src="https://video.twimg.com/ext_tw_video/1471401308359991296/pu/vid/1280x720/DBqE3Xg59RY2AiNY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1471401308359991296/pu/img/wN_55CKoVUgiGwsz.jpg"></video>
 
