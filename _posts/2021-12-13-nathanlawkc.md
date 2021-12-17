@@ -19,9 +19,13 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 ### 1: [2021-12-13 09:52:37+08:00 推文](https://twitter.com/nathanlawkc/status/1470210016619778050)
 
-The upcoming voting for legislators in Hong Kong is a “selection.” <br>Only ~20% of the seats are popularly contested and candidates were vetted by political police. Figures representing people have no hope of running.<br><br>We should boycott the SELECTION— asking it is ILLEGAL in HK now<br><img style="" src="https://pbs.twimg.com/media/FGc8NxDX0AEe3rX?format=jpg&name=orig" referrerpolicy="no-referrer">
+The upcoming voting for legislators in Hong Kong is a “selection.” <br>Only ~20% of the seats are popularly contested and candidates were vetted by political police. Figures representing people have no hope of running.<br><br>We should boycott the SELECTION— asking it is ILLEGAL in HK now<br><img style src="https://pbs.twimg.com/media/FGc8NxDX0AEe3rX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-17 08:59:37+08:00 推文](https://twitter.com/nathanlawkc/status/1471646228630884360)
 
 A powerful piece from my friend @joshrogin on why we should help Hong Kong exiled democratic activists. <br>@SunnyCheungky @jooeysiiu @hkdc_us @hk_watch <br>// Their struggle could last decades. We must show them they are not fighting alone.//<br>#StandwithHongKong <a href="https://www.washingtonpost.com/opinions/2021/12/16/hong-kongs-freedom-fighters-need-our-help/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/16/hong-kongs-freedom-fighters-need-our-help/?tid=ss_tw</a>
+
+### 3: [2021-12-17 19:39:58+08:00 推文](https://twitter.com/nathanlawkc/status/1471807377217404936)
+
+“Candidates are thoroughly screened by political police and they had to have support from pro-Beijing politicians. The popularly elected seats have drastically reduced to only 20％. We should not give any legitimacy to this election by voting.” <a href="https://aje.io/4ehswu" target="_blank" rel="noopener noreferrer">https://aje.io/4ehswu</a>
 
