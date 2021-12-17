@@ -45,7 +45,7 @@ RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll
 
 ### 8: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
 
-RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-07 18:43:00+08:00 推文](https://twitter.com/PM_Thornton/status/1468169162363125763)
 
@@ -105,11 +105,11 @@ Re On definitions, CMP is proud to be a partner in the excellent Decoding China 
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
-Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style="" src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-08 21:36:31+08:00 推文](https://twitter.com/AlexDukalskis/status/1468575217228337156)
 
-RT Alex Dukalskis<br>If you are curious about why authoritarian states spend so much time and effort doing things like this, give my @OUPAcademic book Making the World Safe for Dictatorship a look:<br><br>China Media Project: Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech.<br><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a>
+RT Alex Dukalskis<br>If you are curious about why authoritarian states spend so much time and effort doing things like this, give my @OUPAcademic book Making the World Safe for Dictatorship a look:<br><br>China Media Project: Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech.<br><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a>
 
 ### 25: [2021-12-09 07:03:33+08:00 推文](https://twitter.com/lingli_vienna/status/1468717917776723968)
 
@@ -145,7 +145,7 @@ Re The latest article, from 11/28, follows CCP talking points nearly verbatim. I
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
-Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
