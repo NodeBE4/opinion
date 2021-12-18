@@ -37,11 +37,11 @@ A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 
 
 ### 6: [2021-12-04 12:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466983348773945347)
 
-Guizhou woman Ou detained for 5 days for complaining in a WeChat group chat that traffic police were too strict when punishing people, and referring to them as wild animals.<br><img style="" src="https://pbs.twimg.com/media/FFtX0aUXIAAiWvP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFtX25rXEAYtONB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFtX5alXMAMV5wL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Guizhou woman Ou detained for 5 days for complaining in a WeChat group chat that traffic police were too strict when punishing people, and referring to them as wild animals.<br><img style src="https://pbs.twimg.com/media/FFtX0aUXIAAiWvP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFtX25rXEAYtONB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFtX5alXMAMV5wL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-04 16:48:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053058022645761)
 
-2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style="" src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
+2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-04 16:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053561485807618)
 
