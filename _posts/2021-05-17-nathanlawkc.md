@@ -25,13 +25,13 @@ Hi Rep.@IlhanMN, thanks for concerning the rise of Asian hate crime. I think we 
 
 The European Parliament has made a rational decision -- freezing the EU-China investment pack. Human rights violations in China should be addressed and tackled before any of the ratification processes start.<br><br>Stuart Lau: EU should focus “less on emotional outbursts and more on rational thinking,” Chinese foreign ministry spokesman said, in response to MEPs’ freezing the investment pact. “It should make the right decision in its own interest.”<br>
 
-### 3: [2021-05-23 02:54:48+08:00 推文](https://twitter.com/nathanlawkc/status/1396177742580879361)
+### 3: [2021-05-23 02:54:48+08:00 推文](https://twitter.com/nathanlawkc/status/1396177744464056322)
 
-1. Last week I was invited to attend a guest series at UChicago’s Harris School of Public Policy. By then, I did not realize that the UC Chinese Students and Scholars Association(CSSA) protested the invitation and accuse me of “hurting” their feelings with all the disinformation.<br><img style src="https://pbs.twimg.com/media/E2A3uyNXEAMw8Cm?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 2. The CCP colluders are trying to silence the critics in YOUR country. It raises concerns over infiltration from the CCP into the US academics, and the societies in general. I am pleased that the school upholds the values of free speech and academic integrity.
 
-### 4: [2021-05-23 02:54:49+08:00 推文](https://twitter.com/nathanlawkc/status/1396177747475582978)
+### 4: [2021-05-23 02:54:49+08:00 推文](https://twitter.com/nathanlawkc/status/1396177746137690113)
 
-Re 4. The false statements in the emails to the University of Chicago and the messages [关于今晚Mentor Program讲座的立场声明以及中国学生呼吁] circulated widely in the WeChat groups are defamatory. I reserve all my legal rights in this matter. -END
+Re 3. The event went smoothly. Yet, the attack shows how CCP aggression threatens our cherished values. The other schools may not stand as firmly as Uchicago did. I hope the govt can look into signs of infiltration in these CSSA and to ACT to protect the FREEDOMS in YOUR country.
 
 ### 5: [2021-05-23 17:59:18+08:00 推文](https://twitter.com/nathanlawkc/status/1396405368562061314)
 
