@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2021-12-17
+date: 2021-12-19
 from: https://twitter.com/nathanlawkc/status/1470210016619778050
 layout: post
 tags:
@@ -31,5 +31,9 @@ A powerful piece from my friend @joshrogin on why we should help Hong Kong exile
 
 ### 4: [2021-12-17 22:26:09+08:00 推文](https://twitter.com/nathanlawkc/status/1471849198958133248)
 
-Let’s hope for a better year ahead of us<br><br>Nathan Law ‘21 M.A.<br>@Yale<br><img style="" src="https://pbs.twimg.com/media/FG0PCvsXIAAFwX_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Let’s hope for a better year ahead of us<br><br>Nathan Law ‘21 M.A.<br>@Yale<br><img style src="https://pbs.twimg.com/media/FG0PCvsXIAAFwX_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-12-19 07:35:16+08:00 推文](https://twitter.com/nathanlawkc/status/1472349778784755719)
+
+We're not helping govt to redefine democracy.<br><br>//Despite the ubiquitous advertisements from the government, election sentiment in the public has never felt so low.<br>People do not want to vote for a rubber-stamp chamber and pretend everything is all right.// <a href="https://www.nytimes.com/2021/12/18/opinion/hong-kong-election.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/12/18/opinion/hong-kong-election.html?smid=tw-share</a>
 
