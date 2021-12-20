@@ -137,7 +137,7 @@ RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛:�
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
-A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
+A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
