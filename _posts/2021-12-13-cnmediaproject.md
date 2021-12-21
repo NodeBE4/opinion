@@ -57,7 +57,7 @@ RT Made in China Journal<br>Re No. 2 is again @lingli_vienna in conversation w
 
 ### 11: [2021-12-14 20:34:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1470733930286440468)
 
-RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style="" src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-15 17:34:01+08:00 推文](https://twitter.com/ABPevzner/status/1471050904820461574)
 
@@ -113,7 +113,7 @@ Re @emilyjodell It certainly does look that way.
 
 ### 25: [2021-12-16 13:54:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471357948480073728)
 
-This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style="" src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
+This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2021-12-16 13:55:18+08:00 推文](https://twitter.com/cnmediaproject/status/1471358253871562752)
 
@@ -161,7 +161,7 @@ Re Here is a whole group of texts designed to teach teachers in HOW TO work "ide
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
-Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
+Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-17 11:17:41+08:00 推文](https://twitter.com/suelinwong/status/1471680973347901442)
 

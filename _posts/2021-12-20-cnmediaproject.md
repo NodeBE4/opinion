@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2021-12-20 06:13:17+08:00 推文](https://twitter.com/lingli_vienna/status/1472691531605811202)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style="" src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
@@ -37,7 +37,7 @@ Updated content restrictions for short video platforms released last week add a 
 
 ### 6: [2021-12-20 16:12:13+08:00 推文](https://twitter.com/yangfulei/status/1472842260513447938)
 
-RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
+RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
@@ -53,11 +53,11 @@ Updated content restrictions for short video platforms in China add a few politi
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
-RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style="" src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
@@ -70,4 +70,8 @@ Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img st
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 
 RT Adrienne Carter<br>My heart is broken by the loss of @CRTejada. He was an amazing father, husband and friend. I can't imagine our newsroom without his infectious laugh, our stories without his deft touch, or my life without his amazing counsel. The world lost a great human. <a href="https://gofund.me/e55c195b" target="_blank" rel="noopener noreferrer">https://gofund.me/e55c195b</a>
+
+### 15: [2021-12-21 15:41:45+08:00 推文](https://twitter.com/GeringTuvia/status/1473196979463229441)
+
+RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style="" src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
 
