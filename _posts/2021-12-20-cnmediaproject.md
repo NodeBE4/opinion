@@ -21,7 +21,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when te
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
-Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the # of Nanjing Massacre victims. Her firing prompted a fierce struggle online between those who saw her as a lacking patriotism and those who believed she was treated unfairly. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHBf76_akAALtQv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the # of Nanjing Massacre victims. Her firing prompted a fierce struggle online between those who saw her as a lacking patriotism and those who believed she was treated unfairly. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHBf76_akAALtQv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
@@ -33,15 +33,15 @@ RT FAN Wenxin<br>What to make of Peng Shuai's sexual assault denial? The phras
 
 ### 5: [2021-12-20 15:01:00+08:00 推文](https://twitter.com/cnmediaproject/status/1472824336403021827)
 
-Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-20 16:12:13+08:00 推文](https://twitter.com/yangfulei/status/1472842260513447938)
 
-RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
+RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
-RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style="" src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-20 21:54:29+08:00 推文](https://twitter.com/muyixiao/status/1472928395621187592)
 
@@ -57,7 +57,7 @@ Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims 
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
-RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style="" src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
