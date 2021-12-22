@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-12-21
+date: 2021-12-22
 from: https://twitter.com/realcaixia/status/1472905372209983494
 layout: post
 tags:
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -38,4 +38,28 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 ### 6: [2021-12-21 22:50:29+08:00 推文](https://twitter.com/realcaixia/status/1473304874343448582)
 
 每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style="" src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-12-22 19:24:00+08:00 推文](https://twitter.com/realcaixia/status/1473615298032975873)
+
+中共管理不了海外舆论，他们是用钱收买某些社交媒体，造谣煽风、污蔑攻击、散布虚假信息、操弄海外舆论。同时，中共利用金钱收买这些海外媒体，充当中共的特务，收集敢于在海外社交平台上发声的大陆民众情况，对他们本人与家人进行残酷迫害镇压。中共的极权统治远超过希特勒、前苏东共产国家。<br><br>中国数字时代: 【新闻综述】中国新的舆情管理模式：按月付费购买社媒操纵服务<br> <a href="http://dlvr.it/SFnlxJ" target="_blank" rel="noopener noreferrer">http://dlvr.it/SFnlxJ</a>
+
+### 8: [2021-12-22 19:46:06+08:00 推文](https://twitter.com/realcaixia/status/1473620859545964548)
+
+对比何等鲜明！在中共党国，大小官员都要摆谱。从走路间隔距离、会议名牌摆放、讲话用词选择、地方接待规格到媒体报道版面安排、字体大小等等，无一不显示等级地位特权待遇。中共官员极为在乎这些，他们把这视为面子大小和实权影响力的体现。中共遍体上下都散发着2000年帝王专制的腐朽臭气<br><br>Frank Tian Xie (謝田), Ph.D.: nice. 👍👍<br> <a href="https://twitter.com/WSZY18/status/1472746515340795904" target="_blank" rel="noopener noreferrer">https://twitter.com/WSZY18/status/1472746515340795904</a>
+
+### 9: [2021-12-22 19:50:51+08:00 推文](https://twitter.com/realcaixia/status/1473622058349309953)
+
+这位女士说的是大实话。<br><br>依哈: 什麼是正能量？正能量的新解釋。💪<br><br><video src="https://video.twimg.com/ext_tw_video/1473040818734878720/pu/vid/540x960/lzjScmo6R4p0TqYT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1473040818734878720/pu/img/GRH5LgZEMCUJHK-Z.jpg"></video>
+
+### 10: [2021-12-22 19:57:59+08:00 推文](https://twitter.com/realcaixia/status/1473623852869632004)
+
+Re @realjiangfeng @YouTube 不是刘亚伟被捕，是另一个弟弟刘亚苏被捕。刘亚苏在大陆，刘亚伟在美国。
+
+### 11: [2021-12-22 20:12:09+08:00 推文](https://twitter.com/realcaixia/status/1473627417646403589)
+
+江峰先生的这期漫谈评论，尤其是前4分钟，语言精彩犀利，揭露中共本质入木刻骨、相当透彻。特推荐。<br><br>（被黃標）传上将刘亚洲与其弟美智库主任同时被捕，有神秘委托涉中美高层联手倒习？刘亚洲爆攻台三大难，美军绝密预案放二十万共军登台？【江峰漫談202... <a href="https://youtu.be/qd1Ch_4g0-A" target="_blank" rel="noopener noreferrer">https://youtu.be/qd1Ch_4g0-A</a>
+
+### 12: [2021-12-22 20:17:32+08:00 推文](https://twitter.com/realcaixia/status/1473628772477853697)
+
+Re @realjiangfeng @YouTube 很多人不知道刘亚洲有几个弟弟，刘亚伟也是很有影响的人，可能人们只知道刘亚伟不知道刘亚苏，因此有可能以为抓了刘亚伟。
 
