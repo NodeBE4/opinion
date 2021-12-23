@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-12-23
+date: 2021-12-24
 from: https://twitter.com/realcaixia/status/1472905372209983494
 layout: post
 tags:
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 6: [2021-12-21 22:50:29+08:00 推文](https://twitter.com/realcaixia/status/1473304874343448582)
 
-每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月21日第12推）<br>湖南省司法厅范运田厅长，湖南两年花了3000多万建成的视频会见系统，为啥不能支持程渊、吴葛健雄的视频会见？<br><br>程渊、吴葛健雄被秘密转去监狱3个多月了，至今禁止家属探视。<br>节后，我们家属将申请信息公开，看看这系统的猫腻<br><br><img style="" src="https://pbs.twimg.com/media/FHEgLnAWYAIe0_k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHEgLm9WYAwLoh_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-22 19:24:00+08:00 推文](https://twitter.com/realcaixia/status/1473615298032975873)
 
@@ -66,4 +66,12 @@ Re @realjiangfeng @YouTube 很多人不知道刘亚洲有几个弟弟，刘亚�
 ### 13: [2021-12-23 22:38:46+08:00 推文](https://twitter.com/realcaixia/status/1474026700086337542)
 
 不是吹嘘全过程民主吗？是不是有民主，先看有沒有言論自由。<br>習當局自己打臉：<br>前有任志強一篇私議文被判刑18年；現有宋庚一幾句話被砸了飯碗；李田田因一短微博被強制送精神病院⋯⋯，這兩天一人封殺全網，10億網民不許講話⋯⋯<br><br>人家都是被全网封杀，只有你能封杀全网 <a href="https://chinadigitaltimes.net/chinese/674898.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/674898.html</a>
+
+### 14: [2021-12-24 01:29:18+08:00 推文](https://twitter.com/realcaixia/status/1474069619648442371)
+
+希望美國有更多制裁中共迫害人權的法律制訂出來並執行。極權當局迫害人權惡行比比皆是，且迫害面越來越廣，從上訪村民到抗拒強征土地的農民，從城鎮街頭小攤販到老師和公益人士⋯⋯⋯大陸民眾生活在無法無天的黑暗中。曾有一著名律師總結當局迫害手段：A罪名逮捕；B罪名搜查；C罪名庭審；D罪名判刑⋯⋯<br><br>Louisa Coan Greve: Breaking: President Biden @POTUS has enacted the Uyghur Forced Labor Prevention Act into law.<br> <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/23/bill-signed-h-r-6256/" target="_blank" rel="noopener noreferrer">https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/23/bill-signed-h-r-6256/</a>
+
+### 15: [2021-12-24 01:39:10+08:00 推文](https://twitter.com/realcaixia/status/1474072100986146816)
+
+Re @JIEDU4 看来你是个假基督徒！
 
