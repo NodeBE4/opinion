@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2021-12-22
+date: 2021-12-23
 from: https://twitter.com/realcaixia/status/1472905372209983494
 layout: post
 tags:
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -62,4 +62,8 @@ Re @realjiangfeng @YouTube 不是刘亚伟被捕，是另一个弟弟刘亚苏�
 ### 12: [2021-12-22 20:17:32+08:00 推文](https://twitter.com/realcaixia/status/1473628772477853697)
 
 Re @realjiangfeng @YouTube 很多人不知道刘亚洲有几个弟弟，刘亚伟也是很有影响的人，可能人们只知道刘亚伟不知道刘亚苏，因此有可能以为抓了刘亚伟。
+
+### 13: [2021-12-23 22:38:46+08:00 推文](https://twitter.com/realcaixia/status/1474026700086337542)
+
+不是吹嘘全过程民主吗？是不是有民主，先看有沒有言論自由。<br>習當局自己打臉：<br>前有任志強一篇私議文被判刑18年；現有宋庚一幾句話被砸了飯碗；李田田因一短微博被強制送精神病院⋯⋯，這兩天一人封殺全網，10億網民不許講話⋯⋯<br><br>人家都是被全网封杀，只有你能封杀全网 <a href="https://chinadigitaltimes.net/chinese/674898.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/674898.html</a>
 
