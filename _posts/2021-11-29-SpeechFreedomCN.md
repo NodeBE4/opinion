@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-29~2021-12-05'
 
 ### 2: [2021-11-29 22:28:11+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1465326729648615425)
 
-Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government on telegram. Police claimed he “posted harmful information on foreign websites for multiple times”.<br><img style="" src="https://pbs.twimg.com/media/FFXi5B5XIAguR5j?format=jpg&name=orig" referrerpolicy="no-referrer">
+Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government on telegram. Police claimed he “posted harmful information on foreign websites for multiple times”.<br><img style src="https://pbs.twimg.com/media/FFXi5B5XIAguR5j?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-01 22:34:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053162855501836)
 
