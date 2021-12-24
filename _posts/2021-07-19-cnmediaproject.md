@@ -33,7 +33,7 @@ RT Bill Bishop<br>Zhengzhou<br><br>Eefje Rammeloo: Dit filmpje komt langs op
 
 ### 5: [2021-07-21 03:24:22+08:00 推文](https://twitter.com/SabinaKnight1/status/1417566067824766978)
 
-RT Sabina Knight 桑稟华<br>1/ @NobelPrize Laureate Mo Yan 莫言 gave a speech about #truth telling.<br><br>The #video has gone viral.<br><br>He's now been criticized and officially removed from the list of China's master writers of the century「#中国百年名作家」. <a href="https://twitter.com/i/status/1415530023973363714" target="_blank" rel="noopener noreferrer">https://twitter.com/i/status/1415530023973363714</a>
+RT Sabina Knight 桑稟华<br>1/ @NobelPrize Laureate Mo Yan 莫言 gave a speech about #truth telling.<br><br>The #video has gone viral.<br><br>He's now been criticized and officially removed from the list of China's master writers of the century「#中国百年名作家」.<br><br>百合: 莫言👍👍👍<br><br><video src="https://video.twimg.com/ext_tw_video/1415529990846697472/pu/vid/640x360/yfjIeIqhUtcHXG9e.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1415529990846697472/pu/img/3c2-osA-WwSDZcZf.jpg"></video> <a href="https://twitter.com/baihe66666/status/1414883256227573760" target="_blank" rel="noopener noreferrer">https://twitter.com/baihe66666/status/1414883256227573760</a>
 
 ### 6: [2021-07-21 22:37:27+08:00 推文](https://twitter.com/cnmediaproject/status/1417856252248526854)
 
