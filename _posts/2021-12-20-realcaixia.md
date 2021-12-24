@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -74,4 +74,8 @@ Re @realjiangfeng @YouTube 很多人不知道刘亚洲有几个弟弟，刘亚�
 ### 15: [2021-12-24 01:39:10+08:00 推文](https://twitter.com/realcaixia/status/1474072100986146816)
 
 Re @JIEDU4 看来你是个假基督徒！
+
+### 16: [2021-12-24 03:59:02+08:00 推文](https://twitter.com/realcaixia/status/1474107297915936772)
+
+質問得好！<br><br>王邦瑞: 看到王五四一句话，不转睡不着：你们如此热爱历史上死去的同胞，连个数字都不能说错，却又如此冷酷残忍地对待眼前活着的同胞，你们算些什么东西？<br>
 
