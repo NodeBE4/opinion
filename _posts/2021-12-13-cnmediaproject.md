@@ -21,7 +21,7 @@ For those who missed it: Douban, which had slightly more chatter last month abou
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
-Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-14 04:26:32+08:00 推文](https://twitter.com/niubi/status/1470490343669997571)
 
@@ -89,7 +89,7 @@ Re Sorry, link to the article is here: <a href="https://chinamediaproject.org/
 
 ### 19: [2021-12-16 11:10:38+08:00 推文](https://twitter.com/cnmediaproject/status/1471316813388869633)
 
-The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style="" src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
+The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-16 11:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471319064304054280)
 
@@ -101,11 +101,11 @@ RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving 
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
-After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
+After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
-Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style="" src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-16 13:39:50+08:00 推文](https://twitter.com/cnmediaproject/status/1471354358847918082)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 
@@ -141,7 +141,7 @@ A must-read post by CMP's Stella Chen on the history (and current practice) of "
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
-In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
+In our dictionary entry on "ideol. and pol. education" (思政), this example stands out: a university biology textbook instructing teachers to related a study of DNA to the concept of "red genes" and gratitude to the mother country. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxebRZaIAEfOTo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
