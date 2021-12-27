@@ -49,7 +49,7 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
@@ -57,7 +57,7 @@ Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims 
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
-RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style="" src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
@@ -65,7 +65,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
-Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style="" src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 
@@ -73,7 +73,7 @@ RT Adrienne Carter<br>My heart is broken by the loss of @CRTejada. He was an a
 
 ### 15: [2021-12-21 15:41:45+08:00 推文](https://twitter.com/GeringTuvia/status/1473196979463229441)
 
-RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style="" src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-21 23:50:00+08:00 推文](https://twitter.com/BonnieGlaser/status/1473319853687779331)
 
@@ -85,7 +85,7 @@ RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, 
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
-RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style="" src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-26 20:19:00+08:00 推文](https://twitter.com/PM_Thornton/status/1475078690933460994)
 
