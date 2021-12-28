@@ -29,7 +29,7 @@ Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government
 
 ### 4: [2021-12-01 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053469668794369)
 
-A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 RMB for "cursing village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FFh3m-AWQAIwNm8?format=jpg&name=orig" referrerpolicy="no-referrer">
+A villager surnamed Song in Qinghai Province detained for 10 days and fined 500 RMB for "cursing village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FFh3m-AWQAIwNm8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-04 12:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466982342237454336)
 
