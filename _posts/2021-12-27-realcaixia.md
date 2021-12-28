@@ -23,3 +23,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style="" src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
+### 3: [2021-12-29 06:06:33+08:00 推文](https://twitter.com/realcaixia/status/1475951330896322564)
+
+關注張展，張展情況令人揪心。<br>公民记者张展入狱一周年 拒不让步难保外就医 — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf-12282021092703.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/gf-12282021092703.html</a>
+
