@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2021-12-27
+date: 2021-12-29
 from: https://twitter.com/jwassers/status/1475259029244952576
 layout: post
 tags:
@@ -25,5 +25,25 @@ RT Kaiser Kuo<br>Rest In Peace. You were one of the greats.<br><br>The Associa
 
 ### 3: [2021-12-27 22:34:25+08:00 推文](https://twitter.com/iheartbeijing/status/1475475160329162753)
 
-RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style="" src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 4: [2021-12-29 10:45:39+08:00 推文](https://twitter.com/ZhangTaisu/status/1476021568878923784)
+
+RT Taisu Zhang<br>An obituary that I wrote for Spence (in Chinese—there are surprisingly few of his former students who write in Chinese, even fewer who write to the Mainland audience, so I thought I’d take the plunge on that side of the Pacific).【张泰苏 | 缅怀史景迁老师】 <a href="https://mp.weixin.qq.com/s/5qQv7cfTMqSDO_RFl4T-yQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/5qQv7cfTMqSDO_RFl4T-yQ</a>
+
+### 5: [2021-12-29 16:29:57+08:00 推文](https://twitter.com/rhokilpatrick/status/1476108212143149056)
+
+RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing operations and letting go of all staff, after HK police froze its assets and arrested six for publishing seditious material.<br><br>After Apple Daily, this is the second opposition news source that authorities have shut down this year.<br><img style src="https://pbs.twimg.com/media/FHwwmGzVIAAPEQZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-12-29 17:26:32+08:00 推文](https://twitter.com/rhokilpatrick/status/1476122451574595587)
+
+RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
+
+CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2021-12-29 17:54:28+08:00 推文](https://twitter.com/cnmediaproject/status/1476129481417183234)
+
+Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
