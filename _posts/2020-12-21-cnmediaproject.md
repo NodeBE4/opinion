@@ -25,7 +25,7 @@ RT Sheena Greitens<br>Terribly sad to hear of Ezra Vogel's passing. He was a r
 
 ### 3: [2020-12-21 12:52:00+08:00 推文](https://twitter.com/PekingMike/status/1340882690858479616)
 
-RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style="" src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2020-12-21 15:52:27+08:00 推文](https://twitter.com/bueti/status/1340928103942643712)
 
@@ -49,7 +49,7 @@ RT Olivia Qi Zhang<br>*Some personal news*:<br><br>After almost 5 years at Cai
 
 ### 9: [2020-12-22 13:00:22+08:00 推文](https://twitter.com/ulywang/status/1341247185497640960)
 
-RT Wang Feng 王丰<br>Shoot there goes my cunning plan to slap a Chinese pavilion top on the Pentagon.<br><br>Andrew Feinberg: INBOX: @realDonaldTrump has signed an executive order prohibiting new federal buildings from being built in anything other than Neoclassical, Georgian, Federal, Greek Revival, Beaux-Arts, or Art Deco styles.<br><br><img style="" src="https://pbs.twimg.com/media/Epxn21OW4AYHNIp?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Epxn21EXUAQmHs7?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Epxn21IXUAQK13W?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Epxn21TXEAMqmJV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Wang Feng 王丰<br>Shoot there goes my cunning plan to slap a Chinese pavilion top on the Pentagon.<br><br>Andrew Feinberg: INBOX: @realDonaldTrump has signed an executive order prohibiting new federal buildings from being built in anything other than Neoclassical, Georgian, Federal, Greek Revival, Beaux-Arts, or Art Deco styles.<br><br><img style src="https://pbs.twimg.com/media/Epxn21OW4AYHNIp?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Epxn21EXUAQmHs7?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Epxn21IXUAQK13W?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Epxn21TXEAMqmJV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-12-23 08:16:39+08:00 推文](https://twitter.com/luluyilun/status/1341538170177875968)
 
