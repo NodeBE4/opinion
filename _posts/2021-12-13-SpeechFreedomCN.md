@@ -21,7 +21,7 @@ Re 青岛大学教师高薇嘉（微博名：高鸭），因在微博发表了�
 
 ### 2: [2021-12-14 15:32:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1470657817514237952)
 
-Re Qingdao University announced on Weibo that it has set a special team to investigate into the case of its teacher Gao Weijia posting "inappropriate remarks" on Weibo. Gao's "inappropriate remarks" were that Chinese people should feel free to visit Yasukuni Shrine in Japan.<br><img style src="https://pbs.twimg.com/media/FGjStsYXEAAia9n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjSxUlWYAEsLxU?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Qingdao University announced on Weibo that it has set a special team to investigate into the case of its teacher Gao Weijia posting "inappropriate remarks" on Weibo. Gao's "inappropriate remarks" were that Chinese people should feel free to visit Yasukuni Shrine in Japan.<br><img style="" src="https://pbs.twimg.com/media/FGjStsYXEAAia9n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjSxUlWYAEsLxU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-16 16:49:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1471402072511860738)
 
@@ -33,7 +33,7 @@ Re Shanghai Zhendan Vocational College teacher Song under investigation for ques
 
 ### 5: [2021-12-16 20:48:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1471462331733491721)
 
-Re 宋庚一，即上条推文里提到的上海震旦职业学院老师宋某，因在课堂上质疑官方宣传的南京大屠杀死亡人数，已被该学院开除。<br>Update: Song Gengyi, the teacher mentioned in the previous tweet who questioned the officially claimed death toll of Nanjing Massacre during a lecture, fired.<br><img style src="https://pbs.twimg.com/media/FGuuUTDWYAMsE3X?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 宋庚一，即上条推文里提到的上海震旦职业学院老师宋某，因在课堂上质疑官方宣传的南京大屠杀死亡人数，已被该学院开除。<br>Update: Song Gengyi, the teacher mentioned in the previous tweet who questioned the officially claimed death toll of Nanjing Massacre during a lecture, fired.<br><img style="" src="https://pbs.twimg.com/media/FGuuUTDWYAMsE3X?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-18 18:06:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1472146214699294722)
 
