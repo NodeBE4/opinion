@@ -53,11 +53,11 @@ RT Patricia M Thornton<br>(On November 23, Gu Kailai's mother, Fan Chengxiu, w
 
 ### 10: [2021-12-08 08:13:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468373089344176128)
 
-Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -81,7 +81,7 @@ Re And Dalian Daily, the official organ of the CCP leadership in the city of Dal
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
@@ -89,11 +89,11 @@ Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
-Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
-Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style="" src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-08 08:40:36+08:00 推文](https://twitter.com/cnmediaproject/status/1468379952647409664)
 
@@ -101,11 +101,11 @@ Re It is always imp. to scrutinize CCP rhetoric to understand how the leadership
 
 ### 22: [2021-12-08 08:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468380638026039300)
 
-Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style="" src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
-Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style="" src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-08 21:36:31+08:00 推文](https://twitter.com/AlexDukalskis/status/1468575217228337156)
 
@@ -117,7 +117,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Hot takes by @MaryGao on the PRC White Paper o
 
 ### 26: [2021-12-09 08:49:15+08:00 推文](https://twitter.com/cnmediaproject/status/1468744516048125955)
 
-Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2021-12-09 08:53:13+08:00 推文](https://twitter.com/cnmediaproject/status/1468745515122958336)
 
@@ -149,23 +149,23 @@ Re Zwart appears regularly in state media to promote PRC developments on human r
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
-Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style="" src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
-Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
-Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style="" src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-09 11:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468783218573082631)
 
-Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
+Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
