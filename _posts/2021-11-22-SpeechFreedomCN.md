@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2021-11-22~2021-11-28'
 ---
 
-收录近年中国因言获罪案件/Collecting & exposing cases that China violates citizens’ rights of #speechfreedom. Summary Sheet/总表：https://t.co/AHE0kIgkx0; Verdicts/判决书: https://t.co/uVk88DtZJ2 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -21,11 +21,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-22~2021-11-28'
 
 ### 2: [2021-11-24 11:13:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344873977917445)
 
-Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style src="https://pbs.twimg.com/media/FE6hd4WXsAERgv2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style="" src="https://pbs.twimg.com/media/FE6hd4WXsAERgv2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-25 18:56:20+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463823862999756801)
 
-陕西汉中女子肖某，因在微信群里称交警为“抢劫犯”和“土匪”，并说“有本事去打美国，只会在这里横“，被处拘留7日。<br><img style src="https://pbs.twimg.com/media/FFCMBcpWQAUXO7s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFCMBcvXsAcfg3Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+陕西汉中女子肖某，因在微信群里称交警为“抢劫犯”和“土匪”，并说“有本事去打美国，只会在这里横“，被处拘留7日。<br><img style="" src="https://pbs.twimg.com/media/FFCMBcpWQAUXO7s?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFCMBcvXsAcfg3Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-11-25 18:57:14+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463824091853504514)
 

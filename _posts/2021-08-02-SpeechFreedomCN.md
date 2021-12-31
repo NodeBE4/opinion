@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2021-08-02~2021-08-08'
 ---
 
-收录近年中国因言获罪案件/Collecting & exposing cases that China violates citizens’ rights of #speechfreedom. Summary Sheet/总表：https://t.co/AHE0kIgkx0; Verdicts/判决书: https://t.co/uVk88DtZJ2 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}

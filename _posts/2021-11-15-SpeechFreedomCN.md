@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2021-11-15~2021-11-21'
 ---
 
-收录近年中国因言获罪案件/Collecting & exposing cases that China violates citizens’ rights of #speechfreedom. Summary Sheet/总表：https://t.co/AHE0kIgkx0; Verdicts/判决书: https://t.co/uVk88DtZJ2 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-15~2021-11-21'
 
 ### 2: [2021-11-20 17:59:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1461997731841466372)
 
-Yang Guanghan, dissident from Guangdong Province, sentenced to 6 months in prison with 1.5 year probation, for publicly holding papers and sticking posters to express his political demands and views, which were critical of the Communist Party of China and Xi.<br><img style src="https://pbs.twimg.com/media/FEoPLvoXIAIVVWT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEoPLvwXwAgN5Dx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEoPLvnWUAA4Wnu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEoPLvyXsAAu-FB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Yang Guanghan, dissident from Guangdong Province, sentenced to 6 months in prison with 1.5 year probation, for publicly holding papers and sticking posters to express his political demands and views, which were critical of the Communist Party of China and Xi.<br><img style="" src="https://pbs.twimg.com/media/FEoPLvoXIAIVVWT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEoPLvwXwAgN5Dx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEoPLvnWUAA4Wnu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEoPLvyXsAAu-FB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-21 18:06:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1462361646819647489)
 

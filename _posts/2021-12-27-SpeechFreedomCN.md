@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2021-12-30
+date: 2021-12-31
 from: https://twitter.com/SpeechFreedomCN/status/1475835847551377418
 layout: post
 tags:
@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2021-12-27~2022-01-02'
 ---
 
-收录近年中国因言获罪案件/Collecting & exposing cases that China violates citizens’ rights of #speechfreedom. Summary Sheet/总表：https://t.co/AHE0kIgkx0; Verdicts/判决书: https://t.co/uVk88DtZJ2 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -29,5 +29,13 @@ Re Former human rights lawyer Qin Yongpei to appear in court on Friday to face I
 
 ### 4: [2021-12-30 11:47:40+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476399563720343552)
 
-Sichuan woman Wei detained for 5 days for complaining about traffic police in WeChat. Police claimed she "insulted" them.<br><img style="" src="https://pbs.twimg.com/media/FH05H2qXEAYjOoO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH05JvIXsAAoqN4?format=png&name=orig" referrerpolicy="no-referrer">
+Sichuan woman Wei detained for 5 days for complaining about traffic police in WeChat. Police claimed she "insulted" them.<br><img style src="https://pbs.twimg.com/media/FH05H2qXEAYjOoO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH05JvIXsAAoqN4?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 5: [2021-12-31 15:35:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819302493966363)
+
+2019年2月，安徽省宿松县男子贺某贵，因在微信朋友圈发文称自己被狗咬，并配图交通罚单照片，被认定为侮辱交警处拘留3日。<br><img style="" src="https://pbs.twimg.com/media/FH63SLlXsAA7Tho?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH63TkeX0AcLjRM?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 6: [2021-12-31 15:37:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819694153879557)
+
+Anhui man He detained for 3 days for saying in WeChat Moment that he got bitten by dogs, with a photo of a ticket from traffic police. Police claimed this WeChat post insulted them.<br><img style="" src="https://pbs.twimg.com/media/FH63XUlX0A8_VGh?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH63Yd4WUAIB_M8?format=png&name=orig" referrerpolicy="no-referrer">
 

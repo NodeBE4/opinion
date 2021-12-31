@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @中国文字狱事件盘点: 2021-11-29~2021-12-05'
 ---
 
-收录近年中国因言获罪案件/Collecting & exposing cases that China violates citizens’ rights of #speechfreedom. Summary Sheet/总表：https://t.co/AHE0kIgkx0; Verdicts/判决书: https://t.co/uVk88DtZJ2 
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -41,9 +41,9 @@ Guizhou woman Ou detained for 5 days for complaining in a WeChat group chat that
 
 ### 7: [2021-12-04 16:48:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053058022645761)
 
-2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
+2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style="" src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-04 16:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053561485807618)
 
-Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
+Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style="" src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
 
