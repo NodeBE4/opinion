@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-11-29~2021-12-05'
 
 ### 3: [2021-12-02 08:56:36+08:00 推文](https://twitter.com/realcaixia/status/1466209651201130497)
 
-導語非常好！直擊要害！<br><br>韩连潮: 【中共數字專制威脅人類文明】強國民眾憤怒控訴政府利用數字技術對社會無處不在的監控，斥責統治者把自己的一切都當作絕密信息藏在黑暗中。現代社會極權統治的三根支柱：暴力恐怖；謊言洗腦；數字技術監控，而推倒防火牆可以拆掉其兩根支柱。<br><br><img style src="https://pbs.twimg.com/media/FFj9qK1UUAA6SGY?format=jpg&name=orig" referrerpolicy="no-referrer">
+導語非常好！直擊要害！<br><br>韩连潮: 【中共數字專制威脅人類文明】強國民眾憤怒控訴政府利用數字技術對社會無處不在的監控，斥責統治者把自己的一切都當作絕密信息藏在黑暗中。現代社會極權統治的三根支柱：暴力恐怖；謊言洗腦；數字技術監控，而推倒防火牆可以拆掉其兩根支柱。<br><br><img style="" src="https://pbs.twimg.com/media/FFj9qK1UUAA6SGY?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-02 11:18:26+08:00 推文](https://twitter.com/realcaixia/status/1466245344577134595)
 
