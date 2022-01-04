@@ -41,7 +41,7 @@ Re @jiashengzhou 只是习没有当时毛在中共党内高级官员心中的高
 
 ### 7: [2022-01-03 06:13:44+08:00 推文](https://twitter.com/realcaixia/status/1477765075071078405)
 
-怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
+怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style="" src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-03 06:21:34+08:00 推文](https://twitter.com/realcaixia/status/1477767049485197318)
 
@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -70,4 +70,20 @@ Re @wellone6 饭一口一口吃，路一步一步走。
 ### 14: [2022-01-04 06:19:27+08:00 推文](https://twitter.com/realcaixia/status/1478128901620736007)
 
 Re @wellone6 中国政治转型不可能毕其功于一役。
+
+### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
+
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
+
+这是政府工作人员执法？这分明就是土匪流氓恶霸欺凌民众！<br><br>ZHANGDONG: 毒霸横行，野蛮清零，铁蹄之下，愚昧恶政。<br><br><video src="https://video.twimg.com/ext_tw_video/1478273009374969860/pu/vid/204x360/IoyBGVjvjaKC0SPh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1478273009374969860/pu/img/0y6Rwf33vjRbat9y.jpg"></video>
+
+### 17: [2022-01-04 16:25:46+08:00 推文](https://twitter.com/realcaixia/status/1478281488621834240)
+
+2020年武汉封城而发生的各种惨剧今在西安再次发生。有位网友说：哪里封城哪里就是西安、武汉！<br>【立此存照】是疫情杀人，还是防疫杀人？ - 中国数字时代 <a href="https://chinadigitaltimes.net/chinese/675394.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/675394.html</a>
+
+### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
+
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
