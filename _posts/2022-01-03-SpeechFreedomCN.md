@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-03~2022-01-09'
 
 ### 1: [2022-01-04 09:37:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478178845673013251)
 
-贵州省施秉县女子廖某，因在抖音发布短视频称交警“阴魂不散”，被认定为辱警并被拘留5日。<br><img style src="https://pbs.twimg.com/media/FIOLkq8XoAMjHaT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIOLm_aWQAQ-p36?format=png&name=orig" referrerpolicy="no-referrer">
+贵州省施秉县女子廖某，因在抖音发布短视频称交警“阴魂不散”，被认定为辱警并被拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIOLkq8XoAMjHaT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOLm_aWQAQ-p36?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-04 09:39:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478179218089459713)
 
@@ -29,5 +29,5 @@ Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock tra
 
 ### 4: [2022-01-05 16:52:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478650594701332483)
 
-Re 这些言论中的部分出处如下：<br><img style="" src="https://pbs.twimg.com/media/FIU3_hnWYAAcFiY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU4OBQXMAMZHSt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU42PUWUAUXnX8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU43hDX0AE_N--?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 这些言论中的部分出处如下：<br><img style src="https://pbs.twimg.com/media/FIU3_hnWYAAcFiY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU4OBQXMAMZHSt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU42PUWUAUXnX8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU43hDX0AE_N--?format=jpg&name=orig" referrerpolicy="no-referrer">
 
