@@ -25,7 +25,7 @@ Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the #
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
-Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style="" src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-20 13:19:50+08:00 推文](https://twitter.com/xinwenfan/status/1472798876956434437)
 
@@ -33,7 +33,7 @@ RT FAN Wenxin<br>What to make of Peng Shuai's sexual assault denial? The phras
 
 ### 5: [2021-12-20 15:01:00+08:00 推文](https://twitter.com/cnmediaproject/status/1472824336403021827)
 
-Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-20 16:12:13+08:00 推文](https://twitter.com/yangfulei/status/1472842260513447938)
 
