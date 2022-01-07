@@ -53,7 +53,7 @@ RT Patricia M Thornton<br>(On November 23, Gu Kailai's mother, Fan Chengxiu, w
 
 ### 10: [2021-12-08 08:13:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468373089344176128)
 
-Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
@@ -77,7 +77,7 @@ Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in 
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
-Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style="" src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
@@ -101,15 +101,15 @@ Re It is always imp. to scrutinize CCP rhetoric to understand how the leadership
 
 ### 22: [2021-12-08 08:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468380638026039300)
 
-Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style="" src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
-Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style="" src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-08 21:36:31+08:00 推文](https://twitter.com/AlexDukalskis/status/1468575217228337156)
 
-RT Alex Dukalskis<br>If you are curious about why authoritarian states spend so much time and effort doing things like this, give my @OUPAcademic book Making the World Safe for Dictatorship a look:<br><br>China Media Project: Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech.<br><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a>
+RT Alex Dukalskis<br>If you are curious about why authoritarian states spend so much time and effort doing things like this, give my @OUPAcademic book Making the World Safe for Dictatorship a look:<br><br>China Media Project: Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech.<br><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a>
 
 ### 25: [2021-12-09 07:03:33+08:00 推文](https://twitter.com/lingli_vienna/status/1468717917776723968)
 
@@ -117,7 +117,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Hot takes by @MaryGao on the PRC White Paper o
 
 ### 26: [2021-12-09 08:49:15+08:00 推文](https://twitter.com/cnmediaproject/status/1468744516048125955)
 
-Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2021-12-09 08:53:13+08:00 推文](https://twitter.com/cnmediaproject/status/1468745515122958336)
 
@@ -137,7 +137,7 @@ Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
-Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-09 09:49:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468759639550734336)
 
@@ -169,7 +169,7 @@ RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, wi
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 
