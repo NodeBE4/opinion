@@ -53,7 +53,7 @@ RT Carl Minzner<br>Beijing releases 2020 report on human rights in the USA<br>
 
 ### 10: [2021-03-24 22:45:58+08:00 推文](https://twitter.com/jonlsullivan/status/1374734236662521862)
 
-RT Jonathan Sullivan<br>Amazing how these campaigns suddenly take off and snowball. 辱華 at your peril! (Easier said than done though, right, Delta, Benz, Carrefour, NBA &co &co?)<br><br>Jane Li: A comprehensive campaign on Xinjiang is being carried out on Weibo now:1: top e-commerce streamer Wei Ya said she’d removed two overseas brands suspected of slandering China over Xinjiang in today’s livestream<br> <a href="https://twitter.com/Jane_Li911/status/1374670665215737858" target="_blank" rel="noopener noreferrer">https://twitter.com/Jane_Li911/status/1374670665215737858</a>
+RT Jonathan Sullivan<br>Amazing how these campaigns suddenly take off and snowball. 辱華 at your peril! (Easier said than done though, right, Delta, Benz, Carrefour, NBA &co &co?) <a href="https://twitter.com/Jane_Li911/status/1374731670268440577" target="_blank" rel="noopener noreferrer">https://twitter.com/Jane_Li911/status/1374731670268440577</a>
 
 ### 11: [2021-03-25 02:15:46+08:00 推文](https://twitter.com/jwassers/status/1374787035479769090)
 
