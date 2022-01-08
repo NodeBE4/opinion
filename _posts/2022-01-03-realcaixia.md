@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-01-03~2022-01-09'
 
 ### 3: [2022-01-03 04:28:20+08:00 推文](https://twitter.com/realcaixia/status/1477738554042327043)
 
-中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-03 05:07:05+08:00 推文](https://twitter.com/realcaixia/status/1477748304511385600)
 
@@ -41,7 +41,7 @@ Re @jiashengzhou 只是习没有当时毛在中共党内高级官员心中的高
 
 ### 7: [2022-01-03 06:13:44+08:00 推文](https://twitter.com/realcaixia/status/1477765075071078405)
 
-怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
+怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style="" src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-03 06:21:34+08:00 推文](https://twitter.com/realcaixia/status/1477767049485197318)
 
@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -73,7 +73,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
 
-鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
 
@@ -85,7 +85,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
 
-Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-01-04 21:26:13+08:00 推文](https://twitter.com/realcaixia/status/1478357099000340490)
 
@@ -93,7 +93,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 20: [2022-01-05 22:05:33+08:00 推文](https://twitter.com/realcaixia/status/1478729384701960202)
 
-中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style="" src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
+中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
 
 ### 21: [2022-01-05 22:23:56+08:00 推文](https://twitter.com/realcaixia/status/1478734010260066307)
 
@@ -109,7 +109,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 24: [2022-01-06 08:15:19+08:00 推文](https://twitter.com/realcaixia/status/1478882837499682817)
 
-有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
+有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style="" src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-01-06 08:38:10+08:00 推文](https://twitter.com/realcaixia/status/1478888586435080198)
 
@@ -125,11 +125,11 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
-央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
+央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style="" src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-01-07 20:31:59+08:00 推文](https://twitter.com/realcaixia/status/1479430615606996993)
 
@@ -137,7 +137,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 31: [2022-01-07 20:35:57+08:00 推文](https://twitter.com/realcaixia/status/1479431614069456900)
 
-想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
+想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2022-01-07 21:09:18+08:00 推文](https://twitter.com/realcaixia/status/1479440004460036096)
 
@@ -166,4 +166,16 @@ Re @BPljvpSfaMznSvn 你们眼里只有钱，除了钱你们眼里什么都没有
 ### 38: [2022-01-08 12:06:32+08:00 推文](https://twitter.com/realcaixia/status/1479665801699512323)
 
 Re @nullnullj 人所共知的事就更要大声地公开说出来，并且大声说“不”！都不说话就等于默认接受了中共的长臂管辖。
+
+### 39: [2022-01-08 12:54:16+08:00 推文](https://twitter.com/realcaixia/status/1479677815389835267)
+
+同意推特文观点。<br><br>蔡慎坤: 哈扎尔巴耶夫是前苏联高官，前苏联解体后，他独揽大权，在哈萨克斯坦统治了近30年，现任总统是他亲手扶持的傀垒，哈扎尔巴耶夫大搞个人崇拜，任人唯亲贪婪成性，为家人窃取了巨大的财富，为利益集团大肆输送利益，这样的独裁者最终的归宿无一都是粉身碎骨万劫不复，即使俄罗斯出兵倒台也只是时间问题！<br><br><video src="https://video.twimg.com/ext_tw_video/1479662874402299909/pu/vid/540x732/j3UuDSbFKprWMCsO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1479662874402299909/pu/img/hPL8tCzL2qXALUAM.jpg"></video>
+
+### 40: [2022-01-08 13:05:41+08:00 推文](https://twitter.com/realcaixia/status/1479680685711532036)
+
+中共掏空了国库，以“共富”名义迫使民企大佬自掏资产还不够，又伸手掏猪舍羊圈，这可是对底层民众敲骨吸髓。<br>过去从在民国生活过来的大陆老辈人说：国民党税多、共产党会多；21世纪后老辈人说：共产党也税多了；再后来说：共产党税也多费也多会也多。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 中共末日挖地三尺抢钱<br>恶招无奇不有<br><br>从私企到个税，<br>现在又开始打猪的注意，猪舍税意味着牛舍鸡舍、各个舍…<br><br>中共挥霍无度钱袋干瘪，<br>且看进入2022年各种抢钱进行中…<br> <a href="https://twitter.com/zhanglifan/status/1479344963892641793" target="_blank" rel="noopener noreferrer">https://twitter.com/zhanglifan/status/1479344963892641793</a>
+
+### 41: [2022-01-08 20:18:52+08:00 推文](https://twitter.com/realcaixia/status/1479789701372563458)
+
+YouTube 是公共社交平台，要维护这个平台的公正秩序和管理层的信誉，就要事先明确并公开打黄标规则；对被处置对象公开给黄标依据和事由。否则，处置很难让人信服。一个科技企业与一个人一样，建立信誉要日积月累，自毁形象自毁信誉只要几件事甚至一件事就行。若是被中共长臂操控，那性质就完全改变了。<br><br>新聞看點: 請問YouTube，為什麼天天給我黃標？是取消我收入了嗎？理由是什麼？只一個要求「符合規定」就完事了嗎？如果是YouTube的直接做法，我需要一個理由！如果是中共在背後搗鬼，我會不斷撕畫皮！從今天開始，直到問題解決為止！<br>
 
