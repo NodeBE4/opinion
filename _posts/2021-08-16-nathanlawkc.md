@@ -29,9 +29,9 @@ Thank you @BritishVogue  for featuring my story as #MrVogue in the #Septemberiss
 
 1. Let me tell you what has happened to Hong Kong's top university students, who were charged with "advocating terrorism," and you will realize how dictatorial Hong Kong has become. Bails are denied and they could face years in prison.<br><img style src="https://pbs.twimg.com/media/E9L6OuBWQAMw2cd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 4: [2021-08-20 06:09:09+08:00 推文](https://twitter.com/nathanlawkc/status/1428479173086097410)
+### 4: [2021-08-20 06:09:09+08:00 推文](https://twitter.com/nathanlawkc/status/1428479175522988038)
 
-Re 2. They have suffered so much as a result of a Student Union motion. In the motion, they have offered their condolences to a person who stabbed a police. That may not be appropriate, but that's definitely not "advocating terrorism." It's way below the threshold.
+Re 3. Beijing is using the pretext of "terrorism" to frame and suppress all grievances and opposition directed towards the government. Following the imprisonment of legislators and the forced dissolution of the major civil society groups, students are the next to be targeted.
 
 ### 5: [2021-08-20 06:09:10+08:00 推文](https://twitter.com/nathanlawkc/status/1428479177544642568)
 
