@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-10
+date: 2022-01-11
 from: https://twitter.com/realcaixia/status/1480212676118818820
 layout: post
 tags:
@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-01-10~2022-01-16'
 
 ### 2: [2022-01-10 00:34:00+08:00 推文](https://twitter.com/realcaixia/status/1480216293903151104)
 
-借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
+借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style="" src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-10 02:02:44+08:00 推文](https://twitter.com/realcaixia/status/1480238624746754054)
 
@@ -42,4 +42,8 @@ Re @qiwenhua2 那时期不叫晚清，叫清末。
 ### 7: [2022-01-10 12:48:12+08:00 推文](https://twitter.com/realcaixia/status/1480401063765323778)
 
 看看西安官员的是如何作秀的！<br><br>楊錦麟: 在非洲大陸經常可以看到的場景，這次在西安封城期間也看到了。<br><br><video src="https://video.twimg.com/ext_tw_video/1479637479129251841/pu/vid/704x1280/lPGXXGYfEZ-hvwBm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1479637479129251841/pu/img/exZePoFzz5SY6xxR.jpg"></video>
+
+### 8: [2022-01-11 01:23:40+08:00 推文](https://twitter.com/realcaixia/status/1480591183613157377)
+
+深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
 
