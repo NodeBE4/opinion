@@ -35,3 +35,11 @@ title: 'Twitter @蔡霞: 2022-01-10~2022-01-16'
 
 Re @skidog19 孔飞力的《叫魂》很深刻，确实与当下西安官府的做法、与民众的境遇很相似。
 
+### 6: [2022-01-10 09:51:17+08:00 推文](https://twitter.com/realcaixia/status/1480356538283921412)
+
+Re @qiwenhua2 那时期不叫晚清，叫清末。
+
+### 7: [2022-01-10 12:48:12+08:00 推文](https://twitter.com/realcaixia/status/1480401063765323778)
+
+看看西安官员的是如何作秀的！<br><br>楊錦麟: 在非洲大陸經常可以看到的場景，這次在西安封城期間也看到了。<br><br><video src="https://video.twimg.com/ext_tw_video/1479637479129251841/pu/vid/704x1280/lPGXXGYfEZ-hvwBm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1479637479129251841/pu/img/exZePoFzz5SY6xxR.jpg"></video>
+
