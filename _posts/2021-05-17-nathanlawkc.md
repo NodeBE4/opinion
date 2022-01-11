@@ -29,9 +29,9 @@ The European Parliament has made a rational decision -- freezing the EU-China in
 
 Re 2. The CCP colluders are trying to silence the critics in YOUR country. It raises concerns over infiltration from the CCP into the US academics, and the societies in general. I am pleased that the school upholds the values of free speech and academic integrity.
 
-### 4: [2021-05-23 02:54:49+08:00 推文](https://twitter.com/nathanlawkc/status/1396177747475582978)
+### 4: [2021-05-23 02:54:49+08:00 推文](https://twitter.com/nathanlawkc/status/1396177746137690113)
 
-Re 4. The false statements in the emails to the University of Chicago and the messages [关于今晚Mentor Program讲座的立场声明以及中国学生呼吁] circulated widely in the WeChat groups are defamatory. I reserve all my legal rights in this matter. -END
+Re 3. The event went smoothly. Yet, the attack shows how CCP aggression threatens our cherished values. The other schools may not stand as firmly as Uchicago did. I hope the govt can look into signs of infiltration in these CSSA and to ACT to protect the FREEDOMS in YOUR country.
 
 ### 5: [2021-05-23 17:59:18+08:00 推文](https://twitter.com/nathanlawkc/status/1396405368562061314)
 
