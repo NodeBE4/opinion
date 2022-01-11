@@ -33,7 +33,7 @@ RT FAN Wenxin<br>What to make of Peng Shuai's sexual assault denial? The phras
 
 ### 5: [2021-12-20 15:01:00+08:00 推文](https://twitter.com/cnmediaproject/status/1472824336403021827)
 
-Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-20 16:12:13+08:00 推文](https://twitter.com/yangfulei/status/1472842260513447938)
 
