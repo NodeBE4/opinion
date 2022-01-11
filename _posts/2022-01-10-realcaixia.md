@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-11
+date: 2022-01-12
 from: https://twitter.com/realcaixia/status/1480212676118818820
 layout: post
 tags:
@@ -45,5 +45,17 @@ Re @qiwenhua2 那时期不叫晚清，叫清末。
 
 ### 8: [2022-01-11 01:23:40+08:00 推文](https://twitter.com/realcaixia/status/1480591183613157377)
 
-深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
+深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style="" src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
+
+### 9: [2022-01-12 02:24:51+08:00 推文](https://twitter.com/realcaixia/status/1480968966927523850)
+
+中共国运动员服用兴奋剂获取成绩的内幕应该曝光。<br><br>ZHANGDONG: 《自由亚洲》专访杨伟东：中国运动员服用禁药的历史和现状 <br><br>中国运动员服用或被服用兴奋剂在国内是公开的秘密。杨伟东曝光内幕的这本书可能会被大小五毛党攻击为向国外敌对势力递刀子。但是，我们要说这把刀递得非常及时！唯有国际曝光才有望杜绝兴奋剂泛滥。俄国就是例子。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/wy-01062022100243.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/wy-01062022100243.html</a>
+
+### 10: [2022-01-12 02:28:30+08:00 推文](https://twitter.com/realcaixia/status/1480969885085745157)
+
+这个推文概括的精彩！<br><br>ZHANGDONG: 中共的逻辑：成绩是中央的，错误是地方的。病毒是外国输入的，疫苗是中国自产的。官媒是颂扬政府的，方方江雪是递刀子的........<br> <a href="https://twitter.com/gaoyu200812/status/1480777074465984514" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1480777074465984514</a>
+
+### 11: [2022-01-12 03:11:55+08:00 推文](https://twitter.com/realcaixia/status/1480980813927878656)
+
+Re @SoundOfHope_SOH 19届6中全会是2021年11月上旬举行的。你们查了准确消息吗？
 
