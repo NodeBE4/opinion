@@ -41,7 +41,7 @@ The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zh
 
 ### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
 
-RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style="" src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
 
@@ -50,4 +50,8 @@ RT Jun Mai<br>Part of the reason why I think the Xi vs Deng narrative is an ov
 ### 9: [2022-01-12 07:00:41+08:00 推文](https://twitter.com/niubi/status/1481038382339964930)
 
 RT Bill Bishop<br>are there cases in Shanghai?<br><br>方舟子: 上海还在悄悄地连夜封小区、测核酸，不知道有多少病例了，奥密克戎传到了没有？不公布就等于没有。<br><br><video src="https://video.twimg.com/ext_tw_video/1481032137012744192/pu/vid/640x1280/mPR8JABHWb9uXvgi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481032137012744192/pu/img/TCzKrAr8iffRKniX.jpg"></video>
+
+### 10: [2022-01-12 17:15:51+08:00 推文](https://twitter.com/lingli_vienna/status/1481193194041786370)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style="" src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
 
