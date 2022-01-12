@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-01-11
+date: 2022-01-12
 from: https://twitter.com/cnmediaproject/status/1480330708552138752
 layout: post
 tags:
@@ -39,7 +39,15 @@ RT Tom Kellogg<br>Re This film should be placed right beside works like @Anne_
 
 The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style="" src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 7: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
+### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
+
+RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style="" src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
 
 RT Jun Mai<br>Part of the reason why I think the Xi vs Deng narrative is an oversimplified one is that you still see Maoists locked up for their political expressions in China. These cases are less known but not uncommon. <a href="https://www.scmp.com/news/china/politics/article/3162988/five-mao-fanatics-jailed-over-articles-smearing-former-chinese?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3162988" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3162988/five-mao-fanatics-jailed-over-articles-smearing-former-chinese?utm_source=Twitter&utm_medium=share_widget&utm_campaign=3162988</a>
+
+### 9: [2022-01-12 07:00:41+08:00 推文](https://twitter.com/niubi/status/1481038382339964930)
+
+RT Bill Bishop<br>are there cases in Shanghai?<br><br>方舟子: 上海还在悄悄地连夜封小区、测核酸，不知道有多少病例了，奥密克戎传到了没有？不公布就等于没有。<br><br><video src="https://video.twimg.com/ext_tw_video/1481032137012744192/pu/vid/640x1280/mPR8JABHWb9uXvgi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481032137012744192/pu/img/TCzKrAr8iffRKniX.jpg"></video>
 
