@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-01-12
+date: 2022-01-13
 from: https://twitter.com/cnmediaproject/status/1480330708552138752
 layout: post
 tags:
@@ -41,7 +41,7 @@ The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zh
 
 ### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
 
-RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style="" src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
 
@@ -54,4 +54,20 @@ RT Bill Bishop<br>are there cases in Shanghai?<br><br>方舟子: 上海还�
 ### 10: [2022-01-12 17:15:51+08:00 推文](https://twitter.com/lingli_vienna/status/1481193194041786370)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style="" src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-01-13 14:35:29+08:00 推文](https://twitter.com/cnmediaproject/status/1481515224310370304)
+
+The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP." <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-01-13 16:52:24+08:00 推文](https://twitter.com/cnmediaproject/status/1481549681717297152)
+
+In his latest interview for CMP, @fangkc speaks with Zeng Ming about Positive Connections (正面连接), a new media project and content brand with a focus on nonfiction writing. Great insights about telling complex stories in China. <a href="https://bit.ly/3fjlt3Z" target="_blank" rel="noopener noreferrer">https://bit.ly/3fjlt3Z</a><br><img style src="https://pbs.twimg.com/media/FI-FiXtaMAMntA5?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-01-13 17:02:43+08:00 推文](https://twitter.com/cnmediaproject/status/1481552277710475266)
+
+Re On writing: "Many people ... misinterpret the true sense of suffering... Suffering is, first and foremost, is about accepting your shortcomings. You have to accept that you write badly, which is very painful, and you have to be able to change that."
+
+### 14: [2022-01-13 17:14:34+08:00 推文](https://twitter.com/ABPevzner/status/1481555258648276992)
+
+RT Alexander B. Pevzner 裴則男<br>Interesting- #10 on the list is 反垄断 #antitrust or anti-#monopoly, and the entry highlights recent actions against #China #technology firms, establishment of anti-#monopoly bureau under market regulator #SAMR.<br><br>China Media Project: The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP."<br><br><img style src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a>
 
