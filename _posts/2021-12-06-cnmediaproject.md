@@ -73,7 +73,7 @@ Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in T
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
-Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style="" src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
@@ -149,7 +149,7 @@ Re Zwart appears regularly in state media to promote PRC developments on human r
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
-Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style="" src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
