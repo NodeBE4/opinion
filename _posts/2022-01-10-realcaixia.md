@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-12
+date: 2022-01-13
 from: https://twitter.com/realcaixia/status/1480212676118818820
 layout: post
 tags:
@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-01-10~2022-01-16'
 
 ### 2: [2022-01-10 00:34:00+08:00 推文](https://twitter.com/realcaixia/status/1480216293903151104)
 
-借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style="" src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
+借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-10 02:02:44+08:00 推文](https://twitter.com/realcaixia/status/1480238624746754054)
 
@@ -58,4 +58,8 @@ Re @qiwenhua2 那时期不叫晚清，叫清末。
 ### 11: [2022-01-12 03:11:55+08:00 推文](https://twitter.com/realcaixia/status/1480980813927878656)
 
 Re @SoundOfHope_SOH 19届6中全会是2021年11月上旬举行的。你们查了准确消息吗？
+
+### 12: [2022-01-13 04:05:00+08:00 推文](https://twitter.com/realcaixia/status/1481356557115928583)
+
+这是最近的一个访谈，谈我的经历我的思想认识变化过程，特推出来。<br><br>方菲訪談-Fangfei Talk: 【#方菲訪談】前中共中央黨校教授 #蔡霞 來到海外後，對中共本質及當今中國政治事件每每做出犀利點評。<br><br>從一位 #紅二代 黨校教授，到對中共不抱任何幻想，蔡霞經歷了一個怎樣的政治覺醒過程？<br><br>本期專訪，蔡霞教授深度分享她的心路歷程。<br><br>請看專訪👉<br><br><video src="https://video.twimg.com/ext_tw_video/1481035777203216390/pu/vid/1280x720/qgsIi7ARSg8V-LjH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481035777203216390/pu/img/rP4RGyuSVeCdgJyE.jpg"></video> <a href="https://youtu.be/OnnaceHSZzs" target="_blank" rel="noopener noreferrer">https://youtu.be/OnnaceHSZzs</a>
 
