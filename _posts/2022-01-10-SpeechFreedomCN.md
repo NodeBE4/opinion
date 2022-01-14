@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-01-13
+date: 2022-01-14
 from: https://twitter.com/SpeechFreedomCN/status/1480497886911733765
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-10~2022-01-16'
 ### 3: [2022-01-13 17:13:53+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1481555088862818307)
 
 Lhasa man detained for 7 days for a piece of video he posted on Douyin, in which he referred to police as "Dirty people" and "verbally cursed" them.<br><video src="https://video.twimg.com/ext_tw_video/1481554460870594560/pu/vid/544x960/LSUqFPYE4GwJnDVb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481554460870594560/pu/img/OqhJgNMZSYK4eZjI.jpg"></video>
+
+### 4: [2022-01-14 19:37:41+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1481953665523060739)
+
+南京男子史某，因在微博发文称淮安的交警为“黑交警“，被处拘留3日。<br><video src="https://video.twimg.com/ext_tw_video/1481953628063739904/pu/vid/852x478/AHUu7bbMLqhBiKH7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481953628063739904/pu/img/lk0Sx8j_fkLG1AXU.jpg"></video>
+
+### 5: [2022-01-14 19:38:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1481953927335710723)
+
+Nanjing man Shi detained for 3 days for referring to traffic police force as “Black traffic police” on Weibo.<br><video src="https://video.twimg.com/ext_tw_video/1481953628063739904/pu/vid/852x478/AHUu7bbMLqhBiKH7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481953628063739904/pu/img/lk0Sx8j_fkLG1AXU.jpg"></video>
 

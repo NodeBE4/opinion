@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-01-10~2022-01-16'
 
 ### 2: [2022-01-10 00:34:00+08:00 推文](https://twitter.com/realcaixia/status/1480216293903151104)
 
-借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
+借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style="" src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-10 02:02:44+08:00 推文](https://twitter.com/realcaixia/status/1480238624746754054)
 
@@ -70,4 +70,8 @@ Re @SoundOfHope_SOH 19届6中全会是2021年11月上旬举行的。你们查了
 ### 14: [2022-01-14 20:54:44+08:00 推文](https://twitter.com/realcaixia/status/1481973054586736642)
 
 深圳罗湖口岸附近街头，一青年展开标语高呼打倒习近平！反对修改宪法！青年高喊，如果习近平连任中国的改革开放就完了。壮哉！大陆青年！真英雄！<br><video src="https://video.twimg.com/ext_tw_video/1481973015932030985/pu/vid/224x480/ch-nXuG8uy6UJp86.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1481973015932030985/pu/img/uZtDM0xzoiynrDjA.jpg"></video>
+
+### 15: [2022-01-14 20:57:27+08:00 推文](https://twitter.com/realcaixia/status/1481973736433721347)
+
+Re 青年高喊：如果改革开放路线被否定了，中国就完了！壮哉！青年！
 
