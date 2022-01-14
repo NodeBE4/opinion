@@ -61,7 +61,7 @@ The Cyberspace Administration of China has released its list of top keywords for
 
 ### 12: [2022-01-13 15:39:24+08:00 推文](https://twitter.com/JeromeTaylor/status/1481531309180678145)
 
-RT Jerome Taylor<br>The Hong Kong government's list of letters it has written to foreign media over their coverage has gone multilingual this month <a href="https://www.brandhk.gov.hk/en/clarifications-archives?page=1" target="_blank" rel="noopener noreferrer">https://www.brandhk.gov.hk/en/clarifications-archives?page=1</a><br><img style="" src="https://pbs.twimg.com/media/FI903vwaIAIvCkJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Jerome Taylor<br>The Hong Kong government's list of letters it has written to foreign media over their coverage has gone multilingual this month <a href="https://www.brandhk.gov.hk/en/clarifications-archives?page=1" target="_blank" rel="noopener noreferrer">https://www.brandhk.gov.hk/en/clarifications-archives?page=1</a><br><img style src="https://pbs.twimg.com/media/FI903vwaIAIvCkJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-13 16:52:24+08:00 推文](https://twitter.com/cnmediaproject/status/1481549681717297152)
 
@@ -86,4 +86,8 @@ As the Covid lockdown in the city of Xi'an continues, one media observation site
 ### 18: [2022-01-14 08:23:01+08:00 推文](https://twitter.com/cnmediaproject/status/1481783879745024008)
 
 Re @CarlMinzner Indeed, notable parallels here. Just as the CCP had its propaganda points ready to launch in the early weeks of 2020, interrupted for at least 10 weeks by Covid, the key agendas this year, about Xi Thought and the 20th Congress, risk looking out of touch if pushed hard now.
+
+### 19: [2022-01-14 10:12:12+08:00 推文](https://twitter.com/sehof/status/1481811355527421953)
+
+RT Sense Hofstede<br>China’s largest developer Country Garden is feeling the pain of dwindling investor confidence as a debt crisis sweeps across the country’s real estate sector – Bloomberg <a href="https://www.bloomberg.com/news/articles/2022-01-13/country-garden-selloff-shows-chinese-developer-worries-spreading" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-01-13/country-garden-selloff-shows-chinese-developer-worries-spreading</a>
 
