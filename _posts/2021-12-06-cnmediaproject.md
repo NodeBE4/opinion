@@ -37,7 +37,7 @@ RT Kristie Lu Stout✌🏽<br>In China, censors are already at work with the w
 
 ### 6: [2021-12-06 13:48:53+08:00 推文](https://twitter.com/cnmediaproject/status/1467732759351545860)
 
-The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
+The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
 
@@ -57,7 +57,7 @@ Topping page one of the People's Daily today -- the release of a new book on hum
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -93,7 +93,7 @@ Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
-Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style="" src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-08 08:40:36+08:00 推文](https://twitter.com/cnmediaproject/status/1468379952647409664)
 
@@ -157,15 +157,15 @@ Re The forum was launched in 2017, making this the 5th such event. The forum doe
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
-Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style="" src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-09 11:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468783218573082631)
 
-Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
+Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
