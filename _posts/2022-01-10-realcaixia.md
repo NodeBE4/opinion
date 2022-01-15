@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-14
+date: 2022-01-15
 from: https://twitter.com/realcaixia/status/1480212676118818820
 layout: post
 tags:
@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-01-10~2022-01-16'
 
 ### 2: [2022-01-10 00:34:00+08:00 推文](https://twitter.com/realcaixia/status/1480216293903151104)
 
-借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
+借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style="" src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-10 02:02:44+08:00 推文](https://twitter.com/realcaixia/status/1480238624746754054)
 
@@ -45,7 +45,7 @@ Re @qiwenhua2 那时期不叫晚清，叫清末。
 
 ### 8: [2022-01-11 01:23:40+08:00 推文](https://twitter.com/realcaixia/status/1480591183613157377)
 
-深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style="" src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
+深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
 
 ### 9: [2022-01-12 02:24:51+08:00 推文](https://twitter.com/realcaixia/status/1480968966927523850)
 
@@ -74,4 +74,12 @@ Re @SoundOfHope_SOH 19届6中全会是2021年11月上旬举行的。你们查了
 ### 15: [2022-01-14 20:57:27+08:00 推文](https://twitter.com/realcaixia/status/1481973736433721347)
 
 Re 青年高喊：如果改革开放路线被否定了，中国就完了！壮哉！青年！
+
+### 16: [2022-01-15 11:41:29+08:00 推文](https://twitter.com/realcaixia/status/1482196212950441984)
+
+这是芳菲访谈我的下集。转推出。<br><br>蔡霞專訪 (下)：考察 西班牙轉型 認識到 中共 的4個無解；國際社會要為中共突然瓦解做好準備；中共稱開除，我很高興脫離這個黑幫 |  #方菲訪... <a href="https://youtu.be/zNjDxHFlm80" target="_blank" rel="noopener noreferrer">https://youtu.be/zNjDxHFlm80</a>
+
+### 17: [2022-01-15 11:57:57+08:00 推文](https://twitter.com/realcaixia/status/1482200356566220803)
+
+Re 访谈中我的语速过于快了，当时怕时间不够，所以加快了。语速快，可能给做字幕带来一些困难，因而字幕上有个别字错了。比如，应是“经济活力”现在字幕是“经济火力”；我说把一些黑社会的招进去当“辅警”，字幕上是“武警”，这个需要特别指出。武警是征兵工作，严格审查，不会有黑社会人，而辅警可能有。
 
