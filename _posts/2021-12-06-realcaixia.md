@@ -101,7 +101,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
-我转的老浦推文居然被封了，老浦的推文既没有宣扬暴力，也没有色情暴力，又没有欺诈蒙骗，更不涉及中国政府机密泄漏，只是说了他自己的一些事情，何来被封的事由？难不成是中共幽灵在推上作祟？！<br><img style="" src="https://pbs.twimg.com/media/FGSaQCXWQAAr4DY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGSaQScXsDEOJWH?format=jpg&name=orig" referrerpolicy="no-referrer">
+我转的老浦推文居然被封了，老浦的推文既没有宣扬暴力，也没有色情暴力，又没有欺诈蒙骗，更不涉及中国政府机密泄漏，只是说了他自己的一些事情，何来被封的事由？难不成是中共幽灵在推上作祟？！<br><img style src="https://pbs.twimg.com/media/FGSaQCXWQAAr4DY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGSaQScXsDEOJWH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-11 09:06:52+08:00 推文](https://twitter.com/realcaixia/status/1469473725158502404)
 
