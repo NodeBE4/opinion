@@ -43,3 +43,7 @@ Re 请别以己心度正义之士之腹。在这里跟帖说孙大午给官员�
 
 Re 2018年我与长平老师有过两次畅聊。他低调，听得多说得少。睿智的人都这样，时刻不放弃独立思考，但又特别用心地倾听。这篇文章后面有访谈连续篇目链接，可以完整地读完。《南方周末》不仅是大陆首屈一指的纸媒，而且培养出一大批优秀新闻人才。但终为暴政所打压，现在的《南方周末》，早已没了脊梁。
 
+### 8: [2022-01-17 23:20:31+08:00 推文](https://twitter.com/realcaixia/status/1483096905450143750)
+
+简直令人瞠目结舌。<br><br>荣剑: 千古奇观:僵尸上街抗疫。<br><br><video src="https://video.twimg.com/ext_tw_video/1482566042010660864/pu/vid/544x960/Eru1fuUuCfP1mz6M.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1482566042010660864/pu/img/fjuAnzV2OFR5proc.jpg"></video>
+
