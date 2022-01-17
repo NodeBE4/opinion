@@ -25,7 +25,7 @@ Yang Guanghan, dissident from Guangdong Province, sentenced to 6 months in priso
 
 ### 3: [2021-11-21 18:06:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1462361646819647489)
 
-2018年10月，安徽六安市霍邱县警方通报一名警察“因公殉职”，随后，两名网友因为妄议此新闻，被跨省抓捕并行政拘留。居住在杭州的网友六安籍网友朱某宝因说该警是偷情时被抓跳楼而死，被处拘留13日；广东惠州网民聂某琪因评论此新闻时说广东的某票MJ（民警）是垃圾，被处拘留5日。<br><img style src="https://pbs.twimg.com/media/FEtYjKrXEAMQWN0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEtYxCkXEAM3P_Q?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEtY09DWYAIt8G4?format=png&name=orig" referrerpolicy="no-referrer">
+2018年10月，安徽六安市霍邱县警方通报一名警察“因公殉职”，随后，两名网友因为妄议此新闻，被跨省抓捕并行政拘留。居住在杭州的网友六安籍网友朱某宝因说该警是偷情时被抓跳楼而死，被处拘留13日；广东惠州网民聂某琪因评论此新闻时说广东的某票MJ（民警）是垃圾，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FEtYjKrXEAMQWN0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEtYxCkXEAM3P_Q?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEtY09DWYAIt8G4?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-11-21 18:13:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1462363448558379010)
 
