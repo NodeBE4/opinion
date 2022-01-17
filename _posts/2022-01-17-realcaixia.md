@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-17
+date: 2022-01-18
 from: https://twitter.com/realcaixia/status/1482747310182486017
 layout: post
 tags:
@@ -46,4 +46,8 @@ Re 2018年我与长平老师有过两次畅聊。他低调，听得多说得少�
 ### 8: [2022-01-17 23:20:31+08:00 推文](https://twitter.com/realcaixia/status/1483096905450143750)
 
 简直令人瞠目结舌。<br><br>荣剑: 千古奇观:僵尸上街抗疫。<br><br><video src="https://video.twimg.com/ext_tw_video/1482566042010660864/pu/vid/544x960/Eru1fuUuCfP1mz6M.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1482566042010660864/pu/img/fjuAnzV2OFR5proc.jpg"></video>
+
+### 9: [2022-01-18 03:28:16+08:00 推文](https://twitter.com/realcaixia/status/1483159254139912197)
+
+必须曝光极权当局打压人权律师的这一邪恶而肮脏的手段。吊销人权律师的律师执照，就是剥夺律师从业谋生的劳动权利，使律师无以为生计而陷于贫困并且无法解脱，直接威胁律师及其家人的生存。<br>五毛粉红会说不当律师你可以干别的嘛。请问极权高压恐怖下，有哪个公司哪个单位敢给人权律师新的工作？！<br><br>高伐林: 中国政府在2021年吊销了多名人权律师的执照。如何对付人权律师，北京摸索了多种途径，有的毫无效果，有的国际反响太大。最后发现，吊销执照（简称“吊照”），是打压人权律师“效果最好”且“影响最小”的手段。<br> <a href="https://www.dw.com/zh/%E4%B8%93%E8%AE%BF%E5%90%8A%E7%85%A7%E6%88%90%E5%8C%97%E4%BA%AC%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E4%B9%8B%E7%8E%8B%E7%89%8C/a-60443714" target="_blank" rel="noopener noreferrer">https://www.dw.com/zh/%E4%B8%93%E8%AE%BF%E5%90%8A%E7%85%A7%E6%88%90%E5%8C%97%E4%BA%AC%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83%E5%BE%8B%E5%B8%88%E4%B9%8B%E7%8E%8B%E7%89%8C/a-60443714</a>
 

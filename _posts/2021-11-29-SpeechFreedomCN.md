@@ -25,7 +25,7 @@ Shandong man Zou Zhiping detained for 15 days for criticizing Chinese government
 
 ### 3: [2021-12-01 22:34:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053162855501836)
 
-青海省互助县一名村民宋某，因在微信群里“辱骂村干部”，被处拘留10日并罚款500元。<br><img style src="https://pbs.twimg.com/media/FFh3cjlXwAUwSgx?format=jpg&name=orig" referrerpolicy="no-referrer">
+青海省互助县一名村民宋某，因在微信群里“辱骂村干部”，被处拘留10日并罚款500元。<br><img style="" src="https://pbs.twimg.com/media/FFh3cjlXwAUwSgx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-01 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1466053469668794369)
 
@@ -41,9 +41,9 @@ Guizhou woman Ou detained for 5 days for complaining in a WeChat group chat that
 
 ### 7: [2021-12-04 16:48:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053058022645761)
 
-2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style="" src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
+2018年12月，青海省祁连县男子田某，因在微信群里“辱骂村长和村支书”，被跨省抓捕并被拘留8日（田某当时在广东打工，祁连县公安专程前往将其传唤回祁连县）。<br><img style src="https://pbs.twimg.com/media/FFtgWQdWYAMlm7-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-04 16:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053561485807618)
 
-Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style="" src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
+Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
 
