@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-01-18
+date: 2022-01-19
 from: https://twitter.com/nathanlawkc/status/1483087077432516614
 layout: post
 tags:
@@ -32,4 +32,8 @@ Re But the lesson is that signs of totalitarianism were present in Hong Kong lon
 ### 4: [2022-01-18 00:15:58+08:00 推文](https://twitter.com/nathanlawkc/status/1483110857982763015)
 
 Re With democratic ideals such as press freedom and the rule of law being increasingly eroded in nations including Hungary, Brazil and Turkey – and with election results still being called into question in the US – Law offers a warning and a wake-up call.//
+
+### 5: [2022-01-19 01:55:03+08:00 推文](https://twitter.com/nathanlawkc/status/1483498184752222220)
+
+The disgusting comment from @chamath , claiming that he and "nobody" cares about what's happening to the Uyghurs.<br>It's just shameless. It's much more than "lack of empathy" - it's cold blood.<br><br>Enes Kanter FREEDOM: When @NBA says we stand for justice, don’t forget there are those who sell their soul for money & business like @chamath the owner of @warriors,<br>who says “Nobody cares about what’s happening to the Uyghurs”<br><br>When genocides happen, it is people<br>like this that let it happen<br><br>Shame!<br><br><video src="https://video.twimg.com/ext_tw_video/1483125434963406849/pu/vid/1280x720/F0PxITzC-tdxPa0M.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1483125434963406849/pu/img/0Mv73iseImhodHDl.jpg"></video>
 
