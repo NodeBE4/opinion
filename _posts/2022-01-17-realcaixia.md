@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-18
+date: 2022-01-19
 from: https://twitter.com/realcaixia/status/1482747310182486017
 layout: post
 tags:
@@ -62,4 +62,20 @@ Re @NanChaoKe @zhanglifan 一个连事实都不讲的人，就是存心装睡、
 ### 12: [2022-01-18 18:24:35+08:00 推文](https://twitter.com/realcaixia/status/1483384821191688194)
 
 特别转推！<br><br>杨佩昌: 是我说的。<br> <a href="https://twitter.com/zhanglifan/status/1482691414269972480" target="_blank" rel="noopener noreferrer">https://twitter.com/zhanglifan/status/1482691414269972480</a>
+
+### 13: [2022-01-19 01:00:51+08:00 推文](https://twitter.com/realcaixia/status/1483484541578792962)
+
+Re @wuzuolai 祚来老师好，请容我说几句。邓能隐忍是他的隐忍只关系到他的荣辱得失。赵紫阳不能隐忍，因为那是底线。如果他隐忍，他就必须签字批准军队进城开枪。你说他能隐忍吗？当年7上将联名写信坚决反对军队进城，38军军长宁进秦城监狱，也不执行邓小平命令。人破了底线讲隐忍，就是人民的罪人。邓开枪有罪！
+
+### 14: [2022-01-19 01:05:02+08:00 推文](https://twitter.com/realcaixia/status/1483485593619283976)
+
+人到忍无可忍时就会这样。<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【突发】<br><br>天津西青区2022年1月17日晚发生群体事件<br>封闭政策造成灾难无数<br><br><video src="https://video.twimg.com/ext_tw_video/1483441905509801990/pu/vid/592x1280/t1NGnO3Bsxga1_vI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1483441905509801990/pu/img/5nXaQzrslwAUzhi8.jpg"></video>
+
+### 15: [2022-01-19 01:24:58+08:00 推文](https://twitter.com/realcaixia/status/1483490611051311108)
+
+讲得好！极权统治至今把人分成三六九等，何来平等？不平等何来人权？！都2022年了，大陆人还要为不被饿死有饭吃而冒巨大的生命危险，这就是习当局号称的中国防疫模式优越性？！未知这位振臂高呼的青年后来如何了？黑暗中那么多穿黑皮警服的警察和保安混在人群里，他们会伺机抓这位青年吗？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: @realcaixia 演讲者说：天津市农村户口难领（供给）饭菜，（似乎只给城市居民供应、似乎凭户口本）那么“外地人吃什么？外地人没钱没户口吃什么？”<br>——勇者不惧，致敬！<br><br>关注这个人，关注勇者！<br>
+
+### 16: [2022-01-19 01:28:34+08:00 推文](https://twitter.com/realcaixia/status/1483491517696286727)
+
+Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
