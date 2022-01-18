@@ -55,3 +55,11 @@ Re 2018年我与长平老师有过两次畅聊。他低调，听得多说得少�
 
 Re @iPaulCanada 这真是纯粹的表演。中共的常规做法是投完票不当场公开唱票检票，他们玩假选举的猫腻就在回去后开票箱，隔天宣布投票结果。
 
+### 11: [2022-01-18 18:22:12+08:00 推文](https://twitter.com/realcaixia/status/1483384217669152769)
+
+Re @NanChaoKe @zhanglifan 一个连事实都不讲的人，就是存心装睡、叫不醒的没有良知的人。
+
+### 12: [2022-01-18 18:24:35+08:00 推文](https://twitter.com/realcaixia/status/1483384821191688194)
+
+特别转推！<br><br>杨佩昌: 是我说的。<br> <a href="https://twitter.com/zhanglifan/status/1482691414269972480" target="_blank" rel="noopener noreferrer">https://twitter.com/zhanglifan/status/1482691414269972480</a>
+
