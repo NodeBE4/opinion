@@ -41,13 +41,13 @@ Anhui man He detained for 3 days for saying in WeChat Moment that he got bitten 
 
 ### 7: [2022-01-01 11:21:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477117626044358660)
 
-Happy new year! And a friendly reminder that two years ago today, 8 people in China's Wuhan city were arrested & punished by police for making up a "rumor" that an Unknown Pneumonia occurred in the city.<br><img style src="https://pbs.twimg.com/media/FH-HuNrXwAEyKse?format=jpg&name=orig" referrerpolicy="no-referrer">
+Happy new year! And a friendly reminder that two years ago today, 8 people in China's Wuhan city were arrested & punished by police for making up a "rumor" that an Unknown Pneumonia occurred in the city.<br><img style="" src="https://pbs.twimg.com/media/FH-HuNrXwAEyKse?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-01 12:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477140023657086976)
 
-宁夏银川男子王某，因在微博上批评西安政府疫情防控不力， 被网民以公开和私信的方式网暴。作为回应，王某在微博上“诅咒西安人疫情防控“，随后被骂到删号。后来，网警调查到王某的身份，将其以寻衅滋事为由行政拘留。<br><img style="" src="https://pbs.twimg.com/media/FH-IvC2XwAYxCck?format=jpg&name=orig" referrerpolicy="no-referrer">
+宁夏银川男子王某，因在微博上批评西安政府疫情防控不力， 被网民以公开和私信的方式网暴。作为回应，王某在微博上“诅咒西安人疫情防控“，随后被骂到删号。后来，网警调查到王某的身份，将其以寻衅滋事为由行政拘留。<br><img style src="https://pbs.twimg.com/media/FH-IvC2XwAYxCck?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-01-01 13:20:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477147808796979200)
 
-Ningxia man surnamed Wang criticized Xi'an government's poor handling of the pandemic on Weibo, then got harassed by a large number of pro-government netizens, which even made him delete his Weibo account. Police later arrested & detained Wang for "cursing Xi'an people".<br><img style src="https://pbs.twimg.com/media/FH_iGhsWYAEvp2g?format=jpg&name=orig" referrerpolicy="no-referrer">
+Ningxia man surnamed Wang criticized Xi'an government's poor handling of the pandemic on Weibo, then got harassed by a large number of pro-government netizens, which even made him delete his Weibo account. Police later arrested & detained Wang for "cursing Xi'an people".<br><img style="" src="https://pbs.twimg.com/media/FH_iGhsWYAEvp2g?format=jpg&name=orig" referrerpolicy="no-referrer">
 
