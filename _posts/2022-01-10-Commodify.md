@@ -295,6 +295,14 @@ Good question - there are some countries within the order that are doing relativ
 
 Russia is actually an even more example of a "contained trickle". 90% of Russia's oil profits for the past 20 years are "missing", i,e. invested overseas. The difference isn't between stagnant and non-stagnant countries (Japan, for example, is very stagnant but has given 80+% of its people access to the trickle) but inclusive and exclusive economic systems.
 
+----- __31.8__ -----2022-01-20 02:47:32+08:00:
+
+The point I was making wasn't enemies of the world order good. I was simply responding to an otherwise good post that parroted the widespread assumption that the liberal world order has been some great engine of progress that only "faltered" in the past few years. In reality it has always enriched a few communities and destroyed many others, by the nature of a system that demands that localities have zero control over the re-investment of local profits.
+
+I was in no way saying the enemies of the world order were better. Save for a few tiny holdouts who've been sanctioned to death by the powers that be, there are no countries that are totally closed off from the international system. China is going in that direction, but is nowhere close to achieving isolation. Rather, both powerful enemies of the world order are just countries that were previously working towards it and are now *in the process* of moving away from it. The massive inequality in Russia wasn't caused by the recent (very slow) crackdown on the oligarchy, but by the liberalization that caused the rise of that oligarchy in the first place. China is a more drastic version of the same, both in terms of the amount of riches generated in its deregulated era, and the speed at which the government is trying to make changes today.
+
+The one place where we do actually have a disagreement and not just a misunderstanding is your implication that alignment with the LWO *causes* prosperity and rejection causes poverty. Liberal countries are, on the whole, better off, but this is despite and not because of the liberal hegemony that's existed since 1991. The average growth rate of Western countries and Japan today is *far* below what they were experiencing in the early cold war, and the rate of "economic migration" has accelerated.
+
 ### 32: [The Byzantines John II Komnenos and his son Manuel were remarkably successful at war after a long period of Byzantine losses. Their troops were competent, they recaptured cities, and they regularly beat the mounted Turks who'd often bested their predecessors. What was their secret?](https://old.reddit.com/r/WarCollege/comments/s449h3/the_byzantines_john_ii_komnenos_and_his_son/), submitted on 2022-01-15 06:18:30+08:00.
 
 ----- __32.1__ -----2022-01-17 04:51:44+08:00:

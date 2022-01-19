@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-18
+date: 2022-01-19
 from: https://old.reddit.com/r/WarCollege/comments/s5j4m1/what_were_the_main_factors_that_led_to_the_french/
 layout: post
 tags:
@@ -50,4 +50,28 @@ Japanese and American cruiser losses for the rest of the campaign were roughly e
 ----- __37.1__ -----2022-01-18 23:48:44+08:00:
 
 Only if the British had made the same mistake they were making for three years before that and placed their depots closed to the front. The British decision to hold supply deep in the rear essentially doomed the Japanese offensive from the start. There was absolutely zero way the IJA could have scored even an operational success at that point (as u/124876720 brought up, a strategic success was out of the question), since there was no avoiding starvation. The argument is sometimes made by Japanese historians that Mutaguchi should have waited for more food, but no such food was forthcoming because of submarine warfare. More, it had been an established assumption of the IJA since Malaya that, when fighting Europeans, you didn't have to worry about supplies because you could just take them. This is one of the few campaigns in WW2 where we can confidently say the outcome was predetermined and nothing could have changed it.
+
+### 38: [Machiavelli fought for Florence to revive the citizen legions of ancient Rome, but forces raised long these lines were catastrophically defeated at Prato in 1512. Was Machiavelli's idea implausible, or was it merely not given enough time?](https://old.reddit.com/r/WarCollege/comments/s7d1mo/machiavelli_fought_for_florence_to_revive_the/), submitted on 2022-01-19 08:51:40+08:00.
+
+----- __38.1__ -----2022-01-20 02:54:58+08:00:
+
+>Basically Machiavelli's premise was wrong regarding mercenary competence. Machiavelli believed that mercenaries at the time (called condottieri) were unreliable charlatans that fight for the highest bidder and would frequently change sides since they owe no loyalty to their employer but fight merely out if financial obligation. Now, I've never seen any statistics regarding the reliability of paid soldiers in the Italian Wars period. But to reduce them to merely unreliable turncoats ignores a very important fact: these were professional soldiers.
+
+To expand on this, Stephen Turnbull's *The Knight Triumphant* spends a whole page going through times Machiavelli claimed there were few or no deaths in mercenary battles, but in fact hundreds of mercenaries died for their employers in each engagement.
+
+Machiavelli was a member of the *popolo* class of Italy, a rising professional-mercantile bourgeois class. They resented the lords and their mercenary armies. Like virtually everyone else in the middle ages, Machiavelli was relying on a mix of unreliable field reports and rumor to derive his conclusions about battles. It's almost certain that he and his fellow popolo revolutionaries *actually* believed the mercenaries were a bunch of overpaid cowards whom "properly motivated citizens" could defeat.
+
+----- __38.2__ -----2022-01-20 03:03:03+08:00:
+
+*A lot* changed by then. For one armor and melee combat were no longer important for victory. Contra popular belief, armored, mounted soldiers were not at their nadir in Machiavelli's age but at their peak. The knights who were getting mowed down by English longbowmen in the Hundred Years War were largely wearing chainmail and partial plate. By Machiavelli's time, full plate had become a widespread innovation and essentially rendered its users invulnerable to arrows and sharp or piercing weapons. It's no surprise in light of this that *half* the French army that invaded Italy during Machiavelli's lifetime were mounted knights - fifty years after they had supposedly performed "disastrously" in the Hundred Years War. In the same way tanks culminated with the modern MBT, the technology of armor only reached perfection towards the end of its useful life.
+
+By Napoleon's time, battles were being fought by unarmored men in formations drilled to perform the very simple task of reloading and firing in volley. The role that required the most skill in an army was that of the skirmisher, but this too was infinitely less complicated than the intricacies of being a soldier in Machiavelli's time. Knowing how to aim, reload, and fire a musket is much less complicated than learning to fight with weapons and wrestle (the second being decisive in all fights between two armored men).
+
+We have no sources that go into detail as to *why* Machiavelli's soldiers were crushed by the armored Spanish and their mercenaries, but I think it's pretty obvious when you look at the training and equipment of the two sides.
+
+### 39: [Russia/USSR sold weapons to China which Beijing went on to copy. Despite Russia's anger, they continue to sell weapons to China. Is this common in arms trade?](https://old.reddit.com/r/WarCollege/comments/s7kkwi/russiaussr_sold_weapons_to_china_which_beijing/), submitted on 2022-01-19 15:28:00+08:00.
+
+----- __39.1__ -----2022-01-20 02:52:00+08:00:
+
+Great post. To expand upon the licenses post, today China and Russia have settled on a fairly reasonable agreement where China is effectively allowed to reverse engineer platforms but is not allowed to export them, usually given the PR wrapping of "sale of licenses". This is one of two reasons (the other being their unwillingness to alter production lines for foreign orders) that China is not a major arms exporter. It's effectively Russia acknowledging that a country as large and industrially strong as China is not going to settle on being an arms importer and allowing them to build domestic lines as long as they don't compete with Russian products internationally.
 
