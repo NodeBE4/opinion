@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-19
+date: 2022-01-20
 from: https://old.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/
 layout: post
 tags:
@@ -33,15 +33,21 @@ This deserves more upvotes.
 
 This is nauseating.
 
-### 38: [Russia moves more troops westward amid Ukraine tensions](https://old.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/), submitted on 2022-01-19 05:00:36+08:00.
+### 38: [Time for NATO to Close Its Door: The Alliance Is Too Big—and Too Provocative—for Its Own Good](https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/), submitted on 2022-01-18 23:28:15+08:00.
 
------ __38.1__ -----2022-01-19 05:06:54+08:00:
+----- __38.1__ -----2022-01-20 00:43:26+08:00:
+
+This is one of the most stunningly inept articles I have ever seen published in FA.
+
+### 39: [Russia moves more troops westward amid Ukraine tensions](https://old.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/), submitted on 2022-01-19 05:00:36+08:00.
+
+----- __39.1__ -----2022-01-19 05:06:54+08:00:
 
 Submission Statement:
 
 This Associated Press article reports that Russia has moved an additional and unspecified amount of troops to Ukraine's borders, including with Belarus.  These new Russian troop buildup efforts follow multilateral failures to resolve diplomatically.  According to the White House and Ukrainian officials, the threat of Russian invasion is imminent and escalating. The Kremlin and Russian defense ministry deny any intent to invade.  NATO and allies continue their efforts to negotiate a resolution that does not involve war.
 
------ __38.2__ -----2022-01-19 06:34:06+08:00:
+----- __39.2__ -----2022-01-19 06:34:06+08:00:
 
 Not a stupid question, especially given all the nonsense out there on this issue (e.g., Russia's facially absurd claims that Ukraine somehow represents a military threat).  
 
@@ -57,7 +63,7 @@ Suppose that happens.  If Ukraine develops a viable natural gas export industry 
 
 So that's what this is all about.  Putin is trying to knee-cap a competitor before they even have the chance to get off the ground. That is why Putin is massing troops on Ukraine's border and is more likely than not to invade.
 
------ __38.3__ -----2022-01-19 07:44:50+08:00:
+----- __39.3__ -----2022-01-19 07:44:50+08:00:
 
 > Why does he do this so obvious and slowly?
 
@@ -73,7 +79,7 @@ The American military withdrawal from Afghanistan was the single greatest milita
 
 Odds are slim Putin will ever have a better opportunity than this precise moment.
 
------ __38.4__ -----2022-01-19 08:29:29+08:00:
+----- __39.4__ -----2022-01-19 08:29:29+08:00:
 
 I ignored the part of your question relating to obviousness, because it is incorrect to assume that Putin's motives and interests are obvious in any general sense.  
 
@@ -85,7 +91,7 @@ Beyond what I said above, there are scores of different items of disinformation 
 
 That's how Putin plays this game.  Some just happen to be able to see through it.
 
------ __38.5__ -----2022-01-19 08:40:27+08:00:
+----- __39.5__ -----2022-01-19 08:40:27+08:00:
 
 > Geopolitically, the stars have aligned quite well for Putin, and I agree that it's now or never in his mind. 
 
@@ -97,7 +103,7 @@ I agree, but I doubt Putin will.  What Putin is trying to figure out is whether 
 
 So that's what he's waiting on.  That's why he's moving slowly, so he can gradually escallate and assess changes to the risks he faces at each stage.  Putin needs to take Ukraine without military resistance of any kind.
 
------ __38.6__ -----2022-01-19 08:57:30+08:00:
+----- __39.6__ -----2022-01-19 08:57:30+08:00:
 
 Just be careful with money stuff.  If you can negotiate the currency in which get paid, go for Euros or better yet Swiss Francs.  If you must obtain loans, make sure you are borrowing and paying in rubles.
 
@@ -105,7 +111,7 @@ The nightmare scenario is that you have loans which must be paid in Euros but yo
 
 Otherwise you will be fine.  Russia is a nice country.
 
------ __38.7__ -----2022-01-19 09:58:24+08:00:
+----- __39.7__ -----2022-01-19 09:58:24+08:00:
 
 > If we're talking about fewer than 100 wells in Ukraine's side of the Black Sea, is it even an adequate amount of natural gas to start producing and exporting, that a big-time producer like Russia would go to war over? 
 
@@ -119,7 +125,7 @@ Based on the extent of the untapped reserves in the Black Sea, yes.  And it's no
 
 Ukraine only gets a pathway to NATO membership if it starts selling gas to Europe.  And both of those things are a big problem for Putin.
 
------ __38.8__ -----2022-01-19 10:20:20+08:00:
+----- __39.8__ -----2022-01-19 10:20:20+08:00:
 
 > This means an invasion of and war with Ukraine is not a matter of if, but when.
 
@@ -127,9 +133,9 @@ Correct, absent other political changes inside Ukraine which result in Russia ge
 
 > First time I heard about the gas field, makes a lot of sense of the Russian motive.
 
-I question whether anyone has briefed Biden on this.  I doubt Sacki could even find Ukraine on a map.
+I question whether anyone has briefed Biden on this.  I doubt Psacki could even find Ukraine on a map.
 
------ __38.9__ -----2022-01-19 10:34:12+08:00:
+----- __39.9__ -----2022-01-19 10:34:12+08:00:
 
 > Do you know if NATO has built up any kind of reserves, supplies, ammo stocks, shipping armed vehicles, et cetera to support any sizeable military action in Ukraine?
 
@@ -141,15 +147,78 @@ Notably, it's not just the United States.  For example, Canadian special forces 
 
 I have no idea.  Germany's hostility towards nuclear energy goes back to the earliest days of the anti-nuclear movement.  It should be lost on none that this is why they are beholden to Russian natural gas every winter.
 
------ __38.10__ -----2022-01-19 22:46:13+08:00:
+----- __39.10__ -----2022-01-19 22:46:13+08:00:
 
 > Have Russian oil and gas companies tried to partner with the Ukraine in developing those reserves?
 
 Yes.  Ukraine’s then president Viktor Yanukovych was facilitating those efforts, before Maidan and his untimely flight to Russia in its aftermath.
 
------ __38.11__ -----2022-01-19 22:48:48+08:00:
+----- __39.11__ -----2022-01-19 22:48:48+08:00:
 
 > If Russia invades, it will all happen live.
 
 That is a really good point and I agree with your Bosnia example.  The fact that international media were able to broadcast what was happening in Bosnia in the 1990s was what eventually shamed Bill Clinton into doing something --- even if it was too little too late.
+
+----- __39.12__ -----2022-01-19 23:38:53+08:00:
+
+> What would you do if you were in Biden's shoes?
+
+We would have never gotten this far, in the first instance.  That's what this really comes down to before anything else.  Biden is almost solely responsible for allowing the situation get this out of control in the first place.  He was in a position to have prevented it and has failed to do so.  Now, war in Europe is a very realistic possibility as a direct result of his incompetence and his administration's failures of leadership.  
+
+But, with the pieces on the board as they are at present, if I was making the next move from Biden's perspective, as a start, I would be coordinating with allies to (a) resolve their domestic political problems so that (b) they can focus on NATO security matters.  To that end, I would be coordinating military response scenarios with Canada, Germany and France (who I view as a more reliable ally than the UK, at this point) and Poland, as well as Lithuania, Latvia and Estonia.  To get Germany to the table, I would do everything in my power to resolve their natural gas supply issues.  Same goes for the rest of Europe, too.  
+
+I would be explaining to the American people why Ukraine matters and I would have been investing in clear-cut, focused efforts to get their lives back in order after the self-inflicted wounds caused by the COVID response.  The American people would be hearing from me via press conference (where I would actually take questions and answer them truthfully) on a bi-weekly basis.  I would also never have someone like Jen Psaki speaking on my behalf.  Josh Earnest would be the standard for what I would expect.  There is no world where I would employ someone like Antony Blinken for any purpose.  If I was going to pick a secretary of state, Mitt Romney would be my preferred choice.  
+
+I would also be making direct appeals to the Russian people, similar to the op-ed Putin published in the NYT years back.  I would prefer to do that via press-conference, perhaps even from Russia, in a highly visible way, in Russian.  If I could negotiate some kind of additional summit inside Russia, I would do what I could to rebuild rapport between the United States and the Russian people, for example by visiting Russian Orthodox churches, emphasizing shared cultural values and talking about Russian contributions to Western culture (literature, music, ballet, etc.).  Sanctions would be off the table.  Sanctions empirically cause more harm to civilian populations than their intended target, in any case.  I do not view causing unnecessary harm to civilians as an ethical means of statecraft. 
+
+There would be no announced video-conferences with Putin, ever.  I and my administration would be in person with Putin, in Switzerland (my preferred "neutral" location --- ideally somewhere small and isolated like Andermatt but probably Zurich).  Representatives from France, Canada, Germany and the UK would be at the table.  Before that meeting even happened, I would have done the groundwork to ensure a coordinated military response to any further invasion of Ukraine from NATO.  
+
+The point of this exercise would be to make it obvious to Putin that the costs of invasion are unacceptably high.  In this way, war would be avoided.
+
+----- __39.13__ -----2022-01-19 23:39:45+08:00:
+
+Yes, Psacki.
+
+----- __39.14__ -----2022-01-19 23:46:27+08:00:
+
+> Geopolitically, a united Russia (pre-1991 USSR borders), is a more stable Russia, and will be better for world security in the long run for a simple reason: A Russia with more defendable borders will be more confident in its defense and less likely to cause trouble to the West.
+
+And why do you think Russia's borders are not "defendable" in the status quo?
+
+----- __39.15__ -----2022-01-20 00:40:05+08:00:
+
+> That's quite a list, no offense but it doesn't seem like any President other than a JFK or FDR could pull off the things you suggested considering the present political situation in the US.
+
+That's just a start.  There are more things I'd be doing on the back-end, particularly with getting the IC and certain Russian oil interests.  
+
+I don't see this as being about charisma, either.  A less charismatic leader could have at least made steps in the right direction (e.g., George H. W. Bush).  I agree fully that the state of the present political situation is pretty dire in the United States, but there are things that could be done to remediate it.  The president's role is an agenda-setting one.  Once the agenda was announced, staff are delegated to come up with the plan to accomplish the president's objectives.  Bill Clinton isn't the kind of person I'd want doing anything.  But I think Barack Obama (with the right support) could get it done.  I think there are others out there on the Republican side who could as well, with the possible exception of making appeals to the Russian people in Russian.  
+
+The current administration's failures begin with bad judgement.  Prior administrations have done far better.  For example, Obama got some things wrong (like when he relied on Hillary Clinton's assessment of Russia's stake in Syria while she was the Secretary of State), but he got more right than he didn't.  His actions clearly indicated he understood where the pieces were on the board and how they related to one another.  From a foreign policy standpoint, Obama's record is better than most.  But Obama, while charismatic, didn't utilize the "bully pulpit" as much as he should have.  
+
+> Is there anything that you would do that you think Biden can also pull off?
+
+Everything about Biden's approach to Russia is misguided.  He's got two problems I don't see any chance of him solving: his people and his framework.  As to the people, the people who speak on Biden's behalf do not understand Russia.  The last guy to "get it" was Michael McFaul, Obama's ambassador to Russia.  McFaul was fantastic.  There were others in prior administrations, though.  Even Trump's team, Rex Tillerson and Mike Pompeo seemed to understand what was going on.  Because he has bad advisors, he can't make good decisions because he cannot understand how Putin is operating.  So at this time, I don't have confidence in Biden's ability to accomplish anything.  Frankly, his record of failure is no small part of why Putin is acting now to begin with.  After all, if he invades, Putin will be betting on Biden's inability to mount a coalition for resisting anything he does.  
+
+> PS: What's the issue with Jen? I am not aware of any major controversial statements, of course I don't follow US domestic politics that closely.
+
+The press secretary is the most public-facing role of any administration.  So, this person must be trustworthy.  
+Yet, Psacki is untrustworthy.  She prevaricates, misdirects and makes up things to suit whatever the current party line is.  She routinely contradicts herself, stating one thing one day and something else the next.  When faced with tough questions, she plays hide the ball.  Lack of controversy isn't the key metric, because in order for anything she says to be controversial someone would have to hold her accountable.  Traditionally, that was the press's role.  But they demonstrate no inclination whatsoever to do so.  For example, see Brian Stelter's interview with her several months back.  I know it sounds cliche to reference an Aaron Zorkin character as a measure of what a public servant should be, but if you want to see an example of a good press secretary look at CJ Cregg.  But if you want to see an example more based on reality, look at Josh Earnest (Obama's press secretary) or Dee Dee Myers (Bill Clinton's press secretary for the first two years of his administration).
+
+----- __39.16__ -----2022-01-20 00:41:48+08:00:
+
+> Can you elaborate more on this?
+
+Consider the unique set of factors I outlined above which have coalesced under Biden's "leadership" that have played to Putin's favor.  My objective would have been to prevent all of those from happening in the first place, much less happening at the same time.
+
+### 40: [When you think of a profession, which one is scariest if they suddenly said… “Oops..”?](https://old.reddit.com/r/AskReddit/comments/s7kte1/when_you_think_of_a_profession_which_one_is/), submitted on 2022-01-19 15:43:12+08:00.
+
+----- __40.1__ -----2022-01-19 23:47:42+08:00:
+
+The guy who prepares parachutes, before you jump out of a plane.
+
+### 41: [Another European nation defies China as Slovenia strengthens Taiwan ties](https://old.reddit.com/r/geopolitics/comments/s7teo6/another_european_nation_defies_china_as_slovenia/), submitted on 2022-01-20 00:03:32+08:00.
+
+----- __41.1__ -----2022-01-20 00:12:11+08:00:
+
+Submission Statement:  Slovenia has announced its intentions to strengthen relations with Taiwan, following Lithuania's lead by establishing reciprocal trade offices.  The Chinese Foreign Ministry was "shocked" and "strongly opposes" such a "dangerous" show of support for Taiwanese independence.  While Slovenia's prime minister confirmed this would not go as far as establishing an embassy, Slovenia will be undeterred by the threat of Chinese economic reprisals.
 
