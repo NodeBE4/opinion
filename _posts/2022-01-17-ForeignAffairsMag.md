@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-01-19
+date: 2022-01-20
 from: https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/
 layout: post
 tags:
@@ -29,4 +29,12 @@ title: ForeignAffairsMag在2022-01-17~2022-01-23的言论
 
 "Macron’s vision is more of a laundry list, addressing everything from increased multilateralism to counterterrorism strategies to talks about beefing up the continent’s security. Some proposals seem contradictory, such as the desire for a France that possesses 'the ability to rank and have influence among other nations,' a country in which the French would be the “master of our own destiny,” yet also a country in which 'our independent decision-making is fully compatible with our unwavering solidarity with our European partners.' Other ideas seem problematic and unlikely to find wide adherence, such as Macron’s suggestion that 'there can be no defense and security project of European citizens without political vision seeking to advance gradual rebuilding of confidence with Russia.'  
 This vision assumes that a continent with a long history of divisions is now united on its defense and foreign policy. But a cursory look at the recent debates on Russia, China, and even the United States shows a lack of strategic coherence among European states. Macron’s vision, in short, could splinter Europe and dilute its capabilities and focus, all while playing into the United States’ worst instincts to disengage from the transatlantic alliance to focus on China."
+
+### 100: [Privacy Is Power: How Tech Policy Can Bolster Democracy](https://old.reddit.com/r/TrueReddit/comments/s8101n/privacy_is_power_how_tech_policy_can_bolster/), submitted on 2022-01-20 05:25:43+08:00.
+
+----- __100.1__ -----2022-01-20 05:26:18+08:00:
+
+\[SS from the article by Andrew Imbrie, Daniel Baer, Andrew Trask, Anna Puglisi, Erik Brattberg, and Helen Toner\]
+
+"History is rarely forgiving, but as we adopt the next phase of digital tools, policymakers can avoid the errors of the past. Privacy-enhancing technologies, or PETs, are a collection of technologies with applications ranging from improved medical diagnostics to secure voting systems and messaging platforms. PETs allow researchers to harness big data to solve problems affecting billions of people while also protecting privacy. As their use becomes widespread, a new paradigm will emerge, in which private data is more readily available for research and problem solving and public data on private citizens is better protected. Much like the Internet itself, PETs have become a dividing line between democratic and authoritarian governments with implications for privacy and accountability. With foresight, however, the United States and its allies can realize the benefits of PETs while preventing the most dangerous outcomes. Indeed, the announcement at U.S. President Joe Biden’s recent Summit for Democracy of a joint effort by the United Kingdom and the United States to create a grand challenge aimed at fostering innovation in PETs signals the importance some advanced democracies are attaching to this effort."
 
