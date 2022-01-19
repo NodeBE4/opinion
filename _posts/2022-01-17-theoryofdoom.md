@@ -210,6 +210,22 @@ Yet, Psacki is untrustworthy.  She prevaricates, misdirects and makes up things 
 
 Consider the unique set of factors I outlined above which have coalesced under Biden's "leadership" that have played to Putin's favor.  My objective would have been to prevent all of those from happening in the first place, much less happening at the same time.
 
+----- __39.17__ -----2022-01-20 05:58:43+08:00:
+
+There is no military threat Ukraine poses to Russia.  Nor has the Kremlin identified one that can pass the sniff test.  
+
+Some purport to explain Putin's troop-massing as a defensive measure to protect Russia's borders in response to Ukrainian troop movement inside Ukraine.  This is consistent with reports from, among others, Russian media who frame Putin's actions as purely defensive, in response to "Ukraine's creation of threats to the security of Russia."  So what is the threat?  It depends on the time of day.  Members of the Russian government have peddled conspiracy theories including, but not limited to, that the United States:
+
+* Has sponsored color revolutions inside Russia;
+* Is actively involved in sponsoring terrorist activities inside Russia;
+* Is supporting neonazis in Ukraine in general and Donbass in particular to "target ethnic Russians";
+* Has conspired with human rights advocate groups inside Russia to overthrow Vladimir Putin's government; and
+* Anything else the FSB can make up to support the narrative. 
+
+But in the world of reality, the Russian military is overwhelmingly more powerful than Ukraine's.  Over the past several months, Russia has amassed up to 175,000 troops on Ukraine's border (including now from both Russia and Belarus).  For perspective, the entirety of the Ukrainian military totals around 200,000 to 225,000 active personnel.  This is why, among other reasons, the idea that Ukraine could or would invade Russia is absurd.  If you wish to pursue this on your own, compare Ukraine's so-called Air Force (and the inherited Soviet relic aircraft which comprise its fleet) to what Russia has now, on the relevant axes of comparison (age/condition, volume and pilot experience and etc.).   Compare the extent of Russia's missile capacity (number, range and destructive capacity) to Ukraine's.  Compare Russia's logistical/surveillance capabilities with Ukraine's.  Compare heavy land-based capabilities.  The list goes on and on.  The point is that there is no military advantage Ukraine has to Russia.  
+
+Yet, Putin claims Russia has "concerns" relating to Ukrainian military exercises which he characterizes as "unplanned."  Putin's "response" is the military equivalent of a neighbor saying "I saw you lighting candles inside your house without letting me know, so because I am concerned you might light another, I have summoned a fleet of fire trucks and have jumbo jets at the ready to drop fire retardant on everything around you, just in case you should decide to light others.
+
 ### 40: [When you think of a profession, which one is scariest if they suddenly said… “Oops..”?](https://old.reddit.com/r/AskReddit/comments/s7kte1/when_you_think_of_a_profession_which_one_is/), submitted on 2022-01-19 15:43:12+08:00.
 
 ----- __40.1__ -----2022-01-19 23:47:42+08:00:
