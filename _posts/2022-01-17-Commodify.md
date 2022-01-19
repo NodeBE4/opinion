@@ -69,6 +69,10 @@ By Napoleon's time, battles were being fought by unarmored men in formations dri
 
 We have no sources that go into detail as to *why* Machiavelli's soldiers were crushed by the armored Spanish and their mercenaries, but I think it's pretty obvious when you look at the training and equipment of the two sides.
 
+----- __38.3__ -----2022-01-20 03:53:32+08:00:
+
+Absolutely critical skills which a wealth of primary source evidence says can be drilled into men in a quarter or less. Try learning wrestling in that time.
+
 ### 39: [Russia/USSR sold weapons to China which Beijing went on to copy. Despite Russia's anger, they continue to sell weapons to China. Is this common in arms trade?](https://old.reddit.com/r/WarCollege/comments/s7kkwi/russiaussr_sold_weapons_to_china_which_beijing/), submitted on 2022-01-19 15:28:00+08:00.
 
 ----- __39.1__ -----2022-01-20 02:52:00+08:00:
