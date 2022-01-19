@@ -141,3 +141,15 @@ Notably, it's not just the United States.  For example, Canadian special forces 
 
 I have no idea.  Germany's hostility towards nuclear energy goes back to the earliest days of the anti-nuclear movement.  It should be lost on none that this is why they are beholden to Russian natural gas every winter.
 
+----- __38.10__ -----2022-01-19 22:46:13+08:00:
+
+> Have Russian oil and gas companies tried to partner with the Ukraine in developing those reserves?
+
+Yes.  Ukraine’s then president Viktor Yanukovych was facilitating those efforts, before Maidan and his untimely flight to Russia in its aftermath.
+
+----- __38.11__ -----2022-01-19 22:48:48+08:00:
+
+> If Russia invades, it will all happen live.
+
+That is a really good point and I agree with your Bosnia example.  The fact that international media were able to broadcast what was happening in Bosnia in the 1990s was what eventually shamed Bill Clinton into doing something --- even if it was too little too late.
+

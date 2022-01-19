@@ -91,3 +91,7 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
 天津疫情封城，打工人回不了家吃不上饭，2022年春季前面临被挨饿被困锁的绝境。年少时读书记住了“苛政猛于虎”这句经典名言，现在眼看着大陆各地“苛政猛于疫情”。极权当局以防疫为名，人为制造次生人权灾难，夺走多少人性命，使多少人陷于困境绝境！<br><br>純鈞: 天津打工者因封鎖回不了家、吃不上飯   跟政府要說法<br><br>拍攝視頻的人說：這是天津外地人回不去家了，吃不上飯了，在跟政府協商、溝通。現在還沒能給一個滿意的答覆。希望天津的疫情盡快過去，讓這些打工的人回家過個團圓年。<br><br><video src="https://video.twimg.com/ext_tw_video/1483450826769285129/pu/vid/408x720/ylmArewi4tuN4c0a.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1483450826769285129/pu/img/QQeNGe-Sn17vdI1D.jpg"></video>
 
+### 20: [2022-01-19 21:42:19+08:00 推文](https://twitter.com/realcaixia/status/1483796969554432004)
+
+中国的失业寒风吹进千家万户 <a href="https://www.voachinese.com/a/6402386.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6402386.html</a>
+
