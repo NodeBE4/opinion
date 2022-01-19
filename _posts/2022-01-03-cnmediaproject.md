@@ -29,7 +29,7 @@ RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking
 
 ### 4: [2022-01-06 22:07:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1479092256426627072)
 
-RT Alex Dukalskis<br>Remarkable visual. Mentions of Xi in People's Daily front page headlines outpacing Mao at height of Cultural Revolution.<br><br>Christian Goebel: Updated version of a graph I posted in February. It visualises frontpage headline mentions of China's political leaders in the People's Daily between 1946 and 2021.<br><br><img style src="https://pbs.twimg.com/media/FIX9aaiXoAItbGD?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>Remarkable visual. Mentions of Xi in People's Daily front page headlines outpacing Mao at height of Cultural Revolution.<br><br>Christian Goebel: Updated version of a graph I posted in February. It visualises frontpage headline mentions of China's political leaders in the People's Daily between 1946 and 2021.<br><br><img style="" src="https://pbs.twimg.com/media/FIX9aaiXoAItbGD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-07 03:34:07+08:00 推文](https://twitter.com/emily_sw1/status/1479174459110170627)
 
