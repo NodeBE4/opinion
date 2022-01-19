@@ -1,0 +1,53 @@
+---
+author: Commodify
+categories:
+- Reddit
+date: 2022-01-18
+from: https://old.reddit.com/r/WarCollege/comments/s5j4m1/what_were_the_main_factors_that_led_to_the_french/
+layout: post
+tags:
+- Reddit
+title: Commodify在2022-01-17~2022-01-23的言论
+---
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 35: [What were the main factors that led to the French losing against the Việt Minh during the First Indochina War?](https://old.reddit.com/r/WarCollege/comments/s5j4m1/what_were_the_main_factors_that_led_to_the_french/), submitted on 2022-01-17 03:16:59+08:00.
+
+----- __35.1__ -----2022-01-17 05:05:06+08:00:
+
+That they were basically fighting China. The book Building Ho's Army goes into this in detail. The French War in Indochina had roughly two phases. From 1946 to 1949, things were going fairly well. Come the end of the Chinese Civil War, you see the newly formed PRC send an almost endless supply of food, munitions, rifles, and money to the Viet Minh. Noting the deficiency of his forces up to that point, Ho Chi Minh subordinated his generals to a group of PLA officers known as the Chinese Military Advisory Group. That group started planning operations using their experience in the Chinese Civil War, starting with Route Coloniale 4 and culminating in Dien Bien Phu.
+
+The extent of this support and the kind of army it allowed the Viet Minh to build is difficult to understate. So often the First Indochina War falls under the same imagery as later COIN wars - a small group of guerrillas blending into the population and conducting hit and run attacks until the occupier is exhausted. Nothing could be further from the truth. By the start of the Siege of Dien Bien Phu, the Viet Minh was a *conventionally superior* force to the French army and was physically in control of [the vast majority of the country](https://upload.wikimedia.org/wikipedia/commons/c/cd/First_Indochina_War_map_1954_en.svg).
+
+As soon as the Nationalists lost across the border, French defeat was essentially a given. Even if Dien Bien Phu had been their most decisive victory since the days of Napoleon, the Viet Minh would simply rebuild. China was giving them a blank check to cover all their expenses, more guns and ammunition than they had men to use, and some its best officers on loan. The only way the French could have won was by killing every Vietnamese male of age to deny the Viet Minh a source of recruits. The other option was to disrupt the Viet Minh's rear areas and securing territories along the Chinese border. The French did attempt this and it was working in some places, but it ultimately culminated in Dien Bien Phu.
+
+----- __35.2__ -----2022-01-17 12:50:00+08:00:
+
+>The PLA were involved in building the Viet Minh's capabilities after 1949. Prior to that the PLA could provide little to no aid. But the Viet Minh proved highly capable even when left to their own devices. The DRV in the north mobilized their population to an enormous degree and while they lacked arms and experience, they still proved a formidable barrier to the French army winning. Sure, the French won most of their battles in the north; but drew or lost plenty more. Such that by 1947 that the DRV in the north could hold their own against even the largest French offensives.
+
+That's the thing though - they were restricted to the North when they had at one point controlled the majority of the country, losing it to a mix of Japanese (post-surrender), British, and French forces up 1947 and seeing their main force confined to a mountainous pocket in the north. Combat performance improved significantly after 1949 and they regained the majority of Vietnam again.
+
+> No, it really wasn't. Operation Lea in 1947 is a good example of just how much trouble the French were in. Operation Lea's goals was to: (a) capture the Viet Minh leadership; (b) seize a large base of operations; and (c) surround and destroy the Viet Minh forces in the region. The French with 15,000 men (including paratroops) with a vast superiority in artillery, armored vehicles and aircraft faced off against twice their number of Vietnamese with no heavy arms and achieved none of their goals.
+
+It was a strategic failure, but a considerable tactical success and certainly didn't speak highly to Viet Minh *combat* abilities at the time, just their capacity to maneuver (relatively) more quickly than the French in the North. Operation Lea involved a march all the way from Lang Song, through Cao bang and connecting with the French frontline at Yen Bai in the West. It divided the Viet Minh base area in two and involved a pursuit of the main Viet Minh force over more than 200 km of dense mountains.
+
+> This was followed by Operation Ceinture the goal of which to seize control of territory between major French positions in the north and to destroy the Viet Minh forces operating there. The French sent out 25,000 men, failed to connect and after a month abandoned all their gains because they didn't have the men to hold them down. The French lacked the men to hold down Vietnam and they knew it. The entire conducted of the war in the north was essentially dictated by that fact. The French mobile elements were repeatedly thrown at the Viet Minh to no strategic effect. The only real strategic successes of the French after the initial seizure of the cities were their offensives aimed at improving their defensive positions to reduce the number of men needed for garrison duty. In short, the French were well aware from 1946 things were not going well and things which had hitherto been "impossible" like granting Vietnam a measure of independence, something that the French had denounced in 1946 as radical nonsense, was accepted reality by 1948. If the French had granted Vietnam limited independence in 1946, the Viet Minh would have agreed to peace. When the French finally got around to doing this in 1948, the Viet Minh turned their noses up at it, seeing it as a desperate measure, and demanded even more substantive concessions.
+
+This is very true. The French were an order of magnitude less powerful, both in terms of resources and deployable manpower to the Americans in the second war and quickly realized the elimination of the Viet Minh was not a possibility - only their containment and a negotiated solution.
+
+### 36: [Why did the US Navy lose as many Cruisers as they did in the Guadalcanal campaign?](https://old.reddit.com/r/WarCollege/comments/s65o35/why_did_the_us_navy_lose_as_many_cruisers_as_they/), submitted on 2022-01-17 22:48:21+08:00.
+
+----- __36.1__ -----2022-01-18 00:15:37+08:00:
+
+The majority of the CAs were lost in a single battle: the engagement around Savo Island. During this battle, a Japanese cruiser force noticed a group of American cruisers at night and attacked it. Night battles tend to favor the side that lands a shot first, since the fires silhouette the enemy ships and make them easier to hit, and nighttime drill was a huge emphasis for the IJN and a non-emphasis for the USN. The Japanese also had a better torpedo and generally better naval gunnery. Put together, these factors turned the battle into a slaughter.
+
+Japanese and American cruiser losses for the rest of the campaign were roughly equal.
+
+### 37: [Was battle of Imphal winnable?](https://old.reddit.com/r/WarCollege/comments/s6seai/was_battle_of_imphal_winnable/), submitted on 2022-01-18 16:08:00+08:00.
+
+----- __37.1__ -----2022-01-18 23:48:44+08:00:
+
+Only if the British had made the same mistake they were making for three years before that and placed their depots closed to the front. The British decision to hold supply deep in the rear essentially doomed the Japanese offensive from the start. There was absolutely zero way the IJA could have scored even an operational success at that point (as u/124876720 brought up, a strategic success was out of the question), since there was no avoiding starvation. The argument is sometimes made by Japanese historians that Mutaguchi should have waited for more food, but no such food was forthcoming because of submarine warfare. More, it had been an established assumption of the IJA since Malaya that, when fighting Europeans, you didn't have to worry about supplies because you could just take them. This is one of the few campaigns in WW2 where we can confidently say the outcome was predetermined and nothing could have changed it.
+
