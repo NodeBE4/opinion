@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-19
+date: 2022-01-20
 from: https://old.reddit.com/r/WarCollege/comments/s5j4m1/what_were_the_main_factors_that_led_to_the_french/
 layout: post
 tags:
@@ -73,9 +73,25 @@ We have no sources that go into detail as to *why* Machiavelli's soldiers were c
 
 Absolutely critical skills which a wealth of primary source evidence says can be drilled into men in a quarter or less. Try learning wrestling in that time.
 
+----- __38.4__ -----2022-01-21 00:11:18+08:00:
+
+Agincourt for one - the whole thing was settled with a scramble in the mud.
+
+----- __38.5__ -----2022-01-21 00:19:14+08:00:
+
+They did: the Spanish eventually introduced disciplined pike squares which had first been in use by the Swiss. This innovation was decisive.
+
 ### 39: [Russia/USSR sold weapons to China which Beijing went on to copy. Despite Russia's anger, they continue to sell weapons to China. Is this common in arms trade?](https://old.reddit.com/r/WarCollege/comments/s7kkwi/russiaussr_sold_weapons_to_china_which_beijing/), submitted on 2022-01-19 15:28:00+08:00.
 
 ----- __39.1__ -----2022-01-20 02:52:00+08:00:
 
 Great post. To expand upon the licenses post, today China and Russia have settled on a fairly reasonable agreement where China is effectively allowed to reverse engineer platforms but is not allowed to export them, usually given the PR wrapping of "sale of licenses". This is one of two reasons (the other being their unwillingness to alter production lines for foreign orders) that China is not a major arms exporter. It's effectively Russia acknowledging that a country as large and industrially strong as China is not going to settle on being an arms importer and allowing them to build domestic lines as long as they don't compete with Russian products internationally.
+
+### 40: [Suppose a garrison in the Russian Far East in 1812. When do they hear that Napoleon is invading Russia in the west? Can they be mobilised to defend Moscow? How would they even get there?](https://old.reddit.com/r/WarCollege/comments/s8lbph/suppose_a_garrison_in_the_russian_far_east_in/), submitted on 2022-01-20 23:20:53+08:00.
+
+----- __40.1__ -----2022-01-21 00:47:04+08:00:
+
+They would likely be ordered to stay put, if they hear at all. All the most valuable parts of the Russian far east today - Vladivostok and the area up the Amur - was not part of Russia in 1812, but only became part of Russia during the Taiping rebellion. The Russian Far East at the time was a barren, inhospitable, and scarcely populated territory with only minimal garrisons. The only significant conflicts in that area were the Russian-Qing border wars more than a century earlier, in which both sides deployed troop numbers in the low thousands.
+
+Logistically, it was very difficult to supply even these garrisons. Well into the late 19th century, Russia's immediate East - the Volga region and Western Siberia - were subject to pervasive Kazakh raids. That problem had to be resolved first before any stable logistical connection to the East could be established. For the duration of the Russian Empire - but especially in the early 19th century - it was essentially multiple political units strung together only by allegiance to the ruler. The vast majority of Russia's non-Slavic populations served the Tsar as vassals and envisioned him as their Khan. The Bashkirs famously went into battle against Napoleon as *horse archers*. This arrangement required minimal "garrison activity", and therefore a low commitment of troops by the central government, but also meant very few forces could be procured from any area East of the Urals. The auxiliaries Russia relied on to bolster local rulers had little attachment to the central government, and the garrisons Russia deployed were too small to make a different.
 
