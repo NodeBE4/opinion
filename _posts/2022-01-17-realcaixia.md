@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-19
+date: 2022-01-21
 from: https://twitter.com/realcaixia/status/1482747310182486017
 layout: post
 tags:
@@ -94,4 +94,12 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 ### 20: [2022-01-19 21:42:19+08:00 推文](https://twitter.com/realcaixia/status/1483796969554432004)
 
 中国的失业寒风吹进千家万户 <a href="https://www.voachinese.com/a/6402386.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6402386.html</a>
+
+### 21: [2022-01-21 07:13:54+08:00 推文](https://twitter.com/realcaixia/status/1484303197841854466)
+
+中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
+
+### 22: [2022-01-21 07:14:10+08:00 推文](https://twitter.com/realcaixia/status/1484303267408805888)
+
+中国的公安局警察是货真价实的统治工具，他们最主要的“工作”就是监控信访民众异议人士；勒索钱财，比如交通警察以罚款为目的；镇压民众，为强拆民房强占土地充当打手保镖。<br><br>NFcloud Official: 这才是真实的芸芸众生。<br><br><img style src="https://pbs.twimg.com/media/FJhhDQeaAAInHtv?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/keaising/status/1483852802204246016" target="_blank" rel="noopener noreferrer">https://twitter.com/keaising/status/1483852802204246016</a>
 
