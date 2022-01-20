@@ -81,6 +81,10 @@ Agincourt for one - the whole thing was settled with a scramble in the mud.
 
 They did: the Spanish eventually introduced disciplined pike squares which had first been in use by the Swiss. This innovation was decisive.
 
+----- __38.6__ -----2022-01-21 01:45:36+08:00:
+
+They *mostly* didn't do any one thing because all medieval battles involved soldiers deploying a combination of skills. The only place to find a fight that involved only jousting, shooting, swordplay, or wrestling was a tourney.
+
 ### 39: [Russia/USSR sold weapons to China which Beijing went on to copy. Despite Russia's anger, they continue to sell weapons to China. Is this common in arms trade?](https://old.reddit.com/r/WarCollege/comments/s7kkwi/russiaussr_sold_weapons_to_china_which_beijing/), submitted on 2022-01-19 15:28:00+08:00.
 
 ----- __39.1__ -----2022-01-20 02:52:00+08:00:
