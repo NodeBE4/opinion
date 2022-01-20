@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-01-20
+date: 2022-01-21
 from: https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/
 layout: post
 tags:
@@ -37,4 +37,12 @@ This vision assumes that a continent with a long history of divisions is now uni
 \[SS from the article by Andrew Imbrie, Daniel Baer, Andrew Trask, Anna Puglisi, Erik Brattberg, and Helen Toner\]
 
 "History is rarely forgiving, but as we adopt the next phase of digital tools, policymakers can avoid the errors of the past. Privacy-enhancing technologies, or PETs, are a collection of technologies with applications ranging from improved medical diagnostics to secure voting systems and messaging platforms. PETs allow researchers to harness big data to solve problems affecting billions of people while also protecting privacy. As their use becomes widespread, a new paradigm will emerge, in which private data is more readily available for research and problem solving and public data on private citizens is better protected. Much like the Internet itself, PETs have become a dividing line between democratic and authoritarian governments with implications for privacy and accountability. With foresight, however, the United States and its allies can realize the benefits of PETs while preventing the most dangerous outcomes. Indeed, the announcement at U.S. President Joe Biden’s recent Summit for Democracy of a joint effort by the United Kingdom and the United States to create a grand challenge aimed at fostering innovation in PETs signals the importance some advanced democracies are attaching to this effort."
+
+### 101: [America Needs a Bolder Biden: A Year In, His Foreign Policy Is Too Cautious and Conventional](https://old.reddit.com/r/geopolitics/comments/s8sytj/america_needs_a_bolder_biden_a_year_in_his/), submitted on 2022-01-21 05:07:02+08:00.
+
+----- __101.1__ -----2022-01-21 05:08:11+08:00:
+
+\[SS from the article by Emma Ashford, senior fellow in the New American Engagement Initiative at the Atlantic Council\]
+
+"Biden’s rhetoric often suggests that he could be a visionary on international affairs: the kind of leader the United States needs to make tough strategic choices facing the country, whether on nuclear posture, Middle East wars, or a pivot to Asia. But if he is to do so, his administration needs to get out of its defensive crouch, make tough choices, and own them. The president made the right choice on Afghanistan: to put aside political considerations and instead pursue “the fundamental national security interest of the United States of America.” It’s time he applied that resolute approach to foreign policy more broadly."
 
