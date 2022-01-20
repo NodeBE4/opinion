@@ -13,33 +13,33 @@ title: theoryofdoom在2022-01-17~2022-01-23的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 36: [What is the most emotionally devastating book you’ve ever read?](https://old.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/), submitted on 2022-01-17 03:06:26+08:00.
+### 37: [What is the most emotionally devastating book you’ve ever read?](https://old.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/), submitted on 2022-01-17 03:06:26+08:00.
 
------ __36.1__ -----2022-01-17 11:21:18+08:00:
+----- __37.1__ -----2022-01-17 11:21:18+08:00:
 
 > The Green Mile by Stephen King.
 
 I read Green Mile shortly after it came out.  I think that was the first time I ever really concretely understood what evil was.  It was weeks before I got over it.
 
------ __36.2__ -----2022-01-17 11:24:10+08:00:
+----- __37.2__ -----2022-01-17 11:24:10+08:00:
 
 > Rape of Nanking 
 
 This deserves more upvotes.
 
-### 37: [Math suffers from white supremacy, according to a Bill Gates-funded course](https://old.reddit.com/r/stupidpol/comments/s5oim2/math_suffers_from_white_supremacy_according_to_a/), submitted on 2022-01-17 07:17:49+08:00.
+### 38: [Math suffers from white supremacy, according to a Bill Gates-funded course](https://old.reddit.com/r/stupidpol/comments/s5oim2/math_suffers_from_white_supremacy_according_to_a/), submitted on 2022-01-17 07:17:49+08:00.
 
------ __37.1__ -----2022-01-17 11:14:57+08:00:
+----- __38.1__ -----2022-01-17 11:14:57+08:00:
 
 This is nauseating.
 
-### 38: [Time for NATO to Close Its Door: The Alliance Is Too Big—and Too Provocative—for Its Own Good](https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/), submitted on 2022-01-18 23:28:15+08:00.
+### 39: [Time for NATO to Close Its Door: The Alliance Is Too Big—and Too Provocative—for Its Own Good](https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/), submitted on 2022-01-18 23:28:15+08:00.
 
------ __38.1__ -----2022-01-20 00:43:26+08:00:
+----- __39.1__ -----2022-01-20 00:43:26+08:00:
 
 This is one of the most stunningly inept articles I have ever seen published in FA.
 
------ __38.2__ -----2022-01-20 13:26:28+08:00:
+----- __39.2__ -----2022-01-20 13:26:28+08:00:
 
 I've been making the same argument for a while, and I agree.  Turkey is a tremendous liability for NATO and Erdogan's behaviour is unacceptable.  Though I also never imagined we would be in a situation where an American president would let Vladimir Putin get this out of control in Europe.  
 
@@ -47,13 +47,13 @@ So the question is whether, at this point, Turkey is still a necessary evil.  In
 
 At this point, I'd kick that can down the road until Putin is gone and the future of Russian political leadership thereafter has taken hold.  I would also be curious to see how long Erdogan sticks around.  This could become less of a problem, following political change inside Turkey.
 
------ __38.3__ -----2022-01-20 13:29:43+08:00:
+----- __39.3__ -----2022-01-20 13:29:43+08:00:
 
 > Perhaps, but kicking Turkey out of NATO would only help Putin.
 
 Maybe.  But consider what Turkey risks by allying itself with Russia.  What has happened to Russian allies and client states in the not too distant past?  How does their fate stack up with NATO allies or client states?  Even if Turkey was [out](https://www.youtube.com/watch?v=xNQHhD-cdEY), it's not like there would be no strings attached.
 
------ __38.4__ -----2022-01-20 14:13:24+08:00:
+----- __39.4__ -----2022-01-20 14:13:24+08:00:
 
 Michael Kimmage argues that it's time for NATO to close its door.  According to him, "[t]he sheer enormity of the alliance and the murkiness of its mission risk embroiling NATO in a major European war."  
 
@@ -69,15 +69,15 @@ Returning to reality, war between is the historical norm in Europe.  NATO is the
 
 To play this in Kimmage's ballpark, the global stage's anarchy is a violent winter storm from which NATO is the shelter to all members in Europe.  Sometimes the weather may appear to clear, but it is always winter and storms are always on the horizon.  Leaving a stranded traveler to die in the cold will not change the weather.  Nor will burning down the house.  It is that simple.
 
-### 39: [Russia moves more troops westward amid Ukraine tensions](https://old.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/), submitted on 2022-01-19 05:00:36+08:00.
+### 40: [Russia moves more troops westward amid Ukraine tensions](https://old.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/), submitted on 2022-01-19 05:00:36+08:00.
 
------ __39.1__ -----2022-01-19 05:06:54+08:00:
+----- __40.1__ -----2022-01-19 05:06:54+08:00:
 
 Submission Statement:
 
 This Associated Press article reports that Russia has moved an additional and unspecified amount of troops to Ukraine's borders, including with Belarus.  These new Russian troop buildup efforts follow multilateral failures to resolve diplomatically.  According to the White House and Ukrainian officials, the threat of Russian invasion is imminent and escalating. The Kremlin and Russian defense ministry deny any intent to invade.  NATO and allies continue their efforts to negotiate a resolution that does not involve war.
 
------ __39.2__ -----2022-01-19 06:34:06+08:00:
+----- __40.2__ -----2022-01-19 06:34:06+08:00:
 
 Not a stupid question, especially given all the nonsense out there on this issue (e.g., Russia's facially absurd claims that Ukraine somehow represents a military threat).  
 
@@ -93,7 +93,7 @@ Suppose that happens.  If Ukraine develops a viable natural gas export industry 
 
 So that's what this is all about.  Putin is trying to knee-cap a competitor before they even have the chance to get off the ground. That is why Putin is massing troops on Ukraine's border and is more likely than not to invade.
 
------ __39.3__ -----2022-01-19 07:44:50+08:00:
+----- __40.3__ -----2022-01-19 07:44:50+08:00:
 
 > Why does he do this so obvious and slowly?
 
@@ -109,7 +109,7 @@ The American military withdrawal from Afghanistan was the single greatest milita
 
 Odds are slim Putin will ever have a better opportunity than this precise moment.
 
------ __39.4__ -----2022-01-19 08:29:29+08:00:
+----- __40.4__ -----2022-01-19 08:29:29+08:00:
 
 I ignored the part of your question relating to obviousness, because it is incorrect to assume that Putin's motives and interests are obvious in any general sense.  
 
@@ -121,7 +121,7 @@ Beyond what I said above, there are scores of different items of disinformation 
 
 That's how Putin plays this game.  Some just happen to be able to see through it.
 
------ __39.5__ -----2022-01-19 08:40:27+08:00:
+----- __40.5__ -----2022-01-19 08:40:27+08:00:
 
 > Geopolitically, the stars have aligned quite well for Putin, and I agree that it's now or never in his mind. 
 
@@ -133,7 +133,7 @@ I agree, but I doubt Putin will.  What Putin is trying to figure out is whether 
 
 So that's what he's waiting on.  That's why he's moving slowly, so he can gradually escallate and assess changes to the risks he faces at each stage.  Putin needs to take Ukraine without military resistance of any kind.
 
------ __39.6__ -----2022-01-19 08:57:30+08:00:
+----- __40.6__ -----2022-01-19 08:57:30+08:00:
 
 Just be careful with money stuff.  If you can negotiate the currency in which get paid, go for Euros or better yet Swiss Francs.  If you must obtain loans, make sure you are borrowing and paying in rubles.
 
@@ -141,7 +141,7 @@ The nightmare scenario is that you have loans which must be paid in Euros but yo
 
 Otherwise you will be fine.  Russia is a nice country.
 
------ __39.7__ -----2022-01-19 09:58:24+08:00:
+----- __40.7__ -----2022-01-19 09:58:24+08:00:
 
 > If we're talking about fewer than 100 wells in Ukraine's side of the Black Sea, is it even an adequate amount of natural gas to start producing and exporting, that a big-time producer like Russia would go to war over? 
 
@@ -155,7 +155,7 @@ Based on the extent of the untapped reserves in the Black Sea, yes.  And it's no
 
 Ukraine only gets a pathway to NATO membership if it starts selling gas to Europe.  And both of those things are a big problem for Putin.
 
------ __39.8__ -----2022-01-19 10:20:20+08:00:
+----- __40.8__ -----2022-01-19 10:20:20+08:00:
 
 > This means an invasion of and war with Ukraine is not a matter of if, but when.
 
@@ -165,7 +165,7 @@ Correct, absent other political changes inside Ukraine which result in Russia ge
 
 I question whether anyone has briefed Biden on this.  I doubt Psacki could even find Ukraine on a map.
 
------ __39.9__ -----2022-01-19 10:34:12+08:00:
+----- __40.9__ -----2022-01-19 10:34:12+08:00:
 
 > Do you know if NATO has built up any kind of reserves, supplies, ammo stocks, shipping armed vehicles, et cetera to support any sizeable military action in Ukraine?
 
@@ -177,19 +177,19 @@ Notably, it's not just the United States.  For example, Canadian special forces 
 
 I have no idea.  Germany's hostility towards nuclear energy goes back to the earliest days of the anti-nuclear movement.  It should be lost on none that this is why they are beholden to Russian natural gas every winter.
 
------ __39.10__ -----2022-01-19 22:46:13+08:00:
+----- __40.10__ -----2022-01-19 22:46:13+08:00:
 
 > Have Russian oil and gas companies tried to partner with the Ukraine in developing those reserves?
 
 Yes.  Ukraine’s then president Viktor Yanukovych was facilitating those efforts, before Maidan and his untimely flight to Russia in its aftermath.
 
------ __39.11__ -----2022-01-19 22:48:48+08:00:
+----- __40.11__ -----2022-01-19 22:48:48+08:00:
 
 > If Russia invades, it will all happen live.
 
 That is a really good point and I agree with your Bosnia example.  The fact that international media were able to broadcast what was happening in Bosnia in the 1990s was what eventually shamed Bill Clinton into doing something --- even if it was too little too late.
 
------ __39.12__ -----2022-01-19 23:38:53+08:00:
+----- __40.12__ -----2022-01-19 23:38:53+08:00:
 
 > What would you do if you were in Biden's shoes?
 
@@ -205,17 +205,17 @@ There would be no announced video-conferences with Putin, ever.  I and my admini
 
 The point of this exercise would be to make it obvious to Putin that the costs of invasion are unacceptably high.  In this way, war would be avoided.
 
------ __39.13__ -----2022-01-19 23:39:45+08:00:
+----- __40.13__ -----2022-01-19 23:39:45+08:00:
 
 Yes, Psacki.
 
------ __39.14__ -----2022-01-19 23:46:27+08:00:
+----- __40.14__ -----2022-01-19 23:46:27+08:00:
 
 > Geopolitically, a united Russia (pre-1991 USSR borders), is a more stable Russia, and will be better for world security in the long run for a simple reason: A Russia with more defendable borders will be more confident in its defense and less likely to cause trouble to the West.
 
 And why do you think Russia's borders are not "defendable" in the status quo?
 
------ __39.15__ -----2022-01-20 00:40:05+08:00:
+----- __40.15__ -----2022-01-20 00:40:05+08:00:
 
 > That's quite a list, no offense but it doesn't seem like any President other than a JFK or FDR could pull off the things you suggested considering the present political situation in the US.
 
@@ -234,13 +234,13 @@ Everything about Biden's approach to Russia is misguided.  He's got two problems
 The press secretary is the most public-facing role of any administration.  So, this person must be trustworthy.  
 Yet, Psacki is untrustworthy.  She prevaricates, misdirects and makes up things to suit whatever the current party line is.  She routinely contradicts herself, stating one thing one day and something else the next.  When faced with tough questions, she plays hide the ball.  Lack of controversy isn't the key metric, because in order for anything she says to be controversial someone would have to hold her accountable.  Traditionally, that was the press's role.  But they demonstrate no inclination whatsoever to do so.  For example, see Brian Stelter's interview with her several months back.  I know it sounds cliche to reference an Aaron Zorkin character as a measure of what a public servant should be, but if you want to see an example of a good press secretary look at CJ Cregg.  But if you want to see an example more based on reality, look at Josh Earnest (Obama's press secretary) or Dee Dee Myers (Bill Clinton's press secretary for the first two years of his administration).
 
------ __39.16__ -----2022-01-20 00:41:48+08:00:
+----- __40.16__ -----2022-01-20 00:41:48+08:00:
 
 > Can you elaborate more on this?
 
 Consider the unique set of factors I outlined above which have coalesced under Biden's "leadership" that have played to Putin's favor.  My objective would have been to prevent all of those from happening in the first place, much less happening at the same time.
 
------ __39.17__ -----2022-01-20 05:58:43+08:00:
+----- __40.17__ -----2022-01-20 05:58:43+08:00:
 
 There is no military threat Ukraine poses to Russia.  Nor has the Kremlin identified one that can pass the sniff test.  
 
@@ -256,21 +256,27 @@ But in the world of reality, the Russian military is overwhelmingly more powerfu
 
 Yet, Putin claims Russia has "concerns" relating to Ukrainian military exercises which he characterizes as "unplanned."  Putin's "response" is the military equivalent of a neighbor saying "I saw you lighting candles inside your house without letting me know, so because I am concerned you might light another, I have summoned a fleet of fire trucks and have jumbo jets at the ready to drop fire retardant on everything around you, just in case you should decide to light others.
 
------ __39.18__ -----2022-01-20 13:16:06+08:00:
+----- __40.18__ -----2022-01-20 13:16:06+08:00:
 
 > What’s with the insistence on meeting in person? Is that just because negotiations do better under those conditions, or for another reason?
 
 Negotiations work better in person than otherwise.  That's beyond the scope of what's relevant to this subreddit so if you want to discuss further, we can DM.
 
-### 40: [When you think of a profession, which one is scariest if they suddenly said… “Oops..”?](https://old.reddit.com/r/AskReddit/comments/s7kte1/when_you_think_of_a_profession_which_one_is/), submitted on 2022-01-19 15:43:12+08:00.
+### 41: [When you think of a profession, which one is scariest if they suddenly said… “Oops..”?](https://old.reddit.com/r/AskReddit/comments/s7kte1/when_you_think_of_a_profession_which_one_is/), submitted on 2022-01-19 15:43:12+08:00.
 
------ __40.1__ -----2022-01-19 23:47:42+08:00:
+----- __41.1__ -----2022-01-19 23:47:42+08:00:
 
 The guy who prepares parachutes, before you jump out of a plane.
 
-### 41: [Another European nation defies China as Slovenia strengthens Taiwan ties](https://old.reddit.com/r/geopolitics/comments/s7teo6/another_european_nation_defies_china_as_slovenia/), submitted on 2022-01-20 00:03:32+08:00.
+### 42: [Another European nation defies China as Slovenia strengthens Taiwan ties](https://old.reddit.com/r/geopolitics/comments/s7teo6/another_european_nation_defies_china_as_slovenia/), submitted on 2022-01-20 00:03:32+08:00.
 
------ __41.1__ -----2022-01-20 00:12:11+08:00:
+----- __42.1__ -----2022-01-20 00:12:11+08:00:
 
 Submission Statement:  Slovenia has announced its intentions to strengthen relations with Taiwan, following Lithuania's lead by establishing reciprocal trade offices.  The Chinese Foreign Ministry was "shocked" and "strongly opposes" such a "dangerous" show of support for Taiwanese independence.  While Slovenia's prime minister confirmed this would not go as far as establishing an embassy, Slovenia will be undeterred by the threat of Chinese economic reprisals.
+
+### 43: [Center For COVID Control Faked Test Results, Minnesota Attorney General Says In New Lawsuit](https://old.reddit.com/r/CoronavirusIllinois/comments/s7ywee/center_for_covid_control_faked_test_results/), submitted on 2022-01-20 03:56:45+08:00.
+
+----- __43.1__ -----2022-01-20 22:14:41+08:00:
+
+This is very helpful.  Thanks for posting.
 

@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-15
+date: 2022-01-16
 from: https://old.reddit.com/r/geopolitics/comments/s03zgl/russias_putin_seizes_on_crises_to_assert_control/
 layout: post
 tags:
@@ -216,4 +216,10 @@ Don't be so sure.  This woman is engaged in serious professional misconduct and 
 ----- __35.1__ -----2022-01-16 02:15:43+08:00:
 
 Removed.  Spam and irrelevant.  First and only warning.
+
+### 36: [Some Americans Could Start Getting 4th COVID-19 Vaccine Shot As Soon As This Week](https://old.reddit.com/r/CoronavirusIllinois/comments/s4nzya/some_americans_could_start_getting_4th_covid19/), submitted on 2022-01-16 00:28:52+08:00.
+
+----- __36.1__ -----2022-01-20 22:18:33+08:00:
+
+Removed.  Rule 7.
 
