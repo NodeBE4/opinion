@@ -29,7 +29,7 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
@@ -82,4 +82,8 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
 Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
+
+RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent & smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
 

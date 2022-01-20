@@ -39,6 +39,20 @@ This is nauseating.
 
 This is one of the most stunningly inept articles I have ever seen published in FA.
 
+----- __38.2__ -----2022-01-20 13:26:28+08:00:
+
+I've been making the same argument for a while, and I agree.  Turkey is a tremendous liability for NATO and Erdogan's behaviour is unacceptable.  Though I also never imagined we would be in a situation where an American president would let Vladimir Putin get this out of control in Europe.  
+
+So the question is whether, at this point, Turkey is still a necessary evil.  In the short term (3-5 years), there are huge natural gas reserves in Turkey's EEZ, which in addition to Ukraine's and Romania's could displace Russia's de facto control of natural gas on the continent.  In the long term (>5 years), another factor is the potential for an additional canal to access the Black Sea.  Turkish cooperation on that would be critical.  
+
+At this point, I'd kick that can down the road until Putin is gone and the future of Russian political leadership thereafter has taken hold.  I would also be curious to see how long Erdogan sticks around.  This could become less of a problem, following political change inside Turkey.
+
+----- __38.3__ -----2022-01-20 13:29:43+08:00:
+
+> Perhaps, but kicking Turkey out of NATO would only help Putin.
+
+Maybe.  But consider what Turkey risks by allying itself with Russia.  What has happened to Russian allies and client states in the not too distant past?  How does their fate stack up with NATO allies or client states?  Even if Turkey was [out](https://www.youtube.com/watch?v=xNQHhD-cdEY), it's not like there would be no strings attached.
+
 ### 39: [Russia moves more troops westward amid Ukraine tensions](https://old.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/), submitted on 2022-01-19 05:00:36+08:00.
 
 ----- __39.1__ -----2022-01-19 05:06:54+08:00:
@@ -225,6 +239,12 @@ Some purport to explain Putin's troop-massing as a defensive measure to protect 
 But in the world of reality, the Russian military is overwhelmingly more powerful than Ukraine's.  Over the past several months, Russia has amassed up to 175,000 troops on Ukraine's border (including now from both Russia and Belarus).  For perspective, the entirety of the Ukrainian military totals around 200,000 to 225,000 active personnel.  This is why, among other reasons, the idea that Ukraine could or would invade Russia is absurd.  If you wish to pursue this on your own, compare Ukraine's so-called Air Force (and the inherited Soviet relic aircraft which comprise its fleet) to what Russia has now, on the relevant axes of comparison (age/condition, volume and pilot experience and etc.).   Compare the extent of Russia's missile capacity (number, range and destructive capacity) to Ukraine's.  Compare Russia's logistical/surveillance capabilities with Ukraine's.  Compare heavy land-based capabilities.  The list goes on and on.  The point is that there is no military advantage Ukraine has to Russia.  
 
 Yet, Putin claims Russia has "concerns" relating to Ukrainian military exercises which he characterizes as "unplanned."  Putin's "response" is the military equivalent of a neighbor saying "I saw you lighting candles inside your house without letting me know, so because I am concerned you might light another, I have summoned a fleet of fire trucks and have jumbo jets at the ready to drop fire retardant on everything around you, just in case you should decide to light others.
+
+----- __39.18__ -----2022-01-20 13:16:06+08:00:
+
+> What’s with the insistence on meeting in person? Is that just because negotiations do better under those conditions, or for another reason?
+
+Negotiations work better in person than otherwise.  That's beyond the scope of what's relevant to this subreddit so if you want to discuss further, we can DM.
 
 ### 40: [When you think of a profession, which one is scariest if they suddenly said… “Oops..”?](https://old.reddit.com/r/AskReddit/comments/s7kte1/when_you_think_of_a_profession_which_one_is/), submitted on 2022-01-19 15:43:12+08:00.
 
