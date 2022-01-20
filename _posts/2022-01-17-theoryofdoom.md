@@ -53,6 +53,22 @@ At this point, I'd kick that can down the road until Putin is gone and the futur
 
 Maybe.  But consider what Turkey risks by allying itself with Russia.  What has happened to Russian allies and client states in the not too distant past?  How does their fate stack up with NATO allies or client states?  Even if Turkey was [out](https://www.youtube.com/watch?v=xNQHhD-cdEY), it's not like there would be no strings attached.
 
+----- __38.4__ -----2022-01-20 14:13:24+08:00:
+
+Michael Kimmage argues that it's time for NATO to close its door.  According to him, "[t]he sheer enormity of the alliance and the murkiness of its mission risk embroiling NATO in a major European war."  
+
+I do not know how this passed editorial review.  Kimmage's argument is neither well reasoned nor even well written.  His argument, updated at the time I write this comment, is replete with numerous errors and omissions.  On the few occasions when coherent, his argument is internally contradictory.  Someone could have a field day identifying all the aspects of why.  
+
+Kimmage makes no coherent argument for why NATO (or any attribute of it, now or ever) is inherently provocative.  Mearsheimer at least tries, based on his free-floating notions of Russia's historical sphere of influence.  Kimmage does not even lay foundation for what he means by "expansionist," an adjective he uses to characterize NATO which must be meant to take the place of factual support. But I'm not inclined to do FA's editor's jobs.  
+
+In any case, this is the bottom line:
+
+Kimmage is wrong because he assumes that in NATO's absence or where its expanse was further limited, there would be peace in Europe.  So, Kimmage's argument is historically myopic.  And yet he is a historian.  Or so he says.  
+
+Returning to reality, war between is the historical norm in Europe.  NATO is the foundation of European security, now as it has been since 1949.  War between nation-states has been the norm since 1648, when the Treaty of Westphalia was adopted.  One historical reprieve from that norm has happened: the end of WWII and creation of NATO.  
+
+To play this in Kimmage's ballpark, the global stage's anarchy is a violent winter storm from which NATO is the shelter to all members in Europe.  Sometimes the weather may appear to clear, but it is always winter and storms are always on the horizon.  Leaving a stranded traveler to die in the cold will not change the weather.  Nor will burning down the house.  It is that simple.
+
 ### 39: [Russia moves more troops westward amid Ukraine tensions](https://old.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/), submitted on 2022-01-19 05:00:36+08:00.
 
 ----- __39.1__ -----2022-01-19 05:06:54+08:00:
