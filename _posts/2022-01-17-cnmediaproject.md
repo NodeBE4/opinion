@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-01-20
+date: 2022-01-21
 from: https://twitter.com/cnmediaproject/status/1483406980836642818
 layout: post
 tags:
@@ -45,15 +45,15 @@ Re @sebastianveghk @lingli_vienna 人生的扣子 goes back to 2014 apparently: 
 
 ### 8: [2022-01-19 23:15:36+08:00 推文](https://twitter.com/sehof/status/1483820443710922753)
 
-RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
+RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
 
 ### 9: [2022-01-20 07:45:03+08:00 推文](https://twitter.com/cnmediaproject/status/1483948651726897153)
 
-In December, CMP wrote about the Human Rights Institute of the SW Univ. of Political Science and Law in Chongqing, and its strange relationship with the Free University of Amsterdam and CGTN regular Tom Zwart. Seems now that Chinese $$$ is involved.<br><img style src="https://pbs.twimg.com/media/FJgLNB7aIAM5lsw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization."<br><br><img style src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a>
+In December, CMP wrote about the Human Rights Institute of the SW Univ. of Political Science and Law in Chongqing, and its strange relationship with the Free University of Amsterdam and CGTN regular Tom Zwart. Seems now that Chinese $$$ is involved.<br><img style="" src="https://pbs.twimg.com/media/FJgLNB7aIAM5lsw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization."<br><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a>
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
-Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
@@ -61,7 +61,7 @@ Re CCHRC content is strikingly in line with the CCP line, though Zwart insists h
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
@@ -69,7 +69,7 @@ Re On "care," one listed associate, Peng Qinxuan, is identified as having "studi
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
@@ -81,7 +81,7 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
@@ -97,5 +97,13 @@ RT Alan Wong<br>Chinese contact tracing accidentally revealed a migrant worker
 
 ### 21: [2022-01-20 17:24:22+08:00 推文](https://twitter.com/SPCmonitor/status/1484094440939655170)
 
-RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial&nbsp;Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
+RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
+
+### 22: [2022-01-20 22:45:15+08:00 推文](https://twitter.com/eileenguo/status/1484175192934871046)
+
+RT Eileen Guo<br>Breaking #ChinaInitiative news: all charges against MIT professor #GangChen have been dismissed.<br><br>"Having assessed the evidence as a whole...the government can no longer meet its burden of proof at trial," wrote US Attorney for MA Rachael Rollins <a href="https://www.technologyreview.com/2022/01/20/1043848/china-initative-gang-chen-mit-dismissed/" target="_blank" rel="noopener noreferrer">https://www.technologyreview.com/2022/01/20/1043848/china-initative-gang-chen-mit-dismissed/</a>
+
+### 23: [2022-01-21 02:41:22+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1484234613706866692)
+
+RT Zhaoyin Feng<br>One patient recently visited a ski resort, a Dior shop and several jewelry stores. Another hauled construction waste through the night across Beijing, working more than 30 odd jobs in two weeks while he searched for his missing son. 北京折叠 in real life. <a href="https://www.france24.com/en/live-news/20220120-labour-vs-luxury-virus-tracing-highlights-china-s-inequality" target="_blank" rel="noopener noreferrer">https://www.france24.com/en/live-news/20220120-labour-vs-luxury-virus-tracing-highlights-china-s-inequality</a>
 
