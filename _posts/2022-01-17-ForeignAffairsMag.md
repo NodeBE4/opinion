@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-01-21
+date: 2022-01-22
 from: https://old.reddit.com/r/geopolitics/comments/s702wk/time_for_nato_to_close_its_door_the_alliance_is/
 layout: post
 tags:
@@ -63,4 +63,11 @@ This vision assumes that a continent with a long history of divisions is now uni
 "The United States, NATO, Ukraine, and Russia have not moved any closer to a diplomatic solution or a reduction of tensions on the Ukrainian-Russian border. Although Russia has not completely abandoned diplomatic pretenses, the chasm between Russian and Western expectations has been laid bare. Russian officials have made clear that they are not interested in proposals focused solely on strategic stability or on military exercises, or even on a moratorium on NATO membership for Ukraine. Russian President Vladimir Putin seeks nothing short of the complete dismantling of Europe’s post–Cold War security architecture and a rollback of fundamental international agreements governing states’ rights to self-determination—an outcome the United States and its partners and allies will never accept...
 
 A major military conflict in Ukraine would be a catastrophe. It is an outcome that no one should crave. But it is now a likelihood for which the United States must prepare."
+
+### 104: [How to Prevent COVID’s Next Comeback: Rich Countries Must Make Smarter Investments in Poorer Ones](https://old.reddit.com/r/TrueReddit/comments/s9kzcx/how_to_prevent_covids_next_comeback_rich/), submitted on 2022-01-22 05:07:41+08:00.
+
+----- __104.1__ -----2022-01-22 05:08:31+08:00:
+
+\[SS from the article by Abhijit Banerjee and Esther Duflo, winners of the 2019 Nobel Prize in Economics\]  
+"Managing the new normal of endemic COVID-19 in low- and middle-income countries is a different challenge from controlling the pandemic in developed states. This is partly because poorer countries lack some of the public health infrastructure and resources needed to effectively protect their populations. But it’s also because recent history suggests that rather than helping, the rich world in general and the United States in particular may be making matters worse for developing countries through their own disastrous management of the disease."
 
