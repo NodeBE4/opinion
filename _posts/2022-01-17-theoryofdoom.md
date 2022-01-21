@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-21
+date: 2022-01-22
 from: https://old.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/
 layout: post
 tags:
@@ -301,4 +301,12 @@ It is exhausting watching people debate about this.
 > But MUHH FREEDOMS!!!
 
 That is the definition of a low effort post.
+
+### 45: [Fraudulent ‘pop-up’ COVID testing centers are rampant. Here are 8 tips to help protect against phony clinics and testing scams.](https://old.reddit.com/r/CoronavirusIllinois/comments/s9nshq/fraudulent_popup_covid_testing_centers_are/), submitted on 2022-01-22 07:11:42+08:00.
+
+----- __45.1__ -----2022-01-22 07:13:08+08:00:
+
+These tips are particularly important, since a lot of these fraudulent testing facilities are just re-opening with a new name as soon as they're shut down.  
+
+Here's the bottom line: use your common sense.  If it smells like bullshit, it probably is.
 
