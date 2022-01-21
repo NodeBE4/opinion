@@ -157,9 +157,23 @@ Night Tiger (Lanzhou/Xinjiang) - COIN
 
 Eagle (Jinan) - Rear disruption
 
-### 43: [Is "grit" a real thing and does it matter?](https://old.reddit.com/r/WarCollege/comments/s98877/is_grit_a_real_thing_and_does_it_matter/), submitted on 2022-01-21 18:58:29+08:00.
+### 43: [What is Russia's perception of Post-Cold War NATO as a military opponent compared to during the late Cold War?](https://old.reddit.com/r/WarCollege/comments/s95sgh/what_is_russias_perception_of_postcold_war_nato/), submitted on 2022-01-21 16:06:23+08:00.
 
------ __43.1__ -----2022-01-21 23:56:00+08:00:
+----- __43.1__ -----2022-01-22 02:27:25+08:00:
+
+It changed over time. The Russians went from having a guarded admiration for NATO to nothing but contempt for it as both their fortunes and NATO's changed.
+
+The 1990s represented the heydey of the American war machine and the nadir of the Russian. Russia's dramatic failure in Chechnya contrasted with America's stunning successes in the Gulf and Yugoslavia. Russian generals were veritably panicking at this development. Their usual "scientific" military journals degraded into frenetic marveling. Bold proclamations like "war of the future will have no frontlines, only targets" came out of their publications in this period. On the ground level, Chechnya proved them to be tactically deficient and they started Westernizing their organization, previously an ultimate sin. Most impressive of all to them was the USAF's ability to, apparently, win wars alone. The VVS saw an opportunity to transition from "long ranged artillery" for the ground troops to the core arm of the Russian air force as thrice - Second Chechnya, Georgia, and Syria - they tried to "replicate Desert Storm".
+
+The admiring Russian view on NATO diminished as the Russian armed forces slowly recovered from their dark ages. Westernization was cut short as the army decided on an "anti-Western" conventional doctrine using "firepower as maneuver" to exploit what they perceived as fire support dependency of NATO soldiers. Publications increasingly pointed out deficiencies of the Americans. Their analyses of the 2003 invasion of Iraq were less impressed than in 1991, despite the 2003 operation being objectively more brilliant. They pointed out the "operational confusion" of the tactically-obsessed Americans, who neglected the bigger picture to pursue local tactical opportunities. The Russians also perceived an acute decline of all Western armies besides that of the US, as severe cutbacks diminished their fighting capabilities.
+
+Increased Russian confidence was further influenced by their perceived improvements. The Second Chechen War was unimpressive but still a victory. The 2008 war was an improved but still imperfect victory. Syria fell well short of the VVS's Douhetist aspirations to win from above alone, but nevertheless the Russians provided highly effective air support for Iran and its proxies. The Ukraine separatist war was an unmitigated victory, meanwhile, as a very small force of "little green men" essentially put the pre-war Ukrainian army and air force out of commission. Numerous observers throughout both latter conflicts praised the capabilities of the Russians and highlighted their innovative use of drones and their accurate and rapid-firing artillery.
+
+Finally, Russia's view of NATO has diminished by a perception of division. The Russians do not believe that the Germans and Southern Europeans will come to the aid of NATO allies in the event of a war in Eastern Europe, owing to decades of "gas diplomacy". Russia also sees Turkey as de facto a non-member of NATO at this point, which is highly important because Turkey is the only NATO member whom Russia perceives as having increased in strength since 1991.
+
+### 44: [Is "grit" a real thing and does it matter?](https://old.reddit.com/r/WarCollege/comments/s98877/is_grit_a_real_thing_and_does_it_matter/), submitted on 2022-01-21 18:58:29+08:00.
+
+----- __44.1__ -----2022-01-21 23:56:00+08:00:
 
 No because humans are very good at adjusting to new conditions. Think back to the biggest, hardest, worst lifestyle change in your life. It probably sucked for a week, maybe two or three, then you got used to it. The same has always been in the case for troops thrown into combat. Adrenaline carries you through the most dangerous moments. For the rest - the general suffering of going 60 hours with no sleep, sleeping outdoors, shitting with no toilet paper - your body just acclimatizes. Often after only a day.
 
@@ -168,4 +182,10 @@ Boot camp is an ancient concept. Even primitive cultures had some kind of warrio
 So yes, a 17 year old who wants a Camarro couldn't put up conditions any harsher than camping in the summer with marshmallows for a night. But after 3 months on some faraway COP he'll be fine. So grit equalizes between all combatants over time.
 
 Perseverance in *combat* meanwhile has nothing to do with grit. I'd bet that the average ANA soldier was only a little less "gritty" (innately able to "tough things out") than the average Taliban soldier. The difference was political motivation: his *willingness* (not ability) to put himself in harm's way for other people. It's impossible to willingly die for self-interest. This kind of perseverance doesn't equalize between combatants over time and is a significant force multiplier. A unit with it is thinking about dealing maximum damage, while a unit without it is thinking only of surviving the war and going home.
+
+### 45: [Alexander Vindman: The Day After Russia Attacks. What War in Ukraine Would Look Like—and How America Should Respond](https://old.reddit.com/r/geopolitics/comments/s9cza0/alexander_vindman_the_day_after_russia_attacks/), submitted on 2022-01-21 23:15:21+08:00.
+
+----- __45.1__ -----2022-01-22 02:31:43+08:00:
+
+They perceive themselves as having lost the second "cold" war and needing to go hot to avoid a repeat of the 1991 dismemberment. Orangism (pro-democracy/EU) and pan-Turkism have largely captured the hearts and minds of the people of even "safe" Russian allies like Belarus and Kazakhstan, so they need to take dramatic action to turn things around.
 
