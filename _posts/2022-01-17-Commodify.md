@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-20
+date: 2022-01-21
 from: https://old.reddit.com/r/WarCollege/comments/s5j4m1/what_were_the_main_factors_that_led_to_the_french/
 layout: post
 tags:
@@ -91,11 +91,81 @@ They *mostly* didn't do any one thing because all medieval battles involved sold
 
 Great post. To expand upon the licenses post, today China and Russia have settled on a fairly reasonable agreement where China is effectively allowed to reverse engineer platforms but is not allowed to export them, usually given the PR wrapping of "sale of licenses". This is one of two reasons (the other being their unwillingness to alter production lines for foreign orders) that China is not a major arms exporter. It's effectively Russia acknowledging that a country as large and industrially strong as China is not going to settle on being an arms importer and allowing them to build domestic lines as long as they don't compete with Russian products internationally.
 
-### 40: [Suppose a garrison in the Russian Far East in 1812. When do they hear that Napoleon is invading Russia in the west? Can they be mobilised to defend Moscow? How would they even get there?](https://old.reddit.com/r/WarCollege/comments/s8lbph/suppose_a_garrison_in_the_russian_far_east_in/), submitted on 2022-01-20 23:20:53+08:00.
+### 40: [Why are things between Russia and Ukraine escalating NOW?](https://old.reddit.com/r/CredibleDefense/comments/s7u7ha/why_are_things_between_russia_and_ukraine/), submitted on 2022-01-20 00:38:46+08:00.
 
------ __40.1__ -----2022-01-21 00:47:04+08:00:
+----- __40.1__ -----2022-01-22 00:34:28+08:00:
+
+They're changing tactics, just like they did in the early 2000s, because the old playbook wasn't working. Putin and co. designed the hybrid warfare playbook long before it became a term. They did this in response to a perception of conventional weakness facing the West, laid bare in the decisive Western triumphs in Iraq and Yugoslavia in contrast with their own abject failures in Chechnya. Per this playbook, Russia would wage limited, short, and sharp wars and use separatists in post-Soviet countries as tripwires for "Kosovo-style" intervention. The threat of breakup would, in their minds, keep the CIS in their pocket.
+
+Over the next two decades, Putin's clique embarked on ambitious military reforms, coupled with "live testing" of their new weapons and doctrines that breathed new life into the Russian army. While some areas are still extremely deficient - Russian AA, for example, has proven defective in Syria, Libya, and Nagorno-Karabakh - the Russian army is the best conventional force in Europe and maybe the world owing to its massive self-propelled artillery park and its advanced methods for target acquisition.
+
+While the improvements have occurred, the proxy war situation turned decisively against Russia. Orange revolutions brought about changes in a number of CIS countries and the collapse has only intensified in recent years. Even "safe" Belarus and Kazakhstan attempted to overthrow their pro-Russian autocrats. Meanwhile, while the United States has not gotten much better at winning hybrid wars, its allies have picked up the slack. Turkey and Israel have proven extremely successful in undermining and defeating Russian proxies, their support being decisive in the Azeri war against Armenia. Moreover, Turkey achieved total victory in Libya over the Russian-backed Haftar, acquired connection to Central Asia through the Azeri-Armenian peace agreement, and has started supporting Ukraine.
+
+Putin sees himself under siege by two encroaching forces - Orangism to the West and pan-Turkism to the South. While the autocrats of many countries still inside the Russian sphere favor Russia, it's clear from recent events in Belarus and Central Asia that the hearts and minds of the satellite people have been lost. Time is not on Russia's side and the leadership perceives the need for decisive action if they want to acquire critical mass to resist the West.
+
+There is one thing going for Putin in the past 2 years, and that has likely motivated this as well. The likes of Lukashenko and Nazarbayev acted as "middlemen" between Russia and their people and sometimes distanced themselves from the Kremlin. The recent unrest in Belarus, and later Kazakhstan, reduced the leadership of both countries to, essentially, Russian satraps. The "Eurasian Union" Putin always dreamed of but which was constantly vetoed by Nazarbayev is now a possibility. More, adding Belarus to his "solid sphere" gives him more military options in Ukraine: from Belarus, he can circumvent the Dnieper just as the Red Army did in 1943. A victory in Ukraine, if he can acquire one, could very well be the impetus Putin needs to formally absorb Belarus.
+
+### 41: [Suppose a garrison in the Russian Far East in 1812. When do they hear that Napoleon is invading Russia in the west? Can they be mobilised to defend Moscow? How would they even get there?](https://old.reddit.com/r/WarCollege/comments/s8lbph/suppose_a_garrison_in_the_russian_far_east_in/), submitted on 2022-01-20 23:20:53+08:00.
+
+----- __41.1__ -----2022-01-21 00:47:04+08:00:
 
 They would likely be ordered to stay put, if they hear at all. All the most valuable parts of the Russian far east today - Vladivostok and the area up the Amur - was not part of Russia in 1812, but only became part of Russia during the Taiping rebellion. The Russian Far East at the time was a barren, inhospitable, and scarcely populated territory with only minimal garrisons. The only significant conflicts in that area were the Russian-Qing border wars more than a century earlier, in which both sides deployed troop numbers in the low thousands.
 
 Logistically, it was very difficult to supply even these garrisons. Well into the late 19th century, Russia's immediate East - the Volga region and Western Siberia - were subject to pervasive Kazakh raids. That problem had to be resolved first before any stable logistical connection to the East could be established. For the duration of the Russian Empire - but especially in the early 19th century - it was essentially multiple political units strung together only by allegiance to the ruler. The vast majority of Russia's non-Slavic populations served the Tsar as vassals and envisioned him as their Khan. The Bashkirs famously went into battle against Napoleon as *horse archers*. This arrangement required minimal "garrison activity", and therefore a low commitment of troops by the central government, but also meant very few forces could be procured from any area East of the Urals. The auxiliaries Russia relied on to bolster local rulers had little attachment to the central government, and the garrisons Russia deployed were too small to make a difference.
+
+### 42: [Is it true the Chinese SOFs act more like "shock troops" compared to other SOFs who conduct unconventional warfare? And why is that?](https://old.reddit.com/r/WarCollege/comments/s8w4hk/is_it_true_the_chinese_sofs_act_more_like_shock/), submitted on 2022-01-21 07:37:03+08:00.
+
+----- __42.1__ -----2022-01-22 00:11:46+08:00:
+
+There are more than 20 different special forces in China. PLA special forces are an extension of the central concept of PLA doctrine which is specialized training. There is no bounding overwatch in PLA infantry: every platoon is broken up into a fire team, an assault team, and a demolition team, and they train to do just that job.
+
+As you zoom out of the basic field exercise, the number of tasks the infantry have to master multiplies. Instead of training every infantryman to respond to every conceivable threat, the PLA breaks off anywhere between 3,000 to 25,000 and drills them to respond to one specific threat. Because the PLA has the most decentralized command structure of major armies, every military region has *their own* special forces aside from the central special forces. Some, like Nanjing, have two.
+
+Below is a list of units and their core competency.
+
+**Central Units**
+
+Sea Dragons - Boarding, overseas deployment, and most importantly underwater demolition.
+
+Mountain Eagle - COIN population control.
+
+Snow Leopard - SWAT.
+
+Falcon Commando - COIN "dagger" ops.
+
+Thundergod - Airborne rear disruption and recon.
+
+**Regional Units**
+
+Oriental Sword (Beijing) - Publicly just "the best, most elite unit". Their real purpose is to defeat a coup in the streets of Beijing.
+
+Arrow (Beijing) - Ditto. There are two because in case one rebels, the other has to kill it.
+
+South Blade (Guangzhou) - Reconnaissance and maritime demolition.
+
+Falcon (Chengdu) - Airborne rear disruption.
+
+Southwest China Falcon (Chengdu) - Mountaineers
+
+Siberian Tiger (Shenyang) - Mountaineers
+
+Flying Dragon (Nanjing) - SWAT
+
+Oscar (Nanjing) - Maritime demolitions and recon
+
+Night Tiger (Lanzhou/Xinjiang) - COIN
+
+Eagle (Jinan) - Rear disruption
+
+### 43: [Is "grit" a real thing and does it matter?](https://old.reddit.com/r/WarCollege/comments/s98877/is_grit_a_real_thing_and_does_it_matter/), submitted on 2022-01-21 18:58:29+08:00.
+
+----- __43.1__ -----2022-01-21 23:56:00+08:00:
+
+No because humans are very good at adjusting to new conditions. Think back to the biggest, hardest, worst lifestyle change in your life. It probably sucked for a week, maybe two or three, then you got used to it. The same has always been in the case for troops thrown into combat. Adrenaline carries you through the most dangerous moments. For the rest - the general suffering of going 60 hours with no sleep, sleeping outdoors, shitting with no toilet paper - your body just acclimatizes. Often after only a day.
+
+Boot camp is an ancient concept. Even primitive cultures had some kind of warrior initiation process that involved a combination of humiliation, survival tasks and ugly haircuts. The point wasn't to "make real men grrr". It was just to let recruits know that their lives sucked now, and give them time to get used to that.
+
+So yes, a 17 year old who wants a Camarro couldn't put up conditions any harsher than camping in the summer with marshmallows for a night. But after 3 months on some faraway COP he'll be fine. So grit equalizes between all combatants over time.
+
+Perseverance in *combat* meanwhile has nothing to do with grit. I'd bet that the average ANA soldier was only a little less "gritty" (innately able to "tough things out") than the average Taliban soldier. The difference was political motivation: his *willingness* (not ability) to put himself in harm's way for other people. It's impossible to willingly die for self-interest. This kind of perseverance doesn't equalize between combatants over time and is a significant force multiplier. A unit with it is thinking about dealing maximum damage, while a unit without it is thinking only of surviving the war and going home.
 

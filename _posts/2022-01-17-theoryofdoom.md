@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-20
+date: 2022-01-21
 from: https://old.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/
 layout: post
 tags:
@@ -279,4 +279,26 @@ Submission Statement:  Slovenia has announced its intentions to strengthen relat
 ----- __43.1__ -----2022-01-20 22:14:41+08:00:
 
 This is very helpful.  Thanks for posting.
+
+### 44: [Good news in the fight against covid. Nasal COVIDROPS](https://old.reddit.com/r/CoronavirusIllinois/comments/s9bgd8/good_news_in_the_fight_against_covid_nasal/), submitted on 2022-01-21 22:04:24+08:00.
+
+----- __44.1__ -----2022-01-21 23:58:58+08:00:
+
+> I mean masks were supposed to be a stop gap until we had vaccines and effective treatments.
+
+That's what they said, [until they didn't](https://www.cbsnews.com/news/covid-19-cdc-mask-guidance-n95/):
+
+> "Cloth masks aren't going to provide a lot of protection, that's the bottom line," former FDA director Dr. Scott Gottlieb told "Face the Nation" on January 2. "This is an airborne illness. We now understand that, and a cloth mask is not going to protect you from a virus that spreads through airborne transmission. It could protect better through droplet transmission, something like the flu, but not something like this coronavirus."
+
+People who think they are safe from infection because they put a surgical mask or cloth mask over their face are have been mislead.  It's not about whether any such mask is "worn properly," whatever people think they mean by that. 
+
+It's about the science of fluid dynamics.
+
+It is exhausting watching people debate about this.
+
+----- __44.2__ -----2022-01-21 23:59:32+08:00:
+
+> But MUHH FREEDOMS!!!
+
+That is the definition of a low effort post.
 
