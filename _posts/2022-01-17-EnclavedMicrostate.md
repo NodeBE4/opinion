@@ -43,15 +43,23 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 76: [Why do governments deal with states near international borders so heavy-handedly?](https://old.reddit.com/r/AskHistorians/comments/s8d92v/why_do_governments_deal_with_states_near/), submitted on 2022-01-20 15:24:36+08:00.
+### 76: [How were home addresses / mail delivery handled in ancient Chinese cities?](https://old.reddit.com/r/AskHistorians/comments/s88meg/how_were_home_addresses_mail_delivery_handled_in/), submitted on 2022-01-20 11:13:36+08:00.
 
------ __76.1__ -----2022-01-20 17:12:58+08:00:
+----- __76.1__ -----2022-01-21 13:13:52+08:00:
+
+> Sir Robert Hart (British) founded the Imperial Post in 1896
+
+Irish, technically – it's why Chinese postboxes are painted green!
+
+### 77: [Why do governments deal with states near international borders so heavy-handedly?](https://old.reddit.com/r/AskHistorians/comments/s8d92v/why_do_governments_deal_with_states_near/), submitted on 2022-01-20 15:24:36+08:00.
+
+----- __77.1__ -----2022-01-20 17:12:58+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 77: [The destruction of the Southern Shaolin Temple by the Qing is a central event in Hong Kong martial arts movies, but this temple might not have existed. Where did this myth come from, and what role did it play in martial arts history?](https://old.reddit.com/r/AskHistorians/comments/s8ddl3/the_destruction_of_the_southern_shaolin_temple_by/), submitted on 2022-01-20 15:32:31+08:00.
+### 78: [The destruction of the Southern Shaolin Temple by the Qing is a central event in Hong Kong martial arts movies, but this temple might not have existed. Where did this myth come from, and what role did it play in martial arts history?](https://old.reddit.com/r/AskHistorians/comments/s8ddl3/the_destruction_of_the_southern_shaolin_temple_by/), submitted on 2022-01-20 15:32:31+08:00.
 
------ __77.1__ -----2022-01-21 02:44:57+08:00:
+----- __78.1__ -----2022-01-21 02:44:57+08:00:
 
 ### Introduction and Theory
 
@@ -79,13 +87,13 @@ The reality was that by the time that Qing rule extended over Henan, the Shaolin
 
 Thanks to the earlier depredations, the Shaolin Monastery as a military entity had very much collapsed. The same chronicler who recorded the destruction of the temple by Li Jiyu reported visiting the temple some time between the late 1650s and 1670s, where he requested that two novices demonstrate their skills for him. 'Their performance was no better than that of street beggars. It was not worth watching.' While the monastery retained its legendary reputation for martial prowess, the Qing were not eager to allow it to be taken seriously; in 1775 the Qianlong Emperor officially forbade officials and officers from involving Buddhist monks in the army, in response to news that the governor of Henan had taken on Shaolin monks as army instructors. 'Having monks train his soldiers is not only beyond one’s authority,' wrote the emperor, 'it also makes him into a laughing stock.'
 
------ __77.2__ -----2022-01-21 02:45:13+08:00:
+----- __78.2__ -----2022-01-21 02:45:13+08:00:
 
 ### The Myth
 
 The Qing conquest of China was, to say the least, a deeply traumatic event for many Han Chinese, especially as it involved the overthrow of the Ming, a state that had built itself on 'de-Mongolification' in the wake of Yuan rule, and which had upheld a sort of cosmically-ordained division between the 'civilised' and 'barbarian' worlds, made particularly potent by the construction of the Great Wall. Manifestations of anti-Qing sentiment often came in fits and starts, but it is probably fair to say that the Qing never could – and never did – feel entirely safe from a proto-nationalist uprising by any of their non-Manchu subjects. More importantly for the purposes of analysing the history of Shaolin, many organisations in southern China that pitched themselves as anti-Qing liked, for the purposes of PR and credibility, to claim continuity with movements and entities that had resisted the Qing invasion. Perhaps most prominent among these was – indeed, is – the Heaven and Earth Society in Fujian, splinters of which became the triad crime gangs, and which claims to have been formed when the Qing invaded southern China in the 1650s. There is, in fact, no verifiable truth to this: the Heaven and Earth Society came into existence in the early 1760s as a community mutual aid organisation, and only began anti-Qing agitation later in the decade, well after their foundation. What it goes to show, though, is that stories of an anti-Shaolin reprisal by the Qing were rooted in a pervasive anti-Qing attitude that was particularly prevalent in south Chinese society.
 
-The origin story of the Heaven and Earth Society that eventually developed involves, surprise surprise, the Shaolin Monastery, and it seems to have been at least partly responsible for cementing the narrative that the Shaolin Monastery was destroyed during the Kangxi reign (1661-1722) and its practitioners scattered across southern China. That this was specifically a *Southern* Shaolin Monastery is not always consistently clear, and other variations on the Heaven and Earth Society's version of the myth sometimes claim it was the original Shaolin Monastery in Henan. However, the idea that this was a branch monastery – given the perhaps suspect timeframe of the destruction if it was supposed to be the original one – seems nevertheless to have gained prominence as a result. This did, however, have the perhaps unintended effect of leading to *several* monasteries claiming to be the rebuilt Southern Shaolin Monastery. According to Zhou Weiliang, at least three Buddhist temples in Fujian alleged that they were entitled to the moniker, with relatively little to actually show for it. But this claim nevertheless had currency, particularly in a region and in a time where it was possible to insinuate anti-Qing connections comparatively openly and expect that the extent of public support would outweigh the risks of official opposition.
+The origin story of the Heaven and Earth Society that eventually developed involves, surprise surprise, the Shaolin Monastery, and it seems to have been at least partly responsible for cementing the narrative that the Shaolin Monastery was destroyed during the Kangxi reign (1661-1722) and its practitioners scattered across southern China. That this was specifically a *Southern* Shaolin Monastery is not always consistently clear, and some versions of the myth – including its earliest attested form in 1811 – claim or at least strongly imply it was the original Shaolin Monastery in Henan. However, the idea that this was a branch monastery – given the perhaps suspect timeframe of the destruction if it was supposed to be the original one – seems nevertheless to have gained prominence as a result. This did, however, have the perhaps unintended effect of leading to *several* monasteries claiming to be the rebuilt Southern Shaolin Monastery. According to Zhou Weiliang, at least three Buddhist temples in Fujian alleged that they were entitled to the moniker, with relatively little to actually show for it. But this claim nevertheless had currency, particularly in a region and in a time where it was possible to insinuate anti-Qing connections comparatively openly and expect that the extent of public support would outweigh the risks of official opposition.
 
 To tie this in to the Hong Kong film industry, almost of HK martial arts cinema finds its roots in Wing Chun and its practitioners – more specifically, Ip Man's branch of Wing Chun – and Wing Chun basically replicates the Heaven and Earth Society's founding myth in claiming to have originated from monks fleeing the destroyed Southern Shaolin Monastery. Judkins and Nielson argue that the claim of Shaolin origins among martial arts clans dates to at least the 1890s, when the trope also starts to appear in martial arts novels; this would track with the uptick in anti-Qing sentiments that would eventually lead to the empire's downfall, and which became particularly acute in the wake of the First Sino-Japanese War in 1894-5. That said, the Shaolin aspect of the Heaven and Earth Society's origin myth is attested as early as 1811, so the development in the 1890s ought to be understood as involving the adoption of this myth by martial arts groups, and not its original invention.
 
@@ -95,7 +103,7 @@ Tying that back to Hong Kong, it is easy to retroject contemporary Hong Kong's t
 
 An undercurrent of Chinese nationalism pervades a not insubstantial amount of Hong Kong martial arts cinema, and it is probably no surprise that Japan and the Japanese can be found as the antagonists in some of the more iconic works in the genre: 1972's *Fist of Fury* sees Bruce Lee beating up karate students in post-WW1 Shanghai; 2008's *Ip Man* is set largely during the Japanese occupation of southern China; the now somewhat obscure (but at the time quite popular) *Apkido*, also from 1972, is set in prewar, Japanese-ruled Korea. You can even find subtle hints in films that don't directly address the Japanese Empire: Bruce Lee's self-produced *Way of the Dragon* (1972 again) has a number of scenes where Bruce demonstrates the superiority of kung fu over karate, first against the employees at the restaurant he's protecting, and then against the thugs hired by the mafia boss (including Chuck Norris); Stephen Chow's *Kung Fu Hustle* (2004) evokes the overall period setting of 1940s Shanghai even if the Japanese – indeed, any sort of political or military situation – are curiously absent. Going all the way back to the Shaolin temple, then, it forms part of a motif common across the genre where kung fu isn't just a cool fighting style, it's also an assertion of (Han) Chinese resilience.
 
------ __77.3__ -----2022-01-21 02:50:45+08:00:
+----- __78.3__ -----2022-01-21 02:50:45+08:00:
 
 ### Sources and Further Reading
 
@@ -111,9 +119,9 @@ An undercurrent of Chinese nationalism pervades a not insubstantial amount of Ho
 
 * Dian Murray, Qin Baoqi, *The Origins of the Tiandihui: The Chinese Triads in Legend and History* (1994)
 
-### 78: [What was the worst time to be alive in history? And what was the best?](https://old.reddit.com/r/AskHistorians/comments/s8lrd9/what_was_the_worst_time_to_be_alive_in_history/), submitted on 2022-01-20 23:40:39+08:00.
+### 79: [What was the worst time to be alive in history? And what was the best?](https://old.reddit.com/r/AskHistorians/comments/s8lrd9/what_was_the_worst_time_to_be_alive_in_history/), submitted on 2022-01-20 23:40:39+08:00.
 
------ __78.1__ -----2022-01-20 23:43:55+08:00:
+----- __79.1__ -----2022-01-20 23:43:55+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
