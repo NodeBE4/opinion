@@ -46,3 +46,11 @@ This vision assumes that a continent with a long history of divisions is now uni
 
 "Biden’s rhetoric often suggests that he could be a visionary on international affairs: the kind of leader the United States needs to make tough strategic choices facing the country, whether on nuclear posture, Middle East wars, or a pivot to Asia. But if he is to do so, his administration needs to get out of its defensive crouch, make tough choices, and own them. The president made the right choice on Afghanistan: to put aside political considerations and instead pursue “the fundamental national security interest of the United States of America.” It’s time he applied that resolute approach to foreign policy more broadly."
 
+### 102: [How to Prevent COVID’s Next Comeback: Rich Countries Must Make Smarter Investments in Poorer Ones](https://old.reddit.com/r/india/comments/s9alc1/how_to_prevent_covids_next_comeback_rich/), submitted on 2022-01-21 21:20:36+08:00.
+
+----- __102.1__ -----2022-01-21 21:21:39+08:00:
+
+\[SS from the article by Abhijit Banerjee and Esther Duflo, winners of the 2019 Nobel Prize in Economics\]
+
+"Managing the new normal of endemic COVID-19 in low- and middle-income countries is a different challenge from controlling the pandemic in developed states. This is partly because poorer countries lack some of the public health infrastructure and resources needed to effectively protect their populations. But it’s also because recent history suggests that rather than helping, the rich world in general and the United States in particular may be making matters worse for developing countries through their own disastrous management of the disease."
+
