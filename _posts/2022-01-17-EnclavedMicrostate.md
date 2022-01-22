@@ -133,3 +133,9 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 81: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
+
+----- __81.1__ -----2022-01-22 18:18:38+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
