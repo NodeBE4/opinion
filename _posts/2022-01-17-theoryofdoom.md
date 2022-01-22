@@ -302,17 +302,29 @@ It is exhausting watching people debate about this.
 
 That is the definition of a low effort post.
 
-### 45: [Fraudulent ‘pop-up’ COVID testing centers are rampant. Here are 8 tips to help protect against phony clinics and testing scams.](https://old.reddit.com/r/CoronavirusIllinois/comments/s9nshq/fraudulent_popup_covid_testing_centers_are/), submitted on 2022-01-22 07:11:42+08:00.
+### 45: [“Vaxxed Only” House Rule?](https://old.reddit.com/r/CoronavirusIllinois/comments/s9kjb1/vaxxed_only_house_rule/), submitted on 2022-01-22 04:48:16+08:00.
 
------ __45.1__ -----2022-01-22 07:13:08+08:00:
+----- __45.1__ -----2022-01-22 14:26:30+08:00:
+
+I would never ban people from my home based on their vaccination status.  I think doing so is antisocial, inherently unethical and discriminatory.  
+
+I think the idea of demanding any kind of paperwork from anyone as a prerequisite for social contact is morally abhorrent.  It is the definition of inhospitality.  
+
+I think any step towards normalizing that species of behavior is bad for us, as a society.
+
+And the idea that the stakes of such a decision even approximate life and death is not only scientifically unsupported, it is pathologically narcissistic.
+
+### 46: [Fraudulent ‘pop-up’ COVID testing centers are rampant. Here are 8 tips to help protect against phony clinics and testing scams.](https://old.reddit.com/r/CoronavirusIllinois/comments/s9nshq/fraudulent_popup_covid_testing_centers_are/), submitted on 2022-01-22 07:11:42+08:00.
+
+----- __46.1__ -----2022-01-22 07:13:08+08:00:
 
 These tips are particularly important, since a lot of these fraudulent testing facilities are just re-opening with a new name as soon as they're shut down.  
 
 Here's the bottom line: use your common sense.  If it smells like bullshit, it probably is.
 
-### 46: [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks](https://old.reddit.com/r/CoronavirusIllinois/comments/s9ntd0/oh_my_fucking_god_get_the_fucking_vaccine_already/), submitted on 2022-01-22 07:12:44+08:00.
+### 47: [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks](https://old.reddit.com/r/CoronavirusIllinois/comments/s9ntd0/oh_my_fucking_god_get_the_fucking_vaccine_already/), submitted on 2022-01-22 07:12:44+08:00.
 
------ __46.1__ -----2022-01-22 08:28:44+08:00:
+----- __47.1__ -----2022-01-22 08:28:44+08:00:
 
 Vapid nonsense, not in good faith.  Do not submit this type of content again.
 
