@@ -127,15 +127,28 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 80: [How does the current situation with Russia, regarding Ukraine, compare to the Cold War?](https://old.reddit.com/r/AskHistorians/comments/s9rjmb/how_does_the_current_situation_with_russia/), submitted on 2022-01-22 10:14:01+08:00.
+### 80: [What language(s) did people in France speak before the French Revolution?](https://old.reddit.com/r/AskHistorians/comments/s9r5do/what_languages_did_people_in_france_speak_before/), submitted on 2022-01-22 09:53:45+08:00.
 
------ __80.1__ -----2022-01-22 11:00:48+08:00:
+----- __80.1__ -----2022-01-22 20:36:57+08:00:
+
+Answers in the subreddit are expected to be in-depth and comprehensive, as laid out in the [subreddit rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer). There is no hard and fast definition of that, but in evaluating what you know on the topic, and what you are planning to post, consider whether your answer will *demonstrate* these four qualities to a reader:
+
+* [Do I have the expertise needed to answer this question?](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/)
+* [Have I done research on this question?](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/)
+* [Can I cite academic quality primary and secondary sources?](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/)
+* [Can I answer follow-up questions?](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/)
+
+If you have further questions, please [reach out to us via modmail](https://www.reddit.com/message/compose/?to=/r/AskHistorians). Thank you!
+
+### 81: [How does the current situation with Russia, regarding Ukraine, compare to the Cold War?](https://old.reddit.com/r/AskHistorians/comments/s9rjmb/how_does_the_current_situation_with_russia/), submitted on 2022-01-22 10:14:01+08:00.
+
+----- __81.1__ -----2022-01-22 11:00:48+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 81: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
+### 82: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
 
------ __81.1__ -----2022-01-22 18:18:38+08:00:
+----- __82.1__ -----2022-01-22 18:18:38+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
