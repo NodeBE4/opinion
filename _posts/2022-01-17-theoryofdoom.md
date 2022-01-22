@@ -310,3 +310,9 @@ These tips are particularly important, since a lot of these fraudulent testing f
 
 Here's the bottom line: use your common sense.  If it smells like bullshit, it probably is.
 
+### 46: [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks](https://old.reddit.com/r/CoronavirusIllinois/comments/s9ntd0/oh_my_fucking_god_get_the_fucking_vaccine_already/), submitted on 2022-01-22 07:12:44+08:00.
+
+----- __46.1__ -----2022-01-22 08:28:44+08:00:
+
+Vapid nonsense, not in good faith.  Do not submit this type of content again.
+
