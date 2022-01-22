@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-21
+date: 2022-01-22
 from: https://old.reddit.com/r/WarCollege/comments/s5j4m1/what_were_the_main_factors_that_led_to_the_french/
 layout: post
 tags:
@@ -188,4 +188,32 @@ Perseverance in *combat* meanwhile has nothing to do with grit. I'd bet that the
 ----- __45.1__ -----2022-01-22 02:31:43+08:00:
 
 They perceive themselves as having lost the second "cold" war and needing to go hot to avoid a repeat of the 1991 dismemberment. Orangism (pro-democracy/EU) and pan-Turkism have largely captured the hearts and minds of the people of even "safe" Russian allies like Belarus and Kazakhstan, so they need to take dramatic action to turn things around.
+
+### 46: [Why did the Philippine-American war even have to happen?](https://old.reddit.com/r/WarCollege/comments/s9ks6i/why_did_the_philippineamerican_war_even_have_to/), submitted on 2022-01-22 04:59:12+08:00.
+
+----- __46.1__ -----2022-01-23 00:27:12+08:00:
+
+The imperialist camp’s arguments were essentially:
+
+1. All great powers have them so we need them too.
+
+2. The Philippines is a base from which we can access the China market! American support for China from the 1800s all the way to the 2000s was founded on this yet unrealized ambition that it’s hundreds of millions of consumers would enrich American companies.
+
+3. If the US doesn’t take the colonies then Japan will, which is **bad**. For reasons.
+
+The decision to colonize the Philippines was essentially a “logistical” one. The administration was convinced that if they didn’t have it, the Europeans and Japanese could cut off their access to China and its market. Exactly how they would do this, or how America could convince the Qing to really open their markets (they had defied every trade treaty they signed) wasn’t clear, but the prevailing ideas at the time went something along the lines of “we will win them over with the power of friendship”. Ultimately this strategy became pointless just 20 years later as China descended into warlordism and civil war. That, combined with pre existing anti-Imperial sentiment spurred the decolonization process.
+
+There was a large and genuine anti imperialist camp in American politics and the survival of the McKinley administration was not a sure fire thing after the loud controversy of the annexation. As you mentioned, imperialism by extermination and imperialism by subjugation were two different things to the American public, which was far more ready to accept the first than the second. The capture of a territory with a subject people was unacceptable for reasons far more noble than “eww icky brown Catholics”. The main argument of the anti imperialists was that it violated the republican ideal, which was based on consent of the governed, and that this could ultimately undermine republicanism at home as well. At the time democracy was the heart of the American national identity, far more than today, since most still spoke the language of their home country and had a strong connection to it. The only way to consolidate a national identity was around the republican ideal, and subjugating a foreign people undermined that identity.
+
+### 47: [Did Schlieffen Plan fail because of its concept or execution?](https://old.reddit.com/r/WarCollege/comments/sa16t5/did_schlieffen_plan_fail_because_of_its_concept/), submitted on 2022-01-22 20:10:00+08:00.
+
+----- __47.1__ -----2022-01-23 00:03:01+08:00:
+
+Because it didn’t exist. There was no “Schlieffen” plan. The entire thing was a fabrication and deliberate distortion by postwar German officers and historians who all saw Schlieffen as a first class military mind and daydreamed that if he were in charge they would have won the war. Schlieffen had no plan, only rough sketches, often involving units that didn’t exist. The reason for this is he was not actually planning an invasion, only to teach German officers important lessons in war games, most of which were based on his plan or engagements during the plan. Moltke filled the plan in as best he could before the onset of hostilities, and the only way it could have been filled. “ Strengthen the right” was impossible because of logistics which were already strained. That said, Moltke’s incompetent command once hostilities began absolutely slowed the plan down, as his vaccilating and contradictory orders prevented fast execution.
+
+### 48: [What did the American-British-Dutch-Australian Command get wrong early on in the Pacific campaign?](https://old.reddit.com/r/WarCollege/comments/sa3mwc/what_did_the_americanbritishdutchaustralian/), submitted on 2022-01-22 22:27:18+08:00.
+
+----- __48.1__ -----2022-01-23 00:10:06+08:00:
+
+Nothing really. It’s command has been frequently lampooned for incompetence but even a skilled command would have failed. Its fleet was inferior to the Japanese in numbers, training, and technology. It was tasked with what was essentially mission impossible: maintain the “Malaya barrier”. On land, none of the defeats were ABDA command’s responsibility because they were brought about by the local, national commanders. The only way the command could have avoided the disasters it wrought was by fleeing the theatre, and that of course was not an option.
 
