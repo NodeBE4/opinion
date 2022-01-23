@@ -146,9 +146,55 @@ If you have further questions, please [reach out to us via modmail](https://www.
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 82: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
+### 82: [About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?](https://old.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/), submitted on 2022-01-22 12:51:19+08:00.
 
------ __82.1__ -----2022-01-22 18:18:38+08:00:
+----- __82.1__ -----2022-01-23 15:35:46+08:00:
+
+### I: The Weird Mess that is Manchu Demography
+
+Population figures for the Manchus under Qing rule aren't difficult to reconstruct for a historian with access to the source material, but the secondary sources don't always do a lot of in-depth enumerating, particularly for certain periods like the late 18th century where a population figure might be very useful for comparative purposes. It has only been comparatively recently that there has been significant English-language scholarship looking into Manchu demography in depth. Before we continue it is worth pointing out that Manchu demography is tied up in broader Banner demography, producing a bit of a Russian nesting doll sort of issue: the Banners were divided into Manchu Banners, Mongol Banners, and Hanjun ('Martial Han') Banners, and even then the Manchu Banners included a handful of non-Manchu but broadly Tungusic peoples; there were also 'bondservant companies' not organised into full Banners but instead attached to the other Banners, primarily the Manchus. Not all the sources on population figures divide helpfully between those four categories, although the more detailed ones do.
+
+In terms of sources, there are two broad sorts. The most regular are estimates in contemporary writings, which you would hope would give at least a good sense of trends over time. But these tend to vary heavily, in large part because they don't consistently choose the same metric: are they counting just Manchus, or all 'free' Bannermen, or the total population of Bannermen including enslaved and bonded people, and were they excluding unemployed Bannermen or and only counting those in military or civil service? Rarer, but more useful, are a few detailed surveys of the Banner population carried out at the court's behest.
+
+While these surveys are very precise, they are, it should be noted, very precise on one particular bit of data, that being the number of *ding* 丁 (able-bodied males) in the Banners. What we don't know is the dependency ratio, where estimates range from as little as 1:3 to as much as 1:9, with the latter figure generally incorporating slaves and bondservants who formed their own households for some purposes, but were counted in 'free' Manchu households for others. Mark Elliott, in *The Manchu Way* (2001), opts to offer 1:3 as a low-end estimate, and 1:6 as a high-end estimate. Using the precise breakdowns found in Qing documents in 1648 and 1720, he gives the following figures:
+
+Year | Manchus | Mongols | Hanjun | Bondservants and Others
+-|-|-|-|-
+1648 | 206,961-389,436  | 107,729-202,712 | 171,591-322,881 | 812,002-1,527,937
+1720 | 576,786-1,083,480 | 230,508-433,747 | 766,279-1,442,747 | 1,025,202-1,929,113
+
+What complicates these figures further is that not all bondservants were Han. Indeed, perhaps half would have been Manchus at the time these sets of data were compiled. Which means that while the 'free' Manchu population would have gone from around 200-400k to 570k-1m, the *total* Manchu population would likely have been closer to 600k-1.1m in 1648, and 1.1m-2m in 1720.
+
+David Porter carries the demographic data through into the nineteenth century, though he only counts *ding* and avoids the dependency issue; I've reproduce his data, in conjunction with An's, below:
+
+Year | Manchus | Mongols | Hanjun | Bondservants and Slaves | 'Post-Conquest Han'* | Misc. Others*
+-|-|-|-|-|-|-
+1648 | 55,330 | 28,785 | 45,849 | 216,967 | 
+1657 | 49,695 | 26,053 | 78,782 | 237,338 |
+1720 | 154,117 | 61,562 | 204,870 | 239,494 | 34,440 | 5,577
+1788 | 201,373 | 72,761 | 148,945 | 67,608 | 31,635 | 6,353
+1818 | 222,968 | 72,128 | 143,554 | 50,163 | 29,893 | 4,346
+1887 | 229,011 | 75,367 | 143,322 | 27,172 | 32,680 | 4,796
+
+\* Where known
+
+What is important to note is the decline in both Hanjun and bondservant categories there: the late Qianlong period saw a substantial effort to expel certain non-Manchus and Mongols from the Banners for reasons that are debated and which I won't really get into now; then in the nineteenth century there was a substantial reduction in numbers of bondservants and slaves in the Banners. This complicates things as far as Manchu demography goes. Porter suggests bondservants were overwhelmingly Han, which was probably true for his period of coverage in the later eighteenth into nineteenth centuries, but in the Kangxi and Yongzheng periods at least, it seems plausible enough – albeit near-impossible to definitively prove – that most bondservants were ethnically Manchu, but that there was a gradual move to elevate ethnic-Manchu bondservant companies into the ranks of the 'free' Manchu Banners. This, then, means that the shorthand of adding half the bondservants probably no longer works past a certain point, and there seems to be no clear answer on what the ethnic makeup of the bondservant companies was after their dramatic slashing in the Qianlong reign.
+
+Still, assuming we can reuse the 1:3 to 1:6 dependency ratios, then I'd give as estimates for the Manchu population in 1788, 1818 and 1887, rounding to 3 significant figures:
+
+Year | Excluding Bondservants | Assuming 50% of Bondservants are Manchu
+-|-|- 
+1788 | 805,000-1,410,000 | 941,000-1,650,000
+1818 | 892,000-1,560,000 | 992,000-1,740,000
+1887 | 916,000-1,600,000 | 970,000-1,700,000
+
+With all that, then, it seems reasonable to say that by the end of the Qing, the Manchu population was somewhere in the realm of that 1887 estimate, probably a bit larger.
+
+Now, a fair point that can be raised is that this is the *total* number of Manchus in the entirety of the Qing, not just those in China proper. Elliott, unfortunately, only looks at China Proper and doesn't give any figures for Bannermen in Manchuria/the Northeast or in Xinjiang. There is a breakdown of troop deployments by Rhoads, based on the 1887 Banner census and Thomas Wade's 1825 report on the Qing military, although he seems to use 'northwest China' to cover the garrisons in Xinjiang and Mongolia, not just what we would more conventionally term 'northwest China' (i.e. Gansu, Shaanxi, and environs). Per Rhoads, of 260,000 deployed Banner troops, 150,000 were in Beijing and 110,000 were not. Of these 110,000, 16,000 are placed by Rhoads in 'northwest China', and 37,000 in Manchuria. Checking Wade's figures, based on the 1825 Banner payrolls, of 236,000 privates there were about 13,600 in 'Turkestan' (i.e. presumably both Mongolia and Xinjiang) and 40,800 in Manchuria, which would seem to affirm the above read of Rhoads' categorisation. So in short, in 1887 there were around 207,000 Banner troops in China Proper and 53,000 in other parts of the empire; assuming (not entirely correctly) a homogeneous ethnic distribution, that'd mean 80% of the Banner population was in China proper, which in absolute numbers would be about 700,000-1,350,000 people.
+
+### 83: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
+
+----- __83.1__ -----2022-01-22 18:18:38+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
