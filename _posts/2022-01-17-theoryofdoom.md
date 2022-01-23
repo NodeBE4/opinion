@@ -348,3 +348,72 @@ Rather than trying to figure out who has a reliable opinion, look at the facts a
 
 What exactly are you claiming is a "pressure test"?
 
+----- __49.3__ -----2022-01-24 02:43:44+08:00:
+
+> A "pressure test" would be an act that is designed to gauge the response of any system in extreme or at least non-nominal conditions.
+
+I'll clarify: What specific action(s) are you claiming Putin has taken that constitute a pressure test related to Ukraine at this moment in time?
+
+----- __49.4__ -----2022-01-24 02:49:50+08:00:
+
+> If Russia were to invade Ukraine. When is the best time to do it? Feb or March? Or now?
+
+Dead of winter, when Germany is most in need of Russian natural gas.
+
+----- __49.5__ -----2022-01-24 02:59:18+08:00:
+
+It is important to make the distinction between facts (which are objectively and verifiably true) and opinions (which may or may not be based on facts).  
+
+If someone says something to the effect of "Putin is responding to [x] . . . ." they are stating an opinion about why Putin is doing something.  If that claim is not credible, the proper response is to ask "based on what?"
+
+It's possible whoever you're talking to is just ignorant.  This happens all the time.  People read headlines and know less than nothing about whether they're true or not. 
+ But it's also possible people think they understand something they don't.  This also is common.  People often think they know things they don't and then want to debate about it, without even bothering to understand what they're arguing about in the first place.  
+
+If someone is making facts up to support their opinions, they're not engaging in good faith.  That means there's no point in interacting with them.
+
+----- __49.6__ -----2022-01-24 03:04:18+08:00:
+
+It seems like you're trying to explain why Putin has adopted a strategy of iterative escalation.  The idea is that Putin's actions towards Ukraine are essentially an information gathering exercise.  By these provocations, he's trying to assess what other stakeholders' responses will be after each move he makes.  He's doing this because he doesn't know how NATO is going to respond and he's got a lot to lose if he miscalculates.
+
+----- __49.7__ -----2022-01-24 03:19:48+08:00:
+
+> I didn't touch on Russian propaganda at all. All I said was that disinformation campaigns are employed by all countries, and that this specific statement by the UK foreign office isn't supported by any published evidence.
+
+Let's clarify what you mean by that.  Which of these three options are you arguing? 
+
+1. The British communiqué provided no evidence to back up its assertion that Russia was plotting to overthrow the Ukrainian government.  
+2. No public information whatsoever supports the British communiqué's assertion that Russia was plotting to overthrow the Ukrainian government.
+3. No public information whatsoever supports the British communiqué's assertion that Russia was plotting to overthrow the Ukrainian government, because the claim is false.
+
+----- __49.8__ -----2022-01-24 03:27:31+08:00:
+
+> He arguably has almost nothing to lose if he doesn't invade.
+
+By this you mean . . . what, exactly? 
+
+> My theory amounts to a "pressure test" of the German will to act in accordance with a united, aggressive NATO response. 
+
+Returning to my prior question: What specific action(s) are you claiming Putin has taken that constitute a pressure test related to Ukraine at this moment in time?
+
+Are you saying that Putin is only testing Germany?  
+
+> To say that, "no you're actually talking about iterative escalation" feels a little pedantic,
+
+You appear to have misunderstood what I wrote.  The question of *what* Putin is doing (read: iterative escalation) is different than the question of *why* he is doing it.  
+
+You're claiming he's testing . . . something.  Yet what the "something" is that Putin is testing remains unclear.  The wrench and bolts metaphor is incoherent, as is the car analogy.  
+
+Again: What is Putin testing? Only Germany, or Germany and something else?
+
+### 50: [At-Will workers quit their jobs for higher pay, old employer asks court to block them from starting said new jobs until they can re-hire, judge grants injunction preventing them from starting their new jobs.](https://old.reddit.com/r/stupidpol/comments/sav4qs/atwill_workers_quit_their_jobs_for_higher_pay_old/), submitted on 2022-01-23 22:43:52+08:00.
+
+----- __50.1__ -----2022-01-24 03:10:14+08:00:
+
+> The hospital dithered thorugh their notice periods (despite being at-will, several of them gave ample notice), neither reschudeling current staff nor making an effort to hire replacements, then filed an injunction days from their start dates claiming patient health was at risk.
+
+It sounds like the hospital was confident that the non-compete clauses in their employment agreements would hold up.  
+
+Employers routinely put that kind of language in there, to prevent situations like this.  
+
+I don't expect the injunction to hold up.
+
