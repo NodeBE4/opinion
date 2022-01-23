@@ -428,6 +428,28 @@ One of Putin's aims, or Putin's sole aim?
 
 Is Putin trying to test any country on earth other than Germany, in your view?
 
+----- __49.11__ -----2022-01-24 05:01:09+08:00:
+
+You were correct that Germany depends on Russia for natural gas.  But your analysis of what role Russia's supplying natural gas to Germany has on Ukraine is wrong:
+
+> I think Putin continues to push until there is a clearer, more complete, break between the position of the smaller EU states (the US too) and the position of the new German system. 
+
+It is unclear whether you think Putin's actions in Ukraine relate primarily to Germany or only to Germany; but in either case, this analysis is not persuasive because it misses the forest for the tree that is Germany.  Germany is a component of Russia's strategy, but only a component.  Germany matters to Russia for Ukraine because in the status quo, Russia exports natural gas in large quantities to Germany (who relies on Russia for its supply).  Particularly in the winter, this gives Russia some ability to influence German politics.  To the extent Putin is trying to accomplish anything related to Germany from his actions in Ukraine, he is trying to preserve that influence.  
+
+Putin is not trying to sever Germany's ties with the European Union, member countries or NATO.  To do so would be plainly unrealistic.  What you mean by "stress test" or "new German system" likewise remains unclear.  Germany's "socio-political system" didn't change just because Merkel retired.  Leadership has only changed hands.  It's that simple.  As much as Germany depends on Russia for natural gas, Germany trades with many other countries for many other reasons --- many of which [vastly exceed the importance of the trade relationships Germany has with Russia](https://www.destatis.de/EN/Themes/Economy/Foreign-Trade/Tables/order-rank-germany-trading-partners.pdf?__blob=publicationFile).  
+
+What matters (i.e., the forest) is what is what Putin and Russia stand to lose, if Ukraine starts exporting natural gas to Europe.  There's a very large natural gas field off of Ukraine's coast in the Black Sea.  It's largely untouched and there are less than 100 wells drilled there.  For perspective, there are more than 7,000 wells in the North Sea. Control of the Black Sea's natural gas reserves enhances and further consolidates Russia's control over that resource and its exportation to Europe.
+
+Russia is one of the world's largest producers of oil and gas, and its influence of those markets represents one of its most significant sources of power. Natural gas in particular has been Russia's third-largest export for many years, after crude oil and refined petrochemicals. Russia exports more natural gas than any country on earth and has the largest proven natural gas reserves on earth. The only country on earth that produces more natural gas is the United States, that cannot efficiently supply Europe. Client states include essentially every country in Central and Eastern Europe who do not have their own reserves.  
+
+Now, consider the world where foreign oil and gas conglomerates start tapping wells in the Black Sea in cooperation with the Ukrainian government. At present, Ukraine doesn't have the infrastructure or technical capacity to even get it out of the ground. But what if they did? Ukraine has no interest in cooperating with Russia on natural gas exports whatsoever. Every country that relies on Russia for natural gas would far rather buy it from Ukraine than Russia.  If Ukraine develops a viable natural gas export industry with its reserves in the Black Sea, then Russia is frozen out of the former Soviet bloc and Germany. Ukraine's relationship with Europe generally and Germany in particular solidifies based on their underlying trade cooperation. In that case, Ukraine has a pathway to NATO membership which it has lacked since 1991, because in that case Ukraine has significant strategic value to the rest of the continent (including Germany).
+
+So that's what this is all about. Putin is trying to knee-cap a competitor before they even have the chance to get off the ground. That is why Putin is massing troops on Ukraine's border and is more likely than not to invade.
+
+----- __49.12__ -----2022-01-24 05:02:33+08:00:
+
+So you think the British government just made it up?
+
 ### 50: [At-Will workers quit their jobs for higher pay, old employer asks court to block them from starting said new jobs until they can re-hire, judge grants injunction preventing them from starting their new jobs.](https://old.reddit.com/r/stupidpol/comments/sav4qs/atwill_workers_quit_their_jobs_for_higher_pay_old/), submitted on 2022-01-23 22:43:52+08:00.
 
 ----- __50.1__ -----2022-01-24 03:10:14+08:00:
