@@ -165,7 +165,7 @@ Year | Manchus | Mongols | Hanjun | Bondservants and Others
 
 What complicates these figures further is that not all bondservants were Han. Indeed, perhaps half would have been Manchus at the time these sets of data were compiled. Which means that while the 'free' Manchu population would have gone from around 200-400k to 570k-1m, the *total* Manchu population would likely have been closer to 600k-1.1m in 1648, and 1.1m-2m in 1720.
 
-David Porter carries the demographic data through into the nineteenth century, though he only counts *ding* and avoids the dependency issue; I've reproduce his data, in conjunction with An's, below:
+David Porter carries the demographic data through into the nineteenth century, though he only counts *ding* and avoids the dependency issue; I've reproduced his data, in conjunction with An's, below:
 
 Year | Manchus | Mongols | Hanjun | Bondservants and Slaves | 'Post-Conquest Han'* | Misc. Others*
 -|-|-|-|-|-|-
