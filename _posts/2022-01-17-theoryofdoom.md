@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-22
+date: 2022-01-23
 from: https://old.reddit.com/r/suggestmeabook/comments/s5ivpt/what_is_the_most_emotionally_devastating_book/
 layout: post
 tags:
@@ -302,9 +302,15 @@ It is exhausting watching people debate about this.
 
 That is the definition of a low effort post.
 
-### 45: [“Vaxxed Only” House Rule?](https://old.reddit.com/r/CoronavirusIllinois/comments/s9kjb1/vaxxed_only_house_rule/), submitted on 2022-01-22 04:48:16+08:00.
+### 45: [Will Russia Conquer all of Ukraine? Answer is yes](https://old.reddit.com/r/geopolitics/comments/s9iy2z/will_russia_conquer_all_of_ukraine_answer_is_yes/), submitted on 2022-01-22 03:38:07+08:00.
 
------ __45.1__ -----2022-01-22 14:26:30+08:00:
+----- __45.1__ -----2022-01-24 01:49:09+08:00:
+
+Editorialized title, and incorrect format.  Resubmit this properly.
+
+### 46: [“Vaxxed Only” House Rule?](https://old.reddit.com/r/CoronavirusIllinois/comments/s9kjb1/vaxxed_only_house_rule/), submitted on 2022-01-22 04:48:16+08:00.
+
+----- __46.1__ -----2022-01-22 14:26:30+08:00:
 
 I would never ban people from my home based on their vaccination status.  I think doing so is antisocial, inherently unethical and discriminatory.  
 
@@ -314,17 +320,31 @@ I think any step towards normalizing that species of behavior is bad for us, as 
 
 And the idea that the stakes of such a decision even approximate life and death is not only scientifically unsupported, it is pathologically narcissistic.
 
-### 46: [Fraudulent ‘pop-up’ COVID testing centers are rampant. Here are 8 tips to help protect against phony clinics and testing scams.](https://old.reddit.com/r/CoronavirusIllinois/comments/s9nshq/fraudulent_popup_covid_testing_centers_are/), submitted on 2022-01-22 07:11:42+08:00.
+### 47: [Fraudulent ‘pop-up’ COVID testing centers are rampant. Here are 8 tips to help protect against phony clinics and testing scams.](https://old.reddit.com/r/CoronavirusIllinois/comments/s9nshq/fraudulent_popup_covid_testing_centers_are/), submitted on 2022-01-22 07:11:42+08:00.
 
------ __46.1__ -----2022-01-22 07:13:08+08:00:
+----- __47.1__ -----2022-01-22 07:13:08+08:00:
 
 These tips are particularly important, since a lot of these fraudulent testing facilities are just re-opening with a new name as soon as they're shut down.  
 
 Here's the bottom line: use your common sense.  If it smells like bullshit, it probably is.
 
-### 47: [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks](https://old.reddit.com/r/CoronavirusIllinois/comments/s9ntd0/oh_my_fucking_god_get_the_fucking_vaccine_already/), submitted on 2022-01-22 07:12:44+08:00.
+### 48: [Oh My Fucking God, Get the Fucking Vaccine Already, You Fucking Fucks](https://old.reddit.com/r/CoronavirusIllinois/comments/s9ntd0/oh_my_fucking_god_get_the_fucking_vaccine_already/), submitted on 2022-01-22 07:12:44+08:00.
 
------ __47.1__ -----2022-01-22 08:28:44+08:00:
+----- __48.1__ -----2022-01-22 08:28:44+08:00:
 
 Vapid nonsense, not in good faith.  Do not submit this type of content again.
+
+### 49: [UK Intelligence accuses Russia of plotting to install a pro-kremlin leader in Kyiv as it considers whether or not to invade Ukraine.](https://old.reddit.com/r/geopolitics/comments/satgww/uk_intelligence_accuses_russia_of_plotting_to/), submitted on 2022-01-23 21:18:33+08:00.
+
+----- __49.1__ -----2022-01-24 01:44:35+08:00:
+
+> I think I trust UK intelligence experts over Russian ones 
+
+Rather than trying to figure out who has a reliable opinion, look at the facts and figure out what's going on yourself.  Getting the facts straight is the first step to understanding what's happening.  That's the problem here.
+
+----- __49.2__ -----2022-01-24 01:47:30+08:00:
+
+> Putin runs these "pressure tests" of the western bloc relatively frequently, but this one is clearly different. 
+
+What exactly are you claiming is a "pressure test"?
 
