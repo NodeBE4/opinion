@@ -450,6 +450,12 @@ So that's what this is all about. Putin is trying to knee-cap a competitor befor
 
 So you think the British government just made it up?
 
+----- __49.13__ -----2022-01-24 06:54:43+08:00:
+
+> Do you have anything showing exactly what anticipated natural gas reserves are within the Ukrainian EEZ? 
+
+https://www.ukrinform.net/rubric-economy/3191411-ukraine-loses-half-of-its-natural-gas-deposits-due-to-occupation-of-crimea.html
+
 ### 50: [At-Will workers quit their jobs for higher pay, old employer asks court to block them from starting said new jobs until they can re-hire, judge grants injunction preventing them from starting their new jobs.](https://old.reddit.com/r/stupidpol/comments/sav4qs/atwill_workers_quit_their_jobs_for_higher_pay_old/), submitted on 2022-01-23 22:43:52+08:00.
 
 ----- __50.1__ -----2022-01-24 03:10:14+08:00:
