@@ -405,6 +405,29 @@ You're claiming he's testing . . . something.  Yet what the "something" is that 
 
 Again: What is Putin testing? Only Germany, or Germany and something else?
 
+----- __49.9__ -----2022-01-24 03:31:04+08:00:
+
+> and as such it cannot be objectively verified that the claim is true.
+
+Why can't it be verified? Because: 
+
+* Option 1: Because no facts exist to support the claim? 
+* Option 2: Because if such facts exist, the British government didn't say so? 
+* Option 3: Because of the set of facts that do exist in the world to support the claim independently of whatever the British government said, they don't amount to enough evidence?
+
+----- __49.10__ -----2022-01-24 04:32:27+08:00:
+
+> I've been very clear in these comments 
+
+No, you haven't, though I think you think you have.  That's the problem.  You're using terms in ambiguous ways and making arguments that involve a lot of unstated assumptions.
+I'm just trying to figure out what you're actually saying, as well as not saying.
+
+> that I believe that Putin's aim is to increase tensions to see if there is a point where Germany discretely and irreparably breaks from the rest of the west in its response to anticipated Russian aggression.
+
+One of Putin's aims, or Putin's sole aim?
+
+Is Putin trying to test any country on earth other than Germany, in your view?
+
 ### 50: [At-Will workers quit their jobs for higher pay, old employer asks court to block them from starting said new jobs until they can re-hire, judge grants injunction preventing them from starting their new jobs.](https://old.reddit.com/r/stupidpol/comments/sav4qs/atwill_workers_quit_their_jobs_for_higher_pay_old/), submitted on 2022-01-23 22:43:52+08:00.
 
 ----- __50.1__ -----2022-01-24 03:10:14+08:00:
