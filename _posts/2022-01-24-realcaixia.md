@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-24
+date: 2022-01-25
 from: https://twitter.com/realcaixia/status/1485602726750965764
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: 'Twitter @蔡霞: 2022-01-24~2022-01-30'
 ### 2: [2022-01-24 23:13:06+08:00 推文](https://twitter.com/realcaixia/status/1485631754283237376)
 
 总结的好！这是极权主义意识形态长期宣扬的并使大陆许多人以为这就是政治正确。<br>这三个逻辑极为邪恶：把抽去个体的虚假集体神圣化以消解个体；用虚伪的“道德”杀人；统治者以多数名义剥夺少数人的基本权利，并操弄多数。<br>权利必须落实到每个具体的人身上，并且任何人都无权剥夺他人权利，才有正义可言。<br><br>湘女: 警惕三种强盗逻辑：为了抽象的集体，可以牺牲具体的个人；为了崇高的主义，可以放弃鲜活的生命；为了多数人的正义，可以消灭少数人的自由。<br>
+
+### 3: [2022-01-25 05:24:15+08:00 推文](https://twitter.com/realcaixia/status/1485725155729068034)
+
+为何大陆警方随意传讯、处罚、侮辱民众？！为何被警察冤罪之民众明知自己没有错却只能认罚悔改？！<br><br>群里发提醒被定为谣言，认罪后反转了！ <a href="https://mp.weixin.qq.com/s?__biz=MzA4MjE1NDY2MQ==&mid=2247497777&idx=1&sn=8ba24fa7ea4bc8913042ce5ad4e1a96c&chksm=9f88bdfba8ff34ed903b7cd267b9e606b8cbb703105eca771c99b454aaf7fdbed73ef6d1c5d5&mpshare=1&&srcid=01243bAvTEpBOy7kiHzWGXrm&sharer_sharetime=1643000063268&sharer_shareid=2a81b5bda1df21da3546a34832042add&from=groupmessage&scene=1&subscene=10000&clicktime=1643057056&enterid=1643057056#rd" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s?__biz=MzA4MjE1NDY2MQ==&mid=2247497777&idx=1&sn=8ba24fa7ea4bc8913042ce5ad4e1a96c&chksm=9f88bdfba8ff34ed903b7cd267b9e606b8cbb703105eca771c99b454aaf7fdbed73ef6d1c5d5&mpshare=1&&srcid=01243bAvTEpBOy7kiHzWGXrm&sharer_sharetime=1643000063268&sharer_shareid=2a81b5bda1df21da3546a34832042add&from=groupmessage&scene=1&subscene=10000&clicktime=1643057056&enterid=1643057056#rd</a>
 
