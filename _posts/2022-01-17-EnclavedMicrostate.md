@@ -248,3 +248,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 88: [I'm not great at editing but I thought of this meme and had to post it-](https://old.reddit.com/r/Hololive/comments/satxsx/im_not_great_at_editing_but_i_thought_of_this/), submitted on 2022-01-23 21:43:14+08:00.
+
+----- __88.1__ -----2022-01-24 12:13:10+08:00:
+
+To add some etymological detail for those who might not know, the 'Calli' part of 'Calliope' is the same 'calli' in 'calligraphy', and is ancient Greek for 'good' or 'beautiful'. The muse Calliope (Kalliópē) gets her name from *kallós* ('good'/'beautiful') + *óps* ('voice'), which I presume is why Calli's name was originally written with the kanji 美声 which is, well, 'beautiful voice' – until it got changed of course. Anyway, 'calligraphy' derives from *kallós* + *gráphō* ('writing'), so is 'beautiful writing'.
+

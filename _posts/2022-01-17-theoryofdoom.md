@@ -468,3 +468,11 @@ Employers routinely put that kind of language in there, to prevent situations li
 
 I don't expect the injunction to hold up.
 
+----- __50.2__ -----2022-01-24 12:18:34+08:00:
+
+> No one has mentioned a non compete. 
+
+What do you think the old hospital argued was the basis for the old nurses' ineligibility for rehire?  
+
+Some mysterious entitlement to prevent workers from going to work for a competitor, other than a non-compete?
+
