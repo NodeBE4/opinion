@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-24
+date: 2022-01-25
 from: https://old.reddit.com/r/WarCollege/comments/sblx52/why_did_belgium_so_stubbornly_refuse_to_join_the/
 layout: post
 tags:
@@ -17,5 +17,17 @@ title: Commodify在2022-01-24~2022-01-30的言论
 
 ----- __49.1__ -----2022-01-24 22:07:20+08:00:
 
-Because they were smart. The French envisioned a war fought primarily on Belgian soil, to save Northern France from the horrors of the last war. The other option was to attack Germany, but the French believed technology had given war a defensive slant after the experiences of World War 2. Belgium knew that this defensive war would last years and lead to the total destruction of their country. They did everything they could before the war to preserve their neutrality, and when the war broke out surrendered quickly. In the process they saved themselves from immense suffering.
+Because they were smart. The French envisioned a war fought primarily on Belgian soil, to save Northern France from the horrors of the last war. The other option was to attack Germany, but the French believed technology had given war a defensive slant after the experiences of World War 1. Belgium knew that this defensive war would last years and lead to the total destruction of their country. They did everything they could before the war to preserve their neutrality, and when the war broke out surrendered quickly. In the process they saved themselves from immense suffering.
+
+----- __49.2__ -----2022-01-25 03:02:39+08:00:
+
+Yes thanks
+
+### 50: [Has Russia effectively been acting as a military balancer between India and China?](https://old.reddit.com/r/WarCollege/comments/sbsqk3/has_russia_effectively_been_acting_as_a_military/), submitted on 2022-01-25 02:23:59+08:00.
+
+----- __50.1__ -----2022-01-25 02:54:52+08:00:
+
+No. At least not anymore. During the Cold War this was absolutely the case as China and the Soviet Union were direct military adversaries, complete with actual fighting along the border of two nuclear powers. Both tried to surround each other by supporting dissident states around them - China with Romania, Yugoslavia, and Albania and the Soviet Union with North Korea and Vietnam. After the Cold War, the main thing driving Russian arms sales was financial desperation. Though China and Russia did a detente, they still did not trust each other. Nevertheless, Russia - and this being in its "good" years with the West under Yeltsin - did a number of tech transfers to China to solve its cashflow problem.
+
+The Indo-Russian and Vietnamese-Russian relationships are two sided and very sentimental, not a cynical scheme by Russia to undermine its main ally of convenience. India and Russia see each other as something like best friends, and Indian media is as critical of the United States as it is of China. Despite alignment of interests in recent years, the Indian-American relationship is poisoned by decades of American support for Pakistan and the perceived unreliability of the US as an ally owing to its abandonment of Afghanistan and the Kurds and the disrespect with which it treats its other partners. The former struck an especially deep chord because Indians saw Afghanistan as a key front in their proxy war with Pakistan. Russia, meanwhile, has a soft power advantage owing to decades of Soviet support for India. There's a general sentiment in India that while America has to be their main partner of convenience, Russia is their "real friend". The Russians are, of course, all too happy to turn this into arms deals since they need all the financial support they can get.
 

@@ -47,3 +47,7 @@ In short, portrait photographs are the sort of thing you want to get taken, and 
 
 Ah, sorry if the sentence parsed weirdly – I meant the Guangxu Emperor was under house arrest, not Xunling.
 
+----- __90.3__ -----2022-01-25 03:26:15+08:00:
+
+Sure, see [this post](https://www.reddit.com/r/AskHistorians/comments/emt8uy/what_factors_led_to_the_qings_100_days_reform/fe81d97/) which I ought to have linked.
+
