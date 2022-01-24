@@ -43,3 +43,7 @@ In short, portrait photographs are the sort of thing you want to get taken, and 
 
 * Yi Gu, 'Prince Chun Through the Lens: Negotiating the Photographic Medium in Royal Images.' *Ars Orientalis* 43 (2013)
 
+----- __90.2__ -----2022-01-25 01:43:55+08:00:
+
+Ah, sorry if the sentence parsed weirdly – I meant the Guangxu Emperor was under house arrest, not Xunling.
+
