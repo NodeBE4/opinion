@@ -476,3 +476,9 @@ What do you think the old hospital argued was the basis for the old nurses' inel
 
 Some mysterious entitlement to prevent workers from going to work for a competitor, other than a non-compete?
 
+----- __50.3__ -----2022-01-24 20:47:12+08:00:
+
+> If there was a non compete, that would have been mentioned in the initial memo more than "think of patients"
+
+"Think of the patients" is not legal grounds for an injunction, it's a PR strategy.
+
