@@ -25,3 +25,17 @@ They'll get theirs.  The [man is coming around](https://www.youtube.com/watch?v=
 
 Vielen Dank.
 
+### 53: [How are so many redditiors convinced that Critical Race Theory is just "teaching the history of systemic racism" ? It's blatantly not that.](https://old.reddit.com/r/stupidpol/comments/sbl6pj/how_are_so_many_redditiors_convinced_that/), submitted on 2022-01-24 20:31:44+08:00.
+
+----- __53.1__ -----2022-01-25 12:16:17+08:00:
+
+There are a couple of layers to this onion.  
+
+At the surface level, redditors tend to think they have deep and substantive knowledge of things they can't even say more than a sentence about.  Part of the reason for this is because of signals and branding.  What does "critical race theory" sound like?  Critical thinking.  And everyone knows being able to think critically is important, right?  So this critical race theory thing must be related to that and it's probably ok.  Then they listen to someone like Malcolm Nance say a bunch of things on Bill Maher and think "Ah, Malcolm Nance is an alright guy.  He's ok with it, so it couldn't be that bad, right?  I don't understand what all the fuss is about."  That's the beginning and end of their understanding.  If they even got that far.  Which isn't likely.  
+
+But *if* they got that far, the next layer is whether they'll ask the obvious questions about "the fuss."  This mystery is explained with two sets of performances: the outrage and the shell game.  Outrage is performed by the usual heretics, be they Trump supporters, right wing types or parents who have the audacity to show up at school boards.  This spectacle is broadcast for the world to see on the evening news, who takes them as seriously as the town crier.  The shell game is how outrage is analogized.  There is no serious consideration of the particular grievances that gave rise to the outrage; rather it is summarily dismissed, and by doing so, this behavior is reinforced as the only acceptable response of civilized people.  ("Well, I'm a civilized person so I'll do that too.")  There, the discussion has almost certainly ended because there is no limit to how long the shell game can be played.  But in the exceptionally unlikely event it hasn't, we peel back the next layer to the core. 
+
+After the exterior and the shell game, lies the core of why no one has any idea what critical race theory means: the difference between theory and praxis.  The theory is the set of ideas that explains the phenomenon.  Praxis is the synthesis of theory and reality.  Without theory, there is no praxis; but to explain the nature of that connection is no simple undertaking.  Theory can be explained, maybe, in a series of well-constructed paragraphs.  Praxis can manifest in a Tweet of 250 characters or less.  Theory is the stuff of (pseudo)intellectual debate.  Praxis is the reality of wokeness in the culture.  In a way, this can be something like another shell-game.  But it's much deeper than that.  Even if you can make the distinction between theory and praxis, you almost certainly can't do so in a way that will persuade people of the connection between "ideas in a classroom" and "occurrences in reality."  People's attention spans just aren't that long and whoever you're arguing against will leave you lost at the core --- which they probably don't even know how to navigate themselves. 
+
+At each level, the goal is to frustrate sensible communication and divert attention.  And that's not a bug.  It's a feature.
+
