@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-24
+date: 2022-01-25
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/sbb4ss/fbi_searches_center_for_covid_control/
 layout: post
 tags:
@@ -38,4 +38,12 @@ But *if* they got that far, the next layer is whether they'll ask the obvious qu
 After the exterior and the shell game, lies the core of why no one has any idea what critical race theory means: the difference between theory and praxis.  The theory is the set of ideas that explains the phenomenon.  Praxis is the synthesis of theory and reality.  Without theory, there is no praxis; but to explain the nature of that connection is no simple undertaking.  Theory can be explained, maybe, in a series of well-constructed paragraphs.  Praxis can manifest in a Tweet of 250 characters or less.  Theory is the stuff of (pseudo)intellectual debate.  Praxis is the reality of wokeness in the culture.  In a way, this can be something like another shell-game.  But it's much deeper than that.  Even if you can make the distinction between theory and praxis, you almost certainly can't do so in a way that will persuade people of the connection between "ideas in a classroom" and "occurrences in reality."  People's attention spans just aren't that long and whoever you're arguing against will leave you lost at the core --- which they probably don't even know how to navigate themselves. 
 
 At each level, the goal is to frustrate sensible communication and divert attention.  And that's not a bug.  It's a feature.
+
+### 54: [Chicago's Vaccine Mandate For Restaurants, Bars Could Go Away In The Spring, Top Doc Says](https://old.reddit.com/r/CoronavirusIllinois/comments/sc0qpd/chicagos_vaccine_mandate_for_restaurants_bars/), submitted on 2022-01-25 08:59:27+08:00.
+
+----- __54.1__ -----2022-01-25 13:53:32+08:00:
+
+>  Arwady "hopes" that she "could" remove the mandates sometime in the Spring. No dates. No details. No metrics. Nothing. On top of that, we still have no insight into what JB has planned for the statewide mandate.
+
+She has proven herself to be utterly useless, consistently.
 
