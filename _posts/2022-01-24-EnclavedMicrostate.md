@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-01-24
+date: 2022-01-25
 from: https://old.reddit.com/r/AskHistorians/comments/sb3hs8/are_the_ching_shih_stories_true_or_just/
 layout: post
 tags:
@@ -27,7 +27,7 @@ So, to be rather pedantic, there are photos of one emperor who reigned in the 19
 
 This is something with no firm explanation: simply put, people tend to give more reasons for the few things they do, than the many things they don't. However, if we look at the history of Qing imperial portraiture, that of Qing court photography, and that of Qing coup attempts, we do get a few ideas as to why the Guangxu Emperor in particular seems to have gone unphotographed.
 
-Imperial portraiture was always slightly symbolic, and never intended to depict the exact, actual appearance of the emperor at a given time. The face was generally left unchanged, but otherwise emperors were generally shown in peak bodily health and sometimes in exaggerated stature relative to their surroundings. Moreover, these portraits were primarily for use within the imperial clan, and especially the emperor himself; the image of the monarch was not really something for mass distribution in a way comparable to European monarchies. Photographs, then, didn't necessarily fulfil the functions that painted portraits did, at least not any better: they couldn't (yet) be 'brushed up' to emphasise the idealised self-image of the emperor, and their arguably greater reproducibility wasn't a particular draw either.
+Imperial portraiture was always slightly symbolic, and never intended to depict the exact, actual appearance of the emperor at a given time. The face was left mostly unchanged, but otherwise emperors were generally shown in peak bodily health and sometimes in exaggerated stature relative to their surroundings. Moreover, these portraits were primarily for use within the imperial clan, and especially the emperor himself; the image of the monarch was not really something for mass distribution in a way comparable to European monarchies. Photographs, then, didn't necessarily fulfil the functions that painted portraits did, at least not any better: they couldn't (yet) be 'brushed up' to emphasise the idealised self-image of the emperor, and their arguably greater reproducibility wasn't a particular draw either.
 
 More importantly, perhaps, is the simple fact that photographs of imperial family members were generally taken at those people's behest. With the exception of Felix Beato's 1860 photograph of Prince Gong (which took place during the negotiations for the Convention of Peking that ended the Second Opium War), the photographs we have of the Xianfeng Emperor's brothers, Princes Gong and Chun, were taken without significant duress – indeed, Prince Chun, the Guangxu Emperor's father, was particularly photogenic and made a point to pose in casual dress for several photographic portraits, taken principally by Liang Shitai (also known as Seetay). Consort Zhen seems, herself, to have had an interest in photography that led to her being photographed at some point in the late 1890s. The Dowager Empress Cixi's photographic portraits, taken between 1903 and 1904 by a Manchu photographer named Xunling need to be understood in a particular context, as the Qing re-established relations with the foreign powers after the 1900 Boxer Uprising. This period saw suggestions that Cixi embrace Western-style depictions of herself, suggestions she decided to heed, leading to oil portraits by [Katharine Karl](https://upload.wikimedia.org/wikipedia/commons/9/94/The_Empress_Dowager%2C_Tze_Hsi%2C_of_China%2C_by_Katharine_Carl%2C_1904..jpg) in 1904 and [Hubert Vos](https://upload.wikimedia.org/wikipedia/commons/2/23/Hubert_Vos%27s_painting_of_the_Dowager_Empress_Cixi_%28Tzu_Hsi%29.jpg) in 1905, as well as the photographs taken by Xunling.
 
@@ -50,4 +50,10 @@ Ah, sorry if the sentence parsed weirdly – I meant the Guangxu Emperor was und
 ----- __90.3__ -----2022-01-25 03:26:15+08:00:
 
 Sure, see [this post](https://www.reddit.com/r/AskHistorians/comments/emt8uy/what_factors_led_to_the_qings_100_days_reform/fe81d97/) which I ought to have linked.
+
+### 91: [The State of HoloNeko](https://old.reddit.com/r/Hololive/comments/sc5m3d/the_state_of_holoneko/), submitted on 2022-01-25 12:58:38+08:00.
+
+----- __91.1__ -----2022-01-25 16:31:22+08:00:
+
+Noel should be in the 'can use other animal ears' category because she has the cow ears.
 
