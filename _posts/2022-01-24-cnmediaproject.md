@@ -3,7 +3,7 @@ author: cnmediaproject
 categories:
 - Twitter
 date: 2022-01-25
-from: https://twitter.com/cnmediaproject/status/1485851888860172288
+from: https://twitter.com/adschina/status/1485665882902835205
 layout: post
 tags:
 - Twitter
@@ -15,27 +15,35 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1: [2022-01-25 13:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1485851888860172288)
+### 1: [2022-01-25 01:28:43+08:00 推文](https://twitter.com/adschina/status/1485665882902835205)
+
+RT Adam Segal<br>Jack Ma's Ant Group implicated in corruption scandal by Chinese media <br><br><br><br>CCTV aired a documentary featuring claims that private companies received help from Hangzhou’s former party secretary Zhou Jiangyong to acquire cheap land before he was arrested <a href="https://asia.nikkei.com/Business/China-tech/Jack-Ma-s-Ant-Group-implicated-in-corruption-scandal-by-Chinese-media" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Business/China-tech/Jack-Ma-s-Ant-Group-implicated-in-corruption-scandal-by-Chinese-media</a>
+
+### 2: [2022-01-25 13:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1485851888860172288)
 
 Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style="" src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 2: [2022-01-25 14:01:27+08:00 推文](https://twitter.com/cnmediaproject/status/1485855315270991878)
+### 3: [2022-01-25 14:01:27+08:00 推文](https://twitter.com/cnmediaproject/status/1485855315270991878)
 
 Re In her latest article, Stella Chen looks at the conversation, official and unofficial, around the "going out" of Chinese games as a source of international cultural influence.<br><img style="" src="https://pbs.twimg.com/media/FJ7RhM0aAAMSiDQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 3: [2022-01-25 15:54:23+08:00 推文](https://twitter.com/cnmediaproject/status/1485883735262515202)
+### 4: [2022-01-25 15:54:23+08:00 推文](https://twitter.com/cnmediaproject/status/1485883735262515202)
 
 Re @DigiChn @yingeli @China_Digital @hunter_dorwart @nev_kev @kendraschaefer @johannamcostig1 @gwbstr @StanfordCyber This is a massive labor of what can only be love. Thank you to @DigiChn!
 
-### 4: [2022-01-25 16:41:35+08:00 推文](https://twitter.com/China_Digital/status/1485895611874516995)
+### 5: [2022-01-25 16:41:35+08:00 推文](https://twitter.com/China_Digital/status/1485895611874516995)
 
 RT China Digital<br>"In the course of his exhaustive surveys of Chinese official documentation, the analyst must absorb industrial quantities of the most indigestible stuff; reading Communist literature is akin to munching rhinoceros sausage, or to swallowing sawdust by the bucketful." - Simon Leys<br><br>China Media Project: @DigiChn @yingeli @China_Digital @hunter_dorwart @nev_kev @kendraschaefer @johannamcostig1 @gwbstr @StanfordCyber This is a massive labor of what can only be love. Thank you to @DigiChn!<br>
 
-### 5: [2022-01-25 20:47:48+08:00 推文](https://twitter.com/cnmediaproject/status/1485957577951551490)
+### 6: [2022-01-25 19:10:33+08:00 推文](https://twitter.com/ZhaoyinFeng/status/1485933104137228289)
+
+RT Zhaoyin Feng<br>This is also the most heartbreaking line for me.<br><br>When you are afraid to speak in your mother tongue, as it may make you seem "more like a spy". It's so unfair and unjust.<br><br>Josh Chin: Lots of gut-punch lines here. For some reason this one, from when his wife watched him being dragged away, really sticks: <br><br>“I didn’t dare use Chinese — because I spoke with her in Mandarin, right, most of the time — but I didn’t dare to use Chinese.”<br> <a href="https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/01/24/science/gang-chen-mit-china.html</a>
+
+### 7: [2022-01-25 20:47:48+08:00 推文](https://twitter.com/cnmediaproject/status/1485957577951551490)
 
 Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 6: [2022-01-25 20:52:51+08:00 推文](https://twitter.com/AlexDukalskis/status/1485958845973385216)
+### 8: [2022-01-25 20:52:51+08:00 推文](https://twitter.com/AlexDukalskis/status/1485958845973385216)
 
 RT Alex Dukalskis<br>Good move here by @VUamsterdam - wish UCD would take this issue 10% as seriously as it should. <a href="https://www.theguardian.com/world/2022/jan/25/dutch-university-gives-up-chinese-funding-due-to-impartiality-concerns" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/jan/25/dutch-university-gives-up-chinese-funding-due-to-impartiality-concerns</a>
 
