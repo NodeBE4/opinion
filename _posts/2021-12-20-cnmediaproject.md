@@ -41,7 +41,7 @@ RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propagan
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
-RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style="" src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-20 21:54:29+08:00 推文](https://twitter.com/muyixiao/status/1472928395621187592)
 
@@ -65,7 +65,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
-Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style="" src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 

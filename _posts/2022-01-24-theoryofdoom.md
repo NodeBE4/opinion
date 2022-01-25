@@ -47,3 +47,9 @@ At each level, the goal is to frustrate sensible communication and divert attent
 
 She has proven herself to be utterly useless, consistently.
 
+----- __54.2__ -----2022-01-25 21:10:49+08:00:
+
+Arwady is an incompetent farce.  Her proposed "mitigations" bear no relationship whatsoever to any "metric."  Everything she has proposed has failed to accomplish its intended result, without exception --- a predictable result of anti-democratic, top-down mismanagement.  Which is to say nothing of the profoundly discriminatory character of these vapid, scientifically unsupported vaccine mandates.
+
+She has lost the narrative and likewise seemingly lost her mind.
+
