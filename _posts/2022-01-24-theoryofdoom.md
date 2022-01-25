@@ -19,3 +19,9 @@ title: theoryofdoom在2022-01-24~2022-01-30的言论
 
 They'll get theirs.  The [man is coming around](https://www.youtube.com/watch?v=jifaNxq7IG8).
 
+### 52: [Kiews Bürgermeister Klitschko wirft Deutschland unterlassene Hilfeleistung vor](https://old.reddit.com/r/de/comments/sbj5ku/kiews_bürgermeister_klitschko_wirft_deutschland/), submitted on 2022-01-24 18:27:48+08:00.
+
+----- __52.1__ -----2022-01-25 09:16:08+08:00:
+
+Vielen Dank.
+
