@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-01-25
+date: 2022-01-26
 from: https://old.reddit.com/r/Coronavirus/comments/sbn07p/the_pandemic_of_unknowns_reaching_a_new_normal_in/
 layout: post
 tags:
@@ -27,4 +27,11 @@ title: ForeignAffairsMag在2022-01-24~2022-01-30的言论
 
 \[SS from the article by Michael T. Osterholm, Director of the Center for Infectious Disease Research and Policy at the University of Minnesota. and Mark Olshaker, writer and documentary filmmaker.\]  
 "The COVID-19 pandemic has so far followed a different pattern with the emergence of more highly infectious SARS-CoV-2 variants that can evade the protection and immunity afforded by vaccination and previous infection. The track record of influenza pandemics, therefore, cannot offer a great deal of guidance as to how this pandemic will end. Beyond expertise and knowledge, trying to map out the future course of this disease requires humility. Governments and international institutions must recognize that they cannot have all the answers and prepare for the unknown."
+
+### 107: [Lost Innocents: The U.S. Military’s Shameful Failure to Protect Civilians](https://old.reddit.com/r/TrueReddit/comments/scondy/lost_innocents_the_us_militarys_shameful_failure/), submitted on 2022-01-26 05:38:20+08:00.
+
+----- __107.1__ -----2022-01-26 05:42:15+08:00:
+
+\[SS from the article by Sarah (Holewinski) Yager, Washington Director at Human Rights Watch\]  
+“I believed the Defense Department back in 2013 when it said protecting civilians was a priority. And when I worked side by side with so many good officers in the Joint Staff, I had hope that their deep belief in how hard the U.S. military tries to avoid killing civilians would make it true. But my trust has been shattered. More important, the credibility of the United States as a moral, lawful actor in armed conflict is in jeopardy.”
 
