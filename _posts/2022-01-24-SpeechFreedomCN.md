@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-01-24
+date: 2022-01-26
 from: https://twitter.com/SpeechFreedomCN/status/1485535362046996481
 layout: post
 tags:
@@ -21,5 +21,13 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-24~2022-01-30'
 
 ### 2: [2022-01-24 16:51:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1485535673272651781)
 
-Chengdu man Pu Zhengbao administratively detained for 10 days for "Attacking the Party and state leaders and posting Hong Kong related negative remarks" on Twitter.<br><img style="" src="https://pbs.twimg.com/media/FJ2ukSRXwAM10DC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Chengdu man Pu Zhengbao administratively detained for 10 days for "Attacking the Party and state leaders and posting Hong Kong related negative remarks" on Twitter.<br><img style src="https://pbs.twimg.com/media/FJ2ukSRXwAM10DC?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-01-26 22:11:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1486341053116567554)
+
+浙江省台州市女子易某，因在朋友圈发文称“今天又被狗咬了”，并配图交通罚单照片，被认定为侮辱交警并被拘留6日。<br><video src="https://video.twimg.com/ext_tw_video/1486341027573256194/pu/vid/540x960/Xmb4oZfRC3rKu3CG.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1486341027573256194/pu/img/9oHeqiBXnbPqS_cU.jpg"></video>
+
+### 4: [2022-01-26 22:13:43+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1486341585717678081)
+
+Zhejiang woman Yi detained for 6 days for posting a piece of content in WeChat Moments  that said “Got bitten by dogs again today”. The content included a photo of traffic violation ticket thus police claimed it was to humiliate them.<br><video src="https://video.twimg.com/ext_tw_video/1486341027573256194/pu/vid/540x960/Xmb4oZfRC3rKu3CG.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1486341027573256194/pu/img/9oHeqiBXnbPqS_cU.jpg"></video>
 
