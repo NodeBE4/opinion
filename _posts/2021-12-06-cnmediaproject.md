@@ -57,7 +57,7 @@ Topping page one of the People's Daily today -- the release of a new book on hum
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -65,27 +65,27 @@ RT Bill Bishop<br>14k+ character people's daily article-Summary of General Sec
 
 ### 13: [2021-12-08 08:20:58+08:00 推文](https://twitter.com/cnmediaproject/status/1468375013317570560)
 
-Re The book's publication is big news, right? And editors would freely choose to place it in a prominent spot next to the masthead. . . . No, that's not how it works. They are under strict instructions to run the release, and to place it exactly here. Economic Daily. Look familiar?<br><img style="" src="https://pbs.twimg.com/media/FGC3GKPVEAQ2XXx?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book's publication is big news, right? And editors would freely choose to place it in a prominent spot next to the masthead. . . . No, that's not how it works. They are under strict instructions to run the release, and to place it exactly here. Economic Daily. Look familiar?<br><img style src="https://pbs.twimg.com/media/FGC3GKPVEAQ2XXx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-08 08:24:04+08:00 推文](https://twitter.com/cnmediaproject/status/1468375793504239616)
 
-Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style="" src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
-Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style="" src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
-Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style="" src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
-Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style="" src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
@@ -133,15 +133,15 @@ Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science 
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
-Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
-Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-09 09:49:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468759639550734336)
 
-Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style="" src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
@@ -153,7 +153,7 @@ Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted t
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
-Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 

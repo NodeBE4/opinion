@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-01-25
+date: 2022-01-26
 from: https://twitter.com/adschina/status/1485665882902835205
 layout: post
 tags:
@@ -21,7 +21,7 @@ RT Adam Segal<br>Jack Ma's Ant Group implicated in corruption scandal by Chine
 
 ### 2: [2022-01-25 13:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1485851888860172288)
 
-Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style="" src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-25 14:01:27+08:00 推文](https://twitter.com/cnmediaproject/status/1485855315270991878)
 
@@ -41,9 +41,13 @@ RT Zhaoyin Feng<br>This is also the most heartbreaking line for me.<br><br>Whe
 
 ### 7: [2022-01-25 20:47:48+08:00 推文](https://twitter.com/cnmediaproject/status/1485957577951551490)
 
-Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-25 20:52:51+08:00 推文](https://twitter.com/AlexDukalskis/status/1485958845973385216)
 
 RT Alex Dukalskis<br>Good move here by @VUamsterdam - wish UCD would take this issue 10% as seriously as it should. <a href="https://www.theguardian.com/world/2022/jan/25/dutch-university-gives-up-chinese-funding-due-to-impartiality-concerns" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/jan/25/dutch-university-gives-up-chinese-funding-due-to-impartiality-concerns</a>
+
+### 9: [2022-01-26 14:24:38+08:00 推文](https://twitter.com/ABPevzner/status/1486223537060950017)
+
+RT Alexander B. Pevzner 裴則男<br>#China #media further tightening - 'resist vulgarities and stick to your day job,' Central Propaganda Dept., National Radio and Television Administration tell announcers and anchors in notice. "Focus on your work, proactively steer clear from fame and profit..1/4 @cnmediaproject
 
