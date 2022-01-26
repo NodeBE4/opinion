@@ -506,3 +506,9 @@ As previously indicated:
 
 So you haven't reviewed the nurses' employment agreement?
 
+----- __50.8__ -----2022-01-26 13:42:36+08:00:
+
+You have never seen the document whose contents you're speculating about.  You don't understand the remedy sought by the prior hospital (read: injunctive relief) or the basis for it, much less the difference between injunctive relief and anything else (or the circumstances surrounding how either are obtained).  It's not even clear you understand what a non-compete is, have ever actually read an employment agreement or negotiated one.  Much less have anything even vaguely approximating an understanding of the routine terms contained in any such agreement.  In fact, it's not even obvious you understood that tortious interference involved interference with a contractual expectation.  
+
+And yet, you still have the audacity to ask a question like that?
+
