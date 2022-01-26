@@ -151,6 +151,12 @@ Biden has not said "economic only."   Here is what Biden [actually said](https:/
 
 Unilateral American military action that would break Article 5 is off the table, but [that's it](https://www.reddit.com/r/geopolitics/comments/ruqj3e/biden_reaffirms_support_for_ukraine_in_phone_call/hr5ejwv/).
 
+----- __3.12__ -----2022-01-26 11:48:18+08:00:
+
+> In the context of the current crisis in Ukraine military option is off the table.
+
+[Hardly](https://www.politico.com/news/2022/01/25/russia-us-tensions-troops-ukraine-00001778).
+
 ### 4: [AOC ragebait pt. 2](https://old.reddit.com/r/stupidpol/comments/rv53mj/aoc_ragebait_pt_2/), submitted on 2022-01-04 00:08:03+08:00.
 
 ----- __4.1__ -----2022-01-04 10:29:50+08:00:

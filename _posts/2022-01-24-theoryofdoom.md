@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-25
+date: 2022-01-26
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/sbb4ss/fbi_searches_center_for_covid_control/
 layout: post
 tags:
@@ -52,4 +52,11 @@ She has proven herself to be utterly useless, consistently.
 Arwady is an incompetent farce.  Her proposed "mitigations" bear no relationship whatsoever to any "metric."  Everything she has proposed has failed to accomplish its intended result, without exception --- a predictable result of anti-democratic, top-down mismanagement.  Which is to say nothing of the profoundly discriminatory character of these vapid, scientifically unsupported vaccine mandates.
 
 She has lost the narrative and likewise seemingly lost her mind.
+
+### 55: [‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe](https://old.reddit.com/r/geopolitics/comments/scwdhk/we_have_a_sacred_obligation_biden_threatens_to/), submitted on 2022-01-26 11:41:30+08:00.
+
+----- __55.1__ -----2022-01-26 11:59:51+08:00:
+
+Submission Statement:  Today Joe Biden has threatened to deploy American troops to Eastern Europe in response to further Russian provocations related to Ukraine.   Biden did not identify a location for proposed deployment.  For now, Biden said he would not deploy troops to Ukraine.  Whether that changes remains to be seen. 
+ Before, the Biden administration prevaricated on whether or under what circumstances he would consider military options of any kind. According to John Kirby (Pentagon spokesman), the main purpose of such a deployment would be to reinforce Article 5 guarantees, over concerns of smaller NATO member-countries that the United States and others would fail to meet their defense obligations in the face of a Russian attack.
 

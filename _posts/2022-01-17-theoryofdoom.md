@@ -482,3 +482,11 @@ Some mysterious entitlement to prevent workers from going to work for a competit
 
 "Think of the patients" is not legal grounds for an injunction, it's a PR strategy.
 
+----- __50.4__ -----2022-01-26 12:21:41+08:00:
+
+The prior hospital sought injunctive relief against its competitor.  That's a type of remedy which prevents the nurses from being hired.  The particular contractual expectation with which the competitor hospital is accused of tortiously interfering seemingly did not occur to you.  It turns out that if you induce a party to breach, that may make you liable for tortious interference.  What might the nurses be breaching, you might wonder?  Their non-competes, obviously.  That should have been a dead give-away based on any discussion of eligibility for rehire.  Clearly, you missed it. 
+
+Your speculation about what the adverse hospital might or might not have done or why is incoherent.  To pursue that remedy against an array of former employees would involve undue/unnecessary expense, tedium and impracticality.  Other remedies/relief remain available, which the hospital would be free to pursue against the nurses individually if they actually became employed.  Though for economic reasons, the prior hospital would obviously focus its efforts on its competitor and not the former employees.  
+
+This isn't complicated.  Absent anything coherent to establish otherwise, I am not inclined to respond further.  If you should so choose, link whatever you think establishes whatever you think you understand (which, I note, you have failed to do thus far).
+
