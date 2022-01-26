@@ -490,3 +490,19 @@ Your speculation about what the adverse hospital might or might not have done or
 
 This isn't complicated.  Absent anything coherent to establish otherwise, I am not inclined to respond further.  If you should so choose, link whatever you think establishes whatever you think you understand (which, I note, you have failed to do thus far).
 
+----- __50.5__ -----2022-01-26 12:57:56+08:00:
+
+> All I've said is IF they had some form of non compete clause in the hiring contracts, they would have mentioned it in /r/nursing/comments/s8tdki/shots_fired_our_ceo_is_out_for_blood/ these kinds of documents. In the absence of that being mentioned, there is no reason to speculate a non compete ever existed.
+
+Literally not even the whole document ... smh
+
+----- __50.6__ -----2022-01-26 13:02:43+08:00:
+
+As previously indicated: 
+
+> If you should so choose, link whatever you think establishes whatever you think you understand (which, I note, you have failed to do thus far).
+
+----- __50.7__ -----2022-01-26 13:14:21+08:00:
+
+So you haven't reviewed the nurses' employment agreement?
+

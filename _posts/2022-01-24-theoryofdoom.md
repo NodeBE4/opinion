@@ -60,3 +60,7 @@ She has lost the narrative and likewise seemingly lost her mind.
 Submission Statement:  Today Joe Biden has threatened to deploy American troops to Eastern Europe in response to further Russian provocations related to Ukraine.   Biden did not identify a location for proposed deployment.  For now, Biden said he would not deploy troops to Ukraine.  Whether that changes remains to be seen. 
  Before, the Biden administration prevaricated on whether or under what circumstances he would consider military options of any kind. According to John Kirby (Pentagon spokesman), the main purpose of such a deployment would be to reinforce Article 5 guarantees, over concerns of smaller NATO member-countries that the United States and others would fail to meet their defense obligations in the face of a Russian attack.
 
+----- __55.2__ -----2022-01-26 12:59:51+08:00:
+
+Can you fix the formatting on this comment so it isn't shaded?
+
