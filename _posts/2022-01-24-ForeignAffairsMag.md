@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-01-26
+date: 2022-01-28
 from: https://old.reddit.com/r/Coronavirus/comments/sbn07p/the_pandemic_of_unknowns_reaching_a_new_normal_in/
 layout: post
 tags:
@@ -34,4 +34,12 @@ title: ForeignAffairsMag在2022-01-24~2022-01-30的言论
 
 \[SS from the article by Sarah (Holewinski) Yager, Washington Director at Human Rights Watch\]  
 “I believed the Defense Department back in 2013 when it said protecting civilians was a priority. And when I worked side by side with so many good officers in the Joint Staff, I had hope that their deep belief in how hard the U.S. military tries to avoid killing civilians would make it true. But my trust has been shattered. More important, the credibility of the United States as a moral, lawful actor in armed conflict is in jeopardy.”
+
+### 108: [The Putin Doctrine: A Move on Ukraine Has Always Been Part of the Plan](https://old.reddit.com/r/geopolitics/comments/se97qi/the_putin_doctrine_a_move_on_ukraine_has_always/), submitted on 2022-01-28 05:29:37+08:00.
+
+----- __108.1__ -----2022-01-28 05:30:30+08:00:
+
+\[SS from the article by Angela Stent, Nonresident Senior Fellow at the Brookings Institution and a former U.S. National Intelligence Officer for Russia and Eurasia.\]
+
+"Putin may still decide not to invade. But whether he does or not, the Russian president’s behavior is being driven by an interlocking set of foreign policy principles that suggest Moscow will be disruptive in the years to come. Call it “the Putin doctrine.” The core element of this doctrine is getting the West to treat Russia as if it were the Soviet Union, a power to be respected and feared, with special rights in its neighborhood and a voice in every serious international matter. The doctrine holds that only a few states should have this kind of authority, along with complete sovereignty, and that others must bow to their wishes. It entails defending incumbent authoritarian regimes and undermining democracies. And the doctrine is tied together by Putin’s overarching aim: reversing the consequences of the Soviet collapse, splitting the transatlantic alliance, and renegotiating the geographic settlement that ended the Cold War."
 
