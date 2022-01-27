@@ -45,7 +45,7 @@ CMP continues to watch Chinese discourse dry . . . so you don't have to. Our lat
 
 ### 8: [2021-12-29 17:54:28+08:00 推文](https://twitter.com/cnmediaproject/status/1476129481417183234)
 
-Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style="" src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 00:40:53+08:00 推文](https://twitter.com/niubi/status/1476231759662665737)
 
