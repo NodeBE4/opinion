@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-26
+date: 2022-01-27
 from: https://twitter.com/realcaixia/status/1485602726750965764
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re @xwpajq_dayu @lianchaohan 前几年国内微信群就流传过这个段子。
 ### 6: [2022-01-26 21:40:36+08:00 推文](https://twitter.com/realcaixia/status/1486333250490540032)
 
 💥💥💥中國高超音速導彈專家投誠美國！美國駐京使館決定撤離！威斯康星州議會投票決定撤回選舉人票…… <a href="https://youtu.be/Zb0ty-yzPXQ" target="_blank" rel="noopener noreferrer">https://youtu.be/Zb0ty-yzPXQ</a>
+
+### 7: [2022-01-27 02:56:38+08:00 推文](https://twitter.com/realcaixia/status/1486412784099282953)
+
+我上一则转发YouTube评论就是说有一名中国导弹专家投奔自由飞到了美国。下面一堆网军粉红赶紧洗地。现在再转一则媒体消息证实这个消息。<br><br>草祭: 英國《每日快報》稱，中共一名導彈科學家在英國軍情六處協助下逃離中國，投奔自由。此人為火箭技術專家，隸屬於《中國航空工業集團公司》，他幫助研發了能夠攜帶東風-17飛彈、射程達2000英里的中程高超音速助推滑翔飛行器，並參與了更為先進的超高音速導彈運載系統研發，目前已與家人一起飛往美國。<br><br><img style="" src="https://pbs.twimg.com/media/FKAYNQcaUAAxb2o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-01-27 06:08:25+08:00 推文](https://twitter.com/realcaixia/status/1486461047443701765)
+
+CNN证实：美驻华外交官百人撤离中国！英媒：军情六处助中国导弹专家叛逃！周江勇大案通报马云步步心惊：勾结资本家族腐败；美军证实：F35坠毁南海；... <a href="https://youtu.be/Y1BAI_huj5s" target="_blank" rel="noopener noreferrer">https://youtu.be/Y1BAI_huj5s</a>
 
