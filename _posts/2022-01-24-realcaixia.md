@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-01-24~2022-01-30'
 
 ### 3: [2022-01-25 05:24:15+08:00 推文](https://twitter.com/realcaixia/status/1485725155729068034)
 
-为何大陆警方随意传讯、处罚、侮辱民众？！为何被警察冤罪之民众明知自己没有错却只能认罚悔改？！<br><br>群里发提醒被定为谣言，认罪后反转了！ <a href="https://mp.weixin.qq.com/s?__biz=MzA4MjE1NDY2MQ==&amp;mid=2247497777&amp;idx=1&amp;sn=8ba24fa7ea4bc8913042ce5ad4e1a96c&amp;chksm=9f88bdfba8ff34ed903b7cd267b9e606b8cbb703105eca771c99b454aaf7fdbed73ef6d1c5d5&amp;mpshare=1&amp;&amp;srcid=01243bAvTEpBOy7kiHzWGXrm&amp;sharer_sharetime=1643000063268&amp;sharer_shareid=2a81b5bda1df21da3546a34832042add&amp;from=groupmessage&amp;scene=1&amp;subscene=10000&amp;clicktime=1643057056&amp;enterid=1643057056#rd" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s?__biz=MzA4MjE1NDY2MQ==&amp;mid=2247497777&amp;idx=1&amp;sn=8ba24fa7ea4bc8913042ce5ad4e1a96c&amp;chksm=9f88bdfba8ff34ed903b7cd267b9e606b8cbb703105eca771c99b454aaf7fdbed73ef6d1c5d5&amp;mpshare=1&amp;&amp;srcid=01243bAvTEpBOy7kiHzWGXrm&amp;sharer_sharetime=1643000063268&amp;sharer_shareid=2a81b5bda1df21da3546a34832042add&amp;from=groupmessage&amp;scene=1&amp;subscene=10000&amp;clicktime=1643057056&amp;enterid=1643057056#rd</a>
+为何大陆警方随意传讯、处罚、侮辱民众？！为何被警察冤罪之民众明知自己没有错却只能认罚悔改？！<br><br>群里发提醒被定为谣言，认罪后反转了！ <a href="https://mp.weixin.qq.com/s?__biz=MzA4MjE1NDY2MQ==&mid=2247497777&idx=1&sn=8ba24fa7ea4bc8913042ce5ad4e1a96c&chksm=9f88bdfba8ff34ed903b7cd267b9e606b8cbb703105eca771c99b454aaf7fdbed73ef6d1c5d5&mpshare=1&&srcid=01243bAvTEpBOy7kiHzWGXrm&sharer_sharetime=1643000063268&sharer_shareid=2a81b5bda1df21da3546a34832042add&from=groupmessage&scene=1&subscene=10000&clicktime=1643057056&enterid=1643057056#rd" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s?__biz=MzA4MjE1NDY2MQ==&mid=2247497777&idx=1&sn=8ba24fa7ea4bc8913042ce5ad4e1a96c&chksm=9f88bdfba8ff34ed903b7cd267b9e606b8cbb703105eca771c99b454aaf7fdbed73ef6d1c5d5&mpshare=1&&srcid=01243bAvTEpBOy7kiHzWGXrm&sharer_sharetime=1643000063268&sharer_shareid=2a81b5bda1df21da3546a34832042add&from=groupmessage&scene=1&subscene=10000&clicktime=1643057056&enterid=1643057056#rd</a>
 
 ### 4: [2022-01-26 02:24:00+08:00 推文](https://twitter.com/realcaixia/status/1486042182482108416)
 
@@ -46,4 +46,32 @@ Re @xwpajq_dayu @lianchaohan 前几年国内微信群就流传过这个段子。
 ### 8: [2022-01-27 06:08:25+08:00 推文](https://twitter.com/realcaixia/status/1486461047443701765)
 
 CNN证实：美驻华外交官百人撤离中国！英媒：军情六处助中国导弹专家叛逃！周江勇大案通报马云步步心惊：勾结资本家族腐败；美军证实：F35坠毁南海；... <a href="https://youtu.be/Y1BAI_huj5s" target="_blank" rel="noopener noreferrer">https://youtu.be/Y1BAI_huj5s</a>
+
+### 9: [2022-01-27 22:22:38+08:00 推文](https://twitter.com/realcaixia/status/1486706217418465280)
+
+浦志强：我家小区封闭了：来自怡海花园的小报告（一） - YouTube <a href="https://m.youtube.com/watch?v=6IenSpD19w4" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=6IenSpD19w4</a>
+
+### 10: [2022-01-27 22:38:43+08:00 推文](https://twitter.com/realcaixia/status/1486710262992306184)
+
+浦志强：我家小区封闭了：来自怡海花园的小报告（二） <a href="https://youtu.be/nNXPa46HMag" target="_blank" rel="noopener noreferrer">https://youtu.be/nNXPa46HMag</a>
+
+### 11: [2022-01-27 22:39:19+08:00 推文](https://twitter.com/realcaixia/status/1486710417049014274)
+
+浦志强：我家小区被封了：来自怡海花园的“小报告”（三） <a href="https://youtu.be/0IMOrvr3XEg" target="_blank" rel="noopener noreferrer">https://youtu.be/0IMOrvr3XEg</a>
+
+### 12: [2022-01-27 22:40:55+08:00 推文](https://twitter.com/realcaixia/status/1486710819765338116)
+
+浦志强：来自怡海花园的“小报告”（六） <a href="https://youtu.be/b8Rj05A6C_4" target="_blank" rel="noopener noreferrer">https://youtu.be/b8Rj05A6C_4</a>
+
+### 13: [2022-01-27 22:43:36+08:00 推文](https://twitter.com/realcaixia/status/1486711495610093569)
+
+大陆民众最朴实的思考，很有力的问题！<br><br>流氓战机Unicornliumangzhanji惡意流氓: 哪位推友發的?都傳遍墻內了，點讚<br><br><img style="" src="https://pbs.twimg.com/media/FKAsEEqaUAMqExD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-01-27 22:47:34+08:00 推文](https://twitter.com/realcaixia/status/1486712491769958416)
+
+这个概括总结很到位！精辟！<br><br>韩连潮: 【中共意识形态】马列主义中国化实质是把农民流氓无产阶级意识观念（成王败寇坐地分赃论功行赏）以及千年的帝王思想（君权神授至高无上绝对正确）和马列暴力革命暴力专政揉合。孙中山对国人的帝王思想做过深刻批判，认为是阻碍中国民主的主要障碍，我深以为是。求帝王思想的翻译imperial aspirations？<br><br><img style="" src="https://pbs.twimg.com/media/FKHTBG4UYAAaqxE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-01-27 22:55:49+08:00 推文](https://twitter.com/realcaixia/status/1486714567317069841)
+
+江峰这期漫谈的最后几句话最有份量！他给我的启发就是：反人性的极权统治机制战胜不了人性！<br><br>中共超高音速导弹专家携关键数据全家出逃，中共武统台湾对美国终极威慑梦碎【江峰漫談20220126第431期】 <a href="https://youtu.be/3XkXsRPNsdI" target="_blank" rel="noopener noreferrer">https://youtu.be/3XkXsRPNsdI</a>
 
