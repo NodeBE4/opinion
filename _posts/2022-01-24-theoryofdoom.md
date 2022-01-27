@@ -53,6 +53,22 @@ Arwady is an incompetent farce.  Her proposed "mitigations" bear no relationship
 
 She has lost the narrative and likewise seemingly lost her mind.
 
+----- __54.3__ -----2022-01-27 10:06:33+08:00:
+
+> Covid vaccines are non-sterilizing
+
+You need to be clear that you're referring to sterilizing immunity and distinguish that from "immunity" conferred that is less than sterilizing immunity.  
+
+It would also be good to explain the difference between "sterilizing immunity" and what it means to be "sterilized," because even though those words sound similar they're totally different.
+
+----- __54.4__ -----2022-01-27 10:11:11+08:00:
+
+> I think the biggest difference between someone like you and someone like me is that you still trust the government. Whereas I'm sitting here thinking "How could anyone still trust the government?"
+> 
+> Public health officials have destroyed their own credibility. Just to give some examples.
+
+Most of those examples are pretty far off topic and, frankly, old news.  Your argument is that there's more than ample evidence to be skeptical of anyone speaking on these issues right now.  The people who agree with you already agreed with you before you wrote the post.  The people who disagree aren't going to be persuaded to change their minds based on what you wrote.  They're just going to dig their heels in deeper.
+
 ### 55: [‘We have a sacred obligation’: Biden threatens to send troops to Eastern Europe](https://old.reddit.com/r/geopolitics/comments/scwdhk/we_have_a_sacred_obligation_biden_threatens_to/), submitted on 2022-01-26 11:41:30+08:00.
 
 ----- __55.1__ -----2022-01-26 11:59:51+08:00:
