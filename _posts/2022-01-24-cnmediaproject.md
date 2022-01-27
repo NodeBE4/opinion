@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-01-26
+date: 2022-01-27
 from: https://twitter.com/adschina/status/1485665882902835205
 layout: post
 tags:
@@ -50,4 +50,16 @@ RT Alex Dukalskis<br>Good move here by @VUamsterdam - wish UCD would take this
 ### 9: [2022-01-26 14:24:38+08:00 推文](https://twitter.com/ABPevzner/status/1486223537060950017)
 
 RT Alexander B. Pevzner 裴則男<br>#China #media further tightening - 'resist vulgarities and stick to your day job,' Central Propaganda Dept., National Radio and Television Administration tell announcers and anchors in notice. "Focus on your work, proactively steer clear from fame and profit..1/4 @cnmediaproject
+
+### 10: [2022-01-26 20:51:25+08:00 推文](https://twitter.com/samgeall/status/1486320875683127299)
+
+RT Sam Geall<br>Incredible multimedia reporting, telling a massively important story about the complexity of supply chains today and how easily sustainability efforts can be undermined <a href="https://chinadialogue.net/en/food/from-palm-to-plate-tracing-sustainable-palm-oil-along-the-supply-chain/" target="_blank" rel="noopener noreferrer">https://chinadialogue.net/en/food/from-palm-to-plate-tracing-sustainable-palm-oil-along-the-supply-chain/</a>
+
+### 11: [2022-01-26 22:42:33+08:00 推文](https://twitter.com/AlexDukalskis/status/1486348841930661896)
+
+RT Alex Dukalskis<br>Pet peeve: when people discussing diplomacy say "the Russians" want X or "the Americans" are doing Y or we can't get "the Chinese" to do Z. They're really talking about decisions by a very small number of state elites, not the collective wills of entire populations.
+
+### 12: [2022-01-27 08:59:34+08:00 推文](https://twitter.com/cnmediaproject/status/1486504116910440448)
+
+Promoting the "going out" of China's gaming industry is now seen by the CCP as an important way of "telling the China story well" and expanding global influence. We look at this trend (with a touch of fun) in "Gaming for the China Story." <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FKEfi7zaQAMCKoA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
