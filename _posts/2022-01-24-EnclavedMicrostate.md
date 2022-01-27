@@ -63,9 +63,15 @@ Noel should be in the 'can use other animal ears' category because she has the c
 
 Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
-### 93: [How many decks would an 18th century brigantine ship have had?](https://old.reddit.com/r/AskHistorians/comments/sdstbh/how_many_decks_would_an_18th_century_brigantine/), submitted on 2022-01-27 15:28:16+08:00.
+### 93: [Can anyone help translate what these symbols on the lucky coins mean?](https://old.reddit.com/r/ChineseTranslation/comments/sddx10/can_anyone_help_translate_what_these_symbols_on/), submitted on 2022-01-27 03:18:06+08:00.
 
------ __93.1__ -----2022-01-27 16:03:41+08:00:
+----- __93.1__ -----2022-01-27 20:36:35+08:00:
+
+Manchu mint mark reads *boo ciowan* for the Board of Revenue. The coin looks to be a fake though, the crispness of the detail is just too high and the lack of tarnishing is suspicious too.
+
+### 94: [How many decks would an 18th century brigantine ship have had?](https://old.reddit.com/r/AskHistorians/comments/sdstbh/how_many_decks_would_an_18th_century_brigantine/), submitted on 2022-01-27 15:28:16+08:00.
+
+----- __94.1__ -----2022-01-27 16:03:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 

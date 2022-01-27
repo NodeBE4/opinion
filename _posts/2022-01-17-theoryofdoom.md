@@ -512,3 +512,17 @@ You have never seen the document whose contents you're speculating about.  You d
 
 And yet, you still have the audacity to ask a question like that?
 
+----- __50.9__ -----2022-01-27 19:50:32+08:00:
+
+I suppose it's lost on you that the article you linked contradicts your prior claim.  Realize that if ThedaCare had no argument based on any contract, they would not have sued for tortious interference.  Yet again, you have failed to provide anything that would support your speculation as to what the nurse's employment agreements did or did not contain.  That [blogger's](https://reason.com/people/brian-doherty/) opinion is not evidence.  It's an opinion.  
+
+> Once again, unless you actually have seen their contracts, it was equally speculation that a NC exists.
+
+Realize that the baseline assumption, when in doubt, is that employers follow industry practice.  Here, use of non-compete clauses is the [routine industry practice](https://publicintegrity.org/inequality-poverty-opportunity/noncompete-clauses-theyre-not-just-for-executives-anymore/) for healthcare staffing, generally.  That means that when the hospital's attorneys drafted their standard employment agreements, one should reasonably expect to find a non-compete clause in the terms. 
+
+This is an issue that matters because of how prejudicial non-competes are to employees.  There was a time that they weren't the norm.  Now, even if they're not enforced by courts they still find their way into employment agreements because most people have no idea either (a) what the terms were of their employment agreement or (b) how those terms impact their rights, whether procedurally or substantively.  
+
+So, it would benefit you to stop arguing over this.  Not only do you have no idea what you are talking about, but your recalcitrant approach creates the material risk that people are going to miss the point of why this dispute even matters --- inside and outside of healthcare.  
+
+Non-competes are bad for workers.  They create situations like this, where if a group of employees who are subject to unfavorable conditions leaves their former employer can frustrate their efforts to seek employment elsewhere.  That's why this matters.
+
