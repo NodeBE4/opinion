@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-01-25
+date: 2022-01-26
 from: https://old.reddit.com/r/AskHistorians/comments/sb3hs8/are_the_ching_shih_stories_true_or_just/
 layout: post
 tags:
@@ -56,4 +56,10 @@ Sure, see [this post](https://www.reddit.com/r/AskHistorians/comments/emt8uy/wha
 ----- __91.1__ -----2022-01-25 16:31:22+08:00:
 
 Noel should be in the 'can use other animal ears' category because she has the cow ears.
+
+### 92: [Did Alexander the Great really visit Jerusalem and read the book of Daniel?](https://old.reddit.com/r/AskHistorians/comments/scuc32/did_alexander_the_great_really_visit_jerusalem/), submitted on 2022-01-26 10:01:47+08:00.
+
+----- __92.1__ -----2022-01-27 11:01:06+08:00:
+
+Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
