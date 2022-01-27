@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-26
+date: 2022-01-27
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/sbb4ss/fbi_searches_center_for_covid_control/
 layout: post
 tags:
@@ -79,4 +79,18 @@ Submission Statement:  Today Joe Biden has threatened to deploy American troops 
 ----- __55.2__ -----2022-01-26 12:59:51+08:00:
 
 Can you fix the formatting on this comment so it isn't shaded?
+
+### 56: [We Urgently Need a New National COVID-19 Response Plan](https://old.reddit.com/r/CoronavirusIllinois/comments/sdmjy8/we_urgently_need_a_new_national_covid19_response/), submitted on 2022-01-27 09:47:37+08:00.
+
+----- __56.1__ -----2022-01-27 13:04:22+08:00:
+
+> Health systems and providers are overwhelmed and burned out. 
+
+Of course they are.  If only there was a way to treat COVID-19 infection in a non-hospital setting, like with . . . therapeutics.  A shocking concept to be sure.  But alas.  
+
+I hope the tone conveys how seriously I take this.  The lack of established clinical and outpatient protocols is a complete disgrace.  To the extent actors within the field of public health (from either a regulatory or public relations perspective) have interfered with research and its advancement to those ends, they have actively contributed to the unnecessary deaths and suffering of untold numbers of people.  
+
+> Public policy should mandate these interventions only where interruption of transmission is of clear public health benefit in high-risk settings—defined as those directly affecting vulnerable people—such as public transport, congregate facilities and multi-generational households
+
+Some of us have demanded evidence-based public policy from the pandemic's instantiation.  As in, if you're going to tell me I need to do something for public health reasons, you owe me the proof that you know what you're talking about.  Except such proof was never provided.  Only datasets clusterfucked in all kinds of mysterious ways and hostile rhetoric from talking heads on TV.  Which is not enough.
 
