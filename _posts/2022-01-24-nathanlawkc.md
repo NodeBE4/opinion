@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-01-25
+date: 2022-01-28
 from: https://twitter.com/nathanlawkc/status/1485399049096384512
 layout: post
 tags:
@@ -23,5 +23,13 @@ Thank you so much @NikkeiAsia &amp; @michan_hk for featuring "Freedom." It's ind
 
 ### 2: [2022-01-25 22:00:40+08:00 推文](https://twitter.com/nathanlawkc/status/1485975911291834374)
 
-The only reason why I am a criminal in YOUR (Hong Kong) justice system is that the system is compromised to persecute democratic activists and suppress basic rights.<br>Obviously, Regina Ip, and many other CCP mouthpieces are propaganda tools. I am a Hongkonger, and will forever be.<br><img style="" src="https://pbs.twimg.com/media/FJ8_NtyWUAEkJ1C?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+The only reason why I am a criminal in YOUR (Hong Kong) justice system is that the system is compromised to persecute democratic activists and suppress basic rights.<br>Obviously, Regina Ip, and many other CCP mouthpieces are propaganda tools. I am a Hongkonger, and will forever be.<br><img style src="https://pbs.twimg.com/media/FJ8_NtyWUAEkJ1C?format=jpg&name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-01-28 00:10:43+08:00 推文](https://twitter.com/nathanlawkc/status/1486733416556994569)
+
+//” We should remember, that politicians are not “doing us a favour by being there” as “there are lots of things you have to do to gain the trust of people. I think sometimes people in power just forget that.”  // <a href="https://www.prospectmagazine.co.uk/magazine/hong-kong-activist-nathan-law-i-did-what-i-had-to-do" target="_blank" rel="noopener noreferrer">https://www.prospectmagazine.co.uk/magazine/hong-kong-activist-nathan-law-i-did-what-i-had-to-do</a>
+
+### 4: [2022-01-28 00:41:05+08:00 推文](https://twitter.com/nathanlawkc/status/1486741059744980996)
+
+In my testimony to the European Parliament, I suggest that the EU🇪🇺 should:<br>🆘Open more “safe boat” routes for HKers at risk<br>❌End Extradition treaties with PRC and HK<br>📝Sanction HK officials<br>👊Treat PRC as a systemic rival, not a partner when they violate international treaties<br><video src="https://video.twimg.com/ext_tw_video/1486740933676838912/pu/vid/1024x576/hq3wUKc5froDzmOD.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1486740933676838912/pu/img/8EuxDaVUY4Tlsn0F.jpg"></video>
 

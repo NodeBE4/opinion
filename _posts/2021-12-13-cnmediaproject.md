@@ -21,7 +21,7 @@ For those who missed it: Douban, which had slightly more chatter last month abou
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
-Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-14 04:26:32+08:00 推文](https://twitter.com/niubi/status/1470490343669997571)
 
@@ -105,7 +105,7 @@ After serving more than 15 years as the controversial editor-in-chief of China's
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
-Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style="" src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-16 13:39:50+08:00 推文](https://twitter.com/cnmediaproject/status/1471354358847918082)
 
@@ -133,7 +133,7 @@ RT Hu Xijin 胡锡进<br>I have retired and my new role is Global Times specia
 
 ### 30: [2021-12-17 08:07:39+08:00 推文](https://twitter.com/DemesDavid/status/1471633150808068097)
 
-RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style="" src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
+RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
@@ -149,7 +149,7 @@ Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 

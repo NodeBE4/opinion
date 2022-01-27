@@ -21,11 +21,11 @@ RT Adam Segal<br>Jack Ma's Ant Group implicated in corruption scandal by Chine
 
 ### 2: [2022-01-25 13:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1485851888860172288)
 
-Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style="" src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-25 14:01:27+08:00 推文](https://twitter.com/cnmediaproject/status/1485855315270991878)
 
-Re In her latest article, Stella Chen looks at the conversation, official and unofficial, around the "going out" of Chinese games as a source of international cultural influence.<br><img style="" src="https://pbs.twimg.com/media/FJ7RhM0aAAMSiDQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re In her latest article, Stella Chen looks at the conversation, official and unofficial, around the "going out" of Chinese games as a source of international cultural influence.<br><img style src="https://pbs.twimg.com/media/FJ7RhM0aAAMSiDQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-25 15:54:23+08:00 推文](https://twitter.com/cnmediaproject/status/1485883735262515202)
 
@@ -71,11 +71,19 @@ Meta-Propaganda In the Digital Age: As the CCP’s system of domestic propaganda
 
 Re "Propaganda is deeply imbedded in the governance of the Party, its task to write the success story of every failure. And because propaganda is so essential to the Party’s vision of itself, it follows that propaganda too must be a success."
 
-### 15: [2022-01-27 18:22:05+08:00 推文](https://twitter.com/cnmediaproject/status/1486645679082852354)
+### 15: [2022-01-27 17:42:10+08:00 推文](https://twitter.com/GlobalChinaMap/status/1486635634865307649)
+
+RT The People's Map of Global China<br>||NEW CONTENT|| Lamu Coal Power Station is a suspended power plant that was to be built near Lamu Old Town, a UNESCO site in Kenya. The project met fierce resistance &amp; ICBC withdrew financing in 2020 after Kenyan courts cancelled its environmental license. <a href="https://thepeoplesmap.net/project/lamu-coal-power-plant/" target="_blank" rel="noopener noreferrer">https://thepeoplesmap.net/project/lamu-coal-power-plant/</a>
+
+### 16: [2022-01-27 18:22:05+08:00 推文](https://twitter.com/cnmediaproject/status/1486645679082852354)
 
 As the CCP has stressed the need to develop “convergence” within the state media ecosystem, Xi stressing that state media must advance and not be “marginalized," this has made for interesting – if not always compelling – hybrid forms of propaganda. <a href="https://bit.ly/3H7g2S6" target="_blank" rel="noopener noreferrer">https://bit.ly/3H7g2S6</a><br><img style="" src="https://pbs.twimg.com/media/FKGgUxhaMAIGHTn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 16: [2022-01-27 19:05:54+08:00 推文](https://twitter.com/niubi/status/1486656709032652803)
+### 17: [2022-01-27 19:05:54+08:00 推文](https://twitter.com/niubi/status/1486656709032652803)
 
 RT Bill Bishop<br>The villagers seem underdressed <a href="http://politics.people.com.cn/n1/2022/0127/c1024-32341672.html" target="_blank" rel="noopener noreferrer">http://politics.people.com.cn/n1/2022/0127/c1024-32341672.html</a><br><img style="" src="https://pbs.twimg.com/media/FKGqZbwX0AEiPtd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-01-27 21:10:33+08:00 推文](https://twitter.com/lingli_vienna/status/1486688077389221889)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Principles of basic education<br><br>为党育人<br>为国育才<br>Cultivate minds for the Party<br>Cultivate intelligence for the state<br><br>Guideline issued by the Party to ensure its control over the administration of primary &amp; secondary schools<br><img style="" src="https://pbs.twimg.com/media/FKHGvUMXIAgNWYc?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
