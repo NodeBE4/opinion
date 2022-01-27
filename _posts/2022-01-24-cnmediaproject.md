@@ -63,3 +63,11 @@ RT Alex Dukalskis<br>Pet peeve: when people discussing diplomacy say "the Russ
 
 Promoting the "going out" of China's gaming industry is now seen by the CCP as an important way of "telling the China story well" and expanding global influence. We look at this trend (with a touch of fun) in "Gaming for the China Story." <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FKEfi7zaQAMCKoA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 13: [2022-01-27 16:39:22+08:00 推文](https://twitter.com/cnmediaproject/status/1486619829557919746)
+
+Meta-Propaganda In the Digital Age: As the CCP’s system of domestic propaganda changes to accommodate digital media developments, the story of this transformation is another success story for propagandists to tell. <a href="https://chinamediaproject.org/2022/01/27/meta-propaganda-converges/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/27/meta-propaganda-converges/</a><br><img style="" src="https://pbs.twimg.com/media/FKGI0AnagAIqNRl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-01-27 16:40:53+08:00 推文](https://twitter.com/cnmediaproject/status/1486620211390615552)
+
+Re "Propaganda is deeply imbedded in the governance of the Party, its task to write the success story of every failure. And because propaganda is so essential to the Party’s vision of itself, it follows that propaganda too must be a success."
+
