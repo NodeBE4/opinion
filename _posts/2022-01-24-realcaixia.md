@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-27
+date: 2022-01-28
 from: https://twitter.com/realcaixia/status/1485602726750965764
 layout: post
 tags:
@@ -74,4 +74,8 @@ CNN证实：美驻华外交官百人撤离中国！英媒：军情六处助中�
 ### 15: [2022-01-27 22:55:49+08:00 推文](https://twitter.com/realcaixia/status/1486714567317069841)
 
 江峰这期漫谈的最后几句话最有份量！他给我的启发就是：反人性的极权统治机制战胜不了人性！<br><br>中共超高音速导弹专家携关键数据全家出逃，中共武统台湾对美国终极威慑梦碎【江峰漫談20220126第431期】 <a href="https://youtu.be/3XkXsRPNsdI" target="_blank" rel="noopener noreferrer">https://youtu.be/3XkXsRPNsdI</a>
+
+### 16: [2022-01-28 22:36:55+08:00 推文](https://twitter.com/realcaixia/status/1487072198103900160)
+
+這篇文章很真實地傳遞出大陸的經濟社會狀況。<br><br>《议报》: 金坚：变局 —— 二十大前中国政经透视<br> <a href="https://yibaochina.com/?p=244581" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244581</a>
 
