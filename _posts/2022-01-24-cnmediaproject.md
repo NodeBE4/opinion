@@ -41,7 +41,7 @@ RT Zhaoyin Feng<br>This is also the most heartbreaking line for me.<br><br>Whe
 
 ### 7: [2022-01-25 20:47:48+08:00 推文](https://twitter.com/cnmediaproject/status/1485957577951551490)
 
-Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Gaming for the China Story: Xi has emphasized traditional culture in building the country's international influence. But netizens ask -- why not a post-apocalyptic battle with zombies in the American West? <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJ8uGRLakAg9csC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-25 20:52:51+08:00 推文](https://twitter.com/AlexDukalskis/status/1485958845973385216)
 
@@ -87,11 +87,23 @@ RT Bill Bishop<br>The villagers seem underdressed <a href="http://politics.p
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Principles of basic education<br><br>为党育人<br>为国育才<br>Cultivate minds for the Party<br>Cultivate intelligence for the state<br><br>Guideline issued by the Party to ensure its control over the administration of primary &amp; secondary schools<br><img style="" src="https://pbs.twimg.com/media/FKHGvUMXIAgNWYc?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
-### 19: [2022-01-28 06:28:24+08:00 推文](https://twitter.com/KaiserKuo/status/1486828465873641473)
+### 19: [2022-01-27 22:37:15+08:00 推文](https://twitter.com/yangxifan/status/1486709893729959944)
+
+RT Xifan Yang 杨希璠<br>1/ The moment of truth has come for Chinas's Zero-Covid policy.<br><br>I learned by coincidence that Xiong'an, "China's City of the future" near Beijing, was put under Wuhan-style lockdown this Monday. What's stunning: 3 days in, almost nobody in China knows about this. <br><br>[THREAD 🧵]
+
+### 20: [2022-01-27 22:37:43+08:00 推文](https://twitter.com/yangxifan/status/1486710012080578563)
+
+RT Xifan Yang 杨希璠<br>Re 19/ This speaks volumes about the power of the CCP's censorship apparatus these days. And it unfortunately says much about the dire state China reporting is in. Foreign media simply don't have the personnel and the resources to cover even a slice of the important China stories.
+
+### 21: [2022-01-27 22:39:49+08:00 推文](https://twitter.com/yangxifan/status/1486710541712195587)
+
+RT Xifan Yang 杨希璠<br>Re 20/ If you read German, here’s my @zeitonline story about the secret lockdown of Xiong‘an: <a href="https://www.zeit.de/politik/ausland/2022-01/china-null-covid-srategie-lockdown-olympische-winterspiele" target="_blank" rel="noopener noreferrer">https://www.zeit.de/politik/ausland/2022-01/china-null-covid-srategie-lockdown-olympische-winterspiele</a>
+
+### 22: [2022-01-28 06:28:24+08:00 推文](https://twitter.com/KaiserKuo/status/1486828465873641473)
 
 RT Kaiser Kuo<br>This week on the Sinica Podcast, I chat with @rorytruex of Princeton University about recent interest in the resilience of China’s authoritarian system, and his research into the personality of the politically discontented in China. <a href="https://supchina.com/podcast/personality-and-political-discontent-in-china-with-rory-truex/" target="_blank" rel="noopener noreferrer">https://supchina.com/podcast/personality-and-political-discontent-in-china-with-rory-truex/</a>
 
-### 20: [2022-01-28 10:36:04+08:00 推文](https://twitter.com/niubi/status/1486890790987223040)
+### 23: [2022-01-28 10:36:04+08:00 推文](https://twitter.com/niubi/status/1486890790987223040)
 
 RT Bill Bishop<br>Outside the paywall - China’s Political Discourse December 2021: China’s Democracy <a href="https://sinocism.com/p/chinas-political-discourse-december?r=2e&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-december?r=2e&amp;utm_campaign=post&amp;utm_medium=web</a>
 
