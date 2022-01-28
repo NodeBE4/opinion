@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-26
+date: 2022-01-27
 from: https://old.reddit.com/r/WarCollege/comments/sblx52/why_did_belgium_so_stubbornly_refuse_to_join_the/
 layout: post
 tags:
@@ -40,4 +40,14 @@ They don't like Russia, both because of support for India and because of the Sov
 ----- __51.1__ -----2022-01-26 22:17:41+08:00:
 
 The main difference is the scale. In 2014 it was clear Russia was just trying to break away separatist regions for leverage and keep Ukraine out of NATO. Now, with that strategy having failed and Russia building up unprecedented troop levels, any war will result in Russia either occupying half or the entirety of Ukraine.
+
+### 52: [Why did the IJN and IJA hate each other so much?](https://old.reddit.com/r/WarCollege/comments/sdzwai/why_did_the_ijn_and_ija_hate_each_other_so_much/), submitted on 2022-01-27 22:40:23+08:00.
+
+----- __52.1__ -----2022-01-28 09:17:12+08:00:
+
+The other answers have done a good job explaining away historical myths and highlighting institutional factors. One thing that can't be overlooked on top of those is that the culture of the Japanese military in general was insubordinate, uncooperative, and acrimonious. *Gekokujo*, or loyal insubordination, had been a military tradition since the time of the Sengoku Jidai. Essentially mission command on steroids, the norm of gekokujo allowed Japanese officers to defy orders as long as they were acting aggressively. The widespread assumption of earlier historians was that gekokujo was only rewarded when insubordination led to successful results, but some officers even advanced their careers through *failed* gekokujo. After inciting the Khalkhin Gol incident, Col. Tsuji Masanobu was strangely put in charge of the IJA staff in Taipei, responsible for planning the 1941 invasion of Malaya.
+
+The modern Japanese military was essentially a collection of gloryhounds from its conception. Insubordinate aggression offered the promise of rapid elevation and involved far fewer repercussions than it would in any other military. When authors mention IJA-IJN rivalry, they often don't elaborate on specifics. In the vast majority of cases, this rivalry involved the IJA and IJN trying to outdo each other and each steal the greater glory of an achievement, at the detriment of effective combination between both arms. They were, in effect, racing eachother to death or glory.
+
+While the army-navy rivalry was certainly abetted by the civilian government, it, like Gekokujo in general, was willingly *enabled* by the powers that be. The Japanese firmly believed that only vigorous, unrestrained offensive spirit would enable victory on land or at sea, and were careful not to "institutionalize cowardice" by placing "undue restraints" on branches and their commanders. To this end, there was a separate army and navy ministry, a separate army and navy chief of staff, and *no* overall chief of staff. The reason this problem was allowed to go unabetted for such a long period of time was that the Japanese military establishment largely did not see it as a terrible problem, but simply as their longstanding way of operating and even as an advantage.
 

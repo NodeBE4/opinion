@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-01-27
+date: 2022-01-28
 from: https://twitter.com/adschina/status/1485665882902835205
 layout: post
 tags:
@@ -25,7 +25,7 @@ Xi has stressed traditional culture in "telling the China story." But why can't 
 
 ### 3: [2022-01-25 14:01:27+08:00 推文](https://twitter.com/cnmediaproject/status/1485855315270991878)
 
-Re In her latest article, Stella Chen looks at the conversation, official and unofficial, around the "going out" of Chinese games as a source of international cultural influence.<br><img style src="https://pbs.twimg.com/media/FJ7RhM0aAAMSiDQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re In her latest article, Stella Chen looks at the conversation, official and unofficial, around the "going out" of Chinese games as a source of international cultural influence.<br><img style="" src="https://pbs.twimg.com/media/FJ7RhM0aAAMSiDQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-25 15:54:23+08:00 推文](https://twitter.com/cnmediaproject/status/1485883735262515202)
 
@@ -86,4 +86,8 @@ RT Bill Bishop<br>The villagers seem underdressed <a href="http://politics.p
 ### 18: [2022-01-27 21:10:33+08:00 推文](https://twitter.com/lingli_vienna/status/1486688077389221889)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Principles of basic education<br><br>为党育人<br>为国育才<br>Cultivate minds for the Party<br>Cultivate intelligence for the state<br><br>Guideline issued by the Party to ensure its control over the administration of primary &amp; secondary schools<br><img style="" src="https://pbs.twimg.com/media/FKHGvUMXIAgNWYc?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-01-28 06:28:24+08:00 推文](https://twitter.com/KaiserKuo/status/1486828465873641473)
+
+RT Kaiser Kuo<br>This week on the Sinica Podcast, I chat with @rorytruex of Princeton University about recent interest in the resilience of China’s authoritarian system, and his research into the personality of the politically discontented in China. <a href="https://supchina.com/podcast/personality-and-political-discontent-in-china-with-rory-truex/" target="_blank" rel="noopener noreferrer">https://supchina.com/podcast/personality-and-political-discontent-in-china-with-rory-truex/</a>
 
