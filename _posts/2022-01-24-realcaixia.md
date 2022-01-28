@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-28
+date: 2022-01-29
 from: https://twitter.com/realcaixia/status/1485602726750965764
 layout: post
 tags:
@@ -78,4 +78,28 @@ CNN证实：美驻华外交官百人撤离中国！英媒：军情六处助中�
 ### 16: [2022-01-28 22:36:55+08:00 推文](https://twitter.com/realcaixia/status/1487072198103900160)
 
 這篇文章很真實地傳遞出大陸的經濟社會狀況。<br><br>《议报》: 金坚：变局 —— 二十大前中国政经透视<br> <a href="https://yibaochina.com/?p=244581" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244581</a>
+
+### 17: [2022-01-28 23:47:46+08:00 推文](https://twitter.com/realcaixia/status/1487090031483367431)
+
+大陆的大学被毁了！王剑老师在这期节目中专门分析评论了这个问题。特推荐。<br>如果网友时间紧而又关注这个问题的话，请从下面视频的第37分钟开始听。<br>中国高校以观点不当开除万名教师/两会不开放北京疫情堪虞/回家的路被封住了/王剑每日观察/20220127 <a href="https://youtu.be/XQhJs_8R7Mk" target="_blank" rel="noopener noreferrer">https://youtu.be/XQhJs_8R7Mk</a>
+
+### 18: [2022-01-28 23:52:11+08:00 推文](https://twitter.com/realcaixia/status/1487091142558629899)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FKM1gyRX0AAUzTp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-01-29 00:15:28+08:00 推文](https://twitter.com/realcaixia/status/1487096998436257792)
+
+推荐这期评论：这期讲中小学课程中加强极权洗脑，我之前转的王剑老师视频是讲大学万名教师被开除。极权意识形态洗脑毁人毁教育事业就是毁整个民族的未来。<br><br>中共中央新指令: 全国中小学校党校化/美国驻华使馆撤离中国?/北京疫情扑朔迷离/王剑每日观察/20220126 <a href="https://youtu.be/XZ2s1LruZEc" target="_blank" rel="noopener noreferrer">https://youtu.be/XZ2s1LruZEc</a>
+
+### 20: [2022-01-29 00:21:27+08:00 推文](https://twitter.com/realcaixia/status/1487098506242412550)
+
+Re 如果网友时间紧不能全听完这期节目，但希望了解中小学党校化这个问题，可以从42分钟左右开始。<br><img style="" src="https://pbs.twimg.com/media/FKM8NakXIAU6WIW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-01-29 01:39:39+08:00 推文](https://twitter.com/realcaixia/status/1487118186810159112)
+
+Re @gary89797772 我和您一样，从小在洗脑中长大，我们需要努力自我消毒自我反省。<br>改革开放后，大陆生长市场经济、与文明国家思想文化交流，普世价值思想传入大陆，已经在瓦解削弱极权意识形态并使之驱于边缘化。<br>习将中小学党校化，是对人们解放思想、追求精神自由的反扑，习倒退反动，要重新控制人的思想，所以推荐。
+
+### 22: [2022-01-29 02:14:25+08:00 推文](https://twitter.com/realcaixia/status/1487126935499071490)
+
+请读专家王维洛先生的文章。尽管中共国务院启动调查并追责中共郑州市委市政府主要负责人，但调查报告对发生郑州水祸的关键因素和一些重大问题却是欲言又止，只说了半截子话。真正的对郑州人民负责，就应该实话实说，不再继续隐瞒真相。<br><br>王维洛：郑州水灾真相难以掩盖 - 议报 <a href="https://yibaochina.com/?p=244592" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244592</a>
 
