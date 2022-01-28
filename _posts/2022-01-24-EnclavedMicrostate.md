@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-01-27
+date: 2022-01-28
 from: https://old.reddit.com/r/AskHistorians/comments/sb3hs8/are_the_ching_shih_stories_true_or_just/
 layout: post
 tags:
@@ -78,4 +78,16 @@ Manchu mint mark reads *boo ciowan* for the Board of Revenue. The coin looks to 
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 95: [Any historians here with a scientific leaning interested in collaborating?](https://old.reddit.com/r/badhistory/comments/seh6a7/any_historians_here_with_a_scientific_leaning/), submitted on 2022-01-28 11:38:47+08:00.
+
+----- __95.1__ -----2022-01-28 12:01:04+08:00:
+
+Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
+
+Your submission is in violation of **Rule 2**. Your submission Is a question and should be directed at one of the weekly free for all posts or history subs that allows these like AskHistorians.
+
+
+
+If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/TheRealTsavo&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/seh6a7/-/\))
 
