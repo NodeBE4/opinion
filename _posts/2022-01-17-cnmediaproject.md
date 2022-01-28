@@ -29,7 +29,7 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
@@ -57,7 +57,7 @@ Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human 
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
@@ -69,7 +69,7 @@ Re On "care," one listed associate, Peng Qinxuan, is identified as having "studi
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
