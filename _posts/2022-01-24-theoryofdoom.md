@@ -80,9 +80,15 @@ Submission Statement:  Today Joe Biden has threatened to deploy American troops 
 
 Can you fix the formatting on this comment so it isn't shaded?
 
-### 56: [We Urgently Need a New National COVID-19 Response Plan](https://old.reddit.com/r/CoronavirusIllinois/comments/sdmjy8/we_urgently_need_a_new_national_covid19_response/), submitted on 2022-01-27 09:47:37+08:00.
+### 56: [OSHA kills emergency anti-COVID standard on order of right-wing Supreme Court](https://old.reddit.com/r/CoronavirusIllinois/comments/sdldhe/osha_kills_emergency_anticovid_standard_on_order/), submitted on 2022-01-27 08:50:07+08:00.
 
------ __56.1__ -----2022-01-27 13:04:22+08:00:
+----- __56.1__ -----2022-01-28 21:54:38+08:00:
+
+Crackpot partisan hackery.
+
+### 57: [We Urgently Need a New National COVID-19 Response Plan](https://old.reddit.com/r/CoronavirusIllinois/comments/sdmjy8/we_urgently_need_a_new_national_covid19_response/), submitted on 2022-01-27 09:47:37+08:00.
+
+----- __57.1__ -----2022-01-27 13:04:22+08:00:
 
 > Health systems and providers are overwhelmed and burned out. 
 
@@ -94,9 +100,23 @@ I hope the tone conveys how seriously I take this.  The lack of established clin
 
 Some of us have demanded evidence-based public policy from the pandemic's instantiation.  As in, if you're going to tell me I need to do something for public health reasons, you owe me the proof that you know what you're talking about.  Except such proof was never provided.  Only datasets clusterfucked in all kinds of mysterious ways and hostile rhetoric from talking heads on TV.  Which is not enough.
 
-### 57: [Soups](https://old.reddit.com/r/AskARussian/comments/se5w6v/soups/), submitted on 2022-01-28 03:04:13+08:00.
+### 58: [Unofficial Daily Update for 2022-01-27. 14422 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/se4j74/unofficial_daily_update_for_20220127_14422_new/), submitted on 2022-01-28 02:05:05+08:00.
 
------ __57.1__ -----2022-01-28 12:43:03+08:00:
+----- __58.1__ -----2022-01-28 21:51:47+08:00:
+
+> Arwady thinks
+
+She does not think.  She repeats things she hears from the NIH and Democratic Party.
+
+### 59: [Soups](https://old.reddit.com/r/AskARussian/comments/se5w6v/soups/), submitted on 2022-01-28 03:04:13+08:00.
+
+----- __59.1__ -----2022-01-28 12:43:03+08:00:
 
 I agree.  It is delicious.
+
+### 60: [NeoCov Covid variant may be deadlier- WHO warns-Read Now!](https://old.reddit.com/r/CoronavirusIllinois/comments/sepxev/neocov_covid_variant_may_be_deadlier_who/), submitted on 2022-01-28 20:41:33+08:00.
+
+----- __60.1__ -----2022-01-28 21:53:29+08:00:
+
+Spam.
 

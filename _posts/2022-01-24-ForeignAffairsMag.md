@@ -43,3 +43,13 @@ title: ForeignAffairsMag在2022-01-24~2022-01-30的言论
 
 "Putin may still decide not to invade. But whether he does or not, the Russian president’s behavior is being driven by an interlocking set of foreign policy principles that suggest Moscow will be disruptive in the years to come. Call it “the Putin doctrine.” The core element of this doctrine is getting the West to treat Russia as if it were the Soviet Union, a power to be respected and feared, with special rights in its neighborhood and a voice in every serious international matter. The doctrine holds that only a few states should have this kind of authority, along with complete sovereignty, and that others must bow to their wishes. It entails defending incumbent authoritarian regimes and undermining democracies. And the doctrine is tied together by Putin’s overarching aim: reversing the consequences of the Soviet collapse, splitting the transatlantic alliance, and renegotiating the geographic settlement that ended the Cold War."
 
+### 109: [The Drone Threat Comes Home: Time to Wake Up to a Growing Domestic Danger](https://old.reddit.com/r/technology/comments/ser7nn/the_drone_threat_comes_home_time_to_wake_up_to_a/), submitted on 2022-01-28 21:48:39+08:00.
+
+----- __109.1__ -----2022-01-28 21:49:30+08:00:
+
+\[SS from the article by Tom Donilon, U.S. National Security Adviser from 2010 to 2013.\]
+
+"The U.S. government’s failure to address the security implications of an emerging technology recalls the mistake it made with the Internet during its infancy in the 1970s and 1980s. Back then, the architects of that network traded encryption and privacy for nimbleness and growth—an error the country is paying the price for today.  
+Looking back, Steve Crocker, one of the engineers who worked on the design of the Internet, regretted not taking security into consideration. “We could have done more,” he said, “and most of what we did was in response to issues as opposed to in anticipation of issues.”  
+Drones have the potential to revolutionize life for the better, offering everything from faster deliveries to more efficient farming to smarter weather forecasts. To preserve those benefits while mitigating the costs, Washington needs to take a fundamentally different approach: anticipating the many dangers from drones, rather than responding to them as they arise. Otherwise, as with the Internet, it risks losing control."
+
