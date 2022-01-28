@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-27
+date: 2022-01-28
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/sbb4ss/fbi_searches_center_for_covid_control/
 layout: post
 tags:
@@ -93,4 +93,10 @@ I hope the tone conveys how seriously I take this.  The lack of established clin
 > Public policy should mandate these interventions only where interruption of transmission is of clear public health benefit in high-risk settings—defined as those directly affecting vulnerable people—such as public transport, congregate facilities and multi-generational households
 
 Some of us have demanded evidence-based public policy from the pandemic's instantiation.  As in, if you're going to tell me I need to do something for public health reasons, you owe me the proof that you know what you're talking about.  Except such proof was never provided.  Only datasets clusterfucked in all kinds of mysterious ways and hostile rhetoric from talking heads on TV.  Which is not enough.
+
+### 57: [Soups](https://old.reddit.com/r/AskARussian/comments/se5w6v/soups/), submitted on 2022-01-28 03:04:13+08:00.
+
+----- __57.1__ -----2022-01-28 12:43:03+08:00:
+
+I agree.  It is delicious.
 
