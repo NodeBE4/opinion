@@ -29,7 +29,7 @@ Just as the tide was turning decisively against Huawei in Europe, this decision 
 
 ### 4: [2020-12-18 18:51:37+08:00 推文](https://twitter.com/cnmediaproject/status/1339886027717152774)
 
-CMP explores the intersection of security, technology, privacy and . . . toilet paper? <a href="https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/</a><br><img style="" src="https://pbs.twimg.com/media/Epg7NnvXEAIhjrR?format=jpg&name=orig" referrerpolicy="no-referrer">
+CMP explores the intersection of security, technology, privacy and . . . toilet paper? <a href="https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/12/18/a-toilet-revolution-security-and-privacy/</a><br><img style src="https://pbs.twimg.com/media/Epg7NnvXEAIhjrR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2020-12-18 20:32:28+08:00 推文](https://twitter.com/mtdtl/status/1339911405567401984)
 
