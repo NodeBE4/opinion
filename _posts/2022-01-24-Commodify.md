@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-27
+date: 2022-01-29
 from: https://old.reddit.com/r/WarCollege/comments/sblx52/why_did_belgium_so_stubbornly_refuse_to_join_the/
 layout: post
 tags:
@@ -50,4 +50,10 @@ The other answers have done a good job explaining away historical myths and high
 The modern Japanese military was essentially a collection of gloryhounds from its conception. Insubordinate aggression offered the promise of rapid elevation and involved far fewer repercussions than it would in any other military. When authors mention IJA-IJN rivalry, they often don't elaborate on specifics. In the vast majority of cases, this rivalry involved the IJA and IJN trying to outdo each other and each steal the greater glory of an achievement, at the detriment of effective combination between both arms. They were, in effect, racing eachother to death or glory.
 
 While the army-navy rivalry was certainly abetted by the civilian government, it, like Gekokujo in general, was willingly *enabled* by the powers that be. The Japanese firmly believed that only vigorous, unrestrained offensive spirit would enable victory on land or at sea, and were careful not to "institutionalize cowardice" by placing "undue restraints" on branches and their commanders. To this end, there was a separate army and navy ministry, a separate army and navy chief of staff, and *no* overall chief of staff. The reason this problem was allowed to go unabetted for such a long period of time was that the Japanese military establishment largely did not see it as a terrible problem, but simply as their longstanding way of operating and even as an advantage.
+
+### 53: [How much of a bearing does size have on a country's military currently?](https://old.reddit.com/r/WarCollege/comments/sfjwnr/how_much_of_a_bearing_does_size_have_on_a/), submitted on 2022-01-29 23:04:54+08:00.
+
+----- __53.1__ -----2022-01-29 23:49:32+08:00:
+
+Almost no impact. War is competitive, meaning something is only useful if it’s employed in a way that creates advantages. The great numbers of the Qing army did all of nothing against Europeans when they were fought in pike and square and played right into the he hands of forces that outraged them. China’s long military reversal started only when it started using stealth and deception to force engagements at close and even melee range, starting with Bang Bo and culminating in the Korean War. Iran had an immense numerical superiority over Iraq in the Iran-Iraq War, but ultimately wasted it with crude and inefficient tactics. The Arabs always possessed an overwhelming numerical edge against Israel, but failed repeatedly because of huge training deficiencies. Nothing has to be said about the Chechen wars. I would go as far as to say you can’t draw any correlation between personnel numbers and the outcome of recent wars.
 
