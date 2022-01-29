@@ -115,3 +115,19 @@ Re @NoGreatFirewall @YouTube 掐尖-“尖”是指优秀的人，“掐”指�
 
 这篇文章很重要。特别推荐：<br><br>楊建利 Yang Jianli: 我和研究中共（假）信息战的专家Nick Monaco联名在《外交家》(The Diplomat)，分析中共近来对外（假）信息战的手段：负责国内安全的公安部门，包括基层公安部门，开始打破内外界限分担部分对外（假）信息战任务/对各国的外宣在地化/雇佣大批外国兵团、、、<br> <a href="https://twitter.com/yangjianli001/status/1487169460914036739" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1487169460914036739</a>
 
+### 26: [2022-01-30 05:27:12+08:00 推文](https://twitter.com/realcaixia/status/1487537838174449667)
+
+中共外交部的战狼盗用照片造假污黑美军，照片的拍摄者站出来揭穿战狼谎言。战狼们撒谎成性。<br><br>趙立堅造假被抓包 糗大了！ 北京冬奧開幕式  中共尷尬了；英國欲踩中共痛腳 <a href="https://youtu.be/RNbMFblxCFM" target="_blank" rel="noopener noreferrer">https://youtu.be/RNbMFblxCFM</a>
+
+### 27: [2022-01-30 06:53:45+08:00 推文](https://twitter.com/realcaixia/status/1487559618108796929)
+
+钱先生是北大的著名教授。<br><br>《议报》: 钱理群：关于建立「1957年学」的回忆<br> <a href="https://yibaochina.com/?p=244578" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244578</a>
+
+### 28: [2022-01-30 06:56:23+08:00 推文](https://twitter.com/realcaixia/status/1487560284390793221)
+
+中共二十大将会影响中国未来走向与趋势，也会对世界政治产生一定影响。而二十大前的大陆局势充满变数。<br><br>《议报》: 金坚：变局 —— 二十大前中国政经透视<br> <a href="https://yibaochina.com/?p=244581" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244581</a>
+
+### 29: [2022-01-30 07:05:21+08:00 推文](https://twitter.com/realcaixia/status/1487562536820129796)
+
+这篇文章的分析很有力，特别推荐。<br>虽然我不同意这篇文章中认为习连任不会有意外的判断。我的看法是“一切皆有可能”，二十大前中共国充满变数。<br><br>韩连潮: 【中共二十大评析】我写了一篇对中共20大的预测，希望引起讨论，其中提了几个观点：1.习已成功地掌控了党政军，连任不会有意外，除非自己撂挑子；2.中共领导接班梯队正在有序稳步地递升上位；3.20大代表禁止海推海选强调个人效忠说明党内民主已死；4.中共未来要推第五个现代化提高统治效率和镇压精准。<br><br><img style="" src="https://pbs.twimg.com/media/FJ4jO6aaAAI2jHH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJ4jO6dakAAEjWZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJ4jO6YaQAA1N0F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJ4jO6cagAE7yE0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
