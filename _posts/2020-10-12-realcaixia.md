@@ -41,15 +41,15 @@ Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供�
 
 ### 7: [2020-10-13 08:05:29+08:00 推文](https://twitter.com/realcaixia/status/1315805822493097985)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。<hr><small>10/13/2020, 8:05:29 AM</small>
+Re 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
+Re @zfb468590 谢谢您看的仔细。
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
