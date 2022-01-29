@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-29
+date: 2022-01-30
 from: https://twitter.com/realcaixia/status/1485602726750965764
 layout: post
 tags:
@@ -110,4 +110,8 @@ Re @gary89797772 我和您一样，从小在洗脑中长大，我们需要努力
 ### 24: [2022-01-29 12:58:12+08:00 推文](https://twitter.com/realcaixia/status/1487288946593878018)
 
 Re @NoGreatFirewall @YouTube 掐尖-“尖”是指优秀的人，“掐”指压制、排斥优秀的人。如果你喝茶，杭州的龙井茶是名牌。最好的是“雨前茶”（谷雨节气），其次“明前茶”（清明节前），之所以好就是采摘茶树上最鲜嫩的“嫩芽”，采茶是三个手指轻轻摘下嫩芽头。采茶的三个手指动作就是“掐”。
+
+### 25: [2022-01-30 00:09:22+08:00 推文](https://twitter.com/realcaixia/status/1487457854030331909)
+
+这篇文章很重要。特别推荐：<br><br>楊建利 Yang Jianli: 我和研究中共（假）信息战的专家Nick Monaco联名在《外交家》(The Diplomat)，分析中共近来对外（假）信息战的手段：负责国内安全的公安部门，包括基层公安部门，开始打破内外界限分担部分对外（假）信息战任务/对各国的外宣在地化/雇佣大批外国兵团、、、<br> <a href="https://twitter.com/yangjianli001/status/1487169460914036739" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1487169460914036739</a>
 
