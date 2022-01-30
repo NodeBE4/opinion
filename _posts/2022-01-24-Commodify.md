@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-01-29
+date: 2022-01-30
 from: https://old.reddit.com/r/WarCollege/comments/sblx52/why_did_belgium_so_stubbornly_refuse_to_join_the/
 layout: post
 tags:
@@ -56,4 +56,12 @@ While the army-navy rivalry was certainly abetted by the civilian government, it
 ----- __53.1__ -----2022-01-29 23:49:32+08:00:
 
 Almost no impact. War is competitive, meaning something is only useful if it’s employed in a way that creates advantages. The great numbers of the Qing army did all of nothing against Europeans when they were fought in pike and square and played right into the he hands of forces that outraged them. China’s long military reversal started only when it started using stealth and deception to force engagements at close and even melee range, starting with Bang Bo and culminating in the Korean War. Iran had an immense numerical superiority over Iraq in the Iran-Iraq War, but ultimately wasted it with crude and inefficient tactics. The Arabs always possessed an overwhelming numerical edge against Israel, but failed repeatedly because of huge training deficiencies. Nothing has to be said about the Chechen wars. I would go as far as to say you can’t draw any correlation between personnel numbers and the outcome of recent wars.
+
+### 54: [Why is military spending often held up as a gold standard of comparing forces?](https://old.reddit.com/r/WarCollege/comments/sfmfu1/why_is_military_spending_often_held_up_as_a_gold/), submitted on 2022-01-30 01:04:38+08:00.
+
+----- __54.1__ -----2022-01-31 02:56:33+08:00:
+
+Because it *is* the gold standard. Any underfunded army is inevitably cutting corners and has skeletons in the closet. In 1878 and 1885, properly funded Qing provincial armies defeated the Russians and French in open battle. Just ten years and a regime change later, the Qing army was totally crushed by the Japanese. What happened? Since the military was aligned with the old ruling clique, the new ruling clique slashed its budget by almost half. This led to a culture of shamming at all levels of the Qing forces. When Viceroy Li Hongzhang went to inspect the Taku forts on the eve of war, the commander, unable to afford his "mandated" garrison, hired civilians to masquerade as soldiers for a day. At sea, most of the navy's gunpowder had been sold and replaced by sawdust to pay for daily expenses.
+
+*Every* underfunded army is in a similar situation. The repeated failures of the Arabs against Israel, the floundering of the Russians in Chechnya, and the Nagorno-Karabakh disaster last year all stemmed from the same problem: you can't perform combined arms on a shoestring budget. Something will fall apart, whether that's your tankers and pilots not being properly trained, your officers having to communicate with cell phones because military communications are unreliable, your "advanced systems" from discount vendors not working as advertised, or your underpaid troops looking for the first opportunity to go AWOL. Despite almost everything in China being much cheaper, China spends more per soldier than most NATO members, and Russia would be wise to follow suit. History shows us that the "make do and detect problems through inspections" approach will always lose to the simpler strategy of "spend enough money".
 
