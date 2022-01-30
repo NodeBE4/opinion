@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-01-28
+date: 2022-01-30
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/sbb4ss/fbi_searches_center_for_covid_control/
 layout: post
 tags:
@@ -108,6 +108,14 @@ Some of us have demanded evidence-based public policy from the pandemic's instan
 
 She does not think.  She repeats things she hears from the NIH and Democratic Party.
 
+----- __58.2__ -----2022-01-30 23:12:16+08:00:
+
+If you can't tell the difference between a distinguished and non-distinguished post, then maybe Reddit isn't the place for you.
+
+----- __58.3__ -----2022-01-30 23:21:38+08:00:
+
+Removed.  Rule 13.  First and only warning.
+
 ### 59: [Soups](https://old.reddit.com/r/AskARussian/comments/se5w6v/soups/), submitted on 2022-01-28 03:04:13+08:00.
 
 ----- __59.1__ -----2022-01-28 12:43:03+08:00:
@@ -119,4 +127,26 @@ I agree.  It is delicious.
 ----- __60.1__ -----2022-01-28 21:53:29+08:00:
 
 Spam.
+
+### 61: [Ivermectin’s potential to treat COVID gets a serious look in Duke University study](https://old.reddit.com/r/CoronavirusIllinois/comments/sfvnlw/ivermectins_potential_to_treat_covid_gets_a/), submitted on 2022-01-30 08:08:06+08:00.
+
+----- __61.1__ -----2022-01-30 22:52:26+08:00:
+
+This post is allowed, as a national update for subject matter that is directly relevant to our focus here.  
+
+Yet, comments are locked to prevent rule violations; particularly arising from vapid speculation about the trial's outcome, including where such speculation appears to be based on nothing other than what folks think they understand from establishment media.  
+
+This is the NIH clinical trial posting: https://clinicaltrials.gov/ct2/show/study/NCT04885530
+
+Here's the NCT identifier: NCT04885530
+
+----- __61.2__ -----2022-01-30 22:58:33+08:00:
+
+> In the absence of a compelling hypothesis
+
+Removed, misinformation in violation of Rule 9.  See [ACTIV-6: COVID-19 Study of Repurposed Medications](https://clinicaltrials.gov/ct2/show/study/NCT04885530).
+
+> yet I doubt such a study could be sufficiently powered to be useful.
+
+Removed, numerous rules violated.  Further, see same link above to correct your misunderstandings of this subject matter.
 
