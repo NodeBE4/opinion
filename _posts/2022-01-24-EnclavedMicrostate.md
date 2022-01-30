@@ -13,15 +13,15 @@ title: EnclavedMicrostate在2022-01-24~2022-01-30的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 89: [Are the Ching shih stories true or just exaggerated rumors?](https://old.reddit.com/r/AskHistorians/comments/sb3hs8/are_the_ching_shih_stories_true_or_just/), submitted on 2022-01-24 04:49:51+08:00.
+### 90: [Are the Ching shih stories true or just exaggerated rumors?](https://old.reddit.com/r/AskHistorians/comments/sb3hs8/are_the_ching_shih_stories_true_or_just/), submitted on 2022-01-24 04:49:51+08:00.
 
------ __89.1__ -----2022-01-24 18:21:42+08:00:
+----- __90.1__ -----2022-01-24 18:21:42+08:00:
 
 While more can of course be said, you may find [this answer](https://www.reddit.com/r/AskHistorians/comments/p5u9ly/how_many_soldiers_and_ships_were_under_the/) by /u/Anekdota-Press covers a good deal of your question.
 
-### 90: [Why are there no photographs of 19th Century Chinese Emperors? Was there a rule against it?](https://old.reddit.com/r/AskHistorians/comments/sbjd7t/why_are_there_no_photographs_of_19th_century/), submitted on 2022-01-24 18:41:30+08:00.
+### 91: [Why are there no photographs of 19th Century Chinese Emperors? Was there a rule against it?](https://old.reddit.com/r/AskHistorians/comments/sbjd7t/why_are_there_no_photographs_of_19th_century/), submitted on 2022-01-24 18:41:30+08:00.
 
------ __90.1__ -----2022-01-25 00:08:01+08:00:
+----- __91.1__ -----2022-01-25 00:08:01+08:00:
 
 So, to be rather pedantic, there are photos of one emperor who reigned in the 19th century, albeit taken in the 20th: a French photographer for the periodical *L'Illustration* snapped the Guangxu Emperor disembarking from a sedan chair in 1908, the year before the emperor's death – you can see this photo on [page 21 of this PDF scan of the relevant publication](https://upload.wikimedia.org/wikipedia/commons/3/37/L%27illustration_19081121_a.pdf). Now, this photo was taken somewhat illicitly by what seems to have been a prototype paparazzo, so obviously wasn't a commissioned photographic portrait. Yet as you may be aware, a substantial number of Qing nobles and officials were photographed – [Zuo Zongtang](https://upload.wikimedia.org/wikipedia/commons/f/fa/Zuo_Zongtang_1875.jpg), [Prince Gong](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%E6%81%AD%E4%BA%B2%E7%8E%8B%E5%A5%95%E8%A8%A2_Prince_Gong_Yi_Xin_%28AI_repair%29.jpg/1920px-%E6%81%AD%E4%BA%B2%E7%8E%8B%E5%A5%95%E8%A8%A2_Prince_Gong_Yi_Xin_%28AI_repair%29.jpg), and [Dowager Empress Cixi](https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Ci-Xi_Imperial_Dowager_Empress_%285%29.JPG), to name a few; even the Guangxu Emperor's consorts, [Zhen](https://upload.wikimedia.org/wikipedia/commons/9/97/%E5%85%89%E7%BB%AA%E7%8F%8D%E5%A6%83.jpg) and [Jin](https://upload.wikimedia.org/wikipedia/commons/6/6b/The_Imperial_Consort_Jin_in_her_old_days.jpg), were photographed. So why not the emperor himself?
 
@@ -43,35 +43,35 @@ In short, portrait photographs are the sort of thing you want to get taken, and 
 
 * Yi Gu, 'Prince Chun Through the Lens: Negotiating the Photographic Medium in Royal Images.' *Ars Orientalis* 43 (2013)
 
------ __90.2__ -----2022-01-25 01:43:55+08:00:
+----- __91.2__ -----2022-01-25 01:43:55+08:00:
 
 Ah, sorry if the sentence parsed weirdly – I meant the Guangxu Emperor was under house arrest, not Xunling.
 
------ __90.3__ -----2022-01-25 03:26:15+08:00:
+----- __91.3__ -----2022-01-25 03:26:15+08:00:
 
 Sure, see [this post](https://www.reddit.com/r/AskHistorians/comments/emt8uy/what_factors_led_to_the_qings_100_days_reform/fe81d97/) which I ought to have linked.
 
-### 91: [The State of HoloNeko](https://old.reddit.com/r/Hololive/comments/sc5m3d/the_state_of_holoneko/), submitted on 2022-01-25 12:58:38+08:00.
+### 92: [The State of HoloNeko](https://old.reddit.com/r/Hololive/comments/sc5m3d/the_state_of_holoneko/), submitted on 2022-01-25 12:58:38+08:00.
 
------ __91.1__ -----2022-01-25 16:31:22+08:00:
+----- __92.1__ -----2022-01-25 16:31:22+08:00:
 
 Noel should be in the 'can use other animal ears' category because she has the cow ears.
 
-### 92: [Did Alexander the Great really visit Jerusalem and read the book of Daniel?](https://old.reddit.com/r/AskHistorians/comments/scuc32/did_alexander_the_great_really_visit_jerusalem/), submitted on 2022-01-26 10:01:47+08:00.
+### 93: [Did Alexander the Great really visit Jerusalem and read the book of Daniel?](https://old.reddit.com/r/AskHistorians/comments/scuc32/did_alexander_the_great_really_visit_jerusalem/), submitted on 2022-01-26 10:01:47+08:00.
 
------ __92.1__ -----2022-01-27 11:01:06+08:00:
+----- __93.1__ -----2022-01-27 11:01:06+08:00:
 
 Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
-### 93: [Can anyone help translate what these symbols on the lucky coins mean?](https://old.reddit.com/r/ChineseTranslation/comments/sddx10/can_anyone_help_translate_what_these_symbols_on/), submitted on 2022-01-27 03:18:06+08:00.
+### 94: [Can anyone help translate what these symbols on the lucky coins mean?](https://old.reddit.com/r/ChineseTranslation/comments/sddx10/can_anyone_help_translate_what_these_symbols_on/), submitted on 2022-01-27 03:18:06+08:00.
 
------ __93.1__ -----2022-01-27 20:36:35+08:00:
+----- __94.1__ -----2022-01-27 20:36:35+08:00:
 
 Manchu mint mark reads *boo ciowan* for the Board of Revenue. The coin looks to be a fake though, the crispness of the detail is just too high and the lack of tarnishing is suspicious too.
 
-### 94: [How many decks would an 18th century brigantine ship have had?](https://old.reddit.com/r/AskHistorians/comments/sdstbh/how_many_decks_would_an_18th_century_brigantine/), submitted on 2022-01-27 15:28:16+08:00.
+### 95: [How many decks would an 18th century brigantine ship have had?](https://old.reddit.com/r/AskHistorians/comments/sdstbh/how_many_decks_would_an_18th_century_brigantine/), submitted on 2022-01-27 15:28:16+08:00.
 
------ __94.1__ -----2022-01-27 16:03:41+08:00:
+----- __95.1__ -----2022-01-27 16:03:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -79,9 +79,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 95: [Any historians here with a scientific leaning interested in collaborating?](https://old.reddit.com/r/badhistory/comments/seh6a7/any_historians_here_with_a_scientific_leaning/), submitted on 2022-01-28 11:38:47+08:00.
+### 96: [Any historians here with a scientific leaning interested in collaborating?](https://old.reddit.com/r/badhistory/comments/seh6a7/any_historians_here_with_a_scientific_leaning/), submitted on 2022-01-28 11:38:47+08:00.
 
------ __95.1__ -----2022-01-28 12:01:04+08:00:
+----- __96.1__ -----2022-01-28 12:01:04+08:00:
 
 Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
 
@@ -91,9 +91,9 @@ Your submission is in violation of **Rule 2**. Your submission Is a question and
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/TheRealTsavo&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/seh6a7/-/\))
 
-### 96: [Were there any cultures/languages in history that had more than 9 digits?](https://old.reddit.com/r/AskHistorians/comments/sem450/were_there_any_cultureslanguages_in_history_that/), submitted on 2022-01-28 16:36:04+08:00.
+### 97: [Were there any cultures/languages in history that had more than 9 digits?](https://old.reddit.com/r/AskHistorians/comments/sem450/were_there_any_cultureslanguages_in_history_that/), submitted on 2022-01-28 16:36:04+08:00.
 
------ __96.1__ -----2022-01-28 17:39:51+08:00:
+----- __97.1__ -----2022-01-28 17:39:51+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
