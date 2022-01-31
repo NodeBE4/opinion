@@ -71,3 +71,7 @@ Because it *is* the gold standard. Any underfunded army is inevitably cutting co
 
 *Every* underfunded army is in a similar situation. The repeated failures of the Arabs against Israel, the floundering of the Russians in Chechnya, and the Nagorno-Karabakh disaster last year all stemmed from the same problem: you can't perform combined arms on a shoestring budget. Something will fall apart, whether that's your tankers and pilots not being properly trained, your officers having to communicate with cell phones because military communications are unreliable, your "advanced systems" from discount vendors not working as advertised, or your underpaid troops looking for the first opportunity to go AWOL. Despite almost everything in China being much cheaper, China spends more per soldier than most NATO members, and Russia would be wise to follow suit. History shows us that the "make do and detect problems through inspections" approach will always lose to the simpler strategy of "spend enough money".
 
+----- __55.2__ -----2022-02-01 06:41:32+08:00:
+
+Yes - most NATO members are in the 50-100k range. Even many of the "rich" members. This is still far behind the US, UK, Canada, and Australia which are the biggest per soldier spenders.
+

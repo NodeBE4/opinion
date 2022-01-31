@@ -78,3 +78,7 @@ As far as the IJA was concerned, they had won "their war", first forcing China i
 
 The IJA would have had a far greater impact on the Pacific War as they were planning for a climactic battle for Kyushu, but that was ultimately cut short by the atomic bomb and the Soviet invasion of Manchuria. Because of this and the de facto China ceasefire, it's not an exaggeration to say that most of the IJA essentially sat out of the war after Pearl Harbor.
 
+----- __57.2__ -----2022-02-01 06:40:44+08:00:
+
+Yes that's right
+
