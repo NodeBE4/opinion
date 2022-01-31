@@ -73,6 +73,12 @@ I mean, yes and no, in that it depends what you define 'proto-Marxist' as, not l
 
 You can definitely argue that the period between the Taiping and the establishment of the PRC was one in which the working class in China proper had not seen much significant improvement in quality of life, but I don't necessarily see the value or usefulness of such a comparison given the nearly century-length gap.
 
+----- __106.2__ -----2022-01-31 20:45:11+08:00:
+
+I am not published, no.
+
+As for Marx, he did have some thoughts on the Taiping, although there hasn't really been a consolidated discussion of them anywhere. Some excerpted quotations can be found in Stephen Platt's *Autumn in the Heavenly Kingdom* and you can also find a discussion of his 1853 article on the Taiping [here](https://understandingsociety.blogspot.com/2009/02/marx-and-taipings0.html). Broadly speaking he didn't really view the Taiping as a class revolution within China, so much as a reaction to Western imperialism.
+
 ### 107: [What military unit in history had the longest period of required training time and the highest casualty rate once they were in combat?](https://old.reddit.com/r/AskHistorians/comments/sgqbx0/what_military_unit_in_history_had_the_longest/), submitted on 2022-01-31 10:51:59+08:00.
 
 ----- __107.1__ -----2022-01-31 11:23:16+08:00:
