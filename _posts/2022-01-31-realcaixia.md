@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-01-31
+date: 2022-02-01
 from: https://twitter.com/realcaixia/status/1487859930275237889
 layout: post
 tags:
@@ -42,4 +42,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FKXxTrRX0AE7tvA?format=jpg
 ### 7: [2022-01-31 23:36:49+08:00 推文](https://twitter.com/realcaixia/status/1488174437170139139)
 
 給推友們拜年啦！祝各位全家虎年吉祥平安健康快樂！這個拜年小視頻是大陸朋友發來的，滿滿的溫馨感人肺腑。給大陸的朋友們遙拜新春！祝虎年平安健康！<br><video src="https://video.twimg.com/ext_tw_video/1488174305175392257/pu/vid/296x640/cRFeCA2Dsnr4RcO-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1488174305175392257/pu/img/g2XOyHYlDbkmQ3Sp.jpg"></video>
+
+### 8: [2022-01-31 23:51:10+08:00 推文](https://twitter.com/realcaixia/status/1488178048121856000)
+
+金句威武，虎虎生風！<br><br>ZHANGDONG: 今天公历1月31日，农历除夕，是阖家团聚的快乐日。<br>今日网传金句：<br>先有除Xi，才有新年。<br>恶习不除，毛病难改。<br><br>有词曰：<br>亟待大猫祛子鼠，<br>虎跃龙腾扫孽瘟。<br>....<br>还我山川清和丽，<br>人人开颜户户春。<br><br>愿借虎威携全民之力除恶习！<br><br><img style="" src="https://pbs.twimg.com/media/FKbKBsfXsAA7F_p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-02-01 01:26:34+08:00 推文](https://twitter.com/realcaixia/status/1488202055936319488)
+
+Re @John17Churchill 感谢🌹。同祝您全家虎年吉祥，平安健康快乐！🌹
+
+### 10: [2022-02-01 01:43:01+08:00 推文](https://twitter.com/realcaixia/status/1488206198646226947)
+
+祝福高瑜姐，祝福所有的朋友们！愿所有不屈不挠争取自由民主的狱中受难者保护好自己，相信总有冲破极权监狱的一天，让我们所有人都相聚在、拥抱在自由到来的那一天，一个都不能少！时间在我们一边！<br><br>高瑜: 祝福大家除夕幸福！平安！闔家歡樂！<br>祝福張展和獄中的朋友們健康！快樂！每一個新春都在迎接自由的到來！<br><br><img style="" src="https://pbs.twimg.com/media/FKZoNF1VIAcLPA9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
