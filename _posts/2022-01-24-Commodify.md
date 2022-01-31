@@ -51,15 +51,21 @@ The modern Japanese military was essentially a collection of gloryhounds from it
 
 While the army-navy rivalry was certainly abetted by the civilian government, it, like Gekokujo in general, was willingly *enabled* by the powers that be. The Japanese firmly believed that only vigorous, unrestrained offensive spirit would enable victory on land or at sea, and were careful not to "institutionalize cowardice" by placing "undue restraints" on branches and their commanders. To this end, there was a separate army and navy ministry, a separate army and navy chief of staff, and *no* overall chief of staff. The reason this problem was allowed to go unabetted for such a long period of time was that the Japanese military establishment largely did not see it as a terrible problem, but simply as their longstanding way of operating and even as an advantage.
 
-### 53: [How much of a bearing does size have on a country's military currently?](https://old.reddit.com/r/WarCollege/comments/sfjwnr/how_much_of_a_bearing_does_size_have_on_a/), submitted on 2022-01-29 23:04:54+08:00.
+### 53: [What would the indicators be prior to a Chinese Invasion of Taiwan? Would a military build up be visible?](https://old.reddit.com/r/CredibleDefense/comments/semv1b/what_would_the_indicators_be_prior_to_a_chinese/), submitted on 2022-01-28 17:27:04+08:00.
 
------ __53.1__ -----2022-01-29 23:49:32+08:00:
+----- __53.1__ -----2022-01-31 22:59:11+08:00:
+
+None of the answers about military preparations are right. You can do military preparations either to sabre rattle or actually attack. The real indicator that China is about to invade is that it stockpiles 3 or more billion barrels of oil. The fact that it is [releasing oil](https://www.reuters.com/business/energy/exclusive-china-agreed-with-us-oil-reserves-release-near-lunar-new-year-sources-2022-01-14/) amid high prices indicates no invasion is coming soon. At 3 billion barrels, China could with severe rationing last under blockade for 2 or more years combined with imports through overland routes. This would be sufficient time to leverage its industrial advantage and outproduce whichever enemies came to Taiwan's defense. The preparations of Chinese leadership indicate that they are not under the delusion that a Taiwan war would be short.
+
+### 54: [How much of a bearing does size have on a country's military currently?](https://old.reddit.com/r/WarCollege/comments/sfjwnr/how_much_of_a_bearing_does_size_have_on_a/), submitted on 2022-01-29 23:04:54+08:00.
+
+----- __54.1__ -----2022-01-29 23:49:32+08:00:
 
 Almost no impact. War is competitive, meaning something is only useful if it’s employed in a way that creates advantages. The great numbers of the Qing army did all of nothing against Europeans when they were fought in pike and square and played right into the he hands of forces that outraged them. China’s long military reversal started only when it started using stealth and deception to force engagements at close and even melee range, starting with Bang Bo and culminating in the Korean War. Iran had an immense numerical superiority over Iraq in the Iran-Iraq War, but ultimately wasted it with crude and inefficient tactics. The Arabs always possessed an overwhelming numerical edge against Israel, but failed repeatedly because of huge training deficiencies. Nothing has to be said about the Chechen wars. I would go as far as to say you can’t draw any correlation between personnel numbers and the outcome of recent wars.
 
-### 54: [Why is military spending often held up as a gold standard of comparing forces?](https://old.reddit.com/r/WarCollege/comments/sfmfu1/why_is_military_spending_often_held_up_as_a_gold/), submitted on 2022-01-30 01:04:38+08:00.
+### 55: [Why is military spending often held up as a gold standard of comparing forces?](https://old.reddit.com/r/WarCollege/comments/sfmfu1/why_is_military_spending_often_held_up_as_a_gold/), submitted on 2022-01-30 01:04:38+08:00.
 
------ __54.1__ -----2022-01-31 02:56:33+08:00:
+----- __55.1__ -----2022-01-31 02:56:33+08:00:
 
 Because it *is* the gold standard. Any underfunded army is inevitably cutting corners and has skeletons in the closet. In 1878 and 1885, properly funded Qing provincial armies defeated the Russians and French in open battle. Just ten years and a regime change later, the Qing army was totally crushed by the Japanese. What happened? Since the military was aligned with the old ruling clique, the new ruling clique slashed its budget by almost half. This led to a culture of shamming at all levels of the Qing forces. When Viceroy Li Hongzhang went to inspect the Taku forts on the eve of war, the commander, unable to afford his "mandated" garrison, hired civilians to masquerade as soldiers for a day. At sea, most of the navy's gunpowder had been sold and replaced by sawdust to pay for daily expenses.
 
