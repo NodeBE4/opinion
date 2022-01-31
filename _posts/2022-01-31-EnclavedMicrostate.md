@@ -55,9 +55,27 @@ Apologies, but we have had to remove your submission. We ask that questions in t
 
 If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
-### 106: [What military unit in history had the longest period of required training time and the highest casualty rate once they were in combat?](https://old.reddit.com/r/AskHistorians/comments/sgqbx0/what_military_unit_in_history_had_the_longest/), submitted on 2022-01-31 10:51:59+08:00.
+### 106: [Questions about the Taiping movement](https://old.reddit.com/r/ChineseHistory/comments/sgpb8v/questions_about_the_taiping_movement/), submitted on 2022-01-31 10:02:00+08:00.
 
------ __106.1__ -----2022-01-31 11:23:16+08:00:
+----- __106.1__ -----2022-01-31 12:00:46+08:00:
+
+1:
+
+Confucianism yes, hierarchy no. The Taiping, at least in their earlier years (to be honest, the analysis of change over time of Taiping ideology has never been that good), were not necessarily out to destroy the entire Chinese classical canon. Rather, they accepted the validity and primacy of the Five Classics, but considered the (Neo-)Confucian interpretation of that canon, i.e. the Four Books and associated derivations, to be corruptions of an originally 'pure' message. So for instance the supposedly egalitarian programme of land and resource distribution expressed in the *Land System of the Heavenly Dynasty* actually cribs from the *Book of Rites*. This programme, by the by, would have been *immensely* hierarchical if implemented, with all households organised as though armies, and the households of privates subordinated to those of various ascending ranks of officer. The saving grace, so to speak, for anyone under such a system would have been the regularity of promotions and, if warranted, demotions, that would keep people moving through the ranks on a nominally meritocratic basis.
+
+Of course, in parallel with what we might term Taiping anti-traditionalism, there was also a particularly violent strain of anti-Manchuism as well, as with later political upheavals in the late Qing. It would be reductionist to assert that either anti-traditionalism or anti-Manchuism were the *sole* cause of any of these upheavals.
+
+2:
+
+I mean, yes and no, in that it depends what you define 'proto-Marxist' as, not least given that Marxism stipulates a transition to capitalism in between feudalism and socialism. But if we use the *Land System of the Heavenly Dynasty* as our interpretive guide here, the Taiping were not aiming to establish true communal ownership as such or of worker-owned industry, because they ultimately did not intend to abolish the state nor, at least to begin with, to industrialise. Instead they were advocating a heavily planned and centralised agrarian economy.
+
+3:
+
+You can definitely argue that the period between the Taiping and the establishment of the PRC was one in which the working class in China proper had not seen much significant improvement in quality of life, but I don't necessarily see the value or usefulness of such a comparison given the nearly century-length gap.
+
+### 107: [What military unit in history had the longest period of required training time and the highest casualty rate once they were in combat?](https://old.reddit.com/r/AskHistorians/comments/sgqbx0/what_military_unit_in_history_had_the_longest/), submitted on 2022-01-31 10:51:59+08:00.
+
+----- __107.1__ -----2022-01-31 11:23:16+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
