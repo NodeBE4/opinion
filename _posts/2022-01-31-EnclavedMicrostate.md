@@ -85,6 +85,12 @@ As for Marx, he did have some thoughts on the Taiping, although there hasn't rea
 
 I don't believe I disputed either of these. Rather, I stated, with regard to issue 2, that the Taiping did not in any way espouse an end goal of transitioning beyond the state as per 'orthodox' Marxism, and with regard to issue 3, that the 'secular vestigial pre-disposition' aspect was not at all defined, and would imply a continuity of conditions between 1850 and 1949 that I would not see as sustainable.
 
+----- __106.4__ -----2022-02-01 10:50:29+08:00:
+
+This seems entirely to be confrontation for confrontation's sake, over terms in the question that we *both* saw as ambiguous and therefore had our own interpretations of.
+
+When the question asks if the Taiping were proto-Marxist, I did not interpret that as meaning proto-Marxist-Leninist-Maoist, nor did I operate on the presumption that we ought to accept Marx's schema dividing between European and non-European polities. When the question asks if there was some fundamental underlying continuity that lay behind both the Taiping and the Chinese Communists, I suggested that while on the one hand the Chinese working classes (are peasants not a working class?) did indeed not see any comparable enfranchisement between the conditions leading to the rise of the Taiping (hence 1850) and to the victory of the Communists (hence 1949). *Between* meaning *all the hundred-ish years encompassed between the two*. But at the same time there were broader conditions that were distinct – a limited degree of industrialisation, and also the end of Qing rule which removed a key racial/ethnic dimension as a cause of political tension.
+
 ### 107: [What military unit in history had the longest period of required training time and the highest casualty rate once they were in combat?](https://old.reddit.com/r/AskHistorians/comments/sgqbx0/what_military_unit_in_history_had_the_longest/), submitted on 2022-01-31 10:51:59+08:00.
 
 ----- __107.1__ -----2022-01-31 11:23:16+08:00:
