@@ -54,6 +54,10 @@ Just as importantly, Kim Jong-il played his cards right. Amid economic collapse,
 
 Definitely - I wasn't saying members of Chongryon would assist the North, only that the Zainichi community and the DPRK's control over Chongryon has allowed the DPRK to insert operatives into Japan.
 
+----- __56.4__ -----2022-02-01 22:19:15+08:00:
+
+Because there is zero chance of those weapons being used against *them.* All the nuclear crisis did was give them more bargaining chips with the US.
+
 ### 57: [How did the IJA's war in China impact the IJN's campaign in the Pacific, and vice versa?](https://old.reddit.com/r/WarCollege/comments/sh4t7v/how_did_the_ijas_war_in_china_impact_the_ijns/), submitted on 2022-02-01 00:10:31+08:00.
 
 ----- __57.1__ -----2022-02-01 02:05:15+08:00:
