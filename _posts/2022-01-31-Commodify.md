@@ -13,9 +13,9 @@ title: Commodify在2022-01-31~2022-02-06的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 56: [How does South Korea, Japan, and China view the North Korean Military?](https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/), submitted on 2022-01-31 13:38:43+08:00.
+### 57: [How does South Korea, Japan, and China view the North Korean Military?](https://old.reddit.com/r/WarCollege/comments/sgtkyz/how_does_south_korea_japan_and_china_view_the/), submitted on 2022-01-31 13:38:43+08:00.
 
------ __56.1__ -----2022-01-31 23:39:53+08:00:
+----- __57.1__ -----2022-01-31 23:39:53+08:00:
 
 Japan - Japan perceives hardly any threat from the DPRK and the ruling party trumps up the missile threat primarily as part of its campaign to abolish Article 7 of the Japanese constitution. If war broke out on the Korean peninsula, the only threat that Japan could face is nuclear missiles, but the country has the most robust missile defense system in the region, South Korea is a higher priority target, and North Korea's missiles are not numerous enough to oversaturate Japan's defenses. The primary Japanese target in a war would be the American base at Okinawa, but the US has significant missile defense assets there as well.
 
@@ -31,7 +31,7 @@ South Korea is aware it will win the war against the North, the question is just
 
 ROK also has a deep understanding of North Korean military doctrine, which values aggression, deployment at close range, and attack from all sides. By some estimates the DPRK has thousands of commandos sleeping in the South to conduct attacks in the rear, and more than a dozen still active invasion tunnels for the same. ROK intelligence is constantly looking for these people, but that's a very hard thing to do in a populous modern country.
 
------ __56.2__ -----2022-01-31 23:40:23+08:00:
+----- __57.2__ -----2022-01-31 23:40:23+08:00:
 
 China - While the outlook of South Korea and Japan towards the DPRK are strategically defensive (as in accepting and trying to preserve the status quo), China's approach is strategically offensive. China has been trying to overthrow the Kim family and turn North Korea into a protectorate for decades. Once this is done, it can trade the DPRK to South Korea in exchange for American troops leaving and fully exploit the country's rich natural resources to fuel its titanic, hungry industrial base. On a less sinister note, aside from the ROK government no one is more fed up with the antics of the Kim family than the CCP. Almost immediately after Chinese withdrawal from the DPRK, the Kim family purged the pro-Chinese Yanan faction and aligned strongly with the USSR for most of the remainder of the Cold War. During the Sino-Soviet War scare, it was intimately clear to the Chinese that a Sino-Soviet War would escalate into a Sino-Korean war, as North Korea would try to reclaim Balhae, re-establish ancient Goguryeo and cut Chinese forces in Manchuria off from the rest of the country by sealing off the Shanhai pass.
 
@@ -50,21 +50,21 @@ In the second period, China did not push for reunification for similar security 
 
 Just as importantly, Kim Jong-il played his cards right. Amid economic collapse, Kim paradoxically placed all resources in the hands of the military and gambled that Beijing would give him just enough aid to stay afloat. The gamble worked. Aware that a war would probably involve China, destroy the East Asian financial market, and lead to an even greater American presence in the region, Beijing had effectively no ability to use aid as a "lever" against Kim, as it would only be a lever against itself. Jong-il, unlike Jong-un, attempted to appease Beijing where possible and it was under his rule that Jang and his "second Yanan faction" rose.
 
------ __56.3__ -----2022-02-01 02:15:37+08:00:
+----- __57.3__ -----2022-02-01 02:15:37+08:00:
 
 Definitely - I wasn't saying members of Chongryon would assist the North, only that the Zainichi community and the DPRK's control over Chongryon has allowed the DPRK to insert operatives into Japan.
 
------ __56.4__ -----2022-02-01 22:19:15+08:00:
+----- __57.4__ -----2022-02-01 22:19:15+08:00:
 
 Because there is zero chance of those weapons being used against *them.* All the nuclear crisis did was give them more bargaining chips with the US.
 
------ __56.5__ -----2022-02-02 01:48:04+08:00:
+----- __57.5__ -----2022-02-02 01:48:04+08:00:
 
 Everything Beijing did in the 2000s was short-sighted because they knew in the long run they'd win. Since 1991 China has lived with a constant belief that the US is planning to attack it. As recently as 2020, PLA command was convinced Donald Trump would attack China to remain President, and the chairman of the US JCS had to personally call them to assure them he would not carry out that order if it were given. If the US had 1.4 billion people and China had 320 million, but was a hostile hegemon with a GDP per capita 10 times greater, the US *would* allow Mexico to have nukes. It would give China a distraction and buy them time.
 
-### 57: [How did the IJA's war in China impact the IJN's campaign in the Pacific, and vice versa?](https://old.reddit.com/r/WarCollege/comments/sh4t7v/how_did_the_ijas_war_in_china_impact_the_ijns/), submitted on 2022-02-01 00:10:31+08:00.
+### 58: [How did the IJA's war in China impact the IJN's campaign in the Pacific, and vice versa?](https://old.reddit.com/r/WarCollege/comments/sh4t7v/how_did_the_ijas_war_in_china_impact_the_ijns/), submitted on 2022-02-01 00:10:31+08:00.
 
------ __57.1__ -----2022-02-01 02:05:15+08:00:
+----- __58.1__ -----2022-02-01 02:05:15+08:00:
 
 It largely but not entirely didn't. After the Russo-Japanese War and World War 1, the IJN had exploited the glory of its victories to absorb the lion's share of Japan's financial and military industrial resources. So much so that Phillips O'Brien points out that the combined war industrial base of Manchukuo and Japan was comparable to that of the USSR, but the USSR outproduced Japan by an order of magnitude in tanks and artillery. This wasn't because the factories didn't exist for Japan to compete, it's because Japan's industrial output was going towards ships and planes.
 
@@ -86,21 +86,29 @@ As far as the IJA was concerned, they had won "their war", first forcing China i
 
 The IJA would have had a far greater impact on the Pacific War as they were planning for a climactic battle for Kyushu, but that was ultimately cut short by the atomic bomb and the Soviet invasion of Manchuria. Because of this and the de facto China ceasefire, it's not an exaggeration to say that most of the IJA essentially sat out of the war after Pearl Harbor.
 
------ __57.2__ -----2022-02-01 06:40:44+08:00:
+----- __58.2__ -----2022-02-01 06:40:44+08:00:
 
 Yes that's right
 
-### 58: [Why are drones (seemingly) less effective in Ukraine than in Azerbaijan/Armenia?](https://old.reddit.com/r/CredibleDefense/comments/sh7fc6/why_are_drones_seemingly_less_effective_in/), submitted on 2022-02-01 01:55:39+08:00.
+### 59: [Why are drones (seemingly) less effective in Ukraine than in Azerbaijan/Armenia?](https://old.reddit.com/r/CredibleDefense/comments/sh7fc6/why_are_drones_seemingly_less_effective_in/), submitted on 2022-02-01 01:55:39+08:00.
 
------ __58.1__ -----2022-02-02 06:32:14+08:00:
+----- __59.1__ -----2022-02-02 06:32:14+08:00:
 
 There's a lot of pieces do this. As u/zealouszoopark mentioned, Russian countermeasures are miles ahead of what Armenia had available. Another variable is doctrine. Russian doctrine prizes tube artillery as the main means of fire support. Drones are used simply for reconnaissance. Strike drones don't feature prominently in Russian doctrine because tube artillery can put out far higher volumes of fire and saturate over a greater area. In Russian military thought, shock is a product of casualties over time, so any weapon that doesn't kill quickly is not worth having.
 
 Ukraine recently bought a lot of Turkish drones, but they are being very careful with them. First because they have to be diplomatically careful and not give Russia provocation to invade. Second, because they have not yet embarked on an offensive to reclaim Donbass, so providing overwhelming fire support is a waste. Third, because in the initial phase of the war most of their air force was disabled by AA and Ukraine is a much poorer country than most imagine - it has about the third of the GDP per capita of China, and less than Guatemala. They do not want to see a repeat of that rate of attrition.
 
-### 59: [Is it true that Carthagian army was inferior to Roman, and Carthage had victories only thanks to Hannibal?](https://old.reddit.com/r/WarCollege/comments/shun8s/is_it_true_that_carthagian_army_was_inferior_to/), submitted on 2022-02-01 21:12:56+08:00.
+Finally the Russians have always been much stronger than other Soviet successor states in camoflauge, AA, and evasion. This was especially true of Armenia, who essentially set up their entire army to be perfect targets for drone strikes. The most basic definition of a doctrine is a "theory of victory". By that definition Armenian "doctrine" consisted of a few simple points:
 
------ __59.1__ -----2022-02-02 04:48:47+08:00:
+1. Armenia strong
+2. Azerbaijan coward
+3. Haha shoot and they will run
+
+This is only barely an exaggeration: tactically and technologically, the Armenian army had barely changed between 1994 and 2021. It fought in essentially the same manner as before and made no adaptations to the new reality of facing an enemy with aerial fire support. Russia, in contrast, is always keeping up with technological developments and has spent the better part of 30 years developing technologies to counter the Western advantage in the skies from below.
+
+### 60: [Is it true that Carthagian army was inferior to Roman, and Carthage had victories only thanks to Hannibal?](https://old.reddit.com/r/WarCollege/comments/shun8s/is_it_true_that_carthagian_army_was_inferior_to/), submitted on 2022-02-01 21:12:56+08:00.
+
+----- __60.1__ -----2022-02-02 04:48:47+08:00:
 
 Carthage largely *didn't have* an army. Yes, there were garrisons for each of the Phoenician colonies, with that in Carthage itself being the largest, but they weren't very good, didn't need to do much, and only really showed up in the 2nd Punic War for Zama. Their performance there was nothing to admire. The Barca family essentially operated a parallel state in Spain. The elite core of their army were Phoenician professional soldiers and mercenaries, who commanded a scattering of Iberian and Libyan tribal auxiliaries. This polyglot force was fire-forged into a disciplined, veteran, and semi-professional army by the end of Hamilcar Barca's lifetime through decades of campaigning. It is not entirely accurate to call this force the "Carthaginian Army", since it neither took orders from Carthage, nor was it majority Carthaginian. Rather, it was the army of the Barcid state, which was de facto a separate country with a separate foreign policy, only loosely aligned with the oligarchy in Africa.
 
