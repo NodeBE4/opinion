@@ -90,9 +90,17 @@ The IJA would have had a far greater impact on the Pacific War as they were plan
 
 Yes that's right
 
-### 58: [Is it true that Carthagian army was inferior to Roman, and Carthage had victories only thanks to Hannibal?](https://old.reddit.com/r/WarCollege/comments/shun8s/is_it_true_that_carthagian_army_was_inferior_to/), submitted on 2022-02-01 21:12:56+08:00.
+### 58: [Why are drones (seemingly) less effective in Ukraine than in Azerbaijan/Armenia?](https://old.reddit.com/r/CredibleDefense/comments/sh7fc6/why_are_drones_seemingly_less_effective_in/), submitted on 2022-02-01 01:55:39+08:00.
 
------ __58.1__ -----2022-02-02 04:48:47+08:00:
+----- __58.1__ -----2022-02-02 06:32:14+08:00:
+
+There's a lot of pieces do this. As u/zealouszoopark mentioned, Russian countermeasures are miles ahead of what Armenia had available. Another variable is doctrine. Russian doctrine prizes tube artillery as the main means of fire support. Drones are used simply for reconnaissance. Strike drones don't feature prominently in Russian doctrine because tube artillery can put out far higher volumes of fire and saturate over a greater area. In Russian military thought, shock is a product of casualties over time, so any weapon that doesn't kill quickly is not worth having.
+
+Ukraine recently bought a lot of Turkish drones, but they are being very careful with them. First because they have to be diplomatically careful and not give Russia provocation to invade. Second, because they have not yet embarked on an offensive to reclaim Donbass, so providing overwhelming fire support is a waste. Third, because in the initial phase of the war most of their air force was disabled by AA and Ukraine is a much poorer country than most imagine - it has about the third of the GDP per capita of China, and less than Guatemala. They do not want to see a repeat of that rate of attrition.
+
+### 59: [Is it true that Carthagian army was inferior to Roman, and Carthage had victories only thanks to Hannibal?](https://old.reddit.com/r/WarCollege/comments/shun8s/is_it_true_that_carthagian_army_was_inferior_to/), submitted on 2022-02-01 21:12:56+08:00.
+
+----- __59.1__ -----2022-02-02 04:48:47+08:00:
 
 Carthage largely *didn't have* an army. Yes, there were garrisons for each of the Phoenician colonies, with that in Carthage itself being the largest, but they weren't very good, didn't need to do much, and only really showed up in the 2nd Punic War for Zama. Their performance there was nothing to admire. The Barca family essentially operated a parallel state in Spain. The elite core of their army were Phoenician professional soldiers and mercenaries, who commanded a scattering of Iberian and Libyan tribal auxiliaries. This polyglot force was fire-forged into a disciplined, veteran, and semi-professional army by the end of Hamilcar Barca's lifetime through decades of campaigning. It is not entirely accurate to call this force the "Carthaginian Army", since it neither took orders from Carthage, nor was it majority Carthaginian. Rather, it was the army of the Barcid state, which was de facto a separate country with a separate foreign policy, only loosely aligned with the oligarchy in Africa.
 
