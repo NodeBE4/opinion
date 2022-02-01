@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-01-31
+date: 2022-02-01
 from: https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/
 layout: post
 tags:
@@ -100,4 +100,12 @@ When the question asks if the Taiping were proto-Marxist, I did not interpret th
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 108: [My Western Civ teacher repeatedly stated that throughout nearly all of western history, society has been built upon only two traditions: The Judeo-Christian and Greco-Roman traditions. How true is this?](https://old.reddit.com/r/AskHistorians/comments/shmnf6/my_western_civ_teacher_repeatedly_stated_that/), submitted on 2022-02-01 13:01:23+08:00.
+
+----- __108.1__ -----2022-02-02 01:46:17+08:00:
+
+> Are we counting the Qing Dynasty? That was a Mongolian dynasty that conquered China.
+
+You might be confusing the Qing with the Yuan – both emerged outside of China Proper, but the Yuan were Mongolian whereas the Qing were Manchu in origin.
 

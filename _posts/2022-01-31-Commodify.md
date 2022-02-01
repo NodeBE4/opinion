@@ -58,6 +58,10 @@ Definitely - I wasn't saying members of Chongryon would assist the North, only t
 
 Because there is zero chance of those weapons being used against *them.* All the nuclear crisis did was give them more bargaining chips with the US.
 
+----- __56.5__ -----2022-02-02 01:48:04+08:00:
+
+Everything Beijing did in the 2000s was short-sighted because they knew in the long run they'd win. Since 1991 China has lived with a constant belief that the US is planning to attack it. As recently as 2020, PLA command was convinced Donald Trump would attack China to remain President, and the chairman of the US JCS had to personally call them to assure them he would not carry out that order if it were given. If the US had 1.4 billion people and China had 320 million, but was a hostile hegemon with a GDP per capita 10 times greater, the US *would* allow Mexico to have nukes. It would give China a distraction and buy them time.
+
 ### 57: [How did the IJA's war in China impact the IJN's campaign in the Pacific, and vice versa?](https://old.reddit.com/r/WarCollege/comments/sh4t7v/how_did_the_ijas_war_in_china_impact_the_ijns/), submitted on 2022-02-01 00:10:31+08:00.
 
 ----- __57.1__ -----2022-02-01 02:05:15+08:00:
