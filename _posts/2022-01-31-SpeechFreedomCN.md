@@ -31,3 +31,7 @@ Yunnan woman Bi administratively detained for posting "Covid pandemic and vaccin
 
 Jiangsu man Yu detained for two days for saying in WeChat that law enforcement actions of police are profit driven.<br><img style="" src="https://pbs.twimg.com/media/FKevkaiXwAAXhF0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKevoIgWQAM5vA2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-02-01 14:33:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1488400154080296962)
+
+Happy Lunar New Year!<br><br>Wish everyone FREEDOM!
+
