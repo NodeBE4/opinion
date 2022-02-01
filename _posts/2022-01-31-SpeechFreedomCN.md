@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-01-31
+date: 2022-02-01
 from: https://twitter.com/SpeechFreedomCN/status/1487991811113205761
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-31~2022-02-06'
 ### 2: [2022-01-31 11:32:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1487992130127736834)
 
 Yunnan woman Bi administratively detained for posting "Covid pandemic and vaccine related inappropriate remarks" in WeChat. Her exact remarks are not revealed.<br><img style="" src="https://pbs.twimg.com/media/FKZosi8XwAEqaq1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-02-01 11:19:14+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1488351205088796674)
+
+江苏省扬中市男子余某，因在被交警处罚后在朋友圈发文称交警“无利不起早”，被认定为侮辱交警并被拘留2日。<br><img style="" src="https://pbs.twimg.com/media/FKevFAwX0AICsMW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKevIs1XwAAXqlo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-02-01 11:20:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1488351547419410432)
+
+Jiangsu man Yu detained for two days for saying in WeChat that law enforcement actions of police are profit driven.<br><img style="" src="https://pbs.twimg.com/media/FKevkaiXwAAXhF0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKevoIgWQAM5vA2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
