@@ -59,3 +59,7 @@ Re @John17Churchill 感谢🌹。同祝您全家虎年吉祥，平安健康快�
 
 Re @lunanweiyi 好景！构图好！
 
+### 12: [2022-02-01 05:45:10+08:00 推文](https://twitter.com/realcaixia/status/1488267137856978944)
+
+上个世纪90年代末以来，中国大陆医疗、养老、教育、住房基本市场化商业化，政府不承担责任。这些行业的职业道德随之崩塌，并影响带动全社会的道德堕落。<br><br>鲁  难: 实话还是容易一不小心就露出来了。<br><br><img style="" src="https://pbs.twimg.com/media/FKFx_cqXsAEJLvo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKFx_coWQAAzb1-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
