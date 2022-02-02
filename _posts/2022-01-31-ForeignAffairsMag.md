@@ -21,3 +21,11 @@ title: ForeignAffairsMag在2022-01-31~2022-02-06的言论
 
 "In the end, setting redlines is neither wisdom nor folly. Given the lack of appealing alternatives, Washington will inevitably need to use this tactic to bargain with and deter adversaries. But it need not do so under false assumptions. The reputational risk of walking back from a redline is not as great as many fear. Nor are the strongest redlines—or those that are trumpeted with brash language and swagger—the most effective. Such threats risk provoking more than they coerce and establishing credibility at the price of assurance. To be effective, redlines should be carefully calibrated to convey U.S. demands, provide necessary assurances, and avoid provoking their targets. Whether the United States is dealing with China, Iran, or Russia, striking the right balance will be the key to success."
 
+### 111: [Mean Streets: The Global Traffic Death Crisis](https://old.reddit.com/r/TrueReddit/comments/sj14ul/mean_streets_the_global_traffic_death_crisis/), submitted on 2022-02-03 05:55:29+08:00.
+
+----- __111.1__ -----2022-02-03 05:57:07+08:00:
+
+Revisit this 2020 article by Janette Sadik-Khan and Seth Solomonow on the global traffic death crisis, and what policymakers can do to respond. 
+
+Here's a Guest Pass: [https://www.foreignaffairs.com/guest-pass/redeem/u4WXHNfcwOw](https://www.foreignaffairs.com/guest-pass/redeem/u4WXHNfcwOw)
+
