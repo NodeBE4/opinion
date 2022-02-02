@@ -27,3 +27,11 @@ RT Selina Wang<br>Inside v. outside the #WinterOlympics bubble. My colleague @
 
 New in the CMP Dictionary: the "Three Closenesses" (三贴近). One of the earliest CCP phrases to encompass the notion of media developing and becoming more commercial, while at the same time maintaining political discipline. <a href="https://chinamediaproject.org/the_ccp_dictionary/three-closenesses/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/three-closenesses/</a><br><img style="" src="https://pbs.twimg.com/media/FKj9NO0akAESlCa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-02-02 20:51:00+08:00 推文](https://twitter.com/cnmediaproject/status/1488857485243224065)
+
+The CCP's obsession with #-based phrases can be exacting. But this year China's politics will center on just 2 crucial catchphrases: the “2 Establishes” and the “2 Safeguards" -- and 1 simple message: Xi will lead China beyond 2022. <a href="https://bit.ly/35IWcPj" target="_blank" rel="noopener noreferrer">https://bit.ly/35IWcPj</a><br><img style="" src="https://pbs.twimg.com/media/FKl74R4aIAgmNm0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-02-02 20:53:03+08:00 推文](https://twitter.com/cnmediaproject/status/1488858001482334210)
+
+Re Just remember this simple formula: 2 + 2 = Xi.<br><img style="" src="https://pbs.twimg.com/media/FKl8cvzaUAEg2j1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
