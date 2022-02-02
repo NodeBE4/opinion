@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-01
+date: 2022-02-02
 from: https://twitter.com/realcaixia/status/1487859930275237889
 layout: post
 tags:
@@ -62,4 +62,8 @@ Re @lunanweiyi 好景！构图好！
 ### 12: [2022-02-01 05:45:10+08:00 推文](https://twitter.com/realcaixia/status/1488267137856978944)
 
 上个世纪90年代末以来，中国大陆医疗、养老、教育、住房基本市场化商业化，政府不承担责任。这些行业的职业道德随之崩塌，并影响带动全社会的道德堕落。<br><br>鲁  难: 实话还是容易一不小心就露出来了。<br><br><img style="" src="https://pbs.twimg.com/media/FKFx_cqXsAEJLvo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKFx_coWQAAzb1-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-02-02 09:06:14+08:00 推文](https://twitter.com/realcaixia/status/1488680124165894145)
+
+红花女推友这段引语令人心碎。红花女最后一问问得好！振聋发聩！<br><br>红花女: 儿子阵亡 母亲20年才凑齐路费  到儿子墓前痛哭<br>云南嵩明人赵占英,1984年阵亡,年仅21岁,葬于麻栗坡陵园。贫穷的赵妈妈向乡政府多次申请路费未果，于是自己攒,终于攒够了路费。2004年,她首次也许是最后一次来到陵园,在儿子坟前痛哭。从嵩明到麻栗坡163公里,她却用20年来穿越。这是谁的国,值得去保卫吗？<br><br><img style="" src="https://pbs.twimg.com/media/FKYn32nXoAwQ4IG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKYn32xXEAQ0aPV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKYn32qX0AQtry2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
