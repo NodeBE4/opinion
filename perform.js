@@ -165,6 +165,7 @@ date: ${dateString}
 author: ${article.author}
 from: ${articlelink}
 tags: [ ${article.site} ]
+comments: True
 categories: [ ${article.site} ]
 ---
 `
