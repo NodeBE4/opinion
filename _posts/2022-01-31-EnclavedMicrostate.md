@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-01
+date: 2022-02-02
 from: https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/
 layout: post
 tags:
@@ -108,4 +108,20 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 > Are we counting the Qing Dynasty? That was a Mongolian dynasty that conquered China.
 
 You might be confusing the Qing with the Yuan – both emerged outside of China Proper, but the Yuan were Mongolian whereas the Qing were Manchu in origin.
+
+### 109: [Did Alexander try to abolish Egyptian gods as well?](https://old.reddit.com/r/AskHistorians/comments/si4jpi/did_alexander_try_to_abolish_egyptian_gods_as_well/), submitted on 2022-02-02 04:21:55+08:00.
+
+----- __109.1__ -----2022-02-02 11:31:55+08:00:
+
+We do not in fact know that Alexander destroyed Zoroastrian religious texts, as Zoroastrians did not codify their oral traditions in textual form until the 4th century AD under Sassanid rule. See these answers by /u/Trevor_Culley:
+
+* https://reddit.com/r/AskHistorians/comments/l6uxwa/many_historical_claims_regarding_zoroastrianism/gl570ke/?context=999
+
+* https://www.reddit.com/r/AskHistorians/comments/ly3wdr/what_are_some_persian_description_of_alexander/
+
+As for Alexander and Egyptian religion and political customs, /u/cleopatra_philopater notes in the following answers that Alexander made an effort to legitimise himself using Egyptian imagery:
+
+* https://www.reddit.com/r/AskHistorians/comments/9bc18o/after_the_death_of_cleopatra_did_the_title_of/e5206h9/?context=999
+
+* https://www.reddit.com/r/AskHistorians/comments/684omb/were_the_trappings_of_the_office_of_pharoah/dgxo9tm/?context=999
 
