@@ -125,3 +125,7 @@ As for Alexander and Egyptian religion and political customs, /u/cleopatra_philo
 
 * https://www.reddit.com/r/AskHistorians/comments/684omb/were_the_trappings_of_the_office_of_pharoah/dgxo9tm/?context=999
 
+----- __109.2__ -----2022-02-02 13:28:37+08:00:
+
+You can repeat the assertion all you want, but the only evidence for this is in the form of claims from the Sassanid period about the supposed loss of texts. While we do have plenty of evidence of Persian writing, this is not known to have extended to religious scripture, particularly the Avesta, before the Sassanids.
+

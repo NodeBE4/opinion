@@ -49,3 +49,11 @@ Same goes for you.  Let's not descend into schoolyard-bully type jokes.
 
 Within the universe of subject matters on which Pritzker may deserve criticism, let's keep it focused to matters relevant to this subreddit in this setting.
 
+### 63: [White House urges Spotify to take further action on Joe Rogan: ‘More can be done’](https://old.reddit.com/r/stupidpol/comments/si6bld/white_house_urges_spotify_to_take_further_action/), submitted on 2022-02-02 05:35:14+08:00.
+
+----- __63.1__ -----2022-02-02 13:06:38+08:00:
+
+> This has to be one of the most pathetic regimes in history.
+
+Yep.  At least now there isn't even any pretense that they give a shit about working class people or middle America in general.  They care about this idiocy.
+
