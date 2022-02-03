@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-02
+date: 2022-02-03
 from: https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/
 layout: post
 tags:
@@ -128,4 +128,10 @@ As for Alexander and Egyptian religion and political customs, /u/cleopatra_philo
 ----- __109.2__ -----2022-02-02 13:28:37+08:00:
 
 You can repeat the assertion all you want, but the only evidence for this is in the form of claims from the Sassanid period about the supposed loss of texts. While we do have plenty of evidence of Persian writing, this is not known to have extended to religious scripture, particularly the Avesta, before the Sassanids.
+
+### 110: [[Deleted]](https://old.reddit.com/r/Hololive/comments/sj680c/deleted/), submitted on 2022-02-03 09:33:59+08:00.
+
+----- __110.1__ -----2022-02-03 18:43:03+08:00:
+
+Mumei is an r/AskHistorians moderator confirmed.
 
