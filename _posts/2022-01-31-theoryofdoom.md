@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-02
+date: 2022-02-03
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/si1b2l/unofficial_daily_update_for_20220201_8665_new/
 layout: post
 tags:
@@ -56,4 +56,10 @@ Within the universe of subject matters on which Pritzker may deserve criticism, 
 > This has to be one of the most pathetic regimes in history.
 
 Yep.  At least now there isn't even any pretense that they give a shit about working class people or middle America in general.  They care about this idiocy.
+
+### 64: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
+
+----- __64.1__ -----2022-02-03 12:27:54+08:00:
+
+I don't see how this is relevant.
 
