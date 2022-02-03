@@ -135,3 +135,9 @@ You can repeat the assertion all you want, but the only evidence for this is in 
 
 Mumei is an r/AskHistorians moderator confirmed.
 
+### 111: [How much Chinese history was actually lost during the Cultural Revolution?](https://old.reddit.com/r/AskHistorians/comments/sjidzv/how_much_chinese_history_was_actually_lost_during/), submitted on 2022-02-03 20:51:00+08:00.
+
+----- __111.1__ -----2022-02-04 02:45:49+08:00:
+
+Apologies, but we have removed your response. While we appreciate your efforts here, we require that sources used in [an answer demonstrate a level of quality which reflects the current, academic understanding of a topic](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). While not *always* true, sources such as pop histories, glossy magazine articles, or personal blogs can often be quite problematic in the way that they simplify a topic, and [in using them we would expect the source engagement to be able to reflect their limitations, and be able to contextualize them with more academic sources as well](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/). Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
+
