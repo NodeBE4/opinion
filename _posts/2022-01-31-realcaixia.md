@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-03
+date: 2022-02-04
 from: https://twitter.com/realcaixia/status/1487859930275237889
 layout: post
 tags:
@@ -70,4 +70,12 @@ Re @lunanweiyi 好景！构图好！
 ### 14: [2022-02-03 09:55:38+08:00 推文](https://twitter.com/realcaixia/status/1489054942270836740)
 
 徐州八孩妈妈的悲惨境况被曝光后，接着当地被爆出象八孩妈妈悲惨命运的还有人在。于是，逐渐揭开中共国拐卖人口的犯罪黑幕，中共党的基层组织基层官员、中共国政府在其中什么角色逐渐浮现出来。中共国——累累罪恶的国家。<br><br>Chang Ping 长平: 长平观察：中国政府在人口拐卖中扮演了什么角色？<br> <a href="https://p.dw.com/p/46P5y?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/46P5y?maca=zh-Twitter-sharing</a>
+
+### 15: [2022-02-04 03:59:46+08:00 推文](https://twitter.com/realcaixia/status/1489327772556218368)
+
+中共国的一些领导和领导家属染指核酸检测，利用防疫之名发灾难财，这个黑幕实在太令人发指？<br><br>韩连潮: 【党国清零真相】参加中国科技部课题研究的哈佛学者黄万盛的谈话录音在大陆疯传，黄揭露了防疫黑幕：中国基层医疗体系崩溃是疫情失控与蔓延的主要原因；核酸试剂与疫苗开发已成钱权结合的产物，领导的白手套和领导家属们直接染指核酸试剂，仅核酸检测就赚了6700亿元，清零实际上是给利益集团输送利益。<br><br><img style="" src="https://pbs.twimg.com/media/FKpA0jyWYAUcqwN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-02-04 04:50:26+08:00 推文](https://twitter.com/realcaixia/status/1489340526755201025)
+
+限制人身自由——这就是中共国肆意侵犯人权的又一事例这里。并且这已经成为中共的常规操作。<br><br>ZHANGDONG: 2015年国际奥委会授权中国举办冬奥会时，双方曾签署过中国必须尊重人权的书面协议，现在是时候公布并重申这份人权协议！<br> <a href="https://twitter.com/gaoyu200812/status/1489116559155273728" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1489116559155273728</a>
 
