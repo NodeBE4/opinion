@@ -89,6 +89,28 @@ That's because Kamila isn't in California anymore.  Ironically, her political ca
 
 It's incredible how the meaning of words has deteriorated over the course of the pandemic.  And not just in relation to things the government is up to.  But for everything.
 
+----- __64.5__ -----2022-02-03 14:02:04+08:00:
+
+> I realise you are a moderator of this subreddit with a strong opinion
+
+My opinions don't matter.  What matters is what the evidence says or does not say, and what constitutes evidence in the first instance.  So if I say something you think is wrong and you have evidence to prove it, go for it.  But a CNN article talking about something Sanjay Gupta heard from someone else isn't evidence.  Nor are tweets or other declarative statements that misrepresent data sets.  Nor are statements by bureaucrats in positions of power that are backed by nothing.  
+
+That's all just about as worthless as some random Redditor making claims about widely available pharmaceutical products and their applications in veterinary medicine.  
+
+> on how to approach the mitigation of the pandemic that that differs from mine, so I will tread carefully as I do not want to be banned from this subreddit.
+
+You don't have to tread carefully.  Just follow the rules, which provide a pretty wide latitude for people to do all kinds of things.  Don't take this the wrong way, but I'm just not all that invested in what you think about any of this, on a personal level.  I know some mods on some subs are, but I just don't care.  As long as you're not going totally off the reservation, we allow it even if some claims people make --- including in this thread --- are hopelessly misguided.  Not implying you or any other person may fall into that category, however.  It's just how these things go.
+
+It also *really* takes a lot to be banned.  Like you have to do something egregious, repeatedly and continuously despite prior moderator warnings.  There are exceptions we might handle on a case by case basis, but if you make any effort whatsoever to deal in good faith with facts you're almost certainly not going to be banned by anyone here.  
+
+> I read the Newsweek article you posted and I feel like it doesn't entirely mean that they are proposing that everyone wear masks indoors forever, 
+
+The rule is forever.  The particularities of its application may change over time.  So it's giving some bureaucrat in government the right to exercise control for an indefinite period of time, varying according to that person's subjective judgment of what the need is.  This is a bad idea.  Imagine letting the DMV regulate the conditions under which you could access your fridge.    
+
+> but it was more of a discussion of how emergency orders work how they should be managed in a longer term situation
+
+There are three levels to this sort of thing.  Oregon's proposals fail all three.  The first level is whether the things they're proposing to do actually and demonstrably work.  Oregon has none of that.  The second level is whether, even if they work, it's a good idea to do.  Success at the first level doesn't require anything for the second level, but failure at the first level is fatal to the second.  Because only a fool would continue to do something that empirically fails to do what you set out to do, in the first instance.  The third level is whether there's any ongoing need giving rise to the proposal in the first place.  Oregon has no way to predict that either, but they're off creating rules and regulations anyway.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:

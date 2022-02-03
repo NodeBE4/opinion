@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-02
+date: 2022-02-03
 from: https://twitter.com/realcaixia/status/1487859930275237889
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re @lunanweiyi 好景！构图好！
 ### 13: [2022-02-02 09:06:14+08:00 推文](https://twitter.com/realcaixia/status/1488680124165894145)
 
 红花女推友这段引语令人心碎。红花女最后一问问得好！振聋发聩！<br><br>红花女: 儿子阵亡 母亲20年才凑齐路费  到儿子墓前痛哭<br>云南嵩明人赵占英,1984年阵亡,年仅21岁,葬于麻栗坡陵园。贫穷的赵妈妈向乡政府多次申请路费未果，于是自己攒,终于攒够了路费。2004年,她首次也许是最后一次来到陵园,在儿子坟前痛哭。从嵩明到麻栗坡163公里,她却用20年来穿越。这是谁的国,值得去保卫吗？<br><br><img style="" src="https://pbs.twimg.com/media/FKYn32nXoAwQ4IG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKYn32xXEAQ0aPV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKYn32qX0AQtry2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-02-03 09:55:38+08:00 推文](https://twitter.com/realcaixia/status/1489054942270836740)
+
+徐州八孩妈妈的悲惨境况被曝光后，接着当地被爆出象八孩妈妈悲惨命运的还有人在。于是，逐渐揭开中共国拐卖人口的犯罪黑幕，中共党的基层组织基层官员、中共国政府在其中什么角色逐渐浮现出来。中共国——累累罪恶的国家。<br><br>Chang Ping 长平: 长平观察：中国政府在人口拐卖中扮演了什么角色？<br> <a href="https://p.dw.com/p/46P5y?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/46P5y?maca=zh-Twitter-sharing</a>
 

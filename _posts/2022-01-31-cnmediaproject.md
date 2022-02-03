@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-02
+date: 2022-02-03
 from: https://twitter.com/DavidBarboza2/status/1487979863776632836
 layout: post
 tags:
@@ -34,4 +34,12 @@ The CCP's obsession with #-based phrases can be exacting. But this year China's 
 ### 5: [2022-02-02 20:53:03+08:00 推文](https://twitter.com/cnmediaproject/status/1488858001482334210)
 
 Re Just remember this simple formula: 2 + 2 = Xi.<br><img style="" src="https://pbs.twimg.com/media/FKl8cvzaUAEg2j1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-02-03 11:57:17+08:00 推文](https://twitter.com/rsettles/status/1489085559322546181)
+
+RT rsettles<br>Another excellent interview with Wei Xing (魏星) of China Fact Check from @fangkc and translated here by @cnmediaproject   Highly recommended. #FactCheck #misinformation <a href="https://chinamediaproject.org/2021/09/30/checking-in-on-fact-checking-in-china/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/09/30/checking-in-on-fact-checking-in-china/</a>
+
+### 7: [2022-02-03 12:08:16+08:00 推文](https://twitter.com/jwassers/status/1489088322630680580)
+
+RT Jeff Wasserstrom<br>Reading: an ARC of Indelible City by ⁦@limlouisa⁩. It’s even better than I expected &amp; that’s saying a LOT. I’ve long admire her work but this daring, bracingly personal, carefully crafted &amp; researched chronicle of a beloved city’s still a revelation. <a href="https://www.penguinrandomhouse.com/books/646684/indelible-city-by-louisa-lim/" target="_blank" rel="noopener noreferrer">https://www.penguinrandomhouse.com/books/646684/indelible-city-by-louisa-lim/</a>
 
