@@ -111,6 +111,18 @@ The rule is forever.  The particularities of its application may change over tim
 
 There are three levels to this sort of thing.  Oregon's proposals fail all three.  The first level is whether the things they're proposing to do actually and demonstrably work.  Oregon has none of that.  The second level is whether, even if they work, it's a good idea to do.  Success at the first level doesn't require anything for the second level, but failure at the first level is fatal to the second.  Because only a fool would continue to do something that empirically fails to do what you set out to do, in the first instance.  The third level is whether there's any ongoing need giving rise to the proposal in the first place.  Oregon has no way to predict that either, but they're off creating rules and regulations anyway.
 
+----- __64.6__ -----2022-02-03 21:53:16+08:00:
+
+> The issue is here is that you appear to believe that no steps beyond vaccination will help end the pandemic. 
+
+I'd be curious why you think that, because I have never made that claim nor would I argue in support of it.  I have seen no evidence whatsoever tending to indicate that any non-pharmaceutical intervention is effective.  But since the pandemic began, I have been dumbfounded by the NIH's unidimensional focus on vaccines (read: not therapeutics) and their concurrent nearly complete disregard for therapeutics, treatment protocols, their development and the like.  There's more to say on these and other subjects, but that's just a preview. 
+
+> The goes against all prevailing public health thought on the matter. 
+
+We just established above that you don't, in fact, know what I think ending the pandemic.  But I presume you had at least some reason to believe what you thought I thought went against "all prevailing public health thought."  
+
+So, what do you think constitutes "prevailing public health thought"?  And why?
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
