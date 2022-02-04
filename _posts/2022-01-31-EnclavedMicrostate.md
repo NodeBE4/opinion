@@ -145,3 +145,13 @@ Apologies, but we have removed your response. While we appreciate your efforts h
 
 Yu Hua is a novelist, not a historian. His work is widely lauded as a cultural artefact, not a work of history. Memoirs are useful *primary* sources, but you need to be citing some actual historiographical material as the *basis* of your answer.
 
+----- __111.3__ -----2022-02-04 19:23:35+08:00:
+
+A further response seeing as you opted to edit your comment:
+
+> Aren’t primary sources generally preferred over secondary?
+
+No. Primary sources, sometimes individual but usually aggregated, are the basis of historical knowledge, but the basis of historical *understanding* are secondary sources which take a bigger-picture view of the sources and operate in conversation with the work of other historians. There are certain fields and periods where an in-depth analysis of a limited body of primary evidence is the standard modus operandi, but even then it is critical to have an understanding of the methods by which this evidence has been interpreted, which is what secondary sources are critical to. These are historiographical in that firstly, they are critical engagements with the primary evidence, and secondly, they are critical engagements with the wider body of scholarship on a particular event, period, and/or subfield. Primary sources, especially memoirs, have agendas and narratives that need to be understood and engaged with in relation to the object of study; secondary sources have already done that understanding and engagement and produced a new narrative – one that can be quite close to or quite distinct from those of the primary material used – out of one or more such sources.
+
+In effect, a primary source in isolation cannot be used to answer the question of 'how much Chinese history was actually lost during the Cultural Revolution', because it is one person's answer to that question divorced from context. You need to cite historians who have critically evaluated the primary evidence in light of how other historians have approached the same or similar subjects in order to produce a synthetic analysis.
+
