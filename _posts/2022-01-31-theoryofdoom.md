@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-03
+date: 2022-02-04
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/si1b2l/unofficial_daily_update_for_20220201_8665_new/
 layout: post
 tags:
@@ -136,4 +136,22 @@ You didn't answer that question above.
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
 
 I don't see how this is relevant.
+
+### 66: [Chicago Mask, Vaccine Card Mandates Could Be Gone ‘Quite Soon’ As Omicron Cases Drop, Top Doc Says](https://old.reddit.com/r/CoronavirusIllinois/comments/sjoy2k/chicago_mask_vaccine_card_mandates_could_be_gone/), submitted on 2022-02-04 01:29:25+08:00.
+
+----- __66.1__ -----2022-02-04 10:37:39+08:00:
+
+> But Biden is doubling down on it. 
+
+Biden's opinions change with the blowing wind.  And the wind is blowing in one clear direction.  I expect new thinking on all of this before the end of Q1.
+
+----- __66.2__ -----2022-02-04 10:54:02+08:00:
+
+> The CDC still hasn't revised the metrics Chicago is using since before delta, omicron, or even vaccines.
+
+Metrics have nothing to do with these decisions, as Fauci's shortening the quarantine period after Delta's CEO went after him proves.
+
+----- __66.3__ -----2022-02-04 11:00:01+08:00:
+
+I assume you saw the Kaiser Family Foundation's meta-analysis relating to the efficacy of lockdowns, right?
 
