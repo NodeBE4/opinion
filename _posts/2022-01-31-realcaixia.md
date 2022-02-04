@@ -87,3 +87,7 @@ Re @lunanweiyi 好景！构图好！
 
 在专制转向宪政民主的过程中，宗教能起很大作用。中国大陆许多基督教信众、基督徒和长老们，比如王怡牧师等，都为反对极权统治、争取宪政民主付出了巨大的努力和牺牲。宗教人士是大陆宪政民主事业的有生力量。<br><br>因 “六四”当天举牌“为国家祷告”被捕的基督徒高恒案，将秘密开庭 <a href="https://lingbaxianzhang.blogspot.com/2022/01/blog-post_753.html" target="_blank" rel="noopener noreferrer">https://lingbaxianzhang.blogspot.com/2022/01/blog-post_753.html</a>
 
+### 19: [2022-02-04 12:19:18+08:00 推文](https://twitter.com/realcaixia/status/1489453484764241921)
+
+据说苹果谷歌这两个大科技公司，屈从于中共极权统治封锁信息的要求，在大陆销售的苹果手机中，有不少在世界上其他地区和国家都能下载使用的软件APP，而在大陆却无法下载使用。这种做法直接伤害大陆用户的权益，也损害苹果谷歌自身的信誉。<br><br>韩连潮: 【重要法案】一项针对苹果和谷歌下架应用软件的法案今在参议院司法委员会以20对2票通过，该名为《开放应用市场法案》要求科技公司允许第三方应用软件下载安装，15个维、藏、港、汉人权团体和40多名活动人士联署支持这一法案，使其获得两党参议员的支持。深谢联署的团体和个人, 你们的行动产生了影响。<br><br><img style="" src="https://pbs.twimg.com/media/FKtamG5XoAUv1wI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
