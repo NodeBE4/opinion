@@ -186,5 +186,13 @@ Once it got good enough, the NDUA launched an all out offensive against the NRA 
 
 ----- __63.2__ -----2022-02-04 15:15:16+08:00:
 
-His writings didn't cause the peasant's war, the preaching of his followers did. You could say this is the point you're trying to make, but that would be a terrible comparison. Unlike the protestant reformers, the CPC's agitators for twenty years totally failed to incite mass popular uprising against the KMT. They only succeeded when the military situation turned decisively in their favor.
+His writings didn't cause the peasant's war, the preaching of his followers did. You could say this is the point you're trying to make, but that would be a bad comparison. Unlike the protestant reformers, the CPC's agitators for twenty years totally failed to incite mass popular uprising against the KMT. They only succeeded when the military situation turned decisively in their favor.
+
+----- __63.3__ -----2022-02-04 15:30:31+08:00:
+
+>The CPC spent those most of those same years scurrying from bolthole to bolthole just ahead of KMT troops. Then they spent 1945 massively expanding their army by drafting an enormous number of raw troops, the army that incidentally faced off against Chiang's best. So I'm not sure if the KMT actually had it worse.
+
+That. The situation in the Communist rear was much, much worse than in the nationalist rear. The CCP was trying to fight a war on the frontlines while simultaneously waging a counterinsurgency against \~400,000 "bandits" (some of whom had tanks). Outside major cities, Manchuria was more or less lawless since its colonization in the late 19th century. The Qing, Russia, the Zhang family, and Japan had all tried and failed to establish order in the countryside and in the end made pragmatic deals with the "bandits" to maintain a semblance of peace.
+
+The problem with the CCP doing the same, as they found out in the disastrous retreat from Siping in which the majority of their army deserted them, was that bandits they dealt with were fairweather friends. For the next two years, they were launching offensives against the KMT *while* chasing down and destroying any independent military force that didn't totally submit to their authority and dissolve its prior autonomy. In contrast, Chiang, through being the recipient of American aid and some clever maneuvers, had totally established himself as the leader of the Chinese warlords by 1945. Much of the South was ruled by warlord governments of questionable loyalty, but at least there was *a government* in most of its landmass.
 
