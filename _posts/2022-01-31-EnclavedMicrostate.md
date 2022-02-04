@@ -155,6 +155,10 @@ No. Primary sources, sometimes individual but usually aggregated, are the basis 
 
 In effect, a primary source in isolation cannot be used to answer the question of 'how much Chinese history was actually lost during the Cultural Revolution', because it is one person's answer to that question divorced from context. You need to cite historians who have critically evaluated the primary evidence in light of how other historians have approached the same or similar subjects in order to produce a synthetic analysis.
 
+----- __111.4__ -----2022-02-05 02:31:34+08:00:
+
+I've removed your comment to reduce clutter, but you might be interested in asking it as its own question or in the [Friday Free-for-All](https://www.reddit.com/r/AskHistorians/comments/skdya4/friday_freeforall_february_04_2022/).
+
 ### 112: [Authoritative Contemp. Chinese History Reads?](https://old.reddit.com/r/ChineseHistory/comments/sk33x7/authoritative_contemp_chinese_history_reads/), submitted on 2022-02-04 11:35:19+08:00.
 
 ----- __112.1__ -----2022-02-04 22:14:02+08:00:
@@ -170,4 +174,12 @@ In effect, a primary source in isolation cannot be used to answer the question o
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 114: [Why did the use of slave soldiers (ghilmans, mamluks, janissaries, etc.) become so universal amongst Muslim empires from the Abbasid period onwards? And why was this phenomenon unique to Muslim empires?](https://old.reddit.com/r/AskHistorians/comments/skc7m1/why_did_the_use_of_slave_soldiers_ghilmans/), submitted on 2022-02-04 20:32:34+08:00.
+
+----- __114.1__ -----2022-02-05 02:15:24+08:00:
+
+> Very ironically, China only developed a "slave soldier" system during the Qing period in the form of the ujen cooha ("heavy troops" in Manchu), a unit of enormous Han Chinese men pressed into military service for the purpose of carrying cannons around the battlefield and operating the cumbersome muskets of the time period.
+
+Without getting too pedantic here, *ujen cooha* was simply the Manchu term for the Han Banners, who were enslaved only insofar as *all* Bannermen were enslaved in one form or another, as I discuss [here](https://www.reddit.com/r/AskHistorians/comments/jy7m9j/did_china_ever_have_slavery/gd2j5r1/) and [here](https://www.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/htut7i2/?context=999). The Han Banners were originally constituted from a mix of willing defectors and forced labour, but after their initial formation they were mostly hereditary, rather than sustained through purchase of chattel slaves in the manner of the Mamluks.
 
