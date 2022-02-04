@@ -123,6 +123,14 @@ We just established above that you don't, in fact, know what I think ending the 
 
 So, what do you think constitutes "prevailing public health thought"?  And why?
 
+----- __64.7__ -----2022-02-04 10:31:32+08:00:
+
+Let's keep our eyes on the ball for now.  Why do you think I thought this:
+
+> The issue is here is that you appear to believe that no steps beyond vaccination will help end the pandemic.
+
+You didn't answer that question above.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
