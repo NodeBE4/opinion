@@ -295,6 +295,10 @@ Yes that's right - there was no perfect twin to the mamluk system in China and t
 
 Yes, but under extremely different conditions and for different purposes. [This](https://www.artsrn.ualberta.ca/amcdouga/Hist494_2014/readings/fay_ch4.pdf) is a good writeup on the female slave trade in Egypt under Mamluk rule while *God's Shadow* by Alan Mikhail spends a lot of time describing concubinage in the Ottoman Empire. The long story short is that women were imported mainly as concubines and mainly from the Caucasus and the former Rus' instead of the steppe. However, gender roles among Turkish, Egyptian, and Iranian elite families at the time weren't as rigid as we imagine them today and these women also had a political and administrative role to play in the influential families they married into.
 
+----- __66.5__ -----2022-02-05 04:29:41+08:00:
+
+Because by the 9th century the Iranian nobility was largely Muslim and it was forbidden to enslave them. Those that were not Muslim were still integral to the Abbasid government, which rode to power on the back of a Persian army. Making mamluks of their children would have been expensive, destabilizing, and would defeat the purpose of creating an army personally loyal to the Caliph.
+
 ### 67: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
 
 ----- __67.1__ -----2022-02-04 23:05:42+08:00:

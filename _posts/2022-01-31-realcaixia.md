@@ -99,3 +99,11 @@ Re @lunanweiyi 好景！构图好！
 
 雨果的《悲惨世界》中芳汀的境遇，还要比徐州八孩妈妈好些。雨果绝对想不到号称“人民至上，一切为了人民”的中共党统治的国家里有比芳汀更悲惨的女性。雨果更想不到号称全国妇女之家的中国妇联至今一声不响，号称媒体的中国所有官媒全成了哑巴！我想若雨果还在世的话他会写作一部《人间地狱》。<br><br>鲍彤 Bao Tong: 悲惨中国。<br>雨果看到了大革命后的法国。<br>雨果不知道大革命后的中国。<br> <a href="https://twitter.com/Jessie789Q/status/1489462883540946947" target="_blank" rel="noopener noreferrer">https://twitter.com/Jessie789Q/status/1489462883540946947</a>
 
+### 22: [2022-02-05 03:43:19+08:00 推文](https://twitter.com/realcaixia/status/1489686023059742729)
+
+卢比奥这个法案提得好！<br><br>卢比奥提法案 将美企雇中共太子党列腐败行为 | 反海外腐败法 | 在华美企 | 中共腐败 | 大纪元 <a href="https://www.epochtimes.com/gb/22/2/3/n13553996.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/2/3/n13553996.htm</a>
+
+### 23: [2022-02-05 04:03:40+08:00 推文](https://twitter.com/realcaixia/status/1489691143541596163)
+
+据说这位运动员只是第一次检测结果是阳性，后面三次检测都是阴性，但依然要对她强行隔离。<br>这件事再次表明，中共国漠视权利与规则，强权肆意横行，这是个非常危险的国家，任何人都可能受到中共国伤害。<br>冬奥会比利时女运动员哭诉：他们这是要隔离我到闭幕式啊！YouTube <a href="https://m.youtube.com/watch?v=xI5--XgyrVY" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=xI5--XgyrVY</a>
+
