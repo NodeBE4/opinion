@@ -126,9 +126,19 @@ The impact of Hannibal's mobile professionals cannot be understated. His only de
 
 The Barcid army was better than the Roman, but the Carthaginian army (meaning that incoherent horde which only saw a single battle) was much worse.
 
-### 61: [Similarity and difference between Soviet and French War doctrine during WWII.](https://old.reddit.com/r/WarCollege/comments/sjihbz/similarity_and_difference_between_soviet_and/), submitted on 2022-02-03 20:55:30+08:00.
+### 61: [The Houthis have won in Yemen: What next?](https://old.reddit.com/r/geopolitics/comments/sinrvl/the_houthis_have_won_in_yemen_what_next/), submitted on 2022-02-02 20:43:39+08:00.
 
------ __61.1__ -----2022-02-04 00:19:50+08:00:
+----- __61.1__ -----2022-02-04 22:37:00+08:00:
+
+Great post. It always confuses me when people attribute any Houthi success or behavior to Iranian support when the country is under a total blockade.
+
+----- __61.2__ -----2022-02-04 22:40:54+08:00:
+
+Their military record is also extremely disappointing and overhyped. I guess they’re a modern Sparta after all.
+
+### 62: [Similarity and difference between Soviet and French War doctrine during WWII.](https://old.reddit.com/r/WarCollege/comments/sjihbz/similarity_and_difference_between_soviet_and/), submitted on 2022-02-03 20:55:30+08:00.
+
+----- __62.1__ -----2022-02-04 00:19:50+08:00:
 
 Great question and a criminally under investigated topic. Recently there's been a lot of great work on [French influence in the American army](https://smallwarsjournal.com/jrnl/art/us-army-culture-french), but what very few know is that French influence was even greater on the late Tsarist and Soviet army. You could say that Soviet doctrine was French doctrine on steroids.
 
@@ -152,19 +162,19 @@ The result was a degree of methodization in warfare never before seen in Russia 
 
 Besides the French, there were of course other intellectual influences on the Russian and Soviet armies. They loved the theories of von Clausewitz and borrowed some cavalry ideas from Central Asian nomads and Philip Sheridan. However, their organizational culture, training philosophy, and intellectual roots were all shaped by the French during the Milyutin period, and that backdrop has stuck with them to this day.
 
------ __61.2__ -----2022-02-04 08:35:02+08:00:
+----- __62.2__ -----2022-02-04 08:35:02+08:00:
 
 For not doing those things
 
-### 62: [What were Pakistan/the ISI's goals in the 2008 Mumbai attacks? Were they successful?](https://old.reddit.com/r/WarCollege/comments/sjuvoe/what_were_pakistanthe_isis_goals_in_the_2008/), submitted on 2022-02-04 05:28:23+08:00.
+### 63: [What were Pakistan/the ISI's goals in the 2008 Mumbai attacks? Were they successful?](https://old.reddit.com/r/WarCollege/comments/sjuvoe/what_were_pakistanthe_isis_goals_in_the_2008/), submitted on 2022-02-04 05:28:23+08:00.
 
------ __62.1__ -----2022-02-04 09:43:18+08:00:
+----- __63.1__ -----2022-02-04 09:43:18+08:00:
 
 Plus they weren't all that bothered with the outcome. India has more Muslims than Pakistan - 15% of the population. The Mumbai attacks were one in a series of actions since independence that drove a wedge between Hindu and Muslim Indians, and that could only benefit Pakistan.
 
-### 63: [What were the biggest factors that prevented the Republic of China from winning the Chinese Civil War?](https://old.reddit.com/r/WarCollege/comments/sjweyz/what_were_the_biggest_factors_that_prevented_the/), submitted on 2022-02-04 06:30:36+08:00.
+### 64: [What were the biggest factors that prevented the Republic of China from winning the Chinese Civil War?](https://old.reddit.com/r/WarCollege/comments/sjweyz/what_were_the_biggest_factors_that_prevented_the/), submitted on 2022-02-04 06:30:36+08:00.
 
------ __63.1__ -----2022-02-04 08:23:41+08:00:
+----- __64.1__ -----2022-02-04 08:23:41+08:00:
 
 Lack of initiative. Contra popular belief public support had almost nothing to do with it. Harold Tanner in both his books on the CCW convincingly argues that most Chinese were apathetic towards the CCP and KMT both. It’s impossible for “Mao’s writings” to have had any effect… more than 95% of peasants were illiterate and the vast majority of what he wrote was on military science.
 
@@ -184,15 +194,23 @@ The NDUA reversed the skills gap through two years of practice, which the NRA co
 
 Once it got good enough, the NDUA launched an all out offensive against the NRA in Manchuria. It encircled the “two big cities” and destroyed its local enemy, which represented all the best NRA forces. This defeat in 1948 caused a general collapse of confidence in Chiang’s regime. His armies were demoralized, his officers defected, and he was finally deposed as President by Li Zongren. Guerrilla activity intensified and the country fell into a state of general uprising.
 
------ __63.2__ -----2022-02-04 15:15:16+08:00:
+----- __64.2__ -----2022-02-04 15:15:16+08:00:
 
 His writings didn't cause the peasant's war, the preaching of his followers did. You could say this is the point you're trying to make, but that would be a bad comparison. Unlike the protestant reformers, the CPC's agitators for twenty years totally failed to incite mass popular uprising against the KMT. They only succeeded when the military situation turned decisively in their favor.
 
------ __63.3__ -----2022-02-04 15:30:31+08:00:
+----- __64.3__ -----2022-02-04 15:30:31+08:00:
 
 >The CPC spent those most of those same years scurrying from bolthole to bolthole just ahead of KMT troops. Then they spent 1945 massively expanding their army by drafting an enormous number of raw troops, the army that incidentally faced off against Chiang's best. So I'm not sure if the KMT actually had it worse.
 
 That. The situation in the Communist rear was much, much worse than in the nationalist rear. The CCP was trying to fight a war on the frontlines while simultaneously waging a counterinsurgency against \~400,000 "bandits" (some of whom had tanks). Outside major cities, Manchuria was more or less lawless since its colonization in the late 19th century. The Qing, Russia, the Zhang family, and Japan had all tried and failed to establish order in the countryside and in the end made pragmatic deals with the "bandits" to maintain a semblance of peace.
 
 The problem with the CCP doing the same, as they found out in the disastrous retreat from Siping in which the majority of their army deserted them, was that bandits they dealt with were fairweather friends. For the next two years, they were launching offensives against the KMT *while* chasing down and destroying any independent military force that didn't totally submit to their authority and dissolve its prior autonomy. In contrast, Chiang, through being the recipient of American aid and some clever maneuvers, had totally established himself as the leader of the Chinese warlords by 1945. Much of the South was ruled by warlord governments of questionable loyalty, but at least there was *a government* in most of its landmass.
+
+### 65: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
+
+----- __65.1__ -----2022-02-04 23:05:42+08:00:
+
+Even more importantly, the industrial capacity balance has flipped. It's well known the allies won the last 2 wars by outnumbering and outproducing Germany & friends. In 1941, the US produced more steel than the rest of the world combined. Today, that's China. It's not as if the US is a close second either. After decades of corporations dismantling the industrial base and shipping it abroad, American output is *less than 9% of China's*.
+
+If the war doesn't go nuclear, it'll be a long, drawn out battle where the side that can produce more tanks, planes, and ships is going to win. But, since no one wants to think the next great power war will be as long and gruesome as the last two (instead they pretend it'll be a quick skirmish and one side will give up), every "analysis" of a possible third world war is just focused on the first few months.
 
