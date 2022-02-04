@@ -79,3 +79,11 @@ Re @lunanweiyi 好景！构图好！
 
 限制人身自由——这就是中共国肆意侵犯人权的又一事例这里。并且这已经成为中共的常规操作。<br><br>ZHANGDONG: 2015年国际奥委会授权中国举办冬奥会时，双方曾签署过中国必须尊重人权的书面协议，现在是时候公布并重申这份人权协议！<br> <a href="https://twitter.com/gaoyu200812/status/1489116559155273728" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1489116559155273728</a>
 
+### 17: [2022-02-04 05:09:14+08:00 推文](https://twitter.com/realcaixia/status/1489345257644904460)
+
+关注张展。<br><br>Jane Wang 王剑虹 #FreeZhangZhan #释放张展: 感谢世界反酷刑组织在北京冬奥开幕前夕为张展呼吁<br><br>勿忘为报道武汉疫情被判刑四年的张展！她可能像曹顺利、刘晓波一样被中共囚禁至死！<br> <a href="https://twitter.com/omctorg/status/1489181282919661574" target="_blank" rel="noopener noreferrer">https://twitter.com/omctorg/status/1489181282919661574</a>
+
+### 18: [2022-02-04 06:40:48+08:00 推文](https://twitter.com/realcaixia/status/1489368298932391936)
+
+在专制转向宪政民主的过程中，宗教能起很大作用。中国大陆许多基督教信众、基督徒和长老们，比如王怡牧师等，都为反对极权统治、争取宪政民主付出了巨大的努力和牺牲。宗教人士是大陆宪政民主事业的有生力量。<br><br>因 “六四”当天举牌“为国家祷告”被捕的基督徒高恒案，将秘密开庭 <a href="https://lingbaxianzhang.blogspot.com/2022/01/blog-post_753.html" target="_blank" rel="noopener noreferrer">https://lingbaxianzhang.blogspot.com/2022/01/blog-post_753.html</a>
+

@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-03
+date: 2022-02-04
 from: https://twitter.com/DavidBarboza2/status/1487979863776632836
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT rsettles<br>Another excellent interview with Wei Xing (魏星) of China Fac
 ### 7: [2022-02-03 12:08:16+08:00 推文](https://twitter.com/jwassers/status/1489088322630680580)
 
 RT Jeff Wasserstrom<br>Reading: an ARC of Indelible City by ⁦@limlouisa⁩. It’s even better than I expected &amp; that’s saying a LOT. I’ve long admire her work but this daring, bracingly personal, carefully crafted &amp; researched chronicle of a beloved city’s still a revelation. <a href="https://www.penguinrandomhouse.com/books/646684/indelible-city-by-louisa-lim/" target="_blank" rel="noopener noreferrer">https://www.penguinrandomhouse.com/books/646684/indelible-city-by-louisa-lim/</a>
+
+### 8: [2022-02-04 05:58:06+08:00 推文](https://twitter.com/D_Thorne/status/1489357552739663883)
+
+RT Devin Thorne<br>Re I tried to use a tight methodology here, which means a lot more work can be done on this topic. Stella Chen’s recent report @cnmediaproject on China’s video game industry is a great example of diving deeper: <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a>
 
