@@ -285,6 +285,10 @@ El-Hibri, Tayib. The Abbasid Caliphate: A History.
 
 Rowe, William. China's Last Empire: The Great Qing.
 
+----- __66.3__ -----2022-02-05 03:22:10+08:00:
+
+Yes that's right - there was no perfect twin to the mamluk system in China and the Han bannermen (at least those that were levied and not those that joined the Qing "conquest organization" voluntarily in the early days) are the only allegory but still not a perfect one. Bannermen were, like mamluks, bound to state service, forced into certain professions and confined to garrison communities but were an extremely different system.
+
 ### 67: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
 
 ----- __67.1__ -----2022-02-04 23:05:42+08:00:

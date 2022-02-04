@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-04
+date: 2022-02-05
 from: https://twitter.com/realcaixia/status/1487859930275237889
 layout: post
 tags:
@@ -94,4 +94,8 @@ Re @lunanweiyi 好景！构图好！
 ### 20: [2022-02-04 23:21:32+08:00 推文](https://twitter.com/realcaixia/status/1489620144510930945)
 
 王西麟先生是中国最优秀的作曲家之一。他也是中国艺术界最早批评揭露中共的极权主义艺术作品的思想先行者之一。王西麟这篇文章是对中共奉为圭臬的“东方红”颂圣音乐的犀利批判，特别推荐转发。<br><br>王西麟: ：极权政党意识形态的产物“东方红” - 议报 <a href="https://yibaochina.com/?p=244722" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244722</a>
+
+### 21: [2022-02-05 03:21:37+08:00 推文](https://twitter.com/realcaixia/status/1489680562126311430)
+
+雨果的《悲惨世界》中芳汀的境遇，还要比徐州八孩妈妈好些。雨果绝对想不到号称“人民至上，一切为了人民”的中共党统治的国家里有比芳汀更悲惨的女性。雨果更想不到号称全国妇女之家的中国妇联至今一声不响，号称媒体的中国所有官媒全成了哑巴！我想若雨果还在世的话他会写作一部《人间地狱》。<br><br>鲍彤 Bao Tong: 悲惨中国。<br>雨果看到了大革命后的法国。<br>雨果不知道大革命后的中国。<br> <a href="https://twitter.com/Jessie789Q/status/1489462883540946947" target="_blank" rel="noopener noreferrer">https://twitter.com/Jessie789Q/status/1489462883540946947</a>
 
