@@ -131,6 +131,24 @@ Let's keep our eyes on the ball for now.  Why do you think I thought this:
 
 You didn't answer that question above.
 
+----- __64.8__ -----2022-02-04 13:10:52+08:00:
+
+> Because of your repeated criticisms of mitigation efforts and your dismissal of those locally who have implemented them (most recently dismissing Arwady as crazy or some variation thereof).
+
+I did not say, and have never said Allison Arwady was crazy.  I said she was incompetent, meaning that she is lacking the qualities needed for effective action in her current capacity; she is inadequate and unsuitable for her role.  Arwady is the captain who not only failed to avoid the iceberg.  She hit it, and then kept sailing into more while claiming to know what was happening as the bow was going under.  
+
+For example, competent public health officials make decisions based on evidence.  In an emergency situation, maybe winging it with your best judgment is all that can be expected.  But many months into that situation you have had time to structure data collection efforts to make sure you can understand both what is happening in the moment and how it has changed over time in response to prior efforts.  What you don't do is use shitty methods that fail to capture what is happening, or evaluate how the situation is changing over time.  Moreover, you don't fail to consult with others to understand what you're even looking at and you actively try to validate your working theories at as many levels as you can so you know you're doing something right.  
+
+As a further example, competent public health officials don't make decisions in a vacuum or just assume that someone else who said something got it right, because it was said.  You put your thinking cap on and try to apply that skillset you theoretically learned in graduate school to ascertain, at the very least, the foreseeable implications of your recommendations, policies or mitigations to all stakeholders.  This kind of thing involves consulting with others, collaborating outside of your own discipline when you recognize a deficiency in your own skill set (e.g., infectious diseases, general practice medicine, fluid dynamics, statistical modeling and the like) and having the ability to recognize when your own competencies end and those of others begin.  What you don't do is just assume you can implement some hackneyed top-down set of "recommendations" without anything vaguely resembling evidence and assume things are going to improve.  
+
+There are two analogies I like to draw.  Enron and the Challenger explosion.  Both are manifestations of normalized deviance.  In each case, very clear early warning signs that were either misinterpreted, ignored or missed completely.
+
+At the beginning of 2001, the Enron Corporation, the world's dominant energy trader, appeared unstoppable.  On the surface Enron looked like a safe and bet with much lucrative potential, even if no one really understood what the hell was going on under the surface.  Until, of course, it all came crashing down.  Numerous entities, law firms and one very large accounting firm were culpable in one of the most spectacular instances of fraud that ever was.  
+
+The Challenger explosion was a preventable disaster in the United States, which resulted from flawed decision-making processes that led to unforced errors.  The Challenger was a space shuttle that was obliterated a mere 73 seconds into its flight, killing all seven crew members aboard.  It was the first fatal accident involving an American spacecraft in flight.  Numerous individuals, entities and decision makers were culpable in creating conditions in which predictably catastrophic disaster.  
+
+I assume you're instinctively going to disagree with that because you think she did a good job.  The problem is that you're not in a position to know how much less terrible things might have been if someone who knew what they were doing was at the helm.  She is no such person.  But that's how things go sometimes.  Most people would have bet on Enron before it imploded, too.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
@@ -154,4 +172,29 @@ Metrics have nothing to do with these decisions, as Fauci's shortening the quara
 ----- __66.3__ -----2022-02-04 11:00:01+08:00:
 
 I assume you saw the Kaiser Family Foundation's meta-analysis relating to the efficacy of lockdowns, right?
+
+----- __66.4__ -----2022-02-04 13:17:35+08:00:
+
+> Even so, under the current leadership the CDC will never change its mask guidance
+
+The CDC has changed its position on masks no less than four times that I can count:
+
+1. No masks at all, because they initially and correctly acknowledged COVID was airborne and they made no difference at all;
+2. Actually wear masks, because we think maybe COVID is also spread by respiratory droplets too and that might be the primary mode of transmission;
+3. Only wear masks if you're not vaccinated, because if you're vaccinated you can't transmit the virus; and
+4. All must wear masks, regardless of whether you're vaccinated because you can still transmit.  
+
+Except COVID never stopped being airborne and primarily transmitted through inhalation of aerosolized viral material.
+
+----- __66.5__ -----2022-02-04 13:18:11+08:00:
+
+Yep, that's the one.
+
+----- __66.6__ -----2022-02-04 13:28:43+08:00:
+
+This really is a time for choosing.  Centralized, top-down rule or decision making fails without exception.  It inevitably results in rule by incompetent technocrats and is sustained by propagandists and tyranny.  
+
+Decentralization, scaled/flat decision making and maximizing autonomy are the only ways to move forward.  For some strange reason, people understand this when we're talking about blockchains, cryptocurrency, fintech and etc.  
+
+Some may be shocked to learn this, but it turns out that a set of folks figured out how to apply this radical idea of decentralization to government a few hundred years ago.  They even had the good sense to memorialize it, in some antiquated document people seem to have forgotten about in the wake of the current emergency.  Just like they seemed to have forgotten about it all the other emergencies.  But hey, never let a crisis go to waste.
 
