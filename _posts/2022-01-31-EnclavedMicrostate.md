@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-03
+date: 2022-02-04
 from: https://old.reddit.com/r/AskHistorians/comments/sglj5d/why_is_it_that_in_oriental_board_games_such_as_go/
 layout: post
 tags:
@@ -154,4 +154,20 @@ A further response seeing as you opted to edit your comment:
 No. Primary sources, sometimes individual but usually aggregated, are the basis of historical knowledge, but the basis of historical *understanding* are secondary sources which take a bigger-picture view of the sources and operate in conversation with the work of other historians. There are certain fields and periods where an in-depth analysis of a limited body of primary evidence is the standard modus operandi, but even then it is critical to have an understanding of the methods by which this evidence has been interpreted, which is what secondary sources are critical to. These are historiographical in that firstly, they are critical engagements with the primary evidence, and secondly, they are critical engagements with the wider body of scholarship on a particular event, period, and/or subfield. Primary sources, especially memoirs, have agendas and narratives that need to be understood and engaged with in relation to the object of study; secondary sources have already done that understanding and engagement and produced a new narrative – one that can be quite close to or quite distinct from those of the primary material used – out of one or more such sources.
 
 In effect, a primary source in isolation cannot be used to answer the question of 'how much Chinese history was actually lost during the Cultural Revolution', because it is one person's answer to that question divorced from context. You need to cite historians who have critically evaluated the primary evidence in light of how other historians have approached the same or similar subjects in order to produce a synthetic analysis.
+
+### 112: [Authoritative Contemp. Chinese History Reads?](https://old.reddit.com/r/ChineseHistory/comments/sk33x7/authoritative_contemp_chinese_history_reads/), submitted on 2022-02-04 11:35:19+08:00.
+
+----- __112.1__ -----2022-02-04 22:14:02+08:00:
+
+*The Search for Modern China*'s first edition goes up to the '90s, but I believe the 3rd edition goes up to around 2010, so keep an eye out for that. Pamela Crossley's *The Wobbling Pivot* may be a viable alternate option but I forget how much post-2000 detail it goes into.
+
+### 113: [Modern English translations of Plato's accounts of Atlantis in the Timaeus and Critias, regularly state "9,000 years" as the date before Plato's time of writing. How has this date been calibrated from Plato's ancient Greek into the standard modern English translation as "9,000 years"?](https://old.reddit.com/r/AskHistorians/comments/sk5h0j/modern_english_translations_of_platos_accounts_of/), submitted on 2022-02-04 13:37:31+08:00.
+
+----- __113.1__ -----2022-02-04 22:12:02+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
