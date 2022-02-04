@@ -184,3 +184,7 @@ The NDUA reversed the skills gap through two years of practice, which the NRA co
 
 Once it got good enough, the NDUA launched an all out offensive against the NRA in Manchuria. It encircled the “two big cities” and destroyed its local enemy, which represented all the best NRA forces. This defeat in 1948 caused a general collapse of confidence in Chiang’s regime. His armies were demoralized, his officers defected, and he was finally deposed as President by Li Zongren. Guerrilla activity intensified and the country fell into a state of general uprising.
 
+----- __63.2__ -----2022-02-04 15:15:16+08:00:
+
+His writings didn't cause the peasant's war, the preaching of his followers did. You could say this is the point you're trying to make, but that would be a terrible comparison. Unlike the protestant reformers, the CPC's agitators for twenty years totally failed to incite mass popular uprising against the KMT. They only succeeded when the military situation turned decisively in their favor.
+

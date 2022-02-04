@@ -47,3 +47,7 @@ RT Jeff Wasserstrom<br>Reading: an ARC of Indelible City by ⁦@limlouisa⁩. 
 
 RT Devin Thorne<br>Re I tried to use a tight methodology here, which means a lot more work can be done on this topic. Stella Chen’s recent report @cnmediaproject on China’s video game industry is a great example of diving deeper: <a href="https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/25/gaming-for-the-china-story/</a>
 
+### 9: [2022-02-04 15:09:13+08:00 推文](https://twitter.com/cnmediaproject/status/1489496249074352132)
+
+Beijing has railed against the “politicization of sports" by critics ahead of the Winter Olympics. But the government's own language shows that it views these Games as a political opportunity to tell the official "China story" at the cost of other voices. <a href="https://bit.ly/35PgIOg" target="_blank" rel="noopener noreferrer">https://bit.ly/35PgIOg</a><br><img style="" src="https://pbs.twimg.com/media/FKvASijaUAAjFp0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
