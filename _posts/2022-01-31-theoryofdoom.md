@@ -196,5 +196,11 @@ This really is a time for choosing.  Centralized, top-down rule or decision maki
 
 Decentralization, scaled/flat decision making and maximizing autonomy are the only ways to move forward.  For some strange reason, people understand this when we're talking about blockchains, cryptocurrency, fintech and etc.  
 
-Some may be shocked to learn this, but it turns out that a set of folks figured out how to apply this radical idea of decentralization to government a few hundred years ago.  They even had the good sense to memorialize it, in some antiquated document people seem to have forgotten about in the wake of the current emergency.  Just like they seemed to have forgotten about it all the other emergencies.  But hey, never let a crisis go to waste.
+Many may be shocked to learn however, that it turns out that a set of folks figured out how to apply this radical idea of decentralization to government.  They even did it a few hundred years ago.  What foresight.  They even had the good sense to memorialize it, in some antiquated document people seem to have forgotten about in the wake of the current emergency.  Just like they seemed to have forgotten about it all the other emergencies.  But hey, never let a crisis go to waste.
+
+----- __66.7__ -----2022-02-04 13:33:04+08:00:
+
+> The masks aren't going away until Pritzker goes away, period.
+
+People think Pritzker is some kind of tyrant.  He is not.  He is responding to what he thinks is in his current political best interest, which is why he did not go so far as Cuomo or Newsome, but went further than the Southern states.  In state politics, I am informed this is called the fine art of baby splitting.
 
