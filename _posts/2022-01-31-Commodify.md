@@ -321,6 +321,24 @@ Finally, in the eyes of the Mamluks it was not even desirable. Mamluk life offer
 
 There were, of course, exceptions. The sons of very powerful Mamluks, especially rulers, were "grandfathered" into the system. There was a general awareness that too many hereditary Mamluks would undermine the whole class's military spirit, but a few cases here and there were begrudgingly tolerated. Still, inheritance even of the Mamluk throne was rarely hereditary, showing that even Sultans had trouble injecting their offspring into the warrior class and setting them up for success.
 
+----- __66.8__ -----2022-02-05 10:39:20+08:00:
+
+I would say no - I’m not an expert on medieval slavery but my impression is the Mamluk system was one of a kind. A lot of “conventional slavery” existed throughout Europe and the Middle East at the time.
+
+----- __66.9__ -----2022-02-05 10:55:34+08:00:
+
+A mix of variables:
+
+1. As you mentioned the pool of skilled personnel was just not readily available.
+
+2. Germanic military traditions strongly conflicted. The Franks preferred to fight almost entirely as infantry, the Lombards as melee cavalry. Traditionally Germanic armies consisted of elite warriors (which evolved into the scarce, and eventually knights) around the King and masses of levies. Both saw melee combat as the culmination of war.
+
+3. The Carolingian social system that influenced all feudalism was structured to protect a class of mounted, armored combatants. Landowners were required to provide a certain number of armored men by Carolingian edicts based on acreage - naturally those armored men ended up being themselves and their kinsmen. It was very hard to introduce competition.
+
+4. Melee cavalry might have been inferior to horse archers in battle, but they were more versatile. Knights often dismounted and fought as infantry, using their long landed to form early “pike squares”. They could effectively besiege and assault walls, something mounted archers were incompetent at. Horse archers were good at winning battles, and that was all they could do. The predominant mode of Western European warfare in the Middle Ages was siege, and battles were comparatively rare.
+
+5. Probably most importantly, they didn’t *always* lose. Entrenched organizations tend only to reform when they face continuous defeat. While you are right that they lost for the most part, there were a few gems like the Carolingian victory against the Avars. Otto I’d triumph over the Magyars, and Bohemond’s brilliant improvisation at Iconium that convinced the knights that there was nothing rotten in the state of Francia.
+
 ### 67: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
 
 ----- __67.1__ -----2022-02-04 23:05:42+08:00:
