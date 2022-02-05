@@ -33,3 +33,7 @@ An excellent overview on the status of HKers relocated to the UK and what we aim
 
 In just a few years, I've been unseated from the parliament, being imprisoned and forced to exile. What keeps me going? <br>Freedom (<br><br>The exiled Hong Kong activist makes a case for fighting global authoritarianism in a new book <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a> <a href="https://foreignpolicy.com/2022/01/15/nathan-law-freedom-review-hong-kong-democracy/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2022/01/15/nathan-law-freedom-review-hong-kong-democracy/</a>
 
+### 5: [2022-02-05 18:55:09+08:00 推文](https://twitter.com/nathanlawkc/status/1489915491015659520)
+
+A totalitarian country, countrolled by a brutal regime that rolled over the people with tanks.<br><br>TV reporter dragged away by Winter Olympics security official live on air <a href="https://www.independent.co.uk/sport/olympics/winter-olympics/winter-olympics-tv-reporter-live-china-b2008289.html" target="_blank" rel="noopener noreferrer">https://www.independent.co.uk/sport/olympics/winter-olympics/winter-olympics-tv-reporter-live-china-b2008289.html</a>
+
