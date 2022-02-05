@@ -347,6 +347,10 @@ Spot on. May goes into this in great detail. The average Mamluk was miles ahead 
 
 Yes - in some periods it was normal for 40% or more of the male population to die violently. Fertility rates were also very high due to an abundance of food compared to sedentary societies. While we obviously have no data on deaths in childbirth, they were certainly lower. Nutrition in the steppe was better than anywhere else, so women were both physically larger and healthier. Today most scholars of the medieval steppe hold demographic surplus (and the internal conflicts it inevitably created if it wasn’t “channeled” into sedentary states) to be the main driving force behind nomadic conquests.
 
+----- __66.12__ -----2022-02-05 23:10:18+08:00:
+
+Excellent. The number of times the Mamluks fled without orders can be counted on one hand. The most important relationship they had was with their “initiation brothers” or khudash, who were imported together and manumitted together. These would often form military units, and when they didn’t the actions of one still reflected in the entire group.
+
 ### 67: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
 
 ----- __67.1__ -----2022-02-04 23:05:42+08:00:

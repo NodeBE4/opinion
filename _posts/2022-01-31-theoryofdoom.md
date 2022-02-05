@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-04
+date: 2022-02-05
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/si1b2l/unofficial_daily_update_for_20220201_8665_new/
 layout: post
 tags:
@@ -179,6 +179,12 @@ Re-read the above:
 
 I'm not inclined to elaborate further in this context, for the same reasons I previously indicated.
 
+----- __64.12__ -----2022-02-05 23:19:28+08:00:
+
+> That is still not an answer to my question
+
+Maybe you somehow missed the category of therapeutics the NIH disregarded or ignored?  Hint: anything out of patent or non-patentable, as I have said three times now.  Do you not understand this?
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
@@ -233,4 +239,10 @@ Many may be shocked to learn however, that it turns out that a set of folks figu
 > The masks aren't going away until Pritzker goes away, period.
 
 People think Pritzker is some kind of tyrant.  He is not.  He is responding to what he thinks is in his current political best interest, which is why he did not go so far as Cuomo or Newsome, but went further than the Southern states.  In state politics, I am informed this is called the fine art of baby splitting.
+
+### 67: [TRO was approved against Pritzker and IDPH. We don’t know if local boards can still make their own decision… class certification denied. So now what? Some kids go maskless while majority can’t? What kind of ruling is this?](https://old.reddit.com/r/CoronavirusIllinois/comments/sktdgu/tro_was_approved_against_pritzker_and_idph_we/), submitted on 2022-02-05 08:39:22+08:00.
+
+----- __67.1__ -----2022-02-05 23:23:50+08:00:
+
+A reminder that this is not the place to give legal advice.
 
