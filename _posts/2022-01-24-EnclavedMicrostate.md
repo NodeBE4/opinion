@@ -129,3 +129,9 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 101: [[Hobby Scuffles] Week of January 31, 2022](https://old.reddit.com/r/HobbyDrama/comments/sgay5w/hobby_scuffles_week_of_january_31_2022/), submitted on 2022-01-30 23:00:28+08:00.
+
+----- __101.1__ -----2022-02-05 14:40:17+08:00:
+
+It's at moments like these where it really shines through that Ian's background was in engineering rather than history.
+
