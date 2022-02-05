@@ -268,45 +268,73 @@ Many may be shocked to learn however, that it turns out that a set of folks figu
 
 People think Pritzker is some kind of tyrant.  He is not.  He is responding to what he thinks is in his current political best interest, which is why he did not go so far as Cuomo or Newsome, but went further than the Southern states.  In state politics, I am informed this is called the fine art of baby splitting.
 
-### 67: [Judge denies class certification in mask, vaccine mandate cases](https://old.reddit.com/r/CoronavirusIllinois/comments/sko42u/judge_denies_class_certification_in_mask_vaccine/), submitted on 2022-02-05 04:57:54+08:00.
+### 67: [Why isn't Iran economically as powerful as Saudi Arabia?](https://old.reddit.com/r/geopolitics/comments/sjxjxy/why_isnt_iran_economically_as_powerful_as_saudi/), submitted on 2022-02-04 07:17:33+08:00.
 
------ __67.1__ -----2022-02-06 03:37:53+08:00:
+----- __67.1__ -----2022-02-06 06:46:46+08:00:
+
+The Iranian Revolution and other catastrophes occurred in 1979.  As a result, Iran's standing in the world suffered irreparable harm.  No such occurrence transpired in Saudi Arabia.  There's more to be said of course.  But that's why.
+
+### 68: [Judge denies class certification in mask, vaccine mandate cases](https://old.reddit.com/r/CoronavirusIllinois/comments/sko42u/judge_denies_class_certification_in_mask_vaccine/), submitted on 2022-02-05 04:57:54+08:00.
+
+----- __68.1__ -----2022-02-06 03:37:53+08:00:
 
 > And by the way, doctors didn't actually wear masks in the hospital until about two years ago.
 
 Yes they did, when the context required it (e.g., performing surgery).  But mandatory masking, which I think you're referring to, was never a thing before COVID under almost all circumstances in healthcare contexts.
 
------ __67.2__ -----2022-02-06 03:43:27+08:00:
+----- __68.2__ -----2022-02-06 03:43:27+08:00:
 
 > Update: god damn anti-science assholes.
 
 Feel good to blow off that steam?
 
------ __67.3__ -----2022-02-06 03:44:17+08:00:
+----- __68.3__ -----2022-02-06 03:44:17+08:00:
 
 > rolleyes.gif
 
 Low effort.
 
------ __67.4__ -----2022-02-06 03:50:52+08:00:
+----- __68.4__ -----2022-02-06 03:50:52+08:00:
 
 > Denial of class means [legal verbiage]
 
 There are a lot of people trying to interpret things.  I don't see a lot of productive discussion here.  So this comment is going to be removed.
 
------ __67.5__ -----2022-02-06 03:53:34+08:00:
+----- __68.5__ -----2022-02-06 03:53:34+08:00:
 
 Let's stop pretending to be internet lawyers.
 
------ __67.6__ -----2022-02-06 03:54:56+08:00:
+----- __68.6__ -----2022-02-06 03:54:56+08:00:
 
 > He has a very punchable face, doesn't he?
 
 Enough of this.
 
-### 68: [TRO was approved against Pritzker and IDPH. We don’t know if local boards can still make their own decision… class certification denied. So now what? Some kids go maskless while majority can’t? What kind of ruling is this?](https://old.reddit.com/r/CoronavirusIllinois/comments/sktdgu/tro_was_approved_against_pritzker_and_idph_we/), submitted on 2022-02-05 08:39:22+08:00.
+### 69: [Frozen sewage slows down coronavirus surveillance](https://old.reddit.com/r/CoronavirusIllinois/comments/skqze0/frozen_sewage_slows_down_coronavirus_surveillance/), submitted on 2022-02-05 06:56:27+08:00.
 
------ __68.1__ -----2022-02-05 23:23:50+08:00:
+----- __69.1__ -----2022-02-06 06:32:01+08:00:
+
+I know it's kind of gross to think about, but sewage is one of the most important sources of information with respect to the state of COVID.  It's not perfect but people should be paying more attention to this.  Excellent link, u/faceerase.
+
+### 70: [TRO was approved against Pritzker and IDPH. We don’t know if local boards can still make their own decision… class certification denied. So now what? Some kids go maskless while majority can’t? What kind of ruling is this?](https://old.reddit.com/r/CoronavirusIllinois/comments/sktdgu/tro_was_approved_against_pritzker_and_idph_we/), submitted on 2022-02-05 08:39:22+08:00.
+
+----- __70.1__ -----2022-02-05 23:23:50+08:00:
 
 A reminder that this is not the place to give legal advice.
+
+### 71: [What parenting 'trend' do you strongly disagree with?](https://old.reddit.com/r/AskReddit/comments/sl5f2b/what_parenting_trend_do_you_strongly_disagree_with/), submitted on 2022-02-05 20:02:15+08:00.
+
+----- __71.1__ -----2022-02-06 06:20:42+08:00:
+
+> Nonstop supervision.
+
+People may upvote this.  And good for them that they do.  But then they're going to still engage in the very behaviour that they're criticizing.  Because that's just where we are.
+
+### 72: [Camp Out - a safeguarding nightmare. A camp for LGBTIQ children aged 13-17. All faciities mixed sex, from showers to bunks. Crew must be over 21 and “have a passion for queer youth”](https://old.reddit.com/r/stupidpol/comments/sl8e1v/camp_out_a_safeguarding_nightmare_a_camp_for/), submitted on 2022-02-05 22:37:52+08:00.
+
+----- __72.1__ -----2022-02-06 06:29:43+08:00:
+
+> Butlerian Jihadi
+
+Your tag is fantastic.  Frank Herbert fans ftw
 
