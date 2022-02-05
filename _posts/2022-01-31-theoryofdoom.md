@@ -169,6 +169,16 @@ Here's a metaphor that might make this more concrete.  You've got two kids, an o
 
 But maybe the past record isn't good enough for you.  Suppose you determine some proof of concept is needed.  To accomplish this, you decide you want to strap a jetpack to your older kid's back and make him peddle down an interstate with that apparatus on his back, at full power.  Predictably, the older kid gets hurt.  You conclude he is incapable of bike riding in any environment, accordingly.  Based on this evidence, you proceed to allow your younger kid to proceed down the dangerous hill without any further demonstration of ability.  Meanwhile, you made a bet with your spouse that the younger kid would make it down the dangerous hill before the older kid.  Are you a sane parent making wise or reasonable parental decisions?  Obviously not.
 
+----- __64.11__ -----2022-02-05 13:17:43+08:00:
+
+>  You wrote a lot of words, but you have still not answered my question because apparently you have dismissed as not worth answering? 
+
+Re-read the above:
+
+>> The NIH has ignored anything out of patent or non-patentable. The NIH has mysteriously disregarded and/or ignored --- and in some cases even had the audacity to actively thwart -- inquiry or investigation of anything to treat COVID that can't be patented. For example, one burden of proof was proposed for out of patent or non-patentable therapeutics (large-scale phase 3 clinical trials). Another was implemented for treatments that could be patented (nothing at all, other than failed trials in unrelated research).
+
+I'm not inclined to elaborate further in this context, for the same reasons I previously indicated.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
