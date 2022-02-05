@@ -183,3 +183,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Without getting too pedantic here, *ujen cooha* was simply the Manchu term for the Han Banners, who were enslaved only insofar as *all* Bannermen were enslaved in one form or another, as I discuss [here](https://www.reddit.com/r/AskHistorians/comments/jy7m9j/did_china_ever_have_slavery/gd2j5r1/) and [here](https://www.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/htut7i2/?context=999). The Han Banners were originally constituted from a mix of willing defectors and forced labour, but after their initial formation they were mostly hereditary, rather than sustained through purchase of chattel slaves in the manner of the Mamluks.
 
+### 115: [Friday Free-for-All | February 04, 2022](https://old.reddit.com/r/AskHistorians/comments/skdya4/friday_freeforall_february_04_2022/), submitted on 2022-02-04 22:00:13+08:00.
+
+----- __115.1__ -----2022-02-05 12:27:13+08:00:
+
+There was almost a literal slap fight at the 1969 meeting of the American Historical Association between John King Fairbank, Harvard's first specialist in Chinese history – and indeed a towering figure in Anglophone historiography of China – and Howard Zinn, who probably needs less introduction but is most famous for *A People's History of the United States*. Zinn was part of the Radical Historians' Caucus and was attempting to get the AHA to pass a resolution condemning US involvement in the Vietnam War, leading to a physical struggle for control of the microphone between Zinn and Fairbank which is almost invariably mentioned in any retrospective on the latter's career.
+

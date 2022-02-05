@@ -339,6 +339,14 @@ A mix of variables:
 
 5. Probably most importantly, they didn’t *always* lose. Entrenched organizations tend only to reform when they face continuous defeat. While you are right that they lost for the most part, there were a few gems like the Carolingian victory against the Avars. Otto I’d triumph over the Magyars, and Bohemond’s brilliant improvisation at Iconium that convinced the knights that there was nothing rotten in the state of Francia.
 
+----- __66.10__ -----2022-02-05 12:07:51+08:00:
+
+Spot on. May goes into this in great detail. The average Mamluk was miles ahead of the average Mongol in training and equipment. They were badly outnumbered, but dealt with this by burning almost all the pasture between them and the Mongols, this way they were still outnumbered but not massively so. The steppe armies were definitely citizen-soldiers… or less romantically, amateurs. They simply had the luxury of being the best fed, best horsed people in the world whose hobbies (archery, wrestling, horsemanship had immense military relevance.
+
+----- __66.11__ -----2022-02-05 12:17:16+08:00:
+
+Yes - in some periods it was normal for 40% or more of the male population to die violently. Fertility rates were also very high due to an abundance of food compared to sedentary societies. While we obviously have no data on deaths in childbirth, they were certainly lower. Nutrition in the steppe was better than anywhere else, so women were both physically larger and healthier. Today most scholars of the medieval steppe hold demographic surplus (and the internal conflicts it inevitably created if it wasn’t “channeled” into sedentary states) to be the main driving force behind nomadic conquests.
+
 ### 67: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
 
 ----- __67.1__ -----2022-02-04 23:05:42+08:00:
@@ -346,4 +354,8 @@ A mix of variables:
 Even more importantly, the industrial capacity balance has flipped. It's well known the allies won the last 2 wars by outnumbering and outproducing Germany & friends. In 1941, the US produced more steel than the rest of the world combined. Today, that's China. It's not as if the US is a close second either. After decades of corporations dismantling the industrial base and shipping it abroad, American output is *less than 9% of China's*.
 
 If the war doesn't go nuclear, it'll be a long, drawn out battle where the side that can produce more tanks, planes, and ships is going to win. But, since no one wants to think the next great power war will be as long and gruesome as the last two (instead they pretend it'll be a quick skirmish and one side will give up), every "analysis" of a possible third world war is just focused on the first few months.
+
+----- __67.2__ -----2022-02-05 12:11:18+08:00:
+
+Dollar value doesn’t do reality justice. First everything is cheaper in China, second a lot of “industrial” output in the US is related to mining or petroleum, and most importantly a lot of manufacturing in the US is final assembly of products that were mostly assembled elsewhere. When you look at *tonnage* of goods produced the disparity is jarring.
 

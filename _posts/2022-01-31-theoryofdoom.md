@@ -153,6 +153,22 @@ I assume you're instinctively going to disagree with that because you think she 
 
 Which question?  I think I've ignored several actually.
 
+----- __64.10__ -----2022-02-05 12:22:30+08:00:
+
+> I asked, which therapeutics have the NIH disregarded or ignored?
+
+There's a place your mind had to go in order for you to think of that question.  And right off the bat I'm going to slam the door shut on it.  Because the well on that front is poisoned beyond the point where any productive --- or even coherent --- conversation can be had.  It's also beyond the focus of what I said.
+
+I said I have been dumbfounded by the NIH's unidimensional focus on vaccines (read: not therapeutics) and their concurrent nearly complete disregard for therapeutics, treatment protocols, their development and the like.  So the issue is why the NIH has only focused on some things and not others.  Why vaccines and not therapeutics, development of therapeutic protocols, etc.?
+
+The NIH has ignored anything out of patent or non-patentable.  The NIH has mysteriously disregarded and/or ignored --- and in some cases even had the audacity to actively thwart -- inquiry or investigation of anything to treat COVID that can't be patented.  For example, one burden of proof was proposed for out of patent or non-patentable therapeutics (large-scale phase 3 clinical trials).  Another was implemented for treatments that *could be* patented (nothing at all, other than failed trials in unrelated research).  
+
+If large-scale phase 3 clinical trials were needed to establish the safety and efficacy of compounds with known risk profiles based on four decades or more of commercialization around the world, why were novel and non-commercialized compounds approved for both compassionate and emergency use?  Keeping in mind that NIAID approves the grants to fund the research needed to meet that hurdle, why didn't approve anything of the sort?  Why would they eventually approve only small clinical trials for those compounds with treatment protocols well outside the scope of prior demonstrated safety?  And based on a hypothesized mechanism of action that was nonsensical?  Which predictably resulted in failure and tremendous harm to the non-placebo cohorts?
+
+Here's a metaphor that might make this more concrete.  You've got two kids, an older and a younger one.  They both want to go mountain biking down a steep hill in an area you're not familiar with.  Your older kid has been riding his bike for the last 6 years of his life, wears his helmet and has never really done anything reckless.  The younger kid just got the training wheels off yesterday.  Who is more likely to get safely down the mountain?  Who is more likely to hurt himself and others in the process of doing so?  
+
+But maybe the past record isn't good enough for you.  Suppose you determine some proof of concept is needed.  To accomplish this, you decide you want to strap a jetpack to your older kid's back and make him peddle down an interstate with that apparatus on his back, at full power.  Predictably, the older kid gets hurt.  You conclude he is incapable of bike riding in any environment, accordingly.  Based on this evidence, you proceed to allow your younger kid to proceed down the dangerous hill without any further demonstration of ability.  Meanwhile, you made a bet with your spouse that the younger kid would make it down the dangerous hill before the older kid.  Are you a sane parent making wise or reasonable parental decisions?  Obviously not.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
