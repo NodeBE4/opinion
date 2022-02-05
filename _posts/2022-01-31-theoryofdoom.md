@@ -149,6 +149,10 @@ The Challenger explosion was a preventable disaster in the United States, which 
 
 I assume you're instinctively going to disagree with that because you think she did a good job.  The problem is that you're not in a position to know how much less terrible things might have been if someone who knew what they were doing was at the helm.  She is no such person.  But that's how things go sometimes.  Most people would have bet on Enron before it imploded, too.
 
+----- __64.9__ -----2022-02-05 08:23:28+08:00:
+
+Which question?  I think I've ignored several actually.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:
