@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-05
+date: 2022-02-06
 from: https://twitter.com/realcaixia/status/1487859930275237889
 layout: post
 tags:
@@ -110,4 +110,20 @@ Re @lunanweiyi 好景！构图好！
 ### 24: [2022-02-05 10:34:48+08:00 推文](https://twitter.com/realcaixia/status/1489789577950896138)
 
 王长江教授是中共中央党校党建部主任，大陆的著名学者。他对中共党与大陆政治体制有着很深透的研究。下面这篇文章很有深度，因为篇幅很长，议报分作三次转载发布。<br>特推荐。对理论讨论有兴趣的网友不妨读读这篇文章。<br><br>王长江：政治视域下的中国知识分子问题（之一） - 议报 <a href="https://yibaochina.com/?p=244715" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244715</a>
+
+### 25: [2022-02-05 23:57:18+08:00 推文](https://twitter.com/realcaixia/status/1489991533629693953)
+
+封号封群，剥夺人的言论自由权利在大陆已成常态，腾讯公司配合中共网管作恶，早就引起大陆社会公愤。人们为维护言论权利而进行抗争，你“封”我“建”，你再“封”我再“建”……如此大陆竟成21世纪的“封建国家”。这就是中共以“和谐”为名的恶行，所谓习近平全过程民主的邪恶真相之一。 <a href="https://yibaochina.com/?p=244736" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244736</a>
+
+### 26: [2022-02-06 00:09:26+08:00 推文](https://twitter.com/realcaixia/status/1489994586713989121)
+
+中共极权统治下，邪恶行径竟能光天化日下打广告！<br><br>鲁  难: 到哪里去寻找？如果在冬奥会上发布一下，估计一天就可以找回来。<br><br><img style="" src="https://pbs.twimg.com/media/FKxrPspWQAM9nh2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKxrPssXsAEU8LK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-02-06 00:16:25+08:00 推文](https://twitter.com/realcaixia/status/1489996341761777671)
+
+徐州被锁女-八孩妈妈母亲的悲惨遭遇实在太令人震惊，现在看到又“走失”了一个少女的寻人启事，心立刻就揪起来。盼望更多的网友都来关注、来转发、来帮助寻人，千万不要再出现新的被锁女啊！<br><br>鲁  难: 到哪里去寻找？如果在冬奥会上发布一下，估计一天就可以找回来。<br><br><img style="" src="https://pbs.twimg.com/media/FKxrPspWQAM9nh2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FKxrPssXsAEU8LK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-02-06 00:22:18+08:00 推文](https://twitter.com/realcaixia/status/1489997823265452037)
+
+这个推文揭露中共深刻！确实如此，中共对内对外都是采用温水煮青蛙式，一点一点渗透，一点一点地改变，隐在背后操控。必须揭露曝光中共的这类隐秘而邪恶的手段。<br><br>量子跃迁: 今晚北京冬奥会入场式,不按传统的英文字母顺序入场，而是按中文笔划入场，这是公然违反现代奥林匹克章程！中共就是采用这种润物细无声的小改变,将自己的游戏规则强行嵌入现存国际规则中，积小变为大变，经年累月，温水煮青蛙,最后以中共自已的体系主导国际秩序，实现统领全球的霸权梦。<br>
 

@@ -51,3 +51,7 @@ RT Devin Thorne<br>Re I tried to use a tight methodology here, which means a l
 
 Beijing has railed against the “politicization of sports" by critics ahead of the Winter Olympics. But the government's own language shows that it views these Games as a political opportunity to tell the official "China story" at the cost of other voices. <a href="https://bit.ly/35PgIOg" target="_blank" rel="noopener noreferrer">https://bit.ly/35PgIOg</a><br><img style="" src="https://pbs.twimg.com/media/FKvASijaUAAjFp0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-02-04 21:30:09+08:00 推文](https://twitter.com/HarvardYenching/status/1489592113075470348)
+
+RT Harv-Yenching Inst.<br>New in the HYI "Library Highlights" series: a look at 經國雄略 (Ambitious Strategies of Statecraft), originally published in 1645, "a 48-volume (juan) compendium of practical knowledge about statecraft by Zheng Dayu of Quanzhou, Fujian." Read more: <a href="http://ow.ly/F8GA50HLyUn" target="_blank" rel="noopener noreferrer">http://ow.ly/F8GA50HLyUn</a><br><img style="" src="https://pbs.twimg.com/media/FKwYIXqWQAcSLgV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
