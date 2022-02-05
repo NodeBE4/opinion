@@ -185,6 +185,34 @@ I'm not inclined to elaborate further in this context, for the same reasons I pr
 
 Maybe you somehow missed the category of therapeutics the NIH disregarded or ignored?  Hint: anything out of patent or non-patentable, as I have said three times now.  Do you not understand this?
 
+----- __64.13__ -----2022-02-05 23:59:33+08:00:
+
+> Otherwise this is something you have asserted without evidence.
+
+You're confusing necessity and sufficiency.  The fact that I didn't link something above doesn't mean there is no evidence to support what I said.  However, based on your subsequent response your mind probably didn't go where I thought it might have.  Instead, I think I may have inadvertently talked over your head. 
+
+But let's be clear about this: it's one thing to go out and find something you think contradicts something I said (which you have not done) and another thing to say "yeah well I just assume everything you say is false until proven otherwise!"  If your approach to conversations about really complicated topics is the latter, it signals to me your intention is not to engage in good faith --- meaning you're not worth my time. 
+
+I said something complicated you didn't understand.  What I said was that there's a category of therapeutics the NIH has ignored.  You said you wanted "a specific list," which was the wrong question to ask.  The reason it was the wrong question to ask is because "a specific list" would imply, for example, the existence of a list of drugs already carrying an indication from the FDA to treat COVID.  Basically, your question is bad because it puts the cart before the horse.  And maybe that wasn't clear before --- perhaps it still isn't --- but I will try to give you at least some foundation to understand the point.  Which I see you're not getting, because you keep asking really bad questions. 
+
+The point I made was about NIH's decisions that resulted in preventing out of patent drugs from gaining that indication in the first place.  Drug approval is complicated.  One complication is that for a drug to be approved, the label requires, among other things, specific line-item support for treatment indications (i.e., phase 3 clinical trials, usually).  Phase 3 clinical trials are very, very expensive and almost always funded in whole or in part by NIH grants.  NIAID is the branch of the NIH that decides how grants are awarded.  Anthony Fauci makes those calls, in his capacity at the NIAID, if you were curious.  
+
+Intellectual property law requires novelty (read: something new) for new patent rights.  So, you can't get a patent over something that's already out there.  This is a problem, because individuals at the NIAID and NIH can personally gain a financial stake in the outcome as "inventors" of drugs whose research they had involvement with.  [Here's an article from Axios that explains](https://www.axios.com/moderna-nih-coronavirus-vaccine-ownership-agreements-22051c42-2dee-4b19-938d-099afd71f6a0.html), at a very high level, the conflict of interest which exists with respect to the NIH (whose studies are funded by the NIAID) and certain pharmaceutical products it holds patent rights over.  So, if you're sitting at the NIH and/or NIAID, you are concurrently wearing two hats.  Hat one lets you decide who gets the money needed to get their drug to market.  Hat two lets you benefit from the drugs that get to market.  If you approve funding to support research that may lead to a changed indication for an out of patent drug, you're undercutting the market for a new drug over which you hold some intellectual property rights (i.e., acting against your own self interest).  
+
+I've explained this in the simplest way possible.  If you can't understand any part of it, ask questions.  But if you only want to come back with "give me a list of specific drugs that were ignored," that's going to tell me you have no interest in even trying to understand the point I made.
+
+----- __64.14__ -----2022-02-06 00:29:41+08:00:
+
+> Thank you for your delightfully patronizing response. ... Honestly, this whole exchange really left me cold and quite frankly, I don't know what your end goal is here, to alienate everyone who doesn't see immediately what your point is?
+
+Be real for a minute now.  You asked a question that implies you can't understand the answer I gave, while claiming I didn't answer the question at all.  You've waded into territory well beyond the scope of what you understand (or what I would expect anyone to understand without some kind of experience in this area) but have this attitude of "you're talking out of your ass because you haven't linked an article from [some source like Buzzfeed]." 
+
+Seriously.  What did you expect?  For me to list off a whole bunch of drugs that do not carry an indication for COVID, when the point was about the NIH actively preventing the kinds of things needed for any drug to carry that indication in the first place?  That's absurd.  
+
+> then proceeded write long condescending posts accusing me of being stupid
+
+I didn't accuse you of being anything, other than lacking the foundational knowledge required in order to understand the nature of the conflict of interest between the NIH (and NIAID) and pharmaceuticals its decisions it affects.  Not having that doesn't mean you're stupid, it means you're not familiar with this area.  I assumed you were, which was a mistake on my part.  The reason I incorrectly assumed that was because of your interest in what  I said --- which I should not have assumed.
+
 ### 65: [New Mexico asks National Guard to work as substitute teachers to keep classrooms open.](https://old.reddit.com/r/CoronavirusIllinois/comments/siz62r/new_mexico_asks_national_guard_to_work_as/), submitted on 2022-02-03 04:36:01+08:00.
 
 ----- __65.1__ -----2022-02-03 12:27:54+08:00:

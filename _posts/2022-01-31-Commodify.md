@@ -331,7 +331,7 @@ A mix of variables:
 
 1. As you mentioned the pool of skilled personnel was just not readily available.
 
-2. Germanic military traditions strongly conflicted. The Franks preferred to fight almost entirely as infantry, the Lombards as melee cavalry. Traditionally Germanic armies consisted of elite warriors (which evolved into the scarce, and eventually knights) around the King and masses of levies. Both saw melee combat as the culmination of war.
+2. Germanic military traditions strongly conflicted. The Franks preferred to fight almost entirely as infantry, the Lombards specialized as melee cavalry. Traditionally Germanic armies consisted of elite warriors (which evolved into the scarce, and eventually knights) around the King and masses of levies. Both saw melee combat as the culmination of war.
 
 3. The Carolingian social system that influenced all feudalism was structured to protect a class of mounted, armored combatants. Landowners were required to provide a certain number of armored men by Carolingian edicts based on acreage - naturally those armored men ended up being themselves and their kinsmen. It was very hard to introduce competition.
 
