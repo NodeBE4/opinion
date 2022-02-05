@@ -107,3 +107,7 @@ Re @lunanweiyi 好景！构图好！
 
 据说这位运动员只是第一次检测结果是阳性，后面三次检测都是阴性，但依然要对她强行隔离。<br>这件事再次表明，中共国漠视权利与规则，强权肆意横行，这是个非常危险的国家，任何人都可能受到中共国伤害。<br>冬奥会比利时女运动员哭诉：他们这是要隔离我到闭幕式啊！YouTube <a href="https://m.youtube.com/watch?v=xI5--XgyrVY" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=xI5--XgyrVY</a>
 
+### 24: [2022-02-05 10:34:48+08:00 推文](https://twitter.com/realcaixia/status/1489789577950896138)
+
+王长江教授是中共中央党校党建部主任，大陆的著名学者。他对中共党与大陆政治体制有着很深透的研究。下面这篇文章很有深度，因为篇幅很长，议报分作三次转载发布。<br>特推荐。对理论讨论有兴趣的网友不妨读读这篇文章。<br><br>王长江：政治视域下的中国知识分子问题（之一） - 议报 <a href="https://yibaochina.com/?p=244715" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244715</a>
+
