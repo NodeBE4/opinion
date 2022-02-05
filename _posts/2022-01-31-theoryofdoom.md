@@ -268,9 +268,45 @@ Many may be shocked to learn however, that it turns out that a set of folks figu
 
 People think Pritzker is some kind of tyrant.  He is not.  He is responding to what he thinks is in his current political best interest, which is why he did not go so far as Cuomo or Newsome, but went further than the Southern states.  In state politics, I am informed this is called the fine art of baby splitting.
 
-### 67: [TRO was approved against Pritzker and IDPH. We don’t know if local boards can still make their own decision… class certification denied. So now what? Some kids go maskless while majority can’t? What kind of ruling is this?](https://old.reddit.com/r/CoronavirusIllinois/comments/sktdgu/tro_was_approved_against_pritzker_and_idph_we/), submitted on 2022-02-05 08:39:22+08:00.
+### 67: [Judge denies class certification in mask, vaccine mandate cases](https://old.reddit.com/r/CoronavirusIllinois/comments/sko42u/judge_denies_class_certification_in_mask_vaccine/), submitted on 2022-02-05 04:57:54+08:00.
 
------ __67.1__ -----2022-02-05 23:23:50+08:00:
+----- __67.1__ -----2022-02-06 03:37:53+08:00:
+
+> And by the way, doctors didn't actually wear masks in the hospital until about two years ago.
+
+Yes they did, when the context required it (e.g., performing surgery).  But mandatory masking, which I think you're referring to, was never a thing before COVID under almost all circumstances in healthcare contexts.
+
+----- __67.2__ -----2022-02-06 03:43:27+08:00:
+
+> Update: god damn anti-science assholes.
+
+Feel good to blow off that steam?
+
+----- __67.3__ -----2022-02-06 03:44:17+08:00:
+
+> rolleyes.gif
+
+Low effort.
+
+----- __67.4__ -----2022-02-06 03:50:52+08:00:
+
+> Denial of class means [legal verbiage]
+
+There are a lot of people trying to interpret things.  I don't see a lot of productive discussion here.  So this comment is going to be removed.
+
+----- __67.5__ -----2022-02-06 03:53:34+08:00:
+
+Let's stop pretending to be internet lawyers.
+
+----- __67.6__ -----2022-02-06 03:54:56+08:00:
+
+> He has a very punchable face, doesn't he?
+
+Enough of this.
+
+### 68: [TRO was approved against Pritzker and IDPH. We don’t know if local boards can still make their own decision… class certification denied. So now what? Some kids go maskless while majority can’t? What kind of ruling is this?](https://old.reddit.com/r/CoronavirusIllinois/comments/sktdgu/tro_was_approved_against_pritzker_and_idph_we/), submitted on 2022-02-05 08:39:22+08:00.
+
+----- __68.1__ -----2022-02-05 23:23:50+08:00:
 
 A reminder that this is not the place to give legal advice.
 
