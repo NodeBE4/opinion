@@ -310,6 +310,10 @@ Let's stop pretending to be internet lawyers.
 
 Enough of this.
 
+----- __68.7__ -----2022-02-06 07:02:53+08:00:
+
+Yep, I think that's accurate.
+
 ### 69: [Frozen sewage slows down coronavirus surveillance](https://old.reddit.com/r/CoronavirusIllinois/comments/skqze0/frozen_sewage_slows_down_coronavirus_surveillance/), submitted on 2022-02-05 06:56:27+08:00.
 
 ----- __69.1__ -----2022-02-06 06:32:01+08:00:
@@ -337,4 +341,8 @@ People may upvote this.  And good for them that they do.  But then they're going
 > Butlerian Jihadi
 
 Your tag is fantastic.  Frank Herbert fans ftw
+
+----- __72.2__ -----2022-02-06 07:13:17+08:00:
+
+I share your implied contempt for Brian Herbert.  Not to worry.
 
