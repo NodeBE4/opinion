@@ -195,6 +195,16 @@ There was almost a literal slap fight at the 1969 meeting of the American Histor
 
 In all sincerity, don't look at Extra History; they are apparently a bit better than they used to be, but not by much. The main thing is they're really bad at research, to the point where it takes so much effort to research whether their research is good that you may as well DIY it.
 
+----- __117.2__ -----2022-02-06 14:49:26+08:00:
+
+> But once that political decision has been made, you have the next decision which is "how do we fight?" and that decision doesn't have to be political.
+
+A lot of recent discussion of colonial warfare has been about arguing that that *isn't* the case. Kim Wagner's article on expanding ammunition has been the centrepiece of a huge discussion over whether military historians really talk about racism and other discourses of othering enough, because its main point was that the entire argument over 'stopping power' was based on the notion that 'savage' peoples were able to shrug off hits that would disable 'civilised' men, against whom the use of expanding ammunition was deemed immoral. Britain continued to advocate for the use of expanding ammo until Afghan troops who had captured British ammunition stockpiles started firing 'Dum-Dum' rounds back at the British, which *finally* got the British to stop producing them. To make a long story short, racism actively impacted how the British perceived that *ballistics and anatomy* worked. And when you expand to a wider scale, racism had and has an obvious effect on how states and armies believe they're allowed to behave in different contexts. For instance, the Nazis' whole genocidal agenda obviously impacted how they fought against the USSR, most significantly by leading them to prioritise destroying rather than cooperating with local populations that were less than enthusiastically pro-Soviet. I'm not expert enough on the specific field to say how far you can specifically cite things in the context of weapons development, but my uninformed perspective would suggest that Nazi nonsense about 'Oriental hordes' may have been a factor in deciding, for instance, that the MG42 ought to have an absurdly high rate of fire rather than something that used less ammo.
+
+----- __117.3__ -----2022-02-06 14:53:21+08:00:
+
+I don't know if you've listened to Robert Calvert's *Captain Lockheed and the Starfighters*, but it's got some very catchy bits as well as Arthur Brown vocals at points, and it is also about the F-104 in West German service. It's certainly one of the more... unusual topics for a 70s concept album, especially when put next to something like *Jesus Christ Superstar* or *Journey to the Centre of the Earth*, but... it works.
+
 ### 118: [I recently read that Carter had some solar panels installed on the White House, which Reagan later had removed. What actually happened?](https://old.reddit.com/r/AskHistorians/comments/sl015o/i_recently_read_that_carter_had_some_solar_panels/), submitted on 2022-02-05 14:16:51+08:00.
 
 ----- __118.1__ -----2022-02-05 21:13:32+08:00:
