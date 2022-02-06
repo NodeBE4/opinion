@@ -55,7 +55,11 @@ Beijing has railed against the “politicization of sports" by critics ahead of 
 
 RT Harv-Yenching Inst.<br>New in the HYI "Library Highlights" series: a look at 經國雄略 (Ambitious Strategies of Statecraft), originally published in 1645, "a 48-volume (juan) compendium of practical knowledge about statecraft by Zheng Dayu of Quanzhou, Fujian." Read more: <a href="http://ow.ly/F8GA50HLyUn" target="_blank" rel="noopener noreferrer">http://ow.ly/F8GA50HLyUn</a><br><img style="" src="https://pbs.twimg.com/media/FKwYIXqWQAcSLgV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 11: [2022-02-05 22:43:14+08:00 推文](https://twitter.com/AlexDukalskis/status/1489972891286446082)
+### 11: [2022-02-05 15:19:00+08:00 推文](https://twitter.com/jcmittelstaedt/status/1489861095435255810)
+
+RT Jean Christopher Mittelstaedt<br>Newspaper front pages 5 February 2022<br><br>People's Daily<br><img style="" src="https://pbs.twimg.com/media/FK0L3u1X0AMse9B?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-02-05 22:43:14+08:00 推文](https://twitter.com/AlexDukalskis/status/1489972891286446082)
 
 RT Alex Dukalskis<br>Fun reminder as you read about the *totally non-political* #Olympics2022 on social media: the 🇨🇳 gov is paying influencers to post according to the attached formula. <br><br>More details by @nivincent here: <a href="https://www.theguardian.com/world/2022/jan/22/china-hires-western-tiktokers-to-polish-its-image-during-2022-winter-olympics" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/jan/22/china-hires-western-tiktokers-to-polish-its-image-during-2022-winter-olympics</a><br><img style="" src="https://pbs.twimg.com/media/FK1xkDrXIAE-M36?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
