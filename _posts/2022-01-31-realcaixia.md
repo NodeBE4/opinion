@@ -151,3 +151,7 @@ Re @peichang_yang 然后我带着全家赶快移民出去，剩下的钱够我�
 
 Re @faith60588687 @haha5134 事情发生在徐州地区不是苏州。
 
+### 35: [2022-02-06 12:03:02+08:00 推文](https://twitter.com/realcaixia/status/1490174169425891331)
+
+本推昨天特推薦了王長江教授文章之（一），剛剛議報發布了這篇長文之（二），特別轉發。<br>王长江：政治视域下的中国知识分子问题（之二） - 议报 <a href="https://yibaochina.com/?p=244750" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244750</a>
+
