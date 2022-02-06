@@ -221,3 +221,9 @@ While the answer as a whole goes into more detail – and the book it is based o
 
 It is true that in the eighteenth and nineteenth centuries, the Great Qing *did* leverage threats of embargo as a mechanism for exercising control over the activities of European states and their subjects in coastal China. But this was at a time when these states and their subjects had an immediate and apparent presence in southern China, and were capable of travelling between Europe and China practicably in long-range, square-rigged sailing ships. It was a context in which European states served as guarantors for European merchants engaged in direct commerce, in contrast to being tenuously commercially connected to China via long chains of middlemen whose connections were fundamentally coincidental.
 
+### 120: [What did the foreigners think of Cromwell's commonwealth?](https://old.reddit.com/r/AskHistorians/comments/slsof3/what_did_the_foreigners_think_of_cromwells/), submitted on 2022-02-06 17:20:48+08:00.
+
+----- __120.1__ -----2022-02-07 01:06:57+08:00:
+
+Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth, comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to be free of [significant errors or misunderstandings of the topic at hand](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/). Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
+
