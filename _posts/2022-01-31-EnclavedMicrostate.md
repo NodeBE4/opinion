@@ -189,9 +189,15 @@ Without getting too pedantic here, *ujen cooha* was simply the Manchu term for t
 
 There was almost a literal slap fight at the 1969 meeting of the American Historical Association between John King Fairbank, Harvard's first specialist in Chinese history – and indeed a towering figure in Anglophone historiography of China – and Howard Zinn, who probably needs less introduction but is most famous for *A People's History of the United States*. Zinn was part of the Radical Historians' Caucus and was attempting to get the AHA to pass a resolution condemning US involvement in the Vietnam War, leading to a physical struggle for control of the microphone between Zinn and Fairbank which is almost invariably mentioned in any retrospective on the latter's career.
 
-### 117: [I recently read that Carter had some solar panels installed on the White House, which Reagan later had removed. What actually happened?](https://old.reddit.com/r/AskHistorians/comments/sl015o/i_recently_read_that_carter_had_some_solar_panels/), submitted on 2022-02-05 14:16:51+08:00.
+### 117: [Popular Youtuber Forgotten Weapons aka Gun Jesus misfires on an announcement about publishing a war memoir written by a fascist Swedish volunteer to the neo-nazi Azov battalion in Ukraine. r/ForgottenWeapons reacts](https://old.reddit.com/r/SubredditDrama/comments/skzmhs/popular_youtuber_forgotten_weapons_aka_gun_jesus/), submitted on 2022-02-05 13:53:47+08:00.
 
------ __117.1__ -----2022-02-05 21:13:32+08:00:
+----- __117.1__ -----2022-02-06 12:42:44+08:00:
+
+In all sincerity, don't look at Extra History; they are apparently a bit better than they used to be, but not by much. The main thing is they're really bad at research, to the point where it takes so much effort to research whether their research is good that you may as well DIY it.
+
+### 118: [I recently read that Carter had some solar panels installed on the White House, which Reagan later had removed. What actually happened?](https://old.reddit.com/r/AskHistorians/comments/sl015o/i_recently_read_that_carter_had_some_solar_panels/), submitted on 2022-02-05 14:16:51+08:00.
+
+----- __118.1__ -----2022-02-05 21:13:32+08:00:
 
 Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
