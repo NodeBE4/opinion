@@ -19,3 +19,11 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 RT Kinamedia<br>Översättning av text från @cnmediaproject som beskriver Kinas planer att använda OS för att förbättra bilden av landet, samtidigt som man avfärdar all kritik mot olympiaden med uppmaningar om att "sluta politisera idrotten". <a href="https://kinamedia.se/2022/02/06/mediekontroll-som-olympisk-uppgift/" target="_blank" rel="noopener noreferrer">https://kinamedia.se/2022/02/06/mediekontroll-som-olympisk-uppgift/</a>
 
+### 2: [2022-02-07 10:26:42+08:00 推文](https://twitter.com/cnmediaproject/status/1490512311765041155)
+
+The CCP has built the world's most comprehensive architecture for information control and manipulation. But in policing online content undesirable to the regime, it must also have the active participation of millions of users. <a href="https://bit.ly/3Gweznj" target="_blank" rel="noopener noreferrer">https://bit.ly/3Gweznj</a><br><img style="" src="https://pbs.twimg.com/media/FK9c7K2acAE8VWU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-02-07 10:58:46+08:00 推文](https://twitter.com/paulmozur/status/1490520381928914946)
+
+RT Paul Mozur 孟建國<br>Interesting thread on pro-China foreign influencers we wrote about last year. Watch Olympics coverage and YouTube feeds up their denials of abuses in Xinjiang etc. YouTube algo often does same for China culture/travel too. China's info campaigns improving.<br><br>John Scott-Railton: Watched a handful of #Olympics event clips on YouTube.<br><br>Was quickly autoplayed into pro-Beijing influencer content.<br><br><img style="" src="https://pbs.twimg.com/media/FK7lEbiXMAEI-w_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
