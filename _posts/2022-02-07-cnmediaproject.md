@@ -27,3 +27,11 @@ The CCP has built the world's most comprehensive architecture for information co
 
 RT Paul Mozur 孟建國<br>Interesting thread on pro-China foreign influencers we wrote about last year. Watch Olympics coverage and YouTube feeds up their denials of abuses in Xinjiang etc. YouTube algo often does same for China culture/travel too. China's info campaigns improving.<br><br>John Scott-Railton: Watched a handful of #Olympics event clips on YouTube.<br><br>Was quickly autoplayed into pro-Beijing influencer content.<br><br><img style="" src="https://pbs.twimg.com/media/FK7lEbiXMAEI-w_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-02-07 15:23:49+08:00 推文](https://twitter.com/cnmediaproject/status/1490587083656024064)
+
+Such an odd choice, to grant a supervised interview with Peng Shuai in the French sports daily L'Equipe. Again she assures the world she is fine. And she deleted her Weibo message, "Because I felt like it." Chilling against total silence inside China. <a href="https://bit.ly/3B0IN0u" target="_blank" rel="noopener noreferrer">https://bit.ly/3B0IN0u</a><br><img style="" src="https://pbs.twimg.com/media/FK-e8TqacAEYDmF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-02-07 16:43:45+08:00 推文](https://twitter.com/cnmediaproject/status/1490607199751913472)
+
+Empowering China’s Digital Informants: China has the world's most comprehensive technical architecture for information control and manipulation. But to police online content, the CCP believes it must also rely the active participation of millions of users. <a href="https://bit.ly/3Gweznj" target="_blank" rel="noopener noreferrer">https://bit.ly/3Gweznj</a><br><img style="" src="https://pbs.twimg.com/media/FK-zTvIaMAAy0Ea?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

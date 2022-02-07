@@ -37,7 +37,7 @@ RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing opera
 
 ### 6: [2021-12-29 17:26:32+08:00 推文](https://twitter.com/rhokilpatrick/status/1476122451574595587)
 
-RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style="" src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
 
@@ -45,7 +45,7 @@ CMP continues to watch Chinese discourse dry . . . so you don't have to. Our lat
 
 ### 8: [2021-12-29 17:54:28+08:00 推文](https://twitter.com/cnmediaproject/status/1476129481417183234)
 
-Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The new buzzword is “historical confidence,” or lishi zixin (历史自信). Here it is in today's most prominent PD headline.<br><img style="" src="https://pbs.twimg.com/media/FHxD7ccagAEGUlu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 00:40:53+08:00 推文](https://twitter.com/niubi/status/1476231759662665737)
 
