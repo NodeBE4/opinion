@@ -227,3 +227,29 @@ It is true that in the eighteenth and nineteenth centuries, the Great Qing *did*
 
 Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth, comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to be free of [significant errors or misunderstandings of the topic at hand](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/). Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
+### 121: [What do heavy cavalry do after a successful charge?](https://old.reddit.com/r/AskHistorians/comments/slsx9u/what_do_heavy_cavalry_do_after_a_successful_charge/), submitted on 2022-02-06 17:37:09+08:00.
+
+----- __121.1__ -----2022-02-07 11:16:04+08:00:
+
+We've removed your post for the moment because it's not currently at our standards, but it definitely has the potential to fit within our rules with some work. We find that some answers that fall short of our standards can be successfully revised by considering the following questions, not all of which necessarily apply here:
+
+* *Do you actually address the question asked by OP?* Sometimes answers get removed not because they fail to meet our standards, but because they don't get at what the OP is asking. If the question itself is flawed, you need to explain why, and how your answer addresses the underlying issues at hand.
+
+* *What are the sources for your claims?* Sources aren't strictly necessary on /r/AskHistorians but the inclusion of sources is helpful for evaluating your knowledge base. If we can see that your answer is influenced by up-to-date academic secondary sources, it gives us more confidence in your answer and allows users to check where your ideas are coming from.
+
+* *What level of detail do you go into about events?* Often it's hard to do justice to even seemingly simple subjects in a paragraph or two, and on /r/AskHistorians, the basics need to be explained within historical context, to avoid misleading intelligent but non-specialist readers.  In many cases, it's worth providing a broader historical framework, giving more of a sense of not just what happened, but why.
+
+* *Do you downplay or ignore legitimate historical debate on the topic matter?* There is often more than one plausible interpretation of the historical record. While you might have your own views on which interpretation is correct, answers can often be improved by acknowledging alternative explanations from other scholars. 
+
+* *Further Reading*: [This Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) provides further exploration of the rules and expectations concerning answers so may be of interest.
+
+If/when you edit your answer, [please reach out via modmail](http://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians) so we can re-evaluate it! We also welcome you getting in touch if you're unsure about how to improve your answer.
+
+### 122: [What authority did the very earliest kings and lords in Europe claim that gave them their power over their subjects?](https://old.reddit.com/r/AskHistorians/comments/slzdda/what_authority_did_the_very_earliest_kings_and/), submitted on 2022-02-06 23:31:14+08:00.
+
+----- __122.1__ -----2022-02-07 11:09:24+08:00:
+
+> A Clash of Kings by George R. R. Martin. Bantam Books, 1999. (Mods, forgive me, I had to do it.)
+
+No, you very much didn't. We'll be happy to consider reinstating your answer if the offending sections are removed.
+

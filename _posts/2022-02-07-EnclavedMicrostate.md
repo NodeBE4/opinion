@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-02-07~2022-02-13的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 121: [How popular was the Qing dynasty at the very end?](https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/), submitted on 2022-02-07 00:57:39+08:00.
+### 123: [How popular was the Qing dynasty at the very end?](https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/), submitted on 2022-02-07 00:57:39+08:00.
 
------ __121.1__ -----2022-02-07 03:29:59+08:00:
+----- __123.1__ -----2022-02-07 03:29:59+08:00:
 
 So, this is not purely a question about political popularity in a vacuum thanks to the clarification you've added. Indeed, when you interrogate the specifics, it ends up kind of turning into two separate questions, one about the popularity of the Qing, and the other about empire and decolonisation.
 
@@ -33,7 +33,7 @@ One thing I have generally only touched on in the above answer is anti-Manchuism
 
 So, were the Qing popular when they fell? The answer is, quite decidedly, no. The Qing had built up their goodwill among reformist elites in the 1901-1909 period by appearing to commit to a programme of political reform with the end goal of establishing a constitutional monarchy, but a combination of Zaifeng's own political intransigence and the unresolved – and potentially insoluble – question of Manchu status led to the Qing torpedoing that built-up credibility in 1910-11. The Aisin Gioro clan did not lose all of its supporters, even among elite reformists – for instance, Liang Qichao's mentor Kang Youwei publicly supported the short-lived 'Manchu Restoration' of 1917. But it was, at the end of its tenure, at a decided low ebb in popularity, even if not one that can be meaningfully quantified.
 
------ __121.2__ -----2022-02-07 03:30:03+08:00:
+----- __123.2__ -----2022-02-07 03:30:03+08:00:
 
 It's hard to speak of a significant north-south division in revolutionary sentiments; while the areas immediately closer to Beijing didn't revolt, many northern cities, most notably Xi'an, did. Xi'an stands out also as a particularly violent case, with some 20,000 Manchus in the Banner quarter being massacred by the rebels. But, looking at The Mad Monarchist's (probable) blog post in question, a simple north-south divide isn't the point they seem to be going for. Instead, their argument seems to be that the 1911 Revolution should, in theory, simply have detached the Han Chinese – and indeed any other rebelling populations – from Manchu rule, with the Manchus free to retain their own government in Manchuria itself. Now, this is broadly a moralistic argument, and one which is not really my job as a historian to discuss. But I can discuss the practicalities involved in why that didn't happen.
 
@@ -45,7 +45,7 @@ Thirdly, we need to look at the reformist agenda itself, where again, there were
 
 It is thus not entirely wrong to say that claims to Manchuria by the ROC and PRC are ultimately rooted in discourses attempting to reconcile ethnic nationalism with imperialism, nor to say that the Manchus very much did not have a choice in 1911. This of course has no bearing on the broader ideology of monarchism, especially in its present-day form, but, and it surprises me to say it, there is a vague kernel of truth to The Mad Monarchist's suggestion, however tendentious, that there was a certain incongruity, even hypocrisy, between Han demands for self-rule in 1911, and yet also Han claims to overrule similar claims among other former imperial subjects.
 
------ __121.3__ -----2022-02-07 03:34:21+08:00:
+----- __123.3__ -----2022-02-07 03:34:21+08:00:
 
 ### Sources and Further Reading 
 
@@ -62,4 +62,14 @@ It is thus not entirely wrong to say that claims to Manchuria by the ROC and PRC
 * Edward J. M. Rhoads, *China's Republican Revolution: The Case of Kwangtung, 1895–1913* (1975)
 
 * Xiaowei Zheng, *The Politics of Rights and the 1911 Revolution in China* (2018)
+
+----- __123.4__ -----2022-02-07 11:34:42+08:00:
+
+I knew there'd be things I'd forget to explain! A lot of things about the fall of the Qing are very specific to the Qing itself, and arguably none more so than the queue, something I go into depth [here](https://www.reddit.com/r/AskHistorians/comments/hieo21/tuesday_trivia_a_woman_who_cuts_her_hair_is_about/fwh873t/?context=999) about but where I'll summarise the relevant part here. 'Queue' is, in this context, an English term for a braid of hair, known in Manchu as the *soncoho* and in Mandarin as *bianzi*. A series of edicts in 1644-5 had mandated that all Han Chinese men under Qing rule were to adopt the customary hairstyle of Manchu men, with all hair shaven except for a small amount at the back that would be braided – no more than would fit through the hole in a coin. The amount of hair that was retained increased over time, such that by the mid-nineteenth century it was really only the top and sides that were still shaven.
+
+The queue edict came under fire from two general angles. The first related to the tonsure (shaving) part, as it was a widespread belief among Han Chinese that men's hair was supposed to be worn long as a sign of respect towards one's parents, whom one's hair was inherited from. As such, for most of those who objected to the queue until the late nineteenth century, it was the sacrilegious act of shaving that was objected to, and in turn flouted by rebels who had broken free of Qing authority – most prominently the Taiping, who were nicknamed the 'Long Hairs' by their enemies for growing out the hair on their heads that was now unshaven.
+
+The second related to the braid, as by the late nineteenth century many, especially elite intellectuals, saw the queue as backward. Yes, it is a little odd that a *hairstyle* could be considered not-modern-enough, but that was the situation on the ground as Han Chinese elites agitated for being allowed to adopt the short, cropped hairstyles that had become in vogue in Japan and Europe. While there had been a certain paranoia over queue-cutting on the part of the Qing court even in the eighteenth century, it would not be until the New Policies period (1901-11) that queue-cutting genuinely became a grassroots political cause. Thus, by 1911 it was no longer shaving, but the combination of partial shaving and partial grown-out hair, that had become the point of contention.
+
+Of course, throughout this there was the problem of the supposed 'barbarianness' of the hairstyle, which was seen as – and intended by Qing rulers to be seen as – a visible sign of Manchu dominance. The queue-cutting movement of the 1900s was certainly motivated in large part by an anti-traditionalist, modernising agenda, but it was also deeply tied in with the ethnic politics that I discuss in the above answer. 'Modernising' sentiments changed the *nature* of the anti-queue position, but were not the origin of opposition to the queue edict in the abstract.
 
