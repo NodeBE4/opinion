@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-07
+date: 2022-02-08
 from: https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/
 layout: post
 tags:
@@ -72,4 +72,10 @@ The queue edict came under fire from two general angles. The first related to th
 The second related to the braid, as by the late nineteenth century many, especially elite intellectuals, saw the queue as backward. Yes, it is a little odd that a *hairstyle* could be considered not-modern-enough, but that was the situation on the ground as Han Chinese elites agitated for being allowed to adopt the short, cropped hairstyles that had become in vogue in Japan and Europe. While there had been a certain paranoia over queue-cutting on the part of the Qing court even in the eighteenth century, it would not be until the New Policies period (1901-11) that queue-cutting genuinely became a grassroots political cause. Thus, by 1911 it was no longer shaving, but the combination of partial shaving and partial grown-out hair, that had become the point of contention.
 
 Of course, throughout this there was the problem of the supposed 'barbarianness' of the hairstyle, which was seen as – and intended by Qing rulers to be seen as – a visible sign of Manchu dominance. The queue-cutting movement of the 1900s was certainly motivated in large part by an anti-traditionalist, modernising agenda, but it was also deeply tied in with the ethnic politics that I discuss in the above answer. 'Modernising' sentiments changed the *nature* of the anti-queue position, but were not the origin of opposition to the queue edict in the abstract.
+
+### 124: [StabbyCon: AskHistorians Group AMA](https://old.reddit.com/r/Fantasy/comments/smv0qd/stabbycon_askhistorians_group_ama/), submitted on 2022-02-08 01:00:45+08:00.
+
+----- __124.1__ -----2022-02-08 01:14:36+08:00:
+
+So this isn't a misconception as such so much as a rather unfortunate bit of laser-focus. Ask anyone about the Taiping and if anyone knows anything, it will be two factoids: that it was started by a guy who thought he was the brother of Jesus, and that it caused 20 million deaths. The former is true, the latter is actually hard to substantiate, but all facts aside, the problem is that the whole thing gets framed as 'that time an insane thing happened in China but the only consequences were a lot of deaths'. And that's just a crying shame for a period with *lots* of interesting angles of study and analysis: Where did the Taiping fit in global Christianity? How did they influence the development of Chinese nationalism? What was their legacy in Chinese popular culture? What was it like to actually live through the conflict? These are all questions historians have asked and – in some cases – answered, but which are completely elided by the whole narrative that 'Jesus' brother killed 20 million people that one time'.
 
