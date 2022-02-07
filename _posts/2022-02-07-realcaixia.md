@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-07
+date: 2022-02-08
 from: https://twitter.com/realcaixia/status/1490427332666007555
 layout: post
 tags:
@@ -30,4 +30,8 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 ### 4: [2022-02-07 08:04:57+08:00 推文](https://twitter.com/realcaixia/status/1490476639008010242)
 
 我在观察中共内斗一文中所提到的4万字长文，就是这篇。特转发。有兴趣的朋友可以看看。<br><br>RFI 华语 - 法国国际广播电台: 网络文摘：客观评价习近平<br><br><img style="" src="https://pbs.twimg.com/media/FKtZzEiVkAAHLvF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/88lN.t" target="_blank" rel="noopener noreferrer">https://rfi.my/88lN.t</a>
+
+### 5: [2022-02-08 00:38:33+08:00 推文](https://twitter.com/realcaixia/status/1490726686224261128)
+
+新疆当局的做法是把正常家庭拆散，男人在这里，女人们在另一类“技术培训学校”，把老人们集中到老人院，把幼儿少儿们集中到带幼儿园的小学校去（吃住都在学校里）。断绝文化传承，推行种族灭绝的基础是拆毁家庭。中共在新疆做的就是这些事。<br><br>ZHANGDONG: 男人们都在这里<br><br><img style="" src="https://pbs.twimg.com/media/FK9ive_WYAI_tKW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/Ipkmedia/status/1490434930798743555" target="_blank" rel="noopener noreferrer">https://twitter.com/Ipkmedia/status/1490434930798743555</a>
 
