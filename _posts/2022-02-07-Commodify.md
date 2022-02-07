@@ -13,9 +13,9 @@ title: Commodify在2022-02-07~2022-02-13的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 68: [Was the British Strategy in WW1 to commit a massive army to the Western Front a failure?](https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/), submitted on 2022-02-07 09:44:33+08:00.
+### 69: [Was the British Strategy in WW1 to commit a massive army to the Western Front a failure?](https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/), submitted on 2022-02-07 09:44:33+08:00.
 
------ __68.1__ -----2022-02-07 23:26:23+08:00:
+----- __69.1__ -----2022-02-07 23:26:23+08:00:
 
 No. Britain paid a relatively small price for a very important goal: the destruction of the Kriegsmarine and the unification of the other four naval powers behind the UK. They prolonged the life of the British Empire by at least a decade, and could have prolonged it by more if they had better navigated relations with their postwar allies.
 
