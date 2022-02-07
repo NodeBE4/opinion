@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-05
+date: 2022-02-06
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/si1b2l/unofficial_daily_update_for_20220201_8665_new/
 layout: post
 tags:
@@ -345,4 +345,16 @@ Your tag is fantastic.  Frank Herbert fans ftw
 ----- __72.2__ -----2022-02-06 07:13:17+08:00:
 
 I share your implied contempt for Brian Herbert.  Not to worry.
+
+### 73: [‘We should remove masks as soon as we can’: Pritzker considering easing COVID-19 restrictions as cases drop](https://old.reddit.com/r/CoronavirusIllinois/comments/slj4sf/we_should_remove_masks_as_soon_as_we_can_pritzker/), submitted on 2022-02-06 06:53:06+08:00.
+
+----- __73.1__ -----2022-02-07 08:29:13+08:00:
+
+> lol your post history…woooooow
+
+What is your point?
+
+----- __73.2__ -----2022-02-07 08:43:59+08:00:
+
+Has no one introduced you to this new concept called "a moderator"?
 
