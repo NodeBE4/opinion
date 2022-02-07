@@ -27,3 +27,7 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 议报今天在二十大专栏中发布了我的观察报告《二十大前中共内斗充满变数》。<br>这篇文章一是因与韩连潮先生《中共二十大评析》一文中关于习近平是否可能连任的判断有不同看法而写；<br>二是围绕习近平争二十大连任这一问题，梳理与分析最近几月中共的内斗，并作出我的初步判断。 <a href="https://yibaochina.com/?p=244759" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244759</a>
 
+### 4: [2022-02-07 08:04:57+08:00 推文](https://twitter.com/realcaixia/status/1490476639008010242)
+
+我在观察中共内斗一文中所提到的4万字长文，就是这篇。特转发。有兴趣的朋友可以看看。<br><br>RFI 华语 - 法国国际广播电台: 网络文摘：客观评价习近平<br><br><img style="" src="https://pbs.twimg.com/media/FKtZzEiVkAAHLvF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/88lN.t" target="_blank" rel="noopener noreferrer">https://rfi.my/88lN.t</a>
+
