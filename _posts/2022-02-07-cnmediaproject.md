@@ -39,3 +39,15 @@ Empowering China’s Digital Informants: China has the world's most comprehensiv
 
 Empowering China's Digital Informants: filters and technical layers, teams of internet police and moderators, the complicity of internet firms . . . None of it is enough to ensure control of information. So the CCP wants the public involved too. <a href="https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/</a><br><img style="" src="https://pbs.twimg.com/media/FLDFpa_aIAQtYjh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-02-08 12:52:54+08:00 推文](https://twitter.com/cnmediaproject/status/1490911492564480000)
+
+New in the CMP Dictionary: The "Two Establishes"  (两个确立), an important four-character phrase for 2022, as Xi Jinping plods ahead toward total dominance of the CCP and China's future beyond the next Party Congress <a href="https://chinamediaproject.org/the_ccp_dictionary/two-establishes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/two-establishes/</a><br><img style="" src="https://pbs.twimg.com/media/FLDIFKPacAE6yei?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-02-08 12:54:51+08:00 推文](https://twitter.com/cnmediaproject/status/1490911985051254786)
+
+Re See also last week's article, "Safeguards for Xi's Stratospheric Rise," which looks at both the "Two Establishes" and the "Two Safeguards" (两个维护). <a href="https://chinamediaproject.org/2022/02/02/safeguards-for-xis-continued-rise/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/02/safeguards-for-xis-continued-rise/</a><br><img style="" src="https://pbs.twimg.com/media/FLDIeDYaUAUic_d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-02-08 12:56:57+08:00 推文](https://twitter.com/cnmediaproject/status/1490912512006823938)
+
+Re Both phrases first emerged in late 2017, following the 19th National Congress of the CCP. They first appeared in the People's Daily in January 2018 (Two Establishes) and April 2018 (Two Safeguards). But 两个确立 would not appear in the PD again until November 2021.
+
