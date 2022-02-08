@@ -30,3 +30,11 @@ title: ForeignAffairsMag在2022-02-07~2022-02-13的言论
 “Instead of hoping that the Burundian government will change its ways, the United States and the European Union should publicly push the country’s leaders to take concrete and measurable steps to improve their dire human rights record.”  
 Burundian President Ndayishimiye took office pledging to deliver “peace and justice for all.” Instead, he has continued his predecessor’s brutal crackdown on dissent. But the West seems willing to ignore the new regime’s human rights violations, writes Mausi Segun.
 
+### 117: [Revenge of the Patriarchs: Why Autocrats Fear Women](https://old.reddit.com/r/politics/comments/snlres/revenge_of_the_patriarchs_why_autocrats_fear_women/), submitted on 2022-02-08 22:38:01+08:00.
+
+----- __117.1__ -----2022-02-08 22:40:11+08:00:
+
+\[SS from the article by Erica Chenoweth, Professor of the First Amendment at the Harvard Kennedy School, and Zoe Marks, Lecturer in Public Policy at the Harvard Kennedy School\]
+
+“Although many autocrats and aspiring autocrats no doubt believe the sexist and misogynistic things they say, their campaigns to restrict women’s empowerment and human rights also seek to undermine potential democratic movements that would oust them.”
+

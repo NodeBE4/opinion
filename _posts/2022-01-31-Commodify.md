@@ -351,6 +351,10 @@ Yes - in some periods it was normal for 40% or more of the male population to di
 
 Excellent. The number of times the Mamluks fled without orders can be counted on one hand. The most important relationship they had was with their “initiation brothers” or khudash, who were imported together and manumitted together. These would often form military units, and when they didn’t the actions of one still reflected in the entire group.
 
+----- __66.13__ -----2022-02-08 22:54:43+08:00:
+
+100% - the Pannonian Basin is the furthest West reach of the steppe.
+
 ### 67: [Russia and China line up against U.S. in "no limits" partnership](https://old.reddit.com/r/geopolitics/comments/skeirz/russia_and_china_line_up_against_us_in_no_limits/), submitted on 2022-02-04 22:25:56+08:00.
 
 ----- __67.1__ -----2022-02-04 23:05:42+08:00:
