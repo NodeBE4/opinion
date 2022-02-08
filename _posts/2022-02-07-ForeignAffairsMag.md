@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-07
+date: 2022-02-08
 from: https://old.reddit.com/r/geopolitics/comments/smsc6r/how_to_break_the_cycle_of_conflict_with_russia/
 layout: post
 tags:
@@ -20,4 +20,13 @@ title: ForeignAffairsMag在2022-02-07~2022-02-13的言论
 \[SS from the article by Samuel Charap, Senior Political Scientist at the RAND Corporation\]
 
 "Until Russia, the United States, Europe, and the states stuck in between them reach a consensus on a revised regional order, post-Soviet Eurasia will remain a source of instability and conflict. Our proposal shows that such consensus might yet be possible."
+
+### 116: [Burundi’s Vicious Crackdown Never Ended: America and the EU Just Chose to Ignore It](https://old.reddit.com/r/Africa/comments/snkxtx/burundis_vicious_crackdown_never_ended_america/), submitted on 2022-02-08 22:00:41+08:00.
+
+----- __116.1__ -----2022-02-08 22:02:06+08:00:
+
+\[SS from the article by Mausi Segun, Executive Director of Human Rights Watch’s Africa Division.\]
+
+“Instead of hoping that the Burundian government will change its ways, the United States and the European Union should publicly push the country’s leaders to take concrete and measurable steps to improve their dire human rights record.”  
+Burundian President Ndayishimiye took office pledging to deliver “peace and justice for all.” Instead, he has continued his predecessor’s brutal crackdown on dissent. But the West seems willing to ignore the new regime’s human rights violations, writes Mausi Segun.
 
