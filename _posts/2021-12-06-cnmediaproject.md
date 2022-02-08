@@ -81,7 +81,7 @@ Re And Dalian Daily, the official organ of the CCP leadership in the city of Dal
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
@@ -93,7 +93,7 @@ Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
-Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style="" src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-08 08:40:36+08:00 推文](https://twitter.com/cnmediaproject/status/1468379952647409664)
 
@@ -125,7 +125,7 @@ Re A report from the Global Times late yesterday about the forum asserts that: "
 
 ### 28: [2021-12-09 09:03:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468748020888240134)
 
-Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
@@ -133,19 +133,19 @@ Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science 
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
-Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
-Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The video dates to the 2019 South-South HR Forum, and advocates moving "development" to the center of human rights concepts, a typical CCP point. . . But look more closely at the "News and Opinion" section on the Cross-Cultural Human Rights Centre website. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FGISi0SVkAA3yGf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-09 09:49:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468759639550734336)
 
-Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The latest article, from 11/28, follows CCP talking points nearly verbatim. It openly declares that the Cross-Cultural Human Rights Centre supports the China-Russia declaration following US announcement of the Summit for Democracy.<br><img style="" src="https://pbs.twimg.com/media/FGIVGCRUUAYVII2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
-Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 

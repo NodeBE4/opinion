@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-07
+date: 2022-02-08
 from: https://twitter.com/kinamediase/status/1490382495275044870
 layout: post
 tags:
@@ -34,4 +34,8 @@ Such an odd choice, to grant a supervised interview with Peng Shuai in the Frenc
 ### 5: [2022-02-07 16:43:45+08:00 推文](https://twitter.com/cnmediaproject/status/1490607199751913472)
 
 Empowering China’s Digital Informants: China has the world's most comprehensive technical architecture for information control and manipulation. But to police online content, the CCP believes it must also rely the active participation of millions of users. <a href="https://bit.ly/3Gweznj" target="_blank" rel="noopener noreferrer">https://bit.ly/3Gweznj</a><br><img style="" src="https://pbs.twimg.com/media/FK-zTvIaMAAy0Ea?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-02-08 12:42:22+08:00 推文](https://twitter.com/cnmediaproject/status/1490908842888413184)
+
+Empowering China's Digital Informants: filters and technical layers, teams of internet police and moderators, the complicity of internet firms . . . None of it is enough to ensure control of information. So the CCP wants the public involved too. <a href="https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/</a><br><img style="" src="https://pbs.twimg.com/media/FLDFpa_aIAQtYjh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
