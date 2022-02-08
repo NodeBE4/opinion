@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-08
+date: 2022-02-09
 from: https://twitter.com/kinamediase/status/1490382495275044870
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re See also last week's article, "Safeguards for Xi's Stratospheric Rise," which
 ### 9: [2022-02-08 12:56:57+08:00 推文](https://twitter.com/cnmediaproject/status/1490912512006823938)
 
 Re Both phrases first emerged in late 2017, following the 19th National Congress of the CCP. They first appeared in the People's Daily in January 2018 (Two Establishes) and April 2018 (Two Safeguards). But 两个确立 would not appear in the PD again until November 2021.
+
+### 10: [2022-02-09 03:00:52+08:00 推文](https://twitter.com/niubi/status/1491124893366120448)
+
+RT Bill Bishop<br>CCDI website scores an exclusive interview with Eileen Gu 本网独家专访自由式滑雪女子大跳台冠军谷爱凌-在家乡比赛的感觉真的很不一样 <a href="https://www.ccdi.gov.cn/toutiaon/202202/t20220208_169995.html" target="_blank" rel="noopener noreferrer">https://www.ccdi.gov.cn/toutiaon/202202/t20220208_169995.html</a>
 
