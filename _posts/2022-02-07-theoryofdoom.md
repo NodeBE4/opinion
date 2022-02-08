@@ -89,3 +89,31 @@ The concept of "hospitalizations or cases as measured by PCR and/or antigen test
 
 I obviously would have handled things differently.  But that's irrelevant, just like every other opinion I have on what he should have done lol.  I'm just some random guy on Reddit.
 
+----- __75.7__ -----2022-02-08 12:46:39+08:00:
+
+I really do think Pritzker is trying to do the best he can.  I just think that he like most politicians cannot tell the difference between science and quackery, a problem that is neither new nor unique to the current pandemic.  
+
+I'm reminded of when eugenics was all the rage about 100 years ago.  So, just outside of living memory in Buck v. Bell, Supreme Court Justice Oliver Wendell Holmes wrote this:
+
+> We have seen more than once that the public welfare may call upon the best citizens for their lives. It would be strange if it could not call upon those who already sap the strength of the State for these lesser sacrifices, often not felt to be such by those concerned, in order to prevent our being swamped with incompetence. It is better for all the world if, instead of waiting to execute degenerate offspring for crime or to let them starve for their imbecility, society can prevent those who are manifestly unfit from continuing their kind. The principle that sustains compulsory vaccination is broad enough to cover cutting the Fallopian tubes. Three generations of imbeciles are enough.
+
+This is one of the darkest chapters in American legal history, brought about by a set of folks who thought that giving the government the power to do things in service of "public health" was a good thing.  
+
+As a result, thousands of people were involuntarily sterilized in this country based on pseudoscience; the kind of crackpot quackery that is more properly suited for American Horror Story than the annals of American jurisprudence. 
+
+Holmes was no fool, either.  He is one of the most gifted jurists the country has ever seen.  And yet, we have this.  If Holmes could be taken in to this extent by something this egregious, how much better could be expected from JB, who only got into Northwestern because of his family's money?  Not much.
+
+The thing to take away from this --- at least in my opinion, for what little it's worth as just some random guy on Reddit --- is that we really ought to be considering what kind of relationship we want to have with the state.  Do we want to live in the kind of world where the state has that level of control over the body?  If not, then where do you draw the line? 
+
+If we begin from the principle that bodily autonomy is the foundation of liberty, then assaults upon that liberty cannot be haphazardly implemented by administrative decree or even whim of the legislature.  More is required, and there must be limits on the extent to which any such intrusion can come to pass in the first instance.  
+
+But we don't have that discussion, which is sad.  We should be having that discussion as a society.  Leaders should be keeping those principles in mind as they come up with policies, without regard to the exigencies of any current emergency.  That, by the way, seemed to be Gorsuch's point in his concurrence over the OSHA mandate --- if you were curious.
+
+----- __75.8__ -----2022-02-08 13:03:50+08:00:
+
+That isn't an off-ramp.  It's de-cluttering the data ecosystem, by distinguishing patient populations.  Astonishingly, folks in the alleged field of public health could not distinguish between someone who was hospitalized due to COVID infection and hospitalized under circumstances where any positive test was incidental to their reason for admission --- as the article indicates.  It literally took two years for this to be realized.  Stunning incompetence.
+
+----- __75.9__ -----2022-02-08 13:07:43+08:00:
+
+Sure, if he was capable of reaching that conclusion himself.  But he isn't.  He's relying on what others tell him.  It's not like he's running the analysis himself.  It's mildly hilarious to think about him trying, actually.  He wouldn't even know where to begin.
+
