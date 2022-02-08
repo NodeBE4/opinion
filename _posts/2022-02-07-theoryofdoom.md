@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-07
+date: 2022-02-08
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/
 layout: post
 tags:
@@ -40,4 +40,12 @@ The lack of masks or mandated masking has had no effect whatsoever in the southe
 ----- __74.4__ -----2022-02-07 20:25:58+08:00:
 
 We'll see how long he keeps this charade up.
+
+### 75: [Gov. Pritzker Gives No Specific Metrics For Removing COVID-19 Mask Mandate, But Says It Will Depend On Hospitalizations](https://old.reddit.com/r/CoronavirusIllinois/comments/sn3xy7/gov_pritzker_gives_no_specific_metrics_for/), submitted on 2022-02-08 07:07:06+08:00.
+
+----- __75.1__ -----2022-02-08 10:15:28+08:00:
+
+> Edit: NY is going to announce that their universal mask or vax mandate will end this week.
+
+Source?  Not saying I don't believe you but I'd like to see something establishing as much.
 
