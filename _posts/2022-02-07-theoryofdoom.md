@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-08
+date: 2022-02-09
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/
 layout: post
 tags:
@@ -136,4 +136,16 @@ Maybe.  But the further into this I've investigated, the more it looks to me lik
 ----- __77.1__ -----2022-02-09 10:35:55+08:00:
 
 Rule 5.
+
+### 78: [Biden vows to shut down Nord Stream 2 if Russia invades, as U.S. and Germany pledge unity](https://old.reddit.com/r/geopolitics/comments/snk14q/biden_vows_to_shut_down_nord_stream_2_if_russia/), submitted on 2022-02-08 21:17:49+08:00.
+
+----- __78.1__ -----2022-02-09 12:06:41+08:00:
+
+Hi.  Was this your first time posting here?
+
+### 79: [Something you should read.](https://old.reddit.com/r/geopolitics/comments/snqiv8/something_you_should_read/), submitted on 2022-02-09 02:03:01+08:00.
+
+----- __79.1__ -----2022-02-09 12:30:53+08:00:
+
+Editorialized title.
 
