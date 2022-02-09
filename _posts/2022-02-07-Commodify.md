@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-02-08
+date: 2022-02-09
 from: https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/
 layout: post
 tags:
@@ -56,4 +56,12 @@ Things like this never happen today because of a little known event in 1994: the
 Throughout the 90s and especially after 2001, the CIA also exerted greater influence over the other arms of intelligence and diplomacy. The AA incident drove the White House and Congress to demand the CIA "work with" other bodies like State and the NSA, but it ended up being the CIA "working over" them. There was never an equality of information between the three, with the CIA always knowing the most and influencing tri-agency strategy by selective truth telling. "Cooperation" also gradually imposed the CIA's new security culture on the other two bodies. Security clearance fanaticism clearly hit state years later than the CIA, as evidenced by the fact that State was still somewhat competent in 2000. But, by the creation of the Iraqi "Green Zone", it was clear State had declined into the same "walled castle" mentality of the CIA.
 
 The State Department's problem today is the same as the problem of all US intelligence agencies. It's so obsessed with betrayal that it can't engineer betrayal in the ranks of the enemy. Intelligence and diplomacy are both "contact" sports, and the amount of contact with locals deemed permissible for a state department official today is far lower than even 20 years ago.
+
+### 73: [When did we reach a point that private individuals stopped being able to meaningfully challenge states militarily?](https://old.reddit.com/r/WarCollege/comments/sogr42/when_did_we_reach_a_point_that_private/), submitted on 2022-02-09 23:52:16+08:00.
+
+----- __73.1__ -----2022-02-10 03:02:05+08:00:
+
+Never. Henry Morgan was a privateer with a letter of marque, in other words a part of the English military apparatus, but one they kept at arms' length. He is the same as a Blackwater or Wagner Company today, and those organizations are absolutely waging private wars and going up against states and de facto states. Those two are on the same order of magnitude. Morgan was not taking on the heart of the Spanish Empire, he was striking at its most distant fringes while they were distracted in other conflicts.
+
+When, then, did private individuals lose the ability to challenge states? They never had it, *unless they became the state*. Modern history is full of examples of warlords taking on foreign and domestic enemies, but whenever they take territory they naturally build a state around them. This has always been the case.
 
