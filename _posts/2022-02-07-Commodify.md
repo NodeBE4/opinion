@@ -65,3 +65,7 @@ Never. Henry Morgan was a privateer with a letter of marque, in other words a pa
 
 When, then, did private individuals lose the ability to challenge states? They never had it, *unless they became the state*. Modern history is full of examples of warlords taking on foreign and domestic enemies, but whenever they take territory they naturally build a state around them. This has always been the case.
 
+----- __73.2__ -----2022-02-10 04:18:15+08:00:
+
+They also "made themselves the state". That kind of thing still happens today, with probably the best examples being Libya and ISIL where largely foreign forces established themselves as a local government.
+
