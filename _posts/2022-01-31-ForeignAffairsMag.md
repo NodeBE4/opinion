@@ -21,6 +21,10 @@ title: ForeignAffairsMag在2022-01-31~2022-02-06的言论
 
 [https://www.foreignaffairs.com/articles/russian-federation/2022-02-04/bully-bubble](https://www.foreignaffairs.com/articles/russian-federation/2022-02-04/bully-bubble)
 
+----- __110.2__ -----2022-02-10 00:05:49+08:00:
+
+[Putin may decide that the benefits of reasserting Russia’s global power through an invasion of Ukraine outweigh any domestic political costs. But if he chooses this course, he risks alienating Russians, argues Andrei Kolesnikov.](https://www.foreignaffairs.com/articles/2022-02-09/would-russians-embrace-war)
+
 ### 111: [When Redlines Fail: The Promise and Peril of Public Threats](https://old.reddit.com/r/geopolitics/comments/siscdv/when_redlines_fail_the_promise_and_peril_of/), submitted on 2022-02-03 00:07:31+08:00.
 
 ----- __111.1__ -----2022-02-03 00:08:38+08:00:
