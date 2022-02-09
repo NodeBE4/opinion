@@ -35,23 +35,31 @@ Such an odd choice, to grant a supervised interview with Peng Shuai in the Frenc
 
 Empowering China’s Digital Informants: China has the world's most comprehensive technical architecture for information control and manipulation. But to police online content, the CCP believes it must also rely the active participation of millions of users. <a href="https://bit.ly/3Gweznj" target="_blank" rel="noopener noreferrer">https://bit.ly/3Gweznj</a><br><img style="" src="https://pbs.twimg.com/media/FK-zTvIaMAAy0Ea?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 6: [2022-02-08 12:42:22+08:00 推文](https://twitter.com/cnmediaproject/status/1490908842888413184)
+### 6: [2022-02-07 17:36:11+08:00 推文](https://twitter.com/chinalabour/status/1490620398148325381)
+
+RT CLB<br>【25岁bilibili员工过年期间连续加班，大面积脑出血后抢救无效死亡】<br><br>于 #bilibili 武汉公司任职的审核员因过年期间被要求 #加班，在晚上9点至第二日早上9点的工作强度下，2月4日因大面积脑出血死亡。可是，其所在的内容安全部门今日发布公告（图二）称，该名员工“在事发前一周内未存在加班等情况”。<br><img style="" src="https://pbs.twimg.com/media/FK--ztHVgAAbrRG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FK-_IprVcAAH5Q_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-02-08 12:42:22+08:00 推文](https://twitter.com/cnmediaproject/status/1490908842888413184)
 
 Empowering China's Digital Informants: filters and technical layers, teams of internet police and moderators, the complicity of internet firms . . . None of it is enough to ensure control of information. So the CCP wants the public involved too. <a href="https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/</a><br><img style="" src="https://pbs.twimg.com/media/FLDFpa_aIAQtYjh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 7: [2022-02-08 12:52:54+08:00 推文](https://twitter.com/cnmediaproject/status/1490911492564480000)
+### 8: [2022-02-08 12:52:54+08:00 推文](https://twitter.com/cnmediaproject/status/1490911492564480000)
 
 New in the CMP Dictionary: The "Two Establishes"  (两个确立), an important four-character phrase for 2022, as Xi Jinping plods ahead toward total dominance of the CCP and China's future beyond the next Party Congress <a href="https://chinamediaproject.org/the_ccp_dictionary/two-establishes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/two-establishes/</a><br><img style="" src="https://pbs.twimg.com/media/FLDIFKPacAE6yei?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 8: [2022-02-08 12:54:51+08:00 推文](https://twitter.com/cnmediaproject/status/1490911985051254786)
+### 9: [2022-02-08 12:54:51+08:00 推文](https://twitter.com/cnmediaproject/status/1490911985051254786)
 
 Re See also last week's article, "Safeguards for Xi's Stratospheric Rise," which looks at both the "Two Establishes" and the "Two Safeguards" (两个维护). <a href="https://chinamediaproject.org/2022/02/02/safeguards-for-xis-continued-rise/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/02/safeguards-for-xis-continued-rise/</a><br><img style="" src="https://pbs.twimg.com/media/FLDIeDYaUAUic_d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 9: [2022-02-08 12:56:57+08:00 推文](https://twitter.com/cnmediaproject/status/1490912512006823938)
+### 10: [2022-02-08 12:56:57+08:00 推文](https://twitter.com/cnmediaproject/status/1490912512006823938)
 
 Re Both phrases first emerged in late 2017, following the 19th National Congress of the CCP. They first appeared in the People's Daily in January 2018 (Two Establishes) and April 2018 (Two Safeguards). But 两个确立 would not appear in the PD again until November 2021.
 
-### 10: [2022-02-09 03:00:52+08:00 推文](https://twitter.com/niubi/status/1491124893366120448)
+### 11: [2022-02-09 03:00:52+08:00 推文](https://twitter.com/niubi/status/1491124893366120448)
 
 RT Bill Bishop<br>CCDI website scores an exclusive interview with Eileen Gu 本网独家专访自由式滑雪女子大跳台冠军谷爱凌-在家乡比赛的感觉真的很不一样 <a href="https://www.ccdi.gov.cn/toutiaon/202202/t20220208_169995.html" target="_blank" rel="noopener noreferrer">https://www.ccdi.gov.cn/toutiaon/202202/t20220208_169995.html</a>
+
+### 12: [2022-02-09 13:33:50+08:00 推文](https://twitter.com/cnmediaproject/status/1491284184081797120)
+
+As we head into another year of Xi's "common prosperity" approach, familiarize yourself with the phrase's up-and-down history. It was first about collectivism (Mao), then about "getting rich first" (Deng). And now . . . <a href="https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/</a><br><img style="" src="https://pbs.twimg.com/media/FLIa-BfagAAZK5-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

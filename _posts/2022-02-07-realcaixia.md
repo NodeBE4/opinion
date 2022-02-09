@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-08
+date: 2022-02-09
 from: https://twitter.com/realcaixia/status/1490427332666007555
 layout: post
 tags:
@@ -41,5 +41,9 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/scoltjim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/scoltjim/status/1490774364412776449</a>
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
+
+普金一天闪电式访问中国，从习当局那里拿到了未来可见的相当丰厚的利益，引起大陆精英议论纷纷，普遍的对习当局做法很不满。<br><br>杨佩昌: 乌克兰问题让普京骑虎难下，在抓耳挠腮之际，跑来东方一趟，居然取得了意想不到的收获：不费一枪一弹，签了一系列不平等条约，俄罗斯又一次完胜而归。<br>看看那个能源协议，这不明摆着是欺负人吗？国际石油价格摆在那里，难道不能参考一下吗？真心话，普京太缺德了，太黑了，太他妈的损了！<br>😭😭<br>
 
