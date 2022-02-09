@@ -367,9 +367,21 @@ If the war doesn't go nuclear, it'll be a long, drawn out battle where the side 
 
 Dollar value doesn’t do reality justice. First everything is cheaper in China, second a lot of “industrial” output in the US is related to mining or petroleum, and most importantly a lot of manufacturing in the US is final assembly of products that were mostly assembled elsewhere. When you look at *tonnage* of goods produced the disparity is jarring.
 
-### 68: [The global distribution of the 'west'](https://old.reddit.com/r/geopolitics/comments/slpraa/the_global_distribution_of_the_west/), submitted on 2022-02-06 14:18:51+08:00.
+### 68: [Russia in Georgia why?](https://old.reddit.com/r/geopolitics/comments/skevce/russia_in_georgia_why/), submitted on 2022-02-04 22:41:39+08:00.
 
------ __68.1__ -----2022-02-08 04:59:06+08:00:
+----- __68.1__ -----2022-02-09 23:32:59+08:00:
+
+It's a lot of things. First, Russia adopts a strategy of divide and conquer for all its former colonies. It supports minorities in rebellion and uses them as bargaining chips. They "made an example" of Georgia to keep other multi-ethnic post-Soviet states like the Baltics, Ukraine, Kazakhstan, and Uzbekistan in line, though for the first two it's been unsuccessful, and for the last two the local strongmen have outmaneuvered them in the long run. But, the alternative was being outmaneuvered immediately, so what can you do?
+
+Second, there was a crisis in the late 2000s that caused very real public demand for Putin to intervene. We like to think of Russia as a mass of manipulated, oppressed neo-serfs blindly following their leader, but nothing could be further from the truth. It's a relatively responsive autocracy, with many channels of pressure for the people to exert influence over government policy. In 2008, Georgian troops attacked Russian peacekeepers in South Ossetia and there was widespread public demand for intervention. Bear in mind, Putin's only strong opposition (pro-Western reformers are a nonentity in comparison) are the Communists and "Liberal Democrats" (ultranationalists). His frequent nationalist aggression can be explained by the fact that his only political threats are even more nationalistic than United Russia: he all but guarantees his hold on power if he can "stay ahead of them".
+
+Third, Georgia is symbolically important in the US-Russia war. Mikhail Saakashvili when he was in power was an actually very effective economic and anti-corruption reformer, and was seeking NATO membership. Russia had to put an end to this. Moscow has framed itself as the champion of the "old way": post-Soviet oligarchs joining together in a diplomatic community to maintain their privilege and patronage networks. The last Georgian War had the objective of discrediting Saakashvili, and was followed by an FSB-assisted takeover of the old Georgian oligarchs, led by Bidzina Ivanishvili. This relatively Russophile government is still in power today.
+
+Finally, Georgia is a key front in Russia's rivalry with Turkey. Moscow and Ankara have been frenemies for at least two centuries, with a long history of alternating between the extremes of alliance and open military conflict. Turkey's allies in the former Soviet Union are the Turkic states of Kazakhstan, Kyrgyzstan, Uzbekistan, and Azerbaijan, all of which are separated from Turkey by Armenia and Georgia. Georgia historically aligned with this bloc, at one point proposing to build a canal from the Black Sea to the Caspian: such a canal would connect the Turkic world and make it one. Both the Georgian War and the recent Azeri-Armenian War were part of the Russian-Turkish competition: Russia is always trying to sever the Turkey-Azerbaijan connection, and Turkey is always trying to outflank their barrier. They recently did this in the Nagorno Karabakh War, where a key peace term was the right for Azerbaijan to have a land corridor over Armenian territory, but even this pales in comparison with the logistical capability of a full-blown Georgia canal.
+
+### 69: [The global distribution of the 'west'](https://old.reddit.com/r/geopolitics/comments/slpraa/the_global_distribution_of_the_west/), submitted on 2022-02-06 14:18:51+08:00.
+
+----- __69.1__ -----2022-02-08 04:59:06+08:00:
 
 This is an extremely complex and multi-layered concept that the posts so far don't do justice to. You have a range of hypotheses like the West is about race, wealth, or political system, but all of them fall short. It's not about wealth, because Japan and South Korea, no matter what anyone in this thread tries to claim, are never called Western by normal people. It's not about political system because a lot of liberal democracies are not Western. And it's not racial because Russians are not considered Western, while Cypriots and Israelis (looking far more like Middle Easterners than Europeans) are. Nor is it even about the intersection of the three: very few people call Poland a Western country despite being relatively well developed, white majority, and liberal. 
 
@@ -397,7 +409,7 @@ What occurred was a top-down reorganization of Eastern European society. Medieva
 
 Aside from consolidating Eastern European feudalism at a time when Western Europeans were abandoning it, steppe conquest also changed the culture of the East. Territories frequently conquered by the nomads like Eastern Europe, Iran, Afghanistan and Northern China adopted their customs and mannerisms. This ranged from cosmetic changes like the popularity of wrestling, to fundamental mindset shifts like the normalization of violence as a way to regulate relationships between individuals. The result was a cultural divide between "civilized" Western Europe and "crude, despotic" Eastern Europe.
 
------ __68.2__ -----2022-02-08 04:59:13+08:00:
+----- __69.2__ -----2022-02-08 04:59:13+08:00:
 
 **From Religion to Enlightenment**
 

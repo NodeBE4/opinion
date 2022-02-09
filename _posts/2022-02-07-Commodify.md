@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-02-07
+date: 2022-02-08
 from: https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/
 layout: post
 tags:
@@ -13,9 +13,9 @@ title: Commodify在2022-02-07~2022-02-13的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 69: [Was the British Strategy in WW1 to commit a massive army to the Western Front a failure?](https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/), submitted on 2022-02-07 09:44:33+08:00.
+### 70: [Was the British Strategy in WW1 to commit a massive army to the Western Front a failure?](https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/), submitted on 2022-02-07 09:44:33+08:00.
 
------ __69.1__ -----2022-02-07 23:26:23+08:00:
+----- __70.1__ -----2022-02-07 23:26:23+08:00:
 
 No. Britain paid a relatively small price for a very important goal: the destruction of the Kriegsmarine and the unification of the other four naval powers behind the UK. They prolonged the life of the British Empire by at least a decade, and could have prolonged it by more if they had better navigated relations with their postwar allies.
 
@@ -34,4 +34,26 @@ Over the next decade, Britain fell on several strokes of good luck that reversed
 Imagine you're a senior policymaker in London in 1914. You've spent ten years crossing an ocean of bad blood and have finally seen land: a world arrayed against Britain in 1902 is now mostly united against your main rival. What is your recommendation to the Prime Minister? Send in a huge land army and sacrifice possibly hundreds of thousands of British lives, or *once again* screw over your allies and watch Europe burn for your own pocketbook? No one who lived through the insecurity of the seven-fleet period would have made the second choice. Britain's "traditional strategy" be damned: that strategy nearly led to it being on the *receiving end* of the nightmare Germany was now facing. The establishment by 1914 understood that, to be safe in a multi-polar naval environment, Britain had to be a team player.
 
 Many historians have argued that the British Empire's bankruptcy in WW2 and subsequent dismemberment can be traced back to its interventionist policy in 1902-1914, but that's an extremely backwards view. What undermined Britain in World War 2 was having to divide its naval resources across three oceans. Losing the Eastern colonies was inevitable since Britain had to hold the Mediterranean against Italy, combat the U-Boats, and stop a German crossing of the channel. The formation of this anti-British coalition was completely avoidable, and was *caused* by Britain's postwar aloofness. By 1921, British policymakers found the Japanese-American relationship too complex to navigate and decided to "simplify" their Pacific policy by siding with America on all questions. They also found Italy's Ethiopian policy distasteful, and similarly suspended cooperation with Mussolini: *Il Duce* had joined Britain and France in the anti-German Stresa Front before this "betrayal". Put simply, Britain's salvation in World War 1 was its skill in playing world politics. Its nightmare in World War 2 was its failure to do the same.
+
+### 71: [The PLA and its logistics operations for Tonga aid](https://old.reddit.com/r/CredibleDefense/comments/sn1avz/the_pla_and_its_logistics_operations_for_tonga_aid/), submitted on 2022-02-08 05:20:43+08:00.
+
+----- __71.1__ -----2022-02-09 23:07:41+08:00:
+
+It doesn't. Here's a secret: there's no such thing as power projection as most people conceive of it. Any country in good standing can charter huge volumes of civilian jets and freight ships to take their forces anywhere. In major powers, these resources are always in great enough quantities to ship the entire army if that's what the country wanted. Case in point, after 1991 the US got rid of the vast majority of its supply ships and a fair share of its transport aircraft. It still managed to deploy at one point six digits worth of soldiers to the Middle East by using the services of third party contractors who largely repurposed civilian assets. Was it efficient? Absolutely not. But the US was able to "power project" despite having only a handful of supply ships at one point nevertheless.
+
+Some people have pointed out China has Y-20s now. It's a great improvement, but doesn't represent any significant shift in the country's logistical capability at all. Any Chinese deployment to say, Africa, would be overwhelmingly managed by contractors, the maritime militia, and other "semi-military" arms. Even today not nearly enough military planes and dedicated transport ships exist to support any huge deployment outside the Second Island Chain.
+
+Finally, while "absolute" power projection doesn't exist, comparative power projection does. What really matters in seaborne and airborne logistics is whether you can *protect* the ships and planes you're sending. An unopposed supply shipment doesn't demonstrate this in the slightest - the Netherlands could pull that off.
+
+### 72: [Documents detail U.S. military’s frustration with White House, diplomats over Afghanistan evacuation](https://old.reddit.com/r/CredibleDefense/comments/sni30r/documents_detail_us_militarys_frustration_with/), submitted on 2022-02-08 19:33:07+08:00.
+
+----- __72.1__ -----2022-02-09 23:18:59+08:00:
+
+There was a big shift in the 90s. I know three senior state department officials from the Cold War era: one was the head of USAID, another was a major country ambassador in Europe, and the last one was heading up the former Yugoslavia working group for most of the war there. All were extremely shrewd and competent people who were deeply involved in the politics of their host countries. u/Veqq mentioned French embassies, unlike American ones, will host social functions for local elites. Well, the USAID head, when he was ambassador to multiple African countries, was doing just that (he always got excellent attendance since his wife was a famous chef). As late as 2000, State was taking the lead on masterstrokes of political interference like the US operation to depose Slobodan Milosevic. The head of the Yugoslavia group and his staff convinced some lobbyists and political strategists in Washington to fly over, snuck them into the country and modernized the ground game of the opposition parties.
+
+Things like this never happen today because of a little known event in 1994: the Aldritch Ames Incident. A long-time, senior intelligence official was discovered to have been spying for Moscow for decades. The CIA subsequently imposed a draconian security clearance policy that excluded anyone who could possibly know anything about the countries it was waging covert operations against from their new recruit classes, and gradually started purging "unreliable" experts and even operatives.
+
+Throughout the 90s and especially after 2001, the CIA also exerted greater influence over the other arms of intelligence and diplomacy. The AA incident drove the White House and Congress to demand the CIA "work with" other bodies like State and the NSA, but it ended up being the CIA "working over" them. There was never an equality of information between the three, with the CIA always knowing the most and influencing tri-agency strategy by selective truth telling. "Cooperation" also gradually imposed the CIA's new security culture on the other two bodies. Security clearance fanaticism clearly hit state years later than the CIA, as evidenced by the fact that State was still somewhat competent in 2000. But, by the creation of the Iraqi "Green Zone", it was clear State had declined into the same "walled castle" mentality of the CIA.
+
+The State Department's problem today is the same as the problem of all US intelligence agencies. It's so obsessed with betrayal that it can't engineer betrayal in the ranks of the enemy. Intelligence and diplomacy are both "contact" sports, and the amount of contact with locals deemed permissible for a state department official today is far lower than even 20 years ago.
 
