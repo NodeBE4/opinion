@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-09
+date: 2022-02-10
 from: https://twitter.com/kinamediase/status/1490382495275044870
 layout: post
 tags:
@@ -62,4 +62,16 @@ RT Bill Bishop<br>CCDI website scores an exclusive interview with Eileen Gu �
 ### 12: [2022-02-09 13:33:50+08:00 推文](https://twitter.com/cnmediaproject/status/1491284184081797120)
 
 As we head into another year of Xi's "common prosperity" approach, familiarize yourself with the phrase's up-and-down history. It was first about collectivism (Mao), then about "getting rich first" (Deng). And now . . . <a href="https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/</a><br><img style="" src="https://pbs.twimg.com/media/FLIa-BfagAAZK5-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-02-10 09:51:44+08:00 推文](https://twitter.com/cnmediaproject/status/1491590676643221504)
+
+An Olympic Legacy of Media Control: China repeatedly criticizes the "politicization of sports" when it comes to criticism on human rights and other grounds. But politicization gains the day when it comes telling a one-sided "China story." <a href="https://chinamediaproject.org/2022/02/04/an-olympic-legacy-of-media-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/04/an-olympic-legacy-of-media-control/</a><br><img style="" src="https://pbs.twimg.com/media/FLMxzGsaMAEKHZP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-02-10 09:53:56+08:00 推文](https://twitter.com/cnmediaproject/status/1491591231964848128)
+
+Re At an event held last month, state media journalists and Chinese communications experts gathered in Beijing to discuss “how to USE sports events to tell China's story well." <a href="https://mp.weixin.qq.com/s/mBfN8dPGtD6RxbGrewRijA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/mBfN8dPGtD6RxbGrewRijA</a><br><img style="" src="https://pbs.twimg.com/media/FLMyQGIaMAE2oOo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-02-10 09:59:13+08:00 推文](https://twitter.com/cnmediaproject/status/1491592560959451136)
+
+Re Cheng Manli (程曼丽), head of the National Institute of Strategic Communication (NISC), said that "management departments and media must follow [comments] closely" both inside and outside China, "avoiding the emergence of public opinion crises."<br><img style="" src="https://pbs.twimg.com/media/FLMzhbnacAQ8RhM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

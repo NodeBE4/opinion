@@ -171,3 +171,23 @@ Don't do this again. It clearly violates the rules and there are better uses of 
 
 You mean like who is getting grant money and from where?  And to whom the source of that grant money must be disclosed?
 
+----- __81.3__ -----2022-02-10 11:43:19+08:00:
+
+Arguing against the substance of a perspective you disagree with is something you've always been permitted to do.  But it turns out that attacks the character, motive or other attribute of a person making an argument (or the group of people you perceive to be making any argument) violate rule 1.  Particularly when the extent of what you've stated is nothing more than an ill-founded stereotype an entire group of people with whom you disagree, solely on the basis of your subjective disagreement with them.  
+
+This applies to everyone here.  Doesn't matter what side you're on or how righteous you think your opinion is.
+
+----- __81.4__ -----2022-02-10 12:12:06+08:00:
+
+> Vague ominous statements. What metric can you point to showing the mask mandate has literally done anything to make Illinois better off? Because it seems like we did just about as well as everywhere else.
+
+You don't have to have vage.  In fact, you can be very precise and lie by manipulation, omission and/or concealment. For example, perhaps you tailor your dataset, to exhibit the most significant effect (e.g., stealthily exclude outliers that make the results look like the opposite of what you set out to find in the first place, limit your sample size, limit the region or otherwise select favorable external conditions you omit from your analysis but which exert identifiable, yet concealed contributing causation like timing, geography, population density, lack of public transit use, age demographics, etc.).  Or maybe you tweak your methods to make sure you're not finding anything other than what you want to.  Or however else you can be creatively deceptive.  For a case study in how this is accomplished, see Neil Ferguson's analysis of the relative effects of non-pharmaceutical interventions during the spanish flu in the United States.  
+
+You've got to be careful and cover your tracks with more obscurity and disclaimers.  You should include "disclaimers" about the limits of your study, identifying potentially influencing factors, noting their unknown and unaccounted for significance.  You might even have the unmitigated audacity to identify them as areas in need of "further research."  At the end of the day, if you do your job well, you'll have models that clearly show reduced community spread where masks/vaccines are mandated and increased community spread where neither are mandated.  You might even be able to creatively compare the relative differences of one in the presence or absence of the other.  
+
+The limit is really a function of how creatively deceptive you're capable of being and your willingness to take the risk of being caught.  I'm not saying I recommend these things.  But when the standard of what counts as "science" is no more than some shitty preptint hashed together with shitty methods from frankenstein type data sets and there's grant money to be had for finding evidence of certain things, maybe you try your hand at this sort of witchcraft.
+
+----- __81.5__ -----2022-02-10 12:24:04+08:00:
+
+Legitimate questions may be raised as to whether the individuals quoted in that article have any relevant education, training or anything whatsoever that would qualify them to interpret any data.  And for the one who arguably might have such credentials, questions arise relating to conflicts of interest between that individual and the market stakeholders who accrue benefits from that person's research (e.g., expanding the market for unnecessary and potentially harmful, branded pharmaceuticals based on specious claims of underserved need).
+
