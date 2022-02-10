@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-09
+date: 2022-02-10
 from: https://old.reddit.com/r/geopolitics/comments/smsc6r/how_to_break_the_cycle_of_conflict_with_russia/
 layout: post
 tags:
@@ -46,4 +46,10 @@ Burundian President Ndayishimiye took office pledging to deliver “peace and ju
 “Although many autocrats and aspiring autocrats no doubt believe the sexist and misogynistic things they say, their campaigns to restrict women’s empowerment and human rights also seek to undermine potential democratic movements that would oust them.”
 
 In recent years, authoritarian leaders have launched a simultaneous assault on women’s rights and democracy that could roll back decades of progress on both fronts. Read why so many autocrats seem to fear women.
+
+### 119: [Why the Ukraine Crisis Is the West’s Fault: The Liberal Delusions That Provoked Putin](https://old.reddit.com/r/UkrainianConflict/comments/sp98fz/why_the_ukraine_crisis_is_the_wests_fault_the/), submitted on 2022-02-10 23:32:00+08:00.
+
+----- __119.1__ -----2022-02-10 23:32:11+08:00:
+
+From the archive: In 2014, John Mearsheimer argued that the United States and its European allies shared much of the responsibility for the crisis in Ukraine.
 
