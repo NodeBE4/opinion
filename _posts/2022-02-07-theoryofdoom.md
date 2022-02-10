@@ -149,3 +149,19 @@ Hi.  Was this your first time posting here?
 
 Editorialized title.
 
+### 80: [Gov. J.B. Pritzker set to unveil exit plan for mask mandate](https://old.reddit.com/r/CoronavirusIllinois/comments/snzvwt/gov_jb_pritzker_set_to_unveil_exit_plan_for_mask/), submitted on 2022-02-09 08:43:53+08:00.
+
+----- __80.1__ -----2022-02-10 10:02:12+08:00:
+
+> Ive come to the conclusion that all democrats are pieces of . . . 
+
+Don't do this again.  It clearly violates the rules and there are better uses of moderator time than to address this nonsense.  First and only warning.
+
+### 81: [Northwestern Experts Say Lifting Mask Mandates ‘Is Clearly Not a Decision Based on Data'](https://old.reddit.com/r/CoronavirusIllinois/comments/so1t9b/northwestern_experts_say_lifting_mask_mandates_is/), submitted on 2022-02-09 10:13:38+08:00.
+
+----- __81.1__ -----2022-02-10 10:06:28+08:00:
+
+> It's been overrun by idiots & plague rats in the last week.
+
+Don't do this again. It clearly violates the rules and there are better uses of moderator time than to address this nonsense. First and only warning.
+
