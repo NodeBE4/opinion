@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-02-09
+date: 2022-02-10
 from: https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/
 layout: post
 tags:
@@ -68,4 +68,10 @@ When, then, did private individuals lose the ability to challenge states? They n
 ----- __73.2__ -----2022-02-10 04:18:15+08:00:
 
 They also "made themselves the state". That kind of thing still happens today, with probably the best examples being Libya and ISIL where largely foreign forces established themselves as a local government.
+
+### 74: [Best Single-Volume Current Work on the American Civil War](https://old.reddit.com/r/WarCollege/comments/sotiyk/best_singlevolume_current_work_on_the_american/), submitted on 2022-02-10 09:18:04+08:00.
+
+----- __74.1__ -----2022-02-10 21:20:43+08:00:
+
+You’re basically looking at 3 books. There’s John Keenan’s book which is a military history but prone to hyperbole and not held in enormously high regard, McPherson’s Battle Cry of Freedom, and Hsieh & Murray’s A Savage War. The third is by far the best. Battle Cry of Freedom is a classic but isn’t exactly a military history.
 
