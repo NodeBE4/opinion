@@ -75,3 +75,15 @@ Re At an event held last month, state media journalists and Chinese communicatio
 
 Re Cheng Manli (程曼丽), head of the National Institute of Strategic Communication (NISC), said that "management departments and media must follow [comments] closely" both inside and outside China, "avoiding the emergence of public opinion crises."<br><img style="" src="https://pbs.twimg.com/media/FLMzhbnacAQ8RhM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 16: [2022-02-10 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1491593008302759940)
+
+RT Jonathan Cheng<br>For her first post-gold medal interview, Eileen Gu will now turn to…the newspaper of China's anti-graft agency, the Central Commission for Disciplinary Inspection. <a href="https://bloom.bg/3JiToqn" target="_blank" rel="noopener noreferrer">https://bloom.bg/3JiToqn</a>
+
+### 17: [2022-02-10 17:04:09+08:00 推文](https://twitter.com/AlexDukalskis/status/1491699500330717184)
+
+RT Alex Dukalskis<br>Shared some thoughts w/ @StephenWadeAP for his @AP article on grand displays of state power &amp; the Beijing Olympics<br><br>Cool to be quoted alongside luminaries like @SheenaGreitens @MariaRepnikova &amp; @dianafutweets <a href="https://apnews.com/article/winter-olympics-china-goes-big-16d4738fa306dbe9984a7eabd5141a3c" target="_blank" rel="noopener noreferrer">https://apnews.com/article/winter-olympics-china-goes-big-16d4738fa306dbe9984a7eabd5141a3c</a>
+
+### 18: [2022-02-10 17:12:09+08:00 推文](https://twitter.com/MIC_Journal/status/1491701513592651778)
+
+RT Made in China Journal<br>Anticipating the controversies of these days, last year's Olympic gold victory by a Canadian swimmer sparked heated discussions in China. In this essay, @Yawen0903 examines what those online discourses tell us about gendered kinship ties in China today. <a href="https://madeinchinajournal.com/2022/02/09/the-melancholy-of-kinship-in-post-one-child-china/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2022/02/09/the-melancholy-of-kinship-in-post-one-child-china/</a>
+
