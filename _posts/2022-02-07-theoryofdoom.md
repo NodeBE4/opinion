@@ -165,3 +165,9 @@ Don't do this again.  It clearly violates the rules and there are better uses of
 
 Don't do this again. It clearly violates the rules and there are better uses of moderator time than to address this nonsense. First and only warning.
 
+----- __81.2__ -----2022-02-10 11:34:51+08:00:
+
+> There have been many things they have not been able to keep track of over the last five years besides cases.
+
+You mean like who is getting grant money and from where?  And to whom the source of that grant money must be disclosed?
+
