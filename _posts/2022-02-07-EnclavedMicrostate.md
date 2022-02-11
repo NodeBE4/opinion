@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-08
+date: 2022-02-11
 from: https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/
 layout: post
 tags:
@@ -108,4 +108,28 @@ This does tie a little into a related phenomenon, the 'Nomadic Military Advantag
 At the same time, we ought to acknowledge that othering discourses have played their own role in creating the reputation for nomadic brutality. Now obviously, Han literati trying to portray steppe nomads as barbaric 'Others' doesn't mean that raiding and warfare, with all their attendant atrocities of varying scope, didn't actually happen. But it is to say that writers in 'civilised' sedentary societies constructed a notion of 'savagery' on the part of steppe nomads that exaggerated and played up the notion of nomads as inherently brutal, something that would, by the nineteenth century, take on overtly racial dimensions.
 
 So there was an extent to which steppe nomads *were* more aggressive and more destructive against sedentary societies than other sedentary societies were, but it's an extent that was greatly exaggerated by sedentary authors trying to construct idealised opposites of 'civilisation' and 'barbarism'.
+
+### 125: [How did the Qing defeat the Mongols and consolidate control over Inner and Outer Mongolia?](https://old.reddit.com/r/WarCollege/comments/spdhsl/how_did_the_qing_defeat_the_mongols_and/), submitted on 2022-02-11 02:36:17+08:00.
+
+----- __125.1__ -----2022-02-11 14:16:41+08:00:
+
+I ended up writing quite a long r/AskHistorians post on it [here](https://www.reddit.com/r/AskHistorians/comments/h108o3/how_did_the_qing_manage_to_subjugate_the_mongols/), based mainly on Peter Perdue's *China Marches West*. To summarise its main takeaways:
+
+> Inner Eurasia in the late 17th-early 18th centuries was undergoing a period of immense transformation. The surrounding sedentary belt had become much more resilient to attacks from Inner Eurasia and, in the case of hybrid states like Russia, the Qing and Afsharid Iran, it was now the nomads under threat from those around them. The most damning aspect was probably the breakdown in the importance of Chinggisid legitimacy, both in the face of the emergence of the Latter Jin/Qing in Manchuria as a growing hybrid state in the east, and the growing power of the Gelug sect in the west, thanks to the crusade-like agenda pursued by Gelug adherents like the Zunghar princes. In this environment, there was ample opportunity for an adjacent hybrid state to step in and attempt to consolidate control over the region: something attempted by the Zunghars, the Qing and to a lesser extent the Russians.
+
+> But the Qing were more successful in this than the Zunghars for a few basic reasons, mainly related to their diplomatic acumen and partly to do with flaws in the Zunghars' 'state' structure. Firstly, the Qing usually entered a situation in support of a displaced ally, which meant both more manpower and, crucially, people who would be willing to run the newly-secured regions on the Qing's behalf. Secondly, the Qing could always fall back on a loyal core of Manchu and Han Chinese subjects, while the Zunghars struggled to keep even the core of their tribe in one piece. Thirdly, the Qing were able to mobilise their resources to secure the allegiance or neutrality of the Zunghars' neighbours like the Russians, Kazakhs and Khoshuts, further tightening the noose.
+
+> Despite the Qing's foreign origin, as in China they did manage to project a sense of legitimacy among the Mongols, both through genuine cultivation of good relations through the patronage of religious institutions and more pragmatic, subtle manipulations. More importantly, though, the Qing were driven to extend control over Mongolia in order to maintain peace in the region, aware of the risks inherent in allowing a contest of strength that would culminate in the survival and hegemony of the fittest tribe. This in turn was helped by a growing war-weariness among the Mongols, who saw not only the invasion of the Zunghars and their Gelug proselytisation, but also the ongoing internecine conflicts across the Mongol world, as pointlessly destructive, and therefore welcomed the stability offered by Manchu hegemony.
+
+But I'd recommend reading the full answer, or better yet Perdue's book, for full detail.
+
+----- __125.2__ -----2022-02-11 14:19:18+08:00:
+
+> the northern steppe threat existed in various forms all the way till 1991 (Russia and Soviet Union could be considered just a different form)
+
+How so? Russia and the USSR were unitary, sedentary polities, not nomadic societies.
+
+> Manchu was fundamentally a part of steppe nomads and after they incorporated Mongol tribes they defeated
+
+To echo /u/XXX_KimJongUn_XXX, that's untrue. The Jurchens->Manchus were very much sedentarised by the time of the unification of the tribes by Nurgaci and Hung Taiji. While there were some Mongol and Khorchin tribes in Manchuria itself incorporated into the Banners, the vast majority of Mongols under Qing rule were organised into a separate system of tribal 'banners' and not incorporated directly into the Manchu-led system.
 
