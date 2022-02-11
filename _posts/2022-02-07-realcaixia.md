@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/scoltjim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/scoltjim/status/1490774364412776449</a>
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -62,4 +62,8 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 ### 12: [2022-02-11 03:00:47+08:00 推文](https://twitter.com/realcaixia/status/1491849647140311048)
 
 说得好！<br><br>韩连潮: 【党国欠她们不止一个处理】 #江苏徐州性奴案 暴露了党国的种种邪恶，政府从合谋作恶、百般抵赖、封锁信息、打压关注人士到处理，每一步都是政治算计，根本不把人当人待；党国的网格化管理、雪亮工程等高科技监控难道就搞不清被拐卖的妇女所在吗？必须追究政府的责任，从性奴的正名开始。<br><br><img style="" src="https://pbs.twimg.com/media/FLPhqgQXwAAA9xs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-02-11 08:29:37+08:00 推文](https://twitter.com/realcaixia/status/1491932401152540702)
+
+议报编辑部：微信–中国政府审查言论和信息的长臂 - 议报 <a href="https://yibaochina.com/?p=244736" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244736</a>
 

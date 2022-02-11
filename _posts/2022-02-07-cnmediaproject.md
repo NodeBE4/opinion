@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-10
+date: 2022-02-11
 from: https://twitter.com/kinamediase/status/1490382495275044870
 layout: post
 tags:
@@ -86,4 +86,8 @@ RT Alex Dukalskis<br>Shared some thoughts w/ @StephenWadeAP for his @AP articl
 ### 18: [2022-02-10 17:12:09+08:00 推文](https://twitter.com/MIC_Journal/status/1491701513592651778)
 
 RT Made in China Journal<br>Anticipating the controversies of these days, last year's Olympic gold victory by a Canadian swimmer sparked heated discussions in China. In this essay, @Yawen0903 examines what those online discourses tell us about gendered kinship ties in China today. <a href="https://madeinchinajournal.com/2022/02/09/the-melancholy-of-kinship-in-post-one-child-china/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2022/02/09/the-melancholy-of-kinship-in-post-one-child-china/</a>
+
+### 19: [2022-02-11 03:44:33+08:00 推文](https://twitter.com/mattinglee/status/1491860658526179346)
+
+RT Dan Mattingly<br>Does "soft" propaganda -- like TV soap operas and viral social media videos -- persuade audiences? In a forthcoming article, Elaine Yao and I show how in China, TV war serials and other soft propaganda manipulate emotions and fuel nationalism. <a href="https://journals.sagepub.com/doi/full/10.1177/00104140211047403" target="_blank" rel="noopener noreferrer">https://journals.sagepub.com/doi/full/10.1177/00104140211047403</a>
 

@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-09
+date: 2022-02-11
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/
 layout: post
 tags:
@@ -190,4 +190,36 @@ The limit is really a function of how creatively deceptive you're capable of bei
 ----- __81.5__ -----2022-02-10 12:24:04+08:00:
 
 Legitimate questions may be raised as to whether the individuals quoted in that article have any relevant education, training or anything whatsoever that would qualify them to interpret any data.  And for the one who arguably might have such credentials, questions arise relating to conflicts of interest between that individual and the market stakeholders who accrue benefits from that person's research (e.g., expanding the market for unnecessary and potentially harmful, branded pharmaceuticals based on specious claims of underserved need).
+
+### 82: [Chicago to End Indoor COVID Vaccine, Mask Mandates Later This Month](https://old.reddit.com/r/CoronavirusIllinois/comments/spkr1y/chicago_to_end_indoor_covid_vaccine_mask_mandates/), submitted on 2022-02-11 08:08:47+08:00.
+
+----- __82.1__ -----2022-02-11 08:40:40+08:00:
+
+According to the local NBC affiliate, Chicago will end its indoor mask mandates *and the vaccine mandate* where it is determined that "metrics allow."  
+
+Conditions under which "metrics" will "allow" were predictably unspecified by Allison Arwady, the commissioner of the Chicago Department of Public Health.  As if to concede their absurdity, Arwady did not even purport to offer an actual threshold/specific data point indicating when it would be sufficiently "safe" to drop the mask and vaccine mandates.  
+
+> If we continue to see drops (in COVID metrics) like we’ve been dropping, it would not be that long from now, I would think . . . . 
+
+Arwady's observations' ambiguity indicates the extent to which both the decision to impose a mask mandate or a vaccine mandate and to remove each were not based on public health factors.  But rather, they were inherently political from imposition to removal.  Folks who believe mask mandates worked will be disappointed to [learn there is no evidence whatsoever to support their efficacy to reduce community transmission](https://www.datawrapper.de/_/zAGiG/).  
+
+The same applies to vaccine mandates, which may fall into the category of the most singularly egregious political overreaches so far this century, amid the associated policy disasters surrounding COVID.  
+
+Folks who believe other nonpharmaceutical interventions, such as lockdowns, will be similarly disappointed to [learn there is similarly no evidence whatsoever to support their efficacy to reduce community transmission, either](https://sites.krieger.jhu.edu/iae/files/2022/01/A-Literature-Review-and-Meta-Analysis-of-the-Effects-of-Lockdowns-on-COVID-19-Mortality.pdf). 
+ For some astonishing reason, only after their harm has been felt and it has been beyond obvious since the end of Q2 2020 that lockdowns achieved no identifiable improvement in any relevant area for COVID, has Johns Hopkins admitted:
+
+> Such a standard benefit-cost calculation leads to a strong conclusion: 
+ lockdowns should be rejected out of hand as a pandemic policy instrument.
+
+(Johns Hopkins Study at page 43).  In this way, the field of public health itself has failed to achieve the sole purpose for which it theoretically exists.  More catastrophically incompetent decisionmaking has not been seen on this earth since Holodomor.  And its recalcitrant failure to self-correct defies rational comprehension.  
+
+This was a betrayal.  Public officials have a duty to act in the public's best interest and they have consistently failed in all respects since this pandemic's instantiation while having the unmitigated audacity to proclaim that this was "following the science."
+
+I understand it hurts to heart that doing what you were told to do made no difference.  But it wasn't your fault.  Because you could not have been expected to know that which you were never in a position to question.  But there's a lot of us who were that did nothing.
+
+----- __82.2__ -----2022-02-11 09:02:12+08:00:
+
+I just literally do not even care to argue with them.  Entire ecosystems of shitty data have been generated for the purpose of misleading the public.  Non-representative samples are held out as illustrating general trends of the public at large.  Absolute counts of "positive tests" divided by the number of tests administered somehow became something people cared about, when the self-selecting cohort of folks who seek a test in the first instance are anything but representative.  
+
+I could go on and on.  There are so many layers of failure, at so many levels and by so many ostensibly competent people that it makes me want to throw up to even think about it.
 
