@@ -223,3 +223,15 @@ I just literally do not even care to argue with them.  Entire ecosystems of shit
 
 I could go on and on.  There are so many layers of failure, at so many levels and by so many ostensibly competent people that it makes me want to throw up to even think about it.
 
+----- __82.3__ -----2022-02-11 11:34:11+08:00:
+
+> dystopian redneck
+
+Arguing against the substance of a perspective you disagree with is something you've always been permitted to do. But it turns out that attacks the character, motive or other attribute of a person making an argument (or the group of people you perceive to be making any argument) violate rule 1. Particularly when the extent of what you've stated is nothing more than an ill-founded stereotype an entire group of people with whom you disagree, solely on the basis of your subjective disagreement with them.
+
+This applies to everyone here. Doesn't matter what side you're on or how righteous you think your opinion is.
+
+----- __82.4__ -----2022-02-11 11:35:38+08:00:
+
+You cite a press release for a preprint as "conclusive evidence"? Seriously?
+
