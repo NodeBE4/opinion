@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-11
+date: 2022-02-12
 from: https://twitter.com/realcaixia/status/1490427332666007555
 layout: post
 tags:
@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/ScoltJim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/ScoltJim/status/1490774364412776449</a>
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/scoltjim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/scoltjim/status/1490774364412776449</a>
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -66,4 +66,16 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 ### 13: [2022-02-11 08:29:37+08:00 推文](https://twitter.com/realcaixia/status/1491932401152540702)
 
 议报编辑部：微信–中国政府审查言论和信息的长臂 - 议报 <a href="https://yibaochina.com/?p=244736" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244736</a>
+
+### 14: [2022-02-12 00:19:43+08:00 推文](https://twitter.com/realcaixia/status/1492171499914121219)
+
+中共与谷爱凌相互利用谋“双赢”，中共与谷都想“赢两次”。<br>这种公然挑衅侮辱世界、尤其是直接挑战侮辱中美两国民众智商的“双赢”，架不住公共舆论追问谷的真实国籍。<br>追问谷爱凌的国籍真相，有可能牵出国际奥委会内部见不得光的人和事。<br>中共究竟搞了多少类中共党海外军团？追真相，揭露中共海外军团”人！<br><br>韩连潮: 【警惕党国的外籍军团】毛周靠废除双重国籍骗取他国信任而与之建交，习近平靠偷偷恢复双重国籍争霸世界，其战略是通过大撒币搜罗天下人才为之效力，党国冰球队共48名队员，外籍达28人；像谷爱凌这类见钱忘义的外籍军团会越来越多，充斥在体育、科技学术、新闻外宣等领域，是中共大统战和扩张的急先锋。<br><br><img style="" src="https://pbs.twimg.com/media/FLUll7aWUAEL-P4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLUlpSIXMAU4ZPR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-02-12 02:13:59+08:00 推文](https://twitter.com/realcaixia/status/1492200254413983749)
+
+《议报》将努力促进中文世界与英文世界的沟通与交流，挑选一些英文文章翻成中文，以馈中文读者；逐步挑选《议报》发布的文章翻成英文，以让英文读者更多地了解华人世界。<br>这是《议报》最新的翻译文章<br><br>【译丛】冬奥会：运动员因对人权问题发表意见而受到警告 - 议报 <a href="https://yibaochina.com/?p=244709" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244709</a>
+
+### 16: [2022-02-12 02:20:12+08:00 推文](https://twitter.com/realcaixia/status/1492201822039298050)
+
+我们《议报》将努力促进中文世界与英文世界的沟通与交流，我们的起步是从翻译文章开始。<br><br>挑选一些英文文章翻成中文，以馈中文读者；逐步挑选《议报》发布的文章翻成英文，以让英文读者更多地了解华人世界。<br><br>《议报》【译丛】习近平的野心计划正在被揭露和抵制 - 议报 <a href="https://yibaochina.com/?p=244165" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244165</a>
 
