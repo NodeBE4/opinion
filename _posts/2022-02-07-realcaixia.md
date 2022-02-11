@@ -41,7 +41,7 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/scoltjim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/scoltjim/status/1490774364412776449</a>
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
