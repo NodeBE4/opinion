@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-10
+date: 2022-02-11
 from: https://old.reddit.com/r/geopolitics/comments/smsc6r/how_to_break_the_cycle_of_conflict_with_russia/
 layout: post
 tags:
@@ -52,4 +52,12 @@ In recent years, authoritarian leaders have launched a simultaneous assault on w
 ----- __119.1__ -----2022-02-10 23:32:11+08:00:
 
 From the archive: In 2014, John Mearsheimer argued that the United States and its European allies shared much of the responsibility for the crisis in Ukraine.
+
+### 120: [A Rival of America’s Making?: The Debate Over Washington’s China Strategy](https://old.reddit.com/r/geopolitics/comments/spzofk/a_rival_of_americas_making_the_debate_over/), submitted on 2022-02-11 21:40:29+08:00.
+
+----- __120.1__ -----2022-02-11 21:41:32+08:00:
+
+\[SS\]
+
+Did past U.S. policies produce the competition between the United States and China today? Should Washington have done something differently? G. John Ikenberry, Andrew J. Nathan, Susan Thornton, Sun Zhe, and John J. Mearsheimer weigh in. Read their debate here:
 
