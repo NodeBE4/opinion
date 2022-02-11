@@ -235,3 +235,43 @@ This applies to everyone here. Doesn't matter what side you're on or how righteo
 
 You cite a press release for a preprint as "conclusive evidence"? Seriously?
 
+----- __82.5__ -----2022-02-11 12:01:11+08:00:
+
+> They will always want to stir the pot when watching the stew boil bores them and there’s nothing you can do about it.
+
+I can't expect non-experts to be able to recognize the technical errors of another "expert."  A lot of people got this right from the start, but they did so for normative reasons (e.g., a bias against administrative overreach or what libertarians might call "common sense").  But a lot of others were taken in because they relied on the "expertise" of people who held positions of power to do the right thing, were absolutely betrayed and they're none for the wiser.  They aren't even in a position to understand what was done to them or why it was wrong.
+
+An appropriate analogy is drawn from Nassim Nicholas Taleb's "[black swan event](https://www.shortform.com/blog/what-is-a-black-swan-event/)" theory.  Consider the life of a free-range turkey, raised in the wild with other turkeys.  The turkey lives its life in relative comfort each and every day the sun rises.  Some turkeys disappear, but he never has and nor have his turkey friends.  He sees the farmer provide food, which he enjoys, on a routine and regular basis.  The turkey spends his whole life believing the farmer has his best interest at heart.  Until the day the turkey is on the farmer's dinner plate. 
+
+When I see people arguing in support of these mandates, they're the turkeys are arguing the farmer really does have the turkey flock's best interests at heart.  They only know of the farmer what they see and understand and cannot comprehend the greater context in which the farmer operates: Dr. Henry Goose's motto . . . "the weak are meat and the strong do eat."  Cloud atlas is another book folks should read.
+
+> Haven’t seen you here in a minute, theory, and it’s great to have you back (I think?). 
+
+Thank you.
+
+> What do you think of The Smile so far?
+
+The Smile?
+
+----- __82.6__ -----2022-02-11 12:09:22+08:00:
+
+> Bro you literally made your own graph . . . .
+
+Declarative statements amounting to nothing more than your subjective characterization do not even approximate refutation.  
+
+Explain the graph's error, with particularity.  Further, at least try to justify you think it means anything other than what I said it means.  
+
+You will also be disappointed to learn that I didn't make the graph.  A [data nerd at the Chicago Tribune](https://www.chicagotribune.com/coronavirus/ct-illinois-mask-mandate-pritzker-20220208-dxjpzdgcbvhzlhcdcabsn4sx4y-story.html) did.  
+
+Scroll down to the middle of the article.  Click on the link that says "Datawrapper," under the graph that reads "Daily COVID hospitalized, mask mandates."  Then, report [your findings](https://www.datawrapper.de/_/zAGiG/) and maybe we'll have a conversation.
+
+----- __82.7__ -----2022-02-11 12:12:28+08:00:
+
+I do not understand what your point is.  Nor am I inclined to give you the opportunity to explain why you think you should be allowed to violate our rules.  
+
+This is really simple.  Calling someone a "dystopian redneck" is over the line.
+
+----- __82.8__ -----2022-02-11 12:35:53+08:00:
+
+I'll just note that /u/Giardiniera_Jeff deleted his comments of his own volition, after I wrote the above.  They were not removed.
+
