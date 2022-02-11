@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/scoltjim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/scoltjim/status/1490774364412776449</a>
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/ScoltJim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/ScoltJim/status/1490774364412776449</a>
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -78,4 +78,12 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 ### 16: [2022-02-12 02:20:12+08:00 推文](https://twitter.com/realcaixia/status/1492201822039298050)
 
 我们《议报》将努力促进中文世界与英文世界的沟通与交流，我们的起步是从翻译文章开始。<br><br>挑选一些英文文章翻成中文，以馈中文读者；逐步挑选《议报》发布的文章翻成英文，以让英文读者更多地了解华人世界。<br><br>《议报》【译丛】习近平的野心计划正在被揭露和抵制 - 议报 <a href="https://yibaochina.com/?p=244165" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244165</a>
+
+### 17: [2022-02-12 03:05:42+08:00 推文](https://twitter.com/realcaixia/status/1492213269871869952)
+
+曹景行先生走了，哀悼。记得在北京时曾经与曹景行先生合作做过一次节目。那时对于墙里的人来说，凤凰卫视是获取外部世界部分真实情况和外部世界声音的一个宝贵渠道。在北京的凤凰网也是还能够大胆发布不同政治意见的言论平台，尽管凤凰网也受中宣部的限制。现在的凤凰台、凤凰网还有以往的风格吗？<br><br>楊錦麟: 媒体人曹景行去世，享年75岁<br> <a href="https://m.thepaper.cn/newsDetail_forward_16656853" target="_blank" rel="noopener noreferrer">https://m.thepaper.cn/newsDetail_forward_16656853</a>
+
+### 18: [2022-02-12 03:15:56+08:00 推文](https://twitter.com/realcaixia/status/1492215845975646210)
+
+中共场面上要面子：一个里子掉了，还不让芬兰运动员发帖，这下可是又掉了一个里子。<br>中共夺牌要面子：中共运动员赛场脚下加速度、手下使“奇招”，可是比赛监视器亮了中共运动员的里子。<br><br>鲁  难: 解决问题的速度和方法，都令世人瞩目。<br><br><img style="" src="https://pbs.twimg.com/media/FLVCCPOX0AI0pQj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
