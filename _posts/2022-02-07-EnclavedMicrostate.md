@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-11
+date: 2022-02-12
 from: https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/
 layout: post
 tags:
@@ -132,4 +132,10 @@ How so? Russia and the USSR were unitary, sedentary polities, not nomadic societ
 > Manchu was fundamentally a part of steppe nomads and after they incorporated Mongol tribes they defeated
 
 To echo /u/XXX_KimJongUn_XXX, that's untrue. The Jurchens->Manchus were very much sedentarised by the time of the unification of the tribes by Nurgaci and Hung Taiji. While there were some Mongol and Khorchin tribes in Manchuria itself incorporated into the Banners, the vast majority of Mongols under Qing rule were organised into a separate system of tribal 'banners' and not incorporated directly into the Manchu-led system.
+
+### 126: [Hololive summer flare](https://old.reddit.com/r/Hololive/comments/sq6dsp/hololive_summer_flare/), submitted on 2022-02-12 02:41:28+08:00.
+
+----- __126.1__ -----2022-02-12 11:52:34+08:00:
+
+**FLEGS**
 
