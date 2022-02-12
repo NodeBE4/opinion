@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-12
+date: 2022-02-13
 from: https://twitter.com/realcaixia/status/1490427332666007555
 layout: post
 tags:
@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/ScoltJim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/ScoltJim/status/1490774364412776449</a>
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -86,4 +86,12 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 ### 18: [2022-02-12 03:15:56+08:00 推文](https://twitter.com/realcaixia/status/1492215845975646210)
 
 中共场面上要面子：一个里子掉了，还不让芬兰运动员发帖，这下可是又掉了一个里子。<br>中共夺牌要面子：中共运动员赛场脚下加速度、手下使“奇招”，可是比赛监视器亮了中共运动员的里子。<br><br>鲁  难: 解决问题的速度和方法，都令世人瞩目。<br><br><img style="" src="https://pbs.twimg.com/media/FLVCCPOX0AI0pQj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-02-13 00:47:45+08:00 推文](https://twitter.com/realcaixia/status/1492540942427082758)
+
+想两头得利的精致利己主义者，或许到头来两手空空。众目睽睽之下，中共国与国际奥委会将如何圆场？<br><br>希望之声方伟｜Wei Fang: 北京冬奥会组委会网站<br> <a href="http://beijing2020.cn/" target="_blank" rel="noopener noreferrer">http://Beijing2020.cn</a> <a href="http://olympics.com/" target="_blank" rel="noopener noreferrer">http://Olympics.com</a>
+
+### 20: [2022-02-13 00:49:35+08:00 推文](https://twitter.com/realcaixia/status/1492541403121037312)
+
+这是极权政府对李玉母子的双重人权迫害！<br><br>Jane Wang 王剑虹 #FreeZhangZhan #释放张展: 2014.6.10，刚满一岁的宝宝被抢走，#李玉 被押送永安乡派出所受审，关押到看守所<br><br>“奶水淌了好几天，整个人呆呆傻傻的，感到无比失落。睡梦中多少次惊醒，听到孩子哭喊着叫妈妈的声音”<br><br>第一次四年刑满出狱后，李玉仅见过孩子三次。想见孩子得找派出所所长、民政负责人签字，让信访部门的人带去福利院<br><br><img style="" src="https://pbs.twimg.com/media/FLUeN3_XMAklrZn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLUewiqXsAMGosa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
