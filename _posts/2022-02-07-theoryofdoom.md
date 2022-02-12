@@ -281,6 +281,22 @@ I'll just note that /u/Giardiniera_Jeff deleted his comments of his own volition
 
 You are exactly right.  More people need to exercise their common sense under these circumstances, like you have here.
 
+----- __82.10__ -----2022-02-13 01:09:37+08:00:
+
+You have repeatedly engaged in a pattern of misconduct wherein everything you subjectively disagree with you report as "misinformation."  In addition to constituting a waste of moderator time and resources, those reports are made in bad faith.  And spamming the off-modmail inboxes of other moderators is a far cry from conducting yourself in good faith.  It's the Reddit equivalent of a "Karen" demanding to speak to the manager and it is flatly unacceptable. 
+
+It is clear to us you do not understand what "misinformation" is.  In popular usage, people tend to brand any statement with which they disagree as "misinformation"  This is wrong, because whether speech is uttered by someone with a different opinion has no bearing on the issue of whether it constitutes misinformation.  Nor are differences in political opinion valid grounds on which to make such a distinction.  
+
+Realize that the mere use of adjectives to characterize speech you don't like, where you fail to cite even a single fact in support of your view, is low-effort mindless noise.  Instead of rebutting, your approach has simply been to file numerous frivolous reports and complain that speech you don't like is "misinformation."   Your comments in this thread add no substantive value to discussion based on the facts underlying these issues.    
+
+If you had done *anything whatsoever* to address *the substance* of any underlying claim, your comments would not have been removed.  As you seemingly fail to realize, there's a very wide scope of disagreement that's allowed here.  We do not remove comments based on political differences and allow people to debate from a wide range of perspectives because we believe that free and open communication is in the public interest and in the best interests of this subreddit.  
+
+This is your warning.
+
+----- __82.11__ -----2022-02-13 01:23:12+08:00:
+
+That is not misinformation. But your comment is allowed.
+
 ### 83: [No IDPH COVID update for today due to state holiday](https://old.reddit.com/r/CoronavirusIllinois/comments/sq880g/no_idph_covid_update_for_today_due_to_state/), submitted on 2022-02-12 04:03:27+08:00.
 
 ----- __83.1__ -----2022-02-12 09:21:09+08:00:
