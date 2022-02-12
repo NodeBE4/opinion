@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-11
+date: 2022-02-12
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/
 layout: post
 tags:
@@ -274,4 +274,16 @@ This is really simple.  Calling someone a "dystopian redneck" is over the line.
 ----- __82.8__ -----2022-02-11 12:35:53+08:00:
 
 I'll just note that /u/Giardiniera_Jeff deleted his comments of his own volition, after I wrote the above.  They were not removed.
+
+----- __82.9__ -----2022-02-12 08:29:30+08:00:
+
+> It is weird how people have gotten this backwards. The idea seems to be that we need to have proof that masks don't work in order to justify taking them off . . . .
+
+You are exactly right.  More people need to exercise their common sense under these circumstances, like you have here.
+
+### 83: [No IDPH COVID update for today due to state holiday](https://old.reddit.com/r/CoronavirusIllinois/comments/sq880g/no_idph_covid_update_for_today_due_to_state/), submitted on 2022-02-12 04:03:27+08:00.
+
+----- __83.1__ -----2022-02-12 09:21:09+08:00:
+
+I didn't say it out loud, but wondered the same thing.
 
