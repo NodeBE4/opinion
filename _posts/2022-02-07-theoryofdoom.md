@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-12
+date: 2022-02-13
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/smdqvo/illinois_school_mask_mandate_ruling_puts/
 layout: post
 tags:
@@ -302,4 +302,22 @@ That is not misinformation. But your comment is allowed.
 ----- __83.1__ -----2022-02-12 09:21:09+08:00:
 
 I didn't say it out loud, but wondered the same thing.
+
+### 84: [The same firm that got the injunction against the federal test or vax mandate filed a suit against Cook County and Chicago for the vax pass](https://old.reddit.com/r/CoronavirusIllinois/comments/sqbsky/the_same_firm_that_got_the_injunction_against_the/), submitted on 2022-02-12 06:42:20+08:00.
+
+----- __84.1__ -----2022-02-13 05:42:13+08:00:
+
+> I can't figure out local news at all. This and the other recent court ruling effecting school mask mandates. It got no coverage at all until after the ruling.
+
+That's how local news works.  If it fits their parent company's narrative, they report it.  If not, they don't.
+
+----- __84.2__ -----2022-02-13 05:44:35+08:00:
+
+Your opinion is not a basis for saying something is inaccurate.
+
+### 85: [“Extreme Suffering”: 15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died](https://old.reddit.com/r/stupidpol/comments/sr0qfj/extreme_suffering_15_of_23_monkeys_with_elon/), submitted on 2022-02-13 04:42:20+08:00.
+
+----- __85.1__ -----2022-02-13 06:12:54+08:00:
+
+More often than not, people cannot even conceive of the level of torture involved in animal experimentation.  I'm not one of the "storm the farms and free the chickens" kind of guys and I'd hardly defend PETA's positions on many things.  But people need to consider what is going on here.  It's not limited to Musk, either.
 
