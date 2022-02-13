@@ -191,9 +191,17 @@ The limit is really a function of how creatively deceptive you're capable of bei
 
 Legitimate questions may be raised as to whether the individuals quoted in that article have any relevant education, training or anything whatsoever that would qualify them to interpret any data.  And for the one who arguably might have such credentials, questions arise relating to conflicts of interest between that individual and the market stakeholders who accrue benefits from that person's research (e.g., expanding the market for unnecessary and potentially harmful, branded pharmaceuticals based on specious claims of underserved need).
 
-### 82: [Chicago to End Indoor COVID Vaccine, Mask Mandates Later This Month](https://old.reddit.com/r/CoronavirusIllinois/comments/spkr1y/chicago_to_end_indoor_covid_vaccine_mask_mandates/), submitted on 2022-02-11 08:08:47+08:00.
+### 82: [NEW: Chicago will also lift its mask mandate if it continues to see declines in COVID-19 metrics.](https://old.reddit.com/r/CoronavirusIllinois/comments/soo5gd/new_chicago_will_also_lift_its_mask_mandate_if_it/), submitted on 2022-02-10 05:14:34+08:00.
 
------ __82.1__ -----2022-02-11 08:40:40+08:00:
+----- __82.1__ -----2022-02-14 00:40:40+08:00:
+
+> It's going to take them a decade or more to recover from this mess, if it's even possible.
+
+It's not about time, but people.  The cancerous leadership whose incompetence and poor decision making at CDC and other related agencies under HHS needs to be excised.  Particularly NIAID and NIH.
+
+### 83: [Chicago to End Indoor COVID Vaccine, Mask Mandates Later This Month](https://old.reddit.com/r/CoronavirusIllinois/comments/spkr1y/chicago_to_end_indoor_covid_vaccine_mask_mandates/), submitted on 2022-02-11 08:08:47+08:00.
+
+----- __83.1__ -----2022-02-11 08:40:40+08:00:
 
 According to the local NBC affiliate, Chicago will end its indoor mask mandates *and the vaccine mandate* where it is determined that "metrics allow."  
 
@@ -217,13 +225,13 @@ This was a betrayal.  Public officials have a duty to act in the public's best i
 
 I understand it hurts to heart that doing what you were told to do made no difference.  But it wasn't your fault.  Because you could not have been expected to know that which you were never in a position to question.  But there's a lot of us who were that did nothing.
 
------ __82.2__ -----2022-02-11 09:02:12+08:00:
+----- __83.2__ -----2022-02-11 09:02:12+08:00:
 
 I just literally do not even care to argue with them.  Entire ecosystems of shitty data have been generated for the purpose of misleading the public.  Non-representative samples are held out as illustrating general trends of the public at large.  Absolute counts of "positive tests" divided by the number of tests administered somehow became something people cared about, when the self-selecting cohort of folks who seek a test in the first instance are anything but representative.  
 
 I could go on and on.  There are so many layers of failure, at so many levels and by so many ostensibly competent people that it makes me want to throw up to even think about it.
 
------ __82.3__ -----2022-02-11 11:34:11+08:00:
+----- __83.3__ -----2022-02-11 11:34:11+08:00:
 
 > dystopian redneck
 
@@ -231,11 +239,11 @@ Arguing against the substance of a perspective you disagree with is something yo
 
 This applies to everyone here. Doesn't matter what side you're on or how righteous you think your opinion is.
 
------ __82.4__ -----2022-02-11 11:35:38+08:00:
+----- __83.4__ -----2022-02-11 11:35:38+08:00:
 
 You cite a press release for a preprint as "conclusive evidence"? Seriously?
 
------ __82.5__ -----2022-02-11 12:01:11+08:00:
+----- __83.5__ -----2022-02-11 12:01:11+08:00:
 
 > They will always want to stir the pot when watching the stew boil bores them and there’s nothing you can do about it.
 
@@ -253,7 +261,7 @@ Thank you.
 
 The Smile?
 
------ __82.6__ -----2022-02-11 12:09:22+08:00:
+----- __83.6__ -----2022-02-11 12:09:22+08:00:
 
 > Bro you literally made your own graph . . . .
 
@@ -265,23 +273,23 @@ You will also be disappointed to learn that I didn't make the graph.  A [data ne
 
 Scroll down to the middle of the article.  Click on the link that says "Datawrapper," under the graph that reads "Daily COVID hospitalized, mask mandates."  Then, report [your findings](https://www.datawrapper.de/_/zAGiG/) and maybe we'll have a conversation.
 
------ __82.7__ -----2022-02-11 12:12:28+08:00:
+----- __83.7__ -----2022-02-11 12:12:28+08:00:
 
 I do not understand what your point is.  Nor am I inclined to give you the opportunity to explain why you think you should be allowed to violate our rules.  
 
 This is really simple.  Calling someone a "dystopian redneck" is over the line.
 
------ __82.8__ -----2022-02-11 12:35:53+08:00:
+----- __83.8__ -----2022-02-11 12:35:53+08:00:
 
 I'll just note that /u/Giardiniera_Jeff deleted his comments of his own volition, after I wrote the above.  They were not removed.
 
------ __82.9__ -----2022-02-12 08:29:30+08:00:
+----- __83.9__ -----2022-02-12 08:29:30+08:00:
 
 > It is weird how people have gotten this backwards. The idea seems to be that we need to have proof that masks don't work in order to justify taking them off . . . .
 
 You are exactly right.  More people need to exercise their common sense under these circumstances, like you have here.
 
------ __82.10__ -----2022-02-13 01:09:37+08:00:
+----- __83.10__ -----2022-02-13 01:09:37+08:00:
 
 You have repeatedly engaged in a pattern of misconduct wherein everything you subjectively disagree with you report as "misinformation."  In addition to constituting a waste of moderator time and resources, those reports are made in bad faith.  And spamming the off-modmail inboxes of other moderators is a far cry from conducting yourself in good faith.  It's the Reddit equivalent of a "Karen" demanding to speak to the manager and it is flatly unacceptable. 
 
@@ -293,51 +301,69 @@ If you had done *anything whatsoever* to address *the substance* of any underlyi
 
 This is your warning.
 
------ __82.11__ -----2022-02-13 01:23:12+08:00:
+----- __83.11__ -----2022-02-13 01:23:12+08:00:
 
 That is not misinformation. But your comment is allowed.
 
------ __82.12__ -----2022-02-13 15:10:29+08:00:
+----- __83.12__ -----2022-02-13 15:10:29+08:00:
 
 This is beyond the point of absurdity.  You were warned, disregarded it and now you're trying to move the goalpost to justify your prior misconduct.
 
-### 83: [No IDPH COVID update for today due to state holiday](https://old.reddit.com/r/CoronavirusIllinois/comments/sq880g/no_idph_covid_update_for_today_due_to_state/), submitted on 2022-02-12 04:03:27+08:00.
+----- __83.13__ -----2022-02-14 00:30:40+08:00:
 
------ __83.1__ -----2022-02-12 09:21:09+08:00:
+> if masks worked why has Illinois had ebbs and surges throughout the last 23 months when we have been masked for 21 out of those 23 months?
+
+This is a good question to ask.  Yet for some incoherent reason, people seem to be operating from the default assumption that "mask mandates are effective" until proven otherwise --- when there is not now and has never been [evidence to demonstrate that is true](https://www.bloomberg.com/opinion/articles/2022-02-11/did-mask-mandates-work-the-data-is-in-and-the-answer-is-no?utm_campaign=bn&utm_medium=distro&utm_source=MSN).  
+
+There was one study out of Bangladesh, for example, that found a modest reduction in transmissibility.  The sample size was large, which was good, but there were too many other unaccounted-for variables.  Even that same study conceded what the state of the evidence was, at that time:
+
+> The World Health Organization (WHO) declined to recommend mask adoption until June 2020, citing the lack of evidence from community-based randomized-controlled trials as well as concerns that mask-wearing would create a false sense of security.
+
+At least on the surface, the authors of the study in Bangladesh set out to test that theory and their study gained something approximating notoriety.  But [serious problems](https://arxiv.org/abs/2112.01296) limit the extent to which those results may be replicated or reliable conclusions drawn from them.  Likewise, glaring evidentiary deficits to support mandates in particular settings, such as schools [have become harder to ignore](https://www.bbc.com/news/health-59895934).  This is, of course, because [COVID is airborne](https://archive.fo/02NB6) and the emphasis on masks has, as the WHO correctly predicted almost two years ago, given rise to an irrational and false sense of security.
+
+Meanwhile, a swarm of crackpot hack "fact checkers" has emerged as the product of questionable grants from even more questionable foundations to make specious "reports" on the methods or results of anything that questions whatever the particular narrative happens to be.  We have seen some of the most egregious instances of this in the form of the so called "Science Feedback" organization, which is to science what Alex Jones is to news.  Of course, illiterate people cite it just like they cited the "Your Local Epidemiologist" blog because they cannot ascertain the difference between what is and what is not "science."
+
+### 84: [No IDPH COVID update for today due to state holiday](https://old.reddit.com/r/CoronavirusIllinois/comments/sq880g/no_idph_covid_update_for_today_due_to_state/), submitted on 2022-02-12 04:03:27+08:00.
+
+----- __84.1__ -----2022-02-12 09:21:09+08:00:
 
 I didn't say it out loud, but wondered the same thing.
 
-### 84: [The same firm that got the injunction against the federal test or vax mandate filed a suit against Cook County and Chicago for the vax pass](https://old.reddit.com/r/CoronavirusIllinois/comments/sqbsky/the_same_firm_that_got_the_injunction_against_the/), submitted on 2022-02-12 06:42:20+08:00.
+### 85: [The same firm that got the injunction against the federal test or vax mandate filed a suit against Cook County and Chicago for the vax pass](https://old.reddit.com/r/CoronavirusIllinois/comments/sqbsky/the_same_firm_that_got_the_injunction_against_the/), submitted on 2022-02-12 06:42:20+08:00.
 
------ __84.1__ -----2022-02-13 05:42:13+08:00:
+----- __85.1__ -----2022-02-13 05:42:13+08:00:
 
 > I can't figure out local news at all. This and the other recent court ruling effecting school mask mandates. It got no coverage at all until after the ruling.
 
 That's how local news works.  If it fits their parent company's narrative, they report it.  If not, they don't.
 
------ __84.2__ -----2022-02-13 05:44:35+08:00:
+----- __85.2__ -----2022-02-13 05:44:35+08:00:
 
 Your opinion is not a basis for saying something is inaccurate.
 
-### 85: [“Extreme Suffering”: 15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died](https://old.reddit.com/r/stupidpol/comments/sr0qfj/extreme_suffering_15_of_23_monkeys_with_elon/), submitted on 2022-02-13 04:42:20+08:00.
+----- __85.3__ -----2022-02-14 00:38:19+08:00:
 
------ __85.1__ -----2022-02-13 06:12:54+08:00:
+You don't seem to understand the difference between "fact" and "opinion."
+
+### 86: [“Extreme Suffering”: 15 of 23 Monkeys with Elon Musk’s Neuralink Brain Chips Reportedly Died](https://old.reddit.com/r/stupidpol/comments/sr0qfj/extreme_suffering_15_of_23_monkeys_with_elon/), submitted on 2022-02-13 04:42:20+08:00.
+
+----- __86.1__ -----2022-02-13 06:12:54+08:00:
 
 More often than not, people cannot even conceive of the level of torture involved in animal experimentation.  I'm not one of the "storm the farms and free the chickens" kind of guys and I'd hardly defend PETA's positions on many things.  But people need to consider what is going on here.  It's not limited to Musk, either.
 
-### 86: [Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district.](https://old.reddit.com/r/CoronavirusIllinois/comments/sr3m4f/absolutely_despicable_parent_behavior_this_parent/), submitted on 2022-02-13 06:57:19+08:00.
+### 87: [Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district.](https://old.reddit.com/r/CoronavirusIllinois/comments/sr3m4f/absolutely_despicable_parent_behavior_this_parent/), submitted on 2022-02-13 06:57:19+08:00.
 
------ __86.1__ -----2022-02-13 09:58:38+08:00:
+----- __87.1__ -----2022-02-13 09:58:38+08:00:
 
 Not appropriate.  Do not post this kind of thing again.
 
-### 87: [Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods](https://old.reddit.com/r/CoronavirusIllinois/comments/srg6p1/claims_that_a_johns_hopkins_study_showed/), submitted on 2022-02-13 18:56:54+08:00.
+### 88: [Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods](https://old.reddit.com/r/CoronavirusIllinois/comments/srg6p1/claims_that_a_johns_hopkins_study_showed/), submitted on 2022-02-13 18:56:54+08:00.
 
------ __87.1__ -----2022-02-13 23:27:13+08:00:
+----- __88.1__ -----2022-02-13 23:27:13+08:00:
 
 Removed.  Not relevant to Illinois.
 
------ __87.2__ -----2022-02-13 23:33:35+08:00:
+----- __88.2__ -----2022-02-13 23:33:35+08:00:
 
 You are not a member of this community.  Your activity here suggests an intent to engage in community interference, while promulgating nonsensical misstatements of scientific fact.
 
