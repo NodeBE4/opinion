@@ -297,6 +297,10 @@ This is your warning.
 
 That is not misinformation. But your comment is allowed.
 
+----- __82.12__ -----2022-02-13 15:10:29+08:00:
+
+This is beyond the point of absurdity.  You were warned, disregarded it and now you're trying to move the goalpost to justify your prior misconduct.
+
 ### 83: [No IDPH COVID update for today due to state holiday](https://old.reddit.com/r/CoronavirusIllinois/comments/sq880g/no_idph_covid_update_for_today_due_to_state/), submitted on 2022-02-12 04:03:27+08:00.
 
 ----- __83.1__ -----2022-02-12 09:21:09+08:00:

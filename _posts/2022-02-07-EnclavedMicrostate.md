@@ -151,9 +151,15 @@ However, Kevin Richardson 'got taken down' by public pressure, not by Quora. Whi
 
 ----- __128.1__ -----2022-02-13 14:38:43+08:00:
 
-[Stream](https://www.youtube.com/watch?v=rnMyKoE3CAo) is still ongoing as of posting, but on the VOD it'll start around the 5 hour 29 minute mark if I've got my maths right.
+[Stream](https://www.youtube.com/watch?v=rnMyKoE3CAo) ~~is still ongoing as of posting~~ is now over, timestamp of the start of the run is [here](https://youtu.be/rnMyKoE3CAo?t=19662) at 5:27:42.\
+
+[Fauna tweet](https://twitter.com/ceresfauna/status/1492753066671546372)
 
 ----- __128.2__ -----2022-02-13 14:41:42+08:00:
 
 If I've got my facts straight, supas were on during Arceus, but then after supa reading she played Getting Over It and didn't turn then back on.
+
+----- __128.3__ -----2022-02-13 15:13:28+08:00:
+
+It is, but she did a few Getting Over It runs after superchats.
 
