@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-12
+date: 2022-02-13
 from: https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/
 layout: post
 tags:
@@ -146,4 +146,14 @@ However, Kevin Richardson 'got taken down' by public pressure, not by Quora. Whi
 ----- __127.1__ -----2022-02-12 11:52:34+08:00:
 
 **FLEGS**
+
+### 128: [Congrats to Fauna for a sub-10 minute run in Getting Over It!](https://old.reddit.com/r/Hololive/comments/src9ya/congrats_to_fauna_for_a_sub10_minute_run_in/), submitted on 2022-02-13 14:37:59+08:00.
+
+----- __128.1__ -----2022-02-13 14:38:43+08:00:
+
+[Stream](https://www.youtube.com/watch?v=rnMyKoE3CAo) is still ongoing as of posting, but on the VOD it'll start around the 5 hour 29 minute mark if I've got my maths right.
+
+----- __128.2__ -----2022-02-13 14:41:42+08:00:
+
+If I've got my facts straight, supas were on during Arceus, but then after supa reading she played Getting Over It and didn't turn then back on.
 
