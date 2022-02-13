@@ -141,6 +141,10 @@ Yep, it was you! Wasn't sure what policy would be around sharing the specifics o
 
 However, Kevin Richardson 'got taken down' by public pressure, not by Quora. While 'Quora Site Moderation' stopped Kevin from making edits, whatever that means, he nevertheless wiped his profile page and a few dozen answers before deactivating the account, something separate from an account ban issued by Quora themselves. Moreover, Kevin's sockpuppets weren't removed, and this is very important because, [as noted in my second thread](https://twitter.com/EMicrostate/status/1491763172130185216), *Kevin Richardson is not the OG plagiarist account*. That would be Josue Dennis Chance, or more specifically, Josue Dennis Chance Round 1: someone who claimed to be an ophthalmologist in Washington D.C. with expertise in African history and who knew Lingala, and who racked up 2.4m content views before being banned in September 2020. This, of course, was an *entirely separate* person, I'm sure, from the 'Josue Dennis Chance' who joined Quora in October 2020, who had the exact same profile picture, who claimed to *have been* an ophthalmologist who *used to* live in D.C., and who claimed expertise in African history and Lingala. So unless Quora goes ahead and proactively deals with all 15+ sockpuppets tied to Kevin, the whole thing can repeat if they lie low for a bit and then restart the sockpuppet network.
 
+----- __126.2__ -----2022-02-14 04:06:34+08:00:
+
+Hear, hear!
+
 ### 127: [Hololive summer flare](https://old.reddit.com/r/Hololive/comments/sq6dsp/hololive_summer_flare/), submitted on 2022-02-12 02:41:28+08:00.
 
 ----- __127.1__ -----2022-02-12 11:52:34+08:00:
