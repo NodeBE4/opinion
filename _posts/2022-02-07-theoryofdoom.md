@@ -321,3 +321,9 @@ Your opinion is not a basis for saying something is inaccurate.
 
 More often than not, people cannot even conceive of the level of torture involved in animal experimentation.  I'm not one of the "storm the farms and free the chickens" kind of guys and I'd hardly defend PETA's positions on many things.  But people need to consider what is going on here.  It's not limited to Musk, either.
 
+### 86: [Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district.](https://old.reddit.com/r/CoronavirusIllinois/comments/sr3m4f/absolutely_despicable_parent_behavior_this_parent/), submitted on 2022-02-13 06:57:19+08:00.
+
+----- __86.1__ -----2022-02-13 09:58:38+08:00:
+
+Not appropriate.  Do not post this kind of thing again.
+
