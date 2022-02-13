@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/ScoltJim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/ScoltJim/status/1490774364412776449</a>
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -94,4 +94,16 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 ### 20: [2022-02-13 00:49:35+08:00 推文](https://twitter.com/realcaixia/status/1492541403121037312)
 
 这是极权政府对李玉母子的双重人权迫害！<br><br>Jane Wang 王剑虹 #FreeZhangZhan #释放张展: 2014.6.10，刚满一岁的宝宝被抢走，#李玉 被押送永安乡派出所受审，关押到看守所<br><br>“奶水淌了好几天，整个人呆呆傻傻的，感到无比失落。睡梦中多少次惊醒，听到孩子哭喊着叫妈妈的声音”<br><br>第一次四年刑满出狱后，李玉仅见过孩子三次。想见孩子得找派出所所长、民政负责人签字，让信访部门的人带去福利院<br><br><img style="" src="https://pbs.twimg.com/media/FLUeN3_XMAklrZn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLUewiqXsAMGosa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-02-13 01:00:31+08:00 推文](https://twitter.com/realcaixia/status/1492544153892364293)
+
+不忍卒睹，但必须要转推！要让更多的人知道发生在中共国的骇人罪恶。<br><br>极权统治集团迫害政治异见人士、迫害信访民众，他们的监视器极为好用，他们不惜投入巨大的财政资金、巨大的人力物力；但他们对公开发生的暴力犯罪事件却视而不见。他们就是罪犯的同伙，他们就是罪犯。 <a href="https://twitter.com/tangfu1/status/1492349669548118016" target="_blank" rel="noopener noreferrer">https://twitter.com/tangfu1/status/1492349669548118016</a>
+
+### 22: [2022-02-13 03:45:34+08:00 推文](https://twitter.com/realcaixia/status/1492585692995670020)
+
+Re @AnthonyLiewY 非常感谢您。请与我们议报编辑部联系。请看议报网址，那里有议报编辑部联系邮箱地址。欢迎并期待您。🌹
+
+### 23: [2022-02-13 06:30:34+08:00 推文](https://twitter.com/realcaixia/status/1492627215036600327)
+
+极权统治集团用警察做镇压民众的工具，但这些警察自己也该用脑子想想，如果是你的姐妹被拐卖了，被遭受这样的劫难，你会怎么样？不要借口是执行公务就善恶不分，帮着制度继续作恶。所有的警察都该扪心问问自己的良知，良知会告诉你该做什么、不该做什么。<br><br>鲁  难: 丰县铁链女的报告还没有揭示铁链女的年龄，以及为什么四份报告相互矛盾。不过围剿网上舆论早已开始，警察同志威胁网民正不遗余力。<br><br><video src="https://video.twimg.com/ext_tw_video/1492376762667438085/pu/vid/200x480/jsO8I4O50Q0rJF9z.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1492376762667438085/pu/img/cX9R0eNbOOoI5fFq.jpg"></video>
 
