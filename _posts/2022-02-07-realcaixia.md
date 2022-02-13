@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/ScoltJim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/ScoltJim/status/1490774364412776449</a>
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -106,4 +106,12 @@ Re @AnthonyLiewY 非常感谢您。请与我们议报编辑部联系。请看议
 ### 23: [2022-02-13 06:30:34+08:00 推文](https://twitter.com/realcaixia/status/1492627215036600327)
 
 极权统治集团用警察做镇压民众的工具，但这些警察自己也该用脑子想想，如果是你的姐妹被拐卖了，被遭受这样的劫难，你会怎么样？不要借口是执行公务就善恶不分，帮着制度继续作恶。所有的警察都该扪心问问自己的良知，良知会告诉你该做什么、不该做什么。<br><br>鲁  难: 丰县铁链女的报告还没有揭示铁链女的年龄，以及为什么四份报告相互矛盾。不过围剿网上舆论早已开始，警察同志威胁网民正不遗余力。<br><br><video src="https://video.twimg.com/ext_tw_video/1492376762667438085/pu/vid/200x480/jsO8I4O50Q0rJF9z.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1492376762667438085/pu/img/cX9R0eNbOOoI5fFq.jpg"></video>
+
+### 24: [2022-02-13 10:17:22+08:00 推文](https://twitter.com/realcaixia/status/1492684290534035456)
+
+Re @TWlier1981 极权统治集团豢养的所谓舆情分析师在这里千方百计替极权洗地！
+
+### 25: [2022-02-13 12:37:17+08:00 推文](https://twitter.com/realcaixia/status/1492719500675985409)
+
+终于听到“张展现在好了一些”，让人稍稍有点欣慰。期待张展身体状况逐步向好恢复，期待张展出狱的那一天。<br>Petition update · Zhang Zhan is now better 张展现在好了一些 · <a href="http://change.org/" target="_blank" rel="noopener noreferrer">http://Change.org</a> <a href="https://www.change.org/p/china-free-citizen-journalist-zhang-zhan-%E7%AB%8B%E5%8D%B3%E6%97%A0%E6%9D%A1%E4%BB%B6%E9%87%8A%E6%94%BE%E5%85%AC%E6%B0%91%E8%AE%B0%E8%80%85%E5%BC%A0%E5%B1%95/u/30203944?cs_tk=AmZx3ARKlbaaPz5rEWIAAXicyyvNyQEABF8BvB17sTGu1ng-oKrpsHT83wg%3D&amp;utm_campaign=5cdda1ed15e042e888024712a1100149&amp;utm_content=initial_v0_5_0&amp;utm_medium=email&amp;utm_source=petition_update&amp;utm_term=cs" target="_blank" rel="noopener noreferrer">https://www.change.org/p/china-free-citizen-journalist-zhang-zhan-%E7%AB%8B%E5%8D%B3%E6%97%A0%E6%9D%A1%E4%BB%B6%E9%87%8A%E6%94%BE%E5%85%AC%E6%B0%91%E8%AE%B0%E8%80%85%E5%BC%A0%E5%B1%95/u/30203944?cs_tk=AmZx3ARKlbaaPz5rEWIAAXicyyvNyQEABF8BvB17sTGu1ng-oKrpsHT83wg%3D&amp;utm_campaign=5cdda1ed15e042e888024712a1100149&amp;utm_content=initial_v0_5_0&amp;utm_medium=email&amp;utm_source=petition_update&amp;utm_term=cs</a>
 

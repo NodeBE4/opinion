@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-02-10
+date: 2022-02-13
 from: https://twitter.com/SpeechFreedomCN/status/1491291029378834433
 layout: post
 tags:
@@ -30,4 +30,12 @@ Ningxia man Zhang detained for 5 days for "insulting village officials" in a WeC
 ### 4: [2022-02-10 21:19:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1491763730014777344)
 
 Shaanxi man Song, a petitioner, held under criminal detention for posting "false information" on Weibo.<br><img style="" src="https://pbs.twimg.com/media/FLPO9f6XoAQrh0q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-02-13 17:11:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1492788390558900226)
+
+内蒙古四子王旗网民康某，因在微信群发布“不良言论”以及组织网民到呼市上访，被处拘留10日。<br><img style="" src="https://pbs.twimg.com/media/FLdyyLQXoAUUVX8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-02-13 17:13:31+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1492789018622369795)
+
+Inner Mongolian resident Kang detained for 10 days for posting "inappropriate remarks" in a WeChat group chat and organizing a petitioning campaign.<br><img style="" src="https://pbs.twimg.com/media/FLdzKkjWYAMJXbl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
