@@ -331,3 +331,13 @@ More often than not, people cannot even conceive of the level of torture involve
 
 Not appropriate.  Do not post this kind of thing again.
 
+### 87: [Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods](https://old.reddit.com/r/CoronavirusIllinois/comments/srg6p1/claims_that_a_johns_hopkins_study_showed/), submitted on 2022-02-13 18:56:54+08:00.
+
+----- __87.1__ -----2022-02-13 23:27:13+08:00:
+
+Removed.  Not relevant to Illinois.
+
+----- __87.2__ -----2022-02-13 23:33:35+08:00:
+
+You are not a member of this community.  Your activity here suggests an intent to engage in community interference, while promulgating nonsensical misstatements of scientific fact.
+
