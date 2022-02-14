@@ -351,19 +351,27 @@ You don't seem to understand the difference between "fact" and "opinion."
 
 More often than not, people cannot even conceive of the level of torture involved in animal experimentation.  I'm not one of the "storm the farms and free the chickens" kind of guys and I'd hardly defend PETA's positions on many things.  But people need to consider what is going on here.  It's not limited to Musk, either.
 
-### 87: [Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district.](https://old.reddit.com/r/CoronavirusIllinois/comments/sr3m4f/absolutely_despicable_parent_behavior_this_parent/), submitted on 2022-02-13 06:57:19+08:00.
+### 87: [What happens when the working and middle classes are no longer distracted by identity politics and other idiocy](https://old.reddit.com/r/Twopidpol/comments/sr3887/what_happens_when_the_working_and_middle_classes/), submitted on 2022-02-13 06:39:31+08:00.
 
------ __87.1__ -----2022-02-13 09:58:38+08:00:
+----- __87.1__ -----2022-02-14 09:55:45+08:00:
+
+> Who is this woman?
+
+She is the establishment democrat's worst enemy.  She is a reminder that fear is never used by any legitimate government to extort the masses' consent to tyranny at the expense of their liberty, that liberty is not just a word but an idea and that [ideas are bulletproof](https://www.youtube.com/watch?v=ID6__O04DIw).
+
+### 88: [Absolutely despicable parent behavior. This parent created a messed up version of ‘naughty’ and ‘nice’ list and posted it on social media. If you look closely, there are ‘(2)’s around teachers double masking and ‘(95)’s around teachers who are wearing N95/KN95 masks. We are a mask optional district.](https://old.reddit.com/r/CoronavirusIllinois/comments/sr3m4f/absolutely_despicable_parent_behavior_this_parent/), submitted on 2022-02-13 06:57:19+08:00.
+
+----- __88.1__ -----2022-02-13 09:58:38+08:00:
 
 Not appropriate.  Do not post this kind of thing again.
 
-### 88: [Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods](https://old.reddit.com/r/CoronavirusIllinois/comments/srg6p1/claims_that_a_johns_hopkins_study_showed/), submitted on 2022-02-13 18:56:54+08:00.
+### 89: [Claims that a “Johns Hopkins study” showed lockdowns are ineffective at reducing COVID-19 mortality are based on a working paper with questionable methods](https://old.reddit.com/r/CoronavirusIllinois/comments/srg6p1/claims_that_a_johns_hopkins_study_showed/), submitted on 2022-02-13 18:56:54+08:00.
 
------ __88.1__ -----2022-02-13 23:27:13+08:00:
+----- __89.1__ -----2022-02-13 23:27:13+08:00:
 
 Removed.  Not relevant to Illinois.
 
------ __88.2__ -----2022-02-13 23:33:35+08:00:
+----- __89.2__ -----2022-02-13 23:33:35+08:00:
 
 You are not a member of this community.  Your activity here suggests an intent to engage in community interference, while promulgating nonsensical misstatements of scientific fact.
 
