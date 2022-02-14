@@ -2,7 +2,7 @@
 author: Commodify
 categories:
 - Reddit
-date: 2022-02-10
+date: 2022-02-11
 from: https://old.reddit.com/r/WarCollege/comments/smdwke/was_the_british_strategy_in_ww1_to_commit_a/
 layout: post
 tags:
@@ -69,9 +69,35 @@ When, then, did private individuals lose the ability to challenge states? They n
 
 They also "made themselves the state". That kind of thing still happens today, with probably the best examples being Libya and ISIL where largely foreign forces established themselves as a local government.
 
-### 74: [Best Single-Volume Current Work on the American Civil War](https://old.reddit.com/r/WarCollege/comments/sotiyk/best_singlevolume_current_work_on_the_american/), submitted on 2022-02-10 09:18:04+08:00.
+### 74: [What do you people think about China’s Strategic Vision behind the Belt and Road Initiative (BRI), also known as the One Belt One Road (OBOR)?](https://old.reddit.com/r/geopolitics/comments/soio5t/what_do_you_people_think_about_chinas_strategic/), submitted on 2022-02-10 01:15:17+08:00.
 
------ __74.1__ -----2022-02-10 21:20:43+08:00:
+----- __74.1__ -----2022-02-15 03:10:14+08:00:
+
+There is no vision, that's just a marketing piece. "Belt and road" partnerships exist in places like Luxembourg and the Caribbean which are not even close to the Silk Road or any of the maps the Chinese foreign office drew. The real reasons for Belt and Road were as follows:
+
+1. China needs to take Yuan out of its economy and convert them to dollars to depreciate the Yuan and make products cheaper. It used to invest in American bonds to buy American protection. Around 2012-13, they decided they were strong enough to resist an American attack and decided to stop funding their rival's deficits.
+2. China's most efficient sector is construction, but it's traditionally non-exportable. BRI projects are essentially marketing for Chinese construction firms that help them get started in foreign markets and displace less efficient Western and local contractors. Think of it as a "free trial" for the Chinese construction industry.
+3. China needed allies as it was clear global confrontation was inevitable. The traditional way for China to win friends was always "by virtue" per the Confucian concept - in other words, talk a little but deliver a lot of value up front. Chinese governing philosophy opposite is the polar opposite as Western governing philosophy. With no enemies to defeat in elections, Chinese governments since the first dynasties put no stock in arguing with their enemies and instead let results do the talking.
+
+### 75: [Best Single-Volume Current Work on the American Civil War](https://old.reddit.com/r/WarCollege/comments/sotiyk/best_singlevolume_current_work_on_the_american/), submitted on 2022-02-10 09:18:04+08:00.
+
+----- __75.1__ -----2022-02-10 21:20:43+08:00:
 
 You’re basically looking at 3 books. There’s John Keenan’s book which is a military history but prone to hyperbole and not held in enormously high regard, McPherson’s Battle Cry of Freedom, and Hsieh & Murray’s A Savage War. The third is by far the best. Battle Cry of Freedom is a classic but isn’t exactly a military history.
+
+### 76: [Why would Russia wait until now to invade Ukraine?](https://old.reddit.com/r/geopolitics/comments/sp8hi7/why_would_russia_wait_until_now_to_invade_ukraine/), submitted on 2022-02-10 22:58:41+08:00.
+
+----- __76.1__ -----2022-02-15 03:02:53+08:00:
+
+Because the old strategy failed but was worth a try. When Ukraine did Maidan, Putin was initially convinced he could try the "Georgia approach" on them - deliver them a military setback, free some secessionist Republics, and in the process humiliate the new democratic leadership. In the wake of this humiliation, oligarchs would be rallied by the FSB under a retake power, then return the country to satellite status. This happened in Georgia after the war, when Russian-made billionaire Bidzina Ivanishvili led his "Georgian Dream" coalition of old elites to power.
+
+The strategy backfired in Ukraine because the people in power after 2014 were by and large the same people as before 2014. The Ukrainian oligarchy had misgoverned the country for 23 years and was divided into two camps based on county of origin. When Russia discredited the oligarch-stuffed Poroshenko cabinet, it brought to power an actual populist movement under Zelensky. Russia essentially created a Saakashvili where none existed.
+
+The "saving grace" of the situation was that Donetsk and Luhansk could be used as bargaining chips. Ukrainian nationalists, Russia thought, could be convinced to stay out of NATO for the promise of regaining lost territories. Instead, Ukrainians largely saw the Russian East as a liability and was fine parting with it for NATO/EU membership.
+
+### 77: [A Rival of America’s Making?: The Debate Over Washington’s China Strategy](https://old.reddit.com/r/geopolitics/comments/spzofk/a_rival_of_americas_making_the_debate_over/), submitted on 2022-02-11 21:40:29+08:00.
+
+----- __77.1__ -----2022-02-15 02:58:18+08:00:
+
+This exactly. It's supreme arrogance to claim success for someone else's growth, especially when it was never encouraged, only begrudgingly accepted to keep the American standard of living inflated. When the Qing sent a diplomatic mission to London in the 19th century, the officials claimed there was nothing worth emulating in Britain because all its technology was originally Chinese and it only got rich because China traded with it. When Britain entered into conflict with the Qing, officials claimed that they could bankrupt the country simply by cutting off the rhubarb supply. Ironically, the Anglo-American policy towards China today follows the same cult of inaction.
 

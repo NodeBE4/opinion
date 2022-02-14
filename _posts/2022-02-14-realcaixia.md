@@ -27,3 +27,11 @@ Xi Jinping’s Political Prisoners <a href="https://www.nationalreview.com/202
 
 终于听到“张展现在好了一些”，让人稍稍有点欣慰。期待张展身体状况逐步向好恢复，期待张展出狱的那一天。<br>下面是张展的最新情况报告：<br>Petition update · Zhang Zhan is now better 张展现在好了一些 ·<br><img style="" src="https://pbs.twimg.com/media/FLggWQkXEAIb4Hq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLggWgjWYAgrFTa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLggWxxXsAgfnmJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLggXIUXoAIL5nL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-02-14 23:06:02+08:00 推文](https://twitter.com/realcaixia/status/1493240119259770881)
+
+極權統治兇惡殘暴加無恥的自我證明：公然撒謊+公開恐嚇+監視所有人+大陸隨處隨時變監獄。<br>早幾年前就有朋友說大陸正在成為西朝鮮，現在一一成真。<br><br>荣剑: 中国民主世界第一，中国安全世界第一。<br><br><img style="" src="https://pbs.twimg.com/media/FLh-7iFVgAAO9oC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLh-7vzVcAQyAXr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLh-8ADVUAQQAbG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLh-8MjVQAQKtK3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-02-14 23:29:23+08:00 推文](https://twitter.com/realcaixia/status/1493245998189228039)
+
+【译丛】冬奥会、中国新年和我的两位新同乡 - 议报 <a href="https://yibaochina.com/?p=244843" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244843</a>
+
