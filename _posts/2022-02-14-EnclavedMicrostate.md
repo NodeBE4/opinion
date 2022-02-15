@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-14
+date: 2022-02-15
 from: https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/
 layout: post
 tags:
@@ -42,4 +42,22 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 133: [Any good books providing an overview of Chinese history, preferably with maps?](https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/), submitted on 2022-02-15 04:07:55+08:00.
+
+----- __133.1__ -----2022-02-15 10:27:48+08:00:
+
+Harvard's six-volume *History of Imperial China* series is probably going to be one of the more helpful options for this while still not being beyond a reasonable budget as long as you're aware you're getting up to six books. They're broadly up to date historiographically for the mid-late 2000s, and while they have a relatively thematic and analytical focus over narrative, they are intended to have decent readability for the more general reader, so most of the volumes have a good smattering of maps, figures, and illustrations.
+
+### 134: [How accurate is Hakim's (a Marxist-Leninist) video on "Why Did the USSR Fall?"](https://old.reddit.com/r/badhistory/comments/ssqpp1/how_accurate_is_hakims_a_marxistleninist_video_on/), submitted on 2022-02-15 09:23:53+08:00.
+
+----- __134.1__ -----2022-02-15 10:44:36+08:00:
+
+Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
+
+Your submission is in violation of **Rule 2**. Your submission Is a debunk/debate request. These should be made in the weekly Saturday Symposium post and are no longer allowed as posts.
+
+
+
+If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/Budo3&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ssqpp1/-/\))
 
