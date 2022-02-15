@@ -33,7 +33,7 @@ China’s first annual Short Video Online Influencer Night offers a glimpse into
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
-The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style="" src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 14:48:09+08:00 推文](https://twitter.com/jcmittelstaedt/status/1483692739426463748)
 
@@ -57,11 +57,11 @@ Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human 
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
