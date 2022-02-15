@@ -85,3 +85,15 @@ If you feel this was done in error, or would like better clarification or need f
 
 Leading to a bit of an interesting crackpot theory: what if Data's trial was at least in part engineered by the Zhat Vash, perhaps some strings pulled here and there especially as regards Captain Louvois? It'd be the sort of thing where Romulan intrigue wouldn't be expected because it's seemingly so benign, but where it would at least delay the replication of synthetic life for a while and buy time.
 
+----- __137.2__ -----2022-02-16 00:16:57+08:00:
+
+Like I said, it's not a ploy to *prevent* synthetic development, it's one to *delay* that development until such time as the Zhat Vash can put a concrete plan in action. Within the events in the episode 'The Measure of a Man', the *Enterprise-D* is operating in core Federation territory, and it is unclear how high up Zhat Vash infiltration may have occurred by that stage. They obviously aren't omnipotent, and perhaps at this stage they don't have anyone on the ground who is able to get in a position to straight up destroy Data. If so, there are two options: let Maddox disassemble Data and replicate him – the worst case scenario – or allow Data to be legally protected so that he can't be replicated by anyone, at least in the short to medium term.
+
+----- __137.3__ -----2022-02-16 00:36:25+08:00:
+
+Killing Data within Federation territory would be an obvious act of aggression against the Federation itself. The Zhat Vash may have an ideological outlook but they are also part of the Romulan Empire, and provoking a war in pursuit of their narrower goal would not be ideal if there were potential options that did *not* risk starting a war. All I'm proposing is that it is within the realm of plausibility that the Zhat Vash might have pursued a policy of containment rather than total eradication, and waiting for a more opportune moment. Both options achieve the ideological goal, but one sacrifices a bit of time in exchange for security.
+
+In reference to the trial, perhaps I was too vague in suggesting that they orchestrated the *entire* thing, more that they pulled strings to perhaps help convince Louvois to go ahead with the trial and to rule in Data's favour. They wouldn't have deliberately created a scenario where Maddox even *might* have the opportunity to reverse-engineer Data; rather, Maddox's attempt to requisition him would have been an unexpected development but also an opportunity.
+
+EDIT: Now, if the trial had gone the other way, or not at all, and Maddox *did* get access to Data's internals, *then* the Zhat Vash may have gone to the nuclear option.
+
