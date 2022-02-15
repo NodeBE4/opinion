@@ -39,3 +39,7 @@ Xi Jinping’s Political Prisoners <a href="https://www.nationalreview.com/202
 
 强烈推荐：<br>关注徐州铁锁女悲惨境遇、寻求解开她身世真相的网友，请花些时间看看王剑老师的这期节目。从35分10秒起到70分15秒左右结束。两位调查记者发布云南调查报告，非常感人。<br>调查记者指八孩母亲不是小花梅/中国记者没有凋零/王剑每日观察/20220214 <a href="https://youtu.be/yheXKmvAwpM" target="_blank" rel="noopener noreferrer">https://youtu.be/yheXKmvAwpM</a>
 
+### 7: [2022-02-15 13:18:49+08:00 推文](https://twitter.com/realcaixia/status/1493454732375072769)
+
+Re @ultaherb @YouTube 你这个五毛为罪恶打掩护吧？！丧尽天良的东西！
+

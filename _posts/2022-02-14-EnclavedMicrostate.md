@@ -49,6 +49,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 The hoped-for price rise [failed to materialise](https://www.marketwatch.com/story/crypto-companies-spent-millions-on-super-bowl-ads-but-it-didnt-lift-bitcoin-prices-monday-11644876991), so things are definitely trending downward. Just... could they trend *faster* please?
 
+----- __133.2__ -----2022-02-15 17:25:06+08:00:
+
+I imagine this will be of especial interest to /u/lothernseaguard, but [Quora seems to be making a limited attempt to silence criticism over the Kevin Richardson fiasco.](https://twitter.com/EMicrostate/status/1493513743556169728)
+
 ### 134: [Any good books providing an overview of Chinese history, preferably with maps?](https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/), submitted on 2022-02-15 04:07:55+08:00.
 
 ----- __134.1__ -----2022-02-15 10:27:48+08:00:
