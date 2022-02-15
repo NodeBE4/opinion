@@ -31,3 +31,7 @@ Fluff Diplomacy: For China’s government, the chubby panda mascot of the Winter
 
 Journalist Cao Jingxing (曹景行), whose work impacted media development in both Hong Kong and China, passed away on February 11 at the age of 75. <a href="https://chinamediaproject.org/2022/02/14/remembering-cao-jingxing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/14/remembering-cao-jingxing/</a><br><img style="" src="https://pbs.twimg.com/media/FLoEZFyaAAAVO0c?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-02-15 18:33:36+08:00 推文](https://twitter.com/SophieHRW/status/1493533946520522753)
+
+RT Sophie Richardson<br>"'Two buttons then offer a simple choice: 'I accept' and 'I do not accept.'” Great/scary read: Empowering #China [govt]’s Digital Informants <a href="https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/</a>
+

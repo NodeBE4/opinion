@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-14
+date: 2022-02-15
 from: https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/
 layout: post
 tags:
@@ -24,4 +24,12 @@ I feel like AI trained on Twitter comments could do a better job than CNN's "con
 ----- __91.1__ -----2022-02-15 13:32:47+08:00:
 
 Hе трахайся с кошками.
+
+### 92: [If You're Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen.](https://old.reddit.com/r/walkaway/comments/ssojf8/if_youre_not_a_sheep_like_them_and_have_any/), submitted on 2022-02-15 07:43:07+08:00.
+
+----- __92.1__ -----2022-02-15 20:46:40+08:00:
+
+Canada is purporting to do to its citizens what the United States did to Russians who were involved in human rights violations, during the Obama administration.  
+
+Trudeau has lost his mind.
 
