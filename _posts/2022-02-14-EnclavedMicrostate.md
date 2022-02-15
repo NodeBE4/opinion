@@ -73,3 +73,11 @@ Your submission is in violation of **Rule 2**. Your submission Is a debunk/debat
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/Budo3&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ssqpp1/-/\))
 
+### 137: [The Romulan invasion force in Unification was small because they were relying on previously seeded infiltrators](https://old.reddit.com/r/DaystromInstitute/comments/ssqucd/the_romulan_invasion_force_in_unification_was/), submitted on 2022-02-15 09:30:22+08:00.
+
+----- __137.1__ -----2022-02-15 13:59:42+08:00:
+
+> As for the incompetence of the Zhat Vash, I doubt they'd ignore Data. On the off chance that Maddox got his way and he was disassembled, studied, and could be replicated, that seems like a pretty massive issue for anti-synthetic fanatics...
+
+Leading to a bit of an interesting crackpot theory: what if Data's trial was at least in part engineered by the Zhat Vash, perhaps some strings pulled here and there especially as regards Captain Louvois? It'd be the sort of thing where Romulan intrigue wouldn't be expected because it's seemingly so benign, but where it would at least delay the replication of synthetic life for a while and buy time.
+
