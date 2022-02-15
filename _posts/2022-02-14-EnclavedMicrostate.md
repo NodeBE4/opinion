@@ -43,15 +43,27 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 133: [Any good books providing an overview of Chinese history, preferably with maps?](https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/), submitted on 2022-02-15 04:07:55+08:00.
+### 133: [Mindless Monday, 14 February 2022](https://old.reddit.com/r/badhistory/comments/ss8zem/mindless_monday_14_february_2022/), submitted on 2022-02-14 20:00:18+08:00.
 
------ __133.1__ -----2022-02-15 10:27:48+08:00:
+----- __133.1__ -----2022-02-15 10:53:08+08:00:
+
+The hoped-for price rise [failed to materialise](https://www.marketwatch.com/story/crypto-companies-spent-millions-on-super-bowl-ads-but-it-didnt-lift-bitcoin-prices-monday-11644876991), so things are definitely trending downward. Just... could they trend *faster* please?
+
+### 134: [Any good books providing an overview of Chinese history, preferably with maps?](https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/), submitted on 2022-02-15 04:07:55+08:00.
+
+----- __134.1__ -----2022-02-15 10:27:48+08:00:
 
 Harvard's six-volume *History of Imperial China* series is probably going to be one of the more helpful options for this while still not being beyond a reasonable budget as long as you're aware you're getting up to six books. They're broadly up to date historiographically for the mid-late 2000s, and while they have a relatively thematic and analytical focus over narrative, they are intended to have decent readability for the more general reader, so most of the volumes have a good smattering of maps, figures, and illustrations.
 
-### 134: [How accurate is Hakim's (a Marxist-Leninist) video on "Why Did the USSR Fall?"](https://old.reddit.com/r/badhistory/comments/ssqpp1/how_accurate_is_hakims_a_marxistleninist_video_on/), submitted on 2022-02-15 09:23:53+08:00.
+### 135: [I'm a movie fan in the 1950s-1970s. In the age before VHS, if I happened to miss out on a film while it was in cinemas, am I fairly certain that I will never be able to see it? Or is it likely for a theater to play it again fairly soon?](https://old.reddit.com/r/AskHistorians/comments/ssotsp/im_a_movie_fan_in_the_1950s1970s_in_the_age/), submitted on 2022-02-15 07:56:10+08:00.
 
------ __134.1__ -----2022-02-15 10:44:36+08:00:
+----- __135.1__ -----2022-02-15 11:15:21+08:00:
+
+Sorry, but this response has been removed because we [do not allow the personal anecdotes or second-hand stories](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes) of users to form the basis of a response. While they can sometimes be quite interesting, the medium and anonymity of this forum does not allow for them to be properly contextualized, nor the source vetted or contextualized.  A more thorough explanation for the reasoning behind this rule can be found in [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/fj1kw7/rules_roundtable_vii_no_personal_anecdotes/). For users who *are* interested in this more personal type of answer, we would suggest you consider /r/AskReddit.
+
+### 136: [How accurate is Hakim's (a Marxist-Leninist) video on "Why Did the USSR Fall?"](https://old.reddit.com/r/badhistory/comments/ssqpp1/how_accurate_is_hakims_a_marxistleninist_video_on/), submitted on 2022-02-15 09:23:53+08:00.
+
+----- __136.1__ -----2022-02-15 10:44:36+08:00:
 
 Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
 
