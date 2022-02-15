@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-14
+date: 2022-02-15
 from: https://twitter.com/realcaixia/status/1492904913931849729
 layout: post
 tags:
@@ -34,4 +34,8 @@ Xi Jinping’s Political Prisoners <a href="https://www.nationalreview.com/202
 ### 5: [2022-02-14 23:29:23+08:00 推文](https://twitter.com/realcaixia/status/1493245998189228039)
 
 【译丛】冬奥会、中国新年和我的两位新同乡 - 议报 <a href="https://yibaochina.com/?p=244843" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244843</a>
+
+### 6: [2022-02-15 07:40:55+08:00 推文](https://twitter.com/realcaixia/status/1493369696216879104)
+
+强烈推荐：<br>关注徐州铁锁女悲惨境遇、寻求解开她身世真相的网友，请花些时间看看王剑老师的这期节目。从35分10秒起到70分15秒左右结束。两位调查记者发布云南调查报告，非常感人。<br>调查记者指八孩母亲不是小花梅/中国记者没有凋零/王剑每日观察/20220214 <a href="https://youtu.be/yheXKmvAwpM" target="_blank" rel="noopener noreferrer">https://youtu.be/yheXKmvAwpM</a>
 
