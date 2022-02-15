@@ -19,3 +19,9 @@ title: theoryofdoom在2022-02-14~2022-02-20的言论
 
 I feel like AI trained on Twitter comments could do a better job than CNN's "contributors" or content creators, like Brian Steltzer or whatever his name is.
 
+### 91: [A Russian court put a couple from Severodvinsk in prison for 3 years, who tortured the cat Kuzya to death. The sadists not only abused the animal, but posted a video on the social network. The case caused a wide public outcry, in 20 Russian cities there were actions calling for severe punishment.](https://old.reddit.com/r/russia/comments/sscgfy/a_russian_court_put_a_couple_from_severodvinsk_in/), submitted on 2022-02-14 22:55:26+08:00.
+
+----- __91.1__ -----2022-02-15 13:32:47+08:00:
+
+Hе трахайся с кошками.
+
