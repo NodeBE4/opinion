@@ -97,9 +97,19 @@ In reference to the trial, perhaps I was too vague in suggesting that they orche
 
 EDIT: Now, if the trial had gone the other way, or not at all, and Maddox *did* get access to Data's internals, *then* the Zhat Vash may have gone to the nuclear option.
 
-### 138: [What are some examples of male platonic love?](https://old.reddit.com/r/AskHistorians/comments/stjzhr/what_are_some_examples_of_male_platonic_love/), submitted on 2022-02-16 10:02:01+08:00.
+### 138: [How did a society as ancient and advanced as Imperial China fall so badly behind in weapon development that Britain crushed them in the Opium Wars?](https://old.reddit.com/r/AskHistorians/comments/ssy38a/how_did_a_society_as_ancient_and_advanced_as/), submitted on 2022-02-15 16:18:58+08:00.
 
------ __138.1__ -----2022-02-16 11:31:05+08:00:
+----- __138.1__ -----2022-02-16 14:26:30+08:00:
+
+This is a subject I've discussed in several past answers (which I will link in a moment), but to begin with I need to stress that 'a society as ancient and advanced as Imperial China' is, to put it bluntly, a meaningless phrase. *All* societies are theoretically equally 'ancient', and 'advancement' is its own can of arbitrarily-defined, meaningless worms. We may as well ask how a society as 'ancient and advanced' as Rome fell to the Turks in 1453. Presenting imperial China as an 'ancient' society also massively flattens the real changes that occurred in state and society over the over two millennia between the foundation of the first imperial state in 221 BCE and the end of the last imperial state(s) in the 1910s. (See [this answer](https://www.reddit.com/r/AskHistorians/comments/s4uur3/did_the_various_ruling_dynasties_of_china_ever/hsv34aa/) for a bit more on that.)
+
+On the question of specifically military developments, Tonio Andrade's *The Gunpowder Age* (2016) is far from the final word on the topic, but it is one of the more comprehensive ones. One of the major ideas Andrade puts forward is that the locus of military technological innovation shifted back and forth between Europe and East Asia in the medieval and Early Modern periods: gunpowder weapons were first developed in China, then were brought to Europe by the Mongols in the 14th century, European iterations on these weapons were then brought to Asia in the 16th century, where Asian states iterated on these imports, and many were arguably ahead of European states in some respects until the end of the 17th century. Some polities maintained parity well into the 18th century (Indian states especially); some fell behind by the middle of the 17th (Japan particularly). Andrade puts the Qing divergence in terms of field weapons as starting mainly around 1750; I personally date it more to around 1700. However, he also notes that East Asian polities lagged considerably further behind in naval and fortifications technology – two very important things for the Opium Wars, where the Qing was being attacked (so some better fortifications would have been nice) by sea (for which a more competitive navy would have been nice). Discussion of those are their own, separate issue which I don't feel fully qualified to comment on.
+
+But as for development on land, I discuss some of the issues [here](https://www.reddit.com/r/AskHistorians/comments/okp0aj/why_were_qing_china_and_southeast_asia_never_able/h5a1cmz/) and to an extent [here](https://www.reddit.com/r/AskHistorians/comments/o9qve6/dear_early_modern_historians_were_the/h3fb1me/). One issue I could have discussed in the first answer is finance, but that comes through in the second.
+
+### 139: [What are some examples of male platonic love?](https://old.reddit.com/r/AskHistorians/comments/stjzhr/what_are_some_examples_of_male_platonic_love/), submitted on 2022-02-16 10:02:01+08:00.
+
+----- __139.1__ -----2022-02-16 11:31:05+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -107,9 +117,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 139: [How many Americans participated in the 1837 Candian revolution, and can I use it as an example of filibustering?](https://old.reddit.com/r/AskHistorians/comments/stko0l/how_many_americans_participated_in_the_1837/), submitted on 2022-02-16 10:35:58+08:00.
+### 140: [How many Americans participated in the 1837 Candian revolution, and can I use it as an example of filibustering?](https://old.reddit.com/r/AskHistorians/comments/stko0l/how_many_americans_participated_in_the_1837/), submitted on 2022-02-16 10:35:58+08:00.
 
------ __139.1__ -----2022-02-16 11:31:21+08:00:
+----- __140.1__ -----2022-02-16 11:31:21+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -117,9 +127,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 140: [How different would 9/11 be if it happened in the middle of the night?](https://old.reddit.com/r/AskHistorians/comments/stldmw/how_different_would_911_be_if_it_happened_in_the/), submitted on 2022-02-16 11:10:29+08:00.
+### 141: [How different would 9/11 be if it happened in the middle of the night?](https://old.reddit.com/r/AskHistorians/comments/stldmw/how_different_would_911_be_if_it_happened_in_the/), submitted on 2022-02-16 11:10:29+08:00.
 
------ __140.1__ -----2022-02-16 11:31:29+08:00:
+----- __141.1__ -----2022-02-16 11:31:29+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
