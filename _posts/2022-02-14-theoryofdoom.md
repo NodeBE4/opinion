@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-15
+date: 2022-02-16
 from: https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/
 layout: post
 tags:
@@ -25,11 +25,23 @@ I feel like AI trained on Twitter comments could do a better job than CNN's "con
 
 Hе трахайся с кошками.
 
-### 92: [If You're Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen.](https://old.reddit.com/r/walkaway/comments/ssojf8/if_youre_not_a_sheep_like_them_and_have_any/), submitted on 2022-02-15 07:43:07+08:00.
+### 92: [Enemies of My Enemy: How Fear of China Is Forging a New World Order](https://old.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/), submitted on 2022-02-15 00:05:27+08:00.
 
------ __92.1__ -----2022-02-15 20:46:40+08:00:
+----- __92.1__ -----2022-02-16 08:51:06+08:00:
+
+Don't do this again.
+
+### 93: [If You're Not A Sheep Like Them, And Have Any Differing Opinions Can Now Make Them Automatically Cancel And Freeze Your Back Accounts. Just For Supporting Freedom. #CanadaHasFallen.](https://old.reddit.com/r/walkaway/comments/ssojf8/if_youre_not_a_sheep_like_them_and_have_any/), submitted on 2022-02-15 07:43:07+08:00.
+
+----- __93.1__ -----2022-02-15 20:46:40+08:00:
 
 Canada is purporting to do to its citizens what the United States did to Russians who were involved in human rights violations, during the Obama administration.  
 
 Trudeau has lost his mind.
+
+### 94: [ISIS EXECUTIONS of Syrian CHILDREN & Civilians by Islamic State Terroris...](https://old.reddit.com/r/terrorism/comments/st6a6i/isis_executions_of_syrian_children_civilians_by/), submitted on 2022-02-16 00:03:33+08:00.
+
+----- __94.1__ -----2022-02-16 08:18:42+08:00:
+
+Locked and permanently banned.
 
