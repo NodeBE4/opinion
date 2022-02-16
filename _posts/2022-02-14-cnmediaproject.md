@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-16
+date: 2022-02-17
 from: https://twitter.com/Changxche/status/1493044418475134977
 layout: post
 tags:
@@ -35,19 +35,31 @@ Journalist Cao Jingxing (曹景行), whose work impacted media development in bo
 
 RT Sophie Richardson<br>"'Two buttons then offer a simple choice: 'I accept' and 'I do not accept.'” Great/scary read: Empowering #China [govt]’s Digital Informants <a href="https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/07/empowering-chinas-digital-informants/</a>
 
-### 6: [2022-02-16 10:38:41+08:00 推文](https://twitter.com/cnmediaproject/status/1493776821690970115)
+### 6: [2022-02-15 20:15:38+08:00 推文](https://twitter.com/LiYuan6/status/1493559626864140290)
+
+RT Li Yuan<br>Who Is the Real China? Eileen Gu or the Chained Woman?<br><br>The two women’s starkly different circumstances — celebrated vs. silenced — reflect that to the Chinese state everyone is a tool that serves a purpose until it does not. My latest <a href="https://www.nytimes.com/2022/02/15/business/china-eileen-gu-peng-shuai-chained-woman.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/02/15/business/china-eileen-gu-peng-shuai-chained-woman.html?smid=tw-share</a>
+
+### 7: [2022-02-16 10:38:41+08:00 推文](https://twitter.com/cnmediaproject/status/1493776821690970115)
 
 Fluff Diplomacy: Winter Olympics mascot Bing Dwen Dwen has stollen the headlines with fluff stories -- and that may be strategy rolled out by Chinese state media. <a href="https://chinamediaproject.org/2022/02/15/fluff-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/15/fluff-diplomacy/</a><br><img style="" src="https://pbs.twimg.com/media/FLr2EQgakAE7Gwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 7: [2022-02-16 11:18:22+08:00 推文](https://twitter.com/cnmediaproject/status/1493786805430525952)
+### 8: [2022-02-16 11:18:22+08:00 推文](https://twitter.com/cnmediaproject/status/1493786805430525952)
 
 Once again a Xi Jinping speech tops the TOC at the Seeking Truth journal, and once again the People's Daily reports this as top news in the People's Daily. <a href="http://paper.people.com.cn/rmrb/html/2022-02/16/nw.D110000renmrb_20220216_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2022-02/16/nw.D110000renmrb_20220216_1-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FLr_Ku1aIAQiLg1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 8: [2022-02-16 11:22:27+08:00 推文](https://twitter.com/cnmediaproject/status/1493787832263258112)
+### 9: [2022-02-16 11:22:27+08:00 推文](https://twitter.com/cnmediaproject/status/1493787832263258112)
 
 Re This one, in the upper left on the image above, is about "the system of rule of law with Chinese characteristics" (中国特色社会主义法治体系). Xi says the CCP must "rule of law methods to carry out international struggle" (要运用法治手段开展国际斗争).
 
-### 9: [2022-02-16 11:31:04+08:00 推文](https://twitter.com/cnmediaproject/status/1493790004472324102)
+### 10: [2022-02-16 11:31:04+08:00 推文](https://twitter.com/cnmediaproject/status/1493790004472324102)
 
 Re This means, according to the article, strengthening PRC legislation in foreign-related areas, and further improving laws and regs against sanctions, interference and "long-arm jurisdiction" (长臂管辖) -- promoting a system of Chinese laws applicable outside China.
+
+### 11: [2022-02-16 20:05:24+08:00 推文](https://twitter.com/DreyerChina/status/1493919437988245507)
+
+RT Mark Dreyer<br>OK, so this is a good one...<br><br>Remember how China made a big show of how large its Olympic delegation is? 176 athletes for Beijing 2022 vs just 80 in PyeongChang in 2018. "Participation" was a central theme this year. <br><br>Turns out it's not 176 after all...
+
+### 12: [2022-02-17 05:52:39+08:00 推文](https://twitter.com/schoenmakersk/status/1494067223350190090)
+
+RT Kevin Schoenmakers 宋楷文<br>The person who tweeted the collage of female Asian journalists had his account suspended for violating Twitter’s rules<br><img style="" src="https://pbs.twimg.com/media/FLv-OG0XIAANeCP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
