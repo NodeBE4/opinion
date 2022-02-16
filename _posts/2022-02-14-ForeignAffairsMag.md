@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-15
+date: 2022-02-16
 from: https://old.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/
 layout: post
 tags:
@@ -28,4 +28,12 @@ title: ForeignAffairsMag在2022-02-14~2022-02-20的言论
 \[SS from the article by Douglas London, Senior Operations Officer in the CIA Clandestine Service for over 34 years\]
 
 "In the case of the crisis in Ukraine, so far, it appears as if the United States is using the intelligence it has gathered to maximum effect. At long last, Washington is catching up to its rivals—including Russia and Wikileaks—in the use of information to shape events. The true gauge of the strategy’s efficacy, of course, will be whether or not Russia actually invades." Read Douglas London on the benefits and risks of disclosing U.S. intelligence.
+
+### 123: [The Paranoid Style in Canadian Politics: The Truckers’ Protests Have Opened the Door for the Radical Right](https://old.reddit.com/r/CanadaPolitics/comments/stxe1r/the_paranoid_style_in_canadian_politics_the/), submitted on 2022-02-16 22:35:51+08:00.
+
+----- __123.1__ -----2022-02-16 22:38:30+08:00:
+
+Read Eric Merkley, Assistant Professor of Political Science at the University of Toronto, on the implications of recent protests in Ottawa, and accross Canada. 
+
+"If the Conservative Party does embrace right-wing populism, it would be a departure from its traditional moderation—one with troubling consequences for Canadian democracy. "
 

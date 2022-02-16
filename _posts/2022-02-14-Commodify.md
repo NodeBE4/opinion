@@ -37,3 +37,9 @@ The Biden administration is undoubtedly aware of all of this, but has no choice 
 
 Maybe the solution is just to not lock threads for being answered before? That implies the discussion is over just because people already talked about it. That's basically the opposite of the historian’s mindset which is that there's always new viewpoints and revisions.
 
+### 81: [Did Japan have any foreign volunteers in their armed forces during ww2 and if they did how did they perform](https://old.reddit.com/r/WarCollege/comments/stahac/did_japan_have_any_foreign_volunteers_in_their/), submitted on 2022-02-16 03:02:48+08:00.
+
+----- __81.1__ -----2022-02-16 22:40:46+08:00:
+
+Something important to mention here is that the British Indian Army was not a representative sample of the Indian population. It was made up largely of privileged “martial castes” whose identity was shaped by war and service. This is the reason for the huge disconnect between their attitude to the INA and that of the public, which was outraged by the postwar INA trials.
+
