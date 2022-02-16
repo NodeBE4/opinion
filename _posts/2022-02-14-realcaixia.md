@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-15
+date: 2022-02-16
 from: https://twitter.com/realcaixia/status/1492904913931849729
 layout: post
 tags:
@@ -42,4 +42,16 @@ Xi Jinping’s Political Prisoners <a href="https://www.nationalreview.com/202
 ### 7: [2022-02-15 13:18:49+08:00 推文](https://twitter.com/realcaixia/status/1493454732375072769)
 
 Re @ultaherb @YouTube 你这个五毛为罪恶打掩护吧？！丧尽天良的东西！
+
+### 8: [2022-02-16 05:18:58+08:00 推文](https://twitter.com/realcaixia/status/1493696359559483398)
+
+Re @tiankuizeng 以后我会写出来的。
+
+### 9: [2022-02-16 06:56:39+08:00 推文](https://twitter.com/realcaixia/status/1493720941779640322)
+
+拥有高科技、有本事监视13亿人的中共，居然查不清铁链女是谁。非但查不清而且还抓看望铁链女的两位女士，他们究竟要隐瞒什么？董某与杨某侠确有结婚证，而照片明显对不上铁链女。那么不仅要查清铁链女是谁，还要查清杨某侠在哪里？！<br>丰县案的底限：到底是丰县还是“封县”？ <a href="https://mp.weixin.qq.com/s?__biz=MzI4Mjk3OTUzNw==&amp;mid=2247484329&amp;idx=1&amp;sn=c3d678a7e33e03c67238af2af091c719&amp;chksm=eb90fe17dce77701771904ef0b04b47debc5706d2c00aaf82e14efdbd4ab030e6695c0b1161e&amp;mpshare=1&amp;srcid=02159UOyOsG0MB6ClbJ2cEke&amp;sharer_sharetime=1644887126955&amp;sharer_shareid=57b80b02ebd24012c9104d7cfcd6c43b&amp;from=timeline&amp;scene=2&amp;subscene=1&amp;clicktime=1644889237&amp;enterid=1644889237&amp;ascene=2&amp;devicetype=android-28&amp;version=2800133b&amp;nettype=cmnet&amp;abtest_cookie=AAACAA%3D%3D&amp;lang=zh_CN&amp;exportkey=AVvjD0U%2BzhYT1gKtriUkZ8Y%3D&amp;pass_ticket=RILmfKt73IxkVdKVzEobeHRfS7OPcPVZ5yuGsAUbGe6b53pVq4Ka6Gu8ui74yq1U&amp;wx_header=3" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s?__biz=MzI4Mjk3OTUzNw==&amp;mid=2247484329&amp;idx=1&amp;sn=c3d678a7e33e03c67238af2af091c719&amp;chksm=eb90fe17dce77701771904ef0b04b47debc5706d2c00aaf82e14efdbd4ab030e6695c0b1161e&amp;mpshare=1&amp;srcid=02159UOyOsG0MB6ClbJ2cEke&amp;sharer_sharetime=1644887126955&amp;sharer_shareid=57b80b02ebd24012c9104d7cfcd6c43b&amp;from=timeline&amp;scene=2&amp;subscene=1&amp;clicktime=1644889237&amp;enterid=1644889237&amp;ascene=2&amp;devicetype=android-28&amp;version=2800133b&amp;nettype=cmnet&amp;abtest_cookie=AAACAA%3D%3D&amp;lang=zh_CN&amp;exportkey=AVvjD0U%2BzhYT1gKtriUkZ8Y%3D&amp;pass_ticket=RILmfKt73IxkVdKVzEobeHRfS7OPcPVZ5yuGsAUbGe6b53pVq4Ka6Gu8ui74yq1U&amp;wx_header=3</a>
+
+### 10: [2022-02-16 08:40:23+08:00 推文](https://twitter.com/realcaixia/status/1493747049136746497)
+
+特别推荐：<br>前几天四万字长文《客观评价习近平》引发高度关注和各种讨论。习十年治下究竟是什么状况？未来如果习连任将带来一个什么样的五年、十年甚至更长？这些问题事关中国和世界的未来，我们需要认真考察与分析。《议报》首发重磅：<br><br>王剑：习近平与中国经济的变局 - 议报 <a href="https://yibaochina.com/?p=244884" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244884</a>
 
