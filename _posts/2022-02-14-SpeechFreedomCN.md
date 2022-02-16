@@ -1,0 +1,25 @@
+---
+author: SpeechFreedomCN
+categories:
+- Twitter
+date: 2022-02-16
+from: https://twitter.com/SpeechFreedomCN/status/1493768593422663680
+layout: post
+tags:
+- Twitter
+title: 'Twitter @中国文字狱事件盘点: 2022-02-14~2022-02-20'
+---
+
+收录近年中国因言获罪案件/Documenting China’s violation of #speechfreedom. Summary Sheet/总表：https://t.co/T9XT429Wdt; Verdicts/判决书: https://t.co/rzOxnudsQc 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2022-02-16 10:06:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1493768593422663680)
+
+广西德保县男子卢某，因在微信群里说“这回德保的人全死亡了“，被认定为发表不当言论并被”依法处理“，其具体处罚方式不详。从警方通报中的完整截图看，卢某的言论显然是指当地人会因为买不到吃的而被饿死，属于抱怨，并非任何形式的诅咒，但警方对他的言论进行了断章取义。<br><img style="" src="https://pbs.twimg.com/media/FLqOyhPWYAMIvwn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqO0NyWUAMFKrB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqO7AYWUAQKQL_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqO8rNXsAcWFFl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 2: [2022-02-16 10:10:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1493769600084942849)
+
+Guangxi man Lu punished by police for saying in a WeChat group chat that local people were "all dead". Police claimed Lu's words were inappropriate, but the context revealed that he was not cursing people, but instead saying they would starve to death due to the strict lockdown.<br><img style="" src="https://pbs.twimg.com/media/FLqPnlUWQAE1Jwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqPpg9XEAAl3Fu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqPrMhXIAAfAtJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqPstVXMAcU2rH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
