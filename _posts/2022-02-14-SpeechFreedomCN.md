@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-02-14~2022-02-20'
 
 Guangxi man Lu punished by police for saying in a WeChat group chat that local people were "all dead". Police claimed Lu's words were inappropriate, but the context revealed that he was not cursing people, but instead saying they would starve to death due to the strict lockdown.<br><img style="" src="https://pbs.twimg.com/media/FLqPnlUWQAE1Jwc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqPpg9XEAAl3Fu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqPrMhXIAAfAtJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FLqPstVXMAcU2rH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-02-16 19:32:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1493911196147372037)
+
+广西横州市男子阿辉（化名），因在朋友圈发布一段内容为负面言论（疑为讨薪）的视频，并使用国歌作为背景音乐，被处行政拘留。警方称其给负面内容用国歌配乐，涉嫌侮辱国歌。<br><img style="" src="https://pbs.twimg.com/media/FLtvmwyXIAQ3c6Y?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-02-16 19:37:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1493912475422580736)
+
+Guangxi man administratively detained for posting a video in WeChat. The video was his accusation of his former employer of wage denial, and had the National Anthem as background music. Police claimed the video insulted the National Anthem.<br><img style="" src="https://pbs.twimg.com/media/FLtwVzKXoAUXpCA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
