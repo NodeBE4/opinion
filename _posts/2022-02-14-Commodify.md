@@ -123,3 +123,7 @@ Of course they were invited.
 
 After the coup, France only suspended advisors and military cooperation for a month.
 
+----- __84.3__ -----2022-02-17 23:17:23+08:00:
+
+I never said that. Nor did I say the French were uninvited.
+
