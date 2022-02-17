@@ -88,9 +88,17 @@ Thanks.  On ivermectin, hydroxychloroquine and other out of patent compounds, it
 On assuming users have knowledge, I tend to give people the chance to wade into the water whether they realize how deep it is or not.  That's because I'd rather see them step up to bat, swing and miss than sit in the dugout or never even show up to the game. 
  Individual users don't bother me on this pont, but I'll be very straightforward when I say that reading some of self-published substacks people have submitted here is like listening to a symphony of alley cats fighting over an empty can of tuna, music playing out of tune, nails on a chalkboard or any other appropriate comparison.  Thankfully few users here have ever conducted themselves in that way.
 
-### 98: [Rates in Denmark going up after restrictions lifted](https://old.reddit.com/r/CoronavirusIllinois/comments/suc5j9/rates_in_denmark_going_up_after_restrictions/), submitted on 2022-02-17 09:24:08+08:00.
+### 98: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
------ __98.1__ -----2022-02-17 10:01:26+08:00:
+----- __98.1__ -----2022-02-17 12:50:34+08:00:
+
+> Honestly as a rural NY dweller, I hate when people assume I live in the unbearable shithole that is NYC
+
+Rural upstate NY is beautiful.  I have no use for the city, either.  But if I had to live in a city in that failed state, I'd take Buffalo over NYC most days.  While also a shithole, it's less of a shithole than NYC.  Especially now.
+
+### 99: [Rates in Denmark going up after restrictions lifted](https://old.reddit.com/r/CoronavirusIllinois/comments/suc5j9/rates_in_denmark_going_up_after_restrictions/), submitted on 2022-02-17 09:24:08+08:00.
+
+----- __99.1__ -----2022-02-17 10:01:26+08:00:
 
 I don't see how this is relevant to Illinois.
 
