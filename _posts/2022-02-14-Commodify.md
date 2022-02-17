@@ -77,6 +77,10 @@ The growth model in boom and bust dependent "failed miracle economies" was very 
 
 The difference between the rare miracle economies and the mass of disappointments came down to political incentives. Too often this is oversimplified to "dictatorships focus on the long term while democracies focus on the short term": this ignores the fact that most of the world's poor countries are dictatorships. Rather, we have to adopt a nuanced understanding of Northeast Asian governments during the boom years. They were not democracies where leaders are accountable to the public (even Japan is essentially a one party state), nor were they "traditional" autocracies where the leader is accountable to no one. Rather, for thousands of years, Confucian rulers have been accountable to *the palace*. The expectation has always been that the top leader is the public face of the regime but allows his ministers to govern autonomously, controlling only who gets promoted and fired. Whenever a leader - even an absolute monarch - lacks virtue or ability, there is a long tradition of his ministers either removing him or turning him into a puppet (we've seen this even in modern years with the relatively impotent Jiang Zemin administration). The result in all the Asian miracle economies was an "economic general staff" that ran the country with 10 and 20 year timetables in mind, and that was relatively insulated from politics.
 
+----- __83.2__ -----2022-02-17 08:29:49+08:00:
+
+MITI and the Japanese Boom is the shortest overview of the value climbing strategy but it’s still pretty long.
+
 ### 84: [How did the French approach counter-insurgency in the Sahel as compared to Americans in Afghanistan? What were the doctrinal, material, and geographical factors that impacted these choices?](https://old.reddit.com/r/WarCollege/comments/su34zc/how_did_the_french_approach_counterinsurgency_in/), submitted on 2022-02-17 02:46:37+08:00.
 
 ----- __84.1__ -----2022-02-17 05:16:47+08:00:
