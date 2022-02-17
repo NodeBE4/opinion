@@ -139,3 +139,9 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 Quark.
 
+### 143: [Today's the midpoint of the HK Rushia bus' journey and that last day that it's on Route 208, so I took the opportunity to snap a few last photos before it heads off to other routes for the next four weeks! Apologies for potato quality, and #るしあ大好きだよ!](https://old.reddit.com/r/Hololive/comments/sumjbp/todays_the_midpoint_of_the_hk_rushia_bus_journey/), submitted on 2022-02-17 19:22:07+08:00.
+
+----- __143.1__ -----2022-02-17 19:22:16+08:00:
+
+I was a little apprehensive when heading out because apparently the bus did get vandalised a few days ago, but if it was it's been patched up very convincingly!
+
