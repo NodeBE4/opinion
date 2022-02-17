@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-16
+date: 2022-02-17
 from: https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/
 layout: post
 tags:
@@ -72,4 +72,25 @@ It is actually hilarious how much she has failed in this respect, though.  She w
 ----- __95.1__ -----2022-02-16 08:18:42+08:00:
 
 Locked and permanently banned.
+
+### 96: [School mask mandate susepended?? (Not the appellate ruling)](https://old.reddit.com/r/CoronavirusIllinois/comments/stfa82/school_mask_mandate_susepended_not_the_appellate/), submitted on 2022-02-16 06:29:21+08:00.
+
+----- __96.1__ -----2022-02-17 10:15:01+08:00:
+
+Most reddit moderators in these subs would have failed a high school advanced placement biology test.  The barometer of truth for them is whatever CNN says it is.  Others do not operate according to that standard, however.
+
+### 97: [[February 15, 2022] Community Update](https://old.reddit.com/r/CoronavirusIllinois/comments/stjy0o/february_15_2022_community_update/), submitted on 2022-02-16 10:00:15+08:00.
+
+----- __97.1__ -----2022-02-17 10:00:32+08:00:
+
+Thanks.  On ivermectin, hydroxychloroquine and other out of patent compounds, it will take several years for the jury to be settled in the United States on that one.  The verdict will come in, but it likely won't be under the current leadership at NIAID/NIH.  It is regretful that the politics and economics surrounding those medications developed in the way they did.  
+
+On assuming users have knowledge, I tend to give people the chance to wade into the water whether they realize how deep it is or not.  That's because I'd rather see them step up to bat, swing and miss than sit in the dugout or never even show up to the game. 
+ Individual users don't bother me on this pont, but I'll be very straightforward when I say that reading some of self-published substacks people have submitted here is like listening to a symphony of alley cats fighting over an empty can of tuna, music playing out of tune, nails on a chalkboard or any other appropriate comparison.  Thankfully few users here have ever conducted themselves in that way.
+
+### 98: [Rates in Denmark going up after restrictions lifted](https://old.reddit.com/r/CoronavirusIllinois/comments/suc5j9/rates_in_denmark_going_up_after_restrictions/), submitted on 2022-02-17 09:24:08+08:00.
+
+----- __98.1__ -----2022-02-17 10:01:26+08:00:
+
+I don't see how this is relevant to Illinois.
 
