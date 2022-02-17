@@ -81,7 +81,7 @@ RT Lingling Wei 魏玲灵<br>China's economic plan these days reads like a mas
 
 ### 17: [2022-01-14 08:18:35+08:00 推文](https://twitter.com/cnmediaproject/status/1481782762940268546)
 
-As the Covid lockdown in the city of Xi'an continues, one media observation site calls the colorful and inventive front-page designs of a local commercial newspaper “a light in the darkness, lighting the way for people in their fight against the epidemic.” <a href="https://chinamediaproject.org/2022/01/14/pining-for-paper-media/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/14/pining-for-paper-media/</a><br><img style src="https://pbs.twimg.com/media/FJBZhxaaIAYIQvy?format=jpg&name=orig" referrerpolicy="no-referrer">
+As the Covid lockdown in the city of Xi'an continues, one media observation site calls the colorful and inventive front-page designs of a local commercial newspaper “a light in the darkness, lighting the way for people in their fight against the epidemic.” <a href="https://chinamediaproject.org/2022/01/14/pining-for-paper-media/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/14/pining-for-paper-media/</a><br><img style="" src="https://pbs.twimg.com/media/FJBZhxaaIAYIQvy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-14 08:23:01+08:00 推文](https://twitter.com/cnmediaproject/status/1481783879745024008)
 
