@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-16
+date: 2022-02-17
 from: https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/
 layout: post
 tags:
@@ -132,4 +132,10 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 ----- __141.1__ -----2022-02-16 11:31:29+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
+### 142: [Tng mixes it up with another series](https://old.reddit.com/r/risa/comments/suitpp/tng_mixes_it_up_with_another_series/), submitted on 2022-02-17 15:16:19+08:00.
+
+----- __142.1__ -----2022-02-17 16:19:53+08:00:
+
+Quark.
 
