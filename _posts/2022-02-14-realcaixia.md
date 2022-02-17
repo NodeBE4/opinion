@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-17
+date: 2022-02-18
 from: https://twitter.com/realcaixia/status/1492904913931849729
 layout: post
 tags:
@@ -70,4 +70,12 @@ Re @tiankuizeng 以后我会写出来的。
 ### 14: [2022-02-17 08:26:37+08:00 推文](https://twitter.com/realcaixia/status/1494105972771540994)
 
 最近《议报》正组织文章，讨论由4万字长文《客观评价习近平》而引出的各种问题。<br>《议报》以文会友，欢迎有兴趣的朋友投稿加入这一话题，展开不同观点的交流、切磋和碰撞。期待碰撞产生火花，获得更多真知灼见。<br>特别推荐来稿之二：<br>韩连潮：习近平千秋功罪之我见 - 议报 <a href="https://yibaochina.com/?p=244889" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244889</a>
+
+### 15: [2022-02-18 00:47:59+08:00 推文](https://twitter.com/realcaixia/status/1494352939762204673)
+
+网友参与投票，这是很好的收集真实民意的路径。也是我们每个人参与公共事务并从中吸取思想营养、开阔我们视野的好机会。<br><br>自由亚洲电台: 《#丰县 #铁链女 悲剧，谁是罪魁祸首？》民调既出，一呼百应。同时，有网友批评问卷设置不尽合理。小编感谢指正，根据民意调整选项。烦请大家再投一次票，谢谢🙏<br>
+
+### 16: [2022-02-18 02:13:58+08:00 推文](https://twitter.com/realcaixia/status/1494374579111870470)
+
+徐州成了人间地狱。<br><br>鲁  难: 又是徐州。愤怒！<br><br><video src="https://video.twimg.com/ext_tw_video/1494156836227928064/pu/vid/704x848/D4FbjL-allwAckHy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1494156836227928064/pu/img/59EVV5fLQa5rRHMW.jpg"></video>
 
