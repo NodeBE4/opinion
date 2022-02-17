@@ -55,5 +55,5 @@ Read Eric Merkley, Assistant Professor of Political Science at the University of
 
 ----- __126.1__ -----2022-02-18 01:26:54+08:00:
 
-\[SS\] Watch a discussion of Russian cyber tactics in Ukraine, from Foreign Affairs' January/February issue launch event
+\[SS\] Watch a discussion of Russian cyber tactics in Ukraine, from Foreign Affairs' January/February issue launch event.
 

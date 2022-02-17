@@ -63,3 +63,11 @@ RT Mark Dreyer<br>OK, so this is a good one...<br><br>Remember how China made 
 
 RT Kevin Schoenmakers 宋楷文<br>The person who tweeted the collage of female Asian journalists had his account suspended for violating Twitter’s rules<br><img style="" src="https://pbs.twimg.com/media/FLv-OG0XIAANeCP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 13: [2022-02-17 15:49:38+08:00 推文](https://twitter.com/cnmediaproject/status/1494217460702380037)
+
+A high-level directive issued by Xi Jinping on the outbreak in Hong Kong has been headline news inside the SAR. But the odd question about these “important instructions”: Why have they not appeared at all in the mainland Chinese media? <a href="https://chinamediaproject.org/2022/02/17/for-hong-kong-important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/17/for-hong-kong-important-instructions/</a><br><img style="" src="https://pbs.twimg.com/media/FLyGac9aMAACF6w?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-02-17 15:56:13+08:00 推文](https://twitter.com/cnmediaproject/status/1494219118618488837)
+
+Re As we explain in our CMP Dictionary, “important instructions” denotes a specific decision-making act at the highest levels of the Chinese Communist Party. In the Xi Jinping era, the phrase is now exclusive to Xi -- and generally big news. <a href="https://chinamediaproject.org/the_ccp_dictionary/important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/important-instructions/</a><br><img style="" src="https://pbs.twimg.com/media/FLyIWhxaAAA3kDP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
