@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-17
+date: 2022-02-18
 from: https://old.reddit.com/r/europe/comments/srqlia/ukrainerussia_conflict_megathread_4/
 layout: post
 tags:
@@ -50,4 +50,10 @@ Read Eric Merkley, Assistant Professor of Political Science at the University of
 \[SS from the article by Samuel Ramani, Tutor of Politics and International Relations at the University of Oxford\]
 
 "Russia’s indiscriminate arms sales fuel conflict, its shadowy commercial deals empower kleptocracy, and its autocratic bent undermines democracy. Nor is the flurry of activity good news for the United States and its allies, which are seeing their soft power in Africa dissipate. To counter the Kremlin’s influence, then, the West needs to turn its attention to the continent once more—without turning Africa into an arena for great-power competition."
+
+### 126: [Russia's Cyber Tactics in a Potential Ukraine Invasion](https://old.reddit.com/r/UkrainianConflict/comments/suu7d6/russias_cyber_tactics_in_a_potential_ukraine/), submitted on 2022-02-18 01:26:31+08:00.
+
+----- __126.1__ -----2022-02-18 01:26:54+08:00:
+
+\[SS\] Watch a discussion of Russian cyber tactics in Ukraine, from Foreign Affairs' January/February issue launch event
 
