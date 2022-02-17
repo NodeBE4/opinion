@@ -53,7 +53,7 @@ Updated content restrictions for short video platforms in China add a few politi
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
