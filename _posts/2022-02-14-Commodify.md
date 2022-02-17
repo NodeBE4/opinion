@@ -81,6 +81,12 @@ The difference between the rare miracle economies and the mass of disappointment
 
 MITI and the Japanese Boom is the shortest overview of the value climbing strategy but it’s still pretty long.
 
+----- __83.3__ -----2022-02-17 22:09:07+08:00:
+
+Good question and no - for a long time China’s growth was also FDI fueled. The government simply applied the same model there - they gave foreign firms competitive advantages if their investments were strategic, shut out other investments, and wrote laws to ensure the money those firms made would stay in China and be invested in the next rung of strategic sectors.
+
+EU countries are in a tough spot because they’re forbidden from enacting laws like those. Eurozone countries have the advantage of being immune to currency crises (unless the entire Eurozone crashes and burns) but peg maintaining countries still have that problem, and use their foreign currency reserves to maintain the peg. The advantages your country has are that investment by other EU countries is easier to conduct and many young people probably moved to Western Europe where they send remittances home - that brings a measure of economic stability.
+
 ### 84: [How did the French approach counter-insurgency in the Sahel as compared to Americans in Afghanistan? What were the doctrinal, material, and geographical factors that impacted these choices?](https://old.reddit.com/r/WarCollege/comments/su34zc/how_did_the_french_approach_counterinsurgency_in/), submitted on 2022-02-17 02:46:37+08:00.
 
 ----- __84.1__ -----2022-02-17 05:16:47+08:00:
@@ -110,4 +116,10 @@ What were the differences?
 5. French generals were altogether more practical people. They realized the military problem was a speed problem - outrun the insurgents - and solved that problem. They did not waste time marveling at this or that new "COIN breakthrough" and left non-military details to the civilians at home and in the host country.
 
 The easiest way to understand any of these wars is to realize that state formation is a long process, and most states in the world are only half-formed. It involves a leader using a combination of coercion, assassination, warfare, bribery, and conspiracy to muscle central and local competitors out of the picture and acquire a monopoly on violence. It's an extremely complicated sport, and total victory often takes decades. Divide and conquer is the key to doing this "organically": the leader will remove one opponent at a time to avoid making war upon his entire country. American triumphalism and resources in the early 2000s all but guaranteed that it would try to "speedrun" state formation, and in the process made war upon everyone. France, in contrast, understood it was weaker and far more modest goals.
+
+----- __84.2__ -----2022-02-17 22:11:36+08:00:
+
+Of course they were invited.
+
+After the coup, France only suspended advisors and military cooperation for a month.
 

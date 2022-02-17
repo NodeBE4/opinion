@@ -149,3 +149,9 @@ I was a little apprehensive when heading out because apparently the bus did get 
 
 I did actually take [a photo of the back](https://imgur.com/mKKTYb2) but it seems to have failed to upload – but no visible damage there as far as I could tell.
 
+----- __143.3__ -----2022-02-17 22:16:44+08:00:
+
+(tagging in /u/HashiriyaR32)
+
+Nope, it's the same bus with the same number plate as when it started.
+
