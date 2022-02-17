@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-16
+date: 2022-02-17
 from: https://twitter.com/realcaixia/status/1492904913931849729
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re @tiankuizeng 以后我会写出来的。
 ### 13: [2022-02-16 23:11:15+08:00 推文](https://twitter.com/realcaixia/status/1493966208609226758)
 
 这是议报发布的第一篇德文翻译成中文的文章。文章回溯了中共长达数十年与国际奥委会的利益勾兑交易。翻译者为支持《议报》发展成长，为搭起华文世界与欧洲国家民众的沟通交流桥梁，付出了辛勤努力，我们《议报》编辑部团队深深地感谢这位翻译者。<br><br>【译丛】肮脏的中国奥运—— <a href="https://yibaochina.com/?p=244896" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244896</a>
+
+### 14: [2022-02-17 08:26:37+08:00 推文](https://twitter.com/realcaixia/status/1494105972771540994)
+
+最近《议报》正组织文章，讨论由4万字长文《客观评价习近平》而引出的各种问题。<br>《议报》以文会友，欢迎有兴趣的朋友投稿加入这一话题，展开不同观点的交流、切磋和碰撞。期待碰撞产生火花，获得更多真知灼见。<br>特别推荐来稿之二：<br>韩连潮：习近平千秋功罪之我见 - 议报 <a href="https://yibaochina.com/?p=244889" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244889</a>
 

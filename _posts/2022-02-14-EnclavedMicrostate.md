@@ -145,3 +145,7 @@ Quark.
 
 I was a little apprehensive when heading out because apparently the bus did get vandalised a few days ago, but if it was it's been patched up very convincingly!
 
+----- __143.2__ -----2022-02-17 20:53:10+08:00:
+
+I did actually take [a photo of the back](https://imgur.com/mKKTYb2) but it seems to have failed to upload – but no visible damage there as far as I could tell.
+
