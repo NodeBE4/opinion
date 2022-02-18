@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-02-18
+date: 2022-02-19
 from: https://twitter.com/nathanlawkc/status/1493178181003657216
 layout: post
 tags:
@@ -28,4 +28,8 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 ### 3: [2022-02-18 23:39:33+08:00 推文](https://twitter.com/nathanlawkc/status/1494698109036867586)
 
 Re "...I think I shouldn’t say too much about it, because we still have a squad in China,"<br><br>"The Olympics is a lot, it’s a fantastic sporting event where you unite the world and nations meet. But so did Hitler before invading Poland, and so did Russia before invading Ukraine.
+
+### 4: [2022-02-19 06:54:46+08:00 推文](https://twitter.com/nathanlawkc/status/1494807631583748105)
+
+As a free and independent country, #Ukraine has the autonomy to decide its future and allies. The right to self-determination is also what we #Hongkongers are fighting for. If dictators like Putin advanced and launched a war to get what they want, Xi will be the next to move.<br><img style="" src="https://pbs.twimg.com/media/FL6fgtdXEAQaYBV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
