@@ -87,3 +87,7 @@ New in the CMP Dictionary: "colonized" (殖人) is applied by online nationalist
 
 As some voices blame Hong Kong's failures to deal with Omicron on "officials overly influenced by the West" <a href="https://nyti.ms/3rYTvlj" target="_blank" rel="noopener noreferrer">https://nyti.ms/3rYTvlj</a> <a href="https://bit.ly/3I35PXf" target="_blank" rel="noopener noreferrer">https://bit.ly/3I35PXf</a>
 
+### 19: [2022-02-18 17:29:18+08:00 推文](https://twitter.com/cnmediaproject/status/1494604928727552002)
+
+The Winter Olympics will finish this weekend. Don't miss Stella Chen's "Fluff Diplomacy," about the important role played by mascot Bing Dwen Dwen as a source of fluff news to promote positive reporting. <a href="https://chinamediaproject.org/2022/02/15/fluff-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/15/fluff-diplomacy/</a><br><img style="" src="https://pbs.twimg.com/media/FL3nOnVaAAM-Gdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
