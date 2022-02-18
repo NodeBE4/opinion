@@ -92,6 +92,10 @@ On assuming users have knowledge, I tend to give people the chance to wade into 
 
 Don’t know what that is.
 
+----- __97.3__ -----2022-02-18 11:35:48+08:00:
+
+We filter all substacks by default, so that's why that got removed.  It would require manual approval, on a case by case basis.  Without reference to what you have linked, we have seen so many substacks that are self-published by crackpots and tin-foil hat types.  To not take a forward-looking approach in this way would be negligence on our part.
+
 ### 98: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
 ----- __98.1__ -----2022-02-17 12:50:34+08:00:
