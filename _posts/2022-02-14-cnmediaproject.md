@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-17
+date: 2022-02-18
 from: https://twitter.com/Changxche/status/1493044418475134977
 layout: post
 tags:
@@ -70,4 +70,8 @@ A high-level directive issued by Xi Jinping on the outbreak in Hong Kong has bee
 ### 14: [2022-02-17 15:56:13+08:00 推文](https://twitter.com/cnmediaproject/status/1494219118618488837)
 
 Re As we explain in our CMP Dictionary, “important instructions” denotes a specific decision-making act at the highest levels of the Chinese Communist Party. In the Xi Jinping era, the phrase is now exclusive to Xi -- and generally big news. <a href="https://chinamediaproject.org/the_ccp_dictionary/important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/important-instructions/</a><br><img style="" src="https://pbs.twimg.com/media/FLyIWhxaAAA3kDP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-02-18 08:48:09+08:00 推文](https://twitter.com/cnmediaproject/status/1494473777182568448)
+
+Our latest in the CMP Dictionary: "main melody" (主旋律), a term describing activity in the cultural sphere, that sticks to the main political line of the CCP, ensuring the Party’s voice is dominant and leads the chorus. <a href="https://chinamediaproject.org/the_ccp_dictionary/main-melody/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/main-melody/</a><br><img style="" src="https://pbs.twimg.com/media/FL1v6gPaUAANbAR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

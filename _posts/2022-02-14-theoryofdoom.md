@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-17
+date: 2022-02-18
 from: https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/
 layout: post
 tags:
@@ -105,4 +105,10 @@ Rural upstate NY is beautiful.  I have no use for the city, either.  But if I ha
 ----- __99.1__ -----2022-02-17 10:01:26+08:00:
 
 I don't see how this is relevant to Illinois.
+
+### 100: [Judge Grischow sets CPS hearing: 'Show cause as to why the Defendants should not be held in contempt’](https://old.reddit.com/r/CoronavirusIllinois/comments/sv1pb3/judge_grischow_sets_cps_hearing_show_cause_as_to/), submitted on 2022-02-18 06:47:38+08:00.
+
+----- __100.1__ -----2022-02-18 08:13:43+08:00:
+
+This low-effort noise adds no value whatsoever to the discussion.
 
