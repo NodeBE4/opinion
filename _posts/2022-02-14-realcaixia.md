@@ -79,3 +79,7 @@ Re @tiankuizeng 以后我会写出来的。
 
 徐州成了人间地狱。<br><br>鲁  难: 又是徐州。愤怒！<br><br><video src="https://video.twimg.com/ext_tw_video/1494156836227928064/pu/vid/704x848/D4FbjL-allwAckHy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1494156836227928064/pu/img/59EVV5fLQa5rRHMW.jpg"></video>
 
+### 17: [2022-02-18 07:57:21+08:00 推文](https://twitter.com/realcaixia/status/1494460995703554052)
+
+《客观评价习近平》一文引起很大反响，为从各个不同角度观察分析习近平十年治下状况，拓展出很大的议论空间。<br><br>《议报》组稿就这些问题展开讨论，不仅仅是评价习而且是观察分析未来中共党与中国大陆的可能走势。<br><br>特别推荐《议报》组稿的第三篇文章：<br><br>《议报》: 言羽：习政下的民意迷思<br> <a href="https://yibaochina.com/?p=244893" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244893</a>
+
