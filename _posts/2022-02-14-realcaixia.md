@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-18
+date: 2022-02-19
 from: https://twitter.com/realcaixia/status/1492904913931849729
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re @tiankuizeng 以后我会写出来的。
 ### 21: [2022-02-18 22:33:16+08:00 推文](https://twitter.com/realcaixia/status/1494681424863150082)
 
 我将就2018习非法修宪写一短文，以弥补我的罪错！当时中央党校专门打电话禁止我公开发表反对修宪的意见。迫于“中央精神”四字，当时我还是中共党员，迫于党纪，我只在电话里大骂了40分钟出气，但终究还是妥协了。当时全党只有李大同发表了公开信反对修宪。随后，李大同家门外就有了警察每天“陪伴”。<br><br>荣剑: 值得重视的一篇文章。<br><br><img style="" src="https://pbs.twimg.com/media/FL4DQSJVgAEr39Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-02-19 02:03:24+08:00 推文](https://twitter.com/realcaixia/status/1494734307864289280)
+
+若从中共党章与习近平宣称的“人民至上”说，徐州锁链女及所有被贩卖女性悲惨境遇的现实存在，不仅是对他们的莫大讽刺，而且将制度之罪恶组织之罪恶，赤裸裸地暴露在光天化日之下。让全世界特别是自由民主国家的所有人看看：这就是他们宣称的中国特色社会主义制度优越性！<br><br>章立凡 Zhang Lifan: 还有一个区别：白毛女是革命浪漫主义作品人物，铁链女是革命现实主义人物。<br><br>＃转【白毛女与铁链女的区别……】<br><br><img style="" src="https://pbs.twimg.com/media/FL1vP50XoAEyvbl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
