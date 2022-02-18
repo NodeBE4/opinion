@@ -79,3 +79,11 @@ Our latest in the CMP Dictionary: "main melody" (主旋律), a term describing a
 
 RT Sense Hofstede<br>Re China-EU relations: Xi, Macron phone call ‘will help ease friction’ that stalled investment deal, claim Chinese analysts [without much basis for such optimism] – SCMP <a href="https://www.scmp.com/economy/china-economy/article/3167427/china-eu-relations-xi-macron-phone-call-will-help-ease?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3167427" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3167427/china-eu-relations-xi-macron-phone-call-will-help-ease?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3167427</a>
 
+### 17: [2022-02-18 13:19:21+08:00 推文](https://twitter.com/cnmediaproject/status/1494542027425726467)
+
+New in the CMP Dictionary: "colonized" (殖人) is applied by online nationalists to attack individuals seen as having been seduced by Western culture and values, particularly on democracy and human rights. <a href="https://chinamediaproject.org/the_ccp_dictionary/colonized/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/colonized/</a><br><img style="" src="https://pbs.twimg.com/media/FL2uBxVaUAE7mRv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-02-18 14:16:50+08:00 推文](https://twitter.com/cnmediaproject/status/1494556494364577792)
+
+As some voices blame Hong Kong's failures to deal with Omicron on "officials overly influenced by the West" <a href="https://nyti.ms/3rYTvlj" target="_blank" rel="noopener noreferrer">https://nyti.ms/3rYTvlj</a> <a href="https://bit.ly/3I35PXf" target="_blank" rel="noopener noreferrer">https://bit.ly/3I35PXf</a>
+

@@ -83,3 +83,11 @@ Re @tiankuizeng 以后我会写出来的。
 
 《客观评价习近平》一文引起很大反响，为从各个不同角度观察分析习近平十年治下状况，拓展出很大的议论空间。<br><br>《议报》组稿就这些问题展开讨论，不仅仅是评价习而且是观察分析未来中共党与中国大陆的可能走势。<br><br>特别推荐《议报》组稿的第三篇文章：<br><br>《议报》: 言羽：习政下的民意迷思<br> <a href="https://yibaochina.com/?p=244893" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244893</a>
 
+### 18: [2022-02-18 11:03:25+08:00 推文](https://twitter.com/realcaixia/status/1494507821777440772)
+
+徐州鎖鏈女如此悲慘，制度惡是最根本最首要最關鍵的因素。江蘇省組織調查組，固然是好事，但不能指望他們完全說真話。只有改變制度，保障言論自由新聞自由，人们能公開揭露所有罪恶，才可能不再有鎖鍊女第二、第三、第四⋯⋯，我们所有人才能安全地生活。<br>特别推荐： <a href="https://yibaochina.com/?p=244930" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244930</a>
+
+### 19: [2022-02-18 11:44:55+08:00 推文](https://twitter.com/realcaixia/status/1494518261907701760)
+
+王维洛先生系列文章，揭开2021年郑州“水灾”真相，很值得我们细读。在极权制度下，所谓天灾，相当大部分实际是人祸，而以“天灾”之名掩盖人祸，又是极权制度的本能做法。<br>特别推荐：<br><br>《议报》: 王维洛：郑州水灾真相难以掩盖（之四）<br> <a href="https://yibaochina.com/?p=244847" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244847</a>
+
