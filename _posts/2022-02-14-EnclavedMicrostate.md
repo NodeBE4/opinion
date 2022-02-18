@@ -155,3 +155,7 @@ I did actually take [a photo of the back](https://imgur.com/mKKTYb2) but it seem
 
 Nope, it's the same bus with the same number plate as when it started.
 
+----- __143.4__ -----2022-02-18 12:13:27+08:00:
+
+For some, maybe. Not here, at least not badly enough to stop the Rushia bus.
+

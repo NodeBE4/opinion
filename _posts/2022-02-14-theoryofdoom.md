@@ -110,9 +110,45 @@ Rural upstate NY is beautiful.  I have no use for the city, either.  But if I ha
 
 I don't see how this is relevant to Illinois.
 
-### 100: [Judge Grischow sets CPS hearing: 'Show cause as to why the Defendants should not be held in contempt’](https://old.reddit.com/r/CoronavirusIllinois/comments/sv1pb3/judge_grischow_sets_cps_hearing_show_cause_as_to/), submitted on 2022-02-18 06:47:38+08:00.
+### 100: [Unofficial Daily Update for 2022-02-17. 2538 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/suv4v1/unofficial_daily_update_for_20220217_2538_new/), submitted on 2022-02-18 02:05:04+08:00.
 
------ __100.1__ -----2022-02-18 08:13:43+08:00:
+----- __100.1__ -----2022-02-18 12:00:50+08:00:
+
+> paid sick and universal healthcare
+
+Universal health care is something democrats talk about but never follow through on.  They never will, because at the end of the day they do not care about universal health care.  The political costs to them would be too high, which is why Obamacare looks the way it does.  
+
+The way it works for the most part now is that the federal reimbursement schedules for medicare/medicaid set the baseline for pricing.  If you're in the medicare pool, then you might have a supplemental plan for charges in excess of that.  If you're not, then there's a good chance that whatever unrecovered costs private facilities incur will be indirectly passed off to insureds with private commercial coverage.  Really, that's just a function of basic economics.  
+
+Underinsured or uninsured (yes, even post-mandated Obamacare) seek medical treatment.  It's usually emergency medical care.  Because of federal and often state laws, you can't deny medical care based on lack of ability to pay.  As a result, services are rendered but never paid for.  While some margin of that may be reimbursed by government under certain circumstances, in the big picture it means that a lot of money is lost because bills are never paid.  Sometimes third parties buy the right to collect that debt, but its sold for pennies on the dollar.
+
+A long long time ago I proposed the radical idea of creating consolidated involuntary risk pools, wherein all taxpayers would automatically receive minimal coverage and requiring hospitals to accept payment for services rendered according to the medicaid reimbursement schedule.  I suggested that this be taken out of payroll taxes and administered by the IRS, as opposed to the clusterfuck that is HHS.  I suggested requiring private health insurers to bear a proportional amount of all such involuntary risk pools based on their relative market share in the localities in which they operated (similar to other involuntary risk pools), as a condition to their writing supplemental policies.
+
+I suggested that all of these should be administered as PPO as opposed to HMO plans, that no deductible for the underlying policy should apply to anyone and prescription drug coverage along the lines of Medicare Part D should be universal.  I further projected that by doing this, administrative costs would be acutely reduced from the obnoxiously bloated figure they represent in the status quo and taxpayers would wind up saving money once all factors were considered.  
+
+The point was to fix all the loose ends, left open by the Heritage Foundation's model for what would eventually become "Romneycare" in Massachusetts.  Basically, by tweaking how risk is borne and by whom, spreading it out across working populations and doing so under circumstances where collection was a lot more likely, everyone is better off.  Hospitals get paid and keep the lights on without passing off uncollected costs to insureds with private commercial coverage; private commercial coverage becomes more efficient and more profitable if done at scale (so, BCBS and just a few others were really the only players who could still operate); and importantly, access to health care would be universalized.  
+
+The big problem is supply.  If you provide non-illusory coverage at that scale, that would reduce financial barriers to entry to a degree that it would actually overwhelm hospitals even in a non-pandemic situation.  So more hospitals, more outpatient facilities and more point-of-care staff would be needed.  There aren't enough doctors in the country, same for nurses, surgeons and all the others.  I think there were solutions, but it didn't matter.  
+
+Obamacare dodged the problem, if you were curious.  Basically, by opting to put illusory (bronze) of cost-prohibitive  (gold) policies on its "exchanges" --- the stupidest idea in history --- Obamacare throttled access.  It is true that "coverage" was expanded to something like 40 million people, but the overwhelming majority of them were sold policies with monthly premiums higher than their car payments with deductibles they'd never meet, on HMO plans that required them to travel sometimes up to 50 miles for an in-network provider who graduated at the bottom of their class in medical school.  
+
+Medical bills remain the most common cause of bankruptcy, if you were curious.  Obamacare was a snare and a delusion.  An appropriate analogy could be drawn to racketeering, wherein the mob (shithole insurance companies) demanded payment of "protection money" from the most economically vulnerable Americans in the unfortunate case that "something bad was to happen to this nice place they had."   Tony Soprano's business model is more ethical than that.  
+
+My proposal would basically force shithole insurers like Ambetter and others that offer illusory coverage to unwitting and poor customers out of the market and out of business --- which, mind you, was the whole point.  
+
+So it was dead on arrival.  And that was the last time I ever did consulting work.
+
+### 101: [Judge Grischow sets CPS hearing: 'Show cause as to why the Defendants should not be held in contempt’](https://old.reddit.com/r/CoronavirusIllinois/comments/sv1pb3/judge_grischow_sets_cps_hearing_show_cause_as_to/), submitted on 2022-02-18 06:47:38+08:00.
+
+----- __101.1__ -----2022-02-18 08:13:43+08:00:
 
 This low-effort noise adds no value whatsoever to the discussion.
+
+----- __101.2__ -----2022-02-18 12:36:30+08:00:
+
+> I wonder if he’s actually going to show up
+
+Defying a court order carries the risk of confrontation with the police.  He'd be a fool to ignore it.  Like, an actual fool.  A warrant would be issued for his arrest.  He would be arrested, transferred to the jurisdiction from which the warrant was issued and physically brought to the Court to explain his actions.  He would be found in contempt of the Court, almost certainly fined and possibly censured.  
+
+Last thing you want to do is add process crimes, when acting in your official capacity.
 

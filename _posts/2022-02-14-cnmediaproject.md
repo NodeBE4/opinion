@@ -75,3 +75,7 @@ Re As we explain in our CMP Dictionary, “important instructions” denotes a s
 
 Our latest in the CMP Dictionary: "main melody" (主旋律), a term describing activity in the cultural sphere, that sticks to the main political line of the CCP, ensuring the Party’s voice is dominant and leads the chorus. <a href="https://chinamediaproject.org/the_ccp_dictionary/main-melody/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/main-melody/</a><br><img style="" src="https://pbs.twimg.com/media/FL1v6gPaUAANbAR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 16: [2022-02-18 09:48:43+08:00 推文](https://twitter.com/sehof/status/1494489020151496706)
+
+RT Sense Hofstede<br>Re China-EU relations: Xi, Macron phone call ‘will help ease friction’ that stalled investment deal, claim Chinese analysts [without much basis for such optimism] – SCMP <a href="https://www.scmp.com/economy/china-economy/article/3167427/china-eu-relations-xi-macron-phone-call-will-help-ease?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3167427" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3167427/china-eu-relations-xi-macron-phone-call-will-help-ease?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3167427</a>
+
