@@ -69,7 +69,7 @@ Re The book's publication is big news, right? And editors would freely choose to
 
 ### 14: [2021-12-08 08:24:04+08:00 推文](https://twitter.com/cnmediaproject/status/1468375793504239616)
 
-Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style="" src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in Tianjin. Only different with People's Daily is placement of a horizontal headline on the 35th collective study session of the Politburo.<br><img style src="https://pbs.twimg.com/media/FGC3WlHUcAEq1nX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
@@ -129,7 +129,7 @@ Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
-Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
@@ -153,7 +153,7 @@ Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted t
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
-Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
@@ -165,7 +165,7 @@ Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Da
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
