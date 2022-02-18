@@ -103,3 +103,7 @@ Re @tiankuizeng 以后我会写出来的。
 
 若从中共党章与习近平宣称的“人民至上”说，徐州锁链女及所有被贩卖女性悲惨境遇的现实存在，不仅是对他们的莫大讽刺，而且将制度之罪恶组织之罪恶，赤裸裸地暴露在光天化日之下。让全世界特别是自由民主国家的所有人看看：这就是他们宣称的中国特色社会主义制度优越性！<br><br>章立凡 Zhang Lifan: 还有一个区别：白毛女是革命浪漫主义作品人物，铁链女是革命现实主义人物。<br><br>＃转【白毛女与铁链女的区别……】<br><br><img style="" src="https://pbs.twimg.com/media/FL1vP50XoAEyvbl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 23: [2022-02-19 05:21:37+08:00 推文](https://twitter.com/realcaixia/status/1494784191468384258)
+
+特别推荐：<br>这是《议报》组稿讨论由《客观评价习近平》一文而生发的各种问题探讨第四篇文章。<br>这篇文章集中讨论“习近平连任是否具有人心基础”这个重要问题。<br>文章最后提出更进一层问题：习下台后，应开启宪政民主才能救中国！<br>文建：也说换习一一兼评《客观评价习近平》一文 <a href="https://yibaochina.com/?p=244944" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244944</a>
+

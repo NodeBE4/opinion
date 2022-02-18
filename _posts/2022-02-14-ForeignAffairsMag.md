@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-18
+date: 2022-02-19
 from: https://old.reddit.com/r/europe/comments/srqlia/ukrainerussia_conflict_megathread_4/
 layout: post
 tags:
@@ -76,4 +76,14 @@ Read Eric Merkley, Assistant Professor of Political Science at the University of
 \[SS from the article by Liana Fix and Michael Kimmage\]
 
 "If Russia gains control of Ukraine or manages to destabilize it on a major scale, a new era for the United States and for Europe will begin. U.S. and European leaders would face the dual challenge of rethinking European security and of not being drawn into a larger war with Russia. All sides would have to consider the potential of nuclear-armed adversaries in direct confrontation. These two responsibilities—robustly defending European peace and prudently avoiding military escalation with Russia—will not necessarily be compatible. The United States and its allies could find themselves deeply unprepared for the task of having to create a new European security order as a result of Russia’s military actions in Ukraine."
+
+### 129: [Africa’s Fossil-Fuel Trap](https://old.reddit.com/r/TrueReddit/comments/svs2el/africas_fossilfuel_trap/), submitted on 2022-02-19 04:50:05+08:00.
+
+----- __129.1__ -----2022-02-19 04:51:13+08:00:
+
+\[SS from the article by Nnimmo Bassey and Anabela Lemos\]
+
+“Decades of fossil fuel development have failed to deliver energy to much of Africa and have built economic models dependent on extraction that have deepened inequality, caused environmental damage, stoked corruption, and encouraged political repression.”
+
+Western-backed fossil fuel investments have done serious harm across Africa. Financing renewable energy projects is a much better way for international investors to help the continent meet its energy needs, argue Nnimmo Bassey and Anabela Lemos.
 
