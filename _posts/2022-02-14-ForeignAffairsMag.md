@@ -19,6 +19,10 @@ title: ForeignAffairsMag在2022-02-14~2022-02-20的言论
 
 ["Putin Cannot Erase Ukraine: No Russian Invasion Can Undo Ukrainian Nationhood" By Maria Popova and Oxana Shevel](https://www.foreignaffairs.com/articles/ukraine/2022-02-17/putin-cannot-erase-ukraine)
 
+----- __121.2__ -----2022-02-18 22:22:24+08:00:
+
+[What If Russia Wins?: A Kremlin-Controlled Ukraine Would Transform Europe by Liana Fix and Michael Kimmage](https://www.foreignaffairs.com/articles/ukraine/2022-02-18/what-if-russia-wins)
+
 ### 122: [Enemies of My Enemy: How Fear of China Is Forging a New World Order](https://old.reddit.com/r/geopolitics/comments/sse3sr/enemies_of_my_enemy_how_fear_of_china_is_forging/), submitted on 2022-02-15 00:05:27+08:00.
 
 ----- __122.1__ -----2022-02-15 00:06:11+08:00:
@@ -56,4 +60,12 @@ Read Eric Merkley, Assistant Professor of Political Science at the University of
 ----- __126.1__ -----2022-02-18 01:26:54+08:00:
 
 \[SS\] Watch a discussion of Russian cyber tactics in Ukraine, from Foreign Affairs' January/February issue launch event.
+
+### 127: [Africa's Fossil-Fuel Trap](https://old.reddit.com/r/Africa/comments/svipzm/africas_fossilfuel_trap/), submitted on 2022-02-18 22:03:30+08:00.
+
+----- __127.1__ -----2022-02-18 22:04:35+08:00:
+
+\[SS from the article by Nnimmo Bassey, Director of the Health of Mother Earth Foundation, and Anabela Lemos, Director and a founding member of Justiça Ambiental\]
+
+"By continuing to finance gas expansion in Africa, outside investors are in fact displacing renewables, delaying Africa’s energy transition, and making it harder for countries to decarbonize and escape a harmful extractive economic model. Investments in renewable energy would produce an economic model that is cheaper, more reliable, and more democratic. Africa need not be seen as a site of destitution and need. It is a continent with rich knowledge, practices, and potential for establishing ecologically sound socioeconomic systems—ones that don’t replicate the mistakes made by so many others in the past century."
 
