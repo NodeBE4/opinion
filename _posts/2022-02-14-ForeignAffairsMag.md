@@ -69,3 +69,11 @@ Read Eric Merkley, Assistant Professor of Political Science at the University of
 
 "By continuing to finance gas expansion in Africa, outside investors are in fact displacing renewables, delaying Africa’s energy transition, and making it harder for countries to decarbonize and escape a harmful extractive economic model. Investments in renewable energy would produce an economic model that is cheaper, more reliable, and more democratic. Africa need not be seen as a site of destitution and need. It is a continent with rich knowledge, practices, and potential for establishing ecologically sound socioeconomic systems—ones that don’t replicate the mistakes made by so many others in the past century."
 
+### 128: [What if Russia Wins?: A Kremlin-Controlled Ukraine Would Transform Europe](https://old.reddit.com/r/geopolitics/comments/svjfgn/what_if_russia_wins_a_kremlincontrolled_ukraine/), submitted on 2022-02-18 22:36:10+08:00.
+
+----- __128.1__ -----2022-02-18 22:36:44+08:00:
+
+\[SS from the article by Liana Fix and Michael Kimmage\]
+
+"If Russia gains control of Ukraine or manages to destabilize it on a major scale, a new era for the United States and for Europe will begin. U.S. and European leaders would face the dual challenge of rethinking European security and of not being drawn into a larger war with Russia. All sides would have to consider the potential of nuclear-armed adversaries in direct confrontation. These two responsibilities—robustly defending European peace and prudently avoiding military escalation with Russia—will not necessarily be compatible. The United States and its allies could find themselves deeply unprepared for the task of having to create a new European security order as a result of Russia’s military actions in Ukraine."
+

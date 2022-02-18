@@ -91,3 +91,11 @@ Re @tiankuizeng 以后我会写出来的。
 
 王维洛先生系列文章，揭开2021年郑州“水灾”真相，很值得我们细读。在极权制度下，所谓天灾，相当大部分实际是人祸，而以“天灾”之名掩盖人祸，又是极权制度的本能做法。<br>特别推荐：<br><br>《议报》: 王维洛：郑州水灾真相难以掩盖（之四）<br> <a href="https://yibaochina.com/?p=244847" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244847</a>
 
+### 20: [2022-02-18 22:23:14+08:00 推文](https://twitter.com/realcaixia/status/1494678900923940864)
+
+昨晚我写推文时说别指望江苏调查组能全部说真话，我想的是：他们会在锁链女事件上说真话，但不会就此完全揭开丰县买卖、拘禁、性侵虐待残害被卖女子的黑幕。现在看，我还是把他们想得太好了，我以为锁链女能得救了。<br>原来他们出手是想“一锤定音”，彻底置锁链女于死地！他们的邪恶永远超出善良人的想象<br><br>骄傲女孩: 江苏高调成立调查组的行径果然不是调查问题去的，而是要彻底“一锤定音”的封杀：<br>1，他们已经安排了微博、微信公众号等各大平台的营销号，彻底否定“李莹”说，并说网上的那些图片进行了修复，不可信！<br>2，他们拿的是小花梅的DNA与李莹母亲做的比对，而并没有提取现在还在医院里李莹的DNA与李母进行比对，<br><br><img style="" src="https://pbs.twimg.com/media/FL4VFQ3XsAARtz6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL4VFQ7WUAcQ9XB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL4VFRRXwAE9G6p?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL4VFRMWUAAcilL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-02-18 22:33:16+08:00 推文](https://twitter.com/realcaixia/status/1494681424863150082)
+
+我将就2018习非法修宪写一短文，以弥补我的罪错！当时中央党校专门打电话禁止我公开发表反对修宪的意见。迫于“中央精神”四字，当时我还是中共党员，迫于党纪，我只在电话里大骂了40分钟出气，但终究还是妥协了。当时全党只有李大同发表了公开信反对修宪。随后，李大同家门外就有了警察每天“陪伴”。<br><br>荣剑: 值得重视的一篇文章。<br><br><img style="" src="https://pbs.twimg.com/media/FL4DQSJVgAEr39Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
