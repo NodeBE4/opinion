@@ -139,6 +139,46 @@ There is no evidence which will change the media's mind because they're not inde
 
 At the lay level, this is solely a political issue because lay people don't have the sophistication to recognize what's going on.  They only see what they're shown and nothing else.  Even for people that purport to have the ability to do things like read and review published literature interpreting the results of clinical trials, they're beginning from the position of how the public narrative was set by the media's initial reporting.  Hence, why your substack guy wrote about that retracted study out of egypt, first. I don't care about this level because whether a drug should or should not be approved has nothing to do with politics.  It's become a partisan issue because of the money that's on the line in this debate.  And there is a LOT of money on the line.
 
+----- __98.6__ -----2022-02-20 05:11:57+08:00:
+
+> So what's the end game here? Allowing ivermectin to be used for covid?
+
+Whether ivermectin is used by practitioners for any purpose isn't my call.  What I object to on a moral and philosophical level is the FDA, NIH and NIAID, or any other federal bureaucracy, interfering with the relationship people have with their doctors.  And that is what they have done, both directly (through their disinformation campaign related to ivermectin) and indirectly (through their efforts to influence the words that come out of other stakeholders mouths, retaliate against anyone who questions them and censor even the appearance of dissent).  That is not how science works and I object on an ethical level to how bastardized the process of scientific research has been.  This is the same playbook big tobacco used in the 60s to gaslight the american people and medical community with their paid whore "experts" into thinking there was ever any such thing as a "safe" cigarette.  Same method.  Different industry.  
+
+> What do you get out of Ivermectin being "validated"?
+
+I have no dog in this fight, beyond the extent to which on an ethical level I object to monied interests engaging in anti-consumer and anti-competitive behavior.  If ivermectin (or any other, similar compound) can treat or prevent COVID, the fact that its patents are expired, can be produced at a global scale to meet demand and already manufactured by about 45 companies around the world is very good news.  That means that it's about twenty to forty-five cents per infection/person to cure.  
+
+Have you looked at what molnupirivir costs, for a round of treatment?  [The Intercept](https://theintercept.com/2021/10/05/covid-pill-drug-pricing-merck-ridgeback/) has:
+
+> Merck is charging the U.S. government $712 for the same amount of medicine . . . . 
+
+If something that costs a hand-full of change change can get you to the same destination as something that costs more than most people make in a week, don't you think it's reasonable that consumers should have a right to buy it?  Have you considered how much Merck stands to lose if that option exists?  That's about 711 reasons per person/round of treatment to distort the market.  
+
+> The main Coronavirus sub has a fairly large study that appears well done on their front page. Is that post stirring your feelings? I'm not trying to be mean here. 
+
+I don't follow that sub and I generally don't care what goes on there.  I likewise don't care what Reddit thinks about anything, beyond the extent to which I see people acting as the unwittingly useful idiots for interests they lack the sophistication to appreciate.  
+
+You can DM me the study/link if you want.  I may or may not read it.
+
+> What would make you reevaluate your take on ivermectin? 
+
+I'm not sure you understand what my take on it is.  My take is that Merck and Pfizer have no right to use the FDA, NIH and NIAID as their cat's paw to manipulate the market for their new protease inhibitors.  My ax to grind is that government regulators cannot ethically be in a position to profit from drugs they hold the ability to put on or keep off of the market, because they are not acting as independent evaluators but as parties with a vested financial interest.  There is nothing that would change my opinion on that, even despite the fact that I own stock in both of those companies. 
+
+> Reading my own words here sounds like an attack, which I don't mean for it to be. That's not my intention.
+
+I don't feel attacked. But I'm sure you might have, because of the way I write.  I know at least one other person who posted here has, because I am unknowingly condescending in the way I talk about things sometimes.  Some people are more sensitive than others. 
+
+> Can people let go of it? I've not seen that happen. And to be fair, I've not seen anyone convinced that it works by looking at evidence alone either.
+
+I don't know what people you're referring to.  But again, I don't care about Reddit.  I am not in a position to influence people's views here.  All I can do is say what I think, and why I think the way I do; and make sure that those in a position of power don't abuse that status to prevent others from doing the same. 
+
+If you've got more questions, ask away.  I am speaking on a personal level here, though, and not in my capacity as a mod.
+
+----- __98.7__ -----2022-02-20 05:26:09+08:00:
+
+Thank you, and yes I agree the level of big anything's influence is troubling.  Big tobacco.  Big oil.  Big pharma.  Big media.  The list goes on.
+
 ### 99: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
 ----- __99.1__ -----2022-02-17 12:50:34+08:00:

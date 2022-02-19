@@ -175,3 +175,15 @@ Re @qiwenhua2 @1019685343 @0FneLvAMJW0ZS4F 这些五毛粉红网军可怜到脑�
 
 近日，加拿大卡车司机抗议事件引发全球关注。民主国家，民选政府，本应更好地与民众沟通交流，以化解矛盾冲突。然而加拿大特鲁多总理表现出权力的傲慢，拒绝对话交流，事情发展到动用紧急权力强压抗议活动的地步。这会引发更严重的公民与政府的对立。<br>特别推出：李南央女士呼吁签名反对强制镇压。<br><img style="" src="https://pbs.twimg.com/media/FL-4TuQWUAAltCT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL-4T9zXwAMf9G-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL-4UZGXsAQEAsT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 41: [2022-02-20 04:53:09+08:00 推文](https://twitter.com/realcaixia/status/1495139414095417344)
+
+今天再推《议报》组稿第三篇《习政下的民意迷思》。<br>作者借用国际通用的“领导力资本指数”（LCI）衡量习的政治资本，就国内公众评价习执政做出辨析。<br>文章指出人心是一种力量，习近平的领导力资本量之低不足于支撑其谋取连任，并且人心是一种力量，可以预判领导人的政治命运。 <a href="https://yibaochina.com/?p=244893" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244893</a>
+
+### 42: [2022-02-20 05:02:53+08:00 推文](https://twitter.com/realcaixia/status/1495141866395865097)
+
+二十大前，围绕习连任之事各种讨论成为网上热点。这是《议报》组稿的第一篇文章，今天再推第二轮：<br>这篇文章回顾梳理了习近平是如何一步步摧毁中国经济活力，以中共国企央企垄断资源垄断市场，从而造成当下中国经济熄火的。<br>欢迎网友阅读和转发，让更多人了解大陆经济真相。 <a href="https://yibaochina.com/?p=244884" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244884</a>
+
+### 43: [2022-02-20 05:12:40+08:00 推文](https://twitter.com/realcaixia/status/1495144328271962121)
+
+白毛女是编的，铁链女是真的！有网友套用白毛女曲调编了铁链女控诉。呼吁大家都来转推，更多地传播出去。传播形成力量，关注就是支持。解救更多的还在暗无天日中的铁链女。<br><video src="https://video.twimg.com/ext_tw_video/1495144277323751434/pu/vid/640x480/yty5RzjL-R85YWu-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1495144277323751434/pu/img/NLhNXlgx4ZaiLkmN.jpg"></video>
+
