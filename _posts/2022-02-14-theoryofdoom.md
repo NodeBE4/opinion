@@ -187,9 +187,19 @@ As I said before, I'm just a guy on Reddit.  I am not in a position here to infl
 
 > If the trial you posted in this sub 
 
-What trial are you referring to?  And I'm just going to give you fair warning.  There is a limit to how willing I am to engage with someone who comes back and compares what I've said to "flat earther" nonsense.  
+What trial are you referring to?  And I'm just going to give you fair warning.  There is a limit to how willing I am to engage with someone who comes back and compares what I've said to "flat earther" nonsense.  Make no mistake on this point: I can play that game too, but it would be beneath me to do so in this setting.  Though perhaps you hold yourself to a different standard.
 
-Make no mistake on this point: I can play that game too, but it would be beneath me to do so in this setting.  Though perhaps you hold yourself to a different standard.
+While you reflect on that point, refer to the [article](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789362) published on JAMA linked at the reddit post you shared just now, and find citation no. [18](https://pubmed.ncbi.nlm.nih.gov/34318930/).  Compare it to the Cochrane Review I cited above, wherein you may be surprised to learn they are identical.  
+
+Meanwhile, and further to what I have said above, there is nothing surprising about that study's findings:
+
+> ivermectin treatment during early illness did not prevent progression to severe disease
+
+This concept is more easily understood by analogy, so I'll draw one to tamiflu, which I assume you have heard of.  The timing of when you start a course of treatment has a lot of bearing on its likelihood of success.  If you only start treatment at the outset of clinically significant symptoms, which is what they did in Malaysia, by that time the virus has replicated to the point that one should not expect to see significant (or even identifiable) responses.  
+
+This trial was the COVID-19 equivalent of giving tamiflu to those already hospitalized due to its infection.  I read the findings to suggest that their proposed dosing regimen administered at that point of significant symptomatic onset in the infection's progression is ineffective.   That means that what they tested --- administering in a hospital context --- bears little if any resemblance to how ivermectin is actually prescribed off label, in an outpatient setting before patients are even admitted . . . to prevent the infection from developing that far.  
+
+Prescribing to stop infection from progressing at the outset is what you logically should endeavor to test, based on the mechanisms of action seen in vitro.  Except that is not what they tested.  One wonders why.  If you are curious, the NIAID authorized a grant to test hydroxychloroquine in a similarly irrational way.  One also wonders why and how they decided to prescribe almost double the standard dose of ivermectin, when by their own admission the standard dose/regimen to treat parasitic infections likewise produced the most favorable outcomes.  See "DISCUSSION" section, 4th paragraph in your study; and citation nos. 27-34.  It's also curious how they selected patients for inclusion in the study: only the age group most likely to develop an acute immunologic response.
 
 ### 99: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
