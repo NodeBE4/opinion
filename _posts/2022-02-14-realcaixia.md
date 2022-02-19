@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-19
+date: 2022-02-20
 from: https://twitter.com/realcaixia/status/1492904913931849729
 layout: post
 tags:
@@ -162,4 +162,16 @@ Re 现在显示我转发的这篇推特文章依然被封。
 ### 37: [2022-02-19 23:01:19+08:00 推文](https://twitter.com/realcaixia/status/1495050873524957190)
 
 Re 我前一推转的推文被封杀了，我想办法搞到了被封杀短文的截图。特别再次推出这篇短文。
+
+### 38: [2022-02-20 02:44:56+08:00 推文](https://twitter.com/realcaixia/status/1495107147570495495)
+
+Re @gaoyu200812 @zhanglifan 这个叶檀实在是很不要脸了。
+
+### 39: [2022-02-20 02:53:28+08:00 推文](https://twitter.com/realcaixia/status/1495109294248845312)
+
+Re @qiwenhua2 @1019685343 @0FneLvAMJW0ZS4F 这些五毛粉红网军可怜到脑子里除了钱，什么都没有了！他们有人性吗？有最基本的同情心怜悯心吗？他们只把自己当挣五毛的工具。他们丧失了人该有的最基本底线。
+
+### 40: [2022-02-20 03:21:10+08:00 推文](https://twitter.com/realcaixia/status/1495116266096447493)
+
+近日，加拿大卡车司机抗议事件引发全球关注。民主国家，民选政府，本应更好地与民众沟通交流，以化解矛盾冲突。然而加拿大特鲁多总理表现出权力的傲慢，拒绝对话交流，事情发展到动用紧急权力强压抗议活动的地步。这会引发更严重的公民与政府的对立。<br>特别推出：李南央女士呼吁签名反对强制镇压。<br><img style="" src="https://pbs.twimg.com/media/FL-4TuQWUAAltCT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL-4T9zXwAMf9G-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL-4UZGXsAQEAsT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
