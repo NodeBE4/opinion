@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-18
+date: 2022-02-19
 from: https://old.reddit.com/r/stupidpol/comments/srng8q/joe_rogans_use_of_the_nword_is_another_january_6/
 layout: post
 tags:
@@ -195,4 +195,10 @@ That means that once you actually recover, you're almost certainly out of the bu
 Is it possible that something like delta will happen again?  Sure, but if it does it will not be to a virus-naive population.  That means the scope of those likely to get infected is a lot lower than it was with delta.  That means that both the number of cases and probability they result in hospitalizations is a LOT lower even before you start to factor in newly commercialized therapeutics (e.g., molnupirivir) approved by the FDA to treat COVID-19 infection in an outpatient setting.  That means that in the unlikely event of any future "surge," the way it's handled will be that you go to Walgreens and get a prescription.  And even if you do happen to get hospitalized despite the prescription therapeutics, you're going to get a regimen of treatment options that will get you out of the hospital a lot quicker than you could have hoped for in, say, early 2020.  
 
 The "public health" approach to COVID-19 is over.  Even if you accept the highly questionable evidence that mask *mandates* make any difference in community spread at face value, there is nothing to suggest their ongoing necessity in view of the fact that we are no-longer infection naive, and considering advances in both vaccines and therapeutics.  And more to the point, when a pandemic is "over" isn't really a public health question, either.  Rather, it's more of a political question that is informed by data points the field of public health suggests are relevant, measured against the general public's willingness to contend with whatever measures public health proposes.  When democrats line up against JB's mandates, you can see the answer to that question with little difficulty.
+
+### 103: [Pritzker to take school mask case to Illinois Supreme Court after ruling leaves masking up to local districts. More than 500 are mask optional; CPS staying the course.](https://old.reddit.com/r/CoronavirusIllinois/comments/svpkd5/pritzker_to_take_school_mask_case_to_illinois/), submitted on 2022-02-19 03:00:00+08:00.
+
+----- __103.1__ -----2022-02-19 12:52:52+08:00:
+
+Pritzker expects the Illinois Supreme Court to conclude the issue is moot, because it is.  This appeal is solely for the purpose of theatrics.
 

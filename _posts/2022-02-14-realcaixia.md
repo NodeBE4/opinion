@@ -107,3 +107,31 @@ Re @tiankuizeng 以后我会写出来的。
 
 特别推荐：<br>这是《议报》组稿讨论由《客观评价习近平》一文而生发的各种问题探讨第四篇文章。<br>这篇文章集中讨论“习近平连任是否具有人心基础”这个重要问题。<br>文章最后提出更进一层问题：习下台后，应开启宪政民主才能救中国！<br>文建：也说换习一一兼评《客观评价习近平》一文 <a href="https://yibaochina.com/?p=244944" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244944</a>
 
+### 24: [2022-02-19 05:51:01+08:00 推文](https://twitter.com/realcaixia/status/1494791589474058243)
+
+前几天有北京大学、人民大学、清华大学、武汉大学、四川大学、交通大学等校友联名发出公开信，今又有山东大学校友发出公开信。大陆的退伍老兵也发出了声音，呼吁营救锁链女，彻查这一事件，不能让战友的女儿遭如此劫难。锁链女牵动全社会的心。<br><br>鲁  难: 山东大学150名校友就铁链女事件发出公开信<br><br><img style="" src="https://pbs.twimg.com/media/FL6OPJvWYAYz4Mm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL6OPJvWYAEAyIT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-02-19 05:57:27+08:00 推文](https://twitter.com/realcaixia/status/1494793207732916228)
+
+Re 推特管理方是限制了我的推文流量？这推发出33分钟，仅有1677点击。大大低于以往。<br><img style="" src="https://pbs.twimg.com/media/FL6Sf06WUAAraSn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-02-19 06:08:57+08:00 推文](https://twitter.com/realcaixia/status/1494796103841103875)
+
+Re 33x60=1980，33分钟，1677次点击，平均1秒钟还没有1次点击。而推特是全球性社交平台，我现在的推特关注者数量是204075。
+
+### 27: [2022-02-19 06:13:29+08:00 推文](https://twitter.com/realcaixia/status/1494797244473790464)
+
+Re 这个推文。19分钟点击查看次数远超我上面这个推。<br><img style="" src="https://pbs.twimg.com/media/FL6WK8kXoAIqdDR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-02-19 07:13:10+08:00 推文](https://twitter.com/realcaixia/status/1494812263127162883)
+
+这是《议报》今天转发的又一个重磅文章。墙里这三位学者的争论发生在在2013年左右，最近墙里再度传开这个文章。为什么近9年前的文章最近再度流传？<br>——人心思变。<br>是革命还是改革？这是墙里朝野上下都回避不了的重大问题。<br><br>《议报》: 秦晖、朱学勤、荣剑：务虚三人谈：争议“告别革命”<br> <a href="https://yibaochina.com/?p=244955" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244955</a>
+
+### 29: [2022-02-19 08:09:28+08:00 推文](https://twitter.com/realcaixia/status/1494826431326654469)
+
+再推这篇文章。<br>这是《议报》讨论《客观评价习近平》这篇文章是的组稿之二。<br>这篇文章透露了大量习近平少年青年时期的生活，对他的早年经历与其上台后推行倒退反动的理念政策之间的内在关联作出了一定程度的分析。是一篇很有深度很有份量的文章。<br><br>韩连潮: 【千秋罪人习近平】我在 #议报 评习文章中写道，习的民族复兴梦和希特勒的民族复兴梦一样将把中国和世界推入万劫不复的战争深渊，让中国失去在民主制度下、在康德民主和平论基础上实现和平竞争、和平崛起、和平超越的机会，他会因此成为千秋罪人。文章链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FL4ZcPNXoAI2tT7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?p=244889" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244889</a>
+
+### 30: [2022-02-19 08:13:42+08:00 推文](https://twitter.com/realcaixia/status/1494827495627137030)
+
+许多参加冬奥会的外国运动员亲身经历并体验了低人权的中国清零防疫，对极权制度下的“中国特色”有了切身感受。习近平办冬奥会是成功耶？失败耶？<br><br>ZHANGDONG: 一位瑞典金牌得主说，由于中国政府糟糕的人权记录，在中国举办冬奥会是 "极其不负责任的"。<br>近日结束冬奥比赛返回德国的雪橇金牌得主也对媒体表示，出发前曾犹豫再三，对奥运会由侵犯人权的中国主办感到不解。此行去北京参加冬奥仅仅是为了完成任务，今后再也不会去中国了。<br> <a href="https://twitter.com/SariArhoHavren/status/1494679165408358401" target="_blank" rel="noopener noreferrer">https://twitter.com/SariArhoHavren/status/1494679165408358401</a>
+
