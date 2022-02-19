@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-02-19
+date: 2022-02-20
 from: https://twitter.com/nathanlawkc/status/1493178181003657216
 layout: post
 tags:
@@ -32,4 +32,8 @@ Re "...I think I shouldn’t say too much about it, because we still have a squa
 ### 4: [2022-02-19 06:54:46+08:00 推文](https://twitter.com/nathanlawkc/status/1494807631583748105)
 
 As a free and independent country, #Ukraine has the autonomy to decide its future and allies. The right to self-determination is also what we #Hongkongers are fighting for. If dictators like Putin advanced and launched a war to get what they want, Xi will be the next to move.<br><img style="" src="https://pbs.twimg.com/media/FL6fgtdXEAQaYBV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-02-20 02:27:37+08:00 推文](https://twitter.com/nathanlawkc/status/1495102792133869573)
+
+Cannot describe how excited I am to this important initiative. It means a lot to the diasporic Hongkongers community.<br>Stay tuned. Movies are coming to town.<br>#HKFFUK<br><br>Hong Kong Film Festival UK: Created by Hongkongers. Born in the UK. Serving the world.<br><br>We are ready to blow your mind. We are Hong Kong Film Festival (UK). <br><br>🎥1st HKFF(UK): Rupture and Rebirth - Fresh perspectives on the time of Hong Kong’s upheaval<br>🗓March 2022<br>#HKFFUK<br>#StayTuned<br><br><img style="" src="https://pbs.twimg.com/media/FL-qNmDVgAMWiam?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

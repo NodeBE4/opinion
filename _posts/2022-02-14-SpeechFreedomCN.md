@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-02-16
+date: 2022-02-19
 from: https://twitter.com/SpeechFreedomCN/status/1493768593422663680
 layout: post
 tags:
@@ -30,4 +30,12 @@ Guangxi man Lu punished by police for saying in a WeChat group chat that local p
 ### 4: [2022-02-16 19:37:44+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1493912475422580736)
 
 Guangxi man administratively detained for posting a video in WeChat. The video was his accusation of his former employer of wage denial, and had the National Anthem as background music. Police claimed the video insulted the National Anthem.<br><img style="" src="https://pbs.twimg.com/media/FLtwVzKXoAUXpCA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-02-19 13:27:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1494906340405350400)
+
+广西崇左市男子许某龙，在被交警处罚后在某论坛网站发帖称要起诉交警，并称交警“一定是有KPI指标……为了罚款而罚款……干着土匪的事情“。警方发现此贴时许某龙已在外地，遂通过电话让其删掉了帖子。通报中称此案仍在办理中，因此不清楚许某龙后续受到了什么处罚。<br><img style="" src="https://pbs.twimg.com/media/FL5W3-FXsAgJbrF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-02-19 13:34:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1494908102147076097)
+
+Guangxi man Xu, who received penalty from traffic police, threatened to sue them, saying in an online post that they must have KPI goals &amp; were bandits. Police then contacted him &amp; pressured him to delete it as he was in a different city. Subsequent punishment for him unknown.<br><img style="" src="https://pbs.twimg.com/media/FL5Z_7HX0Agu3-G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
