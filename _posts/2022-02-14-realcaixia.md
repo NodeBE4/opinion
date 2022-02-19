@@ -135,3 +135,31 @@ Re 这个推文。19分钟点击查看次数远超我上面这个推。<br><img 
 
 许多参加冬奥会的外国运动员亲身经历并体验了低人权的中国清零防疫，对极权制度下的“中国特色”有了切身感受。习近平办冬奥会是成功耶？失败耶？<br><br>ZHANGDONG: 一位瑞典金牌得主说，由于中国政府糟糕的人权记录，在中国举办冬奥会是 "极其不负责任的"。<br>近日结束冬奥比赛返回德国的雪橇金牌得主也对媒体表示，出发前曾犹豫再三，对奥运会由侵犯人权的中国主办感到不解。此行去北京参加冬奥仅仅是为了完成任务，今后再也不会去中国了。<br> <a href="https://twitter.com/SariArhoHavren/status/1494679165408358401" target="_blank" rel="noopener noreferrer">https://twitter.com/SariArhoHavren/status/1494679165408358401</a>
 
+### 31: [2022-02-19 22:26:57+08:00 推文](https://twitter.com/realcaixia/status/1495042225197264902)
+
+看看女监牢房里是如何虐待人的！<br>这类被虐经历关系到当事人的尊严，因而许多女士不会曝光这些情况，这就使非人虐待持续存在，甚至成了监狱里真正犯罪分子为虎作伥迫害正义人士的手段！<br>高度致敬去丰县因探望锁链女，而被当局以“寻衅滋事”罪名抓进看守所牢房的，网名为“我能抱起120斤”的勇敢女生！<br><br>安定医院郝不了大夫: 2月14日沛县公安局4位民警将我押到徐州看守所。之前我问他们，我们到底犯的是什么事？有什么证据？他们说是寻衅滋事罪。证据不需要给我看。我就不知道具体罪名内容是什么。送到看守所在办手续的时候，我忽然暼见旁边的“申请书”里写着案由：乌衣伙同拳拳利用互联网发布虚假视频造成恶劣影响。<br><br><img style="" src="https://pbs.twimg.com/media/FL8KbuTWUAYPUr1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL8KbuTWUAUCOte?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL8KbuUWYAAEjL6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 32: [2022-02-19 22:39:09+08:00 推文](https://twitter.com/realcaixia/status/1495045294697951237)
+
+Re 推特管理部门居然封了我转推的这篇短文。短文没有鼓吹暴力仇杀，没有色情淫秽场面，而是一位女士在中共看守所，被严酷限制她大小便正常生理功能，遭受常人难以想象的虐待的亲身经历的叙述。<br>推特管理凭哪一条规定封杀这个短文？推特管理部门难道也象中共一样封杀言论、封锁真相，剥夺人的言论权利？！
+
+### 33: [2022-02-19 22:44:04+08:00 推文](https://twitter.com/realcaixia/status/1495046530218303497)
+
+Re 之前封杀了这篇短文，我才写了上面👆这篇推文，刚把这篇短文发出，很神奇，上面我转发的推文又显示出来了。
+
+### 34: [2022-02-19 22:49:10+08:00 推文](https://twitter.com/realcaixia/status/1495047814560288771)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FL96D70XMAwvefc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-02-19 22:54:29+08:00 推文](https://twitter.com/realcaixia/status/1495049155273986050)
+
+Re 现在显示我转发的这篇推特文章依然被封。
+
+### 36: [2022-02-19 22:58:09+08:00 推文](https://twitter.com/realcaixia/status/1495050074304430081)
+
+看看女监牢房里是如何虐待人的！<br>这类被虐经历关系到当事人的尊严，因而许多女士不会曝光这些情况，这就使非人虐待持续存在，甚至成了监狱里真正犯罪分子为虎作伥迫害正义人士的手段！<br>高度致敬去丰县因探望锁链女，而被当局以“寻衅滋事”罪名抓进看守所牢房的，网名为“我能抱起120斤”的勇敢女生！<br><img style="" src="https://pbs.twimg.com/media/FL98G2fXEAInTrX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL98HKFWUAcGg1v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL98HbuWQAUWZOP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-02-19 23:01:19+08:00 推文](https://twitter.com/realcaixia/status/1495050873524957190)
+
+Re 我前一推转的推文被封杀了，我想办法搞到了被封杀短文的截图。特别再次推出这篇短文。
+
