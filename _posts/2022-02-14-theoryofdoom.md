@@ -96,6 +96,16 @@ Don’t know what that is.
 
 We filter all substacks by default, so that's why that got removed.  It would require manual approval, on a case by case basis.  Without reference to what you have linked, we have seen so many substacks that are self-published by crackpots and tin-foil hat types.  To not take a forward-looking approach in this way would be negligence on our part.
 
+----- __97.4__ -----2022-02-19 11:35:50+08:00:
+
+The article was appropriately titled, to the extent it referred to its voluminous length.  Less so, to the extent it referred to the quality of being informative.  
+
+The Substack aspires to be something approximating a review of literature relating to published results from clinical trials.  But it offers nothing more than superficial assessment of what may be, at best, low-hanging fruit (if its analysis and conclusions are to be taken at face value).  But, to the extent the substack so aspires, it's engaged in work that is fundamentally duplicative of a more reliable source.  I'd rather see a [Cochrane Review](https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full), though a Cochrane review lacks the flair of analogies between clinical trial arms and photos of what cops seize from drug dealers.  
+
+It has little appeal, outside of entertainment value I guess.  I have a hard time taking the assertions at face value, since its focus was illogical and disorganized.  For example, the Substack begins its "analysis" with discussion of, among others, Elgazzar which was a retracted preprint out of Egypt.  The specific Elgazzar publication he cited only mattered because it both focused on ivermectin and appears to have involved data integrity issues.  It was not a foundational study nor would it likely have gained any attention if it hadn't been cited in a WSJ op-ed, after the "horse dewormer" rhetoric started to appear in the media.  Note that Elgazzar was excluded from the Cochrane review, without the addition of speculative commentary.  
+
+At the outset it's clear what the Substack author is up to.  He's arguing, overtly and by implication, that all the science behind ivermectin's application to treat COVID was the product of one or more of stupidity or latent malice to deceive the world with false hope.  Smart people think ivermectin is horse paste and only stupid people believe the fake science behind Elgazzar and all the others like it.  Or so he says.  It's not persuasive.
+
 ### 98: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
 ----- __98.1__ -----2022-02-17 12:50:34+08:00:
