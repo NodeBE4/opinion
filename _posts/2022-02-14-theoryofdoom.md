@@ -179,6 +179,18 @@ If you've got more questions, ask away.  I am speaking on a personal level here,
 
 Thank you, and yes I agree the level of big anything's influence is troubling.  Big tobacco.  Big oil.  Big pharma.  Big media.  The list goes on.
 
+----- __98.8__ -----2022-02-20 05:50:49+08:00:
+
+As I said before, I'm just a guy on Reddit.  I am not in a position here to influence perception, when you can turn on the TV and hear what you hear.
+
+----- __98.9__ -----2022-02-20 06:11:56+08:00:
+
+> If the trial you posted in this sub 
+
+What trial are you referring to?  And I'm just going to give you fair warning.  There is a limit to how willing I am to engage with someone who comes back and compares what I've said to "flat earther" nonsense.  
+
+Make no mistake on this point: I can play that game too, but it would be beneath me to do so in this setting.  Though perhaps you hold yourself to a different standard.
+
 ### 99: [No wonder there is a housing crisis.](https://old.reddit.com/r/walkaway/comments/su2uaj/no_wonder_there_is_a_housing_crisis/), submitted on 2022-02-17 02:33:30+08:00.
 
 ----- __99.1__ -----2022-02-17 12:50:34+08:00:
