@@ -199,3 +199,15 @@ Re @laodeng89 中共党内有一批能干的官员，思想不保守，改革开
 
 Re @laodeng89 厉有为是很难得的能干事又不贪的干净人。这样的官员在中共党内难能可贵，不可多得。
 
+### 47: [2022-02-20 16:36:24+08:00 推文](https://twitter.com/realcaixia/status/1495316394900176899)
+
+Re 我没有做过推特内容的任何设置。
+
+### 48: [2022-02-20 19:25:05+08:00 推文](https://twitter.com/realcaixia/status/1495358842473000968)
+
+以防疫为名，封锁董集村。<br><br>陈秋实 青岛TR格斗: 整个村子严防死守，形成铁桶合围状态。不允许记者进去，当然也不会允许网红们进去蹭热度。<br>    但是快手上已经出现了一个新玩法，<br>    那就是故意去星巴克里边吃螺蛳粉、臭豆腐，然后跟店员起冲突。<br>    曾有人因为在华为店里吐痰被以寻衅滋事拘留5天。但是对星巴克扔鸡蛋，就是英雄了。<br> <a href="https://twitter.com/mosestalking/status/1495229665815977985" target="_blank" rel="noopener noreferrer">https://twitter.com/mosestalking/status/1495229665815977985</a>
+
+### 49: [2022-02-20 20:39:55+08:00 推文](https://twitter.com/realcaixia/status/1495377676093341703)
+
+这点击量正常吗？我注意到了我的推文点击量几乎呈极端的两极现象：<br>两篇推荐《议报》组稿，涉及讨论习连任的15个小时点击量连17000不到；<br>凡不是《议报》组稿，不涉及到习连任的推特文：均以“k”为计量单位，都在10万以上！<br>推特管理部门是有中共党支部吗？或者是中共党员在管理中文推特，保卫习？<br><img style="" src="https://pbs.twimg.com/media/FMCmDvdXsAMPlsL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMCmEBQWQAMlkvY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMCmERDXMAAGIdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMCmEd2XEAIUy1E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

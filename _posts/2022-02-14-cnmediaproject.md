@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-18
+date: 2022-02-20
 from: https://twitter.com/Changxche/status/1493044418475134977
 layout: post
 tags:
@@ -90,4 +90,8 @@ As some voices blame Hong Kong's failures to deal with Omicron on "officials ove
 ### 19: [2022-02-18 17:29:18+08:00 推文](https://twitter.com/cnmediaproject/status/1494604928727552002)
 
 The Winter Olympics will finish this weekend. Don't miss Stella Chen's "Fluff Diplomacy," about the important role played by mascot Bing Dwen Dwen as a source of fluff news to promote positive reporting. <a href="https://chinamediaproject.org/2022/02/15/fluff-diplomacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/02/15/fluff-diplomacy/</a><br><img style="" src="https://pbs.twimg.com/media/FL3nOnVaAAM-Gdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-02-20 19:24:00+08:00 推文](https://twitter.com/PM_Thornton/status/1495358570384211970)
+
+RT Patricia M Thornton<br>James Pomfret for Reuters: #HongKong in "all-out combat" to contain #COVID outbreak with #China support, ramping up community isolation and treatment units helped by mainland Chinese construction teams. #香港 <a href="https://www.reuters.com/world/china/hong-kong-ramps-up-isolation-facilities-including-cruise-terminal-battle-covid-2022-02-20/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china/hong-kong-ramps-up-isolation-facilities-including-cruise-terminal-battle-covid-2022-02-20/</a>
 

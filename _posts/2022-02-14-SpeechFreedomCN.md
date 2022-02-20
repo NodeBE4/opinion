@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-02-19
+date: 2022-02-20
 from: https://twitter.com/SpeechFreedomCN/status/1493768593422663680
 layout: post
 tags:
@@ -38,4 +38,16 @@ Guangxi man administratively detained for posting a video in WeChat. The video w
 ### 6: [2022-02-19 13:34:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1494908102147076097)
 
 Guangxi man Xu, who received penalty from traffic police, threatened to sue them, saying in an online post that they must have KPI goals &amp; were bandits. Police then contacted him &amp; pressured him to delete it as he was in a different city. Subsequent punishment for him unknown.<br><img style="" src="https://pbs.twimg.com/media/FL5Z_7HX0Agu3-G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-02-20 17:58:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1495337155916406785)
+
+笑了<br><img style="" src="https://pbs.twimg.com/media/FMCBN37WQAA1zMO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-02-20 18:57:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1495351892607737857)
+
+Re 2月18日，罗昌平已被三亚城郊检察院提起公诉，因其在微博发言称韩战志愿军为“沙雕连”，罪名为侵害英雄烈士名誉罪。本人推测其可能获刑半年到一年。<br><img style="" src="https://pbs.twimg.com/media/FMCNzRMWYAIGYoE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-02-20 18:59:40+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1495352448638242819)
+
+Re Lou Changping, the journalist mentioned in the previous tweet who was arrested in Hainan in last October for his Weibo remarks, has now been prosecuted.<br><img style="" src="https://pbs.twimg.com/media/FMCOtUNWUAU_1oE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
