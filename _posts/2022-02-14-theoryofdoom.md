@@ -327,21 +327,29 @@ This question has been reviewed and is approved.  While more elementary than som
 
 Blogspam.  No submission statement.
 
-### 109: [What are some effective ways to get a man to stop hitting on you?](https://old.reddit.com/r/AskReddit/comments/swyrkc/what_are_some_effective_ways_to_get_a_man_to_stop/), submitted on 2022-02-20 18:54:39+08:00.
+### 109: [Will Russia and China invade Ukraine and Taiwan simultaneously?](https://old.reddit.com/r/geopolitics/comments/swsfjj/will_russia_and_china_invade_ukraine_and_taiwan/), submitted on 2022-02-20 12:12:24+08:00.
 
------ __109.1__ -----2022-02-21 00:43:45+08:00:
+----- __109.1__ -----2022-02-21 01:28:03+08:00:
+
+I agree that China's strategy is to try and wear down Taiwan's and other actor's resolve.  China maximizes utility only when Taiwan's infrastructure is not a casualty in "unification" efforts.  So, if Taiwan's high-tech manufacturing capital is a casualty of war, it is not obvious Beijing is any better off.  
+
+I don't agree that China's mobilization times would be as long as you suggest, though that question is largely academic because the probability of a conventional invasion is fairly low to begin with (for reasons noted above).
+
+### 110: [What are some effective ways to get a man to stop hitting on you?](https://old.reddit.com/r/AskReddit/comments/swyrkc/what_are_some_effective_ways_to_get_a_man_to_stop/), submitted on 2022-02-20 18:54:39+08:00.
+
+----- __110.1__ -----2022-02-21 00:43:45+08:00:
 
 Inform him of your devout commitment to Scientology.
 
-### 110: [Rosatom doubles down on the Arctic, will spend 1.5 trillion rubles on more nuclear icebreakers and other vessels through 2030](https://old.reddit.com/r/geopolitics/comments/sx1bgt/rosatom_doubles_down_on_the_arctic_will_spend_15/), submitted on 2022-02-20 21:30:41+08:00.
+### 111: [Rosatom doubles down on the Arctic, will spend 1.5 trillion rubles on more nuclear icebreakers and other vessels through 2030](https://old.reddit.com/r/geopolitics/comments/sx1bgt/rosatom_doubles_down_on_the_arctic_will_spend_15/), submitted on 2022-02-20 21:30:41+08:00.
 
------ __110.1__ -----2022-02-20 23:52:51+08:00:
+----- __111.1__ -----2022-02-20 23:52:51+08:00:
 
 Don't just cross-post something.  Post a submission statement explaining its relevance.
 
-### 111: [Map of Donbass (Published by the DPR)](https://old.reddit.com/r/geopolitics/comments/sx1pfk/map_of_donbass_published_by_the_dpr/), submitted on 2022-02-20 21:51:58+08:00.
+### 112: [Map of Donbass (Published by the DPR)](https://old.reddit.com/r/geopolitics/comments/sx1pfk/map_of_donbass_published_by_the_dpr/), submitted on 2022-02-20 21:51:58+08:00.
 
------ __111.1__ -----2022-02-20 23:51:59+08:00:
+----- __112.1__ -----2022-02-20 23:51:59+08:00:
 
 I will approve this if you post a submission statement explaining its relevance.  Aim for 3-5 sentences.
 
