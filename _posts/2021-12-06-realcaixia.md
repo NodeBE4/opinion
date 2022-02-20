@@ -57,7 +57,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
-丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style="" src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
+丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
@@ -101,7 +101,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
-我转的老浦推文居然被封了，老浦的推文既没有宣扬暴力，也没有色情暴力，又没有欺诈蒙骗，更不涉及中国政府机密泄漏，只是说了他自己的一些事情，何来被封的事由？难不成是中共幽灵在推上作祟？！<br><img style="" src="https://pbs.twimg.com/media/FGSaQCXWQAAr4DY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGSaQScXsDEOJWH?format=jpg&name=orig" referrerpolicy="no-referrer">
+我转的老浦推文居然被封了，老浦的推文既没有宣扬暴力，也没有色情暴力，又没有欺诈蒙骗，更不涉及中国政府机密泄漏，只是说了他自己的一些事情，何来被封的事由？难不成是中共幽灵在推上作祟？！<br><img style src="https://pbs.twimg.com/media/FGSaQCXWQAAr4DY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGSaQScXsDEOJWH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-11 09:06:52+08:00 推文](https://twitter.com/realcaixia/status/1469473725158502404)
 

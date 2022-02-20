@@ -309,15 +309,21 @@ Why would you think that is acceptable language to use here?
 
 Pritzker expects the Illinois Supreme Court to conclude the issue is moot, because it is.  This appeal is solely for the purpose of theatrics.
 
-### 106: [Can organizations like the United Nations prevent war?](https://old.reddit.com/r/geopolitics/comments/swe5lj/can_organizations_like_the_united_nations_prevent/), submitted on 2022-02-20 00:42:55+08:00.
+### 106: [India, UAE sign free trade deal expected to double trade to $100 billion in 5yrs | Latest News India - Hindustan Times](https://old.reddit.com/r/geopolitics/comments/sw64yz/india_uae_sign_free_trade_deal_expected_to_double/), submitted on 2022-02-19 17:26:30+08:00.
 
------ __106.1__ -----2022-02-20 01:19:27+08:00:
+----- __106.1__ -----2022-02-20 11:49:27+08:00:
+
+Improperly formatted title and no submission statement after 18 hours.
+
+### 107: [Can organizations like the United Nations prevent war?](https://old.reddit.com/r/geopolitics/comments/swe5lj/can_organizations_like_the_united_nations_prevent/), submitted on 2022-02-20 00:42:55+08:00.
+
+----- __107.1__ -----2022-02-20 01:19:27+08:00:
 
 This question has been reviewed and is approved.  While more elementary than some of the questions we typically see, this is a good opportunity to consider the basics of what role the United Nations plays in preserving world peace and underwriting the liberal world order.  Maybe some of you have considered this question in your lower level college classes.  We encourage you to share those perspectives.
 
-### 107: [Alien Newsletter #20: The Ukraine Invasion To-Be](https://old.reddit.com/r/geopolitics/comments/swec71/alien_newsletter_20_the_ukraine_invasion_tobe/), submitted on 2022-02-20 00:51:18+08:00.
+### 108: [Alien Newsletter #20: The Ukraine Invasion To-Be](https://old.reddit.com/r/geopolitics/comments/swec71/alien_newsletter_20_the_ukraine_invasion_tobe/), submitted on 2022-02-20 00:51:18+08:00.
 
------ __107.1__ -----2022-02-20 00:59:36+08:00:
+----- __108.1__ -----2022-02-20 00:59:36+08:00:
 
 Blogspam.  No submission statement.
 

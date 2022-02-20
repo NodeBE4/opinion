@@ -187,3 +187,15 @@ Re @qiwenhua2 @1019685343 @0FneLvAMJW0ZS4F 这些五毛粉红网军可怜到脑�
 
 白毛女是编的，铁链女是真的！有网友套用白毛女曲调编了铁链女控诉。呼吁大家都来转推，更多地传播出去。传播形成力量，关注就是支持。解救更多的还在暗无天日中的铁链女。<br><video src="https://video.twimg.com/ext_tw_video/1495144277323751434/pu/vid/640x480/yty5RzjL-R85YWu-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1495144277323751434/pu/img/NLhNXlgx4ZaiLkmN.jpg"></video>
 
+### 44: [2022-02-20 09:36:37+08:00 推文](https://twitter.com/realcaixia/status/1495210750322872322)
+
+厉有为书记是中共党内九十年代走在最前列的著名改革派代表人物之一，他将深圳发展做得风生水起、龙腾虎跃。1997年厉有为写过的一篇论文，引起极大的争论。厉有为指出必须建立多数人占有的生产资料所有制，开启中国的股份制经济。<br>厉有为站出来声援铁链女，这是中共党内良知的呼声。<br><br>老灯: 体制内也有人发声<br><br>深圳前市委书记厉有为同志赋诗一首<br>《战徐州》<br>文学性不高<br>挑衅性不小<br>反正退休等死的老家伙了<br>还能怎地<br>无所谓了<br><br><img style="" src="https://pbs.twimg.com/media/FL_3l9fVcAEj-RE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL_3l9kUUAEjE0M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-02-20 09:49:31+08:00 推文](https://twitter.com/realcaixia/status/1495213996651208709)
+
+Re @laodeng89 中共党内有一批能干的官员，思想不保守，改革开放能干出政绩来。但是，权力是捞利最方便的工具，金钱的巨大诱惑力，市场敞开了挣钱的空间。这三者聚于一人面前时，人性贪欲大发作。于是他们“一边干事一边犯事”，他们“干成大事也出大事”，反贪腐中进去了。比如深圳的许宗衡，很是位能吏，最终入了大狱。
+
+### 46: [2022-02-20 09:52:35+08:00 推文](https://twitter.com/realcaixia/status/1495214768495472649)
+
+Re @laodeng89 厉有为是很难得的能干事又不贪的干净人。这样的官员在中共党内难能可贵，不可多得。
+
