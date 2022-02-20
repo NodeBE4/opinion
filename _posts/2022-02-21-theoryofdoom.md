@@ -51,3 +51,11 @@ Geopolitical reality precludes anything long term.  This is also an unresolved c
 
 I agree with this as well, though China's interest in Siberia has less to do with border conflicts and more to do with over-land transportation.  Namely, moving cargo across the former Soviet rail network, as demonstrated by China's Khorgos-based land port.
 
+----- __113.6__ -----2022-02-21 04:53:25+08:00:
+
+Additional Further Reading, alternative perspective:
+
+* [Why China Will Not Support a Russian Invasion of Ukraine](https://thediplomat.com/2022/02/why-china-will-not-support-a-russian-invasion-of-ukraine/)
+
+I make no comment on this article, but it has been shared elsewhere and offers a perspective on these issues.
+
