@@ -211,3 +211,27 @@ Re 我没有做过推特内容的任何设置。
 
 这点击量正常吗？我注意到了我的推文点击量几乎呈极端的两极现象：<br>两篇推荐《议报》组稿，涉及讨论习连任的15个小时点击量连17000不到；<br>凡不是《议报》组稿，不涉及到习连任的推特文：均以“k”为计量单位，都在10万以上！<br>推特管理部门是有中共党支部吗？或者是中共党员在管理中文推特，保卫习？<br><img style="" src="https://pbs.twimg.com/media/FMCmDvdXsAMPlsL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMCmEBQWQAMlkvY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMCmERDXMAAGIdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMCmEd2XEAIUy1E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 50: [2022-02-20 21:21:28+08:00 推文](https://twitter.com/realcaixia/status/1495388133621485579)
+
+北大著名教授錢理群曾經在習上台後後說，中國進入了全面紅衛兵掌權的時期。當時不注意錢理群教授這話，現在許多人看到了越來越多的惡果。<br><br>韩连潮: 【习近平是老红卫兵】我应 #议报 总编 #蔡霞 约稿写的评习文章认为习既自卑又自负，在思想和组织上属联动老红卫兵，证据是聂卫平回忆习近平刘卫平和他参加老红卫兵武斗；八一学校是联动老巢，但习在66-68年的活动是个谜，他对此讳莫如深从未谈及，值得进一步挖掘。该文链接：<br><br><img style="" src="https://pbs.twimg.com/media/FL96BCJXMAcL9fa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL96FkOX0AQobrY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?p=244889" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=244889</a>
+
+### 51: [2022-02-20 21:24:51+08:00 推文](https://twitter.com/realcaixia/status/1495388985211998212)
+
+钱理群：对老红卫兵当政的担忧(强力推荐阅读) - 中国数字时代 <a href="https://chinadigitaltimes.net/chinese/213567.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/213567.html</a>
+
+### 52: [2022-02-20 21:38:05+08:00 推文](https://twitter.com/realcaixia/status/1495392314075848708)
+
+转发：<br><br>骄傲女孩: 江苏省成立的#江苏徐州性奴案  调查组成员：<br>调查组组长：江苏省委副秘书长、省纪委副书记尹卫东；<br>调查组成员：江苏省公安厅副厅长陈辉（2015-2017曾任徐州市公安局局长）<br>其余还有省卫建委、省妇联等相关单位参与调查。<br>（为防止有人诋毁我们复制信息，转载请注明信息出自骄傲女孩）<br><br><img style="" src="https://pbs.twimg.com/media/FL8w2d3XIAk6pLh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FL8w35RXEAEQOoC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 53: [2022-02-20 21:38:44+08:00 推文](https://twitter.com/realcaixia/status/1495392479117557763)
+
+转发：<br><br>骄傲女孩: 调查组进驻徐州后的工作：<br>1，因董志民、杨庆侠结婚证泄露而约谈了数十人，并警告随时听候下一次聆讯；<br>2，成立小组，一分一秒的分析到过欢口镇的车辆<br>3，成立小组，通过步态识别、人脸识别等技术手段分析进出欢口镇的每一个人（他们知道人脸生物信息比对的科学性，而且，他们一直用这种方式抓人，但<br>
+
+### 54: [2022-02-20 22:22:05+08:00 推文](https://twitter.com/realcaixia/status/1495403388695109641)
+
+特别推荐：<br>清华大学社会学教授郭于华的文章：<br>任你说破了大天 - 议报<br>这篇文章比较了徐州丰县四次官方调查，三次推翻前面结论，指出政府的公信力就是这样丧失的：他们撒谎！ <a href="https://yibaochina.com/?p=245007" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245007</a>
+
+### 55: [2022-02-20 23:09:24+08:00 推文](https://twitter.com/realcaixia/status/1495415294201892867)
+
+Re @HeQinglian 于华很明白这个道理，但大陆环境所限，她只能这样迂回曲折地表达。中共国不是现代社会中的正常国家，政府说谎是本能，本来就不存在公信力。大众对政府不是因其具有公信力而自愿服从，实质是专制统治下社会大众出于利害计算和恐惧心理而必须“顺从”。有一定社会经历的人都是出于“自我约束”而配合政府。
+
