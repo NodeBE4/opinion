@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-18
+date: 2022-02-19
 from: https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/
 layout: post
 tags:
@@ -183,11 +183,11 @@ The only really 'safe' conclusion to be made is that Xenophon was a pretty promi
 
 ----- __144.2__ -----2022-02-18 15:31:24+08:00:
 
-### 2: Xenophon in classical Alexander historiography
+### 2: Xenophon in Alexander historiography
 
 And yet, Xenophon consistently looms large in the Alexander historiography. Why?
 
-It is hard to understate the role played in this by Arrian of Nikomedia. Arrian's *Anabasis of Alexander* was, for much of the 20th century, considered the definitive account of Alexander's campaigns, but it has never avoided scrutiny entirely. Arrian's work belongs to what is sometimes termed the 'official' corpus of sources on Alexander, the other principal representative of which is Plutarch's *Life of Alexander*. These accounts, written in Attic dialect by Greek citizens in the Roman Empire active in elite circles during the Nerva-Antonine period (indeed, Arrian even served a term as Consul), draw principally on pro-Alexander sources by close courtiers, and portray Alexander as a Greek hero on whom contemporary Roman emperors might model themselves. This contrasts them with the 'Vulgate' tradition, consisting principally of Book 17 of Diodoros of Sicily's *Library of History*, Quintus Curtius Rufus' *History of Alexander the Great*, and Books 11 and 12 of Justin's *Epitome of the Philippic Histories of Pompeius Trogus*, works based more heavily on southern Greek writers that were more hostile to Alexander, and generally less tied up with the myth-making around Alexander undertaken by the Greeks of the Aegean and Asia Minor.
+It is hard to understate the role played in this by Arrian of Nikomedia. Arrian's *Anabasis of Alexander* was, for much of the 20th century, considered the definitive account of Alexander's campaigns, and while it has always been somewhat scrutinised, scrutiny has not translated into outright criticism until the last few decades. Arrian's work belongs to what is sometimes termed the 'official' corpus of sources on Alexander, the other principal representative of which is Plutarch's *Life of Alexander*. These accounts, written in Attic dialect by Greek citizens in the Roman Empire active in elite circles during the Nerva-Antonine period (indeed, Arrian even served a term as Consul), draw principally on pro-Alexander sources by close courtiers, and portray Alexander as a Greek hero on whom contemporary Roman emperors might model themselves. This contrasts them with the 'Vulgate' tradition, consisting principally of Book 17 of Diodoros of Sicily's *Library of History*, Quintus Curtius Rufus' *History of Alexander the Great*, and Books 11 and 12 of Justin's *Epitome of the Philippic Histories of Pompeius Trogus*, works based more heavily on southern Greek writers that were more hostile to Alexander, and generally less tied up with the myth-making around Alexander undertaken by the Greeks of the Aegean and Asia Minor.
 
 Critically, Arrian modelled himself on Xenophon in several ways. Stadler goes into more depth on this, but for our specific purposes, while the *Anabasis of Alexander* and the *Indika* are the only works of Arrian that survive in full, the *Anabasis of Alexander* is chock full of allusions to Xenophon, with several speeches clearly modelled on those found in the *Anabasis* and *Cyropaedia*, and courses of events sometimes altered to fit Xenophontic precedents. In a digression in Book 1 of the *Anabasis of Alexander* where Arrian delivers his statement of purpose for the work, he even declares that it was his intent to do for Alexander what Homer did for Achilles, and what Xenophon did for himself: glorify Alexander's deeds with comparably glorious writing. Parallels between Xenophon and Alexander are thus far from the exclusive province of modern historians, but in fact baked into one of our principal sources on Alexander's career.
 
@@ -206,4 +206,10 @@ And therein lies the broader question: why should we *want* to find evidence of 
 * Philip A. Stadler, 'Flavius Arrianus: the New Xenophon'. *GRBS* 8 (1967), pp. 155-161
 
 * Hugh Bowden, ['On Kissing and Making Up: Court Protocol and Historiography in Alexander the Great's "Experiment with Proskynesis"'](https://kclpure.kcl.ac.uk/portal/files/10596101/On_Kissing_and_Making_Up.pdf). *Bulletin of the Institute of Classical Studies*, 56:2 (2013), pp. 55-77
+
+### 145: [LMAO! The look on Subaru's face says it all!](https://old.reddit.com/r/Hololive/comments/swb7dv/lmao_the_look_on_subarus_face_says_it_all/), submitted on 2022-02-19 22:23:41+08:00.
+
+----- __145.1__ -----2022-02-20 18:29:23+08:00:
+
+Hm, would I use 'straight' to describe Flare...
 
