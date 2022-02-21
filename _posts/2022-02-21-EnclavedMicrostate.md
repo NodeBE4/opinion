@@ -31,6 +31,20 @@ To put it a better way, all of them stream video games but they also do other th
 
 There's a lot of Coco hero-worship particularly in relation to Hololive English, but according to Hololive's own staff, the process of forming Hololive English had started months before Coco's debut, as part of a general international expansion plan that had begun with the (now-defunct) Chinese branch and the (still active) Indonesian branch over late 2019-early 2020. Coco was a big signal booster for HoloEN, but not its originator by any means. She was definitely a particularly engaged member who gave a lot of support to fellow Hololive members and that is worth celebrating, but the notion that she was Hololive's Atlas holding up the sky really understates the initiative of talents and staff alike.
 
+----- __147.5__ -----2022-02-21 17:58:40+08:00:
+
+So obviously it's far from certain, but there are a few things: 
+
+* Hololive started an EN Twitter back in November 2019. To be fair, it also created a Korean account two months later that has been dormant ever since, so it's not a *firm* indication that a branch was in development, but it's an aspect of it.
+
+* Hololive was rolling out new international branches every few months, with an obvious delay of sorts owing to COVID, but it would be at least plausible that EN would be 'in the works' so to speak but not actively pursued until CN and ID debuted. There's a post [here](https://www.reddit.com/r/Holostars/comments/r9a5pt/my_thoughts_on_the_debut_of_holox_and_what_i/) which obviously is just another Redditor's speculation, but they suggest that because ID requires English fluency, ID and EN share or shared a hiring team that alternated between the two branches, which is why there were such gaps between the first two generations of both branches. To put it another way there was definitely work being done on an English-*language* branch well before Coco's involvement.
+
+* On the sub count thing, Fubuki was at over 300k by the end of 2019 and Sora had been coasting at around 250k for a while, so it was definitely not out of the question to pursue international expansion, especially given they were already doing CN and ID by the end of 2019.
+
+* As for the year in advance, there's a [slightly odd article](https://grapee.jp/en/169910) involving a supposed interview with an anonymous head producer for HoloEN in early 2021 saying that things are planned out about a year ahead when it comes to EN, which isn't clear should be extrapolated all the way back to mean that HoloEN was in the works as early as September 2019, but it definitely *could* be.
+
+As noted, much of this is necessarily speculative because Cover doesn't just leak info constantly, but considering that new debuts at Hololive do generally take quite a long time to prepare, it does seem pretty reasonable to suggest that there was a plan to create HoloEN by late 2019 at the latest.
+
 ### 148: [Remember when people said that NFTs would be a good thing for online artists?](https://old.reddit.com/r/Buttcoin/comments/sx6azj/remember_when_people_said_that_nfts_would_be_a/), submitted on 2022-02-21 01:24:38+08:00.
 
 ----- __148.1__ -----2022-02-21 12:24:04+08:00:
