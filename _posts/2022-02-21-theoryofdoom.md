@@ -59,3 +59,21 @@ Additional Further Reading, alternative perspective:
 
 I make no comment on this article, but it has been shared elsewhere and offers a perspective on these issues.
 
+----- __113.7__ -----2022-02-21 08:06:44+08:00:
+
+> What does Russia want from Ukraine?
+
+[Here's what Russia wants from Ukraine](https://www.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/ht8mmw4/?context=3).
+
+### 114: [Police wants to get inside this Ottawa restaurant and even threatens to smash the windows. Their crime? Serving food and coffee to protesters. This is absolutely insane.](https://old.reddit.com/r/walkaway/comments/sx8cr2/police_wants_to_get_inside_this_ottawa_restaurant/), submitted on 2022-02-21 02:54:01+08:00.
+
+----- __114.1__ -----2022-02-21 08:09:29+08:00:
+
+A [notable reality check](https://www.youtube.com/watch?v=5efyUt5YDU0).
+
+### 115: [It's getting increasingly difficult to tell the difference between "real" wokeism and "fake" wokeism because everything is so absurd lately](https://old.reddit.com/r/stupidpol/comments/sx8rxg/its_getting_increasingly_difficult_to_tell_the/), submitted on 2022-02-21 03:11:50+08:00.
+
+----- __115.1__ -----2022-02-21 09:07:36+08:00:
+
+Being woke is no more than a Nietzschen power play, where the "oppressed" --- or those purportedly speaking on their behalf --- invent "injustice" by something approximating divine revelation.  Its primary purpose is to keep the working and middle classes fighting amongst themselves, rather than against the billionaires and ruling classes.  In the same way you distract babies with shiny objects or cats with laser pointers, so too the ruling elites distract working/middle class liberals with identity politics.
+
