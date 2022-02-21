@@ -37,6 +37,10 @@ There's a lot of Coco hero-worship particularly in relation to Hololive English,
 
 To be fair, they did try with Wizards of the Coast.
 
+----- __147.2__ -----2022-02-21 14:07:30+08:00:
+
+[Absolutely swimmingly /s](https://www.reddit.com/r/Buttcoin/comments/srsjyw/3rd_party_mtg_nfts_get_made_face_immediate_legal/)
+
 ### 148: [When did humans realize that the minerals they were mining was actually non-renewable and that one day they could deplete?](https://old.reddit.com/r/AskHistorians/comments/sxhpb1/when_did_humans_realize_that_the_minerals_they/), submitted on 2022-02-21 10:00:59+08:00.
 
 ----- __148.1__ -----2022-02-21 12:11:02+08:00:
