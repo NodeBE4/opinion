@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-21
+date: 2022-02-22
 from: https://twitter.com/realcaixia/status/1495458588868988935
 layout: post
 tags:
@@ -58,4 +58,36 @@ Re @rainersu 你们就胡扯吧！
 ### 11: [2022-02-21 10:53:46+08:00 推文](https://twitter.com/realcaixia/status/1495592554510827522)
 
 Re @wwXAnA6w @Canada10000 非常感谢您。
+
+### 12: [2022-02-21 21:21:10+08:00 推文](https://twitter.com/realcaixia/status/1495750446127976456)
+
+ <a href="https://mp.weixin.qq.com/s/vhpr7Xps-kWYmC_a7w0MJA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/vhpr7Xps-kWYmC_a7w0MJA</a>
+
+### 13: [2022-02-21 21:31:48+08:00 推文](https://twitter.com/realcaixia/status/1495753120374308873)
+
+大陆官方在对丰县锁链女竭力“消音”，请高度关注！<br><img style="" src="https://pbs.twimg.com/media/FMH7iAXXsAcTO73?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMH7iPgWQAAdjSK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-02-21 22:42:04+08:00 推文](https://twitter.com/realcaixia/status/1495770803597680644)
+
+这个推文必须转！这就是铁的事实。<br><br>Ivy未央: 孩子你要记住，养大你的是你的父母！你从不欠祖国和政府半毛钱，因为他们从不允许你赊欠。没钱，你进不了学校，你看不起病，你坐不了车，住不起房。没钱，你甚至出生都出生不了…而这些钱，都是你父母替你支付的。除了父母你不需要感谢谁！<br>哪个不要脸的党要说让你报恩感谢，它就是彻头彻尾的骗子党！<br><br><img style="" src="https://pbs.twimg.com/media/FMH-QyUXIAAKeWV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMH-QyUXMAEfIRB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-02-21 23:02:14+08:00 推文](https://twitter.com/realcaixia/status/1495775877891821576)
+
+中共国是怎样的一个国家啊？！这国家里发生的许多邪恶，早已超出了人伦底线！<br><br>ZHANGDONG: 清华大学教授 劳东燕、郭于华和许章润等正义学者，都被噤声禁言被社死。这个社会容不下知识分子自甘堕落。<br> <a href="https://twitter.com/Jam79922967/status/1495571681892515843" target="_blank" rel="noopener noreferrer">https://twitter.com/Jam79922967/status/1495571681892515843</a>
+
+### 16: [2022-02-21 23:22:07+08:00 推文](https://twitter.com/realcaixia/status/1495780882690547715)
+
+铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。<br><br>美国之音中文网: 2/21【#时事大家谈】“锁链女“案重创政府公信力，北京深陷“塔西佗陷阱”？<br><br>嘉宾：北京之春荣誉主编胡平 @Huping1；公民力量创办人杨建利  @yangjianli001 <br>主持人：许波<br><br>YouTube🔗<br> <a href="https://youtu.be/DVEYJ0wZ2Ds" target="_blank" rel="noopener noreferrer">https://youtu.be/DVEYJ0wZ2Ds</a> <a href="https://twitter.com/i/broadcasts/1eaJbNlwYpRJX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/broadcasts/1eaJbNlwYpRJX</a>
+
+### 17: [2022-02-22 00:47:23+08:00 推文](https://twitter.com/realcaixia/status/1495802340917530630)
+
+这不是哪个极权统治者的缺陷和愚蠢，是极权统治者的本能。他们的所有动作只有一个出发点：保住统治权力。<br>极权制度垄断掌控一切资源，所以他们本能的动作就是用最简单好用的暴力资源恐怖镇压。<br>他们的根本软肋在于真相，所以他们竭尽全力撒谎；他们唯一掌控不了的是人心！人心齐，极权统治必有垮台之日<br><br>良知❣️❣️自知: 中国政法大学达博士对江苏调查锁链女李莹的建议，支持的请转发🙏<br><br><img style="" src="https://pbs.twimg.com/media/FMIDAE8VEAAvd7e?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-02-22 00:59:51+08:00 推文](https://twitter.com/realcaixia/status/1495805476851834886)
+
+从小就听中共洗脑不断咒骂1949年前的蒋政府。现在看看习当局究竟怎么彻查丰县-徐州-乃至中国多省多地区乡村存在的所有罪恶“买卖、拘禁、强暴、虐待、残害妇女儿童”的严重犯罪行为。<br>我想海内外所有华人、全世界所有人不分肤色不分民族，所有人都会看习当局怎么做。<br><br>高瑜: 死刑。另外兩名平民輪姦犯，被地方法院判以有期徒刑。黨一再教育：“舊社會把人變成鬼，新社會把鬼變成人”，江蘇省調查組不能人鬼不分，公眾向你們的連聲發問，不是你們一個省可以捂得住的，而且誰也捂不住。<br>（陳愉事件截圖來源網上不同文章，大致可看清脈絡，推友可上網查看。）<br><br><img style="" src="https://pbs.twimg.com/media/FMGfrGEX0AMOTcx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-02-22 01:10:12+08:00 推文](https://twitter.com/realcaixia/status/1495808085448962049)
+
+请仔细琢磨王圣强的微博文字。关注王圣强可能面对的境遇。<br><br>良知❣️❣️自知: 中共把令黑社会都不耻的<br><br>惨绝人寰的坏事都干完了！<br><br><img style="" src="https://pbs.twimg.com/media/FMImYB-VIAMvx9d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
