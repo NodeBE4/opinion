@@ -119,3 +119,7 @@ Allison Arwady once again tries to re-assert her relevance, in a press conferenc
 
 As if the last three plus months have meant nothing, Arwady makes reference to free-floating notions of "risk," based on metrics set according to pre-omicron hypothesized correlations (e.g., between cases and hospitalizations or fatalities).  Meanwhile, Chicagoans are increasingly unable to suspend disbelief, in order to take her incompetence seriously.
 
+----- __119.2__ -----2022-02-21 21:43:09+08:00:
+
+That’s to be expected.
+
