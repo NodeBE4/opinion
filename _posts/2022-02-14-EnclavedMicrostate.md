@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-19
+date: 2022-02-20
 from: https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/
 layout: post
 tags:
@@ -212,4 +212,10 @@ And therein lies the broader question: why should we *want* to find evidence of 
 ----- __145.1__ -----2022-02-20 18:29:23+08:00:
 
 Hm, would I use 'straight' to describe Flare...
+
+### 146: [Danchou is excited tonight](https://old.reddit.com/r/Hololive/comments/sx2ogy/danchou_is_excited_tonight/), submitted on 2022-02-20 22:41:45+08:00.
+
+----- __146.1__ -----2022-02-21 17:05:49+08:00:
+
+Considering that Flare posted a 30-second video last night [literally titled "NoeFure TeeTee"](https://www.youtube.com/watch?v=I9nD2UC_qj8) I'd say that they're still as together as they've always been.
 
