@@ -77,3 +77,27 @@ A [notable reality check](https://www.youtube.com/watch?v=5efyUt5YDU0).
 
 Being woke is no more than a Nietzschen power play, where the "oppressed" --- or those purportedly speaking on their behalf --- invent "injustice" by something approximating divine revelation.  Its primary purpose is to keep the working and middle classes fighting amongst themselves, rather than against the billionaires and ruling classes.  In the same way you distract babies with shiny objects or cats with laser pointers, so too the ruling elites distract working/middle class liberals with identity politics.
 
+### 116: [Vladikavkaz](https://old.reddit.com/r/russia/comments/sxa8lm/vladikavkaz/), submitted on 2022-02-21 04:14:47+08:00.
+
+----- __116.1__ -----2022-02-21 12:32:41+08:00:
+
+No, more like Whitefish, Montana.  Or Banff, Alberta.  Eastern United States doesn't have mountains like that.
+
+### 117: [Couples where 1 wears a mask and 1 doesn't...](https://old.reddit.com/r/CoronavirusIllinois/comments/sxjum0/couples_where_1_wears_a_mask_and_1_doesnt/), submitted on 2022-02-21 11:51:52+08:00.
+
+----- __117.1__ -----2022-02-21 12:03:24+08:00:
+
+> My SO is a rule follower no matter how dumb the rule is.  Fine with me, do what you're comfortable with.
+
+Ha.  I can relate, from past relationships.  And yes, fine with me too, so long as you don't try to make me comply.
+
+Edit: It is hilarious how quickly people have down-voted this, assuming that the only thing I was talking about was masks.  
+
+I was thinking about complying with "rules" at my last significant other's parents' house on holiday visits, all pre-COVID.  Rules like "don't argue with my dad about politics," or "don't correct my dad when he says something stupid because it will make everyone uncomfortable and he already doesn't like you."
+
+### 118: [Any thoughts on Canada right now?](https://old.reddit.com/r/geopolitics/comments/sxkjrw/any_thoughts_on_canada_right_now/), submitted on 2022-02-21 12:29:10+08:00.
+
+----- __118.1__ -----2022-02-21 12:34:04+08:00:
+
+Domestic politics.
+
