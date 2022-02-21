@@ -65,6 +65,10 @@ I make no comment on this article, but it has been shared elsewhere and offers a
 
 [Here's what Russia wants from Ukraine](https://www.reddit.com/r/geopolitics/comments/s77r57/russia_moves_more_troops_westward_amid_ukraine/ht8mmw4/?context=3).
 
+----- __113.8__ -----2022-02-21 20:20:35+08:00:
+
+Thank you.  It's just a matter of recognizing where the pieces sit on the chessboard, and being able to anticipate the next couple of moves.
+
 ### 114: [Police wants to get inside this Ottawa restaurant and even threatens to smash the windows. Their crime? Serving food and coffee to protesters. This is absolutely insane.](https://old.reddit.com/r/walkaway/comments/sx8cr2/police_wants_to_get_inside_this_ottawa_restaurant/), submitted on 2022-02-21 02:54:01+08:00.
 
 ----- __114.1__ -----2022-02-21 08:09:29+08:00:
@@ -95,9 +99,23 @@ Edit: It is hilarious how quickly people have down-voted this, assuming that the
 
 I was thinking about complying with "rules" at my last significant other's parents' house on holiday visits, all pre-COVID.  Rules like "don't argue with my dad about politics," or "don't correct my dad when he says something stupid because it will make everyone uncomfortable and he already doesn't like you."
 
+----- __117.2__ -----2022-02-21 20:01:25+08:00:
+
+> thalidomide
+
+I doubt you even know what that is.  Another post like that and you'll be permanently banned.
+
 ### 118: [Any thoughts on Canada right now?](https://old.reddit.com/r/geopolitics/comments/sxkjrw/any_thoughts_on_canada_right_now/), submitted on 2022-02-21 12:29:10+08:00.
 
 ----- __118.1__ -----2022-02-21 12:34:04+08:00:
 
 Domestic politics.
+
+### 119: [When Will Chicago End Vaccine Card Requirement? Here’s What We Know](https://old.reddit.com/r/CoronavirusIllinois/comments/sxs2pd/when_will_chicago_end_vaccine_card_requirement/), submitted on 2022-02-21 20:11:32+08:00.
+
+----- __119.1__ -----2022-02-21 20:19:25+08:00:
+
+Allison Arwady once again tries to re-assert her relevance, in a press conference betraying the extent to which her relevance wanes precipitously.  
+
+As if the last three plus months have meant nothing, Arwady makes reference to free-floating notions of "risk," based on metrics set according to pre-omicron hypothesized correlations (e.g., between cases and hospitalizations or fatalities).  Meanwhile, Chicagoans are increasingly unable to suspend disbelief, in order to take her incompetence seriously.
 
