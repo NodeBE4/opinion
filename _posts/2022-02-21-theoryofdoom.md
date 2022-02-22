@@ -123,3 +123,7 @@ As if the last three plus months have meant nothing, Arwady makes reference to f
 
 That’s to be expected.
 
+----- __119.3__ -----2022-02-22 08:39:36+08:00:
+
+Policy ought to be downstream from science, but that means that if your proposed mitigation efforts are empirical failures you take notice.
+
