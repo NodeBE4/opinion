@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-21
+date: 2022-02-22
 from: https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/
 layout: post
 tags:
@@ -130,4 +130,10 @@ Policy ought to be downstream from science, but that means that if your proposed
 ----- __119.4__ -----2022-02-22 10:43:29+08:00:
 
 I agree the level of overreach will have generationally significant implications.  But I also know that an abundance of people blindly follow those in a position of "authority," based solely on the fact that the "authority" holds such a position.
+
+### 120: [What will happen if Turkey decides to block the Bosporus straits for Russian ships?](https://old.reddit.com/r/geopolitics/comments/sy3230/what_will_happen_if_turkey_decides_to_block_the/), submitted on 2022-02-22 04:09:25+08:00.
+
+----- __120.1__ -----2022-02-22 10:56:16+08:00:
+
+This idea was proposed, in response to Russian naval vessels entering the Black Sea to resupply Assad.  Russia would likely interpret doing so as an act of war, which is why Turkey's membership in NATO remains relevant to at least this extent.
 
