@@ -137,3 +137,21 @@ I agree the level of overreach will have generationally significant implications
 
 This idea was proposed, in response to Russian naval vessels entering the Black Sea to resupply Assad.  Russia would likely interpret doing so as an act of war, which is why Turkey's membership in NATO remains relevant to at least this extent.
 
+### 121: [Chicago Expected to Provide Update on Mask Mandate This Week](https://old.reddit.com/r/CoronavirusIllinois/comments/sylu2b/chicago_expected_to_provide_update_on_mask/), submitted on 2022-02-22 19:56:40+08:00.
+
+----- __121.1__ -----2022-02-22 20:20:32+08:00:
+
+Very little has changed between last week and today.  But in the remaining days before the statewide mandate is set to expire, at least Chicago anticipates that it will "provide an update."  
+
+> As Illinois aims to lift its mask mandate by Feb. 28, a similar decision could be announced soon in Chicago, although the city is taking a different approach and not providing a specific timeline for such a move.
+> 
+>  . . . 
+> 
+> Chicago Department of Public Health Commissioner Dr. Allison Arwady said the city is relying on a set of metrics to determine when restrictions can be lifted, and three out of four key metrics must be met to move forward with easing restrictions.
+
+When the Bush administration used that argument in Iraq, he was excoriated.  Yet now, it's somehow acceptable in the context of COVID-19? 
+
+What *exactly* will be updated?  Arwady's ability to make sense of such elusive, nebulous concepts of "cause" and "effect"?  Or perhaps the deficits in Arwady's basic comprehension, related to hypothesized assumptions about the relationship between cases and fatalities, based on pre-omicron speculation?  
+
+This city has suffered her ineptitude far too long.  Arwady must resign.  Everything about Arwady's so-called guidance is nonsensical, exhausting absurdity.  Even down to the language used to describe this process of rule by administrative decree of the "public health" apparatus.
+
