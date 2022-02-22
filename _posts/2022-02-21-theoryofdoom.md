@@ -127,3 +127,7 @@ That’s to be expected.
 
 Policy ought to be downstream from science, but that means that if your proposed mitigation efforts are empirical failures you take notice.
 
+----- __119.4__ -----2022-02-22 10:43:29+08:00:
+
+I agree the level of overreach will have generationally significant implications.  But I also know that an abundance of people blindly follow those in a position of "authority," based solely on the fact that the "authority" holds such a position.
+
