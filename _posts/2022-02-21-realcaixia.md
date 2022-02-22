@@ -91,3 +91,11 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 请仔细琢磨王圣强的微博文字。关注王圣强可能面对的境遇。<br><br>良知❣️❣️自知: 中共把令黑社会都不耻的<br><br>惨绝人寰的坏事都干完了！<br><br><img style="" src="https://pbs.twimg.com/media/FMImYB-VIAMvx9d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 20: [2022-02-22 20:36:42+08:00 推文](https://twitter.com/realcaixia/status/1496101641791188992)
+
+说得好！问题是这位教授现在还能站在讲台上吗？中共在全国高校剥夺了许多教授讲课的权利。<br><br>xiaoxing: 这段话最好的解开了共产党的底裤！<br>最近中共刚刚说：<br>“美国是假民主。人民只有投票权。而中国是真正的民主。因为我们以老百姓的利益为重。老百姓说了算！”<br>👇教授的专业驳斥！<br><br><video src="https://video.twimg.com/ext_tw_video/1496043737708843011/pu/vid/476x270/nDoo3a1W780ZsZZq.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1496043737708843011/pu/img/MOpn-F-PVvulzm8q.jpg"></video>
+
+### 21: [2022-02-22 23:46:18+08:00 推文](https://twitter.com/realcaixia/status/1496149357225259020)
+
+俄军进入乌东城市，说是“维持秩序”，真是强盗逻辑！普金此前闪电访北京9小时，发出习与普金联合声明。这一下把中共绑在普金战车上，搞得七常委一周闭门激烈讨论怎么办？<br>习玩不过普金。普金真开干了，习既怕俄国又不敢得罪欧美，对内镇压对外怂包。<br>何以如此？推荐方舟文章： <a href="https://yibaochina.com/?p=245071" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245071</a>
+
