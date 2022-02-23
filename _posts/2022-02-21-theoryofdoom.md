@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-22
+date: 2022-02-23
 from: https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/
 layout: post
 tags:
@@ -154,4 +154,14 @@ When the Bush administration used that argument in Iraq, he was excoriated.  Yet
 What *exactly* will be updated?  Arwady's ability to make sense of such elusive, nebulous concepts of "cause" and "effect"?  Or perhaps the deficits in Arwady's basic comprehension, related to hypothesized assumptions about the relationship between cases and fatalities, based on pre-omicron speculation?  
 
 This city has suffered her ineptitude far too long.  Arwady must resign.  Everything about Arwady's so-called guidance is nonsensical, exhausting absurdity.  Even down to the language used to describe this process of rule by administrative decree of the "public health" apparatus.
+
+### 122: [Chicago to lift mask and vaccine mandates on Feb. 28, but keep masks in schools for now](https://old.reddit.com/r/CoronavirusIllinois/comments/syvnnd/chicago_to_lift_mask_and_vaccine_mandates_on_feb/), submitted on 2022-02-23 03:12:29+08:00.
+
+----- __122.1__ -----2022-02-23 13:16:45+08:00:
+
+> At least the real reason for keeping masks in schools is right below the headline - “Rather than risk yet another confrontation with the Chicago Teachers Union”
+
+I am no teacher's union defender.  As you may have guessed.  But to their credit, they were one of the few relevant stakeholders who emphasized the need for increased ventilation.  They negotiated hard on this point, too.  
+
+That being said, to the extent they lobbied the city to keep the mask mandate in place, I disapprove of their conduct.  Obviously.
 
