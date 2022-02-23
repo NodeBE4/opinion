@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-21
+date: 2022-02-23
 from: https://old.reddit.com/r/OutOfTheLoop/comments/sx4z3o/what_is_up_with_不知火フレア3d新ビジュアルお披露目_popping_up_on/
 layout: post
 tags:
@@ -45,6 +45,16 @@ So obviously it's far from certain, but there are a few things:
 
 As noted, much of this is necessarily speculative because Cover doesn't just leak info constantly, but considering that new debuts at Hololive do generally take quite a long time to prepare, it does seem pretty reasonable to suggest that there was a plan to create HoloEN by late 2019 at the latest.
 
+----- __147.6__ -----2022-02-23 11:23:03+08:00:
+
+Depends which harassment: the long story short is the girl's fans mostly harassed the guy and vice versa.
+
+----- __147.7__ -----2022-02-23 11:25:13+08:00:
+
+> only one brought in wholesale from her prior company.
+
+Not quite, she had started as an indie, signed on with an agency briefly, and then left again a good while before getting into Hololive.
+
 ### 148: [Remember when people said that NFTs would be a good thing for online artists?](https://old.reddit.com/r/Buttcoin/comments/sx6azj/remember_when_people_said_that_nfts_would_be_a/), submitted on 2022-02-21 01:24:38+08:00.
 
 ----- __148.1__ -----2022-02-21 12:24:04+08:00:
@@ -75,13 +85,37 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 151: [What Are Some Buildings With History/Purposes Like the Sainte-Chappelle?](https://old.reddit.com/r/AskHistorians/comments/sxuqsv/what_are_some_buildings_with_historypurposes_like/), submitted on 2022-02-21 22:25:11+08:00.
+### 151: [Mindless Monday, 21 February 2022](https://old.reddit.com/r/badhistory/comments/sxrv30/mindless_monday_21_february_2022/), submitted on 2022-02-21 20:00:16+08:00.
 
------ __151.1__ -----2022-02-21 23:46:42+08:00:
+----- __151.1__ -----2022-02-23 11:14:32+08:00:
+
+Without trying to start a slapfight, I feel like that critique principally consists of quibbling over interpreting some admittedly ambiguous wording on Invicta's part that doesn't actually impinge on the content that much. The fact is, we *don't* know where the Immortals were garrisoned, how they were recruited, or how they were trained. We know that there were *some* troops stationed in the vicinity of the palace, but not which; we know that the Immortals were recruited from the Persian population, but not on what basis; and we know that Persian nobles had some degree of individual martial training from birth, but not if they trained as a unit (nor, moreover, if the non-noble Persians making up the bulk of the royal corps had comparable individual training to the nobles). The remainder of the critique seems to be based on the idea that we ought to take Herodotos as precisely correct in all details at face value, rather than even allowing the possibility of a 'may' in there. Granted, Herodotos is also pretty unambiguous that all but one of the Immortals did stay behind for Plataiai, so that is a goof, but by and large the majority of objections are to the presence of the word 'may' at all.
+
+### 152: [What Are Some Buildings With History/Purposes Like the Sainte-Chappelle?](https://old.reddit.com/r/AskHistorians/comments/sxuqsv/what_are_some_buildings_with_historypurposes_like/), submitted on 2022-02-21 22:25:11+08:00.
+
+----- __152.1__ -----2022-02-21 23:46:42+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 153: [What are some examples of bad medicines used in medieval societies?](https://old.reddit.com/r/AskHistorians/comments/sz3w60/what_are_some_examples_of_bad_medicines_used_in/), submitted on 2022-02-23 09:04:42+08:00.
+
+----- __153.1__ -----2022-02-23 11:37:21+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 154: [how (and why) has the confirmed kill count for the average foot soldier changed throughout history?](https://old.reddit.com/r/AskHistorians/comments/sz4yjp/how_and_why_has_the_confirmed_kill_count_for_the/), submitted on 2022-02-23 09:54:04+08:00.
+
+----- __154.1__ -----2022-02-23 11:37:46+08:00:
+
+Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
+ 
+So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
