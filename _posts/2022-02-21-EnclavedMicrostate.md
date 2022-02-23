@@ -161,3 +161,7 @@ Hello! Thanks for coming on to do an AMA with us.
 
 A bit of a general question, but how far would you say that video games about the First World War have helped improve the public's understanding, especially in terms of challenging existing narratives in popular culture?
 
+----- __159.2__ -----2022-02-24 00:11:38+08:00:
+
+Thanks!
+
