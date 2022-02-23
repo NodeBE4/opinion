@@ -171,3 +171,7 @@ I am no teacher's union defender.  As you may have guessed.  But to their credit
 
 That being said, to the extent they lobbied the city to keep the mask mandate in place, I disapprove of their conduct.  Obviously.
 
+----- __122.2__ -----2022-02-23 20:29:08+08:00:
+
+Well that was the point of this entire exercise in idiocy.
+
