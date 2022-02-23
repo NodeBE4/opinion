@@ -28,6 +28,10 @@ A similarly innovative shift in the cyber-realm will likely require an intense p
 
 [China’s Ukraine Crisis: What Xi Gains—and Loses—From Backing Putin By Jude Blanchette and Bonny Lin](https://www.foreignaffairs.com/articles/china/2022-02-21/chinas-ukraine-crisis)
 
+----- __131.2__ -----2022-02-23 22:52:52+08:00:
+
+["Putin’s Long Game in Ukraine: How the West Can Still Protect Kyiv" by Alina Polyakova and Daniel Fried.](https://www.foreignaffairs.com/articles/ukraine/2022-02-23/putins-long-game-ukraine)
+
 ### 132: [Russia’s Shock and Awe: Why Moscow Would Use Overwhelming Force Against Ukraine](https://old.reddit.com/r/geopolitics/comments/sy9egz/russias_shock_and_awe_why_moscow_would_use/), submitted on 2022-02-22 08:34:29+08:00.
 
 ----- __132.1__ -----2022-02-22 08:36:14+08:00:

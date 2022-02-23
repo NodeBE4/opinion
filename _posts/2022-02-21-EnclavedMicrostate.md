@@ -153,3 +153,11 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 159: [I’m Chris Kempshall: a historian of First World War allied relations, historical computer games, and Star Wars - AMA!](https://old.reddit.com/r/AskHistorians/comments/szjgl9/im_chris_kempshall_a_historian_of_first_world_war/), submitted on 2022-02-23 23:00:02+08:00.
+
+----- __159.1__ -----2022-02-23 23:09:34+08:00:
+
+Hello! Thanks for coming on to do an AMA with us.
+
+A bit of a general question, but how far would you say that video games about the First World War have helped improve the public's understanding, especially in terms of challenging existing narratives in popular culture?
+
