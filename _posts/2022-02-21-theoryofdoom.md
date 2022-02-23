@@ -155,6 +155,12 @@ What *exactly* will be updated?  Arwady's ability to make sense of such elusive,
 
 This city has suffered her ineptitude far too long.  Arwady must resign.  Everything about Arwady's so-called guidance is nonsensical, exhausting absurdity.  Even down to the language used to describe this process of rule by administrative decree of the "public health" apparatus.
 
+----- __121.2__ -----2022-02-23 13:51:09+08:00:
+
+> It is a very loud 10%, though (personally, I'd estimate it to be about 15%).
+
+It's a very loud 25% or so in the city of Chicago, of whom less than 1/5th actually believe the mandates made a difference.  4/5 of them individually, one on one, and they will tell you what they see in the data: that mask mandates made no difference whatsoever.
+
 ### 122: [Chicago to lift mask and vaccine mandates on Feb. 28, but keep masks in schools for now](https://old.reddit.com/r/CoronavirusIllinois/comments/syvnnd/chicago_to_lift_mask_and_vaccine_mandates_on_feb/), submitted on 2022-02-23 03:12:29+08:00.
 
 ----- __122.1__ -----2022-02-23 13:16:45+08:00:
