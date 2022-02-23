@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-02-23
+date: 2022-02-24
 from: https://twitter.com/nathanlawkc/status/1496211396698198021
 layout: post
 tags:
@@ -28,4 +28,8 @@ An awesome collection of great Hong Kong movies.<br>They will capture your imagi
 ### 3: [2022-02-23 19:17:40+08:00 推文](https://twitter.com/nathanlawkc/status/1496444142305660933)
 
 Not sure why we continue to allow Chinese officials to use the platform they banned in the PRC to spread lies and stigmatization (with an Iphone).<br>Anyone overlooking the ongoing Crimes Against Humanities in Xinjiang, Tibet and suppression in Hong Kong is the colluder of dictators<br><img style="" src="https://pbs.twimg.com/media/FMRv8XmXMAA48SL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-02-24 04:35:29+08:00 推文](https://twitter.com/nathanlawkc/status/1496584520790859780)
+
+Huge effort on the BN(O) scheme expansion!<br><br>Luke de Pulford 裴倫德: 🚨Hearing STRONG rumours within @GOVUK that BN(O) scheme for #HongKong WILL be extended within 24 hours to include some younger #HKers (details unclear)<br><br>If so, HUGE credit @hk_watch @DamianGreen @DavidAltonHL Lord Patten @benedictrogers @Johnny_HKWatch @SamGoodman22 + others 👏<br><br><img style="" src="https://pbs.twimg.com/media/FMTNH--WYAI6Rpx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
