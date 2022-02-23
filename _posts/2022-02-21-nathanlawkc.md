@@ -25,3 +25,7 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 An awesome collection of great Hong Kong movies.<br>They will capture your imagination and inspire you to look into the city with a fresh perspective.<br><br>Hong Kong Film Festival UK: 🎬How does the city look like in your imagination?<br><br>The programme and ticketing arrangement will be  announced tomorrow (23/2). <br><br>_____________________________<br>🎥1st HKFF(UK): Rupture and Rebirth<br>🗓London 19/3 - 27/3 <br>Manchester, Bristol, Edinburgh Coming Soon<br>#HKFFUK #HKFFUK2022<br><br><video src="https://video.twimg.com/ext_tw_video/1496215418863771668/pu/vid/1280x720/svRNLiVx_l8g6_7m.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1496215418863771668/pu/img/JUumohFg7L8P21-0.jpg"></video>
 
+### 3: [2022-02-23 19:17:40+08:00 推文](https://twitter.com/nathanlawkc/status/1496444142305660933)
+
+Not sure why we continue to allow Chinese officials to use the platform they banned in the PRC to spread lies and stigmatization (with an Iphone).<br>Anyone overlooking the ongoing Crimes Against Humanities in Xinjiang, Tibet and suppression in Hong Kong is the colluder of dictators<br><img style="" src="https://pbs.twimg.com/media/FMRv8XmXMAA48SL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
