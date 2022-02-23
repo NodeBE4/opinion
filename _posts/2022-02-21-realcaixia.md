@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-22
+date: 2022-02-24
 from: https://twitter.com/realcaixia/status/1495458588868988935
 layout: post
 tags:
@@ -98,4 +98,8 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 ### 21: [2022-02-22 23:46:18+08:00 推文](https://twitter.com/realcaixia/status/1496149357225259020)
 
 俄军进入乌东城市，说是“维持秩序”，真是强盗逻辑！普金此前闪电访北京9小时，发出习与普金联合声明。这一下把中共绑在普金战车上，搞得七常委一周闭门激烈讨论怎么办？<br>习玩不过普金。普金真开干了，习既怕俄国又不敢得罪欧美，对内镇压对外怂包。<br>何以如此？推荐方舟文章： <a href="https://yibaochina.com/?p=245071" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245071</a>
+
+### 22: [2022-02-24 01:12:47+08:00 推文](https://twitter.com/realcaixia/status/1496533507908288514)
+
+江苏彻底的不要脸了！之前，任社会舆论多么强烈，江苏省就是躺平，因为习当局没发指示；现在，任事实真相明摆着，江苏省彻底不要脸，也应是习当局指示彻底不要脸、全力保权力！因此谁再议论铁链女谁就是反党。<br>不要忘了雷洋、李文亮，不要忘记铁链女，因为大陆人随时可能变成雷洋李文亮铁链女<br><br>鲁  难: 愤怒的人民不再恐惧。申请游行！<br><br><video src="https://video.twimg.com/ext_tw_video/1496520705340489732/pu/vid/480x852/49jx2eiGgGI8E8Wo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1496520705340489732/pu/img/SZ5Rta0-rb94LwOp.jpg"></video>
 
