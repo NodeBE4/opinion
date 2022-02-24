@@ -183,29 +183,35 @@ Well that was the point of this entire exercise in idiocy.
 
 Your username is excellent.  Now that we have that out of the way, I disapprove of the Chicago Teachers Union's efforts to delay the return to in-person instruction.
 
-### 123: [People informally talk about Russia’s invasion of Ukraine as “starting WWIII.” How similar is this to Nazi Germany’s invasion of Poland, effectively starting WWII?](https://old.reddit.com/r/geopolitics/comments/szo5vl/people_informally_talk_about_russias_invasion_of/), submitted on 2022-02-24 02:23:11+08:00.
+### 123: [What corporate buzzwords/phrases make your skin crawl?](https://old.reddit.com/r/AskReddit/comments/sznfsz/what_corporate_buzzwordsphrases_make_your_skin/), submitted on 2022-02-24 01:52:23+08:00.
 
------ __123.1__ -----2022-02-24 08:16:56+08:00:
+----- __123.1__ -----2022-02-24 20:01:00+08:00:
+
+All of them.
+
+### 124: [People informally talk about Russia’s invasion of Ukraine as “starting WWIII.” How similar is this to Nazi Germany’s invasion of Poland, effectively starting WWII?](https://old.reddit.com/r/geopolitics/comments/szo5vl/people_informally_talk_about_russias_invasion_of/), submitted on 2022-02-24 02:23:11+08:00.
+
+----- __124.1__ -----2022-02-24 08:16:56+08:00:
 
 Hitler's "Lebensraum" justification for invading Poland bears many of the same hallmarks of Putin's invading Ukraine, at least if you take Kremlin rhetoric at face value.  There are those who believe such things.  But what is at issue here, for Russia, is natural gas, and Russia's control of its supply to the European continent.  Hitler wasn't after that.
 
-### 124: [How Ukraine Was Betrayed in Budapest](https://old.reddit.com/r/geopolitics/comments/szvxx3/how_ukraine_was_betrayed_in_budapest/), submitted on 2022-02-24 07:55:14+08:00.
+### 125: [How Ukraine Was Betrayed in Budapest](https://old.reddit.com/r/geopolitics/comments/szvxx3/how_ukraine_was_betrayed_in_budapest/), submitted on 2022-02-24 07:55:14+08:00.
 
------ __124.1__ -----2022-02-24 08:06:48+08:00:
+----- __125.1__ -----2022-02-24 08:06:48+08:00:
 
 Submission Statement: 
 
 Echoing [what I wrote almost three months ago](https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/), this WSJ Editorial Board article explains how Ukraine was betrayed in Budapest.  As many of you now know, the Budapest Memorandum was a 1994 "agreement," wherein Ukraine surrendered its nuclear weapons inherited from the Soviet Union in exchange for a worthless promise from Russia to respect its territorial integrity and sovereignty.  Two decades later, Vladimir Putin vitiated both without resistance.  In so doing, Putin has dealt the single greatest blow to nuclear non-proliferation since the USSR's collapse.
 
------ __124.2__ -----2022-02-24 08:44:39+08:00:
+----- __125.2__ -----2022-02-24 08:44:39+08:00:
 
 That's the problem, isn't it?  Rule of the jungle prevailing, to the exclusion of the rule of law.
 
------ __124.3__ -----2022-02-24 09:32:35+08:00:
+----- __125.3__ -----2022-02-24 09:32:35+08:00:
 
 Related: [How to Beat Putin With Natural Gas](https://www.wsj.com/articles/putin-green-energy-price-independence-gas-lng-fracking-russia-ukraine-invasion-europe-germany-nord-stream-11645650131?fbclid=IwAR0Kvhx1G5RKWyI89LrCzP5NxKqMjNoPmG5gQODcz6Ig4-REJ2zqibzpP5c)
 
------ __124.4__ -----2022-02-24 10:10:39+08:00:
+----- __125.4__ -----2022-02-24 10:10:39+08:00:
 
 Your point doesn't address what I said.  The abstract, free-floating concept of "international law" is little more than the sum of high ideals and unenforceable expectations.  
 
@@ -213,11 +219,11 @@ My point was more concrete.  As George H. W. Bush did, I distinguished between t
 
 In the context of Ukraine, it comes down to this: Does the United States keep its word?  Are its promises credible?  If Biden is unwilling to enforce the Budapest Memorandum's security guarantee, we cannot reasonably expect another country to rely on the United States' promises in foreign policy negotiations.
 
------ __124.5__ -----2022-02-24 10:59:24+08:00:
+----- __125.5__ -----2022-02-24 10:59:24+08:00:
 
 That language is what it is.
 
------ __124.6__ -----2022-02-24 12:20:57+08:00:
+----- __125.6__ -----2022-02-24 12:20:57+08:00:
 
 > Rule of Law completely constrains the actions of all countries at all times
 
@@ -227,27 +233,27 @@ That's not how treaties, agreements and the like between countries work.  A coun
 
 In international relations, you can only expect what you can enforce.
 
------ __124.7__ -----2022-02-24 12:40:59+08:00:
+----- __125.7__ -----2022-02-24 12:40:59+08:00:
 
 No question there's limits to what any international agreement can achieve.  Might makes right in anarchy, which touches upon what you'd referenced earlier.  The challenge is figuring out how can conflict be resolved between states with different levels of power, in the absence of war.  That's a harder sell with some actors than with others.
 
------ __124.8__ -----2022-02-24 12:41:19+08:00:
+----- __125.8__ -----2022-02-24 12:41:19+08:00:
 
 Jimmy Carter or Joe Biden.
 
------ __124.9__ -----2022-02-24 12:44:46+08:00:
+----- __125.9__ -----2022-02-24 12:44:46+08:00:
 
 I think you're suggesting that states that cannot engage in conventional warfare should rationally pursue nuclear programs, to underwrite their security against invasion.  A lot of others have made that argument, for many years.  Countering it is a much harder sell when the United States, or a particular administration that currently holds the executive branch, fails to live up to its promises.
 
------ __124.10__ -----2022-02-24 12:56:37+08:00:
+----- __125.10__ -----2022-02-24 12:56:37+08:00:
 
 In the status quo, too much weight is given to the complaints of bad-faith actors on the international stage.  Putin would be a case study in such misconduct.  For example, Putin claims that some promise was conveyed to Boris Yeltisin at some point relating to not expanding NATO membership.  No such promise was ever made.  Putin uses that fictitious "broken promise" as justification to break promises made on Russia's behalf.  But Russia is hardly the only one.  Only the most visible at the moment.
 
------ __124.11__ -----2022-02-24 12:57:28+08:00:
+----- __125.11__ -----2022-02-24 12:57:28+08:00:
 
 Given that, would you prefer the United States set the rules?  Or China?  Russia?
 
------ __124.12__ -----2022-02-24 13:02:28+08:00:
+----- __125.12__ -----2022-02-24 13:02:28+08:00:
 
 Gaddafi had made substantial steps towards a nuclear program.  He voluntarily disarmed and dismantled his nuclear program, during the Bush years in exchange for security assurances.  
 
