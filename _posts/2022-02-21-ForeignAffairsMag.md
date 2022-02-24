@@ -46,6 +46,10 @@ A similarly innovative shift in the cyber-realm will likely require an intense p
 
 [Putin Is Repeating the USSR’s Mistakes: Attacking Ukraine Will Likely Strengthen NATO, By James Hershberg](https://www.foreignaffairs.com/articles/ukraine/2022-02-24/putin-repeating-ussrs-mistakes)
 
+----- __133.2__ -----2022-02-25 01:21:15+08:00:
+
+[Russia’s Shock and Awe: Moscow’s Use of Overwhelming Force Against Ukraine by Michael Kofman and Jeffrey Edmonds](https://www.foreignaffairs.com/articles/ukraine/2022-02-21/russias-shock-and-awe)
+
 ### 134: [The Dictator’s New Playbook: Why Democracy Is Losing the Fight](https://old.reddit.com/r/geopolitics/comments/t0egn4/the_dictators_new_playbook_why_democracy_is/), submitted on 2022-02-25 00:02:21+08:00.
 
 ----- __134.1__ -----2022-02-25 00:03:56+08:00:
