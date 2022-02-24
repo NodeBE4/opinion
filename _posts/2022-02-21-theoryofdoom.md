@@ -213,3 +213,7 @@ My point was more concrete.  As George H. W. Bush did, I distinguished between t
 
 In the context of Ukraine, it comes down to this: Does the United States keep its word?  Are its promises credible?  If Biden is unwilling to enforce the Budapest Memorandum's security guarantee, we cannot reasonably expect another country to rely on the United States' promises in foreign policy negotiations.
 
+----- __124.5__ -----2022-02-24 10:59:24+08:00:
+
+That language is what it is.
+
