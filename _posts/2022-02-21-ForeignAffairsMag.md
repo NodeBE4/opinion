@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-22
+date: 2022-02-25
 from: https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/
 layout: post
 tags:
@@ -39,4 +39,19 @@ A similarly innovative shift in the cyber-realm will likely require an intense p
 \[SS from the article by Michael Kofman, Research Program Director of the Russia Studies Program at the Center for Naval Analyses, and Jeffrey Edmonds, Senior Research Scientist in the Russia Studies Program at the Center for Naval Analyses\]
 
 "A war between Russia and Ukraine could prove to be incredibly destructive. Even if the initial phase were quick and decisive, the conflict could morph into a dragged-out insurgency featuring a great number of refugees and civilian casualties—especially if the war reached urban areas. The scale and potential for escalation of such a conflict are difficult to predict, but they would likely produce levels of violence unseen in Europe since the 1990s, when Yugoslavia tore itself apart."
+
+### 133: [Russia invades Ukraine Megathread I - Rule changes inside](https://old.reddit.com/r/europe/comments/t07d1k/russia_invades_ukraine_megathread_i_rule_changes/), submitted on 2022-02-24 18:00:19+08:00.
+
+----- __133.1__ -----2022-02-24 23:56:19+08:00:
+
+[Putin Is Repeating the USSR’s Mistakes: Attacking Ukraine Will Likely Strengthen NATO, By James Hershberg](https://www.foreignaffairs.com/articles/ukraine/2022-02-24/putin-repeating-ussrs-mistakes)
+
+### 134: [The Dictator’s New Playbook: Why Democracy Is Losing the Fight](https://old.reddit.com/r/geopolitics/comments/t0egn4/the_dictators_new_playbook_why_democracy_is/), submitted on 2022-02-25 00:02:21+08:00.
+
+----- __134.1__ -----2022-02-25 00:03:56+08:00:
+
+\[SS from the article by Moisés Naím, Distinguished Fellow at the Carnegie Endowment for International Peace\]  
+
+
+"Around the world, from the richest countries to the poorest, a dangerous new crop of leaders has sprung up. Unlike their totalitarian counterparts, these populists entered office through elections, but they show decidedly undemocratic proclivities. They propagate lies that become articles of faith among their followers. They sell themselves as noble and pure champions of the people, fighting against corrupt and greedy elites. They defy any constraints on their power and concentrate it in their own hands, launching frontal attacks on the institutions that sustain constitutional democracy, stacking the judiciary and the legislature, declaring war on the press, and scrapping laws that check their authority.
 
