@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-23
+date: 2022-02-24
 from: https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/
 layout: post
 tags:
@@ -161,6 +161,10 @@ This city has suffered her ineptitude far too long.  Arwady must resign.  Everyt
 
 It's a very loud 25% or so in the city of Chicago, of whom less than 1/5th actually believe the mandates made a difference.  4/5 of them individually, one on one, and they will tell you what they see in the data: that mask mandates made no difference whatsoever.
 
+----- __121.3__ -----2022-02-24 07:45:24+08:00:
+
+Yep.  A fraction of a fraction.
+
 ### 122: [Chicago to lift mask and vaccine mandates on Feb. 28, but keep masks in schools for now](https://old.reddit.com/r/CoronavirusIllinois/comments/syvnnd/chicago_to_lift_mask_and_vaccine_mandates_on_feb/), submitted on 2022-02-23 03:12:29+08:00.
 
 ----- __122.1__ -----2022-02-23 13:16:45+08:00:
@@ -174,4 +178,30 @@ That being said, to the extent they lobbied the city to keep the mask mandate in
 ----- __122.2__ -----2022-02-23 20:29:08+08:00:
 
 Well that was the point of this entire exercise in idiocy.
+
+----- __122.3__ -----2022-02-24 08:23:45+08:00:
+
+Your username is excellent.  Now that we have that out of the way, I disapprove of the Chicago Teachers Union's efforts to delay the return to in-person instruction.
+
+### 123: [People informally talk about Russia’s invasion of Ukraine as “starting WWIII.” How similar is this to Nazi Germany’s invasion of Poland, effectively starting WWII?](https://old.reddit.com/r/geopolitics/comments/szo5vl/people_informally_talk_about_russias_invasion_of/), submitted on 2022-02-24 02:23:11+08:00.
+
+----- __123.1__ -----2022-02-24 08:16:56+08:00:
+
+Hitler's "Lebensraum" justification for invading Poland bears many of the same hallmarks of Putin's invading Ukraine, at least if you take Kremlin rhetoric at face value.  There are those who believe such things.  But what is at issue here, for Russia, is natural gas, and Russia's control of its supply to the European continent.  Hitler wasn't after that.
+
+### 124: [How Ukraine Was Betrayed in Budapest](https://old.reddit.com/r/geopolitics/comments/szvxx3/how_ukraine_was_betrayed_in_budapest/), submitted on 2022-02-24 07:55:14+08:00.
+
+----- __124.1__ -----2022-02-24 08:06:48+08:00:
+
+Submission Statement: 
+
+Echoing [what I wrote almost three months ago](https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/), this WSJ Editorial Board article explains how Ukraine was betrayed in Budapest.  As many of you now know, the Budapest Memorandum was a 1994 "agreement," wherein Ukraine surrendered its nuclear weapons inherited from the Soviet Union in exchange for a worthless promise from Russia to respect its territorial integrity and sovereignty.  Two decades later, Vladimir Putin vitiated both without resistance.  In so doing, Putin has dealt the single greatest blow to nuclear non-proliferation since the USSR's collapse.
+
+----- __124.2__ -----2022-02-24 08:44:39+08:00:
+
+That's the problem, isn't it?  Rule of the jungle prevailing, to the exclusion of the rule of law.
+
+----- __124.3__ -----2022-02-24 09:32:35+08:00:
+
+Related: [How to Beat Putin With Natural Gas](https://www.wsj.com/articles/putin-green-energy-price-independence-gas-lng-fracking-russia-ukraine-invasion-europe-germany-nord-stream-11645650131?fbclid=IwAR0Kvhx1G5RKWyI89LrCzP5NxKqMjNoPmG5gQODcz6Ig4-REJ2zqibzpP5c)
 
