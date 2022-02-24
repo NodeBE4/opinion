@@ -205,3 +205,11 @@ That's the problem, isn't it?  Rule of the jungle prevailing, to the exclusion o
 
 Related: [How to Beat Putin With Natural Gas](https://www.wsj.com/articles/putin-green-energy-price-independence-gas-lng-fracking-russia-ukraine-invasion-europe-germany-nord-stream-11645650131?fbclid=IwAR0Kvhx1G5RKWyI89LrCzP5NxKqMjNoPmG5gQODcz6Ig4-REJ2zqibzpP5c)
 
+----- __124.4__ -----2022-02-24 10:10:39+08:00:
+
+Your point doesn't address what I said.  The abstract, free-floating concept of "international law" is little more than the sum of high ideals and unenforceable expectations.  
+
+My point was more concrete.  As George H. W. Bush did, I distinguished between the rule of law and rule of the jungle; a reference to [this speech](https://www.youtube.com/watch?v=KJ6qpFpIFkY) that George H. W. Bush gave in 1991, after Saddam Hussein invaded Kuwait.  The rule of law only governs the conduct of nations when their word is backed up with force.  
+
+In the context of Ukraine, it comes down to this: Does the United States keep its word?  Are its promises credible?  If Biden is unwilling to enforce the Budapest Memorandum's security guarantee, we cannot reasonably expect another country to rely on the United States' promises in foreign policy negotiations.
+
