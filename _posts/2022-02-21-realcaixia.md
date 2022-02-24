@@ -107,3 +107,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 推荐王剑这期评论：如果想直接听王剑老师分析江苏调查组的做假、辩护，中共道德破产、人心丧尽等问题，请从25分钟时进入。江苏调查报告一出即炸开墙内民愤鼎沸。<br><br>王剑 Wong Kim: #铁链女 #八孩母亲 #江苏调查组 #小花梅 #杨庆侠 #董志民 #李莹 #拐卖妇女 #徐州 #丰县 #买卖人口 #云南福贡县 #四川南充 #南京医科大学 #乌克兰危机 #信息战 #紧急状态 #香港国安预算 #周江勇 #禁飞令<br> <a href="https://youtu.be/cza3PvF1Xn4" target="_blank" rel="noopener noreferrer">https://youtu.be/cza3PvF1Xn4</a>
 
+### 24: [2022-02-24 21:42:21+08:00 推文](https://twitter.com/realcaixia/status/1496842940584497160)
+
+这是《议报》刚发布的墙内来稿。这篇文章从方法论角度指出，江苏调查组的报告是不可信的！整个调查方法就是不严谨不科学的。我在前一推推荐王剑老师的评论，王剑老师的评论恰好与这篇社会学研究者的方法论文章是相互映证的。<br>特别推荐这篇文章与王剑老师评论z <a href="https://yibaochina.com/?p=245093" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245093</a>
+
