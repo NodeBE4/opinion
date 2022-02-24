@@ -239,3 +239,18 @@ Jimmy Carter or Joe Biden.
 
 I think you're suggesting that states that cannot engage in conventional warfare should rationally pursue nuclear programs, to underwrite their security against invasion.  A lot of others have made that argument, for many years.  Countering it is a much harder sell when the United States, or a particular administration that currently holds the executive branch, fails to live up to its promises.
 
+----- __124.10__ -----2022-02-24 12:56:37+08:00:
+
+In the status quo, too much weight is given to the complaints of bad-faith actors on the international stage.  Putin would be a case study in such misconduct.  For example, Putin claims that some promise was conveyed to Boris Yeltisin at some point relating to not expanding NATO membership.  No such promise was ever made.  Putin uses that fictitious "broken promise" as justification to break promises made on Russia's behalf.  But Russia is hardly the only one.  Only the most visible at the moment.
+
+----- __124.11__ -----2022-02-24 12:57:28+08:00:
+
+Given that, would you prefer the United States set the rules?  Or China?  Russia?
+
+----- __124.12__ -----2022-02-24 13:02:28+08:00:
+
+Gaddafi had made substantial steps towards a nuclear program.  He voluntarily disarmed and dismantled his nuclear program, during the Bush years in exchange for security assurances.  
+
+What happened in Libya under Hillary Clinton's time as Secretary of State was a catastrophic blow to nonproliferation efforts.  Gaddafi, after all, disarmed in reliance on the promise of the United States.  Then what occurred, occurred.  The world took notice. 
+ None can credibly claim that because Gaddafi didn't have nukes fully developed, what occurred was irrelevant to nuclear non-proliferation.
+

@@ -91,6 +91,16 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Without trying to start a slapfight, I feel like that critique principally consists of quibbling over interpreting some admittedly ambiguous wording on Invicta's part that doesn't actually impinge on the content that much. The fact is, we *don't* know where the Immortals were garrisoned, how they were recruited, or how they were trained. We know that there were *some* troops stationed in the vicinity of the palace, but not which; we know that the Immortals were recruited from the Persian population, but not on what basis; and we know that Persian nobles had some degree of individual martial training from birth, but not if they trained as a unit (nor, moreover, if the non-noble Persians making up the bulk of the royal corps had comparable individual training to the nobles). The remainder of the critique seems to be based on the idea that we ought to take Herodotos as precisely correct in all details at face value, rather than even allowing the possibility of a 'may' in there. Granted, Herodotos is also pretty unambiguous that all but one of the Immortals did stay behind for Plataiai, so that is a goof, but by and large the majority of objections are to the presence of the word 'may' at all.
 
+----- __151.2__ -----2022-02-24 13:25:53+08:00:
+
+> it seems unlikely to me that the 10’000 immortals, who are constantly being replaced, we’re all aristocrats.
+
+Indeed not, and in fact we can quote Herodotos (7.41) here to show it: 
+
+> Behind him came a thousand spearmen of the best and noblest blood of Persia, carrying their spears in the customary manner; after them a thousand picked Persian horsemen, and after the horse ten thousand that were footmen, chosen out of the rest of the Persians. One thousand of these latter bore golden pomegranates on their spear-shafts in place of the spike, and surrounded the rest; the nine thousand were enclosed within, and bore silver pomegranates; they that held their spears reversed carried golden pomegranates also, and they that were nearest to Xerxes, apples of gold. After the ten thousand came ten thousand Persian horsemen in array. After these there was a space of two furlongs, and next the rest of the multitude followed without order or division.
+
+So, in what we might term the 'royal corps' of Persian standing troops, 1000 (the spearmen in the vanguard) were recruited from the nobility, 1000 (the cavalry) are implied to have been the same, and 20,000 (10,000 infantry and 10,000 cavalry) were recruited from the Persian population writ large.
+
 ### 152: [What Are Some Buildings With History/Purposes Like the Sainte-Chappelle?](https://old.reddit.com/r/AskHistorians/comments/sxuqsv/what_are_some_buildings_with_historypurposes_like/), submitted on 2022-02-21 22:25:11+08:00.
 
 ----- __152.1__ -----2022-02-21 23:46:42+08:00:
