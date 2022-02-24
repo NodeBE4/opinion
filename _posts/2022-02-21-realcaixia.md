@@ -103,3 +103,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 江苏彻底的不要脸了！之前，任社会舆论多么强烈，江苏省就是躺平，因为习当局没发指示；现在，任事实真相明摆着，江苏省彻底不要脸，也应是习当局指示彻底不要脸、全力保权力！因此谁再议论铁链女谁就是反党。<br>不要忘了雷洋、李文亮，不要忘记铁链女，因为大陆人随时可能变成雷洋李文亮铁链女<br><br>鲁  难: 愤怒的人民不再恐惧。申请游行！<br><br><video src="https://video.twimg.com/ext_tw_video/1496520705340489732/pu/vid/480x852/49jx2eiGgGI8E8Wo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1496520705340489732/pu/img/SZ5Rta0-rb94LwOp.jpg"></video>
 
+### 23: [2022-02-24 21:30:12+08:00 推文](https://twitter.com/realcaixia/status/1496839883771777031)
+
+推荐王剑这期评论：如果想直接听王剑老师分析江苏调查组的做假、辩护，中共道德破产、人心丧尽等问题，请从25分钟时进入。江苏调查报告一出即炸开墙内民愤鼎沸。<br><br>王剑 Wong Kim: #铁链女 #八孩母亲 #江苏调查组 #小花梅 #杨庆侠 #董志民 #李莹 #拐卖妇女 #徐州 #丰县 #买卖人口 #云南福贡县 #四川南充 #南京医科大学 #乌克兰危机 #信息战 #紧急状态 #香港国安预算 #周江勇 #禁飞令<br> <a href="https://youtu.be/cza3PvF1Xn4" target="_blank" rel="noopener noreferrer">https://youtu.be/cza3PvF1Xn4</a>
+
