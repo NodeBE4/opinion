@@ -217,3 +217,25 @@ In the context of Ukraine, it comes down to this: Does the United States keep it
 
 That language is what it is.
 
+----- __124.6__ -----2022-02-24 12:20:57+08:00:
+
+> Rule of Law completely constrains the actions of all countries at all times
+
+That's not how treaties, agreements and the like between countries work.  A country is only bound, to the extent it agrees to be bound.  It's not as if the UN can just legislate without regard to other countries sovereignty, for example.  It's possible you meant to communicate that, but it wasn't clear based on what you said.
+
+> And it is evolving slowly in terms of how constraining it is. Of course all law needs enforcement, but the means of enforcement and how equitable they are, are also evolving. 
+
+In international relations, you can only expect what you can enforce.
+
+----- __124.7__ -----2022-02-24 12:40:59+08:00:
+
+No question there's limits to what any international agreement can achieve.  Might makes right in anarchy, which touches upon what you'd referenced earlier.  The challenge is figuring out how can conflict be resolved between states with different levels of power, in the absence of war.  That's a harder sell with some actors than with others.
+
+----- __124.8__ -----2022-02-24 12:41:19+08:00:
+
+Jimmy Carter or Joe Biden.
+
+----- __124.9__ -----2022-02-24 12:44:46+08:00:
+
+I think you're suggesting that states that cannot engage in conventional warfare should rationally pursue nuclear programs, to underwrite their security against invasion.  A lot of others have made that argument, for many years.  Countering it is a much harder sell when the United States, or a particular administration that currently holds the executive branch, fails to live up to its promises.
+

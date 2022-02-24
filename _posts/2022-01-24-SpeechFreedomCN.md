@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-24~2022-01-30'
 
 ### 1: [2022-01-24 16:50:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1485535362046996481)
 
-成都网民蒲正宝，因在网络发表“攻击党和国家领导人及涉港的负面言论（具体包括在推特声援李田田老师及批评习近平）“，被处拘留10日。<br><img style="" src="https://pbs.twimg.com/media/FJ2t4QyX0AEhJ6r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+成都网民蒲正宝，因在网络发表“攻击党和国家领导人及涉港的负面言论（具体包括在推特声援李田田老师及批评习近平）“，被处拘留10日。<br><img style src="https://pbs.twimg.com/media/FJ2t4QyX0AEhJ6r?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-24 16:51:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1485535673272651781)
 
