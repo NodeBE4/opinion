@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-23
+date: 2022-02-25
 from: https://old.reddit.com/r/OutOfTheLoop/comments/sx4z3o/what_is_up_with_不知火フレア3d新ビジュアルお披露目_popping_up_on/
 layout: post
 tags:
@@ -174,4 +174,10 @@ A bit of a general question, but how far would you say that video games about th
 ----- __159.2__ -----2022-02-24 00:11:38+08:00:
 
 Thanks!
+
+### 160: [Megathread on recent events in Ukraine](https://old.reddit.com/r/AskHistorians/comments/t0gj2p/megathread_on_recent_events_in_ukraine/), submitted on 2022-02-25 01:33:06+08:00.
+
+----- __160.1__ -----2022-02-25 02:42:02+08:00:
+
+A further reminder that **the 20-year rule remains in effect on this thread**. Please keep enquiries to historical questions whose scope cuts off no later than 2002.
 
