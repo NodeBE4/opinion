@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-25
+date: 2022-02-26
 from: https://twitter.com/realcaixia/status/1495458588868988935
 layout: post
 tags:
@@ -77,7 +77,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 ### 16: [2022-02-21 23:22:07+08:00 推文](https://twitter.com/realcaixia/status/1495780882690547715)
 
-铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。<br><br>美国之音中文网: 2/21【#时事大家谈】“锁链女“案重创政府公信力，北京深陷“塔西佗陷阱”？<br><br>嘉宾：北京之春荣誉主编胡平 @Huping1；公民力量创办人杨建利  @yangjianli001 <br>主持人：许波<br><br>YouTube🔗<br> <a href="https://youtu.be/DVEYJ0wZ2Ds" target="_blank" rel="noopener noreferrer">https://youtu.be/DVEYJ0wZ2Ds</a> <a href="https://twitter.com/i/broadcasts/1eaJbNlwYpRJX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/broadcasts/1eaJbNlwYpRJX</a>
+铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。 <a href="https://twitter.com/VOAChinese/status/1495741902943096837" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1495741902943096837</a>
 
 ### 17: [2022-02-22 00:47:23+08:00 推文](https://twitter.com/realcaixia/status/1495802340917530630)
 
@@ -126,4 +126,16 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 ### 28: [2022-02-25 23:33:56+08:00 推文](https://twitter.com/realcaixia/status/1497233407398629387)
 
 在大陸有這樣的行動就難能可貴。<br><br>自由: 用推特10年有余，不算转别人的，这是第一次发推。<br>1，铁链女事件，官方报告不可信。<br>2，韭菜的孩子，离铁链女就差一闷棍。<br>3，不管有什么后果，沉默会内心煎熬。<br>4，鼓起勇气在人口密集区举牌半上午，我吸引的目光不如旁边的一条柯基。<br>5，人们看我的目光就像看乞丐。<br><br><img style="" src="https://pbs.twimg.com/media/FMa4I0KXMAMJvLs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-02-25 23:42:46+08:00 推文](https://twitter.com/realcaixia/status/1497235631172472833)
+
+烏克蘭俄羅斯局勢：俄羅斯多地爆發反戰遊行 警方逮捕大批抗議者－ BBC News 中文 <a href="https://youtu.be/qY-sPmf2hdQ" target="_blank" rel="noopener noreferrer">https://youtu.be/qY-sPmf2hdQ</a>
+
+### 30: [2022-02-26 04:31:40+08:00 推文](https://twitter.com/realcaixia/status/1497308335300825093)
+
+這一句就唱得我潸然淚下。<br><br>王清鹏: 这个铁链女的文章，诗，歌，艺术作品铺天盖地，就像大年三十的鞭炮。政治警察根本忙不过来。（转）<br><br><video src="https://video.twimg.com/ext_tw_video/1497034948716294146/pu/vid/640x444/AgQuwruhBKbqJ2-J.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497034948716294146/pu/img/_7kJNmjctl3-LPA2.jpg"></video>
+
+### 31: [2022-02-26 05:17:54+08:00 推文](https://twitter.com/realcaixia/status/1497319971222867982)
+
+我们不要忘记张展。张展，锁链女是今天中国女性深重苦难的集中体现。锁链女的牢房在董家院子里，残害铁链女的不仅是董什么人畜不如的东西，还有丰县、徐州、江苏省、习当局中央政权等层层丧尽天良的统治者的库吏打手。张展的牢房在监狱中！整个极权统治集都在残害张展！还铁链女张展以自由！张展无罪！<br><br>Jane Wang 王剑虹 #FreeZhangZhan #释放张展: 感谢推友Frank制作视频 @FrankGTAcanada <br>#释放张展 #自由张展 @consultorzhang<br><br><video src="https://video.twimg.com/ext_tw_video/1497219098505265164/pu/vid/480x480/tYdb_eqhxXmQdyw9.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497219098505265164/pu/img/XaGU7_j6ITSq7C4M.jpg"></video>
 
