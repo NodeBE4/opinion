@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-24
+date: 2022-02-25
 from: https://twitter.com/realcaixia/status/1495458588868988935
 layout: post
 tags:
@@ -110,4 +110,8 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 ### 24: [2022-02-24 21:42:21+08:00 推文](https://twitter.com/realcaixia/status/1496842940584497160)
 
 这是《议报》刚发布的墙内来稿。这篇文章从方法论角度指出，江苏调查组的报告是不可信的！整个调查方法就是不严谨不科学的。我在前一推推荐王剑老师的评论，王剑老师的评论恰好与这篇社会学研究者的方法论文章是相互映证的。<br>特别推荐这篇文章与王剑老师评论z <a href="https://yibaochina.com/?p=245093" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245093</a>
+
+### 25: [2022-02-25 09:00:11+08:00 推文](https://twitter.com/realcaixia/status/1497013523024596998)
+
+推荐：徐贲先生的文章。<br>文章指出：信誉最重要的是诚实，它其反面就是虚伪和伪善。权威想要提升信誉度，最重要的是诚实。徐州铁链女事件，中共当局层层撒谎，中共的信誉早已经破产。 <a href="https://yibaochina.com/?p=245083" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245083</a>
 
