@@ -251,5 +251,5 @@ Considering that Flare posted a 30-second video last night [literally titled "No
 
 Also responding to /u/Periwinkle_Twinkles:
 
-I believe there are at least two other incidents ('other' in scare quotes because the evidence broadly points to Rushia and mafumafu just being friends), but the most substantial was that with Tokoyami Towa back in March 2020. Cover issued a somewhat noncommital statement, and that was about it; Towa ended up booming like the rest in 2020-21 albeit with, at least to begin with, a relatively higher proportion of overseas fans who supported her during the incident.
+I believe there are at least two other incidents ('other' in scare quotes because the evidence broadly points to Rushia and mafumafu just being friends), but the most substantial was that with Tokoyami Towa back in March 2020. Cover issued a somewhat noncommital statement, and that was about it; Towa ended up booming like the rest in 2020-21 albeit with, at least to begin with, a relatively higher proportion of overseas fans who had supported her during the incident and stuck with her channel in the long run.
 
