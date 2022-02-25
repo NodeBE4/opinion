@@ -175,9 +175,15 @@ A bit of a general question, but how far would you say that video games about th
 
 Thanks!
 
-### 161: [Megathread on recent events in Ukraine](https://old.reddit.com/r/AskHistorians/comments/t0gj2p/megathread_on_recent_events_in_ukraine/), submitted on 2022-02-25 01:33:06+08:00.
+### 161: [[Subbed] 3rd Generation Statement [Usada Pekora, Shiranui Flare, Shirogane Noel, Houshou Marine]](https://old.reddit.com/r/Hololive/comments/t0dnmz/subbed_3rd_generation_statement_usada_pekora/), submitted on 2022-02-24 23:27:09+08:00.
 
------ __161.1__ -----2022-02-25 02:42:02+08:00:
+----- __161.1__ -----2022-02-25 12:51:50+08:00:
+
+Given that Kiara seems to have known the night before, it's more likely that some basic gist was known to EN but that the full details were not disclosed until the day of.
+
+### 162: [Megathread on recent events in Ukraine](https://old.reddit.com/r/AskHistorians/comments/t0gj2p/megathread_on_recent_events_in_ukraine/), submitted on 2022-02-25 01:33:06+08:00.
+
+----- __162.1__ -----2022-02-25 02:42:02+08:00:
 
 A further reminder that **the 20-year rule remains in effect on this thread**. Please keep enquiries to historical questions whose scope cuts off no later than 2002.
 
