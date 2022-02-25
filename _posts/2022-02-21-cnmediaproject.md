@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-02-22
+date: 2022-02-24
 from: https://twitter.com/GeringTuvia/status/1495724015637479435
 layout: post
 tags:
@@ -22,4 +22,8 @@ RT Tuvia Gering 陶文亚<br>"A ship that weighs a thousand ton, <br>at its he
 ### 2: [2022-02-22 20:21:04+08:00 推文](https://twitter.com/lingli_vienna/status/1496097706493816833)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Detailed censorship instructions for dissemination of reports and comments on the Russian-Ukraine conflict, mistakenly leaked⬇️⬇️⬇️<br>  <br>*Shimian account belongs to 新京报 (Beijing News). <br><br>*人新央 refers to, presumably, People's Daily, Xinhua Agency &amp; CCTV.<br><img style="" src="https://pbs.twimg.com/media/FMMykQpXoAwLwlZ?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-02-24 15:44:23+08:00 推文](https://twitter.com/ABPevzner/status/1496752853049880580)
+
+RT Alexander B. Pevzner 裴則男<br>#UkraineConflict Keep calm, carry on (and put up a flag) - #China embassy warns its citizens in #Ukraine to avoid going out, keep calm, help each other stock up on gas, and place a #Chinese flag prominently in a car (可在车身明显处贴上中国国旗). @GeringTuvia @niubi @AlexGabuev<br><img style="" src="https://pbs.twimg.com/media/FMWIBPbXIAABlMi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
