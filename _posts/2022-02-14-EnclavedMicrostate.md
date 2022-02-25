@@ -245,3 +245,11 @@ Hm, would I use 'straight' to describe Flare...
 
 Considering that Flare posted a 30-second video last night [literally titled "NoeFure TeeTee"](https://www.youtube.com/watch?v=I9nD2UC_qj8) I'd say that they're still as together as they've always been.
 
+### 147: [[Hobby Scuffles] Week of February 21, 2022](https://old.reddit.com/r/HobbyDrama/comments/sx32a1/hobby_scuffles_week_of_february_21_2022/), submitted on 2022-02-20 23:00:29+08:00.
+
+----- __147.1__ -----2022-02-25 11:57:59+08:00:
+
+Also responding to /u/Periwinkle_Twinkles:
+
+I believe there are at least two other incidents ('other' in scare quotes because the evidence broadly points to Rushia and mafumafu just being friends), but the most substantial was that with Tokoyami Towa back in March 2020. Cover issued a somewhat noncommital statement, and that was about it; Towa ended up booming like the rest in 2020-21 albeit with, at least to begin with, a relatively higher proportion of overseas fans who supported her during the incident.
+

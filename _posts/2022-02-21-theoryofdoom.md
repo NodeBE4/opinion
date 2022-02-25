@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-24
+date: 2022-02-25
 from: https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/
 layout: post
 tags:
@@ -259,4 +259,10 @@ Gaddafi had made substantial steps towards a nuclear program.  He voluntarily di
 
 What happened in Libya under Hillary Clinton's time as Secretary of State was a catastrophic blow to nonproliferation efforts.  Gaddafi, after all, disarmed in reliance on the promise of the United States.  Then what occurred, occurred.  The world took notice. 
  None can credibly claim that because Gaddafi didn't have nukes fully developed, what occurred was irrelevant to nuclear non-proliferation.
+
+### 126: [CDC to update masking guidance as soon as Friday](https://old.reddit.com/r/CoronavirusIllinois/comments/t0mmhw/cdc_to_update_masking_guidance_as_soon_as_friday/), submitted on 2022-02-25 05:59:30+08:00.
+
+----- __126.1__ -----2022-02-25 11:56:12+08:00:
+
+I agree.  I am sick of wearing masks to fly or take the train.
 
