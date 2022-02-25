@@ -77,7 +77,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 ### 16: [2022-02-21 23:22:07+08:00 推文](https://twitter.com/realcaixia/status/1495780882690547715)
 
-铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。 <a href="https://twitter.com/VOAChinese/status/1495741902943096837" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1495741902943096837</a>
+铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。<br><br>美国之音中文网: 2/21【#时事大家谈】“锁链女“案重创政府公信力，北京深陷“塔西佗陷阱”？<br><br>嘉宾：北京之春荣誉主编胡平 @Huping1；公民力量创办人杨建利  @yangjianli001 <br>主持人：许波<br><br>YouTube🔗<br> <a href="https://youtu.be/DVEYJ0wZ2Ds" target="_blank" rel="noopener noreferrer">https://youtu.be/DVEYJ0wZ2Ds</a> <a href="https://twitter.com/i/broadcasts/1eaJbNlwYpRJX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/broadcasts/1eaJbNlwYpRJX</a>
 
 ### 17: [2022-02-22 00:47:23+08:00 推文](https://twitter.com/realcaixia/status/1495802340917530630)
 
@@ -114,4 +114,16 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 ### 25: [2022-02-25 09:00:11+08:00 推文](https://twitter.com/realcaixia/status/1497013523024596998)
 
 推荐：徐贲先生的文章。<br>文章指出：信誉最重要的是诚实，它其反面就是虚伪和伪善。权威想要提升信誉度，最重要的是诚实。徐州铁链女事件，中共当局层层撒谎，中共的信誉早已经破产。 <a href="https://yibaochina.com/?p=245083" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245083</a>
+
+### 26: [2022-02-25 20:13:00+08:00 推文](https://twitter.com/realcaixia/status/1497182840932511747)
+
+这些魔鬼一样的统治集团一伙，他们根本不承认不接受普世价值，他們反人性反人類。记者的问题是对正常国家的提问，中国就不是一个正常国家。在这伙魔鬼统治下，中国民众迟早被推到战火中去。<br><br>BBC News 中文: BBC记者在中国外交部记者会上提问，美国总统拜登表示，任何支持俄罗斯在乌克兰侵略行为的国家都将名誉受损，询问中方对此的评论。<br><br>中国外交部发言人汪文斌称，“真正名誉受损的国家，是那些打着民主、人权的旗号，肆意干涉别国内政，到处发动对外战争的国家。”<br><br>（📸：EPA）<br><br><img style="" src="https://pbs.twimg.com/media/FMcEZfzWUAEYvXJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-02-25 20:41:45+08:00 推文](https://twitter.com/realcaixia/status/1497190075611947016)
+
+乌克兰前重量级拳击冠军克里琴科是千万富翁，他本可在世界上任何安全的地方居住，但此刻，他和他的弟兄全副武装与乌克兰士兵并肩抗击俄军的入侵---！<br><img style="" src="https://pbs.twimg.com/media/FMcWcAcXIA0zf1B?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-02-25 23:33:56+08:00 推文](https://twitter.com/realcaixia/status/1497233407398629387)
+
+在大陸有這樣的行動就難能可貴。<br><br>自由: 用推特10年有余，不算转别人的，这是第一次发推。<br>1，铁链女事件，官方报告不可信。<br>2，韭菜的孩子，离铁链女就差一闷棍。<br>3，不管有什么后果，沉默会内心煎熬。<br>4，鼓起勇气在人口密集区举牌半上午，我吸引的目光不如旁边的一条柯基。<br>5，人们看我的目光就像看乞丐。<br><br><img style="" src="https://pbs.twimg.com/media/FMa4I0KXMAMJvLs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
