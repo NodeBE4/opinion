@@ -59,3 +59,18 @@ A similarly innovative shift in the cyber-realm will likely require an intense p
 
 "Around the world, from the richest countries to the poorest, a dangerous new crop of leaders has sprung up. Unlike their totalitarian counterparts, these populists entered office through elections, but they show decidedly undemocratic proclivities. They propagate lies that become articles of faith among their followers. They sell themselves as noble and pure champions of the people, fighting against corrupt and greedy elites. They defy any constraints on their power and concentrate it in their own hands, launching frontal attacks on the institutions that sustain constitutional democracy, stacking the judiciary and the legislature, declaring war on the press, and scrapping laws that check their authority.
 
+### 135: [Russia invades Ukraine Megathread II](https://old.reddit.com/r/europe/comments/t0l13j/russia_invades_ukraine_megathread_ii/), submitted on 2022-02-25 04:49:51+08:00.
+
+----- __135.1__ -----2022-02-25 23:56:25+08:00:
+
+[Putin’s Blunder: Ukraine Will Make Russia Regret This War, By Melinda Haring](https://www.foreignaffairs.com/articles/ukraine/2022-02-25/putins-blunder)
+
+### 136: [The Eurasian Nightmare: Chinese-Russian Convergence and the Future of American Order](https://old.reddit.com/r/geopolitics/comments/t16w9a/the_eurasian_nightmare_chineserussian_convergence/), submitted on 2022-02-25 23:39:53+08:00.
+
+----- __136.1__ -----2022-02-25 23:41:09+08:00:
+
+\[SS from the article by Hal Brands Henry A. Kissinger Distinguished Professor of Global Affairs at the Johns Hopkins School of Advanced International Studies and a Senior Fellow at the American Enterprise Institute.\]
+
+"As Russia’s invasion of Ukraine crystallizes tensions between Putin and the West, it also underscores his need for support from Beijing.  
+The Sino-Russian convergence gives both powers more room for maneuver by magnifying Washington’s two-front problem: the United States now faces increasingly aggressive near-peer rivals in two separate theaters—eastern Europe and the western Pacific—that are thousands of miles apart. Sino-Russian cooperation, while fraught and ambivalent, raises the prospect that America’s two great-power rivalries could merge into a single contest against an autocratic axis. Even short of that, the current situation has revived the great geopolitical nightmare of the modern era: an authoritarian power or entente that strives for dominance in Eurasia, the central strategic theater of the world."
+
