@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-02-24
+date: 2022-02-25
 from: https://twitter.com/nathanlawkc/status/1496211396698198021
 layout: post
 tags:
@@ -33,9 +33,9 @@ Not sure why we continue to allow Chinese officials to use the platform they ban
 
 Huge effort on the BN(O) scheme expansion!<br><br>Luke de Pulford 裴倫德: 🚨Hearing STRONG rumours within @GOVUK that BN(O) scheme for #HongKong WILL be extended within 24 hours to include some younger #HKers (details unclear)<br><br>If so, HUGE credit @hk_watch @DamianGreen @DavidAltonHL Lord Patten @benedictrogers @Johnny_HKWatch @SamGoodman22 + others 👏<br><br><img style="" src="https://pbs.twimg.com/media/FMTNH--WYAI6Rpx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 5: [2022-02-24 20:06:43+08:00 推文](https://twitter.com/nathanlawkc/status/1496818871269007362)
+### 5: [2022-02-24 20:06:43+08:00 推文](https://twitter.com/nathanlawkc/status/1496818873668100098)
 
-🇺🇦🏴<br>1. The documentary “Winter on Fire” has been a documentary Hong Kong protestors are watching. We  understand how it feels to have a threatening neighbour and people’s will being suppressed by authoritarian power.<br><img style="" src="https://pbs.twimg.com/media/FMXEiDMWQAQ2SL6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 2. We clearly understand one point — if the international community cannot deter dictators from advancing their interests by war, democracy and peace will never prevail. It’s time to act and put the harshest sanctions over those culpable for the invasion.
 
 ### 6: [2022-02-24 20:06:44+08:00 推文](https://twitter.com/nathanlawkc/status/1496818878319583239)
 
@@ -44,4 +44,8 @@ Re 3. Our Ukrainian friends have been supporting our struggles against dictators
 ### 7: [2022-02-24 20:06:45+08:00 推文](https://twitter.com/nathanlawkc/status/1496818881427558400)
 
 Re A piece of news from 2019:<br>Why Hong Kong’s protesters look to Ukraine <a href="https://qz.com/1675353/" target="_blank" rel="noopener noreferrer">https://qz.com/1675353/</a>
+
+### 8: [2022-02-25 19:31:27+08:00 推文](https://twitter.com/nathanlawkc/status/1497172386558394370)
+
+I want to pay my tribute to the protestors in Mosco and other cities in Russia — they have shown that not all nationals support dictators like Putin, Xi, and many others.<br>We all share the pain of living under a brutal regime. The fight is also ours, to end the dictatorship.<br><img style="" src="https://pbs.twimg.com/media/FMcGGMHWQAYJwkF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
