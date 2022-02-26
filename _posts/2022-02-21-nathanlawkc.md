@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-02-25
+date: 2022-02-26
 from: https://twitter.com/nathanlawkc/status/1496211396698198021
 layout: post
 tags:
@@ -48,4 +48,8 @@ Re A piece of news from 2019:<br>Why Hong Kong’s protesters look to Ukraine 
 ### 8: [2022-02-25 19:31:27+08:00 推文](https://twitter.com/nathanlawkc/status/1497172386558394370)
 
 I want to pay my tribute to the protestors in Mosco and other cities in Russia — they have shown that not all nationals support dictators like Putin, Xi, and many others.<br>We all share the pain of living under a brutal regime. The fight is also ours, to end the dictatorship.<br><img style="" src="https://pbs.twimg.com/media/FMcGGMHWQAYJwkF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-02-26 20:22:43+08:00 推文](https://twitter.com/nathanlawkc/status/1497547674651877377)
+
+Misinformation campaign is a weapon and war strategy from Russia. The state media RT does the same thing as China’s CCTV, to spread lies for the brutal regime and destabilize targets. Countries supporting freedom should consider banning state propaganda organs from operating.
 

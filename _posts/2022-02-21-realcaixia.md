@@ -159,3 +159,23 @@ Re @Sharon65086147 张展为啥进了监狱？你说说看。
 
 说得好！<br><br>White Light💡: 北约东扩才导致战争这句话的内在逻辑和因为凡尔赛条约过于苛刻所以纳粹德国入侵波法是合理的一模一样。。。<br>
 
+### 37: [2022-02-26 18:46:19+08:00 推文](https://twitter.com/realcaixia/status/1497523416047374336)
+
+让人感动。<br><br>Angela🥰🤝: 昨晚上我們的一銷售人員來電話，想今早來拜訪我們。我們說可以一起用早餐<br>小伙子是烏克蘭人，是永居。有一4歲兒子<br>今早穿著休閒衣來，帶來一束鮮花。<br>吃完早餐告訴我們，他要回烏克蘭參加反擊戰。他說：自己國家自己保護，不能光考慮要別國來保護，別國的軍人也有家庭⋯<br>希望他能平安回來上班🙏🙏🙏<br>
+
+### 38: [2022-02-26 18:56:26+08:00 推文](https://twitter.com/realcaixia/status/1497525962149437440)
+
+俄罗斯民众站出来反对战争；而中国大陆被洗脑了的人叫嚣俄罗斯打得好，说让乌克兰多死些人。两相对比，大陆更多法西斯分子。9.11时有相当多人欢呼双子大厦被袭击，他们当时也欢呼。这类的人还有救吗？！<br><br>胡育律师: 莫斯科街头的反战民众，显示俄罗斯民族还有救。<br><br><img style="" src="https://pbs.twimg.com/media/FMaVDKgVEAIortP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 39: [2022-02-26 19:33:23+08:00 推文](https://twitter.com/realcaixia/status/1497535259273011200)
+
+看看大陆的战争疯子们发出战争叫嚣，直接让中国人在乌克兰处境艰难！太可恶了！<br><br>中国悲剧档案【新号】: 中国人在乌克兰已经是人人喊打过街老鼠，沦落到不敢承认自己是中国人！#Kyiv #UkraineRussie #Ukraine #RussiaUkraineCrisis #Russia #俄罗斯 #乌克兰<br><br>所有乌克兰战争相关视频去咱们电报群看！<br><br><video src="https://video.twimg.com/ext_tw_video/1497483538521726985/pu/vid/480x360/Az38ZsGfkJdg1xAy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497483538521726985/pu/img/n-WfrMRkBZuJlYIb.jpg"></video>
+
+### 40: [2022-02-26 19:35:11+08:00 推文](https://twitter.com/realcaixia/status/1497535713306423301)
+
+英勇的乌克兰人民！<br><br>码凡🇺🇦: 坦克在城市战斗环境中变成了负资产。乌克兰人在基辅郊区的简易路障上的帮助下，用自制的鸡尾酒毁坏俄罗斯坦克。<br><br><video src="https://video.twimg.com/ext_tw_video/1497424353708883972/pu/vid/640x352/o0N7ZH6wTJN9IRyS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497424353708883972/pu/img/CMsthEgaNOJugo3i.jpg"></video>
+
+### 41: [2022-02-26 19:39:03+08:00 推文](https://twitter.com/realcaixia/status/1497536684438835200)
+
+俄乌交战之际中方宣布明起南海军演 美舰今通过台海北驶 <a href="https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20220226-%E4%BF%84%E4%B9%8C%E4%BA%A4%E6%88%98%E4%B9%8B%E9%99%85%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E6%98%8E%E8%B5%B7%E5%8D%97%E6%B5%B7%E5%86%9B%E6%BC%94%E7%BE%8E%E8%88%B0%E4%BB%8A%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B5%B7%E5%8C%97%E9%A9%B6" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20220226-%E4%BF%84%E4%B9%8C%E4%BA%A4%E6%88%98%E4%B9%8B%E9%99%85%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E6%98%8E%E8%B5%B7%E5%8D%97%E6%B5%B7%E5%86%9B%E6%BC%94%E7%BE%8E%E8%88%B0%E4%BB%8A%E9%80%9A%E8%BF%87%E5%8F%B0%E6%B5%B7%E5%8C%97%E9%A9%B6</a>
+

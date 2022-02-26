@@ -49,5 +49,5 @@ Happy new year! And a friendly reminder that two years ago today, 8 people in Ch
 
 ### 9: [2022-01-01 13:20:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477147808796979200)
 
-Ningxia man surnamed Wang criticized Xi'an government's poor handling of the pandemic on Weibo, then got harassed by a large number of pro-government netizens, which even made him delete his Weibo account. Police later arrested & detained Wang for "cursing Xi'an people".<br><img style="" src="https://pbs.twimg.com/media/FH_iGhsWYAEvp2g?format=jpg&name=orig" referrerpolicy="no-referrer">
+Ningxia man surnamed Wang criticized Xi'an government's poor handling of the pandemic on Weibo, then got harassed by a large number of pro-government netizens, which even made him delete his Weibo account. Police later arrested & detained Wang for "cursing Xi'an people".<br><img style src="https://pbs.twimg.com/media/FH_iGhsWYAEvp2g?format=jpg&name=orig" referrerpolicy="no-referrer">
 

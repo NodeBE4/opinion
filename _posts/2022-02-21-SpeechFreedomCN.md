@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-02-23
+date: 2022-02-26
 from: https://twitter.com/SpeechFreedomCN/status/1496341044027297800
 layout: post
 tags:
@@ -30,4 +30,12 @@ Re 时隔一年多以后，我偶然查到了这名公职人员当时发表的�
 ### 4: [2022-02-23 15:38:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1496388858954530819)
 
 Re Remarks of Gong Weiqiang, the government officer mentioned in the previous tweet, has been found. His remark in the WeChat group chat that cost him his job was a quote that he claimed to be from Karl Marx, in which he said the east was "a dark autocracy" and "evil".<br><video src="https://video.twimg.com/ext_tw_video/1496218591640829953/pu/vid/1280x720/k0MUmmlWFkhxSExB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1496218591640829953/pu/img/-aEAuzw6QaZ4OcZM.jpg"></video>
+
+### 5: [2022-02-26 20:46:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1497553770783207424)
+
+China is even censoring anti-war speeches now. Five professors from different universities in China issued a joint statement to denounce #Russia invasion of #Ukraine on WeChat platform, and the article got shortly blocked due to “violation of regulations”.<br><img style="" src="https://pbs.twimg.com/media/FMhgE5SXwAIfTzN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-02-26 20:49:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1497554307146727428)
+
+Re Of course China censors tons of information on internet everyday and this is just one piece of it, but this action surely deserves attention if it was directed by the authorities, which, technically speaking, is very likely.
 
