@@ -260,21 +260,29 @@ Gaddafi had made substantial steps towards a nuclear program.  He voluntarily di
 What happened in Libya under Hillary Clinton's time as Secretary of State was a catastrophic blow to nonproliferation efforts.  Gaddafi, after all, disarmed in reliance on the promise of the United States.  Then what occurred, occurred.  The world took notice. 
  None can credibly claim that because Gaddafi didn't have nukes fully developed, what occurred was irrelevant to nuclear non-proliferation.
 
-### 126: [CDC to update masking guidance as soon as Friday](https://old.reddit.com/r/CoronavirusIllinois/comments/t0mmhw/cdc_to_update_masking_guidance_as_soon_as_friday/), submitted on 2022-02-25 05:59:30+08:00.
+### 126: [Ukraine Megathread - (All new posts go here so long as it is stickied)](https://old.reddit.com/r/geopolitics/comments/t0cgvt/ukraine_megathread_all_new_posts_go_here_so_long/), submitted on 2022-02-24 22:35:22+08:00.
 
------ __126.1__ -----2022-02-25 11:56:12+08:00:
+----- __126.1__ -----2022-02-27 05:58:11+08:00:
+
+> How are you guys keeping up with what's happening? It feels so chaotic and hard to navigate all the news on any site.
+
+Certain media sources I think are reliable, like [Süddeutsche Zeitung](https://www.sueddeutsche.de/politik/krieg-ukraine-russland-kiew-selenskij-putin-liveblog-1.5533918), [Frankfurter Allegemien](https://www.faz.net/aktuell/politik/ausland/vier-ukrainer-fliehen-in-einem-taxi-vor-dem-krieg-gegen-russland-17834329.html) as well as the range of OSINT that's out there if you know [how to look](https://www.secjuice.com/brief-guide-to-osint/#:~:text=Threat%20Intelligence%20Feed-,Open%20Source%20Intelligence%20Techniques,-I%20am%20aware).
+
+### 127: [CDC to update masking guidance as soon as Friday](https://old.reddit.com/r/CoronavirusIllinois/comments/t0mmhw/cdc_to_update_masking_guidance_as_soon_as_friday/), submitted on 2022-02-25 05:59:30+08:00.
+
+----- __127.1__ -----2022-02-25 11:56:12+08:00:
 
 I agree.  I am sick of wearing masks to fly or take the train.
 
-### 127: ["Putin is attacking more than just Ukraine" | Summary and implications of recent reports](https://old.reddit.com/r/geopolitics/comments/t0uepj/putin_is_attacking_more_than_just_ukraine_summary/), submitted on 2022-02-25 12:05:13+08:00.
+### 128: ["Putin is attacking more than just Ukraine" | Summary and implications of recent reports](https://old.reddit.com/r/geopolitics/comments/t0uepj/putin_is_attacking_more_than_just_ukraine_summary/), submitted on 2022-02-25 12:05:13+08:00.
 
------ __127.1__ -----2022-02-25 13:22:46+08:00:
+----- __128.1__ -----2022-02-25 13:22:46+08:00:
 
 When you see a mega-thread, that means post stuff related to that topic there. But even if you had, this is blogspam.
 
-### 128: [CDC Changes Mask Guidance](https://old.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/), submitted on 2022-02-26 07:35:21+08:00.
+### 129: [CDC Changes Mask Guidance](https://old.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/), submitted on 2022-02-26 07:35:21+08:00.
 
------ __128.1__ -----2022-02-27 00:17:41+08:00:
+----- __129.1__ -----2022-02-27 00:17:41+08:00:
 
 There is nothing to which the CDC can point, to substantiate the change.  Their initial guidance on masks was based on a combination of incompetence, politics and pseudoscience.  The fact that something was normalized doesn't mean it was scientifically legitimate.  It just means a bunch of people with purported letters after their name said to do something and then they did it. 
 
@@ -284,7 +292,7 @@ Nothing of the sort happened.  Instead, all that happened was an incompetent bur
 
 Edit: If you think downvoting what I said is going to have any impact whatsoever on what the data on this issue both do and do not say, you will be disappointed to learn that it does not.  Further, if you think you can do better than the guy who cited the two articles I addressed, good luck.  Because he did about as good of a job as anyone could on this issue.
 
------ __128.2__ -----2022-02-27 01:49:02+08:00:
+----- __129.2__ -----2022-02-27 01:49:02+08:00:
 
 I'm not going to spend my saturday shooting down junk science, but since you sent those two . . . let's review.
 
@@ -310,65 +318,73 @@ Hilariously, however, all the studies that ever found any such benefit might be 
 
 Now I know you probably googled some relevant terms and tried to find something you thought would contradict what I said.  But you didn't do that and you won't be able to.  Because the state of the science is exactly where I said it was.
 
------ __128.3__ -----2022-02-27 01:51:44+08:00:
+----- __129.3__ -----2022-02-27 01:51:44+08:00:
 
 > I don't care about laboratory studies in regards to masks.
 
 There are plenty of laboratory studies regarding masks.  The problem is that there isn't a single one of them that demonstrates any mask confers any empirical benefit relating to reducing the probability of transmission for or reducing the probability of becoming infected with the SARS-CoV-2 virus (or any variant thereof).
 
------ __128.4__ -----2022-02-27 04:22:08+08:00:
+----- __129.4__ -----2022-02-27 04:22:08+08:00:
 
 I'll keep eating [raw oysters](https://www.cdc.gov/foodsafety/communication/oysters-and-vibriosis.html), [raw sprouts](https://www.cdc.gov/foodsafety/foods-linked-illness.html#:~:text=Eating%20raw%20or%20lightly%20cooked%20sprouts%2C%20such%20as%20alfalfa%2C%20bean%2C%20or%20any%20other%20sprout), [sushi](https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food#:~:text=But%20raw%20seafood%20can%20contain%20toxins%20such%20as%20mercury%20or%20bacteria%20that%20can%20be%20destroyed%20only%20by%20cooking%20to%20the%20proper%20temperature.) which I will note the mercury content in fish such as tuna is not reduced by cooking to any temperature, rare [steak, and raw beef carpaccio and tartare](https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food#:~:text=Raw%20meat%20may%20contain%20parasites%20and%20bacteria%20such%20as%20E.%20coli%20and%20Salmonella.) and whatever else I please without regard to what the CDC says on those or any other issues.
 
------ __128.5__ -----2022-02-27 04:23:21+08:00:
+----- __129.5__ -----2022-02-27 04:23:21+08:00:
 
 > So you won't eat medium cooked burgers?
 
 Absolutely not.  I eat them medium rare.
 
-### 129: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
+### 130: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
 
------ __129.1__ -----2022-02-26 12:24:59+08:00:
+----- __130.1__ -----2022-02-26 12:24:59+08:00:
 
 I'll bet he'll be selling beachfront property in Iowa, next.
 
------ __129.2__ -----2022-02-26 12:27:44+08:00:
+----- __130.2__ -----2022-02-26 12:27:44+08:00:
 
 My vote is for the least authoritarian candidate in the race, always.  I would use the word "fascist" but for some strange reason, people don't seem to [understand what that word means anymore](http://i0.kym-cdn.com/photos/images/original/001/189/715/161.jpg).
 
------ __129.3__ -----2022-02-26 23:58:57+08:00:
+----- __130.3__ -----2022-02-26 23:58:57+08:00:
 
 Permanently banned for multiple, obvious rule violations and probable ban evasion.
 
------ __129.4__ -----2022-02-27 00:04:35+08:00:
+----- __130.4__ -----2022-02-27 00:04:35+08:00:
 
 Building up multi-accounts with 4k of illusory karma for what very obviously appears to be the specific and deliberate purpose of menacing people you disagree with in a subreddit numerous other accounts of yours have been banned from does not look good.  
 
 There is no rational reason why you could think that you can repeatedly violate the most basic rules of this sub, over and over again, and get away with it.
 
-### 130: [Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country](https://old.reddit.com/r/PublicFreakout/comments/t1srm8/young_russian_soldier_cries_as_the_local/), submitted on 2022-02-26 17:07:11+08:00.
+### 131: [Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country](https://old.reddit.com/r/PublicFreakout/comments/t1srm8/young_russian_soldier_cries_as_the_local/), submitted on 2022-02-26 17:07:11+08:00.
 
------ __130.1__ -----2022-02-27 00:23:54+08:00:
+----- __131.1__ -----2022-02-27 00:23:54+08:00:
 
 You can't make a soldier by putting a boy in a uniform and a gun in his hand.  Russia's conscripted army has no desire to be in Ukraine, but they'll face prison, court-martial or worse if they desert or dodge the draft.  What Vladimir Putin is doing to Ukraine is barbaric.  So is what he is doing to the teenagers and young men drafted into his military.
 
-### 131: [Are we ready to leave masks behind? ‘It’s going to be weird’](https://old.reddit.com/r/CoronavirusIllinois/comments/t21675/are_we_ready_to_leave_masks_behind_its_going_to/), submitted on 2022-02-27 00:39:32+08:00.
+### 132: [I’m a Russian, living in America, getting shit for being Russian. AMA](https://old.reddit.com/r/AskARussian/comments/t1ygrb/im_a_russian_living_in_america_getting_shit_for/), submitted on 2022-02-26 22:35:40+08:00.
 
------ __131.1__ -----2022-02-27 01:50:08+08:00:
+----- __132.1__ -----2022-02-27 05:49:11+08:00:
+
+> They attack and try to destroy each other's restaurants, cafes in America... As if it somehow helps win the war 7000 miles away
+
+I have seen this happen to a place I used to dine at frequently where I lived at the time.  When war breaks out, people get the nationalist fever and leads to them doing very stupid things.
+
+### 133: [Are we ready to leave masks behind? ‘It’s going to be weird’](https://old.reddit.com/r/CoronavirusIllinois/comments/t21675/are_we_ready_to_leave_masks_behind_its_going_to/), submitted on 2022-02-27 00:39:32+08:00.
+
+----- __133.1__ -----2022-02-27 01:50:08+08:00:
 
 > I'm going to keep wearing my N95. 
 
 You do you.  People engage in ritualistic practices which provide no empirical benefit all the time.  But that's all you're doing.
 
------ __131.2__ -----2022-02-27 01:56:42+08:00:
+----- __133.2__ -----2022-02-27 01:56:42+08:00:
 
 Some people go to confession.  Other people put on N95 face masks.  No evidence exists to suggest that either is more likely to make your life better.
 
------ __131.3__ -----2022-02-27 03:53:29+08:00:
+----- __133.3__ -----2022-02-27 03:53:29+08:00:
 
 You're quite right.  And there will be a day of political reckoning for all of this.  Signs that change is coming can be seen at every level of political polling.  They include, but are not limited to, Joe Biden's approval rating nationally and by independent voters, the percentage of Americans who think this country is on the wrong track and/or headed in the wrong direction, the extent to which Anthony Fauci and the relevant lettered agencies he is associated with are regarded as non-credible by the American public, the extent to which promulgators of conspiracy theories and fake news are regarded as more credible than either Fauci or those lettered agencies, and the list goes on.  That is not to imply I agree with any of the foregoing, so much as to state what reality is.  The damage this has caused to the credibility of our institutions is astonishing.
 
------ __131.4__ -----2022-02-27 04:03:50+08:00:
+----- __133.4__ -----2022-02-27 04:03:50+08:00:
 
 > Your statements make it seem that you want everyone to move forward the way you see fit. 
 
@@ -376,17 +392,33 @@ I want people to live their lives in freedom, where they are free to choose how 
 
 Warnings of [normalizing this state of collective insanity](https://www.telegraph.co.uk/news/2021/06/12/must-beware-cynical-bid-terrify-britain-loving-lockdown/), such as Janet Daley's of last year, have gone unheeded.  The time is now to say what must be said, to let facts be set forth in a candid world that free people may decide for themselves what is in their best interest, under circumstances where they are apprised of the facts as they are (as opposed to how they have been misrepresented by political actors holding themselves out as non-partisan).
 
------ __131.5__ -----2022-02-27 04:12:11+08:00:
+----- __133.5__ -----2022-02-27 04:12:11+08:00:
 
 > My biggest hope is that people don’t care if someone is wearing or not wearing. 
 
 I cannot envision the world where getting angry at people *because* they are wearing masks is normalized.  People can wear whatever they want on their face or otherwise, whether masks, beards, piercings, religious attire or even furry cosplay items.  The issue isn't what people decide to do for themselves, it's what the government makes them do and the basis for it.
 
------ __131.6__ -----2022-02-27 04:47:57+08:00:
+----- __133.6__ -----2022-02-27 04:47:57+08:00:
 
 January of this year.  During that time, there was neither a mask nor vaccine mandate in effect where I was and I saw those very few people who chose to wear masks treated no differently than anyone else.  I do not work in a small town or travel to rural areas with any level of frequency, however.
 
------ __131.7__ -----2022-02-27 04:57:49+08:00:
+----- __133.7__ -----2022-02-27 04:57:49+08:00:
 
 Seems like it would depend on the area.  I'd imagine you'd have a harder time in, say, corn country than in Galena, IL.  The rural area I was in was obviously not in Illinois.  Much further north and west.
+
+----- __133.8__ -----2022-02-27 05:45:50+08:00:
+
+Maybe somewhere like rural Oklahoma or the middle if nowhere in Arkansas, perhaps.  It would surprise me in Illinois, however.
+
+### 134: [You can't make this shit up...](https://old.reddit.com/r/walkaway/comments/t22r5n/you_cant_make_this_shit_up/), submitted on 2022-02-27 01:49:00+08:00.
+
+----- __134.1__ -----2022-02-27 06:28:20+08:00:
+
+These people are morally, constitutionally and psychologically weak.
+
+### 135: [Who is the best male character who ISN'T a tough badass?](https://old.reddit.com/r/AskReddit/comments/t23tjx/who_is_the_best_male_character_who_isnt_a_tough/), submitted on 2022-02-27 02:36:05+08:00.
+
+----- __135.1__ -----2022-02-27 06:15:17+08:00:
+
+President David Palmer from 24.
 
