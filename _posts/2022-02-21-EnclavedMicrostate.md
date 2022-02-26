@@ -237,3 +237,9 @@ Apologies, but we have removed your question in its current form as it breaks ou
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
+### 169: [Tokino Sora's message to Kizuna AI before her last live](https://old.reddit.com/r/Hololive/comments/t1t57r/tokino_soras_message_to_kizuna_ai_before_her_last/), submitted on 2022-02-26 17:31:28+08:00.
+
+----- __169.1__ -----2022-02-26 18:59:27+08:00:
+
+Given that Sora is something like the 7th VTuber to debut if we start counting from Ai-chan, they are very much from the same early era, even if from different agencies and with different backgrounds.
+
