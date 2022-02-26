@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-26
+date: 2022-02-27
 from: https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/
 layout: post
 tags:
@@ -282,6 +282,40 @@ The CDC's guidance on this issue was conspicuously devoid of all the types of sc
 
 Nothing of the sort happened.  Instead, all that happened was an incompetent bureaucrat declared himself to be "the science," as if science works that way.  Hint: it does not.  If you're going to hold out devices as suitable for particular medical purposes, you have to have evidence to do that.  Otherwise, you're engaged in what amounts to fraud in this country.  We do not let people just make things up and offer them to the public, under circumstances where the public can rely on those misrepresentations to their detriment, without facing legal risk.
 
+Edit: If you think downvoting what I said is going to have any impact whatsoever on what the data on this issue both do and do not say, you will be disappointed to learn that it does not.  Further, if you think you can do better than the guy who cited the two articles I addressed, good luck.  Because he did about as good of a job as anyone could on this issue.
+
+----- __128.2__ -----2022-02-27 01:49:02+08:00:
+
+I'm not going to spend my saturday shooting down junk science, but since you sent those two . . . let's review.
+
+* [Andrejko 2022](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm?s_cid=mm7106e1_w).  
+
+Read the first sentence of your article's summary, whereupon you will learn that "[f]ace masks or respirators (N95/KN95s) effectively filter virus-sized particles in laboratory settings. The real-world effectiveness of face coverings to prevent acquisition of SARS-CoV-2 infection has not been widely studied."  Realize that "filtering" --- according to some vague, incoherent level of efficacy --- molecular viral particles that are aerosolized is not the same thing as actually reducing community spread or reducing the probability that you will contract COVID-19.  Hence the second sentence.  
+
+The sole context where it has was purportedly was, was in Bangladesh, that study being [Abaluck 2021](https://www.science.org/doi/10.1126/science.abi9069).  Except that study did not show masks work.  In fact, its data plainly and clearly says the opposite based on the lack of any statistically significant difference between the control and treatment groups.  According to the authors, what they actually found was that "[m]ask distribution with promotion was a scalable and effective method to reduce symptomatic SARS-CoV-2 infections," based on meager differences in "symptomatic seroprevalence" among certain cohorts.  Which is a nice way to use fancy language to say that mask wearing is probably associated with some unknown external factor, but they failed to find evidence indicating that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  This is a case study in fake science.  
+
+As you will learn upon reading the article you linked, that article being Andrejko 2022, its results are consistent with what the underlying data out of Bangladesh indicate.  It only finds that "use of a face mask or respirator in an indoor public setting was associated with lower odds" of a positive PCR test.  I will leave for another day the problems with their criteria for what they're counting as a positive PCR test as compared to what others have.  The point is that your article fails to provide any evidence whatsoever that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  As in Bangladesh, the act of wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  But that's it. Your "study" does not say what you think it says. 
+
+* [Howard 2021](https://www.pnas.org/content/118/4/e2014564118).
+
+This "narrative review" is worthless garbage.  They didn't actually undertake any research and therefore didn't move the ball forward relating to the science of mask efficacy in any way.  Instead, they went out and searched on Google Scholar or somewhere else to find all the worthless articles that have been published on this issue, relating to mask mandates and usage, for the purpose of offering what they hold out as no more than a public policy recommendation.  
+
+As an example of that article's unmitigated worthlessness, review one of their purported public policy recommendations: 
+
+> Given the current shortages of medical masks, we recommend the adoption of public cloth mask wearing, as an effective form of source control . . . . 
+
+Do a ctrl+f if you are unable to identify that sentence.  The fact that you cited that study, or any study recommending cloth masks at this stage in the game, is surprising when [even this pundit doctor](https://twitter.com/DrLeanaWen/status/1473045198980665344?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1473045198980665344%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-41205633983298031174.ampproject.net%2F2110212130002%2Fframe.html) has been forced to concede that cloth masks do not work.  The CDC has "clarified" its stance on cloth masks and there is literally no one on this earth who can even pretend their efficacy for any COVID-related purpose is empirically supported. 
+
+Hilariously, however, all the studies that ever found any such benefit might be even associated with cloth-mask wearing suffer the same deficit as the study in Bangladesh.  In the first instance, the data state that virus is as virus does.  Which is the norm.  Not the exception.  But to the degree there is any difference from the control group, that difference is only attributable to external factors, which include as I said above, the fact that wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  Evidence to support the alleged efficacy of masks themselves remains unobtained. 
+
+Now I know you probably googled some relevant terms and tried to find something you thought would contradict what I said.  But you didn't do that and you won't be able to.  Because the state of the science is exactly where I said it was.
+
+----- __128.3__ -----2022-02-27 01:51:44+08:00:
+
+> I don't care about laboratory studies in regards to masks.
+
+There are plenty of laboratory studies regarding masks.  The problem is that there isn't a single one of them that demonstrates any mask confers any empirical benefit relating to reducing the probability of transmission for or reducing the probability of becoming infected with the SARS-CoV-2 virus (or any variant thereof).
+
 ### 129: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
 
 ----- __129.1__ -----2022-02-26 12:24:59+08:00:
@@ -307,4 +341,16 @@ There is no rational reason why you could think that you can repeatedly violate 
 ----- __130.1__ -----2022-02-27 00:23:54+08:00:
 
 You can't make a soldier by putting a boy in a uniform and a gun in his hand.  Russia's conscripted army has no desire to be in Ukraine, but they'll face prison, court-martial or worse if they desert or dodge the draft.  What Vladimir Putin is doing to Ukraine is barbaric.  So is what he is doing to the teenagers and young men drafted into his military.
+
+### 131: [Are we ready to leave masks behind? ‘It’s going to be weird’](https://old.reddit.com/r/CoronavirusIllinois/comments/t21675/are_we_ready_to_leave_masks_behind_its_going_to/), submitted on 2022-02-27 00:39:32+08:00.
+
+----- __131.1__ -----2022-02-27 01:50:08+08:00:
+
+> I'm going to keep wearing my N95. 
+
+You do you.  People engage in ritualistic practices which provide no empirical benefit all the time.  But that's all you're doing.
+
+----- __131.2__ -----2022-02-27 01:56:42+08:00:
+
+Some people go to confession.  Other people put on N95 face masks.  No evidence exists to suggest that either is more likely to make your life better.
 
