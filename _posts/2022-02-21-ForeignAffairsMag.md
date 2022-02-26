@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-02-25
+date: 2022-02-26
 from: https://old.reddit.com/r/cybersecurity/comments/sxwrda/the_cyber_social_contract_how_to_rebuild_trust_in/
 layout: post
 tags:
@@ -73,4 +73,32 @@ A similarly innovative shift in the cyber-realm will likely require an intense p
 
 "As Russia’s invasion of Ukraine crystallizes tensions between Putin and the West, it also underscores his need for support from Beijing.  
 The Sino-Russian convergence gives both powers more room for maneuver by magnifying Washington’s two-front problem: the United States now faces increasingly aggressive near-peer rivals in two separate theaters—eastern Europe and the western Pacific—that are thousands of miles apart. Sino-Russian cooperation, while fraught and ambivalent, raises the prospect that America’s two great-power rivalries could merge into a single contest against an autocratic axis. Even short of that, the current situation has revived the great geopolitical nightmare of the modern era: an authoritarian power or entente that strives for dominance in Eurasia, the central strategic theater of the world."
+
+### 137: [Russia invades Ukraine Megathread III - Please be aware that individual posts are only allowed for major developments](https://old.reddit.com/r/europe/comments/t1b1jq/russia_invades_ukraine_megathread_iii_please_be/), submitted on 2022-02-26 02:35:40+08:00.
+
+----- __137.1__ -----2022-02-26 22:58:50+08:00:
+
+[Putin’s War at Home: How Conflict in Ukraine Complicates His Balancing Act, By Timothy Frye](https://www.foreignaffairs.com/articles/russia-fsu/2022-02-26/putins-war-home)
+
+----- __137.2__ -----2022-02-26 23:11:36+08:00:
+
+[Making Putin Pay: How the West Can Push Back Against Russia, By David J. Kramer, John Herbst, and William Taylor](https://www.foreignaffairs.com/articles/ukraine/2022-02-26/making-putin-pay)
+
+### 138: [Putin’s War at Home: How Conflict in Ukraine Complicates His Balancing Act](https://old.reddit.com/r/geopolitics/comments/t1ysgc/putins_war_at_home_how_conflict_in_ukraine/), submitted on 2022-02-26 22:51:13+08:00.
+
+----- __138.1__ -----2022-02-26 22:52:11+08:00:
+
+\[SS from the article by Timothy Frye, Professor of Post-Soviet Foreign Policy at Columbia University\]
+
+"For almost two decades, Putin deftly balanced the dual threats that confront all autocrats: coups from other elites and protests from the masses. A booming economy in the first decade of this century allowed him to consolidate power, and his successful annexation of Crimea in 2014 ensured his place in Russian history. Putin could manipulate elections and public opinion, deliver rents to his cronies while still improving the living standards for the masses, and bask in high approval ratings.  
+Yet as the warm glow of his Crimea success has faded, Putin has struggled to find a narrative to legitimate his rule. A decade of slow economic growth, a botched response to the pandemic, corruption, and simple Putin fatigue among the populace have all blunted his tools for governing Russia. As I argued in the May/June 2021 issue of Foreign Affairs, Putin has therefore come to rely more heavily on the security services to maintain his grip on power, a dangerous bargain that necessitates greater repression at home and risks greater belligerence abroad. The invasion of Ukraine both flows from and reinforces this bargain, making Putin more dependent on the men in uniform who encourage his aggression."
+
+### 139: [The Man Behind Putin’s Military: How Sergey Shoygu Paved the Way for Russia’s Ukraine Assault](https://old.reddit.com/r/TrueReddit/comments/t1ywe8/the_man_behind_putins_military_how_sergey_shoygu/), submitted on 2022-02-26 22:56:32+08:00.
+
+----- __139.1__ -----2022-02-26 22:57:17+08:00:
+
+\[SS from the article by journalists Andrei Soldatov and Irina Borogan\]
+
+"Previously regarded by many Russians as poorly run, underfunded, and backward, it is now equipped with a new generation of technology and supported by a military-industrial complex that has growing reach in Russian society. And with its newfound political clout, it has emerged as one of the most important institutions in Putin’s Russia.  
+Leading this transformation is one of the most ambitious members of Putin’s inner circle: Sergey Shoygu."
 
