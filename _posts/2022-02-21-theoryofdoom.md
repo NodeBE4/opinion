@@ -382,3 +382,11 @@ Warnings of [normalizing this state of collective insanity](https://www.telegrap
 
 I cannot envision the world where getting angry at people *because* they are wearing masks is normalized.  People can wear whatever they want on their face or otherwise, whether masks, beards, piercings, religious attire or even furry cosplay items.  The issue isn't what people decide to do for themselves, it's what the government makes them do and the basis for it.
 
+----- __131.6__ -----2022-02-27 04:47:57+08:00:
+
+January of this year.  During that time, there was neither a mask nor vaccine mandate in effect where I was and I saw those very few people who chose to wear masks treated no differently than anyone else.  I do not work in a small town or travel to rural areas with any level of frequency, however.
+
+----- __131.7__ -----2022-02-27 04:57:49+08:00:
+
+Seems like it would depend on the area.  I'd imagine you'd have a harder time in, say, corn country than in Galena, IL.  The rural area I was in was obviously not in Illinois.  Much further north and west.
+
