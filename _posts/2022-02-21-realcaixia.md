@@ -151,3 +151,11 @@ Re @Sharon65086147 张展为啥进了监狱？你说说看。
 
 <br><img style="" src="https://pbs.twimg.com/media/FMfmlViXMAIGNHb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 35: [2022-02-26 14:17:30+08:00 推文](https://twitter.com/realcaixia/status/1497455765669433344)
+
+泽伦斯基是合格的国家领导人，是真正的战士，是称得上英雄的领袖！<br><br>Laura: 我英文很差的，但还是转发支持一下<br><br>泽连斯基说的悲壮<br><br>我直接问了27个欧洲领导人，乌克兰还能进北约吗？没有一个人回答。但是我们不害怕，我们不怕俄罗斯，我们自己保卫我们的国家。我没有逃跑，还在首都，我的家人都在，我们是乌克兰公民。我已被敌人列为头号目标，我的家人是第二号<br> <a href="https://twitter.com/nytimes/status/1497066350715490317" target="_blank" rel="noopener noreferrer">https://twitter.com/nytimes/status/1497066350715490317</a>
+
+### 36: [2022-02-26 14:21:12+08:00 推文](https://twitter.com/realcaixia/status/1497456698382036994)
+
+说得好！<br><br>White Light💡: 北约东扩才导致战争这句话的内在逻辑和因为凡尔赛条约过于苛刻所以纳粹德国入侵波法是合理的一模一样。。。<br>
+
