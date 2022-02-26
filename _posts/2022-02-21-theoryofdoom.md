@@ -316,6 +316,16 @@ Now I know you probably googled some relevant terms and tried to find something 
 
 There are plenty of laboratory studies regarding masks.  The problem is that there isn't a single one of them that demonstrates any mask confers any empirical benefit relating to reducing the probability of transmission for or reducing the probability of becoming infected with the SARS-CoV-2 virus (or any variant thereof).
 
+----- __128.4__ -----2022-02-27 04:22:08+08:00:
+
+I'll keep eating [raw oysters](https://www.cdc.gov/foodsafety/communication/oysters-and-vibriosis.html), [raw sprouts](https://www.cdc.gov/foodsafety/foods-linked-illness.html#:~:text=Eating%20raw%20or%20lightly%20cooked%20sprouts%2C%20such%20as%20alfalfa%2C%20bean%2C%20or%20any%20other%20sprout), [sushi](https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food#:~:text=But%20raw%20seafood%20can%20contain%20toxins%20such%20as%20mercury%20or%20bacteria%20that%20can%20be%20destroyed%20only%20by%20cooking%20to%20the%20proper%20temperature.) which I will note the mercury content in fish such as tuna is not reduced by cooking to any temperature, rare [steak, and raw beef carpaccio and tartare](https://www.foodsafety.gov/keep-food-safe/food-safety-by-type-food#:~:text=Raw%20meat%20may%20contain%20parasites%20and%20bacteria%20such%20as%20E.%20coli%20and%20Salmonella.) and whatever else I please without regard to what the CDC says on those or any other issues.
+
+----- __128.5__ -----2022-02-27 04:23:21+08:00:
+
+> So you won't eat medium cooked burgers?
+
+Absolutely not.  I eat them medium rare.
+
 ### 129: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
 
 ----- __129.1__ -----2022-02-26 12:24:59+08:00:
@@ -353,4 +363,22 @@ You do you.  People engage in ritualistic practices which provide no empirical b
 ----- __131.2__ -----2022-02-27 01:56:42+08:00:
 
 Some people go to confession.  Other people put on N95 face masks.  No evidence exists to suggest that either is more likely to make your life better.
+
+----- __131.3__ -----2022-02-27 03:53:29+08:00:
+
+You're quite right.  And there will be a day of political reckoning for all of this.  Signs that change is coming can be seen at every level of political polling.  They include, but are not limited to, Joe Biden's approval rating nationally and by independent voters, the percentage of Americans who think this country is on the wrong track and/or headed in the wrong direction, the extent to which Anthony Fauci and the relevant lettered agencies he is associated with are regarded as non-credible by the American public, the extent to which promulgators of conspiracy theories and fake news are regarded as more credible than either Fauci or those lettered agencies, and the list goes on.  That is not to imply I agree with any of the foregoing, so much as to state what reality is.  The damage this has caused to the credibility of our institutions is astonishing.
+
+----- __131.4__ -----2022-02-27 04:03:50+08:00:
+
+> Your statements make it seem that you want everyone to move forward the way you see fit. 
+
+I want people to live their lives in freedom, where they are free to choose how to structure their days, their employment, their family's activities and their lives in general; without imperious bureaucratic restraint from a pencil-pushing gnat at any level of the federal government with the unmitigated audacity to declare himself "the science," or anyone else who would submit to his rule or decree.  
+
+Warnings of [normalizing this state of collective insanity](https://www.telegraph.co.uk/news/2021/06/12/must-beware-cynical-bid-terrify-britain-loving-lockdown/), such as Janet Daley's of last year, have gone unheeded.  The time is now to say what must be said, to let facts be set forth in a candid world that free people may decide for themselves what is in their best interest, under circumstances where they are apprised of the facts as they are (as opposed to how they have been misrepresented by political actors holding themselves out as non-partisan).
+
+----- __131.5__ -----2022-02-27 04:12:11+08:00:
+
+> My biggest hope is that people don’t care if someone is wearing or not wearing. 
+
+I cannot envision the world where getting angry at people *because* they are wearing masks is normalized.  People can wear whatever they want on their face or otherwise, whether masks, beards, piercings, religious attire or even furry cosplay items.  The issue isn't what people decide to do for themselves, it's what the government makes them do and the basis for it.
 
