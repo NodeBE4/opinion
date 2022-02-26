@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-25
+date: 2022-02-26
 from: https://old.reddit.com/r/geopolitics/comments/sx4wo8/bond_between_china_and_russia_alarms_us_and/
 layout: post
 tags:
@@ -271,4 +271,14 @@ I agree.  I am sick of wearing masks to fly or take the train.
 ----- __127.1__ -----2022-02-25 13:22:46+08:00:
 
 When you see a mega-thread, that means post stuff related to that topic there. But even if you had, this is blogspam.
+
+### 128: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
+
+----- __128.1__ -----2022-02-26 12:24:59+08:00:
+
+I'll bet he'll be selling beachfront property in Iowa, next.
+
+----- __128.2__ -----2022-02-26 12:27:44+08:00:
+
+My vote is for the least authoritarian candidate in the race, always.  I would use the word "fascist" but for some strange reason, people don't seem to [understand what that word means anymore](http://i0.kym-cdn.com/photos/images/original/001/189/715/161.jpg).
 

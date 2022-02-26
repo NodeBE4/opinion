@@ -77,7 +77,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 ### 16: [2022-02-21 23:22:07+08:00 推文](https://twitter.com/realcaixia/status/1495780882690547715)
 
-铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。<br><br>美国之音中文网: 2/21【#时事大家谈】“锁链女“案重创政府公信力，北京深陷“塔西佗陷阱”？<br><br>嘉宾：北京之春荣誉主编胡平 @Huping1；公民力量创办人杨建利  @yangjianli001 <br>主持人：许波<br><br>YouTube🔗<br> <a href="https://youtu.be/DVEYJ0wZ2Ds" target="_blank" rel="noopener noreferrer">https://youtu.be/DVEYJ0wZ2Ds</a> <a href="https://twitter.com/i/broadcasts/1eaJbNlwYpRJX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/broadcasts/1eaJbNlwYpRJX</a>
+铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。 <a href="https://twitter.com/VOAChinese/status/1495741902943096837" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1495741902943096837</a>
 
 ### 17: [2022-02-22 00:47:23+08:00 推文](https://twitter.com/realcaixia/status/1495802340917530630)
 
@@ -138,4 +138,16 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 ### 31: [2022-02-26 05:17:54+08:00 推文](https://twitter.com/realcaixia/status/1497319971222867982)
 
 我们不要忘记张展。张展，锁链女是今天中国女性深重苦难的集中体现。锁链女的牢房在董家院子里，残害铁链女的不仅是董什么人畜不如的东西，还有丰县、徐州、江苏省、习当局中央政权等层层丧尽天良的统治者的库吏打手。张展的牢房在监狱中！整个极权统治集都在残害张展！还铁链女张展以自由！张展无罪！<br><br>Jane Wang 王剑虹 #FreeZhangZhan #释放张展: 感谢推友Frank制作视频 @FrankGTAcanada <br>#释放张展 #自由张展 @consultorzhang<br><br><video src="https://video.twimg.com/ext_tw_video/1497219098505265164/pu/vid/480x480/tYdb_eqhxXmQdyw9.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497219098505265164/pu/img/XaGU7_j6ITSq7C4M.jpg"></video>
+
+### 32: [2022-02-26 10:58:36+08:00 推文](https://twitter.com/realcaixia/status/1497405710639976448)
+
+<br><br>张海。: 锁链女说：“我就是个妓女……跟妓女一样，我就跟妓女一样！”她没有疯，神智清醒，是这个世界疯了！<br>​畜牲们害怕锁链女道出真相。每个人只是幸存者，没有遭受苦难的只是幸运者，一件件残酷的现实验证了，时代的一粒灰砸向谁是不挑人的。<br><br><video src="https://video.twimg.com/ext_tw_video/1496359428987109378/pu/vid/704x1280/eK_2KksFFr36BnF0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1496359428987109378/pu/img/6nsaGRmcPc1sPovj.jpg"></video>
+
+### 33: [2022-02-26 11:10:38+08:00 推文](https://twitter.com/realcaixia/status/1497408739414061059)
+
+Re @Sharon65086147 张展为啥进了监狱？你说说看。
+
+### 34: [2022-02-26 11:51:09+08:00 推文](https://twitter.com/realcaixia/status/1497418935020527616)
+
+<br><img style="" src="https://pbs.twimg.com/media/FMfmlViXMAIGNHb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
