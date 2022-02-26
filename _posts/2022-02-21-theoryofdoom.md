@@ -354,6 +354,12 @@ Building up multi-accounts with 4k of illusory karma for what very obviously app
 
 There is no rational reason why you could think that you can repeatedly violate the most basic rules of this sub, over and over again, and get away with it.
 
+----- __130.5__ -----2022-02-27 06:50:01+08:00:
+
+> Don’t know why that user was banned 
+
+Then read what I wrote and comprehend it.  One person is engaged in multi-accounting for the purpose of circumventing a prior ban for numerous conduct violations, and the other is not.  This concept is simple.  Just because you come in and say things some people agree with doesn't mean you can violate Rule 1 with a multi-account you created for that specific purpose.
+
 ### 131: [Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country](https://old.reddit.com/r/PublicFreakout/comments/t1srm8/young_russian_soldier_cries_as_the_local/), submitted on 2022-02-26 17:07:11+08:00.
 
 ----- __131.1__ -----2022-02-27 00:23:54+08:00:
@@ -409,6 +415,22 @@ Seems like it would depend on the area.  I'd imagine you'd have a harder time in
 ----- __133.8__ -----2022-02-27 05:45:50+08:00:
 
 Maybe somewhere like rural Oklahoma or the middle if nowhere in Arkansas, perhaps.  It would surprise me in Illinois, however.
+
+----- __133.9__ -----2022-02-27 06:59:39+08:00:
+
+> I HAVE witnessed people being accosted for wearing a mask, even during mandates.
+
+When, where and in what context?
+
+----- __133.10__ -----2022-02-27 07:25:13+08:00:
+
+I've been to Florida since the pandemic and after Ron DeSantis lifted the mandates.  I didn't see that kind of behavior there.  
+
+I have only seen a few, isolated videos of idiot kids trying to make viral videos harassing people with masks on.  I do not see evidence this is any kind of a norm.  But to the extent it occurs, it obviously shouldn't.
+
+----- __133.11__ -----2022-02-27 07:34:23+08:00:
+
+I've driven through southern Illinois, but that's about it.  The rural area I was referring to was about 1,700 miles northwest of Chicago.
 
 ### 134: [You can't make this shit up...](https://old.reddit.com/r/walkaway/comments/t22r5n/you_cant_make_this_shit_up/), submitted on 2022-02-27 01:49:00+08:00.
 
