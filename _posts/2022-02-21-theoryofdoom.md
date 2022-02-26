@@ -272,13 +272,39 @@ I agree.  I am sick of wearing masks to fly or take the train.
 
 When you see a mega-thread, that means post stuff related to that topic there. But even if you had, this is blogspam.
 
-### 128: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
+### 128: [CDC Changes Mask Guidance](https://old.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/), submitted on 2022-02-26 07:35:21+08:00.
 
------ __128.1__ -----2022-02-26 12:24:59+08:00:
+----- __128.1__ -----2022-02-27 00:17:41+08:00:
+
+There is nothing to which the CDC can point, to substantiate the change.  Their initial guidance on masks was based on a combination of incompetence, politics and pseudoscience.  The fact that something was normalized doesn't mean it was scientifically legitimate.  It just means a bunch of people with purported letters after their name said to do something and then they did it. 
+
+The CDC's guidance on this issue was conspicuously devoid of all the types of scientific evidence needed to justify this type of recommendation.  For example, if you're going to recommend "masks" to prevent transmission of COVID, then you need to undertake at least some kind of analysis to determine what masks are out there and how they perform.  Then you need to set up some independent criteria so that masks can be graded according to their performance.  This needed to happen for both modalities of transmission recognised by current research (read: respiratory droplets and aerosolized molecular viral particles).  To do so, you'd need a whole team of fluid dynamics experts, at the very least, to evaluate performance both generally and in specific settings.  
+
+Nothing of the sort happened.  Instead, all that happened was an incompetent bureaucrat declared himself to be "the science," as if science works that way.  Hint: it does not.  If you're going to hold out devices as suitable for particular medical purposes, you have to have evidence to do that.  Otherwise, you're engaged in what amounts to fraud in this country.  We do not let people just make things up and offer them to the public, under circumstances where the public can rely on those misrepresentations to their detriment, without facing legal risk.
+
+### 129: [Pritzker: Illinois school mask mandate being lifted on Monday](https://old.reddit.com/r/CoronavirusIllinois/comments/t1iv1a/pritzker_illinois_school_mask_mandate_being/), submitted on 2022-02-26 08:21:25+08:00.
+
+----- __129.1__ -----2022-02-26 12:24:59+08:00:
 
 I'll bet he'll be selling beachfront property in Iowa, next.
 
------ __128.2__ -----2022-02-26 12:27:44+08:00:
+----- __129.2__ -----2022-02-26 12:27:44+08:00:
 
 My vote is for the least authoritarian candidate in the race, always.  I would use the word "fascist" but for some strange reason, people don't seem to [understand what that word means anymore](http://i0.kym-cdn.com/photos/images/original/001/189/715/161.jpg).
+
+----- __129.3__ -----2022-02-26 23:58:57+08:00:
+
+Permanently banned for multiple, obvious rule violations and probable ban evasion.
+
+----- __129.4__ -----2022-02-27 00:04:35+08:00:
+
+Building up multi-accounts with 4k of illusory karma for what very obviously appears to be the specific and deliberate purpose of menacing people you disagree with in a subreddit numerous other accounts of yours have been banned from does not look good.  
+
+There is no rational reason why you could think that you can repeatedly violate the most basic rules of this sub, over and over again, and get away with it.
+
+### 130: [Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country](https://old.reddit.com/r/PublicFreakout/comments/t1srm8/young_russian_soldier_cries_as_the_local/), submitted on 2022-02-26 17:07:11+08:00.
+
+----- __130.1__ -----2022-02-27 00:23:54+08:00:
+
+You can't make a soldier by putting a boy in a uniform and a gun in his hand.  Russia's conscripted army has no desire to be in Ukraine, but they'll face prison, court-martial or worse if they desert or dodge the draft.  What Vladimir Putin is doing to Ukraine is barbaric.  So is what he is doing to the teenagers and young men drafted into his military.
 
