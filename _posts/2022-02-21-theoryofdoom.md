@@ -432,6 +432,12 @@ I have only seen a few, isolated videos of idiot kids trying to make viral video
 
 I've driven through southern Illinois, but that's about it.  The rural area I was referring to was about 1,700 miles northwest of Chicago.
 
+----- __133.12__ -----2022-02-27 08:14:53+08:00:
+
+> I honestly don't think it is the norm--I actually think it's much more common for the pro-maskers to try to shame the non-maskers--but since the "anti-maskers" are believed to all be of a certain political persuasion
+
+That is consistent with my personal experience and what I have seen and heard from others as well.  I can still recall the time when some neurotic, mentally ill woman shrieked at me while outside and I was across the street, when I still lived around Northwestern's downtown campus.  I was not wearing a mask and would never do so outside.  She was wearing one of those plexiglass face masks, an n95 respirator, purple latex gloves and something similar to safety goggles.  I felt sorry for how stupid she looked, sounded and acted.
+
 ### 134: [You can't make this shit up...](https://old.reddit.com/r/walkaway/comments/t22r5n/you_cant_make_this_shit_up/), submitted on 2022-02-27 01:49:00+08:00.
 
 ----- __134.1__ -----2022-02-27 06:28:20+08:00:
