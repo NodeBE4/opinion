@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-02-26
+date: 2022-02-27
 from: https://twitter.com/realcaixia/status/1495458588868988935
 layout: post
 tags:
@@ -77,7 +77,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 ### 16: [2022-02-21 23:22:07+08:00 推文](https://twitter.com/realcaixia/status/1495780882690547715)
 
-铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。<br><br>美国之音中文网: 2/21【#时事大家谈】“锁链女“案重创政府公信力，北京深陷“塔西佗陷阱”？<br><br>嘉宾：北京之春荣誉主编胡平 @Huping1；公民力量创办人杨建利  @yangjianli001 <br>主持人：许波<br><br>YouTube🔗<br> <a href="https://youtu.be/DVEYJ0wZ2Ds" target="_blank" rel="noopener noreferrer">https://youtu.be/DVEYJ0wZ2Ds</a> <a href="https://twitter.com/i/broadcasts/1eaJbNlwYpRJX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/broadcasts/1eaJbNlwYpRJX</a>
+铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。 <a href="https://twitter.com/VOAChinese/status/1495741902943096837" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1495741902943096837</a>
 
 ### 17: [2022-02-22 00:47:23+08:00 推文](https://twitter.com/realcaixia/status/1495802340917530630)
 
@@ -182,4 +182,12 @@ Re @Sharon65086147 张展为啥进了监狱？你说说看。
 ### 42: [2022-02-26 21:34:29+08:00 推文](https://twitter.com/realcaixia/status/1497565737745104901)
 
 大陆全网封杀中国民众的反战呼声，只有粉红五毛的战争叫嚣遍布全网。中国教授反战声明发出即被删除，所有转发的公号全部被封杀。在大陆空前严酷的高压恐怖镇压下，中国有良知的人依旧不畏强暴挺身而出，令人感动！向大陆所有正义人士致敬！<br>特别推荐：《议报》发布的反战声明 <a href="https://yibaochina.com/?p=245120" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245120</a>
+
+### 43: [2022-02-27 05:36:46+08:00 推文](https://twitter.com/realcaixia/status/1497687106235289606)
+
+乌克兰民选总统在祖国危难之际与人民与战士紧紧站在一起，整个乌克兰军队士气高涨，誓死保卫祖国。远在国外北美欧洲澳洲的乌克兰人纷纷回国参加战斗，乌克兰人民血战到底！天助自助者！泽连斯基带领人民英勇抵抗侵略感动了、振奋了欧美国家，全球纷纷出手援助。<br>特别推荐： <a href="https://yibaochina.com/?p=245116" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245116</a>
+
+### 44: [2022-02-27 05:41:39+08:00 推文](https://twitter.com/realcaixia/status/1497688336063938560)
+
+大陆官场一个尽人皆知的潜规则：要想富就动土木。国家基建项目大有油水，贪官正好浑水摸鱼。一旦揭开黑幕，贪官就不是一个一个，而是一串一串或者一窝一窝。<br><br>《议报》: 杨重庆：曹广晶被查，是否会揭出三峡工程贪腐的黑幕？<br> <a href="https://yibaochina.com/?p=245125" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245125</a>
 
