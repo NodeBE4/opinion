@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-26
+date: 2022-02-27
 from: https://old.reddit.com/r/OutOfTheLoop/comments/sx4z3o/what_is_up_with_不知火フレア3d新ビジュアルお披露目_popping_up_on/
 layout: post
 tags:
@@ -229,17 +229,33 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 168: [Have 'honourable opponents' ever existed in conflict?](https://old.reddit.com/r/AskHistorians/comments/t1qb75/have_honourable_opponents_ever_existed_in_conflict/), submitted on 2022-02-26 14:32:25+08:00.
+### 168: [Korekore just released a new video talking about the Rushia Situation. Here are some translations done by the people in the comments.](https://old.reddit.com/r/VirtualYoutubers/comments/t1q4ie/korekore_just_released_a_new_video_talking_about/), submitted on 2022-02-26 14:21:43+08:00.
 
------ __168.1__ -----2022-02-26 14:58:28+08:00:
+----- __168.1__ -----2022-02-27 10:55:14+08:00:
+
+> Most of HoloLive members that are still active in their other personality channel had not once crossed the line of acting as if HoloLive personality is their own personality during their own personal time.
+
+I believe you might have misread here, in that while there may have been the occasional name-based mix-up i.e. 'whoopsie I used the wrong name for myself once', these weren't actions where they claimed to be the same person; e.g. actively alluding to specific things they were doing as their VTuber persona.
+
+### 169: [Have 'honourable opponents' ever existed in conflict?](https://old.reddit.com/r/AskHistorians/comments/t1qb75/have_honourable_opponents_ever_existed_in_conflict/), submitted on 2022-02-26 14:32:25+08:00.
+
+----- __169.1__ -----2022-02-26 14:58:28+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 169: [Tokino Sora's message to Kizuna AI before her last live](https://old.reddit.com/r/Hololive/comments/t1t57r/tokino_soras_message_to_kizuna_ai_before_her_last/), submitted on 2022-02-26 17:31:28+08:00.
+### 170: [Tokino Sora's message to Kizuna AI before her last live](https://old.reddit.com/r/Hololive/comments/t1t57r/tokino_soras_message_to_kizuna_ai_before_her_last/), submitted on 2022-02-26 17:31:28+08:00.
 
------ __169.1__ -----2022-02-26 18:59:27+08:00:
+----- __170.1__ -----2022-02-26 18:59:27+08:00:
 
 Given that Sora is something like the 7th VTuber to debut if we start counting from Ai-chan, they are very much from the same early era, even if from different agencies and with different backgrounds.
+
+### 171: [Were Wars of Conquest Popular Historically?](https://old.reddit.com/r/AskHistorians/comments/t2d5p0/were_wars_of_conquest_popular_historically/), submitted on 2022-02-27 10:01:32+08:00.
+
+----- __171.1__ -----2022-02-27 11:13:30+08:00:
+
+Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
+ 
+So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
