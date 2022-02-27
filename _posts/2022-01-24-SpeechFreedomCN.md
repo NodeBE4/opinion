@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-24~2022-01-30'
 
 ### 2: [2022-01-24 16:51:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1485535673272651781)
 
-Chengdu man Pu Zhengbao administratively detained for 10 days for "Attacking the Party and state leaders and posting Hong Kong related negative remarks" on Twitter.<br><img style src="https://pbs.twimg.com/media/FJ2ukSRXwAM10DC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Chengdu man Pu Zhengbao administratively detained for 10 days for "Attacking the Party and state leaders and posting Hong Kong related negative remarks" on Twitter.<br><img style="" src="https://pbs.twimg.com/media/FJ2ukSRXwAM10DC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-26 22:11:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1486341053116567554)
 
