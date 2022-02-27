@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-02-26
+date: 2022-02-27
 from: https://twitter.com/nathanlawkc/status/1496211396698198021
 layout: post
 tags:
@@ -52,4 +52,16 @@ I want to pay my tribute to the protestors in Mosco and other cities in Russia �
 ### 9: [2022-02-26 20:22:43+08:00 推文](https://twitter.com/nathanlawkc/status/1497547674651877377)
 
 Misinformation campaign is a weapon and war strategy from Russia. The state media RT does the same thing as China’s CCTV, to spread lies for the brutal regime and destabilize targets. Countries supporting freedom should consider banning state propaganda organs from operating.
+
+### 10: [2022-02-27 16:45:20+08:00 推文](https://twitter.com/nathanlawkc/status/1497855357200343040)
+
+We all stand with Ukraine 🇺🇦 <br>Stop the invasion from dictators.<br><br>Kris Cheng: A protest in Hong Kong🇭🇰against war in Ukraine🇺🇦amid tight covid &amp; demonstration restrictions, that’s why protesters were standing alone, one by one.<br><br>“I’m Russian I’m against war”<br>“This crime against humanity has no justifications”<br><br>Photos courtesy Egor Lyfar in Hong Kong.<br><br><img style="" src="https://pbs.twimg.com/media/FMcyZMEXsAUuxSa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMcyZMCXIAEQgl4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMcyZMAXoAE7oi1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMcyZMCWQC0RNsk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-02-27 18:17:26+08:00 推文](https://twitter.com/nathanlawkc/status/1497878532445417478)
+
+The courage of Ukraine🇺🇦 changed the world’s attitude towards Putin. The protest in Hong Kong changed the world’s attitude towards Xi. Yet, we need change in action, in building a world that protects people from dictatorship. It’s been failing, and it’s time to stop the failure.
+
+### 12: [2022-02-27 21:17:35+08:00 推文](https://twitter.com/nathanlawkc/status/1497923869318995968)
+
+“Anyone who rejects military action as a last resort weakens the pressure that needs to be maintained on dictators and consequently makes a war not less but more likely.” <br>This is actually from 🇩🇪 former chancellor Merkel in 2003, before she came into power. Deterrence needed.
 
