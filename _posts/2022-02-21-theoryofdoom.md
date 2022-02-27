@@ -360,6 +360,10 @@ There is no rational reason why you could think that you can repeatedly violate 
 
 Then read what I wrote and comprehend it.  One person is engaged in multi-accounting for the purpose of circumventing a prior ban for numerous conduct violations, and the other is not.  This concept is simple.  Just because you come in and say things some people agree with doesn't mean you can violate Rule 1 with a multi-account you created for that specific purpose.
 
+----- __130.6__ -----2022-02-27 14:48:06+08:00:
+
+There is no world in which any rational person could reach that conclusion.  Your tantrum is unavailing.
+
 ### 131: [Young Russian soldier cries as the local residents of Sumy tell him that he is not welcome in their country](https://old.reddit.com/r/PublicFreakout/comments/t1srm8/young_russian_soldier_cries_as_the_local/), submitted on 2022-02-26 17:07:11+08:00.
 
 ----- __131.1__ -----2022-02-27 00:23:54+08:00:
@@ -449,4 +453,16 @@ These people are morally, constitutionally and psychologically weak.
 ----- __135.1__ -----2022-02-27 06:15:17+08:00:
 
 President David Palmer from 24.
+
+### 136: [Another captive Russian solgier being interrogated in Ukraine.](https://old.reddit.com/r/PublicFreakout/comments/t25elq/another_captive_russian_solgier_being/), submitted on 2022-02-27 03:47:50+08:00.
+
+----- __136.1__ -----2022-02-27 14:58:12+08:00:
+
+> Good evidence to counter Russian claims of none invasion from Russians.
+
+Yes, but more importantly it is critical to countering Russian claims that the Ukrainians are arming psychopaths to engage in war crimes in the street.  The depths of Russian disinformation and propaganda are unmatched.  
+
+That kid was born in 2002.  His parents are going to want to know what happened to him.  The more videos like this are out there, the more opposition Putin will face. 
+
+Putin's barbarism must end.  95/100 Russians wanted nothing to do with this idiotic war.
 
