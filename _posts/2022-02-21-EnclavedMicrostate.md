@@ -101,6 +101,12 @@ Indeed not, and in fact we can quote Herodotos (7.41) here to show it:
 
 So, in what we might term the 'royal corps' of Persian standing troops, 1000 (the spearmen in the vanguard) were recruited from the nobility, 1000 (the cavalry) are implied to have been the same, and 20,000 (10,000 infantry and 10,000 cavalry) were recruited from the Persian population writ large.
 
+----- __152.3__ -----2022-02-28 17:57:38+08:00:
+
+Sorry, I didn't intend to leave you entirely on read but I've built up a bit of a message backlog lately. The main thing is that the video does *not* treat the Immortals as being unknown, but rather it opts to be conservative and not make firm assertions. Yes, synthesis is important, but it isn't a definitive statement, and surely this is especially true of fields like ancient Mediterranean history where few sources exist and where said sources must be and are dissected in immense detail.
+
+What I found problematic was not the use of the sources as definitive, but rather attempting to make these sources say what they don't. Invicta says we don't know where they were garrisoned, and you disagree based on Cyrus' inscription at Bisotun, but we simply do not know who the troops at the palace consisted of. Invicta says we don't know how the Immortals were recruited, and you disagree based on Herodotos, but what Herodotos says is *who* they were recruited *from* (1000 each of foot and horse from the Persian nobility, 10,000 each of foot and horse from non-noble Persians), but not *how* (volunteering? selection by lot? conscription?). Invicta says we don't know if and how they were trained, and you disagree based on Herodotos, but what Herodotos says is that Persian nobles, specifically, trained from youth in weapons and riding, but not if the Immortals trained as a unit, nor, critically, does he say anything about such training on the part of *non*-noble Persians. In the garrison case I would agree that you could *suggest* that the 22,000 Persian troops described by Herodotos were probably attached to the palace in some capacity, but that's not something we *know*. It's something we might surmise in attempting to reconcile our sources.
+
 ### 153: [What Are Some Buildings With History/Purposes Like the Sainte-Chappelle?](https://old.reddit.com/r/AskHistorians/comments/sxuqsv/what_are_some_buildings_with_historypurposes_like/), submitted on 2022-02-21 22:25:11+08:00.
 
 ----- __153.1__ -----2022-02-21 23:46:42+08:00:
