@@ -35,6 +35,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Thanks! One thing I wanted to ask is about the two Islamic sources you quote from: both seem particularly hostile to Baldwin and cite his illness as part of it, and I was curious whether his leprosy was a cause of contempt in itself to these writers, or if they had a more general antipathy to Crusader rulers and Baldwin's leprosy happened to be one aspect they could seize on?
 
+----- __176.2__ -----2022-03-01 03:35:52+08:00:
+
+Thanks!
+
 ### 177: [To celebrate Miko's birthday on March 5, a double-decker bus in Hong Kong is sporting a special Miko livery! More info in comments.](https://old.reddit.com/r/Hololive/comments/t3j200/to_celebrate_mikos_birthday_on_march_5_a/), submitted on 2022-03-01 00:09:00+08:00.
 
 ----- __177.1__ -----2022-03-01 03:17:47+08:00:
