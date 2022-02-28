@@ -466,3 +466,9 @@ That kid was born in 2002.  His parents are going to want to know what happened 
 
 Putin's barbarism must end.  95/100 Russians wanted nothing to do with this idiotic war.
 
+### 137: [Near-future predictions of the world after the Russian invasion of Ukraine (2022)](https://old.reddit.com/r/geopolitics/comments/t2efsj/nearfuture_predictions_of_the_world_after_the/), submitted on 2022-02-27 11:09:16+08:00.
+
+----- __137.1__ -----2022-02-28 08:46:30+08:00:
+
+post to /r/geopolitics2
+
