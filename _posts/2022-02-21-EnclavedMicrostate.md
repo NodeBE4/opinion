@@ -214,6 +214,12 @@ A further reminder that **the 20-year rule remains in effect on this thread**. P
 
 From what I know (IDK why I never joined that Discord, I probably should some time) it's actually a group of HKnikis; their Twitter shows they're taking a couple of ads out on the metro for Nene this week.
 
+----- __165.2__ -----2022-02-28 20:14:04+08:00:
+
+I'm afraid I'm not sure I follow.
+
+EDIT: Unless you mean it's a jinx
+
 ### 166: [Has any Kings, Presidents or any political leader in history that was killed during a meeting with another nation?](https://old.reddit.com/r/AskHistorians/comments/t1oay5/has_any_kings_presidents_or_any_political_leader/), submitted on 2022-02-26 12:43:45+08:00.
 
 ----- __166.1__ -----2022-02-26 14:57:00+08:00:
