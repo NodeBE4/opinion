@@ -29,3 +29,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 176: [In the Ridley Scott film Kingdom of Heaven, Baldwin IV of Jerusalem is depicted wearing an ornate mask to hide his leprosy. Did the actual King Baldwin feel the need to conceal his condition in this way? How would contemporaries have perceived leprosy, and was this a cause of stigma against him?](https://old.reddit.com/r/AskHistorians/comments/t3g7st/in_the_ridley_scott_film_kingdom_of_heaven/), submitted on 2022-02-28 21:58:11+08:00.
+
+----- __176.1__ -----2022-03-01 02:35:19+08:00:
+
+Thanks! One thing I wanted to ask is about the two Islamic sources you quote from: both seem particularly hostile to Baldwin and cite his illness as part of it, and I was curious whether his leprosy was a cause of contempt in itself to these writers, or if they had a more general antipathy to Crusader rulers and Baldwin's leprosy happened to be one aspect they could seize on?
+
