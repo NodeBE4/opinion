@@ -123,9 +123,18 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 I believe it might be [this](https://www.youtube.com/watch?v=09Oakjzzgw0), although Miko wasn't in a shared VC with Rushia at the time and the closest she wrote was a 'wtf' in chat, copying Calli. I skimmed through that clip so I don't believe Miko's POV is in it; for that I can only find [this clip](https://www.youtube.com/watch?v=xRd3dnFjIA0) with Mandarin subs.
 
-### 155: [What are some examples of bad medicines used in medieval societies?](https://old.reddit.com/r/AskHistorians/comments/sz3w60/what_are_some_examples_of_bad_medicines_used_in/), submitted on 2022-02-23 09:04:42+08:00.
+### 155: [Everyone's got a hearo they look up to - Napoleon admired Julius Caesar; Caesar idolized Alexander the Great; Alexander was enamored with Cyrus the Great... Who did Cyrus the Great revere?](https://old.reddit.com/r/AskHistorians/comments/syq6ti/everyones_got_a_hearo_they_look_up_to_napoleon/), submitted on 2022-02-22 23:24:55+08:00.
 
------ __155.1__ -----2022-02-23 11:37:21+08:00:
+----- __155.1__ -----2022-02-28 18:59:40+08:00:
+
+> C. 486, Xerxes crushes a rebellion in an unspecified region and wipes out a cult following what he considered a false god (Daiva Inscription XPh)
+> 
+
+A bit of a tangential question deriving from sheer curiosity, but I have on occasion seen the suggestion that the Daiva Inscription is possibly a very oblique reference to the invasion of Greece. Now, that's basically unprovable, but for that same reason I'm curious what basis has been given for the events being c. 486. Is there certain contextual evidence within the inscription, corroborated against other known narrative or epigraphic sources, that suggests a date in the mid-480s?
+
+### 156: [What are some examples of bad medicines used in medieval societies?](https://old.reddit.com/r/AskHistorians/comments/sz3w60/what_are_some_examples_of_bad_medicines_used_in/), submitted on 2022-02-23 09:04:42+08:00.
+
+----- __156.1__ -----2022-02-23 11:37:21+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -133,17 +142,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 156: [how (and why) has the confirmed kill count for the average foot soldier changed throughout history?](https://old.reddit.com/r/AskHistorians/comments/sz4yjp/how_and_why_has_the_confirmed_kill_count_for_the/), submitted on 2022-02-23 09:54:04+08:00.
+### 157: [how (and why) has the confirmed kill count for the average foot soldier changed throughout history?](https://old.reddit.com/r/AskHistorians/comments/sz4yjp/how_and_why_has_the_confirmed_kill_count_for_the/), submitted on 2022-02-23 09:54:04+08:00.
 
------ __156.1__ -----2022-02-23 11:37:46+08:00:
+----- __157.1__ -----2022-02-23 11:37:46+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 157: [Did anyone else in Vincent Van Gogh's family also have artistic ability?](https://old.reddit.com/r/AskHistorians/comments/sz5b2d/did_anyone_else_in_vincent_van_goghs_family_also/), submitted on 2022-02-23 10:08:44+08:00.
+### 158: [Did anyone else in Vincent Van Gogh's family also have artistic ability?](https://old.reddit.com/r/AskHistorians/comments/sz5b2d/did_anyone_else_in_vincent_van_goghs_family_also/), submitted on 2022-02-23 10:08:44+08:00.
 
------ __157.1__ -----2022-02-23 11:47:02+08:00:
+----- __158.1__ -----2022-02-23 11:47:02+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -151,15 +160,15 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 158: [Were the original Magyars of Hungary Caucasian or Asian in appearance? What do latest genetics tell us?](https://old.reddit.com/r/AskHistorians/comments/sz72p4/were_the_original_magyars_of_hungary_caucasian_or/), submitted on 2022-02-23 11:30:54+08:00.
+### 159: [Were the original Magyars of Hungary Caucasian or Asian in appearance? What do latest genetics tell us?](https://old.reddit.com/r/AskHistorians/comments/sz72p4/were_the_original_magyars_of_hungary_caucasian_or/), submitted on 2022-02-23 11:30:54+08:00.
 
------ __158.1__ -----2022-02-23 11:48:10+08:00:
+----- __159.1__ -----2022-02-23 11:48:10+08:00:
 
 Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. Questions about genetics do not fall within that scope. If you are interested in a historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
-### 159: [What are some of the greatest acts of diplomacy throughout history?](https://old.reddit.com/r/AskHistorians/comments/sz8776/what_are_some_of_the_greatest_acts_of_diplomacy/), submitted on 2022-02-23 12:25:28+08:00.
+### 160: [What are some of the greatest acts of diplomacy throughout history?](https://old.reddit.com/r/AskHistorians/comments/sz8776/what_are_some_of_the_greatest_acts_of_diplomacy/), submitted on 2022-02-23 12:25:28+08:00.
 
------ __159.1__ -----2022-02-23 12:51:34+08:00:
+----- __160.1__ -----2022-02-23 12:51:34+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -167,51 +176,47 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 160: [Hey history freaks i want to ask a question when in 1917 tsar was already overthrown then that Bolshevik revolution was necessary or not?](https://old.reddit.com/r/AskHistorians/comments/sz8lpl/hey_history_freaks_i_want_to_ask_a_question_when/), submitted on 2022-02-23 12:46:24+08:00.
+### 161: [Hey history freaks i want to ask a question when in 1917 tsar was already overthrown then that Bolshevik revolution was necessary or not?](https://old.reddit.com/r/AskHistorians/comments/sz8lpl/hey_history_freaks_i_want_to_ask_a_question_when/), submitted on 2022-02-23 12:46:24+08:00.
 
------ __160.1__ -----2022-02-23 12:51:49+08:00:
+----- __161.1__ -----2022-02-23 12:51:49+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 161: [I’m Chris Kempshall: a historian of First World War allied relations, historical computer games, and Star Wars - AMA!](https://old.reddit.com/r/AskHistorians/comments/szjgl9/im_chris_kempshall_a_historian_of_first_world_war/), submitted on 2022-02-23 23:00:02+08:00.
+### 162: [I’m Chris Kempshall: a historian of First World War allied relations, historical computer games, and Star Wars - AMA!](https://old.reddit.com/r/AskHistorians/comments/szjgl9/im_chris_kempshall_a_historian_of_first_world_war/), submitted on 2022-02-23 23:00:02+08:00.
 
------ __161.1__ -----2022-02-23 23:09:34+08:00:
+----- __162.1__ -----2022-02-23 23:09:34+08:00:
 
 Hello! Thanks for coming on to do an AMA with us.
 
 A bit of a general question, but how far would you say that video games about the First World War have helped improve the public's understanding, especially in terms of challenging existing narratives in popular culture?
 
------ __161.2__ -----2022-02-24 00:11:38+08:00:
+----- __162.2__ -----2022-02-24 00:11:38+08:00:
 
 Thanks!
 
-### 162: [[Subbed] 3rd Generation Statement [Usada Pekora, Shiranui Flare, Shirogane Noel, Houshou Marine]](https://old.reddit.com/r/Hololive/comments/t0dnmz/subbed_3rd_generation_statement_usada_pekora/), submitted on 2022-02-24 23:27:09+08:00.
+### 163: [[Subbed] 3rd Generation Statement [Usada Pekora, Shiranui Flare, Shirogane Noel, Houshou Marine]](https://old.reddit.com/r/Hololive/comments/t0dnmz/subbed_3rd_generation_statement_usada_pekora/), submitted on 2022-02-24 23:27:09+08:00.
 
------ __162.1__ -----2022-02-25 12:51:50+08:00:
+----- __163.1__ -----2022-02-25 12:51:50+08:00:
 
 Given that Kiara seems to have known the night before, it's more likely that some basic gist was known to EN but that the full details were not disclosed until the day of.
 
-### 163: [Megathread on recent events in Ukraine](https://old.reddit.com/r/AskHistorians/comments/t0gj2p/megathread_on_recent_events_in_ukraine/), submitted on 2022-02-25 01:33:06+08:00.
+### 164: [Megathread on recent events in Ukraine](https://old.reddit.com/r/AskHistorians/comments/t0gj2p/megathread_on_recent_events_in_ukraine/), submitted on 2022-02-25 01:33:06+08:00.
 
------ __163.1__ -----2022-02-25 02:42:02+08:00:
+----- __164.1__ -----2022-02-25 02:42:02+08:00:
 
 A further reminder that **the 20-year rule remains in effect on this thread**. Please keep enquiries to historical questions whose scope cuts off no later than 2002.
 
-### 164: [Has any Kings, Presidents or any political leader in history that was killed during a meeting with another nation?](https://old.reddit.com/r/AskHistorians/comments/t1oay5/has_any_kings_presidents_or_any_political_leader/), submitted on 2022-02-26 12:43:45+08:00.
+### 165: [Rushia Appreciation Thread](https://old.reddit.com/r/Hololive/comments/t1jnfa/rushia_appreciation_thread/), submitted on 2022-02-26 08:59:19+08:00.
 
------ __164.1__ -----2022-02-26 14:57:00+08:00:
+----- __165.1__ -----2022-02-28 19:34:50+08:00:
 
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+From what I know (IDK why I never joined that Discord, I probably should some time) it's actually a group of HKnikis; their Twitter shows they're taking a couple of ads out on the metro for Nene this week.
 
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+### 166: [Has any Kings, Presidents or any political leader in history that was killed during a meeting with another nation?](https://old.reddit.com/r/AskHistorians/comments/t1oay5/has_any_kings_presidents_or_any_political_leader/), submitted on 2022-02-26 12:43:45+08:00.
 
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 165: [Has a country ever one a self coup?](https://old.reddit.com/r/AskHistorians/comments/t1owx6/has_a_country_ever_one_a_self_coup/), submitted on 2022-02-26 13:15:15+08:00.
-
------ __165.1__ -----2022-02-26 14:57:23+08:00:
+----- __166.1__ -----2022-02-26 14:57:00+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -219,9 +224,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 166: [What are some of the most remarkable but less well-known state-sponsored celebrations and displays of wealth?](https://old.reddit.com/r/AskHistorians/comments/t1pjby/what_are_some_of_the_most_remarkable_but_less/), submitted on 2022-02-26 13:49:03+08:00.
+### 167: [Has a country ever one a self coup?](https://old.reddit.com/r/AskHistorians/comments/t1owx6/has_a_country_ever_one_a_self_coup/), submitted on 2022-02-26 13:15:15+08:00.
 
------ __166.1__ -----2022-02-26 14:57:42+08:00:
+----- __167.1__ -----2022-02-26 14:57:23+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -229,37 +234,47 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 167: [What makes the invasion of Ukraine any different than the War on the Middle East and Vietnam?](https://old.reddit.com/r/AskHistorians/comments/t1psm7/what_makes_the_invasion_of_ukraine_any_different/), submitted on 2022-02-26 14:02:45+08:00.
+### 168: [What are some of the most remarkable but less well-known state-sponsored celebrations and displays of wealth?](https://old.reddit.com/r/AskHistorians/comments/t1pjby/what_are_some_of_the_most_remarkable_but_less/), submitted on 2022-02-26 13:49:03+08:00.
 
------ __167.1__ -----2022-02-26 14:58:01+08:00:
+----- __168.1__ -----2022-02-26 14:57:42+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 169: [What makes the invasion of Ukraine any different than the War on the Middle East and Vietnam?](https://old.reddit.com/r/AskHistorians/comments/t1psm7/what_makes_the_invasion_of_ukraine_any_different/), submitted on 2022-02-26 14:02:45+08:00.
+
+----- __169.1__ -----2022-02-26 14:58:01+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 168: [Korekore just released a new video talking about the Rushia Situation. Here are some translations done by the people in the comments.](https://old.reddit.com/r/VirtualYoutubers/comments/t1q4ie/korekore_just_released_a_new_video_talking_about/), submitted on 2022-02-26 14:21:43+08:00.
+### 170: [Korekore just released a new video talking about the Rushia Situation. Here are some translations done by the people in the comments.](https://old.reddit.com/r/VirtualYoutubers/comments/t1q4ie/korekore_just_released_a_new_video_talking_about/), submitted on 2022-02-26 14:21:43+08:00.
 
------ __168.1__ -----2022-02-27 10:55:14+08:00:
+----- __170.1__ -----2022-02-27 10:55:14+08:00:
 
 > Most of HoloLive members that are still active in their other personality channel had not once crossed the line of acting as if HoloLive personality is their own personality during their own personal time.
 
 I believe you might have misread here, in that while there may have been the occasional name-based mix-up i.e. 'whoopsie I used the wrong name for myself once', these weren't actions where they claimed to be the same person; e.g. actively alluding to specific things they were doing as their VTuber persona.
 
-### 169: [Have 'honourable opponents' ever existed in conflict?](https://old.reddit.com/r/AskHistorians/comments/t1qb75/have_honourable_opponents_ever_existed_in_conflict/), submitted on 2022-02-26 14:32:25+08:00.
+### 171: [Have 'honourable opponents' ever existed in conflict?](https://old.reddit.com/r/AskHistorians/comments/t1qb75/have_honourable_opponents_ever_existed_in_conflict/), submitted on 2022-02-26 14:32:25+08:00.
 
------ __169.1__ -----2022-02-26 14:58:28+08:00:
+----- __171.1__ -----2022-02-26 14:58:28+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 170: [Tokino Sora's message to Kizuna AI before her last live](https://old.reddit.com/r/Hololive/comments/t1t57r/tokino_soras_message_to_kizuna_ai_before_her_last/), submitted on 2022-02-26 17:31:28+08:00.
+### 172: [Tokino Sora's message to Kizuna AI before her last live](https://old.reddit.com/r/Hololive/comments/t1t57r/tokino_soras_message_to_kizuna_ai_before_her_last/), submitted on 2022-02-26 17:31:28+08:00.
 
------ __170.1__ -----2022-02-26 18:59:27+08:00:
+----- __172.1__ -----2022-02-26 18:59:27+08:00:
 
 Given that Sora is something like the 7th VTuber to debut if we start counting from Ai-chan, they are very much from the same early era, even if from different agencies and with different backgrounds.
 
-### 171: [Were Wars of Conquest Popular Historically?](https://old.reddit.com/r/AskHistorians/comments/t2d5p0/were_wars_of_conquest_popular_historically/), submitted on 2022-02-27 10:01:32+08:00.
+### 173: [Were Wars of Conquest Popular Historically?](https://old.reddit.com/r/AskHistorians/comments/t2d5p0/were_wars_of_conquest_popular_historically/), submitted on 2022-02-27 10:01:32+08:00.
 
------ __171.1__ -----2022-02-27 11:13:30+08:00:
+----- __173.1__ -----2022-02-27 11:13:30+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
