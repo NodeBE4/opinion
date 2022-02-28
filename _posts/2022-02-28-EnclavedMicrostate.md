@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-02-28
+date: 2022-03-01
 from: https://old.reddit.com/r/AskHistorians/comments/t3ctq5/how_do_you_think_history_would_have_turned_out_if/
 layout: post
 tags:
@@ -34,4 +34,14 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 ----- __176.1__ -----2022-03-01 02:35:19+08:00:
 
 Thanks! One thing I wanted to ask is about the two Islamic sources you quote from: both seem particularly hostile to Baldwin and cite his illness as part of it, and I was curious whether his leprosy was a cause of contempt in itself to these writers, or if they had a more general antipathy to Crusader rulers and Baldwin's leprosy happened to be one aspect they could seize on?
+
+### 177: [To celebrate Miko's birthday on March 5, a double-decker bus in Hong Kong is sporting a special Miko livery! More info in comments.](https://old.reddit.com/r/Hololive/comments/t3j200/to_celebrate_mikos_birthday_on_march_5_a/), submitted on 2022-03-01 00:09:00+08:00.
+
+----- __177.1__ -----2022-03-01 03:17:47+08:00:
+
+It's supposed to run for 2 or 3 weeks still, I'd presume it's not being redacted.
+
+----- __177.2__ -----2022-03-01 03:19:00+08:00:
+
+As another HKniki, I do feel I need to give credit where it's due to our counterparts in Taiwan [who are doing 3 buses across 3 separate cities](https://twitter.com/fuwafuwa_35/status/1497530882923528192).
 
