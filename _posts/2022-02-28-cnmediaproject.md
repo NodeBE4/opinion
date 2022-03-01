@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-01
+date: 2022-03-02
 from: https://twitter.com/yangliuxh/status/1498378205400420352
 layout: post
 tags:
@@ -34,4 +34,8 @@ Re Coverage and publicity outside China omits this fact: the series was produced
 ### 5: [2022-03-01 17:03:12+08:00 推文](https://twitter.com/ananthkrishnan/status/1498584628197687300)
 
 RT Ananth Krishnan<br>Coincidence or something more? The choice of colour by an anchor on China’s State channel CCTV is being noticed 🇺🇦<br><img style="" src="https://pbs.twimg.com/media/FMwKxhraUAQRVae?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-03-02 06:26:28+08:00 推文](https://twitter.com/cnmediaproject/status/1498786777070706689)
+
+Warriors on the Red Road: A look at the latest international co-production by China used to conduct "external propaganda" and make the CCP lovable. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FMzCmXcacAIWaTq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
