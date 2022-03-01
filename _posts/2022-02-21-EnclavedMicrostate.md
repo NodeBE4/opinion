@@ -132,6 +132,10 @@ I believe it might be [this](https://www.youtube.com/watch?v=09Oakjzzgw0), altho
 
 A bit of a tangential question deriving from sheer curiosity, but I have on occasion seen the suggestion that the Daiva Inscription is possibly a very oblique reference to the invasion of Greece. Now, that's basically unprovable, but for that same reason I'm curious what basis has been given for the events being c. 486. Is there certain contextual evidence within the inscription, corroborated against other known narrative or epigraphic sources, that suggests a date in the mid-480s?
 
+----- __155.2__ -----2022-03-01 10:57:56+08:00:
+
+Thank you! A lot of specific context I just hadn't been aware of.
+
 ### 156: [What are some examples of bad medicines used in medieval societies?](https://old.reddit.com/r/AskHistorians/comments/sz3w60/what_are_some_examples_of_bad_medicines_used_in/), submitted on 2022-02-23 09:04:42+08:00.
 
 ----- __156.1__ -----2022-02-23 11:37:21+08:00:

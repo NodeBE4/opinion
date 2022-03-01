@@ -49,3 +49,7 @@ It's supposed to run for 2 or 3 weeks still, I'd presume it's not being redacted
 
 As another HKniki, I do feel I need to give credit where it's due to our counterparts in Taiwan [who are doing 3 buses across 3 separate cities](https://twitter.com/fuwafuwa_35/status/1497530882923528192).
 
+----- __177.3__ -----2022-03-01 10:58:26+08:00:
+
+For what it's worth it was patched up within a couple of days.
+
