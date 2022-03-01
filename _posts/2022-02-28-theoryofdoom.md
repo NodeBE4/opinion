@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-02-28
+date: 2022-03-01
 from: https://old.reddit.com/r/geopolitics/comments/t38jvu/a_great_divide_unlike_humanity_has_ever_seen/
 layout: post
 tags:
@@ -29,4 +29,12 @@ Submission Statement: In this op-ed, Garry Kasparov examines the impact of Europ
 
 * Garry Kasparov is chairman of the Renew Democracy Initiative and the 1985 world chess champion.
 * No Paywall [Link Here](https://archive.fo/brGKx).
+
+### 140: [First day of no mask mandate in Illinois - reports and observations](https://old.reddit.com/r/CoronavirusIllinois/comments/t3ju4x/first_day_of_no_mask_mandate_in_illinois_reports/), submitted on 2022-03-01 00:44:30+08:00.
+
+----- __140.1__ -----2022-03-01 21:47:23+08:00:
+
+> Most people follow rules. 
+
+Most people follow [instructions from authority figures, too](https://en.wikipedia.org/wiki/Milgram_experiment).
 
