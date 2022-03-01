@@ -316,3 +316,11 @@ Apologies, but we have removed your question in its current form as it breaks ou
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
+### 174: [[Hobby Scuffles] Week of February 28, 2022](https://old.reddit.com/r/HobbyDrama/comments/t2q06a/hobby_scuffles_week_of_february_28_2022/), submitted on 2022-02-27 23:00:13+08:00.
+
+----- __174.1__ -----2022-03-01 21:36:23+08:00:
+
+Part of it is that Kiara is, as other commenters have noted, rather outspoken and rather blunt, and often a bit inarticulate as English isn't her first language – I honestly wouldn't be shocked if her Japanese was better! – and that's often led to things being taken badly out of context. And I think on some level there are those who don't like that outspokenness and bluntness in the first place. Some find her a bit grating on stream and I kind of get that as I've gone on and off her streams regularly, but that's a matter of tastes and not of quality.
+
+Although if it's involving the image board crowds, well there's some older baggage with Kiara relating to an earlier stint in the Japanese entertainment business where she was badly mistreated by colleagues and managers, which kind of spawned two parallel groups: one which, because they're image board users, insists that she must have been horrible and toxic because the guy (i.e. the manager) said so, and one which, rather surprisingly for image board users, was generally sympathetic. So there are some long-term Kiara hatewatchers mixed in there.
+
