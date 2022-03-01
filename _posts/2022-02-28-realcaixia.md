@@ -63,3 +63,7 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 
 乌克兰人是有血性的民族！旅居世界各国的乌克兰人自愿返国投入战斗保卫家园！<br>烏克蘭人民返國保衛家園！　自願熱血參戰：老鼠才逃跑 <a href="https://youtu.be/p3o0xZ6eunA" target="_blank" rel="noopener noreferrer">https://youtu.be/p3o0xZ6eunA</a>
 
+### 13: [2022-03-01 08:28:32+08:00 推文](https://twitter.com/realcaixia/status/1498455109935812610)
+
+德国人民深受纳粹统治之苦，深受纳粹屠杀犹太人和发动侵略战争带来的耻辱和苦难，二战后德国立法禁止纳粹党活动，禁止一切带有纳粹标记的事物，德国民众具有深切的反思意识，用各种方式记住这段苦难历史，纪念被纳粹杀害的人。德国民众坚决反对新法西斯发动侵乌战争，令人尊敬！<br><br>ZHANGDONG: 今天是玫瑰星期一，传统悠久的科隆狂欢节临时改成了反战集会，声援乌克兰。<br><br><video src="https://video.twimg.com/ext_tw_video/1498419272607051779/pu/vid/540x540/0eOKMPsBrdeDsueX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1498419272607051779/pu/img/pu0JC08dd4eThPO2.jpg"></video>
+
