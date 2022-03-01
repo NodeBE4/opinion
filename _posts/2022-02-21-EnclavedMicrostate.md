@@ -107,6 +107,32 @@ Sorry, I didn't intend to leave you entirely on read but I've built up a bit of 
 
 What I found problematic was not the use of the sources as definitive, but rather attempting to make these sources say what they don't. Invicta says we don't know where they were garrisoned, and you disagree based on Cyrus' inscription at Bisotun, but we simply do not know who the troops at the palace consisted of. Invicta says we don't know how the Immortals were recruited, and you disagree based on Herodotos, but what Herodotos says is *who* they were recruited *from* (1000 each of foot and horse from the Persian nobility, 10,000 each of foot and horse from non-noble Persians), but not *how* (volunteering? selection by lot? conscription?). Invicta says we don't know if and how they were trained, and you disagree based on Herodotos, but what Herodotos says is that Persian nobles, specifically, trained from youth in weapons and riding, but not if the Immortals trained as a unit, nor, critically, does he say anything about such training on the part of *non*-noble Persians. In the garrison case I would agree that you could *suggest* that the 22,000 Persian troops described by Herodotos were probably attached to the palace in some capacity, but that's not something we *know*. It's something we might surmise in attempting to reconcile our sources.
 
+----- __152.4__ -----2022-03-01 20:35:58+08:00:
+
+> The video was not being conservative at all. The assertion it makes are that such questions are unanswered.
+
+I would make a distinction here, in that the video asserts that the questions are *unanswerable*, i.e. there are a considerable number of overt gaps in our knowledge that no amount of speculative insertion will compensate for. There are a lot of answers out there, but none are definitive because there is too little evidence to firmly discuss. And if we're talking about secondary literature, Sean Manning states in his [freely available PhD thesis on the Persian army](https://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-30064) (the basis for his recent book) that
+
+> I have not discussed the "ten thousand immortals," the kardakes, or the elephants at Gaugamela because it is so hard to connect the classical sources which mention them to other evidence. A great deal of research is devoted to these topics, and it is intriguing to speculate about the Old Persian word for "companion" and Indo-European warbands of young men, but these speculations rest upon a tiny base of evidence. On the other hand, linking Herodotus' procession with reversed spears to Neo-Assyrian reliefs and a Hittite rule, his story about the flying snakes of Ethiopia to Assyrian annals and a passage in Josephus, or his story about Oibares and the mare to an omen list, has been more productive.
+
+There are a lot of footnotes here I've cut, but so much ink has been spilled precisely because so little has been conclusive.
+
+> Alternatively, the assertions were exceptionally broad. If the video had said "there is no evidence in the sources describing how the Immortals were trained to operate as a unit", that would be correct. But the claim 'we do not know how they were trained' is pretty all encompassing, and is found not be to be the case with a deeper reading of Herodotus. In doing so, we can find evidence of individual training for members of the Immortals. Is it training to operate in a unit? No, but it is still a response to the point the video raises.
+
+I would argue that it is perfectly cromulent to say we do not know how the Immortals were trained, if the only information we were going on was Herodotos' claim that all Persian boys were trained in riding and archery, because:
+
+1. We have to evaluate whether Herodotos is making an accurate claim at all, as well as whether this was purely an ideal or also done in practice;
+
+2. The Immortals included infantry spearmen, so did they have spear training?
+
+3. As Herodotos himself states, this education lasted from the ages of five to twenty; assuming this was true, was there formal training or not after that age?
+
+4. Was this package of education something that mainly applied to the nobility rather than the broader population? And if so then given that the most likely candidate for the Immortals is the 10,000 infantry whom Herodotos describes as being drawn from the *rest* of the Persians, then how far can we even be sure that they had undergone it?
+
+5. And finally, was there training as a unit?
+
+It isn't that there are no reasonable answers to these questions, but rather that there are virtually no provable ones because the information largely is not there, at least when it comes to the specific matter of the 10,000 troops termed 'immortals' by Herodotos.
+
 ### 153: [What Are Some Buildings With History/Purposes Like the Sainte-Chappelle?](https://old.reddit.com/r/AskHistorians/comments/sxuqsv/what_are_some_buildings_with_historypurposes_like/), submitted on 2022-02-21 22:25:11+08:00.
 
 ----- __153.1__ -----2022-02-21 23:46:42+08:00:
