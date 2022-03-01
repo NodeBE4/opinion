@@ -35,33 +35,43 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 178: [In the Ridley Scott film Kingdom of Heaven, Baldwin IV of Jerusalem is depicted wearing an ornate mask to hide his leprosy. Did the actual King Baldwin feel the need to conceal his condition in this way? How would contemporaries have perceived leprosy, and was this a cause of stigma against him?](https://old.reddit.com/r/AskHistorians/comments/t3g7st/in_the_ridley_scott_film_kingdom_of_heaven/), submitted on 2022-02-28 21:58:11+08:00.
+### 178: [Grieving Gone Gigantic - Weekly Discussion Thread, Feb 28th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/t3g54v/grieving_gone_gigantic_weekly_discussion_thread/), submitted on 2022-02-28 21:54:41+08:00.
 
------ __178.1__ -----2022-03-01 02:35:19+08:00:
+----- __178.1__ -----2022-03-01 23:34:00+08:00:
+
+I won't lie, I wasn't planning on being cited as an intellectual influence, but the way you put it made a lot of sense!
+
+### 179: [In the Ridley Scott film Kingdom of Heaven, Baldwin IV of Jerusalem is depicted wearing an ornate mask to hide his leprosy. Did the actual King Baldwin feel the need to conceal his condition in this way? How would contemporaries have perceived leprosy, and was this a cause of stigma against him?](https://old.reddit.com/r/AskHistorians/comments/t3g7st/in_the_ridley_scott_film_kingdom_of_heaven/), submitted on 2022-02-28 21:58:11+08:00.
+
+----- __179.1__ -----2022-03-01 02:35:19+08:00:
 
 Thanks! One thing I wanted to ask is about the two Islamic sources you quote from: both seem particularly hostile to Baldwin and cite his illness as part of it, and I was curious whether his leprosy was a cause of contempt in itself to these writers, or if they had a more general antipathy to Crusader rulers and Baldwin's leprosy happened to be one aspect they could seize on?
 
------ __178.2__ -----2022-03-01 03:35:52+08:00:
+----- __179.2__ -----2022-03-01 03:35:52+08:00:
 
 Thanks!
 
-### 179: [To celebrate Miko's birthday on March 5, a double-decker bus in Hong Kong is sporting a special Miko livery! More info in comments.](https://old.reddit.com/r/Hololive/comments/t3j200/to_celebrate_mikos_birthday_on_march_5_a/), submitted on 2022-03-01 00:09:00+08:00.
+### 180: [To celebrate Miko's birthday on March 5, a double-decker bus in Hong Kong is sporting a special Miko livery! More info in comments.](https://old.reddit.com/r/Hololive/comments/t3j200/to_celebrate_mikos_birthday_on_march_5_a/), submitted on 2022-03-01 00:09:00+08:00.
 
------ __179.1__ -----2022-03-01 03:17:47+08:00:
+----- __180.1__ -----2022-03-01 03:17:47+08:00:
 
 It's supposed to run for 2 or 3 weeks still, I'd presume it's not being redacted.
 
------ __179.2__ -----2022-03-01 03:19:00+08:00:
+----- __180.2__ -----2022-03-01 03:19:00+08:00:
 
 As another HKniki, I do feel I need to give credit where it's due to our counterparts in Taiwan [who are doing 3 buses across 3 separate cities](https://twitter.com/fuwafuwa_35/status/1497530882923528192).
 
------ __179.3__ -----2022-03-01 10:58:26+08:00:
+----- __180.3__ -----2022-03-01 10:58:26+08:00:
 
 For what it's worth it was patched up within a couple of days.
 
-### 180: [Why did Britain not have a revolution like France?](https://old.reddit.com/r/AskHistorians/comments/t3vl5u/why_did_britain_not_have_a_revolution_like_france/), submitted on 2022-03-01 09:24:21+08:00.
+----- __180.4__ -----2022-03-01 22:51:19+08:00:
 
------ __180.1__ -----2022-03-01 11:02:59+08:00:
+That said, HoloCN streamed in Mandarin, which isn't the primary language in HK.
+
+### 181: [Why did Britain not have a revolution like France?](https://old.reddit.com/r/AskHistorians/comments/t3vl5u/why_did_britain_not_have_a_revolution_like_france/), submitted on 2022-03-01 09:24:21+08:00.
+
+----- __181.1__ -----2022-03-01 11:02:59+08:00:
 
 Hey there,
 
@@ -69,9 +79,9 @@ Just to let you know, your question is fine, and we're letting it stand. However
 
 If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
 
-### 181: [Random Chinese folk claims that Battle of Cannae was fake.](https://old.reddit.com/r/badhistory/comments/t3xz6n/random_chinese_folk_claims_that_battle_of_cannae/), submitted on 2022-03-01 11:22:01+08:00.
+### 182: [Random Chinese folk claims that Battle of Cannae was fake.](https://old.reddit.com/r/badhistory/comments/t3xz6n/random_chinese_folk_claims_that_battle_of_cannae/), submitted on 2022-03-01 11:22:01+08:00.
 
------ __181.1__ -----2022-03-01 11:40:33+08:00:
+----- __182.1__ -----2022-03-01 11:40:33+08:00:
 
 Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
 
