@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-01
+date: 2022-03-02
 from: https://twitter.com/realcaixia/status/1498069293073850370
 layout: post
 tags:
@@ -66,4 +66,16 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 ### 13: [2022-03-01 08:28:32+08:00 推文](https://twitter.com/realcaixia/status/1498455109935812610)
 
 德国人民深受纳粹统治之苦，深受纳粹屠杀犹太人和发动侵略战争带来的耻辱和苦难，二战后德国立法禁止纳粹党活动，禁止一切带有纳粹标记的事物，德国民众具有深切的反思意识，用各种方式记住这段苦难历史，纪念被纳粹杀害的人。德国民众坚决反对新法西斯发动侵乌战争，令人尊敬！<br><br>ZHANGDONG: 今天是玫瑰星期一，传统悠久的科隆狂欢节临时改成了反战集会，声援乌克兰。<br><br><video src="https://video.twimg.com/ext_tw_video/1498419272607051779/pu/vid/540x540/0eOKMPsBrdeDsueX.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1498419272607051779/pu/img/pu0JC08dd4eThPO2.jpg"></video>
+
+### 14: [2022-03-02 02:49:17+08:00 推文](https://twitter.com/realcaixia/status/1498732122269491201)
+
+特别推荐《议报》发布的这篇文章：<br>在普金入侵乌克兰战争中，习是共犯和帮凶。<br>杨建利、言羽：民主世界不能坐视习近平助普京为虐、觊觎台湾 - 议报 <a href="https://yibaochina.com/?p=245164" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245164</a>
+
+### 15: [2022-03-02 04:23:05+08:00 推文](https://twitter.com/realcaixia/status/1498755728332447751)
+
+强烈推荐《议报》重磅长文“公正评价习近平”。<br><br>相对而言，该文比《客观评价习近平》更具深度。该文指出习使中国政治倒退和全面流氓化；习外交使中国走向国际孤立和冲突；习的极权人格与误判。该文最后进一层提出习结局与中共结局的问题，指出结束极权暴政，需要信念勇气和智慧 <a href="https://yibaochina.com/?p=245173" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245173</a>
+
+### 16: [2022-03-02 05:13:06+08:00 推文](https://twitter.com/realcaixia/status/1498768313429729290)
+
+听着这位乌克兰年轻人对中国人倾述心里话，真的令人心碎，令人感动，也令我很难过。<br>乌克兰年轻人“吉利”，他对中国充满友好的真挚情感，然而当他的家园被侵略时，中共官方媒体一面倒的站在俄罗斯一边，毫无良知地指责和污黑乌克兰，令他对中国很失望。他也知道中共打压中国民间支持乌克兰的声音。<br><br>DW 中文- 德国之声: 俄乌战争硝烟弥漫。一个中文名叫“吉利”的乌克兰年轻人，一遍又一遍的用流利的中文，向中国方面不断发出求救的信号。<br><br><video src="https://video.twimg.com/amplify_video/1498595368870809600/vid/1280x720/FGnYptDduKojZlY6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FMwYfqPXoAE5ufe?format=jpg&amp;name=orig"></video>
 
