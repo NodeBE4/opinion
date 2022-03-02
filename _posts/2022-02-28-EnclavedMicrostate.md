@@ -103,15 +103,94 @@ They're at Mong Kok and Yau Ma Tei.
 
 11 with Sana.
 
-### 185: [Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?](https://old.reddit.com/r/AskHistorians/comments/t55h3y/beside_the_postsoviet_transformation_like_many/), submitted on 2022-03-03 01:36:12+08:00.
+### 185: [PRC Ministry of Foreign Affairs' statement: The American Genocide of the Indians--How much of it is true?](https://old.reddit.com/r/AskHistorians/comments/t53gyk/prc_ministry_of_foreign_affairs_statement_the/), submitted on 2022-03-03 00:09:20+08:00.
 
------ __185.1__ -----2022-03-03 02:40:12+08:00:
+----- __185.1__ -----2022-03-03 02:59:34+08:00:
+
+Hello. It appears that your post has a mistaken assumption relating to the American Indian Genocide(s) that occurred in the Americas. This topic is often controversial and can lead to inaccurate information. This message is not intended to provide you with all of the answers, but simply to address some of the basic facts, as well as genocide denialism in this regard, and provide a short list of introductory reading. Because this topic covers a large area of study, the actions of the United States will be highlighted. There is always more that can be said, but we hope this is a good starting point for you. 
+
+##What is Genocide?
+
+Since the conceptualization of the act of genocide, scholars have developed a variety of frameworks to evaluate instances that may be considered genocide. One of the more common frameworks is the definition and criteria implemented by the United Nations. The term "genocide," as coined by Raphael Lemkin in 1943, [was defined by the U.N. in 1948](https://redd.it/6mg3j3). The use of this term was further elaborated by [the genocide convention.](https://treaties.un.org/doc/Publication/UNTS/Volume%2078/volume-78-I-1021-English.pdf)
+
+Article II describes two elements of the crime of genocide:
+
+1. The mental element, meaning the "intent to destroy, in whole or in part, a national, ethnical, racial or religious group, as such", and
+2. The physical element which includes five acts described in sections a, b, c, d and e. A crime must include both elements to be called "genocide."
+
+Article II: In the present convention, genocide means any of the following acts committed with intent to destroy, in whole or in part, a national, ethnical, racial, or religious group, as such:
+
+* (a) Killing members of the group;
+* (b) Causing serious bodily or mental harm to members of the group;
+* (c) Deliberately inflicting on the group conditions of life calculated to bring about its physical destruction in whole or in part;
+* (d) Imposing measures intended to prevent births within the group;
+* (e) Forcibly transferring children of the group to another group.
+
+##American Indian Genocides – Did they happen?
+
+Since the arrival of Europeans to the Americas, typically signaled with the appearance of Columbus in 1492, Indigenous Peoples have experienced systematic oppression and extermination at the hands of colonial powers. These colonizing governments either organized or sponsored acts of genocide perpetrated by settlers, targeting Indigenous settlements for complete destruction; eliminating sources of food and access to life-sustaining resources; instituting child separation policies; and forcefully relocating Indigenous populations to often times inhospitable tracts of land, now known as “reservations.” All of these acts constitute what scholars now recognize as genocide. The horrendous acts that occurred in the Americas were even an example proposed by Lemkin himself, where it is noted from his writings:
+
+>[Lemkin applied the term to a wide range of cases including many involving European colonial projects in Africa, New Zealand, Australia, and the Americas. A recent investigation of an unfinished manuscript for a global history of genocide Lemkin was writing in the late 1940s and early 1950s reveals an expansive view of what Lemkin termed a “Spanish colonial genocide.” He never began work on a projected chapter on “The Indians of North America,” though his notes indicate that he was researching Indian removal, treaties, the California gold rush, and the Plains wars.](https://oxfordre.com/americanhistory/view/10.1093/acrefore/9780199329175.001.0001/acrefore-9780199329175-e-3)
+
+These actions took place over the entirety of the Americas, exacerbating the rapid depopulation of Indigenous Nations and communities. Exact figures of the population decline are inconclusive, giving us only estimates at best, with Pre-Columbian population numbers ranging anywhere from as low as 8 million to as high as ~100 million inhabitants across North, Central, and South America. What we do know is that in the United States, records indicate the American Indian population had dropped to approximately 250,000 by 1900. Despite any debate about population statistics, the historical records and narratives conclude that, at least according to the U.N. definition, genocide was committed.
+
+##Mental Element: Establishing Intent
+
+In order for genocide to be committed, there must be reasonable evidence to establish an intent to commit what constitutes genocide. Through both word and action, we can see that colonial powers, such as the United States, did intend at times to exterminate American Indian populations, often with public support. Government officials, journalists, scholars, and public figures echoed societal sentiments regarding their desire to destroy Indians, either in reference to specific groups or the whole race.
+
+>”This unfortunate race, whom we had been taking so much pains to save and to civilize, have by their unexpected desertion and ferocious barbarities justified extermination and now await our decision on their fate.”
+
+[--Thomas Jefferson, 1813]( https://www.loc.gov/resource/mtj1.047_0147_0150/?sp=3)
+
+>"That a war of extermination will continue to be waged between the races until the Indian race becomes extinct must be expected."
+
+[--California Governor Peter Burnett, 1851](http://governors.library.ca.gov/addresses/s_01-Burnett2.html)
+
+>". . .these Indians will in the end be exterminated. They must soon be crushed - they will be exterminated before the onward march of the white man."
+
+[--U.S. Senator John Weller, 1852, page 17, citation 92](http://digitalcommons.law.utulsa.edu/cgi/viewcontent.cgi?article=2654&context=tlr)
+
+##Physical Element: Acting with Purpose
+
+**U.S. Army Policy of Killing Buffalo (Criterion C)**
+
+[In this post,](https://redd.it/4j42ag) it is explained how it was the intention and policy of the U.S. Army to kill the buffalo of America off in an attempt to subdue, and even exterminate, the Plains Indians.
+
+**Sterilization (Criterion D)**
+
+The Indian Health Service (IHS) is a federally run service for American Indians and Alaska Natives. It is responsible for providing proper health care for American Indians as established via the treaties and trust relationship between tribes and the U.S. Government. However, on November 6, 1976, the Government Accountability Office (GAO) released the results of an investigation that concluded that [between 1973 and 1976, IHS performed 3,406 sterilizations on Native American women.](https://cbhd.org/content/forced-sterilization-native-americans-late-twentieth-century-physician-cooperation-national-) Per capita, this figure would be equivalent to sterilizing 452,000 non-Native American women. Many of these sterilizations were conducted without the consent of the women being sterilized or under coercion.
+
+**Boarding Schools (Criterion E)**
+
+The systematic removal of Indian children from their parents and placement into boarding schools was a policy implemented by the United States meant to [force American Indian children to assimilate into American culture,]( https://redd.it/8zgozt) thus “[killing] the Indian, [and saving] the man.” These schools were operated by various entities, including the federal government and church/missionary organizations. While constituting cultural genocide as well, American Indian children were beaten, neglected, and barred from practicing their cultures. Some children even died at these schools.
+
+##But What About the Diseases?
+
+In the United States, a subtle state of denial exists regarding portions of this country's history. One of the biggest issues concerning the colonization of the Americas is whether or not this genocide was committed by the incoming colonists. And while the finer points of this subject are still being discussed, few academics would deny that acts of genocide were committed. However, there are those who vehemently attempt to refute conclusions made by experts and assert that no genocide occurred. These [“methods of denialism”](https://redd.it/6kywre) are important to recognize to avoid being manipulated by those who would see the historical narratives change for the worse.
+
+One of the primary methods of denial is the over severity of diseases introduced into the Americas after the arrival of the colonizers, effectively turning these diseases into ethopoeic scapegoats responsible for the deaths of Indigenous Peoples. While it is true that disease was a huge component of the depopulation of the Americas, often resulting in up to a 95% mortality rate for many communities and meaning *some* communities endured more deaths from disease, these effects were greatly exacerbated by actions of colonization.
+
+##Further Reading
+
+Though there is much information about this topic, this introductory list of books and resources provide ample evidence to attest the information presented here:
+
+* [*Beyond Germs: Native Depopulation in North America* edited by Catherine Cameron, Paul Kelton, and Alan Swedlund](https://books.google.com/books/about/Beyond_Germs.html?id=yUw-rgEACAAJ)
+* [*American Indian Holocaust and Survival: A Population History Since 1492* by Russell Thornton](https://books.google.com/books/about/American_Indian_Holocaust_and_Survival.html?id=9iQYSQ9y60MC)
+* [*Murder State: California's Native American Genocide, 1846-1873* by Brendan Lindsay](https://books.google.com/books/about/Murder_State.html?id=TfiD-E7VBKYC)
+* [*Blood and Soil: A World History of Genocide and Extermination from Sparta to Darfur* by Ben Kiernan](https://books.google.com/books/about/Blood_and_Soil.html?id=XR91bs70jukC)
+* [*American Holocaust: The Conquest of the New World* by David Stannard](https://books.google.com/books/about/American_Holocaust.html?id=RzFsODcGjfcC)
+* [*Myths of Conquest*](https://redd.it/2vf565) by /u/anthropology_nerd
+* [AskHistorians FAQ](https://www.reddit.com/r/AskHistorians/wiki/nativeamerican#wiki_european_contact_and_conquest)
+
+### 186: [Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?](https://old.reddit.com/r/AskHistorians/comments/t55h3y/beside_the_postsoviet_transformation_like_many/), submitted on 2022-03-03 01:36:12+08:00.
+
+----- __186.1__ -----2022-03-03 02:40:12+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 186: [What wars in the history of mankind were fought over women?](https://old.reddit.com/r/AskHistorians/comments/t56m3d/what_wars_in_the_history_of_mankind_were_fought/), submitted on 2022-03-03 02:25:35+08:00.
+### 187: [What wars in the history of mankind were fought over women?](https://old.reddit.com/r/AskHistorians/comments/t56m3d/what_wars_in_the_history_of_mankind_were_fought/), submitted on 2022-03-03 02:25:35+08:00.
 
------ __186.1__ -----2022-03-03 02:40:53+08:00:
+----- __187.1__ -----2022-03-03 02:40:53+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -119,9 +198,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 187: [What was the most successful invasion? (Biggest is not the same thing.)](https://old.reddit.com/r/AskHistorians/comments/t56pkz/what_was_the_most_successful_invasion_biggest_is/), submitted on 2022-03-03 02:30:01+08:00.
+### 188: [What was the most successful invasion? (Biggest is not the same thing.)](https://old.reddit.com/r/AskHistorians/comments/t56pkz/what_was_the_most_successful_invasion_biggest_is/), submitted on 2022-03-03 02:30:01+08:00.
 
------ __187.1__ -----2022-03-03 02:40:58+08:00:
+----- __188.1__ -----2022-03-03 02:40:58+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
