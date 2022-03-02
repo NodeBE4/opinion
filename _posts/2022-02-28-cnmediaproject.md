@@ -39,3 +39,7 @@ RT Ananth Krishnan<br>Coincidence or something more? The choice of colour by a
 
 Warriors on the Red Road: A look at the latest international co-production by China used to conduct "external propaganda" and make the CCP lovable. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FMzCmXcacAIWaTq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-03-02 10:47:47+08:00 推文](https://twitter.com/cnmediaproject/status/1498852540485894146)
+
+When int'l co-productions distributed through global channels involve the CCP's Central Propaganda Department, wouldn't it seem proper to make this clear to viewers? Our look at Discovery's Journey of Warriors. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FMz-YQFaQAQE3sL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
