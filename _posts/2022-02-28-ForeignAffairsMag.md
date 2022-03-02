@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-01
+date: 2022-03-02
 from: https://old.reddit.com/r/TrueReddit/comments/t3qfff/when_antibiotics_stop_working_the_next_pandemic/
 layout: post
 tags:
@@ -29,4 +29,12 @@ These new estimates have brought the problem of antibiotic resistance out of the
 \[SS from the article by  Ivo H. Daalder, President of the Chicago Council on Global Affairs and former U.S. Ambassador to NATO.\]
 
 "A return to a robust policy of containment is now the West’s best option. The fundamental goal will remain the same as the old policy: to counter Russian expansionism, inflict real costs on the Russian regime, and encourage internal change that leads to the ultimate collapse of Putin and Putinism. Of course, it needs to be adapted to the realities as they exist today rather than those that prevailed at the end of World War II. In particular, Russia’s close ties to a strong and newly assertive China will have to be addressed proactively.Still, Russia isn’t the Soviet Union, a military and ideological colossus nearly equal to the United States. Although it remains a nuclear power, its military is a shadow of its former Soviet self, and its economy is smaller than Canada’s, which has a quarter of Russia’s population. Meanwhile, the West has grown stronger. The United States retains unrivaled military power and has an economy 13 times larger than that of Russia. Europe, a defeated continent scarred by war and poverty after World War II, has emerged as a cohesive economic giant with a military that, although underfunded, enjoys significant modern capabilities to defend against a stretched Russian military. As a result, although a policy of containment will not deliver swift success or victory, its steady application in the months and years ahead should drive the necessary change in Russia within the next five to ten years."
+
+### 142: [The Beginning of the End for Putin?: Dictatorships Look Stable—Until They Aren’t](https://old.reddit.com/r/geopolitics/comments/t52jfy/the_beginning_of_the_end_for_putin_dictatorships/), submitted on 2022-03-02 23:26:32+08:00.
+
+----- __142.1__ -----2022-03-02 23:27:37+08:00:
+
+\[SS from the article by Andrea Kendall-Taylor, Senior Fellow and Director of the Transatlantic Security Program at the Center for a New American Security, and Erica Frantz, Associate Professor of Political Science at Michigan State University.\]
+
+"Whether or not Putin’s war of choice becomes the mistake that unseats him from power is an open question. But Russia is experiencing rising dissatisfaction from the public, fissures among its elite, and broad-based international punishment. Putin’s downfall may not come tomorrow or the day after, but his grip on power is certainly more tenuous than it was before he invaded Ukraine."
 

@@ -79,3 +79,7 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 
 听着这位乌克兰年轻人对中国人倾述心里话，真的令人心碎，令人感动，也令我很难过。<br>乌克兰年轻人“吉利”，他对中国充满友好的真挚情感，然而当他的家园被侵略时，中共官方媒体一面倒的站在俄罗斯一边，毫无良知地指责和污黑乌克兰，令他对中国很失望。他也知道中共打压中国民间支持乌克兰的声音。<br><br>DW 中文- 德国之声: 俄乌战争硝烟弥漫。一个中文名叫“吉利”的乌克兰年轻人，一遍又一遍的用流利的中文，向中国方面不断发出求救的信号。<br><br><video src="https://video.twimg.com/amplify_video/1498595368870809600/vid/1280x720/FGnYptDduKojZlY6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FMwYfqPXoAE5ufe?format=jpg&amp;name=orig"></video>
 
+### 17: [2022-03-02 21:48:29+08:00 推文](https://twitter.com/realcaixia/status/1499018812460617730)
+
+这就是中共“以法治国”的常态。<br><br>荣剑: 令人发指的罪行，我转发这一条，希望吾国公安部门能将这两个罪犯缉拿归案，依法严惩！<br> <a href="https://twitter.com/xinwendiaocha/status/1498538701009215490" target="_blank" rel="noopener noreferrer">https://twitter.com/xinwendiaocha/status/1498538701009215490</a>
+
