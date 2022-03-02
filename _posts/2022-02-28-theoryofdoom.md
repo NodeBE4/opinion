@@ -90,6 +90,44 @@ Third, even if people can get past the existential incongruity between where Dug
 
 Bottom Line: If you want to understand Putin's Russia, you have to understand Dugin.  Realize that I am not endorsing, nor would I endorse, Dugin's worldview.  But, what folks in this hemisphere don't really seem to understand is that it's irrational to dismiss his ideas based on what you heard someone else say about him, your subjective disagreement with them or your assumptions about them based on your subjective disagreement.  Some combination of those tends to characterize the majority of how "foreign policy" types here talk about him.
 
+----- __141.3__ -----2022-03-02 20:44:32+08:00:
+
+> Second-hand reader of FoG here too.
+
+Not saying this is your situation, but no shortage of [fools](https://providencemag.com/2019/07/west-overestimates-aleksandr-dugins-influence-russia/) have weighed in on Dugin without demonstrating the slightest understanding of what he has actually said, why it matters or even proposing an articulable method to evaluate his influence (much less assessing his influence in any kind of systemic or reliable way).  You should read what Dugin actually wrote and listen to his lectures, or translations of them (to the extent you can find them in English).  
+
+For example, for some inexplicable reason folks have cited to the above-linked article by George Barros as "credibly" reflecting how "the West [o]verestimates . . . Dugin's [i]nfluence in Russia."  I guess because Barros knows how to make sure his op-eds in irrelevant online publications appear in Google's search results?  That's not a good method of assessing reliability, but I digress.  The point is that the article is vapid, its analysis is shallow and citation to it is a a self-evident reflection of ignorance with respect to the matters covered therein.  
+
+First, Barros' article is adjective-heavy (and ad-hom heavy), but analysis-light.  He describes Dugin as a "shaggy, bearded philosopher with a [mere] penchant for geopolitics."  Dugin is a professor of sociology at Moscow State University.  That would be like me calling Noam Chomsky a "shaggy, bearded political commentator with a penchant for linguistics."  Barros' pedestrian, sophomoric insult doesn't even rise to the level of idiocy; and this theme continues throughout the rest of the article.  But the point is clear.
+
+Second, Barros' article embodies the [deficits in comprehension](https://www.reddit.com/r/geopolitics/comments/t488qo/is_alexander_dugin_truly_a_big_influence_on_putin/hz1b21b/) endemic to Western commentators on Russian geopolitical strategy I identified in another post.  For example, most people who talk about Dugin have not actually read Foundations of Geopolitics or listened to a single one of his lectures.  
+
+Here, Barros argues "most people who talk about Dugin have not actually read Foundations of Geopolitics or listened to a single one of his lectures."  Then he cites to [this now-removed article in the Nation](https://archive.fo/jZNR3), which embodies the same deficits.  Both failed to appreciate the extent to which anyone who thinks like Dugin could have any influence or role in the affairs of a modern state, because extent of incongruity between Dugin's worldview and theirs --- as reflected in the analogies to "the likes of Richard Spencer" and "Glenn Beck."  The shallowness of Barros' analysis is almost comically absurd.  For example, he argues that: 
+
+> A more than surface-deep look into the Russian zeitgeist reveals that Aleksander Dugin, as controversial and reprehensible as he is, is not the mastermind many in the West frequently and mistakenly make him out to be.
+
+It turns out that analogy to stateside far-right types has no relationship to whether someone is or is not influential inside the government of a foreign country. 
+
+Third, Barros' argument essentially comes down to "Dugin is a stupid, backwards hack therefore he can't possibly matter, so why are we talking about him?"  For example, according to Barros: 
+
+> Many casual Russia observers and armchair Kremlinologists ascribe grand power to the controversial philosopher using speculative evidence based in hearsay. While Dugin does enjoy some publicity in Russia, his personal eccentrics and appearance of influence, coupled with Putin’s aggressive foreign policy, facilitated the plausible narrative in a Western media echo chamber that Dugin is Putin’s strategist.
+>
+> . . . 
+>
+> [J]ust because Dugin prescribes certain strategies that are present in Russian policy does not mean that Dugin was the policy’s inspiration or catalyst. 
+
+Then Barros lays his cards on the table:
+
+> Exercising my own judgement, I can say that from my own discussions with Russian scholars, academic discussions on this field within Russia do not fixate on Dugin, but instead focus on mainstream names in international relations theory: Hans Morgenthau, John Mearsheimer, Samuel Huntington, Francis Fukuyama, Joseph Nye, etc.— Dugin is not really included amongst their ranks.
+
+Conspicuously, Barros' article doesn't even *identify* factors through which Dugin's influence should be assessed or measured, much less any attempt to actually assess or measure it.  Irony aside --- e.g., Barros writes with the magisterial tone of a first-year IR student and himself is little more than an armchair Kremlinologist whose insight is self-evidently based only on Western media echo chamber-type pontification --- the argument is unavailing.  By his own admission Barros bases his opinion on what he's heard from unidentified others who he claims are "Russian scholars" and "interactions with Russia and intelligence experts."  
+
+This vapid, ad hoc speculation is unavailing.
+
+----- __141.4__ -----2022-03-02 20:50:02+08:00:
+
+Folks are reminded to keep their comments up to par.  The amount of ad hoc speculation in this thread is unacceptably high.
+
 ### 142: [30 Years in a Weekend: The Geopolitical Implications of Putin’s War](https://old.reddit.com/r/geopolitics/comments/t495kh/30_years_in_a_weekend_the_geopolitical/), submitted on 2022-03-01 22:29:10+08:00.
 
 ----- __142.1__ -----2022-03-02 11:53:51+08:00:
@@ -100,5 +138,15 @@ There is no conceivable world where that kind of anti-Semitic bigotry is allowed
 
 > sorry, not a geopolitics person, but have there been instances of sanctions actually forcing an aggressor state to give up territory gains?
 
-Not with sanctions alone, no.
+Generally, not with sanctions alone, never; even when backed up with the threat of greater retaliation (e.g., military intervention) not with a great power/power comparable to Russia.  As to Russia, in particular, no combination of sanctions or other means of economic-based statecraft has yet yielded the kind of outcomes Washington has sought from Moscow.  
+
+There's a fair bit of literature assessing the efficacy of getting actors to change policy courses, but measurement is difficult and lends itself to debatable methods where multiple approaches arguably contributed to an outcome.  In any case, that debate is academic, for the most part, because you can't just measure the efficacy of "sanctions" in any vague or general sense.  Different actors have different interests and vulnerabilities, different packages of sanctions have different impacts on those vulnerabilities and how they're resisted (or not) depends on a lot of external factors.  
+
+Each approach Washington has taken so far with respect to Russia and Putin has backfired, and mostly wound up to reinforcing Putin's domestic political talking points and served as a tool to consolidate his political power.   There are basically two categories of sanctions to impose, varying according to the scope of their anticipated effect: (a) Broad, sweeping sanctions which entail population-wide harm; and (b) something less than that, which entail a narrow or narrower scope of effect, at the level of less than population wide harm (sometimes even targeting specific individuals).  
+
+* For example, when Washington and others imposed broad sanctions on Iran to bring Tehran in connection with Iran's nuclear program, the consequential harm those sanctions imposed proximately contributed to bringing getting Iran to the negotiating table.  In contrast to Iran, when the United States imposed sanctions with a similar scope of effect (i.e., there would be serious, population-wide economic harm) on Russia following Putin's invading Ukraine in 2014, Putin blamed the United States and NATO for meddling in Russia's internal politics.  
+
+* As a further example, when Washington implemented narrower, Magnitsky-style sanctions on Russia in response to certain but heinous human rights violations (intended to cover up egregious corruption inside Russia), nothing changed.  It was a serious, symbolic punishment for what Putin's regime did to Sergei Magnitsky and a watershed moment in context of economic-based statecraft.  But again, nothing inside Russia actually changed.  However beautiful the gesture may have been, the outcome was less than hoped for.  
+
+With respect to the current conflict in which Russia invaded Ukraine without provocation, the idea that sanctions of any kind alone or in combination with anything else, could have deterred Putin from invading Ukraine is absurd.  One of two things happened.  In the first possible world, decision-makers in Washington incorrectly calculated the value Putin places on Ukraine and the circumstances under which Russia believes its utility is maximized.  In the second possible world, decision-makers in Washington correctly calculated the value Putin places on Ukraine and how Russia believes its utility is maximized --- and this strategy is no more than a minimally adequate show of resistance.  It's not clear which world we're in, at this point, though I lean towards the first.
 
