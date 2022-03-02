@@ -65,9 +65,40 @@ Third, even if people can get past the existential incongruity between where Dug
 
 Bottom Line: If you want to understand Putin's Russia, you have to understand Dugin.  Realize that I am not endorsing, nor would I endorse, Dugin's worldview.  But, what folks in this hemisphere don't really seem to understand is that it's irrational to dismiss his ideas based on what you heard someone else say about him, your subjective disagreement with them or your assumptions about them based on your subjective disagreement.  Some combination of those tends to characterize the majority of how "foreign policy" types here talk about him.
 
+----- __141.2__ -----2022-03-02 19:10:22+08:00:
+
+Dugin is a big influence on Putin.  
+
+If Russia is a mystery, wrapped in an enigma inside a riddle, Alexander Dugin is the mystery --- at least to Western audiences.  Dugin is a key, highly influential advisor in Putin's regime and that is reflected in every foreign policy (and many domestic policy) decisions Putin has made in Russian since shortly after the time George Bush invaded Iraq.  At least in my experience, there are several layers to this problem:
+
+First, at the outermost layer, most people who talk about Dugin have not actually read Foundations of Geopolitics or listened to a single one of his lectures.  So, the reason Dugin occupies this "mystery" role, as I said above, has nothing to do with whether his ideas are accessible.  They are widely accessible.  For example, Foundations of Geopolitics, his book, is widely available (in English) and Dugin's [lectures](https://www.youtube.com/watch?v=F02LpsEuAuk), whether from Moscow State University or otherwise are also pretty widely available (albeit not in English).  Instead, they've read second- or third-hand hearsay, and encountering all of its obvious associated problems. 
+
+Second, even if people have read Dugin's writing or encountered his lectures in some context first-hand, the extent of incongruity between his worldview and theirs prevents them from understanding what he is saying.  This isn't just a surface-level problem, either.  It spans from the foundation of ontology to the particularities of the society and culture in which we live now.  For example:
+
+* while the West is for Liberalism, Dugin is for its rejection; while the West is for Modernity, Dugin is for its rejection; 
+* while the West is for technology, Dugin is essentially an anti-tech luddite; 
+* while the West is for a rules-based international order, based on institutions and international law, Dugin regards that order's formation as an embodiment of modernity's ossification, at the hand of globalist-type interests that are irreconcilable with Russia's or those of greater Eurasia; 
+* while the West is for progress, Dugin regards progress as predestined towards post-modernity and nihilism, and argues for its rejection in favor of something more recognizable to Heidegger; 
+* while the West is preoccupied with either individualism or identity politics, dichotomies of power and their impact on the disenfranchised, Dugin is for traditional culture, norms, values and institutions outside the state (e.g., the Russian Orthodox Church) and argues for their importance for societal cohesion and stability; and
+* while the West (or at least the United States) seems to favor unipolar hegemonic rule, wherein the United States is the sole hegemon; Dugin wants a return to the multipolar status quo ante, for the jungle to grow back and for us to return, essentially, to Macro Polo's world.  
+
+Further, Western academics (and journalists) in particular tend to be so fundamentally separated from Russian and Eurasian history and tradition that they can't connect what he is about to what they think they understand about the world.  Dugin himself has commented on this.  For some strange reason, people seem to think Putin was joking when he said the fall of the Soviet Union was the greatest geopolitical catastrophe in history and/or they dismiss the idea that Putin is trying to "rebuild" any sort of similar empire, reflexively.  
+
+Eurasia, to Dugin (and Putin) is the former Russian Empire.  Eurasia, to Dugin (and Putin) is what "the West" is to many in the United States and Europe.  It's not just about supranational trade alliances, although those are important.  It's about uniting the former Russian empire under a unified political heading, rejection of Enlightenment ideals/notions of "universal rights" and "human dignity" and uniting the (eastern) Orthodox world under.  
+
+Third, even if people can get past the existential incongruity between where Dugin is coming from and where they are to the point they can intelligibly describe it, they struggle to appreciate the extent to which anyone who thinks like him could have any influence or role in the affairs of a modern state.  They try to put Dugin into familiar baskets, like "right wing nut job" or some such nonsense. 
+
+Bottom Line: If you want to understand Putin's Russia, you have to understand Dugin.  Realize that I am not endorsing, nor would I endorse, Dugin's worldview.  But, what folks in this hemisphere don't really seem to understand is that it's irrational to dismiss his ideas based on what you heard someone else say about him, your subjective disagreement with them or your assumptions about them based on your subjective disagreement.  Some combination of those tends to characterize the majority of how "foreign policy" types here talk about him.
+
 ### 142: [30 Years in a Weekend: The Geopolitical Implications of Putin’s War](https://old.reddit.com/r/geopolitics/comments/t495kh/30_years_in_a_weekend_the_geopolitical/), submitted on 2022-03-01 22:29:10+08:00.
 
 ----- __142.1__ -----2022-03-02 11:53:51+08:00:
 
 There is no conceivable world where that kind of anti-Semitic bigotry is allowed in this forum.  Permanently banned.
+
+----- __142.2__ -----2022-03-02 19:20:05+08:00:
+
+> sorry, not a geopolitics person, but have there been instances of sanctions actually forcing an aggressor state to give up territory gains?
+
+Not with sanctions alone, no.
 
