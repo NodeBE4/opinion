@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-01
+date: 2022-03-02
 from: https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/
 layout: post
 tags:
@@ -90,4 +90,10 @@ Your submission is in violation of **Rule 2**. Your submission Is a debunk/debat
 
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/HeinrichPerdix&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/t3xz6n/-/\))
+
+### 183: [Nekkos from Hong Kong celebrate Nene's birthday by advertising panels in subway station](https://old.reddit.com/r/Hololive/comments/t4bzz2/nekkos_from_hong_kong_celebrate_nenes_birthday_by/), submitted on 2022-03-02 00:34:48+08:00.
+
+----- __183.1__ -----2022-03-02 11:44:19+08:00:
+
+They're at Mong Kok and Yau Ma Tei.
 

@@ -38,3 +38,9 @@ Submission Statement: In this op-ed, Garry Kasparov examines the impact of Europ
 
 Most people follow [instructions from authority figures, too](https://en.wikipedia.org/wiki/Milgram_experiment).
 
+### 141: [30 Years in a Weekend: The Geopolitical Implications of Putin’s War](https://old.reddit.com/r/geopolitics/comments/t495kh/30_years_in_a_weekend_the_geopolitical/), submitted on 2022-03-01 22:29:10+08:00.
+
+----- __141.1__ -----2022-03-02 11:53:51+08:00:
+
+There is no conceivable world where that kind of anti-Semitic bigotry is allowed in this forum.  Permanently banned.
+
