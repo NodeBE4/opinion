@@ -95,3 +95,7 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 
 湖北省一垃圾桶里发现被丢弃的刚出生女婴。令人心碎，不忍直视。视频我不转发了，若有推友想了解视频，请搜下面👇推主鲁难。<br>不是只有一个铁链女，妇女儿童的悲惨命运几乎在大陆各省市都能看到：上海红楼性奴、徐州拐卖妇女儿童集散中心图；丰县董集村、陕西铁笼女…都是妇女儿童的地狱！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FM3AWf5X0AcVXcx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FM3AWgQXsAg95td?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 21: [2022-03-03 05:14:28+08:00 推文](https://twitter.com/realcaixia/status/1499131045484060677)
+
+这个视频是某军事情报机构截听的俄军通话。内容是俄军下级抗命，痛陈给养不足。<br><video src="https://video.twimg.com/ext_tw_video/1499131018825060355/pu/vid/888x480/dElaH8-KtJVkRuc1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1499131018825060355/pu/img/dPATPixBL56eWIGr.jpg"></video>
+
