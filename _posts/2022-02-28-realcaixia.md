@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-02
+date: 2022-03-03
 from: https://twitter.com/realcaixia/status/1498069293073850370
 layout: post
 tags:
@@ -82,4 +82,16 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 ### 17: [2022-03-02 21:48:29+08:00 推文](https://twitter.com/realcaixia/status/1499018812460617730)
 
 这就是中共“以法治国”的常态。<br><br>荣剑: 令人发指的罪行，我转发这一条，希望吾国公安部门能将这两个罪犯缉拿归案，依法严惩！<br> <a href="https://twitter.com/xinwendiaocha/status/1498538701009215490" target="_blank" rel="noopener noreferrer">https://twitter.com/xinwendiaocha/status/1498538701009215490</a>
+
+### 18: [2022-03-03 00:42:26+08:00 推文](https://twitter.com/realcaixia/status/1499062585680969729)
+
+全歐洲行動起來了，團結一心同仇敵愾。抗議普金！反對侵略戰爭！支援烏克蘭人民！<br><br>ZHANGDONG: 欧洲行动！<br>今晚伦敦时间19点，德国时间20点，基辅时间21点，莫斯科时间22点，所有教堂将一齐鸣钟🔔🔔🔔 ，所有建筑关闭照明，民居闭灯，向普京抗议💪，宁守黑暗不买俄国油气.<br><br>昨天联合国为乌克兰募集到15亿美元用于帮助乌克兰饱受战争灾害的难民。这是有史以来收到的最快最慷慨的人道主义紧急呼吁。<br><br><img style="" src="https://pbs.twimg.com/media/FM277hOWYAYiH8d?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/UN/status/1499051014321754118" target="_blank" rel="noopener noreferrer">https://twitter.com/UN/status/1499051014321754118</a>
+
+### 19: [2022-03-03 01:01:25+08:00 推文](https://twitter.com/realcaixia/status/1499067365656518667)
+
+公安部打拐活動只能短期治标，但治不了极权专制制造的人权灾难這個本，也無法從根本上解決保护妇女儿童权利這個中国大陆的人道灾难重灾区問題。<br>當然，治标总比不治好。<br>但先請把铁链女真相告知于全社會，先請还铁链女以自由身，先請保障媒体自由採訪的权利。<br>治本即废极权争宪政！我们继续努力！<br><br>骄傲女孩: 公安部开展打击拐卖妇女儿童专项活动了，我们也还在江苏，该形成的材料我们尽快整理，该反映上去的反映，该举报的举报，我们按我们的步调吧，步调一致的，可以成为朋友，不一致的，各走各的路！尽量不要网络争吵！<br>江苏徐州、安徽阜阳对我们的诋毁还在继续，至于谁是敌人、谁在做恶，终究要有个说法！<br><br><img style="" src="https://pbs.twimg.com/media/FM2foLVXwAIGiwQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-03-03 04:14:17+08:00 推文](https://twitter.com/realcaixia/status/1499115901542666250)
+
+湖北省一垃圾桶里发现被丢弃的刚出生女婴。令人心碎，不忍直视。视频我不转发了，若有推友想了解视频，请搜下面👇推主鲁难。<br>不是只有一个铁链女，妇女儿童的悲惨命运几乎在大陆各省市都能看到：上海红楼性奴、徐州拐卖妇女儿童集散中心图；丰县董集村、陕西铁笼女…都是妇女儿童的地狱！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FM3AWf5X0AcVXcx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FM3AWgQXsAg95td?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
