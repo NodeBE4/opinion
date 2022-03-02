@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-02
+date: 2022-03-03
 from: https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/
 layout: post
 tags:
@@ -102,4 +102,28 @@ They're at Mong Kok and Yau Ma Tei.
 ----- __184.1__ -----2022-03-02 14:49:49+08:00:
 
 11 with Sana.
+
+### 185: [Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?](https://old.reddit.com/r/AskHistorians/comments/t55h3y/beside_the_postsoviet_transformation_like_many/), submitted on 2022-03-03 01:36:12+08:00.
+
+----- __185.1__ -----2022-03-03 02:40:12+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 186: [What wars in the history of mankind were fought over women?](https://old.reddit.com/r/AskHistorians/comments/t56m3d/what_wars_in_the_history_of_mankind_were_fought/), submitted on 2022-03-03 02:25:35+08:00.
+
+----- __186.1__ -----2022-03-03 02:40:53+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 187: [What was the most successful invasion? (Biggest is not the same thing.)](https://old.reddit.com/r/AskHistorians/comments/t56pkz/what_was_the_most_successful_invasion_biggest_is/), submitted on 2022-03-03 02:30:01+08:00.
+
+----- __187.1__ -----2022-03-03 02:40:58+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
