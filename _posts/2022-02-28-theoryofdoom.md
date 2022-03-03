@@ -128,6 +128,10 @@ This vapid, ad hoc speculation is unavailing.
 
 Folks are reminded to keep their comments up to par.  The amount of ad hoc speculation in this thread is unacceptably high.
 
+----- __141.5__ -----2022-03-03 10:55:42+08:00:
+
+Most people who think they understand Russia, Putin and/or Dugin, do not.  They understand American "perspectives" of Russia, not Russia as such.  This is very dangerous.  What is currently taking place in Ukraine is one example of the type of risk associated with that incompetence.
+
 ### 142: [30 Years in a Weekend: The Geopolitical Implications of Putin’s War](https://old.reddit.com/r/geopolitics/comments/t495kh/30_years_in_a_weekend_the_geopolitical/), submitted on 2022-03-01 22:29:10+08:00.
 
 ----- __142.1__ -----2022-03-02 11:53:51+08:00:
