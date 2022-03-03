@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-02
+date: 2022-03-03
 from: https://old.reddit.com/r/TrueReddit/comments/t3qfff/when_antibiotics_stop_working_the_next_pandemic/
 layout: post
 tags:
@@ -37,4 +37,13 @@ These new estimates have brought the problem of antibiotic resistance out of the
 \[SS from the article by Andrea Kendall-Taylor, Senior Fellow and Director of the Transatlantic Security Program at the Center for a New American Security, and Erica Frantz, Associate Professor of Political Science at Michigan State University.\]
 
 "Whether or not Putin’s war of choice becomes the mistake that unseats him from power is an open question. But Russia is experiencing rising dissatisfaction from the public, fissures among its elite, and broad-based international punishment. Putin’s downfall may not come tomorrow or the day after, but his grip on power is certainly more tenuous than it was before he invaded Ukraine."
+
+### 143: [Invasions Are Not Contagious: Russia’s War in Ukraine Doesn’t Presage a Chinese Assault on Taiwan](https://old.reddit.com/r/geopolitics/comments/t5u0p1/invasions_are_not_contagious_russias_war_in/), submitted on 2022-03-03 23:25:36+08:00.
+
+----- __143.1__ -----2022-03-03 23:26:54+08:00:
+
+\[SS from the article by Oriana Skylar Mastro, Fellow at the Freeman Spogli Institute for International Studies at Stanford University and a Senior Nonresident Fellow at the American Enterprise Institute.\]
+
+"As I have argued in *Foreign Affairs*, Chinese leaders are considering “armed reunification” with Taiwan more seriously than at any time in the last 50 years. But Xi will assert Chinese control over the island only if he is confident his military can conduct a successful amphibious invasion and if he believes the timing is right for his own career.  
+Shifts in the international environment would be important for Taiwan if they changed Xi’s thinking on either count. But the war in Ukraine has not. Xi’s views about U.S. power and resolve and about the likely international response to an invasion of Taiwan probably remain unchanged. If anything, China’s desire not to invite comparisons with Russia at a time when the world is united against Moscow will lengthen its timeline for taking control of Taiwan, not shorten it."
 
