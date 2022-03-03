@@ -103,9 +103,19 @@ They're at Mong Kok and Yau Ma Tei.
 
 11 with Sana.
 
-### 185: [PRC Ministry of Foreign Affairs' statement: The American Genocide of the Indians--How much of it is true?](https://old.reddit.com/r/AskHistorians/comments/t53gyk/prc_ministry_of_foreign_affairs_statement_the/), submitted on 2022-03-03 00:09:20+08:00.
+### 185: [Laila is officially doxed by WACTOR](https://old.reddit.com/r/VirtualYoutubers/comments/t4y5cu/laila_is_officially_doxed_by_wactor/), submitted on 2022-03-02 19:28:51+08:00.
 
------ __185.1__ -----2022-03-03 02:59:34+08:00:
+----- __185.1__ -----2022-03-03 11:43:37+08:00:
+
+'Sometimes'...
+
+Hoo boy.
+
+>!While her YT account only uploads occasionally, that's because that's the more SFW part: her alt's main platform is NicoNico and that's much more frequently used.!<
+
+### 186: [PRC Ministry of Foreign Affairs' statement: The American Genocide of the Indians--How much of it is true?](https://old.reddit.com/r/AskHistorians/comments/t53gyk/prc_ministry_of_foreign_affairs_statement_the/), submitted on 2022-03-03 00:09:20+08:00.
+
+----- __186.1__ -----2022-03-03 02:59:34+08:00:
 
 Hello. It appears that your post has is relating to the American Indian Genocide(s) that occurred in the Americas. This topic is often controversial and can lead to inaccurate information. This message is not intended to provide you with all of the answers, but simply to address some of the basic facts, as well as genocide denialism in this regard, and provide a short list of introductory reading. Because this topic covers a large area of study, the actions of the United States will be highlighted. There is always more that can be said, but we hope this is a good starting point for you. 
 
@@ -182,15 +192,15 @@ Though there is much information about this topic, this introductory list of boo
 * [*Myths of Conquest*](https://redd.it/2vf565) by /u/anthropology_nerd
 * [AskHistorians FAQ](https://www.reddit.com/r/AskHistorians/wiki/nativeamerican#wiki_european_contact_and_conquest)
 
-### 186: [Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?](https://old.reddit.com/r/AskHistorians/comments/t55h3y/beside_the_postsoviet_transformation_like_many/), submitted on 2022-03-03 01:36:12+08:00.
+### 187: [Beside the post-soviet transformation like many former USSR countries, where there any conflicts with Russia / Russian minorities in the Ukraine between 1991 and 2014?](https://old.reddit.com/r/AskHistorians/comments/t55h3y/beside_the_postsoviet_transformation_like_many/), submitted on 2022-03-03 01:36:12+08:00.
 
------ __186.1__ -----2022-03-03 02:40:12+08:00:
+----- __187.1__ -----2022-03-03 02:40:12+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 187: [What wars in the history of mankind were fought over women?](https://old.reddit.com/r/AskHistorians/comments/t56m3d/what_wars_in_the_history_of_mankind_were_fought/), submitted on 2022-03-03 02:25:35+08:00.
+### 188: [What wars in the history of mankind were fought over women?](https://old.reddit.com/r/AskHistorians/comments/t56m3d/what_wars_in_the_history_of_mankind_were_fought/), submitted on 2022-03-03 02:25:35+08:00.
 
------ __187.1__ -----2022-03-03 02:40:53+08:00:
+----- __188.1__ -----2022-03-03 02:40:53+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -198,11 +208,47 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 188: [What was the most successful invasion? (Biggest is not the same thing.)](https://old.reddit.com/r/AskHistorians/comments/t56pkz/what_was_the_most_successful_invasion_biggest_is/), submitted on 2022-03-03 02:30:01+08:00.
+### 189: [What was the most successful invasion? (Biggest is not the same thing.)](https://old.reddit.com/r/AskHistorians/comments/t56pkz/what_was_the_most_successful_invasion_biggest_is/), submitted on 2022-03-03 02:30:01+08:00.
 
------ __188.1__ -----2022-03-03 02:40:58+08:00:
+----- __189.1__ -----2022-03-03 02:40:58+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 190: [What event after Archduke Franz Ferdinand’s death made WW1 an absolute inevitability?](https://old.reddit.com/r/AskHistorians/comments/t5g8u9/what_event_after_archduke_franz_ferdinands_death/), submitted on 2022-03-03 09:57:36+08:00.
+
+----- __190.1__ -----2022-03-03 11:49:16+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 191: [Following Switzerland, amongst many other countries denouncement of Russia, is this the most united Europe has ever been?](https://old.reddit.com/r/AskHistorians/comments/t5i82z/following_switzerland_amongst_many_other/), submitted on 2022-03-03 11:39:40+08:00.
+
+----- __191.1__ -----2022-03-03 12:43:12+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 192: [Is the 1962 documentary "T. E. Lawrence 1888-1935" Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?](https://old.reddit.com/r/AskHistorians/comments/t5iuvq/is_the_1962_documentary_t_e_lawrence_18881935/), submitted on 2022-03-03 12:13:49+08:00.
+
+----- __192.1__ -----2022-03-03 12:43:35+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 193: [Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?](https://old.reddit.com/r/AskHistorians/comments/t5j8dq/is_there_a_moment_in_history_were_a_leader_has/), submitted on 2022-03-03 12:34:16+08:00.
+
+----- __193.1__ -----2022-03-03 12:43:25+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
