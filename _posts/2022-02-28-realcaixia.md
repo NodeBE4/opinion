@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-03
+date: 2022-03-04
 from: https://twitter.com/realcaixia/status/1498069293073850370
 layout: post
 tags:
@@ -102,4 +102,12 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 ### 22: [2022-03-03 07:39:19+08:00 推文](https://twitter.com/realcaixia/status/1499167497236455425)
 
 慕尼黑市民的反战和平呼声！也是全世界人民的心声。<br><br>ZHANGDONG: 时间：今晚，3月2日<br>地点：慕尼黑国王广场<br>人数：4万+<br>主题：Stand-With-Ukraine !<br> <a href="https://twitter.com/ZDFbayern/status/1499080572475482113" target="_blank" rel="noopener noreferrer">https://twitter.com/ZDFbayern/status/1499080572475482113</a>
+
+### 23: [2022-03-04 03:35:32+08:00 推文](https://twitter.com/realcaixia/status/1499468536695164941)
+
+中國高校校友反對普金發動侵略烏克蘭戰爭的又一正義呼聲！<br><br>鲁  难: 清华校友呼吁取消普京的博士学位！<br><br><img style="" src="https://pbs.twimg.com/media/FM8SsKOXEAgs4zg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-03-04 04:27:49+08:00 推文](https://twitter.com/realcaixia/status/1499481693643841545)
+
+中共全面強力打壓反對普京侵略烏克蘭的網上聲音，大量刪文封號封群，同時警察對在網上發出反戰聲援烏克蘭微信微博的網友，一個一個地找喝茶，施加壓力。中共警方不僅給中國網友施加壓力，而且對僑居中國大陸的烏克蘭人進行“警方采访”，维稳施压直接施行到乌克兰人头上，实际上制造外交事件。<br><br>章立凡 Zhang Lifan: 求证。<br>啥是“警方采访”？<br><br>＃转【乌克兰驻沪领事馆给有关省市政府外事办的信】<br><br><img style="" src="https://pbs.twimg.com/media/FM4QT4uXsAc8zZQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
