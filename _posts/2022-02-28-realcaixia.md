@@ -99,3 +99,7 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 
 这个视频是某军事情报机构截听的俄军通话。内容是俄军下级抗命，痛陈给养不足。<br><video src="https://video.twimg.com/ext_tw_video/1499131018825060355/pu/vid/888x480/dElaH8-KtJVkRuc1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1499131018825060355/pu/img/dPATPixBL56eWIGr.jpg"></video>
 
+### 22: [2022-03-03 07:39:19+08:00 推文](https://twitter.com/realcaixia/status/1499167497236455425)
+
+慕尼黑市民的反战和平呼声！也是全世界人民的心声。<br><br>ZHANGDONG: 时间：今晚，3月2日<br>地点：慕尼黑国王广场<br>人数：4万+<br>主题：Stand-With-Ukraine !<br> <a href="https://twitter.com/ZDFbayern/status/1499080572475482113" target="_blank" rel="noopener noreferrer">https://twitter.com/ZDFbayern/status/1499080572475482113</a>
+

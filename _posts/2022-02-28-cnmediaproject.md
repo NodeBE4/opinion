@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-02
+date: 2022-03-03
 from: https://twitter.com/yangliuxh/status/1498378205400420352
 layout: post
 tags:
@@ -42,4 +42,8 @@ Warriors on the Red Road: A look at the latest international co-production by Ch
 ### 7: [2022-03-02 10:47:47+08:00 推文](https://twitter.com/cnmediaproject/status/1498852540485894146)
 
 When int'l co-productions distributed through global channels involve the CCP's Central Propaganda Department, wouldn't it seem proper to make this clear to viewers? Our look at Discovery's Journey of Warriors. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FMz-YQFaQAQE3sL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-03-03 01:09:12+08:00 推文](https://twitter.com/zhaot2005/status/1499069321179324418)
+
+RT Tong ZHAO<br>FWIW, a thread 🧵to share my preliminary thoughts on the impact of #UkraineRussiaWar on China’s future strategic orientation.
 
