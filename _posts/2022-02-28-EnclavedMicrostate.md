@@ -107,7 +107,7 @@ They're at Mong Kok and Yau Ma Tei.
 
 ----- __185.1__ -----2022-03-03 02:59:34+08:00:
 
-Hello. It appears that your post has a mistaken assumption relating to the American Indian Genocide(s) that occurred in the Americas. This topic is often controversial and can lead to inaccurate information. This message is not intended to provide you with all of the answers, but simply to address some of the basic facts, as well as genocide denialism in this regard, and provide a short list of introductory reading. Because this topic covers a large area of study, the actions of the United States will be highlighted. There is always more that can be said, but we hope this is a good starting point for you. 
+Hello. It appears that your post has is relating to the American Indian Genocide(s) that occurred in the Americas. This topic is often controversial and can lead to inaccurate information. This message is not intended to provide you with all of the answers, but simply to address some of the basic facts, as well as genocide denialism in this regard, and provide a short list of introductory reading. Because this topic covers a large area of study, the actions of the United States will be highlighted. There is always more that can be said, but we hope this is a good starting point for you. 
 
 ##What is Genocide?
 
