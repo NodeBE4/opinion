@@ -238,9 +238,15 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 193: [Is the 1962 documentary "T. E. Lawrence 1888-1935" Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?](https://old.reddit.com/r/AskHistorians/comments/t5iuvq/is_the_1962_documentary_t_e_lawrence_18881935/), submitted on 2022-03-03 12:13:49+08:00.
+### 193: [Are there any good, easy books on the Sui or T'ang Dynasties of China?](https://old.reddit.com/r/AskHistorians/comments/t5igvw/are_there_any_good_easy_books_on_the_sui_or_tang/), submitted on 2022-03-03 11:52:48+08:00.
 
------ __193.1__ -----2022-03-03 12:43:35+08:00:
+----- __193.1__ -----2022-03-03 19:02:16+08:00:
+
+For what it's worth (and letting u/RiceEatingSavage know), both the *History of Imperial China* series, to which Lewis' *China's Cosmopolitan Empire* belongs, and the *Cambridge History of China* are both listed on the booklist, even if the individual volumes aren't.
+
+### 194: [Is the 1962 documentary "T. E. Lawrence 1888-1935" Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?](https://old.reddit.com/r/AskHistorians/comments/t5iuvq/is_the_1962_documentary_t_e_lawrence_18881935/), submitted on 2022-03-03 12:13:49+08:00.
+
+----- __194.1__ -----2022-03-03 12:43:35+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -248,9 +254,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 194: [Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?](https://old.reddit.com/r/AskHistorians/comments/t5j8dq/is_there_a_moment_in_history_were_a_leader_has/), submitted on 2022-03-03 12:34:16+08:00.
+### 195: [Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?](https://old.reddit.com/r/AskHistorians/comments/t5j8dq/is_there_a_moment_in_history_were_a_leader_has/), submitted on 2022-03-03 12:34:16+08:00.
 
------ __194.1__ -----2022-03-03 12:43:25+08:00:
+----- __195.1__ -----2022-03-03 12:43:25+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
