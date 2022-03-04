@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-04
+date: 2022-03-05
 from: https://twitter.com/realcaixia/status/1498069293073850370
 layout: post
 tags:
@@ -130,4 +130,20 @@ Re @InJeffz @lunanweiyi @lianchaohan 你就胡扯吧！
 ### 29: [2022-03-04 23:28:02+08:00 推文](https://twitter.com/realcaixia/status/1499768637783252995)
 
 大陆正义人士就徐州铁链女继续要求当局依法立案审查并依法处置，以尽快解救铁链女。<br><br>鲁  难: 大瓜来了：爆出铁链女和董志民结婚证的前媒体人邓飞，32分钟前刚刚在微博上实名举报，要求公安机关对铁链女婚姻合法性立案审查，并公开处理决定。2021年11月8日最高法、最高检、公安部、民政部联合发文，要求对冒名顶替、弄虚作假的婚姻登记的依法立案审查，并依法依规予以处理。<br><br><img style="" src="https://pbs.twimg.com/media/FNA9vLiWYAsFoVk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNA9vLhWQAQzrlC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNA9vMcWUAIbNDs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNA9vMdWYAwQmRc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-03-05 03:02:29+08:00 推文](https://twitter.com/realcaixia/status/1499822606308061189)
+
+《议报》发布清华大学校友取消普京名誉博士呼吁书的最新签名。<br>无论习当局如何高压恐怖，清华校友们不畏淫威冲破重重阻力，联名签署很快从最初的几位增加到现在的200多人。<br>参与签名的多是清华老校友们，尽管年逾古稀，清华校训“厚德载物”依旧令他们情系天下，令人感动尊敬！ <a href="https://yibaochina.com/?p=245214" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245214</a>
+
+### 31: [2022-03-05 03:29:48+08:00 推文](https://twitter.com/realcaixia/status/1499829480990416896)
+
+尽管台海两岸人民是同一个祖先同一个民族，但经过20世纪的政治变化，事实上早已形成各自独立的政权和互不隶属的两个独立国家，并已存在70多年，两岸早已不在同一个国家里。<br>台海两岸关系犹如乌克兰与俄罗斯的关系。习近平攻打台湾就相当于普金侵略乌克兰。<br>强烈推荐《议报》发布的这篇文章：<br><br>韩连潮: 【防止台湾乌克兰化】今天我在 #议报 上发文，提出如何防止台湾成为下一个乌克兰的问题；我的主要观点是，放弃一个中国政策，承认台湾民主国家，划出保卫台湾清晰红线，清除中共对台渗透，经济帮助台湾脱离对党国的依赖，把认知战打到墙内去。这篇文章的链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FNBxVaTXoAQGfuP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?p=245221" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245221</a>
+
+### 32: [2022-03-05 03:35:30+08:00 推文](https://twitter.com/realcaixia/status/1499830914104401925)
+
+Re @FangYiDuan1 中华民族
+
+### 33: [2022-03-05 04:37:56+08:00 推文](https://twitter.com/realcaixia/status/1499846627837808641)
+
+Re @Samsams27525708 @FangYiDuan1 台湾是中华民国。中华民国是孙中山先生的政治遗产，其前提就是台海两岸同文同种，同一个民族同一个祖先。
 
