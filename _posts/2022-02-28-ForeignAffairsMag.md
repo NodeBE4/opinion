@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-03
+date: 2022-03-04
 from: https://old.reddit.com/r/TrueReddit/comments/t3qfff/when_antibiotics_stop_working_the_next_pandemic/
 layout: post
 tags:
@@ -46,4 +46,14 @@ These new estimates have brought the problem of antibiotic resistance out of the
 
 "As I have argued in *Foreign Affairs*, Chinese leaders are considering “armed reunification” with Taiwan more seriously than at any time in the last 50 years. But Xi will assert Chinese control over the island only if he is confident his military can conduct a successful amphibious invasion and if he believes the timing is right for his own career.  
 Shifts in the international environment would be important for Taiwan if they changed Xi’s thinking on either count. But the war in Ukraine has not. Xi’s views about U.S. power and resolve and about the likely international response to an invasion of Taiwan probably remain unchanged. If anything, China’s desire not to invite comparisons with Russia at a time when the world is united against Moscow will lengthen its timeline for taking control of Taiwan, not shorten it."
+
+### 144: [What If Russia Loses?: A Defeat for Moscow Won’t Be a Clear Victory for the West](https://old.reddit.com/r/geopolitics/comments/t6l2bt/what_if_russia_loses_a_defeat_for_moscow_wont_be/), submitted on 2022-03-04 23:11:11+08:00.
+
+----- __144.1__ -----2022-03-04 23:12:41+08:00:
+
+\[SS from the article by Liana Fix, Resident Fellow at the German Marshall Fund and Michael Kimmage, Professor of History at the Catholic University of America and a Visiting Fellow at the German Marshall Fund.\]
+
+"Putin will be unable to win this war on his preferred terms. Indeed, there are several ways in which he could ultimately lose. He could mire his military in a costly and futile occupation of Ukraine, decimating the morale of Russia’s soldiers, consuming resources, and delivering nothing in return but the hollow ring of Russian greatness and a neighboring country reduced to poverty and chaos. He could create some degree of control over parts of eastern and southern Ukraine and probably Kyiv, while fighting a Ukrainian insurgency operating from the west and engaged in guerrilla warfare across the country—a scenario that would be reminiscent of the partisan warfare that took place in Ukraine during World War II. At the same time, he would preside over the gradual economic degradation of Russia, its growing isolation, and its increasing inability to supply the wealth on which great powers rely. And, most consequentially, Putin could lose the support of the Russian people and elites, on whom he depends to prosecute the war and maintain his hold on power, even though Russia is not a democracy.
+
+Putin seems to be trying to reestablish some form of Russian imperialism. But in taking this extraordinary gamble, he seems to have failed to recall the events that set in motion the end of the Russian empire. The final Russian tsar, Nicholas II, lost a war against Japan in 1905. He later fell victim to the Bolshevik Revolution, losing not just his crown but his life. The lesson: autocratic rulers cannot lose wars and remain autocrats."
 

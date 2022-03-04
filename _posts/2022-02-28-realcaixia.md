@@ -111,3 +111,23 @@ Re @lunanweiyi 别客气，是我应该做的。应该感谢您和公开信发�
 
 中共全面強力打壓反對普京侵略烏克蘭的網上聲音，大量刪文封號封群，同時警察對在網上發出反戰聲援烏克蘭微信微博的網友，一個一個地找喝茶，施加壓力。中共警方不僅給中國網友施加壓力，而且對僑居中國大陸的烏克蘭人進行“警方采访”，维稳施压直接施行到乌克兰人头上，实际上制造外交事件。<br><br>章立凡 Zhang Lifan: 求证。<br>啥是“警方采访”？<br><br>＃转【乌克兰驻沪领事馆给有关省市政府外事办的信】<br><br><img style="" src="https://pbs.twimg.com/media/FM4QT4uXsAc8zZQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 25: [2022-03-04 10:53:55+08:00 推文](https://twitter.com/realcaixia/status/1499578857107640324)
+
+与狼共舞，蔡霞：习近平是俄乌战争的共犯 <a href="https://www.voachinese.com/a/caixia-xi-is-the-accomplice-of-the-war/6468959.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/caixia-xi-is-the-accomplice-of-the-war/6468959.html</a>
+
+### 26: [2022-03-04 12:45:36+08:00 推文](https://twitter.com/realcaixia/status/1499606964720001024)
+
+蔡霞强烈推荐：暮鼓晨钟最新版檄文《公正评价习近平》 <a href="https://youtu.be/mUlN_qCCw0Y" target="_blank" rel="noopener noreferrer">https://youtu.be/mUlN_qCCw0Y</a>
+
+### 27: [2022-03-04 20:45:30+08:00 推文](https://twitter.com/realcaixia/status/1499727735849160706)
+
+这就是中共党国对人民的真实态度。<br><br>财经真相: 乌克兰苏梅地区138名留学生求助的微博信息已经被和谐，原来虽远必诛的意思是，不管你是否爱国，也不论是否关心政治，只要敢发出让党国丢脸的事，哪怕你在万里之外的战区，也要把你的声音彻底抹杀掉，最好都死掉免得被锤醒后到处抹黑党的形象！<br><br><img style="" src="https://pbs.twimg.com/media/FM7TlNjaUAQITKE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-03-04 22:05:43+08:00 推文](https://twitter.com/realcaixia/status/1499747924552650755)
+
+Re @InJeffz @lunanweiyi @lianchaohan 你就胡扯吧！
+
+### 29: [2022-03-04 23:28:02+08:00 推文](https://twitter.com/realcaixia/status/1499768637783252995)
+
+大陆正义人士就徐州铁链女继续要求当局依法立案审查并依法处置，以尽快解救铁链女。<br><br>鲁  难: 大瓜来了：爆出铁链女和董志民结婚证的前媒体人邓飞，32分钟前刚刚在微博上实名举报，要求公安机关对铁链女婚姻合法性立案审查，并公开处理决定。2021年11月8日最高法、最高检、公安部、民政部联合发文，要求对冒名顶替、弄虚作假的婚姻登记的依法立案审查，并依法依规予以处理。<br><br><img style="" src="https://pbs.twimg.com/media/FNA9vLiWYAsFoVk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNA9vLhWQAQzrlC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNA9vMcWUAIbNDs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNA9vMdWYAwQmRc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
