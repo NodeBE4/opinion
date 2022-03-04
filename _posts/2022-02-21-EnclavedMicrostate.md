@@ -250,6 +250,10 @@ I'm afraid I'm not sure I follow.
 
 EDIT: Unless you mean it's a jinx
 
+----- __165.3__ -----2022-03-04 11:33:16+08:00:
+
+...dear god.
+
 ### 166: [Has any Kings, Presidents or any political leader in history that was killed during a meeting with another nation?](https://old.reddit.com/r/AskHistorians/comments/t1oay5/has_any_kings_presidents_or_any_political_leader/), submitted on 2022-02-26 12:43:45+08:00.
 
 ----- __166.1__ -----2022-02-26 14:57:00+08:00:
