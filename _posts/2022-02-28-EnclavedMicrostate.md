@@ -276,3 +276,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
+### 198: [Is Putin's idea of "de-Nazification" a reference to "de-Stalinization"? What is the history of these terms and how are they related?](https://old.reddit.com/r/AskHistorians/comments/t6gc18/is_putins_idea_of_denazification_a_reference_to/), submitted on 2022-03-04 18:47:55+08:00.
+
+----- __198.1__ -----2022-03-04 18:52:02+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
