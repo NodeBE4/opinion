@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-01
+date: 2022-03-03
 from: https://old.reddit.com/r/geopolitics/comments/t38jvu/a_great_divide_unlike_humanity_has_ever_seen/
 layout: post
 tags:
@@ -153,4 +153,10 @@ Each approach Washington has taken so far with respect to Russia and Putin has b
 * As a further example, when Washington implemented narrower, Magnitsky-style sanctions on Russia in response to certain but heinous human rights violations (intended to cover up egregious corruption inside Russia), nothing changed.  It was a serious, symbolic punishment for what Putin's regime did to Sergei Magnitsky and a watershed moment in context of economic-based statecraft.  But again, nothing inside Russia actually changed.  However beautiful the gesture may have been, the outcome was less than hoped for.  
 
 With respect to the current conflict in which Russia invaded Ukraine without provocation, the idea that sanctions of any kind alone or in combination with anything else, could have deterred Putin from invading Ukraine is absurd.  One of two things happened.  In the first possible world, decision-makers in Washington incorrectly calculated the value Putin places on Ukraine and the circumstances under which Russia believes its utility is maximized.  In the second possible world, decision-makers in Washington correctly calculated the value Putin places on Ukraine and how Russia believes its utility is maximized --- and this strategy is no more than a minimally adequate show of resistance.  It's not clear which world we're in, at this point, though I lean towards the first.
+
+### 143: [Has Putin just angered the Oligarchs irreversibly?](https://old.reddit.com/r/geopolitics/comments/t5grte/has_putin_just_angered_the_oligarchs_irreversibly/), submitted on 2022-03-03 10:24:15+08:00.
+
+----- __143.1__ -----2022-03-04 12:16:36+08:00:
+
+This is really close to domestic politics, but I think in this limited case the discussion is worth having.
 
