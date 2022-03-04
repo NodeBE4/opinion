@@ -13,53 +13,53 @@ title: EnclavedMicrostate在2022-01-17~2022-01-23的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 72: [What were toilets like in various eras of history?](https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/), submitted on 2022-01-17 23:06:28+08:00.
+### 73: [What were toilets like in various eras of history?](https://old.reddit.com/r/AskHistorians/comments/s662m5/what_were_toilets_like_in_various_eras_of_history/), submitted on 2022-01-17 23:06:28+08:00.
 
------ __72.1__ -----2022-01-18 00:47:44+08:00:
+----- __73.1__ -----2022-01-18 00:47:44+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 73: [Why didn't Ming China & Joseon Korea intervene during Japan's Sengoku Jidai?](https://old.reddit.com/r/AskHistorians/comments/s6r5id/why_didnt_ming_china_joseon_korea_intervene/), submitted on 2022-01-18 14:50:00+08:00.
+### 74: [Why didn't Ming China & Joseon Korea intervene during Japan's Sengoku Jidai?](https://old.reddit.com/r/AskHistorians/comments/s6r5id/why_didnt_ming_china_joseon_korea_intervene/), submitted on 2022-01-18 14:50:00+08:00.
 
------ __73.1__ -----2022-01-19 01:44:17+08:00:
+----- __74.1__ -----2022-01-19 01:44:17+08:00:
 
 Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
-### 74: [Who is better ALexander The Great or ghengis khan and why ?](https://old.reddit.com/r/AskHistorians/comments/s6xb51/who_is_better_alexander_the_great_or_ghengis_khan/), submitted on 2022-01-18 21:16:27+08:00.
+### 75: [Who is better ALexander The Great or ghengis khan and why ?](https://old.reddit.com/r/AskHistorians/comments/s6xb51/who_is_better_alexander_the_great_or_ghengis_khan/), submitted on 2022-01-18 21:16:27+08:00.
 
------ __74.1__ -----2022-01-18 22:37:44+08:00:
-
-This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
-
-For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
-
-### 75: [Throughout Human History: Who has been treated the worse: Women or Black people?](https://old.reddit.com/r/AskHistorians/comments/s6yqgt/throughout_human_history_who_has_been_treated_the/), submitted on 2022-01-18 22:26:17+08:00.
-
------ __75.1__ -----2022-01-18 22:38:30+08:00:
+----- __75.1__ -----2022-01-18 22:37:44+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 76: [How were home addresses / mail delivery handled in ancient Chinese cities?](https://old.reddit.com/r/AskHistorians/comments/s88meg/how_were_home_addresses_mail_delivery_handled_in/), submitted on 2022-01-20 11:13:36+08:00.
+### 76: [Throughout Human History: Who has been treated the worse: Women or Black people?](https://old.reddit.com/r/AskHistorians/comments/s6yqgt/throughout_human_history_who_has_been_treated_the/), submitted on 2022-01-18 22:26:17+08:00.
 
------ __76.1__ -----2022-01-21 13:13:52+08:00:
+----- __76.1__ -----2022-01-18 22:38:30+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 77: [How were home addresses / mail delivery handled in ancient Chinese cities?](https://old.reddit.com/r/AskHistorians/comments/s88meg/how_were_home_addresses_mail_delivery_handled_in/), submitted on 2022-01-20 11:13:36+08:00.
+
+----- __77.1__ -----2022-01-21 13:13:52+08:00:
 
 > Sir Robert Hart (British) founded the Imperial Post in 1896
 
 Irish, technically – it's why Chinese postboxes are painted green!
 
-### 77: [Why do governments deal with states near international borders so heavy-handedly?](https://old.reddit.com/r/AskHistorians/comments/s8d92v/why_do_governments_deal_with_states_near/), submitted on 2022-01-20 15:24:36+08:00.
+### 78: [Why do governments deal with states near international borders so heavy-handedly?](https://old.reddit.com/r/AskHistorians/comments/s8d92v/why_do_governments_deal_with_states_near/), submitted on 2022-01-20 15:24:36+08:00.
 
------ __77.1__ -----2022-01-20 17:12:58+08:00:
+----- __78.1__ -----2022-01-20 17:12:58+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 78: [The destruction of the Southern Shaolin Temple by the Qing is a central event in Hong Kong martial arts movies, but this temple might not have existed. Where did this myth come from, and what role did it play in martial arts history?](https://old.reddit.com/r/AskHistorians/comments/s8ddl3/the_destruction_of_the_southern_shaolin_temple_by/), submitted on 2022-01-20 15:32:31+08:00.
+### 79: [The destruction of the Southern Shaolin Temple by the Qing is a central event in Hong Kong martial arts movies, but this temple might not have existed. Where did this myth come from, and what role did it play in martial arts history?](https://old.reddit.com/r/AskHistorians/comments/s8ddl3/the_destruction_of_the_southern_shaolin_temple_by/), submitted on 2022-01-20 15:32:31+08:00.
 
------ __78.1__ -----2022-01-21 02:44:57+08:00:
+----- __79.1__ -----2022-01-21 02:44:57+08:00:
 
 ### Introduction and Theory
 
@@ -87,7 +87,7 @@ The reality was that by the time that Qing rule extended over Henan, the Shaolin
 
 Thanks to the earlier depredations, the Shaolin Monastery as a military entity had very much collapsed. The same chronicler who recorded the destruction of the temple by Li Jiyu reported visiting the temple some time between the late 1650s and 1670s, where he requested that two novices demonstrate their skills for him. 'Their performance was no better than that of street beggars. It was not worth watching.' While the monastery retained its legendary reputation for martial prowess, the Qing were not eager to allow it to be taken seriously; in 1775 the Qianlong Emperor officially forbade officials and officers from involving Buddhist monks in the army, in response to news that the governor of Henan had taken on Shaolin monks as army instructors. 'Having monks train his soldiers is not only beyond one’s authority,' wrote the emperor, 'it also makes him into a laughing stock.'
 
------ __78.2__ -----2022-01-21 02:45:13+08:00:
+----- __79.2__ -----2022-01-21 02:45:13+08:00:
 
 ### The Myth
 
@@ -103,7 +103,7 @@ Tying that back to Hong Kong, it is easy to retroject contemporary Hong Kong's t
 
 An undercurrent of Chinese nationalism pervades a not insubstantial amount of Hong Kong martial arts cinema, and it is probably no surprise that Japan and the Japanese can be found as the antagonists in some of the more iconic works in the genre: 1972's *Fist of Fury* sees Bruce Lee beating up karate students in post-WW1 Shanghai; 2008's *Ip Man* is set largely during the Japanese occupation of southern China; the now somewhat obscure (but at the time quite popular) *Apkido*, also from 1972, is set in prewar, Japanese-ruled Korea. You can even find subtle hints in films that don't directly address the Japanese Empire: Bruce Lee's self-produced *Way of the Dragon* (1972 again) has a number of scenes where Bruce demonstrates the superiority of kung fu over karate, first against the employees at the restaurant he's protecting, and then against the thugs hired by the mafia boss (including Chuck Norris); Stephen Chow's *Kung Fu Hustle* (2004) evokes the overall period setting of 1940s Shanghai even if the Japanese – indeed, any sort of political or military situation – are curiously absent. Going all the way back to the Shaolin temple, then, it forms part of a motif common across the genre where kung fu isn't just a cool fighting style, it's also an assertion of (Han) Chinese resilience.
 
------ __78.3__ -----2022-01-21 02:50:45+08:00:
+----- __79.3__ -----2022-01-21 02:50:45+08:00:
 
 ### Sources and Further Reading
 
@@ -119,17 +119,17 @@ An undercurrent of Chinese nationalism pervades a not insubstantial amount of Ho
 
 * Dian Murray, Qin Baoqi, *The Origins of the Tiandihui: The Chinese Triads in Legend and History* (1994)
 
-### 79: [What was the worst time to be alive in history? And what was the best?](https://old.reddit.com/r/AskHistorians/comments/s8lrd9/what_was_the_worst_time_to_be_alive_in_history/), submitted on 2022-01-20 23:40:39+08:00.
+### 80: [What was the worst time to be alive in history? And what was the best?](https://old.reddit.com/r/AskHistorians/comments/s8lrd9/what_was_the_worst_time_to_be_alive_in_history/), submitted on 2022-01-20 23:40:39+08:00.
 
------ __79.1__ -----2022-01-20 23:43:55+08:00:
+----- __80.1__ -----2022-01-20 23:43:55+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 80: [What language(s) did people in France speak before the French Revolution?](https://old.reddit.com/r/AskHistorians/comments/s9r5do/what_languages_did_people_in_france_speak_before/), submitted on 2022-01-22 09:53:45+08:00.
+### 81: [What language(s) did people in France speak before the French Revolution?](https://old.reddit.com/r/AskHistorians/comments/s9r5do/what_languages_did_people_in_france_speak_before/), submitted on 2022-01-22 09:53:45+08:00.
 
------ __80.1__ -----2022-01-22 20:36:57+08:00:
+----- __81.1__ -----2022-01-22 20:36:57+08:00:
 
 Answers in the subreddit are expected to be in-depth and comprehensive, as laid out in the [subreddit rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer). There is no hard and fast definition of that, but in evaluating what you know on the topic, and what you are planning to post, consider whether your answer will *demonstrate* these four qualities to a reader:
 
@@ -140,15 +140,15 @@ Answers in the subreddit are expected to be in-depth and comprehensive, as laid 
 
 If you have further questions, please [reach out to us via modmail](https://www.reddit.com/message/compose/?to=/r/AskHistorians). Thank you!
 
-### 81: [How does the current situation with Russia, regarding Ukraine, compare to the Cold War?](https://old.reddit.com/r/AskHistorians/comments/s9rjmb/how_does_the_current_situation_with_russia/), submitted on 2022-01-22 10:14:01+08:00.
+### 82: [How does the current situation with Russia, regarding Ukraine, compare to the Cold War?](https://old.reddit.com/r/AskHistorians/comments/s9rjmb/how_does_the_current_situation_with_russia/), submitted on 2022-01-22 10:14:01+08:00.
 
------ __81.1__ -----2022-01-22 11:00:48+08:00:
+----- __82.1__ -----2022-01-22 11:00:48+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 82: [About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?](https://old.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/), submitted on 2022-01-22 12:51:19+08:00.
+### 83: [About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?](https://old.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/), submitted on 2022-01-22 12:51:19+08:00.
 
------ __82.1__ -----2022-01-23 15:35:46+08:00:
+----- __83.1__ -----2022-01-23 15:35:46+08:00:
 
 ### I: The Weird Mess that is Manchu Demography
 
@@ -192,7 +192,7 @@ With all that, then, it seems reasonable to say that by the end of the Qing, the
 
 Now, a fair point that can be raised is that this is the *total* number of Manchus in the entirety of the Qing, not just those in China proper. Elliott, unfortunately, only looks at China Proper and doesn't give any figures for Bannermen in Manchuria/the Northeast or in Xinjiang. There is a breakdown of troop deployments by Rhoads, based on the 1887 Banner census and Thomas Wade's 1825 report on the Qing military, although he seems to use 'northwest China' to cover the garrisons in Xinjiang and Mongolia, not just what we would more conventionally term 'northwest China' (i.e. Gansu, Shaanxi, and environs). Per Rhoads, of 260,000 deployed Banner troops, 150,000 were in Beijing and 110,000 were not. Of these 110,000, 16,000 are placed by Rhoads in 'northwest China', and 37,000 in Manchuria. Checking Wade's figures, based on the 1825 Banner payrolls, of 236,000 privates there were about 13,600 in 'Turkestan' (i.e. presumably both Mongolia and Xinjiang) and 40,800 in Manchuria, which would seem to affirm the above read of Rhoads' categorisation. So in short, in 1887 there were around 207,000 Banner troops in China Proper and 53,000 in other parts of the empire; assuming (not entirely correctly) a homogeneous ethnic distribution, that'd mean 80% of the Banner population was in China proper, which in absolute numbers would be about 700,000-1,350,000 people.
 
------ __82.2__ -----2022-01-23 15:41:34+08:00:
+----- __83.2__ -----2022-01-23 15:41:34+08:00:
 
 ### II: Movement to China Proper
 
@@ -212,29 +212,29 @@ Why have these garrisons at all? To put it simply, the Qing were basically an oc
 
 * Edward J. M. Rhoads, *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1862-1928* (2001) [Open-access link](https://uw.manifoldapp.org/read/untitled-88783134-3ba9-49ab-95e5-0b51ee6d035b/section/498fd67d-ad4c-44c1-8f99-a490905b2a34)
 
-### 83: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
+### 84: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
 
------ __83.1__ -----2022-01-22 18:18:38+08:00:
+----- __84.1__ -----2022-01-22 18:18:38+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 84: [What's the best book on modern US-China relations?](https://old.reddit.com/r/AskHistorians/comments/safd6d/whats_the_best_book_on_modern_uschina_relations/), submitted on 2022-01-23 07:34:53+08:00.
+### 85: [What's the best book on modern US-China relations?](https://old.reddit.com/r/AskHistorians/comments/safd6d/whats_the_best_book_on_modern_uschina_relations/), submitted on 2022-01-23 07:34:53+08:00.
 
------ __84.1__ -----2022-01-23 20:08:25+08:00:
+----- __85.1__ -----2022-01-23 20:08:25+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 85: [Did asbestos save more people than it killed?](https://old.reddit.com/r/AskHistorians/comments/sajwfy/did_asbestos_save_more_people_than_it_killed/), submitted on 2022-01-23 11:23:43+08:00.
+### 86: [Did asbestos save more people than it killed?](https://old.reddit.com/r/AskHistorians/comments/sajwfy/did_asbestos_save_more_people_than_it_killed/), submitted on 2022-01-23 11:23:43+08:00.
 
------ __85.1__ -----2022-01-23 19:48:45+08:00:
+----- __86.1__ -----2022-01-23 19:48:45+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 86: [Are there any historical (either historical or paleo-genetic) clues on when “poop aversion” first became ubiquitous across most cultures?](https://old.reddit.com/r/AskHistorians/comments/sakfs5/are_there_any_historical_either_historical_or/), submitted on 2022-01-23 11:52:43+08:00.
+### 87: [Are there any historical (either historical or paleo-genetic) clues on when “poop aversion” first became ubiquitous across most cultures?](https://old.reddit.com/r/AskHistorians/comments/sakfs5/are_there_any_historical_either_historical_or/), submitted on 2022-01-23 11:52:43+08:00.
 
------ __86.1__ -----2022-01-23 19:48:39+08:00:
+----- __87.1__ -----2022-01-23 19:48:39+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -242,21 +242,21 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 87: [Outside of civil wars, do we know of any pre modern or early modern societies which had homicide levels similar to the most violent nations today?](https://old.reddit.com/r/AskHistorians/comments/saktr3/outside_of_civil_wars_do_we_know_of_any_pre/), submitted on 2022-01-23 12:13:33+08:00.
+### 88: [Outside of civil wars, do we know of any pre modern or early modern societies which had homicide levels similar to the most violent nations today?](https://old.reddit.com/r/AskHistorians/comments/saktr3/outside_of_civil_wars_do_we_know_of_any_pre/), submitted on 2022-01-23 12:13:33+08:00.
 
------ __87.1__ -----2022-01-23 19:48:55+08:00:
+----- __88.1__ -----2022-01-23 19:48:55+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 88: [I'm not great at editing but I thought of this meme and had to post it-](https://old.reddit.com/r/Hololive/comments/satxsx/im_not_great_at_editing_but_i_thought_of_this/), submitted on 2022-01-23 21:43:14+08:00.
+### 89: [I'm not great at editing but I thought of this meme and had to post it-](https://old.reddit.com/r/Hololive/comments/satxsx/im_not_great_at_editing_but_i_thought_of_this/), submitted on 2022-01-23 21:43:14+08:00.
 
------ __88.1__ -----2022-01-24 12:13:10+08:00:
+----- __89.1__ -----2022-01-24 12:13:10+08:00:
 
 To add some etymological detail for those who might not know, the 'Calli' part of 'Calliope' is the same 'calli' in 'calligraphy', and is ancient Greek for 'good' or 'beautiful'. The muse Calliope (Kalliópē) gets her name from *kallós* ('good'/'beautiful') + *óps* ('voice'), which I presume is why Calli's name was originally written with the kanji 美声 which is, well, 'beautiful voice' – until it got changed of course. Anyway, 'calligraphy' derives from *kallós* + *gráphō* ('writing'), so is 'beautiful writing'.
 
-### 89: [[Hobby Scuffles] Week of January 24, 2022](https://old.reddit.com/r/HobbyDrama/comments/savgsm/hobby_scuffles_week_of_january_24_2022/), submitted on 2022-01-23 23:00:22+08:00.
+### 90: [[Hobby Scuffles] Week of January 24, 2022](https://old.reddit.com/r/HobbyDrama/comments/savgsm/hobby_scuffles_week_of_january_24_2022/), submitted on 2022-01-23 23:00:22+08:00.
 
------ __89.1__ -----2022-01-30 14:37:39+08:00:
+----- __90.1__ -----2022-01-30 14:37:39+08:00:
 
 It depends how you define 'big' I suppose, and also what a 'lack of popularity' would be.
 
@@ -264,7 +264,7 @@ Compared to Nijisanji, Hololive has more total subs and fewer members, meaning a
 
 Although pivoting a bit to the 'big' side, there's definitely a few agencies that have shuttered various elements for one reason or another. Brave Group, formerly Unlimited, was haemorrhaging views and subs across the board over the Game Club Project recasting fiasco in mid-2019 ([see here for a quick rundown](https://www.reddit.com/r/VirtualYoutubers/comments/kp728d/fans_fantasy_and_vice_why_the_gamebu_controversy/)), and so in late 2020 it pretty much let go of most of its subunits. Most of them were simply dissolved but a couple got transferred to a subdivision of Bandai Namco. Probably the more infamous case was Activ8 in 2019/20. After the issues with the Multiple Ai Project (basically adding extra VAs for Kizuna Ai and then quietly firing the original in July 2019, something that viewers did not take kindly to), Activ8 ended up massively in the red by the end of 2019, and did a major restructuring at the end of April 2020 and pulled Kizuna Ai out of upd8, which was, uh, Activ8's own agency. They also either fired or induced Oda Nobuhime to quit, and the two 774 Inc. subunits affiliated with upd8 pulled out. Activ8 didn't drop upd8 outright as such, but they essentially divested themselves of any significant involvement from that point, and it basically trundled on as a loose association of indies until the end of 2020. So it depends how you define 'dropping' and also what causes you attribute, but I would say there have been times where agencies have cut unprofitable segments loose.
 
------ __89.2__ -----2022-01-30 14:58:40+08:00:
+----- __90.2__ -----2022-01-30 14:58:40+08:00:
 
 It's important to distinguish here between Hololive CN, that is the branch of 6 members streaming in Mandarin, and Hololive's Chinese audience. We don't know about how Hololive CN the branch of Hololive was doing financially, which for all we know could have been entirely solvent. But we're not just talking about Hololive CN, we're talking about the broader Chinese audience, which complicates the picture as a large portion of Hololive JP had Chinese-facing activities via bilibili as well as a large Chinese fan community. Pulling out of China wasn't just weighing the monetary value of HoloCN against that of Coco (and also Haachama), but about cutting an entire market and fanbase for the entire agency.
 

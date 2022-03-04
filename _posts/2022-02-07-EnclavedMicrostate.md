@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-02-07~2022-02-13的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 123: [How popular was the Qing dynasty at the very end?](https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/), submitted on 2022-02-07 00:57:39+08:00.
+### 124: [How popular was the Qing dynasty at the very end?](https://old.reddit.com/r/AskHistorians/comments/sm1fqz/how_popular_was_the_qing_dynasty_at_the_very_end/), submitted on 2022-02-07 00:57:39+08:00.
 
------ __123.1__ -----2022-02-07 03:29:59+08:00:
+----- __124.1__ -----2022-02-07 03:29:59+08:00:
 
 So, this is not purely a question about political popularity in a vacuum thanks to the clarification you've added. Indeed, when you interrogate the specifics, it ends up kind of turning into two separate questions, one about the popularity of the Qing, and the other about empire and decolonisation.
 
@@ -33,7 +33,7 @@ One thing I have generally only touched on in the above answer is anti-Manchuism
 
 So, were the Qing popular when they fell? The answer is, quite decidedly, no. The Qing had built up their goodwill among reformist elites in the 1901-1909 period by appearing to commit to a programme of political reform with the end goal of establishing a constitutional monarchy, but a combination of Zaifeng's own political intransigence and the unresolved – and potentially insoluble – question of Manchu status led to the Qing torpedoing that built-up credibility in 1910-11. The Aisin Gioro clan did not lose all of its supporters, even among elite reformists – for instance, Liang Qichao's mentor Kang Youwei publicly supported the short-lived 'Manchu Restoration' of 1917. But it was, at the end of its tenure, at a decided low ebb in popularity, even if not one that can be meaningfully quantified.
 
------ __123.2__ -----2022-02-07 03:30:03+08:00:
+----- __124.2__ -----2022-02-07 03:30:03+08:00:
 
 It's hard to speak of a significant north-south division in revolutionary sentiments; while the areas immediately closer to Beijing didn't revolt, many northern cities, most notably Xi'an, did. Xi'an stands out also as a particularly violent case, with some 20,000 Manchus in the Banner quarter being massacred by the rebels. But, looking at The Mad Monarchist's (probable) blog post in question, a simple north-south divide isn't the point they seem to be going for. Instead, their argument seems to be that the 1911 Revolution should, in theory, simply have detached the Han Chinese – and indeed any other rebelling populations – from Manchu rule, with the Manchus free to retain their own government in Manchuria itself. Now, this is broadly a moralistic argument, and one which is not really my job as a historian to discuss. But I can discuss the reasons for why that didn't happen.
 
@@ -45,7 +45,7 @@ Thirdly, we need to look at the reformist agenda itself, where again, there were
 
 It is thus not entirely wrong to say that claims to Manchuria by the ROC and PRC are ultimately rooted in discourses attempting to reconcile ethnic nationalism with imperialism, nor to say that the Manchus very much did not have a choice in 1911. This of course has no bearing on the broader ideology of monarchism, especially in its present-day form. But, and it surprises me to say it, there is a vague kernel of truth to The Mad Monarchist's suggestion, however tendentious, that there was a certain incongruity, even hypocrisy, between Han demands for self-rule in 1911, and yet also Han claims to overrule similar demands among other former imperial subjects.
 
------ __123.3__ -----2022-02-07 03:34:21+08:00:
+----- __124.3__ -----2022-02-07 03:34:21+08:00:
 
 ### Sources and Further Reading 
 
@@ -63,7 +63,7 @@ It is thus not entirely wrong to say that claims to Manchuria by the ROC and PRC
 
 * Xiaowei Zheng, *The Politics of Rights and the 1911 Revolution in China* (2018)
 
------ __123.4__ -----2022-02-07 11:34:42+08:00:
+----- __124.4__ -----2022-02-07 11:34:42+08:00:
 
 I knew there'd be things I'd forget to explain! A lot of things about the fall of the Qing are very specific to the Qing itself, and arguably none more so than the queue, something I go into depth [here](https://www.reddit.com/r/AskHistorians/comments/hieo21/tuesday_trivia_a_woman_who_cuts_her_hair_is_about/fwh873t/?context=999) about but where I'll summarise the relevant part here. 'Queue' is, in this context, an English term for a braid of hair, known in Manchu as the *soncoho* and in Mandarin as *bianzi*. A series of edicts in 1644-5 had mandated that all Han Chinese men under Qing rule were to adopt the customary hairstyle of Manchu men, with all hair shaven except for a small amount at the back that would be braided – no more than would fit through the hole in a coin. The amount of hair that was retained increased over time, such that by the mid-nineteenth century it was really only the top and sides that were still shaven.
 
@@ -73,17 +73,17 @@ The second related to the braid, as by the late nineteenth century many, especia
 
 Of course, throughout this there was the problem of the supposed 'barbarianness' of the hairstyle, which was seen as – and intended by Qing rulers to be seen as – a visible sign of Manchu dominance. The queue-cutting movement of the 1900s was certainly motivated in large part by an anti-traditionalist, modernising agenda, but it was also deeply tied in with the ethnic politics that I discuss in the above answer. 'Modernising' sentiments changed the *nature* of the anti-queue position, but were not the origin of opposition to the queue edict in the abstract.
 
-### 124: [StabbyCon: AskHistorians Group AMA](https://old.reddit.com/r/Fantasy/comments/smv0qd/stabbycon_askhistorians_group_ama/), submitted on 2022-02-08 01:00:45+08:00.
+### 125: [StabbyCon: AskHistorians Group AMA](https://old.reddit.com/r/Fantasy/comments/smv0qd/stabbycon_askhistorians_group_ama/), submitted on 2022-02-08 01:00:45+08:00.
 
------ __124.1__ -----2022-02-08 01:14:36+08:00:
+----- __125.1__ -----2022-02-08 01:14:36+08:00:
 
 So this isn't a misconception as such so much as a rather unfortunate bit of laser-focus. Ask anyone about the Taiping and if anyone knows anything, it will be two factoids: that it was started by a guy who thought he was the brother of Jesus, and that it caused 20 million deaths. The former is true, the latter is actually hard to substantiate, but all facts aside, the problem is that the whole thing gets framed as 'that time an insane thing happened in China but the only consequences were a lot of deaths'. And that's just a crying shame for a period with *lots* of interesting angles of study and analysis: Where did the Taiping fit in global Christianity? How did they influence the development of Chinese nationalism? What was their legacy in Chinese popular culture? What was it like to actually live through the conflict? These are all questions historians have asked and – in some cases – answered, but which are completely elided by the whole narrative that 'Jesus' brother killed 20 million people that one time'.
 
------ __124.2__ -----2022-02-08 01:55:12+08:00:
+----- __125.2__ -----2022-02-08 01:55:12+08:00:
 
 Unfortunately, I can't say I'm really big on historical fiction, and I always end up a little wary of anything supposedly drawing inspiration from the Qing just because the nuances get really badly flattened (looking at you, ATLA...). But I do have an... *interesting* if decidedly flawed recommendation for a book set in the Qing period, that being Jules Verne's rather odd *The Tribulations of a Chinaman in China*. Now obviously the title raises eyebrows, and it definitely is a novel written by a 19th century Frenchman in terms of how it portrays China and its people, and yet at the same time I find it utterly fascinating as a novel that does try to root itself in recent Chinese history (spoilers: the protagonist's mentor is supposed to be an ex-Taiping, which is what alerted me to the book in the first place), which has its moments critiquing European (well, to be fair, mainly British because the French of course are far better at this) imperialism, particularly the opium trade, and just has many of the hallmarks that make Verne's adventure novels tick. Weirdly enough, there was a film adaptation in 1987 that was a joint West German-Chinese production, whose most prominent star long-term seems to have been Rosalind Chao (known to fellow Trekkies for playing Keiko O'Brien, née Ishikawa, on Star Trek TNG and DS9.)
 
------ __124.3__ -----2022-02-08 03:05:49+08:00:
+----- __125.3__ -----2022-02-08 03:05:49+08:00:
 
 What's really interesting is that the academic and popular consciousnesses about the Taiping are really rather out of sync in the West. I'd argue that the Taiping War is probably one of the most studied periods in pre-republican Chinese history in the Anglophone historiography, with a new major narrative history written every two decades or so, and with a new book-length study of some specialised aspect being published every 2-3 years, and with plenty of articles in between. Even the Opium Wars and the 1911 Revolution don't attract that level of scholarly attention: for instance, after Douglas Hurd's *The Arrow War* in 1967, there wouldn't be a new narrative history of the Second Opium War until Harry Gelber's *The Battle for Beijing* in 2016, and that book is... questionable in terms of its overall quality; there has *never* been a scholarly monograph history of the 1911 Revolution in English.
 
@@ -93,7 +93,7 @@ In China it gets more complicated because of politics and political changes. To 
 
 In both cases, the shift in political ideology has come hand in hand with a shift in historical focus, away from events where Chinese people struggled against each other in what could be framed as the pursuit of internal change, towards events that can be spun as China standing against inherently predatory outside forces, to greater or lesser degrees of success. On top of that, as part of a general turn towards reinventing/readopting Chinese tradition, there has been a considerable rehabilitation of Chinese elite figures across the entire imperial period, but most pertinently during the late Qing. At one stage, some of these, most prominently Zeng Guofan, were excoriated as race-traitors for supporting the Manchu Qing against the Taiping (which gets into a complex ethnic dimension to it all as well, where the Taiping's agenda as a Han Chinese revolt against the Manchu has been variously emphasised and de-emphasised as attitudes towards ethnicity and nationhood have gone this way and that), and yet are now held up as exemplars of ideal Confucian virtue. So the Taiping have ended up going from celebrated People's Heroes to rather an awkward sore spot, not fitting into the narrative of Chinese resistance to imperialism, and also as the enemy to men (critically, men) who have been rehabilitated as national heroes.
 
------ __124.4__ -----2022-02-08 12:58:31+08:00:
+----- __125.4__ -----2022-02-08 12:58:31+08:00:
 
 On question 1, a very similar question was asked on r/AskHistorians a couple of months back which I answered in reference to the Qing, /u/Dongzhou3kingdoms in reference to the Han, and /u/10_thousandstars in reference to changes over time in civil service selection: https://www.reddit.com/r/AskHistorians/comments/s4uur3/did_the_various_ruling_dynasties_of_china_ever/. Admittedly perhaps my answer is closest to your particular phrasing here. Now, that need not be the be all and end all, but I think it is very much worth understanding that the apparent bureaucratisation of China has taken considerably different forms at different times, to the point where the late 19th/early 20th century German sociologist Max Weber characterised contemporary European polities as far more bureaucratic than imperial China ever was. Whether you agree with that assessment is another thing of course (Philip Kuhn, in *Soulstealers*, gives a much more nuanced approach while still using the theoretical basis of Weber's model).
 
@@ -109,9 +109,9 @@ At the same time, we ought to acknowledge that othering discourses have played t
 
 So there was an extent to which steppe nomads *were* more aggressive and more destructive against sedentary societies than other sedentary societies were, but it's an extent that was greatly exaggerated by sedentary authors trying to construct idealised opposites of 'civilisation' and 'barbarism'.
 
-### 125: [How did the Qing defeat the Mongols and consolidate control over Inner and Outer Mongolia?](https://old.reddit.com/r/WarCollege/comments/spdhsl/how_did_the_qing_defeat_the_mongols_and/), submitted on 2022-02-11 02:36:17+08:00.
+### 126: [How did the Qing defeat the Mongols and consolidate control over Inner and Outer Mongolia?](https://old.reddit.com/r/WarCollege/comments/spdhsl/how_did_the_qing_defeat_the_mongols_and/), submitted on 2022-02-11 02:36:17+08:00.
 
------ __125.1__ -----2022-02-11 14:16:41+08:00:
+----- __126.1__ -----2022-02-11 14:16:41+08:00:
 
 I ended up writing quite a long r/AskHistorians post on it [here](https://www.reddit.com/r/AskHistorians/comments/h108o3/how_did_the_qing_manage_to_subjugate_the_mongols/), based mainly on Peter Perdue's *China Marches West*. To summarise its main takeaways:
 
@@ -123,7 +123,7 @@ I ended up writing quite a long r/AskHistorians post on it [here](https://www.re
 
 But I'd recommend reading the full answer, or better yet Perdue's book, for full detail.
 
------ __125.2__ -----2022-02-11 14:19:18+08:00:
+----- __126.2__ -----2022-02-11 14:19:18+08:00:
 
 > the northern steppe threat existed in various forms all the way till 1991 (Russia and Soviet Union could be considered just a different form)
 
@@ -133,43 +133,43 @@ How so? Russia and the USSR were unitary, sedentary polities, not nomadic societ
 
 To echo /u/XXX_KimJongUn_XXX, that's untrue. The Jurchens->Manchus were very much sedentarised by the time of the unification of the tribes by Nurgaci and Hung Taiji. While there were some Mongol and Khorchin tribes in Manchuria itself incorporated into the Banners, the vast majority of Mongols under Qing rule were organised into a separate system of tribal 'banners' and not incorporated directly into the Manchu-led system.
 
-### 126: [Free for All Friday, 11 February 2022](https://old.reddit.com/r/badhistory/comments/spxszo/free_for_all_friday_11_february_2022/), submitted on 2022-02-11 20:00:13+08:00.
+### 127: [Free for All Friday, 11 February 2022](https://old.reddit.com/r/badhistory/comments/spxszo/free_for_all_friday_11_february_2022/), submitted on 2022-02-11 20:00:13+08:00.
 
------ __126.1__ -----2022-02-13 08:47:46+08:00:
+----- __127.1__ -----2022-02-13 08:47:46+08:00:
 
 Yep, it was you! Wasn't sure what policy would be around sharing the specifics of modmails, hence the only vague allusion to the tip-offs. Now, if we were to toot our own horn for a bit, we actually rather naively assumed that Quora would take action on Kevin if we sent a few reports in, and so we had kind of left things off in late November. What kicked off the full investigation as such was one mod checking in on Kevin out of curiosity on Monday and dragging me into just... the insanity.
 
 However, Kevin Richardson 'got taken down' by public pressure, not by Quora. While 'Quora Site Moderation' stopped Kevin from making edits, whatever that means, he nevertheless wiped his profile page and a few dozen answers before deactivating the account, something separate from an account ban issued by Quora themselves. Moreover, Kevin's sockpuppets weren't removed, and this is very important because, [as noted in my second thread](https://twitter.com/EMicrostate/status/1491763172130185216), *Kevin Richardson is not the OG plagiarist account*. That would be Josue Dennis Chance, or more specifically, Josue Dennis Chance Round 1: someone who claimed to be an ophthalmologist in Washington D.C. with expertise in African history and who knew Lingala, and who racked up 2.4m content views before being banned in September 2020. This, of course, was an *entirely separate* person, I'm sure, from the 'Josue Dennis Chance' who joined Quora in October 2020, who had the exact same profile picture, who claimed to *have been* an ophthalmologist who *used to* live in D.C., and who claimed expertise in African history and Lingala. So unless Quora goes ahead and proactively deals with all 15+ sockpuppets tied to Kevin, the whole thing can repeat if they lie low for a bit and then restart the sockpuppet network.
 
------ __126.2__ -----2022-02-14 04:06:34+08:00:
+----- __127.2__ -----2022-02-14 04:06:34+08:00:
 
 Hear, hear!
 
-### 127: [Hololive summer flare](https://old.reddit.com/r/Hololive/comments/sq6dsp/hololive_summer_flare/), submitted on 2022-02-12 02:41:28+08:00.
+### 128: [Hololive summer flare](https://old.reddit.com/r/Hololive/comments/sq6dsp/hololive_summer_flare/), submitted on 2022-02-12 02:41:28+08:00.
 
------ __127.1__ -----2022-02-12 11:52:34+08:00:
+----- __128.1__ -----2022-02-12 11:52:34+08:00:
 
 **FLEGS**
 
-### 128: [Congrats to Fauna for a sub-10 minute run in Getting Over It!](https://old.reddit.com/r/Hololive/comments/src9ya/congrats_to_fauna_for_a_sub10_minute_run_in/), submitted on 2022-02-13 14:37:59+08:00.
+### 129: [Congrats to Fauna for a sub-10 minute run in Getting Over It!](https://old.reddit.com/r/Hololive/comments/src9ya/congrats_to_fauna_for_a_sub10_minute_run_in/), submitted on 2022-02-13 14:37:59+08:00.
 
------ __128.1__ -----2022-02-13 14:38:43+08:00:
+----- __129.1__ -----2022-02-13 14:38:43+08:00:
 
 [Stream](https://www.youtube.com/watch?v=rnMyKoE3CAo) ~~is still ongoing as of posting~~ is now over, timestamp of the start of the run is [here](https://youtu.be/rnMyKoE3CAo?t=19662) at 5:27:42.\
 
 [Fauna tweet](https://twitter.com/ceresfauna/status/1492753066671546372)
 
------ __128.2__ -----2022-02-13 14:41:42+08:00:
+----- __129.2__ -----2022-02-13 14:41:42+08:00:
 
 If I've got my facts straight, supas were on during Arceus, but then after supa reading she played Getting Over It and didn't turn then back on.
 
------ __128.3__ -----2022-02-13 15:13:28+08:00:
+----- __129.3__ -----2022-02-13 15:13:28+08:00:
 
 It is, but she did a few Getting Over It runs after superchats.
 
-### 129: [What were the main differences in attitude towards traditional Chinese culture during the may 4th movement and the new culture movement compared to the cultural revolution?](https://old.reddit.com/r/AskHistorians/comments/srgsyj/what_were_the_main_differences_in_attitude/), submitted on 2022-02-13 19:37:00+08:00.
+### 130: [What were the main differences in attitude towards traditional Chinese culture during the may 4th movement and the new culture movement compared to the cultural revolution?](https://old.reddit.com/r/AskHistorians/comments/srgsyj/what_were_the_main_differences_in_attitude/), submitted on 2022-02-13 19:37:00+08:00.
 
------ __129.1__ -----2022-02-13 22:06:46+08:00:
+----- __130.1__ -----2022-02-13 22:06:46+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
