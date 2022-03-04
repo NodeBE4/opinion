@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-03
+date: 2022-03-04
 from: https://old.reddit.com/r/geopolitics/comments/t38jvu/a_great_divide_unlike_humanity_has_ever_seen/
 layout: post
 tags:
@@ -159,4 +159,18 @@ With respect to the current conflict in which Russia invaded Ukraine without pro
 ----- __143.1__ -----2022-03-04 12:16:36+08:00:
 
 This is really close to domestic politics, but I think in this limited case the discussion is worth having.
+
+### 144: [Reddit blocked ALL domains under Russian ccTLD (.ru), any submission including a link to .ru websites will be removed by Reddit automatically and mods cannot manually approve it.](https://old.reddit.com/r/ModSupport/comments/t66l5f/reddit_blocked_all_domains_under_russian_cctld_ru/), submitted on 2022-03-04 08:58:21+08:00.
+
+----- __144.1__ -----2022-03-04 13:06:24+08:00:
+
+> As to why this wasn't communicated, there is a lot of things going on right now and sometimes moving fast means missing steps along the way (like sharing with mods). We did not intend to hide this decision.
+
+Realize that your decision to ban all Russian domains have meant that any native effort to identify or dispel Russian disinformation, misinformation and/or false narratives on Reddit, with links to specific examples thereof, are almost certainly ensnared by that censorship.  
+
+I've already identified one case that affected me directly, and I'm sure there are and will continue to be more.  
+
+I encourage the admins to reflect on Jeff Goldblum's wisdom from Jurassic Park:
+
+https://www.youtube.com/watch?v=mRNX6XJOeGU
 

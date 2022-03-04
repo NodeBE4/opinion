@@ -222,9 +222,15 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 Thank you!
 
-### 191: [What event after Archduke Franz Ferdinand’s death made WW1 an absolute inevitability?](https://old.reddit.com/r/AskHistorians/comments/t5g8u9/what_event_after_archduke_franz_ferdinands_death/), submitted on 2022-03-03 09:57:36+08:00.
+### 191: [Gen 3 Out to Eat [Hololive]](https://old.reddit.com/r/2DGirlsEatingCutely/comments/t5dg4h/gen_3_out_to_eat_hololive/), submitted on 2022-03-03 07:36:46+08:00.
 
------ __191.1__ -----2022-03-03 11:49:16+08:00:
+----- __191.1__ -----2022-03-04 12:50:02+08:00:
+
+I'd say it's 'apparently' in that the termination notice didn't specifically state an NDA violation, only that she leaked information and spread falsehoods to outside third parties. As an NDA only pertains to the terms of the agreement in and of itself, if she didn't leak the terms of the agreement in and of itself that could be a general contract violation without being a specific NDA violation.
+
+### 192: [What event after Archduke Franz Ferdinand’s death made WW1 an absolute inevitability?](https://old.reddit.com/r/AskHistorians/comments/t5g8u9/what_event_after_archduke_franz_ferdinands_death/), submitted on 2022-03-03 09:57:36+08:00.
+
+----- __192.1__ -----2022-03-03 11:49:16+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -232,31 +238,21 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 192: [Following Switzerland, amongst many other countries denouncement of Russia, is this the most united Europe has ever been?](https://old.reddit.com/r/AskHistorians/comments/t5i82z/following_switzerland_amongst_many_other/), submitted on 2022-03-03 11:39:40+08:00.
+### 193: [Following Switzerland, amongst many other countries denouncement of Russia, is this the most united Europe has ever been?](https://old.reddit.com/r/AskHistorians/comments/t5i82z/following_switzerland_amongst_many_other/), submitted on 2022-03-03 11:39:40+08:00.
 
------ __192.1__ -----2022-03-03 12:43:12+08:00:
+----- __193.1__ -----2022-03-03 12:43:12+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 193: [Are there any good, easy books on the Sui or T'ang Dynasties of China?](https://old.reddit.com/r/AskHistorians/comments/t5igvw/are_there_any_good_easy_books_on_the_sui_or_tang/), submitted on 2022-03-03 11:52:48+08:00.
+### 194: [Are there any good, easy books on the Sui or T'ang Dynasties of China?](https://old.reddit.com/r/AskHistorians/comments/t5igvw/are_there_any_good_easy_books_on_the_sui_or_tang/), submitted on 2022-03-03 11:52:48+08:00.
 
------ __193.1__ -----2022-03-03 19:02:16+08:00:
+----- __194.1__ -----2022-03-03 19:02:16+08:00:
 
 For what it's worth (and letting u/RiceEatingSavage know), both the *History of Imperial China* series, to which Lewis' *China's Cosmopolitan Empire* belongs, and the *Cambridge History of China* are both listed on the booklist, even if the individual volumes aren't.
 
-### 194: [Is the 1962 documentary "T. E. Lawrence 1888-1935" Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?](https://old.reddit.com/r/AskHistorians/comments/t5iuvq/is_the_1962_documentary_t_e_lawrence_18881935/), submitted on 2022-03-03 12:13:49+08:00.
+### 195: [Is the 1962 documentary "T. E. Lawrence 1888-1935" Directed by Malcolm Brown, Philip Donnellan avaliable anywhere on or offline?](https://old.reddit.com/r/AskHistorians/comments/t5iuvq/is_the_1962_documentary_t_e_lawrence_18881935/), submitted on 2022-03-03 12:13:49+08:00.
 
------ __194.1__ -----2022-03-03 12:43:35+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 195: [Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?](https://old.reddit.com/r/AskHistorians/comments/t5j8dq/is_there_a_moment_in_history_were_a_leader_has/), submitted on 2022-03-03 12:34:16+08:00.
-
------ __195.1__ -----2022-03-03 12:43:25+08:00:
+----- __195.1__ -----2022-03-03 12:43:35+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -264,9 +260,19 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 196: [Historians, What do you think would have happened if ww1 never started?](https://old.reddit.com/r/AskHistorians/comments/t600ix/historians_what_do_you_think_would_have_happened/), submitted on 2022-03-04 03:49:57+08:00.
+### 196: [Is there a moment in history we’re a leader has abused their power hurting the people they leAd / followers?](https://old.reddit.com/r/AskHistorians/comments/t5j8dq/is_there_a_moment_in_history_were_a_leader_has/), submitted on 2022-03-03 12:34:16+08:00.
 
------ __196.1__ -----2022-03-04 04:02:08+08:00:
+----- __196.1__ -----2022-03-03 12:43:25+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 197: [Historians, What do you think would have happened if ww1 never started?](https://old.reddit.com/r/AskHistorians/comments/t600ix/historians_what_do_you_think_would_have_happened/), submitted on 2022-03-04 03:49:57+08:00.
+
+----- __197.1__ -----2022-03-04 04:02:08+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
