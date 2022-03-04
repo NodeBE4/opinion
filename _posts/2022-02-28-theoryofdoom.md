@@ -160,9 +160,26 @@ With respect to the current conflict in which Russia invaded Ukraine without pro
 
 This is really close to domestic politics, but I think in this limited case the discussion is worth having.
 
-### 144: [Reddit blocked ALL domains under Russian ccTLD (.ru), any submission including a link to .ru websites will be removed by Reddit automatically and mods cannot manually approve it.](https://old.reddit.com/r/ModSupport/comments/t66l5f/reddit_blocked_all_domains_under_russian_cctld_ru/), submitted on 2022-03-04 08:58:21+08:00.
+### 144: [Invasions Are Not Contagious: Russia’s War in Ukraine Doesn’t Presage a Chinese Assault on Taiwan](https://old.reddit.com/r/geopolitics/comments/t5u0p1/invasions_are_not_contagious_russias_war_in/), submitted on 2022-03-03 23:25:36+08:00.
 
------ __144.1__ -----2022-03-04 13:06:24+08:00:
+----- __144.1__ -----2022-03-04 21:17:35+08:00:
+
+The credible threat of meaningful external opposition preempts any other consideration Xi may have in Taiwan.  As in, if Xi knows the United States will act to prevent any such reunification, he won't do it.  Yet for some incoherent reason, Oriana Skylar Mastro argues Ukraine is no bellwether to gauge the extent of other actors' willingness to resist that kind of aggression.  
+
+According to Mastro, on the one hand:
+
+* The Chinese Communist Party and its leadership has been considering so-called "armed reunification" --- whatever that means --- "more seriously than at any time in 50 years."
+* Further, "Xi will assert Chinese control over the island only if he is confident his military can conduct a successful amphibious invasion and if he believes the timing is right for his own career."
+
+But on the other hand:
+
+* Mastro argues "nothing Russia or its adversaries have done meaningfully alters the calculus on Taiwan," even though by this author's admission, "Russia’s invasion of Ukraine has certainly changed [read: redefined all] aspects of the international order."
+
+When I have to suspend disbelief to take an an argument seriously, questions of other motives arise.  This article's analysis is internally contradictory and borders the nonsensical.
+
+### 145: [Reddit blocked ALL domains under Russian ccTLD (.ru), any submission including a link to .ru websites will be removed by Reddit automatically and mods cannot manually approve it.](https://old.reddit.com/r/ModSupport/comments/t66l5f/reddit_blocked_all_domains_under_russian_cctld_ru/), submitted on 2022-03-04 08:58:21+08:00.
+
+----- __145.1__ -----2022-03-04 13:06:24+08:00:
 
 > As to why this wasn't communicated, there is a lot of things going on right now and sometimes moving fast means missing steps along the way (like sharing with mods). We did not intend to hide this decision.
 
@@ -174,7 +191,7 @@ I encourage the admins to reflect on Jeff Goldblum's wisdom from Jurassic Park:
 
 https://www.youtube.com/watch?v=mRNX6XJOeGU
 
------ __144.2__ -----2022-03-04 20:48:40+08:00:
+----- __145.2__ -----2022-03-04 20:48:40+08:00:
 
 > Reddit almost certainly has cybersecurity experts 
 
@@ -184,9 +201,13 @@ This is a censorship, not a cybersecurity issue.
 
 That's funny, but improbable.
 
------ __144.3__ -----2022-03-04 20:49:35+08:00:
+----- __145.3__ -----2022-03-04 20:49:35+08:00:
 
 > Those are significantly less common than the disinformation itself. If you are directly removing a huge source of disinformation, who cares about the small amount of anti-disinformation going with it?
 
 By that logic, we might as well just shut down the entire internet and all social media of any kind.
+
+----- __145.4__ -----2022-03-04 20:56:07+08:00:
+
+Noting for the record that I agree Reddit's purported "decision" to block all links to any Russian domains is fundamentally idiotic.  Censorship does not curtail the harm of disinformation, misinformation or propaganda.  Rather, it has the opposite effect.  At what point will past mistakes be learned from?
 
