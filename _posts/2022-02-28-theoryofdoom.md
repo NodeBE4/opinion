@@ -211,3 +211,11 @@ By that logic, we might as well just shut down the entire internet and all socia
 
 Noting for the record that I agree Reddit's purported "decision" to block all links to any Russian domains is fundamentally idiotic.  Censorship does not curtail the harm of disinformation, misinformation or propaganda.  Rather, it has the opposite effect.  At what point will past mistakes be learned from?
 
+----- __145.5__ -----2022-03-05 00:19:16+08:00:
+
+What keen and piercing insight.
+
+----- __145.6__ -----2022-03-05 00:21:46+08:00:
+
+Seems like the point of what I said is lost on you.
+
