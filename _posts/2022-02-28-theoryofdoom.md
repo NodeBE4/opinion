@@ -174,3 +174,19 @@ I encourage the admins to reflect on Jeff Goldblum's wisdom from Jurassic Park:
 
 https://www.youtube.com/watch?v=mRNX6XJOeGU
 
+----- __144.2__ -----2022-03-04 20:48:40+08:00:
+
+> Reddit almost certainly has cybersecurity experts 
+
+This is a censorship, not a cybersecurity issue.  
+
+> fuck, they might even have the CIA
+
+That's funny, but improbable.
+
+----- __144.3__ -----2022-03-04 20:49:35+08:00:
+
+> Those are significantly less common than the disinformation itself. If you are directly removing a huge source of disinformation, who cares about the small amount of anti-disinformation going with it?
+
+By that logic, we might as well just shut down the entire internet and all social media of any kind.
+
