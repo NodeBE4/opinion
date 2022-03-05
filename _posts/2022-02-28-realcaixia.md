@@ -147,3 +147,7 @@ Re @FangYiDuan1 中华民族
 
 Re @Samsams27525708 @FangYiDuan1 台湾是中华民国。中华民国是孙中山先生的政治遗产，其前提就是台海两岸同文同种，同一个民族同一个祖先。
 
+### 34: [2022-03-05 11:42:27+08:00 推文](https://twitter.com/realcaixia/status/1499953461454069760)
+
+请看《议报》发布的侨胞请愿信。从乌克兰撤回国，侨胞需承担从罗马尼亚回国机票17999元。<br>查网上2022年3月布加勒斯特飞中国单程特价机票和正常预定便宜票，17999元的票价显然高到难以置信。<br>国家有责任撤侨，侨胞请愿合情合理。2020疫情肆虐侨胞也曾回不了国，此情再次重演？ <a href="https://yibaochina.com/?p=245230" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245230</a>
+
