@@ -219,6 +219,25 @@ What keen and piercing insight.
 
 Seems like the point of what I said is lost on you.
 
+----- __145.7__ -----2022-03-06 03:33:11+08:00:
+
+> you can’t just block a entire country cause you don’t agree with them
+
+Apparently they can.  And what a fantastic precedent.  Tit for tat.  Russian government vs. American social media.  
+
+Reddit bans all Russian domains under the pretext of "cybersecurity," which is really just the new word they've labeled on what was previously called "misinformation" --- that it turns out they were incapable of even identifying, much less appropriately addressing.  In effect, they turned out to be little more than blatant censorship. 
+
+So, in response, Russia initiates bans of American social media and starts arresting people for spreading "misinformation," and passes a series of sweeping new laws that amount to little more than blatant censorship.  
+
+Both are censoring speech, which will have the obviously foreseeable effect of curtailing political dissent of any kind.  Just like happened not too long ago in one context.  And such measures have been a prominent feature of all authoritarian governments throughout the 20th century and before. 
+
+Instead of letting facts be submitted in a candid world, we're now seeing just the opposite. 
+ Looks like even Novaya Gazeta (Новая газета) --- which serves the purpose and function of countering each and every item of propaganda, disinformation, misinformation and other lies from the Russian government, in addition to highlighting the barbarism, brutality and corruption of Vladimir Putin's government --- is banned.  
+
+So what's next?  Banning every user on Reddit with a Russian IP address?  It turns out that the overwhelming majority of Russians oppose Putin's idiotic war.  But there is no better way to tip the scale in Putin's favor than by engaging in actions which reinforce the propaganda, misinformation, disinformation and other false narratives he's used to gain any support in the first place.  Which is exactly what Reddit has done here.
+
+The point is to be better.  To be an example.  To conduct yourselves according to the values of of a democratic and free society.  Yet, Reddit (and apparently this whole industry) has chosen the opposite path.
+
 ### 146: [What If Russia Loses?: A Defeat for Moscow Won’t Be a Clear Victory for the West](https://old.reddit.com/r/geopolitics/comments/t6l2bt/what_if_russia_loses_a_defeat_for_moscow_wont_be/), submitted on 2022-03-04 23:11:11+08:00.
 
 ----- __146.1__ -----2022-03-06 01:01:25+08:00:
