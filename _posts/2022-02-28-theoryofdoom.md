@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-05
+date: 2022-03-06
 from: https://old.reddit.com/r/geopolitics/comments/t38jvu/a_great_divide_unlike_humanity_has_ever_seen/
 layout: post
 tags:
@@ -248,15 +248,27 @@ I am really getting tired of seeing Michael Kimmage's articles.  Setting aside t
 
 The editorial board should consider whether repeatedly publishing this sort of low-brow content is consistent with Foreign Affairs' readers' expectations.  This isn't the first time I've communicated these observations either.  Since certain leadership changes several years back I have been disappointed to see this stuff getting through.
 
-### 147: [Elon, defender of free speech](https://old.reddit.com/r/walkaway/comments/t7atje/elon_defender_of_free_speech/), submitted on 2022-03-05 22:40:31+08:00.
+### 147: [In case anyone was still wondering whether the recent shift away from masks, mandates, and restrictions was "for the science" or for some other reason...](https://old.reddit.com/r/CoronavirusIllinois/comments/t6wfk0/in_case_anyone_was_still_wondering_whether_the/), submitted on 2022-03-05 07:52:49+08:00.
 
------ __147.1__ -----2022-03-06 00:51:05+08:00:
+----- __147.1__ -----2022-03-06 05:50:34+08:00:
+
+Off topic.
+
+### 148: [Elon, defender of free speech](https://old.reddit.com/r/walkaway/comments/t7atje/elon_defender_of_free_speech/), submitted on 2022-03-05 22:40:31+08:00.
+
+----- __148.1__ -----2022-03-06 00:51:05+08:00:
 
 Even if at gunpoint, I still wouldn't.  As soon as you start compromising on values, it's a slippery slope from there.
 
-### 148: [Foundations of Geo politics by Aleksandr Dugin](https://old.reddit.com/r/geopolitics/comments/t7bcnj/foundations_of_geo_politics_by_aleksandr_dugin/), submitted on 2022-03-05 23:06:47+08:00.
+### 149: [Foundations of Geo politics by Aleksandr Dugin](https://old.reddit.com/r/geopolitics/comments/t7bcnj/foundations_of_geo_politics_by_aleksandr_dugin/), submitted on 2022-03-05 23:06:47+08:00.
 
------ __148.1__ -----2022-03-06 01:06:21+08:00:
+----- __149.1__ -----2022-03-06 01:06:21+08:00:
 
 Google it.
+
+### 150: [Russian Sanctions and Global Economic Risk](https://old.reddit.com/r/geopolitics/comments/t7js4f/russian_sanctions_and_global_economic_risk/), submitted on 2022-03-06 05:53:08+08:00.
+
+----- __150.1__ -----2022-03-06 06:01:33+08:00:
+
+Submission Statement: This video essay explains at a general level what sanctions have been placed on Russia, how they work and what risks are associated with their imposition.  Particularly with respect to SWIFT and the Russian Central Bank, this video essay lays essential foundation for the significance of these statecraft tools, both in terms of benefits and risks.  For some here, this video won't tell you anything you didn't already know.  But I suspect for most, you'll be enabled to better understand what is happening in the world right now.
 
