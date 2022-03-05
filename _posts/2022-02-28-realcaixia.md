@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-05
+date: 2022-03-06
 from: https://twitter.com/realcaixia/status/1498069293073850370
 layout: post
 tags:
@@ -150,4 +150,16 @@ Re @Samsams27525708 @FangYiDuan1 台湾是中华民国。中华民国是孙中�
 ### 34: [2022-03-05 11:42:27+08:00 推文](https://twitter.com/realcaixia/status/1499953461454069760)
 
 请看《议报》发布的侨胞请愿信。从乌克兰撤回国，侨胞需承担从罗马尼亚回国机票17999元。<br>查网上2022年3月布加勒斯特飞中国单程特价机票和正常预定便宜票，17999元的票价显然高到难以置信。<br>国家有责任撤侨，侨胞请愿合情合理。2020疫情肆虐侨胞也曾回不了国，此情再次重演？ <a href="https://yibaochina.com/?p=245230" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245230</a>
+
+### 35: [2022-03-05 22:10:16+08:00 推文](https://twitter.com/realcaixia/status/1500111456196567040)
+
+特别推荐《议报》发布文建又一重磅文章。<br><br>文建指出：美欧日资金仍在通过中国不停地输往俄罗斯，必须切断俄侵乌的后勤供给。<br><br>文章提问：专制国家的经济增长极可能加强其统治的本钱。如果习治下的中国成为下一个俄罗斯，而其经济体量是俄的十倍以上，那时西方世界将如何应对？ <a href="https://yibaochina.com/?p=245234" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245234</a>
+
+### 36: [2022-03-05 23:02:06+08:00 推文](https://twitter.com/realcaixia/status/1500124498548379651)
+
+请看BBC的视频报道。<br>运用现代高科技力量，维护世界和平，支援反对侵略战争的国家和人民。北约组织在履行自己的责职。<br>BBC记者现场报道北约组织空中办公实况。<br><br>BBC News 中文: 俄罗斯入侵乌克兰后，北约的举动备受关注。<br><br>BBC记者洁西卡·帕克（Jessica Parker）获得罕见批准，登上了一架巡查波兰与乌克兰和白俄罗斯边境的北约“空中之眼”，近距离观察他们最近的工作。<br><br><video src="https://video.twimg.com/amplify_video/1499707512924295171/vid/1280x720/HvRjN5WF1GMLyLDE.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FNDTd-QX0AM4zW2?format=jpg&amp;name=orig"></video>
+
+### 37: [2022-03-06 00:00:01+08:00 推文](https://twitter.com/realcaixia/status/1500139073738006531)
+
+推荐《议报》<br>自锁链女被披露引发公愤后，人们始终要求揭露真相、彻查事件、解救锁链女。然而彭丽媛作为联合国教科文组织“促进女童和妇女教育特使”，竟然至今没有公开置评一句！<br>有鉴于此，海内外人士发起全球公开联署，促请联合国免去其赋予彭丽媛女士女童妇女教育特使的称号 <a href="https://yibaochina.com/?p=245237" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245237</a>
 
