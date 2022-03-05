@@ -163,3 +163,19 @@ Re @Samsams27525708 @FangYiDuan1 台湾是中华民国。中华民国是孙中�
 
 推荐《议报》<br>自锁链女被披露引发公愤后，人们始终要求揭露真相、彻查事件、解救锁链女。然而彭丽媛作为联合国教科文组织“促进女童和妇女教育特使”，竟然至今没有公开置评一句！<br>有鉴于此，海内外人士发起全球公开联署，促请联合国免去其赋予彭丽媛女士女童妇女教育特使的称号 <a href="https://yibaochina.com/?p=245237" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245237</a>
 
+### 38: [2022-03-06 05:39:47+08:00 推文](https://twitter.com/realcaixia/status/1500224580581003268)
+
+推荐《议报》发布的著名学者张鸣教授的文章。<br>张鸣教授分析普金发动侵乌战争的新欧亚主义，实质是沙皇俄国传统哲学的当代表达。<br>习当局利用冷战思维煽动反美情绪，支持普京侵乌战争。其实从沙俄到斯大林一直侵占中国土地，现在普京利用习当局，更加狡猾地多方侵占中国利益。 <a href="https://yibaochina.com/?p=245225" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245225</a>
+
+### 39: [2022-03-06 05:53:03+08:00 推文](https://twitter.com/realcaixia/status/1500227918101983237)
+
+特别推荐这位推友从德文翻译过来的中文版的俄国科学家和科学记者反对普京侵略乌克兰的反战声明。<br>普京发动侵略战争遭到全世界反对，俄国人民同样强烈反对，并且不畏强暴公开声明和上街游行抗议示威。只有习当局对大陆民众谎言欺骗，煽动反美支持普京，将中国人推入不义深渊。<br><br>ZHANGDONG: 2月24日普京发动的乌克兰战争爆发当天，俄国科学家和科学记者发表反战联署公开信，强烈抗议俄军武装入侵乌克兰，公开谴责俄国是军事侵略者，是流氓国家，普京这场战争只能把俄国带入深渊。<br>尽管反战公开信原文已被官方封杀，发布公开信的俄国网站还保留了签名页面。截止于3月4日，已有7650人参加联署。<br><br><img style="" src="https://pbs.twimg.com/media/FNG-kbHXIAM89dO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNG-kyWXoAsND8H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNG-lGKXEAAyxjC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNG-lWXXsAIpvCr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-03-06 06:50:50+08:00 推文](https://twitter.com/realcaixia/status/1500242460500447239)
+
+这个视频让我感动。请看这个孩子，一次次脱帽致敬。这样的孩子从小心里植根的是文明、善良，爱与艺术。<br><br>菲菲4.0: 人性需要从儿时根植于心，教育的目标不是学历，而是人性与良知。——古斯塔夫·勒庞<br><br><video src="https://video.twimg.com/ext_tw_video/1498422958213193730/pu/vid/720x1232/20Hd8fFo0u-YSBEU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1498422958213193730/pu/img/xKcbg46HqTPlZQcS.jpg"></video>
+
+### 41: [2022-03-06 06:58:33+08:00 推文](https://twitter.com/realcaixia/status/1500244403654479875)
+
+这是习当局水军的新伎俩。习统治集团搞极权意识形态的对外渗透、巧言令色、欺世蒙人的本事比戈培尔大多了。<br><br>荣剑: 水军统一底稿，批发零售。<br><br><img style="" src="https://pbs.twimg.com/media/FM-qXzmUYAUm--S?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FM-qYJJVkAAvHei?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
