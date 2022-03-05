@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-04
+date: 2022-03-05
 from: https://old.reddit.com/r/geopolitics/comments/t38jvu/a_great_divide_unlike_humanity_has_ever_seen/
 layout: post
 tags:
@@ -218,4 +218,26 @@ What keen and piercing insight.
 ----- __145.6__ -----2022-03-05 00:21:46+08:00:
 
 Seems like the point of what I said is lost on you.
+
+### 146: [What If Russia Loses?: A Defeat for Moscow Won’t Be a Clear Victory for the West](https://old.reddit.com/r/geopolitics/comments/t6l2bt/what_if_russia_loses_a_defeat_for_moscow_wont_be/), submitted on 2022-03-04 23:11:11+08:00.
+
+----- __146.1__ -----2022-03-06 01:01:25+08:00:
+
+> Michael Kimmage
+
+I am really getting tired of seeing Michael Kimmage's articles.  Setting aside the fact that his analysis almost never rises above the level of internally contradictory speculation, on his best day all he does is repeat other people's ideas.  This particular article, along with everything else Kimmage has published in Foreign Affairs since last year, is below even Buzzfeed's standards.  
+
+The editorial board should consider whether repeatedly publishing this sort of low-brow content is consistent with Foreign Affairs' readers' expectations.  This isn't the first time I've communicated these observations either.  Since certain leadership changes several years back I have been disappointed to see this stuff getting through.
+
+### 147: [Elon, defender of free speech](https://old.reddit.com/r/walkaway/comments/t7atje/elon_defender_of_free_speech/), submitted on 2022-03-05 22:40:31+08:00.
+
+----- __147.1__ -----2022-03-06 00:51:05+08:00:
+
+Even if at gunpoint, I still wouldn't.  As soon as you start compromising on values, it's a slippery slope from there.
+
+### 148: [Foundations of Geo politics by Aleksandr Dugin](https://old.reddit.com/r/geopolitics/comments/t7bcnj/foundations_of_geo_politics_by_aleksandr_dugin/), submitted on 2022-03-05 23:06:47+08:00.
+
+----- __148.1__ -----2022-03-06 01:06:21+08:00:
+
+Google it.
 
