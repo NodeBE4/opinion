@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-04
+date: 2022-03-05
 from: https://old.reddit.com/r/TrueReddit/comments/t3qfff/when_antibiotics_stop_working_the_next_pandemic/
 layout: post
 tags:
@@ -56,4 +56,12 @@ Shifts in the international environment would be important for Taiwan if they ch
 "Putin will be unable to win this war on his preferred terms. Indeed, there are several ways in which he could ultimately lose. He could mire his military in a costly and futile occupation of Ukraine, decimating the morale of Russia’s soldiers, consuming resources, and delivering nothing in return but the hollow ring of Russian greatness and a neighboring country reduced to poverty and chaos. He could create some degree of control over parts of eastern and southern Ukraine and probably Kyiv, while fighting a Ukrainian insurgency operating from the west and engaged in guerrilla warfare across the country—a scenario that would be reminiscent of the partisan warfare that took place in Ukraine during World War II. At the same time, he would preside over the gradual economic degradation of Russia, its growing isolation, and its increasing inability to supply the wealth on which great powers rely. And, most consequentially, Putin could lose the support of the Russian people and elites, on whom he depends to prosecute the war and maintain his hold on power, even though Russia is not a democracy.
 
 Putin seems to be trying to reestablish some form of Russian imperialism. But in taking this extraordinary gamble, he seems to have failed to recall the events that set in motion the end of the Russian empire. The final Russian tsar, Nicholas II, lost a war against Japan in 1905. He later fell victim to the Bolshevik Revolution, losing not just his crown but his life. The lesson: autocratic rulers cannot lose wars and remain autocrats."
+
+### 145: [Russia’s Menacing Mix of Religion and Nuclear Weapons: In the Kremlin, Faith and Force Go Hand in Hand](https://old.reddit.com/r/TrueReddit/comments/t7ble1/russias_menacing_mix_of_religion_and_nuclear/), submitted on 2022-03-05 23:19:02+08:00.
+
+----- __145.1__ -----2022-03-05 23:20:02+08:00:
+
+\[SS from the article by Dmitry Adamsky, Professor at the School of Government, Diplomacy and Strategy, Reichman University\]
+
+"If Putin uses religion to enhance nuclear coercion, his actions may start to resemble “madman theory,” in which a leader acts somewhat irrationally in order to make his threats appear credible. If coercive signals that combine nuclear brandishing with messianic rhetoric start arriving from Moscow, it will be a brand-new experience for the world. The West will have even more trouble analyzing Putin and discerning his plans."
 
