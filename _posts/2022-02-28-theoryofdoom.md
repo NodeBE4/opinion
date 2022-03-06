@@ -288,3 +288,35 @@ Let ideas rise or fall on their merits, and their merits alone.
 
 This is not the Soviet Union.  We do not "denounce" people, or at least we didn't when we still knew who we were.  Now, only this shit is left.
 
+----- __152.2__ -----2022-03-07 05:00:56+08:00:
+
+> I was actually inclined to argue with you about your first point, but then I opened your comment history
+
+Good.  There's more to that story but I'm not inclined to comment further in a public setting.
+
+----- __152.3__ -----2022-03-07 05:07:23+08:00:
+
+[Yep](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fi1.wp.com%2Fwww.mikerindersblog.org%2Fwp-content%2Fuploads%2F2014%2F12%2FGolden-Turd-Award-Copy.jpg&f=1&nofb=1).
+
+### 153: [How common is this in Russia? Is this more of an isolated case or is it quite common? Police brutality in Ekaterinburg, Russian cops showing their true colors](https://old.reddit.com/r/AskARussian/comments/t7zp5e/how_common_is_this_in_russia_is_this_more_of_an/), submitted on 2022-03-06 22:19:05+08:00.
+
+----- __153.1__ -----2022-03-07 04:51:15+08:00:
+
+> *every protest in every city
+
+This is correct.
+
+----- __153.2__ -----2022-03-07 04:53:28+08:00:
+
+> excessive force?
+
+This concept does not really apply in Russia.  When American see police brutality, they are shocked and horrified.  When people who do not live in the United States see it, they shake their head and think "another Tuesday."
+
+----- __153.3__ -----2022-03-07 05:14:54+08:00:
+
+American police are, for the most part, professional and among the least corrupt in the world.  For example, in the United States you cannot just bribe the police to get out of a ticket.  Try that and you will go to jail.  In most countries in central or eastern Europe, it is the opposite.  They initiate confrontation for the sole purpose of seeking a handout.  This does not happen in the United States. 
+
+In Russia, the police serve to reinforce the power of the state.  The law is whatever the current political leadership says it is.  Follow that directive and your behavior is sanctioned.  Deviate from it and you will be imprisoned.  This is "criminal justice" in Russia.  You have seen what Vladimir Putin did to Sergei Magnitsky, for example.  The only reason anyone cared outside of Russia is because Bill Browder was Magnitsky's client.  
+
+The only difference between organized crime and "the police" in Russia is that police wear a uniform.  This is the norm, it has been the norm since before the Soviet Union and it will not change.  Want to try to change it?  Good luck.  You'll end up like Anna Politkovskya or Boris Nemstov.
+
