@@ -31,3 +31,11 @@ Re @KokoFDK 感谢您的理解和鼓励。🌹🤝
 
 Re @jefflee81258649 Thank you so much.
 
+### 5: [2022-03-07 04:31:05+08:00 推文](https://twitter.com/realcaixia/status/1500569679911346181)
+
+普京发动侵略战争后，习当局在大陆封杀一切反战声音。这位网友幸亏生活在欧洲，否则不仅秒删帖文，还有被喝茶、被训戒、被罚款、被迫电视自辱、甚至被拘禁、被判刑。<br><br>ZHANGDONG: 2月24日普京发动的乌克兰战争爆发当天，俄国科学家和科学记者发表反战联署公开信，强烈抗议俄军武装入侵乌克兰，公开谴责俄国是军事侵略者，是流氓国家，普京这场战争只能把俄国带入深渊。<br>尽管反战公开信原文已被官方封杀，发布公开信的俄国网站还保留了签名页面。截止于3月4日，已有7650人参加联署。<br><br><img style="" src="https://pbs.twimg.com/media/FNG-kbHXIAM89dO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNG-kyWXoAsND8H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNG-lGKXEAAyxjC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNG-lWXXsAIpvCr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-03-07 06:14:48+08:00 推文](https://twitter.com/realcaixia/status/1500595781757198342)
+
+乌克兰人民的血战抵抗，欧美国家的空前团结支援乌克兰，实际上已成为东方专制主义与欧美自由民主的生死博弈。美国与欧洲国家加大支持乌克兰人民的力度，是符合欧美各国自身利益的。在这个历史的关键时刻，真期望欧美国家的政治家们中，涌现出21世纪的邱吉尔、富兰克林.罗斯福。<br><br>韩连潮: 美国国务卿布林肯刚表示，拜登政府已正式开绿灯，让北约向乌克兰提供战机。有人担心此举会导致战争升级，但似乎北约提供的前东欧国家的战机，属于转让性质。<br> <a href="https://twitter.com/lianchaohan/status/1500521302288965641" target="_blank" rel="noopener noreferrer">https://twitter.com/lianchaohan/status/1500521302288965641</a>
+
