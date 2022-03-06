@@ -278,3 +278,13 @@ Submission Statement: This video essay explains at a general level what sanction
 
 Off topic.
 
+### 152: [University of Chicago students circulating a letter calling for the cancellation of John Mearsheimer over “Putinism,” “anti-Ukrainian ideology,”](https://old.reddit.com/r/stupidpol/comments/t7wdxl/university_of_chicago_students_circulating_a/), submitted on 2022-03-06 18:52:08+08:00.
+
+----- __152.1__ -----2022-03-07 04:32:05+08:00:
+
+John Mearsheimer is an idiot and a paid whore.  As my comment history here alone reflects, I've been going after him since before it was cool.  But when you have such an abundance, and indeed an entire academic career worth, of stupid ideas to refute on their merits, to "cancel" him is pathetically lazy.  Censorship is not the appropriate response to ideas you don't like.  Refutation is.
+
+Let ideas rise or fall on their merits, and their merits alone.  
+
+This is not the Soviet Union.  We do not "denounce" people, or at least we didn't when we still knew who we were.  Now, only this shit is left.
+
