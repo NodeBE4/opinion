@@ -23,7 +23,7 @@ Thank you so much @NikkeiAsia & @michan_hk for featuring "Freedom." It's indeed 
 
 ### 2: [2022-01-25 22:00:40+08:00 推文](https://twitter.com/nathanlawkc/status/1485975911291834374)
 
-The only reason why I am a criminal in YOUR (Hong Kong) justice system is that the system is compromised to persecute democratic activists and suppress basic rights.<br>Obviously, Regina Ip, and many other CCP mouthpieces are propaganda tools. I am a Hongkonger, and will forever be.<br><img style src="https://pbs.twimg.com/media/FJ8_NtyWUAEkJ1C?format=jpg&name=orig" referrerpolicy="no-referrer">
+The only reason why I am a criminal in YOUR (Hong Kong) justice system is that the system is compromised to persecute democratic activists and suppress basic rights.<br>Obviously, Regina Ip, and many other CCP mouthpieces are propaganda tools. I am a Hongkonger, and will forever be.<br><img style="" src="https://pbs.twimg.com/media/FJ8_NtyWUAEkJ1C?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-28 00:10:43+08:00 推文](https://twitter.com/nathanlawkc/status/1486733416556994569)
 
