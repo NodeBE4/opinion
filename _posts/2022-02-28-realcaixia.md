@@ -179,3 +179,7 @@ Re @Samsams27525708 @FangYiDuan1 台湾是中华民国。中华民国是孙中�
 
 这是习当局水军的新伎俩。习统治集团搞极权意识形态的对外渗透、巧言令色、欺世蒙人的本事比戈培尔大多了。<br><br>荣剑: 水军统一底稿，批发零售。<br><br><img style="" src="https://pbs.twimg.com/media/FM-qXzmUYAUm--S?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FM-qYJJVkAAvHei?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 42: [2022-03-06 11:56:00+08:00 推文](https://twitter.com/realcaixia/status/1500319260069044224)
+
+《议报》最新发布：公民力量声明<br><br>声明强调：世界正义力量在制裁普京政权的同时，不能忽视习当局的战争共犯角色。声明历数了习当局站在普京一边，以多种方式支持和纵容普京，企图使国际制裁减效失效的种种邪恶做法。<br><br>公民力量强烈呼吁：在对普京政权采取经济和军事行动的同时必须对习当局同样采取行动<br><br>公民力量: 公民力量声明：民主世界必须对普京发动侵乌战争的共犯习近平当局采取行动<br><br>民主世界首先应就中国已经给予俄罗斯的支持进行惩罚，明确要求中国与俄罗斯在经济上脱钩，设定明确的脱钩范围与时间表，密切注意俄中的经济来往，预先制定集体对中国进行经济制裁的计划……<br> <a href="https://yibaochina.com/?p=245250" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245250</a>
+

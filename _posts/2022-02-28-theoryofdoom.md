@@ -272,3 +272,9 @@ Google it.
 
 Submission Statement: This video essay explains at a general level what sanctions have been placed on Russia, how they work and what risks are associated with their imposition.  Particularly with respect to SWIFT and the Russian Central Bank, this video essay lays essential foundation for the significance of these statecraft tools, both in terms of benefits and risks.  For some here, this video won't tell you anything you didn't already know.  But I suspect for most, you'll be enabled to better understand what is happening in the world right now.
 
+### 151: [You’re Being Instructed Not To Think About This](https://old.reddit.com/r/CoronavirusIllinois/comments/t7k6uv/youre_being_instructed_not_to_think_about_this/), submitted on 2022-03-06 06:13:21+08:00.
+
+----- __151.1__ -----2022-03-06 11:47:04+08:00:
+
+Off topic.
+
