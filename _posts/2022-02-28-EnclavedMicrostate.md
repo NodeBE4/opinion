@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-05
+date: 2022-03-06
 from: https://old.reddit.com/r/Hololive/comments/t307pw/she_truly_has_such_a_way_with_words/
 layout: post
 tags:
@@ -317,4 +317,10 @@ The Ming still held onto a number of fortifications which staved off further Jur
 * Gertraude Roth Li, 'State Building Before 1644', in Willard J Peterson (ed.), *The Cambridge History of China, Volume 9: The Ch'ing Empire to 1800, Part 1* (2002)
 
 * Masato Hasegawa, 'Measuring Reliability In The Wartime Transport of Provisions: The Case of Mao Yuanyi (1594–1641)', *Ming Studies* 80, pp. 2-30 (2019)
+
+### 202: [mori mannerisms](https://old.reddit.com/r/Hololive/comments/t7jcc9/mori_mannerisms/), submitted on 2022-03-06 05:30:30+08:00.
+
+----- __202.1__ -----2022-03-06 13:17:41+08:00:
+
+Is there a clip of it, or a timestamp?
 
