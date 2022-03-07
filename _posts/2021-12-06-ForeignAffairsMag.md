@@ -3,7 +3,7 @@ author: ForeignAffairsMag
 categories:
 - Reddit
 date: 2021-12-10
-from: https://old.reddit.com/r/geopolitics/comments/razhvr/afghanistans_looming_catastrophe_why_the_united/
+from: https://old.reddit.com/r/geopolitics/comments/razhvr/deleted_by_user/
 layout: post
 tags:
 - Reddit
@@ -13,7 +13,7 @@ title: ForeignAffairsMag在2021-12-06~2021-12-12的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 58: [Afghanistan’s Looming Catastrophe: Why the United States and Its Allies Must Act Now to Prevent a Humanitarian Disaster](https://old.reddit.com/r/geopolitics/comments/razhvr/afghanistans_looming_catastrophe_why_the_united/), submitted on 2021-12-07 21:43:16+08:00.
+### 58: [[deleted by user]](https://old.reddit.com/r/geopolitics/comments/razhvr/deleted_by_user/), submitted on 2021-12-07 21:43:16+08:00.
 
 ----- __58.1__ -----2021-12-07 21:43:26+08:00:
 
