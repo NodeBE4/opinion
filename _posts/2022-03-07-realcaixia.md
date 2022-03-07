@@ -67,3 +67,7 @@ Re @jefflee81258649 Thank you so much.
 
 Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
+### 14: [2022-03-08 02:55:18+08:00 推文](https://twitter.com/realcaixia/status/1500907961354498049)
+
+普习2022年2月4日《联合声明》就是公开宣布邪恶轴心国的形成。随即，普京发动大规模侵略战争，习明里暗里帮着普京对付全世界的抗议和制裁。3月6号中共国外长王毅在对全球发布的新闻记者会上，再次宣布中俄（邪恶轴心国）关系将“保持战略定力”，这就明确表示习政权和普京政权一起与全世界人民为敌。<br><img style="" src="https://pbs.twimg.com/media/FNRL1bpXwAMOZK7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
