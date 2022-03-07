@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-07
+date: 2022-03-08
 from: https://twitter.com/realcaixia/status/1500502982466670595
 layout: post
 tags:
@@ -42,4 +42,28 @@ Re @jefflee81258649 Thank you so much.
 ### 7: [2022-03-07 11:16:47+08:00 推文](https://twitter.com/realcaixia/status/1500671777206419461)
 
 这就是正义在胸正气凛然！警察被邪恶国家驱赶着当打手，他们也知道理亏，不敢太蛮横。<br><br>鲁  难: 反战声明有反应了，警察约喝茶就是其中一种。不过，我们做的是正确的事，合情合理合法合规，校友们并不惧怕。我不希望参加联署活动的校友陷于困境中，目前为止我们做到了。警察在下图中简称P，没有找到、也说不出来我们行使宪法赋予的言论自由，有什么不对的地方。<br><br><img style="" src="https://pbs.twimg.com/media/FNN0JLxXIAci69j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNN0JLwXoAsMR-L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNN0JLvX0AIb1uC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-03-07 23:03:58+08:00 推文](https://twitter.com/realcaixia/status/1500849747678085123)
+
+徐贲文章：<br>情感教育目的，是让尽量多的人们知道，不管是自己人还是敌人，人都是人，每个无辜受害者的苦难都是人类的集体苦难。有了这样刻骨铭心的共情感受，还会对一个国家侵略另一个国家，甚至以核战争威胁毁灭一个无核武国家，表现出疯子、野兽般的欢欣鼓舞和雀跃欢呼吗？ <a href="https://yibaochina.com/?p=245201" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245201</a>
+
+### 9: [2022-03-07 23:58:46+08:00 推文](https://twitter.com/realcaixia/status/1500863536288960512)
+
+这些孩子不得不在俄侵略战争中颠沛流离。令人心痛令人心碎。<br><br>美国之音中文网: 乌克兰东南部扎波罗热核电站附近一家孤儿院215个孩子在孤儿院工作人员带领下撤离，坐了整整一天的火车后，3月5日抵达西部城市利沃夫。孤儿院院长说，“我为这些孩子感到难过，他们还都这么小。”夜幕降临，孤儿院一行人登上巴士再次启程，目的地是波兰。<br><br><video src="https://video.twimg.com/amplify_video/1500510671196332035/vid/720x720/7tKwDjyAF12C8xgI.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FNL2tf5XoAM9QHV?format=jpg&amp;name=orig"></video> <a href="https://www.voachinese.com/a/6472441.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6472441.html</a>
+
+### 10: [2022-03-08 00:12:47+08:00 推文](https://twitter.com/realcaixia/status/1500867065300799495)
+
+乌克兰将获得更多来自美国的军事及人道援助 <a href="https://www.voachinese.com/a/ukraine-set-to-get-more-military-humanitarian-aid-from-us-/6473099.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/ukraine-set-to-get-more-military-humanitarian-aid-from-us-/6473099.html</a>
+
+### 11: [2022-03-08 01:05:49+08:00 推文](https://twitter.com/realcaixia/status/1500880411249061895)
+
+中共国事实上已经与普京政权结成了邪恶轴心国，这是他们共同对抗自由民主世界、维持统治权力的需要。自由民主世界不应再对中共国存有任何一丝幻想。<br><br>ZHANGDONG: 震惊！中国政府撕下中立伪装，公开为普京侵乌战争辩护，谴责国际社会对俄国的制裁不公正。<br>尽管普京对乌克兰发动举世震惊的侵略战争，中国仍将俄国列为最重要战略伙伴，称与莫斯科的关系是世界上最重要的双边关系。王毅今天在人大新闻会上再次强调"中俄两国人民友谊牢不可破."<br> <a href="https://www.tagesschau.de/ausland/asien/china-aussenpolitik-107.html" target="_blank" rel="noopener noreferrer">https://www.tagesschau.de/ausland/asien/china-aussenpolitik-107.html</a>
+
+### 12: [2022-03-08 02:28:22+08:00 推文](https://twitter.com/realcaixia/status/1500901186060394499)
+
+公民力量在《议报》发布声明，强调世界正义力量在制裁普京政权的同时，必须同样对战争共犯习政权采取行动。这不仅是因为普习密谋侵乌战争，而且是为了遏制和削弱习武力进犯台湾的野心和能力。<br>强力推荐韩连潮先生文章：<br>韩文呼吁世界须高度警觉习武力进犯台湾的野心，并迫使习将为其野心支付更高成本。<br><br>韩连潮: 【增加中共犯台成本】我在 #议报 的专栏文章提出如何增加中共犯台成本：政权安全是中共核心利益的核心，如果攻台导致其政权坍塌和更迭，它肯定不会轻易动手，因此防止台湾乌克兰化最有效的手段是开创一种新国际态势：中共武力攻台行动将直接威胁其政权安全。<br> <a href="https://yibaochina.com/?p=245221" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245221</a>
+
+### 13: [2022-03-08 02:32:46+08:00 推文](https://twitter.com/realcaixia/status/1500902290387054592)
+
+Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
