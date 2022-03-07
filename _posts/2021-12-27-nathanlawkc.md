@@ -27,7 +27,7 @@ Re 2. In mainland China, all media outlets are controlled by party branches. Now
 
 ### 3: [2021-12-29 20:51:44+08:00 推文](https://twitter.com/nathanlawkc/status/1476174095003926534)
 
-Re 3. It's a colonial law so draconian that the British colonial government ended up abandoning it. The HKG reversed the trend and used it to arrest journalists arbitrarily. Seven former and current editors and board members are arrested, with more than 200 police raid their office.<br><img style="" src="https://pbs.twimg.com/media/FHxsNM8WQAALCiy?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 3. It's a colonial law so draconian that the British colonial government ended up abandoning it. The HKG reversed the trend and used it to arrest journalists arbitrarily. Seven former and current editors and board members are arrested, with more than 200 police raid their office.<br><img style src="https://pbs.twimg.com/media/FHxsNM8WQAALCiy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-29 20:51:45+08:00 推文](https://twitter.com/nathanlawkc/status/1476174099366006786)
 
