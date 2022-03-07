@@ -45,3 +45,13 @@ According to sources inside the FSB, Vladimir Putin's government's inept perform
 
 > You have to write the analysis in a way that makes Russia the victor . . . otherwise you get questioned for not doing good work.  Suddenly it happens and everything comes down to your completely groundless analysis.  [We are] acting intuitively, on emotion . . . our stakes will have to be raised ever higher with the hope that suddenly something might come through for us.  By and large, though, Russia has no way out. There are no options for a possible victory, only defeat.
 
+----- __155.3__ -----2022-03-07 20:56:07+08:00:
+
+Submission Statement: 
+
+The FSB is one of the KGB's successor agencies.  According to purported intelligence sources inside the FSB, Vladimir Putin's war in Ukraine was doomed to fail from its instantiation --- evidence of which abounds.  Russian casualties may exceed 10,000.  While only 498 fatalities in combat are acknowledged by the Russian defense ministry, the true number could be even higher than the 10,000-death estimate because contact has been lost with major Russian army divisions.  Even Ramzan Kadyrov's "hit squad" has been massacred by Ukrainians.  Kadyrov is a Chechen terrorist leader supported by Vladimir Putin's government.  
+
+According to sources inside the FSB, Vladimir Putin's government's inept performance appears to be the result of his own delusions and Soviet-reminiscent tail-wagging-the-dog type mismanagement:
+
+> You have to write the analysis in a way that makes Russia the victor . . . otherwise you get questioned for not doing good work.  Suddenly it happens and everything comes down to your completely groundless analysis.  [We are] acting intuitively, on emotion . . . our stakes will have to be raised ever higher with the hope that suddenly something might come through for us.  By and large, though, Russia has no way out. There are no options for a possible victory, only defeat.
+
