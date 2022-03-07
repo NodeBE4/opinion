@@ -39,3 +39,7 @@ Re @jefflee81258649 Thank you so much.
 
 乌克兰人民的血战抵抗，欧美国家的空前团结支援乌克兰，实际上已成为东方专制主义与欧美自由民主的生死博弈。美国与欧洲国家加大支持乌克兰人民的力度，是符合欧美各国自身利益的。在这个历史的关键时刻，真期望欧美国家的政治家们中，涌现出21世纪的邱吉尔、富兰克林.罗斯福。<br><br>韩连潮: 美国国务卿布林肯刚表示，拜登政府已正式开绿灯，让北约向乌克兰提供战机。有人担心此举会导致战争升级，但似乎北约提供的前东欧国家的战机，属于转让性质。<br> <a href="https://twitter.com/lianchaohan/status/1500521302288965641" target="_blank" rel="noopener noreferrer">https://twitter.com/lianchaohan/status/1500521302288965641</a>
 
+### 7: [2022-03-07 11:16:47+08:00 推文](https://twitter.com/realcaixia/status/1500671777206419461)
+
+这就是正义在胸正气凛然！警察被邪恶国家驱赶着当打手，他们也知道理亏，不敢太蛮横。<br><br>鲁  难: 反战声明有反应了，警察约喝茶就是其中一种。不过，我们做的是正确的事，合情合理合法合规，校友们并不惧怕。我不希望参加联署活动的校友陷于困境中，目前为止我们做到了。警察在下图中简称P，没有找到、也说不出来我们行使宪法赋予的言论自由，有什么不对的地方。<br><br><img style="" src="https://pbs.twimg.com/media/FNN0JLxXIAci69j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNN0JLwXoAsMR-L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNN0JLvX0AIb1uC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
