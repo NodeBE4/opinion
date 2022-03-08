@@ -31,7 +31,7 @@ From a student protest leader, the youngest elected legislator in Hong Kong, to 
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
-Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
+Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style="" src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-07 22:23:05+08:00 推文](https://twitter.com/nathanlawkc/status/1468224547950407696)
 

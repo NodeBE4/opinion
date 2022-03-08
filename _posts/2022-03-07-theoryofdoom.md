@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-07
+date: 2022-03-08
 from: https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/
 layout: post
 tags:
@@ -64,4 +64,10 @@ Still works for me.  Search the original link on archive.is if you can’t open 
 > an outright re-igniting of the Chechen wars.
 
 This is unlikely, since Kadyrov owes his position to Putin.  But I have, frankly, been shocked to find Kadyrov's Chechen fighters have proven so inept.  Some believed them to be Eastern Europe's [Gurkhas](https://www.grunge.com/338917/why-gurkhas-are-considered-the-toughest-soldiers-in-the-world/).
+
+### 156: [Turkish drone success in Ukraine sets stage for Asia roadshow](https://old.reddit.com/r/geopolitics/comments/t9ebvr/turkish_drone_success_in_ukraine_sets_stage_for/), submitted on 2022-03-08 18:57:43+08:00.
+
+----- __156.1__ -----2022-03-08 19:57:04+08:00:
+
+Post the article with the correct title.  The text you have here is the start of a submission statement.
 
