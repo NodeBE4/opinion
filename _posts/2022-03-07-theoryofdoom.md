@@ -55,3 +55,7 @@ According to sources inside the FSB, Vladimir Putin's government's inept perform
 
 > You have to write the analysis in a way that makes Russia the victor . . . otherwise you get questioned for not doing good work.  Suddenly it happens and everything comes down to your completely groundless analysis.  [We are] acting intuitively, on emotion . . . our stakes will have to be raised ever higher with the hope that suddenly something might come through for us.  By and large, though, Russia has no way out. There are no options for a possible victory, only defeat.
 
+----- __155.4__ -----2022-03-08 07:54:07+08:00:
+
+Still works for me.  Search the original link on archive.is if you can’t open this one.
+
