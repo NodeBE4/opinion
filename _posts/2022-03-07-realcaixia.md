@@ -87,3 +87,15 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
 这就是典型的基层政权流氓化。这个地方的党、镇政府与黑社会公开勾连，用黑社会打手欺压民众。大陆到处都能看到这个现象。<br><br>鲁  难: <br><br><video src="https://video.twimg.com/ext_tw_video/1500956205837127681/pu/vid/720x1028/8BNuOKizwbHSxHFr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1500956205837127681/pu/img/TIVbQy4r44iGNh-W.jpg"></video>
 
+### 19: [2022-03-09 06:31:40+08:00 推文](https://twitter.com/realcaixia/status/1501324802304401410)
+
+今年的三月八号，令人想起一连串悲惨女性的日子。<br><video src="https://video.twimg.com/ext_tw_video/1501324758113267715/pu/vid/960x720/Qj5dC69aMzV9ZB41.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1501324758113267715/pu/img/oflcC9KGz21n_jT8.jpg"></video>
+
+### 20: [2022-03-09 06:50:17+08:00 推文](https://twitter.com/realcaixia/status/1501329488205860868)
+
+看看侨民回到大陆的境遇吧！毫无人性的做法，生生地把3月大的婴儿和妈妈分开。这帮打着抗疫名义的地方政府部门，眼睛被铜臭熏瞎了！就是看不到人！<br><br>Flyfire999: @caijingxiang<br><br><img style="" src="https://pbs.twimg.com/media/FNVueQwaAAYbJGx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNVueQxagAAD0Ds?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNVueQyakAAFfFi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-03-09 06:52:01+08:00 推文](https://twitter.com/realcaixia/status/1501329922039574529)
+
+使馆也要挣表现挣政绩！<br><br>财经真相: 大使馆要求半夜起来唱《我和我的祖国》<br><br><img style="" src="https://pbs.twimg.com/media/FNVQ7YiagAYICCn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
