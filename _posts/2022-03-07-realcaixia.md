@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-08
+date: 2022-03-09
 from: https://twitter.com/realcaixia/status/1500502982466670595
 layout: post
 tags:
@@ -74,4 +74,16 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 ### 15: [2022-03-08 05:43:33+08:00 推文](https://twitter.com/realcaixia/status/1500950304359174145)
 
 「鐵鏈女」案衝擊兩會，聲援者紛遭約談噤聲；大陸疫情四起，東莞集中爆發，青島恐有社區傳播；俄烏戰爭中國網友對立，中共封鎖反戰聲音；遭中共施壓，國際... <a href="https://youtu.be/cJWVWPySAI8" target="_blank" rel="noopener noreferrer">https://youtu.be/cJWVWPySAI8</a>
+
+### 16: [2022-03-09 03:42:34+08:00 推文](https://twitter.com/realcaixia/status/1501282246329778182)
+
+向这几位勇敢的女性致敬！<br><br>迷迭香: 向這幾位無畏的女性致敬👍，說實話，我不敢這麼做，在黨國眼裡前科太多的我，只能認慫。但這絲毫不影響我對她們的溢美之辭，真心美🌹🌹🌹<br><br><img style="" src="https://pbs.twimg.com/media/FNUrhJ9UUAEwheZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-03-09 04:03:46+08:00 推文](https://twitter.com/realcaixia/status/1501287581153116164)
+
+从来没有见过民主国家说“颠覆政权、颠覆某某党的领导”、“颠覆xx制度”的。民主国家每几年一次选举，就是授权政党组建政府；政党竞选上台下台，也从不认为是“颠覆党的领导”，相反那个被选下台的党要做反思和检讨，甚至党魁要引咎辞职。栗战书这种说法集中表现了中共政权的不合法性而带来的深重不安全感。<br><br>楊建利 Yang Jianli: 在他们眼里“铁链女”属于颠覆势力，人贩子、官官相护是维护共产党的领导。<br>斗、斗、斗、斗吧，百姓固然受害，“栗战书”们别忘了，贵党窝里斗残酷无情没底线，朝为堂上客，夕为阶下囚，你们见的还不够多吗？<br> <a href="https://twitter.com/rfa_chinese/status/1501077136177651712" target="_blank" rel="noopener noreferrer">https://twitter.com/rfa_chinese/status/1501077136177651712</a>
+
+### 18: [2022-03-09 04:09:05+08:00 推文](https://twitter.com/realcaixia/status/1501288916804149254)
+
+这就是典型的基层政权流氓化。这个地方的党、镇政府与黑社会公开勾连，用黑社会打手欺压民众。大陆到处都能看到这个现象。<br><br>鲁  难: <br><br><video src="https://video.twimg.com/ext_tw_video/1500956205837127681/pu/vid/720x1028/8BNuOKizwbHSxHFr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1500956205837127681/pu/img/TIVbQy4r44iGNh-W.jpg"></video>
 
