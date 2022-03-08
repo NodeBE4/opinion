@@ -59,3 +59,9 @@ According to sources inside the FSB, Vladimir Putin's government's inept perform
 
 Still works for me.  Search the original link on archive.is if you can’t open this one.
 
+----- __155.5__ -----2022-03-08 09:56:26+08:00:
+
+> an outright re-igniting of the Chechen wars.
+
+This is unlikely, since Kadyrov owes his position to Putin.  But I have, frankly, been shocked to find Kadyrov's Chechen fighters have proven so inept.  Some believed them to be Eastern Europe's [Gurkhas](https://www.grunge.com/338917/why-gurkhas-are-considered-the-toughest-soldiers-in-the-world/).
+
