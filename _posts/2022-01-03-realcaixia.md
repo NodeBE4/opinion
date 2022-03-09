@@ -205,7 +205,7 @@ Re 公共服务和基本的社会正常运转，而且意味着无法偿还债�
 
 ### 48: [2022-01-09 02:17:33+08:00 推文](https://twitter.com/realcaixia/status/1479879967638962183)
 
-宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style="" src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
+宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-01-09 02:36:51+08:00 推文](https://twitter.com/realcaixia/status/1479884825024778250)
 

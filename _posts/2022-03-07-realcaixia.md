@@ -103,3 +103,7 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
 脱中少女的讲述令人心碎。<br>极权统治当局迫害良心犯，同时迫害他们幼小孩子。这些孩子长年在充满恐惧疑虑、在被看守被监控中长大，幼小心灵受到的严重伤害，将影响他们一辈子。<br><br>特别推荐下面视频：<br>3月9号，我想起一位朋友！也聊聊中国良心犯未成年的孩子们 <a href="https://youtu.be/n1WWf8qtF40" target="_blank" rel="noopener noreferrer">https://youtu.be/n1WWf8qtF40</a>
 
+### 23: [2022-03-09 22:18:15+08:00 推文](https://twitter.com/realcaixia/status/1501563016030130178)
+
+推荐王剑老师这期节目。<br>王剑全面介绍和分析了欧美政府、跨国公司、货币金融等方面已经和将施行的政策措施，构成对俄罗斯的系统性经济制裁，普京也签署命令反制西方国家——双方经济对决。<br><br>西方与俄罗斯经济对决/俄军用二战铁甲车补给/王剑每日观察/20220308 <a href="https://youtu.be/mBcYxkaCH8I" target="_blank" rel="noopener noreferrer">https://youtu.be/mBcYxkaCH8I</a>
+
