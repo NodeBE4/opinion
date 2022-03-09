@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-08
+date: 2022-03-09
 from: https://old.reddit.com/r/tumblr/comments/t8bsfn/the_ol_us_vs_uk/
 layout: post
 tags:
@@ -56,4 +56,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 209: [Why the inclusion of the baltic states in NATO didn't led to a crisis with Moscow?](https://old.reddit.com/r/AskHistorians/comments/ta77nw/why_the_inclusion_of_the_baltic_states_in_nato/), submitted on 2022-03-09 20:57:31+08:00.
+
+----- __209.1__ -----2022-03-09 22:25:50+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
