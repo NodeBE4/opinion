@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-08
+date: 2022-03-09
 from: https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/
 layout: post
 tags:
@@ -70,4 +70,10 @@ This is unlikely, since Kadyrov owes his position to Putin.  But I have, frankly
 ----- __156.1__ -----2022-03-08 19:57:04+08:00:
 
 Post the article with the correct title.  The text you have here is the start of a submission statement.
+
+### 157: [I guess the Golden Arches theory of conflict prevention still holds](https://old.reddit.com/r/geopolitics/comments/t9w4m3/i_guess_the_golden_arches_theory_of_conflict/), submitted on 2022-03-09 09:20:21+08:00.
+
+----- __157.1__ -----2022-03-09 11:34:10+08:00:
+
+No editorialized titles.
 
