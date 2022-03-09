@@ -99,3 +99,7 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
 使馆也要挣表现挣政绩！<br><br>财经真相: 大使馆要求半夜起来唱《我和我的祖国》<br><br><img style="" src="https://pbs.twimg.com/media/FNVQ7YiagAYICCn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 22: [2022-03-09 08:51:48+08:00 推文](https://twitter.com/realcaixia/status/1501360064694792197)
+
+脱中少女的讲述令人心碎。<br>极权统治当局迫害良心犯，同时迫害他们幼小孩子。这些孩子长年在充满恐惧疑虑、在被看守被监控中长大，幼小心灵受到的严重伤害，将影响他们一辈子。<br><br>特别推荐下面视频：<br>3月9号，我想起一位朋友！也聊聊中国良心犯未成年的孩子们 <a href="https://youtu.be/n1WWf8qtF40" target="_blank" rel="noopener noreferrer">https://youtu.be/n1WWf8qtF40</a>
+
