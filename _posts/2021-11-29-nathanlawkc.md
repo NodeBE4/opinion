@@ -43,5 +43,5 @@ My deepest gratitude to @GretaThunberg for her hand-writing letter to my friend 
 
 ### 7: [2021-12-04 19:58:43+08:00 推文](https://twitter.com/nathanlawkc/status/1467101052864454660)
 
-Is it a white paper or a rap paper<br>Or actually It’s a joke<br><br>Jeremy Goldkorn: Poetry is not dead.<br><br><img style src="https://pbs.twimg.com/media/FFutuVQXIAEwZfW?format=jpg&name=orig" referrerpolicy="no-referrer">
+Is it a white paper or a rap paper<br>Or actually It’s a joke<br><br>Jeremy Goldkorn: Poetry is not dead.<br><br><img style="" src="https://pbs.twimg.com/media/FFutuVQXIAEwZfW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
