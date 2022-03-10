@@ -113,6 +113,10 @@ No editorialized titles.
 
 The scope of federal regulatory authority is constitutionally limited, in such a way that absent specific constitutional authorization to do something the states retain that power.  Generally, the commerce clause is one of the broadest sources of congressional authority.  The Supreme Court struck down federal laws relating to violence against women, as falling outside the scope of what the commerce clause authorizes to be regulated.  The idea of regulating the age of consent seems like it would be outside the scope of at least the commerce clause, for similar reasons.  Whether there's another power Congress could find its authority in, I don't know.  But I doubt it.  That means that, most likely, even if congress said "raise the age of consent to 18 or we'll withhold highway funding," (compare to how we got drinking ages to 21, for example) it would probably fail judicial scrutiny.  The difference is that consumption of alcohol is an economic activity, whereas having sex isn't.
 
+----- __160.2__ -----2022-03-10 21:11:06+08:00:
+
+Prostitution is the oldest "profession" (read: an economic activity).  You may not be aware, but there's a difference between prostitution and having sex.  Unless you're one of those incels who can't get laid without paying for it, sex is not an economic activity.
+
 ### 161: [CMV: Gas prices going higher are good for society](https://old.reddit.com/r/changemyview/comments/tak7s1/cmv_gas_prices_going_higher_are_good_for_society/), submitted on 2022-03-10 07:05:59+08:00.
 
 ----- __161.1__ -----2022-03-10 08:08:54+08:00:
