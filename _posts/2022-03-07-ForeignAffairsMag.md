@@ -54,3 +54,11 @@ Just as it was during the Cold War, however, Africa, has become a crucial battle
 
 "The urge to help Ukraine is laudable. But the only things worse than watching the country’s slow-motion defeat would be to promise direct military intervention and then fail to follow through or, worse, to up the ante and turn what is now clearly a new cold war into a hot war—one that could produce destruction and casualties in the wider world on a scale that would make even the devastation of the current war in Ukraine seem insignificant."
 
+### 151: [The UN Is Another Casualty of Russia’s War: Why the Organization Might Never Bounce Back](https://old.reddit.com/r/TrueReddit/comments/tb4ihz/the_un_is_another_casualty_of_russias_war_why_the/), submitted on 2022-03-11 01:58:17+08:00.
+
+----- __151.1__ -----2022-03-11 01:58:57+08:00:
+
+\[SS from the article by Richard Gowan, UN director at International Crisis Group\]
+
+"With the Security Council facing a period of increasing fragmentation and paralysis, the United States and its allies will need to see what parts of the UN system they can still use to limit international instability. The Ukrainian conflict marks the most severe test for multilateralism since the end of the Cold War, and the full scale of its impact on international diplomacy is still unclear. But it may still be possible to preserve significant parts of the UN system to face future crises."
+

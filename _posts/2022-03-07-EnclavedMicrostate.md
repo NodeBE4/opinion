@@ -78,15 +78,21 @@ If you have further questions, please [reach out to us via modmail](https://www.
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 211: [When the Soviet Union fell at the end of 1991, its last member was the Kazakhstan Soviet. The UN Charter in 1945 made the Soviet Union one of the the Permanent 5 (P5) members of the UN's security council. Why is Russia today one of the P5 when Kazakhstan is clearly the successor of the USSR?](https://old.reddit.com/r/AskHistorians/comments/tb0z2i/when_the_soviet_union_fell_at_the_end_of_1991_its/), submitted on 2022-03-10 23:19:31+08:00.
+### 211: [Whose "mythos" has changed the most since their debut?](https://old.reddit.com/r/Hololive/comments/tabb5s/whose_mythos_has_changed_the_most_since_their/), submitted on 2022-03-10 00:17:34+08:00.
 
------ __211.1__ -----2022-03-11 00:25:06+08:00:
+----- __211.1__ -----2022-03-11 02:37:02+08:00:
+
+To be fair 'de gozaru' is an archaic form of 'desu', so it's not a tic so much as a general idiosyncracy along the lines of someone using 'thou' and its derivatives for second-person singular.
+
+### 212: [When the Soviet Union fell at the end of 1991, its last member was the Kazakhstan Soviet. The UN Charter in 1945 made the Soviet Union one of the the Permanent 5 (P5) members of the UN's security council. Why is Russia today one of the P5 when Kazakhstan is clearly the successor of the USSR?](https://old.reddit.com/r/AskHistorians/comments/tb0z2i/when_the_soviet_union_fell_at_the_end_of_1991_its/), submitted on 2022-03-10 23:19:31+08:00.
+
+----- __212.1__ -----2022-03-11 00:25:06+08:00:
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 212: [A wealthy and/or noble family in medieval Europe had a better or worse quality of life than a modern-day south-American rural family?](https://old.reddit.com/r/AskHistorians/comments/tb11yg/a_wealthy_andor_noble_family_in_medieval_europe/), submitted on 2022-03-10 23:23:28+08:00.
+### 213: [A wealthy and/or noble family in medieval Europe had a better or worse quality of life than a modern-day south-American rural family?](https://old.reddit.com/r/AskHistorians/comments/tb11yg/a_wealthy_andor_noble_family_in_medieval_europe/), submitted on 2022-03-10 23:23:28+08:00.
 
------ __212.1__ -----2022-03-11 01:00:26+08:00:
+----- __213.1__ -----2022-03-11 01:00:26+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
