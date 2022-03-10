@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-09
+date: 2022-03-10
 from: https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/
 layout: post
 tags:
@@ -104,4 +104,20 @@ Post the article with the correct title.  The text you have here is the start of
 ----- __159.1__ -----2022-03-09 11:34:10+08:00:
 
 No editorialized titles.
+
+### 160: [CMV: Age of consent in the USA should be federally mandated at 18 years old across all 50 states.](https://old.reddit.com/r/changemyview/comments/tagkie/cmv_age_of_consent_in_the_usa_should_be_federally/), submitted on 2022-03-10 04:18:36+08:00.
+
+----- __160.1__ -----2022-03-10 08:01:16+08:00:
+
+> However, the federal government can be like "Do this thing or we withhold federal funding". 
+
+The scope of federal regulatory authority is constitutionally limited, in such a way that absent specific constitutional authorization to do something the states retain that power.  Generally, the commerce clause is one of the broadest sources of congressional authority.  The Supreme Court struck down federal laws relating to violence against women, as falling outside the scope of what the commerce clause authorizes to be regulated.  The idea of regulating the age of consent seems like it would be outside the scope of at least the commerce clause, for similar reasons.  Whether there's another power Congress could find its authority in, I don't know.  But I doubt it.  That means that, most likely, even if congress said "raise the age of consent to 18 or we'll withhold highway funding," (compare to how we got drinking ages to 21, for example) it would probably fail judicial scrutiny.  The difference is that consumption of alcohol is an economic activity, whereas having sex isn't.
+
+### 161: [CMV: Gas prices going higher are good for society](https://old.reddit.com/r/changemyview/comments/tak7s1/cmv_gas_prices_going_higher_are_good_for_society/), submitted on 2022-03-10 07:05:59+08:00.
+
+----- __161.1__ -----2022-03-10 08:08:54+08:00:
+
+Higher energy costs means that everything is more expensive, most importantly food which will invariably hurt human life and wellbeing far more than it will help reduce any environmental harm.  
+
+So higher energy costs means that instead of a few hundred elderly people suffering heat exhaustion, many thousands more children will go hungry.  Not an acceptable tradeoff.
 
