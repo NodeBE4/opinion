@@ -115,3 +115,7 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
 令人尊敬的泽连斯基总统，他是名副其实的勇士，名副其实的英雄。<br><br>Felix Light: “Everything is fine. We will overcome” - Zelensky’s latest video, in which he greets the start of spring from Kyiv’s government quarter.<br><br><video src="https://video.twimg.com/ext_tw_video/1501150885447147525/pu/vid/848x480/WMlFwTYnC-63RYlH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1501150885447147525/pu/img/Gb5gVbEIlDbHODVa.jpg"></video>
 
+### 26: [2022-03-10 20:00:24+08:00 推文](https://twitter.com/realcaixia/status/1501890712354308100)
+
+这个推文说得很对。<br><br>tong: 二战时，美国实力最强，二战结束后，美国版图没有扩大一寸，你不觉得奇怪吗？美国航母，全球到处跑，军费每年就烧5、6千亿美元但是美国版图也没有扩大一寸。谁在维护世界和平？<br>你装傻可以，但全世界可不傻。200多个小国弱国，最不怕美国航母靠岸，最怕的是俄罗斯军靴落地。<br>摘<br><br><img style="" src="https://pbs.twimg.com/media/FNdEvXUXsAQANEJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
