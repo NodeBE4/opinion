@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-09
+date: 2022-03-10
 from: https://twitter.com/realcaixia/status/1500502982466670595
 layout: post
 tags:
@@ -106,4 +106,12 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 ### 23: [2022-03-09 22:18:15+08:00 推文](https://twitter.com/realcaixia/status/1501563016030130178)
 
 推荐王剑老师这期节目。<br>王剑全面介绍和分析了欧美政府、跨国公司、货币金融等方面已经和将施行的政策措施，构成对俄罗斯的系统性经济制裁，普京也签署命令反制西方国家——双方经济对决。<br><br>西方与俄罗斯经济对决/俄军用二战铁甲车补给/王剑每日观察/20220308 <a href="https://youtu.be/mBcYxkaCH8I" target="_blank" rel="noopener noreferrer">https://youtu.be/mBcYxkaCH8I</a>
+
+### 24: [2022-03-10 10:38:12+08:00 推文](https://twitter.com/realcaixia/status/1501749231140446210)
+
+这篇文章提出的问题和设想非常重要❗️<br><br>楊建利 Yang Jianli: 议报译丛：价值给市值打分—是时候给西方企业设立人权记分卡了 <br>杨建利 <br>“对中国的人权侵犯行为,民主世界还需做很多事,但如果外国资本继续为该政权提供支持,努力的效果会打折扣,为了停止这种情况，必须从创建一个可靠系统的方法开始,对企业在尊重基本人权方面的表现进行评级。”<br> <a href="https://yibaochina.com/?p=245259" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245259</a>
+
+### 25: [2022-03-10 10:43:44+08:00 推文](https://twitter.com/realcaixia/status/1501750622550376451)
+
+令人尊敬的泽连斯基总统，他是名副其实的勇士，名副其实的英雄。<br><br>Felix Light: “Everything is fine. We will overcome” - Zelensky’s latest video, in which he greets the start of spring from Kyiv’s government quarter.<br><br><video src="https://video.twimg.com/ext_tw_video/1501150885447147525/pu/vid/848x480/WMlFwTYnC-63RYlH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1501150885447147525/pu/img/Gb5gVbEIlDbHODVa.jpg"></video>
 
