@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-09
+date: 2022-03-10
 from: https://twitter.com/mauracunningham/status/1500807226084179969
 layout: post
 tags:
@@ -30,4 +30,12 @@ RT Kerry Allen 凯丽<br>A lot of questions floating around about this guy at 
 ### 4: [2022-03-09 06:56:42+08:00 推文](https://twitter.com/DigiChn/status/1501331100970336261)
 
 RT Stanford DigiChina Project<br>NEW: DigiChina's growing, 8-part resource on China's digital currency, the e-CNY, has dropped!<br><br>To set the stage, @lorandlaskai surveys our work so far and describes what the digital yuan is not—despite much speculation. <a href="https://digichina.stanford.edu/work/lets-start-with-what-chinas-digital-currency-is-not/" target="_blank" rel="noopener noreferrer">https://digichina.stanford.edu/work/lets-start-with-what-chinas-digital-currency-is-not/</a>
+
+### 5: [2022-03-10 17:30:13+08:00 推文](https://twitter.com/cnmediaproject/status/1501852919779696640)
+
+Re-framing the global discourse on democracy is a long-term strategy for the CCP, which hopes to shift the focus from rights-based participation to measures of results-driven government trust. Citing Western surveys, China is claiming the results are in. <a href="https://chinamediaproject.org/2022/03/10/western-surveys-for-chinese-democracy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/10/western-surveys-for-chinese-democracy/</a><br><img style="" src="https://pbs.twimg.com/media/FNenOevaIAA9mPH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-03-10 20:16:15+08:00 推文](https://twitter.com/hcsteinhardt/status/1501894700831289347)
+
+RT Κριστόφ Στάϊνχαρτ<br>We should not talk about measures of trust in government without Lianjiang Li's deep research on the matter.<br><br>China Media Project: Re-framing the global discourse on democracy is a long-term strategy for the CCP, which hopes to shift the focus from rights-based participation to measures of results-driven government trust. Citing Western surveys, China is claiming the results are in.<br><br><img style="" src="https://pbs.twimg.com/media/FNenOevaIAA9mPH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/03/10/western-surveys-for-chinese-democracy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/10/western-surveys-for-chinese-democracy/</a>
 
