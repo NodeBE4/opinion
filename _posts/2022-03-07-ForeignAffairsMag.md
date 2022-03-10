@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-10
+date: 2022-03-11
 from: https://old.reddit.com/r/europe/comments/t8xjm8/ukrainerussia_conflict_megathread_vii/
 layout: post
 tags:
@@ -45,4 +45,12 @@ The invasion of Ukraine may end this admirable tradition. Russia could become mo
 
 "As war has returned to Europe, France is winding down its war in Africa. It is tempting to regard the coincidence of these two events—coming only six months after the United States pulled out from Afghanistan—as signaling a major shift in geopolitics. After 20 years of the global war on terrorism, the West is returning to a world of great-power rivalry and grand strategy. Today a crisis with Moscow, tomorrow perhaps Beijing. Amid the Russian onslaught on Ukraine, the doomed U.S. mission in Afghanistan and the French debacle in the Sahel suggest that the war on terrorism was a misguided and debilitating detour on the world’s periphery that has distracted the Western alliance from addressing its main threats.  
 Just as it was during the Cold War, however, Africa, has become a crucial battleground in the confrontation between the West and its rivals, Russia and China. In economic affairs, China’s influence in Africa far outweighs Russia’s. But on security matters, Moscow’s intervention on the continent has become increasingly important, in ways that directly contributed to the collapse of the French mission in the Sahel."
+
+### 150: [The No-Fly Zone Delusion: In Ukraine, Good Intentions Can’t Redeem a Bad Idea](https://old.reddit.com/r/geopolitics/comments/tb3q8c/the_nofly_zone_delusion_in_ukraine_good/), submitted on 2022-03-11 01:22:09+08:00.
+
+----- __150.1__ -----2022-03-11 01:23:28+08:00:
+
+\[SS from the article by Richard K. Betts, Professor of War and Peace Studies at Columbia University\]
+
+"The urge to help Ukraine is laudable. But the only things worse than watching the country’s slow-motion defeat would be to promise direct military intervention and then fail to follow through or, worse, to up the ante and turn what is now clearly a new cold war into a hot war—one that could produce destruction and casualties in the wider world on a scale that would make even the devastation of the current war in Ukraine seem insignificant."
 
