@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 3: [2021-12-14 08:08:15+08:00 推文](https://twitter.com/realcaixia/status/1470546139556593672)
 
-每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
+每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style="" src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
 
 ### 4: [2021-12-14 08:09:39+08:00 推文](https://twitter.com/realcaixia/status/1470546491680952325)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 10: [2021-12-16 09:57:22+08:00 推文](https://twitter.com/realcaixia/status/1471298374536212480)
 
-每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/mindyshi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/mindyshi227/status/1469111277024915457</a>
+每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
 
 ### 11: [2021-12-16 09:58:41+08:00 推文](https://twitter.com/realcaixia/status/1471298706674704384)
 

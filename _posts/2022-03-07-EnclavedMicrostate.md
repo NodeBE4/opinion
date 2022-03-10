@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-09
+date: 2022-03-10
 from: https://old.reddit.com/r/tumblr/comments/t8bsfn/the_ol_us_vs_uk/
 layout: post
 tags:
@@ -57,9 +57,30 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 209: [Why the inclusion of the baltic states in NATO didn't led to a crisis with Moscow?](https://old.reddit.com/r/AskHistorians/comments/ta77nw/why_the_inclusion_of_the_baltic_states_in_nato/), submitted on 2022-03-09 20:57:31+08:00.
+### 209: [How did Japanese culture become so deeply entrenched in Western consciousness compared to Chinese and Korean culture?](https://old.reddit.com/r/AskHistorians/comments/ta6g2t/how_did_japanese_culture_become_so_deeply/), submitted on 2022-03-09 20:10:26+08:00.
 
------ __209.1__ -----2022-03-09 22:25:50+08:00:
+----- __209.1__ -----2022-03-11 00:44:48+08:00:
+
+Answers in the subreddit are expected to be in-depth and comprehensive, as laid out in the [subreddit rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer). There is no hard and fast definition of that, but in evaluating what you know on the topic, and what you are planning to post, consider whether your answer will demonstrate these four qualities to a reader:
+
+* [Do I have the expertise needed to answer this question?](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/)
+* [Have I done research on this question?](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/)
+* [Can I cite academic quality primary and secondary sources?](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/)
+* [Can I answer follow-up questions?](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/)
+
+In this particular case, there's a lot of interesting information here about nineteenth-century East Asia and about Euro-Asian perceptions in that period, but not a lot on the core question regarding how Japanese, Chinese, and Korean cultural influence have been sustained in the West, especially in the twentieth century to the (rough) present. Where connections are made between political history and cultural contacts, they aren't elaborated enough and tend to verge on being outright speculative, rather than drawing on scholarship specifically analysing such linkages. While the sources you've included are reasonable for a discussion of East Asian political history, they’re either unrelated or at most tangentially related to the history of cultural reception.
+
+If you have further questions, please [reach out to us via modmail](https://www.reddit.com/message/compose/?to=/r/AskHistorians). Thank you!
+
+### 210: [Why the inclusion of the baltic states in NATO didn't led to a crisis with Moscow?](https://old.reddit.com/r/AskHistorians/comments/ta77nw/why_the_inclusion_of_the_baltic_states_in_nato/), submitted on 2022-03-09 20:57:31+08:00.
+
+----- __210.1__ -----2022-03-09 22:25:50+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 211: [When the Soviet Union fell at the end of 1991, its last member was the Kazakhstan Soviet. The UN Charter in 1945 made the Soviet Union one of the the Permanent 5 (P5) members of the UN's security council. Why is Russia today one of the P5 when Kazakhstan is clearly the successor of the USSR?](https://old.reddit.com/r/AskHistorians/comments/tb0z2i/when_the_soviet_union_fell_at_the_end_of_1991_its/), submitted on 2022-03-10 23:19:31+08:00.
+
+----- __211.1__ -----2022-03-11 00:25:06+08:00:
+
+This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 

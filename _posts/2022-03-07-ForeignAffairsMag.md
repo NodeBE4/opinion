@@ -37,3 +37,12 @@ The invasion of Ukraine may end this admirable tradition. Russia could become mo
 
 "South Korea should rise to the challenge of being a state that advances freedom, peace, and prosperity through liberal democratic values and substantial cooperation." South Korea's next president lays out his foreign policy vision.
 
+### 149: [Macron’s Mess in the Sahel: How a Failed French Mission Gave Russia New Sway in Africa](https://old.reddit.com/r/Africa/comments/tb1ihl/macrons_mess_in_the_sahel_how_a_failed_french/), submitted on 2022-03-10 23:44:09+08:00.
+
+----- __149.1__ -----2022-03-10 23:45:04+08:00:
+
+\[SS from the article by Stephen Smith, former Africa Editor of Le Monde.\]
+
+"As war has returned to Europe, France is winding down its war in Africa. It is tempting to regard the coincidence of these two events—coming only six months after the United States pulled out from Afghanistan—as signaling a major shift in geopolitics. After 20 years of the global war on terrorism, the West is returning to a world of great-power rivalry and grand strategy. Today a crisis with Moscow, tomorrow perhaps Beijing. Amid the Russian onslaught on Ukraine, the doomed U.S. mission in Afghanistan and the French debacle in the Sahel suggest that the war on terrorism was a misguided and debilitating detour on the world’s periphery that has distracted the Western alliance from addressing its main threats.  
+Just as it was during the Cold War, however, Africa, has become a crucial battleground in the confrontation between the West and its rivals, Russia and China. In economic affairs, China’s influence in Africa far outweighs Russia’s. But on security matters, Moscow’s intervention on the continent has become increasingly important, in ways that directly contributed to the collapse of the French mission in the Sahel."
+
