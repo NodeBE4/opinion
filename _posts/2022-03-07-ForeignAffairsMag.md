@@ -62,3 +62,13 @@ Just as it was during the Cold War, however, Africa, has become a crucial battle
 
 "With the Security Council facing a period of increasing fragmentation and paralysis, the United States and its allies will need to see what parts of the UN system they can still use to limit international instability. The Ukrainian conflict marks the most severe test for multilateralism since the end of the Cold War, and the full scale of its impact on international diplomacy is still unclear. But it may still be possible to preserve significant parts of the UN system to face future crises."
 
+### 152: [Putin’s Nuclear Bluff: How the West Can Make Sure Russia’s Threats Stay Hollow](https://old.reddit.com/r/geopolitics/comments/tbren9/putins_nuclear_bluff_how_the_west_can_make_sure/), submitted on 2022-03-11 22:33:03+08:00.
+
+----- __152.1__ -----2022-03-11 22:34:16+08:00:
+
+\[SS from the article by Olga Oliker, Director of the Europe and Central Asia Program at the International Crisis Group\]
+
+"Although the Kremlin has shown a willingness to kill civilians and wreak havoc, using nuclear weapons would deviate from Russia’s own nuclear doctrine. The country does not need them to defeat Kyiv, and even if it did, detonating weapons of mass destruction would provoke international retaliation, including, quite possibly, direct military involvement from NATO. This risks both massive conventional war and further nuclear escalation—an outcome that Putin does not want. Rather than seriously considering strikes, Putin is more likely using the specter of nuclear escalation as cover for increasingly brutal tactics on the ground and to pressure Kyiv into surrendering. He may also hope that by threatening attacks, he can scare NATO away from increasing its involvement in the conflict or even get the West to make Ukraine submit...
+
+Western powers should keep assisting Ukraine with the aim of convincing Moscow to reverse course and reach a negotiated settlement with Kyiv, one that guarantees Ukraine’s security. But as Western states debate new weapon provisions and ways of engagement, they must be aware of the dangers and avoid mission creep. If NATO offers Ukraine increasingly direct help, the organization risks finding itself in a war against Russia despite every intention of avoiding it."
+
