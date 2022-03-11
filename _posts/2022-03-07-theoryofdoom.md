@@ -125,9 +125,33 @@ Higher energy costs means that everything is more expensive, most importantly fo
 
 So higher energy costs means that instead of a few hundred elderly people suffering heat exhaustion, many thousands more children will go hungry.  Not an acceptable tradeoff.
 
-### 162: [What sweets do they have in Afghanistan?](https://old.reddit.com/r/afghanistan/comments/tb1jqs/what_sweets_do_they_have_in_afghanistan/), submitted on 2022-03-10 23:45:41+08:00.
+### 162: [Is this an appropriate meal to make for Afghan refugees in the US?](https://old.reddit.com/r/afghanistan/comments/talzl2/is_this_an_appropriate_meal_to_make_for_afghan/), submitted on 2022-03-10 08:32:06+08:00.
 
------ __162.1__ -----2022-03-11 12:39:19+08:00:
+----- __162.1__ -----2022-03-11 13:28:17+08:00:
+
+Making sure you are preparing halal meat is the important thing, if you are serving meat.  You don't have too, could be eggplant (or something eggplant-based, like borani banjan, which is a spicy roasted eggplant dish), chickpeas, lintels or something else substantial.  
+
+Halal guys is good stuff, but it's basically fast food.  In my opinion, however, nothing says hospitality like grilled meat.  You might try to simplify, though.  
+
+You can grill good kebabs on a normal grill, just need to be careful not to burn.  I do not measure, but for 2 lbs of *ground* lamb (or beef), I'd probably put in three or four crushed cloves of garlic, half a grated onion/onion juice, the juice of a regular ripe lemon, coriander seeds, salt and pepper to taste.  Grill to medium well as hot as you can get your grill.  
+
+Consider adding cumin if you like it.  But if you don't, then don't bother.  I would probably add Aleppo pepper but you may not be able to find that and it's not "traditional," but it's good.  More traditionally, you might add half a minced jalapeno or something.  
+
+I wouldn't serve with sauce, just sumac and/or lemon juice.  Sumac is hard to find sometimes, depending on where you live, but it is the best condiment for grilled meat ever.  But I think your guests would like the cilantro-based green sauce which I cannot recall the name of, or something yogurt-based.  
+
+I would serve with bread (pitas, naan, whatever, just buy it don't make it), salad, hummus, (good) feta cheese, fresh sliced onions, sliced radish, parsley and mint; and maybe something else.  This is kind of more Persian style summer meal, but it's easier and preferable to some of the heavier, more traditional alternatives in my opinion.  
+
+For salad, I'd probably toss together something with diced tomatoes, diced red onion, minced cilantro, torn parsley, fresh mint, diced cucumber, lemon or lime juice, olive oil and salt. 
+
+Most might serve with rice, but frankly Afghan rice dishes are too complicated for me and I prefer Persian-style dill-based rice dishes, if I'm going to eat that many carbs.  
+
+For after, I'd probably serve dates with hot black tea (with sugar available for guests to add to their liking).  Maybe candied almonds if I could find them.  Alternatively, baklava would almost certainly be appreciated.  
+
+Aim for familiar flavor profiles, but some Afghan dishes are really complicated.
+
+### 163: [What sweets do they have in Afghanistan?](https://old.reddit.com/r/afghanistan/comments/tb1jqs/what_sweets_do_they_have_in_afghanistan/), submitted on 2022-03-10 23:45:41+08:00.
+
+----- __163.1__ -----2022-03-11 12:39:19+08:00:
 
 Kulche Birinjee, which are Afghan Butter Cookies.  Along the lines of spiced shortbread. 
  Very delicious and easy to make.  
@@ -136,9 +160,9 @@ Here's an example recipe:  https://togetherwomenrise.org/recipes/afghan-butter-c
 
 I have had candied almonds spiced with cardamom also.  Might be worth looking into those too.
 
-### 163: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
+### 164: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
 
------ __163.1__ -----2022-03-11 10:11:27+08:00:
+----- __164.1__ -----2022-03-11 10:11:27+08:00:
 
 Very interesting, but not appropriate here.  Try /r/craftofintelligence.
 
