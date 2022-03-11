@@ -125,9 +125,20 @@ Higher energy costs means that everything is more expensive, most importantly fo
 
 So higher energy costs means that instead of a few hundred elderly people suffering heat exhaustion, many thousands more children will go hungry.  Not an acceptable tradeoff.
 
-### 162: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
+### 162: [What sweets do they have in Afghanistan?](https://old.reddit.com/r/afghanistan/comments/tb1jqs/what_sweets_do_they_have_in_afghanistan/), submitted on 2022-03-10 23:45:41+08:00.
 
------ __162.1__ -----2022-03-11 10:11:27+08:00:
+----- __162.1__ -----2022-03-11 12:39:19+08:00:
+
+Kulche Birinjee, which are Afghan Butter Cookies.  Along the lines of spiced shortbread. 
+ Very delicious and easy to make.  
+
+Here's an example recipe:  https://togetherwomenrise.org/recipes/afghan-butter-cookies-kulche-birinjee-tested/
+
+I have had candied almonds spiced with cardamom also.  Might be worth looking into those too.
+
+### 163: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
+
+----- __163.1__ -----2022-03-11 10:11:27+08:00:
 
 Very interesting, but not appropriate here.  Try /r/craftofintelligence.
 
