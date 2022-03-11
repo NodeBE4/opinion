@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-10
+date: 2022-03-11
 from: https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/
 layout: post
 tags:
@@ -124,4 +124,10 @@ Prostitution is the oldest "profession" (read: an economic activity).  You may n
 Higher energy costs means that everything is more expensive, most importantly food which will invariably hurt human life and wellbeing far more than it will help reduce any environmental harm.  
 
 So higher energy costs means that instead of a few hundred elderly people suffering heat exhaustion, many thousands more children will go hungry.  Not an acceptable tradeoff.
+
+### 162: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
+
+----- __162.1__ -----2022-03-11 10:11:27+08:00:
+
+Very interesting, but not appropriate here.  Try /r/craftofintelligence.
 
