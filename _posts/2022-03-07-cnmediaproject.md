@@ -67,3 +67,11 @@ Re And despite the focus in the democracy talk from China on popular sentiment, 
 
 Re The vast media control and propaganda system is often neglected in discussions of Chinese governance and performance outside China, and it is arguably the real "secret code" (密码), to use a preferred term from recent democracy discourse, of China's system.<br><img style="" src="https://pbs.twimg.com/media/FNiIWZJaMAATMXc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-03-11 11:28:03+08:00 推文](https://twitter.com/niubi/status/1502124164945264648)
+
+RT Bill Bishop<br>Brutal. Not convinced over<br><br>David Ingles: Alibaba at its peak was valued at over $850 billion. It's currently worth under $250 billion. Stock's down 70% from peak<br><br><img style="" src="https://pbs.twimg.com/media/FNiOMGJXEAA9PWb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-03-11 12:23:38+08:00 推文](https://twitter.com/keithrichburg/status/1502138153842638849)
+
+RT Keith Richburg<br>‘while the latest change of strategy was necessary, it also exposed how unprepared and disorganised the government had been. Worse, its reactive mode was only further undermining its credibility, forcing trust levels to dip even lower among the public.’ <a href="https://www.scmp.com/news/hong-kong/health-environment/article/3170036/unprepared-and-disorganised-where-did-hong-kong" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/hong-kong/health-environment/article/3170036/unprepared-and-disorganised-where-did-hong-kong</a>
+

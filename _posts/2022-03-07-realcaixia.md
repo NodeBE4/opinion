@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-10
+date: 2022-03-11
 from: https://twitter.com/realcaixia/status/1500502982466670595
 layout: post
 tags:
@@ -118,4 +118,8 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 ### 26: [2022-03-10 20:00:24+08:00 推文](https://twitter.com/realcaixia/status/1501890712354308100)
 
 这个推文说得很对。<br><br>tong: 二战时，美国实力最强，二战结束后，美国版图没有扩大一寸，你不觉得奇怪吗？美国航母，全球到处跑，军费每年就烧5、6千亿美元但是美国版图也没有扩大一寸。谁在维护世界和平？<br>你装傻可以，但全世界可不傻。200多个小国弱国，最不怕美国航母靠岸，最怕的是俄罗斯军靴落地。<br>摘<br><br><img style="" src="https://pbs.twimg.com/media/FNdEvXUXsAQANEJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-03-11 10:07:03+08:00 推文](https://twitter.com/realcaixia/status/1502103781567307779)
+
+《议报》独家最新重磅文章“猜猜谁在抄作业”。<br>文章将普习二人做了系统比较，揭示出独裁者及其体制的共同点，例如费尽心机谋权上位、谋划长久掌权等。作者指出：21世纪既不会变成彼得大帝时代，也绝不会再现汉武帝的灵光。普习都是开历史倒车的加速师，他们不属于这个时代。<br>作者最后呼吁：阻止习连任。<br><br>《议报》: 方舟与乌克兰: 猜猜谁在抄作业？——普京与习近平<br> <a href="https://yibaochina.com/?p=245279" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245279</a>
 
