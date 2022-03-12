@@ -149,9 +149,15 @@ For after, I'd probably serve dates with hot black tea (with sugar available for
 
 Aim for familiar flavor profiles, but some Afghan dishes are really complicated.
 
-### 163: [What sweets do they have in Afghanistan?](https://old.reddit.com/r/afghanistan/comments/tb1jqs/what_sweets_do_they_have_in_afghanistan/), submitted on 2022-03-10 23:45:41+08:00.
+### 163: [Why did Russia not escalate when Latvia, Lithuania, Estonia joining NATO?](https://old.reddit.com/r/geopolitics/comments/tavpto/why_did_russia_not_escalate_when_latvia_lithuania/), submitted on 2022-03-10 18:22:10+08:00.
 
------ __163.1__ -----2022-03-11 12:39:19+08:00:
+----- __163.1__ -----2022-03-13 02:39:24+08:00:
+
+Latvia, Lithuania and Estonia do not have the same economic or strategic significance of Ukraine.
+
+### 164: [What sweets do they have in Afghanistan?](https://old.reddit.com/r/afghanistan/comments/tb1jqs/what_sweets_do_they_have_in_afghanistan/), submitted on 2022-03-10 23:45:41+08:00.
+
+----- __164.1__ -----2022-03-11 12:39:19+08:00:
 
 Kulche Birinjee, which are Afghan Butter Cookies.  Along the lines of spiced shortbread. 
  Very delicious and easy to make.  
@@ -160,35 +166,41 @@ Here's an example recipe:  https://togetherwomenrise.org/recipes/afghan-butter-c
 
 I have had candied almonds spiced with cardamom also.  Might be worth looking into those too.
 
-### 164: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
+### 165: [Unofficial Daily Update for 2022-03-10. 1398 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tb4o5x/unofficial_daily_update_for_20220310_1398_new/), submitted on 2022-03-11 02:05:05+08:00.
 
------ __164.1__ -----2022-03-11 10:11:27+08:00:
+----- __165.1__ -----2022-03-13 01:40:42+08:00:
+
+Such stunning stunning incompetence of the alleged public health officials and so called political leaders.
+
+### 166: [Extraordinary Fidelity - The story of John Downey and Richard Fecteau, two CIA agents held prisoner for 20 years by the People's Republic of China](https://old.reddit.com/r/geopolitics/comments/tb5adw/extraordinary_fidelity_the_story_of_john_downey/), submitted on 2022-03-11 02:32:25+08:00.
+
+----- __166.1__ -----2022-03-11 10:11:27+08:00:
 
 Very interesting, but not appropriate here.  Try /r/craftofintelligence.
 
-### 165: [Question about borders](https://old.reddit.com/r/geopolitics/comments/tbxzrx/question_about_borders/), submitted on 2022-03-12 03:27:00+08:00.
+### 167: [Question about borders](https://old.reddit.com/r/geopolitics/comments/tbxzrx/question_about_borders/), submitted on 2022-03-12 03:27:00+08:00.
 
------ __165.1__ -----2022-03-12 13:05:27+08:00:
+----- __167.1__ -----2022-03-12 13:05:27+08:00:
 
 Post in one of the megathreads.
 
-### 166: [Your tax dollars at work...](https://old.reddit.com/r/walkaway/comments/tc0l2l/your_tax_dollars_at_work/), submitted on 2022-03-12 05:27:56+08:00.
+### 168: [Your tax dollars at work...](https://old.reddit.com/r/walkaway/comments/tc0l2l/your_tax_dollars_at_work/), submitted on 2022-03-12 05:27:56+08:00.
 
------ __166.1__ -----2022-03-12 11:57:19+08:00:
+----- __168.1__ -----2022-03-12 11:57:19+08:00:
 
 Well they've already prioritized the content creators on CNN, MSNBC and other apparatuses of consent manufacturing.  Might as well get the cohort that's not paying attention to those channels too.
 
-### 167: [Bennett advises Zelensky to surrender to Russia, Zelensky refuses](https://old.reddit.com/r/geopolitics/comments/tc4m4o/bennett_advises_zelensky_to_surrender_to_russia/), submitted on 2022-03-12 08:48:47+08:00.
+### 169: [Bennett advises Zelensky to surrender to Russia, Zelensky refuses](https://old.reddit.com/r/geopolitics/comments/tc4m4o/bennett_advises_zelensky_to_surrender_to_russia/), submitted on 2022-03-12 08:48:47+08:00.
 
------ __167.1__ -----2022-03-12 12:59:40+08:00:
+----- __169.1__ -----2022-03-12 12:59:40+08:00:
 
 Report potential misinformation or improper influence accounts to moderation, via the report button or modmail.  Do not derail conversations with speculation.
 
------ __167.2__ -----2022-03-12 13:02:07+08:00:
+----- __169.2__ -----2022-03-12 13:02:07+08:00:
 
 This thread is locked.  Numerous bans for the most basic rule violations, primarily profanity.  Come on, now.
 
------ __167.3__ -----2022-03-13 01:01:41+08:00:
+----- __169.3__ -----2022-03-13 01:01:41+08:00:
 
 Good catch.  Thanks!
 

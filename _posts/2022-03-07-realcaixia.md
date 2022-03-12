@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-12
+date: 2022-03-13
 from: https://twitter.com/realcaixia/status/1500502982466670595
 layout: post
 tags:
@@ -142,4 +142,12 @@ Re 《议报》今日将发布文建这篇文章的下半部分。文建在文�
 ### 32: [2022-03-12 06:20:59+08:00 推文](https://twitter.com/realcaixia/status/1502409275515326464)
 
 Re @John17Churchill @yibaochina 请帮助转推这篇文章，让更多的人看到。感谢🙏
+
+### 33: [2022-03-12 23:48:33+08:00 推文](https://twitter.com/realcaixia/status/1502672905443979267)
+
+特别推荐：今日《议报》文章<br>作者提出：<br>觉醒的欧洲已经充分意识到普京体制的威胁……保持经济制裁压力，以压促变是必然选项。 即使乌克兰上空的硝烟熄灭，欧美对俄大部分经济制裁将会持续，俄的经济社会在危急中继续动荡，这将不断侵蚀普京的政治资本，普京被迫端坐火山口。 <a href="https://yibaochina.com/?p=245306" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245306</a>
+
+### 34: [2022-03-13 02:33:51+08:00 推文](https://twitter.com/realcaixia/status/1502714505851293703)
+
+推荐：中国拐卖妇女现象深层分析 — 普通话主页。这篇文章以大量事实为根据，说明拐卖妇女犯罪行为屡禁不止，长期以来屡打而不绝，背后是制度之恶。 <a href="https://www.rfa.org/mandarin/ytbdzhuantixilie/guaimai-funu/wy-03102022131034.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/ytbdzhuantixilie/guaimai-funu/wy-03102022131034.html</a>
 
