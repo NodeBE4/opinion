@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-11
+date: 2022-03-12
 from: https://twitter.com/mauracunningham/status/1500807226084179969
 layout: post
 tags:
@@ -74,4 +74,12 @@ RT Bill Bishop<br>Brutal. Not convinced over<br><br>David Ingles: Alibaba at
 ### 15: [2022-03-11 12:23:38+08:00 推文](https://twitter.com/keithrichburg/status/1502138153842638849)
 
 RT Keith Richburg<br>‘while the latest change of strategy was necessary, it also exposed how unprepared and disorganised the government had been. Worse, its reactive mode was only further undermining its credibility, forcing trust levels to dip even lower among the public.’ <a href="https://www.scmp.com/news/hong-kong/health-environment/article/3170036/unprepared-and-disorganised-where-did-hong-kong" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/hong-kong/health-environment/article/3170036/unprepared-and-disorganised-where-did-hong-kong</a>
+
+### 16: [2022-03-11 23:17:11+08:00 推文](https://twitter.com/MariaRepnikova/status/1502302622207856640)
+
+RT Maria Repnikova<br>In my first collaboration with talented @WendyZhou502 for @TheAtlantic we argue that #China primarily sees the #RussiaUkraine conflict through the prism of the #UnitedStates and more broadly of the #West. 1/11 <a href="https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/" target="_blank" rel="noopener noreferrer">https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/</a>
+
+### 17: [2022-03-12 06:54:43+08:00 推文](https://twitter.com/ryanl_hass/status/1502417765105389568)
+
+RT Ryan Hass<br>Re @cnmediaproject provides historical context on the roots of PRC-Russian collaboration and the shared objective to "reshape the global information landscape" that drives their current coordination, including on disinformation. <a href="https://brook.gs/3pZ4Znp" target="_blank" rel="noopener noreferrer">https://brook.gs/3pZ4Znp</a>
 
