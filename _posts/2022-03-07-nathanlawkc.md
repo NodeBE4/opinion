@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-03-10
+date: 2022-03-12
 from: https://twitter.com/nathanlawkc/status/1500527349242253317
 layout: post
 tags:
@@ -28,4 +28,8 @@ War crime.<br><br>Edward Wong: Pure horror: Russian soldiers are deliberately 
 ### 3: [2022-03-10 21:35:27+08:00 推文](https://twitter.com/nathanlawkc/status/1501914635355791361)
 
 #StandwithHongKong<br><br>蔡英文 Tsai Ing-wen: 𝗥𝗲𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻 𝗼𝗳 𝗢𝘂𝗿 𝗧𝗶𝗺𝗲𝘀 @RoOT_film, a film documenting the democracy movement in #HongKong, is now showing in #Taiwan. The Hong Kong people’s courage &amp; commitment to democracy are an inspiration to us all, as we work to preserve our own freedoms &amp; way of life.<br><br><img style="" src="https://pbs.twimg.com/media/FNcognJVIAEPB8Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-03-12 20:01:40+08:00 推文](https://twitter.com/nathanlawkc/status/1502615808723324929)
+
+Chinese companies and officials who are assisting Putin’s invasion to Ukraine should also be sanctioned.<br><br>Russian banks rush to switch to Chinese card system <a href="https://www.reuters.com/business/finance/russian-banks-rush-switch-chinese-card-system-2022-03-06/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/business/finance/russian-banks-rush-switch-chinese-card-system-2022-03-06/</a>
 
