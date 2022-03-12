@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-11
+date: 2022-03-12
 from: https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/
 layout: post
 tags:
@@ -165,4 +165,10 @@ I have had candied almonds spiced with cardamom also.  Might be worth looking in
 ----- __164.1__ -----2022-03-11 10:11:27+08:00:
 
 Very interesting, but not appropriate here.  Try /r/craftofintelligence.
+
+### 165: [Your tax dollars at work...](https://old.reddit.com/r/walkaway/comments/tc0l2l/your_tax_dollars_at_work/), submitted on 2022-03-12 05:27:56+08:00.
+
+----- __165.1__ -----2022-03-12 11:57:19+08:00:
+
+Well they've already prioritized the content creators on CNN, MSNBC and other apparatuses of consent manufacturing.  Might as well get the cohort that's not paying attention to those channels too.
 
