@@ -166,9 +166,25 @@ I have had candied almonds spiced with cardamom also.  Might be worth looking in
 
 Very interesting, but not appropriate here.  Try /r/craftofintelligence.
 
-### 165: [Your tax dollars at work...](https://old.reddit.com/r/walkaway/comments/tc0l2l/your_tax_dollars_at_work/), submitted on 2022-03-12 05:27:56+08:00.
+### 165: [Question about borders](https://old.reddit.com/r/geopolitics/comments/tbxzrx/question_about_borders/), submitted on 2022-03-12 03:27:00+08:00.
 
------ __165.1__ -----2022-03-12 11:57:19+08:00:
+----- __165.1__ -----2022-03-12 13:05:27+08:00:
+
+Post in one of the megathreads.
+
+### 166: [Your tax dollars at work...](https://old.reddit.com/r/walkaway/comments/tc0l2l/your_tax_dollars_at_work/), submitted on 2022-03-12 05:27:56+08:00.
+
+----- __166.1__ -----2022-03-12 11:57:19+08:00:
 
 Well they've already prioritized the content creators on CNN, MSNBC and other apparatuses of consent manufacturing.  Might as well get the cohort that's not paying attention to those channels too.
+
+### 167: [Bennett advises Zelensky to surrender to Russia, Zelensky refuses](https://old.reddit.com/r/geopolitics/comments/tc4m4o/bennett_advises_zelensky_to_surrender_to_russia/), submitted on 2022-03-12 08:48:47+08:00.
+
+----- __167.1__ -----2022-03-12 12:59:40+08:00:
+
+Report potential misinformation or improper influence accounts to moderation, via the report button or modmail.  Do not derail conversations with speculation.
+
+----- __167.2__ -----2022-03-12 13:02:07+08:00:
+
+This thread is locked.  Numerous bans for the most basic rule violations, primarily profanity.  Come on, now.
 
