@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-22~2021-11-28'
 
 ### 2: [2021-11-24 11:13:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344873977917445)
 
-Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style src="https://pbs.twimg.com/media/FE6hd4WXsAERgv2?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hunan man Qing detained for 10 days for "insulting martyrs" in QQ.<br><img style="" src="https://pbs.twimg.com/media/FE6hd4WXsAERgv2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-25 18:56:20+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463823862999756801)
 
@@ -45,5 +45,5 @@ Shaanxi woman Xiao detained for 7 days for referring to police as robbers and ba
 
 ### 8: [2021-11-27 11:44:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464439838808104969)
 
-Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
+Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style="" src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
 
