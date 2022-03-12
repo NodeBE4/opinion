@@ -83,3 +83,27 @@ RT Maria Repnikova<br>In my first collaboration with talented @WendyZhou502 fo
 
 RT Ryan Hass<br>Re @cnmediaproject provides historical context on the roots of PRC-Russian collaboration and the shared objective to "reshape the global information landscape" that drives their current coordination, including on disinformation. <a href="https://brook.gs/3pZ4Znp" target="_blank" rel="noopener noreferrer">https://brook.gs/3pZ4Znp</a>
 
+### 18: [2022-03-12 11:28:36+08:00 推文](https://twitter.com/cnmediaproject/status/1502486688370933762)
+
+The conflict in Ukraine is "Russia's war" in much of the world. In many Chinese media it is a "special military operation." In this closer look at Chinese media coverage, CMP documents this official framing, but also finds some encouraging exceptions. <a href="https://bit.ly/35Px3mo" target="_blank" rel="noopener noreferrer">https://bit.ly/35Px3mo</a><br><img style="" src="https://pbs.twimg.com/media/FNnnqvFaQAAmZcY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-03-12 11:30:17+08:00 推文](https://twitter.com/cnmediaproject/status/1502487113182617600)
+
+Re In the 25 stories we isolated for study over the past week, here are the ways the war is characterized. The top is "Russia-Ukraine conflict," followed by "special military operation."<br><img style="" src="https://pbs.twimg.com/media/FNnn7MAakAMWPkU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-03-12 11:33:21+08:00 推文](https://twitter.com/cnmediaproject/status/1502487884036993028)
+
+Re Typical "war" use directed at the US and the West in Chinese coverage is from the Global Times using "special military operation." War is US-related:  "If this measure [sanctions] is put into action, it will inevitably further anger Russia and increase the risk of war spillover."
+
+### 21: [2022-03-12 11:36:50+08:00 推文](https://twitter.com/cnmediaproject/status/1502488762005483521)
+
+Re But in the small set of stories (5) that do use the phrase "Russia-Ukraine war," there is this noteworthy story from Shanghai's Xinmin Weekly (新民周刊), which centers coverage on a Chinese student in Ukraine. The lede (2nd paragraph) is strong on Russia.<br><img style="" src="https://pbs.twimg.com/media/FNnpa33aAAcauVT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-03-12 11:40:19+08:00 推文](https://twitter.com/cnmediaproject/status/1502489639994937347)
+
+Re For an excellent take on opinion on Chinese social media, this piece by @MariaRepnikova and @WendyZhou502 is a must-read. <a href="https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/" target="_blank" rel="noopener noreferrer">https://www.theatlantic.com/ideas/archive/2022/03/china-xi-ukraine-war-america/627028/</a>
+
+### 23: [2022-03-12 11:41:47+08:00 推文](https://twitter.com/cnmediaproject/status/1502490006392573952)
+
+Re Some background also on the China-Russia strategic information relationship in this piece for Brookings by CMP's David Bandurski. <a href="https://www.brookings.edu/techstream/china-and-russia-are-joining-forces-to-spread-disinformation/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/china-and-russia-are-joining-forces-to-spread-disinformation/</a>
+
