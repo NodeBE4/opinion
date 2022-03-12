@@ -188,3 +188,7 @@ Report potential misinformation or improper influence accounts to moderation, vi
 
 This thread is locked.  Numerous bans for the most basic rule violations, primarily profanity.  Come on, now.
 
+----- __167.3__ -----2022-03-13 01:01:41+08:00:
+
+Good catch.  Thanks!
+
