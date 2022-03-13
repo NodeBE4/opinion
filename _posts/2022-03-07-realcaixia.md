@@ -151,3 +151,23 @@ Re @John17Churchill @yibaochina 请帮助转推这篇文章，让更多的人看
 
 推荐：中国拐卖妇女现象深层分析 — 普通话主页。这篇文章以大量事实为根据，说明拐卖妇女犯罪行为屡禁不止，长期以来屡打而不绝，背后是制度之恶。 <a href="https://www.rfa.org/mandarin/ytbdzhuantixilie/guaimai-funu/wy-03102022131034.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/ytbdzhuantixilie/guaimai-funu/wy-03102022131034.html</a>
 
+### 35: [2022-03-13 10:27:30+08:00 推文](https://twitter.com/realcaixia/status/1502833702031740928)
+
+推荐#《议报》发布的译文。这是由世界一流中国问题专家参与的讨论中国问题的直播节目。<br>专家们平和理性地分析了习当局既支持普京又声称维护主权完整独立，站在普京一边又不想继续恶化与欧美国家的关系。<br>我认为普京开战以来，习当局言行充分暴露其投机性两面性虚伪性的本质。 <a href="https://yibaochina.com/?p=245310" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245310</a>
+
+### 36: [2022-03-13 13:12:54+08:00 推文](https://twitter.com/realcaixia/status/1502875328108285952)
+
+请读福山教授对俄侵乌战争的系列预测。<br>福山厉害！<br>福山教授的乐观是有根据有逻辑的。福山教授观照了影响战争走势的主要因素，经分析而得出下列结论。<br>例武器装备、后勤供给、战术运用、俄乌军队精神状态、国际舆论作用、欧美援乌策略、可资台海两岸借鉴、战后国际趋势、普京最终结局等。<br>特别推荐：<br><br>韩连潮: 有人已经把福山的文章翻译成中文了，题为“福山斗胆提出对乌克兰局势的系列预测”<br><br><img style="" src="https://pbs.twimg.com/media/FNszpzaX0AIdQFp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://www.scitizen.org/News/NewsDetail.aspx?ID=N220312-67386932" target="_blank" rel="noopener noreferrer">http://www.scitizen.org/News/NewsDetail.aspx?ID=N220312-67386932</a>
+
+### 37: [2022-03-13 13:26:03+08:00 推文](https://twitter.com/realcaixia/status/1502878637544161287)
+
+Re @yufu123456 @lianchaohan 你有什么根据说不像是福山的？
+
+### 38: [2022-03-13 13:30:20+08:00 推文](https://twitter.com/realcaixia/status/1502879714146500612)
+
+Re @zizhiban @lianchaohan 福山教授就是American purpose杂志的主编，谁能在这个杂志上冒充福山教授发表文章？！
+
+### 39: [2022-03-13 13:32:25+08:00 推文](https://twitter.com/realcaixia/status/1502880237620805637)
+
+中共是俄罗斯石油的最大买家。<br><br>韩连潮: 谁是俄国石油的最大买家？<br><br><img style="" src="https://pbs.twimg.com/media/FNsZA8pVcAI_Ryz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
