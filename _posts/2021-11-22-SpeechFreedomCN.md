@@ -33,7 +33,7 @@ Shaanxi woman Xiao detained for 7 days for referring to police as robbers and ba
 
 ### 5: [2021-11-25 22:28:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463877359334006791)
 
-看到这个标题，你是不是会觉得很反常？<br>竟然还有村干部骂人被抓的？<br>难道一直不都是村民骂村干部被拘留吗？<br>点开正文一看，原来这个村干部骂的是县里的干部。<br><img style="" src="https://pbs.twimg.com/media/FFC8TVGWYAYsmai?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFC8UUPXoAgWaVq?format=jpg&name=orig" referrerpolicy="no-referrer">
+看到这个标题，你是不是会觉得很反常？<br>竟然还有村干部骂人被抓的？<br>难道一直不都是村民骂村干部被拘留吗？<br>点开正文一看，原来这个村干部骂的是县里的干部。<br><img style src="https://pbs.twimg.com/media/FFC8TVGWYAYsmai?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFC8UUPXoAgWaVq?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-11-26 19:58:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464201824437743617)
 
