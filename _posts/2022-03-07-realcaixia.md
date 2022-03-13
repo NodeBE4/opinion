@@ -81,7 +81,7 @@ Re @John17Churchill 我们一起为中国的自由民主宪政而努力。🤝
 
 ### 17: [2022-03-09 04:03:46+08:00 推文](https://twitter.com/realcaixia/status/1501287581153116164)
 
-从来没有见过民主国家说“颠覆政权、颠覆某某党的领导”、“颠覆xx制度”的。民主国家每几年一次选举，就是授权政党组建政府；政党竞选上台下台，也从不认为是“颠覆党的领导”，相反那个被选下台的党要做反思和检讨，甚至党魁要引咎辞职。栗战书这种说法集中表现了中共政权的不合法性而带来的深重不安全感。<br><br>楊建利 Yang Jianli: 在他们眼里“铁链女”属于颠覆势力，人贩子、官官相护是维护共产党的领导。<br>斗、斗、斗、斗吧，百姓固然受害，“栗战书”们别忘了，贵党窝里斗残酷无情没底线，朝为堂上客，夕为阶下囚，你们见的还不够多吗？<br> <a href="https://twitter.com/rfa_chinese/status/1501077136177651712" target="_blank" rel="noopener noreferrer">https://twitter.com/rfa_chinese/status/1501077136177651712</a>
+从来没有见过民主国家说“颠覆政权、颠覆某某党的领导”、“颠覆xx制度”的。民主国家每几年一次选举，就是授权政党组建政府；政党竞选上台下台，也从不认为是“颠覆党的领导”，相反那个被选下台的党要做反思和检讨，甚至党魁要引咎辞职。栗战书这种说法集中表现了中共政权的不合法性而带来的深重不安全感。<br><br>楊建利 Yang Jianli: 在他们眼里“铁链女”属于颠覆势力，人贩子、官官相护是维护共产党的领导。<br>斗、斗、斗、斗吧，百姓固然受害，“栗战书”们别忘了，贵党窝里斗残酷无情没底线，朝为堂上客，夕为阶下囚，你们见的还不够多吗？<br> <a href="https://twitter.com/RFA_Chinese/status/1501077136177651712" target="_blank" rel="noopener noreferrer">https://twitter.com/RFA_Chinese/status/1501077136177651712</a>
 
 ### 18: [2022-03-09 04:09:05+08:00 推文](https://twitter.com/realcaixia/status/1501288916804149254)
 
@@ -170,4 +170,16 @@ Re @zizhiban @lianchaohan 福山教授就是American purpose杂志的主编，�
 ### 39: [2022-03-13 13:32:25+08:00 推文](https://twitter.com/realcaixia/status/1502880237620805637)
 
 中共是俄罗斯石油的最大买家。<br><br>韩连潮: 谁是俄国石油的最大买家？<br><br><img style="" src="https://pbs.twimg.com/media/FNsZA8pVcAI_Ryz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-03-13 22:00:37+08:00 推文](https://twitter.com/realcaixia/status/1503008129189130246)
+
+这就是乌克兰人民精神力量的体现。这样的民族，侵略者休想能征服！<br><br>王小山🇺🇦🇵🇱: 躲避炮弹袭击后的乌克兰钢琴家回到一片狼藉的家中，拂去钢琴上的炮灰，沉浸在自己的演奏之中……<br>她的女儿记录下了这动人心扉的一刻。<br><br>又把我搞哭了<br><br><video src="https://video.twimg.com/ext_tw_video/1502387036916903938/pu/vid/368x640/TD8HEY0UXPCV1YmI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1502387036916903938/pu/img/RVb4AOUnOQ9fNlDU.jpg"></video>
+
+### 41: [2022-03-13 22:18:18+08:00 推文](https://twitter.com/realcaixia/status/1503012581069447173)
+
+Re @bigbirdphuket 我说的是侵略者，并没有评论俄罗斯民族。你在偷换概念。
+
+### 42: [2022-03-13 23:01:41+08:00 推文](https://twitter.com/realcaixia/status/1503023498083676166)
+
+3/13【海峡论谈】乌克兰变局+韩国变天 习近平的噩梦？ <a href="https://youtu.be/uCQw5oBeIVo" target="_blank" rel="noopener noreferrer">https://youtu.be/uCQw5oBeIVo</a>
 
