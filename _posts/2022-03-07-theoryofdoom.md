@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-12
+date: 2022-03-13
 from: https://old.reddit.com/r/geopolitics/comments/t8axkd/putins_pointless_and_brutal_attack_on_ukraine_has/
 layout: post
 tags:
@@ -203,4 +203,10 @@ This thread is locked.  Numerous bans for the most basic rule violations, primar
 ----- __169.3__ -----2022-03-13 01:01:41+08:00:
 
 Good catch.  Thanks!
+
+### 170: [A medical ethicist is claiming Russia must be deprived of life-saving medicine for its citizens, because that would be ethic](https://old.reddit.com/r/stupidpol/comments/tcpndw/a_medical_ethicist_is_claiming_russia_must_be/), submitted on 2022-03-13 04:06:15+08:00.
+
+----- __170.1__ -----2022-03-13 09:47:32+08:00:
+
+Medical ethicists are consistently the most vapid people to have obtained higher education.
 
