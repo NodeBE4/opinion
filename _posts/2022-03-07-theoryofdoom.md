@@ -204,9 +204,19 @@ This thread is locked.  Numerous bans for the most basic rule violations, primar
 
 Good catch.  Thanks!
 
-### 170: [A medical ethicist is claiming Russia must be deprived of life-saving medicine for its citizens, because that would be ethic](https://old.reddit.com/r/stupidpol/comments/tcpndw/a_medical_ethicist_is_claiming_russia_must_be/), submitted on 2022-03-13 04:06:15+08:00.
+### 170: [How much caffeine do you usually have in a day?](https://old.reddit.com/r/GYM/comments/tc6tqm/how_much_caffeine_do_you_usually_have_in_a_day/), submitted on 2022-03-12 10:54:55+08:00.
 
------ __170.1__ -----2022-03-13 09:47:32+08:00:
+----- __170.1__ -----2022-03-13 22:30:11+08:00:
+
+Yerba mate has caffeine.  Which is the whole reason I drink it all the time.
+
+----- __170.2__ -----2022-03-13 22:31:22+08:00:
+
+More than 800 mg/day.
+
+### 171: [A medical ethicist is claiming Russia must be deprived of life-saving medicine for its citizens, because that would be ethic](https://old.reddit.com/r/stupidpol/comments/tcpndw/a_medical_ethicist_is_claiming_russia_must_be/), submitted on 2022-03-13 04:06:15+08:00.
+
+----- __171.1__ -----2022-03-13 09:47:32+08:00:
 
 Medical ethicists are consistently the most vapid people to have obtained higher education.
 
