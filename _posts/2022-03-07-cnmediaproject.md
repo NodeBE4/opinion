@@ -111,3 +111,11 @@ Re Some background also on the China-Russia strategic information relationship i
 
 RT Ian Johnson<br>Another citizen journalist/historian breaking through the state's monopoly on opinion. This time it's a Chinese journalist based in Ukraine telling people in YouTube vlogs what really is going on. Germie Barmé of @chinaheritage writing in @ChinaFile <a href="https://www.chinafile.com/reporting-opinion/viewpoint/wang-jixian-voice-other-china-odessa" target="_blank" rel="noopener noreferrer">https://www.chinafile.com/reporting-opinion/viewpoint/wang-jixian-voice-other-china-odessa</a>
 
+### 25: [2022-03-13 15:06:02+08:00 推文](https://twitter.com/cnmediaproject/status/1502903795915030529)
+
+Read CMP's quick study on the use of the word "war" in the Chinese media -- in the context of the war in Ukraine, but not always referring directly to the current conflict. Spoiler: the West is to blame. <a href="https://chinamediaproject.org/2022/03/12/when-war-isnt-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/12/when-war-isnt-war/</a><br><img style="" src="https://pbs.twimg.com/media/FNtjB6QagAYu2mY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-03-13 15:06:47+08:00 推文](https://twitter.com/cnmediaproject/status/1502903986374197248)
+
+Re But there are some surprises too, and "war" has been used by some media to describe what's happening in Ukraine.<br><img style="" src="https://pbs.twimg.com/media/FNtjMkGaUAI46kb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
