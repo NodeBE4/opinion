@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-12
+date: 2022-03-13
 from: https://twitter.com/mauracunningham/status/1500807226084179969
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re For an excellent take on opinion on Chinese social media, this piece by @Mari
 ### 23: [2022-03-12 11:41:47+08:00 推文](https://twitter.com/cnmediaproject/status/1502490006392573952)
 
 Re Some background also on the China-Russia strategic information relationship in this piece for Brookings by CMP's David Bandurski. <a href="https://www.brookings.edu/techstream/china-and-russia-are-joining-forces-to-spread-disinformation/" target="_blank" rel="noopener noreferrer">https://www.brookings.edu/techstream/china-and-russia-are-joining-forces-to-spread-disinformation/</a>
+
+### 24: [2022-03-13 10:22:20+08:00 推文](https://twitter.com/iandenisjohnson/status/1502832403483607042)
+
+RT Ian Johnson<br>Another citizen journalist/historian breaking through the state's monopoly on opinion. This time it's a Chinese journalist based in Ukraine telling people in YouTube vlogs what really is going on. Germie Barmé of @chinaheritage writing in @ChinaFile <a href="https://www.chinafile.com/reporting-opinion/viewpoint/wang-jixian-voice-other-china-odessa" target="_blank" rel="noopener noreferrer">https://www.chinafile.com/reporting-opinion/viewpoint/wang-jixian-voice-other-china-odessa</a>
 
