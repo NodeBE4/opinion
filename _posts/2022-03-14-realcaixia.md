@@ -35,3 +35,31 @@ title: 'Twitter @蔡霞: 2022-03-14~2022-03-20'
 
 Re @Hanowang 请发信息给我推特邮箱。
 
+### 6: [2022-03-14 11:01:10+08:00 推文](https://twitter.com/realcaixia/status/1503204560613031937)
+
+Re @shuanghe14 <a href="http://yibaochina.com/" target="_blank" rel="noopener noreferrer">http://yibaochina.com</a>
+
+### 7: [2022-03-14 11:02:45+08:00 推文](https://twitter.com/realcaixia/status/1503204960619712512)
+
+Re @shuanghe14 请链接： <a href="http://yibaochina.com/" target="_blank" rel="noopener noreferrer">http://yibaochina.com</a>
+
+### 8: [2022-03-14 11:05:02+08:00 推文](https://twitter.com/realcaixia/status/1503205535130267649)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FNx1dySVUAEjjjQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-03-14 11:07:11+08:00 推文](https://twitter.com/realcaixia/status/1503206075939672064)
+
+Re @Hanowang 现在您去看看是否能看到我的推特邮箱
+
+### 10: [2022-03-14 11:23:36+08:00 推文](https://twitter.com/realcaixia/status/1503210206796427271)
+
+我赞成网友自发的大翻译运动。这个翻译不仅是揭露中共极权意识形态毒害中国人，使不少中国人思想观念包括情感都有扭曲；而且更能提醒全世界各国政府和民众，高度警惕中共大外宣的渗透毒害，警惕中共大外宣的虚假信息、虚假叙事欺骗和误导公共舆论空间。这次俄罗斯侵乌战争，习当局早就开打信息战帮普京<br><br>DW 中文- 德国之声: #大翻译运动 成员在采訪中谈到了自己这么做的初衷："希望能够让更多国家的人明白，中国人并不是和中共大外宣当中的形象一样'热情，好客，温良'，而是骄傲，自大，民粹主义兴盛，残忍，嗜血，毫无同情心的集合体"。<br> <a href="https://p.dw.com/p/48OFF" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/48OFF</a>
+
+### 11: [2022-03-14 11:29:08+08:00 推文](https://twitter.com/realcaixia/status/1503211601889013761)
+
+特别推荐：#议报 发布<br>作者指出：<br>习大权独揽、保守的意识形态回归、官僚机构以战狼姿态对经济进行干预，导致中国经济活力丧失，经济危机阴影密布……而中共完全无视科学和专业的疫情清零政策， 更是让经济活力雪上加霜。经济基本面如此脆弱，资本市场怎么可能有上好表现？ <a href="https://yibaochina.com/?p=245333" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245333</a>
+
+### 12: [2022-03-14 11:43:45+08:00 推文](https://twitter.com/realcaixia/status/1503215279333068803)
+
+和平年代的平民，一旦进入反抗侵略的战争环境，就成为英雄。乌克兰民族伟大！<br><br>邱岳首: 33岁乌克兰影星帕夏.理上周六死于俄军对基辅的炮击，尸体刚被找到。他帮助孩子们疏散撤离，自己的防弹背心穿在他抱着的孩子身上…<br><br><img style="" src="https://pbs.twimg.com/media/FNxVtuJVgAMkSsW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FNxVyBcVUAQ_ZkQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/avalaina/status/1503051857559703558" target="_blank" rel="noopener noreferrer">https://twitter.com/avalaina/status/1503051857559703558</a>
+
