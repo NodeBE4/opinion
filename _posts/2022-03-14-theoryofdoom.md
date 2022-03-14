@@ -21,3 +21,7 @@ Submission Statement:
 
 This Washington Post article (hosted on Microsoft News) reports that Russia has sought military aid from China, including equipment.  China denies any such request was placed.  According to White House National Security Advisor Jake Sullivan, the Biden Administration is "communicating directly, privately" with Beijing on this matter and stated "that there will absolutely be consequences," but Sullivan failed to offer meaningful details on the same.
 
+----- __172.2__ -----2022-03-14 19:21:52+08:00:
+
+Trucks, generally, and fuel trucks, specifically, have been a big problem for Russia.  Logistics are their military's main issue.
+
