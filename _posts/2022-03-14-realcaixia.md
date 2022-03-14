@@ -103,3 +103,11 @@ Re 胡伟教授这篇文章在大陆已经被封杀。从中可以看出，或�
 
 Re @lianchaohan 胡伟教授这篇文章在大陆已经被封杀。从中可以看出，或许习要一条道走到黑。
 
+### 23: [2022-03-15 03:23:05+08:00 推文](https://twitter.com/realcaixia/status/1503451669111189505)
+
+很感动。<br><br>美国之音中文网: 乌克兰的歌剧演员们星期天(3月13日)在西部城市利沃夫市中心一条街道上演唱乌克兰国歌，展现抗击俄军的决心。此前几小时，俄罗斯对利沃夫地区的一个军事训练基地发动导弹袭击，造成至少35人丧生，134人受伤。<br><br><video src="https://video.twimg.com/amplify_video/1503128238381490183/vid/1280x720/4Yq9yHIXCyjyWVWb.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FNxRlNfX0AggYW5?format=jpg&amp;name=orig"></video>
+
+### 24: [2022-03-15 05:17:06+08:00 推文](https://twitter.com/realcaixia/status/1503480362026082313)
+
+Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁篪就是给美国政府传达习“旨令”而已。据说美也算是警告了中共。
+
