@@ -23,3 +23,9 @@ To reiterate and expand on the other two comments, the Manchu ᡝᠨᠶᡝ *eniy
 
 As I understand it, 朕 *zhen* as the first-person pronoun for emperors has been enshrined since the Qin, rather than being a specifically Manchu construction.
 
+### 220: [If ernst rohm (The leader of the Nazi SA) were to survive until the Nuremberg Trials, what would he be convicted of?](https://old.reddit.com/r/AskHistorians/comments/tdoh6s/if_ernst_rohm_the_leader_of_the_nazi_sa_were_to/), submitted on 2022-03-14 11:53:14+08:00.
+
+----- __220.1__ -----2022-03-14 13:11:46+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
