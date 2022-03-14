@@ -119,3 +119,7 @@ Read CMP's quick study on the use of the word "war" in the Chinese media -- in t
 
 Re But there are some surprises too, and "war" has been used by some media to describe what's happening in Ukraine.<br><img style="" src="https://pbs.twimg.com/media/FNtjMkGaUAI46kb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 27: [2022-03-13 19:34:38+08:00 推文](https://twitter.com/jojunmmmerco/status/1502971393126047744)
+
+RT Joyce Cheng<br>While Beijing refused to take a stand on the Russian-Ukrainian war, a bookstore in China silently displayed a series of books on Ukraine and Soviet history, including Nobel Prize-winning author Alexeyevich's "Secondhand Time". (1/2)<br><img style="" src="https://pbs.twimg.com/media/FNugYBzagAUp6Yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
