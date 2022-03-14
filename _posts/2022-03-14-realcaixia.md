@@ -111,3 +111,7 @@ Re @lianchaohan 胡伟教授这篇文章在大陆已经被封杀。从中可以�
 
 Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁篪就是给美国政府传达习“旨令”而已。据说美也算是警告了中共。
 
+### 25: [2022-03-15 05:38:29+08:00 推文](https://twitter.com/realcaixia/status/1503485746333851649)
+
+法新社：中國媒體淪為俄羅斯傳聲筒 <a href="https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20220314-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E5%AA%92%E9%AB%94%E6%B7%AA%E7%82%BA%E4%BF%84%E7%BE%85%E6%96%AF%E5%82%B3%E8%81%B2%E7%AD%92" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20220314-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E5%AA%92%E9%AB%94%E6%B7%AA%E7%82%BA%E4%BF%84%E7%BE%85%E6%96%AF%E5%82%B3%E8%81%B2%E7%AD%92</a>
+
