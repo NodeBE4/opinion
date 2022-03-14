@@ -25,3 +25,32 @@ This Washington Post article (hosted on Microsoft News) reports that Russia has 
 
 Trucks, generally, and fuel trucks, specifically, have been a big problem for Russia.  Logistics are their military's main issue.
 
+----- __172.3__ -----2022-03-14 19:47:28+08:00:
+
+Further Reading from the [Associated Press](https://apnews.com/article/russia-ukraine-biden-business-europe-china-d7cfda44db57c0ff19109d66ed876c6a): 
+
+> The Biden administration is also accusing China of spreading Russian disinformation that could be a pretext for Russian President Vladimir Putin’s forces to attack Ukraine with chemical or biological weapons.
+> 
+> . . . 
+> 
+> Biden administration officials say Beijing is spreading false Russian claims that Ukraine was running chemical and biological weapons labs with U.S. support. They say China is effectively providing cover if Russia moves ahead with a biological or chemical weapons attack on Ukrainians.
+
+https://apnews.com/article/russia-ukraine-biden-business-europe-china-d7cfda44db57c0ff19109d66ed876c6a
+
+### 173: [A New World Energy Order Is Emerging From Putin’s War on Ukraine](https://old.reddit.com/r/geopolitics/comments/tdvqy4/a_new_world_energy_order_is_emerging_from_putins/), submitted on 2022-03-14 19:53:45+08:00.
+
+----- __173.1__ -----2022-03-14 19:54:43+08:00:
+
+No Paywall: https://archive.ph/87zId
+
+Note that the above link may not work for you in certain countries, due to national laws.
+
+----- __173.2__ -----2022-03-14 20:01:09+08:00:
+
+Submission Statement:
+
+This article considers geopolitical shifts underway amid Vladimir Putin's war in Ukraine: Putin's war has "re-drawn[]" the "energy and geopolitical map in Europe," in perhaps the most significant way since the USSR's collapse.  The EU has undertaken new effort to divest itself from Russia, the United States has acutely limited Russian oil imports and Saudi Arabia's importance to American geopolitical strategy is renewed once more.  China, however, continues to prove a ready and willing market for Russian petrochemical commodities.  
+
+* Source:https://www.bloomberg.com/news/articles/2022-03-11/a-new-world-energy-order-is-emerging-from-putin-s-war-on-ukraine 
+* No-Paywall: https://archive.ph/87zId
+
