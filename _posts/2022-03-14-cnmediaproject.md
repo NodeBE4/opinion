@@ -59,7 +59,15 @@ For those who missed it: "When War Isn't War," CMP's look at the weekend into fr
 
 RT China Digital<br>Another data point in the Great Normalisation: tech business will be treated like normal businesses, and need to internalise the costs of doing so<br><br>Caixin Global: Tencent shares lost more than 10% after a report that it faces a record fine after China’s central bank found its WeChat Pay violated anti-money laundering rules.<br> <a href="https://www.caixinglobal.com/2022-03-15/tencent-shares-dive-on-report-of-record-fine-for-money-laundering-101855700.html?rkey=4jojc%2BU9DvvtuaHc2n7nI%2FFL%2FE7ci4pKtM5BTn%2BIyVUWo1U2GfFSAg%3D%3D&amp;cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-03-15/tencent-shares-dive-on-report-of-record-fine-for-money-laundering-101855700.html?rkey=4jojc%2BU9DvvtuaHc2n7nI%2FFL%2FE7ci4pKtM5BTn%2BIyVUWo1U2GfFSAg%3D%3D&amp;cxg=web&amp;Sfrom=twitter</a>
 
-### 12: [2022-03-15 17:01:10+08:00 推文](https://twitter.com/AlexDukalskis/status/1503657545499557890)
+### 12: [2022-03-15 15:46:23+08:00 推文](https://twitter.com/pingroma/status/1503638728857698306)
+
+RT Zheping Huang<br>Just in: China's cyberspace regulator said they dispatched a team to Douban to correct its "serious" violations. One-line statement, the most strongly worded in tech crackdown I've seen.<br><img style="" src="https://pbs.twimg.com/media/FN3_Zv8VUAIxVNk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-03-15 17:01:10+08:00 推文](https://twitter.com/AlexDukalskis/status/1503657545499557890)
 
 RT Alex Dukalskis<br>Today in extraterritorial censorship: <br><br>“Two British publishers have censored books intended for western readers to ensure they can be printed cheaply in China, in the latest instance of companies yielding to Beijing’s restrictions on free speech.” <a href="https://www.ft.com/content/63cbf209-656f-4f99-9ee3-722755c228ed" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/63cbf209-656f-4f99-9ee3-722755c228ed</a>
+
+### 14: [2022-03-15 21:16:28+08:00 推文](https://twitter.com/niubi/status/1503721795047903240)
+
+RT Bill Bishop<br>China has already decided to send economic aid to Russia in Ukraine conflict, US officials fear <a href="https://www.theguardian.com/world/2022/mar/15/china-has-already-decided-to-send-economic-aid-to-russia-in-ukraine-conflict-us-officials-fear" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/mar/15/china-has-already-decided-to-send-economic-aid-to-russia-in-ukraine-conflict-us-officials-fear</a>
 

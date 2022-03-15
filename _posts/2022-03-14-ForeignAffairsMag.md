@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-14
+date: 2022-03-16
 from: https://old.reddit.com/r/geopolitics/comments/tdxfij/the_return_of_pax_americana_putins_war_is/
 layout: post
 tags:
@@ -28,4 +28,13 @@ title: ForeignAffairsMag在2022-03-14~2022-03-20的言论
 \[SS from the article by Ana Raquel Minian, Associate Professor of History at Stanford University\]
 
 "Biden’s immigration policies are more similar to Trump’s than many Americans are willing to recognize, and in turn, those policies do not represent a departure from the United States’ longstanding approach to immigration. Those who denounced Trump’s practices should subject the current administration to the same scrutiny and criticism or risk another three years of stalled dialogue and empty promises to fix a broken system."
+
+### 156: [China’s Immunity Gap: The Zero-COVID Strategy Leaves the Country Vulnerable to an Omicron Tsunami](https://old.reddit.com/r/TrueReddit/comments/teveww/chinas_immunity_gap_the_zerocovid_strategy_leaves/), submitted on 2022-03-16 02:03:55+08:00.
+
+----- __156.1__ -----2022-03-16 02:05:21+08:00:
+
+\[SS from the January article by Yanzhong Huang, Professor at Seton Hall University’s School of Diplomacy and International Relations\]
+
+"Now the Chinese government faces a growing dilemma. Other countries, including Australia, New Zealand, and Singapore, have long since moved away from a zero-COVID strategy; China remains the lone holdout. Even though the rapid spread of Omicron could quickly render zero-COVID unsustainable, China has stubbornly clung to the strategy—largely, it seems, out of fear of the perceived consequences of abandoning it. For one thing, the government has instilled deep fear about COVID-19 in the Chinese population. Conditioned to expect a case rate at or near zero, many Chinese are convinced that even a small pullback in the policy would lead to the infection and hospitalization of hundreds of millions of people.  
+The stakes are even higher because China has linked its zero-COVID strategy to its ideological competition with the United States and the West. For Beijing to give up on zero-COVID and allow the new variant to run its course would be tantamount to admitting that its political system is no better than Western liberal democracy in protecting people’s health."
 
