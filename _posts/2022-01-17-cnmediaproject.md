@@ -29,7 +29,7 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
@@ -49,7 +49,7 @@ RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU versc
 
 ### 9: [2022-01-20 07:45:03+08:00 推文](https://twitter.com/cnmediaproject/status/1483948651726897153)
 
-In December, CMP wrote about the Human Rights Institute of the SW Univ. of Political Science and Law in Chongqing, and its strange relationship with the Free University of Amsterdam and CGTN regular Tom Zwart. Seems now that Chinese $$$ is involved.<br><img style="" src="https://pbs.twimg.com/media/FJgLNB7aIAM5lsw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization."<br><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a>
+In December, CMP wrote about the Human Rights Institute of the SW Univ. of Political Science and Law in Chongqing, and its strange relationship with the Free University of Amsterdam and CGTN regular Tom Zwart. Seems now that Chinese $$$ is involved.<br><img style="" src="https://pbs.twimg.com/media/FJgLNB7aIAM5lsw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization."<br><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a>
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
@@ -73,7 +73,7 @@ Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands,
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
-Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style="" src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-20 09:24:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483973733660655617)
 
