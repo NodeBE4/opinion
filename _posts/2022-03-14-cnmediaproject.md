@@ -47,15 +47,19 @@ Re We include a full translation of the column, by "Zhong Sheng" (钟声), an of
 
 RT CLB<br>Re 2/ For more on workers' rights and #commonprosperity, check out our NEW REPORT, released last week. Ch 1 discusses the reasons for a higher incidence of strikes and protests among #fooddelivery drivers, and Ch 5 is about workers "up against the algorithm." <a href="https://clb.org.hk/content/clb-report-reimagining-workers%E2%80%99-rights-china" target="_blank" rel="noopener noreferrer">https://clb.org.hk/content/clb-report-reimagining-workers%E2%80%99-rights-china</a>
 
-### 9: [2022-03-15 12:49:24+08:00 推文](https://twitter.com/cnmediaproject/status/1503594186943373316)
+### 9: [2022-03-15 12:12:13+08:00 推文](https://twitter.com/yawei_liu1960/status/1503584830004600836)
+
+RT Yawei Liu<br>I regret to share that both our English- and Chinese-language websites are now completely inaccessible in China, but we at @uscnpm do not regret publishing Hu Wei’s voice on China’s approach to #Ukraine.
+
+### 10: [2022-03-15 12:49:24+08:00 推文](https://twitter.com/cnmediaproject/status/1503594186943373316)
 
 For those who missed it: "When War Isn't War," CMP's look at the weekend into framing in the Chinese media of the Ukraine war. Which media use "war," and does it refer to Russia or the West? <a href="https://chinamediaproject.org/2022/03/12/when-war-isnt-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/12/when-war-isnt-war/</a><br><img style="" src="https://pbs.twimg.com/media/FN3W7jxaIAEnh3K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 10: [2022-03-15 15:23:24+08:00 推文](https://twitter.com/China_Digital/status/1503632945210437635)
+### 11: [2022-03-15 15:23:24+08:00 推文](https://twitter.com/China_Digital/status/1503632945210437635)
 
 RT China Digital<br>Another data point in the Great Normalisation: tech business will be treated like normal businesses, and need to internalise the costs of doing so<br><br>Caixin Global: Tencent shares lost more than 10% after a report that it faces a record fine after China’s central bank found its WeChat Pay violated anti-money laundering rules.<br> <a href="https://www.caixinglobal.com/2022-03-15/tencent-shares-dive-on-report-of-record-fine-for-money-laundering-101855700.html?rkey=4jojc%2BU9DvvtuaHc2n7nI%2FFL%2FE7ci4pKtM5BTn%2BIyVUWo1U2GfFSAg%3D%3D&amp;cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-03-15/tencent-shares-dive-on-report-of-record-fine-for-money-laundering-101855700.html?rkey=4jojc%2BU9DvvtuaHc2n7nI%2FFL%2FE7ci4pKtM5BTn%2BIyVUWo1U2GfFSAg%3D%3D&amp;cxg=web&amp;Sfrom=twitter</a>
 
-### 11: [2022-03-15 17:01:10+08:00 推文](https://twitter.com/AlexDukalskis/status/1503657545499557890)
+### 12: [2022-03-15 17:01:10+08:00 推文](https://twitter.com/AlexDukalskis/status/1503657545499557890)
 
 RT Alex Dukalskis<br>Today in extraterritorial censorship: <br><br>“Two British publishers have censored books intended for western readers to ensure they can be printed cheaply in China, in the latest instance of companies yielding to Beijing’s restrictions on free speech.” <a href="https://www.ft.com/content/63cbf209-656f-4f99-9ee3-722755c228ed" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/63cbf209-656f-4f99-9ee3-722755c228ed</a>
 
