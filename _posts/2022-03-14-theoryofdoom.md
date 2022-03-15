@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-14
+date: 2022-03-15
 from: https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/
 layout: post
 tags:
@@ -53,4 +53,16 @@ This article considers geopolitical shifts underway amid Vladimir Putin's war in
 
 * Source:https://www.bloomberg.com/news/articles/2022-03-11/a-new-world-energy-order-is-emerging-from-putin-s-war-on-ukraine 
 * No-Paywall: https://archive.ph/87zId
+
+### 174: [Rifts in global systems following the Ukraine war](https://old.reddit.com/r/geopolitics/comments/te23x5/rifts_in_global_systems_following_the_ukraine_war/), submitted on 2022-03-15 00:56:42+08:00.
+
+----- __174.1__ -----2022-03-15 11:05:28+08:00:
+
+This would be better submitted in response to the article already approved which focuses on these issues.
+
+### 175: [Russia to pay off foreign debt in Chinese yuan: Official](https://old.reddit.com/r/geopolitics/comments/te7wug/russia_to_pay_off_foreign_debt_in_chinese_yuan/), submitted on 2022-03-15 05:10:10+08:00.
+
+----- __175.1__ -----2022-03-15 11:22:46+08:00:
+
+Misleading, doubtful reporting.  Removed.
 
