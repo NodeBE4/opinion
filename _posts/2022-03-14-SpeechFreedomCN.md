@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-03-14
+date: 2022-03-15
 from: https://twitter.com/SpeechFreedomCN/status/1503159718130368515
 layout: post
 tags:
@@ -22,4 +22,16 @@ A university in Shandong Province is now under China style lockdown due to covid
 ### 2: [2022-03-14 08:06:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1503160518181376000)
 
 山东一高校因为疫情被封锁，校方警告被封锁在校内的学生不要发表任何（针对封校）的不正当言论。“现在网警监测很严格”，该通知称：“浏览过千就是犯罪”。<br><img style="" src="https://pbs.twimg.com/media/FNxMDdYUYAIj05n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-03-15 15:40:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1503637268061433858)
+
+2021年4月，广西乐业县男子刘某，因在朋友圈发布“辱骂110及公安民警的恶劣语言“，被处拘留15日，其具体言论内容不详。<br><img style="" src="https://pbs.twimg.com/media/FN394nkXoAMr0rh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-03-15 15:42:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1503637627458699272)
+
+Guangxi man Liu detained for 15 days for "insulting" local police force in WeChat Moments. The exact words that he posted remain unknown.<br><img style="" src="https://pbs.twimg.com/media/FN3-J-UWUAAjyXr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-03-15 16:15:31+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1503646058362064896)
+
+你怕是对“正常国家”有什么误解吧<br><br>Lizhi: @SpeechFreedomCN 黑要找点要点黑吧！这样的情况全世界正常国家法律都一样。<br>
 
