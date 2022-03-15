@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-14
+date: 2022-03-15
 from: https://twitter.com/melissakchan/status/1503065615493484544
 layout: post
 tags:
@@ -30,4 +30,8 @@ Re No talk of the challenges facing the world, lots on the glories of the host c
 ### 4: [2022-03-14 20:50:59+08:00 推文](https://twitter.com/CarlMinzner/status/1503352993466527744)
 
 RT Carl Minzner<br>It includes this doozy: "人民领袖爱人民，人民领袖人民爱" (The People's Leader loves the people, the people love the People's Leader)<br><br>Feels like that must have some direct Maoist roots – anyone know more about the historical origins of that phrase?<br><br>Carl Minzner: Nice catch by @theChinaDude - this 3/13 @PDChina article uses the Maoist term "People's Leader" 8 times to refer to Xi Jinping.<br> <a href="http://paper.people.com.cn/rmrb/html/2022-03/13/nw.D110000renmrb_20220313_1-02.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2022-03/13/nw.D110000renmrb_20220313_1-02.htm</a>
+
+### 5: [2022-03-15 06:36:35+08:00 推文](https://twitter.com/Lingling_Wei/status/1503500365609807874)
+
+RT Lingling Wei 魏玲灵<br>UPDATE: Beijing released two readouts from the Yang/Sullivan meeting. One was focused on the Taiwan issue; the other on Ukraine. Messaging is clear. Don’t mix up the two.<br><img style="" src="https://pbs.twimg.com/media/FN2BnOZXwAMw5Nf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN2BnO-WYAgvkcF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Lingling Wei 魏玲灵: Beijing is trying to shift attention from its decision to align more closely with Russia in the weeks ahead of its invasion of Ukraine, to its effort to help find a way to halt the fighting. But its role likely will be very limited.<br> <a href="https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-reluctance-to-distance-itself-from-russia-limits-its-role-on-ukraine-11647265212?reflink=desktopwebshare_twitter</a>
 
