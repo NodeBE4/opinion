@@ -97,7 +97,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 21: [2022-01-05 22:23:56+08:00 推文](https://twitter.com/realcaixia/status/1478734010260066307)
 
-封锁真相，禁止发声，这是专制独裁者的本能做法。言论自由新闻自由既是民主政治的前提又是民主政治的最基本最重要的要素。说真话遭镇压，何来民主？！把习的“全过程民主”说辞与中共当下对西安疫情做法一起观照，习的“全过程民主”就不只是荒谬可笑，实质是全过程恐怖暴政。<br><br>高瑜: 1300萬人被封城哪能不發聲！<br>西安雁塔區委書記、副書記被免職，人民日報的官微評論區評論上萬。<br>獨立媒體人，前財新記者江雪發表《長安十日》<br>不論聲音響不響，能發出就不易！不論代價如何，先致敬！撲滅這樣的聲音，那叫泯滅人性！<br><br><img style="" src="https://pbs.twimg.com/media/FIT8zUcakAEhi7k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIT82lMaAAIQBlw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://reurl.cc/8Wn0eo" target="_blank" rel="noopener noreferrer">https://reurl.cc/8Wn0eo</a> <a href="https://reurl.cc/bkRDAy" target="_blank" rel="noopener noreferrer">https://reurl.cc/bkRDAy</a>
+封锁真相，禁止发声，这是专制独裁者的本能做法。言论自由新闻自由既是民主政治的前提又是民主政治的最基本最重要的要素。说真话遭镇压，何来民主？！把习的“全过程民主”说辞与中共当下对西安疫情做法一起观照，习的“全过程民主”就不只是荒谬可笑，实质是全过程恐怖暴政。<br><br>高瑜: 1300萬人被封城哪能不發聲！<br>西安雁塔區委書記、副書記被免職，人民日報的官微評論區評論上萬。<br>獨立媒體人，前財新記者江雪發表《長安十日》<br>不論聲音響不響，能發出就不易！不論代價如何，先致敬！撲滅這樣的聲音，那叫泯滅人性！<br><br><img style src="https://pbs.twimg.com/media/FIT8zUcakAEhi7k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIT82lMaAAIQBlw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://reurl.cc/8Wn0eo" target="_blank" rel="noopener noreferrer">https://reurl.cc/8Wn0eo</a> <a href="https://reurl.cc/bkRDAy" target="_blank" rel="noopener noreferrer">https://reurl.cc/bkRDAy</a>
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
@@ -125,7 +125,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
