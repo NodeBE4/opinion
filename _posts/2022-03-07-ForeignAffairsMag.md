@@ -62,9 +62,15 @@ Just as it was during the Cold War, however, Africa, has become a crucial battle
 
 "With the Security Council facing a period of increasing fragmentation and paralysis, the United States and its allies will need to see what parts of the UN system they can still use to limit international instability. The Ukrainian conflict marks the most severe test for multilateralism since the end of the Cold War, and the full scale of its impact on international diplomacy is still unclear. But it may still be possible to preserve significant parts of the UN system to face future crises."
 
-### 152: [Putin’s Nuclear Bluff: How the West Can Make Sure Russia’s Threats Stay Hollow](https://old.reddit.com/r/geopolitics/comments/tbren9/putins_nuclear_bluff_how_the_west_can_make_sure/), submitted on 2022-03-11 22:33:03+08:00.
+### 152: [War in Ukraine Megathread VIII](https://old.reddit.com/r/europe/comments/tbjd0n/war_in_ukraine_megathread_viii/), submitted on 2022-03-11 14:00:31+08:00.
 
------ __152.1__ -----2022-03-11 22:34:16+08:00:
+----- __152.1__ -----2022-03-15 22:35:08+08:00:
+
+[International Law Goes to War in Ukraine: The Legal Pushback to Russia’s Invasion By Oona A. Hathaway](https://www.foreignaffairs.com/articles/ukraine/2022-03-15/international-law-goes-war-ukraine)
+
+### 153: [Putin’s Nuclear Bluff: How the West Can Make Sure Russia’s Threats Stay Hollow](https://old.reddit.com/r/geopolitics/comments/tbren9/putins_nuclear_bluff_how_the_west_can_make_sure/), submitted on 2022-03-11 22:33:03+08:00.
+
+----- __153.1__ -----2022-03-11 22:34:16+08:00:
 
 \[SS from the article by Olga Oliker, Director of the Europe and Central Asia Program at the International Crisis Group\]
 
