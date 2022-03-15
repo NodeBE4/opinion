@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-15
+date: 2022-03-16
 from: https://twitter.com/realcaixia/status/1503141644224372736
 layout: post
 tags:
@@ -130,4 +130,12 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 ### 29: [2022-03-15 22:34:59+08:00 推文](https://twitter.com/realcaixia/status/1503741556599275526)
 
 美国providence全文刊发了中国大陆著名公共知识人士文建的文章。他呼吁欧美国家与中国的贸易必须与保护人权问题挂钩。<br>我们希望海内外华人中正义人士的声音能更多地传到西方世界中去，加强海内外正义华人与西方世界人们的沟通交流，更广泛地联合团结一切反极权专制力量，帮助中国人争取自由民主宪政。<br><br>楊建利 Yang Jianli: This article, by an intellectual in China, calls 4 trade 2 once again be linked 2 human rights, particularly now 2 sever the supply chain where US, EU&amp;Japanese funds r still ending up in Russia via China.<br><br>International Trade Must Be Linked to Human Rights<br> <a href="https://providencemag.com/2022/03/international-trade-human-rights-russia-china-ukraine-sanctions/" target="_blank" rel="noopener noreferrer">https://providencemag.com/2022/03/international-trade-human-rights-russia-china-ukraine-sanctions/</a>
+
+### 30: [2022-03-16 02:30:19+08:00 推文](https://twitter.com/realcaixia/status/1503800779349635074)
+
+俄罗斯央视的员工比北京央视员工勇敢。北京央视员工许多人不是思想封闭，不明白是非黑白，习当局的恐怖残暴他们都知道，自保安全是本能的做法。大陆言论环境空前严酷。习的全过程民主就是全过程镇压。<br><br>Steve Rosenberg: Absolutely astonishing. During Russian Channel 1’s evening news broadcast, a woman ran onto the set with a sign: “No war…Don’t believe the propaganda. They’re lying to you here.”<br><br><img style="" src="https://pbs.twimg.com/media/FN1WIuXXEAYwCh8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-03-16 03:03:51+08:00 推文](https://twitter.com/realcaixia/status/1503809215814639630)
+
+特別推薦《議報》轉發烏克蘭總統夫人致全球媒體公開信。向澤連斯基總統夫人致敬！<br>自俄軍侵烏以來，無論情況多危險，總統夫人一直在烏克蘭人民中間，一直呼籲全球關注烏克蘭婦女兒童遭遇的戰爭人道災難。<br>相比之下，中共第一夫人除了在世界亮秀她的服裝外，可曾為中國大陸婦女兒童的苦難說過一句話？！<br><br>《议报》: 乌克兰总统夫人致全球媒体公开信：我们会赢<br> <a href="https://yibaochina.com/?p=245387" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245387</a>
 
