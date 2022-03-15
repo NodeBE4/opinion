@@ -115,3 +115,15 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 
 法新社：中國媒體淪為俄羅斯傳聲筒 <a href="https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20220314-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E5%AA%92%E9%AB%94%E6%B7%AA%E7%82%BA%E4%BF%84%E7%BE%85%E6%96%AF%E5%82%B3%E8%81%B2%E7%AD%92" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20220314-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B8%AD%E5%9C%8B%E5%AA%92%E9%AB%94%E6%B7%AA%E7%82%BA%E4%BF%84%E7%BE%85%E6%96%AF%E5%82%B3%E8%81%B2%E7%AD%92</a>
 
+### 26: [2022-03-15 08:39:15+08:00 推文](https://twitter.com/realcaixia/status/1503531236421210113)
+
+读徐贲教授的这篇文章，不由想起汉娜.阿伦特的《平庸的恶》（大陆译书名）。<br>相当数量的普通人，“自愿服从”极权统治以得“岁月静好”；亦有籍“执行公务”之名，冷血漠视苦难与不公；还有挣表现以爬上一官半职参与分羹的……。现在大批粉红五毛狂热撑俄侵乌，如此之邪恶之张狂，这类“普通人”还有救吗？<br><br>韩连潮: 【好文推荐】#议报 转载了 #徐贲 教授的文章：什么样的人才能在极权统治之下活得较为舒服？ 这篇文章值得一读：<br> <a href="https://yibaochina.com/?p=245340" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245340</a>
+
+### 27: [2022-03-15 08:46:33+08:00 推文](https://twitter.com/realcaixia/status/1503533074256211971)
+
+习是一条道走到黑。<br><br>杨佩昌: 当年的抗美援朝，白白牺牲百万志愿军，不仅没有换来金家王朝半分的感激，而且中国还承受了被世界孤立近三十年的后果，直到改革开放才缓过一口气来。<br>如今，又到了抉择的关键时刻，可别为了普京的帝国梦而做出抗美援俄的事情。联合国大会145个国家对俄罗斯的谴责，难道还说明不了什么吗？那是人心所向。<br>
+
+### 28: [2022-03-15 11:53:48+08:00 推文](https://twitter.com/realcaixia/status/1503580196401778691)
+
+特别推荐：<br>文章报道海内外正义华人顶着中共的恐怖高压，自发开展大翻译运动。<br>文章报道在长期的反人性反文明极权洗脑毒害下，中国不少人被泯灭了善良仁慈，形成了冷酷嗜血的战狼性格；反映了中共宣传系统对内煽动仇美对外虚伪中立的两幅嘴脸。<br>向所有大翻译运动参与者致敬！ <a href="https://www.rfa.org/mandarin/yataibaodao/meiti/hx2-03142022115645.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/meiti/hx2-03142022115645.html</a>
+
