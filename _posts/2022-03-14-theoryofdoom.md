@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-15
+date: 2022-03-16
 from: https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/
 layout: post
 tags:
@@ -85,4 +85,10 @@ Misleading, misinformation.  The era of pseudo-expertise found among Twitter-bas
 ----- __177.1__ -----2022-03-15 11:22:46+08:00:
 
 Misleading, doubtful reporting.  Removed.
+
+### 178: [The Economic Fallout of the Ukraine War in the Middle East](https://old.reddit.com/r/geopolitics/comments/tewlwc/the_economic_fallout_of_the_ukraine_war_in_the/), submitted on 2022-03-16 02:46:42+08:00.
+
+----- __178.1__ -----2022-03-16 19:41:04+08:00:
+
+Stop these crossposts.
 
