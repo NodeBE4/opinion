@@ -167,3 +167,11 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 
 寻找乌衣！<br><br>王清鹏: 关注铁链女，寻找乌衣！<br>今天除徐州警方上门宣读拘留通知书（没有留下）外没有新消息出来。为什么不敢留拘留通知书？估计怕被拍照传到网上引起国际国内公愤。<br>应解救铁链女的当局不解救铁链女，反而把去看望铁链女的网友第二次拘留了！<br>这份拘留通知书分量太重，重到能压倒骆驼！<br>所以，当局不敢出示。<br>
 
+### 39: [2022-03-17 07:06:01+08:00 推文](https://twitter.com/realcaixia/status/1504232549601718273)
+
+中国法官投反对票一定是执行习当局旨意；如果中国法官投赞成票，那一定是中国法官豁出自己的一切去捍卫公理良知，捍卫自己的职责尊严。<br>然而，薛法官执行习旨意投反对票，把自己定在耻辱柱上；也是习当局撕掉伪善面具，给自己脸上刺上了俄普与中习狼狈为奸的邪恶轴心首领的印记。<br><br>韩连潮: 联合国国际法院今天以13票对2票下判决令，要求俄罗斯停止在乌克兰的军事行动。中共党国任命的大法官薛捍勤和俄国大法官一起投了反对票，足见中共已选边站队。薛的反对票一定是中央最高层的决定。<br><br><img style="" src="https://pbs.twimg.com/media/FN_M3GNWUAE90fj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN_NKEyXwAIsd1U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-03-17 07:25:32+08:00 推文](https://twitter.com/realcaixia/status/1504237460062191623)
+
+特别推荐：长平观察：被僵尸化的小粉红。<br>这篇观察报道揭示小粉红是中共极权洗脑的产物，他们在日常私人生活中或许还有人性的自然流露，而一旦涉及到社会公共问题，小粉红们就喧嚣出被极权长臂操控的反人性的“僵尸版蠢动”，违反常理常识常情妖言谬论。 <a href="https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%A2%AB%E5%83%B5%E5%B0%B8%E5%8C%96%E7%9A%84%E5%B0%8F%E7%B2%89%E7%BA%A2/a-61135098" target="_blank" rel="noopener noreferrer">https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%A2%AB%E5%83%B5%E5%B0%B8%E5%8C%96%E7%9A%84%E5%B0%8F%E7%B2%89%E7%BA%A2/a-61135098</a>
+
