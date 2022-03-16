@@ -139,3 +139,7 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 
 特別推薦《議報》轉發烏克蘭總統夫人致全球媒體公開信。向澤連斯基總統夫人致敬！<br>自俄軍侵烏以來，無論情況多危險，總統夫人一直在烏克蘭人民中間，一直呼籲全球關注烏克蘭婦女兒童遭遇的戰爭人道災難。<br>相比之下，中共第一夫人除了在世界亮秀她的服裝外，可曾為中國大陸婦女兒童的苦難說過一句話？！<br><br>《议报》: 乌克兰总统夫人致全球媒体公开信：我们会赢<br> <a href="https://yibaochina.com/?p=245387" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245387</a>
 
+### 32: [2022-03-16 09:54:06+08:00 推文](https://twitter.com/realcaixia/status/1503912459803017216)
+
+勇敢的俄罗斯央视女编辑公开反对侵乌战争。判决这事的俄罗斯法官也了不起，只是罚款没有定罪名。放在中国，女编辑被定“煽动颠覆政权”罪或“寻衅滋事”罪。中共国是最残暴的极权国家。<br><br>美国之音中文网: 俄罗斯国营电视台第一频道的玛丽娜·奥维斯亚纳科娃14日在直播时举反战标语，法庭15日裁决她藐视抗议法律，罚款3万卢布（合2百80美元），此前克里姆林宫称她的抗议是“流氓行为“。目前还不清楚她是否面临更严重的指控。奥维斯亚纳科娃说她被连续审讯14个小时，现在需要休息。<br><br><video src="https://video.twimg.com/amplify_video/1503802336401145863/vid/720x720/VTdGkPqio2pnXUv0.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FN6U1UeX0AUQZRK?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3q9EawO" target="_blank" rel="noopener noreferrer">https://bit.ly/3q9EawO</a>
+
