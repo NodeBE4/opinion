@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-16
+date: 2022-03-17
 from: https://twitter.com/realcaixia/status/1503141644224372736
 layout: post
 tags:
@@ -146,4 +146,24 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 ### 33: [2022-03-16 23:10:17+08:00 推文](https://twitter.com/realcaixia/status/1504112825349799942)
 
 我曾经为中共国究竟是威权还是极权与许多人争论过，从一些中国学者到美国研究中国问题的学者，他们认为我偏激。学者争论的基本方式是概念区分，而事实却是一下子就能将概念具象化，鲜明区分出哪是极权哪是威权。<br><br>特别推荐下面这则推文：<br>两位举牌人，两种境遇。俄罗斯威权，中共极权。<br><br>韩连潮: 【极权和威权的区别】很多人西方人搞不清什么是极权和威权，常常把中共党国说成威权，一字之差酿成大错。下图两个举牌人的不同命运，说明了极权和威权的区别。深圳这位被抓两个多月生死不明，俄国这位罚了相当1700人民币回到家中。极权和威权的学术定义是，前者全方位控死个人，而后者则要求盲目服从。<br><br><img style="" src="https://pbs.twimg.com/media/FN-pLKkXoAY3AVG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN-pOugXMAsGdXt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN-pTgnXsAMtn6q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN-pV88XwA06DAU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 34: [2022-03-17 01:09:26+08:00 推文](https://twitter.com/realcaixia/status/1504142810769162240)
+
+这句话堪称经典。无论是不是丘吉尔说的。<br><br>停雲 🇺🇦: 丘吉尔：未来，法西斯将以反法西斯面目出现！<br><br><img style="" src="https://pbs.twimg.com/media/FM6jfoWVQAEgOKL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-03-17 01:21:31+08:00 推文](https://twitter.com/realcaixia/status/1504145850255163403)
+
+這是个好消息。锁链女牵动着我们所有人的心。关注越多，锁链女就越安全。同样是这个道理，我们需要高度关注大陆目前仍在悲惨境遇的的更多不知名姓的被拐卖的妇女儿童，高度关注更多因反抗极权而遭迫害的义士。孙家喜、许志永、高智晟、任志强、方斌、耿潇男、许章润………。<br><br>王清鹏: 铁链女 #李莹 还活着！！<br>转国内网友：“铁链女目前还在医院，只有有探视证的家属能探望，目前是谁在照顾她不明。”<br>铁链女还在丰县精神卫生中心。<br>请网友们持续关注！<br>大家越关注，铁链女越安全🙏<br><br>徐州当局，让 #铁链女 出来说话！<br><br><img style="" src="https://pbs.twimg.com/media/FN7D_LoUcAARF2Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 36: [2022-03-17 01:43:46+08:00 推文](https://twitter.com/realcaixia/status/1504151450477281280)
+
+乌衣为救锁链女而遭丰县自称警察的一伙人拘押、搜身、审讯。这是乌衣2月21日发布的她在丰县与警察斗智斗勇的过程。请耐心读完七个截图文字。后来，乌衣就“失踪”了，至今生死不明。关注锁链女的同时，让我们都来关注乌衣，大声呼吁：寻找乌衣！乌衣在哪里？<br><br>左手墨迹: 不得不说乌衣简直太牛逼了！有智慧有胆识有文采，思维缜密逻辑清晰，非常优秀的当代纪实文字，甩那些作协饭桶几百条街！！大赞！！！<br><br><img style="" src="https://pbs.twimg.com/media/FMFqkwHWYAEztNr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMFqkwFXwA0EdXU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMFqkw0XwAczUit?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMFqkw1XwAEH_Iv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-03-17 01:49:11+08:00 推文](https://twitter.com/realcaixia/status/1504152812778835971)
+
+乌衣为救锁链女而遭丰县自称警察的一伙人拘押、搜身、审讯。这是乌衣2月21日发布的她在丰县与警察斗智斗勇的过程（二）<br>请耐心读完七幅截图的第4-7图文字。<br>后来，乌衣就“失踪”了，至今生死不明。关注锁链女的同时，让我们都来关注乌衣，大声呼吁：寻找乌衣！乌衣在哪里？<br><br>左手墨迹: <br><br><img style="" src="https://pbs.twimg.com/media/FMFqlaGXEAAD_dE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMFqlaEX0AAj-qM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FMFqlbXXsAgMLNi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 38: [2022-03-17 01:50:35+08:00 推文](https://twitter.com/realcaixia/status/1504153166597832704)
+
+寻找乌衣！<br><br>王清鹏: 关注铁链女，寻找乌衣！<br>今天除徐州警方上门宣读拘留通知书（没有留下）外没有新消息出来。为什么不敢留拘留通知书？估计怕被拍照传到网上引起国际国内公愤。<br>应解救铁链女的当局不解救铁链女，反而把去看望铁链女的网友第二次拘留了！<br>这份拘留通知书分量太重，重到能压倒骆驼！<br>所以，当局不敢出示。<br>
 
