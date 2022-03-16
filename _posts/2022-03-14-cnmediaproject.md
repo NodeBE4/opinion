@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-15
+date: 2022-03-16
 from: https://twitter.com/melissakchan/status/1503065615493484544
 layout: post
 tags:
@@ -70,4 +70,44 @@ RT Alex Dukalskis<br>Today in extraterritorial censorship: <br><br>“Two Brit
 ### 14: [2022-03-15 21:16:28+08:00 推文](https://twitter.com/niubi/status/1503721795047903240)
 
 RT Bill Bishop<br>China has already decided to send economic aid to Russia in Ukraine conflict, US officials fear <a href="https://www.theguardian.com/world/2022/mar/15/china-has-already-decided-to-send-economic-aid-to-russia-in-ukraine-conflict-us-officials-fear" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/mar/15/china-has-already-decided-to-send-economic-aid-to-russia-in-ukraine-conflict-us-officials-fear</a>
+
+### 15: [2022-03-16 06:58:32+08:00 推文](https://twitter.com/Colum_M/status/1503868278854361088)
+
+RT Colum Murphy<br>China’s support for Russia in the war in Ukraine is showing its limits as the domestic costs for President Xi start to outweigh the benefits of confronting the U.S. <a href="https://www.bloomberg.com/news/articles/2022-03-15/china-s-goal-with-putin-is-to-resist-u-s-without-economic-pain" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-03-15/china-s-goal-with-putin-is-to-resist-u-s-without-economic-pain</a>
+
+### 16: [2022-03-16 07:24:40+08:00 推文](https://twitter.com/cnmediaproject/status/1503874855430930432)
+
+Today's front page in the People's Daily is once again all Xi Jinping and talk of "necessary roads" (必由之路). The Rome meeting with the US is pushed to page three.<br><img style="" src="https://pbs.twimg.com/media/FN7WMhDaIAEyxp3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-03-16 07:29:34+08:00 推文](https://twitter.com/cnmediaproject/status/1503876088489189376)
+
+Re The report on Rome centers on Taiwan and China's assertion that the US has upheld the One-China policy in principle but undermined it in action; and on Xinjiang and Tibet as "internal affairs" of China. There is only mention in passing at end that Ukraine was discussed.<br><img style="" src="https://pbs.twimg.com/media/FN7XURwacAA1keO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-03-16 07:37:59+08:00 推文](https://twitter.com/cnmediaproject/status/1503878205077594113)
+
+Re But on page 16, the leadership really doubles down on the Russian disinformation, a column from "Zhong Sheng" (钟声), a byline representing views of the central leadership, treating seriously Russian allegations of US-run biological labs in Ukraine. <a href="http://world.people.com.cn/n1/2022/0316/c1002-32375661.html" target="_blank" rel="noopener noreferrer">http://world.people.com.cn/n1/2022/0316/c1002-32375661.html</a>
+
+### 19: [2022-03-16 07:39:38+08:00 推文](https://twitter.com/cnmediaproject/status/1503878621983051778)
+
+Re The first line of that "Zhong Sheng" column: "Recently, Russia has revealed a series of U.S. biomilitary cooperation projects in Ukraine, further unveiling the "biomilitary empire" of the United States." Here is FT's earlier report with background: <a href="https://www.ft.com/content/3f9b8164-e9d6-4dfd-880a-f4fa96966439" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/3f9b8164-e9d6-4dfd-880a-f4fa96966439</a>
+
+### 20: [2022-03-16 07:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1503880006761877507)
+
+Re As we said at the start of this thread, the focus in the People's Daily is Xi, and more Xi. Once again, the printing of an "important speech" in the journal Seeking Truth (求是) is top news. Tops the PD website as well.<br><img style="" src="https://pbs.twimg.com/media/FN7a2iyagAQ5pRz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-03-16 07:47:05+08:00 推文](https://twitter.com/cnmediaproject/status/1503880496966942720)
+
+Re As we wrote on Monday, when any mention of the imminent Yang-Sullivan meeting was absent from the paper -- whatever is happening in the world right now, China's top-top focus is internal power politics. And this will drive much decision-making. <a href="https://chinamediaproject.org/2022/03/14/an-anthem-for-the-new-era/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/14/an-anthem-for-the-new-era/</a>
+
+### 22: [2022-03-16 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1503931084853354499)
+
+China’s annual “two sessions" (两会) are not just about introducing policy decisions and new legislative proposals. They are seen by the government and official state media as a key time to deliver China’s propaganda message overseas. Here's how: <a href="https://chinamediaproject.org/2022/03/16/tricks-of-the-external-propaganda-trade/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/16/tricks-of-the-external-propaganda-trade/</a><br><img style="" src="https://pbs.twimg.com/media/FN8JPI8aIAAlEwn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-03-16 11:11:08+08:00 推文](https://twitter.com/cnmediaproject/status/1503931845830152194)
+
+Re This year, the People’s Daily reports, its external propaganda drops during the “two sessions” totaled close to 4,800, achieved through the placement of 770 articles in more than 200 media in 60 countries and 13 languages.<br><img style="" src="https://pbs.twimg.com/media/FN8KB8TaUAUhtw6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-03-16 11:12:47+08:00 推文](https://twitter.com/cnmediaproject/status/1503932260348997637)
+
+Re State media have also pushed "innovative" external propaganda approaches, like Xinhua's regular "Ambassadors Observing the Two Sessions” feature, which solicits very positive comments from foreign diplomats in China.<br><img style="" src="https://pbs.twimg.com/media/FN8KZ-baUAINcEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
