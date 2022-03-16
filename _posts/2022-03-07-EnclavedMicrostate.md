@@ -172,3 +172,30 @@ I bring up Western Xia because in a sense, it is a decent candidate for being a 
 
 So, have there ever been Hui or Tibetan dynasties of China? No, firstly because 'Hui' and 'Tibetan' as identities are more recent than they may first appear, and secondly because Tibetans in particular were not a substantial part of 'China' in any meaningful sense until arguably the Yuan and more concretely the Qing (and even if you count the Yuan they were not part of the Ming). Moreover, the 'dynastic' classification breaks down once you get in the weeds a bit, and is just an unhelpful method of categorisation except in the broadest strokes.
 
+### 220: [[Hobby Scuffles] Week of March 14, 2022](https://old.reddit.com/r/HobbyDrama/comments/td8ojf/hobby_scuffles_week_of_march_14_2022/), submitted on 2022-03-13 23:00:12+08:00.
+
+----- __220.1__ -----2022-03-16 23:15:46+08:00:
+
+> How do you know what country the HoloEn people are in/from?
+
+To add to /u/LordMonday, both Calli[ope] and IRyS have mentioned being in Japan, and even if they hadn't the fact that they meet up offline with each other and other Japanese members is a bit of a giveaway. Kiara has been very overtly not concealing her general location; she used to claim she was from 'Australia' (with intentional irony) but officially just admitted to being in Austria after overhearing someone IRL taking it completely seriously.
+
+----- __220.2__ -----2022-03-16 23:19:49+08:00:
+
+> They are different from Hololive and Nijisanji since they grabbed streamers that were experienced, popular and had their own brands already
+
+That's not entirely true as phrased though I believe I agree with what you're trying to get at – I don't know about Nijisanji but Hololive, at least looking at EN, has generally hired people with some degree of experience with some form of content creation already and a decently established audience – no names named just to preserve the 'forbidden knowledge'. The difference vs VShojo is that with one notable exception (Suisei) Hololive talents get totally new VTuber personas whereas VShojo simply pulled together several existing talent-persona pairs (and added a couple new ones).
+
+----- __220.3__ -----2022-03-16 23:25:52+08:00:
+
+> Yeah, I'm sort of surprised she only got a slap on the wrist for it. I don't know the full details of the situation so maybe it's not that close, but, I don't know.
+
+It seems to be a combination of it having happened quite a while ago, Nene knowing the artist personally, and there already having been some kind of internal resolution before the situation was publicly made known.
+
+----- __220.4__ -----2022-03-16 23:36:15+08:00:
+
+> There was a podcast recently where the host, while interviewing Ironmouse, likewise sort of shittalked Hololive and implied that any streamer regardless of talent would be successful on Hololive due to the brand name
+> 
+
+To be fair, Connor (CDawgVA) himself admits it was a poorly thought out statement delivered even less articulately and that he doesn't even know what he was trying to say anymore; besides that he's friends with HoloEN's Mori Calliope anyway so it's not like he has genuine beef with it.
+

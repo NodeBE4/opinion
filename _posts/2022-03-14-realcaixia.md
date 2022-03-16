@@ -143,3 +143,7 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 
 勇敢的俄罗斯央视女编辑公开反对侵乌战争。判决这事的俄罗斯法官也了不起，只是罚款没有定罪名。放在中国，女编辑被定“煽动颠覆政权”罪或“寻衅滋事”罪。中共国是最残暴的极权国家。<br><br>美国之音中文网: 俄罗斯国营电视台第一频道的玛丽娜·奥维斯亚纳科娃14日在直播时举反战标语，法庭15日裁决她藐视抗议法律，罚款3万卢布（合2百80美元），此前克里姆林宫称她的抗议是“流氓行为“。目前还不清楚她是否面临更严重的指控。奥维斯亚纳科娃说她被连续审讯14个小时，现在需要休息。<br><br><video src="https://video.twimg.com/amplify_video/1503802336401145863/vid/720x720/VTdGkPqio2pnXUv0.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FN6U1UeX0AUQZRK?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3q9EawO" target="_blank" rel="noopener noreferrer">https://bit.ly/3q9EawO</a>
 
+### 33: [2022-03-16 23:10:17+08:00 推文](https://twitter.com/realcaixia/status/1504112825349799942)
+
+我曾经为中共国究竟是威权还是极权与许多人争论过，从一些中国学者到美国研究中国问题的学者，他们认为我偏激。学者争论的基本方式是概念区分，而事实却是一下子就能将概念具象化，鲜明区分出哪是极权哪是威权。<br><br>特别推荐下面这则推文：<br>两位举牌人，两种境遇。俄罗斯威权，中共极权。<br><br>韩连潮: 【极权和威权的区别】很多人西方人搞不清什么是极权和威权，常常把中共党国说成威权，一字之差酿成大错。下图两个举牌人的不同命运，说明了极权和威权的区别。深圳这位被抓两个多月生死不明，俄国这位罚了相当1700人民币回到家中。极权和威权的学术定义是，前者全方位控死个人，而后者则要求盲目服从。<br><br><img style="" src="https://pbs.twimg.com/media/FN-pLKkXoAY3AVG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN-pOugXMAsGdXt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN-pTgnXsAMtn6q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FN-pV88XwA06DAU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

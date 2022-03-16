@@ -38,3 +38,19 @@ title: ForeignAffairsMag在2022-03-14~2022-03-20的言论
 "Now the Chinese government faces a growing dilemma. Other countries, including Australia, New Zealand, and Singapore, have long since moved away from a zero-COVID strategy; China remains the lone holdout. Even though the rapid spread of Omicron could quickly render zero-COVID unsustainable, China has stubbornly clung to the strategy—largely, it seems, out of fear of the perceived consequences of abandoning it. For one thing, the government has instilled deep fear about COVID-19 in the Chinese population. Conditioned to expect a case rate at or near zero, many Chinese are convinced that even a small pullback in the policy would lead to the infection and hospitalization of hundreds of millions of people.  
 The stakes are even higher because China has linked its zero-COVID strategy to its ideological competition with the United States and the West. For Beijing to give up on zero-COVID and allow the new variant to run its course would be tantamount to admitting that its political system is no better than Western liberal democracy in protecting people’s health."
 
+### 157: [Xi Jinping’s Faltering Foreign Policy: The War in Ukraine and the Perils of Strongman Rule](https://old.reddit.com/r/geopolitics/comments/tfj6jl/xi_jinpings_faltering_foreign_policy_the_war_in/), submitted on 2022-03-16 22:40:51+08:00.
+
+----- __157.1__ -----2022-03-16 22:41:33+08:00:
+
+\[SS from the article by Jude Blanchette, Freeman Chair in China Studies at the Center for Strategic and International Studies.\]
+
+"With Xi set to assume a third five-year term as China’s leader at the upcoming 20th Party Congress, it is critical for the United States and its allies to understand not just the drivers and contours of his foreign policy but the political and bureaucratic ecosystem in which he makes decisions. As Putin’s reckless gambit in Ukraine has proved, an autocratic leader surrounded by sycophants and fueled by historical grievances and territorial ambitions is a menacing prospect. Xi is not Putin, and China is not Russia, but it would be unwise to ignore the growing parallels."
+
+### 158: [The World’s Most Dangerous Man: Putin’s Unconstrained Power Over Russia’s Nuclear Arsenal](https://old.reddit.com/r/collapse/comments/tfjb45/the_worlds_most_dangerous_man_putins/), submitted on 2022-03-16 22:46:59+08:00.
+
+----- __158.1__ -----2022-03-16 22:47:41+08:00:
+
+\[SS from the article by Scott D. Sagan, Professor of Political Science and Co-Director of the Center for International Security and Cooperation in the Freeman Spogli Institute for International Studies at Stanford University.\]
+
+"The reckless invasion of Ukraine—an operation designed to quickly topple the government of Ukrainian President Volodymyr Zelensky that instead turned into a protracted war, united NATO, and tanked the Russian economy—is perhaps the clearest illustration of disastrous decision-making in Putin’s personalist dictatorship. But Putin’s “combat duty” order is another example, and it is alarming. So far, the evidence suggests that Putin is using his threats and innuendo not in preparation for nuclear use in the invasion but rather to frighten Ukraine and NATO. Yet personalist autocracies are more erratic than other political systems. Leaders can make major decisions on a whim, without consultation, or with vengeful fury. U.S. and NATO leaders should recognize that the world is facing the gravest global nuclear risk since the 1962 Cuban missile crisis. To navigate around the dangers, they must understand how personalist regimes make decisions, and learn how to respond."
+
