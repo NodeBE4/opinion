@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-16
+date: 2022-03-17
 from: https://twitter.com/melissakchan/status/1503065615493484544
 layout: post
 tags:
@@ -110,4 +110,8 @@ Re This year, the People’s Daily reports, its external propaganda drops during
 ### 24: [2022-03-16 11:12:47+08:00 推文](https://twitter.com/cnmediaproject/status/1503932260348997637)
 
 Re State media have also pushed "innovative" external propaganda approaches, like Xinhua's regular "Ambassadors Observing the Two Sessions” feature, which solicits very positive comments from foreign diplomats in China.<br><img style="" src="https://pbs.twimg.com/media/FN8KZ-baUAINcEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-03-17 14:27:30+08:00 推文](https://twitter.com/cnmediaproject/status/1504343650901594112)
+
+CMP Dictionary: First used in the 90s, "seeking progress in stability" (稳中求进) has come in the Xi era to encompass the idea that China must proceed cautiously with economic development in the midst of persistent domestic and global uncertainties. <a href="https://bit.ly/3Im8A5g" target="_blank" rel="noopener noreferrer">https://bit.ly/3Im8A5g</a><br><img style="" src="https://pbs.twimg.com/media/FOCAb_LaMAU5qZc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

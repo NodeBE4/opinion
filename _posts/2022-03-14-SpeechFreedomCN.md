@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-03-15
+date: 2022-03-17
 from: https://twitter.com/SpeechFreedomCN/status/1503159718130368515
 layout: post
 tags:
@@ -34,4 +34,12 @@ Guangxi man Liu detained for 15 days for "insulting" local police force in WeCha
 ### 5: [2022-03-15 16:15:31+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1503646058362064896)
 
 你怕是对“正常国家”有什么误解吧<br><br>Lizhi: @SpeechFreedomCN 黑要找点要点黑吧！这样的情况全世界正常国家法律都一样。<br>
+
+### 6: [2022-03-17 13:37:37+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1504331098758733825)
+
+浙江温州一名村民C某（化名），因土地征用过程中的纠纷，对村委会不满，遂在微信群里发表了“辱骂”村干部的言论，导致被拘留6日。<br><img style="" src="https://pbs.twimg.com/media/FOB03GzXsAIT7AF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-03-17 13:42:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1504332230189010946)
+
+A villager based in Wenzho, Zhejiang got 6 days administrative detention for "cursing" the village official in a WeChat group chat, after a dispute between him and the village council over the acquisition of his land.<br><img style="" src="https://pbs.twimg.com/media/FOB1MocXEAAbY3n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
