@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-17
+date: 2022-03-18
 from: https://twitter.com/realcaixia/status/1503141644224372736
 layout: post
 tags:
@@ -178,4 +178,16 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 ### 41: [2022-03-17 11:53:43+08:00 推文](https://twitter.com/realcaixia/status/1504304952277094401)
 
 Re @lizaixi5 谢谢大家的支持和鼓励。🌹
+
+### 42: [2022-03-18 01:07:33+08:00 推文](https://twitter.com/realcaixia/status/1504504724573364226)
+
+中共在美对海外华人的深度渗透与长臂操控，早就该引起美国政府重视并切实采取措施。下面这是个好消息。<br><br>韩连潮: 【迟到的司法】 美周三起诉5名华人，指控其在美为中共充当代理人，收集异见人士信息，骚扰抹黑策划暴力攻击等罪。这一举措值得欢迎，早就应对这类人和组织绳之以法了；还应驱逐其后的中领馆官员，才能打击他们的嚣张气焰。不过破获中共核心渗透更重要。中文起诉书链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FODqBTXX0AEckla?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FODqBUzWQAgzc13?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://www.justice.gov/usao-edny/press-release/file/1484206/download" target="_blank" rel="noopener noreferrer">https://www.justice.gov/usao-edny/press-release/file/1484206/download</a>
+
+### 43: [2022-03-18 01:20:16+08:00 推文](https://twitter.com/realcaixia/status/1504507926517534727)
+
+很赞成这个推文。<br><br>楊建利 Yang Jianli: It's right for POTUS to call Putin what he is. Putin Must Go. I just cannot think of otherwise. <br>But China is making efforts to bail Putin out. We must not let it happen. Or the world will suffer endless consequences.<br><br>Biden calls Putin a ‘war criminal’<br> <a href="https://www.washingtonpost.com/politics/2022/03/16/biden-zelensky-speech-response-aid/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/politics/2022/03/16/biden-zelensky-speech-response-aid/?tid=ss_tw</a>
+
+### 44: [2022-03-18 01:36:43+08:00 推文](https://twitter.com/realcaixia/status/1504512067163803652)
+
+习当局会竭力帮助普京苟延残喘，俄普与中习是一根藤上的两个瓜，中习早就鼓吹过“中俄背靠背”互为支撑与护卫。普京独裁威权政权倒台，就为俄罗斯转向宪政民主创造了必要条件，如此习当局会加倍恐慌，兔死狐悲。<br><br>鲁  难: 我的观点是，中国官方不会顾及国家利益，只能从维护自身统治出发，继续把自己捆绑在已经陷入泥潭的俄罗斯战车上。如果不继续供奉着普京所需要的一切，将面临着美国阵营和俄罗斯两大劲敌的夹攻，而近在咫尺动辄兵戎相见的凶悍俄罗斯更加危险。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/ql2-03172022080428.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/ql2-03172022080428.html</a>
 
