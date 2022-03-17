@@ -191,3 +191,7 @@ Re @lizaixi5 谢谢大家的支持和鼓励。🌹
 
 习当局会竭力帮助普京苟延残喘，俄普与中习是一根藤上的两个瓜，中习早就鼓吹过“中俄背靠背”互为支撑与护卫。普京独裁威权政权倒台，就为俄罗斯转向宪政民主创造了必要条件，如此习当局会加倍恐慌，兔死狐悲。<br><br>鲁  难: 我的观点是，中国官方不会顾及国家利益，只能从维护自身统治出发，继续把自己捆绑在已经陷入泥潭的俄罗斯战车上。如果不继续供奉着普京所需要的一切，将面临着美国阵营和俄罗斯两大劲敌的夹攻，而近在咫尺动辄兵戎相见的凶悍俄罗斯更加危险。<br> <a href="https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/ql2-03172022080428.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/junshiwaijiao/ql2-03172022080428.html</a>
 
+### 45: [2022-03-18 03:36:55+08:00 推文](https://twitter.com/realcaixia/status/1504542314160693249)
+
+Re @metosuton 没有。
+
