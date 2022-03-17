@@ -239,3 +239,7 @@ I've kind of ended up alluding to two major pieces of recent drama: the terminat
 
 Funnily enough you're not the only person to suggest I write a full top-level, so I'm now working on that based on an old draft of something I wrote but never got round to completing. I don't know how much more I can insert in terms of shenanigans although I can always frame it as Hobby History instead...
 
+----- __220.8__ -----2022-03-17 16:45:05+08:00:
+
+There's just a lot of VTuber watchers on Reddit and especially on HobbyDrama I suppose.
+
