@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-17
+date: 2022-03-18
 from: https://twitter.com/melissakchan/status/1503065615493484544
 layout: post
 tags:
@@ -114,4 +114,24 @@ Re State media have also pushed "innovative" external propaganda approaches, lik
 ### 25: [2022-03-17 14:27:30+08:00 推文](https://twitter.com/cnmediaproject/status/1504343650901594112)
 
 CMP Dictionary: First used in the 90s, "seeking progress in stability" (稳中求进) has come in the Xi era to encompass the idea that China must proceed cautiously with economic development in the midst of persistent domestic and global uncertainties. <a href="https://bit.ly/3Im8A5g" target="_blank" rel="noopener noreferrer">https://bit.ly/3Im8A5g</a><br><img style="" src="https://pbs.twimg.com/media/FOCAb_LaMAU5qZc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-03-17 20:57:38+08:00 推文](https://twitter.com/melissakchan/status/1504441831425286145)
+
+RT Melissa Chan<br>“When my father arrived in Leningrad, he was all pumped up on the lies of his government… To the Russian soldiers listening… I don’t want you to be broken like my father. This is not the war to defend Russia... This is an illegal war.”<br><video src="https://video.twimg.com/amplify_video/1504330511660949507/vid/720x720/-lO8ctrJTStc7e2f.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1504330511660949507/img/OuYPHXrT4eVLxHDd.jpg"></video>
+
+### 27: [2022-03-18 07:25:56+08:00 推文](https://twitter.com/cnmediaproject/status/1504599948238934017)
+
+Re @CarlMinzner @JohnDelury @Dali_Yang @UselessTree @MariaRepnikova @WendyZhou502 @dong_mengyu @ashleyesarey However, the bioweapons lab narrative seems quite strong still. It was the subject of a "Zhong Sheng" 钟声 column on Wednesday in the People's Daily, which is quite a high-profile treatment. The column begins . . . .<br><img style="" src="https://pbs.twimg.com/media/FOFpq8VakAEMmFn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-03-18 07:26:46+08:00 推文](https://twitter.com/cnmediaproject/status/1504600157564080132)
+
+Re @CarlMinzner @JohnDelury @Dali_Yang @UselessTree @MariaRepnikova @WendyZhou502 @dong_mengyu @ashleyesarey "Recently, Russia has revealed a series of U.S. biomilitary cooperation projects in Ukraine, further unveiling the "biomilitary empire" of the United States." And state media have continued to push this narrative independently as well . . .
+
+### 29: [2022-03-18 07:28:52+08:00 推文](https://twitter.com/cnmediaproject/status/1504600687023636486)
+
+Re @CarlMinzner @JohnDelury @Dali_Yang @UselessTree @MariaRepnikova @WendyZhou502 @dong_mengyu @ashleyesarey This is from GLOBALink, the international service of Xinhua News Agency, quoting Syrian experts to support the broader narrative of US irresponsibility on the spread of bioweapons. <a href="https://english.news.cn/20220315/15f9c21c31ce443b906d402db80cd7b0/c.html" target="_blank" rel="noopener noreferrer">https://english.news.cn/20220315/15f9c21c31ce443b906d402db80cd7b0/c.html</a><br><img style="" src="https://pbs.twimg.com/media/FOFqVR_aAAgb4wY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-03-18 07:37:11+08:00 推文](https://twitter.com/cnmediaproject/status/1504602780711133184)
+
+Re @WendyZhou502 @CarlMinzner @JohnDelury @Dali_Yang @UselessTree @MariaRepnikova @dong_mengyu @ashleyesarey This raises interesting questions about where we should be looking for changes in "tone." A huge question for all of us now watching the media closely -- as the entire media landscape (official too) is transforming in China. Typically, 钟声 is all about "tone" on foreign affairs.
 
