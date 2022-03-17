@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-16
+date: 2022-03-17
 from: https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/
 layout: post
 tags:
@@ -91,4 +91,26 @@ Misleading, doubtful reporting.  Removed.
 ----- __178.1__ -----2022-03-16 19:41:04+08:00:
 
 Stop these crossposts.
+
+### 179: [Xi Jinping’s Faltering Foreign Policy: The War in Ukraine and the Perils of Strongman Rule](https://old.reddit.com/r/geopolitics/comments/tfj6jl/xi_jinpings_faltering_foreign_policy_the_war_in/), submitted on 2022-03-16 22:40:51+08:00.
+
+----- __179.1__ -----2022-03-17 12:18:43+08:00:
+
+Perspectives such as those expressed in the article linked here give me pause.  I worry that some foreign policy stakeholders fail to understand how interests are perceived by their adversaries, which would result in avoidable strategic error. 
+
+Basically, reading this article's "analysis" feels like sipping the kool-aid.  For example, the article argues:
+
+> [T]he more powerful Xi becomes and the more direct authority he exerts over Beijing’s foreign policy, the more adverse the outcomes are for China’s long-term strategic interests.
+
+* Criticism of Xi Jinping will always be well received here, however much it may replace facts with adjectives and reasons with innuendo.  And that isn't to say I disagree with all of those characterizations, because, as the author argues "Xi’s . . . support for Moscow" in invading Ukraine was a "major foreign policy misstep," to the extent it ran afoul of American interests.  But, whether that support was in Xi's long term best interests remains to be seen.  
+
+* Further, Xi's "decision to retaliate against EU officials last March in response to sanctions over human rights abuses in Xinjiang" did "cost Beijing a long-coveted investment deal with Europe," but so what?  There will be other deals and the repercussions for Xi's egregious human rights violations in Xinjiang and with respect to the Uyghur Muslim population there and the greater diaspora are miniscule in comparison to the costs imposed on him or China as a result.  Xi clearly perceives that genocide to be in both his and China's interests, and has failed to change course as a result of any sanction imposed as a result, by any western actor.  To wit, nothing whatsoever has changed.  The genocide continues.  Emphasizing one allegedly "coveted" trade deal with Europe when the Biden administration will do little more than bark is reaching too far.  Counting the wins where they accrue is important, but tremendous work remains to be done.   
+
+* Additionally, Xi's "threats toward Taiwan are," in fact "driving Washington and Taipei closer together and forcing other regional powers, such as Australia and Japan, to declare their own compelling interest in Taiwan’s security." But, consider that: (a) the "compelling" nature of that interest was already well established, (b) "declar[ing]" it now is unlikely to be perceived as anything other than what it is --- purely symbolic and (c) the only thing that matters is whether the United States is willing to prevent forcible reunification, and based on what Biden is allowing to happen in Ukraine now, Biden is clearly unwilling to do anything with the military whatsoever.
+
+### 180: [Unofficial Daily Update for 2022-03-16. 1031 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tfmtex/unofficial_daily_update_for_20220316_1031_new/), submitted on 2022-03-17 01:05:05+08:00.
+
+----- __180.1__ -----2022-03-17 11:47:59+08:00:
+
+Seasonal allergies.   I hate spring.
 

@@ -175,3 +175,7 @@ Re @lianchaohan 有华文媒体报道中共已经给俄军提供军援，杨洁�
 
 特别推荐：长平观察：被僵尸化的小粉红。<br>这篇观察报道揭示小粉红是中共极权洗脑的产物，他们在日常私人生活中或许还有人性的自然流露，而一旦涉及到社会公共问题，小粉红们就喧嚣出被极权长臂操控的反人性的“僵尸版蠢动”，违反常理常识常情妖言谬论。 <a href="https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%A2%AB%E5%83%B5%E5%B0%B8%E5%8C%96%E7%9A%84%E5%B0%8F%E7%B2%89%E7%BA%A2/a-61135098" target="_blank" rel="noopener noreferrer">https://www.dw.com/zh/%E9%95%BF%E5%B9%B3%E8%A7%82%E5%AF%9F%E8%A2%AB%E5%83%B5%E5%B0%B8%E5%8C%96%E7%9A%84%E5%B0%8F%E7%B2%89%E7%BA%A2/a-61135098</a>
 
+### 41: [2022-03-17 11:53:43+08:00 推文](https://twitter.com/realcaixia/status/1504304952277094401)
+
+Re @lizaixi5 谢谢大家的支持和鼓励。🌹
+
