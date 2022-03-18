@@ -103,5 +103,23 @@ What can I say except *sunglasses emoji*
 
 ----- __227.7__ -----2022-03-19 00:47:20+08:00:
 
-I am going to treat this lighthearted comment entirely seriously and note that, were it not for space issues as well as relevance, I did come close to including a paragraph on cases of *arguable* prototypical virtual youtubers like Annoying Orange, or review creators who use a set of still drawings of a cartoon representation of themselves depicting different reactions to add to their videos' visuals, with present-day examples including SaberSpark and TheMysteriousMrEnter, to name a few. I genuinely have no idea how old the latter format is; I can definitely think of Confused Matthew as being one of the older examples of the type but I presume he didn't come up with the whole 'cutting away to a reaction face on a representative cartoon character' schtick. And I think once you get to this stage, you just have to be very firm on the mocap aspect: none of these are performances that generated live and essentially ready for release, but rather created in the edit.
+I am going to treat this lighthearted comment entirely seriously and note that, were it not for space issues as well as relevance, I did come close to including a paragraph on cases of *arguable* prototypical virtual youtubers like Annoying Orange, or review creators who use a set of still drawings of a cartoon representation of themselves depicting different reactions to add to their videos' visuals, with present-day examples including SaberSpark and TheMysteriousMrEnter, to name a few. I genuinely have no idea how old the latter format is; I can definitely think of Confused Matthew as being one of the older examples of the type but I presume he didn't come up with the whole 'cutting away to a reaction face on a representative cartoon character' schtick. And I think once you get to this stage, you just have to be very firm on the mocap aspect: none of these are performances that are rendered live and essentially ready for release, but rather created in the edit.
+
+----- __227.8__ -----2022-03-19 01:10:53+08:00:
+
+...*no*.
+
+----- __227.9__ -----2022-03-19 01:13:07+08:00:
+
+What's interesting is that Mito wasn't even the first Live2D VTuber (which I think goes to [Nem](https://virtualyoutuber.fandom.com/wiki/Nem)), just the first really successful one.
+
+----- __227.10__ -----2022-03-19 01:14:34+08:00:
+
+> It almost seems insulting to put her along side people who just record themselves talking about random nonsense with a virtual avatar.
+
+As opposed to overtly insulting to the people 'talking about random nonsense with a virtual avatar'? I don't know that this is a particularly productive way of framing it. Ami Yamato isn't better or worse than modern VTubers, just different.
+
+----- __227.11__ -----2022-03-19 01:17:02+08:00:
+
+I think that'd be a really interesting thing to happen, but I feel like even then it's unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel in some way post-retirement, but taking over the character would be a little odd. But I suppose we shall see some years down the line, when 'ageing out' of a VTuber identity starts to be something that needs to be reckoned with.
 
