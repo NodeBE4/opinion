@@ -73,3 +73,13 @@ Unfortunately there's not a lot of what might be considered 'good' sourcing on a
 
 Believe it or not there is also an actual academic article on the subject of the Multiple AI controversy: Stevie Suan's 'Performing Virtual YouTubers: Acting Across Borders in the Platform Society', in [this open-access book](https://mediarep.org/handle/doc/18067), *Japan's Contemporary Media Culture between Local and Global: Content, Practice and Theory* edited by Martin Roth, Yoshida Hiroshi and Martin Picard.
 
+----- __227.2__ -----2022-03-18 21:57:39+08:00:
+
+I think I need to declare here that despite a somewhat dispassionate tone in my post I am a bit of a Hololive fanatic, so apologies if my comments see me jumping more to the defence of the modern industry.
+
+So, all told, the interval between Kizuna AI's debut and the introduction of iPhone X and face-only Live2D was barely a year, which was not a lot of time for the companies established in that time (Activ8 and COVER) to get that much in terms of revenues to fund a massive suite of new Live2D members. I'd argue it was entirely new companies, which were able to put all their startup funding into Live2D, that profited most from the switch – Nijisanji being the arch-example.
+
+----- __227.3__ -----2022-03-18 22:04:57+08:00:
+
+Thanks for the tip-off, I was using the wrong site's formatting (too used to Discord's these days)
+
