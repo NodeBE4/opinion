@@ -195,3 +195,23 @@ Re @lizaixi5 谢谢大家的支持和鼓励。🌹
 
 Re @metosuton 没有。
 
+### 46: [2022-03-18 07:57:14+08:00 推文](https://twitter.com/realcaixia/status/1504607826458693635)
+
+令人感动！<br><br>夏日荷花: 有正义感的中国人。👍👍👍👍<br><br><video src="https://video.twimg.com/ext_tw_video/1504547632575758353/pu/vid/544x544/ucrsfsFDVg9e2eoW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1504547632575758353/pu/img/PHp0ml8wbeNzBczB.jpg"></video>
+
+### 47: [2022-03-18 09:07:23+08:00 推文](https://twitter.com/realcaixia/status/1504625479655038976)
+
+周舵先生文章反映了大陆许多人的看法。中国人被所谓的马克思主义“真理”，被列宁式极权政党和社会主义极权制度奴役，陷入历史的泥潭中110年。中国曾是亚洲第一个推翻帝制建立宪政民主的共和国家；一百年后习竟然修宪企图登帝位。周舵文章提出内修宪政法治、外与美国友好，是中国走向现代文明的关键。<br><br>楊建利 Yang Jianli: 周舵:普京是中共的一面镜子 <br>"改革共识"包括三项基本认知<br>1.不改革死路一条<br>2.只有经济体制改革、没有政治体制改革，经济体制改革也推行不下去，已经获得的改革成果也有可能得而复失<br>3.改革开放中出现的新问题要靠进一步深入改革来解决,决不能靠不改革、甚至向极左倒退来解决.<br> <a href="https://yibaochina.com/?p=245372" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245372</a>
+
+### 48: [2022-03-18 09:07:58+08:00 推文](https://twitter.com/realcaixia/status/1504625623968399362)
+
+说得好！<br><br>湘女: 所有 独裁 者 都反西方，其实反的是西方 民主 制度。但它们的财产、子女、二奶全部寄存/放在西方国家，安全有保障。它们不傻，支持它们的才傻！<br><br><img style="" src="https://pbs.twimg.com/media/FN-KDo1XIAY9cYY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 49: [2022-03-18 09:19:32+08:00 推文](https://twitter.com/realcaixia/status/1504628535570444298)
+
+缪晓辉教授坚持科学态度对待武汉病毒。习当局的所谓“动态清零”政策已经成为中国大陆经济的杀手锏，成为截断大陆民众生计的绞索套，还是严控严密监视控制大陆所有人的紧箍咒。动态清零政策的种种反人性做法，已经使大陆民众从最初的“服从配合”到现在民怨沸腾。然而，习强撑面子死挺就是不改。<br><br>浦志强: 我赞成缪晓晖教授的观点。我认为现在痴迷清零的疫情防控政策，是非理性的和无意义的。故发中国传染病专家缪晓晖教授的微信如下：<br><br><img style="" src="https://pbs.twimg.com/media/FN9E_npUYAIgqCc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 50: [2022-03-18 09:28:30+08:00 推文](https://twitter.com/realcaixia/status/1504630792768696327)
+
+#议报 昨日发布胡不归的文章，从题目到行文充满悲怆：为什么十四亿人救不了铁链女？！<br>十四亿人救不了铁链女，也就意味着十四亿人救不了每一个人自己，铁链女的命运有可能落在任何一个人身上。若想争取避免铁链女的悲惨命运，中国人唯有废除极权制度、争取宪政民主。<br><br>韩连潮: 【胡不归：为什么十四亿人救不了铁链女】<br>资深媒体人 #胡不归 为 #议报 撰文，问：为什么十四亿人救不了铁链女？答：原因很简单，因为铁链女再悲惨，她没有在体制内，她连一个名字都没有。她生如草芥。她死亦如草芥。她太无足轻重了。<br> <a href="https://yibaochina.com/?p=245375" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245375</a>
+
