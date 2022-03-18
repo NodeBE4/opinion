@@ -49,9 +49,15 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 226: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
+### 226: [The composure and safety-mindedness of the HL talent in emergency situations- but only in emergency situations.](https://old.reddit.com/r/Hololive/comments/tgvn5w/the_composure_and_safetymindedness_of_the_hl/), submitted on 2022-03-18 15:14:48+08:00.
 
------ __226.1__ -----2022-03-18 20:51:16+08:00:
+----- __226.1__ -----2022-03-18 20:57:48+08:00:
+
+Weirdly enough, there's been a [virtual weathercaster](https://virtualyoutuber.fandom.com/wiki/Weatheroid_Type_A_Airi) since even before Kizuna AI.
+
+### 227: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
+
+----- __227.1__ -----2022-03-18 20:51:16+08:00:
 
 ### Sources:
 
