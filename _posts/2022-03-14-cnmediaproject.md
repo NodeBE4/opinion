@@ -179,3 +179,23 @@ Another note for discourse watchers. Premier Li is on the front page of PD today
 
 While US focusses on Putin's international isolation, China seeks to shift focus to the question of US bioweapons in Ukraine – based only on Russian claims from March 6. The result is a rift in public priorities that mirrors US-China tensions. <a href="https://chinamediaproject.org/2022/03/18/china-doubles-down-on-us-bioweapons/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/18/china-doubles-down-on-us-bioweapons/</a><br><img style="" src="https://pbs.twimg.com/media/FOGvRX4akAYE5Cu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 42: [2022-03-18 19:28:32+08:00 推文](https://twitter.com/CarlMinzner/status/1504781797909008384)
+
+RT Carl Minzner<br>Notes that "the Chinese delegation (at Rome meeting) stunned US officials by echoing debunked Russian claims that US/Ukraine had been pursuing a secret biological weapons programme together. The Americans came away more pessimistic than ever..." <a href="https://www.theguardian.com/world/2022/mar/18/chinas-decisive-turning-point-will-it-side-with-russia-and-divide-the-world" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/mar/18/chinas-decisive-turning-point-will-it-side-with-russia-and-divide-the-world</a>
+
+### 43: [2022-03-18 20:16:24+08:00 推文](https://twitter.com/cnmediaproject/status/1504793843056611333)
+
+Re @CarlMinzner The US bioweapons narrative has been the subject of 2 commentaries from "Zhong Sheng" (central leadership) on Weds and Friday. <a href="https://chinamediaproject.org/2022/03/18/china-doubles-down-on-us-bioweapons/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/18/china-doubles-down-on-us-bioweapons/</a>
+
+### 44: [2022-03-18 20:38:47+08:00 推文](https://twitter.com/cnmediaproject/status/1504799474371403780)
+
+Re @CarlMinzner 1 of 2 top Ukraine stories on Xinhua right now as well is about US biolabs all over the world.<br><img style="" src="https://pbs.twimg.com/media/FOIfBexaUAM5avO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-03-18 20:41:41+08:00 推文](https://twitter.com/cnmediaproject/status/1504800205639917573)
+
+Caution is in order as many observe a change in "tone" in the Chinese media regarding Ukraine. This is not a simple flip of the switch -- even if we see more attention to Ukraine. 2 top stories on Xinhua right now . . . .<br><img style="" src="https://pbs.twimg.com/media/FOIfzPaaIAoItjr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 46: [2022-03-18 20:43:15+08:00 推文](https://twitter.com/cnmediaproject/status/1504800598394535938)
+
+Re 1) is about more than 300 US DOD bio labs worldwide including Ukraine, and need for US transparency given threat to the world; and 2) is about how as Ukrainians suffer China is providing what's needed (food and blankets) while the US is feeding the conflict with weapons.
+

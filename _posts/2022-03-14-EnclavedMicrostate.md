@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-17
+date: 2022-03-18
 from: https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/
 layout: post
 tags:
@@ -48,4 +48,22 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 226: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
+
+----- __226.1__ -----2022-03-18 20:51:16+08:00:
+
+### Sources:
+
+Unfortunately there's not a lot of what might be considered 'good' sourcing on a lot of VTuber history. Most of it is in Japanese of course, and even if you're good at it you'll be reliant on people actually compiling sources. The [Virtual Youtuber Wiki](virtualyoutuber.fandom.com/wiki) obviously has limitations but it's a good source for basic information and timelines; for more in-depth discussion including 'forbidden knowledge' (i.e. alternate and IRL identities) the subreddit /r/VirtualYoutubers has a lot of old threads on the topic, with the ones I consulted while writing this post listed here:
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/mfzssc/here_are_the_30_oldest_vtubers_in_the_industry/
+* https://www.reddit.com/r/VirtualYoutubers/comments/kp728d/fans_fantasy_and_vice_why_the_gamebu_controversy/
+* https://www.reddit.com/r/VirtualYoutubers/comments/co22i0/full_timeline_of_multiple_ai_project/
+* https://www.reddit.com/r/VirtualYoutubers/comments/ib8tf8/the_magnitude_of_oda_nobuhimes_success_and_why/
+* https://www.reddit.com/r/VirtualYoutubers/comments/fk0atl/on_april_30_nobuhime_oda_will_retire_from_virtual/
+* https://www.reddit.com/r/VirtualYoutubers/comments/gb6fsu/after_kizuna_ai_and_oda_nobuhime_the_entire/
+* https://www.reddit.com/r/VirtualYoutubers/comments/j6n5rs/any_ideas_why_nobuhime_jumped_the_ship_also_which/
+
+Believe it or not there is also an actual academic article on the subject of the Multiple AI controversy: Stevie Suan's 'Performing Virtual YouTubers: Acting Across Borders in the Platform Society', in [this open-access book](https://mediarep.org/handle/doc/18067), *Japan's Contemporary Media Culture between Local and Global: Content, Practice and Theory* edited by Martin Roth, Yoshida Hiroshi and Martin Picard.
 
