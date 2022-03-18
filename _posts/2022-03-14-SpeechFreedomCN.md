@@ -47,3 +47,11 @@ A villager based in Wenzho, Zhejiang got 6 days administrative detention for "cu
 
 Re 根据多位网友发布的天哥报平安的视频，网红天哥（陈少天）已刑满释放。陈少天于去年3月因寻衅滋事罪被判刑一年二个月，刑期至2022年3月15日。<br><video src="https://video.twimg.com/ext_tw_video/1504671522132217869/pu/vid/1280x720/t50m82qvueMcC5rd.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1504671522132217869/pu/img/jGCngLEeReG-AWXM.jpg"></video>
 
+### 9: [2022-03-18 14:02:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1504699626766712847)
+
+人权活动人士李翘楚（@liqiaochu01）已于2月28日被临沂市检察院提起公诉，罪名为煽动颠覆国家政权罪。检方指控她为其男友许志永（同为人权活动人士，现在狱中服刑）搭建个人博客并上传其撰写的“颠覆国家政权文章，宣扬颠覆国家政权思想”。<br><img style="" src="https://pbs.twimg.com/media/FOHDBCOXwAgeiNU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOHDDEHXwBYf7V5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOHDFAdXwAI-wKL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-03-18 14:07:40+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1504701049810173984)
+
+Human rights activist Li Qiaochu (@liqiaochu01) has been prosecuted by a Procuratorate in Shandong Province for Inciting Subversion of State regime. Charge against her was uploading articles of her boyfriend -- also a human rights activist who is now in jail -- on Internet.<br><img style="" src="https://pbs.twimg.com/media/FOHEYUPXwB0J6se?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOHEZ6nXwAAEkFB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOHEbUeXwBo449e?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
