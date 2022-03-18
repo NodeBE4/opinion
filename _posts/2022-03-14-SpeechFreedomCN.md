@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-03-17
+date: 2022-03-18
 from: https://twitter.com/SpeechFreedomCN/status/1503159718130368515
 layout: post
 tags:
@@ -42,4 +42,8 @@ Guangxi man Liu detained for 15 days for "insulting" local police force in WeCha
 ### 7: [2022-03-17 13:42:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1504332230189010946)
 
 A villager based in Wenzho, Zhejiang got 6 days administrative detention for "cursing" the village official in a WeChat group chat, after a dispute between him and the village council over the acquisition of his land.<br><img style="" src="https://pbs.twimg.com/media/FOB1MocXEAAbY3n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-03-18 12:13:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1504672233721057310)
+
+Re 根据多位网友发布的天哥报平安的视频，网红天哥（陈少天）已刑满释放。陈少天于去年3月因寻衅滋事罪被判刑一年二个月，刑期至2022年3月15日。<br><video src="https://video.twimg.com/ext_tw_video/1504671522132217869/pu/vid/1280x720/t50m82qvueMcC5rd.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1504671522132217869/pu/img/jGCngLEeReG-AWXM.jpg"></video>
 
