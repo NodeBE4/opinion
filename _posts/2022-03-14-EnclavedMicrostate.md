@@ -171,3 +171,27 @@ Yeah, it's why as I said, the Hitomi Chris situation seems to have been complex 
 
 Thanks for the share! Looks like an interesting view, when I can get round to it.
 
+----- __227.18__ -----2022-03-19 02:45:34+08:00:
+
+I felt a little guilty not replying as I didn't feel I had anything to add or push back on here, so thanks for sharing your perspective!
+
+----- __227.19__ -----2022-03-19 02:50:33+08:00:
+
+Well, I'd say that if the community as a whole is, at least on a conscious level, averse to parasocial relationships, then that is, in the socially constructed sense, 'true' – arguably the only form of 'truth' that really matters. 
+
+It's interesting you bring up the security point, not least because I didn't, although also because it's something I had wanted to put in my original post but cut due to space. These days there's a kind of post-hoc rationalisation of the anonymity angle as being about protecting identities, and I would suggest that that is, on a socially-constructed level, true: if the majority of creators and viewers are of the opinion that that is the function of that particular conceit, then that is why the conceit exists and continues to. But originally, the non-publicisation of the VA was arguably so Activ8 could get more money out of Kizuna AI and limit Kasuga Nozomi's leverage.
+
+But what this all boils down to is the wider point I was making, which is that while there are plenty of holdovers from the early years of VTubing, the underlying ethos has shifted. The parasocial problem is definitely there and will likely never go away, but it's something that is no longer seen as an intended result of VTubing but rather as an unfortunate side-effect.
+
+----- __227.20__ -----2022-03-19 03:01:52+08:00:
+
+Ooh okay!
+
+So as noted, my main thing is Hololive so it'll mostly be Holomems here (sorry!) and even then I'm going to have to narrow down from 'I really like basically all of EN and quite a few of the others!' a bit...
+
+HoloEN Myth's Mori Calliope got me into VTubers and is probably my absolute favourite, though not by a huge margin: though those who know me know that I'm also very big on HoloEN Council's Ceres Fauna these days, and I also watch HoloID's Pavolia Reine quite a bit. I've also been getting into VShojo's Froot a bit lately (which has been a lot easier ever since Holodex started making Twitch streams more easily accessible). One smaller English-language VTuber to check out is [Milky Queen](https://twitter.com/milkyqueen_idol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), a bilingual streamer who's part of a unit called Mai Princess and mostly streams on Twitch rather than YouTube these days. Milky's actually been around for a while – she was Calli's introduction to VTubers – and there's a lot to like about her and her content, and she's put out some real bangers on the music side of things too.
+
+While I barely have any Japanese skills worth mentioning I do follow a few of Hololive's Japanese talents: 3rd Gen's Shirogane Noel and 0th's Sakura Miko mainly, though I've also been getting into 6th Gen's Hakui Koyori and Gamers' Ookamio Mio lately. I think what helps is that with all four there's a very strong vibe that doesn't really require strong language skills, at least for me. Also, on a pure music front I'm very keen on 0th's Hoshimachi Suisei.
+
+As noted, I'm sorry I don't really have many non-major-agency (indeed, non-Hololive) recommendations here; it's just the main group I follow and also probably the one that has the best accessibility for English-speakers.
+
