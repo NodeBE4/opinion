@@ -61,7 +61,7 @@ Weirdly enough, there's been a [virtual weathercaster](https://virtualyoutuber.f
 
 ### Sources:
 
-Unfortunately there's not a lot of what might be considered 'good' sourcing on a lot of VTuber history. Most of it is in Japanese of course, and even if you're good at it you'll be reliant on people actually compiling sources. The [Virtual Youtuber Wiki](virtualyoutuber.fandom.com/wiki) obviously has limitations but it's a good source for basic information and timelines; for more in-depth discussion including 'forbidden knowledge' (i.e. alternate and IRL identities) the subreddit /r/VirtualYoutubers has a lot of old threads on the topic, with the ones I consulted while writing this post listed here:
+Unfortunately there's not a lot of what might be considered 'good' sourcing on a lot of VTuber history. Most of it is in Japanese of course, and even if you're good at it you'll be reliant on people actually compiling sources. The [Virtual Youtuber Wiki](http://www.virtualyoutuber.fandom.com/wiki) obviously has limitations but it's a good source for basic information and timelines; for more in-depth discussion including 'forbidden knowledge' (i.e. alternate and IRL identities) the subreddit /r/VirtualYoutubers has a lot of old threads on the topic, with the ones I consulted while writing this post listed here:
 
 * https://www.reddit.com/r/VirtualYoutubers/comments/mfzssc/here_are_the_30_oldest_vtubers_in_the_industry/
 * https://www.reddit.com/r/VirtualYoutubers/comments/kp728d/fans_fantasy_and_vice_why_the_gamebu_controversy/
@@ -86,4 +86,22 @@ Thanks for the tip-off, I was using the wrong site's formatting (too used to Dis
 ----- __227.4__ -----2022-03-18 22:45:39+08:00:
 
 I was going to say it's rather interesting how passionate you are about this topic, given that you [seem to have found out about Hitomi Chris entirely from my post](https://www.reddit.com/r/Gamingcirclejerk/comments/tgul39/friday_unjerk_thread/i15h2o8/?context=3). Especially as in said post I fully declare that information is hard to come by and narratives are conflicting over Chris' culpability, which makes it impossible to come to any kind of clear conclusion as to what exactly caused the firing. Nor did I attempt to insinuate that COVER hasn't made attempts to improve (all but the most diehard haters would agree it has). But then you deleted your account so uh... *shrug*.
+
+----- __227.5__ -----2022-03-19 00:16:06+08:00:
+
+> it also furthered the parasocial attachment the viewer has to the personality in a manner similar to the idol industry combined with the reverence for Japanese VAs.
+
+What's quite interesting is that this may have been intended on Activ8's part. [This recent blog post](https://note.com/jmatsuda2501/n/nc323452afa3f) by J. Matsuda, one of Kizuna AI's principal creators, is a fascinating read even in machine translation (note: use DeepL rather than Google Translate for it if you want something actually readable), especially because of how he conceived of it precisely because of his parasocial relationships. In essence, for him the parasocial relationship would be a feature, not a bug, of the 'eternal idol', and something to very deliberately encourage. And that's something I find utterly fascinating precisely because of how at least on the conscious and/or public level, the parasocial aspect is something that VTubers and their fans today *generally* don't want to be seen as encouraging. Whether that's successful is a different question, but for me at least there has been an inversion from the original 'authorial intent' so to speak, where the parasocial side is indeed now seen as bug rather than feature.
+
+> so despite all the inherent problems and toxicity the Vtuber fandom has, at least there's that layer of security and respect for the person behind the persona to fall back on.
+
+To toss my own thought in on this, I think VTuber fandom is as toxic as any other in terms of extent, it's just toxic in specific ways that may not be familiar to people in most other fandoms. As this very sub illustrates, any fandom is fully capable of some pretty severe depths of bad behaviour and toxicity, but VTuber drama just manages to be very public and involve very specific dynamics that may seem alien to anyone not already part of the viewing community.
+
+----- __227.6__ -----2022-03-19 00:31:51+08:00:
+
+What can I say except *sunglasses emoji*
+
+----- __227.7__ -----2022-03-19 00:47:20+08:00:
+
+I am going to treat this lighthearted comment entirely seriously and note that, were it not for space issues as well as relevance, I did come close to including a paragraph on cases of *arguable* prototypical virtual youtubers like Annoying Orange, or review creators who use a set of still drawings of a cartoon representation of themselves depicting different reactions to add to their videos' visuals, with present-day examples including SaberSpark and TheMysteriousMrEnter, to name a few. I genuinely have no idea how old the latter format is; I can definitely think of Confused Matthew as being one of the older examples of the type but I presume he didn't come up with the whole 'cutting away to a reaction face on a representative cartoon character' schtick. And I think once you get to this stage, you just have to be very firm on the mocap aspect: none of these are performances that generated live and essentially ready for release, but rather created in the edit.
 
