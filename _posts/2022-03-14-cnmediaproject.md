@@ -171,3 +171,11 @@ Re For more, read our entry on "sizheng"  (思政) and its history under the CCP
 
 Re PD: By the end of 2021, China had 127,000+ full-time and part-time "sizheng" teachers in colleges and universities. Nearly 78% are under 49 years old and 35% have senior roles. 41 national training bases and 32 prep centers train 6,000 new teachers a year.
 
+### 40: [2022-03-18 10:43:40+08:00 推文](https://twitter.com/cnmediaproject/status/1504649707662225412)
+
+Another note for discourse watchers. Premier Li is on the front page of PD today with "important written comments" on forest fire prevention. More about "important instructions" vs written comments in the Xi era in the CMP Dictionary: <a href="https://chinamediaproject.org/the_ccp_dictionary/important-instructions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/important-instructions/</a><br><img style="" src="https://pbs.twimg.com/media/FOGW5XoagAAUq26?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 41: [2022-03-18 12:32:18+08:00 推文](https://twitter.com/cnmediaproject/status/1504677046555131907)
+
+While US focusses on Putin's international isolation, China seeks to shift focus to the question of US bioweapons in Ukraine – based only on Russian claims from March 6. The result is a rift in public priorities that mirrors US-China tensions. <a href="https://chinamediaproject.org/2022/03/18/china-doubles-down-on-us-bioweapons/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/18/china-doubles-down-on-us-bioweapons/</a><br><img style="" src="https://pbs.twimg.com/media/FOGvRX4akAYE5Cu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
