@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-16
+date: 2022-03-18
 from: https://old.reddit.com/r/geopolitics/comments/tdxfij/the_return_of_pax_americana_putins_war_is/
 layout: post
 tags:
@@ -53,4 +53,13 @@ The stakes are even higher because China has linked its zero-COVID strategy to i
 \[SS from the article by Scott D. Sagan, Professor of Political Science and Co-Director of the Center for International Security and Cooperation in the Freeman Spogli Institute for International Studies at Stanford University.\]
 
 "The reckless invasion of Ukraine—an operation designed to quickly topple the government of Ukrainian President Volodymyr Zelensky that instead turned into a protracted war, united NATO, and tanked the Russian economy—is perhaps the clearest illustration of disastrous decision-making in Putin’s personalist dictatorship. But Putin’s “combat duty” order is another example, and it is alarming. So far, the evidence suggests that Putin is using his threats and innuendo not in preparation for nuclear use in the invasion but rather to frighten Ukraine and NATO. Yet personalist autocracies are more erratic than other political systems. Leaders can make major decisions on a whim, without consultation, or with vengeful fury. U.S. and NATO leaders should recognize that the world is facing the gravest global nuclear risk since the 1962 Cuban missile crisis. To navigate around the dangers, they must understand how personalist regimes make decisions, and learn how to respond."
+
+### 159: [The False Promise of Arming Insurgents: America’s Spotty Record Warrants Caution in Ukraine](https://old.reddit.com/r/geopolitics/comments/th3svd/the_false_promise_of_arming_insurgents_americas/), submitted on 2022-03-18 23:21:42+08:00.
+
+----- __159.1__ -----2022-03-18 23:22:37+08:00:
+
+\[SS from the article by Lindsey O'Rourke, Associate Professor of Political Science at Boston College\]
+
+"U.S. and allied policymakers have no doubt begun to consider what measures can be taken should that come to pass, especially given the likelihood that a determined Ukrainian insurgency will continue to resist Russian occupation. As they study whether and how to support this resistance, including with a steady flow of arms, it is worth remembering that this is not the first time the United States has faced this question: during the Cold War, Washington backed more than more than two dozen insurgencies fighting Soviet-backed governments or Soviet occupation, from Albania in the 1940s to Afghanistan in the 1980s.  
+The history of these efforts should be studied carefully as policymakers face the prospect of beginning another one in Ukraine. That record should counsel caution for the United States and its allies. In most cases, support brought few gains, heavy costs, and serious unintended consequences, and demanded a much longer and more significant commitment than anticipated at the start."
 

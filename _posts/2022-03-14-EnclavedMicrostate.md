@@ -77,9 +77,13 @@ Believe it or not there is also an actual academic article on the subject of the
 
 I think I need to declare here that despite a somewhat dispassionate tone in my post I am a bit of a Hololive fanatic, so apologies if my comments see me jumping more to the defence of the modern industry.
 
-So, all told, the interval between Kizuna AI's debut and the introduction of iPhone X and face-only Live2D was barely a year, which was not a lot of time for the companies established in that time (Activ8 and COVER) to get that much in terms of revenues to fund a massive suite of new Live2D members. I'd argue it was entirely new companies, which were able to put all their startup funding into Live2D, that profited most from the switch – Nijisanji being the arch-example.
+So, all told, the interval between Kizuna AI's debut and the introduction of iPhone X and face-only Live2D was barely a year, which was not a lot of time for the companies established in that time (Activ8 and COVER) to get that much in terms of revenues to fund a massive suite of new Live2D members. I'd argue it was entirely new companies, which were able to put all their startup funding into Live2D, that profited most from the switch – Nijisanji being the arch-example. EDIT: To put it another way, the iPhone X coming on the market completely reset the field because existing infrastructure couldn't be adapted to it, so anyone who was going into Live2D VTubing was starting from scratch in early 2018.
 
 ----- __227.3__ -----2022-03-18 22:04:57+08:00:
 
 Thanks for the tip-off, I was using the wrong site's formatting (too used to Discord's these days)
+
+----- __227.4__ -----2022-03-18 22:45:39+08:00:
+
+I was going to say it's rather interesting how passionate you are about this topic, given that you [seem to have found out about Hitomi Chris entirely from my post](https://www.reddit.com/r/Gamingcirclejerk/comments/tgul39/friday_unjerk_thread/i15h2o8/?context=3). Especially as in said post I fully declare that information is hard to come by and narratives are conflicting over Chris' culpability, which makes it impossible to come to any kind of clear conclusion as to what exactly caused the firing. Nor did I attempt to insinuate that COVER hasn't made attempts to improve (all but the most diehard haters would agree it has). But then you deleted your account so uh... *shrug*.
 

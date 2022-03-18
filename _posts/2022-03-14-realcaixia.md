@@ -223,3 +223,7 @@ Re @metosuton 没有。
 
 Re @allhumanunity 我2010年夏天在北京香山饭店开会直接的批薄熙来搞文革那一套，当会议上与张木生吵得针锋相对时，你们在哪里？！当时薄熙来的重庆小喽喽和吹鼓手们，就像现在的五毛粉红一样在网上攻击谩骂我,你们在哪里？！
 
+### 53: [2022-03-18 22:16:17+08:00 推文](https://twitter.com/realcaixia/status/1504824011942944777)
+
+特别推荐下面视频：<br>习当局突然将北京小伙所有微信账号突然全部被删！连国内父母号也全删！<br>习当局只敢躲在阴暗角落里，想方设法地压制迫害中国人！习当局太可耻太卑鄙太龌龊！<br>受困乌克兰敖德萨王吉贤失去了和父母唯一联系，他怒吼到”（中共）你这... <a href="https://youtu.be/AL1XVeuVWKg" target="_blank" rel="noopener noreferrer">https://youtu.be/AL1XVeuVWKg</a>
+
