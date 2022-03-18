@@ -123,3 +123,51 @@ As opposed to overtly insulting to the people 'talking about random nonsense wit
 
 I think that'd be a really interesting thing to happen, but I feel like even then it's unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel in some way post-retirement, but taking over the character would be a little odd. But I suppose we shall see some years down the line, when 'ageing out' of a VTuber identity starts to be something that needs to be reckoned with.
 
+----- __227.12__ -----2022-03-19 01:52:15+08:00:
+
+As noted, the allegation is that he alleged to have connections with Cover management and thus could get Chris in; Cover themselves denied any association.
+
+----- __227.13__ -----2022-03-19 01:53:04+08:00:
+
+It's exactly the sort of thing I'm describing, yes.
+
+----- __227.14__ -----2022-03-19 02:07:34+08:00:
+
+You're right that Nijisanji could have been given more attention here; I didn't give it said attention for three main reasons:
+
+1. I'm not a particularly avid Nijisanji watcher;
+
+2. I was literally running out of space because of Reddit's character limit on posts;
+
+3. There's just less in terms of interesting Nijisanji drama at this time (I guess Nijisanji Resistance? But that was quite short-lived and non-acrimonious), which makes it hard to find good threads summarising the more general state of affairs as context for said drama.
+
+I also focussed on Hololive not because it was prominent then, but rather because:
+
+1. It is basically *the* example of an agency that sucessfully transitioned from a full-mocap 3D production approach to Live2D;
+
+2. Said transition is thematically relevant to my thesis statement about VTubing giving up much of its potential innovativeness as a medium;
+
+3. I'm more familiar with it, and I presume the same is true of my readership.
+
+EDIT: In effect, my post was focussing less on the actual 'democratisation' and more on how it impacted those who had got into the business beforehand: those that embraced the transition like Hololive, and those that tried to stay the course like Activ8 and Unlimited.
+
+----- __227.15__ -----2022-03-19 02:10:40+08:00:
+
+Yeah so I did almost not post this here because of Rule 8, but it doesn't seem to have been consistently enforced on VTuber-related topics because there have been four threads on VTubers before without getting removed, so precedent suggested it'd be fine:
+
+* https://www.reddit.com/r/HobbyDrama/comments/mx0he7/virtual_youtuberyaoi_fandom_gay_hentai_in_the/
+
+* https://www.reddit.com/r/HobbyDrama/comments/jjkyoc/virtual_youtuber_the_hololive_taiwan_controversy/
+
+* https://www.reddit.com/r/HobbyDrama/comments/jeui8v/virtual_youtubers_her_name_was_mano_aloe_a_fan/
+
+* https://www.reddit.com/r/HobbyDrama/comments/jf0cu4/virtual_youtubers_hostile_ai_takeover_the_story/
+
+----- __227.16__ -----2022-03-19 02:15:05+08:00:
+
+Yeah, it's why as I said, the Hitomi Chris situation seems to have been complex and ugly, but hard to pick apart as a casual, non-Japanese-speaking viewer because of how small it was at the time, and in turn how little there is in English on it. While the guy was definitely the principal perpetrator here, if this version of events is true he was also kind of defrauded by Chris in some way, so you do kind of get why Hololive might have dropped her, agree with the decision or otherwise.
+
+----- __227.17__ -----2022-03-19 02:43:15+08:00:
+
+Thanks for the share! Looks like an interesting view, when I can get round to it.
+
