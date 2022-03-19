@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-17
+date: 2022-03-19
 from: https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/
 layout: post
 tags:
@@ -113,4 +113,10 @@ Basically, reading this article's "analysis" feels like sipping the kool-aid.  F
 ----- __180.1__ -----2022-03-17 11:47:59+08:00:
 
 Seasonal allergies.   I hate spring.
+
+### 181: [Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)](https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/), submitted on 2022-03-19 00:38:00+08:00.
+
+----- __181.1__ -----2022-03-19 12:03:49+08:00:
+
+I see that he put weights on them, but my anxiety over those chairs was really high.
 

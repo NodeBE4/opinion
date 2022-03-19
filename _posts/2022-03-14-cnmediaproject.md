@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-18
+date: 2022-03-19
 from: https://twitter.com/melissakchan/status/1503065615493484544
 layout: post
 tags:
@@ -254,4 +254,8 @@ Re The short clip that follows to inform audience of the "latest situation" begi
 ### 60: [2022-03-18 22:25:22+08:00 推文](https://twitter.com/cnmediaproject/status/1504826296714821632)
 
 Re We could debate what we expect from Chinese state media in terms of a "change in tone." But as Biden and Xi chat, this is the alternative reality on Chinese state television. Russian disinformation still very much the news, with the US to blame for the "conflict/crisis."
+
+### 61: [2022-03-19 11:28:08+08:00 推文](https://twitter.com/MassimoSfriso/status/1505023288082251776)
+
+RT Massimo Sfriso<br>This is Hong Kong today. City’s portrait by @IlariaMariaSala <a href="https://www.theguardian.com/commentisfree/2022/mar/18/hong-kong-covid-surge-vaccination-rates?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1647607945" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2022/mar/18/hong-kong-covid-surge-vaccination-rates?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1647607945</a>
 
