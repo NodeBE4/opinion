@@ -279,6 +279,10 @@ Ame dropped the fake accent pretty fast.
 
 Reasons of space caused me to make a lot of editorial decisions, and in the end I decided that the Four Heavenly Kings just weren't sufficiently interesting as an illustration of macro trends in VTubing to warrant discussion at length. And good info on Chris, though as noted, space means I can't do much to reintegrate that into the post (I've hit the 40k character limit several times making edits and I don't think I have much more to cut anymore...)
 
+----- __228.32__ -----2022-03-19 22:52:45+08:00:
+
+Could do, but at a certain point you'd be adding more for its own sake without actually contributing to the point in question. Any work of history, even a rather unrigorous attempt like my post here, is an exercise in selection rather than inclusion.
+
 ### 229: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
 ----- __229.1__ -----2022-03-19 13:48:45+08:00:
