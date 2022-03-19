@@ -245,7 +245,7 @@ Huh, that's an interesting one, I genuinely hadn't come across her! I will note 
 
 ----- __228.26__ -----2022-03-19 10:34:54+08:00:
 
-I'm still not 100% on what exactly prevented AZKi from merging into the main branch before this year, but I suspect it could have been the result of a contract with Tsuranimizu (INNK's founder/manager) given how early on 'Plan A' (in terms of timeframe) seems to have been set out.
+I'm still not 100% on what exactly prevented AZKi from merging into the main branch before this year, but I suspect it could have been the result of a contract with Tsuranimizu (INNK's founder/manager) rather than with Activ8, given how early on 'Plan A' (in terms of timeframe) seems to have been set out and that INNK existed before upd8 did.
 
 Reflecting back, I should have made space in the post for a rumination on upd8, which seems like one of those things that had potential but failed for reasons not inherent to the underlying shift in VTubing approach. It was messily handled and frankly a complete muddle out the gate for sure, but there might have been some benefit to a number of different agencies having a big joint project. Like how the broader failure of Multiple AI also took down the genuine potential of VTuber dub voices, I think Activ8's dropping the ball on upd8 similarly sank this kind of long-term inter-agency cooperation and has kind of poisoned the well for any future attempts.
 
