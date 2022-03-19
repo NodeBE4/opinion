@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-18
+date: 2022-03-19
 from: https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/
 layout: post
 tags:
@@ -221,7 +221,7 @@ Oh absolutely, I won't pretend otherwise. It's a really hard circle to square, a
 
 > Could you elaborate a little on the Hololive AR app? You mention it a few times but don't go much into what it actually did. What exactly is this "AR streaming" function it had?
 
-So, I was vague on the specifics because I don't know entirely for sure, however there are a couple of ways I think it was supposed to work. Essentially, because Hololive's first two members (Tokino Sora and Roboco-san) used 3D models with full-body motion capture, that means you technically have rendered a fully 3D environment. Whereas a conventional livestream would involve one or more fixed camera angles into that 3D environment, what I suspect was supposed to happen was that the AR functionality would mainly revolve around setting up your phone to allow you to view the stream from any angle of your choosing, and to change that angle by physically moving it, and/or yourself, around the room.
+So, I was vague on the specifics because I don't know entirely for sure, however there are a couple of ways I think it was supposed to work. Essentially, because Hololive's first two members (Tokino Sora and Roboco-san) used 3D models with full-body motion capture, that means you technically have rendered a fully 3D environment. Whereas a conventional livestream would involve one or more fixed camera angles into that 3D environment, what I suspect was supposed to happen was that the AR functionality would mainly revolve around setting up your phone to allow you to view the stream from any angle of your choosing, and to change that angle by physically moving your device in real 3D space.
 
 I will note that the official public Hololive app does have a certain amount of more limited AR in the 'projecting a 3D image onto the real world' type, but it's all prerecorded animations rather than being hooked up to any kind of livestreaming functionality.
 
@@ -268,4 +268,10 @@ Now, Crunchyroll-hime gets into a field that I really haven't explored or addres
 ----- __227.30__ -----2022-03-19 13:33:27+08:00:
 
 Ame dropped the fake accent pretty fast.
+
+### 228: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
+
+----- __228.1__ -----2022-03-19 13:48:45+08:00:
+
+https://www.youtube.com/watch?v=s4Ms3hQ_IAY
 

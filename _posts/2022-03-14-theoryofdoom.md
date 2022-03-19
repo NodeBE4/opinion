@@ -114,9 +114,27 @@ Basically, reading this article's "analysis" feels like sipping the kool-aid.  F
 
 Seasonal allergies.   I hate spring.
 
-### 181: [Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)](https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/), submitted on 2022-03-19 00:38:00+08:00.
+### 181: [The False Promise of Arming Insurgents: America’s Spotty Record Warrants Caution in Ukraine](https://old.reddit.com/r/geopolitics/comments/th3svd/the_false_promise_of_arming_insurgents_americas/), submitted on 2022-03-18 23:21:42+08:00.
 
------ __181.1__ -----2022-03-19 12:03:49+08:00:
+----- __181.1__ -----2022-03-19 14:01:24+08:00:
+
+> I wrote an article in January where I reached that exact same conclusion.
+
+Caution should be exercised for any strategy or method to pursue foreign policy objectives. But wholesale rejection of a method (arming opposition forces) based on purported failure "from Albania in the 1940s to Afghanistan in the 1980s" is unreasonable.  
+
+The article alleges that "out of 35 U.S. attempts to covertly arm foreign dissidents during the Cold War, only four succeeded in bringing U.S. allies to power."  I am only left to guess what that means, but at least these points should be obvious: regime change is rarely the goal and even if it was, "bringing . . . allies to power" involves considerably more than placing arms in the hands of some opposition force.  
+
+Considerably more "attempts" to place weapons in the hands of the USSR's enemies occurred during the Cold War.  Nearly all such instances were oriented towards something other than regime change, but to prevent foreseeable massacres by more powerful actors. 
+
+At the time, I argued against arming anyone in Syria, despite considerable domestic political support for doing so.  There, other means were better suited towards achieving American objectives (at least to the extent the foreseeable costs of pursuing them were justified by probable benefits).  
+
+Furnishing arms, as was considered at that time, involved uncertain and potentially incalculably high risk with almost no greater benefit than less precarious alternatives.  But Black market sales weren't the concern there.  Nor are they ever really a concern, because it is logistically impractical to try to prevent it.  Future misuse or misappropriation are just inherent risks.  
+
+In any event, Ukraine is not Syria.  Regime change is not the desired end for anyone, other than Vladimir Putin.  No appropriate analogy can be drawn to any case of Cold War appropriations to anti-Soviet opposition or insurgency.  There is an appropriate analogy to be drawn, however, to Bosnia.  There, earlier intervention might have shortened the conflict duration and resulted in fewer casualties in the long run.
+
+### 182: [Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)](https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/), submitted on 2022-03-19 00:38:00+08:00.
+
+----- __182.1__ -----2022-03-19 12:03:49+08:00:
 
 I see that he put weights on them, but my anxiety over those chairs was really high.
 
