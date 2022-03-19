@@ -55,9 +55,15 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 Weirdly enough, there's been a [virtual weathercaster](https://virtualyoutuber.fandom.com/wiki/Weatheroid_Type_A_Airi) since even before Kizuna AI.
 
-### 227: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
+### 227: [As per PD Kim, VTuber web event has been cancelled.](https://old.reddit.com/r/BlueArchive/comments/tgz9r2/as_per_pd_kim_vtuber_web_event_has_been_cancelled/), submitted on 2022-03-18 19:34:12+08:00.
 
------ __227.1__ -----2022-03-18 20:51:16+08:00:
+----- __227.1__ -----2022-03-19 15:27:38+08:00:
+
+They also tweeted on it! Once.
+
+### 228: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
+
+----- __228.1__ -----2022-03-18 20:51:16+08:00:
 
 ### Sources:
 
@@ -91,21 +97,21 @@ Activ8:
 
 >!Oda Nobuhime – Omaru Polka of Hololive!<
 
------ __227.2__ -----2022-03-18 21:57:39+08:00:
+----- __228.2__ -----2022-03-18 21:57:39+08:00:
 
 I think I need to declare here that despite a somewhat dispassionate tone in my post I am a bit of a Hololive fanatic, so apologies if my comments see me jumping more to the defence of the modern industry.
 
 So, all told, the interval between Kizuna AI's debut and the introduction of iPhone X and face-only Live2D was barely a year, which was not a lot of time for the companies established in that time (Activ8 and COVER) to get that much in terms of revenues to fund a massive suite of new Live2D members. I'd argue it was entirely new companies, which were able to put all their startup funding into Live2D, that profited most from the switch – Nijisanji being the arch-example. EDIT: To put it another way, the iPhone X coming on the market completely reset the field because existing infrastructure couldn't be adapted to it, so anyone who was going into Live2D VTubing was starting from scratch in early 2018.
 
------ __227.3__ -----2022-03-18 22:04:57+08:00:
+----- __228.3__ -----2022-03-18 22:04:57+08:00:
 
 Thanks for the tip-off, I was using the wrong site's formatting (too used to Discord's these days)
 
------ __227.4__ -----2022-03-18 22:45:39+08:00:
+----- __228.4__ -----2022-03-18 22:45:39+08:00:
 
 I was going to say it's rather interesting how passionate you are about this topic, given that you [seem to have found out about Hitomi Chris entirely from my post](https://www.reddit.com/r/Gamingcirclejerk/comments/tgul39/friday_unjerk_thread/i15h2o8/?context=3). Especially as in said post I fully declare that information is hard to come by and narratives are conflicting over Chris' culpability, which makes it impossible to come to any kind of clear conclusion as to what exactly caused the firing. Nor did I attempt to insinuate that COVER hasn't made attempts to improve (all but the most diehard haters would agree it has). But then you deleted your account so uh... *shrug*.
 
------ __227.5__ -----2022-03-19 00:16:06+08:00:
+----- __228.5__ -----2022-03-19 00:16:06+08:00:
 
 > it also furthered the parasocial attachment the viewer has to the personality in a manner similar to the idol industry combined with the reverence for Japanese VAs.
 
@@ -115,41 +121,41 @@ What's quite interesting is that this may have been intended on Activ8's part. [
 
 To toss my own thought in on this, I think VTuber fandom is as toxic as any other in terms of extent, it's just toxic in specific ways that may not be familiar to people in most other fandoms. As this very sub illustrates, any fandom is fully capable of some pretty severe depths of bad behaviour and toxicity, but VTuber drama just manages to be very public and involve very specific dynamics that may seem alien to anyone not already part of the viewing community.
 
------ __227.6__ -----2022-03-19 00:31:51+08:00:
+----- __228.6__ -----2022-03-19 00:31:51+08:00:
 
 What can I say except *sunglasses emoji*
 
------ __227.7__ -----2022-03-19 00:47:20+08:00:
+----- __228.7__ -----2022-03-19 00:47:20+08:00:
 
 I am going to treat this lighthearted comment entirely seriously and note that, were it not for space issues as well as relevance, I did come close to including a paragraph on cases of *arguable* prototypical virtual youtubers like Annoying Orange, or review creators who use a set of still drawings of a cartoon representation of themselves depicting different reactions to add to their videos' visuals, with present-day examples including SaberSpark and TheMysteriousMrEnter, to name a few. I genuinely have no idea how old the latter format is; I can definitely think of Confused Matthew as being one of the older examples of the type but I presume he didn't come up with the whole 'cutting away to a reaction face on a representative cartoon character' schtick. And I think once you get to this stage, you just have to be very firm on the mocap aspect: none of these are performances that are rendered live and essentially ready for release, but rather created in the edit.
 
------ __227.8__ -----2022-03-19 01:10:53+08:00:
+----- __228.8__ -----2022-03-19 01:10:53+08:00:
 
 ...*no*.
 
------ __227.9__ -----2022-03-19 01:13:07+08:00:
+----- __228.9__ -----2022-03-19 01:13:07+08:00:
 
 What's interesting is that Mito wasn't even the first Live2D VTuber (which I think goes to [Nem](https://virtualyoutuber.fandom.com/wiki/Nem)), just the first really successful one.
 
------ __227.10__ -----2022-03-19 01:14:34+08:00:
+----- __228.10__ -----2022-03-19 01:14:34+08:00:
 
 > It almost seems insulting to put her along side people who just record themselves talking about random nonsense with a virtual avatar.
 
 As opposed to overtly insulting to the people 'talking about random nonsense with a virtual avatar'? I don't know that this is a particularly productive way of framing it. Ami Yamato isn't better or worse than modern VTubers, just different.
 
------ __227.11__ -----2022-03-19 01:17:02+08:00:
+----- __228.11__ -----2022-03-19 01:17:02+08:00:
 
 I think that'd be a really interesting thing to happen, but I feel like even then it's unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel as a successor character in some way post-retirement, but taking over the original character would be a little odd. But I suppose we shall see some years down the line, when 'ageing out' of a VTuber identity starts to be something that needs to be reckoned with.
 
------ __227.12__ -----2022-03-19 01:52:15+08:00:
+----- __228.12__ -----2022-03-19 01:52:15+08:00:
 
 As noted, the allegation is that he alleged to have connections with Cover management and thus could get Chris in; Cover themselves denied any association.
 
------ __227.13__ -----2022-03-19 01:53:04+08:00:
+----- __228.13__ -----2022-03-19 01:53:04+08:00:
 
 It's exactly the sort of thing I'm describing, yes.
 
------ __227.14__ -----2022-03-19 02:07:34+08:00:
+----- __228.14__ -----2022-03-19 02:07:34+08:00:
 
 You're right that Nijisanji could have been given more attention here; I didn't give it said attention for three main reasons:
 
@@ -169,7 +175,7 @@ I also focussed on Hololive not because it was prominent then, but rather becaus
 
 EDIT: In effect, my post was focussing less on the actual 'democratisation' and more on how it impacted those who had got into the business beforehand: those that embraced the transition like Hololive, and those that tried to stay the course like Activ8 and Unlimited.
 
------ __227.15__ -----2022-03-19 02:10:40+08:00:
+----- __228.15__ -----2022-03-19 02:10:40+08:00:
 
 Yeah so I did almost not post this here because of Rule 8, but it doesn't seem to have been consistently enforced on VTuber-related topics because there have been four threads on VTubers before without getting removed, so precedent suggested it'd be fine:
 
@@ -181,19 +187,19 @@ Yeah so I did almost not post this here because of Rule 8, but it doesn't seem t
 
 * https://www.reddit.com/r/HobbyDrama/comments/jf0cu4/virtual_youtubers_hostile_ai_takeover_the_story/
 
------ __227.16__ -----2022-03-19 02:15:05+08:00:
+----- __228.16__ -----2022-03-19 02:15:05+08:00:
 
 Yeah, it's why as I said, the Hitomi Chris situation seems to have been complex and ugly, but hard to pick apart as a casual, non-Japanese-speaking viewer because of how small it was at the time, and in turn how little there is in English on it. While the guy was definitely the principal perpetrator here, if this version of events is true he was also kind of defrauded by Chris in some way, so you do kind of get why Hololive might have dropped her, agree with the decision or otherwise.
 
------ __227.17__ -----2022-03-19 02:43:15+08:00:
+----- __228.17__ -----2022-03-19 02:43:15+08:00:
 
 Thanks for the share! Looks like an interesting view, when I can get round to it.
 
------ __227.18__ -----2022-03-19 02:45:34+08:00:
+----- __228.18__ -----2022-03-19 02:45:34+08:00:
 
 I felt a little guilty not replying as I didn't feel I had anything to add or push back on here, so thanks for sharing your perspective!
 
------ __227.19__ -----2022-03-19 02:50:33+08:00:
+----- __228.19__ -----2022-03-19 02:50:33+08:00:
 
 Well, I'd say that if the community as a whole is, at least on a conscious level, averse to parasocial relationships, then that is, in the socially constructed sense, 'true' – arguably the only form of 'truth' that really matters. 
 
@@ -201,7 +207,7 @@ It's interesting you bring up the security point, not least because I didn't, al
 
 But what this all boils down to is the wider point I was making, which is that while there are plenty of holdovers from the early years of VTubing, the underlying ethos has shifted. The parasocial problem is definitely there and will likely never go away, but it's something that is no longer seen as an intended result of VTubing but rather as an unfortunate side-effect.
 
------ __227.20__ -----2022-03-19 03:01:52+08:00:
+----- __228.20__ -----2022-03-19 03:01:52+08:00:
 
 Ooh okay!
 
@@ -213,11 +219,11 @@ While I barely have any Japanese skills worth mentioning I do follow a few of Ho
 
 As noted, I'm sorry I don't really have many non-major-agency (indeed, non-Hololive) recommendations here; it's just the main group I follow and also probably the one that has the best accessibility for English-speakers.
 
------ __227.21__ -----2022-03-19 09:58:17+08:00:
+----- __228.21__ -----2022-03-19 09:58:17+08:00:
 
 Oh absolutely, I won't pretend otherwise. It's a really hard circle to square, and I don't think it has ever been squared successfully. I do think there have been cases where a decent compromise has been found, though: Hololive has generally maintained an 'open secret' policy around alt accounts, i.e. don't discuss it on official Hololive forums, but even actual unintentional slip-ups by the talents can be brushed aside. Various Holomembers, most infamously Kiryu Coco and Mori Calliope, have had their alt account activities been deemed 'Hololive's worst-kept secret' by fans, after all. It's still a very imperfect approach to the issue, and I suspect it will have to be reckoned with more strongly once we're a few years down the line and we start seeing more cases of basically non-acrimonious, 'moving on' retirements.
 
------ __227.22__ -----2022-03-19 10:11:39+08:00:
+----- __228.22__ -----2022-03-19 10:11:39+08:00:
 
 > Could you elaborate a little on the Hololive AR app? You mention it a few times but don't go much into what it actually did. What exactly is this "AR streaming" function it had?
 
@@ -225,37 +231,37 @@ So, I was vague on the specifics because I don't know entirely for sure, however
 
 I will note that the official public Hololive app does have a certain amount of more limited AR in the 'projecting a 3D image onto the real world' type, but it's all prerecorded animations rather than being hooked up to any kind of livestreaming functionality.
 
------ __227.23__ -----2022-03-19 10:12:36+08:00:
+----- __228.23__ -----2022-03-19 10:12:36+08:00:
 
 Selen has been on my potential list for a while but thanks for adding Elira too!
 
------ __227.24__ -----2022-03-19 10:14:30+08:00:
+----- __228.24__ -----2022-03-19 10:14:30+08:00:
 
 What I'll say is, while it definitely seems clear Kasuga Nozomi was replaced, that doesn't necessarily mean she was *supposed* to be as part of the pitch for Multiple AI: because everything was so hush-hush, it's not really possible to determine if she was fired or quit, and moreover if that was prompted by her own dissatisfaction with Multiple AI and thus not overtly intended on Activ8's part.
 
------ __227.25__ -----2022-03-19 10:15:50+08:00:
+----- __228.25__ -----2022-03-19 10:15:50+08:00:
 
 Huh, that's an interesting one, I genuinely hadn't come across her! I will note also, just for reference, that, I did almost include Vocaloids but space issues got in the way of that.
 
------ __227.26__ -----2022-03-19 10:34:54+08:00:
+----- __228.26__ -----2022-03-19 10:34:54+08:00:
 
 I'm still not 100% on what exactly prevented AZKi from merging into the main branch before this year, but I suspect it could have been the result of a contract with Tsuranimizu (INNK's founder/manager) given how early on 'Plan A' (in terms of timeframe) seems to have been set out.
 
 Reflecting back, I should have made space in the post for a rumination on upd8, which seems like one of those things that had potential but failed for reasons not inherent to the underlying shift in VTubing approach. It was messily handled and frankly a complete muddle out the gate for sure, but there might have been some benefit to a number of different agencies having a big joint project. Like how the broader failure of Multiple AI also took down the genuine potential of VTuber dub voices, I think Activ8's dropping the ball on upd8 similarly sank this kind of long-term inter-agency cooperation and has kind of poisoned the well for any future attempts.
 
------ __227.27__ -----2022-03-19 10:37:07+08:00:
+----- __228.27__ -----2022-03-19 10:37:07+08:00:
 
 *Rubs chin*
 
 Nahhhhhhhhhhhhhhhhh
 
------ __227.28__ -----2022-03-19 10:45:08+08:00:
+----- __228.28__ -----2022-03-19 10:45:08+08:00:
 
 Ha I was looking around for the comment about inline spoilers and didn't remember that it was this one!
 
 On the inline spoilers note, you're not entirely wrong, and in fact I was very close to actually posting the details on the new accounts, but I'm also wary of my post inadvertently being a pathway for some people to harass the people in question over things that happened with Unlimited and activ8 that they may not contractually be able to speak about, or simply not want to given how bad things were there. You raise a good enough case that I will be editing the info in, but in the sources comment rather than the full top-level.
 
------ __227.29__ -----2022-03-19 11:32:19+08:00:
+----- __228.29__ -----2022-03-19 11:32:19+08:00:
 
 Phew, a lot of things here!
 
@@ -265,13 +271,13 @@ As for Domyoji Cocoa, the reason I had little to say is that there was very litt
 
 Now, Crunchyroll-hime gets into a field that I really haven't explored or addressed, and that is the 'VTuberisation' of certain corporate mascots. I think there's a certain sense in which these are still vestiges of the 'eternal idol' because they are so much more overtly characters with a marketing angle, and not simply personas adopted by conventional content creators. My personal suspicion is that a recasting here would be less problematic and more akin to Isaiah Mustafa being succeeded by Terry Crews as the 'Old Spice Guy', albeit without the potential for a later crossover.
 
------ __227.30__ -----2022-03-19 13:33:27+08:00:
+----- __228.30__ -----2022-03-19 13:33:27+08:00:
 
 Ame dropped the fake accent pretty fast.
 
-### 228: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
+### 229: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
------ __228.1__ -----2022-03-19 13:48:45+08:00:
+----- __229.1__ -----2022-03-19 13:48:45+08:00:
 
 https://www.youtube.com/watch?v=s4Ms3hQ_IAY
 
