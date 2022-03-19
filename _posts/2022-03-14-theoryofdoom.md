@@ -150,3 +150,17 @@ You should submit some kind of original post explaining why you think this speec
 
 Not relevant to COVID, but something interesting to see if you're in Chicago.
 
+### 185: [Former President of Poland: In the long term, China wants to vassalise Russia. Erdogan is playing his game well. Le Pen will get a beating for her love of Putin.](https://old.reddit.com/r/geopolitics/comments/ti524n/former_president_of_poland_in_the_long_term_china/), submitted on 2022-03-20 05:14:56+08:00.
+
+----- __185.1__ -----2022-03-20 05:25:30+08:00:
+
+Link to the original article.  Post the translation in the comments. 
+
+This is the link you should submit: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
+
+This is the translation of that link to English, which you should use *exactly* as I have written it:
+
+> Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]
+
+Be sure to post a submission statement.
+

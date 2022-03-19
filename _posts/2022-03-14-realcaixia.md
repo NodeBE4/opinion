@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-19
+date: 2022-03-20
 from: https://twitter.com/realcaixia/status/1503141644224372736
 layout: post
 tags:
@@ -242,4 +242,12 @@ Re @allhumanunity 我2010年夏天在北京香山饭店开会直接的批薄熙�
 ### 57: [2022-03-19 21:49:56+08:00 推文](https://twitter.com/realcaixia/status/1505179767846416391)
 
 英国政府对俄罗斯官媒的恶行作出了正确回应，值得称道。相信英国政府也会对中共在英国的海外操控采取行动的。<br><br>韩连潮: 英国吊销了传布虚假信息俄国官媒俄罗斯电视的经营执照；俄罗斯外长污蔑西方实施“信息恐怖主义”，中共的许多切口都学自于俄爹，估计这词很快也会成为赵立坚的上口字。<br><br><img style="" src="https://pbs.twimg.com/media/FONsihRXsAckJqK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 58: [2022-03-20 03:15:25+08:00 推文](https://twitter.com/realcaixia/status/1505261679428481024)
+
+#议报 转发布了清华大学校园里的反法西斯传单。下面这个推说的是传单被发现后当局惊慌失措的反应。<br>特别推荐：<br><br>Abner: 清华有同学在天猫超市张贴了反法西斯主义宣传单，结果清华校方非常恐惧就去审问同学而且还抓错人了<br><br><img style="" src="https://pbs.twimg.com/media/FOMyG5XUcAAQZn-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOMyG5YVQAEEFrQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOMyG5WUYAEnAtB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOMyG5YVgAAbTNJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 59: [2022-03-20 03:44:56+08:00 推文](https://twitter.com/realcaixia/status/1505269109436596229)
+
+以疫情为名，堂而皇之地大力推行严密监控和严厉控制大陆全社会。这样的做法只有一个目的，保证习爬上帝座。中共20大到10月份开，已经连续两年大陆经济社会不正常运转，再继续6个月时间的全国经济社会大半瘫痪停摆，2022年底大陆将会是什么样的？看来习当局是不作死不罢休。<br><br>林生亮Lin shengliang: 以疫治國，以疫治民。「疫情」成了中共威權統治的萬能膏藥，什麼事情都可以用這個膏藥來塗抹！<br> <a href="https://twitter.com/mindyshi227/status/1504826561802997766" target="_blank" rel="noopener noreferrer">https://twitter.com/mindyshi227/status/1504826561802997766</a>
 
