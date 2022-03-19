@@ -287,3 +287,11 @@ https://www.youtube.com/watch?v=s4Ms3hQ_IAY
 
 Yep!
 
+----- __230.2__ -----2022-03-19 19:58:43+08:00:
+
+Towa did ERROR at 2nd Fes, and I don't think anyone reused any of their songs from 2nd Fes at 3rd (which makes sense).
+
+----- __230.3__ -----2022-03-19 20:55:16+08:00:
+
+I guess Friend can do whatever she wants.
+
