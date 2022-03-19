@@ -73,6 +73,24 @@ Unfortunately there's not a lot of what might be considered 'good' sourcing on a
 
 Believe it or not there is also an actual academic article on the subject of the Multiple AI controversy: Stevie Suan's 'Performing Virtual YouTubers: Acting Across Borders in the Platform Society', in [this open-access book](https://mediarep.org/handle/doc/18067), *Japan's Contemporary Media Culture between Local and Global: Content, Practice and Theory* edited by Martin Roth, Yoshida Hiroshi and Martin Picard.
 
+### An addition to 'Where Are They Now'
+
+Per a couple of comments I've received, there is some feeling that completely obfuscating the ex-upd8 and Game-Bu talents' later activities is a bit of an overreaction. I personally still think it was *mostly* the right call but I see where this was coming from, so I've edited in the specific info here:
+
+Game-bu (original VAs): 
+
+>!Sakuragi Miria – [Hanagumo Kuyuri](https://www.youtube.com/channel/UCTJ15i3Bl-QbeBA4NCcpyJA!) !<
+
+>!Yumesaki Kaede – [Yuzuriha Honami](https://www.youtube.com/channel/UCqXvL55GYHtRZhBS03LVGnQ) !<
+
+>!Kazami Ryo – [Yuugasaki Umi](https://www.youtube.com/channel/UCeb76eafe-6kE0D4u7lOWbg) !<
+
+>!All three of the above were members of a network called Stellar Cycle Campus before going independent; I haven't found much evidence of their collaborating since.!<
+
+Activ8:
+
+>!Oda Nobuhime – Omaru Polka of Hololive!<
+
 ----- __227.2__ -----2022-03-18 21:57:39+08:00:
 
 I think I need to declare here that despite a somewhat dispassionate tone in my post I am a bit of a Hololive fanatic, so apologies if my comments see me jumping more to the defence of the modern industry.
@@ -194,4 +212,46 @@ HoloEN Myth's Mori Calliope got me into VTubers and is probably my absolute favo
 While I barely have any Japanese skills worth mentioning I do follow a few of Hololive's Japanese talents: 3rd Gen's Shirogane Noel and 0th's Sakura Miko mainly, though I've also been getting into 6th Gen's Hakui Koyori and Gamers' Ookamio Mio lately. I think what helps is that with all four there's a very strong vibe that doesn't really require strong language skills, at least for me. Also, on a pure music front I'm very keen on 0th's Hoshimachi Suisei.
 
 As noted, I'm sorry I don't really have many non-major-agency (indeed, non-Hololive) recommendations here; it's just the main group I follow and also probably the one that has the best accessibility for English-speakers.
+
+----- __227.21__ -----2022-03-19 09:58:17+08:00:
+
+Oh absolutely, I won't pretend otherwise. It's a really hard circle to square, and I don't think it has ever been squared successfully. I do think there have been cases where a decent compromise has been found, though: Hololive has generally maintained an 'open secret' policy around alt accounts, i.e. don't discuss it on official Hololive forums, but even actual unintentional slip-ups by the talents can be brushed aside. Various Holomembers, most infamously Kiryu Coco and Mori Calliope, have had their alt account activities been deemed 'Hololive's worst-kept secret' by fans, after all. It's still a very imperfect approach to the issue, and I suspect it will have to be reckoned with more strongly once we're a few years down the line and we start seeing more cases of basically non-acrimonious, 'moving on' retirements.
+
+----- __227.22__ -----2022-03-19 10:11:39+08:00:
+
+> Could you elaborate a little on the Hololive AR app? You mention it a few times but don't go much into what it actually did. What exactly is this "AR streaming" function it had?
+
+So, I was vague on the specifics because I don't know entirely for sure, however there are a couple of ways I think it was supposed to work. Essentially, because Hololive's first two members (Tokino Sora and Roboco-san) used 3D models with full-body motion capture, that means you technically have rendered a fully 3D environment. Whereas a conventional livestream would involve one or more fixed camera angles into that 3D environment, what I suspect was supposed to happen was that the AR functionality would mainly revolve around setting up your phone to allow you to view the stream from any angle of your choosing, and to change that angle by physically moving it, and/or yourself, around the room.
+
+I will note that the official public Hololive app does have a certain amount of more limited AR in the 'projecting a 3D image onto the real world' type, but it's all prerecorded animations rather than being hooked up to any kind of livestreaming functionality.
+
+----- __227.23__ -----2022-03-19 10:12:36+08:00:
+
+Selen has been on my potential list for a while but thanks for adding Elira too!
+
+----- __227.24__ -----2022-03-19 10:14:30+08:00:
+
+What I'll say is, while it definitely seems clear Kasuga Nozomi was replaced, that doesn't necessarily mean she was *supposed* to be as part of the pitch for Multiple AI: because everything was so hush-hush, it's not really possible to determine if she was fired or quit, and moreover if that was prompted by her own dissatisfaction with Multiple AI and thus not overtly intended on Activ8's part.
+
+----- __227.25__ -----2022-03-19 10:15:50+08:00:
+
+Huh, that's an interesting one, I genuinely hadn't come across her! I will note also, just for reference, that, I did almost include Vocaloids but space issues got in the way of that.
+
+----- __227.26__ -----2022-03-19 10:34:54+08:00:
+
+I'm still not 100% on what exactly prevented AZKi from merging into the main branch before this year, but I suspect it could have been the result of a contract with Tsuranimizu (INNK's founder/manager) given how early on 'Plan A' (in terms of timeframe) seems to have been set out.
+
+Reflecting back, I should have made space in the post for a rumination on upd8, which seems like one of those things that had potential but failed for reasons not inherent to the underlying shift in VTubing approach. It was messily handled and frankly a complete muddle out the gate for sure, but there might have been some benefit to a number of different agencies having a big joint project. Like how the broader failure of Multiple AI also took down the genuine potential of VTuber dub voices, I think Activ8's dropping the ball on upd8 similarly sank this kind of long-term inter-agency cooperation and has kind of poisoned the well for any future attempts.
+
+----- __227.27__ -----2022-03-19 10:37:07+08:00:
+
+*Rubs chin*
+
+Nahhhhhhhhhhhhhhhhh
+
+----- __227.28__ -----2022-03-19 10:45:08+08:00:
+
+Ha I was looking around for the comment about inline spoilers and didn't remember that it was this one!
+
+On the inline spoilers note, you're not entirely wrong, and in fact I was very close to actually posting the details on the new accounts, but I'm also wary of my post inadvertently being a pathway for some people to harass the people in question over things that happened with Unlimited and activ8 that they may not contractually be able to speak about, or simply not want to given how bad things were there. You raise a good enough case that I will be editing the info in, but in the sources comment rather than the full top-level.
 
