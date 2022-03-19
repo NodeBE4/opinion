@@ -139,7 +139,7 @@ As opposed to overtly insulting to the people 'talking about random nonsense wit
 
 ----- __227.11__ -----2022-03-19 01:17:02+08:00:
 
-I think that'd be a really interesting thing to happen, but I feel like even then it's unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel in some way post-retirement, but taking over the character would be a little odd. But I suppose we shall see some years down the line, when 'ageing out' of a VTuber identity starts to be something that needs to be reckoned with.
+I think that'd be a really interesting thing to happen, but I feel like even then it's unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel as a successor character in some way post-retirement, but taking over the original character would be a little odd. But I suppose we shall see some years down the line, when 'ageing out' of a VTuber identity starts to be something that needs to be reckoned with.
 
 ----- __227.12__ -----2022-03-19 01:52:15+08:00:
 
@@ -207,7 +207,7 @@ Ooh okay!
 
 So as noted, my main thing is Hololive so it'll mostly be Holomems here (sorry!) and even then I'm going to have to narrow down from 'I really like basically all of EN and quite a few of the others!' a bit...
 
-HoloEN Myth's Mori Calliope got me into VTubers and is probably my absolute favourite, though not by a huge margin: though those who know me know that I'm also very big on HoloEN Council's Ceres Fauna these days, and I also watch HoloID's Pavolia Reine quite a bit. I've also been getting into VShojo's Froot a bit lately (which has been a lot easier ever since Holodex started making Twitch streams more easily accessible). One smaller English-language VTuber to check out is [Milky Queen](https://twitter.com/milkyqueen_idol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), a bilingual streamer who's part of a unit called Mai Princess and mostly streams on Twitch rather than YouTube these days. Milky's actually been around for a while – she was Calli's introduction to VTubers – and there's a lot to like about her and her content, and she's put out some real bangers on the music side of things too.
+HoloEN Myth's Mori Calliope got me into VTubers and is probably my absolute favourite, though not by a huge margin: those who know me know that I'm also very big on HoloEN Council's Ceres Fauna these days, and I also watch HoloID's Pavolia Reine quite a bit. I've also been getting into VShojo's Froot a bit lately (which has been a lot easier ever since Holodex started making Twitch streams more easily accessible). One smaller English-language VTuber to check out is [Milky Queen](https://twitter.com/milkyqueen_idol?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), a bilingual streamer who's part of a unit called Mai Princess and mostly streams on Twitch rather than YouTube these days. Milky's actually been around for a while – she was Calli's introduction to VTubers – and there's a lot to like about her and her content, plus she's put out some real bangers on the music side of things too.
 
 While I barely have any Japanese skills worth mentioning I do follow a few of Hololive's Japanese talents: 3rd Gen's Shirogane Noel and 0th's Sakura Miko mainly, though I've also been getting into 6th Gen's Hakui Koyori and Gamers' Ookamio Mio lately. I think what helps is that with all four there's a very strong vibe that doesn't really require strong language skills, at least for me. Also, on a pure music front I'm very keen on 0th's Hoshimachi Suisei.
 
@@ -254,4 +254,14 @@ Nahhhhhhhhhhhhhhhhh
 Ha I was looking around for the comment about inline spoilers and didn't remember that it was this one!
 
 On the inline spoilers note, you're not entirely wrong, and in fact I was very close to actually posting the details on the new accounts, but I'm also wary of my post inadvertently being a pathway for some people to harass the people in question over things that happened with Unlimited and activ8 that they may not contractually be able to speak about, or simply not want to given how bad things were there. You raise a good enough case that I will be editing the info in, but in the sources comment rather than the full top-level.
+
+----- __227.29__ -----2022-03-19 11:32:19+08:00:
+
+Phew, a lot of things here!
+
+WRT Kasuga Nozomi not actually leaving Activ8, that hadn't been entirely clear to me before so I will edit to make that less misleading. I think we'd both agree, though, that pulling her out of the normal video and streaming content was still a big move that essentially removed Kasuga from the typical creator-audience interaction, even if supposedly temporarily (but functionally indefinitely). On top of that, the cryptic tweeting suggests Kasuga was decidedly not happy about the situation.
+
+As for Domyoji Cocoa, the reason I had little to say is that there was very little to find on it. For one, Cocoa was, simply, a relatively small channel at the time of the recasting in March 2020: Socialblade's graphs happen to cut off at April 2020, but you can see there that her sub count was barely over 15k at the time, so if there was a fall it can't have been a big one, especially amid Unlimited already having annihilated much of its credibility. Also, from what I've read Cocoa's recasting was both announced ahead of time and treated as a sort of mini-graduation, so there was less of a deceit/bad blood aspect to it than the rather cloak-and-dagger approach that had been taken with Game-bu the year before. At this stage, however, with both a bigger audience and an even more firmly entrenched viewer landscape, I don't think Brave could manage it a second time.
+
+Now, Crunchyroll-hime gets into a field that I really haven't explored or addressed, and that is the 'VTuberisation' of certain corporate mascots. I think there's a certain sense in which these are still vestiges of the 'eternal idol' because they are so much more overtly characters with a marketing angle, and not simply personas adopted by conventional content creators. My personal suspicion is that a recasting here would be less problematic and more akin to Isaiah Mustafa being succeeded by Terry Crews as the 'Old Spice Guy', albeit without the potential for a later crossover.
 
