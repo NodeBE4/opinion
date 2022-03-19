@@ -255,7 +255,15 @@ Re The short clip that follows to inform audience of the "latest situation" begi
 
 Re We could debate what we expect from Chinese state media in terms of a "change in tone." But as Biden and Xi chat, this is the alternative reality on Chinese state television. Russian disinformation still very much the news, with the US to blame for the "conflict/crisis."
 
-### 61: [2022-03-19 11:28:08+08:00 推文](https://twitter.com/MassimoSfriso/status/1505023288082251776)
+### 61: [2022-03-19 04:59:47+08:00 推文](https://twitter.com/MareikeOhlberg/status/1504925555006877704)
+
+RT Mareike Ohlberg<br>Official China has consistently portrayed the US as the party that is responsible for the war in Ukraine. In how they've covered the war, they've strictly followed united front logic of attacking the principal enemy, the U.S. I don't think that will change, and I do think... 1/<br><br>Victor Shih: @niubi “As the initiator and directly concerned party of the Ukraine crisis, the US should reflect on its own role, earnestly assume its historical responsibility..” if China really believes this, we are in for a long war….<br>
+
+### 62: [2022-03-19 05:03:04+08:00 推文](https://twitter.com/MareikeOhlberg/status/1504926382534668290)
+
+RT Mareike Ohlberg<br>Re It will lose what little goodwill remained for China in Central and Eastern Europe (not that much to begin with) because the Chinese framing is frankly unforgivable to pretty much all CEE countries 3/
+
+### 63: [2022-03-19 11:28:08+08:00 推文](https://twitter.com/MassimoSfriso/status/1505023288082251776)
 
 RT Massimo Sfriso<br>This is Hong Kong today. City’s portrait by @IlariaMariaSala <a href="https://www.theguardian.com/commentisfree/2022/mar/18/hong-kong-covid-surge-vaccination-rates?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1647607945" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2022/mar/18/hong-kong-covid-surge-vaccination-rates?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1647607945</a>
 

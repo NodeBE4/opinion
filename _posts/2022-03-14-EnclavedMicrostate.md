@@ -281,3 +281,9 @@ Ame dropped the fake accent pretty fast.
 
 https://www.youtube.com/watch?v=s4Ms3hQ_IAY
 
+### 230: [🎉3rd fes. Link Your Wish DAY 1🎉Megathread!](https://old.reddit.com/r/Hololive/comments/thps9r/3rd_fes_link_your_wish_day_1megathread/), submitted on 2022-03-19 15:07:35+08:00.
+
+----- __230.1__ -----2022-03-19 16:43:51+08:00:
+
+Yep!
+
