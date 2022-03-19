@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-19
+date: 2022-03-20
 from: https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/
 layout: post
 tags:
@@ -137,4 +137,16 @@ In any event, Ukraine is not Syria.  Regime change is not the desired end for an
 ----- __182.1__ -----2022-03-19 12:03:49+08:00:
 
 I see that he put weights on them, but my anxiety over those chairs was really high.
+
+### 183: [Joe Biden's historic speech from 1995 regarding Bosnia sounds so relevant in context of today's aggression in Ukraine, also mentioning the fear of future wars in Europe.](https://old.reddit.com/r/geopolitics/comments/thh6qt/joe_bidens_historic_speech_from_1995_regarding/), submitted on 2022-03-19 06:42:17+08:00.
+
+----- __183.1__ -----2022-03-20 00:24:59+08:00:
+
+You should submit some kind of original post explaining why you think this speech is relevant to Ukraine today, link the video and analyze it.  But you currently have no submission statement and just linking the video isn't enough.
+
+### 184: [Chicagohenge 2022: When and Where You Can See It This Weekend](https://old.reddit.com/r/CoronavirusIllinois/comments/thymhh/chicagohenge_2022_when_and_where_you_can_see_it/), submitted on 2022-03-20 00:16:55+08:00.
+
+----- __184.1__ -----2022-03-20 00:17:34+08:00:
+
+Not relevant to COVID, but something interesting to see if you're in Chicago.
 

@@ -283,6 +283,14 @@ Reasons of space caused me to make a lot of editorial decisions, and in the end 
 
 Could do, but at a certain point you'd be adding more for its own sake without actually contributing to the point in question. Any work of history, even a rather unrigorous attempt like my post here, is an exercise in selection rather than inclusion.
 
+----- __228.33__ -----2022-03-20 00:05:34+08:00:
+
+Actually, I do mention that [here](https://www.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/i15aq08/).
+
+----- __228.34__ -----2022-03-20 00:06:23+08:00:
+
+Sure, plenty of drama, but is it drama that adds to my point? I'm writing about Hololive partly because it's big now, but also partly because I find their particular decisions interesting, and in a way that was different from, and yet reflective of the same issues as, Unlimited and Activ8.
+
 ### 229: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
 ----- __229.1__ -----2022-03-19 13:48:45+08:00:
