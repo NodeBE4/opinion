@@ -265,3 +265,7 @@ As for Domyoji Cocoa, the reason I had little to say is that there was very litt
 
 Now, Crunchyroll-hime gets into a field that I really haven't explored or addressed, and that is the 'VTuberisation' of certain corporate mascots. I think there's a certain sense in which these are still vestiges of the 'eternal idol' because they are so much more overtly characters with a marketing angle, and not simply personas adopted by conventional content creators. My personal suspicion is that a recasting here would be less problematic and more akin to Isaiah Mustafa being succeeded by Terry Crews as the 'Old Spice Guy', albeit without the potential for a later crossover.
 
+----- __227.30__ -----2022-03-19 13:33:27+08:00:
+
+Ame dropped the fake accent pretty fast.
+
