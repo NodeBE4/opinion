@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-18
+date: 2022-03-19
 from: https://twitter.com/realcaixia/status/1503141644224372736
 layout: post
 tags:
@@ -226,4 +226,20 @@ Re @allhumanunity 我2010年夏天在北京香山饭店开会直接的批薄熙�
 ### 53: [2022-03-18 22:16:17+08:00 推文](https://twitter.com/realcaixia/status/1504824011942944777)
 
 特别推荐下面视频：<br>习当局突然将北京小伙所有微信账号突然全部被删！连国内父母号也全删！<br>习当局只敢躲在阴暗角落里，想方设法地压制迫害中国人！习当局太可耻太卑鄙太龌龊！<br>受困乌克兰敖德萨王吉贤失去了和父母唯一联系，他怒吼到”（中共）你这... <a href="https://youtu.be/AL1XVeuVWKg" target="_blank" rel="noopener noreferrer">https://youtu.be/AL1XVeuVWKg</a>
+
+### 54: [2022-03-19 21:17:16+08:00 推文](https://twitter.com/realcaixia/status/1505171547908157440)
+
+中共的流氓下三烂手法陷害正义人士。<br>对这样的下三烂伎俩，就是要公开揭露，并且给临沂检察官记上一笔。到宪政民主政治转型、清算中共极权统治罪恶时，所有的帮凶作恶者同样要接受法律惩罚。<br><br>Luo Shengchun丁家喜律师妻子: #临沂公案检察捏造证人证言 翘楚起诉书里提到的张忠顺昨日主动找到翘楚的律师，澄清他根本不知道翘楚这个人，不知道翘楚和志永的关系，更不知道所谓的个人博客，起诉书中证人证言完全是捏造！<br>临沂公安和检察，你们不仅是流氓加无赖，事实证明你们才是真正的罪犯！你们无中生有、捕风捉影、借刀杀人！<br><br><img style="" src="https://pbs.twimg.com/media/FONglFXXoAUQ-wg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FONglFZX0AE87c_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FONglFWWUAMLz9M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 55: [2022-03-19 21:27:23+08:00 推文](https://twitter.com/realcaixia/status/1505174096237191173)
+
+【译丛】乌克兰战争已经进入新的阶段，拜登和西方最好做好准备 - 议报 <a href="https://yibaochina.com/?p=245422" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245422</a>
+
+### 56: [2022-03-19 21:45:41+08:00 推文](https://twitter.com/realcaixia/status/1505178699292938241)
+
+鲍老对拜习通话官样文章空话的评论。<br><br>鲍彤 Bao Tong: 相见不如不见，谈了等于没谈。<br>虚与委蛇造废纸，无非如彼如此。<br>
+
+### 57: [2022-03-19 21:49:56+08:00 推文](https://twitter.com/realcaixia/status/1505179767846416391)
+
+英国政府对俄罗斯官媒的恶行作出了正确回应，值得称道。相信英国政府也会对中共在英国的海外操控采取行动的。<br><br>韩连潮: 英国吊销了传布虚假信息俄国官媒俄罗斯电视的经营执照；俄罗斯外长污蔑西方实施“信息恐怖主义”，中共的许多切口都学自于俄爹，估计这词很快也会成为赵立坚的上口字。<br><br><img style="" src="https://pbs.twimg.com/media/FONsihRXsAckJqK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

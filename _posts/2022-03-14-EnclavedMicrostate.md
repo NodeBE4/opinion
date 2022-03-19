@@ -291,6 +291,10 @@ Actually, I do mention that [here](https://www.reddit.com/r/HobbyDrama/comments/
 
 Sure, plenty of drama, but is it drama that adds to my point? I'm writing about Hololive partly because it's big now, but also partly because I find their particular decisions interesting, and in a way that was different from, and yet reflective of the same issues as, Unlimited and Activ8.
 
+----- __228.35__ -----2022-03-20 01:58:20+08:00:
+
+[Yep.](https://www.youtube.com/watch?v=XvqXgKryE58)
+
 ### 229: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
 ----- __229.1__ -----2022-03-19 13:48:45+08:00:
