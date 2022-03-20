@@ -369,3 +369,9 @@ None of Myth or ID Gen 1 (besides Calli) were physically in Japan for Link Your 
 
 Sure, and Calli has insisted that she won't do one without, hence why she still haven't had an official 3D debut.
 
+### 235: [Matsuri loves the management because of how supportive they are, and how they really respect the talents creative freedom](https://old.reddit.com/r/Hololive/comments/tikd7i/matsuri_loves_the_management_because_of_how/), submitted on 2022-03-20 20:50:46+08:00.
+
+----- __235.1__ -----2022-03-20 22:03:14+08:00:
+
+Remember Matsuri you're not allowed to date management though!
+

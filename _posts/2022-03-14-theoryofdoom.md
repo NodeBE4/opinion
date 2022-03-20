@@ -172,3 +172,13 @@ This is the translation of that link to English, which you should use *exactly* 
 
 Be sure to post a submission statement.
 
+### 187: [Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]](https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/), submitted on 2022-03-20 22:21:05+08:00.
+
+----- __187.1__ -----2022-03-20 22:32:41+08:00:
+
+Submission Statement:
+
+This is an interview with the former president of Poland, Aleksander Kwasniewski.  According to Kwasniewski, in 2002 he had a long, private, private conversation with Vladimir Putin. Kwasniewski explains that Putin's goal was to rebuild the Russian empire. Putin was unidimensionally focused on this point, which required conquest of Ukraine. Kwasniewski explains that over the years, Putin's initial dream was became more and more a plan and then a reality.  
+
+The interview is in Polish.  A translation will follow.
+
