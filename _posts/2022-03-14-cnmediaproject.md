@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-19
+date: 2022-03-20
 from: https://twitter.com/melissakchan/status/1503065615493484544
 layout: post
 tags:
@@ -266,4 +266,28 @@ RT Mareike Ohlberg<br>Re It will lose what little goodwill remained for China 
 ### 63: [2022-03-19 11:28:08+08:00 推文](https://twitter.com/MassimoSfriso/status/1505023288082251776)
 
 RT Massimo Sfriso<br>This is Hong Kong today. City’s portrait by @IlariaMariaSala <a href="https://www.theguardian.com/commentisfree/2022/mar/18/hong-kong-covid-surge-vaccination-rates?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1647607945" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2022/mar/18/hong-kong-covid-surge-vaccination-rates?utm_term=Autofeed&amp;CMP=twt_gu&amp;utm_medium&amp;utm_source=Twitter#Echobox=1647607945</a>
+
+### 64: [2022-03-20 10:35:42+08:00 推文](https://twitter.com/cnmediaproject/status/1505372480755879938)
+
+Topping Xinhua Sunday, nothing on Ukraine at all. But related piece criticizing the hypocrisy of the US in touting values like "science without borders" and "freedom of expression" when it treats sanctions like a global weapon. From the deputy FM. <a href="https://bit.ly/3JGtM7P" target="_blank" rel="noopener noreferrer">https://bit.ly/3JGtM7P</a><br><img style="" src="https://pbs.twimg.com/media/FOQoA1xaQAIinJn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 65: [2022-03-20 10:40:22+08:00 推文](https://twitter.com/cnmediaproject/status/1505373656285069315)
+
+Re Big headline is: "Three key messages from the video call between China and US leaders." There Ukraine does come up as the "Ukraine crisis" (乌克兰危机) and the "problem of Ukraine" (乌克兰问题上).<br><img style="" src="https://pbs.twimg.com/media/FOQpWSQaIAE10v2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 66: [2022-03-20 10:45:17+08:00 推文](https://twitter.com/cnmediaproject/status/1505374893667680256)
+
+Re 3 messages? 1. U.S. demand for dialogue with China on the rise; 2. Managing differences is key to US-China getting along ; 3. China has been doing its best for peace. On last, emphasis is on China acting w/ "the attitude of a responsible major nation" (负责任大国应有的态度).<br><img style="" src="https://pbs.twimg.com/media/FOQqejYaMAAFZZZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 67: [2022-03-20 10:49:31+08:00 推文](https://twitter.com/cnmediaproject/status/1505375956227473410)
+
+Re Much of the world has seen China talking, dragging and fence sitting, and the longer-term impact of this remains to be seen. But China's complaint against US here is that US has "used the Ukraine issue to spread fake information twisting China's position" (歪曲抹黑中方立场).<br><img style="" src="https://pbs.twimg.com/media/FOQrcpJakAEfIWX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 68: [2022-03-20 10:55:23+08:00 推文](https://twitter.com/cnmediaproject/status/1505377435768201217)
+
+Re On Weibo today the top trending topic (noting these are not generally organic, but chosen) is the US-China video talk. Nothing at all on Ukraine or the war ("conflict" "problem" "special military operation"). Several threads are on covid case spikes.<br><img style="" src="https://pbs.twimg.com/media/FOQso8VakAoCcwF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 69: [2022-03-20 10:57:16+08:00 推文](https://twitter.com/cnmediaproject/status/1505377910026551303)
+
+Re This top-trending US-China topic is a hashtag that essentially aggregates official state media reporting on the Xi-Biden call. <a href="https://bit.ly/3wlWRBy" target="_blank" rel="noopener noreferrer">https://bit.ly/3wlWRBy</a><br><img style="" src="https://pbs.twimg.com/media/FOQtOT8aAAE082-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

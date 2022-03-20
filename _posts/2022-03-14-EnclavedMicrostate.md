@@ -325,3 +325,11 @@ I guess Friend can do whatever she wants.
 
 Milky Queen is great BTW, she's pretty active [on Twitch](http://twitch.tv/milkyqueen_idol). Tsuyahime seems to be the main user of the [Mai Princess Youtube channel](https://www.youtube.com/channel/UC2c8dQYdDadn7tmK_d7o-HQ) but Milky's there occasionally too.
 
+### 232: [Yeah we saw it shork (T⌓T)](https://old.reddit.com/r/Hololive/comments/thvd6h/yeah_we_saw_it_shork_tt/), submitted on 2022-03-19 21:37:21+08:00.
+
+----- __232.1__ -----2022-03-20 12:26:46+08:00:
+
+It's going to be guh, I feel it in my gut.
+
+More seriously I assume it'll be UnAlive.
+
