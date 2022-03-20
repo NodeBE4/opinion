@@ -343,3 +343,7 @@ This is quite subtle, but the ribbon on Flare's idol outfit model matches her cu
 
 Oh and Kintsuba's gone too. That I'd forgotten was on the old outfit altogether.
 
+----- __233.3__ -----2022-03-20 16:58:10+08:00:
+
+The blue-grey bit isn't consistently on all her outfits, but you can just about catch it on her main one: https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Yuzuki_Choco_-_Full_Illustration_01.jpg/revision/latest/scale-to-width-down/462?cb=20190725165734
+
