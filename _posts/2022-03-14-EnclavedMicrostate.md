@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-19
+date: 2022-03-20
 from: https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/
 layout: post
 tags:
@@ -332,4 +332,14 @@ Milky Queen is great BTW, she's pretty active [on Twitch](http://twitch.tv/milky
 It's going to be guh, I feel it in my gut.
 
 More seriously I assume it'll be UnAlive.
+
+### 233: [🎉3rd fes. Link Your Wish DAY 2🎉Megathread!](https://old.reddit.com/r/Hololive/comments/tife8f/3rd_fes_link_your_wish_day_2megathread/), submitted on 2022-03-20 15:00:20+08:00.
+
+----- __233.1__ -----2022-03-20 16:15:55+08:00:
+
+This is quite subtle, but the ribbon on Flare's idol outfit model matches her current main outfit rather than her old one.
+
+----- __233.2__ -----2022-03-20 16:22:05+08:00:
+
+Oh and Kintsuba's gone too. That I'd forgotten was on the old outfit altogether.
 
