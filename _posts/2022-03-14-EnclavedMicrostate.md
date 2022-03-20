@@ -345,7 +345,7 @@ Oh and Kintsuba's gone too. That I'd forgotten was on the old outfit altogether.
 
 ----- __233.3__ -----2022-03-20 16:58:10+08:00:
 
-The blue-grey bit isn't consistently on all her outfits, but you can just about catch it on her main one: https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Yuzuki_Choco_-_Full_Illustration_01.jpg/revision/latest/scale-to-width-down/462?cb=20190725165734
+The blue-grey bit isn't consistently present on all her outfits, but you can just about catch it on her main one: https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Yuzuki_Choco_-_Full_Illustration_01.jpg/revision/latest/scale-to-width-down/462?cb=20190725165734
 
 ----- __233.4__ -----2022-03-20 17:52:09+08:00:
 
@@ -360,4 +360,12 @@ Instructions unclear; bonked it even deeper into my head.
 ----- __234.1__ -----2022-03-20 19:27:05+08:00:
 
 Calli has said that they will once Myth are able to physically get together, but that with the world situation being what it has been, they will now be able to do 3D activities even without an 'official' debut if they want, such as Calli's own birthday live next month.
+
+----- __234.2__ -----2022-03-20 19:39:53+08:00:
+
+None of Myth or ID Gen 1 (besides Calli) were physically in Japan for Link Your Wish; their performances had to be done remotely. Whether this was streamed with a slight delay to buffer, or an outright advance recording, isn't clear. Technically, they haven't done an 'official' 3D debut yet which is its own specific stream that normally entails in-person interaction with other mems, and I think at Calli's insistence that's not happening until all 5 of Myth can be in the same place. However, because it has taken so long, Calli will be doing a 3D live for her birthday stream and apparently the other four will for theirs as well.
+
+----- __234.3__ -----2022-03-20 20:47:07+08:00:
+
+Sure, and Calli has insisted that she won't do one without, hence why she still haven't had an official 3D debut.
 
