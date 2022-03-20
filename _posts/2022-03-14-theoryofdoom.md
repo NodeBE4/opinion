@@ -180,9 +180,21 @@ https://www.reddit.com/r/geopolitics/comments/tim3sd/kwa%C5%9Bniewski_20_years_a
 
 You had a great find.  Please feel free to share similar content here in the future.
 
-### 187: [Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]](https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/), submitted on 2022-03-20 22:21:05+08:00.
+### 187: [Have American sanctions ever actually gotten a nation to change its leadership?](https://old.reddit.com/r/geopolitics/comments/ti97yf/have_american_sanctions_ever_actually_gotten_a/), submitted on 2022-03-20 08:42:15+08:00.
 
------ __187.1__ -----2022-03-20 22:32:41+08:00:
+----- __187.1__ -----2022-03-20 23:45:13+08:00:
+
+> Sanctions were only part of the reason.
+
+Milošević's fall had almost nothing to do with Western sanctions.
+
+----- __187.2__ -----2022-03-21 00:27:51+08:00:
+
+Milošević's days were numbered, because of what he was doing and what it meant for the people to whom he was doing it.  Sanctions just happened to tag along to what was already inevitable.
+
+### 188: [Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]](https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/), submitted on 2022-03-20 22:21:05+08:00.
+
+----- __188.1__ -----2022-03-20 22:32:41+08:00:
 
 # Submission Statement:
 
@@ -192,7 +204,7 @@ The interview is in Polish.  A translation will follow.
 
 Quick note as well.  The user u/boskee originally submitted a translation of this article to r/ukraine, where it was removed for reasons that defy rational explanation. The same user posted the same version here.  I encouraged him to share the original link with a submission statement, but after 24 hours I saw it hadn't been done.  Because that user identified a worthwhile perspective to add to r/geopolitics, I have shared it here.
 
------ __187.2__ -----2022-03-20 22:37:32+08:00:
+----- __188.2__ -----2022-03-20 22:37:32+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -224,7 +236,7 @@ Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,
 
 This translation continues.
 
------ __187.3__ -----2022-03-20 22:40:53+08:00:
+----- __188.3__ -----2022-03-20 22:40:53+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -256,7 +268,7 @@ Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,
 
 This translation continues.
 
------ __187.4__ -----2022-03-20 22:43:02+08:00:
+----- __188.4__ -----2022-03-20 22:43:02+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -281,7 +293,7 @@ Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,
 
 This translation continues.
 
------ __187.5__ -----2022-03-20 22:50:35+08:00:
+----- __188.5__ -----2022-03-20 22:50:35+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -345,7 +357,7 @@ It is difficult to predict today, but this turn must be taken seriously - it wil
 
 This translation continues.
 
------ __187.6__ -----2022-03-20 22:50:51+08:00:
+----- __188.6__ -----2022-03-20 22:50:51+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -387,7 +399,29 @@ I hope. Today, everyone is aware that we need more unity, because in the face of
 
 This is the last part of the translation.
 
------ __187.7__ -----2022-03-20 23:19:56+08:00:
+----- __188.7__ -----2022-03-20 23:19:56+08:00:
 
 I think it's really important to share non-English international perspectives, like these.  I would like to see more submissions from international sources.
+
+----- __188.8__ -----2022-03-20 23:39:16+08:00:
+
+> The whole thing is about NATO. 
+
+Why do you think that?
+
+----- __188.9__ -----2022-03-21 00:14:23+08:00:
+
+Putin invaded Ukraine because he believes that a Ukraine affiliated with Western Europe or NATO is a threat to Russia.  Putin's perceptions of threats to Russia is what this is all about.  NATO is one category of such threats, in his view.
+
+----- __188.10__ -----2022-03-21 00:16:53+08:00:
+
+It's really incredible to me that people writing for think tanks in Washington who have never spent more than a day in Eastern Europe think they can predict Putin's next move.  It's clear to me that they don't understand why he moved in the first place.  Mike Baker's perspective on this mirror's my own.
+
+----- __188.11__ -----2022-03-21 00:25:16+08:00:
+
+Kwasniewski's take was harsh.  But, if by "we" you mean "Americans," then it's reasonable to question whether people writing for think tanks could possibly get anything right  in understanding Putin or his foreign policy.  That cohort, after all, only knows what other people writing for think tanks have said.  At the considerable risk of being profane, that kind of quasi-intellectual circle-jerk is dangerous because it creates strategic blind spots that can't be overcome with more of that same thinking. 
+
+There's a tendency among Western-foreign policy types to try to project Western values and ideals on other people or assume that whenever other actors in the world aren't acting according to those expectations, that they're "insane" or have lost their mind.  The problem is that being crazy can't be measured by conformity or nonconformity with Washington think-tank's expectations.  
+
+I have never seen more such strategic blindness than prior to Vladimir Putin's invading Ukraine.
 

@@ -375,6 +375,10 @@ Sure, and Calli has insisted that she won't do one without, hence why she still 
 
 3 days?
 
+----- __235.2__ -----2022-03-21 00:38:52+08:00:
+
+Yeah it's not an ideal option by any means, but arguably the only alternative is just longer concerts.
+
 ### 236: [Matsuri loves the management because of how supportive they are, and how they really respect the talents creative freedom](https://old.reddit.com/r/Hololive/comments/tikd7i/matsuri_loves_the_management_because_of_how/), submitted on 2022-03-20 20:50:46+08:00.
 
 ----- __236.1__ -----2022-03-20 22:03:14+08:00:
