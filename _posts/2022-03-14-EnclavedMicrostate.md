@@ -355,3 +355,9 @@ I just realised Mio's hair reminds me of Shadow the Hedgehog and now I can never
 
 Instructions unclear; bonked it even deeper into my head.
 
+### 234: [Are the HoloEN members going to make an actual 3D debut like the other members?](https://old.reddit.com/r/Hololive/comments/tiizj1/are_the_holoen_members_going_to_make_an_actual_3d/), submitted on 2022-03-20 19:24:58+08:00.
+
+----- __234.1__ -----2022-03-20 19:27:05+08:00:
+
+Calli has said that they will once Myth are able to physically get together, but that with the world situation being what it has been, they will now be able to do 3D activities even without an 'official' debut if they want, such as Calli's own birthday live next month.
+
