@@ -295,6 +295,10 @@ Sure, plenty of drama, but is it drama that adds to my point? I'm writing about 
 
 [Yep.](https://www.youtube.com/watch?v=XvqXgKryE58)
 
+----- __228.36__ -----2022-03-20 11:28:19+08:00:
+
+Unfortunately [you may have been beaten to it.](https://www.twitch.tv/kirap_raptorgirl)
+
 ### 229: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
 ----- __229.1__ -----2022-03-19 13:48:45+08:00:
@@ -314,4 +318,10 @@ Towa did ERROR at 2nd Fes, and I don't think anyone reused any of their songs fr
 ----- __230.3__ -----2022-03-19 20:55:16+08:00:
 
 I guess Friend can do whatever she wants.
+
+### 231: [[Calli] I believe she said a similar thing on Trash Taste. Glad she's happy where she is now.](https://old.reddit.com/r/Hololive/comments/thuhtf/calli_i_believe_she_said_a_similar_thing_on_trash/), submitted on 2022-03-19 20:47:45+08:00.
+
+----- __231.1__ -----2022-03-20 11:24:26+08:00:
+
+Milky Queen is great BTW, she's pretty active [on Twitch](http://twitch.tv/milkyqueen_idol). Tsuyahime seems to be the main user of the [Mai Princess Youtube channel](https://www.youtube.com/channel/UC2c8dQYdDadn7tmK_d7o-HQ) but Milky's there occasionally too.
 
