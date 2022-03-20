@@ -347,3 +347,11 @@ Oh and Kintsuba's gone too. That I'd forgotten was on the old outfit altogether.
 
 The blue-grey bit isn't consistently on all her outfits, but you can just about catch it on her main one: https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Yuzuki_Choco_-_Full_Illustration_01.jpg/revision/latest/scale-to-width-down/462?cb=20190725165734
 
+----- __233.4__ -----2022-03-20 17:52:09+08:00:
+
+I just realised Mio's hair reminds me of Shadow the Hedgehog and now I can never unsee it help
+
+----- __233.5__ -----2022-03-20 18:09:25+08:00:
+
+Instructions unclear; bonked it even deeper into my head.
+
