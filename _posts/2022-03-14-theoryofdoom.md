@@ -172,13 +172,222 @@ This is the translation of that link to English, which you should use *exactly* 
 
 Be sure to post a submission statement.
 
+----- __186.2__ -----2022-03-20 23:22:08+08:00:
+
+Just as an FYI, here's what I was looking for:
+
+https://www.reddit.com/r/geopolitics/comments/tim3sd/kwa%C5%9Bniewski_20_years_ago_i_had_a_facetoface/
+
+You had a great find.  Please feel free to share similar content here in the future.
+
 ### 187: [Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]](https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/), submitted on 2022-03-20 22:21:05+08:00.
 
 ----- __187.1__ -----2022-03-20 22:32:41+08:00:
 
-Submission Statement:
+# Submission Statement:
 
 This is an interview with the former president of Poland, Aleksander Kwasniewski.  According to Kwasniewski, in 2002 he had a long, private, private conversation with Vladimir Putin. Kwasniewski explains that Putin's goal was to rebuild the Russian empire. Putin was unidimensionally focused on this point, which required conquest of Ukraine. Kwasniewski explains that over the years, Putin's initial dream was became more and more a plan and then a reality.  
 
 The interview is in Polish.  A translation will follow.
+
+Quick note as well.  The user u/boskee originally submitted a translation of this article to r/ukraine, where it was removed for reasons that defy rational explanation. The same user posted the same version here.  I encouraged him to share the original link with a submission statement, but after 24 hours I saw it hadn't been done.  Because that user identified a worthwhile perspective to add to r/geopolitics, I have shared it here.
+
+----- __187.2__ -----2022-03-20 22:37:32+08:00:
+
+Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
+
+# RUSSIA
+
+> ### Jacek Gądek: - Putin has been in power for 22 years. Do you think that you planned a war with Ukraine from the beginning?
+> 
+> Aleksander Kwaśniewski: - Did he plan this war at the beginning of his presidency? I doubt it. But he certainly dreamed of conquering Ukraine by then. Anyway, I have proof of that.
+> 
+> ### What?
+> 
+> In 2002, I had a long private, private conversation with Putin. He told me outright that for him one of the most important tasks was to rebuild a great Russia. Just as he believed that the collapse of the Soviet Union was the greatest catastrophe of the twentieth century, he also believed that great Russia should rebuild itself. He was a young president then, only in office for two years and had no instruments to take over Ukraine, but he has already talked about it. Both in conversation with me and then in public. Putin never really recognized Ukraine as a state and Ukrainians as a nation.
+>
+> I think that in Putin the obsession with a great Russia, and therefore with the conquest of Ukraine, was growing. Over the years, he took advantage of successive opportunities, on the one hand, to rebuild the empire, and on the other, to test the West's reaction. After the war with Georgia in 2008, this reaction was too weak, as in 2014 after the annexation of Crimea and the detachment of the Donbas. This only encouraged Putin to prepare a full-scale war with Ukraine. Putin's initial dream became more and more a plan.
+> 
+> ### Why now?
+>
+> I can see a couple of explanations. First: Putin is getting older and the younger one will not. Second: 22 years of monopoly means detachment from reality. Third: Putin looked at the world and found the time to be favorable.
+>
+> According to Putin, the US is in a crisis because Joe Biden, as an elderly man, will not take harsh action. Because - according to Putin - in Europe after Angela Merkel's era everything is weak and it will only be built anew. He decided that China would not stop him, because they themselves had similar plans for Taiwan. He also thought he had the money to finance the war, because Russia had accumulated huge surpluses by trading in oil and gas. Finally, he considered the election of an inexperienced actor to the presidency of Ukraine to make the war easier. Putin expected a blitzkrieg and started a war.
+>
+> ### After almost a month, there are many comments that Putin has already lost this war. But isn't that wishful thinking?
+> 
+> Putin will actually lose in the long run. Because - first of all - Ukraine is being born before our eyes, even if it is physically destroyed. It is no longer possible for Ukraine to be part of Russia except under occupation and terror, and Russia does not have the strength to occupy it as a whole. After 30 years of Ukraine's independence, Putin finally helped her believe in her own identity, strength and pride. Ukrainians will be Russia's enemies for many centuries.
+> 
+> Putin has already lost also because the world has noticed his true face. I cannot imagine that - even after the conclusion of a truce or peace - Putin would be able to return to the salons. He will always be considered a war criminal. But is it necessary to talk to Putin as the president of Russia? Yes you should. But you absolutely cannot believe him.
+> 
+> Putin also did not win in the short-term plan, because he was buried in a war - it could last for months. In the medium term, in turn, if Putin managed to take control of Kyiv and install obedient power there, he could strengthen his position in Russia with deceptive propaganda. But that would be a Pyrrhic success.
+
+This translation continues.
+
+----- __187.3__ -----2022-03-20 22:40:53+08:00:
+
+Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
+
+# UKRAINE
+
+> ### For now, Putin is leveling Ukraine with the ground and killing civilians. Ukraine will have the potential to recover from this rubble?
+>
+> There are examples of countries - like Poland - that were rising from the ruins. After the Second World War, despite the resignation from the Marshall Plan, Poland managed to rebuild it with great social effort. Under conditions of limited sovereignty, but without the threat of physical extermination, it was possible to rebuild Warsaw, create the foundations of industry and a lot of other great things. Ukraine's potential is not less than ours.
+> 
+> If the war does not end with occupation, and the Ukrainians are able to live in their country, even at the cost of giving up NATO, but with a presence in the European Union, they will be able to rebuild the country. Especially with the help of the EU and encouraging Ukrainians to return to their homeland. Ukrainians are well educated, non-demoralized and do not suffer from laziness due to satiety.
+>
+> ### But when? This is a distant vision as the bombs keep falling.
+>
+> Maybe in a few years. Ukraine may emerge from the ruins more modern, identical, conscious and hungry for development.
+> 
+> ### What are the minimum conditions for Ukraine's victory?
+> 
+> Today, resistance every day is a victory. The persistence of Kiev is a victory. The presence of President Volodymyr Zelensky in the capital and the actions of the state are everyday victories. Cease fire, although I do not believe it, would be a success. Limiting the number of victims - too. But Zelenskiy's biggest problem will be if he can return to the pre-invasion state by February 24th on the negotiating table. This would mean accepting Ukraine's lack of power over Crimea, Donetsk and Luhansk. Would that be accepted by the Ukrainians as a wise compromise or a betrayal? I cannot answer myself, but I know it would be a very risky moment for Zelensky.
+>
+> So far, there are no such negotiations. Putin will fight in the belief that he will defeat Ukraine.
+>
+> ### Zelenskiy could do something more than before?
+>
+> He is an excellent war-time leader and so keeps in touch with the nation. In terms of communication, it is phenomenal. He stays in Kiev, mobilizes and gives faith, builds morale - at the present stage, he can do nothing better.
+> 
+> His emphasis on the West is always on point. Generally, he always says the same thing, but uses different, very pertinent arguments. When he speaks in the US Congress, he admonishes the Americans: you are not helping to defend the skies over Ukraine, and yet your greatest misfortunes came from heaven - at Pearl Harbor as a result of the Japanese air raid and on September 11, when terrorists attacked the US. These are arguments that even a poorly educated American can understand.
+>
+> In turn, speaking to the Germans, he emphasizes the expectations of the German leadership. He wisely builds arguments towards various partners, weaving symbolic and emotional elements. This is paying off, since the West - and mainly the US - are handing over more weapons.
+
+This translation continues.
+
+----- __187.4__ -----2022-03-20 22:43:02+08:00:
+
+Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
+
+
+# UNITED STATES
+
+> ### The USA and President Joe Biden Are Authentic Leaders of the Free World?
+>
+> Let's close our eyes and imagine that today the US President is Donald Trump. The man who undermined the rationality of NATO, insulted European allies, was fascinated by Putin and pursued a narcissistic, selfish policy. The very fact that Biden is the president is worth appreciating.
+> 
+> Biden is a man of principles and he tries to live by them. I read the book by Hunter Biden - Joe Biden's very difficult son - "All Beautiful Things". She is convinced that thanks to Joe Biden's love and closeness to his son, it was possible to help a lost man. Biden never pushed his son away, though it might have been convenient for him.
+> 
+> He is a man of persistent persuasion - he reaches out to people, he explains. He does not impose his opinion, but it is thanks to him that the West speaks with one voice and NATO has become stronger. Biden fulfills his role beyond expectations. May he have enough health and energy, which is not easy at his age. We are really lucky to have Biden. If it weren't for him, we'd be in a black hole.
+> 
+> ### Initially, however, Biden shifted responsibility for Europe to the shoulders of Europe itself, to focus on rivalry with China?
+> 
+> Today I do not see such a temptation anymore. Putin, by starting a war in Ukraine, helped reverse the tendency to shift the main US interest from the Atlantic to the Pacific, which had already begun in US policy during the presidency of Barack Obama. For years, America has focused more and more on rivalry with China rather than on its presence in Europe. Therefore, at the NATO summit in Newport in 2014 - during the Obama presidency - a decision was made to increase state spending on the army to 2 percent. GDP. Trump then bluntly demanded that Europe increase its spending to focus on its own rivalry with China. Biden was also close to the idea until Putin started the war in Europe.
+> 
+> ### The prospect of a NATO-Russia conflict is not excluded?
+>
+> Putin directly says that the main threat to Russia comes from NATO, because the Pact - as Putin lies - wants to destroy Russia and its great values. NATO must therefore be prepared for a scenario in which Russia attacks Lithuania, Latvia, Estonia or Poland. In the various scenarios that need to be considered, a NATO war against Russia is not out of the question. In fact, it has not been so close to this confrontation for a long time as it is today.
+
+This translation continues.
+
+----- __187.5__ -----2022-03-20 22:50:35+08:00:
+
+Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
+
+# CHINA
+
+> ### Which side is China on?
+>
+> They stand astride. On the one hand, they say that they are against war, but on the other hand, they are satisfied with the Russian argument that Ukraine is historically part of great Russia and should be with the motherland. And they say this because they took the same attitude towards Hong Kong and today towards Taiwan, where a great armed conflict is also threatened.
+> 
+> Over the years, China has maintained close political and economic contacts with Ukraine. They cannot completely turn away from Kiev, so they cannot. The Chinese ambassador to Kiev stated that China supports Ukraine and will not participate in any attack by it, but this is only said by the ambassador, not the head of the Ministry of Foreign Affairs or the president. China is watching the war and declares itself ready to play a role in finding a peaceful solution. However, we have not heard anything about Beijing's specific actions in this direction, so they either do it in Chinese, that is, discreetly, or they do nothing.
+>
+> ### And China, being a power, has the key to force an end to the war?
+>
+> No, but China's attitude is a very important factor that may make the situation of Ukraine very difficult or help it.
+> 
+> For China, any dispute between the US and, for example, Russia is beneficial because it involves America, which reduces the US involvement in the Pacific. The coming days will show where China will go and whether it wants to play an active role.
+> 
+> ### So far, Chinese President Xi Jinping has talked about "strategic partnership" with Russia and "friendship without borders". Do you still see a chance for China to be dragged over to the West?
+>
+> It is not feasible. China will not join the West, but it can say: you wanted to wage trade wars with us, but it is not profitable for you, let's cooperate pragmatically.
+> 
+> All the words Xi Jinping says about friendship with Russia are declarations - neighborly and marked by memories. China wants to make Russia vassal in the long run. After all, if we compare China's economic, demographic and military power with Russia, Moscow has nothing to fear. Russia is experiencing a demographic catastrophe, it is depopulating, and Siberia is uninhabited, while there are several hundred million Chinese living across the river who would like to settle there.
+> 
+> Russians, weakened by the war with Ukraine, doomed to play the role of China's vassal?
+The Russians stand no chance of a collision with China. Economically, Beijing is a growing power. Russia only has an advantage when it comes to nuclear weapons, but in 10-20 years and the latter advantage will disappear, because China is spending colossal money on arming.
+> 
+> What does Russia have? An army whose myth has just crumbled. It also has gas and oil, which, however, are increasingly being replaced by renewable energy sources. The Chinese will patiently but firmly exploit the weakness of Russia, which in the long term will suffer more and more losses in connection with the war with Ukraine and the sanctions of the West.
+> 
+> ### Can the US force China not to support Russia at least?
+> 
+> China is a power that must be handled like an egg. After all, if the Chinese do not produce something, then entire production lines in the USA and Europe will stop. We saw it in the Covid-19 pandemic. China is economically keeping the whole world in check.
+
+# GERMANY
+
+> Will the anti-Russian shift in Germany continue and end in a move away from Russian gas and oil?
+It is difficult to predict today, but this turn must be taken seriously - it will have colossal consequences in German politics. In Germany - in politics and business - the Russlandversteher group has always been strong, people who "understand Russia."
+>
+> ### .. especially in the SPD, which is in power today and has a chancellor.
+> 
+> After the Russian aggression, the Germans who "understand Russia" are shattered - they are in a state of mental collapse because they absolutely did not expect a war. They expected Putin to press, demand and look for taunts, but he would behave rationally. Putin has become irrational, however, and for many pro-Russian politicians in Germany it is a shock. Prof. Klaus Bachmann points out that some of them are already moving to extremely anti-Russian positions, which is typical of neophytes.
+> 
+> The turnaround in Germany is happening and I am sure it will be permanent. But not instantaneous. When it comes to Russian gas and oil, not only Germany, but also other European countries - such as Greece, Romania, Bulgaria - depend on their supplies. Germany cannot give up Russian raw materials overnight, but the first decisions of Olaf Scholz's government are to postpone the closure of nuclear power plants and thus reduce dependence on Russia.
+> 
+> Germany just needs energy from somewhere. After all, we are talking about the largest industrial economy in Europe. The British live off the capital market, others have income from tourism, and the Germans have to make cars or else they will slide into crisis.
+>
+> ### Do you know the current [chancellor] Olaf Scholz?
+> 
+> I know him and trust him. I know he is a very competent and reliable politician. If he promises something, then he does it. He will look for solutions, but giving up Russian oil and gas is not a monthly project.
+
+# TURKEY
+
+> ### Turkey has a significant role in forcing an end to the war?
+>
+> Turkish President Recep Tayyip Erdogan is playing his game. It must be said that - disagreeing with his internal politics and attitude towards the EU - he plays it efficiently. Last year, with the support of Turkey, Azerbaijan successfully started recapture Nagorno-Karabakh. Armenia's troops were defeated, and Azerbaijan took whatever he wanted, at the same time inviting the Russians to act as mirotors - peacekeepers that would separate the parties.
+> 
+> Erdogan has a plan to support those countries that belong to the broadly understood Turkish language and sphere of influence, while not openly conflicting with Russia.
+> 
+> Now Turkey is supplying weapons, including combat drones, to Ukraine. Erdogan also offers Turkey as a place for peace talks.
+>
+> Erdogan's attitude towards the war in Ukraine is as follows: we do not agree with this war and we give room for peace talks. But since this is not our war, let no one complain that we are selling - this is important: we are selling - our military equipment to Ukraine. Erdogan likes Russia's long-term weakening. I think that regionally Erdogan will soon want to use it in Central Asia and the Caucasus.
+
+This translation continues.
+
+----- __187.6__ -----2022-03-20 22:50:51+08:00:
+
+Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
+
+# EUROPEAN UNION
+
+> ### Are pro-mutinist formations and politicians now bankrupt in the European Union? Irreversible?
+>
+> In the coming months, such formations will be in retreat in the EU. In France, if Marine Le Pen enters the second round of the presidential election - which would be the most convenient for Emmanuel Macron - he will get a whip for his love for Putin.
+> 
+> Matteo Salvini, as evidenced by his reaction to the President of Przemyśl being presented with Putin's T-shirt, would like to run away and forget how he praised Putin. 
+> 
+> ### And you can get away from it at all?
+> 
+> Many people would now like to escape from their fascination with Putin, because people in Europe see images of war and death, which are Putin's fault. Everyone sees the one-sidedness of his aggression. Any arguments that Ukraine posed a threat to Russia are nonsense. Nobody will believe that Zelenskiy is a neo-Nazi. How could a Jew, whose family was largely lost in the Holocaust, be a Nazi? How could Zelenskiy, who grew up in the culture of the Russian language, want to attack Russia? After all, this is the Kremlin's propaganda madness.
+> 
+> Pro-Putin politicians - I repeat - will be in retreat in the coming months, but if the war continues for a long time, then - unfortunately - knowing the nature of people, especially those who are fed up in Europe, we will be occupied with other topics, and the war will be relegated to the background. We can become indifferent - this is a great risk.
+
+# POLAND
+
+> ### The PiS government is returning to the West?
+> 
+I hope. Today, everyone is aware that we need more unity, because in the face of such conflicts no one can handle it on his own. I think it will weaken anti-European aspirations and stop ideas of breaking up the EU or imitating Brexit, because it would be suicidal.
+> 
+> ### Do you see the reset when it comes to Poland's position in the EU?
+> 
+> This reset is a fact of life. Information is spreading around the world that over 2 million refugees have already arrived in Poland and they are finding help - people are already waiting at the border with food and offer a roof over their heads. It is the open heart of Poles that builds the image of Poland as a country of solidarity. The help that Poles bring to refugees makes a colossal impression in the West. It must also be said here that in a similar vein there is talk of Slovaks or Romanians, but of course the most refugees are in our country.
+> 
+> ### After the reset, however, the system returns to its previous stability.
+> 
+> Social and political resets are not like computer and phone resets. The change has come and nothing will ever be the same as it was before this war. All the while, let's hope it doesn't extend westward. In worse scenarios, Western Ukraine will also be engulfed in war. There is also a risk that it cannot be ruled out with absolute certainty that Putin will decide to go to Lithuania, Latvia or Poland. Then it will not be possible to talk about a reset, but about a NATO-Russia war.
+> 
+> However, assuming that Ukraine - in a heroic battle and thanks to the support of the world - will force the Russians to withdraw, the world will certainly not be the same anymore. I cannot imagine that it would be possible to return to a similar policy with Russia, and especially with Putin's Russia. It will be necessary to maintain sanctions for years and absolute distrust of the Kremlin.
+> 
+> ### The PiS government's policy towards the EU will not be as before?
+>
+> Understanding the need for cooperation in the EU will mitigate politicians such as PiS leaders. In view of the threat from Russia, it is necessary to move from the sidelines towards the EU's decision-making currents.
+> 
+> Tensions are to be expected in Poland. Long-term government policy must replace the reflexes of the heart. Over time, fatigue and - what is inevitable - will surely emerge - tensions that can be exploited by cynical politicians. It is at such moments of rehearsal that the characters come true. Some politicians will turn out to be cowards and selfish, others are dedicated and brave, even if we did not suspect them of it before.
+
+This is the last part of the translation.
+
+----- __187.7__ -----2022-03-20 23:19:56+08:00:
+
+I think it's really important to share non-English international perspectives, like these.  I would like to see more submissions from international sources.
 
