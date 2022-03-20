@@ -41,7 +41,7 @@ Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that
 
 ### 7: [2022-01-21 18:58:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484480433538707456)
 
-Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了处罚，并退回了罚款。<br><img style="" src="https://pbs.twimg.com/media/FJnu8-BWQAMSu-3?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了处罚，并退回了罚款。<br><img style src="https://pbs.twimg.com/media/FJnu8-BWQAMSu-3?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-21 19:01:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484481171601997831)
 
