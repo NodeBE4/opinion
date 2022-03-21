@@ -309,6 +309,10 @@ Sure, plenty of drama, but is it drama that adds to my point? I'm writing about 
 
 Unfortunately [you may have been beaten to it.](https://www.twitch.tv/kirap_raptorgirl)
 
+----- __229.37__ -----2022-03-21 11:09:24+08:00:
+
+Yep.
+
 ### 230: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
 ----- __230.1__ -----2022-03-19 13:48:45+08:00:
