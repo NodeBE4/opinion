@@ -425,3 +425,25 @@ There's a tendency among Western-foreign policy types to try to project Western 
 
 I have never seen more such strategic blindness than prior to Vladimir Putin's invading Ukraine.
 
+----- __188.12__ -----2022-03-21 08:24:44+08:00:
+
+People outside the United States are a lot more aware of the United States than the United States is aware of them.
+
+----- __188.13__ -----2022-03-21 08:26:45+08:00:
+
+Credit to u/boskee, because this was his find.
+
+----- __188.14__ -----2022-03-21 08:34:17+08:00:
+
+No.  There is *nothing* about Ukraine that was unpredictable, if people just listened to what Putin said and considered it in the context of his past actions.  But the problem is that the so-called "foreign policy" advisors Biden has surrounded himself with are too busy blowing smoke up one another's posteriors to see the elephant in the room.
+
+----- __188.15__ -----2022-03-21 08:35:00+08:00:
+
+Germany's irrational hostility to nuclear energy is mainly to blame for that.
+
+----- __188.16__ -----2022-03-21 09:26:55+08:00:
+
+> His own CIA director has been warning about this very thing for more than a decade.
+
+The CIA got it right, for sure.  I think with more resources, they would have done even better.
+
