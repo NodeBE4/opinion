@@ -132,6 +132,14 @@ Furnishing arms, as was considered at that time, involved uncertain and potentia
 
 In any event, Ukraine is not Syria.  Regime change is not the desired end for anyone, other than Vladimir Putin.  No appropriate analogy can be drawn to any case of Cold War appropriations to anti-Soviet opposition or insurgency.  There is an appropriate analogy to be drawn, however, to Bosnia.  There, earlier intervention might have shortened the conflict duration and resulted in fewer casualties in the long run.
 
+----- __181.2__ -----2022-03-21 19:38:57+08:00:
+
+Тебе нужно перестать делать то, что ты делаешь.
+
+----- __181.3__ -----2022-03-21 19:46:40+08:00:
+
+This comment section was out of hand and is locked as a result.  Users are reminded to keep comments up to par, refrain from exchanging insults or contributing to low-quality discourse.
+
 ### 182: [Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)](https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/), submitted on 2022-03-19 00:38:00+08:00.
 
 ----- __182.1__ -----2022-03-19 12:03:49+08:00:
@@ -446,4 +454,8 @@ Germany's irrational hostility to nuclear energy is mainly to blame for that.
 > His own CIA director has been warning about this very thing for more than a decade.
 
 The CIA got it right, for sure.  I think with more resources, they would have done even better.
+
+----- __188.17__ -----2022-03-21 19:52:23+08:00:
+
+Gates is correct.
 
