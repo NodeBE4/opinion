@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-21
+date: 2022-03-22
 from: https://old.reddit.com/r/Hololive/comments/tiy5hw/a_lesson_in_handling_controversy/
 layout: post
 tags:
@@ -24,4 +24,18 @@ Yeah that's the thing – I don't get where people got the NDA narrative from be
 ----- __240.1__ -----2022-03-21 22:14:55+08:00:
 
 I assume you weren't the one to introduce them to the term?
+
+### 241: [Hong Kong Hoshiyomi crowdfunded a Suisei themed Bus ads to celebrate Suisei's birthday](https://old.reddit.com/r/Hololive/comments/tjfzor/hong_kong_hoshiyomi_crowdfunded_a_suisei_themed/), submitted on 2022-03-22 00:39:01+08:00.
+
+----- __241.1__ -----2022-03-22 06:25:30+08:00:
+
+And someone *else* did a double-decker for Miko!
+
+----- __241.2__ -----2022-03-22 06:36:09+08:00:
+
+And that one separate group that did Miko.
+
+----- __241.3__ -----2022-03-22 06:36:27+08:00:
+
+That ended up wrapping up after two months as scheduled, AFAIK.
 
