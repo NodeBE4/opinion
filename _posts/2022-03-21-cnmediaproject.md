@@ -23,3 +23,7 @@ RT 🇺🇦Elyse Ribbons 🇺🇦柳素英<br>Just listened to a great #Sinica
 
 The CAC, the country's chief internet monitoring and control body, has launched its re-branded official journal with a feature paying tribute to Xi Jinping "leading at the helm." War in Ukraine, and THIS is the top news story at state media. <a href="https://chinamediaproject.org/2022/03/21/re-branded-cac-journal-launches/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/21/re-branded-cac-journal-launches/</a><br><img style="" src="https://pbs.twimg.com/media/FOWVV3EaIAAWlyM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-03-21 16:03:01+08:00 推文](https://twitter.com/cnmediaproject/status/1505817238548660229)
+
+Re @LiYuan6 @BeijingPalmer In any case, this also made it into at least five print newspapers in China today.<br><img style="" src="https://pbs.twimg.com/media/FOW8xrpacAAZ5f9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
