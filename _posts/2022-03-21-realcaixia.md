@@ -35,3 +35,19 @@ title: 'Twitter @蔡霞: 2022-03-21~2022-03-27'
 
 这个推文引语写得很好。特别转推。<br><br>韩连潮: 【好文推介】中国大陆独立学者 #言羽 在 #议报 发文驳斥摩根士丹利亚洲区前主席Roach在美媒发表的题为“中国如何能结束乌克兰战争”的文章，指出中国无法扮演一个诚实的中间人角色，批驳Roach的中共国是“一个深具原则性”的国家的论点，告诫Roach方案将给世界和平带来更大隐患。<br><br><img style="" src="https://pbs.twimg.com/media/FONmztfXEAAzViR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?p=245429" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245429</a>
 
+### 6: [2022-03-21 05:40:40+08:00 推文](https://twitter.com/realcaixia/status/1505660618892001282)
+
+德国电影《帝国的毁灭》2004年上演，以写希特勒自杀前的最后12天而闻名并引争议。本片曾获奥斯卡最佳外语片奖提名。这个片段也是中国人根据流行话题改编次数最多的电影,高手在民间👍<br>中国影迷改编成俄侵乌大败普京雷霆大怒，在墙内网上发布被秒删。下面是改编完整版。精彩！ <a href="https://www.youtube.com/watch?v=CnVfaFRKgFc" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=CnVfaFRKgFc</a>
+
+### 7: [2022-03-21 06:13:58+08:00 推文](https://twitter.com/realcaixia/status/1505668999237021698)
+
+Re @wangguwei 我也是看得笑翻了。😄
+
+### 8: [2022-03-21 09:36:13+08:00 推文](https://twitter.com/realcaixia/status/1505719900689637376)
+
+魔幻“防疫”——反常必妖。<br>习当局顽固继续“清零”政策，许多城市封门封楼封小区，封城封路封全省，“坚决隔离”。然而，官方强制检测核酸，又造成有限空间人群高密度聚集。这究竟是减少人传人，还是制造传播感染链？无休止核酸检测，捞肥的是白手套与高层贪官，掏空的是民众医保费，还整得民不聊生百业萧条<br><br>鲁  难: 福建晋江民众测核酸的热情似火，不用钢叉都无法赞扬他们了。<br><br><video src="https://video.twimg.com/ext_tw_video/1505712593960321031/pu/vid/720x1090/ecthP72EVKqgKq1Z.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505712593960321031/pu/img/cLoDsQb79irGtV-j.jpg"></video>
+
+### 9: [2022-03-21 09:44:43+08:00 推文](https://twitter.com/realcaixia/status/1505722037104488449)
+
+这是民众给上海政府连线电话，控诉全员核酸检测公然违法。全员核酸检测无休止地折腾民众，民众终于用各种方式表达不满、抗议和愤怒了。例前几天的深圳“叫楼”。<br><br>鲁  难: 不是因为有用才投诉。而是投诉多了，大家都去投诉，都用法律赋予的权力去争取，就一定会有用。<br><br><video src="https://video.twimg.com/ext_tw_video/1505314706277425156/pu/vid/1270x666/Hst-kRobTwlLK7rZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505314706277425156/pu/img/Hr5jyadHciQerAkY.jpg"></video>
+
