@@ -55,3 +55,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 【不斷更新】中國東航一飛機墜毀，自8869米高度突然下降失聯｜大陸｜即時｜端傳媒 Initium Media <a href="https://theinitium.com/article/20220321-mainland-breaking-air-crash/" target="_blank" rel="noopener noreferrer">https://theinitium.com/article/20220321-mainland-breaking-air-crash/</a>
 
+### 11: [2022-03-21 23:46:13+08:00 推文](https://twitter.com/realcaixia/status/1505933808511721475)
+
+特别推荐专访大陆电影艺术家孙海英老师。<br>他是我景仰的艺术家，他的艺术和人品的高度是大陆很少有演员能达到的。即便习当局如此严酷的高压统治，孙海英老师依旧说真话，批评大陆电影堕落。感动！<br><br>【RFA独家 】著名演员孙海英（上）：对人民养猪一样怎么行｜观点 <a href="https://youtu.be/kq8gI5544B4" target="_blank" rel="noopener noreferrer">https://youtu.be/kq8gI5544B4</a>
+
