@@ -19,3 +19,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 RT 🇺🇦Elyse Ribbons 🇺🇦柳素英<br>Just listened to a great #Sinica podcast with @MariaRepnikova and @KaiserKuo from @supchinanews wanted to add a “woman-on-the-street” perspective. The reactions I’m getting from people lately when they ask if I’m Russian and I say no, American is total 180 from what it used to be<br><img style="" src="https://pbs.twimg.com/media/FOWEz0iVEAAtPy_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 2: [2022-03-21 13:11:39+08:00 推文](https://twitter.com/cnmediaproject/status/1505774113495056385)
+
+The CAC, the country's chief internet monitoring and control body, has launched its re-branded official journal with a feature paying tribute to Xi Jinping "leading at the helm." War in Ukraine, and THIS is the top news story at state media. <a href="https://chinamediaproject.org/2022/03/21/re-branded-cac-journal-launches/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/21/re-branded-cac-journal-launches/</a><br><img style="" src="https://pbs.twimg.com/media/FOWVV3EaIAAWlyM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
