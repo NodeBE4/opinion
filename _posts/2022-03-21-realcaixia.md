@@ -51,3 +51,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 这是民众给上海政府连线电话，控诉全员核酸检测公然违法。全员核酸检测无休止地折腾民众，民众终于用各种方式表达不满、抗议和愤怒了。例前几天的深圳“叫楼”。<br><br>鲁  难: 不是因为有用才投诉。而是投诉多了，大家都去投诉，都用法律赋予的权力去争取，就一定会有用。<br><br><video src="https://video.twimg.com/ext_tw_video/1505314706277425156/pu/vid/1270x666/Hst-kRobTwlLK7rZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505314706277425156/pu/img/Hr5jyadHciQerAkY.jpg"></video>
 
+### 10: [2022-03-21 21:11:04+08:00 推文](https://twitter.com/realcaixia/status/1505894764654256133)
+
+【不斷更新】中國東航一飛機墜毀，自8869米高度突然下降失聯｜大陸｜即時｜端傳媒 Initium Media <a href="https://theinitium.com/article/20220321-mainland-breaking-air-crash/" target="_blank" rel="noopener noreferrer">https://theinitium.com/article/20220321-mainland-breaking-air-crash/</a>
+
