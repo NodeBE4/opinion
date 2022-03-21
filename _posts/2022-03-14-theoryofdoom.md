@@ -198,7 +198,7 @@ Milošević's days were numbered, because of what he was doing and what it meant
 
 # Submission Statement:
 
-This is an interview with the former president of Poland, Aleksander Kwasniewski.  According to Kwasniewski, in 2002 he had a long, private, private conversation with Vladimir Putin. Kwasniewski explains that Putin's goal was to rebuild the Russian empire. Putin was unidimensionally focused on this point, which required conquest of Ukraine. Kwasniewski explains that over the years, Putin's initial dream was became more and more a plan and then a reality.  
+This is an interview with the former president of Poland, Aleksander Kwasniewski.  According to Kwasniewski, in 2002 he had a long, private conversation with Vladimir Putin. Kwasniewski explains that Putin's goal was to rebuild the Russian empire. Putin was unidimensionally focused on this point, which required conquest of Ukraine. Kwasniewski explains that over the years, Putin's initial dream was became more and more a plan and then a reality.  
 
 The interview is in Polish.  A translation will follow.
 
