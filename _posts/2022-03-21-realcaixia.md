@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-21
+date: 2022-03-22
 from: https://twitter.com/realcaixia/status/1505611668444831746
 layout: post
 tags:
@@ -58,4 +58,32 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 11: [2022-03-21 23:46:13+08:00 推文](https://twitter.com/realcaixia/status/1505933808511721475)
 
 特别推荐专访大陆电影艺术家孙海英老师。<br>他是我景仰的艺术家，他的艺术和人品的高度是大陆很少有演员能达到的。即便习当局如此严酷的高压统治，孙海英老师依旧说真话，批评大陆电影堕落。感动！<br><br>【RFA独家 】著名演员孙海英（上）：对人民养猪一样怎么行｜观点 <a href="https://youtu.be/kq8gI5544B4" target="_blank" rel="noopener noreferrer">https://youtu.be/kq8gI5544B4</a>
+
+### 12: [2022-03-22 22:08:06+08:00 推文](https://twitter.com/realcaixia/status/1506271502840348686)
+
+《議報》昨日發布台灣曾建元先生的文章。曾先生回顧了民進黨內各個派系的過往歷史並分析了當下民進黨內派系競爭的一些動態。這對了解台灣的民主政治發展變化很有益處。<br>推薦有興趣的朋友一讀。<br><br>《议报》: 曾建元: 民主进步党的派系政治<br> <a href="https://yibaochina.com/?p=245472" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245472</a>
+
+### 13: [2022-03-22 22:15:12+08:00 推文](https://twitter.com/realcaixia/status/1506273292415602691)
+
+特別推薦 #議報 發布的這篇德文翻譯文章。<br>我認為北约组织内部出现的强硬声音，表明西方国家已经明显改变以往的绥靖主义态度。<br>进一步的问题是，北約国家如何有勇气有胆略，在不接受普京的核讹诈与世界大战恐吓基础上，有智慧地破解普京的讹诈和恐吓，从而幫助烏克蘭彻底击败入侵俄军，阻止战争升级？<br><br>《议报》: 【译丛】世界大战一触即发<br> <a href="https://yibaochina.com/?p=245445" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245445</a>
+
+### 14: [2022-03-22 22:19:15+08:00 推文](https://twitter.com/realcaixia/status/1506274311417565191)
+
+澤連斯基在烏克蘭的危急時刻，展現了一位政治家的擔當、膽略與智慧。<br><br>DW 中文- 德国之声: 乌克兰总统泽连斯基3月20日通过视频连线向以色列国会发表讲话。<br><br>“国家之间可以斡旋，但善与恶之间不行。……乌克兰在80年前做出了拯救犹太人的选择。现在是以色列做出选择的时候了。”<br> <a href="https://p.dw.com/p/48e0E" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/48e0E</a>
+
+### 15: [2022-03-22 22:27:10+08:00 推文](https://twitter.com/realcaixia/status/1506276301572821008)
+
+普京正在使俄羅斯的威權體制迅速轉變為北京極權統治的體制。<br><br>纽约时报中文网: 通过封锁网络平台、抹杀俄罗斯独立媒体最后的痕迹，克里姆林宫让俄罗斯人基本不可能接触到入侵发生后的独立新闻。<br>俄罗斯正走向中国式的信息审查，封锁互联网、扼杀独立媒体以控制人民。严格的管控在习近平治下已渗透中国社会，俄乌战争加快了俄罗斯向中国学习的脚步。<br> <a href="https://nyti.ms/3inLsck" target="_blank" rel="noopener noreferrer">https://nyti.ms/3inLsck</a>
+
+### 16: [2022-03-22 22:48:12+08:00 推文](https://twitter.com/realcaixia/status/1506281596168589313)
+
+布拉格之春的一幕再現在烏克蘭。<br>1968年蘇聯悍然佔領布拉格，為撲滅捷克斯洛伐克的民主改革嘗試。現普京悍然入侵烏克蘭，為肢解以進而併吞烏克蘭，意圖復活大俄羅斯沙皇帝國夢。習承毛秦皇漢武帝國夢，暗中幫著普京。若普京夢成，習抄書攻打台灣。然烏克蘭人民的英勇抵抗將使普京夢碎，習夢亦必嗚呼！<br><br>ZHANGDONG: 绝不屈服！<br> <a href="https://twitter.com/mrsorokaa/status/1505582573174546438" target="_blank" rel="noopener noreferrer">https://twitter.com/mrsorokaa/status/1505582573174546438</a>
+
+### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
+
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
+
+這就是烏克蘭——英雄的國家。<br><br>Susan 韓: 亲爱的朋友们<br>你们看见了吗？<br>乌克兰🇺🇦国会还在工作<br>普京<br>你绝不可拿下基辅<br>我们将战斗到底🌻🇺🇦🌻🇺🇦🌻🇺🇦🌻<br><br><video src="https://video.twimg.com/ext_tw_video/1505940087078416385/pu/vid/576x908/b-zIQNPlAu3WhjyL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505940087078416385/pu/img/jVsPYgcBrtFVcvkB.jpg"></video>
 
