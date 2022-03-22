@@ -27,3 +27,15 @@ If you're going to keep baselessly speculating, you're going to be temp-banned. 
 
 Think carefully about how, if at all, you respond to this post as well.  Just because you may disagree with me does not mean you get to violate all the other rules, which some people seem to forget.
 
+### 191: [IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion).](https://old.reddit.com/r/stupidpol/comments/tjpug6/idpol_professor_at_byu_threatens_students_who/), submitted on 2022-03-22 08:02:23+08:00.
+
+----- __191.1__ -----2022-03-22 12:20:27+08:00:
+
+This so-called "professor" with a publication history [of mindless nonsense](https://byu.academia.edu/EricRuizBybee), in [irrelevant journals](https://www.tandfonline.com/doi/abs/10.1080/15348458.2019.1671195?journalCode=hlie20) that [literally no one ever reads](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=hlie20) wants to whine about the kiddos saying mean things about his stupid assignments, online?
+
+What a fucking disgrace.
+
+----- __191.2__ -----2022-03-22 12:27:16+08:00:
+
+He gets cited about [as much as incels get laid](https://scholar.google.com/citations?user=tdEel6sAAAAJ).  That's what you call having an impact in your field, folks.  And his [field](https://education.byu.edu/directory/view/bybee-eric) is a joke.
+
