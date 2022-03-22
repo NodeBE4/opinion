@@ -27,15 +27,51 @@ If you're going to keep baselessly speculating, you're going to be temp-banned. 
 
 Think carefully about how, if at all, you respond to this post as well.  Just because you may disagree with me does not mean you get to violate all the other rules, which some people seem to forget.
 
-### 191: [IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion).](https://old.reddit.com/r/stupidpol/comments/tjpug6/idpol_professor_at_byu_threatens_students_who/), submitted on 2022-03-22 08:02:23+08:00.
+### 191: [What’s a scientific experiment you’d be fascinated to see the results of, but could never be conducted due ethical concerns?](https://old.reddit.com/r/AskReddit/comments/tjphd9/whats_a_scientific_experiment_youd_be_fascinated/), submitted on 2022-03-22 07:44:34+08:00.
 
------ __191.1__ -----2022-03-22 12:20:27+08:00:
+----- __191.1__ -----2022-03-22 20:04:22+08:00:
+
+This has been tried, throughout the 20th century.
+
+----- __191.2__ -----2022-03-22 20:05:36+08:00:
+
+https://www.smithsonianmag.com/smart-news/how-mouse-utopias-1960s-led-grim-predictions-humans-180954423/
+
+### 192: [IdPol professor at BYU threatens students who posted screenshots of assignments with academic reprisal. Says what they are doing is violation of the Honor Code (which could result in suspension and expulsion).](https://old.reddit.com/r/stupidpol/comments/tjpug6/idpol_professor_at_byu_threatens_students_who/), submitted on 2022-03-22 08:02:23+08:00.
+
+----- __192.1__ -----2022-03-22 12:20:27+08:00:
 
 This so-called "professor" with a publication history [of mindless nonsense](https://byu.academia.edu/EricRuizBybee), in [irrelevant journals](https://www.tandfonline.com/doi/abs/10.1080/15348458.2019.1671195?journalCode=hlie20) that [literally no one ever reads](https://www.tandfonline.com/action/journalInformation?show=journalMetrics&journalCode=hlie20) wants to whine about the kiddos saying mean things about his stupid assignments, online?
 
 What a fucking disgrace.
 
------ __191.2__ -----2022-03-22 12:27:16+08:00:
+----- __192.2__ -----2022-03-22 12:27:16+08:00:
 
 He gets cited about [as much as incels get laid](https://scholar.google.com/citations?user=tdEel6sAAAAJ).  That's what you call having an impact in your field, folks.  And his [field](https://education.byu.edu/directory/view/bybee-eric) is a joke.
+
+----- __192.3__ -----2022-03-22 19:41:10+08:00:
+
+Sorry, but you're mistaken.  If you were even able to publish something "baity and stupid," your peers would ignore it for the reason that it was "baity and stupid."  You can't inflate your h-index just by trying to game the system.
+
+----- __192.4__ -----2022-03-22 19:48:58+08:00:
+
+> ad hominem is not an argument
+
+And the sky is blue, on occasion.  Shall we continue to exchange platitudes? 
+
+> and in general the number of citations is a rather weak measure of quality. 
+
+Keep your eye on the ball.  I said: "[t]hat's what you call having an impact in your field, folks," as you can read above.  "Impact in your field" and "quality" aren't the same thing.  
+
+I agree that you can have a whole bunch of citations if you tag along other people's research (happens in medical publications all the time).  In that case, you're not really moving the ball forward so much as riding on the coattails of others' effort to do so.  
+
+But our friend the BYU professor isn't even in that boat.  
+
+> e.g. in my field you can get loads of citations by doing trivial shit as long as trendy topics are involved.
+
+What field might that be?  Because I'll let you in on a secret.  Idpol journals no one ever reads don't publish according to the same standards as, say, medical journals.
+
+----- __192.5__ -----2022-03-22 20:20:24+08:00:
+
+I have a tendency to be sanctimonious in the face of idpol stupidity.
 
