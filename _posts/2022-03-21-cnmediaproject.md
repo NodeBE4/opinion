@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-21
+date: 2022-03-22
 from: https://twitter.com/iheartbeijing/status/1505755685014818820
 layout: post
 tags:
@@ -26,4 +26,8 @@ The CAC, the country's chief internet monitoring and control body, has launched 
 ### 3: [2022-03-21 16:03:01+08:00 推文](https://twitter.com/cnmediaproject/status/1505817238548660229)
 
 Re @LiYuan6 @BeijingPalmer In any case, this also made it into at least five print newspapers in China today.<br><img style="" src="https://pbs.twimg.com/media/FOW8xrpacAAZ5f9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-03-22 13:02:56+08:00 推文](https://twitter.com/cnmediaproject/status/1506134310474366980)
+
+While coverage of the Ukraine war in China's official state media has emphasized a number of limited Party-state frames, other Chinese media have worked to tell more human and nuanced stories about the unfolding humanitarian crisis. <a href="https://chinamediaproject.org/2022/03/22/human-stories-of-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/22/human-stories-of-war/</a><br><img style="" src="https://pbs.twimg.com/media/FObdIOVaAAY89S3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
