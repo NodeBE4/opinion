@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-23
+date: 2022-03-24
 from: https://old.reddit.com/r/Hololive/comments/tiy5hw/a_lesson_in_handling_controversy/
 layout: post
 tags:
@@ -126,9 +126,15 @@ Isn't it such a coincidence that Alt Gura is the only one of the two with bottom
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 251: [Is there any connective tissue between the European Spring 48' and the Taiping Rebellion in China? Famines, economic forces or technological shifts?](https://old.reddit.com/r/AskHistorians/comments/tkunbs/is_there_any_connective_tissue_between_the/), submitted on 2022-03-23 22:04:00+08:00.
+### 251: [This station ad creeped me out on a narrow corridor... Who of you mfers did that lol (Hong Kong)](https://old.reddit.com/r/Hololive/comments/tksrzx/this_station_ad_creeped_me_out_on_a_narrow/), submitted on 2022-03-23 20:26:28+08:00.
 
------ __251.1__ -----2022-03-24 01:25:00+08:00:
+----- __251.1__ -----2022-03-24 01:41:42+08:00:
+
+Oh *now* I get why the main run of posters is at Wan Chai, because there is literally a Star Street (星街) there.
+
+### 252: [Is there any connective tissue between the European Spring 48' and the Taiping Rebellion in China? Famines, economic forces or technological shifts?](https://old.reddit.com/r/AskHistorians/comments/tkunbs/is_there_any_connective_tissue_between_the/), submitted on 2022-03-23 22:04:00+08:00.
+
+----- __252.1__ -----2022-03-24 01:25:00+08:00:
 
 Not to any degree that can be meaningfully proven. The God-Worshipping Society predated the 1848 revolutions and in any event operated in a relatively hinterland region, a few degrees of separation from potential major changes taking place on the coast. See past answers such as these for more:
 
@@ -137,4 +143,12 @@ https://www.reddit.com/r/AskHistorians/comments/r30rym/how_great_of_an_effect_di
 https://www.reddit.com/r/AskHistorians/comments/faa3ai/european_interference_in_china_has_often_been/fix2e24/
 
 There is somewhat of a literary connection in that Marx commented on the Taiping as well as the 1848 revolutions, with one piece in the 1850s and one in the 1860s, but there is, as it stands, no published scholarship analysing these specific writings.
+
+### 253: [Why do you guys like virtual youtubers so much?](https://old.reddit.com/r/Hololive/comments/tl41se/why_do_you_guys_like_virtual_youtubers_so_much/), submitted on 2022-03-24 01:57:56+08:00.
+
+----- __253.1__ -----2022-03-24 02:08:46+08:00:
+
+For me, as someone who's mainly a Hololive watcher rather than a general VTuber watcher, I think the draw for me is that there's such a variety of content, as well as the sense that it's not just a load of individual creators but a whole community. This isn't something necessarily inherent to VTubing or impossible with traditional videos and streaming, but it might be one of the big reasons why.
+
+Another aspect arguably is that because Hololive is a thing you have to audition or be scouted for, it's just a really dense concentration of especially dedicated and talented people. Again, it's more a feature of Hololive in particular than VTubing in general.
 
