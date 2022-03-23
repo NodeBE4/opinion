@@ -98,9 +98,15 @@ But wait, Calli *is* Anemachi!
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 247: [How did the political experience of Egypt, Syria, and Iraq under European imperialism contribute to their later rejection of parliamentary democracy in favor of dictatorships?](https://old.reddit.com/r/AskHistorians/comments/tki87k/how_did_the_political_experience_of_egypt_syria/), submitted on 2022-03-23 09:07:07+08:00.
+### 247: [Why are hololive models and face tracking so bad?](https://old.reddit.com/r/Hololive/comments/tkfvxh/why_are_hololive_models_and_face_tracking_so_bad/), submitted on 2022-03-23 07:11:16+08:00.
 
------ __247.1__ -----2022-03-23 09:32:24+08:00:
+----- __247.1__ -----2022-03-23 14:11:10+08:00:
+
+Heads up, the link seems to be broken.
+
+### 248: [How did the political experience of Egypt, Syria, and Iraq under European imperialism contribute to their later rejection of parliamentary democracy in favor of dictatorships?](https://old.reddit.com/r/AskHistorians/comments/tki87k/how_did_the_political_experience_of_egypt_syria/), submitted on 2022-03-23 09:07:07+08:00.
+
+----- __248.1__ -----2022-03-23 09:32:24+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -108,15 +114,15 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 248: [anyone else notice something new in the reflect MV ⬇️🦷👀](https://old.reddit.com/r/Hololive/comments/tkif6l/anyone_else_notice_something_new_in_the_reflect_mv/), submitted on 2022-03-23 09:16:57+08:00.
+### 249: [anyone else notice something new in the reflect MV ⬇️🦷👀](https://old.reddit.com/r/Hololive/comments/tkif6l/anyone_else_notice_something_new_in_the_reflect_mv/), submitted on 2022-03-23 09:16:57+08:00.
 
------ __248.1__ -----2022-03-23 09:32:02+08:00:
+----- __249.1__ -----2022-03-23 09:32:02+08:00:
 
 Isn't it such a coincidence that Alt Gura is the only one of the two with bottom teeth...
 
-### 249: [What if WW2 never happened?](https://old.reddit.com/r/AskHistorians/comments/tkijn2/what_if_ww2_never_happened/), submitted on 2022-03-23 09:23:17+08:00.
+### 250: [What if WW2 never happened?](https://old.reddit.com/r/AskHistorians/comments/tkijn2/what_if_ww2_never_happened/), submitted on 2022-03-23 09:23:17+08:00.
 
------ __249.1__ -----2022-03-23 09:32:13+08:00:
+----- __250.1__ -----2022-03-23 09:32:13+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
