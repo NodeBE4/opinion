@@ -126,3 +126,15 @@ Isn't it such a coincidence that Alt Gura is the only one of the two with bottom
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
+### 251: [Is there any connective tissue between the European Spring 48' and the Taiping Rebellion in China? Famines, economic forces or technological shifts?](https://old.reddit.com/r/AskHistorians/comments/tkunbs/is_there_any_connective_tissue_between_the/), submitted on 2022-03-23 22:04:00+08:00.
+
+----- __251.1__ -----2022-03-24 01:25:00+08:00:
+
+Not to any degree that can be meaningfully proven. The God-Worshipping Society predated the 1848 revolutions and in any event operated in a relatively hinterland region, a few degrees of separation from potential major changes taking place on the coast. See past answers such as these for more:
+
+https://www.reddit.com/r/AskHistorians/comments/r30rym/how_great_of_an_effect_did_the_first_opium_war/hm8uc7d/
+
+https://www.reddit.com/r/AskHistorians/comments/faa3ai/european_interference_in_china_has_often_been/fix2e24/
+
+There is somewhat of a literary connection in that Marx commented on the Taiping as well as the 1848 revolutions, with one piece in the 1850s and one in the 1860s, but there is, as it stands, no published scholarship analysing these specific writings.
+
