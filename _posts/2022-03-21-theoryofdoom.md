@@ -87,3 +87,7 @@ What field might that be?  Because I'll let you in on a secret.  Idpol journals 
 
 I have a tendency to be sanctimonious in the face of idpol stupidity.
 
+----- __192.6__ -----2022-03-23 11:56:12+08:00:
+
+That was a pretty good find.  Read the abstract, anc couldn't help but laugh.  Reminds me of a Noam Chomsky lecture, recorded in one of the books he's published, where he talks about the language games certain types of normative theorists play to make what they're doing seem more sophisticated than it is.
+
