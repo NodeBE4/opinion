@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-22
+date: 2022-03-23
 from: https://twitter.com/realcaixia/status/1505611668444831746
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
 這就是烏克蘭——英雄的國家。<br><br>Susan 韓: 亲爱的朋友们<br>你们看见了吗？<br>乌克兰🇺🇦国会还在工作<br>普京<br>你绝不可拿下基辅<br>我们将战斗到底🌻🇺🇦🌻🇺🇦🌻🇺🇦🌻<br><br><video src="https://video.twimg.com/ext_tw_video/1505940087078416385/pu/vid/576x908/b-zIQNPlAu3WhjyL.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505940087078416385/pu/img/jVsPYgcBrtFVcvkB.jpg"></video>
+
+### 19: [2022-03-23 19:53:50+08:00 推文](https://twitter.com/realcaixia/status/1506600103792070658)
+
+「大翻譯運動」：沒收境外資金　中共大外宣炮製假新聞　而我們要在高牆上寫滿自由 — RFA 自由亞洲電台粵語部 <a href="https://www.rfa.org/cantonese/news/translate-03222022123154.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/cantonese/news/translate-03222022123154.html</a>
 

@@ -29,3 +29,13 @@ Read John Mueller on why the threat of hackers mounting destabilizing cyberattac
 
 Join Foreign Affairs on April 6 for a virtual graduate school fair! Explore graduate opportunities and chat with admissions officers from top programs in public policy, diplomacy, and international studies. Registration is free. Sign up here.
 
+### 162: [When Migrants Become Weapons: The Long History and Worrying Future of a Coercive Tactic](https://old.reddit.com/r/geopolitics/comments/tktxti/when_migrants_become_weapons_the_long_history_and/), submitted on 2022-03-23 21:28:47+08:00.
+
+----- __162.1__ -----2022-03-23 21:30:20+08:00:
+
+\[SS from the article by Kelly M. Greenhill, Visiting Professor at SOAS University of London, Associate Professor of Political Science at Tufts University, and a Senior Research Scholar at MIT.\]
+
+"By exploiting political divisions that exist within the targeted states, the threatened or actual deployment of engineered flows of migrants has long been a distressingly effective policy instrument, and it is unlikely to go away anytime soon. Unless policymakers begin to confront the forces that enable weaponized migration, the favored policy responses seem destined to increase, rather than curtail, its use."
+
+States have long manipulated migration flows to achieve foreign policy goals that have been frustrated by other means. Read Kelly M. Greenhill on what the history of weaponized migration can teach today’s policymakers about how best to respond.
+
