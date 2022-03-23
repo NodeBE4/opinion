@@ -55,3 +55,11 @@ Madeleine K. Albright, the 64th U.S. secretary of state and the first woman to h
 
 Madeleine K. Albright, the 64th U.S. secretary of state and the first woman to hold that office, died on Wednesday at age 84. In an essay written last year for Foreign Affairs, she called on Washington to lead a global democratic revival:
 
+### 165: [Madeleine K. Albright: The Coming Democratic Revival](https://old.reddit.com/r/TrueReddit/comments/tlb38c/madeleine_k_albright_the_coming_democratic_revival/), submitted on 2022-03-24 03:58:19+08:00.
+
+----- __165.1__ -----2022-03-24 03:58:49+08:00:
+
+\[SS\]
+
+“Democracy is not a dying cause; in fact, it is poised for a comeback.” With the sad news of former U.S. Secretary of State Madeleine K. Albright’s passing on Wednesday, revisit her final essay for Foreign Affairs here.
+
