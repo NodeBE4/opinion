@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -90,4 +90,20 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 19: [2022-03-23 19:53:50+08:00 推文](https://twitter.com/realcaixia/status/1506600103792070658)
 
 「大翻譯運動」：沒收境外資金　中共大外宣炮製假新聞　而我們要在高牆上寫滿自由 — RFA 自由亞洲電台粵語部 <a href="https://www.rfa.org/cantonese/news/translate-03222022123154.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/cantonese/news/translate-03222022123154.html</a>
+
+### 20: [2022-03-23 21:01:30+08:00 推文](https://twitter.com/realcaixia/status/1506617132720832512)
+
+这三句话应该请“大翻译”中的志愿者，翻译给英文世界的人们，让他们清楚地看清习党国与普大帝，的真面目。中俄本是列宁同根生，互相利用各牟利，一个共产极权藤上结出的两个邪恶国家。 <a href="https://twitter.com/rongjian1957/status/1506488073919479813" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1506488073919479813</a>
+
+### 21: [2022-03-23 23:25:35+08:00 推文](https://twitter.com/realcaixia/status/1506653393036759043)
+
+#议报日前发布王维洛先生文章郑州水灾真相之六。<br>文章指出：<br>“南水北调”送的是“贡水”，但途径中国两个最大暴雨区，在郑州“7·20”特大暴雨中，保证受污染的洪水不进入“贡水”输送干渠，是中央、河南省郑州市及军队救灾工作的重中之重，这导致了郑州市内救灾措施不力和行动迟缓。 <a href="https://yibaochina.com/?p=245476" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245476</a>
+
+### 22: [2022-03-23 23:42:27+08:00 推文](https://twitter.com/realcaixia/status/1506657636405624838)
+
+又一位寻求真相说真话的女生被警察带走了，请让我们大家都来关注和传播锁链女、乌衣和这位女生的相关信息。关注和传播的人越多，极权当局感受到的正义压力就越大。这是我们目前所能做得到的事情。<br><br>吴文行wenxingwu: 闯封县的乌衣姑娘尚无消息，又一个叫李萍的美女进去了！女生可畏！🙏，连说真话，都恐慌的政权 。还有什么生存的理由？<br><br><img style="" src="https://pbs.twimg.com/media/FOiVLXPVUAQzATz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOiVO_yVIAsyy4_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-03-23 23:51:59+08:00 推文](https://twitter.com/realcaixia/status/1506660033798586371)
+
+请读这位推友的引语，她的引语清楚地说明了，为什么北约组织中的一些东欧国家坚定地支持乌克兰所要求的军事部署。<br><br>ZHANGDONG: 北约内部意见分歧，前华沙集团转入北约的东欧国因曾饱受苏联欺压，熟知俄帝野心和霸道，故他们坚定支持乌克兰保家卫国，主张在乌设禁飞区，派维和部队，援助乌克兰战机。他们深知保卫乌克兰就是保卫自己保卫欧洲。北约峰会将邀请泽伦斯基视频链线在北约周四的峰会上发表讲话，但愿这次能打动北约政客。<br> <a href="https://twitter.com/realcaixia/status/1506273292415602691" target="_blank" rel="noopener noreferrer">https://twitter.com/realcaixia/status/1506273292415602691</a>
 

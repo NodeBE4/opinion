@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-23
+date: 2022-03-24
 from: https://old.reddit.com/r/TrueReddit/comments/tk28o0/the_cyberdelusion_digital_threats_are_manageable/
 layout: post
 tags:
@@ -38,4 +38,20 @@ Join Foreign Affairs on April 6 for a virtual graduate school fair! Explore grad
 "By exploiting political divisions that exist within the targeted states, the threatened or actual deployment of engineered flows of migrants has long been a distressingly effective policy instrument, and it is unlikely to go away anytime soon. Unless policymakers begin to confront the forces that enable weaponized migration, the favored policy responses seem destined to increase, rather than curtail, its use."
 
 States have long manipulated migration flows to achieve foreign policy goals that have been frustrated by other means. Read Kelly M. Greenhill on what the history of weaponized migration can teach today’s policymakers about how best to respond.
+
+### 163: [Madeleine K. Albright: The Coming Democratic Revival](https://old.reddit.com/r/geopolitics/comments/tl8wiz/madeleine_k_albright_the_coming_democratic_revival/), submitted on 2022-03-24 03:18:54+08:00.
+
+----- __163.1__ -----2022-03-24 03:20:25+08:00:
+
+\[SS\]
+
+Madeleine K. Albright, the 64th U.S. secretary of state and the first woman to hold that office, died on Wednesday at age 84. Revisit her 2021 essay in Foreign Affairs,  in which she called on Washington to lead a global democratic revival.
+
+### 164: [Madeleine K. Albright: The Coming Democratic Revival](https://old.reddit.com/r/politics/comments/tl8yiu/madeleine_k_albright_the_coming_democratic_revival/), submitted on 2022-03-24 03:21:14+08:00.
+
+----- __164.1__ -----2022-03-24 03:22:11+08:00:
+
+\[SS\]
+
+Madeleine K. Albright, the 64th U.S. secretary of state and the first woman to hold that office, died on Wednesday at age 84. In an essay written last year for Foreign Affairs, she called on Washington to lead a global democratic revival:
 
