@@ -27,6 +27,18 @@ If you're going to keep baselessly speculating, you're going to be temp-banned. 
 
 Think carefully about how, if at all, you respond to this post as well.  Just because you may disagree with me does not mean you get to violate all the other rules, which some people seem to forget.
 
+----- __190.2__ -----2022-03-23 10:36:47+08:00:
+
+We do not allow mindless prophecy of doom, on any timescale.  The era of unhinged speculation about impending armageddon without even plausible evidence to support such an inference is over.  
+
+If a reasonable observer cannot distinguish your claim from something foretold by the oracle of delphi, it likely violates our rules.  
+
+In your first post, you made a prediction about an anticipated future trend, which has not yet occurred, based on citation to exactly nothing.  I may as well have consulted the oracle of delphi, for her predictions on future COVID trends. 
+
+Here, you have cited various sources which, while insufficient to support your expectations, at least rises to the level of minimal adequacy such that you're not currently violating any rules.
+
+Further, if you want to discuss moderation, do it via modmail.  Do not DM mods individually.
+
 ### 191: [What’s a scientific experiment you’d be fascinated to see the results of, but could never be conducted due ethical concerns?](https://old.reddit.com/r/AskReddit/comments/tjphd9/whats_a_scientific_experiment_youd_be_fascinated/), submitted on 2022-03-22 07:44:34+08:00.
 
 ----- __191.1__ -----2022-03-22 20:04:22+08:00:
