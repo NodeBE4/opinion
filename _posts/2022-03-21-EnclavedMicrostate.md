@@ -152,3 +152,13 @@ For me, as someone who's mainly a Hololive watcher rather than a general VTuber 
 
 Another aspect arguably is that because Hololive is a thing you have to audition or be scouted for, it's just a really dense concentration of especially dedicated and talented people. Again, it's more a feature of Hololive in particular than VTubing in general.
 
+### 254: [First Patient to Communicate Via Brain Implant Asks to Hear TOOL Album](https://old.reddit.com/r/nottheonion/comments/tlkufr/first_patient_to_communicate_via_brain_implant/), submitted on 2022-03-24 07:25:13+08:00.
+
+----- __254.1__ -----2022-03-24 19:12:26+08:00:
+
+Not exactly; only one particular person actually has access to this model. The 'original' VTuber, Kizuna AI, was conceived of as more of a Vocaloid-type deal, but modern VTubers are, across the board, almost always one character to one IRL person.
+
+----- __254.2__ -----2022-03-24 19:13:59+08:00:
+
+No: the comment was posted a full hour before the announcement.
+
