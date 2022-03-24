@@ -99,13 +99,25 @@ That was a pretty good find.  Read the abstract, anc couldn't help but laugh.  R
 
 Croatians of his age have blood equity in the values he's talking about.  When you've lived through something like that, seeing a so called liberal western liberal "leader" repudiate the civil liberty they claim to represent isn't just a moral indignation.  It's an abomination.  What Trudeau did would be like if Trump cited congressional authority given to FDR to fight the Third Reich, to destroy Black Lives Matter and anyone who ever voiced support for it.
 
-### 194: [Airlines ask Biden to drop mask mandate and testing requirements for travelers](https://old.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/), submitted on 2022-03-24 21:35:58+08:00.
+### 194: [Philadelphia men cheer as dogs savage family cat: video. Please keep this circulating so these pieces of garbage can be found and charged.](https://old.reddit.com/r/crime/comments/tm7bsc/philadelphia_men_cheer_as_dogs_savage_family_cat/), submitted on 2022-03-24 20:51:14+08:00.
 
------ __194.1__ -----2022-03-25 03:25:13+08:00:
+----- __194.1__ -----2022-03-25 07:35:27+08:00:
+
+There are so many levels on which this is disgusting, beyond the obvious barbarity to which someone's household pet was subjected.  
+
+The fact that this specific dog responded to their command strongly suggests their personal involvement in illegal dogfighting, and use of that specific dog for engagement in dogfighting.  A domesticated dog does not naturally or instinctively attack other animals, much less kill them or attempt to kill them on command.  That kind of aggression, and specifically in response to a command, that particular dog demonstrated has to be trained.  It's hard to do, as well.  Dogfighting is the sole purpose for which any dog is trained to kill other animals like that, and specifically to do that in response to a command.  
+
+Training a dog to kill small animals on command means that a lot of other animals have already been killed by it.  Smaller, weaker dogs and cats are often "adopted" under false pretexts for use as "bait" animals, to train a dog to respond like that.  There is no telling how many other household pets have been mauled to death under like circumstances by that animal.  Or how many other such dogs these people have trained. 
+
+Bringing these individuals to justice must be a priority.
+
+### 195: [Airlines ask Biden to drop mask mandate and testing requirements for travelers](https://old.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/), submitted on 2022-03-24 21:35:58+08:00.
+
+----- __195.1__ -----2022-03-25 03:25:13+08:00:
 
 Obviously your comment violates Rule 1.  But even if it didn't, didn't you realize you posted it three different times?
 
------ __194.2__ -----2022-03-25 03:37:52+08:00:
+----- __195.2__ -----2022-03-25 03:37:52+08:00:
 
 People should absolutely have the choice of whether to wear a mask in any context, including on commercial flights.  No one is saying otherwise. 
 

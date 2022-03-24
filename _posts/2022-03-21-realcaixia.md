@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -113,7 +113,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 25: [2022-03-24 07:05:20+08:00 推文](https://twitter.com/realcaixia/status/1506769090471464964)
 
-这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br> <a href="https://twitter.com/Gorobina/status/1506646412213293070/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/Gorobina/status/1506646412213293070/video/1</a>
+这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br><br><video src="https://video.twimg.com/ext_tw_video/1506646360006795274/pu/vid/576x266/g67TFcY3KwIVv0pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506646360006795274/pu/img/TLmxHXHY6zgjrj8K.jpg"></video>
 
 ### 26: [2022-03-24 07:13:43+08:00 推文](https://twitter.com/realcaixia/status/1506771202748170242)
 
@@ -134,4 +134,16 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 30: [2022-03-25 03:15:09+08:00 推文](https://twitter.com/realcaixia/status/1507073550473175048)
 
 令人💔<br><br>འོད་ཟེར།唯色Woeser🇺🇦🙏: “原来新歌发出来的时候就在告别😭😭😭”前几天，在新浪微博上找到这条微博，是才旺罗布的粉丝细心地注意到：2月22日，才旺罗布在介绍自己的新歌时，在头像下方标注了“Bye”。<br><br>现在，这位粉丝的这条微博已经消失了。但还是有人在问：“才旺罗布他怎么了？”也有人悄声说：“他没了，原因无法说！ ”或用…<br><br><img style="" src="https://pbs.twimg.com/media/FOoLHVFUYAMoov_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOoLHVGVcAIcLhb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOoLHVLUYAcoV0E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOoLHVEVEAQR3Jn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-03-25 06:41:12+08:00 推文](https://twitter.com/realcaixia/status/1507125408159961090)
+
+仔细地读了尊者对其转世的立场的声明。很感動！為了捍衛宗教信仰自由，為了排除政治干涉甚至操控宗教從而玷污宗教的各種可能，尊者作出這個莊嚴聲明。<br><br>贡噶扎西 KUNGA TASHI: 很多人，特别是不少汉人朋友不了解尊者达赖喇嘛对其转世的立场。希望读一读这份下一世达赖喇嘛转世的最权威性声明及历史文件。<br>@HuPing1 @JianglinLi @ZhouFengSuo @ranxiangmm @hu_jia @liaoyiwu1<br><br><img style="" src="https://pbs.twimg.com/media/FOk-O7oXwAIyVgM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://www.dalailamaworld.com/topic.php?t=692#" target="_blank" rel="noopener noreferrer">http://www.dalailamaworld.com/topic.php?t=692#</a>
+
+### 32: [2022-03-25 06:55:31+08:00 推文](https://twitter.com/realcaixia/status/1507129007162155011)
+
+資中筠先生痛心地说过：“一百年了，没有长进，上边是慈禧，下边是义和团。”资先生说：“顾炎武名言“天下兴亡，匹夫有责”，但顾炎武又说“国家兴亡，肉食者谋之”，意思是“匹夫无责”。你们那些在位者把王朝给折腾亡了，为什么自古以来“肉食者鄙，未能远谋”？因为利令智昏。是既得利益妨碍做出正确的决策。”<br><br>韩连潮: 【战狼的历史源流】曾国藩答其恩师、军机大臣穆彰阿说：“自南宋以来，君子好诋和局，以主战博爱国美名之风兴起，而控御夷狄之道绝于天下者五百年矣。” 后又对其门生李鸿章说“自宋以来，君子好痛诋和局，而轻言战争，至今清议未改此态”。<br>鼓吹战争而博取爱国美名的清流心态就是当今战狼现象的历史源流。<br><br><img style="" src="https://pbs.twimg.com/media/FOoAPfvVQAIDYFH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2022-03-25 07:24:40+08:00 推文](https://twitter.com/realcaixia/status/1507136344753119251)
+
+Re @kungat 是的。在大陆地区，尊者的所有信息都是被屏蔽的。
 
