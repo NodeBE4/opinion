@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-22
+date: 2022-03-24
 from: https://twitter.com/iheartbeijing/status/1505755685014818820
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT Melissa Chan<br>Good morning from Europe, where China Radio International (
 ### 7: [2022-03-22 19:35:24+08:00 推文](https://twitter.com/cnmediaproject/status/1506233075814256647)
 
 Human Stories of War: the first in CMP's series on Chinese coverage of Ukraine that tells a more complex story than can be found in Party-state media. <a href="https://chinamediaproject.org/2022/03/22/human-stories-of-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/22/human-stories-of-war/</a><br><img style="" src="https://pbs.twimg.com/media/FOc2_URaQAQ6sQd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-03-24 15:37:09+08:00 推文](https://twitter.com/yangxifan/status/1506897895890505728)
+
+RT Xifan Yang 杨希璠<br>CCP censors scrap anti-war and anti-Putin posts online, but there are quiet ways in which Chinese show solidarity for #Ukraine. 4/5 top selling brooch pins in this Taobao store are 🇺🇦 themed. I asked the owner about it, but he didn’t answer - too sensitive it seems.<br><img style="" src="https://pbs.twimg.com/media/FOmTpfhXIAEnk3N?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

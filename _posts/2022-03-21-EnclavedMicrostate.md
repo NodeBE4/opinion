@@ -162,3 +162,15 @@ Not exactly; only one particular person actually has access to this model. The '
 
 No: the comment was posted a full hour before the announcement.
 
+### 255: [The Mama's/Papa's of HoloID Generation 3 Other Works! (Multiple Pages)](https://old.reddit.com/r/Hololive/comments/tly4uk/the_mamaspapas_of_holoid_generation_3_other_works/), submitted on 2022-03-24 12:59:22+08:00.
+
+----- __255.1__ -----2022-03-24 19:45:34+08:00:
+
+...the butt lady?
+
+----- __255.2__ -----2022-03-24 20:51:29+08:00:
+
+Ah, naruhodo ne.
+
+Thing is, if you asked me which of Council 'the butt lady' drew, I'm not entirely sure Kronii would have been my first answer.
+
