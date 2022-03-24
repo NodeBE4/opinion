@@ -99,3 +99,9 @@ That was a pretty good find.  Read the abstract, anc couldn't help but laugh.  R
 
 Croatians of his age have blood equity in the values he's talking about.  When you've lived through something like that, seeing a so called liberal western liberal "leader" repudiate the civil liberty they claim to represent isn't just a moral indignation.  It's an abomination.  What Trudeau did would be like if Trump cited congressional authority given to FDR to fight the Third Reich, to destroy Black Lives Matter and anyone who ever voiced support for it.
 
+### 194: [Airlines ask Biden to drop mask mandate and testing requirements for travelers](https://old.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/), submitted on 2022-03-24 21:35:58+08:00.
+
+----- __194.1__ -----2022-03-25 03:25:13+08:00:
+
+Obviously your comment violates Rule 1.  But even if it didn't, didn't you realize you posted it three different times?
+
