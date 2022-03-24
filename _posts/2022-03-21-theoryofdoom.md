@@ -105,3 +105,19 @@ Croatians of his age have blood equity in the values he's talking about.  When y
 
 Obviously your comment violates Rule 1.  But even if it didn't, didn't you realize you posted it three different times?
 
+----- __194.2__ -----2022-03-25 03:37:52+08:00:
+
+People should absolutely have the choice of whether to wear a mask in any context, including on commercial flights.  No one is saying otherwise. 
+
+But there are things people fail to consider, because they don't think things through.
+
+Airline employees, particularly flight attendants, have been the subject of untold harassment for quite some time.  Sometimes even rising to the level of physical violence.  Airlines themselves have incurred tremendous costs associated with enforcing these futile mandates, whether from delayed flights or in connection with all the variously related legal liabilities.  
+
+Those costs make it more expensive for consumers to fly, because the airlines have to pass those costs off to consumers.  They also make the risk of air travel much higher, by substantially increasing the risk of confrontation between passengers and crew or other passengers.  
+
+So it's not enough to just say "masks on airlines!  Because we think they matter!"  The whole picture has to be considered, namely in view of whether masks are redundant or futile by other measures. 
+
+It turns out that commercial aircraft have really excellent air filtration systems.  This is necessary, because the air you breathe on a plane is recycled after being filtered through medical-grade air purification methods that are vastly more effective than any commercially available mask.  Air is cycled through the cabin at rates that prevent any aerosolized viral material from accumulating in the cabin, which is the primary modality of infection.  
+
+On trains, busses or in other contexts, the same can't be said.  But for planes, those costs are incurred without any added benefit to consumers whatsoever.
+
