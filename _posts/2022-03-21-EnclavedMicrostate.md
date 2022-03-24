@@ -148,7 +148,7 @@ There is somewhat of a literary connection in that Marx commented on the Taiping
 
 ----- __253.1__ -----2022-03-24 02:08:46+08:00:
 
-For me, as someone who's mainly a Hololive watcher rather than a general VTuber watcher, I think the draw for me is that there's such a variety of content, as well as the sense that it's not just a load of individual creators but a whole community. This isn't something necessarily inherent to VTubing or impossible with traditional videos and streaming, but it might be one of the big reasons why.
+For me, as someone who's mainly a Hololive watcher rather than a general VTuber watcher, I think the draw is that there's such a variety of content, as well as the sense that it's not just a load of individual creators but a whole community. This isn't something necessarily inherent to VTubing or impossible with traditional videos and streaming, but it might be one of the big reasons why.
 
 Another aspect arguably is that because Hololive is a thing you have to audition or be scouted for, it's just a really dense concentration of especially dedicated and talented people. Again, it's more a feature of Hololive in particular than VTubing in general.
 
