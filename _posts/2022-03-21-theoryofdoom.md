@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-22
+date: 2022-03-24
 from: https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/
 layout: post
 tags:
@@ -90,4 +90,12 @@ I have a tendency to be sanctimonious in the face of idpol stupidity.
 ----- __192.6__ -----2022-03-23 11:56:12+08:00:
 
 That was a pretty good find.  Read the abstract, anc couldn't help but laugh.  Reminds me of a Noam Chomsky lecture, recorded in one of the books he's published, where he talks about the language games certain types of normative theorists play to make what they're doing seem more sophisticated than it is.
+
+### 193: [Trudeau Gets Called Out Directly On The International Stage For His Authoritarianism](https://old.reddit.com/r/walkaway/comments/tliwnf/trudeau_gets_called_out_directly_on_the/), submitted on 2022-03-24 06:27:06+08:00.
+
+----- __193.1__ -----2022-03-24 10:33:13+08:00:
+
+> Hard times create good men
+
+Croatians of his age have blood equity in the values he's talking about.  When you've lived through something like that, seeing a so called liberal western liberal "leader" repudiate the civil liberty they claim to represent isn't just a moral indignation.  It's an abomination.  What Trudeau did would be like if Trump cited congressional authority given to FDR to fight the Third Reich, to destroy Black Lives Matter and anyone who ever voiced support for it.
 
