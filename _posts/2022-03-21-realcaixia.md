@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-23
+date: 2022-03-24
 from: https://twitter.com/realcaixia/status/1505611668444831746
 layout: post
 tags:
@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -106,4 +106,24 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 23: [2022-03-23 23:51:59+08:00 推文](https://twitter.com/realcaixia/status/1506660033798586371)
 
 请读这位推友的引语，她的引语清楚地说明了，为什么北约组织中的一些东欧国家坚定地支持乌克兰所要求的军事部署。<br><br>ZHANGDONG: 北约内部意见分歧，前华沙集团转入北约的东欧国因曾饱受苏联欺压，熟知俄帝野心和霸道，故他们坚定支持乌克兰保家卫国，主张在乌设禁飞区，派维和部队，援助乌克兰战机。他们深知保卫乌克兰就是保卫自己保卫欧洲。北约峰会将邀请泽伦斯基视频链线在北约周四的峰会上发表讲话，但愿这次能打动北约政客。<br> <a href="https://twitter.com/realcaixia/status/1506273292415602691" target="_blank" rel="noopener noreferrer">https://twitter.com/realcaixia/status/1506273292415602691</a>
+
+### 24: [2022-03-24 05:38:10+08:00 推文](https://twitter.com/realcaixia/status/1506747154890694660)
+
+#议报发布 《香港打了北京的脸》特别推荐：<br>一面，抗疫本属港地事务，然北京插手施压香港执行“清零”，致港疫情管控混乱和社会煎熬，不得不与病毒共存。<br>另一面，放弃“清零”等于承认习失败，不仅打党国脸，甚至打脸习。但死扛“清零”政策，陆港都将因代价越来越大而不可承受。 <a href="https://yibaochina.com/?p=245492" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245492</a>
+
+### 25: [2022-03-24 07:05:20+08:00 推文](https://twitter.com/realcaixia/status/1506769090471464964)
+
+这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br><br><video src="https://video.twimg.com/ext_tw_video/1506646360006795274/pu/vid/576x266/g67TFcY3KwIVv0pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506646360006795274/pu/img/TLmxHXHY6zgjrj8K.jpg"></video>
+
+### 26: [2022-03-24 07:13:43+08:00 推文](https://twitter.com/realcaixia/status/1506771202748170242)
+
+死扛清零政策而不顾民生，因疫情民生艰难已经持续两年，杭州的情况将会在各地陆续出现。2022，内外都复杂多变，一切都有可能。<br><br>鲁  难: 今天，杭州四季青服装市场，商家云集抗议不合理的疫情控制措施导致经营困难，亏损累累，民不聊生。他们不畏警察棍棒威胁，高声叫着：退租，退租！1<br><br><video src="https://video.twimg.com/ext_tw_video/1506679517645090819/pu/vid/720x1122/5uYHTHvINmOlKQy-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506679517645090819/pu/img/aMNUa7KUe1ziWX-R.jpg"></video>
+
+### 27: [2022-03-24 07:36:43+08:00 推文](https://twitter.com/realcaixia/status/1506776989969039371)
+
+哈哈<br><br>星願: 你穿白衣服干啥？谁死了戴孝呢？😂<br><br><video src="https://video.twimg.com/ext_tw_video/1506191244363501568/pu/vid/844x480/pQ0FSgkT4aqgtWM-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506191244363501568/pu/img/pLe_G0xPNNtIRWeG.jpg"></video>
+
+### 28: [2022-03-24 07:46:29+08:00 推文](https://twitter.com/realcaixia/status/1506779447734718471)
+
+支持！<br>两党议员共同呼吁将贸易人权重新挂钩：众院两党议员推出取消中国永久最惠国待遇法案 <a href="https://www.voachinese.com/a/congressman-chris-smith-introduces-new-legislation-to-strip-the-chinese-communist-party-of-its-trade-status-20220322/6496701.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/congressman-chris-smith-introduces-new-legislation-to-strip-the-chinese-communist-party-of-its-trade-status-20220322/6496701.html</a>
 
