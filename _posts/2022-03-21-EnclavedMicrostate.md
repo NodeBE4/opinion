@@ -174,3 +174,9 @@ Ah, naruhodo ne.
 
 Thing is, if you asked me which of Council 'the butt lady' drew, I'm not entirely sure Kronii would have been my first answer.
 
+### 256: [I’m trying to find more of these but I don’t know what they are…I tried looking up yogourt drink but no dice](https://old.reddit.com/r/ChineseTranslation/comments/tmcvrn/im_trying_to_find_more_of_these_but_i_dont_know/), submitted on 2022-03-24 22:15:48+08:00.
+
+----- __256.1__ -----2022-03-24 23:12:58+08:00:
+
+I've not encountered this specific brand before, but it seems to be some sort of knockoff of [Yakult](https://en.wikipedia.org/wiki/Yakult). This brand seems to identify itself as 吾尚益菌多 *wu2 chang2 yi4 jun1 duo1*. This I suspect might be  a homophonic play on 无常 *wu2chang2* ('variable' but also 'unusual' if the two characters are read separately and literally), followed by a knockoff spin on 益力多, which is how Yakult is branded in Hong Kong.
+
