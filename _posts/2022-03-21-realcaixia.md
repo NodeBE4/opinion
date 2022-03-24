@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-24
+date: 2022-03-25
 from: https://twitter.com/realcaixia/status/1505611668444831746
 layout: post
 tags:
@@ -113,7 +113,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 25: [2022-03-24 07:05:20+08:00 推文](https://twitter.com/realcaixia/status/1506769090471464964)
 
-这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br><br><video src="https://video.twimg.com/ext_tw_video/1506646360006795274/pu/vid/576x266/g67TFcY3KwIVv0pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506646360006795274/pu/img/TLmxHXHY6zgjrj8K.jpg"></video>
+这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br> <a href="https://twitter.com/Gorobina/status/1506646412213293070/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/Gorobina/status/1506646412213293070/video/1</a>
 
 ### 26: [2022-03-24 07:13:43+08:00 推文](https://twitter.com/realcaixia/status/1506771202748170242)
 
@@ -126,4 +126,12 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 28: [2022-03-24 07:46:29+08:00 推文](https://twitter.com/realcaixia/status/1506779447734718471)
 
 支持！<br>两党议员共同呼吁将贸易人权重新挂钩：众院两党议员推出取消中国永久最惠国待遇法案 <a href="https://www.voachinese.com/a/congressman-chris-smith-introduces-new-legislation-to-strip-the-chinese-communist-party-of-its-trade-status-20220322/6496701.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/congressman-chris-smith-introduces-new-legislation-to-strip-the-chinese-communist-party-of-its-trade-status-20220322/6496701.html</a>
+
+### 29: [2022-03-24 21:32:03+08:00 推文](https://twitter.com/realcaixia/status/1506987209068478470)
+
+刘艳丽出了中共牢狱回到了家里。刘艳丽是勇敢的人权捍卫者，并且多年前发声要求公布官员财产。祝福刘艳丽！向刘艳丽致敬！<br><br>hongnian che: 已经回到家中<br><br><img style="" src="https://pbs.twimg.com/media/FOmyl0JXMAE3EUI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-03-25 03:15:09+08:00 推文](https://twitter.com/realcaixia/status/1507073550473175048)
+
+令人💔<br><br>འོད་ཟེར།唯色Woeser🇺🇦🙏: “原来新歌发出来的时候就在告别😭😭😭”前几天，在新浪微博上找到这条微博，是才旺罗布的粉丝细心地注意到：2月22日，才旺罗布在介绍自己的新歌时，在头像下方标注了“Bye”。<br><br>现在，这位粉丝的这条微博已经消失了。但还是有人在问：“才旺罗布他怎么了？”也有人悄声说：“他没了，原因无法说！ ”或用…<br><br><img style="" src="https://pbs.twimg.com/media/FOoLHVFUYAMoov_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOoLHVGVcAIcLhb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOoLHVLUYAcoV0E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOoLHVEVEAQR3Jn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
