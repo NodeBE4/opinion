@@ -210,9 +210,19 @@ Instead of asking "Why haven't I learned about event ...", consider asking "What
 
 Thank you!
 
-### 261: [Stolen from r/nyctakeout](https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/), submitted on 2022-03-26 00:48:31+08:00.
+### 261: [What was the dumbest reason a Youtuber was cancelled on the internet?](https://old.reddit.com/r/AskReddit/comments/tnmitn/what_was_the_dumbest_reason_a_youtuber_was/), submitted on 2022-03-25 21:58:17+08:00.
 
------ __261.1__ -----2022-03-26 01:03:24+08:00:
+----- __261.1__ -----2022-03-26 02:10:32+08:00:
+
+So, a couple of points of clarification:
+
+Firstly, while it's common to say Rushia violated an NDA, that is not actually unambiguously clear. An NDA is simply a particular form of contract wherein both parties agree not to divulge any information covered within the text of said contract. Rushia simply violated contract in some way, but that need not have been through divulging information about said contract, which would, in the most technical sense, be the definition of an NDA violation. To put it a certain way, while she breached a non-disclosure agreement, she may not have broken the non-disclosure aspect of that agreement.
+
+The main reason I bring this up is that according to the drama Youtuber whom she sent those emails to, she'd been in contact since at least November to vent about issues she'd been having, and there are claims that she had already been warned by Cover over that incident. So what happened wasn't that she impulsively acted and inadvertently doxxed people and got fired on first infraction, but she seems to have actually been quite blasé about infosec and did the exact same thing a second time despite being warned.
+
+### 262: [Stolen from r/nyctakeout](https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/), submitted on 2022-03-26 00:48:31+08:00.
+
+----- __262.1__ -----2022-03-26 01:03:24+08:00:
 
 I'll concur with the other comments; while rather substantial none of these have any gratuitous stuff that makes it basically impossible to properly eat, like chocolate down the outside of the glass. In fact to be honest these are kind of normal looking (within reason) by ice cream standards.
 
