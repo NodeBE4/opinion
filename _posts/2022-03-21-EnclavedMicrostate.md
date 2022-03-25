@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-25
+date: 2022-03-26
 from: https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/
 layout: post
 tags:
@@ -209,4 +209,10 @@ Secondly, we have noticed that these questions are often phrased to be about peo
 Instead of asking "Why haven't I learned about event ...", consider asking "What importance do scholars assign to event ... in the context of such and such history?" The latter question is often closer to what people actually want to know and is more likely to get a good answer from an expert. If you intend to ask the 'What importance do scholars assign to event X' question instead, let us know and we'll remove this question.
 
 Thank you!
+
+### 261: [Stolen from r/nyctakeout](https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/), submitted on 2022-03-26 00:48:31+08:00.
+
+----- __261.1__ -----2022-03-26 01:03:24+08:00:
+
+I'll concur with the other comments; while rather substantial none of these have any gratuitous stuff that makes it basically impossible to properly eat, like chocolate down the outside of the glass. In fact to be honest these are kind of normal looking (within reason) by ice cream standards.
 
