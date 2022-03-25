@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-24
+date: 2022-03-25
 from: https://twitter.com/iheartbeijing/status/1505755685014818820
 layout: post
 tags:
@@ -46,4 +46,8 @@ Human Stories of War: the first in CMP's series on Chinese coverage of Ukraine t
 ### 8: [2022-03-24 15:37:09+08:00 推文](https://twitter.com/yangxifan/status/1506897895890505728)
 
 RT Xifan Yang 杨希璠<br>CCP censors scrap anti-war and anti-Putin posts online, but there are quiet ways in which Chinese show solidarity for #Ukraine. 4/5 top selling brooch pins in this Taobao store are 🇺🇦 themed. I asked the owner about it, but he didn’t answer - too sensitive it seems.<br><img style="" src="https://pbs.twimg.com/media/FOmTpfhXIAEnk3N?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-03-25 13:47:27+08:00 推文](https://twitter.com/cnmediaproject/status/1507232677141020672)
+
+Coverage of the tragic crash this week of China Eastern Airlines flight MU5735 has relied chiefly on information from state media focussing on the government response. Rare efforts at more human coverage have been the subject of controversy. <a href="https://chinamediaproject.org/2022/03/25/this-does-not-need-to-be-featured/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/25/this-does-not-need-to-be-featured/</a><br><img style="" src="https://pbs.twimg.com/media/FOrEF1yaQAAkBBr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
