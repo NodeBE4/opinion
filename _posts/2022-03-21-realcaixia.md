@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -158,4 +158,12 @@ Re @kungat 是的。在大陆地区，尊者的所有信息都是被屏蔽的。
 ### 36: [2022-03-26 00:34:35+08:00 推文](https://twitter.com/realcaixia/status/1507395533199056908)
 
 Re @curechina 毛早就说过他是马克思+秦始皇，60多年后习承毛，再加一个工具：信息技术大数据严密监视到每个人。禁心禁言禁食，2000多年不变，用以施“禁”的手段、工具、外在形式有了变化。自秦以来中国大陆2000多年，改朝换代，始终未能走出秦制。所以，还有一说：中国无历史。
+
+### 37: [2022-03-26 03:43:30+08:00 推文](https://twitter.com/realcaixia/status/1507443075953606663)
+
+这就是大陆清零政策的最好注解。<br><br>ZHANGDONG: 以疫代牢，人间地狱！<br><br><img style="" src="https://pbs.twimg.com/media/FOtmS_eX0AYvPjk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/lunanweiyi/status/1507185325675888642" target="_blank" rel="noopener noreferrer">https://twitter.com/lunanweiyi/status/1507185325675888642</a>
+
+### 38: [2022-03-26 04:40:53+08:00 推文](https://twitter.com/realcaixia/status/1507457514002124813)
+
+这是清零政策的最好注解。清零的实质是将所有人关进监狱。中共国不用盖监狱，监狱由被关的人们用高价买，中共国只要安电网，连看守、狱卒都省事了。<br><br>鲁  难: 小区封闭竟然架起了电网，不是逗你玩儿吧？<br><br><video src="https://video.twimg.com/ext_tw_video/1507185267412803584/pu/vid/720x902/0I___FNNf-yQvlzB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1507185267412803584/pu/img/EGx_cBA1f5MAMtKn.jpg"></video>
 
