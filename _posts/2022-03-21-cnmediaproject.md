@@ -51,3 +51,19 @@ RT Xifan Yang 杨希璠<br>CCP censors scrap anti-war and anti-Putin posts onl
 
 Coverage of the tragic crash this week of China Eastern Airlines flight MU5735 has relied chiefly on information from state media focussing on the government response. Rare efforts at more human coverage have been the subject of controversy. <a href="https://chinamediaproject.org/2022/03/25/this-does-not-need-to-be-featured/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/25/this-does-not-need-to-be-featured/</a><br><img style="" src="https://pbs.twimg.com/media/FOrEF1yaQAAkBBr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-03-25 15:51:55+08:00 推文](https://twitter.com/cnmediaproject/status/1507263998391369728)
+
+"This Does Not Need to Be Featured": A look at coverage this week of the tragic crash of China Eastern Airlines flight MU5735 -- and a controversy over when it is appropriate to show the human side of tragedy. <a href="https://chinamediaproject.org/2022/03/25/this-does-not-need-to-be-featured/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/25/this-does-not-need-to-be-featured/</a><br><img style="" src="https://pbs.twimg.com/media/FOrglwPagAQbSwW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-03-25 15:53:37+08:00 推文](https://twitter.com/cnmediaproject/status/1507264428244631556)
+
+Re @paulmozur @JohnLiuNN Yes, apparently THIS is what external propaganda officials intend by "lovable" (可爱). <a href="https://chinamediaproject.org/2021/06/02/powers-of-persuasion/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/06/02/powers-of-persuasion/</a>
+
+### 12: [2022-03-25 16:18:12+08:00 推文](https://twitter.com/cnmediaproject/status/1507270614280974345)
+
+Our CMP Dictionary is a very necessary parsing of the esoteric discourse of the CCP. However, reading English-language academic writing on China, it seems another dictionary might be necessary. Just read of a scholar's "utilization of an exegetical approach . . . . " 1/2
+
+### 13: [2022-03-25 16:18:30+08:00 推文](https://twitter.com/cnmediaproject/status/1507270690122395649)
+
+Re Translation: "I read stuff." 2/2
+
