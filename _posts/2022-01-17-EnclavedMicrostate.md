@@ -146,9 +146,15 @@ If you have further questions, please [reach out to us via modmail](https://www.
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 83: [About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?](https://old.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/), submitted on 2022-01-22 12:51:19+08:00.
+### 83: [hololive SUPER EXPO 2022 official penlight color summary](https://old.reddit.com/r/Hololive/comments/s9rrsh/hololive_super_expo_2022_official_penlight_color/), submitted on 2022-01-22 10:25:50+08:00.
 
------ __83.1__ -----2022-01-23 15:35:46+08:00:
+----- __83.1__ -----2022-03-25 19:13:35+08:00:
+
+I come to you 2 months later to report that the audience did in fact switch to red during the song.
+
+### 84: [About how many Manchus lived in China proper during Qing rule, and why did seemingly so many move to China proper after its conquest?](https://old.reddit.com/r/AskHistorians/comments/s9ugbx/about_how_many_manchus_lived_in_china_proper/), submitted on 2022-01-22 12:51:19+08:00.
+
+----- __84.1__ -----2022-01-23 15:35:46+08:00:
 
 ### I: The Weird Mess that is Manchu Demography
 
@@ -192,7 +198,7 @@ With all that, then, it seems reasonable to say that by the end of the Qing, the
 
 Now, a fair point that can be raised is that this is the *total* number of Manchus in the entirety of the Qing, not just those in China proper. Elliott, unfortunately, only looks at China Proper and doesn't give any figures for Bannermen in Manchuria/the Northeast or in Xinjiang. There is a breakdown of troop deployments by Rhoads, based on the 1887 Banner census and Thomas Wade's 1825 report on the Qing military, although he seems to use 'northwest China' to cover the garrisons in Xinjiang and Mongolia, not just what we would more conventionally term 'northwest China' (i.e. Gansu, Shaanxi, and environs). Per Rhoads, of 260,000 deployed Banner troops, 150,000 were in Beijing and 110,000 were not. Of these 110,000, 16,000 are placed by Rhoads in 'northwest China', and 37,000 in Manchuria. Checking Wade's figures, based on the 1825 Banner payrolls, of 236,000 privates there were about 13,600 in 'Turkestan' (i.e. presumably both Mongolia and Xinjiang) and 40,800 in Manchuria, which would seem to affirm the above read of Rhoads' categorisation. So in short, in 1887 there were around 207,000 Banner troops in China Proper and 53,000 in other parts of the empire; assuming (not entirely correctly) a homogeneous ethnic distribution, that'd mean 80% of the Banner population was in China proper, which in absolute numbers would be about 700,000-1,350,000 people.
 
------ __83.2__ -----2022-01-23 15:41:34+08:00:
+----- __84.2__ -----2022-01-23 15:41:34+08:00:
 
 ### II: Movement to China Proper
 
@@ -212,29 +218,29 @@ Why have these garrisons at all? To put it simply, the Qing were basically an oc
 
 * Edward J. M. Rhoads, *Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1862-1928* (2001) [Open-access link](https://uw.manifoldapp.org/read/untitled-88783134-3ba9-49ab-95e5-0b51ee6d035b/section/498fd67d-ad4c-44c1-8f99-a490905b2a34)
 
-### 84: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
+### 85: [What would Lincoln have thought of fascism? Apologies in advanced if this is a dumb question.](https://old.reddit.com/r/AskHistorians/comments/s9xu53/what_would_lincoln_have_thought_of_fascism/), submitted on 2022-01-22 16:22:04+08:00.
 
------ __84.1__ -----2022-01-22 18:18:38+08:00:
+----- __85.1__ -----2022-01-22 18:18:38+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 85: [What's the best book on modern US-China relations?](https://old.reddit.com/r/AskHistorians/comments/safd6d/whats_the_best_book_on_modern_uschina_relations/), submitted on 2022-01-23 07:34:53+08:00.
+### 86: [What's the best book on modern US-China relations?](https://old.reddit.com/r/AskHistorians/comments/safd6d/whats_the_best_book_on_modern_uschina_relations/), submitted on 2022-01-23 07:34:53+08:00.
 
------ __85.1__ -----2022-01-23 20:08:25+08:00:
+----- __86.1__ -----2022-01-23 20:08:25+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 86: [Did asbestos save more people than it killed?](https://old.reddit.com/r/AskHistorians/comments/sajwfy/did_asbestos_save_more_people_than_it_killed/), submitted on 2022-01-23 11:23:43+08:00.
+### 87: [Did asbestos save more people than it killed?](https://old.reddit.com/r/AskHistorians/comments/sajwfy/did_asbestos_save_more_people_than_it_killed/), submitted on 2022-01-23 11:23:43+08:00.
 
------ __86.1__ -----2022-01-23 19:48:45+08:00:
+----- __87.1__ -----2022-01-23 19:48:45+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 87: [Are there any historical (either historical or paleo-genetic) clues on when “poop aversion” first became ubiquitous across most cultures?](https://old.reddit.com/r/AskHistorians/comments/sakfs5/are_there_any_historical_either_historical_or/), submitted on 2022-01-23 11:52:43+08:00.
+### 88: [Are there any historical (either historical or paleo-genetic) clues on when “poop aversion” first became ubiquitous across most cultures?](https://old.reddit.com/r/AskHistorians/comments/sakfs5/are_there_any_historical_either_historical_or/), submitted on 2022-01-23 11:52:43+08:00.
 
------ __87.1__ -----2022-01-23 19:48:39+08:00:
+----- __88.1__ -----2022-01-23 19:48:39+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -242,21 +248,21 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 88: [Outside of civil wars, do we know of any pre modern or early modern societies which had homicide levels similar to the most violent nations today?](https://old.reddit.com/r/AskHistorians/comments/saktr3/outside_of_civil_wars_do_we_know_of_any_pre/), submitted on 2022-01-23 12:13:33+08:00.
+### 89: [Outside of civil wars, do we know of any pre modern or early modern societies which had homicide levels similar to the most violent nations today?](https://old.reddit.com/r/AskHistorians/comments/saktr3/outside_of_civil_wars_do_we_know_of_any_pre/), submitted on 2022-01-23 12:13:33+08:00.
 
------ __88.1__ -----2022-01-23 19:48:55+08:00:
+----- __89.1__ -----2022-01-23 19:48:55+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 89: [I'm not great at editing but I thought of this meme and had to post it-](https://old.reddit.com/r/Hololive/comments/satxsx/im_not_great_at_editing_but_i_thought_of_this/), submitted on 2022-01-23 21:43:14+08:00.
+### 90: [I'm not great at editing but I thought of this meme and had to post it-](https://old.reddit.com/r/Hololive/comments/satxsx/im_not_great_at_editing_but_i_thought_of_this/), submitted on 2022-01-23 21:43:14+08:00.
 
------ __89.1__ -----2022-01-24 12:13:10+08:00:
+----- __90.1__ -----2022-01-24 12:13:10+08:00:
 
 To add some etymological detail for those who might not know, the 'Calli' part of 'Calliope' is the same 'calli' in 'calligraphy', and is ancient Greek for 'good' or 'beautiful'. The muse Calliope (Kalliópē) gets her name from *kallós* ('good'/'beautiful') + *óps* ('voice'), which I presume is why Calli's name was originally written with the kanji 美声 which is, well, 'beautiful voice' – until it got changed of course. Anyway, 'calligraphy' derives from *kallós* + *gráphō* ('writing'), so is 'beautiful writing'.
 
-### 90: [[Hobby Scuffles] Week of January 24, 2022](https://old.reddit.com/r/HobbyDrama/comments/savgsm/hobby_scuffles_week_of_january_24_2022/), submitted on 2022-01-23 23:00:22+08:00.
+### 91: [[Hobby Scuffles] Week of January 24, 2022](https://old.reddit.com/r/HobbyDrama/comments/savgsm/hobby_scuffles_week_of_january_24_2022/), submitted on 2022-01-23 23:00:22+08:00.
 
------ __90.1__ -----2022-01-30 14:37:39+08:00:
+----- __91.1__ -----2022-01-30 14:37:39+08:00:
 
 It depends how you define 'big' I suppose, and also what a 'lack of popularity' would be.
 
@@ -264,7 +270,7 @@ Compared to Nijisanji, Hololive has more total subs and fewer members, meaning a
 
 Although pivoting a bit to the 'big' side, there's definitely a few agencies that have shuttered various elements for one reason or another. Brave Group, formerly Unlimited, was haemorrhaging views and subs across the board over the Game Club Project recasting fiasco in mid-2019 ([see here for a quick rundown](https://www.reddit.com/r/VirtualYoutubers/comments/kp728d/fans_fantasy_and_vice_why_the_gamebu_controversy/)), and so in late 2020 it pretty much let go of most of its subunits. Most of them were simply dissolved but a couple got transferred to a subdivision of Bandai Namco. Probably the more infamous case was Activ8 in 2019/20. After the issues with the Multiple Ai Project (basically adding extra VAs for Kizuna Ai and then quietly firing the original in July 2019, something that viewers did not take kindly to), Activ8 ended up massively in the red by the end of 2019, and did a major restructuring at the end of April 2020 and pulled Kizuna Ai out of upd8, which was, uh, Activ8's own agency. They also either fired or induced Oda Nobuhime to quit, and the two 774 Inc. subunits affiliated with upd8 pulled out. Activ8 didn't drop upd8 outright as such, but they essentially divested themselves of any significant involvement from that point, and it basically trundled on as a loose association of indies until the end of 2020. So it depends how you define 'dropping' and also what causes you attribute, but I would say there have been times where agencies have cut unprofitable segments loose.
 
------ __90.2__ -----2022-01-30 14:58:40+08:00:
+----- __91.2__ -----2022-01-30 14:58:40+08:00:
 
 It's important to distinguish here between Hololive CN, that is the branch of 6 members streaming in Mandarin, and Hololive's Chinese audience. We don't know about how Hololive CN the branch of Hololive was doing financially, which for all we know could have been entirely solvent. But we're not just talking about Hololive CN, we're talking about the broader Chinese audience, which complicates the picture as a large portion of Hololive JP had Chinese-facing activities via bilibili as well as a large Chinese fan community. Pulling out of China wasn't just weighing the monetary value of HoloCN against that of Coco (and also Haachama), but about cutting an entire market and fanbase for the entire agency.
 

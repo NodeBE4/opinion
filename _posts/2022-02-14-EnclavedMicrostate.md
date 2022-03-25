@@ -13,19 +13,9 @@ title: EnclavedMicrostate在2022-02-14~2022-02-20的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 131: [was there a time in history where a country or group of people rendered aid or defended their enemies due to natural calamity or other hardship?](https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/), submitted on 2022-02-14 03:45:21+08:00.
+### 132: [was there a time in history where a country or group of people rendered aid or defended their enemies due to natural calamity or other hardship?](https://old.reddit.com/r/AskHistorians/comments/srr3zw/was_there_a_time_in_history_where_a_country_or/), submitted on 2022-02-14 03:45:21+08:00.
 
------ __131.1__ -----2022-02-14 12:34:41+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 132: [What do we refer to ancient societies/civilizations that started using writing system?](https://old.reddit.com/r/AskHistorians/comments/sru10k/what_do_we_refer_to_ancient/), submitted on 2022-02-14 05:51:57+08:00.
-
------ __132.1__ -----2022-02-14 12:34:51+08:00:
+----- __132.1__ -----2022-02-14 12:34:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -33,9 +23,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 133: [Are there notable examples of architects reviving styles from bygone eras before neo-classicism?](https://old.reddit.com/r/AskHistorians/comments/srznck/are_there_notable_examples_of_architects_reviving/), submitted on 2022-02-14 10:34:55+08:00.
+### 133: [What do we refer to ancient societies/civilizations that started using writing system?](https://old.reddit.com/r/AskHistorians/comments/sru10k/what_do_we_refer_to_ancient/), submitted on 2022-02-14 05:51:57+08:00.
 
------ __133.1__ -----2022-02-14 12:35:12+08:00:
+----- __133.1__ -----2022-02-14 12:34:51+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -43,31 +33,41 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 134: [Mindless Monday, 14 February 2022](https://old.reddit.com/r/badhistory/comments/ss8zem/mindless_monday_14_february_2022/), submitted on 2022-02-14 20:00:18+08:00.
+### 134: [Are there notable examples of architects reviving styles from bygone eras before neo-classicism?](https://old.reddit.com/r/AskHistorians/comments/srznck/are_there_notable_examples_of_architects_reviving/), submitted on 2022-02-14 10:34:55+08:00.
 
------ __134.1__ -----2022-02-15 10:53:08+08:00:
+----- __134.1__ -----2022-02-14 12:35:12+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 135: [Mindless Monday, 14 February 2022](https://old.reddit.com/r/badhistory/comments/ss8zem/mindless_monday_14_february_2022/), submitted on 2022-02-14 20:00:18+08:00.
+
+----- __135.1__ -----2022-02-15 10:53:08+08:00:
 
 The hoped-for price rise [failed to materialise](https://www.marketwatch.com/story/crypto-companies-spent-millions-on-super-bowl-ads-but-it-didnt-lift-bitcoin-prices-monday-11644876991), so things are definitely trending downward. Just... could they trend *faster* please?
 
------ __134.2__ -----2022-02-15 17:25:06+08:00:
+----- __135.2__ -----2022-02-15 17:25:06+08:00:
 
 I imagine this will be of especial interest to /u/lothernseaguard, but [Quora seems to be making a limited attempt to silence criticism over the Kevin Richardson fiasco.](https://twitter.com/EMicrostate/status/1493513743556169728)
 
-### 135: [Any good books providing an overview of Chinese history, preferably with maps?](https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/), submitted on 2022-02-15 04:07:55+08:00.
+### 136: [Any good books providing an overview of Chinese history, preferably with maps?](https://old.reddit.com/r/AskHistorians/comments/ssjzbr/any_good_books_providing_an_overview_of_chinese/), submitted on 2022-02-15 04:07:55+08:00.
 
------ __135.1__ -----2022-02-15 10:27:48+08:00:
+----- __136.1__ -----2022-02-15 10:27:48+08:00:
 
 Harvard's six-volume *History of Imperial China* series is probably going to be one of the more helpful options for this while still not being beyond a reasonable budget as long as you're aware you're getting up to six books. They're broadly up to date historiographically for the mid-late 2000s, and while they have a relatively thematic and analytical focus over narrative, they are intended to have decent readability for the more general reader, so most of the volumes have a good smattering of maps, figures, and illustrations.
 
-### 136: [I'm a movie fan in the 1950s-1970s. In the age before VHS, if I happened to miss out on a film while it was in cinemas, am I fairly certain that I will never be able to see it? Or is it likely for a theater to play it again fairly soon?](https://old.reddit.com/r/AskHistorians/comments/ssotsp/im_a_movie_fan_in_the_1950s1970s_in_the_age/), submitted on 2022-02-15 07:56:10+08:00.
+### 137: [I'm a movie fan in the 1950s-1970s. In the age before VHS, if I happened to miss out on a film while it was in cinemas, am I fairly certain that I will never be able to see it? Or is it likely for a theater to play it again fairly soon?](https://old.reddit.com/r/AskHistorians/comments/ssotsp/im_a_movie_fan_in_the_1950s1970s_in_the_age/), submitted on 2022-02-15 07:56:10+08:00.
 
------ __136.1__ -----2022-02-15 11:15:21+08:00:
+----- __137.1__ -----2022-02-15 11:15:21+08:00:
 
 Sorry, but this response has been removed because we [do not allow the personal anecdotes or second-hand stories](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes) of users to form the basis of a response. While they can sometimes be quite interesting, the medium and anonymity of this forum does not allow for them to be properly contextualized, nor the source vetted or contextualized.  A more thorough explanation for the reasoning behind this rule can be found in [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/fj1kw7/rules_roundtable_vii_no_personal_anecdotes/). For users who *are* interested in this more personal type of answer, we would suggest you consider /r/AskReddit.
 
-### 137: [How accurate is Hakim's (a Marxist-Leninist) video on "Why Did the USSR Fall?"](https://old.reddit.com/r/badhistory/comments/ssqpp1/how_accurate_is_hakims_a_marxistleninist_video_on/), submitted on 2022-02-15 09:23:53+08:00.
+### 138: [How accurate is Hakim's (a Marxist-Leninist) video on "Why Did the USSR Fall?"](https://old.reddit.com/r/badhistory/comments/ssqpp1/how_accurate_is_hakims_a_marxistleninist_video_on/), submitted on 2022-02-15 09:23:53+08:00.
 
------ __137.1__ -----2022-02-15 10:44:36+08:00:
+----- __138.1__ -----2022-02-15 10:44:36+08:00:
 
 Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
 
@@ -77,19 +77,19 @@ Your submission is in violation of **Rule 2**. Your submission Is a debunk/debat
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/Budo3&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ssqpp1/-/\))
 
-### 138: [The Romulan invasion force in Unification was small because they were relying on previously seeded infiltrators](https://old.reddit.com/r/DaystromInstitute/comments/ssqucd/the_romulan_invasion_force_in_unification_was/), submitted on 2022-02-15 09:30:22+08:00.
+### 139: [The Romulan invasion force in Unification was small because they were relying on previously seeded infiltrators](https://old.reddit.com/r/DaystromInstitute/comments/ssqucd/the_romulan_invasion_force_in_unification_was/), submitted on 2022-02-15 09:30:22+08:00.
 
------ __138.1__ -----2022-02-15 13:59:42+08:00:
+----- __139.1__ -----2022-02-15 13:59:42+08:00:
 
 > As for the incompetence of the Zhat Vash, I doubt they'd ignore Data. On the off chance that Maddox got his way and he was disassembled, studied, and could be replicated, that seems like a pretty massive issue for anti-synthetic fanatics...
 
 Leading to a bit of an interesting crackpot theory: what if Data's trial was at least in part engineered by the Zhat Vash, perhaps some strings pulled here and there especially as regards Captain Louvois? It'd be the sort of thing where Romulan intrigue wouldn't be expected because it's seemingly so benign, but where it would at least delay the replication of synthetic life for a while and buy time.
 
------ __138.2__ -----2022-02-16 00:16:57+08:00:
+----- __139.2__ -----2022-02-16 00:16:57+08:00:
 
 Like I said, it's not a ploy to *prevent* synthetic development, it's one to *delay* that development until such time as the Zhat Vash can put a concrete plan in action. Within the events in the episode 'The Measure of a Man', the *Enterprise-D* is operating in core Federation territory, and it is unclear how high up Zhat Vash infiltration may have occurred by that stage. They obviously aren't omnipotent, and perhaps at this stage they don't have anyone on the ground who is able to get in a position to straight up destroy Data. If so, there are two options: let Maddox disassemble Data and replicate him – the worst case scenario – or allow Data to be legally protected so that he can't be replicated by anyone, at least in the short to medium term.
 
------ __138.3__ -----2022-02-16 00:36:25+08:00:
+----- __139.3__ -----2022-02-16 00:36:25+08:00:
 
 Killing Data within Federation territory would be an obvious act of aggression against the Federation itself. The Zhat Vash may have an ideological outlook but they are also part of the Romulan Empire, and provoking a war in pursuit of their narrower goal would not be ideal if there were potential options that did *not* risk starting a war. All I'm proposing is that it is within the realm of plausibility that the Zhat Vash might have pursued a policy of containment rather than total eradication, waiting for a more opportune moment. Both options achieve the ideological goal, but one sacrifices a bit of time in exchange for security.
 
@@ -97,9 +97,9 @@ In reference to the trial, perhaps I was too vague in suggesting that they orche
 
 EDIT: Now, if the trial had gone the other way, or not at all, and Maddox *did* get access to Data's internals, *then* the Zhat Vash may have gone to the nuclear option.
 
-### 139: [How did a society as ancient and advanced as Imperial China fall so badly behind in weapon development that Britain crushed them in the Opium Wars?](https://old.reddit.com/r/AskHistorians/comments/ssy38a/how_did_a_society_as_ancient_and_advanced_as/), submitted on 2022-02-15 16:18:58+08:00.
+### 140: [How did a society as ancient and advanced as Imperial China fall so badly behind in weapon development that Britain crushed them in the Opium Wars?](https://old.reddit.com/r/AskHistorians/comments/ssy38a/how_did_a_society_as_ancient_and_advanced_as/), submitted on 2022-02-15 16:18:58+08:00.
 
------ __139.1__ -----2022-02-16 14:26:30+08:00:
+----- __140.1__ -----2022-02-16 14:26:30+08:00:
 
 This is a subject I've discussed in several past answers (which I will link in a moment), but to begin with I need to stress that 'a society as ancient and advanced as Imperial China' is, to put it bluntly, a meaningless phrase. *All* societies are theoretically equally 'ancient', and 'advancement' is its own can of arbitrarily-defined, meaningless worms. We may as well ask how a society as 'ancient and advanced' as Rome fell to the Turks in 1453. Presenting imperial China as an 'ancient' society also massively flattens the real changes that occurred in state and society over the over two millennia between the foundation of the first imperial state in 221 BCE and the end of the last imperial state(s) in the 1910s. (See [this answer](https://www.reddit.com/r/AskHistorians/comments/s4uur3/did_the_various_ruling_dynasties_of_china_ever/hsv34aa/) for a bit more on that.)
 
@@ -107,9 +107,9 @@ On the question of specifically military developments, Tonio Andrade's *The Gunp
 
 But as for development on land, I discuss some of the issues [here](https://www.reddit.com/r/AskHistorians/comments/okp0aj/why_were_qing_china_and_southeast_asia_never_able/h5a1cmz/) and to an extent [here](https://www.reddit.com/r/AskHistorians/comments/o9qve6/dear_early_modern_historians_were_the/h3fb1me/). One issue I could have discussed in the first answer is finance, but that comes through in the second.
 
-### 140: [What are some examples of male platonic love?](https://old.reddit.com/r/AskHistorians/comments/stjzhr/what_are_some_examples_of_male_platonic_love/), submitted on 2022-02-16 10:02:01+08:00.
+### 141: [What are some examples of male platonic love?](https://old.reddit.com/r/AskHistorians/comments/stjzhr/what_are_some_examples_of_male_platonic_love/), submitted on 2022-02-16 10:02:01+08:00.
 
------ __140.1__ -----2022-02-16 11:31:05+08:00:
+----- __141.1__ -----2022-02-16 11:31:05+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -117,9 +117,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 141: [How many Americans participated in the 1837 Candian revolution, and can I use it as an example of filibustering?](https://old.reddit.com/r/AskHistorians/comments/stko0l/how_many_americans_participated_in_the_1837/), submitted on 2022-02-16 10:35:58+08:00.
+### 142: [How many Americans participated in the 1837 Candian revolution, and can I use it as an example of filibustering?](https://old.reddit.com/r/AskHistorians/comments/stko0l/how_many_americans_participated_in_the_1837/), submitted on 2022-02-16 10:35:58+08:00.
 
------ __141.1__ -----2022-02-16 11:31:21+08:00:
+----- __142.1__ -----2022-02-16 11:31:21+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -127,41 +127,41 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 142: [How different would 9/11 be if it happened in the middle of the night?](https://old.reddit.com/r/AskHistorians/comments/stldmw/how_different_would_911_be_if_it_happened_in_the/), submitted on 2022-02-16 11:10:29+08:00.
+### 143: [How different would 9/11 be if it happened in the middle of the night?](https://old.reddit.com/r/AskHistorians/comments/stldmw/how_different_would_911_be_if_it_happened_in_the/), submitted on 2022-02-16 11:10:29+08:00.
 
------ __142.1__ -----2022-02-16 11:31:29+08:00:
+----- __143.1__ -----2022-02-16 11:31:29+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 143: [Tng mixes it up with another series](https://old.reddit.com/r/risa/comments/suitpp/tng_mixes_it_up_with_another_series/), submitted on 2022-02-17 15:16:19+08:00.
+### 144: [Tng mixes it up with another series](https://old.reddit.com/r/risa/comments/suitpp/tng_mixes_it_up_with_another_series/), submitted on 2022-02-17 15:16:19+08:00.
 
------ __143.1__ -----2022-02-17 16:19:53+08:00:
+----- __144.1__ -----2022-02-17 16:19:53+08:00:
 
 Quark.
 
-### 144: [Today's the midpoint of the HK Rushia bus' journey and that last day that it's on Route 208, so I took the opportunity to snap a few last photos before it heads off to other routes for the next four weeks! Apologies for potato quality, and #るしあ大好きだよ!](https://old.reddit.com/r/Hololive/comments/sumjbp/todays_the_midpoint_of_the_hk_rushia_bus_journey/), submitted on 2022-02-17 19:22:07+08:00.
+### 145: [Today's the midpoint of the HK Rushia bus' journey and that last day that it's on Route 208, so I took the opportunity to snap a few last photos before it heads off to other routes for the next four weeks! Apologies for potato quality, and #るしあ大好きだよ!](https://old.reddit.com/r/Hololive/comments/sumjbp/todays_the_midpoint_of_the_hk_rushia_bus_journey/), submitted on 2022-02-17 19:22:07+08:00.
 
------ __144.1__ -----2022-02-17 19:22:16+08:00:
+----- __145.1__ -----2022-02-17 19:22:16+08:00:
 
 I was a little apprehensive when heading out because apparently the bus did get vandalised a few days ago, but if it was it's been patched up very convincingly!
 
------ __144.2__ -----2022-02-17 20:53:10+08:00:
+----- __145.2__ -----2022-02-17 20:53:10+08:00:
 
 I did actually take [a photo of the back](https://imgur.com/mKKTYb2) but it seems to have failed to upload – but no visible damage there as far as I could tell.
 
------ __144.3__ -----2022-02-17 22:16:44+08:00:
+----- __145.3__ -----2022-02-17 22:16:44+08:00:
 
 (tagging in /u/HashiriyaR32)
 
 Nope, it's the same bus with the same number plate as when it started.
 
------ __144.4__ -----2022-02-18 12:13:27+08:00:
+----- __145.4__ -----2022-02-18 12:13:27+08:00:
 
 For some, maybe. Not here, at least not badly enough to stop the Rushia bus.
 
-### 145: [Did Alexander the great get valuable intelligence for his invasion of Persia by reading Xenophon's Anabasis? The 10,000 mercenaries under Xenophon seemed to follow a similar route, and gave detailed first-hand descriptions of besting the Persians in battle.](https://old.reddit.com/r/AskHistorians/comments/sv4k5i/did_alexander_the_great_get_valuable_intelligence/), submitted on 2022-02-18 08:57:38+08:00.
+### 146: [Did Alexander the great get valuable intelligence for his invasion of Persia by reading Xenophon's Anabasis? The 10,000 mercenaries under Xenophon seemed to follow a similar route, and gave detailed first-hand descriptions of besting the Persians in battle.](https://old.reddit.com/r/AskHistorians/comments/sv4k5i/did_alexander_the_great_get_valuable_intelligence/), submitted on 2022-02-18 08:57:38+08:00.
 
------ __145.1__ -----2022-02-18 15:01:25+08:00:
+----- __146.1__ -----2022-02-18 15:01:25+08:00:
 
 ### 1: Xenophon in Alexander's campaigns
 
@@ -181,7 +181,7 @@ Yet even so, the evidence for a wider appreciation of the *Cyropaedia* in Alexan
 
 The only really 'safe' conclusion to be made is that Xenophon was a pretty prominent writer by the time of his death and it is nigh-impossible that Alexander could have somehow avoided his corpus entirely. Yet it is also nigh-impossible to concretely point to any evidence that Alexander directly and specifically drew on anything Xenophon had written. We can only speculate that certain things Alexander did *might* have been connected with something Xenophontic.
 
------ __145.2__ -----2022-02-18 15:31:24+08:00:
+----- __146.2__ -----2022-02-18 15:31:24+08:00:
 
 ### 2: Xenophon in Alexander historiography
 
@@ -207,7 +207,7 @@ And therein lies the broader question: why should we *want* to find evidence of 
 
 * Hugh Bowden, ['On Kissing and Making Up: Court Protocol and Historiography in Alexander the Great's "Experiment with Proskynesis"'](https://kclpure.kcl.ac.uk/portal/files/10596101/On_Kissing_and_Making_Up.pdf). *Bulletin of the Institute of Classical Studies*, 56:2 (2013), pp. 55-77
 
------ __145.3__ -----2022-02-22 08:33:17+08:00:
+----- __146.3__ -----2022-02-22 08:33:17+08:00:
 
 As with Xenophon, we legitimately cannot know, because we cannot definitively link any of Alexander's actions with the advice given in any specific text unless said text is specifically mentioned *and* we can prove that the quotation is genuine. After that we can at most speculatively suggest that Alexander *may* have had familiarity with certain texts based on certain behaviours and patterns of behaviour, and that has quite serious limits.
 
@@ -233,21 +233,21 @@ In terms of Homer and/or Achilles providing a model for Alexander's behaviour:
 
 An unfortunate reality of dealing with Alexander is that we essentially know nothing about him. Which sounds weird, but the fact is that with so many different sources saying so many different things, and all having their own merits and (considerably greater) flaws, it is nigh impossible to reconcile the accounts we have. In effect, we know too much to actually know anything. This effect is more pronounced in some areas than others, and I would suggest that Alexander's relationship to the Homeric epics is one of them.
 
-### 146: [LMAO! The look on Subaru's face says it all!](https://old.reddit.com/r/Hololive/comments/swb7dv/lmao_the_look_on_subarus_face_says_it_all/), submitted on 2022-02-19 22:23:41+08:00.
+### 147: [LMAO! The look on Subaru's face says it all!](https://old.reddit.com/r/Hololive/comments/swb7dv/lmao_the_look_on_subarus_face_says_it_all/), submitted on 2022-02-19 22:23:41+08:00.
 
------ __146.1__ -----2022-02-20 18:29:23+08:00:
+----- __147.1__ -----2022-02-20 18:29:23+08:00:
 
 Hm, would I use 'straight' to describe Flare...
 
-### 147: [Danchou is excited tonight](https://old.reddit.com/r/Hololive/comments/sx2ogy/danchou_is_excited_tonight/), submitted on 2022-02-20 22:41:45+08:00.
+### 148: [Danchou is excited tonight](https://old.reddit.com/r/Hololive/comments/sx2ogy/danchou_is_excited_tonight/), submitted on 2022-02-20 22:41:45+08:00.
 
------ __147.1__ -----2022-02-21 17:05:49+08:00:
+----- __148.1__ -----2022-02-21 17:05:49+08:00:
 
 Considering that Flare posted a 30-second video last night [literally titled "NoeFure TeeTee"](https://www.youtube.com/watch?v=I9nD2UC_qj8) I'd say that they're still as together as they've always been.
 
-### 148: [[Hobby Scuffles] Week of February 21, 2022](https://old.reddit.com/r/HobbyDrama/comments/sx32a1/hobby_scuffles_week_of_february_21_2022/), submitted on 2022-02-20 23:00:29+08:00.
+### 149: [[Hobby Scuffles] Week of February 21, 2022](https://old.reddit.com/r/HobbyDrama/comments/sx32a1/hobby_scuffles_week_of_february_21_2022/), submitted on 2022-02-20 23:00:29+08:00.
 
------ __148.1__ -----2022-02-25 11:57:59+08:00:
+----- __149.1__ -----2022-02-25 11:57:59+08:00:
 
 Also responding to /u/Periwinkle_Twinkles:
 
