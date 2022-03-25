@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-24
+date: 2022-03-25
 from: https://old.reddit.com/r/TrueReddit/comments/tk28o0/the_cyberdelusion_digital_threats_are_manageable/
 layout: post
 tags:
@@ -62,4 +62,13 @@ Madeleine K. Albright, the 64th U.S. secretary of state and the first woman to h
 \[SS\]
 
 “Democracy is not a dying cause; in fact, it is poised for a comeback.” With the sad news of former U.S. Secretary of State Madeleine K. Albright’s passing on Wednesday, revisit her final essay for Foreign Affairs here.
+
+### 166: [Why Democracy Stalled in the Middle East: Economic Despair and the Triumph of the China Model](https://old.reddit.com/r/geopolitics/comments/tnns9w/why_democracy_stalled_in_the_middle_east_economic/), submitted on 2022-03-25 22:58:51+08:00.
+
+----- __166.1__ -----2022-03-25 23:00:34+08:00:
+
+\[SS from the article by Amaney A. Jamal, Co-Founder and Co-Principal Investigator at Arab Barometer and Dean of the Princeton School of Public and International Affairs, and Michael Robbins, Director and Co-Principal Investigator at Arab Barometer\]
+
+"To understand why the Arab world’s ardor for democracy has faded, it is crucial to grasp that most of the people who took to the streets in 2011 were motivated not just by a desire for liberty but also by intense frustration with the material conditions of their lives. “Bread, freedom, and justice” was the protest slogan often heard in Cairo during the Egyptian uprising—and there is a reason bread comes first on the list. Egyptians and Tunisians saw economic considerations as the primary reason for the Arab Spring revolts in their countries, according to Arab Barometer surveys conducted in both places in 2011. The protesters were tired of political repression, but they were deeply angry about the meager opportunities that authoritarian systems afforded. The brief flowering of pro-democracy passions and movements failed to produce durable democratic governments. Perhaps more important, however, it also failed to produce the kind of economic change that people across the Middle East desperately craved.  
+Today, the region is plagued by the same issues that have dragged down its economic development for decades: high unemployment, especially among young people; low rates of participation in the labor force, especially among women; a lack of high-quality education; rising inequality; and rampant corruption."
 
