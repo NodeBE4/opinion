@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-25
+date: 2022-03-26
 from: https://twitter.com/realcaixia/status/1505611668444831746
 layout: post
 tags:
@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -113,7 +113,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 25: [2022-03-24 07:05:20+08:00 推文](https://twitter.com/realcaixia/status/1506769090471464964)
 
-这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br><br><video src="https://video.twimg.com/ext_tw_video/1506646360006795274/pu/vid/576x266/g67TFcY3KwIVv0pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506646360006795274/pu/img/TLmxHXHY6zgjrj8K.jpg"></video>
+这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br> <a href="https://twitter.com/Gorobina/status/1506646412213293070/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/Gorobina/status/1506646412213293070/video/1</a>
 
 ### 26: [2022-03-24 07:13:43+08:00 推文](https://twitter.com/realcaixia/status/1506771202748170242)
 
@@ -146,4 +146,16 @@ Re @wangguwei 我也是看得笑翻了。😄
 ### 33: [2022-03-25 07:24:40+08:00 推文](https://twitter.com/realcaixia/status/1507136344753119251)
 
 Re @kungat 是的。在大陆地区，尊者的所有信息都是被屏蔽的。
+
+### 34: [2022-03-25 23:17:05+08:00 推文](https://twitter.com/realcaixia/status/1507376030251638784)
+
+昨日#议报 发布了署名为“中国网民”的文章，传递出中国民间的呐喊。<br>作者回顾习上台近十年来倒行逆施的种种情况，指出习近平必须到期下台，否则社会将加速溃败，人民则再次回到水深火热之中。作者呼吁阻止习连任。<br>在中共的高压恐怖氛围下，中国民间仍有不畏强暴秉笔直书的文章辗转发到海外，实属不易。<br><br>《议报》: 中国网民: 祸国殃民的习近平必须下台<br> <a href="https://yibaochina.com/?p=245519" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245519</a>
+
+### 35: [2022-03-25 23:43:25+08:00 推文](https://twitter.com/realcaixia/status/1507382656635478021)
+
+昨日#议报发布了来自大陆的一篇诗作。这篇诗作为铁链女而写。<br>作者饱含深情，真挚而深沉地表达因铁链女的苦难与悲惨所产生的无法忘却无法放下的巨大而深重的心灵痛苦。<br>请细读这篇诗作，让我们与铁链女与作者共情。在中共极权统治下，身在大陆的每一位亲人朋友都有可能遭遇铁链女的悲惨命运。<br><br>《议报》: 诗歌：《我没有忘记》<br>当除夕来临<br>万家灯火通明<br>春晚一如既往地歌舞升平<br>爆竹声中一岁除<br>在欢歌笑语里<br>我却想起你的坎坷你的痛楚<br>你的话语含混不清<br>你的条理清晰无比<br>那些报告拼命想掩盖的<br>无非丑闻与罪恶<br>当谎言姗姗来迟<br>纷至沓来的往往都是堕落<br> <a href="https://yibaochina.com/?p=245511" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245511</a>
+
+### 36: [2022-03-26 00:34:35+08:00 推文](https://twitter.com/realcaixia/status/1507395533199056908)
+
+Re @curechina 毛早就说过他是马克思+秦始皇，60多年后习承毛，再加一个工具：信息技术大数据严密监视到每个人。禁心禁言禁食，2000多年不变，用以施“禁”的手段、工具、外在形式有了变化。自秦以来中国大陆2000多年，改朝换代，始终未能走出秦制。所以，还有一说：中国无历史。
 
