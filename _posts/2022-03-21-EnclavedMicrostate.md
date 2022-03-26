@@ -71,6 +71,10 @@ Is it just me or is there a gaping hole in the side of that grill? And more impo
 
 So from what you posted back when the Rushia bus went up, that was HKD40,000 – was it cheaper for a different bus model, or some kind of loyalty discount?
 
+----- __246.2__ -----2022-03-26 23:58:24+08:00:
+
+Ah, thanks for clearing it up!
+
 ### 247: [Tuesday Trivia: Women leaders! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tk1cvi/tuesday_trivia_women_leaders_this_thread_has/), submitted on 2022-03-22 20:01:16+08:00.
 
 ----- __247.1__ -----2022-03-22 23:09:20+08:00:
