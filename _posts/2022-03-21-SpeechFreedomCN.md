@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-03-24
+date: 2022-03-26
 from: https://twitter.com/SpeechFreedomCN/status/1506231017325182983
 layout: post
 tags:
@@ -30,4 +30,12 @@ Guizhou man Jian fined 500 RMB by police for saying on Weibo that a Yunnan count
 ### 4: [2022-03-24 11:10:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1506830662975766530)
 
 Jiangsu man Tang administratively detained by police for questioning the necessity and scientificity of Covid mass testing on Internet. China style mass testing for covid is controversial because a large crowd of people must gather in a small place.<br><img style="" src="https://pbs.twimg.com/media/FOikLKFXoAYsQ6B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOikMOpXEAok9hd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-03-26 12:03:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1507568776631361546)
+
+浙江省平阳县男子王某，因在朋友圈发布了两条内容称当地交警为“死交警”，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FOuIFigWYAQyptP?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOuIHiWXIAAyqC0?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOuIJ2hXoAwWKUh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-03-26 12:06:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1507569531526414338)
+
+Zhejiang man Wang detained for 5 days for "insulting" police in WeChat Moments. The exact words he used to "insult" police are equivalent to "damn police" in English.<br><img style="" src="https://pbs.twimg.com/media/FOuIXs3WYA0mzdT?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOuIaFZXoAgztse?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FOuIciKXEBAtRKe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
