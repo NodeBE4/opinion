@@ -276,3 +276,11 @@ Per SocialBlade: https://socialblade.com/youtube/channel/UCQYADFw7xEJ9oZSM5ZbqyB
 
 Luna hit 1m in November 2019, and fell below in February 2020; very nearly got back to 1m in September 2020, but then started falling again in November. This time last year she'd have been at 975k.
 
+----- __267.5__ -----2022-03-26 17:43:17+08:00:
+
+Kizuna AI.
+
+----- __267.6__ -----2022-03-26 18:23:09+08:00:
+
+Well, that's true after August 2020, but I'm not sure what caused the 2019 drop.
+
