@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-26
+date: 2022-03-27
 from: https://old.reddit.com/r/Disgaea/comments/titp4l/disgaea_6_dlcs_on_steam/
 layout: post
 tags:
@@ -34,6 +34,10 @@ Yep, we got very sleepy Calli all right.
 ----- __242.2__ -----2022-03-26 11:38:23+08:00:
 
 Hope she doesn't have it too bad and can get well soon; there seems to have been some indication that ID Gen 1 wanted to do a 3d anniversary live so this is especially unfortunate timing. Moona's health is the priority now of course.
+
+----- __242.3__ -----2022-03-27 02:53:02+08:00:
+
+Even bearing in mind the note that they aren't probably being actively promoted, or at least not until recently, I worry if there's going to be another ticking time bomb somewhere, particularly around Selen.
 
 ### 243: [My teacher has started saying “Idol meeting” instead of going to the bathroom and idk how to feel](https://old.reddit.com/r/Hololive/comments/tjcqr4/my_teacher_has_started_saying_idol_meeting/), submitted on 2022-03-21 22:12:34+08:00.
 
@@ -293,4 +297,20 @@ Well, that's true after August 2020, but I'm not sure what caused the 2019 drop.
 (tagging in /u/StarMagus)
 
 Activ8, the company that managed her, tried adding 3 new people in 2019, which didn't go over very well, and they eventually reneged and went back to just the original in early 2020. There are allegations  that the original was fired or quit, but officially she was actually working on music for a while while the others took over the streaming and videos side. She's now on an indefinite hiatus from Youtube but she's apparently doing an anime later this year, so not retired outright.
+
+----- __267.8__ -----2022-03-27 03:19:21+08:00:
+
+See the rest of the thread – she very much didn't.
+
+### 268: [Reine is my hero](https://old.reddit.com/r/Hololive/comments/tonv1q/reine_is_my_hero/), submitted on 2022-03-26 20:51:49+08:00.
+
+----- __268.1__ -----2022-03-27 03:13:28+08:00:
+
+Would you rather it just be called white?
+
+### 269: [You're stuck on a deserted island with the third talent in your flair](https://old.reddit.com/r/Hololive/comments/tox94a/youre_stuck_on_a_deserted_island_with_the_third/), submitted on 2022-03-27 00:38:26+08:00.
+
+----- __269.1__ -----2022-03-27 03:11:12+08:00:
+
+I am coming to terms with the reality of the inevitable.
 

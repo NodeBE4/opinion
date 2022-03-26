@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-26
+date: 2022-03-27
 from: https://twitter.com/realcaixia/status/1505611668444831746
 layout: post
 tags:
@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -113,7 +113,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 25: [2022-03-24 07:05:20+08:00 推文](https://twitter.com/realcaixia/status/1506769090471464964)
 
-这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br><br><video src="https://video.twimg.com/ext_tw_video/1506646360006795274/pu/vid/576x266/g67TFcY3KwIVv0pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506646360006795274/pu/img/TLmxHXHY6zgjrj8K.jpg"></video>
+这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br> <a href="https://twitter.com/Gorobina/status/1506646412213293070/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/Gorobina/status/1506646412213293070/video/1</a>
 
 ### 26: [2022-03-24 07:13:43+08:00 推文](https://twitter.com/realcaixia/status/1506771202748170242)
 
@@ -166,4 +166,20 @@ Re @curechina 毛早就说过他是马克思+秦始皇，60多年后习承毛，
 ### 38: [2022-03-26 04:40:53+08:00 推文](https://twitter.com/realcaixia/status/1507457514002124813)
 
 这是清零政策的最好注解。清零的实质是将所有人关进监狱。中共国不用盖监狱，监狱由被关的人们用高价买，中共国只要安电网，连看守、狱卒都省事了。<br><br>鲁  难: 小区封闭竟然架起了电网，不是逗你玩儿吧？<br><br><video src="https://video.twimg.com/ext_tw_video/1507185267412803584/pu/vid/720x902/0I___FNNf-yQvlzB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1507185267412803584/pu/img/EGx_cBA1f5MAMtKn.jpg"></video>
+
+### 39: [2022-03-27 02:37:02+08:00 推文](https://twitter.com/realcaixia/status/1507788737220124684)
+
+数字技术让中共极权统治增添一类严密监视和控制社会的统治工具，数字极权社会在大陆已经成为严酷的现实。<br>在大陆，数字技术控制全民：“健康码、行程码”；控制全党思想“打卡学习强国”；奴役民众最直接的是码农“996”；中共党用数字技术奴役党员干部：“白+黑”“5+2”，手机是上级抽查干部是否在岗的工具。<br><br>ZHANGDONG: 推荐《我们的未来-数字社会乌托邦》<br>毋庸置疑，数字技术改变了我们的生活。但是，数字化的每个进步给人类带来舒适方便的同时，也压缩了我们的生活空间。数字技术会不会把人类变成地球主人的同时，把人类变成数字的奴隶呢？<br>本书客观分析了以牺牲反思判断力为代价的充满扩张欲望的数字化发展过程，(1/2)<br><br><img style="" src="https://pbs.twimg.com/media/FOxgq3wXEAcnabU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-03-27 02:45:18+08:00 推文](https://twitter.com/realcaixia/status/1507790816055635972)
+
+北约领导人联合声明：我们呼吁所有国家，不以任何方式支持俄罗斯的战争努力 <a href="https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20220324-%E5%8C%97%E7%BA%A6%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E6%88%91%E4%BB%AC%E5%91%BC%E5%90%81%E6%89%80%E6%9C%89%E5%9B%BD%E5%AE%B6%EF%BC%8C%E4%B8%8D%E4%BB%A5%E4%BB%BB%E4%BD%95%E6%96%B9%E5%BC%8F%E6%94%AF%E6%8C%81%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E6%88%98%E4%BA%89%E5%8A%AA%E5%8A%9B" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20220324-%E5%8C%97%E7%BA%A6%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E6%88%91%E4%BB%AC%E5%91%BC%E5%90%81%E6%89%80%E6%9C%89%E5%9B%BD%E5%AE%B6%EF%BC%8C%E4%B8%8D%E4%BB%A5%E4%BB%BB%E4%BD%95%E6%96%B9%E5%BC%8F%E6%94%AF%E6%8C%81%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E6%88%98%E4%BA%89%E5%8A%AA%E5%8A%9B</a>
+
+### 41: [2022-03-27 02:58:55+08:00 推文](https://twitter.com/realcaixia/status/1507794243632480256)
+
+中共就是俄罗斯的帮凶，习是普京侵乌战争的共犯。习把中国拖到站队普京一边，未来全球制裁俄罗斯，也应同时制裁中共国。<br><br>ZHANGDONG: 像王吉贤这样公开反战的声音都被大陆网络封杀.中国无论是谁以什么形式反战,都被严厉禁止.战争初期我翻译的中文俄罗斯学者反战联署公开信发到微信上,也遭遇到秒杀,根本就是空中技术拦截,绝对不许大陆境内人知道俄罗斯侵略乌克兰战争的真相,这也说明了中国政府为什么屡屡在联合国投弃权票反对谴责俄罗斯.<br> <a href="https://twitter.com/dw_chinese/status/1507281138464825345" target="_blank" rel="noopener noreferrer">https://twitter.com/dw_chinese/status/1507281138464825345</a>
+
+### 42: [2022-03-27 03:15:19+08:00 推文](https://twitter.com/realcaixia/status/1507798367606349826)
+
+中共的历史其实就是打着崇高流氓无产者打家劫舍，怎么打到<br><br>李 庆: 中国“制度自信”的意义；这个制度的原生基因，经过历史传承完整的保留下来，时至今日依然发挥作用并且发扬光大。<br>中国“制度自信”的核心：数十年的实践证明，这个制度对人民的剥削和压迫是有效的。对此，统治者们充满信心。<br><br><video src="https://video.twimg.com/ext_tw_video/1505853666238119939/pu/vid/596x480/UpvJ9DKfGfYfzI6h.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505853666238119939/pu/img/POYOa7Kjb_hOwJSH.jpg"></video>
 
