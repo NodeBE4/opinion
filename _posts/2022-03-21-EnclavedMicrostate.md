@@ -260,3 +260,19 @@ I mean if you're dating Noel...
 
 Indeed, third VTuber ever to hit that mark.
 
+----- __267.2__ -----2022-03-26 16:48:07+08:00:
+
+I'm not crying you're crying
+
+More seriously, Calli has come a long way in a year and a half and I can't wait to see where she goes next. おめでとう!
+
+----- __267.3__ -----2022-03-26 17:00:50+08:00:
+
+I thought Luna hit 1m and then fell below, rather than 2m.
+
+----- __267.4__ -----2022-03-26 17:18:24+08:00:
+
+Per SocialBlade: https://socialblade.com/youtube/channel/UCQYADFw7xEJ9oZSM5ZbqyBw/monthly
+
+Luna hit 1m in November 2019, and fell below in February 2020; very nearly got back to 1m in September 2020, but then started falling again in November. This time last year she'd have been at 975k.
+
