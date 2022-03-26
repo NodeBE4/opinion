@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -182,4 +182,12 @@ Re @curechina 毛早就说过他是马克思+秦始皇，60多年后习承毛，
 ### 42: [2022-03-27 03:15:19+08:00 推文](https://twitter.com/realcaixia/status/1507798367606349826)
 
 中共的历史其实就是打着崇高流氓无产者打家劫舍，怎么打到<br><br>李 庆: 中国“制度自信”的意义；这个制度的原生基因，经过历史传承完整的保留下来，时至今日依然发挥作用并且发扬光大。<br>中国“制度自信”的核心：数十年的实践证明，这个制度对人民的剥削和压迫是有效的。对此，统治者们充满信心。<br><br><video src="https://video.twimg.com/ext_tw_video/1505853666238119939/pu/vid/596x480/UpvJ9DKfGfYfzI6h.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505853666238119939/pu/img/POYOa7Kjb_hOwJSH.jpg"></video>
+
+### 43: [2022-03-27 03:56:11+08:00 推文](https://twitter.com/realcaixia/status/1507808655122608128)
+
+简述中共历史：1921年建卢布党；毛写湖南农民运动考察报告后，用江湖黑帮抢劫敲诈掠夺起家；用“人民当家作主”口号蒙骗热血青年和贫苦民众加入；用延安整风残酷清洗中共内部升起毛太阳；用打内战夺政权；用打土豪分田地裹挟大批农民，从井冈呼啸山林打到北京金銮殿当皇帝。此谓中共光荣的“暴力革命”史。<br><br>李 庆: 中国“制度自信”的意义；这个制度的原生基因，经过历史传承完整的保留下来，时至今日依然发挥作用并且发扬光大。<br>中国“制度自信”的核心：数十年的实践证明，这个制度对人民的剥削和压迫是有效的。对此，统治者们充满信心。<br><br><video src="https://video.twimg.com/ext_tw_video/1505853666238119939/pu/vid/596x480/UpvJ9DKfGfYfzI6h.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1505853666238119939/pu/img/POYOa7Kjb_hOwJSH.jpg"></video>
+
+### 44: [2022-03-27 04:13:07+08:00 推文](https://twitter.com/realcaixia/status/1507812913591066628)
+
+Re @Wynter147666 是想写的，但被字数限制了。
 
