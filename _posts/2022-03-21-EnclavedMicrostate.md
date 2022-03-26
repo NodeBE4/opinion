@@ -254,3 +254,9 @@ Calli's almost certainly not aro: https://youtu.be/VZRLzZcAUKo?t=5462
 
 I mean if you're dating Noel...
 
+### 267: [🎉Mori Calliope💀 celebrates 2,000,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/toitq3/mori_calliope_celebrates_2000000_subscribers/), submitted on 2022-03-26 14:47:14+08:00.
+
+----- __267.1__ -----2022-03-26 16:38:12+08:00:
+
+Indeed, third VTuber ever to hit that mark.
+
