@@ -31,6 +31,10 @@ Yeah that's the thing – I don't get where people got the NDA narrative from be
 
 Yep, we got very sleepy Calli all right.
 
+----- __242.2__ -----2022-03-26 11:38:23+08:00:
+
+Hope she doesn't have it too bad and can get well soon; there seems to have been some indication that ID Gen 1 wanted to do a 3d anniversary live so this is especially unfortunate timing. Moona's health is the priority now of course.
+
 ### 243: [My teacher has started saying “Idol meeting” instead of going to the bathroom and idk how to feel](https://old.reddit.com/r/Hololive/comments/tjcqr4/my_teacher_has_started_saying_idol_meeting/), submitted on 2022-03-21 22:12:34+08:00.
 
 ----- __243.1__ -----2022-03-21 22:14:55+08:00:
