@@ -284,3 +284,9 @@ Kizuna AI.
 
 Well, that's true after August 2020, but I'm not sure what caused the 2019 drop.
 
+----- __267.7__ -----2022-03-26 19:35:41+08:00:
+
+(tagging in /u/StarMagus)
+
+Activ8, the company that managed her, tried adding 3 new people in 2019, which didn't go over very well, and they eventually reneged and went back to just the original in early 2020. There are allegations  that the original was fired or quit, but officially she was actually working on music for a while while the others took over the streaming and videos side. She's now on an indefinite hiatus from Youtube but she's apparently doing an anime later this year, so not retired outright.
+
