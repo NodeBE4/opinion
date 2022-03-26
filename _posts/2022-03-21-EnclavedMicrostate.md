@@ -65,9 +65,15 @@ Ah, that may well be then – I can't verify (easily) as I don't live in the rig
 
 Is it just me or is there a gaping hole in the side of that grill? And more importantly, if so then that hole has been there for months. If you're cooking at home then sure, if it ain't genuinely broke don't fix it, but it just feels so weird that an overtly social media-focussed company so prominently advertises that it's using damaged equipment.
 
-### 246: [Tuesday Trivia: Women leaders! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tk1cvi/tuesday_trivia_women_leaders_this_thread_has/), submitted on 2022-03-22 20:01:16+08:00.
+### 246: [Appearing like a comet, your diamond in the rough, it's the Suisei bus!](https://old.reddit.com/r/Hololive/comments/tk10jd/appearing_like_a_comet_your_diamond_in_the_rough/), submitted on 2022-03-22 19:41:12+08:00.
 
------ __246.1__ -----2022-03-22 23:09:20+08:00:
+----- __246.1__ -----2022-03-26 12:33:43+08:00:
+
+So from what you posted back when the Rushia bus went up, that was HKD40,000 – was it cheaper for a different bus model, or some kind of loyalty discount?
+
+### 247: [Tuesday Trivia: Women leaders! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tk1cvi/tuesday_trivia_women_leaders_this_thread_has/), submitted on 2022-03-22 20:01:16+08:00.
+
+----- __247.1__ -----2022-03-22 23:09:20+08:00:
 
 In my period of the late Qing, Dowager Empress Cixi probably stands out as the big case of a woman in a position of power. I've written about her a few times before and I'll throw some links in here, but I also want to specifically repost the mini biography post on her I wrote last May as part of our new Snoo unveilings. Unfortunately, as that was rather a long post, I've had to cut out the recommended reading section here, but the original post (which will be linked as well) will still have it for those interested.
 
@@ -96,27 +102,27 @@ In 1908, Cixi died less than 24 hours after the Guangxu Emperor, leading many to
 
 Cixi’s popular image has largely gravitated between two extremes: that of a power-hungry, Manchu-centric, reactionary despot; and that of a pan-Chinese, anti-foreign, feminist hero. Both are stereotypes that fail to capture the complex series of choices that she made amid a constantly changing backdrop of court authority within the Qing Empire and its place in international politics. Cixi was, without a doubt, often ruthless in how she handled her rivals, and her efforts were unable to prevent the collapse of the Qing state soon after her death. The extent of her direct authority over Qing policy was also limited, and so for the most part she exercised influence, rather than control. Yet under her auspices, the Qing underwent two periods of major recovery, and the Manchus as a minority developed a coherent group identity that survived the fall of the state that had created it. Cixi was, ultimately, only human: deeply flawed, yet not defined solely by those flaws.
 
-### 247: [Suisei just announced her 4th Anniversary Live, Selfish of a Rough Stone, on March 31st!](https://old.reddit.com/r/Hololive/comments/tk3jud/suisei_just_announced_her_4th_anniversary_live/), submitted on 2022-03-22 21:54:55+08:00.
+### 248: [Suisei just announced her 4th Anniversary Live, Selfish of a Rough Stone, on March 31st!](https://old.reddit.com/r/Hololive/comments/tk3jud/suisei_just_announced_her_4th_anniversary_live/), submitted on 2022-03-22 21:54:55+08:00.
 
------ __247.1__ -----2022-03-22 22:38:09+08:00:
+----- __248.1__ -----2022-03-22 22:38:09+08:00:
 
 But wait, Calli *is* Anemachi!
 
-### 248: [When did Dragons become a big staple of Chinese culture?](https://old.reddit.com/r/AskHistorians/comments/tk47gi/when_did_dragons_become_a_big_staple_of_chinese/), submitted on 2022-03-22 22:26:41+08:00.
+### 249: [When did Dragons become a big staple of Chinese culture?](https://old.reddit.com/r/AskHistorians/comments/tk47gi/when_did_dragons_become_a_big_staple_of_chinese/), submitted on 2022-03-22 22:26:41+08:00.
 
------ __248.1__ -----2022-03-22 22:44:17+08:00:
+----- __249.1__ -----2022-03-22 22:44:17+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 249: [Why are hololive models and face tracking so bad?](https://old.reddit.com/r/Hololive/comments/tkfvxh/why_are_hololive_models_and_face_tracking_so_bad/), submitted on 2022-03-23 07:11:16+08:00.
+### 250: [Why are hololive models and face tracking so bad?](https://old.reddit.com/r/Hololive/comments/tkfvxh/why_are_hololive_models_and_face_tracking_so_bad/), submitted on 2022-03-23 07:11:16+08:00.
 
------ __249.1__ -----2022-03-23 14:11:10+08:00:
+----- __250.1__ -----2022-03-23 14:11:10+08:00:
 
 Heads up, the link seems to be broken.
 
-### 250: [How did the political experience of Egypt, Syria, and Iraq under European imperialism contribute to their later rejection of parliamentary democracy in favor of dictatorships?](https://old.reddit.com/r/AskHistorians/comments/tki87k/how_did_the_political_experience_of_egypt_syria/), submitted on 2022-03-23 09:07:07+08:00.
+### 251: [How did the political experience of Egypt, Syria, and Iraq under European imperialism contribute to their later rejection of parliamentary democracy in favor of dictatorships?](https://old.reddit.com/r/AskHistorians/comments/tki87k/how_did_the_political_experience_of_egypt_syria/), submitted on 2022-03-23 09:07:07+08:00.
 
------ __250.1__ -----2022-03-23 09:32:24+08:00:
+----- __251.1__ -----2022-03-23 09:32:24+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -124,27 +130,27 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 251: [anyone else notice something new in the reflect MV ⬇️🦷👀](https://old.reddit.com/r/Hololive/comments/tkif6l/anyone_else_notice_something_new_in_the_reflect_mv/), submitted on 2022-03-23 09:16:57+08:00.
+### 252: [anyone else notice something new in the reflect MV ⬇️🦷👀](https://old.reddit.com/r/Hololive/comments/tkif6l/anyone_else_notice_something_new_in_the_reflect_mv/), submitted on 2022-03-23 09:16:57+08:00.
 
------ __251.1__ -----2022-03-23 09:32:02+08:00:
+----- __252.1__ -----2022-03-23 09:32:02+08:00:
 
 Isn't it such a coincidence that Alt Gura is the only one of the two with bottom teeth...
 
-### 252: [What if WW2 never happened?](https://old.reddit.com/r/AskHistorians/comments/tkijn2/what_if_ww2_never_happened/), submitted on 2022-03-23 09:23:17+08:00.
+### 253: [What if WW2 never happened?](https://old.reddit.com/r/AskHistorians/comments/tkijn2/what_if_ww2_never_happened/), submitted on 2022-03-23 09:23:17+08:00.
 
------ __252.1__ -----2022-03-23 09:32:13+08:00:
+----- __253.1__ -----2022-03-23 09:32:13+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 253: [This station ad creeped me out on a narrow corridor... Who of you mfers did that lol (Hong Kong)](https://old.reddit.com/r/Hololive/comments/tksrzx/this_station_ad_creeped_me_out_on_a_narrow/), submitted on 2022-03-23 20:26:28+08:00.
+### 254: [This station ad creeped me out on a narrow corridor... Who of you mfers did that lol (Hong Kong)](https://old.reddit.com/r/Hololive/comments/tksrzx/this_station_ad_creeped_me_out_on_a_narrow/), submitted on 2022-03-23 20:26:28+08:00.
 
------ __253.1__ -----2022-03-24 01:41:42+08:00:
+----- __254.1__ -----2022-03-24 01:41:42+08:00:
 
 Oh *now* I get why the main run of posters is at Wan Chai, because there is literally a Star Street (星街) there.
 
-### 254: [Is there any connective tissue between the European Spring 48' and the Taiping Rebellion in China? Famines, economic forces or technological shifts?](https://old.reddit.com/r/AskHistorians/comments/tkunbs/is_there_any_connective_tissue_between_the/), submitted on 2022-03-23 22:04:00+08:00.
+### 255: [Is there any connective tissue between the European Spring 48' and the Taiping Rebellion in China? Famines, economic forces or technological shifts?](https://old.reddit.com/r/AskHistorians/comments/tkunbs/is_there_any_connective_tissue_between_the/), submitted on 2022-03-23 22:04:00+08:00.
 
------ __254.1__ -----2022-03-24 01:25:00+08:00:
+----- __255.1__ -----2022-03-24 01:25:00+08:00:
 
 Not to any degree that can be meaningfully proven. The God-Worshipping Society predated the 1848 revolutions and in any event operated in a relatively hinterland region, a few degrees of separation from potential major changes taking place on the coast. See past answers such as these for more:
 
@@ -154,55 +160,55 @@ https://www.reddit.com/r/AskHistorians/comments/faa3ai/european_interference_in_
 
 There is somewhat of a literary connection in that Marx commented on the Taiping as well as the 1848 revolutions, with one piece in the 1850s and one in the 1860s, but there is, as it stands, no published scholarship analysing these specific writings.
 
-### 255: [Why do you guys like virtual youtubers so much?](https://old.reddit.com/r/Hololive/comments/tl41se/why_do_you_guys_like_virtual_youtubers_so_much/), submitted on 2022-03-24 01:57:56+08:00.
+### 256: [Why do you guys like virtual youtubers so much?](https://old.reddit.com/r/Hololive/comments/tl41se/why_do_you_guys_like_virtual_youtubers_so_much/), submitted on 2022-03-24 01:57:56+08:00.
 
------ __255.1__ -----2022-03-24 02:08:46+08:00:
+----- __256.1__ -----2022-03-24 02:08:46+08:00:
 
 For me, as someone who's mainly a Hololive watcher rather than a general VTuber watcher, I think the draw is that there's such a variety of content, as well as the sense that it's not just a load of individual creators but a whole community. This isn't something necessarily inherent to VTubing or impossible with traditional videos and streaming, but it might be one of the big reasons why.
 
 Another aspect arguably is that because Hololive is a thing you have to audition or be scouted for, it's just a really dense concentration of especially dedicated and talented people. Again, it's more a feature of Hololive in particular than VTubing in general.
 
-### 256: [First Patient to Communicate Via Brain Implant Asks to Hear TOOL Album](https://old.reddit.com/r/nottheonion/comments/tlkufr/first_patient_to_communicate_via_brain_implant/), submitted on 2022-03-24 07:25:13+08:00.
+### 257: [First Patient to Communicate Via Brain Implant Asks to Hear TOOL Album](https://old.reddit.com/r/nottheonion/comments/tlkufr/first_patient_to_communicate_via_brain_implant/), submitted on 2022-03-24 07:25:13+08:00.
 
------ __256.1__ -----2022-03-24 19:12:26+08:00:
+----- __257.1__ -----2022-03-24 19:12:26+08:00:
 
 Not exactly; only one particular person actually has access to this model. The 'original' VTuber, Kizuna AI, was conceived of as more of a Vocaloid-type deal, but modern VTubers are, across the board, almost always one character to one IRL person.
 
------ __256.2__ -----2022-03-24 19:13:59+08:00:
+----- __257.2__ -----2022-03-24 19:13:59+08:00:
 
 No: the comment was posted a full hour before the announcement.
 
-### 257: [The Mama's/Papa's of HoloID Generation 3 Other Works! (Multiple Pages)](https://old.reddit.com/r/Hololive/comments/tly4uk/the_mamaspapas_of_holoid_generation_3_other_works/), submitted on 2022-03-24 12:59:22+08:00.
+### 258: [The Mama's/Papa's of HoloID Generation 3 Other Works! (Multiple Pages)](https://old.reddit.com/r/Hololive/comments/tly4uk/the_mamaspapas_of_holoid_generation_3_other_works/), submitted on 2022-03-24 12:59:22+08:00.
 
------ __257.1__ -----2022-03-24 19:45:34+08:00:
+----- __258.1__ -----2022-03-24 19:45:34+08:00:
 
 ...the butt lady?
 
------ __257.2__ -----2022-03-24 20:51:29+08:00:
+----- __258.2__ -----2022-03-24 20:51:29+08:00:
 
 Ah, naruhodo ne.
 
 Thing is, if you asked me which of Council 'the butt lady' drew, I'm not entirely sure Kronii would have been my first answer.
 
-### 258: [I’m trying to find more of these but I don’t know what they are…I tried looking up yogourt drink but no dice](https://old.reddit.com/r/ChineseTranslation/comments/tmcvrn/im_trying_to_find_more_of_these_but_i_dont_know/), submitted on 2022-03-24 22:15:48+08:00.
+### 259: [I’m trying to find more of these but I don’t know what they are…I tried looking up yogourt drink but no dice](https://old.reddit.com/r/ChineseTranslation/comments/tmcvrn/im_trying_to_find_more_of_these_but_i_dont_know/), submitted on 2022-03-24 22:15:48+08:00.
 
------ __258.1__ -----2022-03-24 23:12:58+08:00:
+----- __259.1__ -----2022-03-24 23:12:58+08:00:
 
 I've not encountered this specific brand before, but it seems to be some sort of knockoff of [Yakult](https://en.wikipedia.org/wiki/Yakult). This brand seems to identify itself as 吾尚益菌多 *wu2 chang2 yi4 jun1 duo1*. This I suspect might be  a homophonic play on 无常 *wu2chang2* ('variable' but also 'unusual' if the two characters are read separately and literally), followed by a knockoff spin on 益力多, which is how Yakult is branded in Hong Kong.
 
------ __258.2__ -----2022-03-25 10:24:26+08:00:
+----- __259.2__ -----2022-03-25 10:24:26+08:00:
 
 Ha, a fair point that some googling might have revealed the nature of the brand name. That said, no, it is very obviously a knockoff. 益力多 -> 益菌多 is not something that happens by pure coincidence.
 
-### 259: [Would the Native Americans have been better off under British rule?](https://old.reddit.com/r/AskHistorians/comments/tn8vys/would_the_native_americans_have_been_better_off/), submitted on 2022-03-25 07:45:33+08:00.
+### 260: [Would the Native Americans have been better off under British rule?](https://old.reddit.com/r/AskHistorians/comments/tn8vys/would_the_native_americans_have_been_better_off/), submitted on 2022-03-25 07:45:33+08:00.
 
------ __259.1__ -----2022-03-25 10:52:26+08:00:
+----- __260.1__ -----2022-03-25 10:52:26+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 260: [If 'Ancient Greece' was a very long period over a large geographic area, why does it seem like everything I heard about it in highschool and university come from like one generation of people in just Athens and Sparta?](https://old.reddit.com/r/AskHistorians/comments/tncbed/if_ancient_greece_was_a_very_long_period_over_a/), submitted on 2022-03-25 10:48:35+08:00.
+### 261: [If 'Ancient Greece' was a very long period over a large geographic area, why does it seem like everything I heard about it in highschool and university come from like one generation of people in just Athens and Sparta?](https://old.reddit.com/r/AskHistorians/comments/tncbed/if_ancient_greece_was_a_very_long_period_over_a/), submitted on 2022-03-25 10:48:35+08:00.
 
------ __260.1__ -----2022-03-25 10:52:16+08:00:
+----- __261.1__ -----2022-03-25 10:52:16+08:00:
 
 Hi there! You’ve asked a question along the lines of ‘why didn’t I learn about X’. We’re happy to let this question stand, but there are a variety of reasons why you may find it hard to get a good answer to this question on /r/AskHistorians.
 
@@ -214,9 +220,15 @@ Instead of asking "Why haven't I learned about event ...", consider asking "What
 
 Thank you!
 
-### 261: [What was the dumbest reason a Youtuber was cancelled on the internet?](https://old.reddit.com/r/AskReddit/comments/tnmitn/what_was_the_dumbest_reason_a_youtuber_was/), submitted on 2022-03-25 21:58:17+08:00.
+### 262: [Can I add Vestianium in the concoction?](https://old.reddit.com/r/Hololive/comments/tnlw9u/can_i_add_vestianium_in_the_concoction/), submitted on 2022-03-25 21:26:09+08:00.
 
------ __261.1__ -----2022-03-26 02:10:32+08:00:
+----- __262.1__ -----2022-03-26 12:21:23+08:00:
+
+Surely Fauna takes the cake for EN then.
+
+### 263: [What was the dumbest reason a Youtuber was cancelled on the internet?](https://old.reddit.com/r/AskReddit/comments/tnmitn/what_was_the_dumbest_reason_a_youtuber_was/), submitted on 2022-03-25 21:58:17+08:00.
+
+----- __263.1__ -----2022-03-26 02:10:32+08:00:
 
 So, a couple of points of clarification:
 
@@ -224,9 +236,21 @@ Firstly, while it's common to say Rushia violated an NDA, that is not actually u
 
 The main reason I bring this up is that according to the drama Youtuber whom she sent those emails to, she'd been in contact since at least November to vent about issues she'd been having, and there are claims that she had already been warned by Cover over that incident. So what happened wasn't that she impulsively acted and inadvertently doxxed people and got fired on first infraction, but she seems to have actually been quite blasé about infosec and did the exact same thing a second time despite being warned.
 
-### 262: [Stolen from r/nyctakeout](https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/), submitted on 2022-03-26 00:48:31+08:00.
+### 264: [Stolen from r/nyctakeout](https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/), submitted on 2022-03-26 00:48:31+08:00.
 
------ __262.1__ -----2022-03-26 01:03:24+08:00:
+----- __264.1__ -----2022-03-26 01:03:24+08:00:
 
 I'll concur with the other comments; while rather substantial none of these have any gratuitous stuff that makes it basically impossible to properly eat, like chocolate down the outside of the glass. In fact to be honest these are kind of normal looking (within reason) by ice cream standards.
+
+### 265: [I remembered a post about scythes being asexual weapons so i drew an asexual reaper!](https://old.reddit.com/r/aaaaaaacccccccce/comments/tnwr2f/i_remembered_a_post_about_scythes_being_asexual/), submitted on 2022-03-26 03:14:40+08:00.
+
+----- __265.1__ -----2022-03-26 11:58:12+08:00:
+
+Calli's almost certainly not aro: https://youtu.be/VZRLzZcAUKo?t=5462
+
+### 266: [come give flare a hug](https://old.reddit.com/r/Hololive/comments/toa7y8/come_give_flare_a_hug/), submitted on 2022-03-26 09:06:50+08:00.
+
+----- __266.1__ -----2022-03-26 12:42:31+08:00:
+
+I mean if you're dating Noel...
 
