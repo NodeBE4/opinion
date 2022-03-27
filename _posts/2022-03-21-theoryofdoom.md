@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-25
+date: 2022-03-27
 from: https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/
 layout: post
 tags:
@@ -133,6 +133,14 @@ It turns out that commercial aircraft have really excellent air filtration syste
 
 On trains, busses or in other contexts, the same can't be said.  But for planes, those costs are incurred without any added benefit to consumers whatsoever.
 
+----- __195.3__ -----2022-03-28 00:02:33+08:00:
+
+It is safe to go "maskless" regardless of whether you are vaccinated.  There is not now, nor has there ever been, any evidence to indicate that wearing a mask reduces COVID transmissibility or susceptibility to infection.  That politically driven narrative is among the most scientifically irresponsible lies to have emanated from the so called field of "public health."
+
+----- __195.4__ -----2022-03-28 00:07:14+08:00:
+
+If you ever see that happening, DM via modmail and it will be addressed.
+
 ### 196: [New 'Stealth Omicron' Could Dominate COVID Cases In Chicago Soon](https://old.reddit.com/r/CoronavirusIllinois/comments/tmi0pb/new_stealth_omicron_could_dominate_covid_cases_in/), submitted on 2022-03-24 23:41:33+08:00.
 
 ----- __196.1__ -----2022-03-27 23:35:45+08:00:
@@ -150,4 +158,30 @@ Do not induce malicious bots to post spam.
 For too long, we have allowed reckless use of adjectives to imprecisely and improperly characterize data that it is obviously not understood. Mindless use of adjectives to characterize data in a vague and unsupported way is no longer going to be permitted. 
 
 Particularly where, as here, those characterizations are used in connection with post hoc speculation.
+
+### 198: [Unofficial Daily Update for 2022-03-25. 1309 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tntvxr/unofficial_daily_update_for_20220325_1309_new/), submitted on 2022-03-26 02:00:20+08:00.
+
+----- __198.1__ -----2022-03-27 23:40:09+08:00:
+
+"[V]ery possible."  So you say.
+
+----- __198.2__ -----2022-03-27 23:42:26+08:00:
+
+Arwady is a mathematically illiterate political hack who demonstrates no indication whatsoever she is capable of performing any aspect of her job's functions.
+
+----- __198.3__ -----2022-03-27 23:54:02+08:00:
+
+These daily updates have ceased to be useful, to the limited extent they ever were.  It is exhausting to see mindless speculation about what isolated events mean, when data are viewed at *this* level of resolution.
+
+In the first instance, whatever utility viewing this data initially demonstrated was severely undermined by, among other things, the very nature of what it reflects (as compared to what it does not reflect).  Based on global trends alone, no competent epidemiologist can continue to claim that COVID will not become endemic.  The sole remaining question is when, politically, stating that recognition becomes feasible.  
+
+Further, vaccines are imperfect but remain the best available option to prevent hospitalization for adults who have not been infected.  Proposed alternatives of any kind (other than ventilation/HVAC filtration improvements) lack any empirical support whatsoever, as I and numerous others have repeatedly explained.  
+
+Moreover, to the extent people do not want a vaccine and thereafter become hospitalized, the remedy is outpatient care, which the FDA has remarkably acknowledged is feasible more than six fiscal quarters too late.
+
+### 199: [Will Illinois re-instate mask mandates?](https://old.reddit.com/r/CoronavirusIllinois/comments/tpm6wt/will_illinois_reinstate_mask_mandates/), submitted on 2022-03-27 23:25:49+08:00.
+
+----- __199.1__ -----2022-03-27 23:39:15+08:00:
+
+Removed.  This discussion is better situated in the context of a empirical evidence, including for your question's implication that COVID "cases" are rising.
 
