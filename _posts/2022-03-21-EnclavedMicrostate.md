@@ -308,9 +308,19 @@ See the rest of the thread – she very much didn't.
 
 Would you rather it just be called white?
 
+----- __268.2__ -----2022-03-27 11:57:07+08:00:
+
+Actually 'pedantic' is an adjective, someone who is pedantic is a pedant.
+
 ### 269: [You're stuck on a deserted island with the third talent in your flair](https://old.reddit.com/r/Hololive/comments/tox94a/youre_stuck_on_a_deserted_island_with_the_third/), submitted on 2022-03-27 00:38:26+08:00.
 
 ----- __269.1__ -----2022-03-27 03:11:12+08:00:
 
 I am coming to terms with the reality of the inevitable.
+
+### 270: [I present to you, reine, nerei, reirei, ineine (nene was already taken by nene)](https://old.reddit.com/r/Hololive/comments/tp0ttm/i_present_to_you_reine_nerei_reirei_ineine_nene/), submitted on 2022-03-27 03:25:22+08:00.
+
+----- __270.1__ -----2022-03-27 12:32:31+08:00:
+
+Anuaf just hits different.
 

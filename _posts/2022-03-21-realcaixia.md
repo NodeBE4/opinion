@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -113,7 +113,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 25: [2022-03-24 07:05:20+08:00 推文](https://twitter.com/realcaixia/status/1506769090471464964)
 
-这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br><br><video src="https://video.twimg.com/ext_tw_video/1506646360006795274/pu/vid/576x266/g67TFcY3KwIVv0pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1506646360006795274/pu/img/TLmxHXHY6zgjrj8K.jpg"></video>
+这就是英雄的乌克兰人民！这样的人民，任何侵略者休想打赢战争！<br><br>safarier03: 面对疯狂的俄罗斯侵略军，赤手空拳的乌克兰人和记者们毫无惧色，他们唱着乌克兰国歌手持拍摄设备顶着步枪向前，没有人后退。<br> <a href="https://twitter.com/Gorobina/status/1506646412213293070/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/Gorobina/status/1506646412213293070/video/1</a>
 
 ### 26: [2022-03-24 07:13:43+08:00 推文](https://twitter.com/realcaixia/status/1506771202748170242)
 
@@ -190,4 +190,8 @@ Re @curechina 毛早就说过他是马克思+秦始皇，60多年后习承毛，
 ### 44: [2022-03-27 04:13:07+08:00 推文](https://twitter.com/realcaixia/status/1507812913591066628)
 
 Re @Wynter147666 是想写的，但被字数限制了。
+
+### 45: [2022-03-27 12:24:06+08:00 推文](https://twitter.com/realcaixia/status/1507936473449840640)
+
+推荐：<br>网传朱镕基上书九条意见 条条指向习；拜登重磅讲话：不能让普京继续掌权；乌克兰人不好惹  俄军释放掳走的乌克兰市长；形势严峻  中国经济全面恶化（... <a href="https://youtu.be/eDPrL6npfvw" target="_blank" rel="noopener noreferrer">https://youtu.be/eDPrL6npfvw</a>
 
