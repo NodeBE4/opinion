@@ -71,11 +71,15 @@ Our CMP Dictionary is a very necessary parsing of the esoteric discourse of the 
 
 Re Translation: "I read stuff." 2/2
 
-### 15: [2022-03-27 10:24:49+08:00 推文](https://twitter.com/JunMai_Beijing/status/1507906456825352198)
+### 15: [2022-03-27 00:42:49+08:00 推文](https://twitter.com/ZeyiYang/status/1507759990320336911)
+
+RT Zeyi Yang 杨泽毅<br>From Chinese journalist Du Qiang, who failed to go near the MU5735 crash site to report because of police deterrence<br><img style="" src="https://pbs.twimg.com/media/FOyjuDrWYAIUNxA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-03-27 10:24:49+08:00 推文](https://twitter.com/JunMai_Beijing/status/1507906456825352198)
 
 RT Jun Mai<br>"Beijing realised after last week’s Xi-Biden talks that the US will not give China an easy way out [on Ukraine], so it is even more important for China to rally support for its position from other countries" said Yun Sun with Stimson Centre. <a href="https://www.scmp.com/news/china/diplomacy/article/3171859/under-pressure-west-ukraine-china-looks-developing-nations?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3171859" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/diplomacy/article/3171859/under-pressure-west-ukraine-china-looks-developing-nations?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3171859</a>
 
-### 16: [2022-03-27 10:28:44+08:00 推文](https://twitter.com/cnmediaproject/status/1507907440842805254)
+### 17: [2022-03-27 10:28:44+08:00 推文](https://twitter.com/cnmediaproject/status/1507907440842805254)
 
 The phrase "seeking progress in stability" tops the People's Daily Online today. Read about this recently trending phrase in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/</a><br><img style="" src="https://pbs.twimg.com/media/FO0p0bkaMAAuYJe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

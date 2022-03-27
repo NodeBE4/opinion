@@ -324,3 +324,9 @@ I am coming to terms with the reality of the inevitable.
 
 Anuaf just hits different.
 
+### 271: [I would like to know why the last Chinese dynasty had their male hair style , shaved with long hair. I understand the long hair part but why shave the forehead ?](https://old.reddit.com/r/AskHistorians/comments/tp3wvc/i_would_like_to_know_why_the_last_chinese_dynasty/), submitted on 2022-03-27 04:55:17+08:00.
+
+----- __271.1__ -----2022-03-27 15:07:34+08:00:
+
+More may of course be said, but I discuss the Qing queue edict in detail [here](https://reddit.com/r/AskHistorians/comments/hieo21/tuesday_trivia_a_woman_who_cuts_her_hair_is_about/fwh873t/?context=999).
+
