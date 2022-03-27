@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-24
+date: 2022-03-25
 from: https://old.reddit.com/r/ActiveMeasures/comments/titwwg/fyi_lrlourpresident_mod_of_subreddits_like/
 layout: post
 tags:
@@ -132,4 +132,22 @@ So it's not enough to just say "masks on airlines!  Because we think they matter
 It turns out that commercial aircraft have really excellent air filtration systems.  This is necessary, because the air you breathe on a plane is recycled after being filtered through medical-grade air purification methods that are vastly more effective than any commercially available mask.  Air is cycled through the cabin at rates that prevent any aerosolized viral material from accumulating in the cabin, which is the primary modality of infection.  
 
 On trains, busses or in other contexts, the same can't be said.  But for planes, those costs are incurred without any added benefit to consumers whatsoever.
+
+### 196: [New 'Stealth Omicron' Could Dominate COVID Cases In Chicago Soon](https://old.reddit.com/r/CoronavirusIllinois/comments/tmi0pb/new_stealth_omicron_could_dominate_covid_cases_in/), submitted on 2022-03-24 23:41:33+08:00.
+
+----- __196.1__ -----2022-03-27 23:35:45+08:00:
+
+Permanently banned for posting COVID misinformation.
+
+### 197: [Unofficial Daily Update for 2022-03-24. 1723 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tmrwfi/unofficial_daily_update_for_20220324_1723_new/), submitted on 2022-03-25 02:00:21+08:00.
+
+----- __197.1__ -----2022-03-27 23:26:41+08:00:
+
+Do not induce malicious bots to post spam.
+
+----- __197.2__ -----2022-03-27 23:31:51+08:00:
+
+For too long, we have allowed reckless use of adjectives to imprecisely and improperly characterize data that it is obviously not understood. Mindless use of adjectives to characterize data in a vague and unsupported way is no longer going to be permitted. 
+
+Particularly where, as here, those characterizations are used in connection with post hoc speculation.
 

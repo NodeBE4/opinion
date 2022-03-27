@@ -81,7 +81,7 @@ Re @wangguwei 我也是看得笑翻了。😄
 
 ### 17: [2022-03-22 23:30:20+08:00 推文](https://twitter.com/realcaixia/status/1506292197309796358)
 
-悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。<br><br>Susan 韓: 为MU5735航班上的132位乘客<br>机组成员<br>以及他们的家人们祈祷🙏🙏🙏<br>愿有奇迹<br>愿逝者安息<br>愿生者坚强<br>🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏<br>下图为机组人员<br><br><img style="" src="https://pbs.twimg.com/media/FObPZJSVQA0_S9a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+悼念所有空難者🙏🙏🥀🥀🥀願這類的悲劇不再發生。 <a href="https://twitter.com/susanha70016730/status/1506119159830093829" target="_blank" rel="noopener noreferrer">https://twitter.com/susanha70016730/status/1506119159830093829</a>
 
 ### 18: [2022-03-22 23:33:52+08:00 推文](https://twitter.com/realcaixia/status/1506293088326664198)
 
@@ -194,4 +194,12 @@ Re @Wynter147666 是想写的，但被字数限制了。
 ### 45: [2022-03-27 12:24:06+08:00 推文](https://twitter.com/realcaixia/status/1507936473449840640)
 
 推荐：<br>网传朱镕基上书九条意见 条条指向习；拜登重磅讲话：不能让普京继续掌权；乌克兰人不好惹  俄军释放掳走的乌克兰市长；形势严峻  中国经济全面恶化（... <a href="https://youtu.be/eDPrL6npfvw" target="_blank" rel="noopener noreferrer">https://youtu.be/eDPrL6npfvw</a>
+
+### 46: [2022-03-27 22:37:18+08:00 推文](https://twitter.com/realcaixia/status/1508090792677679113)
+
+Re @Kevin86519159 @YouTube 我是现场直接听过朱镕基讲话的。朱从上午9点一直讲到中午近1点，中间休息15分钟。朱讲数字信手拈来，极为清楚。我亲眼见他点名几个地方官，地方官瞠目结舌答不出来。朱讲问题直接、犀利、不打太极拳。朱50年代被打右派，大概即是因言获罪，当了总理也没改过。“江山好改本性难移”，骨子里的东西无法改变
+
+### 47: [2022-03-27 23:13:58+08:00 推文](https://twitter.com/realcaixia/status/1508100021136277509)
+
+Re @haljRGM6dMGMgNU @YouTube 你真能造谣！
 
