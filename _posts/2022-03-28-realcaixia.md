@@ -23,3 +23,27 @@ title: 'Twitter @蔡霞: 2022-03-28~2022-04-03'
 
 Re @wangjia20150337 只能说明你理解力不够，你被中共极权洗脑中毒太深。我以前也是被中共极权意识形态洗脑，中毒很深的受骗者。现在我觉醒了。我反中共极权统治，我不反华。中共与中华是两回事。
 
+### 3: [2022-03-28 07:53:42+08:00 推文](https://twitter.com/realcaixia/status/1508230814189957126)
+
+老灯这期详细说了朱镕基9条意见。有兴趣的可以听听。<br>昨天中南海失火原因，华尔街日报报导的中共元老异动，朱镕基最新上书的内容，中共二十大筹备内幕。老灯开讲第28期 <a href="https://youtu.be/ZnhfQSj0Vio" target="_blank" rel="noopener noreferrer">https://youtu.be/ZnhfQSj0Vio</a>
+
+### 4: [2022-03-28 08:20:36+08:00 推文](https://twitter.com/realcaixia/status/1508237584694222852)
+
+哈哈。海派文化幽默诙谐。（一)<br><br>鲁  难: 上海毕竟是个文化底蕴深厚的城市，上海人的创作激情总会时不时的迸发出来一下子。<br><br><img style="" src="https://pbs.twimg.com/media/FO3sd23WUAIly9y?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO3sd24XoAEDpi_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO3sd21XoAME0Q5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO3sd26XEAkrk0-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-03-28 08:21:23+08:00 推文](https://twitter.com/realcaixia/status/1508237781235085317)
+
+哈哈，海派文化幽默诙谐。（二）<br><br>鲁  难: 上海文化底蕴深厚，上海人的故事每天都不同。<br><br><img style="" src="https://pbs.twimg.com/media/FO3s4NnXEAQWjLT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO3s4NoXMAcDY5T?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO3s4NsXMAECDN1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO3s4N1XsAIZBlP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-03-28 09:24:48+08:00 推文](https://twitter.com/realcaixia/status/1508253739085352968)
+
+#议报 发布练子俊文章，特别推荐：<br>文章分析习当局顽固继续高度政治化的“清零”政策，对大陆官僚体系超长时间超负荷的碾压，使官僚体系行为越来越偏离公共行政与公共管理本身的价值；并越来越畸形化为表演“政治忠诚”。这已经并还将制造更多的人道灾难，而民众反抗也将更烈。 <a href="https://yibaochina.com/?p=245533" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245533</a>
+
+### 7: [2022-03-28 09:58:15+08:00 推文](https://twitter.com/realcaixia/status/1508262157481304065)
+
+Re @pqdsb520 你眼里除了钱就没有别的东西，脑子里除了钱就没有别的念头，你真可怜又可悲还可鄙。
+
+### 8: [2022-03-28 10:11:24+08:00 推文](https://twitter.com/realcaixia/status/1508265467445661698)
+
+中共公开用司法手段抢夺民企资产已经不是第一次了。现在中共统治集团越来越缺钱，他们会大量采用这种手段，公开而疯狂地进行抢劫。<br><br>Yaxue Cao: How the Chinese govt robs a private company blind: <br><br>Step 1 - Put #SunDawu &amp; his whole clan in jail<br>Step 2 - “Auction” off #DawuGroup<br><br>The court’s estimated value of Dawu assets is 680 million RMB, while Dawu’s own estimate is 5.1 billion. @ByChunHan @JChengWSJ @ChuBailiang<br> <a href="https://twitter.com/SunYuanping/status/1508227895579201542" target="_blank" rel="noopener noreferrer">https://twitter.com/SunYuanping/status/1508227895579201542</a>
+
