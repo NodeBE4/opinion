@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-03-28
+date: 2022-03-29
 from: https://twitter.com/HeQinglian/status/1508135707226824707
 layout: post
 tags:
@@ -58,4 +58,76 @@ Re @Rainding45 采访中说了，他把战争交给乌克兰的将军们了。
 ### 11: [2022-03-28 09:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1508257211067383810)
 
 Re @JianglinLi @Wu_Zhi @david_david1968 “S” 本是美国左派为它“哭泣”了60多年的彩虹国家。
+
+### 12: [2022-03-28 19:56:54+08:00 推文](https://twitter.com/HeQinglian/status/1508412813794021379)
+
+我的共产主义测试得分显示我是 非共产主义者 (14%)。 <a href="https://www.idrlabs.com/cn/communism/14/result.php" target="_blank" rel="noopener noreferrer">https://www.idrlabs.com/cn/communism/14/result.php</a>
+
+### 13: [2022-03-28 19:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1508413175124959232)
+
+Re @Jessie2021626 这反制措施，恐怕其他国家不能。<br>世界第一二两大经济体都是滥发钞票的王。
+
+### 14: [2022-03-28 20:02:08+08:00 推文](https://twitter.com/HeQinglian/status/1508414129811382278)
+
+Re @JiangShangrong 这种热度应该能够维持到战争结束后一两个月。<br>你应该对比一下，此前几天他在欧盟峰会上的视频讲话。天壤之别。<br>Economist的这采访，幸亏许多北约国家的领导人不看。
+
+### 15: [2022-03-28 21:08:21+08:00 推文](https://twitter.com/HeQinglian/status/1508430794603343888)
+
+Re @Wen_yu_li @idr_labs 美国左派有两件事情必导致美国衰落变异：一、共产主义信仰；二是变性文化。
+
+### 16: [2022-03-28 21:12:15+08:00 推文](https://twitter.com/HeQinglian/status/1508431775592288258)
+
+Re @mayuki753 @idr_labs 我答的是：可以区分。比如美国南希、拜登们的个人利益与美国利益不但区分，还背道而弛。
+
+### 17: [2022-03-28 21:14:24+08:00 推文](https://twitter.com/HeQinglian/status/1508432318834294795)
+
+Re @guanzhi8 @Wu_Zhi 美、英。<br>英相公开说过。拜登在华沙也“失言”表达过。
+
+### 18: [2022-03-28 21:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1508434080576192525)
+
+Re @Wen_yu_li @idr_labs 好莱坞本来是商业价值优先，附加人文价值，但现在变成左派价值观优先。<br>只有等到好莱坞不再兴致盎然地当左派意识形态刀手，为生存考虑，可能才会有点转机。<br>本次战争导致的全球分裂，算是至暗时刻。
+
+### 19: [2022-03-28 21:35:34+08:00 推文](https://twitter.com/HeQinglian/status/1508437642802782209)
+
+3月28日新闻：<br>“全是俄罗斯文化！”乌克兰驻德大使抨击德国总统<br>路透：<br>克里姆林宫称俄乌会谈可能于周二在土耳其展开<br>乌克兰国防部副部长称俄军正在重新集结但无法推进<br>普京敦促乌克兰方面停止战斗 否则俄军将继续推<br>外国租赁商租给俄罗斯的飞机恐怕收不回来了<br>想看详情用标题搜 <a href="https://p.dw.com/p/497tW" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/497tW</a>
+
+### 20: [2022-03-28 21:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1508439078387265537)
+
+读新闻要会读，还要联想旧闻。比如日前布林肯说中国给俄军事资助没证据、美财长说不会实施经济制裁、免除部分关税，结论是：中国现在是美俄争夺的香饽饽。<br>美是胡萝卜与大棒并举，俄是拉拢。<br>俄罗斯外长拉夫罗夫称中俄关系处于史上最牢固水平<br><br>华尔街日报中文网: 中国与美国的关系摇摇欲坠，已经达到了几十年未有的恶劣程度，在这种情况下，中国政府开始警觉，认识到在乌克兰危机期间与俄罗斯交好可能有损中国与欧洲的关系，而中欧关系有时会在中美争斗期间起到缓冲作用。<br> <a href="https://on.wsj.com/3DfMKj8" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3DfMKj8</a>
+
+### 21: [2022-03-28 21:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1508440097208815622)
+
+Re @plus07253487 这时候，应该回放革命红色经典：地道战、平原游击队、地雷战。<br>学习毛领袖游击作战十六字诀，即“关于人民军队在敌强我弱条件下广泛开展游击作战的指导性方针”：“敌进我退，敌驻我扰，敌疲我打，敌退我追”，粟裕大将的“敌进我进”，这时候学不得。
+
+### 22: [2022-03-28 21:50:32+08:00 推文](https://twitter.com/HeQinglian/status/1508441408931250177)
+
+Re @JianglinLi @Wu_Zhi @seadognw 如果有那一天，比如比尔盖茨的豪宅尽为废墟，如同BLM在2020年6月将断头台送给支持他们的贝佐斯，也是求仁得仁。<br>想来想去，就是二战后美国太强大了，冷战后连普通美国人也能过上第三世界富人的生活，撑得慌，无他解。
+
+### 23: [2022-03-28 21:51:14+08:00 推文](https://twitter.com/HeQinglian/status/1508441588908924928)
+
+Re @9788Abc 我不看那，我只看何时实施。
+
+### 24: [2022-03-28 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1508442794314158093)
+
+Re @Wu_Zhi @JianglinLi @seadognw 欧盟结局已经隐然可见，只是时间问题。<br>世上事情难说，绿能去年11月在UN气候大会上全力推，最后零落成泥，欧盟自己改章程；马克龙使出吃奶的劲推疫苗护照，结果现在悄悄收兵。<br>加拿大正准备大重置，世界来了热战。<br>一切都不可能回去了。
+
+### 25: [2022-03-28 22:06:05+08:00 推文](https://twitter.com/HeQinglian/status/1508445322850230274)
+
+Re @Vince6610 @JianglinLi @Wu_Zhi @seadognw 如果只是正常的淫欲，比如性开放也罢了；早就是性乱、变性、颠而倒之倒而颠之，还名为“进步主义”，并且用各种法律行政手段强行推广，要是敢说个不字，还有取消文化、歧视帽子等着你。<br>最可恶的是还盯着美国人的第二代。
+
+### 26: [2022-03-29 00:17:31+08:00 推文](https://twitter.com/HeQinglian/status/1508478399207161865)
+
+Re @Wu_Zhi 是否赞扬，得看对象。我记得塔利班使用过这战略，一律被称为恐怖主义方式。<br>西方左派将萨特的存在主义精粹发挥得淋漓尽致：<br>全看在什么地点<br>全看在什么时间<br>全看是什么人在做什么事<br>A之是，B之非<br>昨天之是，今日之非
+
+### 27: [2022-03-29 00:21:33+08:00 推文](https://twitter.com/HeQinglian/status/1508479416007016453)
+
+Re @lightbluesky3 国际关系的一句名言：<br>“没有永恒的朋友，也没有永远的敌人，全看利益”。<br>如果有人说我们理念相同，那只是利益的包装，而包装正好与包装里的货色相同。
+
+### 28: [2022-03-29 01:26:00+08:00 推文](https://twitter.com/HeQinglian/status/1508495635267436548)
+
+Re @shiyoutang @Wu_Zhi 知道这事，与你的所谓“理性看待”是两回事。<br>你的“理性看待”就是看人看事下菜碟。<br>某些人在推上就是这样：你是学者，你必须宠辱不惊。我可以骂你，但你不可回骂，回骂就是“你还是学者”。<br>本人深知国人与左派的“理性看待”，也很“理性看待”这现象。
+
+### 29: [2022-03-29 01:37:32+08:00 推文](https://twitter.com/HeQinglian/status/1508498537725706242)
+
+据美国NBC News27日报道，一份最新出炉的民意调查显示，拜登的总体支持率已经跌至40%，创下就职期间最低水平<br>超过7成美国人认为国家如今走在错误的道路上<br>约6成美国人认为国家已经或即将与俄罗斯开战<br>Biden应该高兴：22%的美国人表示他们认为国家正朝着正确的方向前进 <a href="https://www.nbcnews.com/politics/meet-the-press/bidens-job-approval-falls-lowest-level-presidency-war-inflation-fears-rcna21679" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/meet-the-press/bidens-job-approval-falls-lowest-level-presidency-war-inflation-fears-rcna21679</a>
 
