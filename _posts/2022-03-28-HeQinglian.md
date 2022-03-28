@@ -131,3 +131,43 @@ Re @shiyoutang @Wu_Zhi 知道这事，与你的所谓“理性看待”是两回
 
 据美国NBC News27日报道，一份最新出炉的民意调查显示，拜登的总体支持率已经跌至40%，创下就职期间最低水平<br>超过7成美国人认为国家如今走在错误的道路上<br>约6成美国人认为国家已经或即将与俄罗斯开战<br>Biden应该高兴：22%的美国人表示他们认为国家正朝着正确的方向前进 <a href="https://www.nbcnews.com/politics/meet-the-press/bidens-job-approval-falls-lowest-level-presidency-war-inflation-fears-rcna21679" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/meet-the-press/bidens-job-approval-falls-lowest-level-presidency-war-inflation-fears-rcna21679</a>
 
+### 30: [2022-03-29 03:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1508534150101442566)
+
+Re @6fVC2TBQH4YDsgA @Wu_Zhi 能这样看待本轮信息战的双方所有信息，也算一点收获。
+
+### 31: [2022-03-29 04:01:41+08:00 推文](https://twitter.com/HeQinglian/status/1508534815854931973)
+
+Re @Wu_Zhi @JianglinLi 祝他梦想成真，不知白宫班底是否要跟着他擦洗。<br>其实也不必了，反正他是美国总统，说了又怎样？敢说就敢当，不太清楚南希对此如何看法。
+
+### 32: [2022-03-29 04:08:33+08:00 推文](https://twitter.com/HeQinglian/status/1508536543878778881)
+
+Re @ahaqapple @9788Abc 目前是热战，等热战停了后看情况——至少得看美国还是不是疯痴当家。<br>拜登刚收回华沙讲话“让普京下台”，今天又说了。😂<br>下次再说个别的总统、主席名字，恰好踩着点儿，天知道。
+
+### 33: [2022-03-29 04:11:32+08:00 推文](https://twitter.com/HeQinglian/status/1508537292671045635)
+
+Re @Wu_Zhi 这不需要清醒，连我远离德国也知道。问题是大声说出来。
+
+### 34: [2022-03-29 04:35:32+08:00 推文](https://twitter.com/HeQinglian/status/1508543331877498884)
+
+Re @joeyisbest1235 @Wu_Zhi @JianglinLi 由拜登说了算。说起来，我倒是很想看看拜登如果说了要习下台，中国方面的反应如何。
+
+### 35: [2022-03-29 04:36:34+08:00 推文](https://twitter.com/HeQinglian/status/1508543590582136835)
+
+Re @Wu_Zhi 我那天看到这个高出五倍的价格，但回过头找，怎样也找不到了，不知有可靠的出处没有？
+
+### 36: [2022-03-29 05:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1508550007078666242)
+
+Re @Wu_Zhi 战前的价格也远高于俄罗斯的天然气，而且运输也是个问题。<br>因此，我一直在想这个协议的现实可行性。当然，天气很快暖和了，但几个月后这问题就来了。
+
+### 37: [2022-03-29 05:05:14+08:00 推文](https://twitter.com/HeQinglian/status/1508550805288275969)
+
+Re @Wu_Zhi 这个我看到了，路透有过。日经有一篇，不敢说透，因为政治正确，欧盟现在含泪也得忍一段。
+
+### 38: [2022-03-29 05:15:37+08:00 推文](https://twitter.com/HeQinglian/status/1508553419786801162)
+
+Re @RealBeiMing 每家民调公司可看结果，但如果需要进一步的资讯，则需要付费<br>我曾一次性付费进入某民调公司看资料，发现只公布了问卷设计，并不公布受访者个人信息<br>我对拉斯穆森的民调进行过两年追踪，发现极端左倾的主张与政策（比如对BLM的暴力、取消文化、共产主义主张、通胀），支持率也在25-30%之间，多为28%
+
+### 39: [2022-03-29 05:28:54+08:00 推文](https://twitter.com/HeQinglian/status/1508556761548140546)
+
+Re @Wu_Zhi 我刚看了这篇文章，发现俄与美欧对峙的格局，中国大有好处。只要中国不明显偏向某方，保持中立状态，仅做俄罗斯天然气生意，就可坐收巨额利差。<br>遥想霍英东当年发家，就是因为中国闭关锁国，霍家利用香港自由港的地位倒腾物质，成为巨富。<br>虽然世界变化快，但制裁期间大赚特赚非常现实。😂
+
