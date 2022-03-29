@@ -3,7 +3,7 @@ author: theoryofdoom
 categories:
 - Reddit
 date: 2022-03-29
-from: https://old.reddit.com/r/CoronavirusIllinois/comments/tqf9cd/unofficial_daily_update_for_20220328_748_new_cases/
+from: https://old.reddit.com/r/afghanistan/comments/tqbsa4/the_taliban_have_not_moderated_an_extremist/
 layout: post
 tags:
 - Reddit
@@ -13,32 +13,38 @@ title: theoryofdoom在2022-03-28~2022-04-03的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 200: [Unofficial Daily Update for 2022-03-28. 748 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tqf9cd/unofficial_daily_update_for_20220328_748_new_cases/), submitted on 2022-03-29 02:00:20+08:00.
+### 200: [The Taliban Have Not Moderated: An Extremist Regime Is Pushing Afghanistan to the Brink](https://old.reddit.com/r/afghanistan/comments/tqbsa4/the_taliban_have_not_moderated_an_extremist/), submitted on 2022-03-28 23:25:18+08:00.
 
------ __200.1__ -----2022-03-29 08:16:08+08:00:
+----- __200.1__ -----2022-03-29 12:40:11+08:00:
+
+This was a very timely and insightful article.
+
+### 201: [Unofficial Daily Update for 2022-03-28. 748 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tqf9cd/unofficial_daily_update_for_20220328_748_new_cases/), submitted on 2022-03-29 02:00:20+08:00.
+
+----- __201.1__ -----2022-03-29 08:16:08+08:00:
 
 Each new armageddon has failed to materialize as expected, yet people continue to expect as much.  Over and over and over again.
 
------ __200.2__ -----2022-03-29 08:17:42+08:00:
+----- __201.2__ -----2022-03-29 08:17:42+08:00:
 
 What, if any, justification was provided for that hypothesized "increase in cases"?  
 
 And who communicated it?
 
------ __200.3__ -----2022-03-29 08:21:10+08:00:
+----- __201.3__ -----2022-03-29 08:21:10+08:00:
 
 > the word "surge" and "wave"
 
 Neither the word "surge" nor "wave" have any epidemiological significance.  They are media buzzwords, used to characterize trends in data in more or less sensational ways. 
  Further, if you were going to see significantly increased hospitalizations, they'd have been rolling in by now.
 
------ __200.4__ -----2022-03-29 08:22:30+08:00:
+----- __201.4__ -----2022-03-29 08:22:30+08:00:
 
 > The signal-to-noise ratio [is too damn high] . . . .
 
 This is correct.
 
------ __200.5__ -----2022-03-29 10:16:34+08:00:
+----- __201.5__ -----2022-03-29 10:16:34+08:00:
 
 > Multiple public officials
 
@@ -46,7 +52,7 @@ They were cited in the e-mail you referenced?
 
 Who are they?
 
------ __200.6__ -----2022-03-29 10:25:31+08:00:
+----- __201.6__ -----2022-03-29 10:25:31+08:00:
 
 For some reason, people seem to think that our rules do not apply to those who prophecy impending doom.  All should be disabused of that notion.   We have organized a multifaceted salvo against unsubstantiated, baseless speculation and there is no end in sight.  As I have previously stated: 
 
@@ -54,7 +60,7 @@ For some reason, people seem to think that our rules do not apply to those who p
 > 
 > If a reasonable observer cannot distinguish your claim from something foretold by the oracle of delphi, it likely violates our rules.
 
------ __200.7__ -----2022-03-29 10:35:56+08:00:
+----- __201.7__ -----2022-03-29 10:35:56+08:00:
 
 Ok.  Let's see if we're on the same page.
 

@@ -251,3 +251,11 @@ Re @pengbaolu 你没注意推友中哪些人在德国、英国？也没注意他
 
 Re @JianglinLi @JkYJ2l7mDTaxqhJ @Wu_Zhi<br><br>jiang shangrong: 俄杜马副议长萨迈尔·萨拉利耶夫向美驻俄大使发函,询问乔·拜登是否在精神病院接受治疗.该文于今天签发约翰·沙利文.他告诉大使,美总统健康状况“令人担忧”,这基于美国会议员“多次敦促他进行认知测试”.也是由于拜登对普京的严厉言论.信尾Saraliev要求“协确定Biden精神病事实已注册”,及他是否接受相应治疗。<br><br><img style="" src="https://pbs.twimg.com/media/FO9rZvaWUAYGicA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 60: [2022-03-29 11:22:47+08:00 推文](https://twitter.com/HeQinglian/status/1508645819582492676)
+
+Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting on the internet by other means（也许冯克劳塞维茨错了，战争是通过其他方式在互联网上发布的）”<br>西方兵圣哪知百年后的美国太空军司令部能如此指挥一场互联网战争，开创了一场秒杀中西方兵圣的“共享信息革命”。<br>感觉赢了就好。
+
+### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
+
+俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+
