@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-03-29
+date: 2022-03-30
 from: https://old.reddit.com/r/VirtualYoutubers/comments/tqbz8j/gunfire_genesis_gargant_weekly_discussion_thread/
 layout: post
 tags:
@@ -103,4 +103,20 @@ So that's a lot about individual texts and their implications, now let's pull it
 * Jen Yu-Wen, *The Taiping Revolutionary Movement* (1974)
 * Jonathan Lipman, *Familiar Strangers: A History of Muslims in Northwest China* (1997)
 * David Atwill, *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873* (2005)
+
+----- __275.3__ -----2022-03-30 01:21:24+08:00:
+
+So I'm not really up to speed on the Qing awareness of the Ottomans, but I do discuss connections between the Ottomans and Yaqub Beg's regime in [this answer](https://www.reddit.com/r/AskHistorians/comments/rjucrq/what_were_the_reactions_of_foreign_states_towards/hp5xg8p/).
+
+### 276: [What constitutes "India"?](https://old.reddit.com/r/AskHistorians/comments/tr4oip/what_constitutes_india/), submitted on 2022-03-29 23:31:57+08:00.
+
+----- __276.1__ -----2022-03-30 01:19:13+08:00:
+
+This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
+
+### 277: [Would the Nazis have won WW2 if the US didn't intervene? I'm more so talking about sending troops over than the aid the US provided.](https://old.reddit.com/r/AskHistorians/comments/tra4ag/would_the_nazis_have_won_ww2_if_the_us_didnt/), submitted on 2022-03-30 01:21:15+08:00.
+
+----- __277.1__ -----2022-03-30 01:22:30+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
