@@ -171,3 +171,83 @@ Re @RealBeiMing 每家民调公司可看结果，但如果需要进一步的资�
 
 Re @Wu_Zhi 我刚看了这篇文章，发现俄与美欧对峙的格局，中国大有好处。只要中国不明显偏向某方，保持中立状态，仅做俄罗斯天然气生意，就可坐收巨额利差。<br>遥想霍英东当年发家，就是因为中国闭关锁国，霍家利用香港自由港的地位倒腾物质，成为巨富。<br>虽然世界变化快，但制裁期间大赚特赚非常现实。😂
 
+### 40: [2022-03-29 08:39:40+08:00 推文](https://twitter.com/HeQinglian/status/1508604772710076425)
+
+Re @FangYiDuan1 我怎么忘记这单事了？😂
+
+### 41: [2022-03-29 08:47:57+08:00 推文](https://twitter.com/HeQinglian/status/1508606856700305411)
+
+Re @JianhuaRong 泽连斯基在接受经济学人的采访时，将北约划分成五阵营，恰好说明，人（包括国家本位）的自私是改变不了的。<br>更可怕的事实是，人在指责他人自私时，可能就没有换位思考过。
+
+### 42: [2022-03-29 08:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1508608502050213895)
+
+Re @zxxsay 真正的问题是：这是欧盟各国自身权衡的问题，没有国家、没有人能够越俎代庖。<br>你再明智，我再不明智，都不是当事人。<br>好比美国没受制裁影响，我认为偷着乐就行，但人家要说出来安抚公众，不管欧洲看后怎样想，那也没办法。
+
+### 43: [2022-03-29 08:57:33+08:00 推文](https://twitter.com/HeQinglian/status/1508609269834338305)
+
+Re @zxxsay 这是全球化国际分工的后果，以有易无，谈不上谁养谁。<br>你中国也不是靠欧美养大的，是靠血汗工厂完成原始积累的。日后坐大，也是国际分工造成的结局。<br>检讨全球化吧，但全球化带来的好处还是很多很多的，没有全球化，就没有今天的中国，也没有你来推特发言的机会。
+
+### 44: [2022-03-29 09:00:30+08:00 推文](https://twitter.com/HeQinglian/status/1508610012498829322)
+
+Re @JianhuaRong 他恰好忽视了一条：波兰、波罗的海三国及原苏联加盟共和国，从来没被德国等算成“们”。<br>现在，欧洲开始讨论东欧国家防务体系，算是正视这一问题了。我觉得东欧国家最好自力更生，人家帮一把更好，可以借点力。乌克兰的教训就是这：关键时刻还得靠自己。
+
+### 45: [2022-03-29 09:01:06+08:00 推文](https://twitter.com/HeQinglian/status/1508610163577696257)
+
+Re @zxxsay 多此一问，我说过这是全球化的好处没？
+
+### 46: [2022-03-29 09:04:17+08:00 推文](https://twitter.com/HeQinglian/status/1508610963708301317)
+
+Re @zxxsay “国际社会给积累的环境”，将资本逐利、寻找利润洼地当作慈善了。<br>没什么好说的了，这话，连美国资本集团也不好意思说，人家一直说的是：中国土地价格、人力成本低廉。
+
+### 47: [2022-03-29 09:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1508611363006029827)
+
+Re @zxxsay 你没看到，这次不听了？你还管着我评论了？左派胎里病，管天管地管他人言论。<br>别太膨胀了。
+
+### 48: [2022-03-29 09:07:48+08:00 推文](https://twitter.com/HeQinglian/status/1508611850052776118)
+
+Re @pengbaolu 人类文明的进步，总是以经济进步为起点的。
+
+### 49: [2022-03-29 09:15:47+08:00 推文](https://twitter.com/HeQinglian/status/1508613859673784321)
+
+Re @bbcchinese 制裁，对出口替代性强的小国有用，比如对缅甸、对非洲等国；对出口替代性弱的大国没用，比如中国制裁澳大利亚的煤。<br>俄罗斯的天然气，美国买中石油购的俄天然气，高价转手卖给欧洲，如果只一单，算制裁赢了。如果多了，再做估量吧。
+
+### 50: [2022-03-29 09:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1508614373551616011)
+
+Re @TLBB99999 看文章，文章里说得明明白白，船运。详情去问中石油。
+
+### 51: [2022-03-29 09:29:41+08:00 推文](https://twitter.com/HeQinglian/status/1508617359174610944)
+
+Re @pengbaolu 人家欧洲是你说的文明模式。<br>人家现在不是模式问题，是眼前的难关如何过，能源短缺，影响的是方方面面，是民众的日子如何过。
+
+### 52: [2022-03-29 09:39:47+08:00 推文](https://twitter.com/HeQinglian/status/1508619897437315072)
+
+进步民主党人公开反对拜登提出的军事预算<br>在拜登公布他的 2023 年预算提案之后，进步五人组批评说，“在我们最长的战争结束后，在民主党控制国会两院期间，总统提议创纪录的军费开支，这是完全不可接受的，进步核心小组周一在推特上发布。<br>看文章，就知道她们是谁了。<br><br>Fox News: Progressive Democrats speak out against Biden's proposed military budget<br> <a href="https://www.foxnews.com/politics/progressive-dems-speak-out-against-bidens-proposed-military-budget" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/politics/progressive-dems-speak-out-against-bidens-proposed-military-budget</a>
+
+### 53: [2022-03-29 09:44:15+08:00 推文](https://twitter.com/HeQinglian/status/1508621022496440322)
+
+Re @Wu_Zhi @seadognw 因为不收回这句话，拜登在中文推特圈人气大涨。<br>但民主党内极左五人组因军费及该言论不高兴。<br>拜登得算算三种支持的重要性排位：欧盟的追随（美国不能成光杆司令）；党内极左派（内讧）；中文社媒号。<br>😂
+
+### 54: [2022-03-29 09:45:42+08:00 推文](https://twitter.com/HeQinglian/status/1508621389279944710)
+
+Re @9788Abc 那你估计，拜登这次会制裁本国公司，还是制裁中石油？
+
+### 55: [2022-03-29 09:51:01+08:00 推文](https://twitter.com/HeQinglian/status/1508622727183310848)
+
+Re @Wu_Zhi 德国躺平算了。<br>如果左派再批评拜登失言，拜登干脆也躺平。<br>然后大家着急了，连忙哄他们：老大不能走，天塌下来，还得高个顶，没你们，世界怎么办。<br>然后……😂😂
+
+### 56: [2022-03-29 09:58:24+08:00 推文](https://twitter.com/HeQinglian/status/1508624584752381961)
+
+Re @Wu_Zhi 正当其时。那么多大事正等着，此时不躺平，更待何时。<br>反正中国这时绝对不会冲出来拍胸脯：老大走了，我来。😂😂
+
+### 57: [2022-03-29 09:59:26+08:00 推文](https://twitter.com/HeQinglian/status/1508624846518951941)
+
+Re @JianglinLi @JkYJ2l7mDTaxqhJ @Wu_Zhi 俄杜马副议长给美驻俄大使馆写了封函，要求带拜登去精神病院检查。
+
+### 58: [2022-03-29 10:00:41+08:00 推文](https://twitter.com/HeQinglian/status/1508625161070817286)
+
+Re @pengbaolu 你没注意推友中哪些人在德国、英国？也没注意他们的言论？
+
+### 59: [2022-03-29 10:03:29+08:00 推文](https://twitter.com/HeQinglian/status/1508625862941360132)
+
+Re @JianglinLi @JkYJ2l7mDTaxqhJ @Wu_Zhi<br><br>jiang shangrong: 俄杜马副议长萨迈尔·萨拉利耶夫向美驻俄大使发函,询问乔·拜登是否在精神病院接受治疗.该文于今天签发约翰·沙利文.他告诉大使,美总统健康状况“令人担忧”,这基于美国会议员“多次敦促他进行认知测试”.也是由于拜登对普京的严厉言论.信尾Saraliev要求“协确定Biden精神病事实已注册”,及他是否接受相应治疗。<br><br><img style="" src="https://pbs.twimg.com/media/FO9rZvaWUAYGicA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
