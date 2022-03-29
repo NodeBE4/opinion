@@ -39,3 +39,11 @@ RT Susan Finder<br>This article is very insightful, drawing on fieldwork in Ch
 
 The memory of the crash a week ago of China Eastern Airlines flight MU5735 is fresh and painful for many, not least the families, friends and communities of the victims. But according to the CCP's practice of public opinion control, it is time to move on. <a href="https://chinamediaproject.org/2022/03/29/moving-on-from-tragedy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/29/moving-on-from-tragedy/</a><br><img style="" src="https://pbs.twimg.com/media/FO_YlnPaUAAf4H3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-03-29 13:10:46+08:00 推文](https://twitter.com/keithrichburg/status/1508672993232580608)
+
+RT Keith Richburg<br>You know you’ve been here too long when you start celebrating the HK gov’t dropping a crazy, inhumane policy that never should have been imposed in the first place. Like we partied when they dropped the flight ban. Next we’ll be celebrating being able to dine out til 10 pm.<br><br>Hong Kong Free Press HKFP: Covid-19: No more child separations in Hong Kong hospitals as parents allowed on wards<br><br><img style="" src="https://pbs.twimg.com/media/FO_cdFXXsAYYukG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://hongkongfp.com/2022/03/29/covid-19-no-more-child-separations-in-hong-kong-hospitals-as-parents-allowed-on-wards" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/03/29/covid-19-no-more-child-separations-in-hong-kong-hospitals-as-parents-allowed-on-wards</a>
+
+### 8: [2022-03-29 14:57:11+08:00 推文](https://twitter.com/axliu/status/1508699776304312322)
+
+RT Alice Xin Liu<br>I hate it in Chinese to English translation that often you can't differentiate between the pronouns, or between the character's voice and the story's voice
+
