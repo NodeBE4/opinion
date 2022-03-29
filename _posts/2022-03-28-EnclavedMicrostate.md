@@ -3,7 +3,7 @@ author: EnclavedMicrostate
 categories:
 - Reddit
 date: 2022-03-30
-from: https://old.reddit.com/r/VirtualYoutubers/comments/tqbz8j/gunfire_genesis_gargant_weekly_discussion_thread/
+from: https://old.reddit.com/r/AskHistorians/comments/tpvvpr/was_hong_xiuquan_leader_of_the_taiping_rebellion/
 layout: post
 tags:
 - Reddit
@@ -13,19 +13,72 @@ title: EnclavedMicrostate在2022-03-28~2022-04-03的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 274: [Gunfire Genesis: Gargant - Weekly Discussion Thread, March 28th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tqbz8j/gunfire_genesis_gargant_weekly_discussion_thread/), submitted on 2022-03-28 23:34:13+08:00.
+### 274: [Was Hong Xiuquan, leader of the Taiping rebellion a bad father?](https://old.reddit.com/r/AskHistorians/comments/tpvvpr/was_hong_xiuquan_leader_of_the_taiping_rebellion/), submitted on 2022-03-28 07:21:12+08:00.
 
------ __274.1__ -----2022-03-29 17:49:26+08:00:
+----- __274.1__ -----2022-03-30 03:44:30+08:00:
+
+Hong Xiuquan's issue is an interesting, er, issue, as it's not something discussed much in the historiography. But to answer this question we can't just talk about Hong Xiuquan's relationships with his children in a vacuum. We must first establish what the Taiping ideal of fatherhood was.
+
+### What made a good Taiping father?
+
+While references to domestic life are, unfortunately, few and far between in the surviving published Taiping material, they are not so absent that we cannot at least in some sense get an idea of what role parents, and specifically fathers, were supposed to play in the Taiping worldview.
+
+Filial piety was of course doubly important to the Taiping, being both a critical dimension of Chinese belief systems as well as enshrined as the fifth of the Ten Commandments. Filial piety, framed through both 'native' Chinese and Christian lenses, was a recurring motif in Taiping texts, and every once in a while there would be some discussion of what parents, for their part, were supposed to do in return. The *Taiping Songs on World Salvation*, composed by the East King Yang Xiuqing and published in 1853, is the one that does so most substantially, with a portion of the second ode devoted to the matter. Here, Yang uses parents as an analogy for God, whom the Taiping consistently termed the Heavenly Father. As translated by Walter Medhurst, the section reads:
+
+> Parents in the treatment of their children,  
+> Are they ever free from anxiety?  
+> They suckle them, nourish them with meat and drink;  
+> In everything their minds are attentive.  
+> By the time the children are somewhat older,  
+> They are apprehensive of their committing faults;  
+> Hence they teach them propriety and righteousness,  
+> And all the day long they watch them.  
+> There are no lengths to which they do not go,  
+> Their love for their children is steadfast;  
+> Such an inexhaustible amount of kindness,  
+> When can it ever be repaid?
+
+On the matter of fatherhood more specifically, though, we can turn to the *Youxueshi*, or *Ode for Youth*, and its sections on family:
+
+> **On the Households' Way**
+
+> The family members related by bone and flesh  
+> Should in joy and harmony unite.  
+> When the feeling of concord unites the whole,  
+> Blessings will descend upon them from Heaven.
+
+> **On the Fathers' Way**
+
+> When the ridgepole is straight, nothing will be irregular below;  
+> When the father is strict, the Way will be formed.  
+> Let him not provoke his children to wrath,  
+> And the whole dwelling will be filled with harmony.
+
+It should be quite obvious now that the most important role of the father in the Taiping worldview was moral instruction. Taiping fathers were expected to correct misbehaviour and to instruct their children in proper behaviour, but not in such a way that they caused resentment. So, did Hong Xiuquan do that?
+
+### Was Hong Xiuquan a good Taiping father?
+
+While we don't know a huge amount about Hong Xiuquan's relationships with his children, we do know a decent amount about that with his heir apparent, Hong Tianguifu. Born Hong Tiangui in 1849, he briefly became Heavenly King upon his father's death in 1864, before being executed by the Qing after he was captured during an attempt to escape to Guangdong. Before his execution, however, he was required to write a confession, which, although brief, does give us a rare glimpse into the inner workings of the Taiping palace and of Hong Xiuquan's family life. Excerpting the relevant section, translated for publication in the *North China Herald* in 1865 (with some amendments):
+
+> At the age of nine I had four wives given to me, and I was forbidden access to my mother or sisters. The old Heavenly King composed 'The Ten Poems on Salvation' for me to read. They are all n the reasons for keeping men aloof from women and forbidding intercourse between them. Some of the poems I still remember. I had a yearning for my mother and sisters after I reached my ninth year, and used to take advantage of when the old Heavenly King had business at court to steal a visit with them. The old Heavenly King told me to study religious books and would not allow me to study ancient books [i.e. the classics], which he said were all demonic. I managed, however, to read secretly thirty or more volumes, and still retain some recollection of their subjects and contents. I had never been outside the city gates.
+
+While we do have surviving copies of *Ten Poems on Salvation*, their contents are not much more elaborate than what Hong Tianguifu describes above, and are frankly rather tedious. What is pretty clear from all this is that for his part, Hong Xiuquan *did* fulfil what the Taiping saw as the father's key responsibility: the moral instruction of the child. Practicing as he preached, he did indeed instruct his son in the reading of religious texts and in his particular vision of morals and ethics. However, he arguably failed to 'not provoke his children to wrath', given the very overt acts of rebellion that Tianguifu describes himself as having undertaken. Whether he was a good father or not to Tianguifu is thus perhaps a matter of perspective: in Xiuquan's own mind he was doing his duties as he had prescribed, but from Tianguifu's standpoint, Hong was overbearing at best and draconian at worst, failing in terms of the specifics of how that instruction was supposed to manifest.
+
+Unfortunately, we know little else about Hong's relationships with his other children, particularly his two oldest daughters Tiangui, but this little slice does suggest that, at least with regards to his designated successor, he did take his perceived fatherly responsibilities seriously. Whether this was successful in execution is another matter, although it is perhaps worth noting that Tiangui's rebellion was as much against the beliefs (separation of the sexes and condemnation of the Confucian classics) themselves as it was their proponent.
+
+### 275: [Gunfire Genesis: Gargant - Weekly Discussion Thread, March 28th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tqbz8j/gunfire_genesis_gargant_weekly_discussion_thread/), submitted on 2022-03-28 23:34:13+08:00.
+
+----- __275.1__ -----2022-03-29 17:49:26+08:00:
 
 I mean, we don't know what those announcements will be nor how long-term they are. Presumably it's not graduation of course, as that'd be basically one announcement to which everything else would be subordinate.
 
------ __274.2__ -----2022-03-29 18:20:35+08:00:
+----- __275.2__ -----2022-03-29 18:20:35+08:00:
 
 Oh right, well I was there for many of the announcements of announcements too (I watch Calli pretty religiously) so I think we just ended up talking past each other a bit.
 
-### 275: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
+### 276: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
 
------ __275.1__ -----2022-03-29 22:19:00+08:00:
+----- __276.1__ -----2022-03-29 22:19:00+08:00:
 
 Nearly a year ago, I wrote [an answer](https://www.reddit.com/r/AskHistorians/comments/mn9mro/what_did_the_taiping_think_of_judaism_and_islam/gtwprn9/) to a question on Taiping views on Judaism and Islam, which I had a good amount of fun with and so will repost here.
 
@@ -63,7 +116,7 @@ As can be seen, Hong Rengan only explicitly identifies the Egyptians as Muslims,
 
 Obviously we cannot extrapolate Hong Rengan's writings too far: he was, after all, just one person, and moreover he was one person who had rejoined the fold relatively recently and had not been present for developments in Taiping ideology in his absence. However, Hong's more global view of Christianity does seem to have filtered into the wider Taiping leadership, so we could surmise that there was some heightened awareness of Islam as a global religion, but without much actual understanding of the religion itself.
 
------ __275.2__ -----2022-03-29 22:19:22+08:00:
+----- __276.2__ -----2022-03-29 22:19:22+08:00:
 
 
 
@@ -104,19 +157,19 @@ So that's a lot about individual texts and their implications, now let's pull it
 * Jonathan Lipman, *Familiar Strangers: A History of Muslims in Northwest China* (1997)
 * David Atwill, *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873* (2005)
 
------ __275.3__ -----2022-03-30 01:21:24+08:00:
+----- __276.3__ -----2022-03-30 01:21:24+08:00:
 
 So I'm not really up to speed on the Qing awareness of the Ottomans, but I do discuss connections between the Ottomans and Yaqub Beg's regime in [this answer](https://www.reddit.com/r/AskHistorians/comments/rjucrq/what_were_the_reactions_of_foreign_states_towards/hp5xg8p/).
 
-### 276: [What constitutes "India"?](https://old.reddit.com/r/AskHistorians/comments/tr4oip/what_constitutes_india/), submitted on 2022-03-29 23:31:57+08:00.
+### 277: [What constitutes "India"?](https://old.reddit.com/r/AskHistorians/comments/tr4oip/what_constitutes_india/), submitted on 2022-03-29 23:31:57+08:00.
 
------ __276.1__ -----2022-03-30 01:19:13+08:00:
+----- __277.1__ -----2022-03-30 01:19:13+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 277: [Would the Nazis have won WW2 if the US didn't intervene? I'm more so talking about sending troops over than the aid the US provided.](https://old.reddit.com/r/AskHistorians/comments/tra4ag/would_the_nazis_have_won_ww2_if_the_us_didnt/), submitted on 2022-03-30 01:21:15+08:00.
+### 278: [Would the Nazis have won WW2 if the US didn't intervene? I'm more so talking about sending troops over than the aid the US provided.](https://old.reddit.com/r/AskHistorians/comments/tra4ag/would_the_nazis_have_won_ww2_if_the_us_didnt/), submitted on 2022-03-30 01:21:15+08:00.
 
------ __277.1__ -----2022-03-30 01:22:30+08:00:
+----- __278.1__ -----2022-03-30 01:22:30+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
