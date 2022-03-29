@@ -334,9 +334,25 @@ Anuaf just hits different.
 
 More may of course be said, but I discuss the Qing queue edict in detail [here](https://reddit.com/r/AskHistorians/comments/hieo21/tuesday_trivia_a_woman_who_cuts_her_hair_is_about/fwh873t/?context=999).
 
-### 272: [How accurate is it to consider the Opium Wars a manifestation of (British) globalization?](https://old.reddit.com/r/AskHistorians/comments/tpi24t/how_accurate_is_it_to_consider_the_opium_wars_a/), submitted on 2022-03-27 19:30:51+08:00.
+### 272: [Why are the Qing and Yuan dynasties viewed as Chinese dynasties and not occupation by a foreign power?](https://old.reddit.com/r/AskHistorians/comments/tpgmi5/why_are_the_qing_and_yuan_dynasties_viewed_as/), submitted on 2022-03-27 17:44:17+08:00.
 
------ __272.1__ -----2022-03-27 20:10:28+08:00:
+----- __272.1__ -----2022-03-29 22:20:21+08:00:
+
+Well, they have been viewed as both, sometimes – seemingly contradictorily – at the same time. I discuss dimensions of this in a few prior answers:
+
+https://www.reddit.com/r/AskHistorians/comments/pm35v6/why_is_the_qing_dynasty_not_considered_chinese_by/hceyn5m/
+
+https://www.reddit.com/r/AskHistorians/comments/ihabe5/china_is_famous_for_going_through_a_cycle_of/g33lkgm/
+
+https://reddit.com/r/AskHistorians/comments/rqpud2/china_was_conquered_by_the_mongols_and_the/hqd2is9/?context=999
+
+https://reddit.com/r/AskHistorians/comments/fs59uk/how_much_of_a_cultural_influenceimpact_did/fm22ko2/?context=999
+
+Though to be fair, I have yet to write a complete answer on the topic. If you have any specific follow-ups in order to clarify that, I'd be more than happy to reply to them.
+
+### 273: [How accurate is it to consider the Opium Wars a manifestation of (British) globalization?](https://old.reddit.com/r/AskHistorians/comments/tpi24t/how_accurate_is_it_to_consider_the_opium_wars_a/), submitted on 2022-03-27 19:30:51+08:00.
+
+----- __273.1__ -----2022-03-27 20:10:28+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
