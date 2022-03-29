@@ -259,3 +259,59 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
+### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
+
+今早听了一段广播：Crisis in Ukraine Shows Three Ways of Leadership（乌克兰危机显示的三种领导风格）。<br>the ideologue,意识形态型-普京<br>the charismatic leader，魅力型领袖-泽连斯基<br>the pragmatist，实用主义型-拜登<br>欧盟领导群体已经被专家排除在外了。这三者决定危机的发生、走向与结局。
+
+### 63: [2022-03-29 20:56:46+08:00 推文](https://twitter.com/HeQinglian/status/1508790268803395586)
+
+不是第一次了。十余天前，美国警告俄罗斯：没收外企资产将会丧失数十年投资信誉<br><br>俄是在西方没收冻结俄的国有资产、外汇储备，包括没收许多非普京家属的私人资本、取消俄罗斯文化艺术之后，准备采取相应措施没收外企资产。<br><br>Ga「殖人电台」C+.Radio📶: 欧盟主席冯德莱恩给普京打电话，说普京不放行运送小麦的船只是不人道的，这种欧洲人会有饥荒，而欧盟制裁俄罗斯是正义的，请不要把两件事混一起谈。<br><br>🤣🤣<br><br>看美国人都养着些什么欧洲煞笔政棍出来？？<br>
+
+### 64: [2022-03-29 21:00:06+08:00 推文](https://twitter.com/HeQinglian/status/1508791105248239619)
+
+Re 让我想起当年毛文革时的一项政治行动兼口号：只许阶级敌人老老实实，不许他们乱说乱动。<br>问题是：普京与俄罗斯不在美国与欧盟境内。
+
+### 65: [2022-03-29 21:28:39+08:00 推文](https://twitter.com/HeQinglian/status/1508798290606841872)
+
+Re @enoughtalk4 我这推的重点是谈：<br>既然制裁了别人，自己打破自家多年辛苦创立的全球化资本流动的安全原则，却要求别人不能采取同样的措施反制裁，这种无视对等原则的要求也只有今天的美国左派政客能够提出来。<br>左派是害虫，其附生于其上的国家越强大，左派为害越烈。
+
+### 66: [2022-03-29 21:31:25+08:00 推文](https://twitter.com/HeQinglian/status/1508798987696017420)
+
+Re @liqunchen 如果是这样，不如用日本人的方式：用一块白布遮住面部。
+
+### 67: [2022-03-29 21:53:06+08:00 推文](https://twitter.com/HeQinglian/status/1508804442812043281)
+
+Re @JianglinLi @Wu_Zhi 2020年尝到甜头，网上虚拟选民能够通过不认证身份的投票机成为真实选票，于是在要人命的战争中也如此操作。<br>台湾还有人兴奋之极地说下次中国攻台，台湾也要学习乌克兰，信息战先行。
+
+### 68: [2022-03-29 21:56:29+08:00 推文](https://twitter.com/HeQinglian/status/1508805294314381319)
+
+Re @wwnnppyy 我查过了，冯德莱恩女士本人的推文就是如此说的。她不是自干五，也非墙国五毛。我只是为了方便中文推友读。<br><br>Ursula von der Leyen: The consequences of Putin’s aggression against Ukraine span well beyond Europe.<br><br>🇺🇦 is the granary of the world, providing more than half of @WFP wheat supply.<br><br>As humanitarian needs are already at an all-time high, the Kremlin-made war threatens food security across the world.<br><br><video src="https://video.twimg.com/amplify_video/1506332139566084099/vid/1280x720/AHhyJ4UE2BNb23x4.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FOeSLLuXMAMvoGi?format=jpg&amp;name=orig"></video>
+
+### 69: [2022-03-29 22:01:51+08:00 推文](https://twitter.com/HeQinglian/status/1508806647577198603)
+
+Re @jason78proton @wwnnppyy 分析制裁与反制裁，是一段时间内的动态分析，不是即时新闻。<br>我谈的是：这不是第一次了。<br>欢迎提供新的动态。
+
+### 70: [2022-03-29 22:07:45+08:00 推文](https://twitter.com/HeQinglian/status/1508808129806573592)
+
+Re @wangdan1989 我很认真地问支持BLM的华人同胞：目前美国左派让BLM处于法律特权地位，到底是爱黑人，还是要毁了黑人这个族群？<br>黑人学者索维尔：“黑人家庭熬过了几个世纪的奴隶制和种族歧视，但却因福利主义而土崩瓦解。”
+
+### 71: [2022-03-29 22:23:29+08:00 推文](https://twitter.com/HeQinglian/status/1508812091679023111)
+
+Re @wwnnppyy 乌粉政治正确，假信息太多。<br>我只认真实。但谢谢你提醒。<br>那天我转发一条谈判的信息，乌泱泱来了一堆乌粉，最后我拿出谈判代表的推来，这些人才悻悻然歇菜。<br>他们正是你说的这种人，与这种人何必废话？让他们在共享革命信息中沉醉好了。
+
+### 72: [2022-03-29 22:24:52+08:00 推文](https://twitter.com/HeQinglian/status/1508812438636011533)
+
+Re @FangYiDuan1 从结果来看，他们自毁基业，全球化退回半球化。有待从头收拾旧河山，但美国不行了。欧盟这次受损非常严重。
+
+### 73: [2022-03-29 22:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1508819675878207500)
+
+Re @wwnnppyy 我这里不是动物庄园，因此希望推友们有脑子，不是动物庄园居民。<br>信息茧房居民受不了，别来我这就行了。<br>最近我每天都拉黑若干，有位以乌文注册的推号，屡拉黑屡注册，今天就拉黑他三个号。
+
+### 74: [2022-03-29 22:59:00+08:00 推文](https://twitter.com/HeQinglian/status/1508821027685638152)
+
+Re @FangYiDuan1 俄乌是战争双方，都严重受损，乌克兰的甚至是毁灭性的。这好象不用多讲了。<br>这些无脑回帖，我不理会。语言恶劣，就拉黑。
+
+### 75: [2022-03-29 23:10:57+08:00 推文](https://twitter.com/HeQinglian/status/1508824035571949569)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 美国左派现在腐败容忍度世界第一，要面子就说句，那是造谣，我们不相信。不要面子就置之不理。
+

@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-28
+date: 2022-03-29
 from: https://twitter.com/realcaixia/status/1508123460131770368
 layout: post
 tags:
@@ -58,4 +58,20 @@ Re @pqdsb520 你眼里除了钱就没有别的东西，脑子里除了钱就没�
 ### 11: [2022-03-28 10:47:53+08:00 推文](https://twitter.com/realcaixia/status/1508274649351741446)
 
 Re @xzy97651342 @YouTube 你眼里只有钱！
+
+### 12: [2022-03-29 21:08:24+08:00 推文](https://twitter.com/realcaixia/status/1508793195412529161)
+
+让我泪目<br><br>姜立军: 这是一个怎样的社会？丰县义人良心作家王圣强跪谢海内外朋友关注声援。（这张照片让我欲哭无泪义愤填膺）@laodeng89 @wlh8964 @changchengwai @linshengliang<br><br><img style="" src="https://pbs.twimg.com/media/FO_cGFWVIAUx1MU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-03-29 22:50:53+08:00 推文](https://twitter.com/realcaixia/status/1508818984430456838)
+
+请细读每一个跟帖评论。<br><br>荷兰大姐姐: 活久见的宇宙最大荒谬！<br>上海陆家嘴🈚车。。。。<br><br><img style="" src="https://pbs.twimg.com/media/FO68ScLWYAcNqGt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO68ScGWYAQrdut?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-03-29 23:16:14+08:00 推文](https://twitter.com/realcaixia/status/1508825367515172871)
+
+必须转推。真心期望更多的网友关注并转发。多一个人关注就是多一份帮助和声援。设身处地将心比心，墙内所有反抗极权统治的志士仁人都很不容易，墙外的我们现在能做的之一，就是让世界上更多的人知道墙内的真相。<br><br>良知❣️❣️自知: 中国良心王圣强：“我又没犯法，用警察吓唬我。你们抓我不怕闹出国际舆论吗？你们在给中国的法治社会抹黑，中国的脸都让你们丢尽了！<br>江苏省怕我推翻第五次结果，有点狗急跳墙了。我的微博是他们公关删掉的，不是我删的。暂时人没事，后面不好说。 ​​​”<br><br><img style="" src="https://pbs.twimg.com/media/FO_gzkhVQAI3ZiE?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-03-29 23:31:27+08:00 推文](https://twitter.com/realcaixia/status/1508829195081818112)
+
+他们早就虎视眈眈蓄谋抢劫了。2004年欲加罪判刑孙大午，激起新闻界、法学界、经济学界纷纷声援孙大午，那一次他们迫于各界压力，没敢肆意妄行而稍有收敛。习上台快速倒退反动，对全社会实施法西斯恐怖高压统治，他们现在欲将孙大午企业抢劫一空，将孙大午全家置于死地。孙大午遭遇预示所有民企命运。<br><br>荣剑: 大午集团开发的这么好的一套房，评估价每平米只有70元，100平米的房子只有7000元，一栋楼只有30万元，这已经是赤裸裸的抢劫了！<br><br><img style="" src="https://pbs.twimg.com/media/FPBnvC-UYAAZ598?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPBnv6IUYAAQIzy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPBnwhDVkAEnU5w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1508809835424677888" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1508809835424677888</a>
 
