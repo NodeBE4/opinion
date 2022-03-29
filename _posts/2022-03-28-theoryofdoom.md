@@ -38,3 +38,27 @@ Neither the word "surge" nor "wave" have any epidemiological significance.  They
 
 This is correct.
 
+----- __200.5__ -----2022-03-29 10:16:34+08:00:
+
+> Multiple public officials
+
+They were cited in the e-mail you referenced?  
+
+Who are they?
+
+----- __200.6__ -----2022-03-29 10:25:31+08:00:
+
+For some reason, people seem to think that our rules do not apply to those who prophecy impending doom.  All should be disabused of that notion.   We have organized a multifaceted salvo against unsubstantiated, baseless speculation and there is no end in sight.  As I have previously stated: 
+
+> We do not allow mindless prophecy of doom, on any timescale. The era of unhinged speculation about impending armageddon without even plausible evidence to support such an inference is over.
+> 
+> If a reasonable observer cannot distinguish your claim from something foretold by the oracle of delphi, it likely violates our rules.
+
+----- __200.7__ -----2022-03-29 10:35:56+08:00:
+
+Ok.  Let's see if we're on the same page.
+
+You work at a hospital.  Your hospital says they're expecting an increase of COVID cases/hospitalizations at some point in April.  The hospital assumes this means greater staffing demands, which is why they communicated it to you.  The hospital did not state what, if any, basis it had for *why* it expects an increase?  I don't expect they would, where the purpose of the e-mail is just to say "hey don't go on vacation any time soon," but something approximating evidence to support the claim would have been helpful.  Let me know if I've missed anything.  
+
+I'm just going to tell you that I am aware of the narrow cohort of TV-based public health "experts" talking about their expectations for April 2022 and I don't care.  I find their opinions unpersuasive for the same reason I have found every other such forecast from Neil Ferguson's in March 2020, and forward to the present, unpersuasive.  This nonsense entails little more than the reckless use of speculative, unreliable methods to interpret incomplete, incorrect and unrepresentative data sets, with uncalibrated models that produce forecasts off by orders of magnitude.
+
