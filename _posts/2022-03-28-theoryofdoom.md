@@ -80,3 +80,27 @@ You work at a hospital.  Your hospital says they're expecting an increase of COV
 
 I'm just going to tell you that I am aware of the narrow cohort of TV-based public health "experts" talking about their expectations for April 2022 and I don't care.  I find their opinions unpersuasive for the same reason I have found every other such forecast from Neil Ferguson's in March 2020, and forward to the present, unpersuasive.  This nonsense entails little more than the reckless use of speculative, unreliable methods to interpret incomplete, incorrect and unrepresentative data sets, with uncalibrated models that produce forecasts off by orders of magnitude.
 
+----- __203.8__ -----2022-03-30 10:51:01+08:00:
+
+> U/saveaday89 never said anything about a “significant increase in hospitalizations”. 
+
+Maybe you missed that my reply was limited to use of the terms "surge" or "wave"?  Let us review, together. 
+
+1. Do you understand what the word "significant" means?  
+2. How about when used in this context, that context being its use as an adjective to describe the phenomena of an "increased hospitalizations"?
+3. Do you understand the terms "surge" or "wave" to refer to something less than a "significant" increase in hospitalizations?
+
+> They said an increase. 
+
+You are referring to one person, not multiple people.  
+
+> Which if past data and experience is any indication, yes, it’s likely there might be an increase. 
+
+"[L]ikely there might be . . . " is incoherently vague, to the point that your claim is nonsensical.  Which is in keeping with the otherwise hyperbolic tone of your response, lacking in its entirety of anything vaguely resembling evidence.
+
+> you seem to be quite hysterical about anyone 
+
+It's incredible that you'd use a singular "they" while simultaneously using the inherently sexist word "hysterical," which has been used to attack and discredit women since the Victorian era.  And frankly, characterizing something you disagree with as "hysterical" with no objective evidence to support any such indication is better suited for Twitter than this subreddit.  
+
+Seems like all of this is all out of your ballpark.  Particularly where you chose to interpret my comment directed to someone else (and not you) as at once "making fun of" that individual and engaging in something "hysterical."
+
