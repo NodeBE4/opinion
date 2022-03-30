@@ -141,6 +141,58 @@ It is safe to go "maskless" regardless of whether you are vaccinated.  There is 
 
 If you ever see that happening, DM via modmail and it will be addressed.
 
+----- __195.5__ -----2022-03-30 20:14:27+08:00:
+
+So, the brigading begins.  A review of history will prove [salutary](https://www.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/). 
+
+There is nothing to which the CDC can point, to substantiate their changes in "mask" messaging. Their initial guidance on masks was based on a combination of incompetence, politics and pseudoscience. The fact that this behavior was normalized doesn't mean it was empirically supported, or ever was. It just means a bunch of people with purported letters after their name said to do something and then they did it.
+
+The CDC's initial purported "guidance" on this issue was conspicuously devoid of all the types of scientific evidence needed to justify this type of recommendation. For example, if you're going to recommend "masks" to prevent transmission of COVID, then you need to undertake at least some kind of analysis to determine what masks are out there and how they perform. Then you need to set up some independent criteria so that masks can be graded according to their performance. This needed to happen for both modalities of transmission recognised by current research (read: respiratory droplets and aerosolized molecular viral particles). To do so, you'd need a whole team of fluid dynamics experts, at the very least, to evaluate performance both generally and in specific settings.
+
+Nothing of the sort happened. Instead, all that happened was an incompetent bureaucrat who later declared himself to be "the science," as if science works that way. Hint: it does not. If you're going to hold out devices as suitable for particular medical purposes, you have to have evidence to do that. Otherwise, you're engaged in what amounts to fraud in this country. We do not let people just make things up and offer them to the public, under circumstances where the public can rely on those misrepresentations to their detriment, without facing legal risk.
+
+However, no shortage of crackpot pseudoscience [purports](https://www.reddit.com/r/CoronavirusIllinois/comments/t1hvgo/cdc_changes_mask_guidance/hyj4jru/) to justify this politically driven nonsense.   That junk "science" includes, but is hardly limited to:
+
+* [Andrejko 2022](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm?s_cid=mm7106e1_w).  
+
+Review of the the first sentence of this article's summary is fatal.  Upon reading it, you will learn that "[f]ace masks or respirators (N95/KN95s) effectively filter virus-sized particles in laboratory settings. The real-world effectiveness of face coverings to prevent acquisition of SARS-CoV-2 infection has not been widely studied."  Realize that "filtering" --- according to some vague, incoherent level of efficacy --- molecular viral particles that are aerosolized is not the same thing as actually reducing community spread or reducing the probability that you will contract COVID-19.  Hence the second sentence.  
+
+The sole context where reducing community spread or reducing the probability that you will contract COVID-19 was purportedly evaluated, was in Bangladesh, that study being [Abaluck 2021](https://www.science.org/doi/10.1126/science.abi9069).  
+
+Except that study did not show masks work.  In fact, its data plainly and clearly says the opposite based on the lack of any statistically significant difference between the control and treatment groups.  
+
+According to the authors, what they actually found was that "[m]ask distribution with promotion was a scalable and effective method to reduce symptomatic SARS-CoV-2 infections," based on meager differences in "symptomatic seroprevalence" among certain cohorts.  
+
+Which is a nice way to use fancy language to say that mask wearing is probably associated with some unknown external factor, but they failed to find evidence indicating that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  This is a case study in fake science.  
+
+As most will readily ascertain upon reading the Andrejko 2022 article, its results are consistent with what the underlying data out of Bangladesh indicate.  It only finds that "use of a face mask or respirator in an indoor public setting was associated with lower odds" of a positive PCR test.  
+
+I will leave for another day the problems with their criteria for what they're counting as a positive PCR test as compared to what others have.  The point is that your article fails to provide any evidence whatsoever that masks themselves are causally associated with any identifiable benefit relating to reducing COVID community spread.  
+
+As in Bangladesh, the act of wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  But that's it. These so called "studies" does not say what media report they says. 
+
+* [Howard 2021](https://www.pnas.org/content/118/4/e2014564118).
+
+This exemplary "narrative review," which another user once linked for the purpose of "refuting" what I have said, is worthless.  They undertook no research and therefore didn't move the ball forward relating to the science of mask efficacy in any way.  
+
+Instead, they went out and searched on Google Scholar or somewhere else to find all the worthless articles that have been published on this issue, relating to mask mandates and usage, for the purpose of offering what they hold out as no more than a public policy recommendation.  
+
+As an example of that article's unmitigated worthlessness, review one of their purported public policy recommendations: 
+
+> Given the current shortages of medical masks, we recommend the adoption of public cloth mask wearing, as an effective form of source control . . . . 
+
+Hilariously, this article is recommending cloth masks at this stage in the game, despite the complete absence of evidence to support their efficacy along the lines of any metric, and [even this pundit doctor](https://twitter.com/DrLeanaWen/status/1473045198980665344?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1473045198980665344%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fd-41205633983298031174.ampproject.net%2F2110212130002%2Fframe.html) has been forced to concede that cloth masks do not work.  The CDC has "clarified" its stance on cloth masks and there is literally no one on this earth who can even pretend their efficacy for any COVID-related purpose is empirically supported. 
+
+Nevertheless, all the studies that ever found any such benefit might be even associated with cloth-mask wearing suffer the same deficit as the study in Bangladesh.  In the first instance, the data state that virus is as virus does.  Which is the norm.  Not the exception.  
+
+But to the degree there is any difference from the control group, that difference is only attributable to external factors, which include as I said above, the fact that wearing masks might make people engage in other behaviour which may to some unknown extent have some unknown result that reduced the probability of contracting COVID.  
+
+Evidence to support the alleged efficacy of masks themselves remains unobtained. 
+
+Now I know some have probably googled some relevant terms and tried to find something they thought would contradict what I said.  But none who have brigaded this thread even tried to link anything.  
+
+If they did, they will struggle to find contrary evidence.  Because the state of the science is exactly where I said it was.
+
 ### 196: [New 'Stealth Omicron' Could Dominate COVID Cases In Chicago Soon](https://old.reddit.com/r/CoronavirusIllinois/comments/tmi0pb/new_stealth_omicron_could_dominate_covid_cases_in/), submitted on 2022-03-24 23:41:33+08:00.
 
 ----- __196.1__ -----2022-03-27 23:35:45+08:00:
