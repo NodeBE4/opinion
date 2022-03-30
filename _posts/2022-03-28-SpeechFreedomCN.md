@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-03-29
+date: 2022-03-30
 from: https://twitter.com/SpeechFreedomCN/status/1508634297669861378
 layout: post
 tags:
@@ -30,4 +30,12 @@ Amid new wave of covid outbreak, Shanghai CDC introduced some responsive measure
 ### 4: [2022-03-29 12:53:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1508668522859270145)
 
 Shenzhen man Zhao administratively punished for posting a doctored photo of a quarantine pass of his community on Internet. Though the photo was doctored, the act apparently could not obstruct the pandemic prevention and therefore does not constitute a crime or admin violation.<br><img style="" src="https://pbs.twimg.com/media/FO-DRRCWYAc-mdI?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FO-DRQ_X0AMAAfm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-03-30 10:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1508989135574364161)
+
+河北省香河县女子江某，因在网络发布“防疫消极言论”和一条“未经证实的当地居民跳楼”的视频，被处行政拘留。<br><img style="" src="https://pbs.twimg.com/media/FPCh24SXsAAgyFt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-03-30 10:09:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1508989638698012676)
+
+Hebei woman Jiang administratively detained for posting "negative comments" on Covid lockdown, including a video of a local resident committing suicide, on Internet.<br><img style="" src="https://pbs.twimg.com/media/FPCjcZVXsAwJGkK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
