@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-29
+date: 2022-03-31
 from: https://twitter.com/realcaixia/status/1508123460131770368
 layout: post
 tags:
@@ -74,4 +74,36 @@ Re @xzy97651342 @YouTube 你眼里只有钱！
 ### 15: [2022-03-29 23:31:27+08:00 推文](https://twitter.com/realcaixia/status/1508829195081818112)
 
 他们早就虎视眈眈蓄谋抢劫了。2004年欲加罪判刑孙大午，激起新闻界、法学界、经济学界纷纷声援孙大午，那一次他们迫于各界压力，没敢肆意妄行而稍有收敛。习上台快速倒退反动，对全社会实施法西斯恐怖高压统治，他们现在欲将孙大午企业抢劫一空，将孙大午全家置于死地。孙大午遭遇预示所有民企命运。<br><br>荣剑: 大午集团开发的这么好的一套房，评估价每平米只有70元，100平米的房子只有7000元，一栋楼只有30万元，这已经是赤裸裸的抢劫了！<br><br><img style="" src="https://pbs.twimg.com/media/FPBnvC-UYAAZ598?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPBnv6IUYAAQIzy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPBnwhDVkAEnU5w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1508809835424677888" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1508809835424677888</a>
+
+### 16: [2022-03-30 21:07:48+08:00 推文](https://twitter.com/realcaixia/status/1509155434204172289)
+
+特别推荐 #议报发布文建最新力作。<br>文章指出：中共高层仍是封闭的黑帮组织，其流氓无赖者的机会主义特征始终没变，不信守任何契约，但接受以实力为基础的交易。<br>中国具备建设宪政民主的力量，但需西方国家提供外部推动力。文章认为当下是改变中国的历史契机，并提出相关建议。 <a href="https://yibaochina.com/?p=245538" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245538</a>
+
+### 17: [2022-03-30 21:42:08+08:00 推文](https://twitter.com/realcaixia/status/1509164072721338372)
+
+特别推荐：#议报发布大陆独立学者温克坚的《中国债务报告》。<br>报告回顾中国过往债务增长，指出债务结构本质上是一种权力现象：中国债务大体为三类：政府债务、非金融企业债务、住户部门债务（居民买房），作者提示了隐性债务问题，对中国可能面临的债务危机作了必要预警。 <a href="https://yibaochina.com/?p=245576" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245576</a>
+
+### 18: [2022-03-30 22:47:12+08:00 推文](https://twitter.com/realcaixia/status/1509180448991285253)
+
+特别推荐：日前 #议报发布大陆著名作家李承鹏先生文章。<br>李承鹏先生文章在大陆微信刚一发出即被封杀，议报特别获得，随即发布。短短40小时，阅读点击已达65000多。<br>文章思考深刻、文笔精彩、言辞犀利精辟，常常妙句迭出！读承鹏文既是思想启迪又是艺术享受。<br>强烈推荐。 <a href="https://yibaochina.com/?p=245541" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245541</a>
+
+### 19: [2022-03-31 00:54:11+08:00 推文](https://twitter.com/realcaixia/status/1509212402709147653)
+
+#议报 上周发布中国网民文章: 《祸国殃民的习近平必须下台》一文引起海外强烈关注，除了一些中文自媒体报道转载外，还有美国、台湾地区知名媒体推出报道评论。为方便网友阅读全文，本推再次全文推出。 <a href="https://yibaochina.com/?p=245519" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245519</a>
+
+### 20: [2022-03-31 01:08:09+08:00 推文](https://twitter.com/realcaixia/status/1509215917175197702)
+
+这是防疫吗？这是公然以防疫名义杀人。大陆各地在推行“清零”政策中次生的人道灾难一再发生。古人说：“苛政猛于虎”，大陆当下是“清零猛于虎”。<br>各地执行“清零”的人员不少成了没有良知、没有头脑、没有理智判断的“行尸走肉”，稍客气一点的说法是“机器人”。大陆“清零”政策实实在在地大规模制造人祸<br><br>鲁  难: 再度有护士得不到救治而死亡，东方医院的悲剧重演。<br><br><video src="https://video.twimg.com/ext_tw_video/1509174061041135616/pu/vid/720x1028/0p0mT4jHimnb5oQB.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1509174061041135616/pu/img/r7M_u_zDsAo2JR-H.jpg"></video>
+
+### 21: [2022-03-31 01:39:40+08:00 推文](https://twitter.com/realcaixia/status/1509223851745501185)
+
+Re 神奇的闭环：<br>发现感染者，立即全员强制核酸检测——成千上万的人挤人水泄不通，检测变成大规模传播疫情——强制隔离执行“清零”——再检测——再传播——再隔离……如此循环往复无止尽。<br><br>大规模检测：特定公司大赚；强制自费隔离：指定酒店和隔离场所大赚；食品价格大涨，民不聊生。<br>总结：中国特色疫情经济GDP
+
+### 22: [2022-03-31 02:05:08+08:00 推文](https://twitter.com/realcaixia/status/1509230258272317446)
+
+Re 有推友回复我：“酒店不赚，垫资，被隔离者交钱是给指定账号……”。<br>这个信息很重要。“指定账号”，真可以大开脑洞。不妨追问下去：特定账号属于谁？钱究竟进哪里了？
+
+### 23: [2022-03-31 02:55:30+08:00 推文](https://twitter.com/realcaixia/status/1509242934276800524)
+
+Re @mulanwa 建议很好啊！很感谢您对议报的热心支持和关注。我会问问后台技术支持，看怎么增加这个功能。
 
