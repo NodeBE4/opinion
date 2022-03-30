@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -402,4 +402,40 @@ Re @kingbo25729098 亚述营维护的是哪种自由传统？
 ### 97: [2022-03-30 10:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1508994053664382977)
 
 俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
+
+### 98: [2022-03-30 20:30:02+08:00 推文](https://twitter.com/HeQinglian/status/1509145929189892098)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 【泽连斯基的顾问Alexei Arestovich在讨论 UAF 为何将军事装备放置在平民区时认为，“国际人道主义法或战争法不适用于这场冲突”。】<br>与此相同的例子：<br>我制裁你，符合道义，你必须承受；你反制裁，违反道义，绝不应该<br>新闻造假，如果针对你，百分之百正确；你说的是事实那也是错<br>左派民主是双重标准典范
+
+### 99: [2022-03-30 20:33:04+08:00 推文](https://twitter.com/HeQinglian/status/1509146692725407748)
+
+波兰不再等欧盟  政府宣布将禁止进口俄国煤炭 <a href="https://rfi.my/8IJd.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8IJd.T</a>
+
+### 100: [2022-03-30 20:35:03+08:00 推文](https://twitter.com/HeQinglian/status/1509147190018588678)
+
+Re @RealBeiMing 巨婴当道的世界。
+
+### 101: [2022-03-30 20:39:40+08:00 推文](https://twitter.com/HeQinglian/status/1509148353434734602)
+
+Re @KELMAND1 美拜登就此表态了么？布林肯就此发言了么？<br>英国不必要考虑，基本追随美国。
+
+### 102: [2022-03-30 21:26:03+08:00 推文](https://twitter.com/HeQinglian/status/1509160023620046853)
+
+塑造乌克兰战争报道的 BBC 记者是参与“战争信息工具”的公关人员<br><br>Orysia Khimiak 为名为 Reface 的初创公司处理公关，该公司创建了《华盛顿邮报》所称的“现实扭曲应用程序” （reality distorting app），现作为“一种乌克兰战争消息传递工具”<br>该女士被称为“新闻修复者”（fixer） <a href="https://thegrayzone.com/2022/03/25/bbc-fixer-war-ukrainian-nationalist-pr-operative/" target="_blank" rel="noopener noreferrer">https://thegrayzone.com/2022/03/25/bbc-fixer-war-ukrainian-nationalist-pr-operative/</a>
+
+### 103: [2022-03-30 22:07:19+08:00 推文](https://twitter.com/HeQinglian/status/1509170410633543683)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 何止只代表民主正义，代表一切：性别多元化代表人类伦理进步的典范、取消文化代表言论管制的正义性、法律给某贵族超然地位代表补偿正义、新闻造假是网络时代的“共享信息革命”……，总之，天上地下人世间的Everything的对错全由他们说了算。
+
+### 104: [2022-03-30 22:08:40+08:00 推文](https://twitter.com/HeQinglian/status/1509170750384754692)
+
+Re @TomMa07952688 28%的美国人，如今就这状态。
+
+### 105: [2022-03-30 22:38:48+08:00 推文](https://twitter.com/HeQinglian/status/1509178331924733954)
+
+Re @Wu_Zhi @zerohedge 左派的特点，就是派发免费午餐梦想。<br>以前他们弱军减国防开支，有个美国兜底。当初川普要求他们按规定增加一点军费开支，一个个哭天喊地，连盗选都支持了。如今，绿能梦破产，各国军备竞赛开支，战后乌克兰入欧盟享受的同等待遇，单项都比当初那点军费昂贵多了。<br>应了那句“一失足成……，回头已是……”
+
+### 106: [2022-03-30 22:39:54+08:00 推文](https://twitter.com/HeQinglian/status/1509178611064004613)
+
+Re @xxj2040 如今世界都在追求社会主义。
 

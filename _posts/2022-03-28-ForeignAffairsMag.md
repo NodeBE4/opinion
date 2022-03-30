@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-29
+date: 2022-03-30
 from: https://old.reddit.com/r/UkrainianConflict/comments/tqai79/how_the_west_can_weaken_putin_encourage/
 layout: post
 tags:
@@ -58,6 +58,36 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 "The description of Putin’s mistakes is a decent summary of not just the earlier Soviet experience in Afghanistan but also much of U.S. national security policy over the last several decades, including the wars in Vietnam, Afghanistan, and Iraq. Washington has repeatedly launched military interventions with extravagantly unrealistic expectations, overestimated its own capabilities and underestimated its opponents, believed it would be loved rather than hated, and thought it could put its favorites into office and then get away easily. And time and again, after running up against the same harsh realities as Putin, it has tried to bull its way forward before ultimately deciding to reverse course and withdraw.Yes, American motives were nobler. Yes, American methods were less brutal (most of the time). Yes, there were many other differences between the conflicts. But on a strategic level, the broad similarities are striking. This means there are several important lessons to be learned from recent American military history—but only if that history is looked at from the enemy’s perspective, not Washington’s. Because it was the enemies who won."
 
 &#x200B;
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 173: [Will Germany Stay the Course?: How Biden Can Keep Berlin Focused on Defense](https://old.reddit.com/r/europe/comments/ts7smt/will_germany_stay_the_course_how_biden_can_keep/), submitted on 2022-03-30 22:33:35+08:00.
+
+----- __173.1__ -----2022-03-30 22:34:08+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 174: [The Perilous Long Game in Ukraine: Compromising With Putin May Be America’s Best Option](https://old.reddit.com/r/geopolitics/comments/ts81mc/the_perilous_long_game_in_ukraine_compromising/), submitted on 2022-03-30 22:45:06+08:00.
+
+----- __174.1__ -----2022-03-30 22:46:41+08:00:
+
+\[SS from the article by Samuel Charap, Senior Political Scientist at the RAND Corporation\]
+
+"Policymakers in Washington must wrestle with two distinct kinds of goals. In the near term, U.S. priorities remain denying Putin a battlefield victory, avoiding the escalation of the conflict, and limiting its humanitarian and economic costs. Over the long term, the United States wants to shape Russian behavior in such a way that minimizes risks to U.S. geopolitical interests and international stability and reduces the potential for future regional conflict.
+
+The main challenge today is that Ukraine’s brave resistance—even combined with ever-greater Western pressure on Moscow—is highly unlikely to overcome Russia’s military advantages, let alone topple Putin. Without some kind of deal with the Kremlin, the best outcome is probably a long, arduous war that Russia is likely to win anyway. And such a protracted conflict would cement the current extreme level of hostility between Russia and the West, undermining long-term U.S. interests in regional and global stability. It will be extremely hard, if not impossible, for the United States to achieve either its short- or long-term objectives if the war drags on for months longer. However distasteful it may be to reach a compromise with Putin after the carnage he has unleashed, the United States should work to secure a negotiated settlement to the conflict sooner rather than later."
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 175: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/UkrainianConflict/comments/ts84r2/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:14+08:00.
+
+----- __175.1__ -----2022-03-30 22:49:23+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 176: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/RussiaUkraineWar2022/comments/ts85a7/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:56+08:00.
+
+----- __176.1__ -----2022-03-30 22:50:07+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 

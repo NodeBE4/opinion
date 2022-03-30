@@ -189,9 +189,27 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 To be honest, only Gen 3 and EN have been explicitly themed (and even then, pirates aren't 'fantasy' as such). HoloX does have the secret society schtick but arguably that only serves as a lore backstory for 5 members who would, without it, be pretty different (Iroha especially stands out a bit lore-wise). So it's not that ID is the exception, but that EN is.
 
-### 281: [What did in fact happen in the Second Sino-Japanese War (1937-1945)?](https://old.reddit.com/r/AskHistorians/comments/ts5ftp/what_did_in_fact_happen_in_the_second/), submitted on 2022-03-30 20:35:35+08:00.
+### 281: [🎉Ceres Fauna🌿 celebrates 500,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/ts2zd7/ceres_fauna_celebrates_500000_subscribers/), submitted on 2022-03-30 18:01:52+08:00.
 
------ __281.1__ -----2022-03-30 21:09:52+08:00:
+----- __281.1__ -----2022-03-30 23:00:04+08:00:
+
+ウウウウウウウウウウウウウウウウ
+
+If I had anything more intelligent I'd say it, but I'd o-pine that yew'd be hard pressed to come up with much better.
+
+### 282: [What did in fact happen in the Second Sino-Japanese War (1937-1945)?](https://old.reddit.com/r/AskHistorians/comments/ts5ftp/what_did_in_fact_happen_in_the_second/), submitted on 2022-03-30 20:35:35+08:00.
+
+----- __282.1__ -----2022-03-30 21:09:52+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 283: [What is the difference between a treaty and tributary in the context of China and Britain during/after the Opium Wars?](https://old.reddit.com/r/AskHistorians/comments/ts7jw9/what_is_the_difference_between_a_treaty_and/), submitted on 2022-03-30 22:22:02+08:00.
+
+----- __283.1__ -----2022-03-30 22:46:45+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
