@@ -183,3 +183,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 280: [I know I’m a little late, but what is ID Gen 3’s gimmick?](https://old.reddit.com/r/Hololive/comments/trw3ls/i_know_im_a_little_late_but_what_is_id_gen_3s/), submitted on 2022-03-30 10:25:10+08:00.
+
+----- __280.1__ -----2022-03-30 11:53:18+08:00:
+
+To be honest, only Gen 3 and EN have been explicitly themed (and even then, pirates aren't 'fantasy' as such). HoloX does have the secret society schtick but arguably that only serves as a lore backstory for 5 members who would, without it, be pretty different (Iroha especially stands out a bit lore-wise). So it's not that ID is the exception, but that EN is.
+
