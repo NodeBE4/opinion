@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-29
+date: 2022-03-30
 from: https://old.reddit.com/r/yerbamate/comments/tq7nta/what_are_you_drinking_this_week_weekly_discussion/
 layout: post
 tags:
@@ -103,4 +103,18 @@ You are referring to one person, not multiple people.
 It's incredible that you'd use a singular "they" while simultaneously using the inherently sexist word "hysterical," which has been used to attack and discredit women since the Victorian era.  And frankly, characterizing something you disagree with as "hysterical" with no objective evidence to support any such indication is better suited for Twitter than this subreddit.  
 
 Seems like all of this is all out of your ballpark.  Particularly where you chose to interpret my comment directed to someone else (and not you) as at once "making fun of" that individual and engaging in something "hysterical."
+
+### 204: [Unofficial Daily Update for 2022-03-29. 1586 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/trb074/unofficial_daily_update_for_20220329_1586_new/), submitted on 2022-03-30 02:00:20+08:00.
+
+----- __204.1__ -----2022-03-30 12:53:35+08:00:
+
+> Since when are we pretending COVID doesn't matter?
+
+COVID is always going to matter.  It is here with us, probably forever.
+
+The challenge is how we contend with it.
+
+----- __204.2__ -----2022-03-30 13:05:52+08:00:
+
+They will continue to rise and fall, though we still haven't sorted out the existential question of "what is a case," when a "case" can be measured in at least four different ways (PCR positive, regardless of Ct; PCR positive, high Ct (>20); PCR positive, low Ct (<20); antigen), without regard to symptomatology, according to three different sensitivity levels for detection.  But why bother with that when we can't even get representative samples?
 
