@@ -79,3 +79,7 @@ Re PD editorials are an illuminating look at Chinese state media use of material
 
 Re And yet, Party-state media fulminate against "Western countries" (today: 美国为首的西方国家联手) and against "Western media" as though all are in conspiracy against China and the rest of the peace-loving world. A recent example from the People's Daily: <a href="https://bit.ly/3LqYkux" target="_blank" rel="noopener noreferrer">https://bit.ly/3LqYkux</a>
 
+### 17: [2022-03-30 14:58:04+08:00 推文](https://twitter.com/EmilyZFeng/status/1509062387550154752)
+
+RT Emily Feng 冯哲芸<br>Horror stories from Jilin province, which remains sealed off.<br><br>90 out of 160 construction workers sent to build emergency isolation wards fall ill themselves, wait days for care &amp; shelter before finally getting a bed in the quarantine center they built. <a href="https://china.caixin.com/2022-03-30/101863092.html" target="_blank" rel="noopener noreferrer">https://china.caixin.com/2022-03-30/101863092.html</a>
+
