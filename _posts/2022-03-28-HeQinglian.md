@@ -401,7 +401,7 @@ Re @kingbo25729098 亚述营维护的是哪种自由传统？
 
 ### 97: [2022-03-30 10:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1508994053664382977)
 
-俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
+RT He Qinglian<br>俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
 
 ### 98: [2022-03-30 14:09:30+08:00 推文](https://twitter.com/228oldSoldier/status/1509050163314233348)
 
@@ -666,4 +666,60 @@ Re @Sumerian0 “If there is military equipment there and [the Russians] are say
 ### 163: [2022-03-31 12:50:26+08:00 推文](https://twitter.com/HeQinglian/status/1509392652994846720)
 
 Re @Sumerian0 华邮摘引的这段话很委婉，但指什么，你我心里都一清二楚。<br>出现如此局面，你不甘心，理解。但事实就是事实。<br>昨天泽连斯基的顾问也承认有此事，并说情况特殊，不能按日内瓦准则对待。我推上转过。
+
+### 164: [2022-03-31 19:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1509497556396658692)
+
+Re @MrWinnieandpooh 纽时文章前面几段都是将对普京的贬斥罗列出来，最后一句是“然而，在战争、政治和生活中，把你的对手当作一只狡猾的狐狸，而不是一个疯狂的傻瓜，这总是更明智的做法。”<br>你说是为普京找面子，纽时成了RT或者塔斯社？中文版也有，请再读吧。
+
+### 165: [2022-03-31 19:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1509498025701486598)
+
+Re @TianyuB 我的重点是人家评论认为对普京形象的宣传上完全是失败的，过分强调傻疯老，最后失败，建议“在战争、政治和生活中，把你的对手当作一只狡猾的狐狸，而不是一个疯狂的傻瓜，这总是更明智的做法。”<br>有时真的不清楚每个人从文章里读到的是什么。
+
+### 166: [2022-03-31 19:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1509498296158625794)
+
+Re @michael63963371 日内瓦条约。事实证明，撤退是有时间的，你们不是一直强调俄军不行，推进缓慢么？
+
+### 167: [2022-03-31 19:51:24+08:00 推文](https://twitter.com/HeQinglian/status/1509498592834506758)
+
+Re @TianyuB 读。“If there is military equipment there and [the Russians] are saying we are launching at this military equipment, it undermines an assertion that they are attacking intentionally civilian objects and civilians,” said Richard Weir, a researcher in Human Rights Watch’s  …
+
+### 168: [2022-03-31 19:53:06+08:00 推文](https://twitter.com/HeQinglian/status/1509499022058430468)
+
+Re @JkYJ2l7mDTaxqhJ 泽连斯基及顾问都在推上，去向他们提建议，最直接，最有效。
+
+### 169: [2022-03-31 19:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1509499481024352268)
+
+Re @KevinLe89841676 @Sumerian0 纽约时报文章有中文版，去读，如果有感情色彩也是翻译带，你找错门了吧？
+
+### 170: [2022-03-31 20:04:43+08:00 推文](https://twitter.com/HeQinglian/status/1509501945484034049)
+
+复盘美国国会听证：<br>18日，DIA 主任谈美乌之间的信息共享“革命”<br><br>认为信息战是俄乌战略中一种创新；<br>30日，将军沃尔特斯在众议院军事委员会作证时承认，拜登阻止俄入侵乌的战略失败了<br>信息战中，普京完全处于弱势，但侵乌继续，因此承认阻俄战略失败<br><br>He Qinglian: 今天是美国媒体乌克兰消息的大转折：<br>1、将军沃尔特斯周三在众议院军事委员会作证时承认，拜登阻止俄入侵乌的战略失败了<br>2、华邮：乌军正在居民区部署军备，并把平民当肉盾来掩护自己<br>3、纽时反省媒体对普京的各种评论失误：<br> <a href="https://www.foxnews.com/politics/us-commander-biden-deterrence-failed-ukraine-russia" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/politics/us-commander-biden-deterrence-failed-ukraine-russia</a> <a href="https://www.washingtonpost.com/world/2022/03/28/ukraine-kyiv-russia-civilians/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2022/03/28/ukraine-kyiv-russia-civilians/</a> <a href="https://nytimes.com/2022/03/29/opinion/ukraine-war-putin.html" target="_blank" rel="noopener noreferrer">https://nytimes.com/2022/03/29/opinion/ukraine-war-putin.html</a> <a href="https://twitter.com/Wu_Zhi/status/1509300946735702017" target="_blank" rel="noopener noreferrer">https://twitter.com/Wu_Zhi/status/1509300946735702017</a>
+
+### 171: [2022-03-31 20:12:51+08:00 推文](https://twitter.com/HeQinglian/status/1509503991960551429)
+
+Re 信息战的受益者可能有点受不了，请掌控情绪<br>有位屡B屡黑达几十次的乌克兰文号，一定掌控好自己的情绪。昨天的推文只是说美媒乌克兰消息的大转折，不是战况的大转折，请看清楚<br>参战将军们说的也是阻俄入乌的战略失败，战略要点之一也是通过信息战用舆论吓阻普京失败，不是别的<br>老拜家族旧事被晒才是事😂
+
+### 172: [2022-03-31 20:17:30+08:00 推文](https://twitter.com/HeQinglian/status/1509505163534479374)
+
+Re @Aboluo13 @cindywei2017 可能不是。<br>最开始是《纽约邮报》重提，这家媒体报导还曾被封推特，我没在意。<br>真正在意的是华邮、The Hill、CNN这种左派忠犬。而且时间点掐在拜登“指挥”战争之时——拜粉要弄清楚一点，总统是三军总司令，负有全权与全责。
+
+### 173: [2022-03-31 20:19:39+08:00 推文](https://twitter.com/HeQinglian/status/1509505702099881992)
+
+Re @mingshi_chen 我觉得就是因为2020大选舞弊经验的启发。
+
+### 174: [2022-03-31 20:25:35+08:00 推文](https://twitter.com/HeQinglian/status/1509507195389493259)
+
+Re @Lynn52899011 @Sumerian0 我从没说过400万难民不是从乌克兰撤出的话。谁说的找谁去。如果你找出来，我立即道歉。但如果你找不出，也请说明一下。<br>俄语是小语种，RT的俄罗斯大外宣色彩太重，身份政治的美国，不会认这种媒体。效果不太好。
+
+### 175: [2022-03-31 20:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1509508320834600961)
+
+Re @NelsonZhao3 @BigbirdflyChan @wwnnppyy 你试试找一下我的文章中有哪些阴谋论，找不出，请说Sorry。<br>我正好分析的多是经济，并声明自己不分析战况<br>2月下旬第一篇《俄乌战争：一场乌克兰不能自主的战争》，谈到美英等希望将乌克兰变成埋葬普京的坟场，正好被泽连斯基在接受《经济学人》（3月28日）采访时证实，北约第一类国家就持这种想法。
+
+### 176: [2022-03-31 20:33:23+08:00 推文](https://twitter.com/HeQinglian/status/1509509156998373378)
+
+Re @wwnnppyy @enoughtalk4 @HN9lgoeZB4f7p4V @canadakazama @BigbirdflyChan 最近消息不是太好，我会时常转一些，拜托好好掌控情绪。我一直很“珍惜”你，请体会我的一片心意。😂<br>如果你在欧洲，我理解，能源、物价涨得太高了。<br>那条关于“现实扭曲应用程序”被BBC记者应用的看了没？😂
+
+### 177: [2022-03-31 20:37:18+08:00 推文](https://twitter.com/HeQinglian/status/1509510146065637382)
+
+Re @XIONGXIONG1016 不是一直都有这类信息吗？包括普京身边的人一个个被抓、被打死、普京精神失常。<br>昨天纽约时报那文章将这类信息列了一个大全，有助于你们找到自己的观察思路“发展史”。难道你没看？<br>这点你还真需要向我学习，我连你转来的都看了。
 

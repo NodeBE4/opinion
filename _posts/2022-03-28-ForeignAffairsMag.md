@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-30
+date: 2022-03-31
 from: https://old.reddit.com/r/UkrainianConflict/comments/tqai79/how_the_west_can_weaken_putin_encourage/
 layout: post
 tags:
@@ -88,6 +88,12 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 ### 176: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/RussiaUkraineWar2022/comments/ts85a7/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:56+08:00.
 
 ----- __176.1__ -----2022-03-30 22:50:07+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 177: [Putin’s Pyrrhic Victory: Russia’s Setbacks in Eastern Ukraine Show Why It Can’t Win the Wider War](https://old.reddit.com/r/UkrainianConflict/comments/tsyxi0/putins_pyrrhic_victory_russias_setbacks_in/), submitted on 2022-03-31 20:44:23+08:00.
+
+----- __177.1__ -----2022-03-31 20:44:37+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
