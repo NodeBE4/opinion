@@ -111,3 +111,15 @@ Re @mulanwa 建议很好啊！很感谢您对议报的热心支持和关注。�
 
 清零制造人祸。继续强制清零隔离，各种次生人道灾难所酿成的悲剧还会不断发生。<br><br>iPaul🇨🇦🇺🇦: #上海 封控独居老人被饿死💔<br><br><img style="" src="https://pbs.twimg.com/media/FPFVL-DaUAMrvEP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPFVL-6aMAMdBN9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPFVL-JakAMQSy-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPFVL-DaMAUYbeV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 25: [2022-03-31 16:43:11+08:00 推文](https://twitter.com/realcaixia/status/1509451226735382535)
+
+民怨最终激起民变，大概率。<br><br>新闻/真话: 西安人被逼吃“英雄菜”也没敢造反。上海人吃不到平价菜，一怒之下竟然起义了……<br>真是出乎意料<br><br><video src="https://video.twimg.com/ext_tw_video/1509385315563180037/pu/vid/1280x720/YUC7NVgP1_ysG3dw.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1509385315563180037/pu/img/Encl1WykMsPIhyuh.jpg"></video>
+
+### 26: [2022-03-31 16:50:27+08:00 推文](https://twitter.com/realcaixia/status/1509453055472947202)
+
+孙大午家属声明，字字血声声泪！<br><br>八九季风: 看到#孙大午#家属这样字字血声声泪的声明，心如刀绞。<br>​这样明火执仗的抢劫，即使这伙人牠们生前遭不到惩罚，死后也会有报应，甚至会殃及牠们的子孙，牠们的罪过得由牠们的后人来为牠们忏悔。<br>​[发怒][尴尬][惊讶][难过][白眼][傲慢]<br><br><img style="" src="https://pbs.twimg.com/media/FPFD_93aIAAj2fP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-03-31 17:06:23+08:00 推文](https://twitter.com/realcaixia/status/1509457064577449988)
+
+特别推荐：#议报 发布大陆企业家蔡慎坤文章《别了，大午》<br>这是一篇泣血文字：孙大午是有情义有抱负有良知的农民企业家。他的情义全在对家乡父老乡亲和那片土地；他的抱负全在用勤劳创业改变村里的穷困闭塞；他的良知全在不走白道黑道只走正道，企业集团不行贿不与官员勾兑。 <a href="https://yibaochina.com/?p=245586" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245586</a>
+
