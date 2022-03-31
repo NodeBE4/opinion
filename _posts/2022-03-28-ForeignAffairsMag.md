@@ -97,3 +97,9 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 178: [Putin’s Pyrrhic Victory: Russia’s Setbacks in Eastern Ukraine Show Why It Can’t Win the Wider War](https://old.reddit.com/r/ukraine/comments/tszdbv/putins_pyrrhic_victory_russias_setbacks_in/), submitted on 2022-03-31 21:07:54+08:00.
+
+----- __178.1__ -----2022-03-31 21:08:27+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
