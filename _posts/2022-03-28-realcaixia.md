@@ -107,3 +107,7 @@ Re 有推友回复我：“酒店不赚，垫资，被隔离者交钱是给指�
 
 Re @mulanwa 建议很好啊！很感谢您对议报的热心支持和关注。我会问问后台技术支持，看怎么增加这个功能。
 
+### 24: [2022-03-31 09:16:39+08:00 推文](https://twitter.com/realcaixia/status/1509338854918180868)
+
+清零制造人祸。继续强制清零隔离，各种次生人道灾难所酿成的悲剧还会不断发生。<br><br>iPaul🇨🇦🇺🇦: #上海 封控独居老人被饿死💔<br><br><img style="" src="https://pbs.twimg.com/media/FPFVL-DaUAMrvEP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPFVL-6aMAMdBN9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPFVL-JakAMQSy-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPFVL-DaMAUYbeV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

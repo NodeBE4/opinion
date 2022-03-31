@@ -195,6 +195,10 @@ To be honest, only Gen 3 and EN have been explicitly themed (and even then, pira
 
 The 4-death thing also exists in a lot of Chinese languages; here in HK for instance this has also combined with 13 such that there are some buildings that will skip from the 12th to the 15th floor!
 
+----- __281.2__ -----2022-03-31 12:38:43+08:00:
+
+My general impression is that it tends only to be a feature of old-ish buildings and that newer ones won't skip 4s at all, and that anything with more than 40 storeys will be newer, but... I have nothing to back that up. According to a government website on the matter, 44 might be skipped, but not the entire run of 40s.
+
 ### 282: [This face radiates like 5 different emotions and I love it](https://old.reddit.com/r/Hololive/comments/ts2410/this_face_radiates_like_5_different_emotions_and/), submitted on 2022-03-30 16:56:17+08:00.
 
 ----- __282.1__ -----2022-03-31 11:07:01+08:00:
