@@ -103,3 +103,15 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 179: [How to Keep Belarus Out of the War: NATO Should Put the Squeeze on Russia’s Chief Accomplice](https://old.reddit.com/r/RussiaUkraineWar2022/comments/tt1374/how_to_keep_belarus_out_of_the_war_nato_should/), submitted on 2022-03-31 22:33:27+08:00.
+
+----- __179.1__ -----2022-03-31 22:35:32+08:00:
+
+\[SS from the article by Yevgeny Vindman, Colonel in the U.S. Army JAG Corps who served as Deputy Legal Adviser on the National Security Council from 2018 to 2020\]
+
+"Having failed to deter Russia from attacking Ukraine, the United States and its allies must urgently consider how to prevent Belarus from becoming a full belligerent in the war. A Belarusian invasion is not a foregone conclusion. Russia claims that it is now focused on gaining control of the Donbas, in the east of Ukraine and far from the border with Belarus, but it is unclear if that is really true or if Moscow is simply regrouping for future operations. Unless Western nations impose harsher sanctions on Belarus, position additional NATO troops along the country’s western border as a deterrent, and offer Minsk a diplomatic off-ramp, Belarusian troops may soon be fighting alongside their Russian counterparts in Ukraine."
+
+&#x200B;
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
