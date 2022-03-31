@@ -61,15 +61,23 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
-### 173: [Will Germany Stay the Course?: How Biden Can Keep Berlin Focused on Defense](https://old.reddit.com/r/europe/comments/ts7smt/will_germany_stay_the_course_how_biden_can_keep/), submitted on 2022-03-30 22:33:35+08:00.
+### 173: [War in Ukraine Megathread XVI](https://old.reddit.com/r/europe/comments/trx5y2/war_in_ukraine_megathread_xvi/), submitted on 2022-03-30 11:23:51+08:00.
 
------ __173.1__ -----2022-03-30 22:34:08+08:00:
+----- __173.1__ -----2022-03-31 22:38:24+08:00:
+
+[How to Keep Belarus Out of the War: NATO Should Put the Squeeze on Russia’s Chief Accomplice](https://www.foreignaffairs.com/articles/russia-fsu/2022-03-31/how-keep-belarus-out-war?utm_medium=social&utm_source=reddit_posts&utm_campaign=rt_soc)
+
+By Yevgeny Vindman, Colonel in the U.S. Army JAG Corps who served as Deputy Legal Adviser on the National Security Council from 2018 to 2020.
+
+### 174: [Will Germany Stay the Course?: How Biden Can Keep Berlin Focused on Defense](https://old.reddit.com/r/europe/comments/ts7smt/will_germany_stay_the_course_how_biden_can_keep/), submitted on 2022-03-30 22:33:35+08:00.
+
+----- __174.1__ -----2022-03-30 22:34:08+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
-### 174: [The Perilous Long Game in Ukraine: Compromising With Putin May Be America’s Best Option](https://old.reddit.com/r/geopolitics/comments/ts81mc/the_perilous_long_game_in_ukraine_compromising/), submitted on 2022-03-30 22:45:06+08:00.
+### 175: [The Perilous Long Game in Ukraine: Compromising With Putin May Be America’s Best Option](https://old.reddit.com/r/geopolitics/comments/ts81mc/the_perilous_long_game_in_ukraine_compromising/), submitted on 2022-03-30 22:45:06+08:00.
 
------ __174.1__ -----2022-03-30 22:46:41+08:00:
+----- __175.1__ -----2022-03-30 22:46:41+08:00:
 
 \[SS from the article by Samuel Charap, Senior Political Scientist at the RAND Corporation\]
 
@@ -79,33 +87,33 @@ The main challenge today is that Ukraine’s brave resistance—even combined wi
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
-### 175: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/UkrainianConflict/comments/ts84r2/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:14+08:00.
+### 176: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/UkrainianConflict/comments/ts84r2/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:14+08:00.
 
------ __175.1__ -----2022-03-30 22:49:23+08:00:
-
-Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
-
-### 176: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/RussiaUkraineWar2022/comments/ts85a7/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:56+08:00.
-
------ __176.1__ -----2022-03-30 22:50:07+08:00:
+----- __176.1__ -----2022-03-30 22:49:23+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
-### 177: [Putin’s Pyrrhic Victory: Russia’s Setbacks in Eastern Ukraine Show Why It Can’t Win the Wider War](https://old.reddit.com/r/UkrainianConflict/comments/tsyxi0/putins_pyrrhic_victory_russias_setbacks_in/), submitted on 2022-03-31 20:44:23+08:00.
+### 177: [Snort and Talk: Why Washington Has Long Struggled to Deter Russia—and How It Can Now](https://old.reddit.com/r/RussiaUkraineWar2022/comments/ts85a7/snort_and_talk_why_washington_has_long_struggled/), submitted on 2022-03-30 22:49:56+08:00.
 
------ __177.1__ -----2022-03-31 20:44:37+08:00:
-
-Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
-
-### 178: [Putin’s Pyrrhic Victory: Russia’s Setbacks in Eastern Ukraine Show Why It Can’t Win the Wider War](https://old.reddit.com/r/ukraine/comments/tszdbv/putins_pyrrhic_victory_russias_setbacks_in/), submitted on 2022-03-31 21:07:54+08:00.
-
------ __178.1__ -----2022-03-31 21:08:27+08:00:
+----- __177.1__ -----2022-03-30 22:50:07+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
-### 179: [How to Keep Belarus Out of the War: NATO Should Put the Squeeze on Russia’s Chief Accomplice](https://old.reddit.com/r/RussiaUkraineWar2022/comments/tt1374/how_to_keep_belarus_out_of_the_war_nato_should/), submitted on 2022-03-31 22:33:27+08:00.
+### 178: [Putin’s Pyrrhic Victory: Russia’s Setbacks in Eastern Ukraine Show Why It Can’t Win the Wider War](https://old.reddit.com/r/UkrainianConflict/comments/tsyxi0/putins_pyrrhic_victory_russias_setbacks_in/), submitted on 2022-03-31 20:44:23+08:00.
 
------ __179.1__ -----2022-03-31 22:35:32+08:00:
+----- __178.1__ -----2022-03-31 20:44:37+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 179: [Putin’s Pyrrhic Victory: Russia’s Setbacks in Eastern Ukraine Show Why It Can’t Win the Wider War](https://old.reddit.com/r/ukraine/comments/tszdbv/putins_pyrrhic_victory_russias_setbacks_in/), submitted on 2022-03-31 21:07:54+08:00.
+
+----- __179.1__ -----2022-03-31 21:08:27+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 180: [How to Keep Belarus Out of the War: NATO Should Put the Squeeze on Russia’s Chief Accomplice](https://old.reddit.com/r/RussiaUkraineWar2022/comments/tt1374/how_to_keep_belarus_out_of_the_war_nato_should/), submitted on 2022-03-31 22:33:27+08:00.
+
+----- __180.1__ -----2022-03-31 22:35:32+08:00:
 
 \[SS from the article by Yevgeny Vindman, Colonel in the U.S. Army JAG Corps who served as Deputy Legal Adviser on the National Security Council from 2018 to 2020\]
 
@@ -114,4 +122,15 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 &#x200B;
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 181: [The Sanctions War Is Just Beginning: Targeting Russia Was the Easy Part](https://old.reddit.com/r/TrueReddit/comments/tt187w/the_sanctions_war_is_just_beginning_targeting/), submitted on 2022-03-31 22:39:58+08:00.
+
+----- __181.1__ -----2022-03-31 22:40:59+08:00:
+
+\[SS from the article by Richard Nephew, Senior Research Scholar at Columbia University’s Center on Global Energy Policy and former Deputy Coordinator for Sanctions Policy at the U.S. State Department from 2013 to 2015.\]
+
+&#x200B;
+
+"The effort to squeeze Moscow economically is just beginning, and it will become more difficult to sustain as time goes on, especially if the Kremlin’s opponents target sectors that bite more sharply into the global economy. Disruptions in energy, food, agricultural goods, and trade routes will generate friction within the sanctions coalition—which currently counts Australia, Canada, Japan, South Korea, the United States, and the European Union among its members—especially if the burdens seem unbalanced or unfair. Russia will seek to exacerbate that friction through retaliatory measures, as it did last week when it shut down a major oil pipeline that runs from Kazakhstan to the Black Sea, allegedly due to bad weather. The sanctions coalition will probably prove more durable than Russia would like, but these points of tension will make it more difficult to roll out big measures with regularity and will create pressure for strict enforcement to ensure that evasive behavior by China, India, and other countries doesn’t sap away the potency of the sanctions regime.  
+As a stalemate between the Russian military and the Ukrainian resistance begins to look more probable, those hoping to check Moscow’s ambitions should bear in mind that Russia can readily exploit such a scenario by amplifying tensions within the coalition in order to tear it apart. Taken together, these factors portend a more challenging future for the sanctions campaign than its early successes might suggest. The United States and its allies must therefore dig in for the long haul—working together to identify the optimal next set of sanctions measures, craft a collective response to sanctions evasion and Russian retaliation, and present a unified front in the face of a potential Russian stalemate in Ukraine—if they seek to sustain an effective sanctions regime against Russia."
 
