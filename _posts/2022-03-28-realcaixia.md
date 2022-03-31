@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-03-31
+date: 2022-04-01
 from: https://twitter.com/realcaixia/status/1508123460131770368
 layout: post
 tags:
@@ -122,4 +122,12 @@ Re @mulanwa 建议很好啊！很感谢您对议报的热心支持和关注。�
 ### 27: [2022-03-31 17:06:23+08:00 推文](https://twitter.com/realcaixia/status/1509457064577449988)
 
 特别推荐：#议报 发布大陆企业家蔡慎坤文章《别了，大午》<br>这是一篇泣血文字：孙大午是有情义有抱负有良知的农民企业家。他的情义全在对家乡父老乡亲和那片土地；他的抱负全在用勤劳创业改变村里的穷困闭塞；他的良知全在不走白道黑道只走正道，企业集团不行贿不与官员勾兑。 <a href="https://yibaochina.com/?p=245586" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245586</a>
+
+### 28: [2022-03-31 21:56:48+08:00 推文](https://twitter.com/realcaixia/status/1509530151549227008)
+
+再推荐：<br>文章回顾曾寄望习推进宪政改革的幻想像肥皂泡般破灭。<br>&nbsp;习10年政治倒退和全面流氓化，中国走向国际孤立和冲突。<br>习希图建立一个与西方抗衡的法西斯红色帝国。<br>文章认为习的误判、极权人格、学识认知缺陷决定了他对极权主义的依赖。<br>文章预测习和中共可能的几种结局。 <a href="https://yibaochina.com/?p=245173" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245173</a>
+
+### 29: [2022-04-01 00:43:57+08:00 推文](https://twitter.com/realcaixia/status/1509572215234248708)
+
+谁能想到上海“清零”隔离是这样的？几百个婴儿幼儿被强制与妈妈分离！反人伦反人类！偶然看到这个推发出的上海妈妈透露的情况，心一下就抽得紧紧的揪着疼。所有的妈妈都会心疼，不敢想，这些婴儿…<br><br>Inty: 中国上海，惨绝人寰的反人类防疫，几百个婴儿被强制与父母分离，都进行隔离。<br><br>小孩子们的大小便不能被按时清理，很多婴儿不会翻身，屁股都烂了。<br><br>以上这种情况也是过去几年中国在新疆集中营关押上百万维吾尔人造成骨肉分离的情节。<br><br><img style="" src="https://pbs.twimg.com/media/FPKV41qVUAAf89Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPKV41oVQAIKSby?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
