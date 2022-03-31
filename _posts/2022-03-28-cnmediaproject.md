@@ -107,3 +107,11 @@ RT FT China<br>Russia’s invasion of Ukraine forges new unity of EU purpose o
 
 Re @lingli_vienna More on all of this ridiculousness in 思政 in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a>
 
+### 24: [2022-03-31 17:11:23+08:00 推文](https://twitter.com/ingriddhooghe/status/1509458322403037191)
+
+RT Ingrid d'Hooghe<br>New UK report by @Michael_Natzler highlights urgent need to address severe UK deficit in China literacy. Situation is no better - or even much worse - elsewhere in Europe. @HEPI_news  1/2 <a href="https://www.hepi.ac.uk/wp-content/uploads/2022/03/Understanding-China-The-study-of-China-and-Mandarin-in-UK-schools-and-universities.pdf" target="_blank" rel="noopener noreferrer">https://www.hepi.ac.uk/wp-content/uploads/2022/03/Understanding-China-The-study-of-China-and-Mandarin-in-UK-schools-and-universities.pdf</a>
+
+### 25: [2022-03-31 21:57:17+08:00 推文](https://twitter.com/MariaRepnikova/status/1509530274668826644)
+
+RT Maria Repnikova<br>Very interesting thread on #China #Israel media cooperation<br><br>Alexander B. Pevzner 裴則男: #China deputy #propaganda minister, China Media Group head Shen Haixiong (慎海雄) meets #Israel Ambassador to China Irit Ben Abba, talks up media exchanges and "further consolidating the public opinion basis of the friendship between the two peoples @cnmediaproject  @niubi 1/5<br>
+
