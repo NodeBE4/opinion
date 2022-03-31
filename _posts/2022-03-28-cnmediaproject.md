@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-30
+date: 2022-03-31
 from: https://twitter.com/vshih2/status/1508173899736903680
 layout: post
 tags:
@@ -82,4 +82,28 @@ Re And yet, Party-state media fulminate against "Western countries" (today: 美�
 ### 17: [2022-03-30 14:58:04+08:00 推文](https://twitter.com/EmilyZFeng/status/1509062387550154752)
 
 RT Emily Feng 冯哲芸<br>Horror stories from Jilin province, which remains sealed off.<br><br>90 out of 160 construction workers sent to build emergency isolation wards fall ill themselves, wait days for care &amp; shelter before finally getting a bed in the quarantine center they built. <a href="https://china.caixin.com/2022-03-30/101863092.html" target="_blank" rel="noopener noreferrer">https://china.caixin.com/2022-03-30/101863092.html</a>
+
+### 18: [2022-03-30 22:14:41+08:00 推文](https://twitter.com/China_Digital/status/1509172262477385737)
+
+RT China Digital<br>For China and cybersecurity geeks: I've published a new working paper that maps the historical evolution of China's concept of cybersecurity, as well as the policy, legal and regulatory ways in which it has sought to realise it. Freely available on SSRN: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070682" target="_blank" rel="noopener noreferrer">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4070682</a>
+
+### 19: [2022-03-30 22:30:08+08:00 推文](https://twitter.com/bibekbhandari/status/1509176153097056257)
+
+RT Bibek Bhandari<br>Ok, we’re finally slapped with this Twitter label. <br><br>Regardless of the labeling, I highly recommend you to follow and read @SixthTone to stay informed on China stories you’re unlikely to read anywhere. We report with integrity, and try pushing the envelop as far as we can.<br><img style="" src="https://pbs.twimg.com/media/FPGrtJDXMAUWT5O?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-03-30 23:03:58+08:00 推文](https://twitter.com/luchenhwa/status/1509184666766495750)
+
+RT Zhenhua Lu<br>Communist Party appointed Tuesday three new party chiefs for Hubei, Qinghai and Ningxia, bringing the total number of provincial level regions with new top party secretaries to 14 in the run-up to the 20th national party congress scheduled to take place in autumn.<br><img style="" src="https://pbs.twimg.com/media/FPGzc7TVQAIy1SF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-03-31 01:06:18+08:00 推文](https://twitter.com/lingli_vienna/status/1509215452513325059)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How to incorporate political education into biology classes?<br><br>The teaching guidelines showed the rope:<br><br>For the chapter on fish, one can relate to the fish-and-water symbiotic relationship between the Party and the people.<br><img style="" src="https://pbs.twimg.com/media/FPHOhv4XIAAnqLX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-03-31 07:32:17+08:00 推文](https://twitter.com/ftchina/status/1509312589867663370)
+
+RT FT China<br>Russia’s invasion of Ukraine forges new unity of EU purpose on China <a href="https://on.ft.com/3DosNXn" target="_blank" rel="noopener noreferrer">https://on.ft.com/3DosNXn</a>
+
+### 23: [2022-03-31 09:24:45+08:00 推文](https://twitter.com/cnmediaproject/status/1509340891399753731)
+
+Re @lingli_vienna More on all of this ridiculousness in 思政 in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a>
 
