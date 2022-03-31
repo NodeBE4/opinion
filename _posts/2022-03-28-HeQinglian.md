@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-03-31
+date: 2022-04-01
 from: https://twitter.com/HeQinglian/status/1508135707226824707
 layout: post
 tags:
@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -722,4 +722,84 @@ Re @wwnnppyy @enoughtalk4 @HN9lgoeZB4f7p4V @canadakazama @BigbirdflyChan 最近�
 ### 177: [2022-03-31 20:37:18+08:00 推文](https://twitter.com/HeQinglian/status/1509510146065637382)
 
 Re @XIONGXIONG1016 不是一直都有这类信息吗？包括普京身边的人一个个被抓、被打死、普京精神失常。<br>昨天纽约时报那文章将这类信息列了一个大全，有助于你们找到自己的观察思路“发展史”。难道你没看？<br>这点你还真需要向我学习，我连你转来的都看了。
+
+### 178: [2022-03-31 21:47:42+08:00 推文](https://twitter.com/HeQinglian/status/1509527859865407495)
+
+Re @NelsonZhao3 @BigbirdflyChan @wwnnppyy 你成了宣传部？干预我转推的自由？<br>别给点颜色就开染坊，你越界了。
+
+### 179: [2022-03-31 21:49:46+08:00 推文](https://twitter.com/HeQinglian/status/1509528382878334984)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 我今天看见欧洲之外的中国人对我说，他愿意为欧洲物价上涨承受代价，还是挺高尚的。那位小朋友挺可爱的，知道表态也算同甘共苦。😂
+
+### 180: [2022-03-31 21:50:31+08:00 推文](https://twitter.com/HeQinglian/status/1509528569004924929)
+
+Re @wwnnppyy @Sumerian0 你读了心情不好，然后又来我这里小小地胡闹一把，不好玩。
+
+### 181: [2022-03-31 21:52:31+08:00 推文](https://twitter.com/HeQinglian/status/1509529072841465858)
+
+Re @KELMAND1 这可能是“共享信息革命”的信息战没能控制的一个死角，漏光了。😂
+
+### 182: [2022-03-31 22:01:58+08:00 推文](https://twitter.com/HeQinglian/status/1509531451141754883)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 左派从来就是造反起家，挑战现有伦理秩序，擅长分钱，歪斜理论一套一套，但从不务实，有的一辈子就吃财政或者财政边缘饭，因此根本不知道后果是什么。<br>美国这么强大，世界第一军事、经济强国，俄罗斯的GDP总量只美国的十分之一，巨掌之下，联合几十国盟友一战而决，欧盟的能源依赖烦恼，美左想得少。
+
+### 183: [2022-03-31 22:03:14+08:00 推文](https://twitter.com/HeQinglian/status/1509531769300684805)
+
+Re @wwnnppyy @Sumerian0 我喜欢聪明后进，调皮捣蛋无所谓。<br>但不喜欢想歪理还自以为是的后进。
+
+### 184: [2022-03-31 22:08:59+08:00 推文](https://twitter.com/HeQinglian/status/1509533218973925376)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 拜登说了，支援你们150亿吨立方米天然气。还是挺诚心的，自家一时产不出，高价买了中石油的俄产天然气，再加价运到欧洲——这点呢，还是要理解，天底下没有免费午餐。<br>拜登还说了：“我知道让欧盟吃亏了，但还得这么干”，因为必须拖死俄罗斯。<br>你德就多理解吧，不要那么狭隘。😂
+
+### 185: [2022-03-31 22:17:57+08:00 推文](https://twitter.com/HeQinglian/status/1509535474544787456)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 说起来，这些年左派太顺利，想取消谁就取消谁，想让谁成为贵族、任意抢劫就可以达成。因此忘记了自家老祖宗新马的理论：殖民地后期的“中心-边缘论”<br>那理论谈的是：中心国家（美欧）提供技术、工业品；边缘国家（资源型欠发达国家）提供资源、农产品。前者剥削后者<br>美国资源、技术均能自立，忘记这茬了
+
+### 186: [2022-03-31 22:18:20+08:00 推文](https://twitter.com/HeQinglian/status/1509535568891371525)
+
+Re @wwnnppyy @Sumerian0 真想学，先学尊重事实。
+
+### 187: [2022-03-31 22:23:24+08:00 推文](https://twitter.com/HeQinglian/status/1509536847671738375)
+
+Re @JianglinLi 最近，希拉里因通俄门造假，浪费公帑3000多万美元，川普受了两年折磨，法律判她罚款5万美元。<br>估计美国第一公子拜少，最后会因精神状态问题，免予刑责，交老拜家看管——这已经是美国讲法治的结果了。<br>当初我曾说过，选老拜的好处就是可以胡言乱语，不用负责——老年痴呆也是遁责资产。
+
+### 188: [2022-03-31 22:28:46+08:00 推文](https://twitter.com/HeQinglian/status/1509538197079998469)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 阿明因“中心-边缘论”封圣，伦敦经济学院前几年还在讲授其理论，他的学术地位在发展中国家堪比那个终结历史的福山大师。<br>全球化后来加了价值观。
+
+### 189: [2022-03-31 22:33:36+08:00 推文](https://twitter.com/HeQinglian/status/1509539413986095109)
+
+Re @princeton_walk 后备役。我儿子有个俄罗斯网友，最近20天内，收到的通知变了几次：战争初起，说要去；20天前，说不必去了；一星期前，说要去乌克兰，时间是三个月至半年。<br>估计是治安，因为都没经过强训练，上战场不行。
+
+### 190: [2022-03-31 22:34:30+08:00 推文](https://twitter.com/HeQinglian/status/1509539639958425602)
+
+Re @shiyoutang @JianglinLi 好希望你去当法官。😂
+
+### 191: [2022-03-31 23:08:53+08:00 推文](https://twitter.com/HeQinglian/status/1509548293226905601)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 制裁一开始，IMF就急得不行，连发几声明，说将对世界经济造成严重影响。<br>这两个全球化的金融机构，职能有点区别。<br>世界银行由美国人掌管，IMF创始时，美国人第一大股东，但官员由欧盟提名任免，是欧盟的地盘。因此，知道对欧盟的杀伤力。
+
+### 192: [2022-03-31 23:18:45+08:00 推文](https://twitter.com/HeQinglian/status/1509550776326127622)
+
+他是中国新左派的圣人，前两年还开会<br>《纪念萨米尔·阿明：全球化的历史脉络》<br> <br>有助于你了解些ABC。<br><br>shapeless: @HeQinglian @JianglinLi @Wu_Zhi @david_david1968 请问何老师， 有哪本书您可以介绍让我们了解这个“中心-边缘论”？ 中英文皆可。谢谢<br>
+
+### 193: [2022-04-01 00:04:05+08:00 推文](https://twitter.com/HeQinglian/status/1509562183075696644)
+
+假減兵真部署？ 俄羅斯鎖定烏東城市 <br>今天相关的信息有点意思，都说俄罗斯准备新的战事了。泽连斯基要求澳大利亚不买俄资源，提供武器支持乌克兰。<br>昨天和谈消息出来，95%的媒体都说普京打不动了，找个台阶下。<br>回查五轮和谈，就是这类消息的循环。 <a href="https://p.dw.com/p/49G42?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49G42?maca=zh-Twitter-sharing</a>
+
+### 194: [2022-04-01 00:13:42+08:00 推文](https://twitter.com/HeQinglian/status/1509564601599512587)
+
+Re @KingWan86749833 这是战争双方与美国的事，打吧。
+
+### 195: [2022-04-01 00:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1509566842146373634)
+
+Re @KingWan86749833 媒体一直在赢。
+
+### 196: [2022-04-01 00:36:51+08:00 推文](https://twitter.com/HeQinglian/status/1509570429958115336)
+
+Re @KingWan86749833 从2020年开始，涉及左派利益的话题，几乎都是宣传。
+
+### 197: [2022-04-01 01:24:02+08:00 推文](https://twitter.com/HeQinglian/status/1509582301453332490)
+
+Re @lile88990 加拿大这么暴力的是哪些人？<br>美国是Antifa与BLM。
 
