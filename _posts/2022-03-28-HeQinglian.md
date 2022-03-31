@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -622,4 +622,48 @@ Re @miaomiao5556 不是。我如果要写西方媒体的政治正确，也不会
 ### 152: [2022-03-31 09:51:35+08:00 推文](https://twitter.com/HeQinglian/status/1509347645923504132)
 
 Re @jason78proton 就是通过那银行折冲。
+
+### 153: [2022-03-31 09:58:01+08:00 推文](https://twitter.com/ChineseWSJ/status/1509349264023040003)
+
+RT 华尔街日报中文网<br>克里姆林宫否认了关于俄乌双方代表周二在土耳其举行的会谈是一个转折点的说法，这给围绕最新俄乌和谈取得突破的憧憬泼了一盆冷水，俄军并且加强了对乌克兰东部地区的地面和空中攻击。而美国国防部称俄罗斯转移了不到20%的基辅附近军队。 <a href="https://on.wsj.com/3tOWGwN" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3tOWGwN</a>
+
+### 154: [2022-03-31 10:20:00+08:00 推文](https://twitter.com/rijingzhongwen/status/1509354794980364293)
+
+RT 日经中文网<br>【小麦供应面临“夏季断崖”】全球26个国家对俄乌的小麦依赖度超过50%，两国全年小麦出口量合计占全球约3成，夏秋季节份额尤其大。从库存来看，不包括中国的实际全球库存量处于低水平。世界第2大小麦生产国印度在摸索扩大出口…… <a href="https://cn.nikkei.com/politicsaeconomy/commodity/48112-2022-03-31-10-03-18.html" target="_blank" rel="noopener noreferrer">https://cn.nikkei.com/politicsaeconomy/commodity/48112-2022-03-31-10-03-18.html</a>
+
+### 155: [2022-03-31 10:45:25+08:00 推文](https://twitter.com/HeQinglian/status/1509361193353367553)
+
+Re @robert20220218 资源定价权。
+
+### 156: [2022-03-31 10:48:02+08:00 推文](https://twitter.com/HeQinglian/status/1509361851330613251)
+
+Re @robert20220218 怎么说呢？看来你不知道卢布已经回到制裁前的比价了，去看一下相关信息吧。
+
+### 157: [2022-03-31 10:50:53+08:00 推文](https://twitter.com/HeQinglian/status/1509362566732169219)
+
+Re @robert20220218 普及一下，注意路透社的评价。但如果你对国际金融完全外行，就算了。<br>俄罗斯入侵乌克兰：俄反击欧美金融制裁，天然气出口改用卢布结算有何影响 <a href="https://www.bbc.com/zhongwen/simp/business-60860487" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/business-60860487</a>
+
+### 158: [2022-03-31 10:52:44+08:00 推文](https://twitter.com/HeQinglian/status/1509363034216710162)
+
+Re @seadognw 这个所罗门建军事基地是件大事，是战略性布子。澳大利亚目前也是没啥办法。
+
+### 159: [2022-03-31 10:57:38+08:00 推文](https://twitter.com/HeQinglian/status/1509364265030934536)
+
+Re @robert20220218 你是否明白？俄的所有外汇资产都被冻结了，再换回来也没处用。
+
+### 160: [2022-03-31 12:24:08+08:00 推文](https://twitter.com/HeQinglian/status/1509386036597727236)
+
+Re @Sumerian0 1、外界看法与当事人的承认，不是一回事；<br>2、注意纽时文章最后一句“然而，在战争、政治和生活中，把你的对手当作一只狡猾的狐狸，而不是一个疯狂的傻瓜，这总是更明智的做法。”<br>3、从完全无视将平民留置战区这一事实到承认有，就是承认将平民当肉盾，采访里有人说应该撤出，就是指此。
+
+### 161: [2022-03-31 12:40:01+08:00 推文](https://twitter.com/HeQinglian/status/1509390034096607235)
+
+Re @farmdirect8 我不这样看。<br>这样带病进白宫的家庭我还没见过，在其他民主国家也少见。进去之后得病是另一回事。<br>美国是媒体选总统。同一事，当初媒体集体消声，此时此事翻出来，不为无因。<br>等着看吧。
+
+### 162: [2022-03-31 12:48:19+08:00 推文](https://twitter.com/HeQinglian/status/1509392119177351170)
+
+Re @Sumerian0 “If there is military equipment there and [the Russians] are saying we are launching at this military equipment, it undermines an assertion that they are attacking intentionally civilian objects and civilians,” said Richard Weir, a researcher in Human Rights Watch’s crisis and …
+
+### 163: [2022-03-31 12:50:26+08:00 推文](https://twitter.com/HeQinglian/status/1509392652994846720)
+
+Re @Sumerian0 华邮摘引的这段话很委婉，但指什么，你我心里都一清二楚。<br>出现如此局面，你不甘心，理解。但事实就是事实。<br>昨天泽连斯基的顾问也承认有此事，并说情况特殊，不能按日内瓦准则对待。我推上转过。
 

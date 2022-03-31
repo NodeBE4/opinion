@@ -253,9 +253,35 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 289: [Who designed the Newfoundland coat of arms?](https://old.reddit.com/r/AskHistorians/comments/tsq3n0/who_designed_the_newfoundland_coat_of_arms/), submitted on 2022-03-31 10:54:21+08:00.
+### 289: [How did the Romans stop water from the aqueducts from overflowing?](https://old.reddit.com/r/AskHistorians/comments/tspjm7/how_did_the_romans_stop_water_from_the_aqueducts/), submitted on 2022-03-31 10:23:25+08:00.
 
------ __289.1__ -----2022-03-31 10:58:18+08:00:
+----- __289.1__ -----2022-03-31 13:23:33+08:00:
+
+They didn't. Or, well, it's a little more complicated than that.
+
+Here I'll exclusively be discussing the city of Rome, as that's the bit of the aqueducts I'm familiar with, albeit primarily from Frontinus' *de Aquaeductu* rather than from the archaeological evidence which I fully admit that others understand better. Frontinus, who was appointed supervisor of the aqueducts by Nerva in 97 and retained this posting for at least part of the reign of Trajan, notes that there were in fact regulations to deal with the result of overflow, rather than prevent it:
+
+> 94: We have further to indicate what is the law with regard to conducting and safeguarding the waters, the first of which treats of the limitation of private parties to the measure of their grants, and the second has reference to the upkeep of the conduits themselves. In this connection, in going back to ancient laws enacted with regard to individual aqueducts, I found certain points wherein the practice of our forefathers differed from ours. With them all water was delivered for the public use, and the law was as follows: "No private person shall conduct other water than that which flows from the basins to the ground" (for these are the words of the law); that is, water which overflows from the troughs; we call it "lapsed" water;​ and even this was not granted for any other use than for baths or fulling establishments; and it was subject to a tax, for a fee was fixed, to be paid into the public treasury. Some water also was conceded to the houses of the principal citizens, with the consent of the others.
+
+> 110: Those waters also that are called "lapsed," namely, those that come from the overflow of the reservoirs or from leakage of the pipes, are subject to grants; which are wont to be given very sparingly, however, by the sovereign. But this offers opportunity for thefts by the water-men; and how much care should be devoted to preventing these, may be seen from a paragraph of an ordinance, which I append:
+
+> 111" "I desire that no one shall draw 'lapsed' water except those who have permission to do so by grants from me or preceding sovereigns; for there must necessarily be some overflow from the reservoirs, this being proper not only for the health of our City, but also for use in the flushing of the sewers."
+
+In effect, the Romans were happy to have more water than they needed, and traditionally, any excess water could essentially be bought and resold by private parties that collected it, a legal principle that helped contribute to the corruption issues in the water administration that would lead to Frontinus' appointment. Presumably, if his proposals were ratified by Trajan, then this would have been amended somewhat by requiring a specific grant to allow such private parties to collect excess water, and earmarking a portion for flushing the sewage system.
+
+That is not to say that the situation in Rome was universal across the empire, of course. Vitruvius, in his section on aqueducts, describes what is essentially an ideal aqueduct system, and for his part suggests that cities should aim to supply enough water for public needs, with any excess going to private parties that had paid for a connection to the water supply:
+
+> 1. [...] When they are brought home to the walls of the city a reservoir (*castellum*) is built, with a triple cistern attached to it to receive the water. In the reservoir are three pipes of equal sizes, and so connected that when the water overflows at the extremities, it is discharged into the middle one,
+
+> 2. in which are placed pipes for the supply of the fountains, in the second those for the supply of the baths, thus affording a yearly revenue to the people; in the third, those for the supply of private houses. This is to be so managed that the water for public use may never be deficient, for that cannot be diverted if the mains from the heads are rightly constructed. I have made this division in order that the rent which is collected from private individuals who are supplied with water, may be applied by collectors to the maintenance of the aqueduct.
+
+In effect, by placing the distribution pipes for the public services lower down, they would get water first, and any excess would then go to private parties. That said, Vitruvius does not discuss the matter of 'lapsed' water, i.e. leaks and overflow, principally as he is more interested in the infrastructure than the administration.
+
+As for whether there were limits on flow at baths and fountains, this does not seem to have been the case at all. Baths largely took poorer-quality water, wastage of which was not particularly serious as it was not for drinking; fountains were supposed to flow constantly, so a bit of wastage would be unfortunate but not by any means fatal. But more importantly, the output of the fountains was probably monitored in some way, and in Rome at least, the Senate did hold power over the quantity of public fountains and could mandate increases or decreases, such that in the longer term, fountain output was generally kept stable.
+
+### 290: [Who designed the Newfoundland coat of arms?](https://old.reddit.com/r/AskHistorians/comments/tsq3n0/who_designed_the_newfoundland_coat_of_arms/), submitted on 2022-03-31 10:54:21+08:00.
+
+----- __290.1__ -----2022-03-31 10:58:18+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
