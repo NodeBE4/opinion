@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -954,4 +954,20 @@ Re @wwnnppyy 正是因为这样，我们不愿意失去美国（以前的美国�
 ### 235: [2022-04-02 05:28:36+08:00 推文](https://twitter.com/HeQinglian/status/1510006239404728321)
 
 Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际经济事务的美国副国安顾问达利普·辛格（Daleep Singh）于3月30日和31日访问新德里，要求印度不要帮俄罗斯破坏以美元为基础的金融体系<br>31日，辛格还表示美国不想看到印度“加速”进口受到制裁的俄罗斯能源和大宗商品，试图规避禁令的国家会面临后果<br>“事急矣”。
+
+### 236: [2022-04-02 05:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1510010277273776146)
+
+Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
+
+### 237: [2022-04-02 06:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1510014896141963269)
+
+Re @Wu_Zhi @JianglinLi 连同这篇一起看。 <a href="https://www.ft.com/content/d7baedc7-c3b2-4fa4-b8fc-6a634bea7f4d" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/d7baedc7-c3b2-4fa4-b8fc-6a634bea7f4d</a>
+
+### 238: [2022-04-02 06:08:15+08:00 推文](https://twitter.com/HeQinglian/status/1510016214793396226)
+
+Re @19890604KGB 你与白宫感觉高度一致。😂😂<br>派了印裔国家安全副顾问去说服母邦，好象效果不佳。见我别的推。
+
+### 239: [2022-04-02 06:28:06+08:00 推文](https://twitter.com/HeQinglian/status/1510021211996184578)
+
+俄天然气公司因定价问题退出德国业务 <br>3月31日普京签署法令，要求德国等开设卢布账户用于支付天然气能源，否则綫路可能被切断。德国约40%的天然气需求仍依赖俄<br>作爲回应，德国经济部考虑徵用俄天然气工业股份公司和俄罗斯石油公司在德国的单位与设施<br>问：断气后，设施何用？ <a href="https://rfi.my/8InA.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8InA.T</a>
 
