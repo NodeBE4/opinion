@@ -47,3 +47,15 @@ Hebei woman Jiang administratively detained for posting "negative comments" on C
 
 What we can easily tell from open sources is that Covid related speech crackdown in China never stopped, and it doesn’t seem to be stopping.<br><img style="" src="https://pbs.twimg.com/media/FPN36jHXMAMRHpX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN36jhXMAImg6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN36jhWQAEv0YL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN36j5XsAAVWxt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 9: [2022-04-01 23:17:45+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1509912911463997445)
+
+近日，一段网传视频显示长春防疫人员摆拍送菜，引发热议，随后长春公安第一时间解决了提出问题的人，讲视频发布者马某财刑事拘留，称其视频为谣言。<br>几乎同一时间，视频中的社区党委发表声明，承认了视频属实，且是近日的事，但地点在吉林市而非长春市。<br><img style="" src="https://pbs.twimg.com/media/FPRH9azWUAA4jNR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPRH9a5WYAcpj6t?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-04-01 23:23:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1509914340429811715)
+
+Changchun man Ma criminally detained for posting an “untrue” video on internet in which local authority was staging a grocery delivery scene for propaganda purpose. Later authorities later clarified in a statement that the video content was true but happened in another city.<br><img style="" src="https://pbs.twimg.com/media/FPRJ0X5XEAQ77Hp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPRJ0YKXoAclJor?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-04-01 23:31:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1509916289305034752)
+
+Re 一个比较有意思的问题是，到底谁在造谣？<br>是发布真实视频但说错了地点的马某财？<br>还是这个自称送菜了但其实没送的拍摄团队？
+

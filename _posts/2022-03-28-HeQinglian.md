@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-01
+date: 2022-04-02
 from: https://twitter.com/HeQinglian/status/1508135707226824707
 layout: post
 tags:
@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -890,4 +890,68 @@ Re @KELMAND1 应该就是这十来天的事了。
 ### 219: [2022-04-01 23:33:28+08:00 推文](https://twitter.com/HeQinglian/status/1509916864683692039)
 
 Re @wwnnppyy 我一直想知道你在哪地。如果人在欧洲，也许没这么乐观了，因为自己也在同熬。
+
+### 220: [2022-04-02 00:30:20+08:00 推文](https://twitter.com/HeQinglian/status/1509931176995266573)
+
+Re @wwnnppyy 挺好，祝你享受变性的自由，拜登说了，Trans People is Made in of God.<br>不过，你如果是家长，你不能干预子女变性的自由，否则大牢伺候，加州已是如此。
+
+### 221: [2022-04-02 00:32:45+08:00 推文](https://twitter.com/HeQinglian/status/1509931784351457280)
+
+Re @dongxue815 骂得好。
+
+### 222: [2022-04-02 01:25:14+08:00 推文](https://twitter.com/HeQinglian/status/1509944992516685826)
+
+Re @wwnnppyy 我还盯着拜登政府的腐败自由、取消文化。别以为不取消你，某天你说了他们不喜欢的话，就会被取消，比如2020年纽约邮报登了小拜的电脑门，这家美国第四的报纸被Twitter取消几个月。<br>你还想留下来，就不要再留那些不着调的言了。
+
+### 223: [2022-04-02 01:27:34+08:00 推文](https://twitter.com/HeQinglian/status/1509945581732777984)
+
+小拜登与乌克兰的利益关系，在美国也就差一张纸没揭穿的事情。<br><br>Amy: 印度主持人大骂美国代表，“这不是我们印度的战争！是你们美国把乌克兰推向了战争！是你们美国在乌克兰建立了生物实验室！是拜登的儿子在乌克兰做各种生意！乌克兰人需要的是食物而不是武器！你们给他们武器只会让乌克兰陷入更大的困境！”<br><br><video src="https://video.twimg.com/ext_tw_video/1509708935279923200/pu/vid/1280x720/iqrO5kGm1Sr9JfWG.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1509708935279923200/pu/img/RpBXUl0sthAxwcXf.jpg"></video>
+
+### 224: [2022-04-02 01:31:01+08:00 推文](https://twitter.com/HeQinglian/status/1509946447575359498)
+
+Re @wwnnppyy @FlyInRainS3 你举个例子，哪个国家迎来了新生，从阿富汗、南非、北非中东四国倒着数，美国象不象熊瞎子掰玉米？
+
+### 225: [2022-04-02 01:33:40+08:00 推文](https://twitter.com/HeQinglian/status/1509947116927467524)
+
+Re @racoonincan 去把俄罗斯、中东拿下来。一切都解决，问题是，谁能拿下？
+
+### 226: [2022-04-02 01:46:42+08:00 推文](https://twitter.com/SSK2024/status/1509950394901876737)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>索维尔：如果我们继续付钱让人们互相憎恨，我们就是历史上最大的傻瓜。 无论是用“多元文化”、“多样性”或“性别意识”等漂亮名字来称呼，这都是它（互相憎恨）的全部真实含义。<br><br>历史上我们华人的经历与惨痛的教训还少吗？挑起群众斗群众！用纳税人的钱搞新项目CRT、DEI、BLM⋯都是让撕裂毁坏在人们之间。<br><img style="" src="https://pbs.twimg.com/media/FPRr4ZrWUAsBHCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 227: [2022-04-02 04:07:51+08:00 推文](https://twitter.com/HeQinglian/status/1509985916370182155)
+
+Re @Wu_Zhi @JianglinLi @TomMa07952688 这场美国代理人战争，确实是凭借“美国灯塔”过去积累的好感与思维惯性，以及俄-苏积累的恶感在支撑舆论战。<br>实力方面，美军神一般的存在（海湾战争一战），也是“力”的震慑。<br>不知此战过后，这一优势还能维持多久。
+
+### 228: [2022-04-02 04:12:41+08:00 推文](https://twitter.com/HeQinglian/status/1509987131955064835)
+
+Re @wwnnppyy 美国人正在失去财产权利，数学货币推行后，很快就会尝到加拿大卡车司机已经尝试过的滋味了。<br>你对今天的美国毫不了解。
+
+### 229: [2022-04-02 04:21:14+08:00 推文](https://twitter.com/HeQinglian/status/1509989284136333312)
+
+Re @wwnnppyy 我还是让你将这个问题的要害弄清楚：<br>1、个人变性，是个人自由。但象美国加州这样用法律规定允许未成年人不经父母同意变性，并在全国推广，就是用法律干预个人自由，也违反保护未成年人法。<br>2、家长不允许子女变性，施行法律惩罚，是用剥夺公民正常权利包括子女监护权满足极少数人变态欲望。<br>好好读书
+
+### 230: [2022-04-02 04:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1509992218018435074)
+
+Re @plus07253487 @CrabNJ 英国是跟班。
+
+### 231: [2022-04-02 04:37:41+08:00 推文](https://twitter.com/HeQinglian/status/1509993425566941186)
+
+Re @racoonincan @wen_spring 身份政治别用到国际社会来，国际社会是主权论。如果要用，并且按西方标准，全世界都被瓜分，集中资源供30多个国家使用。你的国家也不在享受行列，是贡献行列。<br>这贡献最后养黑、穆，因为他们是新贵族。<br>你不知道有个自然资源主权论？如果不满意你国，为你国改造成你希望的模样努力就行。
+
+### 232: [2022-04-02 04:39:45+08:00 推文](https://twitter.com/HeQinglian/status/1509993944653996038)
+
+Re @JianglinLi @Wu_Zhi @TomMa07952688 有时候保持神秘感较有威慑力，如果以阿富汗这力道，可能掉底。<br>当然，如果是比武器，天下无敌。
+
+### 233: [2022-04-02 04:41:52+08:00 推文](https://twitter.com/HeQinglian/status/1509994478098173959)
+
+Re @schwabishbaueri @franktianxie @dajiyuan 连IMF都对此不淡定，一个月下来，警告了四次。你倒是比那机构的货币专家与经济学家淡定。😂😂
+
+### 234: [2022-04-02 05:08:48+08:00 推文](https://twitter.com/HeQinglian/status/1510001257401966596)
+
+Re @wwnnppyy 正是因为这样，我们不愿意失去美国（以前的美国），不想看到美国堕落成2020年之后去民主化这样。<br>我的推特置顶就是这条。<br>言尽于此。
+
+### 235: [2022-04-02 05:28:36+08:00 推文](https://twitter.com/HeQinglian/status/1510006239404728321)
+
+Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际经济事务的美国副国安顾问达利普·辛格（Daleep Singh）于3月30日和31日访问新德里，要求印度不要帮俄罗斯破坏以美元为基础的金融体系<br>31日，辛格还表示美国不想看到印度“加速”进口受到制裁的俄罗斯能源和大宗商品，试图规避禁令的国家会面临后果<br>“事急矣”。
 
