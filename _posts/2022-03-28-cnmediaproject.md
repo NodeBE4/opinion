@@ -143,3 +143,11 @@ Reframing Russia's Invasion of Ukraine: How the Chinese government has consisten
 
 President Who? The conspicuous absence of Ukrainian President Zelensky from the CCP's flagship newspaper is a salient illustration of China's alignment with Russia. <a href="https://bit.ly/3tY1VKH" target="_blank" rel="noopener noreferrer">https://bit.ly/3tY1VKH</a><br><img style="" src="https://pbs.twimg.com/media/FPQ5CuGaAAEGhER?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 33: [2022-04-01 22:31:58+08:00 推文](https://twitter.com/NeysunM/status/1509901388935016480)
+
+RT Neysun Mahboubi<br>Three cheers for @yuenyuenang: “To avoid the return of a Soviet-era-style Cold War and for global peace to reign, Beijing must once again embrace pragmatism over ideology.” <a href="https://www.noemamag.com/why-the-world-needs-china-to-be-pragmatic-again" target="_blank" rel="noopener noreferrer">https://www.noemamag.com/why-the-world-needs-china-to-be-pragmatic-again</a>
+
+### 34: [2022-04-01 22:43:46+08:00 推文](https://twitter.com/oertel_janka/status/1509904360184164391)
+
+RT Janka Oertel<br>The statements following the EU-China summit made clear that it was a frosty meeting.There was little agreement between the two sides and the conversation was far from being “business as usual”. A frank exchange of opposing views. Systemic rivalry is a new reality. 1/6
+
