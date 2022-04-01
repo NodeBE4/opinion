@@ -803,3 +803,55 @@ Re @KingWan86749833 从2020年开始，涉及左派利益的话题，几乎都�
 
 Re @lile88990 加拿大这么暴力的是哪些人？<br>美国是Antifa与BLM。
 
+### 198: [2022-04-01 04:01:38+08:00 推文](https://twitter.com/HeQinglian/status/1509621963756560394)
+
+随着乌战不断拖延 欧元区经济裂痕日益扩大<br>欧洲央行总裁拉加德警告说，“战争持续的时间越长，付出的经济代价就越高，我们最终陷入更不利局面的可能性也就越大”<br>德国遭受的打击最严重，今年经济增长预估已降至1.8%。通胀率将超6%。西班牙3月通胀率升至9.8%，是1985年5月以来最高 <a href="https://cn.reuters.com/article/wrapup-eurozone-economy-0330-wedn-idCNKCS2LS0FI" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/wrapup-eurozone-economy-0330-wedn-idCNKCS2LS0FI</a>
+
+### 199: [2022-04-01 04:30:30+08:00 推文](https://twitter.com/HeQinglian/status/1509629228123402241)
+
+乌克兰提出的北约集体防御机制可能将西方国家的军队拖入与俄罗斯的战争，对此西方官员表示反对，同时对于提供国际安全保证、作为结束冲突的协议内容的想法，西方官员在一定程度上表示接受。<br><br>乌方第五轮开出的条件，俄也未接受。另：土耳其外长称下轮谈判将在两周后举行。 <a href="https://cn.wsj.com/amp/articles/%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E5%87%BA%E5%8C%97%E7%BA%A6%E5%BC%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C-%E4%BD%86%E9%81%AD%E5%88%B0%E8%A5%BF%E6%96%B9%E8%B4%A8%E7%96%91-11648688752?tesla=y" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/amp/articles/%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E5%87%BA%E5%8C%97%E7%BA%A6%E5%BC%8F%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C-%E4%BD%86%E9%81%AD%E5%88%B0%E8%A5%BF%E6%96%B9%E8%B4%A8%E7%96%91-11648688752?tesla=y</a>
+
+### 200: [2022-04-01 04:37:01+08:00 推文](https://twitter.com/HeQinglian/status/1509630868184186904)
+
+Re 说明一下：集体防御机制是实的，签了得履行；国际安全保证是将中国、俄罗斯、加拿大、澳大利亚、日本全拉进来，是虚的，很难协调一致提供保证。
+
+### 201: [2022-04-01 04:47:37+08:00 推文](https://twitter.com/HeQinglian/status/1509633537770766338)
+
+Re @Wu_Zhi 好象份量不够。🤣
+
+### 202: [2022-04-01 04:55:08+08:00 推文](https://twitter.com/HeQinglian/status/1509635430500741126)
+
+Re @SophiaYycat 北约正式下场参赛，主要是美国下场参赛，其他军力不行，英国不会单独挑大梁。<br>昨天美众院军情委听证会，那位将军说拜登吓阻俄入侵乌的战略已经失败，没说接下来的战略是什么。但五角大楼将美军舰开离黑海并说短期内不回去，免引误解，似是不参与。小拜事情这时被自家媒体炒作，不为无因。<br>等着看吧。
+
+### 203: [2022-04-01 05:00:49+08:00 推文](https://twitter.com/HeQinglian/status/1509636860297068546)
+
+Re @Wu_Zhi 北约自家门口的事，先解决再说。
+
+### 204: [2022-04-01 05:08:46+08:00 推文](https://twitter.com/HeQinglian/status/1509638859583279111)
+
+Re @NHKTWTB1 你说的是俄罗斯吧。自己去查，当初看了文本，也觉得奇怪。
+
+### 205: [2022-04-01 05:19:44+08:00 推文](https://twitter.com/HeQinglian/status/1509641617740906498)
+
+Re @2dd00d15b4fc44d 两国都在UN五常里面。
+
+### 206: [2022-04-01 06:07:45+08:00 推文](https://twitter.com/HeQinglian/status/1509653703325888513)
+
+Re @2dd00d15b4fc44d 向泽连斯基与UN建议，让中华民国担保。我没意见。
+
+### 207: [2022-04-01 09:16:36+08:00 推文](https://twitter.com/eGUAbe2V7j26GHw/status/1509701229739651072)
+
+RT 日班保安孙师傅<br> <a href="https://www.youtube.com/watch?v=sZ_C0pL2vYY" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=sZ_C0pL2vYY</a><br><img style="" src="https://pbs.twimg.com/media/FPOH2sEaIAA2lw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 208: [2022-04-01 09:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1509701443690901518)
+
+Re @zhuxiuyuan 当年乌克兰废核时，英美中俄等五常也承诺过保护。这应该是泽连斯基向全世界要求援助的基础。只是不知是否有文本，但媒体反正这样报道过，口头保障应该绝对有。
+
+### 209: [2022-04-01 09:20:11+08:00 推文](https://twitter.com/HeQinglian/status/1509702131024121858)
+
+Re @seadognw Biden干点正经事吧，如何让乌克兰脱离战争之水火，让欧洲免于经济灾难才是当务之急，也比明天美国多了一万变性人重要。<br>建议拜登全家都变性。
+
+### 210: [2022-04-01 10:21:13+08:00 推文](https://twitter.com/HeQinglian/status/1509717488057131012)
+
+Re @sintree_leo @seadognw 30日众议院军情委员会上，盖兹问那位作证的将军，就盯一句话：拜登要结束普京政权的话是不是美国的目的？说了不是之后，盖兹再问：会不会引起误解，再回答说不会；盖兹再问：能不能保证拜登下次不再说这类话了？回答说：不会再有了。<br>这么严肃的场合，如果说谎，只能说没底线了。
+

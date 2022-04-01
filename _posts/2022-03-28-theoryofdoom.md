@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-30
+date: 2022-03-31
 from: https://old.reddit.com/r/yerbamate/comments/tq7nta/what_are_you_drinking_this_week_weekly_discussion/
 layout: post
 tags:
@@ -117,4 +117,14 @@ The challenge is how we contend with it.
 ----- __204.2__ -----2022-03-30 13:05:52+08:00:
 
 They will continue to rise and fall, though we still haven't sorted out the existential question of "what is a case," when a "case" can be measured in at least four different ways (PCR positive, regardless of Ct; PCR positive, high Ct (>20); PCR positive, low Ct (<20); antigen), without regard to symptomatology, according to three different sensitivity levels for detection.  But why bother with that when we can't even get representative samples?
+
+### 205: [what piece of propaganda did the most damage?](https://old.reddit.com/r/AskReddit/comments/tszp1p/what_piece_of_propaganda_did_the_most_damage/), submitted on 2022-03-31 21:24:40+08:00.
+
+----- __205.1__ -----2022-04-01 08:49:47+08:00:
+
+> Nuclear Fear is wholly to prop up Oil and Coal, and that's it. Nuclear can easily replace fossil fuels ON THE INCREDIBLY HARD TO HANDLE BASELOADS that cannot be covered by Wind/Solar/Trad Green (Nuclear FISSION is green) with today's technology. No need to wait for further developments or needs to cover downtimes related to weather/etc [availability of Solar/Wind/etc.]
+
+Well said.  People do not realize the level of harm the anti-nuclear movement has caused.  But that harm includes, at the very least, the incredible environmental destruction caused by coal-burning power plants throughout at least the United States and much of Europe.  Germany and Poland in particular are some of the most egregious examples of this. 
+
+Beyond the environmental harm, there is no obvious upper limit to the geopolitical harm the antinuclear movement has caused and continues to cause.  For example, Europe's demand for natural gas renders it beholden to Russia, on whom the continent relies for supply.  The harm created by that market demand continues to compound (e.g., Russia's conquest over Ukraine, from Crimea to present, which is essentially a fight over the natural gas reserves in the Black Sea and particularly within Ukraine's exclusive economic zone).
 
