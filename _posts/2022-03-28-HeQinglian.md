@@ -839,19 +839,55 @@ Re @2dd00d15b4fc44d 两国都在UN五常里面。
 
 Re @2dd00d15b4fc44d 向泽连斯基与UN建议，让中华民国担保。我没意见。
 
-### 207: [2022-04-01 09:16:36+08:00 推文](https://twitter.com/eGUAbe2V7j26GHw/status/1509701229739651072)
+### 207: [2022-04-01 09:10:47+08:00 推文](https://twitter.com/franktianxie/status/1509699767055667203)
+
+RT Frank Tian Xie (謝田), Ph.D.<br>謝田：普京砍向美國和美元的三板斧 <a href="https://www.epochtimes.com/gb/22/3/31/n13686900.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/31/n13686900.htm</a>
+
+### 208: [2022-04-01 09:16:36+08:00 推文](https://twitter.com/eGUAbe2V7j26GHw/status/1509701229739651072)
 
 RT 日班保安孙师傅<br> <a href="https://www.youtube.com/watch?v=sZ_C0pL2vYY" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=sZ_C0pL2vYY</a><br><img style="" src="https://pbs.twimg.com/media/FPOH2sEaIAA2lw7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 208: [2022-04-01 09:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1509701443690901518)
+### 209: [2022-04-01 09:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1509701443690901518)
 
 Re @zhuxiuyuan 当年乌克兰废核时，英美中俄等五常也承诺过保护。这应该是泽连斯基向全世界要求援助的基础。只是不知是否有文本，但媒体反正这样报道过，口头保障应该绝对有。
 
-### 209: [2022-04-01 09:20:11+08:00 推文](https://twitter.com/HeQinglian/status/1509702131024121858)
+### 210: [2022-04-01 09:20:11+08:00 推文](https://twitter.com/HeQinglian/status/1509702131024121858)
 
 Re @seadognw Biden干点正经事吧，如何让乌克兰脱离战争之水火，让欧洲免于经济灾难才是当务之急，也比明天美国多了一万变性人重要。<br>建议拜登全家都变性。
 
-### 210: [2022-04-01 10:21:13+08:00 推文](https://twitter.com/HeQinglian/status/1509717488057131012)
+### 211: [2022-04-01 10:21:13+08:00 推文](https://twitter.com/HeQinglian/status/1509717488057131012)
 
 Re @sintree_leo @seadognw 30日众议院军情委员会上，盖兹问那位作证的将军，就盯一句话：拜登要结束普京政权的话是不是美国的目的？说了不是之后，盖兹再问：会不会引起误解，再回答说不会；盖兹再问：能不能保证拜登下次不再说这类话了？回答说：不会再有了。<br>这么严肃的场合，如果说谎，只能说没底线了。
+
+### 212: [2022-04-01 22:33:32+08:00 推文](https://twitter.com/HeQinglian/status/1509901783367393282)
+
+总体现状:<br>战场上“拖”，将普京陷入战争泥潭甚至坟墓的战略未变；<br>经济上“熬”，白宫31日再度宣布释放战略石油储备达1.8亿桶，美原油价应声下跌7%，略高于100美元/桶。可供给至11月，挽救选情；欧盟如何熬，主要靠自己。<br>舆论战“降调”：营造乌方英雄时代结束。西方大媒体开始降调，偶尔谈些预估失误。
+
+### 213: [2022-04-01 22:42:13+08:00 推文](https://twitter.com/HeQinglian/status/1509903967882522654)
+
+Re @Wu_Zhi 因为是俄入侵乌克兰，死人越多，俄罗斯罪孽越大。死人由何造成，最后谁的嗓门大，谁说了算。
+
+### 214: [2022-04-01 22:51:16+08:00 推文](https://twitter.com/HeQinglian/status/1509906247675437064)
+
+Re @CrabNJ NATO看美国的。<br>美国拜登因儿子腐败正受自家媒体修理，盟国一时看不清动向，有点懵懂。<br>盟国受损远大于美国，欧盟民众比我们难熬。粮食对美国基本不是问题，如期耕种，秋天丰收。欧盟、非洲还不知何处找粮食。过了春耕期，急也没用了。<br>美国终于逮着机会熬俄罗斯了，不熬出结果不会罢休。
+
+### 215: [2022-04-01 22:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1509907072682442755)
+
+Re @Wu_Zhi 贵国有半个月时间决定用什么币种购买俄天然气。俄方宣布，继续供气，因为按合同付钱是半个月后，届时再决定是否断气。
+
+### 216: [2022-04-01 23:25:44+08:00 推文](https://twitter.com/HeQinglian/status/1509914922033065987)
+
+Re @RealBeiMing @Wu_Zhi 好象是俄境内的。太安静了，注意东边动静。
+
+### 217: [2022-04-01 23:27:30+08:00 推文](https://twitter.com/HeQinglian/status/1509915366373347340)
+
+Re @wwnnppyy 弄清楚，这不是我的观点，是事实，泽连斯基与英首相都承认的。<br>你永远事实与观点分不清。今天我没一个是观点，全是事实。
+
+### 218: [2022-04-01 23:30:08+08:00 推文](https://twitter.com/HeQinglian/status/1509916028381405187)
+
+Re @KELMAND1 应该就是这十来天的事了。
+
+### 219: [2022-04-01 23:33:28+08:00 推文](https://twitter.com/HeQinglian/status/1509916864683692039)
+
+Re @wwnnppyy 我一直想知道你在哪地。如果人在欧洲，也许没这么乐观了，因为自己也在同熬。
 

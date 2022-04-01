@@ -115,11 +115,31 @@ RT Ingrid d'Hooghe<br>New UK report by @Michael_Natzler highlights urgent need
 
 RT Maria Repnikova<br>Very interesting thread on #China #Israel media cooperation<br><br>Alexander B. Pevzner 裴則男: #China deputy #propaganda minister, China Media Group head Shen Haixiong (慎海雄) meets #Israel Ambassador to China Irit Ben Abba, talks up media exchanges and "further consolidating the public opinion basis of the friendship between the two peoples @cnmediaproject  @niubi 1/5<br>
 
-### 26: [2022-04-01 11:27:45+08:00 推文](https://twitter.com/cnmediaproject/status/1509734234797539332)
+### 26: [2022-04-01 07:46:19+08:00 推文](https://twitter.com/MareikeOhlberg/status/1509678506564886530)
+
+RT Mareike Ohlberg<br>A quick glimpse at official China's Twitter on the eve of the EU-China Summit<br><img style="" src="https://pbs.twimg.com/media/FPN0Z3NXIAAL8fC?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN0d6GWQAQsXqC?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN0f6EX0AEFb2k?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN0iQoXoAktsK8?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-04-01 11:27:45+08:00 推文](https://twitter.com/cnmediaproject/status/1509734234797539332)
 
 Don't miss Stella Chen's piece at CMP yesterday looking at an interesting Chinese journal article on how to use civilian voices to enhance "China's voice." What would such a plan for int'l communication actually mean? <a href="https://chinamediaproject.org/2022/03/31/putting-the-soft-back-in-soft-power/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/31/putting-the-soft-back-in-soft-power/</a><br><img style="" src="https://pbs.twimg.com/media/FPOnOx8aUAIO_8H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 27: [2022-04-01 15:15:50+08:00 推文](https://twitter.com/cnmediaproject/status/1509791632950173702)
+### 28: [2022-04-01 15:15:50+08:00 推文](https://twitter.com/cnmediaproject/status/1509791632950173702)
 
 As Ukraine and its people have suffered under Russia’s unprovoked aggression, China’s government and state media have sought consistently to pull the focus back to a single central narrative – the guilt and irresponsibility of the United States. <a href="https://chinamediaproject.org/2022/04/01/reframing-russias-invasion-of-ukraine/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/01/reframing-russias-invasion-of-ukraine/</a><br><img style="" src="https://pbs.twimg.com/media/FPPbetlaMAQ1Kz2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-04-01 19:02:30+08:00 推文](https://twitter.com/cnmediaproject/status/1509848675610394629)
+
+President Who? . . . . Through the buzz of coverage in China about the “Russia-Ukraine conflict,” the conspicuous absence of Zelensky from the Party’s flagship newspaper is a salient illustration of China’s alignment with Russia. <a href="https://chinamediaproject.org/2022/04/01/president-who/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/01/president-who/</a><br><img style="" src="https://pbs.twimg.com/media/FPQPVjYaMAYKDWw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-04-01 20:45:34+08:00 推文](https://twitter.com/niubi/status/1509874612020170784)
+
+RT Bill Bishop<br>China’s Political Discourse February 2022: The Chained Woman, by @cnmediaproject <a href="https://sinocism.com/p/chinas-political-discourse-february-f10?r=2e&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-february-f10?r=2e&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web</a>
+
+### 31: [2022-04-01 22:02:55+08:00 推文](https://twitter.com/cnmediaproject/status/1509894078313672707)
+
+Reframing Russia's Invasion of Ukraine: How the Chinese government has consistently pulled the focus away from the Ukrainian people and Russian responsibility to the US as global villain. <a href="https://bit.ly/3LA8WqY" target="_blank" rel="noopener noreferrer">https://bit.ly/3LA8WqY</a><br><img style="" src="https://pbs.twimg.com/media/FPQ4oiVakAEfU7P?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 32: [2022-04-01 22:04:42+08:00 推文](https://twitter.com/cnmediaproject/status/1509894528857440264)
+
+President Who? The conspicuous absence of Ukrainian President Zelensky from the CCP's flagship newspaper is a salient illustration of China's alignment with Russia. <a href="https://bit.ly/3tY1VKH" target="_blank" rel="noopener noreferrer">https://bit.ly/3tY1VKH</a><br><img style="" src="https://pbs.twimg.com/media/FPQ5CuGaAAEGhER?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
