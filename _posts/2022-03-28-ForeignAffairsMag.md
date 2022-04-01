@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-03-31
+date: 2022-04-01
 from: https://old.reddit.com/r/UkrainianConflict/comments/tqai79/how_the_west_can_weaken_putin_encourage/
 layout: post
 tags:
@@ -133,4 +133,20 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 "The effort to squeeze Moscow economically is just beginning, and it will become more difficult to sustain as time goes on, especially if the Kremlin’s opponents target sectors that bite more sharply into the global economy. Disruptions in energy, food, agricultural goods, and trade routes will generate friction within the sanctions coalition—which currently counts Australia, Canada, Japan, South Korea, the United States, and the European Union among its members—especially if the burdens seem unbalanced or unfair. Russia will seek to exacerbate that friction through retaliatory measures, as it did last week when it shut down a major oil pipeline that runs from Kazakhstan to the Black Sea, allegedly due to bad weather. The sanctions coalition will probably prove more durable than Russia would like, but these points of tension will make it more difficult to roll out big measures with regularity and will create pressure for strict enforcement to ensure that evasive behavior by China, India, and other countries doesn’t sap away the potency of the sanctions regime.  
 As a stalemate between the Russian military and the Ukrainian resistance begins to look more probable, those hoping to check Moscow’s ambitions should bear in mind that Russia can readily exploit such a scenario by amplifying tensions within the coalition in order to tear it apart. Taken together, these factors portend a more challenging future for the sanctions campaign than its early successes might suggest. The United States and its allies must therefore dig in for the long haul—working together to identify the optimal next set of sanctions measures, craft a collective response to sanctions evasion and Russian retaliation, and present a unified front in the face of a potential Russian stalemate in Ukraine—if they seek to sustain an effective sanctions regime against Russia."
+
+### 182: [Francis Fukuyama: Liberalism Needs the Nation](https://old.reddit.com/r/geopolitics/comments/ttqahr/francis_fukuyama_liberalism_needs_the_nation/), submitted on 2022-04-01 21:09:44+08:00.
+
+----- __182.1__ -----2022-04-01 21:10:15+08:00:
+
+\[SS\]
+
+"Liberalism’s most important selling point remains the pragmatic one that has existed for centuries: its ability to manage diversity in pluralistic societies. Yet there is a limit to the kinds of diversity that liberal societies can handle. If enough people reject liberal principles themselves and seek to restrict the fundamental rights of others, or if citizens resort to violence to get their way, then liberalism alone cannot maintain political order. And if diverse societies move away from liberal principles and try to base their national identities on race, ethnicity, religion, or some other, different substantive vision of the good life, they invite a return to potentially bloody conflict. A world full of such countries will invariably be more fractious, more tumultuous, and more violent.
+
+That is why it is all the more important for liberals not to give up on the idea of the nation. They should recognize that in truth, nothing makes the universalism of liberalism incompatible with a world of nation-states. National identity is malleable, and it can be shaped to reflect liberal aspirations and to instill a sense of community and purpose among a broad public.
+
+For proof of the abiding importance of national identity, look no further than the trouble Russia has run into in attacking Ukraine. Russian President Vladimir Putin claimed that Ukraine did not have an identity separate from that of Russia and that the country would collapse immediately once his invasion began. Instead, Ukraine has resisted Russia tenaciously precisely because its citizens are loyal to the idea of an independent, liberal democratic Ukraine and do not want to live in a corrupt dictatorship imposed from without. With their bravery, they have made clear that citizens are willing to die for liberal ideals, but only when those ideals are embedded in a country they can call their own."
+
+&#x200B;
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 

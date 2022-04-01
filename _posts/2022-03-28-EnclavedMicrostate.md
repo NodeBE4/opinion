@@ -315,3 +315,7 @@ As for hoax-related things, we were actually inspired to do this because we time
 
 Who would you consider your best student, and why is it Xenophon?
 
+----- __294.2__ -----2022-04-01 21:24:34+08:00:
+
+I'm surprised you didn't start with asking what a student *is*! One's goodness as a student cannot be established without an understanding of that, so now I must ask you, Socrates: what is a student?
+
