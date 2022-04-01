@@ -119,3 +119,7 @@ RT Maria Repnikova<br>Very interesting thread on #China #Israel media cooperat
 
 Don't miss Stella Chen's piece at CMP yesterday looking at an interesting Chinese journal article on how to use civilian voices to enhance "China's voice." What would such a plan for int'l communication actually mean? <a href="https://chinamediaproject.org/2022/03/31/putting-the-soft-back-in-soft-power/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/31/putting-the-soft-back-in-soft-power/</a><br><img style="" src="https://pbs.twimg.com/media/FPOnOx8aUAIO_8H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 27: [2022-04-01 15:15:50+08:00 推文](https://twitter.com/cnmediaproject/status/1509791632950173702)
+
+As Ukraine and its people have suffered under Russia’s unprovoked aggression, China’s government and state media have sought consistently to pull the focus back to a single central narrative – the guilt and irresponsibility of the United States. <a href="https://chinamediaproject.org/2022/04/01/reframing-russias-invasion-of-ukraine/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/01/reframing-russias-invasion-of-ukraine/</a><br><img style="" src="https://pbs.twimg.com/media/FPPbetlaMAQ1Kz2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
