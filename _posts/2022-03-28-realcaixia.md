@@ -131,3 +131,7 @@ Re @mulanwa 建议很好啊！很感谢您对议报的热心支持和关注。�
 
 谁能想到上海“清零”隔离是这样的？几百个婴儿幼儿被强制与妈妈分离！反人伦反人类！偶然看到这个推发出的上海妈妈透露的情况，心一下就抽得紧紧的揪着疼。所有的妈妈都会心疼，不敢想，这些婴儿…<br><br>Inty: 中国上海，惨绝人寰的反人类防疫，几百个婴儿被强制与父母分离，都进行隔离。<br><br>小孩子们的大小便不能被按时清理，很多婴儿不会翻身，屁股都烂了。<br><br>以上这种情况也是过去几年中国在新疆集中营关押上百万维吾尔人造成骨肉分离的情节。<br><br><img style="" src="https://pbs.twimg.com/media/FPKV41qVUAAf89Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPKV41oVQAIKSby?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 30: [2022-04-01 20:02:10+08:00 推文](https://twitter.com/realcaixia/status/1509863692401360901)
+
+再推荐：<br>#议报《猜猜谁在抄作业？——普京与习近平 》<br>作者将普习二人做比较，使文章妙趣横生。作者介绍：普习都是“根红苗正”，普算红三习为红二；普习都出道于秘书帮；普习都是工农兵大学生；都于1975年入党；都搞反腐立威；都想称帝霸权；俄侵乌习想攻台，普习结局一根绳…？ <a href="https://yibaochina.com/?p=245279" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245279</a>
+
