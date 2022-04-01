@@ -309,6 +309,10 @@ I don't know that they have, but I would not be particularly shocked to find out
 
 As for hoax-related things, we were actually inspired to do this because we timed the [Hitler Diaries](https://www.reddit.com/r/AskHistorians/comments/mik6hy/askhistorians_podcast_episode_172_the_hitler/) episode for April Fools 2021, so we will almost certainly be doing more hoaxes, conspiracy theories or similar next year!
 
+----- __293.2__ -----2022-04-02 02:26:56+08:00:
+
+I don't know that you can, which does create an interesting situation if an unfortunate one, where as you say participating is essentially legitimating the exercise.
+
 ### 294: [I am Sokrates, son of Sophroniskos, of the deme Alopeke. I am fond of saying that the unexamined life is not worth living; and in that spirit, I invite you, fellow citizens, to Ask Me Anything.](https://old.reddit.com/r/AskHistorians/comments/ttplom/i_am_sokrates_son_of_sophroniskos_of_the_deme/), submitted on 2022-04-01 20:34:58+08:00.
 
 ----- __294.1__ -----2022-04-01 20:48:43+08:00:

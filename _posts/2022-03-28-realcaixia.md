@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-04-01
+date: 2022-04-02
 from: https://twitter.com/realcaixia/status/1508123460131770368
 layout: post
 tags:
@@ -134,4 +134,20 @@ Re @mulanwa 建议很好啊！很感谢您对议报的热心支持和关注。�
 ### 30: [2022-04-01 20:02:10+08:00 推文](https://twitter.com/realcaixia/status/1509863692401360901)
 
 再推荐：<br>#议报《猜猜谁在抄作业？——普京与习近平 》<br>作者将普习二人做比较，使文章妙趣横生。作者介绍：普习都是“根红苗正”，普算红三习为红二；普习都出道于秘书帮；普习都是工农兵大学生；都于1975年入党；都搞反腐立威；都想称帝霸权；俄侵乌习想攻台，普习结局一根绳…？ <a href="https://yibaochina.com/?p=245279" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245279</a>
+
+### 31: [2022-04-02 00:28:59+08:00 推文](https://twitter.com/realcaixia/status/1509930836333936643)
+
+说蔬菜检测是阳性，毁了扔了不让人吃了。看来武汉病毒环球转了一圈，在海外人传人，祸害完了世界回到原产国更厉害了。不仅人传人，还传包裹邮件、传集装箱、传冰库海鲜、这又加上传蔬菜……。看来武汉病毒非要祸害得原产国千山鸟飞绝 ，万径人踪灭，遍地荒芜寸草不生，把中国人打回元宇宙，方才罢休。<br><br>老司机: 阳性蔬菜，国外反动势力渗透的结果，必须消灭！<br><br><video src="https://video.twimg.com/ext_tw_video/1509442962417094659/pu/vid/544x960/ApPCemKHW0hCe1pg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1509442962417094659/pu/img/OXn9z9rDgypeMaL9.jpg"></video>
+
+### 32: [2022-04-02 00:39:44+08:00 推文](https://twitter.com/realcaixia/status/1509933541857107971)
+
+据说张文宏被下课了。说大实话的、依据科学办事的、甚至依据常识思考的，都必须下课，唯有顺从权力意志的，才可以留可以提拔。<br><br>李 庆: 蠢人获得权力之后，第一件事就是立威。因为它无法通过智慧让人心悦诚服，就只能操弄权力让人恐惧害怕。它骨子里极度自卑怯懦，因此非常在乎别人对自己的态度，是不是俯首帖耳、唯命是从。它时刻都要表现出傲慢自大，以掩饰自己智商的不足。<br><br><video src="https://video.twimg.com/ext_tw_video/1509382497838239748/pu/vid/720x556/C06VmIBtPbbTo0yv.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1509382497838239748/pu/img/JtEXTORq2STNTLJE.jpg"></video>
+
+### 33: [2022-04-02 00:58:09+08:00 推文](https://twitter.com/realcaixia/status/1509938178169446407)
+
+Re 请推友点击视频看原推下面的跟帖评论，精彩。
+
+### 34: [2022-04-02 01:05:51+08:00 推文](https://twitter.com/realcaixia/status/1509940117418479617)
+
+现在的健康码行程码就相当于贴身监控器➕镣铐。真实用途就是用来把人监禁在每个人自己出高价买的监狱里。<br><br>王宇律师: 因健康宝等对公民征信信息的侵害而申请信息公开，却被北京健康宝报复性弹窗。<br>14天之内无疫区行程，最近三天之内做三次核酸检测均为阴性，仍是弹窗！打北京12345投诉后，让我登录12345微信小程序填写各种表格提交，之后却再无法打通12345。问题至今未解决！12345不是市民热线，是迫害人的帮凶！<br><br><img style="" src="https://pbs.twimg.com/media/FPLxvddagAcuNnq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPLxvdgacAMIx2Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPLxvfIagAQTTAf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPLxvfEaMAYx8TQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/wangyulawyer/status/1509519052452294660" target="_blank" rel="noopener noreferrer">https://twitter.com/wangyulawyer/status/1509519052452294660</a>
 
