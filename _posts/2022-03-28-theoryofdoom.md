@@ -128,3 +128,7 @@ Well said.  People do not realize the level of harm the anti-nuclear movement ha
 
 Beyond the environmental harm, there is no obvious upper limit to the geopolitical harm the antinuclear movement has caused and continues to cause.  For example, Europe's demand for natural gas renders it beholden to Russia, on whom the continent relies for supply.  The harm created by that market demand continues to compound (e.g., Russia's conquest over Ukraine, from Crimea to present, which is essentially a fight over the natural gas reserves in the Black Sea and particularly within Ukraine's exclusive economic zone).
 
+----- __205.2__ -----2022-04-01 12:17:07+08:00:
+
+Understanding the agenda-setting function of high profile government or public initiatives is critical to understanding American politics, especially in the 20th century.  Orienting public focus in this way implies that the problem must be solved at the governmental level, which is the first step in the process of manufacturing consent.  From prohibition to the wars on drugs, poverty, terror and beyond, each such case expands the power of government --- usually at the federal level.  The goals in each of these cases may be different, but the result always tends to be the same (especially for the those that don't have the political capital to shape public policy).
+

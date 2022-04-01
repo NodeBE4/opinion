@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-03-30
+date: 2022-04-01
 from: https://twitter.com/SpeechFreedomCN/status/1508634297669861378
 layout: post
 tags:
@@ -38,4 +38,12 @@ Shenzhen man Zhao administratively punished for posting a doctored photo of a qu
 ### 6: [2022-03-30 10:09:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1508989638698012676)
 
 Hebei woman Jiang administratively detained for posting "negative comments" on Covid lockdown, including a video of a local resident committing suicide, on Internet.<br><img style="" src="https://pbs.twimg.com/media/FPCjcZVXsAwJGkK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-04-01 08:00:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1509682044590252039)
+
+随着疫情的反弹，全国各地的网警也开始忙了起来。<br><img style="" src="https://pbs.twimg.com/media/FPN21tSXIAEdSFn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN21tLXoAMrXmp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN21tgXwAkrJ32?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN21tfWQAkiUDo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-04-01 08:04:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1509683206047649797)
+
+What we can easily tell from open sources is that Covid related speech crackdown in China never stopped, and it doesn’t seem to be stopping.<br><img style="" src="https://pbs.twimg.com/media/FPN36jHXMAMRHpX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN36jhXMAImg6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN36jhWQAEv0YL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPN36j5XsAAVWxt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

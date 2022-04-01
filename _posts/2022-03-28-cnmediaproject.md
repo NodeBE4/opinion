@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-03-31
+date: 2022-04-01
 from: https://twitter.com/vshih2/status/1508173899736903680
 layout: post
 tags:
@@ -114,4 +114,8 @@ RT Ingrid d'Hooghe<br>New UK report by @Michael_Natzler highlights urgent need
 ### 25: [2022-03-31 21:57:17+08:00 推文](https://twitter.com/MariaRepnikova/status/1509530274668826644)
 
 RT Maria Repnikova<br>Very interesting thread on #China #Israel media cooperation<br><br>Alexander B. Pevzner 裴則男: #China deputy #propaganda minister, China Media Group head Shen Haixiong (慎海雄) meets #Israel Ambassador to China Irit Ben Abba, talks up media exchanges and "further consolidating the public opinion basis of the friendship between the two peoples @cnmediaproject  @niubi 1/5<br>
+
+### 26: [2022-04-01 11:27:45+08:00 推文](https://twitter.com/cnmediaproject/status/1509734234797539332)
+
+Don't miss Stella Chen's piece at CMP yesterday looking at an interesting Chinese journal article on how to use civilian voices to enhance "China's voice." What would such a plan for int'l communication actually mean? <a href="https://chinamediaproject.org/2022/03/31/putting-the-soft-back-in-soft-power/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/31/putting-the-soft-back-in-soft-power/</a><br><img style="" src="https://pbs.twimg.com/media/FPOnOx8aUAIO_8H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
