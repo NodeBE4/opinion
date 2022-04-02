@@ -301,25 +301,31 @@ If you're watching your friends play Monopoly... well let's hope they have your 
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 293: [AskHistorians Podcast April Fools Special 2022 – Tartaria with /u/EnclavedMicrostate](https://old.reddit.com/r/AskHistorians/comments/ttmxps/askhistorians_podcast_april_fools_special_2022/), submitted on 2022-04-01 17:51:40+08:00.
+### 293: [The rap on Suisei and Calli's "Wicked" is beautifully, unapologetically THEM](https://old.reddit.com/r/Hololive/comments/ttl9j5/the_rap_on_suisei_and_callis_wicked_is/), submitted on 2022-04-01 15:48:11+08:00.
 
------ __293.1__ -----2022-04-01 20:34:37+08:00:
+----- __293.1__ -----2022-04-02 11:44:54+08:00:
+
+Pretty sure Suisei is her own lyricist too.
+
+### 294: [AskHistorians Podcast April Fools Special 2022 – Tartaria with /u/EnclavedMicrostate](https://old.reddit.com/r/AskHistorians/comments/ttmxps/askhistorians_podcast_april_fools_special_2022/), submitted on 2022-04-01 17:51:40+08:00.
+
+----- __294.1__ -----2022-04-01 20:34:37+08:00:
 
 I don't know that they have, but I would not be particularly shocked to find out.
 
 As for hoax-related things, we were actually inspired to do this because we timed the [Hitler Diaries](https://www.reddit.com/r/AskHistorians/comments/mik6hy/askhistorians_podcast_episode_172_the_hitler/) episode for April Fools 2021, so we will almost certainly be doing more hoaxes, conspiracy theories or similar next year!
 
------ __293.2__ -----2022-04-02 02:26:56+08:00:
+----- __294.2__ -----2022-04-02 02:26:56+08:00:
 
 I don't know that you can, which does create an interesting situation if an unfortunate one, where as you say participating is essentially legitimating the exercise.
 
-### 294: [I am Sokrates, son of Sophroniskos, of the deme Alopeke. I am fond of saying that the unexamined life is not worth living; and in that spirit, I invite you, fellow citizens, to Ask Me Anything.](https://old.reddit.com/r/AskHistorians/comments/ttplom/i_am_sokrates_son_of_sophroniskos_of_the_deme/), submitted on 2022-04-01 20:34:58+08:00.
+### 295: [I am Sokrates, son of Sophroniskos, of the deme Alopeke. I am fond of saying that the unexamined life is not worth living; and in that spirit, I invite you, fellow citizens, to Ask Me Anything.](https://old.reddit.com/r/AskHistorians/comments/ttplom/i_am_sokrates_son_of_sophroniskos_of_the_deme/), submitted on 2022-04-01 20:34:58+08:00.
 
------ __294.1__ -----2022-04-01 20:48:43+08:00:
+----- __295.1__ -----2022-04-01 20:48:43+08:00:
 
 Who would you consider your best student, and why is it Xenophon?
 
------ __294.2__ -----2022-04-01 21:24:34+08:00:
+----- __295.2__ -----2022-04-01 21:24:34+08:00:
 
 I'm surprised you didn't start with asking what a student *is*! One's goodness as a student cannot be established without an understanding of that, so now I must ask you, Socrates: what is a student?
 
