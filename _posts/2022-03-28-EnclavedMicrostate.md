@@ -76,6 +76,10 @@ I mean, we don't know what those announcements will be nor how long-term they ar
 
 Oh right, well I was there for many of the announcements of announcements too (I watch Calli pretty religiously) so I think we just ended up talking past each other a bit.
 
+----- __275.3__ -----2022-04-02 19:54:34+08:00:
+
+I feel like I know exactly what you mean. I get Chloe's appeal but I feel I'm not being appealed to, but I'm really enjoying Zeta.
+
 ### 276: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
 
 ----- __276.1__ -----2022-03-29 22:19:00+08:00:
