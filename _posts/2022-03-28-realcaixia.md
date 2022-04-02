@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-04-02
+date: 2022-04-03
 from: https://twitter.com/realcaixia/status/1508123460131770368
 layout: post
 tags:
@@ -150,4 +150,16 @@ Re 请推友点击视频看原推下面的跟帖评论，精彩。
 ### 34: [2022-04-02 01:05:51+08:00 推文](https://twitter.com/realcaixia/status/1509940117418479617)
 
 现在的健康码行程码就相当于贴身监控器➕镣铐。真实用途就是用来把人监禁在每个人自己出高价买的监狱里。<br><br>王宇律师: 因健康宝等对公民征信信息的侵害而申请信息公开，却被北京健康宝报复性弹窗。<br>14天之内无疫区行程，最近三天之内做三次核酸检测均为阴性，仍是弹窗！打北京12345投诉后，让我登录12345微信小程序填写各种表格提交，之后却再无法打通12345。问题至今未解决！12345不是市民热线，是迫害人的帮凶！<br><br><img style="" src="https://pbs.twimg.com/media/FPLxvddagAcuNnq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPLxvdgacAMIx2Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPLxvfIagAQTTAf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPLxvfEaMAYx8TQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/wangyulawyer/status/1509519052452294660" target="_blank" rel="noopener noreferrer">https://twitter.com/wangyulawyer/status/1509519052452294660</a>
+
+### 35: [2022-04-03 00:26:34+08:00 推文](https://twitter.com/realcaixia/status/1510292618843934725)
+
+特別推薦：#議報獨家首發旅居歐洲的著名公共知識分子楊佩昌博士文章<br>作者從獨特視角指出，21世紀的战争早已超出交战国范围，而是全球被卷入、全方位因素的综合较量。決定战争输赢不仅是军事對抗，而是全域型博弈：军事、科技、能源、信息、经济、文化、心理等，說到底是全球現代文明与邪恶势力的對決。<br><br>《议报》: 杨佩昌：误判欧盟，普京在乌克兰陷入泥潭<br> <a href="https://yibaochina.com/?p=245652" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245652</a>
+
+### 36: [2022-04-03 00:38:12+08:00 推文](https://twitter.com/realcaixia/status/1510295543465091080)
+
+Re @marshallyang718 @elleryedi 非常同意@marshallyang718<br>。倒習只是第一步。否定反習，客觀上是幫著中共維護極權統治。目前現狀下，習不倒台，極權統治有鬆動可能嗎？那些把反習與反共分割開來甚至對立起來，否定反習的各種說詞，究竟有利於誰？不值得好好想想嗎？
+
+### 37: [2022-04-03 00:39:26+08:00 推文](https://twitter.com/realcaixia/status/1510295854447575046)
+
+Re @PRenmei 你就是個中共網軍幽靈，連人都不是。
 
