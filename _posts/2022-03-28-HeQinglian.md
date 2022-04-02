@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -957,7 +957,7 @@ Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际
 
 ### 236: [2022-04-02 05:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1510010277273776146)
 
-Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
+RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
 
 ### 237: [2022-04-02 06:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1510014896141963269)
 
@@ -970,4 +970,40 @@ Re @19890604KGB 你与白宫感觉高度一致。😂😂<br>派了印裔国家�
 ### 239: [2022-04-02 06:28:06+08:00 推文](https://twitter.com/HeQinglian/status/1510021211996184578)
 
 俄天然气公司因定价问题退出德国业务 <br>3月31日普京签署法令，要求德国等开设卢布账户用于支付天然气能源，否则綫路可能被切断。德国约40%的天然气需求仍依赖俄<br>作爲回应，德国经济部考虑徵用俄天然气工业股份公司和俄罗斯石油公司在德国的单位与设施<br>问：断气后，设施何用？ <a href="https://rfi.my/8InA.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8InA.T</a>
+
+### 240: [2022-04-02 08:29:30+08:00 推文](https://twitter.com/HeQinglian/status/1510051763596009477)
+
+Re @Wu_Zhi @JianglinLi 是那个扮待产孕妇、装扮过程泄露的护士吗？
+
+### 241: [2022-04-02 08:32:44+08:00 推文](https://twitter.com/HeQinglian/status/1510052577664278530)
+
+Re @Wu_Zhi @JianglinLi 真的是将2020大选舆论战的经验搬到这次共享信息革命中来了。<br>媒体诚信与政治诚信何存？
+
+### 242: [2022-04-02 08:33:46+08:00 推文](https://twitter.com/HeQinglian/status/1510052838231138309)
+
+Re @schwabishbaueri 希望咬牙挺住。<br>价格可比俄罗斯天然气贵很多倍。
+
+### 243: [2022-04-02 08:38:24+08:00 推文](https://twitter.com/HeQinglian/status/1510054001890537478)
+
+Re @Wu_Zhi @JianglinLi 这种政治变异，也就是一些装聋作哑的人还假装看不见。<br>我准备什么时候写篇文章点穿。
+
+### 244: [2022-04-02 08:47:13+08:00 推文](https://twitter.com/HeQinglian/status/1510056222543818760)
+
+Re @schwabishbaueri 欧洲不容易，资源对外依赖、市场对外依赖，同时摆脱俄中双重依赖，不脱一层皮，很难做到。<br>如果可以自觉减少三分之一福利，应该会容易一些。
+
+### 245: [2022-04-02 08:57:41+08:00 推文](https://twitter.com/HeQinglian/status/1510058857632079872)
+
+Re @schwabishbaueri 可能时间还要早点。<br>我记得中国第一家外资保险公司登陆上海，朱总理的女儿是董事，那是1980年代初期。
+
+### 246: [2022-04-02 09:02:46+08:00 推文](https://twitter.com/HeQinglian/status/1510060134348767233)
+
+Re @schwabishbaueri 那就是德国保险公司，夺了个头筹，并且偿付了几十年前夹着尾巴逃跑时一些保险，上海有位得了几十万元，中国举国皆惊：洋人真讲信用。
+
+### 247: [2022-04-02 09:13:09+08:00 推文](https://twitter.com/HeQinglian/status/1510062746997559298)
+
+Re @JkYJ2l7mDTaxqhJ 都揭吧，揭个底朝天，我真没半点意见。这次小拜收中国某公司的钱，连付款支票扫描件都上网了。<br>美国还真是喜欢满世界资助病毒生化室，不过形式不同，在乌克兰，该国不能插手，由美国自管，几百家。中国数量少得多，中国自管。<br>美媒包括主流媒体这些天翻了个底朝天，去看热闹吧。
+
+### 248: [2022-04-02 09:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1510064345123852289)
+
+Re @JianglinLi @Wu_Zhi @TomMa07952688 目前的美国，继承了白人西方文明的经济实力、军事实力，但价值观却已经被CRT、BLM、LGBTQ等进步文化取代，原来傲视东方腐败文化的相对清廉的政治文化，被老拜这个家族做了反证。选举诚信被2020年自毁。<br>可能就美国民主党以为世界不知道，还拿着宪政美国的躯壳混世界老大。
 
