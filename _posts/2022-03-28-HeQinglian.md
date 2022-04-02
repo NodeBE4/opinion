@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -401,7 +401,7 @@ Re @kingbo25729098 亚述营维护的是哪种自由传统？
 
 ### 97: [2022-03-30 10:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1508994053664382977)
 
-俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
+RT He Qinglian<br>俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
 
 ### 98: [2022-03-30 14:09:30+08:00 推文](https://twitter.com/228oldSoldier/status/1509050163314233348)
 
@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -1010,4 +1010,16 @@ Re @JianglinLi @Wu_Zhi @TomMa07952688 目前的美国，继承了白人西方文
 ### 249: [2022-04-02 10:39:35+08:00 推文](https://twitter.com/HeQinglian/status/1510084498326708232)
 
 Re @zhuxiuyuan 谢谢查询。做研究，还是要有点文本主义精神，这样才会在潮流中立如磐石，不被裹挟。
+
+### 250: [2022-04-02 20:39:11+08:00 推文](https://twitter.com/HeQinglian/status/1510235392586526723)
+
+制裁是美国吹号角，欧盟积极响应<br>问题是：美国是个资源、农产品均能自给的国家，生活用品替代性强。欧盟基本属于资源、农产品对外高度依赖的经济体<br>怎么事先只想俄罗斯七寸，不想好自己有什么命门被抓住？哪有这样料敌机先的？<br>拜登说“我知道欧盟要吃点亏”，怎么不自己想想这亏有多大，吃不吃得起？<br><br>DW 中文- 德国之声: 德国经济高参们表示，俄罗斯对乌克兰的侵略战争给德国带来严重的后果。"德国严重依赖俄罗斯的能源供应"，经济学家施尼策说，"停止这些能源交付有可能使德国经济陷入更深的萧条，通货膨胀将进一步加剧"<br> <a href="https://p.dw.com/p/49EZk" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49EZk</a>
+
+### 251: [2022-04-02 20:48:31+08:00 推文](https://twitter.com/HeQinglian/status/1510237744156622852)
+
+Re @MONKHE 学美国释放储备油？<br>有节奏地释放，美国能够维持到中期选举结束。
+
+### 252: [2022-04-02 21:00:11+08:00 推文](https://twitter.com/HeQinglian/status/1510240679762575361)
+
+Re @Wu_Zhi 就在前天，法广与DW的判断是俄不敢断气，欧盟不怕。<br>法广有文章这样说我理解，法对俄天然气依赖度只有20%多<br>另外，东欧四国就制裁俄一事发生分裂：波捷要求制裁并采取行动，匈牙利与斯洛伐克不制裁，被昔日兄弟骂成“降俄”了。芬兰制裁了三天悄悄放弃。<br>日本几天前宣布日本法律不允许没收俄外汇资产。
 
