@@ -163,3 +163,7 @@ Re @marshallyang718 @elleryedi 非常同意@marshallyang718<br>。倒習只是�
 
 Re @PRenmei 你就是個中共網軍幽靈，連人都不是。
 
+### 38: [2022-04-03 06:48:11+08:00 推文](https://twitter.com/realcaixia/status/1510388652559511554)
+
+特别强烈推荐：<br>王剑今日评论不仅依据事实分析情况，而且透过事实，极为深刻地分析极权意志实施的祸国殃民政策，将防疫作为政治运动，伤害民众比文革更甚！今日听众参与互动的议论金句迭出精彩纷呈。<br>今日评论堪称经典！<br><br>新闻茶座: 疫情政治正在全面反噬中国/王剑 <a href="https://youtu.be/eJeZtpwBdyg" target="_blank" rel="noopener noreferrer">https://youtu.be/eJeZtpwBdyg</a>
+
