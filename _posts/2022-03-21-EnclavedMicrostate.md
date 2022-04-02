@@ -248,6 +248,10 @@ Firstly, while it's common to say Rushia violated an NDA, that is not actually u
 
 The main reason I bring this up is that according to the drama Youtuber whom she sent those emails to, she'd been in contact since at least November to vent about issues she'd been having, and there are claims that she had already been warned by Cover over that incident. So what happened wasn't that she impulsively acted and inadvertently doxxed people and got fired on first infraction, but she seems to have actually been quite blasé about infosec and did the exact same thing a second time despite being warned.
 
+----- __263.2__ -----2022-04-02 15:58:18+08:00:
+
+Well, what would you do if your employee was repeatedly leaking info to third parties even after a warning?
+
 ### 264: [Stolen from r/nyctakeout](https://old.reddit.com/r/StupidFood/comments/tnqd0j/stolen_from_rnyctakeout/), submitted on 2022-03-26 00:48:31+08:00.
 
 ----- __264.1__ -----2022-03-26 01:03:24+08:00:
