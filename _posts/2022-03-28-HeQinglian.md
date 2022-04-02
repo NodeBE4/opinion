@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-02
+date: 2022-04-03
 from: https://twitter.com/HeQinglian/status/1508135707226824707
 layout: post
 tags:
@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -957,7 +957,7 @@ Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际
 
 ### 236: [2022-04-02 05:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1510010277273776146)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
+Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
 
 ### 237: [2022-04-02 06:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1510014896141963269)
 
@@ -1022,4 +1022,52 @@ Re @MONKHE 学美国释放储备油？<br>有节奏地释放，美国能够维�
 ### 252: [2022-04-02 21:00:11+08:00 推文](https://twitter.com/HeQinglian/status/1510240679762575361)
 
 Re @Wu_Zhi 就在前天，法广与DW的判断是俄不敢断气，欧盟不怕。<br>法广有文章这样说我理解，法对俄天然气依赖度只有20%多<br>另外，东欧四国就制裁俄一事发生分裂：波捷要求制裁并采取行动，匈牙利与斯洛伐克不制裁，被昔日兄弟骂成“降俄”了。芬兰制裁了三天悄悄放弃。<br>日本几天前宣布日本法律不允许没收俄外汇资产。
+
+### 253: [2022-04-02 21:54:14+08:00 推文](https://twitter.com/HeQinglian/status/1510254281420685322)
+
+总算愿意面对问题了。但如果认为美国没堕落，《纽约时报的作者们错了。<br>美国现在陷入一种内外矛盾而假装不知：对外，继承了白人创造的美国宪政文明与强大经济实力；对内，却已经用整套反白人西方文明的BLM、CRT、LGBTQ、取消文化替代它。<br>自己好好想想，拜登怎么进的白宫，哪国有如此领导人？<br><br>纽约时报中文网: #一周热门 #专栏作者 普京认为西方正在堕落，他错了<br> <a href="http://nyti.ms/3wPLkdR" target="_blank" rel="noopener noreferrer">http://nyti.ms/3wPLkdR</a>
+
+### 254: [2022-04-02 21:55:33+08:00 推文](https://twitter.com/HeQinglian/status/1510254611143315457)
+
+Re @JianglinLi @standwithukrix @Wu_Zhi @TomMa07952688 这个号被我B了几十次，B了又来。带任务的。
+
+### 255: [2022-04-02 21:58:43+08:00 推文](https://twitter.com/HeQinglian/status/1510255409805901824)
+
+Re @SmallnoD 这是真的。
+
+### 256: [2022-04-02 22:06:54+08:00 推文](https://twitter.com/HeQinglian/status/1510257467351089152)
+
+Re @dll_wzp 这个中国在哪里？😂😂
+
+### 257: [2022-04-02 23:04:48+08:00 推文](https://twitter.com/HeQinglian/status/1510272041039155202)
+
+DW今天数文：<br>战争带来的后果：德国经济景气不再<br><br>对俄制裁：杀敌一千 自损？？？<br><br>德国在资助俄罗斯的侵略战争？<br> <br>乌克兰战争导致欧元区沦入通胀危机<br><br>上述四文充分表达了德国朝野对制裁后果的纠结。 <a href="https://p.dw.com/p/49EZk" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49EZk</a> <a href="https://p.dw.com/p/49N70" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49N70</a> <a href="https://p.dw.com/p/49KwS" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49KwS</a> <a href="https://p.dw.com/p/49N70" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49N70</a>
+
+### 258: [2022-04-02 23:13:27+08:00 推文](https://twitter.com/HeQinglian/status/1510274216301674498)
+
+Re @Wu_Zhi 德国是欧盟老大，虽然不少小弟们都早就悄悄放弃制裁了，邻国奥地利直接宣布自己是中立国，但老大的面子得撑着，否则今后怎么领导欧盟？法国在那里盯这位置很久了。<br>听有位德华推主说，贵国大报一直主张制裁，可能还得等DW版面上充斥了转自贵国大报的放弃制裁文章，再反复痛骂中国助俄，大概就快了。
+
+### 259: [2022-04-02 23:15:08+08:00 推文](https://twitter.com/HeQinglian/status/1510274642107416579)
+
+Re @JianglinLi @standwithukrix @Wu_Zhi @TomMa07952688 每次都是0 fo, 我下次注意它跟谁，连那号也B掉。
+
+### 260: [2022-04-02 23:53:04+08:00 推文](https://twitter.com/HeQinglian/status/1510284186485239808)
+
+Re @JianglinLi 德国人信这宝的，现在不是非常糟糕吗？<br>他应该将他的财产全捐出来，帮助本国人民度难关。<br>一个坐在屋里畅想的空想家，先将母国大重置。
+
+### 261: [2022-04-02 23:54:17+08:00 推文](https://twitter.com/HeQinglian/status/1510284491629150209)
+
+Re @Max12172 @KELMAND1 话说，乌克兰非北约成员国，北约不是不介入俄乌军事冲突吗？
+
+### 262: [2022-04-03 01:19:07+08:00 推文](https://twitter.com/HeQinglian/status/1510305839944458240)
+
+Re @jbchen2009 早就不是大熔炉（Melting Pot ), 是Salad Bowl。<br>如果是大熔炉，那就是让移民认同美国宪政民主价值观，成为美国人；<br>Salad Bowl，就是不再要求移民认同美国主流价值观，而是生活在美国，各找各妈，比如华人认同中共。
+
+### 263: [2022-04-03 01:30:36+08:00 推文](https://twitter.com/HeQinglian/status/1510308731908726788)
+
+波兰总统莫拉维茨基批评一些欧盟领导人“将制裁当做他们不作为的烟幕”。“制裁应该给乌克兰带来和平，而不是用来安抚欧洲内疚的良心。制裁应该阻止普京。如果它们没有，那就意味着它们不够有力。”<br>他在走访该国东部奥特沃茨克时说，西方国家目前为止对俄罗斯的制裁根本不起作用，卢布汇率就是一个证明。<br><br>Mateusz Morawiecki: Some EU leaders are treating the sanctions as a smokescreen for their inaction. The sanctions are supposed to bring Ukraine peace, not to appease Europe’s guilty conscience. The  sanctions are supposed to stop Putin. If they haven’t it means they are not robust enough!<br>
+
+### 264: [2022-04-03 01:39:26+08:00 推文](https://twitter.com/HeQinglian/status/1510310953979727877)
+
+Re @HsTui 今早听广播，中东国家隔岸观火，Many in Mideast See Western Support of Ukraine as Sign of Unfairness。<br>西方极端虚伪等词都用上了，骂完美国，就认为欧洲总是世界大战的战场。
 

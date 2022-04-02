@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-03-31
+date: 2022-04-03
 from: https://old.reddit.com/r/yerbamate/comments/tq7nta/what_are_you_drinking_this_week_weekly_discussion/
 layout: post
 tags:
@@ -131,4 +131,10 @@ Beyond the environmental harm, there is no obvious upper limit to the geopolitic
 ----- __205.2__ -----2022-04-01 12:17:07+08:00:
 
 Understanding the agenda-setting function of high profile government or public initiatives is critical to understanding American politics, especially in the 20th century.  Orienting public focus in this way implies that the problem must be solved at the governmental level, which is the first step in the process of manufacturing consent.  From prohibition to the wars on drugs, poverty, terror and beyond, each such case expands the power of government --- usually at the federal level.  The goals in each of these cases may be different, but the result always tends to be the same (especially for the those that don't have the political capital to shape public policy).
+
+### 206: [Why Ukraine is the Nazi state?](https://old.reddit.com/r/geopolitics/comments/tupaqw/why_ukraine_is_the_nazi_state/), submitted on 2022-04-03 02:12:23+08:00.
+
+----- __206.1__ -----2022-04-03 03:01:03+08:00:
+
+Locked and permanently banned.
 
