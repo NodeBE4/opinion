@@ -167,3 +167,31 @@ Re @PRenmei 你就是個中共網軍幽靈，連人都不是。
 
 特别强烈推荐：<br>王剑今日评论不仅依据事实分析情况，而且透过事实，极为深刻地分析极权意志实施的祸国殃民政策，将防疫作为政治运动，伤害民众比文革更甚！今日听众参与互动的议论金句迭出精彩纷呈。<br>今日评论堪称经典！<br><br>新闻茶座: 疫情政治正在全面反噬中国/王剑 <a href="https://youtu.be/eJeZtpwBdyg" target="_blank" rel="noopener noreferrer">https://youtu.be/eJeZtpwBdyg</a>
 
+### 39: [2022-04-03 08:42:48+08:00 推文](https://twitter.com/realcaixia/status/1510417497106833408)
+
+强烈推荐 #议报转发上海季孝龙为民请命书<br>上海执行清零强制隔离，爆出大量人道灾难，酿成多起人间惨剧，中下层生计危难民不聊生。公民季孝龙深知中共极度残暴，为不连累别人，他一人挺身为民请命，可谓孤单英雄！<br>季先生公开发声处境危险，恳请网友多多转发和关注，人越多越能帮助保护季先生。<br><br>《议报》: 季孝龙：速停运动式防疫  纾困解难发救济！——上海公民为民请命书<br> <a href="https://yibaochina.com/?p=245681" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245681</a>
+
+### 40: [2022-04-03 08:56:46+08:00 推文](https://twitter.com/realcaixia/status/1510421012197920772)
+
+哪个官员下的指令，哪些人强行把孩子与母亲活活分开，这些人还是人吗？！毫无人性的行尸走肉、鬼魅魍魉！习清零政策祸国殃民！<br><br>鲁  难: 中新社属下的《中国慈善家》杂志发布上海患儿与父母分开隔离报道后，评论区留言如潮，挤满了愤怒的言辞。<br><br><img style="" src="https://pbs.twimg.com/media/FPWkcDqXsA0BFPh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPWkcECXMAACpaw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPWkcHzXEAI7r62?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPWkcIyXwAUyKNg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 41: [2022-04-03 09:06:46+08:00 推文](https://twitter.com/realcaixia/status/1510423527861755904)
+
+习祸国殃民的强制隔离，多少人被夺走性命、惨剧丛生！21世纪啊！西方世国家早进入现代文明了，中国依旧被一人独裁强权意志戕害14亿！庆父不死 鲁难未已！<br><br>Jennifer Zeng 曾錚: So many tragedies! A couple in #Tianjin City in #CCPChina chose to jump to death together during the #COVID19 lockdown. #CCPvirus <br>天津某封控小区，夫妻一起跳楼 #中共病毒<br><br><video src="https://video.twimg.com/ext_tw_video/1510418338354192396/pu/vid/544x960/h5iFu9xx6NMsNJs7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510418338354192396/pu/img/rS46ZdeCGOZ89nda.jpg"></video>
+
+### 42: [2022-04-03 09:09:01+08:00 推文](https://twitter.com/realcaixia/status/1510424095007166467)
+
+Re @Christi39947676 你是中共网军鬼魅幽灵！
+
+### 43: [2022-04-03 09:27:47+08:00 推文](https://twitter.com/realcaixia/status/1510428816866426890)
+
+Re @Christi39947676 你混蛋！还有点人性吗？！
+
+### 44: [2022-04-03 09:28:20+08:00 推文](https://twitter.com/realcaixia/status/1510428958084448258)
+
+Re @Christi95385460 你混蛋！
+
+### 45: [2022-04-03 09:29:57+08:00 推文](https://twitter.com/realcaixia/status/1510429364516790273)
+
+Re @Christi95385460 你混蛋！一个鬼魅！
+
