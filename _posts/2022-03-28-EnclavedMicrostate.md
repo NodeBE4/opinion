@@ -341,3 +341,19 @@ I'm surprised you didn't start with asking what a student *is*! One's goodness a
 
 Except from the Jurchen Jin onward, where imperial states took symbolic names – Jin 金, Yuan 元, Ming 明, (Shun 順,) and Qing 清.
 
+### 297: [[Hobby Scuffles] Week of April 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/tvb707/hobby_scuffles_week_of_april_4_2022/), submitted on 2022-04-03 23:00:15+08:00.
+
+----- __297.1__ -----2022-04-04 04:15:14+08:00:
+
+Well also, in 2014 she would have been, what, 17? Edgy teen phases aren't necessarily uncommon.
+
+----- __297.2__ -----2022-04-04 04:23:14+08:00:
+
+Weirdly, this isn't the first time Demondice's past use of racial slurs came up, as there was apparently some discussion of whether that might be a bit of a ticking time bomb for her during Mori Calliope's debut. What's interesting is there are, effectively, more than one issue on the line here. Quite apart from the question of whether people will be willing to allow her to move on, there's also the matter of how to deal with the notion that Calli and DDK are separate identities even if they are adopted by the same person, given that it's been DDK coming under fire for something that was kicked off by something featured on the Calli side of things.
+
+But as with many things, there is a question of whether it will all blow over as a bit of a nothingburger in a matter of days or weeks, like the Nene tracing incident.
+
+----- __297.3__ -----2022-04-04 04:30:34+08:00:
+
+On that latter aspect, I agree it's interesting though not necessarily on the majority white Anglospheric audience side, at least not entirely. From the numbers that have gone around lately, her Japanese audience seems decently substantial as well, given her album charted at #4 on Billboard Japan's top downloaded albums in its first week. While a numerical minority it's definitely not just a niche of her audience, and it seems like concern about the 'watering down' on the Japanese side of things comes about kind of externally, from people with an investment in 'authentic' or 'accurate' representations of Japan and its culture internationally, which is a bit of a separate matter from reception of that work within Japan. What might seem like 'watering down' to a particularly conscious outside viewer may, within Japan, be received as entirely innocuous.
+
