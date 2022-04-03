@@ -138,3 +138,11 @@ Understanding the agenda-setting function of high profile government or public i
 
 Locked and permanently banned.
 
+### 207: [Gross Mistranslation Error in Crime and Punishment (P&V)?](https://old.reddit.com/r/dostoevsky/comments/tux1am/gross_mistranslation_error_in_crime_and/), submitted on 2022-04-03 08:02:49+08:00.
+
+----- __207.1__ -----2022-04-03 11:45:22+08:00:
+
+This is something that's been debated since P&V first came on the scene.  The only people who agree they're better are people who don't speak Russian and English fluently, but who read David Remnick's poorly written article so many years ago and just repeat what he said.  
+
+Morson is absolutely right.  Remnick is an idiot who doesn't speak Russian.  People can search through the comments I've written on this issue that are, by now, almost five years old if they want to see the issue discussed in greater depth.
+
