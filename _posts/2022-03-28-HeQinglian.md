@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -1098,4 +1098,12 @@ Re @Jumboriceball 那么你预测一下，下一场战在哪里打，或者俄�
 ### 271: [2022-04-03 10:06:19+08:00 推文](https://twitter.com/HeQinglian/status/1510438516819480579)
 
 Re @TomMa07952688 据说将是场很硬的仗。
+
+### 272: [2022-04-03 11:16:45+08:00 推文](https://twitter.com/HeQinglian/status/1510456243198046214)
+
+Re @Jumboriceball “普京急于在May 9之前出成果”——听起来不好。<br>中共战神林彪对打仗从来不勉强，时机成熟就打。
+
+### 273: [2022-04-03 11:21:16+08:00 推文](https://twitter.com/HeQinglian/status/1510457377190993922)
+
+评论：欧洲试图驾驭中国虎  <br>看标题挺有喜感。<br>此时此刻，欧盟还是驾驭好内部为上上之策，等以后欧盟强身健体之后，再去驾驭“中国虎”吧——此刻想这些有的没的，让人佩服。 <a href="https://p.dw.com/p/49NP1?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49NP1?maca=zh-Twitter-sharing</a>
 

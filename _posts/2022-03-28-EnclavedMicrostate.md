@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-01
+date: 2022-04-03
 from: https://old.reddit.com/r/AskHistorians/comments/tpvvpr/was_hong_xiuquan_leader_of_the_taiping_rebellion/
 layout: post
 tags:
@@ -332,4 +332,12 @@ Who would you consider your best student, and why is it Xenophon?
 ----- __295.2__ -----2022-04-01 21:24:34+08:00:
 
 I'm surprised you didn't start with asking what a student *is*! One's goodness as a student cannot be established without an understanding of that, so now I must ask you, Socrates: what is a student?
+
+### 296: [Help with Questions about the surname Tang 湯 versus 唐?](https://old.reddit.com/r/ChineseHistory/comments/turaj8/help_with_questions_about_the_surname_tang_湯/), submitted on 2022-04-03 03:39:41+08:00.
+
+----- __296.1__ -----2022-04-03 12:57:23+08:00:
+
+> Chinese dynasties are named after names of states, not after the ruling families. The only exception to that is Chen dynasty (陳朝), otherwise the states were named after the fiefs the founding Emperor was ruling.
+
+Except from the Jurchen Jin onward, where imperial states took symbolic names – Jin 金, Yuan 元, Ming 明, (Shun 順,) and Qing 清.
 
