@@ -156,3 +156,11 @@ https://www.reddit.com/r/dostoevsky/comments/fln485/what_does_everyone_think_of_
 
 https://www.reddit.com/r/dostoevsky/comments/d228hz/translations_have_ruined_dostoevsky/ezsh32e/
 
+### 208: [My professor my class that Beslan "almost brought down Putin's government." Is this true or and if so, how? How did the situation unfold in the Kremlin?](https://old.reddit.com/r/geopolitics/comments/tv64h4/my_professor_my_class_that_beslan_almost_brought/), submitted on 2022-04-03 18:16:22+08:00.
+
+----- __208.1__ -----2022-04-04 00:31:23+08:00:
+
+This is a great question, but it's related primarily to domestic politics.  DM me if you want to discuss Beslan and Putin's government or you can try to submit it to /r/magnitsky or /r/politicalwarfare. 
+
+Since this issue focuses on a challenge with Russia internally, it's not really appropriate here.
+
