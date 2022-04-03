@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-01
+date: 2022-04-03
 from: https://twitter.com/vshih2/status/1508173899736903680
 layout: post
 tags:
@@ -150,4 +150,8 @@ RT Neysun Mahboubi<br>Three cheers for @yuenyuenang: “To avoid the return of
 ### 34: [2022-04-01 22:43:46+08:00 推文](https://twitter.com/oertel_janka/status/1509904360184164391)
 
 RT Janka Oertel<br>The statements following the EU-China summit made clear that it was a frosty meeting.There was little agreement between the two sides and the conversation was far from being “business as usual”. A frank exchange of opposing views. Systemic rivalry is a new reality. 1/6
+
+### 35: [2022-04-03 05:19:32+08:00 推文](https://twitter.com/niubi/status/1510366345833160706)
+
+RT Bill Bishop<br>So many articles and posts about Shanghai being censored. Just tried to read a Caixin article on a letter signed by the residents of a community saying they didn’t want to be put in centralized quarantine. 404’d.
 
