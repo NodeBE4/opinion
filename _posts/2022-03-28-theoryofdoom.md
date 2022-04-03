@@ -146,3 +146,13 @@ This is something that's been debated since P&V first came on the scene.  The on
 
 Morson is absolutely right.  Remnick is an idiot who doesn't speak Russian.  People can search through the comments I've written on this issue that are, by now, almost five years old if they want to see the issue discussed in greater depth.
 
+----- __207.2__ -----2022-04-03 22:19:37+08:00:
+
+I discuss this issue in greater depth here:
+
+https://www.reddit.com/r/dostoevsky/comments/fb5kq2/pros_and_cons_of_different_brothers_karamazov/fj2tzpv/
+
+https://www.reddit.com/r/dostoevsky/comments/fln485/what_does_everyone_think_of_constance_garnetts/
+
+https://www.reddit.com/r/dostoevsky/comments/d228hz/translations_have_ruined_dostoevsky/ezsh32e/
+

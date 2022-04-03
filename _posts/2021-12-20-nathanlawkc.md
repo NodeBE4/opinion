@@ -23,7 +23,7 @@ The "fake election" of Hong Kong made it to the headlines. Less than a quarter o
 
 ### 2: [2021-12-22 23:34:23+08:00 推文](https://twitter.com/nathanlawkc/status/1473678311276617738)
 
-Publishing #Freedom means a lot to me. I’ve been trying different ways to raise awareness for the Hong Kong protests. Depicting it from personal insight and making it easy to read for international audiences has always been part of the goals -- “Freedom” indeed achieved it.<br><img style src="https://pbs.twimg.com/media/FHOOf67WUAMmNYO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Publishing #Freedom means a lot to me. I’ve been trying different ways to raise awareness for the Hong Kong protests. Depicting it from personal insight and making it easy to read for international audiences has always been part of the goals -- “Freedom” indeed achieved it.<br><img style="" src="https://pbs.twimg.com/media/FHOOf67WUAMmNYO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-23 08:12:35+08:00 推文](https://twitter.com/nathanlawkc/status/1473808720983433221)
 
