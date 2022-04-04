@@ -367,3 +367,7 @@ But as with many things, there is a question of whether it will all blow over as
 
 On that latter aspect, I agree it's interesting though not necessarily on the majority white Anglospheric audience side, at least not entirely. From the numbers that have gone around lately, her Japanese audience seems decently substantial as well, given her album charted at #4 on Billboard Japan's top downloaded albums in its first week. While a numerical minority it's definitely not just a niche of her audience, and it seems like concern about the 'watering down' on the Japanese side of things comes about kind of externally, from people with an investment in 'authentic' or 'accurate' representations of Japan and its culture internationally, which is a bit of a separate matter from reception of that work within Japan. What might seem like 'watering down' to a particularly conscious outside viewer may, within Japan, be received as entirely innocuous.
 
+----- __297.4__ -----2022-04-04 14:08:58+08:00:
+
+I wonder if it'll go the other way – if they sort of recognise that the whole separation of identities thing is a bit of a relic of the days of Activ8, and that enough of the small players don't bother with it that the big dogs like Holo and Niji can drop the act too.
+
