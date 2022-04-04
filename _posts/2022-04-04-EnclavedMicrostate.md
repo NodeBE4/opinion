@@ -27,13 +27,13 @@ I feel like it's more likely it was the 'Calvin Morrison' stuff she did for Apri
 
 This is something I've seen a lot, but I legitimately cannot find any firm evidence to support it, and in fact a lot against:
 
-1. AZKi debuted several weeks before being affiliated with Upd8.
+1. AZKi debuted under Upd8 several weeks before officially starting with INNK.
 
 2. Suisei was never affiliated with Upd8 during her time with INNK.
 
 3. While Upd8 dissolved, its parent company, Activ8, still exists, and it wouldn't make sense for Upd8, the sub-company within Activ8, to have had a stake in INNK that wouldn't be transferred to Activ8 if it was wound up.
 
-The trouble is that the sentence 'INNK was a joint venture between Cover and Upd8' gets repeated a lot, but I've never seen anything to confirm this is actually true and not just an assumption that was made. As far as I can tell, INNK was always under Cover, and AZKi as an individual talent was also an Upd8 affiliate (in the vein of HoneyStrap and AniMare being part of 774 but represented by Upd8), but INNK as a whole was not, hence Suisei being Cover-only.
+The trouble is that the sentence 'INNK was a joint venture between Cover and Upd8' gets repeated a lot, but I've never seen anything to confirm this is actually true and not just an assumption that was made. As far as I can tell, INNK was always under Cover, and AZKi as an individual talent was under Cover but also an Upd8 affiliate (in the vein of HoneyStrap and AniMare being part of 774 but represented by Upd8), but INNK as a whole was not, hence Suisei being Cover-only.
 
 ### 300: [Zero Zombie Zones - Weekly Discussion Thread, April 4th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tw8djd/zero_zombie_zones_weekly_discussion_thread_april/), submitted on 2022-04-05 01:54:21+08:00.
 
