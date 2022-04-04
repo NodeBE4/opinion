@@ -90,6 +90,18 @@ Now, what you and I know that most people coming across this drama don't is that
 
 I'd say there's a difference between not allowing someone into a community, and being irked at that how said community's art form is being appropriated. If you're not familiar with the existence of a Japanese hip hop scene, which serves as Calli's primary influence, then it does pretty much come across as someone taking a culturally-specific art form out of that culture for their own benefit.
 
+----- __275.6__ -----2022-04-04 21:07:36+08:00:
+
+Calli thought it was stiff liquor, it's actually cough syrup mixed with soda.
+
+----- __275.7__ -----2022-04-04 21:20:13+08:00:
+
+You took the words out of my mouth... fingers? Keyboard? Here.
+
+Discussions around reception of especially Asian-themed media are complicated by differing perspectives between diaspora communities, who have an understandable tendency to a) 'blend in' by avoiding an excessive consumption of said media, while also b) preferring idealised and/or 'pure' expressions of the cultures they root themselves in; versus non-diaspora communities who will broadly be much more tolerant of imported media deriving and taking inspiration from their culture from a perspective outside it. Take *Crazy Rich Asians* for instance. While relatively well-liked by Asian diaspora communities, its appeal to Asians resident in Asia was, er, a bit more questionable. I can say as a Hongkonger that I had basically no investment in a film set in Singapore.
+
+To take a different example, Gilbert and Sullivan's *The Mikado* is, in my view, a *fascinating* example of this kind of differing reception. There is a very understandable objection to performing the show as-is by some critics in the UK and US because yeah, it is kind of iffy to have mostly white performers portraying faux-Japanese characters. But on the flipside, *The Mikado* has a history of relatively positive reception in Japan, especially in the postwar years, and it even got a new Japanese translation that toured the UK in the late 2000s/early 2010s. Which is just one example of a whole complicated mess where media that is problematic to diaspora communities is seen by non-diasporas as fine, either because what diaspora communities see as misrepresentation is seen as a variation within acceptable norms (in Asia) or because people don't know any better and miss the misrepresentation outright (in the West).
+
 ### 276: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
 
 ----- __276.1__ -----2022-03-29 22:19:00+08:00:
@@ -370,4 +382,8 @@ On that latter aspect, I agree it's interesting though not necessarily on the ma
 ----- __297.4__ -----2022-04-04 14:08:58+08:00:
 
 I wonder if it'll go the other way – if they sort of recognise that the whole separation of identities thing is a bit of a relic of the days of Activ8, and that enough of the small players don't bother with it that the big dogs like Holo and Niji can drop the act too.
+
+----- __297.5__ -----2022-04-04 21:06:56+08:00:
+
+Sure, you *actually* can't, but you can *think* you can't. What's changed isn't that the word has become damaging, it's that those who hadn't previously *recognised* it as damaging now have.
 
