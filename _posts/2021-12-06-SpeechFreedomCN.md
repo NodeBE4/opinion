@@ -29,7 +29,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-10 12:44:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469166062709186564)
 
-Jiangxi man Sun administratively detained for referring to police as bandits in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FGOGmt9WQAIuMk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGoRHWUAkip2w?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGp1lWUAU7xr7?format=jpg&name=orig" referrerpolicy="no-referrer">
+Jiangxi man Sun administratively detained for referring to police as bandits in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FGOGmt9WQAIuMk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGoRHWUAkip2w?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGp1lWUAU7xr7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-11 17:15:16+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469596636880019458)
 

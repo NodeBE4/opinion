@@ -351,7 +351,7 @@ Except from the Jurchen Jin onward, where imperial states took symbolic names â€
 
 ----- __297.1__ -----2022-04-04 04:15:14+08:00:
 
-Well also, in 2014 she would have been, what, 17? Edgy teen phases aren't necessarily uncommon.
+Well also, in 2014 she would have been, what, 17? Edgy teen phases aren't exactly uncommon.
 
 ----- __297.2__ -----2022-04-04 04:23:14+08:00:
 
