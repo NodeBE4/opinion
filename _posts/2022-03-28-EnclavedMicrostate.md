@@ -349,7 +349,7 @@ Well also, in 2014 she would have been, what, 17? Edgy teen phases aren't necess
 
 ----- __297.2__ -----2022-04-04 04:23:14+08:00:
 
-Weirdly, this isn't the first time Demondice's past use of racial slurs came up, as there was apparently some discussion of whether that might be a bit of a ticking time bomb for her during Mori Calliope's debut. What's interesting is there are, effectively, more than one issue on the line here. Quite apart from the question of whether people will be willing to allow her to move on, there's also the matter of how to deal with the notion that Calli and DDK are separate identities even if they are adopted by the same person, given that it's been DDK coming under fire for something that was kicked off by something featured on the Calli side of things.
+Weirdly, this isn't the first time Demondice's past use of racial slurs has come up, as there was apparently some discussion of whether that might be a bit of a ticking time bomb for her during Mori Calliope's debut. What's interesting is there is, effectively, more than one issue on the line here. Quite apart from the question of whether people will be willing to allow her to move on, there's also the matter of how to deal with the notion that Calli and DDK are separate identities even if they are adopted by the same person, given that it's been DDK coming under fire for something that was kicked off by something featured on the Calli side of things.
 
 But as with many things, there is a question of whether it will all blow over as a bit of a nothingburger in a matter of days or weeks, like the Nene tracing incident.
 
