@@ -143,3 +143,15 @@ Re 本篇研究报告写于2020年，研究过美国对两打以上国家的制�
 
 Re @xiaxiaoqiang 中国政府当真是“以万物为刍狗”，这样不是将病传给其他省了么？
 
+### 33: [2022-04-05 04:43:43+08:00 推文](https://twitter.com/HeQinglian/status/1511082108277690371)
+
+Re Richard Hanania 是哥伦比亚大学萨尔茨曼战争与和平研究所的研究员。 理查德的学术兴趣包括核政策、美国大战略、政治心理学、中东政治和国际法。
+
+### 34: [2022-04-05 05:27:36+08:00 推文](https://twitter.com/HeQinglian/status/1511093150185574400)
+
+Re @princeton_walk @xiaxiaoqiang 让上海市政府因地制宜，控制疫情就行了，何必采取这种方式？<br>武汉疫情期间，上海做得就很不错。
+
+### 35: [2022-04-05 05:39:51+08:00 推文](https://twitter.com/HeQinglian/status/1511096231484923906)
+
+Re @princeton_walk @xiaxiaoqiang 我就奇怪，西方的疫情因战争而消失了，中国怎么又出来如此严重的疫情？
+
