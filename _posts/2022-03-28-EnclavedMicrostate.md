@@ -80,6 +80,12 @@ Oh right, well I was there for many of the announcements of announcements too (I
 
 I feel like I know exactly what you mean. I get Chloe's appeal but I feel I'm not the one being appealed to, but I'm really enjoying Zeta.
 
+----- __275.4__ -----2022-04-04 11:27:35+08:00:
+
+There's a somewhat controversial, but in my view still pretty good [mini video essay](https://www.youtube.com/watch?v=V7prxvu_GiQ) by Alfo Media on the idea of a difference between 'white rappers' and 'white people who rap', with the distinction being their level of immersion in the (sub)culture of rap. Alfo Media suggests that 'white people who rap' are people who, in effect, approach rap from within, typically having worked their way into the established community and understand the substance as well as the form of the genre; by contrast, 'white rappers' are those who appropriate the forms of rap but with a markedly different substance reflective of a relatively privileged position, while staying outside actual rap culture. Whether this division is accurate in a detached, factual sense is one thing, but as a framing I think it does a bit to explain the hate here: Calli isn't someone who's 'part of' US rap culture the way Eminem or El-P are, and for a predominantly US-based Internet, that seems like a telltale sign of someone basically appropriating an art form without engaging with its core substance.
+
+Now, what you and I know that most people coming across this drama don't is that, of course, she's not immersed in US rap culture because her aim was always the Japanese scene, which she definitely *has* been part of for some years now at this point. So in a sense the criticism isn't pure irrational hate; it does come from a place of not unreasonable hostility to white people simply barging into black spaces (arch-example being Vanilla Ice). But it is decidedly misplaced, based on incomplete information and simply being exposed to the definitely bad parts of her early career, and at most to her artistic output in a vacuum without appreciation of its context.
+
 ### 276: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
 
 ----- __276.1__ -----2022-03-29 22:19:00+08:00:
