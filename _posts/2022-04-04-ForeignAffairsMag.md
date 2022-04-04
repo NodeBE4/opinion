@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-04
+date: 2022-04-05
 from: https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/
 layout: post
 tags:
@@ -49,6 +49,18 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 Washington’s conception of the Middle East’s geography is out of step with the region’s politics, warns Marc Lynch. Clinging to an old model hampers attempts to confront serial refugee crises, Islamist insurgencies, and entrenched authoritarianism. 
 
 &#x200B;
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 186: [The Fantasy of the Free World: Are Democracies Really United Against Russia?](https://old.reddit.com/r/IndiaSpeaks/comments/twcf54/the_fantasy_of_the_free_world_are_democracies/), submitted on 2022-04-05 04:39:31+08:00.
+
+----- __186.1__ -----2022-04-05 04:40:54+08:00:
+
+\[SS from the article by Shivshankar Menon, former diplomat who served as National Security Adviser to Indian Prime Minister Manmohan Singh from 2010 to 2014. He is currently Visiting Professor of International Relations at Ashoka University.\]
+
+"No matter how long the war in Ukraine lasts, how the West isolates Russia, and how the war’s secondary market effects hit Asian economies, the balance of power in Asia is unlikely to be significantly affected. To be sure, the total collapse of the Russian state would have serious ramifications, but that outcome seems unlikely for now. In Asia, the war will not close the gap in military strength between, on the one hand, the United States and China and, on the other, the large number of middle and subregional powers in Asia. The latter will still have to negotiate between the sole superpower and China. Nor does it seem likely that a newly consolidated Western alliance, however invigorated, will find the energy to take an active or meaningful role in security dilemmas in Asia so long as it is preoccupied with containing Russia in Europe.  
+Instead of consolidation, the war in Ukraine seems likely to lead to greater fragmentation of the global order. It has reinforced the urge to build strategic autonomy in Europe as European countries begin to take a greater share in their own defense rather than rely to such an extent on the United States. It has also reinforced Asia’s sense of its own difference—its focus on stability, trade, and the bottom line that has served Asian countries so well in the last 40 years. The war will likely challenge economies that are already reeling from the pandemic and the retreat from globalization over the last decade. The combined economic and political effects of the war are likely to persuade Asian countries to embrace greater self-reliance, a trend already engendered by the pandemic.  
+But Russia’s invasion does not draw a line in the sand between the allies of the free world and its foes. A global Manichaean struggle is not in the offing. Those observers hoping for a conflict of that scope to arise from the rubble of Mariupol and Kharkiv will be disappointed."
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 

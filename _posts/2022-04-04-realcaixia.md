@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-04-04
+date: 2022-04-05
 from: https://twitter.com/realcaixia/status/1510748790294290434
 layout: post
 tags:
@@ -106,4 +106,20 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
 文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。数千军人进上海，让我们拭目以待，习抄毛作业抄得几分？<br><br>上海街頭成隊軍車 「就像大戰前夜」 <a href="https://youtu.be/WnxgvDgibDw" target="_blank" rel="noopener noreferrer">https://youtu.be/WnxgvDgibDw</a>
+
+### 24: [2022-04-05 05:27:21+08:00 推文](https://twitter.com/realcaixia/status/1511093089691217920)
+
+Re @Sergiolamos3 70年代的江湾五角场，大柏树、翔殷路,那一带是空四军军部、解放军第七军医大学和解放军长海医院。记得1973年或1974年日本松山芭蕾舞团到上海演出，我骑自行车从南京路新昌路骑到翔殷路军医大学本部去去芭蕾舞演出戏票。
+
+### 25: [2022-04-05 05:28:42+08:00 推文](https://twitter.com/realcaixia/status/1511093429006213126)
+
+Re @menu520520 跟着父亲的军队跑，上学在那里
+
+### 26: [2022-04-05 05:31:39+08:00 推文](https://twitter.com/realcaixia/status/1511094169481191426)
+
+Re @zhoupingaya @shchenxj 我就是在所有这些地方都生活工作过，你有什么好说的？
+
+### 27: [2022-04-05 05:34:36+08:00 推文](https://twitter.com/realcaixia/status/1511094911717752837)
+
+Re @haofengrushui1 @jackqzq @Jiexu04225144 上海方言还有一个“挺尸”，现在还说吗？😂
 
