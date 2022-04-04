@@ -96,7 +96,7 @@ Calli thought it was stiff liquor, it's actually cough syrup mixed with soda.
 
 ----- __275.7__ -----2022-04-04 21:20:13+08:00:
 
-You took the words out of my mouth... fingers? Keyboard? Here.
+You took the words right out of my mouth... fingers? Keyboard? Whatever.
 
 Discussions around reception of especially Asian-themed media are complicated by differing perspectives between diaspora communities, who have an understandable tendency to a) 'blend in' by avoiding an excessive consumption of said media, while also b) preferring idealised and/or 'pure' expressions of the cultures they root themselves in; versus non-diaspora communities who will broadly be much more tolerant of imported media deriving and taking inspiration from their culture from a perspective outside it. Take *Crazy Rich Asians* for instance. While relatively well-liked by Asian diaspora communities, its appeal to Asians resident in Asia was, er, a bit more questionable. I can say as a Hongkonger that I had basically no investment in a film set in Singapore.
 
@@ -386,4 +386,28 @@ I wonder if it'll go the other way – if they sort of recognise that the whole 
 ----- __297.5__ -----2022-04-04 21:06:56+08:00:
 
 Sure, you *actually* can't, but you can *think* you can't. What's changed isn't that the word has become damaging, it's that those who hadn't previously *recognised* it as damaging now have.
+
+----- __297.6__ -----2022-04-04 22:21:37+08:00:
+
+Thanks for the shoutout! (I guess? Not sure how to feel about drawing attention to Tartaria being my enduring legacy!)
+
+----- __297.7__ -----2022-04-04 22:22:24+08:00:
+
+I think the thing is, Tartaria was already so tied into the whole CulturalLayer architecture nonsense that arguably the 'ancient empire' side was a temporary fixation within an otherwise architecture-dominated conspiracy.
+
+----- __297.8__ -----2022-04-04 22:24:02+08:00:
+
+If you have a look at the r/badhistory post you'll see – they'll pull stuff out like Russian medals commemorating the 100th anniversary of Napoleon's defeat as being proof of a Russo-French alliance because they have Napoleon's head on them; art showing Napoleon being buddy-buddy with Tsar Alexander in the post-Tilsit 'honeymoon period'; the existence of 'Russian militia' who, because they're dressed differently from French and Russian regulars (hint: the only difference is they wear greatcoats), must actually be the Tartarian army, etc.
+
+----- __297.9__ -----2022-04-04 22:24:54+08:00:
+
+Yep. As noted, the 'Tartarian Empire' did exist. It was the Mongol Empire. And then that collapsed. No need to make as big a deal out of it as the Tartaria-stans do.
+
+----- __297.10__ -----2022-04-04 22:26:00+08:00:
+
+If it involves secret coverups, someone has to be doing the covering.
+
+----- __297.11__ -----2022-04-04 22:27:17+08:00:
+
+Yeah, Calli/DDK is infamously bad at damage control; her general 'fuck the haters and keep on trucking' approach is something that in a sense works for her in the moment but doesn't do much to actually deflate the drama. That said, I do feel like there's a bit of a case of her not being omniscient here. She might only be seeing – or only really taking notice of – the criticism of her old work, not of the racial slurs side of things, and arguably it is the latter where you do need to make a clear statement whereas the former can arguably be addressed with 'you are coming at this having just discovered my work and are deliberately going after old work which I've already disavowed'. Though that might be the more generous take.
 
