@@ -71,3 +71,19 @@ Re @lizaixi5 感谢网友支持。🤝🌹
 
 Re @13072064wer 正在技术修复。议报已经遭中共网军黑客多轮攻击。
 
+### 15: [2022-04-04 19:07:40+08:00 推文](https://twitter.com/realcaixia/status/1510937140594626565)
+
+Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言。不知现在年轻人还有说“扎台ying（型）”“老结棍” 这些方言吗？
+
+### 16: [2022-04-04 19:50:49+08:00 推文](https://twitter.com/realcaixia/status/1510947998565601284)
+
+視頻中江蘇支援上海的醫護隊，防護服髒了，沒有換防的防護服，吃不上飯，最後江蘇醫護隊氣憤離去甩手不幹了。【 #大陸民生 】| #大紀元新聞網 <a href="https://youtu.be/OQ3llDVD8QE" target="_blank" rel="noopener noreferrer">https://youtu.be/OQ3llDVD8QE</a>
+
+### 17: [2022-04-04 19:57:14+08:00 推文](https://twitter.com/realcaixia/status/1510949611036368900)
+
+上海閔行龍柏六村居民向居委會領導抗議，小區已經被封控8天，沒有蔬菜吃，並質問領導，為何兩個陽性病例，要將整個龍柏六村一千多人封閉，要求解封。【 ... <a href="https://youtu.be/FMnCyCVsb98" target="_blank" rel="noopener noreferrer">https://youtu.be/FMnCyCVsb98</a>
+
+### 18: [2022-04-04 20:07:04+08:00 推文](https://twitter.com/realcaixia/status/1510952089303793668)
+
+请网友判断，是依据科学做防疫还是依据头脑想象搞防疫？抗疫模式也讲中国独特模式，制度优势，是正常思维吗？请听前7分钟上海政治错误14条内容<br>红三代披露上海问题14条：擅自“抢跑”全国犯重大政治错误！清零只能成功不能失败！中央将拿出定力“数年内”调整防疫； <a href="https://youtu.be/be4I1wA1Mds" target="_blank" rel="noopener noreferrer">https://youtu.be/be4I1wA1Mds</a>
+
