@@ -21,7 +21,7 @@ Re 深圳大学教师吴远卿，因在朋友圈转发人《人民日报》旧�
 
 ### 2: [2021-12-21 18:19:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473236755310694405)
 
-Re Shenzhen University teacher Wu Yuanqing under investigation by the University, for citing an old article from People's Daily in WeChat Moments to express his condemnation to the student in Shanghai Zhendan College's case (previously mentioned in this thread).<br><img style="" src="https://pbs.twimg.com/media/FHH8Yz8XwAMUe2X?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Shenzhen University teacher Wu Yuanqing under investigation by the University, for citing an old article from People's Daily in WeChat Moments to express his condemnation to the student in Shanghai Zhendan College's case (previously mentioned in this thread).<br><img style src="https://pbs.twimg.com/media/FHH8Yz8XwAMUe2X?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-21 20:27:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473268982690074625)
 
@@ -41,9 +41,9 @@ Re The teacher's name is Li Tiantian, and the Shanghai teacher she supported on 
 
 ### 7: [2021-12-26 20:30:51+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081675428216835)
 
-甘肃省陇南市男子张某，因在微信群里“辱骂村干部“，被处拘留6日。<br><img style="" src="https://pbs.twimg.com/media/FHiKw3oXsAMwokP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiKyBuWUAQEJLN?format=jpg&name=orig" referrerpolicy="no-referrer">
+甘肃省陇南市男子张某，因在微信群里“辱骂村干部“，被处拘留6日。<br><img style src="https://pbs.twimg.com/media/FHiKw3oXsAMwokP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiKyBuWUAQEJLN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-26 20:31:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081875840552963)
 
-Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
 

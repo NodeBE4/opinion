@@ -86,6 +86,10 @@ There's a somewhat controversial, but in my view still pretty good [mini video e
 
 Now, what you and I know that most people coming across this drama don't is that, of course, she's not immersed in US rap culture because her aim was always the Japanese scene, which she definitely *has* been part of for some years now at this point. So in a sense the criticism isn't pure irrational hate; it does come from a place of not unreasonable hostility to white people simply barging into black spaces (arch-example being Vanilla Ice). But it is decidedly misplaced, based on incomplete information and simply being exposed to the definitely bad parts of her early career, and at most to her artistic output in a vacuum without appreciation of its context.
 
+----- __275.5__ -----2022-04-04 13:09:45+08:00:
+
+I'd say there's a difference between not allowing someone into a community, and being irked at that how said community's art form is being appropriated. If you're not familiar with the existence of a Japanese hip hop scene, which serves as Calli's primary influence, then it does pretty much come across as someone taking a culturally-specific art form out of that culture for their own benefit.
+
 ### 276: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
 
 ----- __276.1__ -----2022-03-29 22:19:00+08:00:
