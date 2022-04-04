@@ -87,3 +87,23 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 请网友判断，是依据科学做防疫还是依据头脑想象搞防疫？抗疫模式也讲中国独特模式，制度优势，是正常思维吗？请听前7分钟上海政治错误14条内容<br>红三代披露上海问题14条：擅自“抢跑”全国犯重大政治错误！清零只能成功不能失败！中央将拿出定力“数年内”调整防疫； <a href="https://youtu.be/be4I1wA1Mds" target="_blank" rel="noopener noreferrer">https://youtu.be/be4I1wA1Mds</a>
 
+### 19: [2022-04-04 21:33:09+08:00 推文](https://twitter.com/realcaixia/status/1510973750325518339)
+
+大翻译运动既翻译中共国官方营造仇美诬黑乌克兰、吹捧普京的充满暴戾气的“舆论风向”帖，又翻译央视新闻几位主播污蔑美国的谎言造谣。这戳穿了习当局的画皮，直接曝光中共戈培尔式的造谣宣传。中共国官媒气急败坏，诬陷大翻译背后有美反华黑手，这是中共70多年一贯制伎俩，手法老旧毫无新意，可怜可鄙。<br><br>楊建利 Yang Jianli: 本周，官媒再发数篇文章猛批在“大翻译运动”，又推高了这一运动的知名度，越来越多的人参与其中，向世界揭示中国的极端言论和立场，例如盛赞普京、核平欧美之类的网民评论。被翻译的内容很多获得墙内高赞，“符合党的言论审查标准”（与之观点相反的言论则普遍会遭清理），甚至可以说部分代表了官方声音。<br>
+
+### 20: [2022-04-04 21:46:47+08:00 推文](https://twitter.com/realcaixia/status/1510977183090679824)
+
+破墙，推倒中共的信息防火墙！<br>期待更多的网友帮助转发这个信息，更期待越来越多的大陆网友能链接下载这个APP，并用各种途径方式传播这个链接，让更多的朋友冲破中共信息防火墙。<br><br>韩连潮: 【翻墙利器】#公民力量 团队利用 #greatfire 研发的appmaker平台开发了一款APP，使用这款APP不仅可以浏览 #议报 内容，还可自由上网，目前只有安卓版，App链接如下：<br><br>有兴趣向墙内推送内容的组织个人，可利用appmaker平台轻松制作App：<br><br>请帮转发🙏<br><br><img style="" src="https://pbs.twimg.com/media/FPgKW12XwAcN4kN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a> <a href="https://appmaker.greatfire.org/" target="_blank" rel="noopener noreferrer">https://appmaker.greatfire.org/</a>
+
+### 21: [2022-04-04 21:50:46+08:00 推文](https://twitter.com/realcaixia/status/1510978182647889931)
+
+志士义举！<br>期待海外有更多的朋友力尽所能，以各种方式支援、帮助、协同大陆民众反抗中共极权统治。<br><br>杨佩昌: 我和被鲁东大学开除的小孙同学已经取得了联系，正在沟通中，各位放心。<br>如果他学好语言，我会写信给德国大学，做他的推荐人。<br>总之，我对鲁东大学深感失望。哪能对学生下手这么狠？你是教育机构，不是权力部门，总要以教育为主，举个牌子就开除了，实在过分。<br>所以我才决定出手相助。<br>
+
+### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
+
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
+
+### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
+
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。数千军人进上海，让我们拭目以待，习抄毛作业抄得几分？<br><br>上海街頭成隊軍車 「就像大戰前夜」 <a href="https://youtu.be/WnxgvDgibDw" target="_blank" rel="noopener noreferrer">https://youtu.be/WnxgvDgibDw</a>
+
