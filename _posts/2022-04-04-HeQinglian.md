@@ -155,3 +155,35 @@ Re @princeton_walk @xiaxiaoqiang 让上海市政府因地制宜，控制疫情�
 
 Re @princeton_walk @xiaxiaoqiang 我就奇怪，西方的疫情因战争而消失了，中国怎么又出来如此严重的疫情？
 
+### 36: [2022-04-05 08:25:11+08:00 推文](https://twitter.com/HeQinglian/status/1511137841237176325)
+
+制裁与反制裁的博弈——欧盟的分裂<br>美国有金融霸权，启动了Swift金融核弹；俄罗斯有自然资源主权，回击以王炸。欧盟这次分裂原因与2015年难民潮时期完全不同，除波兰、捷克等国纠结于对俄罗斯的历史恩怨之外，其他欧盟国家对俄制裁的态度与自身对俄罗斯天然气依赖度成正比。 <a href="https://www.epochtimes.com/gb/22/4/4/n13695772.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/4/n13695772.htm</a>
+
+### 37: [2022-04-05 08:28:33+08:00 推文](https://twitter.com/HeQinglian/status/1511138686666264585)
+
+Re @qing_daofu 左派政府只会制造问题，而且不许人指出，指出就是大逆不道。<br>你是哪一种？
+
+### 38: [2022-04-05 08:29:08+08:00 推文](https://twitter.com/HeQinglian/status/1511138836323213325)
+
+Re @weipingyujia 看来，除了 这48国之外，其余国家都不是你眼中的国家，被开除球籍了。
+
+### 39: [2022-04-05 08:33:06+08:00 推文](https://twitter.com/HeQinglian/status/1511139831249788936)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing 2017年郭氏推特革命时，郭粉最感兴趣的也是游轮。一些知名民主人士以被邀上豪化游轮一游为荣。
+
+### 40: [2022-04-05 08:35:30+08:00 推文](https://twitter.com/HeQinglian/status/1511140436508827653)
+
+Re @maga_kureea @Wu_Zhi 游轮在美国，自然FBI有理由没收了。
+
+### 41: [2022-04-05 09:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1511156617781329920)
+
+Re @qing_daofu 我在哪个可以解决问题的位置上任职？<br>你应该去问那些制造问题并且堵住别人嘴巴的人。
+
+### 42: [2022-04-05 10:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1511162424950497281)
+
+Re @qing_daofu 不愧是盛产国师的国度产品，连路都不会走，就想跑路。
+
+### 43: [2022-04-05 10:24:29+08:00 推文](https://twitter.com/HeQinglian/status/1511167861859004421)
+
+Re @JkYJ2l7mDTaxqhJ 人家研究过两打以上的制裁案例。<br>当然，你这只是表达自己的意见，有这权利。<br>看看布林肯昨天的讲话吧。
+

@@ -411,3 +411,7 @@ If it involves secret coverups, someone has to be doing the covering.
 
 Yeah, Calli/DDK is infamously bad at damage control; her general 'fuck the haters and keep on trucking' approach is something that in a sense works for her in the moment but doesn't do much to actually deflate the drama. That said, I do feel like there's a bit of a case of her not being omniscient here. She might only be seeing – or only really taking notice of – the criticism of her old work, not of the racial slurs side of things, and arguably it is the latter where you do need to make a clear statement whereas the former can arguably be addressed with 'you are coming at this having just discovered my work and are deliberately going after old work which I've already disavowed'. Though that might be the more generous take.
 
+----- __297.12__ -----2022-04-05 14:29:15+08:00:
+
+Not everyone can afford the luxury of presuming criticism is in good faith.
+
