@@ -195,3 +195,31 @@ Re @realTaoRay 就算他是最大股份持有人，也得联合其他股东，�
 
 拜登直指普京是战犯 马克龙普京通话受质疑 <br>4月4日，多次要求强化对俄罗斯制裁的波兰总理莫拉维茨基谴责马克龙继续视普京为“对话者”的态度。<br>波兰副总理与泽连斯基最近对德谴责也很多，这些密集发生于拜登到波兰之后。法德两国对本国经济考量确实远多于制裁，对美国配合不够。 <a href="https://rfi.my/8JF6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8JF6.T</a>
 
+### 46: [2022-04-05 17:41:42+08:00 推文](https://twitter.com/HeQinglian/status/1511277892076027905)
+
+俄基辅撤军之后，美国对俄乌战争的介入力度大大加强。<br>1、布查屠杀引发重大变化 美国将向乌克兰提供远程防空系统等重武器 <br>2、各国驱逐俄罗斯外交官；<br>3、欧盟内波兰数度谴责德国，泽连斯基翻默克尔旧帐，均呼应拜登斥普京为战犯。法国亦受二者谴责，两国是欧盟领导国。 <a href="https://rfi.my/8JFU.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8JFU.T</a>
+
+### 47: [2022-04-05 17:48:40+08:00 推文](https://twitter.com/HeQinglian/status/1511279645097959426)
+
+Re 俄乌战争，美国的目的是要一个没有普京的疲弱俄罗斯，但欧盟的政治分裂与经济弱化却先于俄罗斯到来。<br>这可能是3月以前的欧盟各国根本未预料到的。
+
+### 48: [2022-04-05 17:51:00+08:00 推文](https://twitter.com/HeQinglian/status/1511280235152560128)
+
+Re @maga_kureea 法德为自身与欧洲计，只想战争快点结束。
+
+### 49: [2022-04-05 17:58:38+08:00 推文](https://twitter.com/HeQinglian/status/1511282154839412741)
+
+Re @timothyshlong 同意。<br>只要不急于站队，而是体察正在发生的一切，就会慢慢接近真相。<br>只能说，目前是为欧洲着急，但战火会不会延伸至其他洲，也在未知之数。
+
+### 50: [2022-04-05 18:01:50+08:00 推文](https://twitter.com/HeQinglian/status/1511282959302680576)
+
+Re @realTaoRay 怎么不明显，我家有些旧电池，只有一个两小时车程外的地方回收。现放在家里，等天气好些时专程去一趟。
+
+### 51: [2022-04-05 21:33:32+08:00 推文](https://twitter.com/HeQinglian/status/1511336234848821254)
+
+Re @taoye19410156 @timothyshlong 北约出手，其实就是美国出手，英出1.5万，法出1万，其余基本是仪仗队。
+
+### 52: [2022-04-05 21:39:04+08:00 推文](https://twitter.com/HeQinglian/status/1511337627332583426)
+
+Re @JiangShangrong <br>据说你在俄罗斯，能否相告，这篇文章的分析有几成真实？ <a href="http://guancha.cn/lizonglun/2022_04_05_633326_s.shtml" target="_blank" rel="noopener noreferrer">http://guancha.cn/lizonglun/2022_04_05_633326_s.shtml</a>
+
