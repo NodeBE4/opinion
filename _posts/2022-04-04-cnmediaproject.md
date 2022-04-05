@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-04
+date: 2022-04-05
 from: https://twitter.com/ezracheungtoto/status/1510821455142920194
 layout: post
 tags:
@@ -34,4 +34,12 @@ President Who? Ukrainian President Zelensky has been very conspicuously absent f
 ### 5: [2022-04-04 15:33:06+08:00 推文](https://twitter.com/SPCmonitor/status/1510883140654747650)
 
 RT Susan Finder<br>Shandong university student fined by public security &amp; expelled for protesting campus lockdown <a href="https://mp.weixin.qq.com/s/oPN7NDX3EBivz7cL2qG2Cw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/oPN7NDX3EBivz7cL2qG2Cw</a>
+
+### 6: [2022-04-05 03:07:53+08:00 推文](https://twitter.com/niubi/status/1511057989804990464)
+
+RT Bill Bishop<br>Cover Story: Shanghai Fights a New Covid Enemy With Old Weapons <a href="https://www.caixinglobal.com/2022-04-04/cover-story-shanghai-fights-a-new-covid-enemy-with-old-weapons-101865627.html?cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-04-04/cover-story-shanghai-fights-a-new-covid-enemy-with-old-weapons-101865627.html?cxg=web&amp;Sfrom=twitter</a>
+
+### 7: [2022-04-05 04:42:18+08:00 推文](https://twitter.com/AlexDukalskis/status/1511081751698980864)
+
+RT Alex Dukalskis<br>Reporting by @ChuBailiang on a 🇨🇳 domestic ideological campaign to support 🇷🇺 and blame the 🇺🇸 w/ insights from @DrRadchenko &amp; @JosephTorigian <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html</a>
 
