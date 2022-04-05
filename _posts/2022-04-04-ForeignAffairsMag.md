@@ -64,3 +64,27 @@ But Russia’s invasion does not draw a line in the sand between the allies of t
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 187: [Putin’s Doomsday Threat: How to Prevent a Repeat of the Cuban Missile Crisis in Ukraine](https://old.reddit.com/r/UkrainianConflict/comments/twvq03/putins_doomsday_threat_how_to_prevent_a_repeat_of/), submitted on 2022-04-05 22:04:52+08:00.
+
+----- __187.1__ -----2022-04-05 22:05:17+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 188: [Time for Even Tougher Sanctions on Russia: How the United States and Europe Can Target Energy and Finance](https://old.reddit.com/r/ukraine/comments/twvqv3/time_for_even_tougher_sanctions_on_russia_how_the/), submitted on 2022-04-05 22:06:02+08:00.
+
+----- __188.1__ -----2022-04-05 22:06:13+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 189: [Time for Even Tougher Sanctions on Russia: How the United States and Europe Can Target Energy and Finance](https://old.reddit.com/r/europe/comments/twvrsc/time_for_even_tougher_sanctions_on_russia_how_the/), submitted on 2022-04-05 22:07:17+08:00.
+
+----- __189.1__ -----2022-04-05 22:07:28+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 190: [The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow](https://old.reddit.com/r/RussiaUkraineWar2022/comments/twvvlx/the_next_sinorussian_split_beijing_will/), submitted on 2022-04-05 22:12:03+08:00.
+
+----- __190.1__ -----2022-04-05 22:12:12+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
