@@ -43,3 +43,11 @@ RT Bill Bishop<br>Cover Story: Shanghai Fights a New Covid Enemy With Old Weap
 
 RT Alex Dukalskis<br>Reporting by @ChuBailiang on a 🇨🇳 domestic ideological campaign to support 🇷🇺 and blame the 🇺🇸 w/ insights from @DrRadchenko &amp; @JosephTorigian <a href="https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/04/world/asia/china-russia-ukraine.html</a>
 
+### 8: [2022-04-05 17:24:05+08:00 推文](https://twitter.com/Chri5tianGoebel/status/1511273457497120768)
+
+RT Christian Goebel<br>Ukranian Embassy to China posted #Buchamassacre  video on Weibo less than two hours ago, reactions overwhelmingly positive, harsh pushbacks for trolls. Might become most often shared Weibo post on #Bucha today.<br><img style="" src="https://pbs.twimg.com/media/FPkdO-cXoAIwDNe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-04-05 18:15:34+08:00 推文](https://twitter.com/Chri5tianGoebel/status/1511286416541687818)
+
+RT Christian Goebel<br>Remarkable that #Bucha 布查/布恰 does not seem to have been blacklisted on Weibo so far. More than 24 hours later, even some high-engagement posts that don't align with state media narratives remain online.
+
