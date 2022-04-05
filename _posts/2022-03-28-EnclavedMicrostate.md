@@ -413,5 +413,5 @@ Yeah, Calli/DDK is infamously bad at damage control; her general 'fuck the hater
 
 ----- __297.12__ -----2022-04-05 14:29:15+08:00:
 
-Not everyone can afford the luxury of presuming criticism is in good faith.
+Not everyone can afford the luxury of presuming all or even most criticism is in good faith.
 
