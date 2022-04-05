@@ -415,3 +415,11 @@ Yeah, Calli/DDK is infamously bad at damage control; her general 'fuck the hater
 
 Not everyone can afford the luxury of presuming all or even most criticism is in good faith.
 
+----- __297.13__ -----2022-04-06 02:52:54+08:00:
+
+So, this is something I vaguely recall because I did watch the core exchange of videos as someone who was a viewer of both Oates and EoT at the time:
+
+As far as I can tell, it was not ContraPoints but Rationality Rules who was the third party in the drama; RR had done a video on why trans athletes shouldn't compete in professional sports, which EoT objected to. How Oates came to be drawn into it is not entirely clear to me anymore, although my recollection is that it had to do with her being friends with RR and not calling him out on holding a transphobic position. It seems like the full drama with regards to Oates in particular played out over Twitter some months later rather than on Youtube, and a summary of the Twitter drama, admittedly from a relatively pro-EoT position, [can be found here](https://freethoughtblogs.com/reprobate/2019/12/06/timeline-rachel-oates-and-essenceofthought/). I don't recall what RR did later, as I was never an RR viewer, but I know Oates' position was that she wasn't going to publicly denounce or cut ties with RR over his opinion on an issue on which she herself wasn't qualified to speak, and that she didn't believe he was intentionally malicious.
+
+From what I can tell, nobody comes out looking amazing: RR ended up parroting a pretty common transphobic position; Oates' defence (not being informed enough on the issue to properly comment) was comprehensible but pretty weak (i.e. why not inform yourself, then?); EoT was quite overtly hostile to the point of appearing to tell someone on Twitter to commit suicide. Even if RR's video was transphobic, EoT did themselves no favours by adopting a hostile stance and presuming bad faith on the part of all parties involved.
+
