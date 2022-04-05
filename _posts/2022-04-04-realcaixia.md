@@ -147,19 +147,47 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
 
-### 34: [2022-04-05 09:23:59+08:00 推文](https://twitter.com/realcaixia/status/1511152639093977092)
+### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
-海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。<br><br>杨佩昌: 对这么勇敢的孩子，不能让他的前途耽误了。我也可以帮他去德国留学，完成他的学业。<br>不用学德语，英语就行，希望他看到后和我私信联系。<br>多说一句，我以前负责德国国家奖学金项目，能够帮到他。<br><br><img style="" src="https://pbs.twimg.com/media/FPfR2qxWYAMkyWU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT @lunanweiyi: 上海浦东，方舱医院起火，远处依稀可见世博会馆。<br><video src="https://video.twimg.com/ext_tw_video/1511003315659849735/pu/vid/304x640/UuN5gmW27n9d3pMo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511003315659849735/pu/img/pyT9Hd1B1sDtAurm.jpg"></video>
 
-### 35: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
+### 35: [2022-04-05 09:14:39+08:00 推文](https://twitter.com/realcaixia/status/1511150290065670150)
 
-好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
+RT @chenqiushi404: 央视永远不会报道这个中国弗洛伊德
 
-### 36: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
+### 36: [2022-04-05 09:23:59+08:00 推文](https://twitter.com/realcaixia/status/1511152639093977092)
 
-义士义举令人感佩，话语令人暖心。<br><br>杨佩昌: 收到太多溢美之词，受之有愧。其实留学德国这事不难，不过举手之劳而已（留学中介别骂）。只要语言过关、符合留学资格（Hochschulzugangberechtigung）都不难办。<br>小孙这事难在如何让德国大学相信，他被开除并非行为不端，只是言论表达惹的祸。这需要一个德国高校信任的人来说明，正巧我就是这个人。<br>
+海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。
 
-### 37: [2022-04-05 09:58:47+08:00 推文](https://twitter.com/realcaixia/status/1511161395714400263)
+### 37: [2022-04-05 09:24:36+08:00 推文](https://twitter.com/realcaixia/status/1511152795361161224)
+
+RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病毒还是居民？中国人民有福了，病毒在枪口下吓得逃之夭夭。<br><br>印度这个曾经疫情严重的国家现在完全恢复正常，所有国家都毕业了，习总亲自指挥的中国还在写作业 ，最后说探索出一条中国特色的抗疫情路线，为世界做出贡…
+
+### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
+
+好悲壮！
+
+### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
+
+义士义举令人感佩，话语令人暖心。
+
+### 40: [2022-04-05 09:45:35+08:00 推文](https://twitter.com/realcaixia/status/1511158075381665792)
+
+RT @RFA_Chinese: “大翻译运动” 官方推特号 @TGTM_Official 在被屏蔽一天后，4月3日美东时间上午恢复了更新。这个账号很快置顶了一篇《#大翻译运动 官方重振声明》称：<br>“大翻译的浪潮绝不回头，总有一天，当阳光重新照在这片土地上，你们会看见那血水烂泥…
+
+### 41: [2022-04-05 09:47:20+08:00 推文](https://twitter.com/realcaixia/status/1511158513925566464)
+
+RT @ShengXue_ca: 让俄罗斯滚出联合国安理会～中共也应该一起被驱逐👌<br>联合国应从根本上改革～专制暴政国家没有资格进入联合国安理会…<br>二战后形成的联合国架构已经让世界付出了巨大代价<br><video src="https://video.twimg.com/ext_tw_video/1511139500134735875/pu/vid/1280x720/41QX2M7g7IV9oKqd.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511139500134735875/pu/img/EEkAdy83gtVfRixp.jpg"></video>
+
+### 42: [2022-04-05 09:47:56+08:00 推文](https://twitter.com/realcaixia/status/1511158665109192707)
+
+RT @wuzuolai: 上海人形成了自已的生活逻辑，当代上海人如张文宏已具世界一流的科学理性，在按照自已的规则行动，但它不符合中南海逻辑，讲政治统一性，讲处置问题的服从指令，不极端不足以表忠心。<br>中共宁愿摧垮上海，也要使其屈从，达到中央要求的清零标准，至于过程与后果的非人道…
+
+### 43: [2022-04-05 09:58:47+08:00 推文](https://twitter.com/realcaixia/status/1511161395714400263)
 
 Re @EdwinHChiang @HenryCh34283099 你在中南海上班还是习近平贴身侍卫？真好意思大言不惭地宣布这类不靠谱的说法。或者你就是有意带风向的家伙？这类高位争夺，不到最后一刻就不算定局，还有半年之久，别说别人如何，就连习本人都难说半年后什么光景。
+
+### 44: [2022-04-05 09:59:45+08:00 推文](https://twitter.com/realcaixia/status/1511161638644244481)
+
+RT @HenryCh34283099: 上海出了一位女英雄疾控中心女官员朱谓萍（农工民主党）一新冠肺炎就是一场感冒；二你可以拒绝去方舱医院；三次生灾害大于新冠肺炎本身；四专业人员都被逼疯了；五不要以为我们这些人都是饭桶，我们提过很多次了，领导听不进去；六你可以把我的录音放出去…
 

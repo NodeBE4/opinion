@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-05
+date: 2022-04-06
 from: https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/
 layout: post
 tags:
@@ -85,6 +85,12 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 ### 190: [The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow](https://old.reddit.com/r/RussiaUkraineWar2022/comments/twvvlx/the_next_sinorussian_split_beijing_will/), submitted on 2022-04-05 22:12:03+08:00.
 
 ----- __190.1__ -----2022-04-05 22:12:12+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 191: [The Next Sino-Russian Split?: Beijing Will Ultimately Come to Regret Its Support of Moscow](https://old.reddit.com/r/ukraine/comments/tx55ap/the_next_sinorussian_split_beijing_will/), submitted on 2022-04-06 05:05:54+08:00.
+
+----- __191.1__ -----2022-04-06 05:06:16+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
