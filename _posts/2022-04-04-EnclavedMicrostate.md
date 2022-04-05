@@ -27,7 +27,7 @@ I feel like it's more likely it was the 'Calvin Morrison' stuff she did for Apri
 
 This is something I've seen a lot, but I legitimately cannot find any firm evidence to support it, and in fact a lot against:
 
-1. AZKi debuted under Upd8 several weeks before officially starting with INNK.
+1. AZKi debuted under Cover a few weeks before also being affiliated with Upd8, and it would be several more weeks before officially starting with INNK.
 
 2. Suisei was never affiliated with Upd8 during her time with INNK.
 
