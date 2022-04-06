@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
