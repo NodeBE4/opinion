@@ -59,7 +59,35 @@ RT Roy Ngerng 鄞義林<br>I grew up in an authoritarian regime, and you have 
 
 RT Neysun Mahboubi<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 12: [2022-04-06 10:10:23+08:00 推文](https://twitter.com/cnmediaproject/status/1511526702073409541)
+### 12: [2022-04-06 09:50:24+08:00 推文](https://twitter.com/DSORennie/status/1511521675791446016)
+
+RT David Rennie  任大伟<br>Proud to have three outstanding new colleagues @TheEconomist as we expand our China coverage - Gabriel Crossley as the newest correspondent in our Beijing bureau, @JNBPage as Asia Diplomatic Editor, based in Delhi, and @aliceysu as Senior China Correspondent, based in Taipei
+
+### 13: [2022-04-06 10:10:23+08:00 推文](https://twitter.com/cnmediaproject/status/1511526702073409541)
 
 Prominent play in official Chinese media lately to the phrase "seeking progress in stability" 稳中求进. Learn about the term in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/</a><br><img style="" src="https://pbs.twimg.com/media/FPoFgG5acAAqOlQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-04-06 13:15:22+08:00 推文](https://twitter.com/niccijsmith/status/1511573256062439427)
+
+RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
+
+### 15: [2022-04-06 15:00:17+08:00 推文](https://twitter.com/rachel_cheung1/status/1511599660464410624)
+
+RT Rachel Cheung<br>Since the start of hostilities more than a month ago, one theme has remained consistent in Chinese state media's coverage of the war: the United States is the villain. <br><br>In my latest for @AJEnglish: <a href="https://www.aljazeera.com/news/2022/4/6/china-media-coverage-ukraine-war" target="_blank" rel="noopener noreferrer">https://www.aljazeera.com/news/2022/4/6/china-media-coverage-ukraine-war</a>
+
+### 16: [2022-04-06 16:29:17+08:00 推文](https://twitter.com/cnmediaproject/status/1511622055577686016)
+
+Weighing The Costs of Russia’s War: As horrific accounts emerge of Russian atrocities in Ukraine, the CCP's flagship paper focusses away from these brutal facts, centering attention instead on the supposed financial atrocities committed by the US. <a href="https://bit.ly/3J7RloM" target="_blank" rel="noopener noreferrer">https://bit.ly/3J7RloM</a><br><img style="" src="https://pbs.twimg.com/media/FPpcIznacAE1a9f?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-04-06 16:36:38+08:00 推文](https://twitter.com/cnmediaproject/status/1511623905148309509)
+
+Re The People's Daily has thrown out a new phrase, “financial terrorism” (金融恐怖主义), to refer to US sanctions against Russia. . . This occurs alongside other rhetorical barbs like “economic hegemonism” (经济霸权主义) and “economic weaponization” (经济武器化).
+
+### 18: [2022-04-06 16:41:07+08:00 推文](https://twitter.com/cnmediaproject/status/1511625036326932480)
+
+Re The People's Daily actually registered China's support for "economic weapons" against the USSR in March 1979. Quite at odds with the current sentiment on Russia's aggression in Ukraine . . . .<br><img style="" src="https://pbs.twimg.com/media/FPpe2OLacAAGQQH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-04-06 16:41:59+08:00 推文](https://twitter.com/cnmediaproject/status/1511625254195822596)
+
+Re 1979: "Today, the situation requires all peace-loving countries and peoples to unite and establish a broad united front against Soviet hegemony, taking effective and practical steps to deal with the Soviet Union’s aggressive expansion and disrupt its global strategic deployment."
 
