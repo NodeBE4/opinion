@@ -49,7 +49,7 @@ Interesting choice of Bae as a point of comparison...
 
 ----- __301.1__ -----2022-04-06 14:24:51+08:00:
 
-Is the rice company one Mai Princess or is there a *different* rice-themed VTuber? Although as for the weather forecasting one, that's been around for a *long* time, even before Kizuna AI, but was originally a pseudo-Vocaloid rather than a live performance.
+Is the rice company one Mai Princess (which is actually a trio although one of them streams very rarely) or is there a *different* rice-themed VTuber? Although as for the weather forecasting one, that's been around for a *long* time, even before Kizuna AI, but was originally a pseudo-Vocaloid rather than a live performance.
 
 ----- __301.2__ -----2022-04-06 14:26:52+08:00:
 
