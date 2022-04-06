@@ -259,3 +259,35 @@ Re @xchen156 “德国前总理默克尔为其拒绝乌克兰加入北约承责�
 
 美军最高将领：乌克兰战争有可能持续“多年” <br>议员们问，有什么能够制止普京攻击乌克兰，米利说，唯一的可能的防范就是派美军进驻乌克兰，而他奉劝不要这样做，因为这有与俄罗斯发生武装冲突的风险。<br>——我怎么感觉与派兵只差一步？ <a href="https://www.voachinese.com/a/ukraine-war-likely-to-last-years-top-us-military-officer-says-20220405/6517132.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/ukraine-war-likely-to-last-years-top-us-military-officer-says-20220405/6517132.html</a>
 
+### 62: [2022-04-06 19:56:38+08:00 推文](https://twitter.com/HeQinglian/status/1511674238855487493)
+
+RT @JiangShangrong: 我账号被封锁，逼迫我删掉了他们需要删掉的推文才解封。都是有关布查屠杀的。总之，关于布查就只能有一个声音呗。那我知道真相是什么了‼️就像当年川普的选举，就像病毒，就像疫苗，我们也只能发一个声音，而真相就再翻面。
+
+### 63: [2022-04-06 19:59:35+08:00 推文](https://twitter.com/HeQinglian/status/1511674979653500929)
+
+Re @MichaelChen1119 第二个改成美国的D，或者大重置势力，就是事实了。<br>拜登应该有压力，前些日子表现不好，CNN等主流就敲打 他了。这几天表现好了，声音又没了。
+
+### 64: [2022-04-06 20:06:50+08:00 推文](https://twitter.com/HeQinglian/status/1511676805299814400)
+
+一位澳洲推友转给我的：一个比较重要的新闻是自今年9月以来，已经有超过1万个疫苗损伤索赔，澳洲政府线上有一个系统<br>会思考的人可以将去年绿能、强制疫苗护照与目前的大事联系起来。不会思考的人除了表态、声讨不高意见之外，什么也不会。 <a href="http://shorturl.at/jFJSX" target="_blank" rel="noopener noreferrer">http://shorturl.at/jFJSX</a>
+
+### 65: [2022-04-06 20:10:53+08:00 推文](https://twitter.com/HeQinglian/status/1511677824599572488)
+
+Re @JiangShangrong 谢相告。也谢谢你从俄乌战争以来的坚持，除了路透等几家主媒之外，我每天都看你的推文。<br>我研究媒体多年（包括近年西媒），经验告诉我，当声音一边倒而且禁绝不同声音之时，我们看到的最多是夹杂着大量关键谎言的“真实”。
+
+### 66: [2022-04-06 20:27:33+08:00 推文](https://twitter.com/HeQinglian/status/1511682019515932672)
+
+Re 补正：末行应为“声讨不同意见。”
+
+### 67: [2022-04-06 20:39:17+08:00 推文](https://twitter.com/HeQinglian/status/1511684972121313287)
+
+Re @KELMAND1 让美国努力，推举乌克兰进入今年的安理会理事会？<br>或者让现有的理事国让贤，让他进去，这样就很热闹了，乌克兰将成为2020年不萎谢的世界政治、经济、军事主题。
+
+### 68: [2022-04-06 20:45:47+08:00 推文](https://twitter.com/HeQinglian/status/1511686605467176964)
+
+Re @zhugangliang @timothyshlong @meerkat4578 Mark这个串推了。看来做这些，需要一天或者更多点时间，这就是不少人质疑的时差。<br>因为从路透揭露假新闻开始，我就知道这次的信息战规模远超二战的黑色宣传，基本没上过当。
+
+### 69: [2022-04-06 20:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1511687139578232835)
+
+RT @xiaxiaoqiang: 俄烏戰爭啓示錄：一場載入史冊的輿論戰、宣傳戰 <a href="https://www.xiaxiaoqiang.net/war-of-public-opinion-history-books/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/war-of-public-opinion-history-books/.html</a>
+
