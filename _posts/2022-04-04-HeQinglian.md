@@ -361,9 +361,13 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
+Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
 气候保护前景堪忧 古特雷斯狠批政府撒谎<br>IPCC最新气候报告发布后，联合国秘书长古特雷斯批评说，许多国家和企业利用气候会议勾画其减排的美好前景，与此同时继续大手笔投资化石燃料和其他污染项目。<br><br>他忽视以下事实：从抵制俄能源后，欧洲正在为解决能源短缺重启煤炭开采。 <a href="https://p.dw.com/p/49UYl" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49UYl</a>
+
+### 89: [2022-04-07 05:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1511817892341424137)
+
+今天，俄罗斯天然气正在、稳定地通过三条关键管道路线流向欧洲。<br>匈牙利总理欧尔班在本日新闻发布会上回答路透社提问时说，匈牙利将以卢布支付以购买其天然气。<br>立陶宛已表示，不再进口俄罗斯天然气来满足其国内需求。<br>拉脱维亚表示，欧盟应该有一个统一的办法。<br>德国还未做出决定。
 
