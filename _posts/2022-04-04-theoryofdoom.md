@@ -45,3 +45,7 @@ This statement's baseline stupidity should be readily obvious.  Anyone even casu
 
 Even setting aside the fact that, of course, Arwady's predictions are --- as always --- based on nothing, these repeat occurrences continue to undermine Arwady's credibility and effectiveness.  This innumerate individual would do well to refrain from further public appearances.  But interestingly, Arwady's approach has clearly shifted, in any case, to one that is tailored by the obvious political gravity associated with COVID policies and in view of the upcoming elections this fall.
 
+----- __210.2__ -----2022-04-07 07:02:29+08:00:
+
+I suggest that Awrady be relieved of her responsibilities.
+
