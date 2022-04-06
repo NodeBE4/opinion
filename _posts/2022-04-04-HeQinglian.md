@@ -279,15 +279,71 @@ Re @JiangShangrong 谢相告。也谢谢你从俄乌战争以来的坚持，除�
 
 Re 补正：末行应为“声讨不同意见。”
 
-### 67: [2022-04-06 20:39:17+08:00 推文](https://twitter.com/HeQinglian/status/1511684972121313287)
+### 67: [2022-04-06 20:29:20+08:00 推文](https://twitter.com/xiaxiaoqiang/status/1511682466444197894)
+
+RT xiaxiaoqiang 夏小強<br>俄烏戰爭啓示錄：一場載入史冊的輿論戰、宣傳戰 <a href="https://www.xiaxiaoqiang.net/war-of-public-opinion-history-books/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/war-of-public-opinion-history-books/.html</a>
+
+### 68: [2022-04-06 20:39:17+08:00 推文](https://twitter.com/HeQinglian/status/1511684972121313287)
 
 Re @KELMAND1 让美国努力，推举乌克兰进入今年的安理会理事会？<br>或者让现有的理事国让贤，让他进去，这样就很热闹了，乌克兰将成为2020年不萎谢的世界政治、经济、军事主题。
 
-### 68: [2022-04-06 20:45:47+08:00 推文](https://twitter.com/HeQinglian/status/1511686605467176964)
+### 69: [2022-04-06 20:45:47+08:00 推文](https://twitter.com/HeQinglian/status/1511686605467176964)
 
 Re @zhugangliang @timothyshlong @meerkat4578 Mark这个串推了。看来做这些，需要一天或者更多点时间，这就是不少人质疑的时差。<br>因为从路透揭露假新闻开始，我就知道这次的信息战规模远超二战的黑色宣传，基本没上过当。
 
-### 69: [2022-04-06 20:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1511687139578232835)
+### 70: [2022-04-06 20:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1511687139578232835)
 
 RT @xiaxiaoqiang: 俄烏戰爭啓示錄：一場載入史冊的輿論戰、宣傳戰 <a href="https://www.xiaxiaoqiang.net/war-of-public-opinion-history-books/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/war-of-public-opinion-history-books/.html</a>
+
+### 71: [2022-04-06 22:06:13+08:00 推文](https://twitter.com/HeQinglian/status/1511706850605125638)
+
+欧盟外交政策负责人表示乌克兰战争如何结束很重要<br><br>博雷利4月6日呼吁欧盟向基辅输送更多武器。他指出欧盟继续购买俄石油和天然气，给俄的钱比欧盟提供给乌的援助多很多倍<br>——唯一的不正确是博雷利将购买能源费用说成是“给”，左派免费午餐吃多了，以为一切都应免费。<br>为啥要买？<br><br>He Qinglian: 美军最高将领：乌克兰战争有可能持续“多年” <br>议员们问，有什么能够制止普京攻击乌克兰，米利说，唯一的可能的防范就是派美军进驻乌克兰，而他奉劝不要这样做，因为这有与俄罗斯发生武装冲突的风险。<br>——我怎么感觉与派兵只差一步？<br> <a href="https://www.voachinese.com/a/ukraine-war-likely-to-last-years-top-us-military-officer-says-20220405/6517132.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/ukraine-war-likely-to-last-years-top-us-military-officer-says-20220405/6517132.html</a>
+
+### 72: [2022-04-06 22:07:06+08:00 推文](https://twitter.com/HeQinglian/status/1511707072014037002)
+
+Re @Wu_Zhi 德国人的父辈用自己的愚蠢透支了子孙的未来。
+
+### 73: [2022-04-06 22:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1511708783797489665)
+
+Re @wwnnppyy 你眼睛有 问题，心有雾霾，眼睛自然看不见。<br>读全我的推文没有？<br>不道歉，我拉黑你，你下面那物事我现在就拉黑。<br>已经容了你很久，给脸不要脸，就是你。
+
+### 74: [2022-04-06 22:20:24+08:00 推文](https://twitter.com/HeQinglian/status/1511710416929497089)
+
+Re 因为这种食用免费午餐的思路，因此西方才会在殖民时代的技术科技优势结束之后，吃了世界各国几十年余荫之后，因余荫难以为继，才会使用绿色能源，无中生有地变造出碳排放权交易这东西，想再吃发展中国的免费午餐。
+
+### 75: [2022-04-06 22:21:53+08:00 推文](https://twitter.com/HeQinglian/status/1511710792206462976)
+
+Re @williamlong 纽约时报与CNN的信息，一定要谨慎对待。
+
+### 76: [2022-04-06 22:26:58+08:00 推文](https://twitter.com/HeQinglian/status/1511712072199020550)
+
+Re @qiyan_wei 第一，我不是陈晓龙，你的尊敬表明，你根本连起码的礼貌都没有，连对方是谁你都不知道。<br>第二，请免了以后的话，因为你不是理解这种提议的料。
+
+### 77: [2022-04-06 22:47:33+08:00 推文](https://twitter.com/HeQinglian/status/1511717250797084689)
+
+Re @wwnnppyy 半个小时过去，没看到你表示Sorry。<br>在拉黑你之前，郑重告知：不要象一个乌克兰文字推号与假日本人小林光一，不断注册新推号来骚扰。自重一点。<br>有真实，才有正义，建立在谎言之上的正义，会反噬自身。
+
+### 78: [2022-04-06 22:49:20+08:00 推文](https://twitter.com/HeQinglian/status/1511717699965104129)
+
+Re @LV00333 @KELMAND1 这是个好主意，养一大批人，专门奉旨监察。
+
+### 79: [2022-04-06 22:52:51+08:00 推文](https://twitter.com/HeQinglian/status/1511718585512640523)
+
+Re @ToumasWang_ @sdfghjfdg1 @princeton_walk @xiaxiaoqiang 我的医生告诉我：2020年凡疫情期间死亡的，只要自愿将死因登记为新冠，可得5000美元补助。<br>有位1月死亡的人，来找医生改死因，被拒绝。医生说，不能太没有底线。
+
+### 80: [2022-04-06 23:08:08+08:00 推文](https://twitter.com/HeQinglian/status/1511722428677906444)
+
+Re @snowballlynx 消费品分为刚需与弹性需求。<br>血钻是奢侈品，是弹性需求；能源是工业与生活消费品，是刚需。前者不买，只影响消费者的心情，后者不购买，影响的是生产与生存。<br>如果后者禁运，一定会被骂成不人道，想破坏购买国的经济。
+
+### 81: [2022-04-06 23:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1511728758167846916)
+
+Re @fool738142461 网友发来的链接，写的是“可以申请”。<br>请你去申请。<br>很多人都没看到这条。
+
+### 82: [2022-04-06 23:34:58+08:00 推文](https://twitter.com/HeQinglian/status/1511729182400733193)
+
+Re 请注意推文写的是：“澳洲政府线上有一个系统<br>申请后自然可以看到数据。希望想了解信息的澳大利亚推友去申请。 <a href="http://shorturl.at/jFJSX" target="_blank" rel="noopener noreferrer">http://shorturl.at/jFJSX</a>
+
+### 83: [2022-04-06 23:37:26+08:00 推文](https://twitter.com/HeQinglian/status/1511729805783453697)
+
+Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>这是去年11月的消息，现在应该更多了。 <a href="https://www.orientaldaily.com.my/news/international/2021/11/16/450265" target="_blank" rel="noopener noreferrer">https://www.orientaldaily.com.my/news/international/2021/11/16/450265</a>
 

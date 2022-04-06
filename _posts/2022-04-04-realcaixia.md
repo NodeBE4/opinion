@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-04-05
+date: 2022-04-06
 from: https://twitter.com/realcaixia/status/1510748790294290434
 layout: post
 tags:
@@ -141,7 +141,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 32: [2022-04-05 09:09:49+08:00 推文](https://twitter.com/realcaixia/status/1511149071708344328)
 
-大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。<br><br>新闻调查: 大翻译运动又一杰作，武汉病毒的真相来了<br><br><video src="https://video.twimg.com/ext_tw_video/1510704705630269440/pu/vid/1280x720/d7gebXM6hxKtZKSU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510704705630269440/pu/img/exVPb1RXvZtcMvJq.jpg"></video>
+大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
@@ -157,7 +157,7 @@ RT @chenqiushi404: 央视永远不会报道这个中国弗洛伊德
 
 ### 36: [2022-04-05 09:23:59+08:00 推文](https://twitter.com/realcaixia/status/1511152639093977092)
 
-海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。<br><br>杨佩昌: 对这么勇敢的孩子，不能让他的前途耽误了。我也可以帮他去德国留学，完成他的学业。<br>不用学德语，英语就行，希望他看到后和我私信联系。<br>多说一句，我以前负责德国国家奖学金项目，能够帮到他。<br><br><img style="" src="https://pbs.twimg.com/media/FPfR2qxWYAMkyWU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。
 
 ### 37: [2022-04-05 09:24:36+08:00 推文](https://twitter.com/realcaixia/status/1511152795361161224)
 
@@ -165,11 +165,11 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
 
-好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
+好悲壮！
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
-义士义举令人感佩，话语令人暖心。<br><br>杨佩昌: 收到太多溢美之词，受之有愧。其实留学德国这事不难，不过举手之劳而已（留学中介别骂）。只要语言过关、符合留学资格（Hochschulzugangberechtigung）都不难办。<br>小孙这事难在如何让德国大学相信，他被开除并非行为不端，只是言论表达惹的祸。这需要一个德国高校信任的人来说明，正巧我就是这个人。<br>
+义士义举令人感佩，话语令人暖心。
 
 ### 40: [2022-04-05 09:45:35+08:00 推文](https://twitter.com/realcaixia/status/1511158075381665792)
 
@@ -190,4 +190,56 @@ Re @EdwinHChiang @HenryCh34283099 你在中南海上班还是习近平贴身侍�
 ### 44: [2022-04-05 09:59:45+08:00 推文](https://twitter.com/realcaixia/status/1511161638644244481)
 
 RT @HenryCh34283099: 上海出了一位女英雄疾控中心女官员朱谓萍（农工民主党）一新冠肺炎就是一场感冒；二你可以拒绝去方舱医院；三次生灾害大于新冠肺炎本身；四专业人员都被逼疯了；五不要以为我们这些人都是饭桶，我们提过很多次了，领导听不进去；六你可以把我的录音放出去…
+
+### 45: [2022-04-06 13:21:27+08:00 推文](https://twitter.com/realcaixia/status/1511574787394519041)
+
+RT @lapatina_: A 6-year-old boy stands near the grave of his mother, who was buried in their yard in Kyiv oblast. (Ph: Rodrigo Abd/AP) http…
+
+### 46: [2022-04-06 13:21:44+08:00 推文](https://twitter.com/realcaixia/status/1511574857007476740)
+
+RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓旁，可怜的孩子失去了至亲至爱，也失去了幸福的童年。
+
+### 47: [2022-04-06 21:46:55+08:00 推文](https://twitter.com/realcaixia/status/1511701989897478150)
+
+勇气、胆识与智慧，令人敬佩！
+
+### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
+
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
+
+### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
+
+RT @zhanglifan: #转【上海的次生灾害】<br><img style="" src="https://pbs.twimg.com/media/FPn9JV5UYAIQ8xB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 50: [2022-04-06 22:19:17+08:00 推文](https://twitter.com/realcaixia/status/1511710134828941314)
+
+RT @citizenzjcn: 发完《为民请命书》和《告公职人员书》，感觉北京和上海正琢磨如何收拾我呢。所以有时我短信撩几下都不回我。后文是我以个体名义给上海市公职人员（含安全、军、公检法等）立规矩，你们做下很多伤天害理的事，所以我有必要教训你们，两届主席习博士说“头顶三尺有…
+
+### 51: [2022-04-06 22:19:41+08:00 推文](https://twitter.com/realcaixia/status/1511710236381528069)
+
+RT @chenqiushi404: 批斗张文宏的大字报已经上线！<br><br>两年前，李文亮说那个病毒很可怕，于是他被训诫了！<br>两年后，张文宏说这个病毒不可怕，于是他被撤职了！<br><img style="" src="https://pbs.twimg.com/media/FPlXIS6X0AETPFk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPlXIS4X0AAYDJo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 52: [2022-04-06 22:20:44+08:00 推文](https://twitter.com/realcaixia/status/1511710503508316168)
+
+RT @lianchaohan: 【演艺圈的良心孙海英】一直在关注孙海英，虽然没有看过他的作品，坚信他是党国演艺圈内的好人，他对中国娱乐界充满浮夸之风的批评，对农村的关爱都体现了正直和良心。自由亚洲这个独家专访做得好，值得一看。<br>#孙海英 #基督教 #激情燃烧的岁月 #冯小刚…
+
+### 53: [2022-04-06 22:25:53+08:00 推文](https://twitter.com/realcaixia/status/1511711797232943104)
+
+可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。
+
+### 54: [2022-04-06 22:28:50+08:00 推文](https://twitter.com/realcaixia/status/1511712538769170439)
+
+RT @__Inty__: 最新消息：黄明志拥有超过300万订阅的YouTube频道被黑了，《玻璃心》等所有MV都消失，粗估蒸发约60亿点击。 <br><br>目前他的主页被黑客搞成了俄语名字，所有内容被清空。<br><br>中共五毛大军也经常使用俄语账号<br><img style="" src="https://pbs.twimg.com/media/FPkE7MMVIAQ06Di?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPkFCglVEAEDVhi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 55: [2022-04-06 22:29:03+08:00 推文](https://twitter.com/realcaixia/status/1511712595916558344)
+
+RT @peichang_yang: 布查惨案发生后，俄乌之间已经失去了谈判基础，剩下的就是死磕了。国际社会唯一能做的是尽力帮助乌克兰干死普京，肢解俄罗斯，让北极熊不再威胁世界。<br>纽伦堡大审判的钟声即将敲响，普京在惶惶不安中度日如年。既然坏事已经做绝，那就等待绞索吧！
+
+### 56: [2022-04-06 22:41:34+08:00 推文](https://twitter.com/realcaixia/status/1511715744635133956)
+
+活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。
+
+### 57: [2022-04-06 22:42:41+08:00 推文](https://twitter.com/realcaixia/status/1511716025758326790)
+
+RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.twimg.com/ext_tw_video/1511298781341687814/pu/vid/960x544/Wb3imbjTZsB3ZqH8.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511298781341687814/pu/img/m5N-VJ9lfLE2ByE3.jpg"></video>
 
