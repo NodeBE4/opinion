@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-06
+date: 2022-04-07
 from: https://twitter.com/HeQinglian/status/1510716788467765253
 layout: post
 tags:
@@ -346,4 +346,24 @@ Re 请注意推文写的是：“澳洲政府线上有一个系统<br>申请后�
 ### 83: [2022-04-06 23:37:26+08:00 推文](https://twitter.com/HeQinglian/status/1511729805783453697)
 
 Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>这是去年11月的消息，现在应该更多了。 <a href="https://www.orientaldaily.com.my/news/international/2021/11/16/450265" target="_blank" rel="noopener noreferrer">https://www.orientaldaily.com.my/news/international/2021/11/16/450265</a>
+
+### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
+
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
+
+### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
+
+Re @piXxUu9df2W1023 他是你的爷爷。<br>因此，你连推号都是两脚羊的咿呀声。😂比你爷爷差多了。
+
+### 86: [2022-04-07 01:49:37+08:00 推文](https://twitter.com/HeQinglian/status/1511763067738198024)
+
+Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，如果Musk说话不合规，照样封号。😂<br>需要一段时间。他虽然是第一大股东，但是，还需要联合一些股东，才会启得话事权。
+
+### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
+
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
+
+### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
+
+气候保护前景堪忧 古特雷斯狠批政府撒谎<br>IPCC最新气候报告发布后，联合国秘书长古特雷斯批评说，许多国家和企业利用气候会议勾画其减排的美好前景，与此同时继续大手笔投资化石燃料和其他污染项目。<br><br>他忽视以下事实：从抵制俄能源后，欧洲正在为解决能源短缺重启煤炭开采。 <a href="https://p.dw.com/p/49UYl" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49UYl</a>
 

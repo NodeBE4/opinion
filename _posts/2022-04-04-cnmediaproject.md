@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-06
+date: 2022-04-07
 from: https://twitter.com/ezracheungtoto/status/1510821455142920194
 layout: post
 tags:
@@ -90,4 +90,24 @@ Re The People's Daily actually registered China's support for "economic weapons"
 ### 19: [2022-04-06 16:41:59+08:00 推文](https://twitter.com/cnmediaproject/status/1511625254195822596)
 
 Re 1979: "Today, the situation requires all peace-loving countries and peoples to unite and establish a broad united front against Soviet hegemony, taking effective and practical steps to deal with the Soviet Union’s aggressive expansion and disrupt its global strategic deployment."
+
+### 20: [2022-04-06 17:05:30+08:00 推文](https://twitter.com/AlexDukalskis/status/1511631170253070337)
+
+RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
+
+### 21: [2022-04-06 19:24:16+08:00 推文](https://twitter.com/OxDemTech/status/1511666092812345348)
+
+RT Programme on Democracy and Technology<br>Our latest China Information Operations newsletter is out! Ed by @Hannah_LSBailey, with work by @SecureDemocracy, @AmandaSeitz et al., @samuel_wade, @doublethinklab, @jenjpan, @KathTX, @Lingling_Wei, @cnmediaproject and more! <br><br>Read and subscribe here 👇 <a href="https://demtech.pub/3r7MOMO" target="_blank" rel="noopener noreferrer">https://demtech.pub/3r7MOMO</a>
+
+### 22: [2022-04-06 20:30:46+08:00 推文](https://twitter.com/CarlMinzner/status/1511682826252521475)
+
+RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public.<br><br>William Farris: Snapshot of what folks in PRC vs Taiwan see re: Ukraine - I translated the first page of Baidu and Yahoo News results for "Bucha Incident" (布查事件) on April 5. Red means source is a PRC Party mouthpiece. Blue indicates the same story about Russia submitting its "evidence" to UN<br><br><img style="" src="https://pbs.twimg.com/media/FPqQDVZaAAgAK9o?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-04-06 21:41:46+08:00 推文](https://twitter.com/niubi/status/1511700694172155909)
+
+RT Bill Bishop<br>When Russian troops withdrew from a Ukrainian village after a monthlong occupation, locals found their beloved mayor’s corpse in a shallow grave, her hands bound <a href="https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/execution-of-village-mayor-becomes-symbol-of-russian-brutality-in-ukraine-11649176611</a>
+
+### 24: [2022-04-07 01:38:48+08:00 推文](https://twitter.com/JosepBorrellF/status/1511760345383251968)
+
+RT Josep Borrell Fontelles<br>Russia’s war against #Ukraine requires everyone to take a stand. At last week’s EU-#China Summit, we discussed our expectations on China to be part of a solution. Read my blog post on how the EU intends to shape China’s choices: <a href="https://www.eeas.europa.eu/eeas/china%E2%80%99s-choices-and-responsibilities_en" target="_blank" rel="noopener noreferrer">https://www.eeas.europa.eu/eeas/china%E2%80%99s-choices-and-responsibilities_en</a><br><img style="" src="https://pbs.twimg.com/media/FPrZ8dxXoAIm3Lv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
