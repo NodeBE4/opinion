@@ -55,17 +55,21 @@ Is the rice company one Mai Princess (which is actually a trio although one of t
 
 Not really, to be honest. At Hololive the VTubers *are* the idols, but it's the only significant agency with a heavy idol aesthetic. The other two major agencies (Nijisanji and VShojo) don't do the idol thing at all, nor do the vast majority of relatively established mid-tier agencies like 774 or VSpo. There are some music-heavy VTubers but that's relatively normal given a lot of them have backgrounds as utaite.
 
+----- __301.3__ -----2022-04-06 22:09:01+08:00:
+
+If it's Mai Princess then I feel like they're the least effective company mascots ever, because I watch Milky Queen semi-frequently and still have no idea what company they're mascots for, if they even are.
+
 ### 302: [So....what's up with Omega?](https://old.reddit.com/r/Hololive/comments/tx7bym/sowhats_up_with_omega/), submitted on 2022-04-06 06:45:39+08:00.
 
 ----- __302.1__ -----2022-04-06 11:18:51+08:00:
 
 Given that Omega didn't even promote 3rd Fes I feel like the whole thing is on somewhat of a backburner now. My largely speculative take is that Omega was supposed to ultimately serve as EN's A-Chan, serving as a visible producer/director, but I think it went wrong for a few reasons:
 
-1. While Omega was introduced along with Council, that did leave their position as regards Myth a little weird and open. Whereas A-Chan was there basically from the start and kind of organically part of Hololive, building up Omega as this big producer/director figure for the whole of EN was a little weird and kind of retcon-y almost because no such figure seems to have ever existed for Myth.
+1. While Omega was introduced along with Council, that did leave their position as regards Myth a little weird and open. Whereas A-Chan was there basically from the start and organically part of Hololive, building up Omega as this big producer/director figure for the whole of EN was kind of retcon-y almost because no such figure seems to have ever existed for Myth.
 
 2. The focus on design and lore seemed just a bit extra. As characters, A-Chan, and more recently Nodoka, are supposed to just be normal humans working at Hololive, while Omega's whole 'divine being' status and elaborate character design all seem almost a bit tacky. I suspect a related issue is that there ends up being somewhat of a lore-specific power dynamic, i.e. Omega as a godlike figure seems to be decidedly more 'powerful' lore-wise than EN's members, whereas A-Chan and Nodoka are on the same level as the JP Holomems image-wise.
 
-3. I legitimately don't think people were wholly receptive to an overtly non-feminine presence in HoloEN. Omega being gender-neutral but also occasionally alluded to in masculine terms I think did actually put people off who had seen HoloEN as a primarily female group. Optimistically there might be an image element to it related to the above: it might come across as a *little* iffy for the talent section to be all women, and the only known producer/director figure to not be.
+3. I legitimately don't think people were wholly receptive to an overtly non-feminine presence in HoloEN. Omega being gender-neutral but also occasionally alluded to in masculine terms I think did actually put people off who had seen HoloEN as a primarily female group. Optimistically there might be an image element to it related to the above: it might come across as a *little* iffy for the talent section to be all women, and the only known producer/director figure to not be. But if you want to blame idol culture I don't think I could say it wasn't part of it.
 
 4. The way HoloEN appears to work, Omega was kind of superfluous. HoloEN, not unreasonably, has somewhat of an image of being self-organising to a great extent among the talents. Myth, IRyS, Council, and ID Gen 2 all started mixing and doing their own thing pretty quickly. 'A-Chan wrangles everyone into the studio' makes sense in context, 'Omega wrangles EN into doing a collab' does not.
 
@@ -74,6 +78,16 @@ Given that Omega didn't even promote 3rd Fes I feel like the whole thing is on s
 > (considering that a JP manager, Mane-chan, is watching over Bae)
 
 You realise that 'Mane-chan' is simply an abbreviated form of 'Manager-chan', right?
+
+----- __302.3__ -----2022-04-06 22:24:27+08:00:
+
+It's worth noting that manager=/=producer/director. A-chan (and presumably Omega, if Omega is indeed just one individual) doesn't actually manage any specific talents, but instead has some kind of higher-level role in planning and organising content, as well as a public-facing role as the 'voice of Hololive' so to speak when it comes to things like news updates or main-channel collabs. She essentially 'speaks for Hololive' as basically a representative of the agency in the abstract. J-Chad, Enma and Jenma, as well as the anonymous Mane-chans for Council and IRyS, aren't public-facing the way A-chan is, because their role is simply managing the EN Holomems on a day-to-day basis. Behind the scenes, whoever Omega is probably has a similar kind of role to A-chan in terms of managing and organising branch-wide activities, and the Omega character would have been there for the purposes of adding in A-chan's other role as the 'face' of Hololive as an agency, just for HoloEN instead of HoloJP.
+
+Which actually leads me to the thought that a fifth reason why Omega's been sidelined is that A-chan's written English is pretty good, even if it may be run past a copy editor before anything is posted, so in a sense, there's even less point in having a specifically EN producer Twitter account for interactions if A-chan is now capable of handling EN Twitter interactions.
+
+----- __302.4__ -----2022-04-06 22:27:43+08:00:
+
+To be fair, A-chan has had a 3d model since July 2018 and Live2D since February 2019; it's just she's appeared with them more frequently as of late.
 
 ### 303: [When were immigrants first allowed to become Police Officers in the United States??](https://old.reddit.com/r/AskHistorians/comments/txb45y/when_were_immigrants_first_allowed_to_become/), submitted on 2022-04-06 09:57:15+08:00.
 

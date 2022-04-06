@@ -94,3 +94,11 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 192: [The Price of Hegemony: Can America Learn to Use Its Power?](https://old.reddit.com/r/geopolitics/comments/txmq2k/the_price_of_hegemony_can_america_learn_to_use/), submitted on 2022-04-06 21:54:33+08:00.
+
+----- __192.1__ -----2022-04-06 21:55:32+08:00:
+
+\[SS from the article by Robert Kagan, Senior Fellow at the Brookings Institution\]
+
+"Throughout their history, Americans have tended to be unconscious of the daily impact that U.S. power has on the rest of the world, friends and foes alike. They are generally surprised to find themselves the target of resentment and of the kinds of challenges posed by Putin’s Russia and by President Xi Jinping’s China. Americans could reduce the severity of these challenges by wielding U.S. influence more consistently and effectively. They failed to do this in the 1920s and 1930s, allowing aggression by Germany, Italy, and Japan to go unchecked until it resulted in a massively destructive world war. They failed to do so in recent years, allowing Putin to seize more and more land until he invaded all of Ukraine. After Putin’s latest move, Americans may learn the right lesson. But they will still struggle to understand how Washington should act in the world if they don’t examine what happened with Russia, and that requires continuing the debate over the impact of U.S. power."
+
