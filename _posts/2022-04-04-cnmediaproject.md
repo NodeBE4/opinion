@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-05
+date: 2022-04-06
 from: https://twitter.com/ezracheungtoto/status/1510821455142920194
 layout: post
 tags:
@@ -50,4 +50,16 @@ RT Christian Goebel<br>Ukranian Embassy to China posted #Buchamassacre  video 
 ### 9: [2022-04-05 18:15:34+08:00 推文](https://twitter.com/Chri5tianGoebel/status/1511286416541687818)
 
 RT Christian Goebel<br>Remarkable that #Bucha 布查/布恰 does not seem to have been blacklisted on Weibo so far. More than 24 hours later, even some high-engagement posts that don't align with state media narratives remain online.
+
+### 10: [2022-04-05 18:49:06+08:00 推文](https://twitter.com/royngerng/status/1511294855292473349)
+
+RT Roy Ngerng 鄞義林<br>I grew up in an authoritarian regime, and you have to understand, the only way people can survive is if they learn to lie to themselves, and learn to make themselves believe in the government's lies. Even after I was sued by the prime minister, that was how my relatives coped.
+
+### 11: [2022-04-06 01:01:36+08:00 推文](https://twitter.com/NeysunM/status/1511388598150451208)
+
+RT Neysun Mahboubi<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-04-06 10:10:23+08:00 推文](https://twitter.com/cnmediaproject/status/1511526702073409541)
+
+Prominent play in official Chinese media lately to the phrase "seeking progress in stability" 稳中求进. Learn about the term in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/</a><br><img style="" src="https://pbs.twimg.com/media/FPoFgG5acAAqOlQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

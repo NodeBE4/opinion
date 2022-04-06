@@ -255,3 +255,7 @@ Re @JianglinLi @david_david1968 @RealBeiMing @Wu_Zhi 就是你们发来的链接
 
 Re @xchen156 “德国前总理默克尔为其拒绝乌克兰加入北约承责”——这条消息只有法广有。<br>DW的完全不同。除了默克尔修改了她的意见，但DW没这类消息。
 
+### 61: [2022-04-06 09:43:13+08:00 推文](https://twitter.com/HeQinglian/status/1511519867408633856)
+
+美军最高将领：乌克兰战争有可能持续“多年” <br>议员们问，有什么能够制止普京攻击乌克兰，米利说，唯一的可能的防范就是派美军进驻乌克兰，而他奉劝不要这样做，因为这有与俄罗斯发生武装冲突的风险。<br>——我怎么感觉与派兵只差一步？ <a href="https://www.voachinese.com/a/ukraine-war-likely-to-last-years-top-us-military-officer-says-20220405/6517132.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/ukraine-war-likely-to-last-years-top-us-military-officer-says-20220405/6517132.html</a>
+
