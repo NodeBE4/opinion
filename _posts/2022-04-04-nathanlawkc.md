@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-04-06
+date: 2022-04-08
 from: https://twitter.com/nathanlawkc/status/1510696263620214787
 layout: post
 tags:
@@ -31,11 +31,11 @@ Chief Executive Carrie Lam once said she wanted to retire in the UK. Please don�
 
 ### 4: [2022-04-04 18:52:56+08:00 推文](https://twitter.com/nathanlawkc/status/1510933432704114696)
 
-What a BIG LIE promoted by the Chinese influencers, suggesting that all these massacres were committed by Ukrainian but not Russian soldiers. <br>The Chinese state has been supporting the invasion and hope that they can justify their potential war in the future.
+What a BIG LIE promoted by the Chinese influencers, suggesting that all these massacres were committed by Ukrainian but not Russian soldiers. <br>The Chinese state has been supporting the invasion and hope that they can justify their potential war in the future.<br><br>The Great Translation Movement 大翻译运动官方推号: The slanderous lies of influential Chinese bloggers: "UKRAINIAN NAZIS ARE GENOCIDING PRO-RUSSIAN CIVILIANS"<br>#BuchaMassacre <br><br>@ArthurKei_UA @max_katz @maxseddon <br>#大翻译运动 #TheGreatTranslationMovement <br><br>FC:<br><br><img style="" src="https://pbs.twimg.com/media/FPfbOrcVUAI11as?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://tinyurl.com/fdkja7rw" target="_blank" rel="noopener noreferrer">http://tinyurl.com/fdkja7rw</a>
 
-### 5: [2022-04-04 19:40:20+08:00 推文](https://twitter.com/nathanlawkc/status/1510945361199828992)
+### 5: [2022-04-04 19:40:20+08:00 推文](https://twitter.com/nathanlawkc/status/1510945358792306695)
 
-Re Tune in and listen to the introduction of Halik's amazing book "Resistance: The Underground War in Europe, 1939-45," and the amazing stories of Arkady interviewing Ukrainian President Zelensky. <a href="https://www.bbc.co.uk/programmes/m00162lz" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/programmes/m00162lz</a>
+Glad to be a guest with @ArkadyOstrovsky and Halik Kochanski in the BBC Radio 4’s “Start of the Week.” We covered the potential of anti-war resistance in Russia, how the invasion actually recalled what Germany did in the WWII, and the resistance of Hong Kong and Chinese people.<br><img style="" src="https://pbs.twimg.com/media/FPfz_oFXIAIvabj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-04 22:58:04+08:00 推文](https://twitter.com/nathanlawkc/status/1510995123303333891)
 
@@ -80,4 +80,8 @@ Re 4. Today, John Lee quits and begins his CE campaign, with the arrests of a tr
 ### 16: [2022-04-06 20:43:10+08:00 推文](https://twitter.com/nathanlawkc/status/1511685946852483076)
 
 RT @JeromeTaylor: @nathanlawkc described Lee as "even more hawkish and hostile to democratic pursuit" than his predecessors.<br><br>"This is a 's…
+
+### 17: [2022-04-08 01:29:07+08:00 推文](https://twitter.com/nathanlawkc/status/1512120297750728705)
+
+With @TransworldBooks donating the books, I had my book signing session yesterday at an event in St Albans. All the sales income goes to humanitarian assistance in Ukraine. <br>Injustice anywhere is injustice everywhere. People resisting autocrats stand together.<br>#StandWithUkraine<br><img style="" src="https://pbs.twimg.com/media/FPwfyVIXwAgefJN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
