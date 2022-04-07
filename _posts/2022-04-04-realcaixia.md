@@ -201,11 +201,11 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 47: [2022-04-06 21:46:55+08:00 推文](https://twitter.com/realcaixia/status/1511701989897478150)
 
-勇气、胆识与智慧，令人敬佩！<br><br>Harvey JI季孝龙（@cesuogeming 厕所革命发起者): 各位朋友，我已把我生命自由及尊严全部都交给了上海。我已连续两天和朋友做最后道别，按中国敢言公民的遭遇为参考，我是不准备活着出来了。当然我是基督徒，我绝对不会自暴自弃自杀啥的。<br>我道别得连自己都觉得有点矫情了。好像到了一个朋友家做客，我说我走了啊。又聊了一小时。我还自由着。<br>请朋友转<br><br><img style="" src="https://pbs.twimg.com/media/FPpgjFKUcAQMDDD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+勇气、胆识与智慧，令人敬佩！
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
-议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。<br><br>楊建利 Yang Jianli: #议报 以及 #公民力量 所属其他网站遭到黑客攻击，感染严重病毒，公民力量团队在紧急清理修复中，我们决心“清零”，绝不与病毒共存。望大家理解和支持。<br> <a href="https://twitter.com/yibaochina/status/1511520166600916998" target="_blank" rel="noopener noreferrer">https://twitter.com/yibaochina/status/1511520166600916998</a>
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
 
 ### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
 
@@ -225,7 +225,7 @@ RT @lianchaohan: 【演艺圈的良心孙海英】一直在关注孙海英，虽
 
 ### 53: [2022-04-06 22:25:53+08:00 推文](https://twitter.com/realcaixia/status/1511711797232943104)
 
-可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。<br><br>lily valley: 上海地下党组织成员被封家里，无法和他的同志接头！<br><br><img style="" src="https://pbs.twimg.com/media/FPgVKb_WUAMnib9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。
 
 ### 54: [2022-04-06 22:28:50+08:00 推文](https://twitter.com/realcaixia/status/1511712538769170439)
 
@@ -237,7 +237,7 @@ RT @peichang_yang: 布查惨案发生后，俄乌之间已经失去了谈判基�
 
 ### 56: [2022-04-06 22:41:34+08:00 推文](https://twitter.com/realcaixia/status/1511715744635133956)
 
-活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。<br><br>Jacky: 传说中的恶警,大概率最后上海军管.(第一部分)<br><br><video src="https://video.twimg.com/ext_tw_video/1511310669228175361/pu/vid/368x640/bc944MQo8OKnMOXp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511310669228175361/pu/img/LsmYTb4C8T1Fvcg0.jpg"></video>
+活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。
 
 ### 57: [2022-04-06 22:42:41+08:00 推文](https://twitter.com/realcaixia/status/1511716025758326790)
 
@@ -245,7 +245,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 58: [2022-04-07 00:12:27+08:00 推文](https://twitter.com/realcaixia/status/1511738616048926720)
 
-今日金句。<br><br>kevin cheng: @maomao113 @ayase_hazuki @lg19901213 即使民间自救，也不会这样<br><br><img style="" src="https://pbs.twimg.com/media/FPqulGqVcAMr0P8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+今日金句。
 
 ### 59: [2022-04-07 03:02:12+08:00 推文](https://twitter.com/realcaixia/status/1511781334380945412)
 

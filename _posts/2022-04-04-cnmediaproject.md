@@ -111,3 +111,15 @@ RT Bill Bishop<br>When Russian troops withdrew from a Ukrainian village after 
 
 RT Josep Borrell Fontelles<br>Russia’s war against #Ukraine requires everyone to take a stand. At last week’s EU-#China Summit, we discussed our expectations on China to be part of a solution. Read my blog post on how the EU intends to shape China’s choices: <a href="https://www.eeas.europa.eu/eeas/china%E2%80%99s-choices-and-responsibilities_en" target="_blank" rel="noopener noreferrer">https://www.eeas.europa.eu/eeas/china%E2%80%99s-choices-and-responsibilities_en</a><br><img style="" src="https://pbs.twimg.com/media/FPrZ8dxXoAIm3Lv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 25: [2022-04-07 10:54:16+08:00 推文](https://twitter.com/PhelimKine/status/1511900133952303108)
+
+RT Phelim Kine “老 康“<br>Twitter is rolling out new labels "to reduce Chinese state media content" on the platform via  @cnmediaproject <a href="https://chinamediaproject.org/2022/04/04/tag" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/04/tag</a><br><img style="" src="https://pbs.twimg.com/media/FPtZIAfXEAMiDXX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-04-07 11:44:12+08:00 推文](https://twitter.com/cnmediaproject/status/1511912702209568768)
+
+Weighing The Costs of Russia’s War: As horrific accounts emerge of Russian atrocities in Ukraine, the flagship publication of the CCP focusses away, centering attention on the supposed financial atrocities committed by the United States. <a href="https://chinamediaproject.org/2022/04/06/weighing-the-costs-of-russias-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/06/weighing-the-costs-of-russias-war/</a><br><img style="" src="https://pbs.twimg.com/media/FPtklH3aIAMyqcm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-04-07 11:58:21+08:00 推文](https://twitter.com/cnmediaproject/status/1511916260929716225)
+
+In March 1979, China's People's Daily newspaper was all for a united front of sanctions against the USSR: "Today, the situation requires all peace-loving countries and peoples to unite and establish a broad united front against Soviet hegemony . . . . " <a href="https://chinamediaproject.org/2022/04/06/weighing-the-costs-of-russias-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/06/weighing-the-costs-of-russias-war/</a><br><img style="" src="https://pbs.twimg.com/media/FPtnuRVacAIvnFD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
