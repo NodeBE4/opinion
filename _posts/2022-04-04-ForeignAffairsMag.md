@@ -116,3 +116,9 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 "As during the 2004 Orange Revolution and the 2013–14 Maidan protests, which came to be known as the Revolution of Dignity, Ukraine’s fierce self-defense today is a defense of values, not of ethnic identity or of some imagined glorious past. Putin’s obsession with history, in contrast, is a weakness. Although earlier in his presidency, banging the “gathering of the Russian world” drum boosted his approval ratings, it has now led him down what may turn out to be a fatal dead end. In terms of square mileage alone, Ukraine is the second-largest country in Europe, after Russia itself. If you placed it over the eastern United States, as *The Washington Post* recently observed, it would stretch “from Missouri to the Atlantic Ocean, and from Ohio to Georgia.” Occupying it permanently would be enormously costly in troops and treasure. Moreover, Putin’s war has unified Ukrainians as never before. And whether they are speaking Russian or Ukrainian, their sentiment is the same. Already, video clips have gone viral of babushkas telling Russian soldiers that they will leave their bones in Ukrainian soil and of Ukrainian soldiers swearing joyously as they fire bazookas at Russian tanks, all in the purest Russian. The war is likely to go on for a long time, and its final outcome is unknown. History, Putin may be learning, is only a guide when it’s the real sort."
 
+### 195: [Why Putin Underestimated the West: And How to Sustain Its Newfound Unity](https://old.reddit.com/r/europe/comments/tydi0d/why_putin_underestimated_the_west_and_how_to/), submitted on 2022-04-07 21:48:30+08:00.
+
+----- __195.1__ -----2022-04-08 00:03:49+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
