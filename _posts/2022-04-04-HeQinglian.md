@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
+Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
