@@ -59,6 +59,10 @@ Not really, to be honest. At Hololive the VTubers *are* the idols, but it's the 
 
 If it's Mai Princess then I feel like they're the least effective company mascots ever, because I watch Milky Queen semi-frequently and still have no idea what company they're mascots for, if they even are.
 
+----- __302.4__ -----2022-04-08 04:54:33+08:00:
+
+That's not quite correct. While technically, Nijisanji is a division of Anycolor Inc. and Hololive is a division of COVER Corporation, these were companies set up as VTuber companies whose other subdivisions are largely pretty nominal.
+
 ### 303: [So....what's up with Omega?](https://old.reddit.com/r/Hololive/comments/tx7bym/sowhats_up_with_omega/), submitted on 2022-04-06 06:45:39+08:00.
 
 ----- __303.1__ -----2022-04-06 11:18:51+08:00:
