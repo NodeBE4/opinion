@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -446,4 +446,68 @@ Re @FlyInRainS3 你这一说，我还想起这个问题了。<br>中国经营多
 ### 108: [2022-04-07 10:33:35+08:00 推文](https://twitter.com/HeQinglian/status/1511894930750332930)
 
 Re @seadognw @Wu_Zhi 这事儿成了拜登脖子上一根拴狗绳，时不时拉一下。<br>话说，某天与一位熟知民主党内情况的人聊天，他说民主党喜欢找有缺陷的人从政，有把柄在手，不听话就曝光。这样能够维护党的团结统一。
+
+### 109: [2022-04-07 21:50:51+08:00 推文](https://twitter.com/HeQinglian/status/1512065369145442304)
+
+Re @zhuxiuyuan 比喻不当。
+
+### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
+
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
+
+### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
+
+奥巴马关键时刻发指示，必须应对互联网的谣言，比如一些人至今仍然相信拜登盗选。<br>一句话，凡左派视为不正确的言论，必须消灭之。<br>推上的华左们欢呼吧。但不要再骂习近平，因为习近平就是这样干的。
+
+### 112: [2022-04-07 22:18:15+08:00 推文](https://twitter.com/HeQinglian/status/1512072265621336068)
+
+Re @wait_nigel @Northpoleyyy 天然气海运？不是压缩过的液化气。
+
+### 113: [2022-04-07 22:23:02+08:00 推文](https://twitter.com/HeQinglian/status/1512073469197914113)
+
+Re @standwithukr12 你有点自尊好不好？这条推还算正常，因此回复你。<br>每次你注册一个新号少说得花十分钟，我只需要两三秒。<br>你支持什么都与我无关，但我转发什么，与你无关。<br>你是何人何势力派来的？个人没这么大的韧劲。<br>三分钟后拉黑你。
+
+### 114: [2022-04-07 22:24:19+08:00 推文](https://twitter.com/HeQinglian/status/1512073792360570897)
+
+Re @JohnChe68058637 这人能保证自己永远正确吗？就算紧跟，也有是否及时、姿势是否正确。<br>在中国没自由，到西方仍然喜欢自由被剥夺。
+
+### 115: [2022-04-07 22:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1512075983985078289)
+
+法国大选冲刺：热门人选马克龙和勒庞各亮“招数” <br>评：如果是勒庞当选，大重置痛失一腿，另外一条腿德国也不得力。就剩美拜登政府这不大灵的头脑与双手了<br>估计大重置势力会发力助选。话说，法国人已经见识过马克龙的“不左不右、亦左亦右”是什么物事，如果正常…… <a href="https://rfi.my/8Jhl.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jhl.T</a>
+
+### 116: [2022-04-07 22:40:13+08:00 推文](https://twitter.com/HeQinglian/status/1512077792103460882)
+
+Re @FlyInRainS3 这风能、太阳能从诞生之日开始，就是奔西方市场而来。<br>好比大麻也不是为了本国人民享用——一直说是工业用大麻，其实也是奔西方尤其是美国市场来的。但落后了一步，专业化程度远不如美国高，美国不少常春藤大学开设了大麻专业，种、制、销售外加研究，一条龙。
+
+### 117: [2022-04-07 22:43:23+08:00 推文](https://twitter.com/HeQinglian/status/1512078591768465426)
+
+Re @JohnChe68058637 👍<br>托洛茨基一生最喜欢杀人，最后也难逃被杀命运。
+
+### 118: [2022-04-07 22:58:45+08:00 推文](https://twitter.com/HeQinglian/status/1512082458711248921)
+
+Re @Wu_Zhi @JianglinLi 左派打信息战是强项。如果是对付国内政敌，百战百胜。但用之于外战，最后还是凭借战场胜利。<br>目前信息战中，俄罗斯是赢不了的。连布查屠杀也是这一背景的产品。<br>俄罗斯如果被绕进去，那是走不出来的。<br>中国有个冤孽结，正常解法是解不了的，高士奇那法子可用。
+
+### 119: [2022-04-07 23:08:50+08:00 推文](https://twitter.com/HeQinglian/status/1512084994239262730)
+
+谴责谁？印度声援乌克兰 只字未提俄罗斯<br><br>针对乌克兰小镇布查屠杀，印度驻联合国大使提鲁穆提5日表示，印度「明确谴责」这些杀戮行径，并支持对此展开调查，这是印度至今针对俄乌战事最为强烈的声明，值得注意的是，提鲁穆提长达3分钟的声明中，只字未提俄罗斯。 <a href="https://www.chinatimes.com/cn/realtimenews/20220406004314-260408?ctrack=pc_world_headl_p04&amp;chdtv" target="_blank" rel="noopener noreferrer">https://www.chinatimes.com/cn/realtimenews/20220406004314-260408?ctrack=pc_world_headl_p04&amp;chdtv</a>
+
+### 120: [2022-04-07 23:10:38+08:00 推文](https://twitter.com/HeQinglian/status/1512085445370421248)
+
+Re 本不想发这种推，但对推上断章取义的介绍这一谴责，觉得有必要纠正之。<br>中时这条信息，是综合BBC、路透等而发。
+
+### 121: [2022-04-07 23:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1512086263192424456)
+
+Re @Wu_Zhi @JianglinLi 记住二月河小说中一情节，他将周培公珍藏的冤孽结（周爱恋之人所结）投入火中。高士奇这人，不迂腐是其特征。
+
+### 122: [2022-04-07 23:17:47+08:00 推文](https://twitter.com/HeQinglian/status/1512087244655370240)
+
+Re @sarahbinhe 引英文，只有少数人看得明白；引中文，只有台湾的可用，因台湾目前反俄。其余的均会被说成不可信。<br>因此引用中时的。
+
+### 123: [2022-04-07 23:24:44+08:00 推文](https://twitter.com/HeQinglian/status/1512088995987132417)
+
+Re @DongFang_USA 民主党真需要奥巴马强势归来。赶紧修改宪法吧，只差一步了。😂😂
+
+### 124: [2022-04-07 23:29:04+08:00 推文](https://twitter.com/HeQinglian/status/1512090084878729225)
+
+Re @gliderhook 去看日内瓦条约：禁止军队以医院平民居住区学校等作为堡垒，至少得先撤出平民与相关非战斗人员。<br>真不敢相信，大量乌克兰方承认的事实被你“忽略”了。
 
