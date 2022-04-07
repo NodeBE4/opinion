@@ -607,3 +607,31 @@ Re 法广现在半句这类言论也见不到。<br>从中可以判断出两国�
 
 对于想了解美国在信息战中如何取得主动，如何利用信息战起震慑作用，为什么要发布一些虚假信息，美国情报官员有解释。细节我就不译了。<br>本人认为，NBCnews这篇文章值得收藏，价值与太空军司令部及相关网络战将军们的证词同样重要。 <a href="https://www.nbcnews.com/politics/national-security/us-using-declassified-intel-fight-info-war-russia-even-intel-isnt-rock-rcna23014" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/national-security/us-using-declassified-intel-fight-info-war-russia-even-intel-isnt-rock-rcna23014</a>
 
+### 149: [2022-04-08 05:51:53+08:00 推文](https://twitter.com/HeQinglian/status/1512186425910906883)
+
+Re @zhangtianliang 芯片情况，可能台积电的是主沉浮之物。<br>至于中共是否活得了几个月，这是几个月之后就可以验证的事情，你先说一下几个月见生死吧？12个月之内都算吧。
+
+### 150: [2022-04-08 05:53:14+08:00 推文](https://twitter.com/HeQinglian/status/1512186765792235521)
+
+Re @styraxemma @zhangtianliang 你看来没读文章。权重，是加权后的重量，人家说的是人口代表市场规模。
+
+### 151: [2022-04-08 05:55:01+08:00 推文](https://twitter.com/HeQinglian/status/1512187214414991361)
+
+Re @Pan03508892 目前还是很有胜利感。😂
+
+### 152: [2022-04-08 05:58:46+08:00 推文](https://twitter.com/HeQinglian/status/1512188156128464896)
+
+Re @RFI_TradCn 这倒是西方世界可以自行解决的资源，澳大利亚、加拿大都有煤，只是价格可能比较高一点——只要不是特种煤需求，大部分可以解决。
+
+### 153: [2022-04-08 06:02:20+08:00 推文](https://twitter.com/HeQinglian/status/1512189057161469954)
+
+Re @bravesnowcrab 以前我完全同意，现在不太同意。欧美这种引进外来人口的做法，结果地球人都知道。
+
+### 154: [2022-04-08 07:32:38+08:00 推文](https://twitter.com/HeQinglian/status/1512211780461867015)
+
+往事一件：<br>2001年，法国支持中国集结联合国人权委员会（人权理事会前身）许多国家，利用5月3日该委员会成员国改选之机，将美国排挤出人权委员会。对于这一“战果”，新华社欢呼说：“此间舆论认为，美国此次落选表明，许多成员国对美国在国际上将自己的人权标准强加于人的做法不满。”<br><br>亚历山大·鲜卑耶夫: 🔺经93票同意、24票反对、58票弃权，俄罗斯被暂停联合国人权理事会成员资格。 ​​​<br><br>🔺今天俄罗斯被暂停参与联合国人权理事会。一个简单的科普：<br>🔺与安理会不同，联合国人权理事会成员是临时的，参与者不断轮换。 2017-2019年，俄罗斯完全没有参与其活动，<br>
+
+### 155: [2022-04-08 07:36:25+08:00 推文](https://twitter.com/HeQinglian/status/1512212731470000130)
+
+Re @FlyInRainS3 @bravesnowcrab 只有中国国内的知识界，才以为美国还是2010年以前的美国。他们到现在都不知道奥巴马干了些什么。<br>美国这只名牌酒瓶，现在装的全是变质酸酒。
+
