@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-06
+date: 2022-04-07
 from: https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/
 layout: post
 tags:
@@ -101,4 +101,12 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 \[SS from the article by Robert Kagan, Senior Fellow at the Brookings Institution\]
 
 "Throughout their history, Americans have tended to be unconscious of the daily impact that U.S. power has on the rest of the world, friends and foes alike. They are generally surprised to find themselves the target of resentment and of the kinds of challenges posed by Putin’s Russia and by President Xi Jinping’s China. Americans could reduce the severity of these challenges by wielding U.S. influence more consistently and effectively. They failed to do this in the 1920s and 1930s, allowing aggression by Germany, Italy, and Japan to go unchecked until it resulted in a massively destructive world war. They failed to do so in recent years, allowing Putin to seize more and more land until he invaded all of Ukraine. After Putin’s latest move, Americans may learn the right lesson. But they will still struggle to understand how Washington should act in the world if they don’t examine what happened with Russia, and that requires continuing the debate over the impact of U.S. power."
+
+### 193: [Putin’s War on History: The Thousand-Year Struggle Over Ukraine](https://old.reddit.com/r/TrueReddit/comments/tydgtl/putins_war_on_history_the_thousandyear_struggle/), submitted on 2022-04-07 21:46:55+08:00.
+
+----- __193.1__ -----2022-04-07 21:48:05+08:00:
+
+\[SS from the article by Anna Reid, former Kyiv Correspondent for *The Economist*\]
+
+"As during the 2004 Orange Revolution and the 2013–14 Maidan protests, which came to be known as the Revolution of Dignity, Ukraine’s fierce self-defense today is a defense of values, not of ethnic identity or of some imagined glorious past. Putin’s obsession with history, in contrast, is a weakness. Although earlier in his presidency, banging the “gathering of the Russian world” drum boosted his approval ratings, it has now led him down what may turn out to be a fatal dead end. In terms of square mileage alone, Ukraine is the second-largest country in Europe, after Russia itself. If you placed it over the eastern United States, as *The Washington Post* recently observed, it would stretch “from Missouri to the Atlantic Ocean, and from Ohio to Georgia.” Occupying it permanently would be enormously costly in troops and treasure. Moreover, Putin’s war has unified Ukrainians as never before. And whether they are speaking Russian or Ukrainian, their sentiment is the same. Already, video clips have gone viral of babushkas telling Russian soldiers that they will leave their bones in Ukrainian soil and of Ukrainian soldiers swearing joyously as they fire bazookas at Russian tanks, all in the purest Russian. The war is likely to go on for a long time, and its final outcome is unknown. History, Putin may be learning, is only a guide when it’s the real sort."
 
