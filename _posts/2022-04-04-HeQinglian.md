@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -370,4 +370,68 @@ Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744
 ### 89: [2022-04-07 05:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1511817892341424137)
 
 今天，俄罗斯天然气正在、稳定地通过三条关键管道路线流向欧洲。<br>匈牙利总理欧尔班在本日新闻发布会上回答路透社提问时说，匈牙利将以卢布支付以购买其天然气。<br>立陶宛已表示，不再进口俄罗斯天然气来满足其国内需求。<br>拉脱维亚表示，欧盟应该有一个统一的办法。<br>德国还未做出决定。
+
+### 90: [2022-04-07 08:14:30+08:00 推文](https://twitter.com/HeQinglian/status/1511859927014330371)
+
+Re @xchen62 这意思是让匈牙利坐赚转手费用？不过，这还得让天然气管道由匈牙利通往欧洲各国，现赶着修有点来不及。
+
+### 91: [2022-04-07 08:16:40+08:00 推文](https://twitter.com/HeQinglian/status/1511860473515450368)
+
+Re @lianhuazhuang 一派失去道德制高点，另一派面对谎言却深信不疑，失去智商制高点。<br>彼此彼此，为了你到时别来我这里炫耀制高点，我先将你礼送出境。
+
+### 92: [2022-04-07 08:18:16+08:00 推文](https://twitter.com/HeQinglian/status/1511860875937959938)
+
+Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了基本生活常识。
+
+### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
+
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
+
+### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
+
+Re @xchen62 匈牙利的转手净利润限制在5%，意思意思。😂
+
+### 95: [2022-04-07 08:34:12+08:00 推文](https://twitter.com/HeQinglian/status/1511864884228767751)
+
+调查：还能叫曲线吗？ 策略师认为未来一年美债收益率都将是平线<br><br>债券策略师认为，美国国债收益率曲线在经历了几十年来最糟糕的一个季度后，已被打压成了一条平坦的线条，在未来一年里将继续偏离正常的向上倾斜形态。<br>预测：如果卖不动债券，就只有日夜加印钞票，通胀还得上升 <a href="https://cn.reuters.com/article/polltreasury-usa-yield-curve-0405-tues-idCNKCS2LY0BR" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/polltreasury-usa-yield-curve-0405-tues-idCNKCS2LY0BR</a>
+
+### 96: [2022-04-07 08:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1511866344228233224)
+
+Re @Roy97816634 人家现在想要天然气，得找个比俄罗斯更大的敌人。😂
+
+### 97: [2022-04-07 08:45:52+08:00 推文](https://twitter.com/HeQinglian/status/1511867822041100288)
+
+3月新兴市场遭遇一年来首次资本外流 资本从中国撤离呈“前所未有态势”<br><br>国际金融协会认为，中国112亿美元的债券和63亿美元的股票资金外流是一种“前所未有的态势，暗示着市场转变为”远离这个世界第二大经济体的资产”。这是自2020年9月以来，中国股市首次出现资本流出。 <a href="https://cn.reuters.com/article/march-emerging-outflow-iif-0405-tues-idCNKCS2LY01X" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/march-emerging-outflow-iif-0405-tues-idCNKCS2LY01X</a>
+
+### 98: [2022-04-07 08:50:44+08:00 推文](https://twitter.com/HeQinglian/status/1511869048233115649)
+
+Re @Wu_Zhi 国际能源署正在谋划让石油消费大国释放储备油，向美国学习，打压油价。
+
+### 99: [2022-04-07 08:58:03+08:00 推文](https://twitter.com/HeQinglian/status/1511870886877478912)
+
+颇具滑稽感的中美关系变化：<br>中共内心一直视美国为敌人，要对中国实行和平演变。2005年中国“和平崛起”之后，美国对中国的定位在“战略合作伙伴-经济合作伙伴-竞争对手”中徘徊了十多年之后，终于接近“准敌人”，尽管北京支持拜登赢得大选。<br>俄乌战争开始，中国终于明白自己的位置了：第二敌人。
+
+### 100: [2022-04-07 09:03:09+08:00 推文](https://twitter.com/HeQinglian/status/1511872171156688902)
+
+Re @xchen62 我认真想了一下，这是个高招。<br>匈牙利一国背与俄罗斯妥协之骂名，解决欧盟大家庭兄弟们的天然气之困。兄弟国为清白名声付出点手续费，还是比买美国昂贵的天然气省很多很多钱。<br>匈牙利应该有“我不入地狱，谁入地狱”的牺牲精神，以后挂黄布条（二战后法国对与德军私通女子的惩罚）时，兄弟们想着点就行。
+
+### 101: [2022-04-07 09:09:09+08:00 推文](https://twitter.com/HeQinglian/status/1511873679650697223)
+
+Re @CNHKSepher @KELMAND1 @Docjx1 好莱坞大片里，神一样的美国特种兵会从天而降，然后将拯救对象拯救上飞机消失在蓝色天空里。<br>愿好莱坞大片重现人间。
+
+### 102: [2022-04-07 09:13:04+08:00 推文](https://twitter.com/HeQinglian/status/1511874667841265666)
+
+Re @xchen62 不用宣战，拜登与布林肯轮番约谈，泽连斯基再向国际社会呼吁，惩罚匈牙利，匈牙利就老实了。<br>不过，在到达这境地之前，还是让欧盟尝试一下，政治正确站队固然重要，欧盟国的人民也得用天然气Cooking吧？
+
+### 103: [2022-04-07 09:13:57+08:00 推文](https://twitter.com/HeQinglian/status/1511874888050614275)
+
+Re @lianmin202 原来还是低一档，没有对待啊，继续努力。
+
+### 104: [2022-04-07 09:17:43+08:00 推文](https://twitter.com/HeQinglian/status/1511875836433031168)
+
+Re @Docjx1 @CNHKSepher @KELMAND1 哪里敢啊，因为以前发现，最好的CIA与FBI探员都在电视里，仅剩下神一样的美国特种兵，想见识一下。<br>就算在电视里，这些人遇到阿拉，也开始成为信者了。《国土安全》就有这样的情节。
+
+### 105: [2022-04-07 09:22:35+08:00 推文](https://twitter.com/HeQinglian/status/1511877061715050500)
+
+Re @xchen62 我现在想想德国都代欧盟发愁：德国经济如果垮了，欧盟的顶梁柱倒了，穷国弱国怎么办？<br>法国倒是想当头，但财力差了点儿，仅仅依靠意识形态，撑不起。
 
