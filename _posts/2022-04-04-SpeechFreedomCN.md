@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-04
+date: 2022-04-07
 from: https://twitter.com/SpeechFreedomCN/status/1510788743615201281
 layout: post
 tags:
@@ -30,4 +30,12 @@ Man surnamed Zhang from Sichuan Province detained for 8 days for insulting polic
 ### 4: [2022-04-04 17:36:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1510914123814649856)
 
 Sun Jian, postgraduate student at Ludong University who protested against the university’s covid lockdown and mass test by publicly holding a paper that wrote his demands, warned by police expelled by the University.<br><img style="" src="https://pbs.twimg.com/media/FPfXeIcXMAEZ_YD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPfXeJDXMAAHmpk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPfXeJcXoAY9odk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPfXeJcWQAMZWNr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-04-07 10:59:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1511901324652146689)
+
+大连男子渠某，因在推特发表了“涉党、政治体系、侮辱国家领导人等各类不当言论推文”17条，于2020年9月被当地检方以寻衅滋事为罪名提起公诉，后续刑罚不明。<br><img style="" src="https://pbs.twimg.com/media/FPrsTwwXoAI-tw9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-04-07 11:03:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1511902333139136516)
+
+Dalian man Qu, who posted 17 Tweets that "insulted state leaders" or were "politically inappropriate" on Twitter, prosecuted in Sep 2020. He faced Picking Quarrel and Provoking Trouble charge and subsequent development of his case remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FPrtiC0XsAkaNvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

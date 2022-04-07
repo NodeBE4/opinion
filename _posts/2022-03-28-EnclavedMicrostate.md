@@ -355,67 +355,145 @@ Who would you consider your best student, and why is it Xenophon?
 
 I'm surprised you didn't start with asking what a student *is*! One's goodness as a student cannot be established without an understanding of that, so now I must ask you, Socrates: what is a student?
 
-### 296: [Help with Questions about the surname Tang 湯 versus 唐?](https://old.reddit.com/r/ChineseHistory/comments/turaj8/help_with_questions_about_the_surname_tang_湯/), submitted on 2022-04-03 03:39:41+08:00.
+### 296: [Why did the the Qing enlisted Europeans, particularly Charles "Chinese" Gordon, to lead their armies against the Taiping Heavenly Kingdom?](https://old.reddit.com/r/AskHistorians/comments/tu7a4y/why_did_the_the_qing_enlisted_europeans/), submitted on 2022-04-02 09:39:55+08:00.
 
------ __296.1__ -----2022-04-03 12:57:23+08:00:
+----- __296.1__ -----2022-04-07 13:03:03+08:00:
+
+In some respects, it is incorrect to portray this as the Qing 'enlisting' Europeans, as this would imply their seeking out Europeans to fight for them. In practical terms, it was mostly Europeans insisting on employment with the Qing, and the Qing generally not refusing them. Rarely were the Qing taking the initial initiative in creating these forces, but by and large they would then work with these forces after they were established.
+
+Over the course of the later years of the Taiping War, several European-led forces offered their services to the Qing, and we ought to distinguish between a few types of foreign military support: elements of regular military forces engaged against the Taiping, fully-foreign volunteer units, and so-called 'Disciplined Chinese' forces with foreign officers and Chinese troops. The dividing lines between these could, of course, be rather fuzzy: for instance, a foreign volunteer unit might reorganise into a 'Disciplined Chinese' force, and many of these forces were officered by members of the patron powers' regular armed forces without resigning their commissions. But in general, this tripartite division should serve us well enough.
+
+We also ought to be careful of treating the Qing as a monolithic entity. At the very least, we ought to consider three different layers of authority: the local level, where officials held immediate oversight; the provincial level, where governors, viceroys and their staff were responsible for the broader operational conduct of the war; and the imperial level, where the court held control, however nominal, over the overall conduct of foreign relations. A small volunteer contingent might, if it came on the radar at all, operate at the discretion of a middling functionary like a city mayor, whereas 'Disciplined Chinese' forces would generally be directly subordinated to provincial-level authorities; the imperial court rarely intervened meaningfully, but might still be drawn into situations where there may have been a particularly acrimonious dispute over some issue relating to a foreign force. There is a world of difference between the Shanghai mayor turning a blind eye to the European merchants organising small uniformed militias, and the Viceroy of Liangjiang or of Min-Zhe co-opting a brigade of European-led Chinese troops to support their provincial armies.
+
+Some aspects of the foreign intervention in the Taiping War have been well studied, the Ever-Victorious Army especially; others less so. Rather than give a comprehensive overview, I will instead focus on a few of the better-studied cases, and specifically on the side of the 'disciplined Chinese' contingents, as also covering direct foreign intervention would make this post monstrously long.
+
+### The Ever-Victorious Army
+
+The Ever-Victorious Army, or EVA for short, is a particularly interesting case in that it essentially went through three distinct organisational phases, each with a somewhat different relationship to Qing authority.
+
+In June 1860, two Americans, Frederick Townsend Ward and Henry Burgevine, petitioned Shanghai officials and elites, including the banker and city treasurer Yang Fang, to permit and fund the creation of a force called the Shanghai Foreign Arms Corps, initially consisting of around 100 American, British, and other European volunteers equipped with modern rifles, later reorganising into a mostly Filipino force with European officers numbering around 250. While it saw limited success in capturing the town of Songjiang in mid-July, it was essentially disbanded after suffering a serious defeat at Qingpu near the end of the month, and Ward, severely wounded in the engagement, would end up convalescing overseas – his exact whereabouts are unknown – for the better part of a year. In September, the force was dissolved by the Shanghai circuit intendant.
+
+The statement that Ward and Burgevine petitioned for the EVA's establishment does not necessarily communicate the full story as such. While it is true that the proposal came from them, Shanghai's circuit intendant (essentially equivalent to the city mayor) Wu Xu had a particular interest in getting as much military force in the area as possible, as the British and French had, so far, not made any kind of unequivocal declaration that they would defend the Chinese part of Shanghai against a Taiping attack. In the desperate middle months of 1860, when no major Qing armies stood between Nanjing and Shanghai and a Taiping capture of the latter seemed imminent, any help, from whatever origin, was eagerly accepted. Critically, it was eagerly accepted by Wu Xu, but not by his superior the prefect of Suzhou, who refused to forward his petitions to the court. The Foreign-Arms Corps would be established at Wu Xu's discretion, and maintained thanks to Yang Fang's personal networks in the Shanghai banking world, rather than the official sanction of the Qing court.
+
+After Ward returned to Shanghai in March 1861, he attempted to assemble a new force on similar lines as the first, now named the Shanghai Foreign Legion, which suffered yet another defeat at Qingpu. British and American authorities in the International Settlement, concerned that the activities of the adventurers constituted a breach of foreign guarantees of neutrality in the conflict, arrested Ward and disbanded the Legion, and he and Burgevine went into hiding until late in the year. When they re-emerged, they proposed a new organisational structure for the third attempt, wherein they and the other foreign adventurers would instead serve as officers for a force otherwise composed of Chinese troops (save for a company of Filipinos as Ward's personal guard). This force, initially named the 'Foreign Arms Corps' again, achieved its first success at Songjiang in February 1862, and soon after it would be rechristened the 'Ever-Victorious Army' by Ward's Shanghai financiers.
+
+At this stage in the proceedings, the Qing government as a whole was more receptive to foreign help than it had been. Peace had been reached with Britain and France (whereas the two countries were still at war with the Qing back in 1860), and the military defeats leading to that peace deal had been a potent demonstration of the power of modern weapons in trained hands. There were also lucky breaks in that there were significant political changes at the provincial and imperial levels. Li Hongzhang, a protege of the Qing's main field commander Zeng Guofan, was appointed governor of Jiangsu in early 1862, and took over control of the war in the eastern theatre thereafter; Li, like Zeng, appreciated the benefits to be gained from adopting foreign weapons, and had a knack for diplomacy as well. More importantly, the fiercely anti-foreign Xianfeng Emperor had died in August 1861, and the similarly anti-foreign council of regents for his son was overthrown 3 months later by a considerably more pro-foreign group consisting of reformist elements in the imperial house, principally the late emperor's brother, Prince Gong. So both international and domestic politics had shifted to where foreign mercenary assistance was broadly desirable.
+
+But this was helped along in no small part by the reworked structure of the EVA. The Qing were wary of permitting too much in the way of direct foreign intervention for fear of having to grant further concessions in supplementary arrangements, and were also unwilling to allow recaptured cities to be garrisoned by foreign troops, an issue which had previously complicated the working relationship between Ward and the Qing during the Foreign Arms Corps days. The EVA's officers being private citizens volunteering on their own initiative mitigated the former issue because they did not act officially on behalf of a government, while their being Chinese troops dealt with the latter because even an EVA garrison would be majority-Chinese, assuming they would supply a garrison at all as opposed to various second-line contingents like the Green Standards or local militias. It also helped to some extent that Ward and Burgevine had evaded arrest by renouncing their US citizenship and petitioning to be recognised as Qing subjects, which gave Qing authorities somewhat more power over the force than it might have done otherwise.
+
+An added, and not entirely unintended benefit was that Ward had achieved somewhat of a rapprochement with the foreign authorities in Shanghai, thanks to the general opinion of the international community decidedly souring on the Taiping. While the British and French were wary of supporting the Qing directly, they were willing to lend their services in theoretical support of the EVA, and so EVA and foreign regular troops operated in tandem in what was sometimes termed the 'thirty-mile radius' campaigns, so named because officially, British support for Ward would not extend more than 30 miles from Shanghai. Having Ward around thus gave Qing authorities a somewhat roundabout way of gaining additional military support from European regular forces.
+
+----- __296.2__ -----2022-04-07 13:03:11+08:00:
+
+Ward's death in battle in September 1862 led to the EVA being put essentially out of action for the next six months while its senior command was reorganised. While briefly under the command of Henry Burgevine, British authorities successfully petitioned for the force to be placed under the command of a British officer, in the event Charles Gordon of the Royal Engineers, who took up command in March 1863. I discuss the specifics of that period, and Gordon's eventual appointment, in more detail [here](https://www.reddit.com/r/AskHistorians/comments/boc27j/youre_a_military_officer_in_a_foreign_country_in/epxowc9/?context=999). Under Gordon, the Qing's reasons for maintaining the EVA were in many ways much the same. An added benefit, though, was the direct British stake in the EVA through having appointed British officers. Yet the EVA still remained part of the Qing's armed forces, such that its involvement in the war provided little leverage for foreign interests.
+
+Yet the EVA was ultimately also somewhat of a liability. Rather than an elite reserve, under Gordon it was typically employed as a vanguard, and suffered continual attrition that was often made up for by recruiting Taiping POWs of questionable quality and loyalty. This attrition was worsened by the fact that, although Gordon was generally favoured by Qing government officials, he lacked the influence over the Shanghai bankers that Ward had, and was unwilling to press either them or the Qing government for funding to pay his troops. Arguably, more men deserted for lack of pay than were lost in combat. Crucially, Gordon was becoming somewhat of a political liability. Li Hongzhang very much did not approve of Gordon's piecemeal recruitment of Taiping POWs to reinforce his losses, while Gordon abruptly resigned after Li ordered the execution of a group of Taiping officers in Suzhou who had surrendered the city after Gordon had promised amnesty for them. The tensions between various interests relating to the EVA had reached an insoluble point, and although it continued to exist for some months afterward after Gordon was placated, it was dissolved in April 1864.
+
+### The Franco-Chinese Corps
+
+Rather confusingly, the Taiping War saw at least two separate contingents dubbed the *Corps Franco-Chinois*, which coexisted and occasionally saw officers transfer from one to the other. The earlier, smaller force was the Franco-Chinese Corps of Jiangsu, formed in June 1861 by Captain Adrian Tardif de Moidrey of the French Army at the suggestion of Vice-Admiral Auguste Prôtet of the French Navy. You will note that this in fact predated the Ever-Victorious Army 'proper' by some months, although its function was somewhat different: whereas Ward's EVA was a largely infantry force subordinated to Qing authorities, the Franco-Chinese Corps of Jiangsu was instead a small mixed unit under direct French command.
+
+The more notable of these forces was, however, the Franco-Chinese Corps of Zhejiang, formed by Lieutenant Prosper Giquel of the French Navy in Ningbo in June 1862. Giquel's force (which I also discuss in more detail in the linked answer) was of similar organisation to the EVA, and of similar size. Rather than a support unit within the French command structure, the Zhejiang corps would be a self-contained fighting force that was *de facto* part of the Qing armed forces. Dubbed the 'Ever-Triumphant Army' (ETA for short), Giquel's force would face significant challenges from the Qing authorities in the province, in contrast to Ward's relatively rapid entry into the good graces of the authorities in Jiangsu. It wasn't simply that Qing officials were sceptical of the value of European forces (especially Zuo Zongtang, governor of Zhejiang and promoted to Viceroy of Zhejiang and Fujian in March 1863), but also that Giquel was decidedly late to the party, as while he was putting together his own force, a Major Morton of the British Army who had been serving with Ward was tasked with establishing a British-run division of the EVA out of Ningbo. This force, later dubbed the 'Ever-Secure Army', was deemed the senior force by the Qing, and both local and provincial officials would attempt several times to pressure the ETA into merging with the ESA.
+
+That the ETA survived as an independent entity was in many ways a stroke of luck – or indeed, the cumulative effect of several such strokes. Initially, the force's existence was justified on the basis that, as its troops had been instructed to recognise French commands, they could not be effectively integrated into the English-based ESA without effectively needing to be completely retrained. But it was arguably only through victory at the battle of Yuyao in July 1862 – one shared with the ESA – that the ETA started gaining allies in the Qing government that could keep it separate. Zhang Jingju, the circuit intendant of Ningbo, pledged his support for Giquel and the corps' commander, Brethon, after Yuyao, but even then, Giquel found that Qing officials would not provide more than token funding unless he brought his force under the ESA's purview. Matters were not helped by a scuffle in late August between Jules-August Marolles of the French Navy and a Cantonese pirate squadron in the pay of Zhang Jingju which escalated to an armed clash, and led to a portion of the pirates defecting to the Taiping. In September, the EVA was relocated temporarily to northern Zhejiang in response to a sudden Taiping offensive, further throwing the ETA's independence into question.
+
+Perhaps paradoxically, this move would ultimately ensure the ETA's separate existence, because it was in Zhejiang that Ward was fatally shot in a battle with Taiping forces, throwing its organisation into disarray. With the primarily 'disciplined Chinese' force essentially out of action for the foreseeable future, keeping the ETA in the field in Zhejiang was now a major priority, and the loss of Ward and later Burgevine meant that the EVA was no longer headed by a Qing subject, but instead a British officer. While the ETA did prove itself in combat to Zuo Zongtang over the course of late 1862 and 1863, it was also helped by circumstance in that the Qing realised they had much to gain by playing the British and French off against each other. While the Qing might theoretically dangle the prospect of further concessions to entice one side or the other when both were still neutral, now that both were involved, it could instead implicitly threaten to give one side more concessions if the other pulled out. In this way, the Qing could essentially solicit support without actually offering anything in return besides, of course, pay for troops and officers.
+
+### The Anglo-Chinese Fleet
+
+The Lay-Osborn Flotilla is one of those oddities that is nevertheless quite illuminating. In December 1862, Horatio Nelson Lay (no relation to the actual Nelson), the British-born head of the Qing's Imperial Maritime Customs Service, was back in the UK on sick leave, where he received a message from his deputy, Robert Hart. Hart had been contacted by Prince Gong asking if he could secure the purchase of several light steamers suitable for riverine operations. Lay, for his part, set about organising a squadron to be placed under the command of Sherard Osborn, who had captained a Royal Navy ship during the Second Opium War, and hence gave rise to the fleet's more commonly-used name, the 'Lay-Osborn Flotilla'. The fleet would be built with the sanction of the British government, with its funding coming in large part from contributions by British merchants in Shanghai. Aside from five existing ships purchased from the Navy, three more ships, including the force's flagship the *Keangsoo*, would be completed and launched by May 1863.
+
+On arrival in China, however, the fleet ran into immediate difficulties as regarded its relationship to Qing authority. While the Qing had introduced a standardised naval ensign, consisting of triangular flag with a blue dragon on a yellow field, Lay and Osborn instead fielded [their own design](https://www.crwflags.com/fotw/flags/cn~lo.html), a portent of things to come. Lay insisted that he would not take commands from anyone other than the emperor himself, implicitly not even Prince Gong, which in essence implied that he was to have total control over the fleet as the emperor was, at the time, an eight year-old boy. This naturally contrasted heavily with the EVA and ETA, which were formally subordinated to provincial-level authorities even if the British and French governments still exercised a degree of *de facto* influence over aspects of their organisation. Prince Gong, rather sensibly, did not agree to Lay's terms.
+
+However, the regent did offer an alternate approach: instead of maintaining the fleet as-is, he would arrange for the ships themselves to be purchased by the Qing state, and would retain enough of its original British crew as was needed to train and command Chinese crews for the squadron, in effect replicating the EVA model but in a naval capacity. The benefits of such an arrangement for the Qing were obvious: the fleet would be under some degree of direct oversight rather than essentially going rogue; the ships themselves would remain in Qing hands postwar; and it would help build up a body within China of experts in the operation of modern warships. Unfortunately for Prince Gong, Lay would not accept his terms either, and the fleet sat unused in Shanghai, earning from the merchants the nickname of the 'Vampire Fleet', for having sucked up so much of their money for no return whatever.
+
+The later history of the Lay-Osborn Flotilla mostly lies beyond the interests of the Qing government and by extension the scope of this answer, but it is a fascinating story involving Confederate privateers, Anglo-American diplomatic intrigues, and the Meiji Restoration. But all for another time.
+
+----- __296.3__ -----2022-04-07 13:06:53+08:00:
+
+
+
+### Conclusions
+
+What the above case studies should illuminate is that while the Qing were interested in foreign help, they were wary of the strings that might come attached to that help. If it was purely military expertise they were after, then the Qing could have tried to make some deal to just get European regular forces involved. Instead, having small handfuls of European officers in charge of Chinese contingents under direct Qing command, whose weapons were supplied by either private networks or foreign governments, allowed the Qing to maximise the number of elite forces under their control while minimising the leverage that the European powers might hope to gain from it.
+
+But these forces also served a diplomatic function as well, as they demonstrated the viability of Euro-Qing cooperation in the wake of the Second Opium War. Some degree of such cooperation had already been ongoing since the foundation of the Imperial Maritime Customs Service by Lay and Hart in 1854, but it was arguably the 'disciplined Chinese' forces that cemented this approach. Arguably, the scale of the Anglo-French intervention was in large part a result of Frederick Ward emerging as a viable intermediary between the Qing and British governments. Moreover, the presence of British and French officers under Qing command cemented those countries' stake in Qing survival. While many of these forces would be dissolved as the war concluded, many of the officers who were part of them did end up building ties to Qing China that would continue into the post-Taiping period.
+
+### Sources and Further Reading
+
+* Danny Orbach, 'Foreign Military Adventurers in the Taiping Rebellion, 1860–1864', *Journal of Chinese Military History* 10 (2021), pp. 41-72
+
+* Richard J Smith, *Mercenaries and Mandarins: The Ever-Victorious Army in Nineteenth Century China* (1978)
+
+* Stephen Platt, *Autumn in the Heavenly Kingdom: China, the West, and the Epic Story of the Taiping Civil War* (2012)
+
+* Stephen A. Leibo, *Transferring Technology to China: Prosper Giquel and the Self-Strengthening Movement* (1985)
+
+* Stephen A. Leibo, Prosper Giquel, *A Journal of the Chinese Civil War, 1864* (1985)
+
+* Jonathan Chappell, 'The Limits of the Shanghai Bridgehead: Understanding British Intervention in the Taiping Rebellion, 1860–62', *The Journal of Imperial and Commonwealth History*, 44:4 (2016), pp. 533-550
+
+### 297: [Help with Questions about the surname Tang 湯 versus 唐?](https://old.reddit.com/r/ChineseHistory/comments/turaj8/help_with_questions_about_the_surname_tang_湯/), submitted on 2022-04-03 03:39:41+08:00.
+
+----- __297.1__ -----2022-04-03 12:57:23+08:00:
 
 > Chinese dynasties are named after names of states, not after the ruling families. The only exception to that is Chen dynasty (陳朝), otherwise the states were named after the fiefs the founding Emperor was ruling.
 
 Except from the Jurchen Jin onward, where imperial states took symbolic names – Jin 金, Yuan 元, Ming 明, (Shun 順,) and Qing 清.
 
-### 297: [[Hobby Scuffles] Week of April 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/tvb707/hobby_scuffles_week_of_april_4_2022/), submitted on 2022-04-03 23:00:15+08:00.
+### 298: [[Hobby Scuffles] Week of April 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/tvb707/hobby_scuffles_week_of_april_4_2022/), submitted on 2022-04-03 23:00:15+08:00.
 
------ __297.1__ -----2022-04-04 04:15:14+08:00:
+----- __298.1__ -----2022-04-04 04:15:14+08:00:
 
 Well also, in 2014 she would have been, what, 17? Edgy teen phases aren't exactly uncommon.
 
------ __297.2__ -----2022-04-04 04:23:14+08:00:
+----- __298.2__ -----2022-04-04 04:23:14+08:00:
 
 Weirdly, this isn't the first time Demondice's past use of racial slurs has come up, as there was apparently some discussion of whether that might be a bit of a ticking time bomb for her during Mori Calliope's debut. What's interesting is there is, effectively, more than one issue on the line here. Quite apart from the question of whether people will be willing to allow her to move on, there's also the matter of how to deal with the notion that Calli and DDK are separate identities even if they are adopted by the same person, given that it's been DDK coming under fire for something that was kicked off by something featured on the Calli side of things.
 
 But as with many things, there is a question of whether it will all blow over as a bit of a nothingburger in a matter of days or weeks, like the Nene tracing incident.
 
------ __297.3__ -----2022-04-04 04:30:34+08:00:
+----- __298.3__ -----2022-04-04 04:30:34+08:00:
 
 On that latter aspect, I agree it's interesting though not necessarily on the majority white Anglospheric audience side, at least not entirely. From the numbers that have gone around lately, her Japanese audience seems decently substantial as well, given her album charted at #4 on Billboard Japan's top downloaded albums in its first week. While a numerical minority it's definitely not just a niche of her audience, and it seems like concern about the 'watering down' on the Japanese side of things comes about kind of externally, from people with an investment in 'authentic' or 'accurate' representations of Japan and its culture internationally, which is a bit of a separate matter from reception of that work within Japan. What might seem like 'watering down' to a particularly conscious outside viewer may, within Japan, be received as entirely innocuous.
 
------ __297.4__ -----2022-04-04 14:08:58+08:00:
+----- __298.4__ -----2022-04-04 14:08:58+08:00:
 
 I wonder if it'll go the other way – if they sort of recognise that the whole separation of identities thing is a bit of a relic of the days of Activ8, and that enough of the small players don't bother with it that the big dogs like Holo and Niji can drop the act too.
 
------ __297.5__ -----2022-04-04 21:06:56+08:00:
+----- __298.5__ -----2022-04-04 21:06:56+08:00:
 
 Sure, you *actually* can't, but you can *think* you can't. What's changed isn't that the word has become damaging, it's that those who hadn't previously *recognised* it as damaging now have.
 
------ __297.6__ -----2022-04-04 22:21:37+08:00:
+----- __298.6__ -----2022-04-04 22:21:37+08:00:
 
 Thanks for the shoutout! (I guess? Not sure how to feel about drawing attention to Tartaria being my enduring legacy!)
 
------ __297.7__ -----2022-04-04 22:22:24+08:00:
+----- __298.7__ -----2022-04-04 22:22:24+08:00:
 
 I think the thing is, Tartaria was already so tied into the whole CulturalLayer architecture nonsense that arguably the 'ancient empire' side was a temporary fixation within an otherwise architecture-dominated conspiracy.
 
------ __297.8__ -----2022-04-04 22:24:02+08:00:
+----- __298.8__ -----2022-04-04 22:24:02+08:00:
 
 If you have a look at the r/badhistory post you'll see – they'll pull stuff out like Russian medals commemorating the 100th anniversary of Napoleon's defeat as being proof of a Russo-French alliance because they have Napoleon's head on them; art showing Napoleon being buddy-buddy with Tsar Alexander in the post-Tilsit 'honeymoon period'; the existence of 'Russian militia' who, because they're dressed differently from French and Russian regulars (hint: the only difference is they wear greatcoats), must actually be the Tartarian army, etc.
 
------ __297.9__ -----2022-04-04 22:24:54+08:00:
+----- __298.9__ -----2022-04-04 22:24:54+08:00:
 
 Yep. As noted, the 'Tartarian Empire' did exist. It was the Mongol Empire. And then that collapsed. No need to make as big a deal out of it as the Tartaria-stans do.
 
------ __297.10__ -----2022-04-04 22:26:00+08:00:
+----- __298.10__ -----2022-04-04 22:26:00+08:00:
 
 If it involves secret coverups, someone has to be doing the covering.
 
------ __297.11__ -----2022-04-04 22:27:17+08:00:
+----- __298.11__ -----2022-04-04 22:27:17+08:00:
 
 Yeah, Calli/DDK is infamously bad at damage control; her general 'fuck the haters and keep on trucking' approach is something that in a sense works for her in the moment but doesn't do much to actually deflate the drama. That said, I do feel like there's a bit of a case of her not being omniscient here. She might only be seeing – or only really taking notice of – the criticism of her old work, not of the racial slurs side of things, and arguably it is the latter where you do need to make a clear statement whereas the former can arguably be addressed with 'you are coming at this having just discovered my work and are deliberately going after old work which I've already disavowed'. Though that might be the more generous take.
 
------ __297.12__ -----2022-04-05 14:29:15+08:00:
+----- __298.12__ -----2022-04-05 14:29:15+08:00:
 
 Not everyone can afford the luxury of presuming all or even most criticism is in good faith.
 
------ __297.13__ -----2022-04-06 02:52:54+08:00:
+----- __298.13__ -----2022-04-06 02:52:54+08:00:
 
 So, this is something I vaguely recall because I did watch the core exchange of videos as someone who was a viewer of both Oates and EoT at the time:
 
