@@ -3,7 +3,7 @@ author: theoryofdoom
 categories:
 - Reddit
 date: 2022-04-08
-from: https://old.reddit.com/r/crime/comments/twuqpj/republicancontrolled_states_have_higher_murder/
+from: https://old.reddit.com/r/geopolitics/comments/tvs6ur/piercing_the_fog_of_war_an_ongoing_effort/
 layout: post
 tags:
 - Reddit
@@ -13,9 +13,15 @@ title: theoryofdoom在2022-04-04~2022-04-10的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 209: [Republican-controlled states have higher murder rates than Democratic ones: study](https://old.reddit.com/r/crime/comments/twuqpj/republicancontrolled_states_have_higher_murder/), submitted on 2022-04-05 21:17:22+08:00.
+### 209: [Piercing the Fog of War - An ongoing effort.](https://old.reddit.com/r/geopolitics/comments/tvs6ur/piercing_the_fog_of_war_an_ongoing_effort/), submitted on 2022-04-04 11:34:40+08:00.
 
------ __209.1__ -----2022-04-06 19:29:31+08:00:
+----- __209.1__ -----2022-04-08 18:51:04+08:00:
+
+If you want this to be approved, reformat it so that the numbers show up properly and edit it down.  Further, properly incorporate your links according to the format Reddit requires for hyperlinks.  Right now, this looks messy and is difficult to follow.  Otherwise, it will not be approved.
+
+### 210: [Republican-controlled states have higher murder rates than Democratic ones: study](https://old.reddit.com/r/crime/comments/twuqpj/republicancontrolled_states_have_higher_murder/), submitted on 2022-04-05 21:17:22+08:00.
+
+----- __210.1__ -----2022-04-06 19:29:31+08:00:
 
 This is an article about a "study" from a partisan group called Third Way, which was linked several paragraphs in.  According to the article:
 
@@ -33,9 +39,9 @@ The above deficits are merely an illustrative sampling of why this Yahoo article
 
 Accordingly, this article is removed.  We encourage submissions from reliable think tanks and sources, but Third Way is no such thing when they publish this kind of low-effort garbage.
 
-### 210: [Chicago's, schools' COVID-19 numbers climb but ‘nothing alarming'](https://old.reddit.com/r/CoronavirusIllinois/comments/txkfai/chicagos_schools_covid19_numbers_climb_but/), submitted on 2022-04-06 19:54:35+08:00.
+### 211: [Chicago's, schools' COVID-19 numbers climb but ‘nothing alarming'](https://old.reddit.com/r/CoronavirusIllinois/comments/txkfai/chicagos_schools_covid19_numbers_climb_but/), submitted on 2022-04-06 19:54:35+08:00.
 
------ __210.1__ -----2022-04-06 20:00:08+08:00:
+----- __211.1__ -----2022-04-06 20:00:08+08:00:
 
 According to Chicago's so-called public health commissioner, Allison Arwady: 
 
@@ -45,17 +51,17 @@ This statement's baseline stupidity should be readily obvious.  Anyone even casu
 
 Even setting aside the fact that, of course, Arwady's predictions are --- as always --- based on nothing, these repeat occurrences continue to undermine Arwady's credibility and effectiveness.  This innumerate individual would do well to refrain from further public appearances.  But interestingly, Arwady's approach has clearly shifted, in any case, to one that is tailored by the obvious political gravity associated with COVID policies and in view of the upcoming elections this fall.
 
------ __210.2__ -----2022-04-07 07:02:29+08:00:
+----- __211.2__ -----2022-04-07 07:02:29+08:00:
 
 I suggest that Awrady be relieved of her responsibilities.
 
-### 211: [Unofficial Daily Update for 2022-04-07. 1496 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tyiwbr/unofficial_daily_update_for_20220407_1496_new/), submitted on 2022-04-08 02:05:20+08:00.
+### 212: [Unofficial Daily Update for 2022-04-07. 1496 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tyiwbr/unofficial_daily_update_for_20220407_1496_new/), submitted on 2022-04-08 02:05:20+08:00.
 
------ __211.1__ -----2022-04-08 18:04:18+08:00:
+----- __212.1__ -----2022-04-08 18:04:18+08:00:
 
 What is confusing about this to you?
 
------ __211.2__ -----2022-04-08 18:05:19+08:00:
+----- __212.2__ -----2022-04-08 18:05:19+08:00:
 
 I see almost no utility in these daily updates.
 
