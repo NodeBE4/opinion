@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -634,4 +634,76 @@ Re @bravesnowcrab 以前我完全同意，现在不太同意。欧美这种引�
 ### 155: [2022-04-08 07:36:25+08:00 推文](https://twitter.com/HeQinglian/status/1512212731470000130)
 
 Re @FlyInRainS3 @bravesnowcrab 只有中国国内的知识界，才以为美国还是2010年以前的美国。他们到现在都不知道奥巴马干了些什么。<br>美国这只名牌酒瓶，现在装的全是变质酸酒。
+
+### 156: [2022-04-08 07:50:07+08:00 推文](https://twitter.com/HeQinglian/status/1512216181314408461)
+
+Re @zhangtianliang 政府公布的仍然在3万亿以上。<br>真实数据不知道。<br>但是，Bricks的支付系统改变，对中国还是很有利的。<br>有些事情，按愿望去想，总是会落空的。
+
+### 157: [2022-04-08 07:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1512216720496332801)
+
+Re @zhangtianliang 好象俄罗斯过了这关了。中国也能过这关。你还是应该找一个真懂互联网的内行问问。
+
+### 158: [2022-04-08 07:54:25+08:00 推文](https://twitter.com/HeQinglian/status/1512217262274588672)
+
+Re @dangxiaofeng @DongFang_USA 原来，我必须每分钟都在做学问，还要听从你的指导。😂
+
+### 159: [2022-04-08 07:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1512217590038507535)
+
+Re @zhangtianliang 贵功这次很多人翻车，在于有些事情太想当然。虽然过去也有过这种事情，但这次还是有点大发。
+
+### 160: [2022-04-08 07:57:35+08:00 推文](https://twitter.com/HeQinglian/status/1512218060186435588)
+
+Re @dangxiaofeng @DongFang_USA 我很开心，看到这个小片段。我也不会去写文章，真要写文章，还得去考证。
+
+### 161: [2022-04-08 08:01:24+08:00 推文](https://twitter.com/HeQinglian/status/1512219018119327762)
+
+Re @tuiqiangke @Wu_Zhi 尽管你这雄性动物不礼貌，我还得告诉你事实：那次落选，美国视为奇耻大辱。当时的美国驻UN代表是博尔顿，从此不肯参加人权委员会的活动，直到改组才回来。<br>接下来我要做的事情是，将你这只雄性动物赶出去，去与你的同类好好亲热去。
+
+### 162: [2022-04-08 08:07:37+08:00 推文](https://twitter.com/HeQinglian/status/1512220583798484995)
+
+Re @Caravan673c 也不是打口水仗。<br>俄乌战争，如果不是美国坚持，按欧盟的真实意愿，早就放弃支持泽连斯基了。乌能撑到今天，全赖美国支持。<br>美国国防部现在都天天发布消息了，因为知道乌国防部的信誉不如它好。
+
+### 163: [2022-04-08 08:12:52+08:00 推文](https://twitter.com/HeQinglian/status/1512221904559648786)
+
+Re @zhangtianliang 为什么不能好好做个客观的媒体人？一定要站队，而且是声嘶力竭地站？看着都累。😂
+
+### 164: [2022-04-08 08:15:14+08:00 推文](https://twitter.com/HeQinglian/status/1512222499970461707)
+
+Re @Wu_Zhi 别忘了就在奥巴马时期，美国还视中国为战略合作伙伴，每年都开中美战略对话峰会。川普时期才停开。<br>世事变得快。<br>我现在就是笑看云起云落。
+
+### 165: [2022-04-08 08:16:56+08:00 推文](https://twitter.com/HeQinglian/status/1512222928594685952)
+
+Re @JiangShangrong @siweiluoluo 怎么回复到“雪夜关门读禁书”的感觉？
+
+### 166: [2022-04-08 08:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1512224971023687680)
+
+Re @o2pIHqzvuxGd9Uu @zhangtianliang 程晓农站队么？他每天批评普京，我告诉他，美国早就是旧瓶装新酸酒了，看来，他的态度让你不满意啊。😂
+
+### 167: [2022-04-08 08:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1512225912921731079)
+
+旧闻回顾：<br>早在2019年，金砖国家就对外宣布，或打造一套统一的支付系统，而统一支付系统将名为：BRICS Pay。这是一套计划在Bricks统一零售支付和汇款平台的框架下，对各国支付系统进行初步整合的支付系统。<br>那一年是中美贸易战的第二个年头。没想到今年这场战争成了助产士。
+
+### 168: [2022-04-08 08:32:13+08:00 推文](https://twitter.com/HeQinglian/status/1512226774607966226)
+
+Re @bigtycoon1 你这只欠爹娘管教的家伙，连滚带爬从我的园子里滚麻利点。<br>你能在联合国投票么？美国给了你代表权么？
+
+### 169: [2022-04-08 08:35:44+08:00 推文](https://twitter.com/HeQinglian/status/1512227658024767503)
+
+Re @mfzhang88 法国国际广播电台，简称RFI。
+
+### 170: [2022-04-08 08:39:33+08:00 推文](https://twitter.com/HeQinglian/status/1512228618168115201)
+
+Re @Wu_Zhi 欧盟虽然没下场正式参战，其实也挺惨的，而且败象毕显，难以挽回。但美国肯定赢了，军火工业会焕发青春，民主党可能也能借此掩盖国内执政的荒腔走板。<br>俄乌双方就不说了，顿巴斯还有一场硬仗没打呢，双方都指着一仗将对方打残。战后再双方盘点各自的帐本吧。
+
+### 171: [2022-04-08 08:42:44+08:00 推文](https://twitter.com/HeQinglian/status/1512229420211351575)
+
+Re @manee27027325 @JiangShangrong @siweiluoluo 我今天要转一条消息，居然Google搜不出，另外想法子才转给朋友看的。<br>西方的消息，基本不受禁制。<br>壮飞同学对于事态之复杂还是知道一点的。
+
+### 172: [2022-04-08 08:54:06+08:00 推文](https://twitter.com/HeQinglian/status/1512232280462434305)
+
+Re @franktianxie @dajiyuan 有一点确实分析到位：俄罗斯是资源大国，欧盟对俄的资源是刚需，尤其是天然气，短期内替代为零。<br>中国与欧盟一样，两头在外：资源依赖进口，产品依靠出口。资源依赖与市场依赖强的国家，硬不起来。<br>西方还有几个这样的国家，美加澳，资源丰富，关起门来自个玩，也能内循环一阵子。
+
+### 173: [2022-04-08 09:07:53+08:00 推文](https://twitter.com/HeQinglian/status/1512235749562896389)
+
+Re @liyuvv @Wu_Zhi 那倒也没有，本来拉美与欧亚这些国家就不跟它，主要是欧盟，至少还是欧盟的带头大哥。
 
