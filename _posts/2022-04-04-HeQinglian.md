@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -706,4 +706,12 @@ Re @franktianxie @dajiyuan 有一点确实分析到位：俄罗斯是资源大�
 ### 173: [2022-04-08 09:07:53+08:00 推文](https://twitter.com/HeQinglian/status/1512235749562896389)
 
 Re @liyuvv @Wu_Zhi 那倒也没有，本来拉美与欧亚这些国家就不跟它，主要是欧盟，至少还是欧盟的带头大哥。
+
+### 174: [2022-04-08 10:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1512260286199255050)
+
+听美国副财长讲 美国计划怎么饿死俄罗斯的“战争机器”<br><br>笑评：美国家大业大，经得起耗。但欧盟是否经得起，则需要欧盟各国政府判断了。看德国这样，可能比俄罗斯更经不起。 <a href="https://cn.reuters.com/article/us-russia-sanctions-war-funding-0408-idCNKCS2M005T" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/us-russia-sanctions-war-funding-0408-idCNKCS2M005T</a>
+
+### 175: [2022-04-08 10:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1512260584317800468)
+
+Re @sarahbinhe @standwithukr3rd 这是一个网络无赖，我拉黑30多次了，似乎 是领薪干这事的专业混混。<br>我看见必拉黑。
 
