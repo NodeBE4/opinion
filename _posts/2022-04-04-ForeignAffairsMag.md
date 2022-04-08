@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-08
+date: 2022-04-09
 from: https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/
 layout: post
 tags:
@@ -143,4 +143,14 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 "Rising interest rates will not just affect the United States. Higher U.S. rates raise the cost of borrowing in U.S. dollars on international markets. They also increase demand for U.S. dollar assets relative to assets in other currencies, and they can therefore cause those currencies to fall in value. For countries where external debt is denominated in U.S. dollars, debt repayment will become more expensive.
 
 These consequences are likely to be most severe in some low- and middle-income countries. Relative to wealthier states, these countries generally have worse credit, and it costs them more to borrow. They are also more likely to borrow in U.S. dollars. It will be especially bad for developing and emerging markets that are still grappling with the pandemic’s economic fallout, as well as those that are net importers of food and energy, the prices of which have risen dramatically as a consequence of the war in Ukraine. These countries will likely see more debt distress and large currency devaluations, hampering their economic growth and making it more difficult for them to reduce poverty."
+
+### 198: [Putin's Philosopher: Ivan Ilyin and the Ideology of Moscow’s Rule](https://old.reddit.com/r/UkrainianConflict/comments/tz866c/putins_philosopher_ivan_ilyin_and_the_ideology_of/), submitted on 2022-04-09 01:02:56+08:00.
+
+----- __198.1__ -----2022-04-09 01:04:08+08:00:
+
+In this 2015 essay, Anton Barbashin and Hannah Thoburn discuss how the work of the Russian nationalist, fascist-leaning philosopher Ivan Ilyin animates the ideology and propaganda of Putin’s regime. Revisit the article with this Guest pass: [https://www.foreignaffairs.com/guest-pass/redeem/VHI2pgJa0ME](https://www.foreignaffairs.com/guest-pass/redeem/VHI2pgJa0ME) 
+
+&#x200B;
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
