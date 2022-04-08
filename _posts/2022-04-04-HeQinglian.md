@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
+Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -714,4 +714,44 @@ Re @liyuvv @Wu_Zhi 那倒也没有，本来拉美与欧亚这些国家就不跟�
 ### 175: [2022-04-08 10:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1512260584317800468)
 
 Re @sarahbinhe @standwithukr3rd 这是一个网络无赖，我拉黑30多次了，似乎 是领薪干这事的专业混混。<br>我看见必拉黑。
+
+### 176: [2022-04-08 20:24:26+08:00 推文](https://twitter.com/HeQinglian/status/1512406008328503299)
+
+NBC文章发表后，以下情节为官员证实为假：<br>官员们说，拜登政府一直在迅速推出有关俄在乌计划的“情报”：故意散布虚假或证据不足的说法，包括即将发生的化学武器袭击、俄罗斯计划在顿巴斯策划假旗袭击以证明入侵的正当性、普京的顾问误导他以及俄罗斯向中国寻求武器供应。<br><br>He Qinglian: 对于想了解美国在信息战中如何取得主动，如何利用信息战起震慑作用，为什么要发布一些虚假信息，美国情报官员有解释。细节我就不译了。<br>本人认为，NBCnews这篇文章值得收藏，价值与太空军司令部及相关网络战将军们的证词同样重要。<br> <a href="https://www.nbcnews.com/politics/national-security/us-using-declassified-intel-fight-info-war-russia-even-intel-isnt-rock-rcna23014" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/national-security/us-using-declassified-intel-fight-info-war-russia-even-intel-isnt-rock-rcna23014</a>
+
+### 177: [2022-04-08 20:26:19+08:00 推文](https://twitter.com/HeQinglian/status/1512406483031494656)
+
+Re @MaickyYoo @JZhang0101 天然气，现在谁比谁更着急？
+
+### 178: [2022-04-08 20:29:42+08:00 推文](https://twitter.com/HeQinglian/status/1512407335926480901)
+
+Re 建议拜登政府学习《伊索寓言》。“狼来了”玩得太多是什么结果。<br>以上是信息战中一大票华左华拜华乌们每天在这里挥洒热情的借口，如果这些人还正常，应该去问主子：Why？下次还该不该信你们？
+
+### 179: [2022-04-08 20:31:58+08:00 推文](https://twitter.com/HeQinglian/status/1512407907073236997)
+
+Re @motorheroSyd 好好去译读NBC文章，不要再浪费热情。至少在我这里不要。<br>或者就专门跟几个推主，他们每天不管消息真假，让你高兴就行。
+
+### 180: [2022-04-08 20:36:19+08:00 推文](https://twitter.com/HeQinglian/status/1512408998116732929)
+
+Re @Sue47512130 有三只蟑螂，一是@standwithukr3rd，每次调整后面几个字，前一向都到33了；另外两个冒充日本人用“小林光一”，还有这只什么大竹，踩死又来，不知挺拜华左机构发多少钱给他们？
+
+### 181: [2022-04-08 20:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1512412288040456208)
+
+Re @CherryW980330 信息战中，99%关键信息为假。<br>我研究媒体多年，结论是：夹杂着部分真实的谎言更具欺骗性。<br>你愿意将一碗混有99%粪便的“饭”吃下去并甘之如饴，请便，继续享受。<br>尊重事实是良知正义的基础，根本不是可以商榷的“观点”。糊涂至此，再说无益。
+
+### 182: [2022-04-08 21:12:39+08:00 推文](https://twitter.com/HeQinglian/status/1512418145591611401)
+
+法国总统马克龙遗憾自己太晚开始竞选活动 对勒庞的领先优势缩小<br><br>点评：马克龙批评勒庞会将国际投资者吓走。其实勒庞所说的再工业化，就是振兴制造业。除了法国这个词汇代表的意义不同，否则马克龙的批评就是文不对题。<br>法国人想慢慢自杀，选马；想搏一把，选勒庞。 <a href="https://cn.reuters.com/article/france-macron-election-campaign-0408-idCNKCS2M00QA" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/france-macron-election-campaign-0408-idCNKCS2M00QA</a>
+
+### 183: [2022-04-08 21:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1512419193118937094)
+
+Re @JkYJ2l7mDTaxqhJ @Caravan673c 高兴早了，请去看我发的NBC文章。<br>不过，不管多少事实在你面前，你必定会认为美国宪政这只名牌瓶里装的进步酸酒就是好。<br>留你至今，只为观测一个人的成见在事实面前如何坚挺。😂
+
+### 184: [2022-04-08 21:20:10+08:00 推文](https://twitter.com/HeQinglian/status/1512420035926573061)
+
+Re @JiangShangrong 我现在对美乌共享信息战的所有产品都抱持怀疑态度。<br>目前，一个多月以来的所有大新闻，都已经被陆续自证为假。见NBC。<br>我相信还会有后续。
+
+### 185: [2022-04-08 21:31:03+08:00 推文](https://twitter.com/HeQinglian/status/1512422773536309255)
+
+用人民币支付的俄罗斯煤炭石油 即将流入中国 <br>这条“新闻”实在不算新闻。<br>俄中之间，早在五年前就签署货币互换协议，双方各用本币结算所购商品，并在本国央行储备一定数量的对方货币。<br>真正应该成为“新闻眼”的是数量，比如与去年同期相比增加多少。 <a href="https://rfi.my/8JrS.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8JrS.T</a>
 
