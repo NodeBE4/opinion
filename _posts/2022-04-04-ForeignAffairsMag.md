@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-07
+date: 2022-04-08
 from: https://old.reddit.com/r/geopolitics/comments/tw3wt7/the_fantasy_of_the_free_world_are_democracies/
 layout: post
 tags:
@@ -121,4 +121,26 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 ----- __195.1__ -----2022-04-08 00:03:49+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 196: [Stephen Kotkin: The Cold War Never Ended](https://old.reddit.com/r/geopolitics/comments/tz4obi/stephen_kotkin_the_cold_war_never_ended/), submitted on 2022-04-08 22:22:51+08:00.
+
+----- __196.1__ -----2022-04-08 22:26:14+08:00:
+
+\[SS from the article by Stephen Kotkin, Professor in History and International Affairs at Princeton University and a Senior Fellow at the Hoover Institution at Stanford University\]
+
+"Many Russians view their country as a providential power, with a distinct civilization and a special mission in the world, but Russia’s capabilities do not match its aspirations, and so its rulers resort, time and again, to a hyperconcentration of power in the state in a coercive effort to close the yawning gap with the West. But the drive for a strong state does not work, invariably devolving into personalist rule. The combination of weakness and grandeur, in turn, drives the autocrat to exacerbate the very problem that facilitated his appearance. After 1991, when the gap with the West widened radically, Russia’s perpetual geopolitics endured, as I argued in these pages in 2016. It will persist until Russian rulers make the strategic choice to abandon the impossible quest to become a great-power equal of the West and choose instead to live alongside it and focus on Russia’s internal development.  
+All of this explains why the original Cold War’s end was a mirage. The events of 1989–91 were consequential, just not as consequential as most observers—myself included—took them to be. During those years, Germany reunified within the transatlantic alliance, and Russian power suffered a sharp temporary reduction—outcomes that, with Moscow’s subsequent withdrawal of troops, freed up small eastern European countries to adopt democratic constitutional orders and market economies and join the West in the EU and NATO. Those events transformed the lives of the people in the countries between Germany and Russia and in those two historical frenemies themselves, but they changed the world far less. A reunified Germany largely remained a nonfactor geopolitically, at least until the weeks after the invasion of Ukraine, when Berlin adopted a far more assertive posture, at least for the moment. Parts of eastern Europe, such as Hungary and Poland, which happened to be among the biggest losers in the world wars and their peace settlements, started to show illiberal streaks and in this way confirmed limitations in the EU’s framework. Although the radical diminution in the size of the Russian state has mostly held (so far), the collapse of Russian power was hardly permanent, just as it was not after the Treaty of Versailles of 1919. The West’s relatively brief respite from great-power competition with Russia constituted a historical blink of an eye."  
+
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 197: [Will Fighting Inflation in America Cause a Debt Crisis Abroad?: How the Fed Shapes the Global Economy](https://old.reddit.com/r/TrueReddit/comments/tz4t3f/will_fighting_inflation_in_america_cause_a_debt/), submitted on 2022-04-08 22:29:05+08:00.
+
+----- __197.1__ -----2022-04-08 22:30:10+08:00:
+
+\[SS from the article by Gian Maria Milesi-Ferretti, Senior Fellow at the Hutchins Center on Fiscal and Monetary Policy at the Brookings Institution.\]
+
+"Rising interest rates will not just affect the United States. Higher U.S. rates raise the cost of borrowing in U.S. dollars on international markets. They also increase demand for U.S. dollar assets relative to assets in other currencies, and they can therefore cause those currencies to fall in value. For countries where external debt is denominated in U.S. dollars, debt repayment will become more expensive.
+
+These consequences are likely to be most severe in some low- and middle-income countries. Relative to wealthier states, these countries generally have worse credit, and it costs them more to borrow. They are also more likely to borrow in U.S. dollars. It will be especially bad for developing and emerging markets that are still grappling with the pandemic’s economic fallout, as well as those that are net importers of food and energy, the prices of which have risen dramatically as a consequence of the war in Ukraine. These countries will likely see more debt distress and large currency devaluations, hampering their economic growth and making it more difficult for them to reduce poverty."
 
