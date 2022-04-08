@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -830,4 +830,16 @@ RT zhix<br>Re @FirstSquawk if not united, i will sanction on you. <br>USA and 
 ### 204: [2022-04-09 00:53:28+08:00 推文](https://twitter.com/HeQinglian/status/1512473713668767746)
 
 Re @SeZQbDeTDvqO7ME 天底下有你这种简单的可怕思维。<br>我只负责解释被发现为假的新闻，你这种人就配做左粉。
+
+### 205: [2022-04-09 02:59:05+08:00 推文](https://twitter.com/HeQinglian/status/1512505327031406601)
+
+Re @SeZQbDeTDvqO7ME 我一点也不着急，只为我的时间着急。<br>我从未否定过俄罗斯侵乌这一事实，因此你树的是假旗，左派惯性。<br>从逻辑上来说，美国政府在NBC文章所述的A、B、C事上造假，其逻辑推论应该是他可能在D、F上也造假。<br>你所说的俄军强大，应该攻克基辅，这事是美国官方预测过的么？如果它预测过了，你的推论就成立。
+
+### 206: [2022-04-09 03:03:40+08:00 推文](https://twitter.com/HeQinglian/status/1512506478049042440)
+
+Re @SeZQbDeTDvqO7ME 我问你一句：俄侵乌这一事实如此简单可辨，美国还需要造假么？放这么多假信息出来的同时，并且控制其他信息，你就不问一声，Why？<br>民主党喜欢阉割人，别因为这点，你就自我阉割。<br>别着急，先将我的问题好好想想再回答，别说“为了正义，什么谣都可以造”。<br>世界上有许多不想自我阉割的人，除你之外。
+
+### 207: [2022-04-09 03:14:52+08:00 推文](https://twitter.com/HeQinglian/status/1512509300605865995)
+
+Re @Wu_Zhi @jeki50806373 这事如果结合拜登家族丑闻被自家媒体CNN、华邮、NBC大揭、传说贺希将接替，以及拜登最近大唱变性曲调讨好极左来看，并不那么简单。<br>众议院信息战负责人说本次信息战从战略来看失败，然后又由多位官员放风给NBC自曝，应该与促拜让位有关。<br>否则这时承认信息造假让他们的跟屁虫脸上无光，似乎不好解释。
 
