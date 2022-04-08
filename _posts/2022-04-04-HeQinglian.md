@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-08
+date: 2022-04-09
 from: https://twitter.com/HeQinglian/status/1510716788467765253
 layout: post
 tags:
@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -754,4 +754,80 @@ Re @JiangShangrong 我现在对美乌共享信息战的所有产品都抱持怀�
 ### 185: [2022-04-08 21:31:03+08:00 推文](https://twitter.com/HeQinglian/status/1512422773536309255)
 
 用人民币支付的俄罗斯煤炭石油 即将流入中国 <br>这条“新闻”实在不算新闻。<br>俄中之间，早在五年前就签署货币互换协议，双方各用本币结算所购商品，并在本国央行储备一定数量的对方货币。<br>真正应该成为“新闻眼”的是数量，比如与去年同期相比增加多少。 <a href="https://rfi.my/8JrS.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8JrS.T</a>
+
+### 186: [2022-04-08 21:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1512429338167234561)
+
+俄乌战争的四大看点：<br>1、美乌信息战的横扫千军在前，自证为假在后；<br>2、为假信息挥洒热情“正义”的动物庄园居民如过江之鲫；欧盟各国政府不断因假信息发表的义正辞严声明——挺有喜感。<br>3、法德多年来要脱离美国成为美中欧三极当中一极的努力白费，今年自残后这话题封箱珍藏。<br>4、……（暂时不说）。
+
+### 187: [2022-04-08 22:03:41+08:00 推文](https://twitter.com/HeQinglian/status/1512430987472519176)
+
+Re @enoughtalk4 我怎么没你那么乐观？
+
+### 188: [2022-04-08 22:04:59+08:00 推文](https://twitter.com/HeQinglian/status/1512431314787618816)
+
+Re @remembe01171318 请去翻我的推文，今天就有，而且是多条。<br>然后再回去翻找。
+
+### 189: [2022-04-08 22:07:46+08:00 推文](https://twitter.com/HeQinglian/status/1512432015366369285)
+
+Re @jeki50806373 仇俄可以理解。但天天指责中共撒谎的那群人热爱西方信息战的假消息，实在让人怀疑他们只是不喜欢敌对阵营散布的假消息，自己却乐于成为假消息的制造者与传播者。
+
+### 190: [2022-04-08 22:12:01+08:00 推文](https://twitter.com/HeQinglian/status/1512433084335013902)
+
+农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。<br><br>RFI 華語 - 法國國際廣播電台: 世界糧農組織指全球食品價格創歷史新高<br><br><img style="" src="https://pbs.twimg.com/media/FP066qPVEAIwYtI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8JuC.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8JuC.t</a>
+
+### 191: [2022-04-08 22:16:37+08:00 推文](https://twitter.com/HeQinglian/status/1512434241950343171)
+
+Re @JohnChe68058637 你难道没看NBC的消息？我贴了两次。就是自证。这“横扫千军”不是指地面战争，是指信息战，尤其是指在道义上将俄罗斯附带中国打趴的那些“消息”，比如俄罗斯要用化武，中国正在为俄提供武器之类的。
+
+### 192: [2022-04-08 22:18:18+08:00 推文](https://twitter.com/HeQinglian/status/1512434666845921281)
+
+Re @Wu_Zhi 乌国战云密布，白宫变性正忙。
+
+### 193: [2022-04-08 22:21:48+08:00 推文](https://twitter.com/HeQinglian/status/1512435545296748558)
+
+Re NBC文章显示，以下重要信息为美国官员证实为假：<br>官员们说，拜登政府一直在迅速推出有关俄在乌计划的“情报”：故意散布虚假或证据不足的说法，包括即将发生的化学武器袭击、俄罗斯计划在顿巴斯策划假旗袭击以证明入侵的正当性、普京的顾问误导他以及俄罗斯向中国寻求武器供应。 <a href="https://www.nbcnews.com/politics/national-security/us-using-declassified-intel-fight-info-war-russia-even-intel-isnt-rock-rcna23014" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/national-security/us-using-declassified-intel-fight-info-war-russia-even-intel-isnt-rock-rcna23014</a>
+
+### 194: [2022-04-08 22:24:55+08:00 推文](https://twitter.com/HeQinglian/status/1512436330902564872)
+
+Re @obama_sob @mingshi_chen 14年以后的美国都不知是啥样，是不是变性人比例提高到十分之一人口尚未可知，操心俄罗斯140年以后的事情，太长远了。
+
+### 195: [2022-04-08 22:27:41+08:00 推文](https://twitter.com/HeQinglian/status/1512437028536963072)
+
+Re @xiaodan1981 她当然不会支持，但她会尽力阻止法国自杀。
+
+### 196: [2022-04-08 22:30:30+08:00 推文](https://twitter.com/HeQinglian/status/1512437735268749319)
+
+Re @jeki50806373 我只做一件事情：鉴别信息战内容真假，而且用他们阵营操盘手的自述。<br>有人喜欢吃带99%砂子粪便的“饭”，由他们去，尊重他们自由选择，但他们没有资格强迫别人与他们一样逐臭。
+
+### 197: [2022-04-08 22:31:10+08:00 推文](https://twitter.com/HeQinglian/status/1512437903166783493)
+
+Re @Wu_Zhi 我就奇怪一点，华拜粉为何不响应变性号召？
+
+### 198: [2022-04-08 22:35:25+08:00 推文](https://twitter.com/HeQinglian/status/1512438971372130304)
+
+Re @obama_sob @mingshi_chen 这话说的，居然与前是条恍如两人。😂
+
+### 199: [2022-04-08 22:39:40+08:00 推文](https://twitter.com/HeQinglian/status/1512440041062215686)
+
+Re @MAGA202101 我其实是想给喜欢假信息的人看，不管立场如何。😉
+
+### 200: [2022-04-08 22:41:10+08:00 推文](https://twitter.com/HeQinglian/status/1512440420596436995)
+
+Re @mingshi_chen @Wu_Zhi 榜样的力量是无穷的，如果拜登自家没树立一个榜样，说服力差了那么一点半点。<br>发言人应该请一位变性者，说服力顿时增强一百倍+N。
+
+### 201: [2022-04-08 22:42:02+08:00 推文](https://twitter.com/HeQinglian/status/1512440637504819200)
+
+Re @MAGA202101 😂😂😂
+
+### 202: [2022-04-08 22:58:07+08:00 推文](https://twitter.com/Wu_Zhi/status/1512444687042457608)
+
+RT zhix<br>Re @FirstSquawk if not united, i will sanction on you. <br>USA and UK are laughing at those idiots now. <br>EU economy will be destroyed by EU stupid leaders. after EU economy collapsed, USA and UK can use little dollor to take over EU industry.<br>😂😂😂
+
+### 203: [2022-04-08 22:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1512444740494581767)
+
+我这里有种推号，专为注册来倾泻肮脏的。零Fo或一个Fo。<br>估计那些跟着我的大V，每天传播假消息，被我转发的操盘手不断自证为假的消息弄得他们无地自容，又不敢直接对骂，用这种卑劣的手法。<br>太搞笑了。
+
+### 204: [2022-04-09 00:53:28+08:00 推文](https://twitter.com/HeQinglian/status/1512473713668767746)
+
+Re @SeZQbDeTDvqO7ME 天底下有你这种简单的可怕思维。<br>我只负责解释被发现为假的新闻，你这种人就配做左粉。
 
