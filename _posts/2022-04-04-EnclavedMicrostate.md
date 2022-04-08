@@ -203,15 +203,21 @@ What does Kronii have against NoeFure?
 
 While true of sedentary societies, pastoral nomads have historically been far easier to mobilise – Nikolai Kradin estimates around 75% of the adult male population in a pastoral society could be put under arms without compromising food production. If one quarter of the population was male adults, 75% of that would be just under 19%, so close enough. Of course, do have to assume for that a) that the adult male population was indeed around 25%, and b) that the Khwarezmian population was overwhelmingly pastoral nomadic; on the latter count I don't personally know what the demographic division between sedentary and pastoral populations may have been.
 
-### 318: [If rockets were not invented by the Nazis in 1944, how early could they be invented?](https://old.reddit.com/r/AskHistorians/comments/tys38o/if_rockets_were_not_invented_by_the_nazis_in_1944/), submitted on 2022-04-08 09:27:22+08:00.
+### 318: [There is no way this is real](https://old.reddit.com/r/moviescirclejerk/comments/type1f/there_is_no_way_this_is_real/), submitted on 2022-04-08 07:07:18+08:00.
 
------ __318.1__ -----2022-04-08 12:31:24+08:00:
+----- __318.1__ -----2022-04-08 23:22:47+08:00:
+
+To put it in brief, any creator of video content (either recorded or livestreamed) who uses a motion-capture avatar instead of their real face.
+
+### 319: [If rockets were not invented by the Nazis in 1944, how early could they be invented?](https://old.reddit.com/r/AskHistorians/comments/tys38o/if_rockets_were_not_invented_by_the_nazis_in_1944/), submitted on 2022-04-08 09:27:22+08:00.
+
+----- __319.1__ -----2022-04-08 12:31:24+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 319: [Why were the people in the Victorian era called Victorians?](https://old.reddit.com/r/AskHistorians/comments/tytd7a/why_were_the_people_in_the_victorian_era_called/), submitted on 2022-04-08 10:36:11+08:00.
+### 320: [Why were the people in the Victorian era called Victorians?](https://old.reddit.com/r/AskHistorians/comments/tytd7a/why_were_the_people_in_the_victorian_era_called/), submitted on 2022-04-08 10:36:11+08:00.
 
------ __319.1__ -----2022-04-08 12:30:52+08:00:
+----- __320.1__ -----2022-04-08 12:30:52+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -219,15 +225,15 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 320: [Were the life of slaves really that bad?](https://old.reddit.com/r/AskHistorians/comments/tytigf/were_the_life_of_slaves_really_that_bad/), submitted on 2022-04-08 10:44:12+08:00.
+### 321: [Were the life of slaves really that bad?](https://old.reddit.com/r/AskHistorians/comments/tytigf/were_the_life_of_slaves_really_that_bad/), submitted on 2022-04-08 10:44:12+08:00.
 
------ __320.1__ -----2022-04-08 12:30:39+08:00:
+----- __321.1__ -----2022-04-08 12:30:39+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 321: [What would Thomas Cromwell's opinion have been on the actions of Oliver Cromwell?](https://old.reddit.com/r/AskHistorians/comments/tyyz4h/what_would_thomas_cromwells_opinion_have_been_on/), submitted on 2022-04-08 16:39:17+08:00.
+### 322: [What would Thomas Cromwell's opinion have been on the actions of Oliver Cromwell?](https://old.reddit.com/r/AskHistorians/comments/tyyz4h/what_would_thomas_cromwells_opinion_have_been_on/), submitted on 2022-04-08 16:39:17+08:00.
 
------ __321.1__ -----2022-04-08 19:29:39+08:00:
+----- __322.1__ -----2022-04-08 19:29:39+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
