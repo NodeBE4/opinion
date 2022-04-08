@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-07
+date: 2022-04-08
 from: https://twitter.com/SpeechFreedomCN/status/1510788743615201281
 layout: post
 tags:
@@ -38,4 +38,12 @@ Sun Jian, postgraduate student at Ludong University who protested against the un
 ### 6: [2022-04-07 11:03:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1511902333139136516)
 
 Dalian man Qu, who posted 17 Tweets that "insulted state leaders" or were "politically inappropriate" on Twitter, prosecuted in Sep 2020. He faced Picking Quarrel and Provoking Trouble charge and subsequent development of his case remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FPrtiC0XsAkaNvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-04-08 17:59:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512369519754465289)
+
+吉林省吉林市公安在某小区内公开喊话警告威胁一名发布不当言论的居民，要求其删除不当言论并接电话。吉林市处于疫情封控状态，可能因此警察没有直接上门查水表。<br><video src="https://video.twimg.com/ext_tw_video/1512368813450403842/pu/vid/272x480/HegGfIGsxHLE62C7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1512368813450403842/pu/img/GLcrjZALNcVbDkCP.jpg"></video>
+
+### 8: [2022-04-08 18:01:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512370131040624642)
+
+Police in China’s Jilin City publicly warning a resident with a loudspeaker for posting “inappropriate speech” in a WeChat group chat.<br><video src="https://video.twimg.com/ext_tw_video/1512368813450403842/pu/vid/272x480/HegGfIGsxHLE62C7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1512368813450403842/pu/img/GLcrjZALNcVbDkCP.jpg"></video>
 

@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-06
+date: 2022-04-08
 from: https://old.reddit.com/r/crime/comments/twuqpj/republicancontrolled_states_have_higher_murder/
 layout: post
 tags:
@@ -48,4 +48,14 @@ Even setting aside the fact that, of course, Arwady's predictions are --- as alw
 ----- __210.2__ -----2022-04-07 07:02:29+08:00:
 
 I suggest that Awrady be relieved of her responsibilities.
+
+### 211: [Unofficial Daily Update for 2022-04-07. 1496 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tyiwbr/unofficial_daily_update_for_20220407_1496_new/), submitted on 2022-04-08 02:05:20+08:00.
+
+----- __211.1__ -----2022-04-08 18:04:18+08:00:
+
+What is confusing about this to you?
+
+----- __211.2__ -----2022-04-08 18:05:19+08:00:
+
+I see almost no utility in these daily updates.
 
