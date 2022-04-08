@@ -47,3 +47,11 @@ Dalian man Qu, who posted 17 Tweets that "insulted state leaders" or were "polit
 
 Police in China’s Jilin City publicly warning a resident with a loudspeaker for posting “inappropriate speech” in a WeChat group chat.<br><video src="https://video.twimg.com/ext_tw_video/1512368813450403842/pu/vid/272x480/HegGfIGsxHLE62C7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1512368813450403842/pu/img/GLcrjZALNcVbDkCP.jpg"></video>
 
+### 9: [2022-04-08 19:09:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512387259558936576)
+
+江苏省镇江市男子叶某和广东深圳男子黄某，因在GTV和微信上发布“有害、不实且损害国家形象的信息”，先由镇江公安以资助危害国家安全犯罪活动罪刑事拘留，后由镇江检方改为寻衅滋事罪提起公诉，后续刑罚未知。<br><img style="" src="https://pbs.twimg.com/media/FP0TRYDXoAYsJuR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0TSjFXsAAisee?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-04-08 19:12:12+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512387831452344324)
+
+Man surnamed Ye from Jiangsu &amp; Huang from Shenzhen, who posted "harmful and false information that damaged national image" on GTV and WeChat,  arrested in early 2021 and prosecuted in June 2021. Subsequent development of case unknown.<br><img style="" src="https://pbs.twimg.com/media/FP0UO0ZWQAAqdt3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0UPz7X0AQ5GVY?format=png&amp;name=orig" referrerpolicy="no-referrer">
+

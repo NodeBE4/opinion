@@ -65,3 +65,19 @@ What is confusing about this to you?
 
 I see almost no utility in these daily updates.
 
+----- __212.3__ -----2022-04-08 19:36:00+08:00:
+
+The "positivity rate" is an unhelpful metric, particularly when the amount of tests administered is low.  All other issues associated with these data points notwithstanding, because the "positivity rate" is a function of a numerator comprising the amount of purported "positives" and a denominator comprising the amount of tests administered, higher such rates should be expected to be significantly associated with lower numbers of tests administered.  Basically, the fewer tests you administer the more likely you're going to see a higher "positivity rate."  
+
+In view of recent changes to testing, coverage and related problems associated with that data's aggregation, I would further expect to see the "positivity rate" continue to become more misleading and unhelpful for related reasons.  For example, it is unclear whether or two what extent self tests are reported.  Further, as coverage continues to become more restrictive, the population seeking COVID tests is more likely to be self-selecting and biased.
+
+----- __212.4__ -----2022-04-08 19:47:17+08:00:
+
+Well, I'm glad we're on the same page.
+
+### 213: [Is there a methodic way to study geopolitics?](https://old.reddit.com/r/geopolitics/comments/tz1cvq/is_there_a_methodic_way_to_study_geopolitics/), submitted on 2022-04-08 19:26:09+08:00.
+
+----- __213.1__ -----2022-04-08 19:50:28+08:00:
+
+Try /r/geopolitics2.
+
