@@ -43,7 +43,7 @@ I have had this question on the backburner for a while and I do wish to come bac
 
 However, while you wait for me to get my act together, I do have a few reading suggestions:
 
-* Tobie Meyer-Fong, *What Remains* – This is basically the book to read that answers your question most directly; it discusses civilian perspectives on the conflict from a variety of angles. Also see her review of the 2013 translation of Zhang Daye's *The World of a Tiny Insect*, a memoir of a civilian survivor of the war.
+* Tobie Meyer-Fong, *What Remains* – This is basically the book to read that answers your question most directly; it discusses civilian perspectives on the conflict from a variety of angles. Also see her review of the 2013 translation of Zhang Daye's *The World of a Tiny Insect*, another memoir of a civilian survivor of the war.
 
 * Indeed, Zhang Daye's *The World of a Tiny Insect*, translated by Tian Xiaofei, would be a good read in itself, if contextualised alongside Meyer-Fong's book.
 
