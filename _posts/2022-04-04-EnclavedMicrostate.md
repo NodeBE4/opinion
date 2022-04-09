@@ -269,3 +269,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
+### 326: [Who is your favorite singer in hololive?](https://old.reddit.com/r/Hololive/comments/tzjyeq/who_is_your_favorite_singer_in_hololive/), submitted on 2022-04-09 10:56:23+08:00.
+
+----- __326.1__ -----2022-04-09 12:57:53+08:00:
+
+Noel. She tries so very, very hard.
+

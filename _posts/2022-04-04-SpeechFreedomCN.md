@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-08
+date: 2022-04-09
 from: https://twitter.com/SpeechFreedomCN/status/1510788743615201281
 layout: post
 tags:
@@ -54,4 +54,12 @@ Police in China’s Jilin City publicly warning a resident with a loudspeaker fo
 ### 10: [2022-04-08 19:12:12+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512387831452344324)
 
 Man surnamed Ye from Jiangsu &amp; Huang from Shenzhen, who posted "harmful and false information that damaged national image" on GTV and WeChat,  arrested in early 2021 and prosecuted in June 2021. Subsequent development of case unknown.<br><img style="" src="https://pbs.twimg.com/media/FP0UO0ZWQAAqdt3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0UPz7X0AQ5GVY?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-04-09 10:32:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512619305724170240)
+
+Your friendly reminder that two weeks ago Shanghai police arrested two residents for making up a rumour that the city was about to be placed under covid lockdown.<br><img style="" src="https://pbs.twimg.com/media/FP2HWuOXwAcGDVZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-04-09 10:34:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512619808935735299)
+
+我想问一句：张某和俞某的案件进一步审理了这么久，审完了吗？<br>没事，我已经帮你们把辟谣的说辞想好了：明明要封这么久，他俩却只说封七天，这不是造谣是什么？<br><img style="" src="https://pbs.twimg.com/media/FP2Hv5cWYAE2GFQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
