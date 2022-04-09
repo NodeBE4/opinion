@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -773,7 +773,7 @@ Re @jeki50806373 仇俄可以理解。但天天指责中共撒谎的那群人热
 
 ### 190: [2022-04-08 22:12:01+08:00 推文](https://twitter.com/HeQinglian/status/1512433084335013902)
 
-农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。
+农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。<br><br>RFI 華語 - 法國國際廣播電台: 世界糧農組織指全球食品價格創歷史新高<br><br><img style="" src="https://pbs.twimg.com/media/FP066qPVEAIwYtI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8JuC.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8JuC.t</a>
 
 ### 191: [2022-04-08 22:16:37+08:00 推文](https://twitter.com/HeQinglian/status/1512434241950343171)
 
@@ -886,4 +886,56 @@ Re @FangYiDuan1 @RFI_TradCn 改变不了的是事实。<br>事实是：在布查
 ### 218: [2022-04-09 05:00:50+08:00 推文](https://twitter.com/HeQinglian/status/1512535964878520321)
 
 Re @qien_1912 “我说的是化武话题是俄方先挑起的”，😂😂<br>看来，美国官员承认了一件不属于他们制造假信息的恶行。赶紧去给NBC写信，附上你“发现”的资料来源，该报的推号就在推上，如果你找不到，我愿意花时间为你找，这么大一件事情，不澄清还了得。
+
+### 219: [2022-04-09 08:41:43+08:00 推文](https://twitter.com/HeQinglian/status/1512591555114192900)
+
+Re @o2pIHqzvuxGd9Uu @RFI_TradCn 既然有，就拿出来。有真证据不拿出来，不断用假信息树假旗，这是什么操作？难道要帮助隐瞒真相？
+
+### 220: [2022-04-09 08:46:33+08:00 推文](https://twitter.com/HeQinglian/status/1512592770128564229)
+
+Re @enoughtalk4 最后所言，美国一直存在这种说法。因奥巴马的政治导师（地下气象员的创始者、BLM的培养者）在伊利诺伊州立大学，多年主讲的课就是如何让美国变衰，奥巴马当初就是被他的讲课吸引，成为他的学生兼政治合作者。
+
+### 221: [2022-04-09 08:51:01+08:00 推文](https://twitter.com/HeQinglian/status/1512593892620787713)
+
+Re @seeyoua22819375 还有个不起眼的南非，对西方心理打击甚大。<br>从1960年代末开始，西方社会与联合国集全力树立了曼德拉这个典范，发动了彩虹革命，1990年代中期后开创了“诺奖得主+颜色革命”模式。美国左派CRT理论的实践之地，后来的结果世界知道。<br>这国如今与中俄站到一条线，西方提都不想提，太打脸。
+
+### 222: [2022-04-09 08:54:15+08:00 推文](https://twitter.com/HeQinglian/status/1512594706131206145)
+
+Re @enoughtalk4 美国这国太强大，尤其是武力盖世，从外面搞垮，想都别想。<br>因此只有先在内部策划颜色革命（思想、肤色），再慢慢从内部演变政治结构，用自己的人填塞政、法、军、警、NGO。<br>目前正在路上，革命快要完成。
+
+### 223: [2022-04-09 08:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1512596001437200385)
+
+Re @JianglinLi @Wu_Zhi 实话实说，世界分成多极，每一极分别折腾（或发展），美欧就让左派自个折腾好了，至少其他国家不用阉割人<br>目前民主党确实危机感很强，过了今年如果还能依靠邮寄、机器掌两院，2024再依样画葫芦，就连危机感也不必要有了<br>左派的调查显示：共和党只比民主党多4个点支持率——美国人被折腾得还不够，继续。
+
+### 224: [2022-04-09 09:01:18+08:00 推文](https://twitter.com/HeQinglian/status/1512596481731178500)
+
+Re @enoughtalk4 @xuezhou_yang @qien_1912 不用辩论。左派喜欢就行，全变成这样，我也没意见。<br>美国的未来属于他们。
+
+### 225: [2022-04-09 09:04:04+08:00 推文](https://twitter.com/HeQinglian/status/1512597175611629575)
+
+Re @qien_1912 再对你说一遍：NBC报道，美国官员承认了。你当然没资格说，因为你就是在推上看中文推。<br>对不起了，你应该去别处去。我这里不留你了。
+
+### 226: [2022-04-09 09:05:09+08:00 推文](https://twitter.com/HeQinglian/status/1512597449952702467)
+
+Re @enoughtalk4 @xuezhou_yang @qien_1912 我根本不与这位刘什么辩论，是他死乞白赖，假装看不明白NBC消息。以后见这类即拉黑。
+
+### 227: [2022-04-09 09:15:17+08:00 推文](https://twitter.com/HeQinglian/status/1512599999519019026)
+
+Re @enoughtalk4 @xuezhou_yang @qien_1912 决不留在园子里。<br>比你讲的顽强。
+
+### 228: [2022-04-09 09:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1512604581502533635)
+
+克里姆林宫称俄罗斯在乌克兰的行动可能“在可预见的未来”结束<br><br>消息简短，美方预测即将开始的顿巴斯军事行动只字未提，不知是打完算结束，还是根本不打了。 <a href="https://cn.reuters.com/article/russia-ukraine-operation-end-0408-idCNKCS2M012A" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/russia-ukraine-operation-end-0408-idCNKCS2M012A</a>
+
+### 229: [2022-04-09 09:45:40+08:00 推文](https://twitter.com/HeQinglian/status/1512607645882105863)
+
+Re @JkYJ2l7mDTaxqhJ 不知道。主媒前两天说打，现在成天说别的。德国政府还正在争论是不是要送坦克，美白宫忙着推广未成年人变性人计划。<br>你有可靠消息发来。
+
+### 230: [2022-04-09 09:48:58+08:00 推文](https://twitter.com/HeQinglian/status/1512608476794691585)
+
+Re @motorheroSyd 美国三分之二以上的人不相信媒体，你属于三分之一。
+
+### 231: [2022-04-09 09:55:26+08:00 推文](https://twitter.com/HeQinglian/status/1512610103677100038)
+
+Re @JkYJ2l7mDTaxqhJ 你这不是新闻，是你的看法。好了，如你所愿。
 
