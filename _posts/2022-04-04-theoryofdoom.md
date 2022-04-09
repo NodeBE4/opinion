@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-08
+date: 2022-04-09
 from: https://old.reddit.com/r/geopolitics/comments/tvs6ur/piercing_the_fog_of_war_an_ongoing_effort/
 layout: post
 tags:
@@ -80,4 +80,10 @@ Well, I'm glad we're on the same page.
 ----- __213.1__ -----2022-04-08 19:50:28+08:00:
 
 Try /r/geopolitics2.
+
+### 214: [Hate to have to ask, but what is this piece of equipment called boys?](https://old.reddit.com/r/GYM/comments/tzabs3/hate_to_have_to_ask_but_what_is_this_piece_of/), submitted on 2022-04-09 02:43:11+08:00.
+
+----- __214.1__ -----2022-04-09 12:09:52+08:00:
+
+Alternatively, you could get the same exercise by getting a job at Home Depot unloading refrigerators.
 
