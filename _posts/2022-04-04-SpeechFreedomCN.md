@@ -63,3 +63,11 @@ Your friendly reminder that two weeks ago Shanghai police arrested two residents
 
 我想问一句：张某和俞某的案件进一步审理了这么久，审完了吗？<br>没事，我已经帮你们把辟谣的说辞想好了：明明要封这么久，他俩却只说封七天，这不是造谣是什么？<br><img style="" src="https://pbs.twimg.com/media/FP2Hv5cWYAE2GFQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 13: [2022-04-09 18:58:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512746737206714369)
+
+河南省辉县市男子张某，因在推特上“侮辱、谩骂、诋毁国家领导人和央视主持人，诋毁中国共产党，诋毁社会主义制度，发表台湾和钓鱼岛不属于中国等言论”，于2020年12月被检方以寻衅滋事罪提起公诉。张某的推特名为“卧槽好危险赶紧把所有资料匿了”，我对这个推号有印象。<br><img style="" src="https://pbs.twimg.com/media/FP5ZlrPWUAUqMde?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP5ZmrrXMAAPU2X?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-04-09 19:03:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1512748139249291264)
+
+Henan man Zhang prosecuted by local public procuratorate for "insulting state leaders and the Communist Party, slandering China's political system &amp; posting speeches such as Taiwan and Senkaku/Diaoyu Islands do not belong to China" on Twitter.<br><img style="" src="https://pbs.twimg.com/media/FP5bdVCXsAUeaXZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP5beWeXMAIn9PR?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
