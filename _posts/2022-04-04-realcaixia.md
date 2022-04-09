@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
@@ -141,7 +141,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 32: [2022-04-05 09:09:49+08:00 推文](https://twitter.com/realcaixia/status/1511149071708344328)
 
-大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。<br><br>新闻调查: 大翻译运动又一杰作，武汉病毒的真相来了<br><br><video src="https://video.twimg.com/ext_tw_video/1510704705630269440/pu/vid/1280x720/d7gebXM6hxKtZKSU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510704705630269440/pu/img/exVPb1RXvZtcMvJq.jpg"></video>
+大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
@@ -165,7 +165,7 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
 
-好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
+好悲壮！
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
@@ -201,11 +201,11 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 47: [2022-04-06 21:46:55+08:00 推文](https://twitter.com/realcaixia/status/1511701989897478150)
 
-勇气、胆识与智慧，令人敬佩！
+勇气、胆识与智慧，令人敬佩！<br><br>Harvey JI季孝龙（@cesuogeming 厕所革命发起者): 各位朋友，我已把我生命自由及尊严全部都交给了上海。我已连续两天和朋友做最后道别，按中国敢言公民的遭遇为参考，我是不准备活着出来了。当然我是基督徒，我绝对不会自暴自弃自杀啥的。<br>我道别得连自己都觉得有点矫情了。好像到了一个朋友家做客，我说我走了啊。又聊了一小时。我还自由着。<br>请朋友转<br><br><img style="" src="https://pbs.twimg.com/media/FPpgjFKUcAQMDDD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
-议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。<br><br>楊建利 Yang Jianli: #议报 以及 #公民力量 所属其他网站遭到黑客攻击，感染严重病毒，公民力量团队在紧急清理修复中，我们决心“清零”，绝不与病毒共存。望大家理解和支持。<br> <a href="https://twitter.com/yibaochina/status/1511520166600916998" target="_blank" rel="noopener noreferrer">https://twitter.com/yibaochina/status/1511520166600916998</a>
 
 ### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
 
@@ -225,7 +225,7 @@ RT @lianchaohan: 【演艺圈的良心孙海英】一直在关注孙海英，虽
 
 ### 53: [2022-04-06 22:25:53+08:00 推文](https://twitter.com/realcaixia/status/1511711797232943104)
 
-可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。<br><br>lily valley: 上海地下党组织成员被封家里，无法和他的同志接头！<br><br><img style="" src="https://pbs.twimg.com/media/FPgVKb_WUAMnib9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。
 
 ### 54: [2022-04-06 22:28:50+08:00 推文](https://twitter.com/realcaixia/status/1511712538769170439)
 
