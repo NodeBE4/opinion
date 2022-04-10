@@ -65,6 +65,10 @@ Interesting choice of Bae as a point of comparison...
 
 I have very little stake in the HoloCN drama specifically, but I do feel like it's not *that* unreasonable that if you hire 5 or 6 young Chinese women (IIRC one was actually Taiwanese) then you'll have *at least* one vocal nationalist who might put national loyalty above basically anything else.
 
+----- __302.4__ -----2022-04-10 19:08:07+08:00:
+
+Accent, I believe.
+
 ### 303: [So yeah, I guess Funimation is just being fed alive to Crunchyroll](https://old.reddit.com/r/TwoBestFriendsPlay/comments/tx043d/so_yeah_i_guess_funimation_is_just_being_fed/), submitted on 2022-04-06 01:22:53+08:00.
 
 ----- __303.1__ -----2022-04-06 14:24:51+08:00:
