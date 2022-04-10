@@ -773,7 +773,7 @@ Re @jeki50806373 仇俄可以理解。但天天指责中共撒谎的那群人热
 
 ### 190: [2022-04-08 22:12:01+08:00 推文](https://twitter.com/HeQinglian/status/1512433084335013902)
 
-农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。
+农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。<br><br>RFI 華語 - 法國國際廣播電台: 世界糧農組織指全球食品價格創歷史新高<br><br><img style="" src="https://pbs.twimg.com/media/FP066qPVEAIwYtI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8JuC.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8JuC.t</a>
 
 ### 191: [2022-04-08 22:16:37+08:00 推文](https://twitter.com/HeQinglian/status/1512434241950343171)
 
@@ -989,7 +989,7 @@ Re @HHWyH5IacghLykf 泽连斯基正在攀登他人生的珠穆朗玛峰，这也
 
 ### 244: [2022-04-09 22:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1512806646686306311)
 
-展示一枚头大症。<br>这位头大症以为自己是万国智库，说句话世界都得听。其实，各国是否制裁中国，完全看自己有无能力。世界上没有哪个国家会根据这位头大症的话，让本国民众失业去制裁另一国家。欧盟国家的烦恼正大着呢。<br><br>Colosseo: 德国也依赖中国市场，按照你这种逻辑美国是不是要放共匪一码，免得误伤盟友？看到没，啧啧，归根结底还是要回到放生党国的逻辑线上。<br> <a href="https://twitter.com/HeQinglian/status/1512804560385028109" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1512804560385028109</a>
+展示一枚头大症。<br>这位头大症以为自己是万国智库，说句话世界都得听。其实，各国是否制裁中国，完全看自己有无能力。世界上没有哪个国家会根据这位头大症的话，让本国民众失业去制裁另一国家。欧盟国家的烦恼正大着呢。
 
 ### 245: [2022-04-09 22:59:41+08:00 推文](https://twitter.com/HeQinglian/status/1512807466454630403)
 
@@ -1182,4 +1182,56 @@ Re 拜托你看清楚：是白宫将勒庞与普京联系在一起。欢迎你�
 ### 292: [2022-04-10 20:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1513134716374982661)
 
 Re @copperstone067 窃选战略的总设计师（The Architect）迈克尔·波德霍泽（Mike Podhorzer）是美国劳联-产联战略研究主席的助理。他积20余年竞选政治的丰富经验，著有一本炫耀竞选技能与战绩的《胜利实验室》，此书奠定他在互联网时代政治竞选这个行当中的地位：数据驱动政治的早期领导者。 <a href="http://heqinglian.net/2021/03/06/show-off-by-pick-thief-2/" target="_blank" rel="noopener noreferrer">http://heqinglian.net/2021/03/06/show-off-by-pick-thief-2/</a>
+
+### 293: [2022-04-10 21:00:44+08:00 推文](https://twitter.com/HeQinglian/status/1513139921082531848)
+
+欧盟还想寻找平衡点：<br>【路透-据一外交官透露：欧盟各国外长将不会在周一于卢森堡举行的会议上正式讨论对俄实施石油禁运的问题。<br>但各国外长预计将批准欧盟向乌克兰提供5亿欧元的资金，自俄2月24日军事入侵以来，欧盟对乌的安全支持将达15亿欧元】<br><br>估计泽连斯基将会继续狠批。 <a href="https://cn.reuters.com/article/eu-diplomats-meeting-0408-fri-idCNKCS2M100B" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/eu-diplomats-meeting-0408-fri-idCNKCS2M100B</a>
+
+### 294: [2022-04-10 21:10:26+08:00 推文](https://twitter.com/HeQinglian/status/1513142360464576522)
+
+Re @oMjfWlFICmRTVOO 拜托你看清楚：是白宫将勒庞与普京联系在一起。欢迎你发表高见，但一定看清楚，切记。<br>The White House is freaked out that Putin's next big win could be in Paris <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054" target="_blank" rel="noopener noreferrer">https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054</a>
+
+### 295: [2022-04-10 21:16:47+08:00 推文](https://twitter.com/HeQinglian/status/1513143959786344448)
+
+Re @Wu_Zhi FRI刚发布消息，引用泽连斯基的话说：东部战争，乌克兰必胜，即使这样，他还是非常大度，愿意给普京一条谈判的路放生。<br>欧盟官员：1/4侵乌俄军失去作战能力 <br>西方政要正纷纷前往基辅打气，据说北约的新式武器正在路上。 <a href="https://rfi.my/8K69.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K69.T</a>
+
+### 296: [2022-04-10 21:18:01+08:00 推文](https://twitter.com/HeQinglian/status/1513144270810660871)
+
+Re @2dd00d15b4fc44d 今天是第一轮，选后再去，一定拉抬10个百分点。
+
+### 297: [2022-04-10 21:53:03+08:00 推文](https://twitter.com/HeQinglian/status/1513153088449912837)
+
+Re @Wu_Zhi 自己相信就好，不是好多人都说美乌共享信息战非常必要么？不管结果如何，先开心几天就好。
+
+### 298: [2022-04-10 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1513154388877062150)
+
+Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
+
+### 299: [2022-04-10 22:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1513155223539306496)
+
+Re @JackyAlexKoh @Wu_Zhi 印巴不对付又不是一天两天。
+
+### 300: [2022-04-10 22:08:40+08:00 推文](https://twitter.com/HeQinglian/status/1513157018294628353)
+
+Re @Wu_Zhi @JackyAlexKoh 这事得分两说。<br>搞定如果是指往好里建设，美国从二战后就成功过两件事，一是日本战后重建，二是马歇尔计划援欧。还有两个半件，促进台湾与南韩的民主化。<br>其余都是熊瞎子掰玉米模式，比如南非与缅甸就是两例。中东、北非就不用说了。<br>缅甸本已民主化了，昂山非得学习美民主党2020大选，终被反杀，可惜
+
+### 301: [2022-04-10 22:12:34+08:00 推文](https://twitter.com/HeQinglian/status/1513157999354863618)
+
+Re @bruce_is_ghost @telte99 @Colosseo77 不是指正常人与保守派的理想模式，是极左派的理想模式：<br>取消文化——控制言论；<br>政治正确——控制思想；<br>CRT理论——扶持一个享有特权的种族，以其水平做为本国学习模本；<br>LBGTQ——瓦解正常家庭；<br>鼓励吸麻吸毒（后者部分州）——让人堕落；<br>谎言治国。<br>请网友列举。
+
+### 302: [2022-04-10 22:13:37+08:00 推文](https://twitter.com/HeQinglian/status/1513158263000510467)
+
+Re @Wen_yu_li @telte99 @Colosseo77 全球化分三个层次：经济、价值、政治。<br>中共只要第一个。
+
+### 303: [2022-04-10 22:16:57+08:00 推文](https://twitter.com/HeQinglian/status/1513159100967837696)
+
+Re @Wu_Zhi @JackyAlexKoh 我也不知道这些人看不看新闻，一天到晚哼哼：美国民主有自净能力。<br>我看到这类学舌者，就只想拉黑。
+
+### 304: [2022-04-10 22:54:00+08:00 推文](https://twitter.com/HeQinglian/status/1513168427028041737)
+
+Re @Wu_Zhi 😂😂
+
+### 305: [2022-04-10 23:21:43+08:00 推文](https://twitter.com/HeQinglian/status/1513175398372290569)
+
+Re @franktianxie 就这个月的事了。估计有不少小动作，大重置不能输，筹划了这么多年。
 
