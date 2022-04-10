@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-09
+date: 2022-04-10
 from: https://old.reddit.com/r/CuratedTumblr/comments/tw02pz/forget/
 layout: post
 tags:
@@ -60,6 +60,10 @@ However, while you wait for me to get my act together, I do have a few reading s
 ----- __302.2__ -----2022-04-06 14:14:27+08:00:
 
 Interesting choice of Bae as a point of comparison...
+
+----- __302.3__ -----2022-04-10 18:24:21+08:00:
+
+I have very little stake in the HoloCN drama specifically, but I do feel like it's not *that* unreasonable that if you hire 5 or 6 young Chinese women (IIRC one was actually Taiwanese) then you'll have *at least* one vocal nationalist who might put national loyalty above basically anything else.
 
 ### 303: [So yeah, I guess Funimation is just being fed alive to Crunchyroll](https://old.reddit.com/r/TwoBestFriendsPlay/comments/tx043d/so_yeah_i_guess_funimation_is_just_being_fed/), submitted on 2022-04-06 01:22:53+08:00.
 
@@ -286,4 +290,26 @@ We ought not to act as though Hong Kong's local authorities are incapable of mak
 ----- __328.1__ -----2022-04-09 12:57:53+08:00:
 
 Noel. She tries so very, very hard.
+
+### 329: [Looking for places to read what’s been translated of the Taiping Heavenly Kingdom/God Worshipping Society scriptures, as well as books more generally on their theology](https://old.reddit.com/r/ChineseHistory/comments/u0c3qm/looking_for_places_to_read_whats_been_translated/), submitted on 2022-04-10 14:51:38+08:00.
+
+----- __329.1__ -----2022-04-10 17:52:33+08:00:
+
+Taiping theology is a pretty well-studied topic, though the older of a work you look at, generally the less good it is. The things to read, in descending order, would be:
+
+* Carl Kilcourse, *Taiping Theology* (2017)
+
+* Thomas Reilly, *The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire* (2004)
+
+* Rudolf Wagner, *Re-enacting the Heavenly Vision* (1984)
+
+* Vincent Shih, *The Taiping Ideology* (1967)
+
+* Eugene Boardman, *Christian Influence Upon the Ideology of the Taiping Rebellion* (1971)
+
+As for translated works, nearly the entire corpus of then-extant Taiping documents was translated by a team from the University of California back in the late 1960s, and published in 1971 as the second and third volumes of *The Taiping Rebellion: Documents and Comments*.
+
+----- __329.2__ -----2022-04-10 18:17:09+08:00:
+
+No problem! I would stress that the last two books on there need to be read with a grain of salt, as both are attempts – for differing reasons – to dispel the notion of the Taiping as 'real' Christians. Shih's main focus is locating Confucian influences in Taiping policies and manifestoes, while Boardman, a practicing Quaker, saw the Taiping's ostensible Old Testament focus and general violence as disqualifying them from his personal, denominationally-influenced definition of Christianity. Kilcourse, Reilly, and Wagner offer more rounded views.
 
