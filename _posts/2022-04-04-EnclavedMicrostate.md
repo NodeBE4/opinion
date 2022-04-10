@@ -207,33 +207,39 @@ This submission has been removed because it involves current events.  To keep fr
 
 However, do feel free to post a new version of this question without reference to current affairs.
 
-### 317: [Mumei can :D in any situation](https://old.reddit.com/r/Hololive/comments/txwq1g/mumei_can_d_in_any_situation/), submitted on 2022-04-07 05:26:18+08:00.
+### 317: [What happened to followers of Hong Xiuquan after the Taiping rebellion?](https://old.reddit.com/r/AskHistorians/comments/txw3z0/what_happened_to_followers_of_hong_xiuquan_after/), submitted on 2022-04-07 04:59:10+08:00.
 
------ __317.1__ -----2022-04-07 19:31:01+08:00:
+----- __317.1__ -----2022-04-10 17:24:40+08:00:
+
+This is something on which frustratingly little material has been consolidated, but I discuss it in [this past answer](https://www.reddit.com/r/AskHistorians/comments/ektk6s/what_became_of_the_god_worshipping_society_after/fddsof9/). It is, to be fair, quite an old one that I may update at some point, but it is about the best summary I can provide. While there were definitely refugees from the kingdom, including Hong Xiuquan's nephew Hong Quanfu, the core infrastructure of its religion was so comprehensively crushed that its wider survival was nigh-impossible.
+
+### 318: [Mumei can :D in any situation](https://old.reddit.com/r/Hololive/comments/txwq1g/mumei_can_d_in_any_situation/), submitted on 2022-04-07 05:26:18+08:00.
+
+----- __318.1__ -----2022-04-07 19:31:01+08:00:
 
 What does Kronii have against NoeFure?
 
-### 318: [The Mongols exterminated ~60 million people during their conquests, including 90% of the Iranian population (Hitler's Holocaust murdered 66% of European Jews, by comparison). Just how was the Mongol genocide machinery so effective in the absence of modern technology and bureaucracy?](https://old.reddit.com/r/AskHistorians/comments/ty8dhr/the_mongols_exterminated_60_million_people_during/), submitted on 2022-04-07 16:23:49+08:00.
+### 319: [The Mongols exterminated ~60 million people during their conquests, including 90% of the Iranian population (Hitler's Holocaust murdered 66% of European Jews, by comparison). Just how was the Mongol genocide machinery so effective in the absence of modern technology and bureaucracy?](https://old.reddit.com/r/AskHistorians/comments/ty8dhr/the_mongols_exterminated_60_million_people_during/), submitted on 2022-04-07 16:23:49+08:00.
 
------ __318.1__ -----2022-04-08 15:10:00+08:00:
+----- __319.1__ -----2022-04-08 15:10:00+08:00:
 
 While true of sedentary societies, pastoral nomads have historically been far easier to mobilise – Nikolai Kradin estimates around 75% of the adult male population in a pastoral society could be put under arms without compromising food production. If one quarter of the population was male adults, 75% of that would be just under 19%, so close enough. Of course, do have to assume for that a) that the adult male population was indeed around 25%, and b) that the Khwarezmian population was overwhelmingly pastoral nomadic; on the latter count I don't personally know what the demographic division between sedentary and pastoral populations may have been.
 
-### 319: [There is no way this is real](https://old.reddit.com/r/moviescirclejerk/comments/type1f/there_is_no_way_this_is_real/), submitted on 2022-04-08 07:07:18+08:00.
+### 320: [There is no way this is real](https://old.reddit.com/r/moviescirclejerk/comments/type1f/there_is_no_way_this_is_real/), submitted on 2022-04-08 07:07:18+08:00.
 
------ __319.1__ -----2022-04-08 23:22:47+08:00:
+----- __320.1__ -----2022-04-08 23:22:47+08:00:
 
 To put it in brief, any creator of video content (either recorded or livestreamed) who uses a motion-capture avatar instead of their real face.
 
-### 320: [If rockets were not invented by the Nazis in 1944, how early could they be invented?](https://old.reddit.com/r/AskHistorians/comments/tys38o/if_rockets_were_not_invented_by_the_nazis_in_1944/), submitted on 2022-04-08 09:27:22+08:00.
+### 321: [If rockets were not invented by the Nazis in 1944, how early could they be invented?](https://old.reddit.com/r/AskHistorians/comments/tys38o/if_rockets_were_not_invented_by_the_nazis_in_1944/), submitted on 2022-04-08 09:27:22+08:00.
 
------ __320.1__ -----2022-04-08 12:31:24+08:00:
+----- __321.1__ -----2022-04-08 12:31:24+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 321: [Why were the people in the Victorian era called Victorians?](https://old.reddit.com/r/AskHistorians/comments/tytd7a/why_were_the_people_in_the_victorian_era_called/), submitted on 2022-04-08 10:36:11+08:00.
+### 322: [Why were the people in the Victorian era called Victorians?](https://old.reddit.com/r/AskHistorians/comments/tytd7a/why_were_the_people_in_the_victorian_era_called/), submitted on 2022-04-08 10:36:11+08:00.
 
------ __321.1__ -----2022-04-08 12:30:52+08:00:
+----- __322.1__ -----2022-04-08 12:30:52+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -241,27 +247,27 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 322: [Were the life of slaves really that bad?](https://old.reddit.com/r/AskHistorians/comments/tytigf/were_the_life_of_slaves_really_that_bad/), submitted on 2022-04-08 10:44:12+08:00.
+### 323: [Were the life of slaves really that bad?](https://old.reddit.com/r/AskHistorians/comments/tytigf/were_the_life_of_slaves_really_that_bad/), submitted on 2022-04-08 10:44:12+08:00.
 
------ __322.1__ -----2022-04-08 12:30:39+08:00:
+----- __323.1__ -----2022-04-08 12:30:39+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 323: [What would Thomas Cromwell's opinion have been on the actions of Oliver Cromwell?](https://old.reddit.com/r/AskHistorians/comments/tyyz4h/what_would_thomas_cromwells_opinion_have_been_on/), submitted on 2022-04-08 16:39:17+08:00.
+### 324: [What would Thomas Cromwell's opinion have been on the actions of Oliver Cromwell?](https://old.reddit.com/r/AskHistorians/comments/tyyz4h/what_would_thomas_cromwells_opinion_have_been_on/), submitted on 2022-04-08 16:39:17+08:00.
 
------ __323.1__ -----2022-04-08 19:29:39+08:00:
+----- __324.1__ -----2022-04-08 19:29:39+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 324: [Someone told me that India and China where barely aware of each other's existence for most of history, is this true?](https://old.reddit.com/r/AskHistorians/comments/tz6ut8/someone_told_me_that_india_and_china_where_barely/), submitted on 2022-04-09 00:03:06+08:00.
+### 325: [Someone told me that India and China where barely aware of each other's existence for most of history, is this true?](https://old.reddit.com/r/AskHistorians/comments/tz6ut8/someone_told_me_that_india_and_china_where_barely/), submitted on 2022-04-09 00:03:06+08:00.
 
------ __324.1__ -----2022-04-09 01:28:10+08:00:
+----- __325.1__ -----2022-04-09 01:28:10+08:00:
 
 More can of course be said, but for a specific case study I discuss Qing (lack of) relations with the Mughal Empire [here](https://www.reddit.com/r/AskHistorians/comments/qlfr99/how_was_the_relationship_between_qing_china_and/hj65yek/). Matthew Mosca's *Matthew Mosca's From Frontier Policy to Foreign Policy: The Question of India and the Transformation of Geopolitics in Qing China* (2013), on which the answer is based, would be the book to read for a wider overview of Qing approaches to India.
 
-### 325: [Indian and Qing thinkers had varying opinions on dealing with western culture—which method led to greater success in opposing western imperialism?](https://old.reddit.com/r/AskHistorians/comments/tz7e05/indian_and_qing_thinkers_had_varying_opinions_on/), submitted on 2022-04-09 00:27:14+08:00.
+### 326: [Indian and Qing thinkers had varying opinions on dealing with western culture—which method led to greater success in opposing western imperialism?](https://old.reddit.com/r/AskHistorians/comments/tz7e05/indian_and_qing_thinkers_had_varying_opinions_on/), submitted on 2022-04-09 00:27:14+08:00.
 
------ __325.1__ -----2022-04-09 01:28:44+08:00:
+----- __326.1__ -----2022-04-09 01:28:44+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -269,15 +275,15 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 326: [People are being driven to the brink from lockdowns in Shanghai & other cities - One Brave Person Says What Everyone Else is Thinking](https://old.reddit.com/r/PublicFreakout/comments/tzfg5w/people_are_being_driven_to_the_brink_from/), submitted on 2022-04-09 06:48:11+08:00.
+### 327: [People are being driven to the brink from lockdowns in Shanghai & other cities - One Brave Person Says What Everyone Else is Thinking](https://old.reddit.com/r/PublicFreakout/comments/tzfg5w/people_are_being_driven_to_the_brink_from/), submitted on 2022-04-09 06:48:11+08:00.
 
------ __326.1__ -----2022-04-09 13:49:09+08:00:
+----- __327.1__ -----2022-04-09 13:49:09+08:00:
 
 We ought not to act as though Hong Kong's local authorities are incapable of making bad decisions. To be quite honest, a lot of the extremes of COVID policy in China, both in Hong Kong and on the mainland, have been the result of the *lack* of a coherent central strategy. Local authorities at various levels have been more or less winging it, in part because COVID cases have, until recently, been so low that there have been more resources built up, that have in turn been spent on much more severe interventions. The hamster cull wasn't a case of 'Beijing came for your pets', it was a case of 'HK local authorities, with a lot of resources but still very low case numbers to have to deal with, trying to look like they're doing something really important.'
 
-### 327: [Who is your favorite singer in hololive?](https://old.reddit.com/r/Hololive/comments/tzjyeq/who_is_your_favorite_singer_in_hololive/), submitted on 2022-04-09 10:56:23+08:00.
+### 328: [Who is your favorite singer in hololive?](https://old.reddit.com/r/Hololive/comments/tzjyeq/who_is_your_favorite_singer_in_hololive/), submitted on 2022-04-09 10:56:23+08:00.
 
------ __327.1__ -----2022-04-09 12:57:53+08:00:
+----- __328.1__ -----2022-04-09 12:57:53+08:00:
 
 Noel. She tries so very, very hard.
 
