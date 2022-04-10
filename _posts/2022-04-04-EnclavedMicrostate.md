@@ -69,6 +69,10 @@ I have very little stake in the HoloCN drama specifically, but I do feel like it
 
 Accent, I believe.
 
+----- __302.5__ -----2022-04-11 02:39:41+08:00:
+
+Speaking for myself as a HK-native, from what clips I've heard she seems to have had a Guangzhou accent in Cantonese, though to be fair that's not necessarily a big indicator either way.
+
 ### 303: [So yeah, I guess Funimation is just being fed alive to Crunchyroll](https://old.reddit.com/r/TwoBestFriendsPlay/comments/tx043d/so_yeah_i_guess_funimation_is_just_being_fed/), submitted on 2022-04-06 01:22:53+08:00.
 
 ----- __303.1__ -----2022-04-06 14:24:51+08:00:

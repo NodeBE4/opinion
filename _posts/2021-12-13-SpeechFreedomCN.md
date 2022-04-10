@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-13~2021-12-19'
 
 ### 1: [2021-12-14 15:28:12+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1470656856364355586)
 
-Re 青岛大学教师高薇嘉（微博名：高鸭），因在微博发表了大意为“这一代人不应该避讳靖国神社，想去就能随便去，因为‘身正不怕影子斜’”的“不当言论”，被校方成立特别工作组展开调查，目前尚无处理结果。<br><img style="" src="https://pbs.twimg.com/media/FGjR4goXIAQH2LP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjR7rWXMAQu8v9?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 青岛大学教师高薇嘉（微博名：高鸭），因在微博发表了大意为“这一代人不应该避讳靖国神社，想去就能随便去，因为‘身正不怕影子斜’”的“不当言论”，被校方成立特别工作组展开调查，目前尚无处理结果。<br><img style src="https://pbs.twimg.com/media/FGjR4goXIAQH2LP?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjR7rWXMAQu8v9?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-14 15:32:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1470657817514237952)
 
