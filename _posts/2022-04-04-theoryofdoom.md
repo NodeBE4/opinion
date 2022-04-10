@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-09
+date: 2022-04-10
 from: https://old.reddit.com/r/geopolitics/comments/tvs6ur/piercing_the_fog_of_war_an_ongoing_effort/
 layout: post
 tags:
@@ -86,4 +86,10 @@ Try /r/geopolitics2.
 ----- __214.1__ -----2022-04-09 12:09:52+08:00:
 
 Alternatively, you could get the same exercise by getting a job at Home Depot unloading refrigerators.
+
+### 215: [Pevear/Volokhonsky Bicentennial Edition Changes to Notes from Underground? From “wicked” to “spite.”](https://old.reddit.com/r/dostoevsky/comments/u05xr6/pevearvolokhonsky_bicentennial_edition_changes_to/), submitted on 2022-04-10 08:18:17+08:00.
+
+----- __215.1__ -----2022-04-10 10:01:21+08:00:
+
+Volokhonsky's idiosyncrasies, Peaver's illiteracy and their collective inability to appreciate the difference between a connotation and denotation are why.
 

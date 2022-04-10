@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -773,7 +773,7 @@ Re @jeki50806373 仇俄可以理解。但天天指责中共撒谎的那群人热
 
 ### 190: [2022-04-08 22:12:01+08:00 推文](https://twitter.com/HeQinglian/status/1512433084335013902)
 
-农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。<br><br>RFI 華語 - 法國國際廣播電台: 世界糧農組織指全球食品價格創歷史新高<br><br><img style="" src="https://pbs.twimg.com/media/FP066qPVEAIwYtI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8JuC.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8JuC.t</a>
+农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。
 
 ### 191: [2022-04-08 22:16:37+08:00 推文](https://twitter.com/HeQinglian/status/1512434241950343171)
 
@@ -1042,4 +1042,84 @@ Re @JianglinLi @Wu_Zhi @david_david1968 应该早就禁了。似乎几年前有�
 ### 257: [2022-04-10 04:17:36+08:00 推文](https://twitter.com/HeQinglian/status/1512887472363032576)
 
 Re @ZhefuW @bo71531490 美国现在正在力主青少年变性、左派倡行取消文化，BLM时不时来点零元购，你觉得这是文明？
+
+### 258: [2022-04-10 08:21:05+08:00 推文](https://twitter.com/HeQinglian/status/1512948747831066625)
+
+Re @starfinder12 Q与DS是两码事。
+
+### 259: [2022-04-10 08:22:09+08:00 推文](https://twitter.com/HeQinglian/status/1512949017931571200)
+
+Re @Wazy1988bW<br><br>DW News: Pro-Russian convoys have been staged in several German cities, including Frankfurt, Hanover and Stuttgart.<br><br>They called for an end to discrimination against Russians, which they say has spiked since its invasion of Ukraine.<br><br>The latest:<br><br><img style="" src="https://pbs.twimg.com/media/FP62HGiXwAULHUC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP62HGlXsAA8kdI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP62HGmXoAEzmCM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP62HGiX0AY5ftO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://p.dw.com/p/49hGI" target="_blank" rel="noopener noreferrer">http://p.dw.com/p/49hGI</a>
+
+### 260: [2022-04-10 08:25:12+08:00 推文](https://twitter.com/HeQinglian/status/1512949782993862660)
+
+Re @ZhefuW @bo71531490 你又胡说了。中共从来就不批判美国吸麻、BLM零元购、LGBTQ、变性、绿能。拜托你弄清楚一点，以后喝高了别上推，有点云里雾里，让别人小瞧。
+
+### 261: [2022-04-10 08:29:18+08:00 推文](https://twitter.com/HeQinglian/status/1512950816629571585)
+
+Re @ZhefuW @bo71531490 自重一点。<br>我告诉你，中共批判美国民主虚伪，但决不会提2020年那单自己参与选举舞弊。中共巴不得美国更多人吸毒、变性、堕落至死。<br>你是文人，不与你争。自己离开。
+
+### 262: [2022-04-10 08:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1512952640090644483)
+
+Re @Masa99105474 你去灭吧，暗杀、放毒、下咒，全方位，哪条行就做哪条。<br>推上不少人想灭，你找他们，集体念咒，效果更好。
+
+### 263: [2022-04-10 09:05:11+08:00 推文](https://twitter.com/HeQinglian/status/1512959846479450116)
+
+Re @Wu_Zhi 2015年觉得欧洲各国那样处理难民潮匪夷所思，但今年这种操作，也让人无话可说。<br>匈牙利与奥地利算比较清醒，还有点国家主权意识，知道乌克兰重要，但本国民生也很重要。
+
+### 264: [2022-04-10 09:31:17+08:00 推文](https://twitter.com/HeQinglian/status/1512966414583447556)
+
+德国联邦国防军几乎没有可供给乌克兰的武器了 <br>德国前总理默克尔为任期内没有同意乌克兰靠近北约和欧盟而受到批评。默克尔为自己当年的政策做了辩护。但批评声持续不断，认为默对现在的乌克兰战争负有潜在的连带责任。现基民盟高层经过讨论后，明确支持前党领袖默克尔的路线。 <a href="https://rfi.my/8K6d.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K6d.T</a>
+
+### 265: [2022-04-10 09:33:56+08:00 推文](https://twitter.com/HeQinglian/status/1512967081511239683)
+
+Re 泽连斯基：“其他国家要效仿”英国 <br><br>8日，英国首相约翰逊宣布，将向乌克兰提供价值1亿英镑的武器。泽连斯基呼吁西方“效仿”英国给乌克兰军事援助的做法。<br>报道称，英国将向乌克兰提供的武器包括“星纹”防空导弹和800枚反坦克导弹。 <a href="https://rfi.my/8K6D.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K6D.T</a>
+
+### 266: [2022-04-10 09:40:38+08:00 推文](https://twitter.com/HeQinglian/status/1512968767663480832)
+
+Re @mingshi_chen 查尔斯王子是大重置核心人物。
+
+### 267: [2022-04-10 09:42:37+08:00 推文](https://twitter.com/HeQinglian/status/1512969268375207941)
+
+Re @JkYJ2l7mDTaxqhJ 为何不画两个拳头？更显铿锵有力。😂
+
+### 268: [2022-04-10 09:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1512970261456465933)
+
+Re @BeGood101H 余茂春没进拜登政府班子，他是共和党任用的人。所有，还有位置虚位以待，别谦虚。😂😂<br>现在没右派，都是左派，胜利果实如果有，也是他们自种自吃，我们也跟着吃苦，比如通胀。<br>好消息是：美国有28%的选民认为拜登通胀是正常的。
+
+### 269: [2022-04-10 09:48:21+08:00 推文](https://twitter.com/xiaxiaoqiang/status/1512970709609455616)
+
+RT xiaxiaoqiang 夏小強<br>壞知識分子就喜歡假冒上帝，對他人生活指手劃腳 <a href="https://www.xiaxiaoqiang.net/bad-intellectuals-like-to-pretend-to-be-god/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/bad-intellectuals-like-to-pretend-to-be-god/.html</a>
+
+### 270: [2022-04-10 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1512970911917486080)
+
+Re @seadognw 你放心，德国没请教克鲁格曼，德国经济有国师“五贤人”。<br>但他可以毛遂自荐，如果奥巴马愿意写推荐信，被聘用的可能性更大。
+
+### 271: [2022-04-10 09:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1512971214771437569)
+
+Re @xiaxiaoqiang 坏网V也同样如此，字没识几个，最喜欢指导他人生活，尤其是政治站队。
+
+### 272: [2022-04-10 09:52:11+08:00 推文](https://twitter.com/HeQinglian/status/1512971672521162752)
+
+Re @MarkHLeo1 没错啊，一些，不是大多数。<br>不如你的意，就建议别人学好英文，去你的。
+
+### 273: [2022-04-10 09:56:09+08:00 推文](https://twitter.com/HeQinglian/status/1512972671549591554)
+
+Re @zpw35198869 不是俄罗斯重要，是天然气重要。很不幸的是，俄罗斯对该国天然气拥有自然资源主权，不能够免费使用。
+
+### 274: [2022-04-10 09:56:48+08:00 推文](https://twitter.com/HeQinglian/status/1512972838218645510)
+
+Re @bt_bird 为什么看法要相同呢？
+
+### 275: [2022-04-10 10:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1512973699611303937)
+
+Re @davidyching 拜登是这样说的：让普京政权垮台。我知道欧盟会付出代价，但我会支援你们。3月25日签订协议，今年内美向欧洲追加供应150亿立方米天然气，在2027年前帮助欧洲摆脱对俄罗斯的能源依赖。不过，美媒评论称，该协议仅具象征意义。
+
+### 276: [2022-04-10 10:07:33+08:00 推文](https://twitter.com/HeQinglian/status/1512975543544819712)
+
+德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂<br><br>He Qinglian: 德国联邦国防军几乎没有可供给乌克兰的武器了 <br>德国前总理默克尔为任期内没有同意乌克兰靠近北约和欧盟而受到批评。默克尔为自己当年的政策做了辩护。但批评声持续不断，认为默对现在的乌克兰战争负有潜在的连带责任。现基民盟高层经过讨论后，明确支持前党领袖默克尔的路线。<br> <a href="https://rfi.my/8K6d.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K6d.T</a>
+
+### 277: [2022-04-10 10:13:07+08:00 推文](https://twitter.com/HeQinglian/status/1512976942206791686)
+
+Re @aaronfrist @MarkHLeo1 对不起，欧洲有匈牙利、奥地利、斯洛伐克等国早就自行其是了。他们国家不大，但也算欧洲领导人吧。<br>德国也有表态了。
 
