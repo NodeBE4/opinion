@@ -31,7 +31,7 @@ Chief Executive Carrie Lam once said she wanted to retire in the UK. Please don�
 
 ### 4: [2022-04-04 18:52:56+08:00 推文](https://twitter.com/nathanlawkc/status/1510933432704114696)
 
-What a BIG LIE promoted by the Chinese influencers, suggesting that all these massacres were committed by Ukrainian but not Russian soldiers. <br>The Chinese state has been supporting the invasion and hope that they can justify their potential war in the future.<br><br>The Great Translation Movement 大翻译运动官方推号: The slanderous lies of influential Chinese bloggers: "UKRAINIAN NAZIS ARE GENOCIDING PRO-RUSSIAN CIVILIANS"<br>#BuchaMassacre <br><br>@ArthurKei_UA @max_katz @maxseddon <br>#大翻译运动 #TheGreatTranslationMovement <br><br>FC:<br><br><img style="" src="https://pbs.twimg.com/media/FPfbOrcVUAI11as?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://tinyurl.com/fdkja7rw" target="_blank" rel="noopener noreferrer">http://tinyurl.com/fdkja7rw</a>
+What a BIG LIE promoted by the Chinese influencers, suggesting that all these massacres were committed by Ukrainian but not Russian soldiers. <br>The Chinese state has been supporting the invasion and hope that they can justify their potential war in the future.
 
 ### 5: [2022-04-04 19:40:20+08:00 推文](https://twitter.com/nathanlawkc/status/1510945361199828992)
 
@@ -87,5 +87,5 @@ With @TransworldBooks donating the books, I had my book signing session yesterda
 
 ### 18: [2022-04-09 22:35:15+08:00 推文](https://twitter.com/nathanlawkc/status/1512801317617606658)
 
-🇺🇦🇺🇦🇺🇦
+🇺🇦🇺🇦🇺🇦<br><br>Embassy of Ukraine to the UK: Surprise 😉<br><br><img style="" src="https://pbs.twimg.com/media/FP6D3xQXsAAA0Yw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
