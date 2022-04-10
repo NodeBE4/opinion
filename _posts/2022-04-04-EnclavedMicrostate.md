@@ -321,3 +321,13 @@ As for translated works, nearly the entire corpus of then-extant Taiping documen
 
 No problem! I would stress that the last two books on there need to be read with a grain of salt, as both are attempts – for differing reasons – to dispel the notion of the Taiping as 'real' Christians. Shih's main focus is locating Confucian influences in Taiping policies and manifestoes, while Boardman, a practicing Quaker, saw the Taiping's ostensible Old Testament focus and general violence as disqualifying them from his personal, denominationally-influenced definition of Christianity. Kilcourse, Reilly, and Wagner offer more rounded views.
 
+### 330: [What's up with the lockdown in Shanghai?](https://old.reddit.com/r/OutOfTheLoop/comments/u0coj4/whats_up_with_the_lockdown_in_shanghai/), submitted on 2022-04-10 15:34:21+08:00.
+
+----- __330.1__ -----2022-04-11 02:54:07+08:00:
+
+> Hong Kong is overrun
+
+I'd amend that to 'has been overrun'; cases peaked at the beginning of March but tailed off relatively quickly and we're back at 4-digit daily case numbers and falling (plus there's just been a 3-day citywide mass test which actually hasn't turned up *that* many more cases than were being reported already). That said, basically one in every seven people caught Omicron, and we've had nearly 9000 deaths which, while not a lot compared to some places, is still 9000 too many in one way or another.
+
+It's also worth adding that 'zero covid policy' can manifest very differently in different places. For instance, HK never went under any form of strict lockdown, even during this Omicron wave. Zero-covid has been less the name of a singular strategy and more of a target, one reached mainly through *comparatively* limited distancing measures (escalated as necessary) and contact tracing.
+
