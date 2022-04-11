@@ -353,3 +353,9 @@ To quote The Big Lebowski, 'that's just like your opinion, man.' The VTuber comm
 
 I mean, that's the whole mess with Mikeneko/>!Rushia!<, isn't it? Cover was in a way extraordinarily kind in being relatively vague about the precise circumstances of the leaks and their specific implications vis-a-vis her contract, but that has opened up the possibility of both hardcore fans defending absolutely everything on her part and blaming everything on Cover, *and* hardcore antis blaming absolutely everything on her.
 
+----- __331.5__ -----2022-04-12 02:50:58+08:00:
+
+A bit of an update to this situation because it is pertinent, but I do want to issue a content warning in advance. It has since come out that the alleged fan trying to buy the Genshin account was actually an anti who was deliberately stirring shit for Mikeneko, allegedly (TW now) >!'until she kills herself'!<. This is based on screencaps of in-game DMs with said user, with the originals posted on Twitter [here](https://twitter.com/soukyuu_813/status/1513490080198901760?s=21&t=5SCsZCOa7M2lcrCke-yVrw). Unfortunately I don't have a translation to hand and have been going off a friend's translation of it. That said, there are a few updates on the VirtualYoutubers megathread that give some more info:
+
+https://www.reddit.com/r/VirtualYoutubers/comments/u13r10/%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A_%E4%BA%BA%E9%96%93_%E6%85%B0%E3%82%81_weekly_discussion_thread_april_11th/i4b4phk/
+
