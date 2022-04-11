@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -78,4 +78,40 @@ Re @reindee2022 这美军司令用词有意思。<br>战争比的就是如何最
 ### 16: [2022-04-11 20:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1513500849921789953)
 
 Re @RealBeiMing 比较喜感的是：中国大多数知识分子心中的美国就是你讲的百余年甚至两百年前的美国。<br>如果告诉他们今天的美国，在他们看来，就是黑化美国。
+
+### 17: [2022-04-11 21:11:39+08:00 推文](https://twitter.com/HeQinglian/status/1513505057140006919)
+
+Re @KELMAND1 我每天都看西方主流媒体，就连路透这种非常谨慎尽量少登具体假信息的媒体，在势态的判断上，也认为俄罗斯已经输定了，目前所做的一切，只不过是为挽回普京面子与颓势所做。<br>网络时代，假作真时真亦假。自己高兴保持人气（支持率）就行。1984中战争即和平、真理即谬误终于来临。
+
+### 18: [2022-04-11 21:17:36+08:00 推文](https://twitter.com/HeQinglian/status/1513506554288517126)
+
+上海这个中国经济之都，无论如何都经不住这么折腾。<br>1、上海的病毒就算清零，以后是不是闭关封城？<br>2、中国的病毒就算清零，以后是不是闭关锁国？<br>如果两者都做不到，中国每天得让世界各国人士进入国门，学会与病毒共存可能比较现实。<br>说到底，当初就不应该与美国合作研究美国本土不让研究的病毒项目。<br><br>华尔街日报中文网: 上海宣布对2,500万居民进行新一轮大规模检测，卫生部门公布本土单日新增感染病例数再度创下新高，同时美国国务院授权驻上海领事馆的外交官自愿撤离。<br> <a href="https://on.wsj.com/3jq26bz" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3jq26bz</a>
+
+### 19: [2022-04-11 21:20:45+08:00 推文](https://twitter.com/HeQinglian/status/1513507346256965641)
+
+Re @damingkan2 理论是灰色的，生命之树常青。<br>只有左派最喜欢用理论规范世界。
+
+### 20: [2022-04-11 21:31:16+08:00 推文](https://twitter.com/HeQinglian/status/1513509994171359238)
+
+Re @Hunter31032008 他最近当了Twitter 的CEO？<br>如果不是，就让他发怒吧，可以自成一圈，但他还不能取消别人。<br>话说，在拜登与左派大选舞弊问题上，他们立场高度一致，并肩战斗了几年。
+
+### 21: [2022-04-11 21:33:25+08:00 推文](https://twitter.com/HeQinglian/status/1513510534481694728)
+
+Re @Jessie2021626 @JiangShangrong 孔子早就说过：知之为知之，不知为不知，是知也。
+
+### 22: [2022-04-11 21:40:05+08:00 推文](https://twitter.com/HeQinglian/status/1513512211544686597)
+
+Re @wen_spring 中东北非四国的情形大致这样：阿拉伯之春失败后，不少多为奥巴马支持过的武装力量，加上伊拉克流窜的萨达姆势力，曾集中攻击过叙利亚政权，该国政权由于俄支持未能被推翻。这些势力成为反叙利亚政府武装力量，最后演变成ISIS。然后的故事世界皆知，就美国底层左派不知。
+
+### 23: [2022-04-11 21:53:55+08:00 推文](https://twitter.com/HeQinglian/status/1513515692334759945)
+
+瑞银集团：美国2月份年通胀率升至7.9%，3月通胀率可能达到8.5%，是自1981年以来的最高水平<br>德国Sentix近日发布调查报告，逾1000名主要投资者认为全球的经济衰退已“近在咫尺”（just around the corner）。<br>美国银行首席投资策略师迈克尔·哈奈特称，“通胀总是先于衰退，美联储货币政策将引发“衰退冲击”。
+
+### 24: [2022-04-11 22:06:16+08:00 推文](https://twitter.com/HeQinglian/status/1513518800888639499)
+
+Re @StonevWZo7o9 @RealBeiMing 😂我这天天有号这样控诉呢。
+
+### 25: [2022-04-11 22:14:25+08:00 推文](https://twitter.com/HeQinglian/status/1513520853350338560)
+
+Re @gliderhook “此次地下援俄也很难破解”，大概就是金融支付系统帮点忙，多买自己也需要的能源。<br>其余不算，比如UN表态、舆论支持，那是公开的。<br>美国自家也承认没有证据表明中国对俄提供军事援助，两次。
 

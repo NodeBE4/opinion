@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看看，习是知道这些用来对付谁的。
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -45,7 +45,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
-这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！
+这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！<br><br>新闻/真话: 上海程序员有善心，想减少封城引发的次生灾害，就搞了一个上海人自救网站，让网友把自己的紧急情况登记在上面，本来是功德无量的事，却无意间曝光了中共的罪恶，导致中共恼羞成怒，封杀了这个救人的网站<br><br><img style="" src="https://pbs.twimg.com/media/FP_lJ19agAMzv-r?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP_lJ1-agAM1B4Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-04-11 13:38:12+08:00 推文](https://twitter.com/realcaixia/status/1513390942648078337)
 
@@ -54,4 +54,8 @@ Re 两岸同文同种是不能否认的，就像人都无法选择父母一样�
 ### 10: [2022-04-11 13:49:16+08:00 推文](https://twitter.com/realcaixia/status/1513393725614874624)
 
 Re 古人说“见贤思齐”，台湾是大陆的榜样，台湾是华人世界的骄傲，大陆人学习台湾理所应当。天助自助者。大陆的转型只能靠大陆人自己努力，外部力量的推动与帮助固然很重要很必要，但推动宪政民主转型，基础的首要的是大陆民众我们自己站起来，把自己的命运掌握在自己的手中，不做任人宰割的猪羊。
+
+### 11: [2022-04-11 22:17:03+08:00 推文](https://twitter.com/realcaixia/status/1513521516234878976)
+
+Re @lianchaohan 习是人祸制造者。
 
