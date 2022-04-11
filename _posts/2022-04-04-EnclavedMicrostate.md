@@ -331,3 +331,11 @@ I'd amend that to 'has been overrun'; cases peaked at the beginning of March but
 
 It's also worth adding that 'zero covid policy' can manifest very differently in different places. For instance, HK never went under any form of strict lockdown, even during this Omicron wave. Zero-covid has been less the name of a singular strategy and more of a target, one reached mainly through *comparatively* limited distancing measures (escalated as necessary) and contact tracing.
 
+### 331: [[Hobby Scuffles] Week of April 11, 2022](https://old.reddit.com/r/HobbyDrama/comments/u0jd14/hobby_scuffles_week_of_april_11_2022/), submitted on 2022-04-10 23:00:14+08:00.
+
+----- __331.1__ -----2022-04-11 19:25:30+08:00:
+
+> >!recently and suddenly fired for breaking NDA!<
+
+While a common statement, I've never seen firm evidence that it was an NDA that was broken, or more specifically, that it was the disclosure aspect of the contract. As it stands, Cover has not and likely will not ever disclose the nature of the contract breaches.
+
