@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看看，习是知道这些用来对付谁的。
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 

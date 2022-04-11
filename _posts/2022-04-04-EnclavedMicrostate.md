@@ -349,3 +349,7 @@ To put it another way, an NDA is an agreement not to disclose *specific* informa
 
 To quote The Big Lebowski, 'that's just like your opinion, man.' The VTuber community tends to latch on to very specific language and talking points where the basis in fact is reasonable but not definitive, and I prefer to push back on it when I see it. As stated, Cover did not specify if it was the formal non-disclosure clause that Rushia violated, and that being the case it is not correct to state unequivocally that it was.
 
+----- __331.4__ -----2022-04-12 02:42:02+08:00:
+
+I mean, that's the whole mess with Mikeneko/>!Rushia!<, isn't it? Cover was in a way extraordinarily kind in being relatively vague about the precise circumstances of the leaks and their specific implications vis-a-vis her contract, but that has opened up the possibility of both hardcore fans defending absolutely everything on her part and blaming everything on Cover, *and* hardcore antis blaming absolutely everything on her.
+
