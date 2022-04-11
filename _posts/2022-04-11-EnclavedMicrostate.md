@@ -27,3 +27,9 @@ Yep, a radio series, a book series based on the radio series, a semi-rebooted ra
 
 Also *The Outlaw Josey Wales*, *Hang 'Em High*, and *Ambush at Cimmaron Pass*.
 
+### 334: [Making Zetamemes everyday until r/hololive add her flair: day 2](https://old.reddit.com/r/Hololive/comments/u11tte/making_zetamemes_everyday_until_rhololive_add_her/), submitted on 2022-04-11 15:11:35+08:00.
+
+----- __334.1__ -----2022-04-11 20:50:56+08:00:
+
+...You mean Uproar, right? (ditto to /u/InfernoMax)
+

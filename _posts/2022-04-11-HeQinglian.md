@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -62,4 +62,20 @@ Re @Wu_Zhi 美国外交事务文章忧心忡忡，希望拜登正视美元金融
 ### 12: [2022-04-11 11:30:14+08:00 推文](https://twitter.com/HeQinglian/status/1513358738165534720)
 
 Re @AutocxD 不是临阵换将，我也是看完后才明白：俄对乌战争根本没有统一指挥官，每条战线各自为战。<br>这次派他是做最高的统一指挥官，其实也就是顿巴斯战役这一关键战役了。
+
+### 13: [2022-04-11 20:48:23+08:00 推文](https://twitter.com/HeQinglian/status/1513499201015013380)
+
+Re @CronosIguana 康奈尔大学是极左摇篮，一堆教授成天从各方面想着解构美国宪政与资本主义制度。<br>AOC的绿色新政就是这个大学的几个人代拟的。
+
+### 14: [2022-04-11 20:48:57+08:00 推文](https://twitter.com/HeQinglian/status/1513499342115680261)
+
+Re @abc__china 文中说了，已经在进行中，
+
+### 15: [2022-04-11 20:52:30+08:00 推文](https://twitter.com/HeQinglian/status/1513500235070423047)
+
+Re @reindee2022 这美军司令用词有意思。<br>战争比的就是如何最大限度地消灭敌人、保存自己。这美军司令的“坏人”如果是指这，这位将军让他们害怕。
+
+### 16: [2022-04-11 20:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1513500849921789953)
+
+Re @RealBeiMing 比较喜感的是：中国大多数知识分子心中的美国就是你讲的百余年甚至两百年前的美国。<br>如果告诉他们今天的美国，在他们看来，就是黑化美国。
 

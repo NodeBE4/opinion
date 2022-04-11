@@ -339,3 +339,13 @@ It's also worth adding that 'zero covid policy' can manifest very differently in
 
 While a common statement, I've never seen firm evidence that it was an NDA that was broken, or more specifically, that it was the disclosure aspect of the contract. As it stands, Cover has not and likely will not ever disclose the nature of the contract breaches.
 
+----- __331.2__ -----2022-04-11 20:26:49+08:00:
+
+In the most pedantic terms, an NDA is an agreement not to disclose *the terms of the agreement itself*. Now, those terms will typically include other information not to be disclosed and therefore come under the NDA's purview, but not *every* leak is a violation of the non-disclosure clauses of a non-disclosure agreement; there can be other forms of contract violation involving leaks of information not otherwise covered in direct terms by an NDA.
+
+To put it another way, an NDA is an agreement not to disclose *specific* information to a third party, but it is theoretically possible to leak information not covered by that specific agreement but still violate contract in doing so if there are other terms on communications. It's true that it was *probably* an NDA clause violated, but because that specific language was not used, I think there is reason enough to suggest that it is not 100% clear that it was the non-disclosure element of the contract that was violated, and that it should not be stated with unequivocal certainty.
+
+----- __331.3__ -----2022-04-11 20:49:52+08:00:
+
+To quote The Big Lebowski, 'that's just like your opinion, man.' The VTuber community tends to latch on to very specific language and talking points where the basis in fact is reasonable but not definitive, and I prefer to push back on it when I see it. As stated, Cover did not specify if it was the formal non-disclosure clause that Rushia violated, and that being the case it is not correct to state unequivocally that it was.
+
