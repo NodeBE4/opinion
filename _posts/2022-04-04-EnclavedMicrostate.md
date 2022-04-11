@@ -337,7 +337,7 @@ It's also worth adding that 'zero covid policy' can manifest very differently in
 
 > >!recently and suddenly fired for breaking NDA!<
 
-While a common statement, I've never seen firm evidence that it was an NDA that was broken, or more specifically, that it was the disclosure aspect of the contract. As it stands, Cover has not and likely will not ever disclose the nature of the contract breaches.
+While a common statement, I've never seen firm evidence that it was an NDA that was broken, or more specifically, that it was the disclosure aspect of the contract. As it stands, Cover has not and likely will not ever disclose the exact nature of the contract breaches.
 
 ----- __331.2__ -----2022-04-11 20:26:49+08:00:
 
