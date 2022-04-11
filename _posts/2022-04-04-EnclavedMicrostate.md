@@ -271,15 +271,29 @@ This question has been removed because it is [soapboxing](https://www.reddit.com
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 325: [Someone told me that India and China where barely aware of each other's existence for most of history, is this true?](https://old.reddit.com/r/AskHistorians/comments/tz6ut8/someone_told_me_that_india_and_china_where_barely/), submitted on 2022-04-09 00:03:06+08:00.
+### 325: [It is said that the European military revolution in the early modern era was caused by innovation resulting from the endless fighting amongst the various European powers. But endless conflict was also a reality in other parts of Eurasia. Then why did a military revolution not occur anywhere else?](https://old.reddit.com/r/AskHistorians/comments/tz0w69/it_is_said_that_the_european_military_revolution/), submitted on 2022-04-08 18:57:56+08:00.
 
------ __325.1__ -----2022-04-09 01:28:10+08:00:
+----- __325.1__ -----2022-04-12 03:43:58+08:00:
+
+Before getting into the meat of my comment I do just want to say big ups for a great answer! What I'm highlighting here is not a problem with the answer itself but rather one of its sources:
+
+> One explanation offered by Andrade was that military innovation and evolution quickened during periods of intense warfare and thus the degradation of East Asian military capabilities could attributed to the long periods of relative peace that predominated East Asia after the wars which marked the Ming-Qing transition.
+
+Interesting as Andrade's thesis is on this count, I would note that there are some reasonable objections to it. Namely, Andrade chooses the conclusion of the Zunghar campaigns ca. 1759 as the cutoff point for Qing military activity, but as recent work by Ulrich Theobald has shown, the logistical mobilisation for the Second Jinchuan War in the 1770s was quite substantial in itself, and Dai Yingcong's recent history of the White Lotus Rebellion has similarly highlighted the scale of military conflict here. What is perhaps less easy to excuse is the overlooking of the quite substantial Burmese and Vietnamese debacles in which the Qing expended quite extraordinary resources; the former of these had already been written about by Dai back in 2004.
+
+I suspect part of why Andrade felt so confident making his case, besides a simple lack of research into the wars of the later Qianlong reign, was his misreading of Peter Perdue's work on the Zunghar wars and perhaps the Military Revolution thesis in and of itself. While the Military Revolution thesis does seek to explain military change, as originally conceived this was as a means of explaining *political and societal change* first and foremost, as you note at the start of your answer. A particular passage from Perdue that Andrade cites as arguing that innovation in military *technology* resulted from the Zunghar wars is, on closer inspection, an argument that military *institutions* saw substantial expansion and reform, not because the Zunghar wars presented a particular tactical challenge, but rather a logistical one that necessitated substantial increases in state investment in support infrastructure for large field armies.
+
+In effect, my beef with Andrade's formulation of the 'Great Qing Peace' is that it requires presuming that the Zunghar wars were necessarily seen as unique in the Qing official mind, and that the end of those wars meant the end of serious military engagement in general, when some of the largest campaigns undertaken by the Qing would come about decades later.
+
+### 326: [Someone told me that India and China where barely aware of each other's existence for most of history, is this true?](https://old.reddit.com/r/AskHistorians/comments/tz6ut8/someone_told_me_that_india_and_china_where_barely/), submitted on 2022-04-09 00:03:06+08:00.
+
+----- __326.1__ -----2022-04-09 01:28:10+08:00:
 
 More can of course be said, but for a specific case study I discuss Qing (lack of) relations with the Mughal Empire [here](https://www.reddit.com/r/AskHistorians/comments/qlfr99/how_was_the_relationship_between_qing_china_and/hj65yek/). Matthew Mosca's *Matthew Mosca's From Frontier Policy to Foreign Policy: The Question of India and the Transformation of Geopolitics in Qing China* (2013), on which the answer is based, would be the book to read for a wider overview of Qing approaches to India.
 
-### 326: [Indian and Qing thinkers had varying opinions on dealing with western culture—which method led to greater success in opposing western imperialism?](https://old.reddit.com/r/AskHistorians/comments/tz7e05/indian_and_qing_thinkers_had_varying_opinions_on/), submitted on 2022-04-09 00:27:14+08:00.
+### 327: [Indian and Qing thinkers had varying opinions on dealing with western culture—which method led to greater success in opposing western imperialism?](https://old.reddit.com/r/AskHistorians/comments/tz7e05/indian_and_qing_thinkers_had_varying_opinions_on/), submitted on 2022-04-09 00:27:14+08:00.
 
------ __326.1__ -----2022-04-09 01:28:44+08:00:
+----- __327.1__ -----2022-04-09 01:28:44+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -287,21 +301,21 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 327: [People are being driven to the brink from lockdowns in Shanghai & other cities - One Brave Person Says What Everyone Else is Thinking](https://old.reddit.com/r/PublicFreakout/comments/tzfg5w/people_are_being_driven_to_the_brink_from/), submitted on 2022-04-09 06:48:11+08:00.
+### 328: [People are being driven to the brink from lockdowns in Shanghai & other cities - One Brave Person Says What Everyone Else is Thinking](https://old.reddit.com/r/PublicFreakout/comments/tzfg5w/people_are_being_driven_to_the_brink_from/), submitted on 2022-04-09 06:48:11+08:00.
 
------ __327.1__ -----2022-04-09 13:49:09+08:00:
+----- __328.1__ -----2022-04-09 13:49:09+08:00:
 
 We ought not to act as though Hong Kong's local authorities are incapable of making bad decisions. To be quite honest, a lot of the extremes of COVID policy in China, both in Hong Kong and on the mainland, have been the result of the *lack* of a coherent central strategy. Local authorities at various levels have been more or less winging it, in part because COVID cases have, until recently, been so low that there have been more resources built up, that have in turn been spent on much more severe interventions. The hamster cull wasn't a case of 'Beijing came for your pets', it was a case of 'HK local authorities, with a lot of resources but still very low case numbers to have to deal with, trying to look like they're doing something really important.'
 
-### 328: [Who is your favorite singer in hololive?](https://old.reddit.com/r/Hololive/comments/tzjyeq/who_is_your_favorite_singer_in_hololive/), submitted on 2022-04-09 10:56:23+08:00.
+### 329: [Who is your favorite singer in hololive?](https://old.reddit.com/r/Hololive/comments/tzjyeq/who_is_your_favorite_singer_in_hololive/), submitted on 2022-04-09 10:56:23+08:00.
 
------ __328.1__ -----2022-04-09 12:57:53+08:00:
+----- __329.1__ -----2022-04-09 12:57:53+08:00:
 
 Noel. She tries so very, very hard.
 
-### 329: [Looking for places to read what’s been translated of the Taiping Heavenly Kingdom/God Worshipping Society scriptures, as well as books more generally on their theology](https://old.reddit.com/r/ChineseHistory/comments/u0c3qm/looking_for_places_to_read_whats_been_translated/), submitted on 2022-04-10 14:51:38+08:00.
+### 330: [Looking for places to read what’s been translated of the Taiping Heavenly Kingdom/God Worshipping Society scriptures, as well as books more generally on their theology](https://old.reddit.com/r/ChineseHistory/comments/u0c3qm/looking_for_places_to_read_whats_been_translated/), submitted on 2022-04-10 14:51:38+08:00.
 
------ __329.1__ -----2022-04-10 17:52:33+08:00:
+----- __330.1__ -----2022-04-10 17:52:33+08:00:
 
 Taiping theology is a pretty well-studied topic, though the older of a work you look at, generally the less good it is. The things to read, in descending order, would be:
 
@@ -317,13 +331,13 @@ Taiping theology is a pretty well-studied topic, though the older of a work you 
 
 As for translated works, nearly the entire corpus of then-extant Taiping documents was translated by a team from the University of California back in the late 1960s, and published in 1971 as the second and third volumes of *The Taiping Rebellion: Documents and Comments*.
 
------ __329.2__ -----2022-04-10 18:17:09+08:00:
+----- __330.2__ -----2022-04-10 18:17:09+08:00:
 
 No problem! I would stress that the last two books on there need to be read with a grain of salt, as both are attempts – for differing reasons – to dispel the notion of the Taiping as 'real' Christians. Shih's main focus is locating Confucian influences in Taiping policies and manifestoes, while Boardman, a practicing Quaker, saw the Taiping's ostensible Old Testament focus and general violence as disqualifying them from his personal, denominationally-influenced definition of Christianity. Kilcourse, Reilly, and Wagner offer more rounded views.
 
-### 330: [What's up with the lockdown in Shanghai?](https://old.reddit.com/r/OutOfTheLoop/comments/u0coj4/whats_up_with_the_lockdown_in_shanghai/), submitted on 2022-04-10 15:34:21+08:00.
+### 331: [What's up with the lockdown in Shanghai?](https://old.reddit.com/r/OutOfTheLoop/comments/u0coj4/whats_up_with_the_lockdown_in_shanghai/), submitted on 2022-04-10 15:34:21+08:00.
 
------ __330.1__ -----2022-04-11 02:54:07+08:00:
+----- __331.1__ -----2022-04-11 02:54:07+08:00:
 
 > Hong Kong is overrun
 
@@ -331,29 +345,29 @@ I'd amend that to 'has been overrun'; cases peaked at the beginning of March but
 
 It's also worth adding that 'zero covid policy' can manifest very differently in different places. For instance, HK never went under any form of strict lockdown, even during this Omicron wave. Zero-covid has been less the name of a singular strategy and more of a target, one reached mainly through *comparatively* limited distancing measures (escalated as necessary) and contact tracing.
 
-### 331: [[Hobby Scuffles] Week of April 11, 2022](https://old.reddit.com/r/HobbyDrama/comments/u0jd14/hobby_scuffles_week_of_april_11_2022/), submitted on 2022-04-10 23:00:14+08:00.
+### 332: [[Hobby Scuffles] Week of April 11, 2022](https://old.reddit.com/r/HobbyDrama/comments/u0jd14/hobby_scuffles_week_of_april_11_2022/), submitted on 2022-04-10 23:00:14+08:00.
 
------ __331.1__ -----2022-04-11 19:25:30+08:00:
+----- __332.1__ -----2022-04-11 19:25:30+08:00:
 
 > >!recently and suddenly fired for breaking NDA!<
 
 While a common statement, I've never seen firm evidence that it was an NDA that was broken, or more specifically, that it was the disclosure aspect of the contract. As it stands, Cover has not and likely will not ever disclose the exact nature of the contract breaches.
 
------ __331.2__ -----2022-04-11 20:26:49+08:00:
+----- __332.2__ -----2022-04-11 20:26:49+08:00:
 
 In the most pedantic terms, an NDA is an agreement not to disclose *the terms of the agreement itself*. Now, those terms will typically include other information not to be disclosed and therefore come under the NDA's purview, but not *every* leak is a violation of the non-disclosure clauses of a non-disclosure agreement; there can be other forms of contract violation involving leaks of information not otherwise covered in direct terms by an NDA.
 
 To put it another way, an NDA is an agreement not to disclose *specific* information to a third party, but it is theoretically possible to leak information not covered by that specific agreement but still violate contract in doing so if there are other terms on communications. It's true that it was *probably* an NDA clause violated, but because that specific language was not used, I think there is reason enough to suggest that it is not 100% clear that it was the non-disclosure element of the contract that was violated, and that it should not be stated with unequivocal certainty.
 
------ __331.3__ -----2022-04-11 20:49:52+08:00:
+----- __332.3__ -----2022-04-11 20:49:52+08:00:
 
 To quote The Big Lebowski, 'that's just like your opinion, man.' The VTuber community tends to latch on to very specific language and talking points where the basis in fact is reasonable but not definitive, and I prefer to push back on it when I see it. As stated, Cover did not specify if it was the formal non-disclosure clause that Rushia violated, and that being the case it is not correct to state unequivocally that it was.
 
------ __331.4__ -----2022-04-12 02:42:02+08:00:
+----- __332.4__ -----2022-04-12 02:42:02+08:00:
 
 I mean, that's the whole mess with Mikeneko/>!Rushia!<, isn't it? Cover was in a way extraordinarily kind in being relatively vague about the precise circumstances of the leaks and their specific implications vis-a-vis her contract, but that has opened up the possibility of both hardcore fans defending absolutely everything on her part and blaming everything on Cover, *and* hardcore antis blaming absolutely everything on her.
 
------ __331.5__ -----2022-04-12 02:50:58+08:00:
+----- __332.5__ -----2022-04-12 02:50:58+08:00:
 
 A bit of an update to this situation because it is pertinent, but I do want to issue a content warning in advance. It has since come out that the alleged fan trying to buy the Genshin account was actually an anti who was deliberately stirring shit for Mikeneko, allegedly (TW now) >!'until she kills herself'!<. This is based on screencaps of in-game DMs with said user, with the originals posted on Twitter [here](https://twitter.com/soukyuu_813/status/1513490080198901760?s=21&t=5SCsZCOa7M2lcrCke-yVrw). Unfortunately I don't have a translation to hand and have been going off a friend's translation of it. That said, there are a few updates on the VirtualYoutubers megathread that give some more info:
 
