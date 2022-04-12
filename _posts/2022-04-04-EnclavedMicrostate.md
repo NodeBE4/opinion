@@ -373,3 +373,36 @@ A bit of an update to this situation because it is pertinent, but I do want to i
 
 https://www.reddit.com/r/VirtualYoutubers/comments/u13r10/%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A_%E4%BA%BA%E9%96%93_%E6%85%B0%E3%82%81_weekly_discussion_thread_april_11th/i4b4phk/
 
+----- __332.6__ -----2022-04-12 16:02:42+08:00:
+
+The [initial top-level](https://www.reddit.com/r/HobbyDrama/comments/u0jd14/hobby_scuffles_week_of_april_11_2022/i49sik1/) discussing this drama is now collapsed due to downvotes so, even though that comment is less than 24 hours old, I feel like the update ought to come as a new top-level comment, and I suppose I will be laying the groundwork all over again. A Japanese streamer going by Mikeneko, who recently re-emerged after a relatively long hiatus from active content creation, has been somewhat of a locus for drama of late, primarily because – and this is spoilered out for reasons of etiquette – >!She was, from July 2019 to February 2022, the person behind Hololive 3rd Generation's Uruha Rushia, until her contract was terminated over incidents where she leaked internal information to third parties.!< Much of the drama in February and March has had to do with that, and arguments over degrees of fault at various levels have gone every which way in that time. That being said, however much blame she may or may not deserve, it seems worth stating for the record that outright harassment over the affair was not, is not, and will not ever be justified.
+
+While there were a couple of incidents in late February and early March, Mikeneko has genuinely managed to avoid instigating controversy for a couple of weeks now, which some have attributed in part to her having been reached out to by a number of former colleagues, particularly kson and possibly also Delutaya. (Again, spoilered for etiquette: >!kson was formerly Kiryu Coco, who inadvertently instigated [the 'Taiwan Incident'](https://www.reddit.com/r/HobbyDrama/comments/jjkyoc/virtual_youtuber_the_hololive_taiwan_controversy/) at Cover/Hololive in late 2020 and who retired on amicable terms in July 2021; Delutaya was formerly Mano Aloe, who [retired very shortly after debut](https://www.reddit.com/r/HobbyDrama/comments/jeui8v/virtual_youtubers_her_name_was_mano_aloe_a_fan/) due to a social media hate mob.!<) That said it's also quite probable that she herself has calmed down and come to terms with things a lot on her own, so that's good, and she's slowly getting back into streaming with relatively little in the way of fresh controversy.
+
+This all changed in the last couple of days, a little after Mikeneko announced she would be playing Genshin Impact on stream. Here's what ostensibly happened next: a Genshin player under the username Neko, who claimed to be a Mikeneko fan, approached another player named Nanase, asking about buying an account off them. Neko's tone was apparently quite rude, and subsequently Nanase Tweeted out screencaps of the conversation stating that they had heard of multiple Genshin players being approached by Mikeneko fans to buy their accounts, and posting the screencaps as a warning. Said Tweet was tagged with the hashtag for Mikeneko, and in that classic social media game of telephone, this led to some believing that Mikeneko herself was trying to buy people's accounts, when what Nanase seemed to be suggesting was simply that Mikeneko *fans* were trying to buy accounts in advance of her playing the game. This, of course, led to Genshin players harassing Mikeneko. In turn, Mikeneko fans asked Nanase to retract their statements, but while they apologised for using the hashtag they stated that they would only take down the Tweets if specifically requested to by Mikeneko.
+
+Mikeneko's immediate response could have been better. She did QRT the original Tweet by Nanase asking for it to be taken down, but she also posted and quickly deleted a couple of somewhat flippant Tweets vaguely alluding to the situation that, surprise surprise, drew the ire of more antis. However, she also alleged that her unwillingness to take Nanase seriously came about because they had themselves been somewhat of an anti in the past. Put a pin in that.
+
+What has since come out, per [this thread in Japanese](https://twitter.com/soukyuu_813/status/1513490080198901760?s=21&t=5SCsZCOa7M2lcrCke-yVrw), with a summary [here](https://www.reddit.com/r/VirtualYoutubers/comments/u13r10/%E3%81%AE%E3%82%93%E3%81%B3%E3%82%8A_%E4%BA%BA%E9%96%93_%E6%85%B0%E3%82%81_weekly_discussion_thread_april_11th/i4b4phk/) on the VirtualYoutubers subreddit, is that the 'Neko' account was almost certainly part of a ring of Rushia antis based on Discord. Their end goal was, in their own words, to deliberately stir up drama for Mikeneko to the point where (major TW ahead) >!she would kill herself!<. Subsequently, Mikeneko [issued a more formal apology](https://twitter.com/95rn16/status/1513620840013004800) in which she asked both for her fans to not take provocative actions but also to ask for them not to also be harassed over the recent happenings. And that might have been the end of that.
+
+Right?
+
+Wrong.
+
+If you were following the earlier Mikeneko drama, then the name Korekore will ring some pretty big bells. Whether these are good or bad bells will depend, but needless to say, when Korekore is involved, things are about to get messy. Whatever his faults, he does seem pretty thorough, and he had apparently noticed that many of the players who had come out with evidence of being approached by Neko and other alleged Mikeneko fans about purchasing accounts had, in fact, previously expressed some level of annoyance over Mikeneko saying she'd be playing. On a stream earlier today, while he didn't state it definitively, he did voice his suspicion that this could not have been pure coincidence, and that there was quite probably some kind of coordinated hoax, with 'Neko' being a sockpuppet of one of the Discord antis.
+
+2 hours ago as of writing, Nanase [tweeted a statement](https://twitter.com/nns_kokomi/status/1513758569207775234) in the wake of Korekore's stream stating as follows (translation thanks to /u/_dk):
+
+> About the hoax that I perpetuated mentioned by Korekore's stream:
+
+> The tweets I made about the harassment in Genshin were all staged by myself. I am very sorry.
+
+> I wanted to use Mikeneko-san's name to make a hit tweet. That's the sort of casual feeling I had when I made that tweet. I did not expect the tweet to have such a wide impact, and now I am very sorry for what I did.
+
+> I am truly sorry.  
+> I don't think my apology will make this okay.  
+> I am truly sorry to Mikeneko-san.  
+> To everyone in the Genshin fandom, I am the one most responsible for debasing our conduct and reputation. For that I am sorry.
+
+In other words, the entire thing was a hoax staged by Nanase, intended to bully Mikeneko at the very least out of playing Genshin and potentially far worse.
+
