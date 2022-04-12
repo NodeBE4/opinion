@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-11
+date: 2022-04-12
 from: https://old.reddit.com/r/interestingasfuck/comments/u0yw8a/without_barriers_the_british_still_know_how_to/
 layout: post
 tags:
@@ -38,4 +38,17 @@ Also *The Outlaw Josey Wales*, *Hang 'Em High*, and *Ambush at Cimmaron Pass*.
 ----- __336.1__ -----2022-04-12 11:17:42+08:00:
 
 Calli also apparently learned Latin at school, so that also doesn't save us.
+
+### 337: [Mio gave Fubuki a ring! This is not a drill, Mio gave Fubuki a ring!! This truly is フブミオてぇてぇ of the purest quality~ (TL by Major Arcana #310 Big God Mion)](https://old.reddit.com/r/Hololive/comments/u1kivz/mio_gave_fubuki_a_ring_this_is_not_a_drill_mio/), submitted on 2022-04-12 07:15:18+08:00.
+
+----- __337.1__ -----2022-04-12 12:16:05+08:00:
+
+Um... yeah? Kinda?
+
+Well, there's two aspects to this. The first is that simply put, calling them lovers is applying modern standards to ancient Macedonian society. Alexander almost certainly did not see his relationship with Hephaistion as equivalent to that with, say, Roxane; that is to say it wasn't just 'the same thing, but with a man'.
+
+The other is that the sources that play up the possible romantic and/or sexual relationship between Alexander and Hephaistion are... dubious. It's very clear that Alexander was in some way very affectionate towards Hephaistion and we do get this from the majority of the source material, but the sources suggesting this went beyond a deeply affectionate friendship are those that try to map Alexander and Hephaistion onto Achilles and Patroklos. These sources are problematic on this count because they try to paint Alexander as a quintessentially Greek hero, almost a walking embodiment of Greek high culture, instead of as a Macedonian warlord. In effect, the 'Achilles+Hephaistion = Achilles+Patroklos' narrative is one rooted more in Greek chauvinism than historical fact.
+
+
+Oh also with Mio she did say the garnet was for 'friendship' specifically, so I feel like that's explicit enough of an indication. We’re not at Noel/Flare levels of platinum bridal rings just yet.
 
