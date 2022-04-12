@@ -33,3 +33,9 @@ Also *The Outlaw Josey Wales*, *Hang 'Em High*, and *Ambush at Cimmaron Pass*.
 
 ...You mean Uproar, right? (ditto to /u/InfernoMax)
 
+### 336: [のんびり 人間 慰め - Weekly Discussion Thread, April 11th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/u13r10/のんびり_人間_慰め_weekly_discussion_thread_april_11th/), submitted on 2022-04-11 17:32:19+08:00.
+
+----- __336.1__ -----2022-04-12 11:17:42+08:00:
+
+Calli also apparently learned Latin at school, so that also doesn't save us.
+
