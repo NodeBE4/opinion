@@ -39,9 +39,15 @@ Also *The Outlaw Josey Wales*, *Hang 'Em High*, and *Ambush at Cimmaron Pass*.
 
 Calli also apparently learned Latin at school, so that also doesn't save us.
 
-### 337: [Mio gave Fubuki a ring! This is not a drill, Mio gave Fubuki a ring!! This truly is フブミオてぇてぇ of the purest quality~ (TL by Major Arcana #310 Big God Mion)](https://old.reddit.com/r/Hololive/comments/u1kivz/mio_gave_fubuki_a_ring_this_is_not_a_drill_mio/), submitted on 2022-04-12 07:15:18+08:00.
+### 337: [Bosnia is almost landlocked, but it has a narrow, 12-mile long piece of land on the Adriatic Sea. How did it get this sliver, and how has it kept it, despite it cutting off a piece of Croatia? Why isn't the strip built up as an industrial port for Bosnia?](https://old.reddit.com/r/AskHistorians/comments/u1jhrk/bosnia_is_almost_landlocked_but_it_has_a_narrow/), submitted on 2022-04-12 06:26:50+08:00.
 
------ __337.1__ -----2022-04-12 12:16:05+08:00:
+----- __337.1__ -----2022-04-12 14:58:38+08:00:
+
+Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
+
+### 338: [Mio gave Fubuki a ring! This is not a drill, Mio gave Fubuki a ring!! This truly is フブミオてぇてぇ of the purest quality~ (TL by Major Arcana #310 Big God Mion)](https://old.reddit.com/r/Hololive/comments/u1kivz/mio_gave_fubuki_a_ring_this_is_not_a_drill_mio/), submitted on 2022-04-12 07:15:18+08:00.
+
+----- __338.1__ -----2022-04-12 12:16:05+08:00:
 
 Um... yeah? Kinda?
 
