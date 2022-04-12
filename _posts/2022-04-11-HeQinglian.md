@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-12
+date: 2022-04-13
 from: https://twitter.com/HeQinglian/status/1513202811097518086
 layout: post
 tags:
@@ -262,4 +262,20 @@ Re @seeyoua22819375 其实已经实现了，所有援乌物质与武器，都是
 ### 62: [2022-04-12 23:44:38+08:00 推文](https://twitter.com/HeQinglian/status/1513905941917360143)
 
 Re @gaiyuyin @JianglinLi 避开贵族居住区。
+
+### 63: [2022-04-13 01:05:23+08:00 推文](https://twitter.com/HeQinglian/status/1513926263991382023)
+
+Re @xchen156 自取其辱。
+
+### 64: [2022-04-13 01:36:25+08:00 推文](https://twitter.com/HeQinglian/status/1513934075035332609)
+
+Re @diverpassby 话说，这只是为了让拜登政府方便行事嘛。😂<br>税交上去了，左派将各种对外援助弄成每年几十亿、上百亿也是常规操作。<br>所以，这叫税外加税。FT有评论文章讲了拜登在俄乌战争上的表现，其中有句：拜登如果放过这种机会，那他就不是拜登了。
+
+### 65: [2022-04-13 01:39:50+08:00 推文](https://twitter.com/HeQinglian/status/1513934932544004098)
+
+Re @Wu_Zhi 这点，泽总统还是实话实说，值得点个赞。听者要计较，那是格局问题。<br>比如他向南韩要援助，说了，大半个世纪以前，世界帮了你们，现在该你们回报了。韩国给NATO的回绝信，欧盟肯定说格局太小。
+
+### 66: [2022-04-13 01:51:06+08:00 推文](https://twitter.com/HeQinglian/status/1513937769629986816)
+
+拜登勸莫迪少買俄石油 印度批美搞錯重點  <br>想起美国《外交政策》日前一篇文章说的话：印度成了各国都要争取的香饽饽（后三字是我的概括）。<br>拉美《正义报》（智利）说：拉美要淡定，不要加入这两大阵营，保持中立对拉美最合适。 <a href="https://p.dw.com/p/49kVf?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49kVf?maca=zh-Twitter-sharing</a>
 
