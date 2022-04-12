@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -190,4 +190,76 @@ Re @JianglinLi @david_david1968 @Wu_Zhi @RealBeiMing 😂😂
 ### 44: [2022-04-12 10:17:37+08:00 推文](https://twitter.com/HeQinglian/status/1513702851750600707)
 
 Re @wangxiang2021 经白宫普萨基女士鉴定：假消息。我神武无敌之美军少将，怎可能被俄法西斯俘虏？
+
+### 45: [2022-04-12 21:49:43+08:00 推文](https://twitter.com/HeQinglian/status/1513877021927133194)
+
+Re @zhuxiuyuan 是2003年论证的，自然杂志发表过行业调查报告。
+
+### 46: [2022-04-12 21:51:04+08:00 推文](https://twitter.com/HeQinglian/status/1513877363389603851)
+
+Re @nliu6964 原来是姨粉，精神病行列，滚远点。
+
+### 47: [2022-04-12 21:51:51+08:00 推文](https://twitter.com/HeQinglian/status/1513877561062920206)
+
+Re @zhuxiuyuan 我怎么觉得你与开始时的态度不同了？态度正在起变化？
+
+### 48: [2022-04-12 21:58:15+08:00 推文](https://twitter.com/HeQinglian/status/1513879170350206982)
+
+Re @jeep_walker 全民移民火星不可能，但民主党上层移个千把人没问题。<br>真正的问题是：到火星上干什么？全得换职业，从鲁滨逊状态开始，拜登、南希干么？
+
+### 49: [2022-04-12 22:01:09+08:00 推文](https://twitter.com/HeQinglian/status/1513879902625406977)
+
+Re @9788Abc 股市从来是主要与资本流动挂钩，与通胀没啥直接关系。
+
+### 50: [2022-04-12 22:13:26+08:00 推文](https://twitter.com/HeQinglian/status/1513882991352811527)
+
+非常合理的受害者请求。<br>建议拜登立刻在美国增加0.1%-0.5%的人头援乌税（收入或福利抵扣），无论贵贱贫富，上至亿万富翁，下至民主党供养的专业福利族，人人都交。<br>我当然也交。美国人多，这笔钱应该能够支持乌克兰政府（官员）好长一段时间了。<br>乌克兰应该在战争期间向世界各国持续提出这种要求。
+
+### 51: [2022-04-12 22:17:22+08:00 推文](https://twitter.com/HeQinglian/status/1513883981019815937)
+
+Re @JianglinLi 坏不到哪里去，虱多不痒。无非是从每天过百起增加到上千起。纽约民主党政府再调整标准：凡5公斤以下炸药不算爆炸案，2000元以下不算抢劫，没死人不算刑罪。<br>仍然是江山秀丽、民主灯塔。你要说不是了，华左口水立刻喷过来：黑美，回中国去。
+
+### 52: [2022-04-12 22:21:01+08:00 推文](https://twitter.com/HeQinglian/status/1513884899572338708)
+
+Re @cLb0SW7bwSU6y6p 至少也在国会过一过，表示诚意。如果没通过，就立刻宣布，都是没道德水准的共和党不同意，胸怀全球的民主党尽力了。<br>然后拜登家族拿出一亿，号召民主党县以上议员按能力捐输，立即转账给乌克兰。
+
+### 53: [2022-04-12 22:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1513885708267790338)
+
+Re @Tanjilion 你的民主女神默克尔来自东德。😂
+
+### 54: [2022-04-12 22:28:38+08:00 推文](https://twitter.com/HeQinglian/status/1513886817862524937)
+
+Re @JianglinLi 你以为德州休斯敦能住？
+
+### 55: [2022-04-12 22:41:10+08:00 推文](https://twitter.com/HeQinglian/status/1513889973233242116)
+
+Re @KELMAND1 强生去捞他们吧。条件可以这样开：本来要将普京送上国际法庭定罪一万次，放一个减少两次，最后给自己留下一次定罪普京的机会就行了。普京一定同意，从万死变成一死，很划算的生意。<br>我这主意绝对合乎左派的智商。
+
+### 56: [2022-04-12 22:53:45+08:00 推文](https://twitter.com/HeQinglian/status/1513893137609019401)
+
+Re @zhuxiuyuan 谈的不是时间。
+
+### 57: [2022-04-12 22:55:34+08:00 推文](https://twitter.com/HeQinglian/status/1513893595023085582)
+
+Re @david_david1968 现在迎春花都开满欧陆大地，冬天来临时，战早打完了。<br>欧洲许多国家可能都在悄悄学习丹麦、瑞典、匈牙利。<br>半年时间，足够做任何事情了。
+
+### 58: [2022-04-12 23:00:34+08:00 推文](https://twitter.com/HeQinglian/status/1513894854090182661)
+
+Re @zeroforfun @KELMAND1 欧洲女巫已经出动，普京命不长久，好多西方消息说他得了甲状腺癌——千夫所指，不癌也癌。
+
+### 59: [2022-04-12 23:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1513901016860798979)
+
+Re @diverpassby 不交，道德上就先输了。如果通过了，成为法律义务，不交，就继之以法律惩罚。
+
+### 60: [2022-04-12 23:26:05+08:00 推文](https://twitter.com/HeQinglian/status/1513901273204068356)
+
+Re @seeyoua22819375 其实已经实现了，所有援乌物质与武器，都是纳税人的钱买的。就算是印钞，也是所有消费者承担的。
+
+### 61: [2022-04-12 23:30:06+08:00 推文](https://twitter.com/HeQinglian/status/1513902285616726024)
+
+基尔世界经济研究所(Kiel Institute for the World Economy)数据：2月至3月全球贸易总额下降2.8%，俄乌战争导致两国港口始发的集装箱船急剧减少。<br>这家德国研究机构的数据首次表明，这场冲突以及西方对俄罗斯实施的广泛制裁对全球贸易造成了多大打击。 <a href="https://dbdzmnhotmzi1.cloudfront.net/story/001095756?archive" target="_blank" rel="noopener noreferrer">https://dbdzmnhotmzi1.cloudfront.net/story/001095756?archive</a>
+
+### 62: [2022-04-12 23:44:38+08:00 推文](https://twitter.com/HeQinglian/status/1513905941917360143)
+
+Re @gaiyuyin @JianglinLi 避开贵族居住区。
 
