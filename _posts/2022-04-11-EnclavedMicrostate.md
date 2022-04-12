@@ -39,6 +39,10 @@ Also *The Outlaw Josey Wales*, *Hang 'Em High*, and *Ambush at Cimmaron Pass*.
 
 Calli also apparently learned Latin at school, so that also doesn't save us.
 
+----- __336.2__ -----2022-04-12 17:08:12+08:00:
+
+To add my two cents, it's worth distinguishing between why it was *originally* introduced, and why it might still be done now. To be frank, it was originally done because Activ8 believed it ought to have such total control over Kizuna AI's image that even her VA's actual identity was to be concealed from the public. Many VTubers *today* appreciate the anonymity, and it might be *their* reason for doing it, but its original existence in corporate contracts, particularly of a lot of early agencies, is probably a function of most of these companies basically emulating Activ8's model without necessarily thinking that hard about the full implications down the line.
+
 ### 337: [Bosnia is almost landlocked, but it has a narrow, 12-mile long piece of land on the Adriatic Sea. How did it get this sliver, and how has it kept it, despite it cutting off a piece of Croatia? Why isn't the strip built up as an industrial port for Bosnia?](https://old.reddit.com/r/AskHistorians/comments/u1jhrk/bosnia_is_almost_landlocked_but_it_has_a_narrow/), submitted on 2022-04-12 06:26:50+08:00.
 
 ----- __337.1__ -----2022-04-12 14:58:38+08:00:
