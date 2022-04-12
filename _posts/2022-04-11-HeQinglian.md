@@ -151,3 +151,39 @@ Re @TonyTE16 是2015年。北卡校长在疫情流行之初就专文说明：一
 
 民调：近1/3德国民众认为德国是“虚假民主” <a href="https://p.dw.com/p/49mAW?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49mAW?maca=zh-Twitter-sharing</a>
 
+### 35: [2022-04-12 08:27:46+08:00 推文](https://twitter.com/HeQinglian/status/1513675204341469189)
+
+Re @nliu6964 德国做这调查，自然有其考虑。不需要遥远的中国几个人 承认其意义。
+
+### 36: [2022-04-12 08:30:09+08:00 推文](https://twitter.com/HeQinglian/status/1513675807268519936)
+
+Re @reindee2022 你想要美国人与西方人赞美他？比较困难。不明白你说什么。<br>读文章要会读。
+
+### 37: [2022-04-12 08:32:43+08:00 推文](https://twitter.com/HeQinglian/status/1513676453430321154)
+
+Re @3rjGOSUiPulOT5Z 如果是这，那还真是问题，得清理下水道了。纽约这几年忙着“进步”了，这些民生问题，民主党根本不管。
+
+### 38: [2022-04-12 08:35:32+08:00 推文](https://twitter.com/HeQinglian/status/1513677159558221825)
+
+Re @mutou900 @Wu_Zhi 真有此事，我们应该为他送行，他与泽连斯基并肩战斗，而且，美三军总司令去参战，除了仪仗队之外，美国海陆空三军自然得派精英部队随行。
+
+### 39: [2022-04-12 08:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1513677303791955974)
+
+Re @ZLKYBNt9u0RgiDG @Wu_Zhi 有道理。想到这点，觉得无奈。
+
+### 40: [2022-04-12 09:14:17+08:00 推文](https://twitter.com/HeQinglian/status/1513686914037166082)
+
+Re @dw_chinese 如果美国能够提供同样价格（包括物流费在内）的能源并且供给稳定，我很乐意买美国的。<br>印度肯定想：你美在乌克兰经营多年，有利益考量，我与乌克兰没什么亲密关系，因此货比两家。
+
+### 41: [2022-04-12 09:18:02+08:00 推文](https://twitter.com/HeQinglian/status/1513687855297699845)
+
+拜登政府将任命一名驻欧洲所有美国和盟军部队的指挥官，以及一名领导特种部队的新将军。<br>难道老拜登要美国披挂上阵了？这我没意见，暗地里出人出力，不如过明路，打个痛快，亮亮神话般存在的美军实力。<br>一战定乾坤，赢了，全世界都推行美左派的进步主义价值观。 <a href="https://bit.ly/3jxOrz6" target="_blank" rel="noopener noreferrer">https://bit.ly/3jxOrz6</a>
+
+### 42: [2022-04-12 10:11:00+08:00 推文](https://twitter.com/HeQinglian/status/1513701187341762563)
+
+Re @GodPAmerica @Wu_Zhi 世界政府建立之前，需要美国护法开道。谁不听话就收拾谁。<br>世界政府建立之后，需要美国做执行长，监察各国对进步主义改革的执行状况。<br>没有美国，仅靠欧盟，那就是口头进步，自家变性玩儿。
+
+### 43: [2022-04-12 10:14:07+08:00 推文](https://twitter.com/HeQinglian/status/1513701967897448453)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @RealBeiMing 😂😂
+
