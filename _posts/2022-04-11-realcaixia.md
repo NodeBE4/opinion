@@ -25,7 +25,7 @@ Re @Jam79922967 @lianchaohan 这类长冷兵器不是城管混混儿能有的，
 
 ### 3: [2022-04-11 01:13:39+08:00 推文](https://twitter.com/realcaixia/status/1513203569540882442)
 
-这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！<br><br>Jam: 今日上海，我为上海哭泣。上帝啊，你一定也看到了，为什么你无动于衷呢？该出手了，是时候了。<br><br><video src="https://video.twimg.com/ext_tw_video/1513180381436157959/pu/vid/720x1280/5qe_KowCgMbPf5uy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513180381436157959/pu/img/4zfVb1Ljm9SQGGnk.jpg"></video>
+这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！
 
 ### 4: [2022-04-11 01:25:56+08:00 推文](https://twitter.com/realcaixia/status/1513206661049114626)
 
@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看看，习是知道这些用来对付谁的。
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -41,7 +41,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
@@ -61,7 +61,7 @@ Re @lianchaohan 习是人祸制造者。
 
 ### 12: [2022-04-12 00:01:46+08:00 推文](https://twitter.com/realcaixia/status/1513547866375172108)
 
-中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？
+中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？<br><br>荣剑: 今天的股市，当然，未必是对这个即将到来的统一大市场的恐惧性反映，你们看吧，在这样的政策下，总是会有越来越多的人选择用脚投票。<br><br><img style="" src="https://pbs.twimg.com/media/FQCZHkVagAUSOpv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1513321867003641859" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1513321867003641859</a>
 
 ### 13: [2022-04-12 00:25:03+08:00 推文](https://twitter.com/realcaixia/status/1513553725968814080)
 
