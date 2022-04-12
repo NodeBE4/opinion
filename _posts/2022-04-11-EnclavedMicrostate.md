@@ -45,10 +45,12 @@ Calli also apparently learned Latin at school, so that also doesn't save us.
 
 Um... yeah? Kinda?
 
-Well, there's two aspects to this. The first is that simply put, calling them lovers is applying modern standards to ancient Macedonian society. Alexander almost certainly did not see his relationship with Hephaistion as equivalent to that with, say, Roxane; that is to say it wasn't just 'the same thing, but with a man'.
+Well, there's two aspects to this. The first is that simply put, calling them lovers is applying modern and honestly somewhat heteronormative standards to ancient Macedonian society. Alexander almost certainly did not see his relationship with Hephaistion as equivalent to that with, say, Roxane; that is to say it wasn't just 'the same thing, but with a man'.
 
 The other is that the sources that play up the possible romantic and/or sexual relationship between Alexander and Hephaistion are... dubious. It's very clear that Alexander was in some way very affectionate towards Hephaistion and we do get this from the majority of the source material, but the sources suggesting this went beyond a deeply affectionate friendship are those that try to map Alexander and Hephaistion onto Achilles and Patroklos. These sources are problematic on this count because they try to paint Alexander as a quintessentially Greek hero, almost a walking embodiment of Greek high culture, instead of as a Macedonian warlord. In effect, the 'Achilles+Hephaistion = Achilles+Patroklos' narrative is one rooted more in Greek chauvinism than historical fact.
 
 
 Oh also with Mio she did say the garnet was for 'friendship' specifically, so I feel like that's explicit enough of an indication. We’re not at Noel/Flare levels of platinum bridal rings just yet.
+
+EDIT: I guess the main thing to say is, its not that we're incorrectly defining Alexander and Hephaistion as friends, it's that the way we colloquially use 'friend' today encompasses different ideas from how people of the time understood it.
 
