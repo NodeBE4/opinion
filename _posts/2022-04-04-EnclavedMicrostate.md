@@ -404,5 +404,13 @@ If you were following the earlier Mikeneko drama, then the name Korekore will ri
 > I am truly sorry to Mikeneko-san.  
 > To everyone in the Genshin fandom, I am the one most responsible for debasing our conduct and reputation. For that I am sorry.
 
-In other words, the entire thing was a hoax staged by Nanase, intended to bully Mikeneko at the very least out of playing Genshin and potentially far worse.
+In other words, the entire thing resulted from a hoax staged by Nanase in which they tried to rile up antis and potentially draw other users into bullying Mikeneko, at the very least out of playing Genshin and potentially far worse.
+
+----- __332.7__ -----2022-04-13 01:56:56+08:00:
+
+No, not quite. This was someone posing as a Mikeneko fan but which was inadvertently misinterpreted as Mikeneko having either explicitly or tacitly encouraged fans to buy accounts; in turn, there was a Discord of Mikeneko antis, but it also happens that a number of them are Genshin players. As such, this one person who was a Genshin-playing Mikeneko anti both created a false conversation with their sockpuppet *and* used it to have similar conversations with both other known Genshin-playing antis, and also non-anti Genshin-players, in order to create an air of plausibility and 'organically' create supporters for Nanase.
+
+----- __332.8__ -----2022-04-13 02:31:03+08:00:
+
+You're right, I did phrase the ending statement badly. It's not that Nanase made the whole thing up, just the Neko account.
 
