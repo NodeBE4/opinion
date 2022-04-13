@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-13
+date: 2022-04-14
 from: https://twitter.com/HeQinglian/status/1513202811097518086
 layout: post
 tags:
@@ -386,4 +386,16 @@ Re @NwTOvfqnhsxbc5R 你相信俄军打仗就是为了一人抢一台家用电器
 ### 93: [2022-04-13 23:06:45+08:00 推文](https://twitter.com/HeQinglian/status/1514258796775944194)
 
 乌克兰人创造新词，来表达对法国缺乏行动的不满 <br>根据法国巴黎人报的报道，乌克兰人创造的新词是“macronete”,可以翻成法文“macroner”。根据BFM电视频道说，根据社交媒体上发布的一本战争相关词汇词典，新的动词马克龙的意思是“非常担心某种情况，但是却什么也不做”。 <a href="https://rfi.my/8Kc5.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Kc5.T</a>
+
+### 94: [2022-04-14 01:30:35+08:00 推文](https://twitter.com/HeQinglian/status/1514294993464303618)
+
+Re @FangYiDuan1 五眼中，新西兰早就自行其是了。
+
+### 95: [2022-04-14 01:36:51+08:00 推文](https://twitter.com/HeQinglian/status/1514296570333863953)
+
+全球化两大金融支柱，世行是美国人当家，IMF美国是最大股东，拥有一票否决权，但掌门人归欧盟任命。<br>现在IMF与世行同时发声，俄罗斯被制裁，被踢是迟早的事情，北京应该有所感觉。<br>世行：減少依賴中國“可能對所有人都有好處”<br><br>He Qinglian: 美国财长：俄乌战争彰显必须改革世界经济体制 <br>耶伦说话要点：<br>1、改革IMF机制——大概是要将2016年新进的俄罗斯等金砖五当中的四个除籍；<br>2、G20要将俄罗斯开除——这好办，G7本就没它。重新成立G10，或者G18，将俄中一块排除在外。<br>这算尊重现实，反正全球分裂成多极已成事实。<br> <a href="https://rfi.my/8Kjj.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Kjj.T</a>
+
+### 96: [2022-04-14 01:38:20+08:00 推文](https://twitter.com/HeQinglian/status/1514296942431457282)
+
+Re @JianglinLi 最好行动起来。而且直接送到拜登府邸旁边的公地，在那里搭建临时建筑。说不定拜登将他们接进家门。😂
 
