@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -342,4 +342,48 @@ Re @princeton_walk @JiangShangrong 我怎么觉得大多数人相信神迹。
 ### 82: [2022-04-13 10:29:20+08:00 推文](https://twitter.com/HeQinglian/status/1514068185523314690)
 
 Re @o2pIHqzvuxGd9Uu 中国政府统计数据造假，并非新闻，司空见惯。
+
+### 83: [2022-04-13 22:25:37+08:00 推文](https://twitter.com/HeQinglian/status/1514248443748884481)
+
+Re @JianglinLi 依次送往奥巴马常住的那幢豪宅所在镇、拜登家乡做邻居。这样他们散步时可以亲民了。
+
+### 84: [2022-04-13 22:34:23+08:00 推文](https://twitter.com/HeQinglian/status/1514250650821042178)
+
+Re @WmShuai 还有这话：“这天杀的林贼逃走前还偷了毛主席一件呢大衣”（批判语说林彪“披着马列主义外衣”）。
+
+### 85: [2022-04-13 22:37:49+08:00 推文](https://twitter.com/HeQinglian/status/1514251516978290689)
+
+Re @MrWinnieandpooh @Wu_Zhi 请解释各主流媒体为何忧民忡忡地担心顿巴斯？美军顾问为何设计从东线撤走到城市水泥丛林打游击战？<br>真心请教，拜托赐教。
+
+### 86: [2022-04-13 22:39:53+08:00 推文](https://twitter.com/HeQinglian/status/1514252034014334988)
+
+Re @NwTOvfqnhsxbc5R 你又骂了一次美国，这是WB数据，这银行行长是美国人。WB者，World Bank。
+
+### 87: [2022-04-13 22:41:51+08:00 推文](https://twitter.com/HeQinglian/status/1514252530670346240)
+
+Re @o2pIHqzvuxGd9Uu 我研究统计数据多年，数据造假识别，需要专业知识，比对宏观数据是否配套。<br>就解释到这里吧。
+
+### 88: [2022-04-13 22:45:03+08:00 推文](https://twitter.com/HeQinglian/status/1514253337524322310)
+
+有美国在，还怕俄罗斯的网络战？美太空军司令部正盯着呢，一直是指挥者、参与者。😂<br><br>华尔街日报中文网: 最近，随着俄罗斯的战略目标似乎向乌克兰东部转移，出现了新的针对乌克兰能源部门的更令人警觉的攻击，表明战争的下一阶段可能包括一场更为活跃的网络之争。<br> <a href="https://on.wsj.com/3KCvSWp" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3KCvSWp</a>
+
+### 89: [2022-04-13 22:53:04+08:00 推文](https://twitter.com/HeQinglian/status/1514255354808483845)
+
+Re @gongshark @bollaichi 下次打台湾时你参战，弄个洗衣机回去，如果不够，再加一电视机、一微波炉。<br>不过我得先告诉你，台湾人房子小，电视机少有超大屏幕的。
+
+### 90: [2022-04-13 22:53:50+08:00 推文](https://twitter.com/HeQinglian/status/1514255546844688386)
+
+Re @chenjglawyer 抒情可以，但事实并非如此。
+
+### 91: [2022-04-13 23:01:09+08:00 推文](https://twitter.com/HeQinglian/status/1514257389683453953)
+
+美国财长：俄乌战争彰显必须改革世界经济体制 <br>耶伦说话要点：<br>1、改革IMF机制——大概是要将2016年新进的俄罗斯等金砖五当中的四个除籍；<br>2、G20要将俄罗斯开除——这好办，G7本就没它。重新成立G10，或者G18，将俄中一块排除在外。<br>这算尊重现实，反正全球分裂成多极已成事实。 <a href="https://rfi.my/8Kjj.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Kjj.T</a>
+
+### 92: [2022-04-13 23:03:25+08:00 推文](https://twitter.com/HeQinglian/status/1514257958871388177)
+
+Re @NwTOvfqnhsxbc5R 你相信俄军打仗就是为了一人抢一台家用电器好了。因为你的推号是“空门”。想让你不相信太难了。<br>不打算就此与你辩论，有那时间，我做别的。
+
+### 93: [2022-04-13 23:06:45+08:00 推文](https://twitter.com/HeQinglian/status/1514258796775944194)
+
+乌克兰人创造新词，来表达对法国缺乏行动的不满 <br>根据法国巴黎人报的报道，乌克兰人创造的新词是“macronete”,可以翻成法文“macroner”。根据BFM电视频道说，根据社交媒体上发布的一本战争相关词汇词典，新的动词马克龙的意思是“非常担心某种情况，但是却什么也不做”。 <a href="https://rfi.my/8Kc5.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Kc5.T</a>
 
