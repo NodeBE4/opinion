@@ -399,3 +399,39 @@ Re @FangYiDuan1 五眼中，新西兰早就自行其是了。
 
 Re @JianglinLi 最好行动起来。而且直接送到拜登府邸旁边的公地，在那里搭建临时建筑。说不定拜登将他们接进家门。😂
 
+### 97: [2022-04-14 03:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1514327235414605839)
+
+Re @JiangShangrong @mod_russia 时至今天，Mariupol战况总算看到一条西方媒体与俄罗斯相接近的报道。俄拿下了这个港口。同一页面另一条承认有1000乌军投降。 <a href="https://www.reuters.com/world/europe/mariupol-strategic-prize-russia-symbol-resistance-ukraine-2022-03-30/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/mariupol-strategic-prize-russia-symbol-resistance-ukraine-2022-03-30/</a>
+
+### 98: [2022-04-14 03:42:33+08:00 推文](https://twitter.com/HeQinglian/status/1514328206144425995)
+
+Re @Lucs24659702 话说，收藏粮食不容易，这藏了几年？
+
+### 99: [2022-04-14 03:49:53+08:00 推文](https://twitter.com/HeQinglian/status/1514330050165936139)
+
+Re @Wu_Zhi @JiangShangrong @mod_russia 我很仔细地读了一下，然后想起WSJ上午那篇文章，谈到俄乌网络战将是另一种打法。由此生出的想法竟然是：以后美乌方面是不是不再鼓励纸面胜利千百回了？<br>有实说实，最近神话少了一些，主要是泽连斯基总统求援并且斥责德法援助不力，表扬美国大力相助。
+
+### 100: [2022-04-14 04:07:41+08:00 推文](https://twitter.com/HeQinglian/status/1514334527929438209)
+
+Re @Wu_Zhi @JiangShangrong @mod_russia DW：民调结果：多数德国民众为自由不愿意受冻<br><br>但同一页面上的消息还有：<br>乌克兰战争导致欧元区沦入通胀危机<br>评论：为什么能源价格飙升是一个好消息？<br>德国通胀率创四十年来新高<br>以牙还牙！ 俄威胁切断天然气供应<br>油价飞升 德国美国通胀率暴涨<br>看标题以后，觉得你德还在犹豫。 <a href="https://p.dw.com/p/49u1a" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49u1a</a>
+
+### 101: [2022-04-14 04:10:47+08:00 推文](https://twitter.com/HeQinglian/status/1514335308199964680)
+
+Re @owenusa @lihaile88 人家不参与大重置，当然既不绿能，也不强制推行疫苗护照。<br>以后这两样就归咱美国与欧盟专美，外加变性、BLM。样板城市是加州与纽约。
+
+### 102: [2022-04-14 04:14:58+08:00 推文](https://twitter.com/HeQinglian/status/1514336362677288961)
+
+Re @lihaile88 @owenusa 瓦尔代俱乐部的发言，你看了没有？
+
+### 103: [2022-04-14 04:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1514337083082645507)
+
+Re @Wu_Zhi @JiangShangrong @mod_russia 同一版面上的文章挺有意思：<br>1、通胀40年未有；2、德通胀，还有美国陪着呢；3、油价高升叹苦，随即说是好事；4、俄威胁要关天然气。<br>继续挣扎一番吧。<br>我想知道，高克是不是与民同冻.
+
+### 104: [2022-04-14 04:21:13+08:00 推文](https://twitter.com/HeQinglian/status/1514337935667175425)
+
+Re @lihaile88 @owenusa 上海应该不是大重置演习，习近平并不想成为世界政府的中国支部，被第五国际管着，弄个太上皇在头上指手划脚。<br>但这波疫情来得奇怪。
+
+### 105: [2022-04-14 04:51:29+08:00 推文](https://twitter.com/HeQinglian/status/1514345554062491656)
+
+Re @JiangShangrong 用监狱犯人管平民，这招我知道哪国的基层曾用过，或者还在用。
+
