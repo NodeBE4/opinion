@@ -31,11 +31,15 @@ RT Jessie Pang<br>HK police arrest veteran journalist @aukalun for alleged sed
 
 RT Keith Bradsher<br>China has set aside its "common prosperity" campaign at least for this year, and perhaps for 2023 and even 2024, but the campaign has not been abandoned. <a href="https://www.nytimes.com/2022/04/12/business/china-economy-covid.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/12/business/china-economy-covid.html?smid=tw-share</a>
 
-### 5: [2022-04-13 01:41:07+08:00 推文](https://twitter.com/anthonytao/status/1513935256667054087)
+### 5: [2022-04-12 17:33:56+08:00 推文](https://twitter.com/AlexDukalskis/status/1513812651448668160)
+
+RT Alex Dukalskis<br>Always quite amazed by Xinhua's disingenuous claim that it does not yield to ideological or political bias given that it is owned and editorially controlled by an authoritarian political party that pays a helluva lot of attention to ideological and political lines.<br><img style="" src="https://pbs.twimg.com/media/FQIj9ezXMAE7lDl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-04-13 01:41:07+08:00 推文](https://twitter.com/anthonytao/status/1513935256667054087)
 
 RT Anthony Tao<br>"I think he’s just a blogger hungry for attention who will do anything, including fake acts of patriotism, to get it."<br><br>A Chinese nationalist, Sai Lei, called out for his stupid nationalism. One of the more cathartic pieces I've read, via @cnmediaproject: <a href="https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/</a>
 
-### 6: [2022-04-13 17:41:56+08:00 推文](https://twitter.com/caixin/status/1514177053108862980)
+### 7: [2022-04-13 17:41:56+08:00 推文](https://twitter.com/caixin/status/1514177053108862980)
 
 RT Caixin Global<br>On today’s podcast:<br> <br>- Ordeal not over for Shanghai’s recovered Covid patients<br><br>- Metropolis warns food suppliers against opportunistic price hikes<br><br>- China’s largest academic library in hot water for copyright violations <a href="https://www.caixinglobal.com/2022-04-13/caixin-china-biz-roundup-recovered-covid-patients-in-bureaucratic-nightmare-101869675.html" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-04-13/caixin-china-biz-roundup-recovered-covid-patients-in-bureaucratic-nightmare-101869675.html</a>
 
