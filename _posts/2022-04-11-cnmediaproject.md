@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-11
+date: 2022-04-13
 from: https://twitter.com/DavidBarboza2/status/1513300519367983104
 layout: post
 tags:
@@ -22,4 +22,12 @@ RT David Barboza<br>Eye opening piece by Carl Walter: The Party and China’s 
 ### 2: [2022-04-11 09:50:21+08:00 推文](https://twitter.com/Changxche/status/1513333602473308163)
 
 RT Chang Che<br>Harrowing diary of a Shanghai neighborhood committee worker (call her Mary) who just quit after being on pandemic prevention duty since March 18. “I cannot keep going" she starts. A🧵
+
+### 3: [2022-04-11 18:10:06+08:00 推文](https://twitter.com/JessiePang0125/status/1513459368700018688)
+
+RT Jessie Pang<br>HK police arrest veteran journalist @aukalun for alleged sedition.<br><br>"I once wondered whether I could keep writing till 2047, but it's a delusion in the end," Au wrote in his last column at @mingpaocom.<br><br>"We still haven’t reached 2047, but 2047 has arrived before our very eyes.”<br><img style="" src="https://pbs.twimg.com/media/FQDjRY8aQAI1Ws3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-04-13 01:41:07+08:00 推文](https://twitter.com/anthonytao/status/1513935256667054087)
+
+RT Anthony Tao<br>"I think he’s just a blogger hungry for attention who will do anything, including fake acts of patriotism, to get it."<br><br>A Chinese nationalist, Sai Lei, called out for his stupid nationalism. One of the more cathartic pieces I've read, via @cnmediaproject: <a href="https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/</a>
 

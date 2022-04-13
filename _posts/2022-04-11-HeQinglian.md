@@ -331,3 +331,15 @@ Re @jl65198751 @KELMAND1 我发觉，近亲打架，不容易分辨对方，比�
 
 Re @princeton_walk @JiangShangrong 如今信息战，消息一定要多方Check，而且不能是同源信息。
 
+### 80: [2022-04-13 10:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1514067559787733004)
+
+请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。<br><br>美国之音中文网: 盖洛普全球领导地位排名：德国继续位居第一，美国出现回升，中俄相当<br> <a href="http://dlvr.it/SNTBpY" target="_blank" rel="noopener noreferrer">http://dlvr.it/SNTBpY</a>
+
+### 81: [2022-04-13 10:28:07+08:00 推文](https://twitter.com/HeQinglian/status/1514067881608335364)
+
+Re @princeton_walk @JiangShangrong 我怎么觉得大多数人相信神迹。
+
+### 82: [2022-04-13 10:29:20+08:00 推文](https://twitter.com/HeQinglian/status/1514068185523314690)
+
+Re @o2pIHqzvuxGd9Uu 中国政府统计数据造假，并非新闻，司空见惯。
+
