@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-12
+date: 2022-04-13
 from: https://old.reddit.com/r/interestingasfuck/comments/u0yw8a/without_barriers_the_british_still_know_how_to/
 layout: post
 tags:
@@ -63,4 +63,10 @@ The other is that the sources that play up the possible romantic and/or sexual r
 Oh also with Mio she did say the garnet was for 'friendship' specifically, so I feel like that's explicit enough of an indication. We’re not at Noel/Flare levels of platinum bridal rings just yet.
 
 EDIT: I guess the main thing to say is, its not that we're incorrectly defining Alexander and Hephaistion as friends, it's that the way we colloquially use 'friend' today encompasses different ideas from how people of the time understood it.
+
+### 339: [Got this book a few months ago and was wondering what these two symbols on the cover mean.](https://old.reddit.com/r/ChineseTranslation/comments/u2kaft/got_this_book_a_few_months_ago_and_was_wondering/), submitted on 2022-04-13 14:51:44+08:00.
+
+----- __339.1__ -----2022-04-13 16:14:27+08:00:
+
+More specifically, it indicates a general state of long-term happiness in one's life, rather than an emotional state.
 
