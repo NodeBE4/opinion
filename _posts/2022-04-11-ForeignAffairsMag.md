@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-12
+date: 2022-04-13
 from: https://old.reddit.com/r/geopolitics/comments/u192nt/the_return_of_conquest_why_the_future_of_global/
 layout: post
 tags:
@@ -54,6 +54,24 @@ The Biden administration should decline this invitation to wage a risky global c
 ### 203: [What China Can Learn From German History: Beijing Should Avoid Embracing Russia’s War in Ukraine](https://old.reddit.com/r/China/comments/u20gic/what_china_can_learn_from_german_history_beijing/), submitted on 2022-04-12 22:30:33+08:00.
 
 ----- __203.1__ -----2022-04-12 22:30:54+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 204: [Putin Unbound: How Repression at Home Presaged Belligerence Abroad](https://old.reddit.com/r/UkrainianConflict/comments/u2rdwv/putin_unbound_how_repression_at_home_presaged/), submitted on 2022-04-13 22:19:06+08:00.
+
+----- __204.1__ -----2022-04-13 22:20:03+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 205: [Putin Unbound: How Repression at Home Presaged Belligerence Abroad](https://old.reddit.com/r/europe/comments/u2re85/putin_unbound_how_repression_at_home_presaged/), submitted on 2022-04-13 22:19:33+08:00.
+
+----- __205.1__ -----2022-04-13 22:19:51+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 206: [The Unstoppable Rise of Hindu Nationalism: How India’s Far Right Is Conquering Castes—and the Country](https://old.reddit.com/r/IndiaSpeaks/comments/u2rft0/the_unstoppable_rise_of_hindu_nationalism_how/), submitted on 2022-04-13 22:21:27+08:00.
+
+----- __206.1__ -----2022-04-13 22:21:47+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
