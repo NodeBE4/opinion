@@ -414,3 +414,13 @@ No, not quite. This was someone posing as a Mikeneko fan but which was inadverte
 
 You're right, I did phrase the ending statement badly. It's not that Nanase made the whole thing up, just the Neko account.
 
+----- __332.9__ -----2022-04-13 12:03:55+08:00:
+
+I'm very uncomfortable with the narrative that Mikeneko's/>!Rushia's!< hate comes about due to their 'GFE' content at her past job, as it ends up implying a strong degree of victim-blaming. That doesn't mean I don't think she cultivated an unhealthy relationship with her fans, of course, and to quite an extreme degree with some quite extreme actions. It's nevertheless quite plausibly true that there were some people who became antis openly out of a sense of 'betrayal', but there were also plenty of major donors who by and large withheld judgement. I'd argue that most antis are antis for their own sake: they aren't *really* invested in the idea of the person's hypothetical eligibility, they just want a target for their anger and/or malice and will use any excuse to get it.
+
+----- __332.10__ -----2022-04-13 12:13:19+08:00:
+
+The below is purely my own opinion:
+
+So, antis in general will be antis. They don't necessarily care what a person did, they just want to channel their malice at *someone* whom they can construe as having justifiable reasons for stirring up others' hate against. Here, there are a couple of things that make her an easy target. Firstly, simply put there is already a not-inconsiderably degree of built-up antipathy. At first it was the boyfriend drama, which to be frank would be a major issue for *anyone* in her position; then it was the general circumstances around her termination. People know that she tends to react poorly to sudden drama which means anyone trying to get a rise out of her feels like they can do it easily. And now you have the added effect that she no longer has any support in terms of social media management or a company that might back her legally if needs be. It's not that she's necessarily uniquely hateable, it's that she's uniquely vulnerable.
+
