@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-12
+date: 2022-04-13
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/u1dq4h/unofficial_daily_update_for_20220411_1463_new/
 layout: post
 tags:
@@ -26,4 +26,12 @@ Don't be obstinate.  This is what you wrote:
 > In fact, I hate to use these words, but the flu is probably more deadly at this point.
 
 Get a source.
+
+### 217: [Unofficial Daily Update for 2022-04-12. 1761 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/u258m4/unofficial_daily_update_for_20220412_1761_new/), submitted on 2022-04-13 02:00:20+08:00.
+
+----- __217.1__ -----2022-04-13 09:55:05+08:00:
+
+This is critically important to realize, even given the obvious problems associated with counting absolute rates of positives (which you and I'm sure many others have discussed on many occasions).  
+
+Taking longer views helps keeps things in perspective.
 
