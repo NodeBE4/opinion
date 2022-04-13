@@ -70,3 +70,9 @@ EDIT: I guess the main thing to say is, its not that we're incorrectly defining 
 
 More specifically, it indicates a general state of long-term happiness in one's life, rather than an emotional state.
 
+### 340: [Countries with coastal capitals](https://old.reddit.com/r/MapPorn/comments/u2n3ls/countries_with_coastal_capitals/), submitted on 2022-04-13 18:19:55+08:00.
+
+----- __340.1__ -----2022-04-13 23:47:00+08:00:
+
+Do I comment on the fact that the decidedly coastal city of Taipei seems not to have been counted?
+
