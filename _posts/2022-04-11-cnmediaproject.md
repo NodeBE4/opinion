@@ -35,3 +35,7 @@ RT Keith Bradsher<br>China has set aside its "common prosperity" campaign at l
 
 RT Anthony Tao<br>"I think he’s just a blogger hungry for attention who will do anything, including fake acts of patriotism, to get it."<br><br>A Chinese nationalist, Sai Lei, called out for his stupid nationalism. One of the more cathartic pieces I've read, via @cnmediaproject: <a href="https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/</a>
 
+### 6: [2022-04-13 17:41:56+08:00 推文](https://twitter.com/caixin/status/1514177053108862980)
+
+RT Caixin Global<br>On today’s podcast:<br> <br>- Ordeal not over for Shanghai’s recovered Covid patients<br><br>- Metropolis warns food suppliers against opportunistic price hikes<br><br>- China’s largest academic library in hot water for copyright violations <a href="https://www.caixinglobal.com/2022-04-13/caixin-china-biz-roundup-recovered-covid-patients-in-bureaucratic-nightmare-101869675.html" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-04-13/caixin-china-biz-roundup-recovered-covid-patients-in-bureaucratic-nightmare-101869675.html</a>
+
