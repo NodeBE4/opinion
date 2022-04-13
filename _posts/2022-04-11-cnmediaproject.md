@@ -27,7 +27,11 @@ RT Chang Che<br>Harrowing diary of a Shanghai neighborhood committee worker (c
 
 RT Jessie Pang<br>HK police arrest veteran journalist @aukalun for alleged sedition.<br><br>"I once wondered whether I could keep writing till 2047, but it's a delusion in the end," Au wrote in his last column at @mingpaocom.<br><br>"We still haven’t reached 2047, but 2047 has arrived before our very eyes.”<br><img style="" src="https://pbs.twimg.com/media/FQDjRY8aQAI1Ws3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 4: [2022-04-13 01:41:07+08:00 推文](https://twitter.com/anthonytao/status/1513935256667054087)
+### 4: [2022-04-12 17:03:03+08:00 推文](https://twitter.com/KeithBradsher/status/1513804881081298954)
+
+RT Keith Bradsher<br>China has set aside its "common prosperity" campaign at least for this year, and perhaps for 2023 and even 2024, but the campaign has not been abandoned. <a href="https://www.nytimes.com/2022/04/12/business/china-economy-covid.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/12/business/china-economy-covid.html?smid=tw-share</a>
+
+### 5: [2022-04-13 01:41:07+08:00 推文](https://twitter.com/anthonytao/status/1513935256667054087)
 
 RT Anthony Tao<br>"I think he’s just a blogger hungry for attention who will do anything, including fake acts of patriotism, to get it."<br><br>A Chinese nationalist, Sai Lei, called out for his stupid nationalism. One of the more cathartic pieces I've read, via @cnmediaproject: <a href="https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/11/clickbait-nationalism-misses-the-mark/</a>
 
