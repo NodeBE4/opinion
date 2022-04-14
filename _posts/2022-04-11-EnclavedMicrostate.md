@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-13
+date: 2022-04-14
 from: https://old.reddit.com/r/interestingasfuck/comments/u0yw8a/without_barriers_the_british_still_know_how_to/
 layout: post
 tags:
@@ -97,4 +97,10 @@ Do I comment on the fact that the decidedly coastal city of Taipei seems not to 
 ----- __342.1__ -----2022-04-14 12:44:14+08:00:
 
 Thank you!
+
+### 343: [Ah yes, the “Negotiator”](https://old.reddit.com/r/Hololive/comments/u3k7qc/ah_yes_the_negotiator/), submitted on 2022-04-14 23:33:48+08:00.
+
+----- __343.1__ -----2022-04-15 00:55:59+08:00:
+
+Clip source: https://www.youtube.com/watch?v=ykLiHHepL9E
 
