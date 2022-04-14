@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-13
+date: 2022-04-14
 from: https://twitter.com/DavidBarboza2/status/1513300519367983104
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT Anthony Tao<br>"I think he’s just a blogger hungry for attention who will
 ### 7: [2022-04-13 17:41:56+08:00 推文](https://twitter.com/caixin/status/1514177053108862980)
 
 RT Caixin Global<br>On today’s podcast:<br> <br>- Ordeal not over for Shanghai’s recovered Covid patients<br><br>- Metropolis warns food suppliers against opportunistic price hikes<br><br>- China’s largest academic library in hot water for copyright violations <a href="https://www.caixinglobal.com/2022-04-13/caixin-china-biz-roundup-recovered-covid-patients-in-bureaucratic-nightmare-101869675.html" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-04-13/caixin-china-biz-roundup-recovered-covid-patients-in-bureaucratic-nightmare-101869675.html</a>
+
+### 8: [2022-04-14 06:49:22+08:00 推文](https://twitter.com/MaryGao/status/1514375217577005059)
+
+RT Mary Gallagher<br>Zero Covid is not sustainable and its costs, human and economic, are rising. This feels like Mao in 1959, doubling down on the Great Leap and ignoring criticism from experts. <a href="https://www.nytimes.com/2022/04/13/business/china-covid-zero-shanghai.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/13/business/china-covid-zero-shanghai.html?smid=tw-share</a>
 
