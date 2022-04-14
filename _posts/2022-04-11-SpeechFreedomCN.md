@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-12
+date: 2022-04-14
 from: https://twitter.com/SpeechFreedomCN/status/1513609735819472903
 layout: post
 tags:
@@ -46,4 +46,12 @@ Re 小道消息里，很多人因此习惯专门在小道消息里获取真相�
 ### 8: [2022-04-12 22:42:45+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1513890367841738753)
 
 Re 总结一下，如果你事事听信官方辟谣，那你一定会经常吃亏，甚至有可能丢掉性命；但如果你总是把官方的辟谣反着听，也是会吃亏的，毕竟网络上也确实充斥着很多谣言。<br>理性一点的对待方式是：如果官方辟谣了某事，很多时候只证明那个事对官方不利，不一定真也不一定假，把它当个屁就行了，自己去另寻真相
+
+### 9: [2022-04-14 10:31:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1514430993528070144)
+
+长春女子王某，因在小区业主群内号召居民进行“敲盆”，被处拘留7日并罚款300元。<br><img style="" src="https://pbs.twimg.com/media/FQQuhpLXEAA6Ahz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-04-14 10:34:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1514431748410642433)
+
+Changchun woman Wang detained for 7 days and fined 300 CNY for organizing Pot Striking in a group chat. Pot Striking is derived from 2020 Wuhan lockdown, of which the purpose is to attract the attention of neighbors or authority when there's an emergency in a locked down house.<br><img style="" src="https://pbs.twimg.com/media/FQQumDgWQAcs-Fk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

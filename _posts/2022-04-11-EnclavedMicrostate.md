@@ -76,3 +76,9 @@ More specifically, it indicates a general state of long-term happiness in one's 
 
 Do I comment on the fact that the decidedly coastal city of Taipei seems not to have been counted?
 
+### 341: ['Guitar groups are on their way out, Mr Epstein.' So said Dick Rowe of Decca Records when he rejected the Beatles in 1962. We now know he was wrong, but would this have been a reasonable prediction in 1962? What sorts of 'guitar groups' were around, and were they facing a decline in popularity?](https://old.reddit.com/r/AskHistorians/comments/u2t0mn/guitar_groups_are_on_their_way_out_mr_epstein_so/), submitted on 2022-04-13 23:33:23+08:00.
+
+----- __341.1__ -----2022-04-14 12:44:14+08:00:
+
+Thank you!
+
