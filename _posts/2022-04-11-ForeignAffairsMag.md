@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-14
+date: 2022-04-15
 from: https://old.reddit.com/r/geopolitics/comments/u192nt/the_return_of_conquest_why_the_future_of_global/
 layout: post
 tags:
@@ -100,4 +100,20 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 ----- __209.1__ -----2022-04-14 23:00:49+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 210: [How Extremism Went Mainstream: Washington Needs a New Approach to Preventing Far-Right Violence](https://old.reddit.com/r/January6/comments/u3qey0/how_extremism_went_mainstream_washington_needs_a/), submitted on 2022-04-15 04:20:10+08:00.
+
+----- __210.1__ -----2022-04-15 04:21:15+08:00:
+
+“If officials can’t find ways to push extremist ideas back to the fringes, the January 6 riot might someday look less like the last gasp of Trump-era extremism and more like a prelude to an era of violent division.”
+
+Revisit Cynthia Miller-Idriss's essay on the rise of far-right extremism in the United States.
+
+### 211: [How Extremism Went Mainstream: Washington Needs a New Approach to Preventing Far-Right Violence](https://old.reddit.com/r/TrueReddit/comments/u3qhpo/how_extremism_went_mainstream_washington_needs_a/), submitted on 2022-04-15 04:23:40+08:00.
+
+----- __211.1__ -----2022-04-15 04:24:43+08:00:
+
+\[SS\]
+
+“If officials can’t find ways to push extremist ideas back to the fringes, the January 6 riot might someday look less like the last gasp of Trump-era extremism and more like a prelude to an era of violent division.” Revisit Cynthia Miller-Idriss's article on the rise of far-Right extremism in the United States.
 
