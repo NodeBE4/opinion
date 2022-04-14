@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-13
+date: 2022-04-14
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/u1dq4h/unofficial_daily_update_for_20220411_1463_new/
 layout: post
 tags:
@@ -50,4 +50,12 @@ Shout it from the rooftops.
 This is critically important to realize, even given the obvious problems associated with counting absolute rates of positives (which you and I'm sure many others have discussed on many occasions).  
 
 Taking longer views helps keeps things in perspective.
+
+### 219: [His parents must be so proud 🤦‍♀️](https://old.reddit.com/r/PublicFreakout/comments/u2urkn/his_parents_must_be_so_proud/), submitted on 2022-04-14 00:51:08+08:00.
+
+----- __219.1__ -----2022-04-14 10:31:15+08:00:
+
+> Someone needs to humble this boy.
+
+An impartial observer might note that this kind of thing didn't happen when they had corporal punishment in schools.
 
