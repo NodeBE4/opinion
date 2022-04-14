@@ -72,6 +72,14 @@ EDIT: I guess the main thing to say is, its not that we're incorrectly defining 
 
 To expand on a point /u/shermanstorch has made, impressment made up only a minority of the Royal Navy's recruitment. Between 1793 and 1801, at the height of the early French Revolutionary Wars when the Navy was most in need of manpower, impressment accounted for only 16% of new enlistments in total, albeit with an upward trend peaking at 27% for the year 1801. More importantly, impressment targeted experienced sailors and craftsmen, not landsmen. The press gangs went round taverns and public houses in port cities precisely because those were where you'd find sailors between voyages, or specialists like carpenters, sailmakers, and ropers. The problem the Navy faced wasn't that it needed more warm bodies, but rather that a decent chunk of the country's experienced sailors (not unwisely) preferred to work for merchant shipping, and so impressment gave it a means of poaching them off the civilian labour market. And as noted, even then the remainder of the Navy's personnel volunteered for the posts. I discuss this more in [this answer](https://www.reddit.com/r/AskHistorians/comments/oydg3g/i_am_in_the_18th_century_looking_to_join_the/h7wl6p1/) condensed from some of the findings in J. Ross Dancy's *The Myth of the Press-Gang*.
 
+----- __339.2__ -----2022-04-14 22:47:55+08:00:
+
+More may of course be said, but you may wish to check out these past answers by /u/jschooltiger which discuss alcohol provision in the Royal Navy:
+
+https://www.reddit.com/r/AskHistorians/comments/2aos9q/how_large_were_the_daily_rations_of_alcohol_in/
+
+https://www.reddit.com/r/AskHistorians/comments/3amzc3/i_keep_reading_about_the_large_amounts_of_alcohol/\
+
 ### 340: [Got this book a few months ago and was wondering what these two symbols on the cover mean.](https://old.reddit.com/r/ChineseTranslation/comments/u2kaft/got_this_book_a_few_months_ago_and_was_wondering/), submitted on 2022-04-13 14:51:44+08:00.
 
 ----- __340.1__ -----2022-04-13 16:14:27+08:00:

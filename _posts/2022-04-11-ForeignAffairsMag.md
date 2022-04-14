@@ -95,3 +95,9 @@ A strategy of institutional realpolitik would also recognize that for all their 
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 209: [It’s Time for America and India to Talk Trade: Otherwise, China Will Dictate the Terms in the Indo-Pacific](https://old.reddit.com/r/india/comments/u3ji30/its_time_for_america_and_india_to_talk_trade/), submitted on 2022-04-14 23:00:39+08:00.
+
+----- __209.1__ -----2022-04-14 23:00:49+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
