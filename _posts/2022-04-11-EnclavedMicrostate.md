@@ -98,9 +98,15 @@ Do I comment on the fact that the decidedly coastal city of Taipei seems not to 
 
 Thank you!
 
-### 343: [Ah yes, the “Negotiator”](https://old.reddit.com/r/Hololive/comments/u3k7qc/ah_yes_the_negotiator/), submitted on 2022-04-14 23:33:48+08:00.
+### 343: [Britain we need answers and we need them now](https://old.reddit.com/r/StupidFood/comments/u37d70/britain_we_need_answers_and_we_need_them_now/), submitted on 2022-04-14 10:51:15+08:00.
 
------ __343.1__ -----2022-04-15 00:55:59+08:00:
+----- __343.1__ -----2022-04-15 01:04:17+08:00:
+
+So, a possible source of confusion is that American baked beans are served in a brown sugar sauce, while British baked beans are served in a tomato sauce. Because of that, it probably looks like a much weirder flavour combo to non-British people than it actually is, because the bean sauce is a bit more ketchupy than it may seem.
+
+### 344: [Ah yes, the “Negotiator”](https://old.reddit.com/r/Hololive/comments/u3k7qc/ah_yes_the_negotiator/), submitted on 2022-04-14 23:33:48+08:00.
+
+----- __344.1__ -----2022-04-15 00:55:59+08:00:
 
 Clip source: https://www.youtube.com/watch?v=ykLiHHepL9E
 
