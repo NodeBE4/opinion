@@ -47,3 +47,15 @@ RT Caixin Global<br>On today’s podcast:<br> <br>- Ordeal not over for Shangh
 
 RT Mary Gallagher<br>Zero Covid is not sustainable and its costs, human and economic, are rising. This feels like Mao in 1959, doubling down on the Great Leap and ignoring criticism from experts. <a href="https://www.nytimes.com/2022/04/13/business/china-covid-zero-shanghai.html?smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/13/business/china-covid-zero-shanghai.html?smid=tw-share</a>
 
+### 9: [2022-04-14 06:57:09+08:00 推文](https://twitter.com/ThisIsWenhao/status/1514377176778432521)
+
+RT Wenhao<br>It's gone unnoticed by many. So I felt like I should properly document what just happened on Weibo today. <br><br>Netizens in China, for just a few hours, got to unleash their wrath on the Chinese government for how they handled the Covid crisis in Shanghai and other social issues.
+
+### 10: [2022-04-14 07:27:41+08:00 推文](https://twitter.com/ThisIsWenhao/status/1514384859787149314)
+
+RT Wenhao<br>Re Some also brought up the women who were chained up in a rural village and gave birth to eight children. But they intentionally replaced "China" with "US" and pretended to be shocked at this kind of things happening in America and said "I was so lucky to have been born in China"<br><img style="" src="https://pbs.twimg.com/media/FQQs_M-WUAATzt8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-04-14 15:24:37+08:00 推文](https://twitter.com/lilkuo/status/1514504886334877699)
+
+RT Lily Kuo<br>A slight thaw in U.S-China ties has meant @evadou and a few other journalists have been allowed back into China. But instead of witnessing a moment of opening, she's seeing a country stuck in time. "The year had changed. The panic and heartbreak hadn’t." <a href="https://www.washingtonpost.com/world/2022/04/14/china-covid-lockdown-shanghai-journalists/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2022/04/14/china-covid-lockdown-shanghai-journalists/?tid=ss_tw</a>
+
