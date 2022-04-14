@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-14
+date: 2022-04-15
 from: https://twitter.com/DavidBarboza2/status/1513300519367983104
 layout: post
 tags:
@@ -58,4 +58,16 @@ RT Wenhao<br>Re Some also brought up the women who were chained up in a rural 
 ### 11: [2022-04-14 15:24:37+08:00 推文](https://twitter.com/lilkuo/status/1514504886334877699)
 
 RT Lily Kuo<br>A slight thaw in U.S-China ties has meant @evadou and a few other journalists have been allowed back into China. But instead of witnessing a moment of opening, she's seeing a country stuck in time. "The year had changed. The panic and heartbreak hadn’t." <a href="https://www.washingtonpost.com/world/2022/04/14/china-covid-lockdown-shanghai-journalists/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2022/04/14/china-covid-lockdown-shanghai-journalists/?tid=ss_tw</a>
+
+### 12: [2022-04-14 21:34:57+08:00 推文](https://twitter.com/manyapan/status/1514598084084330502)
+
+RT Manya Koetse<br>Videos showing chaotic scenes are circulating on Weibo now from one Shanghai community where residents protested their buildings being taken over and used as a quarantine location. Videos are uploaded, censored, and reuploaded again. Read more here: <a href="https://www.whatsonweibo.com/shanghai-residents-protest-as-pudong-apartment-building-turns-into-quarantine-site/" target="_blank" rel="noopener noreferrer">https://www.whatsonweibo.com/shanghai-residents-protest-as-pudong-apartment-building-turns-into-quarantine-site/</a><br><video src="https://video.twimg.com/ext_tw_video/1514597969214857218/pu/vid/1280x720/K57CHotQvNhKZujd.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514597969214857218/pu/img/zTIQBP_qN9NuhLLZ.jpg"></video>
+
+### 13: [2022-04-14 21:43:48+08:00 推文](https://twitter.com/manyapan/status/1514600309242310665)
+
+RT Manya Koetse<br>Re Footage shows clashes between police dressed in protective suits and angry residents, while many are also watching and filming the chaotic scenes.<br><video src="https://video.twimg.com/ext_tw_video/1514600273750093831/pu/vid/960x544/zWo2lO8wRneRtsPb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514600273750093831/pu/img/ClpmcJzgxt1fwg4Q.jpg"></video>
+
+### 14: [2022-04-15 01:17:52+08:00 推文](https://twitter.com/ThisIsWenhao/status/1514654180673298436)
+
+RT Wenhao<br>Trending no.2 on Weibo: US uses mentally ill Ukrainians to conduct bio experiments. <br><br>But it’s largely occupied by netizens who, for the second consecutive night, roast the government and its propaganda efforts. <br><br>Popular comment: “You mean the experiment with eight kids?”<br><img style="" src="https://pbs.twimg.com/media/FQUh8xZXIAgp5Ei?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
