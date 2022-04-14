@@ -64,21 +64,29 @@ Oh also with Mio she did say the garnet was for 'friendship' specifically, so I 
 
 EDIT: I guess the main thing to say is, its not that we're incorrectly defining Alexander and Hephaistion as friends, it's that the way we colloquially use 'friend' today encompasses different ideas from how people of the time understood it.
 
-### 339: [Got this book a few months ago and was wondering what these two symbols on the cover mean.](https://old.reddit.com/r/ChineseTranslation/comments/u2kaft/got_this_book_a_few_months_ago_and_was_wondering/), submitted on 2022-04-13 14:51:44+08:00.
+### 339: [My boyfriend says that in the 18th century, part of the reason the British Navy gave sailors “grog” was to make them alcohol dependant so they’d stay in Navy service. Is this true?](https://old.reddit.com/r/AskHistorians/comments/u2895n/my_boyfriend_says_that_in_the_18th_century_part/), submitted on 2022-04-13 04:12:21+08:00.
 
------ __339.1__ -----2022-04-13 16:14:27+08:00:
+----- __339.1__ -----2022-04-14 22:19:21+08:00:
+
+> Being from the UK I’ve toured some of the historical ships we have and find them very unpleasant so it makes sense people were ‘pressed’ into doing these things.
+
+To expand on a point /u/shermanstorch has made, impressment made up only a minority of the Royal Navy's recruitment. Between 1793 and 1801, at the height of the early French Revolutionary Wars when the Navy was most in need of manpower, impressment accounted for only 16% of new enlistments in total, albeit with an upward trend peaking at 27% for the year 1801. More importantly, impressment targeted experienced sailors and craftsmen, not landsmen. The press gangs went round taverns and public houses in port cities precisely because those were where you'd find sailors between voyages, or specialists like carpenters, sailmakers, and ropers. The problem the Navy faced wasn't that it needed more warm bodies, but rather that a decent chunk of the country's experienced sailors (not unwisely) preferred to work for merchant shipping, and so impressment gave it a means of poaching them off the civilian labour market. And as noted, even then the remainder of the Navy's personnel volunteered for the posts. I discuss this more in [this answer](https://www.reddit.com/r/AskHistorians/comments/oydg3g/i_am_in_the_18th_century_looking_to_join_the/h7wl6p1/) condensed from some of the findings in J. Ross Dancy's *The Myth of the Press-Gang*.
+
+### 340: [Got this book a few months ago and was wondering what these two symbols on the cover mean.](https://old.reddit.com/r/ChineseTranslation/comments/u2kaft/got_this_book_a_few_months_ago_and_was_wondering/), submitted on 2022-04-13 14:51:44+08:00.
+
+----- __340.1__ -----2022-04-13 16:14:27+08:00:
 
 More specifically, it indicates a general state of long-term happiness in one's life, rather than an emotional state.
 
-### 340: [Countries with coastal capitals](https://old.reddit.com/r/MapPorn/comments/u2n3ls/countries_with_coastal_capitals/), submitted on 2022-04-13 18:19:55+08:00.
+### 341: [Countries with coastal capitals](https://old.reddit.com/r/MapPorn/comments/u2n3ls/countries_with_coastal_capitals/), submitted on 2022-04-13 18:19:55+08:00.
 
------ __340.1__ -----2022-04-13 23:47:00+08:00:
+----- __341.1__ -----2022-04-13 23:47:00+08:00:
 
 Do I comment on the fact that the decidedly coastal city of Taipei seems not to have been counted?
 
-### 341: ['Guitar groups are on their way out, Mr Epstein.' So said Dick Rowe of Decca Records when he rejected the Beatles in 1962. We now know he was wrong, but would this have been a reasonable prediction in 1962? What sorts of 'guitar groups' were around, and were they facing a decline in popularity?](https://old.reddit.com/r/AskHistorians/comments/u2t0mn/guitar_groups_are_on_their_way_out_mr_epstein_so/), submitted on 2022-04-13 23:33:23+08:00.
+### 342: ['Guitar groups are on their way out, Mr Epstein.' So said Dick Rowe of Decca Records when he rejected the Beatles in 1962. We now know he was wrong, but would this have been a reasonable prediction in 1962? What sorts of 'guitar groups' were around, and were they facing a decline in popularity?](https://old.reddit.com/r/AskHistorians/comments/u2t0mn/guitar_groups_are_on_their_way_out_mr_epstein_so/), submitted on 2022-04-13 23:33:23+08:00.
 
------ __341.1__ -----2022-04-14 12:44:14+08:00:
+----- __342.1__ -----2022-04-14 12:44:14+08:00:
 
 Thank you!
 

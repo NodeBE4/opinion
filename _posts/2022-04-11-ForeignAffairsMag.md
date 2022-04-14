@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-13
+date: 2022-04-14
 from: https://old.reddit.com/r/geopolitics/comments/u192nt/the_return_of_conquest_why_the_future_of_global/
 layout: post
 tags:
@@ -72,6 +72,26 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 ### 206: [The Unstoppable Rise of Hindu Nationalism: How India’s Far Right Is Conquering Castes—and the Country](https://old.reddit.com/r/IndiaSpeaks/comments/u2rft0/the_unstoppable_rise_of_hindu_nationalism_how/), submitted on 2022-04-13 22:21:27+08:00.
 
 ----- __206.1__ -----2022-04-13 22:21:47+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 207: [The Outsiders: How the International System Can Still Check China and Russia](https://old.reddit.com/r/geopolitics/comments/u3ioyn/the_outsiders_how_the_international_system_can/), submitted on 2022-04-14 22:23:29+08:00.
+
+----- __207.1__ -----2022-04-14 22:24:47+08:00:
+
+\[SS from the article by Stacie E. Goddard, Professor of Political Science and Faculty Director of the Albright Institute at Wellesley College.\]
+
+"There is very little Washington could have done to stave off challenges to the liberal order. Historically, integration into international institutions has not restrained countries hoping to challenge the status quo. To the contrary, it has enhanced their ability to mobilize allies, secure leverage over their trading partners, and gain legitimacy for their normative visions. It is not simply that international institutions were unlikely to check China’s and Russia’s revisionism; their membership in fact assisted their efforts to transform world politics.  
+
+
+On the other hand, it is a mistake to dismiss institutional integration as a complete failure. If judged by the high ambitions set by U.S. policymakers, who thought that incorporating expansionist powers into international institutions would temper their ambitions, then it has not lived up to its promise. But judged by a more reasonable standard, it has succeeded: although institutional integration can’t prevent revisionism, it can shape the strategies revisionists use. Although Russia’s invasion of Ukraine has demonstrated that countries bent on expansionism will charge ahead regardless, on the whole, international institutions can channel this aggression so that it doesn’t devolve into bloodshed. Rather than giving up on institutions, then, Western policymakers should adopt a realistic approach to them. While they may not lead to completely harmonious relations, they can be a potent tool for preventing war.  
+
+
+A strategy of institutional realpolitik would also recognize that for all their coordination, China and Russia are very different types of revisionists. China’s assaults have been less violent but in many ways more consequential; where Moscow has relied on strategies of disruption and violence, Beijing has preferred to exert influence through growing networks and its position within international institutions. That is why the one-size-fits-all strategy of the past fell short—and why a new approach is called for. To that end, the United States needs to see international institutions not as a way to transform the fundamental nature of its rivals but as places that can become better forums for communicating preferences, resolving disputes, and establishing clear redlines. That, not lofty plans to change China and Russia or a wholesale abandonment of institutions, should help keep the revisionists in check."
+
+### 208: [Sri Lanka on the Brink: How the Pandemic and War in Ukraine Led to Economic Collapse](https://old.reddit.com/r/srilanka/comments/u3ithq/sri_lanka_on_the_brink_how_the_pandemic_and_war/), submitted on 2022-04-14 22:29:34+08:00.
+
+----- __208.1__ -----2022-04-14 22:29:55+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
