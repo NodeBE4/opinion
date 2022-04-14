@@ -89,11 +89,11 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 19: [2021-12-25 08:09:46+08:00 推文](https://twitter.com/realcaixia/status/1474532784853200896)
 
-如果这个消息是可靠的话。感恩上帝，平安夜送来的最好的消息。希望所有善良的人都能一生平安。<br><br>靜心: 李田田最新消息。<br><br><img style="" src="https://pbs.twimg.com/media/FHYLZt3XsAAu3Wo?format=jpg&name=orig" referrerpolicy="no-referrer">
+如果这个消息是可靠的话。感恩上帝，平安夜送来的最好的消息。希望所有善良的人都能一生平安。<br><br>靜心: 李田田最新消息。<br><br><img style src="https://pbs.twimg.com/media/FHYLZt3XsAAu3Wo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-25 10:51:09+08:00 推文](https://twitter.com/realcaixia/status/1474573401775816710)
 
-感謝謝阳律师。<br><img style src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
+感謝謝阳律师。<br><img style="" src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-25 20:27:29+08:00 推文](https://twitter.com/realcaixia/status/1474718440720150528)
 
