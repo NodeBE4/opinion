@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -333,7 +333,7 @@ Re @princeton_walk @JiangShangrong 如今信息战，消息一定要多方Check�
 
 ### 80: [2022-04-13 10:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1514067559787733004)
 
-请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。
+请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。<br><br>美国之音中文网: 盖洛普全球领导地位排名：德国继续位居第一，美国出现回升，中俄相当<br> <a href="http://dlvr.it/SNTBpY" target="_blank" rel="noopener noreferrer">http://dlvr.it/SNTBpY</a>
 
 ### 81: [2022-04-13 10:28:07+08:00 推文](https://twitter.com/HeQinglian/status/1514067881608335364)
 
@@ -450,4 +450,56 @@ Re @Wu_Zhi 我在考虑，鸡血乌粉是不是也会降点调门？最近太兴
 ### 109: [2022-04-14 09:31:14+08:00 推文](https://twitter.com/HeQinglian/status/1514415955564273667)
 
 Re @zhuxiuyuan 今天美财长讲，要将俄踢出IMF与G20；美任命的世行行长讲了，不要再依赖中国。<br>你再让法德与美英拜拜，大重置怎么玩得下去？冷战时期，好歹欧洲是盟友。拜登的民主党再会玩，也得找点玩伴是不？人家自己也知道，后院反美情绪很严重；非洲与中国关系很深。
+
+### 110: [2022-04-14 20:07:13+08:00 推文](https://twitter.com/HeQinglian/status/1514576002604752905)
+
+Re @zhuxiuyuan 很多网友的理解无非是网上热闹，就怕拜登政府班子这样理解（还包括一些从未研究过俄罗斯、制造过通俄门的政策、智库人士）。
+
+### 111: [2022-04-14 20:10:33+08:00 推文](https://twitter.com/HeQinglian/status/1514576842174382091)
+
+Re @swang20201 那么人家反弹批评不满，就不应该？<br>外交是什么？恐怕你也得学习一下。<br>因为推上有资深华女极左将街道大妈那套搬到推上，加上AOC四位天启女骑士，以及南希近两年的返祖现象，影响了一批又一批的中国“民主”新进，以为外交、人权就是骂街。
+
+### 112: [2022-04-14 20:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1514577168076058636)
+
+Re @Wu_Zhi 平心而论，这是此番信息战给养出来的心态。在此战之前，我相信这位乌克兰女士不会这样说。
+
+### 113: [2022-04-14 20:16:00+08:00 推文](https://twitter.com/HeQinglian/status/1514578212554444806)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 什么肤色？这很重要。
+
+### 114: [2022-04-14 20:18:47+08:00 推文](https://twitter.com/HeQinglian/status/1514578917033758728)
+
+Re @franktianxie 以前这种事情极少见，近几年越来越多。
+
+### 115: [2022-04-14 20:21:37+08:00 推文](https://twitter.com/HeQinglian/status/1514579627368407044)
+
+马克龙谴责战争但避免使用"种族灭绝" 泽连斯基称："非常伤人" <a href="https://rfi.my/8Kme.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Kme.T</a>
+
+### 116: [2022-04-14 20:23:42+08:00 推文](https://twitter.com/HeQinglian/status/1514580151086067717)
+
+Re @zhuxiuyuan 你愿意陪十年，世界愿意陪十年么？<br>看来平静日子过腻烦的人，不只有美国左派，窝里折腾出纽约与旧金山还不够，还愿意世界折腾。
+
+### 117: [2022-04-14 20:24:32+08:00 推文](https://twitter.com/HeQinglian/status/1514580360226615306)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 是某民主党议员的亲戚也好办。<br>如果都不是，就看老拜的心意了。
+
+### 118: [2022-04-14 20:30:04+08:00 推文](https://twitter.com/HeQinglian/status/1514581752882380802)
+
+戴琪: 中国贸易挑战远超俄罗斯危机 <br>评：整篇文章说得不清不楚。一是谈判艰难，二是担心中国援助俄罗斯。<br>就算全是事实，也没俄罗斯危机大。这些年不就是这样过来的么？不知是戴琪的本意，还是原文记者的创意。 <a href="https://rfi.my/8KlF.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8KlF.T</a>
+
+### 119: [2022-04-14 20:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1514581923502436365)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 说不定有什么关节通到小拜那里。
+
+### 120: [2022-04-14 20:49:18+08:00 推文](https://twitter.com/HeQinglian/status/1514586593100808199)
+
+Re @zhuxiuyuan 我们都非军事专家，也只是信息战的受众，真实情况如何，都是云雾中人。
+
+### 121: [2022-04-14 20:52:14+08:00 推文](https://twitter.com/HeQinglian/status/1514587334439751681)
+
+Re @xchen62 @swang20201 根子在全球主义派的以世界利益考量为第一。<br>其实，人类的生存状态还是以国家为单位，政府都是本国纳税人供养的。<br>本国纳税人供养的政府，却天天去考虑世界大事，最后总会出问题。美国这些年失去了方向，最后成了这样。
+
+### 122: [2022-04-14 20:55:50+08:00 推文](https://twitter.com/HeQinglian/status/1514588238111035406)
+
+Re @Zhongkui_liu 不要无视事实好不好？<br>新疆的事情，天天谴责种族灭绝，连新疆棉都被抵制了。<br>至于将来的事情，连西方都不知道未来怎样。
 
