@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-14
+date: 2022-04-15
 from: https://old.reddit.com/r/interestingasfuck/comments/u0yw8a/without_barriers_the_british_still_know_how_to/
 layout: post
 tags:
@@ -113,4 +113,10 @@ Does it? It's basically just three kinds of starch plus tomato sauce.
 ----- __344.1__ -----2022-04-15 00:55:59+08:00:
 
 Clip source: https://www.youtube.com/watch?v=ykLiHHepL9E
+
+### 345: [Chaos in Singapore streets when husband tries to chop his wife in the street, and is pushed back by witnesses around](https://old.reddit.com/r/AbruptChaos/comments/u43ss3/chaos_in_singapore_streets_when_husband_tries_to/), submitted on 2022-04-15 16:57:34+08:00.
+
+----- __345.1__ -----2022-04-15 23:10:31+08:00:
+
+'M-m-m-my lord?'
 
