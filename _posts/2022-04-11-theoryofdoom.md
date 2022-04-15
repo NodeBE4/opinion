@@ -85,6 +85,31 @@ That's the impact of lies from those who hold themselves out as experts, but are
 
 I'll just sit back and wait for those who engaged in fraudulent advertising to be sued for misleading the public.
 
+----- __221.4__ -----2022-04-16 01:57:30+08:00:
+
+> I was curious about your claim and just read a few journal articles that say the opposite.
+
+Please link anything you find that you think contradicts what I said.  Because this exercise is something I've gone through with many others now.  
+
+For example, here's a listing and explanation of [several such "studies"](https://www.reddit.com/r/CoronavirusIllinois/comments/tmajdx/airlines_ask_biden_to_drop_mask_mandate_and/i2peuei/) another user previously offered for the same purpose.  
+
+> There is correlation between positivity rate and mask mandates/adherance.
+
+There are so many problems with that statement.  But before I say things about it, link what you're working from.
+
+I'm not going to speculate about what you might have read.  There is too much subject matter.  More than 400 preprints --- numerous of which have since been retracted --- made claims that touched on these issues, which I have seen (via Google Scholar Search, about 3 months ago which was the last time I went through the purported findings).  
+
+So link what you read and we'll talk about the following:
+
+1. What those papers say;
+2. The data purportedly considered (and not considered), and why that matters; 
+3. The underlying methods used; and 
+4. The differences between whatever you're citing says and what I said, and why that matters.
+
+If I was aware of a single study/paper that contradicted what I said, I would not have wrote the post above.
+
+But who knows, maybe you'll be the first.
+
 ### 222: [Full Lockdown in Shanghai, this is how they broadcast announcements.](https://old.reddit.com/r/darktechnology/comments/u3xlau/full_lockdown_in_shanghai_this_is_how_they/), submitted on 2022-04-15 10:17:32+08:00.
 
 ----- __222.1__ -----2022-04-15 10:21:03+08:00:
