@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-14
+date: 2022-04-15
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/u1dq4h/unofficial_daily_update_for_20220411_1463_new/
 layout: post
 tags:
@@ -58,4 +58,32 @@ Taking longer views helps keeps things in perspective.
 > Someone needs to humble this boy.
 
 An impartial observer might note that this kind of thing didn't happen when they had corporal punishment in schools.
+
+### 220: [Your thoughts on this analogy by Ian Stewart](https://old.reddit.com/r/math/comments/u3gzay/your_thoughts_on_this_analogy_by_ian_stewart/), submitted on 2022-04-14 20:59:04+08:00.
+
+----- __220.1__ -----2022-04-15 09:06:36+08:00:
+
+> We define a sheep as a spherical set with no well-defined boundary that acts as a poop-valued mapping whose domain is Scotland.
+
+This is the best thing I have read in weeks.
+
+### 221: [Unofficial Daily Update for 2022-04-14. 3340 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/u3negv/unofficial_daily_update_for_20220414_3340_new/), submitted on 2022-04-15 02:00:18+08:00.
+
+----- __221.1__ -----2022-04-15 09:00:12+08:00:
+
+It turns out that "positives" vary independently from mask mandates (or mask utilization, per any such mandate).  That is clearly reflected everywhere such data is available, even controlling for variability in testing rates, to the arguable extent that is possible.  
+
+Virus is as virus does.  Competent evidence does not exist otherwise.
+
+----- __221.2__ -----2022-04-15 09:02:59+08:00:
+
+It is absolutely incredible to me that people still think masks affect community spread, especially post omicron.  That's like being a Chernobyl liquidator and thinking you're protected from radiation poisoning just because you're wearing a gas mask.  
+
+That's the impact of lies from those who hold themselves out as experts, but are in fact no such thing.  I'm reminded of Dagny Taggart's discussion with a certain scientist over the merits of Rearden metal.
+
+### 222: [Full Lockdown in Shanghai, this is how they broadcast announcements.](https://old.reddit.com/r/darktechnology/comments/u3xlau/full_lockdown_in_shanghai_this_is_how_they/), submitted on 2022-04-15 10:17:32+08:00.
+
+----- __222.1__ -----2022-04-15 10:21:03+08:00:
+
+https://www.youtube.com/watch?v=eM2PIjaSNVI
 
