@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -550,4 +550,68 @@ Re @seadognw @Wu_Zhi 本届美国政府与那28%的极左支持者是奇葩。<b
 ### 134: [2022-04-15 09:23:27+08:00 推文](https://twitter.com/HeQinglian/status/1514776381606948866)
 
 Re @Japan46791752 这是拜登美国如今的“软实力”——好莱坞的异形帝国大概 这么穿。
+
+### 135: [2022-04-15 20:22:42+08:00 推文](https://twitter.com/HeQinglian/status/1514942287553437698)
+
+Re @z6qfDnorHPjsLOF 雷正好劈过你的偶像，你也就是等日子挨。滚得越远越好，华夏怎么会你这种声音？
+
+### 136: [2022-04-15 20:37:07+08:00 推文](https://twitter.com/HeQinglian/status/1514945914665848838)
+
+这次俄乌战争输得最惨的是拜登政府。<br>1、验证了美国原有软实力不再，追随者寥寥，连仅剩的盟友也三心二意，心怀不满；<br>2、自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；<br>3、信誉不再，亲手终结了全球化；<br>4、生化实验室的事情再度曝光；<br>5、唯一赢的是军工企业，能源卖个好价
+
+### 137: [2022-04-15 20:53:16+08:00 推文](https://twitter.com/HeQinglian/status/1514949982603862016)
+
+Re @travellerrs 那是你的判断。
+
+### 138: [2022-04-15 20:57:49+08:00 推文](https://twitter.com/HeQinglian/status/1514951125555945475)
+
+Re 我这推下，先冒出来的几个评论，全是脑残而不自知，连世界此刻发生什么都不知道，还沉浸在连美国政府也宣布放弃部分的信息战里。<br>我借机清理园子。
+
+### 139: [2022-04-15 21:01:01+08:00 推文](https://twitter.com/HeQinglian/status/1514951929385918478)
+
+Re @mingshi_chen 已经多极化了，全球化最后几年是在准备成立世界政府，欧洲都已着手培养青年干部了。成为多极，就没世界政府的什么事情了。
+
+### 140: [2022-04-15 21:10:15+08:00 推文](https://twitter.com/HeQinglian/status/1514954254779305987)
+
+Re @jason78proton @travellerrs 从目的来看，乌克兰泽连斯基的班子一开头就准备好玉碎。<br>美国不是，拜登是想通过操纵此战重振美国雄风——他背后的势力可能是希望削弱美国，这意图他领会得不太透彻。
+
+### 141: [2022-04-15 21:18:15+08:00 推文](https://twitter.com/HeQinglian/status/1514956266749181962)
+
+Re @dw_chinese 其实各西方媒体先检查自己转了或者报道了多少假消息，再问自己Why？What？<br>这样也许可以下次真实一点。
+
+### 142: [2022-04-15 22:03:50+08:00 推文](https://twitter.com/HeQinglian/status/1514967740511141894)
+
+Re @god_grandson 这方面，你失望了。以后，不要再说这些自以为是的话。
+
+### 143: [2022-04-15 22:06:27+08:00 推文](https://twitter.com/HeQinglian/status/1514968398664544263)
+
+Re @Gang20236319 你耳朵是聋的。我说时，你还不知道世界上有个乌克兰。自己看看推号吧。<br>我见到这种赶风潮的推号，说不清多腻味。
+
+### 144: [2022-04-15 22:08:08+08:00 推文](https://twitter.com/HeQinglian/status/1514968823702642690)
+
+Re @Fakechinanews 是美国左派毁坏美国达到目的，美国输了。
+
+### 145: [2022-04-15 22:10:51+08:00 推文](https://twitter.com/HeQinglian/status/1514969503997829121)
+
+Re @JaneQin18 正准备写，站中间立场的国家，如果会做，利益最大化。
+
+### 146: [2022-04-15 22:13:34+08:00 推文](https://twitter.com/HeQinglian/status/1514970189343129600)
+
+Re @PengQiao8 @F2Bfv6SkiGeLwXd @travellerrs 很多人根本不知美国霸权两大支柱：一是军事后盾，二是美元霸权。和平时期主要是后者。<br>否则怎可能借30万亿美债？
+
+### 147: [2022-04-15 22:15:59+08:00 推文](https://twitter.com/HeQinglian/status/1514970795159740422)
+
+Re @princeton_walk @YANQING_BRONCO 是否喜欢一个人不重要，重要的是美国人的养老计划因拜登而改变。<br>我不相信，退休者对这么高的通胀无感。
+
+### 148: [2022-04-15 22:23:19+08:00 推文](https://twitter.com/HeQinglian/status/1514972644231294979)
+
+“西方需要二战”——马丁·阿姆斯特朗警告“这里没有恢复正常”<br><br>具有传奇色彩的金融和地缘政治周期分析师马丁·阿姆斯特朗认为，NWO所谓的人类“大重置”计划现在需要战争来使其发挥作用：“这种类型的通货膨胀与投机热潮大不相同。这种通货膨胀是基于短缺的”，与供应链的破坏有关... <a href="https://www.zerohedge.com/geopolitical/west-needs-wwiii-martin-armstrong-warns-theres-no-return-normal-here" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/geopolitical/west-needs-wwiii-martin-armstrong-warns-theres-no-return-normal-here</a>
+
+### 149: [2022-04-15 22:26:36+08:00 推文](https://twitter.com/HeQinglian/status/1514973470278434817)
+
+Re @Jones56170231 你的时间也不多了，还可以得瑟一阵。你沉迷的信息战已经转风向了。<br>到时候，你笑也笑不出来了。
+
+### 150: [2022-04-15 22:31:07+08:00 推文](https://twitter.com/HeQinglian/status/1514974603524952064)
+
+Re @princeton_walk @YANQING_BRONCO 按每年这通胀速度，每年养老金不会追涨，再活十年，不受穷，除了特别会投资——不过，那是远虑了。
 
