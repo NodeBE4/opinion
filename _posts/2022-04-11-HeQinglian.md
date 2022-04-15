@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-15
+date: 2022-04-16
 from: https://twitter.com/HeQinglian/status/1513202811097518086
 layout: post
 tags:
@@ -333,7 +333,7 @@ Re @princeton_walk @JiangShangrong 如今信息战，消息一定要多方Check�
 
 ### 80: [2022-04-13 10:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1514067559787733004)
 
-请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。<br><br>美国之音中文网: 盖洛普全球领导地位排名：德国继续位居第一，美国出现回升，中俄相当<br> <a href="http://dlvr.it/SNTBpY" target="_blank" rel="noopener noreferrer">http://dlvr.it/SNTBpY</a>
+请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。
 
 ### 81: [2022-04-13 10:28:07+08:00 推文](https://twitter.com/HeQinglian/status/1514067881608335364)
 
@@ -630,4 +630,24 @@ Re @Wazy1988bW 我的看法是：大重置的领头羊想要三战，德法未�
 ### 154: [2022-04-15 23:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1514982807264759812)
 
 Re @rui99359586 @Jones56170231 事实核查：为什么这些乌军的“战功”并非事实？<br> <br>俄罗斯对乌克兰的入侵带来了很多热门视频，双方都声称取得了军事上的成功。但你能相信这些无人机袭击、狙击手和伏击的画面吗？DW解读了一个热门视频以寻找真相。<br>——你的眼睛不够亮，克制一下情绪，也许能看到这是事实。 <a href="https://p.dw.com/p/49zDC" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/49zDC</a>
+
+### 155: [2022-04-16 01:20:58+08:00 推文](https://twitter.com/HeQinglian/status/1515017351061815300)
+
+Re @jennytancredi1 @god_grandson 你是脑残。<br>1、程晓农的节目在，他去听就是；<br>2、喜欢统一思想的人，还统一到别人家去了。<br>滚麻利一点。
+
+### 156: [2022-04-16 01:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1515017749000597506)
+
+Re @Alantommc2 @imnumnum 膨胀罢了，以为自己是谁。
+
+### 157: [2022-04-16 01:26:41+08:00 推文](https://twitter.com/HeQinglian/status/1515018787866783755)
+
+Re @rui99359586 @Jones56170231 我相信你看不清事实，至少对美元霸权衰落这点，美国许多专家都看明白的事实，你看不明白。<br>你也是迟至现在，才承认以往你认定的事实是立场与宣传。<br>再看见冒头，礼送出境。
+
+### 158: [2022-04-16 01:30:47+08:00 推文](https://twitter.com/HeQinglian/status/1515019818855972875)
+
+Re @realTaoRay 那是。推特这些年为美国左派极端势力立下汗马功劳，一块他们不能失去的阵地。
+
+### 159: [2022-04-16 01:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1515021623086231553)
+
+Re @StonevWZo7o9 这我还真同意。因为我知道，有的老朋友对大重置闻所未闻，最敏感最愿意用脑的，知道美国现在有点不对劲。<br>我们都是这5%之内。
 
