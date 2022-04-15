@@ -104,6 +104,10 @@ Thank you!
 
 So, a possible source of confusion is that American baked beans are served in a brown sugar sauce, while British baked beans are served in a tomato sauce. Because of that, it probably looks like a much weirder flavour combo to non-British people than it actually is, because the bean sauce is a bit more ketchupy than it may seem.
 
+----- __343.2__ -----2022-04-15 10:51:24+08:00:
+
+Does it? It's basically just three kinds of starch plus tomato sauce.
+
 ### 344: [Ah yes, the “Negotiator”](https://old.reddit.com/r/Hololive/comments/u3k7qc/ah_yes_the_negotiator/), submitted on 2022-04-14 23:33:48+08:00.
 
 ----- __344.1__ -----2022-04-15 00:55:59+08:00:

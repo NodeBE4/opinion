@@ -440,3 +440,11 @@ Why do I bring this all up? Essentially, for the original I got curious enough t
 
 So if nothing else, it's good to see that the original Game-bu members have been able to keep going despite Unlimited throwing them under the bus.
 
+----- __332.12__ -----2022-04-15 10:41:25+08:00:
+
+I have a vague recollection that it had already sort of started with Kizuna AI, or at least that it had been teased but then retracted. In any case, Unlimited/Brave's reputation has been so shaky that ironically I wonder if this decision drives other agencies *away* from NFTs purely because Brave is doing it.
+
+----- __332.13__ -----2022-04-15 10:43:14+08:00:
+
+Just to clear up some confusion, upd8 was the agency branch of Activ8, while Game-bu was one particular project under Unlimited Inc./Brave Group. These were not parts of the same company, they just happen to have had similar scandals around the same time.
+
