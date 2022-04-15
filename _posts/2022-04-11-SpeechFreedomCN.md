@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-14
+date: 2022-04-15
 from: https://twitter.com/SpeechFreedomCN/status/1513609735819472903
 layout: post
 tags:
@@ -54,4 +54,12 @@ Re 总结一下，如果你事事听信官方辟谣，那你一定会经常吃�
 ### 10: [2022-04-14 10:34:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1514431748410642433)
 
 Changchun woman Wang detained for 7 days and fined 300 CNY for organizing Pot Striking in a group chat. Pot Striking is derived from 2020 Wuhan lockdown, of which the purpose is to attract the attention of neighbors or authority when there's an emergency in a locked down house.<br><img style="" src="https://pbs.twimg.com/media/FQQumDgWQAcs-Fk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-04-15 12:01:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1514816030580744201)
+
+黑龙江富裕县男子李某，因在多个QQ群内“发布大量诋毁、辱骂党和国家及国家领导人的不当言论，损害党和国家领导人的形象”，于2019年被捕，并于次年9月被当地检方以寻衅滋事罪提起公诉，判决不详。<br><img style="" src="https://pbs.twimg.com/media/FQVVTCvWYAkIaus?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQVVULeWYAkIkXb?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-04-15 12:04:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1514816785459122176)
+
+Heilongjiang man Li, who "slandered and insulted stated leaders in multiple QQ groups", arrested in 2019 and then charged with Picking Quarrel and Provoking Trouble. He was then prosecuted in Sep 2020, and the sentence remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FQVVuinXIBEpSTy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQVVvk7XsAEBh1c?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

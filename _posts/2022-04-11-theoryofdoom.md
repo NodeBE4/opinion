@@ -81,6 +81,10 @@ It is absolutely incredible to me that people still think masks affect community
 
 That's the impact of lies from those who hold themselves out as experts, but are in fact no such thing.  I'm reminded of Dagny Taggart's discussion with a certain scientist over the merits of Rearden metal.
 
+----- __221.3__ -----2022-04-15 12:14:14+08:00:
+
+I'll just sit back and wait for those who engaged in fraudulent advertising to be sued for misleading the public.
+
 ### 222: [Full Lockdown in Shanghai, this is how they broadcast announcements.](https://old.reddit.com/r/darktechnology/comments/u3xlau/full_lockdown_in_shanghai_this_is_how_they/), submitted on 2022-04-15 10:17:32+08:00.
 
 ----- __222.1__ -----2022-04-15 10:21:03+08:00:
