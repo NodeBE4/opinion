@@ -13,21 +13,21 @@ title: EnclavedMicrostate在2022-01-03~2022-01-09的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 22: [Kiara confirmed in her latest stream that Myth 3D was ready to go as early as July last year.](https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/), submitted on 2022-01-03 05:27:09+08:00.
+### 23: [Kiara confirmed in her latest stream that Myth 3D was ready to go as early as July last year.](https://old.reddit.com/r/Hololive/comments/ruju7b/kiara_confirmed_in_her_latest_stream_that_myth_3d/), submitted on 2022-01-03 05:27:09+08:00.
 
------ __22.1__ -----2022-01-03 12:39:08+08:00:
+----- __23.1__ -----2022-01-03 12:39:08+08:00:
 
 > Japan is historically one of the most isolationist countries in the world.
 
 I agree with most of what you're saying, but can we not resort to Orientalism here...
 
------ __22.2__ -----2022-01-03 12:43:30+08:00:
+----- __23.2__ -----2022-01-03 12:43:30+08:00:
 
 It's two things: firstly, the insinuation that if an 'Eastern' country or people did a thing in the past then there was something inherently cultural about it; secondly, [it isn't even true historically](https://www.reddit.com/r/AskHistorians/comments/iaxh4j/why_did_japan_decide_to_be_isolationist_during/).
 
-### 23: [Did the massive Napoleonic Wars in Europe impact China, Japan and India in any meaningful way?](https://old.reddit.com/r/AskHistorians/comments/rukyr5/did_the_massive_napoleonic_wars_in_europe_impact/), submitted on 2022-01-03 06:15:29+08:00.
+### 24: [Did the massive Napoleonic Wars in Europe impact China, Japan and India in any meaningful way?](https://old.reddit.com/r/AskHistorians/comments/rukyr5/did_the_massive_napoleonic_wars_in_europe_impact/), submitted on 2022-01-03 06:15:29+08:00.
 
------ __23.1__ -----2022-01-03 19:42:52+08:00:
+----- __24.1__ -----2022-01-03 19:42:52+08:00:
 
 Pinging /u/Marionberry_Due seeing as they asked this as a followup tp /u/LXT130J's answer on India and Japan:
 
@@ -51,7 +51,7 @@ In the immediate term, the Amherst embassy, actually with more conservative goal
 
 But the British conviction in the superiority of 'Western' civilisation in general and the British Empire in particular never exactly dissipated, at least not in the period discussed, and went on to influence the growing sabre-rattling about Qing trade restrictions that brought Britain ever closer to the brink of war with China over the first four decades of the nineteenth century. Nothing, of course, was inevitable about the Opium War, but the conditions under which Britain chose to go to war in response to Lin Zexu's opium suppression campaigns were in large part the product of their victory over Napoleon, and so too was the mindset – or mindsets – that informed the decision.
 
------ __23.2__ -----2022-01-04 09:49:37+08:00:
+----- __24.2__ -----2022-01-04 09:49:37+08:00:
 
 As regards numbers:
 
@@ -63,35 +63,35 @@ On top of that we need to distinguish campaign deployments from total strength. 
 
 As regards finances, while we can speak of differences in purchasing power, you’d need a pretty substantial difference in purchasing power to compensate for the massive gulf in per capita tax revenues between the Qing and European states. While it may complicate quantification, for a qualitative argument about relative levels of extractive power it’s good enough.
 
-### 24: [Towa confused by the superior idol step](https://old.reddit.com/r/Hololive/comments/rv0vs4/towa_confused_by_the_superior_idol_step/), submitted on 2022-01-03 20:42:08+08:00.
+### 25: [Towa confused by the superior idol step](https://old.reddit.com/r/Hololive/comments/rv0vs4/towa_confused_by_the_superior_idol_step/), submitted on 2022-01-03 20:42:08+08:00.
 
------ __24.1__ -----2022-01-04 16:12:29+08:00:
+----- __25.1__ -----2022-01-04 16:12:29+08:00:
 
 FAQ
 
-### 25: [1421: can contact happen without transmission?](https://old.reddit.com/r/AskHistorians/comments/rv6wnv/1421_can_contact_happen_without_transmission/), submitted on 2022-01-04 01:24:42+08:00.
+### 26: [1421: can contact happen without transmission?](https://old.reddit.com/r/AskHistorians/comments/rv6wnv/1421_can_contact_happen_without_transmission/), submitted on 2022-01-04 01:24:42+08:00.
 
------ __25.1__ -----2022-01-04 02:46:44+08:00:
+----- __26.1__ -----2022-01-04 02:46:44+08:00:
 
 A couple of quick notes; firstly that unfortunately OP deleted the question, secondly the reason the link doesn't work is there seems to be an extra slash at the end; the working link is 
 
 https://www.reddit.com/r/AskHistorians/comments/klzsiq/how_do_theories_of_viking_or_basque_discovery_of/ghdlb08/
 
-### 26: [Westerns often depict decently-sized towns out in arid regions with little to no visible farmland. Is this purely a limitation of film budgets, or did settlements in the American west and northern Mexico in the 1800s actually generally import food rather than produce it locally?](https://old.reddit.com/r/AskHistorians/comments/rv730p/westerns_often_depict_decentlysized_towns_out_in/), submitted on 2022-01-04 01:32:24+08:00.
+### 27: [Westerns often depict decently-sized towns out in arid regions with little to no visible farmland. Is this purely a limitation of film budgets, or did settlements in the American west and northern Mexico in the 1800s actually generally import food rather than produce it locally?](https://old.reddit.com/r/AskHistorians/comments/rv730p/westerns_often_depict_decentlysized_towns_out_in/), submitted on 2022-01-04 01:32:24+08:00.
 
------ __26.1__ -----2022-01-04 09:04:06+08:00:
+----- __27.1__ -----2022-01-04 09:04:06+08:00:
 
 Thank you! I don't know that there's anything really left for me to ask here.
 
-### 27: [The Qing Empire was ruled by a Manchu dynasty - why then did they seemingly encourage Han settler colonialism in Xinjiang and Mongolia?](https://old.reddit.com/r/AskHistorians/comments/rvhbbt/the_qing_empire_was_ruled_by_a_manchu_dynasty_why/), submitted on 2022-01-04 09:03:41+08:00.
+### 28: [The Qing Empire was ruled by a Manchu dynasty - why then did they seemingly encourage Han settler colonialism in Xinjiang and Mongolia?](https://old.reddit.com/r/AskHistorians/comments/rvhbbt/the_qing_empire_was_ruled_by_a_manchu_dynasty_why/), submitted on 2022-01-04 09:03:41+08:00.
 
------ __27.1__ -----2022-01-04 22:22:48+08:00:
+----- __28.1__ -----2022-01-04 22:22:48+08:00:
 
 This was primarily the result of military insecurity in the latter part of the nineteenth century – I cover these in brief [in this answer](https://www.reddit.com/r/AskHistorians/comments/ncpdv2/why_did_china_never_build_a_colonial_empire/gy8kese/) but feel free to ask any followups if you have them.
 
-### 28: [What is the oldest book we still have an original copy of?](https://old.reddit.com/r/AskHistorians/comments/rvophj/what_is_the_oldest_book_we_still_have_an_original/), submitted on 2022-01-04 15:29:16+08:00.
+### 29: [What is the oldest book we still have an original copy of?](https://old.reddit.com/r/AskHistorians/comments/rvophj/what_is_the_oldest_book_we_still_have_an_original/), submitted on 2022-01-04 15:29:16+08:00.
 
------ __28.1__ -----2022-01-04 17:15:51+08:00:
+----- __29.1__ -----2022-01-04 17:15:51+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -99,23 +99,23 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 29: [All the words for tea in different languages have originated from Mandarin!](https://old.reddit.com/r/coolguides/comments/rvsgsg/all_the_words_for_tea_in_different_languages_have/), submitted on 2022-01-04 19:40:38+08:00.
+### 30: [All the words for tea in different languages have originated from Mandarin!](https://old.reddit.com/r/coolguides/comments/rvsgsg/all_the_words_for_tea_in_different_languages_have/), submitted on 2022-01-04 19:40:38+08:00.
 
------ __29.1__ -----2022-01-05 01:47:11+08:00:
+----- __30.1__ -----2022-01-05 01:47:11+08:00:
 
 Hang on, no – as can be seen, there's a substantial number of languages, including English 'tea', where it comes from Min Nan.
 
-### 30: [From loner to leader; from Kouhai to Senpai — IRyS fits everywhere](https://old.reddit.com/r/Hololive/comments/rvw7pq/from_loner_to_leader_from_kouhai_to_senpai_irys/), submitted on 2022-01-04 22:56:12+08:00.
+### 31: [From loner to leader; from Kouhai to Senpai — IRyS fits everywhere](https://old.reddit.com/r/Hololive/comments/rvw7pq/from_loner_to_leader_from_kouhai_to_senpai_irys/), submitted on 2022-01-04 22:56:12+08:00.
 
------ __30.1__ -----2022-01-05 12:59:35+08:00:
+----- __31.1__ -----2022-01-05 12:59:35+08:00:
 
 > The last member to join Hololive outside a generation was Azki a full three years ago in late 2018
 
 Not quite, Suisei joined INNK in May 2019 and transferred to Hololive proper in December. AFAIK 'Gen 0' didn't officially exist until late 2020, so there was a period when Sora, Roboco, Miko and eventually Suisei were kind of unclassified. As for IRyS, she is technically in a generation because she's listed under Project:HOPE, it just remains to be seen if that will ever expand beyond her.
 
-### 31: [Why wasn't Sisko on the Defiant in First Contact?](https://old.reddit.com/r/startrek/comments/rw65t7/why_wasnt_sisko_on_the_defiant_in_first_contact/), submitted on 2022-01-05 06:08:24+08:00.
+### 32: [Why wasn't Sisko on the Defiant in First Contact?](https://old.reddit.com/r/startrek/comments/rw65t7/why_wasnt_sisko_on_the_defiant_in_first_contact/), submitted on 2022-01-05 06:08:24+08:00.
 
------ __31.1__ -----2022-01-05 20:10:32+08:00:
+----- __32.1__ -----2022-01-05 20:10:32+08:00:
 
 I'll lay my cards on the table here: I very much liked *Picard* season 1 during its airing and continue to in retrospect, so I may leap a little bit in its defence and overlook and/or overstate certain things.
 
@@ -125,9 +125,9 @@ What *Picard* does is acknowledge the unsatisfactory conclusion of *Nemesis*, an
 
 So you'd have to come up with a particularly good reason as to *why* any of them might be needed, and that's pretty hard for either Lore or Tainer. Lal *is* actually vaguely alluded to, both in Data's *Daughter* paintings and also Picard's own reference to Data having 'always wanted a daughter'. And that I think shows how *Picard* handles these references well, because the significance of those statements derives not from simply being continuity-relevant, but rather from what they can be used to tell us about the characters in the context of the current story being told. And on top of that, not mentioning Lal by name is, I would argue, a *good* choice creatively, because if you have watched 'The Offspring', then you'll know what Picard is alluding to without him needing to bring her up by name; if you haven't, then you don't get confronted with a one-off reference to some 'Lal' character who doesn't otherwise appear in the show itself.
 
-### 32: [How should the question ‘Should Historians Make Moral Judgements?’ affect History as a discipline?](https://old.reddit.com/r/AskHistorians/comments/rwkena/how_should_the_question_should_historians_make/), submitted on 2022-01-05 19:04:10+08:00.
+### 33: [How should the question ‘Should Historians Make Moral Judgements?’ affect History as a discipline?](https://old.reddit.com/r/AskHistorians/comments/rwkena/how_should_the_question_should_historians_make/), submitted on 2022-01-05 19:04:10+08:00.
 
------ __32.1__ -----2022-01-05 20:14:29+08:00:
+----- __33.1__ -----2022-01-05 20:14:29+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -135,29 +135,29 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 33: [The Coming of a New Era!](https://old.reddit.com/r/Hololive/comments/rx6crm/the_coming_of_a_new_era/), submitted on 2022-01-06 13:12:02+08:00.
+### 34: [The Coming of a New Era!](https://old.reddit.com/r/Hololive/comments/rx6crm/the_coming_of_a_new_era/), submitted on 2022-01-06 13:12:02+08:00.
 
------ __33.1__ -----2022-01-06 16:06:06+08:00:
+----- __34.1__ -----2022-01-06 16:06:06+08:00:
 
 Faunever alone.
 
-### 34: [How did Alexander the Great populate the cities he founded?](https://old.reddit.com/r/AskHistorians/comments/rxz5wb/how_did_alexander_the_great_populate_the_cities/), submitted on 2022-01-07 12:57:01+08:00.
+### 35: [How did Alexander the Great populate the cities he founded?](https://old.reddit.com/r/AskHistorians/comments/rxz5wb/how_did_alexander_the_great_populate_the_cities/), submitted on 2022-01-07 12:57:01+08:00.
 
------ __34.1__ -----2022-01-07 14:34:30+08:00:
+----- __35.1__ -----2022-01-07 14:34:30+08:00:
 
 More can of course be said, but /u/toldinstone and I discussed aspects of a similar question [here](https://www.reddit.com/r/AskHistorians/comments/oonglp/what_does_it_mean_to_found_a_city/h60jokv/).
 
-### 35: [What are the most well known and documented events in history of unexplainable/paranormal occurances?](https://old.reddit.com/r/AskHistorians/comments/ry3fas/what_are_the_most_well_known_and_documented/), submitted on 2022-01-07 17:19:14+08:00.
+### 36: [What are the most well known and documented events in history of unexplainable/paranormal occurances?](https://old.reddit.com/r/AskHistorians/comments/ry3fas/what_are_the_most_well_known_and_documented/), submitted on 2022-01-07 17:19:14+08:00.
 
------ __35.1__ -----2022-01-07 17:24:24+08:00:
+----- __36.1__ -----2022-01-07 17:24:24+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 36: [Why was China never fully colonised by the west?](https://old.reddit.com/r/ChineseHistory/comments/ry6u7x/why_was_china_never_fully_colonised_by_the_west/), submitted on 2022-01-07 20:59:08+08:00.
+### 37: [Why was China never fully colonised by the west?](https://old.reddit.com/r/ChineseHistory/comments/ry6u7x/why_was_china_never_fully_colonised_by_the_west/), submitted on 2022-01-07 20:59:08+08:00.
 
------ __36.1__ -----2022-01-07 21:26:47+08:00:
+----- __37.1__ -----2022-01-07 21:26:47+08:00:
 
 It cuts two ways: 
 
@@ -167,31 +167,31 @@ On the other hand, the Qing Empire was a decently competitive imperial power in 
 
 For something more in-depth I wrote [this](https://www.reddit.com/r/AskHistorians/comments/hpxbz0/why_wasnt_qing_china_colonised_by_the_british/fxvzwtn/) over on r/AskHistorians.
 
------ __36.2__ -----2022-01-08 10:34:47+08:00:
+----- __37.2__ -----2022-01-08 10:34:47+08:00:
 
 > If instead of a Manchu Qing Dynasty facing the West, it was a strong Han regime, China would actually not have lost so badly.
 
 Excuse me!? Is there any way of parsing that statement that is *not* racist?
 
------ __36.3__ -----2022-01-08 11:30:27+08:00:
+----- __37.3__ -----2022-01-08 11:30:27+08:00:
 
 'Han' here clearly means Han Chinese, not the Han empire of 202 BCE to 220 AD.
 
------ __36.4__ -----2022-01-08 11:40:53+08:00:
+----- __37.4__ -----2022-01-08 11:40:53+08:00:
 
 It's one thing to object to my literal statement and another to suggest that there is not almost certainly an ethnic dimension. The fact is that it the original comment very overtly contrasted '*Manchu* Qing Dynasty' with 'a strong Han regime', implying that ethnicity was the key difference. If ethnicity didn't matter, why highlight the Qing? And why highlight a 'strong' Han regime unless implying that a non-Han regime would not be so?
 
------ __36.5__ -----2022-01-08 11:41:37+08:00:
+----- __37.5__ -----2022-01-08 11:41:37+08:00:
 
 Your original comment very overtly contrasted '*Manchu* Qing Dynasty' with 'a strong Han regime', implying that Han regimes would be strong by definition and that the Qing was weak because it was not one.
 
------ __36.6__ -----2022-01-08 11:49:06+08:00:
+----- __37.6__ -----2022-01-08 11:49:06+08:00:
 
 Good to see where you stand.
 
-### 37: [(Spoilers Main)Why was Robb beating Tywin?](https://old.reddit.com/r/asoiaf/comments/ryi03s/spoilers_mainwhy_was_robb_beating_tywin/), submitted on 2022-01-08 05:09:14+08:00.
+### 38: [(Spoilers Main)Why was Robb beating Tywin?](https://old.reddit.com/r/asoiaf/comments/ryi03s/spoilers_mainwhy_was_robb_beating_tywin/), submitted on 2022-01-08 05:09:14+08:00.
 
------ __37.1__ -----2022-01-09 13:33:25+08:00:
+----- __38.1__ -----2022-01-09 13:33:25+08:00:
 
 > Then there is the Gordian Knot. I don't even wanna get into it because I know that you would deny those things as opposed to being innovative ideas as well.
 
@@ -203,15 +203,15 @@ As someone who has done a decent amount of reading on Alexander, I want to note 
 
 * There is one version, that of Quintus Curtius Rufus, where the cutting of the knot is portrayed as a face-saving measure rather than a stroke of genius: Alexander *did* try untying the knot normally and couldn't, and he cut the knot out of frustration and to avoid embarrassment.
 
------ __37.2__ -----2022-01-09 15:42:36+08:00:
+----- __38.2__ -----2022-01-09 15:42:36+08:00:
 
 Assuming, of course, that the knot had been around for a particularly long time (rope is an organic material and will decay), that nobody *had* untied it before but might have been forgotten because they weren't that important, or that maybe nobody wanted to risk the consequences of *actually* doing it and Alexander actually trampled on quite a significant local legend. Sure, he did it, but it's not some major stroke of genius.
 
 Alexander was many things, but he was also a figure of mythic proportions, and nearly *all* of our sources for his activity come from people writing literally hundreds of years later, having absorbed a lot of these myths and allowing them to influence how they wrote about Alexander even as they referred to then-extant, now-lost primary sources. The notion of Alexander as some singular unparalleled genius, as opposed to a decently bold and rather lucky warlord who owed much of his success to his father, comes from accounts that portrayed Alexander as the progenitor of the Hellenistic Greek world and as something beyond conventional mortal limits.
 
-### 38: [The Taiping Rebellion led to 20-30 million deaths in China. Was this tragedy almost entirely due to European colonialism in China i.e. the century of humiliation?](https://old.reddit.com/r/AskHistorians/comments/ryjbc5/the_taiping_rebellion_led_to_2030_million_deaths/), submitted on 2022-01-08 06:04:39+08:00.
+### 39: [The Taiping Rebellion led to 20-30 million deaths in China. Was this tragedy almost entirely due to European colonialism in China i.e. the century of humiliation?](https://old.reddit.com/r/AskHistorians/comments/ryjbc5/the_taiping_rebellion_led_to_2030_million_deaths/), submitted on 2022-01-08 06:04:39+08:00.
 
------ __38.1__ -----2022-01-08 14:13:07+08:00:
+----- __39.1__ -----2022-01-08 14:13:07+08:00:
 
 This is a question which I have answered dimensions of in the past, with relevant write-ups including: 
 
@@ -225,35 +225,35 @@ This is a question which I have answered dimensions of in the past, with relevan
 
 If you have any followups do feel free to ask and I'll be happy to answer.
 
-### 39: [What would have happened if China discovered the Americas before Europe?](https://old.reddit.com/r/AskHistorians/comments/ryp3km/what_would_have_happened_if_china_discovered_the/), submitted on 2022-01-08 10:32:09+08:00.
+### 40: [What would have happened if China discovered the Americas before Europe?](https://old.reddit.com/r/AskHistorians/comments/ryp3km/what_would_have_happened_if_china_discovered_the/), submitted on 2022-01-08 10:32:09+08:00.
 
------ __39.1__ -----2022-01-08 10:39:19+08:00:
+----- __40.1__ -----2022-01-08 10:39:19+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 40: [Which Society/Culture Invented Created the Most Important Inventions of All Time?](https://old.reddit.com/r/AskHistorians/comments/rywabg/which_societyculture_invented_created_the_most/), submitted on 2022-01-08 17:43:55+08:00.
+### 41: [Which Society/Culture Invented Created the Most Important Inventions of All Time?](https://old.reddit.com/r/AskHistorians/comments/rywabg/which_societyculture_invented_created_the_most/), submitted on 2022-01-08 17:43:55+08:00.
 
------ __40.1__ -----2022-01-08 18:09:04+08:00:
+----- __41.1__ -----2022-01-08 18:09:04+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 41: [Varied reactions to Gura on Twitter](https://old.reddit.com/r/Hololive/comments/rz6joe/varied_reactions_to_gura_on_twitter/), submitted on 2022-01-09 02:35:52+08:00.
+### 42: [Varied reactions to Gura on Twitter](https://old.reddit.com/r/Hololive/comments/rz6joe/varied_reactions_to_gura_on_twitter/), submitted on 2022-01-09 02:35:52+08:00.
 
------ __41.1__ -----2022-01-09 11:36:08+08:00:
+----- __42.1__ -----2022-01-09 11:36:08+08:00:
 
 The first duty of every Hololive member is to ~~seiso~~ comedy...
 
-### 42: [hololive English -Myth- - Journey Like a Thousand Years](https://old.reddit.com/r/Hololive/comments/rzgesn/hololive_english_myth_journey_like_a_thousand/), submitted on 2022-01-09 09:54:28+08:00.
+### 43: [hololive English -Myth- - Journey Like a Thousand Years](https://old.reddit.com/r/Hololive/comments/rzgesn/hololive_english_myth_journey_like_a_thousand/), submitted on 2022-01-09 09:54:28+08:00.
 
------ __42.1__ -----2022-01-09 11:31:13+08:00:
+----- __43.1__ -----2022-01-09 11:31:13+08:00:
 
 Doesn't Myth or Treat count?
 
-### 43: [What is the biggest year ever used practically?](https://old.reddit.com/r/AskHistorians/comments/rziawi/what_is_the_biggest_year_ever_used_practically/), submitted on 2022-01-09 11:32:41+08:00.
+### 44: [What is the biggest year ever used practically?](https://old.reddit.com/r/AskHistorians/comments/rziawi/what_is_the_biggest_year_ever_used_practically/), submitted on 2022-01-09 11:32:41+08:00.
 
------ __43.1__ -----2022-01-09 11:44:01+08:00:
+----- __44.1__ -----2022-01-09 11:44:01+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -261,9 +261,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 44: [Were the Jie people a race related to Amerindians?](https://old.reddit.com/r/AskHistorians/comments/rzl2k7/were_the_jie_people_a_race_related_to_amerindians/), submitted on 2022-01-09 14:10:06+08:00.
+### 45: [Were the Jie people a race related to Amerindians?](https://old.reddit.com/r/AskHistorians/comments/rzl2k7/were_the_jie_people_a_race_related_to_amerindians/), submitted on 2022-01-09 14:10:06+08:00.
 
------ __44.1__ -----2022-01-09 15:54:19+08:00:
+----- __45.1__ -----2022-01-09 15:54:19+08:00:
 
 Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to .
 

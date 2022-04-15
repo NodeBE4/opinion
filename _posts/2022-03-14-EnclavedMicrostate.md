@@ -13,25 +13,25 @@ title: EnclavedMicrostate在2022-03-14~2022-03-20的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 222: [额 as a Royal Title?](https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/), submitted on 2022-03-14 07:00:44+08:00.
+### 223: [额 as a Royal Title?](https://old.reddit.com/r/ChineseLanguage/comments/tdiyzx/额_as_a_royal_title/), submitted on 2022-03-14 07:00:44+08:00.
 
------ __222.1__ -----2022-03-14 08:36:30+08:00:
+----- __223.1__ -----2022-03-14 08:36:30+08:00:
 
 To reiterate and expand on the other two comments, the Manchu ᡝᠨᠶᡝ *eniye* 'mother' was loaned into Beijing Mandarin as 額娘 *eniang*, but I cannot find examples of 額皇 in use anywhere; was this a misreading or mishearing on your part? Or is it there in the subtitles?
 
------ __222.2__ -----2022-03-14 08:42:48+08:00:
+----- __223.2__ -----2022-03-14 08:42:48+08:00:
 
 As I understand it, 朕 *zhen* as the first-person pronoun for emperors has been enshrined since the Qin, rather than being a specifically Manchu construction.
 
-### 223: [If ernst rohm (The leader of the Nazi SA) were to survive until the Nuremberg Trials, what would he be convicted of?](https://old.reddit.com/r/AskHistorians/comments/tdoh6s/if_ernst_rohm_the_leader_of_the_nazi_sa_were_to/), submitted on 2022-03-14 11:53:14+08:00.
+### 224: [If ernst rohm (The leader of the Nazi SA) were to survive until the Nuremberg Trials, what would he be convicted of?](https://old.reddit.com/r/AskHistorians/comments/tdoh6s/if_ernst_rohm_the_leader_of_the_nazi_sa_were_to/), submitted on 2022-03-14 11:53:14+08:00.
 
------ __223.1__ -----2022-03-14 13:11:46+08:00:
+----- __224.1__ -----2022-03-14 13:11:46+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 224: [Gifting Ginormous Genes - Weekly Discussion Thread, March 14th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tdvzzg/gifting_ginormous_genes_weekly_discussion_thread/), submitted on 2022-03-14 20:07:57+08:00.
+### 225: [Gifting Ginormous Genes - Weekly Discussion Thread, March 14th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tdvzzg/gifting_ginormous_genes_weekly_discussion_thread/), submitted on 2022-03-14 20:07:57+08:00.
 
------ __224.1__ -----2022-03-21 10:15:58+08:00:
+----- __225.1__ -----2022-03-21 10:15:58+08:00:
 
 Calli's stated on stream, and I think on her roommate account, that she does want to be able to stay in Japan long-term, but that if possible she wants to be able to split 50-50 between the US and Japan. Unless there's been some major change behind the scenes (and even then, I recall those statements being around the time the album would have been worked on) then that's unlikely to change. I'm also wary of reading too much into some of these lyrics because a decent interpretation of part of 'Live Again' is that she was going to retire her roommate account entirely, which isn't what's happened. For all we know she may have written the song at a time quite removed from where she is now, but released it anyway as a snapshot of that stage in her life/career.
 
@@ -39,41 +39,41 @@ But even if it is confirming some big changes coming, well, to quote The Frenchm
 
 Plus we all know Calli is secretly Anemachi anyway.
 
-### 225: [For those who can't see Calli in 3D this Sunday, don't worry! She's got some good stuff planned for everyone! Sasuga dad!](https://old.reddit.com/r/Hololive/comments/tesd12/for_those_who_cant_see_calli_in_3d_this_sunday/), submitted on 2022-03-16 00:03:40+08:00.
+### 226: [For those who can't see Calli in 3D this Sunday, don't worry! She's got some good stuff planned for everyone! Sasuga dad!](https://old.reddit.com/r/Hololive/comments/tesd12/for_those_who_cant_see_calli_in_3d_this_sunday/), submitted on 2022-03-16 00:03:40+08:00.
 
------ __225.1__ -----2022-03-16 01:25:46+08:00:
+----- __226.1__ -----2022-03-16 01:25:46+08:00:
 
 So I think I have a rough idea as to what it might potentially be, based on [this tweet](https://twitter.com/moricalliope/status/1502351888536113152) from just a few days ago...
 
-### 226: [Would Deng Xiaoping's reforms in China to alleviate poverty work in other impoverished or imperialized nations?](https://old.reddit.com/r/AskHistorians/comments/tf8y47/would_deng_xiaopings_reforms_in_china_to/), submitted on 2022-03-16 12:09:47+08:00.
+### 227: [Would Deng Xiaoping's reforms in China to alleviate poverty work in other impoverished or imperialized nations?](https://old.reddit.com/r/AskHistorians/comments/tf8y47/would_deng_xiaopings_reforms_in_china_to/), submitted on 2022-03-16 12:09:47+08:00.
 
------ __226.1__ -----2022-03-16 12:51:18+08:00:
+----- __227.1__ -----2022-03-16 12:51:18+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 227: [What are some of the most unexpected or strangest ISOLATED incidences where countries that are totally remote to each other seem to have greatly impacted each other culturally, politically, etc. without any obvious reason?](https://old.reddit.com/r/AskHistorians/comments/tg2igu/what_are_some_of_the_most_unexpected_or_strangest/), submitted on 2022-03-17 13:06:23+08:00.
+### 228: [What are some of the most unexpected or strangest ISOLATED incidences where countries that are totally remote to each other seem to have greatly impacted each other culturally, politically, etc. without any obvious reason?](https://old.reddit.com/r/AskHistorians/comments/tg2igu/what_are_some_of_the_most_unexpected_or_strangest/), submitted on 2022-03-17 13:06:23+08:00.
 
------ __227.1__ -----2022-03-17 16:54:54+08:00:
+----- __228.1__ -----2022-03-17 16:54:54+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 228: [The composure and safety-mindedness of the HL talent in emergency situations- but only in emergency situations.](https://old.reddit.com/r/Hololive/comments/tgvn5w/the_composure_and_safetymindedness_of_the_hl/), submitted on 2022-03-18 15:14:48+08:00.
+### 229: [The composure and safety-mindedness of the HL talent in emergency situations- but only in emergency situations.](https://old.reddit.com/r/Hololive/comments/tgvn5w/the_composure_and_safetymindedness_of_the_hl/), submitted on 2022-03-18 15:14:48+08:00.
 
------ __228.1__ -----2022-03-18 20:57:48+08:00:
+----- __229.1__ -----2022-03-18 20:57:48+08:00:
 
 Weirdly enough, there's been a [virtual weathercaster](https://virtualyoutuber.fandom.com/wiki/Weatheroid_Type_A_Airi) since even before Kizuna AI.
 
-### 229: [As per PD Kim, VTuber web event has been cancelled.](https://old.reddit.com/r/BlueArchive/comments/tgz9r2/as_per_pd_kim_vtuber_web_event_has_been_cancelled/), submitted on 2022-03-18 19:34:12+08:00.
+### 230: [As per PD Kim, VTuber web event has been cancelled.](https://old.reddit.com/r/BlueArchive/comments/tgz9r2/as_per_pd_kim_vtuber_web_event_has_been_cancelled/), submitted on 2022-03-18 19:34:12+08:00.
 
------ __229.1__ -----2022-03-19 15:27:38+08:00:
+----- __230.1__ -----2022-03-19 15:27:38+08:00:
 
 They also tweeted on it! Once.
 
-### 230: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
+### 231: [[Virtual Youtubers] The First Years of VTubing: Stardom, Scandal, and the Shaping of the Modern Industry](https://old.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/), submitted on 2022-03-18 20:44:28+08:00.
 
------ __230.1__ -----2022-03-18 20:51:16+08:00:
+----- __231.1__ -----2022-03-18 20:51:16+08:00:
 
 ### Sources:
 
@@ -107,21 +107,21 @@ Activ8:
 
 >!Oda Nobuhime – Omaru Polka of Hololive!<
 
------ __230.2__ -----2022-03-18 21:57:39+08:00:
+----- __231.2__ -----2022-03-18 21:57:39+08:00:
 
 I think I need to declare here that despite a somewhat dispassionate tone in my post I am a bit of a Hololive fanatic, so apologies if my comments see me jumping more to the defence of the modern industry.
 
 So, all told, the interval between Kizuna AI's debut and the introduction of iPhone X and face-only Live2D was barely a year, which was not a lot of time for the companies established in that time (Activ8 and COVER) to get that much in terms of revenues to fund a massive suite of new Live2D members. I'd argue it was entirely new companies, which were able to put all their startup funding into Live2D, that profited most from the switch – Nijisanji being the arch-example. EDIT: To put it another way, the iPhone X coming on the market completely reset the field because existing infrastructure couldn't be adapted to it, so anyone who was going into Live2D VTubing was starting from scratch in early 2018.
 
------ __230.3__ -----2022-03-18 22:04:57+08:00:
+----- __231.3__ -----2022-03-18 22:04:57+08:00:
 
 Thanks for the tip-off, I was using the wrong site's formatting (too used to Discord's these days)
 
------ __230.4__ -----2022-03-18 22:45:39+08:00:
+----- __231.4__ -----2022-03-18 22:45:39+08:00:
 
 I was going to say it's rather interesting how passionate you are about this topic, given that you [seem to have found out about Hitomi Chris entirely from my post](https://www.reddit.com/r/Gamingcirclejerk/comments/tgul39/friday_unjerk_thread/i15h2o8/?context=3). Especially as in said post I fully declare that information is hard to come by and narratives are conflicting over Chris' culpability, which makes it impossible to come to any kind of clear conclusion as to what exactly caused the firing. Nor did I attempt to insinuate that COVER hasn't made attempts to improve (all but the most diehard haters would agree it has). But then you deleted your account so uh... *shrug*.
 
------ __230.5__ -----2022-03-19 00:16:06+08:00:
+----- __231.5__ -----2022-03-19 00:16:06+08:00:
 
 > it also furthered the parasocial attachment the viewer has to the personality in a manner similar to the idol industry combined with the reverence for Japanese VAs.
 
@@ -131,41 +131,41 @@ What's quite interesting is that this may have been intended on Activ8's part. [
 
 To toss my own thought in on this, I think VTuber fandom is as toxic as any other in terms of extent, it's just toxic in specific ways that may not be familiar to people in most other fandoms. As this very sub illustrates, any fandom is fully capable of some pretty severe depths of bad behaviour and toxicity, but VTuber drama just manages to be very public and involve very specific dynamics that may seem alien to anyone not already part of the viewing community.
 
------ __230.6__ -----2022-03-19 00:31:51+08:00:
+----- __231.6__ -----2022-03-19 00:31:51+08:00:
 
 What can I say except *sunglasses emoji*
 
------ __230.7__ -----2022-03-19 00:47:20+08:00:
+----- __231.7__ -----2022-03-19 00:47:20+08:00:
 
 I am going to treat this lighthearted comment entirely seriously and note that, were it not for space issues as well as relevance, I did come close to including a paragraph on cases of *arguable* prototypical virtual youtubers like Annoying Orange, or review creators who use a set of still drawings of a cartoon representation of themselves depicting different reactions to add to their videos' visuals, with present-day examples including SaberSpark and TheMysteriousMrEnter, to name a few. I genuinely have no idea how old the latter format is; I can definitely think of Confused Matthew as being one of the older examples of the type but I presume he didn't come up with the whole 'cutting away to a reaction face on a representative cartoon character' schtick. And I think once you get to this stage, you just have to be very firm on the mocap aspect: none of these are performances that are rendered live and essentially ready for release, but rather created in the edit.
 
------ __230.8__ -----2022-03-19 01:10:53+08:00:
+----- __231.8__ -----2022-03-19 01:10:53+08:00:
 
 ...*no*.
 
------ __230.9__ -----2022-03-19 01:13:07+08:00:
+----- __231.9__ -----2022-03-19 01:13:07+08:00:
 
 What's interesting is that Mito wasn't even the first Live2D VTuber (which I think goes to [Nem](https://virtualyoutuber.fandom.com/wiki/Nem)), just the first really successful one.
 
------ __230.10__ -----2022-03-19 01:14:34+08:00:
+----- __231.10__ -----2022-03-19 01:14:34+08:00:
 
 > It almost seems insulting to put her along side people who just record themselves talking about random nonsense with a virtual avatar.
 
 As opposed to overtly insulting to the people 'talking about random nonsense with a virtual avatar'? I don't know that this is a particularly productive way of framing it. Ami Yamato isn't better or worse than modern VTubers, just different.
 
------ __230.11__ -----2022-03-19 01:17:02+08:00:
+----- __231.11__ -----2022-03-19 01:17:02+08:00:
 
 I think that'd be a really interesting thing to happen, but I feel like even then it's unlikely to be taken all that well. I can definitely imagine some kind of scenario with a family member taking over a channel as a successor character in some way post-retirement, but taking over the original character would be a little odd. But I suppose we shall see some years down the line, when 'ageing out' of a VTuber identity starts to be something that needs to be reckoned with.
 
------ __230.12__ -----2022-03-19 01:52:15+08:00:
+----- __231.12__ -----2022-03-19 01:52:15+08:00:
 
 As noted, the allegation is that he alleged to have connections with Cover management and thus could get Chris in; Cover themselves denied any association.
 
------ __230.13__ -----2022-03-19 01:53:04+08:00:
+----- __231.13__ -----2022-03-19 01:53:04+08:00:
 
 It's exactly the sort of thing I'm describing, yes.
 
------ __230.14__ -----2022-03-19 02:07:34+08:00:
+----- __231.14__ -----2022-03-19 02:07:34+08:00:
 
 You're right that Nijisanji could have been given more attention here; I didn't give it said attention for three main reasons:
 
@@ -185,7 +185,7 @@ I also focussed on Hololive not because it was prominent then, but rather becaus
 
 EDIT: In effect, my post was focussing less on the actual 'democratisation' and more on how it impacted those who had got into the business beforehand: those that embraced the transition like Hololive, and those that tried to stay the course like Activ8 and Unlimited.
 
------ __230.15__ -----2022-03-19 02:10:40+08:00:
+----- __231.15__ -----2022-03-19 02:10:40+08:00:
 
 Yeah so I did almost not post this here because of Rule 8, but it doesn't seem to have been consistently enforced on VTuber-related topics because there have been four threads on VTubers before without getting removed, so precedent suggested it'd be fine:
 
@@ -197,19 +197,19 @@ Yeah so I did almost not post this here because of Rule 8, but it doesn't seem t
 
 * https://www.reddit.com/r/HobbyDrama/comments/jf0cu4/virtual_youtubers_hostile_ai_takeover_the_story/
 
------ __230.16__ -----2022-03-19 02:15:05+08:00:
+----- __231.16__ -----2022-03-19 02:15:05+08:00:
 
 Yeah, it's why as I said, the Hitomi Chris situation seems to have been complex and ugly, but hard to pick apart as a casual, non-Japanese-speaking viewer because of how small it was at the time, and in turn how little there is in English on it. While the guy was definitely the principal perpetrator here, if this version of events is true he was also kind of defrauded by Chris in some way, so you do kind of get why Hololive might have dropped her, agree with the decision or otherwise.
 
------ __230.17__ -----2022-03-19 02:43:15+08:00:
+----- __231.17__ -----2022-03-19 02:43:15+08:00:
 
 Thanks for the share! Looks like an interesting view, when I can get round to it.
 
------ __230.18__ -----2022-03-19 02:45:34+08:00:
+----- __231.18__ -----2022-03-19 02:45:34+08:00:
 
 I felt a little guilty not replying as I didn't feel I had anything to add or push back on here, so thanks for sharing your perspective!
 
------ __230.19__ -----2022-03-19 02:50:33+08:00:
+----- __231.19__ -----2022-03-19 02:50:33+08:00:
 
 Well, I'd say that if the community as a whole is, at least on a conscious level, averse to parasocial relationships, then that is, in the socially constructed sense, 'true' – arguably the only form of 'truth' that really matters. 
 
@@ -217,7 +217,7 @@ It's interesting you bring up the security point, not least because I didn't, al
 
 But what this all boils down to is the wider point I was making, which is that while there are plenty of holdovers from the early years of VTubing, the underlying ethos has shifted. The parasocial problem is definitely there and will likely never go away, but it's something that is no longer seen as an intended result of VTubing but rather as an unfortunate side-effect.
 
------ __230.20__ -----2022-03-19 03:01:52+08:00:
+----- __231.20__ -----2022-03-19 03:01:52+08:00:
 
 Ooh okay!
 
@@ -229,11 +229,11 @@ While I barely have any Japanese skills worth mentioning I do follow a few of Ho
 
 As noted, I'm sorry I don't really have many non-major-agency (indeed, non-Hololive) recommendations here; it's just the main group I follow and also probably the one that has the best accessibility for English-speakers.
 
------ __230.21__ -----2022-03-19 09:58:17+08:00:
+----- __231.21__ -----2022-03-19 09:58:17+08:00:
 
 Oh absolutely, I won't pretend otherwise. It's a really hard circle to square, and I don't think it has ever been squared successfully. I do think there have been cases where a decent compromise has been found, though: Hololive has generally maintained an 'open secret' policy around alt accounts, i.e. don't discuss it on official Hololive forums, but even actual unintentional slip-ups by the talents can be brushed aside. Various Holomembers, most infamously Kiryu Coco and Mori Calliope, have had their alt account activities been deemed 'Hololive's worst-kept secret' by fans, after all. It's still a very imperfect approach to the issue, and I suspect it will have to be reckoned with more strongly once we're a few years down the line and we start seeing more cases of basically non-acrimonious, 'moving on' retirements.
 
------ __230.22__ -----2022-03-19 10:11:39+08:00:
+----- __231.22__ -----2022-03-19 10:11:39+08:00:
 
 > Could you elaborate a little on the Hololive AR app? You mention it a few times but don't go much into what it actually did. What exactly is this "AR streaming" function it had?
 
@@ -241,37 +241,37 @@ So, I was vague on the specifics because I don't know entirely for sure, however
 
 I will note that the official public Hololive app does have a certain amount of more limited AR in the 'projecting a 3D image onto the real world' type, but it's all prerecorded animations rather than being hooked up to any kind of livestreaming functionality.
 
------ __230.23__ -----2022-03-19 10:12:36+08:00:
+----- __231.23__ -----2022-03-19 10:12:36+08:00:
 
 Selen has been on my potential list for a while but thanks for adding Elira too!
 
------ __230.24__ -----2022-03-19 10:14:30+08:00:
+----- __231.24__ -----2022-03-19 10:14:30+08:00:
 
 What I'll say is, while it definitely seems clear Kasuga Nozomi was replaced, that doesn't necessarily mean she was *supposed* to be as part of the pitch for Multiple AI: because everything was so hush-hush, it's not really possible to determine if she was fired or quit, and moreover if that was prompted by her own dissatisfaction with Multiple AI and thus not overtly intended on Activ8's part.
 
------ __230.25__ -----2022-03-19 10:15:50+08:00:
+----- __231.25__ -----2022-03-19 10:15:50+08:00:
 
 Huh, that's an interesting one, I genuinely hadn't come across her! I will note also, just for reference, that, I did almost include Vocaloids but space issues got in the way of that.
 
------ __230.26__ -----2022-03-19 10:34:54+08:00:
+----- __231.26__ -----2022-03-19 10:34:54+08:00:
 
 I'm still not 100% on what exactly prevented AZKi from merging into the main branch before this year, but I suspect it could have been the result of a contract with Tsuranimizu (INNK's founder/manager) rather than with Activ8, given how early on 'Plan A' (in terms of timeframe) seems to have been set out and that INNK existed before upd8 did.
 
 Reflecting back, I should have made space in the post for a rumination on upd8, which seems like one of those things that had potential but failed for reasons not inherent to the underlying shift in VTubing approach. It was messily handled and frankly a complete muddle out the gate for sure, but there might have been some benefit to a number of different agencies having a big joint project. Like how the broader failure of Multiple AI also took down the genuine potential of VTuber dub voices, I think Activ8's dropping the ball on upd8 similarly sank this kind of long-term inter-agency cooperation and has kind of poisoned the well for any future attempts.
 
------ __230.27__ -----2022-03-19 10:37:07+08:00:
+----- __231.27__ -----2022-03-19 10:37:07+08:00:
 
 *Rubs chin*
 
 Nahhhhhhhhhhhhhhhhh
 
------ __230.28__ -----2022-03-19 10:45:08+08:00:
+----- __231.28__ -----2022-03-19 10:45:08+08:00:
 
 Ha I was looking around for the comment about inline spoilers and didn't remember that it was this one!
 
 On the inline spoilers note, you're not entirely wrong, and in fact I was very close to actually posting the details on the new accounts, but I'm also wary of my post inadvertently being a pathway for some people to harass the people in question over things that happened with Unlimited and activ8 that they may not contractually be able to speak about, or simply not want to given how bad things were there. You raise a good enough case that I will be editing the info in, but in the sources comment rather than the full top-level.
 
------ __230.29__ -----2022-03-19 11:32:19+08:00:
+----- __231.29__ -----2022-03-19 11:32:19+08:00:
 
 Phew, a lot of things here!
 
@@ -281,127 +281,127 @@ As for Domyoji Cocoa, the reason I had little to say is that there was very litt
 
 Now, Crunchyroll-hime gets into a field that I really haven't explored or addressed, and that is the 'VTuberisation' of certain corporate mascots. I think there's a certain sense in which these are still vestiges of the 'eternal idol' because they are so much more overtly characters with a marketing angle, and not simply personas adopted by conventional content creators. My personal suspicion is that a recasting here would be less problematic and more akin to Isaiah Mustafa being succeeded by Terry Crews as the 'Old Spice Guy', albeit without the potential for a later crossover.
 
------ __230.30__ -----2022-03-19 13:33:27+08:00:
+----- __231.30__ -----2022-03-19 13:33:27+08:00:
 
 Ame dropped the fake accent pretty fast.
 
------ __230.31__ -----2022-03-19 22:26:11+08:00:
+----- __231.31__ -----2022-03-19 22:26:11+08:00:
 
 Reasons of space caused me to make a lot of editorial decisions, and in the end I decided that the Four Heavenly Kings just weren't sufficiently interesting as an illustration of macro trends in VTubing to warrant discussion at length. And good info on Chris, though as noted, space means I can't do much to reintegrate that into the post (I've hit the 40k character limit several times making edits and I don't think I have much more to cut anymore...)
 
------ __230.32__ -----2022-03-19 22:52:45+08:00:
+----- __231.32__ -----2022-03-19 22:52:45+08:00:
 
 Could do, but at a certain point you'd be adding more for its own sake without actually contributing to the point in question. Any work of history, even a rather unrigorous attempt like my post here, is an exercise in selection rather than inclusion.
 
------ __230.33__ -----2022-03-20 00:05:34+08:00:
+----- __231.33__ -----2022-03-20 00:05:34+08:00:
 
 Actually, I do mention that [here](https://www.reddit.com/r/HobbyDrama/comments/th0gow/virtual_youtubers_the_first_years_of_vtubing/i15aq08/).
 
------ __230.34__ -----2022-03-20 00:06:23+08:00:
+----- __231.34__ -----2022-03-20 00:06:23+08:00:
 
 Sure, plenty of drama, but is it drama that adds to my point? I'm writing about Hololive partly because it's big now, but also partly because I find their particular decisions interesting, and in a way that was different from, and yet reflective of the same issues as, Unlimited and Activ8.
 
------ __230.35__ -----2022-03-20 01:58:20+08:00:
+----- __231.35__ -----2022-03-20 01:58:20+08:00:
 
 [Yep.](https://www.youtube.com/watch?v=XvqXgKryE58)
 
------ __230.36__ -----2022-03-20 11:28:19+08:00:
+----- __231.36__ -----2022-03-20 11:28:19+08:00:
 
 Unfortunately [you may have been beaten to it.](https://www.twitch.tv/kirap_raptorgirl)
 
------ __230.37__ -----2022-03-21 11:09:24+08:00:
+----- __231.37__ -----2022-03-21 11:09:24+08:00:
 
 Yep.
 
-### 231: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
+### 232: [[Haato and Watame] Well, they seem to be excited today...](https://old.reddit.com/r/Hololive/comments/thirb8/haato_and_watame_well_they_seem_to_be_excited/), submitted on 2022-03-19 08:00:45+08:00.
 
------ __231.1__ -----2022-03-19 13:48:45+08:00:
+----- __232.1__ -----2022-03-19 13:48:45+08:00:
 
 https://www.youtube.com/watch?v=s4Ms3hQ_IAY
 
-### 232: [🎉3rd fes. Link Your Wish DAY 1🎉Megathread!](https://old.reddit.com/r/Hololive/comments/thps9r/3rd_fes_link_your_wish_day_1megathread/), submitted on 2022-03-19 15:07:35+08:00.
+### 233: [🎉3rd fes. Link Your Wish DAY 1🎉Megathread!](https://old.reddit.com/r/Hololive/comments/thps9r/3rd_fes_link_your_wish_day_1megathread/), submitted on 2022-03-19 15:07:35+08:00.
 
------ __232.1__ -----2022-03-19 16:43:51+08:00:
+----- __233.1__ -----2022-03-19 16:43:51+08:00:
 
 Yep!
 
------ __232.2__ -----2022-03-19 19:58:43+08:00:
+----- __233.2__ -----2022-03-19 19:58:43+08:00:
 
 Towa did ERROR at 2nd Fes, and I don't think anyone reused any of their songs from 2nd Fes at 3rd (which makes sense).
 
------ __232.3__ -----2022-03-19 20:55:16+08:00:
+----- __233.3__ -----2022-03-19 20:55:16+08:00:
 
 I guess Friend can do whatever she wants.
 
-### 233: [[Calli] I believe she said a similar thing on Trash Taste. Glad she's happy where she is now.](https://old.reddit.com/r/Hololive/comments/thuhtf/calli_i_believe_she_said_a_similar_thing_on_trash/), submitted on 2022-03-19 20:47:45+08:00.
+### 234: [[Calli] I believe she said a similar thing on Trash Taste. Glad she's happy where she is now.](https://old.reddit.com/r/Hololive/comments/thuhtf/calli_i_believe_she_said_a_similar_thing_on_trash/), submitted on 2022-03-19 20:47:45+08:00.
 
------ __233.1__ -----2022-03-20 11:24:26+08:00:
+----- __234.1__ -----2022-03-20 11:24:26+08:00:
 
 Milky Queen is great BTW, she's pretty active [on Twitch](http://twitch.tv/milkyqueen_idol). Tsuyahime seems to be the main user of the [Mai Princess Youtube channel](https://www.youtube.com/channel/UC2c8dQYdDadn7tmK_d7o-HQ) but Milky's there occasionally too.
 
-### 234: [Yeah we saw it shork (T⌓T)](https://old.reddit.com/r/Hololive/comments/thvd6h/yeah_we_saw_it_shork_tt/), submitted on 2022-03-19 21:37:21+08:00.
+### 235: [Yeah we saw it shork (T⌓T)](https://old.reddit.com/r/Hololive/comments/thvd6h/yeah_we_saw_it_shork_tt/), submitted on 2022-03-19 21:37:21+08:00.
 
------ __234.1__ -----2022-03-20 12:26:46+08:00:
+----- __235.1__ -----2022-03-20 12:26:46+08:00:
 
 It's going to be guh, I feel it in my gut.
 
 More seriously I assume it'll be UnAlive.
 
-### 235: [🎉3rd fes. Link Your Wish DAY 2🎉Megathread!](https://old.reddit.com/r/Hololive/comments/tife8f/3rd_fes_link_your_wish_day_2megathread/), submitted on 2022-03-20 15:00:20+08:00.
+### 236: [🎉3rd fes. Link Your Wish DAY 2🎉Megathread!](https://old.reddit.com/r/Hololive/comments/tife8f/3rd_fes_link_your_wish_day_2megathread/), submitted on 2022-03-20 15:00:20+08:00.
 
------ __235.1__ -----2022-03-20 16:15:55+08:00:
+----- __236.1__ -----2022-03-20 16:15:55+08:00:
 
 This is quite subtle, but the ribbon on Flare's idol outfit model matches her current main outfit rather than her old one.
 
------ __235.2__ -----2022-03-20 16:22:05+08:00:
+----- __236.2__ -----2022-03-20 16:22:05+08:00:
 
 Oh and Kintsuba's gone too. That I'd forgotten was on the old outfit altogether.
 
------ __235.3__ -----2022-03-20 16:58:10+08:00:
+----- __236.3__ -----2022-03-20 16:58:10+08:00:
 
 The blue-grey bit isn't consistently present on all her outfits, but you can just about catch it on her main one: https://static.wikia.nocookie.net/virtualyoutuber/images/4/4a/Yuzuki_Choco_-_Full_Illustration_01.jpg/revision/latest/scale-to-width-down/462?cb=20190725165734
 
------ __235.4__ -----2022-03-20 17:52:09+08:00:
+----- __236.4__ -----2022-03-20 17:52:09+08:00:
 
 I just realised Mio's hair reminds me of Shadow the Hedgehog and now I can never unsee it help
 
------ __235.5__ -----2022-03-20 18:09:25+08:00:
+----- __236.5__ -----2022-03-20 18:09:25+08:00:
 
 Instructions unclear; bonked it even deeper into my head.
 
-### 236: [Are the HoloEN members going to make an actual 3D debut like the other members?](https://old.reddit.com/r/Hololive/comments/tiizj1/are_the_holoen_members_going_to_make_an_actual_3d/), submitted on 2022-03-20 19:24:58+08:00.
+### 237: [Are the HoloEN members going to make an actual 3D debut like the other members?](https://old.reddit.com/r/Hololive/comments/tiizj1/are_the_holoen_members_going_to_make_an_actual_3d/), submitted on 2022-03-20 19:24:58+08:00.
 
------ __236.1__ -----2022-03-20 19:27:05+08:00:
+----- __237.1__ -----2022-03-20 19:27:05+08:00:
 
 Calli has said that they will once Myth are able to physically get together, but that with the world situation being what it has been, they will now be able to do 3D activities even without an 'official' debut if they want, such as Calli's own birthday live next month.
 
------ __236.2__ -----2022-03-20 19:39:53+08:00:
+----- __237.2__ -----2022-03-20 19:39:53+08:00:
 
 None of Myth or ID Gen 1 (besides Calli) were physically in Japan for Link Your Wish; their performances had to be done remotely. Whether this was streamed with a slight delay to buffer, or an outright advance recording, isn't clear. Technically, they haven't done an 'official' 3D debut yet which is its own specific stream that normally entails in-person interaction with other mems, and I think at Calli's insistence that's not happening until all 5 of Myth can be in the same place. However, because it has taken so long, Calli will be doing a 3D live for her birthday stream and apparently the other four will for theirs as well.
 
------ __236.3__ -----2022-03-20 20:47:07+08:00:
+----- __237.3__ -----2022-03-20 20:47:07+08:00:
 
 Sure, and Calli has insisted that she won't do one without, hence why she still haven't had an official 3D debut.
 
-### 237: [My disappointments with 3rd fest. Link Your Wish concert.](https://old.reddit.com/r/Hololive/comments/tij0xq/my_disappointments_with_3rd_fest_link_your_wish/), submitted on 2022-03-20 19:27:42+08:00.
+### 238: [My disappointments with 3rd fest. Link Your Wish concert.](https://old.reddit.com/r/Hololive/comments/tij0xq/my_disappointments_with_3rd_fest_link_your_wish/), submitted on 2022-03-20 19:27:42+08:00.
 
------ __237.1__ -----2022-03-20 22:42:35+08:00:
+----- __238.1__ -----2022-03-20 22:42:35+08:00:
 
 3 days?
 
------ __237.2__ -----2022-03-21 00:38:52+08:00:
+----- __238.2__ -----2022-03-21 00:38:52+08:00:
 
 Yeah it's not an ideal option by any means, but arguably the only alternative is just longer concerts.
 
-### 238: [Matsuri loves the management because of how supportive they are, and how they really respect the talents creative freedom](https://old.reddit.com/r/Hololive/comments/tikd7i/matsuri_loves_the_management_because_of_how/), submitted on 2022-03-20 20:50:46+08:00.
+### 239: [Matsuri loves the management because of how supportive they are, and how they really respect the talents creative freedom](https://old.reddit.com/r/Hololive/comments/tikd7i/matsuri_loves_the_management_because_of_how/), submitted on 2022-03-20 20:50:46+08:00.
 
------ __238.1__ -----2022-03-20 22:03:14+08:00:
+----- __239.1__ -----2022-03-20 22:03:14+08:00:
 
 Remember Matsuri you're not allowed to date management though!
 
-### 239: [A recent parody tweet about Chinese dynasties wrote: "QING: Kid everyone thinks is an exchange student but is actually just from an underrepresented clique. Wins the election after Ming graduates solely bc the other candidates were too busy smearing each other." How accurate is this?](https://old.reddit.com/r/AskHistorians/comments/timn5t/a_recent_parody_tweet_about_chinese_dynasties/), submitted on 2022-03-20 22:47:10+08:00.
+### 240: [A recent parody tweet about Chinese dynasties wrote: "QING: Kid everyone thinks is an exchange student but is actually just from an underrepresented clique. Wins the election after Ming graduates solely bc the other candidates were too busy smearing each other." How accurate is this?](https://old.reddit.com/r/AskHistorians/comments/timn5t/a_recent_parody_tweet_about_chinese_dynasties/), submitted on 2022-03-20 22:47:10+08:00.
 
------ __239.1__ -----2022-03-20 23:37:55+08:00:
+----- __240.1__ -----2022-03-20 23:37:55+08:00:
 
 So, Twitter being what it is, I won't fault this summary too much for the breadth of its coverage. You have 280 characters which is barely enough for 3 short sentences, so what you cover is what you cover. That said, I will fault sentences if they are misleading for any reason, and, er, hoo boy.
 

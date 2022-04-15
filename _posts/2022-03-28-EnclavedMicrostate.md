@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-03-28~2022-04-03的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 274: [Was Hong Xiuquan, leader of the Taiping rebellion a bad father?](https://old.reddit.com/r/AskHistorians/comments/tpvvpr/was_hong_xiuquan_leader_of_the_taiping_rebellion/), submitted on 2022-03-28 07:21:12+08:00.
+### 275: [Was Hong Xiuquan, leader of the Taiping rebellion a bad father?](https://old.reddit.com/r/AskHistorians/comments/tpvvpr/was_hong_xiuquan_leader_of_the_taiping_rebellion/), submitted on 2022-03-28 07:21:12+08:00.
 
------ __274.1__ -----2022-03-30 03:44:30+08:00:
+----- __275.1__ -----2022-03-30 03:44:30+08:00:
 
 Hong Xiuquan's issue is an interesting, er, issue, as it's not something discussed much in the historiography. But to answer this question we can't just talk about Hong Xiuquan's relationships with his children in a vacuum. We must first establish what the Taiping ideal of fatherhood was.
 
@@ -66,35 +66,35 @@ While we do have surviving copies of *Ten Poems on Salvation*, their contents ar
 
 Unfortunately, we know little else about Hong's relationships with his other children, particularly his two oldest daughters Tiangui, but this little slice does suggest that, at least with regards to his designated successor, he did take his perceived fatherly responsibilities seriously. Whether this was successful in execution is another matter, although it is perhaps worth noting that Tiangui's rebellion was as much against the beliefs (separation of the sexes and condemnation of the Confucian classics) themselves as it was their proponent.
 
-### 275: [Gunfire Genesis: Gargant - Weekly Discussion Thread, March 28th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tqbz8j/gunfire_genesis_gargant_weekly_discussion_thread/), submitted on 2022-03-28 23:34:13+08:00.
+### 276: [Gunfire Genesis: Gargant - Weekly Discussion Thread, March 28th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/tqbz8j/gunfire_genesis_gargant_weekly_discussion_thread/), submitted on 2022-03-28 23:34:13+08:00.
 
------ __275.1__ -----2022-03-29 17:49:26+08:00:
+----- __276.1__ -----2022-03-29 17:49:26+08:00:
 
 I mean, we don't know what those announcements will be nor how long-term they are. Presumably it's not graduation of course, as that'd be basically one announcement to which everything else would be subordinate.
 
------ __275.2__ -----2022-03-29 18:20:35+08:00:
+----- __276.2__ -----2022-03-29 18:20:35+08:00:
 
 Oh right, well I was there for many of the announcements of announcements too (I watch Calli pretty religiously) so I think we just ended up talking past each other a bit.
 
------ __275.3__ -----2022-04-02 19:54:34+08:00:
+----- __276.3__ -----2022-04-02 19:54:34+08:00:
 
 I feel like I know exactly what you mean. I get Chloe's appeal but I feel I'm not the one being appealed to, but I'm really enjoying Zeta.
 
------ __275.4__ -----2022-04-04 11:27:35+08:00:
+----- __276.4__ -----2022-04-04 11:27:35+08:00:
 
 There's a somewhat controversial, but in my view still pretty good [mini video essay](https://www.youtube.com/watch?v=V7prxvu_GiQ) by Alfo Media on the idea of a difference between 'white rappers' and 'white people who rap', with the distinction being their level of immersion in the (sub)culture of rap. Alfo Media suggests that 'white people who rap' are people who, in effect, approach rap from within, typically having worked their way into the established community and understand the substance as well as the form of the genre; by contrast, 'white rappers' are those who appropriate the forms of rap but with a markedly different substance reflective of a relatively privileged position, while staying outside actual rap culture. Whether this division is accurate in a detached, factual sense is one thing, but as a framing I think it does a bit to explain the hate here: Calli isn't someone who's 'part of' US rap culture the way Eminem or El-P are, and for a predominantly US-based Internet, that seems like a telltale sign of someone basically appropriating an art form without engaging with its core substance.
 
 Now, what you and I know that most people coming across this drama don't is that, of course, she's not immersed in US rap culture because her aim was always the Japanese scene, which she definitely *has* been part of for some years now at this point. So in a sense the criticism isn't pure irrational hate; it does come from a place of not unreasonable hostility to white people simply barging into black spaces (arch-example being Vanilla Ice). But it is decidedly misplaced, based on incomplete information and simply being exposed to the definitely bad parts of her early career, and at most to her artistic output in a vacuum without appreciation of its context.
 
------ __275.5__ -----2022-04-04 13:09:45+08:00:
+----- __276.5__ -----2022-04-04 13:09:45+08:00:
 
 I'd say there's a difference between not allowing someone into a community, and being irked at that how said community's art form is being appropriated. If you're not familiar with the existence of a Japanese hip hop scene, which serves as Calli's primary influence, then it does pretty much come across as someone taking a culturally-specific art form out of that culture for their own benefit.
 
------ __275.6__ -----2022-04-04 21:07:36+08:00:
+----- __276.6__ -----2022-04-04 21:07:36+08:00:
 
 Calli thought it was stiff liquor, it's actually cough syrup mixed with soda.
 
------ __275.7__ -----2022-04-04 21:20:13+08:00:
+----- __276.7__ -----2022-04-04 21:20:13+08:00:
 
 You took the words right out of my mouth... fingers? Keyboard? Whatever.
 
@@ -102,9 +102,9 @@ Discussions around reception of especially Asian-themed media are complicated by
 
 To take a different example, Gilbert and Sullivan's *The Mikado* is, in my view, a *fascinating* example of this kind of differing reception. There is a very understandable objection to performing the show as-is by some critics in the UK and US because yeah, it is kind of iffy to have mostly white performers portraying faux-Japanese characters. But on the flipside, *The Mikado* has a history of relatively positive reception in Japan, especially in the postwar years, and it even got a new Japanese translation that toured the UK in the late 2000s/early 2010s. Which is just one example of a whole complicated mess where media that is problematic to diaspora communities is seen by non-diasporas as fine, either because what diaspora communities see as misrepresentation is seen as a variation within acceptable norms (in Asia) or because people don't know any better and miss the misrepresentation outright (in the West).
 
-### 276: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
+### 277: [Tuesday Trivia: Islam! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/tqz5aq/tuesday_trivia_islam_this_thread_has_relaxed/), submitted on 2022-03-29 20:56:46+08:00.
 
------ __276.1__ -----2022-03-29 22:19:00+08:00:
+----- __277.1__ -----2022-03-29 22:19:00+08:00:
 
 Nearly a year ago, I wrote [an answer](https://www.reddit.com/r/AskHistorians/comments/mn9mro/what_did_the_taiping_think_of_judaism_and_islam/gtwprn9/) to a question on Taiping views on Judaism and Islam, which I had a good amount of fun with and so will repost here.
 
@@ -142,7 +142,7 @@ As can be seen, Hong Rengan only explicitly identifies the Egyptians as Muslims,
 
 Obviously we cannot extrapolate Hong Rengan's writings too far: he was, after all, just one person, and moreover he was one person who had rejoined the fold relatively recently and had not been present for developments in Taiping ideology in his absence. However, Hong's more global view of Christianity does seem to have filtered into the wider Taiping leadership, so we could surmise that there was some heightened awareness of Islam as a global religion, but without much actual understanding of the religion itself.
 
------ __276.2__ -----2022-03-29 22:19:22+08:00:
+----- __277.2__ -----2022-03-29 22:19:22+08:00:
 
 
 
@@ -183,25 +183,25 @@ So that's a lot about individual texts and their implications, now let's pull it
 * Jonathan Lipman, *Familiar Strangers: A History of Muslims in Northwest China* (1997)
 * David Atwill, *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873* (2005)
 
------ __276.3__ -----2022-03-30 01:21:24+08:00:
+----- __277.3__ -----2022-03-30 01:21:24+08:00:
 
 So I'm not really up to speed on the Qing awareness of the Ottomans, but I do discuss connections between the Ottomans and Yaqub Beg's regime in [this answer](https://www.reddit.com/r/AskHistorians/comments/rjucrq/what_were_the_reactions_of_foreign_states_towards/hp5xg8p/).
 
-### 277: [What constitutes "India"?](https://old.reddit.com/r/AskHistorians/comments/tr4oip/what_constitutes_india/), submitted on 2022-03-29 23:31:57+08:00.
+### 278: [What constitutes "India"?](https://old.reddit.com/r/AskHistorians/comments/tr4oip/what_constitutes_india/), submitted on 2022-03-29 23:31:57+08:00.
 
------ __277.1__ -----2022-03-30 01:19:13+08:00:
+----- __278.1__ -----2022-03-30 01:19:13+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 278: [Would the Nazis have won WW2 if the US didn't intervene? I'm more so talking about sending troops over than the aid the US provided.](https://old.reddit.com/r/AskHistorians/comments/tra4ag/would_the_nazis_have_won_ww2_if_the_us_didnt/), submitted on 2022-03-30 01:21:15+08:00.
+### 279: [Would the Nazis have won WW2 if the US didn't intervene? I'm more so talking about sending troops over than the aid the US provided.](https://old.reddit.com/r/AskHistorians/comments/tra4ag/would_the_nazis_have_won_ww2_if_the_us_didnt/), submitted on 2022-03-30 01:21:15+08:00.
 
------ __278.1__ -----2022-03-30 01:22:30+08:00:
+----- __279.1__ -----2022-03-30 01:22:30+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 279: [Who was that Ming prince?](https://old.reddit.com/r/AskHistorians/comments/trsivc/who_was_that_ming_prince/), submitted on 2022-03-30 07:13:43+08:00.
+### 280: [Who was that Ming prince?](https://old.reddit.com/r/AskHistorians/comments/trsivc/who_was_that_ming_prince/), submitted on 2022-03-30 07:13:43+08:00.
 
------ __279.1__ -----2022-03-30 11:42:59+08:00:
+----- __280.1__ -----2022-03-30 11:42:59+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -209,49 +209,39 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 280: [I know I’m a little late, but what is ID Gen 3’s gimmick?](https://old.reddit.com/r/Hololive/comments/trw3ls/i_know_im_a_little_late_but_what_is_id_gen_3s/), submitted on 2022-03-30 10:25:10+08:00.
+### 281: [I know I’m a little late, but what is ID Gen 3’s gimmick?](https://old.reddit.com/r/Hololive/comments/trw3ls/i_know_im_a_little_late_but_what_is_id_gen_3s/), submitted on 2022-03-30 10:25:10+08:00.
 
------ __280.1__ -----2022-03-30 11:53:18+08:00:
+----- __281.1__ -----2022-03-30 11:53:18+08:00:
 
 To be honest, only Gen 3 and EN have been explicitly themed (and even then, pirates aren't 'fantasy' as such). HoloX does have the secret society schtick but arguably that only serves as a lore backstory for 5 members who would, without it, be pretty different (Iroha especially stands out a bit lore-wise). So it's not that ID is the exception, but that EN is.
 
-### 281: [[Calli] UnAlive has hit the Billboard JP Download Charts at #4!](https://old.reddit.com/r/Hololive/comments/ts0jvh/calli_unalive_has_hit_the_billboard_jp_download/), submitted on 2022-03-30 14:57:51+08:00.
+### 282: [[Calli] UnAlive has hit the Billboard JP Download Charts at #4!](https://old.reddit.com/r/Hololive/comments/ts0jvh/calli_unalive_has_hit_the_billboard_jp_download/), submitted on 2022-03-30 14:57:51+08:00.
 
------ __281.1__ -----2022-03-31 11:07:46+08:00:
+----- __282.1__ -----2022-03-31 11:07:46+08:00:
 
 The 4-death thing also exists in a lot of Chinese languages; here in HK for instance this has also combined with 13 such that there are some buildings that will skip from the 12th to the 15th floor!
 
------ __281.2__ -----2022-03-31 12:38:43+08:00:
+----- __282.2__ -----2022-03-31 12:38:43+08:00:
 
 My general impression is that it tends only to be a feature of old-ish buildings and that newer ones won't skip 4s at all, and that anything with more than 40 storeys will be newer, but... I have nothing to back that up. According to a government website on the matter, 44 might be skipped, but not the entire run of 40s.
 
-### 282: [This face radiates like 5 different emotions and I love it](https://old.reddit.com/r/Hololive/comments/ts2410/this_face_radiates_like_5_different_emotions_and/), submitted on 2022-03-30 16:56:17+08:00.
+### 283: [This face radiates like 5 different emotions and I love it](https://old.reddit.com/r/Hololive/comments/ts2410/this_face_radiates_like_5_different_emotions_and/), submitted on 2022-03-30 16:56:17+08:00.
 
------ __282.1__ -----2022-03-31 11:07:01+08:00:
+----- __283.1__ -----2022-03-31 11:07:01+08:00:
 
 My theory is both she and the photographer are standing on an incline.
 
-### 283: [🎉Ceres Fauna🌿 celebrates 500,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/ts2zd7/ceres_fauna_celebrates_500000_subscribers/), submitted on 2022-03-30 18:01:52+08:00.
+### 284: [🎉Ceres Fauna🌿 celebrates 500,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/ts2zd7/ceres_fauna_celebrates_500000_subscribers/), submitted on 2022-03-30 18:01:52+08:00.
 
------ __283.1__ -----2022-03-30 23:00:04+08:00:
+----- __284.1__ -----2022-03-30 23:00:04+08:00:
 
 ウウウウウウウウウウウウウウウウ
 
 If I had anything more intelligent I'd say it, but I'd o-pine that yew'd be hard pressed to come up with much better.
 
-### 284: [What did in fact happen in the Second Sino-Japanese War (1937-1945)?](https://old.reddit.com/r/AskHistorians/comments/ts5ftp/what_did_in_fact_happen_in_the_second/), submitted on 2022-03-30 20:35:35+08:00.
+### 285: [What did in fact happen in the Second Sino-Japanese War (1937-1945)?](https://old.reddit.com/r/AskHistorians/comments/ts5ftp/what_did_in_fact_happen_in_the_second/), submitted on 2022-03-30 20:35:35+08:00.
 
------ __284.1__ -----2022-03-30 21:09:52+08:00:
-
-Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
-
-If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
-
-Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
-
-### 285: [What is the difference between a treaty and tributary in the context of China and Britain during/after the Opium Wars?](https://old.reddit.com/r/AskHistorians/comments/ts7jw9/what_is_the_difference_between_a_treaty_and/), submitted on 2022-03-30 22:22:02+08:00.
-
------ __285.1__ -----2022-03-30 22:46:45+08:00:
+----- __285.1__ -----2022-03-30 21:09:52+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -259,29 +249,39 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 286: [Miko just beat the Tree Sentinel taking no damage](https://old.reddit.com/r/Hololive/comments/ts9y6w/miko_just_beat_the_tree_sentinel_taking_no_damage/), submitted on 2022-03-31 00:11:09+08:00.
+### 286: [What is the difference between a treaty and tributary in the context of China and Britain during/after the Opium Wars?](https://old.reddit.com/r/AskHistorians/comments/ts7jw9/what_is_the_difference_between_a_treaty_and/), submitted on 2022-03-30 22:22:02+08:00.
 
------ __286.1__ -----2022-03-31 10:56:56+08:00:
+----- __286.1__ -----2022-03-30 22:46:45+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 287: [Miko just beat the Tree Sentinel taking no damage](https://old.reddit.com/r/Hololive/comments/ts9y6w/miko_just_beat_the_tree_sentinel_taking_no_damage/), submitted on 2022-03-31 00:11:09+08:00.
+
+----- __287.1__ -----2022-03-31 10:56:56+08:00:
 
 Nope, just doesn't exist. Miko originally debuted under Cover but outside Hololive in August 2018, and then got moved into Hololive at the end of the year. I'm not 100% on why Miko debuted as 3D although given timescales etc. (Mel debuted in May and Gen 1 in June 2018) I would imagine she was being worked on before Hololive pivoted to Live2D.
 
-### 287: [Which religion is responsible for the most deaths?](https://old.reddit.com/r/AskHistorians/comments/tsbu9y/which_religion_is_responsible_for_the_most_deaths/), submitted on 2022-03-31 01:37:12+08:00.
+### 288: [Which religion is responsible for the most deaths?](https://old.reddit.com/r/AskHistorians/comments/tsbu9y/which_religion_is_responsible_for_the_most_deaths/), submitted on 2022-03-31 01:37:12+08:00.
 
------ __287.1__ -----2022-03-31 02:29:25+08:00:
+----- __288.1__ -----2022-03-31 02:29:25+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 288: [What would you say is the best Roman Emperor?](https://old.reddit.com/r/AskHistorians/comments/tscxe8/what_would_you_say_is_the_best_roman_emperor/), submitted on 2022-03-31 02:25:28+08:00.
+### 289: [What would you say is the best Roman Emperor?](https://old.reddit.com/r/AskHistorians/comments/tscxe8/what_would_you_say_is_the_best_roman_emperor/), submitted on 2022-03-31 02:25:28+08:00.
 
------ __288.1__ -----2022-03-31 02:29:06+08:00:
+----- __289.1__ -----2022-03-31 02:29:06+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 289: [How did the Romans stop water from the aqueducts from overflowing?](https://old.reddit.com/r/AskHistorians/comments/tspjm7/how_did_the_romans_stop_water_from_the_aqueducts/), submitted on 2022-03-31 10:23:25+08:00.
+### 290: [How did the Romans stop water from the aqueducts from overflowing?](https://old.reddit.com/r/AskHistorians/comments/tspjm7/how_did_the_romans_stop_water_from_the_aqueducts/), submitted on 2022-03-31 10:23:25+08:00.
 
------ __289.1__ -----2022-03-31 13:23:33+08:00:
+----- __290.1__ -----2022-03-31 13:23:33+08:00:
 
 They didn't. Or, well, it's a little more complicated than that.
 
@@ -305,9 +305,9 @@ In effect, by placing the distribution pipes for the public services lower down,
 
 As for whether there were limits on flow at baths and fountains, this does not seem to have been the case at all. Baths largely took poorer-quality water, wastage of which was not particularly serious as it was not for drinking; fountains were supposed to flow constantly, so a bit of wastage would be unfortunate but not by any means fatal. But more importantly, the output of the fountains was probably monitored in some way, and in Rome at least, the Senate did hold power over the quantity of public fountains and could mandate increases or decreases, such that in the longer term, fountain output was generally kept stable.
 
-### 290: [Who designed the Newfoundland coat of arms?](https://old.reddit.com/r/AskHistorians/comments/tsq3n0/who_designed_the_newfoundland_coat_of_arms/), submitted on 2022-03-31 10:54:21+08:00.
+### 291: [Who designed the Newfoundland coat of arms?](https://old.reddit.com/r/AskHistorians/comments/tsq3n0/who_designed_the_newfoundland_coat_of_arms/), submitted on 2022-03-31 10:54:21+08:00.
 
------ __290.1__ -----2022-03-31 10:58:18+08:00:
+----- __291.1__ -----2022-03-31 10:58:18+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -315,49 +315,49 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 291: [It's just monopoly man, calm down.](https://old.reddit.com/r/Hololive/comments/ttdz8v/its_just_monopoly_man_calm_down/), submitted on 2022-04-01 08:34:40+08:00.
+### 292: [It's just monopoly man, calm down.](https://old.reddit.com/r/Hololive/comments/ttdz8v/its_just_monopoly_man_calm_down/), submitted on 2022-04-01 08:34:40+08:00.
 
------ __291.1__ -----2022-04-01 10:57:17+08:00:
+----- __292.1__ -----2022-04-01 10:57:17+08:00:
 
 If you're watching your friends play Monopoly... well let's hope they have your consent first.
 
-### 292: [What if the Taiping rebellion succeeded?](https://old.reddit.com/r/AskHistorians/comments/ttj749/what_if_the_taiping_rebellion_succeeded/), submitted on 2022-04-01 13:27:31+08:00.
+### 293: [What if the Taiping rebellion succeeded?](https://old.reddit.com/r/AskHistorians/comments/ttj749/what_if_the_taiping_rebellion_succeeded/), submitted on 2022-04-01 13:27:31+08:00.
 
------ __292.1__ -----2022-04-01 13:41:07+08:00:
+----- __293.1__ -----2022-04-01 13:41:07+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 293: [The rap on Suisei and Calli's "Wicked" is beautifully, unapologetically THEM](https://old.reddit.com/r/Hololive/comments/ttl9j5/the_rap_on_suisei_and_callis_wicked_is/), submitted on 2022-04-01 15:48:11+08:00.
+### 294: [The rap on Suisei and Calli's "Wicked" is beautifully, unapologetically THEM](https://old.reddit.com/r/Hololive/comments/ttl9j5/the_rap_on_suisei_and_callis_wicked_is/), submitted on 2022-04-01 15:48:11+08:00.
 
------ __293.1__ -----2022-04-02 11:44:54+08:00:
+----- __294.1__ -----2022-04-02 11:44:54+08:00:
 
 Pretty sure Suisei is her own lyricist too.
 
-### 294: [AskHistorians Podcast April Fools Special 2022 – Tartaria with /u/EnclavedMicrostate](https://old.reddit.com/r/AskHistorians/comments/ttmxps/askhistorians_podcast_april_fools_special_2022/), submitted on 2022-04-01 17:51:40+08:00.
+### 295: [AskHistorians Podcast April Fools Special 2022 – Tartaria with /u/EnclavedMicrostate](https://old.reddit.com/r/AskHistorians/comments/ttmxps/askhistorians_podcast_april_fools_special_2022/), submitted on 2022-04-01 17:51:40+08:00.
 
------ __294.1__ -----2022-04-01 20:34:37+08:00:
+----- __295.1__ -----2022-04-01 20:34:37+08:00:
 
 I don't know that they have, but I would not be particularly shocked to find out.
 
 As for hoax-related things, we were actually inspired to do this because we timed the [Hitler Diaries](https://www.reddit.com/r/AskHistorians/comments/mik6hy/askhistorians_podcast_episode_172_the_hitler/) episode for April Fools 2021, so we will almost certainly be doing more hoaxes, conspiracy theories or similar next year!
 
------ __294.2__ -----2022-04-02 02:26:56+08:00:
+----- __295.2__ -----2022-04-02 02:26:56+08:00:
 
 I don't know that you can, which does create an interesting situation if an unfortunate one, where as you say participating is essentially legitimating the exercise.
 
-### 295: [I am Sokrates, son of Sophroniskos, of the deme Alopeke. I am fond of saying that the unexamined life is not worth living; and in that spirit, I invite you, fellow citizens, to Ask Me Anything.](https://old.reddit.com/r/AskHistorians/comments/ttplom/i_am_sokrates_son_of_sophroniskos_of_the_deme/), submitted on 2022-04-01 20:34:58+08:00.
+### 296: [I am Sokrates, son of Sophroniskos, of the deme Alopeke. I am fond of saying that the unexamined life is not worth living; and in that spirit, I invite you, fellow citizens, to Ask Me Anything.](https://old.reddit.com/r/AskHistorians/comments/ttplom/i_am_sokrates_son_of_sophroniskos_of_the_deme/), submitted on 2022-04-01 20:34:58+08:00.
 
------ __295.1__ -----2022-04-01 20:48:43+08:00:
+----- __296.1__ -----2022-04-01 20:48:43+08:00:
 
 Who would you consider your best student, and why is it Xenophon?
 
------ __295.2__ -----2022-04-01 21:24:34+08:00:
+----- __296.2__ -----2022-04-01 21:24:34+08:00:
 
 I'm surprised you didn't start with asking what a student *is*! One's goodness as a student cannot be established without an understanding of that, so now I must ask you, Socrates: what is a student?
 
-### 296: [Why did the the Qing enlisted Europeans, particularly Charles "Chinese" Gordon, to lead their armies against the Taiping Heavenly Kingdom?](https://old.reddit.com/r/AskHistorians/comments/tu7a4y/why_did_the_the_qing_enlisted_europeans/), submitted on 2022-04-02 09:39:55+08:00.
+### 297: [Why did the the Qing enlisted Europeans, particularly Charles "Chinese" Gordon, to lead their armies against the Taiping Heavenly Kingdom?](https://old.reddit.com/r/AskHistorians/comments/tu7a4y/why_did_the_the_qing_enlisted_europeans/), submitted on 2022-04-02 09:39:55+08:00.
 
------ __296.1__ -----2022-04-07 13:03:03+08:00:
+----- __297.1__ -----2022-04-07 13:03:03+08:00:
 
 In some respects, it is incorrect to portray this as the Qing 'enlisting' Europeans, as this would imply their seeking out Europeans to fight for them. In practical terms, it was mostly Europeans insisting on employment with the Qing, and the Qing generally not refusing them. Rarely were the Qing taking the initial initiative in creating such European-led forces, but by and large they would then work with these forces after they were established.
 
@@ -383,7 +383,7 @@ But this was helped along in no small part by the reworked structure of the EVA.
 
 An added, and not entirely unintended benefit was that Ward had achieved somewhat of a rapprochement with the foreign authorities in Shanghai, thanks to the general opinion of the international community decidedly souring on the Taiping. While the British and French were wary of supporting the Qing directly, they were willing to lend their services in theoretical support of the EVA, and so EVA and foreign regular troops operated in tandem in what was sometimes termed the 'thirty-mile radius' campaigns, so named because officially, British support for Ward would not extend more than 30 miles from Shanghai. Having Ward around thus gave Qing authorities a somewhat roundabout way of gaining additional military support from European regular forces.
 
------ __296.2__ -----2022-04-07 13:03:11+08:00:
+----- __297.2__ -----2022-04-07 13:03:11+08:00:
 
 Ward's death in battle in September 1862 led to the EVA being put essentially out of action for the next six months while its senior command was reorganised. While briefly under the command of Henry Burgevine, British authorities successfully petitioned for the force to be placed under the command of a British officer, in the event Charles Gordon of the Royal Engineers, who took up command in March 1863. I discuss the specifics of that period, and Gordon's eventual appointment, in more detail [here](https://www.reddit.com/r/AskHistorians/comments/boc27j/youre_a_military_officer_in_a_foreign_country_in/epxowc9/?context=999). Under Gordon, the Qing's reasons for maintaining the EVA were in many ways much the same. An added benefit, though, was the direct British stake in the EVA through having appointed British officers. However, the EVA still remained part of the Qing's armed forces, such that its involvement in the war provided little leverage for foreign interests.
 
@@ -409,7 +409,7 @@ However, the regent did offer an alternate approach: instead of maintaining the 
 
 The later history of the Lay-Osborn Flotilla mostly lies beyond the interests of the Qing government and by extension the scope of this answer, but it is a fascinating story involving Confederate privateers, Anglo-American diplomatic intrigues, and the Meiji Restoration. But all for another time.
 
------ __296.3__ -----2022-04-07 13:06:53+08:00:
+----- __297.3__ -----2022-04-07 13:06:53+08:00:
 
 
 
@@ -433,73 +433,73 @@ But these forces also served a diplomatic function as well, as they demonstrated
 
 * Jonathan Chappell, 'The Limits of the Shanghai Bridgehead: Understanding British Intervention in the Taiping Rebellion, 1860–62', *The Journal of Imperial and Commonwealth History*, 44:4 (2016), pp. 533-550
 
------ __296.4__ -----2022-04-09 23:48:39+08:00:
+----- __297.4__ -----2022-04-09 23:48:39+08:00:
 
 As regards the names: the Ever-Victorious Army was the *chang sheng jun* 常勝軍, the Ever-Triumphant Army was the *chang jie jun* 常捷軍, and the Ever-Secure Army was the *chang an jun* 常安軍. The Ever-Victorious Army was the first to receive such an appellation, doing so after its victory at Songjiang in February 1862. When exactly the Ever-Triumphant and Ever-Secure Armies received their titles is unclear to me, though they were definitely in use when these forces were active. The repetition of 常 was almost certainly an intentional product of their apparent derivation from the EVA. The naming of specialist military units was not unprecedented, as for instance the Banners had named elite elements like the *Jianruiying* 尖銳營 and *Huoqiying* 火器營, although I don't believe there was much precedent for unique names for ordinary battalions in the Banners, Green Standards, or 'brave' forces, as these were generally assembled ad hoc.
 
 Ward and Burgevine renounced their US citizenship in order to avoid arrest by US authorities; the Qing did accept their petition although it did create some headaches over issues like the queue edict. Ward, as noted, died in combat in 1862, while Burgevine died in 1865, amid circumstances that had raised some questions over whether the US government was actually prepared to recognise his renunciation of citizenship. What I didn't note in the answer above, but which was mentioned in the linked one, is that Burgevine defected to the Taiping after the appointment of Gordon, and was captured after surrendering to the Qing army at Suzhou; he was then deported to Japan in December 1863 by US authorities but ended up inadvertently returning to Shanghai on a ship he thought was bound for Hong Kong, and arrested by the Qing in a sting operation in May 1865. According to Qing authorities, he died when the boat carrying him to Shanghai for trial capsized, although US authorities suspected but could not prove foul play in the affair. As a nominal Qing subject, Burgevine would no longer have been entitled to an extraterritorial trial by US consular authorities, though there was still some attempt by American diplomatic staff to take over his custody that, in the event, never transpired.
 
-### 297: [Help with Questions about the surname Tang 湯 versus 唐?](https://old.reddit.com/r/ChineseHistory/comments/turaj8/help_with_questions_about_the_surname_tang_湯/), submitted on 2022-04-03 03:39:41+08:00.
+### 298: [Help with Questions about the surname Tang 湯 versus 唐?](https://old.reddit.com/r/ChineseHistory/comments/turaj8/help_with_questions_about_the_surname_tang_湯/), submitted on 2022-04-03 03:39:41+08:00.
 
------ __297.1__ -----2022-04-03 12:57:23+08:00:
+----- __298.1__ -----2022-04-03 12:57:23+08:00:
 
 > Chinese dynasties are named after names of states, not after the ruling families. The only exception to that is Chen dynasty (陳朝), otherwise the states were named after the fiefs the founding Emperor was ruling.
 
 Except from the Jurchen Jin onward, where imperial states took symbolic names – Jin 金, Yuan 元, Ming 明, (Shun 順,) and Qing 清.
 
-### 298: [[Hobby Scuffles] Week of April 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/tvb707/hobby_scuffles_week_of_april_4_2022/), submitted on 2022-04-03 23:00:15+08:00.
+### 299: [[Hobby Scuffles] Week of April 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/tvb707/hobby_scuffles_week_of_april_4_2022/), submitted on 2022-04-03 23:00:15+08:00.
 
------ __298.1__ -----2022-04-04 04:15:14+08:00:
+----- __299.1__ -----2022-04-04 04:15:14+08:00:
 
 Well also, in 2014 she would have been, what, 17? Edgy teen phases aren't exactly uncommon.
 
------ __298.2__ -----2022-04-04 04:23:14+08:00:
+----- __299.2__ -----2022-04-04 04:23:14+08:00:
 
 Weirdly, this isn't the first time Demondice's past use of racial slurs has come up, as there was apparently some discussion of whether that might be a bit of a ticking time bomb for her during Mori Calliope's debut. What's interesting is there is, effectively, more than one issue on the line here. Quite apart from the question of whether people will be willing to allow her to move on, there's also the matter of how to deal with the notion that Calli and DDK are separate identities even if they are adopted by the same person, given that it's been DDK coming under fire for something that was kicked off by something featured on the Calli side of things.
 
 But as with many things, there is a question of whether it will all blow over as a bit of a nothingburger in a matter of days or weeks, like the Nene tracing incident.
 
------ __298.3__ -----2022-04-04 04:30:34+08:00:
+----- __299.3__ -----2022-04-04 04:30:34+08:00:
 
 On that latter aspect, I agree it's interesting though not necessarily on the majority white Anglospheric audience side, at least not entirely. From the numbers that have gone around lately, her Japanese audience seems decently substantial as well, given her album charted at #4 on Billboard Japan's top downloaded albums in its first week. While a numerical minority it's definitely not just a niche of her audience, and it seems like concern about the 'watering down' on the Japanese side of things comes about kind of externally, from people with an investment in 'authentic' or 'accurate' representations of Japan and its culture internationally, which is a bit of a separate matter from reception of that work within Japan. What might seem like 'watering down' to a particularly conscious outside viewer may, within Japan, be received as entirely innocuous.
 
------ __298.4__ -----2022-04-04 14:08:58+08:00:
+----- __299.4__ -----2022-04-04 14:08:58+08:00:
 
 I wonder if it'll go the other way – if they sort of recognise that the whole separation of identities thing is a bit of a relic of the days of Activ8, and that enough of the small players don't bother with it that the big dogs like Holo and Niji can drop the act too.
 
------ __298.5__ -----2022-04-04 21:06:56+08:00:
+----- __299.5__ -----2022-04-04 21:06:56+08:00:
 
 Sure, you *actually* can't, but you can *think* you can't. What's changed isn't that the word has become damaging, it's that those who hadn't previously *recognised* it as damaging now have.
 
------ __298.6__ -----2022-04-04 22:21:37+08:00:
+----- __299.6__ -----2022-04-04 22:21:37+08:00:
 
 Thanks for the shoutout! (I guess? Not sure how to feel about drawing attention to Tartaria being my enduring legacy!)
 
------ __298.7__ -----2022-04-04 22:22:24+08:00:
+----- __299.7__ -----2022-04-04 22:22:24+08:00:
 
 I think the thing is, Tartaria was already so tied into the whole CulturalLayer architecture nonsense that arguably the 'ancient empire' side was a temporary fixation within an otherwise architecture-dominated conspiracy.
 
------ __298.8__ -----2022-04-04 22:24:02+08:00:
+----- __299.8__ -----2022-04-04 22:24:02+08:00:
 
 If you have a look at the r/badhistory post you'll see – they'll pull stuff out like Russian medals commemorating the 100th anniversary of Napoleon's defeat as being proof of a Russo-French alliance because they have Napoleon's head on them; art showing Napoleon being buddy-buddy with Tsar Alexander in the post-Tilsit 'honeymoon period'; the existence of 'Russian militia' who, because they're dressed differently from French and Russian regulars (hint: the only difference is they wear greatcoats), must actually be the Tartarian army, etc.
 
------ __298.9__ -----2022-04-04 22:24:54+08:00:
+----- __299.9__ -----2022-04-04 22:24:54+08:00:
 
 Yep. As noted, the 'Tartarian Empire' did exist. It was the Mongol Empire. And then that collapsed. No need to make as big a deal out of it as the Tartaria-stans do.
 
------ __298.10__ -----2022-04-04 22:26:00+08:00:
+----- __299.10__ -----2022-04-04 22:26:00+08:00:
 
 If it involves secret coverups, someone has to be doing the covering.
 
------ __298.11__ -----2022-04-04 22:27:17+08:00:
+----- __299.11__ -----2022-04-04 22:27:17+08:00:
 
 Yeah, Calli/DDK is infamously bad at damage control; her general 'fuck the haters and keep on trucking' approach is something that in a sense works for her in the moment but doesn't do much to actually deflate the drama. That said, I do feel like there's a bit of a case of her not being omniscient here. She might only be seeing – or only really taking notice of – the criticism of her old work, not of the racial slurs side of things, and arguably it is the latter where you do need to make a clear statement whereas the former can arguably be addressed with 'you are coming at this having just discovered my work and are deliberately going after old work which I've already disavowed'. Though that might be the more generous take.
 
------ __298.12__ -----2022-04-05 14:29:15+08:00:
+----- __299.12__ -----2022-04-05 14:29:15+08:00:
 
 Not everyone can afford the luxury of presuming all or even most criticism is in good faith.
 
------ __298.13__ -----2022-04-06 02:52:54+08:00:
+----- __299.13__ -----2022-04-06 02:52:54+08:00:
 
 So, this is something I vaguely recall because I did watch the core exchange of videos as someone who was a viewer of both Oates and EoT at the time:
 
@@ -507,7 +507,7 @@ As far as I can tell, it was not ContraPoints but Rationality Rules who was the 
 
 From what I can tell, nobody comes out looking amazing: RR ended up parroting a pretty common transphobic position; Oates' defence (not being informed enough on the issue to properly comment) was comprehensible but pretty weak (i.e. why not inform yourself, then?); EoT was quite overtly hostile to the point of appearing to tell someone on Twitter to commit suicide. Even if RR's video was transphobic, EoT did themselves no favours by adopting a hostile stance and presuming bad faith on the part of all parties involved.
 
------ __298.14__ -----2022-04-10 12:55:32+08:00:
+----- __299.14__ -----2022-04-10 12:55:32+08:00:
 
 I've never quite been sure where i stand with EoT. On the one hand I did occasionally still watch them until quite recently because I did think it valuable to maintain some exposure to a particularly strong trans viewpoint, but the more I see of EoT's behaviour on social media the less inclined I am to support them in particular. I just find it hard to get behind someone who will hurl insults and ad hominems at people who may have bad opinions but hold them in good faith, and who will adamantly refuse to having committed any wrongdoing. This is basically what irked me the most about the situation over the alleged call to suicide: EoT's defence that they weren't *intending* on calling on Oates to kill herself doesn't change the fact that they nevertheless *did*, by writing a statement that very much implied it. (Which, to open another can of worms, is similar to why I'm honestly very unsympathetic to Lindsay Ellis over the Raya situation, where there's a double-whammy of using the existence of bad faith criticism to decline acknowledgement of good faith criticism, and also refusing to admit that harm was caused regardless of intent.)
 
