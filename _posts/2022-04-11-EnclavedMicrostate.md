@@ -149,3 +149,9 @@ We have focussed so far on the Qing self-image as presented to the Manchus, but 
 
 The only good answer to that question is we do not know. It is *possible* that it was in some way derived from the name of Manjusri, the bodhisattva of wisdom, which *might* align with the greater exposure of Hong Taiji to Tibetan Buddhism following the integration of the surrendered Chakhar khanate prompting him to make the change in 1635. But we also see the term 'Manchu' attested as early as 1605 or thereabouts if I recall correctly, so it may well have been some kind of existing identification that Hong Taiji seized on when he decided to actively rework Jurchen identity, with the similarity to Manjusri being pure coincidence.
 
+----- __347.3__ -----2022-04-16 22:44:21+08:00:
+
+The Manchu language has always been a bit of an on-and-off amateur interest of mine so I really can't claim a very strong grasp of the actual linguistics. That said, vernacular Manchu has never died out entirely, as there have been a few scattered pockets of first language speakers. This includes the Sibe exclave in Xinjiang, who do not consider themselves Manchus or their language to be Manchu, but where their language is nevertheless extremely proximate to the 'standard' Manchu of the Qing period. Sibe has thus been a particularly significant tool for linguists in reconstructing spoken Manchu, in conjunction with the few remaining first language speakers of 'standard' Manchu in 'Manchuria' proper. 
+
+I don't really know what Manchu as taught in China is like, but in general overseas Manchu instruction centres mainly on clerical written Manchu for the student of history rather than Manchu as a spoken language. That said, given the nicheness of Manchu there is some limited focus on surviving modern forms such as Sibe and the admittedly small corpus of 20th century Manchu-language texts in more rounded Manchu programmes and resources, such as Gertraude Roth Li's textbook.
+
