@@ -155,3 +155,9 @@ The Manchu language has always been a bit of an on-and-off amateur interest of m
 
 I don't really know what Manchu as taught in China is like, but in general overseas Manchu instruction centres mainly on clerical written Manchu for the student of history rather than Manchu as a spoken language. That said, given the nicheness of Manchu there is some limited focus on surviving modern forms such as Sibe and the admittedly small corpus of 20th century Manchu-language texts in more rounded Manchu programmes and resources, such as Gertraude Roth Li's textbook.
 
+### 348: [For Kanata's birthday on 22/4, Hong Kong fans have rented an outdoors advertisement screen to play a fan-made video for her! Let's all support our PP tenshi while we wait for her to return from the hiatus.](https://old.reddit.com/r/Hololive/comments/u4x5wf/for_kanatas_birthday_on_224_hong_kong_fans_have/), submitted on 2022-04-16 20:51:59+08:00.
+
+----- __348.1__ -----2022-04-17 00:32:56+08:00:
+
+Really outdoing yourselves as of late; whoever might be next?
+
