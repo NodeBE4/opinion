@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-15
+date: 2022-04-16
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/u1dq4h/unofficial_daily_update_for_20220411_1463_new/
 layout: post
 tags:
@@ -115,4 +115,12 @@ But who knows, maybe you'll be the first.
 ----- __222.1__ -----2022-04-15 10:21:03+08:00:
 
 https://www.youtube.com/watch?v=eM2PIjaSNVI
+
+### 223: [What Questions Do You Have For Bill Gates?](https://old.reddit.com/r/walkaway/comments/u50knh/what_questions_do_you_have_for_bill_gates/), submitted on 2022-04-16 23:48:12+08:00.
+
+----- __223.1__ -----2022-04-17 04:26:46+08:00:
+
+> “Why are you buying up so much farmland?”
+
+To manipulate commodity futures, obviously.
 
