@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -673,7 +673,7 @@ Re @FangYiDuan1 @gong84699718 首先，我这条推没有半点不对。只是�
 
 ### 165: [2022-04-16 05:04:24+08:00 推文](https://twitter.com/HeQinglian/status/1515073578445770757)
 
-盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助 <a href="https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank" target="_blank" rel="noopener noreferrer">https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank</a>
+盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助<br><br>He Qinglian: 这次俄乌战争输得最惨的是拜登政府。<br>1、验证了美国原有软实力不再，追随者寥寥，连仅剩的盟友也三心二意，心怀不满；<br>2、自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；<br>3、信誉不再，亲手终结了全球化；<br>4、生化实验室的事情再度曝光；<br>5、唯一赢的是军工企业，能源卖个好价<br>
 
 ### 166: [2022-04-16 05:07:17+08:00 推文](https://twitter.com/HeQinglian/status/1515074305532563464)
 
@@ -686,4 +686,28 @@ Re @Ceiling1952 拜登债务急剧增加，他接任时21万亿美债，现超�
 ### 168: [2022-04-16 05:11:28+08:00 推文](https://twitter.com/HeQinglian/status/1515075358927765507)
 
 Re @jackzhu60514151 你这是美国之外的立场。但对于我们这些生活在美国的人，就是最坏。
+
+### 169: [2022-04-16 08:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1515121514881994755)
+
+Re @WEICHUNNNN 中国并未直接参与，无论怎样，都是搭便车。世界分成两大阵营，中国必然与俄罗斯结盟。
+
+### 170: [2022-04-16 08:21:18+08:00 推文](https://twitter.com/HeQinglian/status/1515123130481717256)
+
+Re @yiluhun 郭粉与我向来不对付，见之必拉黑。
+
+### 171: [2022-04-16 08:26:42+08:00 推文](https://twitter.com/HeQinglian/status/1515124488098258952)
+
+Re @Ming00067607 “自从俄乌战争打响以后，拜登民调就上去了”，拜登民调并没上去。<br>他儿子的事情反而被自家左媒大曝特曝。
+
+### 172: [2022-04-16 08:37:58+08:00 推文](https://twitter.com/HeQinglian/status/1515127325293174785)
+
+盖尔·拉夫特分析：世界被划分为三组国家。第一组是“西方+精英俱乐部成员”，如日韩新加坡。第二组是以中俄为首的所谓“修正主义国家”，这些国家希望推动建立一个新国际体系，不再生活在西方的支配之下。第三组是大多数国家的状态：不结盟。它们希望在全球化体系中不受大国压力。
+
+### 173: [2022-04-16 08:42:28+08:00 推文](https://twitter.com/HeQinglian/status/1515128458422202371)
+
+Re @motorheroSyd “自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；”<br>直接、痛快。
+
+### 174: [2022-04-16 09:08:08+08:00 推文](https://twitter.com/HeQinglian/status/1515134914773061638)
+
+Re @YongzuoLi @WEICHUNNNN 衡量一个国家财富，不仅是GDP，还有自然资源。
 
