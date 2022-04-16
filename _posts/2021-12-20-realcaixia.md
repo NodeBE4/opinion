@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-20~2021-12-26'
 
 ### 3: [2021-12-21 01:10:47+08:00 推文](https://twitter.com/realcaixia/status/1472977794254589952)
 
-请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style="" src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
+请大家帮忙转发，仅仅只是说几句话，李田田老师就遭此劫难！谁人无母亲？谁人不为人子？把身为孕妇的李田田老师强制关进精神病院，她的孩子还没出生就被极权专政迫害摧残，这样的事令人发指！<br><br>悉尼閑人: 轉<br><br><img style src="https://pbs.twimg.com/media/FHCRx-_UUAM6rl_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-21 22:43:38+08:00 推文](https://twitter.com/realcaixia/status/1473303149129646097)
 
@@ -81,7 +81,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 17: [2021-12-24 12:11:37+08:00 推文](https://twitter.com/realcaixia/status/1474231262449741828)
 
-什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style="" src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
+什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-24 22:14:56+08:00 推文](https://twitter.com/realcaixia/status/1474383092206944271)
 
