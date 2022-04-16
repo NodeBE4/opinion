@@ -448,3 +448,7 @@ I have a vague recollection that it had already sort of started with Kizuna AI, 
 
 Just to clear up some confusion, upd8 was the agency branch of Activ8, while Game-bu was one particular project under Unlimited Inc./Brave Group. These were not parts of the same company, they just happen to have had similar scandals around the same time.
 
+----- __333.14__ -----2022-04-16 18:08:01+08:00:
+
+For what it's worth, I've never approached VTubers and the community around them as toxic to a unique extent, just in unique ways. This very subreddit shows that people will get angry and do awful things over *anything* given the chance.
+
