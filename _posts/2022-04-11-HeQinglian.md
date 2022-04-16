@@ -293,7 +293,7 @@ Re @jason78proton 这是重大消息，类于二战时期？看来美国没打�
 
 ### 70: [2022-04-13 08:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1514039656052109318)
 
-2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。
+2021年，按官方平均汇率计算，人均名义GDP折合12173美元，乌克兰2021年人均GDP为4532美元，俄的人均GDP约为乌克兰的2.7倍。<br>数字说话。<br><br>jiang shangrong: 这段视频我笑了3分钟。特意做了字幕分享。虽然好笑却发人深省。翻墙出来那些被洗脑教育的又自以为是民主志士的中国人和这个姑娘本质上没有太大区别的。很多人眼里俄罗斯就是个连微波炉都要拼了坦克和命去抢的地方……<br> <a href="https://youtu.be/42GUB1j3bls" target="_blank" rel="noopener noreferrer">https://youtu.be/42GUB1j3bls</a>
 
 ### 71: [2022-04-13 08:52:20+08:00 推文](https://twitter.com/HeQinglian/status/1514043777907834890)
 
@@ -850,4 +850,72 @@ Re @plus07253487 @zaker72540747 @Lucktk324 谈到这点，我很奇怪。用英�
 ### 209: [2022-04-17 02:19:50+08:00 推文](https://twitter.com/HeQinglian/status/1515394550101159948)
 
 Re @JiangShangrong 请问，你有看到德等国用什么币种支付天然气的俄语报道没有？英文从4月10日后没这类消息了。
+
+### 210: [2022-04-17 04:10:54+08:00 推文](https://twitter.com/HeQinglian/status/1515422501572071431)
+
+Re @FangYiDuan1 这还用说，当然是我们这些住在美国的人。<br>通胀这么厉害，仅食物一项，每月多支出一倍开支，接下来就是能源了。<br>各国都让自己的老百姓买单吧。
+
+### 211: [2022-04-17 04:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1515423252843311111)
+
+Re @CrabNJ @JiangShangrong 没僵持了，俄通社消息。<br>西方没报，可以理解，毕竟不是胜利消息。 <a href="https://big5.sputniknews.cn/20220416/1040724374.html" target="_blank" rel="noopener noreferrer">https://big5.sputniknews.cn/20220416/1040724374.html</a>
+
+### 212: [2022-04-17 04:17:12+08:00 推文](https://twitter.com/HeQinglian/status/1515424086465425415)
+
+你分析得有道理。刚搜到的俄通社消息：<br>俄天然氣公司：應買家要求天然氣照常經烏克蘭轉運<br>2022年4月16日<br><br>内容见链接。不相信者可以不相信。<br><br>种蘑菇: @HeQinglian @zaker72540747 @Lucktk324 保持谈对俄国有利，谈的内容也不一定就局限于气用什么支付，奥地利总理访俄难道真的就为了训普京一顿吗？那他何必跑莫斯科一趟？<br>
+
+### 213: [2022-04-17 04:19:16+08:00 推文](https://twitter.com/HeQinglian/status/1515424606718414848)
+
+Re 但乌克兰可以将送气管炸掉，让俄国生意做不成。管道从乌克兰境内过，这是主权范围内可决定的事情。
+
+### 214: [2022-04-17 04:20:10+08:00 推文](https://twitter.com/KELMAND1/status/1515424833776984065)
+
+RT Ezio Mao☢<br>阿拉巴马州众议员莫布鲁克斯告诉支持者，根深蒂固的腐败制度阻止国会通过有利于普通美国人的立法。布鲁克斯说，两党都向其成员收取 100 万美元及以上的委员会主席费用，只有那些从说客那里获得捐款的人才能负担得起这些席位。<br><br>“特殊利益集团掌管着华盛顿，这不是比喻，这特么就是字面意思上的交易”<br><br>Lauren Windsor: NEW: GOP Rep Mo Brooks says prime committee chairmanships cost a minimum of $1 million and are paid by special interest groups as "a quid pro quo" for favored legislation<br><br>#ALsen<br><br><video src="https://video.twimg.com/ext_tw_video/1514984555681546241/pu/vid/1920x1080/6NCtJ2QkrH1bokmf.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514984555681546241/pu/img/DRQVVjzTEhKrlKS9.jpg"></video>
+
+### 215: [2022-04-17 04:21:51+08:00 推文](https://twitter.com/HeQinglian/status/1515425257502486534)
+
+Re @plus07253487 @zaker72540747 @Lucktk324 现在早就否定美国开国先贤了。因此要反其道而行之：嗓门要大，话要重。能吓倒对方自然最好，吓不倒就说“我们手里没有证据”，先前说的不算。
+
+### 216: [2022-04-17 04:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1515425940276486163)
+
+Re @david_david1968 参考俄通社消息：<br>俄羅斯天然氣工業股份公司稱，公司按買家要求照常通過烏克蘭轉運天然氣。天然氣工業銀行將為外國買家開立特別的外幣和盧布賬戶以支付費用。購買方將以合同中指定的貨幣將資金匯到第一個賬戶，銀行將其在莫斯科交易所出售，然後與天然氣供應商進行結算。 <a href="https://big5.sputniknews.cn/20220416/1040724374.html" target="_blank" rel="noopener noreferrer">https://big5.sputniknews.cn/20220416/1040724374.html</a>
+
+### 217: [2022-04-17 04:30:09+08:00 推文](https://twitter.com/HeQinglian/status/1515427346257489920)
+
+Re @Swanlake1979 输了一大招，脸打得山响。欧俄天然气合同照签。
+
+### 218: [2022-04-17 04:36:49+08:00 推文](https://twitter.com/HeQinglian/status/1515429025421922310)
+
+Re @david_david1968 估计不少是啃老族。如果自己需要工作，怎么会常说一些胡话：“德国这么没气节，不就是没天然气么？”“你就看重通胀这点小事，没见乌克兰在为欧洲血拼么？”<br>至今为止，只看见乌克兰要入北约求保护，没见北约要求它保护。<br>除了左派政府，正常政府都知民以食为天。
+
+### 219: [2022-04-17 04:44:47+08:00 推文](https://twitter.com/HeQinglian/status/1515431030383067142)
+
+Re @david_david1968 西方三步退却是这样走的：一、承认信息造假（美国官员以向NBC透露消息的方式）；二、德国找到泽连斯基不接受总统访问的失礼翻脸，然后透过DW说乌军胜利的信息很多造假；三、美参联主席米利在国会作证谈武器耗尽，直说美国已不能继续再供给乌克兰大量武器，得等数个月后造出来。<br>然后就是天然气用卢布付
+
+### 220: [2022-04-17 04:50:54+08:00 推文](https://twitter.com/HeQinglian/status/1515432567993995268)
+
+Re @kingbo25729098 知道，毛玩过。文革时，宁吃社会主义的草，也不要资本主义的苗。<br>人类是逐利动物，共产主义非得造就“人人为我，我为人人”的社会，结果是什么，你在中国经历过文革就应该知道。没经历过，继续追求以价值观定位的共产主义吧。<br>德国的绿能不是从实际出发，恰好是价值观出发。
+
+### 221: [2022-04-17 04:52:56+08:00 推文](https://twitter.com/HeQinglian/status/1515433081615831040)
+
+Re @david_david1968 不知道。也许通过第三方转个弯儿？毕竟文章说欧洲买家，没指明德国。<br>欧洲买家就算是私人公司，也算西方吧？<br>前面说的三步，全都给过链接，不止一次。
+
+### 222: [2022-04-17 04:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1515433958070235148)
+
+Re @david_david1968 或者，大家再等等，看看德国政府如何回应，以下是几种答案：<br>1、欧洲买家不包括德国；德国未委托任何买家向俄续签天然气供应合同。<br>2、沉默，决不对号入座。<br>3、公布天然气替代方案，宣布从某年某月某日起，不用俄罗斯天然气。<br>让70%的人开心的是：俄通社是假消息，德国选择了价值观。
+
+### 223: [2022-04-17 04:57:24+08:00 推文](https://twitter.com/HeQinglian/status/1515434203374141454)
+
+Re @kingbo25729098 不与你废话了。一边凉快去。
+
+### 224: [2022-04-17 04:59:40+08:00 推文](https://twitter.com/HeQinglian/status/1515434774789242884)
+
+Re @LongestYard2021 @david_david1968 从美国2020变得不正常开始，一切就都不正常了。
+
+### 225: [2022-04-17 05:27:14+08:00 推文](https://twitter.com/HeQinglian/status/1515441713954893826)
+
+Re @david_david1968 那西方人花了老鼻子劲，批评中国、改造中国图啥？总不是为了最后殊途同归？<br>现在人还真吃这一套，想回到毛时代按价值观吃饭那条路去。<br>不想理会这种人。
+
+### 226: [2022-04-17 05:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1515443896196681728)
+
+Re @JiangShangrong 庆父不死，鲁难未已。
 
