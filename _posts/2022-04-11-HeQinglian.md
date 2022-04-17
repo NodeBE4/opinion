@@ -673,7 +673,7 @@ Re @FangYiDuan1 @gong84699718 首先，我这条推没有半点不对。只是�
 
 ### 165: [2022-04-16 05:04:24+08:00 推文](https://twitter.com/HeQinglian/status/1515073578445770757)
 
-盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助<br><br>He Qinglian: 这次俄乌战争输得最惨的是拜登政府。<br>1、验证了美国原有软实力不再，追随者寥寥，连仅剩的盟友也三心二意，心怀不满；<br>2、自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；<br>3、信誉不再，亲手终结了全球化；<br>4、生化实验室的事情再度曝光；<br>5、唯一赢的是军工企业，能源卖个好价<br>
+盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助 <a href="https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank" target="_blank" rel="noopener noreferrer">https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank</a>
 
 ### 166: [2022-04-16 05:07:17+08:00 推文](https://twitter.com/HeQinglian/status/1515074305532563464)
 
@@ -978,4 +978,64 @@ Re @chenshijie2015 @david_david1968 南非曾是彩虹革命典范，与黑非�
 ### 241: [2022-04-17 11:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1515526210469695490)
 
 Re @yizhengwang2 Victoria Nuland: Ukraine has “biological research facilities,” worried Russia may seize them<br><br>如果有人认为这种事情在目前的情况下能够被公正调查，那只是一厢情愿的看法。<br>但事实就在这里。 <a href="https://mronline.org/2022/03/17/victoria-nuland-ukraine-has-biological-research-facilities-worried-russia-may-seize-them/" target="_blank" rel="noopener noreferrer">https://mronline.org/2022/03/17/victoria-nuland-ukraine-has-biological-research-facilities-worried-russia-may-seize-them/</a>
+
+### 242: [2022-04-17 21:32:33+08:00 推文](https://twitter.com/HeQinglian/status/1515684643873476611)
+
+Re @laohei789 @JiangShangrong 尽管布林肯国务院宣布战争将持续到年底，亦即中期选举之后。但既达不到解体俄罗斯的目的，也达不到让普京下台的目的。<br>问题是：目前50天，折合现金，美国给了25亿美元，欧盟给的应该也接近10亿了，每天这样耗下去，欧盟可能会渐至于无，这种情况有利于民主党还是不利于民主党，盗选集团得好好考虑。
+
+### 243: [2022-04-17 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1515691104099831808)
+
+Re @JianglinLi @laohei789 @JiangShangrong 你挡不住人家做梦。就算是人家的媒体自个承认是假信息，你只要发布有关此的消息，你就是“立场有问题”。<br>这世界上，脑残再加鸡血，没救。
+
+### 244: [2022-04-17 22:00:34+08:00 推文](https://twitter.com/HeQinglian/status/1515691693038784512)
+
+瑞士前情报官雅克 ·波特：“能否真正了解乌克兰的过去和正在发生的事情？”<br><br>本文包括三部分：1、战争之路（西方国家的介入）；2、战争，包括战争爆发前对明斯克协议一二的遵守状况、过程中的去军事化、去纳粹化、马里乌波尔的妇产医院的真实情况；3、结论<br>结论部分我发个串推。 <a href="https://www.sott.net/article/466340-Retired-Swiss-Military-Intelligence-Officer-Is-it-Possible-to-Actually-Know-What-Has-Been-And-is-Going-on-in-Ukraine" target="_blank" rel="noopener noreferrer">https://www.sott.net/article/466340-Retired-Swiss-Military-Intelligence-Officer-Is-it-Possible-to-Actually-Know-What-Has-Been-And-is-Going-on-in-Ukraine</a>
+
+### 245: [2022-04-17 22:02:56+08:00 推文](https://twitter.com/HeQinglian/status/1515692290429403136)
+
+Re “作为一名前情报专家，让我印象深刻的第一件事是西方情报机构完全没有准确地反映过去一年的情况。事实上，整个西方世界的情报机构似乎都被政客们压垮了。问题是政客们决定—— 如果决策者不听，世界上最好的情报服务就毫无用处。这就是危机期间发生的事情。”
+
+### 246: [2022-04-17 22:05:11+08:00 推文](https://twitter.com/HeQinglian/status/1515692855347585024)
+
+Re “在这场危机期间向公众展示的所有文件都是由政客根据商业来源提供的。<br>我们今天目睹的戏剧性发展有我们知道但拒绝看到的原因：<br>在战略层面上，北约的扩张（我们未讨论）；<br>在政治层面，西方拒绝执行明斯克协议；<br>在操作上，过去几年对顿巴斯平民的持续和反复袭击以及 2022 年 2 月下旬的急剧增加。”
+
+### 247: [2022-04-17 22:10:04+08:00 推文](https://twitter.com/HeQinglian/status/1515694082689015815)
+
+Re 雅克·波特是前瑞士战略情报局成员，东方国家专家，北约前总参谋部上校，接受过美英情报部门培训，曾担任UN和平行动的政策负责人。作为UN法治和安全机构专家，他设计并领导了苏丹第一个多维联合国情报机构。苏联解体后，他参与过与俄罗斯最高军事和情报官员的讨论，对乌克兰了解甚深，著述颇丰。
+
+### 248: [2022-04-17 22:12:31+08:00 推文](https://twitter.com/HeQinglian/status/1515694699281063936)
+
+Re @Ming00067607 从没有过。
+
+### 249: [2022-04-17 22:22:19+08:00 推文](https://twitter.com/HeQinglian/status/1515697165703733257)
+
+Re @gliderhook 你最好就他文章中的事实提出质疑。<br>如果不行，就少来这套立场问题，目前，就你的立场而言，所有言论都不合规，除了美国拜登代表正义、未来。<br>你好意思说么？<br>美国本国专家持这种观点的人多了去，个个的专业资格都很足。
+
+### 250: [2022-04-17 22:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1515702522937286665)
+
+Re @JianglinLi 基本如此。来我这里留言的推主，曾说到过美国手段高明，象射雕英雄传中的桃花岛主黄药师那样教会傻姑三招，来回使用，打败对手无数——言下之意甚是羡慕。<br>美国教会了乌克兰三招，应该就是两假一要。
+
+### 251: [2022-04-17 23:15:40+08:00 推文](https://twitter.com/HeQinglian/status/1515710594355281930)
+
+美国的躯壳还在，内里正在更换，这样的美国中学教育让正常人害怕。拜登最近一忙指挥战争，二忙让美国未成年人变性。<br>马萨诸塞州家长起诉学校，称校方秘密鼓励孩子更改性别代词和名字 <a href="https://nypost.com/2022/04/16/ludlow-public-schools-secretly-promoted-our-kids-gender-transition-parents/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/04/16/ludlow-public-schools-secretly-promoted-our-kids-gender-transition-parents/</a>
+
+### 252: [2022-04-17 23:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1515712833996181505)
+
+Re @mingshi_chen 因为变性会让美国外科变性专科大发展，世界上有十分之一的人愿意变性，就能创造出一个支柱行业。
+
+### 253: [2022-04-17 23:27:12+08:00 推文](https://twitter.com/HeQinglian/status/1515713493676314625)
+
+Re @ZyudoyMmWPj0jQV 谈到了，在关键处点到了。这种文章，大篇谈论那些，有点节外生枝。
+
+### 254: [2022-04-17 23:28:44+08:00 推文](https://twitter.com/HeQinglian/status/1515713881485758471)
+
+Re @ZyudoyMmWPj0jQV 谈到了，在关键处点到了。我没译而已。看全文，就知道。
+
+### 255: [2022-04-17 23:34:56+08:00 推文](https://twitter.com/HeQinglian/status/1515715441062297601)
+
+Re @mingshi_chen 大麻已经产业一条龙了，就等变性了。<br>真不理解，还有这么多人认为这美国是2020年以前的美国——其实那时都已经变了不少。
+
+### 256: [2022-04-17 23:38:06+08:00 推文](https://twitter.com/HeQinglian/status/1515716236889440262)
+
+Re @jackzhu60514151 你就是来回只学了三板斧子，离开我这里。
 
