@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-15
+date: 2022-04-17
 from: https://twitter.com/DavidBarboza2/status/1513300519367983104
 layout: post
 tags:
@@ -70,4 +70,16 @@ RT Manya Koetse<br>Re Footage shows clashes between police dressed in protecti
 ### 14: [2022-04-15 01:17:52+08:00 推文](https://twitter.com/ThisIsWenhao/status/1514654180673298436)
 
 RT Wenhao<br>Trending no.2 on Weibo: US uses mentally ill Ukrainians to conduct bio experiments. <br><br>But it’s largely occupied by netizens who, for the second consecutive night, roast the government and its propaganda efforts. <br><br>Popular comment: “You mean the experiment with eight kids?”<br><img style="" src="https://pbs.twimg.com/media/FQUh8xZXIAgp5Ei?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-04-17 02:38:00+08:00 推文](https://twitter.com/PM_Thornton/status/1515399122714460161)
+
+RT Patricia M Thornton<br>Anne Stevenson-Yang for @forbes: #China is facing what is arguably the worst crisis in governance since the end of the Cultural Revolution in 1976. Even the 1989 #Tiananmen uprising did not affect as many people as the #Covid lockdowns. <a href="https://www.forbes.com/sites/annestevenson-yang/2022/04/13/chinas-governance-implosion/" target="_blank" rel="noopener noreferrer">https://www.forbes.com/sites/annestevenson-yang/2022/04/13/chinas-governance-implosion/</a>
+
+### 16: [2022-04-17 22:16:36+08:00 推文](https://twitter.com/jojjeols/status/1515695727728640007)
+
+RT Jojje Olsson<br>Wonder what happens to this guy once the lockdown ends.<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
+
+### 17: [2022-04-17 22:25:33+08:00 推文](https://twitter.com/SPCmonitor/status/1515697981982646277)
+
+RT Susan Finder<br>Chinese law firms are cutting salaries and laying off staff because of the pandemic 疫情影响，律所降薪裁员！ <a href="https://mp.weixin.qq.com/s/7caCN7GfVGvYf6NVtPv6WQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/7caCN7GfVGvYf6NVtPv6WQ</a>
 
