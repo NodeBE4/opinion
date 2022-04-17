@@ -124,3 +124,7 @@ https://www.youtube.com/watch?v=eM2PIjaSNVI
 
 To manipulate commodity futures, obviously.
 
+----- __223.2__ -----2022-04-17 07:59:00+08:00:
+
+They're playing the same game just in a different way; they've been buying corn and other grain futures like they're going out of style.
+

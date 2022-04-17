@@ -505,7 +505,7 @@ Re @Zhongkui_liu 不要无视事实好不好？<br>新疆的事情，天天谴�
 
 ### 123: [2022-04-15 00:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1514648556983963654)
 
-世界上欧美之外的国家如果日子过不好，有历史原因、现实原因、技不如人，资源依赖、市场依赖等各种情况，只有美国天时地利样样有，政府没钱了，有限制地印点钞票就算硬通货。<br>现在出了问题是民主党左派自找的。2020年1月以前，那是美国最后一抹灿烂。<br>病毒被认为是上帝送给美国左派的礼物，开始使劲作<br><br>Alejandro Bernard: 现在美国一片悲观主义者，突然之间感受到了美联储不会再像上次那样被市场哀嚎声吓坏了，而且金融格局今时不同往日，小国家债务崩溃，美国经济衰退，在高通胀导致的选情失利面前都是洒洒水。<br>现金为王的论调这两天又开始充斥美国金融评论界。<br>所以说你永远赢不了，评论家们永远都说当时最主流的话。<br><br><img style="" src="https://pbs.twimg.com/media/FQUWj5DakAAHrDw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+世界上欧美之外的国家如果日子过不好，有历史原因、现实原因、技不如人，资源依赖、市场依赖等各种情况，只有美国天时地利样样有，政府没钱了，有限制地印点钞票就算硬通货。<br>现在出了问题是民主党左派自找的。2020年1月以前，那是美国最后一抹灿烂。<br>病毒被认为是上帝送给美国左派的礼物，开始使劲作
 
 ### 124: [2022-04-15 01:12:45+08:00 推文](https://twitter.com/HeQinglian/status/1514652893042950155)
 
@@ -673,7 +673,7 @@ Re @FangYiDuan1 @gong84699718 首先，我这条推没有半点不对。只是�
 
 ### 165: [2022-04-16 05:04:24+08:00 推文](https://twitter.com/HeQinglian/status/1515073578445770757)
 
-盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助<br><br>He Qinglian: 这次俄乌战争输得最惨的是拜登政府。<br>1、验证了美国原有软实力不再，追随者寥寥，连仅剩的盟友也三心二意，心怀不满；<br>2、自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；<br>3、信誉不再，亲手终结了全球化；<br>4、生化实验室的事情再度曝光；<br>5、唯一赢的是军工企业，能源卖个好价<br>
+盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助 <a href="https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank" target="_blank" rel="noopener noreferrer">https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank</a>
 
 ### 166: [2022-04-16 05:07:17+08:00 推文](https://twitter.com/HeQinglian/status/1515074305532563464)
 
@@ -715,207 +715,255 @@ Re @YongzuoLi @WEICHUNNNN 衡量一个国家财富，不仅是GDP，还有自然
 
 Re @Longlon54255872 开战之初，我说过，文章还在，但你信不信，于我何干？别将自己看得太重要，墙头草。
 
-### 176: [2022-04-16 21:46:44+08:00 推文](https://twitter.com/HeQinglian/status/1515325822969827337)
+### 176: [2022-04-16 21:34:41+08:00 推文](https://twitter.com/fzhenghu/status/1515322792152948736)
+
+RT 冯正虎<br>上海作家陈村，昨晚差点死于封控；一气之下写了篇日记，开骂了！<br><br>本人已经70岁高龄，打这些字手一直在抖，只是实在忍无可忍，必须把这个悲剧的剧情曝光出来。让所有人来评评理，把制定这个政策的昏官拉下马! <a href="https://gm-jd.org/chencun/" target="_blank" rel="noopener noreferrer">https://gm-jd.org/chencun/</a><br><img style="" src="https://pbs.twimg.com/media/FQeCCLzUcAEsU9i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 177: [2022-04-16 21:46:44+08:00 推文](https://twitter.com/HeQinglian/status/1515325822969827337)
 
 Re @franktianxie 韩与新，不是铁杆，经济上都离西方太远。<br>日本、澳大利亚会比较铁，亚太地缘政治决定如此。不过，经过这一点，会清楚主要依靠军售，而不是美国出兵。<br>第三世界当中，拉美奉行不结盟政策，非洲与中国近一点。中东离美国远，离中俄近。<br>这只是个大致划分。
 
-### 177: [2022-04-16 21:49:59+08:00 推文](https://twitter.com/HeQinglian/status/1515326642750734338)
+### 178: [2022-04-16 21:49:59+08:00 推文](https://twitter.com/HeQinglian/status/1515326642750734338)
 
 Re @cLb0SW7bwSU6y6p 非洲与拉美反殖民情结一直存在，拉美不亲美，非洲少数国家上层与英国联系密切，不少1960年代发生民族解放运动的反美反殖，是毛的好学生。
 
-### 178: [2022-04-16 21:54:04+08:00 推文](https://twitter.com/HeQinglian/status/1515327670959149059)
+### 179: [2022-04-16 21:54:04+08:00 推文](https://twitter.com/HeQinglian/status/1515327670959149059)
 
 Re @noahmitchell07 @juanli324 很多人正在吃屎，只是那屎被美国拜登政府包装成黄金，他们吃了还说很香。<br>无知者无畏。
 
-### 179: [2022-04-16 21:56:11+08:00 推文](https://twitter.com/HeQinglian/status/1515328201681219594)
+### 180: [2022-04-16 21:56:11+08:00 推文](https://twitter.com/HeQinglian/status/1515328201681219594)
 
 Re @plus07253487 @Ming00067607 说实话，弄不清这些人看什么媒体，中共的他们不看，美国主流媒体也不看，只看自媒体，然后信口开河，以为自己知道一切。
 
-### 180: [2022-04-16 22:02:44+08:00 推文](https://twitter.com/HeQinglian/status/1515329848885063686)
+### 181: [2022-04-16 22:02:44+08:00 推文](https://twitter.com/HeQinglian/status/1515329848885063686)
 
 Re @Wu_Zhi 树假旗后又辟谣，是这轮俄乌信息战的特点。出面辟谣的先后有美国官方、布林肯、路透社、德国之声等。台湾媒体报了不少假消息，从未辟谣。美媒集体参与辟以前所造谣的是小拜登电脑门事件，然后带出小拜登是投资乌克兰生化项目某公司的大股东一事，也因此证实了民主党诺兰在参议院承认的乌克兰生化项目。
 
-### 181: [2022-04-16 22:07:57+08:00 推文](https://twitter.com/HeQinglian/status/1515331164751511553)
+### 182: [2022-04-16 22:07:57+08:00 推文](https://twitter.com/HeQinglian/status/1515331164751511553)
 
 Re @Haleakala09 @juanli324 他们这些人能看到这点，就不会成为拜泽的拥护者。除了喊口号、发泄情绪，这些人连眼下中国正在发生什么都不知道。<br>生活中卑微如尘埃，到了外部世界，突然觉得自己膨胀成大水牛，贱蠢迭加，找不着北，连自己姓什么都不知道。
 
-### 182: [2022-04-16 22:15:25+08:00 推文](https://twitter.com/HeQinglian/status/1515333041908031495)
+### 183: [2022-04-16 22:15:25+08:00 推文](https://twitter.com/HeQinglian/status/1515333041908031495)
 
 Re @Wu_Zhi 补充：有记忆能力的推友会记得2020年，美媒、推特都集体封杀《纽约邮报》小拜登电脑门事件，老拜登直接说是谎言。<br>如今都承认那是真的，这是美国将民主党包装的臭屎当黄金吞吃的例，可惜现在很多人又在吃，不过，吃的主体是中国那些初级美粉，对美国毫无所知的一帮乌合之众。
 
-### 183: [2022-04-16 22:16:51+08:00 推文](https://twitter.com/HeQinglian/status/1515333401062133761)
+### 184: [2022-04-16 22:16:51+08:00 推文](https://twitter.com/HeQinglian/status/1515333401062133761)
 
 Re @plus07253487 @Ming00067607 对这些动口就是立场的人，包括一位据说在西方生活了几十年的李隽女士，也是动口就是立场。
 
-### 184: [2022-04-16 22:20:51+08:00 推文](https://twitter.com/HeQinglian/status/1515334410442317827)
+### 185: [2022-04-16 22:20:51+08:00 推文](https://twitter.com/HeQinglian/status/1515334410442317827)
 
 Re @davidyching @franktianxie @YouTube 我在一开头就指出，这是一场代理人战争。美国在越战后惯用的模式，越战败后，一直如此，不过，到现在为止，我没见过哪场代理人战争最后赢了，投入最大的阿富汗战争就是失败告终，当然，富了几个家族，纽约时报有文为证。
 
-### 185: [2022-04-16 22:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1515335259600084995)
+### 186: [2022-04-16 22:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1515335259600084995)
 
 Re @plus07253487 @Ming00067607 不说她，暂时保留，念多年Fo。
 
-### 186: [2022-04-16 22:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1515335917329952775)
+### 187: [2022-04-16 22:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1515335917329952775)
 
 Re @JianglinLi @Wu_Zhi 越吃得多，最后越不能承认美国在俄乌信息战的造假就是将屎包装成黄金喂他们吃这一事实，我转了NBC消息，美国数位官员承认本轮信息战如何造假，有人还说不能转，转了有立场问题。<br>祝他们吃屎至死犹觉香，最后中毒。
 
-### 187: [2022-04-16 22:37:03+08:00 推文](https://twitter.com/HeQinglian/status/1515338487125397508)
+### 188: [2022-04-16 22:37:03+08:00 推文](https://twitter.com/HeQinglian/status/1515338487125397508)
 
 Re @Ceiling1952 @JianglinLi @Wu_Zhi 千禧一代与Z世代当中，超过一半的人相信共产主义与社会主义——这是近十年调查的结果。
 
-### 188: [2022-04-16 22:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1515339240476917760)
+### 189: [2022-04-16 22:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1515339240476917760)
 
 Re @KELMAND1 @VOAChinese 博尔顿从2005年在UN任上，经历过美国被中法合力落选人权委员会理事的奇耻大辱之后，其主张多年无人愿意相信，川普聘任他做国安顾问后，最后关系特别紧张。<br>民主党根本不会听他的。
 
-### 189: [2022-04-16 23:05:55+08:00 推文](https://twitter.com/HeQinglian/status/1515345751710261248)
+### 190: [2022-04-16 23:05:55+08:00 推文](https://twitter.com/HeQinglian/status/1515345751710261248)
 
 4月14日彭博社发表评论《乌克兰战争正在耗尽美国的“民主军火库”》，从分析近期俄乌冲突，进而延展至未来中美俄三国之间可能存在的军事发展态势。<br>五角大楼官员称，基辅每天都消耗相当于“一周时间才能输送的反坦克弹药”，美已向乌提供了其“标枪”反坦克导弹总库存的三分之一。 <a href="https://www.bloomberg.com/opinion/articles/2022-04-14/russia-ukraine-war-u-s-is-running-out-of-weapons-aiding-kyiv" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/opinion/articles/2022-04-14/russia-ukraine-war-u-s-is-running-out-of-weapons-aiding-kyiv</a>
 
-### 190: [2022-04-16 23:12:28+08:00 推文](https://twitter.com/HeQinglian/status/1515347400323481612)
+### 191: [2022-04-16 23:12:28+08:00 推文](https://twitter.com/HeQinglian/status/1515347400323481612)
 
 Re 文章作者布兰茨是美国企业研究所（AEI）学者，同时也兼任约翰斯·霍普金斯大学高级国际研究学院“亨利·基辛格全球事务中心”教授。文中有不少详细资料，包括美国制造业目前无法赶紧在短时期内生产出大批军火的分析，包括专业劳动力短缺。其他国家也面临同样情况。
 
-### 191: [2022-04-16 23:19:52+08:00 推文](https://twitter.com/HeQinglian/status/1515349262963462147)
+### 192: [2022-04-16 23:19:52+08:00 推文](https://twitter.com/HeQinglian/status/1515349262963462147)
 
 Re @zt_trading 技术性很强的不行吧？美国还有个机密保守的问题。或者可以放到德国制造，德国制造业还是很强的。😂
 
-### 192: [2022-04-16 23:22:12+08:00 推文](https://twitter.com/HeQinglian/status/1515349846999408654)
+### 193: [2022-04-16 23:22:12+08:00 推文](https://twitter.com/HeQinglian/status/1515349846999408654)
 
 Re @tanggulashanzei 说得也对，只要美国标枪比俄罗斯坦克多N+1就行了。<br>美国各大媒体都在转载，中军火商的招了——不过这是五角大楼的说法，作者只是引述。
 
-### 193: [2022-04-16 23:33:19+08:00 推文](https://twitter.com/HeQinglian/status/1515352646009462786)
+### 194: [2022-04-16 23:33:19+08:00 推文](https://twitter.com/HeQinglian/status/1515352646009462786)
 
 Re 文章列举的数据如下：美参谋长联席会议主席马克·米利透露，西方国家已向乌运送了6万件反坦克武器和2.5万件防空武器。<br>拜登宣布将再向乌提供价值8亿美元的额外军事援助，其中包括直升机、装甲运兵车及美国首次提供的155毫米榴弹炮。自俄乌冲突爆发以来，美国承诺对乌克兰军事援助总额已超过25亿美元。
 
-### 194: [2022-04-16 23:37:34+08:00 推文](https://twitter.com/HeQinglian/status/1515353715519201289)
+### 195: [2022-04-16 23:37:34+08:00 推文](https://twitter.com/HeQinglian/status/1515353715519201289)
 
 Re @CrabNJ 50来天，一共援助25亿美元，如何列支，不清楚。得看国会拨款委员会列在哪个部门，如果是专款，得看由哪个部门支用。这报表，似乎暂时没有公开。
 
-### 195: [2022-04-17 00:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1515365461856301058)
+### 196: [2022-04-17 00:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1515365461856301058)
 
 Re @ntt896 美国有些人预测过了，而且没人质疑。只有中推继续鸡血。<br>因白宫一再保证不直接参与，美观察人士因此不担心这次马上触发三战。目前重点有二：1、全球政治格局；2、美元霸权不再，美政府偿债能力减弱，债务30万亿（还会续增），这通胀如何才能缓和。<br>我将米利发言与官方承认乌战信息造假看作一种准备。
 
-### 196: [2022-04-17 00:30:49+08:00 推文](https://twitter.com/HeQinglian/status/1515367118535118848)
+### 197: [2022-04-17 00:30:49+08:00 推文](https://twitter.com/HeQinglian/status/1515367118535118848)
 
 Re @CrabNJ 拜登的民主党政府执政，发生什么事情，我都不惊讶。有阿富汗经验在前：<br>《一场从一开始就充斥着腐败的反恐战争》<br><br>反正主流媒体现在去掉川普这个共同敌人之后，没那么热爱拜登一家子了。 <a href="https://cn.nytimes.com/opinion/20210915/afghanistan-war-economy/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20210915/afghanistan-war-economy/</a>
 
-### 197: [2022-04-17 00:34:03+08:00 推文](https://twitter.com/HeQinglian/status/1515367929184935937)
+### 198: [2022-04-17 00:34:03+08:00 推文](https://twitter.com/HeQinglian/status/1515367929184935937)
 
 Re @ZLKYBNt9u0RgiDG @JianglinLi @Wu_Zhi 本次信息战，已经翻了部分。可能是玩不下去，翻比不翻更合算吧？
 
-### 198: [2022-04-17 00:37:33+08:00 推文](https://twitter.com/HeQinglian/status/1515368810311786497)
+### 199: [2022-04-17 00:37:33+08:00 推文](https://twitter.com/HeQinglian/status/1515368810311786497)
 
 Re @tanggulashanzei 坚持一年，一天一亿美元，也就365亿美元，看来还得扩大规模，但美国再举债，也就借个百万亿到顶了，国内通胀得到30%，估计美国选民再傻，也得看住投票箱了。
 
-### 199: [2022-04-17 00:40:31+08:00 推文](https://twitter.com/HeQinglian/status/1515369558735007747)
+### 200: [2022-04-17 00:40:31+08:00 推文](https://twitter.com/HeQinglian/status/1515369558735007747)
 
 Re @plus07253487 @zaker72540747 @Lucktk324 你说得极是。<br>生存危机，是会激发出一些主意的。<br>我觉得中国这次也是这样，只是国内上海那清零太吸引注意力，怨声载道。很多人不太关注这。
 
-### 200: [2022-04-17 00:44:27+08:00 推文](https://twitter.com/HeQinglian/status/1515370546728513550)
+### 201: [2022-04-17 00:44:27+08:00 推文](https://twitter.com/HeQinglian/status/1515370546728513550)
 
 Re @zaker72540747 @plus07253487 @Lucktk324 我记得看到的消息是：不太好使。<br>另外，土耳其的态度有变化，最开始偏向美国与西方，说过不让新的俄舰通过黑海（不包括返回的），后来中立一些。
 
-### 201: [2022-04-17 00:48:12+08:00 推文](https://twitter.com/HeQinglian/status/1515371493479354368)
+### 202: [2022-04-17 00:48:12+08:00 推文](https://twitter.com/HeQinglian/status/1515371493479354368)
 
 Re @plus07253487 @zaker72540747 @Lucktk324 后来有点变化。好象介入和谈之后，费力不讨好，外长骂过泽连斯基。现在好象不介入了。
 
-### 202: [2022-04-17 00:52:18+08:00 推文](https://twitter.com/HeQinglian/status/1515372521922703362)
+### 203: [2022-04-17 00:52:18+08:00 推文](https://twitter.com/HeQinglian/status/1515372521922703362)
 
 Re @plus07253487 @zaker72540747 @Lucktk324 这一仗打得，不少专门研究全球化的美国智库人士与金融专家都一片哀嚎。我读了20多篇，都是如此。<br>要知道，如果只剩西方阵营可供他们挥洒，少了中国这一大块，旋转门就无法转动了。最后这句你懂的。
 
-### 203: [2022-04-17 00:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1515374142295523335)
+### 204: [2022-04-17 00:58:44+08:00 推文](https://twitter.com/HeQinglian/status/1515374142295523335)
 
 Re @zeroforfun 米利将军没这么说。还能派人去捡破铜烂铁？
 
-### 204: [2022-04-17 01:00:35+08:00 推文](https://twitter.com/HeQinglian/status/1515374606852448266)
+### 205: [2022-04-17 01:00:35+08:00 推文](https://twitter.com/HeQinglian/status/1515374606852448266)
 
 Re @plus07253487 @zaker72540747 @Lucktk324 继续与中国交往，会得罪美国的。就看欧盟如何衡量了，两头吃的结果，也总有吃不成的一天——需要大智慧。<br>还得看德法两国谁当家。
 
-### 205: [2022-04-17 01:54:18+08:00 推文](https://twitter.com/HeQinglian/status/1515388125912219662)
+### 206: [2022-04-17 01:54:18+08:00 推文](https://twitter.com/HeQinglian/status/1515388125912219662)
 
 Re @teacher_xu 匈牙利与斯洛伐克改主意了？什么时候的事情？请给个链接。
 
-### 206: [2022-04-17 01:55:40+08:00 推文](https://twitter.com/HeQinglian/status/1515388468498681861)
+### 207: [2022-04-17 01:55:40+08:00 推文](https://twitter.com/HeQinglian/status/1515388468498681861)
 
 Re @OnceSomeoneHere 拜登一当家，高喊美国回来了，立刻恢复对巴黎气候协定的资助，每年200亿，也重新加入WTO，给了很多钱。<br>这也怪川普么？
 
-### 207: [2022-04-17 01:58:19+08:00 推文](https://twitter.com/HeQinglian/status/1515389137339232262)
+### 208: [2022-04-17 01:58:19+08:00 推文](https://twitter.com/HeQinglian/status/1515389137339232262)
 
 Re @Swanlake1979 再过一段时间，他们就会退了，打脸的事情会陆续出现。<br>米利的话，你得看作是某种行动的前奏。
 
-### 208: [2022-04-17 02:10:47+08:00 推文](https://twitter.com/HeQinglian/status/1515392274951290881)
+### 209: [2022-04-17 02:10:47+08:00 推文](https://twitter.com/HeQinglian/status/1515392274951290881)
 
 Re @plus07253487 @zaker72540747 @Lucktk324 谈到这点，我很奇怪。用英文查了一下这两天的情况，发现没任何消息。天然气没断，是欧盟国家用卢布买了，还是找到变通方式？最后一条是4月10日，是普京与舒尔茨愿意就此谈判。然后就没有然后了。<br>不知有谁知道新消息。
 
-### 209: [2022-04-17 02:19:50+08:00 推文](https://twitter.com/HeQinglian/status/1515394550101159948)
+### 210: [2022-04-17 02:19:50+08:00 推文](https://twitter.com/HeQinglian/status/1515394550101159948)
 
 Re @JiangShangrong 请问，你有看到德等国用什么币种支付天然气的俄语报道没有？英文从4月10日后没这类消息了。
 
-### 210: [2022-04-17 04:10:54+08:00 推文](https://twitter.com/HeQinglian/status/1515422501572071431)
+### 211: [2022-04-17 04:10:54+08:00 推文](https://twitter.com/HeQinglian/status/1515422501572071431)
 
 Re @FangYiDuan1 这还用说，当然是我们这些住在美国的人。<br>通胀这么厉害，仅食物一项，每月多支出一倍开支，接下来就是能源了。<br>各国都让自己的老百姓买单吧。
 
-### 211: [2022-04-17 04:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1515423252843311111)
+### 212: [2022-04-17 04:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1515423252843311111)
 
 Re @CrabNJ @JiangShangrong 没僵持了，俄通社消息。<br>西方没报，可以理解，毕竟不是胜利消息。 <a href="https://big5.sputniknews.cn/20220416/1040724374.html" target="_blank" rel="noopener noreferrer">https://big5.sputniknews.cn/20220416/1040724374.html</a>
 
-### 212: [2022-04-17 04:17:12+08:00 推文](https://twitter.com/HeQinglian/status/1515424086465425415)
+### 213: [2022-04-17 04:17:12+08:00 推文](https://twitter.com/HeQinglian/status/1515424086465425415)
 
 你分析得有道理。刚搜到的俄通社消息：<br>俄天然氣公司：應買家要求天然氣照常經烏克蘭轉運<br>2022年4月16日<br><br>内容见链接。不相信者可以不相信。<br><br>种蘑菇: @HeQinglian @zaker72540747 @Lucktk324 保持谈对俄国有利，谈的内容也不一定就局限于气用什么支付，奥地利总理访俄难道真的就为了训普京一顿吗？那他何必跑莫斯科一趟？<br>
 
-### 213: [2022-04-17 04:19:16+08:00 推文](https://twitter.com/HeQinglian/status/1515424606718414848)
+### 214: [2022-04-17 04:19:16+08:00 推文](https://twitter.com/HeQinglian/status/1515424606718414848)
 
 Re 但乌克兰可以将送气管炸掉，让俄国生意做不成。管道从乌克兰境内过，这是主权范围内可决定的事情。
 
-### 214: [2022-04-17 04:20:10+08:00 推文](https://twitter.com/KELMAND1/status/1515424833776984065)
+### 215: [2022-04-17 04:20:10+08:00 推文](https://twitter.com/KELMAND1/status/1515424833776984065)
 
 RT Ezio Mao☢<br>阿拉巴马州众议员莫布鲁克斯告诉支持者，根深蒂固的腐败制度阻止国会通过有利于普通美国人的立法。布鲁克斯说，两党都向其成员收取 100 万美元及以上的委员会主席费用，只有那些从说客那里获得捐款的人才能负担得起这些席位。<br><br>“特殊利益集团掌管着华盛顿，这不是比喻，这特么就是字面意思上的交易”<br><br>Lauren Windsor: NEW: GOP Rep Mo Brooks says prime committee chairmanships cost a minimum of $1 million and are paid by special interest groups as "a quid pro quo" for favored legislation<br><br>#ALsen<br><br><video src="https://video.twimg.com/ext_tw_video/1514984555681546241/pu/vid/1920x1080/6NCtJ2QkrH1bokmf.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514984555681546241/pu/img/DRQVVjzTEhKrlKS9.jpg"></video>
 
-### 215: [2022-04-17 04:21:51+08:00 推文](https://twitter.com/HeQinglian/status/1515425257502486534)
+### 216: [2022-04-17 04:21:51+08:00 推文](https://twitter.com/HeQinglian/status/1515425257502486534)
 
 Re @plus07253487 @zaker72540747 @Lucktk324 现在早就否定美国开国先贤了。因此要反其道而行之：嗓门要大，话要重。能吓倒对方自然最好，吓不倒就说“我们手里没有证据”，先前说的不算。
 
-### 216: [2022-04-17 04:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1515425940276486163)
+### 217: [2022-04-17 04:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1515425940276486163)
 
 Re @david_david1968 参考俄通社消息：<br>俄羅斯天然氣工業股份公司稱，公司按買家要求照常通過烏克蘭轉運天然氣。天然氣工業銀行將為外國買家開立特別的外幣和盧布賬戶以支付費用。購買方將以合同中指定的貨幣將資金匯到第一個賬戶，銀行將其在莫斯科交易所出售，然後與天然氣供應商進行結算。 <a href="https://big5.sputniknews.cn/20220416/1040724374.html" target="_blank" rel="noopener noreferrer">https://big5.sputniknews.cn/20220416/1040724374.html</a>
 
-### 217: [2022-04-17 04:30:09+08:00 推文](https://twitter.com/HeQinglian/status/1515427346257489920)
+### 218: [2022-04-17 04:30:09+08:00 推文](https://twitter.com/HeQinglian/status/1515427346257489920)
 
 Re @Swanlake1979 输了一大招，脸打得山响。欧俄天然气合同照签。
 
-### 218: [2022-04-17 04:36:49+08:00 推文](https://twitter.com/HeQinglian/status/1515429025421922310)
+### 219: [2022-04-17 04:36:49+08:00 推文](https://twitter.com/HeQinglian/status/1515429025421922310)
 
 Re @david_david1968 估计不少是啃老族。如果自己需要工作，怎么会常说一些胡话：“德国这么没气节，不就是没天然气么？”“你就看重通胀这点小事，没见乌克兰在为欧洲血拼么？”<br>至今为止，只看见乌克兰要入北约求保护，没见北约要求它保护。<br>除了左派政府，正常政府都知民以食为天。
 
-### 219: [2022-04-17 04:44:47+08:00 推文](https://twitter.com/HeQinglian/status/1515431030383067142)
+### 220: [2022-04-17 04:44:47+08:00 推文](https://twitter.com/HeQinglian/status/1515431030383067142)
 
 Re @david_david1968 西方三步退却是这样走的：一、承认信息造假（美国官员以向NBC透露消息的方式）；二、德国找到泽连斯基不接受总统访问的失礼翻脸，然后透过DW说乌军胜利的信息很多造假；三、美参联主席米利在国会作证谈武器耗尽，直说美国已不能继续再供给乌克兰大量武器，得等数个月后造出来。<br>然后就是天然气用卢布付
 
-### 220: [2022-04-17 04:50:54+08:00 推文](https://twitter.com/HeQinglian/status/1515432567993995268)
+### 221: [2022-04-17 04:50:54+08:00 推文](https://twitter.com/HeQinglian/status/1515432567993995268)
 
 Re @kingbo25729098 知道，毛玩过。文革时，宁吃社会主义的草，也不要资本主义的苗。<br>人类是逐利动物，共产主义非得造就“人人为我，我为人人”的社会，结果是什么，你在中国经历过文革就应该知道。没经历过，继续追求以价值观定位的共产主义吧。<br>德国的绿能不是从实际出发，恰好是价值观出发。
 
-### 221: [2022-04-17 04:52:56+08:00 推文](https://twitter.com/HeQinglian/status/1515433081615831040)
+### 222: [2022-04-17 04:52:56+08:00 推文](https://twitter.com/HeQinglian/status/1515433081615831040)
 
 Re @david_david1968 不知道。也许通过第三方转个弯儿？毕竟文章说欧洲买家，没指明德国。<br>欧洲买家就算是私人公司，也算西方吧？<br>前面说的三步，全都给过链接，不止一次。
 
-### 222: [2022-04-17 04:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1515433958070235148)
+### 223: [2022-04-17 04:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1515433958070235148)
 
 Re @david_david1968 或者，大家再等等，看看德国政府如何回应，以下是几种答案：<br>1、欧洲买家不包括德国；德国未委托任何买家向俄续签天然气供应合同。<br>2、沉默，决不对号入座。<br>3、公布天然气替代方案，宣布从某年某月某日起，不用俄罗斯天然气。<br>让70%的人开心的是：俄通社是假消息，德国选择了价值观。
 
-### 223: [2022-04-17 04:57:24+08:00 推文](https://twitter.com/HeQinglian/status/1515434203374141454)
+### 224: [2022-04-17 04:57:24+08:00 推文](https://twitter.com/HeQinglian/status/1515434203374141454)
 
 Re @kingbo25729098 不与你废话了。一边凉快去。
 
-### 224: [2022-04-17 04:59:40+08:00 推文](https://twitter.com/HeQinglian/status/1515434774789242884)
+### 225: [2022-04-17 04:59:40+08:00 推文](https://twitter.com/HeQinglian/status/1515434774789242884)
 
 Re @LongestYard2021 @david_david1968 从美国2020变得不正常开始，一切就都不正常了。
 
-### 225: [2022-04-17 05:27:14+08:00 推文](https://twitter.com/HeQinglian/status/1515441713954893826)
+### 226: [2022-04-17 05:27:14+08:00 推文](https://twitter.com/HeQinglian/status/1515441713954893826)
 
 Re @david_david1968 那西方人花了老鼻子劲，批评中国、改造中国图啥？总不是为了最后殊途同归？<br>现在人还真吃这一套，想回到毛时代按价值观吃饭那条路去。<br>不想理会这种人。
 
-### 226: [2022-04-17 05:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1515443896196681728)
+### 227: [2022-04-17 05:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1515443896196681728)
 
 Re @JiangShangrong 庆父不死，鲁难未已。
+
+### 228: [2022-04-17 08:06:49+08:00 推文](https://twitter.com/HeQinglian/status/1515481872188461064)
+
+Re @Wu_Zhi @JianglinLi @Ceiling1952 中文推找上门来滋事，一是不管实情如何，先扯上中共、大外宣，再说立场，然后什么奇谈都有，就是不看事实。这些人，没什么好说的，拉黑就是。
+
+### 229: [2022-04-17 08:11:46+08:00 推文](https://twitter.com/HeQinglian/status/1515483120736288775)
+
+Re @NoGainAtAll 话说，连战斗到最后一人的决心都下了，这决心这么难下？
+
+### 230: [2022-04-17 08:16:46+08:00 推文](https://twitter.com/HeQinglian/status/1515484375881854981)
+
+Re @LongestYard2021 @david_david1968 新秩序，美国正在建立。<br>1、允许全民吸麻，平均40%吸上了，有的地方更严重；2、CRT理论，BLM为尊，轻罪不罚，1000美元以下偷窃抢劫不算罪；<br>3、用法律鼓励未成年人自主变性，父母干预即犯法；<br>4、取消文化，专门针对左派理论。少数地方骂总统可以入罪，还冠以其他名义<br>5、不验证身份的选举成常态<br>……
+
+### 231: [2022-04-17 08:26:01+08:00 推文](https://twitter.com/HeQinglian/status/1515486703951257600)
+
+Re @Kiwiwi42564398 中国攻台，又不是与坦克在陆上作战，应该是海战吧？这方面美国武器库存很丰富，不用担心。
+
+### 232: [2022-04-17 08:29:27+08:00 推文](https://twitter.com/HeQinglian/status/1515487569617866755)
+
+Re @zaker72540747 你这分析很重要，应该去向General Mark Alexander Milley @MarkAle63922599 陈说，他怎么会忘记这一点？<br>还有三分之二，不着急，应该可以应付一阵。
+
+### 233: [2022-04-17 08:30:08+08:00 推文](https://twitter.com/HeQinglian/status/1515487739763990532)
+
+Re @jason78proton 不知价格多少？应该很便宜。
+
+### 234: [2022-04-17 08:32:47+08:00 推文](https://twitter.com/HeQinglian/status/1515488408675790861)
+
+Re @Lucs24659702 估计美国今年也会增加春播面积，多用点休耕田。
+
+### 235: [2022-04-17 08:34:47+08:00 推文](https://twitter.com/HeQinglian/status/1515488909731540992)
+
+Re @Bforge3 @tanggulashanzei 你看文章吧，不太长，里面都列有谁说了什么，在什么地方，对谁说。
+
+### 236: [2022-04-17 08:45:52+08:00 推文](https://twitter.com/HeQinglian/status/1515491699606315016)
+
+Re @yizhengwang2 其中写道，副国务卿维多利亚·纽兰于 2022 年 3 月 8 日在华盛顿特区举行的参议院外交关系委员会关于乌克兰的听证会上作证，证实有此事，是她经手的。<br><br>Hunter Biden helped secure funds for US biolab contractor in Ukraine: e-mails<br>March 26, 2022 <a href="https://www.zerohedge.com/political/greenwald-slays-fact-checkers-after-nulands-ukraine-biolab-bombshell" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/political/greenwald-slays-fact-checkers-after-nulands-ukraine-biolab-bombshell</a> <a href="https://nypost.com/2022/03/26/hunter-biden-played-role-in-funding-us-bio-labs-contractor-in-ukraine-e-mails/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/03/26/hunter-biden-played-role-in-funding-us-bio-labs-contractor-in-ukraine-e-mails/</a>
+
+### 237: [2022-04-17 08:48:17+08:00 推文](https://twitter.com/HeQinglian/status/1515492307121975296)
+
+Re @yizhengwang2 上述两条消息，都是美媒。华邮也有，很多媒体都提到。<br>这大概符合你讲的标准，非俄非中方消息。<br>世卫在战时也发过消息，要求乌克兰立即处理实验室病毒，以免扩散。
+
+### 238: [2022-04-17 10:03:35+08:00 推文](https://twitter.com/HeQinglian/status/1515511259545976833)
+
+Re @david_david1968 我以为是非洲呢。加州、纽约千万不要变成这样。
 
