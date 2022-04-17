@@ -967,3 +967,15 @@ Re @yizhengwang2 上述两条消息，都是美媒。华邮也有，很多媒体
 
 Re @david_david1968 我以为是非洲呢。加州、纽约千万不要变成这样。
 
+### 239: [2022-04-17 10:54:24+08:00 推文](https://twitter.com/HeQinglian/status/1515524047706148868)
+
+Re @fanggexu @_Juno_1116 在这地方实施核打击，比沙漠里好不了多少。<br>那地方我去过，荒凉处开车半天都难遇到车辆。如果要在那里实施核打击，只能说提出者本身脑回路清奇，既背负骂名，又打击不了对方，惹来的报复会很大。<br>因此不会是真实消息。
+
+### 240: [2022-04-17 10:59:31+08:00 推文](https://twitter.com/HeQinglian/status/1515525333671424004)
+
+Re @chenshijie2015 @david_david1968 南非曾是彩虹革命典范，与黑非洲、西非等不一样，早就“脱非向欧美”了，连Musk的Africa血统也不获承认。<br>所以，这身份认同按左派标准，没个准头。
+
+### 241: [2022-04-17 11:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1515526210469695490)
+
+Re @yizhengwang2 Victoria Nuland: Ukraine has “biological research facilities,” worried Russia may seize them<br><br>如果有人认为这种事情在目前的情况下能够被公正调查，那只是一厢情愿的看法。<br>但事实就在这里。 <a href="https://mronline.org/2022/03/17/victoria-nuland-ukraine-has-biological-research-facilities-worried-russia-may-seize-them/" target="_blank" rel="noopener noreferrer">https://mronline.org/2022/03/17/victoria-nuland-ukraine-has-biological-research-facilities-worried-russia-may-seize-them/</a>
+
