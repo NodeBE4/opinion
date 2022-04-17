@@ -31,7 +31,7 @@ From a student protest leader, the youngest elected legislator in Hong Kong, to 
 
 ### 4: [2021-12-07 07:57:01+08:00 推文](https://twitter.com/nathanlawkc/status/1468006595804209154)
 
-Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style="" src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
+Been pushing a diplomatic boycott for so long -- now finally we've got some results. <br>Now, the other democratic countries should do the same.<br>#NoBeijing2022<br><br>Joey Siu 邵嵐 #freehk: Now that the U.S. officially announced a diplomatic boycott of 2022 Beijing Winter Olympics, time for 🇨🇦🇦🇺🇩🇪🇫🇷🇯🇵 and other countries to act too.<br><br>#NoBeijing2022<br><br><img style src="https://pbs.twimg.com/media/FF8dWgPXMAQ8L2u?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-07 22:23:05+08:00 推文](https://twitter.com/nathanlawkc/status/1468224547950407696)
 
@@ -39,7 +39,7 @@ Media should stop directly quoting the Chinese govt's self-claim of "another ver
 
 ### 6: [2021-12-08 04:12:24+08:00 推文](https://twitter.com/nathanlawkc/status/1468312456451788806)
 
-See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream for tonight's event at 7PM ET: <br>But I would love to see students attend in person!<br><br>(P.S.: This is one of the best event posters I've seen. The designer is talented.) <a href="https://www.colby.edu/livestream/" target="_blank" rel="noopener noreferrer">https://www.colby.edu/livestream/</a><br><img style="" src="https://pbs.twimg.com/media/FGB6_ycWQAIsgPi?format=jpg&name=orig" referrerpolicy="no-referrer">
+See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream for tonight's event at 7PM ET: <br>But I would love to see students attend in person!<br><br>(P.S.: This is one of the best event posters I've seen. The designer is talented.) <a href="https://www.colby.edu/livestream/" target="_blank" rel="noopener noreferrer">https://www.colby.edu/livestream/</a><br><img style src="https://pbs.twimg.com/media/FGB6_ycWQAIsgPi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-08 04:37:04+08:00 推文](https://twitter.com/nathanlawkc/status/1468318663669387269)
 
