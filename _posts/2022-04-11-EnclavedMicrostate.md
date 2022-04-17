@@ -161,7 +161,7 @@ We have focussed so far on the Qing self-image as presented to the Manchus, but 
 
 ----- __348.2__ -----2022-04-16 21:01:44+08:00:
 
-The only good answer to that question is we do not know. It is *possible* that it was in some way derived from the name of Manjusri, the bodhisattva of wisdom, which *might* align with the greater exposure of Hong Taiji to Tibetan Buddhism following the integration of the surrendered Chakhar khanate prompting him to make the change in 1635. But we also see the term 'Manchu' attested as early as 1605 or thereabouts if I recall correctly, so it may well have been some kind of existing identification that Hong Taiji seized on when he decided to actively rework Jurchen identity, with the similarity to Manjusri being pure coincidence.
+The only good answer to that question is we do not know. It is *possible* that it was in some way derived from the name of Manjusri, the bodhisattva of wisdom, which *might* align with the greater exposure of Hong Taiji to Tibetan Buddhism following the integration of the surrendered Chakhar khanate. But we also see the term 'Manchu' attested as early as 1605 or thereabouts if I recall correctly, so it may well have been some kind of existing identification that Hong Taiji seized on when he decided to actively rework Jurchen identity, with the similarity to Manjusri being pure coincidence.
 
 ----- __348.3__ -----2022-04-16 22:44:21+08:00:
 
