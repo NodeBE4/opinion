@@ -126,9 +126,17 @@ Clip source: https://www.youtube.com/watch?v=ykLiHHepL9E
 
 'M-m-m-my lord?'
 
-### 347: [Did the Manchu (Qing) empire know of its connection to the earlier Jurchen Jin dynasty? Did they ever harken back to the memory of that dynasty in their official propaganda? Did they ever want to take revenge from the Mongols for destroying the Jurchen Jin empire?](https://old.reddit.com/r/AskHistorians/comments/u4tkfm/did_the_manchu_qing_empire_know_of_its_connection/), submitted on 2022-04-16 16:43:58+08:00.
+### 347: [Free for All Friday, 15 April 2022](https://old.reddit.com/r/badhistory/comments/u45hjt/free_for_all_friday_15_april_2022/), submitted on 2022-04-15 19:00:09+08:00.
 
------ __347.1__ -----2022-04-16 20:24:52+08:00:
+----- __347.1__ -----2022-04-17 11:41:30+08:00:
+
+> Honestly, I'm not really sure keeping museum ships in water is a smart idea. People no doubt prefer it for aesthetic reasons and because it's relatively easy to just park it somewhere and set up shop, but ships leak, wooden ships rot, and metal ships rust. This is true when ships are actively used and maintained but seems even worse when it's just some museum operation with a ship sitting out in the elements for years/decades. It's ultimately kicking a can down the road to the tune of millions of repairs.
+
+I have a vague recollection – probably it's a Drachinifel video where I heard it – that storing in concrete isn't a brilliant solution either as the acids in the concrete will eat into the hull of any metal ships, which means you need a protective layer of material that hopefully will last a relatively long time or else the ship still ends up corroding. I think this is what had ended up happening to the *Mikasa*, which was laid in concrete back in the 1920s. Presumably someone concreting up a metal-hulled ship today would have a little more foresight.
+
+### 348: [Did the Manchu (Qing) empire know of its connection to the earlier Jurchen Jin dynasty? Did they ever harken back to the memory of that dynasty in their official propaganda? Did they ever want to take revenge from the Mongols for destroying the Jurchen Jin empire?](https://old.reddit.com/r/AskHistorians/comments/u4tkfm/did_the_manchu_qing_empire_know_of_its_connection/), submitted on 2022-04-16 16:43:58+08:00.
+
+----- __348.1__ -----2022-04-16 20:24:52+08:00:
 
 The Manchu Qing was absolutely cognisant of its Jurchen Jin predecessor, and did, to a certain extent, seek to portray itself as its successor. That said, it did so primarily in the period from 1616 to 1636, when the Qing was still the (Latter?) Jin, and the Manchus still the Jurchens.
 
@@ -151,19 +159,19 @@ We have focussed so far on the Qing self-image as presented to the Manchus, but 
 * Pamela Kyle Crossley, 'Dayi juemi lu 大義覺迷錄 and the Lost Yongzheng Philosophy of Identity' (2012)
 * Pamela Kyle Crossley, 'An Introduction to the Qing Foundation Myth' (1995)
 
------ __347.2__ -----2022-04-16 21:01:44+08:00:
+----- __348.2__ -----2022-04-16 21:01:44+08:00:
 
 The only good answer to that question is we do not know. It is *possible* that it was in some way derived from the name of Manjusri, the bodhisattva of wisdom, which *might* align with the greater exposure of Hong Taiji to Tibetan Buddhism following the integration of the surrendered Chakhar khanate prompting him to make the change in 1635. But we also see the term 'Manchu' attested as early as 1605 or thereabouts if I recall correctly, so it may well have been some kind of existing identification that Hong Taiji seized on when he decided to actively rework Jurchen identity, with the similarity to Manjusri being pure coincidence.
 
------ __347.3__ -----2022-04-16 22:44:21+08:00:
+----- __348.3__ -----2022-04-16 22:44:21+08:00:
 
 The Manchu language has always been a bit of an on-and-off amateur interest of mine so I really can't claim a very strong grasp of the actual linguistics. That said, vernacular Manchu has never died out entirely, as there have been a few scattered pockets of first language speakers. This includes the Sibe exclave in Xinjiang, who do not consider themselves Manchus or their language to be Manchu, but where their language is nevertheless extremely proximate to the 'standard' Manchu of the Qing period. Sibe has thus been a particularly significant tool for linguists in reconstructing spoken Manchu, in conjunction with the few remaining first language speakers of 'standard' Manchu in 'Manchuria' proper. 
 
 I don't really know what Manchu as taught in China is like, but in general overseas Manchu instruction centres mainly on clerical written Manchu for the student of history rather than Manchu as a spoken language. That said, given the nicheness of Manchu there is some limited focus on surviving modern forms such as Sibe and the admittedly small corpus of 20th century Manchu-language texts in more rounded Manchu programmes and resources, such as Gertraude Roth Li's textbook.
 
-### 348: [For Kanata's birthday on 22/4, Hong Kong fans have rented an outdoors advertisement screen to play a fan-made video for her! Let's all support our PP tenshi while we wait for her to return from the hiatus.](https://old.reddit.com/r/Hololive/comments/u4x5wf/for_kanatas_birthday_on_224_hong_kong_fans_have/), submitted on 2022-04-16 20:51:59+08:00.
+### 349: [For Kanata's birthday on 22/4, Hong Kong fans have rented an outdoors advertisement screen to play a fan-made video for her! Let's all support our PP tenshi while we wait for her to return from the hiatus.](https://old.reddit.com/r/Hololive/comments/u4x5wf/for_kanatas_birthday_on_224_hong_kong_fans_have/), submitted on 2022-04-16 20:51:59+08:00.
 
------ __348.1__ -----2022-04-17 00:32:56+08:00:
+----- __349.1__ -----2022-04-17 00:32:56+08:00:
 
 Really outdoing yourselves as of late; whoever might be next?
 
