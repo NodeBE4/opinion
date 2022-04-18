@@ -29,7 +29,7 @@ The above link may not be available in certain countries, due to your local laws
 
 ----- __225.1__ -----2022-04-18 20:51:11+08:00:
 
-Submission Statement: Several days ago, the Moskva sank.  This ship was the flagship vessel of Russia's Black Sea naval fleet.  According to the Kremlin, this loss was due to "fire caused by the detonation of ammunition."  According to Ukrainian sources, that fire was caused by one or more anti-ship torpedoes, at least partially in response to the confrontation between a Russian warship and the Ukrainian military on [Snake Island](https://www.vice.com/en/article/jgm3mk/ukraine-russian-warship-go-fuck-yourself).  Loss of the Moskva is the most significant Russian naval loss since WWII.  British naval experts suggest this may cause the Kremlin to reevaluate its strategy in the Black Sea and Ukraine, more generally.
+Submission Statement: Several days ago, the Moskva sank.  This ship was the flagship vessel of Russia's Black Sea naval fleet.  According to the Kremlin, this loss was due to "fire caused by the detonation of ammunition."  According to Ukrainian sources, that fire was caused by one or more anti-ship torpedoes, at least partially in response to the confrontation between a Russian warship and the Ukrainian military on [Snake Island](https://www.vice.com/en/article/jgm3mk/ukraine-russian-warship-go-fuck-yourself).  Loss of the Moskva is the most significant Russian naval loss since WWII.  Military experts suggest this may cause the Kremlin to reevaluate its strategy in the Black Sea and Ukraine, more generally.
 
 ----- __225.2__ -----2022-04-18 20:53:28+08:00:
 
