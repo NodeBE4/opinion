@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-18
+date: 2022-04-19
 from: https://twitter.com/HeQinglian/status/1515730343151742988
 layout: post
 tags:
@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -294,4 +294,24 @@ Re @JianglinLi 有毒应该不可能，鹿吃了没毒死。<br>BTW，新州鹿�
 ### 70: [2022-04-18 23:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1516069792297492481)
 
 Re @Ellenmccarth327 去找DW吧。你信服不信服，干我何事？<br>你是谁呀？
+
+### 71: [2022-04-19 01:25:57+08:00 推文](https://twitter.com/HeQinglian/status/1516105769116131335)
+
+Re @JianglinLi 这几天共青团中央不知哪根神经搭错了，批判极端女权——按“凡敌人反对的，我们就要拥护”，会出现一个非常戏剧化的效果。<br>中国的妇女权益保护是处于严重不足，西方极端女权则是开放婚姻（可性乱交，不必对婚姻忠诚）、男人应该怀孕、哺乳之类。中国国内打这战，必然是一场乱仗。
+
+### 72: [2022-04-19 01:30:39+08:00 推文](https://twitter.com/xxj2040/status/1516106951968665604)
+
+RT 谢选骏<br>谢选骏全集网络更新：纽约开始了“黑卫兵专政” <a href="https://xiexuanjun.blogspot.com/2022/04/blog-post_45.html?spref=tw" target="_blank" rel="noopener noreferrer">https://xiexuanjun.blogspot.com/2022/04/blog-post_45.html?spref=tw</a>
+
+### 73: [2022-04-19 01:33:10+08:00 推文](https://twitter.com/HeQinglian/status/1516107585350471686)
+
+Re @Zohn43884106 @gggzero0 @remonwangxt 偷换你妈的概念。滚。
+
+### 74: [2022-04-19 02:23:15+08:00 推文](https://twitter.com/HeQinglian/status/1516120188428734465)
+
+Re @Kenshinsunny @Zohn43884106 @gggzero0 @remonwangxt 因为你心中眼中全是粪，根本发现不了那个东西是胡说八道。<br>你也滚远点，去你的同类那里，互相抹屎。
+
+### 75: [2022-04-19 02:25:06+08:00 推文](https://twitter.com/HeQinglian/status/1516120653476335621)
+
+Re @Wu_Zhi 其实，我很赞成他家后代什么也不学，就学CRT、变性、LGBTQ，如果实在要学个专业，就去学大麻种植。
 
