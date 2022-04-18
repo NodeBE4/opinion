@@ -219,3 +219,23 @@ Re @zhangchaoyi @xchen156 现在的领导人怎么都这水平？都玩杀敌一
 
 Re @mbxzyq 送卢旺达是太不对劲了，送美国来可以。香港人与乌克兰人多送点来，比从南部边境进来的黑穆要好不知多少倍。
 
+### 52: [2022-04-18 20:19:15+08:00 推文](https://twitter.com/HeQinglian/status/1516028583973691393)
+
+Re @KELMAND1 美国教官不给他们发《美国士兵手册》？这手册里载明：在伤亡达60%、弹尽粮绝、无法等到救援时，可以投降，而且不损荣誉。
+
+### 53: [2022-04-18 20:35:16+08:00 推文](https://twitter.com/HeQinglian/status/1516032612636237830)
+
+Re @zhuxiuyuan 这解释😂😂😂<br>不过，英文推中有这种说法的不少，说是去库存，而且折算成费用，计入援助费。<br>这是众议院军事委员会与预算委员会的审核范围了。反正是美国的财政预算，从A口袋装入B口袋，来源一是纳税人的钱，二是发行美债。通胀结果是全美人民负担。
+
+### 54: [2022-04-18 20:40:51+08:00 推文](https://twitter.com/HeQinglian/status/1516034020181688326)
+
+Re @Wu_Zhi 战争还没折腾完，又折腾疫苗了。
+
+### 55: [2022-04-18 20:58:57+08:00 推文](https://twitter.com/HeQinglian/status/1516038574382239749)
+
+读报摘要：<br>关于乌战：西媒报道多是顽强抵抗。DW报泽总批评西方武器送交太迟缓。<br>纽时情绪低落，近几天重点转向中国防疫清零。关于战争的报道以4月14日为代表：<br>全球化已经结束，一场全球文化战争正在打响<br><br>贸易促进和平？一场大幻觉<br><br>白宫再谈打疫苗 <a href="https://cn.nytimes.com/OPINION/20220414/GLOBALIZATION-GLOBAL-CULTURE-WAR/" target="_blank" rel="noopener noreferrer">HTTPS://CN.NYTIMES.COM/OPINION/20220414/GLOBALIZATION-GLOBAL-CULTURE-WAR/</a> <a href="https://cn.nytimes.com/OPINION/20220412/GERMANY-RUSSIA-UKRAINE-TRADE-GAS/" target="_blank" rel="noopener noreferrer">HTTPS://CN.NYTIMES.COM/OPINION/20220412/GERMANY-RUSSIA-UKRAINE-TRADE-GAS/</a>
+
+### 56: [2022-04-18 21:02:36+08:00 推文](https://twitter.com/HeQinglian/status/1516039492062392324)
+
+Re 目测很快开始更新大重置内容。<br>目前是绿能不行了谈防疫（疫苗护照重置公民权），强制疫苗受到抵制，战争适时发生。战争行至末尾（虽然布林肯要打到选举过后的12月），又开始重启疫苗工作。<br>三板斧之外，总得折腾些新东西。咱们看美欧左派策士出何新招术。
+

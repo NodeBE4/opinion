@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-16
+date: 2022-04-17
 from: https://old.reddit.com/r/interestingasfuck/comments/u0yw8a/without_barriers_the_british_still_know_how_to/
 layout: post
 tags:
@@ -174,4 +174,10 @@ I don't really know what Manchu as taught in China is like, but in general overs
 ----- __349.1__ -----2022-04-17 00:32:56+08:00:
 
 Really outdoing yourselves as of late; whoever might be next?
+
+### 350: [Hololive INA nutshell](https://old.reddit.com/r/Hololive/comments/u5fla0/hololive_ina_nutshell/), submitted on 2022-04-17 12:44:50+08:00.
+
+----- __350.1__ -----2022-04-18 19:52:23+08:00:
+
+No, IRyS got him in the end – [timestamp of the winning run](https://www.youtube.com/watch?v=9PU-ooMWN1g&t=12785s).
 
