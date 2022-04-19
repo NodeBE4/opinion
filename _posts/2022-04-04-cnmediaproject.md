@@ -65,7 +65,7 @@ RT Roy Ngerng 鄞義林<br>I grew up in an authoritarian regime, and you have 
 
 ### 13: [2022-04-06 01:01:36+08:00 推文](https://twitter.com/NeysunM/status/1511388598150451208)
 
-RT Neysun Mahboubi 马瑞欣<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Neysun Mahboubi<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-04-06 08:06:18+08:00 推文](https://twitter.com/cnmediaproject/status/1511495475177820167)
 
