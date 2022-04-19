@@ -85,3 +85,30 @@ It's a federal development.  Local and state mandates may still apply, but that'
 
 There is no point in bothering with evidence, when you have faith.  And this is an argument that is taking place at the religious level for many.  You cannot reason someone out of something he or she was not reasoned into.
 
+----- __228.6__ -----2022-04-19 13:52:06+08:00:
+
+> I am kind of surprised it was extended it by two weeks to only be struck down by a judge, you would think they could have seen that coming? 
+
+Of course they saw it coming.  That was the point, as reflected in this sequence of events' conformity with prior unfoldings at both the state and federal levels.
+
+Here's the pattern:
+
+* Step 1 - Extend mandate indefinitely, decouple from any purported "metric." 
+* Step 2 - Face lawsuit, in view of overreach and abuse of power based on "safety" and "public health."  
+* Step 3 - Make lots of noise about how your political rivals are threatening safety and public health by filing lawsuit.
+* Step 4 - Lose lawsuit, while blaming opposing party for all harm that follows after.
+
+Wisconsin.  Colorado.  Illinois.  Etc. 
+
+Federal Vaccine Mandate Round 1.  Federal Vaccine Mandate Round 2.  Federal mask mandate on travel.  Etc.
+
+Who is to blame?  Republicans.
+
+Who is not to blame?  Democrats.
+
+Why?  Republicans filed lawsuits to end the overreach.
+
+It is really that simple. 
+
+I think this is an absurd strategy.  But it's clearly the strategy because like everyone is doing it.
+
