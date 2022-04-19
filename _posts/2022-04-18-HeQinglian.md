@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -342,4 +342,8 @@ Re @Sam20210206 纽时文章知道：<br>"全世界许多人看到我们的性�
 ### 82: [2022-04-19 12:14:54+08:00 推文](https://twitter.com/HeQinglian/status/1516269079304224768)
 
 Re @JianglinLi @Wu_Zhi @david_david1968 是偷着乐吧？再痴呆，也不能为盟友经济崩溃公然庆祝啊。😂
+
+### 83: [2022-04-19 18:03:51+08:00 推文](https://twitter.com/KELMAND1/status/1516356897955524609)
+
+RT Ezio Mao☢<br>俄罗斯南部军区的司令德沃尼科夫走马上任后我们看到俄军的整体战略和打法上都有了明显的变化，不再执着于BTG“猪突一波流”快速大纵深穿插，而是开始集中兵力扎硬寨推进实控区，初期存在感不强的空天军和火箭部队开始大规模的空袭。<br>从目前的整体战局看乌克兰方面对于这种打法并没有什么太好的应对策略。<br><br>jiang shangrong: ‼️乌军特派到伊久姆附近困难地区一精锐部队-- 泽连斯基总预备队被全歼。据计划，该特种部队应该前往向斯拉维扬斯克插入俄军后方。但俄乌拉尔突击旅侦察兵很快发现了乌特种兵和79空降旅，并在短暂战斗后击败他们.相当数量的乌军被击毙,部分被俘虏,其中包括一名拥有许多有价值信息高级特种部队军官。<br><br><img style="" src="https://pbs.twimg.com/media/FQqHGSXaUAE5CxN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQqHGSXakAMdFFI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQqHGV8akAALI3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQqHGV7aAAQEEIg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
