@@ -57,3 +57,31 @@ In this subreddit, we allow diverse political viewpoints to be expressed so long
 
 The reporting here is questionable, but if you'd linked [the study](https://pubmed.ncbi.nlm.nih.gov/35157759/) it may have been allowed.
 
+### 228: [CDC mask mandate for travelers no longer in effect following judge's ruling, official says](https://old.reddit.com/r/CoronavirusIllinois/comments/u6q7sb/cdc_mask_mandate_for_travelers_no_longer_in/), submitted on 2022-04-19 07:06:43+08:00.
+
+----- __228.1__ -----2022-04-19 13:27:57+08:00:
+
+> It's fucking stupid . . . . 
+
+Sure.  Everyone who disagrees with you is a right wing conspiracy theorist and [also literally Hitler](http://i0.kym-cdn.com/photos/images/original/001/189/715/161.jpg).  Now that we have that out of the way, why not try to say something constructive?
+
+----- __228.2__ -----2022-04-19 13:34:31+08:00:
+
+This is so all so transparently political.  Biden admin extended the airline mandate because they knew this ruling was coming down, and I'm sure had four clerks monitoring the docket to see when the opinion issued.  When it did, they immediately pivoted to blame a Republican judge just like Pritzker did when his mandates were struck.  Which is what was wanted all along.  And now here we are. 
+
+This is so exhaustingly stupid.
+
+----- __228.3__ -----2022-04-19 13:35:20+08:00:
+
+> There's a non-zero chance he wanted this. 
+
+Understatement of the century.
+
+----- __228.4__ -----2022-04-19 13:38:01+08:00:
+
+It's a federal development.  Local and state mandates may still apply, but that's uncertain.  For example, the only reason the CTA mandated masks was because of the federal mandate.  With the federal mandate gone, CTA might drop theirs too.  But they might not.  Only the (political) science will tell.
+
+----- __228.5__ -----2022-04-19 13:40:10+08:00:
+
+There is no point in bothering with evidence, when you have faith.  And this is an argument that is taking place at the religious level for many.  You cannot reason someone out of something he or she was not reasoned into.
+
