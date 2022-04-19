@@ -77,7 +77,7 @@ Re @wwXAnA6w @Canada10000 非常感谢您。
 
 ### 16: [2022-02-21 23:22:07+08:00 推文](https://twitter.com/realcaixia/status/1495780882690547715)
 
-铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。 <a href="https://twitter.com/VOAChinese/status/1495741902943096837" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1495741902943096837</a>
+铁链女这事不仅媒体应发声，联合国人权组织更应该出面彻查真相。<br><br>美国之音中文网: 2/21【#时事大家谈】“锁链女“案重创政府公信力，北京深陷“塔西佗陷阱”？<br><br>嘉宾：北京之春荣誉主编胡平 @Huping1；公民力量创办人杨建利  @yangjianli001 <br>主持人：许波<br><br>YouTube🔗<br> <a href="https://youtu.be/DVEYJ0wZ2Ds" target="_blank" rel="noopener noreferrer">https://youtu.be/DVEYJ0wZ2Ds</a> <a href="https://twitter.com/i/broadcasts/1eaJbNlwYpRJX" target="_blank" rel="noopener noreferrer">https://twitter.com/i/broadcasts/1eaJbNlwYpRJX</a>
 
 ### 17: [2022-02-22 00:47:23+08:00 推文](https://twitter.com/realcaixia/status/1495802340917530630)
 
@@ -173,7 +173,7 @@ Re @Sharon65086147 张展为啥进了监狱？你说说看。
 
 ### 40: [2022-02-26 19:35:11+08:00 推文](https://twitter.com/realcaixia/status/1497535713306423301)
 
-英勇的乌克兰人民！<br><br>码凡🇺🇦: 坦克在城市战斗环境中变成了负资产。乌克兰人在基辅郊区的简易路障上的帮助下，用自制的鸡尾酒毁坏俄罗斯坦克。<br><br><video src="https://video.twimg.com/ext_tw_video/1497424353708883972/pu/vid/640x352/o0N7ZH6wTJN9IRyS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497424353708883972/pu/img/CMsthEgaNOJugo3i.jpg"></video>
+英勇的乌克兰人民！<br><br>码凡🇺🇦: 坦克在城市战斗环境中变成了负资产。乌克兰人在基辅郊区的简易路障上的帮助下，用自制的鸡尾酒毁坏俄罗斯坦克。<br> <a href="https://twitter.com/ScottGorbach/status/1497424391117881347/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ScottGorbach/status/1497424391117881347/video/1</a>
 
 ### 41: [2022-02-26 19:39:03+08:00 推文](https://twitter.com/realcaixia/status/1497536684438835200)
 

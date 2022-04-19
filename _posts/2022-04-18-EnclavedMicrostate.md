@@ -39,3 +39,17 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Can't argue with that!
 
+### 354: [ladies and gents, xkcd #826](https://old.reddit.com/r/Hololive/comments/u74qt5/ladies_and_gents_xkcd_826/), submitted on 2022-04-19 21:07:16+08:00.
+
+----- __354.1__ -----2022-04-20 00:34:43+08:00:
+
+xkcd *predicted* the rabbit hole!
+
+Well, to be pedantic, Saturday Morning Breakfast Cereal did, given it's a guest comic.
+
+### 355: [Who’s your Oshi & why?](https://old.reddit.com/r/Hololive/comments/u75hnw/whos_your_oshi_why/), submitted on 2022-04-19 21:43:32+08:00.
+
+----- __355.1__ -----2022-04-20 00:28:45+08:00:
+
+Without a doubt, Calli. I do have a good chunk of favourites whom I'll put on consistently, but Calli is about the only one I would say I watch religiously. I think the main thing is there's just such an earnestness to how she presents herself on stream and in her music, even amid all the general VTuber kayfabe. I'm sure I'm not alone in having been introduced to Hololive via her first appearance on Trash Taste, but I also stayed because of her streams rather than those of other Holomems. That's not to say I don't or haven't ever liked any of the others – I actually started out watching Kiara more than I did Calli, and got into HoloJP via Nene (albeit ultimately to settle on Noel as my JP oshi). But it is to say I just enjoy Calli's content the most consistently of all. The fact she streams at a good time for me also helps a lot.
+
