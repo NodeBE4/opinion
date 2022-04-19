@@ -315,3 +315,27 @@ Re @Kenshinsunny @Zohn43884106 @gggzero0 @remonwangxt 因为你心中眼中全�
 
 Re @Wu_Zhi 其实，我很赞成他家后代什么也不学，就学CRT、变性、LGBTQ，如果实在要学个专业，就去学大麻种植。
 
+### 76: [2022-04-19 06:04:56+08:00 推文](https://twitter.com/HeQinglian/status/1516175976778145801)
+
+Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工厂，中国会来那里投资，找个美国人做“法人”投资，然后在那生产。如同中国深圳的沙头角，厂房跨国。
+
+### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
+
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
+
+### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
+
+Re @JianglinLi @Wu_Zhi 这篇文章要求拜登、约翰逊、肖尔茨和马克龙应该认真思考历史将如何评判他们：“他们是否想与第一次世界大战后的决策者相提并论”，如果想，就要承担建立NWO的艰巨任务。<br>发现主流学者挺喜欢NWO。<br>Putin and Xi Exposed the Great Illusion of Capitalism <a href="https://www.bloomberg.com/opinion/articles/2022-03-24/ukraine-war-has-russia-s-putin-xi-jinping-exposing-capitalism-s-great-illusion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/opinion/articles/2022-03-24/ukraine-war-has-russia-s-putin-xi-jinping-exposing-capitalism-s-great-illusion</a>
+
+### 79: [2022-04-19 09:14:38+08:00 推文](https://twitter.com/HeQinglian/status/1516223714974703618)
+
+Re @JianglinLi @Wu_Zhi 最近我看了不少关于全球化命运的评论与分析，观点很不相同。这一篇显然是NWO一派的，几乎不关注世界上150个“我们西方之外”的国家的人在想什么，仿佛历史的车轮没按他们的意思转，就必须粉碎这些带来阻力的人与国。<br>还有主张按意识形态结阵的——忽视了西方国家的市场与资源来自于不同意识形态的经济体。
+
+### 80: [2022-04-19 09:21:53+08:00 推文](https://twitter.com/HeQinglian/status/1516225538398040064)
+
+Re @JianglinLi @Wu_Zhi 意念中已经将普金绞死了一万回。
+
+### 81: [2022-04-19 09:25:40+08:00 推文](https://twitter.com/HeQinglian/status/1516226493243961350)
+
+Re @Sam20210206 纽时文章知道：<br>"全世界许多人看到我们的性别角色观念就觉得陌生和讨厌。他们看到我们（在最好的一面时）对LGBTQ权利的狂热捍卫，就觉得无比厌恶。人人都有权选择自己的身份(指性别）与价值观的想法，在许多人看来似乎纯属谬论。"
+
