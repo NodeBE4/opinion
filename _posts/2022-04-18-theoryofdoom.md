@@ -112,3 +112,28 @@ It is really that simple.
 
 I think this is an absurd strategy.  But it's clearly the strategy because like everyone is doing it.
 
+----- __228.7__ -----2022-04-19 19:56:19+08:00:
+
+I'm being downvoted because there is a very large group of people who cannot come to terms with the reality of what these mandates have become.
+
+----- __228.8__ -----2022-04-19 20:54:07+08:00:
+
+> but unscientific, well, that's not correct.
+
+You are mistaken.  
+
+* [Cochrane Review](https://www.cochrane.org/CD006207/ARI_do-physical-measures-such-hand-washing-or-wearing-masks-stop-or-slow-down-spread-respiratory-viruses) finds that "[c]ompared with wearing no mask, wearing a mask may make little to no difference in how many people caught a flu-like illness (9 studies; 3507 people); and probably makes no difference in how many people have flu confirmed by a laboratory test (6 studies; 3005 people)," based on nine published studies comprising "[s]even studies [which] took place in the community, and two studies in healthcare workers." They further concluded "[c]ompared with wearing medical or surgical masks, wearing N95/P2 respirators probably makes little to no difference in how many people have confirmed flu (5 studies; 8407 people); and may make little to no difference in how many people catch a flu-like illness (5 studies; 8407 people) or respiratory illness (3 studies; 7799 people)." 
+* [Guerra 2021](https://www.medrxiv.org/content/10.1101/2021.05.18.21257385v1.full) concludes "[m]ask mandates and use are not associated with slower state-level COVID-19 spread during COVID-19 growth surges."
+* [Xiao 2020](https://wwwnc.cdc.gov/eid/article/26/5/19-0994_article) found that "evidence from 14 randomized controlled trials of these measures did not support a substantial effect on transmission." 
+* [Klompas 2020](https://www.nejm.org/doi/full/10.1056/NEJMp2006372) explained that "[w]hat is clear, however, is that universal masking alone is not a panacea. A mask will not protect providers caring for a patient with active Covid-19 if it’s not accompanied by meticulous hand hygiene, eye protection, gloves, and a gown. A mask alone will not prevent health care workers with early Covid-19 from contaminating their hands and spreading the virus to patients and colleagues. Focusing on universal masking alone may, paradoxically, lead to more transmission of Covid-19 if it diverts attention from implementing more fundamental infection-control measures." 
+* [Jefferson 2020](https://www.medrxiv.org/content/10.1101/2020.03.30.20047217v2) reports that "[c]ompared to no masks there was no reduction of influenza-like illness (ILI) cases (Risk Ratio 0.93, 95%CI 0.83 to 1.05) or influenza (Risk Ratio 0.84, 95%CI 0.61-1.17) for masks in the general population, nor in healthcare workers (Risk Ratio 0.37, 95%CI 0.05 to 2.50). There was no difference between surgical masks and N95 respirators: for ILI (Risk Ratio 0.83, 95%CI 0.63 to 1.08), for influenza (Risk Ratio 1.02, 95%CI 0.73 to 1.43)."
+* [Radonovich 2019](https://jamanetwork.com/journals/jama/fullarticle/2749214#227119846) helpfully illustrates the state of the state of the art before everyone in the alleged field of public health turned off their brain, in investigating the question of whether use of N95 respirators or medical masks more effective in preventing influenza infection among outpatient health care personnel in close contact with patients with suspected respiratory illness.  Of course, the data from "this pragmatic, cluster randomized clinical trial involving 2862 health care personnel" indicated "no significant difference in the incidence of laboratory-confirmed influenza among health care personnel with the use of N95 respirators (8.2%) vs medical masks (7.2%)."  And as exemplified by, for example, [Smith 2016](https://www.cmaj.ca/content/188/8/567), that was to be expected.  
+
+There is not now, nor has there ever been, scientific evidence of any kind supporting the propositions that: (a) mask use reduces COVID transmission or the wearer's susceptibility to infection (whether by COVID or any other coronavirus); and (b) mandated mask use reduces community spread of either COVID or any such respiratory virus.
+
+### 229: [TSA will no longer enforce mask mandate after a federal judge strikes it down](https://old.reddit.com/r/CoronavirusIllinois/comments/u6t58f/tsa_will_no_longer_enforce_mask_mandate_after_a/), submitted on 2022-04-19 09:28:21+08:00.
+
+----- __229.1__ -----2022-04-19 19:58:52+08:00:
+
+Maybe if we ever get a libertarian elected, we can roll back all of the war on terror's imperious overreach.  Wouldn't it be nice . . . .
+
