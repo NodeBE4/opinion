@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-19
+date: 2022-04-20
 from: https://old.reddit.com/r/geopolitics/comments/u6bned/nato_cyber_game_tests_defenses_amid_war_in_ukraine/
 layout: post
 tags:
@@ -131,9 +131,27 @@ You are mistaken.
 
 There is not now, nor has there ever been, scientific evidence of any kind supporting the propositions that: (a) mask use reduces COVID transmission or the wearer's susceptibility to infection (whether by COVID or any other coronavirus); and (b) mandated mask use reduces community spread of either COVID or any such respiratory virus.
 
+----- __228.9__ -----2022-04-20 08:40:47+08:00:
+
+There's a cognitive dissonance aspect of it, yes.  But it's also that I speak from an informed position on these issues.  So, instead of actually talking about the state of the scientific research or any particular findings, a large cohort will just downvote to express their disagreement with what I have said, based solely on what they think they understand, to the extent they can't speak intelligently on these issues.
+
+----- __228.10__ -----2022-04-20 08:47:15+08:00:
+
+Here's the bottom line.  People were told by "experts" to do something, which was inconvenient to them.  The "experts" told them the inconvenience was justified, for the greater good.  People bore those sacrifices, through months of fogged glasses and frustrated conversations.
+
+Then they see what I've said, and react with a "WTF is this guy even talking about?!?!?!?!"  Understandably so, because they've been told the same thing for so long.  
+
+But what matters is what is true.  Truth matters more than ideology or politics, and the truth is what the data say.  Period.
+
 ### 229: [TSA will no longer enforce mask mandate after a federal judge strikes it down](https://old.reddit.com/r/CoronavirusIllinois/comments/u6t58f/tsa_will_no_longer_enforce_mask_mandate_after_a/), submitted on 2022-04-19 09:28:21+08:00.
 
 ----- __229.1__ -----2022-04-19 19:58:52+08:00:
 
 Maybe if we ever get a libertarian elected, we can roll back all of the war on terror's imperious overreach.  Wouldn't it be nice . . . .
+
+### 230: [Masks Still Required on CTA After Federal Judge Strikes Down CDC Mandate](https://old.reddit.com/r/CoronavirusIllinois/comments/u7a01e/masks_still_required_on_cta_after_federal_judge/), submitted on 2022-04-20 01:04:20+08:00.
+
+----- __230.1__ -----2022-04-20 08:18:41+08:00:
+
+There's a lot of uncertainty over what is required.  Let's not risk giving incorrect advice, because people are still sorting this out.  For example, some airlines might still be requiring masks but others might not.
 
