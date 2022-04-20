@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-20
+date: 2022-04-21
 from: https://twitter.com/HeQinglian/status/1515730343151742988
 layout: post
 tags:
@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -554,4 +554,16 @@ Re 接上：”他们（拜登与民主党）的民意支持度却持续低迷�
 ### 135: [2022-04-20 23:34:58+08:00 推文](https://twitter.com/HeQinglian/status/1516802612439486476)
 
 Re @xchen156 这与集中营有什么区别？真心希望20日解禁是真消息。
+
+### 136: [2022-04-21 00:50:42+08:00 推文](https://twitter.com/HeQinglian/status/1516821670979416065)
+
+Re @Wu_Zhi 现在上演的就是这闹剧。<br>一些乌鸡血上来就说不再看我的文章，太自作多情了。我需要这样的读者吗？<br>如果他们看过却如此愚蠢，说明他们看不懂；<br>如果他们从来没看过，我在意多几个这样的读者么？
+
+### 137: [2022-04-21 00:52:46+08:00 推文](https://twitter.com/HeQinglian/status/1516822193270923271)
+
+Re @princeton_walk @xchen156 如果是这样，每天能够从方舱“集中营”解放一部分，也让人有点盼头，至少可以数着日子过了。<br>实在话，在家中熬着，就算半饥半饱，也比在那里受活罪强点。
+
+### 138: [2022-04-21 01:06:32+08:00 推文](https://twitter.com/HeQinglian/status/1516825655123529728)
+
+德语媒体: 美国哪怕再坏 也总比中国更好  <br>"德国的立场到底在哪里？不管美国做了多少错事，美国依然要比战犯俄国以及共产中国亲近得多。……是时候明确德国的立场了：它不应该在美国和中国之间，而是应该在西方之内。”<br>我只想说：曾是民主灯塔的美国看了这话，是否心有戚戚？ <a href="https://p.dw.com/p/4A9m4?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4A9m4?maca=zh-Twitter-sharing</a>
 
