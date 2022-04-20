@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-19
+date: 2022-04-21
 from: https://old.reddit.com/r/AskHistorians/comments/u5ws80/how_tall_were_the_tallest_sailing_ships/
 layout: post
 tags:
@@ -66,4 +66,16 @@ Well, to be pedantic, Saturday Morning Breakfast Cereal did, given it's a guest 
 ----- __357.1__ -----2022-04-20 00:28:45+08:00:
 
 Without a doubt, Calli. I do have a good chunk of favourites whom I'll put on consistently, but Calli is about the only one I would say I watch religiously. I think the main thing is there's just such an earnestness to how she presents herself on stream and in her music, even amid all the general VTuber kayfabe. I'm sure I'm not alone in having been introduced to Hololive via her first appearance on Trash Taste, but I also stayed because of her streams rather than those of other Holomems. That's not to say I don't or haven't ever liked any of the others – I actually started out watching Kiara more than I did Calli, and got into HoloJP via Nene (albeit ultimately to settle on Noel as my JP oshi). But it is to say I just enjoy Calli's content the most consistently of all. The fact she streams at a good time for me also helps a lot.
+
+### 358: [*unrats your waifu *](https://old.reddit.com/r/Hololive/comments/u7wlq6/unrats_your_waifu/), submitted on 2022-04-20 21:32:04+08:00.
+
+----- __358.1__ -----2022-04-21 03:16:02+08:00:
+
+Might be worth crediting the artist, that being *checks notes* uh, Iofi: https://twitter.com/airaniiofifteen/status/1496847681783664642?s=20&t=M1q3Bi0TD6_Ze9_A-5nFlw
+
+### 359: [Making memes until HoloMyth and Area 15 either appear in HoloGra, or get their own version. Day 32 - Time to shatter your perception of time again](https://old.reddit.com/r/Hololive/comments/u83ndc/making_memes_until_holomyth_and_area_15_either/), submitted on 2022-04-21 02:55:07+08:00.
+
+----- __359.1__ -----2022-04-21 03:03:36+08:00:
+
+I mean, given the Ottoman sultans claimed the title of *Kayser-i-Rum* until the 18th century, you could argue the Roman Empire was still in existence by that stage.
 

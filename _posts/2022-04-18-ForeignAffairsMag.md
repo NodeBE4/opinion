@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-20
+date: 2022-04-21
 from: https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/
 layout: post
 tags:
@@ -62,5 +62,16 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 ----- __218.1__ -----2022-04-20 21:35:16+08:00:
 
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 219: [What If the War in Ukraine Doesn’t End?: The Global Consequences of a Long Conflict](https://old.reddit.com/r/TrueReddit/comments/u83umu/what_if_the_war_in_ukraine_doesnt_end_the_global/), submitted on 2022-04-21 03:04:13+08:00.
+
+----- __219.1__ -----2022-04-21 03:06:01+08:00:
+
+\[SS from the article by Liana Fix and Michael Kimmage\]
+
+"All wars end, and their closing moments are often vivid and memorable. Take, for instance, Confederate General Robert E. Lee’s surrender to Union General Ulysses S. Grant in April 1865, which brought an end to the U.S. Civil War. Or the armistice that terminated World War I, signed by Germany and the Allies in a train car near Paris in November 1918. Or the end of the Cold War, symbolized by the toppling of the Berlin Wall in November 1989 and, later, the lowering of the Soviet flag from the Kremlin on Christmas Day of 1991. These scenes loom large in the cultural imagination as decisive moments that provided the sense of a definitive ending.  
+But the spectacle around a war’s end can be misleading. The Confederate surrender at Appomattox Court House did not settle political or cultural tensions between the North and South, nor did it resolve the related racial prejudices and political differences, which lingered long after slavery had been abolished. The interwar period of the 1920s and 1930s in Europe was suffused with anxieties and tensions that culminated in another great war. The conclusion of World War II marked the dawn of the Cold War. And, despite the collapse of the Soviet Union, the Cold War may not have ended—it may still be ongoing, as the historian Stephen Kotkin recently argued in these pages.  
+In the Russian war in Ukraine, there may not be a discrete moment marking the war’s end—at least, not for some time. After eight weeks of war—far longer, seemingly, than either side anticipated—it is a real possibility that neither country will achieve what it wishes to achieve. Ukraine may not be able to expel Russian forces fully from the territory they have taken since Moscow launched its invasion in February. Russia is likely unable to achieve its main political objective: control over Ukraine. Instead of reaching a definite resolution, the war may well usher in a new era of conflict characterized by a cycle of Russian wars in Ukraine. If the war does not end any time soon, the crucial question is: Whose side is time on?"  
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
