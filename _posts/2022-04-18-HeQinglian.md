@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -482,4 +482,76 @@ Re @Wu_Zhi 可能是乔干得不得劲，因此自己终于从“地下室的指
 ### 117: [2022-04-20 21:08:20+08:00 推文](https://twitter.com/HeQinglian/status/1516765711955341317)
 
 Re @Wu_Zhi 本来就是，只是从地下走到地面上来了。<br>民主党还是想法子修宪，为他量身定制重回白宫的“宪法”比较一劳永逸。
+
+### 118: [2022-04-20 21:22:06+08:00 推文](https://twitter.com/HeQinglian/status/1516769175028568066)
+
+Re 那些意淫美国打击俄国，就是打击中共的人，好好读读昨天DW关于中乌微妙关系的文章，以及这篇文章，用一下自己那有点不够用的脑瓜。<br>在我看来，今后的两大阵营当中，中国是被西方统战的对象，俄罗斯才会真正被孤立。中共如果长袖善舞，即使有偏向，也能两头好处都得；如果投靠一方，乌鉴不远。
+
+### 119: [2022-04-20 21:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1516769544768995336)
+
+普京已发动第一次世界经济大战？ <br>这文章好玩，但别忘记，是美欧全面经济制裁给了普京机会。 <a href="https://rfi.my/8LmB.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8LmB.T</a>
+
+### 120: [2022-04-20 21:41:35+08:00 推文](https://twitter.com/HeQinglian/status/1516774081420566531)
+
+Re @snowballlynx 欧盟参与制裁俄罗斯，仍然每天购买10亿欧元的天然气，连欧盟自家也承认这是为俄罗斯送子弹。<br>美欧联手打俄，是挖中共祖坟，为何现在欧盟率先恢复欧中经济协议？去年气候峰会前停止时，是为了让中国参与绿能计划。<br>请你解释一下：既要让对方失血，又为对方造血，这是什么战略？
+
+### 121: [2022-04-20 21:42:37+08:00 推文](https://twitter.com/HeQinglian/status/1516774338736840705)
+
+Re @Masa99105474 你那是另一个问题，我谈的是推文所示问题：欧盟对华态度。
+
+### 122: [2022-04-20 21:46:13+08:00 推文](https://twitter.com/HeQinglian/status/1516775245822234627)
+
+Re @Wu_Zhi @RFI_Cn 就算真达成这目标，但却是将外战变成内战。好比先约好自家兄弟群殴外人，外人没打倒，先放倒自家兄弟。
+
+### 123: [2022-04-20 21:52:14+08:00 推文](https://twitter.com/HeQinglian/status/1516776760293081099)
+
+Re @shijianxingzou @snowballlynx 算是“口袋解释”——参照口袋罪，我发明这词汇。<br>但确实是西方左派现状。
+
+### 124: [2022-04-20 21:54:55+08:00 推文](https://twitter.com/HeQinglian/status/1516777433378213893)
+
+Re @Richard010a 你真的名室实归：“群氓鄙陋”，我从园子拔除了。
+
+### 125: [2022-04-20 21:56:23+08:00 推文](https://twitter.com/HeQinglian/status/1516777803554955267)
+
+Re @adou07557765 对，不靠脑瓜够用，也不依靠事实，靠先入为主的立场。你继续。
+
+### 126: [2022-04-20 22:05:28+08:00 推文](https://twitter.com/HeQinglian/status/1516780090457301008)
+
+拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。 <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
+
+### 127: [2022-04-20 22:10:14+08:00 推文](https://twitter.com/HeQinglian/status/1516781288199442436)
+
+Re @KELMAND1 美国盗选集团与主流媒体应该对此负首要责任。<br>我相信抬轿者得到的酬庸，已经不少被通胀吞噬了。
+
+### 128: [2022-04-20 22:17:49+08:00 推文](https://twitter.com/HeQinglian/status/1516783197304102912)
+
+Re @Wu_Zhi @KELMAND1 我们也快了。
+
+### 129: [2022-04-20 22:57:22+08:00 推文](https://twitter.com/HeQinglian/status/1516793151305957381)
+
+Re @Wu_Zhi @JianglinLi @RFI_Cn 各种资料都在，除了西方将普京抓起来，俄国灭掉，才能再造这段历史，抹掉美国欧盟启动Swift这枚金融核弹，希望炸死俄罗斯这段历史。<br>最好有点敢作敢当的气派：我制裁了，我认为我赢了。虽然输了，那是敌人太狡猾，还有中国选择帮俄罗斯、内部出了要天然气的叛徒。
+
+### 130: [2022-04-20 23:01:34+08:00 推文](https://twitter.com/HeQinglian/status/1516794209365336074)
+
+Re @chuanhao 我曾发过一篇民主党选举专家谈如何在地方选举中获胜的方式。<br>有时一个选区只需要三、四十票就可翻盘，这时让人迁往该地租房居住，有水电缴费证明就可以了。这比造假票要真实一点。
+
+### 131: [2022-04-20 23:03:53+08:00 推文](https://twitter.com/HeQinglian/status/1516794792784670727)
+
+Re @JianglinLi @Wu_Zhi @RFI_Cn 原文在此，西方左派的败坏，这只是一例。<br>Putin has launched the first economic world war, and the EU and the West are his targets<br>April 19, 2022 at 12:15 p.m. <br>By  Antonia Colibasanu <a href="https://www.marketwatch.com/story/putin-has-launched-the-first-economic-world-war-and-the-eu-and-the-west-are-his-targets-11650325337" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/putin-has-launched-the-first-economic-world-war-and-the-eu-and-the-west-are-his-targets-11650325337</a>
+
+### 132: [2022-04-20 23:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1516794987391950849)
+
+Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
+
+### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
+
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
+
+### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
+
+Re 接上：”他们（拜登与民主党）的民意支持度却持续低迷——既然在国内问题上取得明显“胜利”的可能越来越低，那么为何不佯装一个‘胜利’，譬如通过‘对抗普京’阻止了其对乌克兰的入侵？”<br>如果这些青年学生为了区区学贷支持了民主党，等待他们的将是漫长的美国冬天，情况只会比2021年至今更糟糕。
+
+### 135: [2022-04-20 23:34:58+08:00 推文](https://twitter.com/HeQinglian/status/1516802612439486476)
+
+Re @xchen156 这与集中营有什么区别？真心希望20日解禁是真消息。
 
