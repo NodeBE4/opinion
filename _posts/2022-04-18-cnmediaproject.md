@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-18
+date: 2022-04-20
 from: https://twitter.com/WendyZhou502/status/1515766307303702530
 layout: post
 tags:
@@ -54,4 +54,20 @@ Re 5) Finally, China's view of human rights is about upholding rule of law (坚�
 ### 10: [2022-04-18 12:38:06+08:00 推文](https://twitter.com/cnmediaproject/status/1515912533655552003)
 
 Re Finally, don't forget the first principle in Chinese human rights: that the CCP runs the entire process.
+
+### 11: [2022-04-20 11:19:04+08:00 推文](https://twitter.com/cnmediaproject/status/1516617419183489030)
+
+With ongoing pressures on economic growth in China, "stability" is the word in today's People's Daily. Read more in our CMP Dictionary: <a href="https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/</a><br><img style="" src="https://pbs.twimg.com/media/FQwbbt_aQAAmwms?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-04-20 11:19:34+08:00 推文](https://twitter.com/KennedyCSIS/status/1516617544698036227)
+
+RT Scott Kennedy<br>BioNTech "signed an alliance with China’s Fosun Pharma in March 2020 to provide any successful Covid mRNA shot to the country. But more than two years later, China has not approved the BioNTech vaccine for use on the mainland." <a href="https://www.ft.com/content/729f1dc0-32d1-42c9-bb62-63a41f1e8de2" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/729f1dc0-32d1-42c9-bb62-63a41f1e8de2</a>
+
+### 13: [2022-04-20 12:33:44+08:00 推文](https://twitter.com/heldavidson/status/1516636207161126916)
+
+RT Helen Davidson<br>“They can’t fully censor those topics, and then the constant blaming of the US for everything seemed to break the camel’s back, so netizens turned the tables, and now the censors are scrambling.” <a href="https://www.theguardian.com/world/2022/apr/20/china-internet-censors-scramble-as-lockdown-frustration-sparks-creative-wave-of-dissent?CMP=Share_iOSApp_Other" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/apr/20/china-internet-censors-scramble-as-lockdown-frustration-sparks-creative-wave-of-dissent?CMP=Share_iOSApp_Other</a>
+
+### 14: [2022-04-20 12:37:55+08:00 推文](https://twitter.com/cnmediaproject/status/1516637262712545280)
+
+Anchoring Party Dominance: Gathering at a symposium in Beijing this week, television and radio hosts from across China were reminded of the only journalism value that truly matters – loyalty to the Chinese Communist Party and its values. <a href="https://chinamediaproject.org/2022/04/20/anchoring-party-dominance/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/20/anchoring-party-dominance/</a><br><img style="" src="https://pbs.twimg.com/media/FQwti1yaUAAvJxE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
