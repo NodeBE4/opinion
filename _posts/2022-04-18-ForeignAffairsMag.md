@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-19
+date: 2022-04-20
 from: https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/
 layout: post
 tags:
@@ -55,6 +55,12 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 "There is nothing the United States can do to prevent China from joining it and Russia as the world’s top nuclear powers, but there are things that U.S. strategists and defense planners can do to mitigate the consequences. For starters, Washington will need to modernize its nuclear deterrent. But it will also need to engage in new ways of thinking about the nuclear balance of power and how, in a far more complex strategic environment, it can maintain deterrence and keep the nuclear peace."  
 
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 218: [What If the War in Ukraine Doesn’t End?: The Global Consequences of a Long Conflict](https://old.reddit.com/r/UkrainianConflict/comments/u7wnq4/what_if_the_war_in_ukraine_doesnt_end_the_global/), submitted on 2022-04-20 21:34:50+08:00.
+
+----- __218.1__ -----2022-04-20 21:35:16+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
