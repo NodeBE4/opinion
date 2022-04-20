@@ -33,11 +33,11 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。
+关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -57,7 +57,7 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 11: [2022-04-18 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1515872221230682116)
 
-真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。
+真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。<br><br>Luo Shengchun丁家喜律师妻子: #纽约人权活动之旅 前天驱车来到纽约市参加由非政府机构中国人权（HRIC）@hrichina 举办的法律程序国际标准有关的培训，结识了一批年轻活动者和律师，并一起学习探讨中国政府制定及执行法律时与国际标准的距离，受益非浅！培训结束与全程参与培训的中国人权执行主任，法学荣誉退休教授谭女士合影留念。<br><br><img style="" src="https://pbs.twimg.com/media/FQgdB4xXoAccxMK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQgdB4wWQAs4HiU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
