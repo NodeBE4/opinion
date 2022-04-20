@@ -35,27 +35,35 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Thank you! This perhaps goes a little beyond the immediate scope of the original question, but your description of the somewhat fractured state of power during the formation of the Kamakura government led me to have some questions about how both imperial and bakufu power ought to be conceptualised. To boil it down to a core question, to what extent should we conceptualise Japan in the Kamakura period as a unitary state? My only vague familiarity with Japanese domestic history being the late Edo, I apologise if I'm framing things very badly, but were there regional lords, particularly in the west, who saw themselves as part of the empire in the sense that they recognised the supremacy of the imperial court, but as essentially autonomous of the bakufu in Kamakura which they saw as directly governing a separate entity, but wielding a certain hegemonic power over lesser regional rulers?
 
-### 354: [[Noel] Danchou has defeated Malenia! In A Cave! With a Pair of Clubs!](https://old.reddit.com/r/Hololive/comments/u74hq2/noel_danchou_has_defeated_malenia_in_a_cave_with/), submitted on 2022-04-19 20:54:47+08:00.
+### 354: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
------ __354.1__ -----2022-04-19 20:57:04+08:00:
+----- __354.1__ -----2022-04-21 00:10:40+08:00:
+
+> Also i think like most of holoEN is not an active vtuber before. There's a couple who try vtubing probably a couple times but Bae is an exeption.
+
+That's not entirely correct. I did a quick check and of 11 members of HoloEN, 8 had some kind of prior VTubing experience, to varying degrees of recognition.
+
+### 355: [[Noel] Danchou has defeated Malenia! In A Cave! With a Pair of Clubs!](https://old.reddit.com/r/Hololive/comments/u74hq2/noel_danchou_has_defeated_malenia_in_a_cave_with/), submitted on 2022-04-19 20:54:47+08:00.
+
+----- __355.1__ -----2022-04-19 20:57:04+08:00:
 
 *Maces
 
------ __354.2__ -----2022-04-19 21:00:32+08:00:
+----- __355.2__ -----2022-04-19 21:00:32+08:00:
 
 Can't argue with that!
 
-### 355: [ladies and gents, xkcd #826](https://old.reddit.com/r/Hololive/comments/u74qt5/ladies_and_gents_xkcd_826/), submitted on 2022-04-19 21:07:16+08:00.
+### 356: [ladies and gents, xkcd #826](https://old.reddit.com/r/Hololive/comments/u74qt5/ladies_and_gents_xkcd_826/), submitted on 2022-04-19 21:07:16+08:00.
 
------ __355.1__ -----2022-04-20 00:34:43+08:00:
+----- __356.1__ -----2022-04-20 00:34:43+08:00:
 
 xkcd *predicted* the rabbit hole!
 
 Well, to be pedantic, Saturday Morning Breakfast Cereal did, given it's a guest comic.
 
-### 356: [Who’s your Oshi & why?](https://old.reddit.com/r/Hololive/comments/u75hnw/whos_your_oshi_why/), submitted on 2022-04-19 21:43:32+08:00.
+### 357: [Who’s your Oshi & why?](https://old.reddit.com/r/Hololive/comments/u75hnw/whos_your_oshi_why/), submitted on 2022-04-19 21:43:32+08:00.
 
------ __356.1__ -----2022-04-20 00:28:45+08:00:
+----- __357.1__ -----2022-04-20 00:28:45+08:00:
 
 Without a doubt, Calli. I do have a good chunk of favourites whom I'll put on consistently, but Calli is about the only one I would say I watch religiously. I think the main thing is there's just such an earnestness to how she presents herself on stream and in her music, even amid all the general VTuber kayfabe. I'm sure I'm not alone in having been introduced to Hololive via her first appearance on Trash Taste, but I also stayed because of her streams rather than those of other Holomems. That's not to say I don't or haven't ever liked any of the others – I actually started out watching Kiara more than I did Calli, and got into HoloJP via Nene (albeit ultimately to settle on Noel as my JP oshi). But it is to say I just enjoy Calli's content the most consistently of all. The fact she streams at a good time for me also helps a lot.
 
