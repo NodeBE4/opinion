@@ -77,7 +77,7 @@ Re @21KsJZBSV3yPD9w @YouTub 李锐的《庐山会议实录》、杨继绳的《�
 
 ### 16: [2022-04-18 22:58:17+08:00 推文](https://twitter.com/realcaixia/status/1516068606408278016)
 
-说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。<br><br>韩连潮: 【李总理，你应当去上海！】有人把清零和共存说成两条路线斗争、内斗、制度和文明之争, 动辄上纲上线、戴帽子打棍子，说明野心家别有用心；李克强总理作为抗疫领导小组组长应当前往上海亲临一线坐镇主场，这是你的基本职责。领导不是神仙，科学也会出错，亲临其境才知道民众的困苦，找到应对方案。<br><br><img style="" src="https://pbs.twimg.com/media/FQoJIMTX0AE-Qkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。
 
 ### 17: [2022-04-18 23:20:53+08:00 推文](https://twitter.com/realcaixia/status/1516074293133602820)
 
