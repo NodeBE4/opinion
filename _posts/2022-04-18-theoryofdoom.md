@@ -155,3 +155,23 @@ Maybe if we ever get a libertarian elected, we can roll back all of the war on t
 
 There's a lot of uncertainty over what is required.  Let's not risk giving incorrect advice, because people are still sorting this out.  For example, some airlines might still be requiring masks but others might not.
 
+### 231: [Unofficial Daily Update for 2022-04-19. 2471 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/u7baxy/unofficial_daily_update_for_20220419_2471_new/), submitted on 2022-04-20 02:00:21+08:00.
+
+----- __231.1__ -----2022-04-20 20:00:03+08:00:
+
+> So unless there is some awful side effect from Covid that everyone will get from an asymptomatic infection, again, I think we're going to be okay.
+
+That's the outstanding question that remains unresolved.
+
+----- __231.2__ -----2022-04-20 20:31:47+08:00:
+
+We know some people have experienced varied long term effects, some of which are questionable but others are more serious and significant.  At least based on current information, the most serious questions revolve around the potential for neurologic damage as a result of COVID infection.  See [NIH Resources on this issue](https://www.ninds.nih.gov/Current-Research/Coronavirus-and-NINDS/nervous-system) for further discussion on the same.
+
+### 232: [A Mighty Sword: Iran’s Oil Caught Up In Russian Geopolitics](https://old.reddit.com/r/geopolitics/comments/u7v0fh/a_mighty_sword_irans_oil_caught_up_in_russian/), submitted on 2022-04-20 20:08:33+08:00.
+
+----- __232.1__ -----2022-04-20 20:26:40+08:00:
+
+Submission Statement: 
+
+This Eurasia Review op-ed considers the significance of Iran's cooperation with Russia on gas exports, in view of the war Russia initiated against Ukraine.  Based on currently proven reserves, Iran is in a position to meet approximately 20% of European demand for natural gas from its Chalous gas field.  Yet, Tehran appears to be coordinating with Moscow and will not do so without Russia's sign-off because Iran has recently agreed to let Russia control who it exports natural gas to and at what price the exported gas will be purchased.  The op-ed proposes that this bilateral coordination between Iran and Russia will enable Moscow to further throttle the inflow of natural gas to the European continent.  By implication, Iran's cooperation enables Russia to maintain geopolitical power based on that market influence.
+
