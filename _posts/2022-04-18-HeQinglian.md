@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -614,4 +614,52 @@ Re @pandatress1 @doudou_186 @JianglinLi @fybkr52nwb @suwoluofu123 @War_Mapper @T
 ### 150: [2022-04-21 10:05:39+08:00 推文](https://twitter.com/HeQinglian/status/1516961329428504580)
 
 Re @pandatress1 @JianglinLi @doudou_186 @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar Jacques Baud，这位曾参与过乌克兰事务的前瑞士情报官指出，在乌克兰事实上失败之后，“战争必须留给军队，当一方失败时，必须承认。如果要进行抵抗，就必须加以引导和结构化。 但我们正在做的恰恰相反——我们正在推动公民去战斗”，“用别人的血很容易好斗”。 <a href="https://www.sott.net/article/466340-Retired-Swiss-Military-Intelligence-Officer-Is-it-Possible-to-Actually-Know-What-Has-Been-And-is-Going-on-in-Ukraine" target="_blank" rel="noopener noreferrer">https://www.sott.net/article/466340-Retired-Swiss-Military-Intelligence-Officer-Is-it-Possible-to-Actually-Know-What-Has-Been-And-is-Going-on-in-Ukraine</a>
+
+### 151: [2022-04-21 19:35:13+08:00 推文](https://twitter.com/HeQinglian/status/1517104665262964736)
+
+Re @Alexjandro990 中国现在面临两大资本的撤出，一是外资；二是国内富人、贪官财富的流失。<br>前者是国际形势使然，后者是反腐的结果。虽然不是一时间能够完成的事情，但资金失血过程是缓慢的。
+
+### 152: [2022-04-21 19:38:48+08:00 推文](https://twitter.com/HeQinglian/status/1517105568367923203)
+
+Re @luosifeng @JianglinLi @liaojieshijie11 @doudou_186 @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 这话伤不了我们。<br>1、写作本来就不是为了乌合之众，他们是自媒体的中坚。阅读本来就是为了自己快乐，不是为了求知。<br>2、潮流如此，阅读者越来越少。<br>但是，总会有人读。昨天那位人之聚胡说了一气，让他拿我误判俄乌军事形势的推或文章出来，不吭气了。
+
+### 153: [2022-04-21 20:10:00+08:00 推文](https://twitter.com/HeQinglian/status/1517113417718509568)
+
+Re @k90807060502 并非如此，只是最近法广的报道合了乌鸡血的脾胃而已。<br>DW因政府层与泽连斯基闹点小意见，开始转向，但总体还是支持乌克兰的。
+
+### 154: [2022-04-21 20:13:09+08:00 推文](https://twitter.com/HeQinglian/status/1517114210274095109)
+
+Re @Alexjandro990 我谈的不是过去半个月以前的。<br>目前正是华尔街考虑从中国撤出的开始。第一季度报表说明不了问题。<br>3月初开始制裁，华尔街一直在观望，现在下定决心了。<br>我特别吃惊的是，去年索罗斯三骂习近平，但其在中国还有大量投资，当然不是什么绿地投资。<br>国内房地产失血，就是炒房者退出——后一种人。
+
+### 155: [2022-04-21 20:14:49+08:00 推文](https://twitter.com/HeQinglian/status/1517114632930050049)
+
+Re @RFI_Cn 这情景，与2020年美国大选情形仿佛。
+
+### 156: [2022-04-21 20:17:43+08:00 推文](https://twitter.com/HeQinglian/status/1517115361988124672)
+
+Re @jason78proton 我也觉得乌鸡血这几天少了一些，就连那个注册百余个推号，在我拉黑后反复再来的，也改了名儿，不再用“stand with Ukraine",改成别的数字音符串了。
+
+### 157: [2022-04-21 20:20:07+08:00 推文](https://twitter.com/HeQinglian/status/1517115967112949760)
+
+Re @a176200879 @Alexjandro990 外资如此操作：抛售部分后，股市下跌，停抛。待政府托市后上涨再抛，如此反复。<br>你让中国政府不托市，似乎他们舍不得；托市就是这结果。
+
+### 158: [2022-04-21 20:30:22+08:00 推文](https://twitter.com/HeQinglian/status/1517118543355170816)
+
+现在关于俄乌战况，从西媒这里听不到相对接近真实的信息。今天早上我听某台英文广播，大概如下：<br>马里乌波里正在战斗，俄军对最后一批乌克兰战士说：要么投降，要么被杀；<br>拜登召集国防部军事会议，表明继续支持乌克兰，送武器；<br>普京受到制裁，经济接近崩溃，国内不满越来越强烈。<br>世界支持泽连斯基。
+
+### 159: [2022-04-21 20:31:25+08:00 推文](https://twitter.com/HeQinglian/status/1517118807541694466)
+
+Re 凡不利于本阵营的信息，一概见不到，比如德国购买天然气的问题。
+
+### 160: [2022-04-21 20:37:16+08:00 推文](https://twitter.com/HeQinglian/status/1517120283454459904)
+
+Re @ChineseWSJ 针对配图的深肤色女王有感：<br>BBC曾拍过许多英国历史片（或政论片），按照美国的1619 project，应该将演员与历史文物尤其是画象全改成深色皮肤。<br>这真是毛的文革：将颠倒了的历史重新颠倒过来。
+
+### 161: [2022-04-21 20:48:43+08:00 推文](https://twitter.com/HeQinglian/status/1517123161782951936)
+
+Re @pandatress1 这是愿望，广播里表达，”据俄罗斯观察人士消息”，听众满意就行了——有时，就是自家满意。😂
+
+### 162: [2022-04-21 20:50:38+08:00 推文](https://twitter.com/HeQinglian/status/1517123646149611522)
+
+Re @greenhopewillia @RFI_Cn 除了德国选择党之外，所有的都是建制化了，散兵游勇走不了议会道路。
 

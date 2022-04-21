@@ -143,6 +143,18 @@ Then they see what I've said, and react with a "WTF is this guy even talking abo
 
 But what matters is what is true.  Truth matters more than ideology or politics, and the truth is what the data say.  Period.
 
+----- __228.11__ -----2022-04-21 20:15:22+08:00:
+
+Let me be clear on this point too:
+
+In this subreddit, we deal in good faith with the facts based on actual scientific evidence, including as the state of the research may evolve over time.  To that end, we cite, among other things, scientific journals and publications related to these issues.  Thus, the standards are higher here than in numerous other subreddits related to coronavirus.  Most of it is even open access.  With that wealth of knowledge being accessible, it's just not good enough to rely on second, third or fourth-hand accounts or interpretations.  
+
+I understand folks may have broadly different levels of proficiency in navigating journals, articles, meta-analyses and other related medical research.  And if you encounter a source-type that you have not seen before, it is your responsibility to try to learn.  
+
+For example, a systematic review attempts to identify, appraise and synthesize all the empirical evidence that meets pre-specified eligibility criteria to answer a specific research question. Researchers conducting systematic reviews use explicit, systematic methods that are selected with a view aimed at minimizing bias, to produce more reliable findings to inform decision making.  
+
+A Cochrane Review is a systematic review of research in health care and health policy that is published in the Cochrane Database of Systematic Reviews.  If you report a [Cochrane Review](https://www.cochrane.org/evidence), one of which I have cited above, as "misinformation," you foreclose any prospect that your opinions on any medical or health related issue can be taken seriously.
+
 ### 229: [TSA will no longer enforce mask mandate after a federal judge strikes it down](https://old.reddit.com/r/CoronavirusIllinois/comments/u6t58f/tsa_will_no_longer_enforce_mask_mandate_after_a/), submitted on 2022-04-19 09:28:21+08:00.
 
 ----- __229.1__ -----2022-04-19 19:58:52+08:00:
@@ -174,6 +186,28 @@ We know some people have experienced varied long term effects, some of which are
 Submission Statement: 
 
 This Eurasia Review op-ed considers the significance of Iran's cooperation with Russia on gas exports, in view of the war Russia initiated against Ukraine.  Based on currently proven reserves, Iran is in a position to meet approximately 20% of European demand for natural gas from its Chalous gas field.  Yet, Tehran appears to be coordinating with Moscow and will not do so without Russia's sign-off because Iran has recently agreed to let Russia control who it exports natural gas to and at what price the exported gas will be purchased.  The op-ed proposes that this bilateral coordination between Iran and Russia will enable Moscow to further throttle the inflow of natural gas to the European continent.  By implication, Iran's cooperation enables Russia to maintain geopolitical power based on that market influence.
+
+----- __232.2__ -----2022-04-21 19:37:26+08:00:
+
+> Is there anymore color on this? What agreement is this a reference to? This is a very surprising claim.
+
+Yes.  This is one of several reasons why I recommend people (and Americans, specifically) follow diverse news sources, including those outside the United States.  American media simply do not cover all that matters in the world.  Even if they do, the way they cover what matters often is inadequate.  For example, Iran's move has been covered throughout the European press and elsewhere but it barely gets a mention even in Reuters.  Despite the fact that it's one of the most consequential developments to occur since Vladimir Putin began this unconscionable war in Ukraine. 
+
+Another point of consideration consideration relates to the echo chamber risk.  American media's coverage of international developments --- like the current mischief Iran is engaging in to support Vladimir Putin's regime --- is often superficially narrow, decontextualized and does not explain what these events mean in context or in the big picture.  Or when some of these types do weigh in, all of the perspectives that can be expressed fit between two fairly narrow poles.  But the rest of the world often sees things very differently.  And we (i.e., Americans) can't simply disregard what people outside our borders think.  We cannot hope to be effective on the world stage otherwise.
+
+----- __232.3__ -----2022-04-21 19:53:12+08:00:
+
+It is not that Russia is dictating ("essentially control[ling]") Iran's foreign policy.  Even though Russia and Iran are competitors in the petrochemical export game, their interests are aligned against the United States.  That has been true since the Iranian "revolution" in 1979 and long before the Soviet Union fell. 
+
+Additionally, and as you rightly note, the current regime in Tehran is extremely hesitant to engage Washington.  In part, that's because of Trump's sanctions but it's also because of how the Biden administration approached reviving the nuclear deal.  Iran would rather cooperate with Russia on the hope that Russia will continue to support its nuclear program's development, because Tehran views pursuing that objective as more important to its long term interests.  
+
+It's also more realistic than trying to participate in the European natural gas market, because doing so would irreparably harm their relationship with Moscow and translate into little if any gain (and with a very low prospect of realization).  Cooperating with Moscow is the safer bet for them.
+
+That development should be seriously concerning to Washington.  For obvious reasons.
+
+----- __232.4__ -----2022-04-21 20:35:14+08:00:
+
+Yours are important and worthwhile points, specifically relating to infrastructure.  For example, a big reason why Germany continues to remain beholden to Russian gas is because that country lacks the ability to convert LNG transferred by tanker at anything approximating the scale of its needs.  I agree that at the current time, Iranian exports to the European continent are impractical.  However, Germany is likely to substantially expand that infrastructure in the coming years.  If it did, that could open the door for Iranian exports.  But on a prospective pipeline, there is nothing impracticable about its construction.  More [challenging projects have already been completed and/or are underway at this moment](https://www.reuters.com/world/asia-pacific/exclusive-russia-china-agree-30-year-gas-deal-using-new-pipeline-source-2022-02-04/).
 
 ### 233: [A video filmed by russians showing a naked male ukranian POW face down on a medical table being operated on is apparently not "non consensual intimate media" according to the report system.](https://old.reddit.com/r/ModSupport/comments/u7w41k/a_video_filmed_by_russians_showing_a_naked_male/), submitted on 2022-04-20 21:07:31+08:00.
 
