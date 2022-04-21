@@ -71,3 +71,7 @@ RT Helen Davidson<br>“They can’t fully censor those topics, and then the c
 
 Anchoring Party Dominance: Gathering at a symposium in Beijing this week, television and radio hosts from across China were reminded of the only journalism value that truly matters – loyalty to the Chinese Communist Party and its values. <a href="https://chinamediaproject.org/2022/04/20/anchoring-party-dominance/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/20/anchoring-party-dominance/</a><br><img style="" src="https://pbs.twimg.com/media/FQwti1yaUAAvJxE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 15: [2022-04-20 21:03:35+08:00 推文](https://twitter.com/jmchatwin/status/1516764514678718471)
+
+RT Jonathan Chatwin<br>One of the refrains of Deng Xiaoping's speeches from the 1980s is that 'common prosperity' is the desired goal in allowing some areas to get rich. A lot of coverage of the use of the phrase by Xi misses its history - great piece here by @cnmediaproject <a href="https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/</a>
+

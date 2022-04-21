@@ -175,9 +175,17 @@ Submission Statement:
 
 This Eurasia Review op-ed considers the significance of Iran's cooperation with Russia on gas exports, in view of the war Russia initiated against Ukraine.  Based on currently proven reserves, Iran is in a position to meet approximately 20% of European demand for natural gas from its Chalous gas field.  Yet, Tehran appears to be coordinating with Moscow and will not do so without Russia's sign-off because Iran has recently agreed to let Russia control who it exports natural gas to and at what price the exported gas will be purchased.  The op-ed proposes that this bilateral coordination between Iran and Russia will enable Moscow to further throttle the inflow of natural gas to the European continent.  By implication, Iran's cooperation enables Russia to maintain geopolitical power based on that market influence.
 
-### 233: [Bachelor Thesis on the Russian Invasion of Ukraine - Topic Suggestions?](https://old.reddit.com/r/geopolitics/comments/u7zona/bachelor_thesis_on_the_russian_invasion_of/), submitted on 2022-04-20 23:55:53+08:00.
+### 233: [A video filmed by russians showing a naked male ukranian POW face down on a medical table being operated on is apparently not "non consensual intimate media" according to the report system.](https://old.reddit.com/r/ModSupport/comments/u7w41k/a_video_filmed_by_russians_showing_a_naked_male/), submitted on 2022-04-20 21:07:31+08:00.
 
------ __233.1__ -----2022-04-21 12:07:36+08:00:
+----- __233.1__ -----2022-04-21 12:17:15+08:00:
+
+The act of recording that video was a war crime and the fact that it's out there in circulation is proof.  There is no world where Reddit's policy against involuntary pornography can be used to justify censoring evidence of Russian war crimes. 
+
+Beyond the obvious, a common sense check is in order.  The concept of "intimate media," while vague, means pornography.  The purpose of the rule was to prevent distribution of certain types of pornography.  If the meaning of that term is so broad, then Pulitzer Prize winning journalism from the Vietnam War would violate it.  Obviously that was not the intention.
+
+### 234: [Bachelor Thesis on the Russian Invasion of Ukraine - Topic Suggestions?](https://old.reddit.com/r/geopolitics/comments/u7zona/bachelor_thesis_on_the_russian_invasion_of/), submitted on 2022-04-20 23:55:53+08:00.
+
+----- __234.1__ -----2022-04-21 12:07:36+08:00:
 
 DM me.  We don't typically allow questions like this, but I'd be happy to point you in the right direction.
 

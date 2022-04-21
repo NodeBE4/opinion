@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-19
+date: 2022-04-21
 from: https://twitter.com/SpeechFreedomCN/status/1516264826787426306
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @中国文字狱事件盘点: 2022-04-18~2022-04-24'
 ### 2: [2022-04-19 12:01:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1516265582156414976)
 
 Guangdong man Liang, who posted over 28 thousand pieces of "politically negative information" on Twitter that "insulted the country and its leaders and its political system", arrested in Sep 2020 and prosecuted 3 months later. The procuretorate sought a 3 year sentence for him.<br><img style="" src="https://pbs.twimg.com/media/FQpt1N_XsAEStwB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQpt2LiXEAo60SL?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQpt3I6WUA428MK?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-04-21 11:10:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1516977659015831552)
+
+贵阳女子赵某，因在推特发布了大量“诽谤中国国家领导人的照片、视频及言论”，于2018年5月被以寻衅滋事罪刑拘，两年后提起公诉。检方建议量刑一年，实际判决未知。<br><img style="" src="https://pbs.twimg.com/media/FQ1iWwOXwAAXM5V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-04-21 11:14:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1516978558278807559)
+
+Guiyang woman Zhao, who posted some “photos, videos and comments that slanderer the state leaders of China” on Twitter, arrested in May 2018 and prosecute 2 years later. The procuratorate sought a 1-year term for her, while the exact sentence she received remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FQ1jLDbXwAAXvzB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
