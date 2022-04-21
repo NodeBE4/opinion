@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -353,7 +353,7 @@ Re @JiangShangrong 我猜想，放也是有条件的，比如让他说出真相�
 
 ### 85: [2022-04-19 23:43:36+08:00 推文](https://twitter.com/HeQinglian/status/1516442399072993283)
 
-RT He Qinglian<br>全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
+全球政治分裂——“三个世界”格局重现<br><br>美欧推行全球化先从经济开始，继之以社会与政治。<br>政治全球化主要藉颜色革命推行，在中俄从未成功，阿拉伯之春与南非彩虹革命则让世界心存疑虑。这次对俄全面经济制裁让经济全球化退回两个大国经济集团+140余个不结盟国家构成的第三世界。 <a href="https://www.epochtimes.com/gb/22/4/19/n13715415.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/19/n13715415.htm</a>
 
 ### 86: [2022-04-19 23:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1516443255017201674)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -590,4 +590,28 @@ Re @pandatress1 @shijie808 在美国，我也不看。奥斯卡奖的影片我�
 ### 144: [2022-04-21 06:52:59+08:00 推文](https://twitter.com/HeQinglian/status/1516912845316935681)
 
 Re @pandatress1 你看看这标题，就知道德国现在有多难了。😂
+
+### 145: [2022-04-21 09:34:25+08:00 推文](https://twitter.com/HeQinglian/status/1516953471165026308)
+
+Re @doudou_186 @fybkr52nwb @suwoluofu123 挺搞笑的，我根本不判断乌俄战争本身。<br>我只判断后果，偏差在哪？请指出。<br>信息源基本据美国主流媒体，造假也是它们承认的。
+
+### 146: [2022-04-21 09:40:49+08:00 推文](https://twitter.com/HeQinglian/status/1516955081903648769)
+
+Re @JianglinLi @doudou_186 @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar CNN前天谈武器下落不明的文章，与Bloomingberg上那篇《民主的军火库消耗殆尽》的文章，都谈到一点：美方对俄方信息掌握得比较准，因比较透明，但对乌军的透明感很差。<br>因此有人告诉你乌军的信息，你还是少信为好。<br>我从不判断军事形势，这人居然说我有偏差，还与那个注册上百个推号的一唱一和。啥人？
+
+### 147: [2022-04-21 09:48:41+08:00 推文](https://twitter.com/HeQinglian/status/1516957059475984384)
+
+Re @pandatress1 @JianglinLi @doudou_186 @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 这是那两篇文章引用美军方情报官员的说法。
+
+### 148: [2022-04-21 09:54:30+08:00 推文](https://twitter.com/HeQinglian/status/1516958524609290242)
+
+Re @JianglinLi @doudou_186 @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 凡乌鸡血，基本都是没有证据的指控。<br>比如我只分析制裁及俄乌战争引起的世界格局变化，那位人之聚却说我判断军事形势——其实我看，也很少转，心里知道情况就行。<br>这人之聚要么没看过我的推文与文章，要么就是领任务时，被这么交待。
+
+### 149: [2022-04-21 09:59:54+08:00 推文](https://twitter.com/HeQinglian/status/1516959884759216129)
+
+Re @pandatress1 @doudou_186 @JianglinLi @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 只要记得当年那位伊拉克宣传部长的故事，就万事OK。
+
+### 150: [2022-04-21 10:05:39+08:00 推文](https://twitter.com/HeQinglian/status/1516961329428504580)
+
+Re @pandatress1 @JianglinLi @doudou_186 @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar Jacques Baud，这位曾参与过乌克兰事务的前瑞士情报官指出，在乌克兰事实上失败之后，“战争必须留给军队，当一方失败时，必须承认。如果要进行抵抗，就必须加以引导和结构化。 但我们正在做的恰恰相反——我们正在推动公民去战斗”，“用别人的血很容易好斗”。 <a href="https://www.sott.net/article/466340-Retired-Swiss-Military-Intelligence-Officer-Is-it-Possible-to-Actually-Know-What-Has-Been-And-is-Going-on-in-Ukraine" target="_blank" rel="noopener noreferrer">https://www.sott.net/article/466340-Retired-Swiss-Military-Intelligence-Officer-Is-it-Possible-to-Actually-Know-What-Has-Been-And-is-Going-on-in-Ukraine</a>
 
