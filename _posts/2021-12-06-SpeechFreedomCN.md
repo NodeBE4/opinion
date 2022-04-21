@@ -25,15 +25,15 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-06~2021-12-12'
 
 ### 3: [2021-12-10 12:43:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469165872279400449)
 
-江西省于都县男子孙某福，因在微信群里称交警为土匪，被处行政拘留。<br><img style="" src="https://pbs.twimg.com/media/FGOGMjDWYAAa1pT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGQ-FWUAEKzFe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGSdWWQAA64x6?format=jpg&name=orig" referrerpolicy="no-referrer">
+江西省于都县男子孙某福，因在微信群里称交警为土匪，被处行政拘留。<br><img style src="https://pbs.twimg.com/media/FGOGMjDWYAAa1pT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGQ-FWUAEKzFe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGSdWWQAA64x6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-10 12:44:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469166062709186564)
 
-Jiangxi man Sun administratively detained for referring to police as bandits in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FGOGmt9WQAIuMk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGoRHWUAkip2w?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGOGp1lWUAU7xr7?format=jpg&name=orig" referrerpolicy="no-referrer">
+Jiangxi man Sun administratively detained for referring to police as bandits in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FGOGmt9WQAIuMk3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGoRHWUAkip2w?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGOGp1lWUAU7xr7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-11 17:15:16+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469596636880019458)
 
-2020年初，湖北利川市人士肖某，在驾车回家途中发现公路被人用车拦住，车上的标识显示这是当地政府的防疫措施。肖某联系该车主（村干部）要求挪车让行，村干部拒绝并让其绕路回家。肖某绕路两小时回家后，越发气愤，便打电话给该村干部对其辱骂长达两分钟。次日，肖某被以寻衅滋事为罪名拘留7日。<br><img style src="https://pbs.twimg.com/media/FGUNK3RWYAEOR63?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGUNNe-XsAIa5xx?format=jpg&name=orig" referrerpolicy="no-referrer">
+2020年初，湖北利川市人士肖某，在驾车回家途中发现公路被人用车拦住，车上的标识显示这是当地政府的防疫措施。肖某联系该车主（村干部）要求挪车让行，村干部拒绝并让其绕路回家。肖某绕路两小时回家后，越发气愤，便打电话给该村干部对其辱骂长达两分钟。次日，肖某被以寻衅滋事为罪名拘留7日。<br><img style="" src="https://pbs.twimg.com/media/FGUNK3RWYAEOR63?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGUNNe-XsAIa5xx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-11 17:24:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469598928555413504)
 

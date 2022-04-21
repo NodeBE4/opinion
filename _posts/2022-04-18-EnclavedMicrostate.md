@@ -59,7 +59,7 @@ Other than as meaning that most of HoloEN had no prior active VTubing experience
 
 ----- __355.3__ -----2022-04-21 12:01:27+08:00:
 
-I mean sure, let's discount >!Senzawa!< then for only very intermittently using a VTuber model, and by that same criterion Ina/!>Nagu, who seems to only have only one known stream with a VTuber model, wouldn't count either.!< But even then, 6 out of 11 members had active VTuber presences before debuting with Hololive:
+I mean sure, let's discount >!Senzawa!< then for only very intermittently using a VTuber model, and by that same criterion Ina/>!Nagu, who seems to only have only one known stream with a VTuber model, wouldn't count either.!< But even then, 6 out of 11 members had active VTuber presences before debuting with Hololive:
 
 * Ame/>!sachiowo was definitely an active VTuber on Twitch.!<
 
