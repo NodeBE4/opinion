@@ -111,3 +111,21 @@ Might be worth crediting the artist, that being *checks notes* uh, Iofi: https:/
 
 I mean, given the Ottoman sultans claimed the title of *Kayser-i-Rum* until the 18th century, you could argue the Roman Empire was still in existence by that stage.
 
+### 361: [Could anyone translate these 2 symbols? Thanks](https://old.reddit.com/r/ChineseTranslation/comments/u8434d/could_anyone_translate_these_2_symbols_thanks/), submitted on 2022-04-21 03:14:48+08:00.
+
+----- __361.1__ -----2022-04-21 22:43:51+08:00:
+
+I'm half wondering if it's some attempt at calquing the phrase 'touch-and-go', but I'm almost certainly wrong.
+
+### 362: [In 1860s, would a city dwellers Han Chinese living in territories still controlled by the Qing dynasty, wearing a traditional long hair tied into top knots, get into trouble either with the law or socially?](https://old.reddit.com/r/AskHistorians/comments/u8pgkr/in_1860s_would_a_city_dwellers_han_chinese_living/), submitted on 2022-04-21 22:54:59+08:00.
+
+----- __362.1__ -----2022-04-21 23:24:40+08:00:
+
+The Qing queue edict was not simply a means of designating those who might be politically untrustworthy; violation of it was a capital crime. If you grew your forehead hair out except for a handful of special dispensations such as being in mourning, then you were publicly declaring yourself an enemy of the state and would be executed with little fanfare. The reason outlaws had no problem growing out their hair was, well, in the name – these were people living outside the law, aware of the consequences of being caught. I discuss the queue edict at greater length in these two past posts:
+
+* [TUESDAY TRIVIA: "A woman who cuts her hair is about to change her life" (Coco Chanel)- why don't you change our lives a bit with some fascinating discussion of the HISTORY OF HAIR!](https://www.reddit.com/r/AskHistorians/comments/hieo21/tuesday_trivia_a_woman_who_cuts_her_hair_is_about/fwh86bf/)
+
+* [Since men were, at one point, required to wear the queue hairstyle in China, at the threat of execution, were aging and balding men executed or otherwise punished for failing to comply?](https://www.reddit.com/r/AskHistorians/comments/mi00dd/since_men_were_at_one_point_required_to_wear_the/gt2bimi/)
+
+As I allude in those posts, the 1860s would, frankly, have been an *especially* bad time to suddenly develop a predilection for Han hairstyles given that several rebellions – many still in progress – had broken out whose participants signified their allegiance by their defiance of the queue edict. Chief among these were the Taiping, whose association with this was so strong they were known to their enemies as *changmao* 長毛 – literally, the 'Long Hairs'. Having the wrong hairstyle in the wrong place would literally get you killed; when travelling from one area of control to the other it was often necessary to shave to enter Qing territory – and often to have to spend time tanning to mask the obvious tanline from having shaved too recently – or to spend time growing one's hair out to enter Taiping lands. Making the wrong choice about one's hair at the wrong time was fatal. Moreover, for the purposes of our hypothetical 1860s nativist, the Qing sometimes offered cash bounties for severed rebel heads, with the size of the bounty scaling with the length of the forehead hair (5 inches being the maximum). If you, a Han man in a Qing-held city in 1860s China, chose to grow your hair out, *you were going to die.*
+
