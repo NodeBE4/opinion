@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-21
+date: 2022-04-22
 from: https://twitter.com/HeQinglian/status/1515730343151742988
 layout: post
 tags:
@@ -321,7 +321,7 @@ Re @zt33268778 最大的可能是贴牌生产。<br>美墨边境会设很多工�
 
 ### 77: [2022-04-19 07:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1516203025672675328)
 
-记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。<br><br>Kim Jong-un: 分享美利坚轶闻一则。<br><br>2012年7月25日，一架美军直升机在利比亚执行任务时被导弹射中，万幸导弹并未爆炸。<br>飞行员迫降后，惊讶地发现这是一枚美军的毒刺导弹。事故调查组根据导弹上的序列号，发现这枚导弹本应由美国中央情报局保管在干里之外的卡塔尔乌代德基地中。<br>那么导弹为何落到恐怖组织手里？<br>
+记得班加西事件发生后，有位在美军服役的熟人告诉我：外交界与军人恨透了希拉里。<br>2016年大选，军人票投了多少给希拉里我不清楚，但我知道300多名美国外交官联名反对川普，说他不适合做总统。2020年，一百多名美国外交官再发公开信反对川普。
 
 ### 78: [2022-04-19 07:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1516204449450151941)
 
@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -662,4 +662,68 @@ Re @pandatress1 这是愿望，广播里表达，”据俄罗斯观察人士消�
 ### 162: [2022-04-21 20:50:38+08:00 推文](https://twitter.com/HeQinglian/status/1517123646149611522)
 
 Re @greenhopewillia @RFI_Cn 除了德国选择党之外，所有的都是建制化了，散兵游勇走不了议会道路。
+
+### 163: [2022-04-21 21:34:12+08:00 推文](https://twitter.com/HeQinglian/status/1517134608969654272)
+
+Re @CIOhygieia 此时此刻，正在购买。
+
+### 164: [2022-04-21 21:36:20+08:00 推文](https://twitter.com/HeQinglian/status/1517135148118122497)
+
+Re @motorheroSyd 如果只是不愿意看，这是他们的自由。但现在的情况不是这样，而是用持续骚扰的方式，强迫别人不看、不转。<br>这是文革 群众专政的模式，中国人很多天生就会。美国左派的政治正确。
+
+### 165: [2022-04-21 21:48:14+08:00 推文](https://twitter.com/HeQinglian/status/1517138142788087808)
+
+Re @david_david1968 在CNN于4月19日发表《武器被送进乌克兰之后的去向，美国真的不知道》之后，基辅政权这个要求，其实是对美欧政府的智商测验题。 <a href="https://edition.cnn.com/2022/04/19/politics/us-weapons-ukraine-intelligence/index.html" target="_blank" rel="noopener noreferrer">https://edition.cnn.com/2022/04/19/politics/us-weapons-ukraine-intelligence/index.html</a>
+
+### 166: [2022-04-21 21:50:48+08:00 推文](https://twitter.com/HeQinglian/status/1517138788782198787)
+
+Re @JianglinLi 想想小拜登没被包装成自立自强、生活习惯十分健康、品学兼优、第一清廉、遵守家庭伦理的美国王子，还得说这班媒体剩下针尖那 么大的一丁点廉耻。😂
+
+### 167: [2022-04-21 22:10:44+08:00 推文](https://twitter.com/HeQinglian/status/1517143803353726977)
+
+Re @JianglinLi @Wu_Zhi 那件事情，BBC也将自己摘清了，说是有人盗用了他们的软件，制作成“BBC的报道”。澄清时间晚了将近两天。<br>你信还是不信，话语权在他们手中。
+
+### 168: [2022-04-21 22:15:21+08:00 推文](https://twitter.com/HeQinglian/status/1517144964081217538)
+
+Re @doudou_186 @JianglinLi @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 难道你不会读？预期基于什么作出，自然是基于乌克兰方面提供的预算，这意思就是：乌克兰没提供真实情况，我们的预期因此不准。<br>你还是较真，找出我对俄乌军事形势判断不准的推文（转推不算），以及文章。<br>然后，别再列出这样的傻瓜级较真吧。<br>谅你从未做过任何真正的预期（基于数据与详细资料）。
+
+### 169: [2022-04-21 22:19:46+08:00 推文](https://twitter.com/HeQinglian/status/1517146077689909248)
+
+Re @doudou_186 @JianglinLi @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 另外还给你一劝告，不要仗着推上乌鸡血这一乌合之众之势，乱搭批评人的便车。这是保持自尊的方式。<br>乌鸡血正在悄悄降调。莫学昨天与你唱和的那位毫无自尊之心的乌鸡血，先后注册百余个推号，拉黑后再来。<br>它或以此为职业，反正一无业青年，是男是女是X不知。
+
+### 170: [2022-04-21 22:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1517147447553789953)
+
+Re @zwvrhwmjgx @pandatress1 你还有一丁点自尊心吗？<br>为什么不用Stand With Ukraine与三色块了？怕丢脸？😂<br>今天我心情好，成全你赚一瓶矿泉水钱。没几天好挣了，找个正经职业。
+
+### 171: [2022-04-21 22:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1517151090420051968)
+
+我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。<br><br>zhix: @JianglinLi @dongle_smith @HeQinglian 还会让更多无辜的人去送死😂<br>
+
+### 172: [2022-04-21 23:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1517157642434662406)
+
+Re @grizzlypooh2 你们这些左棍通常就会这一套，人家讲A，你就讲B。<br>现在讲的是美政府要通过乌克兰战场削弱俄罗斯，直至战斗至最后一个乌克兰人，你就讲川普出售标枪<br>1、你如果认为讲真相是污蔑你家拜登，就直接说是华邮造谣，我转发就是立场问题<br>2、我转发的美国专家分析，都承认从2014年奥巴马政府开始介入乌克兰事务
+
+### 173: [2022-04-21 23:06:47+08:00 推文](https://twitter.com/HeQinglian/status/1517157909465120768)
+
+Re @Wu_Zhi 华邮不是俄罗斯报纸，这点他们总该清楚。
+
+### 174: [2022-04-21 23:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1517158920544006145)
+
+Re @doudou_186 @JianglinLi @fybkr52nwb @suwoluofu123 @War_Mapper @TheStudyofWar 走好不送。<br>忽视CNN明言乌军信息不透明，找出这篇强辩。<br>学会一点基本常识，预期依靠什么做出，闹腾一次有点长进，也算没白闹腾。<br>其实，都是你们厚着脸皮来我这，然后闹腾得丢脸，又说没有意思在这玩了，谁请你们了？<br>乌鸡血最好去别处，反正与当年郭粉是一类人。
+
+### 175: [2022-04-21 23:29:25+08:00 推文](https://twitter.com/HeQinglian/status/1517163603970961412)
+
+Re 华邮这篇文章标题原来 是：<br>Biden Administration Is Studying How to Fight to the Last Ukrainian If Moscow Overruns Them <br><br>文末说得很清楚，转自华邮。 <a href="https://anti-empire.com/biden-administration-is-studying-how-to-fight-to-the-last-ukrainian-if-moscow-overruns-them/" target="_blank" rel="noopener noreferrer">https://anti-empire.com/biden-administration-is-studying-how-to-fight-to-the-last-ukrainian-if-moscow-overruns-them/</a>
+
+### 176: [2022-04-21 23:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1517166143915573249)
+
+Re @grizzlypooh2 明白了。其实，我贴这条信息，是想说明，美国所有援乌计划，都在俄乌战争发生前就有了预案。
+
+### 177: [2022-04-22 00:27:36+08:00 推文](https://twitter.com/HeQinglian/status/1517178248773390337)
+
+Re @AlexYu_H @Alexjandro990 并不容易，是个供应链问题。<br>不少企业说了，准备工作要很长，而且还有个上下游企业是否一道撤的问题。这在美中商会与美欧商会的报告中就可看到。<br>最主要的是撤离过程中，还会有许多政治因素，比如国际局势、美中关系之类的变数。
+
+### 178: [2022-04-22 00:30:30+08:00 推文](https://twitter.com/HeQinglian/status/1517178977537990656)
+
+Re @dongle_smith @JianglinLi @Wu_Zhi 这个问题不是这样看的。<br>根据我的研究，目前所有的假信息是延长战争，无助于减少流血，也无助于地面战争的失败一方。<br>这也就是为什么美国官方不断承认自己造了假信息的原因，他们考虑的就是有无效果。
 
