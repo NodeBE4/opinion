@@ -75,3 +75,36 @@ But the spectacle around a war’s end can be misleading. The Confederate surren
 In the Russian war in Ukraine, there may not be a discrete moment marking the war’s end—at least, not for some time. After eight weeks of war—far longer, seemingly, than either side anticipated—it is a real possibility that neither country will achieve what it wishes to achieve. Ukraine may not be able to expel Russian forces fully from the territory they have taken since Moscow launched its invasion in February. Russia is likely unable to achieve its main political objective: control over Ukraine. Instead of reaching a definite resolution, the war may well usher in a new era of conflict characterized by a cycle of Russian wars in Ukraine. If the war does not end any time soon, the crucial question is: Whose side is time on?"  
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 220: [The Return of Statecraft: Back to Basics in the Post-American World](https://old.reddit.com/r/geopolitics/comments/u8nqc8/the_return_of_statecraft_back_to_basics_in_the/), submitted on 2022-04-21 21:31:17+08:00.
+
+----- __220.1__ -----2022-04-21 21:32:52+08:00:
+
+\[SS from the article by Eliot A. Cohen, Professor at the Johns Hopkins University School of Advanced International Studies\]
+
+"For the foreseeable future, the United States will remain powerful. Although China’s rise means that it may not have the world’s largest economy forever, it will certainly have the second-largest and possibly the most dynamic and globally connected one. It has one of the biggest and most experienced militaries on the planet, along with plentiful allies. Above all, the United States has a demonstrated resilience going back to its founding. It has been rent before, suffered grievous economic setbacks, and, time and again, bounced back.  
+
+
+Nonetheless, relative decline is a fact. Historians will dissect why the age of American dominance ended when it did and whether its disappearance might have been delayed or mitigated. The question now, however, is how the United States should adjust to its changing position. The response will have many elements, but the most important is attitudinal. After decades of relying on big strategic ideas that are translated into policy by complex and arduous bureaucratic processes, the U.S. government must return to statecraft. This means an approach that embodies a fine-grained comprehension of the world, the ability to quickly detect and respond to challenges, a penchant for exploiting opportunities as they arise, and, behind all of this, effective institutions for the formulation and conduct of a nimble foreign policy.  
+
+
+In the previous era, the United States was strong enough to get away with less-than-perfect implementation of its big ideas. Its unrivaled power granted it a wide margin of error, enough space so that Washington could get most of what it wanted, no matter what its level of competence. Today, when it is much harder for Washington to call the shots, the problems it faces demand not more abstruse strategies. They require something far earthier: skill."
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 221: [The Chinese Way of Innovation: What Washington Can Learn From Beijing About Investing in Tech](https://old.reddit.com/r/China/comments/u8ntfr/the_chinese_way_of_innovation_what_washington_can/), submitted on 2022-04-21 21:35:35+08:00.
+
+----- __221.1__ -----2022-04-21 21:35:48+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 222: [The Chinese Way of Innovation: What Washington Can Learn From Beijing About Investing in Tech](https://old.reddit.com/r/TrueReddit/comments/u8nxsk/the_chinese_way_of_innovation_what_washington_can/), submitted on 2022-04-21 21:41:22+08:00.
+
+----- __222.1__ -----2022-04-21 21:42:48+08:00:
+
+\[SS from the article by Matt Sheehan, Fellow at the Carnegie Endowment for International Peace\]
+
+"Over the past several years any complacency over U.S. technological superiority has evaporated. Business columns explaining China’s seeming inability to innovate have given way to op-eds warning that it is poised to surpass the United States in strategic technologies such as artificial intelligence and 5G. Policymakers in Washington who had long been content to leave technology up to Silicon Valley are now racing to find ways to bolster U.S. technological capabilities and counter Chinese progress. But making effective technology policy requires a clear understanding of how both countries got here, and what that means going forward.  
+
+
+Traditional explanations for China's rise have focused heavily on the stealing of intellectual property. Although that has played a role, allowing Chinese manufacturers to crank out imitations of specific products, it is overly simplistic to imagine that intellectual property theft alone explains China’s rapid progress. In fact, that misconception deludes American policymakers into believing that all that is required to preserve the United States’ technological edge is to cut off China’s access to emerging technologies. The roots of China's technological takeoff are more complex, and formulating an effective U.S. policy response requires a solid grasp of emerging technologies and a degree of projective empathy—understanding how an ambitious Chinese bureaucrat is likely to view innovation and the range of tools available for encouraging it."
+
