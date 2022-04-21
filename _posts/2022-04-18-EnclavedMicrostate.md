@@ -57,6 +57,24 @@ I'm not sure how I was to interpret
 
 Other than as meaning that most of HoloEN had no prior active VTubing experience.
 
+----- __355.3__ -----2022-04-21 12:01:27+08:00:
+
+I mean sure, let's discount >!Senzawa!< then for only very intermittently using a VTuber model, and by that same criterion Ina/!>Nagu, who seems to only have only one known stream with a VTuber model, wouldn't count either.!< But even then, 6 out of 11 members had active VTuber presences before debuting with Hololive:
+
+* Ame/>!sachiowo was definitely an active VTuber on Twitch.!<
+
+* IRyS/>!namirin debuted a VTuber model in February 2021 and streamed relatively frequently with it, although she's wiped most of them besides her debut and hiatus announcement streams. Granted, VSinger auditions had closed by this point, so technically she wasn't a VTuber at the time she auditioned, but we also don't know when she was formally hired.!<
+
+* Fauna/>!LemonLeaf was an active VTuber on Twitch, beginning in May 2020 with a redebut in February 2021.!<
+
+* Mumei/>!Shachimu debuted her VTuber model in February 2021 and there are plenty of clips of that.!<
+
+* Kronii/>!Seru Kisen was actively part of a small agency, Virtuality Project, having debuted in March 2021.!<
+
+* Bae we're both on the same page on already.
+
+I'll grant that a lot of them had only recently started VTubing at the time of auditioning – or indeed started during the wait period between auditions and confirmation – but still, over 50% had been active as VTubers for some months before debuting under HoloEN.
+
 ### 356: [[Noel] Danchou has defeated Malenia! In A Cave! With a Pair of Clubs!](https://old.reddit.com/r/Hololive/comments/u74hq2/noel_danchou_has_defeated_malenia_in_a_cave_with/), submitted on 2022-04-19 20:54:47+08:00.
 
 ----- __356.1__ -----2022-04-19 20:57:04+08:00:
