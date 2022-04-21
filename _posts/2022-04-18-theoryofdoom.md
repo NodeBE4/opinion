@@ -155,6 +155,12 @@ For example, a systematic review attempts to identify, appraise and synthesize a
 
 A Cochrane Review is a systematic review of research in health care and health policy that is published in the Cochrane Database of Systematic Reviews.  If you report a [Cochrane Review](https://www.cochrane.org/evidence), one of which I have cited above, as "misinformation," you foreclose any prospect that your opinions on any medical or health related issue can be taken seriously.
 
+----- __228.12__ -----2022-04-22 04:23:48+08:00:
+
+> CTA
+
+Source?  I'm not sure I got that memo?
+
 ### 229: [TSA will no longer enforce mask mandate after a federal judge strikes it down](https://old.reddit.com/r/CoronavirusIllinois/comments/u6t58f/tsa_will_no_longer_enforce_mask_mandate_after_a/), submitted on 2022-04-19 09:28:21+08:00.
 
 ----- __229.1__ -----2022-04-19 19:58:52+08:00:
