@@ -41,6 +41,10 @@ Thank you! This perhaps goes a little beyond the immediate scope of the original
 
 I'd presume Miori still owns her character IP given she bought it off MyHolo when she graduated, so she definitely can continue as an indie if Tsunderia does fall through. I'm not entirely sure on Holo tbh, partly because she did apparently drop quite a bit of money on being able to continue using the Miori Celesta assets, and partly because one of her MyHolo genmates is also there now and I feel there's a possibility that that might prove to be an issue, either from her end or from Cover's. Cover hasn't necessarily avoided overt 'nepotism hires' as such (IIRC all three of Gamers were just friends of Fubuki who got in purely by invitation) but management seems to actively try to avoid reuniting past lives as such – most notably, Omaru Polka has never collabed with Tamaki (context with 'forbidden knowledge': >!Polka's talent is a good friend of Norio Tsukudani's and some of her last streams as Oda Nobuhime at upd8 were with Tamaki.!<) And I don't know how tenable it would be to end up with two former genmates from the same agency in separate gens and either having to interact with a different dynamic or even not at all.
 
+----- __354.2__ -----2022-04-22 02:23:50+08:00:
+
+...Is it possible she's just writing a novel though?
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
@@ -117,9 +121,15 @@ I mean, given the Ottoman sultans claimed the title of *Kayser-i-Rum* until the 
 
 I'm half wondering if it's some attempt at calquing the phrase 'touch-and-go', but I'm almost certainly wrong.
 
-### 362: [In 1860s, would a city dwellers Han Chinese living in territories still controlled by the Qing dynasty, wearing a traditional long hair tied into top knots, get into trouble either with the law or socially?](https://old.reddit.com/r/AskHistorians/comments/u8pgkr/in_1860s_would_a_city_dwellers_han_chinese_living/), submitted on 2022-04-21 22:54:59+08:00.
+### 362: [BaeRyS shippers do be winning once again](https://old.reddit.com/r/Hololive/comments/u8mmz8/baerys_shippers_do_be_winning_once_again/), submitted on 2022-04-21 20:36:05+08:00.
 
------ __362.1__ -----2022-04-21 23:24:40+08:00:
+----- __362.1__ -----2022-04-22 02:17:11+08:00:
+
+NoeFure is definitely serious – to quote Noel, ['with Flare, it's, well... *kiss noises*'](https://youtu.be/4TaTV1EQ2Zs?t=482).
+
+### 363: [In 1860s, would a city dwellers Han Chinese living in territories still controlled by the Qing dynasty, wearing a traditional long hair tied into top knots, get into trouble either with the law or socially?](https://old.reddit.com/r/AskHistorians/comments/u8pgkr/in_1860s_would_a_city_dwellers_han_chinese_living/), submitted on 2022-04-21 22:54:59+08:00.
+
+----- __363.1__ -----2022-04-21 23:24:40+08:00:
 
 The Qing queue edict was not simply a means of designating those who might be politically untrustworthy; violation of it was a capital crime. If you grew your forehead hair out except for a handful of special dispensations such as being in mourning, then you were publicly declaring yourself an enemy of the state and would be executed with little fanfare. The reason outlaws had no problem growing out their hair was, well, in the name – these were people living outside the law, aware of the consequences of being caught. I discuss the queue edict at greater length in these two past posts:
 
