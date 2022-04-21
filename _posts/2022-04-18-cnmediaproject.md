@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-20
+date: 2022-04-21
 from: https://twitter.com/WendyZhou502/status/1515766307303702530
 layout: post
 tags:
@@ -74,4 +74,12 @@ Anchoring Party Dominance: Gathering at a symposium in Beijing this week, televi
 ### 15: [2022-04-20 21:03:35+08:00 推文](https://twitter.com/jmchatwin/status/1516764514678718471)
 
 RT Jonathan Chatwin<br>One of the refrains of Deng Xiaoping's speeches from the 1980s is that 'common prosperity' is the desired goal in allowing some areas to get rich. A lot of coverage of the use of the phrase by Xi misses its history - great piece here by @cnmediaproject <a href="https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/</a>
+
+### 16: [2022-04-21 17:02:55+08:00 推文](https://twitter.com/AlexDukalskis/status/1517066337910145034)
+
+RT Alex Dukalskis<br>The people pointing out that growing vegetables is a noble pursuit are missing the point. The prof was almost certainly forced to or else face ritual public humiliation, beatings, threats to his family, and perhaps death.<br><br>A few books about the Cultural Revolution in next tweet.<br><br>Alex Dukalskis: I had not heard this anecdote from Deng Xiaoping's 1979 visit to the United States.<br><br><img style="" src="https://pbs.twimg.com/media/FQYnCkrWUAA4L0V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-04-21 23:27:27+08:00 推文](https://twitter.com/adschina/status/1517163110750171137)
+
+RT Adam Segal<br>China's cloud security market is still in its infancy  <br><br><br>Qi Xiangdong, chairman of Qi Anxin: Chinese enterprises have not used cloud services deeply, so the cloud security market has not developed as well as developed countries... <a href="https://www.caixin.com/2022-04-20/101873366.html" target="_blank" rel="noopener noreferrer">https://www.caixin.com/2022-04-20/101873366.html</a>
 
