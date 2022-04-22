@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-21
+date: 2022-04-22
 from: https://twitter.com/WendyZhou502/status/1515766307303702530
 layout: post
 tags:
@@ -86,4 +86,8 @@ RT Bill Bishop<br>Shanghai to keep COVID curbs as infections outside quarantin
 ### 18: [2022-04-21 23:27:27+08:00 推文](https://twitter.com/adschina/status/1517163110750171137)
 
 RT Adam Segal<br>China's cloud security market is still in its infancy  <br><br><br>Qi Xiangdong, chairman of Qi Anxin: Chinese enterprises have not used cloud services deeply, so the cloud security market has not developed as well as developed countries... <a href="https://www.caixin.com/2022-04-20/101873366.html" target="_blank" rel="noopener noreferrer">https://www.caixin.com/2022-04-20/101873366.html</a>
+
+### 19: [2022-04-22 19:44:50+08:00 推文](https://twitter.com/cnmediaproject/status/1517469472667611137)
+
+As the CCP's 20th National Congress draws near, a new catchphrase emerges to talk about the Party’s glorious leader. We give you Xi Jinping, “pilot of the great revival” (伟大复兴领航人). <a href="https://chinamediaproject.org/2022/04/22/pilot-of-the-great-revival/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/22/pilot-of-the-great-revival/</a><br><img style="" src="https://pbs.twimg.com/media/FQ8ibTWakAAUEjL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
