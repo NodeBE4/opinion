@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-20
+date: 2022-04-22
 from: https://old.reddit.com/r/geopolitics/comments/u6bned/nato_cyber_game_tests_defenses_amid_war_in_ukraine/
 layout: post
 tags:
@@ -228,4 +228,10 @@ Beyond the obvious, a common sense check is in order.  The concept of "intimate 
 ----- __234.1__ -----2022-04-21 12:07:36+08:00:
 
 DM me.  We don't typically allow questions like this, but I'd be happy to point you in the right direction.
+
+### 235: [Former cult leader and sexual predator now running children’s daycare, who can I contact?](https://old.reddit.com/r/crime/comments/u9017o/former_cult_leader_and_sexual_predator_now/), submitted on 2022-04-22 07:02:52+08:00.
+
+----- __235.1__ -----2022-04-22 20:59:37+08:00:
+
+Obviously, contact local law enforcement.
 
