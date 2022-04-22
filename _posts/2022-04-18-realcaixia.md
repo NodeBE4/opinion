@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -57,7 +57,7 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 11: [2022-04-18 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1515872221230682116)
 
-真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。
+真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。<br><br>Luo Shengchun丁家喜律师妻子: #纽约人权活动之旅 前天驱车来到纽约市参加由非政府机构中国人权（HRIC）@hrichina 举办的法律程序国际标准有关的培训，结识了一批年轻活动者和律师，并一起学习探讨中国政府制定及执行法律时与国际标准的距离，受益非浅！培训结束与全程参与培训的中国人权执行主任，法学荣誉退休教授谭女士合影留念。<br><br><img style="" src="https://pbs.twimg.com/media/FQgdB4xXoAccxMK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQgdB4wWQAs4HiU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
@@ -77,7 +77,7 @@ Re @21KsJZBSV3yPD9w @YouTub 李锐的《庐山会议实录》、杨继绳的《�
 
 ### 16: [2022-04-18 22:58:17+08:00 推文](https://twitter.com/realcaixia/status/1516068606408278016)
 
-说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。
+说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。<br><br>韩连潮: 【李总理，你应当去上海！】有人把清零和共存说成两条路线斗争、内斗、制度和文明之争, 动辄上纲上线、戴帽子打棍子，说明野心家别有用心；李克强总理作为抗疫领导小组组长应当前往上海亲临一线坐镇主场，这是你的基本职责。领导不是神仙，科学也会出错，亲临其境才知道民众的困苦，找到应对方案。<br><br><img style="" src="https://pbs.twimg.com/media/FQoJIMTX0AE-Qkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2022-04-18 23:20:53+08:00 推文](https://twitter.com/realcaixia/status/1516074293133602820)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -109,7 +109,7 @@ Re @yangjianli001 哈哈！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
-💔😭<br><br>变态辣椒RebelPepper: 上海一保姆講述她照顧的一位老太太因為封城隔離無法及時照顧，被活活餓死，老太太死之前保姆最後一次有機會去看她的時候已經餓到在吃屎<br><br><video src="https://video.twimg.com/ext_tw_video/1516146424903258125/pu/vid/540x952/YX2YY61UDRAdheMV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516146424903258125/pu/img/D2eJR8-ro5daj1ha.jpg"></video>
+💔😭
 
 ### 25: [2022-04-20 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1516500100159258631)
 
@@ -133,7 +133,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 30: [2022-04-22 08:16:20+08:00 推文](https://twitter.com/realcaixia/status/1517296205520416769)
 
-这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。
+这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。<br><br>苗也: 剥削来自权力，而非资本<br>马斯克能说出这话，不愧是首富<br><br><img style="" src="https://pbs.twimg.com/media/FQr9_xOXMAQf9de?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
@@ -166,4 +166,12 @@ Re @henry50383806 @lianchaohan 一直挖下去！让真相大白于天下！
 ### 38: [2022-04-23 00:44:52+08:00 推文](https://twitter.com/realcaixia/status/1517544978972614657)
 
 Re 文章充满悲愤但不止于悲愤！<br>我的推特引言第三段文字有误，是“ 不止于”而绝不是“不至于”。因为写时匆忙，点击时成“不至于”。特别申明，特此纠正。请推友谅解。
+
+### 39: [2022-04-23 01:21:36+08:00 推文](https://twitter.com/realcaixia/status/1517554225403744256)
+
+站起来，做自己的拯救者！一位上海居民震撼人心的呼声！<br>为维护作为人的尊严，为把握人们生存与生活的自主控制力，这位上海居民呼吁“公民不服从”！<br>现在有不少上海人拒绝强制检测核算；拒绝强制拉去方舱；拒绝铁丝网禁足；拒绝各种强权侵犯人权！上海市民正在成为上海公民！ <a href="https://youtube.com/watch?v=qx8MSqUM2BQ&amp;feature=share" target="_blank" rel="noopener noreferrer">https://youtube.com/watch?v=qx8MSqUM2BQ&amp;feature=share</a>
+
+### 40: [2022-04-23 01:25:10+08:00 推文](https://twitter.com/realcaixia/status/1517555120443035648)
+
+一位上海居民：站起来，做自己的拯救者！ - YouTube <a href="https://m.youtube.com/watch?v=qx8MSqUM2BQ" target="_blank" rel="noopener noreferrer">https://m.youtube.com/watch?v=qx8MSqUM2BQ</a>
 
