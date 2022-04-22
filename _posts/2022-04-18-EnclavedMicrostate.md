@@ -45,6 +45,14 @@ I'd presume Miori still owns her character IP given she bought it off MyHolo whe
 
 ...Is it possible she's just writing a novel though?
 
+----- __354.3__ -----2022-04-22 18:28:58+08:00:
+
+I'd like to concur with the other comments so far in that I'm not sure the magic was ever in collabs outside the agency, and I'd also concur with /u/Seijass that there are also some corporate reputations on the line. There are comments on the linked clip about Cover wanting to protect its own brand, which is true enough, but there's also another elephant in the room: no VTuber company has done quite as much as Cover to burn its bridges in China. Now, that doesn't apply as strongly for indies that might want to collab, or for Western agencies like VShojo, but for most JP agencies, collabs with HoloPro become a bit of a double-edged sword, especially for other agencies with a significant hand in the Chinese market. This is especially true for Nijisanji: whereas HoloCN was always a small side project for Cover, a quarter of Anycolor's talents are part of its Chinese arm, VirtuaReal. That's at least 50 people (not counting staff) whose livelihoods and public images rest on Anycolor not becoming *persona non grata* on the Chinese internet the way Cover did back in 2020. A collab here and there is normal and understandable; but regular collabs may be taken by enough angry nationalists as enough of an intimation of collusion that it could cause a cascading PR nightmare.
+
+----- __354.4__ -----2022-04-22 18:36:06+08:00:
+
+Also [Zeta playing Valorant at 21:30](https://www.youtube.com/watch?v=rIjsfylR6Sk)!
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
