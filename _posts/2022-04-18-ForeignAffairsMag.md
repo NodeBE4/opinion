@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-21
+date: 2022-04-22
 from: https://old.reddit.com/r/UkrainianConflict/comments/u6edtc/russians_at_war_putins_aggression_has_turned_a/
 layout: post
 tags:
@@ -107,4 +107,16 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 
 Traditional explanations for China's rise have focused heavily on the stealing of intellectual property. Although that has played a role, allowing Chinese manufacturers to crank out imitations of specific products, it is overly simplistic to imagine that intellectual property theft alone explains China’s rapid progress. In fact, that misconception deludes American policymakers into believing that all that is required to preserve the United States’ technological edge is to cut off China’s access to emerging technologies. The roots of China's technological takeoff are more complex, and formulating an effective U.S. policy response requires a solid grasp of emerging technologies and a degree of projective empathy—understanding how an ambitious Chinese bureaucrat is likely to view innovation and the range of tools available for encouraging it."
+
+### 223: [Ukraine Can Win: The Case Against Compromise](https://old.reddit.com/r/UkrainianConflict/comments/u9fkfj/ukraine_can_win_the_case_against_compromise/), submitted on 2022-04-22 22:09:20+08:00.
+
+----- __223.1__ -----2022-04-22 22:11:24+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 224: [Ukraine Can Win: The Case Against Compromise](https://old.reddit.com/r/RussiaUkraineWar2022/comments/u9fkx4/ukraine_can_win_the_case_against_compromise/), submitted on 2022-04-22 22:09:57+08:00.
+
+----- __224.1__ -----2022-04-22 22:10:53+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
