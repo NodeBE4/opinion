@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
@@ -545,7 +545,7 @@ Re @JianglinLi @Jason_2018 @RFI_Cn 拉黑这人，我立刻做。
 
 ### 133: [2022-04-20 23:30:03+08:00 推文](https://twitter.com/HeQinglian/status/1516801376969531397)
 
-2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br><br>He Qinglian: 拜登政府启动学生贷款审查，称将取消40,000名借款人的债务<br>教育部周二称这将纠正过去拒绝 360 万借款人免除学生贷款的错误，并将导致大约 40,000 名借款人的债务立即取消。<br>别小看这4万票，精准投放在某些选区，定会赢得选举。360万是个大票仓。<br> <a href="https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines" target="_blank" rel="noopener noreferrer">https://www.marketwatch.com/story/biden-administration-launches-student-loan-review-says-40-000-borrowers-will-see-debt-canceled-11650391220?mod=mw_more_headlines</a>
+2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备…… <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a>
 
 ### 134: [2022-04-20 23:33:50+08:00 推文](https://twitter.com/HeQinglian/status/1516802326861914122)
 
@@ -858,4 +858,40 @@ Re @Wu_Zhi 还有一大帮生活在不用为乌克兰支付代理人费用的国
 ### 211: [2022-04-23 01:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1517550065660878851)
 
 拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升<br><br>He Qinglian: 2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br> <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a> <a href="https://twitter.com/HeQinglian/status/1516780090457301008" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1516780090457301008</a>
+
+### 212: [2022-04-23 02:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1517577686033518594)
+
+Re @chinayvan @Wu_Zhi 了解你这次立场不同。也理解。<br>不用一二十年。1、现在的人是青蛙脑，几秒钟记忆。这是郭事件的经验。2、现在间接参战方欧盟就在规避制裁；3、乌克兰总统泽连斯基接受经济学人采访时，自己也承认是代理人战争，既然是代理人战争，去查一下历史上对代理人战争的评价就知道了。
+
+### 213: [2022-04-23 03:10:39+08:00 推文](https://twitter.com/HeQinglian/status/1517581668181282817)
+
+Re @HappyR38066185 它怎样努力都行，反正人家现在是世界上最强大国家的一号人物。<br>最好就在本国折腾，别再找个地儿演练就成——如果有地儿愿意，也是自个儿找的。到现在还将这个政府当作灯塔的继承者，是眼睛瞎了。
+
+### 214: [2022-04-23 03:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1517584091415207938)
+
+Re @schwabishbaueri OMG，多天不见你发言，今天一鸣惊人。<br>一、华盛顿将与俄罗斯战斗至最后一个乌克兰人——与你当初的决心相同；<br>二、能否告诉我，欧盟国家为什么当初拒绝用卢布支付？你懂的道理他们为什么不懂？<br>三、你真明白内中的差异么？
+
+### 215: [2022-04-23 03:26:03+08:00 推文](https://twitter.com/HeQinglian/status/1517585541579083776)
+
+Re @franktianxie 其实，是泽连斯基背后的华盛顿接受什么样的协议。<br>决定泽连斯基政府接受什么样的协议，不是布鲁塞尔，而是华盛顿。<br>今后每月50亿美元的资助、还有战后重建费用，都得指靠着美国出大头（90%以上）。
+
+### 216: [2022-04-23 03:26:53+08:00 推文](https://twitter.com/HeQinglian/status/1517585751953010691)
+
+Re @maga_kureea 一个月就需要50亿，8亿只够塞牙缝。
+
+### 217: [2022-04-23 03:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1517586641094860800)
+
+Re @jinfd1980 我译的是标题，链接给了你，自己看。<br>赖在我园子里干什么？乌鸡血看了恶心。
+
+### 218: [2022-04-23 03:34:57+08:00 推文](https://twitter.com/HeQinglian/status/1517587783124193281)
+
+Re @HelloTommy2015 你本来就没名声，换个推号再来。重新开张。<br>我这里怎么每天还在涨Fo？尽管拉黑不少。
+
+### 219: [2022-04-23 03:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1517593055720873984)
+
+欧盟经济专员Paolo Gentiloni21日在彼得森研究所会议上表示，乌战预示全球化的终结，“战争及其后果——包括欧美对俄几轮制裁——正在加剧对已紧张的全球供应链的压力，”除了应对气候变化和使经济适应数字时代的本已庞大的支出压力之外，此次入侵还迫使欧盟 27 国大幅增加国防支出。 <a href="https://www.reuters.com/world/ukraine-war-shows-end-globalisation-we-know-it-eus-gentiloni-2022-04-21/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/ukraine-war-shows-end-globalisation-we-know-it-eus-gentiloni-2022-04-21/</a>
+
+### 220: [2022-04-23 03:56:19+08:00 推文](https://twitter.com/Awaken168/status/1517593160813318144)
+
+RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!<br><br>nikola  tesla prvi: 🔥⚡Телевизијска мрежа Раша тудеј емитовала је вест о цурењу 2000 докумената који доказују одговорност Џорџа Сороша и Отвореног друштва у манипулацији изборима у земљама широм Европе!!!<br><br><video src="https://video.twimg.com/ext_tw_video/1517535973395025920/pu/vid/432x304/OcOf_8CH8iIU8ogS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517535973395025920/pu/img/ciYjsBp4DeS5kcy9.jpg"></video>
 
