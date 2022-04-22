@@ -79,7 +79,11 @@ RT Jonathan Chatwin<br>One of the refrains of Deng Xiaoping's speeches from th
 
 RT Alex Dukalskis<br>The people pointing out that growing vegetables is a noble pursuit are missing the point. The prof was almost certainly forced to or else face ritual public humiliation, beatings, threats to his family, and perhaps death.<br><br>A few books about the Cultural Revolution in next tweet.<br><br>Alex Dukalskis: I had not heard this anecdote from Deng Xiaoping's 1979 visit to the United States.<br><br><img style="" src="https://pbs.twimg.com/media/FQYnCkrWUAA4L0V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 17: [2022-04-21 23:27:27+08:00 推文](https://twitter.com/adschina/status/1517163110750171137)
+### 17: [2022-04-21 19:54:55+08:00 推文](https://twitter.com/niubi/status/1517109621839773698)
+
+RT Bill Bishop<br>Shanghai to keep COVID curbs as infections outside quarantine rise again <a href="https://www.reuters.com/world/china/shanghai-keep-covid-curbs-infections-outside-quarantine-rise-again-2022-04-21/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china/shanghai-keep-covid-curbs-infections-outside-quarantine-rise-again-2022-04-21/</a>
+
+### 18: [2022-04-21 23:27:27+08:00 推文](https://twitter.com/adschina/status/1517163110750171137)
 
 RT Adam Segal<br>China's cloud security market is still in its infancy  <br><br><br>Qi Xiangdong, chairman of Qi Anxin: Chinese enterprises have not used cloud services deeply, so the cloud security market has not developed as well as developed countries... <a href="https://www.caixin.com/2022-04-20/101873366.html" target="_blank" rel="noopener noreferrer">https://www.caixin.com/2022-04-20/101873366.html</a>
 
