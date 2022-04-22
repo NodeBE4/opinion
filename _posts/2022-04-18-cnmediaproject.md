@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-22
+date: 2022-04-23
 from: https://twitter.com/WendyZhou502/status/1515766307303702530
 layout: post
 tags:
@@ -90,4 +90,28 @@ RT Adam Segal<br>China's cloud security market is still in its infancy  <br><b
 ### 19: [2022-04-22 19:44:50+08:00 推文](https://twitter.com/cnmediaproject/status/1517469472667611137)
 
 As the CCP's 20th National Congress draws near, a new catchphrase emerges to talk about the Party’s glorious leader. We give you Xi Jinping, “pilot of the great revival” (伟大复兴领航人). <a href="https://chinamediaproject.org/2022/04/22/pilot-of-the-great-revival/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/22/pilot-of-the-great-revival/</a><br><img style="" src="https://pbs.twimg.com/media/FQ8ibTWakAAUEjL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-04-22 20:49:47+08:00 推文](https://twitter.com/niubi/status/1517485818574737410)
+
+RT Bill Bishop<br>Guangxi Party delegates elect Xi Jinping as a delegate to the 20th Party Congress. Unanimous, 666 votes. 中国共产党广西壮族自治区代表会议召开 习近平以全票当选党的二十大代表 <a href="http://news.gxnews.com.cn/staticpages/20220422/newgx626291a7-20724562.shtml" target="_blank" rel="noopener noreferrer">http://news.gxnews.com.cn/staticpages/20220422/newgx626291a7-20724562.shtml</a>
+
+### 21: [2022-04-23 00:01:51+08:00 推文](https://twitter.com/ChuYang_Journ/status/1517534155260809216)
+
+RT Chu Yang<br>"The Sound of April", a short documentary presenting the soundbites during Shanghai's lockdown is being censored on Chinese social media, video accounts and Internet users collectively participate in saving and distributing videos as a form of protest against censorship.<br><img style="" src="https://pbs.twimg.com/media/FQ9Z9W3WUAAN_cE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-04-23 00:14:09+08:00 推文](https://twitter.com/ChuYang_Journ/status/1517537251194032130)
+
+RT Chu Yang<br>Re Last time an online collective action of this scale took place in March 2020 when the article "The person who sent out the whistle", story of one of the first doctors who encounter patients infected with covid-19, was censored. Creative &amp; beautiful artworks!<br><img style="" src="https://pbs.twimg.com/media/FQ9eGLrXwAAyBu-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQ9eNi2X0AAi7oR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-04-23 02:35:33+08:00 推文](https://twitter.com/manyapan/status/1517572832888303616)
+
+RT Manya Koetse<br>'Voices of April' is the biggest topic in China's Covid social media era since the death of Dr. Li Wenliang.  Read: <a href="https://www.whatsonweibo.com/the-voices-of-april-the-short-online-life-of-a-shanghai-protest-video/" target="_blank" rel="noopener noreferrer">https://www.whatsonweibo.com/the-voices-of-april-the-short-online-life-of-a-shanghai-protest-video/</a><br><img style="" src="https://pbs.twimg.com/media/FQ-AUtqXsAQ_XMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-04-23 04:49:51+08:00 推文](https://twitter.com/alexludoboyd/status/1517606631294607360)
+
+RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video<br><br>Bill Bishop: <br><br><img style="" src="https://pbs.twimg.com/media/FQ-dehgX0AAm4iL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-04-23 04:51:09+08:00 推文](https://twitter.com/alexludoboyd/status/1517606957921755142)
+
+RT Alexander Boyd<br>Trending on WeChat now. <br><br>the 2021 song "April is a Good Month for Lying" <a href="https://www.youtube.com/watch?v=ILOdvywgUrE" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=ILOdvywgUrE</a>
 
