@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-21
+date: 2022-04-22
 from: https://old.reddit.com/r/AskHistorians/comments/u5ws80/how_tall_were_the_tallest_sailing_ships/
 layout: post
 tags:
@@ -138,4 +138,36 @@ The Qing queue edict was not simply a means of designating those who might be po
 * [Since men were, at one point, required to wear the queue hairstyle in China, at the threat of execution, were aging and balding men executed or otherwise punished for failing to comply?](https://www.reddit.com/r/AskHistorians/comments/mi00dd/since_men_were_at_one_point_required_to_wear_the/gt2bimi/)
 
 As I allude in those posts, the 1860s would, frankly, have been an *especially* bad time to suddenly develop a predilection for Han hairstyles given that several rebellions – many still in progress – had broken out whose participants signified their allegiance by their defiance of the queue edict. Chief among these were the Taiping, whose association with this was so strong they were known to their enemies as *changmao* 長毛 – literally, the 'Long Hairs'. Having the wrong hairstyle in the wrong place would literally get you killed; when travelling from one area of control to the other it was often necessary to shave to enter Qing territory – and often to have to spend time tanning to mask the obvious tanline from having shaved too recently – or to spend time growing one's hair out to enter Taiping lands. Making the wrong choice about one's hair at the wrong time was fatal. Moreover, for the purposes of our hypothetical 1860s nativist, the Qing sometimes offered cash bounties for severed rebel heads, with the size of the bounty scaling with the length of the forehead hair (5 inches being the maximum). If you, a Han man in a Qing-held city in 1860s China, chose to grow your hair out, *you were going to die.*
+
+### 364: [How would a reasonable empire react to this?](https://old.reddit.com/r/AskHistorians/comments/u90tqn/how_would_a_reasonable_empire_react_to_this/), submitted on 2022-04-22 07:42:33+08:00.
+
+----- __364.1__ -----2022-04-22 10:41:11+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
+### 365: [It is said that one of the Confucius' disciples (Zilu) was killed and his flesh was made into pickled food and sent to Confucius. Confucius got shocked, fell ill and died soon. Is there a similar story (making human flesh into food and sending it to his beloved one as a punishment) in the West?](https://old.reddit.com/r/AskHistorians/comments/u92sqt/it_is_said_that_one_of_the_confucius_disciples/), submitted on 2022-04-22 09:24:20+08:00.
+
+----- __365.1__ -----2022-04-22 10:40:48+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 366: [were there any religious factors involved in the Nuer genocide?](https://old.reddit.com/r/AskHistorians/comments/u93fs9/were_there_any_religious_factors_involved_in_the/), submitted on 2022-04-22 09:58:35+08:00.
+
+----- __366.1__ -----2022-04-22 10:41:48+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 367: [How much would historical warfare be affected by current era knowledge and tactics bereft of the technology?](https://old.reddit.com/r/AskHistorians/comments/u93xx4/how_much_would_historical_warfare_be_affected_by/), submitted on 2022-04-22 10:24:40+08:00.
+
+----- __367.1__ -----2022-04-22 10:41:57+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
