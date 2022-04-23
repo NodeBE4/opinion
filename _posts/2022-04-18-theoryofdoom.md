@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-22
+date: 2022-04-23
 from: https://old.reddit.com/r/geopolitics/comments/u6bned/nato_cyber_game_tests_defenses_amid_war_in_ukraine/
 layout: post
 tags:
@@ -234,4 +234,32 @@ DM me.  We don't typically allow questions like this, but I'd be happy to point 
 ----- __235.1__ -----2022-04-22 20:59:37+08:00:
 
 Obviously, contact local law enforcement.
+
+### 236: [Changes in reporting?](https://old.reddit.com/r/CoronavirusIllinois/comments/u9pl44/changes_in_reporting/), submitted on 2022-04-23 05:44:27+08:00.
+
+----- __236.1__ -----2022-04-24 00:04:58+08:00:
+
+> is there a reason why I see so many [unavailable] posts from [deleted] posters? 
+
+I'd imagine a lot of users have blocked you.  So, that means that you'll be unable to see their activity and they will be unable to see yours after they block you.
+
+In my opinion, Reddit screwed that up catastrophically.  But my opinion is pretty much worthless to them on that issue.
+
+----- __236.2__ -----2022-04-24 00:08:04+08:00:
+
+> I could understand said users blocking habits if people were being overly obnoxious. 
+
+I think mental illness plays a significant role.  When people cannot psychologically handle being confronted with opinions or facts that differ from theirs, they may lower their engagement.  Reddit wants them on the site, which is why they're allowing users to shield themselves from opinions that differ from their own.
+
+----- __236.3__ -----2022-04-24 00:37:58+08:00:
+
+I am not going to discuss specific instances of user misconduct or moderation decisions with respect to the same.  
+
+But, I will clarify that users are not banned for "bashing" moderators.  In most cases, users are warned repeatedly before they are banned.  We used to do that by replying in the comment section, but it's not clear that doing so adds much value anymore.  
+
+A lot of problem users just ignore our warnings and then claim to be the victim of oppression because we will not allow them to call people they disagree with "plague rats," or other such nonsense.  Then, after numerous instances of uncivil conduct and/or other rule violations, they get banned.  We have records of the warnings we've sent and all prior moderator decisions, and they number in the hundreds if I was to estimate.  While I can understand that you might be skeptical, your view is based on the limited perspective of what you see in the context of any particular incident --- far less information than we are working with.  
+
+There are, however, examples where banned users have created accounts solely for the purpose of trolling and/or harassing this sub and other users or where specific users have encouraged brigading and other site violations, by encouraging harassment of others from outside of this subreddit.  That's an automatic ban, because it's done in bad faith and in violation of our prohibition against self help.  In such context, there is no world where we are going to allow users to blatantly violate site policies, even if the target of their rule-violating ire is a moderator.  And I suspect those are the cases you're referring to, because those are the only cases I'm aware of that you could have plausibly referred to.  
+
+Ban evasion and brigading are unacceptable.  Period.  There is no room for negotiation on that front.  When we see multi-accounts, they're reported up the chain.  Same with brigading.  The amount of mentally ill users who waste our time with that nonsense has increased substantially in the past few months, too.
 
