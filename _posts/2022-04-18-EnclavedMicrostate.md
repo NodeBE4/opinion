@@ -229,3 +229,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 371: [Compared to Thucydides on one hand and Herodotus on the other, how trustworthy is Xenophon?](https://old.reddit.com/r/AskHistorians/comments/u9xf4f/compared_to_thucydides_on_one_hand_and_herodotus/), submitted on 2022-04-23 12:36:00+08:00.
+
+----- __371.1__ -----2022-04-23 14:17:07+08:00:
+
+With the disclaimer that this lies outside my primary wheelhouse, it is important to stress that classical sources of any kind should not be read at face value: everyone has some kind of agenda that influences their work to some extent. This is *especially* true of both Thucydides and Tacitus, who wear their political allegiances on their sleeve. On Thucydides, /u/Iphikrates has pointed out several issues with his narrative before, including:
+
+* [This answer](https://www.reddit.com/r/AskHistorians/comments/dyz200/what_was_pericles_endgame/f8622ik/?context=999) which discusses Schubert and Laspe's argument that Thucydides straight up invented the idea of a 'Periclean strategy' in order to exonerate Perikles while smearing Kleon for doing exactly the same things Perikles did;
+
+* [This answer](https://www.reddit.com/r/AskHistorians/comments/93962e/every_once_in_a_while_i_come_across_the_term/e3cwklz/) which discusses how Thucydides elided the 'First Peloponnesian War' to suit his narrative, while also shoehorning the Archidamian War, the Sicilian expedition, and the Dekeleian War into a single narrative.
+
+On Tacitus, /u/PippinIRL discusses Tacitus' agenda [here](https://www.reddit.com/r/AskHistorians/comments/gdz8mm/when_reading_tacitus_the_barbarians_and_enemies/).
+
+Xenophon had an agenda as well of course, but generally a less overt one. I can't locate a specific defence of Xenophon on the sub and I'm hardly the most qualified person to write one, but I'd like to direct your attention to [this post](https://reddit.com/r/AskHistorians/comments/9bsg76/recommended_reading_for_late_greece_rise_of/e55fthq/?context=999) by /u/Iphikrates noting some of the other sources for fourth-century Greek history. Xenophon's narrative in the *Hellenika* is, in both our views I suspect, far less problematic than many historians in the twentieth century made it out to be, but it nevertheless is quite a concentrated one that omits a number of areas that do not contribute to the core narrative, perhaps most infamously the Second Athenian Confederacy which is known almost exclusively via epigraphic evidence.
+
