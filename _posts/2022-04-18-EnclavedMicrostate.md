@@ -65,6 +65,14 @@ Just as a quick note, I mean to be explanatory rather than accusatory:
 
 Given IRyS' past life as an utaite, her main schtick has always been singing other people's songs rather than writing her own, and she was almost certainly hired off the basis of her voice and not her songwriting. That's not to say she *isn't* a good songwriter but we legitimately don't know, as you note. Because yeah I agree, her singing is fantastic, and to be honest I think the compositions are at least decent, but the lyrics fall a bit flat. I don't know if anyone else gets this, but there tends to be a frequent tendency to have some awkward phrasing and especially em*pha*sis on the wrong syl*lab*le, to steal a phrase from Dan Olson.
 
+----- __354.7__ -----2022-04-24 03:00:15+08:00:
+
+Unfortunately, as a regular Holodex user I can confirm the purple popup still hapens.
+
+----- __354.8__ -----2022-04-24 03:30:28+08:00:
+
+I mean, would *you* wave a pink penlight during a song called Red?
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
