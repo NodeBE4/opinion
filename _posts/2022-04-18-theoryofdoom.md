@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-23
+date: 2022-04-24
 from: https://old.reddit.com/r/geopolitics/comments/u6bned/nato_cyber_game_tests_defenses_amid_war_in_ukraine/
 layout: post
 tags:
@@ -262,4 +262,16 @@ A lot of problem users just ignore our warnings and then claim to be the victim 
 There are, however, examples where banned users have created accounts solely for the purpose of trolling and/or harassing this sub and other users or where specific users have encouraged brigading and other site violations, by encouraging harassment of others from outside of this subreddit.  That's an automatic ban, because it's done in bad faith and in violation of our prohibition against self help.  In such context, there is no world where we are going to allow users to blatantly violate site policies, even if the target of their rule-violating ire is a moderator.  And I suspect those are the cases you're referring to, because those are the only cases I'm aware of that you could have plausibly referred to.  
 
 Ban evasion and brigading are unacceptable.  Period.  There is no room for negotiation on that front.  When we see multi-accounts, they're reported up the chain.  Same with brigading.  The amount of mentally ill users who waste our time with that nonsense has increased substantially in the past few months, too.
+
+### 237: [The first half of Notes from Underground has upset and disturbed me, I feel humiliated and ashamed, really.](https://old.reddit.com/r/dostoevsky/comments/u9s4up/the_first_half_of_notes_from_underground_has/), submitted on 2022-04-23 07:47:29+08:00.
+
+----- __237.1__ -----2022-04-24 03:37:21+08:00:
+
+Reading Notes from Underground and actually understanding it is like standing in a the bathroom as the fog clears from the mirror in front of you.  You start out seeing the general form and trick yourself into thinking that what you're seeing in front of you isn't you, until the mirror is clean and you can no longer deny it.
+
+### 238: [Taking public transit? Here’s what to know about masks](https://old.reddit.com/r/CoronavirusIllinois/comments/uadxir/taking_public_transit_heres_what_to_know_about/), submitted on 2022-04-24 04:20:28+08:00.
+
+----- __238.1__ -----2022-04-24 04:21:37+08:00:
+
+No Paywall: https://archive.ph/K85EH
 
