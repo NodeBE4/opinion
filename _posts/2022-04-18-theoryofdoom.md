@@ -283,3 +283,9 @@ Reading Notes from Underground and actually understanding it is like standing in
 
 No Paywall: https://archive.ph/K85EH
 
+----- __238.2__ -----2022-04-24 06:54:53+08:00:
+
+Thanks for catching that.  Another great thing about archiving is that we can see how reports change over time. 
+
+Amazing how quickly the [Political] Science^TM changes.
+
