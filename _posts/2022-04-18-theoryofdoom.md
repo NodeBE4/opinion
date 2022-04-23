@@ -263,6 +263,14 @@ There are, however, examples where banned users have created accounts solely for
 
 Ban evasion and brigading are unacceptable.  Period.  There is no room for negotiation on that front.  When we see multi-accounts, they're reported up the chain.  Same with brigading.  The amount of mentally ill users who waste our time with that nonsense has increased substantially in the past few months, too.
 
+----- __236.4__ -----2022-04-24 04:56:55+08:00:
+
+I guess I don't pay close enough attention, because I have no idea who you are talking about.  Can you send the username of that person to modmail and I'll take a look?
+
+----- __236.5__ -----2022-04-24 05:07:28+08:00:
+
+Note: It is actually hilarious that certain users stalk me and downvote everything I have said.  We're keeping tabs on vote manipulation and other matters.  Meanwhile, y'all have too much time on your hands.  rofl
+
 ### 237: [The first half of Notes from Underground has upset and disturbed me, I feel humiliated and ashamed, really.](https://old.reddit.com/r/dostoevsky/comments/u9s4up/the_first_half_of_notes_from_underground_has/), submitted on 2022-04-23 07:47:29+08:00.
 
 ----- __237.1__ -----2022-04-24 03:37:21+08:00:
