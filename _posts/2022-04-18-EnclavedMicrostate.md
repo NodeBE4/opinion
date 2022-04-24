@@ -89,6 +89,10 @@ I suspect there's some coordinated keikaku to insert superfluous Japanese kotoba
 
 I mean, I've seen CN-subtitled clips straight up transliterate 'yabai' as 牙敗 *ya2 bai4* so it's definitely not just importing into English. To be honest, no translation is ever 1-to-1, and if there's just not really a good term to translate something like 'oshi' or 'yabai' to, why not just loan the word?
 
+----- __354.13__ -----2022-04-25 00:13:45+08:00:
+
+To be fair it was for loanwords in general, not just English.
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
