@@ -271,6 +271,14 @@ I guess I don't pay close enough attention, because I have no idea who you are t
 
 Note: It is actually hilarious that certain users stalk me and downvote everything I have said.  We're keeping tabs on vote manipulation and other matters.  Meanwhile, y'all have too much time on your hands.  rofl
 
+----- __236.6__ -----2022-04-24 10:47:14+08:00:
+
+Different mod.  Different call.
+
+----- __236.7__ -----2022-04-24 10:53:23+08:00:
+
+Yes, it's new in the last month or so.  Incredible stupidity on Reddit's part.
+
 ### 237: [The first half of Notes from Underground has upset and disturbed me, I feel humiliated and ashamed, really.](https://old.reddit.com/r/dostoevsky/comments/u9s4up/the_first_half_of_notes_from_underground_has/), submitted on 2022-04-23 07:47:29+08:00.
 
 ----- __237.1__ -----2022-04-24 03:37:21+08:00:
