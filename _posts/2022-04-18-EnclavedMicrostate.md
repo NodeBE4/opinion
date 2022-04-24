@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-23
+date: 2022-04-24
 from: https://old.reddit.com/r/AskHistorians/comments/u5ws80/how_tall_were_the_tallest_sailing_ships/
 layout: post
 tags:
@@ -76,6 +76,10 @@ I mean, would *you* wave a pink penlight during a song called Red?
 ----- __354.9__ -----2022-04-24 11:41:34+08:00:
 
 I think that might be it.
+
+----- __354.10__ -----2022-04-24 20:04:04+08:00:
+
+I'm pretty sure she mentioned that there was an already-recorded 3D live for it, so it's likely that.
 
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
@@ -254,4 +258,24 @@ With the disclaimer that this lies outside my primary wheelhouse, it is importan
 On Tacitus, /u/PippinIRL discusses aspects of Tacitus' agenda [here](https://www.reddit.com/r/AskHistorians/comments/gdz8mm/when_reading_tacitus_the_barbarians_and_enemies/).
 
 Xenophon had an agenda as well of course, but generally a less overt one. I can't locate a specific defence of Xenophon on the sub and I'm hardly the most qualified person to write one, but I'd like to direct your attention to [this post](https://reddit.com/r/AskHistorians/comments/9bsg76/recommended_reading_for_late_greece_rise_of/e55fthq/?context=999) by /u/Iphikrates noting some of the other sources for fourth-century Greek history. Xenophon's narrative in the *Hellenika* is, in both our views, far less problematic than many historians in the twentieth century made it out to be, but it nevertheless is quite a concentrated one that omits a number of areas that do not contribute to the core narrative, perhaps most infamously the Second Athenian Confederacy which is known almost exclusively via epigraphic evidence.
+
+### 372: [What paper sizes were in use in the Russian Empire?](https://old.reddit.com/r/AskHistorians/comments/uas9ny/what_paper_sizes_were_in_use_in_the_russian_empire/), submitted on 2022-04-24 18:56:49+08:00.
+
+----- __372.1__ -----2022-04-24 20:46:16+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 373: [What colour was the insignias on Erwin Rommel's cap?](https://old.reddit.com/r/AskHistorians/comments/uatb11/what_colour_was_the_insignias_on_erwin_rommels_cap/), submitted on 2022-04-24 20:03:15+08:00.
+
+----- __373.1__ -----2022-04-24 20:46:07+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
