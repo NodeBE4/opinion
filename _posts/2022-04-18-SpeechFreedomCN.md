@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-21
+date: 2022-04-24
 from: https://twitter.com/SpeechFreedomCN/status/1516264826787426306
 layout: post
 tags:
@@ -30,4 +30,12 @@ Guangdong man Liang, who posted over 28 thousand pieces of "politically negative
 ### 4: [2022-04-21 11:14:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1516978558278807559)
 
 Guiyang woman Zhao, who posted some “photos, videos and comments that slanderer the state leaders of China” on Twitter, arrested in May 2018 and prosecute 2 years later. The procuratorate sought a 1-year term for her, while the exact sentence she received remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FQ1jLDbXwAAXvzB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-04-24 11:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1518064938283118592)
+
+1月初，云南省勐腊县女子毕某，因在朋友圈发布关于新冠疫情及疫苗有关的“不当言论”，被处行政拘留，其具体言论内容不详。<br><img style="" src="https://pbs.twimg.com/media/FRCbbS6XEAArh13?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-04-24 11:14:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1518065693257830400)
+
+Yunnan woman Bi administratively detained by police for posting "inappropriate remarks" about the covid pandemic and vaccines in WeChat Moments. Her exact remarks remain unknown.<br><img style="" src="https://pbs.twimg.com/media/FRCbtg5WYAA3OXF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
