@@ -115,3 +115,7 @@ RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony
 
 RT Alexander Boyd<br>Trending on WeChat now. <br><br>the 2021 song "April is a Good Month for Lying" <a href="https://www.youtube.com/watch?v=ILOdvywgUrE" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=ILOdvywgUrE</a>
 
+### 26: [2022-04-23 20:19:36+08:00 推文](https://twitter.com/Yangguobin/status/1517840610841047040)
+
+RT Guobin Yang<br>The power of the “Sounds of April” story about #Shanghai #lockdown derives from its simplicity. It went viral through simple acts of posting or retweeting in an online #relay. Calling it a “relay” invites collective participation.
+
