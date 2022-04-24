@@ -73,6 +73,10 @@ Unfortunately, as a regular Holodex user I can confirm the purple popup still ha
 
 I mean, would *you* wave a pink penlight during a song called Red?
 
+----- __354.9__ -----2022-04-24 11:41:34+08:00:
+
+I think that might be it.
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
