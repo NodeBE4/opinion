@@ -297,3 +297,9 @@ Thanks for catching that.  Another great thing about archiving is that we can se
 
 Amazing how quickly the [Political] Science^TM changes.
 
+### 239: [Study to see if there is relationship between political opinion and personality of an individual](https://old.reddit.com/r/geopolitics/comments/uaoh9o/study_to_see_if_there_is_relationship_between/), submitted on 2022-04-24 14:27:49+08:00.
+
+----- __239.1__ -----2022-04-24 14:29:24+08:00:
+
+Do not submit surveys without our prior permission, which was not granted here.
+

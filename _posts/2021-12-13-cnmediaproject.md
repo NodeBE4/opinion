@@ -41,7 +41,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How does the people’s congress system realiz
 
 ### 7: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
 
-The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-14 17:07:40+08:00 推文](https://twitter.com/MIC_Journal/status/1470681885978218509)
 
@@ -81,7 +81,7 @@ In the latest move against influencers, the CAC announced yesterday it had shut 
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-16 11:09:12+08:00 推文](https://twitter.com/cnmediaproject/status/1471316452531904512)
 
@@ -97,11 +97,11 @@ Re CMP looks a bit more closely at the language in the CAC notice. One point is 
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
-RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style="" src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
-After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
+After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
@@ -149,7 +149,7 @@ Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
