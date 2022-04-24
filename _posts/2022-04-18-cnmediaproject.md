@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-23
+date: 2022-04-24
 from: https://twitter.com/WendyZhou502/status/1515766307303702530
 layout: post
 tags:
@@ -109,7 +109,7 @@ RT Manya Koetse<br>'Voices of April' is the biggest topic in China's Covid soc
 
 ### 24: [2022-04-23 04:49:51+08:00 推文](https://twitter.com/alexludoboyd/status/1517606631294607360)
 
-RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video<br><br>Bill Bishop: <br><br><img style="" src="https://pbs.twimg.com/media/FQ-dehgX0AAm4iL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video
 
 ### 25: [2022-04-23 04:51:09+08:00 推文](https://twitter.com/alexludoboyd/status/1517606957921755142)
 
@@ -118,4 +118,8 @@ RT Alexander Boyd<br>Trending on WeChat now. <br><br>the 2021 song "April is a
 ### 26: [2022-04-23 20:19:36+08:00 推文](https://twitter.com/Yangguobin/status/1517840610841047040)
 
 RT Guobin Yang<br>The power of the “Sounds of April” story about #Shanghai #lockdown derives from its simplicity. It went viral through simple acts of posting or retweeting in an online #relay. Calling it a “relay” invites collective participation.
+
+### 27: [2022-04-24 18:50:53+08:00 推文](https://twitter.com/DemesDavid/status/1518180670907904000)
+
+RT David Demes 戴達衛<br>Re @johnsfeng @julianku @jinpeili Ukraine started to disappear from CCTV maps on March 1st:<br><br>David Demes 戴達衛: While this might look like a simple mishap by the graphics dept at first, I just checked earlier broadcasts and found CCTV-4's 今日关注 was using national boundaries until February 27th. After March 1st, the Ukraine all but vanished from the studio map. h/t @jinpeili<br><br><img style="" src="https://pbs.twimg.com/media/FPodTCDUcAUDm6P?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

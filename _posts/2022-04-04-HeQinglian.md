@@ -1169,7 +1169,7 @@ BFM电视台网站公布的一项民调显示，马克龙的支持率再下降�
 
 ### 289: [2022-04-10 12:46:06+08:00 推文](https://twitter.com/HeQinglian/status/1513015443845521411)
 
-也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂<br><br>He Qinglian: BFM电视台网站公布的一项民调显示，马克龙的支持率再下降两个百分点，来到26%，勒庞则是上升两个百分点至25%。<br><br>猜想：小马一定痛悔，没有及时引进无需验证选民身份的多米尼投票机，不知现在立法规定邮寄选票（选举日过后20天来都算数）是否来得及。<br> <a href="https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040</a>
+也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂 <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054" target="_blank" rel="noopener noreferrer">https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054</a>
 
 ### 290: [2022-04-10 12:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1513016270383423488)
 
@@ -1205,7 +1205,7 @@ Re @Wu_Zhi 自己相信就好，不是好多人都说美乌共享信息战非常
 
 ### 298: [2022-04-10 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1513154388877062150)
 
-RT He Qinglian<br>Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
+Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
 
 ### 299: [2022-04-10 22:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1513155223539306496)
 

@@ -39,3 +39,11 @@ Guiyang woman Zhao, who posted some “photos, videos and comments that slandere
 
 Yunnan woman Bi administratively detained by police for posting "inappropriate remarks" about the covid pandemic and vaccines in WeChat Moments. Her exact remarks remain unknown.<br><img style="" src="https://pbs.twimg.com/media/FRCbtg5WYAA3OXF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-04-24 19:14:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1518186727306842112)
+
+湖北省巴东县男子彭某（案发时已77岁），因在现实中多处张贴大字报“辱骂”当地法院和村干部，以及在多个场合口头“辱骂”国家领导人，于2019年月被刑事拘留，次年4月被以寻衅滋事罪提起公诉，检方建议量刑为判一缓一，实际判决不详。<br><img style="" src="https://pbs.twimg.com/media/FRGt1HjXoAQ1aKh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRGt2K-XEAE4sVm?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-04-24 19:18:27+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1518187609922678786)
+
+77-year-old Peng from Hubei, who sticked posters that "insulted" a local court and some village officials and verbally "cursed" state leaders in multiple situations, arrested in 2019 and prosecuted in 2020. The procuratorate sought a 1 year sentence for him with 1 year probation.<br><img style="" src="https://pbs.twimg.com/media/FRGuz1KXwAA15Of?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRGu0yBWQAAeHMN?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
