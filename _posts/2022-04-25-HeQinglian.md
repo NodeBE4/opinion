@@ -103,3 +103,15 @@ RT 萧生客SSK🇺🇸🇨🇦<br>“我希望即使是对我最糟糕的批�
 
 Re @vesuvius2010 这是用爱、亲情 、坚忍，一步一步走过来的人生之路，祝晓康与傅莉安康、心怡。
 
+### 23: [2022-04-26 07:26:21+08:00 推文](https://twitter.com/HeQinglian/status/1518733182211874817)
+
+中国与美欧：从雷暴雨到阴晴不定为哪般？<br><br>本文分析了俄乌战争发生后，美欧对中国态度变化背后 的利益考量：先是为中国不肯与它们站到一个阵营而打击、威胁——这是当前最大的政治利益；3月下旬开始改口，空言威胁伴之以实利勾兑，现在终于勾兑到明面了。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-04252022103050.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-04252022103050.html</a>
+
+### 24: [2022-04-26 07:27:19+08:00 推文](https://twitter.com/HeQinglian/status/1518733422524575744)
+
+Re @Jessie2021626 他其实应该回来。两边都发。
+
+### 25: [2022-04-26 07:38:50+08:00 推文](https://twitter.com/HeQinglian/status/1518736320402710528)
+
+Re @Wu_Zhi @JianglinLi 这叫因人立法、因人废法。<br>美国到了这地步，确实当不了世界领导者了。
+
