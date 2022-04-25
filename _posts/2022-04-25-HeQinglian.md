@@ -75,3 +75,23 @@ Re @zt33268778 很多人假装不知道，假装美国仍然是托克维尔笔�
 
 RT SBS中文<br>“跨性别孩子自残的可能性要高出 15 倍。我认为这场辩论对那些维州年轻人或他们的父母没有任何好处，”维州州长安德鲁斯说。<br>#federalelection <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/daniel-andrews-slams-cruel-politicians-driving-debate-over-transgender-athletes?cid=alc:soc:bau:con:SBSChineseTwitter::na" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/daniel-andrews-slams-cruel-politicians-driving-debate-over-transgender-athletes?cid=alc:soc:bau:con:SBSChineseTwitter::na</a>
 
+### 16: [2022-04-25 21:28:28+08:00 推文](https://twitter.com/HeQinglian/status/1518582718011002880)
+
+研究：罹患新冠一年后只有1/4的住院病人完全康复 <a href="https://rfi.my/8Mcg.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Mcg.T</a>
+
+### 17: [2022-04-25 21:33:47+08:00 推文](https://twitter.com/HeQinglian/status/1518584055868145665)
+
+外资大量流出中国股市，投资者重新评估地缘政治风险 <br>评：资本撤出规律一般如下：股市（易套现）、短期债券；绿地投资一般从开始考虑——选择新的投资地（考虑产业链为首要，包括制度环境、物流等），没有三五年想都别想。<br>中国的外资难撤，还有资本流出管制。 <a href="https://cn.wsj.com/articles/CN-FIN-20220325110145?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/CN-FIN-20220325110145?reflink=desktopwebshare_twitter</a>
+
+### 18: [2022-04-25 21:36:44+08:00 推文](https://twitter.com/KELMAND1/status/1518584799820075009)
+
+RT Ezio Mao☢<br>据《华尔街日报》报道，4月份俄罗斯对欧洲的原油供应量从每天 130 万桶增加到160万桶。<br><br>俄罗斯油轮离开乌斯季卢加和普里莫尔斯克，没有明确的目的地，方向不明。在途中，这些船只与其他油轮相遇，向它们运送石油，然后用已经运输的油轮稀释这些油。因此，欧洲正式购买“拉脱维亚混合物”。<br><br>人情世故🤪<br><img style="" src="https://pbs.twimg.com/media/FRMY08vVcAARcLs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-04-25 21:38:50+08:00 推文](https://twitter.com/HeQinglian/status/1518585328633851904)
+
+法國總統馬克龍贏得連任 歐盟鬆口氣 <br>美国也松口气。😂<br>接下来，世界各国要关心美国中期选举了，最后会不会各国一齐向美国选民喊话：把票投给民主党议员，他们代表人类前进的方向。 <a href="https://p.dw.com/p/4AN9F?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4AN9F?maca=zh-Twitter-sharing</a>
+
+### 20: [2022-04-25 21:40:01+08:00 推文](https://twitter.com/HeQinglian/status/1518585623388602368)
+
+Re @KELMAND1 😂😂
+
