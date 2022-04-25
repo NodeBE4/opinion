@@ -71,3 +71,7 @@ RT zt<br>现在的西方文明已经发生了根本性的改变，早已不再
 
 Re @zt33268778 很多人假装不知道，假装美国仍然是托克维尔笔下的美国，假装美国仍然是宪政、法治社会。
 
+### 15: [2022-04-25 10:37:48+08:00 推文](https://twitter.com/sbschinese/status/1518418971795791872)
+
+RT SBS中文<br>“跨性别孩子自残的可能性要高出 15 倍。我认为这场辩论对那些维州年轻人或他们的父母没有任何好处，”维州州长安德鲁斯说。<br>#federalelection <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/daniel-andrews-slams-cruel-politicians-driving-debate-over-transgender-athletes?cid=alc:soc:bau:con:SBSChineseTwitter::na" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/daniel-andrews-slams-cruel-politicians-driving-debate-over-transgender-athletes?cid=alc:soc:bau:con:SBSChineseTwitter::na</a>
+
