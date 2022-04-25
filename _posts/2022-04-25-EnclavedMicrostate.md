@@ -49,3 +49,24 @@ Anyway, that was me rambling about stats for a while.
 
 This just in: it has recently been revealed that a surprising number of VTuber fans are in fact cannibals.
 
+----- __376.3__ -----2022-04-26 02:58:25+08:00:
+
+I genuinely hadn't clocked any prior discussion on 'Pettan 5' so if that's an issue I've edited that out. I did also do all the stats for the big 3, although I didn't do charts simply because the other stats are so disproportionate (though I can add those if desired). Looking at top-heaviness and mean time for all 8 agencies:
+
+Agency | Mean time at agency (in months) | Top-heaviness %age
+------|-------------------------------|------------------
+HoloEN | 13.1 | 28.3%
+NijiEN | 5.5 | 10.0%
+VShojo | 15.9 | 28.1%
+Tsunderia | 7.9 | 44.4%
+Phase-Connect | 7.8 | 19.4%
+Cyberlive | 5.4 | 42.8%
+PRISM | 9.8 | 29.6%
+Kawaii | 8.0 | 44.1%
+
+So a quick note that because I now had to account for VShojo, the way the top-heaviness %age worked was modified slightly. Total subs for each agency were calculated not as total subs across all platforms, but the total of each individual member's higher sub counts between YT and Twitch. Basically, what I did was presume – not necessarily accurately, but well enough – that for instance most of Nyanners' 795k Twitch followers overlap with her 1.4m YT subscribers, while Ironmouse's 1.16m Twitch followers include most of her 685k YT subscribers. So I took the higher sub count, whichever platform it was, instead of just totalling YT+Twitch. If I had gone for all platforms rather than taking the higher of each, Ironmouse would be 22.2% of VShojo's total subs.
+
+----- __376.4__ -----2022-04-26 03:32:22+08:00:
+
+In the kouhai/kohai case, it's more complicated because it is a long vowel, so most common Romanisations render it with a diacritic, so either kōhai (Hepburn) or kôhai (Kunrei/Nihon-shiki). It would be technically incorrect to render it *kohai* without such a mark, hence why it's not entirely uncommon to write it out as *kouhai* if you can't easily produce a diacritic; it also matches the Japanese orthography more closely.
+
