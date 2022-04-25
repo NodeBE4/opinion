@@ -93,6 +93,10 @@ I mean, I've seen CN-subtitled clips straight up transliterate 'yabai' as 牙敗
 
 To be fair it was for loanwords in general, not just English.
 
+----- __354.14__ -----2022-04-25 12:32:27+08:00:
+
+While we don't know if anyone has been scouted for sure since Pekora and Rushia, I don't think it would shick anyone if we were to find out that Cover actively shops around talents who had left other notable agencies, and/or has a certain preference for them. Every JP generation since Gen 4, except for Stars Gen 3, has had at least one member who was used to be with another notable agency: Gen 4 has an ex-Niji, Gen 5 has an ex-upd8, Gen 6 has an ex-Re:Act, and Stars UPROAR has an ex-Unlimited. It's not necessarily coincidence that they'd apply, given that they do have that experience behind them, but nor do I think it's pure coincidence that they passed.
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
