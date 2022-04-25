@@ -97,6 +97,20 @@ To be fair it was for loanwords in general, not just English.
 
 While we don't know if anyone has been scouted for sure since Pekora and Rushia, I don't think it would shick anyone if we were to find out that Cover actively shops around talents who had left other notable agencies, and/or has a certain preference for them. Every JP generation since Gen 4, except for Stars Gen 3, has had at least one member who was used to be with another notable agency: Gen 4 has an ex-Niji, Gen 5 has an ex-upd8, Gen 6 has an ex-Re:Act, and Stars UPROAR has an ex-Unlimited. It's not necessarily coincidence that they'd apply, given that they do have that experience behind them, but nor do I think it's pure coincidence that they passed.
 
+----- __354.15__ -----2022-04-26 00:20:09+08:00:
+
+So I have no idea how far this is of interest to anybody, but the discussion around Tsunderia's graduations and its effect on the agency's ranking relative to other EN agencies got me interested enough to do some data entry yesterday to find out. I won't share the full dataset here, but I did a bit of functioning and number crunching to produce [some graphs](https://imgur.com/a/sVVWrle).
+
+To put it mildly, Tsunderia has dropped considerably within the league. To put it more extremely, Tsunderia has dropped *out* of the league. It had been a close contender with PRISM for the #2 spot in terms of total subscribers, while sitting comfortably in #3 for mean subs per member. It's now #5 in both categories, with *half* the total and average subs of Cyberlive at #4.
+
+*That said*, a huge part of that is because of just how popular Miori Celesta is. At the time of her graduating, Miori accounted for a whopping *65%* of the agency's subscribers. Even if nobody else left, that would mean a huge hit in both total and average subs. But these are also, for that same reason, quite superficial numbers: how much traffic was Miori necessarily driving to the rest of Tsunderia, given how far ahead of the others she seems to have gone?
+
+Which in turn raises an interesting question about the other 'top-heavy' agencies: Production Kawaii looks like it has a big lead over Phase-Connect, but it would end up sandwiched between Phase-Connect and Cyberlive without Nene Amano. Cyberlive without Emma would only just edge ahead of Tsunderia post-graduations. PRISM and Phase-Connect, by contrast, seem to have a more even spread, and both would stay where they are rankings-wise without their top member.
+
+What's interesting is that this doesn't contrast *that* heavily with the 'big 3' EN agencies (Holo/Niji/Vshojo), where some agencies have some quite extreme breakout stars, and some don't to the same extent. HoloEN is the top-heaviest, with Gura accounting for around 30% of its total YT subscribers; VShojo is quite close with Ironmouse having a little over 25% of its Twitch followers; NijiEN is the most evenly spread with Vox accounting for only 10% of the total subscribers. On the whole, the top-heaviness trends somewhat lower than at the smaller agencies, but not by an absurd margin, and Holo and Niji would definitely fall in the middle of the pack if mixed in with the others.
+
+Anyway, that was me rambling about stats for a while.
+
 ### 355: [Athelia Hiroyuki to graduate from MyHoloTV on April 30](https://old.reddit.com/r/VirtualYoutubers/comments/u7055e/athelia_hiroyuki_to_graduate_from_myholotv_on/), submitted on 2022-04-19 16:23:02+08:00.
 
 ----- __355.1__ -----2022-04-21 00:10:40+08:00:
