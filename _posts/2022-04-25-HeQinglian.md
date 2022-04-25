@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-25
+date: 2022-04-26
 from: https://twitter.com/HeQinglian/status/1518280988408922113
 layout: post
 tags:
@@ -94,4 +94,12 @@ RT Ezio Mao☢<br>据《华尔街日报》报道，4月份俄罗斯对欧洲�
 ### 20: [2022-04-25 21:40:01+08:00 推文](https://twitter.com/HeQinglian/status/1518585623388602368)
 
 Re @KELMAND1 😂😂
+
+### 21: [2022-04-26 01:32:42+08:00 推文](https://twitter.com/SSK2024/status/1518644181866008581)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>“我希望即使是对我最糟糕的批评者也能留在推特上，因为这就是言论自由的含义。<br>超循环全面测试在今年晚些时候开始。<br>我的雨中之爱。”<br><br>今天4月25日，马斯克以最好最后价430亿美元买下推特。照样，左疯一片狼嚎；保守派拭目以待。<br><img style="" src="https://pbs.twimg.com/media/FRNO1QnXwAEWHd8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRNO1QlX0AMQkmE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRNO1RfXoAIaHVU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRNO1RgXIAIk7EC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-04-26 04:02:15+08:00 推文](https://twitter.com/HeQinglian/status/1518681816839901185)
+
+Re @vesuvius2010 这是用爱、亲情 、坚忍，一步一步走过来的人生之路，祝晓康与傅莉安康、心怡。
 
