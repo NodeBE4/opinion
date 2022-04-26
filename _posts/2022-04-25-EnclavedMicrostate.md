@@ -96,3 +96,7 @@ Sorry, but we have had to remove your comment. [Please understand that people co
 
 Yes to the former, and both yes and no to the latter – sometimes they do attend in person to some extent, for instance Kiara was physically at Dokomi.
 
+----- __379.2__ -----2022-04-26 18:23:13+08:00:
+
+No it's fine! In terms of IRL activities in relation to Dokomi in particular, Kiara straight up said before she was going, and again after, that she was there in person. It's always possible to talk about IRL activities without revealing one's IRL identity, after all. Having someone in person at the event in general, but still doing the meetup digitally, won't be a major issue. It is not, to my knowledge, explicitly known to the general public what the contractual terms are regarding revealing IRL identities, but in general it is prohibited for a Hololive talent to knowingly and deliberately reveal their IRL identity from their Hololive channel or vice versa, but normal accidental slip-ups have always been tolerated.
+
