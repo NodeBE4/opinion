@@ -51,3 +51,11 @@ RT Jonathan Cheng<br>"Guangdong governor Wang Weizhong (王伟中) was quoted 
 
 Convergence at the Grassroots: An important piece by Stella Chen on press control down to the county level, where "media convergence centers" are now consolidating content creation -- and the Party's hold. <a href="https://bit.ly/3Myf9Ef" target="_blank" rel="noopener noreferrer">https://bit.ly/3Myf9Ef</a><br><img style="" src="https://pbs.twimg.com/media/FRPgOFAacAAaSdE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-04-26 20:20:53+08:00 推文](https://twitter.com/adamcathcart/status/1518928098888237056)
+
+RT Adam Cathcart<br>Duowei News no longer exists <a href="https://twitter.com/niubi/status/1518922346001747970" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1518922346001747970</a> <a href="https://www.cna.com.tw/news/acn/202204260275.aspx" target="_blank" rel="noopener noreferrer">https://www.cna.com.tw/news/acn/202204260275.aspx</a>
+
+### 11: [2022-04-26 21:26:22+08:00 推文](https://twitter.com/CarlMinzner/status/1518944575511044098)
+
+RT Carl Minzner<br>*Zilch* on China's 7pm 4/26 evening news re: Beijing's city-wide covid testing.<br><br>Suspect Party authorities seriously stuck trying to figure out how to portray/describe things in Beijing going forward.
+
