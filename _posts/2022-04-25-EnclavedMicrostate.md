@@ -90,3 +90,9 @@ As for tabled numbers I can do that; would probably be easier to take a screenca
 
 Sorry, but we have had to remove your comment. [Please understand that people come here because they want an informed response from someone capable of engaging with the sources, and providing follow up information](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). Even when the source might be an appropriate one to answer the question, simply linking to or quoting from a source is a violation of the [rules we have in place here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations). These sources, of course, can make up an important part of a well-rounded answer but do not equal an answer on their own. While there are other places on reddit for such comments, it is presumed that in posting here, the OP is looking for an answer that is in line with our rules. You can find further discussion of this policy [here](https://www.reddit.com/r/AskHistorians/comments/h8abv9/rules_roundtable_xvii_answers_must_not_be/). In the future, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) before contributing again.
 
+### 379: [VTuber Agency "hololive production" Announces the Start of the "hololive Meet" Project](https://old.reddit.com/r/Hololive/comments/uc248m/vtuber_agency_hololive_production_announces_the/), submitted on 2022-04-26 10:26:16+08:00.
+
+----- __379.1__ -----2022-04-26 16:08:15+08:00:
+
+Yes to the former, and both yes and no to the latter – sometimes they do attend in person to some extent, for instance Kiara was physically at Dokomi.
+
