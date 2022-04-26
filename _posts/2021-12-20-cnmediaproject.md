@@ -61,11 +61,11 @@ RT Muyi Xiao<br>Re We translated several key service items and their requireme
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>PRC national college English proficiency test (CET) level 6 was held yesterday. <br><br>Topics for the Chinese to English Translation test:<br><br>井冈山革命根据地<br>延安革命根据地<br>中共一大会址<br><img style="" src="https://pbs.twimg.com/media/FHFvbdaXwAMWosS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdiXsAY7AQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdjXEAE7Qho?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdaXMBAwdGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>PRC national college English proficiency test (CET) level 6 was held yesterday. <br><br>Topics for the Chinese to English Translation test:<br><br>井冈山革命根据地<br>延安革命根据地<br>中共一大会址<br><img style src="https://pbs.twimg.com/media/FHFvbdaXwAMWosS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdiXsAY7AQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdjXEAE7Qho?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdaXMBAwdGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
-Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style="" src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 
@@ -85,7 +85,7 @@ RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, 
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
-RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style="" src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-26 20:19:00+08:00 推文](https://twitter.com/PM_Thornton/status/1475078690933460994)
 
