@@ -43,3 +43,7 @@ RT Manya Koetse<br>Over the past two days more Shanghai communities have been 
 
 RT Jonathan Cheng<br>"Guangdong governor Wang Weizhong (王伟中) was quoted as using the phrase 'Ever grateful to the general secretary' (始终感恩感怀总书记) no less than 10 times in his address."<br>@cnmediaproject <a href="https://bit.ly/3MuJcNq" target="_blank" rel="noopener noreferrer">https://bit.ly/3MuJcNq</a>
 
+### 8: [2022-04-26 12:07:57+08:00 推文](https://twitter.com/cnmediaproject/status/1518804047113109504)
+
+Convergence at the Grassroots: An important piece by Stella Chen on press control down to the county level, where "media convergence centers" are now consolidating content creation -- and the Party's hold. <a href="https://bit.ly/3Myf9Ef" target="_blank" rel="noopener noreferrer">https://bit.ly/3Myf9Ef</a><br><img style="" src="https://pbs.twimg.com/media/FRPgOFAacAAaSdE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

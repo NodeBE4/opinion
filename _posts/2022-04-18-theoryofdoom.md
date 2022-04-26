@@ -161,6 +161,12 @@ A Cochrane Review is a systematic review of research in health care and health p
 
 Source?  I'm not sure I got that memo?
 
+----- __228.13__ -----2022-04-26 12:15:18+08:00:
+
+> as if it's their exclusive right to have "the science" on their side.
+
+Indeed.  That's what happens when televangelist-type charlatans like Francis Collins rise to positions of influence and have the audacity to call actually competent experts, like Dr. Jay Bhattacharya (Stanford), "fringe" epidemiologists.
+
 ### 229: [TSA will no longer enforce mask mandate after a federal judge strikes it down](https://old.reddit.com/r/CoronavirusIllinois/comments/u6t58f/tsa_will_no_longer_enforce_mask_mandate_after_a/), submitted on 2022-04-19 09:28:21+08:00.
 
 ----- __229.1__ -----2022-04-19 19:58:52+08:00:
