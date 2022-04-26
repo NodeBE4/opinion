@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-26
+date: 2022-04-27
 from: https://twitter.com/HeQinglian/status/1518280988408922113
 layout: post
 tags:
@@ -134,4 +134,8 @@ RT 北明BeiMing<br>大上海：化外之域，從來不是中央省油的灯�
 ### 30: [2022-04-26 23:49:18+08:00 推文](https://twitter.com/HeQinglian/status/1518980547535683584)
 
 Re @Wu_Zhi 英国挺有趣的，熊了多少年，今年很长志气的感觉。<br>泽连斯基政府开出的财政清单上，美国每月20亿美元，欧盟每月50亿欧元，不知英国会接到多少钱的帐单。
+
+### 31: [2022-04-27 01:47:34+08:00 推文](https://twitter.com/HeQinglian/status/1519010309800927232)
+
+Re @Wu_Zhi 我给了一篇WSJ的文章，内容明明是讲西方公司想方设法进口俄罗斯石油的事情，中文标题却做成是俄罗斯想法卖石油。<br>我现在只看事实与数据，不看这些西方政要说什么，几乎是一天一变。
 
