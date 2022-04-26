@@ -115,3 +115,11 @@ Re @Jessie2021626 他其实应该回来。两边都发。
 
 Re @Wu_Zhi @JianglinLi 这叫因人立法、因人废法。<br>美国到了这地步，确实当不了世界领导者了。
 
+### 26: [2022-04-26 08:02:47+08:00 推文](https://twitter.com/HeQinglian/status/1518742348854878210)
+
+Re @sage9991999 你什么时候回推特的？欢迎。
+
+### 27: [2022-04-26 10:00:20+08:00 推文](https://twitter.com/HeQinglian/status/1518771929741762566)
+
+The West Is Still Buying Russian Oil, but It’s Now Harder to Track<br>直译：西方仍然购买俄罗斯石油，越来越难以追踪<br>中文版的标题与内容脱节，因为谈的就是英文直译内容：西方政府的制裁被西方公司破坏。<br>内容很值得一看。<br>制裁之下的俄罗斯如何瞒“油”过海？ <a href="https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E4%BB%8D%E5%9C%A8%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9-%E4%BD%86%E7%8E%B0%E5%9C%A8%E6%9B%B4%E9%9A%BE%E8%BF%BD%E8%B8%AA-11650616536" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E4%BB%8D%E5%9C%A8%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9-%E4%BD%86%E7%8E%B0%E5%9C%A8%E6%9B%B4%E9%9A%BE%E8%BF%BD%E8%B8%AA-11650616536</a>
+

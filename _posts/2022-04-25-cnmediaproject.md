@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-25
+date: 2022-04-26
 from: https://twitter.com/lilkuo/status/1518421109791633408
 layout: post
 tags:
@@ -38,4 +38,8 @@ Re Qian Gang's "The Delicate Dance of Loyalty" from two years ago is a must-read
 ### 6: [2022-04-25 15:09:56+08:00 推文](https://twitter.com/manyapan/status/1518487458278739969)
 
 RT Manya Koetse<br>Over the past two days more Shanghai communities have been put into 'hard isolation' and saw fences placed around their gates, but this resident is not having it.<br><video src="https://video.twimg.com/ext_tw_video/1518485460749897728/pu/vid/540x784/gZvgfMxa5ipcmjs5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1518485460749897728/pu/img/9rsmStuBHbtKJGNg.jpg"></video>
+
+### 7: [2022-04-26 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1518772098163957761)
+
+RT Jonathan Cheng<br>"Guangdong governor Wang Weizhong (王伟中) was quoted as using the phrase 'Ever grateful to the general secretary' (始终感恩感怀总书记) no less than 10 times in his address."<br>@cnmediaproject <a href="https://bit.ly/3MuJcNq" target="_blank" rel="noopener noreferrer">https://bit.ly/3MuJcNq</a>
 
