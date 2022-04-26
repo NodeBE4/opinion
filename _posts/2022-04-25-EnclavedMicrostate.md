@@ -84,6 +84,10 @@ As for VShojo numbers, as noted there are VShojo members with higher Youtube sub
 
 As for tabled numbers I can do that; would probably be easier to take a screencap of my table and post an imgur link so [I've done that](https://imgur.com/yp1INNU).
 
+----- __377.6__ -----2022-04-26 19:10:11+08:00:
+
+Zeta definitely seems very comfortable with preferring English over Bahasa Indonesia as her main on-stream language, while still very much using both. Similar to Reine in that regard, at least from my experience.
+
 ### 378: [What were Chinese gangs in the American West like?](https://old.reddit.com/r/AskHistorians/comments/ubtrn7/what_were_chinese_gangs_in_the_american_west_like/), submitted on 2022-04-26 03:51:36+08:00.
 
 ----- __378.1__ -----2022-04-26 11:02:36+08:00:
