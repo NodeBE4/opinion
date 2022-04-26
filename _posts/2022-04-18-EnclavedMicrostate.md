@@ -309,3 +309,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 374: [[Hobby Scuffles] Week of April 25, 2022](https://old.reddit.com/r/HobbyDrama/comments/uawlfn/hobby_scuffles_week_of_april_25_2022/), submitted on 2022-04-24 23:00:13+08:00.
+
+----- __374.1__ -----2022-04-27 04:23:08+08:00:
+
+Goodness me, I remember playing NationStates literal *years* ago.
+
