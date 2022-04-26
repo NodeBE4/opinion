@@ -123,3 +123,15 @@ Re @sage9991999 你什么时候回推特的？欢迎。
 
 The West Is Still Buying Russian Oil, but It’s Now Harder to Track<br>直译：西方仍然购买俄罗斯石油，越来越难以追踪<br>中文版的标题与内容脱节，因为谈的就是英文直译内容：西方政府的制裁被西方公司破坏。<br>内容很值得一看。<br>制裁之下的俄罗斯如何瞒“油”过海？ <a href="https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E4%BB%8D%E5%9C%A8%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9-%E4%BD%86%E7%8E%B0%E5%9C%A8%E6%9B%B4%E9%9A%BE%E8%BF%BD%E8%B8%AA-11650616536" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6%E4%BB%8D%E5%9C%A8%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9-%E4%BD%86%E7%8E%B0%E5%9C%A8%E6%9B%B4%E9%9A%BE%E8%BF%BD%E8%B8%AA-11650616536</a>
 
+### 28: [2022-04-26 23:20:40+08:00 推文](https://twitter.com/RealBeiMing/status/1518973343659085829)
+
+RT 北明BeiMing<br>大上海：化外之域，從來不是中央省油的灯！<br><br>诞生：三次战败的受益之城<br>身份：东西方混血胎记<br>定位：亚洲金融之都、东方巴黎<br>断脉：借天时东山再起<br>道路：直接向西方取经<br>封城：“围的尽头有一面旗”<br>前市委書記陈良宇局決定抵制中央大一统<br><br>陈良宇离心分权模式辨析（续1）： <a href="https://www.rfa.org/mandarin/zhuanlan/beimingfeichangshi/wdbm-04262022095339.html#.YmgLr44Sgsk.twitter" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/zhuanlan/beimingfeichangshi/wdbm-04262022095339.html#.YmgLr44Sgsk.twitter</a>
+
+### 29: [2022-04-26 23:42:21+08:00 推文](https://twitter.com/HeQinglian/status/1518978799500726274)
+
+俄羅斯警告有第三次世界大戰的風險，聯合國秘書長呼籲俄烏合作 <br>俄外長拉夫羅夫呼籲全球別低估可能爆發核戰的可觀風險，說北約提供武器給烏克蘭，本質上等於是與俄國打代理人戰爭。但英國國防部次長哈佩則稱俄國不過是在「虛張聲勢」，「我不認為目前有情勢升高的立即風險」。 <a href="https://rfi.my/8MqX.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8MqX.T</a>
+
+### 30: [2022-04-26 23:49:18+08:00 推文](https://twitter.com/HeQinglian/status/1518980547535683584)
+
+Re @Wu_Zhi 英国挺有趣的，熊了多少年，今年很长志气的感觉。<br>泽连斯基政府开出的财政清单上，美国每月20亿美元，欧盟每月50亿欧元，不知英国会接到多少钱的帐单。
+
