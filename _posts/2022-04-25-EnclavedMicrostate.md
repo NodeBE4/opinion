@@ -124,3 +124,7 @@ As a result, we'd also like to remind potential answerers to follow our rules on
 
 Additionally, while users may be able to help you out with specifics relating to your question, we also have plenty of information on /r/AskHistorians on how to find and understand good sources in general. For instance, please check out our six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay.
 
+----- __381.2__ -----2022-04-26 22:28:23+08:00:
+
+Mods can't pin comments by non-moderators, but you should be able to edit it into the post text.
+
