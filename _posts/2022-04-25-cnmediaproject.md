@@ -67,3 +67,7 @@ RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown aft
 
 As the Chinese Communist Party seeks to better “guide the masses,” directing the media they consume, media convergence has become a priority all the way down to the county level. <a href="https://chinamediaproject.org/2022/04/26/convergence-at-the-grassroots/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/26/convergence-at-the-grassroots/</a><br><img style="" src="https://pbs.twimg.com/media/FRUMPr-agAMLbMl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-04-27 19:32:03+08:00 推文](https://twitter.com/jcmittelstaedt/status/1519278195849240579)
+
+RT Jean Christopher Mittelstaedt<br>Full page in the CCDI's paper on Renmin university and "red genes" ... <br><br>"The 'pillar of rejuvenation, the pioneer of strengthening the country', [it] provides talent support for realising the Chinese dream of the great rejuvenation of the Chinese nation" <a href="https://jjjcb.ccdi.gov.cn/epaper/index.html?guid=1519033956836573185" target="_blank" rel="noopener noreferrer">https://jjjcb.ccdi.gov.cn/epaper/index.html?guid=1519033956836573185</a><br><img style="" src="https://pbs.twimg.com/media/FRWPd4QXsAE1zjf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

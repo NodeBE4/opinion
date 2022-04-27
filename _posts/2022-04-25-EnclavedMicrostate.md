@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-27
+date: 2022-04-28
 from: https://old.reddit.com/r/StupidFood/comments/ub2css/how_do_you_eat_that/
 layout: post
 tags:
@@ -224,9 +224,25 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Nice! I unfortunately missed the window for its original route and I don't think I live near where it would be going now.
 
-### 387: [When Would “Cold War II” Have Started, and What Specifically Caused It?](https://old.reddit.com/r/AskHistorians/comments/ud5wmt/when_would_cold_war_ii_have_started_and_what/), submitted on 2022-04-27 23:14:26+08:00.
+### 387: [Do the hololive members receive singing training ? If they do, who teaches them ?](https://old.reddit.com/r/Hololive/comments/ud4gwk/do_the_hololive_members_receive_singing_training/), submitted on 2022-04-27 22:09:31+08:00.
 
------ __387.1__ -----2022-04-27 23:21:19+08:00:
+----- __387.1__ -----2022-04-28 00:58:33+08:00:
+
+Most notably how her singing coach straight up ghosted the training agency one day.
+
+### 388: [When Would “Cold War II” Have Started, and What Specifically Caused It?](https://old.reddit.com/r/AskHistorians/comments/ud5wmt/when_would_cold_war_ii_have_started_and_what/), submitted on 2022-04-27 23:14:26+08:00.
+
+----- __388.1__ -----2022-04-27 23:21:19+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 389: [What was the name of this ancient game, and how did the story go?](https://old.reddit.com/r/AskHistorians/comments/ud7rhv/what_was_the_name_of_this_ancient_game_and_how/), submitted on 2022-04-28 00:35:47+08:00.
+
+----- __389.1__ -----2022-04-28 00:39:00+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
