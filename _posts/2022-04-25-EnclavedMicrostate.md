@@ -218,3 +218,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 386: [friend found the suisei bus in hk](https://old.reddit.com/r/Hololive/comments/ucuzou/friend_found_the_suisei_bus_in_hk/), submitted on 2022-04-27 12:12:46+08:00.
+
+----- __386.1__ -----2022-04-27 19:19:09+08:00:
+
+Nice! I unfortunately missed the window for its original route and I don't think I live near where it would be going now.
+
