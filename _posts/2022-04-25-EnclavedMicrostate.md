@@ -92,6 +92,10 @@ Zeta definitely seems very comfortable with preferring English over Bahasa Indon
 
 If I am not mistaken – but I might be – UP used to run /vt/-takes, so if that was banned then the UP account might have also been banned for essentially ban evading.
 
+----- __378.8__ -----2022-04-27 14:07:11+08:00:
+
+Yes, but that doesn't mean Twitter would necessarily immediately ban all connected accounts. Most sites operate on a largely reactive moderation approach (i.e. there isn't a problem until someone flags it) so it's entirely possible for there to be a considerable lag between one account being banned and another by the same user.
+
 ### 379: [What were Chinese gangs in the American West like?](https://old.reddit.com/r/AskHistorians/comments/ubtrn7/what_were_chinese_gangs_in_the_american_west_like/), submitted on 2022-04-26 03:51:36+08:00.
 
 ----- __379.1__ -----2022-04-26 11:02:36+08:00:
