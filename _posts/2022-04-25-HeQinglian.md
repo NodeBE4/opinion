@@ -251,3 +251,35 @@ Re @chinayvan 现在是全世界围着一个痴呆折腾。
 
 Re @Rainding45 是国土安全部专设的那个针对“错误信息”的办公室吗？<br>除了司法部出面，杀几只鸡吓吓猴子，媒体太多了，每天也真的很忙。<br>路透社只能央请金毛代为管教了。
 
+### 60: [2022-04-28 05:04:01+08:00 推文](https://twitter.com/HeQinglian/status/1519422137752330241)
+
+Re @JianglinLi @david_david1968 管他呢，反正是援助。
+
+### 61: [2022-04-28 05:10:05+08:00 推文](https://twitter.com/HeQinglian/status/1519423664336343042)
+
+Re @Wu_Zhi 全球左派脑控狂喜大普奔，美国终于正式成立1984的真理部。<br>只要公布检举邮箱，这些脑控狂全会主动检举，最后落了片白茫茫大地真干净。
+
+### 62: [2022-04-28 05:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1519425475764006913)
+
+EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？<br><br>He Qinglian: 这是最新的彭博社消息，除了标题说的刚参加用 卢布付款的EU成员国之外，总共有10家已经开设了卢布帐户。欧盟成员国一共27个。全员参与恐怕不会，因为波兰一定不能参加，就算通过邻国代购，也不能用卢布付款，让俄罗斯得意。<br> <a href="https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia</a>
+
+### 63: [2022-04-28 05:19:55+08:00 推文](https://twitter.com/HeQinglian/status/1519426137671278593)
+
+Re @david_david1968 彭国母亲自下厨烙大饼、包饺子给他们吃，还配上山东的大枣小米粥。
+
+### 64: [2022-04-28 05:29:37+08:00 推文](https://twitter.com/HeQinglian/status/1519428577409781761)
+
+Re @garylxq2018 @FightForJiuCai 按拜登政府与英国政府及美国纽约时报、CNN这几家主流媒体的说法，当然是普京受制裁，俄罗斯经济崩溃。<br>其他的信息都是假信息——估计WSJ与彭博社这类信息属于刚成立的美国土安全部虚假信息部待定性的假信息。
+
+### 65: [2022-04-28 05:31:47+08:00 推文](https://twitter.com/HeQinglian/status/1519429126226075650)
+
+Re @Elizabe47883246 还是拜登政府与泽连斯基最英明。🤣<br>请问，是不是俄罗斯的一丁点胜利也是美乌让普京赢的？
+
+### 66: [2022-04-28 05:40:55+08:00 推文](https://twitter.com/HeQinglian/status/1519431422552981506)
+
+Re @Elizabe47883246 想起金庸小说《笑傲江湖》黑木崖的切口：我圣教主英明天纵，算无遗策；千秋万代，一统江湖。<br>这切口，全球左疯应该引用歌颂拜登政府利用乌克兰打代理人战争削弱俄罗斯、让普京下台这一神算上，太合适了。🤣🤣🤣🤣
+
+### 67: [2022-04-28 05:42:57+08:00 推文](https://twitter.com/HeQinglian/status/1519431935449251842)
+
+Re @Rainding45 主要不够虚心，觉得自己在第一强国都夺权成功，伟光正那点花活不行。
+
