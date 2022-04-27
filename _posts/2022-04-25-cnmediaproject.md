@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-26
+date: 2022-04-27
 from: https://twitter.com/lilkuo/status/1518421109791633408
 layout: post
 tags:
@@ -53,9 +53,13 @@ Convergence at the Grassroots: An important piece by Stella Chen on press contro
 
 ### 10: [2022-04-26 20:20:53+08:00 推文](https://twitter.com/adamcathcart/status/1518928098888237056)
 
-RT Adam Cathcart<br>Duowei News no longer exists<br><br>Bill Bishop: Duowei has been shut down, no idea if for a specific article or something broader<br><br><img style="" src="https://pbs.twimg.com/media/FRRLz44WYAAAQbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://dwnews.com/" target="_blank" rel="noopener noreferrer">https://dwnews.com</a>
+RT Adam Cathcart<br>Duowei News no longer exists <a href="https://twitter.com/niubi/status/1518922346001747970" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1518922346001747970</a> <a href="https://www.cna.com.tw/news/acn/202204260275.aspx" target="_blank" rel="noopener noreferrer">https://www.cna.com.tw/news/acn/202204260275.aspx</a>
 
 ### 11: [2022-04-26 21:26:22+08:00 推文](https://twitter.com/CarlMinzner/status/1518944575511044098)
 
 RT Carl Minzner<br>*Zilch* on China's 7pm 4/26 evening news re: Beijing's city-wide covid testing.<br><br>Suspect Party authorities seriously stuck trying to figure out how to portray/describe things in Beijing going forward.
+
+### 12: [2022-04-27 09:59:01+08:00 推文](https://twitter.com/cnmediaproject/status/1519133987540664321)
+
+As the Chinese Communist Party seeks to better “guide the masses,” directing the media they consume, media convergence has become a priority all the way down to the county level. <a href="https://chinamediaproject.org/2022/04/26/convergence-at-the-grassroots/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/26/convergence-at-the-grassroots/</a><br><img style="" src="https://pbs.twimg.com/media/FRUMPr-agAMLbMl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
