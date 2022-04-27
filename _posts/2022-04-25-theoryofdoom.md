@@ -39,5 +39,11 @@ Submission Statement:
 
 According to the conventional wisdom inside the beltway, Ukraine is beating Russia and victory is within reach.  Or is it?  This op-ed is a reality check.  As Putin's desperation increases, so does his unpredictability --- meaning that nothing is absolutely off the table.  Putin's current war crimes may be egregious, but future crimes against humanity could be even more so.  Consider Putin's record.  In 1999, Putin leveled Grozny.  If Chechnya is Putin's model for Ukraine, the destruction has barely begun.  After the next four weeks to summer months of sustained combat, what remains of Ukraine will be unrecognizable.  
 
-Further, Washington's calls for Putin's removal (or worse) accomplish nothing helpful.  Where Washington is unwilling to act in Ukraine's defense beyond waiting eagerly to finance the post-war reconstruction, the Biden administration might at least have the decency to avoid unnecessary escalation.  This war's outcome was already existential.  If Putin has no off-ramp other than death or being thrown from power, he has no incentive to negotiate peace.
+Further, Washington's calls for Putin's removal (or worse) accomplish nothing helpful.  Where Washington is unwilling to act in Ukraine's defense beyond waiting eagerly to finance the post-war reconstruction, the Biden administration might at least have the decency to avoid unnecessary escalation.  This war's outcome was already existential.  If Putin has no off-ramp other than death or being thrown from power, he has no incentive to negotiate peace, much less accept it on any terms but his own.
+
+----- __242.2__ -----2022-04-27 10:47:56+08:00:
+
+For further discussion on managing escalation in Ukraine, see this Atlantic Council report: 
+
+* [Climbing the ladder: How the West can manage escalation in Ukraine and beyond](https://www.atlanticcouncil.org/in-depth-research-reports/report/managing-escalation-in-ukraine/)
 
