@@ -219,3 +219,35 @@ Re @TONY19891989 @FightForJiuCai 黄左比白左低几档次，从来只能跟�
 
 Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，语言无味，面目可憎。生活中肯定都很讨人厌。
 
+### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
+
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+
+### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
+
+路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？ <a href="https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/</a>
+
+### 54: [2022-04-28 03:36:01+08:00 推文](https://twitter.com/HeQinglian/status/1519399992141750273)
+
+Re 估计欧盟没听过中国掩耳盗铃这个成语，但却熟悉做法。
+
+### 55: [2022-04-28 03:52:05+08:00 推文](https://twitter.com/HeQinglian/status/1519404031894073349)
+
+这是最新的彭博社消息，除了标题说的刚参加用 卢布付款的EU成员国之外，总共有10家已经开设了卢布帐户。欧盟成员国一共27个。全员参与恐怕不会，因为波兰一定不能参加，就算通过邻国代购，也不能用卢布付款，让俄罗斯得意。 <a href="https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia</a>
+
+### 56: [2022-04-28 04:09:59+08:00 推文](https://twitter.com/HeQinglian/status/1519408538187182080)
+
+Re @Rainding45 没有啊，你如果去看那几家各国政府开办的中文媒体，几乎全是得胜凯歌，再看中文推特几个自媒体，普京的行刑队已经选好执行者了。<br>也就路透、彭博等不断报道这类实情，WSJ是报一条左派负面信息，又发一条半让乌克兰高兴的信息纠偏。纽约时报偏重骂普京个人，并发表克鲁格曼等人的诅咒。
+
+### 57: [2022-04-28 04:12:56+08:00 推文](https://twitter.com/HeQinglian/status/1519409278947368964)
+
+Re @owenusa 人家擅长掩耳盗铃勾当。
+
+### 58: [2022-04-28 04:13:45+08:00 推文](https://twitter.com/HeQinglian/status/1519409487983087622)
+
+Re @chinayvan 现在是全世界围着一个痴呆折腾。
+
+### 59: [2022-04-28 04:21:28+08:00 推文](https://twitter.com/HeQinglian/status/1519411427769040898)
+
+Re @Rainding45 是国土安全部专设的那个针对“错误信息”的办公室吗？<br>除了司法部出面，杀几只鸡吓吓猴子，媒体太多了，每天也真的很忙。<br>路透社只能央请金毛代为管教了。
+
