@@ -224,3 +224,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Nice! I unfortunately missed the window for its original route and I don't think I live near where it would be going now.
 
+### 387: [When Would “Cold War II” Have Started, and What Specifically Caused It?](https://old.reddit.com/r/AskHistorians/comments/ud5wmt/when_would_cold_war_ii_have_started_and_what/), submitted on 2022-04-27 23:14:26+08:00.
+
+----- __387.1__ -----2022-04-27 23:21:19+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
