@@ -47,3 +47,21 @@ For further discussion on managing escalation in Ukraine, see this Atlantic Coun
 
 * [Climbing the ladder: How the West can manage escalation in Ukraine and beyond](https://www.atlanticcouncil.org/in-depth-research-reports/report/managing-escalation-in-ukraine/)
 
+----- __242.3__ -----2022-04-27 13:13:41+08:00:
+
+> There is no military victory for UA that is worth the cost they are paying.
+
+I agree the costs are already unacceptably high.  But the final bill isn't in yet.  How much worse it will be remains to be seen.
+
+----- __242.4__ -----2022-04-27 13:36:49+08:00:
+
+Taking your article's unsupported claims at face value, mere intelligence sharing in the face of [such widespread and egregious war crimes](https://www.nytimes.com/2022/04/05/world/europe/russia-ukraine-war-atrocities.html) is of no more value, than directions to a far away oasis are to a man already dying of thirst.  
+
+But a rational observer cannot take those claims at face value.  Even if some intelligence may have been shared, that is to say nothing of whether the intelligence actually shared was actionable in any way, or whether the effect was consequential.  The [article you linked](https://www.nbcnews.com/politics/national-security/us-intel-helped-ukraine-protect-air-defenses-shoot-russian-plane-carry-rcna26015) assumed as much, but merely cites "officials" of varying types and capacities around 21 times throughout.  Nothing corroborating is found to support.  For example, sequential satellite photos that are dated and time-stamped might have been proof, but your article contains nothing of the sort whatsoever.    
+
+> I mean that's a level of perceived provocation that I wouldn't have expected pre-war. What are we expecting Washington to do?  
+
+Not [repeating history](https://www.brookings.edu/articles/decision-to-intervene-how-the-war-in-bosnia-ended/) would be a good first start.  While the analogy to Grozny in 1999 is compelling, the better comparison in my view is to Yugoslavia's breakup, and specifically Bill Clinton's inexplicable refusal to do what was necessary to end the ethnic cleansing, the concentration camps and the massacres of hundreds of thousands of civilians, until 1995; or his subsequent failure to timely intervene in [Rwanda](https://foreignpolicy.com/2015/04/05/rwanda-revisited-genocide-united-states-state-department/).  
+
+Biden has even less of an excuse than Bill Clinton.  Now, American security interests are directly implicated by the outcome of Ukraine; but were less so for Clinton in the 1990s.  In any case, history repeats itself unnecessarily.  Avoiding that would be minimally adequate.
+
