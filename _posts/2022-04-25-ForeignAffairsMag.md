@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-04-28
+date: 2022-04-29
 from: https://old.reddit.com/r/geopolitics/comments/udv9c0/rebels_without_a_cause_the_new_face_of_african/
 layout: post
 tags:
@@ -33,5 +33,14 @@ This fundamental change in the nature of conflict on the continent presents a qu
 
 \[SS from the article by Jason K. Stearns, Assistant Professor of International Studies at Simon Fraser University and Director of the Congo Research Group at the Center on International Cooperation at New York University\]
 
-The nature of African warfare has changed in recent decades, writes Jason K. Stearns. Today’s fighters use violence to extract rents from governments and foreign donors, rather than as a means to overthrow established regimes.
+The nature of African warfare has changed in recent decades, writes Jason K. Stearns. Today’s fighters use violence to extract rents from governments and foreign donors, rather than as a means to overthrow established regimes. The West must stop backing the elites who perpetuate this pattern of conflict—and support the democratic forces that can break it.
+
+### 227: [Rebels Without a Cause: The New Face of African Warfare](https://old.reddit.com/r/Africa/comments/ue1r9p/rebels_without_a_cause_the_new_face_of_african/), submitted on 2022-04-29 02:29:48+08:00.
+
+----- __227.1__ -----2022-04-29 02:30:45+08:00:
+
+\[SS from the article by Jason K. Stearns, Director of the Congo Research Group at the Center on International Cooperation at New York University\]  
+
+
+The nature of African warfare has changed in recent decades. Today’s fighters use violence to extract rents from governments and foreign donors, rather than as a means to overthrow established regimes. The West must stop backing the elites who perpetuate this pattern of conflict—and support the democratic forces that can break it.
 
