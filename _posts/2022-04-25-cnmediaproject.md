@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-27
+date: 2022-04-28
 from: https://twitter.com/lilkuo/status/1518421109791633408
 layout: post
 tags:
@@ -41,7 +41,7 @@ RT Manya Koetse<br>Over the past two days more Shanghai communities have been 
 
 ### 7: [2022-04-26 09:19:32+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1518761664484712448)
 
-RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.<br><br>Global Times: #Tesla generated $4.65 billion in China in Q1, 2022, a year-on-year increase of 52.8%. China is now Tesla's second-largest market, accounting for 24.8% of the company's revenue.<br><br><img style="" src="https://pbs.twimg.com/media/FROvxzCaUAEyc-W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.
 
 ### 8: [2022-04-26 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1518772098163957761)
 
@@ -67,7 +67,15 @@ RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown aft
 
 As the Chinese Communist Party seeks to better “guide the masses,” directing the media they consume, media convergence has become a priority all the way down to the county level. <a href="https://chinamediaproject.org/2022/04/26/convergence-at-the-grassroots/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/26/convergence-at-the-grassroots/</a><br><img style="" src="https://pbs.twimg.com/media/FRUMPr-agAMLbMl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 14: [2022-04-27 19:32:03+08:00 推文](https://twitter.com/jcmittelstaedt/status/1519278195849240579)
+### 14: [2022-04-27 16:45:09+08:00 推文](https://twitter.com/dikaioslin/status/1519236195980496898)
+
+RT Yao Lin 林垚<br>new guidelines on teaching physics during mandatory education period: follow Xi Jinping's thought &amp; use physics classroom to impart nationalism on students<br><img style="" src="https://pbs.twimg.com/media/FRVoUeDVUAMDzNC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRVoV_fVsAAdyzA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-04-27 19:32:03+08:00 推文](https://twitter.com/jcmittelstaedt/status/1519278195849240579)
 
 RT Jean Christopher Mittelstaedt<br>Full page in the CCDI's paper on Renmin university and "red genes" ... <br><br>"The 'pillar of rejuvenation, the pioneer of strengthening the country', [it] provides talent support for realising the Chinese dream of the great rejuvenation of the Chinese nation" <a href="https://jjjcb.ccdi.gov.cn/epaper/index.html?guid=1519033956836573185" target="_blank" rel="noopener noreferrer">https://jjjcb.ccdi.gov.cn/epaper/index.html?guid=1519033956836573185</a><br><img style="" src="https://pbs.twimg.com/media/FRWPd4QXsAE1zjf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-04-28 09:26:00+08:00 推文](https://twitter.com/cnmediaproject/status/1519488064795848704)
+
+Re @vshih2 @PDChina CMP has been compiling a research file on this, actually. There is sustained coverage through 1952, and old television footage out there too. But so much complex disinformation.<br><video src="https://video.twimg.com/ext_tw_video/1519487995782766592/pu/vid/638x352/1etZoIga6dQx24qR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1519487995782766592/pu/img/wNOICIvf6Jwh0JNH.jpg"></video>
 

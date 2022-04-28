@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-04-27
+date: 2022-04-28
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/ubzvfk/communication_in_view_of_reddits_new_block/
 layout: post
 tags:
@@ -64,4 +64,30 @@ But a rational observer cannot take those claims at face value.  Even if some in
 Not [repeating history](https://www.brookings.edu/articles/decision-to-intervene-how-the-war-in-bosnia-ended/) would be a good first start.  While the analogy to Grozny in 1999 is compelling, the better comparison in my view is to Yugoslavia's breakup, and specifically Bill Clinton's inexplicable refusal to do what was necessary to end the ethnic cleansing, the concentration camps and the massacres of hundreds of thousands of civilians, until 1995; or his subsequent failure to timely intervene in [Rwanda](https://foreignpolicy.com/2015/04/05/rwanda-revisited-genocide-united-states-state-department/).  
 
 Biden has even less of an excuse than Bill Clinton.  Now, American security interests are directly implicated by the outcome of Ukraine; but were less so for Clinton in the 1990s.  In any case, history repeats itself unnecessarily.  Avoiding that would be minimally adequate.
+
+----- __242.5__ -----2022-04-28 08:42:17+08:00:
+
+I agree with your red line analysis, particularly your consideration of how well that strategy played out in Syria.  As you rightly note, Assad blatantly ignored Obama's red line on chemical weapons, because he knew understood the costs of enforcement would be unacceptably high for Washington.  To save face, Obama struck a "deal" with Lavrov to "remove" Syria's chemical weapon stockpile.  The rest is history.  Once again we are reminded that expecting what you're unwilling to enforce is a fool's errand.  
+
+I agree nuclear weapons were off the table in Rwanda.  It is less clear whether the risk that Putin uses nuclear weapons is any greater than a similar event in the former Yugoslavia.  Further, the scale of atrocities in that series of events approximates a death toll at least on par with a hypothetical nuclear event: [at least 140,000 people killed and 4 million displaced](https://www.ictj.org/publication/transitional-justice-former-yugoslavia).  For perspective, somewhere between 70,000 to 135,000 people died in Hiroshima and 60,000 to 80,000 people died in Nagasaki.
+
+----- __242.6__ -----2022-04-28 08:45:30+08:00:
+
+> I disagree. Putin has been very, very careful not to step two centimeters into NATO territory for fear of crossing the Article 5 red line. I think it's a mistake to convince yourself that's not responding rationally.
+
+This is 100% correct.  There is a tendency among some to jump to the conclusion that the leader of a foreign country is "irrational" when they aren't acting in the ways some in American foreign policy circles think they should be.  And that tendency is wrong.  Every risk Putin has taken is calculated, measured and deliberate.
+
+### 243: [Unofficial Daily Update for 2022-04-27. 3434 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/ud9sy1/unofficial_daily_update_for_20220427_3434_new/), submitted on 2022-04-28 02:05:19+08:00.
+
+----- __243.1__ -----2022-04-28 08:51:56+08:00:
+
+> How the hell are you being downvoted?
+
+For a large cohort of folks, COVID will never be over.  The world has moved on and left them behind in the process.  Only by downvoting can they exercise agency over their new normal.
+
+----- __243.2__ -----2022-04-28 08:55:10+08:00:
+
+> How can we say that hospitalizations are staying flat when they're up 25% in the 7 day average?
+
+By understanding [data in context](https://dph.illinois.gov/covid19/data/hospitalization-utilization.html), of course.
 
