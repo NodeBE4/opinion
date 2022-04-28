@@ -156,7 +156,7 @@ That is, however, a different matter from whether Alexander recognised Cyrus reg
 
 1. Alexander's encounter with the Ariaspians (aka Euergetes) in 329; (Arr. 3.27.4-5; Diod. 17.81; Curt. 3.7.1-3)
 
-2. Alexander's decision to retreat from India via Gedrosia in 326; (Arr. *Anabasis* 6.24.3, *Indika* 5.7, 9.10)
+2. Alexander's decision to retreat from India via Gedrosia in 326; (Arr. *Anabasis* 6.24.3)
 
 3. Alexander's re-dedication of the tomb of Cyrus at Pasargadae in winter 325/4. (Arr. 6.29.4-11; Plut. *Alexander* 69.1-5; Curt. 10.1.30-35, Strabo 15.3.7)
 
@@ -172,7 +172,7 @@ Where there is some divergence is on this last point: Arrian has it that he was 
 
 > Saved from utter despair, then, Cyrus gave them exemption from taxation and other marks of honour, and abolishing their former appellation, named them Benefactors. (Diod. 17.81.1)
 
-With this in mind, Alexander's favour towards the Ariaspians need not be interpreted as a specific attempt to honour Cyrus, but part of a more general policy of maintaining the Achaemenid status quo towards peoples who cooperated with the Macedonian conquest. That said, I personally would argue that the sources' claim that Alexander intentionally emulated Cyrus holds water.
+With this in mind, Alexander's favour towards the Ariaspians need not be interpreted as a specific attempt to honour Cyrus, but part of a more general policy of maintaining the Achaemenid status quo towards peoples who cooperated with the Macedonian conquest. That said, I personally would argue that the sources' claim that Alexander intentionally emulated Cyrus holds some water.
 
 Only Arrian links Alexander's Indian campaign with Cyrus, and makes the claim that his decision to retreat through Gedrosia was an attempt to succeed where Semiramis and Cyrus had failed:
 

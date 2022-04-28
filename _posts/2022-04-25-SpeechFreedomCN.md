@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-04-27
+date: 2022-04-28
 from: https://twitter.com/SpeechFreedomCN/status/1519145827553398785
 layout: post
 tags:
@@ -22,4 +22,8 @@ title: 'Twitter @中国文字狱事件盘点: 2022-04-25~2022-05-01'
 ### 2: [2022-04-27 10:48:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1519146562676531207)
 
 Henan man Zhang, who spread "harmful information on Twitter that slander the state leaders", arrested in Dec 2018 and prosecuted the next year. The subsequent sentence for him remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FRUXHDRWYAE9yJ4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUXIhdXsAAQXhl?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-04-28 20:11:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1519650614787158017)
+
+同问<br><br>推特小红旗: 我们的工作一定哪里出了问题。<br><br><img style="" src="https://pbs.twimg.com/media/FRa5qh7aMAAwVDx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
