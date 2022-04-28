@@ -115,3 +115,9 @@ Critically, this is not the end.  We are only entering the next chapter under th
 
 In the big picture, Ukraine is a theater in a much broader conflict, where it may be little more than the opening salvo.  Putin knows that Washington will lose momentum, focus and the initiative --- just like in Syria.  Unlike Washington, Putin is playing the long-game --- just like he has in Syria.  [Misguided optimism](https://www.economist.com/europe/america-is-now-thinking-of-winning-the-war-in-ukraine/21808960) as to how this war ends should be guarded against at all costs.
 
+----- __245.3__ -----2022-04-28 13:34:51+08:00:
+
+> Ukraine is not the authoritarian backwater of Syria.
+
+Your analysis misses the point.  The focus is on Washington's actions, not similarities or dissimilarities between each of Syria and Ukraine.  The remainder of your claims want for evidentiary support.
+
