@@ -77,17 +77,41 @@ I agree nuclear weapons were off the table in Rwanda.  It is less clear whether 
 
 This is 100% correct.  There is a tendency among some to jump to the conclusion that the leader of a foreign country is "irrational" when they aren't acting in the ways some in American foreign policy circles think they should be.  And that tendency is wrong.  Every risk Putin has taken is calculated, measured and deliberate.
 
-### 243: [Unofficial Daily Update for 2022-04-27. 3434 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/ud9sy1/unofficial_daily_update_for_20220427_3434_new/), submitted on 2022-04-28 02:05:19+08:00.
+### 243: [The US is out of the Covid-19 pandemic phase, Fauci says](https://old.reddit.com/r/CoronavirusIllinois/comments/ud5apv/the_us_is_out_of_the_covid19_pandemic_phase_fauci/), submitted on 2022-04-27 22:47:39+08:00.
 
------ __243.1__ -----2022-04-28 08:51:56+08:00:
+----- __243.1__ -----2022-04-28 11:53:48+08:00:
+
+It turns out that "full blown pandemic" is not a [pandemic phase](https://www.ncbi.nlm.nih.gov/books/NBK143061/), according to the relevant literature.
+
+### 244: [Unofficial Daily Update for 2022-04-27. 3434 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/ud9sy1/unofficial_daily_update_for_20220427_3434_new/), submitted on 2022-04-28 02:05:19+08:00.
+
+----- __244.1__ -----2022-04-28 08:51:56+08:00:
 
 > How the hell are you being downvoted?
 
 For a large cohort of folks, COVID will never be over.  The world has moved on and left them behind in the process.  Only by downvoting can they exercise agency over their new normal.
 
------ __243.2__ -----2022-04-28 08:55:10+08:00:
+----- __244.2__ -----2022-04-28 08:55:10+08:00:
 
 > How can we say that hospitalizations are staying flat when they're up 25% in the 7 day average?
 
 By understanding [data in context](https://dph.illinois.gov/covid19/data/hospitalization-utilization.html), of course.
+
+### 245: [What’s Putin’s Next Move? Look to Syria](https://old.reddit.com/r/geopolitics/comments/udkzg2/whats_putins_next_move_look_to_syria/), submitted on 2022-04-28 10:53:14+08:00.
+
+----- __245.1__ -----2022-04-28 11:44:58+08:00:
+
+No Paywall: https://archive.ph/mKDWk
+
+----- __245.2__ -----2022-04-28 11:45:12+08:00:
+
+Submission Statement:  In the months before [December 2021](https://www.wsj.com/articles/cia-chief-says-intelligence-agencies-havent-concluded-russia-will-invade-ukraine-11638848453), Putin massed the Russian army on Ukraine's border.  As [I explained early that month](https://www.reddit.com/r/geopolitics/comments/rbkr9q/why_ukraine_matters/), Putin's iterative escalation strategy was an information gathering exercise --- to clarify the stakes and strategic considerations involved.  Then, Putin's outstanding question was whether he could take Ukraine without a NATO/American-led military response.  Once it was clear that sanctions and some limited military aid inflowing to Ukraine was ceiling of his external risk, invasion following exactly as anticipated under those conditions.  
+
+The Russian army's actual performance fell short.  But no plan of operations extends with certainty beyond the first encounter with the enemy.  Ukraine's guerrilla resistance largely exceeded expectations primarily due to strategy: using scarce resources to maximal impact by targeting the Russian army's most significant vulnerability (logistics/supply-chain) in the most devastating way possible (blowing up fuel trucks).  
+
+Critically, this is not the end.  We are only entering the next chapter under the same conditions which led to Putin's invasion in the first instance: 
+
+> For years, the international community’s response to Russian aggression was meek, at best. The path to Russia’s invasion of Ukraine has been paved in large part by our own inaction.
+
+In the big picture, Ukraine is a theater in a much broader conflict, where it may be little more than the opening salvo.  Putin knows that Washington will lose momentum, focus and the initiative --- just like in Syria.  Unlike Washington, Putin is playing the long-game --- just like he has in Syria.  [Misguided optimism](https://www.economist.com/europe/america-is-now-thinking-of-winning-the-war-in-ukraine/21808960) as to how this war ends should be guarded against at all costs.
 
