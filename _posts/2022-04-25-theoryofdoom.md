@@ -121,3 +121,32 @@ In the big picture, Ukraine is a theater in a much broader conflict, where it ma
 
 Your analysis misses the point.  The focus is on Washington's actions, not similarities or dissimilarities between each of Syria and Ukraine.  The remainder of your claims want for evidentiary support.
 
+----- __245.4__ -----2022-04-28 14:03:24+08:00:
+
+> After 2 months of Russian blunders and a severely underperforming military performance . . . 
+
+Folks should consider how underperformance is measured.  What exactly was the standard according to which Russia's military could be expected to perform?  Putin over-estimated the Russian military's capability to prosecute a large-scale ground war in Ukraine.  
+
+No impartial observer could have reasonably reached the same conclusion. 
+ Vladimir Putin's army is comprised of of [ill-equipped, undertrained and undisciplined conscripts](https://www.thedailybeast.com/gchq-chief-sir-jeremy-fleming-says-russian-military-is-bloody-mess-shot-down-own-plane?ref=wrap):
+
+>  We’ve seen Russian soldiers—short of weapons and morale—refusing to carry out orders, sabotaging their own equipment and even accidentally shooting down their own aircraft
+
+To the extent Russia is falling short of expectations, the expectations were irrationally high.  
+
+Another aspect of this is how popular assessments of Russia's military capabilities are formed.  Media are biased in favor of sensationalism.  A headline to the effect of "conscript army of underfed Russian teenagers fails to take neighboring Ukraine" hardly carries the impact sought among readers.  There's a tendency to exaggerate, and seems that exaggeration has induced many into overestimating what might have been.
+
+----- __245.5__ -----2022-04-28 14:21:27+08:00:
+
+The window of opportunity to change course has probably closed.  Biden hasn't made precisely the same mistakes Obama made in Syria --- yet --- but the strategic failings parallel.  As the author argues:
+
+> [W]e must be acutely wary of Russian intentions and not repeat mistakes made in Syria.
+
+Doing so would involve expecting that Putin will probably increase troop volumes, potentially use Wagner mercenaries, and in no circumstances will he back down only because of economic sanctions of any kind.  Putin will also likely precipitate conflict in theaters, like Transnistria, to distract and generate new uncertainty.
+
+Washington must also come to terms with the fact that Russia’s most recent invasion fell in the context of prior impunity, from Putin's invading Georgia in 2008 to numerous other unanswered provocations, to date. 
+
+Accordingly, Washington's present focus ought to be on re-establishing global norms.  That will require deliberate, measured assertive action to hold bad actors accountable in ways they will recognize as deterrents ("speak softly but carry a big stick"). 
+
+Further, Washington must disabuse itself of the delusion that sanctions are going to force Putin out of power.  They will not.  The DC beltway-type prevailing wisdom on Putin's popularity is a delusion.  And it is not as if this is even a context where speaking out against the state in Russia is an activity people even feel safe doing.
+
