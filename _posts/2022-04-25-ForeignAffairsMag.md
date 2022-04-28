@@ -27,3 +27,11 @@ This is the face of many African conflicts today. Whereas most armed groups on t
 
 This fundamental change in the nature of conflict on the continent presents a quandary for outside actors, including the United States, the European Union, and the United Nations, which often partner with African governments to fight terrorism or stem migration. If some African governments are not genuinely committed to stability or, even worse, are actively fueling instability, foreign partners risk becoming complicit in the violence by supporting them without demanding better governance and accountability in return. It is therefore time for a new approach. Instead of bolstering regimes that are too often part of the problem, Washington, Brussels, and other external actors should work more closely with civil society and democratic movements on the continent to promote democratic reform. Only by changing the character of African states can they hope to change the character of conflict in Africa."
 
+### 226: [Rebels Without a Cause: The New Face of African Warfare](https://old.reddit.com/r/TrueReddit/comments/udxg0u/rebels_without_a_cause_the_new_face_of_african/), submitted on 2022-04-28 23:19:55+08:00.
+
+----- __226.1__ -----2022-04-28 23:20:11+08:00:
+
+\[SS from the article by Jason K. Stearns, Assistant Professor of International Studies at Simon Fraser University and Director of the Congo Research Group at the Center on International Cooperation at New York University\]
+
+The nature of African warfare has changed in recent decades, writes Jason K. Stearns. Today’s fighters use violence to extract rents from governments and foreign donors, rather than as a means to overthrow established regimes.
+
