@@ -1,0 +1,29 @@
+---
+author: ForeignAffairsMag
+categories:
+- Reddit
+date: 2022-04-28
+from: https://old.reddit.com/r/geopolitics/comments/udv9c0/rebels_without_a_cause_the_new_face_of_african/
+layout: post
+tags:
+- Reddit
+title: ForeignAffairsMag在2022-04-25~2022-05-01的言论
+---
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 225: [Rebels Without a Cause: The New Face of African Warfare](https://old.reddit.com/r/geopolitics/comments/udv9c0/rebels_without_a_cause_the_new_face_of_african/), submitted on 2022-04-28 21:40:50+08:00.
+
+----- __225.1__ -----2022-04-28 21:41:51+08:00:
+
+\[SS from the article by Jason K. Stearns, Assistant Professor of International Studies at Simon Fraser University and Director of the Congo Research Group at the Center on International Cooperation at New York University\]
+
+"On August 1, 2018, the government of the Democratic Republic of the Congo declared an outbreak of Ebola in the country’s war-torn northeast. It was Congo’s tenth recorded outbreak of the deadly hemorrhagic fever, but the first in an active conflict zone. Determined to avoid a repeat of the West African Ebola epidemic in 2014, when outside help was too little, too late, donors threw caution to the wind and pumped more than $700 million into northeastern Congo to fight the disease over the next 20 months. To protect their staff members, the World Health Organization and its partners put both Congolese security forces and local militia members on their payrolls. This created perverse incentives: although the combatants had reason to refrain from attacking aid workers, they also had an interest in prolonging the epidemic so they could keep profiting from it. Between August 2018 and June 2020, when the Ebola epidemic was finally declared over, some militiamen and members of the government security forces stoked violence and instability so that the disease would continue to spread and the international aid agencies would continue to pay them. A well-meaning effort to contain the disease ended up doing the exact opposite.  
+
+
+This is the face of many African conflicts today. Whereas most armed groups on the continent once aimed to topple governments or secede and found new countries, those who take up arms these days are more likely to do so as a means of bargaining over resources. Some government officials in Congo, Mali, Nigeria, Somalia, and elsewhere have sought to prolong and even instigate conflicts, so long as they did not threaten their survival, and rebel groups in these and other countries have often challenged governments as a way of extracting payouts and other concessions. Although battles for state power haven’t disappeared altogether—the Ethiopian civil war is one such conflict—war in many African countries has become an economic bargaining tool, a way of life, and even a mode of governance.  
+
+
+This fundamental change in the nature of conflict on the continent presents a quandary for outside actors, including the United States, the European Union, and the United Nations, which often partner with African governments to fight terrorism or stem migration. If some African governments are not genuinely committed to stability or, even worse, are actively fueling instability, foreign partners risk becoming complicit in the violence by supporting them without demanding better governance and accountability in return. It is therefore time for a new approach. Instead of bolstering regimes that are too often part of the problem, Washington, Brussels, and other external actors should work more closely with civil society and democratic movements on the continent to promote democratic reform. Only by changing the character of African states can they hope to change the character of conflict in Africa."
+
