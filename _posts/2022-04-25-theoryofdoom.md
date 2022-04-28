@@ -150,3 +150,17 @@ Accordingly, Washington's present focus ought to be on re-establishing global no
 
 Further, Washington must disabuse itself of the delusion that sanctions are going to force Putin out of power.  They will not.  The DC beltway-type prevailing wisdom on Putin's popularity is a delusion.  And it is not as if this is even a context where speaking out against the state in Russia is an activity people even feel safe doing.
 
+----- __245.6__ -----2022-04-28 19:21:24+08:00:
+
+This was, among others, Obama's main mistake in Syria: Obama drew a red line he knew he would never enforce.  Then Putin called his bluff.
+
+----- __245.7__ -----2022-04-28 19:25:06+08:00:
+
+You're exactly right about the sanction's failings.  But the problem remains that the United States simply does not have the power to sanction Russia into compliance with its foreign policy objectives.
+
+### 246: [Scientific Integrity: HHS Agencies Need to Develop Procedures and Train Staff on Reporting and Addressing Political Interference](https://old.reddit.com/r/CoronavirusIllinois/comments/udsxos/scientific_integrity_hhs_agencies_need_to_develop/), submitted on 2022-04-28 19:36:25+08:00.
+
+----- __246.1__ -----2022-04-28 19:36:50+08:00:
+
+Link to Full Report: https://www.gao.gov/assets/730/720120.pdf
+
