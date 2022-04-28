@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-28
+date: 2022-04-29
 from: https://twitter.com/HeQinglian/status/1518280988408922113
 layout: post
 tags:
@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -261,7 +261,7 @@ Re @Wu_Zhi 全球左派脑控狂喜大普奔，美国终于正式成立1984的�
 
 ### 62: [2022-04-28 05:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1519425475764006913)
 
-EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？ <a href="https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684</a>
+EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？<br><br>He Qinglian: 这是最新的彭博社消息，除了标题说的刚参加用 卢布付款的EU成员国之外，总共有10家已经开设了卢布帐户。欧盟成员国一共27个。全员参与恐怕不会，因为波兰一定不能参加，就算通过邻国代购，也不能用卢布付款，让俄罗斯得意。<br> <a href="https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia</a>
 
 ### 63: [2022-04-28 05:19:55+08:00 推文](https://twitter.com/HeQinglian/status/1519426137671278593)
 
@@ -362,4 +362,28 @@ Re @o2pIHqzvuxGd9Uu 日本这次制裁不甚积极，加之资源进口多元化
 ### 87: [2022-04-28 21:43:30+08:00 推文](https://twitter.com/HeQinglian/status/1519673665121570817)
 
 Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好有客观事实。<br>不要信息战的说法，最好是验证过的。
+
+### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
+
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
+
+### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
+
+Re @hz8003086 说过比例吧，比特币占美国货币总量的多少，并请给出可靠链接。如果没超过10%，趋势何来？
+
+### 90: [2022-04-28 22:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1519687014437859328)
+
+Re @o2pIHqzvuxGd9Uu 明白了，信息来源只有一方。
+
+### 91: [2022-04-28 22:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1519687135309312001)
+
+Re @hz8003086 不私聊。这事应该没什么机密。
+
+### 92: [2022-04-28 23:30:01+08:00 推文](https://twitter.com/HeQinglian/status/1519700472164229120)
+
+Re @KELMAND1 拜登将白宫建筑卖了支援乌克兰，估计民主党也会支持。
+
+### 93: [2022-04-29 00:12:51+08:00 推文](https://twitter.com/HeQinglian/status/1519711248442613760)
+
+据美国CNBC28日报道，美国商务部28日报告称，美国2022年一季度GDP年化增速为-1.4%，这标志着美国经济自1984年以来的上升趋势突然出现逆转。分析称，2022年前三个月，有众多因素影响美国经济增长，包括不断激增的奥密克戎新冠病毒病例，通胀率飙升至1980年代初以来的最高水平，俄乌冲突等等。
 
