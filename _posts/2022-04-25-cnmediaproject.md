@@ -41,7 +41,7 @@ RT Manya Koetse<br>Over the past two days more Shanghai communities have been 
 
 ### 7: [2022-04-26 09:19:32+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1518761664484712448)
 
-RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.
+RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.<br><br>Global Times: #Tesla generated $4.65 billion in China in Q1, 2022, a year-on-year increase of 52.8%. China is now Tesla's second-largest market, accounting for 24.8% of the company's revenue.<br><br><img style="" src="https://pbs.twimg.com/media/FROvxzCaUAEyc-W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-04-26 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1518772098163957761)
 
