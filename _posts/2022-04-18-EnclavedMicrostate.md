@@ -355,3 +355,7 @@ Call me what you will but I guess the guys just never appealed to me quite as mu
 
 I mean I just try to lay my cards out on the table; I do have a particular allegiance and I won't hide it.
 
+----- __374.5__ -----2022-04-29 22:45:14+08:00:
+
+I felt like someone would mention IN at some point. But yeah, it seems like if Niji were going to go public, the merger was the best possible option even if it meant cutting ID expansion and also bleeding a large chunk of what remained of KR.
+
