@@ -56,6 +56,10 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+----- __229.2__ -----2022-04-30 01:41:29+08:00:
+
+Try this link! [https://www.foreignaffairs.com/guest-pass/redeem/QyluK6xC0BI](https://www.foreignaffairs.com/guest-pass/redeem/QyluK6xC0BI)
+
 ### 230: [North Korea’s Missile Message: How Kim’s New Nuclear Capabilities Up the Ante](https://old.reddit.com/r/northkorea/comments/uenfuj/north_koreas_missile_message_how_kims_new_nuclear/), submitted on 2022-04-29 22:42:20+08:00.
 
 ----- __230.1__ -----2022-04-29 22:42:31+08:00:

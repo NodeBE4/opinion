@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
