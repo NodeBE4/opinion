@@ -164,3 +164,13 @@ You're exactly right about the sanction's failings.  But the problem remains tha
 
 Link to Full Report: https://www.gao.gov/assets/730/720120.pdf
 
+### 247: [COVID by the Numbers: Illinois Reports More Than 3,000 New Cases Amid ‘Deceleration’ in Pandemic](https://old.reddit.com/r/CoronavirusIllinois/comments/udwjmt/covid_by_the_numbers_illinois_reports_more_than/), submitted on 2022-04-28 22:40:05+08:00.
+
+----- __247.1__ -----2022-04-29 10:21:07+08:00:
+
+This is your last warning.
+
+----- __247.2__ -----2022-04-29 10:21:37+08:00:
+
+Feel free to just link my prior comments on these issues.
+

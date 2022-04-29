@@ -225,7 +225,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
-路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？ <a href="https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/</a>
+路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？<br><br>北明BeiMing: 上海疫情，ICU醫生怒而發言： <br><br>你们都什么专业要挑战人家吃饭的本事。这种脑子送给我们神经外科研究一下，为什么会长成这样。<br><br>張文宏月份就预见omicron的影响, 建議上海針對疫情規模，超過5到10倍的預警案，提出各項具體措施。<br><br>控制民间舆论，业内的也控制，發國難財……。<br><br><img style="" src="https://pbs.twimg.com/media/FRXaPX9XoAoRJjv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q</a>
 
 ### 54: [2022-04-28 03:36:01+08:00 推文](https://twitter.com/HeQinglian/status/1519399992141750273)
 
@@ -398,4 +398,16 @@ Re @Wu_Zhi 这位女士，不会就是前一向媒体上揭露的那一位指导
 ### 96: [2022-04-29 04:32:04+08:00 推文](https://twitter.com/HeQinglian/status/1519776482704379904)
 
 Re @suwoluofu123 这一向都在讲这事，如今真来了。<br>如果此行动是真的，那就是“螳螂捕蝉，黄雀在后” 。<br>不知此事波兰与北约、美国暗中沟通过没有？
+
+### 97: [2022-04-29 05:55:16+08:00 推文](https://twitter.com/HeQinglian/status/1519797421978574849)
+
+Re @feizhuliu1 “自1984年以来”，是原报道的用语。
+
+### 98: [2022-04-29 08:13:40+08:00 推文](https://twitter.com/HeQinglian/status/1519832252712198145)
+
+Re @JianglinLi @Wu_Zhi 话说，就一张窗户纸没捅破的问题了。
+
+### 99: [2022-04-29 08:26:28+08:00 推文](https://twitter.com/HeQinglian/status/1519835472394129408)
+
+Re @Wu_Zhi @JianglinLi 我曾见到推上有人贴出过各国雇佣军数量，波兰人数最多，1900多，独立成编，其实是美、英。<br>不知真假，因为不研究“手段”，未留存。
 
