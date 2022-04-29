@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-28
+date: 2022-04-29
 from: https://twitter.com/lilkuo/status/1518421109791633408
 layout: post
 tags:
@@ -41,7 +41,7 @@ RT Manya Koetse<br>Over the past two days more Shanghai communities have been 
 
 ### 7: [2022-04-26 09:19:32+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1518761664484712448)
 
-RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.<br><br>Global Times: #Tesla generated $4.65 billion in China in Q1, 2022, a year-on-year increase of 52.8%. China is now Tesla's second-largest market, accounting for 24.8% of the company's revenue.<br><br><img style="" src="https://pbs.twimg.com/media/FROvxzCaUAEyc-W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.
 
 ### 8: [2022-04-26 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1518772098163957761)
 
@@ -53,7 +53,7 @@ Convergence at the Grassroots: An important piece by Stella Chen on press contro
 
 ### 10: [2022-04-26 20:20:53+08:00 推文](https://twitter.com/adamcathcart/status/1518928098888237056)
 
-RT Adam Cathcart<br>Duowei News no longer exists<br><br>Bill Bishop: Duowei has been shut down, no idea if for a specific article or something broader<br><br><img style="" src="https://pbs.twimg.com/media/FRRLz44WYAAAQbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://dwnews.com/" target="_blank" rel="noopener noreferrer">https://dwnews.com</a>
+RT Adam Cathcart<br>Duowei News no longer exists <a href="https://twitter.com/niubi/status/1518922346001747970" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1518922346001747970</a> <a href="https://www.cna.com.tw/news/acn/202204260275.aspx" target="_blank" rel="noopener noreferrer">https://www.cna.com.tw/news/acn/202204260275.aspx</a>
 
 ### 11: [2022-04-26 21:26:22+08:00 推文](https://twitter.com/CarlMinzner/status/1518944575511044098)
 
@@ -78,4 +78,12 @@ RT Jean Christopher Mittelstaedt<br>Full page in the CCDI's paper on Renmin un
 ### 16: [2022-04-28 09:26:00+08:00 推文](https://twitter.com/cnmediaproject/status/1519488064795848704)
 
 Re @vshih2 @PDChina CMP has been compiling a research file on this, actually. There is sustained coverage through 1952, and old television footage out there too. But so much complex disinformation.<br><video src="https://video.twimg.com/ext_tw_video/1519487995782766592/pu/vid/638x352/1etZoIga6dQx24qR.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1519487995782766592/pu/img/wNOICIvf6Jwh0JNH.jpg"></video>
+
+### 17: [2022-04-29 11:43:45+08:00 推文](https://twitter.com/cnmediaproject/status/1519885121817821184)
+
+After Qin Gang's tough interview on a US news show in March, a dubious meme galvanized anger on Chinese social media over the country's supposed mistreatment. The story behind the meme is a lesson in coordinated distraction by China's state-run media. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRe3ZFgagAInV76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-04-29 12:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1519894140385107968)
+
+The Power Politics of Interruption: In this article, CMP's David Bandurski breaks down a meme that proliferated on Chinese social media following Ambassador Qin Gang's interview in March on "Face the Nation" -- pushed along by state media accounts. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRe_jzdagAA3JKG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
