@@ -61,7 +61,7 @@ Re CCHRC content is strikingly in line with the CCP line, though Zwart insists h
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
@@ -97,7 +97,7 @@ RT Alan Wong<br>Chinese contact tracing accidentally revealed a migrant worker
 
 ### 21: [2022-01-20 17:24:22+08:00 推文](https://twitter.com/SPCmonitor/status/1484094440939655170)
 
-RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial&nbsp;Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
+RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
 
 ### 22: [2022-01-20 22:45:15+08:00 推文](https://twitter.com/eileenguo/status/1484175192934871046)
 

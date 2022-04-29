@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-28
+date: 2022-04-29
 from: https://old.reddit.com/r/StupidFood/comments/ub2css/how_do_you_eat_that/
 layout: post
 tags:
@@ -273,4 +273,26 @@ A couple of good things to read on this are:
 ----- __390.2__ -----2022-04-29 12:06:15+08:00:
 
 I allude to the security apparatus here; I'd recommend looking at O'Donnell's article and its sources, but there is a case to be made that the grid-management system can be understood as either a slightly softened import from Xinjiang, or as a sort of low-security tier applied to Han Chinese cities while ethnic minority regions get the high-security regime.
+
+### 391: [What Happened to Alexander the Great’s Cloak?](https://old.reddit.com/r/AskHistorians/comments/uefdrt/what_happened_to_alexander_the_greats_cloak/), submitted on 2022-04-29 14:04:49+08:00.
+
+----- __391.1__ -----2022-04-29 16:26:06+08:00:
+
+Alexander supposedly wore cloaks, but that doesn't mean he supposedly wore a *specific* cloak. Alexander is known to have worn a purple *chlamys* as part of his royal costume, per a paraphrase of Ephippos of Olynthos preserved by the rhetoretician Athenaios (translation via Andrew Collins):
+
+> ...nearly every day he wore a purple cloak, a purple tunic with a white middle, and the Macedonian *kausia* with the royal diadem. On social occasions, he put on the sandals and the *petasos* on his head, and took the *caduceus* in his hand. Often he also wore the lion's skin and club just like Heracles.
+
+That does not suggest that he only had one particular purple cloak in his possession.
+
+The provenance of Mithridates' supposed Alexandrian cloak is an interesting tidbit in itself: it is not actually mentioned as being worn by Mithridates himself, but rather by Pompey at his triumph, per Appian (*The Mithridatic Wars* 117):
+
+> Pompey himself was borne in a chariot studded with gems, wearing, it was said, a cloak of Alexander the Great, if any one can believe that. This was supposed to have been found among the possessions of Mithridates that the inhabitants of Cos had received from Cleopatra.
+
+This passage alludes back to *The Mithridatic Wars* 115:
+
+> The city of Talauri Mithridates used as a storehouse of furniture. Here were found 2,000 drinking-cups made of onyx welded with gold, and many cups, wine-coolers, and drinking-horns, also ornamental couches and chairs, bridles for horses, and trappings for their breasts and shoulders, all ornamented in like manner with precious stones and gold. The quantity of this store was so great that the inventory of it occupied thirty days. Some of these things had been inherited from Darius, the son of Hystaspes; others came from the kingdom of the Ptolemies, having been deposited by Cleopatra at the island of Cos and given by the inhabitants to Mithridates; still others had been made or collected by Mithridates himself, as he was a lover of the beautiful in furniture as well as in other things.
+
+Cleopatra in this case is *the* Cleopatra, i.e. Cleopatra VII. How she came to be in possession of such a cloak is never explained. 
+
+I would propose that there are two ways this cloak might have ended up with Pompey. The first is that the cloak was genuine. It may have been buried with Alexander when Ptolemy I purloined the funeral carriage and had his body interred at Memphis in 321 BCE, and was then transferred to Alexandria when he was reburied ca. 280; at some stage, Cleopatra decided that one of the cloaks would be gifted to Kos. The second, and I would argue far more likely scenario, is that the cloak was a fake, passed off as one that had actually been worn by Alexander. But at what stage of the process this forgery occurred is unclear: It could have been that it had been done by the Ptolemies, or by Mithridates, or even by Pompey for all that we know. It would not be the first time that spurious claims had been made about certain items of Alexander's insignia, as I discuss in the case of [this answer](https://www.reddit.com/r/AskHistorians/comments/r762uj/what_happened_to_alexander_the_greats_royal/) on Eumenes and Alexander's armour and sceptre – or, more correctly, his *alleged* armour and sceptre.
 

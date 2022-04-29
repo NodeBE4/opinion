@@ -41,7 +41,7 @@ RT Manya Koetse<br>Over the past two days more Shanghai communities have been 
 
 ### 7: [2022-04-26 09:19:32+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1518761664484712448)
 
-RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.
+RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.<br><br>Global Times: #Tesla generated $4.65 billion in China in Q1, 2022, a year-on-year increase of 52.8%. China is now Tesla's second-largest market, accounting for 24.8% of the company's revenue.<br><br><img style="" src="https://pbs.twimg.com/media/FROvxzCaUAEyc-W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-04-26 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1518772098163957761)
 
@@ -86,4 +86,20 @@ After Qin Gang's tough interview on a US news show in March, a dubious meme galv
 ### 18: [2022-04-29 12:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1519894140385107968)
 
 The Power Politics of Interruption: In this article, CMP's David Bandurski breaks down a meme that proliferated on Chinese social media following Ambassador Qin Gang's interview in March on "Face the Nation" -- pushed along by state media accounts. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRe_jzdagAA3JKG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-04-29 15:40:02+08:00 推文](https://twitter.com/cnmediaproject/status/1519944583203160064)
+
+The latest in CMP Interviews: @fangkc speaks to Huazong (花总), who is trying to break new ground in the livestreaming space in China. <a href="https://chinamediaproject.org/2022/04/29/taking-livestreaming-seriously/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/taking-livestreaming-seriously/</a><br><img style="" src="https://pbs.twimg.com/media/FRftgxqaUAIAFKX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-04-29 15:40:49+08:00 推文](https://twitter.com/cnmediaproject/status/1519944778808717318)
+
+Re "The biggest difference between livestreaming and traditional podcasts is that livestreaming has the direct participation of the comment section, which is a real-time interaction between the audience and the content creator."<br><img style="" src="https://pbs.twimg.com/media/FRfttRtaQAAbn36?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-04-29 15:41:50+08:00 推文](https://twitter.com/cnmediaproject/status/1519945037076914178)
+
+Re "Human society is in an era of highly developed communication, but contrary to this trend, our demand to speak and to listen has been significantly suppressed. That’s my biggest takeaway, actually, after doing more than 100 livestreams."<br><img style="" src="https://pbs.twimg.com/media/FRft7VCaQAEn_rS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-04-29 16:47:22+08:00 推文](https://twitter.com/cnmediaproject/status/1519961527461507074)
+
+The Politics of Interruption: CMP's in-depth look into how Chinese state media deflect attention from core criticisms by prompting national outrage over tiny nothings. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRf8dkIacAALw-0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
