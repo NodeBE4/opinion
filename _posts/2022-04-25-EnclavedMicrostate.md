@@ -272,13 +272,19 @@ A couple of good things to read on this are:
 
 ----- __390.2__ -----2022-04-29 12:06:15+08:00:
 
-I allude to the security apparatus here; I'd recommend looking at O'Donnell's article and its sources, but there is a case to be made that the grid-management system can be understood as either a slightly softened import from Xinjiang, or as a sort of low-security tier applied to Han Chinese cities while ethnic minority regions get the high-security regime.
+Above I allude to the security apparatus, and I decided not to go into it too far because it'd start verging outside the impartiality expected from a top-level. I'd recommend looking at O'Donnell's article and its sources, as there is a case to be made that the grid-management system can be understood as either a slightly softened import from Xinjiang, or as a sort of low-security tier applied to Han Chinese cities while ethnic minority regions get the high-security regime.
 
-### 391: [What Happened to Alexander the Great’s Cloak?](https://old.reddit.com/r/AskHistorians/comments/uefdrt/what_happened_to_alexander_the_greats_cloak/), submitted on 2022-04-29 14:04:49+08:00.
+### 391: [Why must my parents come at the perfect time...](https://old.reddit.com/r/Hololive/comments/uec7pd/why_must_my_parents_come_at_the_perfect_time/), submitted on 2022-04-29 10:55:42+08:00.
 
------ __391.1__ -----2022-04-29 16:26:06+08:00:
+----- __391.1__ -----2022-04-29 17:05:13+08:00:
 
-Alexander supposedly wore cloaks, but that doesn't mean he supposedly wore a *specific* cloak. Alexander is known to have worn a purple *chlamys* as part of his royal costume, per a paraphrase of Ephippos of Olynthos preserved by the rhetoretician Athenaios (translation via Andrew Collins):
+It's an MV for a recent original song by VTuber Houshou Marine: https://www.youtube.com/watch?v=u_hUpHUTJwQ
+
+### 392: [What Happened to Alexander the Great’s Cloak?](https://old.reddit.com/r/AskHistorians/comments/uefdrt/what_happened_to_alexander_the_greats_cloak/), submitted on 2022-04-29 14:04:49+08:00.
+
+----- __392.1__ -----2022-04-29 16:26:06+08:00:
+
+Alexander supposedly wore cloaks, but that doesn't mean he supposedly wore a *specific* cloak. Now, we do know the style of that cloak: Alexander is known to have worn a purple *chlamys* as part of his royal costume, per a paraphrase of Ephippos of Olynthos preserved by the rhetoretician Athenaios (translation via Andrew Collins):
 
 > ...nearly every day he wore a purple cloak, a purple tunic with a white middle, and the Macedonian *kausia* with the royal diadem. On social occasions, he put on the sandals and the *petasos* on his head, and took the *caduceus* in his hand. Often he also wore the lion's skin and club just like Heracles.
 
@@ -294,5 +300,5 @@ This passage alludes back to *The Mithridatic Wars* 115:
 
 Cleopatra in this case is *the* Cleopatra, i.e. Cleopatra VII. How she came to be in possession of such a cloak is never explained. 
 
-I would propose that there are two ways this cloak might have ended up with Pompey. The first is that the cloak was genuine. It may have been buried with Alexander when Ptolemy I purloined the funeral carriage and had his body interred at Memphis in 321 BCE, and was then transferred to Alexandria when he was reburied ca. 280; at some stage, Cleopatra decided that one of the cloaks would be gifted to Kos. The second, and I would argue far more likely scenario, is that the cloak was a fake, passed off as one that had actually been worn by Alexander. But at what stage of the process this forgery occurred is unclear: It could have been that it had been done by the Ptolemies, or by Mithridates, or even by Pompey for all that we know. It would not be the first time that spurious claims had been made about certain items of Alexander's insignia, as I discuss in the case of [this answer](https://www.reddit.com/r/AskHistorians/comments/r762uj/what_happened_to_alexander_the_greats_royal/) on Eumenes and Alexander's armour and sceptre – or, more correctly, his *alleged* armour and sceptre.
+I would propose that there are two ways this cloak might have ended up with Pompey. The first is that the cloak was genuine. It may have been buried with Alexander when Ptolemy I purloined the funeral carriage and had his body interred at Memphis in 321 BCE, and was then transferred to Alexandria when he was reburied ca. 280; at some stage, Cleopatra decided that one of the cloaks would be gifted to Kos. The second, and I would argue far more likely scenario – as Appian's own scepticism suggests – is that the cloak was a fake, passed off as one that had actually been worn by Alexander. But at what stage of the process this forgery occurred is unclear: It could have been that it had been done by the Ptolemies, or by Mithridates, or even by Pompey for all that we know. It would not be the first time that spurious claims had been made about certain items of Alexander's insignia, as I discuss in the case of [this answer](https://www.reddit.com/r/AskHistorians/comments/r762uj/what_happened_to_alexander_the_greats_royal/) on Eumenes and Alexander's armour and sceptre – or, more correctly, his *alleged* armour and sceptre.
 
