@@ -347,3 +347,11 @@ The implications this has for Niji as an agency are still unclear. As it stands,
 
 Now, I do hope that on some level I'm wrong and that things can keep going as is. But from what I can tell, going public is the sort of thing that won't necessarily make things at the agency better, and comes with a high risk of them becoming worse. To lay my cards out on the table I am not an avid Niji watcher; LazuLight didn't vibe with me much so I didn't really give it a second thought until recently. And I am to some extent a diehard Hololive tribalist who wants to see Hololive do better than Nijisanji. But I want that to be on Hololive's own merits and I don't want Nijisanji to do worse, because there are many talented people there who don't deserve to have their careers cut short by their agency making a risky financial decision. So, here's hoping for the best.
 
+----- __374.3__ -----2022-04-29 21:23:59+08:00:
+
+Call me what you will but I guess the guys just never appealed to me quite as much, possibly even just from a design perspective. I don't know if it is really just tribalism speaking but I feel like Hololive's general design approach – Stars included – is a bit more approachable whereas Niji's can sometimes feel a little too busy. But as said, I don't want anyone to not see success here. Except maybe Fulgur, he seems to have a thing for being edgy for edgy's sake and I thought we had moved past this.
+
+----- __374.4__ -----2022-04-29 21:24:42+08:00:
+
+I mean I just try to lay my cards out on the table; I do have a particular allegiance and I won't hide it.
+
