@@ -44,3 +44,15 @@ The nature of African warfare has changed in recent decades, writes Jason K. Ste
 
 The nature of African warfare has changed in recent decades. Today’s fighters use violence to extract rents from governments and foreign donors, rather than as a means to overthrow established regimes. The West must stop backing the elites who perpetuate this pattern of conflict—and support the democratic forces that can break it.
 
+### 228: [How Not to Invade a Nation: Russia’s Attack on Ukraine Is a Case Study in Bad Strategy](https://old.reddit.com/r/UkrainianConflict/comments/uenbd4/how_not_to_invade_a_nation_russias_attack_on/), submitted on 2022-04-29 22:36:24+08:00.
+
+----- __228.1__ -----2022-04-29 22:36:34+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 229: [How Not to Invade a Nation: Russia’s Attack on Ukraine Is a Case Study in Bad Strategy](https://old.reddit.com/r/ukraine/comments/uenbvx/how_not_to_invade_a_nation_russias_attack_on/), submitted on 2022-04-29 22:37:04+08:00.
+
+----- __229.1__ -----2022-04-29 22:37:13+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
