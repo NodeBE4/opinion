@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-29
+date: 2022-04-30
 from: https://old.reddit.com/r/StupidFood/comments/ub2css/how_do_you_eat_that/
 layout: post
 tags:
@@ -121,6 +121,12 @@ Yeah the sudden pivot to unicorns and GFE was... it definitely was. There's real
 The situation seems a little complex. From what I can tell, the report doesn't distinguish between the branches at all in terms of revenues and expenditures, so it's probably less that they're trying to conceal figures for the sake of the IPO (which evidently they can do without the merger), but rather that in the long term, they don't have to potentially account for those branches in the event a more detailed breakdown is required.
 
 EDIT: The other thing to add, WRT Yumenographia, is that while it may still be accounted for somewhere in the report, the key thing is not that these were changes made for the immediate sake of the IPO but the long-term situation of going public, and the merger being timed for the beginning of the financial year would seem to suggest that.
+
+----- __378.14__ -----2022-04-30 13:01:17+08:00:
+
+This is pure speculation on my part, but I wonder if the slowdown on Nijisanji's side in terms of JP debuts (weren't there something like 5 in 2021 compared to dozens in previous years?) is due to some kind of perception that they've hit a saturation point, and new members are simply drawing on the same audience rather than bringing in new people? It'd explain what seems to have been a really hard pivot to EN in recent months.
+
+The question hanging over it for me as well is how long they can necessarily maintain VR while also doing EN. That's not to say it's impossible, but it feels like a matter of time before they go from treading on eggshells to treading on glass.
 
 ### 379: [What were Chinese gangs in the American West like?](https://old.reddit.com/r/AskHistorians/comments/ubtrn7/what_were_chinese_gangs_in_the_american_west_like/), submitted on 2022-04-26 03:51:36+08:00.
 
@@ -319,4 +325,10 @@ This passage alludes back to *The Mithridatic Wars* 115:
 Cleopatra in this case is *the* Cleopatra, i.e. Cleopatra VII. How she came to be in possession of such a cloak is never explained. 
 
 I would propose that there are two ways this cloak might have ended up with Pompey. The first is that the cloak was genuine. It may have been buried with Alexander when Ptolemy I purloined the funeral carriage and had his body interred at Memphis in 321 BCE, and was then transferred to Alexandria when he was reburied ca. 280; at some stage, Cleopatra decided that one of the cloaks would be gifted to or stored on Kos. The second, and I would argue far more likely scenario – as Appian's own scepticism suggests – is that the cloak was a fake, passed off as one that had actually been worn by Alexander. But at what stage of the process this forgery occurred is unclear: It could have been that it had been done by the Ptolemies, or by Mithridates, or even by Pompey for all that we know. It would not be the first time that spurious claims had been made about certain items of Alexander's insignia, as I discuss in the case of [this answer](https://www.reddit.com/r/AskHistorians/comments/r762uj/what_happened_to_alexander_the_greats_royal/) on Eumenes of Kardia and Alexander's armour and sceptre – or, more correctly, his *alleged* armour and sceptre.
+
+### 393: [Can't believe British food is this bland, no this is not fake look it up. The Royal Institute Of Chemistry was involved in this somehow, don't ask me why, cause I don't f*cking know?](https://old.reddit.com/r/StupidFood/comments/uf398e/cant_believe_british_food_is_this_bland_no_this/), submitted on 2022-04-30 12:09:02+08:00.
+
+----- __393.1__ -----2022-04-30 12:54:43+08:00:
+
+Toast sandwiches aren't a normal thing to eat in Britain though. They were devised in the 1860s as something digestible for invalids – i.e. hospital patients – and brought to public attention in 2011 as a semi-joke during the recession.
 
