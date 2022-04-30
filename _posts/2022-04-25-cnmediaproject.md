@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-04-29
+date: 2022-04-30
 from: https://twitter.com/lilkuo/status/1518421109791633408
 layout: post
 tags:
@@ -61,7 +61,7 @@ RT Carl Minzner<br>*Zilch* on China's 7pm 4/26 evening news re: Beijing's city
 
 ### 12: [2022-04-27 01:58:16+08:00 推文](https://twitter.com/CarlMinzner/status/1519013003420651526)
 
-RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...<br><br>Bill Bishop: China’s President Xi Jinping has told officials to ensure the country’s economic growth outpaces the U.S.’s this year even as its economy&nbsp;sags under Covid-19<br> <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212</a>
+RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...
 
 ### 13: [2022-04-27 09:59:01+08:00 推文](https://twitter.com/cnmediaproject/status/1519133987540664321)
 
@@ -114,4 +114,8 @@ RT Bill Bishop<br>中共中央政治局召开会议 习近平主持会议 poli
 ### 25: [2022-04-29 22:14:07+08:00 推文](https://twitter.com/cnmediaproject/status/1520043758238466049)
 
 The Politics of Interruption: How Chinese Ambassador Qin Gang's interview on "Face the Nation" in March became a state-media meme to rally anger and distract from criticisms over China's role in the Ukraine war. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRhHvJaaAAAu1s_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-04-30 11:10:18+08:00 推文](https://twitter.com/michaelxpettis/status/1520239088523411456)
+
+RT Michael Pettis<br>Yesterday the Politburo reaffirmed its commitment to both the zero-COVID policy and to its economic growth targets, although it is getting increasingly likely that either requires the abandonment of the other. <a href="https://www.scmp.com/economy/china-economy/article/3175951/chinas-politburo-vows-new-tools-refined-policies-will-help?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3175951" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3175951/chinas-politburo-vows-new-tools-refined-policies-will-help?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3175951</a>
 
