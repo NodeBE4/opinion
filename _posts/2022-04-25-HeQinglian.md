@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-04-30
+date: 2022-05-01
 from: https://twitter.com/HeQinglian/status/1518280988408922113
 layout: post
 tags:
@@ -221,11 +221,11 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
-路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？<br><br>北明BeiMing: 上海疫情，ICU醫生怒而發言： <br><br>你们都什么专业要挑战人家吃饭的本事。这种脑子送给我们神经外科研究一下，为什么会长成这样。<br><br>張文宏月份就预见omicron的影响, 建議上海針對疫情規模，超過5到10倍的預警案，提出各項具體措施。<br><br>控制民间舆论，业内的也控制，發國難財……。<br><br><img style="" src="https://pbs.twimg.com/media/FRXaPX9XoAoRJjv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q</a>
+路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？ <a href="https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/</a>
 
 ### 54: [2022-04-28 03:36:01+08:00 推文](https://twitter.com/HeQinglian/status/1519399992141750273)
 
@@ -337,7 +337,7 @@ Re @JianglinLi @wDYMdxKfYqByh1E @Wu_Zhi @moyehnyy @david_david1968 比烂，没�
 
 ### 81: [2022-04-28 20:46:50+08:00 推文](https://twitter.com/HeQinglian/status/1519659404144037888)
 
-你这道理可以用于左派政治：<br>为什么福利与不当政治赔偿会受不劳而获者欢迎？<br>因为这些人不需要努力向上，只需要声称自己是受压迫（或者祖上受压迫）的弱势群体，社会欠了他们的就行。<br>这些人的代表口号由BLM大纽约地区负责人2020年5月在电视上公开提出：“如果不给我们所需要的，我们就毁了这个世界”。<br><br>seadog: 转锁推网友：为什么很多女人会长期反复被男人骗？<br>因为他们的要求，只有骗子才能满足，正常人满足不了<br>
+你这道理可以用于左派政治：<br>为什么福利与不当政治赔偿会受不劳而获者欢迎？<br>因为这些人不需要努力向上，只需要声称自己是受压迫（或者祖上受压迫）的弱势群体，社会欠了他们的就行。<br>这些人的代表口号由BLM大纽约地区负责人2020年5月在电视上公开提出：“如果不给我们所需要的，我们就毁了这个世界”。
 
 ### 82: [2022-04-28 20:51:17+08:00 推文](https://twitter.com/HeQinglian/status/1519660524375580672)
 
@@ -441,7 +441,7 @@ Re @Swanlake1979 连一个经济会议都无法将俄罗斯踢出去，离拿俄
 
 ### 107: [2022-04-30 03:49:08+08:00 推文](https://twitter.com/HeQinglian/status/1520128066231668736)
 
-美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。<br><br>He Qinglian: 据美国CNBC28日报道，美国商务部28日报告称，美国2022年一季度GDP年化增速为-1.4%，这标志着美国经济自1984年以来的上升趋势突然出现逆转。分析称，2022年前三个月，有众多因素影响美国经济增长，包括不断激增的奥密克戎新冠病毒病例，通胀率飙升至1980年代初以来的最高水平，俄乌冲突等等。<br>
+美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。 <a href="https://europechinese.blogspot.com/2022/04/gdp02-6.html" target="_blank" rel="noopener noreferrer">https://europechinese.blogspot.com/2022/04/gdp02-6.html</a>
 
 ### 108: [2022-04-30 03:49:57+08:00 推文](https://twitter.com/HeQinglian/status/1520128273182859266)
 
@@ -469,7 +469,7 @@ Re @Wu_Zhi @JianglinLi @HongfuDing 我觉得没认错，只是在说：我努力
 
 ### 114: [2022-04-30 20:20:50+08:00 推文](https://twitter.com/HeQinglian/status/1520377636400529409)
 
-以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？
+以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？<br><br>美国驻华使领馆 US MissionCN: 我们发布了有史以来的第一份公开的美国政府报告，展示我们为在全球推动男女同性恋、双性恋、跨性别者、酷儿及间性人等人士（LGBTQI+）的人权所作的工作。我们敦促所有政府与我们一起采取行动，支持LGBTQI+人权捍卫者不懈和崇高的工作。<br> <a href="https://twitter.com/SecBlinken/status/1519651037988233216" target="_blank" rel="noopener noreferrer">https://twitter.com/SecBlinken/status/1519651037988233216</a>
 
 ### 115: [2022-04-30 21:16:58+08:00 推文](https://twitter.com/HeQinglian/status/1520391763294306304)
 
@@ -478,4 +478,12 @@ Re @JianglinLi 什么新秩序，不就是他家的模式放大到全世界？
 ### 116: [2022-04-30 22:22:56+08:00 推文](https://twitter.com/HeQinglian/status/1520408364550864896)
 
 Re @mingshi_chen 排个时间线就清楚事实了。<br>华邮发表于2021年12月19日的文章提到：<br>拜登政府一位官员提到一计划，其中包括向乌克兰军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法——以及如果俄罗斯推翻乌克兰政府并开始游击战，则为叛乱组织提供类似的后勤支持。 <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/</a>
+
+### 117: [2022-05-01 04:50:42+08:00 推文](https://twitter.com/HeQinglian/status/1520505946920919046)
+
+Re @NAConservative9 “我们特别要提醒自己和读者要注意战场消息持续缺乏的现状，警惕不要被西方的主流媒体牵着走”——这句我完全同意。<br>但标题易让人误解，因为除了回顾历史之外，最重要的内容是美国拜登政府的行为将促使俄罗斯扩大战争范围。
+
+### 118: [2022-05-01 04:56:35+08:00 推文](https://twitter.com/HeQinglian/status/1520507429427060736)
+
+Re @xchen156 我这些天研究了一下关于中国为何要做完全不可能的病毒清零，结论是内外压力测试。明天文章会登出来。
 
