@@ -53,7 +53,7 @@ Convergence at the Grassroots: An important piece by Stella Chen on press contro
 
 ### 10: [2022-04-26 20:20:53+08:00 推文](https://twitter.com/adamcathcart/status/1518928098888237056)
 
-RT Adam Cathcart<br>Duowei News no longer exists<br><br>Bill Bishop: Duowei has been shut down, no idea if for a specific article or something broader<br><br><img style="" src="https://pbs.twimg.com/media/FRRLz44WYAAAQbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://dwnews.com/" target="_blank" rel="noopener noreferrer">https://dwnews.com</a>
+RT Adam Cathcart<br>Duowei News no longer exists <a href="https://twitter.com/niubi/status/1518922346001747970" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1518922346001747970</a> <a href="https://www.cna.com.tw/news/acn/202204260275.aspx" target="_blank" rel="noopener noreferrer">https://www.cna.com.tw/news/acn/202204260275.aspx</a>
 
 ### 11: [2022-04-26 21:26:22+08:00 推文](https://twitter.com/CarlMinzner/status/1518944575511044098)
 
@@ -61,7 +61,7 @@ RT Carl Minzner<br>*Zilch* on China's 7pm 4/26 evening news re: Beijing's city
 
 ### 12: [2022-04-27 01:58:16+08:00 推文](https://twitter.com/CarlMinzner/status/1519013003420651526)
 
-RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...
+RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...<br><br>Bill Bishop: China’s President Xi Jinping has told officials to ensure the country’s economic growth outpaces the U.S.’s this year even as its economy&nbsp;sags under Covid-19<br> <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212</a>
 
 ### 13: [2022-04-27 09:59:01+08:00 推文](https://twitter.com/cnmediaproject/status/1519133987540664321)
 
@@ -99,15 +99,19 @@ Re "The biggest difference between livestreaming and traditional podcasts is tha
 
 Re "Human society is in an era of highly developed communication, but contrary to this trend, our demand to speak and to listen has been significantly suppressed. That’s my biggest takeaway, actually, after doing more than 100 livestreams."<br><img style="" src="https://pbs.twimg.com/media/FRft7VCaQAEn_rS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 22: [2022-04-29 16:47:22+08:00 推文](https://twitter.com/cnmediaproject/status/1519961527461507074)
+### 22: [2022-04-29 16:03:00+08:00 推文](https://twitter.com/TGTM_Official/status/1519950362320506882)
+
+RT The Great Translation Movement 大翻译运动官方推号<br>#TheGreatTranslationMovement presents:<br>Full translation of Xi Jinping Thought on Socialism with Chinese Characteristics, primary school book.<br>Some preview below. PDF Download link (62 pages):<br><br><br>#大翻译运动 <a href="https://docdro.id/EqgBc8r" target="_blank" rel="noopener noreferrer">https://docdro.id/EqgBc8r</a><br><img style="" src="https://pbs.twimg.com/media/FRcWriVWYAEyjqW?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRcW0E0WUAAE-Cx?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRcW--nXIAAoX2I?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRcXPHKXoAAok4L?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-04-29 16:47:22+08:00 推文](https://twitter.com/cnmediaproject/status/1519961527461507074)
 
 The Politics of Interruption: CMP's in-depth look into how Chinese state media deflect attention from core criticisms by prompting national outrage over tiny nothings. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRf8dkIacAALw-0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 23: [2022-04-29 18:30:55+08:00 推文](https://twitter.com/niubi/status/1519987586483302400)
+### 24: [2022-04-29 18:30:55+08:00 推文](https://twitter.com/niubi/status/1519987586483302400)
 
 RT Bill Bishop<br>中共中央政治局召开会议 习近平主持会议 politburo readout. Not giving up on dynamic zero Covid but seems like crying uncle on a lot of the economy, and real estate and tech pressures. <a href="https://h.xinhuaxmt.com/vh512/share/10769479" target="_blank" rel="noopener noreferrer">https://h.xinhuaxmt.com/vh512/share/10769479</a>
 
-### 24: [2022-04-29 22:14:07+08:00 推文](https://twitter.com/cnmediaproject/status/1520043758238466049)
+### 25: [2022-04-29 22:14:07+08:00 推文](https://twitter.com/cnmediaproject/status/1520043758238466049)
 
 The Politics of Interruption: How Chinese Ambassador Qin Gang's interview on "Face the Nation" in March became a state-media meme to rally anger and distract from criticisms over China's role in the Ukraine war. <a href="https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/04/29/the-global-politics-of-interruption/</a><br><img style="" src="https://pbs.twimg.com/media/FRhHvJaaAAAu1s_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
