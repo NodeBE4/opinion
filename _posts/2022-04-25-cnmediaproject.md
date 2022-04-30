@@ -61,7 +61,7 @@ RT Carl Minzner<br>*Zilch* on China's 7pm 4/26 evening news re: Beijing's city
 
 ### 12: [2022-04-27 01:58:16+08:00 推文](https://twitter.com/CarlMinzner/status/1519013003420651526)
 
-RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...<br><br>Bill Bishop: China’s President Xi Jinping has told officials to ensure the country’s economic growth outpaces the U.S.’s this year even as its economy&nbsp;sags under Covid-19<br> <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212</a>
+RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was... <a href="https://twitter.com/niubi/status/1519004345475518464" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1519004345475518464</a>
 
 ### 13: [2022-04-27 09:59:01+08:00 推文](https://twitter.com/cnmediaproject/status/1519133987540664321)
 
@@ -118,4 +118,8 @@ The Politics of Interruption: How Chinese Ambassador Qin Gang's interview on "Fa
 ### 26: [2022-04-30 11:10:18+08:00 推文](https://twitter.com/michaelxpettis/status/1520239088523411456)
 
 RT Michael Pettis<br>Yesterday the Politburo reaffirmed its commitment to both the zero-COVID policy and to its economic growth targets, although it is getting increasingly likely that either requires the abandonment of the other. <a href="https://www.scmp.com/economy/china-economy/article/3175951/chinas-politburo-vows-new-tools-refined-policies-will-help?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3175951" target="_blank" rel="noopener noreferrer">https://www.scmp.com/economy/china-economy/article/3175951/chinas-politburo-vows-new-tools-refined-policies-will-help?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3175951</a>
+
+### 27: [2022-04-30 23:08:44+08:00 推文](https://twitter.com/CarlMinzner/status/1520419888644382721)
+
+RT Carl Minzner<br>Oh, there goes Roach too. <br><br>Used to be one of the most hardcore perma-optimists on China. Now even he recognizes how much Beijing's steady political slide back towards single-man authoritarian rule is undermining the country's prospects.<br><br>Jeremy Goldkorn: The China cushion has deflated: I spoke to the renowned economist and former Morgan Stanley executive and found him gloomier on China than he’s ever been. He also told me to get new friends.<br> <a href="https://supchina.com/2022/04/29/the-china-cushion-has-deflated-qa-with-stephen-roach/" target="_blank" rel="noopener noreferrer">https://supchina.com/2022/04/29/the-china-cushion-has-deflated-qa-with-stephen-roach/</a>
 
