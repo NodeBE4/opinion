@@ -112,6 +112,16 @@ I wrote my long-form take on this over on HobbyDrama yesterday [(see here)](http
 
 As someone who really isn't a Niji watcher, I don't know that my opinion is worth much, but what I'm curious about is where the extra money on the agency side might be going. It seems like with both Yumenographia and the non-CN/EN branches now effectively shuttered, Anycolor has already divested itself of its riskier ventures; does this mean they're mainly just going to keep pushing EN and/or JP for the foreseeable future?
 
+----- __378.12__ -----2022-04-30 12:02:49+08:00:
+
+Yeah the sudden pivot to unicorns and GFE was... it definitely was. There's really not much to say about OmegaAlpha, it was an attempt to do an A-chan for EN that didn't go over brilliantly, plus A-chan also tweets in English now so there just wasn't the need anymore. Who knows, maybe they'll come back, but I think everyone is willing to just quietly let it slide and occasionally bring it up as a joke, at least as far as the agency and the, er, less perpetually online part of the fanbase are concerned.
+
+----- __378.13__ -----2022-04-30 12:08:27+08:00:
+
+The situation seems a little complex. From what I can tell, the report doesn't distinguish between the branches at all in terms of revenues and expenditures, so it's probably less that they're trying to conceal figures for the sake of the IPO (which evidently they can do without the merger), but rather that in the long term, they don't have to potentially account for those branches in the event a more detailed breakdown is required.
+
+EDIT: The other thing to add, WRT Yumenographia, is that while it may still be accounted for somewhere in the report, the key thing is not that these were changes made for the immediate sake of the IPO but the long-term situation of going public, and the merger being timed for the beginning of the financial year would seem to suggest that.
+
 ### 379: [What were Chinese gangs in the American West like?](https://old.reddit.com/r/AskHistorians/comments/ubtrn7/what_were_chinese_gangs_in_the_american_west_like/), submitted on 2022-04-26 03:51:36+08:00.
 
 ----- __379.1__ -----2022-04-26 11:02:36+08:00:
