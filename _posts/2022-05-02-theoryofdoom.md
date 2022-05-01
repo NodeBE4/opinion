@@ -27,3 +27,19 @@ Buffer states between Europe's adverse power centers mediate that contest --- an
 
 The issue is what's left to fight over, in the absence of border states.  At that point, it's not about the Baltic states, Ukraine, etc.  Rather, it's about a showdown for power over the European continent --- basically, the [war that Churchill wanted](https://www.thehistorypress.co.uk/articles/operation-unthinkable-churchill-s-plans-to-invade-the-soviet-union/#:~:text=The%20plan%20called%20for%20a,his%20domination%20of%20East%20Europe) and the USSR spent the Cold War preparing for.
 
+----- __250.3__ -----2022-05-02 05:50:29+08:00:
+
+[That is not an easy assessment](https://www.businessinsider.com/putin-said-2018-would-use-nuclear-weapons-if-russia-attacked-2022-4), when what counts as an "attack" is subjective in nature.
+
+----- __250.4__ -----2022-05-02 06:12:19+08:00:
+
+At least three problems with jumping to conclusions like that readily present themselves. 
+
+First, the article doesn't say that a missile attack is the only condition under which Putin would use nuclear weapons or even define what type of "missile attack" Putin meant:
+
+> It is unclear if Putin meant that Russia would respond only in the case of nuclear warheads or non-nuclear missiles in general. 
+
+Second, no one has any idea what the actual tripwire would be for Putin.  Nor is it the case that Putin sees himself as bound by past statements or commitments.  The opposite is true, as reflected in nearly every consequential foreign policy decision he has made --- from the Budapest memorandum to present.  
+
+Third, you have limited your consideration to nuclear conflict between the Russia and NATO.  It is unclear whether you are assuming that Russia would not use nuclear weapons against a non-nuclear power (i.e., Ukraine) or whether that just hasn't been considered.  If nuclear weapons are used in the current conflict --- and that is a big "if" --- the most likely form such use would take, would be Russia using tactical nuclear weapons against Ukraine.  In that case, it's unlikely the United States under current leadership would respond militarily.  That unanswered provocation would set the context for future nuclear conflict in the absence of buffer states between Russia and NATO.
+
