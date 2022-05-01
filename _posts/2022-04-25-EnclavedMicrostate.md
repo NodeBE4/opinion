@@ -128,6 +128,12 @@ This is pure speculation on my part, but I wonder if the slowdown on Nijisanji's
 
 The question hanging over it for me as well is how long they can necessarily maintain VR while also doing EN. That's not to say it's impossible, but it feels like a matter of time before they go from treading on eggshells to treading on glass.
 
+----- __378.15__ -----2022-05-02 07:37:36+08:00:
+
+> >!Regarding the 4th point…I have no idea how do people equal nationality to being innocent in the whole CN drama XD!<
+
+>!Presumably that nobody realistically expects that a Taiwanese person would consider the mention of Taiwan to be a fundamental affront to their identity? The CN drama was of course more complex than that, as it had involved earlier instances of Holomems being a bit blasè about 'the feelings of the Chinese people' (Choco got in a bit of hot water over mentioning Tibet, for instance), but still, if the fundamental controversy was over Chinese nationalism then Taiwanese members – if there were any – being involved on the anti side would be highly implausible even if not entirely impossible.!<
+
 ### 379: [What were Chinese gangs in the American West like?](https://old.reddit.com/r/AskHistorians/comments/ubtrn7/what_were_chinese_gangs_in_the_american_west_like/), submitted on 2022-04-26 03:51:36+08:00.
 
 ----- __379.1__ -----2022-04-26 11:02:36+08:00:
