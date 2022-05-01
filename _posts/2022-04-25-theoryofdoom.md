@@ -174,9 +174,17 @@ This is your last warning.
 
 Feel free to just link my prior comments on these issues.
 
-### 248: [My cat slithering his way to the treat](https://old.reddit.com/r/Catculations/comments/ufcd02/my_cat_slithering_his_way_to_the_treat/), submitted on 2022-04-30 22:36:02+08:00.
+### 248: [Unofficial Daily Update for 2022-04-29. 5955 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/uerosb/unofficial_daily_update_for_20220429_5955_new/), submitted on 2022-04-30 02:00:16+08:00.
 
------ __248.1__ -----2022-05-01 09:12:04+08:00:
+----- __248.1__ -----2022-05-02 02:03:36+08:00:
+
+> Masks are still required in doctor's offices
+
+Depends on the doctor's office.
+
+### 249: [My cat slithering his way to the treat](https://old.reddit.com/r/Catculations/comments/ufcd02/my_cat_slithering_his_way_to_the_treat/), submitted on 2022-04-30 22:36:02+08:00.
+
+----- __249.1__ -----2022-05-01 09:12:04+08:00:
 
 "Am snek"
 
