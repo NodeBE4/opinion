@@ -19,6 +19,10 @@ title: theoryofdoom在2022-05-02~2022-05-08的言论
 
 Says the guy who shorted Tesla.
 
+----- __250.2__ -----2022-05-02 19:48:44+08:00:
+
+Banbot test comment.
+
 ### 251: [Tragedy, National Insecurity, and War in Ukraine](https://old.reddit.com/r/geopolitics/comments/ug7f75/tragedy_national_insecurity_and_war_in_ukraine/), submitted on 2022-05-02 03:31:34+08:00.
 
 ----- __251.1__ -----2022-05-02 03:31:53+08:00:
@@ -86,4 +90,22 @@ Doing so is consistent with Washington's historic failures to address Russian ag
 > What is clear is that the half-hearted US and NATO flirtation with a Ukrainian membership denied Ukraine the actual treaty guarantees, and/or the military support needed to deter Russia, while inviting a Russian response.
 
 I'm really glad to see that you've noticed that and recognized its significance, as well as the other section you highlighted.  It's a point that some who are intimately familiar with the game assumed it need not even be said, but from the way the Ukraine conflict is discussed that assumption appears to have been wrong.  After all, many are approaching these questions from very different perspectives.
+
+### 252: [What are some interesting applications of differential geometry?](https://old.reddit.com/r/math/comments/ugh4o7/what_are_some_interesting_applications_of/), submitted on 2022-05-02 12:04:22+08:00.
+
+----- __252.1__ -----2022-05-02 20:45:00+08:00:
+
+Differential geometry has a variety of applications to econometrics and econometric modeling.  There are even a few textbooks on the subject floating around out there.
+
+### 253: [Method to get IP address location](https://old.reddit.com/r/hacking/comments/ughqsn/method_to_get_ip_address_location/), submitted on 2022-05-02 12:42:50+08:00.
+
+----- __253.1__ -----2022-05-02 19:59:56+08:00:
+
+You can't ordinarily get an exact location from an IP address alone.  You might be able to cross-reference an IP address from a third-party database but that's likely only to get you IP ownership.
+
+### 254: [From a hacking perspective which is more secure: iPhone or Android?](https://old.reddit.com/r/hacking/comments/ugmd85/from_a_hacking_perspective_which_is_more_secure/), submitted on 2022-05-02 18:12:59+08:00.
+
+----- __254.1__ -----2022-05-02 20:34:02+08:00:
+
+I agree with this.  But out-of-the-box security doesn't really do much when device users do things like open random links contained in text messages from unknown sources.
 
