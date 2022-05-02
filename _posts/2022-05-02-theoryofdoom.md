@@ -75,3 +75,9 @@ One such possible unilateral, potentially unanswered, nuclear engagement is exac
 
 Doing so is consistent with Washington's historic failures to address Russian aggression from Georgia in 2008 to present, now extrapolated to tactical nuclear weapon use.  It's hardly difficult to imagine that Putin would assume the same would apply if he used tactical nuclear weapons in other contexts, including direct conflict.  That would likely be a miscalculation on Putin's part, but we won't know until he (or a replacement) is actually confronted with the choice of whether to retaliate and how.  Almost a decade and a half of Washington's prevarication in the face of Russian aggression and incoherence in its policy towards Russia generally, has brought the world to this point.  If the threat of an adequate military response was certain --- and not just a bluff like Obama played in Syria --- we wouldn't be here.
 
+----- __250.7__ -----2022-05-02 13:43:39+08:00:
+
+> What is clear is that the half-hearted US and NATO flirtation with a Ukrainian membership denied Ukraine the actual treaty guarantees, and/or the military support needed to deter Russia, while inviting a Russian response.
+
+I'm really glad to see that you've noticed that and recognized its significance, as well as the other section you highlighted.  It's a point that some who are intimately familiar with the game assumed it need not even be said, but from the way the Ukraine conflict is discussed that assumption appears to have been wrong.  After all, many are approaching these questions from very different perspectives.
+
