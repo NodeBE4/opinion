@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-04-30
+date: 2022-05-01
 from: https://old.reddit.com/r/StupidFood/comments/ub2css/how_do_you_eat_that/
 layout: post
 tags:
@@ -133,6 +133,18 @@ The question hanging over it for me as well is how long they can necessarily mai
 > >!Regarding the 4th point…I have no idea how do people equal nationality to being innocent in the whole CN drama XD!<
 
 >!Presumably that nobody realistically expects that a Taiwanese person would consider the mention of Taiwan to be a fundamental affront to their identity? The CN drama was of course more complex than that, as it had involved earlier instances of Holomems being a bit blasè about 'the feelings of the Chinese people' (Choco got in a bit of hot water over mentioning Tibet, for instance), but still, if the fundamental controversy was over Chinese nationalism then Taiwanese members – if there were any – being involved on the anti side would be highly implausible even if not entirely impossible.!<
+
+----- __378.16__ -----2022-05-02 08:40:09+08:00:
+
+> >!yeah i've been seeing "calli's gonna graduate first" for literal months now, and there's no actual basis for it.!< 
+
+>!Nothing factual for sure, although you can probably argue that of all of HoloMyth, Calli is potentially the one with the most motive to graduate and focus on her non-Holo career if it ever came down to it. I do think, realistically, she might be the first of the five to graduate, but that is different from saying I think she'll graduate soon – which I really don't, especially with the UMG signing. Plus, if she ever did, I imagine it would be far more likely than not to be an amicable split after hitting some significant milestone. I guess an alternate angle is that Calli may be the most likely to get caught up in a Rushia-style controversy death spiral, but what I think that incident showed is that it could theoretically happen to anyone.!<
+
+----- __378.17__ -----2022-05-02 08:59:04+08:00:
+
+> This might sound cheesy but my personal take is that Calli found true friendship in Hololive (AKA nakama!) which she might feel has been missing from her previous music career.
+
+Given what she said about some of the people she knew from her old career in the End of a Life stream [(clip for context)](https://www.youtube.com/watch?v=2zmQbHNItjc) I honestly wouldn't be surprised.
 
 ### 379: [What were Chinese gangs in the American West like?](https://old.reddit.com/r/AskHistorians/comments/ubtrn7/what_were_chinese_gangs_in_the_american_west_like/), submitted on 2022-04-26 03:51:36+08:00.
 
@@ -337,4 +349,12 @@ I would propose that there are two ways this cloak might have ended up with Pomp
 ----- __393.1__ -----2022-04-30 12:54:43+08:00:
 
 Toast sandwiches aren't a normal thing to eat in Britain though. They were devised in the 1860s as something digestible for invalids – i.e. hospital patients – and brought to public attention in 2011 as a semi-joke during the recession.
+
+### 394: [Amane "not a lesbian" Kanata](https://old.reddit.com/r/Hololive/comments/ufthij/amane_not_a_lesbian_kanata/), submitted on 2022-05-01 14:09:07+08:00.
+
+----- __394.1__ -----2022-05-02 08:42:29+08:00:
+
+> But she lives in Germany
+
+*Austria. Tragically, the Holy Roman Empire is now long gone, and the definition of 'Germany' has contracted considerably to exclude the land of schnitzel and Sachertorte.
 

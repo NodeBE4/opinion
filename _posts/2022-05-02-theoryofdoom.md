@@ -43,3 +43,35 @@ Second, no one has any idea what the actual tripwire would be for Putin.  Nor is
 
 Third, you have limited your consideration to nuclear conflict between the Russia and NATO.  It is unclear whether you are assuming that Russia would not use nuclear weapons against a non-nuclear power (i.e., Ukraine) or whether that just hasn't been considered.  If nuclear weapons are used in the current conflict --- and that is a big "if" --- the most likely form such use would take, would be Russia using tactical nuclear weapons against Ukraine.  In that case, it's unlikely the United States under current leadership would respond militarily.  That unanswered provocation would set the context for future nuclear conflict in the absence of buffer states between Russia and NATO.
 
+----- __250.5__ -----2022-05-02 07:53:09+08:00:
+
+Yes, it seems there is a clear disconnect on several levels.
+
+The article is arguing, among other things, that removing buffer states iterates closer to direct conflict between NATO and Russia.  You think that risk stops once the only remaining type of conflict is direct.  
+
+First, you're assuming the risk of direct conflict stops once buffer states are off the table, because of mutually assured destruction.  That assumption is wrong for the same reason it is wrong to have assumed the cold war would have always remained cold and it couldn't have been any other way.  
+
+It's a mistake to just assume that direct conflict is off the table when Washington prevaricates in the face of Russian aggression. Washington's incoherence and ambiguity is what brought the world to this position in the first instance.  If the threat of an adequate military response was certain --- and not just a bluff like Obama played in Syria --- we wouldn't be here.   
+
+Mutually assured destruction is a theoretical abstraction, not a law of international relations on par with something like Einstein's theory of relativity.  One the one hand, it is true that every gamed-out scenario involving nuclear exchange between the United States and Russia leads to mutually assured destruction, very quickly.  But on the other, each of those scenarios involve *exchanges* as opposed to *unilateral* --- subsequently unanswered --- nuclear engagements.  
+
+One such possible unilateral, potentially unanswered, nuclear engagement is exactly what is on the table now: Russia uses tactical nuclear weapons against Ukraine and Biden does nothing in response.  Assume for the sake of argument that the Biden Administration does not engage with Russia directly even if Russia launches tactical nukes against Ukraine.  The message that sends Moscow is that Washington might not risk potential escalation even if Russia uses lower yield nukes, like tactical nuclear weapons because of perceived risk of subsequent escalation. 
+
+Doing so is consistent with Washington's historic failures to address Russian aggression from Georgia in 2008 to present, now extrapolated to tactical nuclear weapon use.  It's hardly difficult to imagine that Putin would assume the same would apply if he used tactical nuclear weapons in other contexts, including direct conflict.  That would likely be a miscalculation on Putin's part, but we won't know until he (or a replacement) is actually confronted with the choice of whether to retaliate and how.  
+
+Second, buffer states are not the sole source of direct conflict mediation; but they still serve that purpose, so removing the remainder iterates closer to direct conflict.  It almost seems like you're thinking Washington and Moscow are just fighting over Ukraine for the sake of fighting over Ukraine, and no other reason.  So, you think the only reason they're fighting about a buffer state is just for the sake of having a fight about a buffer state?  That makes no sense at all.  
+
+The fight over buffer states is about security and strategic access.  That is particularly true, given that: Russia's strength is primarily land-based and main strategic vulnerability is that the unobstructed northern European plain leading directly to Moscow.  Outside of Russia's control, Russia perceives Ukraine as an existential threat.
+
+----- __250.6__ -----2022-05-02 08:04:01+08:00:
+
+The article is arguing, among other things, that removing buffer states iterates closer to direct conflict between NATO and Russia.  It is hardly as if the risk stops once the only remaining type of conflict between them is direct.  
+
+There is no rational reason to assume that mutually assured destruction eliminates the risk of direct conflict between NATO and Russia --- for the same reason it is wrong to have assumed the cold war would have always remained cold and it couldn't have been any other way.  
+
+Mutually assured destruction is a theoretical abstraction, not a law of international relations on par with something like Einstein's theory of relativity.  One the one hand, it is true that every gamed-out scenario involving nuclear exchange between the United States and Russia leads to mutually assured destruction, very quickly.  But on the other, each of those scenarios involve *exchanges* as opposed to *unilateral* --- subsequently unanswered --- nuclear engagements.  
+
+One such possible unilateral, potentially unanswered, nuclear engagement is exactly what is on the table now: Russia uses tactical nuclear weapons against Ukraine and Biden does nothing in response.  Assume for the sake of argument that the Biden Administration does not engage with Russia directly even if Russia launches tactical nukes against Ukraine.  The message that sends Moscow is that Washington might not risk potential escalation even if Russia uses lower yield nukes, like tactical nuclear weapons because of perceived risk of subsequent escalation.  
+
+Doing so is consistent with Washington's historic failures to address Russian aggression from Georgia in 2008 to present, now extrapolated to tactical nuclear weapon use.  It's hardly difficult to imagine that Putin would assume the same would apply if he used tactical nuclear weapons in other contexts, including direct conflict.  That would likely be a miscalculation on Putin's part, but we won't know until he (or a replacement) is actually confronted with the choice of whether to retaliate and how.  Almost a decade and a half of Washington's prevarication in the face of Russian aggression and incoherence in its policy towards Russia generally, has brought the world to this point.  If the threat of an adequate military response was certain --- and not just a bluff like Obama played in Syria --- we wouldn't be here.
+
