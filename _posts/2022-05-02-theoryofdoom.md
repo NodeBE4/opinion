@@ -3,7 +3,7 @@ author: theoryofdoom
 categories:
 - Reddit
 date: 2022-05-02
-from: https://old.reddit.com/r/geopolitics/comments/ug7f75/tragedy_national_insecurity_and_war_in_ukraine/
+from: https://old.reddit.com/r/LockdownSkepticism/comments/ug70s4/bill_gates_warns_weve_not_seen_the_worst_of_covid/
 layout: post
 tags:
 - Reddit
@@ -13,9 +13,15 @@ title: theoryofdoom在2022-05-02~2022-05-08的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 250: [Tragedy, National Insecurity, and War in Ukraine](https://old.reddit.com/r/geopolitics/comments/ug7f75/tragedy_national_insecurity_and_war_in_ukraine/), submitted on 2022-05-02 03:31:34+08:00.
+### 250: [Bill Gates warns 'we've NOT seen the worst of Covid': Microsoft billionaire says there is 'way above five percent' risk of pandemic generating more transmissive and 'even more fatal' Coronavirus variant](https://old.reddit.com/r/LockdownSkepticism/comments/ug70s4/bill_gates_warns_weve_not_seen_the_worst_of_covid/), submitted on 2022-05-02 03:12:14+08:00.
 
------ __250.1__ -----2022-05-02 03:31:53+08:00:
+----- __250.1__ -----2022-05-02 13:48:31+08:00:
+
+Says the guy who shorted Tesla.
+
+### 251: [Tragedy, National Insecurity, and War in Ukraine](https://old.reddit.com/r/geopolitics/comments/ug7f75/tragedy_national_insecurity_and_war_in_ukraine/), submitted on 2022-05-02 03:31:34+08:00.
+
+----- __251.1__ -----2022-05-02 03:31:53+08:00:
 
 Submission Statement:
 
@@ -23,15 +29,15 @@ Territorial and maritime geostrategic frameworks define the contest for power in
 
 Buffer states between Europe's adverse power centers mediate that contest --- and by so doing, mitigate the risk of "showdown" wars.   Particularly where the three Baltic states are NATO members, from Moscow's perspective, Ukraine is part of Russia's "near abroad" and should remain within its exclusive sphere of influence (or ideally be re-incorporated into the Russian empire).  Yet, Washington has flirted with the idea of Ukraine's membership in NATO since it gained independence and even more so after the USSR's collapse.  This ostensible "strategic ambiguity" has created the worst possible outcome in Ukraine: inviting a Russian military response under circumstances where Ukraine has failed to develop a robust military of its own and where Washington failed to live up to implied obligations under the Budapest Memorandum in 1994 (along with the other signatories).  When hostilities end, Ukraine will either be annexed by Russia or become aligned more closely with NATO.  In either world, competition for power on the European continent will become more precarious: concurrently defined by a lack of neutral buffers between NATO and Russia and with greater risk of a showdown war between them.
 
------ __250.2__ -----2022-05-02 04:45:45+08:00:
+----- __251.2__ -----2022-05-02 04:45:45+08:00:
 
 The issue is what's left to fight over, in the absence of border states.  At that point, it's not about the Baltic states, Ukraine, etc.  Rather, it's about a showdown for power over the European continent --- basically, the [war that Churchill wanted](https://www.thehistorypress.co.uk/articles/operation-unthinkable-churchill-s-plans-to-invade-the-soviet-union/#:~:text=The%20plan%20called%20for%20a,his%20domination%20of%20East%20Europe) and the USSR spent the Cold War preparing for.
 
------ __250.3__ -----2022-05-02 05:50:29+08:00:
+----- __251.3__ -----2022-05-02 05:50:29+08:00:
 
 [That is not an easy assessment](https://www.businessinsider.com/putin-said-2018-would-use-nuclear-weapons-if-russia-attacked-2022-4), when what counts as an "attack" is subjective in nature.
 
------ __250.4__ -----2022-05-02 06:12:19+08:00:
+----- __251.4__ -----2022-05-02 06:12:19+08:00:
 
 At least three problems with jumping to conclusions like that readily present themselves. 
 
@@ -43,7 +49,7 @@ Second, no one has any idea what the actual tripwire would be for Putin.  Nor is
 
 Third, you have limited your consideration to nuclear conflict between the Russia and NATO.  It is unclear whether you are assuming that Russia would not use nuclear weapons against a non-nuclear power (i.e., Ukraine) or whether that just hasn't been considered.  If nuclear weapons are used in the current conflict --- and that is a big "if" --- the most likely form such use would take, would be Russia using tactical nuclear weapons against Ukraine.  In that case, it's unlikely the United States under current leadership would respond militarily.  That unanswered provocation would set the context for future nuclear conflict in the absence of buffer states between Russia and NATO.
 
------ __250.5__ -----2022-05-02 07:53:09+08:00:
+----- __251.5__ -----2022-05-02 07:53:09+08:00:
 
 Yes, it seems there is a clear disconnect on several levels.
 
@@ -63,7 +69,7 @@ Second, buffer states are not the sole source of direct conflict mediation; but 
 
 The fight over buffer states is about security and strategic access.  That is particularly true, given that: Russia's strength is primarily land-based and main strategic vulnerability is that the unobstructed northern European plain leading directly to Moscow.  Outside of Russia's control, Russia perceives Ukraine as an existential threat.
 
------ __250.6__ -----2022-05-02 08:04:01+08:00:
+----- __251.6__ -----2022-05-02 08:04:01+08:00:
 
 The article is arguing, among other things, that removing buffer states iterates closer to direct conflict between NATO and Russia.  It is hardly as if the risk stops once the only remaining type of conflict between them is direct.  
 
@@ -75,7 +81,7 @@ One such possible unilateral, potentially unanswered, nuclear engagement is exac
 
 Doing so is consistent with Washington's historic failures to address Russian aggression from Georgia in 2008 to present, now extrapolated to tactical nuclear weapon use.  It's hardly difficult to imagine that Putin would assume the same would apply if he used tactical nuclear weapons in other contexts, including direct conflict.  That would likely be a miscalculation on Putin's part, but we won't know until he (or a replacement) is actually confronted with the choice of whether to retaliate and how.  Almost a decade and a half of Washington's prevarication in the face of Russian aggression and incoherence in its policy towards Russia generally, has brought the world to this point.  If the threat of an adequate military response was certain --- and not just a bluff like Obama played in Syria --- we wouldn't be here.
 
------ __250.7__ -----2022-05-02 13:43:39+08:00:
+----- __251.7__ -----2022-05-02 13:43:39+08:00:
 
 > What is clear is that the half-hearted US and NATO flirtation with a Ukrainian membership denied Ukraine the actual treaty guarantees, and/or the military support needed to deter Russia, while inviting a Russian response.
 
