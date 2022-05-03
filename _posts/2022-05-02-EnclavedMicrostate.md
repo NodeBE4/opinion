@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-02
+date: 2022-05-03
 from: https://old.reddit.com/r/RWBY/comments/ug7txg/suisei_of_hololive_fame_brings_up_rwby_as_an/
 layout: post
 tags:
@@ -34,4 +34,10 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 > Droids straight up form Napoleonic-style infantry blocks in combat
 
 The thing of course is that these infantry blocks were mainly used to feed reserves into skirmish lines that performed the bulk of the firing, and to move in with the bayonet once the enemy formation was sufficiently depleted that it could be driven off the field. If you were going to be firing, you'd either send a skirmish force ahead, or form out in lines if you were trying to maximise fire. Blocks are not good for shooty action.
+
+### 398: [Great Black Dragon](https://old.reddit.com/r/ChineseTranslation/comments/ugzvnt/great_black_dragon/), submitted on 2022-05-03 05:13:25+08:00.
+
+----- __398.1__ -----2022-05-03 17:27:07+08:00:
+
+In my view 黑 would also work – the Amur River, for instance, is also known as 黑龍江, so there's plenty of precedent for just using that. Also, seeing as it's supposed to be in Cantonese, tonally I'd argue *dai6 hak1 lung4* sounds better than *dai6 jyun4 lung4* – the latter has three low held tones while the former has a nice low-high-low contour.
 
