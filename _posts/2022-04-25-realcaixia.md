@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-04-25~2022-05-01'
 
 ### 4: [2022-04-25 13:47:04+08:00 推文](https://twitter.com/realcaixia/status/1518466603066691584)
 
-中共党章早就写明反对任何方式的个人崇拜。习与刘宁共同违反党章与准则。
+中共党章早就写明反对任何方式的个人崇拜。习与刘宁共同违反党章与准则。<br><br>《议报》: 田奇庄：向中纪委赵乐际同志实名举报——广西壮族自治区党委书记刘宁公然违反党章搞个人崇拜<br> <a href="https://yibaochina.com/?p=246109" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246109</a>
 
 ### 5: [2022-04-25 14:19:40+08:00 推文](https://twitter.com/realcaixia/status/1518474806525665280)
 
@@ -173,7 +173,7 @@ Re @hehe2114 请到YouTube上搜各媒体对我访谈的视频，那里有我的
 
 ### 40: [2022-04-29 03:52:23+08:00 推文](https://twitter.com/realcaixia/status/1519766497052274688)
 
-这是人们对封杀四月之声的强烈抗议！对极权反人性反人类的清零封城的悲愤控诉！
+这是人们对封杀四月之声的强烈抗议！对极权反人性反人类的清零封城的悲愤控诉！<br><br>bamboo0716: 四月之声 瞬间在这片土地上销声匿迹<br><br><img style="" src="https://pbs.twimg.com/media/FQ9lFQ3VEAAOyPV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 41: [2022-04-29 03:57:05+08:00 推文](https://twitter.com/realcaixia/status/1519767680332541956)
 
