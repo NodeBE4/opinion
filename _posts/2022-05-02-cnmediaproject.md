@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-02
+date: 2022-05-03
 from: https://twitter.com/RuanVictoria/status/1521120126862508032
 layout: post
 tags:
@@ -18,4 +18,8 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 ### 1: [2022-05-02 21:31:13+08:00 推文](https://twitter.com/RuanVictoria/status/1521120126862508032)
 
 RT Victoria Ruan<br>The #Xinhua news headline: China's #zerocovid policy benefits the world.<br><img style="" src="https://pbs.twimg.com/media/FRwasYrWYAQSpq0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 2: [2022-05-03 09:08:08+08:00 推文](https://twitter.com/cnmediaproject/status/1521295510514315265)
+
+The 2021 China Online Media Development Report, released last week, offers an interesting glimpse into CCP thinking on both the transformation of Party-led media and the operationalizing of private online platforms in the digital era. <a href="https://chinamediaproject.org/2022/05/03/developing-online-media-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/03/developing-online-media-control/</a><br><img style="" src="https://pbs.twimg.com/media/FRy6MZYaUAAVgTg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -23,6 +23,16 @@ Says the guy who shorted Tesla.
 
 Banbot test comment.
 
+----- __250.3__ -----2022-05-03 10:27:27+08:00:
+
+The following subreddits are running banbots that discovered the above comment:
+
+* iamatotalpieceofshit
+* atheism
+* madlads
+* Showerthoughts
+* pics
+
 ### 251: [Tragedy, National Insecurity, and War in Ukraine](https://old.reddit.com/r/geopolitics/comments/ug7f75/tragedy_national_insecurity_and_war_in_ukraine/), submitted on 2022-05-02 03:31:34+08:00.
 
 ----- __251.1__ -----2022-05-02 03:31:53+08:00:
@@ -96,6 +106,14 @@ I'm really glad to see that you've noticed that and recognized its significance,
 ----- __252.1__ -----2022-05-02 20:45:00+08:00:
 
 Differential geometry has a variety of applications to econometrics and econometric modeling.  There are even a few textbooks on the subject floating around out there.
+
+----- __252.2__ -----2022-05-03 10:24:33+08:00:
+
+It's a little out of date, but here you go:
+
+https://www.amazon.com/Applications-Differential-Geometry-Econometrics-Marriott/dp/0521651166
+
+I'm sure there's been a lot of good stuff since then.
 
 ### 253: [Method to get IP address location](https://old.reddit.com/r/hacking/comments/ughqsn/method_to_get_ip_address_location/), submitted on 2022-05-02 12:42:50+08:00.
 
