@@ -211,3 +211,19 @@ Re @lovenix66 美国人有枪，1月6日之后连集会都免了。<br>美国人
 
 Re @Wu_Zhi 我现在有点倾向于相信，习近平的压力测试，有战争这方面考虑。
 
+### 50: [2022-05-04 01:40:04+08:00 推文](https://twitter.com/HeQinglian/status/1521545140061495297)
+
+Re @chinayvan @Wu_Zhi 你得弄清楚一点：乌克兰战争不是乌克兰人要的，是美国的代理人战争。<br>打台湾至少不是习近平一年内的目标，美英这么积极为哪般？
+
+### 51: [2022-05-04 01:49:00+08:00 推文](https://twitter.com/HeQinglian/status/1521547386836955136)
+
+Re @tkymbop @chinayvan @Wu_Zhi 崇美将你弄成瞎子、聋子。<br>乌克兰租借法案是今年1月的事情，俄入侵乌克兰是2月24日，泽连斯基自己在3月18日经济学人访谈时明说了是美英希望乌克兰打的代理人战争。<br>与瞎子、聋子呆到一起，做两脚羊去。美国新成立的真理部需要你这类东西。
+
+### 52: [2022-05-04 01:52:25+08:00 推文](https://twitter.com/HeQinglian/status/1521548245951995905)
+
+Re @dumbowcell “这回普京用现出生命”——真理部文稿。
+
+### 53: [2022-05-04 02:03:14+08:00 推文](https://twitter.com/HeQinglian/status/1521550969720479745)
+
+Re @P3MoDc6lShSo3d0 @tkymbop @chinayvan @Wu_Zhi <br>看清楚英文，用放大镜。<br><br>Ezio Mao☢: 美国对乌克兰的“租借法案”是 1 月份提交给美国参议院审议的！在乌克兰发生冲突开始之前一个多月？？？<br><br>2022年1月19日，该文件被“读了两遍”并提交给国际关系委员会。<br><br>参议院于 4 月 6 日通过了该文件，并于 4 月 29 日获得了国会众议院的批准。<br><br>看来美国早就开始计划这场战争，剧本都写好了属于是😏<br><br><img style="" src="https://pbs.twimg.com/media/FRmIRORWQAEPe8I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
