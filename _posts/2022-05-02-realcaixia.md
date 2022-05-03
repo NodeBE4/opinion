@@ -23,3 +23,11 @@ title: 'Twitter @蔡霞: 2022-05-02~2022-05-08'
 
 特别推荐：专访钟剑华：流离世代令人难过 常存昐望继续发声 <a href="https://www.voachinese.com/a/interview-with-chung-kim-wah-wave-of-migration-saddening-urges-for-hopes-and-vow-to-speak-out/6552838.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/interview-with-chung-kim-wah-wave-of-migration-saddening-urges-for-hopes-and-vow-to-speak-out/6552838.html</a>
 
+### 3: [2022-05-03 21:58:44+08:00 推文](https://twitter.com/realcaixia/status/1521489437028491271)
+
+恶法下的执法与土匪没有什么区别。<br><br>蔡慎坤: 这是上海吗？怎么如同土匪一样！<br> <a href="https://twitter.com/salmon_ten/status/1520985187412492289" target="_blank" rel="noopener noreferrer">https://twitter.com/salmon_ten/status/1520985187412492289</a>
+
+### 4: [2022-05-03 22:01:00+08:00 推文](https://twitter.com/realcaixia/status/1521490008003198976)
+
+Re @Lisa00792327545 @cskun1989 请搜议报网站，议报发布了全文。
+
