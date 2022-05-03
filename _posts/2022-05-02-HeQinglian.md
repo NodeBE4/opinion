@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-03
+date: 2022-05-04
 from: https://twitter.com/HeQinglian/status/1520817679053070337
 layout: post
 tags:
@@ -158,4 +158,56 @@ Re @JianglinLi @RealBeiMing Bloomingberg今天登了一篇强调事态严重性�
 ### 36: [2022-05-03 21:15:25+08:00 推文](https://twitter.com/HeQinglian/status/1521478535646527488)
 
 Re @Wu_Zhi 字面上听起来没问题，很正常，气候这把戏，欧盟的绿能再玩就是死路一条。关键是“human rights”主要包含的内容是LGBTQI、CRT等内容。
+
+### 37: [2022-05-03 21:21:21+08:00 推文](https://twitter.com/HeQinglian/status/1521480031364653056)
+
+Re @JiangShangrong 中文推上，90%以上是俄乌战争的“认知战”，几大美欧政府中文媒体每天是“乌克兰必胜”+泽连斯基颂词。乌克兰方的报道主要是俄军凶残与乌军誓死捍卫乌克兰。<br>你这里外加几个推主才有实况报道。<br>辛苦了。
+
+### 38: [2022-05-03 21:50:18+08:00 推文](https://twitter.com/HeQinglian/status/1521487314895220739)
+
+Re @JianglinLi @JiangShangrong “认知战”，这个名词好，意思是：事实如何不重要，相信什么是首位。<br>俄将军死没死、死了多少不重要，普京是否得病不重要，中外乌鸡血相信就行，就能鼓舞士气（其实是网络士气，不大知道对困守的乌军有何帮助）。<br>就算认知战发布美乌联军攻占克里姆林宫、活捉普京，我相信一票年逾60多的乌粉也照转不误。
+
+### 39: [2022-05-03 21:53:40+08:00 推文](https://twitter.com/HeQinglian/status/1521488160622010371)
+
+Re @Wu_Zhi 美国民主党政府这样想：三权分立模式与责任政治本来就是我美国产物， 发给世界让学习摹仿。如今代表美国的我不要了，大家也跟着废除吧。<br>“天下自我得之，自我失之，我又何恨？”——这是亡国君王梁武帝名言。<br>一群两脚羊跟着叫“美国好，怎样变还是好”，挺壮观的。
+
+### 40: [2022-05-03 22:14:13+08:00 推文](https://twitter.com/HeQinglian/status/1521493332702150657)
+
+Re @JianglinLi @Wu_Zhi 昨天你发的这篇《纽约时报揭示了关于“变性”手术的痛苦真相》，其实是左派人定胜天、改造自然（人）的极致疯狂。<br>那位变性者Chu通过自身经历认为，医生成了仅仅满足欲望的人，即使所做的对病人不利。<br>Chu承认手术实际上不会“重新分配”性别：“我的身体会将阴道视为伤口。” <a href="https://www.heritage.org/gender/commentary/new-york-times-reveals-painful-truths-about-sex-change-surgery" target="_blank" rel="noopener noreferrer">https://www.heritage.org/gender/commentary/new-york-times-reveals-painful-truths-about-sex-change-surgery</a>
+
+### 41: [2022-05-03 22:17:26+08:00 推文](https://twitter.com/HeQinglian/status/1521494142723006470)
+
+Re @daxiazhangbo @JiangShangrong 指东说西，胡搅蛮缠。<br>我们说的是信息战说谎，你就拉上别的。因为假受侵略之名，所行一切就正义？就这脑子，难怪连推名都是“有权真好”。<br>滚远点。
+
+### 42: [2022-05-03 22:18:37+08:00 推文](https://twitter.com/HeQinglian/status/1521494442909261826)
+
+Re @Wu_Zhi @JianglinLi 成年人变性，后果自负；关键是戗害未成年人，剥夺未年年人父母这方面对子女的监护权。
+
+### 43: [2022-05-03 22:31:47+08:00 推文](https://twitter.com/HeQinglian/status/1521497754215890946)
+
+Re @JianglinLi @Wu_Zhi 美国左派教育以毁坏人类社会的生活常识为己任。
+
+### 44: [2022-05-03 22:53:32+08:00 推文](https://twitter.com/HeQinglian/status/1521503227669368832)
+
+Re @JianglinLi 坡上空地是公地。我得砍光那些刺野莓，还得换表层土（这个工程很大）。先种一点吧。<br>我们小区基土是粘土，住户们的最大难题是挖洞换土。昨天一邻居家看我家杜鹃花苞满枝，让我看她家的杜鹃，朝向与我家一样，但连新叶都没长。问了一下情况，是土的问题，她家挖了一个花盆大的洞塞进去，周边全是粘土。
+
+### 45: [2022-05-04 00:15:06+08:00 推文](https://twitter.com/HeQinglian/status/1521523754580516866)
+
+德语媒体：中国露出了真面目 <br>我说中国上海清零有对内对外压力测试两大目标，《法兰克福汇报》的抱怨证明，欧盟对中国的市场与经济双重依赖，短期内根本无法解决。<br>以前记得中美贸易战时国内有人说过，中国人吃草也能熬一年，清零确实是让被封区域的国民接近吃草外加封闭。 <a href="https://p.dw.com/p/4AmHq?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4AmHq?maca=zh-Twitter-sharing</a>
+
+### 46: [2022-05-04 00:22:55+08:00 推文](https://twitter.com/HeQinglian/status/1521525724309508099)
+
+金融時報：英美就台海局勢舉行高層閉門會議 <br>拜登政府的乌克兰代理人战争还未完，就将眼睛盯住台海了。<br>美国的乌克兰租借法案早在今年1月就出台了，难道还想再弄一个台湾租借法案？<br>不知台陆人士对此如何想？是否希望习近平出兵？ <a href="https://p.dw.com/p/4Ah8N?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Ah8N?maca=zh-Twitter-sharing</a>
+
+### 47: [2022-05-04 00:28:11+08:00 推文](https://twitter.com/HeQinglian/status/1521527049160118272)
+
+今天推特出新把戏，一位网友发来的一条私信，显示的第一条信息是：Message hidden due to suspicious content。点开View点出现两个选择：Message OK, This is Spam.<br>无法断定是推特的政策还是推特遵从美国国土安全部新设的真理部指示。
+
+### 48: [2022-05-04 00:31:11+08:00 推文](https://twitter.com/HeQinglian/status/1521527802679500802)
+
+Re @lovenix66 美国人有枪，1月6日之后连集会都免了。<br>美国人现在对通胀抱怨很多，但也没拿枪。<br>拜登早就说过了，美国人有枪，但没有核武器，也没有歼35.<br>不是什么事都是拿起枪就能解决的。
+
+### 49: [2022-05-04 00:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1521528117625565187)
+
+Re @Wu_Zhi 我现在有点倾向于相信，习近平的压力测试，有战争这方面考虑。
 
