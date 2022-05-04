@@ -227,3 +227,19 @@ Re @dumbowcell “这回普京用现出生命”——真理部文稿。
 
 Re @P3MoDc6lShSo3d0 @tkymbop @chinayvan @Wu_Zhi <br>看清楚英文，用放大镜。<br><br>Ezio Mao☢: 美国对乌克兰的“租借法案”是 1 月份提交给美国参议院审议的！在乌克兰发生冲突开始之前一个多月？？？<br><br>2022年1月19日，该文件被“读了两遍”并提交给国际关系委员会。<br><br>参议院于 4 月 6 日通过了该文件，并于 4 月 29 日获得了国会众议院的批准。<br><br>看来美国早就开始计划这场战争，剧本都写好了属于是😏<br><br><img style="" src="https://pbs.twimg.com/media/FRmIRORWQAEPe8I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 54: [2022-05-04 04:32:08+08:00 推文](https://twitter.com/Wu_Zhi/status/1521588438159536129)
+
+RT zhix<br>没有奥巴马，瞧瞧世界会太平多了👇<br><br>ACT For America: Before Obama, there was no ISIS.<br>Before Obama, there was no BLM.<br>Before Obama, there was no ANTIFA.<br>Before Obama, there was no war on police.<br><br>Before Barack Hussein Obama, this country wasn't as divided as today!<br>
+
+### 55: [2022-05-04 10:18:56+08:00 推文](https://twitter.com/HeQinglian/status/1521675716882014208)
+
+Re @JianglinLi @Wu_Zhi @seadognw @RealBeiMing 美国经济现在进入最糟糕的滞胀状态：经济停滞（GDP增速-1.4）+高通胀（8.5%），还要加税，那真是美国人选出的好总统。
+
+### 56: [2022-05-04 10:24:08+08:00 推文](https://twitter.com/HeQinglian/status/1521677022707208193)
+
+Re @panhuishan 再打一场战争，美国人有一半变成穷人。
+
+### 57: [2022-05-04 10:32:39+08:00 推文](https://twitter.com/HeQinglian/status/1521679165598179328)
+
+Re @JianglinLi 比2020年BLM闹事时，哥伦比亚大学的女生当街裸舞并向警察展露生殖器官文明多了，也比成群男女在城市裸体骑车呼啸而过要文明，只是叫几嗓子。以美国左派现有水准来说，真是算文明——我现在将那次革命男女当做坐标，有比较才有鉴别。
+

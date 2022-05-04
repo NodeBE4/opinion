@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
@@ -697,7 +697,7 @@ Re @zwvrhwmjgx @pandatress1 你还有一丁点自尊心吗？<br>为什么不用
 
 ### 171: [2022-04-21 22:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1517151090420051968)
 
-我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。 <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/</a>
+我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。<br><br>zhix: @JianglinLi @dongle_smith @HeQinglian 还会让更多无辜的人去送死😂<br>
 
 ### 172: [2022-04-21 23:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1517157642434662406)
 
@@ -973,7 +973,7 @@ Re @JianglinLi @Wu_Zhi 好象正主儿们都没欢庆吧？<br>对双方而言�
 
 ### 240: [2022-04-24 21:37:06+08:00 推文](https://twitter.com/HeQinglian/status/1518222501918224385)
 
-感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。<br><br>Junson Chan 🇺🇸: The guardian is now saying Putin may win in the Ukraine. <br><br>People are stupid though, they'll always believe the media, never questioning ever "hey, these idiots have always lied and been wrong, what does that make me?"<br> <a href="https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe</a>
+感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。
 
 ### 241: [2022-04-24 21:45:34+08:00 推文](https://twitter.com/HeQinglian/status/1518224635225161730)
 
