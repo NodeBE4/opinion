@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-05-02
+date: 2022-05-04
 from: https://old.reddit.com/r/LockdownSkepticism/comments/ug70s4/bill_gates_warns_weve_not_seen_the_worst_of_covid/
 layout: post
 tags:
@@ -126,4 +126,12 @@ You can't ordinarily get an exact location from an IP address alone.  You might 
 ----- __254.1__ -----2022-05-02 20:34:02+08:00:
 
 I agree with this.  But out-of-the-box security doesn't really do much when device users do things like open random links contained in text messages from unknown sources.
+
+### 255: [Pritzker extends Covid-19 disaster proclomation](https://old.reddit.com/r/CoronavirusIllinois/comments/uhl28f/pritzker_extends_covid19_disaster_proclomation/), submitted on 2022-05-04 01:20:10+08:00.
+
+----- __255.1__ -----2022-05-04 19:16:20+08:00:
+
+> Why should we expend resources tracking it at this point?
+
+The question isn't "why," but "how."  Mass testing sites paid for by tax dollars no longer make sense, but testing symptomatic individuals for diagnostic purposes --- which we obviously still do --- is important, for the same reasons we track many other infectious, communicable diseases (e.g., the flu).
 
