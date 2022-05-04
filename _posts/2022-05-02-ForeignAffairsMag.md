@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-03
+date: 2022-05-04
 from: https://old.reddit.com/r/TrueReddit/comments/uhhevb/revenge_of_the_patriarchs_why_autocrats_fear_women/
 layout: post
 tags:
@@ -38,4 +38,10 @@ Both aspiring and established autocrats fear women’s political participation�
 Erica Chenoweth and Zoe Marks argue that because pro-democracy campaigns with women at their center are more likely to succeed, the repressive governments they target have “a strategic reason to be sexist."
 
 With authoritarianism on the rise and women’s rights being rolled back in countries as diverse as Brazil, India, Poland, and the United States, “understanding the relationship between sexism and democratic backsliding is vital for those who wish to fight back against both.”
+
+### 235: [Finland’s New Frontier: Will Russia Seek to Disrupt Helsinki’s NATO Bid?](https://old.reddit.com/r/europe/comments/ui89sv/finlands_new_frontier_will_russia_seek_to_disrupt/), submitted on 2022-05-04 22:47:26+08:00.
+
+----- __235.1__ -----2022-05-04 22:48:04+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
