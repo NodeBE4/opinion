@@ -135,3 +135,35 @@ I agree with this.  But out-of-the-box security doesn't really do much when devi
 
 The question isn't "why," but "how."  Mass testing sites paid for by tax dollars no longer make sense, but testing symptomatic individuals for diagnostic purposes --- which we obviously still do --- is important, for the same reasons we track many other infectious, communicable diseases (e.g., the flu).
 
+----- __255.2__ -----2022-05-04 19:39:05+08:00:
+
+> So we have sufficient supplies available in areas that need them
+> 
+> So hospitals can plan staffing, supplies etc.
+
+The proposed --- in March 2020 --- risk of overwhelmed healthcare systems was based on, among other things, [a modeled pandemic simulation](https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf) which presumed high susceptibility among infection-naive populations, without recognizable immunity from prior infection or vaccination.  
+
+At the current time, the same population-level susceptibility cannot be presumed because of both the rate of prior infections and the extent of vaccination among the population (among other reasons).  
+
+Certain challenges remain for hospital staffing, but most of those problems relate to the high attrition rates among staff generally as opposed to pandemic-related risks.  
+
+Further, with several commercialized pharmaceutical products and a recognized outpatient treatment protocol (e.g., prescription antivirals, such as Merck's protease inhibitor, molnupiravir), the demand for hospital resources even among cohorts likely to have a severe response to infection is significantly lessened.  
+
+Folks should realize that we've come a long way since this began.
+
+----- __255.3__ -----2022-05-04 19:44:47+08:00:
+
+Your comment is incoherent.  Refrain from that sort of low-effort conduct moving forward.
+
+----- __255.4__ -----2022-05-04 19:47:40+08:00:
+
+That discussion has nothing to do with this subreddit.
+
+### 256: [Central African Republic: Abuses by Russia-Linked Forces](https://old.reddit.com/r/geopolitics/comments/ui4rqz/central_african_republic_abuses_by_russialinked/), submitted on 2022-05-04 19:51:10+08:00.
+
+----- __256.1__ -----2022-05-04 20:00:13+08:00:
+
+Submission Statement:
+
+This Human Rights Watch report details egregious human rights abuses in the Central African Republic by one of Russia's private military contractors, the Wagner Group.  Investigation is ongoing and the full scope of Wagner's conduct in the CAR is not presently ascertained.  However, this report overviews certain aspects of Wagner's activity and violations, including extrajudicial executions, torture and other war crimes.  Though not detailed in the article, gold, diamond and uranium mining interests are a key reason for Wagner's presence there.
+

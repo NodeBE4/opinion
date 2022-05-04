@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-03
+date: 2022-05-04
 from: https://old.reddit.com/r/RWBY/comments/ug7txg/suisei_of_hololive_fame_brings_up_rwby_as_an/
 layout: post
 tags:
@@ -60,4 +60,10 @@ One aspect to consider is that although the Yongzheng Emperor subscribed to a re
 This was not the only portrait the emperor had made of himself in imitation French garb, as there is also a portrait bust of him in similar though differently-coloured wig and clothing, though I thought the more animated portrait was more interesting. I basically concur with Sun Jing's argument that these portraits were an attempt to satiate a personal curiosity about Europeans, trying to create a 'view from within' by having himself placed in the position of one of them, as well as demonstrating the legitimacy of the 'universal empire' by having him portray figures from both within and beyond its borders.
 
 Most of the above is sourced from Sun Jing's chapter in Thijs Weststeijn (ed.), *Foreign Devils and Philosophers: Cultural Encounters between the Chinese, the Dutch, and Other Europeans, 1590-1800*.
+
+### 400: [Europe is confusing](https://old.reddit.com/r/Hololive/comments/uhyihr/europe_is_confusing/), submitted on 2022-05-04 12:26:36+08:00.
+
+----- __400.1__ -----2022-05-04 19:36:17+08:00:
+
+...Austrian, surely?
 
