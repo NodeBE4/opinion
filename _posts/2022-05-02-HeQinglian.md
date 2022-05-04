@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-04
+date: 2022-05-05
 from: https://twitter.com/HeQinglian/status/1520817679053070337
 layout: post
 tags:
@@ -270,4 +270,68 @@ Re @JianglinLi 方法其实简单，但要实行，如同让民主党断魂。<b
 ### 64: [2022-05-04 21:57:24+08:00 推文](https://twitter.com/HeQinglian/status/1521851489668550658)
 
 Re @Wu_Zhi 比BLM的纽约地区领导人强。人家说的是：如果不给我们想要的，我们就要毁灭一切。<br>相比之下，人家只是拉屎。<br>不要说我用比烂原则，左派本来就是奉行这种无赖原则。
+
+### 65: [2022-05-05 00:21:17+08:00 推文](https://twitter.com/HeQinglian/status/1521887697593376769)
+
+Re @JiangShangrong 因为美英无论如何，不能公然参战，因此只有两法：<br>一是让西方资助挖地下隧道，时间虽然长，但符合美英拖垮俄罗斯的漫长时间表；二是寻找一千零一夜的飞毯。<br>拜登有的是钱，只要泽连斯基需要。就算不给，也可以让乌克兰的政府要员去美国国会走廊拉屎，民主党们见惯不惊。南希住在旧金山，见惯这号。
+
+### 66: [2022-05-05 00:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1521888442296279047)
+
+Re @JianglinLi 突然想起，白左不少就是蓝眼睛、绿眼睛、灰眼睛，所以眼睛变色不重要。
+
+### 67: [2022-05-05 00:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1521889094456033287)
+
+Re @fading_you1 @JianglinLi 你说得对。《资本论》有段名言：“资本是没有办法才从事物质生产这种倒霉的事情，它也不愿意去从事物质生产，它总希望有更快、更轻松的赚钱手段……”，左派们想，连资本都不愿意生产，是被迫的，我们为什么要生产？巧立各种名目，以公平正义为旗号，抢来就是。
+
+### 68: [2022-05-05 00:28:21+08:00 推文](https://twitter.com/HeQinglian/status/1521889478020943875)
+
+Re @Wu_Zhi @JiangShangrong 这点得向南希学习，她的旧金山，随处可见这类到处遗污的流浪汉。人家就能安之若素，必要时下跪。
+
+### 69: [2022-05-05 00:51:51+08:00 推文](https://twitter.com/HeQinglian/status/1521895391746465792)
+
+Re @KELMAND1 这四国的国会走廊会象德国国会，闻到乌克兰驻该国大使的遗污“香味”吗？🤣🤣🤣 <a href="https://twitter.com/QQzk_prs/status/1521576543595737088" target="_blank" rel="noopener noreferrer">https://twitter.com/QQzk_prs/status/1521576543595737088</a>
+
+### 70: [2022-05-05 01:07:42+08:00 推文](https://twitter.com/HeQinglian/status/1521899382613983233)
+
+Re @KELMAND1 有位推友建议，要讲点人道，让他拉完再驱逐。<br>我觉得此议甚好，一是让全世界左派们欣赏一下并学习，测量一下自身的公共礼仪底线；二是让大家看到西装革履下的人，如何回到原始状态。
+
+### 71: [2022-05-05 01:16:28+08:00 推文](https://twitter.com/HeQinglian/status/1521901587358265345)
+
+一些西方企业又返回俄罗斯 <br>评：拜登美国的影响力如江河日下，欧盟27个大小兄弟一半成天摆出“哈姆雷特思考范”：制裁还是不制裁，部分制裁还是全制裁，这是生与死的问题<br>匈牙利、斯洛伐克比较实诚：咱陪不起这制裁，民生要紧。<br>按这报道说法，西方企业回俄是准备让普京没收财产 <a href="https://p.dw.com/p/4AmEX?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4AmEX?maca=zh-Twitter-sharing</a>
+
+### 72: [2022-05-05 01:20:31+08:00 推文](https://twitter.com/HeQinglian/status/1521902607534637058)
+
+避免战争升级还是屈服于强权？一封公开信在德国引发争论 <br><br>4月末，28名德国学术界和文艺界的代表联名签署了一封致总理肖尔茨的公开信，呼吁重新考虑向乌输送重型武器的事情，“我们敦促总理先生，尽一切努力促成（乌克兰）尽快实现停火，促成一项交战双方都能接受的妥协方案。” <a href="https://p.dw.com/p/4AokB?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4AokB?maca=zh-Twitter-sharing</a>
+
+### 73: [2022-05-05 01:21:47+08:00 推文](https://twitter.com/HeQinglian/status/1521902925706055680)
+
+Re @Rainding45 美疯还没清醒，德疯清醒了一些。法国也没见清醒。
+
+### 74: [2022-05-05 01:23:00+08:00 推文](https://twitter.com/HeQinglian/status/1521903230720090112)
+
+Re @Wu_Zhi 主要是拜登及背后的人最 近深通“独活”之道，以正义之名，让大家心甘情愿地自杀，自己独活。
+
+### 75: [2022-05-05 01:24:00+08:00 推文](https://twitter.com/HeQinglian/status/1521903483783372800)
+
+Re @Rainding45 美国中产快变贫农了，按照拜登的通胀掠夺速度。不过，拜登家很滋润。
+
+### 76: [2022-05-05 01:26:36+08:00 推文](https://twitter.com/HeQinglian/status/1521904135636930561)
+
+Re @Kele47518825 @Wu_Zhi @JianglinLi 皇帝想长治久安，也不能这么干，唐太宗、明太祖哪个敢这样只顾捞钱？只有昏君才这样痛快放手。
+
+### 77: [2022-05-05 01:28:17+08:00 推文](https://twitter.com/HeQinglian/status/1521904559542710273)
+
+Re @RealBeiMing 代拜乌粉驳斥：谣言！
+
+### 78: [2022-05-05 01:29:52+08:00 推文](https://twitter.com/HeQinglian/status/1521904961055072257)
+
+Re @gunsmoke_lo 你捐了钱为乌克兰买枪买炮吗？
+
+### 79: [2022-05-05 01:36:55+08:00 推文](https://twitter.com/HeQinglian/status/1521906735220510720)
+
+Re @KELMAND1 南韩不是布置过萨德系统么？
+
+### 80: [2022-05-05 01:39:36+08:00 推文](https://twitter.com/HeQinglian/status/1521907407529648129)
+
+Re @KELMAND1 估计至少找得到两国一地——除了附加一些那三地不接受的条件 ，毕竟美国现在是拜登当家，友邦多少不太放心。
 
