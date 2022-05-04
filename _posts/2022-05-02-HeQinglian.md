@@ -335,3 +335,39 @@ Re @KELMAND1 南韩不是布置过萨德系统么？
 
 Re @KELMAND1 估计至少找得到两国一地——除了附加一些那三地不接受的条件 ，毕竟美国现在是拜登当家，友邦多少不太放心。
 
+### 81: [2022-05-05 02:39:10+08:00 推文](https://twitter.com/JiangShangrong/status/1521922399071096833)
+
+RT jiang shangrong<br>⚡️ 教皇说乌克兰冲突的爆发导致“北约在俄罗斯门口狂吠”<br><br>😂 验证了，真实新闻。<br><br>基督徒推友们，是不得喊一声：哈利路亚？<br><img style="" src="https://pbs.twimg.com/media/FR70WeKWYAwsEkw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 82: [2022-05-05 04:06:54+08:00 推文](https://twitter.com/HeQinglian/status/1521944478776541187)
+
+Re @david_david1968 只有这么一点儿点击率？太不可思议了。🤣🤣🤣
+
+### 83: [2022-05-05 04:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1521948090441289732)
+
+Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟友们担心拉屎拉到头上来了？毕竟，帮人也不是为了找个骑在头上拉屎拉尿的主儿。
+
+### 84: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
+
+习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+
+### 85: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
+
+Re @YLo8I2V15Ogbkc6 @Sam20210206 你改名吧：愚海堆贝产品。
+
+### 86: [2022-05-05 04:35:34+08:00 推文](https://twitter.com/HeQinglian/status/1521951689875599367)
+
+Re @KELMAND1 布置萨德的那国考虑到是进攻性的，可能性最多一半。<br>那一地虽然自比乌克兰，但如今看到乌克兰这样，心里也有点打鼓。另外还有一点：最近那边有人告诉我，台湾人恨死拜登了——绿蓝泛都恨，认为他根本保护不了台湾。
+
+### 87: [2022-05-05 04:38:04+08:00 推文](https://twitter.com/HeQinglian/status/1521952322208903170)
+
+Re @Wu_Zhi 他最近要求世界各国政府配合美国推行LGBTQI与CRT这套人权价值观，太辛苦了，得休息一下。<br>养好精神头再继续推广。
+
+### 88: [2022-05-05 04:40:27+08:00 推文](https://twitter.com/HeQinglian/status/1521952921457512454)
+
+Re @princeton_walk @david_david1968 你没见，原推有400多Like，100多转推。留言有好几条表示相信。<br>只是按中文推特的鸡血程度，本该有10万点击率，没达标而已。😂
+
+### 89: [2022-05-05 04:41:37+08:00 推文](https://twitter.com/HeQinglian/status/1521953216329662464)
+
+Re @pandatress1 西方全面制裁俄罗斯以后，资本家有了祖国。
+
