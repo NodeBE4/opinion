@@ -353,7 +353,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 85: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 86: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -518,4 +518,44 @@ RT 北美保守评论🇺🇸🇨🇦<br>《北美保守评论》昨晚美东8
 ### 126: [2022-05-06 01:48:10+08:00 推文](https://twitter.com/HeQinglian/status/1522271953071263745)
 
 Re @pandatress1 拉美的反殖就是反美。更好笑的是：左派经济学大家阿明的中心-边缘论成为全球化理论的支点。<br>这世界真的非常荒唐。
+
+### 127: [2022-05-06 01:53:13+08:00 推文](https://twitter.com/HeQinglian/status/1522273222644932613)
+
+Re @pandatress1 拉美的反殖就是反美。更好笑的是：左派经济学大家阿明的中心-边缘论就是反美反西方国家的理论，最后却成为全球化理论的支点。<br>这世界真的非常荒唐。
+
+### 128: [2022-05-06 02:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1522283548119609344)
+
+Re @billybes_rex @QQzk_prs 视频都在，你没看见？<br>相信除了西媒之外，其余有关乌克兰的消息，你都 认为是抹黑。有出处你也看不见。
+
+### 129: [2022-05-06 02:36:54+08:00 推文](https://twitter.com/HeQinglian/status/1522284216523890691)
+
+Re @Zhanglihualois 防谁？其实树栅栏的人心里知道。因为美国会哭闹的孩子是谁，是谁能让南希们下跪，大家知道。
+
+### 130: [2022-05-06 02:41:06+08:00 推文](https://twitter.com/HeQinglian/status/1522285274197372929)
+
+Re @Rasmussen_Poll @POTUS @MattPalumbo12 美国人当真香臭不分。拜登这么作，通胀40年未有之高，未成年人要被学校引导变性，价值观换成了LGBTQI，支持率还有这么高。<br>当然，可能 是民调作品。
+
+### 131: [2022-05-06 02:45:59+08:00 推文](https://twitter.com/HeQinglian/status/1522286504122400769)
+
+终于明白，美中两个大国都有自己的首要关切。<br>美国拜登是中期选举，所以乌俄之战必须打到12月（布林肯宣布）；习近平是连任问题，清零务必坚持到连任成功之后。<br>两国都在忙自家的选举——只是选举形式不同。美国民主党要收割选票，习近平得管控社会，只有清零能达成无死角。<br><br>石扉客: 强烈建议关心中国疫情走向的人，都抓紧仔细收看下今晚新闻联播，未来走向一目了然。<br> <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&amp;share_to=wechat&amp;item_id=9363371638135341844&amp;track_id=8A9B7ED1-BF0A-431A-AAB4-30B08F3787EC_673442467797" target="_blank" rel="noopener noreferrer">https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&amp;share_to=wechat&amp;item_id=9363371638135341844&amp;track_id=8A9B7ED1-BF0A-431A-AAB4-30B08F3787EC_673442467797</a> <a href="https://twitter.com/shifeike/status/1522180121754439681" target="_blank" rel="noopener noreferrer">https://twitter.com/shifeike/status/1522180121754439681</a>
+
+### 132: [2022-05-06 03:12:06+08:00 推文](https://twitter.com/HeQinglian/status/1522293073698508800)
+
+转苏晓康:普金这个独裁者，同时也是一个反同志、捍卫家庭价值、强调男子气概的家父长典范，甚至是复兴基督教信仰的全球右翼领袖，所以俄乌战争的背后铺垫着另一场方兴未艾的文化战争、价值嬗变；而西方进步主义……直接危及人类物种的首选：繁衍后代。这世界真是左右为难。 <a href="https://ipkmedia.com/138094/" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/138094/</a>
+
+### 133: [2022-05-06 03:15:57+08:00 推文](https://twitter.com/HeQinglian/status/1522294045468512256)
+
+Re @SallyMayweather 🤣🤣🤣
+
+### 134: [2022-05-06 03:37:26+08:00 推文](https://twitter.com/HeQinglian/status/1522299449753718785)
+
+Re @Tifas1999 我要求不高，能够阻止美拜登政府向外推广（布林肯原话是希望各国政府配合美国推广）LGBTQI这种人权价值观就行 ，留给美国与欧盟自家享受。<br>其他的国家，愿意接受有偿推广，那也没办法。<br>至少，世界上愿意当作国策推广的国家现在不超过50个。
+
+### 135: [2022-05-06 03:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1522300622967656452)
+
+Re @WildermohnE 世界同声指责：这是中国清零惹的祸。<br>北京暗中得意：不通过清零躺平，怎能显中国重要？
+
+### 136: [2022-05-06 03:46:20+08:00 推文](https://twitter.com/HeQinglian/status/1522301689105207297)
+
+Re @Amyverdun 他当然不是清教徒，但比你家拜登要好不知多少倍。这你得承认。<br>至少他子女不吸毒、娈童、群交。他家没乱伦。他有情人，但不象拜登那样经常当众表演不雅行为。
 

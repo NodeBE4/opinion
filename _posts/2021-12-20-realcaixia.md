@@ -93,7 +93,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 20: [2021-12-25 10:51:09+08:00 推文](https://twitter.com/realcaixia/status/1474573401775816710)
 
-感謝謝阳律师。<br><img style="" src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
+感謝謝阳律师。<br><img style src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-25 20:27:29+08:00 推文](https://twitter.com/realcaixia/status/1474718440720150528)
 
