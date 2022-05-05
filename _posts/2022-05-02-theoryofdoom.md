@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-05-04
+date: 2022-05-05
 from: https://old.reddit.com/r/LockdownSkepticism/comments/ug70s4/bill_gates_warns_weve_not_seen_the_worst_of_covid/
 layout: post
 tags:
@@ -166,4 +166,10 @@ That discussion has nothing to do with this subreddit.
 Submission Statement:
 
 This Human Rights Watch report details egregious human rights abuses in the Central African Republic by one of Russia's private military contractors, the Wagner Group.  Investigation is ongoing and the full scope of Wagner's conduct in the CAR is not presently ascertained.  However, this report overviews certain aspects of Wagner's activity and violations, including extrajudicial executions, torture and other war crimes.  Though not detailed in the article, gold, diamond and uranium mining interests are a key reason for Wagner's presence there.
+
+### 257: [I’m getting my laptop back from the police and my usbs](https://old.reddit.com/r/hacking/comments/uibiwi/im_getting_my_laptop_back_from_the_police_and_my/), submitted on 2022-05-05 01:13:51+08:00.
+
+----- __257.1__ -----2022-05-05 18:37:03+08:00:
+
+Yes, a member of the Royal Family should do.
 
