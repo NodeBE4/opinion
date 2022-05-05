@@ -354,15 +354,35 @@ Without being too glib about it, who gives a damn? Appian suggests that nobody a
 
 Toast sandwiches aren't a normal thing to eat in Britain though. They were devised in the 1860s as something digestible for invalids – i.e. hospital patients – and brought to public attention in 2011 as a semi-joke during the recession.
 
-### 394: [Amane "not a lesbian" Kanata](https://old.reddit.com/r/Hololive/comments/ufthij/amane_not_a_lesbian_kanata/), submitted on 2022-05-01 14:09:07+08:00.
+### 394: [Unclarity about Terminology: The term "Viking" is a modern word](https://old.reddit.com/r/badhistory/comments/ufcvnh/unclarity_about_terminology_the_term_viking_is_a/), submitted on 2022-04-30 23:02:29+08:00.
 
------ __394.1__ -----2022-05-02 08:42:29+08:00:
+----- __394.1__ -----2022-05-05 17:15:57+08:00:
+
+So, there are two kinds of 'wick's – those derived from Latin *vicus* and/or Old English *wīc*, which simply means 'dwelling' or sometimes 'market' in the OE case; and those that are cognate with Old Norse *vik* and mean 'bay'. Alnwick and Warwick belong to the former, while Keswick and Berwick belong to the latter. However, as far as I know the latter *only* includes 'wick', whereas the former can also be 'wich', so Sandwich, Ipswich, Norwich, and Woolwich get their 'wich'es via Latin/Old English for 'dwelling' rather than Old Norse for 'bay'.
+
+### 395: [Amane "not a lesbian" Kanata](https://old.reddit.com/r/Hololive/comments/ufthij/amane_not_a_lesbian_kanata/), submitted on 2022-05-01 14:09:07+08:00.
+
+----- __395.1__ -----2022-05-02 08:42:29+08:00:
 
 > But she lives in Germany
 
 *Austria. Tragically, the Holy Roman Empire is now long gone, and the definition of 'Germany' has contracted considerably to exclude the land of schnitzel and Sachertorte.
 
------ __394.2__ -----2022-05-02 12:40:55+08:00:
+----- __395.2__ -----2022-05-02 12:40:55+08:00:
 
 It’s not for us to speculate of course, but she mentions it often enough that it’s hardly a secret.
+
+### 396: [[Hobby Scuffles] Week of May 2, 2022](https://old.reddit.com/r/HobbyDrama/comments/ug1oq8/hobby_scuffles_week_of_may_2_2022/), submitted on 2022-05-01 23:00:16+08:00.
+
+----- __396.1__ -----2022-05-05 17:20:22+08:00:
+
+I mean, it's also causing damage to the dress, adding wear that will mean it's been pushed that much closer to the point where it ceases to exist as a physical object.
+
+----- __396.2__ -----2022-05-05 17:22:00+08:00:
+
+I'm not saying historical minis are better, but they are. There's no being tied to a specific game system, there's easy real-world inspiration at your fingertips, it's great.
+
+----- __396.3__ -----2022-05-05 17:27:42+08:00:
+
+You will be painting the *Grande Armee* day in, day out, young man, and you are going to *like* it! Or else.
 

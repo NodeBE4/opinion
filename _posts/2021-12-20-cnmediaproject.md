@@ -25,7 +25,7 @@ Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the #
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
-Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style="" src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-20 13:19:50+08:00 推文](https://twitter.com/xinwenfan/status/1472798876956434437)
 
@@ -33,15 +33,15 @@ RT FAN Wenxin<br>What to make of Peng Shuai's sexual assault denial? The phras
 
 ### 5: [2021-12-20 15:01:00+08:00 推文](https://twitter.com/cnmediaproject/status/1472824336403021827)
 
-Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-20 16:12:13+08:00 推文](https://twitter.com/yangfulei/status/1472842260513447938)
 
-RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
+RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propaganda language.<br><br>China Media Project: Updated content restrictions for short video platforms released last week add a few familiar new political priorities to the 2019 list -- including respect for the CCP's new resolution on history and Xi Jinping's claim on the soul of 21st century Marxism.<br><br><img style="" src="https://pbs.twimg.com/media/FHCF6rdaAAAVn0q?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-short-take-on-chinas-short-video-rules/</a>
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
-RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style="" src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-20 21:54:29+08:00 推文](https://twitter.com/muyixiao/status/1472928395621187592)
 
@@ -49,7 +49,7 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
@@ -73,7 +73,7 @@ RT Adrienne Carter<br>My heart is broken by the loss of @CRTejada. He was an a
 
 ### 15: [2021-12-21 15:41:45+08:00 推文](https://twitter.com/GeringTuvia/status/1473196979463229441)
 
-RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style="" src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-21 23:50:00+08:00 推文](https://twitter.com/BonnieGlaser/status/1473319853687779331)
 
