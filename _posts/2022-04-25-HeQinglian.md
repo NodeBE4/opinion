@@ -261,7 +261,7 @@ Re @Wu_Zhi 全球左派脑控狂喜大普奔，美国终于正式成立1984的�
 
 ### 62: [2022-04-28 05:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1519425475764006913)
 
-EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？<br><br>He Qinglian: 这是最新的彭博社消息，除了标题说的刚参加用 卢布付款的EU成员国之外，总共有10家已经开设了卢布帐户。欧盟成员国一共27个。全员参与恐怕不会，因为波兰一定不能参加，就算通过邻国代购，也不能用卢布付款，让俄罗斯得意。<br> <a href="https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia</a>
+EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？ <a href="https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684</a>
 
 ### 63: [2022-04-28 05:19:55+08:00 推文](https://twitter.com/HeQinglian/status/1519426137671278593)
 
@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。 <a href="https://twitter.com/kingbull199/status/1519672901183500288" target="_blank" rel="noopener noreferrer">https://twitter.com/kingbull199/status/1519672901183500288</a>
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
@@ -441,7 +441,7 @@ Re @Swanlake1979 连一个经济会议都无法将俄罗斯踢出去，离拿俄
 
 ### 107: [2022-04-30 03:49:08+08:00 推文](https://twitter.com/HeQinglian/status/1520128066231668736)
 
-美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。 <a href="https://europechinese.blogspot.com/2022/04/gdp02-6.html" target="_blank" rel="noopener noreferrer">https://europechinese.blogspot.com/2022/04/gdp02-6.html</a>
+美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。<br><br>He Qinglian: 据美国CNBC28日报道，美国商务部28日报告称，美国2022年一季度GDP年化增速为-1.4%，这标志着美国经济自1984年以来的上升趋势突然出现逆转。分析称，2022年前三个月，有众多因素影响美国经济增长，包括不断激增的奥密克戎新冠病毒病例，通胀率飙升至1980年代初以来的最高水平，俄乌冲突等等。<br>
 
 ### 108: [2022-04-30 03:49:57+08:00 推文](https://twitter.com/HeQinglian/status/1520128273182859266)
 
@@ -517,7 +517,7 @@ Re @Lucs24659702 拜登美国价值观的体现，正准备推向全世界。
 
 ### 126: [2022-05-01 20:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1520747918399094784)
 
-Re 拜登美国价值观的体现，正准备推向全世界。 <a href="https://twitter.com/Lucs24659702/status/1520615972125560832" target="_blank" rel="noopener noreferrer">https://twitter.com/Lucs24659702/status/1520615972125560832</a>
+Re 拜登美国价值观的体现，正准备推向全世界。<br><br>Lucs: 宾州一所学校的老师为学生举办了一个变装秀，作为LGBT俱乐部的活动一部分。据报告他们没有通知学生父母，Hempfield学区今早确认老师在休假中。<br>该视频是变装活动的一部分。<br><br><video src="https://video.twimg.com/ext_tw_video/1520615927766667265/pu/vid/720x1264/s5cbGltHLiEDHIfy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520615927766667265/pu/img/TdCjSRU-zJNzFP8q.jpg"></video>
 
 ### 127: [2022-05-01 20:54:52+08:00 推文](https://twitter.com/HeQinglian/status/1520748589139517440)
 
