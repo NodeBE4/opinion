@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-05-03
+date: 2022-05-05
 from: https://twitter.com/SpeechFreedomCN/status/1520974610992222210
 layout: post
 tags:
@@ -38,4 +38,16 @@ All Chinese media outlets are reporting a case where a man surnamed Ma in Hangzh
 ### 6: [2022-05-03 21:16:27+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1521478794980347904)
 
 Re A lot of people are still assuming him to be Jack Ma, because Jack Ma matched the little descriptive info and the case got full attention of the media industry, which suggested the person was high profile. However, according to later updates, that guy definitely is not Jack Ma.
+
+### 7: [2022-05-05 22:18:13+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1522219118371377155)
+
+Re 媒体人罗昌平，即本系列推上面提到的微博大V，今日被判刑7个月，罪行为在微博上称中国志愿军为“沙雕连”。<br><img style="" src="https://pbs.twimg.com/media/FSAB7X0UUAANfo0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-05-05 22:19:53+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1522219534819594243)
+
+Re Journalist Lou Changping, who referred to Chinese army as Stupid Army on Weibo and therefore arrested last year, sentenced to 7 months in jail today.<br><img style="" src="https://pbs.twimg.com/media/FSACkj7VsAc8nPI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-05-05 22:29:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1522221874020765696)
+
+Re Correction: his surname is Luo, not Lou. The auto-correction function made this mistake twice in this thread.
 
