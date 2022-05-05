@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-05
+date: 2022-05-06
 from: https://twitter.com/HeQinglian/status/1520817679053070337
 layout: post
 tags:
@@ -498,4 +498,24 @@ Re @tengbiao 我从共产党国家出来，最恨的就是中共控制言论、�
 ### 121: [2022-05-05 23:45:03+08:00 推文](https://twitter.com/HeQinglian/status/1522240970644934661)
 
 Re @zhangchaoyi @tengbiao 你没看过时代周刊的窃选长文？没看过各州的调查？<br>操控选举者说了：民主不是自然发生的，因此采取各种干预，极大地扭曲了民主程序。<br>如果你不承认这点，你请自便。<br>你是不是LGBTQI，我不感兴趣。我反对国家立法与教育全方位干预自然性别，以及人的自然性倾向。
+
+### 122: [2022-05-05 23:48:02+08:00 推文](https://twitter.com/HeQinglian/status/1522241719949041666)
+
+Re @tengbiao 补充：我最恨的还有共产党改变自然、战天斗地的愚蠢与蛮横，还有鼓动群众检举揭发政治反动言论。<br>民主党这样做（改变自然性别），BLM运动中鼓励检举，为何中共的反贼均能接受？<br>是不是只因自己不在那个圈内？
+
+### 123: [2022-05-06 01:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1522267486212833282)
+
+Re @tengbiao 《时代》周刊是左媒，它在2021年2月登的文章，难道你没读过？<br>在选举之前，Axios登的78天政变计划你没看？<br>这都是左媒，与民主党的关系非常亲近，你在十英里之外，人家在三英尺之内。<br>压制投票权，无非就是要验证身份。为什么要取消验证身份？不就是为了收割选票？
+
+### 124: [2022-05-06 01:30:38+08:00 推文](https://twitter.com/NAConservative9/status/1522267541359505409)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《北美保守评论》昨晚美东8点的视频片段：让虚假宣传者任职“真理部”是不是相当于让狐狸守鸡窝？”<br><br>2020年爆出亨特笔记本电脑门，她正是喋喋不休地称 “这是俄罗斯虚假信息”，目的是影响美国的选举，积极主张压制对于此事的报道⋯<br><br>完整： <a href="https://youtu.be/gXbNeBGTpg8" target="_blank" rel="noopener noreferrer">https://youtu.be/gXbNeBGTpg8</a><br><video src="https://video.twimg.com/ext_tw_video/1522267096008302592/pu/vid/1280x720/zAmTorU4VfpmS5Ax.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522267096008302592/pu/img/wTXY6Ru0k5gWA6sA.jpg"></video>
+
+### 125: [2022-05-06 01:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1522269910336000000)
+
+现在的世界非常奇幻。<br>共产主义运动1.0版出现之时，只有左派拥护；<br>目前西方在推行共产主义2.0版时，马克思主义的三大变种同时出现在国际舞台上。美欧的大重置（拜登美国是先行）、中国的原教旨马克思主义与资本主义联姻的变种、拉美政治圈的新马反殖理论与非洲的马克思反殖理论。<br><br>老農LaoNong: @tengbiao 八九民運因紀念胡耀邦而起，胡何許人也？共產黨的大頭子。但他解放了數以億計的地富反壞右及其家屬，推進民主法治。冷戰緣何結束？蘇聯緣何解體？蓋因蘇共頭子戈爾巴喬夫等終結了蘇共。您之所以糊塗，是因為您竭力詆毀的這些人不僅反對老魔鬼，還反對要從根上摧毀人類的新魔鬼。您缺乏分析問題的能力。<br>
+
+### 126: [2022-05-06 01:48:10+08:00 推文](https://twitter.com/HeQinglian/status/1522271953071263745)
+
+Re @pandatress1 拉美的反殖就是反美。更好笑的是：左派经济学大家阿明的中心-边缘论成为全球化理论的支点。<br>这世界真的非常荒唐。
 
