@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-05-02 11:32:37+08:00 推文](https://twitter.com/puzhiqiang/status/1520969483350814720)
 
-RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。
+RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。<br><br>新闻调查: 赵战狼收敛言辞，话风急转，修补中美关系。请求在座记者多做促进中美人民友谊的事情<br><br><video src="https://video.twimg.com/ext_tw_video/1520617504942731265/pu/vid/848x560/crGzKU-GxPLUtpVa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520617504942731265/pu/img/7A1kdP3cG2dds8V9.jpg"></video>
 
 ### 2: [2022-05-02 21:31:13+08:00 推文](https://twitter.com/RuanVictoria/status/1521120126862508032)
 
@@ -74,4 +74,12 @@ RT Oriana Skylar Mastro<br>Ahead of the 20th Party Congress, local leaders are
 ### 15: [2022-05-05 16:55:01+08:00 推文](https://twitter.com/cnmediaproject/status/1522137780738207745)
 
 Mystery Kills: Alibaba stock was driven down last week by online speculation stemming from a mysterious state media report. It's time, some said, to reform to the system of state driven news releases, which encourages a culture of error and secrecy. <a href="https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/</a><br><img style="" src="https://pbs.twimg.com/media/FR-4IxwaQAA_LvP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-05-05 21:12:57+08:00 推文](https://twitter.com/cnmediaproject/status/1522202692793540608)
+
+Alibaba stock was driven down sharply last week by furious online speculation stemming from a mysterious state media report. Time to reform the national system of Party-state driven news releases and its culture of error and secrecy. <a href="https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/</a><br><img style="" src="https://pbs.twimg.com/media/FR_zOuRaIAo8lQc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-05-05 21:18:26+08:00 推文](https://twitter.com/cnmediaproject/status/1522204073172570112)
+
+As Xi Jinping has signaled that he will permit no compromise on China's "dynamic zero" covid policy, despite the dramatic failures evident in the city of Shanghai, an old revolutionary phrase has come to signal his resolve. 坚持就是胜利 <a href="https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/</a><br><img style="" src="https://pbs.twimg.com/media/FR_0h_laMAITcTT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
