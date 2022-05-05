@@ -45,5 +45,5 @@ Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了�
 
 ### 8: [2022-01-21 19:01:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484481171601997831)
 
-Re Update: The punishment has been withdrawn by the police on Jan 19.<br><img style="" src="https://pbs.twimg.com/media/FJnvVxqWYAAZ9EC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Update: The punishment has been withdrawn by the police on Jan 19.<br><img style="" src="https://pbs.twimg.com/media/FJnvVxqWYAAZ9EC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
