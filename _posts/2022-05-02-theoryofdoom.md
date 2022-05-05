@@ -173,3 +173,21 @@ This Human Rights Watch report details egregious human rights abuses in the Cent
 
 Yes, a member of the Royal Family should do.
 
+----- __257.2__ -----2022-05-05 19:04:02+08:00:
+
+>  It’s called chain of custody.
+
+So, I guess I have to state the obvious, here. 
+
+Forensic data analysis has nothing to do with installing spyware, malware, keyloggers, etc. after a disc was imaged for evidentiary purposes, which is the case here (because OP's laptop is being *returned* after two months, following seizure by British authorities).  Frequently, when authorities seize electronics, the goal isn't even to collect, so much as it is to [install some difficult to detect method of monitoring everything that happens on that device moving forward](https://www.zdnet.com/article/when-authorities-confiscate-your-electronics-the-fate-of-david-mirandas-computer-and-phone/).  Your claim that "only in high profile cases" would they install "additional spyware" is wrong.  Legal requirements for that kind of search/seizure are different from country to country, but getting authorization to do so in the United Kingdom is very easy for authorities.  
+
+Chain of custody issues matter for evidentiary purposes in legal proceedings.  For example, if something was found that was itself or evidence of criminality, duplicate forensic disc images would be created to analyze the content, eventually prove up what was on there or any other related purpose.  But, again, that has absolutely nothing to do with what *might have been done* after the disc was imaged and the authorities in question decided to return a seized laptop to the OP.  The disc image, timestamped after the device was seized, is what they needed.  After the disc was imaged, anything is possible.  It's easy, fast, routine and should be expected.
+
+### 258: [What’s the most time you’ve spent on a problem that had a typo in it?](https://old.reddit.com/r/math/comments/uieoq8/whats_the_most_time_youve_spent_on_a_problem_that/), submitted on 2022-05-05 03:38:22+08:00.
+
+----- __258.1__ -----2022-05-05 19:09:21+08:00:
+
+> You likely learned a lot of stuff you wouldn't have otherwise learned by struggling with the problem.
+
+Like how sloppy textbook editors can be?  Haha, kidding of course.  And I agree with you.
+
