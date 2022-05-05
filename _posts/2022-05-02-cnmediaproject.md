@@ -61,7 +61,7 @@ RT Kenneth Roth<br>Because of Beijing's "national security" law, "Hong Kong, o
 
 ### 12: [2022-05-04 17:23:00+08:00 推文](https://twitter.com/Tominmedill/status/1521782435452706816)
 
-RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").
+RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").<br><br>Edward Lawrence: As already mentioned, four days ago we were meant to be released and allowed into our sub-district due to not having any cases for weeks, but compound management won't allow it - and the final decision is theirs. Guess they don't want to risk any consequences if it goes wrong...<br>
 
 ### 13: [2022-05-05 04:02:14+08:00 推文](https://twitter.com/osmastro/status/1521943301586313219)
 
@@ -82,4 +82,12 @@ Alibaba stock was driven down sharply last week by furious online speculation st
 ### 17: [2022-05-05 21:18:26+08:00 推文](https://twitter.com/cnmediaproject/status/1522204073172570112)
 
 As Xi Jinping has signaled that he will permit no compromise on China's "dynamic zero" covid policy, despite the dramatic failures evident in the city of Shanghai, an old revolutionary phrase has come to signal his resolve. 坚持就是胜利 <a href="https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/mystery-gets-people-killed/</a><br><img style="" src="https://pbs.twimg.com/media/FR_0h_laMAITcTT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-05-05 22:04:10+08:00 推文](https://twitter.com/cnmediaproject/status/1522215579683532800)
+
+Re @niubi @VOAYUWEN Persistence is victory! <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a>
+
+### 19: [2022-05-05 22:21:14+08:00 推文](https://twitter.com/cnmediaproject/status/1522219877138075649)
+
+The readout from the Politburo Standing Committee meeting on covid policy noted: 会议指出，坚持就是胜利. "Persistence is victory." More on this now hot phrase  in CMP's latest. <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a><br><img style="" src="https://pbs.twimg.com/media/FSAC5B0aAAE3s0v?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
