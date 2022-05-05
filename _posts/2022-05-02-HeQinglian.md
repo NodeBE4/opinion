@@ -399,3 +399,55 @@ Re @princeton_walk @JianglinLi @franktianxie @rosabel92595291 政治正确基因
 
 Re @mayuki753 @fading_you1 你是对的，他说是就是F-15. <a href="https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6" target="_blank" rel="noopener noreferrer">https://www.businessinsider.com/biden-mocks-gun-right-advocates-who-say-assault-weapons-needed-fight-government-2021-6</a>
 
+### 97: [2022-05-05 08:43:10+08:00 推文](https://twitter.com/HeQinglian/status/1522014003836469251)
+
+Re @Wu_Zhi @JianglinLi 脚上的泡都是自己走出来的。就算有人推着，那脚下的步子还是自己走的。
+
+### 98: [2022-05-05 08:45:17+08:00 推文](https://twitter.com/HeQinglian/status/1522014535321804803)
+
+Re @Catheri69611796 只因是俄罗斯人。连普希金、陀斯妥也夫斯基、柴可夫斯基这些历史文化名人也被“取消”了。
+
+### 99: [2022-05-05 08:53:23+08:00 推文](https://twitter.com/HeQinglian/status/1522016571614507009)
+
+Re @Sumerian0 英国国王亨利八世是促使英国进行宗教改革，脱离罗马教廷的伟大君主，在位时间长达38年，经历了六次婚姻，多位王妃死在了他的手上，绰号为杀妻狂魔。<br>能据此论主下英国文明是野蛮血腥的吗？
+
+### 100: [2022-05-05 09:00:20+08:00 推文](https://twitter.com/HeQinglian/status/1522018322010755084)
+
+Re @Sumerian0 纠正：能据论证英国文明是野蛮血腥的吗？
+
+### 101: [2022-05-05 09:13:50+08:00 推文](https://twitter.com/HeQinglian/status/1522021718138707968)
+
+Re @Sumerian0 原来是八个与六个的区别。
+
+### 102: [2022-05-05 09:16:29+08:00 推文](https://twitter.com/HeQinglian/status/1522022384944959490)
+
+Re @JiangShangrong 这位将军是雇佣军还是战俘？恐怕对他与他的国都是个政治考量。<br>从道理上推测，将军大概不至于主动当雇佣军，如果是，一定是有力量让他当的。
+
+### 103: [2022-05-05 09:27:51+08:00 推文](https://twitter.com/HeQinglian/status/1522025247272226816)
+
+为什么欧盟石油禁运会让俄罗斯疼痛 <br>评：欧盟赶紧禁运，让俄罗斯痛吧。不必要这么仁慈，担心俄罗斯痛——且慢，好象是欧盟怕自己痛吧？ <a href="https://rfi.my/8OFL.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8OFL.T</a>
+
+### 104: [2022-05-05 09:30:51+08:00 推文](https://twitter.com/HeQinglian/status/1522026000380575744)
+
+Re @Sumerian0 下次人家翻出北齐高洋来论证中华民族——或者被某些人自称为支那人的野蛮血腥无人道，不要哭鼻子——不要说，高洋并非纯正中华民族的一员。
+
+### 105: [2022-05-05 09:32:25+08:00 推文](https://twitter.com/HeQinglian/status/1522026397505572872)
+
+Re @Rainding45 @RFI_Cn 你痛、我痛，美国平民痛，关拜登甚事？
+
+### 106: [2022-05-05 09:34:52+08:00 推文](https://twitter.com/HeQinglian/status/1522027015280463872)
+
+Re @zues_seuz @KELMAND1 很能代表拜登领导下的美军风范，应该让他/她/祂组织一个军事代表团去慰问乌克兰总统。
+
+### 107: [2022-05-05 09:40:47+08:00 推文](https://twitter.com/HeQinglian/status/1522028502765162496)
+
+Re @Hp5jU1 你居然忘记这单事：拜登政府正忙着要求世界各国政府接受美国的新人权价值-LGBTQI /CRT.<br>我就希望拜登这人权就在美国与欧盟推行，其他地方就要第一、二、三代人权（政治权利、经济权利与妇女儿童正当权益，不包括第四代女权与儿童自主变性权）。<br>民主党人尽快将这权利落实到自己头上，变性，赶紧。
+
+### 108: [2022-05-05 09:46:32+08:00 推文](https://twitter.com/HeQinglian/status/1522029951062581249)
+
+Re @QQzk_prs 糟了，德国国会大厦与总统府要多派几个清洁工，专门清理乌克兰驻德大使及其同志的遗污了。<br>不过，请几个清洁工的付费，加总可能就一辆坦克还不到。😂
+
+### 109: [2022-05-05 09:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1522030291585486848)
+
+Re @Sumerian0 那人家也不在乎，人家也学习你，宣称他没有伊凡雷帝的血统。
+
