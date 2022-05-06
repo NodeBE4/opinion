@@ -61,7 +61,7 @@ RT Kenneth Roth<br>Because of Beijing's "national security" law, "Hong Kong, o
 
 ### 12: [2022-05-04 17:23:00+08:00 推文](https://twitter.com/Tominmedill/status/1521782435452706816)
 
-RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").
+RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").<br><br>Edward Lawrence: As already mentioned, four days ago we were meant to be released and allowed into our sub-district due to not having any cases for weeks, but compound management won't allow it - and the final decision is theirs. Guess they don't want to risk any consequences if it goes wrong...<br>
 
 ### 13: [2022-05-05 04:02:14+08:00 推文](https://twitter.com/osmastro/status/1521943301586313219)
 
@@ -143,11 +143,19 @@ RT Erica Stein<br>[Insert “I’m ready to get hurt again.” Michael Scott m
 
 For those who missed it: The 2021 China Online Media Development Report, released last week, offers an interesting glimpse into thinking on both the transformation of Party-led media and the operationalizing of private online platforms in the digital era. <a href="https://bit.ly/3vPyKdV" target="_blank" rel="noopener noreferrer">https://bit.ly/3vPyKdV</a><br><img style="" src="https://pbs.twimg.com/media/FSC8eTcaIAA5kIo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 33: [2022-05-06 13:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1522448824870096900)
+### 33: [2022-05-06 11:54:00+08:00 推文](https://twitter.com/aliceysu/status/1522424415547699200)
+
+RT Alice Su<br>Re Searches for "移民" increased more than 4x in early April on WeChat. At the same time it is getting harder to get travel documents. Officials in one Hunan city are confiscating passports from citizens. "We'll return them after the pandemic is over," they told us when we called.
+
+### 34: [2022-05-06 13:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1522448824870096900)
 
 RT Jonathan Cheng<br>“Persistence is victory! Only by persisting can there be victory! Persistence will definitely bring victory!”<br>@cnmediaproject <a href="https://bit.ly/3vNN8mR" target="_blank" rel="noopener noreferrer">https://bit.ly/3vNN8mR</a>
 
-### 34: [2022-05-06 17:30:29+08:00 推文](https://twitter.com/LiYuan6/status/1522509093314785280)
+### 35: [2022-05-06 17:30:29+08:00 推文](https://twitter.com/LiYuan6/status/1522509093314785280)
 
 RT Li Yuan<br>What many Shanghai residents are experiencing doesn’t compare to the violence and cruelty that Uyghurs and Kazakhs have endured in Xinjiang. But they’re all victims of senseless political campaigns that are driven by paranoia and authoritarian excess. <a href="https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DIDm4ciO4IGImG9lzWIrFjbt083z2aAc9ANr0uTfp9i-RfPkpkDgKvvJqI3YYIOSJzqZ62Wil--aPxao0C0G2gaHileqA4zaejvhmCPX_qXazehiUkJRJhoMcxaV3-3nMXla2UF_py3YUqj_1yB8p4RDoQdWLd6amTfhZ0P92GaxDb4xBnGL0KHGGOwqPPru4IYw5QClnZTX9g4Gla6dNUO9IfPa2XPAd3MYOlwu1XUjo0Wd_vU54hRIHUlKFotqrPrXGOwMm2zvY0F8ZErak94XVgzpCGl-94iCA6mJU&amp;smid=tw-share" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/05/06/business/shanghai-xinjiang-china-covid-zero.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuomT1JKd6J17Vw1cRCfTTMQmqxCdw_PIxftm3iWka3DIDm4ciO4IGImG9lzWIrFjbt083z2aAc9ANr0uTfp9i-RfPkpkDgKvvJqI3YYIOSJzqZ62Wil--aPxao0C0G2gaHileqA4zaejvhmCPX_qXazehiUkJRJhoMcxaV3-3nMXla2UF_py3YUqj_1yB8p4RDoQdWLd6amTfhZ0P92GaxDb4xBnGL0KHGGOwqPPru4IYw5QClnZTX9g4Gla6dNUO9IfPa2XPAd3MYOlwu1XUjo0Wd_vU54hRIHUlKFotqrPrXGOwMm2zvY0F8ZErak94XVgzpCGl-94iCA6mJU&amp;smid=tw-share</a>
+
+### 36: [2022-05-06 19:30:00+08:00 推文](https://twitter.com/GreatFireChina/status/1522539172656992256)
+
+RT GreatFire.org<br>“Social media censorship in China still relies a lot on human labor. It’s entirely possible that not all censors were motivated to keep up with their job at full speed.” - @Yangguobin <a href="https://www.wired.co.uk/article/shanghai-lockdown-china-censorship" target="_blank" rel="noopener noreferrer">https://www.wired.co.uk/article/shanghai-lockdown-china-censorship</a>
 
