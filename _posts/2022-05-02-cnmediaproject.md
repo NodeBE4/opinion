@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-05
+date: 2022-05-06
 from: https://twitter.com/puzhiqiang/status/1520969483350814720
 layout: post
 tags:
@@ -41,7 +41,7 @@ RT Eric Wishart<br>The HRPA, which have recognised human rights reporting arou
 
 ### 7: [2022-05-03 12:58:48+08:00 推文](https://twitter.com/paulmozur/status/1521353559002193920)
 
-RT Paul Mozur 孟建國<br>Speculation now that the man surnamed Ma charged in Hangzhou, who people thought was Jack Ma, could be 编程随想 or @programthink , a well-known blogger/hacker who wrote on Great Firewall workarounds. He disappeared last year after ID leaked, surname Ma:<br><br>周锋锁 Fengsuo Zhou: Legendary blogger and programmer @programthink was allegedly detained by China’s secret police. Latest post was on May 9. 2 months of silence is much longer than his standard of two weeks. <br>He has successfully escaped CCP’s surveillance for 12 yrs while staying in China.<br><br><img style="" src="https://pbs.twimg.com/media/E32UwGyWUAg2vsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/E32UwJKWQAEwITo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/E32UwKkXoAAWh29?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/E32UwLZXoAUPDM0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Paul Mozur 孟建國<br>Speculation now that the man surnamed Ma charged in Hangzhou, who people thought was Jack Ma, could be 编程随想 or @programthink , a well-known blogger/hacker who wrote on Great Firewall workarounds. He disappeared last year after ID leaked, surname Ma: <a href="https://mp.weixin.qq.com/s/aoVwR5vfr0LQjOsXcVBnNw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/aoVwR5vfr0LQjOsXcVBnNw</a>
 
 ### 8: [2022-05-03 18:32:05+08:00 推文](https://twitter.com/MatthiaSander/status/1521437434222837760)
 
@@ -49,7 +49,7 @@ RT Matthias Sander<br>On today's World Press Freedom Day, I would like to shar
 
 ### 9: [2022-05-03 19:59:54+08:00 推文](https://twitter.com/xinwenxiaojie/status/1521459533255786496)
 
-RT Yuen Chan<br>I wrote this piece before the latest @RSF_AsiaPacific report ranked Hong Kong 148th in the World Press Freedom Index. Things are dire.<br>But there are journalists still doing what they can every day. This World Press Freedom Day, I salute them!<br><br>Hong Kong Free Press HKFP: Press Freedom Day: As long as there are journalists in Hong Kong, there will be journalism<br><br><img style="" src="https://pbs.twimg.com/media/FRzGN7-X0Ac-TzF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://hongkongfp.com/2022/05/03/press-freedom-day-as-long-as-there-are-journalists-in-hong-kong-there-will-be-journalism" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/05/03/press-freedom-day-as-long-as-there-are-journalists-in-hong-kong-there-will-be-journalism</a>
+RT Yuen Chan<br>I wrote this piece before the latest @RSF_AsiaPacific report ranked Hong Kong 148th in the World Press Freedom Index. Things are dire.<br>But there are journalists still doing what they can every day. This World Press Freedom Day, I salute them!
 
 ### 10: [2022-05-03 21:34:14+08:00 推文](https://twitter.com/CarlMinzner/status/1521483273825918980)
 
@@ -90,4 +90,12 @@ Re @niubi @VOAYUWEN Persistence is victory! <a href="https://chinamediaproject
 ### 19: [2022-05-05 22:21:14+08:00 推文](https://twitter.com/cnmediaproject/status/1522219877138075649)
 
 The readout from the Politburo Standing Committee meeting on covid policy noted: 会议指出，坚持就是胜利. "Persistence is victory." More on this now hot phrase  in CMP's latest. <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a><br><img style="" src="https://pbs.twimg.com/media/FSAC5B0aAAE3s0v?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-05-06 09:46:49+08:00 推文](https://twitter.com/cnmediaproject/status/1522392409585635328)
+
+Yesterday's meeting of the Politburo Standing Committee of the CCP was a powerful affirmation of current policies on covid prevention -- despite dramatic recent failings in Shanghai. CMP takes a quick look at the language of the meeting readout. <a href="https://chinamediaproject.org/2022/05/06/doubling-down-on-dynamic-zero/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/06/doubling-down-on-dynamic-zero/</a><br><img style="" src="https://pbs.twimg.com/media/FSCf0qfaIAAiPzc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-05-06 09:48:18+08:00 推文](https://twitter.com/cnmediaproject/status/1522392782824157184)
+
+Re This analysis should be read with our summary yesterday on the phrase "persistence is victory" (坚持就是胜利), now a key focus in propaganda on current covid policies. <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a><br><img style="" src="https://pbs.twimg.com/media/FSCgFz9aMAE4w9C?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
