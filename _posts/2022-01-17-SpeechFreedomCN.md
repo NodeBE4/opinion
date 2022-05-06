@@ -29,7 +29,7 @@ Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田�
 
 ### 4: [2022-01-18 21:08:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483426136684126216)
 
-Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting subversion of state regime in 2017, arrested again recently on the same charge, shortly after he publicly protested against the government amid teacher Li Tiantian being locked up in a mental asylum.<br><img style="" src="https://pbs.twimg.com/media/FJYvXA3XIAMoJVp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYvZEqXwAQHhJX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYv1GcXsAQkDLi?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting subversion of state regime in 2017, arrested again recently on the same charge, shortly after he publicly protested against the government amid teacher Li Tiantian being locked up in a mental asylum.<br><img style src="https://pbs.twimg.com/media/FJYvXA3XIAMoJVp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJYvZEqXwAQHhJX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJYv1GcXsAQkDLi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 20:02:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483771738039197698)
 

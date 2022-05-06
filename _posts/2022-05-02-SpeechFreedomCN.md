@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-05-05
+date: 2022-05-06
 from: https://twitter.com/SpeechFreedomCN/status/1520974610992222210
 layout: post
 tags:
@@ -50,4 +50,12 @@ Re Journalist Lou Changping, who referred to Chinese army as Stupid Army on Weib
 ### 9: [2022-05-05 22:29:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1522221874020765696)
 
 Re Correction: his surname is Luo, not Lou. The auto-correction function made this mistake twice in this thread.
+
+### 10: [2022-05-06 10:51:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1522408559346171904)
+
+上海市闵行区警方上门抓捕一名在微信群组织敲盆抗议的网民，该网民自称还不满18岁，因此属未成年人。<br><video src="https://video.twimg.com/ext_tw_video/1522227475828387842/pu/vid/480x848/8IlMplTpI9rVcV2Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522227475828387842/pu/img/3QZFR_Y_yI3zUBlr.jpg"></video>
+
+### 11: [2022-05-06 10:58:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1522410321100554240)
+
+Police in Shanghai arresting a 17-year-old man who organized a Pot Strike on Internet, claiming that he disrupted public order. Pot Strike is the act that people under covid lockdown without enough food and daily essentials strike pots to protest.<br><video src="https://video.twimg.com/ext_tw_video/1522228231419666432/pu/vid/480x848/t12DVY1YEGlRB8wb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522228231419666432/pu/img/xJQ6DK8rWdSFZrHI.jpg"></video>
 

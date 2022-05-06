@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-05-02 11:32:37+08:00 推文](https://twitter.com/puzhiqiang/status/1520969483350814720)
 
-RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。
+RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。<br><br>新闻调查: 赵战狼收敛言辞，话风急转，修补中美关系。请求在座记者多做促进中美人民友谊的事情<br><br><video src="https://video.twimg.com/ext_tw_video/1520617504942731265/pu/vid/848x560/crGzKU-GxPLUtpVa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520617504942731265/pu/img/7A1kdP3cG2dds8V9.jpg"></video>
 
 ### 2: [2022-05-02 21:31:13+08:00 推文](https://twitter.com/RuanVictoria/status/1521120126862508032)
 
@@ -98,4 +98,40 @@ Yesterday's meeting of the Politburo Standing Committee of the CCP was a powerfu
 ### 21: [2022-05-06 09:48:18+08:00 推文](https://twitter.com/cnmediaproject/status/1522392782824157184)
 
 Re This analysis should be read with our summary yesterday on the phrase "persistence is victory" (坚持就是胜利), now a key focus in propaganda on current covid policies. <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a><br><img style="" src="https://pbs.twimg.com/media/FSCgFz9aMAE4w9C?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-05-06 10:24:01+08:00 推文](https://twitter.com/cnmediaproject/status/1522401771850977282)
+
+Re The page-two commentary 毫不动摇坚持“动态清零”总方针 also important to read along with the PSC meeting readout. <a href="https://bit.ly/3vKZyMf" target="_blank" rel="noopener noreferrer">https://bit.ly/3vKZyMf</a><br><img style="" src="https://pbs.twimg.com/media/FSCoVawakAAfZBs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-05-06 10:30:17+08:00 推文](https://twitter.com/cnmediaproject/status/1522403347684532224)
+
+Re Even the page-3 "Zhong Sheng" foreign affairs commentary, focusing on US inflation, throws in the language of "unwavering persistence in zero covid." Clearly, PSC is circling the wagons on this policy. <a href="https://bit.ly/3ycCuYq" target="_blank" rel="noopener noreferrer">https://bit.ly/3ycCuYq</a><br><img style="" src="https://pbs.twimg.com/media/FSCpoC8akAANekN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-05-06 10:33:49+08:00 推文](https://twitter.com/cnmediaproject/status/1522404234519789570)
+
+Re "Persist" is going to be a very, very popular word in China in May, likely through 2022.<br><img style="" src="https://pbs.twimg.com/media/FSCqj19aMAE0qje?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-05-06 10:37:43+08:00 推文](https://twitter.com/cnmediaproject/status/1522405217324912640)
+
+Re It's even there on page 4 in a piece about the Beijing Winter Olympics.<br><img style="" src="https://pbs.twimg.com/media/FSCrcqCacAIOWUr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-05-06 10:47:25+08:00 推文](https://twitter.com/klustout/status/1522407660380844032)
+
+RT Kristie Lu Stout✌🏽<br>“Unwaveringly persisting in the general policy of ‘dynamic zero.’” <br><br>As #China and world count the cost of #zeroCovid, Beijing is NOT turning its back on the punishing policy.<br><br>Instead, it's hailing “persistence is victory” (坚持就是胜利).<br><br>China Media Project: Yesterday's meeting of the Politburo Standing Committee of the CCP was a powerful affirmation of current policies on covid prevention -- despite dramatic recent failings in Shanghai. CMP takes a quick look at the language of the meeting readout.<br><br><img style="" src="https://pbs.twimg.com/media/FSCf0qfaIAAiPzc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/06/doubling-down-on-dynamic-zero/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/06/doubling-down-on-dynamic-zero/</a>
+
+### 27: [2022-05-06 10:53:02+08:00 推文](https://twitter.com/cnmediaproject/status/1522409071596699648)
+
+Mystery Kills: Careless reporting by state media last week sent Alibaba stock tumbling in HK. Behind this crazy story is a system of state news releases (通稿) that needs addressing to avoid future problems. A reminder of why media freedoms are crucial. <a href="https://bit.ly/3sihKdX" target="_blank" rel="noopener noreferrer">https://bit.ly/3sihKdX</a><br><img style="" src="https://pbs.twimg.com/media/FSCu3_HaQAA--r9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-05-06 11:02:25+08:00 推文](https://twitter.com/cnmediaproject/status/1522411434185203713)
+
+Re One more . . . and we will not PERSIST. Here is the postcard on the PSC meeting from Xinwen Lianbo (新闻联播), the nightly official newscast. Jianchi jianchi everywhere.<br><img style="" src="https://pbs.twimg.com/media/FSCxHxEagAARR5c?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-05-06 11:03:21+08:00 推文](https://twitter.com/estein_/status/1522411668135104512)
+
+RT Erica Stein<br>[Insert “I’m ready to get hurt again.” Michael Scott meme.]<br><br>On page six of The Impossible City and have already cried. 🙃<br><br>Can’t wait to dig into these reads about Hong Kong. Thank you for your storytelling and your work, @karenklcheung and @limlouisa.<br><img style="" src="https://pbs.twimg.com/media/FSCsnNhaAAUpolw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-05-06 11:52:00+08:00 推文](https://twitter.com/cnmediaproject/status/1522423911300087808)
+
+For those who missed it: The 2021 China Online Media Development Report, released last week, offers an interesting glimpse into thinking on both the transformation of Party-led media and the operationalizing of private online platforms in the digital era. <a href="https://bit.ly/3vPyKdV" target="_blank" rel="noopener noreferrer">https://bit.ly/3vPyKdV</a><br><img style="" src="https://pbs.twimg.com/media/FSC8eTcaIAA5kIo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
