@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-06
+date: 2022-05-07
 from: https://twitter.com/HeQinglian/status/1520817679053070337
 layout: post
 tags:
@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -455,291 +455,331 @@ Re @QQzk_prs 糟了，德国国会大厦与总统府要多派几个清洁工，�
 
 Re @Sumerian0 那人家也不在乎，人家也学习你，宣称他没有伊凡雷帝的血统。
 
-### 111: [2022-05-05 22:25:24+08:00 推文](https://twitter.com/HeQinglian/status/1522220925747355648)
+### 111: [2022-05-05 10:12:42+08:00 推文](https://twitter.com/liyuvv/status/1522036533322080256)
+
+RT Putin, A Lone Hero<br>如果说普京和俄国在这次俄乌战争中有什么错的话,那就是：经历共产炼狱后浴火重生的俄国和一直对西方充满期待的普京,对以美国为首的西方邪恶势力估计不足。的确很难设想,当恶人举起正义大旗,多少魔鬼+多少向往正义的天真之人都会发疯一样随着邪恶旗帜起舞,一眼都不看正义旗帜下是什么样的群魔在乱舞。
+
+### 112: [2022-05-05 22:25:24+08:00 推文](https://twitter.com/HeQinglian/status/1522220925747355648)
 
 Re @newqiyu 看法相反：这种智商在推上起码50%。
 
-### 112: [2022-05-05 22:27:06+08:00 推文](https://twitter.com/HeQinglian/status/1522221353205571584)
+### 113: [2022-05-05 22:27:06+08:00 推文](https://twitter.com/HeQinglian/status/1522221353205571584)
 
 Re @Hp5jU1 这应该是常识起作用。拜登民主党都是反常识的。
 
-### 113: [2022-05-05 22:32:09+08:00 推文](https://twitter.com/HeQinglian/status/1522222623303868416)
+### 114: [2022-05-05 22:32:09+08:00 推文](https://twitter.com/HeQinglian/status/1522222623303868416)
 
 Re @9788Abc @RFI_Cn 那能怪谁呢？是怪欧盟痛惜俄罗斯，不想让它痛？还是怪西方口是心非？我看，拜登领导的任何事情最后都可能以闹剧收场。
 
-### 114: [2022-05-05 22:40:55+08:00 推文](https://twitter.com/HeQinglian/status/1522224829407055875)
+### 115: [2022-05-05 22:40:55+08:00 推文](https://twitter.com/HeQinglian/status/1522224829407055875)
 
 Re @Player19890604 @princeton_walk @newqiyu 发现你跟着我，清除。
 
-### 115: [2022-05-05 22:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1522225660705624064)
+### 116: [2022-05-05 22:44:13+08:00 推文](https://twitter.com/HeQinglian/status/1522225660705624064)
 
 Re @JiangShangrong 告诉你一笑话。<br>我在脸书上贴了教皇发言，希望那里经常口颂上帝的基督徒与天主教徒就此评论，基本上是骂教皇是独裁者、支持同性恋。<br>恰好，普京不支持LGBTQI。前一向教皇谴责俄罗斯，同一批人顿时觉得上帝站在乌克兰这一边了。<br>对于左派们的双标，上帝也没办法。
 
-### 116: [2022-05-05 22:45:43+08:00 推文](https://twitter.com/HeQinglian/status/1522226038591434752)
+### 117: [2022-05-05 22:45:43+08:00 推文](https://twitter.com/HeQinglian/status/1522226038591434752)
 
 Re @princeton_walk @newqiyu 有句老话：人在恋爱时变得愚蠢。<br>这现象可推广至推特狂热话题出现时，很多人在一些狂热话题上找到立身命世的感觉，正义公平许多词汇贴上身上，顿时有如恋爱时的愚蠢：爱的不是真人，而是自身投射在爱恋对象上的影像，比如郭文贵让那么多人认定为“百年民主第一人”。<br>这时候，智商是否下降，你认为呢？😂
 
-### 117: [2022-05-05 22:52:28+08:00 推文](https://twitter.com/HeQinglian/status/1522227734222716929)
+### 118: [2022-05-05 22:52:28+08:00 推文](https://twitter.com/HeQinglian/status/1522227734222716929)
 
 Re @Jessie2021626 其实顶级大学的也一样。<br>纽约时报早在多年前就发表过一篇<br>The Repurposed Ph.D.<br> December 07, 2013<br><br>谈的全是美国前五名哈佛、耶鲁等名校的博士们找不到工作的困境。你这条推文概括的特点，他们全都有。<br>须知，哈佛是个学生人人以为自己是上帝的名校。 <a href="http://cn.tmagazine.com/education/20131207/t07phd/en-us/" target="_blank" rel="noopener noreferrer">http://cn.tmagazine.com/education/20131207/t07phd/en-us/</a>
 
-### 118: [2022-05-05 22:53:25+08:00 推文](https://twitter.com/HeQinglian/status/1522227973742546945)
+### 119: [2022-05-05 22:53:25+08:00 推文](https://twitter.com/HeQinglian/status/1522227973742546945)
 
 Re @princeton_walk @newqiyu Maybe，人不可能将智商与情商完全切割开来。
 
-### 119: [2022-05-05 22:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1522229393749385216)
+### 120: [2022-05-05 22:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1522229393749385216)
 
 Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 其实，3月份，华邮、纽约邮报等媒体全登了这一消息。华邮唯一为之辩护的是：小拜同志的生化实验室是无害的病毒，为人类健康研究，不是生化武器类的。<br>两家媒体都拥有小拜电脑上的资料，说是正在专人解读——既然是“正在”，可能还未解读完。<br>我早就不会惊讶了。我只讨厌一些根本不知道事实的人来我这胡说
 
-### 120: [2022-05-05 23:00:31+08:00 推文](https://twitter.com/HeQinglian/status/1522229761766047745)
+### 121: [2022-05-05 23:00:31+08:00 推文](https://twitter.com/HeQinglian/status/1522229761766047745)
 
 Re @zhuxiuyuan @newqiyu 你的相信，我历来采取你姑妄言之，我姑妄听之。😂
 
-### 121: [2022-05-05 23:18:08+08:00 推文](https://twitter.com/HeQinglian/status/1522234194537103360)
+### 122: [2022-05-05 23:08:07+08:00 推文](https://twitter.com/ElaineYuMuMu/status/1522231674305921025)
+
+RT Elaine Yu<br>“美国真理部”对说真话的犯人的严刑逼供，是Babylon Bee制作的黑色幽默短剧，非常好笑，也非常悲哀！<br><video src="https://video.twimg.com/ext_tw_video/1522231622774693889/pu/vid/1280x720/w80Fg29rgCUf1b-B.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522231622774693889/pu/img/9VUwZn6mn6Y6hj9J.jpg"></video>
+
+### 123: [2022-05-05 23:18:08+08:00 推文](https://twitter.com/HeQinglian/status/1522234194537103360)
 
 Re @tengbiao 我从共产党国家出来，最恨的就是中共控制言论、操纵基层选举并伪称这是民主、包括毛时代及文革时过度干预国民私生活。<br>我也不理解为何有些反贼对民主党控制言论、操控选举、立法干预青少年变性这么感兴趣？你能给个解释么？
 
-### 122: [2022-05-05 23:45:03+08:00 推文](https://twitter.com/HeQinglian/status/1522240970644934661)
+### 124: [2022-05-05 23:45:03+08:00 推文](https://twitter.com/HeQinglian/status/1522240970644934661)
 
 Re @zhangchaoyi @tengbiao 你没看过时代周刊的窃选长文？没看过各州的调查？<br>操控选举者说了：民主不是自然发生的，因此采取各种干预，极大地扭曲了民主程序。<br>如果你不承认这点，你请自便。<br>你是不是LGBTQI，我不感兴趣。我反对国家立法与教育全方位干预自然性别，以及人的自然性倾向。
 
-### 123: [2022-05-05 23:48:02+08:00 推文](https://twitter.com/HeQinglian/status/1522241719949041666)
+### 125: [2022-05-05 23:48:02+08:00 推文](https://twitter.com/HeQinglian/status/1522241719949041666)
 
 Re @tengbiao 补充：我最恨的还有共产党改变自然、战天斗地的愚蠢与蛮横，还有鼓动群众检举揭发政治反动言论。<br>民主党这样做（改变自然性别），BLM运动中鼓励检举，为何中共的反贼均能接受？<br>是不是只因自己不在那个圈内？
 
-### 124: [2022-05-06 01:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1522267486212833282)
+### 126: [2022-05-06 01:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1522267486212833282)
 
 Re @tengbiao 《时代》周刊是左媒，它在2021年2月登的文章，难道你没读过？<br>在选举之前，Axios登的78天政变计划你没看？<br>这都是左媒，与民主党的关系非常亲近，你在十英里之外，人家在三英尺之内。<br>压制投票权，无非就是要验证身份。为什么要取消验证身份？不就是为了收割选票？
 
-### 125: [2022-05-06 01:30:38+08:00 推文](https://twitter.com/NAConservative9/status/1522267541359505409)
+### 127: [2022-05-06 01:30:38+08:00 推文](https://twitter.com/NAConservative9/status/1522267541359505409)
 
 RT 北美保守评论🇺🇸🇨🇦<br>《北美保守评论》昨晚美东8点的视频片段：让虚假宣传者任职“真理部”是不是相当于让狐狸守鸡窝？”<br><br>2020年爆出亨特笔记本电脑门，她正是喋喋不休地称 “这是俄罗斯虚假信息”，目的是影响美国的选举，积极主张压制对于此事的报道⋯<br><br>完整： <a href="https://youtu.be/gXbNeBGTpg8" target="_blank" rel="noopener noreferrer">https://youtu.be/gXbNeBGTpg8</a><br><video src="https://video.twimg.com/ext_tw_video/1522267096008302592/pu/vid/1280x720/zAmTorU4VfpmS5Ax.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522267096008302592/pu/img/wTXY6Ru0k5gWA6sA.jpg"></video>
 
-### 126: [2022-05-06 01:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1522269910336000000)
+### 128: [2022-05-06 01:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1522269910336000000)
 
 现在的世界非常奇幻。<br>共产主义运动1.0版出现之时，只有左派拥护；<br>目前西方在推行共产主义2.0版时，马克思主义的三大变种同时出现在国际舞台上。美欧的大重置（拜登美国是先行）、中国的原教旨马克思主义与资本主义联姻的变种、拉美政治圈的新马反殖理论与非洲的马克思反殖理论。<br><br>老農LaoNong: @tengbiao 八九民運因紀念胡耀邦而起，胡何許人也？共產黨的大頭子。但他解放了數以億計的地富反壞右及其家屬，推進民主法治。冷戰緣何結束？蘇聯緣何解體？蓋因蘇共頭子戈爾巴喬夫等終結了蘇共。您之所以糊塗，是因為您竭力詆毀的這些人不僅反對老魔鬼，還反對要從根上摧毀人類的新魔鬼。您缺乏分析問題的能力。<br>
 
-### 127: [2022-05-06 01:48:10+08:00 推文](https://twitter.com/HeQinglian/status/1522271953071263745)
+### 129: [2022-05-06 01:48:10+08:00 推文](https://twitter.com/HeQinglian/status/1522271953071263745)
 
 Re @pandatress1 拉美的反殖就是反美。更好笑的是：左派经济学大家阿明的中心-边缘论成为全球化理论的支点。<br>这世界真的非常荒唐。
 
-### 128: [2022-05-06 01:53:13+08:00 推文](https://twitter.com/HeQinglian/status/1522273222644932613)
+### 130: [2022-05-06 01:53:13+08:00 推文](https://twitter.com/HeQinglian/status/1522273222644932613)
 
 Re @pandatress1 拉美的反殖就是反美。更好笑的是：左派经济学大家阿明的中心-边缘论就是反美反西方国家的理论，最后却成为全球化理论的支点。<br>这世界真的非常荒唐。
 
-### 129: [2022-05-06 02:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1522283548119609344)
+### 131: [2022-05-06 02:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1522283548119609344)
 
 Re @billybes_rex @QQzk_prs 视频都在，你没看见？<br>相信除了西媒之外，其余有关乌克兰的消息，你都 认为是抹黑。有出处你也看不见。
 
-### 130: [2022-05-06 02:36:54+08:00 推文](https://twitter.com/HeQinglian/status/1522284216523890691)
+### 132: [2022-05-06 02:36:54+08:00 推文](https://twitter.com/HeQinglian/status/1522284216523890691)
 
 Re @Zhanglihualois 防谁？其实树栅栏的人心里知道。因为美国会哭闹的孩子是谁，是谁能让南希们下跪，大家知道。
 
-### 131: [2022-05-06 02:41:06+08:00 推文](https://twitter.com/HeQinglian/status/1522285274197372929)
+### 133: [2022-05-06 02:41:06+08:00 推文](https://twitter.com/HeQinglian/status/1522285274197372929)
 
 Re @Rasmussen_Poll @POTUS @MattPalumbo12 美国人当真香臭不分。拜登这么作，通胀40年未有之高，未成年人要被学校引导变性，价值观换成了LGBTQI，支持率还有这么高。<br>当然，可能 是民调作品。
 
-### 132: [2022-05-06 02:45:59+08:00 推文](https://twitter.com/HeQinglian/status/1522286504122400769)
+### 134: [2022-05-06 02:45:59+08:00 推文](https://twitter.com/HeQinglian/status/1522286504122400769)
 
 终于明白，美中两个大国都有自己的首要关切。<br>美国拜登是中期选举，所以乌俄之战必须打到12月（布林肯宣布）；习近平是连任问题，清零务必坚持到连任成功之后。<br>两国都在忙自家的选举——只是选举形式不同。美国民主党要收割选票，习近平得管控社会，只有清零能达成无死角。<br><br>石扉客: 强烈建议关心中国疫情走向的人，都抓紧仔细收看下今晚新闻联播，未来走向一目了然。<br> <a href="https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&amp;share_to=wechat&amp;item_id=9363371638135341844&amp;track_id=8A9B7ED1-BF0A-431A-AAB4-30B08F3787EC_673442467797" target="_blank" rel="noopener noreferrer">https://content-static.cctvnews.cctv.com/snow-book/index.html?toc_style_id=feeds_default&amp;share_to=wechat&amp;item_id=9363371638135341844&amp;track_id=8A9B7ED1-BF0A-431A-AAB4-30B08F3787EC_673442467797</a> <a href="https://twitter.com/shifeike/status/1522180121754439681" target="_blank" rel="noopener noreferrer">https://twitter.com/shifeike/status/1522180121754439681</a>
 
-### 133: [2022-05-06 03:12:06+08:00 推文](https://twitter.com/HeQinglian/status/1522293073698508800)
+### 135: [2022-05-06 03:12:06+08:00 推文](https://twitter.com/HeQinglian/status/1522293073698508800)
 
 转苏晓康:普金这个独裁者，同时也是一个反同志、捍卫家庭价值、强调男子气概的家父长典范，甚至是复兴基督教信仰的全球右翼领袖，所以俄乌战争的背后铺垫着另一场方兴未艾的文化战争、价值嬗变；而西方进步主义……直接危及人类物种的首选：繁衍后代。这世界真是左右为难。 <a href="https://ipkmedia.com/138094/" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/138094/</a>
 
-### 134: [2022-05-06 03:15:57+08:00 推文](https://twitter.com/HeQinglian/status/1522294045468512256)
+### 136: [2022-05-06 03:15:57+08:00 推文](https://twitter.com/HeQinglian/status/1522294045468512256)
 
 Re @SallyMayweather 🤣🤣🤣
 
-### 135: [2022-05-06 03:37:26+08:00 推文](https://twitter.com/HeQinglian/status/1522299449753718785)
+### 137: [2022-05-06 03:37:26+08:00 推文](https://twitter.com/HeQinglian/status/1522299449753718785)
 
 Re @Tifas1999 我要求不高，能够阻止美拜登政府向外推广（布林肯原话是希望各国政府配合美国推广）LGBTQI这种人权价值观就行 ，留给美国与欧盟自家享受。<br>其他的国家，愿意接受有偿推广，那也没办法。<br>至少，世界上愿意当作国策推广的国家现在不超过50个。
 
-### 136: [2022-05-06 03:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1522300622967656452)
+### 138: [2022-05-06 03:42:06+08:00 推文](https://twitter.com/HeQinglian/status/1522300622967656452)
 
 Re @WildermohnE 世界同声指责：这是中国清零惹的祸。<br>北京暗中得意：不通过清零躺平，怎能显中国重要？
 
-### 137: [2022-05-06 03:46:20+08:00 推文](https://twitter.com/HeQinglian/status/1522301689105207297)
+### 139: [2022-05-06 03:46:20+08:00 推文](https://twitter.com/HeQinglian/status/1522301689105207297)
 
 Re @Amyverdun 他当然不是清教徒，但比你家拜登要好不知多少倍。这你得承认。<br>至少他子女不吸毒、娈童、群交。他家没乱伦。他有情人，但不象拜登那样经常当众表演不雅行为。
 
-### 138: [2022-05-06 08:07:31+08:00 推文](https://twitter.com/HeQinglian/status/1522367417900576769)
+### 140: [2022-05-06 08:07:31+08:00 推文](https://twitter.com/HeQinglian/status/1522367417900576769)
 
 Re @eGUAbe2V7j26GHw @kaihongdave 最奇特的是：这种战法早就被美国与北约扔进历史垃圾堆了，但按照美北指导的乌克兰却没法赢——当然，乌军不是正主儿，不过，这套游击战、水泥丛林战与人质战的战法是美军从中东总结来的，不是对等力量开战总结出来的。<br>估计双方事后都要重新检讨。军队的实力是打出来的。
 
-### 139: [2022-05-06 08:09:00+08:00 推文](https://twitter.com/HeQinglian/status/1522367792913256448)
+### 141: [2022-05-06 08:09:00+08:00 推文](https://twitter.com/HeQinglian/status/1522367792913256448)
 
 Re @JasonFu103 你的问话，本身就是观点。<br>泽只是代理人而已，不认同主子，认同前台木偶，也算一景。
 
-### 140: [2022-05-06 08:09:55+08:00 推文](https://twitter.com/HeQinglian/status/1522368024749256705)
+### 142: [2022-05-06 08:09:55+08:00 推文](https://twitter.com/HeQinglian/status/1522368024749256705)
 
 Re @lousiuanb @kaihongdave 不必要。因为该说的都说了。你是O个Fo，想必不是新注册，就是刚激活。
 
-### 141: [2022-05-06 08:46:14+08:00 推文](https://twitter.com/HeQinglian/status/1522377160450785280)
+### 143: [2022-05-06 08:33:48+08:00 推文](https://twitter.com/allen27410505/status/1522374033542553600)
+
+RT allen<br>一名从亞速鋼鐵厂逃出來的女士説:烏克蘭作為一個國家，在她心中已經死了，烏軍的所做所為讓她傷透了心，民眾通過廣播知道俄軍開放了人道主義通道，但烏軍不允許他們出來。所以俠持人質沒錯瞭，聯合國和紅十字會都在，西方新聞怎麼不報導？<br><img style="" src="https://pbs.twimg.com/media/FSCPC9pVEAAEFM9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSCPEGaVkAE6f3T?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSCPFKxVEAAEe7y?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSCPGjqVkAAsBc6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 144: [2022-05-06 08:46:14+08:00 推文](https://twitter.com/HeQinglian/status/1522377160450785280)
 
 Re @MTHK2019 乌鸡血咋还这么高潮，靠谎言撑着？
 
-### 142: [2022-05-06 08:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1522378680676372483)
+### 145: [2022-05-06 08:52:16+08:00 推文](https://twitter.com/HeQinglian/status/1522378680676372483)
 
 Re @Samuell68538290 你这话让我想起一件事情：<br>2020年BLM运动高潮时，哥大一群女生裸着（部分人穿了胸罩与三角裤），骂纽约警察：你们没文化，我们是有“文化”的人。然后一女子坐在地上，张开腿“跳舞”（其实是晃动两条腿）。<br>俄文化当然没有美国文化影响大。请问你喜欢以LGBTQI+CRT+吸麻的美国文化吗？
 
-### 143: [2022-05-06 08:53:22+08:00 推文](https://twitter.com/HeQinglian/status/1522378955994681346)
+### 146: [2022-05-06 08:53:22+08:00 推文](https://twitter.com/HeQinglian/status/1522378955994681346)
 
 Re @Kele47518825 @pandatress1 美国的1月6日呢？
 
-### 144: [2022-05-06 08:57:04+08:00 推文](https://twitter.com/HeQinglian/status/1522379886941425666)
+### 147: [2022-05-06 08:57:04+08:00 推文](https://twitter.com/HeQinglian/status/1522379886941425666)
 
 Re @eGUAbe2V7j26GHw @kaihongdave 苏晓康这文章，确实让我感到他宝刀未老，锋芒犹在。他在同代异议者当中，这算是他对自己一生思考的交代，说明他对现实是清醒的。<br>更重要的是，他愿意说出来。
 
-### 145: [2022-05-06 09:05:24+08:00 推文](https://twitter.com/HeQinglian/status/1522381986308009987)
+### 148: [2022-05-06 09:05:24+08:00 推文](https://twitter.com/HeQinglian/status/1522381986308009987)
 
 Re @Isabel_3299 疫情初起时，所有的流行病学家都说了一点：疫苗开发需要时间，几年后上市时，病毒已经过去了。<br>结果创造了奇迹：中美两国都在半年之内推出了疫苗。这只有两个解释，一是疫苗早就在开发病毒时同时开发了；二是疫苗的质量不保证。
 
-### 146: [2022-05-06 09:15:31+08:00 推文](https://twitter.com/HeQinglian/status/1522384532690935808)
+### 149: [2022-05-06 09:15:31+08:00 推文](https://twitter.com/HeQinglian/status/1522384532690935808)
 
 Re @Rainding45 @kaihongdave 人家本来就不要内裤。2020年以前，还装点门面，此后，一切如同BLM运动的不少抗议人群一样，或是裸奔，或是直接抢烧杀。
 
-### 147: [2022-05-06 09:28:20+08:00 推文](https://twitter.com/HeQinglian/status/1522387758874075138)
+### 150: [2022-05-06 09:28:20+08:00 推文](https://twitter.com/HeQinglian/status/1522387758874075138)
 
 Re @Rainding45 @kaihongdave 那年的资讯排山倒海，这些人为什么就看不到？
 
-### 148: [2022-05-06 09:34:41+08:00 推文](https://twitter.com/HeQinglian/status/1522389353854554120)
+### 151: [2022-05-06 09:34:41+08:00 推文](https://twitter.com/HeQinglian/status/1522389353854554120)
 
 Re @lilou60706 我儿子2004年来美，读初中时有这类课，比如缝纫、烹调（烤面包、蛋糕）。每次课完结后，交一件作品。驾驶课16岁学。12年级时，还有一种课，假定年收入之后的家计安排，包括选择城市。<br>性教育课谈过LG，说人类有这种性取向，占1%多，要尊重。但那时还没讲BTQI，变性这类。<br>现在美国中学教什么，不知道。
 
-### 149: [2022-05-06 09:41:01+08:00 推文](https://twitter.com/HeQinglian/status/1522390947086098432)
+### 152: [2022-05-06 09:41:01+08:00 推文](https://twitter.com/HeQinglian/status/1522390947086098432)
 
 Re @JianglinLi @david_david1968 @Wu_Zhi @HongfuDing @RealBeiMing 代理人战争的特点就是：代理人没有任何决定权，他对本国人民不负责，他只对背后的Boss金主负责。
 
-### 150: [2022-05-06 09:46:05+08:00 推文](https://twitter.com/HeQinglian/status/1522392222368423937)
+### 153: [2022-05-06 09:46:05+08:00 推文](https://twitter.com/HeQinglian/status/1522392222368423937)
 
 Re @JasonFu103 我想说的是：泽的价值观与奥、拜一样。<br>所以，你遵循的就是那一套价值观。<br>你有自己的自由，但别太美化这套价值观，毕竟，LGBTQI+吸麻（毒）+CRT是它的标配。
 
-### 151: [2022-05-06 09:48:54+08:00 推文](https://twitter.com/HeQinglian/status/1522392934204809223)
+### 154: [2022-05-06 09:48:54+08:00 推文](https://twitter.com/HeQinglian/status/1522392934204809223)
 
 Re @laohei789 帮转推。
 
-### 152: [2022-05-06 10:03:04+08:00 推文](https://twitter.com/HeQinglian/status/1522396496720711686)
+### 155: [2022-05-06 10:03:04+08:00 推文](https://twitter.com/HeQinglian/status/1522396496720711686)
 
 被马斯克收购的Twitter只会变得更糟<br><br>评：以前我真没太将这次收购当回事情。但看了纽时此文，加上此前谈到马斯克收购推特中国会很高兴那篇。<br>我突然觉得是件好事，纽时说的多半有大水分，但透露的紧张与失落却很真切。<br>今年美国中期选举，推特也许不能成为民主党的党派工具？ <a href="https://cn.nytimes.com/opinion/20220426/twitter-elon-musk/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220426/twitter-elon-musk/</a>
 
-### 153: [2022-05-06 10:08:29+08:00 推文](https://twitter.com/HeQinglian/status/1522397862566449152)
+### 156: [2022-05-06 10:08:29+08:00 推文](https://twitter.com/HeQinglian/status/1522397862566449152)
 
 Re @Mouce @newqiyu 相信你的判断，我这估计太保守了。
 
-### 154: [2022-05-06 10:09:28+08:00 推文](https://twitter.com/HeQinglian/status/1522398107081879554)
+### 157: [2022-05-06 10:09:28+08:00 推文](https://twitter.com/HeQinglian/status/1522398107081879554)
 
 Re @pandatress1 @eGUAbe2V7j26GHw @kaihongdave 最近说了要训练100万，北约派军事专家训练。
 
-### 155: [2022-05-06 10:13:31+08:00 推文](https://twitter.com/HeQinglian/status/1522399126016741379)
+### 158: [2022-05-06 10:13:31+08:00 推文](https://twitter.com/HeQinglian/status/1522399126016741379)
 
 Re @ru96kbn52e @lilou60706 你还没死啊？美国现在教的是你最爱听的，变性，LGBTQI，我这里都有份教学大纲。<br>乌鸡血打多了，你会很不正常的。每天以此为业，从乌还是从美信息战那里拿的钱会卡在你喉咙里。
 
-### 156: [2022-05-06 10:17:03+08:00 推文](https://twitter.com/HeQinglian/status/1522400016513576961)
+### 159: [2022-05-06 10:17:03+08:00 推文](https://twitter.com/HeQinglian/status/1522400016513576961)
 
 Re @JasonFu103 你弄错了吧？<br>何时何地，拜登说过要他走？他自己在经济学人采访的说话，你看了没有？<br>不再陪你聊了，因为信息太不对称，连你佩服的泽的亲口说法，都被飞机接人的幻想代替了。
 
-### 157: [2022-05-06 10:23:10+08:00 推文](https://twitter.com/HeQinglian/status/1522401556573921286)
+### 160: [2022-05-06 10:23:10+08:00 推文](https://twitter.com/HeQinglian/status/1522401556573921286)
 
 Re @Rainding45 @Isabel_3299 他说话的毛病，大家知道，民主党每次都放大百倍千倍万倍——与拜登的待遇天差地别。😂
 
-### 158: [2022-05-06 11:10:35+08:00 推文](https://twitter.com/HeQinglian/status/1522413489964396544)
+### 161: [2022-05-06 11:10:35+08:00 推文](https://twitter.com/HeQinglian/status/1522413489964396544)
 
 Re @eGUAbe2V7j26GHw 美国宪法不仅保护政治正确言论的自由，还保护说政治不正确的言论自由。<br>左派的逻辑历来是这样：<br>与我同样的观点政治正确，因此有言论自由；只要我不同意的观点，就不能让其言说，发展至近年成了取消文化。<br>连他们当年追随的乔姆斯基与罗琳，都被他们取消了。<br>第一修正案在左派那里，等于不存在。
 
-### 159: [2022-05-06 11:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1522414570777808897)
+### 162: [2022-05-06 11:14:53+08:00 推文](https://twitter.com/HeQinglian/status/1522414570777808897)
 
 Re @eGUAbe2V7j26GHw @pandatress1 @kaihongdave 这我不担心，从美太空军发明这场美乌共享信息战以来，网络空间说什么，乌粉就信什么。<br>只要坚持说有时间训练，并且战力很强，立刻欢呼声一片。<br>难怪有位左派女记写了篇《战争原来可以这样打》
 
-### 160: [2022-05-06 19:31:48+08:00 推文](https://twitter.com/HeQinglian/status/1522539624001851393)
+### 163: [2022-05-06 19:31:48+08:00 推文](https://twitter.com/HeQinglian/status/1522539624001851393)
 
 Re @xianshu_he 你看清一点：转推。
 
-### 161: [2022-05-06 19:33:35+08:00 推文](https://twitter.com/HeQinglian/status/1522540071882301441)
+### 164: [2022-05-06 19:33:35+08:00 推文](https://twitter.com/HeQinglian/status/1522540071882301441)
 
 Re @JiangShangrong @ru96kbn52e 这是个厚皮女乌鸡血。已经注册过上百号来我这骚扰，拉黑又来。<br>这个型号，喜欢的就是这进步文化。
 
-### 162: [2022-05-06 19:37:56+08:00 推文](https://twitter.com/HeQinglian/status/1522541168885702656)
+### 165: [2022-05-06 19:37:56+08:00 推文](https://twitter.com/HeQinglian/status/1522541168885702656)
 
 Re @Al8cW8924n 你还得继续丢人，反正你这号本来就没脸。<br>苏在推特上有脸书。文章不是他写的，但这段话就是他写的。我在推特上验证过。<br>估计你每天都在观赏泽某些视频，获得能量。<br>因为只有变态女乌鸡血才会是你这样操作——无夫无子无职业，最近以此为职业。下次再找个进步男人崇拜一番。
 
-### 163: [2022-05-06 19:43:22+08:00 推文](https://twitter.com/HeQinglian/status/1522542533951303681)
+### 166: [2022-05-06 19:43:22+08:00 推文](https://twitter.com/HeQinglian/status/1522542533951303681)
 
 我从不崇拜人，尤其是政治人物。<br>但公平而论，任何人都比目前你们崇拜的拜登、奥八等西方政客强。没有人能够在一年内创造负债10万亿美元，达到40年未有之高通胀，让经济增速-1.4，在中小学忙于让未成年人变性，还将家长的干预称为恐怖活动——还不说他那腐败糜烂家庭。<br>崇拜拜登的都是些什么人？<br><br>季裔: @HeQinglian 普京是什麼東西？竟然有那麼多崇拜者<br>他就一個騙子。給我二十年，還你一個強大的俄羅斯。二十多年過去了，俄羅斯強大了嗎？除了號稱第二軍事強國，還是前蘇聯的家底，沒有一個世界品牌。廣袤的土地、豐富的資源，能出門捷列夫這樣的聰明民族，GDP卻不如國土狹小、資源匱乏的韓國，養老金都快發不出了<br>
 
-### 164: [2022-05-06 19:47:29+08:00 推文](https://twitter.com/HeQinglian/status/1522543572159021056)
+### 167: [2022-05-06 19:47:29+08:00 推文](https://twitter.com/HeQinglian/status/1522543572159021056)
 
 Re @JasonFu103 是你找上门来的吧？没为你的胡编乱造、无聊道个歉，当真是什么人崇拜什么人，继续去崇拜他，每天想象中过日子吧。<br>我得拔草了。
 
-### 165: [2022-05-06 19:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1522544841036546049)
+### 168: [2022-05-06 19:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1522544841036546049)
 
 Re @SydneyVagrant @kaihongdave 你被“民主”二字包装迷得分不清东南西北，因为你本来就不懂民主宪政为何物。所以正在破坏民主宪政的民主党被你当作神物供养。<br>你大概根本不知道最近某民主党众议员在说要毁掉美国的政治制度，公开的。<br>人需要成长，别当巨婴。别再冒头，去跟滕彪他们。
 
-### 166: [2022-05-06 19:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1522546416526180352)
+### 169: [2022-05-06 19:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1522546416526180352)
 
 Re @19890604KGB 你最近发言很不上道。<br>这是转推，看明白点。普京对苏联的态度前后有变化，但对斯大林他没肯定过。俄罗斯有怀念斯大林的思潮，如同中国有人怀念毛泽东。<br>下次慎言。
 
-### 167: [2022-05-06 20:01:03+08:00 推文](https://twitter.com/HeQinglian/status/1522546985567506432)
+### 170: [2022-05-06 20:01:03+08:00 推文](https://twitter.com/HeQinglian/status/1522546985567506432)
 
 Re @YongzuoLi 不用隐藏观点。你是中级乌粉（还不是乌鸡血），我不会因此拉黑你，只会因出言不逊。但说得不明不白，力度不够。<br>老拿二战那点事情来说事，只能说你看不清目前的万重山。
 
-### 168: [2022-05-06 20:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1522547240308723712)
+### 171: [2022-05-06 20:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1522547240308723712)
 
 Re @billybes_rex 他列举的是普京的政绩，我对等回应，将拜登的部分政绩列出来。
 
-### 169: [2022-05-06 20:04:06+08:00 推文](https://twitter.com/HeQinglian/status/1522547752298819584)
+### 172: [2022-05-06 20:04:06+08:00 推文](https://twitter.com/HeQinglian/status/1522547752298819584)
 
 Re @billybes_rex 普京确实不是，是为了俄的国家利益。<br>但是，拜登政府对付他，确是为了瓦尔代讲话的态度。自己去查查资料。否则，战火燃烧之地可能就是台湾了——只是习没普那么自信，蔡也不是泽连斯基，拜登未必如愿。
 
-### 170: [2022-05-06 20:06:23+08:00 推文](https://twitter.com/HeQinglian/status/1522548326297743365)
+### 173: [2022-05-06 20:06:23+08:00 推文](https://twitter.com/HeQinglian/status/1522548326297743365)
 
 Re @billybes_rex 看了简介，你是从事艺术与设计的。因此，不习惯查阅资料，排列时间，从中找出逻辑关联，跟着感觉走是特点。<br>勿复，这两天回你好几条了。有事。
 
-### 171: [2022-05-06 23:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1522594907491287040)
+### 174: [2022-05-06 23:11:29+08:00 推文](https://twitter.com/HeQinglian/status/1522594907491287040)
 
 Re @Jiyi2018 普京接手的国家太烂，努力也只能达到维持状态；拜登的美国本是世界第一强国，败家水平历史第一。<br>相比之下，任何国家的维持会长已经算合格了。<br>附告：李光耀能够如此，大势决定，他的眼光决定他借势成事。本质上他与普京一样，都是威权型领袖。<br>俄罗斯人比你更了解普京。你骂他自我感觉高大就行。
 
-### 172: [2022-05-06 23:14:34+08:00 推文](https://twitter.com/HeQinglian/status/1522595684922413056)
+### 175: [2022-05-06 23:14:34+08:00 推文](https://twitter.com/HeQinglian/status/1522595684922413056)
 
 Re @kiyomi_taka 他这边刚骂过普京，下一推开始崇拜李光耀。懒得理他了。
 
-### 173: [2022-05-06 23:16:13+08:00 推文](https://twitter.com/HeQinglian/status/1522596101072822273)
+### 176: [2022-05-06 23:16:13+08:00 推文](https://twitter.com/HeQinglian/status/1522596101072822273)
 
 Re @UqT0FDUwf4abvZ6 说的是，你现在的水平，接近民主党的BLM。这种人不少，28%。<br>我确实现在不觉得美国人那28%的水平比你们高。
 
-### 174: [2022-05-06 23:24:13+08:00 推文](https://twitter.com/HeQinglian/status/1522598114229633024)
+### 177: [2022-05-06 23:24:13+08:00 推文](https://twitter.com/HeQinglian/status/1522598114229633024)
 
 Re @Wu_Zhi @JianglinLi @MTHK2019 5%的清醒者对美国近年变化有个认识深化过程。<br>以前的美国是宪政民主法治国家，它在外干什么，我们都曾经认为是替天行道，支持。<br>以我来说，奥八上台后感觉不对，但还是不够了解。阿拉伯之春及2015年难民潮后开始认真思考，2018年我写过《民主党在美国国内推行颜色革命》，知道美国去民主化过程开始。
 
-### 175: [2022-05-06 23:27:18+08:00 推文](https://twitter.com/HeQinglian/status/1522598891870470149)
+### 178: [2022-05-06 23:27:18+08:00 推文](https://twitter.com/HeQinglian/status/1522598891870470149)
 
 Re @JiangShangrong 主要看时间。20多天前，乐玉成说过类似的话，但原话不是这样。<br>这几天乌鸡血在说中国态度发生变化，我还没查。
 
-### 176: [2022-05-06 23:28:37+08:00 推文](https://twitter.com/HeQinglian/status/1522599219806285825)
+### 179: [2022-05-06 23:28:37+08:00 推文](https://twitter.com/HeQinglian/status/1522599219806285825)
 
 Re @JiangShangrong 法国人被自己一力打造的戴高乐神话蒙蔽了。
 
-### 177: [2022-05-06 23:33:36+08:00 推文](https://twitter.com/HeQinglian/status/1522600476222672897)
+### 180: [2022-05-06 23:33:36+08:00 推文](https://twitter.com/HeQinglian/status/1522600476222672897)
 
 Re @Wu_Zhi @JianglinLi @MTHK2019 让别国在本国折腾，第一次可说是幼稚，第二次可说是需要，第三次就是愚蠢了。
 
-### 178: [2022-05-06 23:35:51+08:00 推文](https://twitter.com/HeQinglian/status/1522601041539309568)
+### 181: [2022-05-06 23:35:51+08:00 推文](https://twitter.com/HeQinglian/status/1522601041539309568)
 
 Re @Wu_Zhi @JianglinLi @MTHK2019 左派早就走到这一步了，只因以前将纳粹说成极右，极度黑暗，一时改不了口。等乌合之众的三秒钟记忆消失了，立刻就集体跟从了。<br>很快会在这些人当中出现吸麻、变性者。只要他们有经济能力做这些事情。
 
-### 179: [2022-05-06 23:38:28+08:00 推文](https://twitter.com/HeQinglian/status/1522601698459537408)
+### 182: [2022-05-06 23:38:28+08:00 推文](https://twitter.com/HeQinglian/status/1522601698459537408)
 
 Re @JiangShangrong 这与央视认罪有何区别？<br>有位女士说她恨普京是因为普京与中国友好，我说泽连斯基也与中国友好，为何这个理由只在普京身上成立？
 
-### 180: [2022-05-06 23:40:59+08:00 推文](https://twitter.com/HeQinglian/status/1522602333728907264)
+### 183: [2022-05-06 23:40:59+08:00 推文](https://twitter.com/HeQinglian/status/1522602333728907264)
 
 Re @Wu_Zhi @JianglinLi @MTHK2019 以后世风转变，崇拜强者，他们的历史与现实中，强人也会多起来的。<br>看过《人民公仆》之后，加上其他的一些了解，对这个民族的性格还有所了解，咱俩一年前就说过，只是用语比较文雅：诗歌民族。
 
-### 181: [2022-05-06 23:42:35+08:00 推文](https://twitter.com/HeQinglian/status/1522602737212481537)
+### 184: [2022-05-06 23:42:35+08:00 推文](https://twitter.com/HeQinglian/status/1522602737212481537)
 
 Re @gan_this_way 文章不是他写的，他只写过读后感，我引的那段。
 
-### 182: [2022-05-06 23:47:51+08:00 推文](https://twitter.com/HeQinglian/status/1522604059559186434)
+### 185: [2022-05-06 23:47:51+08:00 推文](https://twitter.com/HeQinglian/status/1522604059559186434)
 
 白宫新发言人上任 首位非裔女性与同性恋者 <br>美国民主党粉喜大普奔，LBGTQI终于又下一城，美中小学教师进行性文化教育时，可用她来做励志榜样。<br>希望拜登政府尽快将布林肯及其他人换掉，全用彩虹军。<br>法国、英国尽快效尤。<br>以后记者提问须谨慎，各种歧视帽子很沉重 <a href="https://rfi.my/8OYD.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8OYD.T</a>
+
+### 186: [2022-05-06 23:55:10+08:00 推文](https://twitter.com/HeQinglian/status/1522605901433221124)
+
+Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多了。
+
+### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
+
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
+
+### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
+
+我从今天开始，准备转推一些内容，刚才转推的就是。<br>如果跟着我的新老Fo看不惯，请自行离去，离去之时，保持自尊。你们Fo人时认为是给人面子，但这面子没到让我说谎逢迎你们的地步。<br>这是为给一些迷失在信息战中的乌粉留点余地。至于乌鸡血，见一个拉黑一个。
+
+### 189: [2022-05-07 01:17:01+08:00 推文](https://twitter.com/HeQinglian/status/1522626502537498624)
+
+Re @KingWan86749833 英国首相说过，拜登、布林肯都有类似表达，泽连斯基在接受经济学人采访时说得非常直接了当。<br>这帮子被身份政治洗脑的左派（有的还自认是保守），从来是这种方法：对同一事实真相的描述即使相同，有些人说他们认为是睿智，有些人说他们咬定是污蔑。<br>让左的炼狱之火熬炼这些动物庄园庄民吧。
+
+### 190: [2022-05-07 01:30:52+08:00 推文](https://twitter.com/HeQinglian/status/1522629987723104261)
+
+Re @pandatress1 《经济学人》发表《俄罗斯经济重新站稳脚跟》这样的文章，实属不易。<br>美拜登又将推出百亿援乌方案，考虑到阿富汗多年战争与援助费用，连纽时都曝光将近一半进了美国相关部门与人士的口袋里，我觉得积极性来自这。
+
+### 191: [2022-05-07 01:38:15+08:00 推文](https://twitter.com/HeQinglian/status/1522631846336647168)
+
+Re @allen27410505 我认为这条消息，有位萧女士最爱看，她的节目有一半谈乌克兰女子被强奸，故事都很惊耸。<br>既然有哪吒怀胎三年的故事，两个月产子也属正常——反正是俄乌信息战，污名化敌人最重要。没告诉人们：第一天强奸，第二天生出青蛙就算负责了。
+
+### 192: [2022-05-07 01:40:40+08:00 推文](https://twitter.com/HeQinglian/status/1522632451834712066)
+
+Re @RealBeiMing 你应该附上推号，拉黑方便。我没找到这号，估计早就拉黑了。
 
