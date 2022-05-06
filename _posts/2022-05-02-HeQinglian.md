@@ -783,3 +783,47 @@ Re @allen27410505 我认为这条消息，有位萧女士最爱看，她的节�
 
 Re @RealBeiMing 你应该附上推号，拉黑方便。我没找到这号，估计早就拉黑了。
 
+### 193: [2022-05-07 01:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1522636312536363009)
+
+美联社5月6日:，墨西哥总统洛佩斯从5日起开始对古巴和4个中美洲国家进行为期5天的访问。<br>在访问行程中，洛佩斯表示，在长达4年的谈判中，美国没有向中美洲国家的发展拨款任何资金，却为乌克兰当前冲突投入了300亿美元，这种行为“令人费解”。<br>估计民主党会损失部分拉丁裔票。 <a href="https://apnews.com/article/russia-ukraine-business-united-states-europe-guatemala-7a1b152cb362a37949f11983338d97b5" target="_blank" rel="noopener noreferrer">https://apnews.com/article/russia-ukraine-business-united-states-europe-guatemala-7a1b152cb362a37949f11983338d97b5</a>
+
+### 194: [2022-05-07 01:57:42+08:00 推文](https://twitter.com/HeQinglian/status/1522636741248753667)
+
+Re @pandatress1 也就中国大陆那些拜粉反贼将民主党左媒的宣传当作真理。
+
+### 195: [2022-05-07 02:04:04+08:00 推文](https://twitter.com/HeQinglian/status/1522638339886788608)
+
+Re @JianglinLi 选票归选票，援助归援助。谁叫拜登成了散财大仙？
+
+### 196: [2022-05-07 02:08:12+08:00 推文](https://twitter.com/HeQinglian/status/1522639381525405697)
+
+每日镜报：德总统施泰因迈尔上个月被乌克兰拒之门外，德总理认为这是“不可接受”，2日晚作拒绝访问基辅的表态，乌克兰驻德大使梅尔尼克5月3日接受德意志新闻社采访时回应道：“（朔尔茨）表现得像一个生气的猪肝肠（beleidigte Leberwurst），听起来不太有政治家风范。”<br>拉屎大使突然讲起风范来了？😂
+
+### 197: [2022-05-07 02:09:16+08:00 推文](https://twitter.com/HeQinglian/status/1522639651273650176)
+
+Re @19890604KGB 就直接表态反侵略，不必要拉扯太多，有时候容易出错。
+
+### 198: [2022-05-07 03:42:09+08:00 推文](https://twitter.com/HeQinglian/status/1522663025311952899)
+
+Re @chinayvan 你既然在军队呆过，应该知道军队是怎么训练出来的。<br>“乌克兰军目前依旧被限制在防守能力，没有大规模进攻能力。”<br>美国这么强大的军事生产能力，不在全球制造一两个火药 桶，军事生产能力会闲置的。
+
+### 199: [2022-05-07 03:45:46+08:00 推文](https://twitter.com/HeQinglian/status/1522663934729363458)
+
+Re @Ted91823920 能否说清楚点？现在世界上哪些国家实行的是共产主义2.0版？
+
+### 200: [2022-05-07 03:53:43+08:00 推文](https://twitter.com/HeQinglian/status/1522665934862925825)
+
+Re @IvyJ05931994 @allen27410505 台湾这次造谣的媒体收视率激增。正经媒体都发愁。<br>而且更愁的是：今后如果战争发展状态不是那样，台湾舆论如何收拾局面？——主要是民众的信心会受损害。
+
+### 201: [2022-05-07 04:01:34+08:00 推文](https://twitter.com/HeQinglian/status/1522667912565301248)
+
+英國地方選舉最初開票結果顯示，首相強生領導的保守黨輸掉倫敦的傳統據點，在其他選區同樣經歷慘敗。保守黨政府近來問題不斷，讓在野黨於這場猶如期中考的選舉中收割選票。<br>金毛如果当不成首相，就不能陪美国玩乌克兰战争了。 <a href="https://tw.news.yahoo.com/%E5%80%AB%E6%95%A6%E5%A4%9A%E5%8D%80%E7%A5%A8%E5%80%89%E5%A4%B1%E5%AE%88-%E8%8B%B1%E7%9B%B8%E5%BC%B7%E7%94%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E9%81%8D%E5%9C%B0%E7%B4%85%E5%AD%97-085536581.html" target="_blank" rel="noopener noreferrer">https://tw.news.yahoo.com/%E5%80%AB%E6%95%A6%E5%A4%9A%E5%8D%80%E7%A5%A8%E5%80%89%E5%A4%B1%E5%AE%88-%E8%8B%B1%E7%9B%B8%E5%BC%B7%E7%94%9F%E6%9C%9F%E4%B8%AD%E8%80%83%E9%81%8D%E5%9C%B0%E7%B4%85%E5%AD%97-085536581.html</a>
+
+### 202: [2022-05-07 04:03:27+08:00 推文](https://twitter.com/HeQinglian/status/1522668386760761348)
+
+美售台武器又夭折？台：反潛直升機太貴不買了 <br>此前有消息传出，台湾采购反潜直升机受阻是因为美国认为“不符合台湾需求”，因而拒绝采购提议。邱国正澄清原因并非如此。他说，是因为“价格太贵了，超出我国能力范圍。” <a href="https://p.dw.com/p/4Atba?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Atba?maca=zh-Twitter-sharing</a>
+
+### 203: [2022-05-07 04:08:34+08:00 推文](https://twitter.com/HeQinglian/status/1522669674424582144)
+
+Re @Wu_Zhi 英国选民怎么回事，我不太了解。<br>美国民主党选民，就是左派政治、文化、传媒、演艺界+几个工会+BLM+拉丁裔移民主体+福利族+LGBTQI（G中还有一些人不支持民主党）+30岁及以下青年的主体，华人移民当中的70%。
+
