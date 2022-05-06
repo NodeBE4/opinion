@@ -73,3 +73,17 @@ Taken together, these developments constitute a dangerous new reality. Gone are 
 
 The return of the free world may have consequences that transcend the realm of rhetoric. From the late 1940s through the mid-1960s, the American commitment to free world leadership resulted in a series of unintended policymaking constraints. Before we once again become captives of the concept, it would be wise to consider how a free world foreign policy functioned the first time around."
 
+### 238: [Putin’s Orange Obsession: How a Twenty-Year Fixation With Color Revolutions Drove a Disastrous War](https://old.reddit.com/r/TrueReddit/comments/ujq40w/putins_orange_obsession_how_a_twentyyear_fixation/), submitted on 2022-05-06 23:33:26+08:00.
+
+----- __238.1__ -----2022-05-06 23:35:21+08:00:
+
+\[SS from the article by Lincoln Mitchell, Adjunct Associate Research Scholar in the Institute of War and Peace Studies at the School of International and Public Affairs at Columbia University\]
+
+"The Kremlin has sought to portray the Ukrainian government as a dangerous, Western puppet in Russia’s historic heartland, ruled by a government that is the product of an American-backed coup rather than an expression of the democratic will of the Ukrainian people. It matters little that such claims have no grounding in fact or that Ukrainian President Volodymyr Zelensky won almost three-quarters of the vote in a 2019 election that was generally regarded as free and fair. For the Putin regime, the possibility that what has happened in Ukraine over the past two decades could be replicated in Russia itself has become an almost existential obsession.  
+
+
+But the Kremlin’s narrative of growing political interference by the West does not merely underpin Putin’s decision to pursue a maximalist invasion aimed at toppling the Ukrainian leadership. It also helps explain why the invasion has gone, from his perspective, so badly. Convinced by their own propaganda that the government in Kyiv was a creation of the West and the Ukrainian far right, Putin and those around him assumed that it would collapse almost as soon as Russian troops crossed the border and that the Russians themselves would be widely embraced. Instead, the Russian operation has quickly foundered, while unifying the Ukrainian population against Moscow more strongly than ever.  
+
+
+Paradoxically, in framing its own political opposition, and that of all of its allies in the surrounding region, in color revolution terms, the Kremlin has led itself to embark on a disastrous war that may ultimately do more to undermine Putin’s support at home than any other event in his two decades in power."
+
