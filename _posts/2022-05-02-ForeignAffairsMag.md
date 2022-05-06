@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-05
+date: 2022-05-06
 from: https://old.reddit.com/r/TrueReddit/comments/uhhevb/revenge_of_the_patriarchs_why_autocrats_fear_women/
 layout: post
 tags:
@@ -61,4 +61,15 @@ Russian leaders, meanwhile, have dramatically shifted their framing of the war�
 
 
 Taken together, these developments constitute a dangerous new reality. Gone are the days when Russia’s war aims consisted solely of “de-Nazifying and demilitarizing” Ukraine. Also gone are the days when U.S. and allied governments limited their involvement to helping Ukraine defend its sovereignty and territorial integrity. Leaders on both sides of the conflict have now crossed a series of lines that cannot easily be uncrossed. The result is a new Cold War between Russia and its opponents—one that promises to be less global than its twentieth-century counterpart but also less stable and predictable."
+
+### 237: [The Trouble With “the Free World”: Why It’s a Bad Idea to Revive a Cold War Concept](https://old.reddit.com/r/geopolitics/comments/ujol5z/the_trouble_with_the_free_world_why_its_a_bad/), submitted on 2022-05-06 22:22:31+08:00.
+
+----- __237.1__ -----2022-05-06 22:23:22+08:00:
+
+\[SS from the article by Peter Slezkine, Postdoctoral Fellow at East China Normal University\]
+
+"The Russian invasion of Ukraine has revived the concept of “the free world.” On the day the attack began, Ukrainian President Volodymyr Zelensky appealed to “free world leaders” for support. In his State of the Union address on March 1, U.S. President Joe Biden emphasized “the resolve of the free world.” “The free world is united in its resolve,” echoed British Prime Minister Boris Johnson three days later.  
+
+
+The return of the free world may have consequences that transcend the realm of rhetoric. From the late 1940s through the mid-1960s, the American commitment to free world leadership resulted in a series of unintended policymaking constraints. Before we once again become captives of the concept, it would be wise to consider how a free world foreign policy functioned the first time around."
 
