@@ -103,7 +103,7 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 
 I wonder if Calli and/or Ollie might feature then, given how Cover seems to really be pushing EN and ID as being alongside JP these days. There's also Towa and potentially La+ in the mix too.
 
-That said, it's interesting that none of these three manga would have focussed on anyone post Gen 3, and I'm wondering if it's because they started production just *that* long ago or if there's some kind of cutoff before which Holomems wouldn't appear in certain HoloAlt projects.
+That said, it's interesting that none of these three manga would have focussed on anyone post Gen 3, and I'm wondering if it's because they started production just *that* long ago or if there's some kind of cutoff between debut and when Holomems could appear in certain HoloAlt projects.
 
 ### 407: [Why were there no sanctions/ consequences for Chinese annexation of Tibet in 1951, when Tibet declared independence from China in 1913? How does the Chinese annexation compare to the current war in Ukraine?](https://old.reddit.com/r/AskHistorians/comments/uk7vje/why_were_there_no_sanctions_consequences_for/), submitted on 2022-05-07 15:12:39+08:00.
 
