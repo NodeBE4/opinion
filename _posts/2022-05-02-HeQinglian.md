@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
@@ -1042,4 +1042,28 @@ Re @WEICHUNNNN @JiangShangrong 这问题很严肃吗？最开始确实很严肃�
 ### 257: [2022-05-08 01:27:42+08:00 推文](https://twitter.com/HeQinglian/status/1522991577828044802)
 
 Re @JiangShangrong 我一直希望当初的预言者展示一辆让我们看清楚所有权归属俄罗的坦克陷在泥里的照片，可惜迟迟未发现。大家都忘记这单事了。<br>我这人有个毛病，最喜欢关注细节。因此，今天在整理资料时，提醒我还有这神预言。脸书有女乌批评我关注细节是想证明乌鸡血傻，其实不是，只是想验证预言。战争毕竟不是艺术创作
+
+### 258: [2022-05-08 03:03:28+08:00 推文](https://twitter.com/HeQinglian/status/1523015678034292736)
+
+Re @JianglinLi @aMichaelHsu @JiangShangrong 很多骗局一眼就看穿了，不象这个还需要到乌克兰现场体验。<br>因此，我认为，骗子与受骗者是合谋关系，受骗者多数并非受害者。
+
+### 259: [2022-05-08 04:10:32+08:00 推文](https://twitter.com/HeQinglian/status/1523032556232392705)
+
+Re @JianglinLi @Wu_Zhi @Hannah98780539 说实话，左派的眼泪非常廉价，愤怒也非常廉价。因为完全是情绪，特别容易在群体活动中受感染。<br>比如个人裸舞，会有点不好意思。但在BLM运动中，哥大女生在纽约街头集体裸奔，还正义凛然状。
+
+### 260: [2022-05-08 04:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1523034089099784192)
+
+Re @RealBeiMing @JianglinLi @aMichaelHsu @JiangShangrong 以基辅幽灵为例，战斗机飞行员极耗体力，一人一天能击落几架敌机？按宣传，一天平均5-6架飞机，他就算是希腊神话中的宙斯之子，也没这体力。<br>更何况，当时俄罗斯已经取得制空权，幽灵从哪起飞，到哪加油补给养？
+
+### 261: [2022-05-08 04:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1523042576521220101)
+
+1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。 <a href="https://www.kylc.com/stats/global/yearly_overview/g_gdp.html" target="_blank" rel="noopener noreferrer">https://www.kylc.com/stats/global/yearly_overview/g_gdp.html</a>
+
+### 262: [2022-05-08 04:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1523043537608187911)
+
+Re @oldbeijingman 我从不照顾底层逻辑框架，也绝对不会为了屈从这点而说谎。<br>2017年郭粉们的底层逻辑框架，现在还有人在呕吐当年吃下的粪便。<br>我已经警告过乌粉们不要来我这。你自己离开吧。
+
+### 263: [2022-05-08 05:35:06+08:00 推文](https://twitter.com/HeQinglian/status/1523053835467444224)
+
+据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。
 
