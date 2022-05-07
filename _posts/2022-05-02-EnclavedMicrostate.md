@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-06
+date: 2022-05-07
 from: https://old.reddit.com/r/RWBY/comments/ug7txg/suisei_of_hololive_fame_brings_up_rwby_as_an/
 layout: post
 tags:
@@ -40,6 +40,10 @@ The thing of course is that these infantry blocks were mainly used to feed reser
 ----- __400.1__ -----2022-05-07 15:55:58+08:00:
 
 What's actually changing in practical terms? Speaking just superficially, my understanding is that in an agency arrangement, the agency takes a cut of the talents' revenues in exchange for providing centralised management, technical and marketing resources, while in a network, the network... takes a cut of the talents' revenues in exchange for providing centralised management, technical and marketing resources. Is it 'going indie' in the sense that all of the staff are leaving but the talents are retaining their IP and maintaining a mutual affiliation but without a management structure? And if there will still be staff, will they still be paid?
+
+----- __400.2__ -----2022-05-07 17:24:25+08:00:
+
+Cheers. Though it raises the question of what 'Aetheria' *is* at this stage when it says that it 'will represent these group members' – is it referring to some vestigial bit of staff carrying on in a pure volunteer capacity?
 
 ### 401: [Great Black Dragon](https://old.reddit.com/r/ChineseTranslation/comments/ugzvnt/great_black_dragon/), submitted on 2022-05-03 05:13:25+08:00.
 
@@ -92,4 +96,18 @@ Hi there - unfortunately we have had to remove your question, because [/r/AskHis
 If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 406: [Yooo it happened.](https://old.reddit.com/r/Hololive/comments/ujzvyu/yooo_it_happened/), submitted on 2022-05-07 07:09:52+08:00.
+
+----- __406.1__ -----2022-05-07 17:27:41+08:00:
+
+I wonder if Calli and/or Ollie might feature then, given how Cover seems to really be pushing EN and ID as being alongside JP these days. There's also Towa and potentially La+ in the mix too.
+
+That said, it's interesting that none of these three manga would have focussed on anyone post Gen 3, and I'm wondering if it's because they started production just *that* long ago or if there's some kind of cutoff before which Holomems wouldn't appear in certain HoloAlt projects.
+
+### 407: [Why were there no sanctions/ consequences for Chinese annexation of Tibet in 1951, when Tibet declared independence from China in 1913? How does the Chinese annexation compare to the current war in Ukraine?](https://old.reddit.com/r/AskHistorians/comments/uk7vje/why_were_there_no_sanctions_consequences_for/), submitted on 2022-05-07 15:12:39+08:00.
+
+----- __407.1__ -----2022-05-07 16:51:12+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
