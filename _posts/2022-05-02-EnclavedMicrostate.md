@@ -35,15 +35,21 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 The thing of course is that these infantry blocks were mainly used to feed reserves into skirmish lines that performed the bulk of the firing, and to move in with the bayonet once the enemy formation was sufficiently depleted that it could be driven off the field. If you were going to be firing, you'd either send a skirmish force ahead, or form out in lines if you were trying to maximise fire. Blocks are not good for shooty action.
 
-### 400: [Great Black Dragon](https://old.reddit.com/r/ChineseTranslation/comments/ugzvnt/great_black_dragon/), submitted on 2022-05-03 05:13:25+08:00.
+### 400: [Abrahamic Apex Allegory - Weekly Discussion Thread, May 2nd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/ugw80c/abrahamic_apex_allegory_weekly_discussion_thread/), submitted on 2022-05-03 02:28:05+08:00.
 
------ __400.1__ -----2022-05-03 17:27:07+08:00:
+----- __400.1__ -----2022-05-07 15:55:58+08:00:
+
+What's actually changing in practical terms? Speaking just superficially, my understanding is that in an agency arrangement, the agency takes a cut of the talents' revenues in exchange for providing centralised management, technical and marketing resources, while in a network, the network... takes a cut of the talents' revenues in exchange for providing centralised management, technical and marketing resources. Is it 'going indie' in the sense that all of the staff are leaving but the talents are retaining their IP and maintaining a mutual affiliation but without a management structure? And if there will still be staff, will they still be paid?
+
+### 401: [Great Black Dragon](https://old.reddit.com/r/ChineseTranslation/comments/ugzvnt/great_black_dragon/), submitted on 2022-05-03 05:13:25+08:00.
+
+----- __401.1__ -----2022-05-03 17:27:07+08:00:
 
 In my view 黑 would also work – the Amur River, for instance, is also known as 黑龍江, so there's plenty of precedent for just using that. Also, seeing as it's supposed to be in Cantonese, tonally I'd argue *dai6 hak1 lung4* sounds better than *dai6 jyun4 lung4* – the latter has three low held tones while the former has a nice low-high-low contour.
 
-### 401: [Tuesday Trivia: Asia! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/uhehzu/tuesday_trivia_asia_this_thread_has_relaxed/), submitted on 2022-05-03 20:01:41+08:00.
+### 402: [Tuesday Trivia: Asia! This thread has relaxed standards—we invite everyone to participate!](https://old.reddit.com/r/AskHistorians/comments/uhehzu/tuesday_trivia_asia_this_thread_has_relaxed/), submitted on 2022-05-03 20:01:41+08:00.
 
------ __401.1__ -----2022-05-03 21:01:25+08:00:
+----- __402.1__ -----2022-05-03 21:01:25+08:00:
 
 I did plan this week to write something original but didn't make the time in the end, so, er, it's repost time again! Yay!
 
@@ -61,15 +67,15 @@ This was not the only portrait the emperor had made of himself in imitation Fren
 
 Most of the above is sourced from Sun Jing's chapter in Thijs Weststeijn (ed.), *Foreign Devils and Philosophers: Cultural Encounters between the Chinese, the Dutch, and Other Europeans, 1590-1800*.
 
-### 402: [Europe is confusing](https://old.reddit.com/r/Hololive/comments/uhyihr/europe_is_confusing/), submitted on 2022-05-04 12:26:36+08:00.
+### 403: [Europe is confusing](https://old.reddit.com/r/Hololive/comments/uhyihr/europe_is_confusing/), submitted on 2022-05-04 12:26:36+08:00.
 
------ __402.1__ -----2022-05-04 19:36:17+08:00:
+----- __403.1__ -----2022-05-04 19:36:17+08:00:
 
 ...Austrian, surely?
 
-### 403: [I can't recall the name of two sibling rulers in premodern Japan history?](https://old.reddit.com/r/AskHistorians/comments/ujhabj/i_cant_recall_the_name_of_two_sibling_rulers_in/), submitted on 2022-05-06 14:34:26+08:00.
+### 404: [I can't recall the name of two sibling rulers in premodern Japan history?](https://old.reddit.com/r/AskHistorians/comments/ujhabj/i_cant_recall_the_name_of_two_sibling_rulers_in/), submitted on 2022-05-06 14:34:26+08:00.
 
------ __403.1__ -----2022-05-06 15:00:45+08:00:
+----- __404.1__ -----2022-05-06 15:00:45+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -77,9 +83,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 404: [What were the internal policy reforms implemented by Louis xiv?](https://old.reddit.com/r/AskHistorians/comments/ujhl3f/what_were_the_internal_policy_reforms_implemented/), submitted on 2022-05-06 14:56:21+08:00.
+### 405: [What were the internal policy reforms implemented by Louis xiv?](https://old.reddit.com/r/AskHistorians/comments/ujhl3f/what_were_the_internal_policy_reforms_implemented/), submitted on 2022-05-06 14:56:21+08:00.
 
------ __404.1__ -----2022-05-06 15:00:54+08:00:
+----- __405.1__ -----2022-05-06 15:00:54+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 

@@ -386,3 +386,11 @@ I'm not saying historical minis are better, but they are. There's no being tied 
 
 You will be painting the *Grande Armee* day in, day out, young man, and you are going to *like* it! Or else.
 
+----- __396.4__ -----2022-05-07 16:36:45+08:00:
+
+Dumb as that phrasing is, I have seen some serious suggestions that some of the COVID control measures and mechanisms that have been rolled out in China proper have been at least partly derived from systems employed in Xinjiang – near the end of [this article](https://madeinchinajournal.com/2022/04/22/covid-among-us-viral-mobilities-in-shenzhens-moral-geography/) for instance. Though even there it's not wholly sure what to make of it – is the Xinjiang model being replicated wholesale, or are Han Chinese cities and communities getting the 'lite' version of programmes whose full force is still targeted against ethnic minorities?
+
+----- __396.5__ -----2022-05-07 16:39:35+08:00:
+
+I know the illustrations for the original... quintilogy(? I think that's the word) gave him a kind of olivey skin tone so it's definitely not an unreasonable take.
+
