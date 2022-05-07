@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-06
+date: 2022-05-07
 from: https://twitter.com/puzhiqiang/status/1520969483350814720
 layout: post
 tags:
@@ -158,4 +158,12 @@ RT Li Yuan<br>What many Shanghai residents are experiencing doesn’t compare 
 ### 36: [2022-05-06 19:30:00+08:00 推文](https://twitter.com/GreatFireChina/status/1522539172656992256)
 
 RT GreatFire.org<br>“Social media censorship in China still relies a lot on human labor. It’s entirely possible that not all censors were motivated to keep up with their job at full speed.” - @Yangguobin <a href="https://www.wired.co.uk/article/shanghai-lockdown-china-censorship" target="_blank" rel="noopener noreferrer">https://www.wired.co.uk/article/shanghai-lockdown-china-censorship</a>
+
+### 37: [2022-05-07 04:02:20+08:00 推文](https://twitter.com/niubi/status/1522668105977237515)
+
+RT Bill Bishop<br>Caixin - China Floods Credit Into Industrial and Infrastructure Sectors <a href="https://www.caixinglobal.com/2022-05-07/china-floods-credit-into-industrial-and-infrastructure-sectors-101881484.html?rkey=4jojc%2BU9Dvtx7szsVUD%2BCvFL%2FE7ci4pK%2BWwpFSFzNjSK9A8UbNw%2FQg%3D%3D&amp;cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-05-07/china-floods-credit-into-industrial-and-infrastructure-sectors-101881484.html?rkey=4jojc%2BU9Dvtx7szsVUD%2BCvFL%2FE7ci4pK%2BWwpFSFzNjSK9A8UbNw%2FQg%3D%3D&amp;cxg=web&amp;Sfrom=twitter</a>
+
+### 38: [2022-05-07 14:50:24+08:00 推文](https://twitter.com/puzhiqiang/status/1522831196270387200)
+
+RT 浦志强<br>除了这行业，其他全停摆。核酸检测救国，拉动伟大复兴。对了，还有健康宝，高科技的引擎。<br><img style="" src="https://pbs.twimg.com/media/FSIu4woVkAAavFl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSIu4wnVkAE1Kk7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSIu4xfVkAE963L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSIu4xfVgAAJTFi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
