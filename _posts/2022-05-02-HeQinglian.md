@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-07
+date: 2022-05-08
 from: https://twitter.com/HeQinglian/status/1520817679053070337
 layout: post
 tags:
@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -927,75 +927,119 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 中共当年也一样，少数权贵�
 
 Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多活了几天。
 
-### 229: [2022-05-07 21:50:22+08:00 推文](https://twitter.com/HeQinglian/status/1522936881918492675)
+### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
+
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
+
+### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
+
+RT jiang shangrong<br>🇨🇦曾一度被乌宣传忽悠蒙圈的加狙击手瓦利逃回家中,正以强势姿态接受加媒采访<br><br>采访亮点<br>-这战争完全是一场骗局<br>-多数雇佣兵都没有到过前线就回家<br>-乌军的指挥部不知如何处置雇佣军<br>-许多人被遗弃<br>-不提供武器和食物,须自己解决<br>-乌组欺诈计划窃美财政援助<br>-乌军选一小部雇佣军在俄军后方进行破坏活动<br><img style="" src="https://pbs.twimg.com/media/FSKMnU1WQAEuuke?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSKMnUxXwAY8-VK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 231: [2022-05-07 21:50:22+08:00 推文](https://twitter.com/HeQinglian/status/1522936881918492675)
 
 Re @Inayet1209 基本没看这家媒体。我做判断需要做三件事情：阅其文，至少三个月内的；看其在大事件上如何报道；知晓投资者。后一件事情需要 很扎实的证据。
 
-### 230: [2022-05-07 22:23:43+08:00 推文](https://twitter.com/HeQinglian/status/1522945274758545408)
+### 232: [2022-05-07 22:23:43+08:00 推文](https://twitter.com/HeQinglian/status/1522945274758545408)
 
 Re @mingshi_chen @Wu_Zhi 我一开始就知道打消耗战，资源与市场两头对外依赖的国家吃不消。<br>谈这些，乌鸡血不懂，一大拨比乌鸡血略理性些的乌粉，也一口咬定我偏执，以为有美国做后台，只要意念坚持（信息战假信息），就无往而不胜。<br>其实，美国这次的战争手段，全是中东阿富汗那些地方炼出来的，与美国超强军事实力并不匹配。
 
-### 231: [2022-05-07 22:26:59+08:00 推文](https://twitter.com/HeQinglian/status/1522946099828621313)
+### 233: [2022-05-07 22:26:59+08:00 推文](https://twitter.com/HeQinglian/status/1522946099828621313)
 
 Re @JianglinLi @LeafBodhi @Wu_Zhi 有个事实我需要验证：<br>3月开春后泥沼陷住俄罗斯坦克，到底陷住了多少辆？<br>当时，不少军专家与业余军专都谈过这点。<br>如果没陷住多少辆，以后别笑张召忠的海带缠住敌舰的创意，同类。
 
-### 232: [2022-05-07 22:29:43+08:00 推文](https://twitter.com/HeQinglian/status/1522946785601236993)
+### 234: [2022-05-07 22:29:43+08:00 推文](https://twitter.com/HeQinglian/status/1522946785601236993)
 
 Re @diegopan1974 他参选，民主党所愿，因为能够最大限度地再度建立反川同盟；<br>共和党比较惨一点，一是新人上不去，二是内部分裂依旧。<br>我现在比2020年平静多了，一国国运所系，自家亲儿女都不着急，外部人怎么急也没用。
 
-### 233: [2022-05-07 22:38:25+08:00 推文](https://twitter.com/HeQinglian/status/1522948975648772099)
+### 235: [2022-05-07 22:38:25+08:00 推文](https://twitter.com/HeQinglian/status/1522948975648772099)
 
 Re @mingshi_chen @Wu_Zhi 现在的问题是：<br>西方以为自己正确（其实是政治正确），但不断犯错。其中只有美国无所谓，因为资源市场对外依赖都不大，只要达成坚持到12月就行。<br>俄罗斯不能犯半点错，无论是战场还是国内。到现在为止，应付得不错。国内支持率提高，无西方希望的政变发生；经济挺住了。<br>我等会介绍经济学人的文章。
 
-### 234: [2022-05-07 22:52:56+08:00 推文](https://twitter.com/HeQinglian/status/1522952630137495554)
+### 236: [2022-05-07 22:52:56+08:00 推文](https://twitter.com/HeQinglian/status/1522952630137495554)
 
 Re @JianglinLi @LeafBodhi @Wu_Zhi 这些人从来不为自己将失误判断强加给别人的无礼与噪音道歉。<br>我这里来的乌鸡血，无一不因为这条信息而鸡血澎湃。
 
-### 235: [2022-05-07 22:54:04+08:00 推文](https://twitter.com/HeQinglian/status/1522952915434057730)
+### 237: [2022-05-07 22:54:04+08:00 推文](https://twitter.com/HeQinglian/status/1522952915434057730)
 
 Re @FranzMendelsso1 @JianglinLi @LeafBodhi @Wu_Zhi 乌克兰原来是俄国的，俄国人到比那些从来未到过乌克兰的中文推号更无知？
 
-### 236: [2022-05-07 22:57:11+08:00 推文](https://twitter.com/HeQinglian/status/1522953698867036160)
+### 238: [2022-05-07 22:57:11+08:00 推文](https://twitter.com/HeQinglian/status/1522953698867036160)
 
 俄罗斯经济重新站稳脚跟<br><br>1、在资本管制和高利率的帮助下，卢布价值坚挺<br>2、俄的封闭经济体特点与能源出口限制了制裁的影响。芬兰能源与清洁空气研究中心表示，自2月下旬以来，俄出口了至少 650 亿美元的化石燃料<br>3、一些经济学家不再坚持此前的预测：俄今年GDP下降高达 15% 。 <a href="https://www.economist.com/finance-and-economics/2022/05/07/russias-economy-is-back-on-its-feet" target="_blank" rel="noopener noreferrer">https://www.economist.com/finance-and-economics/2022/05/07/russias-economy-is-back-on-its-feet</a>
 
-### 237: [2022-05-07 23:06:13+08:00 推文](https://twitter.com/HeQinglian/status/1522955970560802816)
+### 239: [2022-05-07 23:06:13+08:00 推文](https://twitter.com/HeQinglian/status/1522955970560802816)
 
 Re 以下是我的观察：<br>俄乌战争以来三大被公认的预测破产：<br>1、3月开春，俄罗斯坦克将被冒浆的泥沼陷住因而无法战斗；<br>2、俄罗斯将因西方全面制裁而经济破产，GDP至少将下降15%；<br>3、俄罗斯反对派将发动政变，普京必将（拜登与英相强生说必须）下台。<br>但西方出现了高通胀，美国经济增长-1.4%，陷入滞胀。
 
-### 238: [2022-05-07 23:07:36+08:00 推文](https://twitter.com/HeQinglian/status/1522956321406222337)
+### 240: [2022-05-07 23:07:36+08:00 推文](https://twitter.com/HeQinglian/status/1522956321406222337)
 
 Re 结论：<br>美国觉醒派政府当家，到哪里，哪里就衰败，无论内政还是外交。
 
-### 239: [2022-05-07 23:08:52+08:00 推文](https://twitter.com/HeQinglian/status/1522956636813463553)
+### 241: [2022-05-07 23:08:52+08:00 推文](https://twitter.com/HeQinglian/status/1522956636813463553)
 
 Re @FranzMendelsso1 @JianglinLi @LeafBodhi @Wu_Zhi 问题是：时间相差大半个世纪，乌克兰修建了公路网。总不能刻舟求剑吧？
 
-### 240: [2022-05-07 23:12:18+08:00 推文](https://twitter.com/HeQinglian/status/1522957501649543169)
+### 242: [2022-05-07 23:12:18+08:00 推文](https://twitter.com/HeQinglian/status/1522957501649543169)
 
 Re @FranzMendelsso1 @JianglinLi @LeafBodhi @Wu_Zhi 你总得让人家不断打鸡血吧？<br>我非常理解他们为什么要不断注射鸡血。别来我这污染就行。<br>乌粉就算了，憋屈几天，也就过去了。鸡血们一口气上不来，后果很严重：不给我们想要的，我们就毁了这世界；或者就仿效乌驻德大使：不给我们想要的一切，就在国会门廊里拉屎——我这园子被他们惦记上了。
 
-### 241: [2022-05-07 23:17:25+08:00 推文](https://twitter.com/HeQinglian/status/1522958788436844544)
+### 243: [2022-05-07 23:17:25+08:00 推文](https://twitter.com/HeQinglian/status/1522958788436844544)
 
 Re @lousiuanb 你是专研俄罗斯经济还是国际经济？<br>或者专研经济制裁？<br>如果都不是，多看少说，更好。
 
-### 242: [2022-05-07 23:18:45+08:00 推文](https://twitter.com/HeQinglian/status/1522959124790755328)
+### 244: [2022-05-07 23:18:45+08:00 推文](https://twitter.com/HeQinglian/status/1522959124790755328)
 
 Re @Ceiling1952 人家自称觉醒派。
 
-### 243: [2022-05-07 23:21:46+08:00 推文](https://twitter.com/HeQinglian/status/1522959886237462529)
+### 245: [2022-05-07 23:21:46+08:00 推文](https://twitter.com/HeQinglian/status/1522959886237462529)
 
 Re @lousiuanb 港台这次分析俄乌战争的一切，就姑妄听之吧。<br>他们学习的榜样是美国与西方。
 
-### 244: [2022-05-07 23:23:00+08:00 推文](https://twitter.com/HeQinglian/status/1522960197366562816)
+### 246: [2022-05-07 23:23:00+08:00 推文](https://twitter.com/HeQinglian/status/1522960197366562816)
 
 Re @niming1990 选择退出是可以，但欧盟不能开除成员国。
 
-### 245: [2022-05-07 23:24:30+08:00 推文](https://twitter.com/HeQinglian/status/1522960574052712449)
+### 247: [2022-05-07 23:24:30+08:00 推文](https://twitter.com/HeQinglian/status/1522960574052712449)
 
 Re @liqunchen 部分同意。但我想说，是一批猪在治理世界。
 
-### 246: [2022-05-07 23:30:00+08:00 推文](https://twitter.com/HeQinglian/status/1522961957208432642)
+### 248: [2022-05-07 23:30:00+08:00 推文](https://twitter.com/HeQinglian/status/1522961957208432642)
 
 Re @JiangShangrong 这图片不是原文配的，好玩。<br>另外求证：<br>俄乌战争以来第一大神预言：开春后乌克兰平原将冒浆，陷住俄罗斯坦克，我想问，到底陷住了多少辆？😂
+
+### 249: [2022-05-08 00:19:26+08:00 推文](https://twitter.com/HeQinglian/status/1522974396553609216)
+
+Re @wentou6666 如此甚为聪明，做最后一批知道的人。
+
+### 250: [2022-05-08 00:24:11+08:00 推文](https://twitter.com/HeQinglian/status/1522975594660917249)
+
+Re @TpW8LAXV31AQyEm 信息战说：乌克兰还在顽强抵抗，俄军损失惨重；美国与欧盟武器源源不断运住乌克兰；俄罗斯人经济境况悲惨；昨天乌克兰击沉俄一般什么舰。<br>因为他们说，俄罗斯要打闪电战，几天拿下基辅，结果没拿下，失败了。<br>愿意信，万事OK。
+
+### 251: [2022-05-08 00:48:59+08:00 推文](https://twitter.com/HeQinglian/status/1522981835726213120)
+
+Re @liweizhongright 美新成立的真理部（虚假信息部）可能将鉴定：《经济学人》这篇文章提供的是虚假分析，政治非常非常不正确。正在研究相关惩罚措施。🤣
+
+### 252: [2022-05-08 00:50:43+08:00 推文](https://twitter.com/HeQinglian/status/1522982270960873474)
+
+Re @TpW8LAXV31AQyEm 那你就继续保持信心。<br>俄拿下乌是个什么概念？全境占领？
+
+### 253: [2022-05-08 00:51:15+08:00 推文](https://twitter.com/HeQinglian/status/1522982403232391170)
+
+Re @TpW8LAXV31AQyEm 原来是郭粉。
+
+### 254: [2022-05-08 01:11:26+08:00 推文](https://twitter.com/HeQinglian/status/1522987481813164038)
+
+Re @hoboace94 疫情之前，经济非常好。<br>如果不是拜登政府胡搞，现在也不会滞胀。
+
+### 255: [2022-05-08 01:20:06+08:00 推文](https://twitter.com/HeQinglian/status/1522989662977024000)
+
+Re @Hannah98780539 Nothing to say——看到那女孩的悲痛与嚎啕状之后。<br>仔细一想，这类女孩是为美国减负：否则不到30岁，生出不同父亲的五六个娃，全得由美国纳税人供养。而且这女孩总不能将孩子全送往寄养家庭吧？<br>这一点，保守派别较劲了，让她们堕胎吧。
+
+### 256: [2022-05-08 01:21:58+08:00 推文](https://twitter.com/HeQinglian/status/1522990135570317312)
+
+Re @WEICHUNNNN @JiangShangrong 这问题很严肃吗？最开始确实很严肃，后来如同基辅幽灵一样，不太严肃——不，很不严肃，因为是虚假的。
+
+### 257: [2022-05-08 01:27:42+08:00 推文](https://twitter.com/HeQinglian/status/1522991577828044802)
+
+Re @JiangShangrong 我一直希望当初的预言者展示一辆让我们看清楚所有权归属俄罗的坦克陷在泥里的照片，可惜迟迟未发现。大家都忘记这单事了。<br>我这人有个毛病，最喜欢关注细节。因此，今天在整理资料时，提醒我还有这神预言。脸书有女乌批评我关注细节是想证明乌鸡血傻，其实不是，只是想验证预言。战争毕竟不是艺术创作
 

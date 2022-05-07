@@ -167,3 +167,7 @@ RT Bill Bishop<br>Caixin - China Floods Credit Into Industrial and Infrastruct
 
 RT 浦志强<br>除了这行业，其他全停摆。核酸检测救国，拉动伟大复兴。对了，还有健康宝，高科技的引擎。<br><img style="" src="https://pbs.twimg.com/media/FSIu4woVkAAavFl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSIu4wnVkAE1Kk7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSIu4xfVkAE963L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSIu4xfVgAAJTFi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 39: [2022-05-07 18:04:12+08:00 推文](https://twitter.com/noahbarkin/status/1522879968669224962)
+
+RT Noah Barkin 🇺🇦<br>Europeans are fed up with Chinese officials painting them as US poodles on issues they themselves feel strongly about. For some reason Beijing continues to do this - both in public &amp; private. Self defeating<br><br>Hua Chunying 华春莹: Le Yucheng: The #US is making Europe sacrifice while making a huge profit from the war.<br>
+
