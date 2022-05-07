@@ -45,7 +45,7 @@ In a bid to advance Chinese state narratives more credibly overseas, CCP media h
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 
-Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style="" src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-01-08 09:56:39+08:00 推文](https://twitter.com/cnmediaproject/status/1479633113131421696)
 
