@@ -53,7 +53,7 @@ Convergence at the Grassroots: An important piece by Stella Chen on press contro
 
 ### 10: [2022-04-26 20:20:53+08:00 推文](https://twitter.com/adamcathcart/status/1518928098888237056)
 
-RT Adam Cathcart<br>Duowei News no longer exists<br><br>Bill Bishop: Duowei has been shut down, no idea if for a specific article or something broader<br><br><img style="" src="https://pbs.twimg.com/media/FRRLz44WYAAAQbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://dwnews.com/" target="_blank" rel="noopener noreferrer">https://dwnews.com</a>
+RT Adam Cathcart<br>Duowei News no longer exists <a href="https://twitter.com/niubi/status/1518922346001747970" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1518922346001747970</a> <a href="https://www.cna.com.tw/news/acn/202204260275.aspx" target="_blank" rel="noopener noreferrer">https://www.cna.com.tw/news/acn/202204260275.aspx</a>
 
 ### 11: [2022-04-26 21:26:22+08:00 推文](https://twitter.com/CarlMinzner/status/1518944575511044098)
 
