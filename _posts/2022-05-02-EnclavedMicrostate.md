@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-07
+date: 2022-05-08
 from: https://old.reddit.com/r/RWBY/comments/ug7txg/suisei_of_hololive_fame_brings_up_rwby_as_an/
 layout: post
 tags:
@@ -120,4 +120,20 @@ This submission has been removed because it involves current events.  To keep fr
 ----- __408.2__ -----2022-05-08 04:25:29+08:00:
 
 That's 29 there; I also counted the four Calvin ones for 33. I forget which one I had counted to make 34 but I think it's her finished but unreleased collab with AmaLee.
+
+### 409: [Was "Not expanding Nato east" an underhanded recognition of the borders of the warshaw pact?](https://old.reddit.com/r/AskHistorians/comments/ul0d4q/was_not_expanding_nato_east_an_underhanded/), submitted on 2022-05-08 20:10:11+08:00.
+
+----- __409.1__ -----2022-05-08 21:35:08+08:00:
+
+This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
+
+### 410: [How accurate was the v-2 guided bomb?](https://old.reddit.com/r/AskHistorians/comments/ul1k64/how_accurate_was_the_v2_guided_bomb/), submitted on 2022-05-08 21:19:32+08:00.
+
+----- __410.1__ -----2022-05-08 21:36:04+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
