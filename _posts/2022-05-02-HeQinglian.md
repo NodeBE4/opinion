@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
@@ -929,7 +929,7 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多�
 
 ### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
 
-RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "
 
 ### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
 
@@ -1057,7 +1057,7 @@ Re @RealBeiMing @JianglinLi @aMichaelHsu @JiangShangrong 以基辅幽灵为例�
 
 ### 261: [2022-05-08 04:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1523042576521220101)
 
-1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。<br><br>Ezio Mao☢: 每月70亿美元，谁养得起……😅<br><br><img style="" src="https://pbs.twimg.com/media/FSIyd9VaIAA3eW0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/tjlyy009/status/1522435973082419201" target="_blank" rel="noopener noreferrer">https://twitter.com/tjlyy009/status/1522435973082419201</a>
+1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。 <a href="https://www.kylc.com/stats/global/yearly_overview/g_gdp.html" target="_blank" rel="noopener noreferrer">https://www.kylc.com/stats/global/yearly_overview/g_gdp.html</a>
 
 ### 262: [2022-05-08 04:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1523043537608187911)
 
@@ -1074,4 +1074,64 @@ Re @pandatress1 来源于世界银行。可去查对。<br>中国人大数字说
 ### 265: [2022-05-08 07:38:08+08:00 推文](https://twitter.com/HeQinglian/status/1523084800285888512)
 
 Re @OfcIQOD2XkWhsKt 美国没有用光，约20多天前说用掉三分之一，现在最多用掉一半，还可以再支持一段时间。
+
+### 266: [2022-05-08 07:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1523085908085719040)
+
+Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去看2000 Mules。尤其是六个摇摆州的法官，必须看，他们当中一些人是葬送美国民主宪政的帮凶。
+
+### 267: [2022-05-08 07:58:56+08:00 推文](https://twitter.com/HeQinglian/status/1523090035804983301)
+
+美国股市连续第五周下跌 <br><br>美国股市以小幅下跌结束了疯狂的一周，延续了跌势，拖累标普500指数创下逾10年来最长连续下跌周数。<br>全球原油基准布伦特原油期货本周上涨4.9%，至每桶112.39美元，延续了近期的涨势。<br>美联储加息不是万能的。 <a href="https://cn.wsj.com/articles/CN-MKT-20220507082043?reflink=desktopwebshare_twitter" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/CN-MKT-20220507082043?reflink=desktopwebshare_twitter</a>
+
+### 268: [2022-05-08 08:07:03+08:00 推文](https://twitter.com/HeQinglian/status/1523092075973312512)
+
+乌战帮助欧盟找到了自身定位：寻求自强 <br>当欧盟庆祝其72岁生日时，乌克兰的战争正在推动欧洲联盟彻底转型，要成为世界舞台上的一个强大角色。<br>评：学习冯德莱恩讲话之后，我终于明白：天将降大任于欧盟也，必先苦其心志，劳其筋骨……，目前所有的经济困难，都是对欧盟的磨炼 <a href="https://rfi.my/8OeT.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8OeT.T</a>
+
+### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
+
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
+
+### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
+
+Re @xiaxiaoqiang 教皇最近在乌粉中的评价经历了从天堂到地狱的转变：<br>前一向他谴责俄罗斯入侵乌克兰，全世界媒体欢呼，不少信教者认为这是上帝对普京的谴责，普京要进地狱了。<br>这条消息，让乌粉骂他：支持同性恋、向中国示好，是个坏家伙。
+
+### 271: [2022-05-08 08:29:52+08:00 推文](https://twitter.com/HeQinglian/status/1523097816930787329)
+
+公开信风波再发酵：多位名人联署支持武器援乌 <br>点评：前一封反对援乌的公开信签名者28人，这封信50多人，人数上支持者占优势。 <a href="https://p.dw.com/p/4ArEr?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4ArEr?maca=zh-Twitter-sharing</a>
+
+### 272: [2022-05-08 08:41:54+08:00 推文](https://twitter.com/HeQinglian/status/1523100848242536449)
+
+拜登告诫美情报官员，最近有关“美国与乌克兰共享情报”的“泄密性”新闻报道起到了“适得其反的作用”，“分散了美国在这场俄乌危机中的目标”，应该立即停止。 <a href="https://www.nbcnews.com/politics/national-security/biden-told-officials-media-reports-us-intel-sharing-ukraine-are-counte-rcna27738" target="_blank" rel="noopener noreferrer">https://www.nbcnews.com/politics/national-security/biden-told-officials-media-reports-us-intel-sharing-ukraine-are-counte-rcna27738</a>
+
+### 273: [2022-05-08 08:45:26+08:00 推文](https://twitter.com/HeQinglian/status/1523101737284153345)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi 这个结局，也在意料之中吧。<br>川普提名的那三位所谓保守派大法官，从进去之后的所作所为，断送了大法官的权威与尊严。他们既然守护不了美国选举制度，最后的结果是守护不了自己。<br>汤马斯大法官与阿利托等人，实在是孤掌难鸣。
+
+### 274: [2022-05-08 09:58:07+08:00 推文](https://twitter.com/HeQinglian/status/1523120029327187969)
+
+Re @Rainding45 就只有他那20%多的铁杆懂得他的心。
+
+### 275: [2022-05-08 09:59:08+08:00 推文](https://twitter.com/HeQinglian/status/1523120283569295360)
+
+Re @Wu_Zhi @JianglinLi @Tongzha15466409 @david_david1968 是废人还好，可惜是疯狂左棍。
+
+### 276: [2022-05-08 10:00:31+08:00 推文](https://twitter.com/HeQinglian/status/1523120632455897088)
+
+Re @letlWmQe87UnZvZ @JianglinLi @david_david1968 @Wu_Zhi 你讲的那种美国人，我在西部片子里看到过，比如《黄石公园》、《德州长子》。
+
+### 277: [2022-05-08 10:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1523123482456109056)
+
+Re @zhuxiuyuan 你说的是哪个年代的事情？是康德、黑格尔时代吧？
+
+### 278: [2022-05-08 10:14:30+08:00 推文](https://twitter.com/HeQinglian/status/1523124150998601730)
+
+Re @KavenWONG4 再放种新病毒出来，那么多生化实验室。
+
+### 279: [2022-05-08 10:18:15+08:00 推文](https://twitter.com/HeQinglian/status/1523125095430254592)
+
+Re @BzNx0 有你这样的华人，准备学着变性吧。
+
+### 280: [2022-05-08 10:19:22+08:00 推文](https://twitter.com/HeQinglian/status/1523125374187712512)
+
+Re @zhuxiuyuan 另外，德国人现在还在接难民吧？因为认准了一件事情，必须干下去。
 
