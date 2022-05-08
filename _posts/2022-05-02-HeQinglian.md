@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
@@ -929,7 +929,7 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多�
 
 ### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
 
-RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "
 
 ### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
 
@@ -1065,7 +1065,7 @@ Re @oldbeijingman 我从不照顾底层逻辑框架，也绝对不会为了屈�
 
 ### 263: [2022-05-08 05:35:06+08:00 推文](https://twitter.com/HeQinglian/status/1523053835467444224)
 
-据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。<br><br>美国之音中文网: 塔利班再度命令阿富汗妇女在公开场合遮面<br> <a href="http://dlvr.it/SPxn67" target="_blank" rel="noopener noreferrer">http://dlvr.it/SPxn67</a>
+据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。
 
 ### 264: [2022-05-08 05:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1523056629234618369)
 
@@ -1089,7 +1089,7 @@ Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去�
 
 ### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
 
-欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？
 
 ### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
 
@@ -1135,27 +1135,59 @@ Re @BzNx0 有你这样的华人，准备学着变性吧。
 
 Re @zhuxiuyuan 另外，德国人现在还在接难民吧？因为认准了一件事情，必须干下去。
 
-### 281: [2022-05-08 20:29:33+08:00 推文](https://twitter.com/HeQinglian/status/1523278933440958467)
+### 281: [2022-05-08 18:16:03+08:00 推文](https://twitter.com/JiangShangrong/status/1523245337594540033)
+
+RT jiang shangrong<br>外国雇佣军在乌服役只是“寻找冒险”.乌海军陆战队36独立旅被俘指挥官 Vladimir Baranyuk说,他手下有俩英国人.但他不明白他们为何来参战:“他们说:在这我们想,比如,服下役.老实说,这些人的动机是惊人的.为了什么?意义?不能在别处赚钱吗?他们说:不,这里…我们探险.我说意义何在? <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a><br><video src="https://video.twimg.com/ext_tw_video/1523244943925469191/pu/vid/1280x720/Qiwu2k5XEAa0Dgv2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1523244943925469191/pu/img/xC-s-v1xwTzPqpGf.jpg"></video>
+
+### 282: [2022-05-08 20:29:33+08:00 推文](https://twitter.com/HeQinglian/status/1523278933440958467)
 
 Re @zhuxiuyuan 我这讨论圈里有几个德国华人，在德国生活了几十年，那一半都不是华人。她们受过的教育都高，对德国相当了解，而且不是从网络与纸面上。
 
-### 282: [2022-05-08 20:39:28+08:00 推文](https://twitter.com/HeQinglian/status/1523281430171639810)
+### 283: [2022-05-08 20:39:28+08:00 推文](https://twitter.com/HeQinglian/status/1523281430171639810)
 
 Re @JianglinLi 罗伯特法官这样对比：贝佐斯2020年5月底第一时间支持BLM，但BLM还是将断头台放到家门口长达几十天。这样对咱已经算客气之极，说明内心还是将咱当自己人看的——如此一想，顿时如寒冬一杯热咖啡，浑身通泰，暖洋洋的。
 
-### 283: [2022-05-08 20:47:34+08:00 推文](https://twitter.com/HeQinglian/status/1523283468376965120)
+### 284: [2022-05-08 20:47:34+08:00 推文](https://twitter.com/HeQinglian/status/1523283468376965120)
 
 Re @reaper_spring 不知道，没看。这是台湾某视频委托他帮忙做的，名单是委托者开列的。<br>我也没接受对方的采访要求。如今在台湾，不好说话，那是信息战的中文大本营之一。基辅幽灵、蛇岛勇士、普京会被政变、生病交权，所有谣言，都照转不误。俄军强奸的乌克兰人，从3个月到70岁，这些消息都有，有机会我会好好说道一下。
 
-### 284: [2022-05-08 20:50:38+08:00 推文](https://twitter.com/HeQinglian/status/1523284238287912961)
+### 285: [2022-05-08 20:50:38+08:00 推文](https://twitter.com/HeQinglian/status/1523284238287912961)
 
 Re @mingshi_chen 因缘际会，正好邻居被他人惦记多年了，邻居家当家人今年正好要续约，需要这个角。
 
-### 285: [2022-05-08 20:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1523285319696916481)
+### 286: [2022-05-08 20:54:56+08:00 推文](https://twitter.com/HeQinglian/status/1523285319696916481)
 
 Re @JianglinLi @HanKhan9202 不划算。<br>1、要做就得做第一个下跪的人，这风头被南希抢去了。时隔几年再跪，不见好。<br>2、南希是在安全之地下跪，BLM又不能跑进去插牌子，纠正跪的姿势。他在门口下跪，如果有几个革命群众犯浑，出现文革时斗争走资派的险情，后果不好。<br>一尊啥时看到皇父当年文革被羞辱的照片，心里都不会好过。
 
-### 286: [2022-05-08 20:59:18+08:00 推文](https://twitter.com/HeQinglian/status/1523286421745770497)
+### 287: [2022-05-08 20:59:18+08:00 推文](https://twitter.com/HeQinglian/status/1523286421745770497)
 
 G7峰会 凸显欧美对泽连斯基团结支持 <br>看到这条消息，我觉得泽总每月70亿援助要求会打个折落到实处了。<br>IMF与世行两钱袋掌柜前一向回报的价是每月40亿，先给三个月，不知泽总是否看得上？<br>我昨天算了一下，世界最后25-30个国家的年GDP总和就这么多。 <a href="https://rfi.my/8On8.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8On8.T</a>
+
+### 288: [2022-05-08 21:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1523291398560174082)
+
+Re @Wu_Zhi @RFI_Cn 这事儿这样看吧：如果让本国男性公民去打仗，可能会导致反战运动，选票流失。让乌国打仗，多出点钱，本国公民想想“正义无价”，也就忍了。反正是通胀掠夺，又没从国民口袋里直接划拉钱。
+
+### 289: [2022-05-08 21:20:56+08:00 推文](https://twitter.com/HeQinglian/status/1523291866099499008)
+
+Re @zhuxiuyuan 你的业务做得那么大，还有时间刷推，不容易。
+
+### 290: [2022-05-08 21:28:12+08:00 推文](https://twitter.com/HeQinglian/status/1523293692139819008)
+
+Re @reaper_spring @Com90ti62353b 这货，注册了逾百推号，我每天都拉黑几个。<br>是个变态女。
+
+### 291: [2022-05-08 22:09:52+08:00 推文](https://twitter.com/HeQinglian/status/1523304177778425856)
+
+Re @mingdao_li @RFI_Cn 西方也有钱在俄罗斯那里。<br>大不了再将资源价格提高点。<br>不要只算自家合适的那本帐，帐得分两说。
+
+### 292: [2022-05-08 22:10:41+08:00 推文](https://twitter.com/HeQinglian/status/1523304386138710019)
+
+Re @Leila84000932 @franktianxie 左派惦记的是正常人家的儿女。
+
+### 293: [2022-05-08 22:56:54+08:00 推文](https://twitter.com/HeQinglian/status/1523316016599781383)
+
+Re @mingdao_li @RFI_Cn 美国那是名儿，其实，只是中期选举，人家说过，坚持到时12月。<br>赢了，美国是拜登与民主党的，继续折腾。输了，折腾不动了，1月新国会诞生，就不需要再打了。<br>贵国不也是折腾到连任。权力延续比天还大。
+
+### 294: [2022-05-08 23:14:52+08:00 推文](https://twitter.com/HeQinglian/status/1523320537371627531)
+
+中国经济要躺平：<br>据日本野村银行估计，目前有45座城市的3.73亿人处于某种形式的封控之下，约占全国人口的三分之一，每年贡献约7.2万亿美元的国内生产总值。<br>中国的一些抗疫手段与经济增长预期之间的矛盾越来越大，中国人为失去行动自由、生活失常而焦虑，西方则担忧供应链紧张加剧通胀。
 
