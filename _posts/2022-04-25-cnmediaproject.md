@@ -41,7 +41,7 @@ RT Manya Koetse<br>Over the past two days more Shanghai communities have been 
 
 ### 7: [2022-04-26 09:19:32+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1518761664484712448)
 
-RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.<br><br>Global Times: #Tesla generated $4.65 billion in China in Q1, 2022, a year-on-year increase of 52.8%. China is now Tesla's second-largest market, accounting for 24.8% of the company's revenue.<br><br><img style="" src="https://pbs.twimg.com/media/FROvxzCaUAEyc-W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT China Law Translate<br>Just a normal tweet. <br>Unrelated to anything else you may see in the news today.<br>Just transmitting positive energy.
 
 ### 8: [2022-04-26 10:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1518772098163957761)
 
@@ -61,7 +61,7 @@ RT Carl Minzner<br>*Zilch* on China's 7pm 4/26 evening news re: Beijing's city
 
 ### 12: [2022-04-27 01:58:16+08:00 推文](https://twitter.com/CarlMinzner/status/1519013003420651526)
 
-RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...<br><br>Bill Bishop: China’s President Xi Jinping has told officials to ensure the country’s economic growth outpaces the U.S.’s this year even as its economy&nbsp;sags under Covid-19<br> <a href="https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-pushing-to-beat-the-u-s-in-gdp-growth-despite-covid-lockdowns-11650976212</a>
+RT Carl Minzner<br>Combine this w/demand that China:<br>a) impose lockdown after lockdown to demonstrate success of Xi's covid-zero policies<br>b) maintain pro-Russia stance b/c of Xi's deal w/Putin<br><br>Core national policies in China starting to veer on whim of single leader<br><br>Last time this happened was...
 
 ### 13: [2022-04-27 09:59:01+08:00 推文](https://twitter.com/cnmediaproject/status/1519133987540664321)
 
