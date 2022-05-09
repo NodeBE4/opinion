@@ -19,3 +19,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 RT Jerome Taylor<br>Hong Kong's population: 7.5 million<br><br>Number who voted for John Lee: 1,416<br><img style="" src="https://pbs.twimg.com/media/FSSUTXWaUAAuCBn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 2: [2022-05-09 16:47:45+08:00 推文](https://twitter.com/jojjeols/status/1523585501374328832)
+
+RT Jojje Olsson<br>Trodde du att Kinas "nolltolerans" mot Covid-19 snart upphör, på grund av allmänt missnöje och ekonomiska konsekvenser? Sakta i backarna! Läs istället vad som sägs vid politbyråns toppmöten och skrivs i partimedierna, här översatt av @cnmediaproject. <a href="https://kinamedia.se/2022/05/08/cementering-av-dynamisk-nolltolerans-mot-covid-19/" target="_blank" rel="noopener noreferrer">https://kinamedia.se/2022/05/08/cementering-av-dynamisk-nolltolerans-mot-covid-19/</a>
+
