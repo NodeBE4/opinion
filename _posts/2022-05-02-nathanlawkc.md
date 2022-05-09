@@ -25,9 +25,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 Re 3. In 2015, He was seen standing in front of a rally in support of Xi Jinping's visit. He had explained his role there as a mediating one but such claim has been questioned by many. <a href="https://www.independent.co.uk/news/uk/politics/alex-yip-conservative-councillor-accused-of-helping-organise-prochinese-demonstrations-during-state-visitl-a6708551.html?fbclid=IwAR012VD0LGi0FomgzUsRQXK7x7ACjlVbwDxHPMc0SoHiQWM6d99w4M9AQFU" target="_blank" rel="noopener noreferrer">https://www.independent.co.uk/news/uk/politics/alex-yip-conservative-councillor-accused-of-helping-organise-prochinese-demonstrations-during-state-visitl-a6708551.html?fbclid=IwAR012VD0LGi0FomgzUsRQXK7x7ACjlVbwDxHPMc0SoHiQWM6d99w4M9AQFU</a>
 
-### 3: [2022-05-03 21:33:48+08:00 推文](https://twitter.com/nathanlawkc/status/1521483162001547271)
+### 3: [2022-05-03 21:33:48+08:00 推文](https://twitter.com/nathanlawkc/status/1521483163868012550)
 
-Re 4. He was part of the British Chinese Project founded by Christine Lee. The MI5 released an unprecedented warning, alleging Lee acted covertly with the United Front Work Department of the CCP, and is "judged to be involved in political interference activities in the UK“.
+Re 5. The real purpose of Christine Lee’s BCP is now under fierce scrutiny as it is believed to be an infiltration project from the CCP. He left the project when he was elected in 2017. After he left the BCP, he continued to have close connections with Lee. <a href="https://find-and-update.company-information.service.gov.uk/company/07233413/officers" target="_blank" rel="noopener noreferrer">https://find-and-update.company-information.service.gov.uk/company/07233413/officers</a>
 
 ### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483166116163586)
 
@@ -37,9 +37,9 @@ Re 6. He hosted an event in 2018 and invited Christine Lee. He was photographed 
 
 Re 9. Still, until now, he refuses to explain his relationship with Christine Lee. His connection with Lee is a matter of public interest. By hiding behind closed doors and refusing to clarify on this matter is disappointing and worrying to the voters and the Hongkongers community.
 
-### 6: [2022-05-03 21:33:51+08:00 推文](https://twitter.com/nathanlawkc/status/1521483173993095168)
+### 6: [2022-05-03 21:33:51+08:00 推文](https://twitter.com/nathanlawkc/status/1521483176023105538)
 
-Re 10. This is especially in the interest of Hongkongers who are living in fear of Beijing’s long arm persecutions and interference. We must ask questions when we see politicians like Alex Yip who seemingly have close ties with the CCP, and raise the alarm.
+Re 11. If he indeed goes for a case, it will be a long and exhausting legal fight from my end. But I am a strong believer of accountability and free speech. I will continue to question the people and organizations that are allegedly associated with united fronts activities.
 
 ### 7: [2022-05-03 21:33:52+08:00 推文](https://twitter.com/nathanlawkc/status/1521483177809915904)
 
