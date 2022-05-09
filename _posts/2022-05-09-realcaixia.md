@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-05-09
+date: 2022-05-10
 from: https://twitter.com/realcaixia/status/1523337217032298501
 layout: post
 tags:
@@ -145,7 +145,7 @@ Re @tlzhlyq 我和毛新宇同班同学。党校招考博士研究生很严格�
 
 ### 33: [2022-05-09 20:46:36+08:00 推文](https://twitter.com/realcaixia/status/1523645612666761216)
 
-中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产<br><br>美国驻华使领馆 US MissionCN: 五角大楼新闻秘书@PentagonPresSec：2022年4月20日，美国国防部长@SecDef与中华人民共和国国防部长通话。中华人民共和国国防部发布的会后汇报错误地宣称“the United States adheres to the one-China principle”（美国坚持一个中国原则<br> <a href="http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm" target="_blank" rel="noopener noreferrer">http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm</a> <a href="https://twitter.com/DeptofDefense/status/1522322906319044608" target="_blank" rel="noopener noreferrer">https://twitter.com/DeptofDefense/status/1522322906319044608</a>
+中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产
 
 ### 34: [2022-05-09 21:07:43+08:00 推文](https://twitter.com/realcaixia/status/1523650927336382465)
 
@@ -165,5 +165,21 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。
+
+### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
+
+Re @KeepBeer 问我的话，我的情况是家里有马恩全集和新版老版马恩选集4卷本，《资本论》3卷我啃读过一遍半，第一遍3卷通读了一遍，第二遍时只读了第一第二两卷，第三卷没有读。那是我1984-86年间读的，共产党宣言，不下几十遍，马恩选集四卷本没有通读，把各卷主要文章读了。有些选集里是节选，我再去全集里读全文。
+
+### 40: [2022-05-10 02:15:12+08:00 推文](https://twitter.com/realcaixia/status/1523728305970548736)
+
+Re @KeepBeer 家里藏书。列宁选集4卷本我有，斯大林选集上下本，只有上，我没有下。读书的仅从文字表达，马克思的文章很有激情文采，恩格里沉静理性更多一些。列宁的晦涩绕圈子，大段大段引用前俄国社会民主党内不同派别在会议上发言，能绕晕了不知是列宁自己的话，还是继续在引用别人的话。
+
+### 41: [2022-05-10 02:16:24+08:00 推文](https://twitter.com/realcaixia/status/1523728609755615233)
+
+Re @KeepBeer 恩格斯，上面写错了，不是恩格里。
+
+### 42: [2022-05-10 02:25:50+08:00 推文](https://twitter.com/realcaixia/status/1523730981379018752)
+
+Re @UGy9oNugsWfeYes 这个文件我不知道。
 
