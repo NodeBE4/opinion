@@ -175,3 +175,15 @@ Re @CrabNJ @plus07253487 共产主义不是建立在逻辑推理上的。
 
 Re @Docjx1 @KELMAND1 芬兰智库能源与清洁空气研究中心数据显示，自2月24日以来，俄罗斯通过运输和管道出口了至少价值650亿美元的化石燃料。<br>天然气供应，欧盟以前有个数据，说是为俄提供子弹，2月24日以来，每天为天然气付费2亿欧。现在秘密行事，不知道。<br>如果旧约到期续约之时，可重新定价。
 
+### 41: [2022-05-09 16:30:41+08:00 推文](https://twitter.com/KELMAND1/status/1523581209712164865)
+
+RT Ezio Mao☢<br>“谁应对乌克兰的战争负责？” - 欧洲国家调查<br>蓝色 - 北约，红色 - 俄罗斯，黄色 - 同样<br><img style="" src="https://pbs.twimg.com/media/FSTYtxpacAEysX0?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 42: [2022-05-09 20:42:03+08:00 推文](https://twitter.com/Rasmussen_Poll/status/1523644468238622720)
+
+RT Rasmussen Reports<br>"... an election observer who contracted with the NRSC during the Georgia Senate runoff and observed what looked to him to be ballot harvesting occurring and reported such to the NRSC. He claimed that the @NRSC  did nothing about the report." <a href="https://redstate.com/jenvanlaar/2022/05/09/after-2000-mules-premiere-true-the-vote-promises-to-pull-the-ripcord-and-release-all-the-data-n561949" target="_blank" rel="noopener noreferrer">https://redstate.com/jenvanlaar/2022/05/09/after-2000-mules-premiere-true-the-vote-promises-to-pull-the-ripcord-and-release-all-the-data-n561949</a>
+
+### 43: [2022-05-09 21:03:52+08:00 推文](https://twitter.com/HeQinglian/status/1523649956849938432)
+
+英媒：如果普京骤逝谁会接班？ <br>话说，这类希望普京骤逝的信息越多，就越反应出西方国家对普京的害怕与无可奈何。<br>这是欧洲女巫施咒及中国古代宫廷扎小人诅咒的变种。<br>西方政界舆论普遍认为俄罗斯现在最虚弱，那就倾北约之力、以美国为主，堂堂正正与普京决战。 <a href="https://rfi.my/8Oxd.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Oxd.T</a>
+
