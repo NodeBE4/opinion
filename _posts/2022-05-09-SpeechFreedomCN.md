@@ -27,3 +27,7 @@ Henan man Zhang, who posted over 100 pieces of info on Twitter that "attacked Ch
 
 Re Zhang's five Twitter accounts are @9RI1mjFjUpM1toU, @4UDF6HrfvZg5FBX, @zangf7, @rU9fqfowAfj8QaX and @zangf77. Based on the usernames of his accounts, his full name might be Zhang Yunjie (张运杰 in Chinese).
 
+### 4: [2022-05-09 11:49:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1523510319175245826)
+
+此图无需配文。<br><img style="" src="https://pbs.twimg.com/media/FSRhx0FXEAAyk3I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
