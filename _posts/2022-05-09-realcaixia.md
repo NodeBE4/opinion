@@ -127,3 +127,11 @@ Re @Chou82070880 请看我的最新视频，是台湾政经最前线的，程晓
 
 Re @Charlie01763800 同事。
 
+### 29: [2022-05-09 07:59:18+08:00 推文](https://twitter.com/realcaixia/status/1523452516020543488)
+
+Re @AndrickLi 中共特务吧？！
+
+### 30: [2022-05-09 09:02:23+08:00 推文](https://twitter.com/realcaixia/status/1523468389410230272)
+
+特别推荐：#议报发布  法学教授刘大力&nbsp;致上海市人大常委会建议信<br>不讲科学不顾民怨不计成本，顽固坚持清零封户封区危害民生，已有童之伟教授指出强制执行清零做法本身是违法行为，现又有刘大力教授发出紧急建议。上海学界精英忠于站出来发声了！ <a href="https://yibaochina.com/?p=246387" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246387</a>
+
