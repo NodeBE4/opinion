@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-05-10
+date: 2022-05-11
 from: https://twitter.com/realcaixia/status/1523337217032298501
 layout: post
 tags:
@@ -186,4 +186,8 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 ### 43: [2022-05-10 22:26:29+08:00 推文](https://twitter.com/realcaixia/status/1524033138153951232)
 
 极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。<br><br>荣剑: 上海自开埠以来，和平时期，从未遭遇如此人为之灾难。<br><br><img style="" src="https://pbs.twimg.com/media/FSUYQUdVUAArSMe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 44: [2022-05-11 04:59:52+08:00 推文](https://twitter.com/realcaixia/status/1524132136407605248)
+
+下面是我与程晓农老师在台湾《政经最前线》合作的一个视频。<br>前天我推特上写到在北大讲课的经历，是程老师问我，我当时没能回答的问题。可以说，前两天推特文是视频问题的继续。视频引发了我写了几个推特文。<br>特转推视频，看我推文存有疑问的，或许能获得相关信息。 <a href="https://youtu.be/Xyh3Wf01tRo" target="_blank" rel="noopener noreferrer">https://youtu.be/Xyh3Wf01tRo</a>
 
