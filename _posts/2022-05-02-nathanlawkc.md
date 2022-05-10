@@ -21,9 +21,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 1. Elected members are accountable to the public and should answer concerns from them. Instead, I received an email from @cllralexyip, who worked with Christine Lee in the BCR, requesting me to take down an article about his connections with Beijing to avoid “further steps.”
 
-### 2: [2022-05-03 21:33:47+08:00 推文](https://twitter.com/nathanlawkc/status/1521483157916246016)
+### 2: [2022-05-03 21:33:47+08:00 推文](https://twitter.com/nathanlawkc/status/1521483159908540420)
 
-Re 2. I posted this article on 27th April in Chinese, quoting many news articles and publicly available information to question  Alex Yip’s close connections to the united front activities. I made this comment with solid grounds: <a href="https://www.facebook.com/photo?fbid=570508737767134&amp;set=a.517027263115282" target="_blank" rel="noopener noreferrer">https://www.facebook.com/photo?fbid=570508737767134&amp;set=a.517027263115282</a>
+Re 3. In 2015, He was seen standing in front of a rally in support of Xi Jinping's visit. He had explained his role there as a mediating one but such claim has been questioned by many. <a href="https://www.independent.co.uk/news/uk/politics/alex-yip-conservative-councillor-accused-of-helping-organise-prochinese-demonstrations-during-state-visitl-a6708551.html?fbclid=IwAR012VD0LGi0FomgzUsRQXK7x7ACjlVbwDxHPMc0SoHiQWM6d99w4M9AQFU" target="_blank" rel="noopener noreferrer">https://www.independent.co.uk/news/uk/politics/alex-yip-conservative-councillor-accused-of-helping-organise-prochinese-demonstrations-during-state-visitl-a6708551.html?fbclid=IwAR012VD0LGi0FomgzUsRQXK7x7ACjlVbwDxHPMc0SoHiQWM6d99w4M9AQFU</a>
 
 ### 3: [2022-05-03 21:33:48+08:00 推文](https://twitter.com/nathanlawkc/status/1521483162001547271)
 
