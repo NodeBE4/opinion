@@ -93,3 +93,44 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 420: [What was the first account of the Gordians knot?](https://old.reddit.com/r/AskHistorians/comments/umipk2/what_was_the_first_account_of_the_gordians_knot/), submitted on 2022-05-10 21:27:12+08:00.
+
+----- __420.1__ -----2022-05-11 00:13:49+08:00:
+
+With the understanding that it is quite possible that a grasp of the source landscape will be part of the exercise, essay-wise, I think it best for me to keep it relatively short and simple, with a basic overview of Alexander sources and some reading recommendations for a more in-depth look at the problem. The first of these recommendations is Andrea Zambrini's chapter 'The Historians of Alexander the Great', in Volume 1 of John Marincola's *A Companion to Greek and Roman Historiography* (2007), which discusses the early historians of Alexander whose work has been lost; the second is ‪Elizabeth Baynham‬'s 'The Ancient Evidence for Alexander the Great', in Joseph Roisman's *Brill's Companion to Alexander the Great* (2003) (not to be confused with Kenneth Moore's *Brill's Companion to the Reception of Alexander the Great* (2018)), which begins with the lost historians and then goes into the surviving ones.
+
+To give the most general of overviews, there are, in effect, four broad types of Alexander source material:
+
+1. Surviving contemporary evidence such as epigraphy, the Babylonian temple records, and coins;
+2. Narrative histories, all surviving examples of which postdate Alexander by at least 250 years;
+3. Fragments, or in other words references to and quotations of otherwise-lost sources, typically found in works not specifically about Alexander; and
+4. Romances, i.e. largely fictional narratives in which Alexander is treated as a fantastical character.
+
+There are no 'perfect' sources for Alexander by any means, but it is essentially the case that most discussions of Alexander are necessarily framed around the core narrative histories of his reign, the surviving examples of which were largely composed between the second half of the first century BCE, and the first half of the second century CE. These are, in chronological order:
+
+* Book 17 of Diodoros of Sicily's *Library of History*, composed ca. 50-30 BCE;
+
+* Books 10-11 of Gnaeus Pompeius Trogus' *Philippic Histories*, composed ca. 20 BCE-10 CE, but surviving only as a summary by Justin ca. 200 CE;
+
+* Quintus Curtius Rufus' *History of Alexander the Great*, composed ca. 50 CE;
+
+* Plutarch's *Life of Alexander*, composed ca. 110-115 CE; and
+
+* Arrian of Nikomedia's *Anabasis of Alexander*, composed ca. 115-125 CE.
+
+There is also technically a sixth source known as the Metz Epitome although its value is relatively dubious and it is rarely ever brought up. 
+
+There are some relevant non-narrative sources such as Plutarch's essays *On the Fortune or Virtue of Alexander*, Arrian's *Indika*, and a series of fragmentary episodes within Books 15-17 of Strabo's *Geography*, but for the most part we rely on the above five, supplemented by the odd fragment or surviving contemporary source.
+
+The thing that the five core narrative sources have in common is of course their late authorship, but that does not imply an inherent unreliability. All five of these are derived, ultimately, from lost texts authored by what modern historians term the 'first-generation' Alexander historians, of whom Zambrini lists 10: Kallisthenes of Olynthos, Anaximenes of Lampsakos, Nearchos of Crete, Kleitarchos of Alexandria, Ptolemy son of Lagos, Aristoboulos of Kassandreia, Chares of Mytilene, Ephippos of Olynthos, Polykleitos of Larissa, and Medeios of Larissa. This isn't even the full list – for instance, it doesn't include Onesikritos of Astypalaia, who was one of the main sources on Alexander's Indian campaigns.
+
+The notion that more temporally proximate sources are necessarily more reliable is not a particularly sensible one, but it must be defenestrated with especial vigour in the case of Alexander thanks to the simple absence of the original 'first-generation' material. What we are dealing with are, for the most part, secondary sources written by historians with their own individual methodologies, influencing how the information in those lost sources has been transmitted to us. The various unique combinations of source material and authorial agenda in the corpus means that these surviving historians can vary in usefulness and probable accuracy, not just in terms of the works as a whole but also within the same work – Arrian, for instance, might narrate certain episodes reliably, but be completely off the mark on others.
+
+It does not help, of course, that these works often give contradictory or at least conflicting accounts of the same events when they overlap. Resolving such disputes is the realm of what is termed *Quellenforschung*, literally 'source research' – why and how does a given source say what it does, and with that in mind, how likely is it to be true – or closer to the truth – relative to the other sources on the same thing?
+
+To return to your original question, 'Is Quintus Curtius Rufus really the earliest source to mention the cutting of the Gordian Knot by Alexander the Great?' may be the question you *think* you want to ask, but the question you *actually* want to ask is, 'Where do the surviving sources on the Gordian Knot episode get *their* information from, how and how far do they alter that in the retelling, and how should the specifics of the event be understood in light of those factors?' To help you with that, there are three articles on the topic, given here in chronological order with each building on and responding to the one prior:
+
+* Ernest Fredericksmeyer, 'Alexander, Midas, and the Oracle at Gordium', *Classical Philology* 56:3 (1961)
+* Lynn E. Roller, 'Midas and the Gordian Knot', *Classical Antiquity* 3:2 (1984)
+* Mark H Munn, 'Alexander, the Gordian Knot, and the Kingship of Midas', in *Macedonian Legacies: Studies in Macedonian History and Culture in Honor of Eugene N. Borza* (2008)
+

@@ -275,3 +275,47 @@ Re @JiangShangrong @mingshi_chen BBC有些讲19世纪甚至更早的欧洲历史
 
 Re @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 怎么掩盖法？又怎能掩盖？<br>数年以前，欧洲媒体就报导过柏林警局抓当地卖淫窝点，里面就是类似乌克兰的铁链女，只是用的是绳子，绑住手脚，最小的只有十来岁。提供服务的方式是客户预约，然后将她们收拾打扮好送去。<br>最好连警局档案也销毁。
 
+### 66: [2022-05-10 22:14:29+08:00 推文](https://twitter.com/HeQinglian/status/1524030118179610626)
+
+Re @KELMAND1 @JianglinLi @eGUAbe2V7j26GHw 早就注意了。包括世界各国的地下经济，有个粗略了解。这是在了解美国人消费世界上大半毒品时，附带了解的资讯。<br>只因个人精力有限，写作还是集中在中国与美国这方面。
+
+### 67: [2022-05-10 22:16:58+08:00 推文](https://twitter.com/HeQinglian/status/1524030742157828100)
+
+Re @KELMAND1 @JianglinLi @eGUAbe2V7j26GHw 不过，一直缺乏对乌克兰地下经济占GDP总量之比这个估算。拉美国家的地下经济有个估算。也许有，我没查到。
+
+### 68: [2022-05-10 22:19:13+08:00 推文](https://twitter.com/HeQinglian/status/1524031306685947907)
+
+再说一事实：<br>美中两国近20多年形成的相互经济依赖，双方一时都无法摆脱。双方关系如此紧张，中国对美出口2021年增长27.5%，2021年中国贸易顺差6764亿美元，其中对美贸易顺差3965.8亿美元。
+
+### 69: [2022-05-10 22:21:42+08:00 推文](https://twitter.com/HeQinglian/status/1524031933096808448)
+
+Re @KELMAND1 @JianglinLi @eGUAbe2V7j26GHw 确实相当难统计，现有的全是估算，根据其他相关上下游产业的数据毛估。<br>当年因为研究过中国的地下经济，然后进入这个领域，最后发现水又深又黑，不独中国一国才有。东南亚国家比重相当大。
+
+### 70: [2022-05-10 22:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1524034358298001409)
+
+Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 西方国家所有与人体有关的买卖，乌克兰全有，但用的是生物医学、生物化学研究之名。<br>记得印度独立以前，人体骨胳标本遍布世界，尼赫鲁政府深以为耻，这现象慢慢改观。
+
+### 71: [2022-05-10 22:36:19+08:00 推文](https://twitter.com/HeQinglian/status/1524035612910751746)
+
+Re @JianglinLi @Wu_Zhi @eGUAbe2V7j26GHw @KELMAND1 这类报道，包括BBC批评发展中国家大选舞弊的研究，全套都有，2020年之后，基本不再报道了。<br>我的资料夹里存放的西媒报道资料，有时候一翻，连我自己都觉得“还有这事”。
+
+### 72: [2022-05-10 22:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1524035971167174656)
+
+Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 生化实验室的一些实验，在美国就是禁止的，因此放到其他国家，比如中国、乌克兰。
+
+### 73: [2022-05-10 22:39:15+08:00 推文](https://twitter.com/HeQinglian/status/1524036350391074819)
+
+Re @JianglinLi @Wu_Zhi @eGUAbe2V7j26GHw @KELMAND1 美国曾报道过某些大人物的器官移植、换血——都是前些年的事情了。现在不会再有这些报道。
+
+### 74: [2022-05-10 22:49:10+08:00 推文](https://twitter.com/HeQinglian/status/1524038843586027522)
+
+Re @Wu_Zhi @KELMAND1 咱们等着看，实际上现在美乌打的是信息战——认知战，最后剩下如何定义乌克兰的胜利了。连词语我都猜想到了。<br>现实中，乌克兰的国土划分将是另一回事了。<br>拜登拖得起，欧盟拖不起，但得服从美国需要，等吧。拜登政府目前的想法就是免除中国关税，为美联储的货币相对紧缩政策服务，多少抑制一下通胀。
+
+### 75: [2022-05-10 22:51:03+08:00 推文](https://twitter.com/HeQinglian/status/1524039318599254018)
+
+Re @JianglinLi @Wu_Zhi @eGUAbe2V7j26GHw @KELMAND1 当时，据说希拉里就喜欢换血。
+
+### 76: [2022-05-10 22:54:27+08:00 推文](https://twitter.com/HeQinglian/status/1524040176254791681)
+
+Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 中国皇帝没这医疗水平，所以只能炼丹修道。
+
