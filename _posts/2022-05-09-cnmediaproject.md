@@ -31,3 +31,11 @@ Re @jordanschnyc CMP has happily labored in the CCP discourse space for 15 years
 
 Last week Luo Changping was given a 7-month jail sentence for defaming the country’s martyrs and heroes. The harsh penalty for a journalist once hailed in China for his heroic anti-corruption work reveals how deeply values have shifted under Xi Jinping. <a href="https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/</a><br><img style="" src="https://pbs.twimg.com/media/FSW9YlrakAAJK-0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-05-10 14:31:16+08:00 推文](https://twitter.com/cnmediaproject/status/1523913546085838848)
+
+Re @WilliamYang120 This is a good time to revisit some thoughts on tradition of the forced "confession" by CMP director David Bandurski. "China's Confessional Politics of Dominance," in Hong Kong Free Press. <a href="https://hongkongfp.com/2015/09/14/fifty-shades-of-xi-chinas-confessional-politics-of-dominance/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2015/09/14/fifty-shades-of-xi-chinas-confessional-politics-of-dominance/</a><br><img style="" src="https://pbs.twimg.com/media/FSYHSOeaQAEe3sS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-05-10 14:33:16+08:00 推文](https://twitter.com/cnmediaproject/status/1523914045660987393)
+
+Re @WilliamYang120 And this ChinaFile conversation on the topic with @goldkorn @siweiluozi and @ayhcheung <a href="https://www.chinafile.com/conversation/beijings-televised-confessions" target="_blank" rel="noopener noreferrer">https://www.chinafile.com/conversation/beijings-televised-confessions</a>
+
