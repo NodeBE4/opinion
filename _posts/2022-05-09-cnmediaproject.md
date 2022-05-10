@@ -39,3 +39,7 @@ Re @WilliamYang120 This is a good time to revisit some thoughts on tradition of 
 
 Re @WilliamYang120 And this ChinaFile conversation on the topic with @goldkorn @siweiluozi and @ayhcheung <a href="https://www.chinafile.com/conversation/beijings-televised-confessions" target="_blank" rel="noopener noreferrer">https://www.chinafile.com/conversation/beijings-televised-confessions</a>
 
+### 7: [2022-05-10 18:31:24+08:00 推文](https://twitter.com/cnmediaproject/status/1523973975466209280)
+
+Veteran journalist Luo Changping has been given a 7-month jail sentence for defaming the CCP's martyrs and heroes. The harsh penalty for Luo, who in the past has been hailed in China for his heroic journalism, shows how deeply values have shifted under Xi. <a href="https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/</a><br><img style="" src="https://pbs.twimg.com/media/FSY91eeaQAA-DWK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
