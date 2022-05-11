@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-10
+date: 2022-05-11
 from: https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/
 layout: post
 tags:
@@ -133,4 +133,10 @@ To return to your original question, 'Is Quintus Curtius Rufus really the earlie
 * Ernest Fredericksmeyer, 'Alexander, Midas, and the Oracle at Gordium', *Classical Philology* 56:3 (1961)
 * Lynn E. Roller, 'Midas and the Gordian Knot', *Classical Antiquity* 3:2 (1984)
 * Mark H Munn, 'Alexander, the Gordian Knot, and the Kingship of Midas', in *Macedonian Legacies: Studies in Macedonian History and Culture in Honor of Eugene N. Borza* (2008)
+
+### 421: [Clone Wars](https://old.reddit.com/r/StarWars/comments/umukze/clone_wars/), submitted on 2022-05-11 06:28:04+08:00.
+
+----- __421.1__ -----2022-05-11 22:10:54+08:00:
+
+Kreia would like a word...
 
