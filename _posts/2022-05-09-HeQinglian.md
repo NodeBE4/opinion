@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-11
+date: 2022-05-12
 from: https://twitter.com/HeQinglian/status/1523332655105945601
 layout: post
 tags:
@@ -353,7 +353,7 @@ RT joe wong<br>Re @Lucs24659702<br><img style="" src="https://pbs.twimg.com/me
 
 ### 85: [2022-05-11 06:49:30+08:00 推文](https://twitter.com/RealBeiMing/status/1524159724018716672)
 
-RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！<br><br>北明BeiMing: 中文版 烏俄戰爭隱藏的事實<br>歐洲權威人士披露，內容充實，視角深入，筆觸平實……作者的特殊身份和經歷使文章自帶權威性。<br><br>譯者冒天下大不韙翻譯此文，是出於道義責任和職業習慣，希望為善於思考的少數讀者提供被屏蔽的信息和埋沒在海量論說中的有價值的見解，以便兼聽則明。<br> <a href="https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw</a> <a href="https://twitter.com/fuzzyface/status/1515549870484238336" target="_blank" rel="noopener noreferrer">https://twitter.com/fuzzyface/status/1515549870484238336</a>
+RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！
 
 ### 86: [2022-05-11 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1524161283263766528)
 
@@ -386,4 +386,20 @@ Re @wto518 斯诺登可作为参考。<br>美国的政治犯，除了少部分�
 ### 93: [2022-05-11 21:25:28+08:00 推文](https://twitter.com/HeQinglian/status/1524380170035081216)
 
 世卫领导谭德塞批“清零”言论被中国全网封锁 <br>1、谭德赛可能会断了中国财路。如果某天转弯，应该就是他 想要钱了。2、西方媒体应该对谭德赛的言论作个考察，察的是深层原因：世卫得到的中国捐款及其言论变化的相关性。3、信誉是一次性“商品”。 <a href="https://rfi.my/8PKO.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8PKO.T</a>
+
+### 94: [2022-05-12 00:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1524431220435828736)
+
+Re @Museroomer 谢谢告知。
+
+### 95: [2022-05-12 00:50:46+08:00 推文](https://twitter.com/HeQinglian/status/1524431833336791043)
+
+Re @mingshi_chen @zhixiangziyou @JianglinLi @Wu_Zhi @eGUAbe2V7j26GHw @KELMAND1 严格地说，那时美国媒体比如今好得多，至少在奥巴马第一任期前两年，还能报道事实。
+
+### 96: [2022-05-12 01:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1524434219153469440)
+
+Re @Wu_Zhi @mingshi_chen @zhixiangziyou @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 我觉得美国媒体与Twitter堕变的重要节点是2014年以后，奥巴马大量往纽约时报、CNN、高科技公司与几家社媒安插人。<br>这一点，北明在美國主流媒體怎麼了？（更新版）中分析得非常清楚 。 <a href="https://blog.creaders.net/u/5568/202012/391223.html" target="_blank" rel="noopener noreferrer">https://blog.creaders.net/u/5568/202012/391223.html</a>
+
+### 97: [2022-05-12 01:35:47+08:00 推文](https://twitter.com/HeQinglian/status/1524443164727197696)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 这是信息战的一部分：声称豪华抵制，让无脑受众鼓掌叫好，并围攻说出真相的人，赢得“认知战”。<br>地面上的战争是否赢、赢面有多大，不说就行，反正俄罗斯消息都是造谣，谁引用，乌鸡血全数出动痛骂。<br>坚持口头抵制就行。
 
