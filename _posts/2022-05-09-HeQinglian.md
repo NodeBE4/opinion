@@ -321,7 +321,7 @@ Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 中国皇帝没这医疗水平
 
 ### 77: [2022-05-11 05:44:33+08:00 推文](https://twitter.com/HeQinglian/status/1524143377725411334)
 
-拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
+RT He Qinglian<br>拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
 
 ### 78: [2022-05-11 05:56:51+08:00 推文](https://twitter.com/HeQinglian/status/1524146473734127617)
 
@@ -347,11 +347,27 @@ Re @mingshi_chen 美国不生产很多消费品，我在刚发表的《拜登经
 
 Re @mingshi_chen 许多欧洲品牌。
 
-### 84: [2022-05-11 06:49:30+08:00 推文](https://twitter.com/RealBeiMing/status/1524159724018716672)
+### 84: [2022-05-11 06:41:42+08:00 推文](https://twitter.com/joewong08586930/status/1524157760404815873)
+
+RT joe wong<br>Re @Lucs24659702<br><img style="" src="https://pbs.twimg.com/media/FSblZQXUYAAaUnp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 85: [2022-05-11 06:49:30+08:00 推文](https://twitter.com/RealBeiMing/status/1524159724018716672)
 
 RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！<br><br>北明BeiMing: 中文版 烏俄戰爭隱藏的事實<br>歐洲權威人士披露，內容充實，視角深入，筆觸平實……作者的特殊身份和經歷使文章自帶權威性。<br><br>譯者冒天下大不韙翻譯此文，是出於道義責任和職業習慣，希望為善於思考的少數讀者提供被屏蔽的信息和埋沒在海量論說中的有價值的見解，以便兼聽則明。<br> <a href="https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw</a> <a href="https://twitter.com/fuzzyface/status/1515549870484238336" target="_blank" rel="noopener noreferrer">https://twitter.com/fuzzyface/status/1515549870484238336</a>
 
-### 85: [2022-05-11 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1524161283263766528)
+### 86: [2022-05-11 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1524161283263766528)
 
 Re @tab1jPUQOdfEj1e @pandatress1 这是中国的大问题。但目前制裁似乎给了中国一个科技方面的机会：脱离美国控制的系统另起炉灶。至少有这个需求，但中国有无这能力我确实不清楚。不过听说有些方面，中国还是很厉害。<br>制药业由于大量海归，也挺厉害。
+
+### 87: [2022-05-11 08:17:43+08:00 推文](https://twitter.com/KELMAND1/status/1524181924323147777)
+
+RT Ezio Mao☢<br>英国《每日快报》和美英民主研究所进行的联合调查显示，美国人并不想帮着乌克兰和俄罗斯死磕到底。<br><br>43%的人持此观点。41%的受访者持相反观点，16%的受访者没有对此发表意见。<br><br>此外，民调显示，53% 的人认为，制裁对美国造成的伤害大于对俄罗斯的伤害。 <a href="https://www.express.co.uk/news/politics/1606839/Shock-poll-Ukraine-Zelensky-Biden-lose-war-Russia-Putin-Democracy-Institute-news" target="_blank" rel="noopener noreferrer">https://www.express.co.uk/news/politics/1606839/Shock-poll-Ukraine-Zelensky-Biden-lose-war-Russia-Putin-Democracy-Institute-news</a><br><img style="" src="https://pbs.twimg.com/media/FSb6DMMaAAAPv5C?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSb6ESfaMAAFi1A?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 88: [2022-05-11 08:25:38+08:00 推文](https://twitter.com/Dchu07559344/status/1524183916336369667)
+
+RT An Asian American🇺🇸<br>Re @HeQinglian 左派永远都会愚弄自己是伟光正。<br><img style="" src="https://pbs.twimg.com/media/FSb8xyMX0AA1Yw2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 89: [2022-05-11 09:01:08+08:00 推文](https://twitter.com/HeQinglian/status/1524192849448820738)
+
+Re @pandatress1 其实美国的统计很简单，就是领失业救济金的人数。奥巴马时期，有段时期将每周工作10小时的都算作就业。
 
