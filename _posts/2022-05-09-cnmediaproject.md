@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-10
+date: 2022-05-11
 from: https://twitter.com/JeromeTaylor/status/1523506118978568192
 layout: post
 tags:
@@ -42,4 +42,8 @@ Re @WilliamYang120 And this ChinaFile conversation on the topic with @goldkorn @
 ### 7: [2022-05-10 18:31:24+08:00 推文](https://twitter.com/cnmediaproject/status/1523973975466209280)
 
 Veteran journalist Luo Changping has been given a 7-month jail sentence for defaming the CCP's martyrs and heroes. The harsh penalty for Luo, who in the past has been hailed in China for his heroic journalism, shows how deeply values have shifted under Xi. <a href="https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/</a><br><img style="" src="https://pbs.twimg.com/media/FSY91eeaQAA-DWK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-05-11 22:09:20+08:00 推文](https://twitter.com/Lingling_Wei/status/1524391206335168519)
+
+RT Lingling Wei 魏玲灵<br>China's Forgotten Premier Steps out of Xi's Shadow<br><br>Xi Jinping is on track to secure another term. But Li Keqiang, the long-sidelined premier, is pushing back. If he succeeds, Li's biggest legacy as premier is to influence who the next premier is <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107</a>
 
