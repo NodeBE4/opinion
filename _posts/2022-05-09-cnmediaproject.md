@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-11
+date: 2022-05-12
 from: https://twitter.com/JeromeTaylor/status/1523506118978568192
 layout: post
 tags:
@@ -43,7 +43,15 @@ Re @WilliamYang120 And this ChinaFile conversation on the topic with @goldkorn @
 
 Veteran journalist Luo Changping has been given a 7-month jail sentence for defaming the CCP's martyrs and heroes. The harsh penalty for Luo, who in the past has been hailed in China for his heroic journalism, shows how deeply values have shifted under Xi. <a href="https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/</a><br><img style="" src="https://pbs.twimg.com/media/FSY91eeaQAA-DWK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 8: [2022-05-11 22:09:20+08:00 推文](https://twitter.com/Lingling_Wei/status/1524391206335168519)
+### 8: [2022-05-11 12:09:08+08:00 推文](https://twitter.com/Nectar_Gan/status/1524240163454418944)
+
+RT Nectar Gan<br>Tedros is being censored in China after calling zero-Covid unsustainable.<br><br>The WHO’s official press account on Weibo posted Tedros’ comments early this morning. It drew a wave of sarcastic comments from users critical of zero-Covid. An hour later the post is “no longer viewable.”<br><img style="" src="https://pbs.twimg.com/media/FScwV3kUUAAuBHs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FScwV3lUcAAqSsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FScwV3iVcAAt6bK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FScwV3hVEAIxaz3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-05-11 22:09:20+08:00 推文](https://twitter.com/Lingling_Wei/status/1524391206335168519)
 
 RT Lingling Wei 魏玲灵<br>China's Forgotten Premier Steps out of Xi's Shadow<br><br>Xi Jinping is on track to secure another term. But Li Keqiang, the long-sidelined premier, is pushing back. If he succeeds, Li's biggest legacy as premier is to influence who the next premier is <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107</a>
+
+### 10: [2022-05-12 09:57:35+08:00 推文](https://twitter.com/cnmediaproject/status/1524569443866939392)
+
+Xi Jinping's speech to mark the centenary of the Communist Youth League this week was meant to inspire a generation's dedication to the ruling Party -- but also to shape the dominant view of history in favor of the general secretary's continued power. <a href="https://bit.ly/3FDT05x" target="_blank" rel="noopener noreferrer">https://bit.ly/3FDT05x</a><br><img style="" src="https://pbs.twimg.com/media/FShbz0jagAAsyTZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
