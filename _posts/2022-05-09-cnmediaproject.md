@@ -47,11 +47,23 @@ Veteran journalist Luo Changping has been given a 7-month jail sentence for defa
 
 RT Nectar Gan<br>Tedros is being censored in China after calling zero-Covid unsustainable.<br><br>The WHO’s official press account on Weibo posted Tedros’ comments early this morning. It drew a wave of sarcastic comments from users critical of zero-Covid. An hour later the post is “no longer viewable.”<br><img style="" src="https://pbs.twimg.com/media/FScwV3kUUAAuBHs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FScwV3lUcAAqSsH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FScwV3iVcAAt6bK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FScwV3hVEAIxaz3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 9: [2022-05-11 22:09:20+08:00 推文](https://twitter.com/Lingling_Wei/status/1524391206335168519)
+### 9: [2022-05-11 21:35:37+08:00 推文](https://twitter.com/qianweizhang/status/1524382723250745345)
+
+RT Qianwei Zhang<br>I’m grateful for @WeChatApp’s human approach to censorship. I’m not supposed to know that our story on @WHO head’s disapproval of China’s Covid policy will never see the light of day. A is what I see. B is what my friends see. At least I still get to enjoy the sight of our story.<br><img style="" src="https://pbs.twimg.com/media/FSeyANkaUAEhDYa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSeyANkaMAESfx0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-05-11 22:09:20+08:00 推文](https://twitter.com/Lingling_Wei/status/1524391206335168519)
 
 RT Lingling Wei 魏玲灵<br>China's Forgotten Premier Steps out of Xi's Shadow<br><br>Xi Jinping is on track to secure another term. But Li Keqiang, the long-sidelined premier, is pushing back. If he succeeds, Li's biggest legacy as premier is to influence who the next premier is <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107</a>
 
-### 10: [2022-05-12 09:57:35+08:00 推文](https://twitter.com/cnmediaproject/status/1524569443866939392)
+### 11: [2022-05-12 08:18:52+08:00 推文](https://twitter.com/mbrookerhk/status/1524544600597463040)
+
+RT Matthew Brooker<br>I wrote about the pain of leaving Hong Kong. Last night's arrests are just another reminder that there is no bottom to this process, of what has been lost and is being lost <a href="https://www.bloomberg.com/opinion/articles/2022-05-11/leaving-hong-kong-an-englishman-looks-at-the-challenge-of-returning-to-the-uk?sref=jR90f8Ni" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/opinion/articles/2022-05-11/leaving-hong-kong-an-englishman-looks-at-the-challenge-of-returning-to-the-uk?sref=jR90f8Ni</a>
+
+### 12: [2022-05-12 09:57:35+08:00 推文](https://twitter.com/cnmediaproject/status/1524569443866939392)
 
 Xi Jinping's speech to mark the centenary of the Communist Youth League this week was meant to inspire a generation's dedication to the ruling Party -- but also to shape the dominant view of history in favor of the general secretary's continued power. <a href="https://bit.ly/3FDT05x" target="_blank" rel="noopener noreferrer">https://bit.ly/3FDT05x</a><br><img style="" src="https://pbs.twimg.com/media/FShbz0jagAAsyTZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-05-12 11:45:56+08:00 推文](https://twitter.com/cnmediaproject/status/1524596712442327040)
+
+Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy writing from lockdown for one of the city’s leading state-run daily newspapers. Some have wondered why state media have responded with silence to the tragic news of her passing. <a href="https://bit.ly/3Na2U1i" target="_blank" rel="noopener noreferrer">https://bit.ly/3Na2U1i</a><br><img style="" src="https://pbs.twimg.com/media/FSh0mLqaQAAsUCl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

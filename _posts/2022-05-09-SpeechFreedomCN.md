@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-05-09
+date: 2022-05-12
 from: https://twitter.com/SpeechFreedomCN/status/1523441187767537665
 layout: post
 tags:
@@ -30,4 +30,12 @@ Re Zhang's five Twitter accounts are @9RI1mjFjUpM1toU, @4UDF6HrfvZg5FBX, @zangf7
 ### 4: [2022-05-09 11:49:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1523510319175245826)
 
 此图无需配文。<br><img style="" src="https://pbs.twimg.com/media/FSRhx0FXEAAyk3I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-05-12 12:43:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1524611072283623424)
+
+陕西富县男子郭某，因在抖音评论一条警察在疫情防控点执勤的视频时发表了“辱警言论”，被当地警方跨市抓捕并被行政拘留。<br><img style="" src="https://pbs.twimg.com/media/FSfdD9WXEAAvscF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSfdGfzXwAE0Tx6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-05-12 12:47:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1524612078903775232)
+
+Shaanxi man Guo, who posted a comment on Douyin that "insulted" police officers at a local Covid checkpoint, administratively detained.<br><img style="" src="https://pbs.twimg.com/media/FSfdeUiXIAAZvyF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSfdfx3XMAI4t24?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
