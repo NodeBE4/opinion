@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-11
+date: 2022-05-12
 from: https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/
 layout: post
 tags:
@@ -139,4 +139,12 @@ To return to your original question, 'Is Quintus Curtius Rufus really the earlie
 ----- __421.1__ -----2022-05-11 22:10:54+08:00:
 
 Kreia would like a word...
+
+### 422: [Hololive Fantasy](https://old.reddit.com/r/Hololive/comments/undyph/hololive_fantasy/), submitted on 2022-05-12 00:35:49+08:00.
+
+----- __422.1__ -----2022-05-12 11:09:15+08:00:
+
+How dare you.
+
+How dare you split Noel and Flare like this.
 
