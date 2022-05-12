@@ -170,3 +170,7 @@ As for musket accuracy, it's perhaps worth stating that 'accurate' will always b
 
 [This blog post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) and its citations will be a good start. As one of the sources it cites notes, 'point blank' range, at which firing targets were placed, could be as much as 300 yards.
 
+----- __424.4__ -----2022-05-12 22:33:49+08:00:
+
+You referred to it as a 'rifled musket' which it isn't – a rifled musket is something like the 1853 Enfield or the 1855 Springfield.
+

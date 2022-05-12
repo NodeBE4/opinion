@@ -21,7 +21,7 @@ RT China Law Translate<br>Happy New Year.<br><br>The Paywall on CLT (<br><br>T
 
 ### 2: [2022-01-05 21:22:42+08:00 推文](https://twitter.com/niubi/status/1478718600244563969)
 
-RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking at things?<br><br>Peter M. Drucker: I’m in shock.<br><br><img style src="https://pbs.twimg.com/media/FIVt8rBVUAAqlcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking at things?<br><br>Peter M. Drucker: I’m in shock.<br><br><img style="" src="https://pbs.twimg.com/media/FIVt8rBVUAAqlcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-06 15:00:45+08:00 推文](https://twitter.com/cnmediaproject/status/1478984869737017345)
 
@@ -41,7 +41,7 @@ RT Lingling Wei 魏玲灵<br>Must read by @DSORennie: China’s online nationa
 
 ### 7: [2022-01-08 09:38:32+08:00 推文](https://twitter.com/cnmediaproject/status/1479628555139297280)
 
-In a bid to advance Chinese state narratives more credibly overseas, CCP media have encouraged more "flexible and personalized" use of individual accounts of employees on Twitter and Facebook. Our latest in Going Global. <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a><br><img style="" src="https://pbs.twimg.com/media/FIiyRelakAMBl2K?format=jpg&name=orig" referrerpolicy="no-referrer">
+In a bid to advance Chinese state narratives more credibly overseas, CCP media have encouraged more "flexible and personalized" use of individual accounts of employees on Twitter and Facebook. Our latest in Going Global. <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a><br><img style src="https://pbs.twimg.com/media/FIiyRelakAMBl2K?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 
