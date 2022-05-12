@@ -67,3 +67,7 @@ Xi Jinping's speech to mark the centenary of the Communist Youth League this wee
 
 Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy writing from lockdown for one of the city’s leading state-run daily newspapers. Some have wondered why state media have responded with silence to the tragic news of her passing. <a href="https://bit.ly/3Na2U1i" target="_blank" rel="noopener noreferrer">https://bit.ly/3Na2U1i</a><br><img style="" src="https://pbs.twimg.com/media/FSh0mLqaQAAsUCl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-05-12 13:42:28+08:00 推文](https://twitter.com/donweinland/status/1524626039502082048)
+
+RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to live in tents on the streets. Here's a shot from this morning next to my hotel (I was out for a PCR test). @_KarenHao has written about why this is happening <a href="https://on.wsj.com/3stkXr8" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3stkXr8</a><br><img style="" src="https://pbs.twimg.com/media/FSiNy2KUcAAvTph?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
