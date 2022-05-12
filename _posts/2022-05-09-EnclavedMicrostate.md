@@ -160,3 +160,13 @@ The [Hawaiian Dreadnoughts](https://web.archive.org/web/20150629105452/https://w
 
 Yep, although it's worth noting that muskets were not as inaccurate as commonly believed. Not *brilliantly* accurate, and not en masse, but individual marksmanship with a musket was viable up to a couple of hundred yards.
 
+----- __424.2__ -----2022-05-12 21:01:24+08:00:
+
+You've got some terms confused here: the term 'rifled musket' refers, generally, to muzzle-loading rifled long arms using conical projectiles like the Minié ball, which were in use primarily from the late 1840s to late 1860s. The 'rifled musket' designation was used to refer to weapons with the rate of fire of a musket because they didn't require you to forcibly deform the projectile into the rifle grooves.
+
+As for musket accuracy, it's perhaps worth stating that 'accurate' will always be relative. Less accurate than a rifle for sure, but there was data taken on the rough accuracy of formation fire in the period: [this post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) on Kabinettskriege compiles some of it. It doesn't discuss individual marksmanship to quite the same extent though.
+
+----- __424.3__ -----2022-05-12 21:02:49+08:00:
+
+[This blog post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) and its citations will be a good start. As one of the sources it cites notes, 'point blank' range, at which firing targets were placed, could be as much as 300 yards.
+
