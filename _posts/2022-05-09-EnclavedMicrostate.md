@@ -55,19 +55,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 416: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
+### 416: [Weekly Discussion Thread, May 9th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uluh3w/weekly_discussion_thread_may_9th_2022/), submitted on 2022-05-09 23:59:37+08:00.
 
------ __416.1__ -----2022-05-10 08:37:09+08:00:
+----- __416.1__ -----2022-05-13 00:54:32+08:00:
 
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+> I know the T is converted to CHI for japanese but changing how things are spelled would help their pronunciation better. Especially for 'team', for a first time listener(eng audience) they would be wonder wtf "chi-mu" means.
 
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+But if ティー and チー are pronounced the same then it doesn't make a difference?
 
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+### 417: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
 
-### 417: [Did humans cook first or eat meat first? As in, did we eat raw meat first and then try to cook it or the other way around?](https://old.reddit.com/r/AskHistorians/comments/umao34/did_humans_cook_first_or_eat_meat_first_as_in_did/), submitted on 2022-05-10 12:53:35+08:00.
-
------ __417.1__ -----2022-05-10 14:36:41+08:00:
+----- __417.1__ -----2022-05-10 08:37:09+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -75,17 +73,27 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 418: [Why are political assassinations not more common?](https://old.reddit.com/r/AskHistorians/comments/umbjgo/why_are_political_assassinations_not_more_common/), submitted on 2022-05-10 13:46:25+08:00.
+### 418: [Did humans cook first or eat meat first? As in, did we eat raw meat first and then try to cook it or the other way around?](https://old.reddit.com/r/AskHistorians/comments/umao34/did_humans_cook_first_or_eat_meat_first_as_in_did/), submitted on 2022-05-10 12:53:35+08:00.
 
------ __418.1__ -----2022-05-10 14:36:33+08:00:
+----- __418.1__ -----2022-05-10 14:36:41+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 419: [Why are political assassinations not more common?](https://old.reddit.com/r/AskHistorians/comments/umbjgo/why_are_political_assassinations_not_more_common/), submitted on 2022-05-10 13:46:25+08:00.
+
+----- __419.1__ -----2022-05-10 14:36:33+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 419: [Who's the Ottoman prince in Xinjiang as a Sultan as a Japanese puppet state leader?](https://old.reddit.com/r/AskHistorians/comments/umdhkc/whos_the_ottoman_prince_in_xinjiang_as_a_sultan/), submitted on 2022-05-10 15:58:03+08:00.
+### 420: [Who's the Ottoman prince in Xinjiang as a Sultan as a Japanese puppet state leader?](https://old.reddit.com/r/AskHistorians/comments/umdhkc/whos_the_ottoman_prince_in_xinjiang_as_a_sultan/), submitted on 2022-05-10 15:58:03+08:00.
 
------ __419.1__ -----2022-05-10 16:32:24+08:00:
+----- __420.1__ -----2022-05-10 16:32:24+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -93,9 +101,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 420: [What was the first account of the Gordians knot?](https://old.reddit.com/r/AskHistorians/comments/umipk2/what_was_the_first_account_of_the_gordians_knot/), submitted on 2022-05-10 21:27:12+08:00.
+### 421: [What was the first account of the Gordians knot?](https://old.reddit.com/r/AskHistorians/comments/umipk2/what_was_the_first_account_of_the_gordians_knot/), submitted on 2022-05-10 21:27:12+08:00.
 
------ __420.1__ -----2022-05-11 00:13:49+08:00:
+----- __421.1__ -----2022-05-11 00:13:49+08:00:
 
 With the understanding that it is quite possible that a grasp of the source landscape will be part of the exercise, essay-wise, I think it best for me to keep it relatively short and simple, with a basic overview of Alexander sources and some reading recommendations for a more in-depth look at the problem. The first of these recommendations is Andrea Zambrini's chapter 'The Historians of Alexander the Great', in Volume 1 of John Marincola's *A Companion to Greek and Roman Historiography* (2007), which discusses the early historians of Alexander whose work has been lost; the second is ‪Elizabeth Baynham‬'s 'The Ancient Evidence for Alexander the Great', in Joseph Roisman's *Brill's Companion to Alexander the Great* (2003) (not to be confused with Kenneth Moore's *Brill's Companion to the Reception of Alexander the Great* (2018)), which begins with the lost historians and then goes into the surviving ones.
 
@@ -134,43 +142,43 @@ To return to your original question, 'Is Quintus Curtius Rufus really the earlie
 * Lynn E. Roller, 'Midas and the Gordian Knot', *Classical Antiquity* 3:2 (1984)
 * Mark H Munn, 'Alexander, the Gordian Knot, and the Kingship of Midas', in *Macedonian Legacies: Studies in Macedonian History and Culture in Honor of Eugene N. Borza* (2008)
 
-### 421: [Clone Wars](https://old.reddit.com/r/StarWars/comments/umukze/clone_wars/), submitted on 2022-05-11 06:28:04+08:00.
+### 422: [Clone Wars](https://old.reddit.com/r/StarWars/comments/umukze/clone_wars/), submitted on 2022-05-11 06:28:04+08:00.
 
------ __421.1__ -----2022-05-11 22:10:54+08:00:
+----- __422.1__ -----2022-05-11 22:10:54+08:00:
 
 Kreia would like a word...
 
-### 422: [Hololive Fantasy](https://old.reddit.com/r/Hololive/comments/undyph/hololive_fantasy/), submitted on 2022-05-12 00:35:49+08:00.
+### 423: [Hololive Fantasy](https://old.reddit.com/r/Hololive/comments/undyph/hololive_fantasy/), submitted on 2022-05-12 00:35:49+08:00.
 
------ __422.1__ -----2022-05-12 11:09:15+08:00:
+----- __423.1__ -----2022-05-12 11:09:15+08:00:
 
 How dare you.
 
 How dare you split Noel and Flare like this.
 
-### 423: [The Idea of Barbarian Battleships is Amusing to Me](https://old.reddit.com/r/civ/comments/unnw1m/the_idea_of_barbarian_battleships_is_amusing_to_me/), submitted on 2022-05-12 08:13:22+08:00.
+### 424: [The Idea of Barbarian Battleships is Amusing to Me](https://old.reddit.com/r/civ/comments/unnw1m/the_idea_of_barbarian_battleships_is_amusing_to_me/), submitted on 2022-05-12 08:13:22+08:00.
 
------ __423.1__ -----2022-05-12 14:16:17+08:00:
+----- __424.1__ -----2022-05-12 14:16:17+08:00:
 
 The [Hawaiian Dreadnoughts](https://web.archive.org/web/20150629105452/https://www.reddit.com/r/badhistory/comments/24vreh/reallife_bad_history_hawaii_was_the_most_advanced/).
 
-### 424: [Khrystyna a Ukrainian biathlete changed her sports rifle. "I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance"](https://old.reddit.com/r/ukraine/comments/unrmhe/khrystyna_a_ukrainian_biathlete_changed_her/), submitted on 2022-05-12 11:27:13+08:00.
+### 425: [Khrystyna a Ukrainian biathlete changed her sports rifle. "I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance"](https://old.reddit.com/r/ukraine/comments/unrmhe/khrystyna_a_ukrainian_biathlete_changed_her/), submitted on 2022-05-12 11:27:13+08:00.
 
------ __424.1__ -----2022-05-12 16:17:26+08:00:
+----- __425.1__ -----2022-05-12 16:17:26+08:00:
 
 Yep, although it's worth noting that muskets were not as inaccurate as commonly believed. Not *brilliantly* accurate, and not en masse, but individual marksmanship with a musket was viable up to a couple of hundred yards.
 
------ __424.2__ -----2022-05-12 21:01:24+08:00:
+----- __425.2__ -----2022-05-12 21:01:24+08:00:
 
 You've got some terms confused here: the term 'rifled musket' refers, generally, to muzzle-loading rifled long arms using conical projectiles like the Minié ball, which were in use primarily from the late 1840s to late 1860s. The 'rifled musket' designation was used to refer to weapons with the rate of fire of a musket because they didn't require you to forcibly deform the projectile into the rifle grooves.
 
 As for musket accuracy, it's perhaps worth stating that 'accurate' will always be relative. Less accurate than a rifle for sure, but there was data taken on the rough accuracy of formation fire in the period: [this post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) on Kabinettskriege compiles some of it. It doesn't discuss individual marksmanship to quite the same extent though.
 
------ __424.3__ -----2022-05-12 21:02:49+08:00:
+----- __425.3__ -----2022-05-12 21:02:49+08:00:
 
 [This blog post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) and its citations will be a good start. As one of the sources it cites notes, 'point blank' range, at which firing targets were placed, could be as much as 300 yards.
 
------ __424.4__ -----2022-05-12 22:33:49+08:00:
+----- __425.4__ -----2022-05-12 22:33:49+08:00:
 
 You referred to it as a 'rifled musket' which it isn't – a rifled musket is something like the 1853 Enfield or the 1855 Springfield.
 
