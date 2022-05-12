@@ -50,3 +50,16 @@ This effort requires a global alliance. The partnership among countries that com
 
 This effort requires a global alliance. The partnership among countries that commit to international law and its foundational texts, the United Nations Charter and the Universal Declaration of Human Rights, should comprise countries from all continents. The international community should not be a euphemism for the West. The perception that there continues to be a conflict between “the West” and “the East” allows too many countries to sit on the fence. The fault line really lies between those who seek to reaffirm a principled, global moral and legal order, and those who do not. A new global alliance should stand tall in its uncompromising efforts to protect international law, international humanitarian law, and human rights law."
 
+### 242: [North Africa’s Frozen Conflict: How the Biden Administration Can Resolve the Dispute Over Western Sahara](https://old.reddit.com/r/Africa/comments/uo2aaf/north_africas_frozen_conflict_how_the_biden/), submitted on 2022-05-12 22:24:48+08:00.
+
+----- __242.1__ -----2022-05-12 22:46:53+08:00:
+
+\[SS from the article by Hannah Rae Armstrong\]
+
+"In December 2020, in one of his final acts in office, U.S. President Donald Trump signed a unilateral proclamation recognizing Moroccan sovereignty over a 100,000-square-mile territory that has been disputed for half a century: Western Sahara. The United States had long remained mostly neutral in the standoff between the Moroccan government, whose forces exercise de facto control over most of the territory, and the rebel group that seeks Western Sahara’s independence. But with the stroke of a pen, Trump reversed decades of U.S. policy, endorsing Morocco’s territorial claim in exchange for its normalizing relations with Israel and joining Trump’s Abraham Accords. This tradeoff caused the collapse of a cease-fire agreement, leading to renewed fighting and growing tensions in the region.  
+
+
+The United Nations is trying to relaunch a political process that would overcome the current impasse; Morocco has rejected implementing a UN-backed popular referendum that would determine Western Sahara’s status and has instead advanced its own proposal that would grant the territory a form of limited autonomy. The disagreement remains intractable. Buoyed by U.S. recognition of its claims, an overconfident Morocco is unlikely to make needed concessions, such as allowing human rights monitoring in the territory or compromising on the full sovereignty it seeks to retain over Western Sahara, while the Polisario Front, the group that has for decades fought for the territory’s independence, is convinced that the process is rigged against Western Sahara. Decades of UN talks have made little progress toward a resolution, kicking the can down the road while Morocco cements control over nearly all the disputed territory.
+
+U.S. President Joe Biden has promised to review his predecessor’s recognition of the Moroccan claim, and he has endorsed the relaunching of the UN-led peace process. His administration wants to arrest the rapid thaw of the conflict and put it back on ice. But such measures will only prop up a dysfunctional status quo. Biden should use the real leverage he has over Morocco and some key Moroccan allies to not just freeze the war but to end it altogether."
+

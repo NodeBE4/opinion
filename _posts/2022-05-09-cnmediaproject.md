@@ -55,19 +55,23 @@ RT Qianwei Zhang<br>I’m grateful for @WeChatApp’s human approach to censor
 
 RT Lingling Wei 魏玲灵<br>China's Forgotten Premier Steps out of Xi's Shadow<br><br>Xi Jinping is on track to secure another term. But Li Keqiang, the long-sidelined premier, is pushing back. If he succeeds, Li's biggest legacy as premier is to influence who the next premier is <a href="https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-premier-li-keqiang-xi-jinping-11652277107</a>
 
-### 11: [2022-05-12 08:18:52+08:00 推文](https://twitter.com/mbrookerhk/status/1524544600597463040)
+### 11: [2022-05-12 00:02:40+08:00 推文](https://twitter.com/ArianeKnuesel/status/1524419730341310465)
+
+RT Ariane Knüsel<br>It's finally here - my book on how China operated European and global intelligence &amp; propaganda networks from Switzerland, and how it carried out political and economic policies in Western Europe. Spies, Chinese restaurants, nuclear weapons, and Swiss watches - it's all in here!<br><img style="" src="https://pbs.twimg.com/media/FSfTqlLXMAEKclR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-05-12 08:18:52+08:00 推文](https://twitter.com/mbrookerhk/status/1524544600597463040)
 
 RT Matthew Brooker<br>I wrote about the pain of leaving Hong Kong. Last night's arrests are just another reminder that there is no bottom to this process, of what has been lost and is being lost <a href="https://www.bloomberg.com/opinion/articles/2022-05-11/leaving-hong-kong-an-englishman-looks-at-the-challenge-of-returning-to-the-uk?sref=jR90f8Ni" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/opinion/articles/2022-05-11/leaving-hong-kong-an-englishman-looks-at-the-challenge-of-returning-to-the-uk?sref=jR90f8Ni</a>
 
-### 12: [2022-05-12 09:57:35+08:00 推文](https://twitter.com/cnmediaproject/status/1524569443866939392)
+### 13: [2022-05-12 09:57:35+08:00 推文](https://twitter.com/cnmediaproject/status/1524569443866939392)
 
 Xi Jinping's speech to mark the centenary of the Communist Youth League this week was meant to inspire a generation's dedication to the ruling Party -- but also to shape the dominant view of history in favor of the general secretary's continued power. <a href="https://bit.ly/3FDT05x" target="_blank" rel="noopener noreferrer">https://bit.ly/3FDT05x</a><br><img style="" src="https://pbs.twimg.com/media/FShbz0jagAAsyTZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 13: [2022-05-12 11:45:56+08:00 推文](https://twitter.com/cnmediaproject/status/1524596712442327040)
+### 14: [2022-05-12 11:45:56+08:00 推文](https://twitter.com/cnmediaproject/status/1524596712442327040)
 
 Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy writing from lockdown for one of the city’s leading state-run daily newspapers. Some have wondered why state media have responded with silence to the tragic news of her passing. <a href="https://bit.ly/3Na2U1i" target="_blank" rel="noopener noreferrer">https://bit.ly/3Na2U1i</a><br><img style="" src="https://pbs.twimg.com/media/FSh0mLqaQAAsUCl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 14: [2022-05-12 13:42:28+08:00 推文](https://twitter.com/donweinland/status/1524626039502082048)
+### 15: [2022-05-12 13:42:28+08:00 推文](https://twitter.com/donweinland/status/1524626039502082048)
 
 RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to live in tents on the streets. Here's a shot from this morning next to my hotel (I was out for a PCR test). @_KarenHao has written about why this is happening <a href="https://on.wsj.com/3stkXr8" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3stkXr8</a><br><img style="" src="https://pbs.twimg.com/media/FSiNy2KUcAAvTph?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
