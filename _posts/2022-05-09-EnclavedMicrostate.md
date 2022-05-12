@@ -154,3 +154,9 @@ How dare you split Noel and Flare like this.
 
 The [Hawaiian Dreadnoughts](https://web.archive.org/web/20150629105452/https://www.reddit.com/r/badhistory/comments/24vreh/reallife_bad_history_hawaii_was_the_most_advanced/).
 
+### 424: [Khrystyna a Ukrainian biathlete changed her sports rifle. "I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance"](https://old.reddit.com/r/ukraine/comments/unrmhe/khrystyna_a_ukrainian_biathlete_changed_her/), submitted on 2022-05-12 11:27:13+08:00.
+
+----- __424.1__ -----2022-05-12 16:17:26+08:00:
+
+Yep, although it's worth noting that muskets were not as inaccurate as commonly believed. Not *brilliantly* accurate, and not en masse, but individual marksmanship with a musket was viable up to a couple of hundred yards.
+
