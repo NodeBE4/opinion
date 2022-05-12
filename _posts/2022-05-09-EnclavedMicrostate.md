@@ -148,3 +148,9 @@ How dare you.
 
 How dare you split Noel and Flare like this.
 
+### 423: [The Idea of Barbarian Battleships is Amusing to Me](https://old.reddit.com/r/civ/comments/unnw1m/the_idea_of_barbarian_battleships_is_amusing_to_me/), submitted on 2022-05-12 08:13:22+08:00.
+
+----- __423.1__ -----2022-05-12 14:16:17+08:00:
+
+The [Hawaiian Dreadnoughts](https://web.archive.org/web/20150629105452/https://www.reddit.com/r/badhistory/comments/24vreh/reallife_bad_history_hawaii_was_the_most_advanced/).
+
