@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-12
+date: 2022-05-13
 from: https://old.reddit.com/r/geopolitics/comments/unh54i/alexander_vindman_america_must_embrace_the_goal/
 layout: post
 tags:
@@ -62,4 +62,21 @@ This effort requires a global alliance. The partnership among countries that com
 The United Nations is trying to relaunch a political process that would overcome the current impasse; Morocco has rejected implementing a UN-backed popular referendum that would determine Western Sahara’s status and has instead advanced its own proposal that would grant the territory a form of limited autonomy. The disagreement remains intractable. Buoyed by U.S. recognition of its claims, an overconfident Morocco is unlikely to make needed concessions, such as allowing human rights monitoring in the territory or compromising on the full sovereignty it seeks to retain over Western Sahara, while the Polisario Front, the group that has for decades fought for the territory’s independence, is convinced that the process is rigged against Western Sahara. Decades of UN talks have made little progress toward a resolution, kicking the can down the road while Morocco cements control over nearly all the disputed territory.
 
 U.S. President Joe Biden has promised to review his predecessor’s recognition of the Moroccan claim, and he has endorsed the relaunching of the UN-led peace process. His administration wants to arrest the rapid thaw of the conflict and put it back on ice. But such measures will only prop up a dysfunctional status quo. Biden should use the real leverage he has over Morocco and some key Moroccan allies to not just freeze the war but to end it altogether."
+
+### 243: [No Marshall Plan for Ukraine: Geography and Geopolitics Dictate a Different Reconstruction Model](https://old.reddit.com/r/geopolitics/comments/uotw8w/no_marshall_plan_for_ukraine_geography_and/), submitted on 2022-05-13 23:10:59+08:00.
+
+----- __243.1__ -----2022-05-13 23:11:51+08:00:
+
+\[SS from the article by Benn Steil, Director of International Economics at the Council on Foreign Relations\]
+
+"Perhaps the most enduring legacy of the Marshall Plan, the massive U.S. program to rebuild Western Europe’s economy after World War II, is the endless desire to repeat it. Daunting geopolitical challenges invariably spawn appeals for new Marshall Plans to foster stability and prosperity. The global financial crisis seeded in 2008 brought forth calls for a Marshall Plan in southern Europe. The Arab Spring did the same in the Middle East. Ditto the civil war in Syria.  
+
+
+Today, Ukraine, victim of horrific mass brutality and destruction, is only the latest in a procession of stricken countries spurring calls for the legend’s reapplication. “There will be a new Marshall Plan for Ukraine,” declared Ukrainian President Volodymyr Zelensky in March. European Council President Charles Michel concurred, announcing that a May donor conference was “the starting point for \[a\] kind of European Marshall Plan for Ukraine.”On its surface, Ukraine would appear to be fertile ground for a Marshall Plan. It is, much like most of the 16 Marshall Plan recipients of 1948–1952, a market-oriented European country with democratic foundations, anxious to integrate more closely with its neighbors to the west. It has great untapped potential in energy production, chemicals, agriculture, and industrial manufacturing.  
+
+
+Yet Ukraine suffers from an immutable characteristic that even the most noble and generous of foreign saviors cannot change: geography. Ukraine borders a powerful country to the east, Russia, whose government does not wish it to look westward for salvation or to succeed as a prosperous, independent country. And Russia is fully capable of undermining, with mere threats, any steps Ukraine may take in this direction.  
+
+
+To be sure, Ukraine’s rich friends in the United States and western Europe can do much to aid the country’s suffering people and to rebuild its damaged infrastructure. Yet without Russian cooperation or at least committed noninterference—a noninterference that is inconceivable currently or in the foreseeable future—the robust and enduring revival experienced by the Marshall countries is simply beyond Ukraine’s reach."
 
