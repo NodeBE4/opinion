@@ -143,15 +143,15 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Well then. Just when you thought VTuber drama this year had peaked with Hololive firing one of their top talents, A-Soul, the biggest Chinese VTuber group, is imploding. I first caught wind of it this morning when a friend linked me to [this thread](https://www.reddit.com/r/VirtualYoutubers/comments/uluh3w/weekly_discussion_thread_may_9th_2022/i8dtf0w/) on the VirtualYoutubers sub, and now there's a [brief article up](https://www.superpixel.com/article/73084/top-vtuber-china-only-paid-10-cents-per-20-subscription) on Superpixel, an English-language news site for Chinese gaming industry news.
 
-I'd recommend reading (if not for those of the faint of heart), but in short, the allegations include:
+I'd recommend reading both of the above (though not for those of the faint of heart), but in short, the allegations include:
 
-* Members being forced to continue performing despite physical injuries caused by poor studio equipment;
+* Members being forced to continue performing despite on-set injuries caused by poor studio equipment;
 
 * Long working hours leading to potentially permanent health implications;
 
 * General abusive behaviour by agency management and studio staff;
 
-* This is the bit that was confirmed: they're being paid a pittance. The talents' salaries are well below the average wage for their part of China, and worse still, they're only getting *0.5%* of the money from donations and subscriptions – Bilibili, their streaming platform, takes a 50% cut, and the agency takes 99% of the remainder. Contrast with Hololive where the exact breakdown isn't known for sure, but where Youtube takes 35% and the rest is split 50-50 between agency and talent.
+* This is the bit that was confirmed: they're being paid a pittance. The talents' salaries are well below the average wage for their part of China, and worse still, they're only getting *0.5%* of the money from donations and subscriptions – Bilibili, their streaming platform, takes a 50% cut, and the agency takes 99% of the remainder. Contrast with Hololive where the exact breakdown isn't known for sure, but where Youtube takes 35% and the rest is split around 50-50 between agency and talent.
 
 In essence this is, uh, kinda big news, at least if you're in the Sinophone VTuber space. Which I'll admit I'm mostly not, but I'd come across A-Soul via a small Youtuber who does a lot of meta-commentary videos about VTubers so they'd always been somewhat on my radar.
 
