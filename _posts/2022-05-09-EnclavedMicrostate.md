@@ -234,6 +234,14 @@ Tucker gives:
 
 But I would suggest that 'man from Heaven' is only one possible reading of '天人', literally 'heaven | man', which could just as easily – and I would argue much less tendentiously – be read as 'Heaven *and* Man', rather than as a 'man of Heaven' or similar. That is to say, there's no reason to read it as an adjective-noun phrase rather than as two nouns together. Equally, while 崩 can mean 'to die', this is only used for monarchs, and Guangwu most certainly did not die in the seventh year of his reign. In a more general sense it means something along the lines of 'collapse' or 'rupture', i.e. in a more figurative sense, it could – and probably does – simply mean that the affairs of both Heaven and man were thrown into disarray.
 
+----- __426.2__ -----2022-05-13 22:08:44+08:00:
+
+No problem! I do have a couple of more points to add that I've thought of since posting, one more immediately relevant and the other a bit more bemusing than anything else.
+
+The more relevant one relates to the quoted passage from (the?) Qiantan Ba: while Classical Chinese exercises a certain degree of, let's call it 'semantic economy' in that its users tends to write as few characters as possible to communicate their intended meaning (while often failing to write enough to firmly disambiguate things), writers of the language were not always averse to the use of certain particles, most importantly the possessive marker 之. If the intended meaning was 'Man from Heaven' or 'Man of Heaven', then it would have been far more clearly expressed as 天之人 as opposed to merely 天人.
+
+The bemused note is that Chan Kei Thong's apparent schtick of trying to prove that ancient Chinese religion was a branch of Abrahamic monotheism is, at least on the surface, entirely identical to the Taiping's conception of Chinese religious history. The Taiping, also, were convinced that China had once been a monotheistic society but which had, somehow, been led astray. Thomas Reilly's *The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire* is the work to read on this for anyone interested.
+
 ### 427: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
 
 ----- __427.1__ -----2022-05-13 18:28:28+08:00:
