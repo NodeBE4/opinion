@@ -63,6 +63,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 But if ティー and チー are pronounced the same then it doesn't make a difference?
 
+----- __416.2__ -----2022-05-13 14:47:15+08:00:
+
+I mean, 'a while' is only 11 days in this case. But yeah, the moment I saw A-Soul was going under my mind immediately went to bellumodo.
+
 ### 417: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
 
 ----- __417.1__ -----2022-05-10 08:37:09+08:00:
