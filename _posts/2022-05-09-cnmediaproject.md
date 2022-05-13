@@ -75,67 +75,71 @@ Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy w
 
 RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to live in tents on the streets. Here's a shot from this morning next to my hotel (I was out for a PCR test). @_KarenHao has written about why this is happening <a href="https://on.wsj.com/3stkXr8" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3stkXr8</a><br><img style="" src="https://pbs.twimg.com/media/FSiNy2KUcAAvTph?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 16: [2022-05-13 11:39:08+08:00 推文](https://twitter.com/cnmediaproject/status/1524957389832990720)
+### 16: [2022-05-12 18:57:48+08:00 推文](https://twitter.com/TMK_TinaManiK/status/1524705394051878912)
+
+RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown<br><br>Shanghai Daily: Over 500 pigeons living in central Shanghai's People's Square are an attraction to both residents and tourists in the city – but how are they faring during the pandemic? #COVID19<br><br><video src="https://video.twimg.com/amplify_video/1524661904525901824/vid/1280x720/0VFtFbE9nzaDLtgp.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1524661904525901824/img/9TUGmCBuG5Ts9ipQ.jpg"></video> <a href="https://www.shine.cn/news/metro/2205125499/" target="_blank" rel="noopener noreferrer">https://www.shine.cn/news/metro/2205125499/</a>
+
+### 17: [2022-05-13 11:39:08+08:00 推文](https://twitter.com/cnmediaproject/status/1524957389832990720)
 
 Xi's speech for the 100th anniversary of the Chinese Communist Youth League was meant to inspire loyalty in the next generation -- but also to shape the CCP's view of history in favor of his rule. <a href="https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/</a><br><img style="" src="https://pbs.twimg.com/media/FSm8pzGakAMjgfo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 17: [2022-05-13 11:40:30+08:00 推文](https://twitter.com/cnmediaproject/status/1524957734353117184)
+### 18: [2022-05-13 11:40:30+08:00 推文](https://twitter.com/cnmediaproject/status/1524957734353117184)
 
 Re The CCP's history is defined in four segments. The first three, encompassing the Chinese Civil War through to 2012 are mere "periods." But Xi's segment from 2012 to the present is a "New Era."<br><img style="" src="https://pbs.twimg.com/media/FSm8-CnacAEYUfX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 18: [2022-05-13 11:41:49+08:00 推文](https://twitter.com/cnmediaproject/status/1524958064990105600)
+### 19: [2022-05-13 11:41:49+08:00 推文](https://twitter.com/cnmediaproject/status/1524958064990105600)
 
 Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy writing from lockdown for one of the city’s leading state-run daily newspapers. Some have wondered why state media have responded with silence to the tragic news of her passing. <a href="https://bit.ly/3MaRM3T" target="_blank" rel="noopener noreferrer">https://bit.ly/3MaRM3T</a><br><img style="" src="https://pbs.twimg.com/media/FSm9PNdacAAEqXJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 19: [2022-05-13 11:47:36+08:00 推文](https://twitter.com/donweinland/status/1524959518458753024)
+### 20: [2022-05-13 11:47:36+08:00 推文](https://twitter.com/donweinland/status/1524959518458753024)
 
 RT Don Weinland<br>I resent state media workers who have cranked out positive news stories as average people in Shanghai suffer thru the lockdown. But I never thought about how awful it would be to do that job while also suffering. Good piece shines light on a tragic death: <a href="https://bit.ly/3wvWwL8" target="_blank" rel="noopener noreferrer">https://bit.ly/3wvWwL8</a>
 
-### 20: [2022-05-13 11:49:40+08:00 推文](https://twitter.com/WilliamYang120/status/1524960041681334272)
+### 21: [2022-05-13 11:49:40+08:00 推文](https://twitter.com/WilliamYang120/status/1524960041681334272)
 
 RT William Yang<br>"Right now, expats who want to escape #Shanghai typically need consular assistance, approval from community leaders to get extra non-government Covid tests, a registered driver to take them to the airport, and a ticket on a rare flight out." <a href="https://edition.cnn.com/2022/05/12/asia/china-leaving-shanghai-covid-culver-intl-dst-hnk/index.html" target="_blank" rel="noopener noreferrer">https://edition.cnn.com/2022/05/12/asia/china-leaving-shanghai-covid-culver-intl-dst-hnk/index.html</a>
 
-### 21: [2022-05-13 14:47:54+08:00 推文](https://twitter.com/lilkuo/status/1525004892493844480)
+### 22: [2022-05-13 14:47:54+08:00 推文](https://twitter.com/lilkuo/status/1525004892493844480)
 
 RT Lily Kuo<br>China's strict covid policies under Xi Jinping are drawing comparisons to Mao-era mass campaigns where politics trump reality. “People start to parrot what they think the top leader wants to hear. The policymaking becomes very brittle and very extreme.” <a href="https://www.washingtonpost.com/world/2022/05/13/china-zero-covid-xi-policy-resentment/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2022/05/13/china-zero-covid-xi-policy-resentment/?tid=ss_tw</a>
 
-### 22: [2022-05-13 15:28:21+08:00 推文](https://twitter.com/cnmediaproject/status/1525015073118625792)
+### 23: [2022-05-13 15:28:21+08:00 推文](https://twitter.com/cnmediaproject/status/1525015073118625792)
 
 Re @lilkuo A criticism that could be made also of the push for "common prosperity" (共同富裕). <a href="https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/</a>
 
-### 23: [2022-05-13 15:40:09+08:00 推文](https://twitter.com/cnmediaproject/status/1525018040978767872)
+### 24: [2022-05-13 15:40:09+08:00 推文](https://twitter.com/cnmediaproject/status/1525018040978767872)
 
 In our latest CMP Interview, @schoenmakersk speaks to @LHongqiao about how environmental journalism is faring in China's difficult media climate. <a href="https://bit.ly/3l7mOhe" target="_blank" rel="noopener noreferrer">https://bit.ly/3l7mOhe</a><br><img style="" src="https://pbs.twimg.com/media/FSnztr0akAAqYd9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 24: [2022-05-13 15:43:21+08:00 推文](https://twitter.com/cnmediaproject/status/1525018848176783360)
+### 25: [2022-05-13 15:43:21+08:00 推文](https://twitter.com/cnmediaproject/status/1525018848176783360)
 
 Re "Journalism [a decade ago] enabled social change. I don’t think that’s the case anymore. That’s not because the function of environmental journalism has changed, it’s because journalism’s ecosystem has deteriorated a lot in China."<br><img style="" src="https://pbs.twimg.com/media/FSn0jCVaUAA9_Vy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 25: [2022-05-13 15:43:48+08:00 推文](https://twitter.com/cnmediaproject/status/1525018961372680193)
+### 26: [2022-05-13 15:43:48+08:00 推文](https://twitter.com/cnmediaproject/status/1525018961372680193)
 
 Re "The government has made reporting in general much more difficult. Journalists have to follow the script."
 
-### 26: [2022-05-13 15:59:57+08:00 推文](https://twitter.com/GlobalChinaMap/status/1525023024419856384)
+### 27: [2022-05-13 15:59:57+08:00 推文](https://twitter.com/GlobalChinaMap/status/1525023024419856384)
 
 RT The People's Map of Global China<br>||NEW CONTENT|| The Stung Tatay Dam is an important power source for Cambodia. Concerns have been raised about its impacts on the forests of the Cardamom Mountains, and the lack of transparency and consultation around its EIA, writes @FutureForumAsia. <a href="https://thepeoplesmap.net/project/stung-tatay-hydroelectric-project/" target="_blank" rel="noopener noreferrer">https://thepeoplesmap.net/project/stung-tatay-hydroelectric-project/</a>
 
-### 27: [2022-05-13 16:06:14+08:00 推文](https://twitter.com/cnmediaproject/status/1525024605064540160)
+### 28: [2022-05-13 16:06:14+08:00 推文](https://twitter.com/cnmediaproject/status/1525024605064540160)
 
 For those who missed it: Honoring China's Heroes -- the harsh sentencing of veteran journalist and "China Hero" Luo Changping for defaming China's martyrs and heroes reveals how profoundly values in Chinese society have shifted. <a href="https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/</a><br><img style="" src="https://pbs.twimg.com/media/FSn5xURVIAE4ZJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 28: [2022-05-13 17:21:29+08:00 推文](https://twitter.com/cnmediaproject/status/1525043544746237952)
+### 29: [2022-05-13 17:21:29+08:00 推文](https://twitter.com/cnmediaproject/status/1525043544746237952)
 
 Taking Tedros at His Word: WHO’s director general spoke his mind this week about China's "zero Covid" policy. The swift response from China's censors reveals a deep ambivalence about the foreign voice and its power to uplift or criticize. <a href="https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/</a><br><img style="" src="https://pbs.twimg.com/media/FSoLBF2aMAEokzl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 29: [2022-05-13 17:24:41+08:00 推文](https://twitter.com/cnmediaproject/status/1525044350761455617)
+### 30: [2022-05-13 17:24:41+08:00 推文](https://twitter.com/cnmediaproject/status/1525044350761455617)
 
 Re "On the one hand, the foreign voice is the truly authoritative voice, giving credibility to the claims of those in power. If Tedros speaks the Party’s convictions, they must be legitimate. If a Western survey says Chinese people are happy their government, this must be true."
 
-### 30: [2022-05-13 17:25:30+08:00 推文](https://twitter.com/cnmediaproject/status/1525044554768187398)
+### 31: [2022-05-13 17:25:30+08:00 推文](https://twitter.com/cnmediaproject/status/1525044554768187398)
 
 Re "On the other hand, the foreign voice is illegitimate. It cannot understand China, which is too large and complex, subject to its own mysterious “national circumstances.” It is biased and selective, one more brick in an unbroken wall of foreign conspiracy to 'blacken China.'"
 
-### 31: [2022-05-13 17:26:41+08:00 推文](https://twitter.com/RFAChinese/status/1525044851179499520)
+### 32: [2022-05-13 17:26:41+08:00 推文](https://twitter.com/RFAChinese/status/1525044851179499520)
 
 RT ᴿᵉᵇᵉˡRFAChinese<br><br><video src="https://video.twimg.com/ext_tw_video/1524978192099905538/pu/vid/720x1258/lWNx8QNg8i5DXm1D.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524978192099905538/pu/img/tuLrR5j-gTB1x_0g.jpg"></video>
 
