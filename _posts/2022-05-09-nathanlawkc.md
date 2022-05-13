@@ -19,7 +19,7 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 ### 1: [2022-05-10 18:53:42+08:00 推文](https://twitter.com/nathanlawkc/status/1523979586031214592)
 
-A few takes of who's John Lee<br>- Most hawkish among candidates Beijing could choose from<br>- No experience apart from Security issues (silencing dissidents is his main task)<br>- Difficult to work with, refuses to be held accountable<br>- Applauds Xinjiang's way of control and oppression<br><br>BBC World Service: Hong Kong's "hawkish" new leader John Lee is an ex-security chief with no experience of government, says @nathanlawkc.<br><br>He thinks this appointment shows Beijing's grip will become more authoritarian in the future<br> <a href="https://bbc.in/3wlbWBQ" target="_blank" rel="noopener noreferrer">https://bbc.in/3wlbWBQ</a>
+A few takes of who's John Lee<br>- Most hawkish among candidates Beijing could choose from<br>- No experience apart from Security issues (silencing dissidents is his main task)<br>- Difficult to work with, refuses to be held accountable<br>- Applauds Xinjiang's way of control and oppression
 
 ### 2: [2022-05-11 18:58:00+08:00 推文](https://twitter.com/nathanlawkc/status/1524343055624593408)
 
