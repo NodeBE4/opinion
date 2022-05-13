@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-12
+date: 2022-05-13
 from: https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/
 layout: post
 tags:
@@ -185,4 +185,16 @@ As for musket accuracy, it's perhaps worth stating that 'accurate' will always b
 ----- __425.4__ -----2022-05-12 22:33:49+08:00:
 
 You referred to it as a 'rifled musket' which it isn't – a rifled musket is something like the 1853 Enfield or the 1855 Springfield.
+
+### 426: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
+
+----- __426.1__ -----2022-05-13 18:28:28+08:00:
+
+No.
+
+Russia's ability to resist Napoleon lay not in St. Petersburg, but in its army. Arguably, because of that Napoleon's invasion made little strategic sense to begin with, because the sheer depth of Russia meant that any sustained campaign against it would be doomed to failure if Russian commanders fought optimally, i.e. by avoiding a major field battle and instead allowing the French to be worn down by attrition. Frankly, the Russian army *should not have fought at Borodino*, and Russia was incredibly lucky that Napoleon failed to achieve a decisive result that put its entire force out of the field.
+
+Napoleon essentially forgot the lesson of the Austrian campaign of 1809: you can win some minor victories and seize the enemy capital, but if they still have an army and the means to keep it in the field, then they will make you bleed for whatever gains you try to eke out. Harsh as the terms of the Treaty of Schönbrunn were, Austria would certainly have lost far more if they had been dispersed at Wagram rather than retreating in good order to Znaim; the mere presence of a substantial Austrian force limited the terms Napoleon could meaningfully force. 
+
+In 1812, Napoleon's demands on Russia – its forcible return to the French alliance system – were such that nothing short of destroying its means to resist would achieve his aims. The Russians handed him an opportunity to do so at Borodino, but he failed to capitalise on that opportunity, and the rest, as they say, was that.
 

@@ -37,7 +37,7 @@ RT Kristie Lu Stout✌🏽<br>In China, censors are already at work with the w
 
 ### 6: [2021-12-06 13:48:53+08:00 推文](https://twitter.com/cnmediaproject/status/1467732759351545860)
 
-The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
+The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
 
@@ -81,11 +81,11 @@ Re And Dalian Daily, the official organ of the CCP leadership in the city of Dal
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
-Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style="" src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
@@ -125,11 +125,11 @@ Re A report from the Global Times late yesterday about the forum asserts that: "
 
 ### 28: [2021-12-09 09:03:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468748020888240134)
 
-Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
-Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
@@ -145,7 +145,7 @@ Re The latest article, from 11/28, follows CCP talking points nearly verbatim. I
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
-Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
@@ -153,23 +153,23 @@ Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted t
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
-Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
-Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style="" src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-09 11:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468783218573082631)
 
-Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
+Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Daily, this being a byline reserved for important CCP central views on int'l affairs. This one is about Nathan Law, continuing yesterday's attacks, and it simply bristles. <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_7-03.htm</a><br><img style src="https://pbs.twimg.com/media/FGIqSj9UUAERa3G?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 
