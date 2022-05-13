@@ -91,3 +91,27 @@ Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy w
 
 RT Don Weinland<br>I resent state media workers who have cranked out positive news stories as average people in Shanghai suffer thru the lockdown. But I never thought about how awful it would be to do that job while also suffering. Good piece shines light on a tragic death: <a href="https://bit.ly/3wvWwL8" target="_blank" rel="noopener noreferrer">https://bit.ly/3wvWwL8</a>
 
+### 20: [2022-05-13 14:47:54+08:00 推文](https://twitter.com/lilkuo/status/1525004892493844480)
+
+RT Lily Kuo<br>China's strict covid policies under Xi Jinping are drawing comparisons to Mao-era mass campaigns where politics trump reality. “People start to parrot what they think the top leader wants to hear. The policymaking becomes very brittle and very extreme.” <a href="https://www.washingtonpost.com/world/2022/05/13/china-zero-covid-xi-policy-resentment/?tid=ss_tw" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/world/2022/05/13/china-zero-covid-xi-policy-resentment/?tid=ss_tw</a>
+
+### 21: [2022-05-13 15:28:21+08:00 推文](https://twitter.com/cnmediaproject/status/1525015073118625792)
+
+Re @lilkuo A criticism that could be made also of the push for "common prosperity" (共同富裕). <a href="https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/08/27/a-history-of-common-prosperity/</a>
+
+### 22: [2022-05-13 15:40:09+08:00 推文](https://twitter.com/cnmediaproject/status/1525018040978767872)
+
+In our latest CMP Interview, @schoenmakersk speaks to @LHongqiao about how environmental journalism is faring in China's difficult media climate. <a href="https://bit.ly/3l7mOhe" target="_blank" rel="noopener noreferrer">https://bit.ly/3l7mOhe</a><br><img style="" src="https://pbs.twimg.com/media/FSnztr0akAAqYd9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-05-13 15:43:21+08:00 推文](https://twitter.com/cnmediaproject/status/1525018848176783360)
+
+Re "Journalism [a decade ago] enabled social change. I don’t think that’s the case anymore. That’s not because the function of environmental journalism has changed, it’s because journalism’s ecosystem has deteriorated a lot in China."<br><img style="" src="https://pbs.twimg.com/media/FSn0jCVaUAA9_Vy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-05-13 15:43:48+08:00 推文](https://twitter.com/cnmediaproject/status/1525018961372680193)
+
+Re "The government has made reporting in general much more difficult. Journalists have to follow the script."
+
+### 25: [2022-05-13 16:06:14+08:00 推文](https://twitter.com/cnmediaproject/status/1525024605064540160)
+
+For those who missed it: Honoring China's Heroes -- the harsh sentencing of veteran journalist and "China Hero" Luo Changping for defaming China's martyrs and heroes reveals how profoundly values in Chinese society have shifted. <a href="https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/10/honoring-chinas-heroes/</a><br><img style="" src="https://pbs.twimg.com/media/FSn5xURVIAE4ZJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
