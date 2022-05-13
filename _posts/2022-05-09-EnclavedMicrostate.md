@@ -186,9 +186,57 @@ As for musket accuracy, it's perhaps worth stating that 'accurate' will always b
 
 You referred to it as a 'rifled musket' which it isn't – a rifled musket is something like the 1853 Enfield or the 1855 Springfield.
 
-### 426: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
+### 426: [Christian scholars say that there is a record of the resurrection of Jesus in the History of Latter Han Dynasty, Volume 1, Chronicles of Emperor Guang Wu, 7th year. Is this true or is there missing context?](https://old.reddit.com/r/AskHistorians/comments/uo5zh9/christian_scholars_say_that_there_is_a_record_of/), submitted on 2022-05-13 01:12:42+08:00.
 
------ __426.1__ -----2022-05-13 18:28:28+08:00:
+----- __426.1__ -----2022-05-13 21:19:52+08:00:
+
+I've just had a look at the passages in question, and while I will admit my Classical Chinese is, er, pretty dire, I think the translations as provided aren't far off the mark, *except* in the case of the 'Man from Heaven' passage. The original Chinese text can be independently verified on the edition hosted on the Chinese Text Project. First are the two taken from the general chronicles for the reign of Emperor Guangwu [here](https://ctext.org/hou-han-shu/guang-wu-di-ji-xia)
+
+> 癸亥晦，日有食之，避正殿，寑兵，不聽事五日。詔曰：「吾德薄致災，謫見日月，戰慄恐懼，夫何言哉！今方念愆，庶消厥咎。其令有司各修職任，奉遵法度，惠茲元元。百僚各上封事，無有所諱。其上書者，不得言聖。」
+
+Tucker, who skips over the second and third sentences of the proclamation attributed to Guangwu, gives
+
+> In the day of *Gui Hai*, the last day of the month, there was a solar eclipse. [The emperor] avoided the Throne Room, suspended all military activities and did not handle official business for five days.” [And he proclaimed;] “My poor character has caused this clamity *[sic]*, that the sun and the moon were veiled. I am fearful and trembling. What can I say ... Anyone who presents a memorial is not allowed to mention the word ‘holy.’”
+
+A translation as best as I can produce, with the inclusion of the missing sentences, might be along the lines of:
+
+> On the day Guihai which was the last day of the month, there was a solar eclipse, [the emperor] avoided the main hall, halted the troops, and did not listen to affairs of state for five days. The emperor proclaimed: 'My weak character (or lack of virtue) caused this disaster, [in which] the sun and moon have displayed ill omens, I tremble and am fearful, what can I say! [For] these worries and transgressions, [I have] much to blame (?). The officials are ordered to maintain their various functions, promulgate and obey the laws, and to be benevolent above all(?). If officials wish to make petitions (?), they will not be censured. Those who do so, may not mention the word 'holy' (or, may not speak of sacred things).
+
+As with anything Classical Chinese there's always wiggle room, and especially when I'm involved – the last sentence in particular may be open to some quibbling over whether it proscribes the use of the specific character *sheng* 聖 ('holy, sacred'), or more generally bars officials from mentioning sacred matters in their petitions.
+
+> 夏四月壬午，詔曰：「比陰陽錯謬，日月薄食。百姓有過，在予一人，大赦天下。公、卿、司隸、州牧舉賢良、方正各一人，遣詣公車，朕將覽試焉。」
+
+Tucker gives
+
+> “Summer, fourth month [of the year], on the day of Ren Wu, the imperial edict reads, “Yin and Yang have mistakenly switched, and the sun and moon were eclipsed. The sins of all the people are now on one man. Pardon is proclaimed to all under heaven.”
+
+I would give, in somewhat literal terms:
+
+> On the day Renwu in the fourth month in summer, the emperor proclaimed: 'As of late Yin and Yang have been in error, and the sun and moon have been eclipsed. The people's faults (or perhaps misfortunes?), have been passed to a single person, [and (so)] a great pardon is issued to all under Heaven. Dukes, ministers, officials of public works, and provincial governors uphold virtue, and are righteous to a man, [and] are invited to the capital, where We shall thus examine them.'
+
+My suspicion, for what it's worth, is that there are some implicit causations in that last sentence and that the overall meaning may be along the lines that Guangwu is seeking to assess the moral character of his officials through in-person interviews at the capital.
+
+As for the final quotation, taken from another section of the Book of Later Han, I wasn't able to find it in the Chinese Text Project's edition, although I see /u/y_sengaku has found a full version of it. What's interesting is that the statement in question *is not part of the original text*, but is instead an annotation by a later scholiast that was subsequently preserved in some later editions. The original quote is:
+
+> 七年三月癸亥晦，日有蝕之，在畢五度。畢為邊兵。秋，隗囂反，侵安定。冬，盧芳所置朔方、雲中太守各舉郡降。
+
+With the help of a slightly annotated version of the work it seems like it would be best translated as:
+
+> In the seventh year in the seventh month on the day Guihai which was the last of that month, there was a solar eclipse, [some astronomical phrase I don't understand]. Frontier campaigns (?) were concluded. In the autumn, Wei Xiao rebelled, and attacked Anding. In the winter, Lu Fang abandoned the north (?), and the governor of Yunzhong surrendered his province.
+
+The whole 'a man from Heaven died' quote is, as noted, an annotation involving a later commentator quoting an author or work called *Qiantan Ba*, and is inserted after the bit about the eclipse:
+
+> 潛潭巴曰：「癸亥日蝕，天人崩。」
+
+Tucker gives:
+
+> Eclipse on the day of *Gui Hai*, Man from Heaven died.
+
+But I would suggest that 'man from Heaven' is only one possible reading of '天人', literally 'heaven | man', which could just as easily – and I would argue much less tendentiously – be read as 'Heaven *and* Man', rather than as a 'man of Heaven' or similar. That is to say, there's no reason to read it as an adjective-noun phrase rather than as two nouns together. Equally, while 崩 can mean 'to die', this is only used for monarchs, and Guangwu most certainly did not die in the seventh year of his reign. In a more general sense it means something along the lines of 'collapse' or 'rupture', i.e. in a more figurative sense, it could – and probably does – simply mean that the affairs of both Heaven and man were thrown into disarray.
+
+### 427: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
+
+----- __427.1__ -----2022-05-13 18:28:28+08:00:
 
 No.
 
