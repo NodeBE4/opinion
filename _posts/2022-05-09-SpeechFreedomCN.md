@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-05-12
+date: 2022-05-13
 from: https://twitter.com/SpeechFreedomCN/status/1523441187767537665
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re Zhang's five Twitter accounts are @9RI1mjFjUpM1toU, @4UDF6HrfvZg5FBX, @zangf7
 ### 6: [2022-05-12 12:47:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1524612078903775232)
 
 Shaanxi man Guo, who posted a comment on Douyin that "insulted" police officers at a local Covid checkpoint, administratively detained.<br><img style="" src="https://pbs.twimg.com/media/FSfdeUiXIAAZvyF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSfdfx3XMAI4t24?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-05-13 08:09:03+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1524904519418761232)
+
+四川省自贡市贡井区公安在抖音发布了一段视频，内容为其办理了一起赌博案件，抓捕了16人并查扣了20万元赌资。当地男子杨某评论该视频称“是抢劫16人，不是被抓”“贡井土匪抢劫16人，抢得钱财20万”。警方认定其评论诋毁了警方，遂将其拘留14日并罚款900元。<br><video src="https://video.twimg.com/ext_tw_video/1524904439995420682/pu/vid/852x480/1kuZoQiV7p3_Ifcf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524904439995420682/pu/img/enXVSqRmpFnZ5IwK.jpg"></video>
+
+### 8: [2022-05-13 08:13:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1524905647854309385)
+
+Police in Sichuan said on Douyin that they arrested 16 gamblers and confiscated 200k RMB from them. Local man Yang then commented on it that police robbed 200k from the 16 people. Yang was later detained for 14 days &amp; fined 900 RMB for “slandering police”<br><video src="https://video.twimg.com/ext_tw_video/1524904439995420682/pu/vid/852x480/1kuZoQiV7p3_Ifcf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524904439995420682/pu/img/enXVSqRmpFnZ5IwK.jpg"></video>
 
