@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-12
+date: 2022-05-13
 from: https://twitter.com/JeromeTaylor/status/1523506118978568192
 layout: post
 tags:
@@ -74,4 +74,20 @@ Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy w
 ### 15: [2022-05-12 13:42:28+08:00 推文](https://twitter.com/donweinland/status/1524626039502082048)
 
 RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to live in tents on the streets. Here's a shot from this morning next to my hotel (I was out for a PCR test). @_KarenHao has written about why this is happening <a href="https://on.wsj.com/3stkXr8" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3stkXr8</a><br><img style="" src="https://pbs.twimg.com/media/FSiNy2KUcAAvTph?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-05-13 11:39:08+08:00 推文](https://twitter.com/cnmediaproject/status/1524957389832990720)
+
+Xi's speech for the 100th anniversary of the Chinese Communist Youth League was meant to inspire loyalty in the next generation -- but also to shape the CCP's view of history in favor of his rule. <a href="https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/</a><br><img style="" src="https://pbs.twimg.com/media/FSm8pzGakAMjgfo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-05-13 11:40:30+08:00 推文](https://twitter.com/cnmediaproject/status/1524957734353117184)
+
+Re The CCP's history is defined in four segments. The first three, encompassing the Chinese Civil War through to 2012 are mere "periods." But Xi's segment from 2012 to the present is a "New Era."<br><img style="" src="https://pbs.twimg.com/media/FSm8-CnacAEYUfX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-05-13 11:41:49+08:00 推文](https://twitter.com/cnmediaproject/status/1524958064990105600)
+
+Days before her death on May 4, Shanghai journalist Tong Weijing was kept busy writing from lockdown for one of the city’s leading state-run daily newspapers. Some have wondered why state media have responded with silence to the tragic news of her passing. <a href="https://bit.ly/3MaRM3T" target="_blank" rel="noopener noreferrer">https://bit.ly/3MaRM3T</a><br><img style="" src="https://pbs.twimg.com/media/FSm9PNdacAAEqXJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-05-13 11:47:36+08:00 推文](https://twitter.com/donweinland/status/1524959518458753024)
+
+RT Don Weinland<br>I resent state media workers who have cranked out positive news stories as average people in Shanghai suffer thru the lockdown. But I never thought about how awful it would be to do that job while also suffering. Good piece shines light on a tragic death: <a href="https://bit.ly/3wvWwL8" target="_blank" rel="noopener noreferrer">https://bit.ly/3wvWwL8</a>
 
