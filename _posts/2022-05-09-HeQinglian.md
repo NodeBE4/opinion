@@ -321,7 +321,7 @@ Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 中国皇帝没这医疗水平
 
 ### 77: [2022-05-11 05:44:33+08:00 推文](https://twitter.com/HeQinglian/status/1524143377725411334)
 
-拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
+RT He Qinglian<br>拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
 
 ### 78: [2022-05-11 05:56:51+08:00 推文](https://twitter.com/HeQinglian/status/1524146473734127617)
 
@@ -353,7 +353,7 @@ RT joe wong<br>Re @Lucs24659702<br><img style="" src="https://pbs.twimg.com/me
 
 ### 85: [2022-05-11 06:49:30+08:00 推文](https://twitter.com/RealBeiMing/status/1524159724018716672)
 
-RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！
+RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！<br><br>北明BeiMing: 中文版 烏俄戰爭隱藏的事實<br>歐洲權威人士披露，內容充實，視角深入，筆觸平實……作者的特殊身份和經歷使文章自帶權威性。<br><br>譯者冒天下大不韙翻譯此文，是出於道義責任和職業習慣，希望為善於思考的少數讀者提供被屏蔽的信息和埋沒在海量論說中的有價值的見解，以便兼聽則明。<br> <a href="https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw</a> <a href="https://twitter.com/fuzzyface/status/1515549870484238336" target="_blank" rel="noopener noreferrer">https://twitter.com/fuzzyface/status/1515549870484238336</a>
 
 ### 86: [2022-05-11 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1524161283263766528)
 
@@ -474,4 +474,16 @@ Re @QhRhilsrP5KMDYj 那不是我写的书，是当年程晓农与吴国光主编
 ### 115: [2022-05-14 06:52:51+08:00 推文](https://twitter.com/HeQinglian/status/1525247733069668352)
 
 Re @Y8LLkJdmzJ0gY5e @FightForJiuCai 韩战有李承晚政府、越南有吴庭艳政府，阿富汗战争、叙利亚都扶植了本土政治集团，叙利亚的反对势力后来成了ISIS。就连伊拉克，萨达姆原来也是美国扶植的。<br>美国人自己比你清楚。代理人战争不是直接入侵，有当地政府或者政治势力“邀请”，名正言顺。
+
+### 116: [2022-05-14 11:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1525314834740482049)
+
+Re @QhRhilsrP5KMDYj 你去程晓农推下问他吧。
+
+### 117: [2022-05-14 11:20:46+08:00 推文](https://twitter.com/HeQinglian/status/1525315153398484992)
+
+Re @Y8LLkJdmzJ0gY5e @FightForJiuCai 应该说，你现在一个Fo，注册来纠缠不休，不知你的工作是什么？<br>你这推号我也不止一次看到。
+
+### 118: [2022-05-14 11:32:56+08:00 推文](https://twitter.com/HeQinglian/status/1525318216037322753)
+
+支持乌克兰 西欧与英美分歧加深 <br>西方支持乌克兰的立场在西欧人与盎格鲁-萨克逊人之间分歧越来越大，后者继续其削弱俄罗斯的战略目标，其潜在后果让前者担心。<br>法新社评论说：拜登与马克龙两人就概括了这一不和谐的情形。 <a href="https://rfi.my/8PmV.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8PmV.T</a>
 
