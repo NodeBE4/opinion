@@ -212,11 +212,11 @@ Tucker gives
 
 I would give, in somewhat literal terms:
 
-> On the day Renwu in the fourth month in summer, the emperor proclaimed: 'As of late Yin and Yang have been in error, and the sun and moon have been eclipsed. The people's faults (or perhaps misfortunes?), have been passed to a single person, [and (so)] a great pardon is issued to all under Heaven. Dukes, ministers, officials of public works, and provincial governors uphold virtue, and are righteous to a man, [and] are invited to the capital, where We shall thus examine them.'
+> On the day Renwu in the fourth month in summer, the emperor proclaimed: 'As of late Yin and Yang have been in error, and the sun and moon have been eclipsed. The people's faults (or perhaps misfortunes?), have been passed to a single person, [and (so)] a great pardon is issued to all under Heaven. Dukes, ministers, officials of public works, and provincial governors ~~uphold virtue, and are righteous to a man, [and] are invited to the capital,~~ should seek out those who uphold virtue and are righteous, and each dispatch one man to the capital, where We shall thus examine them.'
 
-My suspicion, for what it's worth, is that there are some implicit causations in that last sentence and that the overall meaning may be along the lines that Guangwu is seeking to assess the moral character of his officials through in-person interviews at the capital.
+~~My suspicion, for what it's worth, is that there are some implicit causations in that last sentence and that the overall meaning may be along the lines that Guangwu is seeking to assess the moral character of his officials through in-person interviews at the capital.~~ Again, there's some wiggle room, but this seems to be a case of the emperor seeking advice on issues afflicting various areas of the empire and looking for capable men to promote to office.
 
-As for the final quotation, taken from another section of the Book of Later Han, I wasn't able to find it in the Chinese Text Project's edition, although I see /u/y_sengaku has found a full version of it. What's interesting is that the statement in question *is not part of the original text*, but is instead an annotation by a later scholiast that was subsequently preserved in some later editions. The original quote is:
+As for the final quotation, taken from another section of the Book of Later Han, I wasn't able to find it in the Chinese Text Project's edition, although I see /u/y_sengaku has found a full version of it. What's interesting is that this appears to be because the statement in question *is not part of the original text*, but is instead an annotation by a later scholiast that was subsequently preserved in some later editions. The original quote is:
 
 > 七年三月癸亥晦，日有蝕之，在畢五度。畢為邊兵。秋，隗囂反，侵安定。冬，盧芳所置朔方、雲中太守各舉郡降。
 

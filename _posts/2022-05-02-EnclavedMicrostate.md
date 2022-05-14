@@ -159,3 +159,7 @@ In essence this is, uh, kinda big news, at least if you're in the Sinophone VTub
 
 You say turning corporate, but corporate VTubers have been around longer than indies if we start from Kizuna AI, who was literally conceived as a corporate product decoupled from the talent behind her. Indies followed very soon after, but the major agency players like Activ8 (Kizuna AI, upd8), Cover (Hololive), Ichikara/Anycolor (Nijisanji, VirtuaReal), and Unlimited/Brave Group (Game-Bu, Riot Music) all cut their teeth during the initial wave in 2017-18.
 
+----- __411.3__ -----2022-05-14 19:22:12+08:00:
+
+It's fascinating how they thought they could get away with just releasing the pay info – something that proved things were *worse* than thought – while categorically denying the rest.
+
