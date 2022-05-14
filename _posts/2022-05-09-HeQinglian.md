@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-14
+date: 2022-05-15
 from: https://twitter.com/HeQinglian/status/1523332655105945601
 layout: post
 tags:
@@ -145,7 +145,7 @@ Re @EmprHeart 现在有多少美债是靠美政府指定机构买的，或者依
 
 ### 33: [2022-05-09 09:25:44+08:00 推文](https://twitter.com/HeQinglian/status/1523474267157168128)
 
-白宫前发言人普萨基说：“胜利”的定义取决于乌克兰自己的选择，“我们通过自始以来给与的国防支持加强了乌克兰在谈判桌上的筹码”，战争爆发初期，俄罗斯计划在短期内控制乌克兰，但没达到这一目标，因此“俄罗斯从自己的角度早已输掉这场战争” <br><br>男女可以重新定义，当然一切皆可。<br><br>👿鲜卑侠👿: 哈哈哈哈，乌克阑子必亡喽！🥳🥳🥳<br><br>根据西方专家的说法，乌克兰已经彻彻底底输掉了这场战争，因为它已经失去了：<br>100%的油气田<br>所有炼油厂和大型油库<br>重要的粮食产区和良田<br>煤矿<br>最重要四个大型港口<br>
+白宫前发言人普萨基说：“胜利”的定义取决于乌克兰自己的选择，“我们通过自始以来给与的国防支持加强了乌克兰在谈判桌上的筹码”，战争爆发初期，俄罗斯计划在短期内控制乌克兰，但没达到这一目标，因此“俄罗斯从自己的角度早已输掉这场战争” <br><br>男女可以重新定义，当然一切皆可。 <a href="https://www.trt.net.tr/chinese/guo-ji/2022/05/05/mei-guo-e-luo-si-zao-yi-shu-diao-wu-ke-lan-zhan-zheng-182227205" target="_blank" rel="noopener noreferrer">https://www.trt.net.tr/chinese/guo-ji/2022/05/05/mei-guo-e-luo-si-zao-yi-shu-diao-wu-ke-lan-zhan-zheng-182227205</a>
 
 ### 34: [2022-05-09 09:29:05+08:00 推文](https://twitter.com/HeQinglian/status/1523475108601290754)
 
@@ -490,4 +490,8 @@ Re @Y8LLkJdmzJ0gY5e @FightForJiuCai 应该说，你现在一个Fo，注册来纠
 ### 119: [2022-05-14 21:12:16+08:00 推文](https://twitter.com/HeQinglian/status/1525464008656035840)
 
 Re @JianglinLi @david_david1968 @Wu_Zhi @RealBeiMing 天作孽，犹可存；自作孽，不可活。<br>只要回首美国自柏林墙倒塌-全球化以来的本国政治，就知道这句话很适用于美国。<br>1970年代后期-1990中期，美国如日中天。
+
+### 120: [2022-05-15 02:32:40+08:00 推文](https://twitter.com/HeQinglian/status/1525544641621381121)
+
+Re @Wu_Zhi @JianglinLi 非常果敢的决定。如其所愿，俄罗斯一下少了一大笔收入，很快撑不下去了。😂
 
