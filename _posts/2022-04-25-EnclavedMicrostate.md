@@ -162,9 +162,15 @@ Yes to the former, and both yes and no to the latter – sometimes they do atten
 
 No it's fine! In terms of IRL activities in relation to Dokomi in particular, Kiara straight up said before she was going, and again after, that she was there in person. It's always possible to talk about IRL activities without revealing one's IRL identity, after all. Having someone in person at the event in general, but still doing the meetup digitally, won't be a major issue. It is not, to my knowledge, explicitly known to the general public what the contractual terms are regarding revealing IRL identities, but in general it is prohibited for a Hololive talent to knowingly and deliberately reveal their IRL identity from their Hololive channel or vice versa, but normal accidental slip-ups have always been tolerated.
 
-### 381: [question about soju and meimei clips](https://old.reddit.com/r/Hololive/comments/ucb7zr/question_about_soju_and_meimei_clips/), submitted on 2022-04-26 20:17:16+08:00.
+### 381: [a rare namirin fanart](https://old.reddit.com/r/VirtualYoutubers/comments/uc2vbv/a_rare_namirin_fanart/), submitted on 2022-04-26 11:05:13+08:00.
 
------ __381.1__ -----2022-04-26 20:24:12+08:00:
+----- __381.1__ -----2022-05-15 03:39:46+08:00:
+
+She's still very active under a different identity. Spoiler following so just, uh, look out: >!IRyS of Hololive's Project:HOPE.!<
+
+### 382: [question about soju and meimei clips](https://old.reddit.com/r/Hololive/comments/ucb7zr/question_about_soju_and_meimei_clips/), submitted on 2022-04-26 20:17:16+08:00.
+
+----- __382.1__ -----2022-04-26 20:24:12+08:00:
 
 [Virtualyzm](https://www.youtube.com/c/Virtualyzm) for Noel
 
@@ -172,9 +178,9 @@ No it's fine! In terms of IRL activities in relation to Dokomi in particular, Ki
 
 [Major Arcana](https://www.youtube.com/channel/UCCz-_ns0sn7fppx35HMznFw) for Mio
 
-### 382: [Is this study guide for a college level U.S. Federal Government class politically biased? I’m helping my sister study for her final, but even I’m confused by the wording here. If it’s not biased, could someone give her a hand with what’s being asked here (as much as you can)?](https://old.reddit.com/r/AskHistorians/comments/ucc6hg/is_this_study_guide_for_a_college_level_us/), submitted on 2022-04-26 21:07:25+08:00.
+### 383: [Is this study guide for a college level U.S. Federal Government class politically biased? I’m helping my sister study for her final, but even I’m confused by the wording here. If it’s not biased, could someone give her a hand with what’s being asked here (as much as you can)?](https://old.reddit.com/r/AskHistorians/comments/ucc6hg/is_this_study_guide_for_a_college_level_us/), submitted on 2022-04-26 21:07:25+08:00.
 
------ __382.1__ -----2022-04-26 21:21:44+08:00:
+----- __383.1__ -----2022-04-26 21:21:44+08:00:
 
 Hi - we as mods have approved this thread, because while this is a homework question, it is asking for clarification or resources, rather than the answer itself, which is fine according to [our rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). This policy is further explained in this [Rules Roundtable thread](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) and this [META Thread](http://www.reddit.com/r/AskHistorians/comments/35pkem/askhistorians_homework_question_policy_rehash/).
 
@@ -182,13 +188,13 @@ As a result, we'd also like to remind potential answerers to follow our rules on
 
 Additionally, while users may be able to help you out with specifics relating to your question, we also have plenty of information on /r/AskHistorians on how to find and understand good sources in general. For instance, please check out our six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay.
 
------ __382.2__ -----2022-04-26 22:28:23+08:00:
+----- __383.2__ -----2022-04-26 22:28:23+08:00:
 
 Mods can't pin comments by non-moderators, but you should be able to edit it into the post text.
 
-### 383: [Did Alexander the great idolized Cyrus (founder of Achaemenid persia) .?](https://old.reddit.com/r/AskHistorians/comments/ucilcj/did_alexander_the_great_idolized_cyrus_founder_of/), submitted on 2022-04-27 02:00:06+08:00.
+### 384: [Did Alexander the great idolized Cyrus (founder of Achaemenid persia) .?](https://old.reddit.com/r/AskHistorians/comments/ucilcj/did_alexander_the_great_idolized_cyrus_founder_of/), submitted on 2022-04-27 02:00:06+08:00.
 
------ __383.1__ -----2022-04-27 18:18:29+08:00:
+----- __384.1__ -----2022-04-27 18:18:29+08:00:
 
 Thanks for the answer link! That said, I think the issue of Alexander and Cyrus is more complicated than just what I write in that answer, and I don't want to inadvertently give off the impression that Alexander had no affinity whatever for Cyrus. As I note in that answer, the notion that Alexander read the *Cyropaedia* is a tempting but unprovable one: we don't know the curriculum of Alexander's education in general, and we don't have anything more than circumstantial evidence to suggest that the *Cyropaedia* might have been part of it. However, the *Cyropaedia* is also notable as nevertheless the only work in the Xenophontic corpus which we can be reasonably sure Alexander had at least indirect exposure to, as Antigonos' brother Marsyas had been writing an *Education of Alexander* modelled on the *Cyropaedia* when on campaign with Alexander up to 331, and as a member of Alexander's extended circle of friends would almost certainly have introduced him to at least some elements of the *Cyropaedia* as a result. All this to say that we cannot say with any degree of certainty whether Alexander was particularly aware of Cyrus as depicted by Xenophon.
 
@@ -238,19 +244,9 @@ This grants some legitimacy to Curtius' account, at least in my view, as it sugg
 
 But that part is largely beside the point. What really matters is that while yes, Alexander could merely have been indignant over the desecration, he was clearly interested in the tomb beforehand. Where the Aristoboulos and Curtius versions differ is simply in terms of the timeframe: Aristoboulos claims that he had already visited the tomb once in 330, while Curtius suggests that he did not enter it until his second visit to Pasargadae in 324. In both versions, he made his first visit before being made aware of the looting, which is enough to suggest a genuine interest in Cyrus on some level. Just far from outright idolisation.
 
-### 384: [What are some examples of states or leaders "crossing the rubicon" and taking extreme political risk, specifically in the modern period (18th century onward)?](https://old.reddit.com/r/AskHistorians/comments/ucsv1d/what_are_some_examples_of_states_or_leaders/), submitted on 2022-04-27 10:12:26+08:00.
+### 385: [What are some examples of states or leaders "crossing the rubicon" and taking extreme political risk, specifically in the modern period (18th century onward)?](https://old.reddit.com/r/AskHistorians/comments/ucsv1d/what_are_some_examples_of_states_or_leaders/), submitted on 2022-04-27 10:12:26+08:00.
 
------ __384.1__ -----2022-04-27 11:29:06+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 385: [Famously lazy Enlightenment philosopher?](https://old.reddit.com/r/AskHistorians/comments/uct2uw/famously_lazy_enlightenment_philosopher/), submitted on 2022-04-27 10:24:01+08:00.
-
------ __385.1__ -----2022-04-27 11:30:06+08:00:
+----- __385.1__ -----2022-04-27 11:29:06+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -258,27 +254,37 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 386: [friend found the suisei bus in hk](https://old.reddit.com/r/Hololive/comments/ucuzou/friend_found_the_suisei_bus_in_hk/), submitted on 2022-04-27 12:12:46+08:00.
+### 386: [Famously lazy Enlightenment philosopher?](https://old.reddit.com/r/AskHistorians/comments/uct2uw/famously_lazy_enlightenment_philosopher/), submitted on 2022-04-27 10:24:01+08:00.
 
------ __386.1__ -----2022-04-27 19:19:09+08:00:
+----- __386.1__ -----2022-04-27 11:30:06+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 387: [friend found the suisei bus in hk](https://old.reddit.com/r/Hololive/comments/ucuzou/friend_found_the_suisei_bus_in_hk/), submitted on 2022-04-27 12:12:46+08:00.
+
+----- __387.1__ -----2022-04-27 19:19:09+08:00:
 
 Nice! I unfortunately missed the window for its original route and I don't think I live near where it would be going now.
 
-### 387: [Do the hololive members receive singing training ? If they do, who teaches them ?](https://old.reddit.com/r/Hololive/comments/ud4gwk/do_the_hololive_members_receive_singing_training/), submitted on 2022-04-27 22:09:31+08:00.
+### 388: [Do the hololive members receive singing training ? If they do, who teaches them ?](https://old.reddit.com/r/Hololive/comments/ud4gwk/do_the_hololive_members_receive_singing_training/), submitted on 2022-04-27 22:09:31+08:00.
 
------ __387.1__ -----2022-04-28 00:58:33+08:00:
+----- __388.1__ -----2022-04-28 00:58:33+08:00:
 
 Most notably how her singing coach straight up ghosted the training agency one day.
 
-### 388: [When Would “Cold War II” Have Started, and What Specifically Caused It?](https://old.reddit.com/r/AskHistorians/comments/ud5wmt/when_would_cold_war_ii_have_started_and_what/), submitted on 2022-04-27 23:14:26+08:00.
+### 389: [When Would “Cold War II” Have Started, and What Specifically Caused It?](https://old.reddit.com/r/AskHistorians/comments/ud5wmt/when_would_cold_war_ii_have_started_and_what/), submitted on 2022-04-27 23:14:26+08:00.
 
------ __388.1__ -----2022-04-27 23:21:19+08:00:
+----- __389.1__ -----2022-04-27 23:21:19+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 389: [What was the name of this ancient game, and how did the story go?](https://old.reddit.com/r/AskHistorians/comments/ud7rhv/what_was_the_name_of_this_ancient_game_and_how/), submitted on 2022-04-28 00:35:47+08:00.
+### 390: [What was the name of this ancient game, and how did the story go?](https://old.reddit.com/r/AskHistorians/comments/ud7rhv/what_was_the_name_of_this_ancient_game_and_how/), submitted on 2022-04-28 00:35:47+08:00.
 
------ __389.1__ -----2022-04-28 00:39:00+08:00:
+----- __390.1__ -----2022-04-28 00:39:00+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -286,9 +292,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 390: [What’s going on with the strong quarantine rules happening in a China?](https://old.reddit.com/r/OutOfTheLoop/comments/udul0w/whats_going_on_with_the_strong_quarantine_rules/), submitted on 2022-04-28 21:07:17+08:00.
+### 391: [What’s going on with the strong quarantine rules happening in a China?](https://old.reddit.com/r/OutOfTheLoop/comments/udul0w/whats_going_on_with_the_strong_quarantine_rules/), submitted on 2022-04-28 21:07:17+08:00.
 
------ __390.1__ -----2022-04-29 12:04:47+08:00:
+----- __391.1__ -----2022-04-29 12:04:47+08:00:
 
 Answer: 
 
@@ -310,21 +316,21 @@ A couple of good things to read on this are:
 
 [This article](https://madeinchinajournal.com/2022/04/22/covid-among-us-viral-mobilities-in-shenzhens-moral-geography/) by Mary Ann O'Donnell looking at the Shenzhen lockdown from a sociological perspective (a dense read, but where I got a lot of the info for the above from).
 
------ __390.2__ -----2022-04-29 12:06:15+08:00:
+----- __391.2__ -----2022-04-29 12:06:15+08:00:
 
 Above I allude to the security apparatus, and I decided not to go into it too far because it'd start verging outside the impartiality expected from a top-level. I'd recommend looking at O'Donnell's article and its sources, as there is a case to be made that the grid-management system can be understood as either a slightly softened import from Xinjiang, or as a sort of low-security tier applied to Han Chinese cities while ethnic minority regions get the high-security regime.
 
 EDIT: I'm not sure if I'm being misinterpreted or anything, but all I'm saying above is that there's been two possible interpretations of the grid management system in relation to the current Chinese surveillance state in Xinjiang: either Xinjiang has been used as a testbed for technologies being rolled out on a less intensive scale in China, or that the surveillance state in general is being ramped up everywhere, with ethnic minority regions e.g. Xinjiang disproportionately targeted.
 
-### 391: [Why must my parents come at the perfect time...](https://old.reddit.com/r/Hololive/comments/uec7pd/why_must_my_parents_come_at_the_perfect_time/), submitted on 2022-04-29 10:55:42+08:00.
+### 392: [Why must my parents come at the perfect time...](https://old.reddit.com/r/Hololive/comments/uec7pd/why_must_my_parents_come_at_the_perfect_time/), submitted on 2022-04-29 10:55:42+08:00.
 
------ __391.1__ -----2022-04-29 17:05:13+08:00:
+----- __392.1__ -----2022-04-29 17:05:13+08:00:
 
 It's an MV for a recent original song by VTuber Houshou Marine: https://www.youtube.com/watch?v=u_hUpHUTJwQ
 
-### 392: [What Happened to Alexander the Great’s Cloak?](https://old.reddit.com/r/AskHistorians/comments/uefdrt/what_happened_to_alexander_the_greats_cloak/), submitted on 2022-04-29 14:04:49+08:00.
+### 393: [What Happened to Alexander the Great’s Cloak?](https://old.reddit.com/r/AskHistorians/comments/uefdrt/what_happened_to_alexander_the_greats_cloak/), submitted on 2022-04-29 14:04:49+08:00.
 
------ __392.1__ -----2022-04-29 16:26:06+08:00:
+----- __393.1__ -----2022-04-29 16:26:06+08:00:
 
 Alexander supposedly wore cloaks, but that doesn't mean he supposedly wore a *specific* cloak. Now, we do know the style of that cloak: Alexander is known to have worn a purple *chlamys* as part of his royal costume, per a paraphrase of Ephippos of Olynthos preserved by the rhetoretician Athenaios (translation via Andrew Collins):
 
@@ -344,53 +350,53 @@ Cleopatra in this case is *the* Cleopatra, i.e. Cleopatra VII. How she came to b
 
 I would propose that there are two ways this cloak might have ended up with Pompey. The first is that the cloak was genuine. It may have been buried with Alexander when Ptolemy I purloined the funeral carriage and had his body interred at Memphis in 321 BCE, and was then transferred to Alexandria when he was reburied ca. 280; at some stage, Cleopatra decided that one of the cloaks would be gifted to or stored on Kos. The second, and I would argue far more likely scenario – as Appian's own scepticism suggests – is that the cloak was a fake, passed off as one that had actually been worn by Alexander. But at what stage of the process this forgery occurred is unclear: It could have been that it had been done by the Ptolemies, or by Mithridates, or even by Pompey for all that we know. It would not be the first time that spurious claims had been made about certain items of Alexander's insignia, as I discuss in the case of [this answer](https://www.reddit.com/r/AskHistorians/comments/r762uj/what_happened_to_alexander_the_greats_royal/) on Eumenes of Kardia and Alexander's armour and sceptre – or, more correctly, his *alleged* armour and sceptre.
 
------ __392.2__ -----2022-05-04 11:59:56+08:00:
+----- __393.2__ -----2022-05-04 11:59:56+08:00:
 
 Without being too glib about it, who gives a damn? Appian suggests that nobody actually took the claim that it was Alexander's cloak seriously. As for your suggestion that he had it when facing Caesar in Greece, I could find no reference to this in Appian, Plutarch, or Caesar, and so I don't think it's in any way a historical claim – not unlike what you seem to have absorbed about Mithridates wearing it before his allies. Is it possible you've picked up a bit from some piece of historical fiction? As far as I can tell the entire history of the alleged cloak of Mithridates is contained in a single sentence of Appian.
 
-### 393: [Can't believe British food is this bland, no this is not fake look it up. The Royal Institute Of Chemistry was involved in this somehow, don't ask me why, cause I don't f*cking know?](https://old.reddit.com/r/StupidFood/comments/uf398e/cant_believe_british_food_is_this_bland_no_this/), submitted on 2022-04-30 12:09:02+08:00.
+### 394: [Can't believe British food is this bland, no this is not fake look it up. The Royal Institute Of Chemistry was involved in this somehow, don't ask me why, cause I don't f*cking know?](https://old.reddit.com/r/StupidFood/comments/uf398e/cant_believe_british_food_is_this_bland_no_this/), submitted on 2022-04-30 12:09:02+08:00.
 
------ __393.1__ -----2022-04-30 12:54:43+08:00:
+----- __394.1__ -----2022-04-30 12:54:43+08:00:
 
 Toast sandwiches aren't a normal thing to eat in Britain though. They were devised in the 1860s as something digestible for invalids – i.e. hospital patients – and brought to public attention in 2011 as a semi-joke during the recession.
 
-### 394: [Unclarity about Terminology: The term "Viking" is a modern word](https://old.reddit.com/r/badhistory/comments/ufcvnh/unclarity_about_terminology_the_term_viking_is_a/), submitted on 2022-04-30 23:02:29+08:00.
+### 395: [Unclarity about Terminology: The term "Viking" is a modern word](https://old.reddit.com/r/badhistory/comments/ufcvnh/unclarity_about_terminology_the_term_viking_is_a/), submitted on 2022-04-30 23:02:29+08:00.
 
------ __394.1__ -----2022-05-05 17:15:57+08:00:
+----- __395.1__ -----2022-05-05 17:15:57+08:00:
 
 So, there are two kinds of 'wick's – those derived from Latin *vicus* and/or Old English *wīc*, which simply means 'dwelling' or sometimes 'market' in the OE case; and those that are cognate with Old Norse *vik* and mean 'bay'. Alnwick and Warwick belong to the former, while Keswick and Berwick belong to the latter. However, as far as I know the latter *only* includes 'wick', whereas the former can also be 'wich', so Sandwich, Ipswich, Norwich, and Woolwich get their 'wich'es via Latin/Old English for 'dwelling' rather than Old Norse for 'bay'.
 
-### 395: [Amane "not a lesbian" Kanata](https://old.reddit.com/r/Hololive/comments/ufthij/amane_not_a_lesbian_kanata/), submitted on 2022-05-01 14:09:07+08:00.
+### 396: [Amane "not a lesbian" Kanata](https://old.reddit.com/r/Hololive/comments/ufthij/amane_not_a_lesbian_kanata/), submitted on 2022-05-01 14:09:07+08:00.
 
------ __395.1__ -----2022-05-02 08:42:29+08:00:
+----- __396.1__ -----2022-05-02 08:42:29+08:00:
 
 > But she lives in Germany
 
 *Austria. Tragically, the Holy Roman Empire is now long gone, and the definition of 'Germany' has contracted considerably to exclude the land of schnitzel and Sachertorte.
 
------ __395.2__ -----2022-05-02 12:40:55+08:00:
+----- __396.2__ -----2022-05-02 12:40:55+08:00:
 
 It’s not for us to speculate of course, but she mentions it often enough that it’s hardly a secret.
 
-### 396: [[Hobby Scuffles] Week of May 2, 2022](https://old.reddit.com/r/HobbyDrama/comments/ug1oq8/hobby_scuffles_week_of_may_2_2022/), submitted on 2022-05-01 23:00:16+08:00.
+### 397: [[Hobby Scuffles] Week of May 2, 2022](https://old.reddit.com/r/HobbyDrama/comments/ug1oq8/hobby_scuffles_week_of_may_2_2022/), submitted on 2022-05-01 23:00:16+08:00.
 
------ __396.1__ -----2022-05-05 17:20:22+08:00:
+----- __397.1__ -----2022-05-05 17:20:22+08:00:
 
 I mean, it's also causing damage to the dress, adding wear that will mean it's been pushed that much closer to the point where it ceases to exist as a physical object.
 
------ __396.2__ -----2022-05-05 17:22:00+08:00:
+----- __397.2__ -----2022-05-05 17:22:00+08:00:
 
 I'm not saying historical minis are better, but they are. There's no being tied to a specific game system, there's easy real-world inspiration at your fingertips, it's great.
 
------ __396.3__ -----2022-05-05 17:27:42+08:00:
+----- __397.3__ -----2022-05-05 17:27:42+08:00:
 
 You will be painting the *Grande Armee* day in, day out, young man, and you are going to *like* it! Or else.
 
------ __396.4__ -----2022-05-07 16:36:45+08:00:
+----- __397.4__ -----2022-05-07 16:36:45+08:00:
 
 Dumb as that phrasing is, I have seen some serious suggestions that some of the COVID control measures and mechanisms that have been rolled out in China proper have been at least partly derived from systems employed in Xinjiang – near the end of [this article](https://madeinchinajournal.com/2022/04/22/covid-among-us-viral-mobilities-in-shenzhens-moral-geography/) for instance. Though even there it's not wholly sure what to make of it – is the Xinjiang model being replicated wholesale, or are Han Chinese cities and communities getting the 'lite' version of programmes whose full force is still targeted against ethnic minorities?
 
------ __396.5__ -----2022-05-07 16:39:35+08:00:
+----- __397.5__ -----2022-05-07 16:39:35+08:00:
 
 I know the illustrations for the original... quintilogy(? I think that's the word) gave him a kind of olivey skin tone so it's definitely not an unreasonable take.
 
