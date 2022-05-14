@@ -67,6 +67,10 @@ But if ティー and チー are pronounced the same then it doesn't make a diffe
 
 I mean, 'a while' is only 11 days in this case. But yeah, the moment I saw A-Soul was going under my mind immediately went to bellumodo.
 
+----- __417.3__ -----2022-05-15 02:52:24+08:00:
+
+Right?! Why ban channels for having porn spambots on them, but *not the porn spambots themselves*!?
+
 ### 418: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
 
 ----- __418.1__ -----2022-05-10 08:37:09+08:00:
@@ -214,7 +218,7 @@ I would give, in somewhat literal terms:
 
 > On the day Renwu in the fourth month in summer, the emperor proclaimed: 'As of late Yin and Yang have been in error, and the sun and moon have been eclipsed. The people's faults (or perhaps misfortunes?), have been passed to a single person, [and (so)] a great pardon is issued to all under Heaven. Dukes, ministers, officials of public works, and provincial governors ~~uphold virtue, and are righteous to a man, [and] are invited to the capital,~~ should seek out those who uphold virtue and are righteous, and each dispatch one man to the capital, where We shall thus examine them.'
 
-~~My suspicion, for what it's worth, is that there are some implicit causations in that last sentence and that the overall meaning may be along the lines that Guangwu is seeking to assess the moral character of his officials through in-person interviews at the capital.~~ Again, there's some wiggle room, but this seems to be a case of the emperor seeking advice on issues afflicting various areas of the empire and looking for capable men to promote to office.
+~~My suspicion, for what it's worth, is that there are some implicit causations in that last sentence and that the overall meaning may be along the lines that Guangwu is seeking to assess the moral character of his officials through in-person interviews at the capital.~~
 
 As for the final quotation, taken from another section of the Book of Later Han, I wasn't able to find it in the Chinese Text Project's edition, although I see /u/y_sengaku has found a full version of it. What's interesting is that this appears to be because the statement in question *is not part of the original text*, but is instead an annotation by a later scholiast that was subsequently preserved in some later editions. The original quote is:
 
@@ -284,9 +288,15 @@ In 1812, Napoleon's demands on Russia – its forcible return to the French alli
 
 To add to /u/farranpoison's point, Mel was originally a solo debut (hence debuting in mid-May rather than 1-3 June like the rest of Gen 1), but after Chris' exit she was retconned as being part of Gen 1.
 
-### 430: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
+### 430: [ignore the commentary, just focus on this completely inedible nonsense](https://old.reddit.com/r/StupidFood/comments/up8urj/ignore_the_commentary_just_focus_on_this/), submitted on 2022-05-14 11:51:22+08:00.
 
------ __430.1__ -----2022-05-14 16:10:27+08:00:
+----- __430.1__ -----2022-05-15 02:47:49+08:00:
+
+Okay this is chefclub for sure right? That griddle with part of the plastic casing broken off appears in most of their videos.
+
+### 431: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
+
+----- __431.1__ -----2022-05-14 16:10:27+08:00:
 
 Hi - we as mods have approved this thread, because while this is a homework question, it is asking for clarification or resources, rather than the answer itself, which is fine according to [our rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). This policy is further explained in this [Rules Roundtable thread](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) and this [META Thread](http://www.reddit.com/r/AskHistorians/comments/35pkem/askhistorians_homework_question_policy_rehash/).
 
