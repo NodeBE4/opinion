@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-13
+date: 2022-05-14
 from: https://twitter.com/JeromeTaylor/status/1523506118978568192
 layout: post
 tags:
@@ -142,4 +142,16 @@ Re "On the other hand, the foreign voice is illegitimate. It cannot understand C
 ### 32: [2022-05-13 17:26:41+08:00 推文](https://twitter.com/RFAChinese/status/1525044851179499520)
 
 RT ᴿᵉᵇᵉˡRFAChinese<br><br><video src="https://video.twimg.com/ext_tw_video/1524978192099905538/pu/vid/720x1258/lWNx8QNg8i5DXm1D.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524978192099905538/pu/img/tuLrR5j-gTB1x_0g.jpg"></video>
+
+### 33: [2022-05-14 08:22:56+08:00 推文](https://twitter.com/cnmediaproject/status/1525270402070884352)
+
+When the WHO's direct-general spoke his mind this week about China's "zero Covid" policy, the response from China's censors was swift. The message: foreign expert voices are useful until they criticize. <a href="https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/</a><br><img style="" src="https://pbs.twimg.com/media/FSrZV2jagAEuVTn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 34: [2022-05-14 08:24:44+08:00 推文](https://twitter.com/cnmediaproject/status/1525270855810711552)
+
+Rewriting History for China's Youth: Xi's speech to mark the centenary of the Communist Youth League was meant to inspire dedication to the Party -- and shape history in Xi's favor. <a href="https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/</a><br><img style="" src="https://pbs.twimg.com/media/FSrZvyTacAAvWFs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-05-14 08:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1525271202402828288)
+
+Re When XJP reaches the section summing up the history of the CCP, he neatly outlines four distinct stages. While the first three, spanning the rule of Mao Zedong and reform and opening, are introduced as “periods,” the last, marking Xi’s own rule, is referred to as the “New Era.”<br><img style="" src="https://pbs.twimg.com/media/FSraER5aMAIFCtt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
