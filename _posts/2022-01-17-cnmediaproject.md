@@ -33,7 +33,7 @@ China’s first annual Short Video Online Influencer Night offers a glimpse into
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
-The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
+The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style="" src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 14:48:09+08:00 推文](https://twitter.com/jcmittelstaedt/status/1483692739426463748)
 
