@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-13
+date: 2022-05-14
 from: https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/
 layout: post
 tags:
@@ -264,7 +264,7 @@ They also offered certain clarification on the passage
 
 Which I had interpreted as the emperor recalling his officials for examination but which more likely is instead the emperor ordering his officials to send men of merit to the capital for examination.
 
-One speculation, which I don't think is that likely but which nevertheless is, from a purely semantic perspective, a possible valid read of 天人崩, is that Qiantian Ba was listing an additional omen: there may have been a mountain called Tianren which collapsed in a landslide. That said I have found no reference to a mountain going by such a name, and I'd stand by my original read of it being a figurative descriptor of Heaven and man being thrown in disarray.
+One speculation, which I don't think is that likely but which nevertheless is, from a purely semantic perspective, a valid read of 天人崩, is that Qiantian Ba was listing an additional omen: there may have been a mountain called Tianren which collapsed in a landslide. That said I have found no reference to a mountain going by such a name, and I'd stand by my original read of it being a figurative descriptor of Heaven and man being thrown in disarray.
 
 ### 428: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
 
@@ -283,4 +283,14 @@ In 1812, Napoleon's demands on Russia – its forcible return to the French alli
 ----- __429.1__ -----2022-05-14 00:39:17+08:00:
 
 To add to /u/farranpoison's point, Mel was originally a solo debut (hence debuting in mid-May rather than 1-3 June like the rest of Gen 1), but after Chris' exit she was retconned as being part of Gen 1.
+
+### 430: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
+
+----- __430.1__ -----2022-05-14 16:10:27+08:00:
+
+Hi - we as mods have approved this thread, because while this is a homework question, it is asking for clarification or resources, rather than the answer itself, which is fine according to [our rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). This policy is further explained in this [Rules Roundtable thread](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) and this [META Thread](http://www.reddit.com/r/AskHistorians/comments/35pkem/askhistorians_homework_question_policy_rehash/).
+
+As a result, we'd also like to remind potential answerers to follow our rules on homework - please make sure that your answers focus appropriately on clarifications and detailing the resources that OP could be using. 
+
+Additionally, while users may be able to help you out with specifics relating to your question, we also have plenty of information on /r/AskHistorians on how to find and understand good sources in general. For instance, please check out our six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay.
 
