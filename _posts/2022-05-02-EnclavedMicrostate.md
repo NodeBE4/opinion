@@ -155,3 +155,7 @@ I'd recommend reading both of the above (though not for those of the faint of he
 
 In essence this is, uh, kinda big news, at least if you're in the Sinophone VTuber space. Which I'll admit I'm mostly not, but I'd come across A-Soul via a small Youtuber who does a lot of meta-commentary videos about VTubers so they'd always been somewhat on my radar.
 
+----- __411.2__ -----2022-05-14 15:37:38+08:00:
+
+You say turning corporate, but corporate VTubers have been around longer than indies if we start from Kizuna AI, who was literally conceived as a corporate product decoupled from the talent behind her. Indies followed very soon after, but the major agency players like Activ8 (Kizuna AI, upd8), Cover (Hololive), Ichikara/Anycolor (Nijisanji, VirtuaReal), and Unlimited/Brave Group (Game-Bu, Riot Music) all cut their teeth during the initial wave in 2017-18.
+

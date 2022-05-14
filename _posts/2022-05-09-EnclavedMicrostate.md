@@ -242,6 +242,30 @@ The more relevant one relates to the quoted passage from (the?) Qiantan Ba: whil
 
 The bemused note is that Chan Kei Thong's apparent schtick of trying to prove that ancient Chinese religion was a branch of Abrahamic monotheism is, at least on the surface, entirely identical to the Taiping's conception of Chinese religious history. The Taiping, also, were convinced that China had once been a monotheistic society but which had, somehow, been led astray. Thomas Reilly's *The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire* is the work to read on this for anyone interested.
 
+----- __427.3__ -----2022-05-14 15:28:57+08:00:
+
+I'd like to add a further addendum to my earlier comment thanks to a tip-off from someone whose Classical Chinese is considerably better than mine, and it's something that will probably interest /u/mikedash and /u/y_sengaku as it does directly bear on the notion of Guangwu alluding to Jesus in the 'Yin and Yang' extract. Critical is this particular pair of clauses:
+
+> 百姓有過，在予一人
+
+I had my suspicions that the second clause may not be 'have passed to one person', but rather 'are with myself alone', because 予 can be used as a first-person pronoun. I didn't voice this suspicion because I had been led to believe it was a relatively archaic term by the late Han, and I had also assumed that Guangwu would be more likely to use 朕 (essentially the royal 'We') anyway. However, as my interlocutor noted, this is actually a direct quotation from the final chapter of the *Analects*, consisting of the purported sayings and doings of the legendary Emperor Yao of Shang, including, at one stage, the above statement. In the original quote, then, 予 *was* being used as a first-person pronoun rather than as the verb 'to give'. Legge translates it:
+
+> The people are throwing blame upon me, the One man.
+
+Eric Henry's very recent (2021) translation of the same passage, which appears in the compendium called the *Shouyuan* ('Garden of Eloquence') by Han compiler Liu Xiang, gives
+
+> If any of the people should be at fault, let the responsibility for it for it lie with us alone.
+
+What is apparent then is that the sentence in question does not refer in the abstract to an unspecified person taking on all people's transgressions, but rather the emperor himself, speaking in the first person, taking on responsibility for the misfortunes and misdeeds of his subjects.
+
+They also offered certain clarification on the passage 
+
+> 公、卿、司隸、州牧舉賢良、方正各一人，遣詣公車，朕將覽試焉。
+
+Which I had interpreted as the emperor recalling his officials for examination but which more likely is instead the emperor ordering his officials to send men of merit to the capital for examination.
+
+One speculation, which I don't think is that likely but which nevertheless is, from a purely semantic perspective, a possible valid read of 天人崩, is that Qiantian Ba was listing an additional omen: there may have been a mountain called Tianren which collapsed in a landslide. That said I have found no reference to a mountain going by such a name, and I'd stand by my original read of it being a figurative descriptor of Heaven and man being thrown in disarray.
+
 ### 428: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
 
 ----- __428.1__ -----2022-05-13 18:28:28+08:00:
