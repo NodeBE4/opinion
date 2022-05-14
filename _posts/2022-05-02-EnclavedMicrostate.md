@@ -147,7 +147,7 @@ I'd recommend reading both of the above (though not for those of the faint of he
 
 * Members being forced to continue performing despite on-set injuries caused by poor studio equipment;
 
-* Long working hours leading to potentially permanent health implications;
+* Long working hours leading to potentially permanent health implications i.e. hearing loss and vocal chord damage;
 
 * General abusive behaviour by agency management and studio staff;
 
