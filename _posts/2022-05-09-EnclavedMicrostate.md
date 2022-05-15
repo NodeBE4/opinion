@@ -71,6 +71,10 @@ I mean, 'a while' is only 11 days in this case. But yeah, the moment I saw A-Sou
 
 Right?! Why ban channels for having porn spambots on them, but *not the porn spambots themselves*!?
 
+----- __418.4__ -----2022-05-15 21:32:27+08:00:
+
+I don't know that Myth being 'spoiled' is the right way of putting it, as AFAIK they actually commissioned their secondary outfits, so they were I believe paying out of pocket to get new outfits faster. I also imagine it's easier for a group of 5 people to keep pressure up on new outfits than IRyS alone. It is true they got to 4 outfits faster than anyone else (16 months), although I think we also ought to account for their having debuted later at a time when A: Cover has had more money to spend on new outfits and B: they haven't had to have their original models updated to 2.0 versions.
+
 ### 419: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
 
 ----- __419.1__ -----2022-05-10 08:37:09+08:00:
