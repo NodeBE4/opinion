@@ -171,3 +171,7 @@ Don't miss CMP's history and analysis of “Persistence is victory” (坚持就
 
 RT William Yang<br>Important story from @hkfp: "The list of closed platforms also includes Citizen News.  But a number of small-scale local Chinese-language outlets are still telling the stories of #HongKong in an independent voice." <a href="https://hongkongfp.com/2022/05/09/explainer-small-chinese-language-media-outlets-spring-up-as-hong-kongs-big-names-shut-down/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/05/09/explainer-small-chinese-language-media-outlets-spring-up-as-hong-kongs-big-names-shut-down/</a>
 
+### 40: [2022-05-15 18:44:54+08:00 推文](https://twitter.com/puzhiqiang/status/1525789313195053056)
+
+RT 浦志强<br>胡德华人好，风趣幽默一针见血。2014年2月在《炎黄春秋》团拜会上，他的讲话反响很好，但让有心人不舒服。我记得他说，他没啥学问，没咋读书，他妹妹那拨儿就更完了，文革开始才十二三岁，学校课不上了，也没书可读。我们边听边乐边鼓掌。后来我出事了，请他当社长的《炎黄春秋》，最终还是被抢了。
+

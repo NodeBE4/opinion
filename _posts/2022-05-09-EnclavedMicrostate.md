@@ -77,7 +77,7 @@ I don't know that Myth being 'spoiled' is the right way of putting it, as AFAIK 
 
 ----- __418.5__ -----2022-05-15 23:40:27+08:00:
 
-Did it say that they couldn't commission them at all, or that they couldn't do so unilaterally? Because if it was Cover setting the schedule for outfits it's a little odd that there hadn't previously been more of a thing of rolling out new outfits across entire generations before ID.
+Did it say that they couldn't commission them at all, or that they couldn't do so unilaterally? Because if it was Cover setting the schedule for outfits it's a little odd that there hadn't previously been more of a thing of rolling out full-generation outfits before ID.
 
 ### 419: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
 
