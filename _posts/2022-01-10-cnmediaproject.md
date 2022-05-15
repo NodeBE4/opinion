@@ -57,7 +57,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beiji
 
 ### 11: [2022-01-13 14:35:29+08:00 推文](https://twitter.com/cnmediaproject/status/1481515224310370304)
 
-The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP." <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a><br><img style src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer">
+The Cyberspace Administration of China has released its list of top keywords for 2021. These are children only a controlling parent could love. Topping the list: "Celebrating the 100th anniversary of the CCP." <a href="https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/13/a-listicle-for-cyber-control/</a><br><img style="" src="https://pbs.twimg.com/media/FI9mOVSaUAMd8hH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-13 15:39:24+08:00 推文](https://twitter.com/JeromeTaylor/status/1481531309180678145)
 
