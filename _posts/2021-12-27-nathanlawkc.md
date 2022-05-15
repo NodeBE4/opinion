@@ -23,7 +23,7 @@ When free press is the focal point of human rights discussion this year, CCP kee
 
 ### 2: [2021-12-29 20:51:43+08:00 推文](https://twitter.com/nathanlawkc/status/1476174087999438856)
 
-THREAD:<br>1.After the Apple Daily closure, Stand News became the largest free media in Hong Kong. Today, we have witnessed another forced closure with a number of arrests. The message Beijing sends is clear: report in the way that we allow, or end up in jail.<br><img style src="https://pbs.twimg.com/media/FHxry3QXsAMFjM1?format=jpg&name=orig" referrerpolicy="no-referrer">
+THREAD:<br>1.After the Apple Daily closure, Stand News became the largest free media in Hong Kong. Today, we have witnessed another forced closure with a number of arrests. The message Beijing sends is clear: report in the way that we allow, or end up in jail.<br><img style="" src="https://pbs.twimg.com/media/FHxry3QXsAMFjM1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 20:51:44+08:00 推文](https://twitter.com/nathanlawkc/status/1476174095003926534)
 
@@ -31,7 +31,7 @@ Re 3. It's a colonial law so draconian that the British colonial government ende
 
 ### 4: [2021-12-29 20:51:45+08:00 推文](https://twitter.com/nathanlawkc/status/1476174099366006786)
 
-Re 4. The police held a press conference and explained that as long as the articles trigger hatred towards the government, whether it's a news piece or a blogger's opinion post, it could violate the law. It means that gov's scandals and problems are not allowed to be exposed.<br><img style="" src="https://pbs.twimg.com/media/FHxr5bqX0AgaB5F?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 4. The police held a press conference and explained that as long as the articles trigger hatred towards the government, whether it's a news piece or a blogger's opinion post, it could violate the law. It means that gov's scandals and problems are not allowed to be exposed.<br><img style src="https://pbs.twimg.com/media/FHxr5bqX0AgaB5F?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-29 20:51:46+08:00 推文](https://twitter.com/nathanlawkc/status/1476174102327136260)
 
