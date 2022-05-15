@@ -157,7 +157,7 @@ Re When XJP reaches the section summing up the history of the CCP, he neatly out
 
 ### 36: [2022-05-14 16:13:00+08:00 推文](https://twitter.com/niccijsmith/status/1525388695720714240)
 
-RT Nicola Smith<br>The definition of futility
+RT Nicola Smith<br>The definition of futility<br><br>Arnauld Miguet: Only in #China #airport #Covid19 @francetvchine<br><br><video src="https://video.twimg.com/ext_tw_video/1525337709320892416/pu/vid/264x480/Lb0UOqjF-QuXFw4H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525337709320892416/pu/img/hYm9G7RK4H1LY8Bx.jpg"></video>
 
 ### 37: [2022-05-15 08:29:36+08:00 推文](https://twitter.com/cnmediaproject/status/1525634465279938560)
 
@@ -166,4 +166,8 @@ Earlier this month: Mystery Kills -- Alibaba stock was driven down by online spe
 ### 38: [2022-05-15 08:32:43+08:00 推文](https://twitter.com/cnmediaproject/status/1525635249811910656)
 
 Don't miss CMP's history and analysis of “Persistence is victory” (坚持就是胜利), the phrase now focusing Xi Jinping's adherence to the "zero Covid" policy. <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a><br><img style="" src="https://pbs.twimg.com/media/FSwlK3GaQAAA0eL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 39: [2022-05-15 17:54:30+08:00 推文](https://twitter.com/WilliamYang120/status/1525776630345437184)
+
+RT William Yang<br>Important story from @hkfp: "The list of closed platforms also includes Citizen News.  But a number of small-scale local Chinese-language outlets are still telling the stories of #HongKong in an independent voice." <a href="https://hongkongfp.com/2022/05/09/explainer-small-chinese-language-media-outlets-spring-up-as-hong-kongs-big-names-shut-down/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/05/09/explainer-small-chinese-language-media-outlets-spring-up-as-hong-kongs-big-names-shut-down/</a>
 
