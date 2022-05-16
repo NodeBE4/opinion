@@ -23,3 +23,7 @@ When Media Test Negative for Journalism: False positives reported in Shanghai la
 
 Re Journalist Yang Lang (杨浪): "Even in the face of such major news concerning people's lives, local Shanghai media, official media and professional media have said nothing. A number of outlets that once prided themselves on investigative reporting have been collectively silent."<br><img style="" src="https://pbs.twimg.com/media/FS2ktUEagAESLm_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-05-16 14:57:31+08:00 推文](https://twitter.com/cnmediaproject/status/1526094475864735744)
+
+When Media Test Negative for Journalism: As a major story about false positive tests in Shanghai goes unreported in the state media, a veteran journalist writes about the crucial importance of investigative reporting in China. <a href="https://bit.ly/3leM2ugChinaMediaProject" target="_blank" rel="noopener noreferrer">https://bit.ly/3leM2ugChinaMediaProject</a><br><img style="" src="https://pbs.twimg.com/media/FS3GypNaUAAlZVf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
