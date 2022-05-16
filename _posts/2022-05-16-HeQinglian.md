@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-16
+date: 2022-05-17
 from: https://twitter.com/HeQinglian/status/1526197945447731201
 layout: post
 tags:
@@ -30,4 +30,24 @@ Eric Hoffer在其经典著作《真正的信徒》（True Believer）中阐述�
 ### 4: [2022-05-16 23:38:57+08:00 推文](https://twitter.com/HeQinglian/status/1526225702001029121)
 
 Re Eric Hoffer还阐述：“除此之外，大多数的群众运动，都是愤怒而阴沉的运动，对于适应社会、快乐和成功的个人充满了敌意。”<br>这种现象在安提法、黑命贵和其他左派社会运动中十分明显。<br>BTW，美国有价值的思想多产生于全球化之前。
+
+### 5: [2022-05-17 01:35:18+08:00 推文](https://twitter.com/HeQinglian/status/1526254982336503809)
+
+Re @zhangchaoyi @JianglinLi 美国的问题是：你们凌驾于正常性取向的人之上，不满足于平等。<br>中国的问题属于哪种：是政府干预你们？还是社会歧视？如果是前者，争取不干预；如果是后者，你们努力改变大家看法。但且莫以为你们有更多的特权，社会在提升及政策倾斜方面要照顾你们。<br>记住，你们与大家平等。
+
+### 6: [2022-05-17 01:38:11+08:00 推文](https://twitter.com/HeQinglian/status/1526255706806050821)
+
+Re @KELMAND1 精神病政客。<br>为什么不立即找出通胀原因，釜底抽薪？<br>民选政治是有后果的，投票选出啥人，就得啥结果。
+
+### 7: [2022-05-17 01:39:07+08:00 推文](https://twitter.com/HeQinglian/status/1526255940634288129)
+
+Re @Wu_Zhi 如今是十个手指要按八个跳蚤。<br>痴呆有那么 灵活么？
+
+### 8: [2022-05-17 04:18:56+08:00 推文](https://twitter.com/HeQinglian/status/1526296161233080320)
+
+Re @farmdirect8 是不是有火山、地下温泉之类？<br>加拿大的维多利亚岛，所有与美国同品种的花在那里都大一倍，特别鲜艳。土地就是这种黑色，据说是久远年代时火山喷发形成的，种花不需要施肥。
+
+### 9: [2022-05-17 04:21:13+08:00 推文](https://twitter.com/HeQinglian/status/1526296734284095488)
+
+Re @loveandpeace511 有那时间，这几个土豆的皮我早削完了，还省了煤气与水等资源。
 

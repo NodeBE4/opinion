@@ -31,3 +31,7 @@ When Media Test Negative for Journalism: As a major story about false positive t
 
 False positives reported by residents in Shanghai last week raised serious questions about the integrity of the Covid testing process on which strict lockdowns are based under the "zero Covid" policy. Why aren't Chinese media pursuing this important story? <a href="https://chinamediaproject.org/2022/05/16/when-chinese-media-test-negative-for-journalism/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/16/when-chinese-media-test-negative-for-journalism/</a><br><img style="" src="https://pbs.twimg.com/media/FS4HA5vUEAAsq4i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-05-16 20:21:08+08:00 推文](https://twitter.com/JKynge/status/1526175918523404288)
+
+RT James Kynge<br>Xi Jinping takes on welfarism, capitalist predators and wanton speculators in a speech given last December but only just published by Qiushi. Key insight into his thinking and the meaning of "common prosperity". <a href="http://www.qstheory.cn/dukan/qs/2022-05/15/c_1128649331.htm" target="_blank" rel="noopener noreferrer">http://www.qstheory.cn/dukan/qs/2022-05/15/c_1128649331.htm</a>
+
