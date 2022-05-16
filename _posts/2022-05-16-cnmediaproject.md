@@ -27,3 +27,7 @@ Re Journalist Yang Lang (杨浪): "Even in the face of such major news concernin
 
 When Media Test Negative for Journalism: As a major story about false positive tests in Shanghai goes unreported in the state media, a veteran journalist writes about the crucial importance of investigative reporting in China. <a href="https://bit.ly/3leM2ugChinaMediaProject" target="_blank" rel="noopener noreferrer">https://bit.ly/3leM2ugChinaMediaProject</a><br><img style="" src="https://pbs.twimg.com/media/FS3GypNaUAAlZVf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-05-16 19:38:19+08:00 推文](https://twitter.com/cnmediaproject/status/1526165144694591488)
+
+False positives reported by residents in Shanghai last week raised serious questions about the integrity of the Covid testing process on which strict lockdowns are based under the "zero Covid" policy. Why aren't Chinese media pursuing this important story? <a href="https://chinamediaproject.org/2022/05/16/when-chinese-media-test-negative-for-journalism/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/16/when-chinese-media-test-negative-for-journalism/</a><br><img style="" src="https://pbs.twimg.com/media/FS4HA5vUEAAsq4i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
