@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-16
+date: 2022-05-17
 from: https://twitter.com/cnmediaproject/status/1526055976297984001
 layout: post
 tags:
@@ -34,4 +34,8 @@ False positives reported by residents in Shanghai last week raised serious quest
 ### 5: [2022-05-16 20:21:08+08:00 推文](https://twitter.com/JKynge/status/1526175918523404288)
 
 RT James Kynge<br>Xi Jinping takes on welfarism, capitalist predators and wanton speculators in a speech given last December but only just published by Qiushi. Key insight into his thinking and the meaning of "common prosperity". <a href="http://www.qstheory.cn/dukan/qs/2022-05/15/c_1128649331.htm" target="_blank" rel="noopener noreferrer">http://www.qstheory.cn/dukan/qs/2022-05/15/c_1128649331.htm</a>
+
+### 6: [2022-05-17 13:33:49+08:00 推文](https://twitter.com/cnmediaproject/status/1526435801071951873)
+
+The latest from CMP's David Bandurski in Commonwealth Magazine: 他評論了中國最賣座電影《長津湖》，為何卻因此入獄？ <a href="https://www.cw.com.tw/article/5121186" target="_blank" rel="noopener noreferrer">https://www.cw.com.tw/article/5121186</a>
 
