@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
@@ -477,7 +477,7 @@ Re @pliu412 @Sumerian0 @wwnnppyy 这个数字可能将预备役，不让撤走�
 
 ### 116: [2022-03-31 04:54:39+08:00 推文](https://twitter.com/HeQinglian/status/1509272917808402434)
 
-RT He Qinglian<br>Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
+Re @BigbirdflyChan @wwnnppyy 我只看事实，你不用惊讶。<br>任何正义都建立在事实之上。你就告诉我，<br>我限制了别人的发言么？我传播了谣言么？<br>这正是自称“正义”的人每天在我这里做的。如果正义需要依靠谣言与限制言论、思想专制维持，这“正义”本身一定有很多需要遮掩的黑暗。<br>言尽于此。
 
 ### 117: [2022-03-31 04:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1509273092706775051)
 
@@ -957,7 +957,7 @@ Re @JianglinLi @Wu_Zhi 据《印度斯坦时报》3月31日报道，负责国际
 
 ### 236: [2022-04-02 05:44:39+08:00 推文](https://twitter.com/HeQinglian/status/1510010277273776146)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
+Re @Wu_Zhi @JianglinLi 路透4月1日：俄最初受到的经济冲击似乎正消退，美国高官本周满世界跑，试图敦促其他国家领导人加入或继续向莫斯科施压<br>美副财长Wally Adeyemo与英法德高官会面<br>达利普·辛格去新德里，尝试向印度官员施压<br>布林肯则对中东和非洲使劲<br><br>世界是否进入布雷顿森林体系3.0，在此一搏 <a href="https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/blinken-britains-truss-discuss-additional-actions-response-ukraine-invasion-2022-04-01/</a>
 
 ### 237: [2022-04-02 06:03:00+08:00 推文](https://twitter.com/HeQinglian/status/1510014896141963269)
 
@@ -1005,7 +1005,7 @@ Re @JkYJ2l7mDTaxqhJ 都揭吧，揭个底朝天，我真没半点意见。这次
 
 ### 248: [2022-04-02 09:19:30+08:00 推文](https://twitter.com/HeQinglian/status/1510064345123852289)
 
-RT He Qinglian<br>Re @JianglinLi @Wu_Zhi @TomMa07952688 目前的美国，继承了白人西方文明的经济实力、军事实力，但价值观却已经被CRT、BLM、LGBTQ等进步文化取代，原来傲视东方腐败文化的相对清廉的政治文化，被老拜这个家族做了反证。选举诚信被2020年自毁。<br>可能就美国民主党以为世界不知道，还拿着宪政美国的躯壳混世界老大。
+Re @JianglinLi @Wu_Zhi @TomMa07952688 目前的美国，继承了白人西方文明的经济实力、军事实力，但价值观却已经被CRT、BLM、LGBTQ等进步文化取代，原来傲视东方腐败文化的相对清廉的政治文化，被老拜这个家族做了反证。选举诚信被2020年自毁。<br>可能就美国民主党以为世界不知道，还拿着宪政美国的躯壳混世界老大。
 
 ### 249: [2022-04-02 10:39:35+08:00 推文](https://twitter.com/HeQinglian/status/1510084498326708232)
 

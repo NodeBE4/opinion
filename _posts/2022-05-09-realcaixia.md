@@ -197,7 +197,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
-李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。
+李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。<br><br>韩连潮: 【陈日君被抓】中共恶警李家超无端抓捕一个90岁的老人向习近平献媚讨好，必将遭世人唾骂和诅咒。<br><br><img style="" src="https://pbs.twimg.com/media/FSfLkrjUUAI3IsK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
@@ -237,7 +237,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
-这个推文很好，特别转推。<br><br>端咖啡内女的🇺🇦🇺🇦: 我出国前啥都不懂。同学们都出国，不出国就像个loser，所以我也跟风出国了。出国后给家里写的信上说：如果不是亲眼见，你不会相信世界上有这么好的国家、有这么好的社会。每个人都被尊重，每个人做事都认真守规矩，我感到精神上前所未有的放松和自由。<br>
+这个推文很好，特别转推。
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
