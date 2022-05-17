@@ -39,3 +39,7 @@ RT James Kynge<br>Xi Jinping takes on welfarism, capitalist predators and want
 
 The latest from CMP's David Bandurski in Commonwealth Magazine: 他評論了中國最賣座電影《長津湖》，為何卻因此入獄？ <a href="https://www.cw.com.tw/article/5121186" target="_blank" rel="noopener noreferrer">https://www.cw.com.tw/article/5121186</a>
 
+### 7: [2022-05-17 19:15:48+08:00 推文](https://twitter.com/YanzhongHuang/status/1526521863836426241)
+
+RT Yanzhong Huang<br>If Beijing loses the trust of the public on fighting Covid—at a time when the economy itself is suffering from continual lockdown shocks—a regime once known for its technocratic efficiency could soon face a legitimacy crisis. My take. <a href="https://www.foreignaffairs.com/articles/china/2022-05-17/collateral-damage-chinas-covid-war?utm_medium=social" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/articles/china/2022-05-17/collateral-damage-chinas-covid-war?utm_medium=social</a>
+
