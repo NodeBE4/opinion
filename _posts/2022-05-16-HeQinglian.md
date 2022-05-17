@@ -63,3 +63,31 @@ Re @wechat2525138 与挪威前年那个案子的案由一样，当然，这些�
 
 这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。<br><br>华尔街日报中文网: 乌克兰政府宣布结束其在马里乌波尔的作战任务，结束了与俄罗斯军队数月的血腥战斗。这场战斗的尾声是在一家废弃钢铁厂避难的战斗人员和平民遭到惊心动魄的围困。泽连斯基说，亚速钢铁厂的战斗人员正在接受医疗救助，他恳请在他们被允许离开后保全他们的性命。<br> <a href="https://on.wsj.com/3NgEqTZ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NgEqTZ</a>
 
+### 13: [2022-05-18 03:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1526640910716616707)
+
+Re @GiggsMU1 @beyondfreedom_L 这口号还没听过，恕我孤陋寡闻，是什么路数，由谁在什么情况下提出？
+
+### 14: [2022-05-18 03:13:24+08:00 推文](https://twitter.com/HeQinglian/status/1526642054822088713)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing 分享拜登政府新话术：<br>拜登不敢说“Great Reset”是他现在奉行的理论，用了新话术，让美国民众不要相信 the 'lie' of replacement theory，1984里面的战争即和平，谎言即真理话术，左派用得烂熟。 <a href="https://www.dailymail.co.uk/news/article-10825093/Biden-leaves-Buffalo-Jill-hell-push-gun-legislation.html?ito=push-notification&amp;ci=_3B8HKsW4n&amp;cri=QTWO9cJUnw&amp;si=27858288&amp;xi=314d33bb-c0cb-49e2-aa9e-4559b6fa128a&amp;ai=10825093" target="_blank" rel="noopener noreferrer">https://www.dailymail.co.uk/news/article-10825093/Biden-leaves-Buffalo-Jill-hell-push-gun-legislation.html?ito=push-notification&amp;ci=_3B8HKsW4n&amp;cri=QTWO9cJUnw&amp;si=27858288&amp;xi=314d33bb-c0cb-49e2-aa9e-4559b6fa128a&amp;ai=10825093</a>
+
+### 15: [2022-05-18 03:14:40+08:00 推文](https://twitter.com/HeQinglian/status/1526642375237554179)
+
+Re @JianglinLi @zhangchaoyi 这人拉黑省事。他去与LGBTQI里抱团取暖就是。
+
+### 16: [2022-05-18 03:19:51+08:00 推文](https://twitter.com/HeQinglian/status/1526643680039272449)
+
+Re @JiangShangrong WSJ曰：泽总统称这是结束战斗任务，因此正确命名为“安全撤离，接受医疗救助”——施加救助的主体，就略过不提了，乌粉们认为是美国或者同盟军就行了。<br>如果你想不明白，左派将妓女称之为“性工作者”，胖子必须说不那么瘦与苗条，要求所有人写文章必须如此称呼。
+
+### 17: [2022-05-18 04:39:33+08:00 推文](https://twitter.com/HeQinglian/status/1526663737666568193)
+
+Re @wechat2525138 我一直不想说，将川普支持者看作立场恒定，而且硬与挺普京挂钩，并不妥当。<br>近年每次政治话题，只有一类自认为按照底层逻辑思维的人，因为声称反共（思维其实相同），从挺郭、挺拜一直到挺乌，从来未变只有一条，立场优先，事实次要，尤其是不查来龙去脉。其余的有人则视情况而定。
+
+### 18: [2022-05-18 04:41:55+08:00 推文](https://twitter.com/HeQinglian/status/1526664332938985474)
+
+Re @franktianxie @JianglinLi @zhangchaoyi 你有所不知，最后几年美国NGO就剩女权、环保、LGBT在中国有点活动余地，有人曾说这方面中国追比美国，LGBT人口接近7%，只少一点了。<br>开放的门越来越小，就剩这点与西方的认同感了。变性这把戏似乎不如美国热闹，毕竟要很多手术费。
+
+### 19: [2022-05-18 05:38:23+08:00 推文](https://twitter.com/HeQinglian/status/1526678541399646208)
+
+Re @guchuan81 这是2022年2月的盖洛普调查 ：超过7.1。你的资料可能是20年前的。 <a href="https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx" target="_blank" rel="noopener noreferrer">https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx</a>
+
