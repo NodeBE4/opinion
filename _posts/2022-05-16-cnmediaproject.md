@@ -91,27 +91,31 @@ RT John Alekna<br>The long legacy of China’s wired broadcast networks contin
 
 An online neologism that became popular in April 2022, “Runology” (润学) is essentially the study of how to emigrate, or “run” overseas. “Runology” is largely a response to worsening conditions in China as the economy falters and lockdowns continue. <a href="https://bit.ly/3lmtUic" target="_blank" rel="noopener noreferrer">https://bit.ly/3lmtUic</a><br><img style="" src="https://pbs.twimg.com/media/FTBeh28acAAaNqM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 20: [2022-05-18 17:23:52+08:00 推文](https://twitter.com/cnmediaproject/status/1526856082202980352)
+### 20: [2022-05-18 17:14:20+08:00 推文](https://twitter.com/Riddhi_Jha/status/1526853683031457793)
+
+RT Riddhi Jha<br>Watch the full version of our investigation on the disappearance of #SophiaHuangXueqin, a high-profile #feminist journalist who kick-started China’s #MeToo movement <br><br><br><br>⁦@bbcworldservice⁩ ⁦@BBCWorld⁩ ⁦@bbcchinese⁩ #bbceyeinvestigations <a href="https://www.bbc.co.uk/iplayer/episode/p0c7cwjj" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/iplayer/episode/p0c7cwjj</a>
+
+### 21: [2022-05-18 17:23:52+08:00 推文](https://twitter.com/cnmediaproject/status/1526856082202980352)
 
 Must-read from Stella Chen on the return of loudspeakers to China's countryside under Xi Jinping as ideology takes center stage. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTB7gmKacAACt8L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 21: [2022-05-18 17:26:24+08:00 推文](https://twitter.com/cnmediaproject/status/1526856721754652672)
+### 22: [2022-05-18 17:26:24+08:00 推文](https://twitter.com/cnmediaproject/status/1526856721754652672)
 
 What is "Runology" 润学？ A term very relevant this spring as frustrations build over lockdowns and economic pain. <a href="https://chinamediaproject.org/the_ccp_dictionary/runology%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/runology%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTB8EwiacAEC-4v?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 22: [2022-05-18 20:11:29+08:00 推文](https://twitter.com/YanzhongHuang/status/1526898265186357251)
+### 23: [2022-05-18 20:11:29+08:00 推文](https://twitter.com/YanzhongHuang/status/1526898265186357251)
 
 RT Yanzhong Huang<br>Premier Li Keqiang visited Yunnan University without wearing a mask. It is said he asked others not to wear it either. A sign of change?<br><img style="" src="https://pbs.twimg.com/media/FTCh4SYWUAcYz78?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 23: [2022-05-18 20:25:33+08:00 推文](https://twitter.com/ByXiaoXiao/status/1526901807368114176)
+### 24: [2022-05-18 20:25:33+08:00 推文](https://twitter.com/ByXiaoXiao/status/1526901807368114176)
 
 RT Xiao Xiao<br>Caixin Exclusive: China’s Corruption Cops Launch Probe Into Former Central Bank Official and His Wife <a href="https://www.caixinglobal.com/2022-05-18/exclusive-chinas-corruption-cops-launch-probe-into-former-central-bank-official-and-his-wife-101886979.html?cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-05-18/exclusive-chinas-corruption-cops-launch-probe-into-former-central-bank-official-and-his-wife-101886979.html?cxg=web&amp;Sfrom=twitter</a>
 
-### 24: [2022-05-18 20:40:28+08:00 推文](https://twitter.com/niubi/status/1526905557550092289)
+### 25: [2022-05-18 20:40:28+08:00 推文](https://twitter.com/niubi/status/1526905557550092289)
 
 RT Bill Bishop<br>The April politburo study session on capital made clear more corruption cases were coming linked to “capital” <a href="https://sinocism.com/p/politburo-on-capital-mass-testing?s=w" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/politburo-on-capital-mass-testing?s=w</a><br><img style="" src="https://pbs.twimg.com/media/FTCogmAWQAAilyo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTCogmBXsAAiGa8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 25: [2022-05-18 21:10:47+08:00 推文](https://twitter.com/limlouisa/status/1526913190478635008)
+### 26: [2022-05-18 21:10:47+08:00 推文](https://twitter.com/limlouisa/status/1526913190478635008)
 
 RT Louisa Lim<br>Featured In @nytimes with @karenklcheung’s beautiful book, with a piece by @amyqin_ This is such a lovely surprise. <a href="https://instagr.am/p/Cdswzn8lM-u/" target="_blank" rel="noopener noreferrer">https://instagr.am/p/Cdswzn8lM-u/</a><br><img style="" src="https://pbs.twimg.com/media/FTCvdIUX0AUv6Ra?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
