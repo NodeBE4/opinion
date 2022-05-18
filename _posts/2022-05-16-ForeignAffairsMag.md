@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-17
+date: 2022-05-18
 from: https://old.reddit.com/r/TrueReddit/comments/uqxw3r/how_to_vaccinate_behind_enemy_lines_to_stop_the/
 layout: post
 tags:
@@ -46,4 +46,29 @@ For Chinese President Xi Jinping, the stakes could not be higher. The all-import
 ----- __246.1__ -----2022-05-17 23:57:15+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 247: [The Russian Military’s People Problem: It’s Hard for Moscow to Win While Mistreating Its Soldiers](https://old.reddit.com/r/UkrainianConflict/comments/use3rs/the_russian_militarys_people_problem_its_hard_for/), submitted on 2022-05-18 22:23:33+08:00.
+
+----- __247.1__ -----2022-05-18 22:23:45+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 248: [Bosnia’s Dangerous Path: How U.S. Policy Is Making a Bad Situation Worse](https://old.reddit.com/r/geopolitics/comments/use4q9/bosnias_dangerous_path_how_us_policy_is_making_a/), submitted on 2022-05-18 22:24:50+08:00.
+
+----- __248.1__ -----2022-05-18 22:26:06+08:00:
+
+\[SS from the article by Kurt Bassuener and Toby Vogel, Co-Founders of the Democratization Policy Council\]
+
+"In the Balkans, and especially in Bosnia and Herzegovina, images from Ukraine of besieged cities, massacres, and mass displacement are re-traumatizing a society that has never been allowed to heal after the wars that followed the breakup of Yugoslavia in 1991. Along with the rest of the world, Bosnians have watched the razing of the Ukrainian city of Mariupol with horror. But having lived through the siege of Sarajevo and similar atrocities, Bosnians recognize the velocity and brutality of Russia's war on Ukraine more viscerally than others­­—and it puts them on edge.  
+
+
+Russian President Vladimir Putin’s assault on Ukraine comes at a time when the Western Balkans have reached a level of tension and uncertainty unseen in decades. Ethnic nationalism threatens to destabilize the region once again, with local political leaders manipulating the public’s worst fears. President Aleksandar Vucic of Serbia has assumed close to complete control over his country’s media and is stoking unrest in Serb-inhabited parts of Kosovo. In Bosnia, his close ally Milorad Dodik, the Serb member of Bosnia’s tripartite state presidency, has advocated for secession of the Serb-controlled parts of the country. A similar alliance exists between the government of Croatia (an EU and NATO member) and Dragan Covic, the nationalist Bosnian Croat leader, who has called for what would amount to further ethnic partitioning of Bosnia. Many Bosnians have responded to growing corruption, the impunity enjoyed by political elites, and economic hardship by leaving the country altogether. The UN estimates that roughly 55,000 people leave Bosnia each year and has warned that if this pattern continues, Bosnia’s population could drop to 1.6 million in 2070 from today’s three million.  
+
+
+Russia has played a hand in these developments. Putin has encouraged separatism, with the aim of generating disruption on the West’s frontiers. For years, Russia has actively sought to impede and deter Bosnia’s pursuit of EU and NATO membership, asserting that such moves constituted a provocation. Russia’s ambassador to Bosnia recently pointed to the invasion of Ukraine as an example of what could happen to Bosnia should it pursue NATO membership.
+
+But the Kremlin’s activities have depended heavily on local leaders pursuing their own agendas. What’s most troubling is that these leaders are often the same people the EU and the United States present as their partners in Bosnia’s democratic and economic development. By relying on a handful of “ethnocrats,” the EU and the United States have put the region on a dangerous path, one that could end with the dissolution of Bosnia and the redrawing of borders across the region—neither of which would happen peacefully.  
+
+
+It didn’t have to be this way. The 1995 Dayton Peace Agreement ended the war and gave the West the tools it needed to forestall instability and violence and help keep the country on a more unified and democratic path. But those tools have gone unused for years. Instead, Western powers have allowed Bosnia to backslide into instability as nationalism surges in Serbia and Croatia. Now, the war in Ukraine represents an opportunity for the United States and its allies to carry out a long-overdue recalibration of their approach to Bosnia. The West has united in response to Russian aggression. That same energy and attention should be applied to the Balkans so that local actors who benefit from instability and Russian interference can no longer keep their chokehold on the state."
 
