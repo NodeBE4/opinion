@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 1: [2022-05-16 00:34:39+08:00 推文](https://twitter.com/realcaixia/status/1525877328219209728)
 
-看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年
+看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年<br><br>韩连潮: 【巾帼英雄】芬兰和瑞典拟放弃分别实施了70多年和200年的中立，加入北约。不是安全受到来自普京的极大威胁，她们不会轻易更改这项国策。这两位国家领导敢作敢为，是真正的巾帼英雄。<br><br><img style="" src="https://pbs.twimg.com/media/FSzkJhOXwAE0o1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-05-16 01:31:00+08:00 推文](https://twitter.com/realcaixia/status/1525891510989889536)
 
@@ -29,19 +29,19 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 4: [2022-05-17 06:24:50+08:00 推文](https://twitter.com/realcaixia/status/1526327844862930945)
 
-特别推荐。强力推荐。欢迎所有朋友都来下载。
+特别推荐。强力推荐。欢迎所有朋友都来下载。<br><br>韩连潮: 【翻墙APP】#议报 在 @GreatFireChina 的帮助下完善了翻墙APP。下载安装后不仅可以阅读 #议报 内容，而且可以遨游自由网络。下载链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FSzcoJzXwAAY9uh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a>
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
-6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。
+6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。<br><br>方舟子: 北大学生闹事后，辅导员鼓励同学根据现场照片相互检举揭发，秋后算帐，从来如此。<br><br><img style="" src="https://pbs.twimg.com/media/FS26l20VIAEEaw6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l21VEAIvTmi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l23UUAA27Da?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
-一个模版专供抄作业。<br><br>鲁难-: <br><br><img style="" src="https://pbs.twimg.com/media/FS8CeMoWAAEGC3O?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CeMsXEAAmkXe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个模版专供抄作业。
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）
+一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
@@ -50,4 +50,28 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 ### 9: [2022-05-18 13:55:05+08:00 推文](https://twitter.com/realcaixia/status/1526803540357816321)
 
 习近平：这也得鼓掌。 <a href="https://youtube.com/shorts/HXjh8nIMVBg?feature=share" target="_blank" rel="noopener noreferrer">https://youtube.com/shorts/HXjh8nIMVBg?feature=share</a>
+
+### 10: [2022-05-18 22:41:56+08:00 推文](https://twitter.com/realcaixia/status/1526936127143174145)
+
+Re 请仔细听习的语气“这也得鼓掌”，这是肯定性语气，尾音是往下降的。如果是疑问语气，尾音应该是向上扬，提高音调的。下面一群洗地的粉红五毛网军鬼魂，故意在习的话后面多加个“吗？”，这帮家伙才是篡改事实的造假者。
+
+### 11: [2022-05-18 22:50:46+08:00 推文](https://twitter.com/realcaixia/status/1526938348861870080)
+
+Re 起先是有2、3下零星掌声。习的向右扭头与掌声几乎是前后秒。习的话语声很清楚，如果习是疑问的语气，声音音调往上扬，是没人敢接着鼓掌的。习用肯定的语气说了“这也得鼓掌”这句话后，下面鼓掌声响起来一片。
+
+### 12: [2022-05-18 22:54:46+08:00 推文](https://twitter.com/realcaixia/status/1526939358837714944)
+
+Re 请仔细听习的语气“这也得鼓掌”，这是肯定性语气，尾音是往下降的。如果是疑问语气，尾音应该是向上扬，提高音调的。下面一群洗地的粉红五毛网军鬼魂，故意在习的话后面多加个“吗？”，这帮家伙才是篡改事实的造假者。
+
+### 13: [2022-05-18 22:55:49+08:00 推文](https://twitter.com/realcaixia/status/1526939620075634688)
+
+Re 起先是有2、3下零星掌声。习的向右扭头与掌声几乎是前后秒。习的话语声很清楚，如果习是疑问的语气，声音音调往上扬，是没人敢接着鼓掌的。习用肯定的语气说了“这也得鼓掌”这句话后，下面鼓掌声响起来一片。
+
+### 14: [2022-05-18 23:11:02+08:00 推文](https://twitter.com/realcaixia/status/1526943452197400577)
+
+Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一次会议，一位副部长念稿子不动脑筋，一概照念，念出这句话：“这里请大家休息10分钟。”<br>这不只是习如此，是中共高层中那些不学无术又不动脑筋的官员们的常态，秘书的水平基本代表领导的水平。真有才干愿思考能推进改革的干部许多都被逆淘汰了。
+
+### 15: [2022-05-18 23:14:37+08:00 推文](https://twitter.com/realcaixia/status/1526944352882151426)
+
+Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一次会议，一位副部长念稿子不动脑筋，一概照念，念出这句话：“这里请大家休息10分钟。”<br>这不只是习如此，是中共高层中那些不学无术又不动脑筋的官员们的常态，秘书的水平基本代表领导的水平。真有才干愿思考能推进改革的干部许多都被逆淘汰了。
 

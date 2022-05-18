@@ -85,7 +85,7 @@ Re And of course these top headlines are mirrored in position on the homepage of
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
-Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style="" src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
@@ -129,11 +129,11 @@ Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
-Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
-Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
@@ -169,7 +169,7 @@ RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, wi
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 

@@ -99,11 +99,19 @@ Must-read from Stella Chen on the return of loudspeakers to China's countryside 
 
 What is "Runology" 润学？ A term very relevant this spring as frustrations build over lockdowns and economic pain. <a href="https://chinamediaproject.org/the_ccp_dictionary/runology%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/runology%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTB8EwiacAEC-4v?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 22: [2022-05-18 20:25:33+08:00 推文](https://twitter.com/ByXiaoXiao/status/1526901807368114176)
+### 22: [2022-05-18 20:11:29+08:00 推文](https://twitter.com/YanzhongHuang/status/1526898265186357251)
+
+RT Yanzhong Huang<br>Premier Li Keqiang visited Yunnan University without wearing a mask. It is said he asked others not to wear it either. A sign of change?<br><img style="" src="https://pbs.twimg.com/media/FTCh4SYWUAcYz78?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-05-18 20:25:33+08:00 推文](https://twitter.com/ByXiaoXiao/status/1526901807368114176)
 
 RT Xiao Xiao<br>Caixin Exclusive: China’s Corruption Cops Launch Probe Into Former Central Bank Official and His Wife <a href="https://www.caixinglobal.com/2022-05-18/exclusive-chinas-corruption-cops-launch-probe-into-former-central-bank-official-and-his-wife-101886979.html?cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-05-18/exclusive-chinas-corruption-cops-launch-probe-into-former-central-bank-official-and-his-wife-101886979.html?cxg=web&amp;Sfrom=twitter</a>
 
-### 23: [2022-05-18 20:40:28+08:00 推文](https://twitter.com/niubi/status/1526905557550092289)
+### 24: [2022-05-18 20:40:28+08:00 推文](https://twitter.com/niubi/status/1526905557550092289)
 
 RT Bill Bishop<br>The April politburo study session on capital made clear more corruption cases were coming linked to “capital” <a href="https://sinocism.com/p/politburo-on-capital-mass-testing?s=w" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/politburo-on-capital-mass-testing?s=w</a><br><img style="" src="https://pbs.twimg.com/media/FTCogmAWQAAilyo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTCogmBXsAAiGa8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-05-18 21:10:47+08:00 推文](https://twitter.com/limlouisa/status/1526913190478635008)
+
+RT Louisa Lim<br>Featured In @nytimes with @karenklcheung’s beautiful book, with a piece by @amyqin_ This is such a lovely surprise. <a href="https://instagr.am/p/Cdswzn8lM-u/" target="_blank" rel="noopener noreferrer">https://instagr.am/p/Cdswzn8lM-u/</a><br><img style="" src="https://pbs.twimg.com/media/FTCvdIUX0AUv6Ra?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
