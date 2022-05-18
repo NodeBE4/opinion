@@ -61,7 +61,7 @@ Re @wechat2525138 与挪威前年那个案子的案由一样，当然，这些�
 
 ### 12: [2022-05-18 00:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1526594722269212674)
 
-这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。<br><br>华尔街日报中文网: 乌克兰政府宣布结束其在马里乌波尔的作战任务，结束了与俄罗斯军队数月的血腥战斗。这场战斗的尾声是在一家废弃钢铁厂避难的战斗人员和平民遭到惊心动魄的围困。泽连斯基说，亚速钢铁厂的战斗人员正在接受医疗救助，他恳请在他们被允许离开后保全他们的性命。<br> <a href="https://on.wsj.com/3NgEqTZ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NgEqTZ</a>
+这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。
 
 ### 13: [2022-05-18 03:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1526640910716616707)
 
@@ -90,4 +90,16 @@ Re @franktianxie @JianglinLi @zhangchaoyi 你有所不知，最后几年美国NG
 ### 19: [2022-05-18 05:38:23+08:00 推文](https://twitter.com/HeQinglian/status/1526678541399646208)
 
 Re @guchuan81 这是2022年2月的盖洛普调查 ：超过7.1。你的资料可能是20年前的。 <a href="https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx" target="_blank" rel="noopener noreferrer">https://news.gallup.com/poll/389792/lgbt-identification-ticks-up.aspx</a>
+
+### 20: [2022-05-18 09:01:39+08:00 推文](https://twitter.com/HeQinglian/status/1526729696762810369)
+
+Re @enoughtalk4 这是白宫的词汇，我捡来了。确实就是你说的那意思。😂
+
+### 21: [2022-05-18 09:07:33+08:00 推文](https://twitter.com/HeQinglian/status/1526731178916601856)
+
+Re @guchuan81 还有条资料，2015年的：“据信每年有 3,000 至 9,000 名美国人接受变性手术。 过渡医疗可以包括激素替代疗法、乳房切除术、整形手术、心理治疗等。” <br>如今拜登鼓励未成年人自主变性，这数字应该更多了。看了后觉得如今的左派美国甚是怪异。 <a href="https://publichealth.jhu.edu/2015/study-paying-for-transgender-health-care-cost-effective#:~:text=Estimates%20vary%20widely%20but%20it,plastic%20surgery%2C%20psychotherapy%20and%20more" target="_blank" rel="noopener noreferrer">https://publichealth.jhu.edu/2015/study-paying-for-transgender-health-care-cost-effective#:~:text=Estimates%20vary%20widely%20but%20it,plastic%20surgery%2C%20psychotherapy%20and%20more</a>
+
+### 22: [2022-05-18 09:15:20+08:00 推文](https://twitter.com/HeQinglian/status/1526733138671673344)
+
+Re @JiangShangrong 1、拜登刚批准的400亿美元援助款项还未上路，此时宣布失败，钱怎么拿得到手，链条上的各环节也不干。<br>2、华府要与俄罗斯战斗到最后一个乌克兰人，还有100万壮丁未上战场，美国会拿出400亿的10倍，仿阿富汗帐本例。<br>3、永不言败，取得认知战的最后胜利。<br>我一直在想，台湾要不要这样的认知战。
 
