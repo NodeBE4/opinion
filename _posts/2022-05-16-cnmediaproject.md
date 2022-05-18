@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-17
+date: 2022-05-18
 from: https://twitter.com/cnmediaproject/status/1526055976297984001
 layout: post
 tags:
@@ -42,4 +42,48 @@ The latest from CMP's David Bandurski in Commonwealth Magazine: 他評論了中�
 ### 7: [2022-05-17 19:15:48+08:00 推文](https://twitter.com/YanzhongHuang/status/1526521863836426241)
 
 RT Yanzhong Huang<br>If Beijing loses the trust of the public on fighting Covid—at a time when the economy itself is suffering from continual lockdown shocks—a regime once known for its technocratic efficiency could soon face a legitimacy crisis. My take. <a href="https://www.foreignaffairs.com/articles/china/2022-05-17/collateral-damage-chinas-covid-war?utm_medium=social" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/articles/china/2022-05-17/collateral-damage-chinas-covid-war?utm_medium=social</a>
+
+### 8: [2022-05-18 08:24:33+08:00 推文](https://twitter.com/cnmediaproject/status/1526720357671260160)
+
+WHO’s director general spoke his mind last week about China's "zero Covid" policy. The swift response from China's censors reveals a deep ambivalence about the foreign voice and its power to uplift or criticize. <a href="https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/</a><br><img style="" src="https://pbs.twimg.com/media/FTAAEb7aQAA2WTm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-05-18 08:25:46+08:00 推文](https://twitter.com/cnmediaproject/status/1526720666514636800)
+
+Xi's speech to mark the centenary of the Chinese Communist Youth League last week was meant to inspire a generation's dedication to the ruling Party -- but also to shape the dominant view of history in favor of the general secretary's continued power. <a href="https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/12/mobilizing-chinas-youth-for-xi/</a><br><img style="" src="https://pbs.twimg.com/media/FTAAWabacAAqOBO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-05-18 08:27:49+08:00 推文](https://twitter.com/cnmediaproject/status/1526721182325968896)
+
+Veteran journalist Yang Lang (杨浪) asks a crucial question: Why aren't Chinese media reporting at all on the integrity of the Covid testing process in Shanghai after reports online of false positives? <a href="https://chinamediaproject.org/2022/05/16/when-chinese-media-test-negative-for-journalism/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/16/when-chinese-media-test-negative-for-journalism/</a><br><img style="" src="https://pbs.twimg.com/media/FTAAzeZaQAAxELv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-05-18 09:56:16+08:00 推文](https://twitter.com/niubi/status/1526743440515645440)
+
+RT Bill Bishop<br>Data now released. $107b outflow in April<br><br>Bill Bishop: China’s main bond trading platform for foreign investors has quietly stopped providing data on their transactions, a move that may heighten concerns about transparency in the nation’s $20 trillion debt market after record outflows<br> <a href="https://www.bloomberg.com/news/articles/2022-05-17/china-stops-reporting-bond-trades-by-foreigners-after-selloff?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-05-17/china-stops-reporting-bond-trades-by-foreigners-after-selloff?sref=6ZE6q2XR</a>
+
+### 12: [2022-05-18 10:01:41+08:00 推文](https://twitter.com/cnmediaproject/status/1526744802808582145)
+
+The shrill call of the loudspeaker, once a staple of political and economic life in pre-reform China, is a sound now returning to the countryside as ideology takes center stage. <a href="https://bit.ly/3sJCTy1" target="_blank" rel="noopener noreferrer">https://bit.ly/3sJCTy1</a><br><img style="" src="https://pbs.twimg.com/media/FTAWQpSaQAAHq_w?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-05-18 10:02:02+08:00 推文](https://twitter.com/Changxche/status/1526744892537716736)
+
+RT Chang Che<br>Shanghai is preparing for a grand reopening. Florists and gardeners have been deployed citywide. In Xuhui, the landscaping arrangements include 393,000 flower pots and 2,629 flower boxes. <br><br>Possible prep for Xi Jinping?<br><img style="" src="https://pbs.twimg.com/media/FTAWSqAacAALg1Y?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-05-18 10:03:59+08:00 推文](https://twitter.com/cnmediaproject/status/1526745383929384960)
+
+Re Each morning audio content from “Xuexi Qiangguo” is broadcast from the local integrated media center (融媒体中心) in Wuqing District, reaching across a digitalized “loudspeaker network” (大喇叭系统) that encompasses 611 administrative villages.<br><img style="" src="https://pbs.twimg.com/media/FTAW0XgaIAE7Uum?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-05-18 10:12:30+08:00 推文](https://twitter.com/YanzhongHuang/status/1526747524362653697)
+
+RT Yanzhong Huang<br>Shanghai CDC official acknowledges that spraying large amounts of disinfectant in the campaign against Covid is neither necessary nor helpful. <a href="https://china.caixin.com/2022-05-17/101886284.html" target="_blank" rel="noopener noreferrer">https://china.caixin.com/2022-05-17/101886284.html</a><br><img style="" src="https://pbs.twimg.com/media/FTAYvYqXoAA5ztJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-05-18 11:10:36+08:00 推文](https://twitter.com/cnmediaproject/status/1526762145928515584)
+
+Really interesting new piece from CMP's Stella Chen on how loudspeakers in China's countryside are coming back under Xi Jinping as a way of spreading his "Thought" and Party ideology. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%EF%BF%BC/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%EF%BF%BC/</a><br><img style="" src="https://pbs.twimg.com/media/FTAmEiFaIAEgMAQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-05-18 11:12:33+08:00 推文](https://twitter.com/alexludoboyd/status/1526762636649676800)
+
+RT Alexander Boyd<br>Will never forget listening to a 新闻联播-like radio program blaring through village loudspeakers when hiking back down from 大黑山 on outskirts of Panzhihua with @d_s_green<br><br>China Media Project: Really interesting new piece from CMP's Stella Chen on how loudspeakers in China's countryside are coming back under Xi Jinping as a way of spreading his "Thought" and Party ideology.<br><br><img style="" src="https://pbs.twimg.com/media/FTAmEiFaIAEgMAQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%EF%BF%BC/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%EF%BF%BC/</a>
+
+### 18: [2022-05-18 11:15:22+08:00 推文](https://twitter.com/JohnAlekna/status/1526763345902456832)
+
+RT John Alekna<br>The long legacy of China’s wired broadcast networks continues! Working on a long book about these information systems and how they changed the politics of China. Amazing to see that technologies and institutions dating back to the 1930s are still in use!<br><br>China Media Project: The shrill call of the loudspeaker, once a staple of political and economic life in pre-reform China, is a sound now returning to the countryside as ideology takes center stage.<br><br><img style="" src="https://pbs.twimg.com/media/FTAWQpSaQAAHq_w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3sJCTy1" target="_blank" rel="noopener noreferrer">https://bit.ly/3sJCTy1</a>
 
