@@ -29,7 +29,7 @@ The march toward the potent legacy phrase "Xi Thought" continues, this time with
 
 ### 4: [2021-12-06 12:39:21+08:00 推文](https://twitter.com/vshih2/status/1467715258198282240)
 
-RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style="" src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-06 13:41:23+08:00 推文](https://twitter.com/klustout/status/1467730873202130952)
 
@@ -81,7 +81,7 @@ Re And Dalian Daily, the official organ of the CCP leadership in the city of Dal
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
@@ -129,7 +129,7 @@ Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
-Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science and Law, where he is vice-director. Here is the introduction to the institute, which claims association with "acclaimed international human rights experts." Who is Tom Zwart? <a href="https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/yjygk/yjyjj/xnzfdxrqyjyjj/246404.htm</a><br><img style src="https://pbs.twimg.com/media/FGINAJwVUAQIOHs?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
@@ -165,11 +165,11 @@ Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Da
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 

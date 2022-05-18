@@ -87,3 +87,23 @@ RT Alexander Boyd<br>Will never forget listening to a 新闻联播-like radio 
 
 RT John Alekna<br>The long legacy of China’s wired broadcast networks continues! Working on a long book about these information systems and how they changed the politics of China. Amazing to see that technologies and institutions dating back to the 1930s are still in use!<br><br>China Media Project: The shrill call of the loudspeaker, once a staple of political and economic life in pre-reform China, is a sound now returning to the countryside as ideology takes center stage.<br><br><img style="" src="https://pbs.twimg.com/media/FTAWQpSaQAAHq_w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3sJCTy1" target="_blank" rel="noopener noreferrer">https://bit.ly/3sJCTy1</a>
 
+### 19: [2022-05-18 15:17:21+08:00 推文](https://twitter.com/cnmediaproject/status/1526824245812396032)
+
+An online neologism that became popular in April 2022, “Runology” (润学) is essentially the study of how to emigrate, or “run” overseas. “Runology” is largely a response to worsening conditions in China as the economy falters and lockdowns continue. <a href="https://bit.ly/3lmtUic" target="_blank" rel="noopener noreferrer">https://bit.ly/3lmtUic</a><br><img style="" src="https://pbs.twimg.com/media/FTBeh28acAAaNqM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-05-18 17:23:52+08:00 推文](https://twitter.com/cnmediaproject/status/1526856082202980352)
+
+Must-read from Stella Chen on the return of loudspeakers to China's countryside under Xi Jinping as ideology takes center stage. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTB7gmKacAACt8L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-05-18 17:26:24+08:00 推文](https://twitter.com/cnmediaproject/status/1526856721754652672)
+
+What is "Runology" 润学？ A term very relevant this spring as frustrations build over lockdowns and economic pain. <a href="https://chinamediaproject.org/the_ccp_dictionary/runology%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/runology%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTB8EwiacAEC-4v?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-05-18 20:25:33+08:00 推文](https://twitter.com/ByXiaoXiao/status/1526901807368114176)
+
+RT Xiao Xiao<br>Caixin Exclusive: China’s Corruption Cops Launch Probe Into Former Central Bank Official and His Wife <a href="https://www.caixinglobal.com/2022-05-18/exclusive-chinas-corruption-cops-launch-probe-into-former-central-bank-official-and-his-wife-101886979.html?cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-05-18/exclusive-chinas-corruption-cops-launch-probe-into-former-central-bank-official-and-his-wife-101886979.html?cxg=web&amp;Sfrom=twitter</a>
+
+### 23: [2022-05-18 20:40:28+08:00 推文](https://twitter.com/niubi/status/1526905557550092289)
+
+RT Bill Bishop<br>The April politburo study session on capital made clear more corruption cases were coming linked to “capital” <a href="https://sinocism.com/p/politburo-on-capital-mass-testing?s=w" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/politburo-on-capital-mass-testing?s=w</a><br><img style="" src="https://pbs.twimg.com/media/FTCogmAWQAAilyo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTCogmBXsAAiGa8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
