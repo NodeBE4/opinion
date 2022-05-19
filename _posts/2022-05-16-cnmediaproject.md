@@ -143,27 +143,39 @@ CMP's latest Tracking Control post: "Under Xi’s leadership, the loudspeaker ha
 
 RT Dali L. Yang<br>A familiar scene to those in their 60-70s<br><br>China Media Project: CMP's latest Tracking Control post: "Under Xi’s leadership, the loudspeaker has regained its old function, strengthening propaganda and ideology at grass-roots units—meaning at the lowest levels of the Party-state bureaucracy."<br><br><img style="" src="https://pbs.twimg.com/media/FTFNTWVagAAWTu-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a>
 
-### 33: [2022-05-19 12:14:00+08:00 推文](https://twitter.com/Ricky_Jeffrey/status/1527140491157852166)
+### 33: [2022-05-19 09:54:32+08:00 推文](https://twitter.com/TMK_TinaManiK/status/1527105391464566785)
+
+RT Tina Kanagaratnam<br>In other reopening news, yesterday new seals appeared on business’ doors instructing us to stay home. Exactly the same as the ones dated 5.13. Just in case you thought that Shanghai was, you know, reopening. 😂 #shanghailockdown<br><img style="" src="https://pbs.twimg.com/media/FTFeQKLUUAItjdN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 34: [2022-05-19 12:14:00+08:00 推文](https://twitter.com/Ricky_Jeffrey/status/1527140491157852166)
 
 RT Ricky Jeffrey<br>“Formalism” 形式主义 - In my experience a key weakness of many educational institutions in China - something’s done because it “looks like” it achieves an institutional objective, even though most people involved realize it doesn’t actually achieve that objective.<br><br>China Media Project: @wang_maya Time perhaps to revisit Xi Jinping's remarks on putting an end to the scourge of "formalism" (形式主义)? This is the word used by the voice behind the camera at the end of the video: a focus on form and appearance over meaningful policy.<br><br><img style="" src="https://pbs.twimg.com/media/FTFMomZaIAARHAG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://www.12371.cn/special/wjcjf/xjpxgls/" target="_blank" rel="noopener noreferrer">http://www.12371.cn/special/wjcjf/xjpxgls/</a>
 
-### 34: [2022-05-19 13:48:25+08:00 推文](https://twitter.com/zhongguowenhua1/status/1527164249293848577)
+### 35: [2022-05-19 13:48:25+08:00 推文](https://twitter.com/zhongguowenhua1/status/1527164249293848577)
 
 RT zhongguowenhua<br>Le haut-parleur, emblème de la propagande maoïste, faire son grand retour au village sous Xi Jinping (et sous une forme sophistiquée et robotisée dans Shanghai au temps du confinement).<br><br>China Media Project: CMP's latest Tracking Control post: "Under Xi’s leadership, the loudspeaker has regained its old function, strengthening propaganda and ideology at grass-roots units—meaning at the lowest levels of the Party-state bureaucracy."<br><br><img style="" src="https://pbs.twimg.com/media/FTFNTWVagAAWTu-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a>
 
-### 35: [2022-05-19 15:34:36+08:00 推文](https://twitter.com/cnmediaproject/status/1527190972144025600)
+### 36: [2022-05-19 15:34:36+08:00 推文](https://twitter.com/cnmediaproject/status/1527190972144025600)
 
 Speculation has been rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences? <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTGsFjdagAAOZxU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 36: [2022-05-19 15:47:57+08:00 推文](https://twitter.com/jojjeols/status/1527194333287309312)
+### 37: [2022-05-19 15:47:57+08:00 推文](https://twitter.com/jojjeols/status/1527194333287309312)
 
 RT Jojje Olsson<br>Levelheaded piece by @dbandurski on Kremlinology, oh I mean Zhongnanhaiology.<br><br>China Media Project: Speculation has been rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences?<br><br><img style="" src="https://pbs.twimg.com/media/FTGsFjdagAAOZxU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/</a>
 
-### 37: [2022-05-19 18:59:34+08:00 推文](https://twitter.com/joshchin/status/1527242556190228481)
+### 38: [2022-05-19 18:59:34+08:00 推文](https://twitter.com/joshchin/status/1527242556190228481)
 
 RT Josh Chin<br>An internal Chinese Communist Party directive bars senior officials from owning property abroad or stakes in overseas entities, whether directly or through spouses and children. <br><br>Scoop via @ByChunHan <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787</a>
 
-### 38: [2022-05-19 19:55:55+08:00 推文](https://twitter.com/cnmediaproject/status/1527256737161523200)
+### 39: [2022-05-19 19:55:55+08:00 推文](https://twitter.com/cnmediaproject/status/1527256737161523200)
 
 There has been much speculation this week that Xi Jinping's absence from the front page of the Party's flagship People's Daily signals his weakening position. But how much stock can we place in such absences? <a href="https://bit.ly/3LsqVPU" target="_blank" rel="noopener noreferrer">https://bit.ly/3LsqVPU</a><br><img style="" src="https://pbs.twimg.com/media/FTHntnxVIAAyEOZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-05-19 21:48:14+08:00 推文](https://twitter.com/CarlMinzner/status/1527285001280180225)
+
+RT Carl Minzner<br>(1) Interesting. Check out this 3 minute clip of Li Keqiang's inspection (考察) visit to Yunnan in 5/19 state TV news.<br><br>Meeting with ordinary citizens, officials, etc. Can't remember last time I saw TV treatment like this of a PBSC member other than Xi. <a href="https://tv.cctv.com/2022/05/19/VIDEgDm9a8Br38BzMZJZI61d220519.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.13" target="_blank" rel="noopener noreferrer">https://tv.cctv.com/2022/05/19/VIDEgDm9a8Br38BzMZJZI61d220519.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.13</a>
+
+### 41: [2022-05-19 22:01:24+08:00 推文](https://twitter.com/cnmediaproject/status/1527288315934048257)
+
+Politics on Page One: How much do we need to NOT see Xi in the headlines of the People's Daily before we begin to suspect profound shifts in Chinese politics? A cool-headed look at apparent changes this month. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one/</a><br><img style="" src="https://pbs.twimg.com/media/FTIEYxVacAAwwPJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

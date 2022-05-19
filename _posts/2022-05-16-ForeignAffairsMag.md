@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-18
+date: 2022-05-19
 from: https://old.reddit.com/r/TrueReddit/comments/uqxw3r/how_to_vaccinate_behind_enemy_lines_to_stop_the/
 layout: post
 tags:
@@ -71,4 +71,10 @@ But the Kremlin’s activities have depended heavily on local leaders pursuing t
 
 
 It didn’t have to be this way. The 1995 Dayton Peace Agreement ended the war and gave the West the tools it needed to forestall instability and violence and help keep the country on a more unified and democratic path. But those tools have gone unused for years. Instead, Western powers have allowed Bosnia to backslide into instability as nationalism surges in Serbia and Croatia. Now, the war in Ukraine represents an opportunity for the United States and its allies to carry out a long-overdue recalibration of their approach to Bosnia. The West has united in response to Russian aggression. That same energy and attention should be applied to the Balkans so that local actors who benefit from instability and Russian interference can no longer keep their chokehold on the state."
+
+### 249: [A Crime in Search of a Court: How to Hold Russia Accountable](https://old.reddit.com/r/UkrainianConflict/comments/ut4xim/a_crime_in_search_of_a_court_how_to_hold_russia/), submitted on 2022-05-19 22:41:23+08:00.
+
+----- __249.1__ -----2022-05-19 22:41:41+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
