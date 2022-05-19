@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-19
+date: 2022-05-20
 from: https://twitter.com/cnmediaproject/status/1526055976297984001
 layout: post
 tags:
@@ -178,4 +178,8 @@ RT Carl Minzner<br>(1) Interesting. Check out this 3 minute clip of Li Keqiang
 ### 41: [2022-05-19 22:01:24+08:00 推文](https://twitter.com/cnmediaproject/status/1527288315934048257)
 
 Politics on Page One: How much do we need to NOT see Xi in the headlines of the People's Daily before we begin to suspect profound shifts in Chinese politics? A cool-headed look at apparent changes this month. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one/</a><br><img style="" src="https://pbs.twimg.com/media/FTIEYxVacAAwwPJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 42: [2022-05-20 00:43:55+08:00 推文](https://twitter.com/niubi/status/1527329211354353664)
+
+RT Bill Bishop<br>Re @ehundman since the political deadline for ending community transmission is may 20 then by may 20 there is no community transmission. must be some other virus, or a big misunderstanding...
 
