@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-18
+date: 2022-05-19
 from: https://twitter.com/cnmediaproject/status/1526055976297984001
 layout: post
 tags:
@@ -115,7 +115,27 @@ RT Xiao Xiao<br>Caixin Exclusive: China’s Corruption Cops Launch Probe Into 
 
 RT Bill Bishop<br>The April politburo study session on capital made clear more corruption cases were coming linked to “capital” <a href="https://sinocism.com/p/politburo-on-capital-mass-testing?s=w" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/politburo-on-capital-mass-testing?s=w</a><br><img style="" src="https://pbs.twimg.com/media/FTCogmAWQAAilyo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTCogmBXsAAiGa8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 26: [2022-05-18 21:10:47+08:00 推文](https://twitter.com/limlouisa/status/1526913190478635008)
+### 26: [2022-05-18 21:03:57+08:00 推文](https://twitter.com/wang_maya/status/1526911468813180929)
+
+RT Maya Wang 王松莲<br>“Has the Lockdown Ended? No!...Why are you making stuff up?” An angry Shanghai resident confronts government workers staging a celebration as the government said it's ending the lockdown.<br><video src="https://video.twimg.com/ext_tw_video/1526910672600170498/pu/vid/640x350/BRRQT6ir_fDixXql.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1526910672600170498/pu/img/offGt7k42cosLak_.jpg"></video>
+
+### 27: [2022-05-18 21:10:47+08:00 推文](https://twitter.com/limlouisa/status/1526913190478635008)
 
 RT Louisa Lim<br>Featured In @nytimes with @karenklcheung’s beautiful book, with a piece by @amyqin_ This is such a lovely surprise. <a href="https://instagr.am/p/Cdswzn8lM-u/" target="_blank" rel="noopener noreferrer">https://instagr.am/p/Cdswzn8lM-u/</a><br><img style="" src="https://pbs.twimg.com/media/FTCvdIUX0AUv6Ra?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-05-19 08:28:45+08:00 推文](https://twitter.com/cnmediaproject/status/1527083806288936960)
+
+The WHO’s director general spoke his mind this month about China's "zero Covid" policy. The swift response from China's censors reveals a deep ambivalence about the foreign voice and its power to uplift or criticize. <a href="https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/</a><br><img style="" src="https://pbs.twimg.com/media/FTFKkDiUUAEzipA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-05-19 08:37:34+08:00 推文](https://twitter.com/cnmediaproject/status/1527086021216976896)
+
+Re @wang_maya Time perhaps to revisit Xi Jinping's remarks on putting an end to the scourge of "formalism" (形式主义)? This is the word used by the voice behind the camera at the end of the video: a focus on form and appearance over meaningful policy. <a href="http://www.12371.cn/special/wjcjf/xjpxgls/" target="_blank" rel="noopener noreferrer">http://www.12371.cn/special/wjcjf/xjpxgls/</a><br><img style="" src="https://pbs.twimg.com/media/FTFMomZaIAARHAG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-05-19 08:40:30+08:00 推文](https://twitter.com/cnmediaproject/status/1527086761763282944)
+
+CMP's latest Tracking Control post: "Under Xi’s leadership, the loudspeaker has regained its old function, strengthening propaganda and ideology at grass-roots units—meaning at the lowest levels of the Party-state bureaucracy." <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTFNTWVagAAWTu-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-05-19 08:46:32+08:00 推文](https://twitter.com/Dali_Yang/status/1527088278050066432)
+
+RT Dali L. Yang<br>A familiar scene to those in their 60-70s<br><br>China Media Project: CMP's latest Tracking Control post: "Under Xi’s leadership, the loudspeaker has regained its old function, strengthening propaganda and ideology at grass-roots units—meaning at the lowest levels of the Party-state bureaucracy."<br><br><img style="" src="https://pbs.twimg.com/media/FTFNTWVagAAWTu-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a>
 

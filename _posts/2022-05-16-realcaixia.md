@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-05-18
+date: 2022-05-19
 from: https://twitter.com/realcaixia/status/1525877328219209728
 layout: post
 tags:
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 4: [2022-05-17 06:24:50+08:00 推文](https://twitter.com/realcaixia/status/1526327844862930945)
 
-特别推荐。强力推荐。欢迎所有朋友都来下载。<br><br>韩连潮: 【翻墙APP】#议报 在 @GreatFireChina 的帮助下完善了翻墙APP。下载安装后不仅可以阅读 #议报 内容，而且可以遨游自由网络。下载链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FSzcoJzXwAAY9uh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a>
+特别推荐。强力推荐。欢迎所有朋友都来下载。
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
@@ -74,4 +74,8 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 ### 15: [2022-05-18 23:14:37+08:00 推文](https://twitter.com/realcaixia/status/1526944352882151426)
 
 Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一次会议，一位副部长念稿子不动脑筋，一概照念，念出这句话：“这里请大家休息10分钟。”<br>这不只是习如此，是中共高层中那些不学无术又不动脑筋的官员们的常态，秘书的水平基本代表领导的水平。真有才干愿思考能推进改革的干部许多都被逆淘汰了。
+
+### 16: [2022-05-19 09:10:36+08:00 推文](https://twitter.com/realcaixia/status/1527094335950360576)
+
+特别推荐：#议报独家发布：好文！《方舟与乌克兰普京和他的“六四噩梦”—民主与独裁的非对称战争 》<br><br>世界上总有些是在冥冥之中被注定的，比如俄罗斯反对普金独裁统治的著名勇士纳瓦尔尼，他的生日竟是北京最怕的日子：六四。<br>全世界热爱自由，反抗独裁的仁人志士们，六四见！ <a href="https://yibaochina.com/?p=246537" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246537</a>
 
