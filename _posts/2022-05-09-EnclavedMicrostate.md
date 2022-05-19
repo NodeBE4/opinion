@@ -278,6 +278,10 @@ Which I had interpreted as the emperor recalling his officials for examination b
 
 One speculation, which I don't think is that likely but which nevertheless is, from a purely semantic perspective, a valid read of 天人崩, is that Qiantian Ba was listing an additional omen: there may have been a mountain called Tianren which collapsed in a landslide. That said I have found no reference to a mountain going by such a name, and I'd stand by my original read of it being a figurative descriptor of Heaven and man being thrown in disarray.
 
+----- __428.4__ -----2022-05-19 12:48:24+08:00:
+
+This is only if you tendentiously read *any* notion of the sacred/divine and the earthly as distinct phenomena as indicative of Christian theology. 'Heaven' in this case can be understood simply as the abstract forces of the cosmos and 'man' as human affairs.
+
 ### 429: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
 
 ----- __429.1__ -----2022-05-13 18:28:28+08:00:
