@@ -300,15 +300,21 @@ In 1812, Napoleon's demands on Russia – its forcible return to the French alli
 
 To add to /u/farranpoison's point, Mel was originally a solo debut (hence debuting in mid-May rather than 1-3 June like the rest of Gen 1), but after Chris' exit she was retconned as being part of Gen 1.
 
-### 431: [ignore the commentary, just focus on this completely inedible nonsense](https://old.reddit.com/r/StupidFood/comments/up8urj/ignore_the_commentary_just_focus_on_this/), submitted on 2022-05-14 11:51:22+08:00.
+### 431: [What happened to mental health in the 24th century?!](https://old.reddit.com/r/startrekpicard/comments/uokell/what_happened_to_mental_health_in_the_24th_century/), submitted on 2022-05-13 13:15:40+08:00.
 
------ __431.1__ -----2022-05-15 02:47:49+08:00:
+----- __431.1__ -----2022-05-19 16:45:35+08:00:
+
+A bit late coming back to this because I was a bit behind on a few episodes, but my impression is she was locked away that evening specifically, so maybe Maurice wasn't expecting help to arrive until the morning.
+
+### 432: [ignore the commentary, just focus on this completely inedible nonsense](https://old.reddit.com/r/StupidFood/comments/up8urj/ignore_the_commentary_just_focus_on_this/), submitted on 2022-05-14 11:51:22+08:00.
+
+----- __432.1__ -----2022-05-15 02:47:49+08:00:
 
 Okay this is chefclub for sure right? That griddle with part of the plastic casing broken off appears in most of their videos.
 
-### 432: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
+### 433: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
 
------ __432.1__ -----2022-05-14 16:10:27+08:00:
+----- __433.1__ -----2022-05-14 16:10:27+08:00:
 
 Hi - we as mods have approved this thread, because while this is a homework question, it is asking for clarification or resources, rather than the answer itself, which is fine according to [our rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). This policy is further explained in this [Rules Roundtable thread](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) and this [META Thread](http://www.reddit.com/r/AskHistorians/comments/35pkem/askhistorians_homework_question_policy_rehash/).
 
@@ -316,9 +322,9 @@ As a result, we'd also like to remind potential answerers to follow our rules on
 
 Additionally, while users may be able to help you out with specifics relating to your question, we also have plenty of information on /r/AskHistorians on how to find and understand good sources in general. For instance, please check out our six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay.
 
-### 433: [Why did the European powers and the USA intervene in the Boxer Rebellion?](https://old.reddit.com/r/AskHistorians/comments/uprixr/why_did_the_european_powers_and_the_usa_intervene/), submitted on 2022-05-15 06:05:14+08:00.
+### 434: [Why did the European powers and the USA intervene in the Boxer Rebellion?](https://old.reddit.com/r/AskHistorians/comments/uprixr/why_did_the_european_powers_and_the_usa_intervene/), submitted on 2022-05-15 06:05:14+08:00.
 
------ __433.1__ -----2022-05-15 19:11:21+08:00:
+----- __434.1__ -----2022-05-15 19:11:21+08:00:
 
 There is, I believe, somewhat of a misunderstanding in your question, one that is unfortunately commonly held thanks to the colloquial use of 'Rebellion' to describe the Boxer crisis of 1899-1901. 'Rebellion' would imply that the Boxers sought to overturn the otherwise-established Qing government, and that the Europeans, USA, and also Japan interceded on the latter's behalf, but the political situation at the start of 1900 was considerably more complex. Complex enough that it's one of those rare occasions that it perhaps requires [a diagram](https://imgur.com/5J3mf9n) to map out. Now, I will note that  [this earlier answer](https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/) of mine goes into more detail on the specific chronology, but as it addresses things from the perspective of the Qing court I'll devote a little more space here to explicating the foreign position.
 

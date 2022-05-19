@@ -13,21 +13,21 @@ title: EnclavedMicrostate在2022-05-16~2022-05-22的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 434: [I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?](https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/), submitted on 2022-05-16 14:40:29+08:00.
+### 435: [I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?](https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/), submitted on 2022-05-16 14:40:29+08:00.
 
------ __434.1__ -----2022-05-16 17:51:15+08:00:
+----- __435.1__ -----2022-05-16 17:51:15+08:00:
 
 More can of course be said, particularly regarding the march in Gedrosia, but I discuss what the sources say on Alexander's closing of the Indian campaign [here](https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr5foz/?context=999). Put simply, half of our source tradition on Alexander runs the gamut from cynical to openly hostile, and if Alexander had somehow lost the Battle of the Hydaspes against Poros – or somehow Chandragupta, who was not even king of anything at the time – then we would expect at least *one* of the surviving accounts to have said it.
 
-### 435: [Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?](https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/), submitted on 2022-05-16 21:03:56+08:00.
+### 436: [Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?](https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/), submitted on 2022-05-16 21:03:56+08:00.
 
------ __435.1__ -----2022-05-17 19:42:05+08:00:
+----- __436.1__ -----2022-05-17 19:42:05+08:00:
 
 > Also through long periods of Korean history, Korea was a vassal state of China. This only ended with the farcical proclamation of Korea as an "empire" in 1897. Basically what happened is that Japan twisted Korea's arm into declaring itself an empire as that declaration would make it (officially) the equal to China and thus cut off Korea's traditional vassalage to China. This is all mostly a bad joke as it was just another step on the road towards Japanese annexation of Korea.
 
 I'd be interested to hear where you get this from, as my understanding, coming mainly from Kirk Larsen and Andre Schmid, is that Korea in 1897 was effectively a Russian protectorate following the Triple Intervention, and that its declaration of imperial status was A: voluntary and deliberate on the part of the King Gojong and B: an assertion of status against both Japan and the Qing, and not simply an anti-Qing move.
 
------ __435.2__ -----2022-05-18 23:40:29+08:00:
+----- __436.2__ -----2022-05-18 23:40:29+08:00:
 
 With one answer here discussing modern nationalism and the middle imperial period, and another discussing the Yuan, it would be remiss if I did not address the Qing relationship with Korea to round things out a bit. The historiography on this is rather complex and tied up in a number of issues which I ought to get into first.
 
@@ -49,9 +49,9 @@ Larsen effectively brings this forward by showing that Qing suzerainty over Kore
 
 So, was Korea 'part of China' during the Qing? Frankly, only in the most tendentiously-defined of senses. While it was in some regard dominated by the Qing Empire within a geopolitical context, for all practical intents and purposes the Qing Empire and Joseon kingdom were separate states with separate administrations and separate subjects. The Qing did, eventually, escalate their level of influence over Korea, but even at the height of this during the appointment of Yuan Shikai, Korea functioned, at most, as a protectorate of the Qing, and were never at serious threat of formal annexation into the empire.
 
-### 436: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+### 437: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
 
------ __436.1__ -----2022-05-19 14:01:57+08:00:
+----- __437.1__ -----2022-05-19 14:01:57+08:00:
 
 More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:
 
