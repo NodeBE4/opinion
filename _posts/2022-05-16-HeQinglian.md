@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-19
+date: 2022-05-20
 from: https://twitter.com/HeQinglian/status/1526197945447731201
 layout: post
 tags:
@@ -242,4 +242,12 @@ Re @KELMAND1 近年来非法移民来美国，也是怨气冲天，抱怨相同�
 ### 57: [2022-05-19 21:07:05+08:00 推文](https://twitter.com/HeQinglian/status/1527274643853217792)
 
 Re @JianglinLi @HongfuDing @david_david1968 @Wu_Zhi @RealBeiMing 其实这些人的活动在美国是公开与半公开的，至少王书君以他与美纽约领馆的关系自豪地混世界。只是以前中美是伙伴关系，美国根本不管。<br>如今不是伙伴了，抓他们打中共的脸。
+
+### 58: [2022-05-20 04:11:09+08:00 推文](https://twitter.com/HeQinglian/status/1527381365129285632)
+
+Re @princeton_walk @fading_you1 中国人基本都种过牛痘疫苗，如果是痘，第一代移民应该不会感染。<br>是不是阴谋论，要看会不会有人利用这，比如以此全面邮寄选票，而且从现在开始就邮寄投票。
+
+### 59: [2022-05-20 04:36:51+08:00 推文](https://twitter.com/HeQinglian/status/1527387833769533447)
+
+Re @cskun1989 此类颜色革命正在美国发生，中国新左派可来美国观战，访问DNC总部、AOC四人帮，再去请教全美总工会主席助理——选战专家、纽约时报、CNN、BLM总部。<br>问题是：学了也无法施用于中国，屠龙术而已。最多是向习汇报：东升西降之势已成，窝里反的颜色革命，必将摧毁新罗马帝国，坐看云起云落就行。
 
