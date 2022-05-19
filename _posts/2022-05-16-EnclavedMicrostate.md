@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-16
+date: 2022-05-19
 from: https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/
 layout: post
 tags:
@@ -48,4 +48,12 @@ Kim's frontier approach complicates Wang's argument, which is concerned almost e
 Larsen effectively brings this forward by showing that Qing suzerainty over Korea ought to be seen as something that was not a fixed relationship. While a set of traditions were maintained for over two centuries from the mid-17th century down to the mid-19th, the Qing empire quite deliberately engaged in an attempt at expanding its power over Korea beginning in the 1870s, when it encouraged what Larsen terms 'multilateral imperialism' to limit Japanese influence by essentially inviting other imperial powers to sign commercial treaties with Korea, but while retaining a certain superiority for its own merchants and officials. This would escalate in 1885 with the appointment of Yuan Shikai as a Qing imperial commissioner in Seoul, an unprecedented assertion of Qing power within Korea itself as opposed to a simple relationship of political subordination. Yuan's appointment, which concluded on the eve of the First Sino-Japanese War in July 1894, marked the high water-mark of Qing power in Korea, but also a short-lived one.
 
 So, was Korea 'part of China' during the Qing? Frankly, only in the most tendentiously-defined of senses. While it was in some regard dominated by the Qing Empire within a geopolitical context, for all practical intents and purposes the Qing Empire and Joseon kingdom were separate states with separate administrations and separate subjects. The Qing did, eventually, escalate their level of influence over Korea, but even at the height of this during the appointment of Yuan Shikai, Korea functioned, at most, as a protectorate of the Qing, and were never at serious threat of formal annexation into the empire.
+
+### 436: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+
+----- __436.1__ -----2022-05-19 14:01:57+08:00:
+
+More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:
+
+https://www.reddit.com/r/AskHistorians/comments/qs56rv/the_idea_of_the_sinicisation_becoming_chinese_of/
 
