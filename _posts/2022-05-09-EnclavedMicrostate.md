@@ -388,3 +388,13 @@ It's almost like people's definition of 'corporate' is Hololive and Hololive spe
 
 It's been confirmed that at least one of IN is on NijiEN's management staff now, but even so that's small consolation.
 
+----- __435.5__ -----2022-05-21 01:30:37+08:00:
+
+So there's kind of a 'it depends on your perspective' to this. One might justifiably ask why Luxiem's success isn't being used as a basis on which Nijisanji can shoulder the somewhat lower profit margin of more actively supporting its other, less successful talents, including EN here if we account for Ethyria. Another thing is that the social media side of things is such a low-cost endeavour that things like not hyping NijiID birthdays or tacking NijiEN merch news onto a NijiJP announcement seem like obvious favouritism at play for essentially nothing in terms of expenditures saved.
+
+EDIT: Well, to throw the more cynical take into it, depending on how merch profit gets distributed at Niji (my only reference is Holo where it mostly goes to the talent), anyone who doesn't get merch is essentially being cut out from a certain amount of income that those that do get merch become entitled to. And so there's a very obvious sort of financial loop of 'you do well you get more opportunities to get paid more, you do badly then you're shit out of luck'. And yes, you can argue that's somewhat true of the dynamic at other agencies, but that's a product of being more popular and having more people buying stuff, and not some kind of restriction – soft or hard – on the agency's part actively imbalancing the opportunities.
+
+----- __435.6__ -----2022-05-21 01:32:01+08:00:
+
+I feel like there's a certain irony in the gradual realisation that Niji has been acting far more 'corpo' than Holo has been, at least in terms of what we would consider 'typical' profit-centric corporate behaviour.
+
