@@ -129,5 +129,5 @@ I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a mont
 
 Yes, AZKi was definitely an upd8 affiliate, although it's not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.
 
-EDIT: To clear up some possible misunderstanding, the original sentence, as worded, implied INNK was jointly owned by Hololive and upd8 rather than AZKi being jointly managed. The former seems to be incorrect as I have yet to find evidence for it, but the latter was absolutely the case.
+EDIT: To clear up some possible misunderstanding, the original sentence, as worded, implied INNK was jointly owned by Hololive and upd8 rather than AZKi specifically being jointly managed or even simply represented via upd8. The former seems to be incorrect as I have yet to find evidence for it, but the latter was absolutely the case.
 
