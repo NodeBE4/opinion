@@ -13,21 +13,21 @@ title: EnclavedMicrostate在2022-05-16~2022-05-22的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 435: [I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?](https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/), submitted on 2022-05-16 14:40:29+08:00.
+### 436: [I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?](https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/), submitted on 2022-05-16 14:40:29+08:00.
 
------ __435.1__ -----2022-05-16 17:51:15+08:00:
+----- __436.1__ -----2022-05-16 17:51:15+08:00:
 
 More can of course be said, particularly regarding the march in Gedrosia, but I discuss what the sources say on Alexander's closing of the Indian campaign [here](https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr5foz/?context=999). Put simply, half of our source tradition on Alexander runs the gamut from cynical to openly hostile, and if Alexander had somehow lost the Battle of the Hydaspes against Poros – or somehow Chandragupta, who was not even king of anything at the time – then we would expect at least *one* of the surviving accounts to have said it.
 
-### 436: [Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?](https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/), submitted on 2022-05-16 21:03:56+08:00.
+### 437: [Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?](https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/), submitted on 2022-05-16 21:03:56+08:00.
 
------ __436.1__ -----2022-05-17 19:42:05+08:00:
+----- __437.1__ -----2022-05-17 19:42:05+08:00:
 
 > Also through long periods of Korean history, Korea was a vassal state of China. This only ended with the farcical proclamation of Korea as an "empire" in 1897. Basically what happened is that Japan twisted Korea's arm into declaring itself an empire as that declaration would make it (officially) the equal to China and thus cut off Korea's traditional vassalage to China. This is all mostly a bad joke as it was just another step on the road towards Japanese annexation of Korea.
 
 I'd be interested to hear where you get this from, as my understanding, coming mainly from Kirk Larsen and Andre Schmid, is that Korea in 1897 was effectively a Russian protectorate following the Triple Intervention, and that its declaration of imperial status was A: voluntary and deliberate on the part of the King Gojong and B: an assertion of status against both Japan and the Qing, and not simply an anti-Qing move.
 
------ __436.2__ -----2022-05-18 23:40:29+08:00:
+----- __437.2__ -----2022-05-18 23:40:29+08:00:
 
 With one answer here discussing modern nationalism and the middle imperial period, and another discussing the Yuan, it would be remiss if I did not address the Qing relationship with Korea to round things out a bit. The historiography on this is rather complex and tied up in a number of issues which I ought to get into first.
 
@@ -49,37 +49,37 @@ Larsen effectively brings this forward by showing that Qing suzerainty over Kore
 
 So, was Korea 'part of China' during the Qing? Frankly, only in the most tendentiously-defined of senses. While it was in some regard dominated by the Qing Empire within a geopolitical context, for all practical intents and purposes the Qing Empire and Joseon kingdom were separate states with separate administrations and separate subjects. The Qing did, eventually, escalate their level of influence over Korea, but even at the height of this during the appointment of Yuan Shikai, Korea functioned, at most, as a protectorate of the Qing, and were never at serious threat of formal annexation into the empire.
 
-### 437: [Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uqz2d3/botting_business_bureau_weekly_discussion_thread/), submitted on 2022-05-16 23:52:25+08:00.
+### 438: [Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uqz2d3/botting_business_bureau_weekly_discussion_thread/), submitted on 2022-05-16 23:52:25+08:00.
 
------ __437.1__ -----2022-05-20 10:17:20+08:00:
+----- __438.1__ -----2022-05-20 10:17:20+08:00:
 
 I can only assume Calli is the constant exception because J-Chad seems to have stuck with her from the start, although that doesn't discount the possibility of J-Chad being a pseudonym for multiple people I suppose.
 
------ __437.2__ -----2022-05-20 10:23:47+08:00:
+----- __438.2__ -----2022-05-20 10:23:47+08:00:
 
 It'd make sense; for music-heavy members and especially for Calli given her rate of output, it seems like there's just a lot of projects overlapping and starting and stopping at different times, and having a manager rotate out would be pretty disruptive to that rhythm. Even if you leave after a project wraps there is almost certainly another one already partway through the process you'd be dropping out of.
 
------ __437.3__ -----2022-05-20 14:45:02+08:00:
+----- __438.3__ -----2022-05-20 14:45:02+08:00:
 
 Or UMG as the case may be.
 
-### 438: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
+### 439: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
 
------ __438.1__ -----2022-05-20 13:01:20+08:00:
+----- __439.1__ -----2022-05-20 13:01:20+08:00:
 
 If /u/textandtrowel will permit me to add my own two cents (or would it be dirhams in this instance), much the same argument regarding Eurasian trade in the last paragraph of the above answer can be made for the Early Modern period as well. Scott C. Levi's [*The Bukharan Crisis*](https://upittpress.org/books/9780822945970/) is an excellent work that, among other things, really dissects the notion of 'Silk Road' trade. While its focus is the Early Modern period rather than the early Medieval, its relevance derives from the fact that colloquially, the Silk Road is conceived of as something that always existed in some capacity, without really digging into, well, whether it did at all.
 
-### 439: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+### 440: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
 
------ __439.1__ -----2022-05-19 14:01:57+08:00:
+----- __440.1__ -----2022-05-19 14:01:57+08:00:
 
 More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:
 
 https://www.reddit.com/r/AskHistorians/comments/qs56rv/the_idea_of_the_sinicisation_becoming_chinese_of/
 
-### 440: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
+### 441: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
 
------ __440.1__ -----2022-05-20 10:08:33+08:00:
+----- __441.1__ -----2022-05-20 10:08:33+08:00:
 
 While this is a common narrative, there was no Japanese surrender offer pre-Hiroshima: there were some noncommital feelers by *some* members of the Japanese government towards Soviet mediation, but nothing concrete or consequential. See:
 
@@ -87,21 +87,21 @@ http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-be
 
 http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/
 
------ __440.2__ -----2022-05-20 14:34:05+08:00:
+----- __441.2__ -----2022-05-20 14:34:05+08:00:
 
 Was Hiroshima not the first city a nuclear bomb got dropped on?
 
------ __440.3__ -----2022-05-20 14:56:09+08:00:
+----- __441.3__ -----2022-05-20 14:56:09+08:00:
 
 Well, I would direct you back to my comment, the linked posts, and their sources – there was no indication that Japan was offering to surrender before the dropping of the atomic bombs.
 
------ __440.4__ -----2022-05-20 15:11:21+08:00:
+----- __441.4__ -----2022-05-20 15:11:21+08:00:
 
 Cool. Go on making unsupported assertions, but I'll stick with the historians on this one.
 
-### 441: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
+### 442: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
 
------ __441.1__ -----2022-05-20 10:59:05+08:00:
+----- __442.1__ -----2022-05-20 10:59:05+08:00:
 
 > Even in Gen 2 you can see the members debuted over the course of 6 weeks or so, compared to nowadays where we have members of a gen debuting on consecutive days or even all within 24 hours.
 
@@ -109,7 +109,7 @@ It's an interesting 'yes and no' situation, because Gen 1 debuted over the cours
 
 The other thing to add is that both Korone and Okayu were scouted rather than auditioning. Okayu [just had a chat with Yagoo](https://www.youtube.com/watch?v=J0URBkyBb_M) and Korone [didn't audition either](https://www.youtube.com/watch?v=07WAuntNHTo), and it's essentially confirmed that they were simply recommended by Fubuki and Mio. I don't know if Mio's process was similar though as I can't find anything discussing it.
 
------ __441.2__ -----2022-05-20 11:02:52+08:00:
+----- __442.2__ -----2022-05-20 11:02:52+08:00:
 
 > AZKi debuted in Nov 2018 (months after Gen 2). She was her own VSinger project similar to IRyS, under the INNK Music label which was jointly owned by Hololive and Upd8 (Kizuna Ai's company).
 
@@ -121,11 +121,11 @@ I've said this on another thread but I can find no evidence that either upd8 (Ki
 
 3. While Upd8 dissolved, its parent company, Activ8, still exists, and it wouldn't make sense for Upd8, the sub-company within Activ8, to have had a stake in INNK that wouldn't be transferred to Activ8 if it was wound up.
 
------ __441.3__ -----2022-05-20 11:08:19+08:00:
+----- __442.3__ -----2022-05-20 11:08:19+08:00:
 
 I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a month ago, and she'd done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It's been a month since then and there's since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is *much* more musically prolific than most of EN, and that's despite a major health break due to vocal issues.
 
------ __441.4__ -----2022-05-20 13:02:35+08:00:
+----- __442.4__ -----2022-05-20 13:02:35+08:00:
 
 Yes, AZKi was definitely an upd8 affiliate, although it's not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.
 
