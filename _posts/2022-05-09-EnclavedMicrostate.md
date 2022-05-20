@@ -354,7 +354,7 @@ Increasingly, there seems to be a fan perception that NijiEN, and Luxiem in part
 
 * The KR/ID merger earlier this year, which I cover in a bit more detail [here](https://www.reddit.com/r/HobbyDrama/comments/uawlfn/hobby_scuffles_week_of_april_25_2022/i6mwzmt/?context=999), saw the Korean and Indonesian branches of Nijisanji merged into the core Japanese branch, but not NijiEN. On the surface this might seem innocuous if it were just a management reshuffle, but the merger meant also filing off the KR and ID branding, as well as the indefinite suspension of auditions for South Korean and Indonesian talents. The continued independence of the English branch was thus, for many, rather sus all told. 
 
-* Since then, there's also been very little news on physical merch for (former) NijiID and NijiKR, which is more of an issue than it might seem at first glance. Aside from the whole fans wanting to get merch thing, it's generally the case that talents get a substantially larger cut of merch sales than they do of stream donations, which makes them a far more direct way of supporting them. Even if the members themselves might not have a big issue with it, the fans are decidedly not happy about the above. Lazulight, Obsydia, and Ethyria got merch back in December-January but there has still been nothing of the sort for the members formerly of ID and KR.
+* Since then, there's also been very little news on physical merch for individual members of (former) NijiID and NijiKR ([EDIT: although NijiID as a whole did get a few items](https://twitter.com/monomaymono/status/1527574163690377216)), which is more of an issue than it might seem at first glance. Aside from the whole fans wanting to get merch thing, it's generally the case that talents get a substantially larger cut of merch sales than they do of stream donations, which makes them a far more direct way of supporting them. Even if the members themselves might not have a big issue with it, the fans are decidedly not happy about the above. Lazulight, Obsydia, and Ethyria got merch back in December-January but there has still been nothing of the sort for the members formerly of ID and KR.
 
 * [Nijisanji's social media didn't tweet out birthday announcements for (ex-)Indonesia members but did start doing so for NijiEN members](https://www.reddit.com/r/VirtualYoutubers/comments/ugw80c/abrahamic_apex_allegory_weekly_discussion_thread/i7vaeg8/).
 
@@ -366,7 +366,7 @@ Increasingly, there seems to be a fan perception that NijiEN, and Luxiem in part
 
  – Luxiem getting 6-month merch *at all* while Obsydia and Ethyria haven't yet had any milestone merch [(1)](https://twitter.com/Ajmichalik/status/1527472407862206464) [(2)](https://twitter.com/MkfShin/status/1527489279840100355) [(3)](https://twitter.com/maikurowevu/status/1527464157045526528) [(4)](https://twitter.com/pyfyvonne/status/1527478483391500289);
 
- – Luxiem's 6-month merch having more variety than Lazulight's 1-year anniversary lineup [(1)](https://twitter.com/Carateca2/status/1527461294340812800) [(2)](https://twitter.com/Ajmichalik/status/1527472407862206464) [(3)](https://twitter.com/emkkkk6/status/1527494620774445057);
+ – Luxiem's 6-month merch having more variety than Lazulight's 1-year anniversary lineup [(1)](https://twitter.com/Carateca2/status/1527461294340812800) [(2)](https://twitter.com/meth4l/status/1527502341229846529) [(3)](https://twitter.com/emkkkk6/status/1527494620774445057);
 
  – The puppet set for Lazulight being slated to ship a month *after* the one for Luxiem despite having gone on sale four days earlier [(1)](https://twitter.com/realfakeNEET/status/1527513701691101197);
 
@@ -375,4 +375,16 @@ Increasingly, there seems to be a fan perception that NijiEN, and Luxiem in part
  – General grievances about Nijisanji just following the money and not balancing things out among its talents [(1)](https://twitter.com/currymaru25/status/1527552173944426496)
 
 In short there seems to be a strong perception that while more merch is nice, [this is unpog](https://twitter.com/GranTzKptw/status/1527526639650762752).
+
+----- __435.2__ -----2022-05-20 23:14:06+08:00:
+
+I know that comparisons to Holo that come from me are always going to be favourable towards it, but I can't help but compare the rather 'survival of the fittest' approach Nijisanji has taken to Holo having a bit more of a 'no one left behind' mentality. Take for instance the ID branches: while Niji subsumed its ID branch and have continued to be radio silent to its fans about merch, Hololive had Bahasa Indonesia as an official announcement language at 3rd Fes and heavily pushed them during the most recent Music Weekend. From a pure corporate profit perspective one can't *blame* Nijisanji for focussing on the bottom line, but it's still been a *choice* to take the approach they have because they could just as well have gone for slightly less profitable merch lines for its less popular but longer-running talents. I guess this also applies as a reply to /u/megadongs' comment too.
+
+----- __435.3__ -----2022-05-20 23:15:45+08:00:
+
+It's almost like people's definition of 'corporate' is Hololive and Hololive specifically, and so when NijiEN turns up it's still 'indie' despite being literally the other biggest VTuber corporation out there.
+
+----- __435.4__ -----2022-05-20 23:25:53+08:00:
+
+It's been confirmed that at least one of IN is on NijiEN's management staff now, but even so that's small consolation.
 
