@@ -376,6 +376,8 @@ Increasingly, there seems to be a fan perception that NijiEN, and Luxiem in part
 
 In short there seems to be a strong perception that while more merch is nice, [this is unpog](https://twitter.com/GranTzKptw/status/1527526639650762752).
 
+EDIT: Some discussion over on Nijisanji's subreddit [here](https://www.reddit.com/r/Nijisanji/comments/utt68i/regarding_the_luxiem_favoritism_in_nijien/).
+
 ----- __435.2__ -----2022-05-20 23:14:06+08:00:
 
 I know that comparisons to Holo that come from me are always going to be favourable towards it, but I can't help but compare the rather 'survival of the fittest' approach Nijisanji has taken to Holo having a bit more of a 'no one left behind' mentality. Take for instance the ID branches: while Niji subsumed its ID branch and have continued to be radio silent to its fans about merch, Hololive had Bahasa Indonesia as an official announcement language at 3rd Fes and heavily pushed them during the most recent Music Weekend. From a pure corporate profit perspective one can't *blame* Nijisanji for focussing on the bottom line, but it's still been a *choice* to take the approach they have because they could just as well have gone for slightly less profitable merch lines for its less popular but longer-running talents. I guess this also applies as a reply to /u/megadongs' comment too.
