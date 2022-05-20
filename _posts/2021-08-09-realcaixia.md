@@ -113,7 +113,7 @@ Re @SimonZ666 理论问题不适宜这里讨论，推特短短几百字是说不
 
 ### 25: [2021-08-12 03:15:12+08:00 推文](https://twitter.com/realcaixia/status/1425536294315335684)
 
-昨晚看到国内微信上的这个视频，当时眼泪就下来了。到处都是全红蝉一样的苦孩子，可全红蝉的幸运，只有一个。<br><br>New Freedom: 今天还有一个小粉红和我说中国经济连年创下新高，今年还要增长。我就呵呵呵呵呵呵…..这种人不是蠢就是坏。<br> <a href="https://twitter.com/liuliu92266749/status/1425101261322563589" target="_blank" rel="noopener noreferrer">https://twitter.com/liuliu92266749/status/1425101261322563589</a>
+昨晚看到国内微信上的这个视频，当时眼泪就下来了。到处都是全红蝉一样的苦孩子，可全红蝉的幸运，只有一个。<br><br>New Freedom: 今天还有一个小粉红和我说中国经济连年创下新高，今年还要增长。我就呵呵呵呵呵呵…..这种人不是蠢就是坏。<br> <a href="https://twitter.com/LiuLiu92266749/status/1425101261322563589" target="_blank" rel="noopener noreferrer">https://twitter.com/LiuLiu92266749/status/1425101261322563589</a>
 
 ### 26: [2021-08-12 03:45:55+08:00 推文](https://twitter.com/realcaixia/status/1425544024216293376)
 

@@ -59,17 +59,23 @@ I can only assume Calli is the constant exception because J-Chad seems to have s
 
 It'd make sense; for music-heavy members and especially for Calli given her rate of output, it seems like there's just a lot of projects overlapping and starting and stopping at different times, and having a manager rotate out would be pretty disruptive to that rhythm. Even if you leave after a project wraps there is almost certainly another one already partway through the process you'd be dropping out of.
 
-### 438: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+### 438: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
 
------ __438.1__ -----2022-05-19 14:01:57+08:00:
+----- __438.1__ -----2022-05-20 13:01:20+08:00:
+
+If /u/textandtrowel will permit me to add my own two cents (or would it be dirhams in this instance), much the same argument regarding Eurasian trade in the last paragraph of the above answer can be made for the Early Modern period as well. Scott C. Levi's [*The Bukharan Crisis*](https://upittpress.org/books/9780822945970/) is an excellent work that, among other things, really dissects the notion of 'Silk Road' trade. While its focus is the Early Modern period rather than the early Medieval, its relevance derives from the fact that colloquially, the Silk Road is conceived of as something that always existed in some capacity, without really digging into, well, whether it did at all.
+
+### 439: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+
+----- __439.1__ -----2022-05-19 14:01:57+08:00:
 
 More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:
 
 https://www.reddit.com/r/AskHistorians/comments/qs56rv/the_idea_of_the_sinicisation_becoming_chinese_of/
 
-### 439: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
+### 440: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
 
------ __439.1__ -----2022-05-20 10:08:33+08:00:
+----- __440.1__ -----2022-05-20 10:08:33+08:00:
 
 While this is a common narrative, there was no Japanese surrender offer pre-Hiroshima: there were some noncommital feelers by *some* members of the Japanese government towards Soviet mediation, but nothing concrete or consequential. See:
 
@@ -77,9 +83,9 @@ http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-be
 
 http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/
 
-### 440: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
+### 441: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
 
------ __440.1__ -----2022-05-20 10:59:05+08:00:
+----- __441.1__ -----2022-05-20 10:59:05+08:00:
 
 > Even in Gen 2 you can see the members debuted over the course of 6 weeks or so, compared to nowadays where we have members of a gen debuting on consecutive days or even all within 24 hours.
 
@@ -87,7 +93,7 @@ It's an interesting 'yes and no' situation, because Gen 1 debuted over the cours
 
 The other thing to add is that both Korone and Okayu were scouted rather than auditioning. Okayu [just had a chat with Yagoo](https://www.youtube.com/watch?v=J0URBkyBb_M) and Korone [didn't audition either](https://www.youtube.com/watch?v=07WAuntNHTo), and it's essentially confirmed that they were simply recommended by Fubuki and Mio. I don't know if Mio's process was similar though as I can't find anything discussing it.
 
------ __440.2__ -----2022-05-20 11:02:52+08:00:
+----- __441.2__ -----2022-05-20 11:02:52+08:00:
 
 > AZKi debuted in Nov 2018 (months after Gen 2). She was her own VSinger project similar to IRyS, under the INNK Music label which was jointly owned by Hololive and Upd8 (Kizuna Ai's company).
 
@@ -99,7 +105,11 @@ I've said this on another thread but I can find no evidence that either upd8 (Ki
 
 3. While Upd8 dissolved, its parent company, Activ8, still exists, and it wouldn't make sense for Upd8, the sub-company within Activ8, to have had a stake in INNK that wouldn't be transferred to Activ8 if it was wound up.
 
------ __440.3__ -----2022-05-20 11:08:19+08:00:
+----- __441.3__ -----2022-05-20 11:08:19+08:00:
 
 I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a month ago, and she'd done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It's been a month since then and there's since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is *much* more musically prolific than most of EN.
+
+----- __441.4__ -----2022-05-20 13:02:35+08:00:
+
+Yes, AZKi was definitely an upd8 affiliate, although it's not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.
 

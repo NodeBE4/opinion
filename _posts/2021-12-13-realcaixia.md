@@ -101,5 +101,5 @@ Re 大陆经济至此，根源在于极权专制制度，非是政策转向所�
 
 ### 22: [2021-12-19 22:33:16+08:00 推文](https://twitter.com/realcaixia/status/1472575764499517444)
 
-呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
+呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style="" src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
 

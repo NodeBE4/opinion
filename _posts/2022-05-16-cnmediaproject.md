@@ -219,3 +219,11 @@ Re 2/3 "Persistence is Victory," our look at the now important phrase 坚持就�
 
 Re 3/3 And Stella Chen's look at the tragic story of journalist Tong Weijing and why her death was ignored by state media in Shanghai. <a href="https://chinamediaproject.org/2022/05/12/passing-of-shanghai-culture-writer-raises-questions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/12/passing-of-shanghai-culture-writer-raises-questions/</a><br><img style="" src="https://pbs.twimg.com/media/FTKq1FkaAAAfNeh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 52: [2022-05-20 11:20:35+08:00 推文](https://twitter.com/cnmediaproject/status/1527489435285475329)
+
+Now in the CMP Dictionary, "Rule of Law" (法治), in partnership with the Decoding China project ( <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a> <a href="https://chinamediaproject.org/the_ccp_dictionary/rule-of-law/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/rule-of-law/</a><br><img style="" src="https://pbs.twimg.com/media/FTK67iwaMAA1pTh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 53: [2022-05-20 11:42:40+08:00 推文](https://twitter.com/michaelxpettis/status/1527494993841377280)
+
+RT Michael Pettis<br>1/2<br>The irony is that if individuals take less money out of China, or repatriate what they have already taken out, this just means that PBoC reserves have to be that much bigger, and so the amount subject to sanctions is the same. <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787</a>
+
