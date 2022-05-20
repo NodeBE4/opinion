@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-19
+date: 2022-05-20
 from: https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/
 layout: post
 tags:
@@ -76,4 +76,30 @@ While this is a common narrative, there was no Japanese surrender offer pre-Hiro
 http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-before-hiroshima-part-1/
 
 http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/
+
+### 440: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
+
+----- __440.1__ -----2022-05-20 10:59:05+08:00:
+
+> Even in Gen 2 you can see the members debuted over the course of 6 weeks or so, compared to nowadays where we have members of a gen debuting on consecutive days or even all within 24 hours.
+
+It's an interesting 'yes and no' situation, because Gen 1 debuted over the course of 3 days. (Technically. Mel was originally a solo debutant and would theoretically count as Gen 0, but she got retroactively shuffled into Gen 1 some time after Chris graduated.) Gen 2 definitely had a rather staggered debut, but Gen 3 was split a little more evenly between Pekora/Rushia in July (who were the two who were scouted) and Flare/Noel/Marine in August (who were the three who auditioned normally).
+
+The other thing to add is that both Korone and Okayu were scouted rather than auditioning. Okayu [just had a chat with Yagoo](https://www.youtube.com/watch?v=J0URBkyBb_M) and Korone [didn't audition either](https://www.youtube.com/watch?v=07WAuntNHTo), and it's essentially confirmed that they were simply recommended by Fubuki and Mio. I don't know if Mio's process was similar though as I can't find anything discussing it.
+
+----- __440.2__ -----2022-05-20 11:02:52+08:00:
+
+> AZKi debuted in Nov 2018 (months after Gen 2). She was her own VSinger project similar to IRyS, under the INNK Music label which was jointly owned by Hololive and Upd8 (Kizuna Ai's company).
+
+I've said this on another thread but I can find no evidence that either upd8 (Kizuna AI's agency brand) nor Activ8 (the company running upd8) had a direct hand in INNK. To sum up why I don't believe that to have been the case:
+
+1. AZKi debuted under Cover a few weeks before also being affiliated with Upd8, and it would be several more weeks before officially starting with INNK.
+
+2. Suisei was never affiliated with Upd8 during her time with INNK.
+
+3. While Upd8 dissolved, its parent company, Activ8, still exists, and it wouldn't make sense for Upd8, the sub-company within Activ8, to have had a stake in INNK that wouldn't be transferred to Activ8 if it was wound up.
+
+----- __440.3__ -----2022-05-20 11:08:19+08:00:
+
+I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a month ago, and she'd done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It's been a month since then and there's since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is *much* more musically prolific than most of EN.
 
