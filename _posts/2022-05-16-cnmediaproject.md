@@ -155,31 +155,67 @@ RT Ricky Jeffrey<br>“Formalism” 形式主义 - In my experience a key weak
 
 RT zhongguowenhua<br>Le haut-parleur, emblème de la propagande maoïste, faire son grand retour au village sous Xi Jinping (et sous une forme sophistiquée et robotisée dans Shanghai au temps du confinement).<br><br>China Media Project: CMP's latest Tracking Control post: "Under Xi’s leadership, the loudspeaker has regained its old function, strengthening propaganda and ideology at grass-roots units—meaning at the lowest levels of the Party-state bureaucracy."<br><br><img style="" src="https://pbs.twimg.com/media/FTFNTWVagAAWTu-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a>
 
-### 36: [2022-05-19 15:34:36+08:00 推文](https://twitter.com/cnmediaproject/status/1527190972144025600)
+### 36: [2022-05-19 14:24:53+08:00 推文](https://twitter.com/vshih2/status/1527173428209364996)
+
+RT Victor Shih<br>So in a large wechat group, when I clicked on footage of Li Keqiang’s visit to Yunnan, this is what I saw<br><img style="" src="https://pbs.twimg.com/media/FTGcI6tVEAAqf1Y?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-05-19 15:34:36+08:00 推文](https://twitter.com/cnmediaproject/status/1527190972144025600)
 
 Speculation has been rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences? <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTGsFjdagAAOZxU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 37: [2022-05-19 15:47:57+08:00 推文](https://twitter.com/jojjeols/status/1527194333287309312)
+### 38: [2022-05-19 15:47:57+08:00 推文](https://twitter.com/jojjeols/status/1527194333287309312)
 
 RT Jojje Olsson<br>Levelheaded piece by @dbandurski on Kremlinology, oh I mean Zhongnanhaiology.<br><br>China Media Project: Speculation has been rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences?<br><br><img style="" src="https://pbs.twimg.com/media/FTGsFjdagAAOZxU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/</a>
 
-### 38: [2022-05-19 18:59:34+08:00 推文](https://twitter.com/joshchin/status/1527242556190228481)
+### 39: [2022-05-19 18:59:34+08:00 推文](https://twitter.com/joshchin/status/1527242556190228481)
 
 RT Josh Chin<br>An internal Chinese Communist Party directive bars senior officials from owning property abroad or stakes in overseas entities, whether directly or through spouses and children. <br><br>Scoop via @ByChunHan <a href="https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-insists-party-elites-shed-overseas-assets-eyeing-western-sanctions-on-russia-11652956787</a>
 
-### 39: [2022-05-19 19:55:55+08:00 推文](https://twitter.com/cnmediaproject/status/1527256737161523200)
+### 40: [2022-05-19 19:55:55+08:00 推文](https://twitter.com/cnmediaproject/status/1527256737161523200)
 
 There has been much speculation this week that Xi Jinping's absence from the front page of the Party's flagship People's Daily signals his weakening position. But how much stock can we place in such absences? <a href="https://bit.ly/3LsqVPU" target="_blank" rel="noopener noreferrer">https://bit.ly/3LsqVPU</a><br><img style="" src="https://pbs.twimg.com/media/FTHntnxVIAAyEOZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 40: [2022-05-19 21:48:14+08:00 推文](https://twitter.com/CarlMinzner/status/1527285001280180225)
+### 41: [2022-05-19 21:48:14+08:00 推文](https://twitter.com/CarlMinzner/status/1527285001280180225)
 
 RT Carl Minzner<br>(1) Interesting. Check out this 3 minute clip of Li Keqiang's inspection (考察) visit to Yunnan in 5/19 state TV news.<br><br>Meeting with ordinary citizens, officials, etc. Can't remember last time I saw TV treatment like this of a PBSC member other than Xi. <a href="https://tv.cctv.com/2022/05/19/VIDEgDm9a8Br38BzMZJZI61d220519.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.13" target="_blank" rel="noopener noreferrer">https://tv.cctv.com/2022/05/19/VIDEgDm9a8Br38BzMZJZI61d220519.shtml?spm=C31267.PXDaChrrDGdt.EbD5Beq0unIQ.13</a>
 
-### 41: [2022-05-19 22:01:24+08:00 推文](https://twitter.com/cnmediaproject/status/1527288315934048257)
+### 42: [2022-05-19 22:01:24+08:00 推文](https://twitter.com/cnmediaproject/status/1527288315934048257)
 
 Politics on Page One: How much do we need to NOT see Xi in the headlines of the People's Daily before we begin to suspect profound shifts in Chinese politics? A cool-headed look at apparent changes this month. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one/</a><br><img style="" src="https://pbs.twimg.com/media/FTIEYxVacAAwwPJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 42: [2022-05-20 00:43:55+08:00 推文](https://twitter.com/niubi/status/1527329211354353664)
+### 43: [2022-05-20 00:43:55+08:00 推文](https://twitter.com/niubi/status/1527329211354353664)
 
 RT Bill Bishop<br>Re @ehundman since the political deadline for ending community transmission is may 20 then by may 20 there is no community transmission. must be some other virus, or a big misunderstanding...
+
+### 44: [2022-05-20 05:29:44+08:00 推文](https://twitter.com/niubi/status/1527401140186382336)
+
+RT Bill Bishop<br>from the May 11 Sinocism on all the rumors about Xi and Li and some sort of a "split". Have seen nothing since then to change my view. I would be ecstatic to be wrong, and so would markets and a lot of people. <a href="https://sinocism.com/p/shanghai-outbreak-data-improving?s=w" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/shanghai-outbreak-data-improving?s=w</a><br><img style="" src="https://pbs.twimg.com/media/FTJrKzPWIAgFM0B?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-05-20 09:04:39+08:00 推文](https://twitter.com/cnmediaproject/status/1527455226764361728)
+
+Topping the People's Daily and PD Online today is a story of a letter Xi Jinping wrote to Nanjing University students study abroad who recently returned home. This letter could have been machine generated, so full is it of CCP platitudes. 1/3 <a href="http://politics.people.com.cn/n1/2022/0520/c1024-32425636.html" target="_blank" rel="noopener noreferrer">http://politics.people.com.cn/n1/2022/0520/c1024-32425636.html</a><br><img style="" src="https://pbs.twimg.com/media/FTKbwChacAAFSKl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 46: [2022-05-20 09:06:10+08:00 推文](https://twitter.com/cnmediaproject/status/1527455606881529856)
+
+Re "I hope that comrades vigorously carry the glorious tradition of serving the country by studying abroad, take serving the country and people as their conscious pursuit . . . . and promote scientific and technological self-reliance and self-improvement . . . " 2/3
+
+### 47: [2022-05-20 09:07:33+08:00 推文](https://twitter.com/cnmediaproject/status/1527455954773884928)
+
+Re "... striving to be examples in firm cultural confidence and telling the Chinese story, so as to actively offer their wisdom and strength to the comprehensive construction of a modernized socialist country and the realization of the Chinese dream of great rejuvenation... " 3/3
+
+### 48: [2022-05-20 09:39:20+08:00 推文](https://twitter.com/cnmediaproject/status/1527463954515394560)
+
+Re @RudyakMarina Enter 1) topic, 2) length, 3) your position in the bureaucracy, 4) level of floridity . . . .<br><img style="" src="https://pbs.twimg.com/media/FTKkXTgaQAAuWdF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 49: [2022-05-20 10:05:03+08:00 推文](https://twitter.com/cnmediaproject/status/1527470425542119424)
+
+1/3 As the Shanghai lockdown seems to persist, despite official indications otherwise -- revisit past CMP coverage. Including "Doubling Down on Dynamic Zero" <a href="https://chinamediaproject.org/2022/05/06/doubling-down-on-dynamic-zero/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/06/doubling-down-on-dynamic-zero/</a><br><img style="" src="https://pbs.twimg.com/media/FTKqP5RaQAAeYp4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 50: [2022-05-20 10:05:55+08:00 推文](https://twitter.com/cnmediaproject/status/1527470644216348673)
+
+Re 2/3 "Persistence is Victory," our look at the now important phrase 坚持就是胜利 and its history. <a href="https://chinamediaproject.org/2022/05/05/persistence-is-victory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/05/persistence-is-victory/</a><br><img style="" src="https://pbs.twimg.com/media/FTKqbpCacAAyiUu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 51: [2022-05-20 10:07:35+08:00 推文](https://twitter.com/cnmediaproject/status/1527471063671910400)
+
+Re 3/3 And Stella Chen's look at the tragic story of journalist Tong Weijing and why her death was ignored by state media in Shanghai. <a href="https://chinamediaproject.org/2022/05/12/passing-of-shanghai-culture-writer-raises-questions/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/12/passing-of-shanghai-culture-writer-raises-questions/</a><br><img style="" src="https://pbs.twimg.com/media/FTKq1FkaAAAfNeh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

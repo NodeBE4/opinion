@@ -49,11 +49,31 @@ Larsen effectively brings this forward by showing that Qing suzerainty over Kore
 
 So, was Korea 'part of China' during the Qing? Frankly, only in the most tendentiously-defined of senses. While it was in some regard dominated by the Qing Empire within a geopolitical context, for all practical intents and purposes the Qing Empire and Joseon kingdom were separate states with separate administrations and separate subjects. The Qing did, eventually, escalate their level of influence over Korea, but even at the height of this during the appointment of Yuan Shikai, Korea functioned, at most, as a protectorate of the Qing, and were never at serious threat of formal annexation into the empire.
 
-### 437: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+### 437: [Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uqz2d3/botting_business_bureau_weekly_discussion_thread/), submitted on 2022-05-16 23:52:25+08:00.
 
------ __437.1__ -----2022-05-19 14:01:57+08:00:
+----- __437.1__ -----2022-05-20 10:17:20+08:00:
+
+I can only assume Calli is the constant exception because J-Chad seems to have stuck with her from the start, although that doesn't discount the possibility of J-Chad being a pseudonym for multiple people I suppose.
+
+----- __437.2__ -----2022-05-20 10:23:47+08:00:
+
+It'd make sense; for music-heavy members and especially for Calli given her rate of output, it seems like there's just a lot of projects overlapping and starting and stopping at different times, and having a manager rotate out would be pretty disruptive to that rhythm. Even if you leave after a project wraps there is almost certainly another one already partway through the process you'd be dropping out of.
+
+### 438: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+
+----- __438.1__ -----2022-05-19 14:01:57+08:00:
 
 More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:
 
 https://www.reddit.com/r/AskHistorians/comments/qs56rv/the_idea_of_the_sinicisation_becoming_chinese_of/
+
+### 439: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
+
+----- __439.1__ -----2022-05-20 10:08:33+08:00:
+
+While this is a common narrative, there was no Japanese surrender offer pre-Hiroshima: there were some noncommital feelers by *some* members of the Japanese government towards Soviet mediation, but nothing concrete or consequential. See:
+
+http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-before-hiroshima-part-1/
+
+http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/
 
