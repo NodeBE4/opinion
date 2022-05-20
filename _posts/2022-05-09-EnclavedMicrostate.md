@@ -368,7 +368,7 @@ Increasingly, there seems to be a fan perception that NijiEN, and Luxiem in part
 
  – Luxiem's 6-month merch having more variety than Lazulight's 1-year anniversary lineup [(1)](https://twitter.com/Carateca2/status/1527461294340812800) [(2)](https://twitter.com/Ajmichalik/status/1527472407862206464) [(3)](https://twitter.com/emkkkk6/status/1527494620774445057);
 
- – The puppet set for Lazulight shipping a month *after* the one for Luxiem [(1)](https://twitter.com/realfakeNEET/status/1527513701691101197);
+ – The puppet set for Lazulight being slated to ship a month *after* the one for Luxiem despite having gone on sale four days earlier [(1)](https://twitter.com/realfakeNEET/status/1527513701691101197);
 
  – Still nothing for (former) KR and ID talents [(1)](https://twitter.com/CapungTofu/status/1527517027900223493);
 
