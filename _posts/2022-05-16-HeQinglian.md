@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
@@ -286,4 +286,32 @@ Re @KELMAND1 如果说以前不完全明白，看完“阿富汗帐本”之后�
 ### 68: [2022-05-20 09:09:17+08:00 推文](https://twitter.com/HeQinglian/status/1527456394022211599)
 
 Re @JianglinLi @FranzMendelsso1 确实是这样。此外，今年拜登-民主党因为倒行逆施之举太多，要想赢中期选举，得有一场对外“正义”之战提振选情。让乌克兰打这场代理人战争，就是此目的。
+
+### 69: [2022-05-20 20:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1527632408513847296)
+
+Re @UDPzhan 烦请去这留言：<br>Xiaonong Cheng, 程晓农 @XiaonongC <br>他就在推上，直接联系更方便。
+
+### 70: [2022-05-20 20:53:02+08:00 推文](https://twitter.com/HeQinglian/status/1527633496260362242)
+
+Re @JiangShangrong 400亿的去向，应该不成问题了。帐面上自我冲销，去库存折抵。<br>世界上居然还有乌克兰这种愿意牺牲本国成全他国的国家。
+
+### 71: [2022-05-20 20:56:51+08:00 推文](https://twitter.com/HeQinglian/status/1527634458534453253)
+
+Re @fading_you1 @princeton_walk 这一切似乎从2019年10月就开始了，先是世界军运会的新冠病毒演习，后是武汉病毒，一波接一波，回望后发现操作方面算是步调一致，政治目的都达到了。
+
+### 72: [2022-05-20 21:00:57+08:00 推文](https://twitter.com/HeQinglian/status/1527635487678246913)
+
+Re @slhy168 @KELMAND1 今后你家的子孙有幸不被阉割，你可能要感谢你现在恨的人。<br>布林肯说了，要向全世界推广LGBTQI的美国人权观，要各国政府配合。虽然没说不配合的结果如何，但你还是想象一下吧。
+
+### 73: [2022-05-20 21:02:10+08:00 推文](https://twitter.com/HeQinglian/status/1527635796756406277)
+
+Re @TonyTt64 @KELMAND1 我说了希拉里在俄乌战争中赚了钱么？
+
+### 74: [2022-05-20 21:03:30+08:00 推文](https://twitter.com/HeQinglian/status/1527636131914850316)
+
+Re @J0KE_biden @FranzMendelsso1 大重置早就开始了，一项项推行。<br>科技精英是参与者。
+
+### 75: [2022-05-20 21:06:27+08:00 推文](https://twitter.com/HeQinglian/status/1527636875623780352)
+
+Re @JianglinLi 看起来很漂亮，花期多长？我现在就想找点根系不深、花期长如萱草的植物做点缀。
 
