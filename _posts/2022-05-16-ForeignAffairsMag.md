@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-19
+date: 2022-05-20
 from: https://old.reddit.com/r/TrueReddit/comments/uqxw3r/how_to_vaccinate_behind_enemy_lines_to_stop_the/
 layout: post
 tags:
@@ -77,4 +77,21 @@ It didn’t have to be this way. The 1995 Dayton Peace Agreement ended the war a
 ----- __249.1__ -----2022-05-19 22:41:41+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 250: [Out of Africa: The Real Roots of the Modern World](https://old.reddit.com/r/Africa/comments/utvo3d/out_of_africa_the_real_roots_of_the_modern_world/), submitted on 2022-05-20 21:20:05+08:00.
+
+----- __250.1__ -----2022-05-20 21:21:11+08:00:
+
+\[SS from the article by Olúfẹ́mi Táíwò, Professor of African Political Thought at and Chair of the Africana Studies and Research Center at Cornell University\]
+
+"Africa remains poorly understood by the rest of the world and frequently distorted in global conversations, whether in the work of African and Africanist scholars, the reporting of journalists, or the missives of aid workers. They tend to see Africa as exceptional, defined by its difference. An asymmetry shapes the way people—Africans and non-Africans alike—describe the continent. For instance, Belgium (with its perennial tensions between French speakers and Flemish speakers), Canada (home to a sometimes rancorous Québécois separatism), and Russia (where many ethnic minorities are uneasily parceled into republics) are seen as multinational federations, but the Democratic Republic of the Congo, Ethiopia, and Nigeria are sites of so-called nation building, where motley tribes need to be forged into nations. What counts as federalism elsewhere becomes tribalism in Africa.  
+
+
+Africa even as a geographic concept remains fraught. The continent is often divided between North Africa and sub-Saharan Africa, a distinction that traces back to the nineteenth century and is rooted in racist beliefs about the differences between the groups in the predominantly Arab northern areas and those in what was then called “Black Africa.” The German philosopher Georg Hegel, for instance, dubbed the northern part of the continent “European Africa” to yoke the cultural legacy of Egypt to Europe while denying that Africa was ever a part of the movement of history. The continued use of this distinction maintains the unjustified bifurcation of the continent in the global imagination.  
+
+
+Africa also manages to exist outside of time. It is the only continent whose history intellectuals are content to reduce to just three periods: a long precolonial period, a relatively short colonial period, and the ongoing post-colonial period. As a result, the sweep of African history pivots around the late-nineteenth-century European conquest of much of the continent. Compare this understanding of the African past to its European equivalents. Scholars break up European history into a plethora of periods, from classical antiquity to the so-called Dark Ages, the Middle Ages, the Renaissance, and so on. No one deigns to periodize Europe’s history simply in terms of colonialism. Africa, on the other hand, is the land that time forgot, dragged into the march of history only through its encounter with Europe.  
+
+
+An undeniable consequence of this way of thinking is the near-total erasure of Africa; its social, political, and cultural life; its intellectual contributions; and the biographies of its thinkers from the annals of global history. The challenge of retrieving Africa from this mute presence motivates Born in Blackness, the latest book by the writer and journalist Howard French. He combines the investigative and descriptive tools of a seasoned, much-traveled reporter with the scholarly credentials of an academic working within archives. The book explores the complex relations between Africans and Europeans in the centuries before the imposition of formal colonialism at the end of the nineteenth century, rejecting much of the received wisdom about this period. In so doing, French aims for a bigger target than merely illuminating Africa’s past: he demonstrates in this magisterial synthesis that Africa was never marginal to global events; rather, it is the place where the modern world came into being."
 
