@@ -63,6 +63,16 @@ It'd make sense; for music-heavy members and especially for Calli given her rate
 
 Or UMG as the case may be.
 
+----- __438.4__ -----2022-05-21 02:39:06+08:00:
+
+> On one hand, (edited for technical accuracy) Hololive as an agency and Cover as a company is (still) technically not music-focused as such
+
+You say that, but according to r/hololive:
+
+> We specialize in songs and music, but more often than not, will just stream games or chat with our fans!
+
+Hololive's definitely always been more variety entertainment than pure streaming, and it seems like what's happened with the pivot to music is more it becoming more of a practicable reality as opposed to an underlying shift in how the agency conceives of itself and its content.
+
 ### 439: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
 
 ----- __439.1__ -----2022-05-20 13:01:20+08:00:
@@ -130,4 +140,18 @@ I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a mont
 Yes, AZKi was definitely an upd8 affiliate, although it's not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.
 
 EDIT: To clear up some possible misunderstanding, the original sentence, as worded, implied INNK was jointly owned by Hololive and upd8 rather than AZKi specifically being jointly managed or even simply represented via upd8. The former seems to be incorrect as I have yet to find evidence for it, but the latter was absolutely the case.
+
+### 443: [Nijisanji off collab](https://old.reddit.com/r/VirtualYoutubers/comments/utvomf/nijisanji_off_collab/), submitted on 2022-05-20 21:20:34+08:00.
+
+----- __443.1__ -----2022-05-21 02:45:38+08:00:
+
+> I can't differentiate if the language used in Chat is Chinese or Taiwanese
+
+It's not a hard and fast rule, but the main difference would be Simplified vs Traditional Chinese, because otherwise written Chinese is pretty consistent across the board. Plus you'd end up with a bunch of false positives either way – Singaporeans also use Simplified Chinese while Hong Kongers use Traditional.
+
+### 444: [[Videogames] A devoted playerbase was tricked into buying an unfinished AAA videogame, "Total War: WARHAMMER III" - which was also the most hyped of the franchise so far. The community was split between being mad or happy about it.](https://old.reddit.com/r/HobbyDrama/comments/utx3mp/videogames_a_devoted_playerbase_was_tricked_into/), submitted on 2022-05-20 22:09:29+08:00.
+
+----- __444.1__ -----2022-05-21 02:01:22+08:00:
+
+I lost a lot of faith in CA when they took 3K round the back with a shotgun mere months after promising substantial content ahead. What makes it worse is that they didn't even use the freed up resources to make a game that satisfied the expectations of the people who wanted it. So I'm not satisfied and they're not either.
 
