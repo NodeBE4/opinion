@@ -21,7 +21,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when te
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
-Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the # of Nanjing Massacre victims. Her firing prompted a fierce struggle online between those who saw her as a lacking patriotism and those who believed she was treated unfairly. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHBf76_akAALtQv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the # of Nanjing Massacre victims. Her firing prompted a fierce struggle online between those who saw her as a lacking patriotism and those who believed she was treated unfairly. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHBf76_akAALtQv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
@@ -53,7 +53,7 @@ Updated content restrictions for short video platforms in China add a few politi
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
