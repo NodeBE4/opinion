@@ -59,6 +59,10 @@ I can only assume Calli is the constant exception because J-Chad seems to have s
 
 It'd make sense; for music-heavy members and especially for Calli given her rate of output, it seems like there's just a lot of projects overlapping and starting and stopping at different times, and having a manager rotate out would be pretty disruptive to that rhythm. Even if you leave after a project wraps there is almost certainly another one already partway through the process you'd be dropping out of.
 
+----- __437.3__ -----2022-05-20 14:45:02+08:00:
+
+Or UMG as the case may be.
+
 ### 438: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
 
 ----- __438.1__ -----2022-05-20 13:01:20+08:00:
@@ -82,6 +86,10 @@ While this is a common narrative, there was no Japanese surrender offer pre-Hiro
 http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-before-hiroshima-part-1/
 
 http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/
+
+----- __440.2__ -----2022-05-20 14:34:05+08:00:
+
+Was Hiroshima not the first city a nuclear bomb got dropped on?
 
 ### 441: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
 
@@ -107,9 +115,11 @@ I've said this on another thread but I can find no evidence that either upd8 (Ki
 
 ----- __441.3__ -----2022-05-20 11:08:19+08:00:
 
-I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a month ago, and she'd done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It's been a month since then and there's since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is *much* more musically prolific than most of EN.
+I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a month ago, and she'd done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It's been a month since then and there's since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is *much* more musically prolific than most of EN, and that's despite a major health break due to vocal issues.
 
 ----- __441.4__ -----2022-05-20 13:02:35+08:00:
 
 Yes, AZKi was definitely an upd8 affiliate, although it's not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.
+
+EDIT: To clear up some possible misunderstanding, the original sentence, as worded, implied INNK was jointly owned by Hololive and upd8 rather than AZKi being jointly managed. The former seems to be incorrect as I have yet to find evidence for it, but the latter was absolutely the case.
 
