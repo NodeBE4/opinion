@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-20
+date: 2022-05-21
 from: https://twitter.com/HeQinglian/status/1526197945447731201
 layout: post
 tags:
@@ -233,7 +233,7 @@ Re @gmzhaogmailcom1 你还是先帮欧盟找着天然气、石油等能源替代
 
 ### 55: [2022-05-19 20:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1527267629915938817)
 
-评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？
+评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？<br><br>美国之音中文网: 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言<br> <a href="http://dlvr.it/SQdBq4" target="_blank" rel="noopener noreferrer">http://dlvr.it/SQdBq4</a>
 
 ### 56: [2022-05-19 20:59:01+08:00 推文](https://twitter.com/HeQinglian/status/1527272617102741507)
 
@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
@@ -346,4 +346,20 @@ Re @Wu_Zhi @JianglinLi @david_david1968 现在保守派在主流媒体上成了�
 ### 83: [2022-05-20 23:29:55+08:00 推文](https://twitter.com/HeQinglian/status/1527672977579560960)
 
 Re @Wu_Zhi @JianglinLi @david_david1968 福山的高度就是左派的高度。懒得听他说什么。
+
+### 84: [2022-05-21 04:09:53+08:00 推文](https://twitter.com/HeQinglian/status/1527743435503022087)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @HongfuDing 肯定会这样说，说投降与批评乌克兰、美欧的，全是被俄方刑讯逼供，不得已的。
+
+### 85: [2022-05-21 04:11:01+08:00 推文](https://twitter.com/HeQinglian/status/1527743718102556677)
+
+Re @Wu_Zhi @JiangShangrong @RealBeiMing 这是肯定的。<br>我正准备写篇《全球通胀的怪罪游戏》。
+
+### 86: [2022-05-21 04:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1527744026744655872)
+
+Re @Wu_Zhi @JianglinLi 美国左派与媒体喜欢就行。
+
+### 87: [2022-05-21 04:21:47+08:00 推文](https://twitter.com/HeQinglian/status/1527746430810701829)
+
+Re @Wu_Zhi @JiangShangrong @RealBeiMing 我也去看看。单极世界其实只出现过十多年，早在2003年，法国就挑战美国的领导权，正式提出多极化，中国与法等成为另外两极。
 
