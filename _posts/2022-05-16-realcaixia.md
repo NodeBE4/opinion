@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 1: [2022-05-16 00:34:39+08:00 推文](https://twitter.com/realcaixia/status/1525877328219209728)
 
-看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年<br><br>韩连潮: 【巾帼英雄】芬兰和瑞典拟放弃分别实施了70多年和200年的中立，加入北约。不是安全受到来自普京的极大威胁，她们不会轻易更改这项国策。这两位国家领导敢作敢为，是真正的巾帼英雄。<br><br><img style="" src="https://pbs.twimg.com/media/FSzkJhOXwAE0o1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年
 
 ### 2: [2022-05-16 01:31:00+08:00 推文](https://twitter.com/realcaixia/status/1525891510989889536)
 
@@ -81,7 +81,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？<br><br>荣剑: 虽然今天关于李总的消息爆屏了，但也有坏消息，有人因为越来越喜欢总理而招致删帖扣分处理 。这世道越来越看不明白了。<br><br><img style="" src="https://pbs.twimg.com/media/FTC8FUcVIAA1d2R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1526848927768510464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526848927768510464</a>
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
@@ -121,7 +121,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
@@ -130,4 +130,8 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 
 極為精彩的兩集訪談！強力推薦！<br>江峰先生對中共軍事思想的分析，對中共海軍實力的分析，精彩絕倫！<br><br>北京大震盪 蔡總統任內 習近平啟動攻台劇本? 一定要解放台灣？解放軍攻台關鍵戰略。攻台關鍵在海軍 中共航母艦載機 僅書本知識 從無海戰經驗。22... <a href="https://youtu.be/RYJ5mAv7wXg" target="_blank" rel="noopener noreferrer">https://youtu.be/RYJ5mAv7wXg</a>
+
+### 30: [2022-05-22 04:11:21+08:00 推文](https://twitter.com/realcaixia/status/1528106192651837440)
+
+Re @Ali40518860 @YouTube 你根本沒有看就發議論。是中共網軍？五毛？粉紅？帶著任務發貼？
 
