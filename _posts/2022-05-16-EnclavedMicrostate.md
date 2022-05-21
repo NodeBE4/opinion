@@ -181,3 +181,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
+### 448: [Congratulations to Yukihana Lamy on 1,000,000 Subscribers](https://old.reddit.com/r/Hololive/comments/uugmqj/congratulations_to_yukihana_lamy_on_1000000/), submitted on 2022-05-21 13:37:49+08:00.
+
+----- __448.1__ -----2022-05-22 03:22:53+08:00:
+
+I'm pretty sure that was a far smaller break than the one she had due to health issues back in November. She's been living with mental health issues for a good while now but she does seem to be reasonably on top of it, and mainly does what she's comfortable with, as much as she's comfortable with.
+
