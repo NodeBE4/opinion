@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-20
+date: 2022-05-21
 from: https://twitter.com/cnmediaproject/status/1526055976297984001
 layout: post
 tags:
@@ -234,4 +234,24 @@ RT Don Weinland<br>As more people are released, there will be a period of time
 ### 55: [2022-05-20 14:44:12+08:00 推文](https://twitter.com/luigiluib/status/1527540676208082944)
 
 RT Krzysztof Pawliszak<br>Jednym z argumentów za wycofaniem chińskich uniwersytetów z międzynar. rankingów była „ochrona niezależności edukacyjnej i kulturowej”, a w liście Xi Jinpinga do studentów Nankińskiego czytamy wezwanie do… studiowania za granicą w celu „służenia krajowi” i kulturze.<br>Sprzeczne🤔<br><br>China Media Project: "... striving to be examples in firm cultural confidence and telling the Chinese story, so as to actively offer their wisdom and strength to the comprehensive construction of a modernized socialist country and the realization of the Chinese dream of great rejuvenation... " 3/3<br>
+
+### 56: [2022-05-20 19:24:21+08:00 推文](https://twitter.com/NeysunM/status/1527611181468471298)
+
+RT Neysun Mahboubi<br>Download it while it’s hot (and before it gets harmonized!): PKU law professor Shen Kui’s careful analysis, from the standpoint of high-end public law theory, of the legality of “household disinfection” Covid mitigation policies: <a href="https://m.thepaper.cn/baijiahao_18184178?sdkver=771db3e7" target="_blank" rel="noopener noreferrer">https://m.thepaper.cn/baijiahao_18184178?sdkver=771db3e7</a><br><img style="" src="https://pbs.twimg.com/media/FTMqRc1X0AEyuk9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTMqRc2WQAEgLnm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 57: [2022-05-21 08:01:41+08:00 推文](https://twitter.com/DavidBarboza2/status/1527801767152467969)
+
+RT David Barboza<br>No one wins a trade war, economists say, and the one fought by the U.S. and China has been costly to both. Yet there is one clear beneficiary: Vietnam. <a href="https://www.wsj.com/articles/who-won-the-u-s-china-trade-war-11653059611" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/who-won-the-u-s-china-trade-war-11653059611</a>
+
+### 58: [2022-05-21 10:45:39+08:00 推文](https://twitter.com/cnmediaproject/status/1527843031923425281)
+
+Speculation was rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences? <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one/</a><br><img style="" src="https://pbs.twimg.com/media/FTP9CEAaQAAB6D6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 59: [2022-05-21 10:48:22+08:00 推文](https://twitter.com/cnmediaproject/status/1527843716119302144)
+
+CMP feature this week: The shrill call of the loudspeaker, once a staple of political and economic life in pre-reform China, is a sound now returning to the countryside as ideology takes center stage in the Xi era. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping/</a><br><img style="" src="https://pbs.twimg.com/media/FTP9tmWagAAb-Tn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 60: [2022-05-21 11:06:43+08:00 推文](https://twitter.com/samuel_wade/status/1527848334303502337)
+
+RT Samuel Wade<br>Lightning doesn't strike twice, but chairs do.<br><br>China Media Project: Speculation was rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences?<br><br><img style="" src="https://pbs.twimg.com/media/FTP9CEAaQAAB6D6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one/</a>
 

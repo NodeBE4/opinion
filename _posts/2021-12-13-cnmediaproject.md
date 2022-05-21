@@ -97,15 +97,15 @@ Re CMP looks a bit more closely at the language in the CAC notice. One point is 
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
-RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style="" src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
-After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
+After serving more than 15 years as the controversial editor-in-chief of China's most outspoken newspaper on foreign affairs, Hu Xijin (胡锡进) announced his retirement on Weibo today. Other sources say his departure has been compelled. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtLhQ-UcAIwfgo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
-Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style="" src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-16 13:39:50+08:00 推文](https://twitter.com/cnmediaproject/status/1471354358847918082)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 
@@ -137,7 +137,7 @@ RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛:�
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
-A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
+A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 

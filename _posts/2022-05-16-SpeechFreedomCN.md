@@ -35,3 +35,7 @@ A Shanghai resident of a locked down community visits the community office for i
 
 广东省中山市男子陈某，因在微信群内以及朋友圈转发“有损社会主义制度及国家领导人的不实言论及图片”，于2019年9月被刑拘，并于2020年1月提起公诉。其罪名为寻衅滋事，后续判决不详。<br><img style="" src="https://pbs.twimg.com/media/FTN1UcaWAAAqtr3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-05-21 12:55:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1527875582939250689)
+
+Guangdong man Chen, who forwarded "false remarks and pictures" in WeChat that were "harmful to China's socialism system and state leaders", arrested in Jun 2019 and prosecuted in Jan 2020 for Picking Quarrel and Provoking Trouble.<br><img style="" src="https://pbs.twimg.com/media/FTN1uAcX0AAnclD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
