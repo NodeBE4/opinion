@@ -147,7 +147,7 @@ EDIT: To clear up some possible misunderstanding, the original sentence, as word
 
 > I can't differentiate if the language used in Chat is Chinese or Taiwanese
 
-It's not a hard and fast rule, but the main difference would be Simplified vs Traditional Chinese, because otherwise written Chinese is pretty consistent across the board. Plus you'd end up with a bunch of false positives either way – Singaporeans also use Simplified Chinese while Hong Kongers use Traditional.
+It's not a hard and fast rule, but the main difference would be Simplified vs Traditional Chinese, because otherwise written Chinese is pretty consistent across the board (unless people are writing the spoken languages out, which isn't *un*common mind you). Plus you'd end up with a bunch of false positives either way – Singaporeans also use Simplified Chinese while Hong Kongers use Traditional.
 
 ### 444: [[Videogames] A devoted playerbase was tricked into buying an unfinished AAA videogame, "Total War: WARHAMMER III" - which was also the most hyped of the franchise so far. The community was split between being mad or happy about it.](https://old.reddit.com/r/HobbyDrama/comments/utx3mp/videogames_a_devoted_playerbase_was_tricked_into/), submitted on 2022-05-20 22:09:29+08:00.
 
