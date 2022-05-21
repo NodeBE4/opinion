@@ -265,11 +265,11 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
-如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。
+如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。<br><br>The Hill: Thursday, the Senate blocked $48 billion aid package for restaurants and other small businesses.<br><br><video src="https://video.twimg.com/amplify_video/1527422746413645824/vid/1280x720/6woAhhNPx20kERzk.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1527422746413645824/img/j-O9AhQ_PhBxDqrS.jpg"></video> <a href="http://hill.cm/ELVsWwr" target="_blank" rel="noopener noreferrer">http://hill.cm/ELVsWwr</a>
 
 ### 65: [2022-05-20 08:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1527442443716673536)
 
@@ -390,4 +390,20 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 
 Re @FranzMendelsso1 😂
+
+### 95: [2022-05-21 10:22:30+08:00 推文](https://twitter.com/HeQinglian/status/1527837208203386880)
+
+拜登内政三大成就：40年未有之高通胀，未成年人变性，短命的真理部昙花一现。<br>对外：俄乌战争中，美乌信息战完胜；欧洲盟友忍经济割肉之痛团结在美国周围；美国-东盟峰会未能让东盟国家选美弃中，冷清收场；美国-美洲峰会，3/4后院邻居拒绝参加。中东暂时不好再去，唯剩非洲国家可努力示好。
+
+### 96: [2022-05-21 10:25:16+08:00 推文](https://twitter.com/HeQinglian/status/1527837901928771585)
+
+Re @weakweek2 “moneypox”.😂😭<br>以后每两年中选来一次，其中那次与大选重合的年份来次大的。
+
+### 97: [2022-05-21 10:28:05+08:00 推文](https://twitter.com/HeQinglian/status/1527838612355747842)
+
+Re @ausyang 多多派发红包，与中国竞争。
+
+### 98: [2022-05-21 10:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1527842185164509184)
+
+Re @ausyang 按乌克兰例，每月援助财政40亿美元，何愁非盟56国不弯腰？
 

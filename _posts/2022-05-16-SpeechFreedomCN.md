@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-05-18
+date: 2022-05-21
 from: https://twitter.com/SpeechFreedomCN/status/1526414203694850048
 layout: post
 tags:
@@ -30,4 +30,8 @@ Guangdong man Zeng prosecuted in May 2020 for sharing a video via WeChat caption
 ### 4: [2022-05-18 09:47:14+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1526741167966126080)
 
 A Shanghai resident of a locked down community visits the community office for inquiry and sees an officer eating Swiss roll. He was confused how she had access to imported food while others struggle for daily essentials and filmed the situation, then he got detained for 5 days.<br><img style="" src="https://pbs.twimg.com/media/FTARkoQXsAAoNRx?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTARmTkX0AM_Cap?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTARoOYXEAE-nIn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-05-21 12:52:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1527874828404895745)
+
+广东省中山市男子陈某，因在微信群内以及朋友圈转发“有损社会主义制度及国家领导人的不实言论及图片”，于2019年9月被刑拘，并于2020年1月提起公诉。其罪名为寻衅滋事，后续判决不详。<br><img style="" src="https://pbs.twimg.com/media/FTN1UcaWAAAqtr3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
