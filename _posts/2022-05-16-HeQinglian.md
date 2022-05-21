@@ -233,7 +233,7 @@ Re @gmzhaogmailcom1 你还是先帮欧盟找着天然气、石油等能源替代
 
 ### 55: [2022-05-19 20:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1527267629915938817)
 
-评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？
+评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？<br><br>美国之音中文网: 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言<br> <a href="http://dlvr.it/SQdBq4" target="_blank" rel="noopener noreferrer">http://dlvr.it/SQdBq4</a>
 
 ### 56: [2022-05-19 20:59:01+08:00 推文](https://twitter.com/HeQinglian/status/1527272617102741507)
 
@@ -362,4 +362,32 @@ Re @Wu_Zhi @JianglinLi 美国左派与媒体喜欢就行。
 ### 87: [2022-05-21 04:21:47+08:00 推文](https://twitter.com/HeQinglian/status/1527746430810701829)
 
 Re @Wu_Zhi @JiangShangrong @RealBeiMing 我也去看看。单极世界其实只出现过十多年，早在2003年，法国就挑战美国的领导权，正式提出多极化，中国与法等成为另外两极。
+
+### 88: [2022-05-21 08:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1527813983939575808)
+
+新冠未走，猴痘来了。<br>5月20日，WHO称目前全球约有80例猴痘确诊病例，还有50例待确认的病例。随着监测范围的扩大，未来可能会发现更多病例。目前已有11个国家和地区出现猴痘病例，猴痘主要通过密切接触传播。高风险人群包括卫生工作者、家庭成员和性伴侣。<br>本人妄猜：出于爱民，美国中选继续邮寄选票。
+
+### 89: [2022-05-21 09:00:28+08:00 推文](https://twitter.com/HeQinglian/status/1527816563377811456)
+
+Re @FranzMendelsso1 其实，连邮寄都可免了，因为信封上可能有猴痘病毒。为了选民健康，直接网上投票选举好了，不用查验身份，一键可以多次投票，完全不压制选民热情。最后结果，每个选区溢出选民人数20-30%。
+
+### 90: [2022-05-21 09:06:46+08:00 推文](https://twitter.com/HeQinglian/status/1527818147704840192)
+
+美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。 <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
+
+### 91: [2022-05-21 09:11:15+08:00 推文](https://twitter.com/HeQinglian/status/1527819277398642688)
+
+Re @nI01o7kf6VO7Oc3 联合国新闻。 <a href="https://news.un.org/zh/story/2022/05/1103482" target="_blank" rel="noopener noreferrer">https://news.un.org/zh/story/2022/05/1103482</a>
+
+### 92: [2022-05-21 09:12:28+08:00 推文](https://twitter.com/HeQinglian/status/1527819582609801217)
+
+Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情，溢出10%多。
+
+### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
+
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
+
+### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
+
+Re @FranzMendelsso1 😂
 
