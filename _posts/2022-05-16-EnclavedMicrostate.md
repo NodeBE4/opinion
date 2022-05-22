@@ -228,3 +228,11 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 453: [HoloEn collabs with other Vtubers](https://old.reddit.com/r/Hololive/comments/uv8gq9/holoen_collabs_with_other_vtubers/), submitted on 2022-05-22 18:45:23+08:00.
+
+----- __453.1__ -----2022-05-22 20:03:15+08:00:
+
+Very few of the HoloEN members in North America have confirmed which country they're based in, except for Kronii who has recently bravely come out as Canadian. In general it's been presumed that Ina is also in Canada and that Fauna, Ame, Mumei, and Gura are in the US, though I couldn't tell you how most of those conclusions were reached except for Calli having mentioned trying but failing to arrange a meetup with Gura during an earlier trip to the US.
+
+EDIT: As regards Fauna being Canadian, there's no confirmation on this count at all besides her being the first to correctly clock the first line of the Canadian national anthem during Gura's Mad Gab segment on New Year's Day, but she then got the next line wrong which seems to imply that she *isn't*. But until she says one way or the other we have no hard info.
+
