@@ -265,11 +265,11 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
-如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。<br><br>The Hill: Thursday, the Senate blocked $48 billion aid package for restaurants and other small businesses.<br><br><video src="https://video.twimg.com/amplify_video/1527422746413645824/vid/1280x720/6woAhhNPx20kERzk.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1527422746413645824/img/j-O9AhQ_PhBxDqrS.jpg"></video> <a href="http://hill.cm/ELVsWwr" target="_blank" rel="noopener noreferrer">http://hill.cm/ELVsWwr</a>
+如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。
 
 ### 65: [2022-05-20 08:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1527442443716673536)
 
@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
@@ -385,7 +385,7 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 
 ### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
 
-以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。
 
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 
@@ -546,4 +546,24 @@ Re @Wu_Zhi @JianglinLi 哪里，按左派逻辑，都是强势者的错。弱者
 ### 133: [2022-05-22 23:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1528398866831269890)
 
 Re @Wu_Zhi @JianglinLi 美国例外，它是唯一的替天行道强势者。😂<br>以前有句话：真理在大炮射程内。如今可能改成“真理在导弹射程内、标枪投射范围内”，连贵欧都要军备了——最近好象不说了？难道又不军备了？
+
+### 134: [2022-05-22 23:38:44+08:00 推文](https://twitter.com/HeQinglian/status/1528399972563025922)
+
+Re @FangYiDuan1 正是如此，决定从美国买。因为政治正确，立场要紧，价格贵一两倍也就忍了，反正美国也不断用美元援助乌克兰，多少帮衬大哥一点。
+
+### 135: [2022-05-22 23:40:41+08:00 推文](https://twitter.com/HeQinglian/status/1528400462642290688)
+
+Re @farmdirect8 @JianglinLi @RealBeiMing @Wu_Zhi @david_david1968 莱姆病出现有年头了，不算上帝送给左派的礼物。必须新出的病，要隔离，让政府有机会关心民众，实行邮寄选票。
+
+### 136: [2022-05-22 23:49:02+08:00 推文](https://twitter.com/HeQinglian/status/1528402565259575298)
+
+Re @sWnmBsklqSRKOw1 @Wu_Zhi @JianglinLi 乌波合并，关俄甚事？干预也没立场。
+
+### 137: [2022-05-22 23:51:02+08:00 推文](https://twitter.com/HeQinglian/status/1528403066881556480)
+
+Re @FangYiDuan1 昨天就有人译成中文了，英文出处在此。<br>泽总会分到一些的。 <a href="https://www.congress.gov/bill/117th-congress/house-bill/7691/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-bill/7691/text</a>
+
+### 138: [2022-05-22 23:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1528404424464515079)
+
+Re @antiDSforever 太先进了，这边猴痘刚发作，是非洲传入还是实验室外逃猴子传染都没争论清楚，那边疫苗已静候。<br>BTW，连用中文五笔输入，都有了“猴痘”词组。
 
