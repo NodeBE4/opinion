@@ -27,3 +27,11 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 人们的忍耐是有限的，到了极限时就会发出不屈的怒吼。《上海自救委员会宣言》号召：<br>全城自救 ，民间自治！<br><img style="" src="https://pbs.twimg.com/media/FTZJ_uiUUAEiZrC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTZKANfUEAEfNaZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTZKA2pUcAEs8aQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTZKBo6UAAAsDgE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
+
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
+
+### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
+
+Re 请看市民这封给公安机关人员的公开信。信的一开始就说：“民不畏死，奈何以死惧之。”<br>信的最后说：“你们无权要求我配合你们的任何行动！敬请自重！勿谓言之不预也！”市民的忍耐到头了。<br><img style="" src="https://pbs.twimg.com/media/FTZTHGFVsAAQffV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
