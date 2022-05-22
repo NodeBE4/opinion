@@ -269,7 +269,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
-如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。
+如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。<br><br>The Hill: Thursday, the Senate blocked $48 billion aid package for restaurants and other small businesses.<br><br><video src="https://video.twimg.com/amplify_video/1527422746413645824/vid/1280x720/6woAhhNPx20kERzk.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1527422746413645824/img/j-O9AhQ_PhBxDqrS.jpg"></video> <a href="http://hill.cm/ELVsWwr" target="_blank" rel="noopener noreferrer">http://hill.cm/ELVsWwr</a>
 
 ### 65: [2022-05-20 08:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1527442443716673536)
 
@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
@@ -474,4 +474,8 @@ Re @pandatress1 这叫“战略撤退”，参考中共的长征组歌。<br>唯
 ### 115: [2022-05-22 05:34:24+08:00 推文](https://twitter.com/HeQinglian/status/1528127092310917121)
 
 拜登政府借援乌之名再撒400亿，目前应该干点正事了：<br>全球通胀这只巨大“灰犀牛”横在路上，对中俄玩怪罪游戏也无法抑制，如何衡量美元过量供应形成的货币冲击及其对经济增长动力和物价的影响？<br>美国经济衰退不是“黑天鹅”，而是可预期出现的情况。美国是否想点法子提振本国经济，而不是依靠开动印钞机？
+
+### 116: [2022-05-22 09:12:06+08:00 推文](https://twitter.com/HeQinglian/status/1528181876795523073)
+
+Re @Wu_Zhi @seadognw 好象还有芬兰。这下俄罗斯收入少了，受到沉重打击。
 
