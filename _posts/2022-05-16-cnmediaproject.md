@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-21
+date: 2022-05-22
 from: https://twitter.com/cnmediaproject/status/1526055976297984001
 layout: post
 tags:
@@ -254,4 +254,8 @@ CMP feature this week: The shrill call of the loudspeaker, once a staple of poli
 ### 60: [2022-05-21 11:06:43+08:00 推文](https://twitter.com/samuel_wade/status/1527848334303502337)
 
 RT Samuel Wade<br>Lightning doesn't strike twice, but chairs do.<br><br>China Media Project: Speculation was rife this week that Xi Jinping's absence from the front page of the Party's flagship newspaper signals his weakening position. But how much stock should we place in such absences?<br><br><img style="" src="https://pbs.twimg.com/media/FTP9CEAaQAAB6D6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one/</a>
+
+### 61: [2022-05-22 18:10:37+08:00 推文](https://twitter.com/yongxiong2008/status/1528317399954751488)
+
+RT Yong Xiong<br>On the 1st day of Shanghai resuming some subways, state media reporters interviewed a grandma. When she was saying “since I was born, I have never suffered anything like this, being locked home and couldn’t leave. It’s a big joke,” the reporters pointed mic/cam to somewhere else.<br><video src="https://video.twimg.com/ext_tw_video/1528317318065197056/pu/vid/1280x720/-Y9kQlLh9XFI_Zps.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528317318065197056/pu/img/80g-mCm-ceZE9ghA.jpg"></video>
 

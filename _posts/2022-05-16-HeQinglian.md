@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
@@ -385,7 +385,7 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 
 ### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
 
-以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
 
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 
@@ -478,4 +478,72 @@ Re @pandatress1 这叫“战略撤退”，参考中共的长征组歌。<br>唯
 ### 116: [2022-05-22 09:12:06+08:00 推文](https://twitter.com/HeQinglian/status/1528181876795523073)
 
 Re @Wu_Zhi @seadognw 好象还有芬兰。这下俄罗斯收入少了，受到沉重打击。
+
+### 117: [2022-05-22 21:31:36+08:00 推文](https://twitter.com/HeQinglian/status/1528367980286984193)
+
+Re @HsTui 美国政权落到这帮人手里，成了世界祸害。现在刚开头。
+
+### 118: [2022-05-22 21:37:53+08:00 推文](https://twitter.com/HeQinglian/status/1528369559975116800)
+
+泽伦斯基：唯有外交突破可以终结战争 <br>看了此段，发现乌克兰前一阶段取得重大胜利：“俄乌战事迈入12周，乌军已成功阻止俄罗斯攻占基辅与北部哈尔科夫（Kharkiv），如今却在东部的顿巴斯（Donbas）承受庞大压力。” <a href="https://rfi.my/8RBA.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8RBA.T</a>
+
+### 119: [2022-05-22 21:43:40+08:00 推文](https://twitter.com/HeQinglian/status/1528371016141004806)
+
+既卖矛又卖盾的新闻：<br>芬兰能源公司：俄罗斯21日起切断天然气供应 <br>矛：在芬兰之前，波兰和保加利亚成为首批因为拒绝接受"卢布结算令"而被俄罗斯切段天然气供应的国家。<br>盾：俄继上周暂停向芬兰提供电力后将切断对其天然气供应，外界普遍认为，这和芬兰申请加入北约不无关系。 <a href="https://p.dw.com/p/4BdkN?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4BdkN?maca=zh-Twitter-sharing</a>
+
+### 120: [2022-05-22 21:45:41+08:00 推文](https://twitter.com/HeQinglian/status/1528371521319751680)
+
+Re 买卖关系，不付钱，自然切断，与加入北约何干？<br>要想证明后一点，付卢布购买。如果付了钱也不卖，就是后者。<br>西方媒体现在仗着“乌正义”，说啥都有理。
+
+### 121: [2022-05-22 21:55:30+08:00 推文](https://twitter.com/HeQinglian/status/1528373992498798592)
+
+路透消息：<br>据路透社21日援引消息人士称，德国、意大利、奥地利、斯洛伐克四国已同意开设卢布账户以继续购买俄罗斯天然气。<br>俄罗斯副总理亚历山大·诺瓦克（Alexander Novak）19日透露，与俄气签有供气合约的54家企业中，约半数已在俄银行开设卢布帐户。 <a href="https://www.reuters.com/markets/europe/germany-italy-approved-russian-gas-payments-after-nod-brussels-sources-2022-05-20" target="_blank" rel="noopener noreferrer">https://www.reuters.com/markets/europe/germany-italy-approved-russian-gas-payments-after-nod-brussels-sources-2022-05-20</a> <a href="https://www.reuters.com/business/energy/half-gazproms-54-clients-opened-gazprombank-accounts-says-russias-novak-2022-05-19/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/business/energy/half-gazproms-54-clients-opened-gazprombank-accounts-says-russias-novak-2022-05-19/</a>
+
+### 122: [2022-05-22 21:57:36+08:00 推文](https://twitter.com/HeQinglian/status/1528374520372936704)
+
+Re @8kMiiJZdDFA1H3t 你呢就是弄不清状况：人家旧合同到期，签新合同，欧元属于被冻结财产，不能使用，新合同当然要用卢布。<br>是谁耍流氓？想要免费午餐？
+
+### 123: [2022-05-22 22:02:07+08:00 推文](https://twitter.com/HeQinglian/status/1528375659034292226)
+
+Re @FranzMendelsso1 他的话，就姑妄听之吧。目前乌鸡血可能少了一半人，不过，我这里还会有“我会缝扣子了”的傻瓜来卖弄主流媒体过去说过的三言两语。
+
+### 124: [2022-05-22 22:15:13+08:00 推文](https://twitter.com/HeQinglian/status/1528378954351906816)
+
+这可真是昂贵的替代。除了农场主，美国人能养得起马的人不多，城市的且不说，大纽约地区的郊区住户，马养在哪里，买饲料的钱可能比汽油更贵。<br>拜登一家住在白宫，倒是可以，有政府补贴。<br><br>Ezio Mao☢: 一位德国农民从吉普车转向马车以节省燃料。😤<br><br>舒普巴赫一家农场的老板斯蒂芬妮·科施纳抱怨说，现在她花更多的时间在路上。<br><br>然而，《华盛顿邮报》写道，这帮助她每月节省了大约 250 欧元油钱。现在德国一升汽油的价格为 2 欧元。但是难道养马不要钱？🤔🤔<br><br>此前德国经济部长哈伯建议德国人骑自行车。<br><br><img style="" src="https://pbs.twimg.com/media/FTWa31gaQAEuU5T?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 125: [2022-05-22 22:17:55+08:00 推文](https://twitter.com/HeQinglian/status/1528379634219458560)
+
+Re @dongle_smith “想加入北约，付卢布也不卖”。“另一部分国家， 为什么给卢布还不卖?”<br>试举例子，并请附链接，最好是有信誉的媒体。
+
+### 126: [2022-05-22 22:38:26+08:00 推文](https://twitter.com/HeQinglian/status/1528384799714549762)
+
+Re @YiCui12 指定银行兑换。
+
+### 127: [2022-05-22 23:04:50+08:00 推文](https://twitter.com/HeQinglian/status/1528391439780126720)
+
+Re @FranzMendelsso1 如今攻城掠地意义不大，占领后还需要救助、重建。你说得对。
+
+### 128: [2022-05-22 23:06:41+08:00 推文](https://twitter.com/HeQinglian/status/1528391908019535872)
+
+Re @FangYiDuan1 我刚发过路透消息，德法奥匈等半数欧盟国家都付卢布购买了，这些小国是否购买，应该是自主选择。
+
+### 129: [2022-05-22 23:11:36+08:00 推文](https://twitter.com/HeQinglian/status/1528393144210964482)
+
+Re @JianglinLi @RealBeiMing @Wu_Zhi @david_david1968 知道了。邮寄选票的前奏。<br>有说法出来了，美国这些染病者没去过非洲，不是那里传来的，是实验室的猴子跑出来传染的。<br>这只猴子（或者多只）通灵，知道今年需要它们跑出来。<br>咱们不信谣，不传谣，听拜登的命令好了。只希望小拜登不抓只猴子到豪宅陪他玩就行。
+
+### 130: [2022-05-22 23:12:46+08:00 推文](https://twitter.com/HeQinglian/status/1528393439468978176)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 目测2024年还将有动物从实验室跑出来。
+
+### 131: [2022-05-22 23:16:56+08:00 推文](https://twitter.com/HeQinglian/status/1528394487881510912)
+
+Re @JianglinLi @Wu_Zhi 将眼光放长点，将来某天，重复俄乌关系历史，俄乌数百年恩怨恨情仇，50年后变成乌波恩怨情仇，到时90多岁的泽前总统领着乌民喊“民族要独立，人民要解放”。<br>那情景谁敢保证不出现？看看全世界的民族独立解放运动。
+
+### 132: [2022-05-22 23:27:04+08:00 推文](https://twitter.com/HeQinglian/status/1528397038651588608)
+
+Re @Wu_Zhi @JianglinLi 哪里，按左派逻辑，都是强势者的错。弱者要解放，只要有美国在，不愁没解放者。阿富汗不说了，就这10多年，中东北非四国+乌克兰，还有一个待解放的俄罗斯。
+
+### 133: [2022-05-22 23:34:20+08:00 推文](https://twitter.com/HeQinglian/status/1528398866831269890)
+
+Re @Wu_Zhi @JianglinLi 美国例外，它是唯一的替天行道强势者。😂<br>以前有句话：真理在大炮射程内。如今可能改成“真理在导弹射程内、标枪投射范围内”，连贵欧都要军备了——最近好象不说了？难道又不军备了？
 
