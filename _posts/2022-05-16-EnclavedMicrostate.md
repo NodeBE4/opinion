@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-21
+date: 2022-05-22
 from: https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/
 layout: post
 tags:
@@ -186,4 +186,31 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 ----- __448.1__ -----2022-05-22 03:22:53+08:00:
 
 I'm pretty sure that was a far smaller break than the one she had due to health issues back in November. She's been living with mental health issues for a good while now but she does seem to be reasonably on top of it, and mainly does what she's comfortable with, as much as she's comfortable with.
+
+### 449: [where to start on Chinese history?](https://old.reddit.com/r/AskHistorians/comments/uuzemy/where_to_start_on_chinese_history/), submitted on 2022-05-22 08:11:41+08:00.
+
+----- __449.1__ -----2022-05-22 13:10:16+08:00:
+
+I'd also throw in [Episode 130](https://askhistorians.libsyn.com/-askhistorians-podcast-130-the-taiping-rebellion) on the Taiping Heavenly Kingdom and [this Minisode](https://askhistorians.libsyn.com/askhistorians-minisode-uprisings-in-19th-century-china-with-enclavedmicrostate) on smaller uprisings contemporary with it.
+
+### 450: [What Should Teenagers Know About WW2? Advise A Teacher!](https://old.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/), submitted on 2022-05-22 11:53:42+08:00.
+
+----- __450.1__ -----2022-05-22 13:21:03+08:00:
+
+Hello everyone, 
+
+A friendly reminder that the rules still apply here: as usual, we will [remove comments which don't follow them for reasons including unfounded speculation, shallowness, and of course, inaccuracy](https://www.reddit.com/r/AskHistorians/comments/h8aefx/rules_roundtable_xviii_removed_curation_and_why/).
+
+ If you want to be reminded to come check back later, or simply find other great content to read while you wait, [this thread](https://www.reddit.com/r/AskHistorians/comments/i6b42q/rules_roundtable_xxvi_be_kind_remind_revisited/) provides a guide to a number of ways to do so, including the RemindMeBot- [**Click Here to Subscribe**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttp%3A%2F%2Fhttps://www.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/%2F%5D%0A%0ARemindMe!++2+days) - or
+our [Twitter](http://twitter.com/askhistorians).
+
+### 451: [Where, when and who invented the hot pot?](https://old.reddit.com/r/AskHistorians/comments/uv42hy/where_when_and_who_invented_the_hot_pot/), submitted on 2022-05-22 13:09:03+08:00.
+
+----- __451.1__ -----2022-05-22 13:19:23+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
