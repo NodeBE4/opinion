@@ -39,3 +39,11 @@ Obey the Party, Cut the Nonsense: In recent remarks, Inner Mongolia's top CCP le
 
 The shrill call of the loudspeaker, once a staple of political and economic life in pre-reform China, is a sound now returning to the countryside as ideology takes center stage in the New Era. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTaiW6nakAANWUF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-05-23 15:13:17+08:00 推文](https://twitter.com/cnmediaproject/status/1528635159519678464)
+
+"[CCP] officials have spoken over the years about the need to ... cut down on alienating rhetoric. But the inescapable fact is that news media in China are tethered like moons to the planet of Party-speak and its irresistible pull." <a href="https://bit.ly/3MFbeWV" target="_blank" rel="noopener noreferrer">https://bit.ly/3MFbeWV</a><br><img style="" src="https://pbs.twimg.com/media/FTbNkesaAAAYax3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-05-23 15:27:57+08:00 推文](https://twitter.com/chinalabour/status/1528638852545466368)
+
+RT CLB<br>#WeeklyCLBHighlight  China’s 16-24 year olds have highest unemployment rate ever: 18.2%<br><br>#unemployment #unemploymentrate<br><img style="" src="https://pbs.twimg.com/media/FTbP1nGVUAA5_qm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
