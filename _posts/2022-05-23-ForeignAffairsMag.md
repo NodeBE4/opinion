@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-23
+date: 2022-05-24
 from: https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/
 layout: post
 tags:
@@ -19,4 +19,10 @@ title: ForeignAffairsMag在2022-05-23~2022-05-29的言论
 
 [**\[International Relations, Discussion\] The Foreign Affairs Interview**](https://podcasts.apple.com/us/podcast/the-foreign-affairs-interview/id1623855270)  
 The first episode of our new podcast, “The Foreign Affairs Interview,” will be available May 26! Hosted by editor Daniel Kurtz-Phelan, the biweekly podcast will offer the same authoritative analysis that you find in the magazine and on the website.
+
+### 252: [Pakistan Reaps What It Sowed: How the Country’s Support for the Taliban Backfired](https://old.reddit.com/r/afghanistan/comments/uw5o6c/pakistan_reaps_what_it_sowed_how_the_countrys/), submitted on 2022-05-24 01:35:36+08:00.
+
+----- __252.1__ -----2022-05-24 01:35:59+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
