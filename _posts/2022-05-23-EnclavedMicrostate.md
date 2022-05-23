@@ -21,5 +21,5 @@ No she then came back to Japan. Her situation’s complicated because of rehears
 
 ----- __454.2__ -----2022-05-23 17:24:07+08:00:
 
-Well, the Priichu models + their setup has produced somewhat janky results, and I'd imagine nobody wants the first use of the official models by those members to be plagued by technical issues.
+Well, the Priichu models + their setup have produced somewhat janky results, and I'd imagine nobody wants the first use of the official models by those members to be plagued by technical issues.
 
