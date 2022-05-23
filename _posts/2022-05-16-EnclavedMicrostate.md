@@ -236,3 +236,11 @@ Very few of the HoloEN members in North America have confirmed which country the
 
 EDIT: As regards Fauna being Canadian, there's no confirmation on this count at all besides her being the first to correctly clock the first line of the Canadian national anthem during Gura's Mad Gab segment on New Year's Day, but she then got the next line wrong which seems to imply that she *isn't*. But until she says one way or the other we have no hard info.
 
+### 454: [[Hobby Scuffles] Week of May 23, 2022](https://old.reddit.com/r/HobbyDrama/comments/uvcp8t/hobby_scuffles_week_of_may_23_2022/), submitted on 2022-05-22 23:00:14+08:00.
+
+----- __454.1__ -----2022-05-24 00:54:54+08:00:
+
+To be kind of fair, TikTok is legitimately essentially spyware, and while yes basically *all* social networks are spyware masquerading as social spaces, at least the majority of those are potentially beholden to laws in countries with theoretically robust democracies and legal systems and the data isn't being forwarded to the world's largest dictatorship. *However*. This is an overreaction given that HoloEN is stepping into this as a corporate entity and not as private individuals.
+
+Actually, if you look at it a certain way, if its established audience isn't moving over to TikTok, that's a good thing, as at worst it just sort of pulls an audience *from* the TikTok sphere.
+
