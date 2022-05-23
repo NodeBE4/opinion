@@ -35,3 +35,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 Re 请看市民这封给公安机关人员的公开信。信的一开始就说：“民不畏死，奈何以死惧之。”<br>信的最后说：“你们无权要求我配合你们的任何行动！敬请自重！勿谓言之不预也！”市民的忍耐到头了。<br><img style="" src="https://pbs.twimg.com/media/FTZTHGFVsAAQffV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-05-23 21:02:26+08:00 推文](https://twitter.com/realcaixia/status/1528723027101368322)
+
+上海市民自己起來砸開小區的門鎖，直接上街了！<br><img style="" src="https://pbs.twimg.com/media/FTcdewPWYAAvcxh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTcde-yXoAABxy9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTcdfKgWIAAeyfU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTcdfZTWUAAK_XD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
