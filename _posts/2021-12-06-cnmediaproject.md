@@ -37,7 +37,7 @@ RT Kristie Lu Stout✌🏽<br>In China, censors are already at work with the w
 
 ### 6: [2021-12-06 13:48:53+08:00 推文](https://twitter.com/cnmediaproject/status/1467732759351545860)
 
-The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
+The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
 
@@ -53,7 +53,7 @@ RT Patricia M Thornton<br>(On November 23, Gu Kailai's mother, Fan Chengxiu, w
 
 ### 10: [2021-12-08 08:13:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468373089344176128)
 
-Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
@@ -77,11 +77,11 @@ Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in 
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
-Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style="" src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
@@ -105,7 +105,7 @@ Re On definitions, CMP is proud to be a partner in the excellent Decoding China 
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
-Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style="" src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-08 21:36:31+08:00 推文](https://twitter.com/AlexDukalskis/status/1468575217228337156)
 
@@ -133,7 +133,7 @@ Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science 
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
-Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
@@ -149,7 +149,7 @@ Re Zwart appears regularly in state media to promote PRC developments on human r
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
-Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted the letter was read at the forum by Huang Kunming, head of the Central Propaganda Department. <a href="https://www.youtube.com/watch?v=-Fpndyrd664" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=-Fpndyrd664</a><br><img style="" src="https://pbs.twimg.com/media/FGIXynDVQAIgdEJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
@@ -169,7 +169,7 @@ RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, wi
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 
