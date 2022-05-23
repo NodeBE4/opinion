@@ -67,3 +67,11 @@ Re @yjpc007 @YouTube 在大陆，习讲忠诚不绝对等于绝对不忠诚；�
 
 👍🌹🌹🌹<br><br>Gancheng Wang: 上海发生“自行解封”运动<br>人民正在觉醒<br>拒绝继续被强制封闭<br><br>上海多个小区居民据理力争，终于喊出“自行解封”的响亮口号。目前徐汇区、静安区多个小区居民已经突破封锁自行解封。“自解”运动正在上海不断发酵和扩大。<br><br><video src="https://video.twimg.com/ext_tw_video/1528750422797824001/pu/vid/592x1280/xNgDGcLGyHh2A6--.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528750422797824001/pu/img/BSVm97JkTt_SDrX4.jpg"></video>
 
+### 14: [2022-05-24 04:51:44+08:00 推文](https://twitter.com/realcaixia/status/1528841129139269632)
+
+Re @xizhutou2020 @yjpc007 @YouTube 你太看低我了。我与那些以暴戾言语攻击人的人生气，岂不拉低了我的水平，抬举了他们。那些人不是讲理之人，更不是可以合作推进中国政治变革之人，没有必要浪费时间精力。
+
+### 15: [2022-05-24 05:57:28+08:00 推文](https://twitter.com/realcaixia/status/1528857672933466112)
+
+Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！不必与那些人理喻。那些人只能是耗损自己也耗损别人。
+
