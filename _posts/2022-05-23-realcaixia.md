@@ -59,3 +59,11 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。<br><br>戴姐: @im1266 @ZhouFengSuo 徐汇区汇贤居从昨晚和居委理论到今天中午全员解封👍模子！原来解封也得靠自己争取  。<br><br><video src="https://video.twimg.com/ext_tw_video/1528737541704552449/pu/vid/720x1280/Y7Bg_OgO6T8dVfxI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528737541704552449/pu/img/xNTCf6aq4txc2gCY.jpg"></video>
 
+### 12: [2022-05-24 02:23:49+08:00 推文](https://twitter.com/realcaixia/status/1528803906666614785)
+
+Re @yjpc007 @YouTube 在大陆，习讲忠诚不绝对等于绝对不忠诚；在海外，一些人言辞暴戾气甚重，并以暴戾言论为标准，否则就是反习不反共，就是小骂大帮忙。看似政治上两极对立，实质两极相通，一种思维。<br>以己之心度人之腹、不讨论问题专人身攻击，与中共不解决问题而专解决提出问题的人何其相似乃尔！<br>为一剑老师点赞👍。
+
+### 13: [2022-05-24 02:30:58+08:00 推文](https://twitter.com/realcaixia/status/1528805702801805312)
+
+👍🌹🌹🌹<br><br>Gancheng Wang: 上海发生“自行解封”运动<br>人民正在觉醒<br>拒绝继续被强制封闭<br><br>上海多个小区居民据理力争，终于喊出“自行解封”的响亮口号。目前徐汇区、静安区多个小区居民已经突破封锁自行解封。“自解”运动正在上海不断发酵和扩大。<br><br><video src="https://video.twimg.com/ext_tw_video/1528750422797824001/pu/vid/592x1280/xNgDGcLGyHh2A6--.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528750422797824001/pu/img/BSVm97JkTt_SDrX4.jpg"></video>
+

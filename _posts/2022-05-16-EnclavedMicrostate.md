@@ -244,3 +244,11 @@ To be kind of fair, TikTok is legitimately essentially spyware, and while yes ba
 
 Actually, if you look at it a certain way, if its established audience isn't moving over to TikTok, that's a good thing, as at worst it just sort of pulls an audience *from* the TikTok sphere.
 
+----- __454.2__ -----2022-05-24 03:45:44+08:00:
+
+Belle the Tinkerer, a character dressed in green, is a ripoff of Boingkid and *not* a tribute to, er, Tinker Bell? Well then, good luck making that case in court.
+
+----- __454.3__ -----2022-05-24 03:51:45+08:00:
+
+Does this have any relation to the artist Dishwasher1910 apparently quitting? They're someone who came up on my radar before as someone in the RWBY fandom (they were very well known for their RWBY fanart, especially an AU concept called RWBY 3.0), and popped up again more recently after mentioning a couple times how they'd like to be a character artist for Hololive. There's a thread (now locked) claiming they were quitting Azur Lane specifically but the tweet itself implied broader issues and I was wondering if anything new had come out.
+
