@@ -29,9 +29,15 @@ No she then came back to Japan. Her situation’s complicated because of rehears
 
 Well, the Priichu models + their setup have produced somewhat janky results, and I'd imagine nobody wants the first use of the official models by those members to be plagued by technical issues.
 
-### 457: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
+### 457: [The pure sass from both the commenter and mod here is hilarious to me](https://old.reddit.com/r/SubredditDrama/comments/uw0zmm/the_pure_sass_from_both_the_commenter_and_mod/), submitted on 2022-05-23 22:05:49+08:00.
 
------ __457.1__ -----2022-05-24 13:06:07+08:00:
+----- __457.1__ -----2022-05-24 20:27:02+08:00:
+
+It's not *un*common by any means, though. The study of Chinese history has always had a bit of an identity crisis between being a field of history and a subfield of Chinese cultural studies and it's only relatively recently that there's been a strong pivot to the former.
+
+### 458: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
+
+----- __458.1__ -----2022-05-24 13:06:07+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -39,9 +45,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 458: [Who first named the continents?](https://old.reddit.com/r/AskHistorians/comments/uwm6gi/who_first_named_the_continents/), submitted on 2022-05-24 16:40:11+08:00.
+### 459: [Who first named the continents?](https://old.reddit.com/r/AskHistorians/comments/uwm6gi/who_first_named_the_continents/), submitted on 2022-05-24 16:40:11+08:00.
 
------ __458.1__ -----2022-05-24 16:50:42+08:00:
+----- __459.1__ -----2022-05-24 16:50:42+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 

@@ -75,3 +75,7 @@ In the latest entry for the CMP Dictionary, we look at "petitioning" (信访), a
 
 From earlier in May: WHO’s director general spoke his mind about China's "zero Covid" policy. The swift response from China's censors reveals a deep ambivalence about the foreign voice and its power to uplift or criticize. <a href="https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/</a><br><img style="" src="https://pbs.twimg.com/media/FTfhDmTaIAABZqx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 16: [2022-05-24 19:15:06+08:00 推文](https://twitter.com/mauracunningham/status/1529058403267620864)
+
+RT Maura Elizabeth Cunningham 马丽娜<br>"How much do we need to NOT see of Xi before we begin to suspect profound shifts in Chinese politics?" At @cnmediaproject, @dbandurski offers an important corrective to the speculation that arises whenever Xi disappears from the People's Daily front page. <a href="https://buff.ly/3lzOV97" target="_blank" rel="noopener noreferrer">https://buff.ly/3lzOV97</a>
+
