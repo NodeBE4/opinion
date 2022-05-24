@@ -258,7 +258,7 @@ One thing that's possibly worth asking is who had the bigger army here, because 
 
 ----- __454.5__ -----2022-05-24 13:03:55+08:00:
 
-I won't lie, there is a substantial amount of the seriousness to tournament play here that is bizarre to me as someone who is an almost exclusively historical wargamer (and even then my one major step outside that is Aeronef which is alt-history Victorian science fiction). But, looking at it impartially, there's nothing that really distinguishes people getting worked up over tournaments from my own getting worked up about the damn colour of those trousers being wrong for the specific month dammit! But it does feel very much like different worlds that happen to be adjacent.
+I won't lie, there is a substantial amount of the seriousness to tournament play here that is bizarre to me as someone who is an almost exclusively historical wargamer (and even then my one major step outside that is Aeronef which is alt-history Victorian science fiction). But, looking at it impartially, there's nothing that really distinguishes people getting worked up over tournaments from my own getting worked up about the damn colour of those trousers being wrong for that specific month dammit! But it does feel very much like different worlds that happen to be adjacent.
 
 ----- __454.6__ -----2022-05-24 18:24:52+08:00:
 
