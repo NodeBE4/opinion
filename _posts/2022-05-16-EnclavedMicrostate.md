@@ -240,7 +240,7 @@ EDIT: As regards Fauna being Canadian, there's no confirmation on this count at 
 
 ----- __454.1__ -----2022-05-24 00:54:54+08:00:
 
-To be kind of fair, TikTok is legitimately essentially spyware, and while yes basically *all* social networks are spyware masquerading as social spaces, at least the majority of those are potentially beholden to laws in countries with theoretically robust democracies and legal systems and the data isn't being stored in the world's largest dictatorship. *However*. This is an overreaction given that HoloEN is stepping into this as a corporate entity and not as private individuals.
+To be kind of fair, TikTok is legitimately essentially spyware, and while yes basically *all* social networks are spyware masquerading as social spaces, at least the majority of those are potentially beholden to laws in countries with theoretically robust democracies and legal systems and the data isn't being stored in the world's largest dictatorship. *However*. This is an overreaction given that HoloEN is stepping into this as a corporate entity and not as private individuals (EDIT: and thus probably has somewhat better infosec procedures).
 
 Actually, if you look at it a certain way, if its established audience isn't moving over to TikTok, that's a good thing, as at worst it just sort of pulls an audience *from* the TikTok sphere.
 
