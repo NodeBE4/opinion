@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
