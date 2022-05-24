@@ -53,7 +53,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
-转推。<br><br>freechina1974✊✊✊: @yibaochina<br> <a href="https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw" target="_blank" rel="noopener noreferrer">https://twitter.com/freechina1974/status/1528557498462248960?s=21&amp;t=kwRmGJicCRE8XU9yKlKAMw</a>
+转推。
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 

@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -218,4 +218,24 @@ Re 西方政客与媒体最大的问题在于丧失了现实感。比如此文�
 ### 51: [2022-05-24 10:18:42+08:00 推文](https://twitter.com/HeQinglian/status/1528923413691379713)
 
 Re @wechat2525138 我明天上传到清涟居吧。
+
+### 52: [2022-05-24 20:58:20+08:00 推文](https://twitter.com/HeQinglian/status/1529084383419932672)
+
+Re @o2pIHqzvuxGd9Uu 别意气用事，说事实：<br>你说“自然资源都在原地等待出口创汇”。<br>请你回答：<br>1、这几个月欧盟用卢布付款，俄罗斯没输送天然气、石油、煤炭给这些国家？还留在原地？<br>2、目前是哪些国家通胀更厉害？<br>我辨识事实，揭穿谎言。那种谎言信息战，你多多参加。
+
+### 53: [2022-05-24 20:59:20+08:00 推文](https://twitter.com/HeQinglian/status/1529084636361531392)
+
+Re @fading_you1 👍👍👍
+
+### 54: [2022-05-24 21:05:08+08:00 推文](https://twitter.com/HeQinglian/status/1529086095081803777)
+
+Re @Jessie2021626 😭😭
+
+### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
+
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
+
+### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
+
+Re @comeonjustchill 这位是男是女，我看了半天也没明白。
 
