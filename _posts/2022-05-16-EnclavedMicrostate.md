@@ -252,3 +252,7 @@ Belle the Tinkerer, a character dressed in green, is a ripoff of Boingkid and *n
 
 Does this have any relation to the artist Dishwasher1910 apparently quitting? They're someone who came up on my radar before as someone in the RWBY fandom (they were very well known for their RWBY fanart, especially an AU concept called RWBY 3.0), and popped up again more recently after mentioning a couple times how they'd like to be a character artist for Hololive. There's a thread (now locked) claiming they were quitting Azur Lane specifically but the tweet itself implied broader issues and I was wondering if anything new had come out.
 
+----- __454.4__ -----2022-05-24 12:17:17+08:00:
+
+One thing that's possibly worth asking is who had the bigger army here, because as you note, unlike chess where you move a piece at a time with tabletop wargames of a UGOIGO format you tend to move all your stuff at a time. More broadly, with this incident now in mind does it potentially make sense for tournaments to adjust each player's time relative to the size of the force they have?
+

@@ -59,3 +59,19 @@ For those watching the front page of the People's Daily for Xi Jinping's absence
 
 Re Also read CMP's "Politics on Page One," a review of the history of Xi in (and out) of the headlines. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTe5JIraIAARRbF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 12: [2022-05-24 10:44:36+08:00 推文](https://twitter.com/cnmediaproject/status/1528929932164104192)
+
+Obey the Party, Cut the Nonsense: In recent remarks, Inner Mongolia's top CCP leader emphasized the need for obedience from the news media. But he also urged shorter reports and less jargon -- a decades old and losing battle for the CCP. <a href="https://chinamediaproject.org/2022/05/23/obey-the-party-cut-the-nonsense/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/23/obey-the-party-cut-the-nonsense/</a><br><img style="" src="https://pbs.twimg.com/media/FTfZcjgaIAAkCPa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-05-24 10:46:08+08:00 推文](https://twitter.com/cnmediaproject/status/1528930316668530689)
+
+Re @WeitaoZhu91 This does happen routinely as well. Xi may often be referred to as the 总书记, so this choice in itself is not a red flag. But alertness to curiosities is warranted, yes.
+
+### 14: [2022-05-24 10:47:51+08:00 推文](https://twitter.com/cnmediaproject/status/1528930748883156992)
+
+In the latest entry for the CMP Dictionary, we look at "petitioning" (信访), and recent changes to the system of complaints. <a href="https://chinamediaproject.org/the_ccp_dictionary/petitioning/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/petitioning/</a><br><img style="" src="https://pbs.twimg.com/media/FTfaZh_aQAAr6T4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-05-24 11:16:58+08:00 推文](https://twitter.com/cnmediaproject/status/1528938076353228801)
+
+From earlier in May: WHO’s director general spoke his mind about China's "zero Covid" policy. The swift response from China's censors reveals a deep ambivalence about the foreign voice and its power to uplift or criticize. <a href="https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/13/taking-tedros-at-his-word/</a><br><img style="" src="https://pbs.twimg.com/media/FTfhDmTaIAABZqx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
