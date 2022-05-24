@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-24
+date: 2022-05-25
 from: https://twitter.com/HeQinglian/status/1528470886684282880
 layout: post
 tags:
@@ -233,9 +233,37 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
 Re @comeonjustchill 这位是男是女，我看了半天也没明白。
+
+### 57: [2022-05-24 22:57:10+08:00 推文](https://twitter.com/HeQinglian/status/1529114288090234885)
+
+Re @farmdirect8 最应该高兴的是台湾，台湾表态没？<br>况且在拜登表态后，白宫与五角大楼相继表态，都表示对台政策没有变（仍然是一中），否定了拜登的说法。<br>所以，就当拜登发了一次言吧。
+
+### 58: [2022-05-24 23:02:39+08:00 推文](https://twitter.com/HeQinglian/status/1529115665948364800)
+
+Re @ricco_chen 那还是恐慌，这帮子人觉得自己得病不够，弄出点浓浆，抹在超市的商品上。<br>我要坚持戴一次性手套购物。
+
+### 59: [2022-05-24 23:11:15+08:00 推文](https://twitter.com/HeQinglian/status/1529117832881098758)
+
+Re @Wu_Zhi @VOAChinese 你到底比我与江琳小了十来岁，没赶上文革。<br>文革名言：“对坏人实行民主专政，只许他们老老实实，不许乱说乱动。”<br>何谓坏人？左派逻辑就是左派不认同的人。因此，普京用能源与粮食做武器反制裁，那是右派翻天， 乱说乱动，一定要口诛笔伐，再踏上一只脚，让普京永世不得翻身。<br>其实不买就是，饿死普京。
+
+### 60: [2022-05-24 23:14:31+08:00 推文](https://twitter.com/HeQinglian/status/1529118656369762304)
+
+Re @princeton_walk @farmdirect8 大美国的外交，何时变成这种过家家？
+
+### 61: [2022-05-24 23:22:04+08:00 推文](https://twitter.com/HeQinglian/status/1529120555298873349)
+
+Re @o2pIHqzvuxGd9Uu 那就不用劳心劳力将评论做成经过思考状，喊口号就行了。😅<br>现成的语录有：俄罗斯必须失败，普京政权必须垮台，乌克兰必胜。<br>这场战争快点过去，要不然很多正常人都快接近不正常了。
+
+### 62: [2022-05-24 23:28:50+08:00 推文](https://twitter.com/HeQinglian/status/1529122255967784960)
+
+Re @cskun1989 “俄至今还没打出三十多年前海湾战争的水准”，经查：海湾战争991年2月28日期间，由美国领导的的35个国家组成的联军和伊拉克之间发生的战争，<br>这比较真是太高看俄罗斯了。<br>世人大都知道军力第一的美与军力第二的俄罗斯的武器差距是数量级，也因此判断俄罗斯必败。<br>结果确实让人吃惊。
+
+### 63: [2022-05-25 00:07:00+08:00 推文](https://twitter.com/HeQinglian/status/1529131863352156162)
+
+Re @RunteKaylee 问题是：现在美国人当中有40%多的左派，其中28%是信仰共产-社会主义的极左，Z世代与千禧一代当中将近一半是社会主义信徒。<br>因此，这种论史一百年弹指一挥间是要不得的。
 
