@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -202,4 +202,20 @@ Re @pandatress1 @JianglinLi @Wu_Zhi @david_david1968 美国领导的西方阵营
 ### 47: [2022-05-24 05:14:00+08:00 推文](https://twitter.com/HeQinglian/status/1528846734423740417)
 
 Re @Wu_Zhi @pandatress1 @JianglinLi @david_david1968 早就知道美国进入选举政治，两年一抽风，没想到竟然成了两年一抽疯。
+
+### 48: [2022-05-24 09:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1528903670888267776)
+
+美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
+
+### 49: [2022-05-24 10:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1528921551076470784)
+
+世界报 拜登借亚洲行把中国重新置于地缘政治核心 <br>整篇文章看了后，感觉文章想说的是：美欧制裁削弱俄罗斯结束普京政权这仗打完了，让俄罗斯慢慢衰竭下去；美国终于要修理中国了。<br>话说，期望拜登对抗压制中国，这个梦似乎比让普京下台离现实的距离不相上下。 <a href="https://rfi.my/8R8g.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8R8g.T</a>
+
+### 50: [2022-05-24 10:17:51+08:00 推文](https://twitter.com/HeQinglian/status/1528923201555898369)
+
+Re 西方政客与媒体最大的问题在于丧失了现实感。比如此文居然认为俄罗斯被制裁严重削弱，美欧大赢。<br>看来信息战真是一帖最好的自慰剂，哄不了别人，哄自己也行。
+
+### 51: [2022-05-24 10:18:42+08:00 推文](https://twitter.com/HeQinglian/status/1528923413691379713)
+
+Re @wechat2525138 我明天上传到清涟居吧。
 

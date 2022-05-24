@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-23
+date: 2022-05-24
 from: https://twitter.com/DavidBarboza2/status/1528517817330503680
 layout: post
 tags:
@@ -46,4 +46,16 @@ The shrill call of the loudspeaker, once a staple of political and economic life
 ### 8: [2022-05-23 15:27:57+08:00 推文](https://twitter.com/chinalabour/status/1528638852545466368)
 
 RT CLB<br>#WeeklyCLBHighlight  China’s 16-24 year olds have highest unemployment rate ever: 18.2%<br><br>#unemployment #unemploymentrate<br><img style="" src="https://pbs.twimg.com/media/FTbP1nGVUAA5_qm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-05-24 08:01:53+08:00 推文](https://twitter.com/cnmediaproject/status/1528888983454748672)
+
+Re @NDilipSharma We're all for speculation at CMP. But history and context are absolutely crucial. :)
+
+### 10: [2022-05-24 08:16:21+08:00 推文](https://twitter.com/cnmediaproject/status/1528892622881771520)
+
+For those watching the front page of the People's Daily for Xi Jinping's absence from headlines, here is today's. Think Xi isn't there? Look at the fine print -- the special series title on the "general secretary."<br><img style="" src="https://pbs.twimg.com/media/FTe3t2HacAAhtzJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-05-24 08:22:31+08:00 推文](https://twitter.com/cnmediaproject/status/1528894177131773952)
+
+Re Also read CMP's "Politics on Page One," a review of the history of Xi in (and out) of the headlines. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTe5JIraIAARRbF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
