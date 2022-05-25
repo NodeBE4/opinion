@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-24
+date: 2022-05-25
 from: https://twitter.com/DavidBarboza2/status/1528517817330503680
 layout: post
 tags:
@@ -78,4 +78,16 @@ From earlier in May: WHO’s director general spoke his mind about China's "zero
 ### 16: [2022-05-24 19:15:06+08:00 推文](https://twitter.com/mauracunningham/status/1529058403267620864)
 
 RT Maura Elizabeth Cunningham 马丽娜<br>"How much do we need to NOT see of Xi before we begin to suspect profound shifts in Chinese politics?" At @cnmediaproject, @dbandurski offers an important corrective to the speculation that arises whenever Xi disappears from the People's Daily front page. <a href="https://buff.ly/3lzOV97" target="_blank" rel="noopener noreferrer">https://buff.ly/3lzOV97</a>
+
+### 17: [2022-05-25 11:20:03+08:00 推文](https://twitter.com/cnmediaproject/status/1529301239674322944)
+
+There has been a spate of coverage lately in the Party-state press of supposed changes to the petitioning (信访), or "letters and calls," system in China. Read up in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/petitioning/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/petitioning/</a><br><img style="" src="https://pbs.twimg.com/media/FTkrXa8akAI1HTU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-05-25 11:36:05+08:00 推文](https://twitter.com/cnmediaproject/status/1529305277149093888)
+
+What is "runology" (润学)? A new term popular this month on Chinese social media. More in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/runology/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/runology/</a><br><img style="" src="https://pbs.twimg.com/media/FTkvCWYaQAA1MaL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-05-25 11:37:15+08:00 推文](https://twitter.com/cnmediaproject/status/1529305569970257920)
+
+For those who missed it: Stella Chen's fascinating look into the political history of the loudspeaker in China -- and how they are now making a comeback. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTkvTeyacAAbM7f?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
