@@ -61,3 +61,19 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
  Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
+### 257: [How Australia Passed Gun Control](https://old.reddit.com/r/politics/comments/uxihp1/how_australia_passed_gun_control/), submitted on 2022-05-25 22:22:15+08:00.
+
+----- __257.1__ -----2022-05-25 22:22:49+08:00:
+
+How did Australia succeed in passing gun-control reforms, and what can the United States learn from that example today? Revisit R. James Breiding's 2017 article here.
+
+### 258: [How Australia Passed Gun Control: The Port Arthur Massacre and Beyond](https://old.reddit.com/r/TrueReddit/comments/uxikqi/how_australia_passed_gun_control_the_port_arthur/), submitted on 2022-05-25 22:26:20+08:00.
+
+----- __258.1__ -----2022-05-25 22:27:28+08:00:
+
+\[SS from the article by R. James Breiding\]
+
+"It has been 21 years since Carolyn Loughton lay helplessly with her lifeless daughter in her arms and Australians woke up to the need to reform their gun laws. Few Australians would deny that their country is safer today as a consequence of gun control. In the 18 years before the 1996 reforms, Australia suffered 13 gun massacres. Since then, there has not been a single one. But how did Australia succeed in passing these reforms, and what can the United States learn from them today?"
+
+From the archive: Revisit R. James Breiding's 2017 article here.
+
