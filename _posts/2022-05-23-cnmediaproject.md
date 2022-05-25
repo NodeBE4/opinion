@@ -91,3 +91,19 @@ What is "runology" (润学)? A new term popular this month on Chinese social med
 
 For those who missed it: Stella Chen's fascinating look into the political history of the loudspeaker in China -- and how they are now making a comeback. <a href="https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/18/speaking-loud-for-xi-jinping%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTkvTeyacAAbM7f?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 20: [2022-05-25 13:34:34+08:00 推文](https://twitter.com/cnmediaproject/status/1529335092547821570)
+
+China’s state-run media are commemorating the 2nd anniversary of the murder of George Floyd by police in Minneapolis -- the perfect distraction from questions over its human rights abuses in Xinjiang as the UN's Bachelet visits the region. <a href="https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/</a><br><img style="" src="https://pbs.twimg.com/media/FTlKHTDaIAEIhPv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-05-25 13:43:15+08:00 推文](https://twitter.com/cnmediaproject/status/1529337278421938176)
+
+Re "In the most callous abuse of his memory, George Floyd will be exploited to distract from criticism of China's own very real human rights problems."
+
+### 22: [2022-05-25 14:01:35+08:00 推文](https://twitter.com/cnmediaproject/status/1529341893771145217)
+
+UN's Bachelet quoted in the People's Daily talking about "multilateralism" (多边主义). Crucial to understand China sees the concept very differently. Read more at Decoding China <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a> <a href="https://chinamediaproject.org/the_ccp_dictionary/multilateralism/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/multilateralism/</a><br><img style="" src="https://pbs.twimg.com/media/FTlQAxsacAAJ8jo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-05-25 14:23:27+08:00 推文](https://twitter.com/cnmediaproject/status/1529347394785394688)
+
+China's George Floyd Anniversary: As UN human rights commissioner Bachelet visits Xinjiang . . . "In the most callous abuse of his memory, George Floyd will be exploited to distract from criticism of China's own very real human rights problems." <a href="https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/</a><br><img style="" src="https://pbs.twimg.com/media/FTlVLFOaAAAecAh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

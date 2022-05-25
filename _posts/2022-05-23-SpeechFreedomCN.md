@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-05-23~2022-05-29'
 
 Henan men Xie and Liu administratively detained for spreading “inappropriate remarks” about covid lockdown in a WeChat group chat. The exact remarks remain unknown.<br><img style="" src="https://pbs.twimg.com/media/FTigV4fX0AEzYnA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-05-25 13:14:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1529329916247912448)
+
+河北省曲周县男子张某，在微信群内发布了关于疫情的“不当言论”，且该“不当言论”被同村男子张某和赵某“断章取义并转发”，导致三人分别被处以训诫和行政拘留处罚。其具体言论内容不详。<br><img style="" src="https://pbs.twimg.com/media/FTig_MNXwAAeNbv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-05-25 13:17:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1529330671113625600)
+
+According to a Hebei police notice, a local man surnamed Zhang spread covid-related “inappropriate remarks” in a WeChat group chat, and two men misinterpreted and forwarded those remarks. The three men were later therefore respectively admonished and detained by police.<br><img style="" src="https://pbs.twimg.com/media/FTiiA0AX0AEM9K3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
