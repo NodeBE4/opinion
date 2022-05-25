@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
@@ -89,7 +89,7 @@ Re Sorry, link to the article is here: <a href="https://chinamediaproject.org/
 
 ### 19: [2021-12-16 11:10:38+08:00 推文](https://twitter.com/cnmediaproject/status/1471316813388869633)
 
-The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
+The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style="" src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-16 11:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471319064304054280)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 

@@ -77,3 +77,9 @@ https://www.reddit.com/r/AskHistorians/comments/gb4uyu/im_currently_reading_gods
 
 https://www.reddit.com/r/AskHistorians/comments/d8u46f/in_19th_century_yunnan_there_was_a_muslim_led/f1cxdae/
 
+### 462: [Could the Indian Emergency of 1977 have been avoided?](https://old.reddit.com/r/AskHistorians/comments/uxfp43/could_the_indian_emergency_of_1977_have_been/), submitted on 2022-05-25 19:56:11+08:00.
+
+----- __462.1__ -----2022-05-25 21:55:04+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+

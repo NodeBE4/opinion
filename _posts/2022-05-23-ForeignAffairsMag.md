@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-24
+date: 2022-05-25
 from: https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/
 layout: post
 tags:
@@ -48,4 +48,16 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 ----- __254.1__ -----2022-05-24 23:38:41+08:00:
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 255: [Putin Is Going to Lose His War: And the World Should Prepare for Instability in Russia](https://old.reddit.com/r/UkrainianConflict/comments/uxhtrp/putin_is_going_to_lose_his_war_and_the_world/), submitted on 2022-05-25 21:50:22+08:00.
+
+----- __255.1__ -----2022-05-25 21:50:38+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 256: [Anders Aslund: Putin Is Going to Lose His War in Ukraine](https://old.reddit.com/r/europe/comments/uxhuwx/anders_aslund_putin_is_going_to_lose_his_war_in/), submitted on 2022-05-25 21:52:04+08:00.
+
+----- __256.1__ -----2022-05-25 21:52:16+08:00:
+
+ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
 
