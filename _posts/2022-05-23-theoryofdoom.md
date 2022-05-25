@@ -41,3 +41,11 @@ We'll see the ebb and flow for the foreseeable future.  For all intents and purp
 
 I'm pretty sure the Columbine shooters weren't "conservatives" either.  But it is hard to wrap my head around how anyone can be thinking about race.  Politicizing these incidents is a cultural and moral sickness, the cure for which is neither legislative nor technological.
 
+### 267: [Flight to Florida is still accelerating despite NY COVID-19 reopening push](https://old.reddit.com/r/LockdownSkepticism/comments/ux5ghw/flight_to_florida_is_still_accelerating_despite/), submitted on 2022-05-25 08:47:00+08:00.
+
+----- __267.1__ -----2022-05-25 19:32:19+08:00:
+
+Left-wing governors coordinated their policies so people wouldn't flee to adjacent states.  It turns out that when you destroy your state's economy based on pseudoscience, people leave.  And they don't come back.  
+
+Which is to say nothing of how insane the democratic party has become on social issues.
+
