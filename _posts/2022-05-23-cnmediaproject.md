@@ -107,3 +107,19 @@ UN's Bachelet quoted in the People's Daily talking about "multilateralism" (多�
 
 China's George Floyd Anniversary: As UN human rights commissioner Bachelet visits Xinjiang . . . "In the most callous abuse of his memory, George Floyd will be exploited to distract from criticism of China's own very real human rights problems." <a href="https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/</a><br><img style="" src="https://pbs.twimg.com/media/FTlVLFOaAAAecAh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 24: [2022-05-25 16:05:08+08:00 推文](https://twitter.com/ZichenWanghere/status/1529372986318303232)
+
+RT Zichen Wang<br>not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination
+
+### 25: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
+
+China's George Floyd Anniversary: for Chinese state media, the 2nd anniversary of a brutal police murder in the US is an opportunity to distract attention away from questions over its human rights abuses in Xinjiang in the midst of a UN visit. <a href="https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/</a><br><img style="" src="https://pbs.twimg.com/media/FTmIAdKaAAItjDG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-05-25 18:37:21+08:00 推文](https://twitter.com/cnmediaproject/status/1529411292502847488)
+
+Last year Chinese authorities cracked down on a popular role-playing genre called “script murder” (剧本杀), arguing that violent and supernatural themes were harmful to youth. But the genre may be finding new life -- as pro-Party propaganda. <a href="https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTmPVhKakAA-_Jw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-05-25 18:39:40+08:00 推文](https://twitter.com/cnmediaproject/status/1529411874265403392)
+
+Re Another fascinating culture-propaganda piece from Stella Chen.<br><img style="" src="https://pbs.twimg.com/media/FTmP_P8akAExpA4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

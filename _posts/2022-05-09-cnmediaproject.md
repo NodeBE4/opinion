@@ -77,7 +77,7 @@ RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to liv
 
 ### 16: [2022-05-12 18:57:48+08:00 推文](https://twitter.com/TMK_TinaManiK/status/1524705394051878912)
 
-RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown<br><br>Shanghai Daily: Over 500 pigeons living in central Shanghai's People's Square are an attraction to both residents and tourists in the city – but how are they faring during the pandemic? #COVID19<br><br><video src="https://video.twimg.com/amplify_video/1524661904525901824/vid/1280x720/0VFtFbE9nzaDLtgp.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1524661904525901824/img/9TUGmCBuG5Ts9ipQ.jpg"></video> <a href="https://www.shine.cn/news/metro/2205125499/" target="_blank" rel="noopener noreferrer">https://www.shine.cn/news/metro/2205125499/</a>
+RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown
 
 ### 17: [2022-05-13 11:39:08+08:00 推文](https://twitter.com/cnmediaproject/status/1524957389832990720)
 

@@ -41,6 +41,10 @@ It's not *un*common by any means, though. The study of Chinese history has alway
 
 This is interesting; HoloJP's generally presumed to have had a 30-35-35 split between Youtube, Cover, and the talent, so Moona saying hers was 30-50-20 seems to be quite a big shift, unless she got the maths wrong since it contradicts what she says earlier in the clip.
 
+----- __458.2__ -----2022-05-25 19:41:52+08:00:
+
+Ah, t'would make sense then.
+
 ### 459: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
 
 ----- __459.1__ -----2022-05-24 13:06:07+08:00:
