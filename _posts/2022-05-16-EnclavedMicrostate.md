@@ -264,3 +264,15 @@ I won't lie, there is a substantial amount of the seriousness to tournament play
 
 Well, Hololive, being a Japanese company, is not based in a Five Eyes nation, though a number of its overseas talents are.
 
+----- __454.7__ -----2022-05-25 18:33:36+08:00:
+
+I was looking from the sidelines and it definitely seems to have been interesting! That said, as someone who likes doing a lot of industry meta discussion and speculation, it does make me wonder what exactly Nijisanji's debut pipeline is like at the moment.
+
+For those not in the know, Nijisanji slowed down the expansion of its Japanese branch a *lot* in 2021, and ostensibly pivoted from an open audition system towards a two-stage process via Virtual Talent Academy, which is essentially a sort of VTuber internship program that is not technically part of Nijisanji as an agency, but is still run by Nijisanji's parent company ANYCOLOR. So for instance the three most recent Nijisanji debuts – besides Salome – have been of VTA 'graduates'. So Salome's sudden appearance suggests she was probably scouted out by Nijisanji, or possibly a very delayed debut from an earlier round of auditions.
+
+----- __454.8__ -----2022-05-25 18:36:51+08:00:
+
+> earlier this year 
+
+October 2021.
+
