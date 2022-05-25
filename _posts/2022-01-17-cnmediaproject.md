@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-01-18 19:52:39+08:00 推文](https://twitter.com/cnmediaproject/status/1483406980836642818)
 
-Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
+Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-18 23:50:12+08:00 推文](https://twitter.com/CHRDnet/status/1483466762351906816)
 
@@ -29,11 +29,11 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
-The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style="" src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 14:48:09+08:00 推文](https://twitter.com/jcmittelstaedt/status/1483692739426463748)
 
@@ -45,7 +45,7 @@ Re @sebastianveghk @lingli_vienna 人生的扣子 goes back to 2014 apparently: 
 
 ### 8: [2022-01-19 23:15:36+08:00 推文](https://twitter.com/sehof/status/1483820443710922753)
 
-RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
+RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
 
 ### 9: [2022-01-20 07:45:03+08:00 推文](https://twitter.com/cnmediaproject/status/1483948651726897153)
 
@@ -65,7 +65,7 @@ Re Notice the site reads: "Opinions expressed in the blogs do not necessarily ex
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
-Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style="" src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
@@ -97,7 +97,7 @@ RT Alan Wong<br>Chinese contact tracing accidentally revealed a migrant worker
 
 ### 21: [2022-01-20 17:24:22+08:00 推文](https://twitter.com/SPCmonitor/status/1484094440939655170)
 
-RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial&nbsp;Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
+RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
 
 ### 22: [2022-01-20 22:45:15+08:00 推文](https://twitter.com/eileenguo/status/1484175192934871046)
 
