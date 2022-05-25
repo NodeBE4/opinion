@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-25
+date: 2022-05-26
 from: https://twitter.com/DavidBarboza2/status/1528517817330503680
 layout: post
 tags:
@@ -138,4 +138,8 @@ RT Bill Bishop<br>correction, purported transcript of the meeting, not just lk
 ### 31: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Just before people get hyped up by the 100,000 person economic meeting chaired by Li Keqiang today, thinking that the power dynamics at the Politburo has shifted, here is a meeting that Xi Jinping graced today, in Li's company.<br><br>习近平会见全国公安系统英雄模范立功集体表彰大会代表<br><img style="" src="https://pbs.twimg.com/media/FTnBXDFWQAUZsCx?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 32: [2022-05-26 02:02:32+08:00 推文](https://twitter.com/michaelxpettis/status/1529523322975039489)
+
+RT Michael Pettis<br>1/7<br>Good article about something everyone's been discussing. Li Keqiang says “This is a special moment, and a difficult moment,” and there definitely seems to be growing concerns about the almost intractable difficulties the Chinese economy faces. <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508</a>
 
