@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -141,7 +141,7 @@ Re 原来，白宫通过布林肯宣示，俄乌战争必须拖到12月（那时
 
 ### 32: [2022-05-23 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1528745942123433988)
 
-在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。<br><br>He Qinglian: 这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br> <a href="https://twitter.com/nytchinese/status/1528677122935361538" target="_blank" rel="noopener noreferrer">https://twitter.com/nytchinese/status/1528677122935361538</a>
+在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。 <a href="https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official" target="_blank" rel="noopener noreferrer">https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official</a>
 
 ### 33: [2022-05-23 22:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1528749341745217536)
 
@@ -278,4 +278,12 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 ### 66: [2022-05-25 04:05:22+08:00 推文](https://twitter.com/HeQinglian/status/1529191848874483713)
 
 拜登与日首相岸田文雄5月23日举行会谈。考虑到中国威胁，双方一致同意加强美国以核武器和常规战力参与日本防卫的“延伸威慑”。岸田就防卫费向拜登表示“决心确保在相当程度上增加额度”，拜登表示支持日本入常。<br>查了一下程序，规定繁多，都涉及五常必须同意——中俄会同意吗？
+
+### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
+
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
+
+### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
+
+Re 才发现“绿色”后少了两字，应为“绿色能源”，特补正。
 

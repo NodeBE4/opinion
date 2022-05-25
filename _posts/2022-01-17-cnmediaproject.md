@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-01-18 19:52:39+08:00 推文](https://twitter.com/cnmediaproject/status/1483406980836642818)
 
-Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
+Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-18 23:50:12+08:00 推文](https://twitter.com/CHRDnet/status/1483466762351906816)
 
@@ -29,11 +29,11 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
-The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style="" src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 14:48:09+08:00 推文](https://twitter.com/jcmittelstaedt/status/1483692739426463748)
 
@@ -57,11 +57,11 @@ Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human 
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
@@ -81,7 +81,7 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 

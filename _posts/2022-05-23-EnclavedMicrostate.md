@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-25
+date: 2022-05-26
 from: https://old.reddit.com/r/Hololive/comments/uvrtek/hololiveen_as_well_as_calli_gura_ame_kronii_and/
 layout: post
 tags:
@@ -45,6 +45,10 @@ This is interesting; HoloJP's generally presumed to have had a 30-35-35 split be
 
 Ah, t'would make sense then.
 
+----- __458.3__ -----2022-05-26 00:43:16+08:00:
+
+This is very much parroting others' takes from other spaces I'm in, but the impression I get is that South Korea has a strong *audience* for VTubers but serious problems producing local talents.
+
 ### 459: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
 
 ----- __459.1__ -----2022-05-24 13:06:07+08:00:
@@ -82,4 +86,10 @@ https://www.reddit.com/r/AskHistorians/comments/d8u46f/in_19th_century_yunnan_th
 ----- __462.1__ -----2022-05-25 21:55:04+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
+### 463: [Elite](https://old.reddit.com/r/Hololive/comments/uxkz87/elite/), submitted on 2022-05-26 00:20:08+08:00.
+
+----- __463.1__ -----2022-05-26 00:25:05+08:00:
+
+Cold-blooded murder. Sasuga dad.
 
