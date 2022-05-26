@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-25
+date: 2022-05-26
 from: https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/
 layout: post
 tags:
@@ -76,4 +76,24 @@ How did Australia succeed in passing gun-control reforms, and what can the Unite
 "It has been 21 years since Carolyn Loughton lay helplessly with her lifeless daughter in her arms and Australians woke up to the need to reform their gun laws. Few Australians would deny that their country is safer today as a consequence of gun control. In the 18 years before the 1996 reforms, Australia suffered 13 gun massacres. Since then, there has not been a single one. But how did Australia succeed in passing these reforms, and what can the United States learn from them today?"
 
 From the archive: Revisit R. James Breiding's 2017 article here.
+
+### 259: [Putin Against History: How His War Has Erased Russia’s Past—And Endangered Its Future](https://old.reddit.com/r/UkrainianConflict/comments/uy9oqv/putin_against_history_how_his_war_has_erased/), submitted on 2022-05-26 23:05:56+08:00.
+
+----- __259.1__ -----2022-05-26 23:06:12+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 260: [Every City Needs a Chief Heat Officer: A First Step Toward Adapting to Deadly High Temperatures](https://old.reddit.com/r/TrueReddit/comments/uy9v2w/every_city_needs_a_chief_heat_officer_a_first/), submitted on 2022-05-26 23:14:07+08:00.
+
+----- __260.1__ -----2022-05-26 23:15:45+08:00:
+
+\[SS from the article by Kathy Baughman McLeod, Director of the Atlantic Council’s Adrienne Arsht–Rockefeller Foundation Resilience Center\]
+
+"Global warming is already harming the current and future U.S. workforce. Extreme heat costs the United States more than $100 billion per year due to reduced worker productivity: people get sick, slow down, and make mistakes due to the physical effects of heat. Children’s school performance can decline as temperatures soar. According to researchers at the University of California at Los Angeles, each one degree Fahrenheit increase in temperature during the academic school year reduces the amount learned that year by one percent—and students from low-income and minority groups are the ones most affected.  
+
+
+City dwellers—some 55 percent of the world’s population, or about 4.2 billion people—are especially vulnerable to the effects of climate change. The asphalt, cement, glass, and steel that are features of most urban areas are especially efficient at absorbing, retaining, and emanating heat. The so-called heat island effect can cause temperatures up to seven degrees Fahrenheit hotter in urban environments than in suburbs and rural regions, which have more green space and foliage.  
+
+
+A relatively simple way in which cities can protect their residents is by putting someone in charge of responding to the most harmful effects of climate change.  After all, cities have departments for fighting fires and for coordinating responses to regional floods, earthquakes, and hurricanes. But just a handful of cities in the world have someone whose job it is to craft and implement plans to respond to rising temperatures. To save lives, every municipal leader should appoint a chief heat officer, or CHO."
 
