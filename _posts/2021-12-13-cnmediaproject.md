@@ -41,7 +41,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How does the people’s congress system realiz
 
 ### 7: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
 
-The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-14 17:07:40+08:00 推文](https://twitter.com/MIC_Journal/status/1470681885978218509)
 
@@ -77,7 +77,7 @@ Re @TruthOfFinance @niubi But perhaps "top online influencer" also good here.
 
 ### 16: [2021-12-16 10:59:23+08:00 推文](https://twitter.com/cnmediaproject/status/1471313981596106754)
 
-In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style="" src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
+In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
@@ -149,11 +149,11 @@ Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
-Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style="" src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
+Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 

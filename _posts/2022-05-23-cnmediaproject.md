@@ -111,35 +111,43 @@ China's George Floyd Anniversary: As UN human rights commissioner Bachelet visit
 
 RT Zichen Wang<br>not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination
 
-### 25: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
+### 25: [2022-05-25 16:44:03+08:00 推文](https://twitter.com/ma_shiqi/status/1529382778751565825)
+
+RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journal of Contemporary China. <br><br>We explore the rise of new media framing strategies to combat democratic diffusion, analyzing the People's Daily's portrayal of the 2019 Hong Kong protests. <a href="https://doi.org/10.1080/10670564.2022.2052442" target="_blank" rel="noopener noreferrer">https://doi.org/10.1080/10670564.2022.2052442</a><br><img style="" src="https://pbs.twimg.com/media/FTlxhwyWYAAuigi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
 RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
 
-### 26: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
+### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
 China's George Floyd Anniversary: for Chinese state media, the 2nd anniversary of a brutal police murder in the US is an opportunity to distract attention away from questions over its human rights abuses in Xinjiang in the midst of a UN visit. <a href="https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/chinas-george-floyd-anniversary/</a><br><img style="" src="https://pbs.twimg.com/media/FTmIAdKaAAItjDG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 27: [2022-05-25 18:37:21+08:00 推文](https://twitter.com/cnmediaproject/status/1529411292502847488)
+### 28: [2022-05-25 18:37:21+08:00 推文](https://twitter.com/cnmediaproject/status/1529411292502847488)
 
 Last year Chinese authorities cracked down on a popular role-playing genre called “script murder” (剧本杀), arguing that violent and supernatural themes were harmful to youth. But the genre may be finding new life -- as pro-Party propaganda. <a href="https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTmPVhKakAA-_Jw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 28: [2022-05-25 18:39:40+08:00 推文](https://twitter.com/cnmediaproject/status/1529411874265403392)
+### 29: [2022-05-25 18:39:40+08:00 推文](https://twitter.com/cnmediaproject/status/1529411874265403392)
 
 Re Another fascinating culture-propaganda piece from Stella Chen.<br><img style="" src="https://pbs.twimg.com/media/FTmP_P8akAExpA4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 29: [2022-05-25 19:05:09+08:00 推文](https://twitter.com/puzhiqiang/status/1529418288454725632)
+### 30: [2022-05-25 19:05:09+08:00 推文](https://twitter.com/puzhiqiang/status/1529418288454725632)
 
 RT 浦志强<br>发改委主任、财政部长、人民银行行长讲话，总理作“重要讲话”。看来经济大盘出问题了，经济陷入了危机。我只觉得，先让餐馆开张，让人能聚会吃饭消费能谈事儿做业务，让活人在国内外动起来，必须改掉当下僵化疯狂的抗疫措施。否则再怎么退税，市场主体没收入也是空的；再怎么刺激，经济没活力也没戏。<br><img style="" src="https://pbs.twimg.com/media/FTmU44bUsAA9MZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmU44_UUAEJOUy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmU45TVIAAdK6l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmU46VUEAA26I5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 30: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
+### 31: [2022-05-25 19:48:37+08:00 推文](https://twitter.com/LHongqiao/status/1529429227551989760)
+
+RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)<br><br>Hongqiao Liu: Li reveals in the meeting:<br><br>- Significant decline in economic indexes, many hitting record low<br>- Economic (downturn) has hit the govt budget (negative growth in both national &amp; local budgets)<br>- Weak trend in recovery since May: must work very hard to reverse the negative growth<br><br><img style="" src="https://pbs.twimg.com/media/FTmc8qiXEAIDTDd?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmdv1gWQAAFsm3?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/LHongqiao/status/1529404306708905984" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1529404306708905984</a>
+
+### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
 RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking
 
-### 31: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
+### 33: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Just before people get hyped up by the 100,000 person economic meeting chaired by Li Keqiang today, thinking that the power dynamics at the Politburo has shifted, here is a meeting that Xi Jinping graced today, in Li's company.<br><br>习近平会见全国公安系统英雄模范立功集体表彰大会代表<br><img style="" src="https://pbs.twimg.com/media/FTnBXDFWQAUZsCx?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
-### 32: [2022-05-26 02:02:32+08:00 推文](https://twitter.com/michaelxpettis/status/1529523322975039489)
+### 34: [2022-05-26 02:02:32+08:00 推文](https://twitter.com/michaelxpettis/status/1529523322975039489)
 
 RT Michael Pettis<br>1/7<br>Good article about something everyone's been discussing. Li Keqiang says “This is a special moment, and a difficult moment,” and there definitely seems to be growing concerns about the almost intractable difficulties the Chinese economy faces. <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508</a>
 
