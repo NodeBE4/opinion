@@ -87,3 +87,11 @@ That's a surprisingly useful video.  It gets a few things wrong, but explains in
 
 There won't be a need.
 
+### 272: [How do you feel about Beto O’Rourke interrupting the town hall meeting to speak?](https://old.reddit.com/r/AskReddit/comments/uxvrfa/how_do_you_feel_about_beto_orourke_interrupting/), submitted on 2022-05-26 08:58:25+08:00.
+
+----- __272.1__ -----2022-05-26 13:46:35+08:00:
+
+I think O'Rourke is talking at cross purposes.  On the one hand, results he is hoping for.  On the other, processes to be set in motion.  They are not even close to the same thing.
+
+https://youtu.be/26QxO49Ycx0
+
