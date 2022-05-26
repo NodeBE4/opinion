@@ -49,6 +49,10 @@ Ah, t'would make sense then.
 
 This is very much parroting others' takes from other spaces I'm in, but the impression I get is that South Korea has a strong *audience* for VTubers but serious problems producing local talents.
 
+----- __458.4__ -----2022-05-26 15:15:42+08:00:
+
+I probably should have been a little more precise in my language, although to be fair Isegye (whom I have heard of and know are successful) slipped my mind as well. More precisely, I meant to say that it seems like there's a certain difficulty (especially for an overseas-based agency) to maintain a substantial group of KR VTubers of sort of middling size (i.e. not full-time job level).
+
 ### 459: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
 
 ----- __459.1__ -----2022-05-24 13:06:07+08:00:
@@ -98,4 +102,18 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 ----- __464.1__ -----2022-05-26 00:25:05+08:00:
 
 Cold-blooded murder. Sasuga dad.
+
+### 465: [Can anyone recommend some good and in-depth podcasts about military history, present-day military theory, and other stuff relevant to the subject-matter of this subreddit?](https://old.reddit.com/r/WarCollege/comments/uxmyuq/can_anyone_recommend_some_good_and_indepth/), submitted on 2022-05-26 01:52:31+08:00.
+
+----- __465.1__ -----2022-05-26 15:30:27+08:00:
+
+But that's not an effective defence, on multiple levels:
+
+* If you define a historian as anyone who 'does history', i.e. produces some form of consumable media presenting a narrative about the past, then Dan Carlin is by definition a historian and his assertions to the contrary are wrong.
+
+* Whether or not he fits some abstract definition of 'historian', in producing consumable media presenting a narrative about the past, Carlin *ought* to have a responsibility to ensure that that narrative is as true as possible, based on the best information and analysis that is accessible to him.
+
+* If there is already an understanding that Carlin's content is, from a historical perspective, sub-par, then why recommend him? Well-communicated misinformation is still misinformation.
+
+Imagine if were to I go around performing surgeries while insisting I'm not a surgeon, and when someone bleeds out on the operating table I were to say 'I did say I wasn't a surgeon!', and when people complain about it other people go around defending me saying I'm not a surgeon, while also asserting that I should be allowed to perform surgery anyway.
 
