@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-05-26
+date: 2022-05-27
 from: https://old.reddit.com/r/podcast/comments/uvx64j/weekly_podcast_thread_may_23_2022_please_share/
 layout: post
 tags:
@@ -96,4 +96,26 @@ City dwellers—some 55 percent of the world’s population, or about 4.2 billio
 
 
 A relatively simple way in which cities can protect their residents is by putting someone in charge of responding to the most harmful effects of climate change.  After all, cities have departments for fighting fires and for coordinating responses to regional floods, earthquakes, and hurricanes. But just a handful of cities in the world have someone whose job it is to craft and implement plans to respond to rising temperatures. To save lives, every municipal leader should appoint a chief heat officer, or CHO."
+
+### 261: [What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin](https://old.reddit.com/r/u_ForeignAffairsMag/comments/uydk40/what_putin_got_wrong_about_ukraine_russia_and_the/), submitted on 2022-05-27 02:03:46+08:00.
+
+----- __261.1__ -----2022-05-27 02:05:03+08:00:
+
+Listen to the first episode of our new podcast, “The Foreign Affairs Interview,” featuring a conversation with Stephen Kotkin on Russian history, Putin’s leadership, and what will happen next in Ukraine.
+
+### 262: [What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin](https://old.reddit.com/r/UkrainianConflict/comments/uydn8t/what_putin_got_wrong_about_ukraine_russia_and_the/), submitted on 2022-05-27 02:07:46+08:00.
+
+----- __262.1__ -----2022-05-27 02:08:28+08:00:
+
+\[SS\]
+
+In the first episode of “The Foreign Affairs Interview,” editor Dan Kurtz Phelan sits down with historian Stephen Kotkin to discuss the war in Ukraine, Russian capabilities and ambitions, and why Putin underestimated the West.
+
+### 263: [What Putin Got Wrong About Ukraine, Russia, and the West: A Conversation With Stephen Kotkin](https://old.reddit.com/r/geopolitics/comments/uydujl/what_putin_got_wrong_about_ukraine_russia_and_the/), submitted on 2022-05-27 02:17:04+08:00.
+
+----- __263.1__ -----2022-05-27 02:17:32+08:00:
+
+\[SS\]
+
+Listen to the first episode of our new podcast, “The Foreign Affairs Interview,” featuring a conversation with Stephen Kotkin on Russian history, Putin’s leadership, and what will happen next in Ukraine.
 
