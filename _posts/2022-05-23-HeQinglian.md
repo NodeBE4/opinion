@@ -281,7 +281,7 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 
 ### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
 
-索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。<br><br>jiang shangrong: ‼️‼️索罗斯‼️‼️<br><br>乔治·索罗斯在世界经济论坛的晚宴上在一篇论文中呼吁“击败普京以拯救我们的文明”<br><br>“我们的文明可能无法在这场（全球军事冲突）中幸存下来。保持它的最好，也许是唯一的方法就是尽快击败普京。”<br><br>‼️终于看懂普京在和谁作战了！<br><br><img style="" src="https://pbs.twimg.com/media/FTldD40WYAA5HMw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
 
@@ -294,4 +294,28 @@ Re @JianglinLi @Kele47518825 @Wu_Zhi 我们当年路遇一群鹅过马路，按�
 ### 70: [2022-05-26 03:48:24+08:00 推文](https://twitter.com/HeQinglian/status/1529549968499003394)
 
 Re @JiangShangrong 没炒作“亚速大屠杀”？可能是冰冻尸体时间上对不上.
+
+### 71: [2022-05-26 21:58:56+08:00 推文](https://twitter.com/HeQinglian/status/1529824409946497024)
+
+Re @JianglinLi @RealBeiMing “该报告评估了中国农业投资背后的动机，包括粮食生产面临的挑战以及中共为减少进口依赖……分析了中国在美国投资的主要领域，包括土地、牲畜、谷物和相关基础设施，如农业设备和技术。”<br>中俄关系与美俄关系倒个过，美国是农业资源提供者，只要毁约（制裁），中共就会没法子。以前美国农场主有选票。
+
+### 72: [2022-05-26 22:27:58+08:00 推文](https://twitter.com/HeQinglian/status/1529831716692578306)
+
+Re @JianglinLi @RealBeiMing 这我知道。其中华府那家最大的肉类加工厂的投资者我见过，详细介绍过他如何做成这项目，以及现在如何管理。<br>我关心的是：这次俄受制裁后，西方没收其投资（公私皆有），这招将来未必不用在中国身上。<br>西方在华的投资，风投较多，届时全撤离，中国干瞪眼。
+
+### 73: [2022-05-26 22:29:07+08:00 推文](https://twitter.com/HeQinglian/status/1529832006619627523)
+
+Re @pandatress1 @JianglinLi @RealBeiMing 我这里今年风调雨顺，只是春寒太长。
+
+### 74: [2022-05-26 22:30:12+08:00 推文](https://twitter.com/HeQinglian/status/1529832276703551488)
+
+Re @JianglinLi 美国人喜欢这位集政治正确之大成者，不管发生什么，一切都是自找的。
+
+### 75: [2022-05-26 22:40:05+08:00 推文](https://twitter.com/HeQinglian/status/1529834765301456897)
+
+Re @JianglinLi @HongfuDing @RealBeiMing @ngexp @Wu_Zhi @lindahuiyun Mark了。
+
+### 76: [2022-05-26 23:23:52+08:00 推文](https://twitter.com/HeQinglian/status/1529845781288583169)
+
+Re @seadognw 我读了一下文章，最早的具体时间是2004年。现在，左派文青已经干脆将这当作进步主义，赋予政治正确的正义性。可能除了与未成年人之外，其余不是事了。
 
