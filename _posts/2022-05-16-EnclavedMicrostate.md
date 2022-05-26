@@ -276,3 +276,11 @@ For those not in the know, Nijisanji slowed down the expansion of its Japanese b
 
 October 2021.
 
+----- __454.9__ -----2022-05-26 22:17:06+08:00:
+
+Excuse me the far more important day is Towel Day.
+
+----- __454.10__ -----2022-05-26 22:21:27+08:00:
+
+It's from the Book of Daniel: supposedly, King Nebuchadnezzar has a dream in which he sees a statue with a gold head, silver chest, bronze torso, iron legs, and clay feet, and the statue collapses after a stone is cast at the feet; the shattered statue eventually falls away but the stone grows into a mountain. The bit that's remembered is the idea of the ostensibly mighty structure on weak foundations, although Daniel's interpretation of the dream is actually somewhat different – the differing materials represent a succession of increasingly unimpressive kingdoms beginning with Nebuchadnezzar's, all of which are to be swept away in the end by the Kingdom of God.
+
