@@ -117,7 +117,7 @@ RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journa
 
 ### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
-RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.
+RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
 
 ### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
@@ -141,7 +141,7 @@ RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
-RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking<br><br>Bill Bishop: purported full transcript of Li Keqiang's comments at today's big meaning on rescuing the economy. not confirmed, going around wechat. much more interesting than the official readout<br><br><img style="" src="https://pbs.twimg.com/media/FTm45A0XoAAW7NU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45AtXwAIGJlC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45CwXEAA91sd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking
 
 ### 33: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
 
@@ -166,4 +166,8 @@ Re @fbermingham EU and UN should really be more on top of Chinese state media me
 ### 38: [2022-05-26 14:10:01+08:00 推文](https://twitter.com/cnmediaproject/status/1529706400414576640)
 
 CMP's David Bandurski looks at more curious signals from China's leadership, including complete failure to mention Premier Li's conference of 100,000 cadres yesterday in a key Economic Daily commentary shared by many state media. <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTqb2fPaUAEDOL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 39: [2022-05-26 20:44:56+08:00 推文](https://twitter.com/cnmediaproject/status/1529805787518083072)
+
+Premier Li led a call this week of 100,000 CCP cadres on the economy, signaling serious problems. So why does a piece today in the Economic Daily and People's Daily neglect even to mention the call and Li's "important speech"? <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTr2JIQaAAAcmmz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
