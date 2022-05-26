@@ -117,3 +117,9 @@ But that's not an effective defence, on multiple levels:
 
 Imagine if were to I go around performing surgeries while insisting I'm not a surgeon, and when someone bleeds out on the operating table I were to say 'I did say I wasn't a surgeon!', and when people complain about it other people go around defending me saying I'm not a surgeon, while also asserting that I should be allowed to perform surgery anyway.
 
+----- __465.2__ -----2022-05-26 18:24:12+08:00:
+
+>Carlin not being someone who's spent 20 years researching and debating the topics he chooses is quite often presented as some sort of "gotcha" followed by paragraphs of historiographical issues, when that misses the point entirely.
+
+In the same way I may have misread you, you have almost certainly misread them: The problem isn't that Carlin hasn't spent 20 years researching the topics, it's that he *hasn't read anything by those who have*. He either parrots old narratives or even (which was apparently the case for his Caesar vs William the Conqueror episode) makes shit up.
+
