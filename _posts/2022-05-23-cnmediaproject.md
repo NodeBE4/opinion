@@ -137,7 +137,7 @@ RT 浦志强<br>发改委主任、财政部长、人民银行行长讲话，�
 
 ### 31: [2022-05-25 19:48:37+08:00 推文](https://twitter.com/LHongqiao/status/1529429227551989760)
 
-RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)
+RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)<br><br>Hongqiao Liu: Li reveals in the meeting:<br><br>- Significant decline in economic indexes, many hitting record low<br>- Economic (downturn) has hit the govt budget (negative growth in both national &amp; local budgets)<br>- Weak trend in recovery since May: must work very hard to reverse the negative growth<br><br><img style="" src="https://pbs.twimg.com/media/FTmc8qiXEAIDTDd?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmdv1gWQAAFsm3?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/LHongqiao/status/1529404306708905984" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1529404306708905984</a>
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
@@ -154,4 +154,16 @@ RT Michael Pettis<br>1/7<br>Good article about something everyone's been discu
 ### 35: [2022-05-26 10:44:54+08:00 推文](https://twitter.com/cnmediaproject/status/1529654783556321281)
 
 Chinese authorities cracked down on a popular role-playing genre called “script murder” last year, arguing that violent and supernatural themes were harmful to youth. But the genre may be finding new life -- as pro-Party propaganda. <a href="https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTps6fsagAAqDuW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 36: [2022-05-26 13:07:18+08:00 推文](https://twitter.com/cnmediaproject/status/1529690620352417792)
+
+Curious Signals: Apparent inconsistencies in messaging within China's leadership raise questions about possible differences over the exact nature of the challenges facing the country -- and how to tackle them. <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTqNgdOaIAAWvQA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-05-26 13:33:24+08:00 推文](https://twitter.com/cnmediaproject/status/1529697187873009665)
+
+Re @fbermingham EU and UN should really be more on top of Chinese state media messaging tactics, and have a clear strategy, before they touch down for exchanges like this.
+
+### 38: [2022-05-26 14:10:01+08:00 推文](https://twitter.com/cnmediaproject/status/1529706400414576640)
+
+CMP's David Bandurski looks at more curious signals from China's leadership, including complete failure to mention Premier Li's conference of 100,000 cadres yesterday in a key Economic Daily commentary shared by many state media. <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTqb2fPaUAEDOL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
@@ -41,7 +41,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How does the people’s congress system realiz
 
 ### 7: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
 
-The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-14 17:07:40+08:00 推文](https://twitter.com/MIC_Journal/status/1470681885978218509)
 
@@ -133,7 +133,7 @@ RT Hu Xijin 胡锡进<br>I have retired and my new role is Global Times specia
 
 ### 30: [2021-12-17 08:07:39+08:00 推文](https://twitter.com/DemesDavid/status/1471633150808068097)
 
-RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style="" src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
+RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
