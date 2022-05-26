@@ -117,5 +117,7 @@ In the first episode of “The Foreign Affairs Interview,” editor Dan Kurtz Ph
 
 \[SS\]
 
+"If you're Putin, you're holding out not just for those weaknesses that you perceive or hope are there ... Something else could happen in the world that could come to your rescue."
+
 Listen to the first episode of our new podcast, “The Foreign Affairs Interview,” featuring a conversation with Stephen Kotkin on Russian history, Putin’s leadership, and what will happen next in Ukraine.
 
