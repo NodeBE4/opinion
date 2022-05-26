@@ -117,7 +117,7 @@ RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journa
 
 ### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
-RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
+RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.
 
 ### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
@@ -150,4 +150,8 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Just before people get hyped up by the 100,000
 ### 34: [2022-05-26 02:02:32+08:00 推文](https://twitter.com/michaelxpettis/status/1529523322975039489)
 
 RT Michael Pettis<br>1/7<br>Good article about something everyone's been discussing. Li Keqiang says “This is a special moment, and a difficult moment,” and there definitely seems to be growing concerns about the almost intractable difficulties the Chinese economy faces. <a href="https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-top-two-leaders-diverge-in-messaging-on-covid-impact-11653486508</a>
+
+### 35: [2022-05-26 10:44:54+08:00 推文](https://twitter.com/cnmediaproject/status/1529654783556321281)
+
+Chinese authorities cracked down on a popular role-playing genre called “script murder” last year, arguing that violent and supernatural themes were harmful to youth. But the genre may be finding new life -- as pro-Party propaganda. <a href="https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/25/political-plot-twists%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FTps6fsagAAqDuW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

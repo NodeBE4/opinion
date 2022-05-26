@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-05-25
+date: 2022-05-26
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/
 layout: post
 tags:
@@ -78,4 +78,12 @@ Submission Statement: Taiwan continues to be a fractious issue, in Sino-American
 ----- __270.2__ -----2022-05-25 20:09:32+08:00:
 
 That's a surprisingly useful video.  It gets a few things wrong, but explains in an easy to understand format that is widely accessible to most.
+
+### 271: [Unofficial Daily Update for 2022-05-25. 6406 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/uxn572/unofficial_daily_update_for_20220525_6406_new/), submitted on 2022-05-26 02:00:18+08:00.
+
+----- __271.1__ -----2022-05-26 12:32:58+08:00:
+
+> Ok who’s gonna make the monkeypox tracker bot?
+
+There won't be a need.
 
