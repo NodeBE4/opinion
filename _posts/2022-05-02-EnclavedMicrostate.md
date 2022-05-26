@@ -151,7 +151,7 @@ I'd recommend reading both of the above (though not for those of the faint of he
 
 * General abusive behaviour by agency management and studio staff;
 
-* This is the bit that was confirmed: they're being paid a pittance. The talents' salaries are well below the average wage for their part of China, and worse still, they're only getting *0.5%* of the money from donations and subscriptions – Bilibili, their streaming platform, takes a 50% cut, and the agency takes 99% of the remainder. Contrast with Hololive where the exact breakdown isn't known for sure, but where Youtube takes 35% and the rest is split around 50-50 between agency and talent.
+* This is the bit that was confirmed: they're being paid a pittance. The talents' salaries are well below the average wage for their part of China, and worse still, they're only getting *0.5%* of the money from donations and subscriptions – Bilibili, their streaming platform, takes a 50% cut, and the agency takes 99% of the remainder. Contrast with Hololive where the exact breakdown isn't known for sure, but where Youtube takes 30% and the rest is split around 50-50 between agency and talent.
 
 In essence this is, uh, kinda big news, at least if you're in the Sinophone VTuber space. Which I'll admit I'm mostly not, but I'd come across A-Soul via a small Youtuber who does a lot of meta-commentary videos about VTubers so they'd always been somewhat on my radar.
 
