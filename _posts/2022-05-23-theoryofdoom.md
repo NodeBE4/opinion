@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-05-26
+date: 2022-05-27
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/
 layout: post
 tags:
@@ -94,4 +94,52 @@ There won't be a need.
 I think O'Rourke is talking at cross purposes.  On the one hand, results he is hoping for.  On the other, processes to be set in motion.  They are not even close to the same thing.
 
 https://youtu.be/26QxO49Ycx0
+
+### 273: [Unofficial Daily Update for 2022-05-26. 6358 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/uydhd4/unofficial_daily_update_for_20220526_6358_new/), submitted on 2022-05-27 02:00:18+08:00.
+
+----- __273.1__ -----2022-05-27 20:16:01+08:00:
+
+The time may still come that you do, but susceptibility to infection was never thought to be universal.  Even the most ambitious estimates topped out at around 85% on the high end of the most vulnerable age demographic.  Actual data indicate, on the other hand, susceptibility is a lot lower than that for nearly everyone.
+
+This is not to say COVID isn't infectious.  It is extremely infectious.  But it isn't going to infect every last person there is.
+
+### 274: [What is the most embarrassing thing you’ve ever witnessed?](https://old.reddit.com/r/AskReddit/comments/uyh7c7/what_is_the_most_embarrassing_thing_youve_ever/), submitted on 2022-05-27 04:51:16+08:00.
+
+----- __274.1__ -----2022-05-27 20:52:02+08:00:
+
+I had an elementary school teacher like that.  Today, that woman would be regarded as a textbook "Karen."  At the time, however, memes weren't a thing.  
+
+She hated me because I was always bored out of my mind in her class, except when I was calling out her mistakes --- of which there was no shortage.  One day, she unilaterally decided to take everything out of my cubby because it was "messy."  My cubby was not messy.  Another time, she lost an assignment I turned in and lied about it.  She often tried to claim I was late when I was not.  I didn't realize how much of a malicious bitch she was at the time, but I got all kinds of special treatment like that from her.  
+
+One day I'd had enough of it and I called her out for being unfair.  A sequence of "disciplinary" escalation followed, which culminated in my parents going to school for a "conference."  Other students corroborated what I said.  She broke down in tears and supplied numerous excuses for her behaviour.  She quit teaching the next year.
+
+### 275: [Chicago COVID update: City now in CDC's high risk level along with several local counties](https://old.reddit.com/r/CoronavirusIllinois/comments/uyn5dc/chicago_covid_update_city_now_in_cdcs_high_risk/), submitted on 2022-05-27 09:46:41+08:00.
+
+----- __275.1__ -----2022-05-27 19:50:04+08:00:
+
+Another ambiguous statement from a so called public health "expert" that should have resigned long ago.
+
+### 276: [How do I get rid of the destructive mindset that Applied and Statistics are "lesser" than Pure Math](https://old.reddit.com/r/math/comments/uynuhc/how_do_i_get_rid_of_the_destructive_mindset_that/), submitted on 2022-05-27 10:23:47+08:00.
+
+----- __276.1__ -----2022-05-27 20:07:06+08:00:
+
+Every time you question yourself, just look at how much money you make in the private sector as compared to academia.  
+
+Illusions of prestige are for academics in ivory towers.  It's one thing to feel that way as an undergrad or in grad school, but money is in the private sector.  
+
+Also, your impact in the private sector is likely to be a lot greater than it ever could be in academia.  "Pure math guy" that never moved the ball forward in the field can have his ego, because that's all he'll have.  Money aside, industry will not turn based on anything he says (directly at least).  It might with you, in the private sector.
+
+### 277: [As Russian Forces Retreated, Mock Executions and Beatings Increased in Ukraine](https://old.reddit.com/r/geopolitics/comments/uywzm6/as_russian_forces_retreated_mock_executions_and/), submitted on 2022-05-27 20:18:32+08:00.
+
+----- __277.1__ -----2022-05-27 20:20:54+08:00:
+
+No Paywall: https://archive.ph/mg6pZ
+
+* NOTE - As I have previously stated, if the above link doesn't work for you, it's due to a restriction to which you're subject (whether by your government, your ISP or the like).
+
+----- __277.2__ -----2022-05-27 20:31:45+08:00:
+
+Submission Statement:  
+
+This WSJ article details certain of the Russian military's war crimes in Ukraine, here focusing on those in Novyi Bykiv, a small settlement dotted with one-story houses 50 miles east of Kyiv.  War crimes committed there against Ukrainian included, beatings often rising to the level torture and mock/actual executions.  Ukrainian civilians have been specifically targeted, on suspicion that they might be acting as spies for the Ukrainian military.
 
