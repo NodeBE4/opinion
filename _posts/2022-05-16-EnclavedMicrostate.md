@@ -284,3 +284,11 @@ Excuse me the far more important day is Towel Day.
 
 It's from the Book of Daniel: supposedly, King Nebuchadnezzar has a dream in which he sees a statue with a gold head, silver chest, bronze torso, iron legs, and clay feet, and the statue collapses after a stone is cast at the feet; the shattered statue eventually falls away but the stone grows into a mountain. The bit that's remembered is the idea of the ostensibly mighty structure on weak foundations, although Daniel's interpretation of the dream is actually somewhat different – the differing materials represent a succession of increasingly unimpressive kingdoms beginning with Nebuchadnezzar's, all of which are to be swept away in the end by the Kingdom of God.
 
+----- __454.11__ -----2022-05-28 05:16:25+08:00:
+
+Ugh what a weirdo that person must have been.
+
+I've said this before but it's kind of interesting how the narrative around not revealing IRL selves or other past identities has changed in the EN VTuber space. The actual origins of it lay in Activ8's corporate-centric approach to the concept and essentially served as a means to retain maximum PR, creative, and above all financial control over Kizuna AI, which is about as far from protecting the talent as you can get. Other, less overtly cynical agencies have retained the concept of course, most notably Hololive, and given how relatively forgiving most of them have been over unintentional slips it definitely isn't the outright hard barrier it might have been in Activ8's eyes. With the EN scene, the entire scene began with independents, the anonymity aspect is considerably stronger.
+
+It'd be interesting to see if and how things may change. Apricot/Froot doing a face reveal on Twitter a while back got some attention, though it's an open question as to how much that necessarily affects things given, as noted before, that a good number of indies had simply switched over from real-face content anyway.
+

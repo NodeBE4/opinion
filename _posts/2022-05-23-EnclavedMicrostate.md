@@ -253,17 +253,23 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 Seconded on Millward's Eurasian Crossroads, although be careful actually having it on your person I suppose as Millward's one of those 'controversial' historians that sees China's presence in Xinjiang as imperialism, shockingly enough (I wonder how anyone could form that impression). Also worth looking at is Jonathan Lipman's *Familiar Strangers*.
 
-### 474: [Were ancient temple constructions beneficial or wasteful?](https://old.reddit.com/r/AskHistorians/comments/uz2uti/were_ancient_temple_constructions_beneficial_or/), submitted on 2022-05-28 01:07:56+08:00.
+### 474: [When it's been one year since CA dropped support for 3K:](https://old.reddit.com/r/totalwar/comments/uz1q7q/when_its_been_one_year_since_ca_dropped_support/), submitted on 2022-05-28 00:15:31+08:00.
 
------ __474.1__ -----2022-05-28 03:38:37+08:00:
+----- __474.1__ -----2022-05-28 05:07:16+08:00:
+
+Gunpowder isn't attested before the 9th century CE.
+
+### 475: [Were ancient temple constructions beneficial or wasteful?](https://old.reddit.com/r/AskHistorians/comments/uz2uti/were_ancient_temple_constructions_beneficial_or/), submitted on 2022-05-28 01:07:56+08:00.
+
+----- __475.1__ -----2022-05-28 03:38:37+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 475: [Oldest ritualistic mummification vs. The oldest circumstantial mummification? (Where/when?)](https://old.reddit.com/r/AskHistorians/comments/uz5jb4/oldest_ritualistic_mummification_vs_the_oldest/), submitted on 2022-05-28 03:15:17+08:00.
+### 476: [Oldest ritualistic mummification vs. The oldest circumstantial mummification? (Where/when?)](https://old.reddit.com/r/AskHistorians/comments/uz5jb4/oldest_ritualistic_mummification_vs_the_oldest/), submitted on 2022-05-28 03:15:17+08:00.
 
------ __475.1__ -----2022-05-28 03:39:03+08:00:
+----- __476.1__ -----2022-05-28 03:39:03+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -271,9 +277,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 476: [What did medieval "battle plans" or commands actually look like?](https://old.reddit.com/r/AskHistorians/comments/uz5y2x/what_did_medieval_battle_plans_or_commands/), submitted on 2022-05-28 03:35:06+08:00.
+### 477: [What did medieval "battle plans" or commands actually look like?](https://old.reddit.com/r/AskHistorians/comments/uz5y2x/what_did_medieval_battle_plans_or_commands/), submitted on 2022-05-28 03:35:06+08:00.
 
------ __476.1__ -----2022-05-28 03:39:29+08:00:
+----- __477.1__ -----2022-05-28 03:39:29+08:00:
 
 Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
 
