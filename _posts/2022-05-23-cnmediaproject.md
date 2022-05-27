@@ -137,11 +137,11 @@ RT 浦志强<br>发改委主任、财政部长、人民银行行长讲话，�
 
 ### 31: [2022-05-25 19:48:37+08:00 推文](https://twitter.com/LHongqiao/status/1529429227551989760)
 
-RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)<br><br>Hongqiao Liu: Li reveals in the meeting:<br><br>- Significant decline in economic indexes, many hitting record low<br>- Economic (downturn) has hit the govt budget (negative growth in both national &amp; local budgets)<br>- Weak trend in recovery since May: must work very hard to reverse the negative growth<br><br><img style="" src="https://pbs.twimg.com/media/FTmc8qiXEAIDTDd?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmdv1gWQAAFsm3?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/LHongqiao/status/1529404306708905984" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1529404306708905984</a>
+RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
-RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking<br><br>Bill Bishop: purported full transcript of Li Keqiang's comments at today's big meaning on rescuing the economy. not confirmed, going around wechat. much more interesting than the official readout<br><br><img style="" src="https://pbs.twimg.com/media/FTm45A0XoAAW7NU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45AtXwAIGJlC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45CwXEAA91sd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking
 
 ### 33: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
 
@@ -167,23 +167,31 @@ Re @fbermingham EU and UN should really be more on top of Chinese state media me
 
 CMP's David Bandurski looks at more curious signals from China's leadership, including complete failure to mention Premier Li's conference of 100,000 cadres yesterday in a key Economic Daily commentary shared by many state media. <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTqb2fPaUAEDOL7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 39: [2022-05-26 20:44:56+08:00 推文](https://twitter.com/cnmediaproject/status/1529805787518083072)
+### 39: [2022-05-26 20:33:53+08:00 推文](https://twitter.com/JChengWSJ/status/1529803006526386176)
+
+RT Jonathan Cheng<br>Xi Jinping’s first trip outside the mainland in 2.5 years—to Hong Kong, to mark the 25th anniversary of the handover—is likely to be shorter than expected, and may not go ahead at all if Covid flares up again, say people familiar with the matter.<br>@joshchin <a href="https://on.wsj.com/3z262IC" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3z262IC</a>
+
+### 40: [2022-05-26 20:44:56+08:00 推文](https://twitter.com/cnmediaproject/status/1529805787518083072)
 
 Premier Li led a call this week of 100,000 CCP cadres on the economy, signaling serious problems. So why does a piece today in the Economic Daily and People's Daily neglect even to mention the call and Li's "important speech"? <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTr2JIQaAAAcmmz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 40: [2022-05-27 11:58:20+08:00 推文](https://twitter.com/JunMai_Beijing/status/1530035649507495936)
+### 41: [2022-05-27 11:25:41+08:00 推文](https://twitter.com/amanda_hsiao/status/1530027434120482818)
+
+RT Amanda Hsiao 萧嫣然<br>U.S. strategy on China has shifted from "compete, cooperate, and confront" to "invest, align, and compete," an approach that prioritizes shaping the strategic environment that China operates in over and above engaging China itself. <a href="https://www.state.gov/the-administrations-approach-to-the-peoples-republic-of-china/" target="_blank" rel="noopener noreferrer">https://www.state.gov/the-administrations-approach-to-the-peoples-republic-of-china/</a>
+
+### 42: [2022-05-27 11:58:20+08:00 推文](https://twitter.com/JunMai_Beijing/status/1530035649507495936)
 
 RT Jun Mai<br>Re 2. The exc @cnmediaproject did a very detailed analysis of the PD’s front page counts of Xi and Li. Xi has been the far-and-away favourite for years in total count of mentions, dwarfing not-even-close seconds, it said. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%EF%BF%BC/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%EF%BF%BC/</a>
 
-### 41: [2022-05-27 17:56:41+08:00 推文](https://twitter.com/LiYuan6/status/1530125833276620801)
+### 43: [2022-05-27 17:56:41+08:00 推文](https://twitter.com/LiYuan6/status/1530125833276620801)
 
-RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!<br><br>不明白播客: 由几位在独立媒体工作的新闻记者共同发起、袁莉@LiYuan6 主持的《不明白播客》今天正式上线了! 第一期播客我们和作家慕容雪村@hawking197428 讨论了他如何在万分恐惧之中写出《禁城: 武汉传来的声音》一书，以及他如何处理很多中国知识分子面对的出版和母语写作困境。<br>官网:<br> <a href="https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/" target="_blank" rel="noopener noreferrer">https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/</a>
+RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!
 
-### 42: [2022-05-27 18:13:14+08:00 推文](https://twitter.com/joshchin/status/1530129995909443584)
+### 44: [2022-05-27 18:13:14+08:00 推文](https://twitter.com/joshchin/status/1530129995909443584)
 
 RT Josh Chin<br>The Chinese government’s massive campaign to spread its message globally often seems clumsy and counterproductive, but a new study shows the investment is paying off in one very consequential way<br><br>Excellent story by @_KarenHao <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601</a>
 
-### 43: [2022-05-27 18:57:00+08:00 推文](https://twitter.com/paulmozur/status/1530141011896246272)
+### 45: [2022-05-27 18:57:00+08:00 推文](https://twitter.com/paulmozur/status/1530141011896246272)
 
 RT Paul Mozur 孟建國<br>New report offers more evidence showing China’s huge outlay on propaganda on foreign social media platforms is impacting search results on key topics, like Xinjiang. Tho Chinese info campaigns seem ham handed, this is a part of the very real payoff. <a href="https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/china-excels-in-google-rankings-on-xinjiang-and-covid-19-searches-11653645601</a>
 
