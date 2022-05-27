@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-05-26
+date: 2022-05-27
 from: https://twitter.com/DavidBarboza2/status/1528517817330503680
 layout: post
 tags:
@@ -117,7 +117,7 @@ RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journa
 
 ### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
-RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.
+RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
 
 ### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
@@ -137,7 +137,7 @@ RT 浦志强<br>发改委主任、财政部长、人民银行行长讲话，�
 
 ### 31: [2022-05-25 19:48:37+08:00 推文](https://twitter.com/LHongqiao/status/1529429227551989760)
 
-RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)<br><br>Hongqiao Liu: Li reveals in the meeting:<br><br>- Significant decline in economic indexes, many hitting record low<br>- Economic (downturn) has hit the govt budget (negative growth in both national &amp; local budgets)<br>- Weak trend in recovery since May: must work very hard to reverse the negative growth<br><br><img style="" src="https://pbs.twimg.com/media/FTmc8qiXEAIDTDd?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmdv1gWQAAFsm3?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/LHongqiao/status/1529404306708905984" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1529404306708905984</a>
+RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
@@ -170,4 +170,8 @@ CMP's David Bandurski looks at more curious signals from China's leadership, inc
 ### 39: [2022-05-26 20:44:56+08:00 推文](https://twitter.com/cnmediaproject/status/1529805787518083072)
 
 Premier Li led a call this week of 100,000 CCP cadres on the economy, signaling serious problems. So why does a piece today in the Economic Daily and People's Daily neglect even to mention the call and Li's "important speech"? <a href="https://chinamediaproject.org/2022/05/26/curious-signals/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/26/curious-signals/</a><br><img style="" src="https://pbs.twimg.com/media/FTr2JIQaAAAcmmz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 40: [2022-05-27 11:58:20+08:00 推文](https://twitter.com/JunMai_Beijing/status/1530035649507495936)
+
+RT Jun Mai<br>Re 2. The exc @cnmediaproject did a very detailed analysis of the PD’s front page counts of Xi and Li. Xi has been the far-and-away favourite for years in total count of mentions, dwarfing not-even-close seconds, it said. <a href="https://chinamediaproject.org/2022/05/19/politics-on-page-one%EF%BF%BC/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/19/politics-on-page-one%EF%BF%BC/</a>
 

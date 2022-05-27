@@ -171,7 +171,7 @@ So I will specifically address things that went on between around 1700 and 1790.
 
 ### Technological Developments
 
-A focus purely on standard-issue infantry small arms obscures some rather noticeable technological developments, particularly in the field of artillery. One of the more noted developments of the period was the Gribeauval system introduced in 1765, which saw the French field artillery standardised to four calibres, and which also involved the guns being produced through machining by drilling out the bore rather than being cast with a void using a disposable clay core, allowing for more precise manufacture and a lighter end product. But Gribeauval was not the first artillery standardiser, merely one of the more comprehensive as well as being the first to introduce bore-drilling. Within France he was already building off standardisation attempts made by Vallière in the 1730s, while Austria saw its own attempt at artillery standardisation with the Liechtenstein system in the 1750s. These standardisations did not simply incrementally alter the efficiency of artillery, but also saw a move towards generally lighter calibres that were more suited to the conditions of field battles, which demanded greater mobility (and lighter guns were more easily moved) and higher rates of fire (and you could carry more ammo for lighter guns).
+A focus purely on standard-issue infantry small arms obscures some rather noticeable technological developments, particularly in the field of artillery. One of the more noted developments of the period was the Gribeauval system introduced in 1765, which saw the French field artillery standardised to four calibres, and which also involved the guns being produced through machining by drilling out the bore rather than being cast with a void using a disposable clay core, allowing for more precise manufacture and a lighter end product. But Gribeauval was not the first artillery standardiser, merely one of the more comprehensive as well as being the first to introduce bore-drilling. Within France he was already building off standardisation attempts made by Vallière in the 1730s, while Austria saw its own attempt at artillery standardisation with the Liechtenstein system in the 1750s. These standardisations did not simply incrementally alter the efficiency of artillery, but also saw a move towards generally lighter calibres that were more suited to the conditions of field battles, which demanded greater mobility and higher, sustained rates of fire. You could carry more ammo for guns of smaller calibre, and lighter guns in general were easier to move.
 
 In addition, the solid shot-firing field cannon was not the only gun type in use, as the former half of the eighteenth century also saw the rise of the explosive shell-firing howitzer. This had been introduced by the Dutch as a siege weapon in the 1690s, but its viability as a battlefield weapon soon became apparent. Because they fired explosive shells in a relatively high arc, howitzers essentially allowed for indirect fire, and could be a palpable threat against troops in built-up areas or field fortifications who were well-protected from direct fire guns, diminishing the effectiveness of holding such strongpoints. But howitzers also derived their field potential from their usefulness as a platform for firing canister, a short-range anti-personnel munition consisting essentially of musket rounds that would end up being dispersed across a wide area. The wide bore and short barrel of the howitzer meant that it fired an especially large number of rounds across an especially wide dispersion. This latter role was so substantial that one particularly enterprising Russian ordnance master, Pyotr Shuvalov, developed a gun which he called the 'secret howitzer' designed as a canister-only platform, using a rather creative oval bore shape in an attempt to improve the horizontal dispersion of canister shot. It wasn't very good (nor were his attempts at light field mortars), although another of Shuvalov's introductions, the 'unicorn', paved the way for future developments (once its kinks were ironed out). Able to fire solid shot, shells, and canister, the unicorn was versatile enough that the basic pattern remained in service through the Crimean War in the 1850s.
 
@@ -191,7 +191,29 @@ In short, I simply cannot agree with the premise of the question. The period des
 
 ----- __469.2__ -----2022-05-27 14:31:54+08:00:
 
-I'm not entirely sure about the precise language, but *Jäger* (hunter) was the standard term used for light infantry fielded by the German states. The term 'Jäger rifle' is used to refer to the rifles used by such troops, as opposed to professional hunters – although there's no reason the latter could not have made use of them.
+*Jäger* (hunter) was the standard term used for light infantry fielded by the German states. The term 'Jäger rifle' was thus used to refer to the rifles used by such troops, as opposed to professional hunters – although there's no reason the latter could not have made use of them.
+
+----- __469.3__ -----2022-05-27 15:55:36+08:00:
+
+I cannot speak for the linked posts especially as I broadly didn't cover the periods in question in my answer, but for my own part I drew mostly on work by Christopher Duffy:
+
+* *The Military Experience in the Age of Reason* (1987)
+
+* *The Fortress in the Age of Vauban and Frederick the Great 1660-1789* (1985)
+
+* *Russia's Military Way to the West: Origins and Nature of Russian Military Power 1700-1800* (1981)
+
+Though on artillery I also made heavy use of:
+
+* Ken MacLennan, 'Liechtenstein and Gribeauval: 'Artillery Revolution' in Political and Cultural Context', *War in History* 10:3 (2003)
+
+You may also find this article to be of interest on light infantry though I have my quibbles with it:
+
+* Jack Owen, 'The Influence of Warfare in Colonial America On the Development of British Light Infantry', *Army History* 44 (1998)
+
+----- __469.4__ -----2022-05-27 16:01:59+08:00:
+
+I think he both overstates the influence that American warfare had on Anglo-French tactics considering the concurrent rise of light troops in the armies of the German states, and hews to a rather traditionalist narrative in which the British failed to properly adapt to American infantry tactics rather than their defeat being a primarily strategic and not a tactical failure.
 
 ### 470: [When did pride/arrogance lead to a rulers downfall?](https://old.reddit.com/r/AskHistorians/comments/uynsan/when_did_pridearrogance_lead_to_a_rulers_downfall/), submitted on 2022-05-27 10:20:31+08:00.
 
