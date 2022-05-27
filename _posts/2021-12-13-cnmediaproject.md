@@ -21,7 +21,7 @@ For those who missed it: Douban, which had slightly more chatter last month abou
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
-Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our latest in the CMP Dictionary: "Party spirit" (党性), an old term of new importance in the Xi era. <a href="https://chinamediaproject.org/the_ccp_dictionary/party-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/party-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FGdMoayUUAMkkIO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-14 04:26:32+08:00 推文](https://twitter.com/niubi/status/1470490343669997571)
 
@@ -41,7 +41,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>How does the people’s congress system realiz
 
 ### 7: [2021-12-14 15:52:38+08:00 推文](https://twitter.com/cnmediaproject/status/1470663005452996609)
 
-The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style="" src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
+The "real results" reading of China's political system would be far more compelling if the CCP did not have a vast and expanding propaganda system to manufacture them.<br><img style src="https://pbs.twimg.com/media/FGjYNW3UcAUXmaL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-14 17:07:40+08:00 推文](https://twitter.com/MIC_Journal/status/1470681885978218509)
 
@@ -57,7 +57,7 @@ RT Made in China Journal<br>Re No. 2 is again @lingli_vienna in conversation w
 
 ### 11: [2021-12-14 20:34:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1470733930286440468)
 
-RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style="" src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-15 17:34:01+08:00 推文](https://twitter.com/ABPevzner/status/1471050904820461574)
 
@@ -97,7 +97,7 @@ Re CMP looks a bit more closely at the language in the CAC notice. One point is 
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
-RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style="" src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
@@ -149,7 +149,7 @@ Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
