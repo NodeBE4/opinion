@@ -215,6 +215,10 @@ You may also find this article to be of interest on light infantry though I have
 
 I think he both overstates the influence that American warfare had on Anglo-French tactics considering the concurrent rise of light troops in the armies of the German states, and hews to a rather traditionalist narrative in which the British failed to properly adapt to American infantry tactics rather than their defeat being a primarily strategic and not a tactical failure.
 
+----- __469.5__ -----2022-05-27 17:16:42+08:00:
+
+There's a limited accuracy insofar as yes, you can argue that during the early stages of the fighting the American colonists made heavier use of 'pure' light infantry than their counterparts in the regular British army. But the reality was that A: the British and their allies made considerable use of their own light troops, and professionally trained ones at that; and B: ultimately the Americans still established a conventional line force in the form of the Continental Army *and* gained an alliance with the French, who sent line troops of their own, before winning.
+
 ### 470: [When did pride/arrogance lead to a rulers downfall?](https://old.reddit.com/r/AskHistorians/comments/uynsan/when_did_pridearrogance_lead_to_a_rulers_downfall/), submitted on 2022-05-27 10:20:31+08:00.
 
 ----- __470.1__ -----2022-05-27 13:36:26+08:00:
