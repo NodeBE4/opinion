@@ -189,6 +189,10 @@ Light troops performed two principal roles: supporting the army on campaign, and
 
 In short, I simply cannot agree with the premise of the question. The period described – even if we cut out the French Revolutionary and Napoleonic Wars – can be argued to have seen two major shifts take place: one in artillery, primarily up to the 1760s, and one in the use of light troops, primarily from the 1740s onwards, both of which saw a considerable increase in quantity and refinement in quality and usage.
 
+----- __469.2__ -----2022-05-27 14:31:54+08:00:
+
+I'm not entirely sure about the precise language, but *Jäger* (hunter) was the standard term used for light infantry fielded by the German states. The term 'Jäger rifle' is used to refer to the rifles used by such troops, as opposed to professional hunters – although there's no reason the latter could not have made use of them.
+
 ### 470: [When did pride/arrogance lead to a rulers downfall?](https://old.reddit.com/r/AskHistorians/comments/uynsan/when_did_pridearrogance_lead_to_a_rulers_downfall/), submitted on 2022-05-27 10:20:31+08:00.
 
 ----- __470.1__ -----2022-05-27 13:36:26+08:00:
