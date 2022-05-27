@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-26
+date: 2022-05-27
 from: https://twitter.com/HeQinglian/status/1528470886684282880
 layout: post
 tags:
@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -281,7 +281,7 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 
 ### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
 
-索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。<br><br>jiang shangrong: ‼️‼️索罗斯‼️‼️<br><br>乔治·索罗斯在世界经济论坛的晚宴上在一篇论文中呼吁“击败普京以拯救我们的文明”<br><br>“我们的文明可能无法在这场（全球军事冲突）中幸存下来。保持它的最好，也许是唯一的方法就是尽快击败普京。”<br><br>‼️终于看懂普京在和谁作战了！<br><br><img style="" src="https://pbs.twimg.com/media/FTldD40WYAA5HMw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
 
@@ -318,4 +318,8 @@ Re @JianglinLi @HongfuDing @RealBeiMing @ngexp @Wu_Zhi @lindahuiyun Mark了。
 ### 76: [2022-05-26 23:23:52+08:00 推文](https://twitter.com/HeQinglian/status/1529845781288583169)
 
 Re @seadognw 我读了一下文章，最早的具体时间是2004年。现在，左派文青已经干脆将这当作进步主义，赋予政治正确的正义性。可能除了与未成年人之外，其余不是事了。
+
+### 77: [2022-05-27 10:01:25+08:00 推文](https://twitter.com/HeQinglian/status/1530006226846744587)
+
+拜登亚洲行，亚太国家缘何有保留？<br><br>亚洲各国对拜登的经济合作知道是无法实现的“黄金准则”，安全合作也不敢寄予过多希望。为何？只因拜登特色的外交成为美国外交新策略，传说中拜登患的“老年痴呆症”，不仅不是拜登的负面资产，反而成为他经常说错话、规避责任的掩护。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/biden-asis-trip" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/biden-asis-trip</a>
 
