@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-27
+date: 2022-05-28
 from: https://twitter.com/HeQinglian/status/1528470886684282880
 layout: post
 tags:
@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -281,7 +281,7 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 
 ### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
 
-索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。<br><br>jiang shangrong: ‼️‼️索罗斯‼️‼️<br><br>乔治·索罗斯在世界经济论坛的晚宴上在一篇论文中呼吁“击败普京以拯救我们的文明”<br><br>“我们的文明可能无法在这场（全球军事冲突）中幸存下来。保持它的最好，也许是唯一的方法就是尽快击败普京。”<br><br>‼️终于看懂普京在和谁作战了！<br><br><img style="" src="https://pbs.twimg.com/media/FTldD40WYAA5HMw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
 
@@ -330,4 +330,8 @@ Re @JianglinLi @Wu_Zhi 哪是什么乌托邦理念，心理学上叫做受虐倾
 ### 79: [2022-05-27 22:17:21+08:00 推文](https://twitter.com/HeQinglian/status/1530191430504923136)
 
 Re @Wu_Zhi @JianglinLi 华府有个美国现代艺术中心，去过两次，觉得就是当代艺术家找不到艺术出路的一种另辟蹊径。<br>昨天开车从普大国际中心过，那据说要永久收藏的艾氏十二生肖雕塑已经不见了——那还是艾氏创作当中很正经的作品。那年到哈佛，一位美国教授问：中国人为什么那么喜欢一夫八奶那行为艺术？我说是政治情境所致。
+
+### 80: [2022-05-28 05:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1530299757167529986)
+
+Re @ChanTedman @XiaonongC 如果怀疑，最好自己查对美国相关数据。
 
