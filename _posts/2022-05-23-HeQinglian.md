@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -233,7 +233,7 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
@@ -322,4 +322,12 @@ Re @seadognw 我读了一下文章，最早的具体时间是2004年。现在，
 ### 77: [2022-05-27 10:01:25+08:00 推文](https://twitter.com/HeQinglian/status/1530006226846744587)
 
 拜登亚洲行，亚太国家缘何有保留？<br><br>亚洲各国对拜登的经济合作知道是无法实现的“黄金准则”，安全合作也不敢寄予过多希望。为何？只因拜登特色的外交成为美国外交新策略，传说中拜登患的“老年痴呆症”，不仅不是拜登的负面资产，反而成为他经常说错话、规避责任的掩护。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/biden-asis-trip" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/biden-asis-trip</a>
+
+### 78: [2022-05-27 21:37:30+08:00 推文](https://twitter.com/HeQinglian/status/1530181404147032065)
+
+Re @JianglinLi @Wu_Zhi 哪是什么乌托邦理念，心理学上叫做受虐倾向，以社会学实验之名得以实验，包装上高大上的社会调查之名。
+
+### 79: [2022-05-27 22:17:21+08:00 推文](https://twitter.com/HeQinglian/status/1530191430504923136)
+
+Re @Wu_Zhi @JianglinLi 华府有个美国现代艺术中心，去过两次，觉得就是当代艺术家找不到艺术出路的一种另辟蹊径。<br>昨天开车从普大国际中心过，那据说要永久收藏的艾氏十二生肖雕塑已经不见了——那还是艾氏创作当中很正经的作品。那年到哈佛，一位美国教授问：中国人为什么那么喜欢一夫八奶那行为艺术？我说是政治情境所致。
 
