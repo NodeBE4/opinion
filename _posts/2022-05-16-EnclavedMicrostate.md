@@ -292,3 +292,15 @@ I've said this before but it's kind of interesting how the narrative around not 
 
 It'd be interesting to see if and how things may change. Apricot/Froot doing a face reveal on Twitter a while back got some attention, though it's an open question as to how much that necessarily affects things given, as noted before, that a good number of indies had simply switched over from real-face content anyway.
 
+----- __454.12__ -----2022-05-28 12:17:38+08:00:
+
+>I don't know how it is in Japan, but i feel alot of the EN speaking Independent Vtuber community seems to weirdly stick to rules, terms and culture of the JP side that originates from corporate Vtuber culture (specifically Hololive wnd Nijisanji) despite the fact that most EN vtubers are Indies that can decide on their own rules.
+
+I've come up with a couple of possible – and not mutually exclusive – reasons this may be the case.
+
+* The historic size of the JP VTuber scene compared to EN: when things were starting out, the much smaller set of English-language VTuber watchers probably intersected much more heavily with the much larger set of viewers of JP VTubers than today, and so a lot more of the expectations from the latter were absorbed into the former.
+
+* Emulation on the part of the talents: early EN VTubers drew to a greater or lesser extent on the JP scene anyway, and while they set their own rules they were still nevertheless looking to emulate their JP forebears to some extent.
+
+* HoloMyth setting expectations: HoloMyth brought in a major influx of new VTuber viewers and set not only their expectations, but also those of a lot of subsequent viewers, as well as those who may have migrated away from Holo since. I think you see this in the backlash to Niji's recent favouritism for Luxiem – it's ultimately applying expectations created by Hololive (relatively equal or at least fair treatment for its talents) to a different group they had migrated to because it *wasn't* Holo.
+

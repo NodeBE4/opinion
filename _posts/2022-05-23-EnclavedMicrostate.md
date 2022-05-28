@@ -53,6 +53,22 @@ This is very much parroting others' takes from other spaces I'm in, but the impr
 
 I probably should have been a little more precise in my language, although to be fair Isegye (whom I have heard of and know are successful) slipped my mind as well. More precisely, I meant to say that it seems like there's a certain difficulty (especially for an overseas-based agency) to maintain a substantial group of KR VTubers of sort of middling size (i.e. not full-time job level).
 
+----- __458.5__ -----2022-05-28 12:03:01+08:00:
+
+So, there are two things I'd bring up here.
+
+Firstly, are they saying HoloEN needs more people because *they* want more HoloEN, or because it would benefit Holo as an agency?
+
+Secondly, even if the former were true... so what? There are legitimately things that may make HoloEN stand out for someone:
+
+* Collab potential with other talents one is already a fan of.
+
+* A strong music element in the agency writ large: One might understandably want a new music-focussed VTuber debut with HoloEN, a) because Cover has a more obvious track record of backing music-specific content, and b) because of potential collaborations with Calli, IRyS, or Suisei among others.
+
+* A general 'vibe' of content style: some prefer Niji or indie talents because they seem less self-censoring, but this may well go in the other direction for those who don't get as much of a kick out of people swearing like a sailor on stream (KFP employees excepted).
+
+* A stronger community on familiar platforms: this applies more to why people may not be drawn to Niji as opposed to indies given how active this sub is, but simply, if your main social media platform is Reddit then new Hololive debuts are actively community-building on a familiar platform; new debuts elsewhere, if the primary community space is something like Twitter or an oldschool forum or whatever site the young'uns are on now, require you to familiarise yourself with both a platform *and* a community.
+
 ### 459: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
 
 ----- __459.1__ -----2022-05-24 13:06:07+08:00:
