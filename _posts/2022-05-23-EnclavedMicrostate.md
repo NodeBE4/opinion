@@ -69,6 +69,18 @@ Secondly, even if the former were true... so what? There are legitimately things
 
 * A stronger community on familiar platforms: this applies more to why people may not be drawn to Niji as opposed to indies given how active this sub is, but simply, if your main social media platform is Reddit then new Hololive debuts are actively community-building on a familiar platform; new debuts elsewhere, if the primary community space is something like Twitter or an oldschool forum or whatever site the young'uns are on now, require you to familiarise yourself with both a platform *and* a community.
 
+----- __458.6__ -----2022-05-28 13:43:10+08:00:
+
+I don't know if we're talking past each other here, but the points I bring up weren't statements of objective fact, they were possible reasons for why any given person who does want more HoloEN might do so. You've raised a lot of nuances, but not necessarily logical flaws:
+
+1. Yes, I think there *are* people who would be interested in what some otherwise-unknown person would bring to the table. Especially as HoloEN so far hasn't recruited *that* many people prominent as VTubers (which I phrase that way to distinguish from prominent creators who dabbled in VTubing but weren't primarily known for being so).
+
+2. This is a twofold thing: for one, Holo's relatively high production values means even getting as little as 20% of that is still a lot; for another, I should have been more specific that it also ties into the previous point – it's not just about collabing with *any* music talent, but with *specific* ones that the viewer is already following.
+
+3. Agreed here in 'objective' terms as I don't think the notion of the agencies having different content standards really does hold up to close scrutiny. But there's a *perception* of such which influences behaviour.
+
+The problem is that you've come off as gatekeeping fandom here – that people who want more HoloEN are being fans the *wrong* way, as opposed to simply differently.
+
 ### 459: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
 
 ----- __459.1__ -----2022-05-24 13:06:07+08:00:
