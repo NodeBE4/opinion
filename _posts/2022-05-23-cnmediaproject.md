@@ -117,7 +117,7 @@ RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journa
 
 ### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
-RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
+RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now. <a href="https://twitter.com/ZichenWanghere/status/1529372986318303232" target="_blank" rel="noopener noreferrer">https://twitter.com/ZichenWanghere/status/1529372986318303232</a>
 
 ### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
@@ -141,7 +141,7 @@ RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
-RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking
+RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking<br><br>Bill Bishop: purported full transcript of Li Keqiang's comments at today's big meaning on rescuing the economy. not confirmed, going around wechat. much more interesting than the official readout<br><br><img style="" src="https://pbs.twimg.com/media/FTm45A0XoAAW7NU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45AtXwAIGJlC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45CwXEAA91sd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
 
@@ -206,4 +206,8 @@ RT Graham Webster<br>What to make of China's "Global Security Initiative" effo
 ### 48: [2022-05-28 05:24:41+08:00 推文](https://twitter.com/vshih2/status/1530298973570727936)
 
 RT Victor Shih<br>China's new plan for social sciences in unis "旗帜鲜明地讲清楚习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和中国精神的时代精华，实现了马克思主义中国化新的飞跃；旗帜鲜明地用习近平新时代中国特色社会主义思想铸魂育人，加强马克思主义学科建设"
+
+### 49: [2022-05-28 17:25:42+08:00 推文](https://twitter.com/WendyZhou502/status/1530480421988978688)
+
+RT Wendy Zhou<br>Another #scmp interview with @yaling_jiang on #China digital news: Algorithm-pushed content and trendy topic lists occupy ppl’s news feed. Low news literacy and media identification, reduced gatekeeping journalism &amp; blind trust in state media are problems. <a href="https://bit.ly/3NFx9ND" target="_blank" rel="noopener noreferrer">https://bit.ly/3NFx9ND</a>
 
