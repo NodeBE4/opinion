@@ -61,7 +61,7 @@ Re @wechat2525138 与挪威前年那个案子的案由一样，当然，这些�
 
 ### 12: [2022-05-18 00:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1526594722269212674)
 
-这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。
+这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。<br><br>华尔街日报中文网: 乌克兰政府宣布结束其在马里乌波尔的作战任务，结束了与俄罗斯军队数月的血腥战斗。这场战斗的尾声是在一家废弃钢铁厂避难的战斗人员和平民遭到惊心动魄的围困。泽连斯基说，亚速钢铁厂的战斗人员正在接受医疗救助，他恳请在他们被允许离开后保全他们的性命。<br> <a href="https://on.wsj.com/3NgEqTZ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NgEqTZ</a>
 
 ### 13: [2022-05-18 03:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1526640910716616707)
 
@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
