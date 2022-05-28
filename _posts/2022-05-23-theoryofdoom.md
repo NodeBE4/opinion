@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-05-27
+date: 2022-05-28
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/uvzzpm/a_series_of_covid19_cases_with_findings_in_the/
 layout: post
 tags:
@@ -146,4 +146,10 @@ This WSJ article details certain of the Russian military's war crimes in Ukraine
 ----- __277.3__ -----2022-05-28 09:44:08+08:00:
 
 They certainly have.  The typical Internet Research Agency garbage is self evident, though.  Yevgeny Prigozhin is bad at his job.
+
+### 278: [User blocked modteam, their content in our sub does not show up on their profile when we view](https://old.reddit.com/r/ModSupport/comments/uznez7/user_blocked_modteam_their_content_in_our_sub/), submitted on 2022-05-28 21:32:01+08:00.
+
+----- __278.1__ -----2022-05-28 23:41:54+08:00:
+
+This is another one of the terrible implications of Reddit's ill-considered features.
 

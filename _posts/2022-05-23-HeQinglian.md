@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-28
+date: 2022-05-29
 from: https://twitter.com/HeQinglian/status/1528470886684282880
 layout: post
 tags:
@@ -141,7 +141,7 @@ Re 原来，白宫通过布林肯宣示，俄乌战争必须拖到12月（那时
 
 ### 32: [2022-05-23 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1528745942123433988)
 
-在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。<br><br>He Qinglian: 这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br> <a href="https://twitter.com/nytchinese/status/1528677122935361538" target="_blank" rel="noopener noreferrer">https://twitter.com/nytchinese/status/1528677122935361538</a>
+在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。 <a href="https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official" target="_blank" rel="noopener noreferrer">https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official</a>
 
 ### 33: [2022-05-23 22:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1528749341745217536)
 
@@ -233,7 +233,7 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
@@ -351,7 +351,23 @@ Re @shenliangqing2 你终于出来了。<br>这些年，美国变化太多、太
 
 Re @shenliangqing2 国土安全部成立的虚假信息管控审查部门不是企业，是政府行为，人称真理部。<br>另外，你入狱后，2020年以来，美国取消文化大行其道，乔姆斯基等左派大宗师因为不够左，被极左玩了一把取消游戏。<br>乔姆斯基一辈子主张限制右派的言论自由，没想到被自家阵营取消了一把，后来很沉默。
 
-### 85: [2022-05-28 21:27:32+08:00 推文](https://twitter.com/HeQinglian/status/1530541282589822978)
+### 85: [2022-05-28 13:38:45+08:00 推文](https://twitter.com/RealBeiMing/status/1530423311129317376)
+
+RT 北明BeiMing<br>Re @ngexp 世界經濟論壇World Economic Forum的隱秘法典：<br><br>讓我控制國家的貨幣供應，我不在乎誰來制定法律。<br>——羅斯柴爾德Mayer Rothschild， Private Banker<br><br>誰控制了貨幣誰就控制了世界。<br>——亨利·基辛格Henry Kissinger<br><br>我深信銀行有了貨幣發行權，對自由的威脅更勝軍隊。<br>——托馬斯·傑佛遜Thomas Jefferson
+
+### 86: [2022-05-28 21:27:32+08:00 推文](https://twitter.com/HeQinglian/status/1530541282589822978)
 
 Re @shenliangqing2 我们好些人都互相打听过你的情况，知道得极有限。关心你的人还是不少，都希望你平安归家。
+
+### 87: [2022-05-29 00:08:08+08:00 推文](https://twitter.com/HeQinglian/status/1530581700815863809)
+
+Re @RealBeiMing @ngexp 现在正在图谋单一电子货币控制世界，但各国接受度有限。
+
+### 88: [2022-05-29 00:11:33+08:00 推文](https://twitter.com/HeQinglian/status/1530582558219636744)
+
+Re @realTaoRay 关于中国问题，海外的中南海听壁脚分析太痴迷于权力斗争，离开这一叙事就无法分析——这里有听众导向。<br>如今财政枯竭，又不象美国，夺取政权后就可利用美元掠夺世界，目前的问题是同舟共济，过了难关再说。<br>当然，会有小部分人希望一尊退位，但那不是李克强。有人将矛盾往李身上引，其实是想害李利用李。
+
+### 89: [2022-05-29 00:13:43+08:00 推文](https://twitter.com/HeQinglian/status/1530583104603267072)
+
+Re @shenliangqing2 事实上是：俄出售能源的收入远高于去年同期。<br>美乌主导的俄乌信息战，基本上是假信息。国会听证会与政府官员均有透露，我以前的推文有。否则就不需要成立真理部了。
 
