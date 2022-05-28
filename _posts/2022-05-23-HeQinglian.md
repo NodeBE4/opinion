@@ -205,7 +205,7 @@ Re @Wu_Zhi @pandatress1 @JianglinLi @david_david1968 早就知道美国进入选
 
 ### 48: [2022-05-24 09:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1528903670888267776)
 
-RT He Qinglian<br>美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
+美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
 
 ### 49: [2022-05-24 10:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1528921551076470784)
 
@@ -281,7 +281,7 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 
 ### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
 
-索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。<br><br>jiang shangrong: ‼️‼️索罗斯‼️‼️<br><br>乔治·索罗斯在世界经济论坛的晚宴上在一篇论文中呼吁“击败普京以拯救我们的文明”<br><br>“我们的文明可能无法在这场（全球军事冲突）中幸存下来。保持它的最好，也许是唯一的方法就是尽快击败普京。”<br><br>‼️终于看懂普京在和谁作战了！<br><br><img style="" src="https://pbs.twimg.com/media/FTldD40WYAA5HMw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
 
 ### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
 
@@ -331,7 +331,23 @@ Re @JianglinLi @Wu_Zhi 哪是什么乌托邦理念，心理学上叫做受虐倾
 
 Re @Wu_Zhi @JianglinLi 华府有个美国现代艺术中心，去过两次，觉得就是当代艺术家找不到艺术出路的一种另辟蹊径。<br>昨天开车从普大国际中心过，那据说要永久收藏的艾氏十二生肖雕塑已经不见了——那还是艾氏创作当中很正经的作品。那年到哈佛，一位美国教授问：中国人为什么那么喜欢一夫八奶那行为艺术？我说是政治情境所致。
 
-### 80: [2022-05-28 05:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1530299757167529986)
+### 80: [2022-05-28 00:12:46+08:00 推文](https://twitter.com/shenliangqing2/status/1530220475975991296)
+
+RT 沈良庆二世<br>首次遭遇黑夜黑头套黑帮绑架式野蛮抓捕，一上车我就默记行车路线，以便判断被抓到何处：桐城路-太湖路-美菱大道……直到从南门收费站上环城高速兜圈才失去方向感，不知被带到何处。进入室内搜身时摘掉黑头套，我要求上厕所时又被戴上，被两个人搀扶着如厕，估计是怕我通过室内标识判断出审讯地点。
+
+### 81: [2022-05-28 05:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1530299757167529986)
 
 Re @ChanTedman @XiaonongC 如果怀疑，最好自己查对美国相关数据。
+
+### 82: [2022-05-28 08:12:28+08:00 推文](https://twitter.com/HeQinglian/status/1530341196014538753)
+
+Re @Wu_Zhi @seadognw 美国教育系统几十年如一日、诚心诚意地培养LGBTQI+大麻（海洛因）的新左社会主义青年人，不崩没天理。崩前让他们在毒品幻觉中快乐且自感优越吧。
+
+### 83: [2022-05-28 08:13:37+08:00 推文](https://twitter.com/HeQinglian/status/1530341488290320385)
+
+Re @shenliangqing2 你终于出来了。<br>这些年，美国变化太多、太大，你还得花点时间好好了解。
+
+### 84: [2022-05-28 08:18:32+08:00 推文](https://twitter.com/HeQinglian/status/1530342723550683141)
+
+Re @shenliangqing2 国土安全部成立的虚假信息管控审查部门不是企业，是政府行为，人称真理部。<br>另外，你入狱后，2020年以来，美国取消文化大行其道，乔姆斯基等左派大宗师因为不够左，被极左玩了一把取消游戏。<br>乔姆斯基一辈子主张限制右派的言论自由，没想到被自家阵营取消了一把，后来很沉默。
 

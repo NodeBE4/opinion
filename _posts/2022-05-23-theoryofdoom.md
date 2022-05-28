@@ -143,3 +143,7 @@ Submission Statement:
 
 This WSJ article details certain of the Russian military's war crimes in Ukraine, here focusing on those in Novyi Bykiv, a small settlement dotted with one-story houses 50 miles east of Kyiv.  War crimes committed there against Ukrainian included, beatings often rising to the level torture and mock/actual executions.  Ukrainian civilians have been specifically targeted, on suspicion that they might be acting as spies for the Ukrainian military.
 
+----- __277.3__ -----2022-05-28 09:44:08+08:00:
+
+They certainly have.  The typical Internet Research Agency garbage is self evident, though.  Yevgeny Prigozhin is bad at his job.
+
