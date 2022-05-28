@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -350,4 +350,8 @@ Re @shenliangqing2 你终于出来了。<br>这些年，美国变化太多、太
 ### 84: [2022-05-28 08:18:32+08:00 推文](https://twitter.com/HeQinglian/status/1530342723550683141)
 
 Re @shenliangqing2 国土安全部成立的虚假信息管控审查部门不是企业，是政府行为，人称真理部。<br>另外，你入狱后，2020年以来，美国取消文化大行其道，乔姆斯基等左派大宗师因为不够左，被极左玩了一把取消游戏。<br>乔姆斯基一辈子主张限制右派的言论自由，没想到被自家阵营取消了一把，后来很沉默。
+
+### 85: [2022-05-28 21:27:32+08:00 推文](https://twitter.com/HeQinglian/status/1530541282589822978)
+
+Re @shenliangqing2 我们好些人都互相打听过你的情况，知道得极有限。关心你的人还是不少，都希望你平安归家。
 
