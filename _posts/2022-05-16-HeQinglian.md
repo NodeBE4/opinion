@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
@@ -385,7 +385,7 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 
 ### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
 
-以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。
 
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 

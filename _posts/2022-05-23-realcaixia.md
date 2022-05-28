@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -45,7 +45,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 8: [2022-05-23 21:42:51+08:00 推文](https://twitter.com/realcaixia/status/1528733199098122242)
 
-荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。<br><br>荣剑: 这大概就是文明的分野，没有经过清朝的人，也不必说遗憾，清和后清有什么区别吗？区别或许就是帖子中所说的疯狂的删帖取代了文字狱——当然，有人肯定会说，现在因言获罪还少吗？面对这样的质疑，我无言以答。<br><br><img style="" src="https://pbs.twimg.com/media/FTXKTPGVIAEGNN3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
