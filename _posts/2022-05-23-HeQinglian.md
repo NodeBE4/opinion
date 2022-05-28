@@ -233,7 +233,7 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
@@ -370,4 +370,12 @@ Re @realTaoRay 关于中国问题，海外的中南海听壁脚分析太痴迷�
 ### 89: [2022-05-29 00:13:43+08:00 推文](https://twitter.com/HeQinglian/status/1530583104603267072)
 
 Re @shenliangqing2 事实上是：俄出售能源的收入远高于去年同期。<br>美乌主导的俄乌信息战，基本上是假信息。国会听证会与政府官员均有透露，我以前的推文有。否则就不需要成立真理部了。
+
+### 90: [2022-05-29 01:33:01+08:00 推文](https://twitter.com/HeQinglian/status/1530603059625197569)
+
+Re @realTaoRay 我不是针对这人，而是指普遍现象。<br>对万事万物均能扯上权斗的分析，我早就不看了。<br>要说权力与路线斗争最激烈的，其实是美国现在的两党。中国是权力斗争，但不是路线斗争。
+
+### 91: [2022-05-29 01:37:12+08:00 推文](https://twitter.com/HeQinglian/status/1530604111342800900)
+
+Re @Wu_Zhi 如今是一战两表：美乌是信息战，每天都在胜利，积小胜为大胜，最后大获全胜；俄罗斯是地面战，积跬步以至千里。<br>其实，乌鸡血基本不见了，只有少数乌粉在有气无力地坚持走向胜利。<br>拜登的工作重心转移了，转至中国与消解不结盟运动2.0版。
 
