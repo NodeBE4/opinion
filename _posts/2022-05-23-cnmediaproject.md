@@ -141,7 +141,7 @@ RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
-RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking<br><br>Bill Bishop: purported full transcript of Li Keqiang's comments at today's big meaning on rescuing the economy. not confirmed, going around wechat. much more interesting than the official readout<br><br><img style="" src="https://pbs.twimg.com/media/FTm45A0XoAAW7NU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45AtXwAIGJlC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTm45CwXEAA91sd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>correction, purported transcript of the meeting, not just lkq speaking
 
 ### 33: [2022-05-25 22:24:56+08:00 推文](https://twitter.com/lingli_vienna/status/1529468562372427778)
 
@@ -185,7 +185,7 @@ RT Jun Mai<br>Re 2. The exc @cnmediaproject did a very detailed analysis of th
 
 ### 43: [2022-05-27 17:56:41+08:00 推文](https://twitter.com/LiYuan6/status/1530125833276620801)
 
-RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!
+RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!<br><br>不明白播客: 由几位在独立媒体工作的新闻记者共同发起、袁莉@LiYuan6 主持的《不明白播客》今天正式上线了! 第一期播客我们和作家慕容雪村@hawking197428 讨论了他如何在万分恐惧之中写出《禁城: 武汉传来的声音》一书，以及他如何处理很多中国知识分子面对的出版和母语写作困境。<br>官网:<br> <a href="https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/" target="_blank" rel="noopener noreferrer">https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/</a>
 
 ### 44: [2022-05-27 18:13:14+08:00 推文](https://twitter.com/joshchin/status/1530129995909443584)
 
@@ -199,7 +199,11 @@ RT Paul Mozur 孟建國<br>New report offers more evidence showing China’s h
 
 RT Bill Bishop<br>China’s Political Discourse April 2022: Struggling Against the Epidemic in “Magic City” , by @cnmediaproject <a href="https://sinocism.com/p/chinas-political-discourse-april?r=2e&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-april?r=2e&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web</a>
 
-### 47: [2022-05-28 05:24:41+08:00 推文](https://twitter.com/vshih2/status/1530298973570727936)
+### 47: [2022-05-27 23:28:55+08:00 推文](https://twitter.com/gwbstr/status/1530209442225979393)
+
+RT Graham Webster<br>What to make of China's "Global Security Initiative" efforts? Will it lead to a revival of the now mostly quiet "Global Data Security Initiative"?<br><br>On the latter, check out @ChaeriPark2's explanation of this Chinese diplomatic initiative @DigiChn. <a href="https://digichina.stanford.edu/work/knowledge-base-chinas-global-data-security-initiative/" target="_blank" rel="noopener noreferrer">https://digichina.stanford.edu/work/knowledge-base-chinas-global-data-security-initiative/</a>
+
+### 48: [2022-05-28 05:24:41+08:00 推文](https://twitter.com/vshih2/status/1530298973570727936)
 
 RT Victor Shih<br>China's new plan for social sciences in unis "旗帜鲜明地讲清楚习近平新时代中国特色社会主义思想是当代中国马克思主义、二十一世纪马克思主义，是中华文化和中国精神的时代精华，实现了马克思主义中国化新的飞跃；旗帜鲜明地用习近平新时代中国特色社会主义思想铸魂育人，加强马克思主义学科建设"
 
