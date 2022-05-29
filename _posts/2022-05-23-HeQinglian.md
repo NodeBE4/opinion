@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -205,7 +205,7 @@ Re @Wu_Zhi @pandatress1 @JianglinLi @david_david1968 早就知道美国进入选
 
 ### 48: [2022-05-24 09:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1528903670888267776)
 
-RT He Qinglian<br>美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
+美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
 
 ### 49: [2022-05-24 10:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1528921551076470784)
 
@@ -233,7 +233,7 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
@@ -414,4 +414,12 @@ Re @pandatress1 应该是真的。符合李克强一贯的话风，而且喜欢�
 ### 100: [2022-05-29 10:34:56+08:00 推文](https://twitter.com/HeQinglian/status/1530739439059750912)
 
 Re @pandatress1 十万人会议，无密可保。我不觉得有什么要删除的。<br>估计因为太多人不看内容，只看出场，并附会出与习唱对手戏的意思。
+
+### 101: [2022-05-29 21:17:34+08:00 推文](https://twitter.com/HeQinglian/status/1530901160638533635)
+
+国家安全新领域：美国农地与中国粮食需求<br>俄乌战争改写了经济全球化格局：资本安全不再，资源国拿回了定价权。白宫对华还处于“战略摇摆“状态，但在中国亟需的资源方面却已紧逼。5月25日李克强电话会要“找粮食、能源和产业链供应链”。5月26日USCC发布报告，表示“别碰我们的粮食” <a href="https://www.epochtimes.com/gb/22/5/29/n13747799.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/29/n13747799.htm</a>
+
+### 102: [2022-05-29 21:24:17+08:00 推文](https://twitter.com/HeQinglian/status/1530902853975416832)
+
+Re @pandatress1 过度解读。<br>文字平和，一个字都没指向习，连暗示都没有，比如以前传说的“相忍为国”之类。<br>就是告诉全党官员：别指望中央财政救急，自家想法解决。
 
