@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -141,7 +141,7 @@ Re 原来，白宫通过布林肯宣示，俄乌战争必须拖到12月（那时
 
 ### 32: [2022-05-23 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1528745942123433988)
 
-在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。<br><br>He Qinglian: 这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br> <a href="https://twitter.com/nytchinese/status/1528677122935361538" target="_blank" rel="noopener noreferrer">https://twitter.com/nytchinese/status/1528677122935361538</a>
+在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。 <a href="https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official" target="_blank" rel="noopener noreferrer">https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official</a>
 
 ### 33: [2022-05-23 22:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1528749341745217536)
 
@@ -205,7 +205,7 @@ Re @Wu_Zhi @pandatress1 @JianglinLi @david_david1968 早就知道美国进入选
 
 ### 48: [2022-05-24 09:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1528903670888267776)
 
-美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
+RT He Qinglian<br>美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
 
 ### 49: [2022-05-24 10:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1528921551076470784)
 
@@ -233,7 +233,7 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
@@ -386,4 +386,32 @@ Re @smokystone @shenliangqing2 煤炭、石油都增加了销量，价格方面�
 ### 93: [2022-05-29 05:32:00+08:00 推文](https://twitter.com/HeQinglian/status/1530663201343406083)
 
 Re @aliyoung_com @Wu_Zhi 你听不进不同声音，理解成阴阳怪气，我不与你计较。<br>你就告诉我，我说的哪点不是事实？没有依据？<br>至于你括号里的话，全是你自己的，一句都不是我说的。<br>做人不能这样，学习左派栽赃。
+
+### 94: [2022-05-29 08:50:45+08:00 推文](https://twitter.com/HeQinglian/status/1530713221694377984)
+
+Re @Wu_Zhi 我早已不看了。<br>只要看拜登政府现在干什么，就知道那地的形势不妙。<br>拜登亚洲行就是战略转移，将敌人换成中国，换媒体喝彩后，布林肯又说，美国不希望与中国进入冷战状态。<br>如果既非战略模糊，又不是媒体一厢情愿地所谓战略清晰，而是不停地“战略摇摆”——没见过大国对垒是这模样。
+
+### 95: [2022-05-29 08:51:52+08:00 推文](https://twitter.com/HeQinglian/status/1530713501039316995)
+
+Re @Wu_Zhi 他与他的家人在不在这十万人之内，这非常关键。
+
+### 96: [2022-05-29 08:54:44+08:00 推文](https://twitter.com/HeQinglian/status/1530714224070123522)
+
+Re @eGUAbe2V7j26GHw 这些人的思路，实在清奇，常有理。
+
+### 97: [2022-05-29 10:07:47+08:00 推文](https://twitter.com/HeQinglian/status/1530732606853103616)
+
+Re @Coco198946 @FranzMendelsso1 @Wu_Zhi 今天我园子里还冒出一枚乌粉闹场。自己没醒，还怪别人没让他做梦。<br>看见就烦，一个厌字。
+
+### 98: [2022-05-29 10:27:33+08:00 推文](https://twitter.com/HeQinglian/status/1530737580580429825)
+
+今天下载了李克强十万人电话会议全文，因为是听录音整理的文字（非官方），不少错误，有些好懂，比如“我们更要确保今年的军费、国防开支、义务教育指出不能出问题”——是“支出”之误<br>"我说的是5、收折这几个我们主要的税收来源"。"收折"是“收窄”，只要知道统计术语，也知道，但有些我也想不出原话是什么。
+
+### 99: [2022-05-29 10:30:18+08:00 推文](https://twitter.com/HeQinglian/status/1530738271273222144)
+
+Re @pandatress1 应该是真的。符合李克强一贯的话风，而且喜欢用几个指标衡量经济实况，除他别人不用。
+
+### 100: [2022-05-29 10:34:56+08:00 推文](https://twitter.com/HeQinglian/status/1530739439059750912)
+
+Re @pandatress1 十万人会议，无密可保。我不觉得有什么要删除的。<br>估计因为太多人不看内容，只看出场，并附会出与习唱对手戏的意思。
 
