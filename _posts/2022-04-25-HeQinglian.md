@@ -261,7 +261,7 @@ Re @Wu_Zhi 全球左派脑控狂喜大普奔，美国终于正式成立1984的�
 
 ### 62: [2022-04-28 05:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1519425475764006913)
 
-EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？ <a href="https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/russian-oil-flows-but-increasingly-under-the-radar-11650541684</a>
+EU成员不是忙于买俄气就是忙于买俄油：<br>4月份俄罗斯对罗马尼亚、爱沙尼亚、希腊和保加利亚的石油出口量较3月份日均水平增加一倍以上。对最大买家荷兰和芬兰的出口量也大幅上升。<br>27国只差11国没报到了。不知私底下是否到齐了。<br>拜登政府是否将这些信息归于“虚假、错误”之内？<br><br>He Qinglian: 这是最新的彭博社消息，除了标题说的刚参加用 卢布付款的EU成员国之外，总共有10家已经开设了卢布帐户。欧盟成员国一共27个。全员参与恐怕不会，因为波兰一定不能参加，就算通过邻国代购，也不能用卢布付款，让俄罗斯得意。<br> <a href="https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-04-27/four-european-gas-buyers-made-ruble-payments-to-russia</a>
 
 ### 63: [2022-04-28 05:19:55+08:00 推文](https://twitter.com/HeQinglian/status/1519426137671278593)
 
@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。 <a href="https://twitter.com/kingbull199/status/1519672901183500288" target="_blank" rel="noopener noreferrer">https://twitter.com/kingbull199/status/1519672901183500288</a>
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
