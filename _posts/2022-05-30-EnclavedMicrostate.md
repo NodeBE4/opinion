@@ -49,7 +49,7 @@ You can find the roadmap here: https://alt.hololive.tv/news/203/
 
 Basically HoloAlt consists of four sub-projects: 
 
-* HoloEarth, whose alpha test happened a month or two back;
+* HoloEarth, whose (pre?)alpha test happened a month or two back;
 
 * The manga series, of which the Fubuki and Mio-centered series [is being made](https://www.animenewsnetwork.com/news/2022-05-06/goblin-slayer-manga-artist-launches-hololive-virtual-youtuber-fantasy-manga/.185394) though I don't recall if it's just that the translations haven't gone up or if the original Japanese version is still in production;
 
@@ -58,4 +58,10 @@ Basically HoloAlt consists of four sub-projects:
 * The PV from 2021 and one that was slated for this spring but might be delayed.
 
 With the manga, unfortunately there was some disagreement that led to the artist for what would have been a Marine manga quitting, and that seems to have been cancelled outright. As for the other, titled 'Underworld Academy Overload', unfortunately there's been no news there to my knowledge.
+
+### 485: [Renee Picard's Role in Uniting Earth and the Federation](https://old.reddit.com/r/startrekpicard/comments/v0wna9/renee_picards_role_in_uniting_earth_and_the/), submitted on 2022-05-30 17:48:40+08:00.
+
+----- __485.1__ -----2022-05-30 18:13:58+08:00:
+
+It'd take several years to get to Jupiter and back; depending on how quickly WW3 happened the mission might have returned after the nuclear exchange.
 
