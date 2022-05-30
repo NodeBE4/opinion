@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-30
+date: 2022-05-31
 from: https://twitter.com/HeQinglian/status/1530962002088165378
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re @eGUAbe2V7j26GHw 没见美国拜登在转移关注力？过段时期，美欧
 ### 13: [2022-05-30 22:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1531279965517451264)
 
 Re @lee_1819 @qia38243615 @KELMAND1 骂得好。不知是哪个NGO赞助的推号，几块面包就打发了。
+
+### 14: [2022-05-31 04:37:15+08:00 推文](https://twitter.com/HeQinglian/status/1531374201294278658)
+
+李克强5·25讲话透露的三大经济危机<br>第一点是经济发展脱轨，核心是强调财政困难，晓喻地方自行解决；第二是稳定企业。去年企业破产将近1/4，就业与民生艰难；第三是找粮食、能源和产业链供应链。<br>外部将此视为讨习檄文，纯属过度解读。中国有反习势力，但带头大哥绝非李克强。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-05302022145245.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-05302022145245.html</a>
 
