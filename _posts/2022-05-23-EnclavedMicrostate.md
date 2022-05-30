@@ -347,7 +347,7 @@ It's a twofold thing for me of:
 
 A: It's skipping a step – arguably it's possible to do such content responsibly with some kind of clear set of disclaimers or communicated boundaries. At some stage there is a point where the content creator stops being directly responsible for fan behaviour, and for me that's when they formally set some kind of boundary, because transgressing that then becomes on the viewer.
 
-B: Even without that (and this I think is my more controversial take), it implies that at some stage the extremes of viewers' parasocial tendencies are the fault of the content creator, and I would argue that at worst there is a certain mutual responsibility. There is, I will admit, a very blurred line between exploiting and encouraging parasocial behaviour, but for me at least it's hard to hold the creator responsible for unspoken assumptions made by their audience. Maybe this is all very death-of-the-author, but once the content is out there, people experiencing it will end up with their own takes.
+B: Even without that (and this I think is my more controversial take), it implies that at some stage the extremes of viewers' parasocial tendencies are the fault of the content creator, and I would argue that at worst there is a certain mutual responsibility. There is, I will admit, a very blurred line when it comes to exploiting and encouraging parasocial behaviour – also two things in my view – but for me at least it's hard to hold the creator responsible for unspoken assumptions made by their audience. Maybe this is all very death-of-the-author, but once the content is out there, people experiencing it will end up with their own takes.
 
 ----- __478.3__ -----2022-05-30 19:11:19+08:00:
 

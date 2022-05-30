@@ -65,6 +65,12 @@ Basically HoloAlt consists of four sub-projects:
 
 With the manga, unfortunately there was some disagreement that led to the artist for what would have been a Marine manga quitting, and that seems to have been cancelled outright. As for the other, titled 'Underworld Academy Overload', unfortunately there's been no news there to my knowledge.
 
+----- __485.2__ -----2022-05-30 20:15:19+08:00:
+
+Ah, I'd seen an earlier announcement where it said they'd also be hosted on Holonometria, which they don't *seem* to be as far as I can tell, so good catch!
+
+Hang on I did a quick check, and per discussion in [this thread](https://www.reddit.com/r/Hololive/comments/up5alq/where_can_i_read_the_holoalt_manga_i_know_its_up/i8isxne/) Chapter 2 is up in JP, but the reader on Holonometria wasn't finished in time for EN and ID versions.
+
 ### 486: [Renee Picard's Role in Uniting Earth and the Federation](https://old.reddit.com/r/startrekpicard/comments/v0wna9/renee_picards_role_in_uniting_earth_and_the/), submitted on 2022-05-30 17:48:40+08:00.
 
 ----- __486.1__ -----2022-05-30 18:13:58+08:00:
