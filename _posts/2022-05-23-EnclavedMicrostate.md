@@ -315,9 +315,35 @@ Additionally, as amazing as our flair panel is, we should also point out that /r
 
 For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
 
-### 478: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
+### 478: [[Hobby Scuffles] Week of May 30, 2022](https://old.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/), submitted on 2022-05-29 23:00:14+08:00.
 
------ __478.1__ -----2022-05-30 02:54:43+08:00:
+----- __478.1__ -----2022-05-30 15:32:17+08:00:
+
+It's me again, and you know what that means. VTuber drama relating to parts of the fandom I'm not active in outside meta discussion. [Last week](https://www.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/i9bb731/) I talked about Nijisanji's merchandise drama, this week we have fandom drama. As this concerns Luxiem you'll need to read the linked comment to find out who they are if you don't know already; if or when you do know, read on.
+
+So, if Luxiem is NijiEN's big breakout, Vox Akuma is the leader of the pack. His popularity isn't a huge surprise as he's got a good few things going for him: he's part of the first group of English-speaking male talents from a major VTuber agency, and he has an appealing character design, a strong personality on stream, and a south-of-England accent. Unfortunately he seems to have also built up a rather problematic section of his fanbase and a recent incident has led to at least some viewers wanting him to rein them in.
+
+Vox recently did a 'boyfriend ASMR' stream in which at one stage he received a DM from a fellow (female) NijiEN talent, Reimu Endo. This was apparently a cardinal sin on Reimu's part, who was almost immediately harassed on basically every corner of the internet by the more obsessive Vox fans for interrupting his stream. This has led to Reimu cancelling several planned streams in order to take a break. While several other members of NijiEN have at least publicly tweeted to offer support, Vox (as of writing) has not. Moreover, he's scheduled *another* 'boyfriend ASMR' stream which seems like an especially tone-deaf decision. From the discussion that's emerged, it seems like there's been some bubbling discontent over apparently a consistent pattern of Vox not making some attempt to rein in his fans, unlike several of his colleagues, and that this incident is sort of the final straw which pushed several viewers over the line towards stating it openly.
+
+As for my take, I don't really have one. While I agree with the basic premise that Vox ought to take more responsibility for what his fans get up to if he isn't telling them off, the more extreme assertion – that he's deliberately cultivating a toxic fanbase for monetary gain – seems overly cynical for my tastes. Moreover, there are shades of what was often asserted when Hololive's Rushia got in hot water in the roughly two-week gap between the Discord leak on 11 February and her firing: that Rushia's leaning on 'GFE' (girlfriend experience) content had been her own doing and that she was facing the consequences, which is pretty overt victim-blaming. Now in this case accusing Vox of not controlling his fanbase isn't quite the same as he's not the one under attack, but it's still a troubling line of argument.
+
+Subthreads here on the VirtualYoutubers weekly megathread, newest to oldest:
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iai28qr/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iahtvhq/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iahk9y0/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iah43pa/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iah2gbm/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iah21t4/
+
+### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
+
+----- __479.1__ -----2022-05-30 02:54:43+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
