@@ -119,3 +119,13 @@ Beat Box maybe?
 
 I can't find the clip, but per Miko on a MiComet stream she was told to buy koppepan because it doesn't exist in the spirit realm but she's been procrastinating on it.
 
+### 489: [Spam should be removed from the Reddit comment count](https://old.reddit.com/r/ModSupport/comments/v1k8pg/spam_should_be_removed_from_the_reddit_comment/), submitted on 2022-05-31 14:51:36+08:00.
+
+----- __489.1__ -----2022-06-01 00:50:52+08:00:
+
+As a moderator of r/AskHistorians, I believe I speak for everyone on the team when I say that the most tedious aspect of modding this particular sub is dealing with variations on 'where are the comments?' This, ironically, is without a doubt the most frequently asked question on the subreddit.
+
+Because we remove a very high proportion of submitted comments (as a general rule, the only things that stay up are adequate attempts at answering the question), there is almost always a mismatch between the comment count and the actual comments displayed – sometimes dozens or even hundreds – which almost always ends up being met with either indignation or confusion. On some high-activity threads, the *majority* of comments (which themselves have to be removed) are asking where the comments are, and I do not exaggerate when I say we get almost daily modmails asking about why the comment count doesn't correspond to the actual number of visible comments on a given question or just in general. This reached a stage where one enterprising user voluntarily created a browser extension for Firefox and Chrome that added a count of non-removed, non-distinguished comments in brackets next to the displayed count for anyone who wanted it, but the limitation is of course you wouldn't have that running before you came across the sub.
+
+To put it in brief, the comment count mismatch has been one of the longest-running issues with running the sub as it very easily trips up new users who expect to see considerably more content than is actually present and then inadvertently contribute to the problem, and changing it to show the number of actually visible comments would help a lot with that issue.
+
