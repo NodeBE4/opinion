@@ -71,3 +71,15 @@ Re @lee_1819 @qia38243615 @KELMAND1 骂得好。不知是哪个NGO赞助的推�
 
 李克强5·25讲话透露的三大经济危机<br>第一点是经济发展脱轨，核心是强调财政困难，晓喻地方自行解决；第二是稳定企业。去年企业破产将近1/4，就业与民生艰难；第三是找粮食、能源和产业链供应链。<br>外部将此视为讨习檄文，纯属过度解读。中国有反习势力，但带头大哥绝非李克强。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-05302022145245.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-05302022145245.html</a>
 
+### 15: [2022-05-31 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1531613277838622721)
+
+The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎” <a href="https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm</a>
+
+### 16: [2022-05-31 20:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1531614188136763392)
+
+Re @JianglinLi @ngexp @RealBeiMing @EpochTimes 我到目前为止，除了拜登想在中期选举拉抬人气这个未能实现的目标之外，西媒抱怨的这些问题（我们正在承受），哪样出人意外？一开头就有不少人想到并指出。<br>奈何西方政客们的不以民生为念，现在撞到南墙也不回头。<br>华乌粉少来乱喷，你们愿意付代价，只因不需要付。
+
+### 17: [2022-05-31 20:37:14+08:00 推文](https://twitter.com/HeQinglian/status/1531615785730416640)
+
+Re @seadognw OMG，寻找并定位谁是头号敌人，变得太快，一大票华人拜乌粉来不及脑筋急转弯啊。<br>不是刚由拜登宣示过是俄罗斯，这个敌人还没收拾完，武器还在路上，美欧联军还未得胜还朝，又将原来的“第一统战对象”变成“第一敌人”？<br>看来是李克强总理不肯当反习“带头大哥”，只能由美国国务卿宣示拜登将御驾亲征了。🤣
+
