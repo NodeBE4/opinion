@@ -129,3 +129,7 @@ Because we remove a very high proportion of submitted comments (as a general rul
 
 To put it in brief, the comment count mismatch has been one of the longest-running issues with running the sub as it very easily trips up new users who expect to see considerably more content than is actually present and then inadvertently contribute to the problem, and changing it to show the number of actually visible comments would help a lot with that issue.
 
+----- __489.2__ -----2022-06-01 01:59:48+08:00:
+
+Only if a comment has been replied to before it was removed. While large chains that get nuked will have [removed] indicators, if it's a situation where a lot of top-levels get removed, then you end up with blank space.
+

@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-05-31
+date: 2022-06-01
 from: https://twitter.com/HeQinglian/status/1530962002088165378
 layout: post
 tags:
@@ -73,7 +73,7 @@ Re @lee_1819 @qia38243615 @KELMAND1 骂得好。不知是哪个NGO赞助的推�
 
 ### 15: [2022-05-31 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1531613277838622721)
 
-The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>jiang shangrong: 观察英报The Telegraph报道演化很有趣<br>2月24日:普京血腥统治走到头了<br>4月3日:俄将输掉这场西方主打的游戏<br>5月12日:战胜普京我们须付出高昂代价。<br>5月26日:马上!普京将取得惊人胜利<br><br>现有人预测10月1日新闻:<br>莫斯科塔吉克工头用铁锹殴打美国和波兰打工仔,高喊:“干活外地人!莫斯科是莫斯科人的莫斯科!”😂<br><br><img style="" src="https://pbs.twimg.com/media/FUBxfLvWIAEUz4I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎” <a href="https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm</a>
 
 ### 16: [2022-05-31 20:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1531614188136763392)
 
@@ -82,4 +82,12 @@ Re @JianglinLi @ngexp @RealBeiMing @EpochTimes 我到目前为止，除了拜登
 ### 17: [2022-05-31 20:37:14+08:00 推文](https://twitter.com/HeQinglian/status/1531615785730416640)
 
 Re @seadognw OMG，寻找并定位谁是头号敌人，变得太快，一大票华人拜乌粉来不及脑筋急转弯啊。<br>不是刚由拜登宣示过是俄罗斯，这个敌人还没收拾完，武器还在路上，美欧联军还未得胜还朝，又将原来的“第一统战对象”变成“第一敌人”？<br>看来是李克强总理不肯当反习“带头大哥”，只能由美国国务卿宣示拜登将御驾亲征了。🤣
+
+### 18: [2022-06-01 01:54:00+08:00 推文](https://twitter.com/HeQinglian/status/1531695504224047109)
+
+Re @Wu_Zhi 着啥急呢？如今是“一万年太久，只争朝夕”，算来俄乌开战才三个月，美国自认的最大威胁已经从俄罗斯成了中国，2022年底才禁止从俄罗斯进口Gas，还有半年，要变几变的。
+
+### 19: [2022-06-01 01:56:44+08:00 推文](https://twitter.com/HeQinglian/status/1531696193805459457)
+
+Re @Wu_Zhi 如今的战争成了这样：先找个头号敌人，地面战、信息战火力全开，先赢信息战，地面战失利，就立刻寻找下一个头号敌人。<br>打不赢就跑。
 
