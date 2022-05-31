@@ -19,3 +19,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 In our latest in the CMP Dictionary, read up on "discourse power" (话语权) -- its past and its very important present. <a href="https://chinamediaproject.org/the_ccp_dictionary/discourse-power/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/discourse-power/</a><br><img style="" src="https://pbs.twimg.com/media/FUEYkihacAAG4Vq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 2: [2022-05-31 17:14:29+08:00 推文](https://twitter.com/cnmediaproject/status/1531564763440115712)
+
+Paper Trails in the Digital Age: a reflection on the demise of China Computerworld, an early media pioneer in the reform and opening period. <a href="https://chinamediaproject.org/2022/05/31/paper-trails/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/05/31/paper-trails/</a><br><img style="" src="https://pbs.twimg.com/media/FUE2BU3acAEOokC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
