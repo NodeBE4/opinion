@@ -377,6 +377,10 @@ But *then* he *actually* apologised, addressing the concerns, *retracting his bl
 
 I was wondering if anyone was not going to be fully convinced. I myself don't want to be so cynical that I would consider him to have been pressured by management or by colleagues to essentially 'redo' the apology, but I do think it's concerning that he stuck to his guns for as long as he did (that being, er, about 24 hours to be 'fair').
 
+----- __478.6__ -----2022-05-31 13:56:08+08:00:
+
+Yeah 24 hours is definitely faster than some contrite turnarounds I've seen. But jumping to pulling your friend out from under the bus to throw them under an express train as your first reaction – before even making a statement on Twitter for instance – is a horrendous look.
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:
