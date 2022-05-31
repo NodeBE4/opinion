@@ -37,11 +37,11 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 6: [2022-02-08 03:18:47+08:00 推文](https://twitter.com/realcaixia/status/1490767012519460866)
 
-这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/HKokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/HKokbore/status/1490385249548779528</a>
+这照片中的各位女士，她的父亲、她的儿子，她的丈夫，她的哥哥弟弟………，他们在哪里？这个家族的男人们在哪里？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 震惊，这家的男人哪里去了？<br>这张照片反映新疆集中营的残酷程度！<br><br>环时没有想到这张照片折射出来的问题，大外宣也有失足的时候。<br> <a href="https://twitter.com/hkokbore/status/1490385249548779528" target="_blank" rel="noopener noreferrer">https://twitter.com/hkokbore/status/1490385249548779528</a>
 
 ### 7: [2022-02-08 10:42:08+08:00 推文](https://twitter.com/realcaixia/status/1490878583845240832)
 
-徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。<br><br>Jim Scolt: 李萤亲叔叔写的可信度比他们三次的调查要靠谱<br><br><img style="" src="https://pbs.twimg.com/media/FLBLYQWVQAIFINn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+徐州丰县八孩妈妈被锁女的亲叔叔的亲笔信。 <a href="https://twitter.com/scoltjim/status/1490774364412776449" target="_blank" rel="noopener noreferrer">https://twitter.com/scoltjim/status/1490774364412776449</a>
 
 ### 8: [2022-02-09 12:50:25+08:00 推文](https://twitter.com/realcaixia/status/1491273254786695169)
 
@@ -97,7 +97,7 @@ Re @lunanweiyi 我们不能忘记李文亮医生。如果不是极权当局剥�
 
 ### 21: [2022-02-13 01:00:31+08:00 推文](https://twitter.com/realcaixia/status/1492544153892364293)
 
-不忍卒睹，但必须要转推！要让更多的人知道发生在中共国的骇人罪恶。<br><br>极权统治集团迫害政治异见人士、迫害信访民众，他们的监视器极为好用，他们不惜投入巨大的财政资金、巨大的人力物力；但他们对公开发生的暴力犯罪事件却视而不见。他们就是罪犯的同伙，他们就是罪犯。 <a href="https://twitter.com/tangfu1/status/1492349669548118016" target="_blank" rel="noopener noreferrer">https://twitter.com/tangfu1/status/1492349669548118016</a>
+不忍卒睹，但必须要转推！要让更多的人知道发生在中共国的骇人罪恶。<br><br>极权统治集团迫害政治异见人士、迫害信访民众，他们的监视器极为好用，他们不惜投入巨大的财政资金、巨大的人力物力；但他们对公开发生的暴力犯罪事件却视而不见。他们就是罪犯的同伙，他们就是罪犯。 <a href="https://twitter.com/Tangfu1/status/1492349669548118016" target="_blank" rel="noopener noreferrer">https://twitter.com/Tangfu1/status/1492349669548118016</a>
 
 ### 22: [2022-02-13 03:45:34+08:00 推文](https://twitter.com/realcaixia/status/1492585692995670020)
 

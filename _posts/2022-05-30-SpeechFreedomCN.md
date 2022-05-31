@@ -27,3 +27,11 @@ Jilin man Zhang detained for 14 days for posting "inappropriate remarks" on Douy
 
 Re @changwei1006 @williamlong 这是五年前的事情了，已经发过了，多谢支持。<br><img style="" src="https://pbs.twimg.com/media/FUCzXbqWYAENBbZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-05-31 12:44:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1531496693467713536)
+
+广东省东莞市男子屈某，因将一条“涉及诋毁中国共产党、辱骂国家领导人不良言论的虚假信息”，发布到多个微信群，于2019年12月被刑拘，当月被批捕。警方将其刑拘三个月后，因其情节轻微，决定不予起诉。<br><img style="" src="https://pbs.twimg.com/media/FUCzm1yXoAAOCwO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-05-31 12:46:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1531497196960505857)
+
+Guangdong man Qu who sent one piece of message that "Slandered the Chinese Communist Party and insulted state leaders" in multiple groups in WeChat, arrested in Dec 2019. After 3 months of detention, the case was dropped for his act did not constitute a criminal offense.<br><img style="" src="https://pbs.twimg.com/media/FUC0yomWQAEjKIm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

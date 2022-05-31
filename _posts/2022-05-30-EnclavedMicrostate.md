@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-30
+date: 2022-05-31
 from: https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/
 layout: post
 tags:
@@ -106,4 +106,10 @@ Hang on I did a quick check, and per discussion in [this thread](https://www.red
 ----- __486.1__ -----2022-05-30 18:13:58+08:00:
 
 It'd take several years to get to Jupiter and back; depending on how quickly WW3 happened the mission might have returned after the nuclear exchange.
+
+### 487: [Mechanic Maniac Maiden - Weekly Discussion Thread, May 30th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/), submitted on 2022-05-31 00:30:48+08:00.
+
+----- __487.1__ -----2022-05-31 12:33:05+08:00:
+
+Beat Box maybe?
 
