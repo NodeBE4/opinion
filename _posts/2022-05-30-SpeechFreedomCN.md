@@ -23,3 +23,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-05-30~2022-06-05'
 
 Jilin man Zhang detained for 14 days for posting "inappropriate remarks" on Douyin, the Chinese edition of TikTok. His exact remarks remain unknown.<br><img style="" src="https://pbs.twimg.com/media/FUCyu1mWUAAGcxt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-05-31 09:43:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1531451143322226688)
+
+Re @changwei1006 @williamlong 这是五年前的事情了，已经发过了，多谢支持。<br><img style="" src="https://pbs.twimg.com/media/FUCzXbqWYAENBbZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
