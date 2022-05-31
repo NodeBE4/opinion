@@ -49,11 +49,11 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
@@ -85,7 +85,7 @@ RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, 
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
-RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style="" src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yang Liu<br>Ma Xingrui replaces Chen Quanguo as Xinjiang chief<br><img style src="https://pbs.twimg.com/media/FHcLsdeVIAYQZpT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-26 20:19:00+08:00 推文](https://twitter.com/PM_Thornton/status/1475078690933460994)
 

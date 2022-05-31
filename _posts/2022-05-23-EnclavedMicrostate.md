@@ -381,6 +381,10 @@ I was wondering if anyone was not going to be fully convinced. I myself don't wa
 
 Yeah 24 hours is definitely faster than some contrite turnarounds I've seen. But jumping to pulling your friend out from under the bus to throw them under an express train as your first reaction – before even making a statement on Twitter for instance – is still a horrendous look, however quickly you recognise your mistake and retract it. Still, I'm glad he did make an attempt in the end.
 
+----- __478.7__ -----2022-05-31 21:19:43+08:00:
+
+I dunno. I'm not sure I've ever seen this line of argument used for ASMR roleplay channels, not to say they don't exist of course, I may well just have missed the discourse on it. Is there just something qualitatively different when a more variety-focussed content creator does it, or is it just that that's also widely regarded as problematic and I just haven't seen the critiques?
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:
