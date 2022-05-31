@@ -49,6 +49,12 @@ In short, there was theory, and there was practice, and the supposed meritocracy
 
 * R. Kent Guy, *Qing Governors and Their Provinces: The Evolution of Territorial Administration in China, 1644–1796* (2010)
 
+----- __481.3__ -----2022-05-31 11:37:21+08:00:
+
+In practical terms, the Qing are the only imperial state whose archives still exist in relatively complete form. It had been traditional, after the completion of an official history by a later state, to destroy the archives on which that history was based, and so the surviving materials for any pre-Qing state largely do not consist of archival sources in the conventional sense. Historical writings, both state-sponsored and private, as well as simply whatever other sources from the periods in question survive, serve as the basis for any kind of serious writing. The Qing situation is different because there is a surviving state archive as nobody destroyed it, but it is essentially split in half between Taipei and Beijing. The Manchu archive in particular is located almost entirely at the latter.
+
+As I'm not a professional in this field I don't have particularly good knowledge on archival accessibility, especially in Beijing, but it's the sort of thing that can go back and forth. Scholars often aren't necessarily barred from access, although I believe large sections of the Manchu archive in Beijing have been cut off for a while in order to produce a compilation of translated Chinese editions. This is compounded by my principal area of focus, the Taiping Heavenly Kingdom, being one which can require essentially no archival work depending on one's focus, as the majority of the kingdom's own documentary output has long been compiled into edited compendia along with key works on the Qing side, while European published sources are easily accessible via the public domain.
+
 ### 482: [That last step...](https://old.reddit.com/r/DiWHY/comments/v0mifh/that_last_step/), submitted on 2022-05-30 06:54:52+08:00.
 
 ----- __482.1__ -----2022-05-30 19:30:11+08:00:

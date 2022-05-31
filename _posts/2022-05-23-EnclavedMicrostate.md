@@ -353,6 +353,30 @@ B: Even without that (and this I think is my more controversial take), it implie
 
 Sure, I think your take is a perfectly valid one. And indeed /u/adaarable's too. We're coming at this from quite distinct first principles about the relationship between creators and audience, and that is leading us to quite evidently irreconcilable conclusions.
 
+----- __478.4__ -----2022-05-31 11:12:36+08:00:
+
+Update to [the NijiEN drama](https://www.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/iairldp/?context=3) that I mentioned, gosh, less than 24 hours ago (but long enough ago that I thought the update warranted a new post):
+
+Vox 'apologised' once and it went over *badly* to the point where it seems like a lot of the fence-sitters were pushed over the fence *against* him (you can find a transcript of his first statement, in which he, uh, cast a portion of the blame *at Reimu* [here](https://threadreaderapp.com/thread/1531360212153733121.html)):
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/ial2b4l/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iakvuzf/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iakqmur/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iakdiyj/
+
+But *then* he *actually* apologised, addressing the concerns, *retracting his blaming of Reimu* (god was that a dumb take), and committing to setting boundaries going forward, so hopefully (?) that marks not only the end of this drama but the beginning of the end of the impetus behind it.
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iamcwfb/
+
+* https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iam73vk/
+
+----- __478.5__ -----2022-05-31 11:25:15+08:00:
+
+I was wondering if anyone was not going to be fully convinced. I myself don't want to be so cynical that I would consider him to have been pressured by management or by colleagues to essentially 'redo' the apology, but I do think it's concerning that he stuck to his guns for as long as he did (that being, er, about 24 hours to be 'fair').
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:
