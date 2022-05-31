@@ -113,3 +113,9 @@ It'd take several years to get to Jupiter and back; depending on how quickly WW3
 
 Beat Box maybe?
 
+### 488: [The Forbidden Words (Translated) [ODOC]](https://old.reddit.com/r/Hololive/comments/v1f8z2/the_forbidden_words_translated_odoc/), submitted on 2022-05-31 09:46:04+08:00.
+
+----- __488.1__ -----2022-05-31 19:31:53+08:00:
+
+I can't find the clip, but per Miko on a MiComet stream she was told to buy koppepan because it doesn't exist in the spirit realm but she's been procrastinating on it.
+
