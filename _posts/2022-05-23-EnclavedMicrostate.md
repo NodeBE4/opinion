@@ -489,6 +489,10 @@ Eurgh, sounds unpleasant.
 
 You sure it was this sub? I had a check using camas Reddit search and he doesn't seem to have been mentioned here before outside of this conversation.
 
+----- __478.23__ -----2022-06-02 01:00:18+08:00:
+
+Might it have been [this thread](https://www.reddit.com/r/SubredditDrama/comments/hf8mit/the_atomic_division_in_the_fallout_community/) on SubredditDrama?
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:

@@ -335,6 +335,10 @@ As for translated works, nearly the entire corpus of then-extant Taiping documen
 
 No problem! I would stress that the last two books on there need to be read with a grain of salt, as both are attempts – for differing reasons – to dispel the notion of the Taiping as 'real' Christians. Shih's main focus is locating Confucian influences in Taiping policies and manifestoes, while Boardman, a practicing Quaker, saw the Taiping's ostensible Old Testament focus and general violence as disqualifying them from his personal, denominationally-influenced definition of Christianity. Kilcourse, Reilly, and Wagner offer more rounded views.
 
+----- __331.3__ -----2022-06-02 00:56:26+08:00:
+
+God's Chinese Son is the one for the Taiping; Gate of Heavenly Peace is an overview of the 20th century.
+
 ### 332: [What's up with the lockdown in Shanghai?](https://old.reddit.com/r/OutOfTheLoop/comments/u0coj4/whats_up_with_the_lockdown_in_shanghai/), submitted on 2022-04-10 15:34:21+08:00.
 
 ----- __332.1__ -----2022-04-11 02:54:07+08:00:
