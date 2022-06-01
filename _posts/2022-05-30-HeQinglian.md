@@ -73,7 +73,7 @@ Re @lee_1819 @qia38243615 @KELMAND1 骂得好。不知是哪个NGO赞助的推�
 
 ### 15: [2022-05-31 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1531613277838622721)
 
-The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎” <a href="https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm</a>
+The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>jiang shangrong: 观察英报The Telegraph报道演化很有趣<br>2月24日:普京血腥统治走到头了<br>4月3日:俄将输掉这场西方主打的游戏<br>5月12日:战胜普京我们须付出高昂代价。<br>5月26日:马上!普京将取得惊人胜利<br><br>现有人预测10月1日新闻:<br>莫斯科塔吉克工头用铁锹殴打美国和波兰打工仔,高喊:“干活外地人!莫斯科是莫斯科人的莫斯科!”😂<br><br><img style="" src="https://pbs.twimg.com/media/FUBxfLvWIAEUz4I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-05-31 20:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1531614188136763392)
 
@@ -102,4 +102,16 @@ Re @realTaoRay DC的居民不是在联邦政府工作，就是各种NGO就业，
 ### 22: [2022-06-01 10:11:54+08:00 推文](https://twitter.com/HeQinglian/status/1531820805591650305)
 
 上海迎来解封<br>上海准备解除实施了两个多月的封控，此前该市已连续四天无新增新冠死亡病例，且新增感染病例已降至3月初以来的最低水平 <a href="https://cn.wsj.com/articles/%E4%B8%8A%E6%B5%B7%E8%BF%8E%E6%9D%A5%E8%A7%A3%E5%B0%81-11654048507" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E4%B8%8A%E6%B5%B7%E8%BF%8E%E6%9D%A5%E8%A7%A3%E5%B0%81-11654048507</a>
+
+### 23: [2022-06-01 20:25:46+08:00 推文](https://twitter.com/HeQinglian/status/1531975290875944961)
+
+Re @fading_you1 除了煲仔饭，我们这里什么都有，但除了肠粉新鲜，可买回自己炒，其余都差了点成色。<br>小笼包与水煎包这有上海绿杨村牌的，做得不错（主要是馅比较正宗，非粤港口味），可以买回自己加工。<br>海鲜品种多买回自己加工。云吞可自己调馅包，这我也是上海口味，鸡汤馄饨。要说方便省时间，香港、台湾食店最多。
+
+### 24: [2022-06-01 20:40:24+08:00 推文](https://twitter.com/HeQinglian/status/1531978974473162755)
+
+Re @zt33268778 这个家族的人，除了从政，不会干点别的？<br>这位当年与中国的关系很近，多年前曾代中国出面购买美国某石油公司股份——媒体揭露后，没了下文。
+
+### 25: [2022-06-01 20:42:53+08:00 推文](https://twitter.com/HeQinglian/status/1531979597239263233)
+
+Re @fading_you1 我的感觉是近十五年来逐渐变好。现在还有中国人的农场专种中国蔬菜，加上亚洲超市（日、韩等），商店很密集，离我家半小时车程外，有三家超大规模的，各有特点。
 
