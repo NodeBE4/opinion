@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-05-31
+date: 2022-06-01
 from: https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/
 layout: post
 tags:
@@ -13,19 +13,19 @@ title: EnclavedMicrostate在2022-05-30~2022-06-05的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 480: [With all the talk of the 2nd Amendment and its intent, can you cite either a regime that was repulsed by a well armed general population, or a regime that may not have come to power if there had been a well armed general population?](https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/), submitted on 2022-05-30 00:51:12+08:00.
+### 481: [With all the talk of the 2nd Amendment and its intent, can you cite either a regime that was repulsed by a well armed general population, or a regime that may not have come to power if there had been a well armed general population?](https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/), submitted on 2022-05-30 00:51:12+08:00.
 
------ __480.1__ -----2022-05-30 02:54:33+08:00:
+----- __481.1__ -----2022-05-30 02:54:33+08:00:
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 481: [I'm a new civil servant in the Chinese Imperial government. How do I figure out what it is I will be doing?](https://old.reddit.com/r/AskHistorians/comments/v0hhao/im_a_new_civil_servant_in_the_chinese_imperial/), submitted on 2022-05-30 02:40:18+08:00.
+### 482: [I'm a new civil servant in the Chinese Imperial government. How do I figure out what it is I will be doing?](https://old.reddit.com/r/AskHistorians/comments/v0hhao/im_a_new_civil_servant_in_the_chinese_imperial/), submitted on 2022-05-30 02:40:18+08:00.
 
------ __481.1__ -----2022-05-30 17:32:00+08:00:
+----- __482.1__ -----2022-05-30 17:32:00+08:00:
 
 You've covered a lot of material here, although one item that I'd wished you'd gone into more detail on was on the appointment process for those who had entered the civil service through examinations. This is something that's always been somewhat murky to me, as from what I know positions at the provincial and viceroyalty level were assigned by lot by the Board of Civil Appointments, but I have never found if more junior magistracies – not to mention appointments to the Six Boards – were also handled this way. Would you be able to offer any insights on that?
 
------ __481.2__ -----2022-05-31 00:02:02+08:00:
+----- __482.2__ -----2022-05-31 00:02:02+08:00:
 
 I had begun a bit of an answer before /u/SettingCool8239 posted theirs, but hit a bit of a snag in that I was having trouble getting good, hard information on the appointment methods used, specifically under the Qing which is my period of speciality. Since then I've managed to dig up some material that goes into more detail – as well as find detail in some works that I'd already known about – and so this answer is largely a small supplement to that focussing solely on the matter of selections for appointment.
 
@@ -49,27 +49,27 @@ In short, there was theory, and there was practice, and the supposed meritocracy
 
 * R. Kent Guy, *Qing Governors and Their Provinces: The Evolution of Territorial Administration in China, 1644–1796* (2010)
 
------ __481.3__ -----2022-05-31 11:37:21+08:00:
+----- __482.3__ -----2022-05-31 11:37:21+08:00:
 
 In practical terms, the Qing are the only imperial state whose archives still exist in relatively complete form. It had been traditional, after the completion of an official history by a later state, to destroy the archives on which that history was based, and so the surviving materials for any pre-Qing state largely do not consist of archival sources in the conventional sense. Historical writings, both state-sponsored and private, as well as simply whatever other sources from the periods in question survive, serve as the basis for any kind of serious writing. The Qing situation is different because there is a surviving state archive as nobody destroyed it, but it is essentially split in half between Taipei and Beijing. The Manchu archive in particular is located almost entirely at the latter.
 
 As I'm not a professional in this field I don't have particularly good knowledge on archival accessibility, especially in Beijing, but it's the sort of thing that can go back and forth. Scholars often aren't necessarily barred from access, although I believe large sections of the Manchu archive in Beijing have been cut off for a while in order to produce a compilation of translated Chinese editions. This is compounded by my principal area of focus, the Taiping Heavenly Kingdom, being one which can require essentially no archival work depending on one's focus, as the majority of the kingdom's own documentary output has long been compiled into edited compendia along with key works on the Qing side, while European published sources are easily accessible via the public domain.
 
-### 482: [That last step...](https://old.reddit.com/r/DiWHY/comments/v0mifh/that_last_step/), submitted on 2022-05-30 06:54:52+08:00.
+### 483: [That last step...](https://old.reddit.com/r/DiWHY/comments/v0mifh/that_last_step/), submitted on 2022-05-30 06:54:52+08:00.
 
------ __482.1__ -----2022-05-30 19:30:11+08:00:
+----- __483.1__ -----2022-05-30 19:30:11+08:00:
 
 Check out [LADB Restoration](https://www.youtube.com/channel/UC8AvcEE8l8mHs-rZTXoynVQ) too; they specialise mainly in agricultural tools.
 
-### 483: [How do you think todays capital cities such as Washington, Berlin, Paris, and London will be seen in thousands of years by future generations after the countries will eventually collapse? Do you think they will be treated similar to how Rome or Constantinople are treated today?](https://old.reddit.com/r/AskHistorians/comments/v0qhj0/how_do_you_think_todays_capital_cities_such_as/), submitted on 2022-05-30 10:48:10+08:00.
+### 484: [How do you think todays capital cities such as Washington, Berlin, Paris, and London will be seen in thousands of years by future generations after the countries will eventually collapse? Do you think they will be treated similar to how Rome or Constantinople are treated today?](https://old.reddit.com/r/AskHistorians/comments/v0qhj0/how_do_you_think_todays_capital_cities_such_as/), submitted on 2022-05-30 10:48:10+08:00.
 
------ __483.1__ -----2022-05-30 11:04:39+08:00:
+----- __484.1__ -----2022-05-30 11:04:39+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 484: [what does the term Freebooters mean?](https://old.reddit.com/r/AskHistorians/comments/v0qkye/what_does_the_term_freebooters_mean/), submitted on 2022-05-30 10:54:08+08:00.
+### 485: [what does the term Freebooters mean?](https://old.reddit.com/r/AskHistorians/comments/v0qkye/what_does_the_term_freebooters_mean/), submitted on 2022-05-30 10:54:08+08:00.
 
------ __484.1__ -----2022-05-30 11:04:47+08:00:
+----- __485.1__ -----2022-05-30 11:04:47+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -77,9 +77,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 485: [What actually happened to Hololive Alternative?](https://old.reddit.com/r/Hololive/comments/v0qqyt/what_actually_happened_to_hololive_alternative/), submitted on 2022-05-30 11:04:15+08:00.
+### 486: [What actually happened to Hololive Alternative?](https://old.reddit.com/r/Hololive/comments/v0qqyt/what_actually_happened_to_hololive_alternative/), submitted on 2022-05-30 11:04:15+08:00.
 
------ __485.1__ -----2022-05-30 11:14:04+08:00:
+----- __486.1__ -----2022-05-30 11:14:04+08:00:
 
 You can find the roadmap here: https://alt.hololive.tv/news/203/
 
@@ -95,33 +95,33 @@ Basically HoloAlt consists of four sub-projects:
 
 With the manga, unfortunately there was some disagreement that led to the artist for what would have been a Marine manga quitting, and that seems to have been cancelled outright. As for the other, titled 'Underworld Academy Overload', unfortunately there's been no news there to my knowledge.
 
------ __485.2__ -----2022-05-30 20:15:19+08:00:
+----- __486.2__ -----2022-05-30 20:15:19+08:00:
 
 Ah, I'd seen an earlier announcement where it said they'd also be hosted on Holonometria, which they don't *seem* to be as far as I can tell, so good catch!
 
 Hang on I did a quick check, and per discussion in [this thread](https://www.reddit.com/r/Hololive/comments/up5alq/where_can_i_read_the_holoalt_manga_i_know_its_up/i8isxne/) Chapter 2 is up in JP, but the reader on Holonometria wasn't finished in time for EN and ID versions.
 
-### 486: [Renee Picard's Role in Uniting Earth and the Federation](https://old.reddit.com/r/startrekpicard/comments/v0wna9/renee_picards_role_in_uniting_earth_and_the/), submitted on 2022-05-30 17:48:40+08:00.
+### 487: [Renee Picard's Role in Uniting Earth and the Federation](https://old.reddit.com/r/startrekpicard/comments/v0wna9/renee_picards_role_in_uniting_earth_and_the/), submitted on 2022-05-30 17:48:40+08:00.
 
------ __486.1__ -----2022-05-30 18:13:58+08:00:
+----- __487.1__ -----2022-05-30 18:13:58+08:00:
 
 It'd take several years to get to Jupiter and back; depending on how quickly WW3 happened the mission might have returned after the nuclear exchange.
 
-### 487: [Mechanic Maniac Maiden - Weekly Discussion Thread, May 30th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/), submitted on 2022-05-31 00:30:48+08:00.
+### 488: [Mechanic Maniac Maiden - Weekly Discussion Thread, May 30th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/), submitted on 2022-05-31 00:30:48+08:00.
 
------ __487.1__ -----2022-05-31 12:33:05+08:00:
+----- __488.1__ -----2022-05-31 12:33:05+08:00:
 
 Beat Box maybe?
 
-### 488: [The Forbidden Words (Translated) [ODOC]](https://old.reddit.com/r/Hololive/comments/v1f8z2/the_forbidden_words_translated_odoc/), submitted on 2022-05-31 09:46:04+08:00.
+### 489: [The Forbidden Words (Translated) [ODOC]](https://old.reddit.com/r/Hololive/comments/v1f8z2/the_forbidden_words_translated_odoc/), submitted on 2022-05-31 09:46:04+08:00.
 
------ __488.1__ -----2022-05-31 19:31:53+08:00:
+----- __489.1__ -----2022-05-31 19:31:53+08:00:
 
 I can't find the clip, but per Miko on a MiComet stream she was told to buy koppepan because it doesn't exist in the spirit realm but she's been procrastinating on it.
 
-### 489: [Spam should be removed from the Reddit comment count](https://old.reddit.com/r/ModSupport/comments/v1k8pg/spam_should_be_removed_from_the_reddit_comment/), submitted on 2022-05-31 14:51:36+08:00.
+### 490: [Spam should be removed from the Reddit comment count](https://old.reddit.com/r/ModSupport/comments/v1k8pg/spam_should_be_removed_from_the_reddit_comment/), submitted on 2022-05-31 14:51:36+08:00.
 
------ __489.1__ -----2022-06-01 00:50:52+08:00:
+----- __490.1__ -----2022-06-01 00:50:52+08:00:
 
 As a moderator of r/AskHistorians, I believe I speak for everyone on the team when I say that the most tedious aspect of modding this particular sub is dealing with variations on 'where are the comments?' This, ironically, is without a doubt the most frequently asked question on the subreddit.
 
@@ -129,11 +129,17 @@ Because we remove a very high proportion of submitted comments (as a general rul
 
 To put it in brief, the comment count mismatch has been one of the longest-running issues with running the sub as it very easily trips up new users who expect to see considerably more content than is actually present and then inadvertently contribute to the problem, and changing it to show the number of actually visible comments would help a lot with that issue.
 
------ __489.2__ -----2022-06-01 01:59:48+08:00:
+----- __490.2__ -----2022-06-01 01:59:48+08:00:
 
 Only if a comment has been replied to before it was removed. While large chains that get nuked will have [removed] indicators, if it's a situation where a lot of top-levels get removed, then you end up with blank space.
 
------ __489.3__ -----2022-06-01 11:17:30+08:00:
+----- __490.3__ -----2022-06-01 11:17:30+08:00:
 
 We could, but there are only two pinned posts available which we use for megathreads and rotating feature posts, so it'd mean getting rid of other things in the process. That said, we have an Automod sticky on every thread in which we could put some kind of explanation.
+
+### 491: [It still cracks me up that Civ IV's image for the "Modern Era" is... a digital travel alarm clock?](https://old.reddit.com/r/civ/comments/v2if0g/it_still_cracks_me_up_that_civ_ivs_image_for_the/), submitted on 2022-06-01 22:34:50+08:00.
+
+----- __491.1__ -----2022-06-02 02:43:07+08:00:
+
+I think it's worth noting that what historians term the 'modern' era can vary, but in general the period 1400-1800ish tends to be termed the Early Modern era which is not modern and isn't necessarily to be framed as a precursor to the modern era but which we end up calling that anyway.
 

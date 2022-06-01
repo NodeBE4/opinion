@@ -315,9 +315,15 @@ Additionally, as amazing as our flair panel is, we should also point out that /r
 
 For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
 
-### 478: [[Hobby Scuffles] Week of May 30, 2022](https://old.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/), submitted on 2022-05-29 23:00:14+08:00.
+### 478: [Fun and Exciting Opportunities Await You! • The /r/AskHistorians Flair Application Thread XXIV](https://old.reddit.com/r/AskHistorians/comments/v0aqc2/fun_and_exciting_opportunities_await_you_the/), submitted on 2022-05-29 21:02:22+08:00.
 
------ __478.1__ -----2022-05-30 15:32:17+08:00:
+----- __478.1__ -----2022-06-02 02:02:32+08:00:
+
+Follow-up from the previous thread to /u/MrAvoidance3000: Approved! Welcome to the panel.
+
+### 479: [[Hobby Scuffles] Week of May 30, 2022](https://old.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/), submitted on 2022-05-29 23:00:14+08:00.
+
+----- __479.1__ -----2022-05-30 15:32:17+08:00:
 
 It's me again, and you know what that means. VTuber drama relating to parts of the fandom I'm not active in outside meta discussion. [Last week](https://www.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/i9bb731/) I talked about Nijisanji's merchandise drama, this week we have fandom drama. As this concerns Luxiem you'll need to read the linked comment to find out who they are if you don't know already; if or when you do know, read on.
 
@@ -341,7 +347,7 @@ Subthreads here on the VirtualYoutubers weekly megathread, newest to oldest:
 
 * https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iah21t4/
 
------ __478.2__ -----2022-05-30 17:37:44+08:00:
+----- __479.2__ -----2022-05-30 17:37:44+08:00:
 
 It's a twofold thing for me of:
 
@@ -349,11 +355,11 @@ A: It's skipping a step – arguably it's possible to do such content responsibl
 
 B: Even without that (and this I think is my more controversial take), it implies that at some stage the extremes of viewers' parasocial tendencies are the fault of the content creator, and I would argue that at worst there is a certain mutual responsibility. There is, I will admit, a very blurred line when it comes to exploiting and encouraging parasocial behaviour – also two things in my view – but for me at least it's hard to hold the creator responsible for unspoken assumptions made by their audience. Maybe this is all very death-of-the-author, but once the content is out there, people experiencing it will end up with their own takes.
 
------ __478.3__ -----2022-05-30 19:11:19+08:00:
+----- __479.3__ -----2022-05-30 19:11:19+08:00:
 
 Sure, I think your take is a perfectly valid one. And indeed /u/adaarable's too. We're coming at this from quite distinct first principles about the relationship between creators and audience, and that is leading us to quite evidently irreconcilable conclusions.
 
------ __478.4__ -----2022-05-31 11:12:36+08:00:
+----- __479.4__ -----2022-05-31 11:12:36+08:00:
 
 Update to [the NijiEN drama](https://www.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/iairldp/?context=3) that I mentioned, gosh, less than 24 hours ago (but long enough ago that I thought the update warranted a new post):
 
@@ -373,67 +379,67 @@ But *then* he *actually* apologised, addressing the concerns, *retracting his bl
 
 * https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iam73vk/
 
------ __478.5__ -----2022-05-31 11:25:15+08:00:
+----- __479.5__ -----2022-05-31 11:25:15+08:00:
 
 I was wondering if anyone was not going to be fully convinced. I myself don't want to be so cynical that I would consider him to have been pressured by management or by colleagues to essentially 'redo' the apology, but I do think it's concerning that he stuck to his guns for as long as he did (that being, er, about 24 hours to be 'fair').
 
------ __478.6__ -----2022-05-31 13:56:08+08:00:
+----- __479.6__ -----2022-05-31 13:56:08+08:00:
 
 Yeah 24 hours is definitely faster than some contrite turnarounds I've seen. But jumping to pulling your friend out from under the bus to throw them under an express train as your first reaction – before even making a statement on Twitter for instance – is still a horrendous look, however quickly you recognise your mistake and retract it. Still, I'm glad he did make an attempt in the end.
 
------ __478.7__ -----2022-05-31 21:19:43+08:00:
+----- __479.7__ -----2022-05-31 21:19:43+08:00:
 
 I dunno. I'm not sure I've ever seen this line of argument used for ASMR roleplay channels, not to say they don't exist of course, I may well just have missed the discourse on it. Is there just something qualitatively different when a more variety-focussed content creator does it, or is it just that that's also widely regarded as problematic and I just haven't seen the critiques?
 
------ __478.8__ -----2022-06-01 11:40:52+08:00:
+----- __479.8__ -----2022-06-01 11:40:52+08:00:
 
 Y’know, never in my life did I expect there to be some kind of news connecting ~~Vox~~ Vic Mignogna, the original Red Ranger, and financial scams. Humankind never fails to rise to the challenge.
 
------ __478.9__ -----2022-06-01 11:42:29+08:00:
+----- __479.9__ -----2022-06-01 11:42:29+08:00:
 
 > while it's mostly remembered for the incest nowadays (don't ask)
 
 No, I think I will. What?
 
------ __478.10__ -----2022-06-01 11:53:32+08:00:
+----- __479.10__ -----2022-06-01 11:53:32+08:00:
 
 The only critique I’ve seen is Uniquenameosaurus’ and I thought that was a decently fair shake. Though I mean don’t watch unless you are interested and/or bored enough to be willing to watch a critique of HGS for 3 hours.
 
------ __478.11__ -----2022-06-01 11:54:32+08:00:
+----- __479.11__ -----2022-06-01 11:54:32+08:00:
 
 Wait what did Oxhorn do? I recognise the name but stopped watching around late 2018.
 
------ __478.12__ -----2022-06-01 11:55:40+08:00:
+----- __479.12__ -----2022-06-01 11:55:40+08:00:
 
 Spoilers for a season that came out over a year ago: Penny gets rebuilt but later sacrifices herself.
 
------ __478.13__ -----2022-06-01 12:11:45+08:00:
+----- __479.13__ -----2022-06-01 12:11:45+08:00:
 
 Lol yes. Looks like my autocorrect doesn’t even recognise ‘Vic’ as a word anymore; that’s how in deep I am.
 
------ __478.14__ -----2022-06-01 12:13:06+08:00:
+----- __479.14__ -----2022-06-01 12:13:06+08:00:
 
 I uh. Okay then.
 
------ __478.15__ -----2022-06-01 12:14:03+08:00:
+----- __479.15__ -----2022-06-01 12:14:03+08:00:
 
 Ah yes because it’s immediately 10x less creepy if they’re not *actually* biologically related, despite it presumably starting when they didn’t know otherwise...
 
------ __478.16__ -----2022-06-01 13:29:18+08:00:
+----- __479.16__ -----2022-06-01 13:29:18+08:00:
 
 Well then, yikes. I assume either A: I was very unobservant and/or naive or B: he toned down his messaging heavily during the height of his Fallout lore days.
 
------ __478.17__ -----2022-06-01 13:29:42+08:00:
+----- __479.17__ -----2022-06-01 13:29:42+08:00:
 
 *blinks*
 
 Okay this time I will *not* ask further, I do not want to know any more anymore.
 
------ __478.18__ -----2022-06-01 13:31:06+08:00:
+----- __479.18__ -----2022-06-01 13:31:06+08:00:
 
 I'll give it this, 'let's try and put a positive spin on incest' is a... *creative* decision.
 
------ __478.19__ -----2022-06-01 13:37:51+08:00:
+----- __479.19__ -----2022-06-01 13:37:51+08:00:
 
 I was about to say 'nah' but oh god now that I think about it, there has been a whole load of stuff hasn't there? Just off the top of my head:
 
@@ -477,29 +483,33 @@ ID/KR/CN:
 
 * The Chinese indie VTuber who was maybe kidnapped but also maybe not
 
------ __478.20__ -----2022-06-01 16:35:27+08:00:
+----- __479.20__ -----2022-06-01 16:35:27+08:00:
 
 I'd filed Nene's tracing incident under the various Hololive breaks, but yep the tag controversy also counts. I'm not familiar with the Quinn69 one though.
 
------ __478.21__ -----2022-06-01 18:37:52+08:00:
+----- __479.21__ -----2022-06-01 18:37:52+08:00:
 
 Eurgh, sounds unpleasant.
 
------ __478.22__ -----2022-06-01 21:11:27+08:00:
+----- __479.22__ -----2022-06-01 21:11:27+08:00:
 
 You sure it was this sub? I had a check using camas Reddit search and he doesn't seem to have been mentioned here before outside of this conversation.
 
------ __478.23__ -----2022-06-02 01:00:18+08:00:
+----- __479.23__ -----2022-06-02 01:00:18+08:00:
 
 Might it have been [this thread](https://www.reddit.com/r/SubredditDrama/comments/hf8mit/the_atomic_division_in_the_fallout_community/) on SubredditDrama?
 
------ __478.24__ -----2022-06-02 01:46:34+08:00:
+----- __479.24__ -----2022-06-02 01:46:34+08:00:
 
 What got leaked this time?
 
-### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
+----- __479.25__ -----2022-06-02 02:06:28+08:00:
 
------ __479.1__ -----2022-05-30 02:54:43+08:00:
+Well. At least it wasn't the whole tank this time!
+
+### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
+
+----- __480.1__ -----2022-05-30 02:54:43+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
