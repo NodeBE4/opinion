@@ -481,6 +481,10 @@ ID/KR/CN:
 
 I'd filed Nene's tracing incident under the various Hololive breaks, but yep the tag controversy also counts. I'm not familiar with the Quinn69 one though.
 
+----- __478.21__ -----2022-06-01 18:37:52+08:00:
+
+Eurgh, sounds unpleasant.
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:

@@ -29,7 +29,7 @@ RT Nerys Avery<br>“The media briefing itself was run by the visiting governm
 
 ### 4: [2022-05-31 19:10:03+08:00 推文](https://twitter.com/LHongqiao/status/1531593849101070343)
 
-RT Hongqiao Liu<br>Re Wonder why I launch a free newsletter on China/climate?<br><br>I explained it in a recent conversation with @schoenmakersk (who edits the newsletter) @cnmediaproject<br><br>Long story short: I believe in the power of journalism in fast-tracking the green transition <a href="https://twitter.com/LHongqiao/status/1525026729009598464?s=20&amp;t=mzNiDMW0HZjkWTpGSX84Jg" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1525026729009598464?s=20&amp;t=mzNiDMW0HZjkWTpGSX84Jg</a>
+RT Hongqiao Liu<br>Re Wonder why I launch a free newsletter on China/climate?<br><br>I explained it in a recent conversation with @schoenmakersk (who edits the newsletter) @cnmediaproject<br><br>Long story short: I believe in the power of journalism in fast-tracking the green transition<br><br>Hongqiao Liu: With @schoenmakersk, I discussed:<br><br>Investigative journalism exists/-ed in China, and it once enabled social changes<br><br>Over the last decade, environmental journalism went from a burgeoning beat to an underfunded afterthought<br><br>Too much strategic comms, too little quality journalism<br> <a href="https://twitter.com/cnmediaproject/status/1525018040978767872" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1525018040978767872</a>
 
 ### 5: [2022-05-31 22:11:52+08:00 推文](https://twitter.com/cnmediaproject/status/1531639603610144768)
 
@@ -70,4 +70,12 @@ New Licensing System for Online Dramas: From today online dramas in China will b
 ### 14: [2022-06-01 11:06:01+08:00 推文](https://twitter.com/cnmediaproject/status/1531834425214136321)
 
 Re @daaitoulaam These officials really do not see the difference.  :)
+
+### 15: [2022-06-01 15:29:59+08:00 推文](https://twitter.com/cnmediaproject/status/1531900854382792704)
+
+Re @samuel_wade The prize is a Politburo Standing Committee Pin-up Calendar.
+
+### 16: [2022-06-01 15:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1531901108448378880)
+
+RT Jonathan Cheng<br>"2022 represents a watershed in questioning long-held perceptions of China’s technocratic competence…We are seeing China’s leadership abandon long-term…objectives for…politically motivated gains against an indefatigable…Omicron variant."<br>@rhodium_group <a href="https://bit.ly/3GDhH2m" target="_blank" rel="noopener noreferrer">https://bit.ly/3GDhH2m</a>
 
