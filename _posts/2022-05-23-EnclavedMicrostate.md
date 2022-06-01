@@ -419,6 +419,64 @@ I uh. Okay then.
 
 Ah yes because it’s immediately 10x less creepy if they’re not *actually* biologically related, despite it presumably starting when they didn’t know otherwise...
 
+----- __478.16__ -----2022-06-01 13:29:18+08:00:
+
+Well then, yikes. I assume either A: I was very unobservant and/or naive or B: he toned down his messaging heavily during the height of his Fallout lore days.
+
+----- __478.17__ -----2022-06-01 13:29:42+08:00:
+
+*blinks*
+
+Okay this time I will *not* ask further, I do not want to know any more anymore.
+
+----- __478.18__ -----2022-06-01 13:31:06+08:00:
+
+I'll give it this, 'let's try and put a positive spin on incest' is a... *creative* decision.
+
+----- __478.19__ -----2022-06-01 13:37:51+08:00:
+
+I was about to say 'nah' but oh god now that I think about it, there has been a whole load of stuff hasn't there? Just off the top of my head:
+
+JP:
+
+* Kizuna AI's semi-retirement
+
+* WACTOR doxxing its own fired talents
+
+* Rushia's Discord leak and later termination
+
+* The pirated male nipple teasing porn incident at Niji
+
+* Several Hololive breaks including Korone having to 'internet detox' due to harassment on stream
+
+EN: 
+
+* The NijiEN Discord leak
+
+* Calli's 'lean' incident
+
+* Niji favouritism towards Luxiem
+
+* The Vox/Reimu ASMR interruption kerfuffle
+
+* Cyberlive firing a major manager, losing two members to Phase-Connect, and eventually completely reorganising
+
+* The partial exodus from Tsunderia including Miori Celeta
+
+ID/KR/CN:
+
+* The Nijisanji merger
+
+* NijiKR bullying revelations
+
+* The Blue Archive VTuber incident
+
+* Ollie's recent membership leak kerfuffle
+
+* A-Soul's horrific treatment of its talents
+
+* The Chinese indie VTuber who was maybe kidnapped but also maybe not
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:
