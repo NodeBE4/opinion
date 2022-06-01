@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-06-01
+date: 2022-06-02
 from: https://old.reddit.com/r/geopolitics/comments/v2is2u/ukraines_best_chance_for_peace_how_neutrality_can/
 layout: post
 tags:
@@ -29,4 +29,12 @@ Perhaps because of its novelty, the significance of the Istanbul proposal has ye
 
 
 Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 265: [A Conversation With Antony Blinken](https://old.reddit.com/r/geopolitics/comments/v2ph7v/a_conversation_with_antony_blinken/), submitted on 2022-06-02 03:42:45+08:00.
+
+----- __265.1__ -----2022-06-02 03:43:21+08:00:
+
+\[SS\]
+
+U.S. Secretary of State Antony Blinken joined Foreign Affairs Editor Daniel Kurtz-Phelan for a conversation about the evolution of American foreign policy and the challenges facing the Biden administration today in regard to Russia, China, the war in Ukraine, and more. Listen to their discussion [here.](https://youtu.be/Hl97OH1ybVE)
 
