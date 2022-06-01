@@ -385,6 +385,40 @@ Yeah 24 hours is definitely faster than some contrite turnarounds I've seen. But
 
 I dunno. I'm not sure I've ever seen this line of argument used for ASMR roleplay channels, not to say they don't exist of course, I may well just have missed the discourse on it. Is there just something qualitatively different when a more variety-focussed content creator does it, or is it just that that's also widely regarded as problematic and I just haven't seen the critiques?
 
+----- __478.8__ -----2022-06-01 11:40:52+08:00:
+
+Y’know, never in my life did I expect there to be some kind of news connecting ~~Vox~~ Vic Mignogna, the original Red Ranger, and financial scams. Humankind never fails to rise to the challenge.
+
+----- __478.9__ -----2022-06-01 11:42:29+08:00:
+
+> while it's mostly remembered for the incest nowadays (don't ask)
+
+No, I think I will. What?
+
+----- __478.10__ -----2022-06-01 11:53:32+08:00:
+
+The only critique I’ve seen is Uniquenameosaurus’ and I thought that was a decently fair shake. Though I mean don’t watch unless you are interested and/or bored enough to be willing to watch a critique of HGS for 3 hours.
+
+----- __478.11__ -----2022-06-01 11:54:32+08:00:
+
+Wait what did Oxhorn do? I recognise the name but stopped watching around late 2018.
+
+----- __478.12__ -----2022-06-01 11:55:40+08:00:
+
+Spoilers for a season that came out over a year ago: Penny gets rebuilt but later sacrifices herself.
+
+----- __478.13__ -----2022-06-01 12:11:45+08:00:
+
+Lol yes. Looks like my autocorrect doesn’t even recognise ‘Vic’ as a word anymore; that’s how in deep I am.
+
+----- __478.14__ -----2022-06-01 12:13:06+08:00:
+
+I uh. Okay then.
+
+----- __478.15__ -----2022-06-01 12:14:03+08:00:
+
+Ah yes because it’s immediately 10x less creepy if they’re not *actually* biologically related, despite it presumably starting when they didn’t know otherwise...
+
 ### 479: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __479.1__ -----2022-05-30 02:54:43+08:00:

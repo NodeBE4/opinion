@@ -133,3 +133,7 @@ To put it in brief, the comment count mismatch has been one of the longest-runni
 
 Only if a comment has been replied to before it was removed. While large chains that get nuked will have [removed] indicators, if it's a situation where a lot of top-levels get removed, then you end up with blank space.
 
+----- __489.3__ -----2022-06-01 11:17:30+08:00:
+
+We could, but there are only two pinned posts available which we use for megathreads and rotating feature posts, so it'd mean getting rid of other things in the process. That said, we have an Automod sticky on every thread in which we could put some kind of explanation.
+
