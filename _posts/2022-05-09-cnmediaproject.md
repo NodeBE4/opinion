@@ -157,7 +157,7 @@ Re When XJP reaches the section summing up the history of the CCP, he neatly out
 
 ### 36: [2022-05-14 16:13:00+08:00 推文](https://twitter.com/niccijsmith/status/1525388695720714240)
 
-RT Nicola Smith<br>The definition of futility<br><br>Arnauld Miguet: Only in #China #airport #Covid19 @francetvchine<br><br><video src="https://video.twimg.com/ext_tw_video/1525337709320892416/pu/vid/264x480/Lb0UOqjF-QuXFw4H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525337709320892416/pu/img/hYm9G7RK4H1LY8Bx.jpg"></video>
+RT Nicola Smith<br>The definition of futility
 
 ### 37: [2022-05-15 08:29:36+08:00 推文](https://twitter.com/cnmediaproject/status/1525634465279938560)
 
