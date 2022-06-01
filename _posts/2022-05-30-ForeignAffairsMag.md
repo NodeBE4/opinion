@@ -38,3 +38,11 @@ Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](http
 
 U.S. Secretary of State Antony Blinken joined Foreign Affairs Editor Daniel Kurtz-Phelan for a conversation about the evolution of American foreign policy and the challenges facing the Biden administration today in regard to Russia, China, the war in Ukraine, and more. Listen to their discussion [here.](https://youtu.be/Hl97OH1ybVE)
 
+### 266: [A Conversation With Antony Blinken: The U.S. Secretary of State Discusses the Biden Administration’s Foreign Policy](https://old.reddit.com/r/politics/comments/v2r9ke/a_conversation_with_antony_blinken_the_us/), submitted on 2022-06-02 04:59:07+08:00.
+
+----- __266.1__ -----2022-06-02 04:59:29+08:00:
+
+\[SS\]
+
+U.S. Secretary of State Antony Blinken joined Foreign Affairs Editor Daniel Kurtz-Phelan for a conversation about the evolution of American foreign policy and the challenges facing the Biden administration today in regard to Russia, China, the war in Ukraine, and more.
+
