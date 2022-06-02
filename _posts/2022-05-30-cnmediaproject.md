@@ -119,3 +119,7 @@ Re Zhao's remarks can be found here. <a href="http://pl.china-embassy.gov.cn/p
 
 Re China prefers the translation "future" for 命运, or "destiny," but such choices are strategic and shouldn't be accepted out of hand. One purpose of the CMP Dictionary is to work toward such clarity of definitions, also the goal of partner project <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a>
 
+### 27: [2022-06-02 13:48:43+08:00 推文](https://twitter.com/cnmediaproject/status/1532237758462558208)
+
+China insists its press licensing system ensures the professionalism of news coverage and safeguards reporting access for journalists. But press cards are ultimately designed with one key purpose in mind – ensuring news media stay in line. <a href="https://bit.ly/3Nocpdq" target="_blank" rel="noopener noreferrer">https://bit.ly/3Nocpdq</a><br><img style="" src="https://pbs.twimg.com/media/FUOaF3UacAAfK5K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

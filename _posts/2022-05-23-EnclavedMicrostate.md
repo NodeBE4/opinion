@@ -507,6 +507,20 @@ What got leaked this time?
 
 Well. At least it wasn't the whole tank this time!
 
+----- __479.26__ -----2022-06-02 12:30:43+08:00:
+
+YES! I hoped someone would ask.
+
+So, a not inconsiderable amount of VTuber drama relates to things being inadvertently revealed when VTubers tab out of something, though the severity of such leaks lie on a sliding scale. At one end you have [Towa's background being an adorable piece of fanart](https://www.reddit.com/r/Hololive/comments/v22wlx/towas_desktop_background_might_just_be_the_cutest/) depicting her and a now-retired friend from Nijisanji, at the other you have [the infamous NijiEN Discord leak](https://www.reddit.com/r/VirtualYoutubers/comments/t7d6cz/nijien_discord_leak_megathread_discussion_thread/). Thankfully, the pirated male nipple teasing porn folder incident leans towards the former side of the scale.
+
+This was 27 February 2022. Rushia's termination from Hololive was barely half a week ago. The VTuber community was in mourning. And on this day, during a Valorant stream, Nijisanji JP's Lauren Iroas accidentally tabbed out of the game, revealing his file explorer, where, in the sidebar, people noticed two oddly named folders: MIAA-452, and MSVD-469. Well, some enterprising sleuths 'discovered' (I mean to be honest, probably knew from experience) that torrented versions of JAV (Japanese Adult Video, i.e. porn) are placed in a folder whose name is the video's product code, whereas legitimate copies would have the title. And because you can just find those product codes on JAV stores, that meant that people quickly figured out two things: a) that his porn was pirated; and b) what specifically he was into – both videos involved the same actress and also male nipple teasing.
+
+Deets: https://www.reddit.com/r/VirtualYoutubers/comments/t3t3zx/lauren_iroas_exposed_his_cultured_fetish_on_stream/
+
+Coming in the wake of one of the most divisive VTuber scandals in two and a half years, the Lauren pirating male nipple teasing porn incident was the moment of levity that everyone just sort of needed. To add playful insult to minor injury, after Lauren posted an apology on Twitter, [the actress in question tweeted back at Lauren](https://twitter.com/MatuMoto_arrows/status/1498189573490241541) suggesting that he should actually pay for his porn next time.
+
+Lauren did then go on hiatus until 20 April, though the messaging may be a little ambiguous on whether he took a hiatus voluntarily, was suspended by the agency, or that the agency was already planning a suspension but he inadvertently pre-empted them. All agree though that it was a pretty funny set of events.
+
 ### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __480.1__ -----2022-05-30 02:54:43+08:00:
