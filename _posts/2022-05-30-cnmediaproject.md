@@ -29,7 +29,7 @@ RT Nerys Avery<br>“The media briefing itself was run by the visiting governm
 
 ### 4: [2022-05-31 19:10:03+08:00 推文](https://twitter.com/LHongqiao/status/1531593849101070343)
 
-RT Hongqiao Liu<br>Re Wonder why I launch a free newsletter on China/climate?<br><br>I explained it in a recent conversation with @schoenmakersk (who edits the newsletter) @cnmediaproject<br><br>Long story short: I believe in the power of journalism in fast-tracking the green transition<br><br>Hongqiao Liu: With @schoenmakersk, I discussed:<br><br>Investigative journalism exists/-ed in China, and it once enabled social changes<br><br>Over the last decade, environmental journalism went from a burgeoning beat to an underfunded afterthought<br><br>Too much strategic comms, too little quality journalism<br> <a href="https://twitter.com/cnmediaproject/status/1525018040978767872" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1525018040978767872</a>
+RT Hongqiao Liu<br>Re Wonder why I launch a free newsletter on China/climate?<br><br>I explained it in a recent conversation with @schoenmakersk (who edits the newsletter) @cnmediaproject<br><br>Long story short: I believe in the power of journalism in fast-tracking the green transition <a href="https://twitter.com/LHongqiao/status/1525026729009598464?s=20&amp;t=mzNiDMW0HZjkWTpGSX84Jg" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1525026729009598464?s=20&amp;t=mzNiDMW0HZjkWTpGSX84Jg</a>
 
 ### 5: [2022-05-31 22:11:52+08:00 推文](https://twitter.com/cnmediaproject/status/1531639603610144768)
 
@@ -126,4 +126,8 @@ Re China prefers the translation "future" for 命运, or "destiny," but such cho
 ### 28: [2022-06-02 13:48:43+08:00 推文](https://twitter.com/cnmediaproject/status/1532237758462558208)
 
 China insists its press licensing system ensures the professionalism of news coverage and safeguards reporting access for journalists. But press cards are ultimately designed with one key purpose in mind – ensuring news media stay in line. <a href="https://bit.ly/3Nocpdq" target="_blank" rel="noopener noreferrer">https://bit.ly/3Nocpdq</a><br><img style="" src="https://pbs.twimg.com/media/FUOaF3UacAAfK5K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-06-02 16:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1532278595758039041)
+
+RT Jonathan Cheng<br>Amazon said it will stop supplying retailers in China with its Kindle e-readers and will shut its Kindle e-bookstore in the country next year, joining LinkedIn, Yahoo and Airbnb in pulling back from the Chinese market.<br>@brendagoh_ <a href="https://reut.rs/38Z1kRs" target="_blank" rel="noopener noreferrer">https://reut.rs/38Z1kRs</a>
 
