@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-01
+date: 2022-06-02
 from: https://twitter.com/HeQinglian/status/1530962002088165378
 layout: post
 tags:
@@ -73,7 +73,7 @@ Re @lee_1819 @qia38243615 @KELMAND1 骂得好。不知是哪个NGO赞助的推�
 
 ### 15: [2022-05-31 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1531613277838622721)
 
-The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>jiang shangrong: 观察英报The Telegraph报道演化很有趣<br>2月24日:普京血腥统治走到头了<br>4月3日:俄将输掉这场西方主打的游戏<br>5月12日:战胜普京我们须付出高昂代价。<br>5月26日:马上!普京将取得惊人胜利<br><br>现有人预测10月1日新闻:<br>莫斯科塔吉克工头用铁锹殴打美国和波兰打工仔,高喊:“干活外地人!莫斯科是莫斯科人的莫斯科!”😂<br><br><img style="" src="https://pbs.twimg.com/media/FUBxfLvWIAEUz4I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎” <a href="https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm</a>
 
 ### 16: [2022-05-31 20:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1531614188136763392)
 
@@ -118,4 +118,16 @@ Re @fading_you1 我的感觉是近十五年来逐渐变好。现在还有中国�
 ### 26: [2022-06-01 20:53:34+08:00 推文](https://twitter.com/JianglinLi/status/1531982285683232768)
 
 RT 李江琳<br>北明譯：维克多-戴维斯-汉森：想象不可想象之事 <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
+
+### 27: [2022-06-02 01:14:26+08:00 推文](https://twitter.com/RealBeiMing/status/1532047935831216129)
+
+RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：<br><br>李江琳: 北明譯：维克多-戴维斯-汉森：想象不可想象之事<br> <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
+
+### 28: [2022-06-02 20:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1532339682448752648)
+
+Re @RealBeiMing 这警讯应该在十年以前发出。但根据我对相关资料的研究，奥巴马的出现，其实是“体制内新长征”与“颜色革命”筹备多年的结果，不是原因。他的执政只是加速，美国人除了极少数，那时根本看不到危险，还正忙于用政治正确规范所有人。
+
+### 29: [2022-06-02 21:15:01+08:00 推文](https://twitter.com/HeQinglian/status/1532350071156662275)
+
+布林肯：只要俄罗斯停止侵略乌克兰 战争会立即结束 <br>读后感：<br>1、只要俄罗斯停止，让西方有理由声称俄罗斯失败、拜登政府支持的正义战争大获全胜，为中期选举拉抬人气，战争就可以立刻结束。<br>2、否则“战争可能会持续到今年年底，甚至会拖延更长时间”。<br>——美乌必须赢。 <a href="https://rfi.my/8T0T.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8T0T.T</a>
 
