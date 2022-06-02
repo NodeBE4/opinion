@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-15~2021-11-21'
 
 ### 2: [2021-11-20 17:59:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1461997731841466372)
 
-Yang Guanghan, dissident from Guangdong Province, sentenced to 6 months in prison with 1.5 year probation, for publicly holding papers and sticking posters to express his political demands and views, which were critical of the Communist Party of China and Xi.<br><img style="" src="https://pbs.twimg.com/media/FEoPLvoXIAIVVWT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEoPLvwXwAgN5Dx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEoPLvnWUAA4Wnu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEoPLvyXsAAu-FB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Yang Guanghan, dissident from Guangdong Province, sentenced to 6 months in prison with 1.5 year probation, for publicly holding papers and sticking posters to express his political demands and views, which were critical of the Communist Party of China and Xi.<br><img style src="https://pbs.twimg.com/media/FEoPLvoXIAIVVWT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEoPLvwXwAgN5Dx?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEoPLvnWUAA4Wnu?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEoPLvyXsAAu-FB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-21 18:06:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1462361646819647489)
 
@@ -29,5 +29,5 @@ Yang Guanghan, dissident from Guangdong Province, sentenced to 6 months in priso
 
 ### 4: [2021-11-21 18:13:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1462363448558379010)
 
-After Anhui police reported one its officers "sacrificed on duty", two netizens arrested & detained for "insulting the sacrificed police": Zhu from Hangzhou said the police died when escaping after being caught having an affair, Nie from Guangdong said police were trash.<br><img style="" src="https://pbs.twimg.com/media/FEtaQf5XMAoja00?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEtaSn2WYAAZrOn?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FEtaU2dWQAQCEty?format=png&name=orig" referrerpolicy="no-referrer">
+After Anhui police reported one its officers "sacrificed on duty", two netizens arrested & detained for "insulting the sacrificed police": Zhu from Hangzhou said the police died when escaping after being caught having an affair, Nie from Guangdong said police were trash.<br><img style src="https://pbs.twimg.com/media/FEtaQf5XMAoja00?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEtaSn2WYAAZrOn?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FEtaU2dWQAQCEty?format=png&name=orig" referrerpolicy="no-referrer">
 
