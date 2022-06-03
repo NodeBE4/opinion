@@ -113,6 +113,10 @@ It'd take several years to get to Jupiter and back; depending on how quickly WW3
 
 Beat Box maybe?
 
+----- __488.2__ -----2022-06-04 02:16:29+08:00:
+
+Lamy excepted.
+
 ### 489: [The Forbidden Words (Translated) [ODOC]](https://old.reddit.com/r/Hololive/comments/v1f8z2/the_forbidden_words_translated_odoc/), submitted on 2022-05-31 09:46:04+08:00.
 
 ----- __489.1__ -----2022-05-31 19:31:53+08:00:
@@ -160,4 +164,8 @@ In that case the *CHC* does serve as a series of *largely* introductory works wi
 Hello Dr Reynolds, thanks for coming on!
 
 Your mention of shades of blue pretty much immediately reminded me of the Prussians. How did the Prussian army, and indeed the various German and Dutch elements making up the Anglo-Allied force, feature in the memory of the battle in Britain in the period discussed? I appreciate that may actually be quite a big question, so my more specific enquiry would be whether there were those who deliberately highlighted the contributions of non-British forces – or perhaps more accurately the relatively small nature of the British contribution – either in general or specifically as counter-narratives to narratives pushed by specific interested parties?
+
+----- __493.2__ -----2022-06-04 01:44:53+08:00:
+
+Thank you again!
 
