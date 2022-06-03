@@ -127,7 +127,11 @@ Re China prefers the translation "future" for 命运, or "destiny," but such cho
 
 China insists its press licensing system ensures the professionalism of news coverage and safeguards reporting access for journalists. But press cards are ultimately designed with one key purpose in mind – ensuring news media stay in line. <a href="https://bit.ly/3Nocpdq" target="_blank" rel="noopener noreferrer">https://bit.ly/3Nocpdq</a><br><img style="" src="https://pbs.twimg.com/media/FUOaF3UacAAfK5K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 29: [2022-06-02 16:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1532278595758039041)
+### 29: [2022-06-02 15:47:03+08:00 推文](https://twitter.com/ZichenWanghere/status/1532267536804622337)
+
+RT Zichen Wang<br>BREAKING: @amazon closes @AmazonKindle bookstore in China, effective June 30, 2023. <a href="https://www.amazon.cn/b/ref=s9_acss_bw_cg_none_1a1_w?ie=UTF8&amp;node=2339201071&amp;pf_rd_m=A1U5RCOVU0NYF2&amp;pf_rd_s=merchandised-search-top-3&amp;pf_rd_r=WPTRTYXCDKJJ1ZXRKKX9&amp;pf_rd_t=101&amp;pf_rd_p=3336261a-9259-419e-ac1d-959ae1cbacd7&amp;pf_rd_i=116169071" target="_blank" rel="noopener noreferrer">https://www.amazon.cn/b/ref=s9_acss_bw_cg_none_1a1_w?ie=UTF8&amp;node=2339201071&amp;pf_rd_m=A1U5RCOVU0NYF2&amp;pf_rd_s=merchandised-search-top-3&amp;pf_rd_r=WPTRTYXCDKJJ1ZXRKKX9&amp;pf_rd_t=101&amp;pf_rd_p=3336261a-9259-419e-ac1d-959ae1cbacd7&amp;pf_rd_i=116169071</a><br><img style="" src="https://pbs.twimg.com/media/FUO1IvHUsAI1zhN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-06-02 16:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1532278595758039041)
 
 RT Jonathan Cheng<br>Amazon said it will stop supplying retailers in China with its Kindle e-readers and will shut its Kindle e-bookstore in the country next year, joining LinkedIn, Yahoo and Airbnb in pulling back from the Chinese market.<br>@brendagoh_ <a href="https://reut.rs/38Z1kRs" target="_blank" rel="noopener noreferrer">https://reut.rs/38Z1kRs</a>
 
