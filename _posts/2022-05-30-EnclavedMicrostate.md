@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-01
+date: 2022-06-02
 from: https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/
 layout: post
 tags:
@@ -142,4 +142,10 @@ We could, but there are only two pinned posts available which we use for megathr
 ----- __491.1__ -----2022-06-02 02:43:07+08:00:
 
 I think it's worth noting that what historians term the 'modern' era can vary, but in general the period 1400-1800ish tends to be termed the Early Modern era which is not modern and isn't necessarily to be framed as a precursor to the modern era but which we end up calling that anyway.
+
+### 492: [Thursday Reading & Recommendations | June 02, 2022](https://old.reddit.com/r/AskHistorians/comments/v38c4h/thursday_reading_recommendations_june_02_2022/), submitted on 2022-06-02 21:00:10+08:00.
+
+----- __492.1__ -----2022-06-03 17:49:35+08:00:
+
+It'll depend on what level of accessibility you consider 'somewhat'. If you have access via a university or other large library, the *Cambridge History of China* series will be a good pick, although it consists of edited volumes rather than monograph works like the trio by Mark Edward Lewis in the *History of Imperial China* series.
 
