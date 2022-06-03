@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-02
+date: 2022-06-03
 from: https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/
 layout: post
 tags:
@@ -152,4 +152,12 @@ It'll depend on what level of accessibility you consider 'somewhat'. If you have
 ----- __492.2__ -----2022-06-03 19:30:50+08:00:
 
 In that case the *CHC* does serve as a series of *largely* introductory works with some specialist coverage and should be about right content-wise. Best of luck getting access!
+
+### 493: [I’m Dr. Luke Reynolds, author of Who Owned Waterloo? Battle, Memory, and Myth in British History, 1815-1852. Here to talk about Waterloo commemoration, Battlefield tourism, 19th century British cultural history, The British Army Officer Corps, or the Duke of Wellington’s funeral. AMA!](https://old.reddit.com/r/AskHistorians/comments/v3yx1x/im_dr_luke_reynolds_author_of_who_owned_waterloo/), submitted on 2022-06-03 21:01:56+08:00.
+
+----- __493.1__ -----2022-06-03 21:44:56+08:00:
+
+Hello Dr Reynolds, thanks for coming on!
+
+Your mention of shades of blue pretty much immediately reminded me of the Prussians. How did the Prussian army, and indeed the various German and Dutch elements making up the Anglo-Allied force, feature in the memory of the battle in Britain in the period discussed? I appreciate that may actually be quite a big question, so my more specific enquiry would be whether there were those who deliberately highlighted the contributions of non-British forces – or perhaps more accurately the relatively small nature of the British contribution – either in general or specifically as counter-narratives to narratives pushed by specific interested parties?
 
