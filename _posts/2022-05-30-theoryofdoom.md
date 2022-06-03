@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-02
+date: 2022-06-03
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/v1x23b/unofficial_daily_update_for_20220531_2103_new/
 layout: post
 tags:
@@ -34,4 +34,40 @@ Edit: Added "Probability Theory" by Jaynes.
 ----- __281.1__ -----2022-06-02 12:48:07+08:00:
 
 We'll see ebbs and flows, for as long as we continue to keep track of the results.  Whether such data offer any value whatsoever at this point is another matter.
+
+----- __281.2__ -----2022-06-03 08:43:34+08:00:
+
+> Lockdown Skepticism
+
+Many shitholes of Reddit are running ban-bots that crawl your post history to determine whether you've posted in a number of purported "misinformation" subreddits, including /r/lockdownskepticism. 
+
+I see no evidence whatsoever that operators of those subreddits are even in a position to determine what "misinformation" is.  Same for most who report "misinformation" here.  Maybe there was a difference of opinion, but rarely more.  It's especially tiresome when I see that garbage from people who haven't even tried to make themselves minimally informed so as to be able to speak on a matter coherently.  This is an ax I've grinded since the beginning of the pandemic.  
+
+The worst offenders are the Dunning/Kruger-types who think that because they heard/read some very limited information, they are all of a sudden capable of distinguishing "fact" from "misinformation."  For example, there are some who --- despite the state of the research --- reflexively brand anything that discusses concepts like gain of function research as a "conspiracy theory," when they can't even define the term.  The years of deep, comprehensive, reporting, discussion and hearings on that topic during the Obama administration have also been collectively forgotten.
+
+In this subreddit, you will not be banned for posting there.  Now or ever.  
+
+That many default subs engage in inexplicable stupidity . . . well, that's beyond my control.
+
+### 282: [Unofficial Daily Update for 2022-06-02. 6399 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v3eu5a/unofficial_daily_update_for_20220602_6399_new/), submitted on 2022-06-03 02:00:17+08:00.
+
+----- __282.1__ -----2022-06-03 08:35:01+08:00:
+
+Speaking in generalities only and not with respect to any particular or individual user, it's hard to distinguish between low-information posters and accounts that are actually and intentionally trying to push a narrative. 
+ Here's an example: When most people express themselves, they don't have remarkable things to say.  A bot very well might sound a lot like a person and people might [sound like bots, even if they're talking in real life](https://www.youtube.com/watch?v=u3WktU6b2BE&ab_channel=FoxNews).  
+
+Another thing to consider is the impact of misinformation, including that which people may have heard from media, government or so called "experts."  Most people just believe what they hear from people who they think are credible.  They aren't skeptical, they don't think and they don't question.  Even if they have the ability to understand how something works, they rarely undertake the effort.
+
+### 283: [A Forecasting Model Used by the CIA Predicts a Surprising Turn in U.S.-China Relations](https://old.reddit.com/r/geopolitics/comments/v3ooz1/a_forecasting_model_used_by_the_cia_predicts_a/), submitted on 2022-06-03 09:57:28+08:00.
+
+----- __283.1__ -----2022-06-03 10:17:42+08:00:
+
+Submission Statement:
+
+Bruce Bueno de Mesquita is a rockstar in the geopolitical forecasting space. 
+ His game theoretic forecasting model is used by the CIA, among others, to assess future power relations among international stakeholders.  The model considers stakeholders' influence, positions, negotiating flexibility and level of focus on issues to predict who is calling the shots and how they will exercise power.  By all counts, it's one of the most precisely calibrated out there.  For example, when the CIA ran it against historical datasets going back to the 1980s, the model's predictions were correct 89% of the time (outperforming the company's internal analysts, consistently).  
+
+While past performance isn't necessarily an indicator of future results, the model now predicts a thaw in Sino-American relations.   Reducing inflation is among Biden's highest priorities.  Yellen is determined to relax tariffs, because they are having an inflationary impact and will likely influence Biden to slash tariffs on Chinese consumer goods.  The model forecast that Beijing will welcome the partial rollback and China would respond with further economic cooperation because doing so is in their interest.
+
+> Biden and Xi, who initially showed no interest in a deal, would go along, the model predicted, in part, because so much of their attention was now focused on other issues and because a deal met their needs. In fact, Biden said earlier this month that he was weighing whether to ease the tariffs. In the game, as in real life, the leaders make compromises they didn’t expect to make.
 

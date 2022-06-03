@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-05-31
+date: 2022-06-03
 from: https://twitter.com/SpeechFreedomCN/status/1531420371945242626
 layout: post
 tags:
@@ -34,4 +34,12 @@ Re @changwei1006 @williamlong 这是五年前的事情了，已经发过了，�
 ### 5: [2022-05-31 12:46:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1531497196960505857)
 
 Guangdong man Qu who sent one piece of message that "Slandered the Chinese Communist Party and insulted state leaders" in multiple groups in WeChat, arrested in Dec 2019. After 3 months of detention, the case was dropped for his act did not constitute a criminal offense.<br><img style="" src="https://pbs.twimg.com/media/FUC0yomWQAEjKIm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-06-03 10:04:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1532543592203399168)
+
+2020年4月，贵州省铜仁市男子覃某，因在朋友圈发文“谢桥又（有）土匪查酒驾”，被认定为侮辱交警并被罚款500元。<br><img style="" src="https://pbs.twimg.com/media/FURr61kWYAwd28J?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FURr9AwWYBUtTla?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FURr_dsWYAMkdgw?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-06-03 10:06:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1532544095805128716)
+
+Guizhou man Qin fined 500 CNY for saying in WeChat "Bandits checking drunk driving". Police claimed the remarks insulted them.<br><img style="" src="https://pbs.twimg.com/media/FURsSTPWUAEnVjL?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FURsT8JWQAA6sYE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FURsVOOWYAElJvP?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
