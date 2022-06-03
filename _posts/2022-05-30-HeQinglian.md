@@ -121,7 +121,7 @@ RT 李江琳<br>北明譯：维克多-戴维斯-汉森：想象不可想象之
 
 ### 27: [2022-06-02 01:14:26+08:00 推文](https://twitter.com/RealBeiMing/status/1532047935831216129)
 
-RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：<br><br>李江琳: 北明譯：维克多-戴维斯-汉森：想象不可想象之事<br> <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
+RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：
 
 ### 28: [2022-06-02 20:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1532339682448752648)
 
@@ -158,4 +158,8 @@ Re @Wu_Zhi @JianglinLi 多年来，我发现与艾粉、郭粉、拜粉、Q粉�
 ### 36: [2022-06-03 10:06:57+08:00 推文](https://twitter.com/HeQinglian/status/1532544336063250432)
 
 Re @JianglinLi @Swanlake1979 @Wu_Zhi @david_david1968 @ngexp 那件事情上，我还真佩服尊者，明知会被左疯群起而攻之，还是敢于说。<br>德国左疯今天应该向尊者道歉，承认当年错了。
+
+### 37: [2022-06-03 19:33:15+08:00 推文](https://twitter.com/HeQinglian/status/1532686849101205504)
+
+Re @EvanLi2020 这种类比，只能说明你对现实世界面临的严重问题，缺乏深层认识。<br>只回你这一句。继续你的思考。
 
