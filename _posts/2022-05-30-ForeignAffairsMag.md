@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-06-02
+date: 2022-06-03
 from: https://old.reddit.com/r/geopolitics/comments/v2is2u/ukraines_best_chance_for_peace_how_neutrality_can/
 layout: post
 tags:
@@ -72,4 +72,15 @@ But as investigators for Amnesty International and Human Rights Watch have shown
 
 
 But as investigators for Amnesty International and Human Rights Watch have shown, the atrocities have continued. For over ten months after Blinken’s condemnation of the ethnic cleansing, Amhara regional officials and security forces carried out a systematic campaign of war crimes and crimes against humanity, including murder, unlawful imprisonment and torture, forced displacement, sexual violence, possible extermination, and other inhumane acts. The United States and other countries have pressed for a cessation of hostilities and sought to negotiate humanitarian access to Tigray, but they have largely ignored the horrors in the west of the region. They can no longer afford to look away."
+
+### 269: [Bowing to the Prince: Why It’s a Mistake for Biden to Visit Saudi Arabia](https://old.reddit.com/r/geopolitics/comments/v410au/bowing_to_the_prince_why_its_a_mistake_for_biden/), submitted on 2022-06-03 22:46:42+08:00.
+
+----- __269.1__ -----2022-06-03 22:47:35+08:00:
+
+\[SS from the article by Dalia Dassa Kaye, Senior Fellow at the UCLA Burkle Center for International Relations\]
+
+"U.S. President Joe Biden began his term determined to reverse his predecessor’s habit of cozying up to dictators, including Crown Prince Mohammed bin Salman, the de facto leader of Saudi Arabia. In February 2021, Biden pinned the blame for the murder of the Saudi journalist Jamal Khashoggi on MBS, declassifying a U.S. intelligence report that tied the assassination directly to him. Over a year later, however, it appears that the president plans to travel to Saudi Arabia in the first Middle East visit of his presidency. For those who saw Biden as a champion of human rights, it is a grave disappointment: rewarding MBS with a handshake and photo op on the crown prince’s home turf would amount to an admission that autocrats can get away with murdering their opponents, so long as they keep the oil flowing.  
+
+
+But the problem is not just that a presidential visit to Riyadh would so obviously illustrate a compromise on principles. It is also that Biden probably will not gain anything meaningful in return. Help with domestic oil prices would be nice, but given the tight oil market in the midst of the Ukraine war, it’s not clear that the Saudis could do much even if they wanted to. A major breakthrough on the normalization of Israeli-Saudi ties does not appear to be in the offing, either. Nor is it realistic to expect that this trip could reverse the Saudis’ close relationships with both China and Russia. If he follows through on his plans to visit Riyadh, Biden will be making a bad deal: exchanging near-certain reputational damage for the mere possibility of modest triumphs. It is a visit that should never have been planned."
 

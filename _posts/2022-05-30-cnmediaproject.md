@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-02
+date: 2022-06-03
 from: https://twitter.com/cnmediaproject/status/1531532392850407424
 layout: post
 tags:
@@ -134,4 +134,12 @@ RT Zichen Wang<br>BREAKING: @amazon closes @AmazonKindle bookstore in China, e
 ### 30: [2022-06-02 16:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1532278595758039041)
 
 RT Jonathan Cheng<br>Amazon said it will stop supplying retailers in China with its Kindle e-readers and will shut its Kindle e-bookstore in the country next year, joining LinkedIn, Yahoo and Airbnb in pulling back from the Chinese market.<br>@brendagoh_ <a href="https://reut.rs/38Z1kRs" target="_blank" rel="noopener noreferrer">https://reut.rs/38Z1kRs</a>
+
+### 31: [2022-06-03 22:39:47+08:00 推文](https://twitter.com/lingli_vienna/status/1532733791126577154)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Pseudo names of Party writing teams <br><br>任仲平 人民日报重要评论<br>钟    声 人民日报国际评论部 "中国之声"<br>钟理轩 中宣部理论局<br>钟政轩 中央政法委宣传<br>仲组轩 中组部<br>秋    石 求是<br>国    平  国家互联网信息办(?)<br>郑青原  正本清源<br>皇甫平  辅助邓小平<br><br>Please add
+
+### 32: [2022-06-03 23:12:43+08:00 推文](https://twitter.com/JeromeTaylor/status/1532742082057875457)
+
+RT Jerome Taylor<br>Hong Kong authorities can ban vigils and memorials, they can pull down statues and scrub away graffiti, but they can’t erase Hong Kongers’ memories<br><br>Holmes Chan: Ahead of the Tiananmen anniversary, a Hong Kong artist has set up a "maths challenge" in Causeway Bay to "raise concern about students' stress level". A few passersby have taken the test so far.<br><br>See if you can guess what the answer is:<br><br><video src="https://video.twimg.com/ext_tw_video/1532688276330405888/pu/vid/1280x720/ieKvYq9nFvovRY8d.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1532688276330405888/pu/img/9g63VSamfGKkhrAx.jpg"></video>
 
