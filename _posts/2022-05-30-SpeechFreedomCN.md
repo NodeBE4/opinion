@@ -43,3 +43,11 @@ Guangdong man Qu who sent one piece of message that "Slandered the Chinese Commu
 
 Guizhou man Qin fined 500 CNY for saying in WeChat "Bandits checking drunk driving". Police claimed the remarks insulted them.<br><img style="" src="https://pbs.twimg.com/media/FURsSTPWUAEnVjL?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FURsT8JWQAA6sYE?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FURsVOOWYAElJvP?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-06-03 14:12:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1532606003367186433)
+
+居住在北京的新疆男子侯某，因通过推特“辱骂国家领导人以及中国共产党”，于2019年8月被刑事拘留，并于同年12月被北京检方以寻衅滋事罪提起公诉，后续判决不详。<br><img style="" src="https://pbs.twimg.com/media/FURtuudWYA4hSIq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-06-03 14:16:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1532607009761153024)
+
+Xinjiang man Hou, who was then living in Beijing, arrested in Aug 2019 for "insulting national leaders and the Communist Party of China" on Twitter. Hou was prosecuted in Beijing in Dec 2019 and the court ruling remains unclear.<br><img style="" src="https://pbs.twimg.com/media/FURuID7WIAUFUmm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
