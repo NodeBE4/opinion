@@ -149,3 +149,7 @@ I think it's worth noting that what historians term the 'modern' era can vary, b
 
 It'll depend on what level of accessibility you consider 'somewhat'. If you have access via a university or other large library, the *Cambridge History of China* series will be a good pick, although it consists of edited volumes rather than monograph works like the trio by Mark Edward Lewis in the *History of Imperial China* series.
 
+----- __492.2__ -----2022-06-03 19:30:50+08:00:
+
+In that case the *CHC* does serve as a series of *largely* introductory works with some specialist coverage and should be about right content-wise. Best of luck getting access!
+
