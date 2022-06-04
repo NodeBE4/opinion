@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-03
+date: 2022-06-04
 from: https://twitter.com/HeQinglian/status/1530962002088165378
 layout: post
 tags:
@@ -121,7 +121,7 @@ RT 李江琳<br>北明譯：维克多-戴维斯-汉森：想象不可想象之
 
 ### 27: [2022-06-02 01:14:26+08:00 推文](https://twitter.com/RealBeiMing/status/1532047935831216129)
 
-RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：
+RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：<br><br>李江琳: 北明譯：维克多-戴维斯-汉森：想象不可想象之事<br> <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
 
 ### 28: [2022-06-02 20:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1532339682448752648)
 
@@ -162,4 +162,20 @@ Re @JianglinLi @Swanlake1979 @Wu_Zhi @david_david1968 @ngexp 那件事情上，�
 ### 37: [2022-06-03 19:33:15+08:00 推文](https://twitter.com/HeQinglian/status/1532686849101205504)
 
 Re @EvanLi2020 这种类比，只能说明你对现实世界面临的严重问题，缺乏深层认识。<br>只回你这一句。继续你的思考。
+
+### 38: [2022-06-04 22:57:18+08:00 推文](https://twitter.com/HeQinglian/status/1533100590204583936)
+
+Re @RealBeiMing @JianglinLi 我种了多年香椿，在旧居，只保留了一棵主干粗壮的树，因早就养成多个枝桠，每年吃不完，朋友还可采摘。去年新种的香椿有十来棵小苗，因为十七年蝉吸食树汁，今年主干只剩一棵半活着，很艰难地发芽，但小苗窜出无数。现移至一处种植，但需要时时清除侵略性极强的野莓。看来得因地制宜野养成灌木丛了。
+
+### 39: [2022-06-04 23:03:39+08:00 推文](https://twitter.com/HeQinglian/status/1533102184967045120)
+
+Re @eGUAbe2V7j26GHw @biantainorth @biantaishabi 奇怪，粤菜我极欣赏，独烧鹅、叉烧之类的，从来不喜欢，就算酒楼宴席上有这味，一般也不吃。如果是服务员分食，我一般都会请她们不用分给我。<br>似乎对卤味缺乏兴趣。
+
+### 40: [2022-06-04 23:17:25+08:00 推文](https://twitter.com/HeQinglian/status/1533105650439540737)
+
+想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。<br><br>Ezio Mao☢: 有盛必有衰，有生必有死，就连诸神也不能例外。回想三月当西方拿起手中名为“SWIFT”的“永恒之枪”（永恒之枪一旦投出去，必定百发百中，威力巨大，刺穿一切）为俄罗斯降下“神罚”的时候，普京看了一眼手中的牌，往地上吐了一口浓痰…呸…然后接着该干啥干啥。<br><br>乌克兰战争打到现在这个样子，慌的是拜登…<br><br><img style="" src="https://pbs.twimg.com/media/FUVpJpRXEAc19Vo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1498160472000188422" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1498160472000188422</a>
+
+### 41: [2022-06-04 23:20:13+08:00 推文](https://twitter.com/HeQinglian/status/1533106353870409728)
+
+Re @shenliangqing2 @RealBeiMing @JianglinLi 这还真没听说，我去查查。
 
