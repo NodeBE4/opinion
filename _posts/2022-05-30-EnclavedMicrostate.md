@@ -173,9 +173,25 @@ Your mention of shades of blue pretty much immediately reminded me of the Prussi
 
 Thank you again!
 
-### 494: [Was porn produced in and/or by the Soviet Union? Did they ever use porn as a form of agitprop internally? Did they ever use porn as part of their active measures campaign in America in the 60s and 70s?](https://old.reddit.com/r/AskHistorians/comments/v4dkru/was_porn_produced_in_andor_by_the_soviet_union/), submitted on 2022-06-04 09:00:16+08:00.
+### 494: [Why did Half-tracks fall out of favor?](https://old.reddit.com/r/WarCollege/comments/v4d4zl/why_did_halftracks_fall_out_of_favor/), submitted on 2022-06-04 08:36:36+08:00.
 
------ __494.1__ -----2022-06-04 13:52:06+08:00:
+----- __494.1__ -----2022-06-04 21:16:22+08:00:
+
+Dragoons-as-mounted-infantry had largely fallen out of use as a meaningful designation by the Napoleonic Wars, partly as most cavalry were issued with carbines by that stage and so all could function as mounted infantry if required. Basically only the French dragoons still had some notion of also being distinctly mounted infantry (occasionally dragoon regiments would be outright dismounted and designated as 'Foot Dragoons' if a particular field army was running low on horses). Until the late 19th century when, as /u/IlluminatiRex said, *all* cavalry essentially switched to mounted infantry, in most European armies dragoons functioned as 'reserve cavalry', i.e. heavy cavalry whose role was to achieve decisive concentrations of force at opportune positions.
+
+### 495: [Was porn produced in and/or by the Soviet Union? Did they ever use porn as a form of agitprop internally? Did they ever use porn as part of their active measures campaign in America in the 60s and 70s?](https://old.reddit.com/r/AskHistorians/comments/v4dkru/was_porn_produced_in_andor_by_the_soviet_union/), submitted on 2022-06-04 09:00:16+08:00.
+
+----- __495.1__ -----2022-06-04 13:52:06+08:00:
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
+
+### 496: [Kiara clearing up some misunderstandings regarding her new costume and if all of Myth will be getting one too.](https://old.reddit.com/r/Hololive/comments/v4o6vb/kiara_clearing_up_some_misunderstandings/), submitted on 2022-06-04 20:48:33+08:00.
+
+----- __496.1__ -----2022-06-04 21:08:40+08:00:
+
+Do we know what the other mems' 1 million sub gifts were/are?
+
+----- __496.2__ -----2022-06-04 21:23:33+08:00:
+
+You mean Amelia Watson the announcer from Paladins time travelled to Hololive to ensure she became the announcer from Paladins?
 
