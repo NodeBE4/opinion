@@ -117,6 +117,10 @@ Beat Box maybe?
 
 Lamy excepted.
 
+----- __488.3__ -----2022-06-04 09:56:03+08:00:
+
+You forgot 'comedians'.
+
 ### 489: [The Forbidden Words (Translated) [ODOC]](https://old.reddit.com/r/Hololive/comments/v1f8z2/the_forbidden_words_translated_odoc/), submitted on 2022-05-31 09:46:04+08:00.
 
 ----- __489.1__ -----2022-05-31 19:31:53+08:00:
