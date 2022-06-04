@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-03
+date: 2022-06-05
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/v1x23b/unofficial_daily_update_for_20220531_2103_new/
 layout: post
 tags:
@@ -90,4 +90,28 @@ Something much more dangerous is on the horizon.
 What does Saudi Arabia look like, in a post-"Green New Deal" world?  It is possible we have already reached peak oil.  Saudi Arabia has no incentive whatsoever to cooperate with American long term environmental interests, and every incentive to thwart them while extracting as much value as can be captured while it still can.
 
 This is barely the beginning of the geopolitical disruption the move away from oil will cause.
+
+### 285: [Physical interventions to interrupt or reduce the spread of respiratory viruses](https://old.reddit.com/r/CoronavirusIllinois/comments/v4shth/physical_interventions_to_interrupt_or_reduce_the/), submitted on 2022-06-05 00:32:01+08:00.
+
+----- __285.1__ -----2022-06-05 00:40:41+08:00:
+
+This is a Cochrane Review.  If you don't know what that is, Google it.
+
+Jefferson T, Del Mar CB, Dooley L, Ferroni E, Al-Ansary LA, Bawazeer GA, van Driel ML, Jones MA, Thorning S, Beller EM, Clark J, Hoffmann TC, Glasziou PP, Conly JM. Physical interventions to interrupt or reduce the spread of respiratory viruses. Cochrane Database Syst Rev. 2020 Nov 20;11(11):CD006207. doi: 10.1002/14651858.CD006207.pub5. PMID: 33215698; PMCID: PMC8094623.
+
+### 286: [Revisiting Pediatric COVID-19 Cases in Counties With and Without School Mask Requirements—United States, July 1—October 20 2021](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siaa/revisiting_pediatric_covid19_cases_in_counties/), submitted on 2022-06-05 00:32:38+08:00.
+
+----- __286.1__ -----2022-06-05 00:39:04+08:00:
+
+This is a Lancet scientific publication from Dr. Ambarish Chandra (contact author), among others.
+
+Chandra, Ambarish and Høeg, Tracy Beth, Revisiting Pediatric COVID-19 Cases in Counties With and Without School Mask Requirements—United States, July 1—October 20 2021. Available at SSRN: https://ssrn.com/abstract=4118566 or http://dx.doi.org/10.2139/ssrn.4118566
+
+### 287: [Surveillance and Vaccination on a University Campus During the Spread of the SARS-CoV-2 Omicron Variant](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siln/surveillance_and_vaccination_on_a_university/), submitted on 2022-06-05 00:33:07+08:00.
+
+----- __287.1__ -----2022-06-05 00:36:39+08:00:
+
+This is a JAMA scientific publication, from Genevive R. Meredith, DrPH, MPH, Cornell University (among others).
+
+Meredith GR, Diel DG, Frazier PI, et al. Routine Surveillance and Vaccination on a University Campus During the Spread of the SARS-CoV-2 Omicron Variant. JAMA Netw Open. 2022;5(5):e2212906. doi:10.1001/jamanetworkopen.2022.12906
 
