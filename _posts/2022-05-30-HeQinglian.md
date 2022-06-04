@@ -121,7 +121,7 @@ RT 李江琳<br>北明譯：维克多-戴维斯-汉森：想象不可想象之
 
 ### 27: [2022-06-02 01:14:26+08:00 推文](https://twitter.com/RealBeiMing/status/1532047935831216129)
 
-RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：
+RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：<br><br>李江琳: 北明譯：维克多-戴维斯-汉森：想象不可想象之事<br> <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
 
 ### 28: [2022-06-02 20:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1532339682448752648)
 

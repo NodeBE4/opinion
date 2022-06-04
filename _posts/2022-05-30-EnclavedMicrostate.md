@@ -183,6 +183,18 @@ Dragoons-as-mounted-infantry had largely fallen out of use as a meaningful desig
 
 I perhaps should have placed the 'European' a little earlier in the sentence. That said, as I note at the beginning of that comment, there were armies by the Napoleonic wars – particularly the French, on which the US Army heavily modelled itself – where all cavalry was expected to have some ability to function as dismounted skirmishers, and specifically-designated Dragoon regiments were no longer unique in this regard, and indeed arguably had been superseded in this role by specialist light cavalry such as Hussars and Chasseurs a Cheval. My bit on the late nineteenth century refers to the general abandonment across the board of pure arme blanche cavalry in favour of essentially entirely multirole forces.
 
+----- __494.3__ -----2022-06-05 01:42:10+08:00:
+
+To name just a few:
+
+* The Prussian cavalry under von Bredow at Mars-La-Tour in 1870, where they overwhelmed the French infantry and artillery and most casualties were taken during the French counter-charge (thanks /u/IlluminatiRex for pointing this one out to me before);
+
+* The 21st Lancers at Omdurman in 1898, which drove off a Sudanese force over six times their number;
+
+* The Australian Light Horse at Beersheba in 1917, who weren't even specialist cavalry (they were Mounted Rifles and thus charged with bayonets rather than swords); and
+
+* The Polish 1st Cavalry Brigade at Schönfeld in 1945, which overran a German infantry and light artillery position.
+
 ### 495: [Was porn produced in and/or by the Soviet Union? Did they ever use porn as a form of agitprop internally? Did they ever use porn as part of their active measures campaign in America in the 60s and 70s?](https://old.reddit.com/r/AskHistorians/comments/v4dkru/was_porn_produced_in_andor_by_the_soviet_union/), submitted on 2022-06-04 09:00:16+08:00.
 
 ----- __495.1__ -----2022-06-04 13:52:06+08:00:
@@ -205,9 +217,15 @@ Do we know what the other mems' 1 million sub gifts were/are?
 
 You mean Amelia Watson the announcer from Paladins time travelled to Hololive to ensure she became the announcer from Paladins?
 
-### 498: [Look out, seems like Botan has reinvented the Great Panjandrum!](https://old.reddit.com/r/Hololive/comments/v4r0nf/look_out_seems_like_botan_has_reinvented_the/), submitted on 2022-06-04 23:18:53+08:00.
+### 498: [Hololive and friends showed up at my local anime convention!](https://old.reddit.com/r/Hololive/comments/v4okq8/hololive_and_friends_showed_up_at_my_local_anime/), submitted on 2022-06-04 21:10:21+08:00.
 
------ __498.1__ -----2022-06-04 23:19:28+08:00:
+----- __498.1__ -----2022-06-05 02:30:42+08:00:
+
+As the other comment asked, in what way?
+
+### 499: [Look out, seems like Botan has reinvented the Great Panjandrum!](https://old.reddit.com/r/Hololive/comments/v4r0nf/look_out_seems_like_botan_has_reinvented_the/), submitted on 2022-06-04 23:18:53+08:00.
+
+----- __499.1__ -----2022-06-04 23:19:28+08:00:
 
 For a touch of added context, the [(Great) Panjandrum](https://en.wikipedia.org/wiki/Panjandrum) was an experimental weapon developed in WW2 that was basically a bomb on rocket-propelled wheels.
 

@@ -58,6 +58,10 @@ Speaking in generalities only and not with respect to any particular or individu
 
 Another thing to consider is the impact of misinformation, including that which people may have heard from media, government or so called "experts."  Most people just believe what they hear from people who they think are credible.  They aren't skeptical, they don't think and they don't question.  Even if they have the ability to understand how something works, they rarely undertake the effort.
 
+----- __282.2__ -----2022-06-05 02:30:25+08:00:
+
+This kind of mindless low effort nonsense adds exactly no value, here or anywhere.
+
 ### 283: [A Forecasting Model Used by the CIA Predicts a Surprising Turn in U.S.-China Relations](https://old.reddit.com/r/geopolitics/comments/v3ooz1/a_forecasting_model_used_by_the_cia_predicts_a/), submitted on 2022-06-03 09:57:28+08:00.
 
 ----- __283.1__ -----2022-06-03 10:17:42+08:00:
