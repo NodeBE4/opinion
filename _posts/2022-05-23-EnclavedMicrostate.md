@@ -573,6 +573,10 @@ That cannot be true. Please tell me that’s not true.
 
 Yes, IRyS definitely has other things to be working on and is in any case a solo debut in a different branch from JP; the rhythms and scheduling there will necessarily be different. Above all she doesn’t deserve to be invoked as a bludgeon during other members’ big events.
 
+----- __479.30__ -----2022-06-04 12:42:56+08:00:
+
+Gen 1 is to Holostars as Gen 0 is to Hololive.
+
 ### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __480.1__ -----2022-05-30 02:54:43+08:00:
