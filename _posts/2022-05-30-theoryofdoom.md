@@ -71,3 +71,23 @@ While past performance isn't necessarily an indicator of future results, the mod
 
 > Biden and Xi, who initially showed no interest in a deal, would go along, the model predicted, in part, because so much of their attention was now focused on other issues and because a deal met their needs. In fact, Biden said earlier this month that he was weighing whether to ease the tariffs. In the game, as in real life, the leaders make compromises they didn’t expect to make.
 
+### 284: [Bowing to the Prince: Why It’s a Mistake for Biden to Visit Saudi Arabia](https://old.reddit.com/r/geopolitics/comments/v410au/bowing_to_the_prince_why_its_a_mistake_for_biden/), submitted on 2022-06-03 22:46:42+08:00.
+
+----- __284.1__ -----2022-06-04 16:02:32+08:00:
+
+Kaye's article was insightful and well reasoned.  
+
+> For those who saw Biden as a champion of human rights, it is a grave disappointment: rewarding MBS with a handshake and photo op on the crown prince’s home turf would amount to an admission that autocrats can get away with murdering their opponents, so long as they keep the oil flowing.
+
+In Washington, energy, and specifically oil, takes precedence over humanitarian concerns.  That's the rule, not the exception.  It's constant no matter which "party" is in control of the White House.  
+
+Here, the costs of standing on principle are unacceptably high.  Whether intended or not, Kaye almost implies that anyone who saw biden as a "champion of human rights" clearly failed to see the writing on the wall.  
+
+In any case, current challenges with Saudi Arabia are not limited to humanitarian concerns.  Or their consequential diplomatic fallout.  
+
+Something much more dangerous is on the horizon.  
+
+What does Saudi Arabia look like, in a post-"Green New Deal" world?  It is possible we have already reached peak oil.  Saudi Arabia has no incentive whatsoever to cooperate with American long term environmental interests, and every incentive to thwart them while extracting as much value as can be captured while it still can.
+
+This is barely the beginning of the geopolitical disruption the move away from oil will cause.
+
