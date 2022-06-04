@@ -563,6 +563,16 @@ Going back to the talents sort of involved, Kazama Iroha is part of Hololive 6th
 
 Most Hololive members since 2020 have received second costumes within less than a year, and most of HoloJP Gen 5 got their 3D debuts within a little over 6 months. We're 7 months on from HoloX's first debut, and Iroha has just been announced to be unveiling her 3D model on 10 June, although it's safe to assume that the other members of HoloX will follow. You may see the issue already: IRyS has been around nearly twice as long as HoloX, and lives in Japan, but doesn't have a 3D debut in sight. The reasons aren't entirely clear, but likely relate to both Myth (which predated her) not having all officially debuted their 3D models yet, and possibly her main illustrator being busier than expected, along with her original model being unusually elaborate by Hololive standards to begin with. Unfortunately she has also ostensibly been a little hard done by on the Live2D front. Both HoloX and the other ten members of HoloEN besides IRyS got kimono alt outfits for New Year's 2022, but IRyS' was apparently delayed. She also hasn't had a non-event alt outfit yet, although to be fair neither have Council. As a result there's a bit of a narrative that IRyS is being neglected by management and so unfortunately Iroha's 3D announcement has been hijacked by angry fans and antis alike complaining about a lack of news about IRyS. The thread on the Hololive subreddit has had to be locked for that reason, so that's unpleasant.
 
+----- __479.28__ -----2022-06-04 10:48:19+08:00:
+
+> Matt Smith dances while a song plays with these lyrics, "have sex! have sex! Poop my pants, poop my pants"
+
+That cannot be true. Please tell me that’s not true.
+
+----- __479.29__ -----2022-06-04 10:54:44+08:00:
+
+Yes, IRyS definitely has other things to be working on and is in any case a solo debut in a different branch from JP; the rhythms and scheduling there will necessarily be different. Above all she doesn’t deserve to be invoked as a bludgeon during other members’ big events.
+
 ### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __480.1__ -----2022-05-30 02:54:43+08:00:
