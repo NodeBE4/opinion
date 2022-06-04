@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-03
+date: 2022-06-04
 from: https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/
 layout: post
 tags:
@@ -172,4 +172,10 @@ Your mention of shades of blue pretty much immediately reminded me of the Prussi
 ----- __493.2__ -----2022-06-04 01:44:53+08:00:
 
 Thank you again!
+
+### 494: [Was porn produced in and/or by the Soviet Union? Did they ever use porn as a form of agitprop internally? Did they ever use porn as part of their active measures campaign in America in the 60s and 70s?](https://old.reddit.com/r/AskHistorians/comments/v4dkru/was_porn_produced_in_andor_by_the_soviet_union/), submitted on 2022-06-04 09:00:16+08:00.
+
+----- __494.1__ -----2022-06-04 13:52:06+08:00:
+
+This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 

@@ -577,6 +577,14 @@ Yes, IRyS definitely has other things to be working on and is in any case a solo
 
 Gen 1 is to Holostars as Gen 0 is to Hololive.
 
+----- __479.31__ -----2022-06-04 13:52:39+08:00:
+
+No that has to be an edit, surely.
+
+----- __479.32__ -----2022-06-04 13:56:53+08:00:
+
+*babbles incoherently in despair*
+
 ### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __480.1__ -----2022-05-30 02:54:43+08:00:

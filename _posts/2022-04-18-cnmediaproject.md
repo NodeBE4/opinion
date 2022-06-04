@@ -77,7 +77,7 @@ RT Jonathan Chatwin<br>One of the refrains of Deng Xiaoping's speeches from th
 
 ### 16: [2022-04-21 17:02:55+08:00 推文](https://twitter.com/AlexDukalskis/status/1517066337910145034)
 
-RT Alex Dukalskis<br>The people pointing out that growing vegetables is a noble pursuit are missing the point. The prof was almost certainly forced to or else face ritual public humiliation, beatings, threats to his family, and perhaps death.<br><br>A few books about the Cultural Revolution in next tweet.<br><br>Alex Dukalskis: I had not heard this anecdote from Deng Xiaoping's 1979 visit to the United States.<br><br><img style="" src="https://pbs.twimg.com/media/FQYnCkrWUAA4L0V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>The people pointing out that growing vegetables is a noble pursuit are missing the point. The prof was almost certainly forced to or else face ritual public humiliation, beatings, threats to his family, and perhaps death.<br><br>A few books about the Cultural Revolution in next tweet.
 
 ### 17: [2022-04-21 19:54:55+08:00 推文](https://twitter.com/niubi/status/1517109621839773698)
 
@@ -109,7 +109,7 @@ RT Manya Koetse<br>'Voices of April' is the biggest topic in China's Covid soc
 
 ### 24: [2022-04-23 04:49:51+08:00 推文](https://twitter.com/alexludoboyd/status/1517606631294607360)
 
-RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video <a href="https://twitter.com/niubi/status/1517604750463807492" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1517604750463807492</a>
+RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video
 
 ### 25: [2022-04-23 04:51:09+08:00 推文](https://twitter.com/alexludoboyd/status/1517606957921755142)
 
@@ -121,5 +121,5 @@ RT Guobin Yang<br>The power of the “Sounds of April” story about #Shanghai
 
 ### 27: [2022-04-24 18:50:53+08:00 推文](https://twitter.com/DemesDavid/status/1518180670907904000)
 
-RT David Demes 戴達衛<br>Re @johnsfeng @julianku @jinpeili Ukraine started to disappear from CCTV maps on March 1st:
+RT David Demes 戴達衛<br>Re @johnsfeng @julianku @jinpeili Ukraine started to disappear from CCTV maps on March 1st:<br><br>David Demes 戴達衛: While this might look like a simple mishap by the graphics dept at first, I just checked earlier broadcasts and found CCTV-4's 今日关注 was using national boundaries until February 27th. After March 1st, the Ukraine all but vanished from the studio map. h/t @jinpeili<br><br><img style="" src="https://pbs.twimg.com/media/FPodTCDUcAUDm6P?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
