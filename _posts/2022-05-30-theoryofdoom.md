@@ -111,6 +111,48 @@ This is a Cochrane Review.  If you don't know what that is, Google it.
 
 Jefferson T, Del Mar CB, Dooley L, Ferroni E, Al-Ansary LA, Bawazeer GA, van Driel ML, Jones MA, Thorning S, Beller EM, Clark J, Hoffmann TC, Glasziou PP, Conly JM. Physical interventions to interrupt or reduce the spread of respiratory viruses. Cochrane Database Syst Rev. 2020 Nov 20;11(11):CD006207. doi: 10.1002/14651858.CD006207.pub5. PMID: 33215698; PMCID: PMC8094623.
 
+----- __286.2__ -----2022-06-05 04:52:13+08:00:
+
+Not exactly.  The point is simpler: 
+
+A lot of research has been done on the question of whether masks improve COVID outcomes. 
+
+Everyone who has looked at this issue finds nothing to support the proposition.  
+
+Those who claimed to find otherwise, didn't.  
+
+More and better research is needed to support that claim, because there is no scientific evidence to support the conclusion now.
+
+----- __286.3__ -----2022-06-05 04:55:18+08:00:
+
+A tremendous amount of misinformation exists, that has caused people to think they are protected by using non-medical devices for medical purposes.  
+
+If you think you're protected or protecting others, the evidence says otherwise. 
+
+So proceed understanding the risks you're exposed to, as they exist in the world of reality.  
+
+As opposed to the state of collective delusion that people have otherwise been laboring under.
+
+----- __286.4__ -----2022-06-05 04:58:32+08:00:
+
+Data are not good or bad.  Data is what it is.  The issue is what it says.  And this Cochrane Review is correcting the record.
+
+----- __286.5__ -----2022-06-05 05:03:19+08:00:
+
+lol . . . so that is precisely why this is important.  
+
+People have all these ideas about what reality is.  But it turns out that people's opinions aren't worth anything if they are not supported with evidence. 
+
+Cochrane Reviews tell you what the evidence is, and whether it's reliable.  
+
+That the usual ship of fools thinks otherwise is of no consequence.
+
+----- __286.6__ -----2022-06-05 05:26:04+08:00:
+
+The article does not say what you think it says.  Your adjective-laden characterizations are inconsequential.  
+
+Spend some more time with the material and then ask questions.  But right now, your attitude suggests that you're not in a position to participate in a productive conversation.
+
 ### 287: [Revisiting Pediatric COVID-19 Cases in Counties With and Without School Mask Requirements—United States, July 1—October 20 2021](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siaa/revisiting_pediatric_covid19_cases_in_counties/), submitted on 2022-06-05 00:32:38+08:00.
 
 ----- __287.1__ -----2022-06-05 00:39:04+08:00:
@@ -126,4 +168,10 @@ Chandra, Ambarish and Høeg, Tracy Beth, Revisiting Pediatric COVID-19 Cases in 
 This is a JAMA scientific publication, from Genevive R. Meredith, DrPH, MPH, Cornell University (among others).
 
 Meredith GR, Diel DG, Frazier PI, et al. Routine Surveillance and Vaccination on a University Campus During the Spread of the SARS-CoV-2 Omicron Variant. JAMA Netw Open. 2022;5(5):e2212906. doi:10.1001/jamanetworkopen.2022.12906
+
+### 289: [Two Pandemic Years Have Created a PPE Wasteland](https://old.reddit.com/r/CoronavirusIllinois/comments/v4vz00/two_pandemic_years_have_created_a_ppe_wasteland/), submitted on 2022-06-05 03:18:13+08:00.
+
+----- __289.1__ -----2022-06-05 04:57:14+08:00:
+
+This is such a great article.  The environmental impact of this hygiene theater is devastating.
 

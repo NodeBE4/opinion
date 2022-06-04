@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-30~2022-06-05'
 
 ### 1: [2022-05-31 07:20:48+08:00 推文](https://twitter.com/realcaixia/status/1531415358187487232)
 
-自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……
+自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……<br><br>韩连潮: 【上海市委太差火】习近平下令上海封城引发天怒人怨，上海市领导居然把责任推到居委会头上，引发全市民众议论。详情如图，最后一幅是居委会干部不管了，他们开始躺平，最后一句话表达了其极度不满情绪：“还管啥管”！<br><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUVEAAJDId?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUUAAI905F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeTUcAAR5LU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeVUEAAefGT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-05-31 09:36:19+08:00 推文](https://twitter.com/realcaixia/status/1531449460835876864)
 
@@ -74,4 +74,16 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 ### 15: [2022-06-05 00:21:17+08:00 推文](https://twitter.com/realcaixia/status/1533121725298315265)
 
 我截取了几幅图片，再次悼念我们无法忘却的六·四牺牲者！<br>特别请江峰先生谅解！江峰先生的《别样端午》，非常感动！<br>特别配圖《别样端午》，从江峰先生的视频节目中截取年轻人去天安门广场游行，他用英語說“This is my duty”.。<br>最後一圖：請看北京人如何纪念六·四<br><img style="" src="https://pbs.twimg.com/media/FUa-Eh2XoAIMEHk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUa-EuUWUAAi7OX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUa-E2pXEAYUwGY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUa-FJFXsAAbL8I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-06-05 03:28:53+08:00 推文](https://twitter.com/realcaixia/status/1533168936027660288)
+
+強烈推薦方菲訪談：“六.四與今天的中国——方菲专访林培瑞教授”<br>林培瑞教授1970年代就在中国学习、工作，到1989年在北京工作中认识了方励志夫妇，6.4屠杀之夜林培瑞在京，亲身感受那时北京的血腥恐怖氛围。访谈中他回顾了他中共的认识是如何发生根本性变化，访谈非常深刻，感人至深。<br>链接发到下一条推文<br><img style="" src="https://pbs.twimg.com/media/FUbpAvqWQAA6V2S?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUbpA9nWYAETXtO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUbpBJ6WIAALSSq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUbpBTeWUAElB8G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-06-05 03:31:13+08:00 推文](https://twitter.com/realcaixia/status/1533169520927449088)
+
+强力推荐：这个访谈极为深刻。<br><br>專訪漢學家林培瑞 (上)：從「左派青年」到對中共幻滅；六四把方勵之帶入美領館；洗腦毀壞了人的獨立思考能力 | 方菲訪談 06/03/2022 <a href="https://youtu.be/VlRhZBe20Yw" target="_blank" rel="noopener noreferrer">https://youtu.be/VlRhZBe20Yw</a>
+
+### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
+
+昨晚我在现场。
 
