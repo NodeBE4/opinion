@@ -179,6 +179,10 @@ Thank you again!
 
 Dragoons-as-mounted-infantry had largely fallen out of use as a meaningful designation by the Napoleonic Wars, partly as most cavalry were issued with carbines by that stage and so all could function as mounted infantry if required. Basically only the French dragoons still had some notion of also being distinctly mounted infantry (occasionally dragoon regiments would be outright dismounted and designated as 'Foot Dragoons' if a particular field army was running low on horses). Until the late 19th century when, as /u/IlluminatiRex said, *all* cavalry essentially gained a mounted infantry role, in most European armies dragoons functioned as 'reserve cavalry', i.e. heavy cavalry whose role was to achieve decisive concentrations of force at opportune positions.
 
+----- __494.2__ -----2022-06-04 23:03:10+08:00:
+
+I perhaps should have placed the 'European' a little earlier in the sentence. That said, as I note at the beginning of that comment, there were armies by the Napoleonic wars – particularly the French, on which the US Army heavily modelled itself – where all cavalry was expected to have some ability to function as dismounted skirmishers, and specifically-designated Dragoon regiments were no longer unique in this regard, and indeed arguably had been superseded in this role by specialist light cavalry such as Hussars and Chasseurs a Cheval. My bit on the late nineteenth century refers to the general abandonment across the board of pure arme blanche cavalry in favour of essentially entirely multirole forces.
+
 ### 495: [Was porn produced in and/or by the Soviet Union? Did they ever use porn as a form of agitprop internally? Did they ever use porn as part of their active measures campaign in America in the 60s and 70s?](https://old.reddit.com/r/AskHistorians/comments/v4dkru/was_porn_produced_in_andor_by_the_soviet_union/), submitted on 2022-06-04 09:00:16+08:00.
 
 ----- __495.1__ -----2022-06-04 13:52:06+08:00:
@@ -194,4 +198,10 @@ Do we know what the other mems' 1 million sub gifts were/are?
 ----- __496.2__ -----2022-06-04 21:23:33+08:00:
 
 You mean Amelia Watson the announcer from Paladins time travelled to Hololive to ensure she became the announcer from Paladins?
+
+### 497: [Look out, seems like Botan has reinvented the Great Panjandrum!](https://old.reddit.com/r/Hololive/comments/v4r0nf/look_out_seems_like_botan_has_reinvented_the/), submitted on 2022-06-04 23:18:53+08:00.
+
+----- __497.1__ -----2022-06-04 23:19:28+08:00:
+
+For a touch of added context, the [(Great) Panjandrum](https://en.wikipedia.org/wiki/Panjandrum) was an experimental weapon developed in WW2 that was basically a bomb on rocket-propelled wheels.
 
