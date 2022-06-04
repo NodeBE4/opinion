@@ -189,19 +189,25 @@ I perhaps should have placed the 'European' a little earlier in the sentence. Th
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 496: [Kiara clearing up some misunderstandings regarding her new costume and if all of Myth will be getting one too.](https://old.reddit.com/r/Hololive/comments/v4o6vb/kiara_clearing_up_some_misunderstandings/), submitted on 2022-06-04 20:48:33+08:00.
+### 496: [Spaghetti Westerns were famously usually made by Italian leftists; did these films find much popularity in the Eastern bloc as a result? Indeed, did the USSR and its satellite states have their own Westerns?](https://old.reddit.com/r/AskHistorians/comments/v4hjd7/spaghetti_westerns_were_famously_usually_made_by/), submitted on 2022-06-04 12:55:33+08:00.
 
------ __496.1__ -----2022-06-04 21:08:40+08:00:
+----- __496.1__ -----2022-06-05 01:28:10+08:00:
+
+Thank you!
+
+### 497: [Kiara clearing up some misunderstandings regarding her new costume and if all of Myth will be getting one too.](https://old.reddit.com/r/Hololive/comments/v4o6vb/kiara_clearing_up_some_misunderstandings/), submitted on 2022-06-04 20:48:33+08:00.
+
+----- __497.1__ -----2022-06-04 21:08:40+08:00:
 
 Do we know what the other mems' 1 million sub gifts were/are?
 
------ __496.2__ -----2022-06-04 21:23:33+08:00:
+----- __497.2__ -----2022-06-04 21:23:33+08:00:
 
 You mean Amelia Watson the announcer from Paladins time travelled to Hololive to ensure she became the announcer from Paladins?
 
-### 497: [Look out, seems like Botan has reinvented the Great Panjandrum!](https://old.reddit.com/r/Hololive/comments/v4r0nf/look_out_seems_like_botan_has_reinvented_the/), submitted on 2022-06-04 23:18:53+08:00.
+### 498: [Look out, seems like Botan has reinvented the Great Panjandrum!](https://old.reddit.com/r/Hololive/comments/v4r0nf/look_out_seems_like_botan_has_reinvented_the/), submitted on 2022-06-04 23:18:53+08:00.
 
------ __497.1__ -----2022-06-04 23:19:28+08:00:
+----- __498.1__ -----2022-06-04 23:19:28+08:00:
 
 For a touch of added context, the [(Great) Panjandrum](https://en.wikipedia.org/wiki/Panjandrum) was an experimental weapon developed in WW2 that was basically a bomb on rocket-propelled wheels.
 
