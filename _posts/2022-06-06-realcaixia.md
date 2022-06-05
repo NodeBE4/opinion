@@ -47,3 +47,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FUgjWHsWIAMhETg?format=jpg
 
 特别推荐#议报发布《张智斌: 中国面临巨变，深切缅怀“六四”》<br>作者提出的三个问题，也是我们需要思考与回答的重大问题：<br>1，中国的过去——对改革开放的再认识和如何评价邓小平？<br>2，中国的现在问题和困境——历史会怎样评价习近平？<br>3，中国的将来——希望与出路何在？ <a href="https://yibaochina.com/?p=246803" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246803</a>
 
+### 9: [2022-06-06 04:32:05+08:00 推文](https://twitter.com/realcaixia/status/1533547227204952064)
+
+Re @nora48638299 一个很好的提议。中共形成的话语毒害影响了几代人。要完全清除中共党言党语，需要做长久的努力。
+
