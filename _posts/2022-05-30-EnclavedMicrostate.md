@@ -275,3 +275,9 @@ A bold choice of words.
 
 Which mods, out of interest?
 
+### 504: [[Video Games] Someone leaked classified military documents on the War Thunder forum (for the third time in a year)](https://old.reddit.com/r/HobbyDrama/comments/v5ei9e/video_games_someone_leaked_classified_military/), submitted on 2022-06-05 22:29:57+08:00.
+
+----- __504.1__ -----2022-06-06 01:30:01+08:00:
+
+*cries in VTuber minutiae*
+
