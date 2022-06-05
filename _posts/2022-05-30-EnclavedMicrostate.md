@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-04
+date: 2022-06-05
 from: https://old.reddit.com/r/AskHistorians/comments/v0f9gn/with_all_the_talk_of_the_2nd_amendment_and_its/
 layout: post
 tags:
@@ -223,9 +223,33 @@ You mean Amelia Watson the announcer from Paladins time travelled to Hololive to
 
 As the other comment asked, in what way?
 
+----- __498.2__ -----2022-06-05 11:55:38+08:00:
+
+> It really only started trending outside of Japan about a year ago.
+
+Hate to break it to you, but 2020 was *two* years ago now.
+
+----- __498.3__ -----2022-06-05 11:56:25+08:00:
+
+A few 3D animations superimposed and rotoscoped onto real life footage.
+
 ### 499: [Look out, seems like Botan has reinvented the Great Panjandrum!](https://old.reddit.com/r/Hololive/comments/v4r0nf/look_out_seems_like_botan_has_reinvented_the/), submitted on 2022-06-04 23:18:53+08:00.
 
 ----- __499.1__ -----2022-06-04 23:19:28+08:00:
 
 For a touch of added context, the [(Great) Panjandrum](https://en.wikipedia.org/wiki/Panjandrum) was an experimental weapon developed in WW2 that was basically a bomb on rocket-propelled wheels.
+
+### 500: [smol mumei](https://old.reddit.com/r/Hololive/comments/v55lbu/smol_mumei/), submitted on 2022-06-05 12:14:40+08:00.
+
+----- __500.1__ -----2022-06-05 12:19:59+08:00:
+
+Oh no she ate her
+
+----- __500.2__ -----2022-06-05 12:34:12+08:00:
+
+Yes, but if you're not paying close attention...
+
+----- __500.3__ -----2022-06-05 12:40:00+08:00:
+
+A bold choice of words.
 
