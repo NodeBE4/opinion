@@ -121,6 +121,10 @@ Lamy excepted.
 
 You forgot 'comedians'.
 
+----- __488.4__ -----2022-06-05 12:53:40+08:00:
+
+Walfie's been drawing Lazulight since they debuted so it's not the biggest shift in the world to be honest.
+
 ### 489: [The Forbidden Words (Translated) [ODOC]](https://old.reddit.com/r/Hololive/comments/v1f8z2/the_forbidden_words_translated_odoc/), submitted on 2022-05-31 09:46:04+08:00.
 
 ----- __489.1__ -----2022-05-31 19:31:53+08:00:
