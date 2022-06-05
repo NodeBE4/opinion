@@ -281,3 +281,9 @@ Which mods, out of interest?
 
 *cries in VTuber minutiae*
 
+### 505: [Painting Artist Translation](https://old.reddit.com/r/ChineseTranslation/comments/v5f8y2/painting_artist_translation/), submitted on 2022-06-05 23:06:37+08:00.
+
+----- __505.1__ -----2022-06-06 02:55:34+08:00:
+
+Looks like 王章 Wang Zhang (at least in Mandarin).
+
