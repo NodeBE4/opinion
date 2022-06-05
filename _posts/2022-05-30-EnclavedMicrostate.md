@@ -243,17 +243,29 @@ A few 3D animations superimposed and rotoscoped onto real life footage.
 
 For a touch of added context, the [(Great) Panjandrum](https://en.wikipedia.org/wiki/Panjandrum) was an experimental weapon developed in WW2 that was basically a bomb on rocket-propelled wheels.
 
-### 500: [smol mumei](https://old.reddit.com/r/Hololive/comments/v55lbu/smol_mumei/), submitted on 2022-06-05 12:14:40+08:00.
+### 500: [When did China Become Aware of America's Existence and What Were Their Reactions to the Discovery of a New Continent?](https://old.reddit.com/r/ChineseHistory/comments/v4riae/when_did_china_become_aware_of_americas_existence/), submitted on 2022-06-04 23:43:48+08:00.
 
------ __500.1__ -----2022-06-05 12:19:59+08:00:
+----- __500.1__ -----2022-06-05 15:19:16+08:00:
+
+Don't promote conspiracy theories and especially not Menzies'.
+
+### 501: [smol mumei](https://old.reddit.com/r/Hololive/comments/v55lbu/smol_mumei/), submitted on 2022-06-05 12:14:40+08:00.
+
+----- __501.1__ -----2022-06-05 12:19:59+08:00:
 
 Oh no she ate her
 
------ __500.2__ -----2022-06-05 12:34:12+08:00:
+----- __501.2__ -----2022-06-05 12:34:12+08:00:
 
 Yes, but if you're not paying close attention...
 
------ __500.3__ -----2022-06-05 12:40:00+08:00:
+----- __501.3__ -----2022-06-05 12:40:00+08:00:
 
 A bold choice of words.
+
+### 502: [Went back to play FotS again. With some mods it aged like fine wine. Why can't we have real guns like this in Warhammer?](https://old.reddit.com/r/totalwar/comments/v56yqs/went_back_to_play_fots_again_with_some_mods_it/), submitted on 2022-06-05 13:48:10+08:00.
+
+----- __502.1__ -----2022-06-05 15:21:21+08:00:
+
+Which mods, out of interest?
 
