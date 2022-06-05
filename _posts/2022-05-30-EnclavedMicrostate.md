@@ -249,23 +249,29 @@ For a touch of added context, the [(Great) Panjandrum](https://en.wikipedia.org/
 
 Don't promote conspiracy theories and especially not Menzies'.
 
-### 501: [smol mumei](https://old.reddit.com/r/Hololive/comments/v55lbu/smol_mumei/), submitted on 2022-06-05 12:14:40+08:00.
+### 501: [me irl](https://old.reddit.com/r/me_irl/comments/v54ode/me_irl/), submitted on 2022-06-05 11:15:59+08:00.
 
------ __501.1__ -----2022-06-05 12:19:59+08:00:
+----- __501.1__ -----2022-06-05 17:47:10+08:00:
+
+As someone who only encountered Nuxtaku *after* falling beyond the VTuber event horizon, what was the original appeal?
+
+### 502: [smol mumei](https://old.reddit.com/r/Hololive/comments/v55lbu/smol_mumei/), submitted on 2022-06-05 12:14:40+08:00.
+
+----- __502.1__ -----2022-06-05 12:19:59+08:00:
 
 Oh no she ate her
 
------ __501.2__ -----2022-06-05 12:34:12+08:00:
+----- __502.2__ -----2022-06-05 12:34:12+08:00:
 
 Yes, but if you're not paying close attention...
 
------ __501.3__ -----2022-06-05 12:40:00+08:00:
+----- __502.3__ -----2022-06-05 12:40:00+08:00:
 
 A bold choice of words.
 
-### 502: [Went back to play FotS again. With some mods it aged like fine wine. Why can't we have real guns like this in Warhammer?](https://old.reddit.com/r/totalwar/comments/v56yqs/went_back_to_play_fots_again_with_some_mods_it/), submitted on 2022-06-05 13:48:10+08:00.
+### 503: [Went back to play FotS again. With some mods it aged like fine wine. Why can't we have real guns like this in Warhammer?](https://old.reddit.com/r/totalwar/comments/v56yqs/went_back_to_play_fots_again_with_some_mods_it/), submitted on 2022-06-05 13:48:10+08:00.
 
------ __502.1__ -----2022-06-05 15:21:21+08:00:
+----- __503.1__ -----2022-06-05 15:21:21+08:00:
 
 Which mods, out of interest?
 
