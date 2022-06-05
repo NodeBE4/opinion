@@ -585,6 +585,16 @@ No that has to be an edit, surely.
 
 *babbles incoherently in despair*
 
+----- __479.33__ -----2022-06-05 20:22:04+08:00:
+
+I was wondering when that would come up again. Poor Fubuki.
+
+The big shame is that to be honest, it's not bad in concept: La+ Darkness had interviewed Robert Pattinson and Zoe Kravitz for The Batman and that went down quite well. What went wrong was Jared Leto being a charisma vacuum.
+
+----- __479.34__ -----2022-06-05 20:24:27+08:00:
+
+Ah so it's not just me who secretly wants to see Wiseau do Morbius.
+
 ### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
 ----- __480.1__ -----2022-05-30 02:54:43+08:00:
