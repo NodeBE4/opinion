@@ -85,7 +85,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 18: [2022-05-24 21:40:13+08:00 推文](https://twitter.com/realcaixia/status/1529094922023862276)
 
-中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。<br><br>ZHANGDONG: 遗憾！被封口或被迫闭嘴的还有清华教授郭于华，她的最后一条推特停留在2022年1月31日，微博公号还在九死一生地挣扎。此外，备受尊敬的鲍彤老先生也已长达四个月没再更新推特，与之互动频繁的老友孟孙先生也于3月11日告别推友。😭😭<br>何时起，东方苍茫大地万马齐喑？<br><br><img style="" src="https://pbs.twimg.com/media/FTgZ7JeWQAISNMM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1528943209975623680" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1528943209975623680</a>
+中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
@@ -133,7 +133,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 30: [2022-05-26 23:05:36+08:00 推文](https://twitter.com/realcaixia/status/1529841185031716864)
 
-清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。
+清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。<br><br>Jam: “习主席，太伟大了！他做主席，做一辈子”，中国人口不用计划生育,也要减半。<br><br><video src="https://video.twimg.com/ext_tw_video/1529653249585860609/pu/vid/640x368/qR0MHZzcuVXN3qXg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529653249585860609/pu/img/GutYr44ZW7OaG9rj.jpg"></video>
 
 ### 31: [2022-05-27 07:36:34+08:00 推文](https://twitter.com/realcaixia/status/1529969775803260931)
 
