@@ -25,3 +25,11 @@ BaeRyS honeymoon photo
 
 One day we will discover that it is in fact Fauna who is flipped Anuaf, and not the other way around.
 
+----- __507.2__ -----2022-06-06 15:04:42+08:00:
+
+So if Fauna is flipped Enuaf then is Anuaf flipped Faune?
+
+----- __507.3__ -----2022-06-06 15:06:30+08:00:
+
+...I need to hand in my pun credentials.
+
