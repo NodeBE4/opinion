@@ -85,7 +85,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
 
-Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-01-04 21:26:13+08:00 推文](https://twitter.com/realcaixia/status/1478357099000340490)
 
@@ -93,7 +93,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 20: [2022-01-05 22:05:33+08:00 推文](https://twitter.com/realcaixia/status/1478729384701960202)
 
-中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
+中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style="" src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
 
 ### 21: [2022-01-05 22:23:56+08:00 推文](https://twitter.com/realcaixia/status/1478734010260066307)
 
@@ -137,7 +137,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 31: [2022-01-07 20:35:57+08:00 推文](https://twitter.com/realcaixia/status/1479431614069456900)
 
-想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
+想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2022-01-07 21:09:18+08:00 推文](https://twitter.com/realcaixia/status/1479440004460036096)
 

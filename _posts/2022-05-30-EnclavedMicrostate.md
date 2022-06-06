@@ -281,6 +281,10 @@ Which mods, out of interest?
 
 *cries in VTuber minutiae*
 
+----- __504.2__ -----2022-06-06 09:52:04+08:00:
+
+The devs are from Russia but the studio as a whole is now based in Hungary; it's distributed by Tencent *in* China but it's otherwise self-publishing internationally.
+
 ### 505: [Painting Artist Translation](https://old.reddit.com/r/ChineseTranslation/comments/v5f8y2/painting_artist_translation/), submitted on 2022-06-05 23:06:37+08:00.
 
 ----- __505.1__ -----2022-06-06 02:55:34+08:00:

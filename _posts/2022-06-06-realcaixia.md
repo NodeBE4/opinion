@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-06-06~2022-06-12'
 
 ### 1: [2022-06-06 00:56:57+08:00 推文](https://twitter.com/realcaixia/status/1533493088835993605)
 
-转发此推文，以便于更多推友获知更多信息。
+转发此推文，以便于更多推友获知更多信息。<br><br>老好人: @realcaixia 1988年5月，于北师大相遇老鬼，得此书及老鬼的勉励。马先生应该认得他的笔迹。<br><br><img style="" src="https://pbs.twimg.com/media/FUgJO3pXoAEUr1x?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPMlWQAI-v5e?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPd4XEAII_Xn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-06-06 01:08:16+08:00 推文](https://twitter.com/realcaixia/status/1533495934994243584)
 
@@ -50,4 +50,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FUgjWHsWIAMhETg?format=jpg
 ### 9: [2022-06-06 04:32:05+08:00 推文](https://twitter.com/realcaixia/status/1533547227204952064)
 
 Re @nora48638299 一个很好的提议。中共形成的话语毒害影响了几代人。要完全清除中共党言党语，需要做长久的努力。
+
+### 10: [2022-06-06 07:54:58+08:00 推文](https://twitter.com/realcaixia/status/1533598282848649217)
+
+Re @wongkim728 说得对。老鬼的文章里就说道凡搞独裁专制的都想终身制。打倒终身制就是打倒专制政体！
+
+### 11: [2022-06-06 07:58:02+08:00 推文](https://twitter.com/realcaixia/status/1533599057008001029)
+
+Re @ocAAGnTuBJMcNz8 @wongkim728 对，必须是公开公正的民主选举，自然就搞不成终身制。说到底，必须争得中国实现民主政治！
+
+### 12: [2022-06-06 09:22:10+08:00 推文](https://twitter.com/realcaixia/status/1533620230680895488)
+
+Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权统治争取民主自由的路上携手同行！
 
