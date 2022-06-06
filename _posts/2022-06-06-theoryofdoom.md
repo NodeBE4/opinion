@@ -19,3 +19,11 @@ title: theoryofdoom在2022-06-06~2022-06-12的言论
 
 Post a submission statement.
 
+### 291: [Climbing the ladder: How the West can manage escalation in Ukraine and beyond](https://old.reddit.com/r/geopolitics/comments/v61j7c/climbing_the_ladder_how_the_west_can_manage/), submitted on 2022-06-06 19:41:34+08:00.
+
+----- __291.1__ -----2022-06-06 19:46:20+08:00:
+
+Submission Statement: 
+
+In this Atlantic Council report, Richard D. Hooker, Jr. analyzes triggers for escalation in Ukraine at several different levels and suggests strategic approaches to manage those risks.  According to Hooker, what will become of Ukraine remains dependent on Western leadership.  The greatest risk is a settlement in which Putin remains poised to fight another day, and preventing such an outcome ought to be NATO and the EU's central objective.  To accomplish this, both NATO and the EU should adopt a comprehensive strategy to cooperate out of mutual self interest on all levels.
+
