@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-06
+date: 2022-06-07
 from: https://twitter.com/HeQinglian/status/1533508785221804037
 layout: post
 tags:
@@ -41,5 +41,17 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
+
+### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
+
+Re @lily_lama99 @JianglinLi 我倒有个建议，派“她”去联合国做拜登美国的形象大使——如果没这职位，亲善大使也合适。<br>话说，她比集政治正确于一身的奥八还多两正确：变性、不太瘦，那时奥八算最正确，现在没这两条还不行。
+
+### 9: [2022-06-06 22:29:54+08:00 推文](https://twitter.com/HeQinglian/status/1533818468159602690)
+
+读40年还不毕业 玻利维亚恐龙大学生再度引发争议 <br>文中谈的是这位52岁的职业大学生召集学生集会，酿成事故。<br>其实西方都有这类，不过不少人是读博。我见过一德国博士，总共拿了六博士学位，学费算是薪酬。问了解德国的人，说并无就业优势，六学位是语言学、古代某语言等冷门。 <a href="https://rfi.my/8TkU.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8TkU.T</a>
+
+### 10: [2022-06-07 00:02:13+08:00 推文](https://twitter.com/HeQinglian/status/1533841699260321797)
+
+Re @Wu_Zhi 这种人太多了，还特别自认掌握了真理。我现在看到这个类的，不吱声就拉黑。
 
