@@ -91,3 +91,7 @@ Re 这位朋友一直以和稀泥为特点，好几年未见面。我笑问：�
 
 Re @JohnChe68058637 这你不了解，学校教育与同伴压力远大于家庭教育。
 
+### 20: [2022-06-07 20:50:49+08:00 推文](https://twitter.com/HeQinglian/status/1534155920250482694)
+
+不付卢布，德国为何能继续购买俄天然气？ <br>看了这篇文章，发现左派当真是重名不重实。<br>制裁的要义是拒买俄天然气，不给其提供战争经费——这是实。<br>既然买了，还付卢布，却自夸自己继续购买，而且是用双重帐户转换货币——我没买，是银行代付的，这叫掩耳盗铃，图了个哄自个的虚名 <a href="https://p.dw.com/p/4CKL9?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CKL9?maca=zh-Twitter-sharing</a>
+

@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -213,7 +213,7 @@ Re @9788Abc 股市从来是主要与资本流动挂钩，与通胀没啥直接�
 
 ### 50: [2022-04-12 22:13:26+08:00 推文](https://twitter.com/HeQinglian/status/1513882991352811527)
 
-非常合理的受害者请求。<br>建议拜登立刻在美国增加0.1%-0.5%的人头援乌税（收入或福利抵扣），无论贵贱贫富，上至亿万富翁，下至民主党供养的专业福利族，人人都交。<br>我当然也交。美国人多，这笔钱应该能够支持乌克兰政府（官员）好长一段时间了。<br>乌克兰应该在战争期间向世界各国持续提出这种要求。
+非常合理的受害者请求。<br>建议拜登立刻在美国增加0.1%-0.5%的人头援乌税（收入或福利抵扣），无论贵贱贫富，上至亿万富翁，下至民主党供养的专业福利族，人人都交。<br>我当然也交。美国人多，这笔钱应该能够支持乌克兰政府（官员）好长一段时间了。<br>乌克兰应该在战争期间向世界各国持续提出这种要求。<br><br>Ezio Mao☢: 破产了 - 4月12日乌克兰财政部长谢尔盖·马尔琴科表示，该国财政目前处于最糟糕的状况，并呼吁国际社会向基辅提供数百亿美元的直接财政支持。<br><br>马尔琴科在接受英国《金融时报》采访时表示，“我们承受巨大的压力，处于最糟糕的（财务）状况。现在面临乌克兰生存下去的问题。”<br><br><img style="" src="https://pbs.twimg.com/media/FQHXCdJaAAMKUmO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 51: [2022-04-12 22:17:22+08:00 推文](https://twitter.com/HeQinglian/status/1513883981019815937)
 
@@ -673,7 +673,7 @@ Re @FangYiDuan1 @gong84699718 首先，我这条推没有半点不对。只是�
 
 ### 165: [2022-04-16 05:04:24+08:00 推文](https://twitter.com/HeQinglian/status/1515073578445770757)
 
-盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助 <a href="https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank" target="_blank" rel="noopener noreferrer">https://ourcommunitynow.com/news-local/washingtons-trigger-happy-sanctions-may-push-countries-away-from-the-dollar-says-think-tank</a>
+盖尔·拉夫特（美国全球安全研究所联席所长、美国能源安全理事会高级顾问）对于这一个多月制裁对美元地位严重削弱的分析。<br><br>他还说过，随着对美债需求不断下降，美国将不得不提高其债券的利率，偿债成本将飙升，而留给国防医疗教育基础设施等的资金会更少，影响美国提供对外援助<br><br>He Qinglian: 这次俄乌战争输得最惨的是拜登政府。<br>1、验证了美国原有软实力不再，追随者寥寥，连仅剩的盟友也三心二意，心怀不满；<br>2、自己亲手毁掉了美元的全球霸主地位，以后只是国际货币多元化当中的老大；<br>3、信誉不再，亲手终结了全球化；<br>4、生化实验室的事情再度曝光；<br>5、唯一赢的是军工企业，能源卖个好价<br>
 
 ### 166: [2022-04-16 05:07:17+08:00 推文](https://twitter.com/HeQinglian/status/1515074305532563464)
 
