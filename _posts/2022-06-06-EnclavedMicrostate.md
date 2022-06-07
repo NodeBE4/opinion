@@ -51,6 +51,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 *irked linguist noises*
 
+----- __509.2__ -----2022-06-07 15:11:07+08:00:
+
+There isn't a single Chinese language, but rather a variety of languages with a common ancestor grouped under the Sinitic label. Mandarin, which is the basis of Standard Chinese and which is the most widely-spoken Chinese language on both sides of the Taiwan strait, is only one of these. I for one speak Cantonese natively, which is a language within the Yue subgroup that is not mutually intelligible with Mandarin.
+
 ### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __510.1__ -----2022-06-07 12:50:51+08:00:
