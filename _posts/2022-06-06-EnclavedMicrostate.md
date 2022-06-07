@@ -43,9 +43,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 509: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
+### 509: [W W W W - Weekly Discussion Thread, June 6th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/v64f8h/w_w_w_w_weekly_discussion_thread_june_6th_2022/), submitted on 2022-06-06 22:10:48+08:00.
 
------ __509.1__ -----2022-06-07 12:50:51+08:00:
+----- __509.1__ -----2022-06-07 14:22:12+08:00:
+
+> the chinese language
+
+*irked linguist noises*
+
+### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
+
+----- __510.1__ -----2022-06-07 12:50:51+08:00:
 
 This is one of those times where the most relevant answer to link is not one of my own, but rather one of /u/keyilan's on an older version of a similar question: https://www.reddit.com/r/AskHistorians/comments/6qdmvz/how_did_the_pope_respond_to_hong_xiuquan_claiming/
 
