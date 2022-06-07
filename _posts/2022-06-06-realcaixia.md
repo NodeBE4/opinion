@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-06-06
+date: 2022-06-08
 from: https://twitter.com/realcaixia/status/1533493088835993605
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-06-06~2022-06-12'
 
 ### 1: [2022-06-06 00:56:57+08:00 推文](https://twitter.com/realcaixia/status/1533493088835993605)
 
-转发此推文，以便于更多推友获知更多信息。
+转发此推文，以便于更多推友获知更多信息。<br><br>老好人: @realcaixia 1988年5月，于北师大相遇老鬼，得此书及老鬼的勉励。马先生应该认得他的笔迹。<br><br><img style="" src="https://pbs.twimg.com/media/FUgJO3pXoAEUr1x?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPMlWQAI-v5e?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPd4XEAII_Xn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-06-06 01:08:16+08:00 推文](https://twitter.com/realcaixia/status/1533495934994243584)
 
@@ -25,7 +25,7 @@ Re @lxm13529648 感谢您🙏🌹。
 
 ### 3: [2022-06-06 01:37:23+08:00 推文](https://twitter.com/realcaixia/status/1533503263282286595)
 
-他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。<br><br>方舟子: 带货的网红，因为在6月4日这天带货了一款坦克造型的蛋糕，被全网封杀了。我猜他和多数中国年轻人一样根本不知道6月4日这天和坦克有什么关系。<br><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUUAEzFtp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDOVIAA92ft?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDMUsAA4Kwt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUEAE0cE8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。
 
 ### 4: [2022-06-06 01:51:19+08:00 推文](https://twitter.com/realcaixia/status/1533506769783226370)
 
@@ -62,4 +62,8 @@ Re @ocAAGnTuBJMcNz8 @wongkim728 对，必须是公开公正的民主选举，自
 ### 12: [2022-06-06 09:22:10+08:00 推文](https://twitter.com/realcaixia/status/1533620230680895488)
 
 Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权统治争取民主自由的路上携手同行！
+
+### 13: [2022-06-08 02:14:16+08:00 推文](https://twitter.com/realcaixia/status/1534237320341245952)
+
+特别推荐#议报发布王维洛先生文章，文章回忆6.4之前因上马三峡工程争议不绝，姚依林亲口说5年内不提三峡工程，而6.4后仅仅3个多月，中共就提三峡工程，今天看是为转移注意力，此后中共采用一系列手段歪曲历史……… <a href="https://yibaochina.com/?p=246791" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246791</a>
 
