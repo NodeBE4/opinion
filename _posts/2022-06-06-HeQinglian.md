@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -94,4 +94,8 @@ Re @JohnChe68058637 这你不了解，学校教育与同伴压力远大于家庭
 ### 20: [2022-06-07 20:50:49+08:00 推文](https://twitter.com/HeQinglian/status/1534155920250482694)
 
 不付卢布，德国为何能继续购买俄天然气？ <br>看了这篇文章，发现左派当真是重名不重实。<br>制裁的要义是拒买俄天然气，不给其提供战争经费——这是实。<br>既然买了，还付卢布，却自夸自己继续购买，而且是用双重帐户转换货币——我没买，是银行代付的，这叫掩耳盗铃，图了个哄自个的虚名 <a href="https://p.dw.com/p/4CKL9?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CKL9?maca=zh-Twitter-sharing</a>
+
+### 21: [2022-06-07 22:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1534182906440065025)
+
+Re @JiangShangrong 今年虽然我等小民全受高通胀之害，但想到原因及一开头就准确知道会发生如此结果，拜登美国、日本、欧盟等仍然愿意蹈海酬志（当然是各国小民），我还是觉得非常喜感，人要寻死，任谁也拦不住。<br>如同这两天我研究疫情起源及迟来的真相认知一样的感觉。
 
