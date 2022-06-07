@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-06
+date: 2022-06-07
 from: https://old.reddit.com/r/Hololive/comments/v5ke08/traveling_with_irys_ʕˉʷˉʔ/
 layout: post
 tags:
@@ -42,4 +42,12 @@ So if Fauna is flipped Enuaf then is Anuaf flipped Faune?
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 509: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
+
+----- __509.1__ -----2022-06-07 12:50:51+08:00:
+
+This is one of those times where the most relevant answer to link is not one of my own, but rather one of /u/keyilan's on an older version of a similar question: https://www.reddit.com/r/AskHistorians/comments/6qdmvz/how_did_the_pope_respond_to_hong_xiuquan_claiming/
+
+Our ability to discuss reception of the Taiping by various overseas faith leaders is limited by a lack of available published research, at least in English. Whether this is due to an absence of evidence or an absence of interest is an open question, and it may be that some years down the line we *will* know the opinions on the Taiping held by Pope Pius IX, or Saint Philaret of Moscow, or Archbishop John Bird Sumner of Canterbury. As it stands, however, that information is not readily accessible. We *do* have a lot of published opinions by missionaries of numerous denominations within China, and there has been considerable analysis thereof, both of which I discuss in [this answer](https://www.reddit.com/r/AskHistorians/comments/mtzo7d/what_were_some_reactions_from_the_european/gv3gv3n/). But as for leading lights back in Europe? Nothing as yet.
 
