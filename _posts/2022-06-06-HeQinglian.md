@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -98,4 +98,8 @@ Re @JohnChe68058637 这你不了解，学校教育与同伴压力远大于家庭
 ### 21: [2022-06-07 22:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1534182906440065025)
 
 Re @JiangShangrong 今年虽然我等小民全受高通胀之害，但想到原因及一开头就准确知道会发生如此结果，拜登美国、日本、欧盟等仍然愿意蹈海酬志（当然是各国小民），我还是觉得非常喜感，人要寻死，任谁也拦不住。<br>如同这两天我研究疫情起源及迟来的真相认知一样的感觉。
+
+### 22: [2022-06-07 23:48:58+08:00 推文](https://twitter.com/HeQinglian/status/1534200755715989505)
+
+WHO今年 5 月 5 日发布研究报告估计，从 2020 年 1 月到 2021 年 12 月，全球有 1330 万至 1660 万人因大流行而死亡。报告发表后遭各方质疑<br>现时间增加5个月零10天，死亡人数为630万<br>但利用疫情美国民主党成功窃选。<br>猴痘没被成为全球流行，只因患者主要为Gay，有损LGBTQI形象 <a href="https://www.nature.com/articles/d41586-022-01526-0" target="_blank" rel="noopener noreferrer">https://www.nature.com/articles/d41586-022-01526-0</a>
 
