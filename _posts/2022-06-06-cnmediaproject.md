@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-06
+date: 2022-06-07
 from: https://twitter.com/cnmediaproject/status/1533723299041415168
 layout: post
 tags:
@@ -18,4 +18,8 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 ### 1: [2022-06-06 16:11:44+08:00 推文](https://twitter.com/cnmediaproject/status/1533723299041415168)
 
 Generational Changes for Investigative Reporting: In amongst the commemorative articles that came with the 14th anniversary of the Wenchuan earthquake last month, there were a handful looking back on what the disaster meant for China's journalists. <a href="https://chinamediaproject.org/2022/06/06/generational-changes-for-disaster-reporting/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/06/generational-changes-for-disaster-reporting/</a><br><img style="" src="https://pbs.twimg.com/media/FUjhFLqaUAAw5Vk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
+
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
 

@@ -35,3 +35,9 @@ Submission Statement:
 
 In this Op-Ed, John Bolton argues that the time has come to reconsider the United States' strategic approach to Taiwan.  But a new framework is needed first.  The debate over Taiwan is not simply a matter of "defense," or providing the "right weaponry." So called "strategic ambiguity" is an archaic concept that has long outlived its utility --- a realization that has apparently even dawned on the current administration, since Biden has said no less than three times that the United States would defend Taiwan if it were attacked.  And that should come as no surprise.  Aside from economic and strategic access perspectives, Taiwan's territorial claim in the first island chain between China and the broader Pacific alone explains why.  Accordingly, America's strategy on Taiwan must contend with the fact that Taiwan is the geopolitical chokepoint to Beijing's hegemony in the eastern hemisphere, at the very least.
 
+----- __292.2__ -----2022-06-07 11:43:12+08:00:
+
+Submission Statement:  
+
+In this Op-Ed, John Bolton argues that the time has come to reconsider the United States' strategic approach to Taiwan.  But a new framework is needed first.  The debate over Taiwan is not simply a matter of "defense," or providing the "right weaponry." So called "strategic ambiguity" is an archaic concept that has long outlived its utility --- a realization that has apparently even dawned on the current administration, since Biden has said no less than three times that the United States would defend Taiwan if it were attacked.  And that should come as no surprise.  Aside from economic and strategic access perspectives, Taiwan's territorial claim in the first island chain between China and the broader Pacific alone explains why.  Accordingly, America's strategy on Taiwan must contend with the fact that Taiwan is the geopolitical chokepoint to Beijing's hegemony in the eastern hemisphere, at the very least.
+
