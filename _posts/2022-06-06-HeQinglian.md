@@ -171,3 +171,27 @@ Re @bbqlamb1 该机器由中国制造。纽约时报写过。
 
 《日经亚洲》6月6日报导，6月3日是美国投资人需要处分完成对中国“涉军”黑名单企业投资的期限。然而在期限前，华府投资禁令的执行机关悄悄告知投资人，若继续持有相关股票或债券不会被罚。<br>谷爱凌担任美国申奥大使的事，与这事相比，对美国国家安全的危害小得多。😂 <a href="https://tw.news.yahoo.com/%E9%99%90%E5%88%B6%E6%8A%95%E8%B3%87%E7%8E%A9%E5%81%87%E7%9A%84-%E7%BE%8E%E5%9C%8B%E5%85%B6%E5%AF%A6%E6%B2%92%E7%BD%B0%E6%B6%89%E8%BB%8D%E4%B8%AD%E4%BC%81%E6%8A%95%E8%B3%87%E4%BA%BA-223529440.html" target="_blank" rel="noopener noreferrer">https://tw.news.yahoo.com/%E9%99%90%E5%88%B6%E6%8A%95%E8%B3%87%E7%8E%A9%E5%81%87%E7%9A%84-%E7%BE%8E%E5%9C%8B%E5%85%B6%E5%AF%A6%E6%B2%92%E7%BD%B0%E6%B6%89%E8%BB%8D%E4%B8%AD%E4%BC%81%E6%8A%95%E8%B3%87%E4%BA%BA-223529440.html</a>
 
+### 40: [2022-06-09 03:25:14+08:00 推文](https://twitter.com/HeQinglian/status/1534617568580878337)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing 在中国制造的要价基础上加15%，然后换上东南亚国家的牌子？<br>当真是大美国做事作风。
+
+### 41: [2022-06-09 03:27:37+08:00 推文](https://twitter.com/HeQinglian/status/1534618167678492673)
+
+Re @eric64616879 不是。2019年1月，距离2020年大选还有一年零10个月，没时间更换机器；2020年1月，也同样没有时间。应该是多米尼机器的特点正是它们需要的，所以永远没时间更换。
+
+### 42: [2022-06-09 03:38:22+08:00 推文](https://twitter.com/HeQinglian/status/1534620871507197955)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing 答案在此：拜登政府几天前发表声明称，虽然美国政府在调查中国太阳能生产商是否正通过绕道柬埔寨、泰国、越南和马来西亚出口电池板来逃避关税，但这不会导致从这些国家进口的太阳能产品被加征关税。<br>同一文章介绍，要减缓全球变暖，总共需要投入131万亿美元（不计通胀的测算） <a href="https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%9A%82%E5%85%8D%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%81%90%E9%9A%BE%E5%8C%96%E8%A7%A3%E5%A4%AA%E9%98%B3%E8%83%BD%E7%B1%BB%E8%82%A1%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91%E6%88%98-11654672808" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%9A%82%E5%85%8D%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E6%81%90%E9%9A%BE%E5%8C%96%E8%A7%A3%E5%A4%AA%E9%98%B3%E8%83%BD%E7%B1%BB%E8%82%A1%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91%E6%88%98-11654672808</a>
+
+### 43: [2022-06-09 03:43:51+08:00 推文](https://twitter.com/HeQinglian/status/1534622252326584323)
+
+Re @JianglinLi @Wu_Zhi @RealBeiMing 气候变化，本来就有变暖变冷两种可能，人家只要变化，就有钱拿，最后将美元变成一钱不值的纸钞就算完事。
+
+### 44: [2022-06-09 04:00:00+08:00 推文](https://twitter.com/JudicialWatch/status/1534626317529927681)
+
+RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE: <a href="http://jwatch.us/NJ9AyP" target="_blank" rel="noopener noreferrer">http://jwatch.us/NJ9AyP</a><br><img style="" src="https://pbs.twimg.com/media/FUlSoR0XsAArBiP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
+
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
+
