@@ -29,3 +29,7 @@ Hope you find strength in the book my dear Ukrainian friends!<br><br>Arthur Khar
 
 Attending #Time100 summit with my first #freedomshoe, designed and produced by Tibetan activist Khenzom. It combines our support for Ukraine and Hong Kong, and opposition against dictatorships. Hope leaders in this community can be more prepared to defend democracy.<br>@annakwokfy<br><img style="" src="https://pbs.twimg.com/media/FUq2WXdWAAAo99F?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-06-08 22:41:27+08:00 推文](https://twitter.com/nathanlawkc/status/1534546152070209538)
+
+🏴Be Water. Be United.🎗<br>Hongkongers continue to chant our demands for democracy and freedom.<br>Please join us. <br>📆June 12 (Sunday)<br>⏰3:00 PM - 4:30 PM<br>📍Parliament Square Garden SW1P 3JX<br>#standwithhongkong<br><img style="" src="https://pbs.twimg.com/media/FUvNElpXoAANT0r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

@@ -111,55 +111,59 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing 感觉美国民主党政府高层已经没�
 
 Re @jeff47683665 你了解多少？当初那么媒体齐齐发声，直到英国研究发现所有患者全是Gay，媒体闭嘴，你是施瓦布？还是拜登？
 
-### 25: [2022-06-08 05:49:49+08:00 推文](https://twitter.com/HeQinglian/status/1534291562993262597)
+### 25: [2022-06-08 05:29:42+08:00 推文](https://twitter.com/xiaxiaoqiang/status/1534286501558853633)
+
+RT xiaxiaoqiang 夏小強<br>呵呵，民主黨自曝偷票機鐵證 <a href="https://www.xiaxiaoqiang.net/expose-themselves-to-vote-theft/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/expose-themselves-to-vote-theft/.html</a>
+
+### 26: [2022-06-08 05:49:49+08:00 推文](https://twitter.com/HeQinglian/status/1534291562993262597)
 
 Re @McalpineYongmei 我与你，你从乌克兰的角度想问题，最多算某一边的情绪感受。<br>我从为何发生、谁从这场战争中获利、以及对世界局势的影响来判断。<br>我不会因要得到你的尊敬就将自己放在你的这条水平线上。如果你认为信教让你洞察世界，你错了。<br>一场需要信息战来粉饰的战争，想掩盖什么？隐藏什么？你先问自己这点。
 
-### 26: [2022-06-08 05:52:34+08:00 推文](https://twitter.com/HeQinglian/status/1534292258043973639)
+### 27: [2022-06-08 05:52:34+08:00 推文](https://twitter.com/HeQinglian/status/1534292258043973639)
 
 Re @zt33268778 既然机器点票出问题，回到手工时代吧。在这种情况下，如果坚持要用机器，只能说美国不想诚实选举了。
 
-### 27: [2022-06-08 08:34:50+08:00 推文](https://twitter.com/HeQinglian/status/1534333090843312128)
+### 28: [2022-06-08 08:34:50+08:00 推文](https://twitter.com/HeQinglian/status/1534333090843312128)
 
 Re @McalpineYongmei 和平主义者都这样想。<br>这场战争摧毁的就是和平主义国际政策。
 
-### 28: [2022-06-08 08:38:04+08:00 推文](https://twitter.com/HeQinglian/status/1534333907449126914)
+### 29: [2022-06-08 08:38:04+08:00 推文](https://twitter.com/HeQinglian/status/1534333907449126914)
 
 Re @Xuanxuanwu8 @zt33268778 以前的收割选票当然有，方式并非2020年创新。2020年的特点是：大规模组织了130多个NGO以捍卫民主的名义参加；集各种收割选票方式之大成；利用疫情超大规模邮寄选票；BLM在基层选举中“全场紧逼”（除直接暴力之外，所有威胁全用上）——以上，时代周刊将此作为成就自述。
 
-### 29: [2022-06-08 08:45:54+08:00 推文](https://twitter.com/HeQinglian/status/1534335878973251586)
+### 30: [2022-06-08 08:45:54+08:00 推文](https://twitter.com/HeQinglian/status/1534335878973251586)
 
 Re @cskun1989 话说，大重置要利用疫情重置各国公民权利，发疫苗护照。美国、法国、加拿大都试图推行，遇到反抗（美国还加上司法判决），最后俄乌战争发生，各国趁机“集体免疫”了，最终比赛结果是：不肯参加大重置的中国率先实行中国式疫苗护照。
 
-### 30: [2022-06-08 08:57:38+08:00 推文](https://twitter.com/HeQinglian/status/1534338831079686149)
+### 31: [2022-06-08 08:57:38+08:00 推文](https://twitter.com/HeQinglian/status/1534338831079686149)
 
 Re @jeff47683665 WHO，CDC 和NHS？<br>去读这篇。还有今天我发的消息，读懂。<br>Declaration IV - Restore Scientific Integrity<br>MAY 11, 2022<br><br>请不要再来了，没时间手把手教你如何认清真相。也不在意你如何认识。 <a href="https://globalcovidsummit.org/NEWS/DECLARATION-IV-RESTORE-SCIENTIFIC-INTEGRITY" target="_blank" rel="noopener noreferrer">HTTPS://GLOBALCOVIDSUMMIT.ORG/NEWS/DECLARATION-IV-RESTORE-SCIENTIFIC-INTEGRITY</a>
 
-### 31: [2022-06-08 08:59:22+08:00 推文](https://twitter.com/HeQinglian/status/1534339266171502593)
+### 32: [2022-06-08 08:59:22+08:00 推文](https://twitter.com/HeQinglian/status/1534339266171502593)
 
 应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。
 
-### 32: [2022-06-08 10:04:12+08:00 推文](https://twitter.com/HeQinglian/status/1534355581116497921)
+### 33: [2022-06-08 10:04:12+08:00 推文](https://twitter.com/HeQinglian/status/1534355581116497921)
 
 Re @Meitiaowushi @cskun1989 WHO已经辟谣了，说高估了印度与德国的，低估了瑞典的，落后印度比美国少死一半人。<br>按照WHO最新公布的数据，截至2022年6月7日，全世界covid-19病例数高达5.32亿，死亡人数共计630万。其中美国死亡人数高居第一，101万；印度死亡人数第二，共计52.5万。
 
-### 33: [2022-06-08 10:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1534356028934041601)
+### 34: [2022-06-08 10:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1534356028934041601)
 
 Re @XienjieC @McalpineYongmei 一说乌克兰是炮灰，一大票战后才知乌克兰是什么的乌粉们立刻跳起来三丈高，口水喷出十丈远。
 
-### 34: [2022-06-08 10:17:39+08:00 推文](https://twitter.com/HeQinglian/status/1534358966712647680)
+### 35: [2022-06-08 10:17:39+08:00 推文](https://twitter.com/HeQinglian/status/1534358966712647680)
 
 Re @Wu_Zhi @JianglinLi @RealBeiMing 忽然想起：中国生产的风能、太阳能设备在世界的市场占有率均超过50%，竞争优势是价廉物不差。<br>美国发展风能与太阳能，中国成为供货商——好比中国经济打瞌睡时美国送上枕头，太合适了。我只奇怪，财长本来只管钱柜分配，突然介入绿能发展大计为哪般？
 
-### 35: [2022-06-08 19:12:54+08:00 推文](https://twitter.com/HeQinglian/status/1534493666479316992)
+### 36: [2022-06-08 19:12:54+08:00 推文](https://twitter.com/HeQinglian/status/1534493666479316992)
 
 Re @Meitiaowushi @cskun1989 其中提到印度，请直接写信给西雅图大学那位领导WHO统计死亡人数的教授，他在推上。<br>我们对两个报告都未看原文，相信质疑者吧。
 
-### 36: [2022-06-08 19:26:01+08:00 推文](https://twitter.com/HeQinglian/status/1534496967144898562)
+### 37: [2022-06-08 19:26:01+08:00 推文](https://twitter.com/HeQinglian/status/1534496967144898562)
 
 Re @eric64616879 没有。我发过推文，给过美国全国选举委员会的听证会链接。2019年1月与2000年1月，该委员会的听证会上，专家都指出36州采购的多米尼投票机存在两个主要问题：一是没有查验身份的功能，二是只要有0.01秒的外接，就可以被侵入修改数据。要求重新采购。<br>各州两次回答：没时间了。
 
-### 37: [2022-06-08 19:26:42+08:00 推文](https://twitter.com/HeQinglian/status/1534497139392405504)
+### 38: [2022-06-08 19:26:42+08:00 推文](https://twitter.com/HeQinglian/status/1534497139392405504)
 
 Re @bbqlamb1 该机器由中国制造。纽约时报写过。
 
