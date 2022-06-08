@@ -39,3 +39,7 @@ That word "stability" making quite a strong showing these days . . . A time to r
 
 Shades of Hostility: CMP's in-depth look at the last month's textbook illustration controversy in China. <a href="https://bit.ly/3Mw6fqL" target="_blank" rel="noopener noreferrer">https://bit.ly/3Mw6fqL</a><br><img style="" src="https://pbs.twimg.com/media/FUtXXp5aMAI7ypv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-06-08 17:26:10+08:00 推文](https://twitter.com/cnmediaproject/status/1534466808115503106)
+
+The newly appointed president of China's top official newswire is about loyalty to the CCP through and through. But some say he also wants to innovate, breaking new ground and doing the "propaganda that cannot be seen." <a href="https://chinamediaproject.org/2022/06/08/xinhuas-innovative-new-party-man/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/xinhuas-innovative-new-party-man/</a><br><img style="" src="https://pbs.twimg.com/media/FUuFZMIagAEgvNV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
