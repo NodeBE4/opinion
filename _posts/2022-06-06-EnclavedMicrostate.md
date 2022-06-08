@@ -59,6 +59,12 @@ There isn't a single Chinese language, but rather a variety of languages with a 
 
 Yes, by convention, but it's a bad convention and I'd like to influence people to change it. As a speaker of a minority Sinitic language, at a time when China itself has for decades cracked down on such languages, I may just have a certain justifiable annoyance at people treating Mandarin-derived Standard Chinese as *the* Chinese language.
 
+----- __509.4__ -----2022-06-08 14:48:51+08:00:
+
+>  an okay brand of instant noodles
+
+Demae Iccho is manna from heaven. I will not be taking further enquiries at this time.
+
 ### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __510.1__ -----2022-06-07 12:50:51+08:00:
@@ -80,6 +86,10 @@ While the Qing initially expelled many of the old Ming loyalists from Taiwan, le
 The Qing did not, however, exercise or intend to exercise meaningful control over the Taiwanese highlands until the 1870s, when diplomatic pressure legitimised calls for the state to expand its influence into those regions and also open them up for Han settlement. An aggressive programme of colonisation followed, with Han settlements strategically placed to break up tribal lands, woods cleared for roads and plantations, punitive expeditions against the indigenous tribes, and a deliberate programme of Confucianising education introduced. This would be interrupted by the Japanese annexation of Taiwan in 1895, at which point my understanding of the island's ethnic relations ceases.
 
 Framing this as settler-colonialism isn't new, although it has, for obvious reasons of lack of popular interest, not really made it outside academic discourse. If you're interested in going deeper though, Emma Teng's *Taiwan's Imagined Geography* is the thing to read.
+
+----- __511.2__ -----2022-06-08 14:42:11+08:00:
+
+Assimilatory policies have meant that the plains indigenous peoples have unfortunately largely been subsumed, although there are still some 14,000 or so people identifying as members of one of the plains tribes (the three principal and locally-recognised ones being the Siraya, Taivoan, and Makatao). The highland tribes have generally remained much more cohesive, and altogether account for a little over 550,000 people. The combined indigenous people of Taiwan currently constitute around 2.4% of the total national population, albeit, as stated, weighted overwhelmingly towards the highland tribes.
 
 ### 512: [Opinions on IRyS and her Outfits "Issue"](https://old.reddit.com/r/Hololive/comments/v74fm5/opinions_on_irys_and_her_outfits_issue/), submitted on 2022-06-08 02:53:54+08:00.
 

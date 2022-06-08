@@ -145,7 +145,7 @@ In our dictionary entry on "ideol. and pol. education" (思政), this example st
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
-Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style="" src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
@@ -161,7 +161,7 @@ Re Here is a whole group of texts designed to teach teachers in HOW TO work "ide
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
-Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
+Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-17 11:17:41+08:00 推文](https://twitter.com/suelinwong/status/1471680973347901442)
 
