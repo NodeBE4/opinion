@@ -65,6 +65,18 @@ Yes, by convention, but it's a bad convention and I'd like to influence people t
 
 Demae Iccho is manna from heaven. I will not be taking further enquiries at this time.
 
+----- __509.5__ -----2022-06-08 18:45:16+08:00:
+
+It'll depend on your definition, because given things like the recent controversy over Luxiem's merch vis-a-vis other EN units as well as ex-KR and ID livers, it seems like there's a decent chunk of people who don't see Niji as treating its talents equitably.
+
+----- __509.6__ -----2022-06-08 18:46:56+08:00:
+
+Those two also caught my notice. Firstly, 20% annual growth does not sound sustainable.
+
+Secondly, I'm getting the distinct impression that Anycolor's approach is to disincentivise smaller talents leaving (given the comments about IP ownership and viability outside the company), and incentivise bigger talents staying. And I mean that works from a corporate perspective, but the word 'sustainability' continues to gnaw at the back of my mind here: how long can they keep it up? 
+
+EDIT: For another, at what point does it become the case that Niji either can't keep their big talents from seeking greener pastures because the agency isn't providing as much support as those talents might be able to arrange for themselves for less, or can't keep their small talents because they aren't getting the same incentives?
+
 ### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __510.1__ -----2022-06-07 12:50:51+08:00:
