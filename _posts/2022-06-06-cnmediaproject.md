@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-07
+date: 2022-06-08
 from: https://twitter.com/cnmediaproject/status/1533723299041415168
 layout: post
 tags:
@@ -21,5 +21,17 @@ Generational Changes for Investigative Reporting: In amongst the commemorative a
 
 ### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
 
-RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔
+
+### 3: [2022-06-08 11:42:25+08:00 推文](https://twitter.com/cnmediaproject/status/1534380298376716289)
+
+Illustrations in primary school textbooks in China recently sparked a fierce debate over curriculum standards -- and wild conspiracies about foreign infiltration. How could this happen in a country where internal censorship is among the world's strictest? <a href="https://chinamediaproject.org/2022/06/08/shades-of-hostility/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/shades-of-hostility/</a><br><img style="" src="https://pbs.twimg.com/media/FUs2vfVaMAEKAaq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-06-08 11:45:24+08:00 推文](https://twitter.com/cnmediaproject/status/1534381048620281856)
+
+Re David Bandurski and Stella Chen walk through the controversy that prompted Hu Xijin to reassure "that the position of Chinese education is generally solid, and the entire publishing industry has long been ... in the hands of those who love the Party and love the nation.”
+
+### 5: [2022-06-08 12:37:41+08:00 推文](https://twitter.com/cnmediaproject/status/1534394208169390080)
+
+That word "stability" making quite a strong showing these days . . . A time to reassure. Page 2 of the People's Daily today.<br><img style="" src="https://pbs.twimg.com/media/FUtDZKeakAAWDMN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

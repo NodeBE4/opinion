@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-07
+date: 2022-06-08
 from: https://old.reddit.com/r/Hololive/comments/v5ke08/traveling_with_irys_ʕˉʷˉʔ/
 layout: post
 tags:
@@ -80,4 +80,10 @@ While the Qing initially expelled many of the old Ming loyalists from Taiwan, le
 The Qing did not, however, exercise or intend to exercise meaningful control over the Taiwanese highlands until the 1870s, when diplomatic pressure legitimised calls for the state to expand its influence into those regions and also open them up for Han settlement. An aggressive programme of colonisation followed, with Han settlements strategically placed to break up tribal lands, woods cleared for roads and plantations, punitive expeditions against the indigenous tribes, and a deliberate programme of Confucianising education introduced. This would be interrupted by the Japanese annexation of Taiwan in 1895, at which point my understanding of the island's ethnic relations ceases.
 
 Framing this as settler-colonialism isn't new, although it has, for obvious reasons of lack of popular interest, not really made it outside academic discourse. If you're interested in going deeper though, Emma Teng's *Taiwan's Imagined Geography* is the thing to read.
+
+### 512: [Opinions on IRyS and her Outfits "Issue"](https://old.reddit.com/r/Hololive/comments/v74fm5/opinions_on_irys_and_her_outfits_issue/), submitted on 2022-06-08 02:53:54+08:00.
+
+----- __512.1__ -----2022-06-08 12:27:17+08:00:
+
+I'd like to throw in an extra factor that doesn't always get brought up: while IRyS happens to live in Japan, the original VSinger requirements *did not* specify that applicants had to live in Japan, only that those who were Japanese-fluent would be preferred. So for all we know, Cover planned around the VSinger not being based in Japan and IRyS being in Japan was pure coincidence. Given how well in advance we know Cover plans some things, it's legitimately possible that the original roadmap didn't involve 3D until well down the line.
 
