@@ -77,6 +77,14 @@ Secondly, I'm getting the distinct impression that Anycolor's approach is to dis
 
 EDIT: For another, at what point does it become the case that Niji either can't keep their big talents from seeking greener pastures because the agency isn't providing as much support as those talents might be able to arrange for themselves for less, or can't keep their small talents because they aren't getting the same incentives?
 
+----- __509.7__ -----2022-06-09 05:11:50+08:00:
+
+So, here's my problem with that. If you reward your more popular talents outright, that creates a positive feedback loop: streaming success is translated into greater direct financial opportunity (through merch for instance) which helps do things like pay for better equipment and just generally improve quality of life given the societies we live in, and also, critically, those benefitting from the loop may be able to stream full time which helps a lot with building up the audience and engagement that got them boosted in the first place. 
+
+Now, the question is, does *not* giving a similar positive feedback loop to smaller talents, especially when you now have the means (we're talking 20% profit margins for 2021 here after all), essentially creating a negative feedback loop? How many of those smaller talents will be juggling one or more extra jobs because their VTuber activities aren't paying for themselves and they thus aren't getting attention from the agency? And if you're having to do your VTuber gig part-time, you're less able to build an audience than the full-timers.
+
+Fair treatment *is* possible – not that everyone will get equal attention, of course not, but if disproportionately rewarding the better talents also makes them more able to receive such rewards, then the agency is essentially deliberately widening the gap.
+
 ### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __510.1__ -----2022-06-07 12:50:51+08:00:
