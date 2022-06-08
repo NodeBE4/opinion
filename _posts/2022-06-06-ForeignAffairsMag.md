@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-06-07
+date: 2022-06-08
 from: https://old.reddit.com/r/UkrainianConflict/comments/v64est/what_if_ukraine_wins_victory_in_the_war_would_not/
 layout: post
 tags:
@@ -57,4 +57,21 @@ When the UAE signed the Abraham Accords, the country’s ambassador to the Unite
 
 
 The daily violence that is Israel’s military occupation takes place largely without international outcry. That the United States criticized the Israeli police for attacking mourners at the funeral of the Palestinian-American broadcaster Shireen Abu Aqleh—who was likely killed by a targeted Israeli attack while reporting in the occupied West Bank, according to reports by The Associated Press and CNN—is the exception that proves the rule. If the last two months are a harbinger, then the stage is set for the situation to become increasingly volatile across the occupied territories. Palestinians will refuse to have their basic rights indefinitely deferred."
+
+### 274: [Russia’s Nuclear Power Hegemony: The West Is Dependent on Moscow for More Than Just Gas and Oil](https://old.reddit.com/r/TrueReddit/comments/v7qs8m/russias_nuclear_power_hegemony_the_west_is/), submitted on 2022-06-08 22:21:34+08:00.
+
+----- __274.1__ -----2022-06-08 22:23:14+08:00:
+
+\[SS from the article by Jessica Lovering, Executive Director of the Good Energy Collective, and Havard Halland, senior economist at the OECD Development Centre\]
+
+"The invasion of Ukraine has thrust the world into an energy crisis. Since Russian troops began pouring across the country’s borders, oil prices have risen by more than a quarter. Gas prices have nearly doubled. And the outlook for both markets is not promising; as Western countries use sanctions to limit Russia's ability to finance its war with oil and gas revenues, energy prices are likely to remain high and volatile. The wartime uncertainty is dovetailing with concerns about climate change, prompting further anxiety about the world’s energy future. Countries needed to start shifting away from fossil fuels decades ago to protect the planet. Now, they must do so at a time when people are paying increasingly high prices.  
+
+
+As states look to bring down high energy costs and disentangle themselves from Russia—while combating climate change—many have expressed a renewed interest in nuclear energy. It’s easy to see why. Nuclear power is already one of the world’s largest sources of carbon-free energy, responsible for 25 percent of the European Union’s electricity. Unlike most forms of renewable energy, such as solar and wind, nuclear power can reliably produce large quantities of electricity every hour of the year. And it has already helped Europe move away from fossil fuels extracted elsewhere in the world, including natural gas from Russia.  
+
+
+But in the short term, increasing Europe’s reliance on nuclear energy won’t free the continent from Russian fuel. Just as Europe has become dependent on Russian oil and gas, so too has much of the world become dependent on Russia for the materials needed to make nuclear power. Russia has close to half of the global capacity to enrich uranium for nuclear fuel, and 40 percent of the nuclear energy produced in Europe depends on uranium from Russia or Kazakhstan and Uzbekistan, both close allies of the Kremlin. Roughly half of all U.S. nuclear power plants—about 10 percent of total U.S. electricity generation—are powered by imports from those three countries (a fact that could explain why the U.S. nuclear industry lobbied to exclude uranium from sanctions on Russian energy imports.) Russia also dominates the market for nuclear power plant exports and construction, especially in emerging economies. Its closest competitor is China, another autocracy. States that contract with China or Russia could spend decades dependent on them for nuclear fuel and services.  
+
+
+To end Russia’s dominance over the nuclear business (and prevent China from taking its place), democratic countries need to get serious about supporting their domestic nuclear industries—especially as new, innovative technologies hit the market. They must implement policies that create demand for nuclear energy as part of their broader climate agendas, and they need to invest in creating nuclear manufacturing facilities that can reliably supply a growing global market. Doing so is critical both to fighting climate change and curtailing the global power of authoritarian regimes."
 
