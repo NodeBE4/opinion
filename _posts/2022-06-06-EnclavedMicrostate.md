@@ -85,6 +85,30 @@ Now, the question is, does *not* giving a similar positive feedback loop to smal
 
 Fair treatment *is* possible – not that everyone will get equal attention, of course not, but if disproportionately rewarding the better talents also makes them more able to receive such rewards, then the agency is essentially deliberately widening the gap.
 
+----- __509.8__ -----2022-06-09 11:09:28+08:00:
+
+Bundling a reply here with one to /u/Nel_son_et_lumiere:
+
+I do actually watch a bit of Niji, specifically EN (Selen and occasionally Pomu). Not a lot I'll grant, but I'm not doing this as a 100% outsider. As for drama, yes I'll admit I do have a sometimes-morbid fascination, but that's because it fires off my historian synapses a bit. Given that Niji a) has drama that gets brought up here frequently and b) has gone public and thus publishes a lot more of its internal info, what *else* do you expect me to have more to say on?
+
+Did I say I was a 'diehard Hololive tribalist'? Yes. But I also said, immediately after that:
+
+> I want that to be on Hololive's own merits and I don't want Nijisanji to do worse, because there are many talented people there who don't deserve to have their careers cut short by their agency making a risky financial decision.
+
+If there were ever a case of words being taken out of context it is that comment up there.
+
+____
+
+To the meat of the matter and drawing it away from the ad hominems, obviously not everyone *wants* to stream full time, but my contention is not that Niji is overtly disallowing its talents from streaming full time. What I was stating was that from appearances, there is a clear set of feedback loops that means if you are big you keep getting bigger, and if you are small you stay the same. fI you're small and don't want to stream full-time then sure, that works out. But if you are small and *want* to be able to stream full-time, those loops don't seem to have anything to work in your favour to allow you to do that.
+
+And sure, it's great that that 20% profit margin may be reinvested in more tech and so on, but you know, a further bonus for the talents who are the actual core of the operation might be nice?
+
+____
+
+EDIT: To expand a bit:
+
+I don't necessarily approach things with the notion that all agencies are necessarily bad; if I did I'd mainly watch indies. But I do look askance at a number of practices, and with a couple of major recent statements by Nijisanji and also more recently PRISM about certain internal matters, I find I have a lot in the industry to look *especially* askance at. As said, I do watch a couple of Niji talents and I don't have anything against and individual ones outside one or two (Fulgur in the past solely due to the Discord leaks which he's since apologised for and which I do agree in retrospect were overblown; Vox funnily enough I'd caught a bit of and liked just before Reimu incident and now I'm more ambivalent). But I think the agency managing those talents has an approach that I find somewhat objectionable.
+
 ### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __510.1__ -----2022-06-07 12:50:51+08:00:
