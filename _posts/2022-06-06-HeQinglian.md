@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -306,4 +306,8 @@ Re @Wu_Zhi 哪里，挺拜挺乌时，都以为小拜的海洛因能分享几口
 ### 73: [2022-06-10 04:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1534993617357619225)
 
 Re @Wu_Zhi @JianglinLi 赶快打听一下，贵德那位在世界经济论坛表态，即使死十万人也要与俄战斗到底的绿党部长造了防空洞没有？
+
+### 74: [2022-06-10 05:28:58+08:00 推文](https://twitter.com/HeQinglian/status/1535011092899979268)
+
+Re @Swanlake1979 希望你诚实，不同意我的看法直言，不要假借他人之口浇自己心中块垒。<br>有几个推友跟我多年，我知道他们是铁杆乌粉。但彼此尊重不同看法，他们不来我这强行要求我说什么，我也不管他们发表什么鸡血言论。现在鸡血过后，他们仍在我园子里。我也不会去要求他们承认自己看法不太正确。<br>君子断交不出恶声。
 
