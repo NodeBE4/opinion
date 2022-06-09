@@ -55,3 +55,7 @@ Xinhua's Innovative Party Man: A look at the appointment of Fu Hua (傅华) to t
 
 Shades of Hostility: CMP's rundown by Stella Chen and David Bandurski of the recent controversy over "ugly" illustrations in primary mathematics textbooks in China. <a href="https://chinamediaproject.org/2022/06/08/shades-of-hostility/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/shades-of-hostility/</a><br><img style="" src="https://pbs.twimg.com/media/FUyFA5yagAAs8KV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 11: [2022-06-09 15:07:24+08:00 推文](https://twitter.com/cnmediaproject/status/1534794271425183744)
+
+Re @sebastianveghk Yes, indeed. Thank you for the catch! :)
+
