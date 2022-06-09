@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-08
+date: 2022-06-09
 from: https://twitter.com/cnmediaproject/status/1533723299041415168
 layout: post
 tags:
@@ -21,7 +21,7 @@ Generational Changes for Investigative Reporting: In amongst the commemorative a
 
 ### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
 
-RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔
 
 ### 3: [2022-06-08 11:42:25+08:00 推文](https://twitter.com/cnmediaproject/status/1534380298376716289)
 
@@ -42,4 +42,16 @@ Shades of Hostility: CMP's in-depth look at the last month's textbook illustrati
 ### 7: [2022-06-08 17:26:10+08:00 推文](https://twitter.com/cnmediaproject/status/1534466808115503106)
 
 The newly appointed president of China's top official newswire is about loyalty to the CCP through and through. But some say he also wants to innovate, breaking new ground and doing the "propaganda that cannot be seen." <a href="https://chinamediaproject.org/2022/06/08/xinhuas-innovative-new-party-man/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/xinhuas-innovative-new-party-man/</a><br><img style="" src="https://pbs.twimg.com/media/FUuFZMIagAEgvNV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-06-09 10:14:45+08:00 推文](https://twitter.com/Maoviews/status/1534720624924319744)
+
+RT Mao<br>徐麟從執掌網信辦、外宣辦到擔任廣電總局局長，似乎是王小二過年，一年不如一年。網信比廣電重要多了，可隨意傳喚約談馬化騰馬雲過堂，管理網絡輿論。廣電基本事務性機構，央視、國際電台、中央電台被慎海雄拿走，電影局也歸中宣部，用廣東話說陰乾了。現在主要管電視劇、限制演員片酬，細枝末節<br><img style="" src="https://pbs.twimg.com/media/FUxsRYGaMAAITkA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-06-09 12:00:05+08:00 推文](https://twitter.com/cnmediaproject/status/1534747134918299648)
+
+Xinhua's Innovative Party Man: A look at the appointment of Fu Hua (傅华) to the top post at the country's official news agency. What does it mean? <a href="https://chinamediaproject.org/2022/06/08/xinhuas-innovative-new-party-man/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/xinhuas-innovative-new-party-man/</a><br><img style="" src="https://pbs.twimg.com/media/FUyEYYJaMAAtsZn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-06-09 12:02:53+08:00 推文](https://twitter.com/cnmediaproject/status/1534747837585829888)
+
+Shades of Hostility: CMP's rundown by Stella Chen and David Bandurski of the recent controversy over "ugly" illustrations in primary mathematics textbooks in China. <a href="https://chinamediaproject.org/2022/06/08/shades-of-hostility/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/shades-of-hostility/</a><br><img style="" src="https://pbs.twimg.com/media/FUyFA5yagAAs8KV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
