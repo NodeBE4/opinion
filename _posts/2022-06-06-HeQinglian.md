@@ -193,7 +193,7 @@ RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE
 
 ### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
 
-撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
 
 ### 46: [2022-06-09 04:38:59+08:00 推文](https://twitter.com/HeQinglian/status/1534636126018981891)
 
@@ -222,4 +222,16 @@ Re @HHWyH5IacghLykf 这有个现实情况：1、中低端医疗材料与制药�
 ### 52: [2022-06-09 07:30:51+08:00 推文](https://twitter.com/HeQinglian/status/1534679377279057921)
 
 后疫情时代觉醒的医道良知<br><br>5月两件大事，一是全球新冠肺炎峰会发表国际医学界17000人联名公开信，直斥大型科企、媒体、学术界和政府机构的腐败联盟从这场精心策划的灾难中获利，种种侵犯人权的防疫公共政策就是危害人类罪；另一件是WHO在严重质疑下被迫大幅缩减新冠死亡人数 <a href="https://www.epochtimes.com/gb/22/6/8/n13755199.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/6/8/n13755199.htm</a>
+
+### 53: [2022-06-09 21:37:19+08:00 推文](https://twitter.com/HeQinglian/status/1534892401021550592)
+
+Re @jtht2 这些年高盛在中国活得风生水起，人家的顾问库恩还写过《他改变了世界：江泽民传》，不知你们到底接触或者看过任何相关的外资资料没有，否则何以能够问出这种问题。
+
+### 54: [2022-06-09 23:28:04+08:00 推文](https://twitter.com/HeQinglian/status/1534920269353177088)
+
+中美关系三类估计：白宫、北京，海外中文媒体。<br>谁更准确，回头看。中国智库这项研究于2021年拜登就职第二天公布<br>拜登及新内阁对华思想全景图：中美经贸关系走向何方？<br> <br>两点主要估计：1、拜登内阁成员对华态度基本一致，不冷战不脱钩。2、合作派（布林肯）与强硬派（沙利文） <a href="http://finance.sina.cn/zl/2021-01-21/zl-ikftpnny0017402.d.html?&amp;m=8a76ce0df2e24093a035949aedfa9c71" target="_blank" rel="noopener noreferrer">http://finance.sina.cn/zl/2021-01-21/zl-ikftpnny0017402.d.html?&amp;m=8a76ce0df2e24093a035949aedfa9c71</a>
+
+### 55: [2022-06-09 23:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1534922525007826945)
+
+Re @lile88990 @JianglinLi 新泽西左，但不是BLM大本营。我住的地方多中产。<br>如果不是民主党偷票，新泽西应该一半以上是红的。新州主要是几个黑人聚居之地人口太多。<br>事实上，你的信息也过时了。
 

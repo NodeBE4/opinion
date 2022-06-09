@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-06-08
+date: 2022-06-09
 from: https://old.reddit.com/r/UkrainianConflict/comments/v64est/what_if_ukraine_wins_victory_in_the_war_would_not/
 layout: post
 tags:
@@ -74,4 +74,12 @@ But in the short term, increasing Europe’s reliance on nuclear energy won’t 
 
 
 To end Russia’s dominance over the nuclear business (and prevent China from taking its place), democratic countries need to get serious about supporting their domestic nuclear industries—especially as new, innovative technologies hit the market. They must implement policies that create demand for nuclear energy as part of their broader climate agendas, and they need to invest in creating nuclear manufacturing facilities that can reliably supply a growing global market. Doing so is critical both to fighting climate change and curtailing the global power of authoritarian regimes."
+
+### 275: [China’s Southern Strategy: Beijing Is Using the Global South to Constrain America](https://old.reddit.com/r/geopolitics/comments/v8id76/chinas_southern_strategy_beijing_is_using_the/), submitted on 2022-06-09 22:43:01+08:00.
+
+----- __275.1__ -----2022-06-09 22:44:56+08:00:
+
+\[SS from the article by Nadége Rolland, Senior Fellow for political and security affairs at the National Bureau of Asian Research.\]
+
+"For the past decade, Chinese President Xi Jinping has endeavored to help China attain what it considers to be its rightful position at the center of the world stage. To do this, Xi—along with the rest of China’s leadership—is attempting to consolidate the country’s economic, political, diplomatic, and military power. It is also working to counter U.S. pressure in the Indo-Pacific region. Xi’s desire to turn China into the world’s most powerful state is, after all, coupled with an inextricable corollary: the imperative of stopping what he sees as efforts by the West to contain it.But China’s grand strategy includes a third component: asserting its dominant position over a different international system of states. Chinese policymakers are attempting to create a sphere of influence comprising not just their country’s immediately contiguous region but also the entire emerging, non-Western, and largely nondemocratic world—the “global South.” Securing dominance over this vast swath of nations would provide a strong base for China’s power while restricting the United States’ actions and influence. Ultimately, that could help spell the end of U.S. global hegemony."
 
