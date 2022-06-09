@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-09
+date: 2022-06-10
 from: https://twitter.com/HeQinglian/status/1533508785221804037
 layout: post
 tags:
@@ -193,7 +193,7 @@ RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE
 
 ### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
 
-撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
 
 ### 46: [2022-06-09 04:38:59+08:00 推文](https://twitter.com/HeQinglian/status/1534636126018981891)
 
@@ -246,4 +246,64 @@ Re @Greatorentalman 与我的看法无关，是正在发生的事实。你看不
 ### 58: [2022-06-09 23:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1534926839155675139)
 
 Re @fading_you1 我书架上放着艾瑞克·霍布斯邦的三部曲《帝国的年代》、《资本的年代》、《革命的年代》，有时在想，那革命的年代算啥，真不上档次。如今才算是修炼成精的左派是在资本主义的头号大本营自挖祖坟，名之曰《挖祖坟的年代》。<br>可惜，这位逝世于全球化大潮初起之时。他如果活到今天，尚有力写作这第四部么？
+
+### 59: [2022-06-10 01:45:33+08:00 推文](https://twitter.com/HeQinglian/status/1534954866921066499)
+
+Re @Wu_Zhi @RFI_Cn 哪里，他觉得自己是邱吉尔，在至暗年代力扛反法西斯大旗。
+
+### 60: [2022-06-10 01:48:07+08:00 推文](https://twitter.com/HeQinglian/status/1534955516669087744)
+
+Re @fading_you1 确实如此。但史学领域从来就是左派的天下，右派的年鉴学派重事实，少幻想，缺乏吸引力。
+
+### 61: [2022-06-10 01:50:39+08:00 推文](https://twitter.com/HeQinglian/status/1534956150696906758)
+
+Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研究中国靠谱一些。<br>至少就这篇研究而言，言中七八成。<br>一味从政治立场出发贬低别人，我没那习惯，讲事实与道理。
+
+### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
+
+“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
+
+### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
+
+日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。<br><br>RFI 华语 - 法国国际广播电台: 日本加入北约的可能性有多大？<br> <a href="https://rfi.my/8U63.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8U63.T</a>
+
+### 64: [2022-06-10 03:31:56+08:00 推文](https://twitter.com/HeQinglian/status/1534981639587110912)
+
+Re @Swanlake1979 推文写得明白。当然是中方预测对了：不冷战、不脱钩，合作派占上风。
+
+### 65: [2022-06-10 03:33:40+08:00 推文](https://twitter.com/HeQinglian/status/1534982078022008837)
+
+Re @Swanlake1979 同出复旦，未见过面。我去复旦时，他已进京。<br>这个他们，就是“谣棍”，不视为正常人类即可。
+
+### 66: [2022-06-10 03:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1534982690583216129)
+
+有钱好，有钱就能成为全知全能。<br><br>William Long: 全球首富埃隆∙马斯克（Elon Musk）星期一（6月6日）在推特上说，“绝大多数人仍以为中国实施一胎化政策。尽管已经实施三胎化政策，中国去年的出生率居然出现新低！以目前的出生率，中国每一代人都将减少大约40%的人口！人口崩溃！”<br>
+
+### 67: [2022-06-10 03:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1534983098105987072)
+
+Re @Swanlake1979 美国在原点吗？<br>另外，你的交往圈是些啥人？怎么常听你转述一些不着调的东西？<br>还是与正经人、明白人多交流好。
+
+### 68: [2022-06-10 03:46:18+08:00 推文](https://twitter.com/HeQinglian/status/1534985257606430722)
+
+Re @Swanlake1979 这些我不关注。我指的是你经常转述国内乌粉的看法（想来目前在满地鸡血中收声了），还有什么王沪宁之类的。这事，郭文贵造过谣。
+
+### 69: [2022-06-10 03:50:42+08:00 推文](https://twitter.com/HeQinglian/status/1534986362310598656)
+
+Re @pandatress1 乌克兰没生存问题啊，泽连斯基政府从此不用收税了，世行、IMF代表美欧等四十国（美国说有这么多国）每月资助40亿美元，虽然比泽开口要的70亿少了40%，但想想根本不用劳动、工作、创造GDP，这钱来得多容易。从此大把花钱。
+
+### 70: [2022-06-10 03:56:08+08:00 推文](https://twitter.com/HeQinglian/status/1534987731021053952)
+
+担忧战争和动乱 美国掀起建造豪华防空洞热潮&nbsp; <br>我猜想，白宫主人与南希等人是第一批订户。<br>很好奇，那几个挺乌挺成乌眼鸡的华拜粉们是否得着了特别拨款？至少应该领他们参观一下。 <a href="https://p.dw.com/p/4CKgz?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CKgz?maca=zh-Twitter-sharing</a>
+
+### 71: [2022-06-10 03:59:05+08:00 推文](https://twitter.com/HeQinglian/status/1534988472058101784)
+
+报告：多数欧洲企业仍将在华投资创新研发 <br>感想：还是欧洲小弟们最懂美国带头大哥的心，耶伦表态要免关税，要发展风能太阳能（结果必然是买中国设备）才几天，人家早从带头大哥的战略摇摆姿态中更早就知道了——报告肯定做了好几个月，如今才拿出成果。 <a href="https://p.dw.com/p/4CTW4?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTW4?maca=zh-Twitter-sharing</a>
+
+### 72: [2022-06-10 04:01:05+08:00 推文](https://twitter.com/HeQinglian/status/1534988979073957904)
+
+Re @Wu_Zhi 哪里，挺拜挺乌时，都以为小拜的海洛因能分享几口；挺乌时，更以为自己蹲在白宫战略分析室的桌子下面或者窗帘后面。
+
+### 73: [2022-06-10 04:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1534993617357619225)
+
+Re @Wu_Zhi @JianglinLi 赶快打听一下，贵德那位在世界经济论坛表态，即使死十万人也要与俄战斗到底的绿党部长造了防空洞没有？
 
