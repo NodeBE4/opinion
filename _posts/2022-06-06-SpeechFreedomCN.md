@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-06-08
+date: 2022-06-09
 from: https://twitter.com/SpeechFreedomCN/status/1533990123502813184
 layout: post
 tags:
@@ -30,4 +30,12 @@ Luo Chongmin, former director of Education Department of Yunnan Province, now un
 ### 4: [2022-06-08 11:02:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1534370127751172097)
 
 Guangdong resident Huang, who sticked some poster publicly that "insulted national leaders in a homophonous way", arrested in Jan 2020. Subsequent update of the case remain unknown.<br><img style="" src="https://pbs.twimg.com/media/FUsDx7gWQAIwuxG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-06-09 07:53:37+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1534685108569100291)
+
+4月16日，当时的哈尔滨才解封不到一星期，当地居民唐某敏因在微信群中发布“要封城了”的“谣言”，被处行政拘留。就在第二天，17日深夜，哈尔滨政府宣布进入严控状态，“谣言”成真。<br><img style="" src="https://pbs.twimg.com/media/FUxLeGrWIAAmZq3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUxLfUZWYAAqJ6h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-06-09 08:00:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1534686841475059713)
+
+On Apr 16, police in Harbin detained a local netizen surnamed Tang for spreading a "rumor" that the city would soon be locked down due to Covid, which had been then lifted for only a few days. The very next night, Harbin gov't announced covid lockdown, making the "rumor" true.<br><img style="" src="https://pbs.twimg.com/media/FUxNdq0XoAAmGUj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUxNgg5XwAIRC4e?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
