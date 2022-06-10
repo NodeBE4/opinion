@@ -71,3 +71,11 @@ Re @niubi But for those craving variety there is always the overseas edition of 
 
 Re @ktse852 A very interesting thread here. Something to follow more closely.
 
+### 15: [2022-06-10 18:36:44+08:00 推文](https://twitter.com/cnmediaproject/status/1535209342613733376)
+
+In our latest CMP Dictionary, learned about the meaning and history of "hostile forces" (敌对势力). <a href="https://chinamediaproject.org/the_ccp_dictionary/hostile-forces/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/hostile-forces/</a><br><img style="" src="https://pbs.twimg.com/media/FU4ovlCacAElLnv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-06-10 18:38:24+08:00 推文](https://twitter.com/cnmediaproject/status/1535209758973915137)
+
+Re A term very relevant to our earlier post this week about the recently raging controversy over "ugly" Chinese primary textbook illustrations that many felt MUST be a foreign conspiracy. <a href="https://chinamediaproject.org/2022/06/08/shades-of-hostility/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/shades-of-hostility/</a><br><img style="" src="https://pbs.twimg.com/media/FU4pH4raMAEg2n1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

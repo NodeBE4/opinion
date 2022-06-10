@@ -149,9 +149,27 @@ Assimilatory policies have meant that the plains indigenous peoples have unfortu
 
 I'd like to throw in an extra factor that doesn't always get brought up: while IRyS happens to live in Japan, the original VSinger requirements *did not* specify that applicants had to live in Japan, only that those who were Japanese-fluent would be preferred. So for all we know, Cover planned around the VSinger not being based in Japan and IRyS being in Japan was pure coincidence. Given how well in advance we know Cover plans some things, it's legitimately possible that the original roadmap didn't involve 3D until well down the line.
 
-### 514: [holo animals](https://old.reddit.com/r/Hololive/comments/v8sgko/holo_animals/), submitted on 2022-06-10 06:16:18+08:00.
+### 514: [There's no such thing as a coincidence o7](https://old.reddit.com/r/Hololive/comments/v8r2fc/theres_no_such_thing_as_a_coincidence_o7/), submitted on 2022-06-10 05:12:42+08:00.
 
------ __514.1__ -----2022-06-10 09:32:58+08:00:
+----- __514.1__ -----2022-06-10 20:37:33+08:00:
+
+Without the racism I'd hope.
+
+### 515: [holo animals](https://old.reddit.com/r/Hololive/comments/v8sgko/holo_animals/), submitted on 2022-06-10 06:16:18+08:00.
+
+----- __515.1__ -----2022-06-10 09:32:58+08:00:
 
 Confusingly, while Zeta and Kaela aren't animals there is a certain degree of animal theming: Zeta has the antelope pin and also Bazo is sort of canonically a deer of some kind, while Kaela's outfit is inspired by the Barong which is a Balinese mythical creature.
+
+### 516: [What was it about the evolution of military combat among the nomadic peoples of the steppe that caused them to consistently dominate Europeans to the West when invading in force?](https://old.reddit.com/r/AskHistorians/comments/v8w6mu/what_was_it_about_the_evolution_of_military/), submitted on 2022-06-10 09:26:33+08:00.
+
+----- __516.1__ -----2022-06-10 20:36:26+08:00:
+
+You've stumbled upon a phenomenon known in some circles as the 'Nomadic Military Advantage', something on which more can be said but where I've written a few answers here:
+
+https://www.reddit.com/r/AskHistorians/comments/mhb2tl/why_wasnt_mongolia_invaded_or_annexed_any_time/gt0k2dc/
+
+https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/
+
+https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/
 

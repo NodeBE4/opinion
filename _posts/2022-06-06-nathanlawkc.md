@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-06-08
+date: 2022-06-10
 from: https://twitter.com/nathanlawkc/status/1533623924793171968
 layout: post
 tags:
@@ -32,4 +32,8 @@ Attending #Time100 summit with my first #freedomshoe, designed and produced by T
 ### 4: [2022-06-08 22:41:27+08:00 推文](https://twitter.com/nathanlawkc/status/1534546152070209538)
 
 🏴Be Water. Be United.🎗<br>Hongkongers continue to chant our demands for democracy and freedom.<br>Please join us. <br>📆June 12 (Sunday)<br>⏰3:00 PM - 4:30 PM<br>📍Parliament Square Garden SW1P 3JX<br>#standwithhongkong<br><img style="" src="https://pbs.twimg.com/media/FUvNElpXoAANT0r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-06-10 20:36:27+08:00 推文](https://twitter.com/nathanlawkc/status/1535239467652481024)
+
+Had a fascinating discussion with @katharintai at re:publica Berlin 2022, immediately after German Chancellor @OlafScholz's talk. <br>We covered the authoritarian entrenchment in Hong Kong, and how dictators threaten our democracy and freedom. It's time to stop being complacent.<br><img style="" src="https://pbs.twimg.com/media/FU5CWwiWIAIfrFU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU5CWwYXsAEgtuQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU5CWwUX0AINmjB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
