@@ -109,6 +109,14 @@ EDIT: To expand a bit:
 
 I don't necessarily approach things with the notion that all agencies are necessarily bad; if I did I'd mainly watch indies. But I do look askance at a number of practices, and with a couple of major recent statements by Nijisanji and also more recently PRISM about certain internal matters, I find I have a lot in the industry to look *especially* askance at. As said, I do watch a couple of Niji talents and I don't have anything against any individual ones outside one or two (Fulgur in the past solely due to the Discord leaks which he's since apologised for and which I do agree in retrospect were overblown; Vox funnily enough I'd caught a bit of and liked just before Reimu incident and now I'm more ambivalent). But I think the agency managing those talents has an approach that I find somewhat objectionable.
 
+----- __509.9__ -----2022-06-10 12:47:41+08:00:
+
+Look, I'm someone who bangs on about fair treatment a lot. But this is *not* a case of unfair treatment. Until relatively recently Hololive has had to operate on the assumption that 3D activities take place at the studio in Japan, and yet it created 3D models anyway in the hopes that members could travel soon enough to use them. And when that wasn't possible, they still pulled out all the stops to get Myth and ID1 into 3rd Fes. If this were all taking place sans-COVID, and EN and ID members weren't getting 3D within about 9 months except if the talents chose not to travel, then you could call it unfair. But we're still living in a situation where the logistics of getting people 3D outside Japan are complicated, and that in turn has had knock-on effects for EN members within Japan. Arguably, IRyS not already having 3D is unfair, but equally, it would be its own form of unfairness for her to get hers before Myth gets to properly use theirs (with neither Ina nor Kiara having used their Home3D yet and quite probably for technical reasons).
+
+----- __509.10__ -----2022-06-10 12:48:00+08:00:
+
+Also HK for good measure I guess.
+
 ### 510: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __510.1__ -----2022-06-07 12:50:51+08:00:
@@ -145,5 +153,5 @@ I'd like to throw in an extra factor that doesn't always get brought up: while I
 
 ----- __513.1__ -----2022-06-10 09:32:58+08:00:
 
-Confusingly, while Zeta and Kaela aren't animals there is a certain degree of animal theming: Zeta has the antelope pin and also Bazo is sort of canonically a deer of some kind, while Kaela's outfit is inspired by the *barong* which is a Balinese mythical creature.
+Confusingly, while Zeta and Kaela aren't animals there is a certain degree of animal theming: Zeta has the antelope pin and also Bazo is sort of canonically a deer of some kind, while Kaela's outfit is inspired by the Barong which is a Balinese mythical creature.
 
