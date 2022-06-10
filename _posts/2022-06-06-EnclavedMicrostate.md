@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-08
+date: 2022-06-10
 from: https://old.reddit.com/r/Hololive/comments/v5ke08/traveling_with_irys_ʕˉʷˉʔ/
 layout: post
 tags:
@@ -140,4 +140,10 @@ Assimilatory policies have meant that the plains indigenous peoples have unfortu
 ----- __512.1__ -----2022-06-08 12:27:17+08:00:
 
 I'd like to throw in an extra factor that doesn't always get brought up: while IRyS happens to live in Japan, the original VSinger requirements *did not* specify that applicants had to live in Japan, only that those who were Japanese-fluent would be preferred. So for all we know, Cover planned around the VSinger not being based in Japan and IRyS being in Japan was pure coincidence. Given how well in advance we know Cover plans some things, it's legitimately possible that the original roadmap didn't involve 3D until well down the line.
+
+### 513: [holo animals](https://old.reddit.com/r/Hololive/comments/v8sgko/holo_animals/), submitted on 2022-06-10 06:16:18+08:00.
+
+----- __513.1__ -----2022-06-10 09:32:58+08:00:
+
+Confusingly, while Zeta and Kaela aren't animals there is a certain degree of animal theming: Zeta has the antelope pin and also Bazo is sort of canonically a deer of some kind, while Kaela's outfit is inspired by the *barong* which is a Balinese mythical creature.
 

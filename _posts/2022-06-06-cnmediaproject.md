@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-09
+date: 2022-06-10
 from: https://twitter.com/cnmediaproject/status/1533723299041415168
 layout: post
 tags:
@@ -21,7 +21,7 @@ Generational Changes for Investigative Reporting: In amongst the commemorative a
 
 ### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
 
-RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔
 
 ### 3: [2022-06-08 11:42:25+08:00 推文](https://twitter.com/cnmediaproject/status/1534380298376716289)
 
@@ -58,4 +58,12 @@ Shades of Hostility: CMP's rundown by Stella Chen and David Bandurski of the rec
 ### 11: [2022-06-09 15:07:24+08:00 推文](https://twitter.com/cnmediaproject/status/1534794271425183744)
 
 Re @sebastianveghk Yes, indeed. Thank you for the catch! :)
+
+### 12: [2022-06-10 02:55:13+08:00 推文](https://twitter.com/niubi/status/1534972402047799340)
+
+RT Bill Bishop<br>Shanghai authorities are ordering some 14 million residents to undergo mass Covid-19 testing, raising the prospect of extended periods of home confinement for any who test positive <a href="https://www.wsj.com/articles/shanghai-orders-over-half-its-residents-to-undergo-covid-testing-as-resurgence-fears-rise-11654781093?st=fjgtc1sh69mngkh" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/shanghai-orders-over-half-its-residents-to-undergo-covid-testing-as-resurgence-fears-rise-11654781093?st=fjgtc1sh69mngkh</a>
+
+### 13: [2022-06-10 08:30:33+08:00 推文](https://twitter.com/cnmediaproject/status/1535056791679410176)
+
+Re @niubi But for those craving variety there is always the overseas edition of the People's Daily.<br><img style="" src="https://pbs.twimg.com/media/FU2d_j4aMAA86zn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
