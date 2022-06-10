@@ -25,7 +25,7 @@ Re @lxm13529648 感谢您🙏🌹。
 
 ### 3: [2022-06-06 01:37:23+08:00 推文](https://twitter.com/realcaixia/status/1533503263282286595)
 
-他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。
+他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。<br><br>方舟子: 带货的网红，因为在6月4日这天带货了一款坦克造型的蛋糕，被全网封杀了。我猜他和多数中国年轻人一样根本不知道6月4日这天和坦克有什么关系。<br><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUUAEzFtp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDOVIAA92ft?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDMUsAA4Kwt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUEAE0cE8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-06-06 01:51:19+08:00 推文](https://twitter.com/realcaixia/status/1533506769783226370)
 
@@ -73,11 +73,11 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 15: [2022-06-09 00:00:05+08:00 推文](https://twitter.com/realcaixia/status/1534565938405617664)
 
-从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。<br><br>LeLeFarley 乐乐法利: 喔！这段儿我在历史书上看过不止一次👍<br><br><img style="" src="https://pbs.twimg.com/media/FUqWGipWYAE3_6Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。
 
 ### 16: [2022-06-09 20:43:51+08:00 推文](https://twitter.com/realcaixia/status/1534878944360644608)
 
-这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。
+这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。<br><br>RICHARD FULL: 6月3日晚，在维多利亚公园（香港六四烛光晚会曾经一直在这里举行，直到2020年被禁止），一名男子坐在那里看书，面前放着两根电蜡烛。警察搜查了他的包，问他在那里做什么。他说，"无可奉告"。<br><br>重压之下云淡风轻，了不起的香港人👍<br><br><img style="" src="https://pbs.twimg.com/media/FUXT5nPUcAEgLZb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2022-06-09 20:52:33+08:00 推文](https://twitter.com/realcaixia/status/1534881131392294919)
 
@@ -110,4 +110,8 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 ### 24: [2022-06-10 02:25:47+08:00 推文](https://twitter.com/realcaixia/status/1534964995758379008)
 
 李南央陈小平读李锐日记，谈6.4屠杀中，说到李锐、萧克等说，1949军队进城贫民夹道欢迎，1989军队进城平民拼死抵挡。1949至今，几十场政治运动冤死几百万各界精英；3年大饥荒饿死数千万民众，防疫清零囚禁数亿人，枉死多少人命…70多年的统治史，罪恶累累。 <a href="https://www.voachinese.com/a/part-2-anniversary-of-mao-s-anti-rightists-campaign-remembered-as-crackdowns-on-dissent-intensify-20220607/6592289.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/part-2-anniversary-of-mao-s-anti-rightists-campaign-remembered-as-crackdowns-on-dissent-intensify-20220607/6592289.html</a>
+
+### 25: [2022-06-10 23:13:05+08:00 推文](https://twitter.com/realcaixia/status/1535278888011583488)
+
+#议报独家发布 《李希：谁扯掉了全民脱贫的画皮？》<br>文章以详实的数据，借用网络上流传的彝寨婚礼照片，分析评论了中共习当局所谓“全民脱贫”的虚假宣传。这些照片揭示了中国大陆贫困民众真实的生活境况，所谓中国特色制度优势、所谓亲自部署亲自指挥的“精准扶贫”全都破产。 <a href="https://yibaochina.com/?p=246833" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246833</a>
 

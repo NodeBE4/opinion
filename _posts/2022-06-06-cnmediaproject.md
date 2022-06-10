@@ -21,7 +21,7 @@ Generational Changes for Investigative Reporting: In amongst the commemorative a
 
 ### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
 
-RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
 
 ### 3: [2022-06-08 11:42:25+08:00 推文](https://twitter.com/cnmediaproject/status/1534380298376716289)
 
@@ -78,4 +78,8 @@ In our latest CMP Dictionary, learned about the meaning and history of "hostile 
 ### 16: [2022-06-10 18:38:24+08:00 推文](https://twitter.com/cnmediaproject/status/1535209758973915137)
 
 Re A term very relevant to our earlier post this week about the recently raging controversy over "ugly" Chinese primary textbook illustrations that many felt MUST be a foreign conspiracy. <a href="https://chinamediaproject.org/2022/06/08/shades-of-hostility/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/08/shades-of-hostility/</a><br><img style="" src="https://pbs.twimg.com/media/FU4pH4raMAEg2n1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-06-10 19:32:49+08:00 推文](https://twitter.com/Changxche/status/1535223454664134657)
+
+RT Chang Che<br>Panicking buying resumes in Shanghai as half of the city goes back into lockdowns 1/<br><img style="" src="https://pbs.twimg.com/media/FU41lF5aIAA_YxN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

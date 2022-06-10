@@ -315,3 +315,39 @@ Re @Swanlake1979 希望你诚实，不同意我的看法直言，不要假借他
 
 Re @bxieus 确实如此。
 
+### 76: [2022-06-10 21:40:56+08:00 推文](https://twitter.com/HeQinglian/status/1535255698518462464)
+
+Re @RealBeiMing 你怎么那么客气，Block就是。他们确实自个呆在一块，教学相长，快活。
+
+### 77: [2022-06-10 21:42:44+08:00 推文](https://twitter.com/HeQinglian/status/1535256151868293122)
+
+Re @mingshi_chen 这条信息很重要，有详细的信息请给链接。
+
+### 78: [2022-06-10 22:04:57+08:00 推文](https://twitter.com/HeQinglian/status/1535261742539976705)
+
+Re @david_david1968 主要原因是：<br>1、被强奸光荣的观念还没树立起来；<br>2、这种事情，讲述别人、宜粗不宜细。<br>既然入了宣传这行当，还是要掌握一点基本技巧。否则将自己玩进尴尬之地，不好。
+
+### 79: [2022-06-10 22:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1535272751807795203)
+
+Re @franktianxie 美国刚公布，5月份通胀率是8.6%，1981年以来最高。<br>我自己将衣食住行几项的大类消费品代入消费者价格指数，应该超过了13%。不知美国政府机构如何取样。
+
+### 80: [2022-06-10 22:50:38+08:00 推文](https://twitter.com/HeQinglian/status/1535273236920946688)
+
+Re @Wu_Zhi @RL3220425 连华拜粉都时常跑到我这里留言，说要维持到12月，仿佛他是军火供应商或者民主党有薪助选团人士。
+
+### 81: [2022-06-10 22:53:57+08:00 推文](https://twitter.com/HeQinglian/status/1535274070886998016)
+
+Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈理也禁止，谁叫苏联称他为伟大的俄罗斯文学家？<br>逢俄必裁，省事，也免得自家人分不清时犯错误。泽连斯从此不讲俄语，自家制裁自家。<br>这位留恋舞台高光灯，不想下来了。
+
+### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
+
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
+
+### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
+
+Re @Wu_Zhi @RL3220425 双手赞成。西方喜欢养，就养一批纳粹折腾自个，反正乌克兰的地下经济，尤其是人的拆零整售，终端消费者多半在欧洲。
+
+### 84: [2022-06-10 23:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1535275901482590210)
+
+Re @JohnChe68058637 @franktianxie 有可能是最低值再拦腰一刀。
+
