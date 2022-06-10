@@ -261,7 +261,7 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
 
-“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
+“应该”的事情太多了，可惜世上没有后悔药。
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
