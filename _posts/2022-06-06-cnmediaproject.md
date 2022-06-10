@@ -21,7 +21,7 @@ Generational Changes for Investigative Reporting: In amongst the commemorative a
 
 ### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
 
-RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
 
 ### 3: [2022-06-08 11:42:25+08:00 推文](https://twitter.com/cnmediaproject/status/1534380298376716289)
 
@@ -66,4 +66,8 @@ RT Bill Bishop<br>Shanghai authorities are ordering some 14 million residents 
 ### 13: [2022-06-10 08:30:33+08:00 推文](https://twitter.com/cnmediaproject/status/1535056791679410176)
 
 Re @niubi But for those craving variety there is always the overseas edition of the People's Daily.<br><img style="" src="https://pbs.twimg.com/media/FU2d_j4aMAA86zn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-06-10 11:43:55+08:00 推文](https://twitter.com/cnmediaproject/status/1535105451121328128)
+
+Re @ktse852 A very interesting thread here. Something to follow more closely.
 
