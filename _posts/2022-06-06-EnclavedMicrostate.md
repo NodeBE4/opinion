@@ -117,6 +117,10 @@ Look, I'm someone who bangs on about fair treatment a lot. But this is *not* a c
 
 Also HK for good measure I guess.
 
+----- __510.11__ -----2022-06-11 02:27:13+08:00:
+
+Actually that raises a question I've been having for a while – is A-Soul currently active? As in, is it still producing content?
+
 ### 511: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __511.1__ -----2022-06-07 12:50:51+08:00:
