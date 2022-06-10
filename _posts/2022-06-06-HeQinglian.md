@@ -141,7 +141,7 @@ Re @jeff47683665 WHO，CDC 和NHS？<br>去读这篇。还有今天我发的消�
 
 ### 32: [2022-06-08 08:59:22+08:00 推文](https://twitter.com/HeQinglian/status/1534339266171502593)
 
-应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。<br><br>蔡慎坤: 乔治亚州在民主党中期选举中，争夺第二区地方官有三个候选人，最后一人叫米歇尔，投票机显示她的得票数为0。而她和丈夫都投了自己的票，得票数至少应该为2。米歇尔要求手工点票，手工点票的结果出人意料，她的得票数在候选人中跃居第一。这种投票机，正是2020大选使用的多米尼投票机，可以称为偷票机。<br>
+应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。
 
 ### 33: [2022-06-08 10:04:12+08:00 推文](https://twitter.com/HeQinglian/status/1534355581116497921)
 
@@ -193,7 +193,7 @@ RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE
 
 ### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
 
-撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
 
 ### 46: [2022-06-09 04:38:59+08:00 推文](https://twitter.com/HeQinglian/status/1534636126018981891)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
@@ -362,4 +362,16 @@ Re @Wu_Zhi 我就不相信，除了欧洲之外，拉美、亚洲（台湾除外
 ### 87: [2022-06-11 01:37:36+08:00 推文](https://twitter.com/HeQinglian/status/1535315257278840832)
 
 Re @Wu_Zhi 几天前的拉美峰会，多国拒不参加。
+
+### 88: [2022-06-11 04:08:29+08:00 推文](https://twitter.com/HeQinglian/status/1535353225653755907)
+
+Re @Wu_Zhi @RL3220425 凡事有内外，波兰不拿自己当外人，也支持他们，那就是"人民内部矛盾"了。
+
+### 89: [2022-06-11 04:16:55+08:00 推文](https://twitter.com/HeQinglian/status/1535355349175238656)
+
+Re @Wu_Zhi @RL3220425 估计观众将来也不会多。乌粉们早关心别的事情去了。
+
+### 90: [2022-06-11 04:29:28+08:00 推文](https://twitter.com/HeQinglian/status/1535358507222020097)
+
+Re @JianglinLi @Wu_Zhi @RL3220425 没关心。<br>似乎普京生病的事情，连西媒自家内部也分裂，说不能总这样盼望。习李内斗的事情，前一向传说很神，这两天又消停了些。美国要围剿中共的盼头，也被耶伦免关税的主张浇灭了。<br>昨天看到一推，中国也出现一批男着女旗袍送子上考场的“心理认同变性者”，但好象没炒热。😂<br>目前正在寻找新的新闻热点
 
