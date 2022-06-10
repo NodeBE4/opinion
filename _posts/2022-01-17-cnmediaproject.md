@@ -53,7 +53,7 @@ In December, CMP wrote about the Human Rights Institute of the SW Univ. of Polit
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
-Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
