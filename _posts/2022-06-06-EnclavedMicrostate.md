@@ -291,6 +291,14 @@ The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-J
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
 
+----- __519.4__ -----2022-06-12 01:52:16+08:00:
+
+It's the umbrella term for a number of non-streaming, lore-focussed side project content, consisting of animated teasers like these at roughly yearly intervals, but interspersed with manga, the ongoing HoloEarth game project, and Holonometria. Confusingly, HoloAlt is not in charge of Error.
+
+----- __519.5__ -----2022-06-12 01:53:24+08:00:
+
+For what it's worth, presenting Hololive as purely a streamer agency is a bit of a misnomer; it's perhaps better to conceptualise it as a multimedia variety entertainment talent agency where the talents all happen to livestream, and then just kinda accept that a large variety of experimental stuff happens.
+
 ### 520: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
 
 ----- __520.1__ -----2022-06-11 18:12:59+08:00:

@@ -119,9 +119,15 @@ Germany either has to import LNG to meet its needs, which it lacks the ability t
  
 Europe needs to follow France's model (except to the extent that anti-nuclear voices seem to inexplicably be gaining ground there), in any case.  Electricity generation by coal is no longer a viable means and must be replaced, for reasons that should be obvious.  Coal can only be replaced by nuclear, but nuclear can't meet fluctuating grid demand.  Other options have to be available to supplement, and natural gas is the least worst means to that end at this time.  Likewise, so called green advocates need to understand the technologies they advocate for.  The useful life of wind turbines is a lot less than people realize and their carbon footprint is woefully undervalued.  Same with solar.  And both suffer the same reliability problems, because it turns out that acute increases in grid demand don't reliably correlate with the weather.  Sometimes that is true, but it has to always be true for those technologies to be viable in the absence of storage capacity.
 
-### 294: [Former state health director Ezike under scrutiny by ethics investigator](https://old.reddit.com/r/CoronavirusIllinois/comments/v9wnlo/former_state_health_director_ezike_under_scrutiny/), submitted on 2022-06-11 20:34:06+08:00.
+### 294: [Sci-fi series for 9 year old with a (12-15 year old's reading level)](https://old.reddit.com/r/suggestmeabook/comments/v9vfvj/scifi_series_for_9_year_old_with_a_1215_year_olds/), submitted on 2022-06-11 19:16:47+08:00.
 
------ __294.1__ -----2022-06-11 21:40:40+08:00:
+----- __294.1__ -----2022-06-12 01:47:25+08:00:
+
+Dune.  If your son can read and understand the Harry Potter series, then he should be reaching just slightly outside the scope of his current ability.
+
+### 295: [Former state health director Ezike under scrutiny by ethics investigator](https://old.reddit.com/r/CoronavirusIllinois/comments/v9wnlo/former_state_health_director_ezike_under_scrutiny/), submitted on 2022-06-11 20:34:06+08:00.
+
+----- __295.1__ -----2022-06-11 21:40:40+08:00:
 
 From [the article](https://www.dailyherald.com/news/20220610/former-state-health-director-ezike-under-scrutiny-by-ethics-investigator):
 
@@ -133,7 +139,7 @@ From [the article](https://www.dailyherald.com/news/20220610/former-state-health
 
 . . . Not even surprised. This is Illinois.
 
------ __294.2__ -----2022-06-12 00:03:28+08:00:
+----- __295.2__ -----2022-06-12 00:03:28+08:00:
 
 The reason that the law exists as written is pretty straightforward.  It's a check against corruption, applicable to very high level public officials.  
 
@@ -156,4 +162,8 @@ But it's better than nothing.
 Even still, this is Illinois. 
 
 Things are what they are.
+
+----- __295.3__ -----2022-06-12 01:36:46+08:00:
+
+Indeed.  A casual review of public records suggests that Vaught --- Madigan's lawyer --- was a common denominator in all sorts of eyebrow-raising circumstances throughout her "legal career."  A "legal career" that is fairly surprising, considering that she graduated from a law school whose admission criteria is little more than walking in the door.  But she's a power player behind the scenes.  Which is the important thing.  In Illinois, at least.
 
