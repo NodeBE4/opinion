@@ -277,6 +277,14 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
 
+----- __519.2__ -----2022-06-11 23:32:32+08:00:
+
+The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover, which is the company behind VTuber agency Hololive production.
+
+----- __519.3__ -----2022-06-11 23:32:49+08:00:
+
+The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
+
 ### 520: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
 
 ----- __520.1__ -----2022-06-11 18:12:59+08:00:
