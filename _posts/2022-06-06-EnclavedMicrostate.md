@@ -131,6 +131,10 @@ Has attention and/or support diminished heavily across the board or has it ultim
 
 We are reaching levels of recursion never thought possible...
 
+----- __510.14__ -----2022-06-11 23:54:00+08:00:
+
+Per the official roadmap, HoloAlt consists of the PV, manga, HoloEarth, and Holonometria; Hololive Error doesn't fall under the HoloAlt umbrella from what I can tell.
+
 ### 511: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __511.1__ -----2022-06-07 12:50:51+08:00:
@@ -250,6 +254,8 @@ As such, it isn't unambiguously clear that we can frame Qing colonialism as nece
 * Laura Hostetler, *Qing Colonial Enterprise: Ethnography and Cartography in Early Modern China* (2001)
 
 * Johan Elverskog, *Our Great Qing: The Mongols, Buddhism, and the State in Late Imperial China* (2008)
+
+* Max Oidtmann, *Forging the Golden Urn: The Qing Empire and the Politics of Reincarnation in Tibet* (2018)
 
 * Eric Schluessel, *Land of Strangers: The Civilizing Project in Qing Central Asia* (2020)
 

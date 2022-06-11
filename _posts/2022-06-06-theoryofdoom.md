@@ -133,3 +133,27 @@ From [the article](https://www.dailyherald.com/news/20220610/former-state-health
 
 . . . Not even surprised. This is Illinois.
 
+----- __294.2__ -----2022-06-12 00:03:28+08:00:
+
+The reason that the law exists as written is pretty straightforward.  It's a check against corruption, applicable to very high level public officials.  
+
+This is not a situation where a low-level state employee can't go get a job at a hospital.  
+
+So, don't confuse those situations.  And also realize that anyone who goes into the "public sector" is perfectly well aware of the laws that govern the terms of their position, before they accept it.  If they don't want the job on those terms, they don't have to accept.  Really simple.  
+
+Here's the scenario the ethics rule is designed to check against:
+
+1. Public official in a position to improperly benefit private company is approached by private company. 
+2. Private company offers something amounting to a quid pro quo, for the private company's benefit.  For example, company says "If you use your position in 'public service' to award us this contract, we will give you a job that pays way more than you are making now or ever could make working for the government, at a specific point in the future." 
+3. Public official says "Ok, I'm in."  
+4. Company gets the contract.
+5. Formerly public official takes a job making way more money than she could have ever hoped to make in the public sector.
+
+Obviously, the one year bar is not a perfect check against the corruption associated with a public official accepting a bribe in the form of a lucrative private sector position subsequent to their time in "public service."
+
+But it's better than nothing.  
+
+Even still, this is Illinois. 
+
+Things are what they are.
+
