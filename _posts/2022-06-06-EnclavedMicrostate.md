@@ -195,3 +195,9 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 518: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
+
+----- __518.1__ -----2022-06-11 18:12:59+08:00:
+
+I'm 90% sure You Kururu is a Cover staff member who works on HoloEarth and that the profile pic is temporary. I mean alternatively they are actually going to debut as a game dev VTuber but that seems unlikely.
+
