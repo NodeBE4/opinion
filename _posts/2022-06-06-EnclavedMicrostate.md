@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-10
+date: 2022-06-11
 from: https://old.reddit.com/r/Hololive/comments/v5ke08/traveling_with_irys_ʕˉʷˉʔ/
 layout: post
 tags:
@@ -121,6 +121,16 @@ Also HK for good measure I guess.
 
 Actually that raises a question I've been having for a while – is A-Soul currently active? As in, is it still producing content?
 
+----- __510.12__ -----2022-06-11 09:26:04+08:00:
+
+Has attention and/or support diminished heavily across the board or has it ultimately mostly been Carol-specific fans driving the backlash?
+
+----- __510.13__ -----2022-06-11 09:56:17+08:00:
+
+> cover of Q (yes, the hololive song)
+
+We are reaching levels of recursion never thought possible...
+
 ### 511: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __511.1__ -----2022-06-07 12:50:51+08:00:
@@ -176,4 +186,12 @@ https://www.reddit.com/r/AskHistorians/comments/mhb2tl/why_wasnt_mongolia_invade
 https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/
 
 https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/
+
+### 517: [Did Athens or Sparta leave behind a better legacy? Why?](https://old.reddit.com/r/AskHistorians/comments/v9mfyk/did_athens_or_sparta_leave_behind_a_better_legacy/), submitted on 2022-06-11 09:13:25+08:00.
+
+----- __517.1__ -----2022-06-11 09:22:40+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
