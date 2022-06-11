@@ -83,3 +83,7 @@ Re A term very relevant to our earlier post this week about the recently raging 
 
 RT Chang Che<br>Panicking buying resumes in Shanghai as half of the city goes back into lockdowns 1/<br><img style="" src="https://pbs.twimg.com/media/FU41lF5aIAA_YxN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 18: [2022-06-10 23:05:19+08:00 推文](https://twitter.com/UselessTree/status/1535276931196796928)
+
+RT Sam Crane<br>Thinking about future of PRC power and global strategy.<br><br>Likely effect of Russia's war on Ukraine: heightened recognition in Europe of the possibilities/probabilities of weaponized interdependence. EU now more sensitive to political implications of economic engagement.<br>1/
+
