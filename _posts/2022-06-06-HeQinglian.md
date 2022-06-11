@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
@@ -374,4 +374,12 @@ Re @Wu_Zhi @RL3220425 估计观众将来也不会多。乌粉们早关心别的�
 ### 90: [2022-06-11 04:29:28+08:00 推文](https://twitter.com/HeQinglian/status/1535358507222020097)
 
 Re @JianglinLi @Wu_Zhi @RL3220425 没关心。<br>似乎普京生病的事情，连西媒自家内部也分裂，说不能总这样盼望。习李内斗的事情，前一向传说很神，这两天又消停了些。美国要围剿中共的盼头，也被耶伦免关税的主张浇灭了。<br>昨天看到一推，中国也出现一批男着女旗袍送子上考场的“心理认同变性者”，但好象没炒热。😂<br>目前正在寻找新的新闻热点
+
+### 91: [2022-06-11 20:53:52+08:00 推文](https://twitter.com/HeQinglian/status/1535606241782898688)
+
+Re @JkYJ2l7mDTaxqhJ @JianglinLi @Wu_Zhi @RL3220425 你当真是不管现实情况如何变化（变化到与你想象完全不同），仍维持心中一念之人。😂
+
+### 92: [2022-06-11 20:55:40+08:00 推文](https://twitter.com/HeQinglian/status/1535606693719166977)
+
+Re @Peter53388100 @franktianxie 你在哪国啊？我生活的美国可不止涨这么多。主要食品上涨30%以上，肉类更高。
 
