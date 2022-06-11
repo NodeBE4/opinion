@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-11
+date: 2022-06-12
 from: https://old.reddit.com/r/Hololive/comments/v5ke08/traveling_with_irys_ʕˉʷˉʔ/
 layout: post
 tags:
@@ -191,9 +191,19 @@ https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_o
 
 https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/
 
-### 517: [Could Manchu rule of Han China (during the Qing dynasty) be considered colonialism?](https://old.reddit.com/r/AskHistorians/comments/v9gs41/could_manchu_rule_of_han_china_during_the_qing/), submitted on 2022-06-11 04:28:30+08:00.
+### 517: [Which sources describing Alexander the Great’s relation to knowledge and science do we have and what do they tell us?](https://old.reddit.com/r/AskHistorians/comments/v9ftxj/which_sources_describing_alexander_the_greats/), submitted on 2022-06-11 03:43:33+08:00.
 
------ __517.1__ -----2022-06-11 18:59:30+08:00:
+----- __517.1__ -----2022-06-12 03:36:16+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 518: [Could Manchu rule of Han China (during the Qing dynasty) be considered colonialism?](https://old.reddit.com/r/AskHistorians/comments/v9gs41/could_manchu_rule_of_han_china_during_the_qing/), submitted on 2022-06-11 04:28:30+08:00.
+
+----- __518.1__ -----2022-06-11 18:59:30+08:00:
 
 You ask an interesting question, and the answer is, er, complicated.
 
@@ -221,7 +231,7 @@ As such I think it makes sense to distinguish between three sorts of frontier co
 
 3. **Voluntary permanent migration**, typically of Han Chinese populations, was sometimes resisted, sometimes ignored, and sometimes actively sponsored by the Qing, and applied to a number of areas including Southwest China, Manchuria before 1850ish, and can also be considered to include the emigrations that produced the Chinese diaspora in Southeast Asia. This can be considered colonialism in many instances where Han settlers outright displaced local populations, but it was not an inherently state-backed process, nor intended to strengthen state control. Indeed, at times migrants were seeking to move to regions where Qing control was weak or nonexistent. In these scenarios the principal motivation was the economic benefit to the individual migrant and/or households and social networks.
 
------ __517.2__ -----2022-06-11 21:22:37+08:00:
+----- __518.2__ -----2022-06-11 21:22:37+08:00:
 
 ### So, was Qing rule in China proper colonial in nature?
 
@@ -269,39 +279,45 @@ As such, it isn't unambiguously clear that we can frame Qing colonialism as nece
 
 * James Millward, *Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864* (1998)
 
-### 518: [Did Athens or Sparta leave behind a better legacy? Why?](https://old.reddit.com/r/AskHistorians/comments/v9mfyk/did_athens_or_sparta_leave_behind_a_better_legacy/), submitted on 2022-06-11 09:13:25+08:00.
+### 519: [Did Athens or Sparta leave behind a better legacy? Why?](https://old.reddit.com/r/AskHistorians/comments/v9mfyk/did_athens_or_sparta_leave_behind_a_better_legacy/), submitted on 2022-06-11 09:13:25+08:00.
 
------ __518.1__ -----2022-06-11 09:22:40+08:00:
+----- __519.1__ -----2022-06-11 09:22:40+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 519: [There's your proof! Enough Said!](https://old.reddit.com/r/Hololive/comments/v9u9g9/theres_your_proof_enough_said/), submitted on 2022-06-11 17:51:03+08:00.
+### 520: [There's your proof! Enough Said!](https://old.reddit.com/r/Hololive/comments/v9u9g9/theres_your_proof_enough_said/), submitted on 2022-06-11 17:51:03+08:00.
 
------ __519.1__ -----2022-06-11 21:48:49+08:00:
+----- __520.1__ -----2022-06-11 21:48:49+08:00:
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
 
------ __519.2__ -----2022-06-11 23:32:32+08:00:
+----- __520.2__ -----2022-06-11 23:32:32+08:00:
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover, which is the company behind VTuber agency Hololive production.
 
------ __519.3__ -----2022-06-11 23:32:49+08:00:
+----- __520.3__ -----2022-06-11 23:32:49+08:00:
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
 
------ __519.4__ -----2022-06-12 01:52:16+08:00:
+----- __520.4__ -----2022-06-12 01:52:16+08:00:
 
 It's the umbrella term for a number of non-streaming, lore-focussed side project content, consisting of animated teasers like these at roughly yearly intervals, but interspersed with manga, the ongoing HoloEarth game project, and Holonometria. Confusingly, HoloAlt is not in charge of Error.
 
------ __519.5__ -----2022-06-12 01:53:24+08:00:
+----- __520.5__ -----2022-06-12 01:53:24+08:00:
 
 For what it's worth, presenting Hololive as purely a streamer agency is a bit of a misnomer; it's perhaps better to conceptualise it as a multimedia variety entertainment talent agency where the talents all happen to livestream, and then just kinda accept that a large variety of experimental stuff happens.
 
-### 520: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
+### 521: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
 
------ __520.1__ -----2022-06-11 18:12:59+08:00:
+----- __521.1__ -----2022-06-11 18:12:59+08:00:
 
 I'm 90% sure You Kururu is a Cover staff member who works on HoloEarth and that the profile pic is temporary. I mean alternatively they are actually going to debut as a game dev VTuber but that seems unlikely.
+
+### 522: [Can i get to Oxford with a drama A level?](https://old.reddit.com/r/oxforduni/comments/va47ug/can_i_get_to_oxford_with_a_drama_a_level/), submitted on 2022-06-12 03:03:52+08:00.
+
+----- __522.1__ -----2022-06-12 03:53:45+08:00:
+
+Oxford's typical requirements, at least for humanities, are three As in *any* subjects, albeit including the one most relevant to your course. So unless you're planning on taking psych you should be fine.
 
