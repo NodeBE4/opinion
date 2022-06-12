@@ -171,3 +171,9 @@ Indeed.  A casual review of public records suggests that Vaught --- Madigan's la
 
 Perhaps one day folks will comprehend the fact that a report button is *not* a "disagree" button.
 
+----- __295.5__ -----2022-06-13 06:24:38+08:00:
+
+> Just pretend to care about the rules
+
+Yep, and maybe take a "consulting" job during that time.  It's a low bar.
+
