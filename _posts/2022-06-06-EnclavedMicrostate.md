@@ -139,6 +139,18 @@ Per the official roadmap, HoloAlt consists of the PV, manga, HoloEarth, and Holo
 
 I mean, even if only Gura's appearing for the concert that doesn't exclude the possibility that Myth as a whole might be in Japan around that time. Plus given it's a paid concert and Gura is so far the only Myth member with a duo orisong with Calli, it's not necessarily that the other three would be missing out that much by not being part of that.
 
+----- __510.16__ -----2022-06-12 13:37:04+08:00:
+
+We heard zero inklings of the five-member North American offcollab until it happened, except in hindsight, so anything is possible.
+
+----- __510.17__ -----2022-06-12 13:42:02+08:00:
+
+I mean Cover also drops news about new generations on quite short notice too. For all we know, this could be normal levels of secrecy compounded with possible continued uncertainty over travel. If it is happening there may well not be an announcement until the time is close enough that it's a near-certainty it will go ahead. Again, not to say it *is* happening but there's no particular reason to dismiss it out of hand.
+
+----- __510.18__ -----2022-06-12 13:52:28+08:00:
+
+You can't suspend me, I'm going on hiatus!
+
 ### 511: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __511.1__ -----2022-06-07 12:50:51+08:00:
@@ -165,27 +177,33 @@ Framing this as settler-colonialism isn't new, although it has, for obvious reas
 
 Assimilatory policies have meant that the plains indigenous peoples have unfortunately largely been subsumed, although there are still some 14,000 or so people identifying as members of one of the plains tribes (the three principal and locally-recognised ones being the Siraya, Taivoan, and Makatao). The highland tribes have generally remained much more cohesive, and altogether account for a little over 550,000 people. The combined indigenous people of Taiwan currently constitute around 2.4% of the total national population, albeit, as stated, weighted overwhelmingly towards the highland tribes.
 
-### 513: [Opinions on IRyS and her Outfits "Issue"](https://old.reddit.com/r/Hololive/comments/v74fm5/opinions_on_irys_and_her_outfits_issue/), submitted on 2022-06-08 02:53:54+08:00.
+### 513: [Caffeine Scarcity. [Translated] (@raine64410175)](https://old.reddit.com/r/Hololive/comments/v6vrut/caffeine_scarcity_translated_raine64410175/), submitted on 2022-06-07 21:37:24+08:00.
 
------ __513.1__ -----2022-06-08 12:27:17+08:00:
+----- __513.1__ -----2022-06-12 14:22:18+08:00:
+
+I thought she dropped energy drinks entirely after a while?
+
+### 514: [Opinions on IRyS and her Outfits "Issue"](https://old.reddit.com/r/Hololive/comments/v74fm5/opinions_on_irys_and_her_outfits_issue/), submitted on 2022-06-08 02:53:54+08:00.
+
+----- __514.1__ -----2022-06-08 12:27:17+08:00:
 
 I'd like to throw in an extra factor that doesn't always get brought up: while IRyS happens to live in Japan, the original VSinger requirements *did not* specify that applicants had to live in Japan, only that those who were Japanese-fluent would be preferred. So for all we know, Cover planned around the VSinger not being based in Japan and IRyS being in Japan was pure coincidence. Given how well in advance we know Cover plans some things, it's legitimately possible that the original roadmap didn't involve 3D until well down the line.
 
-### 514: [There's no such thing as a coincidence o7](https://old.reddit.com/r/Hololive/comments/v8r2fc/theres_no_such_thing_as_a_coincidence_o7/), submitted on 2022-06-10 05:12:42+08:00.
+### 515: [There's no such thing as a coincidence o7](https://old.reddit.com/r/Hololive/comments/v8r2fc/theres_no_such_thing_as_a_coincidence_o7/), submitted on 2022-06-10 05:12:42+08:00.
 
------ __514.1__ -----2022-06-10 20:37:33+08:00:
+----- __515.1__ -----2022-06-10 20:37:33+08:00:
 
 Without the racism I'd hope.
 
-### 515: [holo animals](https://old.reddit.com/r/Hololive/comments/v8sgko/holo_animals/), submitted on 2022-06-10 06:16:18+08:00.
+### 516: [holo animals](https://old.reddit.com/r/Hololive/comments/v8sgko/holo_animals/), submitted on 2022-06-10 06:16:18+08:00.
 
------ __515.1__ -----2022-06-10 09:32:58+08:00:
+----- __516.1__ -----2022-06-10 09:32:58+08:00:
 
 Confusingly, while Zeta and Kaela aren't animals there is a certain degree of animal theming: Zeta has the antelope pin and also Bazo is sort of canonically a deer of some kind, while Kaela's outfit is inspired by the Barong which is a Balinese mythical creature.
 
-### 516: [What was it about the evolution of military combat among the nomadic peoples of the steppe that caused them to consistently dominate Europeans to the West when invading in force?](https://old.reddit.com/r/AskHistorians/comments/v8w6mu/what_was_it_about_the_evolution_of_military/), submitted on 2022-06-10 09:26:33+08:00.
+### 517: [What was it about the evolution of military combat among the nomadic peoples of the steppe that caused them to consistently dominate Europeans to the West when invading in force?](https://old.reddit.com/r/AskHistorians/comments/v8w6mu/what_was_it_about_the_evolution_of_military/), submitted on 2022-06-10 09:26:33+08:00.
 
------ __516.1__ -----2022-06-10 20:36:26+08:00:
+----- __517.1__ -----2022-06-10 20:36:26+08:00:
 
 You've stumbled upon a phenomenon known in some circles as the 'Nomadic Military Advantage', something on which more can be said but where I've written a few answers here:
 
@@ -195,9 +213,9 @@ https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_o
 
 https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/
 
-### 517: [Which sources describing Alexander the Great’s relation to knowledge and science do we have and what do they tell us?](https://old.reddit.com/r/AskHistorians/comments/v9ftxj/which_sources_describing_alexander_the_greats/), submitted on 2022-06-11 03:43:33+08:00.
+### 518: [Which sources describing Alexander the Great’s relation to knowledge and science do we have and what do they tell us?](https://old.reddit.com/r/AskHistorians/comments/v9ftxj/which_sources_describing_alexander_the_greats/), submitted on 2022-06-11 03:43:33+08:00.
 
------ __517.1__ -----2022-06-12 03:36:16+08:00:
+----- __518.1__ -----2022-06-12 03:36:16+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -205,9 +223,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 518: [Could Manchu rule of Han China (during the Qing dynasty) be considered colonialism?](https://old.reddit.com/r/AskHistorians/comments/v9gs41/could_manchu_rule_of_han_china_during_the_qing/), submitted on 2022-06-11 04:28:30+08:00.
+### 519: [Could Manchu rule of Han China (during the Qing dynasty) be considered colonialism?](https://old.reddit.com/r/AskHistorians/comments/v9gs41/could_manchu_rule_of_han_china_during_the_qing/), submitted on 2022-06-11 04:28:30+08:00.
 
------ __518.1__ -----2022-06-11 18:59:30+08:00:
+----- __519.1__ -----2022-06-11 18:59:30+08:00:
 
 You ask an interesting question, and the answer is, er, complicated.
 
@@ -225,17 +243,17 @@ I would argue, though, that we can and should take a relatively broad view of co
 
 ### Situating Qing colonialism in historiographical context
 
-Most discussions of Qing colonialism don't concern the historically Han-majority regions of China proper, but they provide a useful point of reference by giving some context to how Qing historians discuss colonialism in general, and thus how applicable the concept would be to China. When historians of the Qing call it a 'colonial empire', they are almost invariably referring to the empire's practices in regions beyond China proper, in imperial frontier regions like Taiwan, Tibet, Mongolia, Xinjiang, and southwest China. Some of these regions were subject to settler-colonialism, Taiwan and Xinjiang most prominently; yet a number of these were colonised through political reorganisation. Mongolian tribes were partitioned and confined to designated pasturages, while Tibetan Buddhism (which was also practiced by the Mongols) became integrated as a Qing state religion. Southwest China is a particularly interesting case because the discursive dimension is perhaps the best well-known, with Laura Hostetler's work examining how cartographic and ethnographic projects crystallised a Qing vision of what southwest China *ought* to look like, during a period (the latter half of the eighteenth century) when the actual extent of Qing power remained relatively constant. Of course, not all colonialism under the Qing was overtly state-sponsored. Much of the settler-colonialism that marked Qing policy in southwest China, Taiwan, and latterly Manchuria were the result of Han demands for access to land to which the Qing either acquiesced under pressure (Taiwan, Manchuria) or just didn't do much to stop it (SW China).
+Most discussions of Qing colonialism don't concern the historically Han-majority regions of China proper, but they provide a useful point of reference by giving some context to how Qing historians discuss colonialism in general, and thus how applicable the concept would be to China. When historians of the Qing call it a 'colonial empire', they are almost invariably referring to the empire's practices in regions beyond China proper, in imperial frontier regions like Taiwan, Tibet, Mongolia, Xinjiang, and southwest China. Some of these regions were subject to settler-colonialism, Taiwan and Xinjiang most prominently; yet a number of these were, in a broader sense, colonised through political reorganisation. Mongolian tribes were partitioned and confined to designated pasturages, while Tibetan Buddhism (which was also practiced by the Mongols) became integrated as a Qing state religion. Southwest China is a particularly interesting case because the discursive dimension is perhaps the best well-known, with Laura Hostetler's work examining how cartographic and ethnographic projects crystallised a Qing vision of what southwest China *ought* to look like, during a period (the latter half of the eighteenth century) when the actual extent of Qing power remained relatively constant. Of course, not all colonialism under the Qing was overtly state-sponsored. Much of the settler-colonialism that marked Qing policy in southwest China, Taiwan, and latterly Manchuria were the result of Han demands for access to land to which the Qing either acquiesced under pressure (Taiwan, Manchuria) or just didn't do much to stop it (SW China).
 
 As such I think it makes sense to distinguish between three sorts of frontier colonialism under the Qing with somewhat different motivations and mechanics:
 
 1. **State-backed settler-colonialism**, which happened in Xinjiang after 1828, Taiwan after 1862, and Manchuria after around 1850, involved the Qing actively supporting efforts by predominantly Han settlers to establish permanent settlements in the regions in question. The typical motivation was security, with the settler population(s) presumed to be more loyal to the Qing than the existing population(s) in the regions being colonised, and thus both directly and indirectly acting as means of heading off revolts and invasions. Security was not always the sole concern, however: while the sponsored colonisation of Manchuria was partially motivated by an escalation in Russian encroachments from Siberia, it was also prompted by economic collapse in the region, with the colonists being brought in to exploit previously-untapped arable land and mineral resources. In short, the Qing deliberately altered these regions on a demographic level in order to create an environment more conducive to their rule.
 
-2. **Institutional colonialism**, which was the principal colonial mode in Tibet and Mongolia, involved the Qing emperors exercising an effectively unilateral claim to make changes to religious and political organisation, based on the either implicit or explicit claim that they knew what was best for them. In Mongolia this took the form of the *jasak*-banner system which delineated both the sizes and locations of tribal units, the subordination of Mongolian monasteries to the Dalai Lama-led Gelug priesthood at Lhasa, the replacement of Mongolian as a liturgical language in favour of Tibetan, and an attempt to create a unified, homogenised 'Mongolian' identity. In Tibet this manifested principally through the Qing essentially giving itself veto rights over new candidates for the Dalai Lama and other reincarnating clerics starting in 1792, although it also impacted the broader Tibetan world such as in the aftermath of the Jinchuan Wars which saw the suppression of Bön and 'Red Hat' Buddhist sects. In effect, the Qing relationship with Tibet involved a two-step process of strengthening the Gelug religious establishment's control over the broader Tibetan and Vajrayana worlds, while also strengthening Qing control over Gelug clergy and religious institutions. While institutional colonialism did not involve demographic alteration via migration, it still aimed at a similar goal of imposing a Qing-conceived order on a local population, dressed in some notional sense that the Qing were realising a Qing-created ideal cultural state for said populations.
+2. **Institutional colonialism**, which was the principal colonial mode in Tibet and Mongolia, involved the Qing emperors exercising an effectively unilateral claim to make changes to religious and political organisation, based on the either implicit or explicit claim that they knew what was best for them. In Mongolia this took the form of the *jasak*-banner system which delineated both the sizes and locations of tribal units, the subordination of Mongolian monasteries to the Dalai Lama-led Gelug priesthood at Lhasa, the replacement of Mongolian as a liturgical language in favour of Tibetan, and an attempt to create a unified, homogenised 'Mongolian' identity. In Tibet this manifested principally through the Qing essentially giving itself veto rights over new candidates for the Dalai Lama and other reincarnating clerics starting in 1792, an in the broader Tibetan world with the suppression of Bön and 'Red Hat' Buddhist sects in the aftermath of the Jinchuan Wars. In effect, the Qing relationship with Tibet involved a two-step process of strengthening the Gelug religious establishment's control over the broader Tibetan and Vajrayana worlds, while also strengthening Qing control over Gelug clergy and religious institutions. While institutional colonialism did not involve demographic alteration via migration, it still aimed at a similar goal of imposing a Qing-conceived order on a local population, dressed in some notional sense that the Qing were realising a Qing-created ideal cultural state for said populations.
 
 3. **Voluntary permanent migration**, typically of Han Chinese populations, was sometimes resisted, sometimes ignored, and sometimes actively sponsored by the Qing, and applied to a number of areas including Southwest China, Manchuria before 1850ish, and can also be considered to include the emigrations that produced the Chinese diaspora in Southeast Asia. This can be considered colonialism in many instances where Han settlers outright displaced local populations, but it was not an inherently state-backed process, nor intended to strengthen state control. Indeed, at times migrants were seeking to move to regions where Qing control was weak or nonexistent. In these scenarios the principal motivation was the economic benefit to the individual migrant and/or households and social networks.
 
------ __518.2__ -----2022-06-11 21:22:37+08:00:
+----- __519.2__ -----2022-06-11 21:22:37+08:00:
 
 ### So, was Qing rule in China proper colonial in nature?
 
@@ -253,7 +271,7 @@ This is where it gets tricky for a number of reasons, firstly because 'Qing' and
 
 Now, for some the notion of the Qing as a Manchu state is essentially uncontroversial. Peter Perdue, for instance, comfortably regards the Manchus as the ruling population of the Qing by virtue of the Manchu identity of the imperial clan. I am not about to declare this perspective as inherently invalid, not least because I myself hold to a version of it, but I will stress that there is an alternative perspective to take. Pamela Crossley, whom I have mentioned above, has consistently argued that we ought not to see the Qing emperors, and by extension the Qing state as an abstracted entity, as having any kind of ethnic or cultural identity, but instead as amorphously adapting to individual contexts. The Qing emperors were of Manchu patrilineal descent, but their often simultaneous mobilisation of contextually-specific languages of power (Son of Heaven to the Han, Great Khan to the Mongols, etc.) shows that they were ultimately 'culturally null' as rulers. By extension, then, the Qing state was not a Manchu state, in that the Qing existed above and beyond the Manchu ethnic or cultural group. Now, the contention would be that the Manchus were a privileged group within the empire and/or that they served as an elite functionary caste in both civil and military capacities, and so we should see the Qing state as prioritising Manchu interests nevertheless. I would agree that this is also a valid take, but it is complicated by the role the Qing state itself had in creating and reifying Manchu identity, not unlike (indeed, in Crossley's view, essentially synonymous with) how the Qing attempted to reify ideal notions of Mongol, Tibetan, and Han identities. 
 
-But if it was the Qing court, and not the Manchus acting collectively, that promulgated these idealised identities, Manchu and non-Manchu alike, then were Manchus equally colonial subjects of that imperial court? My view would be no, in that the Qing court was an institution and not a polity, but if your definition of colonialism differs then you may well say otherwise. Yet it would then become problematic to speak of 'Qing colonialism', and so I'd also note that the Manchus being themselves a colonised population would not prevent them from being a coloniser population at the same time (and ditto for the Han): if we want to return to the British Empire here, we can bring up the role of Scots and Irish in colonial warfare and administration, or of the complicated place of Indian soldiers in British service in other colonial contexts such as Afghanistan. But there is perhaps a subtle difference between 'colonialism in a way that benefits the Manchus' and 'Manchu colonialism', which I hope has been highlighted by the above discussion.
+After all, if it was the Qing court, and not the Manchus acting collectively, that promulgated these idealised identities, Manchu and non-Manchu alike, then were Manchus equally colonial subjects of that imperial court? My view would be no, in that the Qing court was an institution and not a polity, but if your definition of colonialism differs then you may well say otherwise. Yet it would then become problematic to speak of 'Qing colonialism', and so I'd also note that the Manchus being themselves a colonised population would not prevent them from being instrumentalised by the Qing as a coloniser population in China at the same time, just as the Han were instrumentalised as colonisers on the frontiers: if we want to return to the British Empire here, we can bring up the role of Scots and Irish in colonial warfare and administration, or of the complicated place of Indian soldiers in British service in other colonial contexts such as Afghanistan. But there is perhaps a subtle difference between 'colonialism in a way that benefits the Manchus' and 'Manchu colonialism', which I hope has been highlighted by the above discussion.
 
 Even if we accept the conceit that the Banners were not only an elite group but the ruling population of the empire, we run into the problem that 'Manchus' and 'Banner people' were not necessarily the same thing, although the two came to be colloquially conflated in time. The Banners, as originally conceived, were an extremely multiethnic entity, encompassing a *wide* variety of populations. The simple tripartite division into Manchu, Mongolian, and Hanjun Banners obscures a number of ethnic sub-units within the Banners, including Koreans, 'post-conquest Han', Khorchins (defined as distinct from Mongols within the Banners), non-Manchu Tungusic tribes, even some Russians. Although *all* Banner people came to be identified as Manchus in time (indeed, the modern requirement for claiming Manchu ethnic status is simply to prove ancestry within the Banners), the exact point at which the the Banners as a functional caste morphed into the Manchus as an ethnic group – and whether there was in fact a phase during which the Banners stopped being purely a functional caste but were not a purely Manchu institution either – has been a question left unresolved for literal decades at this point.
 
@@ -283,55 +301,55 @@ As such, it isn't unambiguously clear that we can frame Qing colonialism as nece
 
 * James Millward, *Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864* (1998)
 
-### 519: [Did Athens or Sparta leave behind a better legacy? Why?](https://old.reddit.com/r/AskHistorians/comments/v9mfyk/did_athens_or_sparta_leave_behind_a_better_legacy/), submitted on 2022-06-11 09:13:25+08:00.
+### 520: [Did Athens or Sparta leave behind a better legacy? Why?](https://old.reddit.com/r/AskHistorians/comments/v9mfyk/did_athens_or_sparta_leave_behind_a_better_legacy/), submitted on 2022-06-11 09:13:25+08:00.
 
------ __519.1__ -----2022-06-11 09:22:40+08:00:
+----- __520.1__ -----2022-06-11 09:22:40+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 520: [There's your proof! Enough Said!](https://old.reddit.com/r/Hololive/comments/v9u9g9/theres_your_proof_enough_said/), submitted on 2022-06-11 17:51:03+08:00.
+### 521: [There's your proof! Enough Said!](https://old.reddit.com/r/Hololive/comments/v9u9g9/theres_your_proof_enough_said/), submitted on 2022-06-11 17:51:03+08:00.
 
------ __520.1__ -----2022-06-11 21:48:49+08:00:
+----- __521.1__ -----2022-06-11 21:48:49+08:00:
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
 
------ __520.2__ -----2022-06-11 23:32:32+08:00:
+----- __521.2__ -----2022-06-11 23:32:32+08:00:
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover, which is the company behind VTuber agency Hololive production.
 
------ __520.3__ -----2022-06-11 23:32:49+08:00:
+----- __521.3__ -----2022-06-11 23:32:49+08:00:
 
 The [second PV for Hololive Alternative](https://www.youtube.com/watch?v=fRsjv-JKyf8), a side project being worked on by Cover.
 
------ __520.4__ -----2022-06-12 01:52:16+08:00:
+----- __521.4__ -----2022-06-12 01:52:16+08:00:
 
-It's the umbrella term for a number of non-streaming, lore-focussed side project content, consisting of animated teasers like these at roughly yearly intervals, but interspersed with manga, the ongoing HoloEarth game project, and Holonometria. Confusingly, HoloAlt is not in charge of Error.
+It's the umbrella term for a number of non-streaming, lore-focussed side project content organised under one particular part of Cover, consisting of animated teasers like these at roughly yearly intervals, but interspersed with manga, the ongoing HoloEarth game project, and Holonometria. Confusingly, HoloAlt is not in charge of Error.
 
------ __520.5__ -----2022-06-12 01:53:24+08:00:
+----- __521.5__ -----2022-06-12 01:53:24+08:00:
 
 For what it's worth, presenting Hololive as purely a streamer agency is a bit of a misnomer; it's perhaps better to conceptualise it as a multimedia variety entertainment talent agency where the talents all happen to livestream, and then just kinda accept that a large variety of experimental stuff happens.
 
-### 521: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
+### 522: [Seems like the girl in the PV has a twitter account](https://old.reddit.com/r/Hololive/comments/v9ufjy/seems_like_the_girl_in_the_pv_has_a_twitter/), submitted on 2022-06-11 18:02:55+08:00.
 
------ __521.1__ -----2022-06-11 18:12:59+08:00:
+----- __522.1__ -----2022-06-11 18:12:59+08:00:
 
 I'm 90% sure You Kururu is a Cover staff member who works on HoloEarth and that the profile pic is temporary. I mean alternatively they are actually going to debut as a game dev VTuber but that seems unlikely.
 
-### 522: [Can i get to Oxford with a drama A level?](https://old.reddit.com/r/oxforduni/comments/va47ug/can_i_get_to_oxford_with_a_drama_a_level/), submitted on 2022-06-12 03:03:52+08:00.
+### 523: [Can i get to Oxford with a drama A level?](https://old.reddit.com/r/oxforduni/comments/va47ug/can_i_get_to_oxford_with_a_drama_a_level/), submitted on 2022-06-12 03:03:52+08:00.
 
------ __522.1__ -----2022-06-12 03:53:45+08:00:
+----- __523.1__ -----2022-06-12 03:53:45+08:00:
 
 Oxford's typical requirements, at least for humanities, are three As in *any* subjects, albeit including the one most relevant to your course. So unless you're planning on taking psych you should be fine.
 
------ __522.2__ -----2022-06-12 12:55:27+08:00:
+----- __523.2__ -----2022-06-12 12:55:27+08:00:
 
 I did indeed, and I'm heading back this autumn.
 
-### 523: [[hololive Alternative] 2nd Teaser](https://old.reddit.com/r/Hololive/comments/vaaue5/hololive_alternative_2nd_teaser/), submitted on 2022-06-12 08:57:45+08:00.
+### 524: [[hololive Alternative] 2nd Teaser](https://old.reddit.com/r/Hololive/comments/vaaue5/hololive_alternative_2nd_teaser/), submitted on 2022-06-12 08:57:45+08:00.
 
------ __523.1__ -----2022-06-12 13:03:58+08:00:
+----- __524.1__ -----2022-06-12 13:03:58+08:00:
 
 HoloALT is a lore-centric multimedia project whose original plan seems to have been three manga accompanied by a lore website (Holonometria) and followed by a game (HoloEarth), with animated PVs as extra promotion, but complications have meant only one of the three manga has actually been released so far and the lore site reflects that. The game, however, is in active development. There are, however, certain side projects that don't fall under HoloAlt, notably Hololive ERROR.
 
