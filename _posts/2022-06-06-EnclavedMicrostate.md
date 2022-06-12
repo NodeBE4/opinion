@@ -301,6 +301,22 @@ As such, it isn't unambiguously clear that we can frame Qing colonialism as nece
 
 * James Millward, *Beyond the Pass: Economy, Ethnicity, and Empire in Qing Central Asia, 1759-1864* (1998)
 
+----- __519.3__ -----2022-06-12 19:44:29+08:00:
+
+I did have a think over it as I was writing it out, and I would clarify as follows:
+
+What defines colonialism in my view is not the act in itself, but the basis of the claim to be *allowed* to act, and critically *by virtue of some notion that the acting polity has some essential superiority over any existing polities that those acts affect*. In addition, the claim is that the colonised polity is *not entitled* to its own agency. It is one thing to have a temporary state of war in which one polity uses force to constrain another's freedom of action in certain senses, and another thing to claim that the other polity can and should never have agency in any regard whatsoever.
+
+A naval blockade, for instance, is not necessarily an act of colonialism, for instance if there is the expectation there will ultimately be a peace deal (which depending on the war in question could be a heavily negotiated settlement) and that the blockaded power will resume its existence as an independent polity; it also need not be underpinned by the notion that the existence of the blockaded polity as an independent entity is illegitimate, or that the blockader power is inherently entitled to dictate any terms it wants – it may only be *contingently* entitled to that through its exercise of force.
+
+Anti-nuclear proliferation, however, gets trickier, though I think a framework of colonialism can apply. You could very well make the case that enforced non-proliferation is a form of colonial act in that the nuclear 'haves' deliberately prevent nuclear 'have-nots' from becoming 'haves' and gaining a greater degree of geopolitical presence. The notion would be that the non-nuclear powers are, to use my exact phrasing, not entitled to possess nuclear arms. You don't have to agree with this line of argument, but I would suggest that under a broader definition we can and maybe even should see colonialism as a discourse underpinning quite a wide range of possible acts.
+
+----- __519.4__ -----2022-06-12 20:30:22+08:00:
+
+It is worth stressing that the term 'polity' does not refer to the governing entity of a particular society, but to a society that has some form of governing entity. Stating for instance that the Duchy of Nowhereia is an illegitimate state that ought to be replaced with a democracy is different from saying that the very notion of the country of Nowhereia is illegitimate and it ought to be annexed into the territory of Someotherplaceland.
+
+As for power differential, I think I have made clear by emphasising the importance of an underlying notion of superiority that I do think it matters, but it worth suggesting that the differential need not be an actual one, only a conceptual one.
+
 ### 520: [Did Athens or Sparta leave behind a better legacy? Why?](https://old.reddit.com/r/AskHistorians/comments/v9mfyk/did_athens_or_sparta_leave_behind_a_better_legacy/), submitted on 2022-06-11 09:13:25+08:00.
 
 ----- __520.1__ -----2022-06-11 09:22:40+08:00:
