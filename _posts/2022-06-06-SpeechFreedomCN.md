@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-06-09
+date: 2022-06-12
 from: https://twitter.com/SpeechFreedomCN/status/1533990123502813184
 layout: post
 tags:
@@ -38,4 +38,8 @@ Guangdong resident Huang, who sticked some poster publicly that "insulted nation
 ### 6: [2022-06-09 08:00:30+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1534686841475059713)
 
 On Apr 16, police in Harbin detained a local netizen surnamed Tang for spreading a "rumor" that the city would soon be locked down due to Covid, which had been then lifted for only a few days. The very next night, Harbin gov't announced covid lockdown, making the "rumor" true.<br><img style="" src="https://pbs.twimg.com/media/FUxNdq0XoAAmGUj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUxNgg5XwAIRC4e?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-06-12 12:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1535846857770950656)
+
+广东省东莞市异议人士田维权，因在Telegram、YouTube和推特“辱骂政府和国家领导”以及发表“有关政府、国家领导人、国内重事件等的虚假信息”，于2020年12月被判处有期徒刑两年，二审维持原判。<br><img style="" src="https://pbs.twimg.com/media/FU__BcxWIAA0DDv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__CQVWQAAgCgC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__DQxXwAEOBqm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__GWSXoAEv975?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
