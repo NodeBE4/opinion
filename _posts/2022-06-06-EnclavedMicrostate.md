@@ -135,6 +135,10 @@ We are reaching levels of recursion never thought possible...
 
 Per the official roadmap, HoloAlt consists of the PV, manga, HoloEarth, and Holonometria; Hololive Error doesn't fall under the HoloAlt umbrella from what I can tell.
 
+----- __510.15__ -----2022-06-12 13:16:58+08:00:
+
+I mean, even if only Gura's appearing for the concert that doesn't exclude the possibility that Myth as a whole might be in Japan around that time. Plus given it's a paid concert and Gura is so far the only Myth member with a duo orisong with Calli, it's not necessarily that the other three would be missing out that much by not being part of that.
+
 ### 511: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
 ----- __511.1__ -----2022-06-07 12:50:51+08:00:
@@ -320,4 +324,14 @@ I'm 90% sure You Kururu is a Cover staff member who works on HoloEarth and that 
 ----- __522.1__ -----2022-06-12 03:53:45+08:00:
 
 Oxford's typical requirements, at least for humanities, are three As in *any* subjects, albeit including the one most relevant to your course. So unless you're planning on taking psych you should be fine.
+
+----- __522.2__ -----2022-06-12 12:55:27+08:00:
+
+I did indeed, and I'm heading back this autumn.
+
+### 523: [[hololive Alternative] 2nd Teaser](https://old.reddit.com/r/Hololive/comments/vaaue5/hololive_alternative_2nd_teaser/), submitted on 2022-06-12 08:57:45+08:00.
+
+----- __523.1__ -----2022-06-12 13:03:58+08:00:
+
+HoloALT is a lore-centric multimedia project whose original plan seems to have been three manga accompanied by a lore website (Holonometria) and followed by a game (HoloEarth), with animated PVs as extra promotion, but complications have meant only one of the three manga has actually been released so far and the lore site reflects that. The game, however, is in active development. There are, however, certain side projects that don't fall under HoloAlt, notably Hololive ERROR.
 
