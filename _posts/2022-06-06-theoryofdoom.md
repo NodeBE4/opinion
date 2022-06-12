@@ -167,3 +167,7 @@ Things are what they are.
 
 Indeed.  A casual review of public records suggests that Vaught --- Madigan's lawyer --- was a common denominator in all sorts of eyebrow-raising circumstances throughout her "legal career."  A "legal career" that is fairly surprising, considering that she graduated from a law school whose admission criteria is little more than walking in the door.  But she's a power player behind the scenes.  Which is the important thing.  In Illinois, at least.
 
+----- __295.4__ -----2022-06-13 02:55:35+08:00:
+
+Perhaps one day folks will comprehend the fact that a report button is *not* a "disagree" button.
+
