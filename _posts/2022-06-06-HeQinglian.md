@@ -141,7 +141,7 @@ Re @jeff47683665 WHO，CDC 和NHS？<br>去读这篇。还有今天我发的消�
 
 ### 32: [2022-06-08 08:59:22+08:00 推文](https://twitter.com/HeQinglian/status/1534339266171502593)
 
-应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。
+应该改进一下多米尼投票机，只许偷其他党派的，不许偷本派的，这样有利于维持民主党内团结。<br><br>蔡慎坤: 乔治亚州在民主党中期选举中，争夺第二区地方官有三个候选人，最后一人叫米歇尔，投票机显示她的得票数为0。而她和丈夫都投了自己的票，得票数至少应该为2。米歇尔要求手工点票，手工点票的结果出人意料，她的得票数在候选人中跃居第一。这种投票机，正是2020大选使用的多米尼投票机，可以称为偷票机。<br>
 
 ### 33: [2022-06-08 10:04:12+08:00 推文](https://twitter.com/HeQinglian/status/1534355581116497921)
 
@@ -193,7 +193,7 @@ RT Judicial Watch ⚖️<br>NEW: Hillary did it. And the FBI helped. READ MORE
 
 ### 45: [2022-06-09 04:24:59+08:00 推文](https://twitter.com/HeQinglian/status/1534632602145005568)
 
-撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。<br><br>美国之音中文网: 美企陆续撤离中国市场 分析：还会有更多企业离开<br> <a href="http://dlvr.it/SRmzbp" target="_blank" rel="noopener noreferrer">http://dlvr.it/SRmzbp</a>
+撤出的公司当中，比较重要的是美国苹果公司计划将iPad组件的生产从中国工厂转移到越南的决定。其余的互联网公司，比如电子书商等服务性行业，在中国本来就没多少业务好开展。<br>我相信俄乌战争后，中国会将脱离美国高科技公司包括金融业务当作一个发展方向。闭关锁国不会，但“独立自主”有了足够的理由。
 
 ### 46: [2022-06-09 04:38:59+08:00 推文](https://twitter.com/HeQinglian/status/1534636126018981891)
 
@@ -261,7 +261,7 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
 
-“应该”的事情太多了，可惜世上没有后悔药。
+“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
@@ -398,4 +398,12 @@ Re @RealBeiMing @JianglinLi @david_david1968 @Wu_Zhi 话说，承认事实如今
 ### 96: [2022-06-12 20:56:14+08:00 推文](https://twitter.com/HeQinglian/status/1535969224795074564)
 
 Re @JianglinLi @RealBeiMing @david_david1968 @Wu_Zhi 左派的贱与瞎，是历史反复证明的。<br>他们如果只害自己，不拉整个社会陪葬，我乐见其成。可惜的是，他们的社会实践，必然危害到整个社会。<br>好比昨天那视频里找蚂蚁上身咬自己的人，咬出病来我半点也不焦心，问题是左派要求所有人都让蚂蚁爬上身来咬，不让就是不进步，成天闹心。<br>美国人必须经过那一劫。
+
+### 97: [2022-06-12 22:09:06+08:00 推文](https://twitter.com/HeQinglian/status/1535987562426376198)
+
+Re @JianglinLi @Wu_Zhi @RealBeiMing @david_david1968 从2017年郭推革开始，我从来拒绝被裹挟。这些不同的粉被证明为错的时间长短不一。乌鸡血最短，三个多月而已。拜粉最长，主要是拜登还在位上，美华拜粉有利益可言。<br>因此看他们那血脉贲张、青筋满头、口水乱喷地天天重复“我会缝扣子了”，当作低等马戏好了。<br>现在转托要求我解禁的乌粉，一个也不解。
+
+### 98: [2022-06-12 23:09:09+08:00 推文](https://twitter.com/HeQinglian/status/1536002674461659136)
+
+Re @guchuan81 不要小看马克思的影响：他用历史的“科学”取代了上帝的神圣计划。<br>西方的基督教徒与天主教徒（拜登之类），受影响而不自知。<br>前几天还有个女士自称基督教徒，来我这里留言，大言不惭地教育我：“俄乌战争你全错了”，回了她一段，哑了。懒得与这类伪劣基督徒说，连自家本源都不知为何，还以为自己高人一等
 

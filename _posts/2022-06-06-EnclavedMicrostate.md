@@ -367,15 +367,25 @@ I did indeed, and I'm heading back this autumn.
 
 Indeed I am.
 
-### 524: [[hololive Alternative] 2nd Teaser](https://old.reddit.com/r/Hololive/comments/vaaue5/hololive_alternative_2nd_teaser/), submitted on 2022-06-12 08:57:45+08:00.
+### 524: [Kiara German Language Channel Now Open](https://old.reddit.com/r/Hololive/comments/va4aqv/kiara_german_language_channel_now_open/), submitted on 2022-06-12 03:08:01+08:00.
 
------ __524.1__ -----2022-06-12 13:03:58+08:00:
+----- __524.1__ -----2022-06-12 23:25:06+08:00:
+
+Damn, we must be lost then because the only Kiwawa we have is from Austria.
+
+----- __524.2__ -----2022-06-12 23:25:18+08:00:
+
+Also that bit of Belgium.
+
+### 525: [[hololive Alternative] 2nd Teaser](https://old.reddit.com/r/Hololive/comments/vaaue5/hololive_alternative_2nd_teaser/), submitted on 2022-06-12 08:57:45+08:00.
+
+----- __525.1__ -----2022-06-12 13:03:58+08:00:
 
 HoloALT is a lore-centric multimedia project whose original plan seems to have been three manga accompanied by a lore website (Holonometria) and followed by a game (HoloEarth), with animated PVs as extra promotion, but complications have meant only one of the three manga has actually been released so far and the lore site reflects that. The game, however, is in active development. There are, however, certain side projects that don't fall under HoloAlt, notably Hololive ERROR.
 
-### 525: [Why asian counties like China, Korea, Japan never get on with each other?](https://old.reddit.com/r/AskHistorians/comments/vah61l/why_asian_counties_like_china_korea_japan_never/), submitted on 2022-06-12 15:59:10+08:00.
+### 526: [Why asian counties like China, Korea, Japan never get on with each other?](https://old.reddit.com/r/AskHistorians/comments/vah61l/why_asian_counties_like_china_korea_japan_never/), submitted on 2022-06-12 15:59:10+08:00.
 
------ __525.1__ -----2022-06-12 16:22:24+08:00:
+----- __526.1__ -----2022-06-12 16:22:24+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
