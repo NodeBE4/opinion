@@ -347,6 +347,10 @@ Oxford's typical requirements, at least for humanities, are three As in *any* su
 
 I did indeed, and I'm heading back this autumn.
 
+----- __523.3__ -----2022-06-12 15:16:12+08:00:
+
+Indeed I am.
+
 ### 524: [[hololive Alternative] 2nd Teaser](https://old.reddit.com/r/Hololive/comments/vaaue5/hololive_alternative_2nd_teaser/), submitted on 2022-06-12 08:57:45+08:00.
 
 ----- __524.1__ -----2022-06-12 13:03:58+08:00:

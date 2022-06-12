@@ -43,3 +43,7 @@ On Apr 16, police in Harbin detained a local netizen surnamed Tang for spreading
 
 广东省东莞市异议人士田维权，因在Telegram、YouTube和推特“辱骂政府和国家领导”以及发表“有关政府、国家领导人、国内重事件等的虚假信息”，于2020年12月被判处有期徒刑两年，二审维持原判。<br><img style="" src="https://pbs.twimg.com/media/FU__BcxWIAA0DDv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__CQVWQAAgCgC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__DQxXwAEOBqm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__GWSXoAEv975?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-06-12 12:56:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1535848367766401027)
+
+Guangdong dissident Tian Weiquan, who "insulted the government and national leaders and posted false information about the government, national leaders and major incidents of the country" on Telegram, YouTube and Twitter, sentenced to 2 years in prison.<br><img style="" src="https://pbs.twimg.com/media/FU__qqKWUAAdLEF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__wUOWUAMEYx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__xmhXoAAPpGc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FU__ypYX0AQ5dJS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
