@@ -149,7 +149,7 @@ I mean Cover also drops news about new generations on quite short notice too. Fo
 
 ----- __510.18__ -----2022-06-12 13:52:28+08:00:
 
-You can't suspend me, I'm going on hiatus!
+'You can't suspend me, I'm going on hiatus!'
 
 ### 511: [What was the reaction of the pope and other important Christian figures of the time to the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/v6ffvk/what_was_the_reaction_of_the_pope_and_other/), submitted on 2022-06-07 06:25:35+08:00.
 
@@ -356,4 +356,10 @@ Indeed I am.
 ----- __524.1__ -----2022-06-12 13:03:58+08:00:
 
 HoloALT is a lore-centric multimedia project whose original plan seems to have been three manga accompanied by a lore website (Holonometria) and followed by a game (HoloEarth), with animated PVs as extra promotion, but complications have meant only one of the three manga has actually been released so far and the lore site reflects that. The game, however, is in active development. There are, however, certain side projects that don't fall under HoloAlt, notably Hololive ERROR.
+
+### 525: [Why asian counties like China, Korea, Japan never get on with each other?](https://old.reddit.com/r/AskHistorians/comments/vah61l/why_asian_counties_like_china_korea_japan_never/), submitted on 2022-06-12 15:59:10+08:00.
+
+----- __525.1__ -----2022-06-12 16:22:24+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
