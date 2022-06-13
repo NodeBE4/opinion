@@ -51,3 +51,35 @@ Re @Wu_Zhi 标题直译就是：“乌克兰官员反驳拜登声称泽连斯基
 
 Re @KELMAND1 @xzHhJ21axSh 让不让存在，得看华府的民主指导者了。
 
+### 10: [2022-06-13 08:43:56+08:00 推文](https://twitter.com/HeQinglian/status/1536147320626196480)
+
+Re @fat_jorden @JiangShangrong 是不是草台班子，去看看介绍。 <a href="https://en.wikipedia.org/wiki/Patrick_Basham#:~:text=Patrick%20Basham%20is%20a%20former,at%20the%20Canadian%20Fraser%20Institute" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Patrick_Basham#:~:text=Patrick%20Basham%20is%20a%20former,at%20the%20Canadian%20Fraser%20Institute</a>
+
+### 11: [2022-06-13 08:58:17+08:00 推文](https://twitter.com/HeQinglian/status/1536150933045923842)
+
+Re @muguiying513 这不算什么，什么时候美国人能够为1.6点蜡烛，才算不负民主灯塔之名。
+
+### 12: [2022-06-13 09:04:50+08:00 推文](https://twitter.com/HeQinglian/status/1536152580480454656)
+
+受托给約拿．哥德堡（Jonah Goldberg）《西方的自杀》中译本写序。看完前三章，才明白美国的保守主义有多弱，将国家本位（让美国伟大）归结于部落主义思维；对进步派的种种弊端认识其现象，但却认为这是部落主义造成，只有与部落主义相对的世界主义才能克服。<br>同意其中部分思考，但对这条完全不能同意
+
+### 13: [2022-06-13 09:05:42+08:00 推文](https://twitter.com/HeQinglian/status/1536152800563961858)
+
+Re 我将自己的想法写给总编，问：是否需要这样的序言？
+
+### 14: [2022-06-13 09:16:35+08:00 推文](https://twitter.com/HeQinglian/status/1536155540845481985)
+
+Re @fat_jorden @JiangShangrong 我认为你应该去看原文，看完后再发表言论，批评那“民主研究所”是草台班子。<br>美国还有好几个民主研究所，英文名称有别，译成中文全是这个，但都不是草台班子。
+
+### 15: [2022-06-13 10:22:20+08:00 推文](https://twitter.com/HeQinglian/status/1536172085835440130)
+
+Re @yu_su_chen 我看序言内容。<br>看来你的书都是残本。
+
+### 16: [2022-06-13 10:32:07+08:00 推文](https://twitter.com/HeQinglian/status/1536174546423791616)
+
+Re @yu_su_chen 服了。看来你的书架上没有简中了。<br>但我不认为你真的就此对西方思想有很深的认识。
+
+### 17: [2022-06-13 10:32:45+08:00 推文](https://twitter.com/HeQinglian/status/1536174707522908160)
+
+Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
+
