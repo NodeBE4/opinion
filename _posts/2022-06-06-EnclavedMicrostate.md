@@ -389,3 +389,9 @@ HoloALT is a lore-centric multimedia project whose original plan seems to have b
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 527: [He Really Tanked This Prediction](https://old.reddit.com/r/confidentlyincorrect/comments/vakr1n/he_really_tanked_this_prediction/), submitted on 2022-06-12 20:17:07+08:00.
+
+----- __527.1__ -----2022-06-13 11:09:01+08:00:
+
+I mean even if the quote was real (it isn't) it would nevertheless be correct. Cavalry's principal function was to serve as mobile infantry, something which tanks aren't. *Lorries* (that's trucks for those of you across the Atlantic) and armoured personnel carriers replaced the horse, not the tank. Yes, tank forces were and are often the descendants of cavalry formations, but the functions of cavalry were replicated by a combination of tanks *and* motorised and mechanised infantry (which are invariably integrated as part of armoured formations).
+
