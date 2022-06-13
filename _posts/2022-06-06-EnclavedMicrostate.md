@@ -395,3 +395,9 @@ This submission has been removed because it involves current events.  To keep fr
 
 I mean even if the quote was real (it isn't) it would nevertheless be correct. Cavalry's principal function was to serve as mobile infantry, something which tanks aren't. *Lorries* (that's trucks for those of you across the Atlantic) and armoured personnel carriers replaced the horse, not the tank. Yes, tank forces were and are often the descendants of cavalry formations, but the functions of cavalry were replicated by a combination of tanks *and* motorised and mechanised infantry (which are invariably integrated as part of armoured formations), and mostly the latter.
 
+### 528: [[Hobby Scuffles] Week of June 13, 2022](https://old.reddit.com/r/HobbyDrama/comments/vanrdd/hobby_scuffles_week_of_june_13_2022/), submitted on 2022-06-12 23:00:15+08:00.
+
+----- __528.1__ -----2022-06-13 23:38:38+08:00:
+
+Reminds me of RWBY a bit honestly – there are people who genuinely like it but generally acknowledge the show is largely okay but rarely great, and then there are the people for whom the show being anything short of brilliant is an utter affront to all that is holy.
+
