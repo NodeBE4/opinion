@@ -393,5 +393,5 @@ This submission has been removed because it involves current events.  To keep fr
 
 ----- __527.1__ -----2022-06-13 11:09:01+08:00:
 
-I mean even if the quote was real (it isn't) it would nevertheless be correct. Cavalry's principal function was to serve as mobile infantry, something which tanks aren't. *Lorries* (that's trucks for those of you across the Atlantic) and armoured personnel carriers replaced the horse, not the tank. Yes, tank forces were and are often the descendants of cavalry formations, but the functions of cavalry were replicated by a combination of tanks *and* motorised and mechanised infantry (which are invariably integrated as part of armoured formations).
+I mean even if the quote was real (it isn't) it would nevertheless be correct. Cavalry's principal function was to serve as mobile infantry, something which tanks aren't. *Lorries* (that's trucks for those of you across the Atlantic) and armoured personnel carriers replaced the horse, not the tank. Yes, tank forces were and are often the descendants of cavalry formations, but the functions of cavalry were replicated by a combination of tanks *and* motorised and mechanised infantry (which are invariably integrated as part of armoured formations), and mostly the latter.
 
