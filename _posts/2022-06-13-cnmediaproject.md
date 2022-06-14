@@ -47,3 +47,11 @@ Re @SylvieXBB @MariaRepnikova This is just awful. But very important that you ha
 
 Re @SylvieXBB @MariaRepnikova Yes, @SylvieXBB
 
+### 9: [2022-06-14 15:06:10+08:00 推文](https://twitter.com/cnmediaproject/status/1536605900777361408)
+
+State media coverage of a sector report by the All-China Journalism Association emphasized the development of media convergence. But the report tells another important story -- about a rapid fall in the number of licensed journalists in China. <a href="https://chinamediaproject.org/2022/06/14/steep-decline-for-chinas-journalists/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/14/steep-decline-for-chinas-journalists/</a><br><img style="" src="https://pbs.twimg.com/media/FVMe5yhagAAEMmO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-06-14 16:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1536626374689325062)
+
+Xi Jinping is referenced in 8 articles today in the People's Daily as "the core." What does this mean? Read about it in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/the-core/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/the-core/</a><br><img style="" src="https://pbs.twimg.com/media/FVMxf9ZaQAA1EWV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
