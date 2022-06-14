@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-14
+date: 2022-06-15
 from: https://twitter.com/HeQinglian/status/1536025701392035841
 layout: post
 tags:
@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -130,4 +130,8 @@ Re @bxieus 如果我没记错，你对美国的危机是有所了解的，我还
 ### 29: [2022-06-14 23:42:39+08:00 推文](https://twitter.com/HeQinglian/status/1536735880035147776)
 
 Re @bxieus 美国最开始的崩解应该是从美元霸权崩溃开始，拜登政府一年多举债超10万亿美元，相当于2021年全球GDP总量的八分之一，债务危机已不可控。
+
+### 30: [2022-06-15 04:55:38+08:00 推文](https://twitter.com/HeQinglian/status/1536814643271827458)
+
+Re @bxieus 人民越来越懒，是影响，是造成福利毒药-债台高筑的重要原因。但危机爆发点不是这。
 
