@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-06-14
+date: 2022-06-15
 from: https://twitter.com/realcaixia/status/1536679038537895936
 layout: post
 tags:
@@ -26,4 +26,8 @@ Re 作者写到：既得利益集团并不反对资本主义，但他们仇恨�
 ### 3: [2022-06-14 19:59:45+08:00 推文](https://twitter.com/realcaixia/status/1536679786730467332)
 
 Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的“改革开放”的真实目标露出了真容：他们绝不是要回到“一穷二白”、吃大锅饭的计划经济时代，而是以资本主义的工具创造财富，以社会主义的集权方式瓜分财富，缔造一个只属于吉拉斯笔下的“新阶级”的“共产主义天堂”。<br>这应是中国改革开放走到今天的真实写照
+
+### 4: [2022-06-15 01:33:40+08:00 推文](https://twitter.com/realcaixia/status/1536763817945878529)
+
+利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。<br><br>荣剑: 必须人人追究此事责任者，否则，下一个被红码的就是你！<br><br><img style="" src="https://pbs.twimg.com/media/FVNW9oCUcAAb1xU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW90hUcAU_b7J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW-jLUAAEsLgH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW_FgUYAEHY7o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
