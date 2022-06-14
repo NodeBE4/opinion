@@ -45,7 +45,7 @@ Re @sebastianveghk @lingli_vienna 人生的扣子 goes back to 2014 apparently: 
 
 ### 8: [2022-01-19 23:15:36+08:00 推文](https://twitter.com/sehof/status/1483820443710922753)
 
-RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
+RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
 
 ### 9: [2022-01-20 07:45:03+08:00 推文](https://twitter.com/cnmediaproject/status/1483948651726897153)
 
@@ -81,7 +81,7 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 

@@ -47,11 +47,39 @@ Re @SylvieXBB @MariaRepnikova This is just awful. But very important that you ha
 
 Re @SylvieXBB @MariaRepnikova Yes, @SylvieXBB
 
-### 9: [2022-06-14 15:06:10+08:00 推文](https://twitter.com/cnmediaproject/status/1536605900777361408)
+### 9: [2022-06-14 14:42:55+08:00 推文](https://twitter.com/bibekbhandari/status/1536600051639676928)
+
+RT Bibek Bhandari<br>A Covid control tool is being used for more than that in China. <br><br>People traveling to Zhengzhou to withdraw their savings from banks withholding their deposits have had their health codes turn red upon reaching the city. Story by @peiyue_jess <a href="https://www.sixthtone.com/news/1010547/red-health-code-bars-depositors-unfreeze-savings-in-henan-banks?source=channel_home" target="_blank" rel="noopener noreferrer">https://www.sixthtone.com/news/1010547/red-health-code-bars-depositors-unfreeze-savings-in-henan-banks?source=channel_home</a>
+
+### 10: [2022-06-14 15:06:10+08:00 推文](https://twitter.com/cnmediaproject/status/1536605900777361408)
 
 State media coverage of a sector report by the All-China Journalism Association emphasized the development of media convergence. But the report tells another important story -- about a rapid fall in the number of licensed journalists in China. <a href="https://chinamediaproject.org/2022/06/14/steep-decline-for-chinas-journalists/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/14/steep-decline-for-chinas-journalists/</a><br><img style="" src="https://pbs.twimg.com/media/FVMe5yhagAAEMmO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 10: [2022-06-14 16:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1536626374689325062)
+### 11: [2022-06-14 16:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1536626374689325062)
 
 Xi Jinping is referenced in 8 articles today in the People's Daily as "the core." What does this mean? Read about it in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/the-core/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/the-core/</a><br><img style="" src="https://pbs.twimg.com/media/FVMxf9ZaQAA1EWV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-06-14 20:15:28+08:00 推文](https://twitter.com/niubi/status/1536683739492777987)
+
+RT Bill Bishop<br>China ramps up coal power to boost post-lockdown growth <a href="https://www.ft.com/content/68bc7f20-e5f9-4532-bb0f-4820783de2c2" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/68bc7f20-e5f9-4532-bb0f-4820783de2c2</a>
+
+### 13: [2022-06-14 20:39:48+08:00 推文](https://twitter.com/caixin/status/1536689864262836224)
+
+RT Caixin Global<br>Trending in China: Reports that people who wanted to withdraw their cash from rural banks in Henan province had their movement curtailed by the country’s anti-Covid location-tracking software were met with outrage. <a href="https://www.caixinglobal.com/2022-06-14/trending-in-china-uproar-after-anti-covid-system-seemingly-used-to-stop-people-taking-cash-out-of-banks-101899067.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKT5ETNQWX5X6rasWOHdpFAw%3D%3D&amp;cxg=web&amp;Sfrom=twitter" target="_blank" rel="noopener noreferrer">https://www.caixinglobal.com/2022-06-14/trending-in-china-uproar-after-anti-covid-system-seemingly-used-to-stop-people-taking-cash-out-of-banks-101899067.html?rkey=4jojc%2BU9Dvsngy8ZDEibRfFL%2FE7ci4pKT5ETNQWX5X6rasWOHdpFAw%3D%3D&amp;cxg=web&amp;Sfrom=twitter</a>
+
+### 14: [2022-06-14 21:17:37+08:00 推文](https://twitter.com/cnmediaproject/status/1536699380451123200)
+
+The latest report from China's official journalists association shows a dramatic fall in the number of journalists issued with press cards over the past 8 years, with an almost 25 percent drop in valid press cards (记者证) allowing news gathering. <a href="https://chinamediaproject.org/2022/06/14/steep-decline-for-chinas-journalists/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/14/steep-decline-for-chinas-journalists/</a><br><img style="" src="https://pbs.twimg.com/media/FVNz7y5akAEg50p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-06-14 21:18:45+08:00 推文](https://twitter.com/cnmediaproject/status/1536699667375075328)
+
+What does the CCP mean when it refers to Xi Jinping as the "core"? Read up on this an other key terminologies in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/the-core/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/the-core/</a><br><img style="" src="https://pbs.twimg.com/media/FVN0MkZagAAe-NG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-06-14 21:46:45+08:00 推文](https://twitter.com/cnmediaproject/status/1536706711834066945)
+
+Re @eramash Thank you.
+
+### 17: [2022-06-14 23:20:24+08:00 推文](https://twitter.com/cnmediaproject/status/1536730281662500864)
+
+Re @ktse852 @enkocz And there are plenty more strange and stranger things about this story!
 

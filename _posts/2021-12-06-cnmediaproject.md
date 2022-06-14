@@ -29,7 +29,7 @@ The march toward the potent legacy phrase "Xi Thought" continues, this time with
 
 ### 4: [2021-12-06 12:39:21+08:00 推文](https://twitter.com/vshih2/status/1467715258198282240)
 
-RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style="" src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-06 13:41:23+08:00 推文](https://twitter.com/klustout/status/1467730873202130952)
 
@@ -37,7 +37,7 @@ RT Kristie Lu Stout✌🏽<br>In China, censors are already at work with the w
 
 ### 6: [2021-12-06 13:48:53+08:00 推文](https://twitter.com/cnmediaproject/status/1467732759351545860)
 
-The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
+The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
 
@@ -45,7 +45,7 @@ RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll
 
 ### 8: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
 
-RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-07 18:43:00+08:00 推文](https://twitter.com/PM_Thornton/status/1468169162363125763)
 
@@ -73,11 +73,11 @@ Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in T
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
-Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style="" src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
-Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And Dalian Daily, the official organ of the CCP leadership in the city of Dalian.<br><img style="" src="https://pbs.twimg.com/media/FGC4melUYAAx6zQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
@@ -89,7 +89,7 @@ Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
-Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
@@ -101,7 +101,7 @@ Re It is always imp. to scrutinize CCP rhetoric to understand how the leadership
 
 ### 22: [2021-12-08 08:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468380638026039300)
 
-Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style="" src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
@@ -165,7 +165,7 @@ Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Da
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
