@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-13
+date: 2022-06-14
 from: https://twitter.com/cnmediaproject/status/1536199124982583297
 layout: post
 tags:
@@ -30,4 +30,20 @@ Re One of these is very much worth a read also as an explication of the phrase "
 ### 4: [2022-06-13 12:18:33+08:00 推文](https://twitter.com/cnmediaproject/status/1536201330569936896)
 
 Re 国之大者 is a Xi utterance that references Louis Cha's notion of the “great man of chivalry” (侠之大者) in the Wuxia genre. This is a character that shows pluck and courage in fighting injustices.<br><img style="" src="https://pbs.twimg.com/media/FVGu9U1acAAI8gk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-06-14 05:14:51+08:00 推文](https://twitter.com/RunakoCelina/status/1536457092273426444)
+
+RT Runako Celina<br>Re I was living in Beijing at the time this video was circulated and like many people of African descent across China watched it with horror, wondering why, how, who and where - no one seemed to know all the answers - but we all wanted to.
+
+### 6: [2022-06-14 05:16:26+08:00 推文](https://twitter.com/MariaRepnikova/status/1536457491965480960)
+
+RT Maria Repnikova<br>Excellent thread and an incredible investigation
+
+### 7: [2022-06-14 13:12:39+08:00 推文](https://twitter.com/cnmediaproject/status/1536577335771955200)
+
+Re @SylvieXBB @MariaRepnikova This is just awful. But very important that you have documented it. Have you published related research anywhere?
+
+### 8: [2022-06-14 13:28:02+08:00 推文](https://twitter.com/cnmediaproject/status/1536581207479439360)
+
+Re @SylvieXBB @MariaRepnikova Yes, @SylvieXBB
 
