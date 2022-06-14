@@ -401,3 +401,7 @@ I mean even if the quote was real (it isn't) it would nevertheless be correct. C
 
 Reminds me of RWBY a bit honestly – there are people who genuinely like it but generally acknowledge the show is largely okay but rarely great, and then there are the people for whom the show being anything short of brilliant is an utter affront to all that is holy.
 
+----- __528.2__ -----2022-06-14 19:25:50+08:00:
+
+I just had a look at the Tactics Ogre series and I'm slightly saddened that they didn't stick to just using Queen song titles for the game titles.
+
