@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-14
+date: 2022-06-15
 from: https://old.reddit.com/r/math/comments/vbhtzn/what_is_your_favorite_thing_about_math/
 layout: post
 tags:
@@ -40,4 +40,10 @@ This is a man who knows how to solve problems.
 ----- __299.1__ -----2022-06-15 11:18:19+08:00:
 
 I would change how math is taught in American public schools from the current state to how it is done in Germany, Switzerland or Japan.
+
+### 300: [Got about a free 50-60 days before joining my PhD. Any advice or suggestions on what to do in this free time ?](https://old.reddit.com/r/math/comments/vcl2rq/got_about_a_free_5060_days_before_joining_my_phd/), submitted on 2022-06-15 11:27:24+08:00.
+
+----- __300.1__ -----2022-06-15 19:10:28+08:00:
+
+This.  Not only go to the gym, but develop a routine that you can stick with.  Find some friends who also go to the gym, so you have people to hold you accountable and keep things in perspective.
 
