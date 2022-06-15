@@ -35,3 +35,9 @@ Automod isn't sending DMs to users who submit text posts or comments.
 
 This is a man who knows how to solve problems.
 
+### 299: [What would you change about math?](https://old.reddit.com/r/math/comments/vc449a/what_would_you_change_about_math/), submitted on 2022-06-14 21:59:14+08:00.
+
+----- __299.1__ -----2022-06-15 11:18:19+08:00:
+
+I would change how math is taught in American public schools from the current state to how it is done in Germany, Switzerland or Japan.
+

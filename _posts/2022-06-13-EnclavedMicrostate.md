@@ -3,7 +3,7 @@ author: EnclavedMicrostate
 categories:
 - Reddit
 date: 2022-06-14
-from: https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/
+from: https://old.reddit.com/r/VirtualYoutubers/comments/vbfqlf/primetime_parasocial_party_weekly_discussion/
 layout: post
 tags:
 - Reddit
@@ -13,23 +13,31 @@ title: EnclavedMicrostate在2022-06-13~2022-06-19的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 529: [These salt-soaked caverns are teeming with pelagic nightmares - they must be flushed out!](https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/), submitted on 2022-06-14 09:04:08+08:00.
+### 529: [Primetime Parasocial Party - Weekly Discussion Thread, June 13th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/vbfqlf/primetime_parasocial_party_weekly_discussion/), submitted on 2022-06-14 00:11:11+08:00.
 
------ __529.1__ -----2022-06-14 11:50:52+08:00:
+----- __529.1__ -----2022-06-15 12:06:00+08:00:
+
+A sort of issue would be that there are different Chineses (to use the phrase clumsily), and at present there's a roughly 2:1 ratio (from what metrics I recall) of predominantly Mandarin-speaking Taiwanese viewers to Cantonese-speaking HK viewers, setting aside the possibility of VPN-using viewers doing things like superchatting via HKD and NTD. So unlike back when there was a bilibili presence and the vast majority of what I'll term 'Sinospheric' viewers were Mandarin-speakers, we've moved to an environment where ostensibly one third of 'Chinese' viewers speak a different language from the other two thirds.
+
+I'd imagine a loosening up of language use by certain members is more likely than the reintroduction of an international Chinese-language branch. There's a couple of HoloEN members with varying levels of proficiency in certain Sinitic languages for instance: I don't believe she has demonstrated it on stream *as* her Hololive VTuber persona, but >!Kiara does or did at one stage have some degree of Mandarin proficiency!<; the specific incident giving it away was scrubbed but >!Bae speaks Cantonese with Mama Rat!<.
+
+### 530: [These salt-soaked caverns are teeming with pelagic nightmares - they must be flushed out!](https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/), submitted on 2022-06-14 09:04:08+08:00.
+
+----- __530.1__ -----2022-06-14 11:50:52+08:00:
 
 I need this template so much
 
-### 530: [Which movie about World War II do you consider the most realistic?](https://old.reddit.com/r/AskHistorians/comments/vc0x8z/which_movie_about_world_war_ii_do_you_consider/), submitted on 2022-06-14 19:01:18+08:00.
+### 531: [Which movie about World War II do you consider the most realistic?](https://old.reddit.com/r/AskHistorians/comments/vc0x8z/which_movie_about_world_war_ii_do_you_consider/), submitted on 2022-06-14 19:01:18+08:00.
 
------ __530.1__ -----2022-06-14 19:29:54+08:00:
+----- __531.1__ -----2022-06-14 19:29:54+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 531: [Why didn't the USSR annex or put a socialist government in Finland after WW2?](https://old.reddit.com/r/AskHistorians/comments/vc2crt/why_didnt_the_ussr_annex_or_put_a_socialist/), submitted on 2022-06-14 20:26:23+08:00.
+### 532: [Why didn't the USSR annex or put a socialist government in Finland after WW2?](https://old.reddit.com/r/AskHistorians/comments/vc2crt/why_didnt_the_ussr_annex_or_put_a_socialist/), submitted on 2022-06-14 20:26:23+08:00.
 
------ __531.1__ -----2022-06-14 21:15:57+08:00:
+----- __532.1__ -----2022-06-14 21:15:57+08:00:
 
 Hey there,
 
@@ -37,9 +45,9 @@ Just to let you know, your question is fine, and we're letting it stand. However
 
 If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
 
-### 532: [What were the diffrences between the Schlieffen Plan and the Blitzkrieg. Which strategy was more effective and why?](https://old.reddit.com/r/AskHistorians/comments/vc2we6/what_were_the_diffrences_between_the_schlieffen/), submitted on 2022-06-14 20:56:47+08:00.
+### 533: [What were the diffrences between the Schlieffen Plan and the Blitzkrieg. Which strategy was more effective and why?](https://old.reddit.com/r/AskHistorians/comments/vc2we6/what_were_the_diffrences_between_the_schlieffen/), submitted on 2022-06-14 20:56:47+08:00.
 
------ __532.1__ -----2022-06-14 21:21:10+08:00:
+----- __533.1__ -----2022-06-14 21:21:10+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
