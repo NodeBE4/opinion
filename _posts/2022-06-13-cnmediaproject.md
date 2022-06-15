@@ -37,7 +37,7 @@ RT Runako Celina<br>Re I was living in Beijing at the time this video was circ
 
 ### 6: [2022-06-14 05:16:26+08:00 推文](https://twitter.com/MariaRepnikova/status/1536457491965480960)
 
-RT Maria Repnikova<br>Excellent thread and an incredible investigation<br><br>Runako Celina: In 2020, a Weibo account called ‘Jokes about Black people club’ posted a video.<br><br>In it, a group of African children huddled round a blackboard are made to say in Chinese: <br><br>‘I'm a Black monster, my IQ is low’<br><br><img style="" src="https://pbs.twimg.com/media/FVJ2UtVWUAEbaSM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVJ2W21WUAArL5Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Maria Repnikova<br>Excellent thread and an incredible investigation
 
 ### 7: [2022-06-14 13:12:39+08:00 推文](https://twitter.com/cnmediaproject/status/1536577335771955200)
 
