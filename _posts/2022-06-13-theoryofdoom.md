@@ -47,3 +47,11 @@ I would change how math is taught in American public schools from the current st
 
 This.  Not only go to the gym, but develop a routine that you can stick with.  Find some friends who also go to the gym, so you have people to hold you accountable and keep things in perspective.
 
+### 301: [Natural Gas Could Start to Melt United Front Against Russia](https://old.reddit.com/r/geopolitics/comments/vct1s9/natural_gas_could_start_to_melt_united_front/), submitted on 2022-06-15 20:10:29+08:00.
+
+----- __301.1__ -----2022-06-15 20:10:37+08:00:
+
+Submission Statement: 
+
+This WSJ article considers the geopolitical significance of natural gas supply and futures pricing volatility to the probability of continuing coordination in opposition to Vladimir Putin's invasion of Ukraine.  Russia is the largest natural gas supplier to Europe, by far.  In Europe, natural gas futures are high and continue to increase.  Supply is depleted (including due to Putin's invasion of Ukraine), demand remains high and futures prices have soared as a result. In the United States, the opposite is happening in natural gas futures markets.  Stateside benchmarks saw an apx. fifteen percent drop in LNG futures prices at the same time Europe's rose by around the same amount. The article proposes that while the United States and Europe have coordinated their strategic alliance on energy markets so far, whether that continues is unclear, particularly where American exports are uncertain to offset supply shortages.
+
