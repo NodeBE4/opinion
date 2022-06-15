@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。 <a href="https://twitter.com/RFI_Cn/status/1536034120605630465" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1536034120605630465</a>
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -107,31 +107,95 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 左派终有一天�
 
 Re @bxieus 这你需要另外开题讨论，告诉作者与众多美国精英，中国没有崛起，是权贵崛起——但我猜想，他们会告诉你，世界上连美国都不是每个人“崛起”。<br>本推希望讨论的是另一个问题：西方精英因中国崛起参照，对本国政治文明丧失信心，竟然认为威权优越。
 
-### 24: [2022-06-14 22:09:31+08:00 推文](https://twitter.com/HeQinglian/status/1536712442566385664)
+### 24: [2022-06-14 21:13:20+08:00 推文](https://twitter.com/QQzk_prs/status/1536698302183489537)
+
+RT KimPR<br>大約 40,000 名兒童在剛果的鈷礦工作，以便綠色精蠅思想家可以駕駛環保的電動汽車……🤡🤬<br><video src="https://video.twimg.com/ext_tw_video/1536462247802847238/pu/vid/640x640/BaT4-EeOiADwJ0ti.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1536462247802847238/pu/img/1cD0qGufEnwPTRH4.jpg"></video>
+
+### 25: [2022-06-14 22:09:31+08:00 推文](https://twitter.com/HeQinglian/status/1536712442566385664)
 
 Re @bxieus 你没错，我对西方精英的看法从对拥抱熊猫派开始（18年前），认为误判的时候居多。福山就是个典型。<br>中共如何，中国如何，我翻过这座山了。我现在更关心我所处的美国会如何。中国如何坏，世界不会全黑；美国衰败了，全世界都会黑暗。
 
-### 25: [2022-06-14 22:10:36+08:00 推文](https://twitter.com/HeQinglian/status/1536712712629243907)
+### 26: [2022-06-14 22:10:36+08:00 推文](https://twitter.com/HeQinglian/status/1536712712629243907)
 
 Re @fuliangying1991 病入膏肓。
 
-### 26: [2022-06-14 22:15:09+08:00 推文](https://twitter.com/HeQinglian/status/1536713860064985088)
+### 27: [2022-06-14 22:15:09+08:00 推文](https://twitter.com/HeQinglian/status/1536713860064985088)
 
 Re @christine_guo 以前看过。现在不忍看，看了后会发现，犹太人控制世界是有道理的。失国之痛与生存之难让他们具有的智慧，足以操控人类。<br>在美国，谈犹太人的问题是个隐含的禁忌。
 
-### 27: [2022-06-14 22:27:10+08:00 推文](https://twitter.com/HeQinglian/status/1536716883281514498)
+### 28: [2022-06-14 22:27:10+08:00 推文](https://twitter.com/HeQinglian/status/1536716883281514498)
 
 Re @bxieus 我今年看了两本书，一本是马克·列文的《美国的马克思主义》，另一本是哥德堡的《西方的自杀》，因为都是受托写中译本序，看得特别认真。建议你也看看。<br>美国的民主悬在一张选票上，这在2020年有所体现。但DS的形成是威尔逊以来的行政国家演成的，行政体系官员不受选民约束。
 
-### 28: [2022-06-14 23:01:08+08:00 推文](https://twitter.com/HeQinglian/status/1536725429733797889)
+### 29: [2022-06-14 23:01:08+08:00 推文](https://twitter.com/HeQinglian/status/1536725429733797889)
 
 Re @bxieus 如果我没记错，你对美国的危机是有所了解的，我还推荐过一篇你的文章，谈如今美国宪政陷入危机 。
 
-### 29: [2022-06-14 23:42:39+08:00 推文](https://twitter.com/HeQinglian/status/1536735880035147776)
+### 30: [2022-06-14 23:42:39+08:00 推文](https://twitter.com/HeQinglian/status/1536735880035147776)
 
 Re @bxieus 美国最开始的崩解应该是从美元霸权崩溃开始，拜登政府一年多举债超10万亿美元，相当于2021年全球GDP总量的八分之一，债务危机已不可控。
 
-### 30: [2022-06-15 04:55:38+08:00 推文](https://twitter.com/HeQinglian/status/1536814643271827458)
+### 31: [2022-06-15 04:55:38+08:00 推文](https://twitter.com/HeQinglian/status/1536814643271827458)
 
 Re @bxieus 人民越来越懒，是影响，是造成福利毒药-债台高筑的重要原因。但危机爆发点不是这。
+
+### 32: [2022-06-15 21:20:29+08:00 推文](https://twitter.com/HeQinglian/status/1537062489338388481)
+
+Re @Wu_Zhi 用塑料瓶吧，虽然看起来没品味，但是减少对外依赖，尤其是减少对俄依赖。<br>我们经常说西方人是富贵兼闲出来的病，终于发现，原来他们当中也有人认识到这问题，比如“有史以来人类要烦恼的事情，突然从怎么求温饱，变成有了钱之后人生该怎么过”（哥德堡）——左派所有的“进步”（纵欲），全是这样来的。
+
+### 33: [2022-06-15 21:21:48+08:00 推文](https://twitter.com/HeQinglian/status/1537062823330820097)
+
+Re @Wu_Zhi @JianglinLi 德国部分人：亦予心之所善兮，虽九死其犹未悔——我愿意，关你们甚事？🤣
+
+### 34: [2022-06-15 21:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1537063077958524929)
+
+Re @JianglinLi @niulehou 放到脑门上更好。
+
+### 35: [2022-06-15 21:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1537063822401458177)
+
+Re @Wu_Zhi 还是有个大优点，你没看到，西方左派看到了，那就是对“进步主义”主张照单全收，比蔡英文强多了，蔡总统毕竟是半开门。
+
+### 36: [2022-06-15 21:26:37+08:00 推文](https://twitter.com/HeQinglian/status/1537064033936887810)
+
+Re @Wu_Zhi 就是如此。
+
+### 37: [2022-06-15 21:35:43+08:00 推文](https://twitter.com/HeQinglian/status/1537066325020921863)
+
+Re @david_david1968 我得找找美国版。如今一事两表成了中美外交的惯例，两造都将自己说成了胜利者。
+
+### 38: [2022-06-15 21:38:58+08:00 推文](https://twitter.com/HeQinglian/status/1537067142822100993)
+
+Re @realTaoRay 还是“邮寄选票+多米尼模式”最可靠，让最高法裁定，可以在投票日之后半个月内清点完，便于灌票。<br>如果今年还靠这模式胜选，美国人再诉说自己的不幸，遭受通胀劫掠（只有28%的极左认为合理），先想想自己做了什么不该做的。
+
+### 39: [2022-06-15 21:46:36+08:00 推文](https://twitter.com/HeQinglian/status/1537069064337629184)
+
+Re @JiangShangrong 习近平看到了西方各国政府与媒体“没看见”的事实：美国拉的40国（报导说，我数过，怎么也不够这数，大概是四舍五入），不少财政见底，武器库存耗光，亟需休整，还是继续为No.1英雄买单。拜登希望借正义战争拉抬人气反而让自家掉到谷底。<br>此时不做，更待何时？
+
+### 40: [2022-06-15 22:07:53+08:00 推文](https://twitter.com/HeQinglian/status/1537074416756072448)
+
+Re @Dkhk2022 @JiangShangrong @LiuZhongjing 我这里极不欢迎姨粉，与郭粉同类，地位还低于拜粉。前两类是骗子，后一类是傻瓜与脑残、坏组成。<br>他自视为我的天敌，他配么？我从来不看他的文字。<br>因此，我会拉黑你。
+
+### 41: [2022-06-15 22:12:35+08:00 推文](https://twitter.com/HeQinglian/status/1537075600283914242)
+
+Re @JianglinLi @RealBeiMing @ngexp 有几个州的共和党初选已经决出来了，民主党各州初选结果还没看到。
+
+### 42: [2022-06-15 22:18:39+08:00 推文](https://twitter.com/HeQinglian/status/1537077128382103554)
+
+Re @RealBeiMing @YouTube 以后最好不要再有人谈中国人素质不行，不能实行民主——对比美国选民状态，中国人总体素质没差到哪里去。至少，不会选个主张八岁孩子可以自主变性、让全国人民吸大麻吸毒、家里五毒俱全的人当总统。
+
+### 43: [2022-06-15 23:35:17+08:00 推文](https://twitter.com/HeQinglian/status/1537096414903291905)
+
+Re @raincolor8 @JiangShangrong 你认为呢？你还看不看媒体？或者，你会不会看媒体？
+
+### 44: [2022-06-15 23:36:13+08:00 推文](https://twitter.com/HeQinglian/status/1537096647653658624)
+
+Re @wDYMdxKfYqByh1E @JiangShangrong “没想到东升西降主要是靠西方的自我阉割摆烂来实现的”——可悲的是，这是事实，我们肉眼可见的事实。
+
+### 45: [2022-06-15 23:39:34+08:00 推文](https://twitter.com/HeQinglian/status/1537097490507436034)
+
+Re @huxkak1 中国如果让民情真正释放，一定是如下图景：上海、北京等城市LGBTQI+第四代女权闹得欢；三线城市及农村是野 蛮社会的民情沸腾；二线城市处于中间状态，百花齐放。<br>如果办自由媒体，肯定95%是今天的自媒体风格：政治八卦+娱乐圈八卦，再加文人互相骂阵、贬低。
+
+### 46: [2022-06-15 23:46:24+08:00 推文](https://twitter.com/HeQinglian/status/1537099209513611265)
+
+Re @JianglinLi @niulehou 主要是黄左没土壤。且不说朝阳大妈们，就是他们的父母亲看到他们这样大规模裸体夸张闹腾，要死要活地变性，也会引以为耻。男人以心理性别认同勇闯女洗手间会被当作流氓群殴，女的会被当作花痴。当局如果说他们这是诲淫诲盗，还可以用美国民主抵挡一阵；但轮到父母及邻居视之为祸害，就革命难成了。
 

@@ -63,3 +63,17 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 535: [[Tabletop Wargaming] 4Ground fades into the BackGround: The rise and fall of a terrain manufacturer, featuring a Kickstarter disaster, legal shenanigans, and souvenir wooden swords.](https://old.reddit.com/r/HobbyDrama/comments/vcu34h/tabletop_wargaming_4ground_fades_into_the/), submitted on 2022-06-15 21:05:27+08:00.
+
+----- __535.1__ -----2022-06-15 22:54:54+08:00:
+
+Is there a specific context in which that appeared? As in they openly stated they wouldn't bring up 4Ground again?
+
+----- __535.2__ -----2022-06-15 22:55:18+08:00:
+
+No problem! For my part I've only ever backed one Kickstarter campaign (also for a tabletop wargame project), but while that overran it did deliver.
+
+----- __535.3__ -----2022-06-15 23:40:24+08:00:
+
+Not all, but a good few (smile)
+
