@@ -405,3 +405,7 @@ Reminds me of RWBY a bit honestly – there are people who genuinely like it but
 
 I just had a look at the Tactics Ogre series and I'm slightly saddened that they didn't stick to just using Queen song titles for the game titles.
 
+----- __528.3__ -----2022-06-16 03:21:40+08:00:
+
+By happy coincidence, last night Izzzyzzz released [a video on the Yogventures Kickstarter](https://www.youtube.com/watch?v=2p93B8z9Z_E), just as I was writing about a failed kickstarter for a full writeup here.
+
