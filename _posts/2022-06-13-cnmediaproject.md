@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-14
+date: 2022-06-15
 from: https://twitter.com/cnmediaproject/status/1536199124982583297
 layout: post
 tags:
@@ -37,7 +37,7 @@ RT Runako Celina<br>Re I was living in Beijing at the time this video was circ
 
 ### 6: [2022-06-14 05:16:26+08:00 推文](https://twitter.com/MariaRepnikova/status/1536457491965480960)
 
-RT Maria Repnikova<br>Excellent thread and an incredible investigation
+RT Maria Repnikova<br>Excellent thread and an incredible investigation<br><br>Runako Celina: In 2020, a Weibo account called ‘Jokes about Black people club’ posted a video.<br><br>In it, a group of African children huddled round a blackboard are made to say in Chinese: <br><br>‘I'm a Black monster, my IQ is low’<br><br><img style="" src="https://pbs.twimg.com/media/FVJ2UtVWUAEbaSM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVJ2W21WUAArL5Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-06-14 13:12:39+08:00 推文](https://twitter.com/cnmediaproject/status/1536577335771955200)
 
@@ -82,4 +82,8 @@ Re @eramash Thank you.
 ### 17: [2022-06-14 23:20:24+08:00 推文](https://twitter.com/cnmediaproject/status/1536730281662500864)
 
 Re @ktse852 @enkocz And there are plenty more strange and stranger things about this story!
+
+### 18: [2022-06-15 09:35:13+08:00 推文](https://twitter.com/cnmediaproject/status/1536885005213138944)
+
+The People's Daily is capitalizing today on criticism of Biden at the Summit of the Americas. This page-15 piece runs through media reports and comments from Cuban and Nicaraguan voices. Background on summit here: <a href="https://www.aljazeera.com/news/2022/6/9/summit-of-the-americas-a-squandered-opportunity-at-critical-time" target="_blank" rel="noopener noreferrer">https://www.aljazeera.com/news/2022/6/9/summit-of-the-americas-a-squandered-opportunity-at-critical-time</a><br><img style="" src="https://pbs.twimg.com/media/FVQcspwaMAAF7GI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
