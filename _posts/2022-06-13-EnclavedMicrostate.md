@@ -85,3 +85,11 @@ Glad you enjoyed (smile)
 
 Ahh, well. Glad you enjoyed!
 
+----- __535.6__ -----2022-06-16 02:16:54+08:00:
+
+Ah, is that last one AK?
+
+----- __535.7__ -----2022-06-16 02:17:26+08:00:
+
+It's complicated and one has to try to trust that your co-players aren't awful. Which, er... can be over-optimistic as I myself know.
+
