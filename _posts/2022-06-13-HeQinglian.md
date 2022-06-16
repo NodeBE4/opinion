@@ -29,11 +29,11 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
-这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。<br><br>猪骨粒: 1、美国正在变烂，目前还是比中国好<br><br>2、但美国变烂的影响是世界级的，中国只能影响一部分<br><br>3、俄罗斯本来对世界影响不大，把他惹毛了发现他影响很大<br><br>4、乌克兰只有挨揍的时候才有影响力<br><br>5、欧盟比较悲催，活儿一点没少干，收入却下降最多，影响力还特么没增加。<br>
+这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。
 
 ### 6: [2022-06-13 05:21:41+08:00 推文](https://twitter.com/HeQinglian/status/1536096425775443968)
 
@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -258,4 +258,28 @@ Re @JianglinLi @RealBeiMing @ngexp 左派最好自己先实行，也可以投票
 ### 61: [2022-06-16 20:56:18+08:00 推文](https://twitter.com/HeQinglian/status/1537418793768652800)
 
 Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏事都怪黑乌鸦，好事全归花大姐（喜鹊）；<br>2、又要马儿跑，又要马儿不吃草（既要压制并逐步挤压能源公司的生存空间，又要其增加生产帮助政府解困）。
+
+### 62: [2022-06-16 22:12:14+08:00 推文](https://twitter.com/HeQinglian/status/1537437901763379203)
+
+头一遭：英国制裁东正教教皇基里尔 <br>英国今天扩大对俄罗斯各领域涉嫌承担侵略乌克兰战争责任者制裁，并且第一次将俄罗斯东正教大主教基里尔纳入制裁名单。基里尔立场明确而坚定俄罗斯总统普京发动侵略乌克兰战争。欧盟至此拒绝将基里尔纳入制裁名单。 <a href="https://rfi.my/8VSc.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8VSc.T</a>
+
+### 63: [2022-06-16 22:21:33+08:00 推文](https://twitter.com/RealBeiMing/status/1537440244986892288)
+
+RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
+
+克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。
+
+### 65: [2022-06-16 22:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1537443744412098561)
+
+1972年2月，约200名来自85个同性恋组织领袖在芝加哥开会并颁布《同性恋权益政纲》，内有17项在州和联邦政府中要争取的事项，最重要的四项是：<br>同性婚姻合法化<br>男娼、女娼合法化<br>废除合法性交年龄限制<br>婚姻应不限人数、不限性别，集体婚姻可享法律福利（波士顿萨默尔已实现） <a href="https://ccgaction.org/downloads/1972GayRightsPlatform.pdf" target="_blank" rel="noopener noreferrer">https://ccgaction.org/downloads/1972GayRightsPlatform.pdf</a>
+
+### 66: [2022-06-16 22:47:48+08:00 推文](https://twitter.com/HeQinglian/status/1537446853649633281)
+
+Re @JiangShangrong 他们还没征求一大票华乌鸡血的同意，怎能擅自表态？😂<br>不少人在我的推文后面留言说，他们愿意为制裁俄罗斯付出一切，通胀、经济崩溃、钱包缩水、不用煤气——问过其中一位住在哪里，好象住在中国国内，也有日本与德国的华人。
+
+### 67: [2022-06-16 22:52:19+08:00 推文](https://twitter.com/HeQinglian/status/1537447990184464384)
+
+Re 上述四项，第一项2015年在全美实现；<br>第二、三项，在大多数民主党州已经实现。<br>第四项，已经由波士顿萨默尔县立法，多重伴侣哝和合法化。“多重伴侣家庭”就是包含“一夫多妻”、“一妻多夫”和交叉性关系的“群婚”制。 <a href="https://www.usatoday.com/story/news/nation/2020/07/02/polyamory-massachusetts-city-somerville-relationships-us/5370718002/" target="_blank" rel="noopener noreferrer">https://www.usatoday.com/story/news/nation/2020/07/02/polyamory-massachusetts-city-somerville-relationships-us/5370718002/</a>
 
