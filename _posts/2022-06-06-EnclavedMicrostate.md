@@ -409,3 +409,7 @@ I just had a look at the Tactics Ogre series and I'm slightly saddened that they
 
 By happy coincidence, last night Izzzyzzz released [a video on the Yogventures Kickstarter](https://www.youtube.com/watch?v=2p93B8z9Z_E), just as I was writing about a failed kickstarter for a full writeup here.
 
+----- __528.4__ -----2022-06-16 13:44:33+08:00:
+
+Active VTuber I'd hope and not yet another VTweeter?
+
