@@ -111,7 +111,7 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 ----- __537.1__ -----2022-06-17 02:19:11+08:00:
 
-(Some quick notes on terminology: Firstly, Zungar, Zunghar, Dzungar, Dzungar and Junghar are all acceptable variant spellings; I have opted for Zunghar out of familiarity. Secondly, the term 'bondservant' refers to a particular category of enslaved person known in Manchu as *booi*.)
+(Some quick notes on terminology: Firstly, Zungar, Zunghar, Dzungar, Dzungar and Junghar are all acceptable variant spellings; I have opted for Zunghar out of familiarity. Secondly, the term 'bondservant', which crops up in a quote later, refers to a particular category of enslaved person known in Manchu as *booi*.)
 
 The post you've come across is problematic for a number of reasons, and while I do have specific criticisms I want to first lay out a general statement about the Zunghar Genocide to begin with so as not to broadcast those problematic elements before frontending what I would consider to be the most historiographically correct narative.
 
@@ -119,7 +119,7 @@ I've written about the Zunghar Genocide before in [this answer](https://www.redd
 
 Even if we accept the not-unlikely scenario that Wei Yuan's figures were very rough estimates, we still have to acknowledge the sheer scale of the mortality suffered by the Zunghars in 1757-8. Per Perdue's summary of Wei Yuan, the Zunghar population was numbered by the Qing at around 600,000, of whom 30% were killed directly by the Qing army and 40% died of smallpox (against which Qing troops were mostly inoculated). Of the survivors, two-thirds fled to the Kazakh hordes or became Russian clients, while the remainder were enslaved by the Qing. Even if a 70% death rate were considered exaggerated, whatever actual, somewhat smaller figure it might be would still be horrifically vast.
 
-The thing to bear in mind is that **genocide is defined by intent, not by effect**. There is no point on the number line dividing genocide from systematic mass killing, because the distinguishing feature of genocide is the targeted killing of members of one or more groups of people who are defined as having a certain identity, on the basis of said identity. This is why there is the related category of *cultural* genocide, in which a state or polity attempts to erase a particular identity without aiming to actually kill those who are deemed to fall under that identity.
+The thing to bear in mind is that **genocide is defined by intent, not by extent**. There is no point on the number line dividing genocide from systematic mass killing, because the distinguishing feature of genocide is not quantitative but qualitative: it is the targeted killing of members of one or more groups of people who are defined as having a certain identity, on the basis of said identity. This is why there is the related category of *cultural* genocide, in which a state or polity attempts to erase a particular identity without aiming to actually kill those who are deemed to fall under that identity. It doesn't matter how much killing you do, it matters how much you *try* to.
 
 And with that in mind, the Zunghar Genocide absolutely, unequivocally counts as an undertaking with genocidal intent. If we quote Perdue verbatim here:
 
@@ -132,4 +132,60 @@ And with that in mind, the Zunghar Genocide absolutely, unequivocally counts as 
 The intent and execution of the acts here are clear: the Qianlong Emperor was ordering the complete and total extermination of the Zunghars as a people. That is *not* to say that he was seeking the death of every individual Zunghar. Rather, the aim was to destroy Zunghar family and tribal units in order to erase the *idea* of the Zunghars existing as a coherent group of people. Yes, many Zunghar individuals survived. Indeed, a handful who defected to the Qing before the genocide, such as Ayusi, actually attained high status within the Qing state, but they did so through swearing new loyalties and participating in the slaughter of their former fellow-tribespeople. And there were those enslaved and those who fled among the Russians and Kazakhs. But most of those who did so took on new tribal identities. Aside from a few pockets of self-identifying Olots (one of the Zunghar sub-tribes), the Zunghars as a people were utterly wiped out.
 
 I will address specific issues with the post in a reply to this answer later.
+
+----- __537.2__ -----2022-06-17 03:51:51+08:00:
+
+The post makes a number of claims which are questionable at best. Addressing them in order:
+
+> [Referring to the historians who recorded the events of the genocide] Their purpose was to praise the military exploits of Manchu emperor and Kiss the ass of Manchu emperor.
+
+That there was some degree of triumphalism involved in the narratives of the campaigns against the Zunghars written by Han Chinese historians does not imply that those narratives are inherently unreliable on the details of the genocide. Even assuming that these are narratives that are fundamentally attempting to flatter the Qing rulers (I'll get to it in a minute), so what? It isn't a motive to actively lie about the extent of the destruction inflicted. I'd also note that the consistent use of 'Manchu' in the post may suggest in some regard that the poster belongs to a particular school of thought denouncing Manchu rule as illegitimate by virtue of its barbarism and to specifically other the Qing's rulers, and while yes, the Qing absolutely maintained forms of Manchu-Han segregation, presenting this as sycophantic flattery by Han Chinese historians is a badly under-nuanced framing.
+
+Much of the remainder of the post attempts to give practical reasons for why the massacres either happened on a smaller scale than alleged, or did not constitute a genocide. As noted, this is wrong on a fundamental theoretical level because, to repeat, **genocide is about intent and not about extent**, but there are also simple factual and interpretive issues as well.
+
+> 1\. Even if Manchu emperor had this idea, it could not be done with ancient technology.
+
+> Emperor Kangxi's crusade against Dzungar tribe was to occupy Xinjiang, and not for the purpose of killing people to vent their anger.
+
+As you will have noted from my answer above, it was the Qianlong Emperor (r. 1735-1796/9) who ordered the genocide against the Zunghars, not his grandfather the Kangxi Emperor (r. 1661-1722). Moreover, in neither case was the occupation of Xinjiang a desired end goal. The Kangxi Emperor simply wished to eliminate Galdan, who was an active threat on the Qing's western border in Mongolia; the Qianlong Emperor, as we have seen, was deliberately seeking to exterminate the Zunghars as an end in itself. Indeed, the conquest of Xinjiang (if by that we mean the Tarim Basin in the southern half of what is now called Xinjiang) was an afterthought to the campaign against the Zunghar chief Amursana, undertaken to prevent the formation of an independent coalition of the region's city-states under the leadership of local rulers who had, like Amursana, reneged on their alliance with the Qing.
+
+> If all were killed, who would supply the army with food, so subjectively there would be no genocide.
+
+The Qing had made extensive logistical preparations for their campaigns in Zungharia: the economy of Gansu was artificially stimulated to lower food prices; depots were established to store the large amounts of foodstuffs needed for offensives into the steppe, most importantly at the Qing-allied city of Hami at the edge of the Tarim Basin; provision was made for all the necessary pack animals (horses, donkeys, and camels) to carry those foodstuffs; and arrangements were made with *other* tribes, such as the Kazakhs, to provide additional livestock to the army on the march. The Qing were, frankly, very prepared for a war in which their enemies would not be trying to feed them.
+
+> Dzungar is a nomadic nation, which can run away on horseback at any time, which is difficult to catch. Manchu Emperor can't do it if he wants to commit genocide!
+
+The problem of course is that if you pursue a nomadic army with a largely mounted army of your own, you can probably maintain a pursuit, especially against groups of enemy combatants protecting slower-moving civilians. The user seems to be alleging that the Qing were pursuing with infantry, but they had plenty of cavalry including of course allies from other Mongolian tribes, as noted above. The notion that the Qing were physically incapable of pursuing the Zunghars is absurd. And to stress again, what matters is not whether they succeeded, what matters is the fact they *tried*.
+
+> Otherwise, why did the counterinsurgency war last for 70 years? It has been from the period of Emperor Kangxi to the period of Emperor Qianlong.
+
+The phrasing 'the counterinsurgency war' deserves several substantial quibbles. I actually don't have the biggest quibble *per se* on the the 'counterinsurgency' front, though I personally believe the user is misusing it: I do think you can argue that modern counterinsurgency doctrines have remarkable and non-coincidental similarities to how historical sedentary states approached warfare against steppe nomads. But calling the Qing-Zunghar conflicts a singular war is just not correct. While there were not always formal declarations of war and peace, fighting was generally sporadic, with major periods of intensity in 1687-97, 1718-1732, and 1752-58, but marked by substantial lulls in between, consisting of lengthy peaces punctuated by low-intensity raiding. Each of the major periods of conflict culminated in a substantial increase in Qing territory in one fell swoop, rather than a slow, incremental process of individual tribes either voluntarily or forcibly falling under Qing dominion in a continuous, decades-long process.
+
+> If Chinese ancient dynasties were able to genocide nomads, Europe wouldn't be conquered by "God's whip" Attila and Genghis Khan.
+
+The conflation of all pre-20th century Chinese states as essentially equivalent 'ancient dynasties' is singularly unhelpful. Compared to the Ming, the Qing established a considerably greater degree of interventionist power within its borders allowing it to efficiently acquire and harness its resource base – a resource base that had expanded massively thanks to the Columbian Exchange and consequent growth in population enabled by new energy-efficient crops. Moreover, the Qing were much more effective at mobilising non-Sinitic modes of political legitimacy to secure and maintain support from various Inner Asian polities, and were not so blinded by xenophobia as to be unwilling to make compromises. The Qing conquest of Inner Asia was the product of a state which had immense capacity for action combined with a unique – or at least distinctive – political makeup that made them extremely effective at making use of their harnessed capacity.
+
+> 2\. The Qing army and the Dzungar Mongol Army did not have a generational difference in weapons.
+
+I had a very difficult time following the course of this part of the argument, but this is also untrue. The Qing were able to employ considerably more and better gunpowder weapons, both artillery and small arms, than the Zunghars. The Zunghars did have firearms, both of local and foreign manufacture (the latter mainly either bought or stolen from the Russians), but not at a comparable scale, and they were particularly lacking in artillery which the Qing on the other hand used in prodigious amounts.
+
+> 3\. The Qing army wiped out mainly the tribes and thieves who had rebelled after the fake surrender.
+
+That the Qing emphasised going after those who had overtly declared themselves against the Qing does not absolve them of pursuing a general policy of genocide against the Zunghars writ large. Again, what matters is intent and not extent. I would also note that the 'mainly' there is doing a lot of work, and the *wrong* work at that, because how is this supposed to absolve the Qing of wiping out tribes that *didn't* rebel!?
+
+> Otherwise, how could the descendants of the Dzungar tribe like Yi Linzhen still be alive?
+
+To put it glibly, this is like asking how there are still Jews today if the Holocaust was a genocide.
+
+In short, the linked post is essentially a roundabout form of genocide apologia with an argument as follows:
+
+* The Qing weren't trying to kill off all the Zunghars, but
+
+* Even if they were, they couldn't actually kill any Zunghars, but
+
+* Even if they did, they were killed for understandable reasons.
+
+Only the first part of which is *technically* true, but relies on defining genocide as something that, in academic terms, it isn't. 
+
+So yes, the Zunghar Genocide was a genocide, no it has not been exaggerated, and don't get your history off Quora. [Especially now that it's not even plagiarised from AskHistorians anymore.](https://twitter.com/EMicrostate/status/1491057267063484426)
 
