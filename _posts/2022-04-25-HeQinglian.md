@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。<br><br>kingbull199: @HeQinglian @KELMAND1 其实只要议会通过，还可以再次派生其他工具，理论上他的货币发行量可以是无限的！隔夜逆回购其实去年就调整过额度，从每个counterpart的80亿上调到160亿，现在平均日逆回购量就有1.5万亿左右，未来还可以继续上调单个机构的额度！<br>
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。 <a href="https://twitter.com/kingbull199/status/1519672901183500288" target="_blank" rel="noopener noreferrer">https://twitter.com/kingbull199/status/1519672901183500288</a>
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
@@ -489,7 +489,7 @@ Re @xchen156 我这些天研究了一下关于中国为何要做完全不可能�
 
 ### 119: [2022-05-01 06:54:22+08:00 推文](https://twitter.com/HeQinglian/status/1520537070875328512)
 
-欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
+RT He Qinglian<br>欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
 
 ### 120: [2022-05-01 08:32:16+08:00 推文](https://twitter.com/HeQinglian/status/1520561706983993345)
 
