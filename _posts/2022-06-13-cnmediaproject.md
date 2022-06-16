@@ -143,3 +143,7 @@ Re The CCP's success in the civil war, Matthews was quoted as saying, was a "gre
 
 Re @jcmittelstaedt Precisely. 英明领袖 has not once been used since. 卓越领袖 appears just twice in the reform era. First, in 2018, in a tribute to Lin Weimin (林伟民), the early 20th century workers leader. Next, in 2019 as Carter received an "outstanding leadership" award for US-China relations.<br><img style="" src="https://pbs.twimg.com/media/FVXH2ZCaAAADNWu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 33: [2022-06-16 16:56:45+08:00 推文](https://twitter.com/cnmediaproject/status/1537358505807847425)
+
+Re @jcmittelstaedt Always so convenient, that party-state media culture of paraphrasing . . . 表示 basically means [what X really meant to say is] and can be followed with whatever sentiment is required.
+
