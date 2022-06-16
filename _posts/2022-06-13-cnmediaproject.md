@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-15
+date: 2022-06-16
 from: https://twitter.com/cnmediaproject/status/1536199124982583297
 layout: post
 tags:
@@ -98,4 +98,16 @@ RT Bill Bishop<br>凤凰网财经｜一位54岁的失地农民：失去了肾�
 ### 21: [2022-06-15 23:10:24+08:00 推文](https://twitter.com/lingli_vienna/status/1537090150341267456)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great🧵on misconceptions of PRC social credit system (SSC) by Jeremy Daum, who's been tracking its developments from the get-go. <br><br>Worth-noting: <br><br>While SSC has little to do with individuals, Health-Code 健康码, thou, can be easily turned into a surveilling tool over individuals.<br><br>China Law Translate: This is directly on point to our discussion, so I want to respond. 🧵<br>The mythos of social credit is so pervasive, that when we explain the real system, a common reaction is: “they are social credit deniers" rather than "I have been using the term social credit incorrectly"<br> <a href="https://twitter.com/JimMillward/status/1536607418544803840" target="_blank" rel="noopener noreferrer">https://twitter.com/JimMillward/status/1536607418544803840</a>
+
+### 22: [2022-06-16 04:57:12+08:00 推文](https://twitter.com/CarlMinzner/status/1537177427775848450)
+
+RT Carl Minzner<br>CNN: Unemployment rate for Chinese youth aged 16-24 rose further to 18.4% in May, a new record high, after hitting 18.2% in April. <a href="https://www.cnn.com/2022/06/15/economy/china-economy-consumer-spending-contraction-intl-hnk/index.html" target="_blank" rel="noopener noreferrer">https://www.cnn.com/2022/06/15/economy/china-economy-consumer-spending-contraction-intl-hnk/index.html</a>
+
+### 23: [2022-06-16 09:19:38+08:00 推文](https://twitter.com/cnmediaproject/status/1537243470758551552)
+
+White Smoke, Black Smoke: As the 20th Congress of the CCP approaches, the race is on to secure Xi Jinping's power with near religious devotion. In recent days there have been faint twists of development in the pages of official Party media. <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FVVir6HaQAIQQIn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-06-16 10:25:23+08:00 推文](https://twitter.com/cnmediaproject/status/1537260018541940736)
+
+White Smoke, Black Smoke. CMP's David Bandurski writes: "China’s politics are as sealed as a conclave. And no one reading the party-state media closely these days can fail to note the devotional quality of much of the language." <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FVVx0zAaIAA41AG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
