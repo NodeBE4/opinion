@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-15
+date: 2022-06-16
 from: https://old.reddit.com/r/math/comments/vbhtzn/what_is_your_favorite_thing_about_math/
 layout: post
 tags:
@@ -54,4 +54,10 @@ This.  Not only go to the gym, but develop a routine that you can stick with.  F
 Submission Statement: 
 
 This WSJ article considers the geopolitical significance of natural gas supply and futures pricing volatility to the probability of continuing coordination in opposition to Vladimir Putin's invasion of Ukraine.  Russia is the largest natural gas supplier to Europe, by far.  In Europe, natural gas futures are high and continue to increase.  Supply is depleted (including due to Putin's invasion of Ukraine), demand remains high and futures prices have soared as a result. In the United States, the opposite is happening in natural gas futures markets.  Stateside benchmarks saw an apx. fifteen percent drop in LNG futures prices at the same time Europe's rose by around the same amount. The article proposes that while the United States and Europe have coordinated their strategic alliance on energy markets so far, whether that continues is unclear, particularly where American exports are uncertain to offset supply shortages.
+
+### 302: [What famous person died too soon?](https://old.reddit.com/r/AskReddit/comments/vd87x5/what_famous_person_died_too_soon/), submitted on 2022-06-16 07:49:47+08:00.
+
+----- __302.1__ -----2022-06-16 20:25:54+08:00:
+
+Ian Curtis.
 
