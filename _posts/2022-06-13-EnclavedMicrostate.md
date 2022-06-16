@@ -21,6 +21,10 @@ A sort of issue would be that there are different Chineses (to use the phrase cl
 
 I'd imagine a loosening up of language use by certain members is more likely than the reintroduction of an international Chinese-language branch. There's a couple of HoloEN members with varying levels of proficiency in certain Sinitic languages for instance: I don't believe she has demonstrated it on stream *as* her Hololive VTuber persona, but >!Kiara does or did at one stage have some degree of Mandarin proficiency!<; the specific incident giving it away was scrubbed but >!Bae speaks Cantonese with Mama Rat!<.
 
+----- __529.2__ -----2022-06-17 01:10:39+08:00:
+
+TBH there's plenty of options though; you can have knives with an unpolished finish, or ostentatiously pattern-welded ones, or one with a black coating...
+
 ### 530: [These salt-soaked caverns are teeming with pelagic nightmares - they must be flushed out!](https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/), submitted on 2022-06-14 09:04:08+08:00.
 
 ----- __530.1__ -----2022-06-14 11:50:52+08:00:
