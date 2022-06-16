@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -246,4 +246,16 @@ Re @x12_xnan 有位老外十余年前写北京三里河风光，写得很直白�
 ### 58: [2022-06-16 11:11:45+08:00 推文](https://twitter.com/HeQinglian/status/1537271684532690945)
 
 Re @franktianxie @Wu_Zhi 好办，回到中国毛时代前，自带瓶子去商店沽酒。讲点古风，就用瓠瓜做个葫芦。挺环保。
+
+### 59: [2022-06-16 20:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1537415814529310724)
+
+CNN主播揭露拜登给石油公司的威胁信存在巨大问题：拜登政府从第一天起就明确表示，他们希望美国摆脱对石油和天然气的依赖，甚至庆祝天然气价格危机加速了这一转变。但是你怎么能同时妖魔化石油公司并要求更多的石油生产呢？<br>拜登说，油价走高普京与石油公司是第一与第二罪魁。 <a href="https://www.theblaze.com/news/berman-problem-biden-plan-oil-companies" target="_blank" rel="noopener noreferrer">https://www.theblaze.com/news/berman-problem-biden-plan-oil-companies</a>
+
+### 60: [2022-06-16 20:48:11+08:00 推文](https://twitter.com/HeQinglian/status/1537416750152704000)
+
+Re @JianglinLi @RealBeiMing @ngexp 左派最好自己先实行，也可以投票选民主党的选民当中实行（附带让他们LGBTQI与吸大麻），别逼全美国人民跟着就行。
+
+### 61: [2022-06-16 20:56:18+08:00 推文](https://twitter.com/HeQinglian/status/1537418793768652800)
+
+Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏事都怪黑乌鸦，好事全归花大姐（喜鹊）；<br>2、又要马儿跑，又要马儿不吃草（既要压制并逐步挤压能源公司的生存空间，又要其增加生产帮助政府解困）。
 
