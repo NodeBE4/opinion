@@ -61,11 +61,11 @@ Re CCHRC content is strikingly in line with the CCP line, though Zwart insists h
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
-Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style="" src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
