@@ -37,7 +37,7 @@ RT Runako Celina<br>Re I was living in Beijing at the time this video was circ
 
 ### 6: [2022-06-14 05:16:26+08:00 推文](https://twitter.com/MariaRepnikova/status/1536457491965480960)
 
-RT Maria Repnikova<br>Excellent thread and an incredible investigation
+RT Maria Repnikova<br>Excellent thread and an incredible investigation<br><br>Runako Celina: In 2020, a Weibo account called ‘Jokes about Black people club’ posted a video.<br><br>In it, a group of African children huddled round a blackboard are made to say in Chinese: <br><br>‘I'm a Black monster, my IQ is low’<br><br><img style="" src="https://pbs.twimg.com/media/FVJ2UtVWUAEbaSM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVJ2W21WUAArL5Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-06-14 13:12:39+08:00 推文](https://twitter.com/cnmediaproject/status/1536577335771955200)
 
@@ -110,4 +110,36 @@ White Smoke, Black Smoke: As the 20th Congress of the CCP approaches, the race i
 ### 24: [2022-06-16 10:25:23+08:00 推文](https://twitter.com/cnmediaproject/status/1537260018541940736)
 
 White Smoke, Black Smoke. CMP's David Bandurski writes: "China’s politics are as sealed as a conclave. And no one reading the party-state media closely these days can fail to note the devotional quality of much of the language." <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FVVx0zAaIAA41AG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-06-16 16:01:06+08:00 推文](https://twitter.com/cnmediaproject/status/1537344500682887168)
+
+Further to our piece today on smoke signals of obedience and support for Xi Jinping, it's worth noting that Tianjin referred to Xi this week as the "wise and outstanding leader" (英明卓越领袖) <a href="http://www.tjtzb.org.cn/ywgz/system/2022/06/13/030012671.shtml" target="_blank" rel="noopener noreferrer">http://www.tjtzb.org.cn/ywgz/system/2022/06/13/030012671.shtml</a><br><img style="" src="https://pbs.twimg.com/media/FVW-qaoaQAAjrN2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-06-16 16:03:47+08:00 推文](https://twitter.com/cnmediaproject/status/1537345178729861121)
+
+Re Learn more about recent examples of "loyalty signaling" (表态) in today's story on obsequiousness at last week's Jiangxi forum on "Xi Thought." <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FVW_SG4aQAAM0mG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-06-16 16:06:28+08:00 推文](https://twitter.com/cnmediaproject/status/1537345852981022721)
+
+Re David Bandurski notes the reverence with which top leaders are now praising Xi's contributions to Marxism: "China’s politics are as sealed as a conclave. And no one reading the party-state media closely these days can fail to note the devotional quality of much of the language."<br><img style="" src="https://pbs.twimg.com/media/FVW_4ueaIAAaZbF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-06-16 16:08:57+08:00 推文](https://twitter.com/cnmediaproject/status/1537346479710687232)
+
+Re Fu Hua (傅华), the newly-appointed president of Xinhua, makes the grandiose claim that “Xi Jinping Thought” is the “most important crystallization of human thought in our time.” Clearly, this is the ardent declaration of a man of faith.<br><img style="" src="https://pbs.twimg.com/media/FVXAdpCakAELr2S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-06-16 16:14:23+08:00 推文](https://twitter.com/cnmediaproject/status/1537347847217360898)
+
+Re The phrase "wise leader" (英明领袖) was previously used for Stalin in the 1950s, for Mao Zedong during the Cultural Revolution. In Nov. 1976, not long after Mao's death and the arrest of the Gang of Four, the term was used for Hua Guofeng (华国锋同志为我党领袖是毛主席的英明决策).<br><img style="" src="https://pbs.twimg.com/media/FVXBsI0agAADDPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-06-16 16:25:31+08:00 推文](https://twitter.com/cnmediaproject/status/1537350646634258432)
+
+Re Interestingly, though, the very first appearance of "wise leader" in the People's Daily is in a letter of congratulation sent to Mao by George Matthews, the leader of the Communist Party in Britain. September 26, 1949: 英共助理书记马修斯:函谢毛主席对波立特的祝贺<br><img style="" src="https://pbs.twimg.com/media/FVXEDLFaMAAkQwE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-06-16 16:29:34+08:00 推文](https://twitter.com/cnmediaproject/status/1537351664591859712)
+
+Re The CCP's success in the civil war, Matthews was quoted as saying, was a "great victory achieved under the wise leadership of the great Chinese Communist Party and its wise and outstanding leader, Comrade Mao Zedong."<br><img style="" src="https://pbs.twimg.com/media/FVXFLfNaIAAwwbE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 32: [2022-06-16 16:41:15+08:00 推文](https://twitter.com/cnmediaproject/status/1537354607533637632)
+
+Re @jcmittelstaedt Precisely. 英明领袖 has not once been used since. 卓越领袖 appears just twice in the reform era. First, in 2018, in a tribute to Lin Weimin (林伟民), the early 20th century workers leader. Next, in 2019 as Carter received an "outstanding leadership" award for US-China relations.<br><img style="" src="https://pbs.twimg.com/media/FVXH2ZCaAAADNWu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
