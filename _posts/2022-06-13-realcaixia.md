@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-06-15
+date: 2022-06-17
 from: https://twitter.com/realcaixia/status/1536679038537895936
 layout: post
 tags:
@@ -29,5 +29,9 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 4: [2022-06-15 01:33:40+08:00 推文](https://twitter.com/realcaixia/status/1536763817945878529)
 
-利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。<br><br>荣剑: 必须人人追究此事责任者，否则，下一个被红码的就是你！<br><br><img style="" src="https://pbs.twimg.com/media/FVNW9oCUcAAb1xU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW90hUcAU_b7J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW-jLUAAEsLgH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW_FgUYAEHY7o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。
+
+### 5: [2022-06-17 02:41:41+08:00 推文](https://twitter.com/realcaixia/status/1537505709872513024)
+
+习搞的这个非战争行为军队行动纲要就是再一次玩弄流氓手法，避开国家立法正常程序而又操控军队，使军队充当习家打手，在国内政治中镇压民众、消灭中共党内外的反习人士。<br>习2018玩弄流氓手法搞修宪得逞，这次是故伎重演。习搞的这个军事行动（纲要）本身非法，不具有合法性。
 

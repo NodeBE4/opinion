@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-16
+date: 2022-06-17
 from: https://twitter.com/HeQinglian/status/1536025701392035841
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。 <a href="https://twitter.com/RFI_Cn/status/1536034120605630465" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1536034120605630465</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -269,7 +269,7 @@ RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成�
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
-克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。
+克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。<br><br>The Hill: Bill Clinton: "Fair chance" US could "completely lose" its democratic system<br><br><img style="" src="https://pbs.twimg.com/media/FVYVqFcVsAcfNK2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/mp92tnr" target="_blank" rel="noopener noreferrer">https://trib.al/mp92tnr</a>
 
 ### 65: [2022-06-16 22:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1537443744412098561)
 
@@ -282,4 +282,8 @@ Re @JiangShangrong 他们还没征求一大票华乌鸡血的同意，怎能擅�
 ### 67: [2022-06-16 22:52:19+08:00 推文](https://twitter.com/HeQinglian/status/1537447990184464384)
 
 Re 上述四项，第一项2015年在全美实现；<br>第二、三项，在大多数民主党州已经实现。<br>第四项，已经由波士顿萨默尔县立法，多重伴侣哝和合法化。“多重伴侣家庭”就是包含“一夫多妻”、“一妻多夫”和交叉性关系的“群婚”制。 <a href="https://www.usatoday.com/story/news/nation/2020/07/02/polyamory-massachusetts-city-somerville-relationships-us/5370718002/" target="_blank" rel="noopener noreferrer">https://www.usatoday.com/story/news/nation/2020/07/02/polyamory-massachusetts-city-somerville-relationships-us/5370718002/</a>
+
+### 68: [2022-06-17 01:43:09+08:00 推文](https://twitter.com/HeQinglian/status/1537490981112668160)
+
+Re @Vince6610 吓唬谁呢？打就打。
 
