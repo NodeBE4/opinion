@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
@@ -1057,7 +1057,7 @@ Re @RealBeiMing @JianglinLi @aMichaelHsu @JiangShangrong 以基辅幽灵为例�
 
 ### 261: [2022-05-08 04:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1523042576521220101)
 
-1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。<br><br>Ezio Mao☢: 每月70亿美元，谁养得起……😅<br><br><img style="" src="https://pbs.twimg.com/media/FSIyd9VaIAA3eW0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/tjlyy009/status/1522435973082419201" target="_blank" rel="noopener noreferrer">https://twitter.com/tjlyy009/status/1522435973082419201</a>
+1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。 <a href="https://www.kylc.com/stats/global/yearly_overview/g_gdp.html" target="_blank" rel="noopener noreferrer">https://www.kylc.com/stats/global/yearly_overview/g_gdp.html</a>
 
 ### 262: [2022-05-08 04:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1523043537608187911)
 
@@ -1089,7 +1089,7 @@ Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去�
 
 ### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
 
-欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
 
 ### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
 
