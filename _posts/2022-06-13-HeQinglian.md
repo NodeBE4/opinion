@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-17
+date: 2022-06-18
 from: https://twitter.com/HeQinglian/status/1536025701392035841
 layout: post
 tags:
@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。 <a href="https://twitter.com/RFI_Cn/status/1536034120605630465" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1536034120605630465</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -362,4 +362,12 @@ Re @muguiying513 台湾媒体一谈到战争，脑子失控。到现在还沉浸
 ### 87: [2022-06-17 22:10:40+08:00 推文](https://twitter.com/HeQinglian/status/1537799896006279169)
 
 Re @Tepezano161 主要在民主党治下的加州、纽约、哈佛所在的波士顿、芝加哥。当然还有华府。
+
+### 88: [2022-06-18 04:02:31+08:00 推文](https://twitter.com/HeQinglian/status/1537888441790103553)
+
+Re @Wu_Zhi 战争信息造假，就是喝人血。<br>拿西方援助当水漂，这还算了，反正是别人碗里的肉扒拉点过来。但这实际上是拿本国人的生命不当数，只能用一个“坏”字形容，太缺德。
+
+### 89: [2022-06-18 04:16:17+08:00 推文](https://twitter.com/HeQinglian/status/1537891904926339074)
+
+世贸大会达成"前所未有的 "成果 <br>评：三项成果中两项是针对中国的。<br>疫苗专利——主要是美中两国的事情，中国本指着这继续赚银子，现美国陪中国一道取消疫苗专利限制。<br>渔业补贴——中国的海上邻国们因中国进入自家海域（中国说是公海）捕捞苦恼日久。<br>这次美中掰手腕，美国赢。 <a href="https://rfi.my/8Vg9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Vg9.T</a>
 
