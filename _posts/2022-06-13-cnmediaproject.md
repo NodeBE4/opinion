@@ -97,7 +97,7 @@ RT Bill Bishop<br>凤凰网财经｜一位54岁的失地农民：失去了肾�
 
 ### 21: [2022-06-15 23:10:24+08:00 推文](https://twitter.com/lingli_vienna/status/1537090150341267456)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great🧵on misconceptions of PRC social credit system (SSC) by Jeremy Daum, who's been tracking its developments from the get-go. <br><br>Worth-noting: <br><br>While SSC has little to do with individuals, Health-Code 健康码, thou, can be easily turned into a surveilling tool over individuals.<br><br>China Law Translate: This is directly on point to our discussion, so I want to respond. 🧵<br>The mythos of social credit is so pervasive, that when we explain the real system, a common reaction is: “they are social credit deniers" rather than "I have been using the term social credit incorrectly"<br> <a href="https://twitter.com/JimMillward/status/1536607418544803840" target="_blank" rel="noopener noreferrer">https://twitter.com/JimMillward/status/1536607418544803840</a>
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great🧵on misconceptions of PRC social credit system (SSC) by Jeremy Daum, who's been tracking its developments from the get-go. <br><br>Worth-noting: <br><br>While SSC has little to do with individuals, Health-Code 健康码, thou, can be easily turned into a surveilling tool over individuals.
 
 ### 22: [2022-06-16 04:57:12+08:00 推文](https://twitter.com/CarlMinzner/status/1537177427775848450)
 
@@ -147,7 +147,11 @@ Re @jcmittelstaedt Precisely. 英明领袖 has not once been used since. 卓越�
 
 Re @jcmittelstaedt Always so convenient, that party-state media culture of paraphrasing . . . 表示 basically means [what X really meant to say is] and can be followed with whatever sentiment is required.
 
-### 34: [2022-06-17 10:04:30+08:00 推文](https://twitter.com/cnmediaproject/status/1537617148377706497)
+### 34: [2022-06-16 23:17:43+08:00 推文](https://twitter.com/PhelimKine/status/1537454379187445762)
+
+RT Phelim Kine “老 康“<br>Many thanks to this week's @politico China Watcher contributors @aaeitrade @USChinaBusiness @SpoxCHNinUS @JohnRichmond1 @DHSgov @RepMcGovern @SenRubioPress @nahaltoosi @laraseligman @StuartKLau @GavinBade @cnmediaproject @AshleyYablon <a href="https://www.politico.com/newsletters/politico-china-watcher" target="_blank" rel="noopener noreferrer">https://www.politico.com/newsletters/politico-china-watcher</a>
+
+### 35: [2022-06-17 10:04:30+08:00 推文](https://twitter.com/cnmediaproject/status/1537617148377706497)
 
 Don't miss CMP's latest on building signals of support (and worship) of Xi Jinping ahead of the 20th National Congress. <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FVa2pGTaMAAUpXS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -53,11 +53,11 @@ In December, CMP wrote about the Human Rights Institute of the SW Univ. of Polit
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
-Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
@@ -69,7 +69,7 @@ Re On "care," one listed associate, Peng Qinxuan, is identified as having "studi
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
