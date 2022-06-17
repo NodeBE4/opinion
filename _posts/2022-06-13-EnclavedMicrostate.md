@@ -195,9 +195,15 @@ Only the first part of which is *technically* true, but relies on defining genoc
 
 So yes, the Zunghar Genocide was a genocide, no it has not been exaggerated, and don't get your history off Quora. [Especially now that it's not even plagiarised from AskHistorians anymore.](https://twitter.com/EMicrostate/status/1491057267063484426)
 
-### 538: [Why did Japan create the Reorganized National Government under Wang Jingwei instead of granting the territory to their already existing puppet of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/vdwo8t/why_did_japan_create_the_reorganized_national/), submitted on 2022-06-17 05:37:23+08:00.
+### 538: [Need help translating this. I got this from a friend of mine. The inside looks like wax or clay.](https://old.reddit.com/r/ChineseTranslation/comments/vdrnud/need_help_translating_this_i_got_this_from_a/), submitted on 2022-06-17 01:45:54+08:00.
 
------ __538.1__ -----2022-06-17 21:14:08+08:00:
+----- __538.1__ -----2022-06-18 01:01:53+08:00:
+
+I concur with /u/Red_D_Rabbit that this is a box of seal paste (印泥 *yin ni*), and doing a bit of extra Googling specifically of a type called Zhangzhou Babao (漳州八寶) specifically associated with Zhangzhou in Fujian. In terms of the sticker, I believe that the outer four characters are supposed to be read top-bottom-right-left to form 魁紅硃砂, which would translate roughly to 'best red cinnabar', but I'll admit that it's unclear if that is the order in which they ought to go. However, I'm having some difficulty with the brand because I'm not confident identifying the leftmost character. I'm also having very little luck finding any brand of seal paste with the characters '芳齊', so it may be an old, defunct brand.
+
+### 539: [Why did Japan create the Reorganized National Government under Wang Jingwei instead of granting the territory to their already existing puppet of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/vdwo8t/why_did_japan_create_the_reorganized_national/), submitted on 2022-06-17 05:37:23+08:00.
+
+----- __539.1__ -----2022-06-17 21:14:08+08:00:
 
 To lay something out beforehand, this specific matter comes well after my actual specialism (only by about 30 years to be fair, but still), and I am very willing to be corrected in part or in whole by anyone whose toes I may end up treading on should I get things wrong.
 
@@ -217,7 +223,7 @@ The strategic motive behind the separatist states was the perceived need to esta
 
 When we look at it from this perspective, Manchukuo's limited territorial scope starts to make a lot more sense. For one it was part of a strategy of anti-Soviet containment that hadn't been abandoned as such, but whose fiercest proponents had been expunged; for another it had been consistently conceptualised not as a part of China under Japanese indirect rule, but rather as a state independent of China, where the severing of ties went both ways.
 
------ __538.2__ -----2022-06-17 21:21:05+08:00:
+----- __539.2__ -----2022-06-17 21:21:05+08:00:
 
 ### The Collaboration Governments
 
@@ -241,9 +247,9 @@ We need to regard the fragmentary nature of the Japanese puppet regimes in ROC-c
 
 Aside from the sources in the linked answer, see also Selçuk Esenbel, 'Japan's Global Claim to Asia and the World of Islam: Transnational Nationalism and World Power, 1900-1945', in *The American Historical Review* 109:4 (2004).
 
-### 539: [What are the major differences between French Revolution of 1789 and 1848?](https://old.reddit.com/r/AskHistorians/comments/veeulf/what_are_the_major_differences_between_french/), submitted on 2022-06-17 22:47:11+08:00.
+### 540: [What are the major differences between French Revolution of 1789 and 1848?](https://old.reddit.com/r/AskHistorians/comments/veeulf/what_are_the_major_differences_between_french/), submitted on 2022-06-17 22:47:11+08:00.
 
------ __539.1__ -----2022-06-18 00:41:15+08:00:
+----- __540.1__ -----2022-06-18 00:41:15+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -251,9 +257,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 540: [Historian or not, what are some funny comparisons between modern and historical events that make them seem a lot less serious?](https://old.reddit.com/r/AskHistorians/comments/vejsbg/historian_or_not_what_are_some_funny_comparisons/), submitted on 2022-06-18 00:22:11+08:00.
+### 541: [Historian or not, what are some funny comparisons between modern and historical events that make them seem a lot less serious?](https://old.reddit.com/r/AskHistorians/comments/vejsbg/historian_or_not_what_are_some_funny_comparisons/), submitted on 2022-06-18 00:22:11+08:00.
 
------ __540.1__ -----2022-06-18 00:30:28+08:00:
+----- __541.1__ -----2022-06-18 00:30:28+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
