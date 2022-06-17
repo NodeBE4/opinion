@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-16
+date: 2022-06-17
 from: https://old.reddit.com/r/math/comments/vbhtzn/what_is_your_favorite_thing_about_math/
 layout: post
 tags:
@@ -80,4 +80,16 @@ Ian Curtis.
 > the fact that rebellious spirits could still be born in the authoritarian nightmare hellscape of 1984
 
 I agree.  Even if as a concept it was removed from language entirely, the human spirit would still desire freedom.
+
+### 306: [Sterilizing yourself to pwn the GOP.](https://old.reddit.com/r/libsofreddit/comments/vdy2nx/sterilizing_yourself_to_pwn_the_gop/), submitted on 2022-06-17 06:43:20+08:00.
+
+----- __306.1__ -----2022-06-17 13:47:41+08:00:
+
+Just because you go to college does not mean you're going to get a well-paying job.  And just because you don't go to college, doesn't mean you won't get a well paying job.  I know tradesmen (especially ones who went on to start their own companies) who make more money than MBAs in mid-level positions.  I say this as one of the "over-educated" types. 
+
+The bigger concern is two or more divergent zeitgeists/realities produced by two or more divergent normative value structures.  That's what happens when two people look at the same set of facts and reach mutually exclusive interpretations of meaning.  
+
+In the instance discussed above, it's not difficult to make sense of how things play out over a couple of generations.  Where entire groups of people decide against reproduction, that non-continuity isn't limited to genetic information.  Cultural continuity is broken, too.  Same with their normative value structure(s). 
+
+Is it any wonder, then, that Gen Z tends to be more conservative than [most probably realize](https://www.businessinsider.com/gen-z-changes-political-divides-2019-7)?  Choices like this woman's above make it clear what the outcome of any culture war will be, in the long run.
 
