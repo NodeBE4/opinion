@@ -49,3 +49,21 @@ But the issue is not just that Taiwan’s tremendous military value poses proble
 
 It is important, however, not to overstate U.S. influence on global abortion policy. The 1973 case was a landmark in allowing abortion access and served as an example to abortion advocates across the world. But in the 50 years since, the United States’ international messaging on abortion has been incoherent. U.S. law made abortion legal at home, but additional legislation that followed gave U.S. presidential administrations tools to restrict access abroad. Indeed, the United States, with policies that are at worst obstructionist and at best inconsistent, has been instrumental in blocking international agreement on abortion liberalization. Nevertheless, the global trend has slowly moved toward greater access to abortion. Whatever the fate of Roe in the United States, other countries will decide their own abortion policies as they see fit."
 
+### 279: [Foreign Minister Dmytro Kuleba: How Ukraine Will Win](https://old.reddit.com/r/UkrainianConflict/comments/vedfgu/foreign_minister_dmytro_kuleba_how_ukraine_will/), submitted on 2022-06-17 21:40:26+08:00.
+
+----- __279.1__ -----2022-06-17 21:40:47+08:00:
+
+Find Foreign Affairs on Telegram: [https://t.me/Foreign\_Affairs\_Magazine](https://t.me/Foreign_Affairs_Magazine)
+
+### 280: [How Ukraine Will Win: Kyiv’s Theory of Victory](https://old.reddit.com/r/geopolitics/comments/vedhy3/how_ukraine_will_win_kyivs_theory_of_victory/), submitted on 2022-06-17 21:43:50+08:00.
+
+----- __280.1__ -----2022-06-17 21:44:49+08:00:
+
+{SS from the article by Dmytro Kuleba, Minister of Foreign Affairs of Ukraine}
+
+"To avoid growing weary of the war and falling for misleading narratives, the West needs to understand exactly how Ukraine can win, and then support us accordingly. This war is existential, and we are motivated to fight. Properly armed, our forces can stretch Putin’s troops—which are already exhausted—past the breaking point. We can counterattack Russian forces in both Ukraine’s south and Ukraine’s east, pressuring Putin to decide which of his gains to protect. To succeed, however, the United States and its European allies must swiftly supply our country with appropriate numbers of advanced heavy weapons. They must also maintain and increase sanctions against Russia. And, critically, they need to ignore calls for diplomatic settlements that would help Putin before he makes serious concessions.  
+
+
+  
+Compromising with Russia may seem tempting to some abroad, especially as the costs of the war grow, but bowing to Putin’s aggression will help him destroy more of our nation, embolden his government to carry out attacks elsewhere in the world, and allow him to rewrite the rules of the global order. His approach to talks could change; if we succeed in pushing back Russian troops far enough, Putin may be compelled to come to the table and deal in good faith. But getting there will require that the West exercise patient dedication to one outcome: a complete and total Ukrainian victory."
+
