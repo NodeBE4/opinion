@@ -33,7 +33,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
-这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。
+这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。<br><br>猪骨粒: 1、美国正在变烂，目前还是比中国好<br><br>2、但美国变烂的影响是世界级的，中国只能影响一部分<br><br>3、俄罗斯本来对世界影响不大，把他惹毛了发现他影响很大<br><br>4、乌克兰只有挨揍的时候才有影响力<br><br>5、欧盟比较悲催，活儿一点没少干，收入却下降最多，影响力还特么没增加。<br>
 
 ### 6: [2022-06-13 05:21:41+08:00 推文](https://twitter.com/HeQinglian/status/1536096425775443968)
 
@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -286,4 +286,48 @@ Re 上述四项，第一项2015年在全美实现；<br>第二、三项，在大
 ### 68: [2022-06-17 01:43:09+08:00 推文](https://twitter.com/HeQinglian/status/1537490981112668160)
 
 Re @Vince6610 吓唬谁呢？打就打。
+
+### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
+
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+
+### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
+
+支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。<br><br>DW 中文- 德国之声: "中国虽投入巨资，却仍然无法在技术上赶超台湾，这也许恰恰会成为武力攻台的一个理由。中国也许会孤注一掷，将这个芯片基地据为己有。"<br> <a href="https://p.dw.com/p/4CoYc" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CoYc</a>
+
+### 71: [2022-06-17 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1537601438389571584)
+
+Re @franktianxie 老板不还是旧人？
+
+### 72: [2022-06-17 09:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1537602187861413894)
+
+Re @franktianxie 昨天揭露拜登给能源公司的信是矛盾体，算是开胃小菜？
+
+### 73: [2022-06-17 09:06:35+08:00 推文](https://twitter.com/JianglinLi/status/1537602574194450433)
+
+RT 李江琳<br>今日美国报删除了23篇这个女记者用伪造来源写的报道。<br><br>难怪只读主媒的人都变成了蠢蛋。<br>USA Today removes 23 articles after reporter Gabriela Miranda fabricated sources <a href="https://nypost.com/2022/06/16/usa-today-reporter-gabriela-miranda-fabricated-sources-for-23-articles/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/06/16/usa-today-reporter-gabriela-miranda-fabricated-sources-for-23-articles/?utm_source=twitter_sitebuttons&amp;utm_medium=site%20buttons&amp;utm_campaign=site%20buttons</a>
+
+### 74: [2022-06-17 09:07:34+08:00 推文](https://twitter.com/HeQinglian/status/1537602819766767617)
+
+Re @franktianxie 最近，贵功那位名女记者，似乎不再专职报道俄军残暴强奸乌克兰女士了。😂
+
+### 75: [2022-06-17 09:55:30+08:00 推文](https://twitter.com/HeQinglian/status/1537614882589351937)
+
+Re @JianglinLi @franktianxie 今天，散步时遇到一位华人女士，她想谈政治，听她聊。自媒体几大听中南海壁脚的主儿，全是她每天Killing Time的消遣。她说某名嘴说自家就住在与中南海相邻的地方，我听后表示疑惑：中南海隔壁有民居吗？北海墙外倒是有民居，白塔寺出来一溜民居。<br>就算住在中南海隔壁，邻家的事儿可以伸脑袋听吗？😂
+
+### 76: [2022-06-17 09:58:53+08:00 推文](https://twitter.com/HeQinglian/status/1537615737111584769)
+
+Re @JiangShangrong 这事儿，早就弄清楚了。人家至今没骂过的人是谁？是拜登。
+
+### 77: [2022-06-17 10:03:45+08:00 推文](https://twitter.com/HeQinglian/status/1537616961483456513)
+
+Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
+
+### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
+
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
+
+Re @Wu_Zhi 看到了，可能擅长写诗歌、表演的民族，数学思维差那么一点，感觉不到1与10、10与1000有什么差别。<br>中文推特也同样，自郭文贵数钱以亿为单位，好象很多人也分不清万元与亿元之间的差别了——尽管工资是以五毛为单位计。
 

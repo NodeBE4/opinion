@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-16
+date: 2022-06-17
 from: https://twitter.com/cnmediaproject/status/1536199124982583297
 layout: post
 tags:
@@ -146,4 +146,8 @@ Re @jcmittelstaedt Precisely. 英明领袖 has not once been used since. 卓越�
 ### 33: [2022-06-16 16:56:45+08:00 推文](https://twitter.com/cnmediaproject/status/1537358505807847425)
 
 Re @jcmittelstaedt Always so convenient, that party-state media culture of paraphrasing . . . 表示 basically means [what X really meant to say is] and can be followed with whatever sentiment is required.
+
+### 34: [2022-06-17 10:04:30+08:00 推文](https://twitter.com/cnmediaproject/status/1537617148377706497)
+
+Don't miss CMP's latest on building signals of support (and worship) of Xi Jinping ahead of the 20th National Congress. <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FVa2pGTaMAAUpXS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
