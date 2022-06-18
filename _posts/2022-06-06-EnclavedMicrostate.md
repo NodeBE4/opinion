@@ -413,3 +413,9 @@ By happy coincidence, last night Izzzyzzz released [a video on the Yogventures K
 
 Active VTuber I'd hope and not yet another VTweeter?
 
+----- __528.5__ -----2022-06-19 03:28:48+08:00:
+
+I *hate* painting horses. But I *love* having cavalry.
+
+It's a classic case of, 'I want to have done X, but I don't want to *do* X.'
+

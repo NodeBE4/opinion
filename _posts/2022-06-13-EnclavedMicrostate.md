@@ -243,13 +243,15 @@ The original hope had been that Wang, being a major political rival to Chiang Ka
 
 In effect, the appointment of Wang Jingwei simply entailed replacing the existing government of Liang Hongzhi with an even weaker one even more directly subordinated to Japanese interests, but without compromising the existing arrangements built up by the former North China Area Army in its own sphere of activity. The expansion of Manchukuo would have run counter to this for a number of obvious practical reasons, the most important of which was that Manchukuo was the Kwantung Army's puppet. Expanding it would have fatally undercut the NCAA and CCAA (in 1938) or the China Expeditionary Army (in 1940), something that the latter would obviously not agree to if it could avoid it, which (by virtue of having lots of guns and lots of troops to shoot those guns) it very much could.
 
+So even from a pragmatic standpoint, the expansion of Manchukuo made little sense. In 1937, Japan had yet to declare the overthrow of Chiang Kai-Shek as an official war goal and was building collaboration governments mainly out of the necessity of having some administrative machinery over occupied territory. In 1938, although it had now ceased to recognise Chiang's government, it had already established two collaboration governments in China presided over by the armies actually in the region. In 1939, it was seeking to provide a concrete, viable rival to Chiang, whom Puyi most certainly was not. And in 1940, it just wanted to get Liang Hongzhi's regime out of the way and a firmer hand in China, and expanding Manchukuo might ironically have strengthened the latter at Japan's expense.
+
 ### Conclusions
 
 We need to regard the fragmentary nature of the Japanese puppet regimes in ROC-claimed territory as being partly intentional and partly unintentional, often at the same time. Manchukuo in particular was conceived of and presented as a breakaway region and not as a Japanese foothold into China as understood as a singular entity, and so it did not make sense to suddenly give it control of parts of China, which by the official line was now an entirely separate country. If China held no claim over Manchukuo, the reverse was also true. Manchukuo was also specifically tied with the Japanese Kwantung Army, whose political interests were decidedly distinct from the Japanese armies operating in China proper; giving the latter's economic base over to the former made neither strategic nor political sense.
 
 ### Sources and Further Reading:
 
-Aside from the sources in the linked answer, see also Selçuk Esenbel, 'Japan's Global Claim to Asia and the World of Islam: Transnational Nationalism and World Power, 1900-1945', in *The American Historical Review* 109:4 (2004).
+Aside from the sources in the two linked answers, see also Selçuk Esenbel, 'Japan's Global Claim to Asia and the World of Islam: Transnational Nationalism and World Power, 1900-1945', in *The American Historical Review* 109:4 (2004).
 
 ### 540: [What are the major differences between French Revolution of 1789 and 1848?](https://old.reddit.com/r/AskHistorians/comments/veeulf/what_are_the_major_differences_between_french/), submitted on 2022-06-17 22:47:11+08:00.
 
