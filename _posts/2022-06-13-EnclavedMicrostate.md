@@ -267,9 +267,17 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 542: [Did Kiara stop doing holotalk?](https://old.reddit.com/r/Hololive/comments/veo617/did_kiara_stop_doing_holotalk/), submitted on 2022-06-18 03:35:35+08:00.
+### 542: [Aqua's Updated Family Tree](https://old.reddit.com/r/Hololive/comments/veknxz/aquas_updated_family_tree/), submitted on 2022-06-18 00:59:57+08:00.
 
------ __542.1__ -----2022-06-18 11:33:40+08:00:
+----- __542.1__ -----2022-06-18 14:57:23+08:00:
+
+But wait, if Noel is *also* Lamy's mother...
+
+What *is* this family tree?
+
+### 543: [Did Kiara stop doing holotalk?](https://old.reddit.com/r/Hololive/comments/veo617/did_kiara_stop_doing_holotalk/), submitted on 2022-06-18 03:35:35+08:00.
+
+----- __543.1__ -----2022-06-18 11:33:40+08:00:
 
 Seems like what you got was a rrat about Ayame looking at Hololive as an occasional meal ticket so I guess I'll offer a more reasonable explanation. Ayame has been dealing with a lot of personal and family issues for a good while now, but she's been a consistent guest in 3D Lives and has remained active on Twitter, so it's not like she's popping into Hololive every once in a while. It's only quite recently that she's been back to streaming significantly. Depending on when Kiara mentioned not thinking Ayame would be likely, it's very likely it was at a time when she was streaming very rarely and going through a lot of issues (and there are still issues she's going through now), and it just might not be great doing an hour-long interview segment, even one that's relatively chill like Holotalk, when you're in that kind of situation and genuinely vulnerable. I can't speak for Kiara's specific thought process, but I'd imagine it's not too far off.
 
