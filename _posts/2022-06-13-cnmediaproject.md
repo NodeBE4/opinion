@@ -167,3 +167,7 @@ Efforts to justify harsh Covid lockdown policies have taken Xi’s defenders bac
 
 Our look at the phrase "policy of greater benevolence" (大仁政), first used by Mao and returned this week to justify Xi's "dynamic zero" policy for dealing with Covid-19. <a href="https://chinamediaproject.org/2022/06/17/dynamic-zero-and-greater-benevolence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/17/dynamic-zero-and-greater-benevolence/</a><br><img style="" src="https://pbs.twimg.com/media/FVgiapoaQAANVOw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 39: [2022-06-18 14:32:26+08:00 推文](https://twitter.com/MareikeOhlberg/status/1538046965304418304)
+
+RT Mareike Ohlberg<br>In other news, water is wet. In all seriousness, I'm glad this report was published. Anyone who has been paying attention has known this, but it's important to get the pieces of evidence out into the public sphere. <a href="https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access" target="_blank" rel="noopener noreferrer">https://www.buzzfeednews.com/article/emilybakerwhite/tiktok-tapes-us-user-data-china-bytedance-access</a>
+
