@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-18
+date: 2022-06-19
 from: https://twitter.com/HeQinglian/status/1536025701392035841
 layout: post
 tags:
@@ -33,7 +33,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
-这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。<br><br>猪骨粒: 1、美国正在变烂，目前还是比中国好<br><br>2、但美国变烂的影响是世界级的，中国只能影响一部分<br><br>3、俄罗斯本来对世界影响不大，把他惹毛了发现他影响很大<br><br>4、乌克兰只有挨揍的时候才有影响力<br><br>5、欧盟比较悲催，活儿一点没少干，收入却下降最多，影响力还特么没增加。<br>
+这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。
 
 ### 6: [2022-06-13 05:21:41+08:00 推文](https://twitter.com/HeQinglian/status/1536096425775443968)
 
@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 
@@ -450,4 +450,20 @@ Re @zhuxiuyuan @shenliangqing2 你这话，老拜登听了高兴。可惜的是�
 ### 109: [2022-06-18 21:40:49+08:00 推文](https://twitter.com/HeQinglian/status/1538154770640388096)
 
 中纪委刊物载文痛批李丞相惹疑 <br>看后哈哈大笑。这都是国外寻找反习势力的领军人物，终于找到李克强，为今日“李丞相”惹来的祸，李相有点冤。<br>习近平真应该找到真正的反习领军人物，别拿循规蹈矩的克强大人顶缸。 <a href="https://rfi.my/8Vku.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Vku.T</a>
+
+### 110: [2022-06-19 01:27:57+08:00 推文](https://twitter.com/HeQinglian/status/1538211930594238464)
+
+Re @mayuki753 @zhuxiuyuan @shenliangqing2 无脑者总以为自己头脑最清醒，天下就他们聪明。
+
+### 111: [2022-06-19 01:28:40+08:00 推文](https://twitter.com/HeQinglian/status/1538212112249540609)
+
+Re @zhuxiuyuan @Freedom2037 @shenliangqing2 与拜登思路相同：印钞。
+
+### 112: [2022-06-19 01:33:09+08:00 推文](https://twitter.com/HeQinglian/status/1538213237220597763)
+
+Re @Wu_Zhi 烧得好，以后再印，就是小狗，不，是癞蛤蟆。
+
+### 113: [2022-06-19 01:36:18+08:00 推文](https://twitter.com/HeQinglian/status/1538214031072407553)
+
+Re @JianglinLi @david_david1968 一直希望女王成为最后的女王，她那儿孙们实在德不配位。
 
