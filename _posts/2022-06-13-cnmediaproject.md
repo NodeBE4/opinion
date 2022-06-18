@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-17
+date: 2022-06-18
 from: https://twitter.com/cnmediaproject/status/1536199124982583297
 layout: post
 tags:
@@ -97,7 +97,7 @@ RT Bill Bishop<br>凤凰网财经｜一位54岁的失地农民：失去了肾�
 
 ### 21: [2022-06-15 23:10:24+08:00 推文](https://twitter.com/lingli_vienna/status/1537090150341267456)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great🧵on misconceptions of PRC social credit system (SSC) by Jeremy Daum, who's been tracking its developments from the get-go. <br><br>Worth-noting: <br><br>While SSC has little to do with individuals, Health-Code 健康码, thou, can be easily turned into a surveilling tool over individuals.
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Great🧵on misconceptions of PRC social credit system (SSC) by Jeremy Daum, who's been tracking its developments from the get-go. <br><br>Worth-noting: <br><br>While SSC has little to do with individuals, Health-Code 健康码, thou, can be easily turned into a surveilling tool over individuals.<br><br>China Law Translate: This is directly on point to our discussion, so I want to respond. 🧵<br>The mythos of social credit is so pervasive, that when we explain the real system, a common reaction is: “they are social credit deniers" rather than "I have been using the term social credit incorrectly"<br> <a href="https://twitter.com/JimMillward/status/1536607418544803840" target="_blank" rel="noopener noreferrer">https://twitter.com/JimMillward/status/1536607418544803840</a>
 
 ### 22: [2022-06-16 04:57:12+08:00 推文](https://twitter.com/CarlMinzner/status/1537177427775848450)
 
@@ -162,4 +162,8 @@ RT Patricia M Thornton<br>胡平 for RFA: Liberal 炎黄春秋 survived the Ji
 ### 37: [2022-06-17 18:36:17+08:00 推文](https://twitter.com/cnmediaproject/status/1537745943772405761)
 
 Efforts to justify harsh Covid lockdown policies have taken Xi’s defenders back to the ideas of the general secretary’s favorite forebear, Mao Zedong. Introducing "policy of greater benevolence." <a href="https://chinamediaproject.org/2022/06/17/dynamic-zero-and-greater-benevolence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/17/dynamic-zero-and-greater-benevolence/</a><br><img style="" src="https://pbs.twimg.com/media/FVcroRCagAAY3ep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 38: [2022-06-18 12:33:53+08:00 推文](https://twitter.com/cnmediaproject/status/1538017129265786880)
+
+Our look at the phrase "policy of greater benevolence" (大仁政), first used by Mao and returned this week to justify Xi's "dynamic zero" policy for dealing with Covid-19. <a href="https://chinamediaproject.org/2022/06/17/dynamic-zero-and-greater-benevolence/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/17/dynamic-zero-and-greater-benevolence/</a><br><img style="" src="https://pbs.twimg.com/media/FVgiapoaQAANVOw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
