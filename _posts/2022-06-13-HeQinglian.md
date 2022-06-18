@@ -29,11 +29,11 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。 <a href="https://twitter.com/RFI_Cn/status/1536034120605630465" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1536034120605630465</a>
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
-这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。
+这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。<br><br>猪骨粒: 1、美国正在变烂，目前还是比中国好<br><br>2、但美国变烂的影响是世界级的，中国只能影响一部分<br><br>3、俄罗斯本来对世界影响不大，把他惹毛了发现他影响很大<br><br>4、乌克兰只有挨揍的时候才有影响力<br><br>5、欧盟比较悲催，活儿一点没少干，收入却下降最多，影响力还特么没增加。<br>
 
 ### 6: [2022-06-13 05:21:41+08:00 推文](https://twitter.com/HeQinglian/status/1536096425775443968)
 
@@ -89,7 +89,7 @@ Re @guchuan81 这本书让我认识到美国保守派为何如此不堪一击。
 
 ### 19: [2022-06-13 10:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1536178598679302146)
 
-美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。
+美国前总统川普说：如果是我，中国不会赢；<br>美国现总统拜登说：全是川普的错，外加普京的错。没有这些错，我那重建美丽新世界的计划真的很美丽。<br><br>Ezio Mao☢: 美中贸易战谁是输家？显而易见，美国在4年的贸易战之后取得了数个历史记录，不得不说美国赢麻了：<br><br>- 最近四十年最严重的通胀<br>- 历史新纪录30.5万亿美元的债务总量<br>- 有史以来第一次无计可施的货币政策<br><br>随着美国内部矛盾的加剧，我们要反思，反思什么再说吧...先反思着吧<br> <a href="https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1533538538444103681?s=20&amp;t=NTQrdXyt0wqHO6IO2SMkEA</a>
 
 ### 20: [2022-06-13 20:33:31+08:00 推文](https://twitter.com/HeQinglian/status/1536325896201818114)
 
@@ -269,7 +269,7 @@ RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成�
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
-克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。
+克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。<br><br>The Hill: Bill Clinton: "Fair chance" US could "completely lose" its democratic system<br><br><img style="" src="https://pbs.twimg.com/media/FVYVqFcVsAcfNK2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/mp92tnr" target="_blank" rel="noopener noreferrer">https://trib.al/mp92tnr</a>
 
 ### 65: [2022-06-16 22:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1537443744412098561)
 
@@ -341,7 +341,7 @@ Re 有个典故，看来经历过文革的也忘记了。<br>1970年代，有支
 
 ### 82: [2022-06-17 20:55:36+08:00 推文](https://twitter.com/HeQinglian/status/1537781002134863873)
 
-群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。<br><br>Adaliab: They're not even hiding it anymore!<br><br><video src="https://video.twimg.com/ext_tw_video/1537500714443972608/pu/vid/560x352/c6edzy2w8y-GHEjF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537500714443972608/pu/img/gmhQPd6gCXSApcii.jpg"></video>
+群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。
 
 ### 83: [2022-06-17 20:58:34+08:00 推文](https://twitter.com/HeQinglian/status/1537781748947353600)
 
@@ -349,7 +349,7 @@ Re @tankand300 那你高看了我。我是异类，你没见过我写这段生�
 
 ### 84: [2022-06-17 21:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1537784230855462913)
 
-这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。
+这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。<br><br>联合早报 Lianhe Zaobao: 美国国家安全顾问沙利文说，美国总统拜登将发起一项全球基础设施倡议，以对抗中国在全球，特别是印太地区的野心。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220617-1283915" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220617-1283915</a>
 
 ### 85: [2022-06-17 21:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1537784919358849029)
 
@@ -370,4 +370,28 @@ Re @Wu_Zhi 战争信息造假，就是喝人血。<br>拿西方援助当水漂�
 ### 89: [2022-06-18 04:16:17+08:00 推文](https://twitter.com/HeQinglian/status/1537891904926339074)
 
 世贸大会达成"前所未有的 "成果 <br>评：三项成果中两项是针对中国的。<br>疫苗专利——主要是美中两国的事情，中国本指着这继续赚银子，现美国陪中国一道取消疫苗专利限制。<br>渔业补贴——中国的海上邻国们因中国进入自家海域（中国说是公海）捕捞苦恼日久。<br>这次美中掰手腕，美国赢。 <a href="https://rfi.my/8Vg9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Vg9.T</a>
+
+### 90: [2022-06-18 06:04:34+08:00 推文](https://twitter.com/HeQinglian/status/1537919154027606019)
+
+Re @RealBeiMing 奥巴马就以世界总统自任，放开边界是希拉里表示过要继承的奥巴马政治遗产，拜登只是继承了他的政治遗产而已。<br>RINO与左派一致称川普让美国伟大是狭隘的“部落主义”，人家要的是世界主义。<br>我今天看见一位留言者自我介绍“无产者没有国界”，立马拉黑。留之无益。
+
+### 91: [2022-06-18 06:26:05+08:00 推文](https://twitter.com/HeQinglian/status/1537924571319349250)
+
+Re @Catheri69611796 @RealBeiMing 你真是不了解人家的志向：从美国总统直接升格为万国总统。所以，掏美国纳税人的银子，让美国负债，一半花在各种外援项目上，连在阿富汗培训军人，都没忘记性别多元化教育与CRT理论。
+
+### 92: [2022-06-18 07:31:56+08:00 推文](https://twitter.com/SSK2024/status/1537941141454131201)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>中期选举之际，民主党又无中生有地捏造另一位保守派女众议员博伯特是 “应召女郎”。<br><br>不久前，博伯特公开调侃拜登说：我想让你们知道，我用诗篇109:8为拜登祷告：愿他的年日短少，愿别人得他的职分<br><br>共和党女众议员博伯特对民主党PAC的虚假和令人作呕的造谣污蔑采取法律行动！ <a href="https://mp.weixin.qq.com/s/FqrFcAV2uV09EPtXbZ98sA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/FqrFcAV2uV09EPtXbZ98sA</a><br><video src="https://video.twimg.com/ext_tw_video/1537941097682415617/pu/vid/456x260/xZBQFqTcoIzGU3Ri.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537941097682415617/pu/img/mv3Fmqak8WJ1NZeb.jpg"></video>
+
+### 93: [2022-06-18 09:12:53+08:00 推文](https://twitter.com/HeQinglian/status/1537966545309081601)
+
+泽连斯基的历史时刻 <br>文章说，“乌克兰人粉碎了普京几日拿下首都基辅、三周建立傀儡政府、进而降服乌克兰的野心。”<br>我从未见过俄官方有这个时间表，如果谁有，请提供来自俄官方的信息。<br>“闪电战”的说法已经被证实是信息战，并非俄罗斯的战略战术。 <a href="https://rfi.my/8Vk4.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Vk4.T</a>
+
+### 94: [2022-06-18 09:22:08+08:00 推文](https://twitter.com/HeQinglian/status/1537968875685281792)
+
+Re @NAConservative9 “消灭私立大学-自由思想的最后基地”——不好意思，从哈佛-耶鲁-普林斯顿-哥伦比亚，没有公立的。<br>相反，一些州立大学反而没这么进步。
+
+### 95: [2022-06-18 10:22:22+08:00 推文](https://twitter.com/HeQinglian/status/1537984031454683136)
+
+Re 问下面所有的认为有但不可能提供的人，那这俄的目标是西方估计还是俄自身的？西方估计的如果可以等于俄自身的，那就是信息战。<br>信息战=宣传，宣传是什么，不用我多说。<br>夹缠不清的人，就请别来浪费大家的时间了。
 
