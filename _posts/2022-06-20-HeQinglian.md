@@ -43,3 +43,7 @@ Re @david_david1968 从实验室泄出，在WHO专家组第二次考察后，其
 
 气候变迁致西欧6月提早出现热浪 <br>环球不同凉热，我们这非常凉爽，而且还将持续数天。 <a href="https://rfi.my/8Vxq.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Vxq.T</a>
 
+### 8: [2022-06-20 05:47:34+08:00 推文](https://twitter.com/HeQinglian/status/1538639652474830849)
+
+Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才行。<br>如果在美国，你知道多不安全？纳瓦罗、朱利安尼的情况你难道不知？<br>我知道有位推友，曾写过一篇关于民主党要员的腐败，都有可靠的英文报道，台湾媒体拒绝登。
+
