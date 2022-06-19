@@ -293,6 +293,10 @@ Seems like what you got was a rrat about Ayame looking at Hololive as an occasio
 
 Unfortunately you've taken the photos upside down, but I've flipped it. It seems like this is in fact a Japanese piece, although it's understandably not easy to tell as a layperson as all the characters are kanji (Chinese characters as used in Japanese). The piece itself however is of Japanese origin, as these relatively thin ingots were developed in Japan in the Edo period. The reverse inscription has 定 *jō* (which serves as a proof mark), 常是 *jōze* (the title of a mint official) and 銀座 *ginza* (mint). The obverse is worn to where only 銀 *gin* (silver) is visible, but doing some quick research the [full inscription](https://coinweek.com/wp-content/uploads/2019/05/Ichibu-Gin.jpg) is probably 一分銀 *ichi bu gin*, with the *bu* being a weight/currency unit corresponding to about 7.5g of silver.
 
+----- __544.2__ -----2022-06-19 16:34:05+08:00:
+
+Yep.
+
 ### 545: [How much did the average upper class Japanese person know about the rest of the world during the period when the country was isolated?](https://old.reddit.com/r/AskHistorians/comments/vfmesg/how_much_did_the_average_upper_class_japanese/), submitted on 2022-06-19 11:38:06+08:00.
 
 ----- __545.1__ -----2022-06-19 14:53:59+08:00:
