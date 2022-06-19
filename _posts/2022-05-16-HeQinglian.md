@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
@@ -385,7 +385,7 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 
 ### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
 
-以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
 
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 
@@ -509,7 +509,7 @@ Re @FranzMendelsso1 他的话，就姑妄听之吧。目前乌鸡血可能少了
 
 ### 124: [2022-05-22 22:15:13+08:00 推文](https://twitter.com/HeQinglian/status/1528378954351906816)
 
-这可真是昂贵的替代。除了农场主，美国人能养得起马的人不多，城市的且不说，大纽约地区的郊区住户，马养在哪里，买饲料的钱可能比汽油更贵。<br>拜登一家住在白宫，倒是可以，有政府补贴。
+这可真是昂贵的替代。除了农场主，美国人能养得起马的人不多，城市的且不说，大纽约地区的郊区住户，马养在哪里，买饲料的钱可能比汽油更贵。<br>拜登一家住在白宫，倒是可以，有政府补贴。<br><br>Ezio Mao☢: 一位德国农民从吉普车转向马车以节省燃料。😤<br><br>舒普巴赫一家农场的老板斯蒂芬妮·科施纳抱怨说，现在她花更多的时间在路上。<br><br>然而，《华盛顿邮报》写道，这帮助她每月节省了大约 250 欧元油钱。现在德国一升汽油的价格为 2 欧元。但是难道养马不要钱？🤔🤔<br><br>此前德国经济部长哈伯建议德国人骑自行车。<br><br><img style="" src="https://pbs.twimg.com/media/FTWa31gaQAEuU5T?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 125: [2022-05-22 22:17:55+08:00 推文](https://twitter.com/HeQinglian/status/1528379634219458560)
 
