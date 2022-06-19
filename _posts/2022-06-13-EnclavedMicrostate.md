@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-18
+date: 2022-06-19
 from: https://old.reddit.com/r/VirtualYoutubers/comments/vbfqlf/primetime_parasocial_party_weekly_discussion/
 layout: post
 tags:
@@ -282,4 +282,10 @@ What *is* this family tree?
 ----- __543.1__ -----2022-06-18 11:33:40+08:00:
 
 Seems like what you got was a rrat about Ayame looking at Hololive as an occasional meal ticket so I guess I'll offer a more reasonable explanation. Ayame has been dealing with a lot of personal and family issues for a good while now, but she's been a consistent guest in 3D Lives and has remained active on Twitter, so it's not like she's popping into Hololive every once in a while. It's only quite recently that she's been back to streaming significantly. Depending on when Kiara mentioned not thinking Ayame would be likely, it's very likely it was at a time when she was streaming very rarely and going through a lot of issues (and there are still issues she's going through now), and it just might not be great doing an hour-long interview segment, even one that's relatively chill like Holotalk, when you're in that kind of situation and genuinely vulnerable. I can't speak for Kiara's specific thought process, but I'd imagine it's not too far off.
+
+### 544: [Can anyone translate this ingot text?](https://old.reddit.com/r/ChineseTranslation/comments/vfbe7g/can_anyone_translate_this_ingot_text/), submitted on 2022-06-19 01:48:13+08:00.
+
+----- __544.1__ -----2022-06-19 14:08:41+08:00:
+
+Unfortunately you've taken the photos upside down, but I've flipped it. It seems like this is in fact a Japanese piece, although it's understandably not easy to tell as a layperson as all the characters are kanji (Chinese characters as used in Japanese). The piece itself however is of Japanese origin, as these relatively thin ingots were developed in Japan in the Edo period. The reverse inscription has 定 *jō* (which serves as a proof mark), 常是 *jōze* (the title of a mint official) and 銀座 *ginza* (mint). The obverse is worn to where only 銀 *gin* (silver) is visible, but doing some quick research the [full inscription](https://coinweek.com/wp-content/uploads/2019/05/Ichibu-Gin.jpg) is probably 一分銀 *ichi bu gin*, with the *bu* being a weight/currency unit corresponding to about 7.5g of silver.
 

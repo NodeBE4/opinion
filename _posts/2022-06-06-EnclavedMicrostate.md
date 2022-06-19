@@ -417,5 +417,5 @@ Active VTuber I'd hope and not yet another VTweeter?
 
 I *hate* painting horses. But I *love* having cavalry.
 
-It's a classic case of, 'I want to have done X, but I don't want to *do* X.'
+It's a classic case of, 'I want to *have done* X, but I don't want to *do* X.'
 
