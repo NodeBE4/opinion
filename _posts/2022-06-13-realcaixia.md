@@ -29,17 +29,33 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 4: [2022-06-15 01:33:40+08:00 推文](https://twitter.com/realcaixia/status/1536763817945878529)
 
-利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。
+利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。<br><br>荣剑: 必须人人追究此事责任者，否则，下一个被红码的就是你！<br><br><img style="" src="https://pbs.twimg.com/media/FVNW9oCUcAAb1xU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW90hUcAU_b7J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW-jLUAAEsLgH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW_FgUYAEHY7o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-06-17 02:41:41+08:00 推文](https://twitter.com/realcaixia/status/1537505709872513024)
 
-习搞的这个非战争行为军队行动纲要就是再一次玩弄流氓手法，避开国家立法正常程序而又操控军队，使军队充当习家打手，在国内政治中镇压民众、消灭中共党内外的反习人士。<br>习2018玩弄流氓手法搞修宪得逞，这次是故伎重演。习搞的这个军事行动（纲要）本身非法，不具有合法性。
+习搞的这个非战争行为军队行动纲要就是再一次玩弄流氓手法，避开国家立法正常程序而又操控军队，使军队充当习家打手，在国内政治中镇压民众、消灭中共党内外的反习人士。<br>习2018玩弄流氓手法搞修宪得逞，这次是故伎重演。习搞的这个军事行动（纲要）本身非法，不具有合法性。<br><br>韩连潮: 【军队支习？】毛泽东利用军队控制文革混乱局面，搞三支两军（支左、支农、支工、军管、军训），习近平又搬军队出来支习。他避开了正常国家立法程序，并伪称此项命令为军队非战争军事行动提供了法律依据。但纲要指向的行动超越国家规范的军队职能权限。看来他焦虑对局面的掌控，要用党卫军维护习天下。<br><br><img style="" src="https://pbs.twimg.com/media/FVOLmzjVsAA4W8V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-06-19 04:23:09+08:00 推文](https://twitter.com/realcaixia/status/1538256019259854848)
 
-这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？
+这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？<br><br>ZHANGDONG: 这是释放什么信号？<br><br><img style="" src="https://pbs.twimg.com/media/FVimFF6XwAAdzoB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 
 上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。
+
+### 8: [2022-06-19 05:49:51+08:00 推文](https://twitter.com/realcaixia/status/1538277840705228800)
+
+强力推荐：<br>李承鹏：中国人，你为什么没有安全感 - 议报<br>承鹏这篇文章言词悲愤交加，为遭灭绝人性的唐山暴徒残害的女生们，为所有被庇恶罚善颠倒黑白的中共法律迫害的见义勇为者，为被医院拒救而亡的婴儿和心碎了的年轻妈妈；为被数码科技镣铐而囚禁的十多亿人…… <a href="https://yibaochina.com/?p=246914" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246914</a>
+
+### 9: [2022-06-19 06:06:00+08:00 推文](https://twitter.com/realcaixia/status/1538281903173795840)
+
+Re 承鹏文章揭露无耻的中共戈培尔机构，巧妙地通过党国走卒在网上有意带风向，诱导民众互殴，而掩盖累累罪行的极权暴政恶制逃避正义的制裁。<br>承鹏写道：用红码截访真是一大天才发明，健康码就变成了思想码”。“最近发生了太多的事离奇中透着邪恶，邪恶中透着神秘……”“你失去安全感，因为你首先失去真相”
+
+### 10: [2022-06-19 06:15:24+08:00 推文](https://twitter.com/realcaixia/status/1538284267964452864)
+
+Re 承鹏尖锐揭露中共戈培尔机构的罪恶套路：<br>“很久以来，我们已不能为一个问题进行严肃而有含金量的讨论，反倒有个固定程序：事件爆出，各界愤怒谴责……有关部门表示严肃查处，……真相被捂，记者被殴被打，各种删帖封号……被巧妙带节奏，一群好心人互骂消息，各搬起理论，胸口碎大石……下一个轮回。”
+
+### 11: [2022-06-19 06:20:43+08:00 推文](https://twitter.com/realcaixia/status/1538285608979902464)
+
+Re @Eugenewang111 我也是读到那一段，泪水长流。
 
