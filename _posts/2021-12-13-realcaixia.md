@@ -57,7 +57,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 11: [2021-12-16 09:58:41+08:00 推文](https://twitter.com/realcaixia/status/1471298706674704384)
 
-丁家喜律师和许志永律师无罪！<br><br>Luo Shengchun丁家喜律师妻子: #释放丁家喜 #释放许志永 美国国会与行政当局中国委员会CECC的“奥运囚犯”中国良心犯系列：<br>丁家喜律师和许志永律师被指控犯有 "颠覆罪"，并因不懈地倡导中国的法律改革和健全的公民社会而被任意拘留，至今已有近两年时间。他们，以及所有被拘留的维权人士，都应该被释放！<br> <a href="https://twitter.com/CECCgov/status/1470820893941239820" target="_blank" rel="noopener noreferrer">https://twitter.com/CECCgov/status/1470820893941239820</a>
+丁家喜律师和许志永律师无罪！<br><br>Luo Shengchun丁家喜律师妻子: #释放丁家喜 #释放许志永 美国国会与行政当局中国委员会CECC的“奥运囚犯”中国良心犯系列：<br>丁家喜律师和许志永律师被指控犯有 "颠覆罪"，并因不懈地倡导中国的法律改革和健全的公民社会而被任意拘留，至今已有近两年时间。他们，以及所有被拘留的维权人士，都应该被释放！<br> <a href="https://twitter.com/ceccgov/status/1470820893941239820" target="_blank" rel="noopener noreferrer">https://twitter.com/ceccgov/status/1470820893941239820</a>
 
 ### 12: [2021-12-16 11:08:38+08:00 推文](https://twitter.com/realcaixia/status/1471316309300457481)
 
