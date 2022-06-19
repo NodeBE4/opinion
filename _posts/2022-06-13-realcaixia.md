@@ -41,7 +41,7 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 
-上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。
+上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。<br><br>***堆: 复工复惨<br><br><video src="https://video.twimg.com/ext_tw_video/1537393279402405892/pu/vid/1280x720/8O3HogdMzFUIk6_B.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537393279402405892/pu/img/6Tm5XmebD9Rnk3vy.jpg"></video>
 
 ### 8: [2022-06-19 05:49:51+08:00 推文](https://twitter.com/realcaixia/status/1538277840705228800)
 
@@ -62,4 +62,16 @@ Re @Eugenewang111 我也是读到那一段，泪水长流。
 ### 12: [2022-06-19 17:58:42+08:00 推文](https://twitter.com/realcaixia/status/1538461261184253954)
 
 特别推荐#呼吁书：健康码与场所码践踏人权，必须抵制！ - 议报<br>这是一封对全体上海市民的呼吁书。就保护中国人的尊严，保护每个中国人权利而言，希望全中国的民众都来积极响应呼吁书，抵制核酸检测，废除大数据健康码等高科技监控镣铐，回复正常的经济社会生活。 <a href="https://yibaochina.com/?p=246920" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246920</a>
+
+### 13: [2022-06-19 22:35:21+08:00 推文](https://twitter.com/realcaixia/status/1538530881974980609)
+
+今天父亲节。父爱如山，许多人都有各种深入灵魂的感受和领悟。父爱如山，有父亲在就有依靠，父亲给孩子山一般的支撑；父爱如山，父爱不说只默默地为孩子做，一如大山默默无语地守护着滋养着身边的小生灵；父爱如山，父亲为孩子承担生活的煎熬重压，正如大山承受风雪雷电的冲击……父爱如山，我爱父亲！<br><img style="" src="https://pbs.twimg.com/media/FVn1rnSXoAIxl0h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-06-19 22:38:56+08:00 推文](https://twitter.com/realcaixia/status/1538531782991171585)
+
+推荐阅读：<br><br>对话野夫：今天，我们如何做父亲？ <a href="https://mp.weixin.qq.com/s/v6h4UuYey9hOss6OhrR7Bg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/v6h4UuYey9hOss6OhrR7Bg</a>
+
+### 15: [2022-06-19 23:02:46+08:00 推文](https://twitter.com/realcaixia/status/1538537783450533888)
+
+Re 这篇访谈很深刻。一方面我们这样的人对自己革命的父亲，要有一个“思想上精神上“审父”至“弑父”的过程，这才能从历史变迁的角度去认识、反省100年来我们民族的弯路、痛苦、劫难；另一方面现在中共极权统治对民众的压榨，许多父亲不得不抛子“远游”，孩子成长中父亲的缺位，依旧会造成人伦悲剧……<br><img style="" src="https://pbs.twimg.com/media/FVn79V4WAAAr9a2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVn79V2XwAE-aLJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVn79V5XEAA0y4p?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVn79V3WIAIBZ3V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
