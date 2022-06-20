@@ -33,3 +33,7 @@ Stamp 6: 電話 Phone [number]
 
 To put it simply, this is the address and phone number of the Chan Chi Kee Cutlery Company, plus a stamp guaranteeing sharpness.
 
+----- __547.2__ -----2022-06-20 14:32:28+08:00:
+
+No idea; there’s nothing obvious to suggest it and the shop is still around at that address, so it can’t be dated by that.
+
