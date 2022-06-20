@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-06-20~2022-06-26的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 547: [Please help me understand these markings?](https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/), submitted on 2022-06-20 01:59:42+08:00.
+### 548: [Please help me understand these markings?](https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/), submitted on 2022-06-20 01:59:42+08:00.
 
------ __547.1__ -----2022-06-20 11:20:21+08:00:
+----- __548.1__ -----2022-06-20 11:20:21+08:00:
 
 At first I worried it'd be slightly esoteric, but nope, not quite! The 'Made in Hong Kong' was a helpful early giveaway.
 
@@ -33,17 +33,17 @@ Stamp 6: 電話 Phone [number]
 
 To put it simply, this is the address and phone number of the Chan Chi Kee Cutlery Company, plus a stamp guaranteeing sharpness.
 
------ __547.2__ -----2022-06-20 14:32:28+08:00:
+----- __548.2__ -----2022-06-20 14:32:28+08:00:
 
 No idea; there’s nothing obvious to suggest it and the shop is still around at that address, so it can’t be dated by that.
 
------ __547.3__ -----2022-06-20 15:29:50+08:00:
+----- __548.3__ -----2022-06-20 15:29:50+08:00:
 
 Seems like a reasonable enough supposition.
 
-### 548: [What is the oldest depicted visions of the future? (in terms of literature and stories/legends)](https://old.reddit.com/r/AskHistorians/comments/vgjbmp/what_is_the_oldest_depicted_visions_of_the_future/), submitted on 2022-06-20 19:30:58+08:00.
+### 549: [What is the oldest depicted visions of the future? (in terms of literature and stories/legends)](https://old.reddit.com/r/AskHistorians/comments/vgjbmp/what_is_the_oldest_depicted_visions_of_the_future/), submitted on 2022-06-20 19:30:58+08:00.
 
------ __548.1__ -----2022-06-20 20:21:24+08:00:
+----- __549.1__ -----2022-06-20 20:21:24+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
