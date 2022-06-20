@@ -51,3 +51,11 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
+### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
+
+Re @_xiaohan 建议你研究一下美乌共享信息战，原理与你正在论证的完全一样。两国投入大量资源，美国是太空军司令部的网络战部门与相关部门。
+
+### 11: [2022-06-20 11:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1538721088284270593)
+
+Re @wakeup_arrow 魔幻还有后续。最后全国不少学校的家长支持追查，加上那位性别漂移者到另外一县继续犯事被抓，好不容易将“祂”诉上法庭，被强奸女孩的妈妈在庭上大爱无疆，不仅原谅，还要求不判“祂”有罪。
+
