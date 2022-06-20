@@ -329,3 +329,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 I gave up on Extra Credits not long after Extra History became a thing. It's just... *so bad*.
 
+----- __547.2__ -----2022-06-21 03:37:21+08:00:
+
+I never played the game myself, though I did watch bits and pieces of Ludohistory's Twitch streams of it and even appeared as a guest on the last one to have a bit of a chat about its China zone. Playlist here: https://www.youtube.com/watch?v=YTakIeSy4Yk&list=PLvFfHAMv6EH97hZ_B4JUHBuBK4yRAWx5l
+
+It's interesting being someone who mostly operates in historian spaces where most of the critique was really about the *terrible* optics of a colonialism MMO and the game's constant falling back on colonialist tropes and motifs, and then coming over to more mainstream spaces to find that it's also just a shit game.
+
