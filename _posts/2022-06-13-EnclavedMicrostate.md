@@ -29,6 +29,10 @@ TBH there's plenty of options though; you can have knives with an unpolished fin
 
 Or more members are rebranding possibly: [Froot](https://twitter.com/LichVtuber/status/1534607587672477701) has alluded to a 'rebrand' though what that may entail is as yet unclear.
 
+----- __529.4__ -----2022-06-20 15:35:54+08:00:
+
+It probably depends on context. In Hololive's case for instance, it's pretty much just version numbers for their main model, 1.0 being the debut model and 2.0 being a touch-up of that. 3.0 looks to be some kind of clever thingy with more accessories that was teased at the HoloExpo back in March.
+
 ### 530: [These salt-soaked caverns are teeming with pelagic nightmares - they must be flushed out!](https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/), submitted on 2022-06-14 09:04:08+08:00.
 
 ----- __530.1__ -----2022-06-14 11:50:52+08:00:

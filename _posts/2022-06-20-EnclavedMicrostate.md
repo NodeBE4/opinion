@@ -37,3 +37,7 @@ To put it simply, this is the address and phone number of the Chan Chi Kee Cutle
 
 No idea; there’s nothing obvious to suggest it and the shop is still around at that address, so it can’t be dated by that.
 
+----- __547.3__ -----2022-06-20 15:29:50+08:00:
+
+Seems like a reasonable enough supposition.
+
