@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-06-20~2022-06-26'
 
 Henan man Ding administratively detained for 10 days for referring to police as his grandson on Kuaishou, a Chinese short video platform.<br><img style="" src="https://pbs.twimg.com/media/FVu0ir7XsAEhIE9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-06-21 13:36:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539119924873920512)
+
+四川省眉山市男子易肹弘，因在贴吧发言“诽谤”了当地市委书记和市长以及多名国企领导（实为指控他们徇私枉法），被当地公安拘留8日。易肹弘不服，提起行政诉讼，称自己的言论属实，且对方并未报警，所以其言论不应构成违法，但一审二审均败诉。<br><img style="" src="https://pbs.twimg.com/media/FVu7KOWX0AIRrDv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVu7MBOWUAAhN6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVu7NL1WUAIHCS6?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-06-21 13:42:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539121435007909888)
+
+Sichuan man Yi Xihong, who got an 8-day-detention for defaming local mayor and municipal party secretary on Internet, sued the police over the punishment. He claimed that his remarks were true &amp; the victims did not even file any complaint,  but the court upheld the punishment.<br><img style="" src="https://pbs.twimg.com/media/FVu8Ed0WAAAYCK0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVu8F-xWUAAZYXQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVu8HQBWUAAhVEw?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
