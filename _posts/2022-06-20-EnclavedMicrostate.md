@@ -51,9 +51,19 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 550: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
+### 550: [Mod Malding Meltdown - Weekly Discussion Thread, June 20th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/vgntw5/mod_malding_meltdown_weekly_discussion_thread/), submitted on 2022-06-20 23:16:59+08:00.
 
------ __550.1__ -----2022-06-21 17:05:57+08:00:
+----- __550.1__ -----2022-06-21 20:36:55+08:00:
+
+Recorded content means either being or hiring an editor, and as someone who edits podcasts (i.e. *just* audio) as an amateur, boy is editing time-consuming. On top of that, depending on what kind of content you're making, edited videos may not offer that much of an advantage and in fact even have drawbacks. Gameplay for instance is more conducive to interaction with an audience.
+
+----- __550.2__ -----2022-06-21 20:41:25+08:00:
+
+Pretty sure Kronii, Mumei and Fauna have only met two each of Myth and Council (besides themselves)
+
+### 551: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
+
+----- __551.1__ -----2022-06-21 17:05:57+08:00:
 
 The premises of this question are half-right. Russia isn't normally my specialism although I happen to be read up on a few relevant areas so I'll give this question the best stab I can.
 
@@ -85,9 +95,9 @@ Russia's long-term interests in the Pacific would be somewhat curtailed thanks t
 
 I think it's worth adding a little coda here by pointing out that we tend to conceive of imperialism as a maritime endeavour when it really isn't. Imperialism is about control of *land*, and the fact that our colloquial images of colonial and imperial powers happen to be maritime is arguably just coincidence. Russia's imperial expansion in the latter half of the nineteenth century was considerable, and extended across multiple regions. The most territorially substantial was its conquest of Central Asia from the 1850s to the 1880s, but there were also considerable operations against the Ottoman Empire and Iran. These conquests saw Russia extend its control over Dagestan, Chechnya, Georgia, Armenia, and Azerbaijan, just to name the most substantial of the Caucasian polities, and Russia would also force the Ottoman Empire to cede independence to Romania, Serbia, Montenegro, and Bulgaria. That Russia's expansion was over contiguous landmass doesn't make it any less of an imperial power, and ultimately the aims and modes of that imperialism were entirely analogous to those of other imperial powers: presumptions of racial and/or civilisational superiority mixed with pragmatic desires for natural resources and strategic territory.
 
-### 551: [Takane Lui🥀's 3D Reveal Discussion Thread #鷹嶺ルイ3D](https://old.reddit.com/r/Hololive/comments/vh9quu/takane_luis_3d_reveal_discussion_thread_鷹嶺ルイ3d/), submitted on 2022-06-21 18:00:14+08:00.
+### 552: [Takane Lui🥀's 3D Reveal Discussion Thread #鷹嶺ルイ3D](https://old.reddit.com/r/Hololive/comments/vh9quu/takane_luis_3d_reveal_discussion_thread_鷹嶺ルイ3d/), submitted on 2022-06-21 18:00:14+08:00.
 
------ __551.1__ -----2022-06-21 19:04:01+08:00:
+----- __552.1__ -----2022-06-21 19:04:01+08:00:
 
 Riot double-averted.
 

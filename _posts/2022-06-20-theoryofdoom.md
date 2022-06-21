@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-20
+date: 2022-06-21
 from: https://old.reddit.com/r/AskReddit/comments/vgiy1z/whats_an_opinion_you_have_thats_considered/
 layout: post
 tags:
@@ -36,4 +36,22 @@ My Top 5 Non-Fiction:
 3. Ages of Discord: A Structural-Demographic Analysis of American History, by Peter Turchin; 
 4. Mostly Harmless Econometrics: An Empiricist's Companion, by Joshua D. Angrist; and 
 5. The Dictator's Handbook: Why Bad Behavior Is Almost Always Good Politics, by Bruce bueno de Mesquita.
+
+### 309: [The Banality of Putin and Xi: Tyrants are not the strategic geniuses some make them out to be.](https://old.reddit.com/r/geopolitics/comments/vgpo09/the_banality_of_putin_and_xi_tyrants_are_not_the/), submitted on 2022-06-21 00:36:36+08:00.
+
+----- __309.1__ -----2022-06-21 20:23:47+08:00:
+
+No Paywall: https://archive.ph/MSfrm
+
+### 310: [Russian sport has embarked on a degradation route](https://old.reddit.com/r/geopolitics/comments/vh9uuc/russian_sport_has_embarked_on_a_degradation_route/), submitted on 2022-06-21 18:07:17+08:00.
+
+----- __310.1__ -----2022-06-21 20:11:22+08:00:
+
+This is interesting, but not proper for /r/geopolitics.
+
+### 311: [Started working out again after a 2 years relationship, this is the results after 4,5 months](https://old.reddit.com/r/GYM/comments/vhb1sr/started_working_out_again_after_a_2_years/), submitted on 2022-06-21 19:23:43+08:00.
+
+----- __311.1__ -----2022-06-21 20:20:56+08:00:
+
+Keep it up!  Great progress so far!
 
