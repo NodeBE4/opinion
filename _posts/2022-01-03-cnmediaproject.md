@@ -45,11 +45,11 @@ In a bid to advance Chinese state narratives more credibly overseas, CCP media h
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 
-Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style="" src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-01-08 09:56:39+08:00 推文](https://twitter.com/cnmediaproject/status/1479633113131421696)
 
-Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style="" src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2022-01-08 10:49:38+08:00 推文](https://twitter.com/caixin/status/1479646447729479685)
 
@@ -57,7 +57,7 @@ RT Caixin Global<br>Weekend Long Read: Chinese cuisine has been hard to judge 
 
 ### 11: [2022-01-08 14:05:27+08:00 推文](https://twitter.com/cnmediaproject/status/1479695726209036289)
 
-Just stumbled across this wonderful historical example of how CCP official discourse reverberates through all disciplines in China in ways that are often absurd and giggle-inducing. Well-needed humor as we head into a year of pre-20th Congress CCP gobbledygook.<br><img style="" src="https://pbs.twimg.com/media/FIjvXcjaUAE1zq0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Just stumbled across this wonderful historical example of how CCP official discourse reverberates through all disciplines in China in ways that are often absurd and giggle-inducing. Well-needed humor as we head into a year of pre-20th Congress CCP gobbledygook.<br><img style src="https://pbs.twimg.com/media/FIjvXcjaUAE1zq0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-09 23:39:43+08:00 推文](https://twitter.com/GeringTuvia/status/1480202634829127687)
 

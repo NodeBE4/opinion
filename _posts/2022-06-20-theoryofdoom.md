@@ -25,3 +25,15 @@ A casual review of [the evidence](https://brownstone.org/articles/more-than-400-
 
 So called "fact checks" are not evidence.
 
+### 308: [Your Top 5 Non-fiction books.](https://old.reddit.com/r/suggestmeabook/comments/vgorc3/your_top_5_nonfiction_books/), submitted on 2022-06-20 23:57:46+08:00.
+
+----- __308.1__ -----2022-06-21 12:21:07+08:00:
+
+My Top 5 Non-Fiction:
+
+1. The Black Swan: The Impact of the Highly Improbable, by Nassim Nicholas Taleb; 
+2. The Fourth Turning: An American Prophecy, by Neil Howe and William Strauss;
+3. Ages of Discord: A Structural-Demographic Analysis of American History, by Peter Turchin; 
+4. Mostly Harmless Econometrics: An Empiricist's Companion, by Joshua D. Angrist; and 
+5. The Dictator's Handbook: Why Bad Behavior Is Almost Always Good Politics, by Bruce bueno de Mesquita.
+
