@@ -139,3 +139,23 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br><br>陶瑞 TaoRay: 马斯克18岁的儿子刚刚成年，进行了变性，最近向法院提交文件，要求更改名字、姓氏以及性别，并在文件中声称要彻底断绝和生父的一切连系，不相往来。<br><br>哎，家家有本难念的经，首富也不例外。马斯克曾经发推称他支持变性人，但是各种Pronouns是噩梦。<br>
 
+### 32: [2022-06-22 01:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1539294342761914368)
+
+大阪法院判决 日政府不承认同性婚不违宪 <br>3对同性伴侣向大阪地方法院提起诉讼，是日本同类型诉讼做出判决的第2起。<br>先前的首起判决中，北海道札幌地方法院于2021年3月判决日本政府违宪，创下日本先河，但这次的不违宪判决，令维权人士盼加强施压日本政府承认同性婚的希望破灭 <a href="https://rfi.my/8W4C.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8W4C.T</a>
+
+### 33: [2022-06-22 01:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1539296267167272963)
+
+美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力 <a href="https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report" target="_blank" rel="noopener noreferrer">https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report</a>
+
+### 34: [2022-06-22 03:14:41+08:00 推文](https://twitter.com/HeQinglian/status/1539325952647483392)
+
+Re @shenliangqing2 狱中数岁，美国已经沧海桑田，国际社会单极变多极，世界局势也不能再按照过去那种“民主”与“非民主体制”来认识。
+
+### 35: [2022-06-22 03:28:00+08:00 推文](https://twitter.com/HeQinglian/status/1539329306211532803)
+
+Re @JianglinLi @RealBeiMing @david_david1968 @ngexp @Wu_Zhi 这帮子青年不懂事，真想做回异性，就先异装癖一回，男穿裙子，女穿男装，玩够了，再回来。割器官可不是好玩的事情。
+
+### 36: [2022-06-22 03:29:11+08:00 推文](https://twitter.com/HeQinglian/status/1539329602279067648)
+
+Re @princeton_walk @JianglinLi 拜登支持率又回升一个点？
+
