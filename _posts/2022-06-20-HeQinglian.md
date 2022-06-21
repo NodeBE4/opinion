@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-20
+date: 2022-06-21
 from: https://twitter.com/HeQinglian/status/1538621797154922497
 layout: post
 tags:
@@ -78,4 +78,8 @@ Re @_xiaohan 将一位香港人的话转给你：<br>香港不是原来的香港
 ### 16: [2022-06-20 23:49:04+08:00 推文](https://twitter.com/HeQinglian/status/1538911821721133057)
 
 Re @cskun1989 美国政府又不是给所有的人发钱。
+
+### 17: [2022-06-21 10:15:23+08:00 推文](https://twitter.com/HeQinglian/status/1539069438724558848)
+
+Re @mingshi_chen 保重。听起来，你应该在中国？美国可不给人吃伊维菌素。
 
