@@ -83,3 +83,43 @@ Re @cskun1989 美国政府又不是给所有的人发钱。
 
 Re @mingshi_chen 保重。听起来，你应该在中国？美国可不给人吃伊维菌素。
 
+### 18: [2022-06-21 21:20:56+08:00 推文](https://twitter.com/HeQinglian/status/1539236929379647488)
+
+昨天看韩剧《第五共和国》1979年朴正熙被枪杀案，发现中情部长金载圭完全未谋划，而是血气之勇。<br>1976年叶、汪、华逮捕四人帮，那谋划之周密、等待时机之耐心，与金载圭刺杀相比高了几个等级。<br>中国传说的李克强倒习，可能二者都不是，口头操练。
+
+### 19: [2022-06-21 21:34:54+08:00 推文](https://twitter.com/HeQinglian/status/1539240445548560384)
+
+美国LNG终端发生爆炸致欧洲天然气价格跃升<br>美国最大液化天然气出口终端之一发生爆炸后将关闭至少三周，其间美国将失去大约五分之一液化产能。这突显出全球能源供应的脆弱性。<br>欧洲当真是祸不单行。 <a href="https://d2b0shd2ijglgd.cloudfront.net/story/001096341?archive" target="_blank" rel="noopener noreferrer">https://d2b0shd2ijglgd.cloudfront.net/story/001096341?archive</a>
+
+### 20: [2022-06-21 21:38:45+08:00 推文](https://twitter.com/HeQinglian/status/1539241414533566466)
+
+Re 这部片子说明军权如何重要，国务总理等一干文官就是棋子，任全斗焕等心机智谋野心都不缺的军人摆布。
+
+### 21: [2022-06-21 21:40:09+08:00 推文](https://twitter.com/HeQinglian/status/1539241766318112779)
+
+Re @JianglinLi 这种天气还行，少用能源，多吃生鲜蔬果。再过几个月，恐怕不好办。
+
+### 22: [2022-06-21 21:44:45+08:00 推文](https://twitter.com/HeQinglian/status/1539242922444570624)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 不要意外。今年5月布林肯已经说了，美国今后推广以LGBTQI+女权的人权价值观，希望各国政府配合。<br>合规者，就是美国认可的“民主国家”；不合规者，就是“非民主国家”。<br>不要说这不是事实，我发过布林肯宣言的链接，他本人的推号。
+
+### 23: [2022-06-21 21:45:42+08:00 推文](https://twitter.com/HeQinglian/status/1539243164787171334)
+
+Re @JianglinLi 有条消息，美国有家公司专供欧洲烧柴的木头，中西部树林大幅度减少。
+
+### 24: [2022-06-21 21:48:02+08:00 推文](https://twitter.com/HeQinglian/status/1539243749204688897)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 在2020年以前，美国务院人权报告还是指出这一点的。2021年的不知出来没有，如果出来了，我相信一定有迫害LGBTQI的内容。
+
+### 25: [2022-06-21 21:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1539245372580700161)
+
+Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
+
+### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
+
+转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
+
+### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @RealBeiMing @ngexp 澳大利亚莫里斯下台，新总理上任，是“民主的胜利”——据说选举原来用元珠笔，这次改用铅笔。😂
+
