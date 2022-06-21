@@ -37,7 +37,7 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 6: [2022-06-19 04:23:09+08:00 推文](https://twitter.com/realcaixia/status/1538256019259854848)
 
-这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？
+这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？<br><br>ZHANGDONG: 这是释放什么信号？<br><br><img style="" src="https://pbs.twimg.com/media/FVimFF6XwAAdzoB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 
