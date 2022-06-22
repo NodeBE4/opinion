@@ -37,7 +37,7 @@ Re 这些言论中的部分出处如下：<br><img style="" src="https://pbs.twi
 
 ### 6: [2022-01-06 11:48:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936453594116099)
 
-Hebei man Zhang detained for 5 days for referring to police as "Licensed police dogs" in Kuaishou.<br><img style="" src="https://pbs.twimg.com/media/FIY8qpRX0AI1q98?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8sOJWYAgl22v?format=png&name=orig" referrerpolicy="no-referrer">
+Hebei man Zhang detained for 5 days for referring to police as "Licensed police dogs" in Kuaishou.<br><img style="" src="https://pbs.twimg.com/media/FIY8qpRX0AI1q98?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8sOJWYAgl22v?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-07 22:27:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1479459721727954944)
 
