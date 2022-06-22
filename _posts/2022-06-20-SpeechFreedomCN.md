@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-06-21
+date: 2022-06-22
 from: https://twitter.com/SpeechFreedomCN/status/1539067077272604673
 layout: post
 tags:
@@ -30,4 +30,12 @@ Henan man Ding administratively detained for 10 days for referring to police as 
 ### 4: [2022-06-21 13:42:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539121435007909888)
 
 Sichuan man Yi Xihong, who got an 8-day-detention for defaming local mayor and municipal party secretary on Internet, sued the police over the punishment. He claimed that his remarks were true &amp; the victims did not even file any complaint,  but the court upheld the punishment.<br><img style="" src="https://pbs.twimg.com/media/FVu8Ed0WAAAYCK0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVu8F-xWUAAZYXQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVu8HQBWUAAhVEw?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-06-22 10:03:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539428709756653569)
+
+Re 河北省高阳县医院LED屏辱华案后续：当事人李某已于2019年7月被当地检方以寻衅滋事罪提起公诉。<br><img style="" src="https://pbs.twimg.com/media/FVvBT06WUAIobeW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-06-22 10:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539429716205006848)
+
+Re Just learned that Li had been prosecuted in Jul 2019. Unsurprisingly, the charge against him was Picking Quarrel and Provoking Trouble.<br><img style="" src="https://pbs.twimg.com/media/FVvCbiLWIAI3Euw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
