@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-21
+date: 2022-06-22
 from: https://twitter.com/cnmediaproject/status/1538724476317503493
 layout: post
 tags:
@@ -30,4 +30,8 @@ RT Björn Jerdén<br>Happy to present our new report, written by @nolczak, com
 ### 4: [2022-06-21 21:54:47+08:00 推文](https://twitter.com/muyixiao/status/1539245449416171523)
 
 RT Muyi Xiao<br>From iris scans to voice prints, phone tracking to DNA data, the Chinese authorities’ appetite for personal data is growing. <br><br>Our latest visual investigation — drawing from over 100k documents — reveals new details of the data-hungry surveillance state. <a href="https://www.nytimes.com/video/world/asia/100000008314175/china-government-surveillance-data.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/video/world/asia/100000008314175/china-government-surveillance-data.html</a>
+
+### 5: [2022-06-22 11:24:18+08:00 推文](https://twitter.com/cnmediaproject/status/1539449170918244353)
+
+Re @Maoviews More 表态, or "loyalty signaling." Important to keep watching. Our recent piece on this: White Smoke, Black Smoke. <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FV04z3VacAAmXDm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
