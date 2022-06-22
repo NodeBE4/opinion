@@ -117,3 +117,65 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Former Lincoln undergraduate here, soon to be Masters student at Mansfield: don't worry about it, in short. Lincoln's a very tight-knit community but even as an undergraduate it's very much your own preference as to how much you do at your 'own' college vs other communities like sports teams or clubs or just impromptu friend groups.
 
+### 555: [I rode the Goombus and saw the Gura lightboxes today! (Route plan in comments)](https://old.reddit.com/r/Hololive/comments/vi16tj/i_rode_the_goombus_and_saw_the_gura_lightboxes/), submitted on 2022-06-22 17:31:44+08:00.
+
+----- __555.1__ -----2022-06-22 18:04:13+08:00:
+
+So a few notes because the Twitter account for the project doesn't seem to have included as much detail as some past promotions:
+
+### Ocean Park MTR station lightboxes (Reflect)
+
+These are **inside the paid area of the station**, so you can get off the train, have a look/take photos, and get on another train without having to pay the fare for getting off at Ocean Park.
+
+### Tsing Yi MTR station lightbox (Victoria Harbour scene)
+
+This is **outside** the paid area, near exit 1A, so you will have to pay the fare for getting off at Tsing Yi Station.
+
+### The Bus
+
+So, the actual bus is on **Route 11D** from Lok Fu to Kwun Tong Ferry Pier, *not* Route 1A as per the promotional images. The trip between the two lasts around 35 minutes depending on traffic and buses depart every 20 minutes, so as a general rule the bus will depart one terminus either 40 or 60 minutes after it departed the previous one, depending on if there's another bus to serve as a buffer. The AcrossBus tracker is entirely volunteer-run, so you may have to do some estimating based on the last known location. Also, because both terminuses are basically also on the same MTR line you might be able to outrun the bus by taking a train if you miss it at either one, but uh, don't quote me on that – bear in mind that Kwun Tong Ferry Pier is about 1km from the station, so uh, walk fast.
+
+## My Route Plan
+
+[Map](https://imgur.com/ssZ49G0)
+
+I needed to be on Ap Lei Chau this morning so that was fortunate in that it meant I'd pass through Ocean Park station anyway. From there I went to Tsing Yi by MTR, got out to take a snap of the lightbox there, then took the MTR to Lok Fu and got on the Goombus to Kwun Tong Ferry Pier and made my way home from there. For a more detailed breakdown, it went:
+
+1. South Horizons –[South Island Line]–> Ocean Park (Reflect lightboxes)
+
+1. Ocean Park –[South Island Line]–> Admiralty
+
+1. Admiralty –[Tsuen Wan Line]–> Central/Hong Kong
+
+1. Central/Hong Kong –[Tung Chung Line]–> Tsing Yi (Victoria Harbour lightbox)
+
+1. Tsing Yi –[Tung Chung Line]–> Lai King
+
+1. Lai King –[Tsuen Wan Line]–> Prince Edward
+
+1. Prince Edward –[Kwun Tong Line]–> Lok Fu
+
+1. Lok Fu –[11D]–> Kwun Tong Ferry Pier
+
+In terms of fares overall, it was $14.3 to get from South Horizons to Tsing Yi, $8.3 to get from Tsing Yi to Lok Fu, and $5.4 to ride the 11D, for a neat $28 overall (excluding other transport fees like getting to Ap Lei Chau from home and back home from Kwun Tong.
+
+## Thought Experiment: The Most Efficient Route Plan
+
+Given that you *have* to get out at Tsing Yi but not at Ocean Park, probably the most cost-efficient route (excluding costs of getting to the start and end stations) would be to go from Tsing Yi to Lok Fu or vice versa but detouring to Ocean Park (taking the bus being optional), which compresses it all to a single trip where you just have to pay the $8.3 Tsing Yi<–>Lok Fu fare.
+
+So, assuming that you are able to catch the bus from Kwun Tong Ferry Pier to Lok Fu at the start, the best route for the MTR leg would be:
+
+1. Lok Fu –[Kwun Tong Line]–> Kowloon Tong
+
+1. Kowloon Tong –[East Rail Line]–> Admiralty
+
+1. Admiralty –[South Island Line]–> Ocean Park
+
+1. Ocean Park –[South Island Line]–> Admiralty
+
+1. Admiralty –[Tsuen Wan Line]–> Lai King
+
+1. Lai King –[Tung Chung Line]–> Tsing Yi
+
+Or vice versa, if you think you can time it just right to get on the bus at Lok Fu.
+
