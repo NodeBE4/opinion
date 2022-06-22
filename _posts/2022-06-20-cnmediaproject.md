@@ -35,3 +35,7 @@ RT Muyi Xiao<br>From iris scans to voice prints, phone tracking to DNA data, t
 
 Re @Maoviews More 表态, or "loyalty signaling." Important to keep watching. Our recent piece on this: White Smoke, Black Smoke. <a href="https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/16/white-smoke-black-smoke/</a><br><img style="" src="https://pbs.twimg.com/media/FV04z3VacAAmXDm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-06-22 15:07:39+08:00 推文](https://twitter.com/bumingbaipod/status/1539505379884736512)
+
+RT 不明白播客<br>上海封城期间《小鸟文学》出版了三份特刊，把散落在互联网上的文字和图像用编辑的语言和审美记录了下来。欢迎在《不明白播客》官网阅读这三份特刊：<br>同时希望大家能在App Store下载、订阅《小鸟文学》，支持优秀的原创文学作品: <a href="https://bit.ly/3zTSoaV" target="_blank" rel="noopener noreferrer">https://bit.ly/3zTSoaV</a> <a href="https://apple.co/3ObDr8A" target="_blank" rel="noopener noreferrer">https://apple.co/3ObDr8A</a><br><img style="" src="https://pbs.twimg.com/media/FV1rlXTUEAAd59m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

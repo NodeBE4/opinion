@@ -61,6 +61,16 @@ Recorded content means either being or hiring an editor, and as someone who edit
 
 Pretty sure Kronii, Mumei and Fauna have only met two each of Myth and Council (besides themselves)
 
+----- __550.3__ -----2022-06-22 19:55:24+08:00:
+
+> similarly to how most Western streamers’ organizations are currently running
+
+Not necessarily. I had a look at the 5 mid-sized EN agencies back when there were still 5 mid-sized agencies and Tsunderia and Cyberlive hadn't yet reorganised, and only Tsunderia and Phase-Connect had any members (and even then, only two each) who had previously been either independent or at another agency. VShojo being majority ex-indie is relatively unusual for a larger EN agency.
+
+----- __550.4__ -----2022-06-22 19:59:14+08:00:
+
+Well, more pedantically, she said 'we will be with Calli soon'. And that, uh, could go in either direction...
+
 ### 551: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
 
 ----- __551.1__ -----2022-06-21 17:05:57+08:00:
@@ -117,9 +127,15 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Former Lincoln undergraduate here, soon to be Masters student at Mansfield: don't worry about it, in short. Lincoln's a very tight-knit community but even as an undergraduate it's very much your own preference as to how much you do at your 'own' college vs other communities like sports teams or clubs or just impromptu friend groups.
 
-### 555: [I rode the Goombus and saw the Gura lightboxes today! (Route plan in comments)](https://old.reddit.com/r/Hololive/comments/vi16tj/i_rode_the_goombus_and_saw_the_gura_lightboxes/), submitted on 2022-06-22 17:31:44+08:00.
+### 555: [Is deep frying cheese something people do nowadays?](https://old.reddit.com/r/StupidFood/comments/vhwlhi/is_deep_frying_cheese_something_people_do_nowadays/), submitted on 2022-06-22 12:36:34+08:00.
 
------ __555.1__ -----2022-06-22 18:04:13+08:00:
+----- __555.1__ -----2022-06-22 20:18:48+08:00:
+
+Czech [Smažený sýr](https://en.wikipedia.org/wiki/Sma%C5%BEen%C3%BD_s%C3%BDr) (made with Edam, Hermelin, or Emmental), Italian [Carrozza](https://en.wikipedia.org/wiki/Carrozza_(sandwich\)) (mozzarella), Swiss [Malakoff](https://en.wikipedia.org/wiki/Malakoff_(food\)) (typically Gruyère), and Dutch [Kaassoufflé](https://en.wikipedia.org/wiki/Kaassouffl%C3%A9) (typically Gouda) just to name a few examples of fried cheese dishes that have been around for a good while.
+
+### 556: [I rode the Goombus and saw the Gura lightboxes today! (Route plan in comments)](https://old.reddit.com/r/Hololive/comments/vi16tj/i_rode_the_goombus_and_saw_the_gura_lightboxes/), submitted on 2022-06-22 17:31:44+08:00.
+
+----- __556.1__ -----2022-06-22 18:04:13+08:00:
 
 So a few notes because the Twitter account for the project doesn't seem to have included as much detail as some past promotions:
 
