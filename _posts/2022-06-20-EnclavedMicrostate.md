@@ -71,6 +71,10 @@ Not necessarily. I had a look at the 5 mid-sized EN agencies back when there wer
 
 Well, more pedantically, she said 'we will be with Calli soon'. And that, uh, could go in either direction...
 
+----- __550.5__ -----2022-06-23 06:12:58+08:00:
+
+AFAIK they haven't said how long she'd be in the US for.
+
 ### 551: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
 
 ----- __551.1__ -----2022-06-21 17:05:57+08:00:
