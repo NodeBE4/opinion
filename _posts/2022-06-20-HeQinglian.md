@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -165,7 +165,7 @@ Re @JianglinLi @david_david1968 @RealBeiMing @Wu_Zhi @HongfuDing @ngexp Mark了�
 
 ### 38: [2022-06-22 21:17:02+08:00 推文](https://twitter.com/HeQinglian/status/1539598337455841280)
 
-昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。
+昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。<br><br>He Qinglian: 昨天看韩剧《第五共和国》1979年朴正熙被枪杀案，发现中情部长金载圭完全未谋划，而是血气之勇。<br>1976年叶、汪、华逮捕四人帮，那谋划之周密、等待时机之耐心，与金载圭刺杀相比高了几个等级。<br>中国传说的李克强倒习，可能二者都不是，口头操练。<br>
 
 ### 39: [2022-06-22 21:19:23+08:00 推文](https://twitter.com/HeQinglian/status/1539598929322450945)
 
@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
@@ -198,4 +198,16 @@ Re @Dchu07559344 性别多元化与变性之类，不是国家解体，而是社
 ### 46: [2022-06-23 04:57:43+08:00 推文](https://twitter.com/HeQinglian/status/1539714273127063552)
 
 Re @RealBeiMing @Wu_Zhi @JianglinLi @david_david1968 @HongfuDing @ngexp 污名化普京一直存在。<br>十余年前，《时代》周刊的封面用普京的照片合成一张头上长角，嘴里伸出两个獠牙的魔鬼。用反问句问<br>“这是谁？<br>是魔鬼。<br>不对，是普京；他太象魔鬼了。不，他就是魔鬼。”<br>叙利亚之后，就更加起劲了。
+
+### 47: [2022-06-23 09:50:36+08:00 推文](https://twitter.com/HeQinglian/status/1539787979538956288)
+
+Re @seadognw 2020年3月，美联储公布的一组数据显示：40%的美国人拿不出400美元的现金。<br>只有两个可能：<br>一、拜登执政后，美国人在高通胀与工资未增长的情况下，攒了不少现金；<br>二、美联储撒谎。
+
+### 48: [2022-06-23 10:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1539791681175912454)
+
+Re @showtail401401 关于联合国的腐败、性骚扰指控一直存在，都内部消化了。
+
+### 49: [2022-06-23 10:07:39+08:00 推文](https://twitter.com/HeQinglian/status/1539792270190411776)
+
+Re @franktianxie 问题是：这2000头骡子及其背后的人对美国造成的伤害，就算全被抓，也弥补不了万一。
 
