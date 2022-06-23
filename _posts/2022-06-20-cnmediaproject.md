@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-23
+date: 2022-06-24
 from: https://twitter.com/cnmediaproject/status/1538724476317503493
 layout: post
 tags:
@@ -54,4 +54,20 @@ In our most recent article, we look at the internal system of not-so-secret pen 
 ### 10: [2022-06-23 20:50:53+08:00 推文](https://twitter.com/cnmediaproject/status/1539954145209516032)
 
 Do you know your secret CCP pen names? Who is "Zhong Zuwen"? "Wang Xingping"? "Ding Xuelei"? In this piece we take a look at the history of official homophone bylines in the Party-state media. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FV8EIQhagAE1ELt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-06-23 23:06:58+08:00 推文](https://twitter.com/ericfish85/status/1539988391961542656)
+
+RT Eric Fish<br>China's official youth unemployment is 18.4%. Job market flooded w/ unprecedented surge of new grads (10.8m, beating last year's record by 1.7m). One recruiter said entry-level job market is worse than Financial Crisis; new jobs down 20-30% from last year. <a href="https://www.reuters.com/world/china/record-numbers-chinese-graduates-enter-worst-job-market-decades-2022-06-23/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china/record-numbers-chinese-graduates-enter-worst-job-market-decades-2022-06-23/</a>
+
+### 12: [2022-06-24 02:16:55+08:00 推文](https://twitter.com/ryanl_hass/status/1540036191864643585)
+
+RT Ryan Hass<br>This piece provides a useful reminder of the gap between rhetoric versus reality on US-China economic decoupling. Headlines may point toward economic disentanglement. Trendlines point stubbornly in direction of interdependence, at least for now. <a href="https://foreignpolicy.com/2022/06/22/united-states-china-decoupling-business-ties/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2022/06/22/united-states-china-decoupling-business-ties/</a>
+
+### 13: [2022-06-24 07:18:47+08:00 推文](https://twitter.com/cnmediaproject/status/1540112158465216512)
+
+Re @niubi 不断提高政治判断力、政治领悟力、政治执行力，做到“总书记有号令、党中央有部署，浙江见行动”，坚定不移做“两个确立”忠诚拥护者、“两个维护”示范引领者
+
+### 14: [2022-06-24 07:23:48+08:00 推文](https://twitter.com/cnmediaproject/status/1540113422280364032)
+
+Re @niubi "The general secretary commands, we act." Much more 表态 (loyalty signaling) to come ahead of the 20th Congress.
 
