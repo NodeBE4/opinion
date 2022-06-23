@@ -51,3 +51,7 @@ RT Mathieu Duchâtel<br>Le Yucheng, the man who was demoted for being openly t
 
 In our most recent article, we look at the internal system of not-so-secret pen names used in China that allow official departments and sometimes individuals to make their views known through party-state media. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FV7JgwkaUAAXtIK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-06-23 20:50:53+08:00 推文](https://twitter.com/cnmediaproject/status/1539954145209516032)
+
+Do you know your secret CCP pen names? Who is "Zhong Zuwen"? "Wang Xingping"? "Ding Xuelei"? In this piece we take a look at the history of official homophone bylines in the Party-state media. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FV8EIQhagAE1ELt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

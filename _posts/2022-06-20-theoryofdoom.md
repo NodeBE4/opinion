@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-21
+date: 2022-06-23
 from: https://old.reddit.com/r/AutoModerator/comments/vfzquf/how_to_prevent_people_who_frequent_certain_subs/
 layout: post
 tags:
@@ -76,4 +76,20 @@ This is interesting, but not proper for /r/geopolitics.
 ----- __312.1__ -----2022-06-21 20:20:56+08:00:
 
 Keep it up!  Great progress so far!
+
+### 313: [Defending Ukraine: Early Lessons from the Cyber War](https://old.reddit.com/r/geopolitics/comments/vivkxf/defending_ukraine_early_lessons_from_the_cyber_war/), submitted on 2022-06-23 20:17:50+08:00.
+
+----- __313.1__ -----2022-06-23 20:33:32+08:00:
+
+Submission Statement:
+
+Brad Smith (Microsoft President & Vice Chair) discusses Microsoft's [newly issued report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE50KOK) accounting for the role of technology in Russia's current war in Ukraine, particularly the Russian military's strategy for cyber attacks, network penetration and espionage.  Further, this report considers how stakeholders can coordinate to better counter these threats in Ukraine and other future potential conflict theaters.  
+
+For many familiar with that conflict these conclusions will be unsurprising, but this report's analysis reaches five main points:
+
+* Countries must be able to disperse and distribute digital operations and data assets across borders, for their defense against military invasion to be effective.
+* Cyber-attacks are a reality of current military conflict, meaning that cyber threat intelligence and end-point protections must be regarded as a critical part of operations.  
+* The threat posed by network penetration (including to infrastructure) and espionage is not limited to domestic infrastructure, but includes every stakeholder with whom intelligence is shared.  
+* Allied strategy must account for the coordinated, global cyber-based influence operations used to support military operations and advance objectives of foreign state actors.  
+* Allied countries must coordinate infrastructure hardening and defense strengthening against the full range of destructive, espionage and influence operations.
 
