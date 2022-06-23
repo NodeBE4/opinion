@@ -43,3 +43,11 @@ Re Just learned that Li had been prosecuted in Jul 2019. Unsurprisingly, the cha
 
 其实在去年7月，山东临沂也发生了一起类似事件。当地一家口腔诊所门口的LED显示屏被黑客入侵，然后滚动播放“交警二逼城管二逼”的文字。当时当地官方唯一做出的回应就是警方已介入调查，但是自此就没有了下文，所以该黑客应该是没有被抓到。<br><video src="https://video.twimg.com/ext_tw_video/1539700148141424640/pu/vid/1280x720/AEp_EfrdE3c0Lypg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1539700148141424640/pu/img/1blhfo2CRjhxwDMi.jpg"></video>
 
+### 8: [2022-06-23 11:31:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539813244356808704)
+
+2021年7月，辽宁省大石桥市男子张某文和张某军，因在公共场合进行街头表演并扮演侵华日军和汉奸，被认定为辱华，被当地公安处以拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FV0DkkIXsAAa8Vq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FV0DmdeXoAEdBP4?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FV0DqJeXEAM4XCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-06-23 11:36:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539814501804933120)
+
+Two men in Liaoning Province, both surnamed Zhang, detained for 5 days by police in last July for performing a street show in which they played a Japanese soldier and a Chinese traitor. Police claimed the show insulted China.<br><img style="" src="https://pbs.twimg.com/media/FV0EPkrXEAIUVeF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FV0ERkGXsAEpJTS?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FV0ET94XwAEbu_p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
