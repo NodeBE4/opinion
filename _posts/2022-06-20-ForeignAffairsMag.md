@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-06-21
+date: 2022-06-23
 from: https://old.reddit.com/r/TrueReddit/comments/vgoqt6/gustavo_petros_big_win_colombias_first_leftist/
 layout: post
 tags:
@@ -49,4 +49,29 @@ They are, however, discussed in the West, which has been near jubilant about Ukr
 This thinking is based on a faulty reading of history. The Soviet Union did not collapse for the reasons Westerners like to point to: a humiliating defeat in Afghanistan, military pressure from the United States and Europe, nationalistic tensions in its constituent republics, and the siren song of democracy. In reality, it was misguided Soviet economic policies and a series of political missteps by Soviet leader Mikhail Gorbachev that caused the country to self-destruct. And Putin has learned a great deal from the Soviet collapse, managing to avoid the financial chaos that doomed the Soviet state despite intense sanctions. Russia today features a very different combination of resilience and vulnerability than the one that characterized the late-era Soviet Union. This history matters because in thinking about the war in Ukraine and its aftermath, the West should avoid projecting its misconceptions about the Soviet collapse onto present-day Russia.
 
 But that doesn’t mean the West is helpless in shaping Russia’s future. Putin’s regime is more stable than Gorbachev’s was, but if the West can stay unified, it may still be able to slowly undermine the Russian president’s power. Putin grossly miscalculated by invading Ukraine, and in doing so he has exposed the regime’s vulnerabilities—an economy that is much more interdependent with Western economies than its Soviet predecessor ever was and a highly concentrated political system that lacks the tools for political and military mobilization possessed by the Communist Party. If the war grinds on, Russia will become a less powerful international actor. A prolonged invasion may even lead to the kind of chaos that brought down the Soviet Union. But Western leaders cannot hope for such a quick, decisive victory. They will have to deal with an authoritarian Russia, however weakened, for the foreseeable future."
+
+### 283: [Beijing Is Still Playing the Long Game on Taiwan: Why China Isn’t Poised to Invade](https://old.reddit.com/r/taiwan/comments/viyjrj/beijing_is_still_playing_the_long_game_on_taiwan/), submitted on 2022-06-23 22:43:49+08:00.
+
+----- __283.1__ -----2022-06-23 22:44:15+08:00:
+
+\[SS\]
+
+"Concern is growing in Taiwan, in the United States, and among U.S. allies in Asia that China is preparing to attack Taiwan in the near future. Testifying before the U.S. Senate Armed Services Committee last year, Admiral Philip Davidson, then the commander of the U.S. Indo-Pacific Command, warned that Beijing might attempt to seize the island in the next six years. Unifying Taiwan with mainland China is a key element of Chinese President Xi Jinping’s “Chinese dream.” And as the political scientist Oriana Skylar Mastro has argued in these pages, Xi wants “unification with Taiwan to be part of his personal legacy,” suggesting that an armed invasion could come before the end of his third term as secretary-general of the Chinese Communist Party in 2027 and almost certainly before the end of his probable fourth term in 2032.  
+
+
+Putin’s war in Ukraine has intensified these concerns. Xi’s announcement just before the Russian invasion of a “no limits” partnership with Moscow, coupled with his failure to condemn Putin’s actions and the Chinese media’s endorsement of Russian propaganda, seem to signal Beijing’s support for Russia’s territorial aggression. Beijing may see a strategic opening now that U.S. political and military resources are tied up in Europe. Moreover, Chinese leaders may have interpreted the West’s response to the Russian attack as an indication that the United States will not intervene militarily to defend a country to which it is not bound by a defense treaty, especially against a nuclear-armed adversary. As David Sacks of the Council on Foreign Relations has argued, “Chinese policymakers may conclude that Russia’s nuclear arsenal effectively deterred the United States, which would be unwilling to go to war with a nuclear power over Taiwan.”  
+
+
+But fears of an imminent Chinese attack are misplaced. For decades, China’s policy toward Taiwan has been characterized by strategic patience, as has its approach to other territorial claims and disputes—from India to the South China Sea. Far from spurring China to jettison this approach in favor of an imminent military assault on Taiwan, the war in Ukraine will reinforce Beijing’s commitment to playing the long game. The price Moscow has paid, both militarily and in the form of international isolation, is but a fraction of what China could expect if it were to attempt to take Taiwan by force. Better to wait patiently for Taiwan’s eventual surrender, as Beijing sees it, than to strike now and risk winning the island at too high a cost—or losing it forever."
+
+### 284: [What Money Can’t Buy: The Limits of Economic Power](https://old.reddit.com/r/TrueReddit/comments/viylwr/what_money_cant_buy_the_limits_of_economic_power/), submitted on 2022-06-23 22:46:30+08:00.
+
+----- __284.1__ -----2022-06-23 22:47:00+08:00:
+
+\[SS\]
+
+"The United States has a long history of wielding economic instruments to achieve its foreign policy goals. Precedents can be found at least as far back as the Embargo Act of 1807, when U.S. President Thomas Jefferson blocked imports in an effort to push back against British and French interference in U.S. trade. But there is an equally long history recording the inability of such instruments to alter the fundamental behavior of another party. The 1807 embargo, for instance, failed to hurt British and French interests and fueled, rather than prevented, conflict between the United Kingdom and the United States, culminating in the War of 1812. Nor does exercising economic power necessarily induce political shifts: economic penalties and rewards rarely lead to regime change, for example.  
+
+
+The application of economic power is changing in one crucial respect, however: the growing importance of international coordination. Economic power has always been more effective when exerted by a coalition of countries. But in a multipolar global economy, where essential goods and services can be sourced from an increasing number of national suppliers, the importance of coordination for effective application is greater still. Consider the Trump administration’s tariffs on Chinese exports, which were imposed solely by Washington and produced no significant changes in Beijing’s economic behavior. The Biden administration surely had that failure in mind when it enlisted the support of a broad coalition of like-minded governments before imposing sanctions on Russia. Going forward, U.S. economic power will depend more and more on Washington’s ability to foster unity in an increasingly fractured world."
 
