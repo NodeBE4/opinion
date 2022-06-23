@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-22
+date: 2022-06-23
 from: https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/
 layout: post
 tags:
@@ -227,4 +227,16 @@ Welcome to /r/AskHistorians, and thank you for your submission. Unfortunately, h
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 559: [what historical/geographical/demographic reasons are there for why most unifications of china came from dynasties that started north of the yangtze vs south of the yangtze?](https://old.reddit.com/r/AskHistorians/comments/vicn8q/what_historicalgeographicaldemographic_reasons/), submitted on 2022-06-23 03:01:04+08:00.
+
+----- __559.1__ -----2022-06-23 17:00:18+08:00:
+
+Thanks to /u/10thousand_stars for writing a very broad-ranging answer (I was contemplating doing one myself but my expertise simply doesn't range that far). I do, however, want to raise a bit of an issue with the question's discussion of northern 'barbarian' polities.
+
+To put it quite bluntly, the Mongols were the only nomadic people that successfully conquered all of China proper, and only did so thanks to an incredible amount of deliberate effort and diplomatic manoeuvring. The rivers running West-East through China, most prominently the Yangtze, were quite substantial obstacles to the Mongols, and would be circumvented through invading the indigenous kingdom of Dali in what is now Yunnan via Tibet and the more fordable upper reaches of the Yangtze in Sichuan. Even then, it took over 25 years after the subjugation of the Dali kingdom for the Mongols to overrun the territory of Southern Song. In other words the Mongol conquest in this region was made possibly only by creating an entirely new invasion route from scratch, on the part of a power with substantial enough control over neighbouring regions to be able to do so.
+
+Earlier regimes of nomadic origin were generally unsuccessful in penetrating outside of northern China, as southern states were generally successful at maintaining stalemate lines on major rivers. For instance, northern Wei, which existed roughly from the late fourth to early sixth centuries CE, halted at the Yangtze; the Jurchen Jin state, which existed from the early twelfth century until its conquest by the Mongols over the course of 1211-34, extended only as far as the Huai. No nomadic polity before the Mongols established any sustained dominion of a region south of the Huai, let alone the Yangtze, and no nomadic polity would establish substantial control over any part of China proper again. The Manchus, it is worth noting, were *not* nomadic, outside of the northernmost portions of Jurchen-speakers known to the Ming as *Yeren* ('wild people'). The vast majority of the Jurchen people that became the Manchus were sedentary agriculturalists, with the patriarchs of free Jurchen households also involved in communal hunts to supplement agrarian food sources (in addition to fishing and sedentary herding where these were possible). While the Manchus and Mongols had a number of cultural similarities, societally speaking they were quite distinct.
+
+All this to say that there is a tendency for discussions of the relationship between China and the nomadic world to fall into two opposite extremes: on the one hand there's the 'Sinicisation' model that asserts that nomadic influence was invariably ephemeral and that Chinese culture simply overwhelmed that of nomadic societies, and on the other there's the sort of hot take meme that nomads overran imperial China on a regular basis. The answer really lies somewhere in between: *northern* China was historically quite tied into the nomadic world, whereas southern China was not.
 
