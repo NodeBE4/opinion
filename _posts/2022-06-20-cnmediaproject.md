@@ -43,3 +43,11 @@ RT 不明白播客<br>上海封城期间《小鸟文学》出版了三份特�
 
 Pen Names for Power Struggles: A historical look at the internal system of not-so-secret codes in China by which those in positions of power can make their views known through the media under their control. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FV6j_yqagAA3pVU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-06-23 14:43:51+08:00 推文](https://twitter.com/mtdtl/status/1539861777642672128)
+
+RT Mathieu Duchâtel<br>Le Yucheng, the man who was demoted for being openly too pro-Russian. It tells us that China wants to calibrate the diplomatic messaging and avoid excesses but it does not tell us that Chinese foreign policy is turning less pro-Russia. <a href="https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-Russia-hand-s-demotion-signals-shift-in-Xi-s-strategy" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-Russia-hand-s-demotion-signals-shift-in-Xi-s-strategy</a>
+
+### 9: [2022-06-23 16:35:01+08:00 推文](https://twitter.com/cnmediaproject/status/1539889752610344960)
+
+In our most recent article, we look at the internal system of not-so-secret pen names used in China that allow official departments and sometimes individuals to make their views known through party-state media. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FV7JgwkaUAAXtIK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
