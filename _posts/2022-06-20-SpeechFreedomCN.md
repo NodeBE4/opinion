@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-06-22
+date: 2022-06-23
 from: https://twitter.com/SpeechFreedomCN/status/1539067077272604673
 layout: post
 tags:
@@ -38,4 +38,8 @@ Re 河北省高阳县医院LED屏辱华案后续：当事人李某已于2019年7
 ### 6: [2022-06-22 10:07:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539429716205006848)
 
 Re Just learned that Li had been prosecuted in Jul 2019. Unsurprisingly, the charge against him was Picking Quarrel and Provoking Trouble.<br><img style="" src="https://pbs.twimg.com/media/FVvCbiLWIAI3Euw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-06-23 10:02:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1539790846081597441)
+
+其实在去年7月，山东临沂也发生了一起类似事件。当地一家口腔诊所门口的LED显示屏被黑客入侵，然后滚动播放“交警二逼城管二逼”的文字。当时当地官方唯一做出的回应就是警方已介入调查，但是自此就没有了下文，所以该黑客应该是没有被抓到。<br><video src="https://video.twimg.com/ext_tw_video/1539700148141424640/pu/vid/1280x720/AEp_EfrdE3c0Lypg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1539700148141424640/pu/img/1blhfo2CRjhxwDMi.jpg"></video>
 

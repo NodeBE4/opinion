@@ -199,6 +199,14 @@ So, assuming that you are able to catch the bus from Kwun Tong Ferry Pier to Lok
 
 Or vice versa, if you think you can time it just right to get on the bus at Lok Fu.
 
+----- __556.2__ -----2022-06-23 11:58:59+08:00:
+
+It would, yes.
+
+----- __556.3__ -----2022-06-23 11:59:20+08:00:
+
+Gawrdzilla.
+
 ### 557: [One of the most profound anti-Semitic allegation is the relationship between the Jew and money. Even Marx, rather vehemently mentions this in his 'On the Jewish Question'- " What is his secular god? Money...".](https://old.reddit.com/r/AskHistorians/comments/vi6fp9/one_of_the_most_profound_antisemitic_allegation/), submitted on 2022-06-22 22:22:48+08:00.
 
 ----- __557.1__ -----2022-06-22 22:50:32+08:00:
