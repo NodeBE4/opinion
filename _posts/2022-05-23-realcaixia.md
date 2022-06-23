@@ -57,7 +57,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
-权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。<br><br>戴姐: @im1266 @ZhouFengSuo 徐汇区汇贤居从昨晚和居委理论到今天中午全员解封👍模子！原来解封也得靠自己争取  。<br><br><video src="https://video.twimg.com/ext_tw_video/1528737541704552449/pu/vid/720x1280/Y7Bg_OgO6T8dVfxI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528737541704552449/pu/img/xNTCf6aq4txc2gCY.jpg"></video>
+权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。
 
 ### 12: [2022-05-24 02:23:49+08:00 推文](https://twitter.com/realcaixia/status/1528803906666614785)
 
@@ -93,7 +93,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -117,7 +117,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
-💔
+💔<br><br>韩连潮: 看到这张照片仍无动于衷的，我不知道他们是什么！<br><br><img style="" src="https://pbs.twimg.com/media/FTmkwgvXsAASlep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
@@ -133,7 +133,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 30: [2022-05-26 23:05:36+08:00 推文](https://twitter.com/realcaixia/status/1529841185031716864)
 
-清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。<br><br>Jam: “习主席，太伟大了！他做主席，做一辈子”，中国人口不用计划生育,也要减半。<br><br><video src="https://video.twimg.com/ext_tw_video/1529653249585860609/pu/vid/640x368/qR0MHZzcuVXN3qXg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1529653249585860609/pu/img/GutYr44ZW7OaG9rj.jpg"></video>
+清零的“丰功伟绩”——经济大盘将崩，5/25李克强召开全国稳住经济大盘会议。李期望挽回经济，挽救中共党国将崩塌的统治基础，习和习小兄弟伙要保的是权力宝座。习李分歧明朗，各自代表不同利益。
 
 ### 31: [2022-05-27 07:36:34+08:00 推文](https://twitter.com/realcaixia/status/1529969775803260931)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。
+请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 
