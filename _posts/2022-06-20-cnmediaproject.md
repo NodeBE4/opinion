@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-22
+date: 2022-06-23
 from: https://twitter.com/cnmediaproject/status/1538724476317503493
 layout: post
 tags:
@@ -38,4 +38,8 @@ Re @Maoviews More 表态, or "loyalty signaling." Important to keep watching. Ou
 ### 6: [2022-06-22 15:07:39+08:00 推文](https://twitter.com/bumingbaipod/status/1539505379884736512)
 
 RT 不明白播客<br>上海封城期间《小鸟文学》出版了三份特刊，把散落在互联网上的文字和图像用编辑的语言和审美记录了下来。欢迎在《不明白播客》官网阅读这三份特刊：<br>同时希望大家能在App Store下载、订阅《小鸟文学》，支持优秀的原创文学作品: <a href="https://bit.ly/3zTSoaV" target="_blank" rel="noopener noreferrer">https://bit.ly/3zTSoaV</a> <a href="https://apple.co/3ObDr8A" target="_blank" rel="noopener noreferrer">https://apple.co/3ObDr8A</a><br><img style="" src="https://pbs.twimg.com/media/FV1rlXTUEAAd59m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-06-23 13:50:55+08:00 推文](https://twitter.com/cnmediaproject/status/1539848455820292097)
+
+Pen Names for Power Struggles: A historical look at the internal system of not-so-secret codes in China by which those in positions of power can make their views known through the media under their control. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FV6j_yqagAA3pVU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
