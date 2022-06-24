@@ -343,3 +343,29 @@ He doesn't, although in the most recent episode there's a blink-and-you'll-miss-
 
 Is this the infamous Ricky D. Phillips, Falklands War conspiracy theorist and alleged Hannibal march route discoverer? As a direct participant in part of the drama (I was and still technically am a mod of r/badhistory, where a part of it played out), I would be *very* interested in a more detached take. For what it's worth, he is *very* willing to be abusive, it's just he seems to have done so in spaces that are/were, shall we say, relatively well-moderated.
 
+----- __547.5__ -----2022-06-25 02:53:49+08:00:
+
+I'm very torn on Strange New Worlds, but not because I think it's badly executed. Frankly, assuming that episodes 9 and 10 maintain the level of quality of 1-8, its first season will have been the most consistently high-quality season Trek has ever produced. The cast is brilliant, I like the dialogue, I like the production design, and I think it mostly handles its diversity in a way that kind of *is* in your face without *feeling* in your face, if that's a good way of putting it.
+
+*But*.
+
+When it comes to the episode concepts, I keep having the feeling of, 'haven't we seen this *many* times before'? Pretty much every episode draws on some standard Trek episode formulae:
+
+* Episode 1: Undercover mission on a pre-warp planet Gone Wrong – see TOS The Return of the Archons, TNG First Contact, ENT The Communicator
+
+* Episode 2: Communicating with a sentient being via a method other than conventional language – TOS The Devil In the Dark, TNG Darmok
+
+* Episode 3: Space Disease causes people to act weird – TOS The Naked Time, TNG The Naked Now, DS9 Fascination, ENT Singularity
+
+* Episode 4: Submarine hunt + ship in crisis – TOS Balance of Terror, Wrath of Khan, DS9 Civil Defense
+
+* Episode 5: The not-too-funny but still bemusing comedy hijinks episode + body swap – TOS The Trouble With Tribbles, DS9 Little Green Men, VOY Body and Soul
+
+* Episode 6: The literary adaptation (in this case of Ursula Le Guin's *Those Who Walk Away From Omelas*) – TOS The Enemy Within (*Dr Jekyll and Mr Hyde*), TOS Obsession (*Moby Dick*), Wrath of Khan (also *Moby Dick*), DS9 Fascination (*A Midsummer Night’s Dream*)
+
+* Episode 7: Space pirates – TNG Gambit, VOY Basics, ENT Shockwave
+
+* Episode 8: Non-space-disease thing causes characters to act out of character or at least messes with the costuming – TNG Qpid, TNG Masks, DS9 Our Man Bashir
+
+The thing is, they're all done *well*. And there are definitely sparks of originality in every one. Just to name a few, episode 3 has an interesting if cut-short rumination on Trek's scepticism of transhumanism through a character who *hasn't* internalised an anti-transhuman perspective the way Bashir had on DS9; episode 6 goes for a classic SF/fantasy work that Trek *hasn't* previously engaged with directly; and I really like how episode 7 tries to tease at some more complex views of identity by having a gender-nonbinary character try to connect with Spock's own struggle with a different sort of non-binary identity. I get that on some level every story has been told, I just have this feeling that Strange New Worlds isn't doing much, er, new, even if it's fantastically good at doing it.
+
