@@ -71,3 +71,7 @@ Re @niubi 不断提高政治判断力、政治领悟力、政治执行力，做�
 
 Re @niubi "The general secretary commands, we act." Much more 表态 (loyalty signaling) to come ahead of the 20th Congress.
 
+### 15: [2022-06-24 14:42:41+08:00 推文](https://twitter.com/cnmediaproject/status/1540223871005388800)
+
+Pen Names for Power Struggles: A look into the CCP's odd system of not-so-secret codes for commentaries by senior officials and departments. <a href="https://bit.ly/3u2P35B" target="_blank" rel="noopener noreferrer">https://bit.ly/3u2P35B</a><br><img style="" src="https://pbs.twimg.com/media/FV_5cWdaAAASSmm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

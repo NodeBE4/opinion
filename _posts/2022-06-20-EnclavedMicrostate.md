@@ -256,3 +256,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 562: [That's.... uhhh... an interesting way to put it](https://old.reddit.com/r/Hololive/comments/vjev0k/thats_uhhh_an_interesting_way_to_put_it/), submitted on 2022-06-24 11:33:02+08:00.
+
+----- __562.1__ -----2022-06-24 15:32:50+08:00:
+
+Wait, what ring?
+
