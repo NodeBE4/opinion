@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-06-23
+date: 2022-06-24
 from: https://old.reddit.com/r/TrueReddit/comments/vgoqt6/gustavo_petros_big_win_colombias_first_leftist/
 layout: post
 tags:
@@ -74,4 +74,24 @@ But fears of an imminent Chinese attack are misplaced. For decades, China’s po
 
 
 The application of economic power is changing in one crucial respect, however: the growing importance of international coordination. Economic power has always been more effective when exerted by a coalition of countries. But in a multipolar global economy, where essential goods and services can be sourced from an increasing number of national suppliers, the importance of coordination for effective application is greater still. Consider the Trump administration’s tariffs on Chinese exports, which were imposed solely by Washington and produced no significant changes in Beijing’s economic behavior. The Biden administration surely had that failure in mind when it enlisted the support of a broad coalition of like-minded governments before imposing sanctions on Russia. Going forward, U.S. economic power will depend more and more on Washington’s ability to foster unity in an increasingly fractured world."
+
+### 285: [How America Can Feed the World: To Prevent a Global Food Crisis, Expand the Lend-Lease Program](https://old.reddit.com/r/TrueReddit/comments/vjpc93/how_america_can_feed_the_world_to_prevent_a/), submitted on 2022-06-24 22:09:50+08:00.
+
+----- __285.1__ -----2022-06-24 22:10:09+08:00:
+
+\[SS\]
+
+"The United States and its allies responded to Russia’s invasion with alacrity in supplying Ukraine with weapons and intelligence to repel Russian forces. They now need to muster a similar response in staving off a full-blown international food crisis. To do so, the United States can draw from its own history. Its World War II–era lend-lease programs sent copious amounts of food to sustain the British and Soviet war efforts. The United States remains the world’s largest exporter of agricultural produce and can turn that bounty to good use today. Working with the World Food Program (WFP), the private sector, and other partners, the United States can save millions of lives and demonstrate leadership on the international stage by delivering food to those who need it the most."
+
+### 286: [The Perils of Pessimism: Why Anxious Nations Are Dangerous Nations](https://old.reddit.com/r/geopolitics/comments/vjpcv9/the_perils_of_pessimism_why_anxious_nations_are/), submitted on 2022-06-24 22:10:39+08:00.
+
+----- __286.1__ -----2022-06-24 22:11:10+08:00:
+
+\[SS from the article Daniel W. Drezner, Professor of International Politics at Tufts University\]
+
+"The dirty secret about international relations is that although everyone agrees about the importance of power, no one can agree on how to define or measure it. There are occasional moments when a consensus exists about the distribution of power: think of U.S. hegemony a generation ago. There are more moments when the relative strength and influence of the great powers remains unclear: think of the last decade of international politics, which was shaped by multiple competing narratives about the rise of China and the decline of the United States. And there are moments when the entire question of international power is put to the test: think of times when major wars break out, such as the one currently being fought between Russia and Ukraine.
+
+People commonly think of power as a country’s ability to force others to do what that country wants. Experts usually measure it by looking at military might or GDP. But these are at best partial—and at worst biased—views. And they reveal very little about how a state may or may not act. Left out in such accountings of power is a crucial factor: expectations about the future and whether state leaders believe in an optimistic or a pessimistic destiny for their country. If leaders believe the future looks unfavorable, they will be tempted to take risky actions in the present to forestall further decline, which can lead to arms races and brinkmanship during crises. In contrast, optimistic leaders foresee a brighter future ahead for their country and thus favor strategic patience, which tends to produce investments in global governance.
+
+The United States and its allies and partners have been pleasantly surprised by the trajectory of the war in Ukraine, which many believed Russia would win easily and quickly. Unfortunately, however, this sense of optimism might prove fleeting—and, needless to say, it is hardly shared by Moscow and Beijing. Indeed, it is possible to envision a scenario in which the conflict in Ukraine makes the whole world even more pessimistic about the future, which could mean a much greater likelihood of great-power war."
 
