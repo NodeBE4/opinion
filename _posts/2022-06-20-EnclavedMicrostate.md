@@ -258,9 +258,15 @@ While I suspect more could be said on the specific dynamics of trade in the era 
 
 Picard in, er, *Picard*. For all that the series gets maligned, I don't think the critique that its portrayal of Picard is out of character rings true at all.
 
-### 562: [Camille Desmoulins "started" the French Revolution in a café. What other significant historical events began at a coffee house?](https://old.reddit.com/r/AskHistorians/comments/vjc9bf/camille_desmoulins_started_the_french_revolution/), submitted on 2022-06-24 09:14:32+08:00.
+### 562: [Khorone (Recolor from the official Sonic Korone outfit)](https://old.reddit.com/r/Hololive/comments/vj1zr1/khorone_recolor_from_the_official_sonic_korone/), submitted on 2022-06-24 01:16:50+08:00.
 
------ __562.1__ -----2022-06-24 12:30:41+08:00:
+----- __562.1__ -----2022-06-24 20:44:14+08:00:
+
+Wayward younger cousin.
+
+### 563: [Camille Desmoulins "started" the French Revolution in a café. What other significant historical events began at a coffee house?](https://old.reddit.com/r/AskHistorians/comments/vjc9bf/camille_desmoulins_started_the_french_revolution/), submitted on 2022-06-24 09:14:32+08:00.
+
+----- __563.1__ -----2022-06-24 12:30:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -268,39 +274,39 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 563: [That's.... uhhh... an interesting way to put it](https://old.reddit.com/r/Hololive/comments/vjev0k/thats_uhhh_an_interesting_way_to_put_it/), submitted on 2022-06-24 11:33:02+08:00.
+### 564: [That's.... uhhh... an interesting way to put it](https://old.reddit.com/r/Hololive/comments/vjev0k/thats_uhhh_an_interesting_way_to_put_it/), submitted on 2022-06-24 11:33:02+08:00.
 
------ __563.1__ -----2022-06-24 15:32:50+08:00:
+----- __564.1__ -----2022-06-24 15:32:50+08:00:
 
 Wait, what ring?
 
------ __563.2__ -----2022-06-24 15:42:30+08:00:
+----- __564.2__ -----2022-06-24 15:42:30+08:00:
 
 Cheers!
 
-### 564: [In modern Greek, β is pronounced the way we pronounce V. When did it change?](https://old.reddit.com/r/AskHistorians/comments/vjgruy/in_modern_greek_β_is_pronounced_the_way_we/), submitted on 2022-06-24 13:21:21+08:00.
+### 565: [In modern Greek, β is pronounced the way we pronounce V. When did it change?](https://old.reddit.com/r/AskHistorians/comments/vjgruy/in_modern_greek_β_is_pronounced_the_way_we/), submitted on 2022-06-24 13:21:21+08:00.
 
------ __564.1__ -----2022-06-24 15:44:10+08:00:
+----- __565.1__ -----2022-06-24 15:44:10+08:00:
 
 Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/linguistics.
 
 If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
-### 565: [If the Holocaust wouldn’t have happened and Germany still lost the war, would the Allies still have banned the Nazi party? How knowledgeable were the Allies on Germany’s racial policies?](https://old.reddit.com/r/AskHistorians/comments/vji6jl/if_the_holocaust_wouldnt_have_happened_and/), submitted on 2022-06-24 14:51:10+08:00.
+### 566: [If the Holocaust wouldn’t have happened and Germany still lost the war, would the Allies still have banned the Nazi party? How knowledgeable were the Allies on Germany’s racial policies?](https://old.reddit.com/r/AskHistorians/comments/vji6jl/if_the_holocaust_wouldnt_have_happened_and/), submitted on 2022-06-24 14:51:10+08:00.
 
------ __565.1__ -----2022-06-24 15:45:24+08:00:
+----- __566.1__ -----2022-06-24 15:45:24+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 566: [What are the historical discoveries recently that we have benefited from in the modern days?](https://old.reddit.com/r/AskHistorians/comments/vjinnm/what_are_the_historical_discoveries_recently_that/), submitted on 2022-06-24 15:22:43+08:00.
+### 567: [What are the historical discoveries recently that we have benefited from in the modern days?](https://old.reddit.com/r/AskHistorians/comments/vjinnm/what_are_the_historical_discoveries_recently_that/), submitted on 2022-06-24 15:22:43+08:00.
 
------ __566.1__ -----2022-06-24 15:45:38+08:00:
+----- __567.1__ -----2022-06-24 15:45:38+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 567: [If we were to count the average African-American's lineage through "immigrant generations", how many would it be?](https://old.reddit.com/r/AskHistorians/comments/vjiwzr/if_we_were_to_count_the_average_africanamericans/), submitted on 2022-06-24 15:40:55+08:00.
+### 568: [If we were to count the average African-American's lineage through "immigrant generations", how many would it be?](https://old.reddit.com/r/AskHistorians/comments/vjiwzr/if_we_were_to_count_the_average_africanamericans/), submitted on 2022-06-24 15:40:55+08:00.
 
------ __567.1__ -----2022-06-24 15:45:51+08:00:
+----- __568.1__ -----2022-06-24 15:45:51+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
