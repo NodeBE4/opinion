@@ -95,3 +95,12 @@ People commonly think of power as a country’s ability to force others to do wh
 
 The United States and its allies and partners have been pleasantly surprised by the trajectory of the war in Ukraine, which many believed Russia would win easily and quickly. Unfortunately, however, this sense of optimism might prove fleeting—and, needless to say, it is hardly shared by Moscow and Beijing. Indeed, it is possible to envision a scenario in which the conflict in Ukraine makes the whole world even more pessimistic about the future, which could mean a much greater likelihood of great-power war."
 
+### 287: [A Post-Roe World?: Why Abortion Battles in America Won’t Halt Reform Abroad](https://old.reddit.com/r/geopolitics/comments/vjqyc4/a_postroe_world_why_abortion_battles_in_america/), submitted on 2022-06-24 23:24:24+08:00.
+
+----- __287.1__ -----2022-06-24 23:25:28+08:00:
+
+\[SS from the article by Nina Brooks, Minzee Kim, Elizabeth Heger Boyle, and Wesley Longhofer\]
+
+"Reversing Roe will have profound implications for abortion access in the United States. Such a decision will also have ramifications abroad, particularly if a judicial ruling empowers future U.S. presidential administrations to push for restrictions on abortion in other parts of the world.  
+It is important, however, not to overstate U.S. influence on global abortion policy. The 1973 case was a landmark in allowing abortion access and served as an example to abortion advocates across the world. But in the 50 years since, the United States’ international messaging on abortion has been incoherent. U.S. law made abortion legal at home, but additional legislation that followed gave U.S. presidential administrations tools to restrict access abroad. Indeed, the United States, with policies that are at worst obstructionist and at best inconsistent, has been instrumental in blocking international agreement on abortion liberalization. Nevertheless, the global trend has slowly moved toward greater access to abortion."
+
