@@ -231,3 +231,15 @@ Re @Wu_Zhi @RealBeiMing @JianglinLi @david_david1968 @HongfuDing @ngexp 如果�
 
 现在思考国际关系，最好在地缘政治与全球主义的人权高于主权这两套标准中择一，如果二者混用，最后折腾糊涂的是自己。<br>接收难民，是人权高于主权；本国国土安全，是地缘政治的国家利益。<br>我见多了一些两套标准混用的人。
 
+### 55: [2022-06-24 08:43:09+08:00 推文](https://twitter.com/HeQinglian/status/1540133389545652225)
+
+德国在将该国的天然气风险级别提高到第二高的“警报”阶段后，经济部长罗伯特·哈贝克表示，能源供应商被迫以高价弥补损失，俄罗斯削减欧洲天然气供应的举措有引发能源市场崩溃的风险，这是世界能源业的雷曼危机。 <br>问：此时放弃制裁，不就避免崩溃了么？ <a href="https://news.bloomberglaw.com/securities-law/germany-warns-of-lehman-like-contagion-from-russian-gas-cuts-1" target="_blank" rel="noopener noreferrer">https://news.bloomberglaw.com/securities-law/germany-warns-of-lehman-like-contagion-from-russian-gas-cuts-1</a>
+
+### 56: [2022-06-24 08:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1540134899616710656)
+
+Re 此情景让我想起一寓言：<br>有夫妻俩听说河豚美味但有毒，决定试吃。烹调好后端上桌，两人互相谦让，最后抓阉，由妻子试吃。妻子含泪叮嘱丈夫：我死之后请善待子女，丈夫含泪点头。在门外听壁脚多时的邻居推门而入，将河豚打翻在地，说：既然有毒，为什么要吃？<br>——既然制裁成了这结果，中断制裁不行么？
+
+### 57: [2022-06-24 08:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1540136026114609155)
+
+德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。<br><br>华尔街日报中文网: 欧盟领导人周四同意让乌克兰成为加入该集团的正式候选国，为未来几年可能加入欧盟打开了大门。<br>同时，德国政府启动了其应对天然气短缺的三步计划中的第二步，距离天然气配给制更近一步。如果实行配给制可能将德国这个欧洲最大的经济体推入衰退。<br> <a href="https://on.wsj.com/3zUF0Dw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zUF0Dw</a>
+
