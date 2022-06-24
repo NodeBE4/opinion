@@ -75,3 +75,7 @@ Re @niubi "The general secretary commands, we act." Much more 表态 (loyalty si
 
 Pen Names for Power Struggles: A look into the CCP's odd system of not-so-secret codes for commentaries by senior officials and departments. <a href="https://bit.ly/3u2P35B" target="_blank" rel="noopener noreferrer">https://bit.ly/3u2P35B</a><br><img style="" src="https://pbs.twimg.com/media/FV_5cWdaAAASSmm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 16: [2022-06-24 15:47:46+08:00 推文](https://twitter.com/cnmediaproject/status/1540240251524124672)
+
+Rocketing Praise for Xi: Loyalty signaling at the most senior levels of the CCP fired up further this week with words of ardent love for the general secretary from Zhejiang's top leader, an aerospace engineer. <a href="https://chinamediaproject.org/2022/06/24/rocketing-praise-for-xi/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/24/rocketing-praise-for-xi/</a><br><img style="" src="https://pbs.twimg.com/media/FWAIVzgaMAA4Dta?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
