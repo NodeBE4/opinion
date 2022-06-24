@@ -29,9 +29,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 Re 3. HKers are anxious and insecure. Most of them are in support of the pro-democracy movement, therefore they left Hong Kong with trauma and worries of persecution. They fear that Chinese agents in the UK would send their activity records back to Hong Kong, thus endangering them.
 
-### 4: [2022-04-19 23:23:00+08:00 推文](https://twitter.com/nathanlawkc/status/1516437213428527110)
+### 4: [2022-04-19 23:23:00+08:00 推文](https://twitter.com/nathanlawkc/status/1516437215479488512)
 
-Re 4. HKers don’t trust the Chinese govt and organizations. The Chinese govt is a dictatorial regime that destroyed our home. Many Chinese community organizations in the UK support the political lines of CCP. More than 200 of them endorsed the National Security Law.
+Re 5. The UK government should understand that if grants dedicated to the integration of Hong Kong people are awarded to pro-Beijing groups, it only creates an opposite effect which makes Hongkongers feel unwelcome and sacred. <a href="https://www.thetimes.co.uk/article/china-infiltrates-groups-welcoming-hongkongers-to-britain-f2w903c05" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/china-infiltrates-groups-welcoming-hongkongers-to-britain-f2w903c05</a>
 
 ### 5: [2022-04-19 23:23:01+08:00 推文](https://twitter.com/nathanlawkc/status/1516437217186566145)
 
