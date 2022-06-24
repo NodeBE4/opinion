@@ -335,3 +335,11 @@ I never played the game myself, though I did watch bits and pieces of Ludohistor
 
 It's interesting being someone who mostly operates in historian spaces where most of the critique was really about the *terrible* optics of a colonialism MMO and the game's constant falling back on colonialist tropes and motifs, and then coming over to more mainstream spaces to find that it's also just a shit game.
 
+----- __547.3__ -----2022-06-25 02:23:39+08:00:
+
+He doesn't, although in the most recent episode there's a blink-and-you'll-miss-it visual reference in that the book that Dr. Mbenga reads to his daughter was written by Benny Russell.
+
+----- __547.4__ -----2022-06-25 02:24:53+08:00:
+
+Is this the infamous Ricky D. Phillips, Falklands War conspiracy theorist and alleged Hannibal march route discoverer? As a direct participant in part of the drama (I was and still technically am a mod of r/badhistory, where a part of it played out), I would be *very* interested in a more detached take. For what it's worth, he is *very* willing to be abusive, it's just he seems to have done so in spaces that are/were, shall we say, relatively well-moderated.
+
