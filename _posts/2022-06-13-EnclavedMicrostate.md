@@ -373,3 +373,11 @@ The thing is, they're all done *well*. And there are definitely sparks of origin
 
 That's fair, but I suppose if you ever want a co-writer who did a little reading on the Falklands in the past, I am willing to render my services.
 
+----- __547.7__ -----2022-06-25 20:13:42+08:00:
+
+Or use a site like camas.unddit.com.
+
+----- __547.8__ -----2022-06-25 20:23:09+08:00:
+
+I was wondering how long it would take for it to reach HobbyDrama. All told, I feel like there isn't much to discuss or at least not really anywhere it can still go. Both parties are essentially agreeing to disagree, and unless Mikeneko develops a more extreme case of lastworditis, this is probably where it all ends.
+

@@ -79,6 +79,10 @@ AFAIK they haven't said how long she'd be in the US for.
 
 She's mentioned trying to set up a 'second base' in the US for a while and if I'm not mistaken there was one stream where she mentioned her mum had been helping her set it up while she was in Japan.
 
+----- __550.7__ -----2022-06-25 20:07:26+08:00:
+
+It's honestly not too unusual for agencies at this point. Cyberlive for instance essentially dissolved and exists mostly as a loose network for its now-indie talents. And actually, upd8 let its talents retain their avatars after dissolving (which in a sense makes what happened with Nobuhime all the more tragic.)
+
 ### 551: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
 
 ----- __551.1__ -----2022-06-21 17:05:57+08:00:
