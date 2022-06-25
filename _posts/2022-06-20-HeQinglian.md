@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-25
+date: 2022-06-26
 from: https://twitter.com/HeQinglian/status/1538621797154922497
 layout: post
 tags:
@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
+转发，BBC近几年以来，这算做了件正经事。
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 
@@ -137,7 +137,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 31: [2022-06-22 00:59:50+08:00 推文](https://twitter.com/HeQinglian/status/1539292020371599360)
 
-关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br><br>陶瑞 TaoRay: 马斯克18岁的儿子刚刚成年，进行了变性，最近向法院提交文件，要求更改名字、姓氏以及性别，并在文件中声称要彻底断绝和生父的一切连系，不相往来。<br><br>哎，家家有本难念的经，首富也不例外。马斯克曾经发推称他支持变性人，但是各种Pronouns是噩梦。<br>
+关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。
 
 ### 32: [2022-06-22 01:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1539294342761914368)
 
@@ -297,7 +297,7 @@ Re @david_david1968 这我完全不能同意。
 
 ### 71: [2022-06-25 04:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1540436264884834304)
 
-立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？
+立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？<br><br>He Qinglian: 美国投票机有问题，但没钱更换，美国缺钱：<br>布伦南中心和验证投票的联合分析发现，更换老化的投票设备将花费数亿美元。<br>近年来，这些模型中的一些“翻转”投票，由于与老化硬件相关的校准错误，触摸屏错误记录了选民的选择。这反过来又导致了病毒视频和机器“窃取选票”的阴谋论。<br> <a href="https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022" target="_blank" rel="noopener noreferrer">https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022</a>
 
 ### 72: [2022-06-25 13:10:44+08:00 推文](https://twitter.com/bonsandcake/status/1540563119096881152)
 
@@ -305,7 +305,7 @@ RT Stacy Chen 🇨🇦🇺🇸<br>Re @franktianxie 从“1-6委员会”，到
 
 ### 73: [2022-06-25 21:11:23+08:00 推文](https://twitter.com/HeQinglian/status/1540684079456059392)
 
-堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗
+堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗<br><br>RFI 華語 - 法國國際廣播電台: 美最高法院終結墮胎權憲法保障後，美西岸3州承諾捍衛墮胎權<br><br><img style="" src="https://pbs.twimg.com/media/FWDXjlXUAAAlx1N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Wuu.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Wuu.t</a>
 
 ### 74: [2022-06-25 21:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1540684709931274240)
 
@@ -342,4 +342,24 @@ Re @KELMAND1 当真是近朱者赤，与一群喉咙里伸出手，专靠左派�
 ### 82: [2022-06-25 21:34:08+08:00 推文](https://twitter.com/HeQinglian/status/1540689805683458048)
 
 Re @KELMAND1 正好昨天有人算了一下，有20岁了。来美国上学吧，由NGO出钱，反正美国更换投票机的钱没有，这钱多了去。
+
+### 83: [2022-06-25 23:09:05+08:00 推文](https://twitter.com/JianglinLi/status/1540713700163715072)
+
+RT 李江琳<br>Re @RealBeiMing @ngexp @HeQinglian 亚利桑那州重大突破。👇 此举打破了教师工会对公共教育领域的控制，家长可以为自己的孩子选择学校。希望各红州很快跟进。<br><br>Corey A. DeAngelis: BREAKING: Arizona Senate just passed a bill to fund students instead of systems.<br><br>This will be the most expansive school choice initiative in the nation.<br><br>All families will be able to take their children's education dollars to the education providers of their choosing.<br>
+
+### 84: [2022-06-26 00:57:24+08:00 推文](https://twitter.com/RealBeiMing/status/1540740958030925824)
+
+RT 北明BeiMing<br>太好了！看看原推，13小时已经接近两万点赞。<br>州长已經表態：把法案给我，我会签署！<br>把孩子的教育权交还家长，消解少數霸權，历史性的草根防御战。期待各州跟进。<br><br>李江琳: @RealBeiMing @ngexp @HeQinglian 亚利桑那州重大突破。👇 此举打破了教师工会对公共教育领域的控制，家长可以为自己的孩子选择学校。希望各红州很快跟进。<br> <a href="https://twitter.com/DeAngelisCorey/status/1540540806213287937" target="_blank" rel="noopener noreferrer">https://twitter.com/DeAngelisCorey/status/1540540806213287937</a>
+
+### 85: [2022-06-26 04:27:19+08:00 推文](https://twitter.com/HeQinglian/status/1540793785969524736)
+
+Re @Swanlake1979 @david_david1968 只有什么也一知半解的人，喜欢反对一切。左派就是如此习性。
+
+### 86: [2022-06-26 04:29:57+08:00 推文](https://twitter.com/HeQinglian/status/1540794447058808832)
+
+Re @sunsagacious 吉米对贝丝谈了。吵的时候，吉米说问过你的意见，贝丝说，我才13岁，你应该比我更懂。<br>两个孩子，都少不更事。我不认为15岁的吉米懂这事，但当时如果征求达顿意见就好了。
+
+### 87: [2022-06-26 04:33:19+08:00 推文](https://twitter.com/HeQinglian/status/1540795293628829697)
+
+Re @KELMAND1 这是小布什时期，康札莉多·赖斯当国务卿的理论之实践。当时她说了，全球交流，国际交往四层次，UN是国与国的交往；政府外交是政府间的交往；NGO可代替政府做不方便政府出面的事情；最后是个人层面的交往。
 

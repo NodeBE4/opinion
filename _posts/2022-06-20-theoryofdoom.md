@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-24
+date: 2022-06-25
 from: https://old.reddit.com/r/AutoModerator/comments/vfzquf/how_to_prevent_people_who_frequent_certain_subs/
 layout: post
 tags:
@@ -98,4 +98,16 @@ For many familiar with that conflict these conclusions will be unsurprising, but
 ----- __314.1__ -----2022-06-25 14:27:58+08:00:
 
 This is beyond the scope of our focus at /r/geopolitics.  Further, it is unclear how this article passed u/foreignaffairsmag internal editorial standards.
+
+### 315: [US Marine Force Reconnaissance during a simulated beachhead infiltration, Camp Lejeune, North Carolina, 1985](https://old.reddit.com/r/coldwar/comments/vkadsk/us_marine_force_reconnaissance_during_a_simulated/), submitted on 2022-06-25 16:21:16+08:00.
+
+----- __315.1__ -----2022-06-26 04:09:18+08:00:
+
+You need to link [sources](https://military-history.fandom.com/wiki/United_States_Marine_Corps_Force_Reconnaissance) for things.  The website appears to have taken this image from Wikipedia, which itself appears to have taken it from a mid 1990s training exercise described in DOD materials released about a decade later on the USMC's website.  
+
+This is a post-cold war image, with post-cold war tech.  It's interesting, don't get me wrong.  But this stuff didn't show up until after the USSR was no more.
+
+----- __315.2__ -----2022-06-26 04:16:37+08:00:
+
+The image was taken after 1995.
 
