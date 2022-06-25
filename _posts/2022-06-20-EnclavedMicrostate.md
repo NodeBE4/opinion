@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-24
+date: 2022-06-25
 from: https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/
 layout: post
 tags:
@@ -323,4 +323,10 @@ Hi there - we're happy to approve your question related to your creative project
 Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you're asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don't know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.
 
 For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
+
+### 570: [Fauna just confirmed she snuck away to join the off collab at Ames!](https://old.reddit.com/r/Hololive/comments/vjzs20/fauna_just_confirmed_she_snuck_away_to_join_the/), submitted on 2022-06-25 06:08:51+08:00.
+
+----- __570.1__ -----2022-06-25 11:41:37+08:00:
+
+So, we don't 100% *know*, and they're a bit quieter than they used to be, but I mean... we can be about 99% sure. Aside from the relatively well-known rings thing, they got each other White Day gifts [(Noel's tweet)](https://twitter.com/shiroganenoel/status/1504414555094794243) [(Flare's tweet)](https://twitter.com/shiranuiflare/status/1504407960251887617) and mention going on dates (including in that first tweet there but also see [here](https://twitter.com/shiroganenoel/status/1447879460083040257)); other mems have noted them being, let's say *suspiciously* close [(Nene)](https://www.youtube.com/watch?v=6F-gSfEIxBo) [(Rushia)](https://www.youtube.com/watch?v=9Vv2IppoFak); they have a collab cover up of [this song](https://www.youtube.com/watch?v=YVdA-QCcXYc), of all the ones to choose; there's Noel clips where she explicitly talks about how her relationship with Flare differs from her Ahijo tendencies such as [this](https://youtu.be/3uTbr3Qhnio?t=117) and [this](https://youtu.be/4TaTV1EQ2Zs?t=439). Even if she's not dating Flare (which to be honest it would be an amazing set of coincidences and PR manipulation if so) she's pretty much 'out' given [this](https://www.youtube.com/watch?v=YA9JMb6OdfQ) for instance.
 
