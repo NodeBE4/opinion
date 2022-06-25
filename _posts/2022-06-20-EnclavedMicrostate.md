@@ -83,6 +83,10 @@ She's mentioned trying to set up a 'second base' in the US for a while and if I'
 
 It's honestly not too unusual for agencies at this point. Cyberlive for instance essentially dissolved and exists mostly as a loose network for its now-indie talents. And actually, upd8 let its talents retain their avatars after dissolving (which in a sense makes what happened with Nobuhime all the more tragic.)
 
+----- __550.8__ -----2022-06-25 22:36:43+08:00:
+
+I could have sworn there was at least one talent besides Nobuhime that was 'in-house' but on checking I think you're right. I think in general though that agencies that shutter will relinquish their IP control? F.ex. Amaryllis' members (at least those that kept going) kept their IPs.
+
 ### 551: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
 
 ----- __551.1__ -----2022-06-21 17:05:57+08:00:
