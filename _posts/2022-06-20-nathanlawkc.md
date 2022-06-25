@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-06-23
+date: 2022-06-25
 from: https://twitter.com/nathanlawkc/status/1539566338175385601
 layout: post
 tags:
@@ -24,4 +24,8 @@ Thank you so much @nathalieguibert @lemondefr for this wonderful profile explain
 ### 2: [2022-06-23 18:33:39+08:00 推文](https://twitter.com/nathanlawkc/status/1539919607984709633)
 
 Honored to meet with the former French President François Hollande @fhollande. We talked about the political crackdowns in Hong Kong and human rights abuses in China.<br>I will continue to dialogue with leaders and discuss how we can defend democracy together. It's our mission.<br><img style="" src="https://pbs.twimg.com/media/FV7j5iGWYAMPb1k?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-06-25 17:05:21+08:00 推文](https://twitter.com/nathanlawkc/status/1540622162033348610)
+
+It's my honor to be officially received at the French Ministry of Foreign Affairs. My deepest gratitude to the ambassador of human rights @delphborione's effort to safeguard universal values. I hope the dialogue can continue and explore means to protect global human rights.<br><br>Delphine Borione: Heureuse d'avoir échangé avec le militant défenseur #droits de l’Homme @nathanlawkc sur la situation préoccupante à #HongKong et son combat pour les #libertés fondamentales, la #démocratie et l’Etat de droit. La France demeure fortement mobilisée pour les défendre. @francediplo<br><br><img style="" src="https://pbs.twimg.com/media/FWCZxRjXEAE_iWa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

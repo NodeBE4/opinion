@@ -369,3 +369,7 @@ When it comes to the episode concepts, I keep having the feeling of, 'haven't we
 
 The thing is, they're all done *well*. And there are definitely sparks of originality in every one. Just to name a few, episode 3 has an interesting if cut-short rumination on Trek's scepticism of transhumanism through a character who *hasn't* internalised an anti-transhuman perspective the way Bashir had on DS9; episode 6 goes for a classic SF/fantasy work that Trek *hasn't* previously engaged with directly; and I really like how episode 7 tries to tease at some more complex views of identity by having a gender-nonbinary character try to connect with Spock's own struggle with a different sort of non-binary identity. I get that on some level every story has been told, I just have this feeling that Strange New Worlds isn't doing much, er, new, even if it's fantastically good at doing it.
 
+----- __547.6__ -----2022-06-25 17:13:02+08:00:
+
+That's fair, but I suppose if you ever want a co-writer who did a little reading on the Falklands in the past, I am willing to render my services.
+
