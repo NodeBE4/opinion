@@ -79,3 +79,7 @@ Pen Names for Power Struggles: A look into the CCP's odd system of not-so-secret
 
 Rocketing Praise for Xi: Loyalty signaling at the most senior levels of the CCP fired up further this week with words of ardent love for the general secretary from Zhejiang's top leader, an aerospace engineer. <a href="https://chinamediaproject.org/2022/06/24/rocketing-praise-for-xi/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/24/rocketing-praise-for-xi/</a><br><img style="" src="https://pbs.twimg.com/media/FWAIVzgaMAA4Dta?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 17: [2022-06-24 17:40:11+08:00 推文](https://twitter.com/Maoviews/status/1540268540057780230)
+
+RT Mao<br>中國律師張思之先生24日下午一點半左右過世的消息，享年95歲。張先生是李作鵬的辯護律師。當代以來更是給鮑彤浦志強等一批被指控「顛覆國家政權」的人辯護。他自嘲這一輩子做律師打官司輸多贏少，但又有誰能嘲笑這「明知其不可為而為之」的決絕呢？<br><br>張思之先生千古！<br><img style="" src="https://pbs.twimg.com/media/FWAiEiRagAAk2Dh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
