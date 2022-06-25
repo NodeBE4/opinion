@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-23
+date: 2022-06-24
 from: https://old.reddit.com/r/AutoModerator/comments/vfzquf/how_to_prevent_people_who_frequent_certain_subs/
 layout: post
 tags:
@@ -92,4 +92,10 @@ For many familiar with that conflict these conclusions will be unsurprising, but
 * The threat posed by network penetration (including to infrastructure) and espionage is not limited to domestic infrastructure, but includes every stakeholder with whom intelligence is shared.  
 * Allied strategy must account for the coordinated, global cyber-based influence operations used to support military operations and advance objectives of foreign state actors.  
 * Allied countries must coordinate infrastructure hardening and defense strengthening against the full range of destructive, espionage and influence operations.
+
+### 314: [A Post-Roe World?: Why Abortion Battles in America Won’t Halt Reform Abroad](https://old.reddit.com/r/geopolitics/comments/vjqyc4/a_postroe_world_why_abortion_battles_in_america/), submitted on 2022-06-24 23:24:24+08:00.
+
+----- __314.1__ -----2022-06-25 14:27:58+08:00:
+
+This is beyond the scope of our focus at /r/geopolitics.  Further, it is unclear how this article passed u/foreignaffairsmag internal editorial standards.
 
