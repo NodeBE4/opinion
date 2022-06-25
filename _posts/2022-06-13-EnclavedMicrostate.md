@@ -381,3 +381,7 @@ Or use a site like camas.unddit.com.
 
 I was wondering how long it would take for it to reach HobbyDrama. All told, I feel like there isn't much to discuss or at least not really anywhere it can still go. Both parties are essentially agreeing to disagree, and unless Mikeneko develops a more extreme case of lastworditis, this is probably where it all ends.
 
+----- __547.9__ -----2022-06-25 22:53:21+08:00:
+
+Well, that's if we presume that Mikeneko's intention was to silence the antis. I personally don't think she's trying to do that, or to stir up new drama. To be honest, what seems to be the case is that she felt like Cover's statement didn't adequately represent her own view of what went down, she prepared a statement with her lawyers and cleared it with Cover to just get her side of the story out there, and she is prepared for people to either accept it or not. Maybe she could just move on without saying anything, but she does deserve to be able to deliver her perspective on what happened, whether or not the people reading it agree with that perspective.
+
