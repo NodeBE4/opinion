@@ -145,7 +145,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 33: [2022-06-22 01:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1539296267167272963)
 
-美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力<br><br>He Qinglian: 关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br> <a href="https://twitter.com/realTaoRay/status/1539266023509008385" target="_blank" rel="noopener noreferrer">https://twitter.com/realTaoRay/status/1539266023509008385</a>
+美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力 <a href="https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report" target="_blank" rel="noopener noreferrer">https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report</a>
 
 ### 34: [2022-06-22 03:14:41+08:00 推文](https://twitter.com/HeQinglian/status/1539325952647483392)
 
@@ -370,4 +370,20 @@ Re @RealBeiMing 高院法官在关键战役上退缩之后，尝到苦果，终�
 ### 89: [2022-06-26 05:22:50+08:00 推文](https://twitter.com/HeQinglian/status/1540807756252418048)
 
 Re @juzijianbing @KELMAND1 也同类似运作。只是本钱不足，下力不够。毕竟美国富足了大半个世纪，中国不到20年，2009年才成为世界GDP老二。
+
+### 90: [2022-06-26 10:39:40+08:00 推文](https://twitter.com/HeQinglian/status/1540887488327303168)
+
+Re @jbchen2009 @RealBeiMing 其实，研究一下民主党那令正常人抓狂的社会基础，还真不是移民为主体。BLM是美国芝加哥土产，扩散至全国；白左也是美国本土生产，黄左多是为了求认同。拉美移民当中，认同民主党的不到一半。
+
+### 91: [2022-06-26 10:41:25+08:00 推文](https://twitter.com/HeQinglian/status/1540887931874955268)
+
+Re @IvyHan2020 @RealBeiMing 我看到沃伦等民主党高层煽动左派去包围法官住宅。不少民主党议员都这样做。此情况下能够通过这个法案，算是很不容易了。
+
+### 92: [2022-06-26 10:46:17+08:00 推文](https://twitter.com/HeQinglian/status/1540889154875187200)
+
+Re @_xiaohan 原来，我这样想，也这样做，因此，与国内不少老朋友都能如此维持关系。<br>推上不同，一些人动辄胡言乱语，无视事实，恶语伤人，还利用自己在左派媒体的受宠，指名道姓，说他人心智迷乱。<br>你离推日久，不了解情况之下，说什么都容易。身处其中，才知与这些人断交，于情于理都十二分应该。
+
+### 93: [2022-06-26 10:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1540890143317426176)
+
+Re @xxj2040 解散之后，成立美国的贫下中农法庭——BLM+Antifa+变性人？
 

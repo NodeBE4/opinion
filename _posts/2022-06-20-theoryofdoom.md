@@ -99,6 +99,16 @@ For many familiar with that conflict these conclusions will be unsurprising, but
 
 This is beyond the scope of our focus at /r/geopolitics.  Further, it is unclear how this article passed u/foreignaffairsmag internal editorial standards.
 
+----- __314.2__ -----2022-06-26 07:46:35+08:00:
+
+I reiterate a message I have communicated to your board in the past, speaking now solely as a Foreign Affairs subscriber of almost two decades:
+
+The decline in editorial standards at Foreign Affairs is something I and numerous others have noticed, are aware of and now once more bring to your leadership's attention.  Articles like this are the same species of reactionary, short-sighted professional misjudgment and strategic mismanagement that Jeff Zucker undertook at CNN. 
+
+Foreign Affairs is not Buzzfeed.  Your board --- and specifically its current leadership --- would do well to remember that.  This article, like all such others of its type, is beneath the standards of FA.  It should not have been published and should not have even made it past initial editorial review.  
+
+You may contact me if you have any questions.
+
 ### 315: [US Marine Force Reconnaissance during a simulated beachhead infiltration, Camp Lejeune, North Carolina, 1985](https://old.reddit.com/r/coldwar/comments/vkadsk/us_marine_force_reconnaissance_during_a_simulated/), submitted on 2022-06-25 16:21:16+08:00.
 
 ----- __315.1__ -----2022-06-26 04:09:18+08:00:
