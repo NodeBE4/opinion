@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-25
+date: 2022-06-26
 from: https://old.reddit.com/r/ChineseTranslation/comments/vg0rah/please_help_me_understand_these_markings/
 layout: post
 tags:
@@ -86,6 +86,10 @@ It's honestly not too unusual for agencies at this point. Cyberlive for instance
 ----- __550.8__ -----2022-06-25 22:36:43+08:00:
 
 I could have sworn there was at least one talent besides Nobuhime that was 'in-house' but on checking I think you're right. I think in general though that agencies that shutter will relinquish their IP control? F.ex. Amaryllis' members (at least those that kept going) kept their IPs.
+
+----- __550.9__ -----2022-06-26 11:48:56+08:00:
+
+Given all the shit that went down with Nobuhime I'm now beginning to think that's become a distinction without a difference, as it seems like upd8 was acting like it owned her whether or not she was originally indie.
 
 ### 551: [Why didn't Russia gain any colonies in Africa or East Asia?](https://old.reddit.com/r/AskHistorians/comments/vh4swk/why_didnt_russia_gain_any_colonies_in_africa_or/), submitted on 2022-06-21 12:33:20+08:00.
 
@@ -353,4 +357,10 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 573: [Professor Joanna Waley-Cohen on New Qing History](https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/), submitted on 2022-06-26 06:06:21+08:00.
+
+----- __573.1__ -----2022-06-26 11:51:30+08:00:
+
+Ooh! I will have to listen to this one!
 
