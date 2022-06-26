@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -386,4 +386,68 @@ Re @_xiaohan 原来，我这样想，也这样做，因此，与国内不少老�
 ### 93: [2022-06-26 10:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1540890143317426176)
 
 Re @xxj2040 解散之后，成立美国的贫下中农法庭——BLM+Antifa+变性人？
+
+### 94: [2022-06-26 21:36:12+08:00 推文](https://twitter.com/HeQinglian/status/1541052711633829889)
+
+Re @FangYiDuan1 @IvyHan2020 @RealBeiMing 要查都能查到，问题是1月6日这种美版六四在前，结果与包围法官住宅不一样。
+
+### 95: [2022-06-26 22:00:01+08:00 推文](https://twitter.com/HeQinglian/status/1541058707244699648)
+
+Re @realTaoRay 看图说话，事实胜于雄辩，西方各国真是为表达义愤而义愤。它们不是也有各种限制？<br><img style="" src="https://pbs.twimg.com/media/FWCVHkEUUAETTYm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 96: [2022-06-26 22:09:30+08:00 推文](https://twitter.com/HeQinglian/status/1541061091266072576)
+
+Re @Jessie73033015 @_xiaohan 没有不淡定。<br>最近几位多年未出墙的老推友回归，我只是告诉他们大致情况。还得慢慢了解，以他们的能力，应该很快。虽然会受制于他们周围走得近的人。<br>不过，这都是他们自己的事情。
+
+### 97: [2022-06-26 22:13:36+08:00 推文](https://twitter.com/HeQinglian/status/1541062125715656704)
+
+Re @RealBeiMing 你还真是菩萨心。<br>于我而言，她们爱干啥就干啥。上次在脸书与台湾女权讨论了一个回合，她们就哑了。<br>实际上，女权现在变态展示雄风，表示她们比非女权人士更在意男性世界，心理学分析，结果就是如此。<br>40岁以后成为拉拉，收养子女，美国这方面天地宽阔。<br>据说，拉拉的家庭关系比Gay的家庭关系稳定些。
+
+### 98: [2022-06-26 22:59:12+08:00 推文](https://twitter.com/HeQinglian/status/1541073598575771649)
+
+近年来，欧洲的发电厂通过烧木柴来减少对煤炭的使用。每年耗用数百万吨木材，大部分从美国进口。<br>一项名为“可再生能源指令”的有争议的欧盟政策通过将木材等有机材料作为燃料燃烧计为可再生能源并补贴其使用，推动了这一转变。<br>评：环保主义者行事颠三倒四，美国的森林要倒霉。 <a href="https://www.nytimes.com/2022/05/17/climate/eu-burning-wood-electricity.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/05/17/climate/eu-burning-wood-electricity.html</a>
+
+### 99: [2022-06-26 23:03:47+08:00 推文](https://twitter.com/HeQinglian/status/1541074754450477057)
+
+Re @Wu_Zhi @JianglinLi 不过这件事，美国是牺牲打，为了让欧盟减少对俄油气的使用，不惜砍伐森林，资助盟友。<br>中西部地区森林面积大大减少。<br>可能要等到象中国大跃进时砍伐森林做燃料大炼钢铁那样，青山成秃头，数年后才知道亏大发了。
+
+### 100: [2022-06-26 23:08:20+08:00 推文](https://twitter.com/HeQinglian/status/1541075898996326406)
+
+Re @aBIyxobDiRhzdSW @shenliangqing2 中文圈吵有什么用？<br>2020年中期，我说美国一旦形成按闹分配与司法，就会走上邪路。一华女与她的梦中情人还与我大吵一通，女的在美做中教，说要联邦发失恋补贴，因为她失恋后心情不好。<br>我干脆将那自称是晓农朋友的男的拉黑，告诉他，从不知晓农有这位朋友。
+
+### 101: [2022-06-26 23:13:27+08:00 推文](https://twitter.com/HeQinglian/status/1541077185959714821)
+
+Re @littledtiger @mingshi_chen 请你判断，烧木柴比烧煤、核能是否更环保？人家是反讽，所谓环保的全球气候变暖，是个大骗局。
+
+### 102: [2022-06-26 23:16:47+08:00 推文](https://twitter.com/HeQinglian/status/1541078022568157187)
+
+Re @KELMAND1 日本兵库的匠作菜刀，实在是太好用，几个月磨一次就行。但你得分清楚，这菜刀可否用来斩骨，用法不当，会卷刃。
+
+### 103: [2022-06-26 23:20:22+08:00 推文](https://twitter.com/HeQinglian/status/1541078925392187399)
+
+Re @JianglinLi @Wu_Zhi 那咱们是否可以说出另一真相？希望美国让民主党长期当家以毁美的人，除了傻子之外，应该是别有企图的坏人？<br>从听NGO业界人告知：美国环保NGO不少拿中国资助，再看中国大力发展风能、太阳能设备占领市场，我就明白中国图在久远。<br>支持变性尤其是青少年变性，应该也图在长远。
+
+### 104: [2022-06-26 23:23:54+08:00 推文](https://twitter.com/HeQinglian/status/1541079814077046785)
+
+Re @FangYiDuan1 @realTaoRay 我在脸书上对台湾女权说：女人的成功与家庭幸福，不是在社会上争吵得来的，是自己做出来的。我就是这样做的。<br>她们听后无话可说。
+
+### 105: [2022-06-26 23:26:36+08:00 推文](https://twitter.com/HeQinglian/status/1541080496309952514)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp NY Times要从良？😂<br>还是坚持一会吧，要不然，拜登就会孤单了，又不能改宪法，那位贺女士更疯狂。
+
+### 106: [2022-06-26 23:31:11+08:00 推文](https://twitter.com/HeQinglian/status/1541081647688318977)
+
+Re @JianglinLi @Wu_Zhi 有啊，前天我刚给过调查链接，160多万（真正的变性者，不是心理认同的性别漂移者），13-34岁的占43%.<br>这个年龄组分法有问题，应该按未成年13-17岁，16-25岁，26-34岁这种传统分组，才知道目前青少年变性的真正情况。<br>我猜想这分组是故意掩盖青少年被诱惑变性这一恶劣事实。
+
+### 107: [2022-06-26 23:32:26+08:00 推文](https://twitter.com/HeQinglian/status/1541081963200757760)
+
+Re @littledtiger @mingshi_chen 知道，这是国际环保NGO在中国手把手教出来的，还测算出烧稻草与玉米梗造成的空气污染。
+
+### 108: [2022-06-26 23:35:31+08:00 推文](https://twitter.com/HeQinglian/status/1541082738253565954)
+
+Re @Wu_Zhi @JianglinLi 祂们目前很幸福，以为自己走在时代最前列，最进步、最革命、最先锋，那满满的幸福感岂是尔等落后分子能够理解的。<br>反正我不会为他们流眼泪，虽然我也不会笑。
+
+### 109: [2022-06-26 23:39:56+08:00 推文](https://twitter.com/HeQinglian/status/1541083849467240448)
+
+Re @JianglinLi @Wu_Zhi LGBTQ（I不在其内）占美国总人口7%左右，去年的数据。当时古川不信，我给了皮尤调查链接。<br>因为最近在研究这问题，美国人现在有一半无家可归，不是指Homeless，是指没有家庭。
 
