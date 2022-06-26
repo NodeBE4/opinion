@@ -378,7 +378,7 @@ The Ming aren't my forte, although there are two books you might find interestin
 
 ### Early-mid Qing
 
-* Evelyn Rawski's *Early Modern China and Northeast Asia* is another one of those good geopolitical survey works, though I will admit, a failure to provide a consistent and unambiguous term to refer to The Northeast/Manchuria can create the odd bit of confusion at times. The basic idea is that Rawski approaches the Early Modern period by framing Northeast Asia as a point of intersection between China, Korea, Japan, the eastern steppe, and 'Manchuria', and advocates taking a more multilateral approach to historical events in this region and period.
+* Evelyn Rawski's *Early Modern China and Northeast Asia* is another good survey work, though I will admit, a failure to provide a consistent and unambiguous term to refer to The Northeast/Manchuria can create the odd bit of confusion at times. The basic idea is that Rawski approaches the Early Modern period by framing Northeast Asia as a point of intersection between China, Korea, Japan, the eastern steppe, and 'Manchuria', and advocates taking a multilateral approach to historical events in this region and period.
 
 * Peter Perdue's *China Marches West* is a magisterial narrative and analytical history of the expansion of the Qing Empire into Central and Inner Asia between about 1630 and 1760, with a particular focus on how the Qing's wars of conquest impacted the state and on the historiography and legacy of these conquests.
 
@@ -394,7 +394,7 @@ The Ming aren't my forte, although there are two books you might find interestin
 
 * Stephen Platt's *Autumn in the Heavenly Kingdom* is an absolute must-read, and covers the latter third or so of the Taiping War of 1851-64, placing it in an international context and concerning itself heavily with the activities of British and American politicians, diplomats, and military leaders, and on their impact on the war. I have quibbles (namely, the French role is very minimised here) but not any remotely large enough to prevent me recommending it.
 
-* Hodong Kim's *Holy War in China*, which covers in immense detail the revolts against Qing rule in what is now Xinjiang and the rise and fall of Yaqub Beg's regime in the region, is an excellent additional read.
+* Hodong Kim's *Holy War in China*, which covers in immense detail the revolts against Qing rule in what is now Xinjiang, the rise and fall of Yaqub Beg's regime in the region, and its relations with foreign powers (particularly Britain, Russia, and the Ottomans) is an excellent additional read.
 
 * Emma Teng's *Taiwan's Imagined Geography* is mostly focussed on Qing travel writing as a lens into discourses around Taiwan rather than actual policy, although it remains (as far as I know) the only book really discussing nineteenth-century Taiwan in significant detail in English, including the post-1860 phase of intensive colonial expansion and exploitation by the Qing against the hitherto independent indigenous peoples of the highlands.
 
