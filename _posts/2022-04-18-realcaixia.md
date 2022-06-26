@@ -189,11 +189,11 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 44: [2022-04-23 11:34:05+08:00 推文](https://twitter.com/realcaixia/status/1517708362615468033)
 
-这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。<br><br>QWERTY: 臥槽，一個保姆，做飯的阿姨，環球出手啦，國家隊出手啦，哈哈哈哈不是真的才怪😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FQ2RJ67aQAADvJW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
-上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。<br><br>Voice From Germany 德國之音🎗️: 上海市民集体转发 #四月之声 视频，中共吓得命令腾讯公司紧急开发 “同城”朋友圈。重庆用户看不到上海用户的朋友圈了<br><br><video src="https://video.twimg.com/ext_tw_video/1517691410161577985/pu/vid/592x1280/J0Zla5NHPr663hhe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517691410161577985/pu/img/k1rpeTGDv9EDAQpf.jpg"></video>
+上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
 
