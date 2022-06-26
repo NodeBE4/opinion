@@ -340,7 +340,7 @@ For more general advice about doing research to inform a creative project, pleas
 
 ----- __570.1__ -----2022-06-25 11:41:37+08:00:
 
-So, we don't 100% *know*, and they're a bit quieter than they used to be, but I mean... we can be about 99% sure. Aside from the relatively well-known rings thing, they got each other White Day gifts just this year [(Noel's tweet)](https://twitter.com/shiroganenoel/status/1504414555094794243) [(Flare's tweet)](https://twitter.com/shiranuiflare/status/1504407960251887617) and mention going on dates (including in that first tweet there but also see [here](https://twitter.com/shiroganenoel/status/1447879460083040257)); other mems have noted them being, let's say *suspiciously* close [(Nene)](https://www.youtube.com/watch?v=6F-gSfEIxBo) [(Rushia)](https://www.youtube.com/watch?v=9Vv2IppoFak); they have a collab cover up of [this song](https://www.youtube.com/watch?v=YVdA-QCcXYc), of all the ones to choose; and there's Noel clips where she explicitly talks about how her relationship with Flare differs from her Subaru obsession such as [this](https://youtu.be/3uTbr3Qhnio?t=117) and [this](https://youtu.be/4TaTV1EQ2Zs?t=439) where she very much describes Flare as a romantic partner. Even if she's not dating Flare (which to be honest it would be an amazing set of coincidences and PR manipulation if so) Noel is pretty much 'out' given [this](https://www.youtube.com/watch?v=YA9JMb6OdfQ) for instance.
+So, we don't 100% *know*, and they're a bit quieter than they used to be, but I mean... we can be about 99% sure. Aside from the relatively well-known rings thing, they got each other White Day gifts just this year [(Noel's tweet)](https://twitter.com/shiroganenoel/status/1504414555094794243) [(Flare's tweet)](https://twitter.com/shiranuiflare/status/1504407960251887617) and mention going on dates (including in that first tweet there but also see [here](https://twitter.com/shiroganenoel/status/1447879460083040257)); other mems have noted them being, let's say *suspiciously* close [(Mio)](https://www.youtube.com/watch?v=Z4SFaEuuRaU)  [(Rushia)](https://www.youtube.com/watch?v=9Vv2IppoFak) [(Nene)](https://www.youtube.com/watch?v=6F-gSfEIxBo); they have a collab cover up of [this song](https://www.youtube.com/watch?v=YVdA-QCcXYc), of all the ones to choose; and there's Noel clips where she explicitly talks about how her relationship with Flare differs from her Subaru obsession such as [this](https://youtu.be/3uTbr3Qhnio?t=117) and [this](https://youtu.be/4TaTV1EQ2Zs?t=439) where she very much describes Flare as a romantic partner. Even if she's not dating Flare (which to be honest it would be an amazing set of coincidences and PR manipulation if so) Noel is pretty much 'out' given [this](https://www.youtube.com/watch?v=YA9JMb6OdfQ) for instance.
 
 ### 571: [Could Georgy Zhukov become the leader of the USSR, and if so. How would the USSR and Soviet satellite states change? (Or the likleyhood of them changing)](https://old.reddit.com/r/AskHistorians/comments/vk6m43/could_georgy_zhukov_become_the_leader_of_the_ussr/), submitted on 2022-06-25 12:15:30+08:00.
 
@@ -358,9 +358,53 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 573: [Professor Joanna Waley-Cohen on New Qing History](https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/), submitted on 2022-06-26 06:06:21+08:00.
+### 573: [can somebody recommend books about early moden Chinese History?](https://old.reddit.com/r/AskHistorians/comments/vknvjq/can_somebody_recommend_books_about_early_moden/), submitted on 2022-06-26 04:38:56+08:00.
 
------ __573.1__ -----2022-06-26 11:51:30+08:00:
+----- __573.1__ -----2022-06-26 12:19:39+08:00:
+
+So, just to clarify, the Early Modern period is typically considered to encompass the period from some time in the fifteenth century up to around 1800 or so; while that is somewhat Eurocentric as a classification it does have broader acceptance among historians of Eurasia (both in the sense of Eurasia as a unit and individual regions within it). The Boxers and the ROC thus fall well outside the typical range of the EM, though I'm happy to recommend some reading on the former nevertheless.
+
+For general overviews, the *History of Imperial China* series is where to go, although they can be a little technical and aren't necessarily aimed at a *general* audience so much as a *beginner* one, if that makes sense. Timothy Brook's *The Troubled Empire* on the Yuan and Ming and William Rowe's *China's Last Empire* on the Qing will both cover that 1271-1800 period very well. I cut off in 1800 because Rowe's book is (for a book from 2009) very up to speed with the new historiography on the Qing up to the end of the Qianlong reign, and to some extent integrates some of the fledgling revisionist perspective on the Jiaqing era, but its narrative of the nineteenth century is very conventional. Pamela Crossley's *The Wobbling Pivot: China since 1800* has issues of its own, but its coverage of the Qing from 1800-1911 is a bit more up-to-date in that regard.
+
+### Ming
+
+The Ming aren't my forte, although there are two books you might find interesting that delve into specific aspects:
+
+* Craig Clunas' *Superfluous Things* is a wonderful volume discussing late Ming consumer culture, and involves some discussion of what the concept of Early Modernity is and how it applies in the case of China.
+
+* Arthur Waldron's *The Great Wall of China* doesn't just cover the Ming, but does focus on it, as its purpose is to discuss the circumstances that led to the Ming building the structure that we now know as the Great Wall, which is, as you'd imagine, very geopolitical, as it is tied in with Ming relations with steppe polities.
+
+* Kenneth Swope's *A Dragon's Head and a Serpent's Tail* and *The Military Collapse of China's Ming Dynasty* are also a good pair of military-political narratives of the late Ming period, the former covering the Great East Asian War of 1592-8 when Toyotomi Hideyoshi invaded Korea, and the latter covering the rise of the Qing and the growth of rebel movements in China proper.
+
+### Early-mid Qing
+
+* Evelyn Rawski's *Early Modern China and Northeast Asia* is another one of those good geopolitical survey works, though I will admit, a failure to provide a consistent and unambiguous term to refer to The Northeast/Manchuria can create the odd bit of confusion at times. The basic idea is that Rawski approaches the Early Modern period by framing Northeast Asia as a point of intersection between China, Korea, Japan, the eastern steppe, and 'Manchuria', and advocates taking a more multilateral approach to historical events in this region and period.
+
+* Peter Perdue's *China Marches West* is a magisterial narrative and analytical history of the expansion of the Qing Empire into Central and Inner Asia between about 1630 and 1760, with a particular focus on how the Qing's wars of conquest impacted the state and on the historiography and legacy of these conquests.
+
+* Seonmin Kim's *Ginseng and Borderland* similarly focusses on Qing activity in a particular theatre, in this case the border with the Joseon kingdom of Korea, where natural resources played a decisive part in driving changes to how the two states managed their borders with each other.
+
+* Matthew Mosca's *From Frontier Policy to Foreign Policy* discusses Qing perceptions of and relations with India and Indian polities, as well as that critical India-ruling policy, Great Britain. If you're looking for something heavy on geopolitics, it's this.
+
+* Max Oidtmann's *The Golden Urn* focusses mainly on Qing policy in Tibet, and on questions of how imperialism and/or colonialism can be applied as a useful framework can be applied to the Qing's attempts to gain a soft veto on the selection of new lamas.
+
+### Late Qing
+
+* Julia Lovell's *The Opium War* is an imperfect work, but the best overview out there not only of the war itself but also its wider implications for the Qing, for post-Qing China, and for relations between China and the west. Its most useful contribution is in its discussion of the complicated cultural legacy of the war in the last third or so.
+
+* Stephen Platt's *Autumn in the Heavenly Kingdom* is an absolute must-read, and covers the latter third or so of the Taiping War of 1851-64, placing it in an international context and concerning itself heavily with the activities of British and American politicians, diplomats, and military leaders, and on their impact on the war. I have quibbles (namely, the French role is very minimised here) but not any remotely large enough to prevent me recommending it.
+
+* Hodong Kim's *Holy War in China*, which covers in immense detail the revolts against Qing rule in what is now Xinjiang and the rise and fall of Yaqub Beg's regime in the region, is an excellent additional read.
+
+* Emma Teng's *Taiwan's Imagined Geography* is mostly focussed on Qing travel writing as a lens into discourses around Taiwan rather than actual policy, although it remains (as far as I know) the only book really discussing nineteenth-century Taiwan in significant detail in English, including the post-1860 phase of intensive colonial expansion and exploitation by the Qing against the hitherto independent indigenous peoples of the highlands.
+
+* Lanxin Xiang's *The Origins of the Boxer War* is perhaps the best analysis of the complicated politics of how the Boxer Uprising morphed into the military intervention by the Eight Nations' Alliance, but I cannot recommend it without considerable caveats. Xiang takes a very one-dimensional view of the Boxers themselves, and makes some noticeable orthographic errors with Manchu names. I would *only* recommend it if you also read Joseph Esherick's *The Origins of the Boxer Uprising*.
+
+* Edward Rhoads' *Manchus and Han* is, I would argue, critical to understanding the fall of the Qing, even if its one-chapter summary of the 1911 Revolution is very squarely focussed on the Yangtze (and ironically enough somewhat sidelines coastal south China, which Rhoads had written an entire book on some years earlier!)
+
+### 574: [Professor Joanna Waley-Cohen on New Qing History](https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/), submitted on 2022-06-26 06:06:21+08:00.
+
+----- __574.1__ -----2022-06-26 11:51:30+08:00:
 
 Ooh! I will have to listen to this one!
 
