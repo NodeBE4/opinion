@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -45,7 +45,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 8: [2022-05-23 21:42:51+08:00 推文](https://twitter.com/realcaixia/status/1528733199098122242)
 
-荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。<br><br>荣剑: 这大概就是文明的分野，没有经过清朝的人，也不必说遗憾，清和后清有什么区别吗？区别或许就是帖子中所说的疯狂的删帖取代了文字狱——当然，有人肯定会说，现在因言获罪还少吗？面对这样的质疑，我无言以答。<br><br><img style="" src="https://pbs.twimg.com/media/FTXKTPGVIAEGNN3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
@@ -57,7 +57,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 11: [2022-05-24 01:01:49+08:00 推文](https://twitter.com/realcaixia/status/1528783270774808576)
 
-权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。<br><br>戴姐: @im1266 @ZhouFengSuo 徐汇区汇贤居从昨晚和居委理论到今天中午全员解封👍模子！原来解封也得靠自己争取  。<br><br><video src="https://video.twimg.com/ext_tw_video/1528737541704552449/pu/vid/720x1280/Y7Bg_OgO6T8dVfxI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528737541704552449/pu/img/xNTCf6aq4txc2gCY.jpg"></video>
+权利不是等来求来的，必须是经过抗争，自己争来的。大家一起站出来，对侵犯权利的恶行勇敢说不！<br>专制统治以恐吓制造人们的畏惧心理，只要大家都不怕他们，他们的统治基石就开始摇晃撼动了。
 
 ### 12: [2022-05-24 02:23:49+08:00 推文](https://twitter.com/realcaixia/status/1528803906666614785)
 
@@ -89,7 +89,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
-这便是信念与信心的宣示。
+这便是信念与信心的宣示。<br><br>ZHANGDONG: 每年五月的第三个星期四是乌克兰的刺绣衫节，富有民族特色的刺绣衫象征着乌克兰民族团结和民族认同，它把乌克兰人民凝聚在一起。今天泽伦斯基总统用刺绣衫替换下了军绿T-恤衫，精神焕发，流露出乌克兰必胜信心。<br>欧盟女主席今天也亮出刺绣时装秀，表示在困难时期，与乌克兰人民一起共度时艰。<br><br><video src="https://video.twimg.com/ext_tw_video/1527359586797178888/pu/vid/848x480/sHK-f3ykZ1EM8_wr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527359586797178888/pu/img/NJdcjf_nGE0__CSv.jpg"></video> <a href="https://twitter.com/vonderleyen/status/1527317182623150080" target="_blank" rel="noopener noreferrer">https://twitter.com/vonderleyen/status/1527317182623150080</a>
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
@@ -109,7 +109,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 24: [2022-05-25 12:40:07+08:00 推文](https://twitter.com/realcaixia/status/1529321388275748864)
 
-这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。<br><br>王局志安: 这两天有不少人告诉我一些人在攻击我，我第一不在意，第二不关心，第三我也不会回复那些子虚乌有的各种污蔑。话说我现在非常忙，上午日语课，下午找选题录节目，看办公室，看招聘的简历，和各路想要投资的人相谈。根本顾不上看这些攻击的言论。我已两鬓斑白，不想把有限的生命浪费到这些事情上。<br>
+这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
@@ -205,7 +205,7 @@ Re 就是这个视频。请关注。<br><img style="" src="https://pbs.twimg.com
 
 ### 48: [2022-05-28 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1530550852913704961)
 
-请读一读这篇文章。
+请读一读这篇文章。<br><br>公民力量: CPIFC: The Myth of Public Opinion Under Xi Jinping #xijinping<br> <a href="https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/</a>
 
 ### 49: [2022-05-28 22:08:33+08:00 推文](https://twitter.com/realcaixia/status/1530551603727675393)
 

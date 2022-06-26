@@ -121,3 +121,9 @@ This is a post-cold war image, with post-cold war tech.  It's interesting, don't
 
 The image was taken after 1995.
 
+### 316: [Is Russia’s depletion of military equipment going to impact any other regions where they are exporting weapons to? Could it sway any other conflicts?](https://old.reddit.com/r/geopolitics/comments/vkdr3c/is_russias_depletion_of_military_equipment_going/), submitted on 2022-06-25 20:12:21+08:00.
+
+----- __316.1__ -----2022-06-27 00:03:13+08:00:
+
+This is better submitted to /r/geopolitics2.
+
