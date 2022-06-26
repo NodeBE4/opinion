@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-24
+date: 2022-06-26
 from: https://twitter.com/cnmediaproject/status/1538724476317503493
 layout: post
 tags:
@@ -82,4 +82,16 @@ Rocketing Praise for Xi: Loyalty signaling at the most senior levels of the CCP 
 ### 17: [2022-06-24 17:40:11+08:00 推文](https://twitter.com/Maoviews/status/1540268540057780230)
 
 RT Mao<br>中國律師張思之先生24日下午一點半左右過世的消息，享年95歲。張先生是李作鵬的辯護律師。當代以來更是給鮑彤浦志強等一批被指控「顛覆國家政權」的人辯護。他自嘲這一輩子做律師打官司輸多贏少，但又有誰能嘲笑這「明知其不可為而為之」的決絕呢？<br><br>張思之先生千古！<br><img style="" src="https://pbs.twimg.com/media/FWAiEiRagAAk2Dh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-06-25 17:50:21+08:00 推文](https://twitter.com/JunMai_Beijing/status/1540633485399838720)
+
+RT Jun Mai<br>am glad there is a decent obit of Zhang Sizhi in English <a href="https://www.scmp.com/news/china/politics/article/3183060/zhang-sizhi-hailed-conscience-chinese-lawyers-dies-beijing-94?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3183060" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3183060/zhang-sizhi-hailed-conscience-chinese-lawyers-dies-beijing-94?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3183060</a>
+
+### 19: [2022-06-26 17:27:08+08:00 推文](https://twitter.com/nerysinchina/status/1540990033884315650)
+
+RT Nerys Avery<br>More on the severe flooding in southern China and how some small towns were sacrificed to save Guangzhou. Terrible scenes.  4-Storeys High Floods, NO warning for dam water release/10 provinces in ... <a href="https://youtu.be/ZHrMuck-xF8" target="_blank" rel="noopener noreferrer">https://youtu.be/ZHrMuck-xF8</a>
+
+### 20: [2022-06-26 19:44:14+08:00 推文](https://twitter.com/donweinland/status/1541024534614093824)
+
+RT Don Weinland<br>Shanghai once again declares victory over covid. And yet city streets with no cases for weeks are still being shut down. I think the message from the govt must be that this is what victory looks like: long-term, random enforcement of unclear rules<br><img style="" src="https://pbs.twimg.com/media/FWLRoehUYAAZEWJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWLRoekVsAA5bOD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

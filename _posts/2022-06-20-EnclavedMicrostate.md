@@ -402,6 +402,10 @@ The Ming aren't my forte, although there are some more specialised books I've re
 
 * Edward Rhoads' *Manchus and Han* is, I would argue, critical to understanding the fall of the Qing, even if its one-chapter summary of the 1911 Revolution is very squarely focussed on the Yangtze (and ironically enough somewhat sidelines coastal south China, which Rhoads had written an entire book on some years earlier!)
 
+----- __573.2__ -----2022-06-26 21:16:54+08:00:
+
+Jonathan Spence's *God's Chinese Son* is where to go for the origins side, although it doesn't really cover the international side and also very quickly breezes through the 1859-64 period at the end, so Platt very much picks up where Spence leaves off, so to speak.
+
 ### 574: [Professor Joanna Waley-Cohen on New Qing History](https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/), submitted on 2022-06-26 06:06:21+08:00.
 
 ----- __574.1__ -----2022-06-26 11:51:30+08:00:
