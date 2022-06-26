@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-06-25
+date: 2022-06-26
 from: https://twitter.com/nathanlawkc/status/1539566338175385601
 layout: post
 tags:
@@ -27,5 +27,9 @@ Honored to meet with the former French President François Hollande @fhollande. 
 
 ### 3: [2022-06-25 17:05:21+08:00 推文](https://twitter.com/nathanlawkc/status/1540622162033348610)
 
-It's my honor to be officially received at the French Ministry of Foreign Affairs. My deepest gratitude to the ambassador of human rights @delphborione's effort to safeguard universal values. I hope the dialogue can continue and explore means to protect global human rights.
+It's my honor to be officially received at the French Ministry of Foreign Affairs. My deepest gratitude to the ambassador of human rights @delphborione's effort to safeguard universal values. I hope the dialogue can continue and explore means to protect global human rights.<br><br>Delphine Borione: Heureuse d'avoir échangé avec le militant défenseur #droits de l’Homme @nathanlawkc sur la situation préoccupante à #HongKong et son combat pour les #libertés fondamentales, la #démocratie et l’Etat de droit. La France demeure fortement mobilisée pour les défendre. @francediplo<br><br><img style="" src="https://pbs.twimg.com/media/FWCZxRjXEAE_iWa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-06-26 17:39:42+08:00 推文](https://twitter.com/nathanlawkc/status/1540993192530792448)
+
+//The book is at its best when dealing with specifics .... Law argues that those signs exist around the world, and therefore freedom shouldn’t be taken for granted in any country.... Law offers a warning and a wake-up call.// <a href="https://www.newstatesman.com/culture/2022/01/reviewed-in-short-new-titles-from-nathan-law-johann-hari-bart-van-loo-and-sasa-stanisic" target="_blank" rel="noopener noreferrer">https://www.newstatesman.com/culture/2022/01/reviewed-in-short-new-titles-from-nathan-law-johann-hari-bart-van-loo-and-sasa-stanisic</a>
 

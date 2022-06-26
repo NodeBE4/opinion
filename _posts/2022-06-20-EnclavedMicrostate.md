@@ -368,7 +368,7 @@ For general overviews, the *History of Imperial China* series is where to go, al
 
 ### Ming
 
-The Ming aren't my forte, although there are two books you might find interesting that delve into specific aspects:
+The Ming aren't my forte, although there are some more specialised books I've read (in part or in whole) that you might find interesting that delve into specific aspects:
 
 * Craig Clunas' *Superfluous Things* is a wonderful volume discussing late Ming consumer culture, and involves some discussion of what the concept of Early Modernity is and how it applies in the case of China.
 

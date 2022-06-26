@@ -37,9 +37,9 @@ This is a landmark case. The most vocal Hong Kong newspaper Apple Daily is force
 
 This is one of the most disgusting attacks on press freedom. Apple Daily is murdered by the Chinese Communist Party because it supports democratic movement.<br><br>HK pro-democracy paper Apple Daily announces closure <a href="https://www.bbc.co.uk/news/world-asia-china-57578926" target="_blank" rel="noopener noreferrer">https://www.bbc.co.uk/news/world-asia-china-57578926</a>
 
-### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719163448156169)
+### 6: [2021-06-23 23:16:17+08:00 推文](https://twitter.com/nathanlawkc/status/1407719165759311879)
 
-1. Most of you may not understand how dreadful the closure of Apple Daily means to Hong Kong. Not only to its journalistic landscape, but also to the people and the city itself. This is their last day. They are going to print 1 million copies tomorrow to commerate the fight.<br><img style src="https://pbs.twimg.com/media/E4k35ViXIAUu_Nc?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 2. The parent company of Apple Daily, Next Digital Limited, is a listed company. The govt forced a listed company to close itself in a matter of days, though signs have been there for months.
 
 ### 7: [2021-06-23 23:16:18+08:00 推文](https://twitter.com/nathanlawkc/status/1407719169458642948)
 
