@@ -87,3 +87,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @niulehou Created Equal，是这部片子，
 
 Re @JianglinLi @ngexp @RealBeiMing @Wu_Zhi @david_david1968 拜登承诺要花费 2000 亿美元来控制 Brown People的基础设施和通信，以缓解第三世界粮食短缺和 G7 气候政策的后果，为什么就不能拨个零头——数亿美元来更换投票机？<br>天天被指责盗选，不如堂堂正正来一回竞选。
 
+### 19: [2022-06-27 12:01:23+08:00 推文](https://twitter.com/HeQinglian/status/1541270444019417089)
+
+Re @enjoygracelife @FightForJiuCai 这只是党内初选，与民主党的决胜负还没开始呢。
+

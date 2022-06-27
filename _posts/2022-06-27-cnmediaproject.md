@@ -43,3 +43,7 @@ With July 1 around the corner, the People's Daily lays it on thick with good fee
 
 Support for Xi is crucial for CCP officials ahead of the 20th Congress. But aspects of the theory framework supporting him must be praised too. Page 11 has a tribute on "Xi Thought" on rule of law, by Li Ciqiang of East China Univ. of Pol. Science and Law. <a href="https://chinamediaproject.org/the_ccp_dictionary/rule-of-law/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/rule-of-law/</a><br><img style="" src="https://pbs.twimg.com/media/FWOFychacAML4fm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-06-27 10:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1541247695393898496)
+
+RT Jonathan Cheng<br>“In China, it’s a common practice to have an official factory, the one the auditors go to, and have something like half or more manufacturing done elsewhere,” Anjoran says. “The auditor’s job is not to check if the capacity is sufficient.”<br>@thewirechina <a href="https://bit.ly/3HR09At" target="_blank" rel="noopener noreferrer">https://bit.ly/3HR09At</a>
+
