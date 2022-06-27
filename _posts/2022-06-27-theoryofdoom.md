@@ -19,3 +19,9 @@ title: theoryofdoom在2022-06-27~2022-07-03的言论
 
 What is this witchcraft?
 
+### 318: [What is an old video game that still holds up so well today?](https://old.reddit.com/r/AskReddit/comments/vlbr03/what_is_an_old_video_game_that_still_holds_up_so/), submitted on 2022-06-27 02:58:53+08:00.
+
+----- __318.1__ -----2022-06-27 19:19:43+08:00:
+
+Call of Duty Modern Warfare 2. Best xbox game ever made.
+
