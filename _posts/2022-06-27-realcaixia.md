@@ -27,3 +27,23 @@ title: 'Twitter @蔡霞: 2022-06-27~2022-07-03'
 
 中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。<br><br>高瑜: 張思之律師送別式于明日八寶山舉行。因疫情只限制20人參加，僅張老親屬已經差不多了。張老弟子、當事人浦志強都在爭取之中。朋輩、晚輩及眾多仰慕者都不能最後送別，這是壬寅仲夏無以補救的遺憾。<br>推友給我發來1999年我與張老的合影，花也是張老送的。我曾用於我為張老80 大壽寫的文章《永遠的張思之》<br><br><img style="" src="https://pbs.twimg.com/media/FWOpWzdVsAEdddH?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWOqrYZUYAI6YBe?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-06-28 02:54:36+08:00 推文](https://twitter.com/realcaixia/status/1541495226841407489)
+
+这是昨天发的微信图片，广东朋友告急，广东洪水滔天。这样的微信图片立即被中共网管当局封杀了。中共当局真的没有丝毫人性，他们完全冷血动物，天天喊人民至上，喊生命至上，而对人民正在遭灾的信息却全面封杀！我会继续把图片四张四张的发出来。<br><img style="" src="https://pbs.twimg.com/media/FWR9u7fWIAEVCZ2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR9u7eWYAMlG7T?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR9u7dXoAAOrVX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR9u7cXEAADE7_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-06-28 02:55:45+08:00 推文](https://twitter.com/realcaixia/status/1541495518110564352)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FWR-ABgWIAo-Ug4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-ABhXoAMRg2A?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-ABkXoAAvP-K?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-ABjXoAMNv4x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-06-28 02:56:45+08:00 推文](https://twitter.com/realcaixia/status/1541495769093607425)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FWR-Od0XoAQSJnG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-Od0WAAE0MCy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-Od3WIAcyzoS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-OdzXwAEJF7j?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-06-28 02:57:45+08:00 推文](https://twitter.com/realcaixia/status/1541496019359252488)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FWR-dO5XoAMiy0J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-dO7WYAATbnB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-dO6XEAcmoEp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWR-dPGXwAIzXkf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-06-28 03:45:43+08:00 推文](https://twitter.com/realcaixia/status/1541508093225406465)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWSJb9CWQAAzoKz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWSJb8-WQAErg00?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWSJb9DXkAQK9Bp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
