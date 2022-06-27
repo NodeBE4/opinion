@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-27
+date: 2022-06-28
 from: https://twitter.com/HeQinglian/status/1541098577954574336
 layout: post
 tags:
@@ -94,4 +94,20 @@ Re @enjoygracelife @FightForJiuCai 这只是党内初选，与民主党的决胜
 ### 20: [2022-06-27 22:40:30+08:00 推文](https://twitter.com/HeQinglian/status/1541431282156068865)
 
 Re @JianglinLi 这些国家的美国大使馆被视为美国领土，那彩虹旗，究竟是升还是不升？
+
+### 21: [2022-06-28 00:07:25+08:00 推文](https://twitter.com/HeQinglian/status/1541453155489271810)
+
+Re @Wu_Zhi @JianglinLi 对了，今天朝日新闻记者采访我，问中国如何转引外媒资料在国内进行宣传？<br>我说，这我还真研究了。目前，美国要推广的LGBTQI一律不多讲，不批评不评论，乐见其成；对于大选舞弊也不提，因多米尼机器的核心部件由中国提供；但愿意大讲美国通胀、两党对立、种族歧视，美国在国际社会追随者越来越少。
+
+### 22: [2022-06-28 00:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1541454781222469633)
+
+Re @Rl_FidelCastro 去非洲一些部落，一定会引为同类。只是有一样，这些部落会比较困惑：这新生物究竟用来做甚？
+
+### 23: [2022-06-28 00:19:05+08:00 推文](https://twitter.com/HeQinglian/status/1541456090805800962)
+
+Re @JianglinLi @Wu_Zhi 中东地区缺水，需要非常高的水价才行。
+
+### 24: [2022-06-28 00:20:20+08:00 推文](https://twitter.com/HeQinglian/status/1541456405647040513)
+
+Re @BojoHaha @david_david1968 那还真不是，比如涉及美国政治的从不转。
 
