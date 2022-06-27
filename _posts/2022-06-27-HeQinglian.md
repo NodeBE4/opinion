@@ -79,3 +79,11 @@ Re @JianglinLi @vila8822 @Wu_Zhi @niulehou 白左挺受憋屈的，他们一定�
 
 Re @RealBeiMing @JianglinLi @Wu_Zhi @niulehou Created Equal，是这部片子，2020年，取消文化盛行时，美国红卫兵将这部片子取消了，现在也没恢复。
 
+### 17: [2022-06-27 09:04:34+08:00 推文](https://twitter.com/HeQinglian/status/1541225946090508288)
+
+美国民主一线命脉悬在投票机上<br><br>多家民调显示，民主党今年中选将大败。但乔州民主党初选表明，多米尼投票机将使民主党改变劣势。<br>本文通过政府公开资料揭示事实：早在2019年初，，全美选举委员会就非常清楚投票机的两大问题，当时推诿没时间，现在则以需数亿资金为由拒绝更换。 <a href="https://www.epochtimes.com/gb/22/6/26/n13767898.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/6/26/n13767898.htm</a>
+
+### 18: [2022-06-27 09:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1541228859915378689)
+
+Re @JianglinLi @ngexp @RealBeiMing @Wu_Zhi @david_david1968 拜登承诺要花费 2000 亿美元来控制 Brown People的基础设施和通信，以缓解第三世界粮食短缺和 G7 气候政策的后果，为什么就不能拨个零头——数亿美元来更换投票机？<br>天天被指责盗选，不如堂堂正正来一回竞选。
+
