@@ -119,3 +119,27 @@ Re @GaoMilan 你自己去查美国中西部森林大量减少的报道吧，我�
 
 Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这叫自利；<br>抢劫则因BLM，这是他们的社会基础；<br>对强奸幼女者宽容，也因这是他们的精英之爱好，那个岛的故事你应该知道。<br>如果要学术化名词，这叫自利型立法。
 
+### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
+
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
+
+### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
+
+Re @RealBeiMing @JianglinLi @ngexp @Wu_Zhi @david_david1968 我一看到中国知识精英还振振有词地说，美国是基督教国家，就实在觉得他们完全不了解美国发生了什么，正在发生什么。
+
+### 29: [2022-06-28 04:52:58+08:00 推文](https://twitter.com/HeQinglian/status/1541525017153912839)
+
+Re @GaoMilan 去欧盟说教吧。
+
+### 30: [2022-06-28 04:53:56+08:00 推文](https://twitter.com/HeQinglian/status/1541525258804551683)
+
+Re @JianglinLi @zhixiangziyou @Wu_Zhi 还会有大批不结盟国家，用这种方式为自己赢得空间与利益。
+
+### 31: [2022-06-28 04:57:11+08:00 推文](https://twitter.com/HeQinglian/status/1541526075238481920)
+
+Re @Wu_Zhi @RealBeiMing @JianglinLi @ngexp @david_david1968 怎么与中共国安的手法很象？难道是去学习取经了？
+
+### 32: [2022-06-28 05:07:32+08:00 推文](https://twitter.com/HeQinglian/status/1541528681495101443)
+
+Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发言，“哪怕用大炮对着我的窗口”，他早已预见到事态发展的严重性，可惜当时除了汤玛斯大法官之外，其余的还未做好准备。
+
