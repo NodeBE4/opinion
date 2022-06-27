@@ -145,7 +145,7 @@ Re @tlzhlyq 我和毛新宇同班同学。党校招考博士研究生很严格�
 
 ### 33: [2022-05-09 20:46:36+08:00 推文](https://twitter.com/realcaixia/status/1523645612666761216)
 
-中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产<br><br>美国驻华使领馆 US MissionCN: 五角大楼新闻秘书@PentagonPresSec：2022年4月20日，美国国防部长@SecDef与中华人民共和国国防部长通话。中华人民共和国国防部发布的会后汇报错误地宣称“the United States adheres to the one-China principle”（美国坚持一个中国原则<br> <a href="http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm" target="_blank" rel="noopener noreferrer">http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm</a> <a href="https://twitter.com/DeptofDefense/status/1522322906319044608" target="_blank" rel="noopener noreferrer">https://twitter.com/DeptofDefense/status/1522322906319044608</a>
+中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产
 
 ### 34: [2022-05-09 21:07:43+08:00 推文](https://twitter.com/realcaixia/status/1523650927336382465)
 
@@ -201,7 +201,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
-王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。
+王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。<br><br>《议报》: 王维洛: 毛泽东的消灭血吸虫病和习近平的防疫清零<br> <a href="https://yibaochina.com/?p=246444" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246444</a>
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
