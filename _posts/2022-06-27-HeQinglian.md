@@ -219,3 +219,15 @@ Re @ItsReimu114514 从来就没说是直线，连一个赤水都四渡，哪是�
 
 Re @lindahuiyun 玫瑰直接插枝不能活，需要水养培根。成活率是三分之一不到，养出根来入盆后还得照应一段。
 
+### 52: [2022-06-29 04:51:03+08:00 推文](https://twitter.com/HeQinglian/status/1541886921844088832)
+
+Re @JianglinLi @Wu_Zhi @FranzMendelsso1 也不算过，当时说了，最高可判55-65年。😅<br>如今判20年，大概是“念其认罪态度较好，配合司法……”，不该说的决不乱说。
+
+### 53: [2022-06-29 04:59:06+08:00 推文](https://twitter.com/HeQinglian/status/1541888948930322432)
+
+Re @JianglinLi @Wu_Zhi @FranzMendelsso1 好象不少电影（包括深圳的贪官）都有此招：复印本放在保险的地方且不止一处，如果他们死了，自动问世。<br>如今好象还有一种云端设计，当事人若干天不启动，就自动解密发送往上百个指定邮箱。
+
+### 54: [2022-06-29 05:10:15+08:00 推文](https://twitter.com/HeQinglian/status/1541891754852601860)
+
+Re @JianglinLi @Wu_Zhi @FranzMendelsso1 这些材料从来都只起后一种作用。😂至少深圳市城建局局长胡梅英用她保了自己的命。
+
