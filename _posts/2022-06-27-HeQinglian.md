@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-28
+date: 2022-06-29
 from: https://twitter.com/HeQinglian/status/1541098577954574336
 layout: post
 tags:
@@ -190,4 +190,32 @@ Re @lindahuiyun 你的金银花这时才开？我们这早就开过了。
 ### 44: [2022-06-28 23:57:27+08:00 推文](https://twitter.com/HeQinglian/status/1541813035077083136)
 
 Re @lindahuiyun 我家那株金银花送往坡上与野草莓共存。生命力这么强的它居然战不过野草莓，长得不太好。等今秋草木始枯后，我去为它清理一下天敌。香椿也在坡上，前一向改善了那里的土壤，Compose几乎占一半，全部重植，目前长势很好，今年秋天可以成林。<br>去年秋天插枝两株冰沙蓝木槿（重瓣），植株还小，居然花苞满枝
+
+### 45: [2022-06-29 01:34:58+08:00 推文](https://twitter.com/HeQinglian/status/1541837576298020864)
+
+Re @WmShuai @shenliangqing2 与弗洛伊德同款。
+
+### 46: [2022-06-29 01:36:23+08:00 推文](https://twitter.com/HeQinglian/status/1541837931035475968)
+
+Re @annie27690921 @shenliangqing2 我懒得与神本主义谈，来回就是一句话：一切都是神的旨意。<br>因此，我说了，川普被盗选，也是神的旨意，OK？<br>今年也听神的旨意，不考虑阻止使用多米尼。
+
+### 47: [2022-06-29 01:37:06+08:00 推文](https://twitter.com/HeQinglian/status/1541838112267067393)
+
+Re @LanceLiang9 @shenliangqing2 拜托你多多联系。<br>你告诉我，现在是美国抛弃了上帝，还是上帝抛弃了美国？
+
+### 48: [2022-06-29 01:40:33+08:00 推文](https://twitter.com/HeQinglian/status/1541838982106996736)
+
+Re @tianyeai1 @shenliangqing2 其实，过多堕胎，会对女性造成极大的身体伤害，尤其是三个月后堕胎，等于小产。许多女性不知厉害，过多堕胎，最后不育。<br>这事医生都懂。
+
+### 49: [2022-06-29 01:42:55+08:00 推文](https://twitter.com/HeQinglian/status/1541839574468644865)
+
+Re @Wu_Zhi 我今天正在研究贵国的三种意见，绿党主张节约，等2024年。这两年如何过，绿党不管。<br>但现实主义者认为不仅短期内无法脱离俄的天然气供应，中期内也无法。建议好好谈，找到一个双方都能接受的有利方案。
+
+### 50: [2022-06-29 01:46:32+08:00 推文](https://twitter.com/HeQinglian/status/1541840487824457731)
+
+Re @ItsReimu114514 从来就没说是直线，连一个赤水都四渡，哪是直线？
+
+### 51: [2022-06-29 01:52:10+08:00 推文](https://twitter.com/HeQinglian/status/1541841903611682816)
+
+Re @lindahuiyun 玫瑰直接插枝不能活，需要水养培根。成活率是三分之一不到，养出根来入盆后还得照应一段。
 
