@@ -412,3 +412,9 @@ Jonathan Spence's *God's Chinese Son* is where to go for the origins side, altho
 
 Ooh! I will have to listen to this one!
 
+### 575: [[Hobby Scuffles] Week of June 27, 2022](https://old.reddit.com/r/HobbyDrama/comments/vl6krg/hobby_scuffles_week_of_june_27_2022/), submitted on 2022-06-26 23:00:13+08:00.
+
+----- __575.1__ -----2022-06-28 14:04:44+08:00:
+
+How dare you, mine is not, it's only *them* that are annoying!
+
