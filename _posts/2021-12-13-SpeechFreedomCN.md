@@ -33,7 +33,7 @@ Re Shanghai Zhendan Vocational College teacher Song under investigation for ques
 
 ### 5: [2021-12-16 20:48:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1471462331733491721)
 
-Re 宋庚一，即上条推文里提到的上海震旦职业学院老师宋某，因在课堂上质疑官方宣传的南京大屠杀死亡人数，已被该学院开除。<br>Update: Song Gengyi, the teacher mentioned in the previous tweet who questioned the officially claimed death toll of Nanjing Massacre during a lecture, fired.<br><img style src="https://pbs.twimg.com/media/FGuuUTDWYAMsE3X?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 宋庚一，即上条推文里提到的上海震旦职业学院老师宋某，因在课堂上质疑官方宣传的南京大屠杀死亡人数，已被该学院开除。<br>Update: Song Gengyi, the teacher mentioned in the previous tweet who questioned the officially claimed death toll of Nanjing Massacre during a lecture, fired.<br><img style="" src="https://pbs.twimg.com/media/FGuuUTDWYAMsE3X?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-18 18:06:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1472146214699294722)
 
