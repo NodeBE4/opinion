@@ -39,6 +39,20 @@ No, the Manchus spoke the Tungusic language of Manchu. Beijing Mandarin had been
 
 'Mandarin' was applied to the scholar-bureaucrats as a whole, not the Manchus more broadly (the two were only partially intersecting).
 
+----- __576.2__ -----2022-06-28 16:09:31+08:00:
+
+> Correct me if I'm wrong but it seems your perspective comes from a Taiwanese origin?
+
+I'm from Hong Kong actually, but my perspective is broadly rooted in Anglophone academia in this case, which has consistently used 'Mandarin' over 'Putonghua' and continues to.
+
+> As far as Mandarin encompassing Hunanese, idk.
+
+Ack, you're right – I'd forgotten that Hunanese is a variety of Xiang and not of Mandarin; it's Hu*bei* that's a Mandarin region.
+
+> It's anecdotal and the source is "trust me" but I was told to call it Putonghua in English.
+
+Cool. As a part-Chinese person, 'Putonghua' is only used in certain contexts, primarily relating to Mainland China, and Mainland China does not have a monopoly on Sinitic languages.
+
 ### 577: [Super Sweaty Summer - Weekly Discussion Thread, June 27th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/vly1v1/super_sweaty_summer_weekly_discussion_thread_june/), submitted on 2022-06-27 23:25:24+08:00.
 
 ----- __577.1__ -----2022-06-28 00:55:14+08:00:
