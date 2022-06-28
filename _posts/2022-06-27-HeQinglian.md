@@ -143,3 +143,15 @@ Re @Wu_Zhi @RealBeiMing @JianglinLi @ngexp @david_david1968 怎么与中共国�
 
 Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发言，“哪怕用大炮对着我的窗口”，他早已预见到事态发展的严重性，可惜当时除了汤玛斯大法官之外，其余的还未做好准备。
 
+### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
+
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+
+### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
+
+Re @RICHARD08999364 说明拜登没糊涂，知道乌克兰在1991年以前是前苏联的一部分。在他眼中，既然俄罗斯继承了苏联，乌克兰应该也是苏联，所以普京入侵俄罗斯。<br>美国媒体对此毫无感觉，他们选出的这个总统就是好。
+
+### 35: [2022-06-28 09:38:56+08:00 推文](https://twitter.com/HeQinglian/status/1541596982321496065)
+
+Re @JiangShangrong 对他们的说话，就姑妄听之吧，一人一说法，一天一变化，全看在什么场合，全看对什么人。
+

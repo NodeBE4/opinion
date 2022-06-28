@@ -47,3 +47,7 @@ Support for Xi is crucial for CCP officials ahead of the 20th Congress. But aspe
 
 RT Jonathan Cheng<br>“In China, it’s a common practice to have an official factory, the one the auditors go to, and have something like half or more manufacturing done elsewhere,” Anjoran says. “The auditor’s job is not to check if the capacity is sufficient.”<br>@thewirechina <a href="https://bit.ly/3HR09At" target="_blank" rel="noopener noreferrer">https://bit.ly/3HR09At</a>
 
+### 9: [2022-06-27 21:39:20+08:00 推文](https://twitter.com/xinwenxiaojie/status/1541415889253400578)
+
+RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
