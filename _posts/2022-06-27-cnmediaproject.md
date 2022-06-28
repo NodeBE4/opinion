@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-27
+date: 2022-06-28
 from: https://twitter.com/niubi/status/1541147774984519681
 layout: post
 tags:
@@ -50,4 +50,8 @@ RT Jonathan Cheng<br>“In China, it’s a common practice to have an official
 ### 9: [2022-06-27 21:39:20+08:00 推文](https://twitter.com/xinwenxiaojie/status/1541415889253400578)
 
 RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-06-28 07:40:54+08:00 推文](https://twitter.com/meifongwriter/status/1541567278872928256)
+
+RT Mei Fong/ 方凤美<br>Look what came in the mail! Excited to receive advance copy of award winning ⁦@WSJ⁩ ⁦@joshchin⁩ ⁦@lizalinwsj⁩ ‘Surveillance State’ a groundbreaking analysis of Beijing’s use of surveillance tech that’s part Huxley, part Minority Report but alas wholly nonfiction<br><img style="" src="https://pbs.twimg.com/media/FWS_RIRWIAEiHGy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
