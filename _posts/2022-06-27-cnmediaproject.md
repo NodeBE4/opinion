@@ -49,9 +49,13 @@ RT Jonathan Cheng<br>“In China, it’s a common practice to have an official
 
 ### 9: [2022-06-27 21:39:20+08:00 推文](https://twitter.com/xinwenxiaojie/status/1541415889253400578)
 
-RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Do you know your secret CCP pen names? Who is "Zhong Zuwen"? "Wang Xingping"? "Ding Xuelei"? In this piece we take a look at the history of official homophone bylines in the Party-state media.<br><br><img style="" src="https://pbs.twimg.com/media/FV8EIQhagAE1ELt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a>
 
 ### 10: [2022-06-28 07:40:54+08:00 推文](https://twitter.com/meifongwriter/status/1541567278872928256)
 
 RT Mei Fong/ 方凤美<br>Look what came in the mail! Excited to receive advance copy of award winning ⁦@WSJ⁩ ⁦@joshchin⁩ ⁦@lizalinwsj⁩ ‘Surveillance State’ a groundbreaking analysis of Beijing’s use of surveillance tech that’s part Huxley, part Minority Report but alas wholly nonfiction<br><img style="" src="https://pbs.twimg.com/media/FWS_RIRWIAEiHGy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-06-28 21:03:37+08:00 推文](https://twitter.com/niubi/status/1541769287341318150)
+
+RT Bill Bishop<br>财新网【人事观察｜上海市委换届 12名常委五人“70后”】上海成为“70后”党委常委人数最多的省份 <a href="https://china.caixin.com/2022-06-28/101905318.html?originReferrer=tw-share" target="_blank" rel="noopener noreferrer">https://china.caixin.com/2022-06-28/101905318.html?originReferrer=tw-share</a>
 
