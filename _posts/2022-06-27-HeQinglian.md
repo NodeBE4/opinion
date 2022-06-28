@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -154,4 +154,24 @@ Re @RICHARD08999364 说明拜登没糊涂，知道乌克兰在1991年以前是�
 ### 35: [2022-06-28 09:38:56+08:00 推文](https://twitter.com/HeQinglian/status/1541596982321496065)
 
 Re @JiangShangrong 对他们的说话，就姑妄听之吧，一人一说法，一天一变化，全看在什么场合，全看对什么人。
+
+### 36: [2022-06-28 20:55:06+08:00 推文](https://twitter.com/HeQinglian/status/1541767143703937026)
+
+Re @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 每场所谓社会运动背后都有政治势力支持。美国这场LGBTQI+任意堕胎权运动，与我见过的有所不同，是一国的执政党与政府、军队支持，这才是问题的真正所在。<br>另一方太弱，整个社会就会失去平衡，滑入深渊。
+
+### 37: [2022-06-28 20:57:07+08:00 推文](https://twitter.com/HeQinglian/status/1541767652577878016)
+
+Re @readjoyscom1 大纪元 有英文版，如果他们认为重要，会翻译。如果他们都不翻译，说明这篇文章虽然道出真实，但不受“欢迎”——特别政治不正确。
+
+### 38: [2022-06-28 21:01:57+08:00 推文](https://twitter.com/HeQinglian/status/1541768866896003073)
+
+美中:软实力的终结 <br>评：这篇文章如果代表法国媒体业一半以上人的认识水平，法国发生什么事情，我都不会意外。<br>我只希望卢浮宫不再遭遇巴黎圣母院的命运。 <a href="https://rfi.my/8XKj.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XKj.T</a>
+
+### 39: [2022-06-28 21:02:51+08:00 推文](https://twitter.com/HeQinglian/status/1541769094688636930)
+
+Re @readjoyscom1 你如果不写专栏，不会体会到保守人士如今的艰难。
+
+### 40: [2022-06-28 21:23:13+08:00 推文](https://twitter.com/HeQinglian/status/1541774218525818883)
+
+Re @Wu_Zhi 俄乌战争，其实大局已的定，欧盟还在强撑，要陪着撑到美国中选之后。<br>我现在就等着看，西方国家的民意如何起作用。三方面：<br>1、民意是否能够自由表达；2、能否形成反馈；3、不在意民生的民主制究竟是什么？<br>这也是这些国家“去民主化”的一个过程。<br>粉们急着表态站队，我更想看清楚历史如何行进。
 
