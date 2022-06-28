@@ -29,7 +29,7 @@ The use of the term 'Putonghua' is not universal and is really mainly the standa
 
 > It's specifically the official governmental language, the same way what we call French is really the Parisian language.
 
-Not entirely. There is a Standard Chinese derived from Mandarin, but from a linguistics standpoint, Mandarin is the largest of the Sinitic dialect/language subgroups and encompasses a number of regional varieties as well such as Hunanese and Sichuanese. Its association with the governmental language is due to modern Standard Chinese and Early Modern *Guanhua* ('court language') being rooted in the Beijing dialect of Mandarin.
+Not entirely. There is a Standard Chinese derived from Mandarin, but from a linguistics standpoint, Mandarin is the largest of the Sinitic dialect/language subgroups and encompasses a number of regional varieties as well such as ~~Hunanese and~~ (EDIT: Nope, I made a mistake) Sichuanese. Its association with the governmental language is due to modern Standard Chinese and Early Modern *Guanhua* ('court language') being rooted in the Beijing dialect of Mandarin.
 
 > It has its own storied history, because it's originally the language of the Manchu, who conquered Beijing from the north and created the Qing
 
