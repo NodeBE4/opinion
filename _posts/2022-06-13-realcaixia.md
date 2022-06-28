@@ -29,7 +29,7 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 4: [2022-06-15 01:33:40+08:00 推文](https://twitter.com/realcaixia/status/1536763817945878529)
 
-利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。<br><br>荣剑: 必须人人追究此事责任者，否则，下一个被红码的就是你！<br><br><img style="" src="https://pbs.twimg.com/media/FVNW9oCUcAAb1xU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW90hUcAU_b7J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW-jLUAAEsLgH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW_FgUYAEHY7o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。
 
 ### 5: [2022-06-17 02:41:41+08:00 推文](https://twitter.com/realcaixia/status/1537505709872513024)
 
@@ -37,11 +37,11 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 6: [2022-06-19 04:23:09+08:00 推文](https://twitter.com/realcaixia/status/1538256019259854848)
 
-这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？<br><br>ZHANGDONG: 这是释放什么信号？<br><br><img style="" src="https://pbs.twimg.com/media/FVimFF6XwAAdzoB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 
-上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。
+上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。<br><br>***堆: 复工复惨<br><br><video src="https://video.twimg.com/ext_tw_video/1537393279402405892/pu/vid/1280x720/8O3HogdMzFUIk6_B.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537393279402405892/pu/img/6Tm5XmebD9Rnk3vy.jpg"></video>
 
 ### 8: [2022-06-19 05:49:51+08:00 推文](https://twitter.com/realcaixia/status/1538277840705228800)
 
