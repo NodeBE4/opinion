@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-28
+date: 2022-06-29
 from: https://twitter.com/niubi/status/1541147774984519681
 layout: post
 tags:
@@ -58,4 +58,12 @@ RT Mei Fong/ 方凤美<br>Look what came in the mail! Excited to receive advan
 ### 11: [2022-06-28 21:03:37+08:00 推文](https://twitter.com/niubi/status/1541769287341318150)
 
 RT Bill Bishop<br>财新网【人事观察｜上海市委换届 12名常委五人“70后”】上海成为“70后”党委常委人数最多的省份 <a href="https://china.caixin.com/2022-06-28/101905318.html?originReferrer=tw-share" target="_blank" rel="noopener noreferrer">https://china.caixin.com/2022-06-28/101905318.html?originReferrer=tw-share</a>
+
+### 12: [2022-06-29 08:40:46+08:00 推文](https://twitter.com/cnmediaproject/status/1541944731810385920)
+
+In our latest CMP interview, Joyce Chan speaks to Dr. Maria Repnikova, Associate Professor in Global Communication at Georgia State University, about recent development in Chinese discourse on the Russia-Ukraine War. <a href="https://chinamediaproject.org/2022/06/29/deciphering-chinese-media-discourse-on-the-russia-ukraine-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/29/deciphering-chinese-media-discourse-on-the-russia-ukraine-war/</a><br><img style="" src="https://pbs.twimg.com/media/FWYWeFoakAIGYq4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-06-29 10:24:27+08:00 推文](https://twitter.com/cnmediaproject/status/1541970823275491328)
+
+Joyce Chan speaks to Dr. Maria Repnikova, Associate Professor in Global Communication at Georgia State University, about recent developments in Chinese discourse on the Russia-Ukraine War. <a href="https://bit.ly/3QZQyeW" target="_blank" rel="noopener noreferrer">https://bit.ly/3QZQyeW</a><br><img style="" src="https://pbs.twimg.com/media/FWYuSCiagAAXvsg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
