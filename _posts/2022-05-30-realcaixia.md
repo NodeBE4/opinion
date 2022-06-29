@@ -85,15 +85,15 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+昨晚我在现场。
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
-1989.6.4 杜宪与张宏民，原先误传是薛飞，从这个视频上看应该是张宏民。
+1989.6.4 杜宪与张宏民，原先误传是薛飞，从这个视频上看应该是张宏民。<br><br>浩哥i✝️i🇺🇸iA2: 这个新闻联播我看过，杜宪的靠别演播☹️<br><br><video src="https://video.twimg.com/ext_tw_video/1533127689321689089/pu/vid/576x324/vutDcrXolaSPFrnQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1533127689321689089/pu/img/HCEwxhy1qIO1E59n.jpg"></video>
 
 ### 20: [2022-06-05 07:15:22+08:00 推文](https://twitter.com/realcaixia/status/1533225932743331840)
 
-他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。
+他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。<br><br>学文- insist: 我气坏了。刚接到老家国宝电话。说我凌晨发的莫扎特的安魂曲上面关注了。我问：你们为什么不把莫扎特禁了？这是一个何等荒谬的时代啊！<br><br><img style="" src="https://pbs.twimg.com/media/FUYBWg5UUAArOwn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2022-06-05 22:53:16+08:00 推文](https://twitter.com/realcaixia/status/1533461960741765122)
 

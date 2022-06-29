@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 3: [2021-12-14 08:08:15+08:00 推文](https://twitter.com/realcaixia/status/1470546139556593672)
 
-每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
+每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style="" src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
 
 ### 4: [2021-12-14 08:09:39+08:00 推文](https://twitter.com/realcaixia/status/1470546491680952325)
 
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 5: [2021-12-15 08:19:53+08:00 推文](https://twitter.com/realcaixia/status/1470911454115209218)
 
-每日一推！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月15日）<br>今天我给湖南省10月新上任的省委书记张庆伟写了一封公开信，要求湖南津市监狱 衡州监狱依法归还我们的亲属探视权！<br><br>明天会给其他公仆写信 省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FGjQXbSWQAAcfxv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjQXbTXwAA_3bT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjQXbUX0AAEiPm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
+每日一推！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月15日）<br>今天我给湖南省10月新上任的省委书记张庆伟写了一封公开信，要求湖南津市监狱 衡州监狱依法归还我们的亲属探视权！<br><br>明天会给其他公仆写信 省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGjQXbSWQAAcfxv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjQXbTXwAA_3bT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjQXbUX0AAEiPm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
 
 ### 6: [2021-12-15 09:27:05+08:00 推文](https://twitter.com/realcaixia/status/1470928366681444357)
 
@@ -93,7 +93,7 @@ Re @Ipkmedia @ZhangDong_SCH 胡叼盘这是要就坡撤叫驴。叼盘是本性�
 
 ### 20: [2021-12-19 20:39:58+08:00 推文](https://twitter.com/realcaixia/status/1472547251625119746)
 
-粗放型经济掠夺式增长，耗尽资源污染环境，抢子孙饭吃断子孙活路。中共知道干的是断子绝孙之事，1997年曾提出转变经济增长方式的问题，党国要面子官员要升官上下尽贪，依赖GDP成瘾，隐患多多积弊重重，终至积重难返。近年权力任性，一句话灭一个行业，一拳砸上千万人饭碗………党国经济终究颓势难挡。<br><br>韩连潮: 【党国经济现危机】党国经济表面上只是经济增长减缓，如从3季度的4.9%下降到4季度3.1%，但实际是结构和政策性经济危机：房价连续下降，钢铁和水泥生产暴跌，原油进口出现自2004来首次下跌。而中央经济工作会议仍竭力吹嘘习经济成就，开出的都是假大空药方，所谓求稳就是确保中共对市场和资本的绝对控制<br><br><img style="" src="https://pbs.twimg.com/media/FG0P_M6XMAswzMR?format=jpg&name=orig" referrerpolicy="no-referrer">
+粗放型经济掠夺式增长，耗尽资源污染环境，抢子孙饭吃断子孙活路。中共知道干的是断子绝孙之事，1997年曾提出转变经济增长方式的问题，党国要面子官员要升官上下尽贪，依赖GDP成瘾，隐患多多积弊重重，终至积重难返。近年权力任性，一句话灭一个行业，一拳砸上千万人饭碗………党国经济终究颓势难挡。<br><br>韩连潮: 【党国经济现危机】党国经济表面上只是经济增长减缓，如从3季度的4.9%下降到4季度3.1%，但实际是结构和政策性经济危机：房价连续下降，钢铁和水泥生产暴跌，原油进口出现自2004来首次下跌。而中央经济工作会议仍竭力吹嘘习经济成就，开出的都是假大空药方，所谓求稳就是确保中共对市场和资本的绝对控制<br><br><img style src="https://pbs.twimg.com/media/FG0P_M6XMAswzMR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-19 21:04:02+08:00 推文](https://twitter.com/realcaixia/status/1472553309953216518)
 
@@ -101,5 +101,5 @@ Re 大陆经济至此，根源在于极权专制制度，非是政策转向所�
 
 ### 22: [2021-12-19 22:33:16+08:00 推文](https://twitter.com/realcaixia/status/1472575764499517444)
 
-呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
+呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style="" src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
 
