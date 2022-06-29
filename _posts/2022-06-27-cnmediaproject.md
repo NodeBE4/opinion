@@ -71,3 +71,7 @@ Joyce Chan speaks to Dr. Maria Repnikova, Associate Professor in Global Communic
 
 Eradicating China's "Spiritual Americans": The latest inflammatory rhetoric from Zhang Weiwei, head of the China Institute at Fudan University, is a concerning sign of what his thinking on external messaging means for intellectuals at home. <a href="https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/</a><br><img style="" src="https://pbs.twimg.com/media/FWZb-MOagAAlVSj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 15: [2022-06-29 21:44:49+08:00 推文](https://twitter.com/cnmediaproject/status/1542142044445212678)
+
+The latest inflammatory rhetoric from Zhang Weiwei, head of the China Institute at Fudan University, is a concerning sign of what his thinking on external messaging, which has found a willing ear in the leadership, means for intellectuals at home. <a href="https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/</a><br><img style="" src="https://pbs.twimg.com/media/FWbJ_gTagAEKbK3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

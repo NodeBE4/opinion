@@ -121,11 +121,11 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。
+技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 

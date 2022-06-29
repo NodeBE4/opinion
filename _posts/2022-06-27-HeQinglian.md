@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-06-29
+date: 2022-06-30
 from: https://twitter.com/HeQinglian/status/1541098577954574336
 layout: post
 tags:
@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -254,4 +254,12 @@ Re @Wu_Zhi 德国的名望来自于自己是西方阵营，并且是欧盟支柱
 ### 60: [2022-06-29 20:31:47+08:00 推文](https://twitter.com/HeQinglian/status/1542123663125893120)
 
 Re @yanyan420827 @JianglinLi @Wu_Zhi @FranzMendelsso1 天然气去年欧盟就计入绿能了。
+
+### 61: [2022-06-30 01:09:12+08:00 推文](https://twitter.com/HeQinglian/status/1542193479316606977)
+
+Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
+
+### 62: [2022-06-30 01:18:46+08:00 推文](https://twitter.com/HeQinglian/status/1542195887455223809)
+
+《外交政策》揭谜底：<br>《俄罗斯的战争是气候政策的终结》：冷战结束以后，对于大部分国际社会，特别是联合国及其机构而言，气候变化不仅是一个环境问题，它为重塑冷战后的秩序提供了机会。但《京都协议书》的碳排放权交易始终没有能够成为国际通行的“硬通货”。 <a href="https://foreignpolicy.com/2022/06/05/climate-policy-ukraine-russia-energy-security-emissions-cold-war-fossil-fuels/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2022/06/05/climate-policy-ukraine-russia-energy-security-emissions-cold-war-fossil-fuels/</a>
 
