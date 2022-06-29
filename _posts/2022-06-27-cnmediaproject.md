@@ -67,3 +67,7 @@ In our latest CMP interview, Joyce Chan speaks to Dr. Maria Repnikova, Associate
 
 Joyce Chan speaks to Dr. Maria Repnikova, Associate Professor in Global Communication at Georgia State University, about recent developments in Chinese discourse on the Russia-Ukraine War. <a href="https://bit.ly/3QZQyeW" target="_blank" rel="noopener noreferrer">https://bit.ly/3QZQyeW</a><br><img style="" src="https://pbs.twimg.com/media/FWYuSCiagAAXvsg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-06-29 13:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1542021189115461632)
+
+Eradicating China's "Spiritual Americans": The latest inflammatory rhetoric from Zhang Weiwei, head of the China Institute at Fudan University, is a concerning sign of what his thinking on external messaging means for intellectuals at home. <a href="https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/</a><br><img style="" src="https://pbs.twimg.com/media/FWZb-MOagAAlVSj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

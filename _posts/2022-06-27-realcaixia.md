@@ -75,3 +75,15 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 Re 今晨议报发布了我的一篇文章《2018年春他打开了什么样的潘多拉魔盒——习近平诡诈而狡蛮的修宪及其影响》。<br>我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。接着议报陷入不正常状态
 
+### 16: [2022-06-29 14:14:37+08:00 推文](https://twitter.com/realcaixia/status/1542028747343372288)
+
+昨天早晨议报网站发布了这篇文章后，即遭到不明攻击，昨天一直处于抢修—恢复—攻击—抢修—恢复—攻击的反复中，网站状态很不稳定，许多推友无法打开议报阅读文章，向大家致歉了。<br>刚才我试了一下，议报现在能打开了。这篇文章16000字，太长，无法直接发到推特上来，请见谅。 <a href="https://yibaochina.com/?p=247040" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247040</a>
+
+### 17: [2022-06-29 14:24:15+08:00 推文](https://twitter.com/realcaixia/status/1542031171596460033)
+
+Re @Ruru85678093 请再试一下，能打开了。
+
+### 18: [2022-06-29 14:33:58+08:00 推文](https://twitter.com/realcaixia/status/1542033617798500354)
+
+Re @FPigsty 非常感谢您。🌹🤝🌹
+

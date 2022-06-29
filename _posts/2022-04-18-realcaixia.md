@@ -57,7 +57,7 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 11: [2022-04-18 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1515872221230682116)
 
-真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。<br><br>Luo Shengchun丁家喜律师妻子: #纽约人权活动之旅 前天驱车来到纽约市参加由非政府机构中国人权（HRIC）@hrichina 举办的法律程序国际标准有关的培训，结识了一批年轻活动者和律师，并一起学习探讨中国政府制定及执行法律时与国际标准的距离，受益非浅！培训结束与全程参与培训的中国人权执行主任，法学荣誉退休教授谭女士合影留念。<br><br><img style="" src="https://pbs.twimg.com/media/FQgdB4xXoAccxMK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQgdB4wWQAs4HiU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
