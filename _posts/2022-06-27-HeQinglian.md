@@ -251,3 +251,7 @@ Re @JianglinLi @Wu_Zhi @FranzMendelsso1 听说过“洗绿”（greenwashing）�
 
 Re @Wu_Zhi 德国的名望来自于自己是西方阵营，并且是欧盟支柱；<br>德国用来养活欧盟小兄弟的钱，产生始端——能源依靠俄罗斯，变现的终端——市场却是中国。<br>能够用人权教训中国，得益于其西方身份。<br>有点魔幻。
 
+### 60: [2022-06-29 20:31:47+08:00 推文](https://twitter.com/HeQinglian/status/1542123663125893120)
+
+Re @yanyan420827 @JianglinLi @Wu_Zhi @FranzMendelsso1 天然气去年欧盟就计入绿能了。
+
