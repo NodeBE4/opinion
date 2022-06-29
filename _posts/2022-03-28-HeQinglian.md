@@ -401,7 +401,7 @@ Re @kingbo25729098 亚述营维护的是哪种自由传统？
 
 ### 97: [2022-03-30 10:26:32+08:00 推文](https://twitter.com/HeQinglian/status/1508994053664382977)
 
-俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
+RT He Qinglian<br>俄乌战争迫使全球分工体系重组<br><br>全球化的两大基石，一是基于比较成本理论而形成的国际分工体系，二是资本的安全流动，现在都被摧毁。全面制裁在打击俄罗斯时，也伤害了对外资源依赖与市场依赖度很高的欧盟国家，德国受损尤其大<br>全球化1.0版的终结，对欧美来说是不可挽回的损失 <a href="https://www.epochtimes.com/gb/22/3/29/n13681934.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/3/29/n13681934.htm</a>
 
 ### 98: [2022-03-30 14:09:30+08:00 推文](https://twitter.com/228oldSoldier/status/1509050163314233348)
 
