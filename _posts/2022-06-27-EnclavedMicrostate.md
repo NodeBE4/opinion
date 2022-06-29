@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-28
+date: 2022-06-29
 from: https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/
 layout: post
 tags:
@@ -76,4 +76,84 @@ Yes.
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 579: [[manchu - english]](https://old.reddit.com/r/translator/comments/vn4dee/manchu_english/), submitted on 2022-06-29 10:17:07+08:00.
+
+----- __579.1__ -----2022-06-29 22:31:03+08:00:
+
+This looks like some kind of bizarre propaganda for... some kind of weird nationalist movement. But there is some legible text so here goes. I won't bother with full translations everywhere, especially in the case of the top right text which is only partial and where I got the gist pretty fast. Each section has the Manchu script (legible to anyone with the appropriate fonts installed), the Romanisation (I use Norman rather than Abkai), and a literal word-for-word translation, followed by commentary.
+
+Photo caption (cut off at the bottom):
+
+> ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳ[...]
+
+> abka manju karmame ai[...]
+
+> Heaven Manchu protect (converb form) [...]
+
+Turns out, a quick Google of the phrase "abka manju karmame" reveals its origins as the phrase *abka manju karmame aisireo* ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳᠰᡳᡵᡝᠣ, in literal terms 'Heaven Manchu protect bless', in more idiomatic terms 'may Heaven protect the Manchus'. However, as pointed out by [this Twitter user](https://twitter.com/slmngy001/status/673014906355113984?lang=en), this is not really proper Manchu, as it lacks the accusative particle *be* ᠪᡝ. The user does also claim that the phrase doubles up on terms that translate to the same Mandarin term for 'protect', although consulting Norman's dictionary, the two verbs do seem to be somewhat distinct, with *karmambi* being 'protect' or 'safeguard' while *aisimbi* is 'bless' or 'uphold'. If grammatically rendered as *abka manju be karmame aisireo* ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᠪᡝ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳᠰᡳᡵᡝᠣ, it would mean something along the lines of 'Heaven protectively bless the Manchus.'
+
+Top right (also cut off at the bottom)
+
+> ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ ᠠᠪᡴᠠᡳ ᡶᡝᠵᡝᡵᡤᡳ ᠨᡳᠶᠠ[]
+
+> abkai ejen abkai fejergi niya[]
+
+> Heaven (possessive) lord Heaven (possessive) under
+
+The first line cuts at *niya* but is almost certainly *niyalma*, 'people', but there is no verb so I cannot give a direct translation of these five words beyond the existence of the phrases 'Lord of Heaven', '[all] under Heaven', and 'people'.
+
+*However* Google saves the day. A quick search revealed that these five words are the first of John 3:16 in what seems to have been a late 19th century Manchu translation, which in full reads
+
+> ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ ᠠᠪᡴᠠᡳ ᡶᡝᠵᡝᡵᡤᡳ ᠨᡳᠶᠠᠯᠮᠠ ᠪᡝ ᡤᠣᠰᡳᠮᡝ  
+> ᡳᠨᡳ ᠪᠠᠨᠵᡳᡥᠠ ᡝᠮᡥᡠᡥ ᡨᡝᡳᠯᡝ ᠵᡠᡳ ᠪᡝ ᠴᡝᠨᡩᡝ ᠠᡶᠠᠪᡠᡥᠠᠩᡤᡝ
+> ᠴᠣᡥᠣᠮᡝ ᡨᡝᡩᡝ ᠠᡴᡩᠠᡵᠠ ᠶᠠᠶᠠ ᠨᡳᠶᠠᠯᠮᠠ ᡤᡠᡴᡠᡵᠠᡴᡠ ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ
+> ᡝᠯᡝᠮᠠᠩᡤᠠ ᡝᠨᡨᡝᡥᡝᠮᡝ ᠪᠠᠨᡵᠵᡳᡝ ᠪᡝ ᠪᠠᡥᠠᡴᡳᠨᡳ ᠰᡝᡥᡝᠩᡤᡝ
+> ᡝᡵᡝ ᡨᡝᠨ  ᡳ ᡤᠣᠰᡳᠨ ᡴᠠᡳ
+
+> Abkai ejen abkai fejergi niyalma be gosime,  
+> ini banjiha emhun teile jui be cende afabuhangge,  
+> cohome tede akdara yaya niyalma gukuraku sere anggala,  
+> elemangga enteheme banjire be bahakini sehengge,  
+> ere ten i gosin kai.
+
+> Of-Heaven lord of-Heaven of-under people (acc.) love,  
+> He born alone alone son (acc.) them (dat.) entrust,  
+> Especially him (dat.) believe every person perish instead of,  
+> On the other hand eternal living obtain say,  
+> This highest (poss.) love (emphatic particle).
+
+Which to try to make idiomatic would be along the lines of:
+
+> The Lord of Heaven loved the people under Heaven, [so]  
+> He entrusted them his only begotten son,  
+> So that every person who believed him, instead of perishing,  
+> Will instead receive eternal life.
+> This is the highest/greatest love.
+
+Contrast NIV:
+
+> For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+
+Or KJV:
+
+> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+
+The final *ere ten i gosin kai* phrase seems to be an annotation to John 3:16 added in the text from which this clipping is drawn.
+
+Bottom right:
+
+> ᠵᡝᡤᡳᠶᠠᠩ ᡤᠣᠯᠣᡳ ᡩᠣᠣᠯᡳᡳ  ᡳ ᠪᡨᠠᡳᠠ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ  
+> ᠪᠠᡳᠴᠠᠮᡝ ᡨᠣᠣᡵᠠ ᡥᠠᡶᠠᠨ ᠪᠣᠣᠮᡳᠩ  ᡳ ᡤᡳᠩᡤᡠᠯᡝᠮᡝ ᠠᡵᠠᡥᠠᠩᡤᡝ  
+> ᠠᠵᠯᠠᡶᡠᠨ
+
+> jegiyang goloi dooli i baita be baicara  
+> baicame ?toora? hafan booming i gingguleme arahangge  
+> jalafun
+
+> Zhejiang province (poss.) circuit (poss.) matter (acc.) inspection  
+> inspect (converb) ?? official ?Booming? he respectfully written
+> long life
+
+I'm not entirely sure on this, but it seems to be taken from the tail-end of some kind of administrative letter, written by an official named Booming (pronounced Baoming) declaring his involvement in some kind of inspection, and closing with wishing longevity upon the recipient. Unlike the other two texts I wasn't able to cross-reference my transliteration against an online one, so I can only assume this is some sort of archival document not otherwise digitised.
 
