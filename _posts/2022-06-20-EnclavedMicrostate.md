@@ -422,3 +422,7 @@ How dare you, mine is not, it's only *them* that are annoying!
 
 Must be a serious blow to Arin getting supplanted by [a virtual dog](https://img1.ak.crunchyroll.com/i/spire3/05b4fc45a909ade7a49f7eec4b6e8bc71656035037_main.jpg). Yes that is real, [it's a functional outfit in Korone's repertoire](https://www.youtube.com/watch?v=QeqfCtJ-chw).
 
+----- __575.3__ -----2022-06-29 21:09:42+08:00:
+
+It's the best of all possible worlds.
+
