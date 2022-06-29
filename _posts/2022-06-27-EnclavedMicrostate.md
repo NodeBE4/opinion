@@ -85,7 +85,7 @@ This looks like some kind of bizarre propaganda for... some kind of weird nation
 
 Photo caption (cut off at the bottom):
 
-> ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳ[...]
+> ᠠᠪᡴᠠ ᠮᠠᠨᠵᡠ ᡴᠠᡵᠮᠠᠮᡝ ᠠᡳ[...]
 
 > abka manju karmame ai[...]
 
@@ -107,9 +107,9 @@ The first line cuts at *niya* but is almost certainly *niyalma*, 'people', but t
 
 > ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ ᠠᠪᡴᠠᡳ ᡶᡝᠵᡝᡵᡤᡳ ᠨᡳᠶᠠᠯᠮᠠ ᠪᡝ ᡤᠣᠰᡳᠮᡝ  
 > ᡳᠨᡳ ᠪᠠᠨᠵᡳᡥᠠ ᡝᠮᡥᡠᡥ ᡨᡝᡳᠯᡝ ᠵᡠᡳ ᠪᡝ ᠴᡝᠨᡩᡝ ᠠᡶᠠᠪᡠᡥᠠᠩᡤᡝ
-> ᠴᠣᡥᠣᠮᡝ ᡨᡝᡩᡝ ᠠᡴᡩᠠᡵᠠ ᠶᠠᠶᠠ ᠨᡳᠶᠠᠯᠮᠠ ᡤᡠᡴᡠᡵᠠᡴᡠ ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ
-> ᡝᠯᡝᠮᠠᠩᡤᠠ ᡝᠨᡨᡝᡥᡝᠮᡝ ᠪᠠᠨᡵᠵᡳᡝ ᠪᡝ ᠪᠠᡥᠠᡴᡳᠨᡳ ᠰᡝᡥᡝᠩᡤᡝ
-> ᡝᡵᡝ ᡨᡝᠨ  ᡳ ᡤᠣᠰᡳᠨ ᡴᠠᡳ
+> ᠴᠣᡥᠣᠮᡝ ᡨᡝᡩᡝ ᠠᡴᡩᠠᡵᠠ ᠶᠠᠶᠠ ᠨᡳᠶᠠᠯᠮᠠ ᡤᡠᡴᡠᡵᠠᡴᡠ ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ
+> ᡝᠯᡝᠮᠠᠩᡤᠠ ᡝᠨᡨᡝᡥᡝᠮᡝ ᠪᠠᠨᡵᠵᡳᡝ ᠪᡝ ᠪᠠᡥᠠᡴᡳᠨᡳ ᠰᡝᡥᡝᠩᡤᡝ
+> ᡝᡵᡝ ᡨᡝᠨ  ᡳ ᡤᠣᠰᡳᠨ ᡴᠠᡳ
 
 > Abkai ejen abkai fejergi niyalma be gosime,  
 > ini banjiha emhun teile jui be cende afabuhangge,  
@@ -143,8 +143,8 @@ The final *ere ten i gosin kai* phrase seems to be an annotation to John 3:16 ad
 
 Bottom right:
 
-> ᠵᡝᡤᡳᠶᠠᠩ ᡤᠣᠯᠣᡳ ᡩᠣᠣᠯᡳᡳ  ᡳ ᠪᡨᠠᡳᠠ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ  
-> ᠪᠠᡳᠴᠠᠮᡝ ᡨᠣᠣᡵᠠ ᡥᠠᡶᠠᠨ ᠪᠣᠣᠮᡳᠩ  ᡳ ᡤᡳᠩᡤᡠᠯᡝᠮᡝ ᠠᡵᠠᡥᠠᠩᡤᡝ  
+> ᠵᡝᡤᡳᠶᠠᠩ ᡤᠣᠯᠣᡳ ᡩᠣᠣᠯᡳᡳ  ᡳ ᠪᡨᠠᡳᠠ ᠪᡝ ᠪᠠᡳᠴᠠᡵᠠ  
+> ᠪᠠᡳᠴᠠᠮᡝ ᡨᠣᠣᡵᠠ ᡥᠠᡶᠠᠨ ᠪᠣᠣᠮᡳᠩ  ᡳ ᡤᡳᠩᡤᡠᠯᡝᠮᡝ ᠠᡵᠠᡥᠠᠩᡤᡝ  
 > ᠠᠵᠯᠠᡶᡠᠨ
 
 > jegiyang goloi dooli i baita be baicara  
@@ -155,5 +155,5 @@ Bottom right:
 > inspect (converb) ?? official ?Booming? he respectfully written
 > long life
 
-I'm not entirely sure on this, but it seems to be taken from the tail-end of some kind of administrative letter, written by an official named Booming (pronounced Baoming) declaring his involvement in some kind of inspection, and closing with wishing longevity upon the recipient. Unlike the other two texts I wasn't able to cross-reference my transliteration against an online one, so I can only assume this is some sort of archival document not otherwise digitised.
+I'm not entirely sure on this, but it seems to be taken from the tail-end of some kind of administrative letter, written by an official named Booming (pronounced Baoming) declaring his involvement in some kind of inspection in a circuit of Zhejiang Province, and closing with wishing longevity upon the recipient. Unlike the other two texts I wasn't able to cross-reference my transliteration against an online one, so I can only assume this is some sort of archival document not otherwise digitised.
 
