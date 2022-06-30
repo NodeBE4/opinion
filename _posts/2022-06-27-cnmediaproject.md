@@ -79,3 +79,7 @@ The latest inflammatory rhetoric from Zhang Weiwei, head of the China Institute 
 
 Yang Haipeing (杨海鹏), a veteran investigator and editor and one of China's top reporters from the heyday of print journalism a decade ago, passed away suddenly in Shanghai today. <a href="https://chinamediaproject.org/2022/06/30/remembering-journalist-yang-haipeng/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/30/remembering-journalist-yang-haipeng/</a><br><img style="" src="https://pbs.twimg.com/media/FWfatRcaUAAalRx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 17: [2022-06-30 17:38:31+08:00 推文](https://twitter.com/lugkgn_1/status/1542442449691463682)
+
+RT 半截香烟<br>讣告<br><br>        我最亲爱的丈夫，新闻人杨海鹏于昨日凌晨因突发疾病去世，享年五十五岁。相关祭奠活动请友朋静候通知，由治丧小组安排。<br><br>              梅晓阳携爱女泣告<br><br>               2022年6月30日<br><img style="" src="https://pbs.twimg.com/media/FWfbOGcWQAAOObt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

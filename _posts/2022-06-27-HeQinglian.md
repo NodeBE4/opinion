@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -322,4 +322,48 @@ Re @Wu_Zhi @nytchinese 真理部只需要发布它们需要的信息，符合需
 ### 77: [2022-06-30 21:09:29+08:00 推文](https://twitter.com/HeQinglian/status/1542495541703151616)
 
 Re @xuezhou_yang 整段话其实是讽刺。
+
+### 78: [2022-06-30 22:16:05+08:00 推文](https://twitter.com/HeQinglian/status/1542512300740841474)
+
+Re @JianglinLi @RealBeiMing @ngexp 有。至少其中两人有，但不是补贴，是资助。
+
+### 79: [2022-06-30 22:21:39+08:00 推文](https://twitter.com/HeQinglian/status/1542513701915222019)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 荷兰色情业可能有麻烦。<br>过去在荷兰街头橱窗里展览的色情活模特，是其吸引旅客的主要法门。自从2020年5月BLM运动的美国男女裸奔、街舞，再遇到美加骄傲月的生殖器官游行展示，人们不需要花钱去那里看了，纽约、旧金山、华府、芝加哥随处可见。<br>泰国的人妖行业应该也快衰落了。<br>荷泰推友请发布信息。
+
+### 80: [2022-06-30 22:32:22+08:00 推文](https://twitter.com/HeQinglian/status/1542516399473451009)
+
+Re @JianglinLi @RealBeiMing @ngexp 世界总统兼美国总统正在批评美最高法院，那几个保守派大法官不害怕拜登发动群众Pack The Court？<br>当初裁定舞弊作废，重新选举，人工计票，少了多少麻烦？
+
+### 81: [2022-06-30 22:34:28+08:00 推文](https://twitter.com/HeQinglian/status/1542516926542270464)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 “虫子”是啥？我家后园每天一袋甲壳虫进入那个Trap，我送给他们去。
+
+### 82: [2022-06-30 22:35:44+08:00 推文](https://twitter.com/HeQinglian/status/1542517243526860804)
+
+Re @OfcIQOD2XkWhsKt 我没见，都是网上视频，他们展示，我没兴趣。<br>台湾快了，同志出柜都引为骄傲，不知过骄傲月没有？
+
+### 83: [2022-06-30 22:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1542517962954797056)
+
+Re @JianglinLi @RealBeiMing @ngexp 那是愿望上的世界总统，拜登才是真货。
+
+### 84: [2022-06-30 22:39:08+08:00 推文](https://twitter.com/HeQinglian/status/1542518099328372743)
+
+Re @OfcIQOD2XkWhsKt 听说这病能治了——我从广播上听了那么一小段。
+
+### 85: [2022-06-30 22:40:29+08:00 推文](https://twitter.com/HeQinglian/status/1542518438559481858)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 如果有地址，我准备将对面邻居家与我家的甲壳虫都收集好，攒满一纸盒，给这位想吃虫子的人寄去。
+
+### 86: [2022-06-30 23:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1542524462804996096)
+
+Re @JianglinLi @RealBeiMing @ngexp 三年前我家常去的一家Superette，后靠树林，有空地，几天前从那过，发现已经造好五栋三层楼房，估计就是该镇的难民安置屋——新州接了十多万难民。<br>那地儿便于难民居住，过了马路，就是各种超市。
+
+### 87: [2022-06-30 23:26:34+08:00 推文](https://twitter.com/HeQinglian/status/1542530036649058304)
+
+Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会亲见美国左派将美国最美好的物事一件件毁掉。
+
+### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
+
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
 
