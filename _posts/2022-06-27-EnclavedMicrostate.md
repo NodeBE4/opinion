@@ -77,6 +77,22 @@ Was there anything that prompted this? Is it just that everyone has been malding
 
 Perhaps my wording was a bit off – by 'rehash' I didn't mean that new drama was happening, but rather that old drama got brought up again and including in threads that were at best tangentially related. And I've been around long enough to know that if there's new drama then it probably will make it here, which is why I asked if there was old stuff people wouldn't let go of, or if something had just so happened to remind people of it.
 
+----- __577.6__ -----2022-06-30 18:59:42+08:00:
+
+Bit late, but thanks for at least giving a straight answer.
+
+----- __577.7__ -----2022-06-30 19:00:28+08:00:
+
+Nux, or me? IDK what post history you've been reading that you think I'm incapable of genuinely being caught off-guard by coming across several random VShojo antis on both this sub and r/hololive within a span of about 48 hours, with no apparent prompting.
+
+----- __577.8__ -----2022-06-30 19:18:31+08:00:
+
+That's a cool-looking 3D set that HoloX has going there. I don't believe there's precedent with any other generation so far?
+
+It's actually got me wondering about if and when Hololive's attitudes towards how generations work has changed a bit since its inception. I think there's general agreement that Gens 1 and 2 basically happened to be members that debuted together (sans Mel but that has to do with the whole Chris incident), and that Gen 3 was the first real coherent generation, but I don't recall there being much of a comparable dynamic with Gen 4 (granted, I fell down the rabbit hole less than half a year before Coco graduated). Gen 5 definitely has the vibe of a coherent generation but I don't think it's had the same level of official 'this is a coherent group' that's been pushed with HoloX. Plus, HoloX is the first JP generation which seems to be much more consistently identified by generation name rather than number. So I'm wondering if the change wasn't Gen 3 happening to really gel, but more the relative success of how EN and ID have been handled. But then again Parsley and Kakage's designs were opened for auditions before ID1 debuted, so IDK. I bring this up because I think there's also some level of this in EN and ID too. Council feels like it was very deliberately intended as a coherently themed unit in a way that Myth wasn't, and I think it was also around that time that it became officially-official that Gen 1 was actually Myth and Gen 2 was Council, and indeed that EN generations weren't numbered at all. In turn if I'm not mistaken (but may well be), ID3 seems to have been the first ID generation with an official name (holoh3ro) out the gate rather than a name made official later on with Gens 1 and 2.
+
+Anyway, in short, I feel like HoloX is the first JP generation to really be intentionally and officially framed as a single generation and not five individual members, and that there's some precedent with Council and a bit of a repeat with ID3. Or maybe I'm talking completely out of my arse here.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:
