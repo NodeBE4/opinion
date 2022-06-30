@@ -93,7 +93,7 @@ The CAC announced yesterday it has shut down 20,000 “top online influencer acc
 
 ### 20: [2021-12-16 11:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471319064304054280)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGss2ttUYAIbPEF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGss2ttUYAIbPEF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
@@ -145,7 +145,7 @@ In our dictionary entry on "ideol. and pol. education" (思政), this example st
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
-Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style="" src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 

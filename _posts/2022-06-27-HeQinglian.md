@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -274,4 +274,16 @@ Re @RealBeiMing 皮尤研究中心根据人口普查局1990年到2019年统计�
 ### 65: [2022-06-30 04:36:31+08:00 推文](https://twitter.com/HeQinglian/status/1542245652528259077)
 
 Re @slatersrule 皮尤的调查是抽样，抽样有一整套方法，从年龄、族裔到地区。你个人的交往圈有多大？自己算算。<br>当然，可以写信给皮尤，告诉他们，与你的感觉不一样。
+
+### 66: [2022-06-30 07:08:14+08:00 推文](https://twitter.com/HeQinglian/status/1542283830769471488)
+
+Re @pandatress1 @xuezhou_yang @chuangnanzoubei 前些年，是资源国处于弱势，买方市场。OPEC决定限量生产，石油生产国搞价格同盟，是俄罗斯加入，成了OPEC+1之后的事情。因此，那些石油国产量不增，收入增，还是很感谢俄罗斯的。<br>这一仗，将资源供应国与需求国的地位颠倒过来了。
+
+### 67: [2022-06-30 08:36:19+08:00 推文](https://twitter.com/HeQinglian/status/1542305997519306752)
+
+拜登继承奥八的遗产，以做世界总统为己任。<br>N-TV电视台对拜登表示了赞扬。该电视台认为，拜登在他本国的民调数字很惨，国内政治问题也一大堆。但在全球政策方面，却做了很多正确的事情，尽管很多美国人并不希望如此。 <a href="https://rfi.my/8Xhx.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Xhx.T</a>
+
+### 68: [2022-06-30 09:38:49+08:00 推文](https://twitter.com/HeQinglian/status/1542321725903347714)
+
+马克龙可以先在G7内部统一油价，定价权试点成功后，再推广至OPEC+1，声明如果不按G7的定价，G7将拒绝购买，让这些产油国抱着石油痛哭。<br><br>Ezio Mao☢: 法国希望在全球范围内限制油价<br><br>法国在七国集团领导人峰会上推翻了一项关于限制俄罗斯石油价格的提议，而是坚持对包括美国在内的所有产油国实施全球价格控制。 <br><br>目前尚不清楚法国计划如何迫使包括欧佩克成员在内的其他大型石油生产国限制其价格。<br><br>马克龙这把世界霸主了😅<br> <a href="https://www.politico.eu/article/france-wants-worldwide-cap-on-oil-prices/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/france-wants-worldwide-cap-on-oil-prices/</a>
 
