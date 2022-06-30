@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -298,4 +298,28 @@ Re @winter_living 快了，他们正在制定三年计划，最好只争朝夕�
 ### 71: [2022-06-30 11:06:16+08:00 推文](https://twitter.com/HeQinglian/status/1542343736201453568)
 
 Re @JianglinLi @RealBeiMing @ngexp @Wu_Zhi @david_david1968 就算烂尾了，也昂首阔步走在入欧的康庄大道上，那成色就是不一样。
+
+### 72: [2022-06-30 20:02:23+08:00 推文](https://twitter.com/HeQinglian/status/1542478654864760832)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显龙就预言不会有效果。去之后，好几国领导人勉强发言，说有比没有好，但看不到效果。<br>人家自己回来后都不大说这事，折腾堕胎、变性内政去了。
+
+### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
+
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
+
+### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
+
+Re @david_david1968 不是“如果”，普京早就说过，他一定参加。如果他不参加，将是两个后果：<br>A、普京病重，不能出席；<br>B、普京害怕被西方领导集体冷落，不敢出席。
+
+### 75: [2022-06-30 20:49:03+08:00 推文](https://twitter.com/HeQinglian/status/1542490396328091649)
+
+Re @xuezhou_yang 事实是：从6月15日开始，俄罗斯收紧对欧洲的能源供给。欧洲现在一片哀嚎，东欧国家已经威胁欧盟：到冬天，我们什么都烧，管你什么绿能。<br>因此，究竟是谁失去谁，我按事实来。😅
+
+### 76: [2022-06-30 20:52:04+08:00 推文](https://twitter.com/HeQinglian/status/1542491157510356992)
+
+Re @Wu_Zhi @nytchinese 真理部只需要发布它们需要的信息，符合需要为真，不符合需要为假。
+
+### 77: [2022-06-30 21:09:29+08:00 推文](https://twitter.com/HeQinglian/status/1542495541703151616)
+
+Re @xuezhou_yang 整段话其实是讽刺。
 

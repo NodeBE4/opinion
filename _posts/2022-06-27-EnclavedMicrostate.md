@@ -93,6 +93,14 @@ It's actually got me wondering about if and when Hololive's attitudes towards ho
 
 Anyway, in short, I feel like HoloX is the first JP generation to really be intentionally and officially framed as a single generation and not five individual members, and that there's some precedent with Council and a bit of a repeat with ID3. Or maybe I'm talking completely out of my arse here.
 
+----- __577.9__ -----2022-06-30 20:05:11+08:00:
+
+Ah phew. Sorry for jumping to conclusions.
+
+----- __577.10__ -----2022-06-30 20:47:48+08:00:
+
+I'm well aware, hence why I brought them up – arguably, HoloX was in the works before the ID1 debut.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:
