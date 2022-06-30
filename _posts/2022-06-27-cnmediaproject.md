@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-29
+date: 2022-06-30
 from: https://twitter.com/niubi/status/1541147774984519681
 layout: post
 tags:
@@ -49,7 +49,7 @@ RT Jonathan Cheng<br>“In China, it’s a common practice to have an official
 
 ### 9: [2022-06-27 21:39:20+08:00 推文](https://twitter.com/xinwenxiaojie/status/1541415889253400578)
 
-RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Do you know your secret CCP pen names? Who is "Zhong Zuwen"? "Wang Xingping"? "Ding Xuelei"? In this piece we take a look at the history of official homophone bylines in the Party-state media.<br><br><img style="" src="https://pbs.twimg.com/media/FV8EIQhagAE1ELt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a>
 
 ### 10: [2022-06-28 07:40:54+08:00 推文](https://twitter.com/meifongwriter/status/1541567278872928256)
 
@@ -74,4 +74,8 @@ Eradicating China's "Spiritual Americans": The latest inflammatory rhetoric from
 ### 15: [2022-06-29 21:44:49+08:00 推文](https://twitter.com/cnmediaproject/status/1542142044445212678)
 
 The latest inflammatory rhetoric from Zhang Weiwei, head of the China Institute at Fudan University, is a concerning sign of what his thinking on external messaging, which has found a willing ear in the leadership, means for intellectuals at home. <a href="https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/29/eradicating-chinas-spiritual-americans/</a><br><img style="" src="https://pbs.twimg.com/media/FWbJ_gTagAEKbK3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-06-30 17:36:50+08:00 推文](https://twitter.com/cnmediaproject/status/1542442026205351939)
+
+Yang Haipeing (杨海鹏), a veteran investigator and editor and one of China's top reporters from the heyday of print journalism a decade ago, passed away suddenly in Shanghai today. <a href="https://chinamediaproject.org/2022/06/30/remembering-journalist-yang-haipeng/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/30/remembering-journalist-yang-haipeng/</a><br><img style="" src="https://pbs.twimg.com/media/FWfatRcaUAAalRx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
