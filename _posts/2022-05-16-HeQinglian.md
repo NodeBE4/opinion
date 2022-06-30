@@ -61,7 +61,7 @@ Re @wechat2525138 与挪威前年那个案子的案由一样，当然，这些�
 
 ### 12: [2022-05-18 00:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1526594722269212674)
 
-这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。<br><br>华尔街日报中文网: 乌克兰政府宣布结束其在马里乌波尔的作战任务，结束了与俄罗斯军队数月的血腥战斗。这场战斗的尾声是在一家废弃钢铁厂避难的战斗人员和平民遭到惊心动魄的围困。泽连斯基说，亚速钢铁厂的战斗人员正在接受医疗救助，他恳请在他们被允许离开后保全他们的性命。<br> <a href="https://on.wsj.com/3NgEqTZ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NgEqTZ</a>
+这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。
 
 ### 13: [2022-05-18 03:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1526640910716616707)
 
@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
@@ -509,7 +509,7 @@ Re @FranzMendelsso1 他的话，就姑妄听之吧。目前乌鸡血可能少了
 
 ### 124: [2022-05-22 22:15:13+08:00 推文](https://twitter.com/HeQinglian/status/1528378954351906816)
 
-这可真是昂贵的替代。除了农场主，美国人能养得起马的人不多，城市的且不说，大纽约地区的郊区住户，马养在哪里，买饲料的钱可能比汽油更贵。<br>拜登一家住在白宫，倒是可以，有政府补贴。
+这可真是昂贵的替代。除了农场主，美国人能养得起马的人不多，城市的且不说，大纽约地区的郊区住户，马养在哪里，买饲料的钱可能比汽油更贵。<br>拜登一家住在白宫，倒是可以，有政府补贴。<br><br>Ezio Mao☢: 一位德国农民从吉普车转向马车以节省燃料。😤<br><br>舒普巴赫一家农场的老板斯蒂芬妮·科施纳抱怨说，现在她花更多的时间在路上。<br><br>然而，《华盛顿邮报》写道，这帮助她每月节省了大约 250 欧元油钱。现在德国一升汽油的价格为 2 欧元。但是难道养马不要钱？🤔🤔<br><br>此前德国经济部长哈伯建议德国人骑自行车。<br><br><img style="" src="https://pbs.twimg.com/media/FTWa31gaQAEuU5T?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 125: [2022-05-22 22:17:55+08:00 推文](https://twitter.com/HeQinglian/status/1528379634219458560)
 

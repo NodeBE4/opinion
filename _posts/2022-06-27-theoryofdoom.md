@@ -55,9 +55,23 @@ Post a submission statement.
 
 That is not a submission statement.
 
-### 323: [GOVERNOR HOCHUL UNVEILS NEW GUN SEIZURE AND CRIME DATA SHOWING PROGRESS IN COMBATING GUN VIOLENCE EPIDEMIC](https://old.reddit.com/r/crime/comments/vnset9/governor_hochul_unveils_new_gun_seizure_and_crime/), submitted on 2022-06-30 06:39:04+08:00.
+### 323: [Unofficial Daily Update for 2022-06-29. 4645 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/vnlzaz/unofficial_daily_update_for_20220629_4645_new/), submitted on 2022-06-30 02:00:11+08:00.
 
------ __323.1__ -----2022-06-30 10:52:04+08:00:
+----- __323.1__ -----2022-06-30 14:01:59+08:00:
+
+> we should have dropped mask mandates for good a year ago.
+
+We should have never had them.
+
+----- __323.2__ -----2022-06-30 14:03:35+08:00:
+
+> He refused to ever explain what criteria he was looking at to lift the mandate. 
+
+Poll numbers.
+
+### 324: [GOVERNOR HOCHUL UNVEILS NEW GUN SEIZURE AND CRIME DATA SHOWING PROGRESS IN COMBATING GUN VIOLENCE EPIDEMIC](https://old.reddit.com/r/crime/comments/vnset9/governor_hochul_unveils_new_gun_seizure_and_crime/), submitted on 2022-06-30 06:39:04+08:00.
+
+----- __324.1__ -----2022-06-30 10:52:04+08:00:
 
 Keep the clickbait garbage out of this subreddit.
 
