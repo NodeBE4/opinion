@@ -67,6 +67,16 @@ Yes. This is a weekly megathread where general discussion goes.
 
 Yes.
 
+----- __577.4__ -----2022-06-30 10:46:54+08:00:
+
+So, hopefully this is a little distant from the events in question and I don't end up sparking anything, but around this time last week I recall there being a bit of a rehash of the Nux vs VShojo drama from the beginning of the year, and indeed just a load of VShojo hate in general; see for instance near the bottom of [this thread](https://www.reddit.com/r/VirtualYoutubers/comments/vjgd9m/i_dont_get_why_some_people_want_to_know_who_is/) on this sub, [this subthread](https://www.reddit.com/r/Hololive/comments/vhwgk4/calli_is_gonna_be_on_speak_of_the_devil_with/idahckx/) on the hololive sub, [this entire (now-removed) thread](https://www.reddit.com/r/Hololive/comments/vi36wl/i_would_like_calli_andor_ollie_to_collaborate/) also on the holo sub...
+
+Was there anything that prompted this? Is it just that everyone has been malding over it with equal fervour for months and I hadn't noticed?
+
+----- __577.5__ -----2022-06-30 11:19:11+08:00:
+
+Perhaps my wording was a bit off – by 'rehash' I didn't mean that new drama was happening, but rather that old drama got brought up again and including in threads that were at best tangentially related. And I've been around long enough to know that if there's new drama then it probably will make it here, which is why I asked if there was old stuff people wouldn't let go of, or if something had just so happened to remind people of it.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:

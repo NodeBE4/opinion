@@ -45,7 +45,7 @@ Re @qiwenhua2 那时期不叫晚清，叫清末。
 
 ### 8: [2022-01-11 01:23:40+08:00 推文](https://twitter.com/realcaixia/status/1480591183613157377)
 
-深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style="" src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
+深切悼念。<br><br>楊建利 Yang Jianli: <br><br><img style src="https://pbs.twimg.com/media/FIwRZoTWQAcw47q?format=png&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/yangjianli001/status/1480555083096018954" target="_blank" rel="noopener noreferrer">https://twitter.com/yangjianli001/status/1480555083096018954</a>
 
 ### 9: [2022-01-12 02:24:51+08:00 推文](https://twitter.com/realcaixia/status/1480968966927523850)
 
