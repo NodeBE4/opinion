@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -286,4 +286,16 @@ Re @pandatress1 @xuezhou_yang @chuangnanzoubei 前些年，是资源国处于弱
 ### 68: [2022-06-30 09:38:49+08:00 推文](https://twitter.com/HeQinglian/status/1542321725903347714)
 
 马克龙可以先在G7内部统一油价，定价权试点成功后，再推广至OPEC+1，声明如果不按G7的定价，G7将拒绝购买，让这些产油国抱着石油痛哭。<br><br>Ezio Mao☢: 法国希望在全球范围内限制油价<br><br>法国在七国集团领导人峰会上推翻了一项关于限制俄罗斯石油价格的提议，而是坚持对包括美国在内的所有产油国实施全球价格控制。 <br><br>目前尚不清楚法国计划如何迫使包括欧佩克成员在内的其他大型石油生产国限制其价格。<br><br>马克龙这把世界霸主了😅<br> <a href="https://www.politico.eu/article/france-wants-worldwide-cap-on-oil-prices/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/france-wants-worldwide-cap-on-oil-prices/</a>
+
+### 69: [2022-06-30 10:58:29+08:00 推文](https://twitter.com/HeQinglian/status/1542341775762800641)
+
+Re @JianglinLi @RealBeiMing @ngexp @Wu_Zhi @david_david1968 一场俄乌战争，让资源国与资源需求国强弱易位，让美元霸权摇摇欲坠，推行近20年的绿能变成了自欺欺人的“洗绿”（Greenwashing)。<br>一年半总统做下来，10.5万亿国债债台已高筑。正经事不做，成天捣腾青少年变性，增加LGBTQI在人口中的比例，这种总统只有美国民主党那极左会选，正常人不会要。
+
+### 70: [2022-06-30 11:04:28+08:00 推文](https://twitter.com/HeQinglian/status/1542343283766181888)
+
+Re @winter_living 快了，他们正在制定三年计划，最好只争朝夕。<br>本打算让绿能称义，俄中巴印乖乖购买碳排放权交易额，坐上绿能牌桌听庄家安排，没想到这些国都不听话，最后沦落到“洗绿”、烧木柴——不，他们说是木屑。
+
+### 71: [2022-06-30 11:06:16+08:00 推文](https://twitter.com/HeQinglian/status/1542343736201453568)
+
+Re @JianglinLi @RealBeiMing @ngexp @Wu_Zhi @david_david1968 就算烂尾了，也昂首阔步走在入欧的康庄大道上，那成色就是不一样。
 
