@@ -116,9 +116,9 @@ The first line cuts at *niya* but is almost certainly *niyalma*, 'people', but t
 *However* Google saves the day. A quick search revealed that these five words are the first of John 3:16 in what seems to have been a late 19th century Manchu translation, which in full reads
 
 > ᠠᠪᡴᠠᡳ ᡝᠵᡝᠨ ᠠᠪᡴᠠᡳ ᡶᡝᠵᡝᡵᡤᡳ ᠨᡳᠶᠠᠯᠮᠠ ᠪᡝ ᡤᠣᠰᡳᠮᡝ  
-> ᡳᠨᡳ ᠪᠠᠨᠵᡳᡥᠠ ᡝᠮᡥᡠᡥ ᡨᡝᡳᠯᡝ ᠵᡠᡳ ᠪᡝ ᠴᡝᠨᡩᡝ ᠠᡶᠠᠪᡠᡥᠠᠩᡤᡝ
-> ᠴᠣᡥᠣᠮᡝ ᡨᡝᡩᡝ ᠠᡴᡩᠠᡵᠠ ᠶᠠᠶᠠ ᠨᡳᠶᠠᠯᠮᠠ ᡤᡠᡴᡠᡵᠠᡴᡠ ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ
-> ᡝᠯᡝᠮᠠᠩᡤᠠ ᡝᠨᡨᡝᡥᡝᠮᡝ ᠪᠠᠨᡵᠵᡳᡝ ᠪᡝ ᠪᠠᡥᠠᡴᡳᠨᡳ ᠰᡝᡥᡝᠩᡤᡝ
+> ᡳᠨᡳ ᠪᠠᠨᠵᡳᡥᠠ ᡝᠮᡥᡠᡥ ᡨᡝᡳᠯᡝ ᠵᡠᡳ ᠪᡝ ᠴᡝᠨᡩᡝ ᠠᡶᠠᠪᡠᡥᠠᠩᡤᡝ  
+> ᠴᠣᡥᠣᠮᡝ ᡨᡝᡩᡝ ᠠᡴᡩᠠᡵᠠ ᠶᠠᠶᠠ ᠨᡳᠶᠠᠯᠮᠠ ᡤᡠᡴᡠᡵᠠᡴᡠ ᠰᡝᡵᡝ ᠠᠩᡤᠠᠯᠠ  
+> ᡝᠯᡝᠮᠠᠩᡤᠠ ᡝᠨᡨᡝᡥᡝᠮᡝ ᠪᠠᠨᡵᠵᡳᡝ ᠪᡝ ᠪᠠᡥᠠᡴᡳᠨᡳ ᠰᡝᡥᡝᠩᡤᡝ  
 > ᡝᡵᡝ ᡨᡝᠨ  ᡳ ᡤᠣᠰᡳᠨ ᡴᠠᡳ
 
 > Abkai ejen abkai fejergi niyalma be gosime,  
@@ -138,7 +138,7 @@ Which to try to make idiomatic would be along the lines of:
 > The Lord of Heaven loved the people under Heaven, [so]  
 > He entrusted them his only begotten son,  
 > So that every person who believed him, instead of perishing,  
-> Will instead receive eternal life.
+> Will instead receive eternal life.  
 > This is the highest/greatest love.
 
 Contrast NIV:
@@ -149,7 +149,7 @@ Or KJV:
 
 > For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 
-The final *ere ten i gosin kai* phrase seems to be an annotation to John 3:16 added in the text from which this clipping is drawn.
+The final *ere ten i gosin kai* phrase seems to be an annotation to John 3:16 added in the text from which this clipping is drawn, quite possibly a Chinese translation from which the Manchu text was derived.
 
 Bottom right:
 
@@ -196,4 +196,10 @@ We also ought to account for the formation of the Banners and indeed the Manchus
 To return to the original core question, 'why found the Qing?', the answer I think lies mainly in the surrender of Ejei Khan. Not necessarily in the event itself, of course, but in the moment at which the already-extant Latter Jin state came into the possession of a substantial prestige claim over both China and the steppe, in conjunction with the formation of the Manchus as a new ethnic group descended but distinct from the Jurchens. The foundation of the Great Qing marked the climax of what can be argued to have been an ongoing process of shifting the ethos of the Latter Jin state from a Jurchen regime of relatively regional ambitions towards a multiethnic, if still Manchu-dominated, imperial formation that would encompass a wider range of territories and peoples, including Mongolia as well as China proper.
 
 In retrospect the above answer may not have pressed upon the importance of Mongolia quite as much as I might now have wanted to (take for instance Hong Taiji's substantial patronage of Vajrayana Buddhist monasteries, and the uncertain though not implausible suggestion that 'Manchu' is a derivative of the Boddhisatva Manjusri). To use it as a bit of a coda here, while more substantial Qing entanglement in the steppe would not really resume until the 1680s, there was nevertheless a continuous Qing hand in the region extending back before the conquest of China, which would be sustained even during that conquest period. While the Chinese campaigns naturally drew the bulk of Qing state attention after 1644, they were not so single-minded as to abandon their prestige claims on the steppe, or the necessary steps to maintain that claim through forming and maintaining alliances with Mongolian tribes. While the Qing emperors did not formally take up the title of Great Khan (*khagan*) until the Dolon Nor assembly of 1691, their claim to *universal* rulership (as opposed to more narrowly Chinese emperorship) arguably extended back into the pre-conquest period and would be sustained through the intervening time.
+
+----- __580.3__ -----2022-06-30 15:12:58+08:00:
+
+I don't really think any one person can give reading recommendations for the entire sweep of East Asian history up to the mid-seventeenth century, and I will not try to. I will only discuss reading relevant to the answer above.
+
+The classic text is Frederic Wakeman's *The Great Enterprise*, a two-volume epic charting the history of China from about 1600 to 1700, with a reasonable consideration of the Manchu perspective for a piece of 1980s historiography, but also a certain, understandable, Sinocentric bent. A more concise coverage of the key period of the Qing conquest is Kenneth Swope's *The Military Collapse of China's Ming Dynasty*, though as the title implies that book is largely told from the Ming point of view and with a concentration on military and political institutions. Pamela Crossley's *A Translucent Mirror*, which I also allude to in the answer, has a number of crisscrossing lines of argument, one of which is a deconstruction of eighteenth-century histories of the seventeenth-century conquest period, and so she does – somewhat disjointedly – cover early Qing history there as well. Gertraude Roth Li's chapter in the *Cambridge History of China* Vol. 9.1 is also worth a read for a detailed overview of the growth of the Jurchen state under Nurgaci and Hong Taiji as well as its antecedents among earlier Jurchen polities. A good general history of the Qing empire is William T. Rowe's *China's Last Empire*, though its sections up to 1800 are stronger than the ones covering the nineteenth century.
 
