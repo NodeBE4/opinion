@@ -55,6 +55,10 @@ Post a submission statement.
 
 That is not a submission statement.
 
+----- __322.2__ -----2022-06-30 18:39:02+08:00:
+
+Have you read our guidelines on submission statements?
+
 ### 323: [Unofficial Daily Update for 2022-06-29. 4645 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/vnlzaz/unofficial_daily_update_for_20220629_4645_new/), submitted on 2022-06-30 02:00:11+08:00.
 
 ----- __323.1__ -----2022-06-30 14:01:59+08:00:
