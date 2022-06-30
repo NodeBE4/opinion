@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-29
+date: 2022-06-30
 from: https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/
 layout: post
 tags:
@@ -104,6 +104,10 @@ I'm well aware, hence why I brought them up – arguably, HoloX was in the works
 ----- __577.11__ -----2022-07-01 01:02:11+08:00:
 
 I think it's also notable that HoloX is the only generation so far in any branch to consist entirely of members with past VTuber experience, if I'm not mistaken, and also that all five seem to have substantial Holo fandom (La+ being the world's biggest Kenzoku, Lui watching Myth, Koyori I believe is a long-time Noel fan, Chloe being a big Shion fan, and Iroha having I believe followed Holo since 2017). So they've definitely got people who aren't just heavyweights as content creators, but also very dedicated to the overall brand.
+
+----- __577.12__ -----2022-07-01 01:15:54+08:00:
+
+It's definitely effective.
 
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
@@ -230,4 +234,23 @@ In retrospect the above answer may not have pressed upon the importance of Mongo
 I don't really think any one person can give reading recommendations for the entire sweep of East Asian history up to the mid-seventeenth century, and I will not try to. I will only discuss reading relevant to the answer above.
 
 The classic text is Frederic Wakeman's *The Great Enterprise*, a two-volume epic charting the history of China from about 1600 to 1700, with a reasonable consideration of the Manchu perspective for a piece of 1980s historiography, but also a certain, understandable, Sinocentric bent. A more concise coverage of the key period of the Qing conquest is Kenneth Swope's *The Military Collapse of China's Ming Dynasty*, though as the title implies that book is largely told from the Ming point of view and with a concentration on military and political institutions. Pamela Crossley's *A Translucent Mirror*, which I also allude to in the answer, has a number of crisscrossing lines of argument, one of which is a deconstruction of eighteenth-century histories of the seventeenth-century conquest period, and so she does – somewhat disjointedly – cover early Qing history there as well. Gertraude Roth Li's chapter in the *Cambridge History of China* Vol. 9.1 is also worth a read for a detailed overview of the growth of the Jurchen state under Nurgaci and Hong Taiji as well as its antecedents among earlier Jurchen polities. A good general history of the Qing empire is William T. Rowe's *China's Last Empire*, though its sections up to 1800 are stronger than the ones covering the nineteenth century.
+
+### 581: [Star Trek: Strange New Worlds | 1x09 "All Those Who Wander" Reaction Thread](https://old.reddit.com/r/DaystromInstitute/comments/vo5mo2/star_trek_strange_new_worlds_1x09_all_those_who/), submitted on 2022-06-30 18:59:05+08:00.
+
+----- __581.1__ -----2022-07-01 01:28:32+08:00:
+
+> Pike's mission is 5 years before Kirk takes over.
+
+Seven, give or take. When exactly the first Five-Year Mission began and ended isn't established in TOS, but a line in Voyager says it ended in 2270, and so it presumably began in 2265/6; SNW season 1 takes place in 2258.
+
+----- __581.2__ -----2022-07-01 01:29:03+08:00:
+
+She's also mentioned being alongside the actor playing James T Kirk (whose name escapes me for the moment) so she's definitely still in it.
+
+----- __581.3__ -----2022-07-01 01:29:46+08:00:
+
+> Not thrilled to see them write off one of the other original characters by sending her on a side quest
+> 
+
+It's not a complete write-off as Christina Chong is returning as La'an for S2, but that's an out-of-universe detail.
 
