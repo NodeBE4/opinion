@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -374,4 +374,28 @@ Re @B0dH4C4hFbNf0pV 拜登上任以来，美债增加10.5万亿。请去查国�
 ### 90: [2022-07-01 01:32:29+08:00 推文](https://twitter.com/HeQinglian/status/1542561724083183616)
 
 与 #杨海鹏 唯一的一次交道：<br>1998年他任南周驻浙江记者站长时，写过《温州瑞安“地下组织部长”》一文，因当地政府干预，江艺平将稿子传给我，我趁自己值班时发表于《深圳法制报》上。麻烦当然也来了我这。南方都市报半个月后紧接着发表此文。温州瑞安市黑幕就此揭开。<br>写下此段往事以表哀悼。
+
+### 91: [2022-07-01 03:22:22+08:00 推文](https://twitter.com/HeQinglian/status/1542589378307956742)
+
+Re @sunpolis 后来没任何交道。似乎他上推了，但因不喜欢那推号的言行，甚至无法断定他就是南周那杨海鹏，没任何来往。
+
+### 92: [2022-07-01 03:43:16+08:00 推文](https://twitter.com/HeQinglian/status/1542594639726886914)
+
+纽时：现在，我们与世界其他地方的距离越来越大。这与过去的大国斗争不同，也与冷战不同。这不仅仅是一场政治或经济冲突。这是一场关于政治、经济、文化、地位、心理、道德和宗教的冲突。更具体地说，它是数以亿计的人在广泛的战线上对西方行事原则的拒绝。<br><br>文章坚信西方会赢 <a href="https://www.nytimes.com/2022/04/08/opinion/globalization-global-culture-war.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/04/08/opinion/globalization-global-culture-war.html</a>
+
+### 93: [2022-07-01 04:06:14+08:00 推文](https://twitter.com/HeQinglian/status/1542600418085183489)
+
+G7探讨设置能源价格上限 <br><br>文章没啥意思，但配图绝了：金毛等人正在追逐自己的影子（人追逐自己的影子有个寓言）。<br>正式成员為美、加、英、法、德、意、日，欧盟为非正式成员。除了美加，其余都是资源输入国，这个上限设置好，也只能强迫美加限价，APEC+1会服从指令吗？ <a href="https://www.ftchinese.com/interactive/75588?exclusive" target="_blank" rel="noopener noreferrer">https://www.ftchinese.com/interactive/75588?exclusive</a>
+
+### 94: [2022-07-01 04:08:00+08:00 推文](https://twitter.com/HeQinglian/status/1542600863469944833)
+
+Re @xxj2040 不行啊，赢了才有全球政府，输了只有欧盟+1.
+
+### 95: [2022-07-01 04:09:56+08:00 推文](https://twitter.com/HeQinglian/status/1542601350248382464)
+
+Re @JianglinLi @Lucs24659702 @david_david1968 这不是正赶上拜登变性潮，男非男，女非女。
+
+### 96: [2022-07-01 04:40:56+08:00 推文](https://twitter.com/HeQinglian/status/1542609152324911106)
+
+Re @Wu_Zhi @JianglinLi @Lucs24659702 @david_david1968 其实中国有个成语形容这个时代最为合适：指鹿为马的时代。
 
