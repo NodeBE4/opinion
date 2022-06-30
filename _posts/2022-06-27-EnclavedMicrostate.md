@@ -101,6 +101,10 @@ Ah phew. Sorry for jumping to conclusions.
 
 I'm well aware, hence why I brought them up – arguably, HoloX was in the works before the ID1 debut.
 
+----- __577.11__ -----2022-07-01 01:02:11+08:00:
+
+I think it's also notable that HoloX is the only generation so far in any branch to consist entirely of members with past VTuber experience, if I'm not mistaken, and also that all five seem to have substantial Holo fandom (La+ being the world's biggest Kenzoku, Lui watching Myth, Koyori I believe is a long-time Noel fan, Chloe being a big Shion fan, and Iroha having I believe followed Holo since 2017). So they've definitely got people who aren't just heavyweights as content creators, but also very dedicated to the overall brand.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:
