@@ -121,6 +121,10 @@ Yeah and the n-word was fairly normal among internet gamers. Guess we should jus
 
 It doesn't matter where the slur came from, what matters is where the slur is now. There's a slur for Japanese people that derives simply from contracting the word, but we don't use it (at least, I would *hope* we don't) because of how it has been used derogatorily against people who object to its use.
 
+----- __577.16__ -----2022-07-01 22:11:37+08:00:
+
+Funnily enough... yeah kinda? Funny how that works, that when a marginalised group highlights ways in which they are marginalised, that tends to be a good sign that they're being marginalised for something.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:

@@ -430,3 +430,29 @@ It's the best of all possible worlds.
 
 Was just about to post it here. It's bewildering how actively the weeb community will defend the use of a slur.
 
+----- __575.5__ -----2022-07-01 22:05:35+08:00:
+
+> In the last couple of days, she posted a video which delved into the dangers of fractal wood burning. She gave an overview that explains roughly what people are doing, without giving step by step instructions on how to do it. She also explained the dangers of it, and how dozens of people have died doing it.
+> 
+> 
+
+Couple weeks actually, the video went up on or before 18 June which is when I watched it.
+
+----- __575.6__ -----2022-07-01 22:07:18+08:00:
+
+IRyS used it  something like a month after debut and I don't think she's used it since. It did get clipped though. I'm reasonably sure that's it?
+
+EDIT: That said I'm not too surprised it's IRyS of all people. If I'm not mistaken she's lived in Japan for a good while now, and being a native Japanese speaker (and based on how she has been known to default to Japanese at times there's a good case for it being her first and primary language) her engagement with Anglophone spaces likely isn't as intensive as, say, Calli's, so her being the one to have 'slipped' by (hopefully) just not being up to speed on it maybe not being a word you should use is maybe understandable.
+
+----- __575.7__ -----2022-07-01 22:20:38+08:00:
+
+I don't think /u/Evelyn701 was trying to bash anyone, just citing that there is at least one Hololive member who has used the word in the past.
+
+----- __575.8__ -----2022-07-01 22:23:57+08:00:
+
+It's no problem, time is a social construct anyway
+
+----- __575.9__ -----2022-07-01 22:27:32+08:00:
+
+Which is absolutely true. My thinking was more that English isn't her primary language and so it's quite possible, given she's lived in Japan rather than an Anglophone country for a while, that she wasn't exactly up to speed on things and was casually using language that was still broadly deemed acceptable mid-last decade. And my intent wasn't to excuse; merely to note that if any member of HoloEN were to end up saying it on stream, IRyS was the least surprising candidate for that reason.
+
