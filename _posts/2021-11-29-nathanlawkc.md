@@ -23,7 +23,7 @@ It's hypocritical to counter "anti-Asian hate" but defend China's human rights r
 
 ### 2: [2021-11-29 22:58:15+08:00 推文](https://twitter.com/nathanlawkc/status/1465334296735105026)
 
-Please support @HKUC_UK to grow Hong Kong's culture and community-building work in the UK. HKUC is a non-profit regeistered CIC that helps Hongkongers to integrate and settle. <br>It's an exciting initiative with a group of very talented civil society leaders.<br><br>Hong Kong Umbrella Community: The Hong Kong Umbrella Community was officially launched and shared their new plans in the Central Hall Westminster, London on last friday.<br><br><img style src="https://pbs.twimg.com/media/FFXpEJ2XsAExLvo?format=jpg&name=orig" referrerpolicy="no-referrer">
+Please support @HKUC_UK to grow Hong Kong's culture and community-building work in the UK. HKUC is a non-profit regeistered CIC that helps Hongkongers to integrate and settle. <br>It's an exciting initiative with a group of very talented civil society leaders.<br><br>Hong Kong Umbrella Community: The Hong Kong Umbrella Community was officially launched and shared their new plans in the Central Hall Westminster, London on last friday.<br><br><img style="" src="https://pbs.twimg.com/media/FFXpEJ2XsAExLvo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-11-30 01:58:04+08:00 推文](https://twitter.com/nathanlawkc/status/1465379546664947722)
 

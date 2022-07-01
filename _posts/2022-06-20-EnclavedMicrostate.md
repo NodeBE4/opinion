@@ -426,3 +426,7 @@ Must be a serious blow to Arin getting supplanted by [a virtual dog](https://img
 
 It's the best of all possible worlds.
 
+----- __575.4__ -----2022-07-01 20:13:07+08:00:
+
+Was just about to post it here. It's bewildering how actively the weeb community will defend the use of a slur.
+

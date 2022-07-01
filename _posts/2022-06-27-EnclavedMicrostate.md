@@ -109,6 +109,14 @@ I think it's also notable that HoloX is the only generation so far in any branch
 
 It's definitely effective.
 
+----- __577.13__ -----2022-07-01 20:05:57+08:00:
+
+I think you've got your links backwards there...
+
+----- __577.14__ -----2022-07-01 20:14:08+08:00:
+
+Yeah and the n-word was fairly normal among internet gamers. Guess we should just all bend over backwards to insist that we keep using a slur then.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:
