@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-06-27
+date: 2022-07-01
 from: https://twitter.com/SpeechFreedomCN/status/1541232344106995716
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @中国文字狱事件盘点: 2022-06-27~2022-07-03'
 ### 2: [2022-06-27 09:33:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1541233099198959616)
 
 Henan man Su detained for 5 days for "insulting local village official" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FWNz_aFWYAEWjkC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-07-01 09:24:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1542680385707905026)
+
+辽宁省辽阳市男子顾某，因在推特通过 @wy58、@yc57、@nkk8031、@de_d88四个账号发布了大量“辱骂国家领导人、攻击中国共产党和社会主义制度、包括支持香港独立、煽动分裂国家政权等负面反动言论”，于2019年9月被刑拘，次月被提起公诉，判决结果不详。<br><img style="" src="https://pbs.twimg.com/media/FWiYd8UX0AAtuli?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWiYe8tXkAAjSHP?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-07-01 09:28:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1542681392294895623)
+
+Liaoning man Gu, who "insulted state leaders, attacked the CCP &amp; the political system of China, supported Hong Kong independence and incited separatism of the country" on Twitter, arrested in Sep 2019 and prosecuted in the next month. The court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FWiZT9EXEAIdnP2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWiZU9SWAAA25nr?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
