@@ -25,7 +25,7 @@ RT Kaiser Kuo<br>Rest In Peace. You were one of the greats.<br><br>The Associa
 
 ### 3: [2021-12-27 22:34:25+08:00 推文](https://twitter.com/iheartbeijing/status/1475475160329162753)
 
-RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style="" src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-29 10:45:39+08:00 推文](https://twitter.com/ZhangTaisu/status/1476021568878923784)
 
@@ -53,7 +53,7 @@ RT Bill Bishop<br>Peking University gets extra dose of Xi ideology with new ce
 
 ### 10: [2021-12-30 09:07:52+08:00 推文](https://twitter.com/cnmediaproject/status/1476359347253178369)
 
-For the past 4 years the "Four Confidences" formula affirming the strengths of CCP rule has been firmly in place, finally added to the Party Charter in 2017. But the “confidence doctrine" has now been upgraded with a 5th: "historical confidence." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style="" src="https://pbs.twimg.com/media/FH0U-IYaUAAV6zP?format=jpg&name=orig" referrerpolicy="no-referrer">
+For the past 4 years the "Four Confidences" formula affirming the strengths of CCP rule has been firmly in place, finally added to the Party Charter in 2017. But the “confidence doctrine" has now been upgraded with a 5th: "historical confidence." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style src="https://pbs.twimg.com/media/FH0U-IYaUAAV6zP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-30 09:09:30+08:00 推文](https://twitter.com/cnmediaproject/status/1476359756726304776)
 
