@@ -121,5 +121,5 @@ RT Michael Pettis<br>Yesterday the Politburo reaffirmed its commitment to both
 
 ### 27: [2022-04-30 23:08:44+08:00 推文](https://twitter.com/CarlMinzner/status/1520419888644382721)
 
-RT Carl Minzner<br>Oh, there goes Roach too. <br><br>Used to be one of the most hardcore perma-optimists on China. Now even he recognizes how much Beijing's steady political slide back towards single-man authoritarian rule is undermining the country's prospects.<br><br>Jeremy Goldkorn: The China cushion has deflated: I spoke to the renowned economist and former Morgan Stanley executive and found him gloomier on China than he’s ever been. He also told me to get new friends.<br> <a href="https://supchina.com/2022/04/29/the-china-cushion-has-deflated-qa-with-stephen-roach/" target="_blank" rel="noopener noreferrer">https://supchina.com/2022/04/29/the-china-cushion-has-deflated-qa-with-stephen-roach/</a>
+RT Carl Minzner<br>Oh, there goes Roach too. <br><br>Used to be one of the most hardcore perma-optimists on China. Now even he recognizes how much Beijing's steady political slide back towards single-man authoritarian rule is undermining the country's prospects.
 
