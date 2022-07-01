@@ -29,7 +29,7 @@ Re Former human rights lawyer Qin Yongpei to appear in court on Friday to face I
 
 ### 4: [2021-12-30 11:47:40+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476399563720343552)
 
-Sichuan woman Wei detained for 5 days for complaining about traffic police in WeChat. Police claimed she "insulted" them.<br><img style="" src="https://pbs.twimg.com/media/FH05H2qXEAYjOoO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH05JvIXsAAoqN4?format=png&name=orig" referrerpolicy="no-referrer">
+Sichuan woman Wei detained for 5 days for complaining about traffic police in WeChat. Police claimed she "insulted" them.<br><img style src="https://pbs.twimg.com/media/FH05H2qXEAYjOoO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH05JvIXsAAoqN4?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-31 15:35:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819302493966363)
 
