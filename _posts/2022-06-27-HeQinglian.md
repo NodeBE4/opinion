@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -467,27 +467,59 @@ Re @B0dH4C4hFbNf0pV Real Debt Clock <a href="https://www.usdebtclock.org/" tar
 
 Re @JianglinLi @wu25710968 @RealBeiMing @david_david1968 其实是Liberal公开谈的阳谋，别人说这事，他们就说是阴谋论，还有一群傻大小拜粉跟着叫唤。
 
-### 114: [2022-07-01 21:34:37+08:00 推文](https://twitter.com/HeQinglian/status/1542864251974459392)
+### 114: [2022-07-01 11:22:08+08:00 推文](https://twitter.com/RealBeiMing/status/1542710116176334848)
+
+RT 北明BeiMing<br>如果你覺醒了，是神認為你有未竟之事。<br>——澤連科醫生Vladimir Zelenko (1973—2022)<br><br>這位烏裔美國家醫和醫療權力活動家今日病故。忠於希波克拉底誓言的“前線醫生”組織與現代左翼控制的言論平台，對他在疫情中的表現有截然相反的評價。漢語世界知情人親切地稱他為“大鬍子醫生”👇 <a href="https://americasfrontlinenews.com/post/dr-vladimir-zev-zelenko-passes-away" target="_blank" rel="noopener noreferrer">https://americasfrontlinenews.com/post/dr-vladimir-zev-zelenko-passes-away</a>
+
+### 115: [2022-07-01 21:34:37+08:00 推文](https://twitter.com/HeQinglian/status/1542864251974459392)
 
 Re @wz1975 绰号似乎是这个。
 
-### 115: [2022-07-01 21:35:34+08:00 推文](https://twitter.com/HeQinglian/status/1542864492249374721)
+### 116: [2022-07-01 21:35:34+08:00 推文](https://twitter.com/HeQinglian/status/1542864492249374721)
 
 Re @HighwayNicoll 人生就是如此，这诗很应景。
 
-### 116: [2022-07-01 21:43:56+08:00 推文](https://twitter.com/HeQinglian/status/1542866597546786817)
+### 117: [2022-07-01 21:43:56+08:00 推文](https://twitter.com/HeQinglian/status/1542866597546786817)
 
 今天美国国债钟的数字：<br>国债为30.55万亿，人均负债9.2万美元，纳税人人均负债24.3万元——美国成年人只有40左右的人交纳个税，一半以上人口不交个税（不少是福利族）。<br><br>美国曾是世界支柱，它倒了，世界都会受影响。如果能够先半脱钩，也算自保。<br>希望美国讨论自家的债务陷阱。 <a href="https://www.usdebtclock.org/" target="_blank" rel="noopener noreferrer">https://www.usdebtclock.org/</a>
 
-### 117: [2022-07-01 21:50:50+08:00 推文](https://twitter.com/HeQinglian/status/1542868334701690885)
+### 118: [2022-07-01 21:50:50+08:00 推文](https://twitter.com/HeQinglian/status/1542868334701690885)
 
 Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北约重新强大，是正确的壮举。这我没意见，但他说认为美元霸权受到挑战的人是异想天开，美元坚挺。<br>我回了他一推。今天特地将最新债务列举，希望这位网友有点数字概念。由美国单手擎住北约，这手终会折断。欧盟如此，吃大户的人再多，北约也还不了阳
 
-### 118: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
+### 119: [2022-07-01 21:55:26+08:00 推文](https://twitter.com/JianglinLi/status/1542869490169483267)
+
+RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂<br><br>C.J. Wilson: H/T to @JunkScience for posting this- an EPA Hot Take from 1986 saying that Florida would be wiped out in 2020 due to climate change.  Important to understand that anyone can come up with a scary scenario if their job depends on it. History ends up debunking most doomsday ideas.<br><br><img style="" src="https://pbs.twimg.com/media/FWldVp-UcAAh-Nx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 120: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
 
 Re @fading_you1 古文功底之深，于此文可见。👍👍<br>我的古文功底在同代人中算好的，如果要写，还得思谋好久并刻意为之，最终产品也无法相比，雕琢痕迹会太多。
 
-### 119: [2022-07-01 21:58:29+08:00 推文](https://twitter.com/HeQinglian/status/1542870260667277315)
+### 121: [2022-07-01 21:58:29+08:00 推文](https://twitter.com/HeQinglian/status/1542870260667277315)
 
 Re @fading_you1 不过，那些常驻中南海高层会议办公室的信息员们读尊文，其中的典故未必全懂，知十之一二，已经不错。
+
+### 122: [2022-07-01 22:02:49+08:00 推文](https://twitter.com/HeQinglian/status/1542871348858552325)
+
+Re @Wu_Zhi @JianglinLi @wu25710968 @RealBeiMing @david_david1968 其实就是让美国倾国之力，当大重置的首席执行官，不是让其独霸——这样消耗国力，拜登当家一年，GDP总量19万亿左右，举债10万亿，这种速度，就算是霸，大概也就几年而已。<br>联合国过去算个东西，就因美国愿意做执行官。从第三世界国家一国一票将美国挤往边缘后，美国不愿意当执行官，联合国才衰成这样。
+
+### 123: [2022-07-01 22:06:52+08:00 推文](https://twitter.com/HeQinglian/status/1542872369093656576)
+
+Re @zhuxiuyuan 你最好查一下，全球贸易结算，五种货币各自占比多少，最重要的是要查清楚这些年的变化向上还是向下。<br>此外，美国什么时候成了OPEC+1的主宰，拥有石油霸权了？这说法很象《参考消息》十多年前的调调，近年也不这样讲了。
+
+### 124: [2022-07-01 22:11:20+08:00 推文](https://twitter.com/HeQinglian/status/1542873494597373953)
+
+Re @JianglinLi 我好想找到这张报纸原件，做个框挂到墙上。😂
+
+### 125: [2022-07-01 22:13:18+08:00 推文](https://twitter.com/HeQinglian/status/1542873986459115521)
+
+Re @Wu_Zhi @JianglinLi @li2nd 这些活动，无法对泰国人妖、荷兰橱窗性产业产生任何挑战力。这两国可以放心了。
+
+### 126: [2022-07-01 22:16:19+08:00 推文](https://twitter.com/HeQinglian/status/1542874746823507969)
+
+Re @shenliangqing2 你这样考虑，听后不那么担心了。弦拉断后，双方没有余地。
+
+### 127: [2022-07-01 22:26:46+08:00 推文](https://twitter.com/HeQinglian/status/1542877374798336001)
+
+全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。<br><br>DW 中文- 德国之声: #大众汽车 总裁迪斯表示，在德国，人们严重低估了 “中国给德国繁荣带来的贡献”。<br><br>“如果没有与中国的业务往来，通货膨胀将进一步加剧。因此我们需要更多的对话。”<br> <a href="https://p.dw.com/p/4DWDh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DWDh</a>
 

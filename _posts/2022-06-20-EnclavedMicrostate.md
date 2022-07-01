@@ -456,3 +456,19 @@ It's no problem, time is a social construct anyway
 
 Which is absolutely true. My thinking was more that English isn't her primary language and so it's quite possible, given she's lived in Japan rather than an Anglophone country for a while, that she wasn't exactly up to speed on things and was casually using language that was still broadly deemed acceptable mid-last decade. And my intent wasn't to excuse; merely to note that if any member of HoloEN were to end up saying it on stream, IRyS was the least surprising candidate for that reason.
 
+----- __575.10__ -----2022-07-02 00:03:27+08:00:
+
+I'll avoid responding to the other user since I don't want to feed a troll here, but yes, Calli also has somewhat of an unfortunate history in terms of known slur use. That said (and here I am admittedly obliquely referring to the other poster), I don't see how someone who used to use a particular slur habitually *now catching themselves and not doing it* is analogous to casually using a slur without realising at all.
+
+----- __575.11__ -----2022-07-02 00:20:53+08:00:
+
+Yes that's the big thing! How dare someone express indignation about the use of slurs, and how dare they ask the ones who use those slurs to do the legwork to address it?!
+
+----- __575.12__ -----2022-07-02 00:25:36+08:00:
+
+Yeah it's like... oh no, she knows that you shouldn't use the n-word and stops herself from doing it. That must mean... uh. What exactly?
+
+----- __575.13__ -----2022-07-02 00:29:12+08:00:
+
+I feel like it's a yes and no situation in that with VTubers it's not media consumption in a purely passive sense, but often involves active and direct communication with the creator as the media is being created, and while I don't know how that necessarily bears on the community aspect it's certainly an extra layer of stuff. But also, there's also a level of active engagement in content creation – clippers, animators, people just making memes etc – which means that although the audience as a whole isn't a singular community, there are individual communities that cohere around certain spaces that actively produce derivative media as well as simply commenting on the original, and this is true of basically any fandom.
+
