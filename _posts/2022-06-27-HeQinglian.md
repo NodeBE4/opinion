@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-01
+date: 2022-07-02
 from: https://twitter.com/HeQinglian/status/1541098577954574336
 layout: post
 tags:
@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -522,4 +522,32 @@ Re @shenliangqing2 你这样考虑，听后不那么担心了。弦拉断后，�
 ### 127: [2022-07-01 22:26:46+08:00 推文](https://twitter.com/HeQinglian/status/1542877374798336001)
 
 全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。<br><br>DW 中文- 德国之声: #大众汽车 总裁迪斯表示，在德国，人们严重低估了 “中国给德国繁荣带来的贡献”。<br><br>“如果没有与中国的业务往来，通货膨胀将进一步加剧。因此我们需要更多的对话。”<br> <a href="https://p.dw.com/p/4DWDh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DWDh</a>
+
+### 128: [2022-07-02 01:24:35+08:00 推文](https://twitter.com/HeQinglian/status/1542922124880494592)
+
+Re @zhuxiuyuan 从中东战争引发美元危机之后，布雷顿森林体系结束，IMF登场，一直是五种货币。最开始有意大利的里拉，后来成为欧元之后，就是欧元了。<br>世界货币史是个Long Story，其中很多细节特别有意思。
+
+### 129: [2022-07-02 01:27:07+08:00 推文](https://twitter.com/HeQinglian/status/1542922763773657091)
+
+Re @Kevin86519159 目前，除了主张现代货币理论的左货之外，恐怕理智些的美国经济学界已经无人象你这样看待。<br>外行看热闹，如果你不在美国，更可以抱着看热闹的心情，为拜登胡折腾叫好。
+
+### 130: [2022-07-02 01:35:01+08:00 推文](https://twitter.com/HeQinglian/status/1542924749625507843)
+
+Re @Wu_Zhi @seadognw 美国债务如山，加州与纽约两地，轮流做美国债务最沉重的第一州，互相比着花钱，加税、举债。
+
+### 131: [2022-07-02 01:42:32+08:00 推文](https://twitter.com/HeQinglian/status/1542926643794247685)
+
+Re @JiangShangrong 我早就说了，世界将进入布雷顿森林体系3.0，多极世界，当然是多极货币。<br>美国死于左疯自杀，从1968年人转入“体制内新长征”以来，精心准备了大半个世纪，“有志者，事竟成，破釜沉舟，百二秦关终属楚”，破釜沉舟盗选，终于成就自杀大业。
+
+### 132: [2022-07-02 01:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1542927839913181184)
+
+Re @JianglinLi @Wu_Zhi @wu25710968 @RealBeiMing @david_david1968 瑞典、芬兰两国，一杯咖啡的功夫就入了北约，小泽气坏了。<br>其实人家也想得明白：你不就是带了个大勺子，想来蹭点饭吃。这两国，好歹大勺子上带了些饭粒，比你那光溜溜的勺子好得多。
+
+### 133: [2022-07-02 01:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1542928071136841729)
+
+Re @Jiyi2018 @JianglinLi @Wu_Zhi @wu25710968 @RealBeiMing @david_david1968 去查两笔帐：一、美元兑卢布的比率；二、能源价格，及俄罗斯这几个月的能源收入。
+
+### 134: [2022-07-02 03:31:37+08:00 推文](https://twitter.com/HeQinglian/status/1542954095010390017)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing 以后不用任何职业记者了，无论是白宫内斗、中南海血拼、克里姆林宫争战，都用hearsay, I think.
 
