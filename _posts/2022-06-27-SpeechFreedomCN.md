@@ -31,3 +31,11 @@ Henan man Su detained for 5 days for "insulting local village official" in a WeC
 
 Liaoning man Gu, who "insulted state leaders, attacked the CCP &amp; the political system of China, supported Hong Kong independence and incited separatism of the country" on Twitter, arrested in Sep 2019 and prosecuted in the next month. The court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FWiZT9EXEAIdnP2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWiZU9SWAAA25nr?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-07-01 12:33:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1542727949106827265)
+
+2019年5月，江苏省泰州市男子李某，因对当地警察的消防检查行动不满，在朋友圈发文抱怨称“这就是现在法律”，并称检查的警察为“狗”。随后，李某被以寻衅滋事为由拘留6日。<br><img style="" src="https://pbs.twimg.com/media/FWiagQ_XEAIr4La?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWiaiT_XwAYkH9l?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-07-01 12:36:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1542728704085803008)
+
+Jiangsu man Li detained for 6 days for a piece of WeChat Moment post, in which he complained about the law and referred to police as dogs, saying "This is the law now. These dogs".<br><img style="" src="https://pbs.twimg.com/media/FWibGPnXoAAfA_2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWibIjyXwAIINp3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
