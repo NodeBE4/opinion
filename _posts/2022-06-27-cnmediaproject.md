@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-06-30
+date: 2022-07-01
 from: https://twitter.com/niubi/status/1541147774984519681
 layout: post
 tags:
@@ -82,4 +82,12 @@ Yang Haipeing (杨海鹏), a veteran investigator and editor and one of China's 
 ### 17: [2022-06-30 17:38:31+08:00 推文](https://twitter.com/lugkgn_1/status/1542442449691463682)
 
 RT 半截香烟<br>讣告<br><br>        我最亲爱的丈夫，新闻人杨海鹏于昨日凌晨因突发疾病去世，享年五十五岁。相关祭奠活动请友朋静候通知，由治丧小组安排。<br><br>              梅晓阳携爱女泣告<br><br>               2022年6月30日<br><img style="" src="https://pbs.twimg.com/media/FWfbOGcWQAAOObt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-07-01 18:27:25+08:00 推文](https://twitter.com/CWilson_FCDO/status/1542817143443656705)
+
+RT Caroline Wilson 吴若兰<br>Today we tried to share on weibo 微博 the facts about the Sino-British Joint Declaration on Hong Kong: enduring past 1997; legally binding; registered at the UN. Censored after 30 mins. Even the words of PM Thatcher and President Jiang Zemin too sensitive? Here they are again:<br><img style="" src="https://pbs.twimg.com/media/FWkwAVCWIAAE3Xe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWkwA3tXoAAkZAN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-07-01 23:27:27+08:00 推文](https://twitter.com/CarlMinzner/status/1542892648306036738)
+
+RT Carl Minzner<br>Left: July 1, 1997 front page of top Party paper @PDChina commemorating *actual* Hong Kong handover. Right: same page for 25th anniversary celebration today.<br><br>See how Chinese politics has changed.<br><br>In 1997, China came first, Jiang Zemin second.<br>Today, it's all about Xi Jinping.<br><img style="" src="https://pbs.twimg.com/media/FWlyypLWAAQqMS3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWlyzdnXEAcRUcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
