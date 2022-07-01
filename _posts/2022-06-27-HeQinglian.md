@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -414,4 +414,56 @@ Re @KELMAND1 我说件往事参考。<br>1960年代正逢越战，报纸说越�
 ### 100: [2022-07-01 05:24:06+08:00 推文](https://twitter.com/HeQinglian/status/1542620016079785987)
 
 Re @JianglinLi @Wu_Zhi @Lucs24659702 @david_david1968 不长。但已经足够毁灭很多事物了。<br>还有一个问题，拜登去年已经警告过了，政府拥有核武器与F-15。陈胜吴广们是冷兵器时代，草民与朝廷的武力差距不象今天这么大。
+
+### 101: [2022-07-01 08:23:31+08:00 推文](https://twitter.com/HeQinglian/status/1542665167233814534)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing 左派凶得很，在讲理的保守派面前要打要杀耍无赖，动辄取消文化与围攻。但遇到伊斯兰，立刻成为小绵羊。<br>你看推上的华拜粉就知道其行为模式。
+
+### 102: [2022-07-01 08:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1542666108829835264)
+
+全球化蜕变为大重置  终成世界祸害<br>西方左派将Great Reset视为全球化升级版，试图建立一个New World Order。在绿能变成“漂绿”（GreenWashing)、通过疫苗护照重置各国公民权利失败后，大重置首席执行官拜登政府如今要将LGBTQI文化推广至全球，只能说是场祸害世界的乌托邦试验。 <a href="https://www.epochtimes.com/gb/22/6/30/n13770969.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/6/30/n13770969.htm</a>
+
+### 103: [2022-07-01 08:43:49+08:00 推文](https://twitter.com/HeQinglian/status/1542670275900329984)
+
+Re @RFI_TradCn 美国大法官的神圣光环褪尽。
+
+### 104: [2022-07-01 08:49:22+08:00 推文](https://twitter.com/HeQinglian/status/1542671669843660800)
+
+Re @Wu_Zhi @JianglinLi @diegopan1974 @david_david1968 @RealBeiMing 撤军之后，彩虹旗被当成烂布片踩？
+
+### 105: [2022-07-01 08:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1542673444227035136)
+
+Re @Wu_Zhi @JianglinLi @diegopan1974 @david_david1968 @RealBeiMing 我记得发过一个推，世界上三大祸害：马克思主义、极端伊斯兰主义、彩虹进步文化，阿富汗全实验过了。1968年苏联入侵阿富汗之前，折腾过马克思主义；之后，成为极端伊斯兰分子肆虐之地；美军占领后，开始还行，这些年学习CRT与多元性文化“理论”，如今再回归“极伊”。
+
+### 106: [2022-07-01 09:08:20+08:00 推文](https://twitter.com/HeQinglian/status/1542676443582369793)
+
+Re @qinzhubipashui 你是白日做梦。<br>通胀是什么？就是钞票不停贬值的过程。<br>北约靠什么撑？不就是美国拿钱。<br>你开心就好。
+
+### 107: [2022-07-01 09:10:28+08:00 推文](https://twitter.com/HeQinglian/status/1542676979094274051)
+
+Re @diegopan1974 @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing 这些人权在它们内部统合时，有高低之分。女权要给其他权利让位，穆斯林权利最高，与BLM不相上下。<br>比如变性女人要参加体育比赛，女运动员不能抵制。
+
+### 108: [2022-07-01 10:01:48+08:00 推文](https://twitter.com/HeQinglian/status/1542689899467444224)
+
+Re @JianglinLi @wu25710968 @RealBeiMing @david_david1968 Liberal World Order，左疯的天堂，正常人的地狱。
+
+### 109: [2022-07-01 10:04:33+08:00 推文](https://twitter.com/HeQinglian/status/1542690589875048449)
+
+Re @JianglinLi @diegopan1974 @Wu_Zhi @david_david1968 @RealBeiMing 这些人将公共场所当成自家的浴室了。
+
+### 110: [2022-07-01 10:11:50+08:00 推文](https://twitter.com/HeQinglian/status/1542692424857915394)
+
+Re @realTaoRay 然后如同那位声称30多年前曾被卡瓦诺性骚扰的女心理学教授一样，由出版社支付二百万稿费，就此消失。
+
+### 111: [2022-07-01 10:17:32+08:00 推文](https://twitter.com/HeQinglian/status/1542693858374475777)
+
+反习势力支持李克强倒习，终于有了WSJ版本。经魏玲灵女士出口转内销之后，支持了一些华文自媒体常驻中南海高层会议室信息员的信息，传言势不可挡，终有成真的一天。😂<br>这也算是中式信息战的一幕。<br><br>华尔街日报中文网: #CWSJ周四重温 眼下，中国经济不振的局面正在改变该国最高领导层中的权力平衡。多年来，国家主席习近平将支持经济自由化的总理李克强边缘化。而《华尔街日报》的魏玲灵在播客中解释说，现在李克强的影响力正在增强，并力促对习近平的部分政策进行回调。<br> <a href="https://on.wsj.com/3lNknRg" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3lNknRg</a>
+
+### 112: [2022-07-01 10:25:20+08:00 推文](https://twitter.com/HeQinglian/status/1542695821828931585)
+
+Re @B0dH4C4hFbNf0pV Real Debt Clock <a href="https://www.usdebtclock.org/" target="_blank" rel="noopener noreferrer">https://www.usdebtclock.org/</a>
+
+### 113: [2022-07-01 10:27:12+08:00 推文](https://twitter.com/HeQinglian/status/1542696291372875776)
+
+Re @JianglinLi @wu25710968 @RealBeiMing @david_david1968 其实是Liberal公开谈的阳谋，别人说这事，他们就说是阴谋论，还有一群傻大小拜粉跟着叫唤。
 
