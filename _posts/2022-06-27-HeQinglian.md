@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -466,4 +466,28 @@ Re @B0dH4C4hFbNf0pV Real Debt Clock <a href="https://www.usdebtclock.org/" tar
 ### 113: [2022-07-01 10:27:12+08:00 推文](https://twitter.com/HeQinglian/status/1542696291372875776)
 
 Re @JianglinLi @wu25710968 @RealBeiMing @david_david1968 其实是Liberal公开谈的阳谋，别人说这事，他们就说是阴谋论，还有一群傻大小拜粉跟着叫唤。
+
+### 114: [2022-07-01 21:34:37+08:00 推文](https://twitter.com/HeQinglian/status/1542864251974459392)
+
+Re @wz1975 绰号似乎是这个。
+
+### 115: [2022-07-01 21:35:34+08:00 推文](https://twitter.com/HeQinglian/status/1542864492249374721)
+
+Re @HighwayNicoll 人生就是如此，这诗很应景。
+
+### 116: [2022-07-01 21:43:56+08:00 推文](https://twitter.com/HeQinglian/status/1542866597546786817)
+
+今天美国国债钟的数字：<br>国债为30.55万亿，人均负债9.2万美元，纳税人人均负债24.3万元——美国成年人只有40左右的人交纳个税，一半以上人口不交个税（不少是福利族）。<br><br>美国曾是世界支柱，它倒了，世界都会受影响。如果能够先半脱钩，也算自保。<br>希望美国讨论自家的债务陷阱。 <a href="https://www.usdebtclock.org/" target="_blank" rel="noopener noreferrer">https://www.usdebtclock.org/</a>
+
+### 117: [2022-07-01 21:50:50+08:00 推文](https://twitter.com/HeQinglian/status/1542868334701690885)
+
+Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北约重新强大，是正确的壮举。这我没意见，但他说认为美元霸权受到挑战的人是异想天开，美元坚挺。<br>我回了他一推。今天特地将最新债务列举，希望这位网友有点数字概念。由美国单手擎住北约，这手终会折断。欧盟如此，吃大户的人再多，北约也还不了阳
+
+### 118: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
+
+Re @fading_you1 古文功底之深，于此文可见。👍👍<br>我的古文功底在同代人中算好的，如果要写，还得思谋好久并刻意为之，最终产品也无法相比，雕琢痕迹会太多。
+
+### 119: [2022-07-01 21:58:29+08:00 推文](https://twitter.com/HeQinglian/status/1542870260667277315)
+
+Re @fading_you1 不过，那些常驻中南海高层会议办公室的信息员们读尊文，其中的典故未必全懂，知十之一二，已经不错。
 

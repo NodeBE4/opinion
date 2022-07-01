@@ -117,6 +117,10 @@ I think you've got your links backwards there...
 
 Yeah and the n-word was fairly normal among internet gamers. Guess we should just all bend over backwards to insist that we keep using a slur then.
 
+----- __577.15__ -----2022-07-01 21:24:50+08:00:
+
+It doesn't matter where the slur came from, what matters is where the slur is now. There's a slur for Japanese people that derives simply from contracting the word, but we don't use it (at least, I would *hope* we don't) because of how it has been used derogatorily against people who object to its use.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:
@@ -271,4 +275,10 @@ It's not a complete write-off as Christina Chong is returning as La'an for S2, b
 > 
 
 It might just be some odd phrasing here, but Sisko's whole chemical weapon attack was in mid-Season 5, while In the Pale Moonlight happens in the back half of Season 6.
+
+### 583: [Ancient civilisations were built on river floodplains, because of the soil quality. Why didnt the incredibly fertile lands north of the black sea ever become a center of ancient civilisation?](https://old.reddit.com/r/AskHistorians/comments/vov2qp/ancient_civilisations_were_built_on_river/), submitted on 2022-07-01 15:37:15+08:00.
+
+----- __583.1__ -----2022-07-01 21:26:21+08:00:
+
+Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
