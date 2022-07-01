@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-06-30
+date: 2022-07-01
 from: https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/
 layout: post
 tags:
@@ -253,4 +253,14 @@ She's also mentioned being alongside the actor playing James T Kirk (whose name 
 > 
 
 It's not a complete write-off as Christina Chong is returning as La'an for S2, but that's an out-of-universe detail.
+
+### 582: [Thoughts on DS9's "In the Pale Moonlight"](https://old.reddit.com/r/startrek/comments/vonvn2/thoughts_on_ds9s_in_the_pale_moonlight/), submitted on 2022-07-01 08:58:17+08:00.
+
+----- __582.1__ -----2022-07-01 18:58:02+08:00:
+
+> Sisko's violation of his own values here appears to make it easier next time he decides to violate his own values: when he goes after Eddington, and decides to make an entire planet uninhabitable to flush him out. That's the episode where he decides to play Javert to Eddington's Valjean.
+> 
+> 
+
+It might just be some odd phrasing here, but Sisko's whole chemical weapon attack was in mid-Season 5, while In the Pale Moonlight happens in the back half of Season 6.
 

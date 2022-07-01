@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-06-30
+date: 2022-07-01
 from: https://twitter.com/nathanlawkc/status/1541503027416293378
 layout: post
 tags:
@@ -32,4 +32,12 @@ Re 2. Before the arrival of Xi, protest groups were warned not to take any actio
 ### 4: [2022-06-30 18:38:22+08:00 推文](https://twitter.com/nathanlawkc/status/1542457511135121409)
 
 Re 3. The whole city has only one dominant voice and others are eradicated. It is quiet and "harmonious" because it has lost its political diversity and freedom of expression. It's "One Country, Two Systems" failure, not success.<br><img style="" src="https://pbs.twimg.com/media/FWfo0qMWQAAsINJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-07-01 18:18:15+08:00 推文](https://twitter.com/nathanlawkc/status/1542814837297881089)
+
+"It's a crime to stand against the government now."<br><br>Hong Kong's future as Asia's financial centre | FT Film <a href="https://www.ft.com/video/766899b7-e2e3-4de6-b42c-82dc2077e00f" target="_blank" rel="noopener noreferrer">https://www.ft.com/video/766899b7-e2e3-4de6-b42c-82dc2077e00f</a>
+
+### 6: [2022-07-01 18:29:03+08:00 推文](https://twitter.com/nathanlawkc/status/1542817553864589314)
+
+//"He was a very authoritarian person who feels like as long as he has the power, he doesn't have to explain things or be held accountable," he said.<br><br>"So it's not a surprise that Beijing will pick him."// <a href="https://news.sky.com/story/john-lee-is-hong-kongs-new-chief-executive-who-is-he-and-why-are-pro-democracy-activists-concerned-12641317" target="_blank" rel="noopener noreferrer">https://news.sky.com/story/john-lee-is-hong-kongs-new-chief-executive-who-is-he-and-why-are-pro-democracy-activists-concerned-12641317</a>
 
