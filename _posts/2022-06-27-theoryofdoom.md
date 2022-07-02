@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-06-30
+date: 2022-07-02
 from: https://old.reddit.com/r/guitars/comments/vlb7gr/huh/
 layout: post
 tags:
@@ -78,4 +78,10 @@ Poll numbers.
 ----- __324.1__ -----2022-06-30 10:52:04+08:00:
 
 Keep the clickbait garbage out of this subreddit.
+
+### 325: [Ivermectin-Induced Acute Psychosis in Patients Infected With COVID-19 Pneumonia](https://old.reddit.com/r/CoronavirusIllinois/comments/vp7dad/ivermectininduced_acute_psychosis_in_patients/), submitted on 2022-07-02 02:21:00+08:00.
+
+----- __325.1__ -----2022-07-03 01:14:46+08:00:
+
+Hilarious.  Permanently banned for obvious misinformation.
 
