@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -571,115 +571,135 @@ Re @JianglinLi @KELMAND1 他忘记撒切尔夫人的马岛之战。
 
 Re @muyuxingzhe 黄左可以痛哭流涕了，去问你们的老拜：说好的让俄罗斯经济垮台呢？<br>然后我做一件事，将你从我的园子里Kick Out。
 
-### 140: [2022-07-02 05:15:50+08:00 推文](https://twitter.com/HeQinglian/status/1542980321418924037)
+### 140: [2022-07-02 05:12:44+08:00 推文](https://twitter.com/ClownWorld_/status/1542979542146461696)
+
+RT Clown World ™ 🤡<br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
+
+### 141: [2022-07-02 05:15:50+08:00 推文](https://twitter.com/HeQinglian/status/1542980321418924037)
 
 Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 当笑话看就好。就连堂堂美国前国防部长马蒂斯如今既不看战况，也不看金融市场与能源市场，I Think 普京每天上床前心虚失魂状态，你还指望左媒能够写出什么象话的真实报道来？下次这《独立报》改名儿叫做《依附报》就行了。
 
-### 141: [2022-07-02 05:17:53+08:00 推文](https://twitter.com/HeQinglian/status/1542980838454960129)
+### 142: [2022-07-02 05:17:53+08:00 推文](https://twitter.com/HeQinglian/status/1542980838454960129)
 
 Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当初就有人选拜登。
 
-### 142: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
+### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
 
-### 143: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
+### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
 Re @zhuxiuyuan 你如果知道一件事情，想法可能更多：<br>布雷顿森林体系的构想与创建者怀特（美国财政部部长助理）是个金融天才，但他是苏联间谍。这事后来发现了。因此，从来不提他的名字。<br>正如国民政府金元券币制改革的建议者是冀朝鼎，留学美国学经济学，为宋子文工作，是周恩来的一步“闲棋”。
 
-### 144: [2022-07-02 07:43:12+08:00 推文](https://twitter.com/HeQinglian/status/1543017408075538433)
+### 145: [2022-07-02 07:43:12+08:00 推文](https://twitter.com/HeQinglian/status/1543017408075538433)
 
 Re @Iris_theGoddess @SSK2024 这些人得了病，静悄悄治疗就好，为什么要如此闹腾？带坏社会风气？<br>希望公众关注他们病前病后的一切，先以歧视逼迫社会政治正确；手术失败后怨恨医生。自己不负半点责任。<br>真是病，就当病人对待，反而成了就职升迁的优先条件，你同情他们，谁同情在歧视链最底端的普通正常人?
 
-### 145: [2022-07-02 07:46:53+08:00 推文](https://twitter.com/HeQinglian/status/1543018333049593856)
+### 146: [2022-07-02 07:46:53+08:00 推文](https://twitter.com/HeQinglian/status/1543018333049593856)
 
 Re @JianglinLi 作者曾任美国特种部队副指挥官。文章说，“对于乌克兰来说，最黑暗的日子可能还没有到来”。<br>其实不需要军事专家分析，有脑袋的人应知：这种乌合之众为一方的战争，不可能与一支有组织、系统指挥的军队长期抗衡。目前，美乌只赢了信息战——I think, hearsay为主的信息战，金融战与能源战已经败了。
 
-### 146: [2022-07-02 07:50:01+08:00 推文](https://twitter.com/HeQinglian/status/1543019121675231232)
+### 147: [2022-07-02 07:50:01+08:00 推文](https://twitter.com/HeQinglian/status/1543019121675231232)
 
 Re @KELMAND1 美国媒体如果有点良知，就如实报道已变性者的悔恨与痛苦，为中学家长造势，反对青少年变性。<br>立法应该规定：校方与老师利用身份优势，鼓动学生变性者，一律重罚并入刑。重罚包括负担变性者终身的医疗费用。
 
-### 147: [2022-07-02 07:55:46+08:00 推文](https://twitter.com/HeQinglian/status/1543020570228424708)
+### 148: [2022-07-02 07:55:46+08:00 推文](https://twitter.com/HeQinglian/status/1543020570228424708)
 
 Re @farmdirect8 他们这样，是想让正常世界更喜欢他们还是更远离他们？<br>我见过的同性恋没这么夸张。
 
-### 148: [2022-07-02 07:58:17+08:00 推文](https://twitter.com/HeQinglian/status/1543021205300678656)
+### 149: [2022-07-02 07:58:17+08:00 推文](https://twitter.com/HeQinglian/status/1543021205300678656)
 
 Re @Vince6610 @JianglinLi @KELMAND1 如果评选英国历史上最糟糕首相，他应该与张伯伦齐名。
 
-### 149: [2022-07-02 08:01:24+08:00 推文](https://twitter.com/HeQinglian/status/1543021988695969793)
+### 150: [2022-07-02 08:01:24+08:00 推文](https://twitter.com/HeQinglian/status/1543021988695969793)
 
 Re @Iris_theGoddess @SSK2024 奥巴马第二个任期，工人的主体还是投票给他的。
 
-### 150: [2022-07-02 08:09:08+08:00 推文](https://twitter.com/JianglinLi/status/1543023934148382721)
+### 151: [2022-07-02 08:09:08+08:00 推文](https://twitter.com/JianglinLi/status/1543023934148382721)
 
 RT 李江琳<br>补点基本知识吧。海边的西塞罗：堕胎权的“少数派报告”：那个“进步”的罗诉韦德案，为何活该被推翻 <a href="https://mp.weixin.qq.com/s/NtR7Wkn6E0Pnw4h25tZOqg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/NtR7Wkn6E0Pnw4h25tZOqg</a>
 
-### 151: [2022-07-02 09:41:02+08:00 推文](https://twitter.com/HeQinglian/status/1543047062912176130)
+### 152: [2022-07-02 09:41:02+08:00 推文](https://twitter.com/HeQinglian/status/1543047062912176130)
 
 Re @evaqiao2017 @JianglinLi 那叫中东战争。对于阿拉伯国家的军事实力，你还是多了解为好。<br>我曾谈过穆巴拉克为什么成为埃及英雄。<br>我现在一听有人对我谈老蒋抗日与泽连斯基抗俄类比，觉得是历史盲、现实无知。
 
-### 152: [2022-07-02 09:43:03+08:00 推文](https://twitter.com/HeQinglian/status/1543047570108420097)
+### 153: [2022-07-02 09:43:03+08:00 推文](https://twitter.com/HeQinglian/status/1543047570108420097)
 
 Re @bbqlamb1 用人民币做储备货币，不是储户。
 
-### 153: [2022-07-02 09:46:05+08:00 推文](https://twitter.com/HeQinglian/status/1543048331676491776)
+### 154: [2022-07-02 09:46:05+08:00 推文](https://twitter.com/HeQinglian/status/1543048331676491776)
 
 Re @david_david1968 十余年前，美国人权组织还很关心泰国的人妖问题，对于 人妖的痛苦，他们有过专题报导。
 
-### 154: [2022-07-02 09:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1543049134386593792)
+### 155: [2022-07-02 09:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1543049134386593792)
 
 Re @ricco_chen @KELMAND1 这是纽约邮报，非纽约时报，纽约时报现在变性正欢畅，哪里有痛苦？
 
-### 155: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
+### 156: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
 
 中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。
 
-### 156: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
+### 157: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
 
 Re @bbqlamb1 在你看来，瑞银撒谎。也好，用块布遮住眼睛。
 
-### 157: [2022-07-02 10:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1543053708686139392)
+### 158: [2022-07-02 10:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1543053708686139392)
 
 Re @JianglinLi @RealBeiMing @ngexp 我问加州华人，为什么还住那儿？回答几乎一致：我们的小区没有黑人。
 
-### 158: [2022-07-02 10:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1543055052591570944)
+### 159: [2022-07-02 10:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1543055052591570944)
 
 Re @JianglinLi @RealBeiMing @ngexp 我认为是习惯使然。<br>洛杉矶与加州，我永远不会选择住那，仅仅是缺水这一项，我就无法忍受。<br>比如要在那里养块草地、种花，金钱上承受不了。<br>再加上现在各种匪夷所思的左疯病，住那里，了无生趣。
 
-### 159: [2022-07-02 21:29:04+08:00 推文](https://twitter.com/HeQinglian/status/1543225244223250434)
+### 160: [2022-07-02 21:29:04+08:00 推文](https://twitter.com/HeQinglian/status/1543225244223250434)
 
 Re @JianglinLi @HEFANG3 挺好的。舒服惯了，过一下前现代生活，让左派知道他们的好日子是偶然的，省得不劳而获吃福利，吃饱喝足后成天想着折腾性器官，性开放多元性关系已经不能满足，颠倒乾坤才快乐，公开诉私人烦恼才得意。<br>只是正常人跟着他们受苦了。
 
-### 160: [2022-07-02 23:59:27+08:00 推文](https://twitter.com/HeQinglian/status/1543263090564911109)
+### 161: [2022-07-02 23:59:27+08:00 推文](https://twitter.com/HeQinglian/status/1543263090564911109)
 
 Re @JianglinLi @HEFANG3 德国领导人没好意思告诉国民：由于欧元兑换卢布贬值许多，原来的金钱数量就算全买俄能源、天然气，也只能买70%左右（现价），如果再继续贬下去，困难更大。<br>真不知道除了拜登利益集团之外，谁对这场战争满意。
 
-### 161: [2022-07-03 00:08:34+08:00 推文](https://twitter.com/HeQinglian/status/1543265384052281344)
+### 162: [2022-07-03 00:08:34+08:00 推文](https://twitter.com/HeQinglian/status/1543265384052281344)
 
 难道纽约人此前不避孕？搞不搞笑？高院这判决用得着抵制么？权利本来就下放给各州了。<br>纽约单亲家庭多，不在乎增加数万个。全美负债第一，福利压垮是迟早之事。<br>堕胎和避孕权写入州宪法 纽约州抵制美最高院裁决 <a href="https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20220702-%E5%A0%95%E8%83%8E%E5%92%8C%E9%81%BF%E5%AD%95%E6%9D%83%E5%86%99%E5%85%A5%E5%B7%9E%E5%AE%AA%E6%B3%95-%E7%BA%BD%E7%BA%A6%E5%B7%9E%E6%8A%B5%E5%88%B6%E7%BE%8E%E6%9C%80%E9%AB%98%E9%99%A2%E8%A3%81%E5%86%B3" target="_blank" rel="noopener noreferrer">https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85%E6%8A%A5%E9%81%93/20220702-%E5%A0%95%E8%83%8E%E5%92%8C%E9%81%BF%E5%AD%95%E6%9D%83%E5%86%99%E5%85%A5%E5%B7%9E%E5%AE%AA%E6%B3%95-%E7%BA%BD%E7%BA%A6%E5%B7%9E%E6%8A%B5%E5%88%B6%E7%BE%8E%E6%9C%80%E9%AB%98%E9%99%A2%E8%A3%81%E5%86%B3</a>
 
-### 162: [2022-07-03 00:11:25+08:00 推文](https://twitter.com/HeQinglian/status/1543266099235635202)
+### 163: [2022-07-03 00:11:25+08:00 推文](https://twitter.com/HeQinglian/status/1543266099235635202)
 
 Re @Tanjilion “当时美国的国债是27.8万亿”，美宣部没发布这数据，你这数据哪里来的？拿出处，否则视同拜登的狗。
 
-### 163: [2022-07-03 00:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1543268489192001542)
+### 164: [2022-07-03 00:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1543268489192001542)
 
 Re @gilzNxc80xIb8qP 你是真懂还是装傻？<br>现在全世界买俄罗斯能源都用卢布结算。<br>华尔街、伦敦、东京都没卢布可兑。<br>你问问欧盟德国、美国买了多少俄罗斯能源，人家不卖或者减少，就骂人家。
 
-### 164: [2022-07-03 01:02:35+08:00 推文](https://twitter.com/HeQinglian/status/1543278976440860673)
+### 165: [2022-07-03 01:02:35+08:00 推文](https://twitter.com/HeQinglian/status/1543278976440860673)
 
 Re @zack_yanhe @gilzNxc80xIb8qP 你笑掉下巴了。😂<br>俄乌战争后，BICKS内部激活原定的金融结算机制，五国货币都可以用来结算。<br>查到这条消息后，将下巴安回去吧。
 
-### 165: [2022-07-03 01:05:24+08:00 推文](https://twitter.com/HeQinglian/status/1543279685609594889)
+### 166: [2022-07-03 01:05:24+08:00 推文](https://twitter.com/HeQinglian/status/1543279685609594889)
 
 Re @Tanjilion 你最好去看实时变动图表。那东西没得改。<br>川普离任时，21.7万亿美元，主要是2020年疫情期间借的。<br>美国专家分析一致指出：10万亿，这是一个月前的数据。
 
-### 166: [2022-07-03 01:24:08+08:00 推文](https://twitter.com/HeQinglian/status/1543284398426054657)
+### 167: [2022-07-03 01:24:08+08:00 推文](https://twitter.com/HeQinglian/status/1543284398426054657)
 
 Re @JianglinLi @david_david1968 @Wu_Zhi 2035年，距离现在还有13年。<br>德国绿能计划从2010年代正式实施，成为绿能先锋也就十多年。今年初德国除了宣布2022年完全弃核，还计划在2038年前关闭所有煤电厂。<br>计划赶不上变化。
 
-### 167: [2022-07-03 01:38:50+08:00 推文](https://twitter.com/HeQinglian/status/1543288100675375110)
+### 168: [2022-07-03 01:38:50+08:00 推文](https://twitter.com/HeQinglian/status/1543288100675375110)
 
 Re @fanggexu @JianglinLi @david_david1968 @Wu_Zhi 我完全不耽心2035年的事情。因为世界变化太快，去年11月初全球气候峰会还在强迫印中俄巴入桌，购买碳排放权配额期货，还让澳大利亚总理承诺今后不养牛羊，清洁空气。<br>今年德国已经动员本国人民烧柴了——这等于大幅度增加碳排放，还毁坏树林。<br>按拜登这种速度，2035年美国是什么样，天知道。
+
+### 169: [2022-07-03 03:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1543314830785904642)
+
+BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？<br><br>美国之音中文网: 白宫再次表示，尚未发现中国为俄罗斯提供实质性援助<br> <a href="http://dlvr.it/STBcg9" target="_blank" rel="noopener noreferrer">http://dlvr.it/STBcg9</a>
+
+### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
+
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
+
+Re @xxj2040 今天，我在IMF查到一个数据，多少有点吃惊：截至2021年底，一个国家——俄罗斯——持有全球近三分之一的人民币储备。<br>我未查全球人民币储备是多少，但由此可见，中俄贸易非常活跃。
+
+### 172: [2022-07-03 05:08:39+08:00 推文](https://twitter.com/HeQinglian/status/1543340899907805184)
+
+Re @franktianxie 这个系统从2019年就开始准备，中俄之间早就是货币互换、用本币结算、货物折算。<br>曾有位从事中俄贸易的推主在我这留言，说他熟悉这种方式，比不上用美元便利，但只是花的时间长一些。<br>最近Swift公布，全球货币支付占比，欧元涨至37.79%，美元降至38.85%，人民币占2.1，居全球第五，RBM可能是BRICKS的锚
 
