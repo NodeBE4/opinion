@@ -65,7 +65,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 13: [2022-06-29 11:26:25+08:00 推文](https://twitter.com/realcaixia/status/1541986418406326273)
 
-我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。<br><br>楊建利 Yang Jianli: 敬告<br><br>由于不明来源的攻击，《议报》网站目前处于不稳定的状态。我们正紧急维修，相信很快会恢复正常。对因此给读者造成的不便和困扰，我们深表歉意。<br><br>致敬读者，您的信任是我们工作的动力，也是我们团队存在的价值。<br>致敬作者，您高质量的文章，给世界增添了精神色彩和思想资源。<br><br>《议报》编辑部<br>
+我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
@@ -93,7 +93,7 @@ Re @drkimharry 看来我们见过？
 
 ### 20: [2022-06-29 21:10:33+08:00 推文](https://twitter.com/realcaixia/status/1542133419542454272)
 
-非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。<br><br>Sayori: @realcaixia 蔡霞老师的这篇文章确实很长，已经截屏不知可否帮助到各位，谢谢👒<br><br><video src="https://video.twimg.com/ext_tw_video/1542048648753979392/pu/vid/592x1280/RIxcHwjF1UfISao6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542048648753979392/pu/img/dQ56qV-uzAWFXwXB.jpg"></video>
+非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。
 
 ### 21: [2022-06-29 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1542168726618898432)
 
@@ -125,11 +125,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
-🥀🥀🥀🙏🙏🙏大陆深度调查记者对揭露大陆的黑暗面，反映民众呼声写过很多优秀报道，产生过巨大影响。习近平上台后遭严厉打压说真话的深度调查记者，很多媒体内部撤销了深度调查部门。只有几家媒体坚持继续做深度调查。又一位深度调查优秀记者离去，令人感伤。哀悼杨海鹏先生。
+🥀🥀🥀🙏🙏🙏大陆深度调查记者对揭露大陆的黑暗面，反映民众呼声写过很多优秀报道，产生过巨大影响。习近平上台后遭严厉打压说真话的深度调查记者，很多媒体内部撤销了深度调查部门。只有几家媒体坚持继续做深度调查。又一位深度调查优秀记者离去，令人感伤。哀悼杨海鹏先生。<br><br>高伐林: 中国著名调查记者杨海鹏于6月29日突发心梗逝世，年仅55岁。<br>杨当过教师，在法院做过4年研究员，后辞职进入媒体业，曾任《南方周末》法治调查记者，参与创办《新周报》，后为《财经》杂志华东新闻中心主任。杨撰写了很多内幕稿件，引起社会广泛关注。<br>英年早逝，令人痛惜！祈愿天堂没有心梗，只有心安。<br><br><img style="" src="https://pbs.twimg.com/media/FWgGDhyXwAI3Kxo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。
+非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
