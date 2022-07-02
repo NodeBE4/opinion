@@ -280,6 +280,10 @@ It's not a complete write-off as Christina Chong is returning as La'an for S2, b
 
 It might just be some odd phrasing here, but Sisko's whole chemical weapon attack was in mid-Season 5, while In the Pale Moonlight happens in the back half of Season 6.
 
+----- __582.2__ -----2022-07-02 10:42:08+08:00:
+
+A major difference is the relative degree of intentionality and lucidity. In For The Uniform, Sisko is motivated primarily by irrational hatred, but in In The Pale Moonlight, his motivation is essentially rational in nature. It's one thing to do something terrible in a fit of rage, it's another to do it as a premeditated act.
+
 ### 583: [Ancient civilisations were built on river floodplains, because of the soil quality. Why didnt the incredibly fertile lands north of the black sea ever become a center of ancient civilisation?](https://old.reddit.com/r/AskHistorians/comments/vov2qp/ancient_civilisations_were_built_on_river/), submitted on 2022-07-01 15:37:15+08:00.
 
 ----- __583.1__ -----2022-07-01 21:26:21+08:00:

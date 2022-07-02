@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -489,7 +489,7 @@ Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北�
 
 ### 119: [2022-07-01 21:55:26+08:00 推文](https://twitter.com/JianglinLi/status/1542869490169483267)
 
-RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂<br><br>C.J. Wilson: H/T to @JunkScience for posting this- an EPA Hot Take from 1986 saying that Florida would be wiped out in 2020 due to climate change.  Important to understand that anyone can come up with a scary scenario if their job depends on it. History ends up debunking most doomsday ideas.<br><br><img style="" src="https://pbs.twimg.com/media/FWldVp-UcAAh-Nx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂
 
 ### 120: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
 
@@ -586,4 +586,64 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 ### 143: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
 Re @zhuxiuyuan 你如果知道一件事情，想法可能更多：<br>布雷顿森林体系的构想与创建者怀特（美国财政部部长助理）是个金融天才，但他是苏联间谍。这事后来发现了。因此，从来不提他的名字。<br>正如国民政府金元券币制改革的建议者是冀朝鼎，留学美国学经济学，为宋子文工作，是周恩来的一步“闲棋”。
+
+### 144: [2022-07-02 07:43:12+08:00 推文](https://twitter.com/HeQinglian/status/1543017408075538433)
+
+Re @Iris_theGoddess @SSK2024 这些人得了病，静悄悄治疗就好，为什么要如此闹腾？带坏社会风气？<br>希望公众关注他们病前病后的一切，先以歧视逼迫社会政治正确；手术失败后怨恨医生。自己不负半点责任。<br>真是病，就当病人对待，反而成了就职升迁的优先条件，你同情他们，谁同情在歧视链最底端的普通正常人?
+
+### 145: [2022-07-02 07:46:53+08:00 推文](https://twitter.com/HeQinglian/status/1543018333049593856)
+
+Re @JianglinLi 作者曾任美国特种部队副指挥官。文章说，“对于乌克兰来说，最黑暗的日子可能还没有到来”。<br>其实不需要军事专家分析，有脑袋的人应知：这种乌合之众为一方的战争，不可能与一支有组织、系统指挥的军队长期抗衡。目前，美乌只赢了信息战——I think, hearsay为主的信息战，金融战与能源战已经败了。
+
+### 146: [2022-07-02 07:50:01+08:00 推文](https://twitter.com/HeQinglian/status/1543019121675231232)
+
+Re @KELMAND1 美国媒体如果有点良知，就如实报道已变性者的悔恨与痛苦，为中学家长造势，反对青少年变性。<br>立法应该规定：校方与老师利用身份优势，鼓动学生变性者，一律重罚并入刑。重罚包括负担变性者终身的医疗费用。
+
+### 147: [2022-07-02 07:55:46+08:00 推文](https://twitter.com/HeQinglian/status/1543020570228424708)
+
+Re @farmdirect8 他们这样，是想让正常世界更喜欢他们还是更远离他们？<br>我见过的同性恋没这么夸张。
+
+### 148: [2022-07-02 07:58:17+08:00 推文](https://twitter.com/HeQinglian/status/1543021205300678656)
+
+Re @Vince6610 @JianglinLi @KELMAND1 如果评选英国历史上最糟糕首相，他应该与张伯伦齐名。
+
+### 149: [2022-07-02 08:01:24+08:00 推文](https://twitter.com/HeQinglian/status/1543021988695969793)
+
+Re @Iris_theGoddess @SSK2024 奥巴马第二个任期，工人的主体还是投票给他的。
+
+### 150: [2022-07-02 08:09:08+08:00 推文](https://twitter.com/JianglinLi/status/1543023934148382721)
+
+RT 李江琳<br>补点基本知识吧。海边的西塞罗：堕胎权的“少数派报告”：那个“进步”的罗诉韦德案，为何活该被推翻 <a href="https://mp.weixin.qq.com/s/NtR7Wkn6E0Pnw4h25tZOqg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/NtR7Wkn6E0Pnw4h25tZOqg</a>
+
+### 151: [2022-07-02 09:41:02+08:00 推文](https://twitter.com/HeQinglian/status/1543047062912176130)
+
+Re @evaqiao2017 @JianglinLi 那叫中东战争。对于阿拉伯国家的军事实力，你还是多了解为好。<br>我曾谈过穆巴拉克为什么成为埃及英雄。<br>我现在一听有人对我谈老蒋抗日与泽连斯基抗俄类比，觉得是历史盲、现实无知。
+
+### 152: [2022-07-02 09:43:03+08:00 推文](https://twitter.com/HeQinglian/status/1543047570108420097)
+
+Re @bbqlamb1 用人民币做储备货币，不是储户。
+
+### 153: [2022-07-02 09:46:05+08:00 推文](https://twitter.com/HeQinglian/status/1543048331676491776)
+
+Re @david_david1968 十余年前，美国人权组织还很关心泰国的人妖问题，对于 人妖的痛苦，他们有过专题报导。
+
+### 154: [2022-07-02 09:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1543049134386593792)
+
+Re @ricco_chen @KELMAND1 这是纽约邮报，非纽约时报，纽约时报现在变性正欢畅，哪里有痛苦？
+
+### 155: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
+
+中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。
+
+### 156: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
+
+Re @bbqlamb1 在你看来，瑞银撒谎。也好，用块布遮住眼睛。
+
+### 157: [2022-07-02 10:07:27+08:00 推文](https://twitter.com/HeQinglian/status/1543053708686139392)
+
+Re @JianglinLi @RealBeiMing @ngexp 我问加州华人，为什么还住那儿？回答几乎一致：我们的小区没有黑人。
+
+### 158: [2022-07-02 10:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1543055052591570944)
+
+Re @JianglinLi @RealBeiMing @ngexp 我认为是习惯使然。<br>洛杉矶与加州，我永远不会选择住那，仅仅是缺水这一项，我就无法忍受。<br>比如要在那里养块草地、种花，金钱上承受不了。<br>再加上现在各种匪夷所思的左疯病，住那里，了无生趣。
 
