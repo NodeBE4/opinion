@@ -85,3 +85,11 @@ Keep the clickbait garbage out of this subreddit.
 
 Hilarious.  Permanently banned for obvious misinformation.
 
+### 326: [Is America a country in decline?](https://old.reddit.com/r/askgaybros/comments/vpr3a9/is_america_a_country_in_decline/), submitted on 2022-07-02 20:48:43+08:00.
+
+----- __326.1__ -----2022-07-03 03:25:16+08:00:
+
+> What’s the graphic novel called? 
+
+Persepolis
+

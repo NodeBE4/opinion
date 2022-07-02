@@ -484,3 +484,35 @@ RWBY fandom is outraged. News at 11.
 
 I mean, I get being disappointed that it's being released in 2023 as it's already been over a year since V8 wrapped, but IDK just watch another thing in the meantime?
 
+----- __575.16__ -----2022-07-03 02:58:49+08:00:
+
+I guess I may need to explain two things for the uninitiated. Firstly, Kson. Kson is a pretty oldschool VTuber livestreamer who debuted her first model in late 2018, although she had been active as a 'fleshtuber' since 2016. From early 2020 onward she had an apparently pretty decent contract on the Japanese streaming site Mildom, but she stopped streaming there in May this year and only streams on Youtube and Twitch now. She's also notable as one of the more popular indie VTubers numbers-wise; when I checked back in March she was only one of three indies with over 1m Youtube subs. She was also doing a lot of this while also streaming as >!Hololive's Kiryu Coco!<, until she retired from there just over a year ago to go full indie, citing creative restrictions but insisting that the split was entirely amicable.
+
+Secondly, VShojo. In the agency VTuber space, VShojo is a reasonable contender for the #3 spot after Hololive and Nijisanji. VShojo started in November 2020 with five formerly indie members (Nyatasha Nyanners, Ironmouse, Zentreya, Silvervale, and Projekt Melody) who already had some history of collaboration; subsequently two new VTubers debuted under the agency, Apricot a.k.a. Froot and Hime Hajime; the agency subsequently also signed on Veibae. While I suspect VShojo's metaphorical innards don't differ much from other agencies, it certainly likes to project a public image of essentially being a support network for otherwise independent streamers, where the agency doesn't interfere with members' activities.
+
+To me at least, Kson's signing on with VShojo is both surprising and unsurprising, in many respects. On the unsurprising side:
+
+* Given that Kson had split from her old agency over creative restrictions, VShojo's give-zero-shits approach to its talents' content does pretty much suit her style.
+
+* A lot of what made Kson's alt popular was her actively engaging with the agency itself and other members in it, so being part of one again definitely opens up some more options.
+
+* Kson had wanted to collab with certain VShojo members on her alt but had been barred by the agency's management, which is often cited as contributing to her leaving.
+
+* Kson has been part of VShojo's Minecraft server for a while.
+
+* It's honestly not that unusual in the EN space for some otherwise-indie VTubers to basically bounce about between stints at agencies if they happen to own their own character IPs. Miori Celesta for instance debuted in MyHolo, bought her character rights and went indie three months later, and then joined Tsunderia for a while before going indie again earlier this year.
+
+On the more surprising side:
+
+* (Extension of above spoiler) >!This might be the first time an ex-Hololive member has signed onto another agency, barring perhaps the dissolved HoloCN. I don't believe any of the three retired Holostars members joined new agencies later, given two retired for health reasons, but do correct me if I'm wrong. A number of members of major agencies have left them and gone on to join Hololive at some later stage, most notably upd8's Oda Nobuhime, Nijisanji's Yamiyono Moruru, and Re:Act's Kurone Yomi (albeit an indie before Re:Act), but Hololive 'losing' a member to another agency is somewhat new, even if it almost certainly wasn't premeditated and/or petty/malicious in nature.!<
+
+* VShojo has always been an English-language agency (Ironmouse being bilingual in Spanish and English but mostly streaming in the latter), but Kson has principally streamed in Japanese (though she's also bilingual), so this may be a deliberate step into the Japanese market.
+
+----- __575.17__ -----2022-07-03 03:07:52+08:00:
+
+Kson isn't the only new VShojo member, as there's going to be an entirely new member, likely also mainly Japanese-speaking, that being [Amemiya Nazuna](https://twitter.com/AmemiyaNazuna). Somehow, this is now the subject of *intense* speculation because of [four whole syllables](https://www.youtube.com/watch?v=NQlH1lXq4tg&t=469s) in her teaser trailer which are leading people to speculate that she might be Mikeneko, formerly Hololive's Uruha Rushia, whom you may recall from her being fired for leaking internal messages back in February. Which I mean... sure anything is *possible* but you'd think people could wait until she had said more than, you know, a quarter of a sentence before jumping to conclusions.
+
+----- __575.18__ -----2022-07-03 03:20:52+08:00:
+
+Moreover, VShojo opened auditions for new members back in August last year (I don't know if they ever closed). If that's the case, surely any new original members would have been worked on for the better part of a year at this point. I just don't think it that plausible that their priorities are so skewed that they'd rather rush a still highly controversial figure to debut just under five months after she was fired (with the announcement coming barely four months after said firing), ahead of anyone who might have applied some six months earlier.
+
