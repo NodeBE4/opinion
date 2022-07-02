@@ -125,6 +125,12 @@ It doesn't matter where the slur came from, what matters is where the slur is no
 
 Funnily enough... yeah kinda? Funny how that works, that when a marginalised group highlights ways in which they are marginalised, that tends to be a good sign that they're being marginalised for something.
 
+----- __577.17__ -----2022-07-02 10:58:43+08:00:
+
+> You're not required to explain why. You shouldn't explain why, unless you're willing to go into endless debate.
+
+So, not to stir things up all over again, but isn't this kinda what Finana's whole 'educate yourself' line means? She didn't explain it in depth, and effectively stated that if you need it explained to you why you shouldn't use a given slur, do the legwork yourself.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:

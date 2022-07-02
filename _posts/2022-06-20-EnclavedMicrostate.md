@@ -472,3 +472,9 @@ Yeah it's like... oh no, she knows that you shouldn't use the n-word and stops h
 
 I feel like it's a yes and no situation in that with VTubers it's not media consumption in a purely passive sense, but often involves active and direct communication with the creator as the media is being created, and while I don't know how that necessarily bears on the community aspect it's certainly an extra layer of stuff. But also, there's also a level of active engagement in content creation – clippers, animators, people just making memes etc – which means that although the audience as a whole isn't a singular community, there are individual communities that cohere around certain spaces that actively produce derivative media as well as simply commenting on the original, and this is true of basically any fandom.
 
+----- __575.14__ -----2022-07-02 11:12:21+08:00:
+
+> Hololive's branch is definitely more of the side of keeping things sanitized to avoid such backlash (in order to prevent having to let talent go) whereas Nijisanji gives their talents more freedom on platforms such as Twitter and the like.
+
+All else aside (because I broadly agree with the rest of the post on principle), there's a bit of a meme that Hololive is uniquely restrictive while Nijisanji is looser, but I just don't really see that being the case. Both agencies are cut from pretty similar cloth from the first VTuber wave in 2018/19, but just because Hololive has an idol *aesthetic* doesn't mean it's fundamentally culturally different, or that one polices content more or less than the other. We do not know how much control is exercised behind the scenes and ought not to pretend otherwise.
+
