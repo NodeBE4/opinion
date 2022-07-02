@@ -478,3 +478,9 @@ I feel like it's a yes and no situation in that with VTubers it's not media cons
 
 All else aside (because I broadly agree with the rest of the post on principle), there's a bit of a meme that Hololive is uniquely restrictive while Nijisanji is looser, but I just don't really see that being the case. Both agencies are cut from pretty similar cloth from the first VTuber wave in 2018/19, but just because Hololive has an idol *aesthetic* doesn't mean it's fundamentally culturally different, or that one polices content more or less than the other. We do not know how much control is exercised behind the scenes and ought not to pretend otherwise.
 
+----- __575.15__ -----2022-07-02 23:11:31+08:00:
+
+RWBY fandom is outraged. News at 11.
+
+I mean, I get being disappointed that it's being released in 2023 as it's already been over a year since V8 wrapped, but IDK just watch another thing in the meantime?
+
