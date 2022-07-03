@@ -308,3 +308,9 @@ Sorry, but we have had to remove your comment. [Please understand that people co
 
 Isn't Kson from Atlanta?
 
+### 586: ['Urban legends', 'urban myths' – What is it that makes a piece of folklore 'urban'? Is it purely a quirk of etymology, or do urban communities genuinely produce folklore in a distinct way, or a distinct kind, from rural ones?](https://old.reddit.com/r/AskHistorians/comments/vqccb0/urban_legends_urban_myths_what_is_it_that_makes_a/), submitted on 2022-07-03 15:45:21+08:00.
+
+----- __586.1__ -----2022-07-03 20:07:59+08:00:
+
+I am sorry to have caused such distress, but deeply gratified that you chose to answer regardless.
+
