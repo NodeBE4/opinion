@@ -318,3 +318,9 @@ I am sorry to have caused such distress, but deeply gratified that you chose to 
 
 And I was happy to play along :)
 
+### 587: [[Hobby Scuffles] Week of July 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/), submitted on 2022-07-03 23:00:15+08:00.
+
+----- __587.1__ -----2022-07-04 03:46:53+08:00:
+
+Gosh, I never thought I was ever going to be reminded of GameChap and Bertie!
+
