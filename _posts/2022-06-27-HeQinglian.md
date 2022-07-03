@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -689,11 +689,11 @@ Re @fanggexu @JianglinLi @david_david1968 @Wu_Zhi 我完全不耽心2035年的�
 
 ### 169: [2022-07-03 03:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1543314830785904642)
 
-BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？
+BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？<br><br>美国之音中文网: 白宫再次表示，尚未发现中国为俄罗斯提供实质性援助<br> <a href="http://dlvr.it/STBcg9" target="_blank" rel="noopener noreferrer">http://dlvr.it/STBcg9</a>
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
-如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
 
@@ -725,7 +725,7 @@ Re @RealBeiMing 好莱坞有一类鬼怪片，里面的鬼怪就是这样打扮�
 
 ### 178: [2022-07-03 19:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1543559502095683587)
 
-拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。 <a href="https://twitter.com/zt33268778/status/1543262704902848513" target="_blank" rel="noopener noreferrer">https://twitter.com/zt33268778/status/1543262704902848513</a>
+拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
 
 ### 179: [2022-07-03 19:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1543561198909759488)
 
@@ -734,4 +734,68 @@ Re @david_david1968 有消息说，德国其实也做倒手买卖。这种事情
 ### 180: [2022-07-03 19:54:41+08:00 推文](https://twitter.com/HeQinglian/status/1543563878461804544)
 
 Re @zhuzisteven 有次看阿桑奇的纪录片，自愿与阿桑奇发生性关系的瑞典那女的告阿桑奇就是依据法律：性交时采用某动作要征求女方同意。
+
+### 181: [2022-07-03 21:54:00+08:00 推文](https://twitter.com/HeQinglian/status/1543593904964083713)
+
+Re @david_david1968 这个不大可能，可能是翻译时出了问题，将八折翻译成了二折。<br>至少会按成本价出售，如果是这样，得产油地取货。如果太低，会影响与APEC的关系，俄罗斯的能源战，如果没有APEC配合限产，会失败的。
+
+### 182: [2022-07-03 22:19:13+08:00 推文](https://twitter.com/HeQinglian/status/1543600251537334273)
+
+Re @JianglinLi 你这淡桔黄玫瑰的颜色非常漂亮。是否有香味？<br>我那棵淡粉色（与一般粉色不同）的苏格兰王后的香味，让它成了吸引甲壳虫的中心，安装了一个beetle trap也没用。其余的玫瑰倒因此免灾。
+
+### 183: [2022-07-03 22:24:48+08:00 推文](https://twitter.com/HeQinglian/status/1543601658239795200)
+
+Re @IPXRU 到现在为止，就算是看了《美国秘密》中共济会的两集，也没弄清楚是怎么回事，因为纪录片的拍摄者的主要结论，还是hearsay。<br>有位国内很有心的朋友在哈佛访问的两年期间，我建议他去了解。他极有兴趣，还参加哈佛所在镇上共济会的各种活动，告诉我，没发现什么。<br>因为都说外人无法了解内情，只能存疑。
+
+### 184: [2022-07-03 22:28:35+08:00 推文](https://twitter.com/HeQinglian/status/1543602609445019652)
+
+Re @cskun1989 他们的黄金时代，也是香港的黄金时代。他们的存在证明自由对激发人的创造力、一个地区的活力多么重要。<br>我非常怀念1970-1990年代的香港，如同1980-1990年代的台湾，都是华人生活方式与自由能够达到的最高天花板。
+
+### 185: [2022-07-03 22:29:35+08:00 推文](https://twitter.com/HeQinglian/status/1543602861216616449)
+
+Re @Gurge99 @franktianxie 如同你一样？
+
+### 186: [2022-07-03 22:30:48+08:00 推文](https://twitter.com/HeQinglian/status/1543603167140651008)
+
+Re @rocbear2 @franktianxie 人家协议里载明：可以用本币结算，汇率按结算时价格。<br>毕竟都是有历史的大国，不是中国居民。
+
+### 187: [2022-07-03 22:32:36+08:00 推文](https://twitter.com/HeQinglian/status/1543603619089489921)
+
+Re @greenhopewillia NGO不是差，是价值观的问题，是资金来源问题。<br>NGO几乎都是民主党支持的。老牌NGO是左派大本营。
+
+### 188: [2022-07-03 22:40:54+08:00 推文](https://twitter.com/HeQinglian/status/1543605710348484611)
+
+Re @lusitao1 @JianglinLi Beetle来了后，樱花也遭灾。部分葡萄叶子也被蛀成网状。一般防虫药对它们无杀伤力。
+
+### 189: [2022-07-03 23:05:27+08:00 推文](https://twitter.com/HeQinglian/status/1543611887530790913)
+
+Re @JianglinLi 其实用过了。不仅用这种，还用了一种据说洒过后五年内不长各种虫蛹的药。一个社区内，仅仅只有一家如此用是没有效用的，因为虫会飞。我后园的鸟非常多，每天枝头上下翻飞，不少蚯蚓都被当作美食。但鸟类不吃这种Beetle，第一个Beetle Trap被鸟啄坏试吃后，再也不屑一顾。因此只能尽力而为了。
+
+### 190: [2022-07-03 23:30:56+08:00 推文](https://twitter.com/HeQinglian/status/1543618300139241477)
+
+Re @JianglinLi 我今年的确没翻出幼虫。鸟多，连蝴蝶都不大有了。晚上才能看到萤火虫。<br>我有位邻居，单身，房子是本小区最大的那种。他家的花园基本不打理，杂草都蔓延到我的地界来了。因此，只能是见招拆招了，我也不能跑到人家地界去撒虫药，只能有时拔除杂草，带刺，长到两英英尺高了；还有蒲公英。
+
+### 191: [2022-07-03 23:31:30+08:00 推文](https://twitter.com/HeQinglian/status/1543618443529916416)
+
+Re @zack_yanhe @david_david1968 这我相信，因为有个成本底线。这在成本范围内。
+
+### 192: [2022-07-03 23:37:22+08:00 推文](https://twitter.com/HeQinglian/status/1543619921216675843)
+
+Re @ozhulswzMm1ayCj @cskun1989 你与下面那位，先弄清楚1970年代与1980年代的“年代”与“年”的区别。香港廉署成立于1974年2月15日，台湾解严是1987年7月15日。<br>香港廉政公署、台湾解严，不是一天爆发的，是两地社会运动的结果。<br>喜欢挑刺，我也欢迎，但希望挑对，不要自曝短板。
+
+### 193: [2022-07-03 23:38:19+08:00 推文](https://twitter.com/HeQinglian/status/1543620159176409089)
+
+Re @immonen1205 @ozhulswzMm1ayCj @cskun1989 你回答一声，我应不应该拉黑你？如果不回答，视同同意。五分钟后。
+
+### 194: [2022-07-03 23:40:10+08:00 推文](https://twitter.com/HeQinglian/status/1543620623062163458)
+
+Re @JianglinLi 传说中的索多玛我没见过，但索多玛之丑陋，应该比这逊色一点。
+
+### 195: [2022-07-03 23:41:26+08:00 推文](https://twitter.com/HeQinglian/status/1543620942169096192)
+
+Re @immonen1205 @ozhulswzMm1ayCj @cskun1989 只为让你今后不要心生怨气，或者找人来说情解黑。这种人太多了。
+
+### 196: [2022-07-03 23:43:44+08:00 推文](https://twitter.com/HeQinglian/status/1543621522518073351)
+
+Re @david_david1968 挪威为帮助盟友，今年尽力增产。从泽总要求人家将增产增加的收入视为乌克兰人的血，要求挪威拿出来送给乌国之后，不知现在是否愿意增产了。
 
