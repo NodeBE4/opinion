@@ -93,7 +93,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 20: [2022-06-09 22:58:29+08:00 推文](https://twitter.com/realcaixia/status/1534912825981816840)
 
-特别喜欢这个视频。
+特别喜欢这个视频。<br><br>ZHANGDONG: 这个民族有希望💪💪<br> <a href="https://twitter.com/wutingzy/status/1534339164539428864" target="_blank" rel="noopener noreferrer">https://twitter.com/wutingzy/status/1534339164539428864</a>
 
 ### 21: [2022-06-09 23:27:22+08:00 推文](https://twitter.com/realcaixia/status/1534920093943078914)
 
