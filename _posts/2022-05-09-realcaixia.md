@@ -205,7 +205,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
-跟推传发一夜庐诗作。
+跟推传发一夜庐诗作。<br><br>ZHANGDONG: 疫情新三别（之二）<br>小兒别<br><br><img style="" src="https://pbs.twimg.com/media/FSRTha1X0AU8QJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRThosXoAIrT6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTh6IXMAAnddt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTiIdXwAAJzkl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
@@ -233,11 +233,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
+特别推荐。
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
-这个推文很好，特别转推。<br><br>端咖啡内女的🇺🇦🇺🇦: 我出国前啥都不懂。同学们都出国，不出国就像个loser，所以我也跟风出国了。出国后给家里写的信上说：如果不是亲眼见，你不会相信世界上有这么好的国家、有这么好的社会。每个人都被尊重，每个人做事都认真守规矩，我感到精神上前所未有的放松和自由。<br>
+这个推文很好，特别转推。
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
