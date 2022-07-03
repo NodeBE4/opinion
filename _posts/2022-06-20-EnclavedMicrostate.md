@@ -518,7 +518,7 @@ Moreover, VShojo opened auditions for new members back in August last year (I do
 
 ----- __575.19__ -----2022-07-03 12:21:10+08:00:
 
-It's 'obvious' if you buy into a speculation narrative that has gained traction by pure truthiness, but for all we know Kson wanted an extended break from agency involvement and slowly dipped her toe in with VShojo.
+It's 'obvious' if you buy into a speculative narrative that has gained traction by pure truthiness, but for all we know Kson wanted an extended break from agency involvement and slowly dipped her toe in with VShojo.
 
 ----- __575.20__ -----2022-07-03 12:30:24+08:00:
 
