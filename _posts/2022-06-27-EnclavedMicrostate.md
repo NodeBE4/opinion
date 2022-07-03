@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-01
+date: 2022-07-03
 from: https://old.reddit.com/r/AskHistorians/comments/vlwtx2/in_the_arabic_language_the_words_west_and_strange/
 layout: post
 tags:
@@ -301,4 +301,10 @@ Sorry, but we have removed your response, as we expect answers in this subreddit
 ----- __584.1__ -----2022-07-02 03:41:26+08:00:
 
 Sorry, but we have had to remove your comment. [Please understand that people come here because they want an informed response from someone capable of engaging with the sources, and providing follow up information](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). Even when the source might be an appropriate one to answer the question, simply linking to or quoting from a source is a violation of the [rules we have in place here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations). These sources, of course, can make up an important part of a well-rounded answer but do not equal an answer on their own. While there are other places on reddit for such comments, it is presumed that in posting here, the OP is looking for an answer that is in line with our rules. You can find further discussion of this policy [here](https://www.reddit.com/r/AskHistorians/comments/h8abv9/rules_roundtable_xvii_answers_must_not_be/). In the future, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) before contributing again.
+
+### 585: [One of the newest members of Vshojo, Amemiya Nazuna an angel with amnesia, posted her first tweet](https://old.reddit.com/r/VirtualYoutubers/comments/vq5spn/one_of_the_newest_members_of_vshojo_amemiya/), submitted on 2022-07-03 09:05:46+08:00.
+
+----- __585.1__ -----2022-07-03 19:02:47+08:00:
+
+Isn't Kson from Atlanta?
 
