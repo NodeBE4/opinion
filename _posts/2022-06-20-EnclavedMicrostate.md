@@ -516,3 +516,11 @@ Kson isn't the only new VShojo member, as there's going to be an entirely new me
 
 Moreover, VShojo opened auditions for new members back in August last year (I don't know if they ever closed). If that's the case, surely any new original members would have been worked on for the better part of a year at this point. I just don't think it that plausible that their priorities are so skewed that they'd rather rush a still highly controversial figure to debut just under five months after she was fired (with the announcement coming barely four months after said firing), ahead of anyone who might have applied some six months earlier.
 
+----- __575.19__ -----2022-07-03 12:21:10+08:00:
+
+It's 'obvious' if you buy into a speculation narrative that has gained traction by pure truthiness, but for all we know Kson wanted an extended break from agency involvement and slowly dipped her toe in with VShojo.
+
+----- __575.20__ -----2022-07-03 12:30:24+08:00:
+
+I'll tack on to this by noting that while Coco's supposed aggressive pushing for a HoloEN is a popular fan narrative, for me the timelines do not add up. By the time Kson/Coco was an active Hololive member, HoloCN was already there and HoloID was in the pipeline, and with that in mind HoloEN was almost certainly next up after ID. Nor was she the first member to do English streams, that was Haachama (officially Akai Haato for those not in the know) who started doing them nearly a month and a half before Coco debuted, and was the one to read out the [announcement for the opening of an English-language official news Twitter](https://twitter.com/hololive_en/status/1199659479920308224). Coco was definitely influential, well-liked, and extremely influential, but the notion that she was some driving force within Cover seems to be the Hololive fandom's equivalent of an urban myth.
+

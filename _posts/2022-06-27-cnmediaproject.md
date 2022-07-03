@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-01
+date: 2022-07-02
 from: https://twitter.com/niubi/status/1541147774984519681
 layout: post
 tags:
@@ -49,7 +49,7 @@ RT Jonathan Cheng<br>“In China, it’s a common practice to have an official
 
 ### 9: [2022-06-27 21:39:20+08:00 推文](https://twitter.com/xinwenxiaojie/status/1541415889253400578)
 
-RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Do you know your secret CCP pen names? Who is "Zhong Zuwen"? "Wang Xingping"? "Ding Xuelei"? In this piece we take a look at the history of official homophone bylines in the Party-state media.<br><br><img style="" src="https://pbs.twimg.com/media/FV8EIQhagAE1ELt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a>
+RT Yuen Chan<br>A useful and "fun" guide by @cnmediaproject.<br>And there I was, thinking Wang Xingping was a 90s Cantopop singer <br>(I know it's "xin" in Mando, but both are "hing" Canto)<br><img style="" src="https://pbs.twimg.com/media/FWQ1EAvXkAAXfU9?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2022-06-28 07:40:54+08:00 推文](https://twitter.com/meifongwriter/status/1541567278872928256)
 
@@ -90,4 +90,8 @@ RT Caroline Wilson 吴若兰<br>Today we tried to share on weibo 微博 the fa
 ### 19: [2022-07-01 23:27:27+08:00 推文](https://twitter.com/CarlMinzner/status/1542892648306036738)
 
 RT Carl Minzner<br>Left: July 1, 1997 front page of top Party paper @PDChina commemorating *actual* Hong Kong handover. Right: same page for 25th anniversary celebration today.<br><br>See how Chinese politics has changed.<br><br>In 1997, China came first, Jiang Zemin second.<br>Today, it's all about Xi Jinping.<br><img style="" src="https://pbs.twimg.com/media/FWlyypLWAAQqMS3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWlyzdnXEAcRUcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-07-02 16:53:51+08:00 推文](https://twitter.com/hkfp/status/1543155984247296000)
+
+RT Hong Kong Free Press HKFP<br>1/ The HKFP team are saddened to learn of the passing of columnist and political scientist Suzanne Pepper this week. The Chinese University of Hong Kong academic and author had written analysis for HKFP since our launch in 2015. <a href="https://hongkongfp.com/author/suzannepepper/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/author/suzannepepper/</a><br><img style="" src="https://pbs.twimg.com/media/FWpkJosVsAAh631?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
