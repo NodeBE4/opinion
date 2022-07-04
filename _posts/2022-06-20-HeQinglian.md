@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
+转发，BBC近几年以来，这算做了件正经事。
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 

@@ -348,3 +348,7 @@ Not quite, if you look later in that paragraph you will see that I wrote
 
 There are some other regularly active alts of current Holomems, notably >!Matsuri!< and >!Noel!< (the latter is also a contender for 'Hololive's worst kept secret').
 
+----- __587.5__ -----2022-07-05 02:52:44+08:00:
+
+See [this comment](https://www.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/ietz9m2/).
+
