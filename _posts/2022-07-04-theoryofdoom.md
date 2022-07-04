@@ -23,3 +23,15 @@ In California, they believe in crackpot pseudoscience and fascism by decree of t
 
 I'll take DeSantis 10/10 times.
 
+### 328: [Bad yet successful books](https://old.reddit.com/r/suggestmeabook/comments/vr3itl/bad_yet_successful_books/), submitted on 2022-07-04 17:29:19+08:00.
+
+----- __328.1__ -----2022-07-05 01:28:02+08:00:
+
+The Hunger Games.  Terrible book.  Very successful.  Same with the Divergent series.  Bad writing.  Bad plot.  Bad characters.  Bad everything.
+
+----- __328.2__ -----2022-07-05 01:28:47+08:00:
+
+> Dollar Store fake Stoicism
+
+That is the perfect description.
+
