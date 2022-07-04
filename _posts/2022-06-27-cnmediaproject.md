@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-02
+date: 2022-07-03
 from: https://twitter.com/niubi/status/1541147774984519681
 layout: post
 tags:
@@ -94,4 +94,8 @@ RT Carl Minzner<br>Left: July 1, 1997 front page of top Party paper @PDChina c
 ### 20: [2022-07-02 16:53:51+08:00 推文](https://twitter.com/hkfp/status/1543155984247296000)
 
 RT Hong Kong Free Press HKFP<br>1/ The HKFP team are saddened to learn of the passing of columnist and political scientist Suzanne Pepper this week. The Chinese University of Hong Kong academic and author had written analysis for HKFP since our launch in 2015. <a href="https://hongkongfp.com/author/suzannepepper/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/author/suzannepepper/</a><br><img style="" src="https://pbs.twimg.com/media/FWpkJosVsAAh631?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-07-03 09:40:37+08:00 推文](https://twitter.com/ZeyiYang/status/1543409345815355399)
+
+RT Zeyi Yang<br>Gigantic civilian data leak if confirmed: A hacker is selling an alleged Shanghai police data leak containing 1 billion Chinese nationals' names, home addresses, ID #, phone #, criminal records, etc. Hacker says it's from an Aliyun (Alibaba) private cloud server.<br><img style="" src="https://pbs.twimg.com/media/FWtIJtIWYAIU1Nr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWtI5cLWYAEOuU3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
