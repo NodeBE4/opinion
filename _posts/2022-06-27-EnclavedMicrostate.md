@@ -328,3 +328,9 @@ And I was happy to play along :)
 
 Gosh, I never thought I was ever going to be reminded of GameChap and Bertie!
 
+----- __587.2__ -----2022-07-04 21:15:19+08:00:
+
+> a decrease in air quality due to Co2 (aka a lack of proper indoor ventilation) can increase risks for people to catch airborne diseases like covid.
+
+I'd correct that to say that the relative quantity of Co2 correlates with factors that would lead to heightened risk of airborne disease transmission. As phrased it implies it's the Co2 itself causing increased disease risk.
+
