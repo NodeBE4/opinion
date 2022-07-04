@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-04
+date: 2022-07-05
 from: https://twitter.com/HeQinglian/status/1543683373884899331
 layout: post
 tags:
@@ -126,4 +126,16 @@ Re @yuhan_1978 美国独行？
 ### 28: [2022-07-04 22:05:31+08:00 推文](https://twitter.com/HeQinglian/status/1543959194105270272)
 
 Re @KELMAND1 今年，所有因2015年以前的旧印象而崇拜美国与西方的人，都会失望，除了他们用块黑布遮住自己眼睛。<br>很快就会看到欧盟各国反对中国的声音静音——2500亿美元的订单，相当诱人。<br>我因为见多了，一直在看美国对华政策的晴天版与阴天版来回变化，早就是坐看云起云落。
+
+### 29: [2022-07-04 23:11:38+08:00 推文](https://twitter.com/HeQinglian/status/1543975831063732225)
+
+Re @Meitiaowushi @KELMAND1 俄中关系，两国一直有保留。西北利亚的中国移民太多，一直是莫斯科权力中心头痛的问题；至于中国偷窃俄罗斯国防技术，也是莫斯科力防的重点。<br>就连人与人的友情也不是毫无保留，何况一个国家？<br>与其说打俄粉的脸，不如说是给北京难堪：别将手伸得太长。
+
+### 30: [2022-07-05 00:23:00+08:00 推文](https://twitter.com/xiaxiaoqiang/status/1543993791933292546)
+
+RT xiaxiaoqiang 夏小強<br>「夏小強的世界」開通會員專區服務了！訂閱會員將會看到獨家的深度時政分析文章，以及多位作家加盟的各類型高質量原創內容。夏小強感謝您的訂閱和支持，等待您一起走進這個精彩的世界。 <a href="https://www.xiaxiaoqiang.net/membership-join" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/membership-join</a><br><img style="" src="https://pbs.twimg.com/media/FW1eJ3iXgAErc0j?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-07-05 00:41:09+08:00 推文](https://twitter.com/HeQinglian/status/1543998357286359041)
+
+Re @littledtiger @Meitiaowushi @KELMAND1 这些人自己不注重 事实，只注重 立场，因此，在他们眼中，只有立场，没有事实。<br>不与这些人论短长。
 

@@ -334,3 +334,17 @@ Gosh, I never thought I was ever going to be reminded of GameChap and Bertie!
 
 I'd correct that to say that the relative quantity of Co2 correlates with factors that would lead to heightened risk of airborne disease transmission. As phrased it implies it's the Co2 itself causing increased disease risk.
 
+----- __587.3__ -----2022-07-05 00:09:33+08:00:
+
+Calli, who resumed activity on her alt earlier this year.
+
+Said alt being >!DemonDice!< for those interested.
+
+----- __587.4__ -----2022-07-05 00:44:31+08:00:
+
+Not quite, if you look later in that paragraph you will see that I wrote
+
+> she did have a contract with Japanese streaming site Mildom and was very regular there
+
+There are some other regularly active alts of current Holomems, notably >!Matsuri!< and >!Noel!< (the latter is also a contender for 'Hololive's worst kept secret').
+
