@@ -77,7 +77,7 @@ RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to liv
 
 ### 16: [2022-05-12 18:57:48+08:00 推文](https://twitter.com/TMK_TinaManiK/status/1524705394051878912)
 
-RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown
+RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown<br><br>Shanghai Daily: Over 500 pigeons living in central Shanghai's People's Square are an attraction to both residents and tourists in the city – but how are they faring during the pandemic? #COVID19<br><br><video src="https://video.twimg.com/amplify_video/1524661904525901824/vid/1280x720/0VFtFbE9nzaDLtgp.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1524661904525901824/img/9TUGmCBuG5Ts9ipQ.jpg"></video> <a href="https://www.shine.cn/news/metro/2205125499/" target="_blank" rel="noopener noreferrer">https://www.shine.cn/news/metro/2205125499/</a>
 
 ### 17: [2022-05-13 11:39:08+08:00 推文](https://twitter.com/cnmediaproject/status/1524957389832990720)
 
@@ -157,7 +157,7 @@ Re When XJP reaches the section summing up the history of the CCP, he neatly out
 
 ### 36: [2022-05-14 16:13:00+08:00 推文](https://twitter.com/niccijsmith/status/1525388695720714240)
 
-RT Nicola Smith<br>The definition of futility
+RT Nicola Smith<br>The definition of futility<br><br>Arnauld Miguet: Only in #China #airport #Covid19 @francetvchine<br><br><video src="https://video.twimg.com/ext_tw_video/1525337709320892416/pu/vid/264x480/Lb0UOqjF-QuXFw4H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525337709320892416/pu/img/hYm9G7RK4H1LY8Bx.jpg"></video>
 
 ### 37: [2022-05-15 08:29:36+08:00 推文](https://twitter.com/cnmediaproject/status/1525634465279938560)
 
