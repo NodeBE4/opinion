@@ -131,6 +131,10 @@ Funnily enough... yeah kinda? Funny how that works, that when a marginalised gro
 
 So, not to stir things up all over again, but isn't this kinda what Finana's whole 'educate yourself' line means? She didn't explain it in depth, and effectively stated that if you need it explained to you why you shouldn't use a given slur, do the legwork yourself.
 
+----- __577.18__ -----2022-07-04 11:57:42+08:00:
+
+Nationalism doesn't operate on rationality.
+
 ### 578: [Who was the man who willingly spent his life isolated in a cell?](https://old.reddit.com/r/AskHistorians/comments/vmerla/who_was_the_man_who_willingly_spent_his_life/), submitted on 2022-06-28 12:49:53+08:00.
 
 ----- __578.1__ -----2022-06-28 15:17:34+08:00:
