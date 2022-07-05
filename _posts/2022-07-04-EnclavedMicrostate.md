@@ -19,6 +19,10 @@ title: EnclavedMicrostate在2022-07-04~2022-07-10的言论
 
 As someone who speaks Cantonese natively and has intermediate Mandarin listening... this was joyous and painful in equal measure.
 
+----- __588.2__ -----2022-07-06 02:49:44+08:00:
+
+Well, those are their primary Sinitic languages, but from the stream it's clear that Selen has at least intermediate Mandarin and Enna a similar but possibly lesser level of Cantonese.
+
 ### 589: [How long have people been using "say cheese" to get people to smile in pictures?](https://old.reddit.com/r/AskHistorians/comments/vrpbh7/how_long_have_people_been_using_say_cheese_to_get/), submitted on 2022-07-05 12:14:31+08:00.
 
 ----- __589.1__ -----2022-07-05 13:41:47+08:00:
