@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-05
+date: 2022-07-06
 from: https://twitter.com/donweinland/status/1543815250645958656
 layout: post
 tags:
@@ -34,4 +34,8 @@ Re @GeringTuvia This is a good opportunity to share CMP's analysis more than 10 
 ### 5: [2022-07-05 14:28:36+08:00 推文](https://twitter.com/cnmediaproject/status/1544206591884668928)
 
 This Yang Haipeng tribute is a journey thru media history: "As traditional media declined, Old Yang continued to be active on social media. What he did was no different from the newspaper era – exposing corruption, and expanding the space for speech." <a href="https://bit.ly/3P2xzOP" target="_blank" rel="noopener noreferrer">https://bit.ly/3P2xzOP</a><br><img style="" src="https://pbs.twimg.com/media/FW4fmELaMAUR5jJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-07-06 02:04:18+08:00 推文](https://twitter.com/niubi/status/1544381670119411712)
+
+RT Bill Bishop<br>CCTV shows before and after image of a "sinicized" mosque in Xining in its report on Wang Yang's inspection tour last week <a href="https://tv.cctv.com/2022/06/30/VIDEU3v5qnkHvL2AHmozhi3a220630.shtml?spm=C22822.P2uSueW2q579.EZc0ubGfmVNp.6" target="_blank" rel="noopener noreferrer">https://tv.cctv.com/2022/06/30/VIDEU3v5qnkHvL2AHmozhi3a220630.shtml?spm=C22822.P2uSueW2q579.EZc0ubGfmVNp.6</a><br><img style="" src="https://pbs.twimg.com/media/FW6-qGEWYAA-Reg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
