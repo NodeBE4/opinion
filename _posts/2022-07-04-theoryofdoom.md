@@ -43,3 +43,15 @@ Headline should have read:
 
 "Police identify pathetic incel suspect wanted after . . . . "
 
+----- __329.2__ -----2022-07-05 11:05:50+08:00:
+
+Keep the partisan nonsense out of this sub.
+
+### 330: [Kazakhstan holds the keys to a new geopolitical balance in Asia](https://old.reddit.com/r/geopolitics/comments/vro6p0/kazakhstan_holds_the_keys_to_a_new_geopolitical/), submitted on 2022-07-05 11:08:25+08:00.
+
+----- __330.1__ -----2022-07-05 11:18:13+08:00:
+
+Submission Statement: 
+
+This op-ed argues that geopolitical balance in Asia will depend on Central Asia, and specifically Kazakhstan.  Central Asia is and has always been a mediating force between the United States, Europe, Russia and China. Kazakhstan in particular stands to benefit from trade with all, and loss of influence there surely tips the scale in adversaries' favor, in every way that matters: diplomatically, militarily and economically, at the very least.  Accordingly, the United States must meaningfully re-engage without over-reaching; seeking to maintain Kazakhstan's independence from any single great power with interests in the region.
+
