@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -218,4 +218,32 @@ Re @leeandfoong @RFI_TradCn 英国首相与拜登都是男的，说话不靠谱�
 ### 51: [2022-07-05 06:41:12+08:00 推文](https://twitter.com/HeQinglian/status/1544088970203541504)
 
 Re @leeandfoong 中国从前年开始，主要不再依赖房地产了，而是外贸——疫情相关的物质出口占大头。地方财政另说。
+
+### 52: [2022-07-05 22:35:45+08:00 推文](https://twitter.com/HeQinglian/status/1544329187300876288)
+
+Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的是王炸Swift一旦祭出，某国经济会孤立乃至破产。<br>这个王炸不灵后，能源主导权就顺理成章地抓在能源供应国手里。<br>当然，西方低估了APEC+1的价格与限产同盟力量，以为拜登出马，APEC一定会给面子，卖了那个不属于阿拉伯世界的“1”。
+
+### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
+
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
+
+Re @suisam007 @KELMAND1 请放心，我听说德国冬天不太冷，比上海好多了。上海一带，十多年以前，不都是没有供暖么？<br>人吃苦受熬的能力，会帮助大家渡过困难时期的。何况还有精神支柱：打倒普京俄罗斯，自由属于乌克兰。
+
+### 55: [2022-07-05 23:05:42+08:00 推文](https://twitter.com/HeQinglian/status/1544336727850057729)
+
+Re @LinYueYang 话说，就美国左派尤其是奥巴马、拜登特别喜欢这种厕所。<br>上次看到一视频：一群黑女追打穿女装混入女洗手间的黑男混混。黑女个个高大威猛，打得那瘦黑男狼狈逃窜。
+
+### 56: [2022-07-05 23:11:12+08:00 推文](https://twitter.com/HeQinglian/status/1544338108304572418)
+
+空客突传在中国赢下292架飞机巨额订单 <br>文章中有句话：“不过，消息尚且没有证实此订单不是意向订单。”<br>如果只是“意向”，波音会全力开动华府游说集团，力促拜登对华友好。空客也会分别向德法游说，千万别让煮熟的鸭子飞了。 <a href="https://rfi.my/8Y25.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Y25.T</a>
+
+### 57: [2022-07-05 23:17:37+08:00 推文](https://twitter.com/HeQinglian/status/1544339726135590912)
+
+Re @KELMAND1 OMG，战争一旦开打，不是累不累的问题，而是生与死的问题，甚至没有时间做哈姆雷特式思考。这战时动员是怎么做的？
+
+### 58: [2022-07-05 23:24:49+08:00 推文](https://twitter.com/shenliangqing2/status/1544341537961586689)
+
+RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
