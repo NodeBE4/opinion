@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-04
+date: 2022-07-05
 from: https://old.reddit.com/r/TheDesantisZone/comments/vqshnc/california_gov_gavin_newsom_attack_ad_on_floridas/
 layout: post
 tags:
@@ -34,4 +34,12 @@ The Hunger Games.  Terrible book.  Very successful.  Same with the Divergent ser
 > Dollar Store fake Stoicism
 
 That is the perfect description.
+
+### 329: [Police identify 22-year-old suspect wanted after mass shooting leaves 6 dead, 37 injured in Highland Park](https://old.reddit.com/r/crime/comments/vrjq8m/police_identify_22yearold_suspect_wanted_after/), submitted on 2022-07-05 06:59:49+08:00.
+
+----- __329.1__ -----2022-07-05 08:56:38+08:00:
+
+Headline should have read:
+
+"Police identify pathetic incel suspect wanted after . . . . "
 

@@ -43,3 +43,15 @@ Re 任先生认为习不在乎中国经济，不在乎十多亿人的生计活�
 
 今天是美国国庆节！美国是全世界自由民主的灯塔！246年前生活在北美大陆上的人们，建立起一个人类历史上从未有过的自由民主独立国家。200多年来美国人民为实现保障捍卫自己的自由民主权利，付出了不懈的追求奋斗与牺牲。祝愿美国越来越繁荣强大，祝愿每一位在这片自由民主土地上生活的人平安快乐幸福。<br><img style="" src="https://pbs.twimg.com/media/FW154dGXgAEnbTO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW154dAXgAAZhIf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW154dCXoAAwnr5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW154dDWIAAVT1a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-07-05 07:37:55+08:00 推文](https://twitter.com/realcaixia/status/1544103240404541440)
+
+特别推荐：<br>4月底以来“习下李上”传言越传越盛，中共黑箱政治，一切皆有可能。無論真假，在相當程度上是人心的的反映。怎么看这个传言，任先生提出多角度的观察与思考。<br><br>【書齋夜話】317：传言不一定可靠，斗争却一定真实，当局的恐惧就是人民的希望（2022-5-21） <a href="https://youtu.be/qUDLmGvJLNU" target="_blank" rel="noopener noreferrer">https://youtu.be/qUDLmGvJLNU</a>
+
+### 9: [2022-07-05 08:04:15+08:00 推文](https://twitter.com/realcaixia/status/1544109869887852544)
+
+Re 任先生说：流言也一样，这个东西会不会成为现实，要看大家用多大的力量去宣传这个东西，去把这个流言变成一个现实。<br>任先生举例1976年，当时“总理遗嘱”到处流传，人心就起来形成4.5天安门群众运动。李克强去云南抓经济，民间有不同的解读。只要这个解读成为人心的一股洪流，成为共识，它的意义就大了。<br><img style="" src="https://pbs.twimg.com/media/FW3HvgQWYAAe-ER?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-07-05 08:06:17+08:00 推文](https://twitter.com/realcaixia/status/1544110379110125568)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FW3INKiXkAItrib?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
