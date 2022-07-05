@@ -352,3 +352,11 @@ There are some other regularly active alts of current Holomems, notably >!Matsur
 
 See [this comment](https://www.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/ietz9m2/).
 
+----- __587.6__ -----2022-07-06 02:39:51+08:00:
+
+While a fun explanation, it's not actually true; Civ I didn't have those kinds of overflow issues. According to Sid Meier, [he deliberately made Gandhi a warmongering psycho for shits and giggles](https://screenrant.com/civilization-nuclear-gandhi-glitch-not-bug-sid-meier/).
+
+----- __587.7__ -----2022-07-06 02:40:21+08:00:
+
+Two if you also count *The Buildings*.
+
