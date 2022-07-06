@@ -25,17 +25,17 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 Re 2. I posted this article on 27th April in Chinese, quoting many news articles and publicly available information to question  Alex Yip’s close connections to the united front activities. I made this comment with solid grounds: <a href="https://www.facebook.com/photo?fbid=570508737767134&amp;set=a.517027263115282" target="_blank" rel="noopener noreferrer">https://www.facebook.com/photo?fbid=570508737767134&amp;set=a.517027263115282</a>
 
-### 3: [2022-05-03 21:33:48+08:00 推文](https://twitter.com/nathanlawkc/status/1521483162001547271)
+### 3: [2022-05-03 21:33:48+08:00 推文](https://twitter.com/nathanlawkc/status/1521483163868012550)
 
-Re 4. He was part of the British Chinese Project founded by Christine Lee. The MI5 released an unprecedented warning, alleging Lee acted covertly with the United Front Work Department of the CCP, and is "judged to be involved in political interference activities in the UK“.
+Re 5. The real purpose of Christine Lee’s BCP is now under fierce scrutiny as it is believed to be an infiltration project from the CCP. He left the project when he was elected in 2017. After he left the BCP, he continued to have close connections with Lee. <a href="https://find-and-update.company-information.service.gov.uk/company/07233413/officers" target="_blank" rel="noopener noreferrer">https://find-and-update.company-information.service.gov.uk/company/07233413/officers</a>
 
-### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483166116163586)
+### 4: [2022-05-03 21:33:49+08:00 推文](https://twitter.com/nathanlawkc/status/1521483168188141571)
 
-Re 6. He hosted an event in 2018 and invited Christine Lee. He was photographed with Christine Lee when meeting other politicians. <a href="https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/conservatives-received-donation-from-suspected-chinese-agent-christine-lee-xqdlxqd7j?fbclid=IwAR1VIOUIivnz-KZylWS8md8i7u5P5sq5CA1dn5Xj2hNpMAaJ1_78TEOGsRw</a>
+Re 7. I believe I am utilizing publicly available resources to make these allegations in the interest of the public. Alex, as an elected councilor and candidate running for office in Sutton Wylde Green ward, should respond to these questions to reassure the public and the voters.
 
-### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483172223062018)
+### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483170465685504)
 
-Re 9. Still, until now, he refuses to explain his relationship with Christine Lee. His connection with Lee is a matter of public interest. By hiding behind closed doors and refusing to clarify on this matter is disappointing and worrying to the voters and the Hongkongers community.
+Re 8. Rather, he chose to send me emails that hinted he may take “further steps” if I refuse to take down the “defamatory post.” It makes me worried that he has an intention to press a defamation case. I hope he can clarify on this point.
 
 ### 6: [2022-05-03 21:33:51+08:00 推文](https://twitter.com/nathanlawkc/status/1521483173993095168)
 

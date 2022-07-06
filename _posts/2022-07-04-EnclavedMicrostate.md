@@ -113,3 +113,7 @@ A great answer, but I do wish to note a little quibble:
 
 The only imperial Chinese states which had meaningful control over Tibet were the Mongol Yuan between 1244 and 1354 and the Manchu Qing from ca. 1720 to 1911, during which their rule in the region was quite extensive. However, for basically the rest of Tibetan history, the Chinese presence in Tibet was extremely ephemeral, and nationalist Chinese narratives of a historic suzerainty over Tibet are nonsensical at best.
 
+----- __596.3__ -----2022-07-07 02:49:26+08:00:
+
+The other, more immediate claim relates to Qing rule, which was much more stable and arguably more extensive than the Mongols' was, but yep, it's similarly based on the notion that the modern Chinese nation-state derives its territorial bounds from the conquests of peoples who have only retroactively been claimed into that nation-state for the last hundred years or so.
+

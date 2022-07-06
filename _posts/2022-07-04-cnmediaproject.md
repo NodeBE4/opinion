@@ -47,3 +47,19 @@ RT Chenchen Zhang 🤦🏻‍♀️<br>Denmark is not a country particularly v
 
 A national security review of China's leading academic research database, CNKI, announced last month by cyberspace authorities, is not so much about sensitive content as about the potential sensitivities of public access. Our CMP take: <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a><br><img style="" src="https://pbs.twimg.com/media/FW-JjLtaIAAUV1F?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 9: [2022-07-06 19:45:38+08:00 推文](https://twitter.com/cnmediaproject/status/1544648767261274112)
+
+CMP looks at plans announced last month by the Cyberspace Administration of China for a national security review of CNKI, the country's leading academic database. Why now? <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a><br><img style="" src="https://pbs.twimg.com/media/FW-x2U_akAEqeI3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-07-06 19:46:59+08:00 推文](https://twitter.com/cnmediaproject/status/1544649104848211968)
+
+A Tribute to the Journalist's Spirit: A former investigative reporter reflects on the immense influence of journalist Yang Haipeng, who passed away recently in Shanghai -- and on the huge toll worsening repression has taken on those hungering for justice. <a href="https://chinamediaproject.org/2022/07/05/a-tribute-to-the-journalists-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/05/a-tribute-to-the-journalists-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FW-yJD5acAAIBgX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-07-06 19:51:08+08:00 推文](https://twitter.com/BoehlerPatrick/status/1544650148831281152)
+
+RT Patrick Boehler<br>CNKI was invaluable when it still contained the dissertations of later party &amp; business leaders. Like so many other info sources of China’s golden era of unintentional digital transparency (corp registries, customs, exports..), it has already been significantly “harmonized”.<br><br>China Media Project: CMP looks at plans announced last month by the Cyberspace Administration of China for a national security review of CNKI, the country's leading academic database. Why now?<br><br><img style="" src="https://pbs.twimg.com/media/FW-x2U_akAEqeI3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a>
+
+### 12: [2022-07-06 23:30:29+08:00 推文](https://twitter.com/cnmediaproject/status/1544705350322257921)
+
+The CAC has informed CNKI, China's leading academic database, that it must face a national security review. Why now? Some answers in our latest analysis. <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a><br><img style="" src="https://pbs.twimg.com/media/FW_lTM6aMAElCTt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
