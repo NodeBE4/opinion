@@ -49,9 +49,15 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 592: [[Wikipedia] When a user managed to write over 206 articles of fake Russian history in Chinese Wikipedia in the span of a decade.](https://old.reddit.com/r/HobbyDrama/comments/vs8138/wikipedia_when_a_user_managed_to_write_over_206/), submitted on 2022-07-06 04:57:55+08:00.
+### 592: [Did the Southern Chinese emigrate out of the country abroad before the rest of the country?](https://old.reddit.com/r/AskHistorians/comments/vs58z8/did_the_southern_chinese_emigrate_out_of_the/), submitted on 2022-07-06 02:56:33+08:00.
 
------ __592.1__ -----2022-07-06 10:48:47+08:00:
+----- __592.1__ -----2022-07-06 13:55:39+08:00:
+
+More can of course be said, but I discuss a lot of the factors in early Sino-American migration in [this answer](https://www.reddit.com/r/AskHistorians/comments/k6efdb/what_was_happening_in_china_in_the_1850s_that/gesinbd/). It's broadly true that the Chinese diaspora was, until comparatively recently, originally dominated by people from southern regions, and for some pretty obvious reasons – it's where all the ports are!
+
+### 593: [[Wikipedia] When a user managed to write over 206 articles of fake Russian history in Chinese Wikipedia in the span of a decade.](https://old.reddit.com/r/HobbyDrama/comments/vs8138/wikipedia_when_a_user_managed_to_write_over_206/), submitted on 2022-07-06 04:57:55+08:00.
+
+----- __593.1__ -----2022-07-06 10:48:47+08:00:
 
 So, interesting as this is, I can't help but remark that some of it, by which I mean almost the entire thing bar a couple of added notes, seems to be cribbed from [this article on Sixth Tone](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.), an English-language news site on Chinese current affairs and human interest news. 
 
@@ -89,7 +95,7 @@ With this in the article:
 
 So yeah, I feel confident in saying you're a plagiarist.
 
------ __592.2__ -----2022-07-06 11:08:31+08:00:
+----- __593.2__ -----2022-07-06 11:08:31+08:00:
 
 If by that you mean the fake Russian articles, I mean it got attention when it did the rounds a few days ago. If you mean the plagiarism, I only posted 20 mins ago...
 
