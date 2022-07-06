@@ -157,7 +157,7 @@ Re @HettyJ008 @JianglinLi Mark了，买包试试。不知有无季节限制？
 
 ### 36: [2022-07-05 04:15:58+08:00 推文](https://twitter.com/HeQinglian/status/1544052420363403265)
 
-中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。”<br><br>He Qinglian: 关于中国斥资2500亿，购买近300架空客，不得不说几句：这是对拜登的双重打击。<br>1、在川普之前的空客与波音之争，空客已经败下阵来，因质量问题；<br>2、这时购买有战略考量：一是帮欧盟（德法）一把，让欧盟与美国的中国战略保持距离；二是给拜登难堪，波音肯定对此有极大意见，减少对拜登民主党的捐款。<br>
+中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。” <a href="https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion</a>
 
 ### 37: [2022-07-05 04:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1544052632603557890)
 
@@ -245,7 +245,7 @@ Re @KELMAND1 OMG，战争一旦开打，不是累不累的问题，而是生与�
 
 ### 58: [2022-07-05 23:24:49+08:00 推文](https://twitter.com/shenliangqing2/status/1544341537961586689)
 
-RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。
 
 ### 59: [2022-07-06 00:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1544364100188311553)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -290,4 +290,16 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
 拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
+
+### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
+
+Re @NAConservative9 今日的进步派美国。
+
+### 71: [2022-07-06 08:54:54+08:00 推文](https://twitter.com/HeQinglian/status/1544485001802272770)
+
+Re @zhixiangziyou 其实，不止是拜登，如今的民主党，不管谁上台当总统，只要该党的执政方针没变，美国经济必然衰退。<br>据说，当初选拜登，是放眼民主党内，几乎无人比他更强。
+
+### 72: [2022-07-06 08:58:43+08:00 推文](https://twitter.com/HeQinglian/status/1544485961710637056)
+
+Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swift时，俄罗斯没想到自身能够借助BRICKS化解压力。然后两个月过去，发现以战养战也不错，用出售能源换来的钱做军费，比欧盟还经耗。<br>至于欧盟国家，从2015年欢迎文化大行其道，我就知道这些国家完全拎不清。
 
