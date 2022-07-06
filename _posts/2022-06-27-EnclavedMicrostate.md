@@ -225,9 +225,15 @@ Bottom right:
 
 I'm not entirely sure on this, but it seems to be taken from the tail-end of some kind of administrative letter, written by an official named Booming (pronounced Baoming) declaring his involvement in some kind of inspection in a circuit of Zhejiang Province, and closing with wishing longevity upon the recipient. Unlike the other two texts I wasn't able to cross-reference my transliteration against an online one, so I can only assume this is some sort of archival document not otherwise digitised.
 
-### 580: [In 1636, the Manchu khan Hong Taiji proclaimed the formation of the Qing dynasty and began preparations for the conquest of China--almost ten years before the Manchu armies actually crossed the Great Wall. Why? What was the origin of the idea that they should conquer China?](https://old.reddit.com/r/AskHistorians/comments/vnij3p/in_1636_the_manchu_khan_hong_taiji_proclaimed_the/), submitted on 2022-06-29 23:31:16+08:00.
+### 580: [How did Alexander the Great found all those Alexandrias?](https://old.reddit.com/r/AskHistorians/comments/vnfuj7/how_did_alexander_the_great_found_all_those/), submitted on 2022-06-29 21:28:27+08:00.
 
------ __580.1__ -----2022-06-30 02:48:34+08:00:
+----- __580.1__ -----2022-07-07 02:24:34+08:00:
+
+It's worth noting, as /u/Daeres does in [this answer](https://www.reddit.com/r/AskHistorians/comments/rxz5wb/how_did_alexander_the_great_populate_the_cities/hrsfm2t/?context=999), that most of Alexander's foundations were not really of new cities outright, but either simply 'refoundations' of existing cities, or more often military garrisons that then became more substantial cities under the Successors, whose priorities and interests were somewhat different.
+
+### 581: [In 1636, the Manchu khan Hong Taiji proclaimed the formation of the Qing dynasty and began preparations for the conquest of China--almost ten years before the Manchu armies actually crossed the Great Wall. Why? What was the origin of the idea that they should conquer China?](https://old.reddit.com/r/AskHistorians/comments/vnij3p/in_1636_the_manchu_khan_hong_taiji_proclaimed_the/), submitted on 2022-06-29 23:31:16+08:00.
+
+----- __581.1__ -----2022-06-30 02:48:34+08:00:
 
 This is a question for which we do not necessarily have a good answer. Hong Taiji never specifically explained his motives for renaming the state of Latter Jin to the Qing Empire, and historians have been somewhat divided over the exact etymology of the name Qing. This argument over etymology actually serves as a reasonable jumping-off point for discussing questions over the Qing foundation more generally. To paraphrase from [a previous answer](https://www.reddit.com/r/AskHistorians/comments/q66knu/why_did_the_yuan_ming_and_qing_dynasties_deviate/hgbzl7p/?context=999):
 
@@ -247,7 +253,7 @@ We also ought to account for the formation of the Banners and indeed the Manchus
 
 *But*, despite all the doubt I have cast above, it does seem reasonable to argue that some sense of a meaningful ambition to conquer China had coalesced by the early 1630s. Mark Elliott cites two pronouncements by Hong Taiji, one in 1632 and another in 1634, in which he expresses substantial concern over the prospect of an erosion of Jurchen cultural values after a conquest of China. Such concerns, expressed at such length, would not be reasonable on the part of someone without some genuine intent to see them through. One can ask when exactly Hong Taiji finally started moving things off the drawing board into actual policy, but by the latest I would say the period 1641-4, which saw the Qing reduce many of the last Ming strongholds outside the Shanhai Pass and launch major raids across the Great Wall, even before the revolt of Li Zicheng overthrew the Ming from within. That is not to say that the conquest itself was not perhaps opportunistic in terms of its timing: the Qing could not have predicted that the Ming state would be toppled domestically, after all. Moreover, as Peter Perdue has argued, the Manchu-led state was actually starting to run out of portable wealth that could be effectively distributed to keep the elites of its various constituents in line by 1644, and the collapse of the Ming proved to be a bit of a lucky break. But it seems reasonable enough to suggest that there was a distinctly Ming-oriented character to Qing state-building efforts under Hong Taiji, even if there may not have been a specifically planned timeframe for conquest.
 
------ __580.2__ -----2022-06-30 02:51:43+08:00:
+----- __581.2__ -----2022-06-30 02:51:43+08:00:
 
 *Why* conquer China, though? There may be no answer other than that it was there, it was wealthy, and therefore ruling it was both possible and desirable. That isn't to say there may not have been some ideological dimension, of course, but this is hard to discuss by virtue of the aforementioned teleological gloss that later Qing sources put on the events. It's not reasonable to argue that the Manchus saw themselves as necessarily Chinese, yet at the same time during the early Kangxi era at least, there was some notion of both Manchuria and China Proper constituting a coherent *dorgi* ('inner') territory inhabited by sedentary peoples, distinct from the nomadic *tulergi* ('outer') lands of the empire. If we can retroject this we might argue that by the time a serious intent to conquer China had manifested, there was some notion of this region forming a coherent whole with the Manchu homeland. But all this is necessarily somewhat speculative in nature.
 
@@ -255,34 +261,34 @@ To return to the original core question, 'why found the Qing?', the answer I thi
 
 In retrospect the above answer may not have pressed upon the importance of Mongolia quite as much as I might now have wanted to (take for instance Hong Taiji's substantial patronage of Vajrayana Buddhist monasteries, and the uncertain though not implausible suggestion that 'Manchu' is a derivative of the Boddhisatva Manjusri). To use it as a bit of a coda here, while more substantial Qing entanglement in the steppe would not really resume until the 1680s, there was nevertheless a continuous Qing hand in the region extending back before the conquest of China, which would be sustained even during that conquest period. While the Chinese campaigns naturally drew the bulk of Qing state attention after 1644, they were not so single-minded as to abandon their prestige claims on the steppe, or the necessary steps to maintain that claim through forming and maintaining alliances with Mongolian tribes. While the Qing emperors did not formally take up the title of Great Khan (*khagan*) until the Dolon Nor assembly of 1691, their pretensions to *universal* rulership (as opposed to more narrowly Chinese emperorship) arguably extended back into the pre-conquest period and would be sustained through the intervening time.
 
------ __580.3__ -----2022-06-30 15:12:58+08:00:
+----- __581.3__ -----2022-06-30 15:12:58+08:00:
 
 I don't really think any one person can give reading recommendations for the entire sweep of East Asian history up to the mid-seventeenth century, and I will not try to. I will only discuss reading relevant to the answer above.
 
 The classic text is Frederic Wakeman's *The Great Enterprise*, a two-volume epic charting the history of China from about 1600 to 1700, with a reasonable consideration of the Manchu perspective for a piece of 1980s historiography, but also a certain, understandable, Sinocentric bent. A more concise coverage of the key period of the Qing conquest is Kenneth Swope's *The Military Collapse of China's Ming Dynasty*, though as the title implies that book is largely told from the Ming point of view and with a concentration on military and political institutions. Pamela Crossley's *A Translucent Mirror*, which I also allude to in the answer, has a number of crisscrossing lines of argument, one of which is a deconstruction of eighteenth-century histories of the seventeenth-century conquest period, and so she does – somewhat disjointedly – cover early Qing history there as well. Gertraude Roth Li's chapter in the *Cambridge History of China* Vol. 9.1 is also worth a read for a detailed overview of the growth of the Jurchen state under Nurgaci and Hong Taiji as well as its antecedents among earlier Jurchen polities. A good general history of the Qing empire is William T. Rowe's *China's Last Empire*, though its sections up to 1800 are stronger than the ones covering the nineteenth century.
 
-### 581: [Star Trek: Strange New Worlds | 1x09 "All Those Who Wander" Reaction Thread](https://old.reddit.com/r/DaystromInstitute/comments/vo5mo2/star_trek_strange_new_worlds_1x09_all_those_who/), submitted on 2022-06-30 18:59:05+08:00.
+### 582: [Star Trek: Strange New Worlds | 1x09 "All Those Who Wander" Reaction Thread](https://old.reddit.com/r/DaystromInstitute/comments/vo5mo2/star_trek_strange_new_worlds_1x09_all_those_who/), submitted on 2022-06-30 18:59:05+08:00.
 
------ __581.1__ -----2022-07-01 01:28:32+08:00:
+----- __582.1__ -----2022-07-01 01:28:32+08:00:
 
 > Pike's mission is 5 years before Kirk takes over.
 
 Seven, give or take. When exactly the first Five-Year Mission began and ended isn't established in TOS, but a line in Voyager says it ended in 2270, and so it presumably began in 2265/6; SNW season 1 takes place in 2258.
 
------ __581.2__ -----2022-07-01 01:29:03+08:00:
+----- __582.2__ -----2022-07-01 01:29:03+08:00:
 
 She's also mentioned being alongside the actor playing James T Kirk (whose name escapes me for the moment) so she's definitely still in it.
 
------ __581.3__ -----2022-07-01 01:29:46+08:00:
+----- __582.3__ -----2022-07-01 01:29:46+08:00:
 
 > Not thrilled to see them write off one of the other original characters by sending her on a side quest
 > 
 
 It's not a complete write-off as Christina Chong is returning as La'an for S2, but that's an out-of-universe detail.
 
-### 582: [Thoughts on DS9's "In the Pale Moonlight"](https://old.reddit.com/r/startrek/comments/vonvn2/thoughts_on_ds9s_in_the_pale_moonlight/), submitted on 2022-07-01 08:58:17+08:00.
+### 583: [Thoughts on DS9's "In the Pale Moonlight"](https://old.reddit.com/r/startrek/comments/vonvn2/thoughts_on_ds9s_in_the_pale_moonlight/), submitted on 2022-07-01 08:58:17+08:00.
 
------ __582.1__ -----2022-07-01 18:58:02+08:00:
+----- __583.1__ -----2022-07-01 18:58:02+08:00:
 
 > Sisko's violation of his own values here appears to make it easier next time he decides to violate his own values: when he goes after Eddington, and decides to make an entire planet uninhabitable to flush him out. That's the episode where he decides to play Javert to Eddington's Valjean.
 > 
@@ -290,57 +296,63 @@ It's not a complete write-off as Christina Chong is returning as La'an for S2, b
 
 It might just be some odd phrasing here, but Sisko's whole chemical weapon attack was in mid-Season 5, while In the Pale Moonlight happens in the back half of Season 6.
 
------ __582.2__ -----2022-07-02 10:42:08+08:00:
+----- __583.2__ -----2022-07-02 10:42:08+08:00:
 
 A major difference is the relative degree of intentionality and lucidity. In For The Uniform, Sisko is motivated primarily by irrational hatred, but in In The Pale Moonlight, his motivation is essentially rational in nature. It's one thing to do something terrible in a fit of rage, it's another to do it as a premeditated act.
 
-### 583: [Ancient civilisations were built on river floodplains, because of the soil quality. Why didnt the incredibly fertile lands north of the black sea ever become a center of ancient civilisation?](https://old.reddit.com/r/AskHistorians/comments/vov2qp/ancient_civilisations_were_built_on_river/), submitted on 2022-07-01 15:37:15+08:00.
+### 584: [Ancient civilisations were built on river floodplains, because of the soil quality. Why didnt the incredibly fertile lands north of the black sea ever become a center of ancient civilisation?](https://old.reddit.com/r/AskHistorians/comments/vov2qp/ancient_civilisations_were_built_on_river/), submitted on 2022-07-01 15:37:15+08:00.
 
------ __583.1__ -----2022-07-01 21:26:21+08:00:
+----- __584.1__ -----2022-07-01 21:26:21+08:00:
 
 Sorry, but we have removed your response, as we expect answers in this subreddit to be [in-depth and comprehensive](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/), and to demonstrate a [familiarity](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/) with the [current, academic understanding](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/) of the topic at hand. Before contributing again, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer), as well as our expectations for an answer such as featured on [Twitter](http://www.twitter.com/askhistorians) or in the [Sunday Digest](http://www.reddit.com/r/AskHistorians/search?q=title%3A%22Sunday+Digest%22&restrict_sr=on&sort=new&t=all).
 
-### 584: [If the Rosetta Stone was never found, have we discovered anything since that would have enabled us to decipher Ancient Egyptian?](https://old.reddit.com/r/AskHistorians/comments/vp1u3t/if_the_rosetta_stone_was_never_found_have_we/), submitted on 2022-07-01 22:14:10+08:00.
+### 585: [If the Rosetta Stone was never found, have we discovered anything since that would have enabled us to decipher Ancient Egyptian?](https://old.reddit.com/r/AskHistorians/comments/vp1u3t/if_the_rosetta_stone_was_never_found_have_we/), submitted on 2022-07-01 22:14:10+08:00.
 
------ __584.1__ -----2022-07-02 03:41:26+08:00:
+----- __585.1__ -----2022-07-02 03:41:26+08:00:
 
 Sorry, but we have had to remove your comment. [Please understand that people come here because they want an informed response from someone capable of engaging with the sources, and providing follow up information](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). Even when the source might be an appropriate one to answer the question, simply linking to or quoting from a source is a violation of the [rules we have in place here](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations). These sources, of course, can make up an important part of a well-rounded answer but do not equal an answer on their own. While there are other places on reddit for such comments, it is presumed that in posting here, the OP is looking for an answer that is in line with our rules. You can find further discussion of this policy [here](https://www.reddit.com/r/AskHistorians/comments/h8abv9/rules_roundtable_xvii_answers_must_not_be/). In the future, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) before contributing again.
 
-### 585: [One of the newest members of Vshojo, Amemiya Nazuna an angel with amnesia, posted her first tweet](https://old.reddit.com/r/VirtualYoutubers/comments/vq5spn/one_of_the_newest_members_of_vshojo_amemiya/), submitted on 2022-07-03 09:05:46+08:00.
+### 586: [Why was Alexander planning to invade Arabia before his death in 323BC?](https://old.reddit.com/r/AskHistorians/comments/vp8y9y/why_was_alexander_planning_to_invade_arabia/), submitted on 2022-07-02 03:31:27+08:00.
 
------ __585.1__ -----2022-07-03 19:02:47+08:00:
+----- __586.1__ -----2022-07-07 02:25:53+08:00:
+
+I'm curious where you encountered this factoid. As I note in [this answer](https://www.reddit.com/r/AskHistorians/comments/nzzlvs/did_alexander_the_great_ever_intended_to_conquer/h1th0z6/), the information we have on the existence or otherwise of Alexander's plans for further conquest is murky and contradictory.
+
+### 587: [One of the newest members of Vshojo, Amemiya Nazuna an angel with amnesia, posted her first tweet](https://old.reddit.com/r/VirtualYoutubers/comments/vq5spn/one_of_the_newest_members_of_vshojo_amemiya/), submitted on 2022-07-03 09:05:46+08:00.
+
+----- __587.1__ -----2022-07-03 19:02:47+08:00:
 
 Isn't Kson from Atlanta?
 
-### 586: ['Urban legends', 'urban myths' – What is it that makes a piece of folklore 'urban'? Is it purely a quirk of etymology, or do urban communities genuinely produce folklore in a distinct way, or a distinct kind, from rural ones?](https://old.reddit.com/r/AskHistorians/comments/vqccb0/urban_legends_urban_myths_what_is_it_that_makes_a/), submitted on 2022-07-03 15:45:21+08:00.
+### 588: ['Urban legends', 'urban myths' – What is it that makes a piece of folklore 'urban'? Is it purely a quirk of etymology, or do urban communities genuinely produce folklore in a distinct way, or a distinct kind, from rural ones?](https://old.reddit.com/r/AskHistorians/comments/vqccb0/urban_legends_urban_myths_what_is_it_that_makes_a/), submitted on 2022-07-03 15:45:21+08:00.
 
------ __586.1__ -----2022-07-03 20:07:59+08:00:
+----- __588.1__ -----2022-07-03 20:07:59+08:00:
 
 I am sorry to have caused such distress, but deeply gratified that you chose to answer regardless.
 
------ __586.2__ -----2022-07-03 21:12:11+08:00:
+----- __588.2__ -----2022-07-03 21:12:11+08:00:
 
 And I was happy to play along :)
 
-### 587: [[Hobby Scuffles] Week of July 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/), submitted on 2022-07-03 23:00:15+08:00.
+### 589: [[Hobby Scuffles] Week of July 4, 2022](https://old.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/), submitted on 2022-07-03 23:00:15+08:00.
 
------ __587.1__ -----2022-07-04 03:46:53+08:00:
+----- __589.1__ -----2022-07-04 03:46:53+08:00:
 
 Gosh, I never thought I was ever going to be reminded of GameChap and Bertie!
 
------ __587.2__ -----2022-07-04 21:15:19+08:00:
+----- __589.2__ -----2022-07-04 21:15:19+08:00:
 
 > a decrease in air quality due to Co2 (aka a lack of proper indoor ventilation) can increase risks for people to catch airborne diseases like covid.
 
 I'd correct that to say that the relative quantity of Co2 correlates with factors that would lead to heightened risk of airborne disease transmission. As phrased it implies it's the Co2 itself causing increased disease risk.
 
------ __587.3__ -----2022-07-05 00:09:33+08:00:
+----- __589.3__ -----2022-07-05 00:09:33+08:00:
 
 Calli, who resumed activity on her alt earlier this year.
 
 Said alt being >!DemonDice!< for those interested.
 
------ __587.4__ -----2022-07-05 00:44:31+08:00:
+----- __589.4__ -----2022-07-05 00:44:31+08:00:
 
 Not quite, if you look later in that paragraph you will see that I wrote
 
@@ -348,15 +360,15 @@ Not quite, if you look later in that paragraph you will see that I wrote
 
 There are some other regularly active alts of current Holomems, notably >!Matsuri!< and >!Noel!< (the latter is also a contender for 'Hololive's worst kept secret').
 
------ __587.5__ -----2022-07-05 02:52:44+08:00:
+----- __589.5__ -----2022-07-05 02:52:44+08:00:
 
 See [this comment](https://www.reddit.com/r/HobbyDrama/comments/vqjh3n/hobby_scuffles_week_of_july_4_2022/ietz9m2/).
 
------ __587.6__ -----2022-07-06 02:39:51+08:00:
+----- __589.6__ -----2022-07-06 02:39:51+08:00:
 
 While a fun explanation, it's not actually true; Civ I didn't have those kinds of overflow issues. According to Sid Meier, [he deliberately made Gandhi a warmongering psycho for shits and giggles](https://screenrant.com/civilization-nuclear-gandhi-glitch-not-bug-sid-meier/).
 
------ __587.7__ -----2022-07-06 02:40:21+08:00:
+----- __589.7__ -----2022-07-06 02:40:21+08:00:
 
 Two if you also count *The Buildings*.
 
