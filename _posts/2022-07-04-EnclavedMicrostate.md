@@ -53,7 +53,7 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 ----- __592.1__ -----2022-07-06 10:48:47+08:00:
 
-So, interesting as this is, I can't help but remark that some of it seems to be cribbed from [this article on Sixth Tone](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.), an English-language news site on Chinese current affairs and human interest news. 
+So, interesting as this is, I can't help but remark that some of it, by which I mean almost the entire thing bar a couple of added notes, seems to be cribbed from [this article on Sixth Tone](https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.), an English-language news site on Chinese current affairs and human interest news. 
 
 For instance, the post has:
 
@@ -88,4 +88,8 @@ With this in the article:
 > Yifan, a fantasy novelist, was browsing Chinese Wikipedia looking for inspiration in history, when he first learned of the great silver mine of Kashin. Originally opened by the principality of Tver, an independent state from the 13th to 15th centuries, it grew to be one of the world’s biggest, a city-sized early modern industry worked by some 30,000 slaves and 10,000 freedmen. Its fabulous wealth made it a vital resource to the princes of Tver, but also tempted the powerful dukes of Moscow, who attempted to seize the mine in a series of wars that sprawled across the land that is now Russia from 1305 to 1485. “After the fall of the Principality of Tver, it continued to be mined by the Grand Duchy of Moscow and its successor regime until the mine was closed in the mid-18th century due to being exhausted,” the entry said.
 
 So yeah, I feel confident in saying you're a plagiarist.
+
+----- __592.2__ -----2022-07-06 11:08:31+08:00:
+
+If by that you mean the fake Russian articles, I mean it got attention when it did the rounds a few days ago. If you mean the plagiarism, I only posted 20 mins ago...
 
