@@ -21,9 +21,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 When free press is the focal point of human rights discussion this year, CCP keeps charging journalists and media that dare to challenge them and speak the truth. Among many others, the arrests of Denise Ho, Margaret Ng are prime examples. RELEASE THEM! <a href="https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news</a>
 
-### 2: [2021-12-29 20:51:43+08:00 推文](https://twitter.com/nathanlawkc/status/1476174090931261445)
+### 2: [2021-12-29 20:51:43+08:00 推文](https://twitter.com/nathanlawkc/status/1476174087999438856)
 
-Re 2. In mainland China, all media outlets are controlled by party branches. Now, this trend is extended to Hong Kong. What's worth noticing is the charge the government used -- "conspiracy to publish seditious publications." It has never been used for more than five decades.
+THREAD:<br>1.After the Apple Daily closure, Stand News became the largest free media in Hong Kong. Today, we have witnessed another forced closure with a number of arrests. The message Beijing sends is clear: report in the way that we allow, or end up in jail.<br><img style="" src="https://pbs.twimg.com/media/FHxry3QXsAMFjM1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 20:51:44+08:00 推文](https://twitter.com/nathanlawkc/status/1476174095003926534)
 
