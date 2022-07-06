@@ -99,3 +99,9 @@ So yeah, I feel confident in saying you're a plagiarist.
 
 If by that you mean the fake Russian articles, I mean it got attention when it did the rounds a few days ago. If you mean the plagiarism, I only posted 20 mins ago...
 
+### 594: [Why didn't Indian and Chinese Empires Ever Interact?](https://old.reddit.com/r/AskHistorians/comments/vsogwc/why_didnt_indian_and_chinese_empires_ever_interact/), submitted on 2022-07-06 20:06:50+08:00.
+
+----- __594.1__ -----2022-07-06 21:49:15+08:00:
+
+More can of course be said for other periods, but I discuss the Qing context (drawing primarily from Matthew Mosca's excellent *From Frontier Policy to Foreign Policy) in [this answer](https://www.reddit.com/r/AskHistorians/comments/qlfr99/how_was_the_relationship_between_qing_china_and/hj65yek/).
+
