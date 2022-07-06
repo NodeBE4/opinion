@@ -39,7 +39,11 @@ This Yang Haipeng tribute is a journey thru media history: "As traditional media
 
 RT Bill Bishop<br>CCTV shows before and after image of a "sinicized" mosque in Xining in its report on Wang Yang's inspection tour last week <a href="https://tv.cctv.com/2022/06/30/VIDEU3v5qnkHvL2AHmozhi3a220630.shtml?spm=C22822.P2uSueW2q579.EZc0ubGfmVNp.6" target="_blank" rel="noopener noreferrer">https://tv.cctv.com/2022/06/30/VIDEU3v5qnkHvL2AHmozhi3a220630.shtml?spm=C22822.P2uSueW2q579.EZc0ubGfmVNp.6</a><br><img style="" src="https://pbs.twimg.com/media/FW6-qGEWYAA-Reg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 7: [2022-07-06 16:49:31+08:00 推文](https://twitter.com/cnmediaproject/status/1544604444880687104)
+### 7: [2022-07-06 16:09:35+08:00 推文](https://twitter.com/chenchenzh/status/1544594393088278528)
+
+RT Chenchen Zhang 🤦🏻‍♀️<br>Denmark is not a country particularly visible in Chinese social media discourse <br>but online nationalists will not miss any opportunities to use tragedies abroad to mock critics of govt at home <br>major themes from this discussion of the CPH shooting on Zhihu:<br><img style="" src="https://pbs.twimg.com/media/FW97HiBXEAA_wNG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-07-06 16:49:31+08:00 推文](https://twitter.com/cnmediaproject/status/1544604444880687104)
 
 A national security review of China's leading academic research database, CNKI, announced last month by cyberspace authorities, is not so much about sensitive content as about the potential sensitivities of public access. Our CMP take: <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a><br><img style="" src="https://pbs.twimg.com/media/FW-JjLtaIAAUV1F?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
