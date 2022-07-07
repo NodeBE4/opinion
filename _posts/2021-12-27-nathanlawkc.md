@@ -43,7 +43,7 @@ Re 6. I hope it does not create a domino effect that other smaller independent o
 
 ### 7: [2021-12-29 20:51:48+08:00 推文](https://twitter.com/nathanlawkc/status/1476174108413116418)
 
-Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style="" src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174113580404739)
 

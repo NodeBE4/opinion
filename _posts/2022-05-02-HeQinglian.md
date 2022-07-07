@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -929,7 +929,7 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多�
 
 ### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
 
-RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "
 
 ### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
 
@@ -1057,7 +1057,7 @@ Re @RealBeiMing @JianglinLi @aMichaelHsu @JiangShangrong 以基辅幽灵为例�
 
 ### 261: [2022-05-08 04:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1523042576521220101)
 
-1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。<br><br>Ezio Mao☢: 每月70亿美元，谁养得起……😅<br><br><img style="" src="https://pbs.twimg.com/media/FSIyd9VaIAA3eW0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/tjlyy009/status/1522435973082419201" target="_blank" rel="noopener noreferrer">https://twitter.com/tjlyy009/status/1522435973082419201</a>
+1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。 <a href="https://www.kylc.com/stats/global/yearly_overview/g_gdp.html" target="_blank" rel="noopener noreferrer">https://www.kylc.com/stats/global/yearly_overview/g_gdp.html</a>
 
 ### 262: [2022-05-08 04:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1523043537608187911)
 
@@ -1089,7 +1089,7 @@ Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去�
 
 ### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
 
-欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
 
 ### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
 
