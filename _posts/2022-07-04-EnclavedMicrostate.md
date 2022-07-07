@@ -117,3 +117,11 @@ The only imperial Chinese states which had meaningful control over Tibet were th
 
 The other, more immediate claim relates to Qing rule, which was much more stable and arguably more extensive than the Mongols' was, but yep, it's similarly based on the notion that the modern Chinese nation-state derives its territorial bounds from the conquests of peoples who have only retroactively been claimed into that nation-state for the last hundred years or so.
 
+----- __597.4__ -----2022-07-07 19:32:07+08:00:
+
+Well, there's two responses to this:
+
+The first is that the Western examples you cite are no less problematic in a purely historiographical sense.
+
+The second is that there is a lot of vacillation in Chinese historical orthodoxy over whether to regard 'alien' regimes as meaningfully 'Chinese' or not. While the notion of 'Sinicisation' has been used to argue that Chinese culture overpowers foreign rulers and absorbs them into the Chinese cultural sphere, at the same time there can be the implicit legitimacy of regimes that, when you look at hard facts, were ethnocentric in favour of minorities. Moreover, said minorities' inclusion in the modern Chinese nation was not exactly done with those minorities' consent, as the post-Qing independence of Tibet and Mongolia shows. So in the Chinese case there is a strong layer of 'we claim X ethnic groups into our nation, but as subsumed into a cultural package dominated by the Han Chinese who form the core of said nation.'
+
