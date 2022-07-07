@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -370,4 +370,44 @@ Re @david_david1968 深圳的发展有阶段性，要看哪一阶段、何种企
 ### 89: [2022-07-07 04:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1544780090323750915)
 
 世上不如意事常八九：<br>一场俄乌战争，政治上最先被罚离场的不是美乌信息战与西方政府亟盼并预言的俄总统普京，而是英首相约翰逊；<br>经济上倒下的不是被全方位严厉制裁的俄罗斯，反成了欧盟受俄罗斯能源要挟（冯德莱恩女士名言）；<br>美欧一直嚷着准备制裁俄国好友中国政府，现在却收到美国伸出的橄榄枝。
+
+### 90: [2022-07-07 05:42:45+08:00 推文](https://twitter.com/HeQinglian/status/1544799034614976513)
+
+Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968<br>自2020大选至今，咱们受了拜粉乌粉多少闲气，用《桃花扇》套曲以消气吧：<br>“……眼看他起朱楼，眼看他宴宾客，眼看他楼塌了！这青苔碧瓦堆，俺……曾将五十年兴亡看饱。残山梦最真，旧境丢难掉，不信这舆图换稿！诌一套《哀江南》，放悲声唱到老。”<br><br>Ezio Mao☢: 天呐，没想到还要教英语<br><br>第一个If....But...<br>If表示如果怎么怎么样，这是没有发生的事情。<br>后面的But对应了“有大量的人觉得援助没有用”这个事实。<br><br>第二个Perhaps....But<br>Perhaps可能怎么怎么样，这也是没有发生的事情。<br>But对应了“俄罗斯军队还在前进，乌克兰在撤退”的现实。<br><br><img style="" src="https://pbs.twimg.com/media/FW968BuacAA_xZ5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/GiorgiaXu/status/1544585633859092480" target="_blank" rel="noopener noreferrer">https://twitter.com/GiorgiaXu/status/1544585633859092480</a>
+
+### 91: [2022-07-07 05:53:57+08:00 推文](https://twitter.com/HeQinglian/status/1544801852927115264)
+
+Re @KELMAND1 同类相吸，投她票的人一定就是她的同类。<br>好比不少家有子女吸毒性变态的家长都投了拜登。
+
+### 92: [2022-07-07 05:55:52+08:00 推文](https://twitter.com/HeQinglian/status/1544802334605180930)
+
+Re @JianglinLi @Wu_Zhi @RealBeiMing @david_david1968 法广发英媒消息的那张配图上，金毛有点变白，稀疏地树在头顶——他的招牌发型。
+
+### 93: [2022-07-07 06:18:58+08:00 推文](https://twitter.com/HeQinglian/status/1544808147868606465)
+
+Re @Chillylin 世界各国央行早就成了大大小小的凯恩斯主义者。
+
+### 94: [2022-07-07 08:45:18+08:00 推文](https://twitter.com/HeQinglian/status/1544844976290516992)
+
+Re @PeterLe91778412 @FightForJiuCai 不如意事，指的是世界主流意见，这主流，就是美欧意见。<br>事到如今，非主流意见都没地方发表，都是美欧主流自个在自曝其短。
+
+### 95: [2022-07-07 08:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1544845832612155393)
+
+Re @wenjiebc @JiangShangrong 德国尽出妖孽。
+
+### 96: [2022-07-07 08:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1544846615273431042)
+
+Re @Tepezano161 下着下着，棋手自己不知方向了。如同拜登，将奖牌倒挂背上出台颁奖了。
+
+### 97: [2022-07-07 10:18:18+08:00 推文](https://twitter.com/HeQinglian/status/1544868381156851712)
+
+英国研究表示，因为社会富裕阶层和受过高等教育的知识分子越来越少生养孩子，英国人的演化将朝向学识程度越来越低，经济状况越来越穷的方向发展。<br>研究人员发现，按照现有趋势，自然选择有利于低收入和低教育的群体，下一代英国人的学识程度将比现在更低一至二个百分点。 <a href="https://www.bbc.com/zhongwen/simp/uk-62065052" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/uk-62065052</a>
+
+### 98: [2022-07-07 10:24:51+08:00 推文](https://twitter.com/HeQinglian/status/1544870029128351745)
+
+学习美国大麻合法化（少数州海洛因、冰毒合法化），国人一半吸大麻，节约执法成本；医疗保险为大麻深度患者提供医疗服务，增加就业机会。<br>美国民主党政府让男犯自认跨性别人士进入女监，减少强奸罪行——因为跨性别人士所为，不算强奸。1000元以下不算抢劫，社会犯罪率降低。<br><br>RFI 華語 - 法國國際廣播電台: 西班牙毒品大戰：販毒大軍裝備精良用水下無人機<br><br><img style="" src="https://pbs.twimg.com/media/FW-8YUIVsAARKK6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Ynz.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Ynz.t</a>
+
+### 99: [2022-07-07 10:25:42+08:00 推文](https://twitter.com/HeQinglian/status/1544870239439097857)
+
+Re @AlexYu_H 其实世界潮流就是这样，美国也如此。
 

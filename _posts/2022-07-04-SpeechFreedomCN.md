@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-07-04
+date: 2022-07-07
 from: https://twitter.com/SpeechFreedomCN/status/1543779628833132544
 layout: post
 tags:
@@ -22,4 +22,12 @@ title: 'Twitter @中国文字狱事件盘点: 2022-07-04~2022-07-10'
 ### 2: [2022-07-04 10:16:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1543780635453427712)
 
 Jiangsu dissident Wu Dawei sentenced to 1 year in prison for his 392 pieces of tweets that, according to the court, "insulted state leaders and the Communist Party of China, and supported Taiwan independence and Hong Kong riots".<br><img style="" src="https://pbs.twimg.com/media/FWxKCpSWQAYqCyF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWxKCpZXEAQkLWk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWxKCpUWYAE9TPk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWxKCpSWYAAy37m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 3: [2022-07-07 08:52:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1544846894874198017)
+
+河南省固始县男子王某，因在抖音上发布视频实名举报当地一名警察充当黑恶势力保护伞，被当地公安认定为侮辱和诽谤警察，并被拘留10日。王某举报的内容真实性不详，难以独立核查。<br><img style="" src="https://pbs.twimg.com/media/FXBmChWWQAA289I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-07-07 08:54:31+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1544847292976582656)
+
+Henan man Wang detained for 10 days for a piece of video he posted on Douyin, in which he accused a local police of harboring criminal organization.<br><img style="" src="https://pbs.twimg.com/media/FXBmGZiWIAEj2_M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
