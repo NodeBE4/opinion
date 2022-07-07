@@ -316,7 +316,7 @@ Sorry, but we have had to remove your comment. [Please understand that people co
 
 ----- __586.1__ -----2022-07-07 02:25:53+08:00:
 
-I'm curious where you encountered this factoid. As I note in [this answer](https://www.reddit.com/r/AskHistorians/comments/nzzlvs/did_alexander_the_great_ever_intended_to_conquer/h1th0z6/), the information we have on the existence or otherwise of Alexander's plans for further conquest is murky and contradictory.
+I'm curious where you encountered this factoid. As I note in [this answer](https://www.reddit.com/r/AskHistorians/comments/nzzlvs/did_alexander_the_great_ever_intended_to_conquer/h1th0z6/), the information we have on the existence or otherwise of Alexander's plans for further conquest is murky and contradictory. It's not that there's *no* sources claiming he was going to invade Arabia (there are), but some claim he was aiming elsewhere.
 
 ### 587: [One of the newest members of Vshojo, Amemiya Nazuna an angel with amnesia, posted her first tweet](https://old.reddit.com/r/VirtualYoutubers/comments/vq5spn/one_of_the_newest_members_of_vshojo_amemiya/), submitted on 2022-07-03 09:05:46+08:00.
 
