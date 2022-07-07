@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-07-05
+date: 2022-07-07
 from: https://twitter.com/realcaixia/status/1543648378076237826
 layout: post
 tags:
@@ -33,7 +33,7 @@ Re 任先生认为习不在乎中国经济，不在乎十多亿人的生计活�
 
 ### 5: [2022-07-04 18:22:52+08:00 推文](https://twitter.com/realcaixia/status/1543903160061857792)
 
-这种只抓贪官不废除出贪官的制度的做法，大陆民众早就叫他们是“守着粪坑打苍蝇”。这种做法即是流氓政治。<br><br>Jam: 在露天茅坑，别炫耀抓到多少只苍蝇。解决问题的最好办法是填掉茅坑，改成抽水马桶。<br><br><img style="" src="https://pbs.twimg.com/media/FWt3qfmWYAEDR4a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这种只抓贪官不废除出贪官的制度的做法，大陆民众早就叫他们是“守着粪坑打苍蝇”。这种做法即是流氓政治。
 
 ### 6: [2022-07-04 21:07:21+08:00 推文](https://twitter.com/realcaixia/status/1543944554302275588)
 
@@ -62,4 +62,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FW3INKiXkAItrib?format=jpg
 ### 12: [2022-07-05 22:13:54+08:00 推文](https://twitter.com/realcaixia/status/1544323688560037888)
 
 Re 请听范畴先生的分析。这是目前对中共政治分析最具有深度的一期节目。<br><img style="" src="https://pbs.twimg.com/media/FW6KNXDXwAAbsDH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW6KNXFXkAAH4jy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW6KNXCWYAEgZcM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW6KNXAX0AESrha?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-07-07 16:33:30+08:00 推文](https://twitter.com/realcaixia/status/1544962799331430400)
+
+大陆这块土地已经成了一个被极端邪恶绑架的无人伦道德底线的炼狱，容不得一句真话，容不得理性思考，容不得现代文明观念。这块土地上的10后、20后的孩子将会长成什么样的几代人？不敢想。
 
