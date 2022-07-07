@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-07
+date: 2022-07-08
 from: https://twitter.com/HeQinglian/status/1543683373884899331
 layout: post
 tags:
@@ -245,7 +245,7 @@ Re @KELMAND1 OMG，战争一旦开打，不是累不累的问题，而是生与�
 
 ### 58: [2022-07-05 23:24:49+08:00 推文](https://twitter.com/shenliangqing2/status/1544341537961586689)
 
-RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。
+RT 沈良庆二世<br>人与人之间互相尊重才能和平共处。如今在发达国家已经不存在大众性向歧视小众性向问题，而是包括跨性别在内的小众不断用激进手段来骚扰、绑架、胁迫大众，试图抢占更多公共资源，用自己的特殊性取向冒犯甚至侵犯大众，试图改造他人甚至儿童。压迫过头了，迟早会遭遇大众反抗，危害自身。<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 59: [2022-07-06 00:54:29+08:00 推文](https://twitter.com/HeQinglian/status/1544364100188311553)
 
@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -474,4 +474,20 @@ Re @Tepezano161 从长期看或者如此，但在战争这种需要决断力的�
 ### 115: [2022-07-07 23:50:51+08:00 推文](https://twitter.com/HeQinglian/status/1545072862037512201)
 
 Re @Wu_Zhi 这次所有的西方国家都出判断错误，从公开言论看：<br>1、一开头就声明普京是闪电战（其实是信息战的说法），西方要打持久战困死普京；<br>2、既然要打持久战，那就得依赖资源供给充足。有资源的澳、加只能帮个人场，其余的除了美国之外，全是资源与市场对外双重依赖，而且不幸的是，正好依赖敌人俄罗斯。
+
+### 116: [2022-07-08 03:00:26+08:00 推文](https://twitter.com/HeQinglian/status/1545120575294767105)
+
+Re @xiaxiaoqiang 如果只是感冒发烧，在家静养，吃点退烧药，进食以粥为主，几天后就会好。<br>人食五谷，都会生病。<br>如果是其他原因引起，切记看医生。
+
+### 117: [2022-07-08 03:05:55+08:00 推文](https://twitter.com/HeQinglian/status/1545121952481873921)
+
+Re @dw_chinese 这位女士还是要用脑子思考。如果只是英相约翰逊的结局让她这样想，下次还会吃亏。<br>本来就距离世界中心很远，世外桃源的日子虽不足称霸，但自给有余，玩左派意识形态就当娱乐。但真要陪拜登玩，就得先称量一下了。
+
+### 118: [2022-07-08 03:07:54+08:00 推文](https://twitter.com/HeQinglian/status/1545122453814480896)
+
+Re @liyongle113 他遇到了知音。与众不同的评价。
+
+### 119: [2022-07-08 03:18:19+08:00 推文](https://twitter.com/HeQinglian/status/1545125074981765121)
+
+Re @JianglinLi @Wu_Zhi 从20世纪的历史经验来看，欧洲很多国家的国力都经不起一场不期而至的战争。<br>对欧洲国家近20多年的轨迹回望一下，一半是地缘政治因素，一半是完全不知道要如何置身于地缘政治的漩涡，却非得听远隔重洋的美国召唤。
 
