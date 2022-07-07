@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -329,7 +329,7 @@ Re @owenusa 快了，还差五公里，普京也差点被抓，只差那么一�
 
 ### 79: [2022-07-06 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1544688323779764224)
 
-明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。<br><br>Ezio Mao☢: 这是老共两年前（2020年7月）提出来的，当时很多人还非常惊诧，其实就是提前布局，论下大棋，真的不是针对谁...啧啧啧<br><br><img style="" src="https://pbs.twimg.com/media/FW8rR_GaMAAYuy4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。
 
 ### 80: [2022-07-06 22:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1544688512577986560)
 
@@ -450,4 +450,28 @@ WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，�
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
 说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/jacob43817149/status/1544766052021813249</a>
+
+### 110: [2022-07-07 23:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1545065171353206784)
+
+Re @eGUAbe2V7j26GHw You are right.
+
+### 111: [2022-07-07 23:27:56+08:00 推文](https://twitter.com/HeQinglian/status/1545067098430382080)
+
+这次俄乌战争最先牺牲的是真相——各国民众的知情权被美乌信息战剥夺了。<br>到现在媒体与当事人还不肯真正反思，什么造成了英首相下台。<br>我真的不认为疫情期间聚会是真正原因，那只是个由头。<br>美国民主党连拜登家族的各种腐败堕落的丑闻都不在意。<br><br>美国之音中文网: 英国首相鲍里斯·约翰逊星期四（7月7日）宣布辞职。约翰逊曾因疫情期间在首相官邸举行聚会而遭遇来自本党和反对党压力，他还因为任命滥用职权的保守党副党鞭而遭到舆论广泛批评。截止周三，约翰逊政府中已经有数十名官员辞职。<br><br><video src="https://video.twimg.com/amplify_video/1545065383572475905/vid/720x720/uDFvwiRTyCUWd-28.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1545065383572475905/img/4jWYG3w_fTVTeNQs.jpg"></video>
+
+### 112: [2022-07-07 23:33:33+08:00 推文](https://twitter.com/HeQinglian/status/1545068509922791426)
+
+Re @luwanei123 瞎比较。
+
+### 113: [2022-07-07 23:35:24+08:00 推文](https://twitter.com/HeQinglian/status/1545068976761442306)
+
+Re @xchen156 小平，你居然认为中国中产阶级有这力量。服了。<br>他是外国人，你是中国人。
+
+### 114: [2022-07-07 23:38:22+08:00 推文](https://twitter.com/HeQinglian/status/1545069722001104896)
+
+Re @Tepezano161 从长期看或者如此，但在战争这种需要决断力的时候，不是民众。德国民众到现在还乌泱泱地（也许是媒体报道如此）。
+
+### 115: [2022-07-07 23:50:51+08:00 推文](https://twitter.com/HeQinglian/status/1545072862037512201)
+
+Re @Wu_Zhi 这次所有的西方国家都出判断错误，从公开言论看：<br>1、一开头就声明普京是闪电战（其实是信息战的说法），西方要打持久战困死普京；<br>2、既然要打持久战，那就得依赖资源供给充足。有资源的澳、加只能帮个人场，其余的除了美国之外，全是资源与市场对外双重依赖，而且不幸的是，正好依赖敌人俄罗斯。
 
