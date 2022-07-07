@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-06
+date: 2022-07-07
 from: https://twitter.com/donweinland/status/1543815250645958656
 layout: post
 tags:
@@ -62,4 +62,12 @@ RT Patrick Boehler<br>CNKI was invaluable when it still contained the disserta
 ### 12: [2022-07-06 23:30:29+08:00 推文](https://twitter.com/cnmediaproject/status/1544705350322257921)
 
 The CAC has informed CNKI, China's leading academic database, that it must face a national security review. Why now? Some answers in our latest analysis. <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a><br><img style="" src="https://pbs.twimg.com/media/FW_lTM6aMAElCTt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-07-07 01:16:42+08:00 推文](https://twitter.com/lingli_vienna/status/1544732082219503617)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Party-spirit elevation chamber<br><br>The decor can be improved to better facilitate the spiritual elevation.<br><img style="" src="https://pbs.twimg.com/media/FW_8OIXXoAINhrR?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-07-07 08:50:30+08:00 推文](https://twitter.com/neilthomas123/status/1544846283566891011)
+
+RT Neil Thomas 牛犇<br>Thrilled to co-author with @mcgregorrichard this @NikkeiAsia cover story on the next generation of Chinese foreign policy leaders<br><br>Who's stepping down, who are the rising stars, and whither the "wolf warriors" in Xi Jinping's third term as leader? (1/18) <a href="https://asia.nikkei.com/Spotlight/The-Big-Story/The-next-wolf-warriors-China-readies-new-generation-of-tough-diplomats" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Spotlight/The-Big-Story/The-next-wolf-warriors-China-readies-new-generation-of-tough-diplomats</a>
 

@@ -31,3 +31,11 @@ Jiangsu dissident Wu Dawei sentenced to 1 year in prison for his 392 pieces of t
 
 Henan man Wang detained for 10 days for a piece of video he posted on Douyin, in which he accused a local police of harboring criminal organization.<br><img style="" src="https://pbs.twimg.com/media/FXBmGZiWIAEj2_M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-07-07 12:00:01+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1544893975462649856)
+
+山东省烟台市男子徐某，因通过微信群和微信私聊发表了“辱骂国家领导人以及诋毁中国共产党执政的言论”，于2017年10月被刑拘，次年1月被提起公诉，案件后续进展不详。<br><img style="" src="https://pbs.twimg.com/media/FXBoAfTXwAIoz_0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-07-07 12:05:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1544895230486319104)
+
+Shandong man Xu, who "insulted state leaders and defamed the CCP's ruling of China" in WeChat via both group chats and DMs, arrested in Oct 2017 &amp; prosecuted in Jan 2018 for Picking Quarrel and Provoking Trouble. The court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FXBoiyaWQAEm8d_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
