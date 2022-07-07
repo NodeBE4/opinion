@@ -193,7 +193,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 45: [2022-05-11 21:21:45+08:00 推文](https://twitter.com/realcaixia/status/1524379234466250761)
 
-這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！
+這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！<br><br>躲猫猫3.0: 新冠目前比艾滋和癌症更让民众恐惧，恐惧的不是医学上的危害，而是政治上的恐惧和社会性的死亡，说到底，新冠现在是一种严重的政治病和人身迫害症。<br><br><video src="https://video.twimg.com/ext_tw_video/1524015266509639680/pu/vid/720x960/TdVj1QB1zDjghph1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524015266509639680/pu/img/ddOjckRe3OBKVC-d.jpg"></video>
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
@@ -229,7 +229,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
@@ -245,9 +245,9 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 
-这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？<br><br>iPaul🇨🇦🇺🇦: 三个字概括过去这3年：<br>2020：卷<br>2021：躺<br>2022：润<br>
+这三字精辟地总结了这三年中国社会民情的基本特征；这三字背后诉尽大陆中国人的民生艰辛困境乃至绝境。<br>从卷到润，还是民心的变化。<br>“润”即用脚投票，问题是至少80%的人无力用脚投票；有能力用脚投票的人正在被快速关闭的国门阻挡。<br>2023 将是哪个字？<br>2024 再是哪个字？
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。
+英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
 
