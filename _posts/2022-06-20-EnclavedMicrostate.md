@@ -342,15 +342,21 @@ For more general advice about doing research to inform a creative project, pleas
 
 So, we don't 100% *know*, and they're a bit quieter than they used to be, but I mean... we can be about 99% sure. Aside from the relatively well-known rings thing, they got each other White Day gifts just this year [(Noel's tweet)](https://twitter.com/shiroganenoel/status/1504414555094794243) [(Flare's tweet)](https://twitter.com/shiranuiflare/status/1504407960251887617) and mention going on dates (including in that first tweet there but also see [here](https://twitter.com/shiroganenoel/status/1447879460083040257)); other mems have noted them being, let's say *suspiciously* close [(Mio)](https://www.youtube.com/watch?v=Z4SFaEuuRaU)  [(Rushia)](https://www.youtube.com/watch?v=9Vv2IppoFak) [(Nene)](https://www.youtube.com/watch?v=6F-gSfEIxBo); they have a collab cover up of [this song](https://www.youtube.com/watch?v=YVdA-QCcXYc), of all the ones to choose; and there's Noel clips where she explicitly talks about how her relationship with Flare differs from her Subaru obsession such as [this](https://youtu.be/3uTbr3Qhnio?t=117) and [this](https://youtu.be/4TaTV1EQ2Zs?t=439) where she very much describes Flare as a romantic partner. Even if she's not dating Flare (which to be honest it would be an amazing set of coincidences and PR manipulation if so) Noel is pretty much 'out' given [this](https://www.youtube.com/watch?v=YA9JMb6OdfQ) for instance.
 
-### 571: [Could Georgy Zhukov become the leader of the USSR, and if so. How would the USSR and Soviet satellite states change? (Or the likleyhood of them changing)](https://old.reddit.com/r/AskHistorians/comments/vk6m43/could_georgy_zhukov_become_the_leader_of_the_ussr/), submitted on 2022-06-25 12:15:30+08:00.
+### 571: [Castles in the Sky - A Wargame of Flying Battleships - is out from Osprey Publishing](https://old.reddit.com/r/tabletop/comments/vk3752/castles_in_the_sky_a_wargame_of_flying/), submitted on 2022-06-25 09:02:14+08:00.
 
------ __571.1__ -----2022-06-25 12:17:00+08:00:
+----- __571.1__ -----2022-07-07 13:11:35+08:00:
+
+Seems like it's driven mainly by the popularity of the model range more than anything else.
+
+### 572: [Could Georgy Zhukov become the leader of the USSR, and if so. How would the USSR and Soviet satellite states change? (Or the likleyhood of them changing)](https://old.reddit.com/r/AskHistorians/comments/vk6m43/could_georgy_zhukov_become_the_leader_of_the_ussr/), submitted on 2022-06-25 12:15:30+08:00.
+
+----- __572.1__ -----2022-06-25 12:17:00+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 572: [What is the nationality of a person born in a territory earlier belonging to another country?](https://old.reddit.com/r/AskHistorians/comments/vk6y5l/what_is_the_nationality_of_a_person_born_in_a/), submitted on 2022-06-25 12:35:24+08:00.
+### 573: [What is the nationality of a person born in a territory earlier belonging to another country?](https://old.reddit.com/r/AskHistorians/comments/vk6y5l/what_is_the_nationality_of_a_person_born_in_a/), submitted on 2022-06-25 12:35:24+08:00.
 
------ __572.1__ -----2022-06-25 13:13:09+08:00:
+----- __573.1__ -----2022-06-25 13:13:09+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -358,9 +364,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 573: [can somebody recommend books about early moden Chinese History?](https://old.reddit.com/r/AskHistorians/comments/vknvjq/can_somebody_recommend_books_about_early_moden/), submitted on 2022-06-26 04:38:56+08:00.
+### 574: [can somebody recommend books about early moden Chinese History?](https://old.reddit.com/r/AskHistorians/comments/vknvjq/can_somebody_recommend_books_about_early_moden/), submitted on 2022-06-26 04:38:56+08:00.
 
------ __573.1__ -----2022-06-26 12:19:39+08:00:
+----- __574.1__ -----2022-06-26 12:19:39+08:00:
 
 So, just to clarify, the Early Modern period is typically considered to encompass the period from some time in the fifteenth century up to around 1800 or so; while that is somewhat Eurocentric as a classification it does have broader acceptance among historians of Eurasia (both in the sense of Eurasia as a unit and individual regions within it). The Boxers and the ROC thus fall well outside the typical range of the EM, though I'm happy to recommend some reading on the former nevertheless.
 
@@ -402,35 +408,35 @@ The Ming aren't my forte, although there are some more specialised books I've re
 
 * Edward Rhoads' *Manchus and Han* is, I would argue, critical to understanding the fall of the Qing, even if its one-chapter summary of the 1911 Revolution is very squarely focussed on the Yangtze (and ironically enough somewhat sidelines coastal south China, which Rhoads had written an entire book on some years earlier!)
 
------ __573.2__ -----2022-06-26 21:16:54+08:00:
+----- __574.2__ -----2022-06-26 21:16:54+08:00:
 
 Jonathan Spence's *God's Chinese Son* is where to go for the origins side, although it doesn't really cover the international side and also very quickly breezes through the 1859-64 period at the end, so Platt very much picks up where Spence leaves off, so to speak.
 
-### 574: [Professor Joanna Waley-Cohen on New Qing History](https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/), submitted on 2022-06-26 06:06:21+08:00.
+### 575: [Professor Joanna Waley-Cohen on New Qing History](https://old.reddit.com/r/historyblogs/comments/vkpnjt/professor_joanna_waleycohen_on_new_qing_history/), submitted on 2022-06-26 06:06:21+08:00.
 
------ __574.1__ -----2022-06-26 11:51:30+08:00:
+----- __575.1__ -----2022-06-26 11:51:30+08:00:
 
 Ooh! I will have to listen to this one!
 
-### 575: [[Hobby Scuffles] Week of June 27, 2022](https://old.reddit.com/r/HobbyDrama/comments/vl6krg/hobby_scuffles_week_of_june_27_2022/), submitted on 2022-06-26 23:00:13+08:00.
+### 576: [[Hobby Scuffles] Week of June 27, 2022](https://old.reddit.com/r/HobbyDrama/comments/vl6krg/hobby_scuffles_week_of_june_27_2022/), submitted on 2022-06-26 23:00:13+08:00.
 
------ __575.1__ -----2022-06-28 14:04:44+08:00:
+----- __576.1__ -----2022-06-28 14:04:44+08:00:
 
 How dare you, mine is not, it's only *them* that are annoying!
 
------ __575.2__ -----2022-06-29 11:20:12+08:00:
+----- __576.2__ -----2022-06-29 11:20:12+08:00:
 
 Must be a serious blow to Arin getting supplanted by [a virtual dog](https://img1.ak.crunchyroll.com/i/spire3/05b4fc45a909ade7a49f7eec4b6e8bc71656035037_main.jpg). Yes that is real, [it's a functional outfit in Korone's repertoire](https://www.youtube.com/watch?v=QeqfCtJ-chw).
 
------ __575.3__ -----2022-06-29 21:09:42+08:00:
+----- __576.3__ -----2022-06-29 21:09:42+08:00:
 
 It's the best of all possible worlds.
 
------ __575.4__ -----2022-07-01 20:13:07+08:00:
+----- __576.4__ -----2022-07-01 20:13:07+08:00:
 
 Was just about to post it here. It's bewildering how actively the weeb community will defend the use of a slur.
 
------ __575.5__ -----2022-07-01 22:05:35+08:00:
+----- __576.5__ -----2022-07-01 22:05:35+08:00:
 
 > In the last couple of days, she posted a video which delved into the dangers of fractal wood burning. She gave an overview that explains roughly what people are doing, without giving step by step instructions on how to do it. She also explained the dangers of it, and how dozens of people have died doing it.
 > 
@@ -438,53 +444,53 @@ Was just about to post it here. It's bewildering how actively the weeb community
 
 Couple weeks actually, the video went up on or before 18 June which is when I watched it.
 
------ __575.6__ -----2022-07-01 22:07:18+08:00:
+----- __576.6__ -----2022-07-01 22:07:18+08:00:
 
 IRyS used it  something like a month after debut and I don't think she's used it since. It did get clipped though. I'm reasonably sure that's it?
 
 EDIT: That said I'm not too surprised it's IRyS of all people. If I'm not mistaken she's lived in Japan for a good while now, and being a native Japanese speaker (and based on how she has been known to default to Japanese at times there's a good case for it being her first and primary language) her engagement with Anglophone spaces likely isn't as intensive as, say, Calli's, so her being the one to have 'slipped' by (hopefully) just not being up to speed on it maybe not being a word you should use is maybe understandable.
 
------ __575.7__ -----2022-07-01 22:20:38+08:00:
+----- __576.7__ -----2022-07-01 22:20:38+08:00:
 
 I don't think /u/Evelyn701 was trying to bash anyone, just citing that there is at least one Hololive member who has used the word in the past.
 
------ __575.8__ -----2022-07-01 22:23:57+08:00:
+----- __576.8__ -----2022-07-01 22:23:57+08:00:
 
 It's no problem, time is a social construct anyway
 
------ __575.9__ -----2022-07-01 22:27:32+08:00:
+----- __576.9__ -----2022-07-01 22:27:32+08:00:
 
 Which is absolutely true. My thinking was more that English isn't her primary language and so it's quite possible, given she's lived in Japan rather than an Anglophone country for a while, that she wasn't exactly up to speed on things and was casually using language that was still broadly deemed acceptable mid-last decade. And my intent wasn't to excuse; merely to note that if any member of HoloEN were to end up saying it on stream, IRyS was the least surprising candidate for that reason.
 
------ __575.10__ -----2022-07-02 00:03:27+08:00:
+----- __576.10__ -----2022-07-02 00:03:27+08:00:
 
 I'll avoid responding to the other user since I don't want to feed a troll here, but yes, Calli also has somewhat of an unfortunate history in terms of known slur use. That said (and here I am admittedly obliquely referring to the other poster), I don't see how someone who used to use a particular slur habitually *now catching themselves and not doing it* is analogous to casually using a slur without realising at all.
 
------ __575.11__ -----2022-07-02 00:20:53+08:00:
+----- __576.11__ -----2022-07-02 00:20:53+08:00:
 
 Yes that's the big thing! How dare someone express indignation about the use of slurs, and how dare they ask the ones who use those slurs to do the legwork to address it?!
 
------ __575.12__ -----2022-07-02 00:25:36+08:00:
+----- __576.12__ -----2022-07-02 00:25:36+08:00:
 
 Yeah it's like... oh no, she knows that you shouldn't use the n-word and stops herself from doing it. That must mean... uh. What exactly?
 
------ __575.13__ -----2022-07-02 00:29:12+08:00:
+----- __576.13__ -----2022-07-02 00:29:12+08:00:
 
 I feel like it's a yes and no situation in that with VTubers it's not media consumption in a purely passive sense, but often involves active and direct communication with the creator as the media is being created, and while I don't know how that necessarily bears on the community aspect it's certainly an extra layer of stuff. But also, there's also a level of active engagement in content creation – clippers, animators, people just making memes etc – which means that although the audience as a whole isn't a singular community, there are individual communities that cohere around certain spaces that actively produce derivative media as well as simply commenting on the original, and this is true of basically any fandom.
 
------ __575.14__ -----2022-07-02 11:12:21+08:00:
+----- __576.14__ -----2022-07-02 11:12:21+08:00:
 
 > Hololive's branch is definitely more of the side of keeping things sanitized to avoid such backlash (in order to prevent having to let talent go) whereas Nijisanji gives their talents more freedom on platforms such as Twitter and the like.
 
 All else aside (because I broadly agree with the rest of the post on principle), there's a bit of a meme that Hololive is uniquely restrictive while Nijisanji is looser, but I just don't really see that being the case. Both agencies are cut from pretty similar cloth from the first VTuber wave in 2018/19, but just because Hololive has an idol *aesthetic* doesn't mean it's fundamentally culturally different, or that one polices content more or less than the other. We do not know how much control is exercised behind the scenes and ought not to pretend otherwise.
 
------ __575.15__ -----2022-07-02 23:11:31+08:00:
+----- __576.15__ -----2022-07-02 23:11:31+08:00:
 
 RWBY fandom is outraged. News at 11.
 
 I mean, I get being disappointed that it's being released in 2023 as it's already been over a year since V8 wrapped, but IDK just watch another thing in the meantime?
 
------ __575.16__ -----2022-07-03 02:58:49+08:00:
+----- __576.16__ -----2022-07-03 02:58:49+08:00:
 
 I guess I may need to explain two things for the uninitiated. Firstly, Kson. Kson is a pretty oldschool VTuber livestreamer who debuted her first model in late 2018, although she had been active as a 'fleshtuber' since 2016. From early 2020 onward she had an apparently pretty decent contract on the Japanese streaming site Mildom, but she stopped streaming there in May this year and only streams on Youtube and Twitch now. She's also notable as one of the more popular indie VTubers numbers-wise; when I checked back in March she was only one of three indies with over 1m Youtube subs. She was also doing a lot of this while also streaming as >!Hololive's Kiryu Coco!<, until she retired from there just over a year ago to go full indie, citing creative restrictions but insisting that the split was entirely amicable.
 
@@ -508,19 +514,19 @@ On the more surprising side:
 
 * VShojo has always been an English-language agency (Ironmouse being bilingual in Spanish and English but mostly streaming in the latter), but Kson has principally streamed in Japanese (though she's also bilingual), so this may be a deliberate step into the Japanese market.
 
------ __575.17__ -----2022-07-03 03:07:52+08:00:
+----- __576.17__ -----2022-07-03 03:07:52+08:00:
 
 Kson isn't the only new VShojo member, as there's going to be an entirely new member, likely also mainly Japanese-speaking, that being [Amemiya Nazuna](https://twitter.com/AmemiyaNazuna). Somehow, this is now the subject of *intense* speculation because of [four whole syllables](https://www.youtube.com/watch?v=NQlH1lXq4tg&t=469s) in her teaser trailer which are leading people to speculate that she might be Mikeneko, formerly Hololive's Uruha Rushia, whom you may recall from her being fired for leaking internal messages back in February. Which I mean... sure anything is *possible* but you'd think people could wait until she had said more than, you know, a quarter of a sentence before jumping to conclusions.
 
------ __575.18__ -----2022-07-03 03:20:52+08:00:
+----- __576.18__ -----2022-07-03 03:20:52+08:00:
 
 Moreover, VShojo opened auditions for new members back in August last year (I don't know if they ever closed). If that's the case, surely any new original members would have been worked on for the better part of a year at this point. I just don't think it that plausible that their priorities are so skewed that they'd rather rush a still highly controversial figure to debut just under five months after she was fired (with the announcement coming barely four months after said firing), ahead of anyone who might have applied some six months earlier.
 
------ __575.19__ -----2022-07-03 12:21:10+08:00:
+----- __576.19__ -----2022-07-03 12:21:10+08:00:
 
 It's 'obvious' if you buy into a speculative narrative that has gained traction by pure truthiness, but for all we know Kson wanted an extended break from agency involvement and slowly dipped her toe in with VShojo.
 
------ __575.20__ -----2022-07-03 12:30:24+08:00:
+----- __576.20__ -----2022-07-03 12:30:24+08:00:
 
 I'll tack on to this by noting that while Coco's supposed aggressive pushing for a HoloEN is a popular fan narrative, for me the timelines do not add up. By the time Kson/Coco was an active Hololive member, HoloCN was already there and HoloID was in the pipeline, and with that in mind HoloEN was almost certainly next up after ID. Nor was she the first member to do English streams, that was Haachama (officially Akai Haato for those not in the know) who started doing them nearly a month and a half before Coco debuted, and was the one to read out the [announcement for the opening of an English-language official news Twitter](https://twitter.com/hololive_en/status/1199659479920308224). Coco was definitely influential, well-liked, and extremely influential, but the notion that she was some driving force within Cover seems to be the Hololive fandom's equivalent of an urban myth.
 
