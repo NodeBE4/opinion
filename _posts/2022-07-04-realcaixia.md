@@ -67,3 +67,11 @@ Re 请听范畴先生的分析。这是目前对中共政治分析最具有深�
 
 大陆这块土地已经成了一个被极端邪恶绑架的无人伦道德底线的炼狱，容不得一句真话，容不得理性思考，容不得现代文明观念。这块土地上的10后、20后的孩子将会长成什么样的几代人？不敢想。
 
+### 14: [2022-07-07 20:37:51+08:00 推文](https://twitter.com/realcaixia/status/1545024293330993152)
+
+这几场人祸将来必定要上史书：1，三年大饥荒；2，十年内乱浩劫；3，起自武汉病毒疫情、加重自清零、目前还在延续看不到头的政治抗疫。人祸的根子在最高统治者为保权力，人祸得逞在于极权统治制度。极权不除，人祸不止。<br><br>“向20大建言”骂声一片 抗疫清零或成习总连任死结？ <a href="https://www.voachinese.com/a/xi-defends-controversial-zero-covid-policy-in-wuhan-amid-increasing-challenges-over-his-ambition-for-power-20220704/6644010.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/xi-defends-controversial-zero-covid-policy-in-wuhan-amid-increasing-challenges-over-his-ambition-for-power-20220704/6644010.html</a>
+
+### 15: [2022-07-07 20:47:53+08:00 推文](https://twitter.com/realcaixia/status/1545026820503896065)
+
+Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，比如2021年7月的郑州大水等等，那些人祸会上地方志。
+
