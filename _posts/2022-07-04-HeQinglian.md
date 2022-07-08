@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-08
+date: 2022-07-09
 from: https://twitter.com/HeQinglian/status/1543683373884899331
 layout: post
 tags:
@@ -157,7 +157,7 @@ Re @HettyJ008 @JianglinLi Mark了，买包试试。不知有无季节限制？
 
 ### 36: [2022-07-05 04:15:58+08:00 推文](https://twitter.com/HeQinglian/status/1544052420363403265)
 
-中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。”<br><br>He Qinglian: 关于中国斥资2500亿，购买近300架空客，不得不说几句：这是对拜登的双重打击。<br>1、在川普之前的空客与波音之争，空客已经败下阵来，因质量问题；<br>2、这时购买有战略考量：一是帮欧盟（德法）一把，让欧盟与美国的中国战略保持距离；二是给拜登难堪，波音肯定对此有极大意见，减少对拜登民主党的捐款。<br>
+中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。” <a href="https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion</a>
 
 ### 37: [2022-07-05 04:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1544052632603557890)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -445,7 +445,7 @@ Re @LeungBread 不是正在发动网络政变，差点抓到他了？你且等�
 
 ### 108: [2022-07-07 20:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1545024269620584450)
 
-WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。
+WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。<br><br>华尔街日报中文网: 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
@@ -510,4 +510,60 @@ Re @KELMAND1 这些媒体对乌克兰的醒悟期是三个月或更长，不知�
 ### 124: [2022-07-08 21:56:20+08:00 推文](https://twitter.com/HeQinglian/status/1545406434728452096)
 
 译：乔·拜登向一家中国天然气公司出售了近 100 万桶石油，他的儿子亨特可能仍间接持有该公司的股份。<br>自称反共的拜粉千万不要有意忽视这条消息。😂<br><br>Benny Johnson: BREAKING: Joe Biden sold nearly a million barrels of oil to a Chinese gas company that his son, Hunter, may still indirectly own a stake in.<br><br><video src="https://video.twimg.com/amplify_video/1545195495613685760/vid/1280x720/Oo0cDV30VtlW2L_e.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1545195495613685760/img/uCjwBtvk-jaBsgg0.jpg"></video>
+
+### 125: [2022-07-08 22:03:04+08:00 推文](https://twitter.com/HeQinglian/status/1545408127507595271)
+
+局势越来越有趣。且看拜登如何收场。<br><br>jiang shangrong: 外交部副部长里亚布科夫说，美国要求承认在乌克兰被拘留的美国雇佣军为战斗人员。<br><br>在这种情况下，日内瓦公约将适用于他们，而不视为雇佣军。<br><br><img style="" src="https://pbs.twimg.com/media/FXJO9IsWIAE1Aps?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+
+### 126: [2022-07-08 22:04:32+08:00 推文](https://twitter.com/HeQinglian/status/1545408495071203331)
+
+美国政府2官员被控参与北京骚扰旅美中国异见人士计划 <br>趣怪事情越来越多。 <a href="https://rfi.my/8ZAd.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8ZAd.T</a>
+
+### 127: [2022-07-08 22:07:26+08:00 推文](https://twitter.com/HeQinglian/status/1545409225182027778)
+
+Re @KELMAND1 @Aaa08221789 建议你找他最近一个月的发言看看，在地缘政治与俄乌战争上的发言。
+
+### 128: [2022-07-08 22:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1545410572799410182)
+
+历史的经验值得注意。<br>全斗焕在面临巨大的民主化运动压力时，接受部下建议，弄了个北韩将利用金刚山水坝在奥运时水淹汉城事件（谣言），发动战争。<br>全听到建议时高兴地大笑，说：战争太好了，有时就需要战争，转移老百姓视线。
+
+### 129: [2022-07-08 22:21:35+08:00 推文](https://twitter.com/HeQinglian/status/1545412787739975687)
+
+Re @KELMAND1 @Aaa08221789 这算其中之一。今天法广那条美国官员骚扰中国异议人士的消息也得结合看，如今的政治很魔幻——官员个人行为与政府行为之间有时也很难弄明白。<br>比如Fox谈拜登释放的战略储备油的去向，已经超越独裁政府的行为了。
+
+### 130: [2022-07-08 22:28:49+08:00 推文](https://twitter.com/JianglinLi/status/1545414609355640833)
+
+RT 李江琳<br>Re @Wu_Zhi @david_david1968 @HeQinglian @RealBeiMing @ngexp   A popular uprising against the elites has gone global | Opinion <a href="https://www.newsweek.com/popular-uprising-against-elites-has-gone-global-opinion-1722653" target="_blank" rel="noopener noreferrer">https://www.newsweek.com/popular-uprising-against-elites-has-gone-global-opinion-1722653</a>
+
+### 131: [2022-07-08 22:29:35+08:00 推文](https://twitter.com/HeQinglian/status/1545414799403765760)
+
+Re @KELMAND1 @Aaa08221789 但放到扫除大重置障碍这条主轴上看，一切都有了解释。<br>我一直认为，索罗斯去年三批习近平，美国媒体称台海危机迫近，一触即发。到11月转了方向，10月底普京瓦尔代讲话，11月初气候峰会上不买帐。<br>至少，我认为习近平在20大之前不可能对台湾动手。
+
+### 132: [2022-07-08 22:35:20+08:00 推文](https://twitter.com/HeQinglian/status/1545416246971322369)
+
+Re @KELMAND1 @Aaa08221789 约翰逊以保守之名上台，行左派之事。铲除他干什么？想不通。
+
+### 133: [2022-07-08 22:41:02+08:00 推文](https://twitter.com/HeQinglian/status/1545417682534776834)
+
+Re @JohnChe68058637 可能除了华拜粉，目前为拜家辩护的真还不多了。<br>美国左派也知道，小拜挣再多的钱，也到不了他们手中。
+
+### 134: [2022-07-08 22:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1545418761016152066)
+
+Re @KELMAND1 @Aaa08221789 乌克兰那边，他是西方国家当中表态最多的，比拜登还勤快。这不是背锅。
+
+### 135: [2022-07-08 23:14:49+08:00 推文](https://twitter.com/HeQinglian/status/1545426181943705600)
+
+Re @T7l4AWMlSyIwZQz 英文媒体已经有数处发消息了。<br>你是个啥东西？赖在我这里污染时间线，滚远点。<br>小拜卖画给中国商人的钱，分了一美元给你？
+
+### 136: [2022-07-08 23:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1545428703098060802)
+
+在英相约翰逊发表辞职声明后，虽然这位首相将继续留任至今秋，直至选出新党魁，但他已经消失在亲密盟友、美国总统拜登的视野中。<br>据路透社7月8日报道，拜登周7月7日就约翰逊辞职一事发布一份88字的声明，只字未提约翰逊本人，只有寥寥几句“期待与英国政府进一步密切合作”的官方辞令。
+
+### 137: [2022-07-09 00:09:55+08:00 推文](https://twitter.com/HeQinglian/status/1545440048140750850)
+
+Re @Wu_Zhi @JianglinLi 这是破格待遇。
+
+### 138: [2022-07-09 00:20:53+08:00 推文](https://twitter.com/SSK2024/status/1545442811675377665)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>安倍是令人尊敬的政治家，忠于职守，温良恭俭。日本是全球仅存的几个珍惜传统、抵制极左的国家之一。愿上帝安慰安倍的家人！<br><br>《礼记》：邻有丧，舂不相。里有殡，不巷歌。<br><br>《安倍晋三首相，安息吧！》 <a href="https://mp.weixin.qq.com/s/Amst-xJoBMTAzQ9UY94YrA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Amst-xJoBMTAzQ9UY94YrA</a><br><video src="https://video.twimg.com/ext_tw_video/1545442680263647233/pu/vid/1280x720/oYRiqCUSWYW54h36.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545442680263647233/pu/img/2M7BEKmpMI99y0dm.jpg"></video>
 
