@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-11-29~2021-12-05'
 
 ### 3: [2021-12-02 08:56:36+08:00 推文](https://twitter.com/realcaixia/status/1466209651201130497)
 
-導語非常好！直擊要害！<br><br>韩连潮: 【中共數字專制威脅人類文明】強國民眾憤怒控訴政府利用數字技術對社會無處不在的監控，斥責統治者把自己的一切都當作絕密信息藏在黑暗中。現代社會極權統治的三根支柱：暴力恐怖；謊言洗腦；數字技術監控，而推倒防火牆可以拆掉其兩根支柱。<br><br><img style="" src="https://pbs.twimg.com/media/FFj9qK1UUAA6SGY?format=jpg&name=orig" referrerpolicy="no-referrer">
+導語非常好！直擊要害！<br><br>韩连潮: 【中共數字專制威脅人類文明】強國民眾憤怒控訴政府利用數字技術對社會無處不在的監控，斥責統治者把自己的一切都當作絕密信息藏在黑暗中。現代社會極權統治的三根支柱：暴力恐怖；謊言洗腦；數字技術監控，而推倒防火牆可以拆掉其兩根支柱。<br><br><img style src="https://pbs.twimg.com/media/FFj9qK1UUAA6SGY?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-02 11:18:26+08:00 推文](https://twitter.com/realcaixia/status/1466245344577134595)
 
@@ -57,7 +57,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 11: [2021-12-05 00:28:35+08:00 推文](https://twitter.com/realcaixia/status/1467168968901337088)
 
-这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
+这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style="" src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-05 00:50:44+08:00 推文](https://twitter.com/realcaixia/status/1467174543093649412)
 
