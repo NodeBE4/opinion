@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-06
+date: 2022-07-08
 from: https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/
 layout: post
 tags:
@@ -128,4 +128,10 @@ Well, there's two responses to this:
 The first is that the Western examples you cite are no less problematic in a purely historiographical sense.
 
 The second is that there is a lot of vacillation in Chinese historical orthodoxy over whether to regard 'alien' regimes as meaningfully 'Chinese' or not. While the notion of 'Sinicisation' has been used to argue that Chinese culture overpowers foreign rulers and absorbs them into the Chinese cultural sphere, at the same time there can be the implicit legitimacy of regimes that, when you look at hard facts, were ethnocentric in favour of minorities. Moreover, said minorities' inclusion in the modern Chinese nation was not exactly done with those minorities' consent, as the post-Qing independence of Tibet and Mongolia shows. So in the Chinese case there is a strong layer of 'we claim X ethnic groups into our nation, but as subsumed into a cultural package dominated by the Han Chinese who form the core of said nation.'
+
+### 598: [there's a restaurant in Hong Kong that serves a dish called "sex on the beach" that's literally an edible condom over edible sand](https://old.reddit.com/r/StupidFood/comments/vtmpyw/theres_a_restaurant_in_hong_kong_that_serves_a/), submitted on 2022-07-08 00:32:11+08:00.
+
+----- __598.1__ -----2022-07-09 04:00:30+08:00:
+
+Ha, I was about to check there myself.
 
