@@ -23,6 +23,10 @@ As someone who speaks Cantonese natively and has intermediate Mandarin listening
 
 Well, those are their primary Sinitic languages, but from the stream it's clear that Selen has at least intermediate Mandarin and Enna a similar but possibly lesser level of Cantonese.
 
+----- __591.3__ -----2022-07-08 18:01:18+08:00:
+
+I mean, Noel's hardly the most SFW of Holomems.
+
 ### 592: [How long have people been using "say cheese" to get people to smile in pictures?](https://old.reddit.com/r/AskHistorians/comments/vrpbh7/how_long_have_people_been_using_say_cheese_to_get/), submitted on 2022-07-05 12:14:31+08:00.
 
 ----- __592.1__ -----2022-07-05 13:41:47+08:00:

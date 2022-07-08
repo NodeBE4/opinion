@@ -25,7 +25,7 @@ Henan man Zhang, who spread "harmful information on Twitter that slander the sta
 
 ### 3: [2022-04-28 20:11:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1519650614787158017)
 
-同问
+同问<br><br>推特小红旗: 我们的工作一定哪里出了问题。<br><br><img style="" src="https://pbs.twimg.com/media/FRa5qh7aMAAwVDx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-04-30 10:27:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1520228192434499587)
 

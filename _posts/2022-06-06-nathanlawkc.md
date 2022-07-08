@@ -39,5 +39,5 @@ Had a fascinating discussion with @katharintai at re:publica Berlin 2022, immedi
 
 ### 6: [2022-06-12 18:37:30+08:00 推文](https://twitter.com/nathanlawkc/status/1535934308866727936)
 
-See you today my friends in London.
+See you today my friends in London.<br><br>Nathan Law 羅冠聰: 🏴Be Water. Be United.🎗<br>Hongkongers continue to chant our demands for democracy and freedom.<br>Please join us. <br>📆June 12 (Sunday)<br>⏰3:00 PM - 4:30 PM<br>📍Parliament Square Garden SW1P 3JX<br>#standwithhongkong<br><br><img style="" src="https://pbs.twimg.com/media/FUvNElpXoAANT0r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
