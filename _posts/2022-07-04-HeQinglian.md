@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -329,7 +329,7 @@ Re @owenusa 快了，还差五公里，普京也差点被抓，只差那么一�
 
 ### 79: [2022-07-06 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1544688323779764224)
 
-明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。<br><br>Ezio Mao☢: 这是老共两年前（2020年7月）提出来的，当时很多人还非常惊诧，其实就是提前布局，论下大棋，真的不是针对谁...啧啧啧<br><br><img style="" src="https://pbs.twimg.com/media/FW8rR_GaMAAYuy4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。
 
 ### 80: [2022-07-06 22:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1544688512577986560)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -445,11 +445,11 @@ Re @LeungBread 不是正在发动网络政变，差点抓到他了？你且等�
 
 ### 108: [2022-07-07 20:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1545024269620584450)
 
-WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。
+WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。<br><br>华尔街日报中文网: 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
-说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/Jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/Jacob43817149/status/1544766052021813249</a>
+说得好，痛快淋漓。👍👍👍
 
 ### 110: [2022-07-07 23:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1545065171353206784)
 
@@ -559,43 +559,79 @@ Re @T7l4AWMlSyIwZQz 英文媒体已经有数处发消息了。<br>你是个啥�
 
 在英相约翰逊发表辞职声明后，虽然这位首相将继续留任至今秋，直至选出新党魁，但他已经消失在亲密盟友、美国总统拜登的视野中。<br>据路透社7月8日报道，拜登周7月7日就约翰逊辞职一事发布一份88字的声明，只字未提约翰逊本人，只有寥寥几句“期待与英国政府进一步密切合作”的官方辞令。
 
-### 137: [2022-07-09 00:09:55+08:00 推文](https://twitter.com/HeQinglian/status/1545440048140750850)
+### 137: [2022-07-09 00:01:31+08:00 推文](https://twitter.com/NAConservative9/status/1545437934823919616)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《拜登应该被弹劾，因为他把我们的自然资产送给了我们的敌人中国》<br><br>战略石油储备为的是在战争、天灾、瘟疫等紧急状态下为美国提供必不可少的能源，拜登却擅自动用它来平抑因为自己失败的能源政策造成的油价飙升。然而这些宝贵的资源并没有帮助百姓，反而出口海外，帮了敌人。 <a href="https://nacr.info/WordPress/index.php/2022/07/08/gop-hammers-biden-for-allowing-emergency-oil-reserves-to-go-to-china-compromising-our-energy-security/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/08/gop-hammers-biden-for-allowing-emergency-oil-reserves-to-go-to-china-compromising-our-energy-security/</a><br><img style="" src="https://pbs.twimg.com/media/FXJ-DMiWAAAWIwe?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 138: [2022-07-09 00:09:55+08:00 推文](https://twitter.com/HeQinglian/status/1545440048140750850)
 
 Re @Wu_Zhi @JianglinLi 这是破格待遇。
 
-### 138: [2022-07-09 00:20:53+08:00 推文](https://twitter.com/SSK2024/status/1545442811675377665)
+### 139: [2022-07-09 00:20:53+08:00 推文](https://twitter.com/SSK2024/status/1545442811675377665)
 
 RT 萧生客SSK🇺🇸🇨🇦<br>安倍是令人尊敬的政治家，忠于职守，温良恭俭。日本是全球仅存的几个珍惜传统、抵制极左的国家之一。愿上帝安慰安倍的家人！<br><br>《礼记》：邻有丧，舂不相。里有殡，不巷歌。<br><br>《安倍晋三首相，安息吧！》 <a href="https://mp.weixin.qq.com/s/Amst-xJoBMTAzQ9UY94YrA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/Amst-xJoBMTAzQ9UY94YrA</a><br><video src="https://video.twimg.com/ext_tw_video/1545442680263647233/pu/vid/1280x720/oYRiqCUSWYW54h36.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545442680263647233/pu/img/2M7BEKmpMI99y0dm.jpg"></video>
 
-### 139: [2022-07-09 03:14:29+08:00 推文](https://twitter.com/HeQinglian/status/1545486499109642241)
+### 140: [2022-07-09 03:14:29+08:00 推文](https://twitter.com/HeQinglian/status/1545486499109642241)
 
 据称，约翰逊辞职主要因经济问题，比如能源危机、产业链断裂、高达9.1%的通胀等。<br>经查，2021年英国GDP总量接近3.19万亿美元，全年的经济增长率为7.5%，创历史新高，是二战以来单个年份中，增长最为迅猛的时期。英国工业联合会曾称，英国有望成为G7当中增长最快的国家。<br>因此，问题主要发生在2022年。
 
-### 140: [2022-07-09 03:18:38+08:00 推文](https://twitter.com/HeQinglian/status/1545487544112087040)
+### 141: [2022-07-09 03:18:38+08:00 推文](https://twitter.com/HeQinglian/status/1545487544112087040)
 
 Re @TianyuB 不要这样算笼统的，不要说平均，就说单个年份，好不好？<br>比如，报上来，煤气费用2021年底，2022年2月底是多少，OK？
 
-### 141: [2022-07-09 03:23:26+08:00 推文](https://twitter.com/HeQinglian/status/1545488748774817792)
+### 142: [2022-07-09 03:23:26+08:00 推文](https://twitter.com/HeQinglian/status/1545488748774817792)
 
 Re @TianyuB 从今年3月开始，你再也没付过费？<br>网上查，3月5日的消息：在俄罗斯表示将削减对欧洲的天然气供应后，英国天然气批发价格显著上涨。在早盘交易中上涨了近10%至565便士，比一年前高出10倍以上。<br>3月5日以后的更不用说了。
 
-### 142: [2022-07-09 03:25:06+08:00 推文](https://twitter.com/HeQinglian/status/1545489168515698688)
+### 143: [2022-07-09 03:25:06+08:00 推文](https://twitter.com/HeQinglian/status/1545489168515698688)
 
 Re @FemlPVXbTrjpc6U 你说是什么原因？
 
-### 143: [2022-07-09 03:25:56+08:00 推文](https://twitter.com/HeQinglian/status/1545489380617355265)
+### 144: [2022-07-09 03:25:56+08:00 推文](https://twitter.com/HeQinglian/status/1545489380617355265)
 
 Re @TianyuB 怪不得，你对天然气价格上涨无感。等年底时再有反应吧。
 
-### 144: [2022-07-09 03:31:38+08:00 推文](https://twitter.com/HeQinglian/status/1545490814465368068)
+### 145: [2022-07-09 03:31:38+08:00 推文](https://twitter.com/HeQinglian/status/1545490814465368068)
 
 Re @TianyuB 你英国是什么能源发电？
 
-### 145: [2022-07-09 03:36:36+08:00 推文](https://twitter.com/HeQinglian/status/1545492063982075904)
+### 146: [2022-07-09 03:36:36+08:00 推文](https://twitter.com/HeQinglian/status/1545492063982075904)
 
 Re @Wu_Zhi 其实，数据表示的已经非常清楚：<br>2021年，英国经济很好；能源价格上涨、通胀剧升，全都发生在2月23日俄乌战争开始之后。<br>2月28日，约翰逊首相在推特上发表“普京必须失败”，此语成为拜登及一干西方政要的经典名句，整个3月频频出现在媒体上。<br>以上可在媒体上搜索。我喜欢排事件日期，因果关系一目了然。
 
-### 146: [2022-07-09 03:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1545492343310241797)
+### 147: [2022-07-09 03:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1545492343310241797)
 
 Re @TianyuB 那么，你认为天然气涨价，其他的可以保持不涨价？<br>物价上涨从来就是联动效应。
+
+### 148: [2022-07-09 03:58:23+08:00 推文](https://twitter.com/HeQinglian/status/1545497545685843968)
+
+Re 英国通货膨胀率：据英国统计局数据，2022年1月，英国通胀率为5.5%，5月高达9.1%。<br>另据英国政府部门公布，物价上涨主是是能源与食品价格引起。 <a href="https://zh.tradingeconomics.com/united-kingdom/inflation-cpi" target="_blank" rel="noopener noreferrer">https://zh.tradingeconomics.com/united-kingdom/inflation-cpi</a>
+
+### 149: [2022-07-09 03:59:20+08:00 推文](https://twitter.com/HeQinglian/status/1545497786027651077)
+
+Re @Erbao2010 你看不看新闻？
+
+### 150: [2022-07-09 04:36:50+08:00 推文](https://twitter.com/HeQinglian/status/1545507222205128706)
+
+Re @dongle_smith 这也算新编故事吧？哪点不同步？跟得最紧就是他。自俄乌战争以来，约翰逊先后两次访问基辅给予政治支持，又承诺提供军事、经济援助，紧跟美国对俄、对乌政策，积极推动对乌军事、经济等各个层面的援助。就在最近，英国首相约翰逊再次访问基辅，预告将启动一项"足以彻底改变战争平衡"的军事训练计划。
+
+### 151: [2022-07-09 04:49:07+08:00 推文](https://twitter.com/HeQinglian/status/1545510313507840001)
+
+Re @FightForJiuCai 如果能够在自认满足条件之后就自动加入，不需要程序批准，那就好了。<br>这位国防部长可能不知道美国奥巴马有个性别自我认同总统令，凡自我认为自己是某性别的人，可以使用某性别的洗手间。<br>仿此例，乌克兰就是北约成员。
+
+### 152: [2022-07-09 05:00:08+08:00 推文](https://twitter.com/HeQinglian/status/1545513085871525890)
+
+Re @mingshi_chen @FightForJiuCai 你总是说这点，我并不如此认为，至少谈不上高深莫测。<br>最多就是不反常识——这些人，我至少熟悉其中几位。<br>西方反常识，中国不反常识，差距就显出来了。
+
+### 153: [2022-07-09 05:17:08+08:00 推文](https://twitter.com/HeQinglian/status/1545517365307252736)
+
+Re @Annw1309 @Erbao2010 拜登的民主党要求他辞职吗？没有。<br>约翰逊是本党抛弃了他。
+
+### 154: [2022-07-09 05:19:18+08:00 推文](https://twitter.com/HeQinglian/status/1545517908834615311)
+
+Re @FightForJiuCai 泽连斯基前几日说了，今后正式加入北约之后，乌克兰需要一个体面的位置，不能象过去那样，处于北约与俄罗斯冲突的灰色地带。<br>他有时候讲话挺明白的，包括3月28日接受经济学人采访明言代理人战争。
+
+### 155: [2022-07-09 05:28:58+08:00 推文](https://twitter.com/HeQinglian/status/1545520340524302345)
+
+Re @Wu_Zhi 👍👍👍
 
