@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-07-07
+date: 2022-07-08
 from: https://twitter.com/SpeechFreedomCN/status/1543779628833132544
 layout: post
 tags:
@@ -38,4 +38,12 @@ Henan man Wang detained for 10 days for a piece of video he posted on Douyin, in
 ### 6: [2022-07-07 12:05:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1544895230486319104)
 
 Shandong man Xu, who "insulted state leaders and defamed the CCP's ruling of China" in WeChat via both group chats and DMs, arrested in Oct 2017 &amp; prosecuted in Jan 2018 for Picking Quarrel and Provoking Trouble. The court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FXBoiyaWQAEm8d_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-07-08 08:38:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1545205725277863938)
+
+Re After the internal investigation, Yunan Provincial Education Department finds its former director's behavior constitutes a criminal act, and has hence referred his case to the relevant (judicial) department. Practically speaking, it is very likely that Luo will end up in jail.<br><img style="" src="https://pbs.twimg.com/media/FXGrX6QXoAMxpNT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-07-08 08:41:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1545206498074234882)
+
+Re 云南省教育厅对其原厅长罗崇敏在微信公众平台发表“有关言论”一事进行了一个月的调查，认为其行为已经涉嫌犯罪，因此将案件移交相关职能部门（即司法部门）办理。罗崇敏可能难免牢狱之灾。<br><img style="" src="https://pbs.twimg.com/media/FXGsdQcX0AYownE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
