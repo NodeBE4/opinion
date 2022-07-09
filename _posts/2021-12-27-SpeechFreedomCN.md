@@ -37,11 +37,11 @@ Sichuan woman Wei detained for 5 days for complaining about traffic police in We
 
 ### 6: [2021-12-31 15:37:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819694153879557)
 
-Anhui man He detained for 3 days for saying in WeChat Moment that he got bitten by dogs, with a photo of a ticket from traffic police. Police claimed this WeChat post insulted them.<br><img style="" src="https://pbs.twimg.com/media/FH63XUlX0A8_VGh?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH63Yd4WUAIB_M8?format=png&name=orig" referrerpolicy="no-referrer">
+Anhui man He detained for 3 days for saying in WeChat Moment that he got bitten by dogs, with a photo of a ticket from traffic police. Police claimed this WeChat post insulted them.<br><img style src="https://pbs.twimg.com/media/FH63XUlX0A8_VGh?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH63Yd4WUAIB_M8?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-01 11:21:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477117626044358660)
 
-Happy new year! And a friendly reminder that two years ago today, 8 people in China's Wuhan city were arrested & punished by police for making up a "rumor" that an Unknown Pneumonia occurred in the city.<br><img style="" src="https://pbs.twimg.com/media/FH-HuNrXwAEyKse?format=jpg&name=orig" referrerpolicy="no-referrer">
+Happy new year! And a friendly reminder that two years ago today, 8 people in China's Wuhan city were arrested & punished by police for making up a "rumor" that an Unknown Pneumonia occurred in the city.<br><img style src="https://pbs.twimg.com/media/FH-HuNrXwAEyKse?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-01 12:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477140023657086976)
 

@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-07-08
+date: 2022-07-10
 from: https://twitter.com/SpeechFreedomCN/status/1543779628833132544
 layout: post
 tags:
@@ -46,4 +46,12 @@ Re After the internal investigation, Yunan Provincial Education Department finds
 ### 8: [2022-07-08 08:41:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1545206498074234882)
 
 Re 云南省教育厅对其原厅长罗崇敏在微信公众平台发表“有关言论”一事进行了一个月的调查，认为其行为已经涉嫌犯罪，因此将案件移交相关职能部门（即司法部门）办理。罗崇敏可能难免牢狱之灾。<br><img style="" src="https://pbs.twimg.com/media/FXGsdQcX0AYownE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-07-10 02:25:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1545836454990987266)
+
+Re 唐山师范学院中文系退休教授石文瑛，因在微博上发言对 #安倍遇刺 后大量网友狂欢庆祝的现象表达耻辱和愤怒，被校方成立专项调查组进行调查。石文瑛的具体言论内容如图所示，其中打码的文字是“支那”。<br><img style="" src="https://pbs.twimg.com/media/FXPpGBFXwAI07lx?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXPpHRSWAAEnRce?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-07-10 02:31:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1545838040815489026)
+
+Re Shi Wenying, retired professor at Tangshan Normal Univ, now under investigation for posting "wrong speech" on Weibo, saying she felt ashamed of her country where floods of netizens were celebrating #AbeAssassination and happy that no such kind of low lives occurred in her WeChat.<br><img style="" src="https://pbs.twimg.com/media/FXPrd4mXoAU0U4X?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXPrfFiXoAM1skQ?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
