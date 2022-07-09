@@ -231,7 +231,7 @@ Gawrdzilla.
 > 
 > 
 
-That would be incorrect. Tibetan polities were independent for all intents and purposes between the end of effective Yuan rule in 1354 and the establishment of Qing rule in Tibet in 1720; even then Tibet exercised considerable autonomy until the 1790s. See Peter Perdue's *China Marches West* and Max Oidtmann's *Forging the Golden Urn*.
+That would be incorrect. Tibetan polities were independent for all intents and purposes between the end of effective Yuan rule in 1354 and the establishment of the Khoshut Khanate in 1642, although you can argue that even the Khoshut Khanate was effectively a Tibetan polity albeit with a ruling group of Mongolian origin. Qing rule in Tibet began in 1720, but even then it exercised considerable autonomy until the 1790s. See Peter Perdue's *China Marches West* and Max Oidtmann's *Forging the Golden Urn*.
 
 ### 558: [One of the most profound anti-Semitic allegation is the relationship between the Jew and money. Even Marx, rather vehemently mentions this in his 'On the Jewish Question'- " What is his secular god? Money...".](https://old.reddit.com/r/AskHistorians/comments/vi6fp9/one_of_the_most_profound_antisemitic_allegation/), submitted on 2022-06-22 22:22:48+08:00.
 
