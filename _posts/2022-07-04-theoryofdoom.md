@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-09
+date: 2022-07-10
 from: https://old.reddit.com/r/TheDesantisZone/comments/vqshnc/california_gov_gavin_newsom_attack_ad_on_floridas/
 layout: post
 tags:
@@ -66,4 +66,14 @@ Ardern is a nauseating disgrace to the western world.
 ----- __332.1__ -----2022-07-09 22:34:35+08:00:
 
 Just wild?  Seriously?
+
+### 333: [I had to take a test for HR with our work as they're doing an overhaul on management. I got intj, which is nice as it appears rare but](https://old.reddit.com/r/intj/comments/vvb1qv/i_had_to_take_a_test_for_hr_with_our_work_as/), submitted on 2022-07-10 05:00:24+08:00.
+
+----- __333.1__ -----2022-07-10 07:33:55+08:00:
+
+[Know thyself](https://www.youtube.com/watch?v=kl0rqoRbzzU&ab_channel=williamtruglio).  Psychometric testing is a means to that end. 
+
+Knowing that you're an INTJ is useful.  I am too.  My e/i ratio used to favor extroversion, but the older I get the more introverted I become.  But as others have said, if your employer is making you take a test wherein you are recorded to determine if you are cheating, it's time to get another job.  That isn't your main question, but it's the most salient thing you're going to take from this thread.
+
+As to accuracy, psychometric testing is controversial.  Some people swear by it.  Others do not.  But it's used by every major organization on earth, because it's useful.  You should spend some time looking at the other MBTI types and the analysis among the psychological literature focusing on how you'll interact with them.  Chances are, it will be an enlightening experience for you.  It certainly has been for me.
 
