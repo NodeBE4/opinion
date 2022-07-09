@@ -357,7 +357,7 @@ Re @JiangShangrong 是不是乌驻德大使那条拉屎宣言发布后，让盟�
 
 ### 86: [2022-05-05 04:22:25+08:00 推文](https://twitter.com/HeQinglian/status/1521948382708830208)
 
-习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
+RT He Qinglian<br>习近平对资本的态度为何飘移不定<br>4月29日中共政治局第三十八次集体学习的主题是“依法规范和引导中国资本健康发展”，推进公私合营2.0暂时踩了刹车。<br>本文从习近平的出身与教育，与成长年代“社会化过程”二者切入，指出习对资本既利用又限制且完全不信任的态度之养成背景。 <a href="https://www.epochtimes.com/gb/22/5/4/n13727235.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/4/n13727235.htm</a>
 
 ### 87: [2022-05-05 04:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1521949023522938880)
 
@@ -1065,7 +1065,7 @@ Re @oldbeijingman 我从不照顾底层逻辑框架，也绝对不会为了屈�
 
 ### 263: [2022-05-08 05:35:06+08:00 推文](https://twitter.com/HeQinglian/status/1523053835467444224)
 
-据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。<br><br>美国之音中文网: 塔利班再度命令阿富汗妇女在公开场合遮面<br> <a href="http://dlvr.it/SPxn67" target="_blank" rel="noopener noreferrer">http://dlvr.it/SPxn67</a>
+据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。
 
 ### 264: [2022-05-08 05:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1523056629234618369)
 
