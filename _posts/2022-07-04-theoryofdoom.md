@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-08
+date: 2022-07-09
 from: https://old.reddit.com/r/TheDesantisZone/comments/vqshnc/california_gov_gavin_newsom_attack_ad_on_floridas/
 layout: post
 tags:
@@ -60,4 +60,10 @@ This op-ed argues that geopolitical balance in Asia will depend on Central Asia,
 ----- __331.1__ -----2022-07-08 13:37:31+08:00:
 
 Ardern is a nauseating disgrace to the western world.
+
+### 332: [Unofficial Daily Update for 2022-07-08. 5403 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/vugr5g/unofficial_daily_update_for_20220708_5403_new/), submitted on 2022-07-09 02:00:10+08:00.
+
+----- __332.1__ -----2022-07-09 22:34:35+08:00:
+
+Just wild?  Seriously?
 
