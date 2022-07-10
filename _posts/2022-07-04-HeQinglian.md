@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -329,7 +329,7 @@ Re @owenusa 快了，还差五公里，普京也差点被抓，只差那么一�
 
 ### 79: [2022-07-06 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1544688323779764224)
 
-明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。<br><br>Ezio Mao☢: 这是老共两年前（2020年7月）提出来的，当时很多人还非常惊诧，其实就是提前布局，论下大棋，真的不是针对谁...啧啧啧<br><br><img style="" src="https://pbs.twimg.com/media/FW8rR_GaMAAYuy4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。
 
 ### 80: [2022-07-06 22:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1544688512577986560)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -445,11 +445,11 @@ Re @LeungBread 不是正在发动网络政变，差点抓到他了？你且等�
 
 ### 108: [2022-07-07 20:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1545024269620584450)
 
-WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。<br><br>华尔街日报中文网: 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
+WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。
 
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
-说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/jacob43817149/status/1544766052021813249</a>
+说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/Jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/Jacob43817149/status/1544766052021813249</a>
 
 ### 110: [2022-07-07 23:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1545065171353206784)
 
@@ -695,31 +695,55 @@ Re @JianglinLi @lily_lama99 beettle Trap。现在可能有点晚了。我早就�
 
 Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与鸟，放弃了。<br>种了一棵南玉兰，鹿将开花后的花苞啃得光光的。樱花树鹿昂头能吃到的部分，枝条也很惨。希望长高点后啃不到的部分能够保全。
 
-### 171: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
+### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
+
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
+
+### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
 Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
-### 172: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
+### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
 Re @Wu_Zhi @calvin2start @JianglinLi @david_david1968 如果能够打击，就算自杀，也算一死成仁。<br>估计还是有作用的，德国宁可自杀也不买俄的天然气，俄罗斯就卖不出去了，只能对着油田相对而泣，普京等克里姆林宫政要在绝望感中生活，说不定还有人要政变。😂
 
-### 173: [2022-07-10 04:13:29+08:00 推文](https://twitter.com/HeQinglian/status/1545863733343391744)
+### 174: [2022-07-10 04:13:29+08:00 推文](https://twitter.com/HeQinglian/status/1545863733343391744)
 
 Re @Wu_Zhi @JianglinLi 重要的是：布林肯当面向王毅提出这要求没有？如果只是大外宣说说，中国没听见，并且清单里第一份就是“错误言论”。
 
-### 174: [2022-07-10 04:15:33+08:00 推文](https://twitter.com/HeQinglian/status/1545864252224839680)
+### 175: [2022-07-10 04:15:33+08:00 推文](https://twitter.com/HeQinglian/status/1545864252224839680)
 
 Re @Wu_Zhi @calvin2start @JianglinLi @david_david1968 这是我近来冒出来的想法。<br>推特上蠢货太多，这些部长们常看推特，降低了智商。<br>我今天就遇到两个，全拉黑了。就这么不懂人事，留在这里，碍眼。
 
-### 175: [2022-07-10 05:19:49+08:00 推文](https://twitter.com/HeQinglian/status/1545880426379632641)
+### 176: [2022-07-10 05:19:49+08:00 推文](https://twitter.com/HeQinglian/status/1545880426379632641)
 
 Re @JianglinLi 斯里兰卡搞绿色新政，当真是不知道自己是谁了。
 
-### 176: [2022-07-10 05:22:06+08:00 推文](https://twitter.com/HeQinglian/status/1545881000869347331)
+### 177: [2022-07-10 05:22:06+08:00 推文](https://twitter.com/HeQinglian/status/1545881000869347331)
 
 Re @JianglinLi @5yHLSCyBaAdwQz6 @Wu_Zhi 现在知道，多半是自己哄自己胡编的“信息”，与现实世界关系不大。美乌信息战充分证明了这点。<br>平常没事，用来指导战争，敌方可不听他们吆喝。
 
-### 177: [2022-07-10 05:32:12+08:00 推文](https://twitter.com/HeQinglian/status/1545883543599030274)
+### 178: [2022-07-10 05:32:12+08:00 推文](https://twitter.com/HeQinglian/status/1545883543599030274)
 
 Re @JianglinLi 这货先将美国自身的问题解决吧。
+
+### 179: [2022-07-10 07:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1545918359417638912)
+
+Re @Tianshuihanyan 没想到“不服从者不得食”出现在民主灯塔。
+
+### 180: [2022-07-10 07:58:51+08:00 推文](https://twitter.com/HeQinglian/status/1545920450219413504)
+
+Re @shenliangqing2 这场代理人战争，用美国历来的地缘政治理论来解释再合适不过。<br>非要套用列宁的战争论（正义、非正义）反而不合适。<br>很多人并不知道这是列宁的理论。
+
+### 181: [2022-07-10 10:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1545951072702840832)
+
+俄乌战争后果：西方绿能计划悄然“洗绿”<br><br>欧盟重新将天然气、核能洗绿，煤电重新回归，证明俄乌战争中最先倒下的既非遭受全面制裁的俄罗斯经济，也不是在战火中煎熬的乌克兰，而是西方国家雄心万丈要不惜一切代价推广的绿色能源计划。<br>历史无数次证明，左派理想就是空想。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/opinion-western-countries-green-energy-schemes" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/opinion-western-countries-green-energy-schemes</a>
+
+### 182: [2022-07-10 10:03:49+08:00 推文](https://twitter.com/HeQinglian/status/1545951896610938881)
+
+Re @Joshua45651 @Tianshuihanyan 美国军人参政的少了？就最高法的堕胎判决表态算不算？
+
+### 183: [2022-07-10 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1545952206435876865)
+
+Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>权力在手，解释权就由得权力操弄者了。
 
