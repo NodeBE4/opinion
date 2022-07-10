@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 5: [2022-06-21 08:03:30+08:00 推文](https://twitter.com/realcaixia/status/1539036247766839296)
 
-他们把所有政治异见人士都打上颠覆罪。所有真正的民主选举国家，根本没有这条罪名，哪个政府敢立这条罪名，政府首脑首先自己将站在罪犯席上。中共当局这条罪名就是他们公开进行人权迫害的不可抵赖的罪证。
+他们把所有政治异见人士都打上颠覆罪。所有真正的民主选举国家，根本没有这条罪名，哪个政府敢立这条罪名，政府首脑首先自己将站在罪犯席上。中共当局这条罪名就是他们公开进行人权迫害的不可抵赖的罪证。<br><br>Luo Shengchun丁家喜律师妻子: 震惊最新消息：志永被控颠覆国家政权案将于2022年6月22日上午9时在山东省临沂市临沭县法院不公开开庭审理。<br><br>我真不敢相信自己的耳朵：志永怎么会答应不公开开庭？他们是不是给他灌药了？而且他们为什么突然不让律师会见家喜？是不是他们逼迫家喜同意不公开开庭，而家喜不答应就不让他见律师？真无耻！<br> <a href="https://twitter.com/luoshch/status/1537844902314254339" target="_blank" rel="noopener noreferrer">https://twitter.com/luoshch/status/1537844902314254339</a>
 
 ### 6: [2022-06-21 08:17:15+08:00 推文](https://twitter.com/realcaixia/status/1539039711850901506)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。
+习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
