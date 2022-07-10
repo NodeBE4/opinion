@@ -77,3 +77,9 @@ Knowing that you're an INTJ is useful.  I am too.  My e/i ratio used to favor ex
 
 As to accuracy, psychometric testing is controversial.  Some people swear by it.  Others do not.  But it's used by every major organization on earth, because it's useful.  You should spend some time looking at the other MBTI types and the analysis among the psychological literature focusing on how you'll interact with them.  Chances are, it will be an enlightening experience for you.  It certainly has been for me.
 
+### 334: [How is Peter Zeihan considered among geopolitical experts? I've started reading his books and am curious where he falls amongst his peers.](https://old.reddit.com/r/geopolitics/comments/vvo3c0/how_is_peter_zeihan_considered_among_geopolitical/), submitted on 2022-07-10 17:45:43+08:00.
+
+----- __334.1__ -----2022-07-11 05:13:27+08:00:
+
+This general discussion text post should not have been approved. If you want to submit general discussion items, do it on /r/geopolitics2.
+
