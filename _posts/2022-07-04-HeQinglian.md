@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -701,7 +701,7 @@ RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆�
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
@@ -746,4 +746,40 @@ Re @Joshua45651 @Tianshuihanyan 美国军人参政的少了？就最高法的堕
 ### 183: [2022-07-10 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1545952206435876865)
 
 Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>权力在手，解释权就由得权力操弄者了。
+
+### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
+
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
+
+### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
+
+Re @yu_su_chen 我这是信吗？你是如何读的？<br>我从来不绝对相信什么与不相信什么，判别什么是事实，经验丰富。
+
+### 186: [2022-07-10 21:44:29+08:00 推文](https://twitter.com/HeQinglian/status/1546128226640093185)
+
+Re @Fumitoku_T 我三次去日本，日本人都是这么对我说的。
+
+### 187: [2022-07-10 21:51:05+08:00 推文](https://twitter.com/HeQinglian/status/1546129887601348609)
+
+Re @yu_su_chen 重点在中国与韩国。
+
+### 188: [2022-07-10 23:02:17+08:00 推文](https://twitter.com/HeQinglian/status/1546147807068884993)
+
+Re @wangxiang2021 有报导说东京警视厅派了7个安保人员。现在消息混乱。
+
+### 189: [2022-07-10 23:13:25+08:00 推文](https://twitter.com/HeQinglian/status/1546150608813670400)
+
+Re @JianglinLi @Wu_Zhi @ngexp @RealBeiMing @david_david1968 斯里兰卡因其在一带一路中的地理位置，一直是中美重点争夺的小国。几年前，就说斯里兰卡是中国“债务陷阱”的受害者，还来美国做过证，向美国借钱还债（结果不知，未追踪）。<br>看来借钱有条件，绿色农业。<br>但中国借债给外国，最终不是免除债务就是交换利益，做不了黄世仁。<br>估计真实信息会陆续出来。
+
+### 190: [2022-07-10 23:30:49+08:00 推文](https://twitter.com/HeQinglian/status/1546154984332566528)
+
+Re @JianglinLi @mingshi_chen @Wu_Zhi @ngexp @RealBeiMing @david_david1968 新泽西这几年州农业部门不再杀虫，树林无法应付大的虫灾，比如去年的十七年蝉吸树汁，不少树干干枯了，小树死了好多，随处可见。<br>以前我的园子不太要施农药，现在是从春天开始到秋初，各种杀虫剂都得用上。
+
+### 191: [2022-07-10 23:42:47+08:00 推文](https://twitter.com/HeQinglian/status/1546157995721211906)
+
+Re @david_david1968 我查了一下，斯里兰卡去年就陷入绿色农业引发的粮食危机了，搜索一下，满屏都是。
+
+### 192: [2022-07-10 23:44:53+08:00 推文](https://twitter.com/HeQinglian/status/1546158525050748928)
+
+Re @JianglinLi @CocoMin75622555 @mingshi_chen @Wu_Zhi @ngexp @RealBeiMing @david_david1968 我昨天埋了一整袋甲壳虫在垂枝樱旁边，今天早上发现被动物扒开了，满地都是死虫。<br>动物已经率先响应左派号召了。😅
 
