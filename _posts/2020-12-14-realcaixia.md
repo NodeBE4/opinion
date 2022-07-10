@@ -37,7 +37,7 @@ Re @seeyoua22819375 谢谢您建议。推特的容量不可能谈深谈透这类
 
 ### 6: [2020-12-14 21:43:01+08:00 推文](https://twitter.com/realcaixia/status/1338479611647324160)
 
-概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位… <a href="https://twitter.com/rongjian1957/status/1338450432759230464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1338450432759230464</a>
+概括的好！邪恶的制度下，一定会出现黑白颠倒；一定出现逆淘汰；一定成为荒谬虚伪的国家。说真话的进监狱，说谎成性的风光招摇；辛苦创业的进监狱；窃国抢民的头顶光环；善良正直的进监狱，丧天良无人性的爬上高位…<br><br>荣剑: 新三个凡是，概括还是蛮精准的。<br><br><img style src="https://pbs.twimg.com/media/EpMhkxDUwAAh9Dd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2020-12-15 00:15:58+08:00 推文](https://twitter.com/realcaixia/status/1338518099339997193)
 
