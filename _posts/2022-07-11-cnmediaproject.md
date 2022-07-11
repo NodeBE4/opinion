@@ -23,3 +23,7 @@ RT Jennifer Zeng 曾錚<br>This is huge. Don't know how this will end. Henan b
 
 Really interesting and informative interview by @fangkc of Lucia Shen, founder of DxChannel (当下频道), a video brand focused on China's millennial generation. <a href="https://chinamediaproject.org/2022/07/11/dxchannel-explanatory-journalism-through-video/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/11/dxchannel-explanatory-journalism-through-video/</a><br><img style="" src="https://pbs.twimg.com/media/FXXoSygaQAANWkH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-07-11 22:00:57+08:00 推文](https://twitter.com/lingli_vienna/status/1546494758889181186)
+
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Back in March, Fu Zhenghua was accused by CCDI for carrying weapon w/o authorization. But this offense was not shown in the criminal complaint of the prosecution revealed today. <br><br>In contrast, Sun Lijun was not accused by CCDI for this offense but was prosecuted for it.
+

@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-11
+date: 2022-07-12
 from: https://twitter.com/HeQinglian/status/1546189742131367936
 layout: post
 tags:
@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -86,4 +86,36 @@ Re @shiqiong2000 自己去查吧，这是英文资料这几天的热点。<br>�
 ### 18: [2022-07-11 21:51:51+08:00 推文](https://twitter.com/HeQinglian/status/1546492466119020544)
 
 Re @Tepezano161 好主意，浙江人脑子快，抓住商机，说不定就是一笔大单。不过一定得在煤球炉上标明使用方法：开窗保持空气流通，以免发生事故。
+
+### 19: [2022-07-11 23:53:20+08:00 推文](https://twitter.com/HeQinglian/status/1546523042444185602)
+
+Re @farmdirect8 你我都要做园子活，希望这些蚊子去找主人。
+
+### 20: [2022-07-11 23:55:52+08:00 推文](https://twitter.com/HeQinglian/status/1546523677885403138)
+
+Re @shenliangqing2 实不实，自己去查。用几个关键英文词，第一页上全是这条消息。<br>这几年世界发生的坏事太多了，你一时还消化不了。
+
+### 21: [2022-07-12 00:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1546526221739216898)
+
+这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。<br><br>井上-Z-不二雄: 总统杠上贝索斯，后果很严重。亿万富翁拥有的传媒，不需要做什么，只需要如实报道（停止帮总统擦屁股）就够总统喝一壶的。<br> <a href="https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty</a>
+
+### 22: [2022-07-12 00:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1546528212775276546)
+
+西方世界的多米诺骨牌正在一块块倒下，各国情况不一，倒的原因也有异；<br>英相约翰逊的原因是英国选他因为其保守姿态，结果发现他成了左派，狂到要建立现代罗马帝国；<br>德总理肖尔茨乃因制裁不坚决，阻挠给乌克兰拨款，因此与优步的合同曝光，其Party上出现多起性迷幻药事件；<br>荷意波等国农民反气候政策。
+
+### 23: [2022-07-12 00:16:41+08:00 推文](https://twitter.com/HeQinglian/status/1546528915073662980)
+
+Re @Wu_Zhi 如果让拜登因病请辞，宪法的顺位就是这样。
+
+### 24: [2022-07-12 00:20:19+08:00 推文](https://twitter.com/HeQinglian/status/1546529831441121283)
+
+Re @Wu_Zhi 从战略上来看，让俄罗斯人没饭吃，也算打击敌人的有生力量与后续补给。😅
+
+### 25: [2022-07-12 00:23:08+08:00 推文](https://twitter.com/HeQinglian/status/1546530540114919425)
+
+Re @cskun1989 中美关系发生微妙变化，全因美国知机，连对方四份咄咄逼人的清单（至少两份带巨大的刺），也吞了下去。<br>这事对习近平有利，至少传说中的反对派不能说他丧权辱国，以此动员党内的反对力量。
+
+### 26: [2022-07-12 00:55:12+08:00 推文](https://twitter.com/HeQinglian/status/1546538611549536256)
+
+Re @Bforge3 这种话你最好就当阵风。<br>制度也是人运作的。
 
