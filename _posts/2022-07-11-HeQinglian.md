@@ -25,7 +25,7 @@ Re @bcyixiu 这我还真不能写，主要原因是：我并不比你们了解�
 
 ### 3: [2022-07-11 02:05:45+08:00 推文](https://twitter.com/HeQinglian/status/1546193978126733313)
 
-将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。
+将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。<br><br>华尔街日报中文网: #本周热读 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 4: [2022-07-11 04:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1546226957813256192)
 
@@ -62,4 +62,28 @@ Re @took71606443 全世界都欠，包括贵国。
 ### 12: [2022-07-11 21:12:48+08:00 推文](https://twitter.com/HeQinglian/status/1546482639892353024)
 
 Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，除了德国，谁会逼和？金毛第二次去了基辅，正在培训乌克兰军，定好指标的。
+
+### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
+
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
+
+### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
+
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
+
+### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
+
+Re @david_david1968 据公开资料，自家承认手中有拜登儿子资料的机构计有：FBI、华盛顿邮报、纽约邮报。FBI解码资料是职责，华邮说自家正在读（反驳纽约邮报称拜登儿子拥有病毒实验室之说时说的，说有，但那是健康研究），纽约邮报应该也会找人查阅解码。
+
+### 16: [2022-07-11 21:46:09+08:00 推文](https://twitter.com/HeQinglian/status/1546491032572944384)
+
+Re @ninggongyu @david_david1968 不管你是否嘲讽，我转发信息，基本列有出处，而且并非自媒体。
+
+### 17: [2022-07-11 21:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1546491789590384641)
+
+Re @shiqiong2000 自己去查吧，这是英文资料这几天的热点。<br>恐怖片看多了的人不是我，是美国左派，连骄傲月的服装都来自恐怖片。
+
+### 18: [2022-07-11 21:51:51+08:00 推文](https://twitter.com/HeQinglian/status/1546492466119020544)
+
+Re @Tepezano161 好主意，浙江人脑子快，抓住商机，说不定就是一笔大单。不过一定得在煤球炉上标明使用方法：开窗保持空气流通，以免发生事故。
 
