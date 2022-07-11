@@ -25,3 +25,9 @@ This low quality text post has received multiple reports and should not have bee
 
 This low-quality text post should not have been approved.  General discussion items concerning only a single country are not appropriate for this subreddit.  If you wish to submit general discussion items, do it on /r/geopolitics2.
 
+### 337: [Are China’s demographic issues really that big of a deal?](https://old.reddit.com/r/geopolitics/comments/vw7ui5/are_chinas_demographic_issues_really_that_big_of/), submitted on 2022-07-11 10:41:37+08:00.
+
+----- __337.1__ -----2022-07-11 19:49:41+08:00:
+
+Issues concerning a single country's internal affairs are not appropriate for this subreddit.  This post should not have been approved.
+
