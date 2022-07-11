@@ -27,6 +27,10 @@ Well, those are their primary Sinitic languages, but from the stream it's clear 
 
 I mean, Noel's hardly the most SFW of Holomems.
 
+----- __592.4__ -----2022-07-11 07:52:56+08:00:
+
+My Contrived Conspiracy Conjecture a few months ago was that this had to do with going public. Merging it into the profitable main branch would mean that it'd be harder for shareholders to pressure Anycolor into dropping the ID members because they'd now be part of the general Nijisanji group rather than a self-contained branch. Whether that's to stave off potential nationalistic types or because ID was operating at or near a loss, I don't know; and I also came up with this before a lot of the documents about Anycolor's business figures started coming out.
+
 ### 593: [How long have people been using "say cheese" to get people to smile in pictures?](https://old.reddit.com/r/AskHistorians/comments/vrpbh7/how_long_have_people_been_using_say_cheese_to_get/), submitted on 2022-07-05 12:14:31+08:00.
 
 ----- __593.1__ -----2022-07-05 13:41:47+08:00:
