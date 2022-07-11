@@ -31,7 +31,7 @@ RT @jdocs: 【テレビ】3/31（木）テレ東 27時05分<br>ザ・ドキュ�
 
 ### 4: [2022-04-02 06:34:09+08:00 推文](https://twitter.com/nathanlawkc/status/1510022736676102144)
 
-Even though he is jailed for more than a year and doesn't know when he can get out, Joshua never gives up and remains in good spirit.<br>Activists like him, Jimmy Lai and Benny Tai are in Stanley Prison, Hong Kong's highest security prison. These are blatant political persecution.<br><br>Joshua Wong 黃之鋒 😷: Joshua was transferred to Stanley Prison after finishing his sentence early this month. In January, HK Court of Appeal reduced Joshua's sentence to 8 months for participating in the June 4th Vigil. The date of his NSL trial is yet to be fixed while he remains in custody.<br>
+Even though he is jailed for more than a year and doesn't know when he can get out, Joshua never gives up and remains in good spirit.<br>Activists like him, Jimmy Lai and Benny Tai are in Stanley Prison, Hong Kong's highest security prison. These are blatant political persecution.
 
 ### 5: [2022-04-02 20:58:35+08:00 推文](https://twitter.com/nathanlawkc/status/1510240275855200260)
 
