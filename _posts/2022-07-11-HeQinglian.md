@@ -37,7 +37,7 @@ Re @Bforge3 @Wu_Zhi 开会嘛，就是开会。
 
 ### 6: [2022-07-11 08:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1546296130752987136)
 
-这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。
+这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。<br><br>DW 中文- 德国之声: 在出席完G20外长会议后，德国外长贝尔伯克取道帕劳前往日本。在长崎，贝尔伯克呼吁全球各国放弃核武器。<br> <a href="https://p.dw.com/p/4DvdG" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DvdG</a>
 
 ### 7: [2022-07-11 10:54:40+08:00 推文](https://twitter.com/HeQinglian/status/1546327081554001920)
 
@@ -262,4 +262,8 @@ Re @realTaoRay @RFI_Cn 有些人自己傻，还要别人傻。我刚才将一位
 ### 62: [2022-07-13 05:39:18+08:00 推文](https://twitter.com/HeQinglian/status/1546972494803996675)
 
 外交政策今年3月的文章《在斯里兰卡，有机农业出现了灾难性的错误》说了几个要点：<br>1、在经济状态不好、90%农民依靠化肥的情况下推行绿色农业，导致物价疯涨，很多人买不起粮食，蔬菜供应短缺；<br>2、负责推广的并非农业专家，而是一小群人包括环保组织借此牟利。 <a href="https://foreignpolicy.com/2022/03/05/SRI-LANKA-ORGANIC-FARMING-CRISIS/" target="_blank" rel="noopener noreferrer">HTTPS://FOREIGNPOLICY.COM/2022/03/05/SRI-LANKA-ORGANIC-FARMING-CRISIS/</a>
+
+### 63: [2022-07-13 05:41:55+08:00 推文](https://twitter.com/HeQinglian/status/1546973150981791744)
+
+Re 《纽约时报》2021年12月的文章《在斯里兰卡，政府越来越像家族企业》<br>戈塔巴亚·拉贾帕克萨总统的三个兄弟现在在他的政府中担任要职。 他的两个侄子也有官方职位。 <a href="https://www.nytimes.com/2021/07/10/world/asia/sri-lanka-basil-rajapaksa.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2021/07/10/world/asia/sri-lanka-basil-rajapaksa.html?action=click&amp;module=RelatedLinks&amp;pgtype=Article</a>
 
