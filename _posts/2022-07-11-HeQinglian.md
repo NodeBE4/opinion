@@ -37,7 +37,7 @@ Re @Bforge3 @Wu_Zhi 开会嘛，就是开会。
 
 ### 6: [2022-07-11 08:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1546296130752987136)
 
-这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。<br><br>DW 中文- 德国之声: 在出席完G20外长会议后，德国外长贝尔伯克取道帕劳前往日本。在长崎，贝尔伯克呼吁全球各国放弃核武器。<br> <a href="https://p.dw.com/p/4DvdG" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DvdG</a>
+这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。
 
 ### 7: [2022-07-11 10:54:40+08:00 推文](https://twitter.com/HeQinglian/status/1546327081554001920)
 
@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -170,4 +170,16 @@ Re @diverpassby 那港口是租借的。港口之后，中国还借了不少。
 ### 39: [2022-07-12 05:46:07+08:00 推文](https://twitter.com/HeQinglian/status/1546611822891073537)
 
 Re @mayuki753 还真不是，台湾政府现在没钱在海外搞大外宣了。
+
+### 40: [2022-07-12 10:45:52+08:00 推文](https://twitter.com/HeQinglian/status/1546687255804317697)
+
+Re @fangfang_wuhan 不是这意思。国际政治，号别人的脉容易。
+
+### 41: [2022-07-12 10:52:33+08:00 推文](https://twitter.com/HeQinglian/status/1546688938550726660)
+
+Re @JiangShangrong 泽连斯基的大决战还没完呢，打完这仗再回来吧。
+
+### 42: [2022-07-12 10:56:21+08:00 推文](https://twitter.com/HeQinglian/status/1546689893375549441)
+
+加拿大怎么不学习美国加州，立法规定与未成年人发生关系不算强奸？<br>加州现在的立法，已经将许多犯罪无罪化了。<br><br>Amy: 特鲁多和一个未成年人发生性关系，然后让她签署保密协议。【他们】再也无法隐藏即将到来的一切！！！ <br>Trudeau has sex with a minor, then makes her sign an NDA.  [They] can no longer hide what is coming!!!<br><br><video src="https://video.twimg.com/ext_tw_video/1546547588815458304/pu/vid/720x720/u2IGMynR5CMi1kK0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546547588815458304/pu/img/W_sGRa3UpKGF0Z6X.jpg"></video>
 

@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-11
+date: 2022-07-12
 from: https://twitter.com/jenniferatntd/status/1546168180388806656
 layout: post
 tags:
@@ -26,4 +26,16 @@ Really interesting and informative interview by @fangkc of Lucia Shen, founder o
 ### 3: [2022-07-11 22:00:57+08:00 推文](https://twitter.com/lingli_vienna/status/1546494758889181186)
 
 RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Back in March, Fu Zhenghua was accused by CCDI for carrying weapon w/o authorization. But this offense was not shown in the criminal complaint of the prosecution revealed today. <br><br>In contrast, Sun Lijun was not accused by CCDI for this offense but was prosecuted for it.
+
+### 4: [2022-07-12 10:42:09+08:00 推文](https://twitter.com/cnmediaproject/status/1546686321707876352)
+
+In the latest CMP interview, @fangkc speaks to Lucia Shen of DxChannel, an innovative a video brand focused on China’s millennial generation. <a href="https://chinamediaproject.org/2022/07/11/dxchannel-explanatory-journalism-through-video/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/11/dxchannel-explanatory-journalism-through-video/</a><br><img style="" src="https://pbs.twimg.com/media/FXbu4ziaUAA4dQk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-07-12 10:44:17+08:00 推文](https://twitter.com/cnmediaproject/status/1546686855617593345)
+
+Re This is a fascinating inside look at media projects, business models and how talented Chinese teams navigate a tough environment to determine what can and can't be done: "In these kinds of cases, you are bound to fall into the challenge or trap of self-censorship."
+
+### 6: [2022-07-12 10:46:05+08:00 推文](https://twitter.com/cnmediaproject/status/1546687311957852161)
+
+For those who missed it: CMP's must-read on the CCP's not-so-secret system of pen names for powerful people and ministries. Important knowledge for those reading Chinese politics through the media. <a href="https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/23/pen-names-for-power-struggles/</a><br><img style="" src="https://pbs.twimg.com/media/FXbvxRSagAAhewR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
