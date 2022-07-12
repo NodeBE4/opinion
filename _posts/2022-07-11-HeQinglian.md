@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-12
+date: 2022-07-13
 from: https://twitter.com/HeQinglian/status/1546189742131367936
 layout: post
 tags:
@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -190,4 +190,48 @@ Re @star739 这类粉丝，还是不要的好。
 ### 44: [2022-07-12 22:21:03+08:00 推文](https://twitter.com/HeQinglian/status/1546862203558658049)
 
 港媒：20大冠称习近平领袖 与毛泽东齐名 <br>问：不是昨天还在说政变么？政变了哪还有机会冠称领袖？ <a href="https://rfi.my/8Zkb.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Zkb.T</a>
+
+### 45: [2022-07-12 23:04:15+08:00 推文](https://twitter.com/HeQinglian/status/1546873077388247041)
+
+英相強生──西方倒下的第一塊多米諾骨牌<br>本文分析了近期欧洲政治动荡背后的共同点，指出俄乌战争现状之所以与西方左派阵营预测成南辕北辙，首先是美乌共享信息战欺人不成最后欺骗自己；其次在于西方阵营完全错估形势，在欧盟对俄能源高度依赖且未找到替代渠道之前贸然制裁， <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=148984" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=148984</a>
+
+### 46: [2022-07-12 23:07:43+08:00 推文](https://twitter.com/HeQinglian/status/1546873947958005765)
+
+Re @Wu_Zhi @JianglinLi 文中谈的爱沙尼亚，其实也算，只是人家改了章程。
+
+### 47: [2022-07-13 00:49:58+08:00 推文](https://twitter.com/HeQinglian/status/1546899680008757248)
+
+Re @YongzuoLi 以信息战的标准，已经倒了，你高兴一点吧。别来我这里不高兴。
+
+### 48: [2022-07-13 01:15:14+08:00 推文](https://twitter.com/HeQinglian/status/1546906037722161155)
+
+Re @YongzuoLi 正好说反了。
+
+### 49: [2022-07-13 01:20:34+08:00 推文](https://twitter.com/HeQinglian/status/1546907381107408897)
+
+Re @OfcIQOD2XkWhsKt 对中国的围剿，主要是信息-宣传战。中国的出口形势太好了，出于中国政府意料之外。<br>拒买中国产品，才算是围剿。
+
+### 50: [2022-07-13 01:25:46+08:00 推文](https://twitter.com/HeQinglian/status/1546908688732004352)
+
+Re @Wu_Zhi 这意思很明白：只能让我方主动切断，想要有立刻就有；不允许供方掌握切断的主动权。<br>毛文革时，有句话：只许好人打坏人，不许坏人打好人——讲的就是这个理。
+
+### 51: [2022-07-13 01:26:58+08:00 推文](https://twitter.com/HeQinglian/status/1546908989895712775)
+
+Re @KELMAND1 希望乌克兰人死的人太多了，包括我这里有女推友，要求乌克兰战斗至最后一人，而且不止一次表态。
+
+### 52: [2022-07-13 01:31:39+08:00 推文](https://twitter.com/HeQinglian/status/1546910172085379080)
+
+Re @Wu_Zhi 另外，乌克兰政府现在处于极度紧张状态，这些说话，就不用太认真对待了。姑妄听之吧。<br>比如，那个集结500万军队的终极之战，我对500万表示怀疑。但他应该另有依据——昨天纽约那躲进“防空洞”（掩体）的动员，不知是听了白宫啥招呼。
+
+### 53: [2022-07-13 01:36:24+08:00 推文](https://twitter.com/HeQinglian/status/1546911365142659073)
+
+Re @fading_you1 我觉得真正的世界大战未必来——除了拜登政府觉得只有打仗才能稳固执政权。<br>但西方金融体系的风险却是眼睛看得明白的事情。
+
+### 54: [2022-07-13 01:41:06+08:00 推文](https://twitter.com/HeQinglian/status/1546912546896199680)
+
+Re @shenliangqing2 加州这几年有许多奇葩法律。比如自我心理认同的男犯可以住到女监，许多民主党州学了这。<br>学校里也实行这，因此麻省某县中学发生强奸事件，女学生父亲状告此事，结果自己被抓。最后弄出好大件事来，好不容易为女生 讨得公道，女生母亲又原谅该犯。
+
+### 55: [2022-07-13 01:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1546913784475820032)
+
+德国漂绿是真的，但是否取消碳中和目标，还得查核一下。不过，虽然这位是某些人眼中说什么都错的中国人，但这次却说得非常对，因为事实摆在那里：天然气、核能全部漂绿，煤炭开采也恢复了。<br>原来，绿能奠基于他国进口能源并购买碳排放额度指标上。<br><br>薛丁丁归来: #德国取消2035年碳中和目标   读书的时候老师就说过，现在大部分标准是欧美人定的，打着环保等名义，其实用来限制后发国家，等你们真的做到了，他又会出一套新的标准继续限制你，当然，如果他们做不到，他们随时会把标准废除。我们努力的方向不是去追求西方标准，而是要凭实力，把标准制定权抢过来。<br><br><video src="https://video.twimg.com/ext_tw_video/1546668011788021760/pu/vid/856x480/qwn2QPe7h3wiqVtA.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546668011788021760/pu/img/GdO-BowXHBTATi_l.jpg"></video>
 
