@@ -221,11 +221,11 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
-路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？<br><br>北明BeiMing: 上海疫情，ICU醫生怒而發言： <br><br>你们都什么专业要挑战人家吃饭的本事。这种脑子送给我们神经外科研究一下，为什么会长成这样。<br><br>張文宏月份就预见omicron的影响, 建議上海針對疫情規模，超過5到10倍的預警案，提出各項具體措施。<br><br>控制民间舆论，业内的也控制，發國難財……。<br><br><img style="" src="https://pbs.twimg.com/media/FRXaPX9XoAoRJjv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q</a>
+路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？ <a href="https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/</a>
 
 ### 54: [2022-04-28 03:36:01+08:00 推文](https://twitter.com/HeQinglian/status/1519399992141750273)
 
