@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
