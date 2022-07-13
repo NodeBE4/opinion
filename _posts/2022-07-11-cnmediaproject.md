@@ -83,3 +83,7 @@ For those who missed it: A former investigative reporter reflects on the great i
 
 This piece from Beijing Daily on China's "trunk economy" (后备厢经济) is fascinating. Young people finding creative ways to make ends meet in a struggling economy. <a href="https://mp.weixin.qq.com/s/NHfMbyAM6vGoVhXXVMb-iQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/NHfMbyAM6vGoVhXXVMb-iQ</a><br><img style="" src="https://pbs.twimg.com/media/FXjsoifVUAAQagQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 18: [2022-07-13 23:51:40+08:00 推文](https://twitter.com/cnmediaproject/status/1547247394630148098)
+
+Re With obligatory finger wagging at the end about how the REAL trunk economy would mean people registering businesses, paying taxes and abiding the authorities.<br><img style="" src="https://pbs.twimg.com/media/FXjtThYUIAAS6H7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
