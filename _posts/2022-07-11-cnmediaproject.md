@@ -45,7 +45,7 @@ For those who missed it: CMP's must-read on the CCP's not-so-secret system of pe
 
 ### 8: [2022-07-12 22:34:20+08:00 推文](https://twitter.com/LiyaYuBerlin/status/1546865545231757312)
 
-RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Columbia Univ Press: Now Available! VULNERABLE MINDS "is a wonderful example of interdisciplinary scholarship on the brain and society, and prudent reading given humanity’s current crises." - @lasana_harris<br><br><img style="" src="https://pbs.twimg.com/media/FXFOZ3pXEAAa4h9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://buff.ly/3HBKgOg" target="_blank" rel="noopener noreferrer">https://buff.ly/3HBKgOg</a>
+RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-07-13 06:33:48+08:00 推文](https://twitter.com/relevantorgans/status/1546986209016066049)
 
@@ -70,4 +70,12 @@ Re An event last year in a digital literacy education classroom in Chongqing foc
 ### 14: [2022-07-13 08:19:29+08:00 推文](https://twitter.com/cnmediaproject/status/1547012805664317440)
 
 Re CMP's post today is important context as China hosts its World Internet Conference (WIC) this week on the theme of building a "community of shared future in cyberspace." While priorities certainly can overlap, China's core values here have important differences.<br><img style="" src="https://pbs.twimg.com/media/FXgXjEOacAAdxfr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-07-13 15:09:17+08:00 推文](https://twitter.com/cnmediaproject/status/1547115935798280193)
+
+As China holds its World Internet Conference (WIC) read up on how China's leaders understand "digital literacy" and its key priorities. An important primer for how the CCP speaks a different language when it comes to cyberspace. <a href="https://chinamediaproject.org/2022/07/13/hijacking-digital-literacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/13/hijacking-digital-literacy/</a><br><img style="" src="https://pbs.twimg.com/media/FXh1orhaAAAU_XY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-07-13 15:11:28+08:00 推文](https://twitter.com/cnmediaproject/status/1547116485843513344)
+
+For those who missed it: A former investigative reporter reflects on the great influence of journalist Yang Haipeng, who recently passed away -- and reflects on the toll repression has taken on those pushing for greater fairness in China. <a href="https://chinamediaproject.org/2022/07/05/a-tribute-to-the-journalists-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/05/a-tribute-to-the-journalists-spirit/</a><br><img style="" src="https://pbs.twimg.com/media/FXh2OFzaMAEVnVu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

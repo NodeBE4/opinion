@@ -149,3 +149,9 @@ At least they're not parroting his indignation over white people not being allow
 
 This has been your per-thread reminder that Karl Jobst is a neo-Nazi.
 
+----- __600.2__ -----2022-07-13 16:23:23+08:00:
+
+There's a whole thread on it [here](https://www.reddit.com/r/speedrun/comments/poxb2h/tomatoanus_cutting_all_ties_with_karl_jobst/) on r/speedrun. Jobst managed to cover his trail by deleting a lot of the evidence and issuing a response video that only went after the wilder claims and not the underlying substance, but even the evidence that remains shows he's been metaphorically in bed with neo-Nazis for years.
+
+EDIT: I mean also, Jobst openly paraded the fact that Notch was providing his legal fees in a suit with Billy Mitchell (Notch, if anyone wasn't already aware, is an antifeminist, transphobe, and homophobe, once tweeted about white pride, and openly supported QAnon), and also made a video attempting to exonerate Dream's Minecraft speedrun cheating, so to be frank, he's likely exhausted any scrap of credibility he had.
+
