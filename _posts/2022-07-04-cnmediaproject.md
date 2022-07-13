@@ -71,15 +71,19 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Party-spirit elevation chamber<br><br>The deco
 
 RT Neil Thomas 牛犇<br>Thrilled to co-author with @mcgregorrichard this @NikkeiAsia cover story on the next generation of Chinese foreign policy leaders<br><br>Who's stepping down, who are the rising stars, and whither the "wolf warriors" in Xi Jinping's third term as leader? (1/18) <a href="https://asia.nikkei.com/Spotlight/The-Big-Story/The-next-wolf-warriors-China-readies-new-generation-of-tough-diplomats" target="_blank" rel="noopener noreferrer">https://asia.nikkei.com/Spotlight/The-Big-Story/The-next-wolf-warriors-China-readies-new-generation-of-tough-diplomats</a>
 
-### 15: [2022-07-08 00:04:04+08:00 推文](https://twitter.com/osmastro/status/1545076190104494081)
+### 15: [2022-07-07 11:18:34+08:00 推文](https://twitter.com/JosephTorigian/status/1544883544157294592)
+
+RT Joseph Torigian<br>Amusing incidental discovery from National Archives of Australia today. In 1980, PRC Vice Foreign Minister Zhang Wenjin admits to “unintentionally” displeasing South Pacific nations and asks for Australian help to develop relations in region.<br><img style="" src="https://pbs.twimg.com/media/FXCHYSVXoAAU5Al?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-07-08 00:04:04+08:00 推文](https://twitter.com/osmastro/status/1545076190104494081)
 
 RT Oriana Skylar Mastro<br>More insights from @MariaRepnikova, who was interviewed by Joyce Chan at the @cnmediaproject, on Chinese media reactions to the Russia-Ukraine war. <a href="https://chinamediaproject.org/2022/06/29/deciphering-chinese-media-discourse-on-the-russia-ukraine-war/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/06/29/deciphering-chinese-media-discourse-on-the-russia-ukraine-war/</a>
 
-### 16: [2022-07-08 13:17:25+08:00 推文](https://twitter.com/cnmediaproject/status/1545275842104033283)
+### 17: [2022-07-08 13:17:25+08:00 推文](https://twitter.com/cnmediaproject/status/1545275842104033283)
 
 China's national security review of CNKI, the country's leading academic research database, is not so much about sensitive content as about the potential sensitivities of public access. <a href="https://chinamediaproject.org/2022/07/06/cnkis-security-problem/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/06/cnkis-security-problem/</a><br><img style="" src="https://pbs.twimg.com/media/FXHsDKcakAA5Zz7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 17: [2022-07-08 13:47:51+08:00 推文](https://twitter.com/cnmediaproject/status/1545283503381950464)
+### 18: [2022-07-08 13:47:51+08:00 推文](https://twitter.com/cnmediaproject/status/1545283503381950464)
 
 Now in the CMP Dictionary: "common prosperity" (共同富裕). Under Xi, the term is about curtailing excessive wealth and promoting "people-centered development." But in CCP history the term has supported dramatically different priorities. <a href="https://chinamediaproject.org/the_ccp_dictionary/common-prosperity/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/common-prosperity/</a><br><img style="" src="https://pbs.twimg.com/media/FXHzHUoaMAAFLMa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
