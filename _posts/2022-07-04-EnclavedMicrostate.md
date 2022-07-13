@@ -159,3 +159,7 @@ EDIT: I mean also, Jobst openly paraded the fact that Notch was providing his le
 
 Sad but probably true. Turns out if you were to present speedrunners with a neonazi vs someone who includes a supportive message in every video, they prefer the neonazi.
 
+----- __600.4__ -----2022-07-13 23:19:19+08:00:
+
+Most of the evidence that came out is summarised [here](https://www.reddit.com/r/speedrun/comments/poxb2h/tomatoanus_cutting_all_ties_with_karl_jobst/) on r/speedrun.
+
