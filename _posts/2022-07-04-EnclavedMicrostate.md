@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-08
+date: 2022-07-10
 from: https://old.reddit.com/r/VirtualYoutubers/comments/vr9ex4/contrived_conspiracy_conjecture_weekly_discussion/
 layout: post
 tags:
@@ -138,4 +138,14 @@ The second is that there is a lot of vacillation in Chinese historical orthodoxy
 ----- __599.1__ -----2022-07-09 04:00:30+08:00:
 
 Ha, I was about to check there myself.
+
+### 600: [[Hobby Scuffles] Week of July 11, 2022](https://old.reddit.com/r/HobbyDrama/comments/vvtaaq/hobby_scuffles_week_of_july_11_2022/), submitted on 2022-07-10 23:00:12+08:00.
+
+----- __600.1__ -----2022-07-13 13:34:38+08:00:
+
+> parroting Karl Jobst's quote on top level speedrunners being most likely to cheat.
+
+At least they're not parroting his indignation over white people not being allowed to say the n-word, eh?
+
+This has been your per-thread reminder that Karl Jobst is a neo-Nazi.
 
