@@ -19,6 +19,10 @@ title: EnclavedMicrostate在2022-07-11~2022-07-17的言论
 
 Per her ongoing stream, she knew a while ago, it seems.
 
+----- __601.2__ -----2022-07-13 20:21:40+08:00:
+
+I was there last year and saw a lot of Holo and zero Niji, so it'll be interesting to see a bit more diversity in VTuber-related stuff all told.
+
 ### 602: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __602.1__ -----2022-07-13 15:03:38+08:00:
