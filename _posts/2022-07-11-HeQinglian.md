@@ -37,7 +37,7 @@ Re @Bforge3 @Wu_Zhi 开会嘛，就是开会。
 
 ### 6: [2022-07-11 08:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1546296130752987136)
 
-这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。
+这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。<br><br>DW 中文- 德国之声: 在出席完G20外长会议后，德国外长贝尔伯克取道帕劳前往日本。在长崎，贝尔伯克呼吁全球各国放弃核武器。<br> <a href="https://p.dw.com/p/4DvdG" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DvdG</a>
 
 ### 7: [2022-07-11 10:54:40+08:00 推文](https://twitter.com/HeQinglian/status/1546327081554001920)
 
@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -274,4 +274,32 @@ Re @dongxue815 应该反问这位女士：<br>“你能射精吗？如果你能�
 ### 65: [2022-07-13 10:31:04+08:00 推文](https://twitter.com/HeQinglian/status/1547045919543250945)
 
 Re @cross19841 @dongxue815 伯克利本来就是意识形态疯子云集的学校，人家还有大麻节。<br>我第一次去伯克利是2000年5月。远远看见高大的校门下一尊不相称的黑色塑像，到了面前，突然发现眼睛在动，才知是一真人的“行为艺术”，然后知道那学校有大麻节，有性Party，还有崇拜毛泽东的教授。
+
+### 66: [2022-07-13 19:23:28+08:00 推文](https://twitter.com/XiaonongC/status/1547179902750842882)
+
+RT Xiaonong Cheng, 程晓农<br>我在台湾《政经最前线，无码看中国》刚播出的新节目，谢谢大家观看：民主之殤 時代巨人的殞落。安倍遇刺 網掀陰謀論? 維安警嚴重疏失 日警方最高機構介入調查。220713 <a href="https://youtu.be/DQd0c7a3Leg" target="_blank" rel="noopener noreferrer">https://youtu.be/DQd0c7a3Leg</a>
+
+### 67: [2022-07-13 20:41:29+08:00 推文](https://twitter.com/HeQinglian/status/1547199536820527111)
+
+Re @yu_su_chen @dongxue815 男人能够“怀孕”，我小时候倒见过。<br>离得较远的街坊某男，腹部隆起一年多，就象孕妇。有好事者当面取笑“怀孕了？”，但其实不是怀孕，后来他姐姐资助费用去省城看病，取出一个五斤多重的肿瘤。术后活了半年多，亡。<br>这问题不是哲学问题，是“人有多大胆，乱想就多狂”的精神问题。
+
+### 68: [2022-07-13 20:46:36+08:00 推文](https://twitter.com/HeQinglian/status/1547200821456211969)
+
+Re @JiangShangrong 既然还要坚持制裁，前面那话等于白说了。<br>政治正确不彻底，就等于政治不正确。犹如德国总理肖尔茨，现在又是他开的Party上性迷幻药丑闻，又是与优步的合同问题。
+
+### 69: [2022-07-13 20:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1547202893840891905)
+
+Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成功了，还需要美国曾经的政变操盘手出面说“政变需要准备”。<br>😂😂😂
+
+### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
+
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
+
+Re @JiangShangrong 有支《游击队之歌》，不知50岁以上的中国人还记得不？<br>“没有枪，没有炮，自有敌人给我们造”——真应景。
+
+### 72: [2022-07-13 21:53:41+08:00 推文](https://twitter.com/HeQinglian/status/1547217705010434048)
+
+Re @JiangShangrong 通过他国购买后贴牌转让的算不算？<br>壳牌公司就玩这招，将俄油与其他油配比，不超过50%，算他国生产的油。
 
