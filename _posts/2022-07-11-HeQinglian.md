@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-13
+date: 2022-07-14
 from: https://twitter.com/HeQinglian/status/1546189742131367936
 layout: post
 tags:
@@ -25,7 +25,7 @@ Re @bcyixiu 这我还真不能写，主要原因是：我并不比你们了解�
 
 ### 3: [2022-07-11 02:05:45+08:00 推文](https://twitter.com/HeQinglian/status/1546193978126733313)
 
-将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。<br><br>华尔街日报中文网: #本周热读 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
+将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。
 
 ### 4: [2022-07-11 04:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1546226957813256192)
 
@@ -69,7 +69,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -97,7 +97,7 @@ Re @shenliangqing2 实不实，自己去查。用几个关键英文词，第一�
 
 ### 21: [2022-07-12 00:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1546526221739216898)
 
-这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。<br><br>井上-Z-不二雄: 总统杠上贝索斯，后果很严重。亿万富翁拥有的传媒，不需要做什么，只需要如实报道（停止帮总统擦屁股）就够总统喝一壶的。<br> <a href="https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty</a>
+这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。
 
 ### 22: [2022-07-12 00:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1546528212775276546)
 
@@ -303,15 +303,35 @@ Re @JiangShangrong 有支《游击队之歌》，不知50岁以上的中国人�
 
 Re @JiangShangrong 通过他国购买后贴牌转让的算不算？<br>壳牌公司就玩这招，将俄油与其他油配比，不超过50%，算他国生产的油。
 
-### 73: [2022-07-13 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1547242273640947712)
+### 73: [2022-07-13 23:23:19+08:00 推文](https://twitter.com/gliderhook/status/1547240261042012162)
+
+RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。
+
+### 74: [2022-07-13 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1547242273640947712)
 
 Re @Tepezano161 @JiangShangrong 估计乌政府做好了心理准备。前一向不是要与波兰一家亲了么？不知波乌一体化的具体实施情况究竟如何。
 
-### 74: [2022-07-13 23:34:22+08:00 推文](https://twitter.com/HeQinglian/status/1547243044826644482)
+### 75: [2022-07-13 23:34:22+08:00 推文](https://twitter.com/HeQinglian/status/1547243044826644482)
 
 Re @princeton_walk @JiangShangrong 那时我还小，看着高初中的文艺队表演这节目，学红色娘子军那样，两腿纵跳成一字一个个出场（难度还挺高的），大家手掌都拍得震天响。
 
-### 75: [2022-07-13 23:39:24+08:00 推文](https://twitter.com/HeQinglian/status/1547244310105554945)
+### 76: [2022-07-13 23:39:24+08:00 推文](https://twitter.com/HeQinglian/status/1547244310105554945)
 
 Re @bbqlamb1 @JiangShangrong 煤没算绿能，但可以开采至2025年。2025年以后如何，看政府规定。<br>天然气与核能都重新漂绿了。
+
+### 77: [2022-07-14 01:08:49+08:00 推文](https://twitter.com/HeQinglian/status/1547266813058322432)
+
+Re @dw_chinese 估计一些国家的转口贸易额大增，直接从俄装到海轮或者其他运输工具上，海上贴牌，赚差价。
+
+### 78: [2022-07-14 04:34:05+08:00 推文](https://twitter.com/HeQinglian/status/1547318471050100737)
+
+Re @JianglinLi 我Mark了，等会找找看。
+
+### 79: [2022-07-14 04:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1547319275848929281)
+
+Re @NAConservative9 他们受害是算自找，我们算陪绑。<br>当时我一再说，这不是以前选美国总统，关系到美国人能否保持自己的生活方式与价值观。<br>与三位白人知识分子谈过，只有一位当时就知道民主党有些做法有问题（现在是很多问题），两位是完全支持拜登，恨川恨到不顾一切。
+
+### 80: [2022-07-14 04:39:34+08:00 推文](https://twitter.com/HeQinglian/status/1547319850682531840)
+
+Re @david_david1968 对于拜登与中石油做生意，不顾国内高油价，卖战略储备 油给中石油，除了Fox，其他主媒没看见。<br>这媒体“守夜人”当得太合格了。
 
