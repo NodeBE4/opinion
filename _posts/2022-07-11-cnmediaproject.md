@@ -47,23 +47,27 @@ For those who missed it: CMP's must-read on the CCP's not-so-secret system of pe
 
 RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Columbia Univ Press: Now Available! VULNERABLE MINDS "is a wonderful example of interdisciplinary scholarship on the brain and society, and prudent reading given humanity’s current crises." - @lasana_harris<br><br><img style="" src="https://pbs.twimg.com/media/FXFOZ3pXEAAa4h9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://buff.ly/3HBKgOg" target="_blank" rel="noopener noreferrer">https://buff.ly/3HBKgOg</a>
 
-### 9: [2022-07-13 07:13:17+08:00 推文](https://twitter.com/gwbstr/status/1546996146484047874)
+### 9: [2022-07-13 06:33:48+08:00 推文](https://twitter.com/relevantorgans/status/1546986209016066049)
+
+RT The Relevant Organs<br>Early universe revealed in dramatic pictures from the James Webb telescope.<br><img style="" src="https://pbs.twimg.com/media/FXf-3xAUEAA2MoF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-07-13 07:13:17+08:00 推文](https://twitter.com/gwbstr/status/1546996146484047874)
 
 RT Graham Webster<br>Wild to note that @DigiChn published its first piece five years ago this week. <br><br>We’ll be marking the milestone soon with a big report on CAC and hopefully a gathering this fall. And I’ll offer some reflections. For now tho, huge thanks to the many dozens who have contributed!
 
-### 10: [2022-07-13 08:10:51+08:00 推文](https://twitter.com/cnmediaproject/status/1547010633769832448)
+### 11: [2022-07-13 08:10:51+08:00 推文](https://twitter.com/cnmediaproject/status/1547010633769832448)
 
 In much of the world, digital literacy centers on giving citizens the knowledge and attitudes needed to be safe and empowered in cyberspace. In China, related initiatives are enmeshed with a far more basic goal: ideological and political control. <a href="https://chinamediaproject.org/2022/07/13/hijacking-digital-literacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/13/hijacking-digital-literacy/</a><br><img style="" src="https://pbs.twimg.com/media/FXgV9dhaIAAjQGT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 11: [2022-07-13 08:12:54+08:00 推文](https://twitter.com/cnmediaproject/status/1547011149102989312)
+### 12: [2022-07-13 08:12:54+08:00 推文](https://twitter.com/cnmediaproject/status/1547011149102989312)
 
 Re Former deputy propaganda minister on the goals of digital literacy: "We must ensure that young people's hearts are for the Party, that they love labor, and that they are well-mannered.”<br><img style="" src="https://pbs.twimg.com/media/FXgWbGQaUAIlf7s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 12: [2022-07-13 08:15:08+08:00 推文](https://twitter.com/cnmediaproject/status/1547011709642375168)
+### 13: [2022-07-13 08:15:08+08:00 推文](https://twitter.com/cnmediaproject/status/1547011709642375168)
 
 Re An event last year in a digital literacy education classroom in Chongqing focussed on that issue vexing all loving parents concerned about their child’s online habits: the centennial of the Chinese Communist Party. Primary students painted pictures of flags and national emblems.<br><img style="" src="https://pbs.twimg.com/media/FXgW2uMaUAAXt-d?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 13: [2022-07-13 08:19:29+08:00 推文](https://twitter.com/cnmediaproject/status/1547012805664317440)
+### 14: [2022-07-13 08:19:29+08:00 推文](https://twitter.com/cnmediaproject/status/1547012805664317440)
 
 Re CMP's post today is important context as China hosts its World Internet Conference (WIC) this week on the theme of building a "community of shared future in cyberspace." While priorities certainly can overlap, China's core values here have important differences.<br><img style="" src="https://pbs.twimg.com/media/FXgXjEOacAAdxfr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
