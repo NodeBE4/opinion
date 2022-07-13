@@ -155,3 +155,7 @@ There's a whole thread on it [here](https://www.reddit.com/r/speedrun/comments/p
 
 EDIT: I mean also, Jobst openly paraded the fact that Notch was providing his legal fees in a suit with Billy Mitchell (Notch, if anyone wasn't already aware, is an antifeminist, transphobe, and homophobe, once tweeted about white pride, and openly supported QAnon), and also made a video attempting to exonerate Dream's Minecraft speedrun cheating, so to be frank, he's likely exhausted any scrap of credibility he had.
 
+----- __600.3__ -----2022-07-13 19:26:02+08:00:
+
+Sad but probably true. Turns out if you were to present speedrunners with a neonazi vs someone who includes a supportive message in every video, they prefer the neonazi.
+
