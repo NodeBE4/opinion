@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-13
+date: 2022-07-14
 from: https://twitter.com/jenniferatntd/status/1546168180388806656
 layout: post
 tags:
@@ -45,7 +45,7 @@ For those who missed it: CMP's must-read on the CCP's not-so-secret system of pe
 
 ### 8: [2022-07-12 22:34:20+08:00 推文](https://twitter.com/LiyaYuBerlin/status/1546865545231757312)
 
-RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Columbia Univ Press: Now Available! VULNERABLE MINDS "is a wonderful example of interdisciplinary scholarship on the brain and society, and prudent reading given humanity’s current crises." - @lasana_harris<br><br><img style="" src="https://pbs.twimg.com/media/FXFOZ3pXEAAa4h9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://buff.ly/3HBKgOg" target="_blank" rel="noopener noreferrer">https://buff.ly/3HBKgOg</a>
+RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-07-13 06:33:48+08:00 推文](https://twitter.com/relevantorgans/status/1546986209016066049)
 
@@ -86,4 +86,28 @@ This piece from Beijing Daily on China's "trunk economy" (后备厢经济) is fa
 ### 18: [2022-07-13 23:51:40+08:00 推文](https://twitter.com/cnmediaproject/status/1547247394630148098)
 
 Re With obligatory finger wagging at the end about how the REAL trunk economy would mean people registering businesses, paying taxes and abiding the authorities.<br><img style="" src="https://pbs.twimg.com/media/FXjtThYUIAAS6H7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-07-14 05:02:05+08:00 推文](https://twitter.com/Lingling_Wei/status/1547325514121203712)
+
+RT Lingling Wei 魏玲灵<br>China's real-estate crisis is spreading to the banking sector. The PBOC and other regulators have convened emergency meetings in the past couple of days. Now is "a critical time" not just for financial stability but social stability. <a href="https://www.bloomberg.com/news/articles/2022-07-13/chinese-homebuyers-across-22-cities-refuse-to-pay-mortgages" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-13/chinese-homebuyers-across-22-cities-refuse-to-pay-mortgages</a>
+
+### 20: [2022-07-14 06:41:50+08:00 推文](https://twitter.com/cnmediaproject/status/1547350620000391168)
+
+Re @niubi Another report on "rotten properties" here. Domino falling?
+
+### 21: [2022-07-14 08:44:09+08:00 推文](https://twitter.com/cnmediaproject/status/1547381402555269121)
+
+It has been a rocky eight-year journey for China's World Internet Conference, and global credibility still eludes the event. Here's what you should know about the CCP's latest effort to re-frame WIC as an international organization. Let the buyer beware. <a href="https://chinamediaproject.org/?p=51962&amp;preview=true&amp;_thumbnail_id=51965" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/?p=51962&amp;preview=true&amp;_thumbnail_id=51965</a><br><img style="" src="https://pbs.twimg.com/media/FXlnJrAakAAUCG-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-07-14 09:16:03+08:00 推文](https://twitter.com/cnmediaproject/status/1547389427961704448)
+
+Re "One of the first responses the international community should have to the fledgling WIC organization is to watch its formation closely, encouraging transparency about the organizations and individuals . . . signing on." "It’s time to start building the WIC Hall of Shame."
+
+### 23: [2022-07-14 09:24:13+08:00 推文](https://twitter.com/cnmediaproject/status/1547391484952993795)
+
+Re @niubi The four points "are not 'demands,'" says GT. One supposes, then, these must be "imperative suggestions"?
+
+### 24: [2022-07-14 10:53:57+08:00 推文](https://twitter.com/cnmediaproject/status/1547414066427482112)
+
+Re @wmdglasgow @crikey_news Sun Wanning's essay certainly invites thought and reflection. But the talk of "intended meaning" invites unease. How, other than through the substance of China's language as sometimes purred to global audiences and screamed to domestic audiences, are we to read this meaning?
 

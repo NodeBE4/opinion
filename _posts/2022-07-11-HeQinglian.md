@@ -65,11 +65,11 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -362,4 +362,60 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
 美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
+
+### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
+
+Re @AndrosFreeman 重要的是你是否相信，因为你挂着乌克兰三色旗。
+
+### 89: [2022-07-14 08:00:21+08:00 推文](https://twitter.com/HeQinglian/status/1547370379701850116)
+
+Re @mayuki753 @NAConservative9 对。还有一点未兑现：说了给黑人奴隶制赔偿，但还未开始。
+
+### 90: [2022-07-14 08:07:07+08:00 推文](https://twitter.com/HeQinglian/status/1547372081888874497)
+
+左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。<br><br>He Qinglian: @NAConservative9 平心而论，那位黑人说拜登骗了他，我觉得没有。<br>除了免除学生贷款，拜登实现了大部分竞选承诺：让8岁小孩自主变性、实施绿色能源政策（关闭页岩油开采）、提高LGBTQI权利、开放边境欢迎移民、增加对底层的福利、花钱搞基建、增加某收入线上的人的税收<br>当然他没说要通胀。但上述措施都要花钱，势必通胀<br>
+
+### 91: [2022-07-14 08:08:38+08:00 推文](https://twitter.com/HeQinglian/status/1547372461217484800)
+
+Re @bun_neo 这点，你还可以查东盟、美国、欧盟的数据，只是时间可能晚一点。<br>什么都不信也不愿意查的人，可能才是白痴。
+
+### 92: [2022-07-14 08:13:41+08:00 推文](https://twitter.com/HeQinglian/status/1547373733207212038)
+
+Re @Wu_Zhi 这可难查了。<br>其实，早在去年中期，就有反对中国（并非中共）的人士（非民运人士）提出要启动Swift机制制裁中国，将中国踢出去。中国也紧张了一下，研究了一阵，觉得中国能够应付得来。<br>没想到最后用在俄罗斯身上。
+
+### 93: [2022-07-14 08:19:49+08:00 推文](https://twitter.com/HeQinglian/status/1547375275251474433)
+
+约40个国家呼吁俄罗斯结束乌克兰战争 <br>美国方面一直说约40国，但我从来没见过具体名单。全部数下来，算上新加坡也不到。<br>如果哪里有这个名单，请告诉我。 <a href="https://rfi.my/8a2l.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8a2l.T</a>
+
+### 94: [2022-07-14 08:23:46+08:00 推文](https://twitter.com/HeQinglian/status/1547376269549084679)
+
+Re @bun_neo 外贸数据只是经济的一方面而已，中国过去的三驾马车，内需不振、投资（政府、外资、私企）几乎停滞（除外资这块），就剩这块了。<br>海关有进出口统计，中国出口到美国，在中国算出口，在美国算进口，以此类推，两边需要基本对得上。
+
+### 95: [2022-07-14 08:25:41+08:00 推文](https://twitter.com/HeQinglian/status/1547376752351219713)
+
+Re @franktianxie 奇怪了，原来西方在冷战时期的“克里姆林宫占星术”一直在用，最近星象变了？
+
+### 96: [2022-07-14 08:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1547377538154074118)
+
+Re @y2xd 川普今年当总统了？哪一国的？
+
+### 97: [2022-07-14 08:42:00+08:00 推文](https://twitter.com/HeQinglian/status/1547380860575535106)
+
+美国6月通胀率升至9.1%，创近41年新高<br>汽油价格飙升推动美国6月通胀率达到41年来的峰值9.1%，没给遭受高昂生活成本的美国民众带来什么希望。<br><br>1、物价都涨，不要只提汽油；<br>2、教美国人民一法，不要比较购买力，比较他国货币与美元的比值，看到欧元日元都在贬，“拜登了不起”。 <a href="https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD6%E6%9C%88%E9%80%9A%E8%83%80%E7%8E%87%E6%94%80%E5%8D%87%E8%87%B3%E8%BF%9141%E5%B9%B4%E6%96%B0%E9%AB%989-1-11657754707" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD6%E6%9C%88%E9%80%9A%E8%83%80%E7%8E%87%E6%94%80%E5%8D%87%E8%87%B3%E8%BF%9141%E5%B9%B4%E6%96%B0%E9%AB%989-1-11657754707</a>
+
+### 98: [2022-07-14 08:44:26+08:00 推文](https://twitter.com/HeQinglian/status/1547381471891038208)
+
+Re 曾有推友认为我讲40国联军是段子，真不是，就是美国讲过多次我加以引用，但我算来算去，就36国，因此想知道具体国家。
+
+### 99: [2022-07-14 08:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1547382189557440513)
+
+这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。<br><br>Newsmax: President Biden, after touching down in Israel on Wednesday, mistakenly said we must keep alive the "honor of the Holocaust," instead of the "horror of the Holocaust." <br><br>Biden also mispronounced the name of the Jerusalem Holocaust museum Yad Vashem.<br><br><video src="https://video.twimg.com/ext_tw_video/1547351417999872001/pu/vid/720x720/sVbxqwFXpVticfYH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547351417999872001/pu/img/wNf8BYThTWYdtlcd.jpg"></video> <a href="https://bit.ly/3Ru2PZ7" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ru2PZ7</a>
+
+### 100: [2022-07-14 10:21:19+08:00 推文](https://twitter.com/HeQinglian/status/1547405851232796672)
+
+Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
+
+### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
+
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
 
