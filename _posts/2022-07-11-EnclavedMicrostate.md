@@ -33,6 +33,10 @@ I feel there's kind of a two-way thing of on the one hand, VShojo having this wh
 
 [Because idol stuff is something Veibae's own agency has never done...](https://static.wikia.nocookie.net/virtualyoutuber/images/9/93/VShojo_idols_at_VILLS_2021.jpg/revision/latest/scale-to-width-down/1000?cb=20211214083810)
 
+----- __601.5__ -----2022-07-15 03:05:17+08:00:
+
+Yeah but Nyanners' reason for that isn't necessarily prudishness...
+
 ### 602: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __602.1__ -----2022-07-13 15:03:38+08:00:

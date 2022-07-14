@@ -169,3 +169,7 @@ Most of the evidence that came out is summarised [here](https://www.reddit.com/r
 
 Ah yes, because depicting Fantasy!Chinese imperialism in Fantasy!India and Fantasy!Southeast Asia would go over *so* well...
 
+----- __600.6__ -----2022-07-15 03:02:38+08:00:
+
+I mean, I never said I approved of the rest of the setting either... *looking* ***especially*** *hard at that Empire conquistador campaign...*
+
