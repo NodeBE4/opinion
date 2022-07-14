@@ -23,6 +23,10 @@ Per her ongoing stream, she knew a while ago, it seems.
 
 I was there last year and saw a lot of Holo and zero Niji, so it'll be interesting to see a bit more diversity in VTuber-related stuff all told.
 
+----- __601.3__ -----2022-07-14 20:05:28+08:00:
+
+I feel there's kind of a two-way thing of on the one hand, VShojo having this whole brand identity of being an agency that's not an agency, and on the other hand, Hololive having this reputation of being the most agency-like agency, creating a bit of a double whammy: anything that's not Hololive becomes some kind of countercultural thing by default if you're into it, even if it's Nijisanji i.e. the other big agency JP-side; and VShojo capitalises on that extra hard. But it's fascinating how people buy into the hype about VShojo as this bastion of talent freedom and the notion that Cover is some kind of dictatorial 1984poration, when the reality is that both are likely more similar than that surface-level assessment suggests. VShojo is definitely a lot more lax, I'll give it that, but it also has at least some amount of staff etc. and presumably some kind of red lines, even if those are lines that the members have yet to cross.
+
 ### 602: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __602.1__ -----2022-07-13 15:03:38+08:00:
