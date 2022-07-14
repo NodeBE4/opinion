@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2020-10-19~2020-10-25'
 
 ### 4: [2020-10-22 23:11:02+08:00 推文](https://twitter.com/realcaixia/status/1319295203048525824)
 
-任志強重判，許章潤軟禁，聲援中國良心的耿瀟男為何被捕？習近平的政治上的明白人終極目的是什麼？十二月黨人的女人的故事（江峰漫談20201021第2... <a href="https://youtu.be/3omRhBSYqFg" target="_blank" rel="noopener noreferrer">https://youtu.be/3omRhBSYqFg</a>
+任志強重判，許章潤軟禁，聲援中國良心的耿瀟男為何被捕？習近平的政治上的明白人終極目的是什麼？十二月黨人的女人的故事（江峰漫談20201021第2... <a href="https://youtu.be/3omRhBSYqFg" target="_blank" rel="noopener noreferrer">https://youtu.be/3omRhBSYqFg</a>
 
 ### 5: [2020-10-23 09:23:04+08:00 推文](https://twitter.com/realcaixia/status/1319449226548568065)
 
-声援耿潇男女士就是反抗中共极权暴政！<br><br>楊建利 Yang Jianli: 先前公开为许章润发声的耿潇男女士遭拘留37天后被中共当局以涉嫌“非法经营”罪正式批捕，并将“非法出版物”数量由8千册升为20多万册。因丈夫和员工同被拘押，她向律师表示要揽下全部“责任”。当局按任志强案如法炮制，将“非法经营”等经济罪名，变为打压异见者的“口袋罪”。<br><br>【习共犯有非法经营中国罪！】<br><br><img style src="https://pbs.twimg.com/media/Ek0EujaWkAAoqy_?format=jpg&name=orig" referrerpolicy="no-referrer">
+声援耿潇男女士就是反抗中共极权暴政！ <br><br>楊建利 Yang Jianli: 先前公开为许章润发声的耿潇男女士遭拘留37天后被中共当局以涉嫌“非法经营”罪正式批捕，并将“非法出版物”数量由8千册升为20多万册。因丈夫和员工同被拘押，她向律师表示要揽下全部“责任”。当局按任志强案如法炮制，将“非法经营”等经济罪名，变为打压异见者的“口袋罪”。<br><br>【习共犯有非法经营中国罪！】 <br><br><img src="https://pbs.twimg.com/media/Ek0EujaWkAAoqy_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2020-10-24 00:06:47+08:00 推文](https://twitter.com/realcaixia/status/1319671620391309313)
 
