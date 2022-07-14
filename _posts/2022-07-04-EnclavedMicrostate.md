@@ -157,7 +157,7 @@ EDIT: I mean also, Jobst openly paraded the fact that Notch was providing his le
 
 ----- __600.3__ -----2022-07-13 19:26:02+08:00:
 
-Sad but probably true. Turns out if you were to present speedrunners with a neonazi vs someone who includes a supportive message in every video, they prefer the neonazi.
+Sad but probably true. Turns out if you were to present speedrunners with a neonazi vs someone who includes a supportive message about mental health in every video, they prefer the neonazi.
 
 ----- __600.4__ -----2022-07-13 23:19:19+08:00:
 
