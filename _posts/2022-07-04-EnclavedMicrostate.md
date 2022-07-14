@@ -163,3 +163,9 @@ Sad but probably true. Turns out if you were to present speedrunners with a neon
 
 Most of the evidence that came out is summarised [here](https://www.reddit.com/r/speedrun/comments/poxb2h/tomatoanus_cutting_all_ties_with_karl_jobst/) on r/speedrun.
 
+----- __600.5__ -----2022-07-15 02:18:08+08:00:
+
+> They could have Cathayan colonies there fighting over the lands with beastmen and the lizardmen.
+
+Ah yes, because depicting Fantasy!Chinese imperialism in Fantasy!India and Fantasy!Southeast Asia would go over *so* well...
+
