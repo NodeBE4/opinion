@@ -111,3 +111,7 @@ Re @niubi The four points "are not 'demands,'" says GT. One supposes, then, thes
 
 Re @wmdglasgow @crikey_news Sun Wanning's essay certainly invites thought and reflection. But the talk of "intended meaning" invites unease. How, other than through the substance of China's language as sometimes purred to global audiences and screamed to domestic audiences, are we to read this meaning?
 
+### 25: [2022-07-14 11:28:11+08:00 推文](https://twitter.com/cnmediaproject/status/1547422679703363584)
+
+Re @lingli_vienna Our quick take at CMP. :) <a href="https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/</a>
+
