@@ -115,3 +115,7 @@ Re @wmdglasgow @crikey_news Sun Wanning's essay certainly invites thought and re
 
 Re @lingli_vienna Our quick take at CMP. :) <a href="https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/</a>
 
+### 26: [2022-07-14 14:55:58+08:00 推文](https://twitter.com/cnmediaproject/status/1547474970737278976)
+
+China's World Internet Conference is becoming an international organization -- even as global credibility continues to elude the event. Here's what you should know about the CCP's latest effort to re-frame the WIC. <a href="https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/</a><br><img style="" src="https://pbs.twimg.com/media/FXm8PXkacAAmfnv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
