@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 1: [2022-07-11 03:55:32+08:00 推文](https://twitter.com/realcaixia/status/1546221602446213125)
 
-这与中国大陆形成鲜明对照。<br><br>Jam: 政府随时被合法颠覆，领导随时卷铺盖走人，这在民主国家是正常的事。越是贪腐严重、政治黑暗的国家，独裁者越是死赖在权力的位子上，用各种各样谎言欺骗百姓。<br><br><img style="" src="https://pbs.twimg.com/media/FXQ-RdxXkAAbahl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这与中国大陆形成鲜明对照。
 
 ### 2: [2022-07-13 21:22:03+08:00 推文](https://twitter.com/realcaixia/status/1547209743848165377)
 
@@ -34,4 +34,8 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 ### 5: [2022-07-14 09:58:48+08:00 推文](https://twitter.com/realcaixia/status/1547400187169181697)
 
 Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：纪念刘晓波。作家满怀深情的朗读这篇文章，令人深深地感动。<br><img style="" src="https://pbs.twimg.com/media/FXl4RIoXoAcJyWx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXl4RIkXkAAtrml?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXl4RIlXEAEOv3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXl4RIkXoAA3QNK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-07-14 22:11:50+08:00 推文](https://twitter.com/realcaixia/status/1547584659038486529)
+
+完全同意。手下小兄弟伙鼓噪把黑老大抬上领袖神龛，既蠢且坏。看看历史上，有哪个领袖青史留名？看看全世界公认的杰出政治人物，哪一个顶着领袖的封号？越是热衷于封号越是透出心虚不自信。自封人民领袖，但上台以来，人民有难时从没出现在人民当中；清零封城使多少人非正常死亡，但他仍死抱清零不放。<br><br>韩连潮: 【人民领袖反人民】中共造习神运动不断加码，从习核心升到当之无愧的领袖，再到人民领袖。之前中共只给毛泽东和华国锋冠以伟大领袖和英明领袖，事实证明，伟大领袖最卑鄙渺小，是个政治、生活流氓；英明领袖最愚蠢，到死都不知道自己权力怎么丧失的；而人民领袖的所作所为都是祸害人民，下场也不会好。<br><br><img style="" src="https://pbs.twimg.com/media/FXoAbPTXEAIf-19?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
