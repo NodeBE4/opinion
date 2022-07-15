@@ -111,6 +111,14 @@ I'm not sure where the confusion is coming from, as I quite clearly state that
 
 The size of an army depends on the size and mobilisation potential of the polity behind it. A big state may mobilise more troops than a small nomadic confederation, while the reverse may also be true. There is no ideal exact size of either a state or a nomadic society that would allow one to generalise on a broad scale.
 
+----- __607.3__ -----2022-07-15 23:04:27+08:00:
+
+Well, the overall population sustainable on the Eurasian steppe solely through pastoral nomadism had a limit, but it's not like the *entire* steppe was *always* united, or that the same was also true of the *entire* sedentary world. So even if states had proportionally smaller armies relative to population when compared to nomadic ones, the sizes of those societies still matter.
+
+To boil it down to just the maths for a sec, let's say that nomadic societies can mobilise 20% of their population for war, and sedentary societies 2%. A nomadic society of, say, 500,000 people would thus have the same amount of mobilisable military manpower as a sedentary society of 5 million. If you're in a situation where there are, say, two smaller nomadic societies with 500,000 people each, and one big sedentary state with 50 million, then the sedentary state has a much bigger potential army of around 1 million, while the nomadic societies could only pull together 100,000 each. But if you're in a situation where there's a massive nomadic confederation of say 5 million people, and several fragmented sedentary states of maybe 10 million each, then the nomadic society can potentially field 1 million troops while each sedentary state can at most field about 200,000.
+
+In other words, *yes* nomadic societies were smaller while mobilising more troops, but that doesn't mean their armies were always smaller because it depends *how much* smaller a given society was.
+
 ### 608: [is this wwi brass Brodie helmet real?](https://old.reddit.com/r/AskHistorians/comments/vzf1ix/is_this_wwi_brass_brodie_helmet_real/), submitted on 2022-07-15 11:57:01+08:00.
 
 ----- __608.1__ -----2022-07-15 13:47:54+08:00:
