@@ -131,3 +131,7 @@ RT Alexander B. Pevzner 裴則男<br>"You could call it a hunger for justice."
 
 Re @chenchenzh This is a really interesting story.
 
+### 30: [2022-07-15 17:34:54+08:00 推文](https://twitter.com/cnmediaproject/status/1547877354122334209)
+
+Re @niubi Oh my. One wonders if the post-80s or post-90s generation will succumb to such madness, or whether it will fade.
+

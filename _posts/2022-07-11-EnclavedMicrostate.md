@@ -45,6 +45,14 @@ Yeah but Nyanners' reason for that isn't necessarily prudishness...
 
 I feel like Cover's been not necessarily distancing from the Holostars brand name, but it does feel like there's some level on which Holostars in the narrow sense refers only to the remaining nine members who debuted between June 2019 and May 2020. Uproar, for instance, is simply UPROAR!!! and not Holostars 4th Generation, and similarly this new StarsEN generation seems to be presented as *under* Holostars, but also *not* Holostars in the narrow sense.
 
+----- __602.8__ -----2022-07-15 19:45:49+08:00:
+
+Milky Queen's [announced](https://www.youtube.com/shorts/f4ghd0gZuJY) a Live2D unveiling, 22 July at 1800 PDT.
+
+----- __602.9__ -----2022-07-15 20:09:54+08:00:
+
+Does Hololive bring out its idol outfits in non-concert situations? And what does it matter what context this came up in if they did it anyway? I'm not *accusing* VShojo of doing idol stuff, I'm not fussed either way about that in and of itself. I'm pointing out that Veibae is wrong when she suggests that there's no particular idol dimension to Anglophone VTubers either, especially when her own agency has consciously and deliberately dabbled in it. Lest we forget also that [Ironmouse has a Live2D idol-inspired outfit](https://www.youtube.com/watch?v=KuIx0joluXE).
+
 ### 603: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __603.1__ -----2022-07-13 15:03:38+08:00:
