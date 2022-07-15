@@ -13,47 +13,47 @@ title: EnclavedMicrostate在2022-05-23~2022-05-29的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 455: [HololiveEN as well as Calli, Gura, Ame, Kronii, and Bae all have TikTok accounts.](https://old.reddit.com/r/Hololive/comments/uvrtek/hololiveen_as_well_as_calli_gura_ame_kronii_and/), submitted on 2022-05-23 12:06:29+08:00.
+### 456: [HololiveEN as well as Calli, Gura, Ame, Kronii, and Bae all have TikTok accounts.](https://old.reddit.com/r/Hololive/comments/uvrtek/hololiveen_as_well_as_calli_gura_ame_kronii_and/), submitted on 2022-05-23 12:06:29+08:00.
 
------ __455.1__ -----2022-05-24 01:04:08+08:00:
+----- __456.1__ -----2022-05-24 01:04:08+08:00:
 
 I'd imagine there's a certain difference between approaching it as a corporate entity and approaching it as a private individual. One imagines a tech corporation would be aware of the appropriate security measures to take while still making use of the platform.
 
-### 456: [Is it known for sure why HoloEN hasn’t really done 3D streams or lives outside of Calli?](https://old.reddit.com/r/Hololive/comments/uvt9qc/is_it_known_for_sure_why_holoen_hasnt_really_done/), submitted on 2022-05-23 13:41:09+08:00.
+### 457: [Is it known for sure why HoloEN hasn’t really done 3D streams or lives outside of Calli?](https://old.reddit.com/r/Hololive/comments/uvt9qc/is_it_known_for_sure_why_holoen_hasnt_really_done/), submitted on 2022-05-23 13:41:09+08:00.
 
------ __456.1__ -----2022-05-23 16:56:52+08:00:
+----- __457.1__ -----2022-05-23 16:56:52+08:00:
 
 No she then came back to Japan. Her situation’s complicated because of rehearsals for the live concert in July.
 
------ __456.2__ -----2022-05-23 17:24:07+08:00:
+----- __457.2__ -----2022-05-23 17:24:07+08:00:
 
 Well, the Priichu models + their setup have produced somewhat janky results, and I'd imagine nobody wants the first use of the official models by those members to be plagued by technical issues.
 
-### 457: [The pure sass from both the commenter and mod here is hilarious to me](https://old.reddit.com/r/SubredditDrama/comments/uw0zmm/the_pure_sass_from_both_the_commenter_and_mod/), submitted on 2022-05-23 22:05:49+08:00.
+### 458: [The pure sass from both the commenter and mod here is hilarious to me](https://old.reddit.com/r/SubredditDrama/comments/uw0zmm/the_pure_sass_from_both_the_commenter_and_mod/), submitted on 2022-05-23 22:05:49+08:00.
 
------ __457.1__ -----2022-05-24 20:27:02+08:00:
+----- __458.1__ -----2022-05-24 20:27:02+08:00:
 
 It's not *un*common by any means, though. The study of Chinese history has always had a bit of an identity crisis between being a field of history and a subfield of Chinese cultural studies and it's only relatively recently that there's been a strong pivot to the former.
 
-### 458: [Glorious Golden Glam - Weekly Discussion Thread, May 23rd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/), submitted on 2022-05-23 23:51:25+08:00.
+### 459: [Glorious Golden Glam - Weekly Discussion Thread, May 23rd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/), submitted on 2022-05-23 23:51:25+08:00.
 
------ __458.1__ -----2022-05-25 18:16:33+08:00:
+----- __459.1__ -----2022-05-25 18:16:33+08:00:
 
 This is interesting; HoloJP's generally presumed to have had a 30-35-35 split between Youtube, Cover, and the talent, so Moona saying hers was 30-50-20 seems to be quite a big shift, unless she got the maths wrong since it contradicts what she says earlier in the clip.
 
------ __458.2__ -----2022-05-25 19:41:52+08:00:
+----- __459.2__ -----2022-05-25 19:41:52+08:00:
 
 Ah, t'would make sense then.
 
------ __458.3__ -----2022-05-26 00:43:16+08:00:
+----- __459.3__ -----2022-05-26 00:43:16+08:00:
 
 This is very much parroting others' takes from other spaces I'm in, but the impression I get is that South Korea has a strong *audience* for VTubers but serious problems producing local talents.
 
------ __458.4__ -----2022-05-26 15:15:42+08:00:
+----- __459.4__ -----2022-05-26 15:15:42+08:00:
 
 I probably should have been a little more precise in my language, although to be fair Isegye (whom I have heard of and know are successful) slipped my mind as well. More precisely, I meant to say that it seems like there's a certain difficulty (especially for an overseas-based agency) to maintain a substantial group of KR VTubers of sort of middling size (i.e. not full-time job level).
 
------ __458.5__ -----2022-05-28 12:03:01+08:00:
+----- __459.5__ -----2022-05-28 12:03:01+08:00:
 
 So, there are two things I'd bring up here.
 
@@ -69,7 +69,7 @@ Secondly, even if the former were true... so what? There are legitimately things
 
 * A stronger community on familiar platforms: this applies more to why people may not be drawn to Niji as opposed to indies given how active this sub is, but simply, if your main social media platform is Reddit then new Hololive debuts are actively community-building on a familiar platform; new debuts elsewhere, if the primary community space is something like Twitter or an oldschool forum or whatever site the young'uns are on now, require you to familiarise yourself with both a platform *and* a community.
 
------ __458.6__ -----2022-05-28 13:43:10+08:00:
+----- __459.6__ -----2022-05-28 13:43:10+08:00:
 
 I don't know if we're talking past each other here, but the points I bring up weren't statements of objective fact, they were possible reasons for why any given person who does want more HoloEN might do so. You've raised a lot of nuances, but not necessarily logical flaws:
 
@@ -81,19 +81,9 @@ I don't know if we're talking past each other here, but the points I bring up we
 
 The problem is that you've come off as gatekeeping fandom here – that people who want more HoloEN are being fans the *wrong* way, as opposed to simply differently.
 
-### 459: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
+### 460: [Cold War Danish squad size?](https://old.reddit.com/r/AskHistorians/comments/uwhxsb/cold_war_danish_squad_size/), submitted on 2022-05-24 11:45:35+08:00.
 
------ __459.1__ -----2022-05-24 13:06:07+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 460: [Who first named the continents?](https://old.reddit.com/r/AskHistorians/comments/uwm6gi/who_first_named_the_continents/), submitted on 2022-05-24 16:40:11+08:00.
-
------ __460.1__ -----2022-05-24 16:50:42+08:00:
+----- __460.1__ -----2022-05-24 13:06:07+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -101,15 +91,25 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 461: [Oh No](https://old.reddit.com/r/Hololive/comments/uxbah7/oh_no/), submitted on 2022-05-25 14:35:46+08:00.
+### 461: [Who first named the continents?](https://old.reddit.com/r/AskHistorians/comments/uwm6gi/who_first_named_the_continents/), submitted on 2022-05-24 16:40:11+08:00.
 
------ __461.1__ -----2022-05-26 13:57:07+08:00:
+----- __461.1__ -----2022-05-24 16:50:42+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 462: [Oh No](https://old.reddit.com/r/Hololive/comments/uxbah7/oh_no/), submitted on 2022-05-25 14:35:46+08:00.
+
+----- __462.1__ -----2022-05-26 13:57:07+08:00:
 
 To be fair, with NoeFure the two of them did also admit that the way they portrayed themselves on-stream wasn't really authentic to how they interacted offline. Plus, one can very easily imagine that if they are serious – which I'm inclined to believe they are – then it's not unreasonable that at some stage they might like to keep their relationship as something mostly between themselves. So while the fan obsession I think undoubtedly accelerated things, they would have gone more private about it sooner or later.
 
-### 462: [How were the relations between Imperial China and the tribes within and surrounding it?](https://old.reddit.com/r/AskHistorians/comments/uxdiwd/how_were_the_relations_between_imperial_china_and/), submitted on 2022-05-25 17:26:34+08:00.
+### 463: [How were the relations between Imperial China and the tribes within and surrounding it?](https://old.reddit.com/r/AskHistorians/comments/uxdiwd/how_were_the_relations_between_imperial_china_and/), submitted on 2022-05-25 17:26:34+08:00.
 
------ __462.1__ -----2022-05-25 18:35:32+08:00:
+----- __463.1__ -----2022-05-25 18:35:32+08:00:
 
 More can of course be said, particularly regarding earlier periods in Chinese history, but I discuss indigenous matters during the Qing era in these answers:
 
@@ -119,21 +119,21 @@ https://www.reddit.com/r/AskHistorians/comments/gb4uyu/im_currently_reading_gods
 
 https://www.reddit.com/r/AskHistorians/comments/d8u46f/in_19th_century_yunnan_there_was_a_muslim_led/f1cxdae/
 
-### 463: [Could the Indian Emergency of 1977 have been avoided?](https://old.reddit.com/r/AskHistorians/comments/uxfp43/could_the_indian_emergency_of_1977_have_been/), submitted on 2022-05-25 19:56:11+08:00.
+### 464: [Could the Indian Emergency of 1977 have been avoided?](https://old.reddit.com/r/AskHistorians/comments/uxfp43/could_the_indian_emergency_of_1977_have_been/), submitted on 2022-05-25 19:56:11+08:00.
 
------ __463.1__ -----2022-05-25 21:55:04+08:00:
+----- __464.1__ -----2022-05-25 21:55:04+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 464: [Elite](https://old.reddit.com/r/Hololive/comments/uxkz87/elite/), submitted on 2022-05-26 00:20:08+08:00.
+### 465: [Elite](https://old.reddit.com/r/Hololive/comments/uxkz87/elite/), submitted on 2022-05-26 00:20:08+08:00.
 
------ __464.1__ -----2022-05-26 00:25:05+08:00:
+----- __465.1__ -----2022-05-26 00:25:05+08:00:
 
 Cold-blooded murder. Sasuga dad.
 
-### 465: [Can anyone recommend some good and in-depth podcasts about military history, present-day military theory, and other stuff relevant to the subject-matter of this subreddit?](https://old.reddit.com/r/WarCollege/comments/uxmyuq/can_anyone_recommend_some_good_and_indepth/), submitted on 2022-05-26 01:52:31+08:00.
+### 466: [Can anyone recommend some good and in-depth podcasts about military history, present-day military theory, and other stuff relevant to the subject-matter of this subreddit?](https://old.reddit.com/r/WarCollege/comments/uxmyuq/can_anyone_recommend_some_good_and_indepth/), submitted on 2022-05-26 01:52:31+08:00.
 
------ __465.1__ -----2022-05-26 15:30:27+08:00:
+----- __466.1__ -----2022-05-26 15:30:27+08:00:
 
 But that's not an effective defence, on multiple levels:
 
@@ -145,15 +145,15 @@ But that's not an effective defence, on multiple levels:
 
 Imagine if were to I go around performing surgeries while insisting I'm not a surgeon, and when someone bleeds out on the operating table I were to say 'I did say I wasn't a surgeon!', and when people complain about it other people go around defending me saying I'm not a surgeon, while also asserting that I should be allowed to perform surgery anyway.
 
------ __465.2__ -----2022-05-26 18:24:12+08:00:
+----- __466.2__ -----2022-05-26 18:24:12+08:00:
 
 >Carlin not being someone who's spent 20 years researching and debating the topics he chooses is quite often presented as some sort of "gotcha" followed by paragraphs of historiographical issues, when that misses the point entirely.
 
 In the same way I may have misread you, you have almost certainly misread them: The problem isn't that Carlin hasn't spent 20 years researching the topics, it's that he *hasn't read anything by those who have*. He either parrots old narratives or even (which was apparently the case for his Caesar vs William the Conqueror episode) makes shit up.
 
-### 466: [What's the difference between an armed forces controlled by a political party and an armed forces controlled by the state aside from being loyal to the party?](https://old.reddit.com/r/AskHistorians/comments/uy4m5n/whats_the_difference_between_an_armed_forces/), submitted on 2022-05-26 18:34:09+08:00.
+### 467: [What's the difference between an armed forces controlled by a political party and an armed forces controlled by the state aside from being loyal to the party?](https://old.reddit.com/r/AskHistorians/comments/uy4m5n/whats_the_difference_between_an_armed_forces/), submitted on 2022-05-26 18:34:09+08:00.
 
------ __466.1__ -----2022-05-26 18:51:34+08:00:
+----- __467.1__ -----2022-05-26 18:51:34+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -161,19 +161,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 467: [Any sources of causes of piracy in 16-17 century?](https://old.reddit.com/r/AskHistorians/comments/uy8q2t/any_sources_of_causes_of_piracy_in_1617_century/), submitted on 2022-05-26 22:21:10+08:00.
+### 468: [Any sources of causes of piracy in 16-17 century?](https://old.reddit.com/r/AskHistorians/comments/uy8q2t/any_sources_of_causes_of_piracy_in_1617_century/), submitted on 2022-05-26 22:21:10+08:00.
 
------ __467.1__ -----2022-05-26 22:45:32+08:00:
-
-Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
-
-Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you're asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don't know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.
-
-For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
-
-### 468: [I'd like to know about English Bronze Age Architecture for a book I'm writing. Aside from the common roundhouse, were more house-like structures ever used? Stone fortresses or castles, anything like that?](https://old.reddit.com/r/AskHistorians/comments/uymnz0/id_like_to_know_about_english_bronze_age/), submitted on 2022-05-27 09:20:10+08:00.
-
------ __468.1__ -----2022-05-27 13:37:06+08:00:
+----- __468.1__ -----2022-05-26 22:45:32+08:00:
 
 Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
 
@@ -181,9 +171,19 @@ Additionally, as amazing as our flair panel is, we should also point out that /r
 
 For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
 
-### 469: [Did any contemporaries notice the relative lack of military innovation from 1700 till 1815?](https://old.reddit.com/r/AskHistorians/comments/uymyit/did_any_contemporaries_notice_the_relative_lack/), submitted on 2022-05-27 09:36:05+08:00.
+### 469: [I'd like to know about English Bronze Age Architecture for a book I'm writing. Aside from the common roundhouse, were more house-like structures ever used? Stone fortresses or castles, anything like that?](https://old.reddit.com/r/AskHistorians/comments/uymnz0/id_like_to_know_about_english_bronze_age/), submitted on 2022-05-27 09:20:10+08:00.
 
------ __469.1__ -----2022-05-27 13:35:04+08:00:
+----- __469.1__ -----2022-05-27 13:37:06+08:00:
+
+Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
+
+Additionally, as amazing as our flair panel is, we should also point out that /r/AskHistorians is not a professional historical consultation service. If you're asking a question here because you need vital research for a future commercial product such as a historical novel, you may be better off engaging a historical consultant at a fair hourly rate to answer these questions for you. We don't know what the going rate for consultancy work would be in your locality, but it may be worth looking into that if you have in-depth or highly plot-reliant questions for this project. Some /r/AskHistorians flairs could be receptive to working as a consultant in this way. However, if you wish for a flair here to do this work for you, you will need to organize this with them yourselves.
+
+For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
+
+### 470: [Did any contemporaries notice the relative lack of military innovation from 1700 till 1815?](https://old.reddit.com/r/AskHistorians/comments/uymyit/did_any_contemporaries_notice_the_relative_lack/), submitted on 2022-05-27 09:36:05+08:00.
+
+----- __470.1__ -----2022-05-27 13:35:04+08:00:
 
 We tend to approach the period of around 1700 to 1815 as one of unchanging linear warfare, but this impression is wrong. Now, there are answers on this subreddit that go into the tactical and operational changes that took place from the French Revolution onward, such as these by /u/dandan_noodles:
 
@@ -217,11 +217,11 @@ Light troops performed two principal roles: supporting the army on campaign, and
 
 In short, I simply cannot agree with the premise of the question. The period described – even if we cut out the French Revolutionary and Napoleonic Wars – can be argued to have seen two major shifts take place: one in artillery, primarily up to the 1760s, and one in the use of light troops, primarily from the 1740s onwards, both of which saw a considerable increase in quantity and refinement in quality and usage.
 
------ __469.2__ -----2022-05-27 14:31:54+08:00:
+----- __470.2__ -----2022-05-27 14:31:54+08:00:
 
 *Jäger* (hunter) was the standard term used for light infantry fielded by the German states. The term 'Jäger rifle' was thus used to refer to the rifles used by such troops, as opposed to professional hunters – although there's no reason the latter could not have made use of them.
 
------ __469.3__ -----2022-05-27 15:55:36+08:00:
+----- __470.3__ -----2022-05-27 15:55:36+08:00:
 
 I cannot speak for the linked posts especially as I broadly didn't cover the periods in question in my answer, but for my own part I drew mostly on work by Christopher Duffy:
 
@@ -239,27 +239,17 @@ You may also find this article to be of interest on light infantry though I have
 
 * Jack Owen, 'The Influence of Warfare in Colonial America On the Development of British Light Infantry', *Army History* 44 (1998)
 
------ __469.4__ -----2022-05-27 16:01:59+08:00:
+----- __470.4__ -----2022-05-27 16:01:59+08:00:
 
 I think he both overstates the influence that American warfare had on Anglo-French tactics considering the concurrent rise of light troops in the armies of the German states, and hews to a rather traditionalist narrative in which the British failed to properly adapt to American infantry tactics rather than their defeat being a primarily strategic and not a tactical failure.
 
------ __469.5__ -----2022-05-27 17:16:42+08:00:
+----- __470.5__ -----2022-05-27 17:16:42+08:00:
 
 There's a limited accuracy insofar as yes, you can argue that during the early stages of the fighting the American colonists made heavier use of 'pure' light infantry than their counterparts in the regular British army. But the reality was that A: the British and their allies made considerable use of their own light troops, and professionally trained ones at that; and B: ultimately the Americans still established a conventional line force in the form of the Continental Army *and* gained an alliance with the French, who sent line troops of their own, before winning.
 
-### 470: [When did pride/arrogance lead to a rulers downfall?](https://old.reddit.com/r/AskHistorians/comments/uynsan/when_did_pridearrogance_lead_to_a_rulers_downfall/), submitted on 2022-05-27 10:20:31+08:00.
+### 471: [When did pride/arrogance lead to a rulers downfall?](https://old.reddit.com/r/AskHistorians/comments/uynsan/when_did_pridearrogance_lead_to_a_rulers_downfall/), submitted on 2022-05-27 10:20:31+08:00.
 
------ __470.1__ -----2022-05-27 13:36:26+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 471: [Fashion sketchbooks from Victorian? teenager](https://old.reddit.com/r/AskHistorians/comments/uyo7q4/fashion_sketchbooks_from_victorian_teenager/), submitted on 2022-05-27 10:44:18+08:00.
-
------ __471.1__ -----2022-05-27 13:36:34+08:00:
+----- __471.1__ -----2022-05-27 13:36:26+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -267,37 +257,47 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 472: [Which nation has committed the most war crimes in history?](https://old.reddit.com/r/AskHistorians/comments/uyqno1/which_nation_has_committed_the_most_war_crimes_in/), submitted on 2022-05-27 13:05:50+08:00.
+### 472: [Fashion sketchbooks from Victorian? teenager](https://old.reddit.com/r/AskHistorians/comments/uyo7q4/fashion_sketchbooks_from_victorian_teenager/), submitted on 2022-05-27 10:44:18+08:00.
 
------ __472.1__ -----2022-05-27 13:36:55+08:00:
+----- __472.1__ -----2022-05-27 13:36:34+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 473: [Which nation has committed the most war crimes in history?](https://old.reddit.com/r/AskHistorians/comments/uyqno1/which_nation_has_committed_the_most_war_crimes_in/), submitted on 2022-05-27 13:05:50+08:00.
+
+----- __473.1__ -----2022-05-27 13:36:55+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 473: [Any good books for me to read on my journey across Gansu and Xinjiang?](https://old.reddit.com/r/ChineseHistory/comments/uyymb8/any_good_books_for_me_to_read_on_my_journey/), submitted on 2022-05-27 21:48:25+08:00.
+### 474: [Any good books for me to read on my journey across Gansu and Xinjiang?](https://old.reddit.com/r/ChineseHistory/comments/uyymb8/any_good_books_for_me_to_read_on_my_journey/), submitted on 2022-05-27 21:48:25+08:00.
 
------ __473.1__ -----2022-05-28 03:38:27+08:00:
+----- __474.1__ -----2022-05-28 03:38:27+08:00:
 
 Seconded on Millward's Eurasian Crossroads, although be careful actually having it on your person I suppose as Millward's one of those 'controversial' historians that sees China's presence in Xinjiang as imperialism, shockingly enough (I wonder how anyone could form that impression). Also worth looking at is Jonathan Lipman's *Familiar Strangers*.
 
-### 474: [When it's been one year since CA dropped support for 3K:](https://old.reddit.com/r/totalwar/comments/uz1q7q/when_its_been_one_year_since_ca_dropped_support/), submitted on 2022-05-28 00:15:31+08:00.
+### 475: [When it's been one year since CA dropped support for 3K:](https://old.reddit.com/r/totalwar/comments/uz1q7q/when_its_been_one_year_since_ca_dropped_support/), submitted on 2022-05-28 00:15:31+08:00.
 
------ __474.1__ -----2022-05-28 05:07:16+08:00:
+----- __475.1__ -----2022-05-28 05:07:16+08:00:
 
 Gunpowder isn't attested before the 9th century CE.
 
-### 475: [Were ancient temple constructions beneficial or wasteful?](https://old.reddit.com/r/AskHistorians/comments/uz2uti/were_ancient_temple_constructions_beneficial_or/), submitted on 2022-05-28 01:07:56+08:00.
+### 476: [Were ancient temple constructions beneficial or wasteful?](https://old.reddit.com/r/AskHistorians/comments/uz2uti/were_ancient_temple_constructions_beneficial_or/), submitted on 2022-05-28 01:07:56+08:00.
 
------ __475.1__ -----2022-05-28 03:38:37+08:00:
+----- __476.1__ -----2022-05-28 03:38:37+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 476: [Oldest ritualistic mummification vs. The oldest circumstantial mummification? (Where/when?)](https://old.reddit.com/r/AskHistorians/comments/uz5jb4/oldest_ritualistic_mummification_vs_the_oldest/), submitted on 2022-05-28 03:15:17+08:00.
+### 477: [Oldest ritualistic mummification vs. The oldest circumstantial mummification? (Where/when?)](https://old.reddit.com/r/AskHistorians/comments/uz5jb4/oldest_ritualistic_mummification_vs_the_oldest/), submitted on 2022-05-28 03:15:17+08:00.
 
------ __476.1__ -----2022-05-28 03:39:03+08:00:
+----- __477.1__ -----2022-05-28 03:39:03+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -305,9 +305,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 477: [What did medieval "battle plans" or commands actually look like?](https://old.reddit.com/r/AskHistorians/comments/uz5y2x/what_did_medieval_battle_plans_or_commands/), submitted on 2022-05-28 03:35:06+08:00.
+### 478: [What did medieval "battle plans" or commands actually look like?](https://old.reddit.com/r/AskHistorians/comments/uz5y2x/what_did_medieval_battle_plans_or_commands/), submitted on 2022-05-28 03:35:06+08:00.
 
------ __477.1__ -----2022-05-28 03:39:29+08:00:
+----- __478.1__ -----2022-05-28 03:39:29+08:00:
 
 Hi there - we're happy to approve your question related to your creative project, and we are happy for people to answer. However, we should warn you that many flairs have become reluctant to answer questions for aspiring novelists and the like, based on past experience: some people working on creative projects have a tendency to try to pump historians for trivia while ignoring the bigger points they were making, while others have a tendency to argue with historians when the historical reality does not line up with what's needed for a particular scene or characterization. Please respect the answers of people who have generously given you their time, even if it's not always what you want to hear. 
 
@@ -315,15 +315,15 @@ Additionally, as amazing as our flair panel is, we should also point out that /r
 
 For more general advice about doing research to inform a creative project, please check out [our Monday Methods post on the subject](https://www.reddit.com/r/AskHistorians/comments/k8o4rv/monday_methods_researching_for_fiction/).
 
-### 478: [Fun and Exciting Opportunities Await You! • The /r/AskHistorians Flair Application Thread XXIV](https://old.reddit.com/r/AskHistorians/comments/v0aqc2/fun_and_exciting_opportunities_await_you_the/), submitted on 2022-05-29 21:02:22+08:00.
+### 479: [Fun and Exciting Opportunities Await You! • The /r/AskHistorians Flair Application Thread XXIV](https://old.reddit.com/r/AskHistorians/comments/v0aqc2/fun_and_exciting_opportunities_await_you_the/), submitted on 2022-05-29 21:02:22+08:00.
 
------ __478.1__ -----2022-06-02 02:02:32+08:00:
+----- __479.1__ -----2022-06-02 02:02:32+08:00:
 
 Follow-up from the previous thread to /u/MrAvoidance3000: Approved! Welcome to the panel.
 
-### 479: [[Hobby Scuffles] Week of May 30, 2022](https://old.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/), submitted on 2022-05-29 23:00:14+08:00.
+### 480: [[Hobby Scuffles] Week of May 30, 2022](https://old.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/), submitted on 2022-05-29 23:00:14+08:00.
 
------ __479.1__ -----2022-05-30 15:32:17+08:00:
+----- __480.1__ -----2022-05-30 15:32:17+08:00:
 
 It's me again, and you know what that means. VTuber drama relating to parts of the fandom I'm not active in outside meta discussion. [Last week](https://www.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/i9bb731/) I talked about Nijisanji's merchandise drama, this week we have fandom drama. As this concerns Luxiem you'll need to read the linked comment to find out who they are if you don't know already; if or when you do know, read on.
 
@@ -347,7 +347,7 @@ Subthreads here on the VirtualYoutubers weekly megathread, newest to oldest:
 
 * https://www.reddit.com/r/VirtualYoutubers/comments/uw3c3q/glorious_golden_glam_weekly_discussion_thread_may/iah21t4/
 
------ __479.2__ -----2022-05-30 17:37:44+08:00:
+----- __480.2__ -----2022-05-30 17:37:44+08:00:
 
 It's a twofold thing for me of:
 
@@ -355,11 +355,11 @@ A: It's skipping a step – arguably it's possible to do such content responsibl
 
 B: Even without that (and this I think is my more controversial take), it implies that at some stage the extremes of viewers' parasocial tendencies are the fault of the content creator, and I would argue that at worst there is a certain mutual responsibility. There is, I will admit, a very blurred line when it comes to exploiting and encouraging parasocial behaviour – also two things in my view – but for me at least it's hard to hold the creator responsible for unspoken assumptions made by their audience. Maybe this is all very death-of-the-author, but once the content is out there, people experiencing it will end up with their own takes.
 
------ __479.3__ -----2022-05-30 19:11:19+08:00:
+----- __480.3__ -----2022-05-30 19:11:19+08:00:
 
 Sure, I think your take is a perfectly valid one. And indeed /u/adaarable's too. We're coming at this from quite distinct first principles about the relationship between creators and audience, and that is leading us to quite evidently irreconcilable conclusions.
 
------ __479.4__ -----2022-05-31 11:12:36+08:00:
+----- __480.4__ -----2022-05-31 11:12:36+08:00:
 
 Update to [the NijiEN drama](https://www.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/iairldp/?context=3) that I mentioned, gosh, less than 24 hours ago (but long enough ago that I thought the update warranted a new post):
 
@@ -379,67 +379,67 @@ But *then* he *actually* apologised, addressing the concerns, *retracting his bl
 
 * https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/iam73vk/
 
------ __479.5__ -----2022-05-31 11:25:15+08:00:
+----- __480.5__ -----2022-05-31 11:25:15+08:00:
 
 I was wondering if anyone was not going to be fully convinced. I myself don't want to be so cynical that I would consider him to have been pressured by management or by colleagues to essentially 'redo' the apology, but I do think it's concerning that he stuck to his guns for as long as he did (that being, er, about 24 hours to be 'fair').
 
------ __479.6__ -----2022-05-31 13:56:08+08:00:
+----- __480.6__ -----2022-05-31 13:56:08+08:00:
 
 Yeah 24 hours is definitely faster than some contrite turnarounds I've seen. But jumping to pulling your friend out from under the bus to throw them under an express train as your first reaction – before even making a statement on Twitter for instance – is still a horrendous look, however quickly you recognise your mistake and retract it. Still, I'm glad he did make an attempt in the end.
 
------ __479.7__ -----2022-05-31 21:19:43+08:00:
+----- __480.7__ -----2022-05-31 21:19:43+08:00:
 
 I dunno. I'm not sure I've ever seen this line of argument used for ASMR roleplay channels, not to say they don't exist of course, I may well just have missed the discourse on it. Is there just something qualitatively different when a more variety-focussed content creator does it, or is it just that that's also widely regarded as problematic and I just haven't seen the critiques?
 
------ __479.8__ -----2022-06-01 11:40:52+08:00:
+----- __480.8__ -----2022-06-01 11:40:52+08:00:
 
 Y’know, never in my life did I expect there to be some kind of news connecting ~~Vox~~ Vic Mignogna, the original Red Ranger, and financial scams. Humankind never fails to rise to the challenge.
 
------ __479.9__ -----2022-06-01 11:42:29+08:00:
+----- __480.9__ -----2022-06-01 11:42:29+08:00:
 
 > while it's mostly remembered for the incest nowadays (don't ask)
 
 No, I think I will. What?
 
------ __479.10__ -----2022-06-01 11:53:32+08:00:
+----- __480.10__ -----2022-06-01 11:53:32+08:00:
 
 The only critique I’ve seen is Uniquenameosaurus’ and I thought that was a decently fair shake. Though I mean don’t watch unless you are interested and/or bored enough to be willing to watch a critique of HGS for 3 hours.
 
------ __479.11__ -----2022-06-01 11:54:32+08:00:
+----- __480.11__ -----2022-06-01 11:54:32+08:00:
 
 Wait what did Oxhorn do? I recognise the name but stopped watching around late 2018.
 
------ __479.12__ -----2022-06-01 11:55:40+08:00:
+----- __480.12__ -----2022-06-01 11:55:40+08:00:
 
 Spoilers for a season that came out over a year ago: Penny gets rebuilt but later sacrifices herself.
 
------ __479.13__ -----2022-06-01 12:11:45+08:00:
+----- __480.13__ -----2022-06-01 12:11:45+08:00:
 
 Lol yes. Looks like my autocorrect doesn’t even recognise ‘Vic’ as a word anymore; that’s how in deep I am.
 
------ __479.14__ -----2022-06-01 12:13:06+08:00:
+----- __480.14__ -----2022-06-01 12:13:06+08:00:
 
 I uh. Okay then.
 
------ __479.15__ -----2022-06-01 12:14:03+08:00:
+----- __480.15__ -----2022-06-01 12:14:03+08:00:
 
 Ah yes because it’s immediately 10x less creepy if they’re not *actually* biologically related, despite it presumably starting when they didn’t know otherwise...
 
------ __479.16__ -----2022-06-01 13:29:18+08:00:
+----- __480.16__ -----2022-06-01 13:29:18+08:00:
 
 Well then, yikes. I assume either A: I was very unobservant and/or naive or B: he toned down his messaging heavily during the height of his Fallout lore days.
 
------ __479.17__ -----2022-06-01 13:29:42+08:00:
+----- __480.17__ -----2022-06-01 13:29:42+08:00:
 
 *blinks*
 
 Okay this time I will *not* ask further, I do not want to know any more anymore.
 
------ __479.18__ -----2022-06-01 13:31:06+08:00:
+----- __480.18__ -----2022-06-01 13:31:06+08:00:
 
 I'll give it this, 'let's try and put a positive spin on incest' is a... *creative* decision.
 
------ __479.19__ -----2022-06-01 13:37:51+08:00:
+----- __480.19__ -----2022-06-01 13:37:51+08:00:
 
 I was about to say 'nah' but oh god now that I think about it, there has been a whole load of stuff hasn't there? Just off the top of my head:
 
@@ -483,31 +483,31 @@ ID/KR/CN:
 
 * The Chinese indie VTuber who was maybe kidnapped but also maybe not
 
------ __479.20__ -----2022-06-01 16:35:27+08:00:
+----- __480.20__ -----2022-06-01 16:35:27+08:00:
 
 I'd filed Nene's tracing incident under the various Hololive breaks, but yep the tag controversy also counts. I'm not familiar with the Quinn69 one though.
 
------ __479.21__ -----2022-06-01 18:37:52+08:00:
+----- __480.21__ -----2022-06-01 18:37:52+08:00:
 
 Eurgh, sounds unpleasant.
 
------ __479.22__ -----2022-06-01 21:11:27+08:00:
+----- __480.22__ -----2022-06-01 21:11:27+08:00:
 
 You sure it was this sub? I had a check using camas Reddit search and he doesn't seem to have been mentioned here before outside of this conversation.
 
------ __479.23__ -----2022-06-02 01:00:18+08:00:
+----- __480.23__ -----2022-06-02 01:00:18+08:00:
 
 Might it have been [this thread](https://www.reddit.com/r/SubredditDrama/comments/hf8mit/the_atomic_division_in_the_fallout_community/) on SubredditDrama?
 
------ __479.24__ -----2022-06-02 01:46:34+08:00:
+----- __480.24__ -----2022-06-02 01:46:34+08:00:
 
 What got leaked this time?
 
------ __479.25__ -----2022-06-02 02:06:28+08:00:
+----- __480.25__ -----2022-06-02 02:06:28+08:00:
 
 Well. At least it wasn't the whole tank this time!
 
------ __479.26__ -----2022-06-02 12:30:43+08:00:
+----- __480.26__ -----2022-06-02 12:30:43+08:00:
 
 YES! I hoped someone would ask.
 
@@ -521,7 +521,7 @@ Coming in the wake of one of the most divisive VTuber scandals in two and a half
 
 Lauren did then go on hiatus until 20 April, though the messaging may be a little ambiguous on whether he took a hiatus voluntarily, was suspended by the agency, or that the agency was already planning a suspension but he inadvertently pre-empted them. All agree though that it was a pretty funny set of events.
 
------ __479.27__ -----2022-06-04 04:05:46+08:00:
+----- __480.27__ -----2022-06-04 04:05:46+08:00:
 
 Oh dear more VTuber drama (besides the human trafficking affair mentioned earlier [here](https://www.reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/ib21d78/) by /u/xMasterSlave), one fan-side, one talent-side.
 
@@ -563,41 +563,41 @@ Going back to the talents sort of involved, Kazama Iroha is part of Hololive 6th
 
 Most Hololive members since 2020 have received second costumes within less than a year, and most of HoloJP Gen 5 got their 3D debuts within a little over 6 months. We're 7 months on from HoloX's first debut, and Iroha has just been announced to be unveiling her 3D model on 10 June, although it's safe to assume that the other members of HoloX will follow. You may see the issue already: IRyS has been around nearly twice as long as HoloX, and lives in Japan, but doesn't have a 3D debut in sight. The reasons aren't entirely clear, but likely relate to both Myth (which predated her) not having all officially debuted their 3D models yet, and possibly her main illustrator being busier than expected, along with her original model being unusually elaborate by Hololive standards to begin with. Unfortunately she has also ostensibly been a little hard done by on the Live2D front. Both HoloX and the other ten members of HoloEN besides IRyS got kimono alt outfits for New Year's 2022, but IRyS' was apparently delayed. She also hasn't had a non-event alt outfit yet, although to be fair neither have Council. As a result there's a bit of a narrative that IRyS is being neglected by management and so unfortunately Iroha's 3D announcement has been hijacked by angry fans and antis alike complaining about a lack of news about IRyS. The thread on the Hololive subreddit has had to be locked for that reason, so that's unpleasant.
 
------ __479.28__ -----2022-06-04 10:48:19+08:00:
+----- __480.28__ -----2022-06-04 10:48:19+08:00:
 
 > Matt Smith dances while a song plays with these lyrics, "have sex! have sex! Poop my pants, poop my pants"
 
 That cannot be true. Please tell me that’s not true.
 
------ __479.29__ -----2022-06-04 10:54:44+08:00:
+----- __480.29__ -----2022-06-04 10:54:44+08:00:
 
 Yes, IRyS definitely has other things to be working on and is in any case a solo debut in a different branch from JP; the rhythms and scheduling there will necessarily be different. Above all she doesn’t deserve to be invoked as a bludgeon during other members’ big events.
 
------ __479.30__ -----2022-06-04 12:42:56+08:00:
+----- __480.30__ -----2022-06-04 12:42:56+08:00:
 
 Gen 1 is to Holostars as Gen 0 is to Hololive.
 
------ __479.31__ -----2022-06-04 13:52:39+08:00:
+----- __480.31__ -----2022-06-04 13:52:39+08:00:
 
 No that has to be an edit, surely.
 
------ __479.32__ -----2022-06-04 13:56:53+08:00:
+----- __480.32__ -----2022-06-04 13:56:53+08:00:
 
 *babbles incoherently in despair*
 
------ __479.33__ -----2022-06-05 20:22:04+08:00:
+----- __480.33__ -----2022-06-05 20:22:04+08:00:
 
 I was wondering when that would come up again. Poor Fubuki.
 
 The big shame is that to be honest, it's not bad in concept: La+ Darkness had interviewed Robert Pattinson and Zoe Kravitz for The Batman and that went down quite well. What went wrong was Jared Leto being a charisma vacuum.
 
------ __479.34__ -----2022-06-05 20:24:27+08:00:
+----- __480.34__ -----2022-06-05 20:24:27+08:00:
 
 Ah so it's not just me who secretly wants to see Wiseau do Morbius.
 
-### 480: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
+### 481: [can somone help me with finding a good source?](https://old.reddit.com/r/AskHistorians/comments/v0dp9d/can_somone_help_me_with_finding_a_good_source/), submitted on 2022-05-29 23:36:05+08:00.
 
------ __480.1__ -----2022-05-30 02:54:43+08:00:
+----- __481.1__ -----2022-05-30 02:54:43+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 

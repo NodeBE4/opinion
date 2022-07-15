@@ -13,43 +13,43 @@ title: EnclavedMicrostate在2022-06-13~2022-06-19的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 529: [Primetime Parasocial Party - Weekly Discussion Thread, June 13th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/vbfqlf/primetime_parasocial_party_weekly_discussion/), submitted on 2022-06-14 00:11:11+08:00.
+### 530: [Primetime Parasocial Party - Weekly Discussion Thread, June 13th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/vbfqlf/primetime_parasocial_party_weekly_discussion/), submitted on 2022-06-14 00:11:11+08:00.
 
------ __529.1__ -----2022-06-15 12:06:00+08:00:
+----- __530.1__ -----2022-06-15 12:06:00+08:00:
 
 A sort of issue would be that there are different Chineses (to use the phrase clumsily), and at present there's a roughly 2:1 ratio (from what metrics I recall) of predominantly Mandarin-speaking Taiwanese viewers to Cantonese-speaking HK viewers, setting aside the possibility of VPN-using viewers doing things like superchatting via HKD and NTD. So unlike back when there was a bilibili presence and the vast majority of what I'll term 'Sinospheric' viewers were Mandarin-speakers, we've moved to an environment where ostensibly one third of 'Chinese' viewers speak a different language from the other two thirds.
 
 I'd imagine a loosening up of language use by certain members is more likely than the reintroduction of an international Chinese-language branch. There's a couple of HoloEN members with varying levels of proficiency in certain Sinitic languages for instance: I don't believe she has demonstrated it on stream *as* her Hololive VTuber persona, but >!Kiara does or did at one stage have some degree of Mandarin proficiency!<; the specific incident giving it away was scrubbed but >!Bae speaks Cantonese with Mama Rat!<.
 
------ __529.2__ -----2022-06-17 01:10:39+08:00:
+----- __530.2__ -----2022-06-17 01:10:39+08:00:
 
 TBH there's plenty of options though; you can have knives with an unpolished finish, or ostentatiously pattern-welded ones, or one with a black coating...
 
------ __529.3__ -----2022-06-18 11:40:47+08:00:
+----- __530.3__ -----2022-06-18 11:40:47+08:00:
 
 Or more members are rebranding possibly: [Froot](https://twitter.com/LichVtuber/status/1534607587672477701) has alluded to a 'rebrand' though what that may entail is as yet unclear.
 
------ __529.4__ -----2022-06-20 15:35:54+08:00:
+----- __530.4__ -----2022-06-20 15:35:54+08:00:
 
 It probably depends on context. In Hololive's case for instance, it's pretty much just version numbers for their main model, 1.0 being the debut model and 2.0 being a touch-up of that. 3.0 looks to be some kind of clever thingy with more accessories that was teased at the HoloExpo back in March.
 
-### 530: [These salt-soaked caverns are teeming with pelagic nightmares - they must be flushed out!](https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/), submitted on 2022-06-14 09:04:08+08:00.
+### 531: [These salt-soaked caverns are teeming with pelagic nightmares - they must be flushed out!](https://old.reddit.com/r/Hololive/comments/vbrej1/these_saltsoaked_caverns_are_teeming_with_pelagic/), submitted on 2022-06-14 09:04:08+08:00.
 
------ __530.1__ -----2022-06-14 11:50:52+08:00:
+----- __531.1__ -----2022-06-14 11:50:52+08:00:
 
 I need this template so much
 
-### 531: [Which movie about World War II do you consider the most realistic?](https://old.reddit.com/r/AskHistorians/comments/vc0x8z/which_movie_about_world_war_ii_do_you_consider/), submitted on 2022-06-14 19:01:18+08:00.
+### 532: [Which movie about World War II do you consider the most realistic?](https://old.reddit.com/r/AskHistorians/comments/vc0x8z/which_movie_about_world_war_ii_do_you_consider/), submitted on 2022-06-14 19:01:18+08:00.
 
------ __531.1__ -----2022-06-14 19:29:54+08:00:
+----- __532.1__ -----2022-06-14 19:29:54+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 532: [Why didn't the USSR annex or put a socialist government in Finland after WW2?](https://old.reddit.com/r/AskHistorians/comments/vc2crt/why_didnt_the_ussr_annex_or_put_a_socialist/), submitted on 2022-06-14 20:26:23+08:00.
+### 533: [Why didn't the USSR annex or put a socialist government in Finland after WW2?](https://old.reddit.com/r/AskHistorians/comments/vc2crt/why_didnt_the_ussr_annex_or_put_a_socialist/), submitted on 2022-06-14 20:26:23+08:00.
 
------ __532.1__ -----2022-06-14 21:15:57+08:00:
+----- __533.1__ -----2022-06-14 21:15:57+08:00:
 
 Hey there,
 
@@ -57,9 +57,9 @@ Just to let you know, your question is fine, and we're letting it stand. However
 
 If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
 
-### 533: [What were the diffrences between the Schlieffen Plan and the Blitzkrieg. Which strategy was more effective and why?](https://old.reddit.com/r/AskHistorians/comments/vc2we6/what_were_the_diffrences_between_the_schlieffen/), submitted on 2022-06-14 20:56:47+08:00.
+### 534: [What were the diffrences between the Schlieffen Plan and the Blitzkrieg. Which strategy was more effective and why?](https://old.reddit.com/r/AskHistorians/comments/vc2we6/what_were_the_diffrences_between_the_schlieffen/), submitted on 2022-06-14 20:56:47+08:00.
 
------ __533.1__ -----2022-06-14 21:21:10+08:00:
+----- __534.1__ -----2022-06-14 21:21:10+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -67,51 +67,51 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 534: [What are some of the most influential and secretive US government programs that were uncovered, such as MKULTRA?](https://old.reddit.com/r/AskHistorians/comments/vcqfai/what_are_some_of_the_most_influential_and/), submitted on 2022-06-15 17:18:24+08:00.
+### 535: [What are some of the most influential and secretive US government programs that were uncovered, such as MKULTRA?](https://old.reddit.com/r/AskHistorians/comments/vcqfai/what_are_some_of_the_most_influential_and/), submitted on 2022-06-15 17:18:24+08:00.
 
------ __534.1__ -----2022-06-15 18:14:36+08:00:
+----- __535.1__ -----2022-06-15 18:14:36+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 535: [[Tabletop Wargaming] 4Ground fades into the BackGround: The rise and fall of a terrain manufacturer, featuring a Kickstarter disaster, legal shenanigans, and souvenir wooden swords.](https://old.reddit.com/r/HobbyDrama/comments/vcu34h/tabletop_wargaming_4ground_fades_into_the/), submitted on 2022-06-15 21:05:27+08:00.
+### 536: [[Tabletop Wargaming] 4Ground fades into the BackGround: The rise and fall of a terrain manufacturer, featuring a Kickstarter disaster, legal shenanigans, and souvenir wooden swords.](https://old.reddit.com/r/HobbyDrama/comments/vcu34h/tabletop_wargaming_4ground_fades_into_the/), submitted on 2022-06-15 21:05:27+08:00.
 
------ __535.1__ -----2022-06-15 22:54:54+08:00:
+----- __536.1__ -----2022-06-15 22:54:54+08:00:
 
 Is there a specific context in which that appeared? As in they openly stated they wouldn't bring up 4Ground again?
 
------ __535.2__ -----2022-06-15 22:55:18+08:00:
+----- __536.2__ -----2022-06-15 22:55:18+08:00:
 
 No problem! For my part I've only ever backed one Kickstarter campaign (also for a tabletop wargame project), but while that overran it did deliver.
 
------ __535.3__ -----2022-06-15 23:40:24+08:00:
+----- __536.3__ -----2022-06-15 23:40:24+08:00:
 
 Not all, but a good few (smile)
 
------ __535.4__ -----2022-06-16 00:18:36+08:00:
+----- __536.4__ -----2022-06-16 00:18:36+08:00:
 
 Glad you enjoyed (smile)
 
------ __535.5__ -----2022-06-16 00:19:02+08:00:
+----- __536.5__ -----2022-06-16 00:19:02+08:00:
 
 Ahh, well. Glad you enjoyed!
 
------ __535.6__ -----2022-06-16 02:16:54+08:00:
+----- __536.6__ -----2022-06-16 02:16:54+08:00:
 
 Ah, is that last one AK?
 
------ __535.7__ -----2022-06-16 02:17:26+08:00:
+----- __536.7__ -----2022-06-16 02:17:26+08:00:
 
 It's complicated and one has to try to trust that your co-players aren't awful. Which, er... can be over-optimistic as I myself know.
 
------ __535.8__ -----2022-06-17 12:52:43+08:00:
+----- __536.8__ -----2022-06-17 12:52:43+08:00:
 
 I stumbled across TMP in I think 2016 or so and I've hung around there since; I suspect that makes me rather unusual though all told.
 
-### 536: [Sino-Soviet strategic cooperation documents "Protocol No. 1", What are the “Errikon" and "Motad" Missiles referenced?](https://old.reddit.com/r/AskHistorians/comments/vdd4fg/sinosoviet_strategic_cooperation_documents/), submitted on 2022-06-16 12:07:25+08:00.
+### 537: [Sino-Soviet strategic cooperation documents "Protocol No. 1", What are the “Errikon" and "Motad" Missiles referenced?](https://old.reddit.com/r/AskHistorians/comments/vdd4fg/sinosoviet_strategic_cooperation_documents/), submitted on 2022-06-16 12:07:25+08:00.
 
------ __536.1__ -----2022-06-16 13:12:12+08:00:
+----- __537.1__ -----2022-06-16 13:12:12+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -119,9 +119,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 537: [Was the Dzungar genocide exaggerated?](https://old.reddit.com/r/AskHistorians/comments/vdq3xt/was_the_dzungar_genocide_exaggerated/), submitted on 2022-06-17 00:37:15+08:00.
+### 538: [Was the Dzungar genocide exaggerated?](https://old.reddit.com/r/AskHistorians/comments/vdq3xt/was_the_dzungar_genocide_exaggerated/), submitted on 2022-06-17 00:37:15+08:00.
 
------ __537.1__ -----2022-06-17 02:19:11+08:00:
+----- __538.1__ -----2022-06-17 02:19:11+08:00:
 
 (Some quick notes on terminology: Firstly, Zungar, Zunghar, Dzungar, Dzungar and Junghar are all acceptable variant spellings; I have opted for Zunghar out of familiarity. Secondly, the term 'bondservant', which crops up in a quote later, refers to a particular category of enslaved person known in Manchu as *booi*.)
 
@@ -145,7 +145,7 @@ The intent and execution of the acts here are clear: the Qianlong Emperor was or
 
 I will address specific issues with the post in a reply to this answer later.
 
------ __537.2__ -----2022-06-17 03:51:51+08:00:
+----- __538.2__ -----2022-06-17 03:51:51+08:00:
 
 The post makes a number of claims which are questionable at best. Addressing them in order:
 
@@ -207,15 +207,15 @@ The only way to interpret the above quote is that ancient Chinese states *would 
 
 So yes, the Zunghar Genocide was a genocide, no it has not been exaggerated, and don't get your history off Quora. [Especially now that it's not even plagiarised from AskHistorians anymore.](https://twitter.com/EMicrostate/status/1491057267063484426)
 
-### 538: [Need help translating this. I got this from a friend of mine. The inside looks like wax or clay.](https://old.reddit.com/r/ChineseTranslation/comments/vdrnud/need_help_translating_this_i_got_this_from_a/), submitted on 2022-06-17 01:45:54+08:00.
+### 539: [Need help translating this. I got this from a friend of mine. The inside looks like wax or clay.](https://old.reddit.com/r/ChineseTranslation/comments/vdrnud/need_help_translating_this_i_got_this_from_a/), submitted on 2022-06-17 01:45:54+08:00.
 
------ __538.1__ -----2022-06-18 01:01:53+08:00:
+----- __539.1__ -----2022-06-18 01:01:53+08:00:
 
 I concur with /u/Red_D_Rabbit that this is a box of seal paste (印泥 *yin ni*), and doing a bit of extra Googling specifically of a type called Zhangzhou Babao (漳州八寶) specifically associated with Zhangzhou in Fujian. In terms of the sticker, I believe that the outer four characters are supposed to be read top-bottom-right-left to form 魁紅硃砂, which would translate roughly to 'best red cinnabar', but I'll admit that it's unclear if that is the order in which they ought to go. However, I'm having some difficulty with the brand because I'm not confident identifying the leftmost character. I'm also having very little luck finding any brand of seal paste with the characters '芳齊', so it may be an old, defunct brand.
 
-### 539: [Why did Japan create the Reorganized National Government under Wang Jingwei instead of granting the territory to their already existing puppet of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/vdwo8t/why_did_japan_create_the_reorganized_national/), submitted on 2022-06-17 05:37:23+08:00.
+### 540: [Why did Japan create the Reorganized National Government under Wang Jingwei instead of granting the territory to their already existing puppet of Manchukuo?](https://old.reddit.com/r/AskHistorians/comments/vdwo8t/why_did_japan_create_the_reorganized_national/), submitted on 2022-06-17 05:37:23+08:00.
 
------ __539.1__ -----2022-06-17 21:14:08+08:00:
+----- __540.1__ -----2022-06-17 21:14:08+08:00:
 
 To lay something out beforehand, this specific matter comes well after my actual specialism (only by about 30 years to be fair, but still), and I am very willing to be corrected in part or in whole by anyone whose toes I may end up treading on should I get things wrong.
 
@@ -235,7 +235,7 @@ The strategic motive behind the separatist states was the perceived need to esta
 
 When we look at it from this perspective, Manchukuo's limited territorial scope starts to make a lot more sense. For one it was part of a strategy of anti-Soviet containment that hadn't been abandoned as such, but whose fiercest proponents had been expunged; for another it had been consistently conceptualised not as a part of China under Japanese indirect rule, but rather as a state independent of China, where the severing of ties went both ways.
 
------ __539.2__ -----2022-06-17 21:21:05+08:00:
+----- __540.2__ -----2022-06-17 21:21:05+08:00:
 
 ### The Collaboration Governments
 
@@ -261,9 +261,9 @@ We need to regard the fragmentary nature of the Japanese puppet regimes in ROC-c
 
 Aside from the sources in the two linked answers, see also Selçuk Esenbel, 'Japan's Global Claim to Asia and the World of Islam: Transnational Nationalism and World Power, 1900-1945', in *The American Historical Review* 109:4 (2004).
 
-### 540: [What are the major differences between French Revolution of 1789 and 1848?](https://old.reddit.com/r/AskHistorians/comments/veeulf/what_are_the_major_differences_between_french/), submitted on 2022-06-17 22:47:11+08:00.
+### 541: [What are the major differences between French Revolution of 1789 and 1848?](https://old.reddit.com/r/AskHistorians/comments/veeulf/what_are_the_major_differences_between_french/), submitted on 2022-06-17 22:47:11+08:00.
 
------ __540.1__ -----2022-06-18 00:41:15+08:00:
+----- __541.1__ -----2022-06-18 00:41:15+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -271,39 +271,39 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 541: [Historian or not, what are some funny comparisons between modern and historical events that make them seem a lot less serious?](https://old.reddit.com/r/AskHistorians/comments/vejsbg/historian_or_not_what_are_some_funny_comparisons/), submitted on 2022-06-18 00:22:11+08:00.
+### 542: [Historian or not, what are some funny comparisons between modern and historical events that make them seem a lot less serious?](https://old.reddit.com/r/AskHistorians/comments/vejsbg/historian_or_not_what_are_some_funny_comparisons/), submitted on 2022-06-18 00:22:11+08:00.
 
------ __541.1__ -----2022-06-18 00:30:28+08:00:
+----- __542.1__ -----2022-06-18 00:30:28+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 542: [Aqua's Updated Family Tree](https://old.reddit.com/r/Hololive/comments/veknxz/aquas_updated_family_tree/), submitted on 2022-06-18 00:59:57+08:00.
+### 543: [Aqua's Updated Family Tree](https://old.reddit.com/r/Hololive/comments/veknxz/aquas_updated_family_tree/), submitted on 2022-06-18 00:59:57+08:00.
 
------ __542.1__ -----2022-06-18 14:57:23+08:00:
+----- __543.1__ -----2022-06-18 14:57:23+08:00:
 
 But wait, if Noel is *also* Lamy's mother...
 
 What *is* this family tree?
 
-### 543: [Did Kiara stop doing holotalk?](https://old.reddit.com/r/Hololive/comments/veo617/did_kiara_stop_doing_holotalk/), submitted on 2022-06-18 03:35:35+08:00.
+### 544: [Did Kiara stop doing holotalk?](https://old.reddit.com/r/Hololive/comments/veo617/did_kiara_stop_doing_holotalk/), submitted on 2022-06-18 03:35:35+08:00.
 
------ __543.1__ -----2022-06-18 11:33:40+08:00:
+----- __544.1__ -----2022-06-18 11:33:40+08:00:
 
 Seems like what you got was a rrat about Ayame looking at Hololive as an occasional meal ticket so I guess I'll offer a more reasonable explanation. Ayame has been dealing with a lot of personal and family issues for a good while now, but she's been a consistent guest in 3D Lives and has remained active on Twitter, so it's not like she's popping into Hololive every once in a while. It's only quite recently that she's been back to streaming significantly. Depending on when Kiara mentioned not thinking Ayame would be likely, it's very likely it was at a time when she was streaming very rarely and going through a lot of issues (and there are still issues she's going through now), and it just might not be great doing an hour-long interview segment, even one that's relatively chill like Holotalk, when you're in that kind of situation and genuinely vulnerable. I can't speak for Kiara's specific thought process, but I'd imagine it's not too far off.
 
-### 544: [Can anyone translate this ingot text?](https://old.reddit.com/r/ChineseTranslation/comments/vfbe7g/can_anyone_translate_this_ingot_text/), submitted on 2022-06-19 01:48:13+08:00.
+### 545: [Can anyone translate this ingot text?](https://old.reddit.com/r/ChineseTranslation/comments/vfbe7g/can_anyone_translate_this_ingot_text/), submitted on 2022-06-19 01:48:13+08:00.
 
------ __544.1__ -----2022-06-19 14:08:41+08:00:
+----- __545.1__ -----2022-06-19 14:08:41+08:00:
 
 Unfortunately you've taken the photos upside down, but I've flipped it. It seems like this is in fact a Japanese piece, although it's understandably not easy to tell as a layperson as all the characters are kanji (Chinese characters as used in Japanese). The piece itself however is of Japanese origin, as these relatively thin ingots were developed in Japan in the Edo period. The reverse inscription has 定 *jō* (which serves as a proof mark), 常是 *jōze* (the title of a mint official) and 銀座 *ginza* (mint). The obverse is worn to where only 銀 *gin* (silver) is legible, but doing some quick research the [full inscription](https://coinweek.com/wp-content/uploads/2019/05/Ichibu-Gin.jpg) is probably 一分銀 *ichi bu gin*, with the *bu* being a weight/currency unit corresponding to about 7.5g of silver.
 
------ __544.2__ -----2022-06-19 16:34:05+08:00:
+----- __545.2__ -----2022-06-19 16:34:05+08:00:
 
 Yep.
 
-### 545: [How much did the average upper class Japanese person know about the rest of the world during the period when the country was isolated?](https://old.reddit.com/r/AskHistorians/comments/vfmesg/how_much_did_the_average_upper_class_japanese/), submitted on 2022-06-19 11:38:06+08:00.
+### 546: [How much did the average upper class Japanese person know about the rest of the world during the period when the country was isolated?](https://old.reddit.com/r/AskHistorians/comments/vfmesg/how_much_did_the_average_upper_class_japanese/), submitted on 2022-06-19 11:38:06+08:00.
 
------ __545.1__ -----2022-06-19 14:53:59+08:00:
+----- __546.1__ -----2022-06-19 14:53:59+08:00:
 
 More may of course be said, but the alleged 'isolation' of Edo-era Japan has been greatly exaggerated. See the answers to:
 
@@ -313,9 +313,9 @@ More may of course be said, but the alleged 'isolation' of Edo-era Japan has bee
 
 And also thanks again to ParallelPain for compiling these links previously so I could copy-paste the whole thing again here.
 
-### 546: [Which politician(s) were not the first pick?](https://old.reddit.com/r/AskHistorians/comments/vfnbeg/which_politicians_were_not_the_first_pick/), submitted on 2022-06-19 12:35:34+08:00.
+### 547: [Which politician(s) were not the first pick?](https://old.reddit.com/r/AskHistorians/comments/vfnbeg/which_politicians_were_not_the_first_pick/), submitted on 2022-06-19 12:35:34+08:00.
 
------ __546.1__ -----2022-06-19 15:01:25+08:00:
+----- __547.1__ -----2022-06-19 15:01:25+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -323,27 +323,27 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 547: [[Hobby Scuffles] Week of June 20, 2022](https://old.reddit.com/r/HobbyDrama/comments/vfx1dc/hobby_scuffles_week_of_june_20_2022/), submitted on 2022-06-19 23:00:16+08:00.
+### 548: [[Hobby Scuffles] Week of June 20, 2022](https://old.reddit.com/r/HobbyDrama/comments/vfx1dc/hobby_scuffles_week_of_june_20_2022/), submitted on 2022-06-19 23:00:16+08:00.
 
------ __547.1__ -----2022-06-21 03:29:07+08:00:
+----- __548.1__ -----2022-06-21 03:29:07+08:00:
 
 I gave up on Extra Credits not long after Extra History became a thing. It's just... *so bad*.
 
------ __547.2__ -----2022-06-21 03:37:21+08:00:
+----- __548.2__ -----2022-06-21 03:37:21+08:00:
 
 I never played the game myself, though I did watch bits and pieces of Ludohistory's Twitch streams of it and even appeared as a guest on the last one to have a bit of a chat about its China zone. Playlist here: https://www.youtube.com/watch?v=YTakIeSy4Yk&list=PLvFfHAMv6EH97hZ_B4JUHBuBK4yRAWx5l
 
 It's interesting being someone who mostly operates in historian spaces where most of the critique was really about the *terrible* optics of a colonialism MMO and the game's constant falling back on colonialist tropes and motifs, and then coming over to more mainstream spaces to find that it's also just a shit game.
 
------ __547.3__ -----2022-06-25 02:23:39+08:00:
+----- __548.3__ -----2022-06-25 02:23:39+08:00:
 
 He doesn't, although in the most recent episode there's a blink-and-you'll-miss-it visual reference in that the book that Dr. Mbenga reads to his daughter was written by Benny Russell.
 
------ __547.4__ -----2022-06-25 02:24:53+08:00:
+----- __548.4__ -----2022-06-25 02:24:53+08:00:
 
 Is this the infamous Ricky D. Phillips, Falklands War conspiracy theorist and alleged Hannibal march route discoverer? As a direct participant in part of the drama (I was and still technically am a mod of r/badhistory, where a part of it played out), I would be *very* interested in a more detached take. For what it's worth, he is *very* willing to be abusive, it's just he seems to have done so in spaces that are/were, shall we say, relatively well-moderated.
 
------ __547.5__ -----2022-06-25 02:53:49+08:00:
+----- __548.5__ -----2022-06-25 02:53:49+08:00:
 
 I'm very torn on Strange New Worlds, but not because I think it's badly executed. Frankly, assuming that episodes 9 and 10 maintain the level of quality of 1-8, its first season will have been the most consistently high-quality season Trek has ever produced. The cast is brilliant, I like the dialogue, I like the production design, and I think it mostly handles its diversity in a way that kind of *is* in your face without *feeling* in your face, if that's a good way of putting it.
 
@@ -369,19 +369,19 @@ When it comes to the episode concepts, I keep having the feeling of, 'haven't we
 
 The thing is, they're all done *well*. And there are definitely sparks of originality in every one. Just to name a few, episode 3 has an interesting if cut-short rumination on Trek's scepticism of transhumanism through a character who *hasn't* internalised an anti-transhuman perspective the way Bashir had on DS9; episode 6 goes for a classic SF/fantasy work that Trek *hasn't* previously engaged with directly; and I really like how episode 7 tries to tease at some more complex views of identity by having a gender-nonbinary character try to connect with Spock's own struggle with a different sort of non-binary identity. I get that on some level every story has been told, I just have this feeling that Strange New Worlds isn't doing much, er, new, even if it's fantastically good at doing it.
 
------ __547.6__ -----2022-06-25 17:13:02+08:00:
+----- __548.6__ -----2022-06-25 17:13:02+08:00:
 
 That's fair, but I suppose if you ever want a co-writer who did a little reading on the Falklands in the past, I am willing to render my services.
 
------ __547.7__ -----2022-06-25 20:13:42+08:00:
+----- __548.7__ -----2022-06-25 20:13:42+08:00:
 
 Or use a site like camas.unddit.com.
 
------ __547.8__ -----2022-06-25 20:23:09+08:00:
+----- __548.8__ -----2022-06-25 20:23:09+08:00:
 
 I was wondering how long it would take for it to reach HobbyDrama. All told, I feel like there isn't much to discuss or at least not really anywhere it can still go. Both parties are essentially agreeing to disagree, and unless Mikeneko develops a more extreme case of lastworditis, this is probably where it all ends.
 
------ __547.9__ -----2022-06-25 22:53:21+08:00:
+----- __548.9__ -----2022-06-25 22:53:21+08:00:
 
 Well, that's if we presume that Mikeneko's intention was to silence the antis. I personally don't think she's trying to do that, or to stir up new drama. To be honest, what seems to be the case is that she felt like Cover's statement didn't adequately represent her own view of what went down, she prepared a statement with her lawyers and cleared it with Cover to just get her side of the story out there, and she is prepared for people to either accept it or not. Maybe she could just move on without saying anything, but she does deserve to be able to deliver her perspective on what happened, whether or not the people reading it agree with that perspective.
 

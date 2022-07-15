@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2021-12-27~2022-01-02的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 4: [How established were the Qing Authorities in Taiwan when they were ceded to Japan?](https://old.reddit.com/r/AskHistorians/comments/rqkns6/how_established_were_the_qing_authorities_in/), submitted on 2021-12-29 01:16:34+08:00.
+### 5: [How established were the Qing Authorities in Taiwan when they were ceded to Japan?](https://old.reddit.com/r/AskHistorians/comments/rqkns6/how_established_were_the_qing_authorities_in/), submitted on 2021-12-29 01:16:34+08:00.
 
------ __4.1__ -----2021-12-29 18:09:40+08:00:
+----- __5.1__ -----2021-12-29 18:09:40+08:00:
 
 ### IV: The Treaty Port Era
 
@@ -41,63 +41,53 @@ In short, at the time of the Treaty of Shimonoseki, the Qing had maintained a pr
 
 * As points of comparison with Qing Taiwan, see Laura Hostetler's *Qing Colonial Enterprise* (2001) on Qing policy towards indigenous people in eighteenth-century Guizhou, and Seonmin Kim's *Ginseng and Borderland* (2018) on diplomacy, colonialism, and ecology on the border between Qing Manchuria and Choson Korea.
 
-### 5: [Tanker nearly takes out rental boat anchored in shipping channel](https://old.reddit.com/r/IdiotsInBoats/comments/rqos9y/tanker_nearly_takes_out_rental_boat_anchored_in/), submitted on 2021-12-29 04:25:04+08:00.
+### 6: [Tanker nearly takes out rental boat anchored in shipping channel](https://old.reddit.com/r/IdiotsInBoats/comments/rqos9y/tanker_nearly_takes_out_rental_boat_anchored_in/), submitted on 2021-12-29 04:25:04+08:00.
 
------ __5.1__ -----2022-01-14 11:03:32+08:00:
+----- __6.1__ -----2022-01-14 11:03:32+08:00:
 
 It does look weird, but it seems like old, inactive subs are auto-renamed, perhaps to prevent their coming up on searches and/or to allow them to be reused. Take for instance https://www.reddit.com/r/a:t5_38oj6/, which used to be /r/badtactics.
 
-### 6: [China was conquered by the mongols and the Manchurians. Why was it not subjected to their total influence, and instead China absorbed them?](https://old.reddit.com/r/AskHistorians/comments/rqpud2/china_was_conquered_by_the_mongols_and_the/), submitted on 2021-12-29 05:12:23+08:00.
+### 7: [China was conquered by the mongols and the Manchurians. Why was it not subjected to their total influence, and instead China absorbed them?](https://old.reddit.com/r/AskHistorians/comments/rqpud2/china_was_conquered_by_the_mongols_and_the/), submitted on 2021-12-29 05:12:23+08:00.
 
------ __6.1__ -----2022-01-04 19:40:01+08:00:
+----- __7.1__ -----2022-01-04 19:40:01+08:00:
 
 This is one of those 'yes and no' scenarios: the answer changed over time for different people. The Qing were perceived as foreign conquerors by a *portion* of the Han Chinese population, or at least the elite, for most of their existence; yet only in the late 19th century do we see any particularly large-scale political action resulting from that perceived foreignness. There are kind of two ways of going about viewing it: either a) until the mid-nineteenth century, the Qing were successful at projecting an image of acculturation that made their rule palatable to the Han Chinese writ large, on the basis that being seen as foreign *was* problematic and therefore the Qing avoided creating that impression, or b) the Han were broadly convinced of the Qing's essential foreignness, but did not see this as problematic until, in the mid-nineteenth century, they came to adopt a much more ethnocentric form of politics.
 
-### 7: [In the Chinese SciFi novel "The Three Body Problem" the mass violence and persecution of the Cultural Revolution are important plot points that are often revisited throughout, what is the view of the Cultural Revolution and its consequences in modern China?](https://old.reddit.com/r/AskHistorians/comments/rqr6pp/in_the_chinese_scifi_novel_the_three_body_problem/), submitted on 2021-12-29 06:12:57+08:00.
+### 8: [In the Chinese SciFi novel "The Three Body Problem" the mass violence and persecution of the Cultural Revolution are important plot points that are often revisited throughout, what is the view of the Cultural Revolution and its consequences in modern China?](https://old.reddit.com/r/AskHistorians/comments/rqr6pp/in_the_chinese_scifi_novel_the_three_body_problem/), submitted on 2021-12-29 06:12:57+08:00.
 
------ __7.1__ -----2021-12-29 16:49:53+08:00:
+----- __8.1__ -----2021-12-29 16:49:53+08:00:
 
 Thanks!
 
-### 8: [AZKi will be moving from INNK music into Hololive proper](https://old.reddit.com/r/Hololive/comments/rqxhju/azki_will_be_moving_from_innk_music_into_hololive/), submitted on 2021-12-29 11:05:29+08:00.
+### 9: [AZKi will be moving from INNK music into Hololive proper](https://old.reddit.com/r/Hololive/comments/rqxhju/azki_will_be_moving_from_innk_music_into_hololive/), submitted on 2021-12-29 11:05:29+08:00.
 
------ __8.1__ -----2021-12-29 16:15:28+08:00:
+----- __9.1__ -----2021-12-29 16:15:28+08:00:
 
 Nah, Project: HOPE is part of HoloEN.
 
------ __8.2__ -----2021-12-29 19:00:55+08:00:
+----- __9.2__ -----2021-12-29 19:00:55+08:00:
 
 I mean upd8 no longer even exists as of the end of 2020, so I don't know who if anyone would have those.
 
------ __8.3__ -----2021-12-29 19:20:01+08:00:
+----- __9.3__ -----2021-12-29 19:20:01+08:00:
 
 > composition inc.
 
 I believe Composition Inc. may just be a contractor handling video production matters rather than having any kind of ownership/management stake.
 
------ __8.4__ -----2021-12-29 20:01:58+08:00:
+----- __9.4__ -----2021-12-29 20:01:58+08:00:
 
 Well, the main thing – which I neglected to bring up – is that INNK was always a subdivision of Cover. AZKi was, if I understand correctly, represented under upd8 while being 'owned' (IP-wise) and managed by Cover; but Suisei was under Cover as part of INNK but not affiliated directly with upd8. So I assume whatever upd8 may have had might have been some kind of contractual terms over AZKi's affiliation with them which might have required her to terminate activity in mid-2022, but with upd8 folding that's become obsolete and AZKi and Cover are now free to keep going past what would have been an agreed cutoff.
 
-### 9: [The Inca Empire referred to itself as the 'Four Parts Together', but what were the four parts, and what distinguished them? Was it just an arbitrary administrative separation, or did they represent distinct cultural groups within the empire?](https://old.reddit.com/r/AskHistorians/comments/rr0mwr/the_inca_empire_referred_to_itself_as_the_four/), submitted on 2021-12-29 13:48:53+08:00.
+### 10: [The Inca Empire referred to itself as the 'Four Parts Together', but what were the four parts, and what distinguished them? Was it just an arbitrary administrative separation, or did they represent distinct cultural groups within the empire?](https://old.reddit.com/r/AskHistorians/comments/rr0mwr/the_inca_empire_referred_to_itself_as_the_four/), submitted on 2021-12-29 13:48:53+08:00.
 
------ __9.1__ -----2022-03-05 02:26:24+08:00:
+----- __10.1__ -----2022-03-05 02:26:24+08:00:
 
 Thank you!
 
-### 10: [how many troops were armoured in ancient world?](https://old.reddit.com/r/AskHistorians/comments/rr3u08/how_many_troops_were_armoured_in_ancient_world/), submitted on 2021-12-29 17:03:55+08:00.
+### 11: [how many troops were armoured in ancient world?](https://old.reddit.com/r/AskHistorians/comments/rr3u08/how_many_troops_were_armoured_in_ancient_world/), submitted on 2021-12-29 17:03:55+08:00.
 
------ __10.1__ -----2021-12-29 18:10:37+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 11: [What do each of the royal titles in a historical monarchic system rule over and what is their modern equavalent?](https://old.reddit.com/r/AskHistorians/comments/rr7bjw/what_do_each_of_the_royal_titles_in_a_historical/), submitted on 2021-12-29 20:40:55+08:00.
-
------ __11.1__ -----2021-12-29 22:18:37+08:00:
+----- __11.1__ -----2021-12-29 18:10:37+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -105,9 +95,19 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 12: [Why was China so weak in the 19th century?](https://old.reddit.com/r/AskHistorians/comments/rrd317/why_was_china_so_weak_in_the_19th_century/), submitted on 2021-12-30 01:11:07+08:00.
+### 12: [What do each of the royal titles in a historical monarchic system rule over and what is their modern equavalent?](https://old.reddit.com/r/AskHistorians/comments/rr7bjw/what_do_each_of_the_royal_titles_in_a_historical/), submitted on 2021-12-29 20:40:55+08:00.
 
------ __12.1__ -----2021-12-30 13:27:15+08:00:
+----- __12.1__ -----2021-12-29 22:18:37+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 13: [Why was China so weak in the 19th century?](https://old.reddit.com/r/AskHistorians/comments/rrd317/why_was_china_so_weak_in_the_19th_century/), submitted on 2021-12-30 01:11:07+08:00.
+
+----- __13.1__ -----2021-12-30 13:27:15+08:00:
 
 I did contemplate writing a fuller answer to this last night, but I feel like the various elements that would have made it up would have ended up recycled from older answers, so I'll link said answers here and save myself the trouble. I will note, if there's anything you'd like covered that I didn't, do feel free to ask a follow-up or two or three about them.
 
@@ -121,15 +121,15 @@ I did contemplate writing a fuller answer to this last night, but I feel like th
 
 * [Why did the Qing Dynasty fail to modernise China in a similar fashion as Japan did to their own country?](https://www.reddit.com/r/AskHistorians/comments/hc9udq/why_did_the_qing_dynasty_fail_to_modernise_china/fve2rl4/)
 
-### 13: [Beware of the bike lane](https://old.reddit.com/r/WTF/comments/rrg9cc/beware_of_the_bike_lane/), submitted on 2021-12-30 03:23:13+08:00.
+### 14: [Beware of the bike lane](https://old.reddit.com/r/WTF/comments/rrg9cc/beware_of_the_bike_lane/), submitted on 2021-12-30 03:23:13+08:00.
 
------ __13.1__ -----2021-12-30 20:49:32+08:00:
+----- __14.1__ -----2021-12-30 20:49:32+08:00:
 
 Bless the maker and his water!
 
-### 14: [How do historians cut through bias to find the truth of historical events?](https://old.reddit.com/r/AskHistorians/comments/rs2y0y/how_do_historians_cut_through_bias_to_find_the/), submitted on 2021-12-30 22:23:02+08:00.
+### 15: [How do historians cut through bias to find the truth of historical events?](https://old.reddit.com/r/AskHistorians/comments/rs2y0y/how_do_historians_cut_through_bias_to_find_the/), submitted on 2021-12-30 22:23:02+08:00.
 
------ __14.1__ -----2021-12-31 11:44:08+08:00:
+----- __15.1__ -----2021-12-31 11:44:08+08:00:
 
 /u/LegalAction has given one example of how 'bias' – or just subjectivity in general – is worked with in trying to work out the original reality behind historical narratives, but I want to add my own point, largely reiterating what /u/zaffiro_in_giro has said, but I'm doing it anyway because I started this comment earlier and got distracted and I may as well finish.
 
@@ -141,17 +141,17 @@ In the event, what I've come to conclude is that the trend I described earlier w
 
 In the end, none of this was about what actually happened in 1837; instead it was about *how* people *wrote* about what happened in 1837, and why, and what that tells us about the situation in 1853, or 1856, or 1862, or what have you.
 
-### 15: [Which God through out history was the biggest a-hole and which God was the kindest?](https://old.reddit.com/r/AskHistorians/comments/rs924j/which_god_through_out_history_was_the_biggest/), submitted on 2021-12-31 02:51:36+08:00.
+### 16: [Which God through out history was the biggest a-hole and which God was the kindest?](https://old.reddit.com/r/AskHistorians/comments/rs924j/which_god_through_out_history_was_the_biggest/), submitted on 2021-12-31 02:51:36+08:00.
 
------ __15.1__ -----2021-12-31 03:23:21+08:00:
+----- __16.1__ -----2021-12-31 03:23:21+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 16: [Why didn’t anyone revolt against the Macedonian kings after the Alexander died and his empire was split up?](https://old.reddit.com/r/AskHistorians/comments/rsgyn5/why_didnt_anyone_revolt_against_the_macedonian/), submitted on 2021-12-31 08:43:24+08:00.
+### 17: [Why didn’t anyone revolt against the Macedonian kings after the Alexander died and his empire was split up?](https://old.reddit.com/r/AskHistorians/comments/rsgyn5/why_didnt_anyone_revolt_against_the_macedonian/), submitted on 2021-12-31 08:43:24+08:00.
 
------ __16.1__ -----2022-01-01 15:56:23+08:00:
+----- __17.1__ -----2022-01-01 15:56:23+08:00:
 
 It is, it must be said, a gross exaggeration to suggest that *nobody* revolted against Macedonian rule after the death of Alexander. It is however also true that the sudden rise and then just as sudden collapse of the Argead empire across the Middle East *broadly* saw the establishment of Greco-Macedonian-ruled states in the region rather than the reemergence of indigenous state formations that had previously fallen under Persian dominion. This answer is thus structured into two parts: one concerning the revolts that we know did happen, and one concerning why there were not more.
 
@@ -189,7 +189,7 @@ There is an unsettled controversy over the status of Armenia under Alexander and
 
 Cappadocia, on the other hand, was less ambiguous in its status. At the time of the division of Alexander's empire, Cappadocia was openly acknowledged as an unconquered territory, and was given to Eumenes of Kardia, Alexander's secretary. Eumenes was supposed to have been assisted in taking control of Cappadocia by Neoptolemos, but Neoptolemos had been plotting against Perdikkas and betrayed Eumenes; in the event Perdikkas himself would lead the conquest of Cappadocia. Now, Cappadocia did not revolt against Macedonian rule as such, but it shows that the Achaemenid Empire didn't just flip over to Alexander's control wholesale after a few battlefield victories, and some formerly Achaemenid-ruled polities retained considerable independence or even autonomy.
 
------ __16.2__ -----2022-01-01 15:56:28+08:00:
+----- __17.2__ -----2022-01-01 15:56:28+08:00:
 
 ## II: The Revolts That Weren't
 
@@ -209,9 +209,9 @@ To tie the above parts together, it is very much worth noting the cases of the t
 
 That is not to say that in the long run, peoples did not eventually assert independence from the Hellenistic kingdoms: the hybrid Greco-Bactrian Kingdom broke off from the Seleucids, and latterly the Parthians under the Arsacids emerged as a substantial force. The Odrysian kingdom in Thrace re-emerged by the end of the fourth century. Pergamon, led by an ex-lieutenant of the Successor Lysimachos, emerged as a substantial kingdom in its own right in western Anatolia. Most dramatically and perhaps best-remembered was the Maccabean Revolt of the mid 2nd century BCE, in which Judas Maccabeus' revolt against Seleucid rule culminated in the re-establishment of an independent Jewish kingdom under the Hasmoneans. (The festival of Hanukkhah commemorates the rededication of the Second Temple during the revolt.) So reassertions of local rule were far from absent in the broader Hellenistic period, even if they were not a frequent occurrence in the immediate aftermath of Alexander's death.
 
-### 17: [Warring states to take inspiration from?](https://old.reddit.com/r/AskHistorians/comments/rstygc/warring_states_to_take_inspiration_from/), submitted on 2021-12-31 21:30:35+08:00.
+### 18: [Warring states to take inspiration from?](https://old.reddit.com/r/AskHistorians/comments/rstygc/warring_states_to_take_inspiration_from/), submitted on 2021-12-31 21:30:35+08:00.
 
------ __17.1__ -----2021-12-31 22:13:53+08:00:
+----- __18.1__ -----2021-12-31 22:13:53+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -219,39 +219,39 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 18: [How Do Secular Historians of Islam Explain the Numerous Reports of Various Miracles?](https://old.reddit.com/r/AskHistorians/comments/rt75ll/how_do_secular_historians_of_islam_explain_the/), submitted on 2022-01-01 08:24:07+08:00.
+### 19: [How Do Secular Historians of Islam Explain the Numerous Reports of Various Miracles?](https://old.reddit.com/r/AskHistorians/comments/rt75ll/how_do_secular_historians_of_islam_explain_the/), submitted on 2022-01-01 08:24:07+08:00.
 
------ __18.1__ -----2022-01-04 00:33:53+08:00:
+----- __19.1__ -----2022-01-04 00:33:53+08:00:
 
 > As long ago as 1977 Stock was able to argue that “the point is not whether the miracle “took place”, but that people whose social affiliations can be the object of empirical study explained their behaviour in terms of it”.
 
 Just a quick question – Stock doesn't appear in your bibliography here; what text is being referred to? A lot of what you've said about the methodology lines up with some work I've done on 19th century Chinese narratives of visionary experiences and seems worth having a look at for my purposes.
 
-### 19: [PainRys](https://old.reddit.com/r/Hololive/comments/rtj0pj/painrys/), submitted on 2022-01-01 21:02:13+08:00.
+### 20: [PainRys](https://old.reddit.com/r/Hololive/comments/rtj0pj/painrys/), submitted on 2022-01-01 21:02:13+08:00.
 
------ __19.1__ -----2022-01-03 02:44:46+08:00:
+----- __20.1__ -----2022-01-03 02:44:46+08:00:
 
 > the kinda botched first rig
 
 I believe it was a mix of straight up not liking the design, and possibly, latterly, Cover planning on redoing it at some stage a la Nene.
 
-### 20: [YouTuber Dr. Ludwig, who claims to upload "German historical music", shares Neo-Nazi music](https://old.reddit.com/r/badhistory/comments/rtjgm2/youtuber_dr_ludwig_who_claims_to_upload_german/), submitted on 2022-01-01 21:30:42+08:00.
+### 21: [YouTuber Dr. Ludwig, who claims to upload "German historical music", shares Neo-Nazi music](https://old.reddit.com/r/badhistory/comments/rtjgm2/youtuber_dr_ludwig_who_claims_to_upload_german/), submitted on 2022-01-01 21:30:42+08:00.
 
------ __20.1__ -----2022-01-02 17:56:36+08:00:
+----- __21.1__ -----2022-01-02 17:56:36+08:00:
 
 Yep, Graham Linehan confirmed that he is a *massive* transphobe and *eventually* got booted off Twitter after years spewing hate.
 
------ __20.2__ -----2022-01-02 18:05:22+08:00:
+----- __21.2__ -----2022-01-02 18:05:22+08:00:
 
 Given that Dr. Ludwig is a longtime associate of all-but-confirmed neo-Nazi Karl Sternau (see for instance [this post](https://www.reddit.com/r/badhistory/comments/n21vqc/people_who_upload_german_wwi_songs_on_youtube_are/?utm_source=reddit&utm_medium=usertext&utm_name=badhistory&utm_content=t1_hqff6gj)), I'd go beyond being prepared to just taking his political stance as a given.
 
------ __20.3__ -----2022-01-02 20:09:24+08:00:
+----- __21.3__ -----2022-01-02 20:09:24+08:00:
 
 I need to remember that as a mod here I do have a certain obligation to prevent spirals into modern political discussion, but yeah the UK has a rather prominent slice of transphobes who have been given a lot of time of day.
 
-### 21: [Some historians suggest that the Chinese may’ve been to the Americas between 1418-1421. Vikings also had some settlements in Nova Scotia in the Middle Ages. Prior to Columbus, did any external people establish (or tried to) any source of trading/commerce network with native American peoples?](https://old.reddit.com/r/AskHistorians/comments/rtjx83/some_historians_suggest_that_the_chinese_mayve/), submitted on 2022-01-01 21:58:43+08:00.
+### 22: [Some historians suggest that the Chinese may’ve been to the Americas between 1418-1421. Vikings also had some settlements in Nova Scotia in the Middle Ages. Prior to Columbus, did any external people establish (or tried to) any source of trading/commerce network with native American peoples?](https://old.reddit.com/r/AskHistorians/comments/rtjx83/some_historians_suggest_that_the_chinese_mayve/), submitted on 2022-01-01 21:58:43+08:00.
 
------ __21.1__ -----2022-01-02 01:10:19+08:00:
+----- __22.1__ -----2022-01-02 01:10:19+08:00:
 
 I cannot speak to the Norse settlements in North America myself, for which I would direct you to answers by /u/sagathain such as [this](https://www.reddit.com/r/AskHistorians/comments/n655gb/what_actually_happened_to_the_viking_colony_in/gx5dgg0/), [this](https://www.reddit.com/r/AskHistorians/comments/n6zq44/question_about_vinland/gxbcmr8/), and [this](https://reddit.com/r/AskHistorians/comments/q5v4jn/did_italian_sailors_really_know_about_the/hg8khw8/). What I can speak to are the claims that Zheng He reached the Americas in the 1420s.
 
@@ -271,7 +271,7 @@ The main things to look at are as follows:
 
 * [Detailed statement on issues with the 1418/1768 map](https://web.archive.org/web/20170514210722/http://www.1421exposed.com/html/on_the__overall__map.html) by Gong Yingyan of Zhenjiang University, arguing that even if authentic to 1768, the map must have been based on European examples.
 
------ __21.2__ -----2022-01-02 13:16:23+08:00:
+----- __22.2__ -----2022-01-02 13:16:23+08:00:
 
 EDIT: There have been certain criticisms against Kunz and Mills' article on the bead finds in Alaska based on evidence within Europe of particular styles of bead manufacture. See [this response](https://www.reddit.com/r/AskHistorians/comments/rtjx83/some_historians_suggest_that_the_chinese_mayve/hqwpmrl/) for more detail.
 
@@ -302,7 +302,7 @@ It is worth noting that there is a chance that the pre-Columbian date is wrong, 
 
 It is important not to overstate what is proved by this – as indeed the authors themselves did not, at least in their formal report. That there was trans-Bering Strait trade at Sheshalik has been known since the 1970s, so what is learned by this is not that there were trade links between Eurasia and North America, but rather that Venetian beads had made it to northeast Asia by the mid-late 1400s.
 
------ __21.3__ -----2022-01-02 14:54:39+08:00:
+----- __22.3__ -----2022-01-02 14:54:39+08:00:
 
 Apologies if I gave off that impression; it's simply that pre-Russian connections across the Bering strait are something that have been accepted in scholarship before, in work cited by Kunz and Mills. Their main references on this specific point are (copying their referencing style):
 
@@ -338,21 +338,21 @@ ____
 
 To briefly loop back round to the original question and to the responses to it, even if the 'Venetian' beads turn out to be later French ones, it is clear that there is evidence supporting the existence of trade in certain European goods to Alaska pre-Bering, and in general cross-strait connections pre-Columbus. That much can be pretty firmly established.
 
------ __21.4__ -----2022-01-02 19:49:00+08:00:
+----- __22.4__ -----2022-01-02 19:49:00+08:00:
 
 ...yes.
 
------ __21.5__ -----2022-01-02 19:54:42+08:00:
+----- __22.5__ -----2022-01-02 19:54:42+08:00:
 
 No that was an admission of me getting it wrong; and I've since edited.
 
------ __21.6__ -----2022-01-02 20:02:16+08:00:
+----- __22.6__ -----2022-01-02 20:02:16+08:00:
 
 I think we've both confused ourselves because I think the original was correct. Anyway, the gist is that 1523 is the earliest date, which is why it's quite a weird one – on top of that, none of the possible periods align with the mid-17th century alternate date.
 
-### 22: [Could the Japanese and the Chinese communicate through written language in the year 800 (Kanji)?](https://old.reddit.com/r/AskHistorians/comments/rtycoq/could_the_japanese_and_the_chinese_communicate/), submitted on 2022-01-02 09:43:38+08:00.
+### 23: [Could the Japanese and the Chinese communicate through written language in the year 800 (Kanji)?](https://old.reddit.com/r/AskHistorians/comments/rtycoq/could_the_japanese_and_the_chinese_communicate/), submitted on 2022-01-02 09:43:38+08:00.
 
------ __22.1__ -----2022-01-02 15:21:07+08:00:
+----- __23.1__ -----2022-01-02 15:21:07+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 

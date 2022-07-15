@@ -13,21 +13,21 @@ title: EnclavedMicrostate在2022-05-16~2022-05-22的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 436: [I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?](https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/), submitted on 2022-05-16 14:40:29+08:00.
+### 437: [I have heard many times how Indians say that Alexander was defeated when he tried to attack india. What’s the basis of the claim ?](https://old.reddit.com/r/AskHistorians/comments/uqplag/i_have_heard_many_times_how_indians_say_that/), submitted on 2022-05-16 14:40:29+08:00.
 
------ __436.1__ -----2022-05-16 17:51:15+08:00:
+----- __437.1__ -----2022-05-16 17:51:15+08:00:
 
 More can of course be said, particularly regarding the march in Gedrosia, but I discuss what the sources say on Alexander's closing of the Indian campaign [here](https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr5foz/?context=999). Put simply, half of our source tradition on Alexander runs the gamut from cynical to openly hostile, and if Alexander had somehow lost the Battle of the Hydaspes against Poros – or somehow Chandragupta, who was not even king of anything at the time – then we would expect at least *one* of the surviving accounts to have said it.
 
-### 437: [Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?](https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/), submitted on 2022-05-16 21:03:56+08:00.
+### 438: [Why do some Chinese claim Korea to be part of China? Was Korea ever a part of China? Were they effectively under Chinese rule when they were a vassal state of China?](https://old.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/), submitted on 2022-05-16 21:03:56+08:00.
 
------ __437.1__ -----2022-05-17 19:42:05+08:00:
+----- __438.1__ -----2022-05-17 19:42:05+08:00:
 
 > Also through long periods of Korean history, Korea was a vassal state of China. This only ended with the farcical proclamation of Korea as an "empire" in 1897. Basically what happened is that Japan twisted Korea's arm into declaring itself an empire as that declaration would make it (officially) the equal to China and thus cut off Korea's traditional vassalage to China. This is all mostly a bad joke as it was just another step on the road towards Japanese annexation of Korea.
 
 I'd be interested to hear where you get this from, as my understanding, coming mainly from Kirk Larsen and Andre Schmid, is that Korea in 1897 was effectively a Russian protectorate following the Triple Intervention, and that its declaration of imperial status was A: voluntary and deliberate on the part of the King Gojong and B: an assertion of status against both Japan and the Qing, and not simply an anti-Qing move.
 
------ __437.2__ -----2022-05-18 23:40:29+08:00:
+----- __438.2__ -----2022-05-18 23:40:29+08:00:
 
 With one answer here discussing modern nationalism and the middle imperial period, and another discussing the Yuan, it would be remiss if I did not address the Qing relationship with Korea to round things out a bit. The historiography on this is rather complex and tied up in a number of issues which I ought to get into first.
 
@@ -49,21 +49,21 @@ Larsen effectively brings this forward by showing that Qing suzerainty over Kore
 
 So, was Korea 'part of China' during the Qing? Frankly, only in the most tendentiously-defined of senses. While it was in some regard dominated by the Qing Empire within a geopolitical context, for all practical intents and purposes the Qing Empire and Joseon kingdom were separate states with separate administrations and separate subjects. The Qing did, eventually, escalate their level of influence over Korea, but even at the height of this during the appointment of Yuan Shikai, Korea functioned, at most, as a protectorate of the Qing, and were never at serious threat of formal annexation into the empire.
 
-### 438: [Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uqz2d3/botting_business_bureau_weekly_discussion_thread/), submitted on 2022-05-16 23:52:25+08:00.
+### 439: [Botting Business Bureau - Weekly Discussion Thread, May 16th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uqz2d3/botting_business_bureau_weekly_discussion_thread/), submitted on 2022-05-16 23:52:25+08:00.
 
------ __438.1__ -----2022-05-20 10:17:20+08:00:
+----- __439.1__ -----2022-05-20 10:17:20+08:00:
 
 I can only assume Calli is the constant exception because J-Chad seems to have stuck with her from the start, although that doesn't discount the possibility of J-Chad being a pseudonym for multiple people I suppose.
 
------ __438.2__ -----2022-05-20 10:23:47+08:00:
+----- __439.2__ -----2022-05-20 10:23:47+08:00:
 
 It'd make sense; for music-heavy members and especially for Calli given her rate of output, it seems like there's just a lot of projects overlapping and starting and stopping at different times, and having a manager rotate out would be pretty disruptive to that rhythm. Even if you leave after a project wraps there is almost certainly another one already partway through the process you'd be dropping out of.
 
------ __438.3__ -----2022-05-20 14:45:02+08:00:
+----- __439.3__ -----2022-05-20 14:45:02+08:00:
 
 Or UMG as the case may be.
 
------ __438.4__ -----2022-05-21 02:39:06+08:00:
+----- __439.4__ -----2022-05-21 02:39:06+08:00:
 
 > On one hand, (edited for technical accuracy) Hololive as an agency and Cover as a company is (still) technically not music-focused as such
 
@@ -73,27 +73,27 @@ You say that, but according to r/hololive:
 
 Hololive's definitely always been more variety entertainment than pure streaming, and it seems like what's happened with the pivot to music is more it becoming more of a practicable reality as opposed to an underlying shift in how the agency conceives of itself and its content.
 
------ __438.5__ -----2022-05-22 15:56:03+08:00:
+----- __439.5__ -----2022-05-22 15:56:03+08:00:
 
 There definitely seems to be a trend of some talents pivoting significantly harder to music now that it seems to have really become viable to essentially mainly do music with streaming on the side, so that's definitely opening some gaps on the streaming side of things that Cover will probably be looking to fill.
 
-### 439: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
+### 440: [Was indirect trade between the Vikings and China (or the Far East in general) exhaustive ?](https://old.reddit.com/r/AskHistorians/comments/usqeds/was_indirect_trade_between_the_vikings_and_china/), submitted on 2022-05-19 08:00:56+08:00.
 
------ __439.1__ -----2022-05-20 13:01:20+08:00:
+----- __440.1__ -----2022-05-20 13:01:20+08:00:
 
 If /u/textandtrowel will permit me to add my own two cents (or would it be dirhams in this instance), much the same argument regarding Eurasian trade in the last paragraph of the above answer can be made for the Early Modern period as well. Scott C. Levi's [*The Bukharan Crisis*](https://upittpress.org/books/9780822945970/) is an excellent work that, among other things, really dissects the notion of 'Silk Road' trade. While its focus is the Early Modern period rather than the early Medieval, its relevance derives from the fact that colloquially, the Silk Road is conceived of as something that always existed in some capacity, without really digging into, well, whether it did at all.
 
-### 440: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
+### 441: [The Wikipedia page for the Tuoba Northern Wei empire places a lot of emphasis on the "Sinicization" of the empire over time. Is this characterization of Northern Wei correct?](https://old.reddit.com/r/AskHistorians/comments/ust7t6/the_wikipedia_page_for_the_tuoba_northern_wei/), submitted on 2022-05-19 10:31:27+08:00.
 
------ __440.1__ -----2022-05-19 14:01:57+08:00:
+----- __441.1__ -----2022-05-19 14:01:57+08:00:
 
 More may of course be said, but I asked a very similar question a while back with a great answer by /u/rememberthatyoudie that covers a lot of ground on this issue:
 
 https://www.reddit.com/r/AskHistorians/comments/qs56rv/the_idea_of_the_sinicisation_becoming_chinese_of/
 
-### 441: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
+### 442: [Why does Japan have this type of emoji flag?](https://old.reddit.com/r/vexillology/comments/ut3gw4/why_does_japan_have_this_type_of_emoji_flag/), submitted on 2022-05-19 21:29:54+08:00.
 
------ __441.1__ -----2022-05-20 10:08:33+08:00:
+----- __442.1__ -----2022-05-20 10:08:33+08:00:
 
 While this is a common narrative, there was no Japanese surrender offer pre-Hiroshima: there were some noncommital feelers by *some* members of the Japanese government towards Soviet mediation, but nothing concrete or consequential. See:
 
@@ -101,21 +101,21 @@ http://blog.nuclearsecrecy.com/2022/05/02/did-the-japanese-offer-to-surrender-be
 
 http://blog.nuclearsecrecy.com/2022/05/06/did-the-japanese-offer-to-surrender-before-hiroshima-part-2/
 
------ __441.2__ -----2022-05-20 14:34:05+08:00:
+----- __442.2__ -----2022-05-20 14:34:05+08:00:
 
 Was Hiroshima not the first city a nuclear bomb got dropped on?
 
------ __441.3__ -----2022-05-20 14:56:09+08:00:
+----- __442.3__ -----2022-05-20 14:56:09+08:00:
 
 Well, I would direct you back to my comment, the linked posts, and their sources – there was no indication that Japan was offering to surrender before the dropping of the atomic bombs.
 
------ __441.4__ -----2022-05-20 15:11:21+08:00:
+----- __442.4__ -----2022-05-20 15:11:21+08:00:
 
 Cool. Go on making unsupported assertions, but I'll stick with the historians on this one.
 
-### 442: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
+### 443: [Is Fubuki the only Holomember that is part of two generations?](https://old.reddit.com/r/Hololive/comments/utd47e/is_fubuki_the_only_holomember_that_is_part_of_two/), submitted on 2022-05-20 05:08:19+08:00.
 
------ __442.1__ -----2022-05-20 10:59:05+08:00:
+----- __443.1__ -----2022-05-20 10:59:05+08:00:
 
 > Even in Gen 2 you can see the members debuted over the course of 6 weeks or so, compared to nowadays where we have members of a gen debuting on consecutive days or even all within 24 hours.
 
@@ -123,7 +123,7 @@ It's an interesting 'yes and no' situation, because Gen 1 debuted over the cours
 
 The other thing to add is that both Korone and Okayu were scouted rather than auditioning. Okayu [just had a chat with Yagoo](https://www.youtube.com/watch?v=J0URBkyBb_M) and Korone [didn't audition either](https://www.youtube.com/watch?v=07WAuntNHTo), and it's essentially confirmed that they were simply recommended by Fubuki and Mio. I don't know if Mio's process was similar though as I can't find anything discussing it.
 
------ __442.2__ -----2022-05-20 11:02:52+08:00:
+----- __443.2__ -----2022-05-20 11:02:52+08:00:
 
 > AZKi debuted in Nov 2018 (months after Gen 2). She was her own VSinger project similar to IRyS, under the INNK Music label which was jointly owned by Hololive and Upd8 (Kizuna Ai's company).
 
@@ -135,43 +135,33 @@ I've said this on another thread but I can find no evidence that either upd8 (Ki
 
 3. While Upd8 dissolved, its parent company, Activ8, still exists, and it wouldn't make sense for Upd8, the sub-company within Activ8, to have had a stake in INNK that wouldn't be transferred to Activ8 if it was wound up.
 
------ __442.3__ -----2022-05-20 11:08:19+08:00:
+----- __443.3__ -----2022-05-20 11:08:19+08:00:
 
 I wouldn't sell IRyS short here; I did a quick tally of EN's song numbers a month ago, and she'd done 17 songs (covers+originals, solos+collabs) in 291 days, for an average of 1 song every 17 days. The only person in EN with a comparable music output is Calli, who averaged 1 song every 13 days; just about everyone else in EN averaged one song (including collabs) every 2-3 months. It's been a month since then and there's since been a new song out from all of Calli, IRyS, Fauna, and Ina (at least), so the numbers may need some tweaking, but in terms of broad trends, IRyS is *much* more musically prolific than most of EN, and that's despite a major health break due to vocal issues.
 
------ __442.4__ -----2022-05-20 13:02:35+08:00:
+----- __443.4__ -----2022-05-20 13:02:35+08:00:
 
 Yes, AZKi was definitely an upd8 affiliate, although it's not clear what specific relationship was involved in that, i.e. if upd8 took on some level of management responsibility or if it was solely a marketing/promotion deal.
 
 EDIT: To clear up some possible misunderstanding, the original sentence, as worded, implied INNK was jointly owned by Hololive and upd8 rather than AZKi specifically being jointly managed or even simply represented via upd8. The former seems to be incorrect as I have yet to find evidence for it, but the latter was absolutely the case.
 
-### 443: [Nijisanji off collab](https://old.reddit.com/r/VirtualYoutubers/comments/utvomf/nijisanji_off_collab/), submitted on 2022-05-20 21:20:34+08:00.
+### 444: [Nijisanji off collab](https://old.reddit.com/r/VirtualYoutubers/comments/utvomf/nijisanji_off_collab/), submitted on 2022-05-20 21:20:34+08:00.
 
------ __443.1__ -----2022-05-21 02:45:38+08:00:
+----- __444.1__ -----2022-05-21 02:45:38+08:00:
 
 > I can't differentiate if the language used in Chat is Chinese or Taiwanese
 
 It's not a hard and fast rule, but the main difference would be Simplified vs Traditional Chinese, because otherwise written Chinese is pretty consistent across the board (unless people are writing the spoken languages out, which isn't *un*common mind you). Plus you'd end up with a bunch of false positives either way – Singaporeans also use Simplified Chinese while Hong Kongers use Traditional.
 
-### 444: [[Videogames] A devoted playerbase was tricked into buying an unfinished AAA videogame, "Total War: WARHAMMER III" - which was also the most hyped of the franchise so far. The community was split between being mad or happy about it.](https://old.reddit.com/r/HobbyDrama/comments/utx3mp/videogames_a_devoted_playerbase_was_tricked_into/), submitted on 2022-05-20 22:09:29+08:00.
+### 445: [[Videogames] A devoted playerbase was tricked into buying an unfinished AAA videogame, "Total War: WARHAMMER III" - which was also the most hyped of the franchise so far. The community was split between being mad or happy about it.](https://old.reddit.com/r/HobbyDrama/comments/utx3mp/videogames_a_devoted_playerbase_was_tricked_into/), submitted on 2022-05-20 22:09:29+08:00.
 
------ __444.1__ -----2022-05-21 02:01:22+08:00:
+----- __445.1__ -----2022-05-21 02:01:22+08:00:
 
 I lost a lot of faith in CA when they took 3K round the back with a shotgun mere months after promising substantial content ahead. What makes it worse is that they didn't even use the freed up resources to make a game that satisfied the expectations of the people who wanted it. So I'm not satisfied and they're not either.
 
-### 445: [Recommendations for documentaries I should watch??](https://old.reddit.com/r/AskHistorians/comments/uudbzp/recommendations_for_documentaries_i_should_watch/), submitted on 2022-05-21 10:08:13+08:00.
+### 446: [Recommendations for documentaries I should watch??](https://old.reddit.com/r/AskHistorians/comments/uudbzp/recommendations_for_documentaries_i_should_watch/), submitted on 2022-05-21 10:08:13+08:00.
 
------ __445.1__ -----2022-05-21 12:05:41+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 446: [Are there any political maps of lands near Atlantic around the time of 1692?](https://old.reddit.com/r/AskHistorians/comments/uudxqu/are_there_any_political_maps_of_lands_near/), submitted on 2022-05-21 10:45:16+08:00.
-
------ __446.1__ -----2022-05-21 12:04:18+08:00:
+----- __446.1__ -----2022-05-21 12:05:41+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -179,27 +169,37 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 447: [Which historical character would be the most upset to not have a Hollywood film made about them and why?](https://old.reddit.com/r/AskHistorians/comments/uuedm9/which_historical_character_would_be_the_most/), submitted on 2022-05-21 11:11:41+08:00.
+### 447: [Are there any political maps of lands near Atlantic around the time of 1692?](https://old.reddit.com/r/AskHistorians/comments/uudxqu/are_there_any_political_maps_of_lands_near/), submitted on 2022-05-21 10:45:16+08:00.
 
------ __447.1__ -----2022-05-21 11:54:34+08:00:
+----- __447.1__ -----2022-05-21 12:04:18+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 448: [Which historical character would be the most upset to not have a Hollywood film made about them and why?](https://old.reddit.com/r/AskHistorians/comments/uuedm9/which_historical_character_would_be_the_most/), submitted on 2022-05-21 11:11:41+08:00.
+
+----- __448.1__ -----2022-05-21 11:54:34+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 448: [Congratulations to Yukihana Lamy on 1,000,000 Subscribers](https://old.reddit.com/r/Hololive/comments/uugmqj/congratulations_to_yukihana_lamy_on_1000000/), submitted on 2022-05-21 13:37:49+08:00.
+### 449: [Congratulations to Yukihana Lamy on 1,000,000 Subscribers](https://old.reddit.com/r/Hololive/comments/uugmqj/congratulations_to_yukihana_lamy_on_1000000/), submitted on 2022-05-21 13:37:49+08:00.
 
------ __448.1__ -----2022-05-22 03:22:53+08:00:
+----- __449.1__ -----2022-05-22 03:22:53+08:00:
 
 I'm pretty sure that was a far smaller break than the one she had due to health issues back in November. She's been living with mental health issues for a good while now but she does seem to be reasonably on top of it, and mainly does what she's comfortable with, as much as she's comfortable with.
 
-### 449: [where to start on Chinese history?](https://old.reddit.com/r/AskHistorians/comments/uuzemy/where_to_start_on_chinese_history/), submitted on 2022-05-22 08:11:41+08:00.
+### 450: [where to start on Chinese history?](https://old.reddit.com/r/AskHistorians/comments/uuzemy/where_to_start_on_chinese_history/), submitted on 2022-05-22 08:11:41+08:00.
 
------ __449.1__ -----2022-05-22 13:10:16+08:00:
+----- __450.1__ -----2022-05-22 13:10:16+08:00:
 
 I'd also throw in [Episode 130](https://askhistorians.libsyn.com/-askhistorians-podcast-130-the-taiping-rebellion) on the Taiping Heavenly Kingdom and [this Minisode](https://askhistorians.libsyn.com/askhistorians-minisode-uprisings-in-19th-century-china-with-enclavedmicrostate) on smaller uprisings contemporary with it.
 
-### 450: [What Should Teenagers Know About WW2? Advise A Teacher!](https://old.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/), submitted on 2022-05-22 11:53:42+08:00.
+### 451: [What Should Teenagers Know About WW2? Advise A Teacher!](https://old.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/), submitted on 2022-05-22 11:53:42+08:00.
 
------ __450.1__ -----2022-05-22 13:21:03+08:00:
+----- __451.1__ -----2022-05-22 13:21:03+08:00:
 
 Hello everyone, 
 
@@ -208,19 +208,9 @@ A friendly reminder that the rules still apply here: as usual, we will [remove c
  If you want to be reminded to come check back later, or simply find other great content to read while you wait, [this thread](https://www.reddit.com/r/AskHistorians/comments/i6b42q/rules_roundtable_xxvi_be_kind_remind_revisited/) provides a guide to a number of ways to do so, including the RemindMeBot- [**Click Here to Subscribe**](https://www.reddit.com/message/compose/?to=RemindMeBot&subject=Reminder&message=%5Bhttp%3A%2F%2Fhttps://www.reddit.com/r/AskHistorians/comments/uv2z56/what_should_teenagers_know_about_ww2_advise_a/%2F%5D%0A%0ARemindMe!++2+days) - or
 our [Twitter](http://twitter.com/askhistorians).
 
-### 451: [Where, when and who invented the hot pot?](https://old.reddit.com/r/AskHistorians/comments/uv42hy/where_when_and_who_invented_the_hot_pot/), submitted on 2022-05-22 13:09:03+08:00.
+### 452: [Where, when and who invented the hot pot?](https://old.reddit.com/r/AskHistorians/comments/uv42hy/where_when_and_who_invented_the_hot_pot/), submitted on 2022-05-22 13:09:03+08:00.
 
------ __451.1__ -----2022-05-22 13:19:23+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 452: [Did Vikings eat these vegetables?](https://old.reddit.com/r/AskHistorians/comments/uv575z/did_vikings_eat_these_vegetables/), submitted on 2022-05-22 14:31:23+08:00.
-
------ __452.1__ -----2022-05-22 15:44:46+08:00:
+----- __452.1__ -----2022-05-22 13:19:23+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -228,63 +218,73 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 453: [HoloEn collabs with other Vtubers](https://old.reddit.com/r/Hololive/comments/uv8gq9/holoen_collabs_with_other_vtubers/), submitted on 2022-05-22 18:45:23+08:00.
+### 453: [Did Vikings eat these vegetables?](https://old.reddit.com/r/AskHistorians/comments/uv575z/did_vikings_eat_these_vegetables/), submitted on 2022-05-22 14:31:23+08:00.
 
------ __453.1__ -----2022-05-22 20:03:15+08:00:
+----- __453.1__ -----2022-05-22 15:44:46+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 454: [HoloEn collabs with other Vtubers](https://old.reddit.com/r/Hololive/comments/uv8gq9/holoen_collabs_with_other_vtubers/), submitted on 2022-05-22 18:45:23+08:00.
+
+----- __454.1__ -----2022-05-22 20:03:15+08:00:
 
 Very few of the HoloEN members in North America have confirmed which country they're based in, except for Kronii who has recently bravely come out as Canadian. In general it's been presumed that Ina is also in Canada and that Fauna, Ame, Mumei, and Gura are in the US, though I couldn't tell you how most of those conclusions were reached except for Calli having mentioned trying but failing to arrange a meetup with Gura during an earlier trip to the US.
 
 EDIT: As regards Fauna being Canadian, there's no confirmation on this count at all besides her being the first to correctly clock the first line of the Canadian national anthem during Gura's Mad Gab segment on New Year's Day, but she then got the next line wrong which seems to imply that she *isn't*. But until she says one way or the other we have no hard info.
 
-### 454: [[Hobby Scuffles] Week of May 23, 2022](https://old.reddit.com/r/HobbyDrama/comments/uvcp8t/hobby_scuffles_week_of_may_23_2022/), submitted on 2022-05-22 23:00:14+08:00.
+### 455: [[Hobby Scuffles] Week of May 23, 2022](https://old.reddit.com/r/HobbyDrama/comments/uvcp8t/hobby_scuffles_week_of_may_23_2022/), submitted on 2022-05-22 23:00:14+08:00.
 
------ __454.1__ -----2022-05-24 00:54:54+08:00:
+----- __455.1__ -----2022-05-24 00:54:54+08:00:
 
 To be kind of fair, TikTok is legitimately essentially spyware, and while yes basically *all* social networks are spyware masquerading as social spaces, at least the majority of those are potentially beholden to laws in countries with theoretically robust democracies and legal systems and the data isn't being stored in the world's largest dictatorship. *However*. This is an overreaction given that HoloEN is stepping into this as a corporate entity and not as private individuals (EDIT: and thus probably has somewhat better infosec procedures).
 
 Actually, if you look at it a certain way, if its established audience isn't moving over to TikTok, that's a good thing, as at worst it just sort of pulls an audience *from* the TikTok sphere.
 
------ __454.2__ -----2022-05-24 03:45:44+08:00:
+----- __455.2__ -----2022-05-24 03:45:44+08:00:
 
 Belle the Tinkerer, a character dressed in green, is a ripoff of Boingkid and *not* a tribute to, er, Tinker Bell? Well then, good luck making that case in court.
 
------ __454.3__ -----2022-05-24 03:51:45+08:00:
+----- __455.3__ -----2022-05-24 03:51:45+08:00:
 
 Does this have any relation to the artist Dishwasher1910 apparently quitting? They're someone who came up on my radar before as someone in the RWBY fandom (they were very well known for their RWBY fanart, especially an AU concept called RWBY 3.0), and popped up again more recently after mentioning a couple times how they'd like to be a character artist for Hololive. There's a thread (now locked) claiming they were quitting Azur Lane specifically but the tweet itself implied broader issues and I was wondering if anything new had come out.
 
------ __454.4__ -----2022-05-24 12:17:17+08:00:
+----- __455.4__ -----2022-05-24 12:17:17+08:00:
 
 One thing that's possibly worth asking is who had the bigger army here, because as you note, unlike chess where you move a piece at a time with tabletop wargames of a UGOIGO format you tend to move all your stuff at a time. More broadly, with this incident now in mind does it potentially make sense for tournaments to adjust each player's time relative to the size of the force they have?
 
------ __454.5__ -----2022-05-24 13:03:55+08:00:
+----- __455.5__ -----2022-05-24 13:03:55+08:00:
 
 I won't lie, there is a substantial amount of the seriousness to tournament play here that is bizarre to me as someone who is an almost exclusively historical wargamer (and even then my one major step outside that is Aeronef which is alt-history Victorian science fiction). But, looking at it impartially, there's nothing that really distinguishes people getting worked up over tournaments from my own getting worked up about the damn colour of those trousers being wrong for that specific month dammit! But it does feel very much like different worlds that happen to be adjacent.
 
------ __454.6__ -----2022-05-24 18:24:52+08:00:
+----- __455.6__ -----2022-05-24 18:24:52+08:00:
 
 Well, Hololive, being a Japanese company, is not based in a Five Eyes nation, though a number of its overseas talents are.
 
------ __454.7__ -----2022-05-25 18:33:36+08:00:
+----- __455.7__ -----2022-05-25 18:33:36+08:00:
 
 I was looking from the sidelines and it definitely seems to have been interesting! That said, as someone who likes doing a lot of industry meta discussion and speculation, it does make me wonder what exactly Nijisanji's debut pipeline is like at the moment.
 
 For those not in the know, Nijisanji slowed down the expansion of its Japanese branch a *lot* in 2021, and ostensibly pivoted from an open audition system towards a two-stage process via Virtual Talent Academy, which is essentially a sort of VTuber internship program that is not technically part of Nijisanji as an agency, but is still run by Nijisanji's parent company ANYCOLOR. So for instance the three most recent Nijisanji debuts – besides Salome – have been of VTA 'graduates'. So Salome's sudden appearance suggests she was probably scouted out by Nijisanji, or possibly a very delayed debut from an earlier round of auditions.
 
------ __454.8__ -----2022-05-25 18:36:51+08:00:
+----- __455.8__ -----2022-05-25 18:36:51+08:00:
 
 > earlier this year 
 
 October 2021.
 
------ __454.9__ -----2022-05-26 22:17:06+08:00:
+----- __455.9__ -----2022-05-26 22:17:06+08:00:
 
 Excuse me the far more important day is Towel Day.
 
------ __454.10__ -----2022-05-26 22:21:27+08:00:
+----- __455.10__ -----2022-05-26 22:21:27+08:00:
 
 It's from the Book of Daniel: supposedly, King Nebuchadnezzar has a dream in which he sees a statue with a gold head, silver chest, bronze torso, iron legs, and clay feet, and the statue collapses after a stone is cast at the feet; the shattered statue eventually falls away but the stone grows into a mountain. The bit that's remembered is the idea of the ostensibly mighty structure on weak foundations, although Daniel's interpretation of the dream is actually somewhat different – the differing materials represent a succession of increasingly unimpressive kingdoms beginning with Nebuchadnezzar's, all of which are to be swept away in the end by the Kingdom of God.
 
------ __454.11__ -----2022-05-28 05:16:25+08:00:
+----- __455.11__ -----2022-05-28 05:16:25+08:00:
 
 Ugh what a weirdo that person must have been.
 
@@ -292,7 +292,7 @@ I've said this before but it's kind of interesting how the narrative around not 
 
 It'd be interesting to see if and how things may change. Apricot/Froot doing a face reveal on Twitter a while back got some attention, though it's an open question as to how much that necessarily affects things given, as noted before, that a good number of indies had simply switched over from real-face content anyway.
 
------ __454.12__ -----2022-05-28 12:17:38+08:00:
+----- __455.12__ -----2022-05-28 12:17:38+08:00:
 
 >I don't know how it is in Japan, but i feel alot of the EN speaking Independent Vtuber community seems to weirdly stick to rules, terms and culture of the JP side that originates from corporate Vtuber culture (specifically Hololive wnd Nijisanji) despite the fact that most EN vtubers are Indies that can decide on their own rules.
 

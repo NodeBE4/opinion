@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-05-09~2022-05-15的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 413: [Why was Rome chosen as the location for the signing of I) the European Convention on Human Rights (1950) and II) the EEC Treaty (1957)?](https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/), submitted on 2022-05-09 01:37:19+08:00.
+### 414: [Why was Rome chosen as the location for the signing of I) the European Convention on Human Rights (1950) and II) the EEC Treaty (1957)?](https://old.reddit.com/r/AskHistorians/comments/ul6ul1/why_was_rome_chosen_as_the_location_for_the/), submitted on 2022-05-09 01:37:19+08:00.
 
------ __413.1__ -----2022-05-09 01:43:44+08:00:
+----- __414.1__ -----2022-05-09 01:43:44+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -23,9 +23,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 414: [I need to know the book that was opened by a Japanese women concerning the two bombs dropped on Japan featured in PBS's My Grandfather's War?](https://old.reddit.com/r/AskHistorians/comments/ulhop7/i_need_to_know_the_book_that_was_opened_by_a/), submitted on 2022-05-09 10:57:49+08:00.
+### 415: [I need to know the book that was opened by a Japanese women concerning the two bombs dropped on Japan featured in PBS's My Grandfather's War?](https://old.reddit.com/r/AskHistorians/comments/ulhop7/i_need_to_know_the_book_that_was_opened_by_a/), submitted on 2022-05-09 10:57:49+08:00.
 
------ __414.1__ -----2022-05-09 15:04:53+08:00:
+----- __415.1__ -----2022-05-09 15:04:53+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -33,21 +33,21 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 415: [Former associates of Trump (e.g. Bolton, Esper) continue to write books about his term that are scathingly critical. Is there precedent for this level of betrayal to a POTUS?](https://old.reddit.com/r/AskHistorians/comments/ulk5r0/former_associates_of_trump_eg_bolton_esper/), submitted on 2022-05-09 13:33:06+08:00.
+### 416: [Former associates of Trump (e.g. Bolton, Esper) continue to write books about his term that are scathingly critical. Is there precedent for this level of betrayal to a POTUS?](https://old.reddit.com/r/AskHistorians/comments/ulk5r0/former_associates_of_trump_eg_bolton_esper/), submitted on 2022-05-09 13:33:06+08:00.
 
------ __415.1__ -----2022-05-09 15:05:02+08:00:
+----- __416.1__ -----2022-05-09 15:05:02+08:00:
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 416: [how andropov reform would look like ??](https://old.reddit.com/r/AskHistorians/comments/ulkv6e/how_andropov_reform_would_look_like/), submitted on 2022-05-09 14:23:52+08:00.
+### 417: [how andropov reform would look like ??](https://old.reddit.com/r/AskHistorians/comments/ulkv6e/how_andropov_reform_would_look_like/), submitted on 2022-05-09 14:23:52+08:00.
 
------ __416.1__ -----2022-05-09 15:06:41+08:00:
+----- __417.1__ -----2022-05-09 15:06:41+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
-### 417: [When was the last day with international peace?](https://old.reddit.com/r/AskHistorians/comments/ulm4u2/when_was_the_last_day_with_international_peace/), submitted on 2022-05-09 15:56:59+08:00.
+### 418: [When was the last day with international peace?](https://old.reddit.com/r/AskHistorians/comments/ulm4u2/when_was_the_last_day_with_international_peace/), submitted on 2022-05-09 15:56:59+08:00.
 
------ __417.1__ -----2022-05-09 16:14:51+08:00:
+----- __418.1__ -----2022-05-09 16:14:51+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -55,43 +55,33 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 418: [Weekly Discussion Thread, May 9th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uluh3w/weekly_discussion_thread_may_9th_2022/), submitted on 2022-05-09 23:59:37+08:00.
+### 419: [Weekly Discussion Thread, May 9th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/uluh3w/weekly_discussion_thread_may_9th_2022/), submitted on 2022-05-09 23:59:37+08:00.
 
------ __418.1__ -----2022-05-13 00:54:32+08:00:
+----- __419.1__ -----2022-05-13 00:54:32+08:00:
 
 > I know the T is converted to CHI for japanese but changing how things are spelled would help their pronunciation better. Especially for 'team', for a first time listener(eng audience) they would be wonder wtf "chi-mu" means.
 
 But if ティー and チー are pronounced the same then it doesn't make a difference?
 
------ __418.2__ -----2022-05-13 14:47:15+08:00:
+----- __419.2__ -----2022-05-13 14:47:15+08:00:
 
 I mean, 'a while' is only 11 days in this case. But yeah, the moment I saw A-Soul was going under my mind immediately went to bellumodo.
 
------ __418.3__ -----2022-05-15 02:52:24+08:00:
+----- __419.3__ -----2022-05-15 02:52:24+08:00:
 
 Right?! Why ban channels for having porn spambots on them, but *not the porn spambots themselves*!?
 
------ __418.4__ -----2022-05-15 21:32:27+08:00:
+----- __419.4__ -----2022-05-15 21:32:27+08:00:
 
 I don't know that Myth being 'spoiled' is the right way of putting it, as AFAIK they actually commissioned their secondary outfits, so they were I believe paying out of pocket to get new outfits faster. I also imagine it's easier for a group of 5 people to keep pressure up on new outfits than IRyS alone. It is true they got to 4 outfits faster than anyone else (16 months), although I think we also ought to account for their having debuted later at a time when A: Cover has had more money to spend on new outfits and B: they haven't had to have their original models updated to 2.0 versions.
 
------ __418.5__ -----2022-05-15 23:40:27+08:00:
+----- __419.5__ -----2022-05-15 23:40:27+08:00:
 
 Did it say that they couldn't commission them at all, or that they couldn't do so unilaterally? Because if it was Cover setting the schedule for outfits it's a little odd that there hadn't previously been more of a thing of rolling out full-generation outfits before ID.
 
-### 419: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
+### 420: [What month were prehistoric babies born?](https://old.reddit.com/r/AskHistorians/comments/um5j67/what_month_were_prehistoric_babies_born/), submitted on 2022-05-10 08:24:11+08:00.
 
------ __419.1__ -----2022-05-10 08:37:09+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 420: [Did humans cook first or eat meat first? As in, did we eat raw meat first and then try to cook it or the other way around?](https://old.reddit.com/r/AskHistorians/comments/umao34/did_humans_cook_first_or_eat_meat_first_as_in_did/), submitted on 2022-05-10 12:53:35+08:00.
-
------ __420.1__ -----2022-05-10 14:36:41+08:00:
+----- __420.1__ -----2022-05-10 08:37:09+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -99,17 +89,27 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 421: [Why are political assassinations not more common?](https://old.reddit.com/r/AskHistorians/comments/umbjgo/why_are_political_assassinations_not_more_common/), submitted on 2022-05-10 13:46:25+08:00.
+### 421: [Did humans cook first or eat meat first? As in, did we eat raw meat first and then try to cook it or the other way around?](https://old.reddit.com/r/AskHistorians/comments/umao34/did_humans_cook_first_or_eat_meat_first_as_in_did/), submitted on 2022-05-10 12:53:35+08:00.
 
------ __421.1__ -----2022-05-10 14:36:33+08:00:
+----- __421.1__ -----2022-05-10 14:36:41+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 422: [Why are political assassinations not more common?](https://old.reddit.com/r/AskHistorians/comments/umbjgo/why_are_political_assassinations_not_more_common/), submitted on 2022-05-10 13:46:25+08:00.
+
+----- __422.1__ -----2022-05-10 14:36:33+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 422: [Who's the Ottoman prince in Xinjiang as a Sultan as a Japanese puppet state leader?](https://old.reddit.com/r/AskHistorians/comments/umdhkc/whos_the_ottoman_prince_in_xinjiang_as_a_sultan/), submitted on 2022-05-10 15:58:03+08:00.
+### 423: [Who's the Ottoman prince in Xinjiang as a Sultan as a Japanese puppet state leader?](https://old.reddit.com/r/AskHistorians/comments/umdhkc/whos_the_ottoman_prince_in_xinjiang_as_a_sultan/), submitted on 2022-05-10 15:58:03+08:00.
 
------ __422.1__ -----2022-05-10 16:32:24+08:00:
+----- __423.1__ -----2022-05-10 16:32:24+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -117,9 +117,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 423: [What was the first account of the Gordians knot?](https://old.reddit.com/r/AskHistorians/comments/umipk2/what_was_the_first_account_of_the_gordians_knot/), submitted on 2022-05-10 21:27:12+08:00.
+### 424: [What was the first account of the Gordians knot?](https://old.reddit.com/r/AskHistorians/comments/umipk2/what_was_the_first_account_of_the_gordians_knot/), submitted on 2022-05-10 21:27:12+08:00.
 
------ __423.1__ -----2022-05-11 00:13:49+08:00:
+----- __424.1__ -----2022-05-11 00:13:49+08:00:
 
 With the understanding that it is quite possible that a grasp of the source landscape will be part of the exercise, essay-wise, I think it best for me to keep it relatively short and simple, with a basic overview of Alexander sources and some reading recommendations for a more in-depth look at the problem. The first of these recommendations is Andrea Zambrini's chapter 'The Historians of Alexander the Great', in Volume 1 of John Marincola's *A Companion to Greek and Roman Historiography* (2007), which discusses the early historians of Alexander whose work has been lost; the second is ‪Elizabeth Baynham‬'s 'The Ancient Evidence for Alexander the Great', in Joseph Roisman's *Brill's Companion to Alexander the Great* (2003) (not to be confused with Kenneth Moore's *Brill's Companion to the Reception of Alexander the Great* (2018)), which begins with the lost historians and then goes into the surviving ones.
 
@@ -158,49 +158,49 @@ To return to your original question, 'Is Quintus Curtius Rufus really the earlie
 * Lynn E. Roller, 'Midas and the Gordian Knot', *Classical Antiquity* 3:2 (1984)
 * Mark H Munn, 'Alexander, the Gordian Knot, and the Kingship of Midas', in *Macedonian Legacies: Studies in Macedonian History and Culture in Honor of Eugene N. Borza* (2008)
 
-### 424: [Clone Wars](https://old.reddit.com/r/StarWars/comments/umukze/clone_wars/), submitted on 2022-05-11 06:28:04+08:00.
+### 425: [Clone Wars](https://old.reddit.com/r/StarWars/comments/umukze/clone_wars/), submitted on 2022-05-11 06:28:04+08:00.
 
------ __424.1__ -----2022-05-11 22:10:54+08:00:
+----- __425.1__ -----2022-05-11 22:10:54+08:00:
 
 Kreia would like a word...
 
-### 425: [Hololive Fantasy](https://old.reddit.com/r/Hololive/comments/undyph/hololive_fantasy/), submitted on 2022-05-12 00:35:49+08:00.
+### 426: [Hololive Fantasy](https://old.reddit.com/r/Hololive/comments/undyph/hololive_fantasy/), submitted on 2022-05-12 00:35:49+08:00.
 
------ __425.1__ -----2022-05-12 11:09:15+08:00:
+----- __426.1__ -----2022-05-12 11:09:15+08:00:
 
 How dare you.
 
 How dare you split Noel and Flare like this.
 
-### 426: [The Idea of Barbarian Battleships is Amusing to Me](https://old.reddit.com/r/civ/comments/unnw1m/the_idea_of_barbarian_battleships_is_amusing_to_me/), submitted on 2022-05-12 08:13:22+08:00.
+### 427: [The Idea of Barbarian Battleships is Amusing to Me](https://old.reddit.com/r/civ/comments/unnw1m/the_idea_of_barbarian_battleships_is_amusing_to_me/), submitted on 2022-05-12 08:13:22+08:00.
 
------ __426.1__ -----2022-05-12 14:16:17+08:00:
+----- __427.1__ -----2022-05-12 14:16:17+08:00:
 
 The [Hawaiian Dreadnoughts](https://web.archive.org/web/20150629105452/https://www.reddit.com/r/badhistory/comments/24vreh/reallife_bad_history_hawaii_was_the_most_advanced/).
 
-### 427: [Khrystyna a Ukrainian biathlete changed her sports rifle. "I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance"](https://old.reddit.com/r/ukraine/comments/unrmhe/khrystyna_a_ukrainian_biathlete_changed_her/), submitted on 2022-05-12 11:27:13+08:00.
+### 428: [Khrystyna a Ukrainian biathlete changed her sports rifle. "I have no fear of the enemy. I shoot skillfully, so the invaders will not have a chance"](https://old.reddit.com/r/ukraine/comments/unrmhe/khrystyna_a_ukrainian_biathlete_changed_her/), submitted on 2022-05-12 11:27:13+08:00.
 
------ __427.1__ -----2022-05-12 16:17:26+08:00:
+----- __428.1__ -----2022-05-12 16:17:26+08:00:
 
 Yep, although it's worth noting that muskets were not as inaccurate as commonly believed. Not *brilliantly* accurate, and not en masse, but individual marksmanship with a musket was viable up to a couple of hundred yards.
 
------ __427.2__ -----2022-05-12 21:01:24+08:00:
+----- __428.2__ -----2022-05-12 21:01:24+08:00:
 
 You've got some terms confused here: the term 'rifled musket' refers, generally, to muzzle-loading rifled long arms using conical projectiles like the Minié ball, which were in use primarily from the late 1840s to late 1860s. The 'rifled musket' designation was used to refer to weapons with the rate of fire of a musket because they didn't require you to forcibly deform the projectile into the rifle grooves.
 
 As for musket accuracy, it's perhaps worth stating that 'accurate' will always be relative. Less accurate than a rifle for sure, but there was data taken on the rough accuracy of formation fire in the period: [this post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) on Kabinettskriege compiles some of it. It doesn't discuss individual marksmanship to quite the same extent though.
 
------ __427.3__ -----2022-05-12 21:02:49+08:00:
+----- __428.3__ -----2022-05-12 21:02:49+08:00:
 
 [This blog post](https://kabinettskriege.blogspot.com/2016/02/how-accurate-were-regular-soldiers-in.html) and its citations will be a good start. As one of the sources it cites notes, 'point blank' range, at which firing targets were placed, could be as much as 300 yards.
 
------ __427.4__ -----2022-05-12 22:33:49+08:00:
+----- __428.4__ -----2022-05-12 22:33:49+08:00:
 
 You referred to it as a 'rifled musket' which it isn't – a rifled musket is something like the 1853 Enfield or the 1855 Springfield.
 
-### 428: [Christian scholars say that there is a record of the resurrection of Jesus in the History of Latter Han Dynasty, Volume 1, Chronicles of Emperor Guang Wu, 7th year. Is this true or is there missing context?](https://old.reddit.com/r/AskHistorians/comments/uo5zh9/christian_scholars_say_that_there_is_a_record_of/), submitted on 2022-05-13 01:12:42+08:00.
+### 429: [Christian scholars say that there is a record of the resurrection of Jesus in the History of Latter Han Dynasty, Volume 1, Chronicles of Emperor Guang Wu, 7th year. Is this true or is there missing context?](https://old.reddit.com/r/AskHistorians/comments/uo5zh9/christian_scholars_say_that_there_is_a_record_of/), submitted on 2022-05-13 01:12:42+08:00.
 
------ __428.1__ -----2022-05-13 21:19:52+08:00:
+----- __429.1__ -----2022-05-13 21:19:52+08:00:
 
 I've just had a look at the passages in question, and while I will admit my Classical Chinese is, er, pretty dire, I think the translations as provided aren't far off the mark, *except* in the case of the 'Man from Heaven' passage. The original Chinese text can be independently verified on the edition hosted on the Chinese Text Project. First are the two taken from the general chronicles for the reign of Emperor Guangwu [here](https://ctext.org/hou-han-shu/guang-wu-di-ji-xia)
 
@@ -246,7 +246,7 @@ Tucker gives:
 
 But I would suggest that 'man from Heaven' is only one possible reading of '天人', literally 'heaven | man', which could just as easily – and I would argue much less tendentiously – be read as 'Heaven *and* Man', rather than as a 'man of Heaven' or similar. That is to say, there's no reason to read it as an adjective-noun phrase rather than as two nouns together. Equally, while 崩 can mean 'to die', this is only used for monarchs, and Guangwu most certainly did not die in the seventh year of his reign. In a more general sense it means something along the lines of 'collapse' or 'rupture', i.e. in a more figurative sense, it could – and probably does – simply mean that the affairs of both Heaven and man were thrown into disarray.
 
------ __428.2__ -----2022-05-13 22:08:44+08:00:
+----- __429.2__ -----2022-05-13 22:08:44+08:00:
 
 No problem! I do have a couple of more points to add that I've thought of since posting, one more immediately relevant and the other a bit more bemusing than anything else.
 
@@ -254,7 +254,7 @@ The more relevant one relates to the quoted passage from (the?) Qiantan Ba: whil
 
 The bemused note is that Chan Kei Thong's apparent schtick of trying to prove that ancient Chinese religion was a branch of Abrahamic monotheism is, at least on the surface, entirely identical to the Taiping's conception of Chinese religious history. The Taiping, also, were convinced that China had once been a monotheistic society but which had, somehow, been led astray. Thomas Reilly's *The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire* is the work to read on this for anyone interested.
 
------ __428.3__ -----2022-05-14 15:28:57+08:00:
+----- __429.3__ -----2022-05-14 15:28:57+08:00:
 
 I'd like to add a further addendum to my earlier comment thanks to a tip-off from someone whose Classical Chinese is considerably better than mine, and it's something that will probably interest /u/mikedash and /u/y_sengaku as it does directly bear on the notion of Guangwu alluding to Jesus in the 'Yin and Yang' extract. Critical is this particular pair of clauses:
 
@@ -278,13 +278,13 @@ Which I had interpreted as the emperor recalling his officials for examination b
 
 One speculation, which I don't think is that likely but which nevertheless is, from a purely semantic perspective, a valid read of 天人崩, is that Qiantian Ba was listing an additional omen: there may have been a mountain called Tianren which collapsed in a landslide. That said I have found no reference to a mountain going by such a name, and I'd stand by my original read of it being a figurative descriptor of Heaven and man being thrown in disarray.
 
------ __428.4__ -----2022-05-19 12:48:24+08:00:
+----- __429.4__ -----2022-05-19 12:48:24+08:00:
 
 This is only if you tendentiously read *any* notion of the sacred/divine and the earthly as distinct phenomena as indicative of Christian theology. 'Heaven' in this case can be understood simply as the abstract forces of the cosmos and 'man' as human affairs.
 
-### 429: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
+### 430: [Would it have made more strategic sense for Napoleon to march toward St. Petersburg instead of Moscow for the 1812 Russian Campaign?](https://old.reddit.com/r/WarCollege/comments/uocoug/would_it_have_made_more_strategic_sense_for/), submitted on 2022-05-13 06:12:11+08:00.
 
------ __429.1__ -----2022-05-13 18:28:28+08:00:
+----- __430.1__ -----2022-05-13 18:28:28+08:00:
 
 No.
 
@@ -294,27 +294,27 @@ Napoleon essentially forgot the lesson of the Austrian campaign of 1809: you can
 
 In 1812, Napoleon's demands on Russia – its forcible return to the French alliance system – were such that nothing short of destroying its means to resist would achieve his aims. The Russians handed him an opportunity to do so at Borodino, but he failed to capitalise on that opportunity, and the rest, as they say, was that.
 
-### 430: [Does Sora-chan have a senpai?](https://old.reddit.com/r/Hololive/comments/uojxzl/does_sorachan_have_a_senpai/), submitted on 2022-05-13 12:46:14+08:00.
+### 431: [Does Sora-chan have a senpai?](https://old.reddit.com/r/Hololive/comments/uojxzl/does_sorachan_have_a_senpai/), submitted on 2022-05-13 12:46:14+08:00.
 
------ __430.1__ -----2022-05-14 00:39:17+08:00:
+----- __431.1__ -----2022-05-14 00:39:17+08:00:
 
 To add to /u/farranpoison's point, Mel was originally a solo debut (hence debuting in mid-May rather than 1-3 June like the rest of Gen 1), but after Chris' exit she was retconned as being part of Gen 1.
 
-### 431: [What happened to mental health in the 24th century?!](https://old.reddit.com/r/startrekpicard/comments/uokell/what_happened_to_mental_health_in_the_24th_century/), submitted on 2022-05-13 13:15:40+08:00.
+### 432: [What happened to mental health in the 24th century?!](https://old.reddit.com/r/startrekpicard/comments/uokell/what_happened_to_mental_health_in_the_24th_century/), submitted on 2022-05-13 13:15:40+08:00.
 
------ __431.1__ -----2022-05-19 16:45:35+08:00:
+----- __432.1__ -----2022-05-19 16:45:35+08:00:
 
 A bit late coming back to this because I was a bit behind on a few episodes, but my impression is she was locked away that evening specifically, so maybe Maurice wasn't expecting help to arrive until the morning.
 
-### 432: [ignore the commentary, just focus on this completely inedible nonsense](https://old.reddit.com/r/StupidFood/comments/up8urj/ignore_the_commentary_just_focus_on_this/), submitted on 2022-05-14 11:51:22+08:00.
+### 433: [ignore the commentary, just focus on this completely inedible nonsense](https://old.reddit.com/r/StupidFood/comments/up8urj/ignore_the_commentary_just_focus_on_this/), submitted on 2022-05-14 11:51:22+08:00.
 
------ __432.1__ -----2022-05-15 02:47:49+08:00:
+----- __433.1__ -----2022-05-15 02:47:49+08:00:
 
 Okay this is chefclub for sure right? That griddle with part of the plastic casing broken off appears in most of their videos.
 
-### 433: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
+### 434: [Where to find good cold war quotations?](https://old.reddit.com/r/AskHistorians/comments/upc9or/where_to_find_good_cold_war_quotations/), submitted on 2022-05-14 15:44:57+08:00.
 
------ __433.1__ -----2022-05-14 16:10:27+08:00:
+----- __434.1__ -----2022-05-14 16:10:27+08:00:
 
 Hi - we as mods have approved this thread, because while this is a homework question, it is asking for clarification or resources, rather than the answer itself, which is fine according to [our rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). This policy is further explained in this [Rules Roundtable thread](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) and this [META Thread](http://www.reddit.com/r/AskHistorians/comments/35pkem/askhistorians_homework_question_policy_rehash/).
 
@@ -322,9 +322,9 @@ As a result, we'd also like to remind potential answerers to follow our rules on
 
 Additionally, while users may be able to help you out with specifics relating to your question, we also have plenty of information on /r/AskHistorians on how to find and understand good sources in general. For instance, please check out our six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay.
 
-### 434: [Why did the European powers and the USA intervene in the Boxer Rebellion?](https://old.reddit.com/r/AskHistorians/comments/uprixr/why_did_the_european_powers_and_the_usa_intervene/), submitted on 2022-05-15 06:05:14+08:00.
+### 435: [Why did the European powers and the USA intervene in the Boxer Rebellion?](https://old.reddit.com/r/AskHistorians/comments/uprixr/why_did_the_european_powers_and_the_usa_intervene/), submitted on 2022-05-15 06:05:14+08:00.
 
------ __434.1__ -----2022-05-15 19:11:21+08:00:
+----- __435.1__ -----2022-05-15 19:11:21+08:00:
 
 There is, I believe, somewhat of a misunderstanding in your question, one that is unfortunately commonly held thanks to the colloquial use of 'Rebellion' to describe the Boxer crisis of 1899-1901. 'Rebellion' would imply that the Boxers sought to overturn the otherwise-established Qing government, and that the Europeans, USA, and also Japan interceded on the latter's behalf, but the political situation at the start of 1900 was considerably more complex. Complex enough that it's one of those rare occasions that it perhaps requires [a diagram](https://imgur.com/5J3mf9n) to map out. Now, I will note that  [this earlier answer](https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/) of mine goes into more detail on the specific chronology, but as it addresses things from the perspective of the Qing court I'll devote a little more space here to explicating the foreign position.
 
@@ -338,9 +338,9 @@ This in turn led to a vicious cycle of mutual paranoia. On the Qing end, for som
 
 So it's not the case at all that the foreign powers intervened to protect the Qing from an uprising. Rather, they perceived that the Qing court – which they regarded as illegitimately usurped by Cixi – was colluding with the Boxers, and sought to expand their military presence to protect their citizens and assets. This became a self-fulfilling prophecy as the Qing court was thus no longer required to appease said foreign powers, and openly allied with the Boxers against them. However, the imperial court did so essentially unilaterally, and received no support from the non-anti-foreign, reform-minded moderate elements in the state, especially coastal provincial governors, who refused to be embroiled in the conflict and declared neutrality.
 
-### 435: [[Hobby Scuffles] Week of May 16, 2022](https://old.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/), submitted on 2022-05-15 23:00:12+08:00.
+### 436: [[Hobby Scuffles] Week of May 16, 2022](https://old.reddit.com/r/HobbyDrama/comments/uq7vr6/hobby_scuffles_week_of_may_16_2022/), submitted on 2022-05-15 23:00:12+08:00.
 
------ __435.1__ -----2022-05-20 19:07:05+08:00:
+----- __436.1__ -----2022-05-20 19:07:05+08:00:
 
 Seeing as I seem to have become HobbyDrama's point man on VTuber issues, I guess I kinda need to talk about Luxiem. Well, not quite. None of its five members have done anything wrong either individually or as a group, at least not on a major scale. Rather, the issue seems to be their treatment by their agency, Nijisanji. Not because they aren't being treated well, but because they're being treated *very* well. *Too* well for some Nijisanji viewers. I may need to give a decent amount of context for this, so strap in.
 
@@ -378,29 +378,29 @@ In short there seems to be a strong perception that while more merch is nice, [t
 
 EDIT: Some discussion over on Nijisanji's subreddit [here](https://www.reddit.com/r/Nijisanji/comments/utt68i/regarding_the_luxiem_favoritism_in_nijien/).
 
------ __435.2__ -----2022-05-20 23:14:06+08:00:
+----- __436.2__ -----2022-05-20 23:14:06+08:00:
 
 I know that comparisons to Holo that come from me are always going to be favourable towards it, but I can't help but compare the rather 'survival of the fittest' approach Nijisanji has taken to Holo having a bit more of a 'no one left behind' mentality. Take for instance the ID branches: while Niji subsumed its ID branch and have continued to be radio silent to its fans about merch, Hololive had Bahasa Indonesia as an official announcement language at 3rd Fes and heavily pushed them during the most recent Music Weekend. From a pure corporate profit perspective one can't *blame* Nijisanji for focussing on the bottom line, but it's still been a *choice* to take the approach they have because they could just as well have gone for slightly less profitable merch lines for its less popular but longer-running talents. I guess this also applies as a reply to /u/megadongs' comment too.
 
------ __435.3__ -----2022-05-20 23:15:45+08:00:
+----- __436.3__ -----2022-05-20 23:15:45+08:00:
 
 It's almost like people's definition of 'corporate' is Hololive and Hololive specifically, and so when NijiEN turns up it's still 'indie' despite being literally the other biggest VTuber corporation out there.
 
------ __435.4__ -----2022-05-20 23:25:53+08:00:
+----- __436.4__ -----2022-05-20 23:25:53+08:00:
 
 It's been confirmed that at least one of IN is on NijiEN's management staff now, but even so that's small consolation.
 
------ __435.5__ -----2022-05-21 01:30:37+08:00:
+----- __436.5__ -----2022-05-21 01:30:37+08:00:
 
 So there's kind of a 'it depends on your perspective' to this. One might justifiably ask why Luxiem's success isn't being used as a basis on which Nijisanji can shoulder the somewhat lower profit margin of more actively supporting its other, less successful talents, even just within EN here if we account for Ethyria. Another thing is that the social media side of things is such a low-cost endeavour that things like not hyping NijiID birthdays or tacking NijiEN merch news onto a NijiJP announcement seem like obvious favouritism at play for essentially nothing in terms of expenditures saved.
 
 EDIT: Well, to throw the more cynical take into it, depending on how merch profit gets distributed at Niji (my only reference is Holo where it mostly goes to the talent), anyone who doesn't get merch is essentially being cut out from a certain amount of income that those that do get merch become entitled to. And so there's a very obvious sort of financial loop of 'you do well you get more opportunities to get paid more, you do badly then you're shit out of luck'. And yes, you can argue that's somewhat true of the dynamic at other agencies, but that's a product of being more popular and having more people buying stuff when the opportunity is prsented, and not some kind of restriction – soft or hard – on the agency's part actively imbalancing the opportunities.
 
------ __435.6__ -----2022-05-21 01:32:01+08:00:
+----- __436.6__ -----2022-05-21 01:32:01+08:00:
 
 I feel like there's a certain irony in the gradual realisation that Niji has been acting far more 'corpo' than Holo has been, at least in terms of what we would consider 'typical' profit-centric corporate behaviour.
 
------ __435.7__ -----2022-05-21 02:08:38+08:00:
+----- __436.7__ -----2022-05-21 02:08:38+08:00:
 
 It's almost certainly larger as an organisation in terms of people involved, just with talents alone, but with basically no public financial announcements from Cover we can't know for sure where they are money-wise. One thing worth remarking on is that while Hololive's total numbers when it comes to things like subscribers didn't overtake Nijisanji until late 2021/early 2021, its members' *average* popularity had overtaken a little bit earlier. What metrics you go by will influence how you view things of course, so perhaps the only real way of putting it is that the two are, as overall organisations, in the same league. But yeah, Nijisanji is definitely the more populated agency by a nearly 3:1 margin (bit less if you count VirtuaReal out).
 

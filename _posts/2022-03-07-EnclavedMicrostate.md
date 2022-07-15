@@ -13,41 +13,41 @@ title: EnclavedMicrostate在2022-03-07~2022-03-13的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 206: [the ol us vs uk](https://old.reddit.com/r/tumblr/comments/t8bsfn/the_ol_us_vs_uk/), submitted on 2022-03-07 07:45:59+08:00.
+### 207: [the ol us vs uk](https://old.reddit.com/r/tumblr/comments/t8bsfn/the_ol_us_vs_uk/), submitted on 2022-03-07 07:45:59+08:00.
 
------ __206.1__ -----2022-03-07 13:22:04+08:00:
+----- __207.1__ -----2022-03-07 13:22:04+08:00:
 
 The Oxford/Cambridge college system is, however, unique within the UK; no other universities maintain anything similar. There are technically separate colleges of the University of London, but each 'college' is functionally a self-contained university for all intents and purposes, with the 'University' designation being an extremely loose one.
 
------ __206.2__ -----2022-03-07 18:06:03+08:00:
+----- __207.2__ -----2022-03-07 18:06:03+08:00:
 
 Indeed; my phrasing is potentially a little awkward, but the two sentences are not meant to be linked. i.e. 'Oxford and Cambridge have a unique college-university arrangement, whereas the University of London is a loose association of entities that are named 'colleges' but are otherwise self-contained universities'.
 
-### 207: [Marin Kitagawa as Calli, Calli shocked.](https://old.reddit.com/r/Hololive/comments/t8dfiu/marin_kitagawa_as_calli_calli_shocked/), submitted on 2022-03-07 09:10:44+08:00.
+### 208: [Marin Kitagawa as Calli, Calli shocked.](https://old.reddit.com/r/Hololive/comments/t8dfiu/marin_kitagawa_as_calli_calli_shocked/), submitted on 2022-03-07 09:10:44+08:00.
 
------ __207.1__ -----2022-03-07 11:15:10+08:00:
+----- __208.1__ -----2022-03-07 11:15:10+08:00:
 
 I can just hear Calli's scream here.
 
------ __207.2__ -----2022-03-07 13:49:50+08:00:
+----- __208.2__ -----2022-03-07 13:49:50+08:00:
 
 Oh I was thinking more her classic incoherent screeches such as [here](https://www.youtube.com/watch?v=5wPSZQOL6YE)
 
-### 208: [Wikipedia claims that the Mughal ruler Akbar assembled some 400,000 troops for the Battle of Tukaroi. What were the logistics like for the Mughals at this time, that this army – or one large enough to be exaggerated to 400,000 – could be maintained in the field?](https://old.reddit.com/r/AskHistorians/comments/t8fjzz/wikipedia_claims_that_the_mughal_ruler_akbar/), submitted on 2022-03-07 11:05:45+08:00.
+### 209: [Wikipedia claims that the Mughal ruler Akbar assembled some 400,000 troops for the Battle of Tukaroi. What were the logistics like for the Mughals at this time, that this army – or one large enough to be exaggerated to 400,000 – could be maintained in the field?](https://old.reddit.com/r/AskHistorians/comments/t8fjzz/wikipedia_claims_that_the_mughal_ruler_akbar/), submitted on 2022-03-07 11:05:45+08:00.
 
------ __208.1__ -----2022-03-07 18:35:55+08:00:
+----- __209.1__ -----2022-03-07 18:35:55+08:00:
 
 Thank you!
 
-### 209: [Disastrously Distraught Doomsayers - Weekly Discussion Thread, March 7th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/t8i65x/disastrously_distraught_doomsayers_weekly/), submitted on 2022-03-07 13:40:35+08:00.
+### 210: [Disastrously Distraught Doomsayers - Weekly Discussion Thread, March 7th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/t8i65x/disastrously_distraught_doomsayers_weekly/), submitted on 2022-03-07 13:40:35+08:00.
 
------ __209.1__ -----2022-03-14 01:44:06+08:00:
+----- __210.1__ -----2022-03-14 01:44:06+08:00:
 
 Calli has been known to wear a ski mask when doing camera streams.
 
-### 210: [What was the population of the Kingdom of David?](https://old.reddit.com/r/AskHistorians/comments/t9icbh/what_was_the_population_of_the_kingdom_of_david/), submitted on 2022-03-08 22:45:31+08:00.
+### 211: [What was the population of the Kingdom of David?](https://old.reddit.com/r/AskHistorians/comments/t9icbh/what_was_the_population_of_the_kingdom_of_david/), submitted on 2022-03-08 22:45:31+08:00.
 
------ __210.1__ -----2022-03-08 23:40:39+08:00:
+----- __211.1__ -----2022-03-08 23:40:39+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -55,17 +55,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 211: [What is the weirdest story you know from the 1500's?](https://old.reddit.com/r/AskHistorians/comments/t9j57x/what_is_the_weirdest_story_you_know_from_the_1500s/), submitted on 2022-03-08 23:23:45+08:00.
+### 212: [What is the weirdest story you know from the 1500's?](https://old.reddit.com/r/AskHistorians/comments/t9j57x/what_is_the_weirdest_story_you_know_from_the_1500s/), submitted on 2022-03-08 23:23:45+08:00.
 
------ __211.1__ -----2022-03-08 23:40:50+08:00:
+----- __212.1__ -----2022-03-08 23:40:50+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 212: [How did Japanese culture become so deeply entrenched in Western consciousness compared to Chinese and Korean culture?](https://old.reddit.com/r/AskHistorians/comments/ta6g2t/how_did_japanese_culture_become_so_deeply/), submitted on 2022-03-09 20:10:26+08:00.
+### 213: [How did Japanese culture become so deeply entrenched in Western consciousness compared to Chinese and Korean culture?](https://old.reddit.com/r/AskHistorians/comments/ta6g2t/how_did_japanese_culture_become_so_deeply/), submitted on 2022-03-09 20:10:26+08:00.
 
------ __212.1__ -----2022-03-11 00:44:48+08:00:
+----- __213.1__ -----2022-03-11 00:44:48+08:00:
 
 Answers in the subreddit are expected to be in-depth and comprehensive, as laid out in the [subreddit rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer). There is no hard and fast definition of that, but in evaluating what you know on the topic, and what you are planning to post, consider whether your answer will demonstrate these four qualities to a reader:
 
@@ -78,35 +78,35 @@ In this particular case, there's a lot of interesting information here about nin
 
 If you have further questions, please [reach out to us via modmail](https://www.reddit.com/message/compose/?to=/r/AskHistorians). Thank you!
 
-### 213: [Why the inclusion of the baltic states in NATO didn't led to a crisis with Moscow?](https://old.reddit.com/r/AskHistorians/comments/ta77nw/why_the_inclusion_of_the_baltic_states_in_nato/), submitted on 2022-03-09 20:57:31+08:00.
+### 214: [Why the inclusion of the baltic states in NATO didn't led to a crisis with Moscow?](https://old.reddit.com/r/AskHistorians/comments/ta77nw/why_the_inclusion_of_the_baltic_states_in_nato/), submitted on 2022-03-09 20:57:31+08:00.
 
------ __213.1__ -----2022-03-09 22:25:50+08:00:
+----- __214.1__ -----2022-03-09 22:25:50+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 214: [Whose "mythos" has changed the most since their debut?](https://old.reddit.com/r/Hololive/comments/tabb5s/whose_mythos_has_changed_the_most_since_their/), submitted on 2022-03-10 00:17:34+08:00.
+### 215: [Whose "mythos" has changed the most since their debut?](https://old.reddit.com/r/Hololive/comments/tabb5s/whose_mythos_has_changed_the_most_since_their/), submitted on 2022-03-10 00:17:34+08:00.
 
------ __214.1__ -----2022-03-11 02:37:02+08:00:
+----- __215.1__ -----2022-03-11 02:37:02+08:00:
 
 To be fair 'de gozaru' is an archaic form of 'desu', so it's not a tic so much as a general idiosyncracy along the lines of someone using 'thou' and its derivatives for second-person singular.
 
-### 215: [When the Soviet Union fell at the end of 1991, its last member was the Kazakhstan Soviet. The UN Charter in 1945 made the Soviet Union one of the the Permanent 5 (P5) members of the UN's security council. Why is Russia today one of the P5 when Kazakhstan is clearly the successor of the USSR?](https://old.reddit.com/r/AskHistorians/comments/tb0z2i/when_the_soviet_union_fell_at_the_end_of_1991_its/), submitted on 2022-03-10 23:19:31+08:00.
+### 216: [When the Soviet Union fell at the end of 1991, its last member was the Kazakhstan Soviet. The UN Charter in 1945 made the Soviet Union one of the the Permanent 5 (P5) members of the UN's security council. Why is Russia today one of the P5 when Kazakhstan is clearly the successor of the USSR?](https://old.reddit.com/r/AskHistorians/comments/tb0z2i/when_the_soviet_union_fell_at_the_end_of_1991_its/), submitted on 2022-03-10 23:19:31+08:00.
 
------ __215.1__ -----2022-03-11 00:25:06+08:00:
+----- __216.1__ -----2022-03-11 00:25:06+08:00:
 
 This submission has been removed because it is [soapboxing](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or [moralizing:](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/) it has the effect of promoting an opinion on contemporary politics or social issues at the expense of historical integrity. There are certainly historical topics that relate to contemporary issues and it is possible for legitimate interpretations that differ from each other to come out of looking at the past through different political lenses. However, we will remove questions that put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 216: [A wealthy and/or noble family in medieval Europe had a better or worse quality of life than a modern-day south-American rural family?](https://old.reddit.com/r/AskHistorians/comments/tb11yg/a_wealthy_andor_noble_family_in_medieval_europe/), submitted on 2022-03-10 23:23:28+08:00.
+### 217: [A wealthy and/or noble family in medieval Europe had a better or worse quality of life than a modern-day south-American rural family?](https://old.reddit.com/r/AskHistorians/comments/tb11yg/a_wealthy_andor_noble_family_in_medieval_europe/), submitted on 2022-03-10 23:23:28+08:00.
 
------ __216.1__ -----2022-03-11 01:00:26+08:00:
+----- __217.1__ -----2022-03-11 01:00:26+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 217: [Are there any information about the 12 gates of Tashkent?](https://old.reddit.com/r/AskHistorians/comments/tbgjd3/are_there_any_information_about_the_12_gates_of/), submitted on 2022-03-11 11:15:27+08:00.
+### 218: [Are there any information about the 12 gates of Tashkent?](https://old.reddit.com/r/AskHistorians/comments/tbgjd3/are_there_any_information_about_the_12_gates_of/), submitted on 2022-03-11 11:15:27+08:00.
 
------ __217.1__ -----2022-03-11 12:01:58+08:00:
+----- __218.1__ -----2022-03-11 12:01:58+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -114,9 +114,9 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 218: [Why didn't the British take the Dutch east indies for themselves at the end of the Napoleonic Wars?](https://old.reddit.com/r/AskHistorians/comments/tbgtki/why_didnt_the_british_take_the_dutch_east_indies/), submitted on 2022-03-11 11:31:05+08:00.
+### 219: [Why didn't the British take the Dutch east indies for themselves at the end of the Napoleonic Wars?](https://old.reddit.com/r/AskHistorians/comments/tbgtki/why_didnt_the_british_take_the_dutch_east_indies/), submitted on 2022-03-11 11:31:05+08:00.
 
------ __218.1__ -----2022-03-11 12:02:15+08:00:
+----- __219.1__ -----2022-03-11 12:02:15+08:00:
 
 Hey there,
 
@@ -124,19 +124,9 @@ Just to let you know, your question is fine, and we're letting it stand. However
 
 If you end up not getting a response after a day or two, [consider asking a new question focusing instead on why what happened did happen](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) (rather than why what didn't happen didn't happen) - this kind of question is more likely to get a response in our experience. Hope this helps!
 
-### 219: [Has there ever been a three-sided battle in history?](https://old.reddit.com/r/AskHistorians/comments/tbgwll/has_there_ever_been_a_threesided_battle_in_history/), submitted on 2022-03-11 11:35:45+08:00.
+### 220: [Has there ever been a three-sided battle in history?](https://old.reddit.com/r/AskHistorians/comments/tbgwll/has_there_ever_been_a_threesided_battle_in_history/), submitted on 2022-03-11 11:35:45+08:00.
 
------ __219.1__ -----2022-03-11 12:01:35+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 220: [Can anyone tell me more about these photographs with Adolf Hitler?](https://old.reddit.com/r/AskHistorians/comments/tblbu5/can_anyone_tell_me_more_about_these_photographs/), submitted on 2022-03-11 16:10:40+08:00.
-
------ __220.1__ -----2022-03-11 16:56:30+08:00:
+----- __220.1__ -----2022-03-11 12:01:35+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -144,9 +134,19 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 221: [Was there ever a hui or tibetan dynasty?](https://old.reddit.com/r/AskHistorians/comments/tcppnt/was_there_ever_a_hui_or_tibetan_dynasty/), submitted on 2022-03-13 04:09:21+08:00.
+### 221: [Can anyone tell me more about these photographs with Adolf Hitler?](https://old.reddit.com/r/AskHistorians/comments/tblbu5/can_anyone_tell_me_more_about_these_photographs/), submitted on 2022-03-11 16:10:40+08:00.
 
------ __221.1__ -----2022-03-15 19:54:25+08:00:
+----- __221.1__ -----2022-03-11 16:56:30+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 222: [Was there ever a hui or tibetan dynasty?](https://old.reddit.com/r/AskHistorians/comments/tcppnt/was_there_ever_a_hui_or_tibetan_dynasty/), submitted on 2022-03-13 04:09:21+08:00.
+
+----- __222.1__ -----2022-03-15 19:54:25+08:00:
 
 This question is one that was perhaps more complicated than you may have imagined while writing it, because it gets into two main areas: matters of ethnic reification and classification, and the 'dynastic cycle'. Because the terms 'Hui', 'Tibetan', and 'dynasty' are less concrete, in a grand historical context, than you might imagine.
 
@@ -172,34 +172,34 @@ I bring up Western Xia because in a sense, it is a decent candidate for being a 
 
 So, have there ever been Hui or Tibetan dynasties of China? No, firstly because 'Hui' and 'Tibetan' as identities are more recent than they may first appear, and secondly because Tibetans in particular were not a substantial part of 'China' in any meaningful sense until arguably the Yuan and more concretely the Qing (and even if you count the Yuan they were not part of the Ming). Moreover, the 'dynastic' classification breaks down once you get in the weeds a bit, and is just an unhelpful method of categorisation except in the broadest strokes.
 
-### 222: [[Hobby Scuffles] Week of March 14, 2022](https://old.reddit.com/r/HobbyDrama/comments/td8ojf/hobby_scuffles_week_of_march_14_2022/), submitted on 2022-03-13 23:00:12+08:00.
+### 223: [[Hobby Scuffles] Week of March 14, 2022](https://old.reddit.com/r/HobbyDrama/comments/td8ojf/hobby_scuffles_week_of_march_14_2022/), submitted on 2022-03-13 23:00:12+08:00.
 
------ __222.1__ -----2022-03-16 23:15:46+08:00:
+----- __223.1__ -----2022-03-16 23:15:46+08:00:
 
 > How do you know what country the HoloEn people are in/from?
 
 To add to /u/LordMonday, both Calli[ope] and IRyS have mentioned being in Japan, and even if they hadn't the fact that they meet up offline with each other and other Japanese members is a bit of a giveaway. Kiara has been very overtly not concealing her general location; she used to claim she was from 'Australia' (with intentional irony) but officially just admitted to being in Austria after overhearing someone IRL taking it completely seriously.
 
------ __222.2__ -----2022-03-16 23:19:49+08:00:
+----- __223.2__ -----2022-03-16 23:19:49+08:00:
 
 > They are different from Hololive and Nijisanji since they grabbed streamers that were experienced, popular and had their own brands already
 
 That's not entirely true as phrased though I believe I agree with what you're trying to get at – I don't know about Nijisanji but Hololive, at least looking at EN, has generally hired people with some degree of experience with some form of content creation already and a decently established audience – no names named just to preserve the 'forbidden knowledge'. The difference vs VShojo is that with one notable exception (Suisei) Hololive talents get totally new VTuber personas whereas VShojo simply pulled together several existing talent-persona pairs (and added a couple new ones).
 
------ __222.3__ -----2022-03-16 23:25:52+08:00:
+----- __223.3__ -----2022-03-16 23:25:52+08:00:
 
 > Yeah, I'm sort of surprised she only got a slap on the wrist for it. I don't know the full details of the situation so maybe it's not that close, but, I don't know.
 
 It seems to be a combination of it having happened quite a while ago, Nene knowing the artist personally, and there already having been some kind of internal resolution before the situation was publicly made known.
 
------ __222.4__ -----2022-03-16 23:36:15+08:00:
+----- __223.4__ -----2022-03-16 23:36:15+08:00:
 
 > There was a podcast recently where the host, while interviewing Ironmouse, likewise sort of shittalked Hololive and implied that any streamer regardless of talent would be successful on Hololive due to the brand name
 > 
 
 To be fair, Connor (CDawgVA) himself admits it was a poorly thought out statement delivered even less articulately and that he doesn't even know what he was trying to say anymore; besides that he's friends with HoloEN's Mori Calliope anyway so it's not like he has genuine beef with it.
 
------ __222.5__ -----2022-03-17 01:40:46+08:00:
+----- __223.5__ -----2022-03-17 01:40:46+08:00:
 
 Not to make this an r/AskHistorians essay but I feel like one thing that's worth bringing up is some of the early history of VTubing up until around the end of 2019, because the landscape changed a lot in that time. VTubing as it exists today is in some ways quite different from how it was originally conceived.
 
@@ -225,7 +225,7 @@ The other big controversy of summer 2019 was the 'C-Tuber' fiasco with Unlimited
 
 Basically, all this to say that VTubing today is dominated by agencies that either never subscribed to the 'corporate product' model, or quickly abandoned it in favour of what the current understanding of VTubers is – that is to say fictional personas adopted by real people who may put a lot of their real selves into that persona. I'd say it's telling that despite both agencies having fired at least one of their talents shortly after debut for internal issues (Hitomi Chris at Hololive and Shindo Raito at Nijisanji), the characters were never recast despite the time and money that had been spent on producing the necessary assets – especially notable in Hololive's case, where Chris was, at the time, the eighth ever member of the agency. And so the events of 2019 and early 2020 were, I would argue, the most impactful pieces of drama in VTubing history, because they so potently illustrated how the ethos behind the concept had shifted since Kizuna AI's debut.
 
------ __222.6__ -----2022-03-17 09:48:24+08:00:
+----- __223.6__ -----2022-03-17 09:48:24+08:00:
 
 Right, and to restress from my earlier post, the 'eternal idol' concept is one that made a lot more sense at a time when the barrier to entry was substantially more prohibitive – thus placing much more leverage on the part of companies able to create and maintain characters rather than the people playing them – and when the content style was predominantly recorded videos rather than livestreams, meaning there was much less emphasis on what defines VTubing a lot now, which is a sort of genuine authenticity despite a superficially fictive persona.
 
@@ -235,11 +235,11 @@ This does become a hard circle to square, because to be fair the whole aspect of
 
 I've kind of ended up alluding to two major pieces of recent drama: the termination of Hololive's Uruha Rushia, and the doxxing of Wactor's Shino Laila. The Rushia termination I think has already been discussed in the comments here, but [this analysis](https://www.reddit.com/r/VirtualYoutubers/comments/t1q4ie/comment/hyhse10/?utm_source=share&utm_medium=web2x&context=3) of the situation by u/sulendil – one apparently drawn from stuff I've written on Qing history on r/AskHistorians! – I think is relevant to what I've said above, in that it argues Mikeneko, the (pseudonymous) talent behind Rushia, screwed up in failing to properly acknowledge the divide between the two personas and trying to fix a potential scandal with one through activities on the other. The WACTOR doxxing is its own kettle of worms/can of fish which u/LordMonday brought up on a scuffles thread [here](https://www.reddit.com/r/HobbyDrama/comments/t2q06a/hobby_scuffles_week_of_february_28_2022/hz1icvz/?context=999). What's interesting with the WACTOR incident is that you can see how there was a certain sort of financial rationale explaining why they had this kind of non-compete clause: if you are doing monetised streams as a VTuber at the agency, and as a different VTuber outside the agency, anyone wanting to financially support the talent would naturally send any donations the way of the non-agency account which deprives the company of its cut. I can think of at least one Hololive member who does actual face streams occasionally on her alt channel, but these are unmonetised perhaps for that very reason – quite plausibly not contractually but still out of a sort of ethical concern. Also, whether intentionally or otherwise, this dox has essentially allowed Laila to port much of her audience over. It's still an incredibly shitty thing to do, though, even if it has raised interesting questions of how to work out the underlying problem.
 
------ __222.7__ -----2022-03-17 14:21:15+08:00:
+----- __223.7__ -----2022-03-17 14:21:15+08:00:
 
 Funnily enough you're not the only person to suggest I write a full top-level, so I'm now working on that based on an old draft of something I wrote but never got round to completing. I don't know how much more I can insert in terms of shenanigans although I can always frame it as Hobby History instead...
 
------ __222.8__ -----2022-03-17 16:45:05+08:00:
+----- __223.8__ -----2022-03-17 16:45:05+08:00:
 
 There's just a lot of VTuber watchers on Reddit and especially on HobbyDrama I suppose.
 
