@@ -123,3 +123,11 @@ China's World Internet Conference is becoming an international organization -- e
 
 It has been a rocky 8-year journey for China's World Internet Conference, and global credibility still eludes. What you should know about the latest effort to remake WIC as an int'l organization -- and how to hold unwitting participants accountable. <a href="https://bit.ly/3P89SoI" target="_blank" rel="noopener noreferrer">https://bit.ly/3P89SoI</a><br><img style="" src="https://pbs.twimg.com/media/FXrcQS_agAALV24?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 28: [2022-07-15 13:30:07+08:00 推文](https://twitter.com/ABPevzner/status/1547815753751347201)
+
+RT Alexander B. Pevzner 裴則男<br>"You could call it a hunger for justice." <br>A tribute to Yang Haipeng. @cnmediaproject <a href="https://chinamediaproject.org/2022/07/05/a-tribute-to-the-journalists-spirit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/05/a-tribute-to-the-journalists-spirit/</a>
+
+### 29: [2022-07-15 15:32:36+08:00 推文](https://twitter.com/cnmediaproject/status/1547846576239886339)
+
+Re @chenchenzh This is a really interesting story.
+
