@@ -173,3 +173,9 @@ Ah yes, because depicting Fantasy!Chinese imperialism in Fantasy!India and Fanta
 
 I mean, I never said I approved of the rest of the setting either... *looking* ***especially*** *hard at that Empire conquistador campaign...*
 
+----- __601.7__ -----2022-07-16 00:46:10+08:00:
+
+> (1) is impossible
+
+Sounds like something a ghost would say.
+
