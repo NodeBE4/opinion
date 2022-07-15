@@ -91,3 +91,21 @@ Well, it is worth stating that there was a time when 'China', for a given defini
 
 What that answer doesn't get into, at least not explicitly, is why pre-Qing states failed at maintaining power in the steppe effectively. For that, we need to discuss the 'Nomadic Military Advantage' thesis, which, funnily enough, I also got into, see [this answer](https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/) and [this answer](https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/).
 
+----- __606.2__ -----2022-07-15 13:02:37+08:00:
+
+I'm not sure where the confusion is coming from, as I quite clearly state that
+
+> Nomadic societies can mobilise a far larger proportion of their population than sedentary societies for military purposes without compromising subsistence
+
+The size of an army depends on the size and mobilisation potential of the polity behind it. A big state may mobilise more troops than a small nomadic confederation, while the reverse may also be true. There is no ideal exact size of either a state or a nomadic society that would allow one to generalise on a broad scale.
+
+### 607: [is this wwi brass Brodie helmet real?](https://old.reddit.com/r/AskHistorians/comments/vzf1ix/is_this_wwi_brass_brodie_helmet_real/), submitted on 2022-07-15 11:57:01+08:00.
+
+----- __607.1__ -----2022-07-15 13:47:54+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+

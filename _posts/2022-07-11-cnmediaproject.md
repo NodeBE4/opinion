@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-14
+date: 2022-07-15
 from: https://twitter.com/jenniferatntd/status/1546168180388806656
 layout: post
 tags:
@@ -118,4 +118,8 @@ Re @lingli_vienna Our quick take at CMP. :) <a href="https://chinamediaproject
 ### 26: [2022-07-14 14:55:58+08:00 推文](https://twitter.com/cnmediaproject/status/1547474970737278976)
 
 China's World Internet Conference is becoming an international organization -- even as global credibility continues to elude the event. Here's what you should know about the CCP's latest effort to re-frame the WIC. <a href="https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/14/taking-chinas-global-cyber-body-to-task/</a><br><img style="" src="https://pbs.twimg.com/media/FXm8PXkacAAmfnv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-07-15 11:56:45+08:00 推文](https://twitter.com/cnmediaproject/status/1547792257012867072)
+
+It has been a rocky 8-year journey for China's World Internet Conference, and global credibility still eludes. What you should know about the latest effort to remake WIC as an int'l organization -- and how to hold unwitting participants accountable. <a href="https://bit.ly/3P89SoI" target="_blank" rel="noopener noreferrer">https://bit.ly/3P89SoI</a><br><img style="" src="https://pbs.twimg.com/media/FXrcQS_agAALV24?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

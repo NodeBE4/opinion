@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-11
+date: 2022-07-14
 from: https://old.reddit.com/r/geopolitics/comments/vvvu7w/the_united_states_should_end_military_aid_to/
 layout: post
 tags:
@@ -30,4 +30,10 @@ This low-quality text post should not have been approved.  General discussion it
 ----- __337.1__ -----2022-07-11 19:49:41+08:00:
 
 Issues concerning a single country's internal affairs are not appropriate for this subreddit.  This post should not have been approved.
+
+### 338: [The fucked up way this conservatard mod twisted the comments](https://old.reddit.com/r/Disinfo/comments/vytrml/the_fucked_up_way_this_conservatard_mod_twisted/), submitted on 2022-07-14 19:38:13+08:00.
+
+----- __338.1__ -----2022-07-15 13:19:59+08:00:
+
+u/Worried_Protection48, this is not the place for bringing your drama from other subreddits.  Keep the flaming out of this sub.
 
