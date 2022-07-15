@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-13
+date: 2022-07-15
 from: https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/
 layout: post
 tags:
@@ -36,6 +36,10 @@ I feel there's kind of a two-way thing of on the one hand, VShojo having this wh
 ----- __601.5__ -----2022-07-15 03:05:17+08:00:
 
 Yeah but Nyanners' reason for that isn't necessarily prudishness...
+
+----- __601.6__ -----2022-07-15 12:12:56+08:00:
+
+...do *you* encounter blacksmiths, rain shamans, and secret agents in your daily life?
 
 ### 602: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
@@ -78,4 +82,12 @@ It's the bit where she mentions her and Flare. I also know there's a clip *somew
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
+
+### 606: [Why didn't China conquer Mongolia?](https://old.reddit.com/r/AskHistorians/comments/vz3293/why_didnt_china_conquer_mongolia/), submitted on 2022-07-15 02:41:06+08:00.
+
+----- __606.1__ -----2022-07-15 12:20:46+08:00:
+
+Well, it is worth stating that there was a time when 'China', for a given definition of 'China', conquered Mongolia, but the way it did so is worth digging into. Fortunately, I did so in [this answer](https://www.reddit.com/r/AskHistorians/comments/h108o3/how_did_the_qing_manage_to_subjugate_the_mongols/) a couple years back, but am happy to add clarification on any points if needed.
+
+What that answer doesn't get into, at least not explicitly, is why pre-Qing states failed at maintaining power in the steppe effectively. For that, we need to discuss the 'Nomadic Military Advantage' thesis, which, funnily enough, I also got into, see [this answer](https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/) and [this answer](https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/).
 
