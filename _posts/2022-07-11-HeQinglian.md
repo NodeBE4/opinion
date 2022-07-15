@@ -65,11 +65,11 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -349,7 +349,7 @@ Re @NAConservative9 希望各位对我这条推文留言补充，看看我遗漏
 
 ### 84: [2022-07-14 04:58:24+08:00 推文](https://twitter.com/HeQinglian/status/1547324590661242883)
 
-是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。<br><br>北美保守评论🇺🇸🇨🇦: 《我们是否正面临着另一场内战？》<br><br>左派一直在为战争作准备：在军队中安插各种“觉醒派”人员，包括LGBTQ等，显然是削弱军队的战斗力，却是对付国内保守派的有效措施。近一、二十年来的“控枪”努力，也使百姓拥枪变得更加困难。多年对孩子的洗脑，使多数青年无常识地支持左派。<br><br><img style="" src="https://pbs.twimg.com/media/FXkYJ5pX0Acld05?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/</a>
+是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。
 
 ### 85: [2022-07-14 05:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1547326173239189505)
 
@@ -409,7 +409,7 @@ Re 曾有推友认为我讲40国联军是段子，真不是，就是美国讲过
 
 ### 99: [2022-07-14 08:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1547382189557440513)
 
-这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。<br><br>Newsmax: President Biden, after touching down in Israel on Wednesday, mistakenly said we must keep alive the "honor of the Holocaust," instead of the "horror of the Holocaust." <br><br>Biden also mispronounced the name of the Jerusalem Holocaust museum Yad Vashem.<br><br><video src="https://video.twimg.com/ext_tw_video/1547351417999872001/pu/vid/720x720/sVbxqwFXpVticfYH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547351417999872001/pu/img/wNf8BYThTWYdtlcd.jpg"></video> <a href="https://bit.ly/3Ru2PZ7" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ru2PZ7</a>
+这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。
 
 ### 100: [2022-07-14 10:21:19+08:00 推文](https://twitter.com/HeQinglian/status/1547405851232796672)
 
@@ -534,4 +534,28 @@ Re @annaqiliu 你看来专以黑他人为生，这推足以证明。<br>既看�
 ### 130: [2022-07-15 18:22:15+08:00 推文](https://twitter.com/HeQinglian/status/1547889269930225666)
 
 Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰卡这种绿色农业变革，是找死。自家的农业研究所已经将条件逐步分析过了，没条件。这种情况下，小范围试验，政府扶持，错了不怕。一下在全国推广，那绝对是拿国运开玩笑。<br>中国有大跃进与文革，都是假“变革”与“革命”之名。
+
+### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
+
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
+
+### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
+
+Re @shenliangqing2 这些国家的政府全然忘记自己的职责是什么，政府存在的目的首要就是保护国民安全，不受任何暴力伤害。国民纳税的主要目的也就是要求政府提供公共安全与秩序。
+
+### 133: [2022-07-15 21:38:46+08:00 推文](https://twitter.com/HeQinglian/status/1547938725442703364)
+
+Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
+
+### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
+
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+
+### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
+
+Re @Meitiaowushi @shenliangqing2 “我只是想要表达有一些变革是应该无条件支持的”——无用的废话。<br>等有了这样的变革再讨论是否支持不迟。推上从2017年迎来百年中国民主第一人郭文贵以来，至今迎来的变革基本是这种类型。
+
+### 136: [2022-07-15 22:00:07+08:00 推文](https://twitter.com/HeQinglian/status/1547944099776409600)
+
+Re @JianglinLi 中国的上头要求百姓吃草，他们会当众表演吃草，与民同苦，但三年大饥荒时毛泽东的菜谱表明革命需要他们吃肉。<br>美国的左派要环保，要推广吃虫。<br>这个世界如今确实邪门，乱是必然的。
 
