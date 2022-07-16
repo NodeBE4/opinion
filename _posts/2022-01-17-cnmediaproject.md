@@ -49,7 +49,7 @@ RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU versc
 
 ### 9: [2022-01-20 07:45:03+08:00 推文](https://twitter.com/cnmediaproject/status/1483948651726897153)
 
-In December, CMP wrote about the Human Rights Institute of the SW Univ. of Political Science and Law in Chongqing, and its strange relationship with the Free University of Amsterdam and CGTN regular Tom Zwart. Seems now that Chinese $$$ is involved.<br><img style="" src="https://pbs.twimg.com/media/FJgLNB7aIAM5lsw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization."<br><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a>
+In December, CMP wrote about the Human Rights Institute of the SW Univ. of Political Science and Law in Chongqing, and its strange relationship with the Free University of Amsterdam and CGTN regular Tom Zwart. Seems now that Chinese $$$ is involved.<br><img style="" src="https://pbs.twimg.com/media/FJgLNB7aIAM5lsw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization."<br><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a>
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
@@ -61,7 +61,7 @@ Re CCHRC content is strikingly in line with the CCP line, though Zwart insists h
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
@@ -73,7 +73,7 @@ Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands,
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
-Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style="" src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-20 09:24:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483973733660655617)
 
@@ -85,7 +85,7 @@ Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Right
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
-RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent &amp; smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
+RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent & smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
 
 ### 19: [2022-01-20 15:42:11+08:00 推文](https://twitter.com/vshih2/status/1484068724445310976)
 
