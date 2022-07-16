@@ -135,3 +135,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 609: [Free for All Friday, 15 July 2022](https://old.reddit.com/r/badhistory/comments/vzlvkx/free_for_all_friday_15_july_2022/), submitted on 2022-07-15 19:00:14+08:00.
+
+----- __609.1__ -----2022-07-16 18:28:26+08:00:
+
+Aha, I see I was invoked! When I did my big Tartaria post two years ago (https://www.reddit.com/r/badhistory/comments/ieg2k0/tartaria_the_supposed_megaempire_of_inner_eurasia/), some r/Tartaria users decided to jump in to defend their pet conspiracy theory; it went over about as well as you'd expect.
+
