@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 

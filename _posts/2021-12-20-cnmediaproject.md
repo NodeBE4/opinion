@@ -61,7 +61,7 @@ RT Muyi Xiao<br>Re We translated several key service items and their requireme
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>PRC national college English proficiency test (CET) level 6 was held yesterday. <br><br>Topics for the Chinese to English Translation test:<br><br>井冈山革命根据地<br>延安革命根据地<br>中共一大会址<br><img style="" src="https://pbs.twimg.com/media/FHFvbdaXwAMWosS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdiXsAY7AQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdjXEAE7Qho?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHFvbdaXMBAwdGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>PRC national college English proficiency test (CET) level 6 was held yesterday. <br><br>Topics for the Chinese to English Translation test:<br><br>井冈山革命根据地<br>延安革命根据地<br>中共一大会址<br><img style src="https://pbs.twimg.com/media/FHFvbdaXwAMWosS?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdiXsAY7AQb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdjXEAE7Qho?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHFvbdaXMBAwdGZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
@@ -81,7 +81,7 @@ RT Bonnie Glaser / 葛來儀<br>Amazon agreed to allow only five-star reviews 
 
 ### 17: [2021-12-25 07:15:37+08:00 推文](https://twitter.com/niubi/status/1474519159983812611)
 
-RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, refers to xi as “great helmsman 伟大舵手”<br><br>方舟子: 不就是把当年林副统帅提出的“伟大的导师，伟大的领袖，伟大的统帅，伟大的舵手”的称号改了改嘛。<br><br><img style src="https://pbs.twimg.com/media/FHaDNV7VQAAM6mL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHaDNV8UUAISoYi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHaDNV-VUAM53LV?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>Shen haixiong, vice minister of propaganda and head of CMG, refers to xi as “great helmsman 伟大舵手”<br><br>方舟子: 不就是把当年林副统帅提出的“伟大的导师，伟大的领袖，伟大的统帅，伟大的舵手”的称号改了改嘛。<br><br><img style="" src="https://pbs.twimg.com/media/FHaDNV7VQAAM6mL?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHaDNV8UUAISoYi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHaDNV-VUAM53LV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-25 16:36:20+08:00 推文](https://twitter.com/yangliuxh/status/1474660269221502982)
 
