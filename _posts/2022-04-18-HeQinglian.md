@@ -697,7 +697,7 @@ Re @zwvrhwmjgx @pandatress1 你还有一丁点自尊心吗？<br>为什么不用
 
 ### 171: [2022-04-21 22:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1517151090420051968)
 
-我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。 <a href="https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/opinions/2021/12/19/biden-ukraine-insurgents-russia/</a>
+我一直没公开分享华邮2021 年 12 月 23 日 这篇《拜登政府正在研究如果莫斯科超越他们，如何战斗到最后一个乌克兰人》<br>其中提到：一位知识渊博的官员描述了该计划，其中包括向乌军队提供武器和其他支持以抵抗入侵的俄罗斯军队的方法。灵感从十年阿富汗战争中打败苏军中来。<br><br>zhix: @JianglinLi @dongle_smith @HeQinglian 还会让更多无辜的人去送死😂<br>
 
 ### 172: [2022-04-21 23:05:44+08:00 推文](https://twitter.com/HeQinglian/status/1517157642434662406)
 
