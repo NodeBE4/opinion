@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 1: [2022-07-11 03:55:32+08:00 推文](https://twitter.com/realcaixia/status/1546221602446213125)
 
-这与中国大陆形成鲜明对照。
+这与中国大陆形成鲜明对照。<br><br>Jam: 政府随时被合法颠覆，领导随时卷铺盖走人，这在民主国家是正常的事。越是贪腐严重、政治黑暗的国家，独裁者越是死赖在权力的位子上，用各种各样谎言欺骗百姓。<br><br><img style="" src="https://pbs.twimg.com/media/FXQ-RdxXkAAbahl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-07-13 21:22:03+08:00 推文](https://twitter.com/realcaixia/status/1547209743848165377)
 
@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 3: [2022-07-14 03:39:34+08:00 推文](https://twitter.com/realcaixia/status/1547304749938130944)
 
-纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。
+纪念刘晓波。我作为后来者会继续往前走，宪政民主是中国政治走向现代文明必须实现的首要目标。<br><br>ZHANGDONG: 五年前的今天他走了，在北欧留下了一把空椅和未竟的事业。<br><br><img style="" src="https://pbs.twimg.com/media/FXkHj9VX0AA-gJt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXkHkSPWIAMDhWI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-07-14 09:52:58+08:00 推文](https://twitter.com/realcaixia/status/1547398719150211073)
 
