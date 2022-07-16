@@ -53,6 +53,12 @@ Milky Queen's [announced](https://www.youtube.com/shorts/f4ghd0gZuJY) a Live2D u
 
 Does Hololive bring out its idol outfits in non-concert situations? And what does it matter what context this came up in if they did it anyway? I'm not *accusing* VShojo of doing idol stuff, I'm not fussed either way about that in and of itself. I'm pointing out that Veibae is wrong when she suggests that there's no particular idol dimension to Anglophone VTubers either, especially when her own agency has consciously and deliberately dabbled in it. Lest we forget also that [Ironmouse has a Live2D idol-inspired outfit](https://www.youtube.com/watch?v=KuIx0joluXE).
 
+----- __602.10__ -----2022-07-16 12:24:53+08:00:
+
+> homely
+
+[I would assume by the British and not the North American definition...](https://imgur.com/dwtMzZy)
+
 ### 603: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __603.1__ -----2022-07-13 15:03:38+08:00:

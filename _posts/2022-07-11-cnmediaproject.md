@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-15
+date: 2022-07-16
 from: https://twitter.com/jenniferatntd/status/1546168180388806656
 layout: post
 tags:
@@ -134,4 +134,8 @@ Re @chenchenzh This is a really interesting story.
 ### 30: [2022-07-15 17:34:54+08:00 推文](https://twitter.com/cnmediaproject/status/1547877354122334209)
 
 Re @niubi Oh my. One wonders if the post-80s or post-90s generation will succumb to such madness, or whether it will fade.
+
+### 31: [2022-07-16 06:11:17+08:00 推文](https://twitter.com/henrysgao/status/1548067706733178880)
+
+RT Henry Gao<br>People's Daily is now People's Daily Illustrated.<br><img style="" src="https://pbs.twimg.com/media/FXvXFcDVEAUwVxe?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXvXJQIVEAAfcQX?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
