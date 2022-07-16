@@ -59,6 +59,16 @@ Does Hololive bring out its idol outfits in non-concert situations? And what doe
 
 [I would assume by the British and not the North American definition...](https://imgur.com/dwtMzZy)
 
+----- __602.11__ -----2022-07-17 01:50:47+08:00:
+
+I checked through this once for HoloEN: of 11 (current (big sad)) members, four had been regular users of VTuber avatars on their primary account/persona by the time they debuted in Hololive (>!Ame, IRyS, Bae, Fauna!<), two had some limited use of a VTuber avatar on their primary account/persona (>!Gura, Ina!<), one had a separate VTuber persona on a secondary account (>!Kronii!<), and one had VTuber activities on a separate account from their main, but under the same name (>!Mumei!<); the rest had no prior experience that I know of (>!Calli, Kiara, Sana!<). So that makes eight out of eleven members who would constitute 'former VTubers' in some sense.
+
+I don't know about most of HoloJP/ID, but I did look at a few gens at one point. In ID3, only one (>!Zeta!<) has any known prior VTuber experience. Four of the original five members of JP Gen 5 had some level of VTuber activity pre-Hololive (excepted >!Aloe!<), and *everyone* in HoloX has done some amount of VTuber content in the past.
+
+The story is different for older Holomems, from when VTubing was less established and going from non-VTuber to agency was more common. If I'm not mistaken (which I may be), of Gen 0 through Gen 4 (Gamers included) only five are known to have had prior VTuber experience (Suisei obviously, also >!Korone, Rushia, Luna, Coco!<), out of 28 total.
+
+While I don't know for Nijisanji, for Hololive it's almost certain that nearly all future JP and EN members will have some kind of VTuber experience simply because of how long the format's been around now and the relatively low barrier of entry. So it's kind of a yes and no situation where anyone who was in before 2020 most likely wasn't a VTuber previously, and anyone since 2020 most likely was.
+
 ### 603: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __603.1__ -----2022-07-13 15:03:38+08:00:
