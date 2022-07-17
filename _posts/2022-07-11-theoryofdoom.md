@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-14
+date: 2022-07-16
 from: https://old.reddit.com/r/geopolitics/comments/vvvu7w/the_united_states_should_end_military_aid_to/
 layout: post
 tags:
@@ -36,4 +36,10 @@ Issues concerning a single country's internal affairs are not appropriate for th
 ----- __338.1__ -----2022-07-15 13:19:59+08:00:
 
 u/Worried_Protection48, this is not the place for bringing your drama from other subreddits.  Keep the flaming out of this sub.
+
+### 339: [Barn owl at golden hour !](https://old.reddit.com/r/BirdPhotography/comments/w0csrg/barn_owl_at_golden_hour/), submitted on 2022-07-16 17:35:48+08:00.
+
+----- __339.1__ -----2022-07-17 08:12:05+08:00:
+
+Fantastic shots!
 

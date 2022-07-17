@@ -63,7 +63,7 @@ Does Hololive bring out its idol outfits in non-concert situations? And what doe
 
 I checked through this once for HoloEN: of 11 (current (big sad)) members, four had been regular users of VTuber avatars on their primary account/persona by the time they debuted in Hololive (>!Ame, IRyS, Bae, Fauna!<), two had some limited use of a VTuber avatar on their primary account/persona (>!Gura, Ina!<), one had a separate VTuber persona on a secondary account (>!Kronii!<), and one had VTuber activities on a separate account from their main, but under the same name (>!Mumei!<); the rest had no prior experience that I know of (>!Calli, Kiara, Sana!<). So that makes eight out of eleven members who would constitute 'former VTubers' in some sense.
 
-I don't know about most of HoloJP/ID, but I did look at a few gens at one point. In ID3, only one (>!Zeta!<) has any known prior VTuber experience. Four of the original five members of JP Gen 5 had some level of VTuber activity pre-Hololive (excepted >!Aloe!<), and *everyone* in HoloX has done some amount of VTuber content in the past.
+I don't know about most of HoloJP/ID, but I did look at a few gens at one point. In ID3, only one (>!Zeta!<) has any known prior VTuber experience. But four of the original five members of JP Gen 5 had some level of VTuber activity pre-Hololive (except >!Aloe!<), and *everyone* in HoloX has done some amount of VTuber content in the past.
 
 The story is different for older Holomems, from when VTubing was less established and going from non-VTuber to agency was more common. If I'm not mistaken (which I may be), of Gen 0 through Gen 4 (Gamers included) only five are known to have had prior VTuber experience (Suisei obviously, also >!Korone, Rushia, Luna, Coco!<), out of 28 total.
 
