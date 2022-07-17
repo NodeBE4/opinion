@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-15
+date: 2022-07-17
 from: https://old.reddit.com/r/VirtualYoutubers/comments/vwiydu/flawlessly_fragrant_filipinos_weekly_discussion/
 layout: post
 tags:
@@ -154,4 +154,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 ----- __609.1__ -----2022-07-16 18:28:26+08:00:
 
 Aha, I see I was invoked! When I did my big Tartaria post two years ago (https://www.reddit.com/r/badhistory/comments/ieg2k0/tartaria_the_supposed_megaempire_of_inner_eurasia/), some r/Tartaria users decided to jump in to defend their pet conspiracy theory; it went over about as well as you'd expect.
+
+### 610: [Lui loop](https://old.reddit.com/r/Hololive/comments/w13a89/lui_loop/), submitted on 2022-07-17 17:11:40+08:00.
+
+----- __610.1__ -----2022-07-18 02:09:54+08:00:
+
+It has taken me this long to realise that this BGM gives me strong Angry Birds vibes, and that it is therefore quite apposite for Lui. Anyone up for making an Angry Holobirds fangame where you fight the Haatons?
 
