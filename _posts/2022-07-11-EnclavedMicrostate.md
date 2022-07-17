@@ -69,6 +69,10 @@ The story is different for older Holomems, from when VTubing was less establishe
 
 While I don't know for Nijisanji, for Hololive it's almost certain that nearly all future JP and EN members will have some kind of VTuber experience simply because of how long the format's been around now and the relatively low barrier of entry. So it's kind of a yes and no situation where anyone who was in before 2020 most likely wasn't a VTuber previously, and anyone who has joined since 2020 (or does so in future) most likely was.
 
+----- __602.12__ -----2022-07-17 23:49:22+08:00:
+
+I won't accept it unless the window is broken.
+
 ### 603: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
 ----- __603.1__ -----2022-07-13 15:03:38+08:00:
