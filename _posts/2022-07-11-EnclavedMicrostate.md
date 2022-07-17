@@ -67,7 +67,7 @@ I don't know about most of HoloJP/ID, but I did look at a few gens at one point.
 
 The story is different for older Holomems, from when VTubing was less established and going from non-VTuber to agency was more common. If I'm not mistaken (which I may be), of Gen 0 through Gen 4 (Gamers included) only five are known to have had prior VTuber experience (Suisei obviously, also >!Korone, Rushia, Luna, Coco!<), out of 28 total.
 
-While I don't know for Nijisanji, for Hololive it's almost certain that nearly all future JP and EN members will have some kind of VTuber experience simply because of how long the format's been around now and the relatively low barrier of entry. So it's kind of a yes and no situation where anyone who was in before 2020 most likely wasn't a VTuber previously, and anyone since 2020 most likely was.
+While I don't know for Nijisanji, for Hololive it's almost certain that nearly all future JP and EN members will have some kind of VTuber experience simply because of how long the format's been around now and the relatively low barrier of entry. So it's kind of a yes and no situation where anyone who was in before 2020 most likely wasn't a VTuber previously, and anyone who has joined since 2020 (or does so in future) most likely was.
 
 ### 603: [What is the influence of "Griggs VS Duke Power Co." on how companies shifted their qualification requirements for a job vacancy?](https://old.reddit.com/r/AskHistorians/comments/vxpjt4/what_is_the_influence_of_griggs_vs_duke_power_co/), submitted on 2022-07-13 08:08:43+08:00.
 
