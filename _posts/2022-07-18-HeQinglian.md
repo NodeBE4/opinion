@@ -31,3 +31,19 @@ Re @JianglinLi @zhixiangziyou 昨天早上，门前紫薇上有甲壳虫，抓�
 
 Re @pandatress1 @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 先让非洲吃饱饭，不要UN每年运送粮食，然后再调整人口与资源比例。<br>最后可让BLM整体迁入非洲，回归祖先怀抱。<br>最后美非成一家，统一财政收支。
 
+### 5: [2022-07-18 05:18:02+08:00 推文](https://twitter.com/HeQinglian/status/1548779082070085637)
+
+推荐：拜登外交的三磁困境：<br>第一个构想即世界将迅速陷入“第二次冷战”。根据该设想， 地球正日益分裂为两个不可调和的敌对阵营：民主国家和专制国 家。暗示着美国 应构建一个“遏制”中国的全球联盟。 <a href="https://thehill.com/opinion/international/593558-joe-bidens-three-magnet-problem/" target="_blank" rel="noopener noreferrer">https://thehill.com/opinion/international/593558-joe-bidens-three-magnet-problem/</a>
+
+### 6: [2022-07-18 05:18:56+08:00 推文](https://twitter.com/HeQinglian/status/1548779305584435200)
+
+Re 第二个是源于后冷战单极时代的“自由国际主义至上”构想。它认为美国是唯一一个主导世界的超级大国，其使命是维持和捍 卫自由国际秩序。在此设想下，美国发挥着世界警察的作用，致 力于消除挑战自由民主或“基于规则的秩序”的所有威胁。
+
+### 7: [2022-07-18 05:19:39+08:00 推文](https://twitter.com/HeQinglian/status/1548779487420194818)
+
+Re 第三个构想即“克制”。该构想呼吁美国的大战略首先要着 眼于阻止在欧洲、东北亚或中东地区出现敌对霸权。<br>作者Andrew Latham，国际关系专家。
+
+### 8: [2022-07-18 06:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1548789856028999681)
+
+蒙特茅斯大学投票研究所民调：88%美国人认为美国正走向错误方向，仅10%的人认为方向是正确的，这也是该机构开展相关民意调查以来的最低水平。<br>拜登政府的支持率跌至36%，超过上次的最低点39%，对国会的支持率为15%。尽管如此，在对于由哪个政党执政，公众仍然意见不一。 <a href="https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_070522.pdf/" target="_blank" rel="noopener noreferrer">https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_070522.pdf/</a>
+
