@@ -47,3 +47,23 @@ Re 第三个构想即“克制”。该构想呼吁美国的大战略首先要�
 
 蒙特茅斯大学投票研究所民调：88%美国人认为美国正走向错误方向，仅10%的人认为方向是正确的，这也是该机构开展相关民意调查以来的最低水平。<br>拜登政府的支持率跌至36%，超过上次的最低点39%，对国会的支持率为15%。尽管如此，在对于由哪个政党执政，公众仍然意见不一。 <a href="https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_070522.pdf/" target="_blank" rel="noopener noreferrer">https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_070522.pdf/</a>
 
+### 9: [2022-07-18 08:48:25+08:00 推文](https://twitter.com/HeQinglian/status/1548832024475082753)
+
+Re @Wu_Zhi @JianglinLi 美国内部社会层面与国际社会，实际上是Institutions与NGO控制，话语权特别大。
+
+### 10: [2022-07-18 08:52:00+08:00 推文](https://twitter.com/HeQinglian/status/1548832927559057408)
+
+Re @teleftaia_m 他的话你也当真？
+
+### 11: [2022-07-18 08:54:00+08:00 推文](https://twitter.com/HeQinglian/status/1548833431412510724)
+
+Re @QQzk_prs 愿德国永远制裁下去，等到在月球上找到可替代能源，再恢复绿能计划。
+
+### 12: [2022-07-18 10:20:40+08:00 推文](https://twitter.com/HeQinglian/status/1548855240362950656)
+
+Re @JianglinLi 这位专家的意思是：三种同时并行，三种磁场互相干扰，互相矛盾，最后什么也不成功。
+
+### 13: [2022-07-18 10:31:29+08:00 推文](https://twitter.com/HeQinglian/status/1548857964278288385)
+
+Re @JianglinLi 如果乌克兰人有血性，这类事迟早会揭露出来。比如生化实验室的数量，美国已经承认；只差查清楚这些实验室到底干什么用的。
+
