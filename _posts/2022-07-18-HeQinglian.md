@@ -67,3 +67,19 @@ Re @JianglinLi 这位专家的意思是：三种同时并行，三种磁场互�
 
 Re @JianglinLi 如果乌克兰人有血性，这类事迟早会揭露出来。比如生化实验室的数量，美国已经承认；只差查清楚这些实验室到底干什么用的。
 
+### 14: [2022-07-18 23:27:24+08:00 推文](https://twitter.com/HeQinglian/status/1549053229006471169)
+
+美中角力的新赛场——南太平洋岛国论坛<br><br>太平洋岛国论坛1971年成立，北京于2006年成立“中国—太平洋岛国经济发展合作论坛”，美国一直缺席。现美国外交不顺时对该论坛表示关注，却只能送钱送温暖，论坛各国领导人明言不能迫使他们选边站，他们需要在紧张的地缘政治间保留喘息空间。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/kamala-harris-launches-pacific-push-to-significantly-deepen-us-presence-amid-china-tensions" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/kamala-harris-launches-pacific-push-to-significantly-deepen-us-presence-amid-china-tensions</a>
+
+### 15: [2022-07-18 23:38:10+08:00 推文](https://twitter.com/HeQinglian/status/1549055936861552641)
+
+Re @zhixiangziyou 挺传神的。
+
+### 16: [2022-07-18 23:41:16+08:00 推文](https://twitter.com/HeQinglian/status/1549056720105791488)
+
+Re @zhixiangziyou 越来越脏与不堪入目。这画比骄傲月的真人实况还文明一点，遮了一点羞。
+
+### 17: [2022-07-18 23:46:29+08:00 推文](https://twitter.com/HeQinglian/status/1549058030926446593)
+
+Re @NAConservative9 美国学校中了魔：数学太难，是歧视黑人的课程，取消；物理太难，黑人不高兴学，取消。<br>LGBTQI，尤其是跨性别教育，无微不至。脑子要进水到什么地步，才有这种教育体制？
+
