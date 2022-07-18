@@ -103,3 +103,15 @@ Re @Wu_Zhi @JianglinLi 欧盟国家的猴痘发作了没有？今天刚看到纽
 
 Re @mingshi_chen @JianglinLi 奥巴马第二任期以前是否改造，我还真不清楚。
 
+### 23: [2022-07-19 03:20:26+08:00 推文](https://twitter.com/HeQinglian/status/1549111874452594689)
+
+Re @pandatress1 @xuezhou_yang @JianglinLi 你还是去查查资料吧。<br>至于胖大妈多，那是饮食结构。年轻时不少也是美女。
+
+### 24: [2022-07-19 03:22:04+08:00 推文](https://twitter.com/HeQinglian/status/1549112285758717953)
+
+Re @Meitiaowushi 共18个国家，包括新西兰也声明不选边，作为该论坛实际的领导者，在这方面得保持一致。单边交往时，肯定会选边站。
+
+### 25: [2022-07-19 03:24:36+08:00 推文](https://twitter.com/HeQinglian/status/1549112923439644677)
+
+Re @KELMAND1 作者的意思很明显：一段时期只能有一个外交重心。<br>当年冷战时，美国联中抗苏，才算赢了这场冷战，进入单极世界领导国际社会。<br>就算是美国，国力也有极限。
+
