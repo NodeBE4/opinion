@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-07-18
+date: 2022-07-19
 from: https://twitter.com/nathanlawkc/status/1548970801982054400
 layout: post
 tags:
@@ -20,4 +20,8 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 ### 1: [2022-07-18 17:59:52+08:00 推文](https://twitter.com/nathanlawkc/status/1548970801982054400)
 
 A friend saw #Freedom in a New York bookstore.<br>It’s been a few months since its publication — feedbacks have been great, and I'm so grateful readers learned more about Hong Kong and the values of democracy.<br>It’s an entry book to Hong Kong movement and activism. Hope you enjoy it<br><img style="" src="https://pbs.twimg.com/media/FX8MfHZWAAAosQK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 2: [2022-07-19 05:52:32+08:00 推文](https://twitter.com/nathanlawkc/status/1549150152669241344)
+
+Dictators form alliance and aid each other. <br><br>Chinese exports to Russia of microchips and other electronic components and raw materials, some with military applications, have increased since Moscow’s invasion of Ukraine <a href="https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403?st=lo8d5qo3szqmbh0" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403?st=lo8d5qo3szqmbh0</a>
 
