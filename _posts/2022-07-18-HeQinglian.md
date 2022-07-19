@@ -191,3 +191,23 @@ Re @JianglinLi @Wu_Zhi @RealBeiMing @ngexp @david_david1968 尼克松，1969 - 1
 
 Re @JianglinLi 这个我MARK了，需要仔细看。
 
+### 45: [2022-07-20 04:55:27+08:00 推文](https://twitter.com/HeQinglian/status/1549498175127539712)
+
+Re @david_david1968 美国现在对台湾是两种政治操作齐上：<br>对华外交，不支持台独、不寻求改变台海现状——布林肯7月9日向王普毅承诺的“六不”（比拜登3月“四不”多“两不”；<br>对台关系，退任高官、国会议员及各种智库高阶人士不断赴台，给台湾信心的同时给北京压力。
+
+### 46: [2022-07-20 05:02:00+08:00 推文](https://twitter.com/HeQinglian/status/1549499822503350274)
+
+Re @david_david1968 他一谈就是文艺复兴以来，可能不知道民主党在美国进行了20余年终于在2020年完成的颜色革命的内容是什么。<br>研究历史的人，总以为现实还是历史。
+
+### 47: [2022-07-20 05:47:56+08:00 推文](https://twitter.com/HeQinglian/status/1549511381875138560)
+
+美财长呼吁盟友实行“友岸-外包”重塑供应链 <br>耶伦称独裁国家凭借地缘政治力量在原材料和技术方面施加经济压力，希望韩美就供应链、原材料及其他风险因素讨论双边合作方案，对俄油价设上限。<br>疑问：价格由供求关系决定，只有计划经济体制下由政府规定。拜托美国先管住本国油价。 <a href="https://rfi.my/8avR.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8avR.T</a>
+
+### 48: [2022-07-20 05:57:07+08:00 推文](https://twitter.com/HeQinglian/status/1549513691896451074)
+
+Re @franktianxie 这是件大事，有后续请继续提供。
+
+### 49: [2022-07-20 06:27:48+08:00 推文](https://twitter.com/HeQinglian/status/1549521415971512321)
+
+Re @JianglinLi 1975年，福特任总统——这人会做出这种决策。
+
