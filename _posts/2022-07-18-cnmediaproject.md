@@ -35,3 +35,7 @@ Re Our latest in a series of reports on internet controls. See our analysis last
 
 Re And our look at how "digital literacy" is routinely hijacked in China to serve the immediate political goals of the CCP over real concerns about the safety of youth and others online. <a href="https://chinamediaproject.org/2022/07/13/hijacking-digital-literacy/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/13/hijacking-digital-literacy/</a><br><img style="" src="https://pbs.twimg.com/media/FYAg1bcakAAPHho?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-07-19 23:35:47+08:00 推文](https://twitter.com/Yaqiu/status/1549417725625536513)
+
+RT Yaqiu Wang 王亚秋<br>The ever-increasingly toxic nationalism in China is driving people to suicide: Chinese journalist Zeng Ying attempted to take her own life after she was brutally trolled by Chinese netizens for sobbing while reporting live on Shinzo Abe's assassination. <a href="https://www.163.com/dy/article/HCLG0LC90553A9YH.html" target="_blank" rel="noopener noreferrer">https://www.163.com/dy/article/HCLG0LC90553A9YH.html</a><br><img style="" src="https://pbs.twimg.com/media/FYCjG6eacAEYZCh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

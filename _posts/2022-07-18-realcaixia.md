@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-07-19
+date: 2022-07-20
 from: https://twitter.com/realcaixia/status/1548843710527508481
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -46,4 +46,20 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
 他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
+
+### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
+
+推荐江峰老师的评论节目：<br>江峰老师观察分析问题有自己独特的角度。正因为角度独特，他能见别人所未见。下面这段评论很精彩：<br><video src="https://video.twimg.com/ext_tw_video/1549417661251162113/pu/vid/902x720/CLjArUBC0L-u6I8O.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549417661251162113/pu/img/nAEKzIzgFZZyOkG7.jpg"></video>
+
+### 10: [2022-07-19 23:40:14+08:00 推文](https://twitter.com/realcaixia/status/1549418847077277698)
+
+Re <br><video src="https://video.twimg.com/ext_tw_video/1549418664331460610/pu/vid/1078x666/YRlRFm3PDKSjkPQ_.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549418664331460610/pu/img/OZWe1K2bTbNAEhkV.jpg"></video>
+
+### 11: [2022-07-20 00:11:36+08:00 推文](https://twitter.com/realcaixia/status/1549426740623187975)
+
+王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力
+
+### 12: [2022-07-20 00:18:32+08:00 推文](https://twitter.com/realcaixia/status/1549428485936058368)
+
+Re 这是江峰老师这期评论的完整视频。特别推荐：<br><br>二十大真没戏了？邀欧洲领袖来朝壮行色；外媒赞习近平为新疆指明方向？揭《参考消息》谎言，外媒评论竟直指习阴谋；知了打油诗伤了谁？【江峰漫談2022... <a href="https://youtu.be/-XVOjnwd3N8" target="_blank" rel="noopener noreferrer">https://youtu.be/-XVOjnwd3N8</a>
 
