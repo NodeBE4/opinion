@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
+转发，BBC近几年以来，这算做了件正经事。
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 
@@ -145,7 +145,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 33: [2022-06-22 01:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1539296267167272963)
 
-美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力 <a href="https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report" target="_blank" rel="noopener noreferrer">https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report</a>
+美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力<br><br>He Qinglian: 关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br> <a href="https://twitter.com/realTaoRay/status/1539266023509008385" target="_blank" rel="noopener noreferrer">https://twitter.com/realTaoRay/status/1539266023509008385</a>
 
 ### 34: [2022-06-22 03:14:41+08:00 推文](https://twitter.com/HeQinglian/status/1539325952647483392)
 
