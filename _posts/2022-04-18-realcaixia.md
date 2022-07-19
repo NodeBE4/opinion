@@ -109,7 +109,7 @@ Re @yangjianli001 哈哈！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
-💔😭
+💔😭<br><br>变态辣椒RebelPepper: 上海一保姆講述她照顧的一位老太太因為封城隔離無法及時照顧，被活活餓死，老太太死之前保姆最後一次有機會去看她的時候已經餓到在吃屎<br><br><video src="https://video.twimg.com/ext_tw_video/1516146424903258125/pu/vid/540x952/YX2YY61UDRAdheMV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516146424903258125/pu/img/D2eJR8-ro5daj1ha.jpg"></video>
 
 ### 25: [2022-04-20 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1516500100159258631)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。
+大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 
@@ -161,7 +161,7 @@ Re @henry50383806 @lianchaohan 一直挖下去！让真相大白于天下！
 
 ### 37: [2022-04-22 22:58:07+08:00 推文](https://twitter.com/realcaixia/status/1517518115160080386)
 
-比较同意这个推友的看法。
+比较同意这个推友的看法。<br><br>Henry Chang: 莫把中共神秘化。中共就是当代的八旗兵，是泛官僚体系、准军事组织<br>共产党员早已没有一丁点理想，有的只是通过加入这个自利型集团谋取私利的贪婪。<br>但是，不同阶层的党员的政治倾向是不同的。<br>权贵、上层是顽固分子，局级是易动摇可争取的阶层，处级以下则与普罗大众无异，是随时被踩在脚底下口香糖。<br>
 
 ### 38: [2022-04-23 00:44:52+08:00 推文](https://twitter.com/realcaixia/status/1517544978972614657)
 
@@ -197,7 +197,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
-普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。<br><br>💙NiKITa💛🇺🇦🇪🇺: 今日普丁，👀腿<br><br><video src="https://video.twimg.com/ext_tw_video/1517900449483005954/pu/vid/624x352/OO3ARYTE93ktNC5L.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517900449483005954/pu/img/RfL1S1xH_OMPQrdM.jpg"></video>
+普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。
 
 ### 47: [2022-04-24 22:29:10+08:00 推文](https://twitter.com/realcaixia/status/1518235606777704449)
 

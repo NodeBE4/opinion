@@ -209,7 +209,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
-跟推传发。<br><br>ZHANGDONG: 承蒙一夜廬先生特许，本推连载其新作《疫情新三吏三别》，至此六首诗作全部推出。先生常以古诗词形式针砭时弊，深得读者共鸣，在国内网络广为流传。<br>
+跟推传发。
 
 ### 50: [2022-05-13 22:18:10+08:00 推文](https://twitter.com/realcaixia/status/1525118207941484544)
 
@@ -229,11 +229,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
+特别推荐。
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
@@ -249,5 +249,5 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
+英雄出狱。
 

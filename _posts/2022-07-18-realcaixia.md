@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
