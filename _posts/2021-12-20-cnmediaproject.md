@@ -25,7 +25,7 @@ Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the #
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
-Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style="" src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-20 13:19:50+08:00 推文](https://twitter.com/xinwenfan/status/1472798876956434437)
 
@@ -57,7 +57,7 @@ Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims 
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
-RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Muyi Xiao<br>Re We translated several key service items and their requirements, then offered analysis and more context. For example, this one suggests that they understand the risk of bots getting suspended and want some fake accounts to look more organic and gain meaningful engagement.<br><img style="" src="https://pbs.twimg.com/media/FHDwcUPXwAMf1o8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-21 08:01:12+08:00 推文](https://twitter.com/lingli_vienna/status/1473081080228028417)
 
