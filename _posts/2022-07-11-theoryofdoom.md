@@ -37,9 +37,25 @@ Issues concerning a single country's internal affairs are not appropriate for th
 
 u/Worried_Protection48, this is not the place for bringing your drama from other subreddits.  Keep the flaming out of this sub.
 
-### 339: [Barn owl at golden hour !](https://old.reddit.com/r/BirdPhotography/comments/w0csrg/barn_owl_at_golden_hour/), submitted on 2022-07-16 17:35:48+08:00.
+### 339: [Gov. J.B. Pritzker’s administration on Wednesday announced some eliminations of vaccine requirements](https://old.reddit.com/r/CoronavirusIllinois/comments/vzpn74/gov_jb_pritzkers_administration_on_wednesday/), submitted on 2022-07-15 22:09:30+08:00.
 
------ __339.1__ -----2022-07-17 08:12:05+08:00:
+----- __339.1__ -----2022-07-19 19:15:46+08:00:
+
+> Either he knew it was safe(r) in Florida or he knowingly put his family in grave danger.
+
+Pritzker isn't a public health expert, knows nothing about epidemiological forecasting or any kind of statistical/mathematical modeling.  It's just not in his wheelhouse to know.  Frankly it would be unreasonable for me to expect him to know that.
+
+But he relied on people who didn't know either, and JB toed the party line the entire way through.  That's the issue.
+
+----- __339.2__ -----2022-07-19 19:20:37+08:00:
+
+> I would love to see Pritzker try to run nationally on his COVID track record. 
+
+Many people in this state and here in this subreddit believe JB did a great job, based on his "following the science." As I am sure everyone knows by now, I disagree with essentially every decision JB made from March 2020 forward.  But I remain amazed at how the early messaging on these so called "public health" measures remains the effective baseline for most people.  Empirical evidence to the contrary be damned.
+
+### 340: [Barn owl at golden hour !](https://old.reddit.com/r/BirdPhotography/comments/w0csrg/barn_owl_at_golden_hour/), submitted on 2022-07-16 17:35:48+08:00.
+
+----- __340.1__ -----2022-07-17 08:12:05+08:00:
 
 Fantastic shots!
 
