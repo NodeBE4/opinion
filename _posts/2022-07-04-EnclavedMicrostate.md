@@ -179,3 +179,10 @@ I mean, I never said I approved of the rest of the setting either... *looking* *
 
 Sounds like something a ghost would say.
 
+----- __601.8__ -----2022-07-19 09:30:12+08:00:
+
+> EDIT: Omega's back!
+>  I'm SURE people on Twitter and Reddit are gonna have a normal one about this (they won't). Also where's the milk?
+
+I won't lie... I have always found it amusing that Hololive, perhaps inadvertently, created its own VTweeter.
+

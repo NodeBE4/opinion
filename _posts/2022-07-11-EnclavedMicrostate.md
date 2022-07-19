@@ -161,3 +161,31 @@ Aha, I see I was invoked! When I did my big Tartaria post two years ago (https:/
 
 It has taken me this long to realise that this BGM gives me strong Angry Birds vibes, and that it is therefore quite apposite for Lui. Anyone up for making an Angry Holobirds fangame where you fight the Haatons?
 
+### 611: [[Hobby Scuffles] Week of July 18, 2022](https://old.reddit.com/r/HobbyDrama/comments/w19bk4/hobby_scuffles_week_of_july_18_2022/), submitted on 2022-07-17 23:00:13+08:00.
+
+----- __611.1__ -----2022-07-19 09:36:20+08:00:
+
+> overseas fans being banned from viewing the livestream
+
+Ah, is this because the platform doesn't support overseas viewing? I recall at least two (and not implausibly more) Hololive solo concerts that had the same restriction.
+
+----- __611.2__ -----2022-07-19 09:45:13+08:00:
+
+Yep. For instance Hololive's official store ships to my region (HK) but licensing restrictions mean Hololive Nendoroids don't, and I had to VPN into their last concert for some reason.
+
+----- __611.3__ -----2022-07-19 09:53:52+08:00:
+
+If I'm not mistaken, the postponed concert was not viewable overseas. That was definitely true of Nene's recent Nissin-sponsored concert as well; she even asked about what she could do for overseas fans to make up for it.
+
+----- __611.4__ -----2022-07-19 10:06:29+08:00:
+
+...Actually I think the Goodsmile licensing restriction might have gone now as it's not an issue for newer Pop-Up Parade ones, but at least back when I was getting a Nendo in January (which is before the official store expanded its shipping net) I did so through a friend in the US who was also getting one (thankfully there was a preorder limit of 2). As for the concert though it legitimately might just be SPWN randomly not allowing access from HK as I did a bit of experimenting and found that almost every other country was fine for it. As noted in another comment though, while Hololive's own concerts are *mostly* internationally accessible, there have been a couple of collab sponsored ones that are JP-only.
+
+----- __611.5__ -----2022-07-19 10:19:41+08:00:
+
+Bit of a sidetrack, but what's an absence copy?
+
+----- __611.6__ -----2022-07-19 11:00:48+08:00:
+
+Ah, no worries then.
+
