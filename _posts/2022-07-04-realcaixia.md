@@ -85,7 +85,7 @@ Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，�
 
 ### 18: [2022-07-09 21:09:39+08:00 推文](https://twitter.com/realcaixia/status/1545757071169167361)
 
-科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。
+科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。<br><br>鲁  难: 数据技术的进步不仅没有使中国人获得自由，反而陷入更加严酷的禁锢之中。<br> <a href="https://twitter.com/rfa_chinese/status/1545432275004833792" target="_blank" rel="noopener noreferrer">https://twitter.com/rfa_chinese/status/1545432275004833792</a>
 
 ### 19: [2022-07-09 21:19:49+08:00 推文](https://twitter.com/realcaixia/status/1545759631246598147)
 
