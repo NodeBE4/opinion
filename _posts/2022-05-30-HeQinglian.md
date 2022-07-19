@@ -241,5 +241,5 @@ Re @xiaxiaoqiang 以前电影、电视剧看得少，近几年的不好看。本
 
 ### 57: [2022-06-05 20:43:17+08:00 推文](https://twitter.com/HeQinglian/status/1533429248261771264)
 
-这几天上推少，居然遗漏了这条重要消息。 <a href="https://twitter.com/JiangShangrong/status/1533321188046405635" target="_blank" rel="noopener noreferrer">https://twitter.com/JiangShangrong/status/1533321188046405635</a>
+这几天上推少，居然遗漏了这条重要消息。<br><br>jiang shangrong: ‼️🇺🇸🇺🇦“拜登说,作为‘协商解决’一部分,乌可能不得不将领土交给俄”—纽约邮报<br><br>“拜登下属此前表示,乌正放弃土地以安抚普京”纽约邮报说<br><br>评:不是言之凿凿要肢解俄,让普京下台,作战犯审判吗?咋“安抚”普京了?主动割地求和了?可惜，现在的局势，什么时候停，怎么停，可不是你说了算了<br><br><img style="" src="https://pbs.twimg.com/media/FUdzfd6X0AE2Orp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://t.me/JShangrong" target="_blank" rel="noopener noreferrer">http://t.me/JShangrong</a>
 
