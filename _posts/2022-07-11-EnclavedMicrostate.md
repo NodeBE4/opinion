@@ -189,3 +189,7 @@ Bit of a sidetrack, but what's an absence copy?
 
 Ah, no worries then.
 
+----- __611.7__ -----2022-07-19 22:47:24+08:00:
+
+Not specified yet, although the Japanese dub doesn't release for another month.
+
