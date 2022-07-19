@@ -43,3 +43,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FX_Z5tRWAAEKV8J?format=jpg
 
 Re 中共党政官员中包括国企央企高管，所有党员干部都有行政级别，有副部级央企、局级国企。央企高管人员与党和政府系统的当官通道是互通互联的。请看李鹏儿子李小鹏曾经是央企高管，后来当省长；现今新疆党委书记马兴瑞曾经是航天央企领导。同样，组织部纪检委干部到政府和国企央企当官是常态。
 
+### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
+
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
+
