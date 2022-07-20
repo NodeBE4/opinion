@@ -65,7 +65,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -373,7 +373,7 @@ Re @mayuki753 @NAConservative9 对。还有一点未兑现：说了给黑人奴�
 
 ### 90: [2022-07-14 08:07:07+08:00 推文](https://twitter.com/HeQinglian/status/1547372081888874497)
 
-左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。<br><br>He Qinglian: @NAConservative9 平心而论，那位黑人说拜登骗了他，我觉得没有。<br>除了免除学生贷款，拜登实现了大部分竞选承诺：让8岁小孩自主变性、实施绿色能源政策（关闭页岩油开采）、提高LGBTQI权利、开放边境欢迎移民、增加对底层的福利、花钱搞基建、增加某收入线上的人的税收<br>当然他没说要通胀。但上述措施都要花钱，势必通胀<br>
+左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。
 
 ### 91: [2022-07-14 08:08:38+08:00 推文](https://twitter.com/HeQinglian/status/1547372461217484800)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 @ngexp 这倒不是。2017�
 
 ### 123: [2022-07-15 01:28:31+08:00 推文](https://twitter.com/HeQinglian/status/1547634157076918275)
 
-斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
+RT He Qinglian<br>斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
 
 ### 124: [2022-07-15 03:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1547671274280742914)
 
@@ -601,7 +601,7 @@ Re @JianglinLi @RealBeiMing @Wu_Zhi @david_david1968 @ngexp 在瑞典沦为强�
 
 ### 147: [2022-07-16 10:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1548129452034363395)
 
-这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。<br><br>龚小夏 Sasha Gong: 拜登政府两位高级官员在法国大使官邸参加法国国庆活动。左面为拜登任命的四星将军Rachel Levin （生来是男性，现为女性），右面为拜登能源部负责处理核废料的副部长Sam Britton （生为男性，现在还自认是男性，但爱着女装、涂口红）。<br><br><img style="" src="https://pbs.twimg.com/media/FXvKcRdVQAELBe_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是美国将向全世界推广的新人权。不信去美国政府网站上看，华拜粉如果不承认，我将那政府通告贴他们眼睛上。
 
 ### 148: [2022-07-16 12:07:35+08:00 推文](https://twitter.com/cskun1989/status/1548157370458525697)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 

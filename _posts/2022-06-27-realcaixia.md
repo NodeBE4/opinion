@@ -121,7 +121,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 27: [2022-06-30 23:57:04+08:00 推文](https://twitter.com/realcaixia/status/1542537711881519105)
 
-看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！
+看到这个推文所述老人的屈辱遭遇，简直令人无法平静平和。中共打手就是撒旦恶魔在中共一党极权统治制度下疯狂残害中国人！一党专政不灭，天理难容！<br><br>李承诺: 丹东93岁的大爷去开出门条。居委会说没病不开。大爷只好脱下长裤证明患了疝气。居委会报警说他耍流氓，警察就铐走老头。回来时脸上有伤，家属要看执法记录仪，警察说没有。老头一气之吊死了。<br>警察有必要把93岁路都走不动的老头铐走吗。<br>同一天，举国人民为国家摘掉星号欢呼，活像一群右派欢呼摘掉帽子<br><br><img style="" src="https://pbs.twimg.com/media/FWfaOvSagAAsNjI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2022-07-01 00:04:58+08:00 推文](https://twitter.com/realcaixia/status/1542539699667062788)
 
@@ -173,7 +173,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
-在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。<br><br>Vicky Huang: @ZhaoMingObserve @Littlerize 看看當時影片 跟現在樣板完全不同<br> <a href="https://youtu.be/kxRYIrwnU_c" target="_blank" rel="noopener noreferrer">https://youtu.be/kxRYIrwnU_c</a>
+在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
