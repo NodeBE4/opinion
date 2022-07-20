@@ -279,3 +279,7 @@ Re @zhixiangziyou @JianglinLi 这对我们这是常事了。每天云图显示�
 
 Re @jiongnasen 她的选区是纽约州第14选区，其中，纽约皇后区，以族裔多元化著称，拉丁裔占一半左右；布朗克斯区是贫穷且犯罪率高发、居民吸毒非常普遍。她是民主社会主义者（Democratic-Socialist）。<br>什么人就会选什么人。如今连履历都稍作修改了。
 
+### 67: [2022-07-21 04:25:14+08:00 推文](https://twitter.com/HeQinglian/status/1549852957377691648)
+
+7月14日经济学人发表《欧洲的不满之冬》，谈到能源危机正迅速恶化，这个冬天注定变得残酷且具有分裂性。过去十年发生的危机如2010年代初的欧元危机和2015年的移民危机几乎将欧洲击垮，2022年的冬季能源冲击可能也会加入其中。<br>大多数欧洲政客未能向公众坦诚未来面临的艰难选择 <a href="https://www.economist.com/leaders/2022/07/14/europes-winter-of-discontent" target="_blank" rel="noopener noreferrer">https://www.economist.com/leaders/2022/07/14/europes-winter-of-discontent</a>
+
