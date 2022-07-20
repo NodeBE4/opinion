@@ -47,3 +47,7 @@ Interesting piece by Oiwan Law about how the cloud-based Chinese platform WPS Of
 
 Re On censorship triggered as soon as files are uploaded from local to cloud server: "If users cannot co-edit a document with their colleagues and are required to download the document to their own machine after editing, there is no point in having a cloud drive."
 
+### 9: [2022-07-20 12:20:28+08:00 推文](https://twitter.com/cnmediaproject/status/1549610167611797504)
+
+Re Correction: Oiwan Lam. Sorry, @oiwan
+

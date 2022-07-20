@@ -41,3 +41,9 @@ I used to work in biotech.  Now, I'm biotech adjacent and I trade futures and ot
 
 I see the day has not come that folks realize the "report" button is neither an "I disagree!" button or a super-downvote.
 
+----- __343.2__ -----2022-07-20 12:19:23+08:00:
+
+> He's been on the front line fighting disease for decades. 
+
+What *exactly* do you think Fauci has done "for decades"?
+
