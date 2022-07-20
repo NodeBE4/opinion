@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -282,4 +282,12 @@ Re @jiongnasen 她的选区是纽约州第14选区，其中，纽约皇后区，
 ### 67: [2022-07-21 04:25:14+08:00 推文](https://twitter.com/HeQinglian/status/1549852957377691648)
 
 7月14日经济学人发表《欧洲的不满之冬》，谈到能源危机正迅速恶化，这个冬天注定变得残酷且具有分裂性。过去十年发生的危机如2010年代初的欧元危机和2015年的移民危机几乎将欧洲击垮，2022年的冬季能源冲击可能也会加入其中。<br>大多数欧洲政客未能向公众坦诚未来面临的艰难选择 <a href="https://www.economist.com/leaders/2022/07/14/europes-winter-of-discontent" target="_blank" rel="noopener noreferrer">https://www.economist.com/leaders/2022/07/14/europes-winter-of-discontent</a>
+
+### 68: [2022-07-21 05:27:00+08:00 推文](https://twitter.com/HeQinglian/status/1549868502487547906)
+
+拜登中东之行无果，回来后发言不是谈自己因石油工业致癌（白宫发言人纠正说是早先得过的皮肤癌），就是谈气候变化，不再谈支持乌克兰增加援助。<br>DW与FRI，这类新闻也淡出，似乎泽连斯基不再是美欧关注中心。<br>不知我看漏什么了？
+
+### 69: [2022-07-21 05:30:31+08:00 推文](https://twitter.com/HeQinglian/status/1549869386315571200)
+
+Re @Tianshuihanyan 因为两位都做过本质相同的事情：利兹·切尼是RINO，关键时刻为民主党服务；彭斯一直扮演川普的忠犬，关键时刻抛弃了川普——我指的是他做程序之外的事情，包括谴责1.6参加者。
 
