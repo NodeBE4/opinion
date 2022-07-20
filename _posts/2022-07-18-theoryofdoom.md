@@ -35,3 +35,9 @@ I used to work in biotech.  Now, I'm biotech adjacent and I trade futures and ot
 
 I used to work in biotech.  Now, I'm biotech adjacent and I trade futures and other derivatives (read: play with fire) as a hobby.
 
+### 343: [Fauci plans to retire by end of U.S. President Biden's Term](https://old.reddit.com/r/CoronavirusIllinois/comments/w2q57k/fauci_plans_to_retire_by_end_of_us_president/), submitted on 2022-07-19 19:12:07+08:00.
+
+----- __343.1__ -----2022-07-20 09:22:35+08:00:
+
+I see the day has not come that folks realize the "report" button is neither an "I disagree!" button or a super-downvote.
+

@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-07-18
+date: 2022-07-20
 from: https://twitter.com/SpeechFreedomCN/status/1548836275800637440
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:05:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1548836275800637440)
 
-这就叫幸存者偏差。<br>其实从数量来看，被喝茶甚至判刑的“小人物”比知名访民或异议人士多多了，但那些知名人士在被消失前有自己的渠道和影响力告知外界，而普通小民只能默默的消失，外界根本没有机会注意到，所以造成了一种只有知名人物才会被喝茶的假象。
+这就叫幸存者偏差。<br>其实从数量来看，被喝茶甚至判刑的“小人物”比知名访民或异议人士多多了，但那些知名人士在被消失前有自己的渠道和影响力告知外界，而普通小民只能默默的消失，外界根本没有机会注意到，所以造成了一种只有知名人物才会被喝茶的假象。<br><br>章工: 普通翻墙键政小民，有必要那么怕喝茶？过度焦虑了。 实际上翻墙的人大把，墙内娱乐明星普遍有Instagram或twitter，没听说被抓。袁腾飞、徐晓冬这些身处匪京常更新youtube，也没喝茶过，普通小民人家晶哥抓你图什么？ 抓也是抓编程随想这种级别的好吗？人家晶哥看得上你吗？你当你是谁？<br>
 
 ### 2: [2022-07-18 09:54:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1548848529136926725)
 
@@ -34,4 +34,12 @@ As early as 2 years ago, a Henan man surnamed Zhu was detained by police for spr
 ### 5: [2022-07-18 12:13:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1548883509636280321)
 
 Happened in May 2017. A man surnamed Li was detained for 5 days by police for "slandering the government and Party committee of the town" on Weibo. Police stated in the report that the cause was that authority failed to solve the case of his cousin's accidental death.<br><img style="" src="https://pbs.twimg.com/media/FX5qdk4XwAMDo4q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-07-20 10:33:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1549583316965380098)
+
+清华大学两名学生（姓名均不详）因在公共场合一张桌子上放置了10面彩虹旗，受到校方警告处分和严重警告处分，理由为擅自散发宣传品和在网络上辱骂他人。<br><img style="" src="https://pbs.twimg.com/media/FYE5C4bX0AAyWhT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYE5H6iXkAA-xLI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYE5JYNWIAIzbB9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-07-20 10:36:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1549584024112435201)
+
+Two students at @Tsinghua_Uni officially warned by the University for placing pride flags on a desk.<br><img style="" src="https://pbs.twimg.com/media/FYE56e4XoAAoeC1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYE58HwXwAIdiKP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYE5-LwXEAAeWa2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
