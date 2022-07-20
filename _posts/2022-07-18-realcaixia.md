@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-07-20
+date: 2022-07-21
 from: https://twitter.com/realcaixia/status/1548843710527508481
 layout: post
 tags:
@@ -78,4 +78,20 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 ### 16: [2022-07-20 20:34:35+08:00 推文](https://twitter.com/realcaixia/status/1549734512472608768)
 
 特别推荐：王剑老师对两个问题的分析：1，透析习邀欧洲四国领导人11月访华，南华早报与外交部赵立坚的不同调；<br>2，国内停贷风潮蔓延全国下的江西法院判决透露了什么？<br><br>欧洲领袖给习近平连任捧场?/王剑每日观察/20220719 <a href="https://youtu.be/4TNhB-lchWw" target="_blank" rel="noopener noreferrer">https://youtu.be/4TNhB-lchWw</a>
+
+### 17: [2022-07-21 00:25:41+08:00 推文](https://twitter.com/realcaixia/status/1549792672059121672)
+
+在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。<br><br>反对独裁专治政权: 中共国的法盲警察<br><br><video src="https://video.twimg.com/ext_tw_video/1549115735837798400/pu/vid/636x360/SADqJ1LyhnRFx2da.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549115735837798400/pu/img/id03pZkPaj2iEbsE.jpg"></video>
+
+### 18: [2022-07-21 00:44:19+08:00 推文](https://twitter.com/realcaixia/status/1549797359642710016)
+
+特别推荐：#议报发布王维洛:文章：习近平两过北江洪水灾区而不（敢）入 <br><br>今天是河南郑州7.20洪水灾难一周年，去年的今天郑州有许多人枉死在郑州市京广路隧道和郑州地铁车厢里，许多人枉死在灭顶洪水冲垮房子、淹没路面的那短短几分钟里。在大陆，人祸是许多天灾的根源。 <a href="https://yibaochina.com/?p=247242" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247242</a>
+
+### 19: [2022-07-21 00:50:10+08:00 推文](https://twitter.com/realcaixia/status/1549798831885357058)
+
+今天是郑州7.20水灾一周年，至今官方还没有全部公开水灾真相。特推荐王维洛先生的系列文章之十，以哀悼郑州水灾亡灵。<br><br>王维洛：郑州水灾真相难以掩盖（十） - 议报 <a href="https://yibaochina.com/?p=246873" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246873</a>
+
+### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
+
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>hanbugerger: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
