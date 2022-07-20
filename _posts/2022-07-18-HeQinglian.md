@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-20
+date: 2022-07-21
 from: https://twitter.com/HeQinglian/status/1548756798932393985
 layout: post
 tags:
@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -274,4 +274,8 @@ Re @JianglinLi 刚才看了预报，晚间最低是77度。
 ### 65: [2022-07-20 23:27:31+08:00 推文](https://twitter.com/HeQinglian/status/1549778035649429504)
 
 Re @zhixiangziyou @JianglinLi 这对我们这是常事了。每天云图显示我们这正在下雨，但阳光灿烂且灼人。
+
+### 66: [2022-07-21 00:55:06+08:00 推文](https://twitter.com/HeQinglian/status/1549800076431835137)
+
+Re @jiongnasen 她的选区是纽约州第14选区，其中，纽约皇后区，以族裔多元化著称，拉丁裔占一半左右；布朗克斯区是贫穷且犯罪率高发、居民吸毒非常普遍。她是民主社会主义者（Democratic-Socialist）。<br>什么人就会选什么人。如今连履历都稍作修改了。
 
