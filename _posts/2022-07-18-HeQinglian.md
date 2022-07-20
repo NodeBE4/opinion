@@ -219,3 +219,59 @@ Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp @RealBeiMing 如果成功，信�
 
 Re @shenliangqing2 中文世界80%以上是这种，尤其是反共阵线。<br>英文世界的左派现以也热衷于这套，帽子是种族主义、恐同、厌女、肤色歧视。
 
+### 52: [2022-07-20 21:14:50+08:00 推文](https://twitter.com/HeQinglian/status/1549744643755106307)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 你研究犹太教，我是外行，这太专门了。<br>但是，我知道这是美国从Melting Pot（大熔炉）变成Salad Bowl（色拉盆）的必然。一个国家的主流价值观被抛弃，最后各种移民文化平行，结果必是如此。
+
+### 53: [2022-07-20 21:22:26+08:00 推文](https://twitter.com/HeQinglian/status/1549746557376937984)
+
+Re @shenliangqing2 这位推友属于“华盛顿准备好让乌克兰战斗至最后一人”的队列。<br>有个梗，在你出狱之前。<br>Washington Will Fight Russia to the Last Ukrainian <a href="https://www.cato.org/commentary/washington-will-fight-russia-last-ukrainian" target="_blank" rel="noopener noreferrer">https://www.cato.org/commentary/washington-will-fight-russia-last-ukrainian</a>
+
+### 54: [2022-07-20 21:24:23+08:00 推文](https://twitter.com/HeQinglian/status/1549747046382538752)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 左派掌握了政权，有了资源分配权之后，就敢了。<br>听说德国天主教会接受了整套LGBTQ理论，应该很快会加进I这个类别。
+
+### 55: [2022-07-20 21:26:55+08:00 推文](https://twitter.com/HeQinglian/status/1549747683123929089)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 相比于捍卫进步生活方式，使用煤气是小事。冻死事小，失节事大。
+
+### 56: [2022-07-20 21:29:25+08:00 推文](https://twitter.com/HeQinglian/status/1549748311766212608)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @ngexp 你们那欧盟主席冯德莱恩女士目前还是一路小跑跟着拜登走。
+
+### 57: [2022-07-20 21:30:29+08:00 推文](https://twitter.com/HeQinglian/status/1549748583498407936)
+
+Re @david_david1968 一听话术，就知道是大陆底层冒充台湾人。
+
+### 58: [2022-07-20 21:35:32+08:00 推文](https://twitter.com/HeQinglian/status/1549749852199960578)
+
+Re @FranzMendelsso1 @Wu_Zhi @JianglinLi @david_david1968 @ngexp 人类特点，喜欢听漂亮异性说话——美国左派流行的审丑政治正确除外。
+
+### 59: [2022-07-20 21:40:48+08:00 推文](https://twitter.com/HeQinglian/status/1549751176220008448)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @ngexp 咱说点更大更正经的事儿。我将德国这几个月的路径总结一下，竟然是这样：<br>美欧制裁时：德国同意加入，只是要点时间；<br>俄罗斯要求用卢布购买时，德国公开反对，私下让本国公司至某银行换卢布购买。同时开始洗绿。<br>如今俄罗斯不卖了，德国准备烧柴烧煤。<br>结论：俄罗斯的能源是支持绿能计划的基石。
+
+### 60: [2022-07-20 21:54:58+08:00 推文](https://twitter.com/HeQinglian/status/1549754745102942208)
+
+Re @JianglinLi 一路看下来，从2015年开始，西方世界这些年玩的就是如何让自己变残的政治正确游戏。
+
+### 61: [2022-07-20 22:36:47+08:00 推文](https://twitter.com/HeQinglian/status/1549765265357156353)
+
+Re @JianglinLi 我们这里周六、周日分别是100、101度，最低温度晚间是74度。忍着点吧。
+
+### 62: [2022-07-20 22:43:16+08:00 推文](https://twitter.com/HeQinglian/status/1549766896530214912)
+
+Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经历了美国文革。还有许多检举父母、朋友政治不正确言论的事例。<br>所有中国文革发生过的，美国都发生过，我冒天下之大不讳，纪录分析了这几年美国发生的重大事情。我的清涟居上都有。<br>我要感谢编辑们的理解，尽管后来他们受到巨大压力被迫要求我不再写这类文章。
+
+### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
+
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+
+### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
+
+Re @JianglinLi 刚才看了预报，晚间最低是77度。
+
+### 65: [2022-07-20 23:27:31+08:00 推文](https://twitter.com/HeQinglian/status/1549778035649429504)
+
+Re @zhixiangziyou @JianglinLi 这对我们这是常事了。每天云图显示我们这正在下雨，但阳光灿烂且灼人。
+
