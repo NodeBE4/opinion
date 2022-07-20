@@ -29,7 +29,7 @@ The march toward the potent legacy phrase "Xi Thought" continues, this time with
 
 ### 4: [2021-12-06 12:39:21+08:00 推文](https://twitter.com/vshih2/status/1467715258198282240)
 
-RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>I wouldn’t make a big deal out of the 14 billion campaign cost of the US. Basically campaign costs are the bulk of the costs of operating both parties in the US. How much does it cost to run just one party in China?<br><br>人民日報  People's Daily: 【一圖起底！美國民主七大假象】5日，外交部網站發布《美國民主情況》報告，通過列舉事實、數字和各國相關機構、人士及專家觀點，梳理美國民主制度的弊端，分析美國國內民主實踐的亂象和對外輸出民主的危害。美國民主有哪些積弊？一圖揭開美國民主的真相👇👇👇<br><br><img style="" src="https://pbs.twimg.com/media/FF4lWmvUcAIzkUu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-06 13:41:23+08:00 推文](https://twitter.com/klustout/status/1467730873202130952)
 
@@ -37,7 +37,7 @@ RT Kristie Lu Stout✌🏽<br>In China, censors are already at work with the w
 
 ### 6: [2021-12-06 13:48:53+08:00 推文](https://twitter.com/cnmediaproject/status/1467732759351545860)
 
-The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style="" src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
+The march toward "Xi Thought" continues this week with headline appearances of "Xi Jinping Economic Thought" in the People's Daily. <a href="https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/06/small-steps-for-xi-thought/</a><br><img style src="https://pbs.twimg.com/media/FF5vJ-TVUAEZbRR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-06 22:16:00+08:00 推文](https://twitter.com/Yangguobin/status/1467860378000392194)
 
@@ -45,7 +45,7 @@ RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll
 
 ### 8: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
 
-RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-07 18:43:00+08:00 推文](https://twitter.com/PM_Thornton/status/1468169162363125763)
 
@@ -81,11 +81,11 @@ Re And Dalian Daily, the official organ of the CCP leadership in the city of Dal
 
 ### 17: [2021-12-08 08:30:38+08:00 推文](https://twitter.com/cnmediaproject/status/1468377445082763264)
 
-Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style="" src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And of course these top headlines are mirrored in position on the homepage of People's Daily Online, highlighted in RED on this screenshot.<br><img style src="https://pbs.twimg.com/media/FGC5fR9VcAIQ-Rv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
-Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style="" src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
@@ -101,7 +101,7 @@ Re It is always imp. to scrutinize CCP rhetoric to understand how the leadership
 
 ### 22: [2021-12-08 08:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468380638026039300)
 
-Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On definitions, CMP is proud to be a partner in the excellent Decoding China project, which takes a deeper look at these issues. <a href="https://decodingchina.eu/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/</a><br><img style="" src="https://pbs.twimg.com/media/FGC8ZsDVkAArkh5?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
@@ -145,7 +145,7 @@ Re The latest article, from 11/28, follows CCP talking points nearly verbatim. I
 
 ### 33: [2021-12-09 09:57:54+08:00 推文](https://twitter.com/cnmediaproject/status/1468761792512163846)
 
-Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Zwart appears regularly in state media to promote PRC developments on human rights. In China Daily he perfectly mirrors CCP points. "One of the many fields in which China has made significant progress over the past five years is human rights." <a href="https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm" target="_blank" rel="noopener noreferrer">https://www.chinadaily.com.cn/opinion/2017-11/15/content_34550323.htm</a><br><img style src="https://pbs.twimg.com/media/FGIXDsvVIAMltBE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-09 10:01:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468762654290624514)
 
