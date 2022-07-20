@@ -211,3 +211,11 @@ Re @franktianxie 这是件大事，有后续请继续提供。
 
 Re @JianglinLi 1975年，福特任总统——这人会做出这种决策。
 
+### 50: [2022-07-20 21:03:19+08:00 推文](https://twitter.com/HeQinglian/status/1549741743813296128)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp @RealBeiMing 如果成功，信息宣传将聚集于“俄罗斯的无人机”。
+
+### 51: [2022-07-20 21:05:17+08:00 推文](https://twitter.com/HeQinglian/status/1549742241220001797)
+
+Re @shenliangqing2 中文世界80%以上是这种，尤其是反共阵线。<br>英文世界的左派现以也热衷于这套，帽子是种族主义、恐同、厌女、肤色歧视。
+
