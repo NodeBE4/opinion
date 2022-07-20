@@ -53,7 +53,7 @@ If you are interested in an historical answer, however, you are welcome to rewor
 
 > Not vTuber related
 
-To be fair, the video does feature both Ironmouse and [Scarlett Rainn](https://scarlettrainn.carrd.co/) it is related.
+To be fair, the video does feature both Ironmouse and [Scarlett Rainn](https://scarlettrainn.carrd.co/) so it kinda is.
 
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
