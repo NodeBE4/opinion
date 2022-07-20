@@ -47,3 +47,15 @@ I see the day has not come that folks realize the "report" button is neither an 
 
 What *exactly* do you think Fauci has done "for decades"?
 
+### 344: [Welcoming a family to Chicago](https://old.reddit.com/r/afghanistan/comments/w2sei6/welcoming_a_family_to_chicago/), submitted on 2022-07-19 21:10:51+08:00.
+
+----- __344.1__ -----2022-07-20 13:39:40+08:00:
+
+Welcome them to your home for hot tea, sweets and perhaps a meal.  You don't have to make anything fancy, but in my experience grilled meats, good vegetables with well prepared rice tends to be a hit no matter what.  Warm and fresh bread would be a hit too.  I wouldn't worry about being perfectly authentic. But test a recipe in advance before you serve it to guests, which I'm sure you already knew haha.  
+
+If you are in the city, there are several good halal butchers off the Kedzie stop on the brown line.  I don't know whether they will expect halal meat or not, but if you tell them it will mean a lot.  It can be a bit more expensive in some cases, but usually prices are comparable.  And frankly, halal lamb and beef taste better to me anyway.  No pork or food containing pork products.  There are also a couple of pretty decent lebanese bakeries.  Not quite the same, but closer to familiar than an American dinner roll.  Without doubt, they will be grateful for your hospitality, whether it is good or bad.  The effort will mean a great deal to them.
+
+If you are invited, as others have suggested, remove shoes before entering the house.  Be conscientious about physical contact, at first at least.  There is also a decently sized Afghani community here in Chicago, too.  Introduce them, show them around and let them know how to connect with resources.  I would also bring some fresh fruit, like pomegranates, some good dried dates and roughly familiar sweets.  Ask any bakery off Kedzie stop on the brown line, and they will have good recommendations for sweets.  
+
+In my opinion --- and this is just my opinion, others may disagree --- the experience of shopping in the United States for basic necessities is so totally different than they're used to, some basic instructions on how to find decent produce would almost certainly be appreciated.  What you're going to get at Mariano's or Whole Foods might look prettier than what a village farmer brought to market, but it isn't going to taste as good either.  Even things like meats, veggis and household items aren't really bought in Afghanistan in the same way they are here.
+
