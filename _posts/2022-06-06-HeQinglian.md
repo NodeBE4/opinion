@@ -261,7 +261,7 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
 
-“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
+“应该”的事情太多了，可惜世上没有后悔药。
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 

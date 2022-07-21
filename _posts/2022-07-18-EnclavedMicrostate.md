@@ -59,6 +59,26 @@ To be fair, the video does feature both Ironmouse and [Scarlett Rainn](https://s
 
 I believe she will be collabing with Nene at one point; the original time didn't work out but there was a rescheduling planned.
 
+----- __616.3__ -----2022-07-22 00:44:02+08:00:
+
+...Wasn't that in the free portion though?
+
+----- __616.4__ -----2022-07-22 00:53:21+08:00:
+
+There's a difference between '$50 for 3rd Fes wasn't worth it' and 'I felt like I got more out of the $50 I paid for Calli's concert than the $50 I paid for each day of 3rd Fes', and it's one which you've clearly said you're in the former camp on. For my part, I did enjoy 3rd Fes and thought it was worth the price of admission, but Calli's concert was definitely *more* worth the price. Which is weird to say given that Calli's concert had 24 songs, while 3rd Fes had 28 and 26 respectively, while also being considerably lower-tech in some regards, but I imagine it was a mix of:
+
+* Calli being my oshi, 24 Calli songs is a lot more enticing than 26/8 songs of which maybe half to two thirds feature a member I actively follow;
+
+* The songs were much more densely packed with no MC segments, so it *felt* like more was going on;
+
+* It was a bit more of an intimate atmosphere even in the livestream, with a much more substantial 'vibe' to it;
+
+* Because it was Calli throughout, there was a sort of continuity of atmosphere to it across songs without it being broken up into individual members' sections;
+
+* The producers really must have had fun doing new visual effects for every single song;
+
+* It's Calli. Everything is a banger. Even the shitposts? Especially the shitposts.
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
@@ -140,4 +160,20 @@ Hi there - unfortunately we have had to remove your question, because [/r/AskHis
 If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 626: [[Baelz] Calli bypassed the middleman](https://old.reddit.com/r/Hololive/comments/w4esjh/baelz_calli_bypassed_the_middleman/), submitted on 2022-07-21 19:54:51+08:00.
+
+----- __626.1__ -----2022-07-21 23:53:01+08:00:
+
+> For context, she 24 songs with almost no breaks. Then the encore section began and she went twice as hard as before.
+> 
+> 
+
+Correction, she sang 18 and then did a 6-song encore section.
+
+### 627: [what was the relationship between Korea and China in the past?](https://old.reddit.com/r/AskHistorians/comments/w4j4m9/what_was_the_relationship_between_korea_and_china/), submitted on 2022-07-21 23:11:53+08:00.
+
+----- __627.1__ -----2022-07-22 00:39:48+08:00:
+
+Going by colloquial definitions of the two polities, 'Korea' and 'China' have a shared history stretching back many centuries, and it would be difficult to cover it all in a single post. While other posts may be able to clarify other periods, I discuss relations between the Joseon kingdom in Korea and the Qing Empire in China in [this answer](https://www.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/i932sjt/).
 
