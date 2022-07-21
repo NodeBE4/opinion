@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-21
+date: 2022-07-22
 from: https://twitter.com/HeQinglian/status/1548756798932393985
 layout: post
 tags:
@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -394,4 +394,8 @@ Re @mayuki753 @zhixiangziyou 宋美龄与美国的金斯伯格（在未当大法
 ### 95: [2022-07-21 23:45:19+08:00 推文](https://twitter.com/HeQinglian/status/1550144901878140928)
 
 Re @mayuki753 @zhixiangziyou 已经够重视了，无数赞美加之于身，政治女性中无人能及她这么多赞美。
+
+### 96: [2022-07-22 01:18:38+08:00 推文](https://twitter.com/HeQinglian/status/1550168383806652416)
+
+Re @cskun1989 这位是我在湖南师大的校友。当时最有名的两位之一，无人不知。另一位也是中文系的，红二代，搞学运，叫陶森。<br>如今两位都消失了，包括网络上。<br>我至今还记得梁恒美国之行回来开讲座，300多人的阶梯教室坐满了人。我在后门的走廊听他声色并茂地形容高速公路：车速极快，只听得沙沙的声音，容易睡着……
 
