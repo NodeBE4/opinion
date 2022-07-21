@@ -117,7 +117,7 @@ Re @KELMAND1 作者的意思很明显：一段时期只能有一个外交重心�
 
 ### 26: [2022-07-19 08:51:26+08:00 推文](https://twitter.com/HeQinglian/status/1549195174395494402)
 
-资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。
+资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。<br><br>Ezio Mao☢: “现在强迫中国自己制造芯片，意味着如果将来发生冲突，你不仅放弃了这些高薪工作，而且会迫使中国完全实现自给自足。”比尔·盖茨曾接受美国彭博社采访时表示：“这样做真的会有好处吗?”<br><br><img style="" src="https://pbs.twimg.com/media/FX6nBfYakAETGea?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-07-19 09:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1549197462434373634)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -322,4 +322,52 @@ Re @zt33268778 👍👍<br>包括当街表演性行为，鼓励人们吃虫子�
 ### 77: [2022-07-21 10:44:18+08:00 推文](https://twitter.com/HeQinglian/status/1549948352082632706)
 
 Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家”论 证，看起来似乎“科学”，比那些直接反常识、反伦理的曲折多了。
+
+### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
+
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
+
+### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
+
+Re @EP9M3VTl5xb86Ji 1、这是以前定下的，这时候说运去；2、什么时候到货？对方什么时候用得上？<br>我问的是  新增  。
+
+### 80: [2022-07-21 19:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1550084842146127873)
+
+Re @QinghuiF 缺中俄两国。<br>对中国的韭菜们的影响是就业。
+
+### 81: [2022-07-21 19:47:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084990666526721)
+
+Re @shuaige47501635 仅这一点创见，足以成为某派开山祖师爷。
+
+### 82: [2022-07-21 19:54:00+08:00 推文](https://twitter.com/HeQinglian/status/1550086686813609985)
+
+Re @princeton_walk @zt33268778 哈佛大学社会学有门专学，叫做“社会运动理论”，从寻找并塑造领袖、组织、筹集资金、街头运动，非常齐全。学这专业的人，确实就是爱折腾，不，是特爱折腾，不折腾无以为“生活”。
+
+### 83: [2022-07-21 20:05:15+08:00 推文](https://twitter.com/HeQinglian/status/1550089521986953216)
+
+從「四不」到「六不」　台灣必須關注拜登外交戰略正處於劇烈搖擺期<br><br>拜登的外交困境緣于其搖擺於美國不同時期的地緣政治構想之間， 混亂不堪。對華外交受「第二次冷戰」思維影響与1990年代中期後出現的「克制」構想，前者认为民主VS專制是美中關係，需建立全球联盟扼制中国。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=149696" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=149696</a>
+
+### 84: [2022-07-21 20:08:22+08:00 推文](https://twitter.com/HeQinglian/status/1550090306271559680)
+
+Re @eGUAbe2V7j26GHw 你处事老到，中道，有克制力。作为物业管理者，久而久之，住户自然能够体会到你的好处。
+
+### 85: [2022-07-21 20:12:44+08:00 推文](https://twitter.com/HeQinglian/status/1550091402985541633)
+
+Re 拜登：军方认为佩洛西现在访台不是一个好主意，将在未来10天内与习主席交谈 <br>昨天这条消息多少让台湾人有点失望，对拜登的依靠感降低不少。 <a href="https://rfi.my/8bBR.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8bBR.T</a>
+
+### 86: [2022-07-21 20:21:40+08:00 推文](https://twitter.com/HeQinglian/status/1550093652176900096)
+
+欧洲国家的第二块多米诺骨牌，欧盟的第一块。<br>执政联盟政党投票背弃 意大利总理德拉吉挂印请辞  欧洲及市场担忧  <br>意大利虽然穷、弱，但因其大与正宗的老欧洲地位，在欧盟内部的影响仅次于德法。 <a href="https://rfi.my/8bGM.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8bGM.T</a>
+
+### 87: [2022-07-21 20:43:20+08:00 推文](https://twitter.com/HeQinglian/status/1550099106084839424)
+
+Re @zhixiangziyou 如今我在有争议的问题上不接受电话采访。英语媒体采访，我都要求笔访，并且会附上，不管用何种方式采用，要忠实于原意，不要摘文引句、断章取义。
+
+### 88: [2022-07-21 20:51:03+08:00 推文](https://twitter.com/HeQinglian/status/1550101044721598464)
+
+Re @shuaige47501635 这种问题，你还是与同道聊吧。<br>我因为乌战Fo了一位，发现他（或她）的Fo中一大票马经信徒。<br>我读过的马经原著比你们多得多。因为文革无书读，马恩选集四卷是未成年时读物。资本论曾专修过。
+
+### 89: [2022-07-21 20:55:22+08:00 推文](https://twitter.com/HeQinglian/status/1550102130438152193)
+
+Re @shuaige47501635 恩格斯的自然辩证法，我读时，你可能还未出生。<br>平生最厌马痴，一副志壮坚信马列，红旗插遍五洲的狂妄。
 

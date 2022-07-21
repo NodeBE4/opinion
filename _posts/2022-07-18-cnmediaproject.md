@@ -59,3 +59,7 @@ Rewarding Compliance: The China Press Awards, to be announced soon by the All-Ch
 
 RT Chenchen Zhang 🤦🏻‍♀️<br>when preparing for moving I found this copy of Southern People Weekly, September 2013 issue. Cover story is "how did public intellectuals become gongzhi". less than 10 yrs ago but already feels ancient.<br><img style="" src="https://pbs.twimg.com/media/FYKx0cnXEAEDn54?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 12: [2022-07-21 19:37:03+08:00 推文](https://twitter.com/cnmediaproject/status/1550082421563232256)
+
+This month China announced its preliminary selections for the China Press Awards, the “highest award for outstanding national journalism.” Under the country's tightly-controlled media system, what exactly amounts to excellence? <a href="https://chinamediaproject.org/2022/07/21/rewarding-compliance%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/21/rewarding-compliance%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYL_vd0acAEJJ6U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

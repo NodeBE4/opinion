@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-07-19
+date: 2022-07-21
 from: https://twitter.com/nathanlawkc/status/1548970801982054400
 layout: post
 tags:
@@ -24,4 +24,8 @@ A friend saw #Freedom in a New York bookstore.<br>It’s been a few months since
 ### 2: [2022-07-19 05:52:32+08:00 推文](https://twitter.com/nathanlawkc/status/1549150152669241344)
 
 Dictators form alliance and aid each other. <br><br>Chinese exports to Russia of microchips and other electronic components and raw materials, some with military applications, have increased since Moscow’s invasion of Ukraine <a href="https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403?st=lo8d5qo3szqmbh0" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinese-firms-are-selling-russia-goods-its-military-needs-to-keep-fighting-in-ukraine-11657877403?st=lo8d5qo3szqmbh0</a>
+
+### 3: [2022-07-21 20:35:43+08:00 推文](https://twitter.com/nathanlawkc/status/1550097187903791104)
+
+It’s crucial for Hong Kong activists to continue to speak up against PRC’s human rights abuses and stay connected to the world.<br><br>Glad to join the discussion with @KenRoth and @wang_maya to talk about the most pressing issues.
 
