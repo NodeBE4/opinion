@@ -53,7 +53,7 @@ Convergence at the Grassroots: An important piece by Stella Chen on press contro
 
 ### 10: [2022-04-26 20:20:53+08:00 推文](https://twitter.com/adamcathcart/status/1518928098888237056)
 
-RT Adam Cathcart<br>Duowei News no longer exists<br><br>Bill Bishop: Duowei has been shut down, no idea if for a specific article or something broader<br><br><img style="" src="https://pbs.twimg.com/media/FRRLz44WYAAAQbB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://dwnews.com/" target="_blank" rel="noopener noreferrer">https://dwnews.com</a>
+RT Adam Cathcart<br>Duowei News no longer exists <a href="https://twitter.com/niubi/status/1518922346001747970" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1518922346001747970</a> <a href="https://www.cna.com.tw/news/acn/202204260275.aspx" target="_blank" rel="noopener noreferrer">https://www.cna.com.tw/news/acn/202204260275.aspx</a>
 
 ### 11: [2022-04-26 21:26:22+08:00 推文](https://twitter.com/CarlMinzner/status/1518944575511044098)
 
@@ -121,5 +121,5 @@ RT Michael Pettis<br>Yesterday the Politburo reaffirmed its commitment to both
 
 ### 27: [2022-04-30 23:08:44+08:00 推文](https://twitter.com/CarlMinzner/status/1520419888644382721)
 
-RT Carl Minzner<br>Oh, there goes Roach too. <br><br>Used to be one of the most hardcore perma-optimists on China. Now even he recognizes how much Beijing's steady political slide back towards single-man authoritarian rule is undermining the country's prospects.
+RT Carl Minzner<br>Oh, there goes Roach too. <br><br>Used to be one of the most hardcore perma-optimists on China. Now even he recognizes how much Beijing's steady political slide back towards single-man authoritarian rule is undermining the country's prospects.<br><br>Jeremy Goldkorn: The China cushion has deflated: I spoke to the renowned economist and former Morgan Stanley executive and found him gloomier on China than he’s ever been. He also told me to get new friends.<br> <a href="https://supchina.com/2022/04/29/the-china-cushion-has-deflated-qa-with-stephen-roach/" target="_blank" rel="noopener noreferrer">https://supchina.com/2022/04/29/the-china-cushion-has-deflated-qa-with-stephen-roach/</a>
 
