@@ -55,6 +55,10 @@ If you are interested in an historical answer, however, you are welcome to rewor
 
 To be fair, the video does feature both Ironmouse and [Scarlett Rainn](https://scarlettrainn.carrd.co/) so it kinda is.
 
+----- __616.2__ -----2022-07-21 12:16:17+08:00:
+
+I believe she will be collabing with Nene at one point; the original time didn't work out but there was a rescheduling planned.
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
