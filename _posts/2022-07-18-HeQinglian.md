@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -398,4 +398,64 @@ Re @mayuki753 @zhixiangziyou 已经够重视了，无数赞美加之于身，政
 ### 96: [2022-07-22 01:18:38+08:00 推文](https://twitter.com/HeQinglian/status/1550168383806652416)
 
 Re @cskun1989 这位是我在湖南师大的校友。当时最有名的两位之一，无人不知。另一位也是中文系的，红二代，搞学运，叫陶森。<br>如今两位都消失了，包括网络上。<br>我至今还记得梁恒美国之行回来开讲座，300多人的阶梯教室坐满了人。我在后门的走廊听他声色并茂地形容高速公路：车速极快，只听得沙沙的声音，容易睡着……
+
+### 97: [2022-07-22 03:56:33+08:00 推文](https://twitter.com/HeQinglian/status/1550208125453713409)
+
+欧盟呼吁削减 15% 的天然气消费以帮助德国，西班牙、希腊和葡萄牙拒绝。<br>西班牙能源部长（显然是针对柏林）：“与其他国家相反，西班牙在能源方面并没有入不敷出”。<br>——《经济学人》在《欧洲不满的冬天》里预测的矛盾，提前在夏天出现。<br><br>Javier Blas: NORTH vs SOUTH 2.0:<br><br>Spain, Greece and Portugal reject the EU call for 15% cuts in natural gas consumption to help Germany<br><br>Spanish Energy Minister (clearly aiming at Berlin): "Contrary to other countries, Spain hasn't been living beyond its means in energy terms"<br><br>#EnergyCrisis<br>
+
+### 98: [2022-07-22 04:01:27+08:00 推文](https://twitter.com/HeQinglian/status/1550209357715017729)
+
+Re @zhixiangziyou @LiliHankins 种子培植，会发生变异，我的蓝木槿，去年培育出图4这种，还有一棵纯白的，我丢弃了。
+
+### 99: [2022-07-22 04:45:01+08:00 推文](https://twitter.com/HeQinglian/status/1550220322925940736)
+
+Re @david_david1968 我一直奇怪，法拉盛那么糟糕混乱，市容卫生比中国许多县城还差很多。许多华人喜欢呆在那儿，原来有这些好处。
+
+### 100: [2022-07-22 04:51:50+08:00 推文](https://twitter.com/HeQinglian/status/1550222040883396608)
+
+Re @LiliHankins @zhixiangziyou 是这原因，今天方知。早知就想办法给它在公地里找块地方。<br>我确实没那么多地方种，前一向费了不少劲，在公地的荒林边开了几块地，种了三株木槿，包括那株白花紫芯的。最主要的是开块地，就得配土，Compose、炭泥土、Top Soil再加原生土，多出来的带碎石土还得找地方丢弃。<br>小苗要培育至开花才知是颜色
+
+### 101: [2022-07-22 04:54:34+08:00 推文](https://twitter.com/HeQinglian/status/1550222727558070277)
+
+Re @zhixiangziyou @LiliHankins 我的基本是蓝木槿，但一株最蓝，其余的是粉紫（其实是一株树的后裔）。现在我有两株扦插的冰砂蓝莓重瓣木 槿，正含苞待放。你家的这株重瓣紫色，我有一株，一米多高，种在公地里，我家园子的边缘。
+
+### 102: [2022-07-22 04:56:58+08:00 推文](https://twitter.com/HeQinglian/status/1550223331592396800)
+
+Re @zhixiangziyou @LiliHankins 不这样配土，花树长不好，非常可怜。尽管不种在自家花园里，也得让它们有较好的生长环境，对不？毕竟都是我从种子或小枝条育出来的。
+
+### 103: [2022-07-22 05:00:07+08:00 推文](https://twitter.com/HeQinglian/status/1550224123808432130)
+
+Re @LiliHankins @zhixiangziyou 你再扦插一棵。
+
+### 104: [2022-07-22 05:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1550224609571704833)
+
+Re @vionawang3 @david_david1968 @Nobody197575 能否赐告国会通过决定是哪一天？“10天后”是指哪一天？这消息很重要。
+
+### 105: [2022-07-22 05:03:16+08:00 推文](https://twitter.com/HeQinglian/status/1550224915005054978)
+
+Re @zhixiangziyou @LiliHankins 你要蓝木槿，我可以送你一株，问题是如何来拿走。
+
+### 106: [2022-07-22 05:07:19+08:00 推文](https://twitter.com/HeQinglian/status/1550225934229323776)
+
+Re @vionawang3 @david_david1968 @Nobody197575 谢谢。下次发布这种重要信息，如果写上时间，加个链接，就非常好了。<br>刚看了你发的另一条消息，调查阿富汁撤军的决议是2022 年 6 月 23 日。
+
+### 107: [2022-07-22 05:16:34+08:00 推文](https://twitter.com/HeQinglian/status/1550228265398329344)
+
+Re @vionawang3 @david_david1968 @Nobody197575 每天信息海量，不可能读到每条重要的，总有遗漏。比如你谈的这番操作，实话实说，好多人不知道。
+
+### 108: [2022-07-22 05:22:16+08:00 推文](https://twitter.com/HeQinglian/status/1550229697283473409)
+
+Re @zhixiangziyou @LiliHankins 老柳树不需要照管了，枝条太长，你们剪剪就行。但新生苗需要Shape，塑型。我去年育苗的那棵已经长到两米多高，树干也有小胳膊粗了，需要撑杆，还需要不断修剪Shape，改变撑杆位置。现在长得非常好了，很多邻居都喜欢，但有条件种的人不多，我那里是一个积水之地，除了炎夏，地里的水就够。
+
+### 109: [2022-07-22 05:22:53+08:00 推文](https://twitter.com/HeQinglian/status/1550229853718417409)
+
+Re @vionawang3 @david_david1968 @Nobody197575 Mark了，这叫“各自想拳经”。
+
+### 110: [2022-07-22 05:35:56+08:00 推文](https://twitter.com/HeQinglian/status/1550233135627046912)
+
+Re @vionawang3 @david_david1968 @Nobody197575 谢告知。
+
+### 111: [2022-07-22 05:41:28+08:00 推文](https://twitter.com/HeQinglian/status/1550234529440333826)
+
+Re @zhixiangziyou @NAConservative9 这得纽约共和党分部来问责。
 
