@@ -173,7 +173,7 @@ Re @Sharon65086147 张展为啥进了监狱？你说说看。
 
 ### 40: [2022-02-26 19:35:11+08:00 推文](https://twitter.com/realcaixia/status/1497535713306423301)
 
-英勇的乌克兰人民！<br><br>码凡🇺🇦: 坦克在城市战斗环境中变成了负资产。乌克兰人在基辅郊区的简易路障上的帮助下，用自制的鸡尾酒毁坏俄罗斯坦克。<br> <a href="https://twitter.com/ScottGorbach/status/1497424391117881347/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/ScottGorbach/status/1497424391117881347/video/1</a>
+英勇的乌克兰人民！<br><br>码凡🇺🇦: 坦克在城市战斗环境中变成了负资产。乌克兰人在基辅郊区的简易路障上的帮助下，用自制的鸡尾酒毁坏俄罗斯坦克。<br><br><video src="https://video.twimg.com/ext_tw_video/1497424353708883972/pu/vid/640x352/o0N7ZH6wTJN9IRyS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1497424353708883972/pu/img/CMsthEgaNOJugo3i.jpg"></video>
 
 ### 41: [2022-02-26 19:39:03+08:00 推文](https://twitter.com/realcaixia/status/1497536684438835200)
 
