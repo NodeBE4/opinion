@@ -79,6 +79,24 @@ There's a difference between '$50 for 3rd Fes wasn't worth it' and 'I felt like 
 
 * It's Calli. Everything is a banger. Even the shitposts? Especially the shitposts.
 
+----- __616.5__ -----2022-07-22 01:02:35+08:00:
+
+No, she isn't, just hijacking a human body for a bit.
+
+----- __616.6__ -----2022-07-22 01:21:19+08:00:
+
+...It was Nijisanji that shuttered its KR and IN branches, not Hololive.
+
+----- __616.7__ -----2022-07-22 01:23:40+08:00:
+
+> the AR tech there was actually quite a bit more impressive than Calli's concert
+
+Might be because Calli's concert didn't include the AR, but did do more visual effects for stream viewers.
+
+----- __616.8__ -----2022-07-22 01:28:11+08:00:
+
+Ah, I'd known about the former but not the latter. That said, who knows at this stage?
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
