@@ -95,3 +95,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 621: [What happened to Austria-Hungarian Naval Officers post WW1?](https://old.reddit.com/r/WarCollege/comments/w3pkg2/what_happened_to_austriahungarian_naval_officers/), submitted on 2022-07-20 23:43:16+08:00.
+
+----- __621.1__ -----2022-07-21 09:53:53+08:00:
+
+Interestingly, just Naziism and not Fascism in general – von Trapp was a vocal supporter of the Fatherland Front and Austrofascism.
+

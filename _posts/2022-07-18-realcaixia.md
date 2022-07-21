@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
@@ -98,4 +98,16 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
 对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运<br><br>《议报》: 真叫卢俊: “我躲在虹桥的卫生间，不知道去哪。”<br> <a href="https://yibaochina.com/?p=247198" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247198</a>
+
+### 22: [2022-07-21 06:26:29+08:00 推文](https://twitter.com/realcaixia/status/1549883471451111424)
+
+特别推荐：这篇文章是对前苏联时期情况和问题的深层分析与思考，对照中国大陆情况，给人以很大的启发。<br>魏加宁：西方滞胀时期苏联的形势错判与战略失误 - 议报 <a href="https://yibaochina.com/?p=247278" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247278</a>
+
+### 23: [2022-07-21 07:51:01+08:00 推文](https://twitter.com/realcaixia/status/1549904742192762880)
+
+這是以色列駐中國使館發出的網文。中國從官府到民間充斥的暴戾氣，從唐山黑與警勾結爆打四女生，到其餘城市同樣爆出流氓黑惡勢力殘暴市民，到成都街頭公然出現納粹標誌，中國未來的趨勢極度令人擔憂。<br>成都闹市惊现纳粹标志  历史不应被忘记！ <a href="https://mp.weixin.qq.com/s/W-41WoqL_tetTXUUB9PpAg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/W-41WoqL_tetTXUUB9PpAg</a>
+
+### 24: [2022-07-21 07:53:39+08:00 推文](https://twitter.com/realcaixia/status/1549905408873177088)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYJewOyXoAA7PTT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYJewOyWYAE7rbk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYJewOyWYAAyuR8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-19
+date: 2022-07-21
 from: https://old.reddit.com/r/AnimalsBeingBros/comments/w2gqqa/i_posted_the_other_day_about_our_older_dog_dying/
 layout: post
 tags:
@@ -68,4 +68,14 @@ This should be emphasized. The cultural norms are very different in accepting th
 > Biscuits are good. 
 
 I assume you are not referring to American biscuits.  But sweets, like butter cookies.  I have also found that homemade (not from a box) American pound cake with walnuts was a big hit.
+
+----- __344.3__ -----2022-07-21 08:19:07+08:00:
+
+Totally agree.  Very good advice.  More likely to find familiar things there, too.
+
+### 345: [Monkeypox concern grows as virus spreads in Chicago: ‘They need to get loud about this’](https://old.reddit.com/r/CoronavirusIllinois/comments/w3sejo/monkeypox_concern_grows_as_virus_spreads_in/), submitted on 2022-07-21 01:36:50+08:00.
+
+----- __345.1__ -----2022-07-21 08:22:13+08:00:
+
+Not precisely relevant to COVID, but an adjacent development with potentially overlapping concerns.  We will allow this.
 
