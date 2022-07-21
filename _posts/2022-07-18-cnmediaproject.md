@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-20
+date: 2022-07-21
 from: https://twitter.com/cnmediaproject/status/1548954002972614656
 layout: post
 tags:
@@ -50,4 +50,12 @@ Re On censorship triggered as soon as files are uploaded from local to cloud ser
 ### 9: [2022-07-20 12:20:28+08:00 推文](https://twitter.com/cnmediaproject/status/1549610167611797504)
 
 Re Correction: Oiwan Lam. Sorry, @oiwan
+
+### 10: [2022-07-21 13:41:24+08:00 推文](https://twitter.com/cnmediaproject/status/1549992921226973184)
+
+Rewarding Compliance: The China Press Awards, to be announced soon by the All-China Journalists Association, clearly convey what classifies as outstanding journalism in Xi's China. Surprise, surprise: it's journalism about Xi. <a href="https://chinamediaproject.org/2022/07/21/rewarding-compliance%EF%BF%BC/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/21/rewarding-compliance%EF%BF%BC/</a><br><img style="" src="https://pbs.twimg.com/media/FYKuTXEakAIMTBq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-07-21 13:56:35+08:00 推文](https://twitter.com/chenchenzh/status/1549996740484497408)
+
+RT Chenchen Zhang 🤦🏻‍♀️<br>when preparing for moving I found this copy of Southern People Weekly, September 2013 issue. Cover story is "how did public intellectuals become gongzhi". less than 10 yrs ago but already feels ancient.<br><img style="" src="https://pbs.twimg.com/media/FYKx0cnXEAEDn54?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-20
+date: 2022-07-21
 from: https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/
 layout: post
 tags:
@@ -104,4 +104,40 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 ----- __621.1__ -----2022-07-21 09:53:53+08:00:
 
 Interestingly, just Naziism and not Fascism in general – von Trapp was a vocal supporter of the Fatherland Front and Austrofascism.
+
+### 622: [What were the roots behind the tensions between the Cuban revolutionaries Manuel de Quesada and Miguel Aldama?](https://old.reddit.com/r/AskHistorians/comments/w3x7u7/what_were_the_roots_behind_the_tensions_between/), submitted on 2022-07-21 04:54:04+08:00.
+
+----- __622.1__ -----2022-07-21 15:11:49+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 623: [Best Trained Civilians in History?](https://old.reddit.com/r/AskHistorians/comments/w45zp0/best_trained_civilians_in_history/), submitted on 2022-07-21 11:24:14+08:00.
+
+----- __623.1__ -----2022-07-21 15:09:09+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 624: [Which Civil war was arguably the deadliest?](https://old.reddit.com/r/AskHistorians/comments/w488yj/which_civil_war_was_arguably_the_deadliest/), submitted on 2022-07-21 13:22:39+08:00.
+
+----- __624.1__ -----2022-07-21 15:18:39+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 625: [Can you tell me anything about the original murders that led to Powers v. Ohio?](https://old.reddit.com/r/AskHistorians/comments/w4a2eb/can_you_tell_me_anything_about_the_original/), submitted on 2022-07-21 15:10:15+08:00.
+
+----- __625.1__ -----2022-07-21 15:19:31+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
