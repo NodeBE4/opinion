@@ -73,15 +73,34 @@ I assume you are not referring to American biscuits.  But sweets, like butter co
 
 Totally agree.  Very good advice.  More likely to find familiar things there, too.
 
-### 345: [i cant gain levels or ranks](https://old.reddit.com/r/coldwar/comments/w3bith/i_cant_gain_levels_or_ranks/), submitted on 2022-07-20 11:08:45+08:00.
+### 345: [What is a stereotype that you're willing to admit about your own race/ethnicity?](https://old.reddit.com/r/TooAfraidToAsk/comments/w31i3g/what_is_a_stereotype_that_youre_willing_to_admit/), submitted on 2022-07-20 03:42:29+08:00.
 
------ __345.1__ -----2022-07-21 13:06:00+08:00:
+----- __345.1__ -----2022-07-21 13:33:25+08:00:
+
+Ethnicity: 
+
+* Work a lot and do so very efficiently;
+* Process-oriented, methodical, calculating and deliberate; 
+* Prefer order to chaos or uncertainty; 
+* Only drink sparkling water (a four-week supply of which I usually maintain at all times);
+* Very punctual; 
+* Speak very directly, can be blunt, little sense of humor (irony, self deprecation and sarcasm do not comport);
+* Reserved (I have never been accused of being the life of any party, most of my friends would describe me as "cerebral");
+* Always concerned about privacy, health and safety; 
+* Environmentally conscientious, prefer the natural world to alternatives;
+* Very well traveled; 
+* Not very romantic and not very good at romantic gestures; and
+* Birkenstocks and pickled vegetables.
+
+### 346: [i cant gain levels or ranks](https://old.reddit.com/r/coldwar/comments/w3bith/i_cant_gain_levels_or_ranks/), submitted on 2022-07-20 11:08:45+08:00.
+
+----- __346.1__ -----2022-07-21 13:06:00+08:00:
 
 Sorry, kiddo.  Wrong sub.
 
-### 346: [Monkeypox concern grows as virus spreads in Chicago: ‘They need to get loud about this’](https://old.reddit.com/r/CoronavirusIllinois/comments/w3sejo/monkeypox_concern_grows_as_virus_spreads_in/), submitted on 2022-07-21 01:36:50+08:00.
+### 347: [Monkeypox concern grows as virus spreads in Chicago: ‘They need to get loud about this’](https://old.reddit.com/r/CoronavirusIllinois/comments/w3sejo/monkeypox_concern_grows_as_virus_spreads_in/), submitted on 2022-07-21 01:36:50+08:00.
 
------ __346.1__ -----2022-07-21 08:22:13+08:00:
+----- __347.1__ -----2022-07-21 08:22:13+08:00:
 
 Not precisely relevant to COVID, but an adjacent development with potentially overlapping concerns.  We will allow this.
 
