@@ -117,7 +117,7 @@ Re @KELMAND1 作者的意思很明显：一段时期只能有一个外交重心�
 
 ### 26: [2022-07-19 08:51:26+08:00 推文](https://twitter.com/HeQinglian/status/1549195174395494402)
 
-资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。
+资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。<br><br>Ezio Mao☢: “现在强迫中国自己制造芯片，意味着如果将来发生冲突，你不仅放弃了这些高薪工作，而且会迫使中国完全实现自给自足。”比尔·盖茨曾接受美国彭博社采访时表示：“这样做真的会有好处吗?”<br><br><img style="" src="https://pbs.twimg.com/media/FX6nBfYakAETGea?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-07-19 09:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1549197462434373634)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -309,7 +309,7 @@ Re @cskun1989 @520CHINA025 胡温时期过去不久，许多时政分析的文�
 
 ### 74: [2022-07-21 08:49:14+08:00 推文](https://twitter.com/HeQinglian/status/1549919395035635713)
 
-萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。<br><br>He Qinglian: 马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br> <a href="https://twitter.com/RFI_Cn/status/1549862099291033602" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1549862099291033602</a>
+萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。
 
 ### 75: [2022-07-21 09:26:35+08:00 推文](https://twitter.com/HeQinglian/status/1549928793149677569)
 
@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -494,4 +494,28 @@ Re @JianglinLi @david_david1968 你那是过去式了，你生活的年代是纽
 ### 120: [2022-07-22 20:59:21+08:00 推文](https://twitter.com/HeQinglian/status/1550465521371561989)
 
 Re @FangYiDuan1 你列举一下，哪些是经济专业出身的？<br>据我所知，没有。连默克尔都不是，她学的是马克思主义政治理论。
+
+### 121: [2022-07-22 21:00:39+08:00 推文](https://twitter.com/HeQinglian/status/1550465849705766913)
+
+Re @falunverse 这轮危机是美俄对抗，中国骑墙，远未到对抗程度，只是不听美国招呼，乖乖站边。
+
+### 122: [2022-07-22 21:06:29+08:00 推文](https://twitter.com/HeQinglian/status/1550467317997387778)
+
+Re @JianglinLi 说句旁观者的话，芝加哥、纽约、旧金山、洛杉矶、哈佛所在的县，共和党不必要去插手，辛苦费力不讨好，最后还成为替罪羊。<br>你见纽约市民感恩朱利安尼么？是民主党折腾成的犯罪天堂，就让民主党继续折腾。<br>看今年这架势，不是美欧经济严重衰退（保守说法），就是倒一大片“约翰逊”。
+
+### 123: [2022-07-22 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1550467810551373826)
+
+Re @JianglinLi @david_david1968 前天看到一消息，说纽约最大的免费餐供应站关停了，因为纽约市政府没钱养了。<br>我最后一次去纽约，是2019年上半年。
+
+### 124: [2022-07-22 21:12:00+08:00 推文](https://twitter.com/HeQinglian/status/1550468706077138950)
+
+Re @shenliangqing2 纽约时报在2020年，发表数百篇文章歌颂拜登，我以前会将这些文章找出来贴在其官推后面，现在懒得贴了。反正人家自己在2016年就承认，为了打击川普，奉行 半个世纪 的新闻原则（事实是唯一的，评论可以自由）要抛弃了。
+
+### 125: [2022-07-22 21:17:51+08:00 推文](https://twitter.com/HeQinglian/status/1550470176273039367)
+
+Re @david_david1968 最强大的辩论武器，就是民主再不好，也强于专制；拜登再烂，也强于普京、习近平。
+
+### 126: [2022-07-22 21:23:07+08:00 推文](https://twitter.com/HeQinglian/status/1550471505431109638)
+
+Re @FangYiDuan1 “欧美这些年就没有几个政治家执政的，更多的是经济学家执政。”——这是你说的。<br>大学都没学过入门的相关知识，从政后更不会学。<br>拜登班子里，多是政治学、国际政治学、社会学、法学出身的。<br>其他国家的我没研究，你去研究一下吧。
 

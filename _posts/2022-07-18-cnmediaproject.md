@@ -83,3 +83,7 @@ Awkwardness yesterday at the 2022 Baidu World Conference, a virtual event jointl
 
 With a 1.2 billion dollar fine, the saga of the CAC investigation against the vehicle-for-hire company Didi came to a close this week. But questions linger over the specifics of the national security case against the company. <a href="https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYQlfNXaQAAKKk9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 18: [2022-07-22 21:43:56+08:00 推文](https://twitter.com/amyyqin/status/1550476744007634945)
+
+RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!<br><br>NYTimes Communications: We’re excited to announce that @CAMcGrady and @amyyqin are joining @nytnational.<br> <a href="https://www.nytco.com/press/national-welcomes-two-new-colleagues/" target="_blank" rel="noopener noreferrer">https://www.nytco.com/press/national-welcomes-two-new-colleagues/</a>
+
