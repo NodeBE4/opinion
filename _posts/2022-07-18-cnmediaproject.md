@@ -71,3 +71,15 @@ A virtual event hosted yesterday by Baidu and CCTV News was meant to showcase "a
 
 Left conspicuously unanswered in accounts of the company's misdeeds by the Cyberspace Administration of China is the exact nature of its alleged national security violations. <a href="https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYP9FUyaQAMZ8fC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 15: [2022-07-22 16:53:52+08:00 推文](https://twitter.com/WilliamYang120/status/1550403743333888001)
+
+RT William Yang<br>"Workers at test centers in northeastern #China have been striking over unpaid wages in a nationwide COVID-19 testing industry that has expanded far beyond its sources of funding." <a href="https://www.rfa.org/english/news/china/covid-test-workers-07212022130753.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/english/news/china/covid-test-workers-07212022130753.html</a>
+
+### 16: [2022-07-22 16:57:19+08:00 推文](https://twitter.com/cnmediaproject/status/1550404612746014720)
+
+Awkwardness yesterday at the 2022 Baidu World Conference, a virtual event jointly organized by the Chinese technology giant and the official CCTV News, as Baidu’s dedicated live video channel for the event on WeChat was cut off early in the broadcast. <a href="https://bit.ly/3RVps9d" target="_blank" rel="noopener noreferrer">https://bit.ly/3RVps9d</a><br><img style="" src="https://pbs.twimg.com/media/FYQkwa8aAAAg75I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-07-22 17:00:46+08:00 推文](https://twitter.com/cnmediaproject/status/1550405482229436416)
+
+With a 1.2 billion dollar fine, the saga of the CAC investigation against the vehicle-for-hire company Didi came to a close this week. But questions linger over the specifics of the national security case against the company. <a href="https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYQlfNXaQAAKKk9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
