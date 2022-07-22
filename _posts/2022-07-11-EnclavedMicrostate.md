@@ -193,3 +193,11 @@ Ah, no worries then.
 
 Not specified yet, although the Japanese dub doesn't release for another month.
 
+----- __611.8__ -----2022-07-22 20:39:53+08:00:
+
+So, the fascinating thing is that these seasons were weak by the standards set by later TNG. But they weren't *so* bad (for the time they were made at least) that the show wasn't able to survive to its massive S3-onward upswing. It sounds weird but by the time TNG hit its third season it was arguably a pretty 'established' show.
+
+----- __611.9__ -----2022-07-22 21:07:49+08:00:
+
+Gene Roddenberry is Star Trek's George Lucas, in more ways than one.
+

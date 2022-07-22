@@ -141,6 +141,10 @@ I mean Nijisanji has straight up had a CN branch for years. NijiEN's fanbase on 
 
 Update: it's not; that's coming in December (whatever it is).
 
+----- __616.19__ -----2022-07-22 19:58:44+08:00:
+
+Hololive has come to accept that all its 5-member generations are going to lose one member and are pre-empting it in the lore material for Tempus.
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
@@ -327,23 +331,45 @@ Obviously, she wouldn't have been able to do any collab originals where the coll
 
 Going by colloquial definitions of the two polities, 'Korea' and 'China' have a shared history stretching back many centuries, and it would be difficult to cover it all in a single post. While other posts may be able to clarify other periods, I discuss relations between the Joseon kingdom in Korea and the Qing Empire in China in [this answer](https://www.reddit.com/r/AskHistorians/comments/uqvht2/why_do_some_chinese_claim_korea_to_be_part_of/i932sjt/).
 
-### 628: [In terms of percentages and scale, how does the current spike in fuel costs compare to the 70s energy crisis?](https://old.reddit.com/r/AskHistorians/comments/w4vx35/in_terms_of_percentages_and_scale_how_does_the/), submitted on 2022-07-22 08:05:16+08:00.
+### 628: [[Music / Engineering] - Martin Vs. The Marble Machine X: The Greatest Music Box, that never worked](https://old.reddit.com/r/HobbyDrama/comments/w4sh7v/music_engineering_martin_vs_the_marble_machine_x/), submitted on 2022-07-22 05:35:08+08:00.
 
------ __628.1__ -----2022-07-22 14:28:24+08:00:
+----- __628.1__ -----2022-07-22 20:23:58+08:00:
+
+Oh my god, you scooped me! I've been sitting on a half-started writeup for months! Hats off to you, sir. That said, I feel like I need to issue a correction or two:
+
+> About a year later, in January of 2017 Martin moved to a studio in France, and posted his first video showcasing his plans for a new marble machine - called the Marble Machine X (or MMX), a robust, reliable machine which he could take on a world tour.
+
+Martin actually operated out of two workshops in Sweden for the majority of 2017, before moving to France in November.
+
+er
+
+That's it. Well done.
+
+----- __628.2__ -----2022-07-22 20:29:03+08:00:
+
+That was the DAO bit – DAOs are essentially blockchain-based project management systems, of sorts.
+
+----- __628.3__ -----2022-07-22 20:37:51+08:00:
+
+I'm still technically on the Discord but never really followed it; if I had I feel like I'd have given up on the project far sooner. As it was, like you it was once he started obsessing over Elon Musk that I realised it was time to let go.
+
+### 629: [In terms of percentages and scale, how does the current spike in fuel costs compare to the 70s energy crisis?](https://old.reddit.com/r/AskHistorians/comments/w4vx35/in_terms_of_percentages_and_scale_how_does_the/), submitted on 2022-07-22 08:05:16+08:00.
+
+----- __629.1__ -----2022-07-22 14:28:24+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 629: [What state achieved the highest share of world GDP at their time?](https://old.reddit.com/r/AskHistorians/comments/w4vz9h/what_state_achieved_the_highest_share_of_world/), submitted on 2022-07-22 08:08:01+08:00.
+### 630: [What state achieved the highest share of world GDP at their time?](https://old.reddit.com/r/AskHistorians/comments/w4vz9h/what_state_achieved_the_highest_share_of_world/), submitted on 2022-07-22 08:08:01+08:00.
 
------ __629.1__ -----2022-07-22 14:28:29+08:00:
+----- __630.1__ -----2022-07-22 14:28:29+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 630: [Are early Christians in Rome and Spanish Inquisitors the same civilizations?](https://old.reddit.com/r/AskHistorians/comments/w50fsy/are_early_christians_in_rome_and_spanish/), submitted on 2022-07-22 11:44:17+08:00.
+### 631: [Are early Christians in Rome and Spanish Inquisitors the same civilizations?](https://old.reddit.com/r/AskHistorians/comments/w50fsy/are_early_christians_in_rome_and_spanish/), submitted on 2022-07-22 11:44:17+08:00.
 
------ __630.1__ -----2022-07-22 14:28:44+08:00:
+----- __631.1__ -----2022-07-22 14:28:44+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -351,17 +377,17 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 631: [If we went back in time and played a standard 4/4 funk beat for people, would they be able to dance to, or even understand it?](https://old.reddit.com/r/AskHistorians/comments/w50ikr/if_we_went_back_in_time_and_played_a_standard_44/), submitted on 2022-07-22 11:48:19+08:00.
+### 632: [If we went back in time and played a standard 4/4 funk beat for people, would they be able to dance to, or even understand it?](https://old.reddit.com/r/AskHistorians/comments/w50ikr/if_we_went_back_in_time_and_played_a_standard_44/), submitted on 2022-07-22 11:48:19+08:00.
 
------ __631.1__ -----2022-07-22 14:29:12+08:00:
+----- __632.1__ -----2022-07-22 14:29:12+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 632: [What were expected tank vs tank combat ranges of the late Cold War era (1980-1991)? For both NATO and the Soviet bloc?](https://old.reddit.com/r/AskHistorians/comments/w50svq/what_were_expected_tank_vs_tank_combat_ranges_of/), submitted on 2022-07-22 12:02:59+08:00.
+### 633: [What were expected tank vs tank combat ranges of the late Cold War era (1980-1991)? For both NATO and the Soviet bloc?](https://old.reddit.com/r/AskHistorians/comments/w50svq/what_were_expected_tank_vs_tank_combat_ranges_of/), submitted on 2022-07-22 12:02:59+08:00.
 
------ __632.1__ -----2022-07-22 14:29:21+08:00:
+----- __633.1__ -----2022-07-22 14:29:21+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -369,9 +395,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 633: [How were the denominations of coins decided?](https://old.reddit.com/r/AskHistorians/comments/w51hzb/how_were_the_denominations_of_coins_decided/), submitted on 2022-07-22 12:40:48+08:00.
+### 634: [How were the denominations of coins decided?](https://old.reddit.com/r/AskHistorians/comments/w51hzb/how_were_the_denominations_of_coins_decided/), submitted on 2022-07-22 12:40:48+08:00.
 
------ __633.1__ -----2022-07-22 14:29:46+08:00:
+----- __634.1__ -----2022-07-22 14:29:46+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
