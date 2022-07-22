@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -309,7 +309,7 @@ Re @cskun1989 @520CHINA025 胡温时期过去不久，许多时政分析的文�
 
 ### 74: [2022-07-21 08:49:14+08:00 推文](https://twitter.com/HeQinglian/status/1549919395035635713)
 
-萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。
+萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。<br><br>He Qinglian: 马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br> <a href="https://twitter.com/RFI_Cn/status/1549862099291033602" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1549862099291033602</a>
 
 ### 75: [2022-07-21 09:26:35+08:00 推文](https://twitter.com/HeQinglian/status/1549928793149677569)
 
@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -519,15 +519,39 @@ Re @david_david1968 最强大的辩论武器，就是民主再不好，也强于
 
 Re @FangYiDuan1 “欧美这些年就没有几个政治家执政的，更多的是经济学家执政。”——这是你说的。<br>大学都没学过入门的相关知识，从政后更不会学。<br>拜登班子里，多是政治学、国际政治学、社会学、法学出身的。<br>其他国家的我没研究，你去研究一下吧。
 
-### 127: [2022-07-23 01:02:24+08:00 推文](https://twitter.com/HeQinglian/status/1550526688752287744)
+### 127: [2022-07-22 23:48:02+08:00 推文](https://twitter.com/SSK2024/status/1550507972853243906)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>川普白宫新冠病毒疫情应对协调员的女博士在“说出一切”的新书中，承认编造事实，以公共安全的名义，捏造事实，更改新冠病毒报告并误导我们。<br>令人惊讶是，这些关于15天和30天内防止传播的数字是随意编造的！<br><br>爆炸：她承认与福奇博士对川普和美国人民撒了谎，他们篡改了报告： <a href="https://mp.weixin.qq.com/s/faZd-JsuqiOEoM6CG980mQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/faZd-JsuqiOEoM6CG980mQ</a><br><video src="https://video.twimg.com/ext_tw_video/1550507929857658887/pu/vid/1280x720/0Eu1sSXNDzaT0ACo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1550507929857658887/pu/img/Y215Ksq8b_O_u6oV.jpg"></video>
+
+### 128: [2022-07-23 01:02:24+08:00 推文](https://twitter.com/HeQinglian/status/1550526688752287744)
 
 Re @Tifas1999 @enoughtalk4 @david_david1968 本推你能看出这点，服了。
 
-### 128: [2022-07-23 01:13:13+08:00 推文](https://twitter.com/HeQinglian/status/1550529409127706624)
+### 129: [2022-07-23 01:13:13+08:00 推文](https://twitter.com/HeQinglian/status/1550529409127706624)
 
 Re @JianglinLi @zhixiangziyou @david_david1968 想避开今后两天的 酷热，今天上午买菜，正好遇上大巴送来的三车中国老人（福利中心的）。这些人都是子女办移民手续时承诺赡养，然后丢给美国政府的。买时都拿食物券，并声明自己没现金。结算花时极多，因为不想浪费一美分。<br>金门超市原来声明不接受食物券，可能受到投诉，只好改了章程。
 
-### 129: [2022-07-23 01:19:24+08:00 推文](https://twitter.com/HeQinglian/status/1550530966111850497)
+### 130: [2022-07-23 01:19:24+08:00 推文](https://twitter.com/HeQinglian/status/1550530966111850497)
 
 Re @JianglinLi @zhixiangziyou @david_david1968 这一天快来了。没听说一办了几十年的免费食物发放中心关停了？非移供养费也快没了？<br>新州警察接到命令，全员出动查交通违规，重罚违规者还加收费用——中国公安系统以前这样做过，被骂为中共暴政。
+
+### 131: [2022-07-23 04:41:31+08:00 推文](https://twitter.com/HeQinglian/status/1550581831019405322)
+
+Re @princeton_walk @JianglinLi @zhixiangziyou @david_david1968 那倒不会，就一些食物，易腐之物。<br>儿孙们什么时候来看他们？
+
+### 132: [2022-07-23 04:50:10+08:00 推文](https://twitter.com/HeQinglian/status/1550584005686345728)
+
+Re @SSK2024 拜登政府这幢房子屋顶漏雨，四面墙倒塌，也就剩几根柱子支撑了：民主党的国会议员与30%的死忠粉、CNN/New York times等主流媒体、共和党的RINO、比尔盖茨等科技网络巨富。
+
+### 133: [2022-07-23 05:12:34+08:00 推文](https://twitter.com/HeQinglian/status/1550589644294832129)
+
+今天发生两件事情，意味着拜登政府外交失败：<br>南美共同市场拒绝了乌克兰总统Zelenskiy 本周在巴拉圭举行的南美贸易集团峰会（阿根廷、巴西、巴拉圭和乌拉圭）上发表讲话的请求，这是对这位战时领导人的罕见冷落。<br><br>6月上旬，拜登刚在洛杉矶举办拉美峰会，好些国家拒绝到会。 <a href="https://www.bloomberg.com/news/articles/2022-07-21/mercosur-declines-zelenskiy-request-to-address-bloc-s-summit" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-21/mercosur-declines-zelenskiy-request-to-address-bloc-s-summit</a>
+
+### 134: [2022-07-23 05:15:08+08:00 推文](https://twitter.com/HeQinglian/status/1550590292574851073)
+
+Re 中国在贸易战中秘密战胜澳大利亚<br>一艘澳铁矿石船上周停靠在山东日照港，中国以人民币支付了澳铁矿石（到岸价）。巴西的铁矿石公司淡水河谷及秘鲁此前也采取同样的支付方式<br>专家评说：这将结束美元主导全球大宗商品的历史。<br>——哈里斯刚表态年援助南太平洋国家6000万美元共十年 <a href="https://www.news.com.au/finance/business/mining/chinas-secret-victory-against-australia-in-trade-war/news-story/3c9a1c37586043364ebe209e8d4f31fb" target="_blank" rel="noopener noreferrer">https://www.news.com.au/finance/business/mining/chinas-secret-victory-against-australia-in-trade-war/news-story/3c9a1c37586043364ebe209e8d4f31fb</a>
+
+### 135: [2022-07-23 05:27:23+08:00 推文](https://twitter.com/HeQinglian/status/1550593372611543043)
+
+Re @Vince6610 @JianglinLi 群婚制的实行就在那里。几乎多是麻民。<br>BLM倒不是产自那地儿。
 
