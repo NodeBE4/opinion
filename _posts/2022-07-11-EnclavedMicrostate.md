@@ -201,3 +201,7 @@ So, the fascinating thing is that these seasons were weak by the standards set b
 
 Gene Roddenberry is Star Trek's George Lucas, in more ways than one.
 
+----- __611.10__ -----2022-07-22 21:15:02+08:00:
+
+I assume it's derived from the Japanese pronunciation, where 'oo' and 'ou' are essentially the same sound (ō) rendered differently. It's similar to the 'o' in 'more' when spoken with a British accent.
+
