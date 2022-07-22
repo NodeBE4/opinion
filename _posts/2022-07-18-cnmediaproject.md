@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-22
+date: 2022-07-23
 from: https://twitter.com/cnmediaproject/status/1548954002972614656
 layout: post
 tags:
@@ -85,5 +85,9 @@ With a 1.2 billion dollar fine, the saga of the CAC investigation against the ve
 
 ### 18: [2022-07-22 21:43:56+08:00 推文](https://twitter.com/amyyqin/status/1550476744007634945)
 
-RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!
+RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!<br><br>NYTimes Communications: We’re excited to announce that @CAMcGrady and @amyyqin are joining @nytnational.<br> <a href="https://www.nytco.com/press/national-welcomes-two-new-colleagues/" target="_blank" rel="noopener noreferrer">https://www.nytco.com/press/national-welcomes-two-new-colleagues/</a>
+
+### 19: [2022-07-23 07:21:26+08:00 推文](https://twitter.com/ruima/status/1550622075408113664)
+
+RT Rui Ma 马睿<br>The nature of $Didi's data violations is "extremely bad," according to regulators. I am personally mystified why the app was collecting screenshots in users' photo albums, and family relationship information. In all, 64 billion pieces of personal info were illegally processed. 🙀
 
