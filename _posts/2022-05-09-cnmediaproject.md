@@ -77,7 +77,7 @@ RT Don Weinland<br>The Shanghai lockdown has forced thousands of people to liv
 
 ### 16: [2022-05-12 18:57:48+08:00 推文](https://twitter.com/TMK_TinaManiK/status/1524705394051878912)
 
-RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown<br><br>Shanghai Daily: Over 500 pigeons living in central Shanghai's People's Square are an attraction to both residents and tourists in the city – but how are they faring during the pandemic? #COVID19<br><br><video src="https://video.twimg.com/amplify_video/1524661904525901824/vid/1280x720/0VFtFbE9nzaDLtgp.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1524661904525901824/img/9TUGmCBuG5Ts9ipQ.jpg"></video> <a href="https://www.shine.cn/news/metro/2205125499/" target="_blank" rel="noopener noreferrer">https://www.shine.cn/news/metro/2205125499/</a>
+RT Tina Kanagaratnam<br>Pigeons? We’re bragging about pigeons being fed during the pandemic? People, delivery drivers, neh? #shanghailockdown
 
 ### 17: [2022-05-13 11:39:08+08:00 推文](https://twitter.com/cnmediaproject/status/1524957389832990720)
 
@@ -157,7 +157,7 @@ Re When XJP reaches the section summing up the history of the CCP, he neatly out
 
 ### 36: [2022-05-14 16:13:00+08:00 推文](https://twitter.com/niccijsmith/status/1525388695720714240)
 
-RT Nicola Smith<br>The definition of futility<br><br>Arnauld Miguet: Only in #China #airport #Covid19 @francetvchine<br><br><video src="https://video.twimg.com/ext_tw_video/1525337709320892416/pu/vid/264x480/Lb0UOqjF-QuXFw4H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525337709320892416/pu/img/hYm9G7RK4H1LY8Bx.jpg"></video>
+RT Nicola Smith<br>The definition of futility
 
 ### 37: [2022-05-15 08:29:36+08:00 推文](https://twitter.com/cnmediaproject/status/1525634465279938560)
 
@@ -173,5 +173,5 @@ RT William Yang<br>Important story from @hkfp: "The list of closed platforms a
 
 ### 40: [2022-05-15 18:44:54+08:00 推文](https://twitter.com/puzhiqiang/status/1525789313195053056)
 
-RT 浦志强<br>胡德华人好，风趣幽默一针见血。2014年2月在《炎黄春秋》团拜会上，他的讲话反响很好，但让有心人不舒服。我记得他说，他没啥学问，没咋读书，他妹妹那拨儿就更完了，文革开始才十二三岁，学校课不上了，也没书可读。我们边听边乐边鼓掌。后来我出事了，请他当社长的《炎黄春秋》，最终还是被抢了。<br><br>【批判邪惡⇔捍衛真理】: 胡耀邦儿子谈胡耀邦与邓小平的区别：<br>邓小平是为党，胡耀邦是为民。现在，习近平也是为党！<br><br><video src="https://video.twimg.com/ext_tw_video/1525531028546195457/pu/vid/432x240/2TGDc2WrDPOcM6Hl.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1525531028546195457/pu/img/zWN45tjSECCIoL_d.jpg"></video>
+RT 浦志强<br>胡德华人好，风趣幽默一针见血。2014年2月在《炎黄春秋》团拜会上，他的讲话反响很好，但让有心人不舒服。我记得他说，他没啥学问，没咋读书，他妹妹那拨儿就更完了，文革开始才十二三岁，学校课不上了，也没书可读。我们边听边乐边鼓掌。后来我出事了，请他当社长的《炎黄春秋》，最终还是被抢了。
 
