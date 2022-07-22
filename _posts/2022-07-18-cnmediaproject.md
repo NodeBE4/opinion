@@ -67,3 +67,7 @@ This month China announced its preliminary selections for the China Press Awards
 
 A virtual event hosted yesterday by Baidu and CCTV News was meant to showcase "avant-garde" AI applications. But the tech giant's live video feed for the event was hijacked by old-fashioned regulatory hurdles. <a href="https://chinamediaproject.org/2022/07/22/major-glitch-at-virtual-tech-event%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/major-glitch-at-virtual-tech-event%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYPjN5WacAEKz16?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-07-22 14:04:01+08:00 推文](https://twitter.com/cnmediaproject/status/1550360999416705025)
+
+Left conspicuously unanswered in accounts of the company's misdeeds by the Cyberspace Administration of China is the exact nature of its alleged national security violations. <a href="https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYP9FUyaQAMZ8fC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
