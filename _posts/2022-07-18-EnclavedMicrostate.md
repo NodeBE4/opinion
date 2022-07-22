@@ -97,6 +97,46 @@ Might be because Calli's concert didn't include the AR, but did do more visual e
 
 Ah, I'd known about the former but not the latter. That said, who knows at this stage?
 
+----- __616.9__ -----2022-07-22 08:07:45+08:00:
+
+ah fair, I don't use USD on the regular anyway so IDK the Yen exchange rates.
+
+----- __616.10__ -----2022-07-22 08:54:03+08:00:
+
+Head of international development or similar IIRC.
+
+----- __616.11__ -----2022-07-22 08:55:57+08:00:
+
+I've had this with Izzzyzzz and Josh Strife Hayes recently, despite having very little exposure to late 2000s/early 2010s girl-oriented tween media or MMOs, respectively. They're just oddly engaging about their subject matter.
+
+----- __616.12__ -----2022-07-22 08:59:11+08:00:
+
+I said this when the trailer first dropped, but I wonder why some members' names are the wrong way round here.
+
+----- __616.13__ -----2022-07-22 09:03:24+08:00:
+
+Didn't care enough to check, but did care enough to post.
+
+----- __616.14__ -----2022-07-22 09:10:39+08:00:
+
+The announcements at the start said no cheering. By about the midpoint that rule started to be broken. By the end it seemed like 'rules? what rules?'
+
+----- __616.15__ -----2022-07-22 09:11:20+08:00:
+
+'Rui' is correct to how it's spelled in katakana, to be fair.
+
+----- __616.16__ -----2022-07-22 09:22:06+08:00:
+
+> Bae with Miori Celesta
+
+I'm honestly (pleasantly) surprised that went ahead, not because Miori is particularly controversial but more because of Bae's past funnily enough.
+
+----- __616.17__ -----2022-07-22 09:27:39+08:00:
+
+> Nijisanji's chinese fanbase only became a thing after the guys debuted.
+
+I mean Nijisanji has straight up had a CN branch for years. NijiEN's fanbase on the other hand, that's a different story.
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
@@ -188,6 +228,94 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 > 
 
 Correction, she sang 18 and then did a 6-song encore section.
+
+----- __626.2__ -----2022-07-22 08:41:20+08:00:
+
+When I last counted in late April she had 34 original songs, but you've made me count again because that was a while ago and now I may as well post her entire orisong list somewhere for reference. Now, the Virtual Youtuber Wiki lists the following 20:
+
+* RIP
+* ReaperかRapper? 自己紹介ラップ
+* Dead Beats
+* Live Again
+* Cursed Night
+* Off with their Heads
+* Ibasho
+* Red
+* Grim Reaper is a Live Streamer
+* Bully
+* Guh
+* Dawn Blue
+* End of a Life
+* UnAlive
+* Dead on Arrival
+* Lose-Lose Days
+* Huge W
+* Resting Power
+* Scuffed Up Age
+* Ouroboros
+
+However, that doesn't include collab originals, the C-Man EP, or her new 6-song EP. If we *do* include those then we add:
+
+* Spiral Tones (With Rikka)
+* Cloudy Sheep (With Watame)
+* Myth or Treat (Myth)
+* Crown (With Boogey Voxx)
+* Graveyard Shift (With Boogey Voxx)
+* Yona Yona Journey (With Taku Inoue)
+* Q (With Gura)
+* Wicked (With Suisei)
+* Journey like a Thousand Years (Myth)
+* CapSule (With Suisei)
+* C-Man 
+* Street Fite (With Hayko)
+* My Reality
+* Money (Hand me the Glock)
+* Mera Mera
+* Villain Vibes (With AmaLee/Monarch)
+* Holy嫉妬
+* Make 'Em Afraid
+* Kamouflage
+* Let's End the World
+
+So that doubles her orisong count from what the list says, with a further 12 collab and 8 solo originals – albeit with C-Man accounting for 1 and 3 of these, respectively. It would honestly be easier to say which orisongs she *didn't* do out of those 40 than the 23 she did do (there was a new orisong with Watame). Doing some quick back-of-the-envelope maths, of her 40 total songs, it would have been *possible* to do 29 (28 solo + 1 with Gura + 2 with Suisei + 1 with Watame - 3 done as C-Man) as part of this particular concert.
+
+Speaking of, if you do want a setlist read on and see below:
+
+1. Guh
+2. Holy嫉妬
+3. Kamouflage
+4. Dead on Arrival
+5. Red
+6. Q (w. Gura)
+7. Grim Reaper is a Live-Streamer
+8. CapSule (w. Suisei)
+9. Wicked (w. Suisei)
+10. New Orisong (w. Watame)
+11. Cloudy Sheep (w. Watame)
+12. Bully
+13. UnAlive
+14. Dawn Blue
+15. Lose-Lose Days
+16. Scuffed-Up Age
+17. Live Again
+18. End of a Life
+19. Make 'Em Afraid
+20. Dead Beats
+21. Mera Mera
+22. Huge W
+23. Let's End The World
+24. R.I.P.
+
+Which means the 6 theoretically could done but didn't were:
+
+* ReaperかRapper? 自己紹介ラップ
+* Cursed Night
+* Off with their Heads
+* Ibasho
+* Resting Power
+* Ouroboros
+
+Obviously, she wouldn't have been able to do any collab originals where the collab partner wasn't there, and was supremely unlikely to do any of the C-Man releases as part of her set.
 
 ### 627: [what was the relationship between Korea and China in the past?](https://old.reddit.com/r/AskHistorians/comments/w4j4m9/what_was_the_relationship_between_korea_and_china/), submitted on 2022-07-21 23:11:53+08:00.
 
