@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-22
+date: 2022-07-23
 from: https://twitter.com/HeQinglian/status/1548756798932393985
 layout: post
 tags:
@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -518,4 +518,16 @@ Re @david_david1968 最强大的辩论武器，就是民主再不好，也强于
 ### 126: [2022-07-22 21:23:07+08:00 推文](https://twitter.com/HeQinglian/status/1550471505431109638)
 
 Re @FangYiDuan1 “欧美这些年就没有几个政治家执政的，更多的是经济学家执政。”——这是你说的。<br>大学都没学过入门的相关知识，从政后更不会学。<br>拜登班子里，多是政治学、国际政治学、社会学、法学出身的。<br>其他国家的我没研究，你去研究一下吧。
+
+### 127: [2022-07-23 01:02:24+08:00 推文](https://twitter.com/HeQinglian/status/1550526688752287744)
+
+Re @Tifas1999 @enoughtalk4 @david_david1968 本推你能看出这点，服了。
+
+### 128: [2022-07-23 01:13:13+08:00 推文](https://twitter.com/HeQinglian/status/1550529409127706624)
+
+Re @JianglinLi @zhixiangziyou @david_david1968 想避开今后两天的 酷热，今天上午买菜，正好遇上大巴送来的三车中国老人（福利中心的）。这些人都是子女办移民手续时承诺赡养，然后丢给美国政府的。买时都拿食物券，并声明自己没现金。结算花时极多，因为不想浪费一美分。<br>金门超市原来声明不接受食物券，可能受到投诉，只好改了章程。
+
+### 129: [2022-07-23 01:19:24+08:00 推文](https://twitter.com/HeQinglian/status/1550530966111850497)
+
+Re @JianglinLi @zhixiangziyou @david_david1968 这一天快来了。没听说一办了几十年的免费食物发放中心关停了？非移供养费也快没了？<br>新州警察接到命令，全员出动查交通违规，重罚违规者还加收费用——中国公安系统以前这样做过，被骂为中共暴政。
 

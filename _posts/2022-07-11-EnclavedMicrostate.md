@@ -205,3 +205,7 @@ Gene Roddenberry is Star Trek's George Lucas, in more ways than one.
 
 I assume it's derived from the Japanese pronunciation, where 'oo' and 'ou' are essentially the same sound (ō) rendered differently. It's similar to the 'o' in 'more' when spoken with a British accent.
 
+----- __611.11__ -----2022-07-23 02:50:09+08:00:
+
+Troi was supposed to have three breasts. Allegedly the only reason she didn't was that Jeri Taylor asked where the third one would even go.
+
