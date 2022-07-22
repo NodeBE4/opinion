@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-21
+date: 2022-07-22
 from: https://twitter.com/cnmediaproject/status/1548954002972614656
 layout: post
 tags:
@@ -62,4 +62,8 @@ RT Chenchen Zhang 🤦🏻‍♀️<br>when preparing for moving I found this 
 ### 12: [2022-07-21 19:37:03+08:00 推文](https://twitter.com/cnmediaproject/status/1550082421563232256)
 
 This month China announced its preliminary selections for the China Press Awards, the “highest award for outstanding national journalism.” Under the country's tightly-controlled media system, what exactly amounts to excellence? <a href="https://chinamediaproject.org/2022/07/21/rewarding-compliance%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/21/rewarding-compliance%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYL_vd0acAEJJ6U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-07-22 12:11:11+08:00 推文](https://twitter.com/cnmediaproject/status/1550332604909756416)
+
+A virtual event hosted yesterday by Baidu and CCTV News was meant to showcase "avant-garde" AI applications. But the tech giant's live video feed for the event was hijacked by old-fashioned regulatory hurdles. <a href="https://chinamediaproject.org/2022/07/22/major-glitch-at-virtual-tech-event%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/major-glitch-at-virtual-tech-event%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYPjN5WacAEKz16?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

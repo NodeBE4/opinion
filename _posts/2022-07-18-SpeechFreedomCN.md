@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-07-20
+date: 2022-07-22
 from: https://twitter.com/SpeechFreedomCN/status/1548836275800637440
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:05:18+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1548836275800637440)
 
-这就叫幸存者偏差。<br>其实从数量来看，被喝茶甚至判刑的“小人物”比知名访民或异议人士多多了，但那些知名人士在被消失前有自己的渠道和影响力告知外界，而普通小民只能默默的消失，外界根本没有机会注意到，所以造成了一种只有知名人物才会被喝茶的假象。<br><br>章工: 普通翻墙键政小民，有必要那么怕喝茶？过度焦虑了。 实际上翻墙的人大把，墙内娱乐明星普遍有Instagram或twitter，没听说被抓。袁腾飞、徐晓冬这些身处匪京常更新youtube，也没喝茶过，普通小民人家晶哥抓你图什么？ 抓也是抓编程随想这种级别的好吗？人家晶哥看得上你吗？你当你是谁？<br>
+这就叫幸存者偏差。<br>其实从数量来看，被喝茶甚至判刑的“小人物”比知名访民或异议人士多多了，但那些知名人士在被消失前有自己的渠道和影响力告知外界，而普通小民只能默默的消失，外界根本没有机会注意到，所以造成了一种只有知名人物才会被喝茶的假象。
 
 ### 2: [2022-07-18 09:54:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1548848529136926725)
 
@@ -42,4 +42,12 @@ Happened in May 2017. A man surnamed Li was detained for 5 days by police for "s
 ### 7: [2022-07-20 10:36:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1549584024112435201)
 
 Two students at @Tsinghua_Uni officially warned by the University for placing pride flags on a desk.<br><img style="" src="https://pbs.twimg.com/media/FYE56e4XoAAoeC1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYE58HwXwAIdiKP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYE5-LwXEAAeWa2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-07-22 11:18:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1550319221262925825)
+
+Hubei dissident Yu Qian detained for 15 days for his Tweets that questioned the legitimacy of local covid lockdown and were critical of the Communist Party of China.<br><img style="" src="https://pbs.twimg.com/media/FYPXBrAX0AAkCzu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXDXSWYAACQeY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXEuGWQAURrpj?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXGaDXwAEumzy?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-07-22 11:19:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1550319492563083266)
+
+湖北省鄂州市异议人士余钱，因在推特发文质疑当地封控措施的合法性以及此前发布的批评中共政权的推文（部分如图所示），被当地公安行政拘留15日。<br><img style="" src="https://pbs.twimg.com/media/FYPXR1WWAAA6auQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXTrdXoAIJXUX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXVDtWAAA-vhv?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXWwdWQAA3HFe?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
