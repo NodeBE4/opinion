@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-07-22
+date: 2022-07-23
 from: https://twitter.com/nathanlawkc/status/1548970801982054400
 layout: post
 tags:
@@ -32,4 +32,8 @@ It’s crucial for Hong Kong activists to continue to speak up against PRC’s h
 ### 4: [2022-07-22 04:59:01+08:00 推文](https://twitter.com/nathanlawkc/status/1550223846539763716)
 
 It occurred three years ago today, 21 Jul 2019, when the Hong Kong police colluded with gangster groups to randomly attack passersby. It's a daunting day for us.<br><br>When a Mob Attacked Protesters in Hong Kong, the Police Walked Away | Vi... <a href="https://youtu.be/fDtM3dEJdHo" target="_blank" rel="noopener noreferrer">https://youtu.be/fDtM3dEJdHo</a>
+
+### 5: [2022-07-23 17:14:00+08:00 推文](https://twitter.com/nathanlawkc/status/1550771199713726464)
+
+This is a dangerous precedence. The PRC has a record of falsifying claims, and the UK authorities should not fall into it. The right to protest against dictators should not be deprived. <br><br>Australian activist Drew Pavlou arrested in London <a href="https://www.theguardian.com/australia-news/2022/jul/23/australian-activist-drew-pavlou-arrested-in-london-but-denies-sending-chinese-embassy-bomb-threat?CMP=share_btn_tw" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/australia-news/2022/jul/23/australian-activist-drew-pavlou-arrested-in-london-but-denies-sending-chinese-embassy-bomb-threat?CMP=share_btn_tw</a>
 

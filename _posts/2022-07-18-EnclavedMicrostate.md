@@ -149,6 +149,10 @@ Hololive has come to accept that all its 5-member generations are going to lose 
 
 I'm not crying you're crying
 
+----- __616.21__ -----2022-07-23 17:27:36+08:00:
+
+She doubled down on aspects of that – albeit not naming names – less than 2 months ago https://www.dexerto.com/entertainment/veibae-full-time-anime-girl-vtubing-self-discovery-1844849/
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
