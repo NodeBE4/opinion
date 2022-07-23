@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-23
+date: 2022-07-24
 from: https://twitter.com/HeQinglian/status/1548756798932393985
 layout: post
 tags:
@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -682,4 +682,12 @@ Re @realJackLaw @sWnmBsklqSRKOw1 你忽略了一点：年纪大的会成熟，�
 ### 167: [2022-07-23 23:42:02+08:00 推文](https://twitter.com/HeQinglian/status/1550868849918091267)
 
 Re @O43DGSy2NA4BdKf @princeton_walk 贺是否会同时辞职，得看她最近是否得病或丑闻再现。你说的两种可能性完全存在，就看哪种更方便。总之，现在小拜登卖战储油给中石化、乌生化室、税务被查突然被主媒不断曝光，南希丈夫内幕股市交易的事情曝光，都是民主党内部潜流。<br>纽森、希拉里、伊州州长最近先后表明要竞选2024，可作为参考动向。
+
+### 168: [2022-07-23 23:44:05+08:00 推文](https://twitter.com/HeQinglian/status/1550869365062508545)
+
+Re @sWnmBsklqSRKOw1 @realJackLaw 你又弄错了，现在是军队、政府公职中优先提拔这种人，就学录取优先，破坏了按才能与贡献升职的规定。然后这类人将私人卧室的性行为弄到大街上展示。<br>你如果不服气我所陈述的事实，我也不会再回你了。白费时间。
+
+### 169: [2022-07-24 02:41:28+08:00 推文](https://twitter.com/HeQinglian/status/1550914005652348928)
+
+Re @HesserPlato @RFI_Cn 数年前，不但看过，还写过影评。<br>那时他还没当上总统。<br>希望你梦想成真，长伴你的泽大哥身边，扮演一个角色。尤其要在谈判桌前有个角色。<br>有那一天，在推特上广而告之。
 
