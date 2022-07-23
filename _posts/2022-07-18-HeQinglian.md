@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -690,4 +690,32 @@ Re @sWnmBsklqSRKOw1 @realJackLaw 你又弄错了，现在是军队、政府公�
 ### 169: [2022-07-24 02:41:28+08:00 推文](https://twitter.com/HeQinglian/status/1550914005652348928)
 
 Re @HesserPlato @RFI_Cn 数年前，不但看过，还写过影评。<br>那时他还没当上总统。<br>希望你梦想成真，长伴你的泽大哥身边，扮演一个角色。尤其要在谈判桌前有个角色。<br>有那一天，在推特上广而告之。
+
+### 170: [2022-07-24 02:53:14+08:00 推文](https://twitter.com/HeQinglian/status/1550916966172573697)
+
+Re @gaiyuyin 艾滋病2.0版本。
+
+### 171: [2022-07-24 03:12:04+08:00 推文](https://twitter.com/HeQinglian/status/1550921707044601856)
+
+全世界都应该关注的动向：<br>最近大半个月以来，小拜登卖战略储备油给中石化、在乌拥有生化室、税务被查突然被主媒不断曝光；<br>南希丈夫内幕股市交易的事情曝光，都是民主党内部潜流。<br>纽森（南侄）、希拉里、伊州州长（BLM与极左支持者）最近先后表明要竞选2024。<br>贺此时丑闻是否曝光，是下一步的风向。<br><br>华尔街日报中文网: #本周热读 公开披露的财务信息显示，美国众议院议长南希·佩洛西的丈夫购买了最多达价值500万美元的英伟达股票。这发生在半导体制造业法案投票前。<br> <a href="https://bit.ly/3RMu3dE" target="_blank" rel="noopener noreferrer">https://bit.ly/3RMu3dE</a>
+
+### 172: [2022-07-24 03:15:13+08:00 推文](https://twitter.com/HeQinglian/status/1550922499080200192)
+
+Re @hfgang @VOAChinese @Joewei2019 退休前在世界日报供职，退了很久。新近上推吧？
+
+### 173: [2022-07-24 03:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1550927158851375105)
+
+中国真的愿意改善与澳大利亚的关系吗？<br><br>从文章内容来看，美欧真的很在意澳中关系的动向。<br>澳大利亚近年尝到单独应对中国打压的烦恼，资源国地位帮了它；中国现在要对付美国，还需要南太平洋岛国的友善。<br>因此，标题如果改为“中国愿意暂时改善与澳的关系吗？”就很符合现实了。<br><br>He Qinglian: 中国在贸易战中秘密战胜澳大利亚<br>一艘澳铁矿石船上周停靠在山东日照港，中国以人民币支付了澳铁矿石（到岸价）。巴西的铁矿石公司淡水河谷及秘鲁此前也采取同样的支付方式<br>专家评说：这将结束美元主导全球大宗商品的历史。<br>——哈里斯刚表态年援助南太平洋国家6000万美元共十年<br> <a href="https://www.news.com.au/finance/business/mining/chinas-secret-victory-against-australia-in-trade-war/news-story/3c9a1c37586043364ebe209e8d4f31fb" target="_blank" rel="noopener noreferrer">https://www.news.com.au/finance/business/mining/chinas-secret-victory-against-australia-in-trade-war/news-story/3c9a1c37586043364ebe209e8d4f31fb</a>
+
+### 174: [2022-07-24 05:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1550957406598807552)
+
+Re @shanshanhuangy1 是参加。
+
+### 175: [2022-07-24 05:36:10+08:00 推文](https://twitter.com/HeQinglian/status/1550957970074308610)
+
+Re @truthtellerXYZ 文末写明了：本文译自MarketWatch。并非WSJ首发，我前几天就看到了，只因这是中文，便于中文推主阅读。
+
+### 176: [2022-07-24 05:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1550958420039290881)
+
+Re @KELMAND1 @woshibabadie 千军万马考公务员，千里挑一才能进，原来是进去当蛀虫。😂
 

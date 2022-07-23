@@ -289,7 +289,7 @@ Re @racoonincan 让95%以上的正常人服从于少数人的怪癖，当街裸�
 
 ### 69: [2022-07-06 04:45:37+08:00 推文](https://twitter.com/HeQinglian/status/1544422270776606723)
 
-拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。<br><br>He Qinglian: 美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。<br> <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+拜登政府據報計畫調整特朗普時期的對華關稅，包含三個部分 <br>估计拜登与习近平通话前，会宣布调整关税计划，增加一点“友好气氛”。 <a href="https://rfi.my/8Yh9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8Yh9.T</a>
 
 ### 70: [2022-07-06 08:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1544483350672547841)
 
@@ -697,11 +697,11 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
