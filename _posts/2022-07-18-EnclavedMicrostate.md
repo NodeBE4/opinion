@@ -411,19 +411,25 @@ Apologies, but we have removed your question in its current form as it breaks ou
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 635: [Can someone please help me decode this tattoo? Thank you](https://old.reddit.com/r/Cantonese/comments/w5koc7/can_someone_please_help_me_decode_this_tattoo/), submitted on 2022-07-23 04:35:44+08:00.
+### 635: [Friday Free-for-All | July 22, 2022](https://old.reddit.com/r/AskHistorians/comments/w5a1an/friday_freeforall_july_22_2022/), submitted on 2022-07-22 21:00:11+08:00.
 
------ __635.1__ -----2022-07-23 10:40:53+08:00:
+----- __635.1__ -----2022-07-23 20:12:16+08:00:
+
+Do I know of some? Yes. Would I recommend them? No. With one exception. *China: A New History, Second Enlarged Edition*, originally by the late John Fairbank (completed just before his death in 1991) and amended by Merle Goldman, is about the only broad overview history of China that I would consider reasonably academically solid, and even that has caveats given the relative age of the original manuscript before Goldman's revision and expansion for the second edition (2006). Arguably a more comprehensive and up-to-date overview would require doing a bit more reading with individual specialists in particular periods – my personal recommendation would be a run of seven books, consisting of the *History of Imperial China* series by Mark Edward Lewis, Dieter Kühn, Timothy Brook, and William T. Rowe, followed up with Jonathan Spence's *The Search for Modern China* (specifically the 2012 third edition), or Pamela Crossley's *The Wobbling Pivot: China Since 1800, An Interpretive History*.
+
+### 636: [Can someone please help me decode this tattoo? Thank you](https://old.reddit.com/r/Cantonese/comments/w5koc7/can_someone_please_help_me_decode_this_tattoo/), submitted on 2022-07-23 04:35:44+08:00.
+
+----- __636.1__ -----2022-07-23 10:40:53+08:00:
 
 I mean, Chinese is a broad language family rather than a specific language. To be specific for OP (/u/megmeh), it is a written phrase which is agreed to be the UN in all Chinese languages.
 
------ __635.2__ -----2022-07-23 11:00:50+08:00:
+----- __636.2__ -----2022-07-23 11:00:50+08:00:
 
 You realise that 'Chinese' encompasses multiple mutually unintelligible languages, right? Complexity will be inherent to such a situation, and I could just as much accuse you of oversimplifying (and rightly so, I would think).
 
-### 636: [Is there an overlap between the ideology of Manifest Destiny and Zionist settler colonialism in Israel and has American influence throughout the 19th and 20th centuries emboldened or developed Zionist pushes for settler colonialism?](https://old.reddit.com/r/AskHistorians/comments/w5wn1o/is_there_an_overlap_between_the_ideology_of/), submitted on 2022-07-23 14:08:09+08:00.
+### 637: [Is there an overlap between the ideology of Manifest Destiny and Zionist settler colonialism in Israel and has American influence throughout the 19th and 20th centuries emboldened or developed Zionist pushes for settler colonialism?](https://old.reddit.com/r/AskHistorians/comments/w5wn1o/is_there_an_overlap_between_the_ideology_of/), submitted on 2022-07-23 14:08:09+08:00.
 
------ __636.1__ -----2022-07-23 15:09:12+08:00:
+----- __637.1__ -----2022-07-23 15:09:12+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 

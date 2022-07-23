@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -598,4 +598,20 @@ Re @evaqiao2017 @RFI_Cn 😂😂
 ### 146: [2022-07-23 10:53:07+08:00 推文](https://twitter.com/HeQinglian/status/1550675348823621632)
 
 Re @eyyvmngj @Tepezano161 @RFI_Cn 我怎么听到的台湾人说法完全不一样呢？<br>我听到的说法是：<br>台湾人大多数不想台湾成为乌克兰；<br>台湾人知道拜登靠不住，台湾人也不在意美国内部发生什么，就在意谁对我们台湾好。
+
+### 147: [2022-07-23 20:33:20+08:00 推文](https://twitter.com/HeQinglian/status/1550821365032304640)
+
+Re @FightForJiuCai 👍<br>看法相同。
+
+### 148: [2022-07-23 20:34:14+08:00 推文](https://twitter.com/HeQinglian/status/1550821588588691456)
+
+Re @TCET0XgI9Uihm08 你是心灵丑陋，灵魂肮脏。
+
+### 149: [2022-07-23 20:41:01+08:00 推文](https://twitter.com/HeQinglian/status/1550823296744280064)
+
+Re @diverpassby 确实如此，我只能原文引用——万一他本来讲得就语无伦次呢？
+
+### 150: [2022-07-23 20:52:11+08:00 推文](https://twitter.com/HeQinglian/status/1550826107120787456)
+
+Re @mingshi_chen 完全不是掀翻美元霸权地位，只是从国际结算、储备货币当中分一杯羹，哪怕一个点的增长，对美元霸权也是挑战——如果你研究布雷顿森林体系之后的国际货币演进史，了解这个体系瓦解之后IMF出世的原因。
 
