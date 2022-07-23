@@ -145,6 +145,10 @@ Update: it's not; that's coming in December (whatever it is).
 
 Hololive has come to accept that all its 5-member generations are going to lose one member and are pre-empting it in the lore material for Tempus.
 
+----- __616.20__ -----2022-07-23 15:11:59+08:00:
+
+I'm not crying you're crying
+
 ### 617: [Anyone know anything about White City in Saint Lucie County, Fla?](https://old.reddit.com/r/AskHistorians/comments/w37xz2/anyone_know_anything_about_white_city_in_saint/), submitted on 2022-07-20 08:18:27+08:00.
 
 ----- __617.1__ -----2022-07-20 09:25:54+08:00:
@@ -412,4 +416,10 @@ I mean, Chinese is a broad language family rather than a specific language. To b
 ----- __635.2__ -----2022-07-23 11:00:50+08:00:
 
 You realise that 'Chinese' encompasses multiple mutually unintelligible languages, right? Complexity will be inherent to such a situation, and I could just as much accuse you of oversimplifying (and rightly so, I would think).
+
+### 636: [Is there an overlap between the ideology of Manifest Destiny and Zionist settler colonialism in Israel and has American influence throughout the 19th and 20th centuries emboldened or developed Zionist pushes for settler colonialism?](https://old.reddit.com/r/AskHistorians/comments/w5wn1o/is_there_an_overlap_between_the_ideology_of/), submitted on 2022-07-23 14:08:09+08:00.
+
+----- __636.1__ -----2022-07-23 15:09:12+08:00:
+
+This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
