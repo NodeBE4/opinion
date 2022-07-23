@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-07-22
+date: 2022-07-23
 from: https://old.reddit.com/r/AskHistorians/comments/w1q1ps/historically_what_types_of_activities_or/
 layout: post
 tags:
@@ -402,4 +402,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
+
+### 635: [Can someone please help me decode this tattoo? Thank you](https://old.reddit.com/r/Cantonese/comments/w5koc7/can_someone_please_help_me_decode_this_tattoo/), submitted on 2022-07-23 04:35:44+08:00.
+
+----- __635.1__ -----2022-07-23 10:40:53+08:00:
+
+I mean, Chinese is a broad language family rather than a specific language. To be specific for OP (/u/megmeh), it is a written phrase which is agreed to be the UN in all Chinese languages.
 
