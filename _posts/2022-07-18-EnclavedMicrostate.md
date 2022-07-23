@@ -409,3 +409,7 @@ So for example, if you wanted to ask, "*Have people always rebelled against heal
 
 I mean, Chinese is a broad language family rather than a specific language. To be specific for OP (/u/megmeh), it is a written phrase which is agreed to be the UN in all Chinese languages.
 
+----- __635.2__ -----2022-07-23 11:00:50+08:00:
+
+You realise that 'Chinese' encompasses multiple mutually unintelligible languages, right? Complexity will be inherent to such a situation, and I could just as much accuse you of oversimplifying (and rightly so, I would think).
+
