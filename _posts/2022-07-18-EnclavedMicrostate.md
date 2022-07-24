@@ -451,3 +451,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 640: [Hololive Clips Analysis from Holodex (July 2022)](https://old.reddit.com/r/Hololive/comments/w6mm1z/hololive_clips_analysis_from_holodex_july_2022/), submitted on 2022-07-24 12:03:29+08:00.
+
+----- __640.1__ -----2022-07-24 13:34:07+08:00:
+
+Just want to point out a quick error on chart 3: VSPO is listed as having 23% of Traditional Chinese subs, when it should be closer to 1.5% given the number shown.
+
