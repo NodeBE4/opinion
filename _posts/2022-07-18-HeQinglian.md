@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -309,7 +309,7 @@ Re @cskun1989 @520CHINA025 胡温时期过去不久，许多时政分析的文�
 
 ### 74: [2022-07-21 08:49:14+08:00 推文](https://twitter.com/HeQinglian/status/1549919395035635713)
 
-萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。<br><br>He Qinglian: 马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br> <a href="https://twitter.com/RFI_Cn/status/1549862099291033602" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1549862099291033602</a>
+萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。
 
 ### 75: [2022-07-21 09:26:35+08:00 推文](https://twitter.com/HeQinglian/status/1549928793149677569)
 
@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -481,7 +481,7 @@ RT 北明BeiMing<br>美國前駐蘇大使：蓄意促成的烏克蘭危機<br>
 
 ### 117: [2022-07-22 20:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1550458605211631618)
 
-战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。
+战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。<br><br>北明BeiMing: 美國前駐蘇大使：蓄意促成的烏克蘭危機<br><br>編者按：文章雖發表在戰爭爆發前，卻準確地預測和分析了戰爭的必然性以及導致戰爭的諸多因素，特別對美國長期以來針對俄羅斯的外交政策進行了深刻而犀利的反思，並透露出一些重大的珍貴史實，值得一讀。<br> <a href="http://taiwanus.net/news/news/2022/202207201549431364.htm" target="_blank" rel="noopener noreferrer">http://taiwanus.net/news/news/2022/202207201549431364.htm</a>
 
 ### 118: [2022-07-22 20:34:18+08:00 推文](https://twitter.com/HeQinglian/status/1550459216875458562)
 
@@ -687,95 +687,119 @@ Re @O43DGSy2NA4BdKf @princeton_walk 贺是否会同时辞职，得看她最近�
 
 Re @sWnmBsklqSRKOw1 @realJackLaw 你又弄错了，现在是军队、政府公职中优先提拔这种人，就学录取优先，破坏了按才能与贡献升职的规定。然后这类人将私人卧室的性行为弄到大街上展示。<br>你如果不服气我所陈述的事实，我也不会再回你了。白费时间。
 
-### 169: [2022-07-24 02:41:28+08:00 推文](https://twitter.com/HeQinglian/status/1550914005652348928)
+### 169: [2022-07-23 23:53:15+08:00 推文](https://twitter.com/zt33268778/status/1550871673704005632)
+
+RT zt<br>阿克顿勋爵的那句名言：在每个时代，自由都面临四种威胁。强人对于权力集中的极度渴望；穷人对于财富不均的怨恨；无知的人，对于乌托邦的强烈向往；没有信仰的人，随意地把自由和放纵混为一谈。<br><img style="" src="https://pbs.twimg.com/media/FYXNkYjXEAIxkvA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 170: [2022-07-24 02:41:28+08:00 推文](https://twitter.com/HeQinglian/status/1550914005652348928)
 
 Re @HesserPlato @RFI_Cn 数年前，不但看过，还写过影评。<br>那时他还没当上总统。<br>希望你梦想成真，长伴你的泽大哥身边，扮演一个角色。尤其要在谈判桌前有个角色。<br>有那一天，在推特上广而告之。
 
-### 170: [2022-07-24 02:53:14+08:00 推文](https://twitter.com/HeQinglian/status/1550916966172573697)
+### 171: [2022-07-24 02:53:14+08:00 推文](https://twitter.com/HeQinglian/status/1550916966172573697)
 
 Re @gaiyuyin 艾滋病2.0版本。
 
-### 171: [2022-07-24 03:12:04+08:00 推文](https://twitter.com/HeQinglian/status/1550921707044601856)
+### 172: [2022-07-24 03:12:04+08:00 推文](https://twitter.com/HeQinglian/status/1550921707044601856)
 
 全世界都应该关注的动向：<br>最近大半个月以来，小拜登卖战略储备油给中石化、在乌拥有生化室、税务被查突然被主媒不断曝光；<br>南希丈夫内幕股市交易的事情曝光，都是民主党内部潜流。<br>纽森（南侄）、希拉里、伊州州长（BLM与极左支持者）最近先后表明要竞选2024。<br>贺此时丑闻是否曝光，是下一步的风向。<br><br>华尔街日报中文网: #本周热读 公开披露的财务信息显示，美国众议院议长南希·佩洛西的丈夫购买了最多达价值500万美元的英伟达股票。这发生在半导体制造业法案投票前。<br> <a href="https://bit.ly/3RMu3dE" target="_blank" rel="noopener noreferrer">https://bit.ly/3RMu3dE</a>
 
-### 172: [2022-07-24 03:15:13+08:00 推文](https://twitter.com/HeQinglian/status/1550922499080200192)
+### 173: [2022-07-24 03:15:13+08:00 推文](https://twitter.com/HeQinglian/status/1550922499080200192)
 
 Re @hfgang @VOAChinese @Joewei2019 退休前在世界日报供职，退了很久。新近上推吧？
 
-### 173: [2022-07-24 03:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1550927158851375105)
+### 174: [2022-07-24 03:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1550927158851375105)
 
 中国真的愿意改善与澳大利亚的关系吗？<br><br>从文章内容来看，美欧真的很在意澳中关系的动向。<br>澳大利亚近年尝到单独应对中国打压的烦恼，资源国地位帮了它；中国现在要对付美国，还需要南太平洋岛国的友善。<br>因此，标题如果改为“中国愿意暂时改善与澳的关系吗？”就很符合现实了。<br><br>He Qinglian: 中国在贸易战中秘密战胜澳大利亚<br>一艘澳铁矿石船上周停靠在山东日照港，中国以人民币支付了澳铁矿石（到岸价）。巴西的铁矿石公司淡水河谷及秘鲁此前也采取同样的支付方式<br>专家评说：这将结束美元主导全球大宗商品的历史。<br>——哈里斯刚表态年援助南太平洋国家6000万美元共十年<br> <a href="https://www.news.com.au/finance/business/mining/chinas-secret-victory-against-australia-in-trade-war/news-story/3c9a1c37586043364ebe209e8d4f31fb" target="_blank" rel="noopener noreferrer">https://www.news.com.au/finance/business/mining/chinas-secret-victory-against-australia-in-trade-war/news-story/3c9a1c37586043364ebe209e8d4f31fb</a>
 
-### 174: [2022-07-24 05:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1550957406598807552)
+### 175: [2022-07-24 05:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1550957406598807552)
 
 Re @shanshanhuangy1 是参加。
 
-### 175: [2022-07-24 05:36:10+08:00 推文](https://twitter.com/HeQinglian/status/1550957970074308610)
+### 176: [2022-07-24 05:36:10+08:00 推文](https://twitter.com/HeQinglian/status/1550957970074308610)
 
 Re @truthtellerXYZ 文末写明了：本文译自MarketWatch。并非WSJ首发，我前几天就看到了，只因这是中文，便于中文推主阅读。
 
-### 176: [2022-07-24 05:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1550958420039290881)
+### 177: [2022-07-24 05:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1550958420039290881)
 
 Re @KELMAND1 @woshibabadie 千军万马考公务员，千里挑一才能进，原来是进去当蛀虫。😂
 
-### 177: [2022-07-24 06:14:01+08:00 推文](https://twitter.com/HeQinglian/status/1550967495032508416)
+### 178: [2022-07-24 06:14:01+08:00 推文](https://twitter.com/HeQinglian/status/1550967495032508416)
 
 Re @realJackLaw @KELMAND1 @woshibabadie 不是风凉话，是事实。不必要用不那么直接的“负福利”之类表达 。<br>确实是进去当蛀虫，先是当小的，慢慢当大的。官升一级，蛀虫的能量大一级。
 
-### 178: [2022-07-24 10:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1551025550961115137)
+### 179: [2022-07-24 10:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1551025550961115137)
 
 Re @JianglinLi 这事儿，与左派自家有关，今天BBC都登了（以前其实说过），这病主要在Gay以及与他们发生各种性行为的人之间传播。以前不讲，是要“为尊者讳”。<br>因此，用这病要求大家不出门、邮寄选票有点勉强——不过，民主党啥都干得出。
 
-### 179: [2022-07-24 10:10:30+08:00 推文](https://twitter.com/HeQinglian/status/1551027007978340364)
+### 180: [2022-07-24 10:10:30+08:00 推文](https://twitter.com/HeQinglian/status/1551027007978340364)
 
 Re @zzzdusa 只要是机器投票，去人用处不大。<br>上次乔州、密西根州有共和党与无党派的人士监票，结果被安排在离机器五六米远还不止的地方，不许靠近，根本无法看清屏幕。<br>为什么不能学习台湾，计票时四人负责，选民旁观，一人唱票，两人检查，一人登记，确认无误才继续下一张？
 
-### 180: [2022-07-24 10:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1551028853442859008)
+### 181: [2022-07-24 10:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1551028853442859008)
 
 Re @Raffael83905910 @realJackLaw @KELMAND1 @woshibabadie 你公门都没进过。我还真进过，谁无知？<br>中国人“千里当官为发财”这套文化，逾千年不变。<br>再问你，所有的贪官不都是从最基层的公务员起步？你难道敢说“无官不贪”是谎言？<br>最近推上不知来了多少五毛、粉红，奇怪无知的推越来越多。
 
-### 181: [2022-07-24 10:20:09+08:00 推文](https://twitter.com/HeQinglian/status/1551029436652421122)
+### 182: [2022-07-24 10:20:09+08:00 推文](https://twitter.com/HeQinglian/status/1551029436652421122)
 
 Re @truthtellerXYZ MarketWatch其实也不是首发，最近这条消息，几乎重要的主媒都发布了，如果不是有指挥，恐怕这些报纸不敢登南女士丑闻。
 
-### 182: [2022-07-24 10:38:44+08:00 推文](https://twitter.com/HeQinglian/status/1551034113578123264)
+### 183: [2022-07-24 10:38:44+08:00 推文](https://twitter.com/HeQinglian/status/1551034113578123264)
 
 Re @ngexp @JianglinLi 皮尤调查说了，白人女性进步派50%以上有精神病，男性略少点。<br>觉得进步派活得挺累的，成天正事不干，东抗议、西抗议、包围这包围那，时不时还要裸游一番，裸游之前有的还要将一身画得红红绿绿，还要率先吃虫子、变性，有的还得自家“内部病”猴痘。<br>选个总统还得经常帮他圆话。
 
-### 183: [2022-07-24 16:30:00+08:00 推文](https://twitter.com/dw_chinese/status/1551122513370828800)
+### 184: [2022-07-24 16:30:00+08:00 推文](https://twitter.com/dw_chinese/status/1551122513370828800)
 
 RT DW 中文- 德国之声<br>肯亚经济学家希克瓦蒂表示：“欧洲人 #束缚于自己的价值体系 ，告诉非洲人，该要什么；欧洲讲治理，中国重 #硬体 ，中国人要的是摸得着的具体的基础设施，他们问：那条路应从哪里铺到哪里？但欧洲人首先要查清，会有多少昆虫经过那里。” <a href="https://p.dw.com/p/4ESkh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4ESkh</a>
 
-### 184: [2022-07-24 20:02:02+08:00 推文](https://twitter.com/HeQinglian/status/1551175876150165506)
+### 185: [2022-07-24 20:02:02+08:00 推文](https://twitter.com/HeQinglian/status/1551175876150165506)
 
 Re @Mikejun1230 @zzzdusa 1、地方选举，每地人数有限。大选也在当地投票。没你说的问题。<br>2、人家承认机器有问题，但没钱，不换。第三方设备验证，由谁出钱？索罗斯？
 
-### 185: [2022-07-24 20:08:33+08:00 推文](https://twitter.com/HeQinglian/status/1551177515187798016)
+### 186: [2022-07-24 20:08:33+08:00 推文](https://twitter.com/HeQinglian/status/1551177515187798016)
 
 Re @RealBeiMing 这点，你得向我学习。<br>我早就不费劲向同龄或者年龄大点的老友们谈今天世界的变化，累，伤神，还不愉快。有老友愿意认真看、思考你想的，算你捡便宜。<br>再来点阿Q精神，从精神上来说，你进入了新世界（不管美丽不美丽）。<br>这些年来发生的一切，超出了大多数人的认知范围。
 
-### 186: [2022-07-24 20:12:30+08:00 推文](https://twitter.com/HeQinglian/status/1551178506448642049)
+### 187: [2022-07-24 20:12:30+08:00 推文](https://twitter.com/HeQinglian/status/1551178506448642049)
 
 Re @shenliangqing2 @JianglinLi 亚历桑那州已经发现，某县寄出6万几千张有问题的选票。而且承认有问题，但没想改。<br>不舞弊，怎能赢？毕竟喜欢变性、吸麻、同性婚、上街裸游的美国人不会超过一半——吸麻算群众运动了，大学生当中也就60%（包括不经常吸的），某麻州成年人吸麻率也就40%，多数不到这个数。<br>有人要福利，但不喜欢变性。
 
-### 187: [2022-07-24 20:17:24+08:00 推文](https://twitter.com/HeQinglian/status/1551179739859193859)
+### 188: [2022-07-24 20:17:24+08:00 推文](https://twitter.com/HeQinglian/status/1551179739859193859)
 
 Re @fading_you1 恭喜你。推特上几百万中文用户，你排在如此靠前，应该高兴才是。<br>这方面，别与那些中南海信息员与“百年民主第一人”郭文贵去比高低，物以类比。😅
 
-### 188: [2022-07-24 20:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1551180986469285888)
+### 189: [2022-07-24 20:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1551180986469285888)
 
 这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉
 
-### 189: [2022-07-24 20:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1551181855545860100)
+### 190: [2022-07-24 20:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1551181855545860100)
 
 Re @Mikejun1230 @zzzdusa 你看清楚没有？人家承认机器有问题（我前一向发过推），但没钱换机器。<br>从2019年开始，全美选举委员会就知道机器有问题，但需要3亿多才能换，因此说没钱、没时间。<br>这事，你去查询，我的文章可都给出链接的。
 
-### 190: [2022-07-24 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1551182223398797312)
+### 191: [2022-07-24 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1551182223398797312)
 
 Re 解释一下，又老又病又面临政变之忧，不是我说的，是阅读大量西方主流媒体得到的印象，每隔一段时间说一次。
 
-### 191: [2022-07-24 20:36:35+08:00 推文](https://twitter.com/HeQinglian/status/1551184567863853056)
+### 192: [2022-07-24 20:36:35+08:00 推文](https://twitter.com/HeQinglian/status/1551184567863853056)
 
 Re @KELMAND1 @ZedongWinine @LetsBeatRabbits 这位推主说的有事实基础。<br>2019年我去台湾政大讲演，一进教学楼大厅，一张比人还略高的大海报上写着“马克思主义为什么受欢迎”，下面还有好几行小字，写清楚Why, 是该院某教授的讲座。<br>一问之下，才知道并非政大特产，许多大学都有，学子爱听。
+
+### 193: [2022-07-24 22:09:57+08:00 推文](https://twitter.com/HeQinglian/status/1551208065508294657)
+
+Re @JianglinLi @RealBeiMing 还有一个凡是：凡是美国干的，都是正确的。拜登政府就是美国政府，盗选？没看见，不可能。有的开始承认，后来突然反水。
+
+### 194: [2022-07-24 22:13:13+08:00 推文](https://twitter.com/HeQinglian/status/1551208889546334210)
+
+Re @shenliangqing2 2020年5月后，出现过大半年，直到拜登当选，那党觉得天下是自己的，才开始停止捣乱，但BLM一直抢到今年1月，有名称曰“零元购”。
+
+### 195: [2022-07-24 23:11:30+08:00 推文](https://twitter.com/HeQinglian/status/1551223553911132160)
+
+南希女士的境遇内外两重天：<br>美国国内，正在曝光她丈夫大大小小各种问题，目前刚炒到他丈夫股市内幕交易这幕戏；<br>中文圈内，她正彰显抗共援台勇气，要冒中共击落飞机之险去台湾访问，还准备用航母与军舰护航。<br>如果做个国内国际民调，挺有意思。
+
+### 196: [2022-07-24 23:12:19+08:00 推文](https://twitter.com/HeQinglian/status/1551223759528513536)
+
+Re @realJackLaw @KELMAND1 @ZedongWinine @LetsBeatRabbits 正好相反。
+
+### 197: [2022-07-24 23:35:41+08:00 推文](https://twitter.com/HeQinglian/status/1551229642526318592)
+
+米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？
 
