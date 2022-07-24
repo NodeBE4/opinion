@@ -39,7 +39,7 @@ Media should stop directly quoting the Chinese govt's self-claim of "another ver
 
 ### 6: [2021-12-08 04:12:24+08:00 推文](https://twitter.com/nathanlawkc/status/1468312456451788806)
 
-See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream for tonight's event at 7PM ET: <br>But I would love to see students attend in person!<br><br>(P.S.: This is one of the best event posters I've seen. The designer is talented.) <a href="https://www.colby.edu/livestream/" target="_blank" rel="noopener noreferrer">https://www.colby.edu/livestream/</a><br><img style src="https://pbs.twimg.com/media/FGB6_ycWQAIsgPi?format=jpg&name=orig" referrerpolicy="no-referrer">
+See you all at @ColbyCollege with @GoldfarbCenter tonight.<br><br>Live stream for tonight's event at 7PM ET: <br>But I would love to see students attend in person!<br><br>(P.S.: This is one of the best event posters I've seen. The designer is talented.) <a href="https://www.colby.edu/livestream/" target="_blank" rel="noopener noreferrer">https://www.colby.edu/livestream/</a><br><img style="" src="https://pbs.twimg.com/media/FGB6_ycWQAIsgPi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-08 04:37:04+08:00 推文](https://twitter.com/nathanlawkc/status/1468318663669387269)
 
@@ -55,7 +55,7 @@ I was again named by the HK govt top officials, including SS Chris Tang and Comm
 
 ### 10: [2021-12-10 01:35:47+08:00 推文](https://twitter.com/nathanlawkc/status/1468997819595952148)
 
-3 things Mr Hu needs to do:<br>1. Improve his Photoshop skills<br>2. Learn the definition of democracy <br>3. Get a closer grip on reality<br>So low.<br><img style src="https://pbs.twimg.com/media/FGLtuwgWUAYqoaC?format=jpg&name=orig" referrerpolicy="no-referrer">
+3 things Mr Hu needs to do:<br>1. Improve his Photoshop skills<br>2. Learn the definition of democracy <br>3. Get a closer grip on reality<br>So low.<br><img style="" src="https://pbs.twimg.com/media/FGLtuwgWUAYqoaC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-10 05:24:53+08:00 推文](https://twitter.com/nathanlawkc/status/1469055475677282305)
 
@@ -79,5 +79,5 @@ Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocra
 
 ### 16: [2021-12-12 04:32:00+08:00 推文](https://twitter.com/nathanlawkc/status/1469766940432510977)
 
-Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Thanks everyone for coming this yellow cake shop❤️<br><br>Lianain Films: In Queens lining up for a copy of “Freedom” by @nathanlawkc. They’re selling like hotcakes. All gone in 25 mins!<br><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj0VUAAshM-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj2VQAMLXkA?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj6VUAAa83v?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGV_Qj5UUAMY4bK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
