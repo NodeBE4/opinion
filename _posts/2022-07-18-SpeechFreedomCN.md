@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-07-22
+date: 2022-07-24
 from: https://twitter.com/SpeechFreedomCN/status/1548836275800637440
 layout: post
 tags:
@@ -50,4 +50,12 @@ Hubei dissident Yu Qian detained for 15 days for his Tweets that questioned the 
 ### 9: [2022-07-22 11:19:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1550319492563083266)
 
 湖北省鄂州市异议人士余钱，因在推特发文质疑当地封控措施的合法性以及此前发布的批评中共政权的推文（部分如图所示），被当地公安行政拘留15日。<br><img style="" src="https://pbs.twimg.com/media/FYPXR1WWAAA6auQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXTrdXoAIJXUX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXVDtWAAA-vhv?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYPXWwdWQAA3HFe?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-07-24 08:18:27+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1550998810062643201)
+
+湖北省武汉市男子彭某，因于2019年3月在微信群内发布了一段“诋毁国家领导人”的小视频，进而对“国家形象造成严重影响”，于当日被抓获，并于三个月后被提起寻衅滋事公诉，后续判决不详。<br><img style="" src="https://pbs.twimg.com/media/FYZAl1fXoAEvsZc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-07-24 08:19:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1550999198094573570)
+
+Wuhan man Peng, who sent a piece of short video in a WeChat group chat that "slandered state leader(s) and severely damaged national image" in Mar 2019, arrested at the same day and prosecuted three months later. Court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FYZBO1ZWYAEhlnT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
