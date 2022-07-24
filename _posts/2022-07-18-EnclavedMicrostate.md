@@ -457,3 +457,7 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Just want to point out a quick error on chart 3: VSPO is listed as having 23% of Traditional Chinese subs, when it should be closer to 1.5% given the number shown.
 
+----- __640.2__ -----2022-07-24 13:40:48+08:00:
+
+Unfortunately you can't edit posted images, or post titles.
+
