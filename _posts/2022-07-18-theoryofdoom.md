@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-07-21
+date: 2022-07-22
 from: https://old.reddit.com/r/AnimalsBeingBros/comments/w2gqqa/i_posted_the_other_day_about_our_older_dog_dying/
 layout: post
 tags:
@@ -103,4 +103,10 @@ Sorry, kiddo.  Wrong sub.
 ----- __347.1__ -----2022-07-21 08:22:13+08:00:
 
 Not precisely relevant to COVID, but an adjacent development with potentially overlapping concerns.  We will allow this.
+
+### 348: [Congratulations everyone! We passed 500k community members!](https://old.reddit.com/r/geopolitics/comments/w4snz3/congratulations_everyone_we_passed_500k_community/), submitted on 2022-07-22 05:42:57+08:00.
+
+----- __348.1__ -----2022-07-25 05:18:58+08:00:
+
+I agree with all of this.  How would you solve the problem?
 
