@@ -461,3 +461,31 @@ Just want to point out a quick error on chart 3: VSPO is listed as having 23% of
 
 Unfortunately you can't edit posted images, or post titles.
 
+### 641: [[Hobby Scuffles] Week of July 25, 2022](https://old.reddit.com/r/HobbyDrama/comments/w6xkd7/hobby_scuffles_week_of_july_25_2022/), submitted on 2022-07-24 23:00:15+08:00.
+
+----- __641.1__ -----2022-07-25 18:19:40+08:00:
+
+I would say Vox is controversial for seven main, somewhat interrelated, reasons:
+
+1. He is at present the most successful male VTuber in the world, and when you're exceptionally successful, there will always be people (rightly or wrongly) arguing why you shouldn't be.
+
+2. He isn't part of Hololive, and the success both of himself and his wider unit (Luxiem) has really challenged Hololive's prior dominance of international viewership, which brings out tribalists.
+
+3. Nijisanji as an agency likes to play favourites with its more successful members with extra publicity and merch, and so there are many fans of non-Luxiem Nijisanji talents who have been especially resentful of Luxiem's success. (This includes some fans of the pre-Luxiem units Lazulight, Ethyria and Obsydia, and *especially* those of its Korean and Indonesian talents).
+
+4. Vox's content is not everyone's cup of tea, and he has an especial focus on what sometimes gets termed 'boyfriend experience' content, which has been a point of particular contention this year thanks to it being a central element of controversy during the situation leading up to and following Hololive's termination of Uruha Rushia, whose 'girlfriend experience' content has been the subject of much acrimony.
+
+5. The audience for Luxiem gets stereotyped as mostly being 'fujoshis' and obsessive fangirls, and there is definitely a toxic angle to this which manifested in what I'll call the [Reimu interruption scandal](https://reddit.com/r/HobbyDrama/comments/v0cylk/hobby_scuffles_week_of_may_30_2022/iairldp/?context=999) that saw a lot of hate directed against Reimu that was *not* helped by Vox wording his initial statement in such a way that threw Reimu under the bus further before he formally apologised. 
+
+6. Valid criticism of Vox stans gets tied up a lot in accusations relating to his Chinese fanbase, and the size and influence thereof. Simply put, Luxiem as a whole and Vox in particular are as successful as they are in part because they've drawn a large Asian audience, which includes one in Mainland China because Nijisanji, unlike Hololive, didn't end up going through a major PR controversy that led to it completely divesting from the country. And so the more politically-minded have suggested that there may be issues that may arise in future out of Vox's close ties to the Chinese market. At one stage there was a brief – but to be honest surprisingly so – controversy when he did a Chinese learning stream where the original thumbnail was the PRC flag for instance.
+
+7. Vox himself has at times not handled his fame well. This happened with the Reimu incident as noted above, but there was a really jarring moment in early June where he apparently broke down and seemed to suggest some kind of borderline obsessive relationship with his fans [(see here for a discussion thereof with a timestamp)](https://www.reddit.com/r/VirtualYoutubers/comments/v140sg/mechanic_maniac_maiden_weekly_discussion_thread/ib5c4f6/).
+
+Oh also he has a British accent.
+
+For the most part I don't think there's *that* much wrong with him. A *lot* of popular content creators, virtual or otherwise, go through moments where they have to take stock of their influence. I *do* think there are not so much shady as deeply unfair practices at Nijisanji as an agency, and I *do* think that actively appealing to the Chinese market is a bad thing for several reasons, but neither is strictly his *fault* in his capacity as a talent employed by the agency.
+
+----- __641.2__ -----2022-07-25 18:20:25+08:00:
+
+I think with the Reimu thing it was less that he didn't put his foot down soon enough and more that his first apology implied she was at fault.
+
