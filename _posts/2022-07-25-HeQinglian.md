@@ -53,5 +53,57 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
+
+### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
+
+Re @DavidLa83058215 上一次是特拉斯，据说获利数千万，比这次规模大。<br>南希因此获封“国会山股神”。
+
+### 12: [2022-07-25 20:24:39+08:00 推文](https://twitter.com/HeQinglian/status/1551543955631792128)
+
+Re @Tianshuihanyan 激将法。不是一起去，他去，希望在那见到南希女士。
+
+### 13: [2022-07-25 20:58:05+08:00 推文](https://twitter.com/HeQinglian/status/1551552368982036480)
+
+华邮：裴洛西若访台美军考虑调动航舰或战机空中支持 <br>建议带上一个庞大的记者团随舰访谈，一天24小时滚动式播报，舰船、台湾总统府、大街上民众随机，再插播南希当年天安门展示追查六四屠杀横幅、接见海外民运的镜头。<br>美国人立刻忘记股票内幕交易这事，南希形象恢复高大上。 <a href="https://rfi.my/8bp8.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8bp8.T</a>
+
+### 14: [2022-07-25 21:20:04+08:00 推文](https://twitter.com/HeQinglian/status/1551557899209654273)
+
+Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
+
+### 15: [2022-07-25 21:27:08+08:00 推文](https://twitter.com/HeQinglian/status/1551559679628697600)
+
+Re @gyxlawyer 如果你还保持好奇心，比如发现自己不熟悉的事情，愿意探寻真相，而不是一副“三年早知道”，无视事实，坚持“再坏的民主也优于专制”，那就还没太老。
+
+### 16: [2022-07-25 21:36:25+08:00 推文](https://twitter.com/HeQinglian/status/1551562013565919234)
+
+Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 那就先在中国实践，因为那地儿，两马均有，只是“暴力革命马”人数呈压倒优势。<br>上次清华女生在店家放彩虹旗，属于“进步主义马”。<br>那块地面上，这些“进步主义马”还要要弱势一点，别弄得被网暴自杀，上街裸游要谨慎，千万穿上点衣服。
+
+### 17: [2022-07-25 21:41:11+08:00 推文](https://twitter.com/HeQinglian/status/1551563213845700609)
+
+Re @KELMAND1 @JianglinLi @9527joshua @ZedongWinine @LetsBeatRabbits 差别比那要大的多，简直是两条道上跑的车。😉<br>只有一条相同，就是政府要大，要控制资源与分配大权。控制资源后用于什么？则有点区别。暴马奉行劳动价值论，需要信徒劳动创造价值；新马希望被高福利养起来，吃喝玩乐性自由。<br>长远看，前者有可持续性，后者缺乏可持续性。
+
+### 18: [2022-07-25 21:43:13+08:00 推文](https://twitter.com/HeQinglian/status/1551563727371177984)
+
+Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力会。
+
+### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
+
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
+
+Re @LetsBeatRabbits @KELMAND1 @JianglinLi @9527joshua @ZedongWinine 劳动创造价值，不养专业福利族，总得生产点什么出来吧？全是躺平族，剩余价值从哪来？<br>你看来比较喜欢新马。😂
+
+### 21: [2022-07-25 21:55:11+08:00 推文](https://twitter.com/HeQinglian/status/1551566736993968134)
+
+Re @KELMAND1 @JianglinLi @9527joshua @ZedongWinine @LetsBeatRabbits 暴马在中国，政府用着他们的时候不太多；但新马在美国，却是民主党的票仓。<br>尊驾粉丝群，可谓遍地“暴马”下夕阳。😅
+
+### 22: [2022-07-25 21:57:31+08:00 推文](https://twitter.com/HeQinglian/status/1551567323198373894)
+
+Re @LinYueYang 民主沙龙，听起来好亲切。曾合作十多年，直到前年还是大前年才终结。<br>希望新的民主沙龙胜于以往。
+
+### 23: [2022-07-25 22:04:37+08:00 推文](https://twitter.com/HeQinglian/status/1551569109611069441)
+
+Re @LetsBeatRabbits @KELMAND1 @JianglinLi @9527joshua @ZedongWinine 中共就是改良版暴马，目前是枪杆子维持政权。<br>总态势是共产党资本主义，共产党政权+行政管理下的市场经济。
 
