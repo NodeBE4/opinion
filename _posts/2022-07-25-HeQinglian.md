@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -106,4 +106,40 @@ Re @LinYueYang 民主沙龙，听起来好亲切。曾合作十多年，直到�
 ### 23: [2022-07-25 22:04:37+08:00 推文](https://twitter.com/HeQinglian/status/1551569109611069441)
 
 Re @LetsBeatRabbits @KELMAND1 @JianglinLi @9527joshua @ZedongWinine 中共就是改良版暴马，目前是枪杆子维持政权。<br>总态势是共产党资本主义，共产党政权+行政管理下的市场经济。
+
+### 24: [2022-07-25 22:11:13+08:00 推文](https://twitter.com/HeQinglian/status/1551570770131828736)
+
+Re @KELMAND1 @JianglinLi @9527joshua @ZedongWinine @LetsBeatRabbits 这两马还有个共同特点：信奉思想改造运动，让不同意见者社会性死亡。<br>手法不同一点，暴马是“只许走资派老老实实，不许乱说乱动”，新马是“取消文化”，让不同意见者失去工作、发表文章、著作、言论的机会。
+
+### 25: [2022-07-25 22:13:09+08:00 推文](https://twitter.com/HeQinglian/status/1551571257094709248)
+
+Re @shenliangqing2 大抵如此。估计各路演员轮番上阵，到月底也就消停了。
+
+### 26: [2022-07-25 22:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1551572178956697603)
+
+Re @CrabNJ 人家天才地、创造性地发扬光大了马克思主义。<br>你忘记了恩格斯的《家庭、私有制与国家的起源》，本人当年非常认真地读过这本经典——这书的终点就是废除家庭，因为家庭是私有制的产物。进步马们将这点发挥到极致。
+
+### 27: [2022-07-25 22:17:32+08:00 推文](https://twitter.com/HeQinglian/status/1551572362314784768)
+
+Re @KELMAND1 @JianglinLi @9527joshua @ZedongWinine @LetsBeatRabbits 那你真不够正统，马克思主义的核心就是文化思想专制。
+
+### 28: [2022-07-25 22:19:34+08:00 推文](https://twitter.com/HeQinglian/status/1551572872048558085)
+
+Re @shenliangqing2 不排除制造给“面子”的机会，两人目前都被党内极端进步派咬上了。
+
+### 29: [2022-07-25 22:44:45+08:00 推文](https://twitter.com/HeQinglian/status/1551579209352585222)
+
+Re @CrabNJ 对了，所以现在怀孕不是女人的专利，本届民主党控制的众议院上台伊始废除了母亲的称呼，称“会怀孕的女人”——这可是有国会文件可查的。<br>没见新任黑女大法官拷问共和党参议员霍利“你认为男人会怀孕吗？”——这是政治正确的试金石。
+
+### 30: [2022-07-25 22:47:59+08:00 推文](https://twitter.com/HeQinglian/status/1551580025073401856)
+
+Re @CrabNJ @KELMAND1 “🍐老师”是哪位，好奇。
+
+### 31: [2022-07-25 23:00:03+08:00 推文](https://twitter.com/HeQinglian/status/1551583060717608963)
+
+Re @CrabNJ 你最好读读BLM创始人的宣言，了解那个基地这三十多年在干什么。<br>创始人说，我们是正宗的马克思主义者。<br>马克·列文有本书，American Marxism, 台湾出了中译本《马克思主义在美国》，请我写了篇序。去买本读读吧。
+
+### 32: [2022-07-25 23:02:57+08:00 推文](https://twitter.com/HeQinglian/status/1551583790040055811)
+
+Re @CrabNJ 你愿意称呼令堂为“会怀孕的女人”吗？如果你不愿意，就承认这种改称呼荒唐之极。
 
