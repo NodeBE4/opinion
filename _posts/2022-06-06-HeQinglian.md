@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -277,7 +277,7 @@ Re @Swanlake1979 同出复旦，未见过面。我去复旦时，他已进京。
 
 ### 66: [2022-06-10 03:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1534982690583216129)
 
-有钱好，有钱就能成为全知全能。
+有钱好，有钱就能成为全知全能。<br><br>William Long: 全球首富埃隆∙马斯克（Elon Musk）星期一（6月6日）在推特上说，“绝大多数人仍以为中国实施一胎化政策。尽管已经实施三胎化政策，中国去年的出生率居然出现新低！以目前的出生率，中国每一代人都将减少大约40%的人口！人口崩溃！”<br>
 
 ### 67: [2022-06-10 03:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1534983098105987072)
 
@@ -341,7 +341,7 @@ Re @suwoluofu123 @JiangShangrong 挺麻烦的，干脆逢俄必裁，连果戈�
 
 ### 82: [2022-06-10 22:58:21+08:00 推文](https://twitter.com/HeQinglian/status/1535275179059863555)
 
-这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。<br><br>Unitiger Life: 💥🦟Just plug it in and start enjoying your backyard! Keep mosquitoes and flies away from your family!😎<br><br>Get yours👉<br><br><video src="https://video.twimg.com/amplify_video/1522144356282793985/vid/640x640/Ali9h5W-AoLl9l31.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522144356282793985/img/Sb4grEYNyfOPmpfA.jpg"></video> <a href="http://www.unitiger.co/E2546" target="_blank" rel="noopener noreferrer">http://www.unitiger.co/E2546</a>
+这个视频挺传神地表明了西方人富、闲兼备，无聊之极，想方设法找难受的社会倾向：蚂蚁不来咬，想方设法让蚂蚁上身。
 
 ### 83: [2022-06-10 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1535275651984510976)
 
