@@ -471,7 +471,7 @@ I would say Vox is controversial for seven main, somewhat interrelated, reasons:
 
 2. He isn't part of Hololive, and the success both of himself and his wider unit (Luxiem) has really challenged Hololive's prior dominance of international viewership, which brings out tribalists.
 
-3. Nijisanji as an agency likes to play favourites with its more successful members with extra publicity and merch, and so there are many fans of non-Luxiem Nijisanji talents who have been especially resentful of Luxiem's success. (This includes some fans of the pre-Luxiem units Lazulight, Ethyria and Obsydia, and *especially* those of its Korean and Indonesian talents).
+3. Nijisanji as an agency likes to play favourites with its more successful members with extra publicity and merch, and so there are many fans of non-Luxiem Nijisanji talents who have had cause to be especially resentful of Luxiem's success and Luxiem getting a positive feedback loop of attention while their own favourite talents don't. (This includes some fans of the pre-Luxiem units Lazulight, Ethyria and Obsydia, and *especially* those of its Korean and Indonesian talents).
 
 4. Vox's content is not everyone's cup of tea, and he has an especial focus on what sometimes gets termed 'boyfriend experience' content, which has been a point of particular contention this year thanks to it being a central element of controversy during the situation leading up to and following Hololive's termination of Uruha Rushia, whose 'girlfriend experience' content has been the subject of much acrimony.
 
@@ -492,4 +492,12 @@ I think with the Reimu thing it was less that he didn't put his foot down soon e
 ----- __641.3__ -----2022-07-26 01:24:00+08:00:
 
 So, I very deliberately took a neutral line above, but I would say there's a bit more to it than plain concern trolling, particularly around the Reimu incident 2 months ago. A lot of the backlash with that involved direct comparison with Rushia, for instance, which is hardly a case of accusing Vox of doing things that they wouldn't accuse HoloEN members of doing. The other thing was definitely that his initial response was very bad and made things worse, intentional or otherwise, and screwing up PR in a tense moment is Not Good; there's also the issue of the really rather concerning breakdown later on that gave a lot of people pause. I think there's a lot that's *exaggerated* in the response to Vox but there's also some kernel of reasonable concern to be had.
+
+----- __641.4__ -----2022-07-26 02:08:42+08:00:
+
+I think we're broadly aligned here. It's not that he's done nothing wrong, but so far it mostly seems like someone who's still learning the ropes on how to deal with being in a position of influence.
+
+----- __641.5__ -----2022-07-26 02:22:26+08:00:
+
+I think V5 was the last time they were crossposted.
 
