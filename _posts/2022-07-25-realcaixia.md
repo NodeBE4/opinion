@@ -21,5 +21,17 @@ title: 'Twitter @蔡霞: 2022-07-25~2022-07-31'
 
 ### 2: [2022-07-25 08:12:06+08:00 推文](https://twitter.com/realcaixia/status/1551359600271806469)
 
-支持！
+支持！<br><br>Luo Shengchun丁家喜律师妻子: #一人一照声援丁家喜许志永 非常感谢国内朋友发来照片声援家喜！考虑到国内朋友发声有危险，我决定在海外发起一场一人一照声援丁家喜许志永活动，欢迎海外的朋友们踊跃参加！照片做完可以发给我来发推特，或者您直接发推特把链接分享给我或放群里。<br><br>非常感谢清鹏率先参与支持！<br> <a href="https://twitter.com/wangqingpeng1/status/1540175207616245760" target="_blank" rel="noopener noreferrer">https://twitter.com/wangqingpeng1/status/1540175207616245760</a>
+
+### 3: [2022-07-25 20:00:20+08:00 推文](https://twitter.com/realcaixia/status/1551537832728174593)
+
+推荐：李克强在北大百年校庆时回忆自己在北大将近十年求学的经历，李克强不是用开书单而是用发表的论文来证明自己读书的收获。<br><br>李克强：我做了北大近十年的学生，难以忘怀北大的先生们 - 议报 <a href="https://yibaochina.com/?p=247308" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247308</a>
+
+### 4: [2022-07-25 20:23:19+08:00 推文](https://twitter.com/realcaixia/status/1551543616283283456)
+
+推荐：章荣初后代回忆文章。<br>辛亥革命后，中国进入从皇权帝制到共和国深刻转换的历史进程（迄今已有111年，中国仍面临改头换面复辟帝制的危险），贯穿这个进程的是百年战乱（当下中国社会乱世征兆比比皆是）。中国的民族企业家即在此历史大变革的社会夹缝中艰难创业与生存。 <a href="https://yibaochina.com/?p=247316" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247316</a>
+
+### 5: [2022-07-25 20:27:10+08:00 推文](https://twitter.com/realcaixia/status/1551544586476085249)
+
+Re @GuRu_999999 请你拿出你的论文来。
 
