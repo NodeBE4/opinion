@@ -489,3 +489,7 @@ For the most part I don't think there's *that* much wrong with him. A *lot* of p
 
 I think with the Reimu thing it was less that he didn't put his foot down soon enough and more that his first apology implied she was at fault.
 
+----- __641.3__ -----2022-07-26 01:24:00+08:00:
+
+So, I very deliberately took a neutral line above, but I would say there's a bit more to it than plain concern trolling, particularly around the Reimu incident 2 months ago. A lot of the backlash with that involved direct comparison with Rushia, for instance, which is hardly a case of accusing Vox of doing things that they wouldn't accuse HoloEN members of doing. The other thing was definitely that his initial response was very bad and made things worse, intentional or otherwise, and screwing up PR in a tense moment is Not Good; there's also the issue of the really rather concerning breakdown later on that gave a lot of people pause. I think there's a lot that's *exaggerated* in the response to Vox but there's also some kernel of reasonable concern to be had.
+
