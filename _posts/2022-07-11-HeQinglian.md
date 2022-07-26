@@ -37,7 +37,7 @@ Re @Bforge3 @Wu_Zhi 开会嘛，就是开会。
 
 ### 6: [2022-07-11 08:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1546296130752987136)
 
-这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。
+这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。<br><br>DW 中文- 德国之声: 在出席完G20外长会议后，德国外长贝尔伯克取道帕劳前往日本。在长崎，贝尔伯克呼吁全球各国放弃核武器。<br> <a href="https://p.dw.com/p/4DvdG" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DvdG</a>
 
 ### 7: [2022-07-11 10:54:40+08:00 推文](https://twitter.com/HeQinglian/status/1546327081554001920)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -417,7 +417,7 @@ Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
 
 ### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
 
-历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
 
 ### 102: [2022-07-14 22:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1547582795123343366)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 @ngexp 这倒不是。2017�
 
 ### 123: [2022-07-15 01:28:31+08:00 推文](https://twitter.com/HeQinglian/status/1547634157076918275)
 
-RT He Qinglian<br>斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
+斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
 
 ### 124: [2022-07-15 03:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1547671274280742914)
 
