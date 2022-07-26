@@ -33,7 +33,7 @@ Sichuan woman Wei detained for 5 days for complaining about traffic police in We
 
 ### 5: [2021-12-31 15:35:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819302493966363)
 
-2019年2月，安徽省宿松县男子贺某贵，因在微信朋友圈发文称自己被狗咬，并配图交通罚单照片，被认定为侮辱交警处拘留3日。<br><img style="" src="https://pbs.twimg.com/media/FH63SLlXsAA7Tho?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH63TkeX0AcLjRM?format=png&name=orig" referrerpolicy="no-referrer">
+2019年2月，安徽省宿松县男子贺某贵，因在微信朋友圈发文称自己被狗咬，并配图交通罚单照片，被认定为侮辱交警处拘留3日。<br><img style src="https://pbs.twimg.com/media/FH63SLlXsAA7Tho?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH63TkeX0AcLjRM?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-31 15:37:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819694153879557)
 
@@ -49,5 +49,5 @@ Happy new year! And a friendly reminder that two years ago today, 8 people in Ch
 
 ### 9: [2022-01-01 13:20:56+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1477147808796979200)
 
-Ningxia man surnamed Wang criticized Xi'an government's poor handling of the pandemic on Weibo, then got harassed by a large number of pro-government netizens, which even made him delete his Weibo account. Police later arrested & detained Wang for "cursing Xi'an people".<br><img style src="https://pbs.twimg.com/media/FH_iGhsWYAEvp2g?format=jpg&name=orig" referrerpolicy="no-referrer">
+Ningxia man surnamed Wang criticized Xi'an government's poor handling of the pandemic on Weibo, then got harassed by a large number of pro-government netizens, which even made him delete his Weibo account. Police later arrested & detained Wang for "cursing Xi'an people".<br><img style="" src="https://pbs.twimg.com/media/FH_iGhsWYAEvp2g?format=jpg&name=orig" referrerpolicy="no-referrer">
 
