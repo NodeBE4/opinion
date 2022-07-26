@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-26
+date: 2022-07-27
 from: https://twitter.com/HeQinglian/status/1551253913432735744
 layout: post
 tags:
@@ -170,4 +170,16 @@ Re @John91056265 @CrabNJ 正解。
 ### 39: [2022-07-26 23:41:14+08:00 推文](https://twitter.com/HeQinglian/status/1551955814616793089)
 
 Re @Jia096ca 证据很多，是你脑子灌了水，我这里不欢迎你这种睁眼说瞎话的人。
+
+### 40: [2022-07-27 00:22:08+08:00 推文](https://twitter.com/HeQinglian/status/1551966107673804801)
+
+Twitter记实：推友共忆胡温时代<br>本文综合分析推主陈炎连☭ @520CHINA025推后留言，摘引其中有代表性的20多条推文，尽管存在因社会地位不同而产生的认知裂沟，留言普遍认为胡温时代的社会空间较习时代宽松，是活力与腐朽共生的时代。<br>最后指出中国为何会形成明君期盼递减规律。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07252022141012.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07252022141012.html</a>
+
+### 41: [2022-07-27 00:31:41+08:00 推文](https://twitter.com/HeQinglian/status/1551968509327990786)
+
+Re @JianglinLi @Wu_Zhi 我记得毛在延安时，对丁玲是先欣赏后丢弃。丢弃时下了最高指示：要从政治上搞垮她，先从生活上搞臭她。<br>世界所有左派，全是这个套路。好在马斯克有自媒体发言。
+
+### 42: [2022-07-27 01:14:57+08:00 推文](https://twitter.com/HeQinglian/status/1551979397309239297)
+
+Re @SSK2024 既然只是男同性恋染这病，让他们实名邮寄选票好了，一人一票，住哪里在哪里投票就行了。这种情况要求全方位邮寄选票且选举期过一个月还不截止，理由不充分。<br>如果以此为理由，当然是为了偷票。
 
