@@ -167,3 +167,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 Re @John91056265 @CrabNJ 正解。
 
+### 39: [2022-07-26 23:41:14+08:00 推文](https://twitter.com/HeQinglian/status/1551955814616793089)
+
+Re @Jia096ca 证据很多，是你脑子灌了水，我这里不欢迎你这种睁眼说瞎话的人。
+
