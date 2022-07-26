@@ -41,7 +41,7 @@ Re @Wu_Zhi 因何而解？是主子放弃了？
 
 ### 7: [2022-06-06 10:49:32+08:00 推文](https://twitter.com/HeQinglian/status/1533642214479364096)
 
-不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。
+不能说西方世界的社会控制不厉害：控制教育系统——教育是塑造人的灵魂（思想、品格）；控制医疗系统（生命攸关）——但相对而言较软，“细雨湿衣看不见，闲花落地听无声”。<br>一个covid-19，将人类社会折腾得天地翻覆。<br><br>北明BeiMing: 17000名醫生和醫學科學家宣布，必須解除醫療緊急狀態，恢復科學完整性，並處理反人類罪。<br><br>我們，全世界的醫生和醫學科學家，通過對《希波克拉底誓言》的忠誠團結在一起，認識到強加給醫生和我們的病人的災難性的COVID-19公共衛生政策是<br> <a href="https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity" target="_blank" rel="noopener noreferrer">https://globalcovidsummit.org/news/declaration-iv-restore-scientific-integrity</a>
 
 ### 8: [2022-06-06 22:17:50+08:00 推文](https://twitter.com/HeQinglian/status/1533815433186447360)
 
@@ -261,11 +261,11 @@ Re @Greatorentalman 实话实说，中国专家研究美国，比美国专家研
 
 ### 62: [2022-06-10 01:52:26+08:00 推文](https://twitter.com/HeQinglian/status/1534956600322031618)
 
-“应该”的事情太多了，可惜世上没有后悔药。<br><br>DW 中文- 德国之声: "我们应将俄罗斯人至少逼退到2月23日之前的边界，而克里米亚和其它被俄罗斯人占领了8年的领土的命运应经由政治外交途径解决。"<br> <a href="https://p.dw.com/p/4CTPd" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CTPd</a>
+“应该”的事情太多了，可惜世上没有后悔药。
 
 ### 63: [2022-06-10 03:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1534981005504921601)
 
-日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。<br><br>RFI 华语 - 法国国际广播电台: 日本加入北约的可能性有多大？<br> <a href="https://rfi.my/8U63.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8U63.T</a>
+日本地缘政治的敌人主要是中国，用北约对付中国，隔山打牛。如果是想要美国支持，美日同盟即可。<br>不大知道日本出于什么想法。实在想要同盟，四方会谈军事化就可以，大不了是印度不干，美澳日三国还是可以的。
 
 ### 64: [2022-06-10 03:31:56+08:00 推文](https://twitter.com/HeQinglian/status/1534981639587110912)
 
