@@ -19,3 +19,9 @@ title: EnclavedMicrostate在2022-07-25~2022-07-31的言论
 
 To add to that, Calli's music career is largely tied to UMG Japan and a lot of the infrastructure for 3D concerts is Japan-based, so there are some strong incentives to keep that work visa active and valid.
 
+### 643: [Four Fthousand FAMA FThread - Weekly Discussion Thread, July 25th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/w7s5me/four_fthousand_fama_fthread_weekly_discussion/), submitted on 2022-07-25 23:41:34+08:00.
+
+----- __643.1__ -----2022-07-26 11:05:24+08:00:
+
+35\. Three gens of 5 members, three of 4, and one of 3.
+

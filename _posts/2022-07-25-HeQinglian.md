@@ -155,3 +155,15 @@ Re @Wu_Zhi @JianglinLi @ngexp @david_david1968 @RealBeiMing 马斯克现在又�
 
 Re @JianglinLi @Wu_Zhi @ngexp @david_david1968 @RealBeiMing 人家已经为社会打过预防针了：要防止社会污名化他们。<br>猴痘改个名儿就行了，叫“进步痘”，先让自己立于不可被批评之地。
 
+### 36: [2022-07-26 09:59:16+08:00 推文](https://twitter.com/HeQinglian/status/1551748956979449857)
+
+Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才都有。😅<br>各路英豪如果要“寻找领袖”，就来这里，总有一款适合需要。
+
+### 37: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
+
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
+
+### 38: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
+
+Re @John91056265 @CrabNJ 正解。
+

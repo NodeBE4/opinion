@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-25
+date: 2022-07-26
 from: https://twitter.com/JChengWSJ/status/1551379456253575168
 layout: post
 tags:
@@ -30,4 +30,8 @@ RT Carl Minzner<br>Re (2) It's a reprint of a 钟华论 Xinhua piece - i.e., p
 ### 4: [2022-07-25 22:12:26+08:00 推文](https://twitter.com/Maoviews/status/1551571078342148097)
 
 RT Mao<br>紫光集团原董事长赵伟国被有关部门带走调查。财新从多名知情人士处获悉，7月上旬，赵伟国被有关部门从北京家中带走，目前仍处于与外界失联的状态。<br><br>不同信源均称，赵伟国身涉调查或与其个人所控公司和原紫光集团旗下公司之间利益输送相关，比如设备采购、装修工程等未经公开招投标的问题。<br><img style="" src="https://pbs.twimg.com/media/FYhJq3saIAA1X2A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-07-26 07:40:22+08:00 推文](https://twitter.com/cnmediaproject/status/1551714002769629184)
+
+Re @BinXuAtlanta @politybooks Looks like a must-read.
 
