@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -637,7 +637,7 @@ Re @Wu_Zhi 👍👍👍
 
 ### 156: [2022-07-09 06:53:30+08:00 推文](https://twitter.com/HeQinglian/status/1545541615216984067)
 
-全是专制极权政府之能，如果要夸耀此能，就别抱怨专制之痛。<br>目前，世界上多的是希望甘蔗两头甜的人：要有专制政权的强权，同时要有民主国家的个人自由与社会福利。<br>第三条道路之说早就画好了大饼。😂<br><br>明实：没法眼佛眼但有真眼: @HeQinglian @FightForJiuCai 能够把民众锁在家里，而让欧美供应断裂;<br>能够在俄乌之战前买进天量的粮食、铜等;<br>能够让欧美摒弃庞大的燃油车产业链发展电动力;<br>能够早早发展光伏风能，让欧美见方抓药;<br>能够让普京主动进攻乌克兰，而让自己立于不败之地;<br>能够让恒大、中国200多家华尔街上市公司针对性爆破……<br>这是一般决策者敢干的？<br>
+全是专制极权政府之能，如果要夸耀此能，就别抱怨专制之痛。<br>目前，世界上多的是希望甘蔗两头甜的人：要有专制政权的强权，同时要有民主国家的个人自由与社会福利。<br>第三条道路之说早就画好了大饼。😂
 
 ### 157: [2022-07-09 09:55:09+08:00 推文](https://twitter.com/HeQinglian/status/1545587327355043841)
 
@@ -749,7 +749,7 @@ Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>�
 
 ### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
 
-日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅
 
 ### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
 
