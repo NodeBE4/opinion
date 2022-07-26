@@ -25,3 +25,5 @@ To add to that, Calli's music career is largely tied to UMG Japan and a lot of t
 
 35\. Three gens of 5 members, three of 4, and one of 3.
 
+EDIT: I guess people are really salty about those graduations, huh?
+
