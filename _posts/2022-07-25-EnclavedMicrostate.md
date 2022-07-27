@@ -27,3 +27,11 @@ To add to that, Calli's music career is largely tied to UMG Japan and a lot of t
 
 EDIT: I guess people are really salty about those graduations, huh?
 
+----- __643.2__ -----2022-07-28 01:03:00+08:00:
+
+This is the first I've heard of Suisei having 'disappeared'.
+
+----- __643.3__ -----2022-07-28 01:17:08+08:00:
+
+Well yes, but Osekkai hasn't clipped Suisei in a *long* time. We're talking over 4 months for the most recent clip, and over a year since they were clipping Suisei consistently. So I'm just a little confused on the idea that Suisei somehow dropped off the face of the planet at one stage.
+
