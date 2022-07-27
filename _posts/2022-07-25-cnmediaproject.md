@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-26
+date: 2022-07-27
 from: https://twitter.com/JChengWSJ/status/1551379456253575168
 layout: post
 tags:
@@ -34,4 +34,8 @@ RT Mao<br>紫光集团原董事长赵伟国被有关部门带走调查。财�
 ### 5: [2022-07-26 07:40:22+08:00 推文](https://twitter.com/cnmediaproject/status/1551714002769629184)
 
 Re @BinXuAtlanta @politybooks Looks like a must-read.
+
+### 6: [2022-07-27 17:34:54+08:00 推文](https://twitter.com/cnmediaproject/status/1552226009952702465)
+
+Facing curbs on social media, Chinese users have long used creative wordplay to tiptoe around censorship. As platforms enforce their own word restrictions to hold on to traffic and hold off rivals, content creators have a whole new set of words to avoid. <a href="https://bit.ly/3PHXAUy" target="_blank" rel="noopener noreferrer">https://bit.ly/3PHXAUy</a><br><img style="" src="https://pbs.twimg.com/media/FYqdUjCaIAAkegq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
