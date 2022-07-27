@@ -29,19 +29,19 @@ Re “摸着石头过河”的游戏已近“图穷匕首现”，公权力的�
 
 ### 4: [2022-06-15 01:33:40+08:00 推文](https://twitter.com/realcaixia/status/1536763817945878529)
 
-利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。<br><br>荣剑: 必须人人追究此事责任者，否则，下一个被红码的就是你！<br><br><img style="" src="https://pbs.twimg.com/media/FVNW9oCUcAAb1xU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW90hUcAU_b7J?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW-jLUAAEsLgH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVNW_FgUYAEHY7o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+利用高科技，将防疫用的所谓“健康码”拿来监控人的行踪，这被清零政策赋予了合理性，大陆的人也就忍了。现在清零难以持续，人们维护正常的生活，包括维护利益权利的正常活动，都要有法治环境作保障。有些地方想“歪”用健康码，必遭到全社会谴责。此歪念恶行若不被及时曝光揭露谴责追究，大陆处处变新疆。
 
 ### 5: [2022-06-17 02:41:41+08:00 推文](https://twitter.com/realcaixia/status/1537505709872513024)
 
-习搞的这个非战争行为军队行动纲要就是再一次玩弄流氓手法，避开国家立法正常程序而又操控军队，使军队充当习家打手，在国内政治中镇压民众、消灭中共党内外的反习人士。<br>习2018玩弄流氓手法搞修宪得逞，这次是故伎重演。习搞的这个军事行动（纲要）本身非法，不具有合法性。<br><br>韩连潮: 【军队支习？】毛泽东利用军队控制文革混乱局面，搞三支两军（支左、支农、支工、军管、军训），习近平又搬军队出来支习。他避开了正常国家立法程序，并伪称此项命令为军队非战争军事行动提供了法律依据。但纲要指向的行动超越国家规范的军队职能权限。看来他焦虑对局面的掌控，要用党卫军维护习天下。<br><br><img style="" src="https://pbs.twimg.com/media/FVOLmzjVsAA4W8V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习搞的这个非战争行为军队行动纲要就是再一次玩弄流氓手法，避开国家立法正常程序而又操控军队，使军队充当习家打手，在国内政治中镇压民众、消灭中共党内外的反习人士。<br>习2018玩弄流氓手法搞修宪得逞，这次是故伎重演。习搞的这个军事行动（纲要）本身非法，不具有合法性。
 
 ### 6: [2022-06-19 04:23:09+08:00 推文](https://twitter.com/realcaixia/status/1538256019259854848)
 
-这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？<br><br>ZHANGDONG: 这是释放什么信号？<br><br><img style="" src="https://pbs.twimg.com/media/FVimFF6XwAAdzoB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是什么信号？习想把全民拖入战争危机中，用武统作幌子保自己20大不下台，借口是中国老话“临战不换帅”？
 
 ### 7: [2022-06-19 04:52:29+08:00 推文](https://twitter.com/realcaixia/status/1538263403176857603)
 
-上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。<br><br>***堆: 复工复惨<br><br><video src="https://video.twimg.com/ext_tw_video/1537393279402405892/pu/vid/1280x720/8O3HogdMzFUIk6_B.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537393279402405892/pu/img/6Tm5XmebD9Rnk3vy.jpg"></video>
+上海是这样的话，苏锡常地区都好不到哪里去，广东深圳也差不多一个样。清零清死了许多无辜的人；清死了大陆经济；清死了中共政府财政；就是没清死奥密克戎病毒。等着看清零最终能不能清死一党专政极权统治政权。
 
 ### 8: [2022-06-19 05:49:51+08:00 推文](https://twitter.com/realcaixia/status/1538277840705228800)
 
