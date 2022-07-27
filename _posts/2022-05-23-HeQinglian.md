@@ -141,7 +141,7 @@ Re 原来，白宫通过布林肯宣示，俄乌战争必须拖到12月（那时
 
 ### 32: [2022-05-23 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1528745942123433988)
 
-在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。 <a href="https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official" target="_blank" rel="noopener noreferrer">https://www.usnews.com/news/world/articles/2022-05-23/no-change-in-u-s-policy-towards-taiwan-says-white-house-official</a>
+在拜登关于台湾军事介入的讲话后，白宫官员火速澄清，美国并未改变对台政策。<br><br>He Qinglian: 这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br> <a href="https://twitter.com/nytchinese/status/1528677122935361538" target="_blank" rel="noopener noreferrer">https://twitter.com/nytchinese/status/1528677122935361538</a>
 
 ### 33: [2022-05-23 22:47:00+08:00 推文](https://twitter.com/HeQinglian/status/1528749341745217536)
 

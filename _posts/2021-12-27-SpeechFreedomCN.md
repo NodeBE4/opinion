@@ -33,7 +33,7 @@ Sichuan woman Wei detained for 5 days for complaining about traffic police in We
 
 ### 5: [2021-12-31 15:35:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819302493966363)
 
-2019年2月，安徽省宿松县男子贺某贵，因在微信朋友圈发文称自己被狗咬，并配图交通罚单照片，被认定为侮辱交警处拘留3日。<br><img style="" src="https://pbs.twimg.com/media/FH63SLlXsAA7Tho?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH63TkeX0AcLjRM?format=png&name=orig" referrerpolicy="no-referrer">
+2019年2月，安徽省宿松县男子贺某贵，因在微信朋友圈发文称自己被狗咬，并配图交通罚单照片，被认定为侮辱交警处拘留3日。<br><img style src="https://pbs.twimg.com/media/FH63SLlXsAA7Tho?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH63TkeX0AcLjRM?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-31 15:37:07+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1476819694153879557)
 
