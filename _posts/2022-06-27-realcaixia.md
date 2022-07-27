@@ -57,7 +57,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 11: [2022-06-28 23:39:00+08:00 推文](https://twitter.com/realcaixia/status/1541808389797322753)
 
-张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。
+张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。<br><br>浦志强: 我做不到啊，惭愧啊！连家属在内，只让二十人进兰厅，再不能多了；厅里不许停留，不让拍照——经交涉，始许一人专司拍摄；殡仪馆服务人员，着淡蓝色罩袍，站姿极其飒爽。<br><br><img style="" src="https://pbs.twimg.com/media/FWT5wURUEAENUT_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUSUsAAnjj2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUTUYAAQD9t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUQUsAAUfEs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410" target="_blank" rel="noopener noreferrer">https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410</a>
 
 ### 12: [2022-06-29 03:20:19+08:00 推文](https://twitter.com/realcaixia/status/1541864087583440896)
 
@@ -65,7 +65,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 13: [2022-06-29 11:26:25+08:00 推文](https://twitter.com/realcaixia/status/1541986418406326273)
 
-我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。<br><br>楊建利 Yang Jianli: 敬告<br><br>由于不明来源的攻击，《议报》网站目前处于不稳定的状态。我们正紧急维修，相信很快会恢复正常。对因此给读者造成的不便和困扰，我们深表歉意。<br><br>致敬读者，您的信任是我们工作的动力，也是我们团队存在的价值。<br>致敬作者，您高质量的文章，给世界增添了精神色彩和思想资源。<br><br>《议报》编辑部<br>
+我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
@@ -93,7 +93,7 @@ Re @drkimharry 看来我们见过？
 
 ### 20: [2022-06-29 21:10:33+08:00 推文](https://twitter.com/realcaixia/status/1542133419542454272)
 
-非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。
+非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。<br><br>Sayori: @realcaixia 蔡霞老师的这篇文章确实很长，已经截屏不知可否帮助到各位，谢谢👒<br><br><video src="https://video.twimg.com/ext_tw_video/1542048648753979392/pu/vid/592x1280/RIxcHwjF1UfISao6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542048648753979392/pu/img/dQ56qV-uzAWFXwXB.jpg"></video>
 
 ### 21: [2022-06-29 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1542168726618898432)
 
@@ -129,7 +129,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
+非常赞同文章作者观点。
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
@@ -161,11 +161,11 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 37: [2022-07-02 07:19:20+08:00 推文](https://twitter.com/realcaixia/status/1543011400871821312)
 
-香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适
+香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适<br><br>自由亚洲电台: 【港新任特首李加超就职演说表情十足】<br>【惟台下观众多“闭目养神”】<br>于7月1日就任的香港特首李家超表就职演说。虽然李家超一改以往平实发言的风格，不时刻意调高嗓子，双眉、双眼与及口部动作亦明显比平时增多，但也未能得到台下观众注目。<br>13分钟演说里，台下有不少观众都呼呼入睡。<br><br>视频截图<br><br><img style="" src="https://pbs.twimg.com/media/FWkYJhYWQAE7UvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
@@ -173,11 +173,11 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
-在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。<br><br>Vicky Huang: @ZhaoMingObserve @Littlerize 看看當時影片 跟現在樣板完全不同<br> <a href="https://youtu.be/kxRYIrwnU_c" target="_blank" rel="noopener noreferrer">https://youtu.be/kxRYIrwnU_c</a>
+在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+极权统治出打手举刀了。
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 
