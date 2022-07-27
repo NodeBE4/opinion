@@ -61,7 +61,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
-21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style="" src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
+21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-09 12:53:30+08:00 推文](https://twitter.com/realcaixia/status/1468805982830706689)
 
@@ -109,7 +109,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 24: [2021-12-11 09:15:42+08:00 推文](https://twitter.com/realcaixia/status/1469475948978397186)
 
-文革时大学停课了，红色斗争精神也就只能进小学中学课本。现在红色斗争精神的官名“红色基因”正式进入大学教材、登上大学讲堂，还和DNA直接挂钩，真是毛二世时代的中国特色创新——新妖辈出。<br><br>荣剑: 范忠信老师：原来以为“红色基因〞仅仅是一种社会文化上的比喻，是红色斗争精神的代名词。没想到，现在居然正式进了生物学科课程，居然正式与DNA联系起来了。真让人目瞪狗呆。什么叫高级黑？这就是。马上让你联想到古时金枝玉叶、天潢贵胄、龙子龙孙。<br><br><img style="" src="https://pbs.twimg.com/media/FGQMjc8VgAE9R1p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGQMkE7VUAEj62H?format=jpg&name=orig" referrerpolicy="no-referrer">
+文革时大学停课了，红色斗争精神也就只能进小学中学课本。现在红色斗争精神的官名“红色基因”正式进入大学教材、登上大学讲堂，还和DNA直接挂钩，真是毛二世时代的中国特色创新——新妖辈出。<br><br>荣剑: 范忠信老师：原来以为“红色基因〞仅仅是一种社会文化上的比喻，是红色斗争精神的代名词。没想到，现在居然正式进了生物学科课程，居然正式与DNA联系起来了。真让人目瞪狗呆。什么叫高级黑？这就是。马上让你联想到古时金枝玉叶、天潢贵胄、龙子龙孙。<br><br><img style src="https://pbs.twimg.com/media/FGQMjc8VgAE9R1p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGQMkE7VUAEj62H?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2021-12-11 09:48:01+08:00 推文](https://twitter.com/realcaixia/status/1469484082933518340)
 
