@@ -25,11 +25,11 @@ RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking
 
 ### 3: [2022-01-06 15:00:45+08:00 推文](https://twitter.com/cnmediaproject/status/1478984869737017345)
 
-2022 has hardly begun, but for CCP propaganda ministers there can be no doubt that the year’s biggest news story will be the CCP congress starting 10+ months from now. Quick take on the propaganda ministers' conference. <a href="https://bit.ly/3EZo1i4" target="_blank" rel="noopener noreferrer">https://bit.ly/3EZo1i4</a><br><img style src="https://pbs.twimg.com/media/FIZo32KacAcpW-I?format=jpg&name=orig" referrerpolicy="no-referrer">
+2022 has hardly begun, but for CCP propaganda ministers there can be no doubt that the year’s biggest news story will be the CCP congress starting 10+ months from now. Quick take on the propaganda ministers' conference. <a href="https://bit.ly/3EZo1i4" target="_blank" rel="noopener noreferrer">https://bit.ly/3EZo1i4</a><br><img style="" src="https://pbs.twimg.com/media/FIZo32KacAcpW-I?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-06 22:07:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1479092256426627072)
 
-RT Alex Dukalskis<br>Remarkable visual. Mentions of Xi in People's Daily front page headlines outpacing Mao at height of Cultural Revolution.<br><br>Christian Goebel: Updated version of a graph I posted in February. It visualises frontpage headline mentions of China's political leaders in the People's Daily between 1946 and 2021.<br><br><img style src="https://pbs.twimg.com/media/FIX9aaiXoAItbGD?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>Remarkable visual. Mentions of Xi in People's Daily front page headlines outpacing Mao at height of Cultural Revolution.<br><br>Christian Goebel: Updated version of a graph I posted in February. It visualises frontpage headline mentions of China's political leaders in the People's Daily between 1946 and 2021.<br><br><img style="" src="https://pbs.twimg.com/media/FIX9aaiXoAItbGD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-07 03:34:07+08:00 推文](https://twitter.com/emily_sw1/status/1479174459110170627)
 
@@ -57,7 +57,7 @@ RT Caixin Global<br>Weekend Long Read: Chinese cuisine has been hard to judge 
 
 ### 11: [2022-01-08 14:05:27+08:00 推文](https://twitter.com/cnmediaproject/status/1479695726209036289)
 
-Just stumbled across this wonderful historical example of how CCP official discourse reverberates through all disciplines in China in ways that are often absurd and giggle-inducing. Well-needed humor as we head into a year of pre-20th Congress CCP gobbledygook.<br><img style src="https://pbs.twimg.com/media/FIjvXcjaUAE1zq0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Just stumbled across this wonderful historical example of how CCP official discourse reverberates through all disciplines in China in ways that are often absurd and giggle-inducing. Well-needed humor as we head into a year of pre-20th Congress CCP gobbledygook.<br><img style="" src="https://pbs.twimg.com/media/FIjvXcjaUAE1zq0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-09 23:39:43+08:00 推文](https://twitter.com/GeringTuvia/status/1480202634829127687)
 
