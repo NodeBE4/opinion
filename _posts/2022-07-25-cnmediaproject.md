@@ -39,7 +39,15 @@ Re @BinXuAtlanta @politybooks Looks like a must-read.
 
 Facing curbs on social media, Chinese users have long used creative wordplay to tiptoe around censorship. As platforms enforce their own word restrictions to hold on to traffic and hold off rivals, content creators have a whole new set of words to avoid. <a href="https://bit.ly/3PHXAUy" target="_blank" rel="noopener noreferrer">https://bit.ly/3PHXAUy</a><br><img style="" src="https://pbs.twimg.com/media/FYqdUjCaIAAkegq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 7: [2022-07-27 23:03:25+08:00 推文](https://twitter.com/cnmediaproject/status/1552308683614621697)
+### 7: [2022-07-27 21:37:33+08:00 推文](https://twitter.com/niubi/status/1552287075575152640)
+
+RT Bill Bishop<br>20th Party Congress delegates for party center and state organs elected. MIIT head Xiao Yaqing not on the list (rumors going around about discipline trouble) <a href="https://mp.weixin.qq.com/s/AS0sTZWOKp5CF-MYaHYipA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/AS0sTZWOKp5CF-MYaHYipA</a><br><img style="" src="https://pbs.twimg.com/media/FYrUw2mXoAAE6k-?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-07-27 22:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1552292975870222339)
+
+RT Jonathan Cheng<br>Wuhan, epicenter of the first Covid-19 outbreak, locked down a district of about 1 million people after finding four asymptomatic cases, a reflection of the nation’s continued commitment to its zero-Covid policy.<br>@DanStrumpf @QiZHAI <a href="https://on.wsj.com/3OA0HMJ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3OA0HMJ</a>
+
+### 9: [2022-07-27 23:03:25+08:00 推文](https://twitter.com/cnmediaproject/status/1552308683614621697)
 
 Don't You Dare Say "WeChat": Platforms like Douyin, the Chinese domestic version of TikTok, seem to be applying keyword restrictions for commercial as well as political and regulatory reasons -- a headache for content creators. <a href="https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/</a><br><img style="" src="https://pbs.twimg.com/media/FYroZ8oaUAAoq0o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
