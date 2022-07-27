@@ -117,7 +117,7 @@ Re @KELMAND1 作者的意思很明显：一段时期只能有一个外交重心�
 
 ### 26: [2022-07-19 08:51:26+08:00 推文](https://twitter.com/HeQinglian/status/1549195174395494402)
 
-资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。<br><br>Ezio Mao☢: “现在强迫中国自己制造芯片，意味着如果将来发生冲突，你不仅放弃了这些高薪工作，而且会迫使中国完全实现自给自足。”比尔·盖茨曾接受美国彭博社采访时表示：“这样做真的会有好处吗?”<br><br><img style="" src="https://pbs.twimg.com/media/FX6nBfYakAETGea?format=png&amp;name=orig" referrerpolicy="no-referrer">
+资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。
 
 ### 27: [2022-07-19 09:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1549197462434373634)
 
