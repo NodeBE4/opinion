@@ -85,7 +85,7 @@ Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，�
 
 ### 18: [2022-07-09 21:09:39+08:00 推文](https://twitter.com/realcaixia/status/1545757071169167361)
 
-科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。
+科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。<br><br>鲁  难: 数据技术的进步不仅没有使中国人获得自由，反而陷入更加严酷的禁锢之中。<br> <a href="https://twitter.com/rfa_chinese/status/1545432275004833792" target="_blank" rel="noopener noreferrer">https://twitter.com/rfa_chinese/status/1545432275004833792</a>
 
 ### 19: [2022-07-09 21:19:49+08:00 推文](https://twitter.com/realcaixia/status/1545759631246598147)
 
@@ -93,7 +93,7 @@ Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，�
 
 ### 20: [2022-07-10 06:00:48+08:00 推文](https://twitter.com/realcaixia/status/1545890740814991361)
 
-唐山师范学院处理退休教师，请问是甘于堕落为无良知反文明的极权帮凶吗？！退休教授网上发言要被处罚，不仅显示中国现在言论自由没有任何空间，而且还不允许人们坚守良知，非要把人逼成邪恶暴力的鼓吹者。這樣的師範學院究竟以什么作“為人师表”的准则？！<br><br>ZHANGDONG: 安倍遇刺身亡，几家欢喜几家愁！<br>唐山师院退休教师石文瑛被立专项调查，据说只因为发表了“错误言论”，还将被“依法依规严肃处理”。她到底说了什么？请看下面新浪新闻的截图👇<br>也不知批评国民劣根性触犯了哪条法规？鲁迅若还活在当世，估计早就被严肃处理好几回了。如今还让人说话不？！<br><br><img style="" src="https://pbs.twimg.com/media/FXPq0tdXwAAUKWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXPq073XgAA2NeC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXPq1LjWAAA8p-k?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+唐山师范学院处理退休教师，请问是甘于堕落为无良知反文明的极权帮凶吗？！退休教授网上发言要被处罚，不仅显示中国现在言论自由没有任何空间，而且还不允许人们坚守良知，非要把人逼成邪恶暴力的鼓吹者。這樣的師範學院究竟以什么作“為人师表”的准则？！
 
 ### 21: [2022-07-10 21:32:15+08:00 推文](https://twitter.com/realcaixia/status/1546125148075528193)
 
