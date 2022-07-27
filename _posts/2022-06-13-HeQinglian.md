@@ -269,7 +269,7 @@ RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成�
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
-克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。
+克林顿说：“我实际上认为，如果我们继续做出错误的决定，我们很有可能在几十年内完全失去我们的宪政民主。……我以前从未像现在这样担心我们民主政府的结构”。<br>6月15日发布的雅虎新闻-YouGov 民意调查显示，55% 的民主党人和 53% 的共和党人表示，他们相信美国有一天“可能”不会成为民主国家。<br><br>The Hill: Bill Clinton: "Fair chance" US could "completely lose" its democratic system<br><br><img style="" src="https://pbs.twimg.com/media/FVYVqFcVsAcfNK2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/mp92tnr" target="_blank" rel="noopener noreferrer">https://trib.al/mp92tnr</a>
 
 ### 65: [2022-06-16 22:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1537443744412098561)
 
