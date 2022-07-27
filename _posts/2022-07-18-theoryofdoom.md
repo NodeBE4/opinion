@@ -110,3 +110,27 @@ Not precisely relevant to COVID, but an adjacent development with potentially ov
 
 I agree with all of this.  How would you solve the problem?
 
+----- __348.2__ -----2022-07-27 10:57:26+08:00:
+
+> Get moderators that are familiar with a topic like AskHistorians.
+
+Some of us have subject matter expertise.  But others do not.  In my experience on this side of the isle, I can see how that creates problems from a slightly different vantage.  
+
+But from your experience here, why do you think adding more moderators with subject matter expertise would improve /r/geopolitics?  
+
+Again, I have a couple of ideas myself, but I'd be curious to hear your thoughts first.  
+
+> Remove the ****pedia ban.  
+
+We allow most non-blogspam sources.  What harm do you think is caused by banning Wikipedia? How do you think removing the ban will improve the subreddit? 
+
+> Don't allow youtube channels as post like Caspian Report. The problem is many of the channels are inaccurate for many regions of the world.
+
+We rarely allow videos.  And I agree with you on Caspian Report.  Shirvan is a nice kid and I appreciate his interest in the subject, but I think most would agree his content isn't appropriate here.  But it might be some day.  As I am fairly sure he subscribes here, I'd encourage him to continue growing and developing.
+
+> Update the rules and wiki. There has to be an explainer on the difference between IR vs Geopolitics
+
+As to the rules, when you say "update," what are you envisioning?  Simplifying them?  Clarifying them?  Many are cumulative, poorly worded and vague.  Is that what you had in mind?  Or something else? 
+
+As to the wiki, that's probably a good idea.
+
