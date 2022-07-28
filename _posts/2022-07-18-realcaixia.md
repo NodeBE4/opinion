@@ -93,7 +93,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>hanbugerger: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 

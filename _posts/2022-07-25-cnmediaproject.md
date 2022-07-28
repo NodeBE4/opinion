@@ -91,3 +91,7 @@ Re “This is the truth,” a user said in a comment under a post by IT Home. �
 
 Re @marchofer A good way to put it, actually. Authorities can talk about cleaning up an environment, safeguarding culture, and so on -- but such interventions become the culture.
 
+### 20: [2022-07-28 22:47:20+08:00 推文](https://twitter.com/niubi/status/1552667023452381184)
+
+RT Bill Bishop<br>lot of Xi and a lot of red on people's daily page 1 today<br><img style="" src="https://pbs.twimg.com/media/FYwuW7gXwAAiVOU?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
