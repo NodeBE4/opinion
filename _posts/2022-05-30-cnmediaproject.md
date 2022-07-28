@@ -145,5 +145,5 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Pseudo names of Party writing teams <br><br>�
 
 ### 33: [2022-06-03 23:12:43+08:00 推文](https://twitter.com/JeromeTaylor/status/1532742082057875457)
 
-RT Jerome Taylor<br>Hong Kong authorities can ban vigils and memorials, they can pull down statues and scrub away graffiti, but they can’t erase Hong Kongers’ memories
+RT Jerome Taylor<br>Hong Kong authorities can ban vigils and memorials, they can pull down statues and scrub away graffiti, but they can’t erase Hong Kongers’ memories<br><br>Holmes Chan: Ahead of the Tiananmen anniversary, a Hong Kong artist has set up a "maths challenge" in Causeway Bay to "raise concern about students' stress level". A few passersby have taken the test so far.<br><br>See if you can guess what the answer is:<br><br><video src="https://video.twimg.com/ext_tw_video/1532688276330405888/pu/vid/1280x720/ieKvYq9nFvovRY8d.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1532688276330405888/pu/img/9g63VSamfGKkhrAx.jpg"></video>
 
