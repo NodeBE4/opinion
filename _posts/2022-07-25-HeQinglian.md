@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-07-28
+date: 2022-07-29
 from: https://twitter.com/HeQinglian/status/1551253913432735744
 layout: post
 tags:
@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
@@ -414,4 +414,24 @@ Re @FranzMendelsso1 @KELMAND1 好象还有一个，国会山股神。虚虚实�
 ### 100: [2022-07-28 23:36:51+08:00 推文](https://twitter.com/HeQinglian/status/1552679484041691136)
 
 Re @mingshi_chen 不是开了一个会，要限定价格吗？我还以为美国一挥手，OPEC+1会跟着走。没想到没能带走一片云彩。
+
+### 101: [2022-07-29 00:00:07+08:00 推文](https://twitter.com/HeQinglian/status/1552685339763941376)
+
+Re @mingshi_chen 关键是：美国拜登政府与美国主流媒体至今还没认清现实。但一些敏锐的观察人士已经意识到这点，不过觉得还可以夺回来。
+
+### 102: [2022-07-29 00:05:37+08:00 推文](https://twitter.com/HeQinglian/status/1552686727248154625)
+
+Re @KELMAND1 绿能洗绿之后，回归原点，甚至更退一点，烧木柴了。<br>衰退本来就名之为“负增长”，重新定义之后，难道会去掉“负”字，成为“增长”？<br>Google可以帮个忙，将“-”号的色彩淡化至灰白色几至看不出，这样，白宫很真实地说明了经济情况，但公众却看不到那个“-”号了。谁敢说撒谎，让他们睁大眼睛，配个特殊放大镜。
+
+### 103: [2022-07-29 00:08:40+08:00 推文](https://twitter.com/HeQinglian/status/1552687491446087682)
+
+Re @zhixiangziyou 华侨城的房子分几等，最大的三百多平米，最小的八十多，就看住哪里了。如果是前者，倒是凑合。
+
+### 104: [2022-07-29 00:39:37+08:00 推文](https://twitter.com/HeQinglian/status/1552695283384991746)
+
+Re @zhixiangziyou 这叫”久居芝兰之室，不闻其臭（Xiu）”。😂
+
+### 105: [2022-07-29 00:50:17+08:00 推文](https://twitter.com/HeQinglian/status/1552697966514868224)
+
+Re @wuding599 @KELMAND1 南希卫士。她家的逾亿财富如何来的？
 
