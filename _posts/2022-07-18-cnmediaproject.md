@@ -63,35 +63,39 @@ RT Chenchen Zhang 🤦🏻‍♀️<br>when preparing for moving I found this 
 
 This month China announced its preliminary selections for the China Press Awards, the “highest award for outstanding national journalism.” Under the country's tightly-controlled media system, what exactly amounts to excellence? <a href="https://chinamediaproject.org/2022/07/21/rewarding-compliance%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/21/rewarding-compliance%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYL_vd0acAEJJ6U?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 13: [2022-07-22 12:11:11+08:00 推文](https://twitter.com/cnmediaproject/status/1550332604909756416)
+### 13: [2022-07-22 11:04:34+08:00 推文](https://twitter.com/CDT/status/1550315841719218176)
+
+RT China Digital Times<br>WSJ – A Frozen Document in China Unleashes a Furor Over Privacy<br><br>"[CDT's] Eric Liu [...] said all technology companies that provide consumer cloud storage services in China are required to censor content." <a href="https://www.wsj.com/articles/a-frozen-document-in-china-unleashes-a-furor-over-privacy-11657887259" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/a-frozen-document-in-china-unleashes-a-furor-over-privacy-11657887259</a>
+
+### 14: [2022-07-22 12:11:11+08:00 推文](https://twitter.com/cnmediaproject/status/1550332604909756416)
 
 A virtual event hosted yesterday by Baidu and CCTV News was meant to showcase "avant-garde" AI applications. But the tech giant's live video feed for the event was hijacked by old-fashioned regulatory hurdles. <a href="https://chinamediaproject.org/2022/07/22/major-glitch-at-virtual-tech-event%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/major-glitch-at-virtual-tech-event%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYPjN5WacAEKz16?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 14: [2022-07-22 14:04:01+08:00 推文](https://twitter.com/cnmediaproject/status/1550360999416705025)
+### 15: [2022-07-22 14:04:01+08:00 推文](https://twitter.com/cnmediaproject/status/1550360999416705025)
 
 Left conspicuously unanswered in accounts of the company's misdeeds by the Cyberspace Administration of China is the exact nature of its alleged national security violations. <a href="https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYP9FUyaQAMZ8fC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 15: [2022-07-22 16:53:52+08:00 推文](https://twitter.com/WilliamYang120/status/1550403743333888001)
+### 16: [2022-07-22 16:53:52+08:00 推文](https://twitter.com/WilliamYang120/status/1550403743333888001)
 
 RT William Yang<br>"Workers at test centers in northeastern #China have been striking over unpaid wages in a nationwide COVID-19 testing industry that has expanded far beyond its sources of funding." <a href="https://www.rfa.org/english/news/china/covid-test-workers-07212022130753.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/english/news/china/covid-test-workers-07212022130753.html</a>
 
-### 16: [2022-07-22 16:57:19+08:00 推文](https://twitter.com/cnmediaproject/status/1550404612746014720)
+### 17: [2022-07-22 16:57:19+08:00 推文](https://twitter.com/cnmediaproject/status/1550404612746014720)
 
 Awkwardness yesterday at the 2022 Baidu World Conference, a virtual event jointly organized by the Chinese technology giant and the official CCTV News, as Baidu’s dedicated live video channel for the event on WeChat was cut off early in the broadcast. <a href="https://bit.ly/3RVps9d" target="_blank" rel="noopener noreferrer">https://bit.ly/3RVps9d</a><br><img style="" src="https://pbs.twimg.com/media/FYQkwa8aAAAg75I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 17: [2022-07-22 17:00:46+08:00 推文](https://twitter.com/cnmediaproject/status/1550405482229436416)
+### 18: [2022-07-22 17:00:46+08:00 推文](https://twitter.com/cnmediaproject/status/1550405482229436416)
 
 With a 1.2 billion dollar fine, the saga of the CAC investigation against the vehicle-for-hire company Didi came to a close this week. But questions linger over the specifics of the national security case against the company. <a href="https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/22/the-didi-national-security-mystery%ef%bf%bc/</a><br><img style="" src="https://pbs.twimg.com/media/FYQlfNXaQAAKKk9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 18: [2022-07-22 21:43:56+08:00 推文](https://twitter.com/amyyqin/status/1550476744007634945)
+### 19: [2022-07-22 21:43:56+08:00 推文](https://twitter.com/amyyqin/status/1550476744007634945)
 
-RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!<br><br>NYTimes Communications: We’re excited to announce that @CAMcGrady and @amyyqin are joining @nytnational.<br> <a href="https://www.nytco.com/press/national-welcomes-two-new-colleagues/" target="_blank" rel="noopener noreferrer">https://www.nytco.com/press/national-welcomes-two-new-colleagues/</a>
+RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!
 
-### 19: [2022-07-23 05:24:58+08:00 推文](https://twitter.com/CarlMinzner/status/1550592767184748544)
+### 20: [2022-07-23 05:24:58+08:00 推文](https://twitter.com/CarlMinzner/status/1550592767184748544)
 
 RT Carl Minzner<br>50 years later, we’re probably only a few years away from a 21st century Xi Jinping Thought version of this.<br><br>Development of Xi Jinping Thought on Diplomacy/Law/Ecological Civilization/etc was already a key step. The rest will follow soon enough …<br><br>Cultural Revolution OTD 1972: 22/7/72 The People's Daily celebrates the application of Mao Zedong Thought to the field of beekeeping, unlocking earlier egg-laying and more honey.<br>
 
-### 20: [2022-07-23 07:21:26+08:00 推文](https://twitter.com/ruima/status/1550622075408113664)
+### 21: [2022-07-23 07:21:26+08:00 推文](https://twitter.com/ruima/status/1550622075408113664)
 
 RT Rui Ma 马睿<br>The nature of $Didi's data violations is "extremely bad," according to regulators. I am personally mystified why the app was collecting screenshots in users' photo albums, and family relationship information. In all, 64 billion pieces of personal info were illegally processed. 🙀
 

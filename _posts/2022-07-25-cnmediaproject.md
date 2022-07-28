@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-27
+date: 2022-07-28
 from: https://twitter.com/JChengWSJ/status/1551379456253575168
 layout: post
 tags:
@@ -47,7 +47,47 @@ RT Bill Bishop<br>20th Party Congress delegates for party center and state org
 
 RT Jonathan Cheng<br>Wuhan, epicenter of the first Covid-19 outbreak, locked down a district of about 1 million people after finding four asymptomatic cases, a reflection of the nation’s continued commitment to its zero-Covid policy.<br>@DanStrumpf @QiZHAI <a href="https://on.wsj.com/3OA0HMJ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3OA0HMJ</a>
 
-### 9: [2022-07-27 23:03:25+08:00 推文](https://twitter.com/cnmediaproject/status/1552308683614621697)
+### 9: [2022-07-27 22:58:20+08:00 推文](https://twitter.com/niubi/status/1552307406973161472)
+
+RT Bill Bishop<br>Will China’s Xi Jinping be formally named ‘the people’s leader’? <a href="https://sc.mp/r3fh?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3186774" target="_blank" rel="noopener noreferrer">https://sc.mp/r3fh?utm_source=Twitter&amp;utm_medium=share_widget&amp;utm_campaign=3186774</a>
+
+### 10: [2022-07-27 23:03:25+08:00 推文](https://twitter.com/cnmediaproject/status/1552308683614621697)
 
 Don't You Dare Say "WeChat": Platforms like Douyin, the Chinese domestic version of TikTok, seem to be applying keyword restrictions for commercial as well as political and regulatory reasons -- a headache for content creators. <a href="https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/</a><br><img style="" src="https://pbs.twimg.com/media/FYroZ8oaUAAoq0o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-07-28 08:16:28+08:00 推文](https://twitter.com/niubi/status/1552447864684552198)
+
+RT Bill Bishop<br>China’s Political Discourse June 2022: Cave Dialogues and a Potshots Against the Premier, by @cnmediaproject <a href="https://sinocism.com/p/chinas-political-discourse-june-2022" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-june-2022</a>
+
+### 12: [2022-07-28 09:10:16+08:00 推文](https://twitter.com/cnmediaproject/status/1552461402555961344)
+
+Don't You Dare Say "WeChat": Chinese internet users have long had to be creative with language to work around official censorship. Now some content creators are up in arms about intrusive blocks by platforms, often for purely commercial reasons. <a href="https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/</a><br><img style="" src="https://pbs.twimg.com/media/FYtzU8vaIAA_Gbd?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-07-28 09:12:09+08:00 推文](https://twitter.com/cnmediaproject/status/1552461878919831553)
+
+Re Li Shanglong (李尚龙), an author and influencer, revealed on Weibo that he had received eight rule violation notices in a single day from the short video hosting platform Douyin, each resulting in the interruption of his live streams. His post brought a wave of discussion.<br><img style="" src="https://pbs.twimg.com/media/FYtz1O-aUAEBiqh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-07-28 09:19:28+08:00 推文](https://twitter.com/cnmediaproject/status/1552463718742904832)
+
+Re According to Li, Douyin’s warnings cited “suspected backflow" (倒流) as the reason for interrupting his live streams. The term suggests in this case that Li might have been redirecting traffic to rival platforms such as WeChat by mentioning the platforms in his live streams.
+
+### 15: [2022-07-28 09:20:46+08:00 推文](https://twitter.com/cnmediaproject/status/1552464046687162370)
+
+Re When Li used the term “limited-time offer,” or miaosha (秒杀), during his live stream, he says he was slapped with a Douyin warning. He used the innocuous utterance “miao miao” (秒秒) instead.
+
+### 16: [2022-07-28 09:21:04+08:00 推文](https://twitter.com/cnmediaproject/status/1552464121530294272)
+
+Re When, later in his live stream, he mentioned the phrase “money making,” or zhuan qian (赚钱), the axe came down again. The phrase was apparently unacceptable, but he could use “making rice,” or zhuan mi (赚米), a colloquialism for making money.
+
+### 17: [2022-07-28 09:22:45+08:00 推文](https://twitter.com/cnmediaproject/status/1552464543099793408)
+
+Re Douyin alleged in a response that Li's statements were false, but the explanations failed to satisfy many internet users and content creators -- who said the account confirmed what everyone already knew from experience.<br><img style="" src="https://pbs.twimg.com/media/FYt2OumacAAJUNr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-07-28 09:24:33+08:00 推文](https://twitter.com/cnmediaproject/status/1552464997280006144)
+
+Re “This is the truth,” a user said in a comment under a post by IT Home. “And so many content creators [who are saying the same thing] aren’t idiots.” Online courses in China teach content creators how to live stream in ways that dodge censorship and work around platform standards.
+
+### 19: [2022-07-28 09:42:06+08:00 推文](https://twitter.com/cnmediaproject/status/1552469412397355008)
+
+Re @marchofer A good way to put it, actually. Authorities can talk about cleaning up an environment, safeguarding culture, and so on -- but such interventions become the culture.
 
