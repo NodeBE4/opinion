@@ -321,7 +321,7 @@ Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 中国皇帝没这医疗水平
 
 ### 77: [2022-05-11 05:44:33+08:00 推文](https://twitter.com/HeQinglian/status/1524143377725411334)
 
-RT He Qinglian<br>拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
+拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
 
 ### 78: [2022-05-11 05:56:51+08:00 推文](https://twitter.com/HeQinglian/status/1524146473734127617)
 

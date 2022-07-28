@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-07-25~2022-07-31'
 
 ### 2: [2022-07-25 08:12:06+08:00 推文](https://twitter.com/realcaixia/status/1551359600271806469)
 
-支持！<br><br>Luo Shengchun丁家喜律师妻子: #一人一照声援丁家喜许志永 非常感谢国内朋友发来照片声援家喜！考虑到国内朋友发声有危险，我决定在海外发起一场一人一照声援丁家喜许志永活动，欢迎海外的朋友们踊跃参加！照片做完可以发给我来发推特，或者您直接发推特把链接分享给我或放群里。<br><br>非常感谢清鹏率先参与支持！<br> <a href="https://twitter.com/wangqingpeng1/status/1540175207616245760" target="_blank" rel="noopener noreferrer">https://twitter.com/wangqingpeng1/status/1540175207616245760</a>
+支持！
 
 ### 3: [2022-07-25 20:00:20+08:00 推文](https://twitter.com/realcaixia/status/1551537832728174593)
 
