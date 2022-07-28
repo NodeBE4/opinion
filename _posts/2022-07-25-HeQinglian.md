@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -434,4 +434,36 @@ Re @zhixiangziyou 这叫”久居芝兰之室，不闻其臭（Xiu）”。😂
 ### 105: [2022-07-29 00:50:17+08:00 推文](https://twitter.com/HeQinglian/status/1552697966514868224)
 
 Re @wuding599 @KELMAND1 南希卫士。她家的逾亿财富如何来的？
+
+### 106: [2022-07-29 02:47:48+08:00 推文](https://twitter.com/HeQinglian/status/1552727538224582663)
+
+Re @JiangShangrong 终于可以名正言顺地再度邮寄选票了，中期选举没有悬念——民主党赢，哪怕两院每院多一个席位，也是纵横美国任我行。
+
+### 107: [2022-07-29 03:02:38+08:00 推文](https://twitter.com/HeQinglian/status/1552731274137190400)
+
+7月25日，8名女囚起诉了印第安纳州克拉克县警长及多名县监狱管理人员，此前已有20名女囚犯在6月提起了相同的诉讼。<br>据诉讼，一狱警涉嫌以1000美元将女囚牢房钥匙卖给男囚犯，导致女囚犯随后遭到几人强奸、攻击或骚扰。袭击结束后这些女囚还受到狱警惩罚。<br><br>女权组织何在？ <a href="https://www.washingtonpost.com/nation/2022/07/28/indiana-jail-inmate-rape-attack/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/nation/2022/07/28/indiana-jail-inmate-rape-attack/</a>
+
+### 108: [2022-07-29 03:16:52+08:00 推文](https://twitter.com/HeQinglian/status/1552734854646833157)
+
+拜习通话结束，中方很快发布了消息，美方至今还未发布信息。<br>美中一会两表成近两年惯例，中方通报自然是习近平占上风，且看白宫如何通报吧——此前的预热是布林肯承诺“六不”，拜登以前是“四不”。不知拜登这次会承诺“几不”。
+
+### 109: [2022-07-29 03:27:50+08:00 推文](https://twitter.com/HeQinglian/status/1552737612988817410)
+
+VOA消息，空无一物 <br>这次拜习通话，南希女士是最大的赢家。股神的神迹显示过两次，但德国之声适时重温当年天安门拉横幅，反极权英雄一美遮百丑。<br>去台湾还是不去，已经不重要了，因为美媒已经不再追报股票内幕交易问题了。<br><br>He Qinglian: 拜习通话结束，中方很快发布了消息，美方至今还未发布信息。<br>美中一会两表成近两年惯例，中方通报自然是习近平占上风，且看白宫如何通报吧——此前的预热是布林肯承诺“六不”，拜登以前是“四不”。不知拜登这次会承诺“几不”。<br>
+
+### 110: [2022-07-29 03:37:39+08:00 推文](https://twitter.com/HeQinglian/status/1552740084683767808)
+
+《今日美国》/萨福克大学全国民调显示，约 26% 的受访者认为需要第三方政党，约 33% 的人表示需要多个政党。约 24% 的人表示，目前的两党已经足够好了。 <br>结果出炉之际，拜登的经济支持率为 30%，比 4 月份低 5 个百分点。比前总统川普同期低11个百分点。 <a href="https://thehill.com/changing-america/respect/diversity-inclusion/3578382-just-1-in-4-say-two-parties-good-enough-to-represent-americans-political-views-poll/" target="_blank" rel="noopener noreferrer">https://thehill.com/changing-america/respect/diversity-inclusion/3578382-just-1-in-4-say-two-parties-good-enough-to-represent-americans-political-views-poll/</a>
+
+### 111: [2022-07-29 03:39:46+08:00 推文](https://twitter.com/HeQinglian/status/1552740616097898496)
+
+Re @ZoeHeMia @david_david1968 他们一直在为游戏画面洒鸡血，还因为别人不与他们同蠢而嗷嗷叫。
+
+### 112: [2022-07-29 03:57:34+08:00 推文](https://twitter.com/HeQinglian/status/1552745098621894656)
+
+Re @JianglinLi @JiangShangrong 两年前我就有过这猜想，没想到美国左派“梦想成真”。<br>不过，这次猴痘似乎是美欧西方土产，因为这病破坏免疫系统，算是艾滋2.0版。
+
+### 113: [2022-07-29 04:01:54+08:00 推文](https://twitter.com/HeQinglian/status/1552746189984071680)
+
+Re @JianglinLi @JiangShangrong 难道是“水形物语”式的狂欢？以前没听说非洲人有此病。
 
