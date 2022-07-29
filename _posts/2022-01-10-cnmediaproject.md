@@ -53,7 +53,7 @@ RT Bill Bishop<br>are there cases in Shanghai?<br><br>方舟子: 上海还�
 
 ### 10: [2022-01-12 17:15:51+08:00 推文](https://twitter.com/lingli_vienna/status/1481193194041786370)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style="" src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-13 14:35:29+08:00 推文](https://twitter.com/cnmediaproject/status/1481515224310370304)
 
