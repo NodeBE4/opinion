@@ -73,7 +73,7 @@ RT Adrienne Carter<br>My heart is broken by the loss of @CRTejada. He was an a
 
 ### 15: [2021-12-21 15:41:45+08:00 推文](https://twitter.com/GeringTuvia/status/1473196979463229441)
 
-RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style="" src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-21 23:50:00+08:00 推文](https://twitter.com/BonnieGlaser/status/1473319853687779331)
 

@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-28
+date: 2022-07-29
 from: https://twitter.com/JChengWSJ/status/1551379456253575168
 layout: post
 tags:
@@ -94,4 +94,16 @@ Re @marchofer A good way to put it, actually. Authorities can talk about cleanin
 ### 20: [2022-07-28 22:47:20+08:00 推文](https://twitter.com/niubi/status/1552667023452381184)
 
 RT Bill Bishop<br>lot of Xi and a lot of red on people's daily page 1 today<br><img style="" src="https://pbs.twimg.com/media/FYwuW7gXwAAiVOU?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-07-29 08:14:41+08:00 推文](https://twitter.com/cnmediaproject/status/1552809803235627008)
+
+Don't You Dare Say "WeChat": CMP looks at a recent discussion in China over the tangle of word restrictions from the gov't and platforms like Douyin (TikTok) that have content creators up in arms. <a href="https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/07/27/dont-you-dare-say-wechat/</a><br><img style="" src="https://pbs.twimg.com/media/FYywQh1acAAXBGB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-07-29 08:53:34+08:00 推文](https://twitter.com/cnmediaproject/status/1552819587779264512)
+
+Re @lnachman32 Here are the chief takeaways of a very interesting paper. Good work by @lnachman32, @OuzhouAdi &amp; @brianhioe.
+
+### 23: [2022-07-29 09:57:52+08:00 推文](https://twitter.com/cnmediaproject/status/1552835770289106944)
+
+On page 2 of yesterday's People's Daily, an interesting example of how Xi's title and leadership must be emphasized for every bit of "news." This might have been: "Xi Jinping signs 3 military orders." But no, each one must be stressed independently.<br><img style="" src="https://pbs.twimg.com/media/FYzHnKeaAAA_ayo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

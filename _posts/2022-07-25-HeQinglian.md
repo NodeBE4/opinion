@@ -69,7 +69,7 @@ Re @Tianshuihanyan 激将法。不是一起去，他去，希望在那见到南�
 
 ### 14: [2022-07-25 21:20:04+08:00 推文](https://twitter.com/HeQinglian/status/1551557899209654273)
 
-Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
+RT He Qinglian<br>Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
 
 ### 15: [2022-07-25 21:27:08+08:00 推文](https://twitter.com/HeQinglian/status/1551559679628697600)
 
@@ -217,7 +217,7 @@ Re @shenliangqing2 美国现在最大的问题是忘记了自身的辉煌是宪�
 
 ### 51: [2022-07-27 22:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1552296764446834689)
 
-由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。
+由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。<br><br>华尔街日报中文网: 美国联邦数据显示，美国已经报告了3,400多例确诊或疑似猴痘病例，成为自这个国际关注的突发公共卫生事件发生以来已知感染病例最多的国家。<br> <a href="https://on.wsj.com/3JfATo7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3JfATo7</a>
 
 ### 52: [2022-07-27 22:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1552298464578572288)
 
@@ -253,7 +253,7 @@ Re @realTaoRay 这么害怕川普2024出山？<br>其实，只要诚实选举，
 
 ### 60: [2022-07-28 03:28:43+08:00 推文](https://twitter.com/HeQinglian/status/1552375447291367425)
 
-解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。<br><br>RFI 华语 - 法国国际广播电台: 佩洛西何时访台？彭博社：应在拜登与习近平通话几天后<br><br><img style="" src="https://pbs.twimg.com/media/FYoQQ3VVQAAI_cX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8c72.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8c72.t</a>
+解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。
 
 ### 61: [2022-07-28 03:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1552375957826174979)
 
@@ -466,4 +466,20 @@ Re @JianglinLi @JiangShangrong 两年前我就有过这猜想，没想到美国�
 ### 113: [2022-07-29 04:01:54+08:00 推文](https://twitter.com/HeQinglian/status/1552746189984071680)
 
 Re @JianglinLi @JiangShangrong 难道是“水形物语”式的狂欢？以前没听说非洲人有此病。
+
+### 114: [2022-07-29 07:30:54+08:00 推文](https://twitter.com/HeQinglian/status/1552798782466793478)
+
+Re @JianglinLi 我这里正等着呢，希望能够下场雨。<br>我的喷灌系统今天说有雨，自动停了——以前有过一次，但没雨。植物受罪了。
+
+### 115: [2022-07-29 08:37:40+08:00 推文](https://twitter.com/HeQinglian/status/1552815587545726977)
+
+这首歌与拜登美国很对景：<br>往年古怪少呀<br>今年古怪多啊<br>月亮西边出呀<br>太阳东边落啊<br>天上桫椤地下栽<br>河里的石头呀<br>滚呀滚上了坡呀滚上了坡<br>半夜三更里呀<br>老虎闯进了门哪<br>我问他来干什么<br>他说保护小绵羊啊<br>清早走进城啊<br>看见狗咬人哪<br>只许他们汪汪叫<br>不许人哪用嘴来讲话 古怪多<br>——所有毒贩都在美国作吧。<br><br>李江琳: @HeQinglian @RealBeiMing @Wu_Zhi @ngexp @david_david1968 民主党新偶像：被俄国抓住的毒贩子。<br> <a href="https://twitter.com/stillgray/status/1552802185183842304" target="_blank" rel="noopener noreferrer">https://twitter.com/stillgray/status/1552802185183842304</a>
+
+### 116: [2022-07-29 08:52:18+08:00 推文](https://twitter.com/HeQinglian/status/1552819269280440321)
+
+Re @franktianxie 世界上还有这种腆着脸为拜登政府辩护的华拜粉？<br>其实拜登说“看起来不是衰退”之后，美国记者满塘青蛙叫，这些记者当初多是拜登的抬轿者，如今也会叫了。<br>只有希望美国人继续在睡梦里的别有用心者，才会如此辩护。
+
+### 117: [2022-07-29 10:02:59+08:00 推文](https://twitter.com/HeQinglian/status/1552837057776590848)
+
+Re @guchuan81 终于等来了一场雨，中等，预报10点半停，前后总共一个小时。
 
