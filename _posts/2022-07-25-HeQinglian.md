@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -534,4 +534,48 @@ Re @seeyoua22819375 行了，还达成协议。这是可以即刻验证的，一
 ### 130: [2022-07-30 00:51:14+08:00 推文](https://twitter.com/HeQinglian/status/1553060591060803585)
 
 Re @Nobody197575 正好看到这条，也看了后面留言。<br>谢谢各位的鼓励。记得这位“三桂”推友，一道经历了推上数年风风雨雨。这是位眼中极少揉沙子的人，得其月旦，也算难得。
+
+### 131: [2022-07-30 01:04:09+08:00 推文](https://twitter.com/HeQinglian/status/1553063841726078979)
+
+关于《二舅》的视频，我从头看到尾了。<br>”二舅“这类人，在文革以前的街道农村都有。我有位街坊家有数儿女，不太管家事，让一位二舅式农村青年居家，老太轻松多了，邻居也沾光，会给点小酬劳。<br>这部片子如果在1980年代以前，绝对会被社会广泛接受。如今引发问责政府的高潮，乃因民众权利意识觉醒。
+
+### 132: [2022-07-30 01:12:08+08:00 推文](https://twitter.com/HeQinglian/status/1553065852580372480)
+
+Re @RealBeiMing 他们完全不了解美国政治的演变，毕竟不少人还在看托克维尔的《美国的民主》（写文说话都引这书）。<br>国际国内政治经威尔逊之变，国际政策告别孤立主义，国内政治告别民有民治民享的实质，形成了行政国家（DS的早期），经济上奉行凯恩斯主义之后，告别了政府不干预经济的“市场守夜人”角色。
+
+### 133: [2022-07-30 01:14:44+08:00 推文](https://twitter.com/HeQinglian/status/1553066507533709313)
+
+Re @mingshi_chen 你应该至少比我小一轮。改开后的农村风气，比土改后的还糟糕。
+
+### 134: [2022-07-30 01:20:21+08:00 推文](https://twitter.com/HeQinglian/status/1553067919503941634)
+
+Re @FranzMendelsso1 @RealBeiMing 说来很巧，威尔逊当总统是从1913年开始，这一年国会正好通过第16修正案——如果了解如何通过的细节，就很有意思了。
+
+### 135: [2022-07-30 01:22:04+08:00 推文](https://twitter.com/HeQinglian/status/1553068354499485697)
+
+Re @mingshi_chen “二舅”这种人，如果不是很能干，家家都用得着，会很受欺负。如果能干不是这种性子，在农村就很受尊重。
+
+### 136: [2022-07-30 01:26:36+08:00 推文](https://twitter.com/HeQinglian/status/1553069492258979841)
+
+Re @RealBeiMing 有个共相，你应该记得。<br>我们最早了解外部世界，是从商务印书馆那套“世界名著译丛”开始，都是20世纪前半期翻译过来的重译，那都是17-19世纪的著作。<br>后来虽然也买了版权，译过一些其他的，一代人已经过了求知最旺盛的年代，教书育人去了。
+
+### 137: [2022-07-30 01:27:38+08:00 推文](https://twitter.com/HeQinglian/status/1553069753631211524)
+
+Re @shenliangqing2 以前还有更惊人的。去年11月曾说过“通胀是巨大的资产”。
+
+### 138: [2022-07-30 03:49:45+08:00 推文](https://twitter.com/HeQinglian/status/1553105516519366657)
+
+Re @franktianxie "裴洛西若訪台"，一个“若”字，让我那称赞卡住了。抹掉这个“若”字，红线就消失了。
+
+### 139: [2022-07-30 03:57:36+08:00 推文](https://twitter.com/HeQinglian/status/1553107495085920257)
+
+Re @shenliangqing2 我觉得这是一种看似笨拙、实则机巧的安排。<br>因为传闻是老年痴呆症，那么说错话就可以不深究，可以被原谅——这是他上台后每个星期都会发生的戏码。<br>他那次说的美国人民必须有F-战机与核武器才有能力反抗政府，换任何一个总统，恐怕不是发言人解释一下就能过关的。
+
+### 140: [2022-07-30 04:06:27+08:00 推文](https://twitter.com/HeQinglian/status/1553109721808355328)
+
+Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过程。是否合理，有多少是合理的，都可以讨论。但是，论者先得了解这个过程，不能还以为美国宪政是国父们那时候的样范。<br>比如川普上台，说他要恢复孤立主义，都不知是哪跟哪的说法。
+
+### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
+
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
