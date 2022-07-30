@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-07-30
+date: 2022-07-31
 from: https://twitter.com/realcaixia/status/1551299467529306112
 layout: post
 tags:
@@ -37,11 +37,11 @@ Re @GuRu_999999 请你拿出你的论文来。
 
 ### 6: [2022-07-26 00:09:30+08:00 推文](https://twitter.com/realcaixia/status/1551600538218905600)
 
-关注。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我还被堵在凤县的高速路口，来了很多公安和特警<br><br><img style="" src="https://pbs.twimg.com/media/FYgcO6lUsAAN7hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6oUIAIfzjq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6oUcAIPv-2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6qVUAA3jaS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+关注。
 
 ### 7: [2022-07-26 00:12:55+08:00 推文](https://twitter.com/realcaixia/status/1551601399795965953)
 
-常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。
+常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我的车周围围满了车，有公安、特警标记，还有社会车辆，刚刚还有穿着防化服的人来敲我的车窗，天已经黑了，请大家关注我和孩子及我母亲的安危<br><br><img style="" src="https://pbs.twimg.com/media/FYg3GtUVUAEuEPh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-07-26 20:50:08+08:00 推文](https://twitter.com/realcaixia/status/1551912755179012096)
 
@@ -89,9 +89,17 @@ Re 请点击最上推文中的完整链接，可以观看电影《一九八四�
 
 ### 19: [2022-07-29 09:16:30+08:00 推文](https://twitter.com/realcaixia/status/1552825358306742273)
 
-高福主任提的问题很到位，很讲理。
+高福主任提的问题很到位，很讲理。<br><br>谷风: 以习近平的性格和习惯，单凭你这番话，就可以把你腐败，还说你妄议中央，现在让你下岗算是给足你面子：<br><br><video src="https://video.twimg.com/ext_tw_video/1552598846781370368/pu/vid/496x638/TkmaJhg8sznH77rc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552598846781370368/pu/img/vZqcDoYU9Qmub0ME.jpg"></video>
 
 ### 20: [2022-07-30 07:36:43+08:00 推文](https://twitter.com/realcaixia/status/1553162636401037314)
 
 为避帝王名讳而改字、改音，中国有着深厚的传统。<br><img style="" src="https://pbs.twimg.com/media/FY3xLxKXgAAnUFm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY3xL7RWAAgoxJB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-07-31 01:40:16+08:00 推文](https://twitter.com/realcaixia/status/1553435320028471296)
+
+特别推荐和转发南央《坚持的意义》文中有几点很令人深思：1，那个说客劝她放弃状告中共海关的官司，并以陈小鲁为例来“劝说”极阴毒。陈小鲁活得并不“潇洒”，陈小鲁反对6.4开枪而脱离体制，并始终支持推进宪政民主，他的突然离世引起过各种疑问；2，李锐的书记载了中共真实历史，中共最怕历史真相；3，…<br><img style="" src="https://pbs.twimg.com/media/FY7pLwbWAAEXFts?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY7pMAVXoAI6lX2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-07-31 01:59:17+08:00 推文](https://twitter.com/realcaixia/status/1553440107046248451)
+
+Re 3，大赞南央姐的话：放弃即是服了中共的“党天下”，凭什么低这个头？！<br>4，南央姐说：而每一个愿做公民不做臣民的中国人，都应该承担起公民的义务，为实现宪政在中国的开张努力地去做自己能做的事，做好自己能做的事。
 

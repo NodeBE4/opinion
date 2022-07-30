@@ -45,7 +45,7 @@ Re 4，这意味着，中国自上而下通过强化警察在政府系统中的�
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
+Re @zfb468590 谢谢您看的仔细。
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
