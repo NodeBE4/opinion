@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-06-27~2022-07-03'
 
 ### 3: [2022-06-28 00:57:03+08:00 推文](https://twitter.com/realcaixia/status/1541465644427886594)
 
-中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。<br><br>高瑜: 張思之律師送別式于明日八寶山舉行。因疫情只限制20人參加，僅張老親屬已經差不多了。張老弟子、當事人浦志強都在爭取之中。朋輩、晚輩及眾多仰慕者都不能最後送別，這是壬寅仲夏無以補救的遺憾。<br>推友給我發來1999年我與張老的合影，花也是張老送的。我曾用於我為張老80 大壽寫的文章《永遠的張思之》<br><br><img style="" src="https://pbs.twimg.com/media/FWOpWzdVsAEdddH?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWOqrYZUYAI6YBe?format=png&amp;name=orig" referrerpolicy="no-referrer">
+中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。
 
 ### 4: [2022-06-28 02:54:36+08:00 推文](https://twitter.com/realcaixia/status/1541495226841407489)
 
@@ -57,7 +57,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 11: [2022-06-28 23:39:00+08:00 推文](https://twitter.com/realcaixia/status/1541808389797322753)
 
-张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。<br><br>浦志强: 我做不到啊，惭愧啊！连家属在内，只让二十人进兰厅，再不能多了；厅里不许停留，不让拍照——经交涉，始许一人专司拍摄；殡仪馆服务人员，着淡蓝色罩袍，站姿极其飒爽。<br><br><img style="" src="https://pbs.twimg.com/media/FWT5wURUEAENUT_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUSUsAAnjj2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUTUYAAQD9t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUQUsAAUfEs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410" target="_blank" rel="noopener noreferrer">https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410</a>
+张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。
 
 ### 12: [2022-06-29 03:20:19+08:00 推文](https://twitter.com/realcaixia/status/1541864087583440896)
 
