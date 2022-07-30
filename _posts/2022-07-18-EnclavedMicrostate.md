@@ -503,7 +503,7 @@ I think V5 was the last time they were crossposted.
 
 ----- __641.6__ -----2022-07-30 10:57:57+08:00:
 
-I feel like the difference with Tintin is that that was such a personal thing to Hergé himself in a way that Asterix sort of isn't. Tintin, as a brand, is a sort of low-level international phenomenon specifically associated with its author. Asterix on the other hand is a French cultural icon with a global audience, but not necessarily specifically tied to one author. So whereas Tintin as a brand not only can, but effectively must operate on the model that 'this is it, this is all the original comic source material', Asterix can and to some extent must keep going as a malleable entity to be passed down to different authors.
+I feel like the difference with Tintin is that that was such a personal thing to Hergé himself in a way that Asterix sort of isn't. Tintin, as a brand, is a sort of low-level international phenomenon specifically associated with its author. Asterix on the other hand is a French cultural icon with a global audience. So whereas Tintin as a brand not only can, but effectively must operate on the model that 'this is it, this is all the original comic source material', Asterix can keep going as a malleable entity to be passed down to different authors.
 
 ----- __641.7__ -----2022-07-30 11:15:02+08:00:
 
@@ -520,4 +520,8 @@ Pierogi of Scammer Payback doesn't really do the warning victims side and mostly
 There's this one channel whose name escapes me that involves two guys physically confronting people involved in smuggling stuff for scams, and to be honest  that's just not a good strategy even if they weren't woefully incompetent.
 
 And to be honest I put the 'rat releasing prank' at the extreme end of the 'wtf no don't do this' scale – yes, the absence of an effective proactive police response to scamming in India means some level of vigilantism is rendered necessary, but the productive approach is to do what Kitboga does legally or Jim Browning does... less legally, i.e. find out information and file reports. Releasing rats is potentially entertaining, but it doesn't fix any problems and puts *you* on the hook legally.
+
+----- __641.8__ -----2022-07-30 12:26:31+08:00:
+
+The thing with the porch pirates is that you're provably catching someone in the middle of an act of theft and responding commensurately with a nonlethal booby trap built into the stolen object, something which is a little legally grey but *should* favour the one setting the trap (because however you slice it, the thief is still attempting to commit theft). Whereas heading off to India and releasing live animals into a scam call centre isn't really a commensurate response to an attempt at direct harm inflicted on yourself or your property, even if it is immediately apparent beyond a reasonable doubt that there is a crime being committed on the site.
 
