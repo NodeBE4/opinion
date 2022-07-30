@@ -501,3 +501,23 @@ I think we're broadly aligned here. It's not that he's done nothing wrong, but s
 
 I think V5 was the last time they were crossposted.
 
+----- __641.6__ -----2022-07-30 10:57:57+08:00:
+
+I feel like the difference with Tintin is that that was such a personal thing to Hergé himself in a way that Asterix sort of isn't. Tintin, as a brand, is a sort of low-level international phenomenon specifically associated with its author. Asterix on the other hand is a French cultural icon with a global audience, but not necessarily specifically tied to one author. So whereas Tintin as a brand not only can, but effectively must operate on the model that 'this is it, this is all the original comic source material', Asterix can and to some extent must keep going as a malleable entity to be passed down to different authors.
+
+----- __641.7__ -----2022-07-30 11:15:02+08:00:
+
+I feel like there's sort of a sliding scale when it comes to scambait/anti-scam channels.
+
+Down at the most innocuous end are people like Kitboga or IRLRosie: their MO is entirely legal and their entire schtick is being as annoying and frustrating as humanly possible. Though Kitboga goes a step further by often managing to get bank information that can be passed on to authorities to at least temporarily disable part of a scam centre's operations.
+
+A darker version of that is someone like ScammerRevolts, where it's less trying to be comedic for an audience at the expense of the scammer, but more trying to be overtly insulting to the scammer in unsettling ways. The big thing that can be offputting is that the fact the scammers are South Asian does get used against them, which isn't something that Kitboga for instance will resort to.
+
+Jim Browning's approach is definitely illegal, but *most* of his approach involves warning recent victims rather than simply directly frustrating the scammers.
+
+Pierogi of Scammer Payback doesn't really do the warning victims side and mostly concentrates on being annoying, while still doing hacking, which is... IDK it feels like the Jim approach is more useful.
+
+There's this one channel whose name escapes me that involves two guys physically confronting people involved in smuggling stuff for scams, and to be honest  that's just not a good strategy even if they weren't woefully incompetent.
+
+And to be honest I put the 'rat releasing prank' at the extreme end of the 'wtf no don't do this' scale – yes, the absence of an effective proactive police response to scamming in India means some level of vigilantism is rendered necessary, but the productive approach is to do what Kitboga does legally or Jim Browning does... less legally, i.e. find out information and file reports. Releasing rats is potentially entertaining, but it doesn't fix any problems and puts *you* on the hook legally.
+
