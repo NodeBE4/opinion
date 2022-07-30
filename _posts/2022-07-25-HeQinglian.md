@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -69,7 +69,7 @@ Re @Tianshuihanyan 激将法。不是一起去，他去，希望在那见到南�
 
 ### 14: [2022-07-25 21:20:04+08:00 推文](https://twitter.com/HeQinglian/status/1551557899209654273)
 
-RT He Qinglian<br>Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
+Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
 
 ### 15: [2022-07-25 21:27:08+08:00 推文](https://twitter.com/HeQinglian/status/1551559679628697600)
 
@@ -357,7 +357,7 @@ Re @zhixiangziyou 实话实说，如果我在深圳，一定去现场看。
 
 ### 86: [2022-07-28 21:52:45+08:00 推文](https://twitter.com/HeQinglian/status/1552653287966380036)
 
-这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。
+这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。<br><br>Ezio Mao☢: 据《华尔街日报》报道，由于对俄罗斯的制裁，上半年西方公司将损失590亿美元.<br><br>2022年第一季度，英国公司BP亏损255亿美元，壳牌 - 42亿美元，德国Uniper-32亿欧元，奥地利OMV-20亿欧元，德国 Wintershall Dea - 11亿欧元，法国Engie-10亿欧元。法国雷诺集团亏损 22 亿欧元。<br> <a href="https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400</a>
 
 ### 87: [2022-07-28 21:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1552654036498653186)
 
@@ -667,7 +667,59 @@ Re @Kele47518825 @hoboace94 这公会，台湾有啊。日本应该也有，只�
 
 Re @JianglinLi @jbchen2009 @david_david1968 @ngexp 应该说是高科技、超强军事实力加持的丛林文化。<br>家庭渐次瓦解，开放式婚姻回归原始社会的群婚制——哈佛靠近的县就有这种法律。
 
-### 164: [2022-07-31 03:35:45+08:00 推文](https://twitter.com/HeQinglian/status/1553464384827101184)
+### 164: [2022-07-31 03:21:57+08:00 推文](https://twitter.com/david_david1968/status/1553460909405835266)
+
+RT 戴维（英国观察）<br>解滨：文化马克思主义正在毁掉美国 <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
+
+### 165: [2022-07-31 03:35:45+08:00 推文](https://twitter.com/HeQinglian/status/1553464384827101184)
 
 Re @realJackLaw 彭佩奥是前国务卿，南希是现议长。<br>美国的规则历来是：退休官员的自由度大，进旋转门也是公开的。但现任官员得服从本国的政治规则。
+
+### 166: [2022-07-31 03:41:48+08:00 推文](https://twitter.com/HeQinglian/status/1553465906646458368)
+
+Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬瓜去暑热，这种搭配是哪地儿的出产？
+
+### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
+
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
+
+### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
+
+目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。<br><br>RFI 华语 - 法国国际广播电台: 日外相：在乌克兰发生的事情决不允许在世界其他地方发生<br><br><img style="" src="https://pbs.twimg.com/media/FY6EqpsUYAAvJot?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8cgI.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8cgI.t</a>
+
+### 169: [2022-07-31 04:17:18+08:00 推文](https://twitter.com/HeQinglian/status/1553474839356313600)
+
+Re @mingshi_chen 不是。缅甸是取消了军政府一方会得票的选区投票资格，不清楚是以疫情还是什么为由，那些地区无法参加选举，军政府自然就没有选票了。<br>但缅甸受了美民主党榜样力量的影响是肯定的。
+
+### 170: [2022-07-31 04:20:32+08:00 推文](https://twitter.com/HeQinglian/status/1553475651574824961)
+
+Re @TLQ2016X @Nobody197575 谢谢。也感谢你这些年来一贯的支持——不管推上的郭粉、拜粉、乌粉如何凶猛。<br>有些老推友经历过郭、拜粉们的恶毒攻击，却经不起乌粉的攻击。
+
+### 171: [2022-07-31 04:29:53+08:00 推文](https://twitter.com/HeQinglian/status/1553478007809101825)
+
+Re 希望有心的推友记住我曾发过这条推文。<br>今年中期选举过后，如果民主党仍然控制国会，明年的美国将有一半州将骄傲月当作生活常态，15岁以下的青少年会迅速加入这支队伍。<br>美国的大麻销量还会迅速递增。
+
+### 172: [2022-07-31 04:53:15+08:00 推文](https://twitter.com/HeQinglian/status/1553483885350117376)
+
+Re @zhixiangziyou @triplebai 明白了，中国北方的汤。😅
+
+### 173: [2022-07-31 05:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1553486599396249600)
+
+Re @zhixiangziyou @triplebai 北京冬天有冬瓜？大棚蔬菜？
+
+### 174: [2022-07-31 05:04:36+08:00 推文](https://twitter.com/HeQinglian/status/1553486743596318720)
+
+Re @zhixiangziyou @triplebai 实在话，网上搜的，有不少是真会做的，但有不少也是误导。
+
+### 175: [2022-07-31 05:13:15+08:00 推文](https://twitter.com/HeQinglian/status/1553488920461074432)
+
+Re @JiangShangrong 这个推号跟着我，我拉黑了。
+
+### 176: [2022-07-31 05:18:01+08:00 推文](https://twitter.com/HeQinglian/status/1553490117192474625)
+
+Re @JiangShangrong 太多了。如果弱智知道藏拙也罢，偏巧学了几个“人手马弓”（ABCD）之后，要来认识数万字的人面前卖弄。<br>比如，我会经常遇到：你根本不懂中国经济，你不懂经济。然后拿教科书上的一些词汇来搬弄。<br>遇到这种人，拉黑最省事。也不知这些人上推为何Fo上我。
+
+### 177: [2022-07-31 05:30:43+08:00 推文](https://twitter.com/HeQinglian/status/1553493313428361216)
+
+Re @mingshi_chen 吸毒这事，尤其是吸大麻这事，在美国已经普及了， 成年人当中40%左右吸（那个统计将一月一次的计算进去了），2016年大选之夜，拜登曲线出现后，十来个州赶紧通过大麻合法化的立法，我称之为美国的人民战争。<br>大麻协会主席称这次大选胜利为“大麻的胜利”。
 

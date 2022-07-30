@@ -33,7 +33,7 @@ Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后�
 
 ### 5: [2020-10-13 08:03:57+08:00 推文](https://twitter.com/realcaixia/status/1315805439360225281)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 2、中共国党库国库不分，纳税人既要供养政府系统还要供养庞大的中共党系统及专职党务官员。由中央决定扩张警力400万，经过中国纳税人批准了吗？！显然，全国人大连装样走走程序都没做。这实质是中共党拿纳税人的钱豢养400万打手，且纳税人只许掏钱不许说话，谁说话就抓谁。这是标准的强盗匪帮行径。<hr><small>10/13/2020, 8:03:57 AM</small>
+Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供养庞大的中共党系统及专职党务官员。由中央决定扩张警力400万，经过中国纳税人批准了吗？！显然，全国人大连装样走走程序都没做。这实质是中共党拿纳税人的钱豢养400万打手，且纳税人只许掏钱不许说话，谁说话就抓谁。这是标准的强盗匪帮行径。
 
 ### 6: [2020-10-13 08:04:41+08:00 推文](https://twitter.com/realcaixia/status/1315805620411469824)
 
@@ -49,7 +49,7 @@ Re @zfb468590 谢谢您看的仔细。
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
