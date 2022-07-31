@@ -51,3 +51,7 @@ Re @1I8rpz6ruW08AEz 你离我园子远点。
 
 Re @shenliangqing2 @david_david1968 这事，最后被整成香港失去新闻自由的标志性事件，还成了反送中的一个由来。<br>香港失去新闻自由的事件太多了，却让这事成为标志性事件，我至今也未想明白其中关节。
 
+### 10: [2022-08-01 03:38:46+08:00 推文](https://twitter.com/HeQinglian/status/1553827530590806017)
+
+Re @JiangShangrong 补充一条：<br>国会计划立法禁止议员配偶炒股<br><br>众议院议长、加州众议员南希·佩洛西（Nancy Pelosi）刚刚从她的民主党同僚那里得到了一些坏消息。<br>据《榨汁碗新闻》（Punchbowl News）报道，民主党计划在下个月提出一项法案，阻止国会议员及其配偶进行股票交易。 <a href="https://nacr.info/WordPress/index.php/2022/07/29/dems-plan-to-introduce-legislation-to-stop-lawmakers-spouses-from-stock-trading/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/29/dems-plan-to-introduce-legislation-to-stop-lawmakers-spouses-from-stock-trading/</a>
+
