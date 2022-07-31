@@ -137,3 +137,15 @@ In effect, the reason why China seems to have repeatedly unified and splintered 
 
 To put it slightly differently, with apparent Chinese splintering and unification it helps to look at it less in topographical terms as being a territorial unit that naturally tends towards its own consolidation, but in chronological terms as a succession of state entities to which the same label has been applied thanks to having overlapping – though not precisely contiguous – territorial scope. But it is only that element of territorial continuity that distinguishes Chinese empires from, say, the symbolic succession from the Western Roman Empire to the Holy Roman Empire. Now, it must be said that this is partly retrospective: the consistent use of the term *Zhongguo* to collectively describe this succession of states is quite a modern one, no older than the Qing at most. Any kind of firm definition of 'China' at all either in geographical or political terms is an extremely modern one, even if there was generally a loose notion that there was a historical chain of states through which the present Chinese state, at any given time, claimed cultural and political congruence.
 
+### 651: [What’s going on with Nancy Pelosi visiting Asia and China making threats while conducting military exercises near Taiwan?](https://old.reddit.com/r/OutOfTheLoop/comments/wcgbyd/whats_going_on_with_nancy_pelosi_visiting_asia/), submitted on 2022-07-31 12:39:49+08:00.
+
+----- __651.1__ -----2022-07-31 15:36:52+08:00:
+
+This is hardly the case. As of 2020, 64% ROC residents identify exclusively as Taiwanese and not Chinese, compared to around 30% identifying as both and 2.6% as Chinese but not Taiwanese [source](https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6961). While the KMT political platform supports reunification, the DPP and its coalition partners, which have held both a parliamentary majority and the presidency since 2016, are pro-independence.
+
+### 652: [🎉Omaru Polka🎪 celebrates 1,000,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/wcjjcr/omaru_polka_celebrates_1000000_subscribers/), submitted on 2022-07-31 16:02:12+08:00.
+
+----- __652.1__ -----2022-07-31 16:07:14+08:00:
+
+ポ！
+
