@@ -55,3 +55,7 @@ Re @shenliangqing2 @david_david1968 这事，最后被整成香港失去新闻�
 
 Re @JiangShangrong 补充一条：<br>国会计划立法禁止议员配偶炒股<br><br>众议院议长、加州众议员南希·佩洛西（Nancy Pelosi）刚刚从她的民主党同僚那里得到了一些坏消息。<br>据《榨汁碗新闻》（Punchbowl News）报道，民主党计划在下个月提出一项法案，阻止国会议员及其配偶进行股票交易。 <a href="https://nacr.info/WordPress/index.php/2022/07/29/dems-plan-to-introduce-legislation-to-stop-lawmakers-spouses-from-stock-trading/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/29/dems-plan-to-introduce-legislation-to-stop-lawmakers-spouses-from-stock-trading/</a>
 
+### 11: [2022-08-01 07:27:56+08:00 推文](https://twitter.com/HeQinglian/status/1553885203352911873)
+
+Re @JianglinLi @RealBeiMing @ngexp 这与中国文革前期（1966-1968年）时，任何出身不好的人只要被认定对伟大领袖毛主席不敬、对贫下中农、工人阶级不敬就是被批斗，重则游街、被专政类似。<br>LGBTQ的社会政治地位与当年中国的伟大领袖、领导阶级及革命同盟军相似。
+
