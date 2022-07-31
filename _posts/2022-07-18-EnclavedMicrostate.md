@@ -503,7 +503,7 @@ I think V5 was the last time they were crossposted.
 
 ----- __641.6__ -----2022-07-30 10:57:57+08:00:
 
-I feel like the difference with Tintin is that that was such a personal thing to Hergé himself in a way that Asterix sort of isn't. Tintin, as a brand, is a sort of low-level international phenomenon specifically associated with its author. Asterix on the other hand is a French cultural icon with a global audience. So whereas Tintin as a brand not only can, but effectively must operate on the model that 'this is it, this is all the original comic source material', Asterix can keep going as a malleable entity to be passed down to different authors.
+I feel like the difference with Tintin is that that was such a personal thing to Hergé himself in a way that Asterix sort of isn't to Goscinny and Uderzo. Tintin, as a brand, is a sort of low-level international phenomenon specifically associated with its author. Asterix on the other hand is a French cultural icon with a global audience. So whereas Tintin as a brand not only can, but effectively must operate on the model that 'this is it, this is all the original comic source material', Asterix can keep going as a malleable entity to be passed down to different authors.
 
 ----- __641.7__ -----2022-07-30 11:15:02+08:00:
 
