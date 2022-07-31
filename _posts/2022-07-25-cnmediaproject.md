@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-07-29
+date: 2022-07-31
 from: https://twitter.com/JChengWSJ/status/1551379456253575168
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re @lnachman32 Here are the chief takeaways of a very interesting paper. Good wo
 ### 23: [2022-07-29 09:57:52+08:00 推文](https://twitter.com/cnmediaproject/status/1552835770289106944)
 
 On page 2 of yesterday's People's Daily, an interesting example of how Xi's title and leadership must be emphasized for every bit of "news." This might have been: "Xi Jinping signs 3 military orders." But no, each one must be stressed independently.<br><img style="" src="https://pbs.twimg.com/media/FYzHnKeaAAA_ayo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-07-31 09:26:22+08:00 推文](https://twitter.com/wmdglasgow/status/1553552617439371266)
+
+RT Will Glasgow<br>Amazing to see members of the European car lobby — not exactly a beachhead of “anti-China forces” — talking this way.<br><br>Perhaps time for Beijing to ask itself, “Do they have a point?” <a href="https://on.ft.com/3vnQPim" target="_blank" rel="noopener noreferrer">https://on.ft.com/3vnQPim</a><br><img style="" src="https://pbs.twimg.com/media/FY9T3dbacAAmon4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
