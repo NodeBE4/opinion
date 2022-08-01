@@ -43,6 +43,14 @@ I was tempted to be there out of sheer interest but I ultimately decided against
 
 Nice. I was at the con on Friday and didn't see as much VTuber-related stuff (cosplay-wise especially) as when I went last year, but I suspect that's because a lot of that gravitated to today instead. That said, I did see one La+ cosplayer in the itakimono.
 
+----- __643.6__ -----2022-08-01 21:40:30+08:00:
+
+I mean, referring to an HK event as a 'Chinese con' is probably stretching it.
+
+----- __643.7__ -----2022-08-01 21:52:26+08:00:
+
+Yeah, even in that case 'Chinese' is a language family rather than a single language – it'd be like calling a con in London or Stockholm 'German'.
+
 ### 644: [What are Visney and Barba Water?](https://old.reddit.com/r/AskHistorians/comments/wa6ohi/what_are_visney_and_barba_water/), submitted on 2022-07-28 18:50:57+08:00.
 
 ----- __644.1__ -----2022-07-28 19:20:54+08:00:
@@ -167,7 +175,7 @@ In broad terms, we can periodise Christianity in China in about four phases, of 
 
 4. The fourth phase, which can be marked roughly from 1910 to 1949, was dominated by medical missions which certainly sought and attracted converts, but which ultimately saw themselves primarily as hospitals; in addition, China happened to be (mostly) ruled by a Methodist, Chiang Kai-Shek, during the last two decades of this period.
 
-Neither the Nestorians nor Jesuits were spreading Christianity at the point of a spear, and neither were the medical missionaries of the 20th century particularly strongly backed by state power, given both the somewhat retrenched status of the old empires (Britain and France) and the relative diplomatic isolationism of the USA. That sort of ends up leaving the nineteenth century as the odd one out in terms of violently-backed Christian proselytisation, and even then no state power actively demanded that China convert to Christianity, rather that Christian missionaries (and to a (much) lesser extent their converts) be afforded protection. To put it another way, while there was violence involved in nineteenth-century attempts to spread Christianity in China, it was violence that (at least ostensibly) sought to prevent either state or grassroots inhibition of that spread, rather than enforced conversion as a means of strengthening political control. Otherwise, during the Jesuit-dominated and hospital-dominated phases, it was mainly the case that Christian missionaries happened to be missionaries and happened to achieve some level of conversion, while their practical main role was in providing other 'secular' services albeit motivated by their faith – the Jesuits as technical advisors to the Ming and later Qing courts; the medical missionaries as, well, doctors.
+Neither the Nestorians nor Jesuits were spreading Christianity at the point of a spear, and nor were the medical missionaries of the 20th century particularly strongly backed by state power, especially given both the somewhat retrenched status of the old empires (Britain and France) and the relative diplomatic isolationism of the USA. That sort of ends up leaving the nineteenth century as the odd one out in terms of violently-backed Christian proselytisation, and even then no state power actively demanded that China convert to Christianity, rather that Christian missionaries (and to a (much) lesser extent their converts) be afforded protection. To put it another way, while there was violence involved in nineteenth-century attempts to spread Christianity in China, it was violence that (at least ostensibly) sought to prevent either state or grassroots inhibition of that spread, rather than enforced conversion as a means of strengthening political control. Otherwise, during the Jesuit-dominated and hospital-dominated phases, it was mainly the case that Christian missionaries happened to be missionaries and happened to achieve some level of conversion, while their practical main role was in providing other 'secular' services albeit motivated by their faith – the Jesuits as technical advisors to the Ming and later Qing courts; the medical missionaries as, well, doctors.
 
 While I don't have an old answer specifically on Christian proselytisation, you may find [this one](https://www.reddit.com/r/AskHistorians/comments/u8rtzf/what_happened_to_antichristian_sentiment_in_china/i5pwz4x/) on Boxer-era anti-Christianity to be at least partially of interest.
 

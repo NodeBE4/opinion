@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -697,7 +697,7 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
@@ -749,7 +749,7 @@ Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>�
 
 ### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
 
-日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
 
 ### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
 

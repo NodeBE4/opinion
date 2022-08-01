@@ -91,3 +91,23 @@ Re @JianglinLi @RealBeiMing @ngexp 这一波比1968年那一波来势凶猛绵�
 
 Re @JianglinLi @RealBeiMing @ngexp 我今天看了“后悔变性”(Sex Change Regret)创办者沃尔特·海尔(Walt Heyer)谈自身经历的文字，他在1983年接受变性手术，曾作为变性女人劳拉生活过八年，其间受到严重的心理虐待、身体严重不适。他说，这种情况目前正在大规模发生，医疗机构正在向数千名年轻人推动这些危险的激素治疗和外科手术。
 
+### 20: [2022-08-01 21:32:47+08:00 推文](https://twitter.com/HeQinglian/status/1554097816808587264)
+
+提前报喜：恭喜佩洛西一飞封神，摆脱家族内幕交易及腐败阴影。<br>乐见一只纸老虎即将现形。😂 <a href="https://amp.cnn.com/cnn/2022/08/01/politics/nancy-pelosi-taiwan-visit/index.html" target="_blank" rel="noopener noreferrer">https://amp.cnn.com/cnn/2022/08/01/politics/nancy-pelosi-taiwan-visit/index.html</a>
+
+### 21: [2022-08-01 21:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1554098657787580418)
+
+Re @JianglinLi @RealBeiMing @ngexp 比罗马的下滑速度要快得多。
+
+### 22: [2022-08-01 21:53:04+08:00 推文](https://twitter.com/HeQinglian/status/1554102920366489600)
+
+Re @lindahuiyun @JianglinLi Mark了。
+
+### 23: [2022-08-01 21:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1554103632710311936)
+
+历史经验：古巴比伦信仰性的神圣。在其各地神庙里通常都有许多“圣女”专门与朝圣的男子发生性行为。由于性行为的无节制无约束，后期终于性病大流行，外族来侵，本国无可战之兵。<br>不过，当时还没梅毒这名。意大利修士、科学家吉罗拉莫·弗拉卡斯托罗所著的《梅毒》发表于1530年，他是梅毒的命名者。<br><br>He Qinglian: @RealBeiMing @JianglinLi @ngexp 特鲁曼说，这种提法本身太简单。他进而指出，“心理的人”阶段为“性革命”创造了文化背景。弗里德里希·尼采(Friedrich Nietzsche)教人们抛弃约束他们的社会规范和约束；卡尔·马克思教人们反抗统治阶级的压迫；西格蒙德·弗洛伊德教人们，人的核心是性，人们的性欲对他们是谁具有决定性意义。<br>
+
+### 24: [2022-08-01 22:04:10+08:00 推文](https://twitter.com/HeQinglian/status/1554105711805796353)
+
+Re @JianglinLi @3As7SpJjom8nHla @RealBeiMing @ngexp 美国国内政治将决定大重置能否成功。如果美国人争点气，先将国会夺回来，再赢回白宫，蛇无头不行。<br>欧盟这一战，基本只剩半条命了，下一步是挣扎求存。对大重置最多帮个人场，让自家人变性、LGBTQ、洗绿全面子。<br>这次在台湾问题上，北京如果熊了，以后这地会成为拜登政府国际政策的一个突破口。
+
