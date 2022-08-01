@@ -19,3 +19,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-08-01~2022-08-07'
 
 Re Again.<br><img style="" src="https://pbs.twimg.com/media/FZBcFcHXoAgZbtk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZBcHkrX0AE8IQD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 2: [2022-08-01 13:04:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1553969774710796288)
+
+据湘乡公安近日通报，当地城管进行“创文活动拆除违章建筑”时，在场一名女子刘某拍摄视频并上传到抖音，视频中她对城管人员发表了“侮辱性言论”，随后，刘某被处拘留7日。刘某的具体言论内容不详，但显然与城管拆除违章建筑有关。<br><img style="" src="https://pbs.twimg.com/media/FZBhXl4XwAIHbyU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZBhZqUWYAIHBFY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
