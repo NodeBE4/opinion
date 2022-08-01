@@ -151,15 +151,39 @@ To put it slightly differently, with apparent Chinese splintering and unificatio
 
 This is hardly the case. As of 2020, 64% ROC residents identify exclusively as Taiwanese and not Chinese, compared to around 30% identifying as both and 2.6% as Chinese but not Taiwanese. ([source](https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6961)) While the KMT political platform supports reunification, the DPP and its coalition partners, which have held both a parliamentary majority and the presidency since 2016, are pro-independence.
 
-### 652: [🎉Omaru Polka🎪 celebrates 1,000,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/wcjjcr/omaru_polka_celebrates_1000000_subscribers/), submitted on 2022-07-31 16:02:12+08:00.
+### 652: ["Christianity didn't become a world religion because of quality of its teachings, but by the quantity of its violence" - Eleanor Ferguson. Is this statement historically correct?](https://old.reddit.com/r/AskHistorians/comments/wchpfh/christianity_didnt_become_a_world_religion/), submitted on 2022-07-31 14:01:57+08:00.
 
------ __652.1__ -----2022-07-31 16:07:14+08:00:
+----- __652.1__ -----2022-08-01 20:47:34+08:00:
+
+Tacking on for China, the answer is complicated because so too is China's relationship with colonialism. For once I don't mean in the sense that China has been itself an eager perpetrator of colonialism (although it most definitely has), but rather that European colonialism in China was never 'total' in a way comparable to Africa, Oceania, or the Americas. While Western states and Japan exacted considerable privileges for themselves and their subjects on Qing and later Republican soil, considerably eroding those states' sovereignty within their own boundaries, they nevertheless never established direct sovereignty of their own, and so evangelism was mostly (outside of territorial concessions) undertaken within Chinese territory and outside the direct bounds of foreign state power.
+
+In broad terms, we can periodise Christianity in China in about four phases, of which I really only specialise in the third:
+
+1. The first phase was from around 635 to perhaps the mid-fourteenth century or so, when Christianity in China meant the Church of the East, also (somewhat erroneously) known as the Nestorian Church, which arrived in western China via Central Asia and seems to have died out some time after the late thirteenth century.
+
+2. The second we can put at around 1600 to 1800, when Christianity primarily cohered around Jesuit missionaries resident at Beijing, who attracted a limited number of converts, at least until the Chinese Rites Controversy in the 1710s (on which more later).
+
+3. The third phase in the nineteenth century involved missionaries, Protestant and Catholic alike, agitating for access to the Chinese interior in order to proselytise, backed implicitly by the military power of their respective states, although it also saw the rise of the medical mission, where the charitable function generally trumped the evangelical.
+
+4. The fourth phase, which can be marked roughly from 1910 to 1949, was dominated by medical missions which certainly sought and attracted converts, but which ultimately saw themselves primarily as hospitals; in addition, China happened to be (mostly) ruled by a Methodist, Chiang Kai-Shek, during the last two decades of this period.
+
+Neither the Nestorians nor Jesuits were spreading Christianity at the point of a spear, and neither were the medical missionaries of the 20th century particularly strongly backed by state power, given both the somewhat retrenched status of the old empires (Britain and France) and the relative diplomatic isolationism of the USA. That sort of ends up leaving the nineteenth century as the odd one out in terms of violently-backed Christian proselytisation, and even then no state power actively demanded that China convert to Christianity, rather that Christian missionaries (and to a (much) lesser extent their converts) be afforded protection. To put it another way, while there was violence involved in nineteenth-century attempts to spread Christianity in China, it was violence that (at least ostensibly) sought to prevent either state or grassroots inhibition of that spread, rather than enforced conversion as a means of strengthening political control. Otherwise, during the Jesuit-dominated and hospital-dominated phases, it was mainly the case that Christian missionaries happened to be missionaries and happened to achieve some level of conversion, while their practical main role was in providing other 'secular' services albeit motivated by their faith – the Jesuits as technical advisors to the Ming and later Qing courts; the medical missionaries as, well, doctors.
+
+While I don't have an old answer specifically on Christian proselytisation, you may find [this one](https://www.reddit.com/r/AskHistorians/comments/u8rtzf/what_happened_to_antichristian_sentiment_in_china/i5pwz4x/) on Boxer-era anti-Christianity to be at least partially of interest.
+
+Now, it would be remiss not to also account for the Taiping here, but in a sense it is tricky talking about the Taiping because it is very difficult if not impossible to state with any certainty how effectively the Taiping Heavenly Kingdom managed to a) communicate, b) enforce, and c) successfully entrench their brand of Christianity during their brief ascendancy between 1850 and 1864. Even so, we ought to consider that the Taiping Heavenly Kingdom was absolutely a violent entity, however successful or otherwise its attempts at evangelism were. Even its predecessor entity, the God-Worshipping Society, was in part a militia movement, and in consequence not free from violence either.
+
+I want to stress here that just because the history of Christianity in China is *largely* a nonviolent one, and that it was never – with one exception – directly spread under conditions of violent coercion, does not mean it had no connection with violence whatsoever, nor does it invalidate the markedly more violent history of Christianity in (especially now-Anglophone) North America. But it is to say that it was a bit different.
+
+### 653: [🎉Omaru Polka🎪 celebrates 1,000,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/wcjjcr/omaru_polka_celebrates_1000000_subscribers/), submitted on 2022-07-31 16:02:12+08:00.
+
+----- __653.1__ -----2022-07-31 16:07:14+08:00:
 
 ポ！
 
-### 653: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
+### 654: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
 
------ __653.1__ -----2022-08-01 00:15:40+08:00:
+----- __654.1__ -----2022-08-01 00:15:40+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 

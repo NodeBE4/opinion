@@ -39,9 +39,9 @@ Powerful statement.<br><br>wta: "With the full support of the WTA Board of Dir
 
 ### 6: [2021-12-02 18:53:23+08:00 推文](https://twitter.com/nathanlawkc/status/1466359838494056457)
 
-My deepest gratitude to @GretaThunberg for her hand-writing letter to my friend @joshuawongcf, who has been jailed for over a year. We still don’t know when activists like Joshua can leave jail.<br><br>“You are a big hero, we are with you always."<br><br>Thanks @daeseon_lee for his effort.<br><img style="" src="https://pbs.twimg.com/media/FFmNUDQX0AUSe-K?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFmN7oVX0AI2uC-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFmN8TUWQAIKg9I?format=jpg&name=orig" referrerpolicy="no-referrer">
+My deepest gratitude to @GretaThunberg for her hand-writing letter to my friend @joshuawongcf, who has been jailed for over a year. We still don’t know when activists like Joshua can leave jail.<br><br>“You are a big hero, we are with you always."<br><br>Thanks @daeseon_lee for his effort.<br><img style src="https://pbs.twimg.com/media/FFmNUDQX0AUSe-K?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFmN7oVX0AI2uC-?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFmN8TUWQAIKg9I?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-04 19:58:43+08:00 推文](https://twitter.com/nathanlawkc/status/1467101052864454660)
 
-Is it a white paper or a rap paper<br>Or actually It’s a joke<br><br>Jeremy Goldkorn: Poetry is not dead.<br><br><img style="" src="https://pbs.twimg.com/media/FFutuVQXIAEwZfW?format=jpg&name=orig" referrerpolicy="no-referrer">
+Is it a white paper or a rap paper<br>Or actually It’s a joke<br><br>Jeremy Goldkorn: Poetry is not dead.<br><br><img style src="https://pbs.twimg.com/media/FFutuVQXIAEwZfW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
