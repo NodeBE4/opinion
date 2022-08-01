@@ -59,3 +59,31 @@ Re @JiangShangrong 补充一条：<br>国会计划立法禁止议员配偶炒股
 
 Re @JianglinLi @RealBeiMing @ngexp 这与中国文革前期（1966-1968年）时，任何出身不好的人只要被认定对伟大领袖毛主席不敬、对贫下中农、工人阶级不敬就是被批斗，重则游街、被专政类似。<br>LGBTQ的社会政治地位与当年中国的伟大领袖、领导阶级及革命同盟军相似。
 
+### 12: [2022-08-01 08:55:13+08:00 推文](https://twitter.com/HeQinglian/status/1553907167748661249)
+
+Re @RealBeiMing @JianglinLi @ngexp 我今天才算弄明白一些事情，美国的性文化革命刚开始进入高潮，从奥巴马2015年到2020年，只算是”前戏“。<br>历史学家Carl Trueman的The Rise and Triumph of the Modern Self（可译为《后现代自我的崛起与胜利》）被称为”2021年与今后十年最重要的文化书籍”。为美国LGBTQI的性多元文化提供了理论基础。
+
+### 13: [2022-08-01 08:56:35+08:00 推文](https://twitter.com/HeQinglian/status/1553907511937351682)
+
+Re @RealBeiMing @JianglinLi @ngexp 该书将人的发展分为四个阶段：<br>1.政治人：希腊-罗马的理想，即人们参与社区生活。<br>2.宗教人：中世纪人们参加教堂敬拜和宗教朝圣的理想。<br>3.经济人：现代人通过金融活动和物质成功找到自我满足的理想。<br>4.心理的人：后现代的理想，即人们通过对个人心理幸福的内在追求来寻找他们的身份。
+
+### 14: [2022-08-01 08:58:19+08:00 推文](https://twitter.com/HeQinglian/status/1553907947671003136)
+
+Re @RealBeiMing @JianglinLi @ngexp 特鲁曼说，这种提法本身太简单。他进而指出，“心理的人”阶段为“性革命”创造了文化背景。弗里德里希·尼采(Friedrich Nietzsche)教人们抛弃约束他们的社会规范和约束；卡尔·马克思教人们反抗统治阶级的压迫；西格蒙德·弗洛伊德教人们，人的核心是性，人们的性欲对他们是谁具有决定性意义。
+
+### 15: [2022-08-01 09:05:25+08:00 推文](https://twitter.com/HeQinglian/status/1553909733937094656)
+
+Re @RealBeiMing @JianglinLi @ngexp 基于上述理由，现代人被敦促在性取向和性别认同方面寻求个人真实性，并拒绝任何与自身持不同意见的个人或机构。这种世界观已主宰了世俗社会，并试图取代《圣经》世界观<br>2015年奥巴马任命Randy Berry（Gay）做美国特使，周游各国，表明LGBTI权利属美国对外政策的重要事务，肯定变性人是人类多样性的体现
+
+### 16: [2022-08-01 09:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1553911587915841537)
+
+Re @RealBeiMing @JianglinLi @ngexp 美国的文化马克思主义近十年在美国大学占据重要地位，扩散性很强。千禧一代青年们所思所想，与我们这一代包括他们的上一代完全不一样。<br>千禧一代青年认为他们就是真理，代表世界的未来。
+
+### 17: [2022-08-01 09:16:16+08:00 推文](https://twitter.com/HeQinglian/status/1553912465158819840)
+
+这篇文章的内容，比标题有意思得多，推友们务必看看。<br><br>xiaxiaoqiang 夏小強: 歡樂跟帖！推特網民「歡慶」佩洛西專機將被擊落！「…作為全世界最憎恨的女人」<br> <a href="https://www.xiaxiaoqiang.net/happy-to-follow/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/happy-to-follow/.html</a>
+
+### 18: [2022-08-01 10:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1553938033497587713)
+
+Re @JianglinLi @RealBeiMing @ngexp 这一波比1968年那一波来势凶猛绵长，一是经过长期准备；二是经过学校长期教化，养成了社会基础；三是有个政权倾力支持。<br>比如奥巴马时代提出“变性者是人类多样性的体现”，还成为美国特使周游列国宣讲的内容——可惜，我没看到任何国家元首对这一宣讲的反应。
+
