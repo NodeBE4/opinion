@@ -35,6 +35,14 @@ This is the first I've heard of Suisei having 'disappeared'.
 
 Well yes, but Osekkai hasn't clipped Suisei in a *long* time. We're talking over 4 months for the most recent clip, and over a year since they were clipping Suisei consistently. So I'm just a little confused on the idea that Suisei somehow dropped off the face of the planet at one stage.
 
+----- __643.4__ -----2022-08-01 15:22:27+08:00:
+
+I was tempted to be there out of sheer interest but I ultimately decided against it. Good to see it's going well though!
+
+----- __643.5__ -----2022-08-01 15:31:25+08:00:
+
+Nice. I was at the con on Friday and didn't see as much VTuber-related stuff (cosplay-wise especially) as when I went last year, but I suspect that's because a lot of that gravitated to today instead. That said, I did see one La+ cosplayer in the itakimono.
+
 ### 644: [What are Visney and Barba Water?](https://old.reddit.com/r/AskHistorians/comments/wa6ohi/what_are_visney_and_barba_water/), submitted on 2022-07-28 18:50:57+08:00.
 
 ----- __644.1__ -----2022-07-28 19:20:54+08:00:
