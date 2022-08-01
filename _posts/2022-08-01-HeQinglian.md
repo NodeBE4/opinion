@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-01
+date: 2022-08-02
 from: https://twitter.com/HeQinglian/status/1553788508103475201
 layout: post
 tags:
@@ -110,4 +110,48 @@ Re @lindahuiyun @JianglinLi Mark了。
 ### 24: [2022-08-01 22:04:10+08:00 推文](https://twitter.com/HeQinglian/status/1554105711805796353)
 
 Re @JianglinLi @3As7SpJjom8nHla @RealBeiMing @ngexp 美国国内政治将决定大重置能否成功。如果美国人争点气，先将国会夺回来，再赢回白宫，蛇无头不行。<br>欧盟这一战，基本只剩半条命了，下一步是挣扎求存。对大重置最多帮个人场，让自家人变性、LGBTQ、洗绿全面子。<br>这次在台湾问题上，北京如果熊了，以后这地会成为拜登政府国际政策的一个突破口。
+
+### 25: [2022-08-01 22:15:39+08:00 推文](https://twitter.com/HeQinglian/status/1554108603002494983)
+
+Re @FranzMendelsso1 @JianglinLi @3As7SpJjom8nHla @RealBeiMing @ngexp LGBTQI是国家政策，绿教小小地用恐怖手段惩罚，没多大用——另外，我没听说绿教在欧洲实行针对性少数群体这种定向式恐怖袭击。不知是不报导还是没发生。
+
+### 26: [2022-08-01 22:18:19+08:00 推文](https://twitter.com/HeQinglian/status/1554109272686039040)
+
+Re @FranzMendelsso1 @JianglinLi @3As7SpJjom8nHla @RealBeiMing @ngexp @xchen62 @david_david1968 那是内部实行吧？
+
+### 27: [2022-08-01 22:47:37+08:00 推文](https://twitter.com/HeQinglian/status/1554116648176582657)
+
+Re @mingshi_chen @JianglinLi @3As7SpJjom8nHla @RealBeiMing @ngexp 世界上的事情，不会如你的意。按美国目前这态势，能够赢得一些时间就已经万幸，想清算？当真是做梦，我等目前在这里能够自由发言，没被取消，多亏我们是中文。多少犯禁语言，是英文早就关了。
+
+### 28: [2022-08-01 22:51:46+08:00 推文](https://twitter.com/HeQinglian/status/1554117690465419264)
+
+Re @realJackLaw 不着急，中美两国目前都是老虎，8月4日一过，谁是纸老虎就水落石出。
+
+### 29: [2022-08-01 23:08:32+08:00 推文](https://twitter.com/HeQinglian/status/1554121910098837505)
+
+Re @yu19631 “获利不当”，请参看联邦证券法。<br>有位美籍华人在某医药公司供职，因知道本公司新药上市，让家人在上市当天立即购入，获利200万，除罚没全部收入之外，入狱两年。
+
+### 30: [2022-08-01 23:45:00+08:00 推文](https://twitter.com/HeQinglian/status/1554131089534361600)
+
+据UCLA（加州大学洛杉矶分校）今年6月的研究报告，全美变性人当中有五分之一的人是13-17岁的孩子，共计160万人（Nearly one in five people who identify as transgender are ages 13-17.）<br>成年人130万（Adult 1.3M ）；<br>青年人30万（Youth 300000）。<br><br>左派毁国从毁人开始。 <a href="https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/" target="_blank" rel="noopener noreferrer">https://williamsinstitute.law.ucla.edu/publications/trans-adults-united-states/</a>
+
+### 31: [2022-08-01 23:53:47+08:00 推文](https://twitter.com/HeQinglian/status/1554133299664244737)
+
+Re 打开网页，从Data Point点进去，可看详细数据与百分比。
+
+### 32: [2022-08-02 00:40:28+08:00 推文](https://twitter.com/HeQinglian/status/1554145046437453825)
+
+Re @FranzMendelsso1 你点开数据Data Point去看吧。女的变性比例高于男性6个点。再往后可能是族裔了。
+
+### 33: [2022-08-02 01:31:05+08:00 推文](https://twitter.com/HeQinglian/status/1554157784521998338)
+
+Re @mingshi_chen 变性远比LGB严重，这三者可以调整，变性是一维性的不可逆向。
+
+### 34: [2022-08-02 01:37:35+08:00 推文](https://twitter.com/HeQinglian/status/1554159421047070720)
+
+Re @FangYiDuan1 没啥好关心的，对美国民主党来说，今年流年不太利，这次佩洛西出于私利策划的冒险活动在她走之前国防部长向她陈述情况时，她就准备一赌了。<br>防长说的是：中国未做任何准备。<br>其余的，改天再说了。
+
+### 35: [2022-08-02 01:46:20+08:00 推文](https://twitter.com/HeQinglian/status/1554161623966810114)
+
+Re @RealBeiMing 我今天没时间仔细翻下去，心中还有一个疑惑：160万13-17岁的人占变性人的五分之一，总数应该是800万，Youth为30万，Adult为130万。剩下的年龄组就是0-13岁以下。<br>变性重镇为加州，从娃娃抓起，加州人口2020年为39.35 million，这数字我不能再想下去了。<br>马斯克被前妻恶意报复了一把，这种左疯女很多。
 
