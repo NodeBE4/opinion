@@ -35,3 +35,15 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 658: [Saw it for sale in HK Anime convention.](https://old.reddit.com/r/Hololive/comments/wdbu2o/saw_it_for_sale_in_hk_anime_convention/), submitted on 2022-08-01 16:08:40+08:00.
+
+----- __658.1__ -----2022-08-02 00:27:37+08:00:
+
+Wait, I did not see this, but dear god would I have bought it if I had...
+
+### 659: [kneel before Laplus](https://old.reddit.com/r/Hololive/comments/wdgdfr/kneel_before_laplus/), submitted on 2022-08-01 20:34:05+08:00.
+
+----- __659.1__ -----2022-08-02 00:28:20+08:00:
+
+HK Exhibition Centre, looks like it was taken at Ani-Com today.
+
