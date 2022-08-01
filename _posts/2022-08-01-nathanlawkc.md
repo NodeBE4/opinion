@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-08-01
+date: 2022-08-02
 from: https://twitter.com/nathanlawkc/status/1554026434913570816
 layout: post
 tags:
@@ -24,4 +24,8 @@ Our support for Taiwan should be firm and strong. Leaders from democratic countr
 ### 2: [2022-08-01 22:58:47+08:00 推文](https://twitter.com/nathanlawkc/status/1554119456586190854)
 
 Many don't understand the Chinese authority's mentality. Complying with them makes them think that you are weak -- only deterrence can stop CCP's threats.<br><br>For them, every policy is for domestic consumption. Don't act in a way CCP can claim a clear victory.
+
+### 3: [2022-08-02 06:44:14+08:00 推文](https://twitter.com/nathanlawkc/status/1554236589999636481)
+
+Any military actions from CCP to Speaker Pelosi's visit are unprovoked and unjustified. <br>China wants to cut Taiwan off from global affairs, which this idea shouldn't have existed in the first place. The visit doesn't break the status quo over sovereignty dispute; only war does.
 
