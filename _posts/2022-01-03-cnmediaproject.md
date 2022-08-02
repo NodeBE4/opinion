@@ -61,5 +61,5 @@ Just stumbled across this wonderful historical example of how CCP official disco
 
 ### 12: [2022-01-09 23:39:43+08:00 推文](https://twitter.com/GeringTuvia/status/1480202634829127687)
 
-RT Tuvia Gering 陶文亚<br>"What we need is less clichés, less political jargon, and more targeted storytelling" - distinguished Fudan University professor and CCP member Zhang Weiwei believes that the international community wishes to emulate China's success story, but that China must tell it better.<br>1/5<br><img style src="https://pbs.twimg.com/media/FIq8UNZWUAgHYtH?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"What we need is less clichés, less political jargon, and more targeted storytelling" - distinguished Fudan University professor and CCP member Zhang Weiwei believes that the international community wishes to emulate China's success story, but that China must tell it better.<br>1/5<br><img style="" src="https://pbs.twimg.com/media/FIq8UNZWUAgHYtH?format=png&name=orig" referrerpolicy="no-referrer">
 
