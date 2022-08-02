@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-01
+date: 2022-08-02
 from: https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/
 layout: post
 tags:
@@ -56,4 +56,10 @@ Wait, I did not see this, but dear god would I have bought it if I had...
 ----- __659.1__ -----2022-08-02 00:28:20+08:00:
 
 HK Exhibition Centre, looks like it was taken at Ani-Com today.
+
+### 660: [Would the Japanese have surrendered to the Soviets if the Americans hadn’t nukes Hiroshima and Nagasaki?](https://old.reddit.com/r/AskHistorians/comments/we634h/would_the_japanese_have_surrendered_to_the/), submitted on 2022-08-02 16:21:59+08:00.
+
+----- __660.1__ -----2022-08-02 16:56:26+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
