@@ -23,6 +23,10 @@ Nice! I've played a test game with some Brigade Models Aeronef/Imperial Skies mo
 
 What in particular about the damage mechanics?
 
+----- __655.3__ -----2022-08-02 13:23:44+08:00:
+
+I don’t believe that’s correct. The table says to subtract one ‘if firing ship has a Friction marker’, not that you subtract one *per* Friction marker. So while having Friction somewhat reduces firepower, it normally shouldn’t cancel it outright.
+
 ### 656: [Why are some French/German/English names "Hungarianized", like King Lois becoming King Lajos in Hungarian?](https://old.reddit.com/r/AskHistorians/comments/wd3puv/why_are_some_frenchgermanenglish_names/), submitted on 2022-08-01 08:43:10+08:00.
 
 ----- __656.1__ -----2022-08-01 10:44:53+08:00:

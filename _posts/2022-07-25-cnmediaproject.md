@@ -111,3 +111,7 @@ On page 2 of yesterday's People's Daily, an interesting example of how Xi's titl
 
 RT Will Glasgow<br>Amazing to see members of the European car lobby — not exactly a beachhead of “anti-China forces” — talking this way.<br><br>Perhaps time for Beijing to ask itself, “Do they have a point?” <a href="https://on.ft.com/3vnQPim" target="_blank" rel="noopener noreferrer">https://on.ft.com/3vnQPim</a><br><img style="" src="https://pbs.twimg.com/media/FY9T3dbacAAmon4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 25: [2022-07-31 16:46:01+08:00 推文](https://twitter.com/dtiffroberts/status/1553663260058058754)
+
+RT Dexter Roberts<br>Re Jeep pulls out of China. Foreign investors face record losses. And the latest Politburo meeting is cold comfort for companies hoping for an end to Zero Covid and an economic boost. &gt; <a href="https://dexter.substack.com/p/trade-war-7ba?r=p47&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://dexter.substack.com/p/trade-war-7ba?r=p47&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web</a>
+
