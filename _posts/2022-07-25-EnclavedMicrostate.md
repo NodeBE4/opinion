@@ -109,6 +109,10 @@ Again, there are I think multiple, potentially complementary explanations. The f
 
 Not really. But to be quite honest the 'Great Wall' (*changcheng*) is itself a relatively modern term, and its consistent employment began only really under the Qing. In effect, 'Liao/Jin frontier walls' is the most precise way of putting it, even if 'Liao/Jin Great Wall' would be more dramatic and evocative.
 
+----- __645.3__ -----2022-08-02 09:01:59+08:00:
+
+A good catch – there may well have been, but as the Wall is not my primary specialism I don't have a full picture of the non-Anglophone historiography.
+
 ### 646: [Was a colonizing country ever invaded by a country they tried to capture?](https://old.reddit.com/r/AskHistorians/comments/wbm9zc/was_a_colonizing_country_ever_invaded_by_a/), submitted on 2022-07-30 10:17:50+08:00.
 
 ----- __646.1__ -----2022-07-30 11:37:38+08:00:

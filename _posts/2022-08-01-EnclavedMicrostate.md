@@ -19,6 +19,10 @@ title: EnclavedMicrostate在2022-08-01~2022-08-07的言论
 
 Nice! I've played a test game with some Brigade Models Aeronef/Imperial Skies models and also managed to port it to TTS. I'm curious what you think of it – I feel like the rules are solid, but the fleet lists are horrifically poorly balanced points-wise.
 
+----- __655.2__ -----2022-08-02 09:02:20+08:00:
+
+What in particular about the damage mechanics?
+
 ### 656: [Why are some French/German/English names "Hungarianized", like King Lois becoming King Lajos in Hungarian?](https://old.reddit.com/r/AskHistorians/comments/wd3puv/why_are_some_frenchgermanenglish_names/), submitted on 2022-08-01 08:43:10+08:00.
 
 ----- __656.1__ -----2022-08-01 10:44:53+08:00:

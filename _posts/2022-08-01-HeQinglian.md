@@ -183,3 +183,11 @@ Re @realJackLaw 你完全不看一个现象：从5月以来，主流媒体不断
 
 Re @Lucs24659702 人家本来就是猴痘肆虐之地。教堂里有并不出奇。<br>不过，这样的教堂，去有何益？
 
+### 43: [2022-08-02 09:02:53+08:00 推文](https://twitter.com/HeQinglian/status/1554271484713095171)
+
+突然发现，习近平遇到了擅长在名与实之间纠缠不休的美国进步派政府，有点象拳头打在厚海绵上。<br>三号人物正在做的事情，却硬说这是个人行为；<br>不改变一个中国立场——翻了脸，完全可以解释成台湾本来就不是中国，已经独立大半个世纪了。<br>不仅是战略模糊，就连行动的主体资格与目标也模糊化了。😂😂<br><br>RichL: 白宫刚才重申：我们不知道佩洛西的行程，不知道她要不要去，我们是应该保护她的安全，我们觉得啥也没变，但是她要去是她自己的事情，我们只是给她一些情报和安全建议，我们不改变一个中国立场。<br><br><img style="" src="https://pbs.twimg.com/media/FZGIS-NWAAAN8D1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZGIS-OWQAMAEM3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 44: [2022-08-02 10:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1554289343732359170)
+
+Re @riverkiosk 布林肯访问台湾了？何时发生的事情？
+
