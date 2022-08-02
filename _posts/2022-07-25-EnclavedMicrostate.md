@@ -193,9 +193,17 @@ I want to stress here that just because the history of Christianity in China is 
 
 ポ！
 
-### 654: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
+### 654: [[Hobby Scuffles] Week of August 1, 2022](https://old.reddit.com/r/HobbyDrama/comments/wcqp91/hobby_scuffles_week_of_august_1_2022/), submitted on 2022-07-31 23:00:13+08:00.
 
------ __654.1__ -----2022-08-01 00:15:40+08:00:
+----- __654.1__ -----2022-08-02 21:04:42+08:00:
+
+> (I know Kizuna has already gone past 3M afer gura and i think there was another)
+
+I don't believe anyone other than AI, Gura, Calli, and Marine have 2m+ Youtube subscribers, but Argentinian indie VTuber Nimu Spacecat has over 2m Twitch followers as of 10 June.
+
+### 655: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
+
+----- __655.1__ -----2022-08-01 00:15:40+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
