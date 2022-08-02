@@ -29,3 +29,7 @@ Many don't understand the Chinese authority's mentality. Complying with them mak
 
 Any military actions from CCP to Speaker Pelosi's visit are unprovoked and unjustified. <br>China wants to cut Taiwan off from global affairs, which this idea shouldn't have existed in the first place. The visit doesn't break the status quo over sovereignty dispute; only war does.
 
+### 4: [2022-08-02 15:00:18+08:00 推文](https://twitter.com/nathanlawkc/status/1554361432766021633)
+
+Taiwan has every right to host Speaker Pelosi. This is not a provocation - it's just a govt doing what govt does. Allies now must state clearly that any military threats from China are intolerable. We must step up and deter Chinese dictators from launching another unprovoked war.
+
