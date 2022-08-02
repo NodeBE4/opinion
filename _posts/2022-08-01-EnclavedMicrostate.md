@@ -57,9 +57,15 @@ Wait, I did not see this, but dear god would I have bought it if I had...
 
 HK Exhibition Centre, looks like it was taken at Ani-Com today.
 
-### 660: [Would the Japanese have surrendered to the Soviets if the Americans hadn’t nukes Hiroshima and Nagasaki?](https://old.reddit.com/r/AskHistorians/comments/we634h/would_the_japanese_have_surrendered_to_the/), submitted on 2022-08-02 16:21:59+08:00.
+### 660: [Why is the Enterprise the only ship with registry repetition?](https://old.reddit.com/r/DaystromInstitute/comments/wdz2d9/why_is_the_enterprise_the_only_ship_with_registry/), submitted on 2022-08-02 09:55:56+08:00.
 
------ __660.1__ -----2022-08-02 16:56:26+08:00:
+----- __660.1__ -----2022-08-02 18:26:46+08:00:
+
+I forget if Voyager-J gets specifically named as such, but during the finale arc of S3 Admiral Vance does definitely order it around a bit.
+
+### 661: [Would the Japanese have surrendered to the Soviets if the Americans hadn’t nukes Hiroshima and Nagasaki?](https://old.reddit.com/r/AskHistorians/comments/we634h/would_the_japanese_have_surrendered_to_the/), submitted on 2022-08-02 16:21:59+08:00.
+
+----- __661.1__ -----2022-08-02 16:56:26+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
