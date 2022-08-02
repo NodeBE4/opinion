@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-02
+date: 2022-08-03
 from: https://twitter.com/HeQinglian/status/1553788508103475201
 layout: post
 tags:
@@ -214,4 +214,60 @@ Re @FranzMendelsso1 “他们再次乘坐美国空军的行政专机”，很清
 ### 50: [2022-08-02 20:55:50+08:00 推文](https://twitter.com/HeQinglian/status/1554450903700307968)
 
 Re @fading_you1 关键是舰载导弹的威力如何。据我读报，欧盟环保人士经过此番战时能源短缺，已经成功洗绿，柴油、煤炭、木柴全都成了备选绿能材料。<br>洗浴习惯，似乎回到十字军东征以前了。史载，沐浴习惯是到东方学会的。
+
+### 51: [2022-08-02 23:23:58+08:00 推文](https://twitter.com/HeQinglian/status/1554488184293277699)
+
+佩洛西“个人”访台战果总结：<br>1、佩洛西完胜，今后反共业绩共两笔：30年前天安门展示横幅、在中共威胁、拜登政府不支持的情况下访台，进入史册；个人与家族腐败就此揭过；<br>2、中共被证明是纸老虎，尽管白宫声明对其个人行为不负责，中方的威胁措施一样也未出手。<br>3、中美之间的台湾问题重划红线。<br><br>CNBC: Pelosi's Taiwan trip is a new headache for Biden, increases tension with China<br> <a href="https://cnb.cx/3zqSt43" target="_blank" rel="noopener noreferrer">https://cnb.cx/3zqSt43</a>
+
+### 52: [2022-08-02 23:27:25+08:00 推文](https://twitter.com/HeQinglian/status/1554489052203831299)
+
+Re @FranzMendelsso1 关键时刻不出手，以后应该算另一幕了。<br>戏剧分序幕、正剧。这场戏终结了。
+
+### 53: [2022-08-02 23:35:44+08:00 推文](https://twitter.com/HeQinglian/status/1554491142867230721)
+
+美国今年对俄中出手，终于试出谁是铁板，谁是镀铁白铁皮。<br>方式一样：信息战开路，虚虚实实。<br>对俄是诱敌深入（不谈乌境内的操作了），美、英、北约同发声，如果俄入侵乌克兰，我们不会出兵。结果德方有人总结：杀敌一千，自伤八百。<br>对中则是硬上：政府不让去，那是众议院议长个人行为。结果如下：👇<br><br>He Qinglian: 佩洛西“个人”访台战果总结：<br>1、佩洛西完胜，今后反共业绩共两笔：30年前天安门展示横幅、在中共威胁、拜登政府不支持的情况下访台，进入史册；个人与家族腐败就此揭过；<br>2、中共被证明是纸老虎，尽管白宫声明对其个人行为不负责，中方的威胁措施一样也未出手。<br>3、中美之间的台湾问题重划红线。<br> <a href="https://twitter.com/CNBC/status/1554468314767835138" target="_blank" rel="noopener noreferrer">https://twitter.com/CNBC/status/1554468314767835138</a>
+
+### 54: [2022-08-02 23:36:22+08:00 推文](https://twitter.com/HeQinglian/status/1554491304662409217)
+
+Re @rieki1990 她考虑是是自身，中期选举另有操盘手。
+
+### 55: [2022-08-02 23:37:21+08:00 推文](https://twitter.com/HeQinglian/status/1554491549639233548)
+
+Re @thefanda2 估计除了VOA、BBC之外，不会有人这样称呼她吧？
+
+### 56: [2022-08-02 23:38:36+08:00 推文](https://twitter.com/HeQinglian/status/1554491865839329281)
+
+Re @FranzMendelsso1 那就看下去吧。比看拜登在国内折腾青少年变性好。
+
+### 57: [2022-08-02 23:42:48+08:00 推文](https://twitter.com/HeQinglian/status/1554492924536229888)
+
+Re @JianglinLi @3As7SpJjom8nHla @RealBeiMing @ngexp 这些进步派会显示爱心，收养孩子，然后再象德国绿党一样，主张父母与孩子的性行为合法化。<br>美国就有养父与养女结婚的。名字我不说了，毕竟是结婚，与德国绿党主张有别。
+
+### 58: [2022-08-02 23:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1554494594267729922)
+
+Re @FranzMendelsso1 从后来补给短缺看，曾经准备的确实是演习，至少军队是按演习准备的补给。<br>中途如何改变决策，以后待普京回忆录出来。
+
+### 59: [2022-08-02 23:51:04+08:00 推文](https://twitter.com/HeQinglian/status/1554495003086422017)
+
+Re 纠正：德方总结是杀敌八百，自伤一千。实际上是自伤五千（我的总结）。
+
+### 60: [2022-08-02 23:54:27+08:00 推文](https://twitter.com/HeQinglian/status/1554495853729038336)
+
+Re @Wu_Zhi 这时就看习近平是否真准备了。<br>如果在其回程时打一下，哪怕断其一指，也会对自身今后的国际地位有利。<br>正集结在俄中周围的国家，并不希望本阵营的领导者在关键时刻掉链子。<br>另外，输了就是输了，再文饰也是纸老虎。
+
+### 61: [2022-08-02 23:55:15+08:00 推文](https://twitter.com/HeQinglian/status/1554496057563877377)
+
+Re @realJackLaw 你其实希望别人都说乌克兰赢了。😂
+
+### 62: [2022-08-03 00:00:17+08:00 推文](https://twitter.com/HeQinglian/status/1554497320624046081)
+
+Re @Wu_Zhi 主要是习近平要应付连任压力；<br>佩洛西是因为党内明言要其终结议长生涯，主媒在抓其腐败，绝地一战。<br>兵法云：置之死地而后生。
+
+### 63: [2022-08-03 00:09:52+08:00 推文](https://twitter.com/HeQinglian/status/1554499734127230978)
+
+Re @Wu_Zhi 政治有个机会成本，佩洛西这次临行前。美国国安委科尔的汇报当中有一条：通过电子情报系统搜集的信息，未发现中方有何动静。<br>这边4日改2日，虚虚实实，也是对“动静”所需要时间做了测算的。
+
+### 64: [2022-08-03 00:17:02+08:00 推文](https://twitter.com/HeQinglian/status/1554501539083034624)
+
+Re @realJackLaw 其实，欧盟才是最大的输家。<br>不是战争两造之一，结果就输得伤筋动骨的。
 
