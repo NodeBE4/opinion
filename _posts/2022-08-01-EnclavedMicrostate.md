@@ -69,3 +69,9 @@ I forget if Voyager-J gets specifically named as such, but during the finale arc
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
+### 663: [ELI5: How did the U.S. rise to a global superpower in only 250 years but counties that have been around for 1000s of years are still under-developed?](https://old.reddit.com/r/explainlikeimfive/comments/we7chi/eli5_how_did_the_us_rise_to_a_global_superpower/), submitted on 2022-08-02 17:41:26+08:00.
+
+----- __663.1__ -----2022-08-02 22:48:04+08:00:
+
+'Countries' don't really exist on the scale of hundreds of years,. 'China' in its modern form has only existed as far back as 1949 for instance (and whether you count that depends on whether you consider major changes after Mao's death as substantive enough to count). Just because a country *says* it's old doesn't mean it *is*.
+

@@ -33,3 +33,11 @@ Any military actions from CCP to Speaker Pelosi's visit are unprovoked and unjus
 
 Taiwan has every right to host Speaker Pelosi. This is not a provocation - it's just a govt doing what govt does. Allies now must state clearly that any military threats from China are intolerable. We must step up and deter Chinese dictators from launching another unprovoked war.
 
+### 5: [2022-08-02 23:05:53+08:00 推文](https://twitter.com/nathanlawkc/status/1554483631288188930)
+
+Thank you @SpeakerPelosi for your continuous support to the democratic struggles in Hong Kong and China. You are welcomed in Taiwan, as well as in all places where democracy is in place. <br>Hope you have a fruitful journey.<br>(Photo taken in London. She wrote a blurb for my book.)<br><img style="" src="https://pbs.twimg.com/media/FZKhC0lWIAEPtu5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-08-02 23:05:54+08:00 推文](https://twitter.com/nathanlawkc/status/1554483635230834690)
+
+Re “‘Freedom’ is an essential and timely read, warning policymakers, advocates and all people of the erosion to freedom happening before our eyes and equipping us to combat this challenge.”<br><br>- Speaker Nancy Pelosi
+
