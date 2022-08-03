@@ -81,6 +81,8 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 It's next to a very busy pedestrian overpass.
 
+EDIT: Also (because I can't believe I forgot this detail) there's a good chance you'd pass by it while going to or leaving the Convention and Exhibition Centre, which you might do if you were at, say, Ani-Com, which ran there from last Friday until this Tuesday.
+
 ### 665: [Does Scepticism of China really mirror Anti Japanese Sentiment of the Past?](https://old.reddit.com/r/AskHistorians/comments/wefc37/does_scepticism_of_china_really_mirror_anti/), submitted on 2022-08-02 23:55:31+08:00.
 
 ----- __665.1__ -----2022-08-03 15:56:51+08:00:
