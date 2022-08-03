@@ -93,7 +93,7 @@ Re @Ipkmedia @ZhangDong_SCH 胡叼盘这是要就坡撤叫驴。叼盘是本性�
 
 ### 20: [2021-12-19 20:39:58+08:00 推文](https://twitter.com/realcaixia/status/1472547251625119746)
 
-粗放型经济掠夺式增长，耗尽资源污染环境，抢子孙饭吃断子孙活路。中共知道干的是断子绝孙之事，1997年曾提出转变经济增长方式的问题，党国要面子官员要升官上下尽贪，依赖GDP成瘾，隐患多多积弊重重，终至积重难返。近年权力任性，一句话灭一个行业，一拳砸上千万人饭碗………党国经济终究颓势难挡。<br><br>韩连潮: 【党国经济现危机】党国经济表面上只是经济增长减缓，如从3季度的4.9%下降到4季度3.1%，但实际是结构和政策性经济危机：房价连续下降，钢铁和水泥生产暴跌，原油进口出现自2004来首次下跌。而中央经济工作会议仍竭力吹嘘习经济成就，开出的都是假大空药方，所谓求稳就是确保中共对市场和资本的绝对控制<br><br><img style="" src="https://pbs.twimg.com/media/FG0P_M6XMAswzMR?format=jpg&name=orig" referrerpolicy="no-referrer">
+粗放型经济掠夺式增长，耗尽资源污染环境，抢子孙饭吃断子孙活路。中共知道干的是断子绝孙之事，1997年曾提出转变经济增长方式的问题，党国要面子官员要升官上下尽贪，依赖GDP成瘾，隐患多多积弊重重，终至积重难返。近年权力任性，一句话灭一个行业，一拳砸上千万人饭碗………党国经济终究颓势难挡。<br><br>韩连潮: 【党国经济现危机】党国经济表面上只是经济增长减缓，如从3季度的4.9%下降到4季度3.1%，但实际是结构和政策性经济危机：房价连续下降，钢铁和水泥生产暴跌，原油进口出现自2004来首次下跌。而中央经济工作会议仍竭力吹嘘习经济成就，开出的都是假大空药方，所谓求稳就是确保中共对市场和资本的绝对控制<br><br><img style src="https://pbs.twimg.com/media/FG0P_M6XMAswzMR?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-19 21:04:02+08:00 推文](https://twitter.com/realcaixia/status/1472553309953216518)
 
@@ -101,5 +101,5 @@ Re 大陆经济至此，根源在于极权专制制度，非是政策转向所�
 
 ### 22: [2021-12-19 22:33:16+08:00 推文](https://twitter.com/realcaixia/status/1472575764499517444)
 
-呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style="" src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
+呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
 
