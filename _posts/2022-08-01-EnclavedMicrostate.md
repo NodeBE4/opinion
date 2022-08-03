@@ -75,3 +75,9 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 'Countries' don't really exist on the scale of hundreds of years,. 'China' in its modern form has only existed as far back as 1949 for instance (and whether you count that depends on whether you consider major changes after Mao's death as substantive enough to count). Just because a country *says* it's old doesn't mean it *is*.
 
+### 664: [Marine senchou's birthday celebration advertisement in Hong Kong situated at a... fitting location](https://old.reddit.com/r/Hololive/comments/we9xn6/marine_senchous_birthday_celebration/), submitted on 2022-08-02 20:05:21+08:00.
+
+----- __664.1__ -----2022-08-03 11:11:49+08:00:
+
+It's next to a very busy pedestrian overpass.
+
