@@ -81,3 +81,9 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 It's next to a very busy pedestrian overpass.
 
+### 665: [Does Scepticism of China really mirror Anti Japanese Sentiment of the Past?](https://old.reddit.com/r/AskHistorians/comments/wefc37/does_scepticism_of_china_really_mirror_anti/), submitted on 2022-08-02 23:55:31+08:00.
+
+----- __665.1__ -----2022-08-03 15:56:51+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
