@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 1: [2022-08-01 08:02:58+08:00 推文](https://twitter.com/realcaixia/status/1553894016089047042)
 
-严歌苓是华裔女作家中的良知代表。
+严歌苓是华裔女作家中的良知代表。<br><br>ABC中文: 作为当代最知名的中文作家，严歌苓曾为李文亮悲鸣，也在徐州“八孩母亲”事件后被曝批评习近平是“人贩子”。<br><br>她的名字随后在中国影视行业销声匿迹，社交媒体平台微博更是引用“相关法律法规”将其屏蔽。<br><br>“你如果要用我去以妥协作为代价的话，我宁可什么也不要，”她告诉ABC中文。<br> <a href="https://ab.co/3zcpSiQ" target="_blank" rel="noopener noreferrer">https://ab.co/3zcpSiQ</a>
 
 ### 2: [2022-08-01 08:06:28+08:00 推文](https://twitter.com/realcaixia/status/1553894897333280774)
 
