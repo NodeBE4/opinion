@@ -307,3 +307,19 @@ Re @cc47171 你指的是这事吧？“进一步收紧台湾海峡的控制权�
 
 Re @wangj33874713 @JiangShangrong 在俄乌战争站边上，中国也算帮了俄罗斯一大忙。<br>当然是出于唇亡齿寒的缘故。
 
+### 74: [2022-08-03 08:39:13+08:00 推文](https://twitter.com/HeQinglian/status/1554627917795172356)
+
+Re @ying32178493 @mingson62375905 这事，中共如果没有什么有效办法，就让他们去。谁让这次现了纸老虎本相？又不是建交。<br>倒是台湾要想法子应付中共今后的挤压与紧逼。
+
+### 75: [2022-08-03 08:44:29+08:00 推文](https://twitter.com/HeQinglian/status/1554629240552931328)
+
+Re @hbbkk66 哪跟哪呀？人家那是美国正式承认的国家，台湾没被美国正式承认是国家。
+
+### 76: [2022-08-03 08:56:24+08:00 推文](https://twitter.com/HeQinglian/status/1554632239777988611)
+
+应该可以预判：拜登与习近平短时期内不会再有视频通话了。😂<br>遐想一下，中共可以远程控制多米尼投票机吗？如果留了后门，那就让民主党丢众议院，佩洛西就没议长好做了——民主党必定需要“多兄弟”拉抬行情的。<br>我这主意挺好的。就看中共有无这决心。😂<br><br>美国之音中文网: 白宫国家安全委员会发言人约翰·科比2日说，北京对美国众议院议长佩洛西抵台访问的反应如白宫所料，美方预计中国还将在较长一段时期内采取行动，华盛顿已做好应对准备。他说，华盛顿将继续在西太平洋行使航行和飞越自由，捍卫自由开放的印太，继续支持台湾，维护台海和平稳定。<br><br><video src="https://video.twimg.com/amplify_video/1554618238620803080/vid/720x720/_smz7CwCy_aFCODu.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FZMdUsCXgAA7Tfl?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3zRvWi5" target="_blank" rel="noopener noreferrer">https://bit.ly/3zRvWi5</a>
+
+### 77: [2022-08-03 09:03:32+08:00 推文](https://twitter.com/HeQinglian/status/1554634034814324736)
+
+弗里德曼的分析：“据一位美国高级官员称，拜登亲口告诉习近平主席，如果在乌战中支持俄罗斯，中国将面临美国和欧盟这两个最重要的出口市场对其关闭的风险。（中国是全球无人机技术最强大的国家之一，而无人机正是普京的军队眼下最需要的工具。）” <a href="https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/</a>
+
