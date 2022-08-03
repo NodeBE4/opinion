@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-03
+date: 2022-08-04
 from: https://twitter.com/HeQinglian/status/1553788508103475201
 layout: post
 tags:
@@ -335,47 +335,83 @@ Re @realJackLaw 就是这位，报告国防部，电子情报系统显示，中�
 
 Re @fading_you1 尊推140字不到，四“欲”粉红们或可看懂，但后引用的典故，多半看不明白，得普及一下中外历史。😂
 
-### 81: [2022-08-03 21:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1554815495953588226)
+### 81: [2022-08-03 21:01:17+08:00 推文](https://twitter.com/niulehou/status/1554814665011642370)
+
+RT 牛乐吼<br>亚利桑那的Kari Lake赢得州长的党内初选，她是川普最忠诚的盟友，2020选举舞弊最犀利的鞭挞者。<br><br>现在真正的勇士都是女人，美国同中国一样，男人都被阉🈹️。<br><br>欧洲的男人阉割最彻底。<br><br>Kari Lake War Room: This is the exact moment @KariLake found out she won the election.<br><br><img style="" src="https://pbs.twimg.com/media/FZOgP1HX0AAF4nz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 82: [2022-08-03 21:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1554815495953588226)
 
 Re @shenliangqing2 这种场面以前多次出现：南斯拉夫中领馆被炸、南海撞机（“王海，你在哪里”）、第一次申请加入WTO未成……，多了去。<br>其实还是闭门思过：这次丢脸的策略失误问题。科特的视频讲话要好好看，那是胜利者的炫耀——美国民主党政府有个特点，只要胜了，哪怕窃选，也要炫耀。<br>失败方应该将这些炫耀当教科书。
 
-### 82: [2022-08-03 21:10:35+08:00 推文](https://twitter.com/HeQinglian/status/1554817005173313542)
+### 83: [2022-08-03 21:10:35+08:00 推文](https://twitter.com/HeQinglian/status/1554817005173313542)
 
 各位，弗里德曼文章中最重要的信息是：中国是最大的无人机生产国之一，普京的军队需要，但北京遵守与沙利文的约定，不提供。他的担心是：这次北京怒了，可能会提供。<br>纽约时报应该是这两国情报部门都需要看的。<br><br>He Qinglian: 弗里德曼的分析：“据一位美国高级官员称，拜登亲口告诉习近平主席，如果在乌战中支持俄罗斯，中国将面临美国和欧盟这两个最重要的出口市场对其关闭的风险。（中国是全球无人机技术最强大的国家之一，而无人机正是普京的军队眼下最需要的工具。）”<br> <a href="https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/</a>
 
-### 83: [2022-08-03 21:13:08+08:00 推文](https://twitter.com/HeQinglian/status/1554817643823382528)
+### 84: [2022-08-03 21:13:08+08:00 推文](https://twitter.com/HeQinglian/status/1554817643823382528)
 
 Re @JianglinLi @mingshi_chen 按弗里德曼的提示办。
 
-### 84: [2022-08-03 21:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1554818852957159427)
+### 85: [2022-08-03 21:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1554818852957159427)
 
 Re @Mission854 😂 改两字：“临机未断休怨朕”。
 
-### 85: [2022-08-03 21:20:26+08:00 推文](https://twitter.com/HeQinglian/status/1554819482081787904)
+### 86: [2022-08-03 21:20:26+08:00 推文](https://twitter.com/HeQinglian/status/1554819482081787904)
 
 Re @Mission854 不敢不敢，岂敢掠美。😅
 
-### 86: [2022-08-03 21:25:36+08:00 推文](https://twitter.com/HeQinglian/status/1554820781984681985)
+### 87: [2022-08-03 21:25:36+08:00 推文](https://twitter.com/HeQinglian/status/1554820781984681985)
 
 Re @JianglinLi @niulehou 话说，2008年11月全美庆祝奥巴马当选，那些参加的白人（有些可能是无党派中间人士），都没想到给宪政美国掘坟墓的是这人。<br>那天我有事到纽约，可真是疯狂的街道Party，不过，骄傲月装扮比较少，偶然见一点，有位身着三角裤的抹彩者正好与我在34街同行一段，拽着一堆汽球不断放飞，口中时不时发出呼啸声
 
-### 87: [2022-08-03 21:35:37+08:00 推文](https://twitter.com/HeQinglian/status/1554823303075958784)
+### 88: [2022-08-03 21:35:37+08:00 推文](https://twitter.com/HeQinglian/status/1554823303075958784)
 
 Re @roadshow1997 好象沙特王储最近特别恼火拜登见面羞辱他的事情，发作得厉害。
 
-### 88: [2022-08-03 21:44:08+08:00 推文](https://twitter.com/HeQinglian/status/1554825445388034048)
+### 89: [2022-08-03 21:44:08+08:00 推文](https://twitter.com/HeQinglian/status/1554825445388034048)
 
 Re @david_david1968 鲍老可能没注意：到现在为止，佩洛西访台是个人决定，美国政府没背书。外交事务的决定权不在国会手中。<br>更重要的是，佩洛西女士此行，目的是转移视线，本党Far left要求其干完本届就走、各路左媒正在挖其家庭腐败丑闻。<br>我赞党这位女士临机决断、化危为机的高超手段，其余的按拜登所说理解：个人决定。
 
-### 89: [2022-08-03 21:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1554825922074644483)
+### 90: [2022-08-03 21:46:01+08:00 推文](https://twitter.com/HeQinglian/status/1554825922074644483)
 
 Re @tinging @roadshow1997 当面指责他侵犯人权杀了某记者之事——本来去见人家时，说得是修好。<br>王储觉得上了恶当，当时脸色不好，话也不太好，事后大发作，发表讲话。
 
-### 90: [2022-08-03 21:50:25+08:00 推文](https://twitter.com/HeQinglian/status/1554827030268616704)
+### 91: [2022-08-03 21:50:25+08:00 推文](https://twitter.com/HeQinglian/status/1554827030268616704)
 
 Re @FranzMendelsso1 @david_david1968 妙就妙在是与不是之间。<br>你别忘记，这等事本来不该是世界第一军事强国干的，应该要堂堂正正。这种手法本来是弱国、小国明面上干不赢玩的小伎俩。与美国身份不符，所以，我认为这是佩洛西的胜利，而不是美国的胜利。
 
-### 91: [2022-08-03 21:56:47+08:00 推文](https://twitter.com/HeQinglian/status/1554828628503830531)
+### 92: [2022-08-03 21:56:47+08:00 推文](https://twitter.com/HeQinglian/status/1554828628503830531)
 
 Re @OfcIQOD2XkWhsKt @JianglinLi @niulehou 美国共产党本部所在，BLM最重要的支部。
+
+### 93: [2022-08-03 22:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1554829572977283077)
+
+Re @Wu_Zhi 我们看看，就知道是怎么回事了。<br>如果中国的无人机重要部件比如芯片由美国公司的代工厂生产，中国可能不敢直接卖，一卖就得不到部件了。<br>比较合适的方式，应该是让沙特卖，中国用各种方式提供便利——反正佩洛西访台是个人决定，这种生产线当然也可以是厂家决定，政府无权干预私企。照猫画虎即可。
+
+### 94: [2022-08-03 22:56:08+08:00 推文](https://twitter.com/HeQinglian/status/1554843568388317184)
+
+Re @shenliangqing2 据我观察，这次早了一个月。美国选举前突发事件的效应，不管是正是负，大概维持一个月左右——这还是没有其他事件发生时的正常状态下的情况。<br>民主党喜欢提前投票，这情况下会有人投票。但是大多数可能会等到9月底以后。<br>选这时候她也是没办法，如果她不去访台，目前可能主媒正在翻炒她家的黑事。
+
+### 95: [2022-08-04 00:02:17+08:00 推文](https://twitter.com/HeQinglian/status/1554860215576797192)
+
+Re @mingshi_chen 我没关注这方面信息，你如果有空，倒是可以搜集一下。如果无人机的零部件不需要美欧包括其代工厂提供，估计俄罗斯最近会得到所需。
+
+### 96: [2022-08-04 00:10:31+08:00 推文](https://twitter.com/HeQinglian/status/1554862284081610755)
+
+Re @Ks9Ym 明白了。弗里德曼从美国官员那里得来的情报不如你准确。😂
+
+### 97: [2022-08-04 00:17:59+08:00 推文](https://twitter.com/HeQinglian/status/1554864166015565824)
+
+Re @Wu_Zhi 还是先把乌克兰那一地鸡毛收拾一下，这事优先。估计在习近平连任“大事的定”之前，台海不会发生。正确地说，明年3月新一届党任命的政府宣布就任之前不会发生。<br>习近平此时正“咬碎牙齿和血吞”——曾文正公也经历过这种困境，写在家书里。不争这几个月之长短，德国可以表示支持，同时准备木柴煤炭度冬。
+
+### 98: [2022-08-04 00:21:38+08:00 推文](https://twitter.com/HeQinglian/status/1554865083834146818)
+
+Re @NAConservative9 当真是乘“佩洛西一飞封神”的浩荡东风，“好风凭借力，送我上青云”，这等手段、这等赌神，有谁能及？应该可以接位当副总统了，贺锦丽当三月，完全程序后走人。<br>败登在能力之争上完败。其子的腐败程度远比议长丈夫严重，只有比较劣势。<br>那些民主小清新学着点，民主政治的玩法。
+
+### 99: [2022-08-04 01:38:46+08:00 推文](https://twitter.com/HeQinglian/status/1554884493433094152)
+
+中国误在太相信嘴炮威力了。<br>美军方开始认为这时访台不是好时机，数天之后态度变了。国防部长面见佩洛西表示提供安全支持并列出计划，变化原因乃因美国国安委会约翰·柯比7月29日表示，美国“没有任何有形的、有形的迹象”表明，中国正在准备对佩洛西可能访问台湾的军事回应。 <a href="https://fortune.com/2022/07/30/ahead-of-pelosi-visit-china-holds-live-fire-military-drills-near-taiwan/" target="_blank" rel="noopener noreferrer">https://fortune.com/2022/07/30/ahead-of-pelosi-visit-china-holds-live-fire-military-drills-near-taiwan/</a>
+
+### 100: [2022-08-04 01:41:58+08:00 推文](https://twitter.com/HeQinglian/status/1554885299381190658)
+
+Re 佩洛西去台之前，法广受命放风是8月4日，中方的准备只能在8月4日就绪。但人家突然又改成8月2日，所以，只能如一推友所言：“沙滩摆开长蛇阵，坐看西婆缓缓回”。<br>卫星技术决定的情报战能力，美国是当之无愧的头筹。
 
