@@ -85,7 +85,7 @@ Prominent play in official Chinese media lately to the phrase "seeking progress 
 
 ### 18: [2022-04-06 13:15:22+08:00 推文](https://twitter.com/niccijsmith/status/1511573256062439427)
 
-RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
+RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇
 
 ### 19: [2022-04-06 13:15:37+08:00 推文](https://twitter.com/cnmediaproject/status/1511573319036071938)
 
@@ -121,7 +121,7 @@ Re 1979: "Today, the situation requires all peace-loving countries and peoples t
 
 ### 27: [2022-04-06 17:05:30+08:00 推文](https://twitter.com/AlexDukalskis/status/1511631170253070337)
 
-RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
+RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.
 
 ### 28: [2022-04-06 19:24:16+08:00 推文](https://twitter.com/OxDemTech/status/1511666092812345348)
 
@@ -129,7 +129,7 @@ RT Programme on Democracy and Technology<br>Our latest China Information Opera
 
 ### 29: [2022-04-06 20:30:46+08:00 推文](https://twitter.com/CarlMinzner/status/1511682826252521475)
 
-RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public.<br><br>William Farris: Snapshot of what folks in PRC vs Taiwan see re: Ukraine - I translated the first page of Baidu and Yahoo News results for "Bucha Incident" (布查事件) on April 5. Red means source is a PRC Party mouthpiece. Blue indicates the same story about Russia submitting its "evidence" to UN<br><br><img style="" src="https://pbs.twimg.com/media/FPqQDVZaAAgAK9o?format=png&amp;name=orig" referrerpolicy="no-referrer">
+RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public. <a href="https://twitter.com/wafarris/status/1511680611907694597?s=20&amp;t=fQLFpkYGAFYZBc_TXEg4Cg" target="_blank" rel="noopener noreferrer">https://twitter.com/wafarris/status/1511680611907694597?s=20&amp;t=fQLFpkYGAFYZBc_TXEg4Cg</a>
 
 ### 30: [2022-04-06 21:41:46+08:00 推文](https://twitter.com/niubi/status/1511700694172155909)
 
