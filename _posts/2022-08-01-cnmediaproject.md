@@ -31,3 +31,7 @@ Putting Pelosi in the Corner: The US House Speaker's visit to Taiwan is headline
 
 RT Lev Nachman<br>For the next few days there will be increased military demonstrations around Taiwan. They have been announced for days and are demonstrations - not an attack. War is not going to break out. Please be careful not to be overly alarmist when reporting or reacting to them.
 
+### 5: [2022-08-04 17:37:26+08:00 推文](https://twitter.com/cnmediaproject/status/1555125750931820544)
+
+Chinese media have lined up int'l voices against US House Speaker Nancy Pelosi's visit to Taiwan. But these sources professing outrage have appeared in external propaganda for years -- suggesting they are borrowed voices speaking the CCP’s convictions. <a href="https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/</a><br><img style="" src="https://pbs.twimg.com/media/FZTqmI_aMAAIIZY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

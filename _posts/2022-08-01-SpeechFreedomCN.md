@@ -35,3 +35,11 @@ Woman surnamed Liu from Hunan detained for 7 days recently for posting 2 pieces 
 
 Sichuan resident Zhao administratively punished by police for a piece of video he posted on social media in which he accused local Party Discipline Inspection Committee of inaction, which might earlier have refused to process his complaint against a village official.<br><img style="" src="https://pbs.twimg.com/media/FZQJpxaXoAIr8Wb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-08-04 16:30:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1555108781222010880)
+
+江苏省张家港市居民冯某，因在多个网络平台发言称当地交警为狗，被处刑事拘留。<br><img style="" src="https://pbs.twimg.com/media/FZQNZ2RX0AEey9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZQNbRgXEAE0r2N?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-08-04 16:32:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1555109283435630592)
+
+Jiangsu residengt Feng criminally detained for referring to police as dogs on multiple online platforms.<br><img style="" src="https://pbs.twimg.com/media/FZQNtw0WAAMVITb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZQNuvEWQAEgC4S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
