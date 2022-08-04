@@ -507,3 +507,15 @@ Re @Wu_Zhi 据我了解——当然是三年以前了——民进党政府没泽
 
 Re @5ssiRvUAVenAXxb @zhanggen18 @eGUAbe2V7j26GHw 破坏了很多，包括三孔。说起来名声很不好。
 
+### 124: [2022-08-04 10:51:27+08:00 推文](https://twitter.com/HeQinglian/status/1555023582534795265)
+
+佩洛西在内政方面紧跟奥巴马，在对华问题上确实与奥巴马有很大差别。<br>2016年，《大西洋月刊》（5-6月）上发表奥巴马主义，作为其重要的政治遗产，其中对中国最重要的一条是：一个衰弱的中国比强大的中国更可怕。<br>——这意思当然不是要削弱中国。<br>民主党内部矛盾导致对外政策的公开冲突，这也是新问题。<br><br>美国之音中文网: 佩洛西1987年就任国会议员，1991年去了天安门广场抗议六四屠杀，1994年在自己的选区旧金山中国城竖立民主女神铜像。感谢佩洛西对中共极权的持续挑战之外，前六四学运领袖、曾在湾区生活多年的周锋锁敬佩她对中共在华人中的影响力的抵制，即使以选票和政治捐款为代价。<br><br><video src="https://video.twimg.com/amplify_video/1554956658371137541/vid/1280x720/mhTerxGzIXew4vg6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FZR5D2jX0AERruK?format=jpg&amp;name=orig"></video>
+
+### 125: [2022-08-04 11:02:53+08:00 推文](https://twitter.com/HeQinglian/status/1555026460775256064)
+
+Re @FranzMendelsso1 <a href="https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1" target="_blank" rel="noopener noreferrer">https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%E6%97%A5%E5%A0%B1</a>
+
+### 126: [2022-08-04 11:11:25+08:00 推文](https://twitter.com/HeQinglian/status/1555028605863870467)
+
+纽约时报三天三篇文章，按时间顺序：<br>为什么佩洛西的访台计划无比鲁莽、不负责任<br><br>佩洛西访台唤醒台海危机记忆<br><br>佩洛西访台或削弱美国与亚太盟友统一战线 <a href="https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/</a> <a href="https://cn.nytimes.com/asia-pacific/20220803/tensions-over-taiwan-renew-memories-of-a-past-crisis/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/asia-pacific/20220803/tensions-over-taiwan-renew-memories-of-a-past-crisis/</a> <a href="https://cn.nytimes.com/asia-pacific/20220804/taiwan-pelosi-visit-allies/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/asia-pacific/20220804/taiwan-pelosi-visit-allies/</a>
+
