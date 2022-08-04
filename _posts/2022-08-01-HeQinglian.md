@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-04
+date: 2022-08-05
 from: https://twitter.com/HeQinglian/status/1553788508103475201
 layout: post
 tags:
@@ -526,4 +526,48 @@ Re @AP2NaRIItJqBFrf 原来你家老婆管住你的嘴巴，你不是独立的人
 ### 128: [2022-08-04 21:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1555185040753135616)
 
 Re @Cai68798943 少动嘴少发言，知道自己无知，愿意多看，多用脑子，多听，三个月下来，会有进步。
+
+### 129: [2022-08-04 22:03:27+08:00 推文](https://twitter.com/HeQinglian/status/1555192694342819849)
+
+彭博社此文值得一读。要点：<br>佩洛西的台湾之行让愤怒的白宫紧急制定计划，确保将任何影响降到最低。拜登政府的官员对她在与北京关系高度微妙的时刻坚持将这次旅行作为她职业生涯的顶峰感到愤怒。<br>佩洛西之行是因为她预计将很快结束她作为第一位女众议院议长的历史性职业生涯。 <a href="https://www.bloomberg.com/news/articles/2022-08-03/pelosi-s-taiwan-trip-left-white-house-scrambling-for-a-plan" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-08-03/pelosi-s-taiwan-trip-left-white-house-scrambling-for-a-plan</a>
+
+### 130: [2022-08-04 22:10:28+08:00 推文](https://twitter.com/HeQinglian/status/1555194460186808320)
+
+Re @Tepezano161 30年前，香港、台湾是何等之好，有了它们，大陆有面镜子，知道中共统治下，同文同种是不同的生活。<br>香港变成如今这样，再让台湾成为乌克兰，我知道港人当中的中年以上都不愿意，我也不相信台湾人愿意让台湾成为乌克兰。<br>以时间换空间，打持久战。
+
+### 131: [2022-08-04 22:20:00+08:00 推文](https://twitter.com/HeQinglian/status/1555196860981207040)
+
+Re @5ssiRvUAVenAXxb @zhanggen18 @eGUAbe2V7j26GHw 不是一些，是很多。这点，就不要辩护了。
+
+### 132: [2022-08-04 22:27:21+08:00 推文](https://twitter.com/HeQinglian/status/1555198711592108033)
+
+美国援助台湾应战，需考量三个因素：<br>1、如何援助，是白宫决定与操作，本届国会任期到12月31日为止；<br>2、在亚太地区开战，得有日本、澳大利亚、南韩、印度、东盟等国相帮；<br>3、美国人厌战，本想藉乌战拉抬选情，未如愿。再在那边开战，恐怕朝野都为难。<br>佩洛西访台，其实是放政治焰火，一时绚烂而已。<br><br>He Qinglian: 彭博社此文值得一读。要点：<br>佩洛西的台湾之行让愤怒的白宫紧急制定计划，确保将任何影响降到最低。拜登政府的官员对她在与北京关系高度微妙的时刻坚持将这次旅行作为她职业生涯的顶峰感到愤怒。<br>佩洛西之行是因为她预计将很快结束她作为第一位女众议院议长的历史性职业生涯。<br> <a href="https://www.bloomberg.com/news/articles/2022-08-03/pelosi-s-taiwan-trip-left-white-house-scrambling-for-a-plan" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-08-03/pelosi-s-taiwan-trip-left-white-house-scrambling-for-a-plan</a>
+
+### 133: [2022-08-04 22:57:20+08:00 推文](https://twitter.com/HeQinglian/status/1555206255186268163)
+
+Re @dinglili7 @JiangShangrong 15岁孩子，15天内能干什么？应该是性奴。<br>如果只是用来干家务活，一半钱就能雇佣能干得多的成年人。<br>算了，这国的地下经济不谈也罢。反正这个世界变得越来越暗黑。
+
+### 134: [2022-08-04 23:12:28+08:00 推文](https://twitter.com/HeQinglian/status/1555210063245185024)
+
+Re @desertchariot1 你愿意相信什么，是你的事情。<br>我贴此文，是因为我关心美国政治，关心民主党此刻白热化的内斗。<br>你掌握的是哪个层面的事实？自媒体听来的？拍脑袋想出来的？
+
+### 135: [2022-08-04 23:14:46+08:00 推文](https://twitter.com/HeQinglian/status/1555210645607522304)
+
+Re @zhuxiuyuan 建议你看看彭博昨天的文章，里面将什么都说清楚了。这几天，我关心民主党的反应。<br>共和党现在一脸懵懂，除了少数人烧热灶表态支持，根本不知道白宫与佩洛西之间的矛盾，媒体不报，他们可能真不清楚。
+
+### 136: [2022-08-04 23:25:31+08:00 推文](https://twitter.com/HeQinglian/status/1555213347913695239)
+
+与几位台湾朋友聊及这事，他们的看法是：<br>1、台湾人95%不想台湾变成乌克兰；这方面蔡英文是清醒的。<br>2、佩洛西要访台，台湾只能热情接待<br>3、知道大陆军演是泄愤，忍几天就会过去<br>4、不愿成为香港，尽可能维持现状<br>5、他们其实对拜登政府是否靠得住完全没底<br>危机感真的不强，说解放台湾喊了几十年
+
+### 137: [2022-08-04 23:34:57+08:00 推文](https://twitter.com/HeQinglian/status/1555215720811794434)
+
+Re @KELMAND1 这番话说得不错。也算对得起友国了，既圆了面子，也给了台阶。
+
+### 138: [2022-08-04 23:39:41+08:00 推文](https://twitter.com/HeQinglian/status/1555216912363175941)
+
+澳大利亚联邦政府昨天既没有欢呼南希·佩洛西到访台湾，也没有为这位美国众议院议长倡导民主的使命鼓掌。<br>事实上，当被问及他的看法时，阿尔巴尼斯总理的反应无动于衷。他只说了一句：“美国与我们的台湾同仁接触的程度是他们的事。”外交部长的措辞：“这是他们的事”。 <a href="https://www.abc.net.au/chinese/2022-08-04/pelosi-taiwan-visit-albanese-china-why-now/101300536" target="_blank" rel="noopener noreferrer">https://www.abc.net.au/chinese/2022-08-04/pelosi-taiwan-visit-albanese-china-why-now/101300536</a>
+
+### 139: [2022-08-05 00:02:13+08:00 推文](https://twitter.com/HeQinglian/status/1555222583292854272)
+
+Re @realTaoRay 我觉得将堕胎权还给州比较好。比如纽约、旧金山包括其他地方，不要勉强他们保护胎儿，因为那里的进步人士连自己的身体都随意动刀子，热衷于变性。<br>有些权利，还是不要上升为联邦层面为好。
 

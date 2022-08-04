@@ -33,7 +33,7 @@ Re Shenzhen University teacher Wu Yuanqing under investigation by the University
 
 ### 5: [2021-12-23 18:55:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473970490851086339)
 
-Back in 2010, MPS China issued a notice: mental asylums shall not admit normal people without police authorization. The notice meant what it meant. A teacher in Hunan Province has now been locked in a mental asylum for voicing her support to a Shanghai teacher in Weibo.<br><img style src="https://pbs.twimg.com/media/FHSXDzLWQAAszn9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSXForXEAs5MPf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSXHfWXIAIgHy3?format=jpg&name=orig" referrerpolicy="no-referrer">
+Back in 2010, MPS China issued a notice: mental asylums shall not admit normal people without police authorization. The notice meant what it meant. A teacher in Hunan Province has now been locked in a mental asylum for voicing her support to a Shanghai teacher in Weibo.<br><img style="" src="https://pbs.twimg.com/media/FHSXDzLWQAAszn9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSXForXEAs5MPf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSXHfWXIAIgHy3?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-23 19:10:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473974272037109763)
 
