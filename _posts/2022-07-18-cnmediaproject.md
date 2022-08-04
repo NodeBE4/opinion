@@ -89,7 +89,7 @@ With a 1.2 billion dollar fine, the saga of the CAC investigation against the ve
 
 ### 19: [2022-07-22 21:43:56+08:00 推文](https://twitter.com/amyyqin/status/1550476744007634945)
 
-RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!<br><br>NYTimes Communications: We’re excited to announce that @CAMcGrady and @amyyqin are joining @nytnational.<br> <a href="https://www.nytco.com/press/national-welcomes-two-new-colleagues/" target="_blank" rel="noopener noreferrer">https://www.nytco.com/press/national-welcomes-two-new-colleagues/</a>
+RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!
 
 ### 20: [2022-07-23 05:24:58+08:00 推文](https://twitter.com/CarlMinzner/status/1550592767184748544)
 
