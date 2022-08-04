@@ -103,3 +103,9 @@ Miko, Sora, and Roboco are the only three Holomems who debuted as 3D and have ne
 
 So. A best outcome then.
 
+### 668: [Why were the Boxers unable to defeat heavily-outnumbered, surrounded Westerners in the Beijing Legation Quarter?](https://old.reddit.com/r/AskHistorians/comments/wg4de0/why_were_the_boxers_unable_to_defeat/), submitted on 2022-08-04 23:39:27+08:00.
+
+----- __668.1__ -----2022-08-05 01:26:33+08:00:
+
+More can of course be said, especially by someone who has read up on the Boxers in more detail more recently and can thus remember the details better, but as I note in passing in [this past answer](https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/), the siege of the Legations was primarily an effort of the Qing regular army overseen by Ronglu, who was an anti-Boxer with reformist sentiments and seems to have been reluctant to prosecute the siege to the fullest extent.
+
