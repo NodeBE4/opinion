@@ -39,3 +39,7 @@ Chinese media have lined up int'l voices against US House Speaker Nancy Pelosi's
 
 RT Bill Bishop<br>Hu Xijin Is The One Who Harms the Country and Hurts the People <a href="https://uscnpm.org/2022/08/04/hu-xijin-is-the-one-who-harms-the-country-and-hurts-the-people/" target="_blank" rel="noopener noreferrer">https://uscnpm.org/2022/08/04/hu-xijin-is-the-one-who-harms-the-country-and-hurts-the-people/</a>
 
+### 7: [2022-08-04 22:23:17+08:00 推文](https://twitter.com/damienics/status/1555197686395052032)
+
+RT Damien Ma<br>Just an observation. <br><br>Last couple days, Xinhua has been the "fire and brimstone" platform, live streaming stuff on Taiwan excercises for public consumption.<br><br>Meanwhile, People's Daily two days in a row has led with stabilizing the economy.
+
