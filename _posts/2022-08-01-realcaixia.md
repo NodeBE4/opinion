@@ -37,9 +37,13 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 6: [2022-08-04 01:16:46+08:00 推文](https://twitter.com/realcaixia/status/1554878957094404097)
 
-习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video> <a href="https://twitter.com/rongjian1957/status/1554631395921711105" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1554631395921711105</a>
+习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video>
 
 ### 7: [2022-08-04 01:36:20+08:00 推文](https://twitter.com/realcaixia/status/1554883881232465922)
 
 杨建利、言羽：用脚投票–君子不立习进平政治的危墙之下&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 议报 <a href="https://yibaochina.com/?p=247405" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247405</a>
+
+### 8: [2022-08-04 08:31:31+08:00 推文](https://twitter.com/realcaixia/status/1554988365359071232)
+
+有趣！官家打不了洋人就对平民百姓耍泼显横。<br><br>高瑜: 今天微信有人上載《茶館》片段，老舍先生66年前寫的台詞：“沒打起來吧？沒那根雞冠翎子，就別裝老鷹。”“我打不了洋人，我還打不了你嗎？”又火了。<br><br><video src="https://video.twimg.com/ext_tw_video/1554760636667936768/pu/vid/880x544/N4tAmOS_zPdtfgaH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554760636667936768/pu/img/fchgUaqboar0vusb.jpg"></video>
 
