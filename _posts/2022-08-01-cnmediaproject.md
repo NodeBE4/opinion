@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-03
+date: 2022-08-04
 from: https://twitter.com/WhatsOnWeibo/status/1554401692157968384
 layout: post
 tags:
@@ -26,4 +26,8 @@ RT Chenchen Zhang 🤦🏻‍♀️<br>there are militarist nationalists disap
 ### 3: [2022-08-03 17:15:03+08:00 推文](https://twitter.com/cnmediaproject/status/1554757728933138434)
 
 Putting Pelosi in the Corner: The US House Speaker's visit to Taiwan is headline news all over the world today, and China has voiced its “strong condemnation.” So why is the story in 5th place on the front page of the CCP’s official People’s Daily? <a href="https://chinamediaproject.org/2022/08/03/putting-pelosi-in-the-corner/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/03/putting-pelosi-in-the-corner/</a><br><img style="" src="https://pbs.twimg.com/media/FZOb50CaIAAZv1F?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-08-04 08:47:40+08:00 推文](https://twitter.com/lnachman32/status/1554992429073252355)
+
+RT Lev Nachman<br>For the next few days there will be increased military demonstrations around Taiwan. They have been announced for days and are demonstrations - not an attack. War is not going to break out. Please be careful not to be overly alarmist when reporting or reacting to them.
 

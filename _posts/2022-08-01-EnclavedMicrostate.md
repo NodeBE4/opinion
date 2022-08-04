@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-02
+date: 2022-08-03
 from: https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/
 layout: post
 tags:
@@ -88,4 +88,12 @@ EDIT: Also (because I can't believe I forgot this detail) there's a good chance 
 ----- __665.1__ -----2022-08-03 15:56:51+08:00:
 
 This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 666: [2d vs 3d](https://old.reddit.com/r/Hololive/comments/wev4ae/2d_vs_3d/), submitted on 2022-08-03 11:01:01+08:00.
+
+----- __666.1__ -----2022-08-04 12:47:32+08:00:
+
+> I think Miko has even mentioned she doesn't have a 2D model for her more recent outfits because she's been using her 3D only for a long time.
+
+Miko, Sora, and Roboco are the only three Holomems who debuted as 3D and have never had Live2D models. Sora and Roboco were originally supposed to be part of the Hololive AR app that wouldn't have supported Live2D, while Miko was a separate Cover project to Hololive when she first debuted.
 
