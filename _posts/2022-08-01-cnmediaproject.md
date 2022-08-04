@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-04
+date: 2022-08-05
 from: https://twitter.com/WhatsOnWeibo/status/1554401692157968384
 layout: post
 tags:
@@ -42,4 +42,8 @@ RT Bill Bishop<br>Hu Xijin Is The One Who Harms the Country and Hurts the Peop
 ### 7: [2022-08-04 22:23:17+08:00 推文](https://twitter.com/damienics/status/1555197686395052032)
 
 RT Damien Ma<br>Just an observation. <br><br>Last couple days, Xinhua has been the "fire and brimstone" platform, live streaming stuff on Taiwan excercises for public consumption.<br><br>Meanwhile, People's Daily two days in a row has led with stabilizing the economy.
+
+### 8: [2022-08-05 07:41:54+08:00 推文](https://twitter.com/cnmediaproject/status/1555338266492436480)
+
+China's Global Soundbite Factory: We trace the sources quoted by the People's Daily as critical of Pelosi's Taiwan visit to show how they are regulars in Chinese state media -- and appear virtually nowhere else. <a href="https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/</a><br><img style="" src="https://pbs.twimg.com/media/FZWrtrFaMAEOZxz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

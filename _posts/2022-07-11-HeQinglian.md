@@ -505,7 +505,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 @ngexp 这倒不是。2017�
 
 ### 123: [2022-07-15 01:28:31+08:00 推文](https://twitter.com/HeQinglian/status/1547634157076918275)
 
-RT He Qinglian<br>斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
+斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
 
 ### 124: [2022-07-15 03:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1547671274280742914)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 
