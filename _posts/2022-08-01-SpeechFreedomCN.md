@@ -31,3 +31,7 @@ Woman surnamed Liu from Hunan detained for 7 days recently for posting 2 pieces 
 
 四川省苍溪县人士赵某，因在某短视频平台发布实名举报视频，称“县纪委不作为，给他反映村干部问题不处理”，被认定为造谣并被行政处罚。通告中称其在县纪委反映的问题已经办结并当面答复，实际答复内容可能为拒绝受理，才导致其到网上实名举报。<br><img style="" src="https://pbs.twimg.com/media/FZQIlApXEAM7LG4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-08-04 13:14:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1555059454558756864)
+
+Sichuan resident Zhao administratively punished by police for a piece of video he posted on social media in which he accused local Party Discipline Inspection Committee of inaction, which might earlier have refused to process his complaint against a village official.<br><img style="" src="https://pbs.twimg.com/media/FZQJpxaXoAIr8Wb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

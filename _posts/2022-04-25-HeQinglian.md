@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -441,7 +441,7 @@ Re @Swanlake1979 连一个经济会议都无法将俄罗斯踢出去，离拿俄
 
 ### 107: [2022-04-30 03:49:08+08:00 推文](https://twitter.com/HeQinglian/status/1520128066231668736)
 
-美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。 <a href="https://europechinese.blogspot.com/2022/04/gdp02-6.html" target="_blank" rel="noopener noreferrer">https://europechinese.blogspot.com/2022/04/gdp02-6.html</a>
+美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。<br><br>He Qinglian: 据美国CNBC28日报道，美国商务部28日报告称，美国2022年一季度GDP年化增速为-1.4%，这标志着美国经济自1984年以来的上升趋势突然出现逆转。分析称，2022年前三个月，有众多因素影响美国经济增长，包括不断激增的奥密克戎新冠病毒病例，通胀率飙升至1980年代初以来的最高水平，俄乌冲突等等。<br>
 
 ### 108: [2022-04-30 03:49:57+08:00 推文](https://twitter.com/HeQinglian/status/1520128273182859266)
 
