@@ -519,3 +519,11 @@ Re @FranzMendelsso1 <a href="https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%
 
 纽约时报三天三篇文章，按时间顺序：<br>为什么佩洛西的访台计划无比鲁莽、不负责任<br><br>佩洛西访台唤醒台海危机记忆<br><br>佩洛西访台或削弱美国与亚太盟友统一战线 <a href="https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220802/nancy-pelosi-taiwan-china/</a> <a href="https://cn.nytimes.com/asia-pacific/20220803/tensions-over-taiwan-renew-memories-of-a-past-crisis/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/asia-pacific/20220803/tensions-over-taiwan-renew-memories-of-a-past-crisis/</a> <a href="https://cn.nytimes.com/asia-pacific/20220804/taiwan-pelosi-visit-allies/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/asia-pacific/20220804/taiwan-pelosi-visit-allies/</a>
 
+### 127: [2022-08-04 21:29:45+08:00 推文](https://twitter.com/HeQinglian/status/1555184216945692673)
+
+Re @AP2NaRIItJqBFrf 原来你家老婆管住你的嘴巴，你不是独立的人。在外听党与权势者，在内听老婆，在朋友圈听朋友吆喝。<br>滚远点。
+
+### 128: [2022-08-04 21:33:02+08:00 推文](https://twitter.com/HeQinglian/status/1555185040753135616)
+
+Re @Cai68798943 少动嘴少发言，知道自己无知，愿意多看，多用脑子，多听，三个月下来，会有进步。
+
