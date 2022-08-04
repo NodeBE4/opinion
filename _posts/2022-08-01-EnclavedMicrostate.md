@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-03
+date: 2022-08-04
 from: https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/
 layout: post
 tags:
@@ -96,4 +96,10 @@ This submission has been removed because it involves current events.  To keep fr
 > I think Miko has even mentioned she doesn't have a 2D model for her more recent outfits because she's been using her 3D only for a long time.
 
 Miko, Sora, and Roboco are the only three Holomems who debuted as 3D and have never had Live2D models. Sora and Roboco were originally supposed to be part of the Hololive AR app that wouldn't have supported Live2D, while Miko was a separate Cover project to Hololive when she first debuted.
+
+### 667: [Ex Rugby Star Dies in Italy After Suffering Heart Attack While Brutally 'Beating Up Girlfriend' in Coke-Fuelled Attack](https://old.reddit.com/r/worldnews/comments/wfw49x/ex_rugby_star_dies_in_italy_after_suffering_heart/), submitted on 2022-08-04 16:50:58+08:00.
+
+----- __667.1__ -----2022-08-04 19:04:12+08:00:
+
+So. A best outcome then.
 
