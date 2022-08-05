@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-08-02
+date: 2022-08-05
 from: https://twitter.com/nathanlawkc/status/1554026434913570816
 layout: post
 tags:
@@ -40,4 +40,8 @@ Thank you @SpeakerPelosi for your continuous support to the democratic struggles
 ### 6: [2022-08-02 23:05:54+08:00 推文](https://twitter.com/nathanlawkc/status/1554483635230834690)
 
 Re “‘Freedom’ is an essential and timely read, warning policymakers, advocates and all people of the erosion to freedom happening before our eyes and equipping us to combat this challenge.”<br><br>- Speaker Nancy Pelosi
+
+### 7: [2022-08-05 22:29:53+08:00 推文](https://twitter.com/nathanlawkc/status/1555561737235087361)
+
+The Chinese regime has been blackmailing other countries by ceasing collaborations on crucial issues to the whole world. <br>They advance their self-interest by holding the world hostage.<br><br>Stuart Lau: China’s new 8 measures against US:<br><br>1 No more communication btwn military theatre leaders<br>2 No more Ministries of Defence working meetings<br>3 No more maritime security dialogues<br>4 No more illegal migrant repatriation<br>5 No more criminal justice assistance<br>6 No more climate talks<br><br><img style="" src="https://pbs.twimg.com/media/FZY6E3yWQAYF2_m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
