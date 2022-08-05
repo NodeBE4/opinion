@@ -115,15 +115,23 @@ Apologies, but we have removed your question in its current form as it breaks ou
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 607: [Why didn't China conquer Mongolia?](https://old.reddit.com/r/AskHistorians/comments/vz3293/why_didnt_china_conquer_mongolia/), submitted on 2022-07-15 02:41:06+08:00.
+### 607: [Thursday Reading & Recommendations | July 14, 2022](https://old.reddit.com/r/AskHistorians/comments/vyvbqs/thursday_reading_recommendations_july_14_2022/), submitted on 2022-07-14 21:00:09+08:00.
 
------ __607.1__ -----2022-07-15 12:20:46+08:00:
+----- __607.1__ -----2022-08-05 19:45:53+08:00:
+
+A very late reply to this because I was trawling through old threads:
+
+Basically, with *CHC* you're better off with volumes published after 1990 and preferably after 2000. My personal recommendation is Harvard's six-volume *History of Imperial China* series, capped off with either Jonathan Spence's *The Search for Modern China* and/or Pamela Crossley's *The Wobbling Pivot: China Since 1800* (albeit with a bit of an awareness that Crossley makes a couple of errors on 20th century topics in that book).
+
+### 608: [Why didn't China conquer Mongolia?](https://old.reddit.com/r/AskHistorians/comments/vz3293/why_didnt_china_conquer_mongolia/), submitted on 2022-07-15 02:41:06+08:00.
+
+----- __608.1__ -----2022-07-15 12:20:46+08:00:
 
 Well, it is worth stating that there was a time when 'China', for a given definition of 'China', conquered Mongolia, but the way it did so is worth digging into. Fortunately, I did so in [this answer](https://www.reddit.com/r/AskHistorians/comments/h108o3/how_did_the_qing_manage_to_subjugate_the_mongols/) a couple years back, but am happy to add clarification on any points if needed.
 
 What that answer doesn't get into, at least not explicitly, is why pre-Qing states failed at maintaining power in the steppe effectively. For that, we need to discuss the 'Nomadic Military Advantage' thesis, which, funnily enough, I also got into, see [this answer](https://www.reddit.com/r/AskHistorians/comments/ncau53/what_led_to_the_decline_of_nomadic_people_horse/gy4qneo/) and [this answer](https://www.reddit.com/r/AskHistorians/comments/ojwh1l/has_there_ever_been_a_nation_or_group_where_every/h54e9px/).
 
------ __607.2__ -----2022-07-15 13:02:37+08:00:
+----- __608.2__ -----2022-07-15 13:02:37+08:00:
 
 I'm not sure where the confusion is coming from, as I quite clearly state that
 
@@ -131,7 +139,7 @@ I'm not sure where the confusion is coming from, as I quite clearly state that
 
 The size of an army depends on the size and mobilisation potential of the polity behind it. A big state may mobilise more troops than a small nomadic confederation, while the reverse may also be true. There is no ideal exact size of either a state or a nomadic society that would allow one to generalise on a broad scale.
 
------ __607.3__ -----2022-07-15 23:04:27+08:00:
+----- __608.3__ -----2022-07-15 23:04:27+08:00:
 
 Well, the overall population sustainable on the Eurasian steppe solely through pastoral nomadism had a limit, but it's not like the *entire* steppe was *always* united, or that the same was also true of the *entire* sedentary world. So even if states had proportionally smaller armies relative to population when compared to nomadic ones, the sizes of those societies still matter.
 
@@ -139,9 +147,9 @@ To boil it down to just the maths for a sec, let's say that nomadic societies ca
 
 In other words, *yes* nomadic societies were smaller while mobilising more troops, but that doesn't mean their armies were always smaller because it depends *how much* smaller a given society was.
 
-### 608: [is this wwi brass Brodie helmet real?](https://old.reddit.com/r/AskHistorians/comments/vzf1ix/is_this_wwi_brass_brodie_helmet_real/), submitted on 2022-07-15 11:57:01+08:00.
+### 609: [is this wwi brass Brodie helmet real?](https://old.reddit.com/r/AskHistorians/comments/vzf1ix/is_this_wwi_brass_brodie_helmet_real/), submitted on 2022-07-15 11:57:01+08:00.
 
------ __608.1__ -----2022-07-15 13:47:54+08:00:
+----- __609.1__ -----2022-07-15 13:47:54+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -149,63 +157,63 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 609: [Free for All Friday, 15 July 2022](https://old.reddit.com/r/badhistory/comments/vzlvkx/free_for_all_friday_15_july_2022/), submitted on 2022-07-15 19:00:14+08:00.
+### 610: [Free for All Friday, 15 July 2022](https://old.reddit.com/r/badhistory/comments/vzlvkx/free_for_all_friday_15_july_2022/), submitted on 2022-07-15 19:00:14+08:00.
 
------ __609.1__ -----2022-07-16 18:28:26+08:00:
+----- __610.1__ -----2022-07-16 18:28:26+08:00:
 
 Aha, I see I was invoked! When I did my big Tartaria post two years ago (https://www.reddit.com/r/badhistory/comments/ieg2k0/tartaria_the_supposed_megaempire_of_inner_eurasia/), some r/Tartaria users decided to jump in to defend their pet conspiracy theory; it went over about as well as you'd expect.
 
-### 610: [Lui loop](https://old.reddit.com/r/Hololive/comments/w13a89/lui_loop/), submitted on 2022-07-17 17:11:40+08:00.
+### 611: [Lui loop](https://old.reddit.com/r/Hololive/comments/w13a89/lui_loop/), submitted on 2022-07-17 17:11:40+08:00.
 
------ __610.1__ -----2022-07-18 02:09:54+08:00:
+----- __611.1__ -----2022-07-18 02:09:54+08:00:
 
 It has taken me this long to realise that this BGM gives me strong Angry Birds vibes, and that it is therefore quite apposite for Lui. Anyone up for making an Angry Holobirds fangame where you fight the Haatons?
 
-### 611: [[Hobby Scuffles] Week of July 18, 2022](https://old.reddit.com/r/HobbyDrama/comments/w19bk4/hobby_scuffles_week_of_july_18_2022/), submitted on 2022-07-17 23:00:13+08:00.
+### 612: [[Hobby Scuffles] Week of July 18, 2022](https://old.reddit.com/r/HobbyDrama/comments/w19bk4/hobby_scuffles_week_of_july_18_2022/), submitted on 2022-07-17 23:00:13+08:00.
 
------ __611.1__ -----2022-07-19 09:36:20+08:00:
+----- __612.1__ -----2022-07-19 09:36:20+08:00:
 
 > overseas fans being banned from viewing the livestream
 
 Ah, is this because the platform doesn't support overseas viewing? I recall at least two (and not implausibly more) Hololive solo concerts that had the same restriction.
 
------ __611.2__ -----2022-07-19 09:45:13+08:00:
+----- __612.2__ -----2022-07-19 09:45:13+08:00:
 
 Yep. For instance Hololive's official store ships to my region (HK) but licensing restrictions mean Hololive Nendoroids don't, and I had to VPN into their last concert for some reason.
 
------ __611.3__ -----2022-07-19 09:53:52+08:00:
+----- __612.3__ -----2022-07-19 09:53:52+08:00:
 
 If I'm not mistaken, the postponed concert was not viewable overseas. That was definitely true of Nene's recent Nissin-sponsored concert as well; she even asked about what she could do for overseas fans to make up for it.
 
------ __611.4__ -----2022-07-19 10:06:29+08:00:
+----- __612.4__ -----2022-07-19 10:06:29+08:00:
 
 ...Actually I think the Goodsmile licensing restriction might have gone now as it's not an issue for newer Pop-Up Parade ones, but at least back when I was getting a Nendo in January (which is before the official store expanded its shipping net) I did so through a friend in the US who was also getting one (thankfully there was a preorder limit of 2). As for the concert though it legitimately might just be SPWN randomly not allowing access from HK as I did a bit of experimenting and found that almost every other country was fine for it. As noted in another comment though, while Hololive's own concerts are *mostly* internationally accessible, there have been a couple of collab sponsored ones that are JP-only.
 
------ __611.5__ -----2022-07-19 10:19:41+08:00:
+----- __612.5__ -----2022-07-19 10:19:41+08:00:
 
 Bit of a sidetrack, but what's an absence copy?
 
------ __611.6__ -----2022-07-19 11:00:48+08:00:
+----- __612.6__ -----2022-07-19 11:00:48+08:00:
 
 Ah, no worries then.
 
------ __611.7__ -----2022-07-19 22:47:24+08:00:
+----- __612.7__ -----2022-07-19 22:47:24+08:00:
 
 Not specified yet, although the Japanese dub doesn't release for another month.
 
------ __611.8__ -----2022-07-22 20:39:53+08:00:
+----- __612.8__ -----2022-07-22 20:39:53+08:00:
 
 So, the fascinating thing is that these seasons were weak by the standards set by later TNG. But they weren't *so* bad (for the time they were made at least) that the show wasn't able to survive to its massive S3-onward upswing. It sounds weird but by the time TNG hit its third season it was arguably a pretty 'established' show.
 
------ __611.9__ -----2022-07-22 21:07:49+08:00:
+----- __612.9__ -----2022-07-22 21:07:49+08:00:
 
 Gene Roddenberry is Star Trek's George Lucas, in more ways than one.
 
------ __611.10__ -----2022-07-22 21:15:02+08:00:
+----- __612.10__ -----2022-07-22 21:15:02+08:00:
 
 I assume it's derived from the Japanese pronunciation, where 'oo' and 'ou' are essentially the same sound (ō) rendered differently. It's similar to the 'o' in 'more' when spoken with a British accent.
 
------ __611.11__ -----2022-07-23 02:50:09+08:00:
+----- __612.11__ -----2022-07-23 02:50:09+08:00:
 
 Troi was supposed to have three breasts. Allegedly the only reason she didn't was that Jeri Taylor asked where the third one would even go.
 

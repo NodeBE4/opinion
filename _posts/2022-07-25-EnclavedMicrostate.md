@@ -13,47 +13,47 @@ title: EnclavedMicrostate在2022-07-25~2022-07-31的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 642: [This just in, our father, Calliope Mori, will be doing an “EU friendly” stream week](https://old.reddit.com/r/Hololive/comments/w7hyum/this_just_in_our_father_calliope_mori_will_be/), submitted on 2022-07-25 14:59:20+08:00.
+### 643: [This just in, our father, Calliope Mori, will be doing an “EU friendly” stream week](https://old.reddit.com/r/Hololive/comments/w7hyum/this_just_in_our_father_calliope_mori_will_be/), submitted on 2022-07-25 14:59:20+08:00.
 
------ __642.1__ -----2022-07-26 02:03:45+08:00:
+----- __643.1__ -----2022-07-26 02:03:45+08:00:
 
 To add to that, Calli's music career is largely tied to UMG Japan and a lot of the infrastructure for 3D concerts is Japan-based, so there are some strong incentives to keep that work visa active and valid.
 
-### 643: [Four Fthousand FAMA FThread - Weekly Discussion Thread, July 25th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/w7s5me/four_fthousand_fama_fthread_weekly_discussion/), submitted on 2022-07-25 23:41:34+08:00.
+### 644: [Four Fthousand FAMA FThread - Weekly Discussion Thread, July 25th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/w7s5me/four_fthousand_fama_fthread_weekly_discussion/), submitted on 2022-07-25 23:41:34+08:00.
 
------ __643.1__ -----2022-07-26 11:05:24+08:00:
+----- __644.1__ -----2022-07-26 11:05:24+08:00:
 
 35\. Three gens of 5 members, three of 4, and one of 3.
 
 EDIT: I guess people are really salty about those graduations, huh?
 
------ __643.2__ -----2022-07-28 01:03:00+08:00:
+----- __644.2__ -----2022-07-28 01:03:00+08:00:
 
 This is the first I've heard of Suisei having 'disappeared'.
 
------ __643.3__ -----2022-07-28 01:17:08+08:00:
+----- __644.3__ -----2022-07-28 01:17:08+08:00:
 
 Well yes, but Osekkai hasn't clipped Suisei in a *long* time. We're talking over 4 months for the most recent clip, and over a year since they were clipping Suisei consistently. So I'm just a little confused on the idea that Suisei somehow dropped off the face of the planet at one stage.
 
------ __643.4__ -----2022-08-01 15:22:27+08:00:
+----- __644.4__ -----2022-08-01 15:22:27+08:00:
 
 I was tempted to be there out of sheer interest but I ultimately decided against it. Good to see it's going well though!
 
------ __643.5__ -----2022-08-01 15:31:25+08:00:
+----- __644.5__ -----2022-08-01 15:31:25+08:00:
 
 Nice. I was at the con on Friday and didn't see as much VTuber-related stuff (cosplay-wise especially) as when I went last year, but I suspect that's because a lot of that gravitated to today instead. That said, I did see one La+ cosplayer in the itakimono.
 
------ __643.6__ -----2022-08-01 21:40:30+08:00:
+----- __644.6__ -----2022-08-01 21:40:30+08:00:
 
 I mean, referring to an HK event as a 'Chinese con' is probably stretching it.
 
------ __643.7__ -----2022-08-01 21:52:26+08:00:
+----- __644.7__ -----2022-08-01 21:52:26+08:00:
 
 Yeah, even in that case 'Chinese' is a language family rather than a single language – it'd be like calling a con in London or Stockholm 'German'.
 
-### 644: [What are Visney and Barba Water?](https://old.reddit.com/r/AskHistorians/comments/wa6ohi/what_are_visney_and_barba_water/), submitted on 2022-07-28 18:50:57+08:00.
+### 645: [What are Visney and Barba Water?](https://old.reddit.com/r/AskHistorians/comments/wa6ohi/what_are_visney_and_barba_water/), submitted on 2022-07-28 18:50:57+08:00.
 
------ __644.1__ -----2022-07-28 19:20:54+08:00:
+----- __645.1__ -----2022-07-28 19:20:54+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -61,9 +61,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 645: [When it comes to the Great Wall of China, what is considered part of the "main" wall?](https://old.reddit.com/r/AskHistorians/comments/wb8na3/when_it_comes_to_the_great_wall_of_china_what_is/), submitted on 2022-07-30 00:05:40+08:00.
+### 646: [When it comes to the Great Wall of China, what is considered part of the "main" wall?](https://old.reddit.com/r/AskHistorians/comments/wb8na3/when_it_comes_to_the_great_wall_of_china_what_is/), submitted on 2022-07-30 00:05:40+08:00.
 
------ __645.1__ -----2022-07-30 10:32:11+08:00:
+----- __646.1__ -----2022-07-30 10:32:11+08:00:
 
 One of the most frustrating things about writing about the Great Wall on AskHistorians is that it is an incredibly prominent motif in popular culture, but there has not been a comprehensive academic work published on the subject of its physical history since Arthur Waldron's in 1990. While there are two more recent academically-authored works with 'Great Wall' in the title, one by Julia Lovell from 2006 and one by Carlos Rojas from 2010, these are cultural histories and not specific discussions of wall-building policy (for which Lovell draws heavily on Waldron anyway). So the answer below *mostly* reflects the academic understanding ca. 1990, which to be fair we could consider to still be the understanding today in the absence of an easily locatable update, supplemented with some material from the late 00s.
 
@@ -105,17 +105,17 @@ There are in effect two sides to this. The first is the simplicity of the Qin-er
 
 Again, there are I think multiple, potentially complementary explanations. The first is that the Ming wall was never *intended* as a contiguous structure. The second is that the Ming system, being substantial masonry-faced works, was much harder to build, and thus filling the gaps was not always considered cost-effective. The third I think is the most important, which is that our information about the older walls is pretty patchy, whereas the Ming wall has left very easily located traces. Paradoxically, this means that the map shows a lot of gaps where we have high certainty and none where we don't. I would suggest that part of the reason why the older walls are displayed as contiguous is that if there are gaps, we simply don't know where they are, and so the map is tracing their general route rather than specifically marking where we actually know walls to have existed.
 
------ __645.2__ -----2022-07-31 00:49:41+08:00:
+----- __646.2__ -----2022-07-31 00:49:41+08:00:
 
 Not really. But to be quite honest the 'Great Wall' (*changcheng*) is itself a relatively modern term, and its consistent employment began only really under the Qing. In effect, 'Liao/Jin frontier walls' is the most precise way of putting it, even if 'Liao/Jin Great Wall' would be more dramatic and evocative.
 
------ __645.3__ -----2022-08-02 09:01:59+08:00:
+----- __646.3__ -----2022-08-02 09:01:59+08:00:
 
 A good catch – there may well have been, but as the Wall is not my primary specialism I don't have a full picture of the non-Anglophone historiography.
 
-### 646: [Was a colonizing country ever invaded by a country they tried to capture?](https://old.reddit.com/r/AskHistorians/comments/wbm9zc/was_a_colonizing_country_ever_invaded_by_a/), submitted on 2022-07-30 10:17:50+08:00.
+### 647: [Was a colonizing country ever invaded by a country they tried to capture?](https://old.reddit.com/r/AskHistorians/comments/wbm9zc/was_a_colonizing_country_ever_invaded_by_a/), submitted on 2022-07-30 10:17:50+08:00.
 
------ __646.1__ -----2022-07-30 11:37:38+08:00:
+----- __647.1__ -----2022-07-30 11:37:38+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -123,29 +123,29 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 647: [How did resistance movements historically recruit new members? How did they 'prove their worth' without jeopardizing the entire operation?](https://old.reddit.com/r/AskHistorians/comments/wbmo3c/how_did_resistance_movements_historically_recruit/), submitted on 2022-07-30 10:38:04+08:00.
+### 648: [How did resistance movements historically recruit new members? How did they 'prove their worth' without jeopardizing the entire operation?](https://old.reddit.com/r/AskHistorians/comments/wbmo3c/how_did_resistance_movements_historically_recruit/), submitted on 2022-07-30 10:38:04+08:00.
 
------ __647.1__ -----2022-07-30 11:38:26+08:00:
+----- __648.1__ -----2022-07-30 11:38:26+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 648: [Herodotus named the Germanii as a Persian (Iranian) tribe. What does this mean?](https://old.reddit.com/r/AskHistorians/comments/wbmq95/herodotus_named_the_germanii_as_a_persian_iranian/), submitted on 2022-07-30 10:41:12+08:00.
+### 649: [Herodotus named the Germanii as a Persian (Iranian) tribe. What does this mean?](https://old.reddit.com/r/AskHistorians/comments/wbmq95/herodotus_named_the_germanii_as_a_persian_iranian/), submitted on 2022-07-30 10:41:12+08:00.
 
------ __648.1__ -----2022-07-30 11:38:42+08:00:
+----- __649.1__ -----2022-07-30 11:38:42+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 649: [Would someone born in 1976-ish in what is now Macedonia have encountered barbed wire as in a war zone?](https://old.reddit.com/r/AskHistorians/comments/wbnihu/would_someone_born_in_1976ish_in_what_is_now/), submitted on 2022-07-30 11:23:52+08:00.
+### 650: [Would someone born in 1976-ish in what is now Macedonia have encountered barbed wire as in a war zone?](https://old.reddit.com/r/AskHistorians/comments/wbnihu/would_someone_born_in_1976ish_in_what_is_now/), submitted on 2022-07-30 11:23:52+08:00.
 
------ __649.1__ -----2022-07-30 11:42:11+08:00:
+----- __650.1__ -----2022-07-30 11:42:11+08:00:
 
 Sorry, but your submission has been removed, as we don't allow questions which pose possible privacy issues for living, or recently deceased, persons who are not in the public eye. If your question pertains to military service, try referring to our guide on [Military Records and Identification](https://www.reddit.com/r/AskHistorians/wiki/militaryrecords), and you are welcome to resubmit without a name to ask about unit histories. Additionally, /r/Genealogy is a great community to find resources when doing research on family history.
 
-### 650: [Why has China repeatedly (re-)unified and splintered, while other regions, namely Europe, (sort of) unified once (under the Roman Empire), and then stayed splintered forever?](https://old.reddit.com/r/AskHistorians/comments/wc8uwr/why_has_china_repeatedly_reunified_and_splintered/), submitted on 2022-07-31 06:13:22+08:00.
+### 651: [Why has China repeatedly (re-)unified and splintered, while other regions, namely Europe, (sort of) unified once (under the Roman Empire), and then stayed splintered forever?](https://old.reddit.com/r/AskHistorians/comments/wc8uwr/why_has_china_repeatedly_reunified_and_splintered/), submitted on 2022-07-31 06:13:22+08:00.
 
------ __650.1__ -----2022-07-31 11:10:45+08:00:
+----- __651.1__ -----2022-07-31 11:10:45+08:00:
 
 I feel like this is a question that needs to be approached from several directions, as there's an interesting set of colloquialisms behind the premise, but these do not actually add up properly.
 
@@ -157,15 +157,15 @@ In effect, the reason why China seems to have repeatedly unified and splintered 
 
 To put it slightly differently, with apparent Chinese splintering and unification it helps to look at it less in topographical terms as being a territorial unit that naturally tends towards its own consolidation, but in chronological terms as a succession of state entities to which the same label has been applied thanks to having overlapping – though not precisely contiguous – territorial scope. But it is arguably only that element of territorial continuity that distinguishes Chinese empires from, say, the symbolic succession from the Western Roman Empire to the Holy Roman Empire. And, it must be said that this is partly retrospective: the consistent use of the term *Zhongguo* to collectively describe this succession of states is quite a modern one, no older than the Qing at most. Any kind of firm definition of 'China' at all either in geographical or political terms is anachronistic before the emergence of nationalism, even if there was generally a loose notion that there was a historical chain of states through which the present Chinese state, at any given time, claimed cultural and political congruence.
 
-### 651: [What’s going on with Nancy Pelosi visiting Asia and China making threats while conducting military exercises near Taiwan?](https://old.reddit.com/r/OutOfTheLoop/comments/wcgbyd/whats_going_on_with_nancy_pelosi_visiting_asia/), submitted on 2022-07-31 12:39:49+08:00.
+### 652: [What’s going on with Nancy Pelosi visiting Asia and China making threats while conducting military exercises near Taiwan?](https://old.reddit.com/r/OutOfTheLoop/comments/wcgbyd/whats_going_on_with_nancy_pelosi_visiting_asia/), submitted on 2022-07-31 12:39:49+08:00.
 
------ __651.1__ -----2022-07-31 15:36:52+08:00:
+----- __652.1__ -----2022-07-31 15:36:52+08:00:
 
 This is hardly the case. As of 2020, 64% ROC residents identify exclusively as Taiwanese and not Chinese, compared to around 30% identifying as both and 2.6% as Chinese but not Taiwanese. ([source](https://esc.nccu.edu.tw/PageDoc/Detail?fid=7800&id=6961)) While the KMT political platform supports reunification, the DPP and its coalition partners, which have held both a parliamentary majority and the presidency since 2016, are pro-independence.
 
-### 652: ["Christianity didn't become a world religion because of quality of its teachings, but by the quantity of its violence" - Eleanor Ferguson. Is this statement historically correct?](https://old.reddit.com/r/AskHistorians/comments/wchpfh/christianity_didnt_become_a_world_religion/), submitted on 2022-07-31 14:01:57+08:00.
+### 653: ["Christianity didn't become a world religion because of quality of its teachings, but by the quantity of its violence" - Eleanor Ferguson. Is this statement historically correct?](https://old.reddit.com/r/AskHistorians/comments/wchpfh/christianity_didnt_become_a_world_religion/), submitted on 2022-07-31 14:01:57+08:00.
 
------ __652.1__ -----2022-08-01 20:47:34+08:00:
+----- __653.1__ -----2022-08-01 20:47:34+08:00:
 
 Tacking on for China, the answer is complicated because so too is China's relationship with colonialism. For once I don't mean in the sense that China has been itself an eager perpetrator of colonialism (although it most definitely has), but rather that European colonialism in China was never 'total' in a way comparable to Africa, Oceania, or the Americas. While Western states and Japan exacted considerable privileges for themselves and their subjects on Qing and later Republican soil, considerably eroding those states' sovereignty within their own boundaries, they nevertheless never established direct sovereignty of their own, and so evangelism was mostly (outside of territorial concessions) undertaken within Chinese territory and outside the direct bounds of foreign state power.
 
@@ -187,27 +187,31 @@ Now, it would be remiss not to also account for the Taiping here, but in a sense
 
 I want to stress here that just because the history of Christianity in China is *largely* a nonviolent one, and that it was almost never – with one notable exception – directly spread under conditions of violent coercion, does not mean it had no connection with violence whatsoever, nor does it invalidate the markedly more violent history of Christianity in (especially now-Anglophone) North America. But it is to say that it was a bit different.
 
-### 653: [🎉Omaru Polka🎪 celebrates 1,000,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/wcjjcr/omaru_polka_celebrates_1000000_subscribers/), submitted on 2022-07-31 16:02:12+08:00.
+### 654: [🎉Omaru Polka🎪 celebrates 1,000,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/wcjjcr/omaru_polka_celebrates_1000000_subscribers/), submitted on 2022-07-31 16:02:12+08:00.
 
------ __653.1__ -----2022-07-31 16:07:14+08:00:
+----- __654.1__ -----2022-07-31 16:07:14+08:00:
 
 ポ！
 
-### 654: [[Hobby Scuffles] Week of August 1, 2022](https://old.reddit.com/r/HobbyDrama/comments/wcqp91/hobby_scuffles_week_of_august_1_2022/), submitted on 2022-07-31 23:00:13+08:00.
+### 655: [[Hobby Scuffles] Week of August 1, 2022](https://old.reddit.com/r/HobbyDrama/comments/wcqp91/hobby_scuffles_week_of_august_1_2022/), submitted on 2022-07-31 23:00:13+08:00.
 
------ __654.1__ -----2022-08-02 21:04:42+08:00:
+----- __655.1__ -----2022-08-02 21:04:42+08:00:
 
 > (I know Kizuna has already gone past 3M afer gura and i think there was another)
 
 I don't believe anyone other than AI, Gura, Calli, and Marine have 2m+ Youtube subscribers, but Argentinian indie VTuber Nimu Spacecat has over 2m Twitch followers as of 10 June.
 
------ __654.2__ -----2022-08-02 21:10:29+08:00:
+----- __655.2__ -----2022-08-02 21:10:29+08:00:
 
 As an added note for outside observers, Marine has been catching up to fellow Gen 3 member Pekora on sub counts for a while, but until the concert+MV Pekora was looking to hit the 2m milestone first, and then suddenly Marine jumped 40k subscribers in 4 days. I have no idea if this has caused drama yet, but I feel like it might and I am not ready for it.
 
-### 655: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
+----- __655.3__ -----2022-08-05 20:18:37+08:00:
 
------ __655.1__ -----2022-08-01 00:15:40+08:00:
+I thought the whole point of hanfu was that it was a nativist thing which abhorred Manchu influences like the qipao?
+
+### 656: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
+
+----- __656.1__ -----2022-08-01 00:15:40+08:00:
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
