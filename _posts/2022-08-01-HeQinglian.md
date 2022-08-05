@@ -687,3 +687,23 @@ Re @zhixiangziyou @hx_maggie 行了。英国、美国都宣布了。这两国都
 
 Re @zhixiangziyou @hx_maggie <br>不想讨论了，随便你怎样看。 <a href="https://www.cdc.gov/poxvirus/monkeypox/symptoms.html" target="_blank" rel="noopener noreferrer">https://www.cdc.gov/poxvirus/monkeypox/symptoms.html</a>
 
+### 169: [2022-08-05 19:38:29+08:00 推文](https://twitter.com/HeQinglian/status/1555518600701689856)
+
+BBC的文章也来了：<br>台湾危机给拜登的对华策略带来什么改变？<br><br>现在只差某台一篇转向文了。<br>大家边吃瓜边看热闹，就没那么热了。<br><br>He Qinglian: “佩洛西的台湾之行是不合时宜的，是危险的” <br>看来西方媒体的领军非几大美媒莫属，就是昨天，佩洛西几乎与泽连基成齐名英雄，一飞封神，全身霞光万丈。<br>但纽约时报、CNN、彭博、华邮等报的文章一出，德国之声、法广全都转向了。<br>只要别将自己当成舞台上的一角，看着还是好玩。<br> <a href="https://rfi.my/8dXs.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8dXs.T</a>
+
+### 170: [2022-08-05 19:39:56+08:00 推文](https://twitter.com/HeQinglian/status/1555518965715173381)
+
+Re @Alexjandro990 加州州长纽森算直系还是旁系？这可得弄清楚。
+
+### 171: [2022-08-05 20:02:33+08:00 推文](https://twitter.com/KELMAND1/status/1555524656722939904)
+
+RT Ezio Mao☢<br>Re 布林肯在东南亚和非洲的长期访问中面临着一个令人不安的现实：世界大部分地区没有准备跟随美国和欧洲孤立普京领导的俄罗斯。<br><br>这使得七国集团提出的限制俄罗斯石油价格上限等全球倡议的协议更具挑战性，同时也使普京及其中国国家主席习近平更加大胆地追求各自的全球议程。<br><img style="" src="https://pbs.twimg.com/media/FZZVbCoaMAUuzO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 172: [2022-08-05 20:24:28+08:00 推文](https://twitter.com/HeQinglian/status/1555530173566648320)
+
+“东盟随时准备在促进各方和平对话方面发挥建设性作用，包括通过利用东盟主导的机制缓和紧张局势，维护我们地区的和平、安全与发展。”<br>这话我琢磨了半天，总觉得与以前这些国家“国土安全  靠美国，经济发展靠中国”有点不同的味道，似乎有点“亚洲首先是亚洲人的亚洲”的味道。<br>不知道是不是我太敏感了。<br><br>Ezio Mao☢: 东南亚国家联盟(东盟)周四发表一份联合声明表示，台湾海峡持续的紧张局势可能会导致“大国之间的误判、严重对抗、公开冲突和不可预测的后果”。<br><br>在美国众议院议长南希•佩洛西(Nancy Pelosi)访问台北激怒北京后，东盟国家发出警告，对“国际和地区动荡”表示担忧，并敦促有关各方“避免采取挑衅行动”。<br><br><img style="" src="https://pbs.twimg.com/media/FZWw-YgakAAOT35?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 173: [2022-08-05 20:50:55+08:00 推文](https://twitter.com/HeQinglian/status/1555536831701307392)
+
+Re @KELMAND1 很困难。<br>在2012年-2015年间有过设想，两个预案，一是由亚洲开发银行发行亚元，二是用日元。<br>亚洲开发银行（Asian Development Bank，ADB）1966年成立，日本主导，美是大股东。<br>中国当然不干，2015年配合一带一路计划，成立亚洲基础设施投资银行（Asian Infrastructure Investment Bank, AIIB）。
+
