@@ -215,7 +215,7 @@ A bit of nascent not-quite-drama in the VTuber sphere that may fizzle out, but a
 
 For context, Hololive member Nanashi Mumei is part of Hololive English's second generation, Council, which debuted on 23 August 2021. Her in-character birthday is 4 August, i.e. yesterday, and she had commissioned long-time Hololive collaborator Kanauru to make a music video for an abridged cover of the 40mP-composed Hatsune Miku song 'Dandan Hayaku Naru'. Kanauru had full creative control, and a chunk of the video was given over to one of her major in-jokes, that being that Mumei, the 'Guardian of Civilisation', is actually responsible for many of humanity's most infamous disasters. The video thus showed her creating and spreading the Black Death (something she has claimed on stream before), and then also suspiciously present for the sinking of the Titanic, the Hindenburg Disaster, and the Space Shuttle Challenger explosion. The video also had other parts, but audience speculation has homed in on this particular sequence for, er, obvious reasons.
 
-The most common suggestion is that the Challenger reference was considered just a bit too close to home, given it happened 36 years ago and thus is potentially in living memory for the small but nevertheless extant older portion of the audience. But there is also the suggestion that it might have to do with the Hololive-ified version of the Hindenburg disaster that was shown. The blimp in the video depicted a logo for KFP (Kiara Fried Phoenix), the in-lore fast food brand of fellow Hololive member Takanashi Kiara. And Kiara makes no secret of the fact that she is Austrian. So, uh, possibly a double-whammy of poor taste there.
+The most common suggestion is that the Challenger reference was considered just a bit too close to home, given it happened 36 years ago and thus is potentially in living memory for the small but nevertheless extant older portion of the audience. But there is also the suggestion that it might have to do with the Hololive-ified version of the Hindenburg disaster that was shown. The blimp in the video depicted a logo for KFP (Kiara Fried Phoenix), the in-lore fast food brand of fellow Hololive member Takanashi Kiara. And Kiara makes no secret of the fact that she is Austrian. So, uh, possibly a double-whammy of poor taste there, if you ended up associating your one openly Austrian talent with the Nazi-built *Hindenburg*, which, y'know, flew swastikas on its tail.
 
 The video's production has also come under a little scrutiny. Kanauru is known for making things on *really* tight schedules and apparently submitted the video to Mumei 30 minutes before its release, which probably wasn't enough time for her, her management, and the agency's PR people to vet it.
 
@@ -224,6 +224,10 @@ An interesting thing is that there's some meta discussion about whether Hololive
 ----- __655.5__ -----2022-08-05 22:35:43+08:00:
 
 The way to explain it is that VTubing is a medium and not a genre, and that VTubers are otherwise just ordinary content creators who may do a variety of stuff. Hololive especially, while its core content is video game streaming, is in practical terms a variety entertainment agency, and some of its talents focus more on art or music for instance.
+
+----- __655.6__ -----2022-08-06 00:30:34+08:00:
+
+Thing is, both the commissioner and the animator are American, though also likely somewhat on the younger end. So it's not like this was a Japanese company being out of touch, but almost certainly an off-colour joke by two younger people.
 
 ### 656: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
 
