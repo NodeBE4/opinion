@@ -51,3 +51,7 @@ China's Global Soundbite Factory: We trace the sources quoted by the People's Da
 
 Continuing our series on journalist Yang Haipeng, who passed away on June 30, we look at tributes from former Jiang Yiping and Xiao Shu, which offer glimpses of what was a brighter and more hopeful era for China's journalists. <a href="https://chinamediaproject.org/2022/08/05/looking-back-on-chinas-golden-era/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/05/looking-back-on-chinas-golden-era/</a><br><img style="" src="https://pbs.twimg.com/media/FZXK3-daUAEsIJS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-08-05 11:37:26+08:00 推文](https://twitter.com/cnmediaproject/status/1555397543554871301)
+
+China's Global Soundbite Factory: The CCP has long kept a network of quotable int'l sources -- minor pol. party leaders and scholars who appear virtually nowhere outside of Chinese media. How did this work for the Pelosi story? <a href="https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/</a><br><img style="" src="https://pbs.twimg.com/media/FZXhxU7aMAASTu2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

@@ -109,6 +109,10 @@ So. A best outcome then.
 
 As Sana anyway. She did start a Youtube account under her original handle but it's not yet particularly active.
 
+----- __668.2__ -----2022-08-05 12:35:19+08:00:
+
+Namie aka Namgoreng, Youtube handle banaNamie.
+
 ### 669: [Why were the Boxers unable to defeat heavily-outnumbered, surrounded Westerners in the Beijing Legation Quarter?](https://old.reddit.com/r/AskHistorians/comments/wg4de0/why_were_the_boxers_unable_to_defeat/), submitted on 2022-08-04 23:39:27+08:00.
 
 ----- __669.1__ -----2022-08-05 01:26:33+08:00:
