@@ -47,3 +47,7 @@ RT Damien Ma<br>Just an observation. <br><br>Last couple days, Xinhua has been
 
 China's Global Soundbite Factory: We trace the sources quoted by the People's Daily as critical of Pelosi's Taiwan visit to show how they are regulars in Chinese state media -- and appear virtually nowhere else. <a href="https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/</a><br><img style="" src="https://pbs.twimg.com/media/FZWrtrFaMAEOZxz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 9: [2022-08-05 09:57:30+08:00 推文](https://twitter.com/cnmediaproject/status/1555372394118000640)
+
+Continuing our series on journalist Yang Haipeng, who passed away on June 30, we look at tributes from former Jiang Yiping and Xiao Shu, which offer glimpses of what was a brighter and more hopeful era for China's journalists. <a href="https://chinamediaproject.org/2022/08/05/looking-back-on-chinas-golden-era/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/05/looking-back-on-chinas-golden-era/</a><br><img style="" src="https://pbs.twimg.com/media/FZXK3-daUAEsIJS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

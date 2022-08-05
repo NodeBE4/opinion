@@ -611,3 +611,79 @@ Re @realJackLaw @niulehou 就连这个，美国军方3月28日在参议院的听
 
 Re @desertchariot1 有这种看法的不只有他们，还有我这几天列举的美国主流媒体，都是民主党的喉舌。<br>自己去看吧。<br>我记得习近平签署《军队非战争军事行动纲要》，似乎是将出兵台湾合理化的一个重要步骤——只是至今没看到过详细内容。<br>台湾的事情其实最后就是实力解决，台湾只能依靠美国。<br>美国的肩膀有多硬才是问题所在。
 
+### 150: [2022-08-05 07:43:07+08:00 推文](https://twitter.com/HeQinglian/status/1555338574316425216)
+
+Re @zhuxiuyuan @niulehou 那只能永不撤离了。<br>毛那十六字方针：敌进我退，敌退我追；敌疲我打，敌驻我扰——人家这次军演就用这。
+
+### 151: [2022-08-05 07:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1555338875257643014)
+
+Re @zhuxiuyuan @realJackLaw @niulehou 你对这场战争波及面的分析与断言，到现在为止，对了多少？😅
+
+### 152: [2022-08-05 07:53:26+08:00 推文](https://twitter.com/HeQinglian/status/1555341168354942977)
+
+Re @zhuxiuyuan @realJackLaw @niulehou 以前你与美国务院一致，12月。现在减少了三个月。<br>美国政府重心现在不在这，悠悠万事，唯选举事大。如果失去两院，拜登这总统会很不开心。
+
+### 153: [2022-08-05 07:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1555341815670259713)
+
+Re @qingshanzhikezi @hugang12 @niulehou 那就等中国人民过上台湾人民那种日子，再来统一吧。估计台湾人民到那里，可能会心甘情愿一点。大家不必再兵戎相见。
+
+### 154: [2022-08-05 08:01:23+08:00 推文](https://twitter.com/HeQinglian/status/1555343171130990593)
+
+Re @hx_maggie @zhixiangziyou 这我得问一声：<br>接种的人又不是只有男同，很多正常性取向的人也打了疫苗。<br>为什么只发生于男同身上？
+
+### 155: [2022-08-05 08:08:31+08:00 推文](https://twitter.com/HeQinglian/status/1555344967148740609)
+
+何清漣專欄：裴洛西訪台，為什麼讓世界如此沸騰？<br><br>此文是我对佩洛西访台成果与世界沸腾原因的总结，不包括国际社会——尤其是亚太各国的反应。那需要另外成文。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=150909" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=150909</a>
+
+### 156: [2022-08-05 08:09:57+08:00 推文](https://twitter.com/HeQinglian/status/1555345324880924675)
+
+Re @KELMAND1 东盟不想成为欧盟。<br>这点上次拜登去亚洲访问时，这些国家的领导人就说过，他们不想选边站。印尼总统名言：两只大象打架，草地会遭殃。
+
+### 157: [2022-08-05 08:10:50+08:00 推文](https://twitter.com/HeQinglian/status/1555345547095072769)
+
+Re @annie081208 @hx_maggie @zhixiangziyou WHO说的，95%发生在Gay身上。
+
+### 158: [2022-08-05 08:18:52+08:00 推文](https://twitter.com/HeQinglian/status/1555347571438125056)
+
+Re @zhixiangziyou @hx_maggie 带状疱疹不是猴痘，两码事。前者不传染。
+
+### 159: [2022-08-05 08:21:34+08:00 推文](https://twitter.com/HeQinglian/status/1555348250449813504)
+
+Re @zhixiangziyou @hx_maggie 你以后查查资料。尤其是老太太们与网民的话，你切记要查资料。
+
+### 160: [2022-08-05 08:23:26+08:00 推文](https://twitter.com/HeQinglian/status/1555348720924909569)
+
+Re @KELMAND1 不止是东盟，包括澳大利亚与日本。日本支持美国的乌克兰战争，但却明确表示希望中美关系稳定——远方的动乱毕竟日本只出了点援助。<br>欧盟的行为，只有欧盟自己能够理解。
+
+### 161: [2022-08-05 08:24:58+08:00 推文](https://twitter.com/HeQinglian/status/1555349104506568704)
+
+Re @realTaoRay 更复杂，但民主党阵营不会说出来。
+
+### 162: [2022-08-05 08:31:44+08:00 推文](https://twitter.com/HeQinglian/status/1555350809084411904)
+
+Re @zhixiangziyou @hx_maggie 这事你别说了。查一下资料就全知了。<br>65岁以上人，医生建议打带状疱疹预防针，这是生理性的，不是传染性的。
+
+### 163: [2022-08-05 08:35:25+08:00 推文](https://twitter.com/HeQinglian/status/1555351736403083267)
+
+Re @KELMAND1 @feli0meow 多给钱也不行，哪个国家愿意让自己成为乌克兰，数百万人流离失所，城市成为废墟，青壮年男人大量战死？<br>亚洲国家是人口密集之地，真打战，死人可不是乌克兰那数目。<br>美国在本土上打过几场仗？都是代理人战争。
+
+### 164: [2022-08-05 08:37:29+08:00 推文](https://twitter.com/HeQinglian/status/1555352257281105922)
+
+Re @zhixiangziyou @hx_maggie 你纽约都排队打了，去现场看看吧。纽约是重灾区，旧金山也是。
+
+### 165: [2022-08-05 08:46:50+08:00 推文](https://twitter.com/HeQinglian/status/1555354609694248962)
+
+Re @zhixiangziyou @hx_maggie 行了。英国、美国都宣布了。这两国都是实行同性婚，弘扬LGBTQI文化的，开始担心污名化男同，不愿意公布，后来事态严重，才正式公布提醒大家注意。<br>两国政府为什么要骗自己的基本盘拥护者？
+
+### 166: [2022-08-05 09:55:17+08:00 推文](https://twitter.com/HeQinglian/status/1555371835109302273)
+
+“佩洛西的台湾之行是不合时宜的，是危险的” <br>看来西方媒体的领军非几大美媒莫属，就是昨天，佩洛西几乎与泽连基成齐名英雄，一飞封神，全身霞光万丈。<br>但纽约时报、CNN、彭博、华邮等报的文章一出，德国之声、法广全都转向了。<br>只要别将自己当成舞台上的一角，看着还是好玩。 <a href="https://rfi.my/8dXs.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8dXs.T</a>
+
+### 167: [2022-08-05 10:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1555373096818954240)
+
+学习了这一篇，终于明白，中共不是Paper Tiger，是Real Tiger。😂<br><br>十四姨: 兔主席这篇，能要了老胡的命<br> <a href="https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&amp;mid=2458096377&amp;idx=1&amp;sn=0322cb2d3e701b73d6c06dbbe08e48bd" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s?__biz=MzA3MDIzODIwMg==&amp;mid=2458096377&amp;idx=1&amp;sn=0322cb2d3e701b73d6c06dbbe08e48bd</a>
+
+### 168: [2022-08-05 10:03:35+08:00 推文](https://twitter.com/HeQinglian/status/1555373923734327296)
+
+Re @zhixiangziyou @hx_maggie <br>不想讨论了，随便你怎样看。 <a href="https://www.cdc.gov/poxvirus/monkeypox/symptoms.html" target="_blank" rel="noopener noreferrer">https://www.cdc.gov/poxvirus/monkeypox/symptoms.html</a>
+
