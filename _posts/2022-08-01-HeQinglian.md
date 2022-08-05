@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-05
+date: 2022-08-06
 from: https://twitter.com/HeQinglian/status/1553788508103475201
 layout: post
 tags:
@@ -750,4 +750,60 @@ Re @iguaguajiao 这比那些认为没赞扬佩的就是通共要正常多了，�
 ### 184: [2022-08-05 23:02:55+08:00 推文](https://twitter.com/HeQinglian/status/1555570050555416578)
 
 Re @YuhsuanCheung 8月2日以前，我就知道佩将一飞封神，我说过白宫国安顾问判定中国没动作，中国将沦为纸老虎笑柄。<br>军演这事，从习近平以中央军委主席名义签署《军队非战争军事行动纲要（试行）》，并定于自2022年6月15日起施行之后，因此，借机演练一下。<br>以后一段时期就是美进中退，美退中进这模式。
+
+### 185: [2022-08-06 00:03:14+08:00 推文](https://twitter.com/niulehou/status/1555585228487417859)
+
+RT 牛乐吼<br>美国国债天文数字，通胀高居不下，边境失控，犯罪猖獗，拜登居然拨款800亿强化税务局来搜刮民间财富，新雇87000税务员监督每个纳税人，凡600元以上银行出入，均有联邦税务局监视，以现在的电脑网络人工智能，八万税务员可以做的事相当于20年的八百万人，政府权力扩张已经到了何等恐怖的地步。<br><br>Senator Ted Cruz: The Democrats’ reconciliation bill would fund 87,000 IRS agents.<br> <br>These IRS agents won’t go after the billionaires – they will audit everyday Americans.<br> <br>I’ve traveled all across Texas and the US – I’ve never once heard anyone say ‘we need more IRS agents!’<br><br><video src="https://video.twimg.com/amplify_video/1554977766222823427/vid/960x540/cSDPoWxFz6jDr2Dn.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FZRkP2TXEAIkfuH?format=jpg&amp;name=orig"></video>
+
+### 186: [2022-08-06 00:57:40+08:00 推文](https://twitter.com/HeQinglian/status/1555598927126298625)
+
+Re @zhuxiuyuan @niulehou 人家本来就常那呆着。<br>有次你不是张口要美国拿1000亿支持乌克兰么？去查查美国军费一年多少亿吧。
+
+### 187: [2022-08-06 03:22:20+08:00 推文](https://twitter.com/HeQinglian/status/1555635335165624330)
+
+Re @RealBeiMing 最有意思的是：美国主流媒体的意见符合他们的看法时，那就是唯一真理；这次批评佩洛西访台是为了自己私利考虑，打破美中关系平衡并让台湾处于危险之中，纽时、CNN、华邮、彭博等全成了通共。<br>这些人与毛左、美左一样，都认为自己是唯一正确。
+
+### 188: [2022-08-06 03:23:08+08:00 推文](https://twitter.com/HeQinglian/status/1555635536206897154)
+
+Re @TX15132891 这种说法无非证明谁也不比谁差，事实上，有人就是没脑子。
+
+### 189: [2022-08-06 03:24:44+08:00 推文](https://twitter.com/HeQinglian/status/1555635938432262146)
+
+Re @riverkiosk 比如你。不过，我得请你走人了。
+
+### 190: [2022-08-06 03:26:26+08:00 推文](https://twitter.com/HeQinglian/status/1555636363327848448)
+
+Re @franktianxie 最后一项对中国而言，不是太好的消息，因为中国是世界上最大的风能设备与太阳能设备制造商，这一下市场没了。😂
+
+### 191: [2022-08-06 03:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1555642750019715072)
+
+Re @RealBeiMing 不理这些人，看事实就行。<br>事实上，这次俄乌战争引发的世界格局变动于美国极为不利：不要说拉美、东盟、亚太地区国家的离心离德，就连欧盟现在也只有一半国家赞成继续制裁俄。<br>这是2020年大选舞弊后遗症，全世界只是不说破，美国拜登政府假装不知道世界知道盗选发生，不知道这两年美国发生什么。
+
+### 192: [2022-08-06 04:29:26+08:00 推文](https://twitter.com/HeQinglian/status/1555652219533496320)
+
+Re @lawyer_sui 总算有明白人。
+
+### 193: [2022-08-06 05:48:00+08:00 推文](https://twitter.com/HeQinglian/status/1555671991125958656)
+
+Re @david_david1968 zt谈的，其实台湾有不同程度的存在。1、外省人与台湾本土人的身份构建，还有二者结合的后裔（有个名称，我忘记了）；2、民进党的台独派以前尝试过立国神话，从新石器时代开始，台湾就是独立发展的文化。后来不提了，因为实在太缺料了。第3条倒是没有。<br>面临大陆威胁时，这些身份构建的影响就淡些。
+
+### 194: [2022-08-06 05:50:33+08:00 推文](https://twitter.com/HeQinglian/status/1555672633471123457)
+
+Re @david_david1968 北韩兵的战力如何？好象近20年没打过什么仗。
+
+### 195: [2022-08-06 05:53:44+08:00 推文](https://twitter.com/HeQinglian/status/1555673433438052352)
+
+Re @shenliangqing2 他如果不以外国元首身份报备，白宫不负责他的安全保护，应该没有礼仪问题。<br>不过，现在的美国真是经常出些以前未有的现象。这个算一个，还有现任议长不顾本党总统苦劝，个人访台带来外交麻烦，也算首例。<br>不知道这是否可算作政治衰败的迹象？
+
+### 196: [2022-08-06 06:02:13+08:00 推文](https://twitter.com/HeQinglian/status/1555675569492312066)
+
+Re @david_david1968 乌克兰一方，北约能支持多少人数的军队？我很想知道这点。反正雇佣军名义的人都去了不少。还能增派多少？
+
+### 197: [2022-08-06 06:06:42+08:00 推文](https://twitter.com/HeQinglian/status/1555676698988904448)
+
+Re @epicabnerl @KELMAND1 五角大楼就是后者的主干。从退役将军们2016、2020两度表态支持民主党就知道。
+
+### 198: [2022-08-06 06:10:00+08:00 推文](https://twitter.com/HeQinglian/status/1555677526802014211)
+
+Re @david_david1968 北约事实上就美英有象话的军队，法国的很弱，但还有。
 
