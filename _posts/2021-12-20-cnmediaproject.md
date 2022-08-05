@@ -25,7 +25,7 @@ Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the #
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
-Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style="" src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-20 13:19:50+08:00 推文](https://twitter.com/xinwenfan/status/1472798876956434437)
 
@@ -49,7 +49,7 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
@@ -73,7 +73,7 @@ RT Adrienne Carter<br>My heart is broken by the loss of @CRTejada. He was an a
 
 ### 15: [2021-12-21 15:41:45+08:00 推文](https://twitter.com/GeringTuvia/status/1473196979463229441)
 
-RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style="" src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>Re And in case you're wondering where Hu's replacement, Fan Zhengwei, will take the GT, an editorial published yesterday stated that "the US military kills innocent people indiscriminately, and the international community should hold it accountable." @cnmediaproject called it<br><img style src="https://pbs.twimg.com/media/FHHX1U7VUAAw_gS?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHHYqfQVQAEfebz?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-21 23:50:00+08:00 推文](https://twitter.com/BonnieGlaser/status/1473319853687779331)
 
