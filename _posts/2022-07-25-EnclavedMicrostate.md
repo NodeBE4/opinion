@@ -221,6 +221,10 @@ The video's production has also come under a little scrutiny. Kanauru is known f
 
 An interesting thing is that there's some meta discussion about whether Hololive management ought to have stated the issue explicitly so as to limit speculation, but IMO anyway there's not really a better alternative if it was indeed one of those two sequences that did it. Either 'we made light of one of the most serious space-related disasters in living memory' or 'we inadvertently greenlit a video that indirectly implied our one Austrian talent is a Nazi' or whatever else it might have been would have been somewhat serious statements to officially make.
 
+----- __655.5__ -----2022-08-05 22:35:43+08:00:
+
+The way to explain it is that VTubing is a medium and not a genre, and that VTubers are otherwise just ordinary content creators who may do a variety of stuff. Hololive especially, while its core content is video game streaming, is in practical terms a variety entertainment agency, and some of its talents focus more on art or music for instance.
+
 ### 656: [Why did Chinese 'civilization' spread to Japan but not to Taiwan and the Philippines before the colonial era?](https://old.reddit.com/r/AskHistorians/comments/wcrou7/why_did_chinese_civilization_spread_to_japan_but/), submitted on 2022-07-31 23:43:43+08:00.
 
 ----- __656.1__ -----2022-08-01 00:15:40+08:00:
