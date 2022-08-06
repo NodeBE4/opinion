@@ -121,7 +121,7 @@ So for example, if you wanted to ask, "*Have people always rebelled against heal
 
 A very late reply to this because I was trawling through old threads:
 
-Basically, with *CHC* you're better off with volumes published after 1990 and preferably after 2000. My personal recommendation is Harvard's six-volume *History of Imperial China* series, capped off with either Jonathan Spence's *The Search for Modern China* and/or Pamela Crossley's *The Wobbling Pivot: China Since 1800* (albeit with a bit of an awareness that Crossley makes a couple of errors on 20th century topics in that book).
+Basically, with *CHC* you're better off with volumes published after 1990 and preferably after 2000. Because of that, my personal recommendation for a broad sweep is Harvard's six-volume *History of Imperial China* series, capped off with either Jonathan Spence's *The Search for Modern China* and/or Pamela Crossley's *The Wobbling Pivot: China Since 1800* (albeit with a bit of an awareness that Crossley makes a couple of errors on 20th century topics in that book).
 
 ### 608: [Why didn't China conquer Mongolia?](https://old.reddit.com/r/AskHistorians/comments/vz3293/why_didnt_china_conquer_mongolia/), submitted on 2022-07-15 02:41:06+08:00.
 
