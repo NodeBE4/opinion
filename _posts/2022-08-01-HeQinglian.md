@@ -931,3 +931,7 @@ Re @YANQING_BRONCO @shenliangqing2 @JianglinLi 时装补贴有上限。
 
 Re @franktianxie 我也赞成设年龄限制，但不能象民主党以前那样，先设一条限制对方的法律，以后再一改再改，总为自己量身定做合适的，再为对方设限。
 
+### 230: [2022-08-07 04:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1556015002884182022)
+
+美澳日战略对话重申维护台海和平稳定承诺 <br>三方重申了他们对维护台湾海峡和平与稳定的承诺。他们赞赏东盟关于缓和台湾海峡紧张局势的重要性的声明。三方都希望通过外交手段来避免误判的风险。<br>——最后，可能得由李显龙出场斡旋：习主席，气出够了，是不是坐下来谈谈？ <a href="https://rfi.my/8dmn.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8dmn.T</a>
+

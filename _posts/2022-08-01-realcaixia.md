@@ -59,3 +59,11 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 这是个很值得重视的信息。在我看来刘亚洲将军在中共军队里是难得一见的有战略眼光有深度思考的将军。他有民主政治的基本观念，也有国家主义的思想倾向，他的思想有这两部分的混合影响。<br><br>高瑜: 下邊消息有待證實。劉亞洲自己出版的《劉亞洲戰略文集》有一系列對台戰略的文章，自去年12月傳出他被留置審查，劉亞洲的“對台戰略”遭到猛批，被總結為1，否定台灣事關中國核心利益。2，反對武統。3，質疑“一國兩制”基本國策。4，收土之前先收心。5，心向台灣“民主制度”等。被指為政治投降。此時台海<br><br><img style="" src="https://pbs.twimg.com/media/FZcrFp7UEAEJUxw?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZcxh4QUIAE9DM6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 12: [2022-08-07 03:49:19+08:00 推文](https://twitter.com/realcaixia/status/1556004511302488065)
+
+Re @lincolnstark5 您武断了。刘不是没有“任何”战略思想的军队将领。中共军队将领中像刘这样善于读书思考、且有一定深度的人凤毛菱角。
+
+### 13: [2022-08-07 03:58:27+08:00 推文](https://twitter.com/realcaixia/status/1556006809932111878)
+
+Re @Clinton1357911 您认识高瑜吗？您认识老灯吗？拿风马牛不相及的人做比较,你不觉得很不合适吗？
+
