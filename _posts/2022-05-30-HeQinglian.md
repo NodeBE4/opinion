@@ -213,7 +213,7 @@ Re @chinazi198404 @JiangShangrong 说得很清楚：半黑半白，全看什么�
 
 ### 50: [2022-06-05 10:06:14+08:00 推文](https://twitter.com/HeQinglian/status/1533268929946296320)
 
-疫情以来，世卫无论说什么，包括承认错误、批评中国之类，只能让我猜想：世卫这番折腾，是奔什么标的物去的？<br><br>KimPR: 政變：世衛組織正式承認其關於新冠死亡率的大量數據是錯誤的🤡🍿<br><br><img style="" src="https://pbs.twimg.com/media/FUXmKbgXwAAgeDK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+疫情以来，世卫无论说什么，包括承认错误、批评中国之类，只能让我猜想：世卫这番折腾，是奔什么标的物去的？
 
 ### 51: [2022-06-05 10:16:30+08:00 推文](https://twitter.com/HeQinglian/status/1533271515873034241)
 

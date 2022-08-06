@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-06
+date: 2022-08-07
 from: https://twitter.com/HeQinglian/status/1553788508103475201
 layout: post
 tags:
@@ -898,4 +898,36 @@ Re @Tepezano161 主要是党内追责。就看她的招术了，三个议长候�
 ### 221: [2022-08-06 23:52:46+08:00 推文](https://twitter.com/HeQinglian/status/1555944984007901184)
 
 Re @CqKDWLPh9Lbhm5Y 你能分清身负一国重任的人与个人的区别吗？
+
+### 222: [2022-08-07 01:30:57+08:00 推文](https://twitter.com/HeQinglian/status/1555969692849913856)
+
+Re @Jonatha38867275 如果付出这代价才能看清，我无话可说。<br>反正付代价的不是你。
+
+### 223: [2022-08-07 01:31:57+08:00 推文](https://twitter.com/HeQinglian/status/1555969944235528199)
+
+Re @CqKDWLPh9Lbhm5Y 幸好，你未担任一方重职，否则害死人。<br>你家的决策你多做吧。
+
+### 224: [2022-08-07 01:34:46+08:00 推文](https://twitter.com/HeQinglian/status/1555970652229849090)
+
+我的推下有人分不清身负一国重任的人与个人决策的区别。我也懒得多说了。<br>权力对权力的来源负责，她的议长一职是民主党国会议员们授予的，就看民主党众议员们如何决定了。<br>舆论毕竟只是舆论。不过，美国府院间（还是一党）闹成这样，国际社会对美国的信心大大下降是必然之事。<br><br>He Qinglian: 看了佩洛西女士在日本的谈话，表示希望台海维持和平，神情不如在台湾那么神采飞扬，有点萎顿。估计美媒的评价她看了不少，回程之后面对白宫与国务院、本党的批评将如何应付？<br>估计她本人及团队事先只想到“人权、反共”这两项增光添彩，未曾想到如今的局面。<br> <a href="https://twitter.com/HeQinglian/status/1555932082286764033" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1555932082286764033</a>
+
+### 225: [2022-08-07 01:42:07+08:00 推文](https://twitter.com/HeQinglian/status/1555972502211420161)
+
+Re @FightForJiuCai 明明十二分无能，却以为自身无所不能。权力这东西，让掌权者分不清自己是龙是虫。本来以为这是专制独裁者的病，没想到美国民主党也害了这病。<br>俄乌战争进行时，巴尔干战火又煽起。再弄一个台海紧张对峙（这次得自己出面了）。<br>两大两小敌人终于联手——冷战之后，还未出现这种局面。
+
+### 226: [2022-08-07 01:52:04+08:00 推文](https://twitter.com/HeQinglian/status/1555975003820199937)
+
+Re @JianglinLi @YANQING_BRONCO @shenliangqing2 大流行期间，世界政坛唯一的口罩与时装配搭者，比希拉里讲究得多。<br>以后，就不再看了。<br>想起韦伯说的公职人员的操守要高于常人，觉得这是贵族时代的余蕴。<br>美媒在批评她的私利与任性时，我想的是你们早干吗去了？撕总统的国情咨文时为她叫好，会惯出任性的毛病。瓜豆之报吧。
+
+### 227: [2022-08-07 01:53:49+08:00 推文](https://twitter.com/HeQinglian/status/1555975444813455363)
+
+Re @shenliangqing2 直接拉黑，我在俄乌战争时，遇到一只母乌鸡，先后注册百余推号骚扰，这种精神病，赶出园子就是。
+
+### 228: [2022-08-07 01:58:11+08:00 推文](https://twitter.com/HeQinglian/status/1555976543981035520)
+
+Re @YANQING_BRONCO @shenliangqing2 @JianglinLi 时装补贴有上限。
+
+### 229: [2022-08-07 02:00:28+08:00 推文](https://twitter.com/HeQinglian/status/1555977118944821248)
+
+Re @franktianxie 我也赞成设年龄限制，但不能象民主党以前那样，先设一条限制对方的法律，以后再一改再改，总为自己量身定做合适的，再为对方设限。
 
