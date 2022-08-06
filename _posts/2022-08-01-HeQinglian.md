@@ -867,3 +867,27 @@ Re @shenliangqing2 @HongnianC New York Post报导了，这是家百年老报，�
 
 Re @Tepezano161 无论是美国还是台湾，都没你乐观。
 
+### 214: [2022-08-06 22:11:12+08:00 推文](https://twitter.com/HeQinglian/status/1555919422380015618)
+
+Re @shenliangqing2 @HongnianC 昨天还在推上讨论过朝鲜人民军的战力究竟如何。毕竟近几十年没打过仗。<br>任何军队没经过实战，战力都有待观察。百练不如一战。
+
+### 215: [2022-08-06 23:01:30+08:00 推文](https://twitter.com/HeQinglian/status/1555932082286764033)
+
+BBC:【佩洛西|裴洛西】访问台湾：西方媒体出现的反对意见和观点<br>2022年8月5日<br>西方国家几大中文媒体的观点不在此文采集之列。 <a href="https://www.bbc.com/zhongwen/simp/world-62428497" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-62428497</a>
+
+### 216: [2022-08-06 23:17:52+08:00 推文](https://twitter.com/HeQinglian/status/1555936197876359168)
+
+看了佩洛西女士在日本的谈话，表示希望台海维持和平，神情不如在台湾那么神采飞扬，有点萎顿。估计美媒的评价她看了不少，回程之后面对白宫与国务院、本党的批评将如何应付？<br>估计她本人及团队事先只想到“人权、反共”这两项增光添彩，未曾想到如今的局面。<br><br>He Qinglian: BBC:【佩洛西|裴洛西】访问台湾：西方媒体出现的反对意见和观点<br>2022年8月5日<br>西方国家几大中文媒体的观点不在此文采集之列。<br> <a href="https://www.bbc.com/zhongwen/simp/world-62428497" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-62428497</a>
+
+### 217: [2022-08-06 23:20:23+08:00 推文](https://twitter.com/HeQinglian/status/1555936833393102850)
+
+Re @FightForJiuCai 听说是中国几年前提供的技术与生产线。
+
+### 218: [2022-08-06 23:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1555937377532649474)
+
+Re @hbbkk66 你真是她的贴身小棉袄啊。
+
+### 219: [2022-08-06 23:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1555938949536825344)
+
+Re @hbbkk66 看来，你学习过矛盾论与辩证法。<br>世界离不开美国的维和。现在两大两小敌人全都动了，欧亚包括巴尔干、亚太地区、中东地区，美国已经借债30万亿，如今三地齐动，先管哪头？<br>你不在美国，我在美国。美国人还要活，不是人人都是索罗斯与超级富豪。
+
