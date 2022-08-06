@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-04
+date: 2022-08-06
 from: https://old.reddit.com/r/wargaming/comments/wcwuq3/trying_out_this_system_for_the_first_time/
 layout: post
 tags:
@@ -124,4 +124,12 @@ Namie aka Namgoreng, Youtube handle banaNamie.
 ----- __671.1__ -----2022-08-05 01:26:33+08:00:
 
 More can of course be said, especially by someone who has read up on the Boxers in more detail more recently and can thus remember the details better, but as I note in passing in [this past answer](https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/), the siege of the Legations was primarily an effort of the Qing regular army overseen by Ronglu, who was an anti-Boxer with reformist sentiments and seems to have been reluctant to prosecute the siege to the fullest extent.
+
+### 672: [🎉Ceres Fauna🌿 celebrates 600,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/whdcgp/ceres_fauna_celebrates_600000_subscribers/), submitted on 2022-08-06 10:36:26+08:00.
+
+----- __672.1__ -----2022-08-06 12:22:58+08:00:
+
+> Qilin
+
+Kirin technically, if we're going by the Japanese rendering.
 
