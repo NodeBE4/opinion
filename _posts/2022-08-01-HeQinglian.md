@@ -807,3 +807,43 @@ Re @epicabnerl @KELMAND1 五角大楼就是后者的主干。从退役将军们2
 
 Re @david_david1968 北约事实上就美英有象话的军队，法国的很弱，但还有。
 
+### 199: [2022-08-06 07:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1555704131909730304)
+
+只能说现在这个拜登极左政府败美国。<br>美国外交有两大敌（中、俄）、两小敌（伊朗、朝鲜），外交政策的铁则是绝对不让它们联手，否则很难对付。没想到拜登政府不到两年，成功达成这一美国外交界前辈们尽力避免的目标。<br>以前历届民主党政府从来没这样衰过，克林顿时期无论国内国外都堪称绩优。<br><br>戴维（英国观察）: 那些幼稚的西方政客们对战争的后果考虑显然不周全；现在金三胖子都开始入局了。这消息被证实了。<br><br>Russian state TV: North Korea offers Kremlin 100,000 troops<br> <a href="https://nypost.com/2022/08/05/russian-state-tv-north-korea-offers-kremlin-100000-troops/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/08/05/russian-state-tv-north-korea-offers-kremlin-100000-troops/</a>
+
+### 200: [2022-08-06 08:01:19+08:00 推文](https://twitter.com/HeQinglian/status/1555705540210266112)
+
+Re @zhuxiuyuan @niulehou 你的意思是，美国应该从军费开支中拿出八分之一援乌？<br>可以到拜登推后留言，提出建议。
+
+### 201: [2022-08-06 08:05:21+08:00 推文](https://twitter.com/HeQinglian/status/1555706556238516226)
+
+Re @pandatress1 New York Post的消息，哪家权威机构鉴定是假消息？望示知。
+
+### 202: [2022-08-06 08:06:10+08:00 推文](https://twitter.com/HeQinglian/status/1555706762321432576)
+
+Re @jokergetupearly 这只能是民主党内部讨论的问题了。她人还没回来呢。
+
+### 203: [2022-08-06 08:11:57+08:00 推文](https://twitter.com/HeQinglian/status/1555708217518395396)
+
+Re @pandatress1 这是家百年老报，在美国发行量曾居第二。<br>以前我看得少，但这几年有不少有质量的深度报道，而且正是主流媒体不报道的。不太明白在你的眼中何以成了花边新闻媒体。<br>估计你没怎么看过这家媒体的报道。
+
+### 204: [2022-08-06 08:14:28+08:00 推文](https://twitter.com/HeQinglian/status/1555708849528659969)
+
+Re @zhuxiuyuan @niulehou 这事儿，五角大楼5月底在参议院听证会上说过，“民主的武器库接近耗竭”，生产能力跟不上，连库存数目也说过较具体的数据。你自己去找找，如果找不到，我再给你链接。
+
+### 205: [2022-08-06 08:15:46+08:00 推文](https://twitter.com/HeQinglian/status/1555709177594519552)
+
+Re @pandatress1 这点我同意，但我对于你对纽约邮报的评价是严重不同意的。这是小拜登电脑门事件出来后，美国主媒对它的诬蔑。<br>当时我查了资料，才知道纽时胡说。
+
+### 206: [2022-08-06 08:17:53+08:00 推文](https://twitter.com/HeQinglian/status/1555709713299513347)
+
+Re @Wu_Zhi 我清楚记得，川普准备聘任博尔顿做白宫国家安全顾问之前三个月，他在耶鲁的讲话，主题就是这个。我查了一下，才了解美国从冷战结束之后，就奉行这个外交原则。<br>冷战时联中制俄，大家都知道。
+
+### 207: [2022-08-06 08:33:45+08:00 推文](https://twitter.com/HeQinglian/status/1555713704020393984)
+
+Re @pandatress1 有些事情，人家不是事事都说。<br>上次不是说车臣参战是假消息，人家后来怎么成了主力之一？<br>北韩在这事上，肯定只会倒向中俄一边。
+
+### 208: [2022-08-06 08:38:17+08:00 推文](https://twitter.com/HeQinglian/status/1555714844577374210)
+
+Re @jojowheel 确实如此。好比做学问，那些虚的文化学、杜撰的民族起源论听起来高大上，很能蒙骗人。但做现实实证研究的，一个不小心，就会被证伪。
+
