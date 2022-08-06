@@ -133,3 +133,9 @@ More can of course be said, especially by someone who has read up on the Boxers 
 
 Kirin technically, if we're going by the Japanese rendering.
 
+### 673: [No stopping Florida Man](https://old.reddit.com/r/dankmemes/comments/whj1x2/no_stopping_florida_man/), submitted on 2022-08-06 16:09:10+08:00.
+
+----- __673.1__ -----2022-08-06 21:04:48+08:00:
+
+Classic zero-shits expat behaviour.
+
