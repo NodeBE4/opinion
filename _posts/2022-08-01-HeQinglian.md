@@ -1011,3 +1011,15 @@ Re @Zenpaul2 美国白宫国家安全委员会发言人柯比（John Kirby）4�
 
 Re 说明一下，不是指北京与台湾沟通，是指与美国。美国布林肯正在呼吁，要求北京不要关闭所有对话机制。
 
+### 250: [2022-08-07 21:48:31+08:00 推文](https://twitter.com/HeQinglian/status/1556276099805503490)
+
+Re @JianglinLi @farmdirect8 几天前，想买个机器人。儿子说不要买，因为亚马逊已经收购了，机器人安了芯片，工作几次后你家是什么情况，亚马逊数据库里面全有。
+
+### 251: [2022-08-07 21:56:01+08:00 推文](https://twitter.com/HeQinglian/status/1556277988836405248)
+
+Re @farmdirect8 @JianglinLi 电脑、手机等买回来，我儿子要鼓捣一下，消除或者关闭一些功能。
+
+### 252: [2022-08-07 22:11:59+08:00 推文](https://twitter.com/HeQinglian/status/1556282009164681216)
+
+中国实弹军演暗示未来对台战略：逼迫而非入侵<br><br>军事专家称：中国更有可能以某种不构成直接冲突的程度来运用武力，这种方式被一些专家称为“灰色地带”战争。<br>因为是“围而不打”，文中提到美国必须保证台湾的淡水等物质供应。<br>——听起来象是当年林彪围攻长春的方式，“疲敌之师”。 <a href="https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%BC%B9%E5%86%9B%E6%BC%94%E9%80%8F%E9%9C%B2%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%AF%B9%E5%8F%B0%E6%88%98%E7%95%A5-%E9%80%BC%E8%BF%AB%E8%80%8C%E9%9D%9E%E5%85%A5%E4%BE%B5-11659680106" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%9E%E5%BC%B9%E5%86%9B%E6%BC%94%E9%80%8F%E9%9C%B2%E7%9A%84%E6%9C%AA%E6%9D%A5%E5%AF%B9%E5%8F%B0%E6%88%98%E7%95%A5-%E9%80%BC%E8%BF%AB%E8%80%8C%E9%9D%9E%E5%85%A5%E4%BE%B5-11659680106</a>
+
