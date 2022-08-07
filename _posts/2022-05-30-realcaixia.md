@@ -85,7 +85,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。
+昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 

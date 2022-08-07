@@ -33,11 +33,11 @@ RT Taisu Zhang<br>An obituary that I wrote for Spence (in Chinese—there are 
 
 ### 5: [2021-12-29 16:29:57+08:00 推文](https://twitter.com/rhokilpatrick/status/1476108212143149056)
 
-RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing operations and letting go of all staff, after HK police froze its assets and arrested six for publishing seditious material.<br><br>After Apple Daily, this is the second opposition news source that authorities have shut down this year.<br><img style src="https://pbs.twimg.com/media/FHwwmGzVIAAPEQZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing operations and letting go of all staff, after HK police froze its assets and arrested six for publishing seditious material.<br><br>After Apple Daily, this is the second opposition news source that authorities have shut down this year.<br><img style="" src="https://pbs.twimg.com/media/FHwwmGzVIAAPEQZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-29 17:26:32+08:00 推文](https://twitter.com/rhokilpatrick/status/1476122451574595587)
 
-RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style="" src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’s last story before the announcement of their closure was this video on “forbidden words”—the things we can no longer say and the platforms we’ve lost to say them.<br><br>Watch here until their YouTube channel goes dark: <a href="https://youtu.be/CtsRbo_C9l4" target="_blank" rel="noopener noreferrer">https://youtu.be/CtsRbo_C9l4</a><br><img style src="https://pbs.twimg.com/media/FHw9i8GUYAE80Q7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHw9i8EUYAQcuoH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
 
