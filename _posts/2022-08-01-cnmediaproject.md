@@ -67,11 +67,15 @@ RT Bill Bishop<br>What is the logic of suspending climate talks? To remind the
 
 RT William Nee<br>RTHK was once one of the world's best &amp; most highly respected public broadcasters, akin to PBS or the BBC.<br><br>Now, under CCP rule, its independence has ended. <br><br>Context via @cnmediaproject: <br><br>Politicians running the newspapers 政治家办报<br><br>CHRD人权捍卫者: Hong Kong appoints new head of public broadcaster #RTHK<br><br>Eddie Cheung, who has no experience in the media &amp; is currently based in Brussels as the Special Representative for HK Economic and Trade Affairs to the EU, will take up the position in October<br> <a href="https://hongkongfp.com/2022/08/05/hong-kong-appoints-new-head-of-public-broadcaster-rthk/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/08/05/hong-kong-appoints-new-head-of-public-broadcaster-rthk/</a>
 
-### 14: [2022-08-06 09:34:54+08:00 推文](https://twitter.com/cnmediaproject/status/1555729093614010368)
+### 14: [2022-08-06 03:15:18+08:00 推文](https://twitter.com/chenchenzh/status/1555633561767710724)
+
+RT Chenchen Zhang 🤦🏻‍♀️<br>Wang Yi saying Sun Yat-sen would call President Tsai Ing-wen "unworthy descendant" 不肖子孙 is peak patriarchal familial nationalism that makes one cringe
+
+### 15: [2022-08-06 09:34:54+08:00 推文](https://twitter.com/cnmediaproject/status/1555729093614010368)
 
 For those who missed it, be sure to read our pieces this week on the Pelosi visit and how it was handled by state media. We looked first at how the news was sidelined in the People's Daily by internal politics = Xi's rise ahead of the 20th Congress. <a href="https://chinamediaproject.org/2022/08/03/putting-pelosi-in-the-corner/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/03/putting-pelosi-in-the-corner/</a><br><img style="" src="https://pbs.twimg.com/media/FZcPU4BaUAEIQyP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 15: [2022-08-06 09:36:31+08:00 推文](https://twitter.com/cnmediaproject/status/1555729500344053760)
+### 16: [2022-08-06 09:36:31+08:00 推文](https://twitter.com/cnmediaproject/status/1555729500344053760)
 
 Re And next at how the state media groom borrowed voices for external propaganda -- essentially sources speaking for China's hard lines that appear virtually nowhere outside of state media reports. <a href="https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/04/chinas-global-soundbite-factory/</a><br><img style="" src="https://pbs.twimg.com/media/FZcPuEFaMAAR9tO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
