@@ -65,7 +65,7 @@ RT Roy Ngerng 鄞義林<br>I grew up in an authoritarian regime, and you have 
 
 ### 13: [2022-04-06 01:01:36+08:00 推文](https://twitter.com/NeysunM/status/1511388598150451208)
 
-RT Neysun Mahboubi 马瑞欣<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Neysun Mahboubi<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-04-06 08:06:18+08:00 推文](https://twitter.com/cnmediaproject/status/1511495475177820167)
 
@@ -121,7 +121,7 @@ Re 1979: "Today, the situation requires all peace-loving countries and peoples t
 
 ### 27: [2022-04-06 17:05:30+08:00 推文](https://twitter.com/AlexDukalskis/status/1511631170253070337)
 
-RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.
+RT Alex Dukalskis<br>"Control your soul’s desire for freedom" perhaps unintentionally says a lot about contemporary 🇨🇳.<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
 
 ### 28: [2022-04-06 19:24:16+08:00 推文](https://twitter.com/OxDemTech/status/1511666092812345348)
 
