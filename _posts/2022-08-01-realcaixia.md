@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 6: [2022-08-04 01:16:46+08:00 推文](https://twitter.com/realcaixia/status/1554878957094404097)
 
-习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video> <a href="https://twitter.com/rongjian1957/status/1554631395921711105" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1554631395921711105</a>
+习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video>
 
 ### 7: [2022-08-04 01:36:20+08:00 推文](https://twitter.com/realcaixia/status/1554883881232465922)
 
@@ -86,4 +86,8 @@ Re @Clinton1357911 請看採訪記者4年前與4年後是同一個人，採訪�
 ### 18: [2022-08-07 08:06:12+08:00 推文](https://twitter.com/realcaixia/status/1556069160282738688)
 
 Re @Clinton1357911 不僅如此，我還尋找了閻學通教授2年前的採訪視頻，依舊穿的是同一套西服。這證明這套西服是閻學通教授接受採訪時的正裝“戏服”（西服）。仅凭穿的是同一套西服，就认为高瑜造谣，这个例子不成立吧！<br><img style="" src="https://pbs.twimg.com/media/FZhEp3AWAAA47yQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhEp2_XgAEPbg7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhEp3AXoAEUESD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhEp3GWYAEs4xY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-08-07 20:11:54+08:00 推文](https://twitter.com/realcaixia/status/1556251785291087872)
+
+Re @sylvie1huang @lincolnstark5 感谢纠正。电脑打字时常常顾不上看细了，自动跳出来的字检查不细，我有粗心大意的毛病恶习。
 
