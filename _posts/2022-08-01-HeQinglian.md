@@ -955,3 +955,51 @@ Re @zhixiangziyou 很多人不了解一个内部腐朽烂透、连BLM犯罪都�
 
 Re 3、亚太盟友与东盟希望维持稳定，多明确表示态度，维持平衡，美国有什么动作需要先与他们打招呼。美国已经表示尊重盟友的决定。<br>4、台湾的角度。这次拉近了与美国的关系，美国被迫使从装甲兵成为担保人，不管美国是否愿意，都得考虑是否结束对华战略模糊。台湾的未来由美国的态度决定。
 
+### 236: [2022-08-07 07:41:30+08:00 推文](https://twitter.com/HeQinglian/status/1556062941564256259)
+
+Re 5、中文社交媒体上，发表意见的人多属于永远不会有机会实践自己政治主张、也不用承担政治后果的人，这种意见最热闹，但对世界格局的影响最小。<br>美国军方去年的箭猪计划，加强台湾防御能力，吓阻大陆，需要五年完成。<br>德国之声：《一目了然！ 图表看两岸军力对比》 <a href="https://p.dw.com/p/4F4vM" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4F4vM</a>
+
+### 237: [2022-08-07 07:43:04+08:00 推文](https://twitter.com/HeQinglian/status/1556063336306839552)
+
+罕见的批评，证明以前俄的批评并非空穴来风：<br>人权组织指责乌军队违反国际法  乌总统正面回怼 <a href="https://p.dw.com/p/4FBUV?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4FBUV?maca=zh-Twitter-sharing</a>
+
+### 238: [2022-08-07 07:57:48+08:00 推文](https://twitter.com/HeQinglian/status/1556067044210130945)
+
+Re @Zenpaul2 无论是褒义还是贬义，台湾需要美国做担保人。<br>此时此刻如果没有里根号等航母群驻守，台湾海峡不会是这种状态。
+
+### 239: [2022-08-07 08:02:52+08:00 推文](https://twitter.com/HeQinglian/status/1556068319551184896)
+
+Re @abc__china 如今众声喧哗，不管谁说，都是一家之言。<br>区别是：无权无势者会被舆论伤害，权力集团保护的人则很难被伤害。
+
+### 240: [2022-08-07 08:08:10+08:00 推文](https://twitter.com/HeQinglian/status/1556069654979829760)
+
+看后面的跟帖，🤣<br><br>Rasmussen Reports: Don't ask us, we just throw the darts ...<br><br>Joe Biden approval rating boosted ahead of midterms: Poll<br> <a href="https://www.newsweek.com/biden-approval-rating-boosted-ahead-midterms-poll-1731291" target="_blank" rel="noopener noreferrer">https://www.newsweek.com/biden-approval-rating-boosted-ahead-midterms-poll-1731291</a>
+
+### 241: [2022-08-07 09:47:14+08:00 推文](https://twitter.com/HeQinglian/status/1556094583213330432)
+
+Re @CqKDWLPh9Lbhm5Y 我也做过部门主任。深知个人决定与做为部门主任决定一件事情的区别。<br>你连这二者都没分清楚，估计你不是选出来的，是任命的。
+
+### 242: [2022-08-07 09:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1556094953285210119)
+
+Re @Zenpaul2 有啊，里根号+战舰，据说就在那里长驻了。
+
+### 243: [2022-08-07 09:52:00+08:00 推文](https://twitter.com/HeQinglian/status/1556095782964674560)
+
+Re @HEFANG3 @david_david1968 法国、美国高看就行了，让LGBTQ人士担任驻各国大使、文化参赞，弘扬全球。
+
+### 244: [2022-08-07 09:56:26+08:00 推文](https://twitter.com/HeQinglian/status/1556096901396811777)
+
+Re @CqKDWLPh9Lbhm5Y @showtail401401 你还是看看韦伯等人谈从政、担任公职需要什么素质吧。不过，从你的话中我也了解到，当今全球之所以会出现这么多问题，就因为许多人当公职当作个人权益了。
+
+### 245: [2022-08-07 10:08:07+08:00 推文](https://twitter.com/HeQinglian/status/1556099840739794945)
+
+Re @JianglinLi 这已经不是秘密，只要不通过血液、唾沫等传染，就在他们圈内流行吧，放纵有代价。<br>说血液，是河南爱滋的教训；唾沫，是飞沫传染，都是殃及无辜的传播管道。
+
+### 246: [2022-08-07 10:23:10+08:00 推文](https://twitter.com/HeQinglian/status/1556103627269459970)
+
+Re @shichuangang 有逍遥派。<br>逍遥派是几类人：1、属于21种人的子弟，最开始受气挨整，但因家庭背景，造反、保皇都没资格；2、先积极参与，后来看透了，决定不参与；3、有种人天生对这类事情不感兴趣但出身好。<br>恢复高考后能够考上大学的主要是这类人。在大学里工作的教师，最早出成果的也是这类人。<br>三类人我都见过。
+
+### 247: [2022-08-07 10:27:00+08:00 推文](https://twitter.com/HeQinglian/status/1556104593687416832)
+
+Re @kkravisr @princeton_walk 🤣🤣
+

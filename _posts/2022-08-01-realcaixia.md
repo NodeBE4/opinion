@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 6: [2022-08-04 01:16:46+08:00 推文](https://twitter.com/realcaixia/status/1554878957094404097)
 
-习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video> <a href="https://twitter.com/rongjian1957/status/1554631395921711105" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1554631395921711105</a>
+习当局在佩洛西访台前竭尽恐吓威胁之能事，胡叼盘的“伴飞”“击落”叫的全世界都听见，赵“战狼”的“拭目以待”真吊足了粉红五毛的胃口。结果，佩洛西该去照去，分毫未被伤。<br>狠狠地被伤的是粉红五毛。当局昨天关闭微博等平台，又下指令防止大学生“出征”上街。现在，煽起来的这把火要反烧他们自己了。<br><br>荣剑: 赵哥和胡哥实在是对不起这位哥们。<br><br><video src="https://video.twimg.com/ext_tw_video/1554649389808754688/pu/vid/720x1068/--Gp7vaHCSsBvvW7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1554649389808754688/pu/img/Ah5aIWVOoBU5Rs86.jpg"></video>
 
 ### 7: [2022-08-04 01:36:20+08:00 推文](https://twitter.com/realcaixia/status/1554883881232465922)
 
@@ -70,4 +70,20 @@ Re @Clinton1357911 您认识高瑜吗？您认识老灯吗？拿风马牛不相�
 ### 14: [2022-08-07 05:00:47+08:00 推文](https://twitter.com/realcaixia/status/1556022496515727371)
 
 Re @Clinton1357911 你只根据这点就下判断结论？就这样武断的说别人有吹牛造谣嫌疑？若是我据你的话下结论说你有污黑攻击高瑜、污黑攻击老灯的嫌疑，你赞同吗？你说别人造谣吹牛，需要有足够证据。在政治局工作的话就能相信？中共当局谎言蒙骗人们几十年了，凭什么去相信中共政治局工作的人？
+
+### 15: [2022-08-07 07:53:23+08:00 推文](https://twitter.com/realcaixia/status/1556065932916756481)
+
+Re @Clinton1357911 我也去查过了，你请到高瑜推特上去看，高瑜列出了阎学通10天前接受采访的页面。我也把4年前的访谈视频看了，这两个视频谈的完全是两个问题。但是2个视频采访记者是同一个人。并且，阎学通教授身上这套“戏服”都是同一套。4年前的,2年前的，1年前的，10天前的，都是同一套西服。你可以自己去細緻地查詢。<br><img style="" src="https://pbs.twimg.com/media/FZhBt-5XgAAVaUA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhBt-5WQAAiE1n?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhBt-5WIAEiuTE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-08-07 07:55:05+08:00 推文](https://twitter.com/realcaixia/status/1556066363122253824)
+
+Re @Clinton1357911 我也去查过了，你请到高瑜推特上去看，高瑜列出了阎学通10天前接受采访的页面。我也把4年前的访谈视频看了，这两个视频谈的完全是两个问题。但是2个视频采访记者是同一个人。并且，阎学通教授身上这套“戏服”都是同一套。4年前的,2年前的，1年前的，10天前的，都是同一套西服。你可以自己去細緻地查詢。<br><img style="" src="https://pbs.twimg.com/media/FZhCHC_WQAE1mF_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhCHDBXwAMCIYw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhCHDGWYAEdJma?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-08-07 08:00:22+08:00 推文](https://twitter.com/realcaixia/status/1556067689348665345)
+
+Re @Clinton1357911 請看採訪記者4年前與4年後是同一個人，採訪記者的衣服也幾乎是同樣服裝，而閻學通西服就是同一套。但是，訪談內容完全不同。你可以自己去油管看4年前的訪談。實話說，我已經把這兩個訪談視頻都看完了，才發這組照片的。<br><img style="" src="https://pbs.twimg.com/media/FZhDUOwWYAAz1Ct?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhDUOtXEAIWTPd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhDUOvXEAEU4ls?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhDUOwXkAEQxLN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-08-07 08:06:12+08:00 推文](https://twitter.com/realcaixia/status/1556069160282738688)
+
+Re @Clinton1357911 不僅如此，我還尋找了閻學通教授2年前的採訪視頻，依舊穿的是同一套西服。這證明這套西服是閻學通教授接受採訪時的正裝“戏服”（西服）。仅凭穿的是同一套西服，就认为高瑜造谣，这个例子不成立吧！<br><img style="" src="https://pbs.twimg.com/media/FZhEp3AWAAA47yQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhEp2_XgAEPbg7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhEp3AXoAEUESD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZhEp3GWYAEs4xY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
