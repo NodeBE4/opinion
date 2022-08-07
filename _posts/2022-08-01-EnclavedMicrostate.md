@@ -125,23 +125,29 @@ Namie aka Namgoreng, Youtube handle banaNamie.
 
 More can of course be said, especially by someone who has read up on the Boxers in more detail more recently and can thus remember the details better, but as I note in passing in [this past answer](https://www.reddit.com/r/AskHistorians/comments/q9pvuv/why_did_the_qing_government_support_the_boxers/hgysbu9/), the siege of the Legations was primarily an effort of the Qing regular army overseen by Ronglu, who was an anti-Boxer with reformist sentiments and seems to have been reluctant to prosecute the siege to the fullest extent.
 
-### 672: [🎉Ceres Fauna🌿 celebrates 600,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/whdcgp/ceres_fauna_celebrates_600000_subscribers/), submitted on 2022-08-06 10:36:26+08:00.
+### 672: [What if the Chinese reached the New World first?](https://old.reddit.com/r/imaginarymaps/comments/wgelxf/what_if_the_chinese_reached_the_new_world_first/), submitted on 2022-08-05 06:46:13+08:00.
 
------ __672.1__ -----2022-08-06 12:22:58+08:00:
+----- __672.1__ -----2022-08-07 15:29:55+08:00:
+
+It's a little odd that the Qing are described as insurrectionists rather than invaders in the history section.
+
+### 673: [🎉Ceres Fauna🌿 celebrates 600,000 subscribers!🎉](https://old.reddit.com/r/Hololive/comments/whdcgp/ceres_fauna_celebrates_600000_subscribers/), submitted on 2022-08-06 10:36:26+08:00.
+
+----- __673.1__ -----2022-08-06 12:22:58+08:00:
 
 > Qilin
 
 Kirin technically, if we're going by the Japanese rendering.
 
-### 673: [No stopping Florida Man](https://old.reddit.com/r/dankmemes/comments/whj1x2/no_stopping_florida_man/), submitted on 2022-08-06 16:09:10+08:00.
+### 674: [No stopping Florida Man](https://old.reddit.com/r/dankmemes/comments/whj1x2/no_stopping_florida_man/), submitted on 2022-08-06 16:09:10+08:00.
 
------ __673.1__ -----2022-08-06 21:04:48+08:00:
+----- __674.1__ -----2022-08-06 21:04:48+08:00:
 
 Classic zero-shits expat behaviour.
 
-### 674: [How bad was opium addiction that it led to China's downfall?](https://old.reddit.com/r/AskHistorians/comments/whmngx/how_bad_was_opium_addiction_that_it_led_to_chinas/), submitted on 2022-08-06 19:59:00+08:00.
+### 675: [How bad was opium addiction that it led to China's downfall?](https://old.reddit.com/r/AskHistorians/comments/whmngx/how_bad_was_opium_addiction_that_it_led_to_chinas/), submitted on 2022-08-06 19:59:00+08:00.
 
------ __674.1__ -----2022-08-07 01:36:54+08:00:
+----- __675.1__ -----2022-08-07 01:36:54+08:00:
 
 As is often the case these days, I've discussed similar questions quite often, the answers to which are linked [here](https://www.reddit.com/r/AskHistorians/wiki/profiles/enclavedmicrostate#wiki_opium_wars_and_opium_in_china), but I felt it worth at least a brisk response tailored to this particular version thereof, especially as my own thoughts have evolved.
 
@@ -155,11 +161,11 @@ When we look at opium from a cultural standpoint, the situation becomes a little
 
 Assessing the actual quantity of opium users is, as noted, difficult, though it must be said that the situation is not as dire as a total lack of information, and having some kind of ballpark figure does help to contextualise claims about the economic and social effects of the drug. However, we run into the potential issue that the number may never have been that high. Estimates consistently seem to have put the number not much higher than about 1%: claims in the early 1830s circulated by and in response to moral crusaders like Huang Jueci put it at one in every hundred; Robert Hart in 1871 estimated it at below a third of one percent; Xue Fucheng in 1891 estimated there were 4 million users out of 400 million total population; and a 1935 survey suggested there were 3.73 million opium users out of a total national population of 479 million. For a modern comparison, a July 2019 Gallup poll saw 12% of Americans self-identifying as marijuana users. When we have that in mind, how much effect *would* 1% (at most) of the population consuming a particular narcotic have? Not nothing, certainly, but it's a small enough number to at least cause questions to be asked about whether the contemporary moral panic was ever proportionate to the actual material reality, detrimental as that may well have been.
 
------ __674.2__ -----2022-08-07 02:09:32+08:00:
+----- __675.2__ -----2022-08-07 02:09:32+08:00:
 
 It was concentrated wherever availability was high. During the early to mid 19th century this was ports and the coast, and to a lesser extent major cities where internal smuggling rings operated (but of course that would make prices higher thanks to the cost of transport and thus have less appeal to those less able to afford it), but as domestic production ramped up, any opium-growing locale was likely to have substantial local consumers of the product. There's an interesting set of figures produced by the European-run Peking Hospital in 1869 reproduced by Yangwen Zheng, estimating that field labourers in what it defined as 'cultivation provinces' were 40-60% users, compared to 4-6% for field labourers as a whole. How reliable these figures are, I'm not too sure (and to be honest, I feel like some are considerable overestimates or even bad maths), but they probably reflect more than just a kernel of truth when it comes to relative levels.
 
------ __674.3__ -----2022-08-07 02:48:16+08:00:
+----- __675.3__ -----2022-08-07 02:48:16+08:00:
 
 It would depend on what kind you were smoking and where: going by Zheng's reproductions of 1880s figures, one *qian* (or 'mace', about 3.8g) of Indian, Sichuan, or Yunnan opium would usually cost 8 copper cash in most cities, while one *qian* of opium from other provinces could be purchased for as low as 4; prices would vary, and not always with great consistency, with prices for Indian opium ranging from 4 to 12 cash per *qian* in Wenzhou and 12 to 18 in Canton. Contemporaneous reports put the 'daily toleration level' for an 'average' smoker at around 3 *qian* per day. Now, that would mean 12-24 copper cash per day to feed a habit, or 360-720 per month. According to Sidney Gamble's survey of wages for unskilled labourers in the 19th century, published in 1943, unskilled labourers might expect to earn 380 cash a month in the period 1860-1902, which means that at least on paper, an opium habit would be pretty unaffordable to an unskilled labourer even with all other costs of living disregarded. Yet we must square this against the apparently relatively common use of opium by 'coolie' labourers.
 
@@ -167,19 +173,19 @@ There may be a few explanations: one is that for some, addiction was severe enou
 
 If we approach it more qualitatively, the impression we get is that opium was often affordable *enough* to get into, but that those who got addicted and were unable to significantly moderate their consumption would find the costs multiplying substantially.
 
------ __674.4__ -----2022-08-07 03:16:44+08:00:
+----- __675.4__ -----2022-08-07 03:16:44+08:00:
 
 I honestly couldn't tell you, but a decent jumping-off point, at least for the 1830s-50s, would probably be found in the latter chapters of Man-Houng Lin's *China Upside Down*.
 
------ __674.5__ -----2022-08-07 10:23:10+08:00:
+----- __675.5__ -----2022-08-07 10:23:10+08:00:
 
 That's a factor I hadn't considered, but which would also be a very plausible reason for how consumption could persist despite the apparently high reported costs.
 
------ __674.6__ -----2022-08-07 10:27:31+08:00:
+----- __675.6__ -----2022-08-07 10:27:31+08:00:
 
 While 'chest' wasn't an exact measure, in general it corresponded to about 140 pounds or 64 kilograms. In terms of comparison with US heroin use, a cursory Google search notes that surveys done in 2013 and 2020 put the percentage of over-12s in the US who had used heroin in the last 12 months at 0.3%. So opium was definitely used on a larger scale in China than heroin is in the US, at least by the turn of the 20th century.
 
------ __674.7__ -----2022-08-07 10:37:29+08:00:
+----- __675.7__ -----2022-08-07 10:37:29+08:00:
 
 You've hit on yet another variation on the same problem already highlighted: it's not as though officials weren't already corrupt in the late 18th century, so how do we then discuss the effects of opium int the early 19th?
 
@@ -187,9 +193,15 @@ A thing to add is that while my superficial calculations put the cost quite high
 
 One thought that I hadn't had while writing the previous posts, but which does warrant some consideration, is that opium appears to have been consumed by men more than by women. I don't think that's a basis for saying that opium was thus more economically destructive than if patterns of consumption had been gender-agnostic, because women's labour was absolutely important part of household incomes and of macro-economic patterns, but I do think it may have contributed to the scale of the condemnation in what were essentially male-monopolised spaces.
 
------ __674.8__ -----2022-08-07 13:20:41+08:00:
+----- __675.8__ -----2022-08-07 13:20:41+08:00:
 
 I must confess, I really haven't kept up that well with new scholarship in the last three years or so, so if there's been something new and good I probably don't know of it. The problem with a lot of what I've read is everything has *some* kind of flaw to it. 
 
 Stephen Platt's *Imperial Twilight* is the most solid narratively and academically, but it also happens to only cover the lead-up to the First Opium War and that's it, which means it is also, unfortunately, the least relevant to someone looking to understand the actual periods of conflict. Julia Lovell's *The Opium War* is the... least bad, let's say... of all the options, but it's secretly a synthesis of mostly older and some newer scholarship, followed by a few original chapters on the Opium War's cultural memory which are well worth reading. One of her main sources, Mao Haijian's *Collapse of the Heavenly Dynasty*, is now available in English translation and offers a very good coverage of the Qing side, albeit one heavily framed around Chinese popular narratives which may mean its choices of emphasis may seem odd. James Polachek's *The Inner Opium War* is a rather difficult book to get one's hands on, but it's a valuable read on Qing domestic politics, albeit one with a somewhat outdated framing. There are essentially no good single volumes on the Arrow War, or Second Opium War. J. Y. Wong's *Deadly Dreams* is an interesting and detailed analysis of the lead-up to the war, but doesn't cover the war itself, while his biography of Ye Mingchen does cover the early part of the conflict but not its more climactic and infamous period in 1858-60. In effect, there are few good options and many bad ones, so I can at best give tentative recommendations for Platt's book (which is very good but probably not exactly what you're asking for) and Lovell's (which is the most relevant but sort of okay-decent at best).
+
+### 676: [What If? China (Taiwan) | Alternate History Of China](https://old.reddit.com/r/imaginarymaps/comments/whqhh6/what_if_china_taiwan_alternate_history_of_china/), submitted on 2022-08-06 23:07:51+08:00.
+
+----- __676.1__ -----2022-08-07 15:25:24+08:00:
+
+'Manuchia'?
 

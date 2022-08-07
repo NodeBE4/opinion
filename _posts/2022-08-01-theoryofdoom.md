@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-08-01
+date: 2022-08-07
 from: https://old.reddit.com/r/books/comments/wdhr85/the_secret_history_by_donna_tartt/
 layout: post
 tags:
@@ -44,4 +44,20 @@ So I did.  And I hated Holden even more.
 ----- __350.5__ -----2022-08-02 12:10:18+08:00:
 
 Totally agree.  And David Mitchell is an infinitely more talented author than J.D. Salinger.
+
+### 351: [What is your favorite nonfiction book or essay collection mainly because of their mastery of the language and the quality of its prose (its eloquence, rhythms, vocabulary choice)?](https://old.reddit.com/r/books/comments/wi0cj7/what_is_your_favorite_nonfiction_book_or_essay/), submitted on 2022-08-07 06:42:35+08:00.
+
+----- __351.1__ -----2022-08-07 15:04:53+08:00:
+
+> DFW is the obvious answer.
+
+It is actually surprising to me that I had to scroll down this far to find what I came here to post.  I almost wonder if the current generation knows who he was and why he mattered.
+
+The way DFW used the english language approximates perfection.
+
+### 352: [Former CIA Operative Enrique 'Ric' Prado Writing Memoir](https://old.reddit.com/r/politicalwarfare/comments/wi9lgr/former_cia_operative_enrique_ric_prado_writing/), submitted on 2022-08-07 15:09:10+08:00.
+
+----- __352.1__ -----2022-08-07 15:09:30+08:00:
+
+Buy this Book: https://www.amazon.com/Black-Ops-Life-Shadow-Warrior/dp/1250271843/ref=pd_lpo_2?pd_rd_i=1250271843&psc=1
 
