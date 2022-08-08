@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-08-08~2022-08-14'
 
 Hainan man Cai, who said in an online video that local police assisted the government to forcefully acquire private property of local farmers, detained for 7 days for "slandering police with false info".<br><img style="" src="https://pbs.twimg.com/media/FZkZgXaXkAEkfmk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-08-08 14:51:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1556533416748654593)
+
+河南省商丘市男子胡某（中共党员、事业单位人员），因在微信群内多次“攻击、辱骂国家领导人”，于2018年底被刑事拘留。在胡某被刑拘四个多月后，当地检方认为其犯罪情节轻微，决定不予起诉。<br><img style="" src="https://pbs.twimg.com/media/FZkc_F9XwAAUkN_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-08-08 14:54:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1556534171643744257)
+
+Henan man Hu, a CCP member and likely an SOE employee, arrested in 2018 for "attacking and cursed state leaders" in WeChat. The case was dropped a few months later for the prosecutor found his offense was too mild to constitute a criminal act.<br><img style="" src="https://pbs.twimg.com/media/FZkdj7lXwAAM9FL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
