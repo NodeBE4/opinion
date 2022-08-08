@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-04-11~2022-04-17'
 
 ### 1: [2022-04-11 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1513198753209065473)
 
-当局是大规模传播病毒感染的制造者。<br><br>鲁  难: 按照广州测核酸的这个模式来推测，距离封城应该不远了。<br>测核酸就说明知道有潜在的病毒携带者。<br>然后把人们聚在一起测核酸，创造一个集体感染、让疾病集中爆发的环境条件，这是抗疫还是在传播疫情？<br><br><video src="https://video.twimg.com/ext_tw_video/1513170686134697985/pu/vid/720x1146/FHPTK1I1OIEPxWAO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513170686134697985/pu/img/yjgXNGA6Ixu7xf1E.jpg"></video>
+当局是大规模传播病毒感染的制造者。
 
 ### 2: [2022-04-11 01:03:19+08:00 推文](https://twitter.com/realcaixia/status/1513200970234224641)
 
@@ -25,7 +25,7 @@ Re @Jam79922967 @lianchaohan 这类长冷兵器不是城管混混儿能有的，
 
 ### 3: [2022-04-11 01:13:39+08:00 推文](https://twitter.com/realcaixia/status/1513203569540882442)
 
-这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！<br><br>Jam: 今日上海，我为上海哭泣。上帝啊，你一定也看到了，为什么你无动于衷呢？该出手了，是时候了。<br><br><video src="https://video.twimg.com/ext_tw_video/1513180381436157959/pu/vid/720x1280/5qe_KowCgMbPf5uy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513180381436157959/pu/img/4zfVb1Ljm9SQGGnk.jpg"></video>
+这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！
 
 ### 4: [2022-04-11 01:25:56+08:00 推文](https://twitter.com/realcaixia/status/1513206661049114626)
 
@@ -149,11 +149,11 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
+强力推荐：
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
-2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播
+2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播<br><br>《议报》: 王维洛: 郑州水灾真相难以掩盖（七）<br> <a href="https://yibaochina.com/?p=245968" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245968</a>
 
 ### 36: [2022-04-15 22:19:35+08:00 推文](https://twitter.com/realcaixia/status/1514971703604125697)
 
@@ -161,11 +161,11 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 37: [2022-04-16 03:34:21+08:00 推文](https://twitter.com/realcaixia/status/1515050916776398862)
 
-好消息！
+好消息！<br><br>韩连潮: 美国国防部一位高级官员周五证实，周四在火灾中受损的俄罗斯导弹巡洋舰被两枚海王星导弹击中并最终沉没，<br>俄方可能有人员伤亡。<br><br><img style="" src="https://pbs.twimg.com/media/FQaIbWnXwAEuhI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -197,7 +197,7 @@ Re @lianchaohan 我昨夜看到这个链接，当时链接数116，现在链接�
 
 ### 46: [2022-04-16 21:18:09+08:00 推文](https://twitter.com/realcaixia/status/1515318630229196800)
 
-我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏
+我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 47: [2022-04-16 21:33:12+08:00 推文](https://twitter.com/realcaixia/status/1515322418616799240)
 
@@ -249,7 +249,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
