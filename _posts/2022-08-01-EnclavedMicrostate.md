@@ -221,3 +221,9 @@ So for example, if you wanted to ask, "*Have people always rebelled against heal
 
 That said, I do believe I have the answer to this question (which I will happily also repost if the question is), that being that the official Mandarin name of the Communist Party of China is 中国共产党 *Zhonghua Gongchan Dang*, which, if translated in that order, would be 'Chinese Communist Party'. In this case, 'of China' and 'Chinese' are both being used with the same intended meaning, but the official translation used by the CCP/CPC differs from the more literal, but equally valid, colloquial translation.
 
+### 678: [[Hobby Scuffles] Week of August 8, 2022](https://old.reddit.com/r/HobbyDrama/comments/wihowq/hobby_scuffles_week_of_august_8_2022/), submitted on 2022-08-07 23:00:13+08:00.
+
+----- __678.1__ -----2022-08-08 09:56:32+08:00:
+
+I remember it being played by several Hololive members shortly after coming out - funnily enough, it was one of the games played by time-themed member Ouro Kronii during her debut week. It may not have been a great game to play, but I won’t lie, it was fun watching people play it.
+
