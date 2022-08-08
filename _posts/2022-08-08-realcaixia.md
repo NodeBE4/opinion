@@ -39,3 +39,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FZqDuA_XgAEsXvY?format=jpg
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FZqEPlIX0AQkECb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-08-09 04:41:10+08:00 推文](https://twitter.com/realcaixia/status/1556742337623199746)
+
+不管是不是蔡英文说的，道理就是那么个道理。<br><br>苗也: 转帖图：两岸关系不是国共两党<br><br><img style="" src="https://pbs.twimg.com/media/FZnX-Y_WQAA4s4W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
