@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-08
+date: 2022-08-09
 from: https://twitter.com/HeQinglian/status/1556375294143041543
 layout: post
 tags:
@@ -34,4 +34,24 @@ Re @TsangWaiYin5 脱离翁媳关系的前提是婚姻不成立了，只要婚姻
 ### 5: [2022-08-08 23:18:31+08:00 推文](https://twitter.com/HeQinglian/status/1556661138246475777)
 
 Re @FranzMendelsso1 本来就是“战略模糊”，当然不用清楚解释。
+
+### 6: [2022-08-09 03:58:49+08:00 推文](https://twitter.com/HeQinglian/status/1556731678743298052)
+
+台海变局不期而至 美国从"装甲兵"变"保护人"<br><br>美国军方去年拟定“豪猪战略”：由美国负责提供武器与相应的军事装备，让台湾积累足够的装备，让台湾在2027年有能力摧毁中国的海军，使中国面对台湾这头豪猪难以下口，放弃侵台。<br>佩洛西访台，让美国由原来设定的装甲兵，变成保护人 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-08082022140100.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-08082022140100.html</a>
+
+### 7: [2022-08-09 04:27:56+08:00 推文](https://twitter.com/HeQinglian/status/1556739006334902272)
+
+Re @mingshi_chen 不能这样说。台湾的安全，毕竟需要依靠自己。武装自身，也是一种抵抗决心的展示。没有大国愿意保护一个完全没有自保意识的小国。
+
+### 8: [2022-08-09 04:52:47+08:00 推文](https://twitter.com/HeQinglian/status/1556745261417889794)
+
+Re @Elizabe47883246 @mingshi_chen 能否请两位解释一下，美国军方制定这个策略，如果帮不到台湾，连你们俩能够想到的，他们都想不到，这世界还需要专业军事专家干什么？
+
+### 9: [2022-08-09 05:28:23+08:00 推文](https://twitter.com/HeQinglian/status/1556754218727374853)
+
+Re @Elizabe47883246 @mingshi_chen 1271年—1368年，以后流传“胡人不过百年运”，这个安慰贯串清朝二百几十年。
+
+### 10: [2022-08-09 05:38:29+08:00 推文](https://twitter.com/HeQinglian/status/1556756760777691136)
+
+Re @shenliangqing2 供参考。国家脉搏透露，去年UN气候峰会召开期间，一个与中共有联系的外国影响力团体赞助了一场气候变化会议，旨在动员美国的青年倡导者。<br>中国是太阳能、风能设备的最大生产国。<br><br>J Michael Waller: The Chinese Communist Party is Behind a U.S. 'Climate Change' Activism Conference.<br> <a href="https://thenationalpulse.com/2021/10/14/ccp-influence-group-sponsors-climate-change-conference/" target="_blank" rel="noopener noreferrer">https://thenationalpulse.com/2021/10/14/ccp-influence-group-sponsors-climate-change-conference/</a>
 
