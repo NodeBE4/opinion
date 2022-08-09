@@ -55,3 +55,11 @@ Re @Elizabe47883246 @mingshi_chen 1271年—1368年，以后流传“胡人不�
 
 Re @shenliangqing2 供参考。国家脉搏透露，去年UN气候峰会召开期间，一个与中共有联系的外国影响力团体赞助了一场气候变化会议，旨在动员美国的青年倡导者。<br>中国是太阳能、风能设备的最大生产国。<br><br>J Michael Waller: The Chinese Communist Party is Behind a U.S. 'Climate Change' Activism Conference.<br> <a href="https://thenationalpulse.com/2021/10/14/ccp-influence-group-sponsors-climate-change-conference/" target="_blank" rel="noopener noreferrer">https://thenationalpulse.com/2021/10/14/ccp-influence-group-sponsors-climate-change-conference/</a>
 
+### 11: [2022-08-09 05:51:07+08:00 推文](https://twitter.com/HeQinglian/status/1556759939347095553)
+
+1970年代巴西、墨西哥地下经济极为猖狂时也增加税收人员，成为当时美国的笑料。<br>但美国情况不一样，通胀的原因不在于美国国民逃税，在于拜登政府胡乱加大开支（开放边境补贴非移、加大福利支出），全球四处拱火，两大两小敌人结成统一战线，外援上千亿地支出。<br><br>北美保守评论🇺🇸🇨🇦: 《【震惊】民主党的"抗通胀法案"将新增近9万税务专员，全面加税，唯独不抗通胀 -- Ted Cruz 警告》<br> <a href="https://rumble.com/v1f64el-9-ted-cruz-.html" target="_blank" rel="noopener noreferrer">https://rumble.com/v1f64el-9-ted-cruz-.html</a>
+
+### 12: [2022-08-09 10:35:58+08:00 推文](https://twitter.com/HeQinglian/status/1556831626344243207)
+
+Re @Vince6610 中小商业。
+
