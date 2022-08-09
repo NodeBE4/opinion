@@ -37,7 +37,7 @@ Re @Bforge3 @Wu_Zhi 开会嘛，就是开会。
 
 ### 6: [2022-07-11 08:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1546296130752987136)
 
-这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。
+这位外长在不正确的时间说不正确的话。<br>据日本共同社报道，在10日举行的日本参议院选举中，包括非改选席位在内，对修宪持积极态度的自民党、公明党、日本维新会、国民民主党等的参议院议席已达到166席，已确保维持提议修宪所需的三分之二以上议席。<br>安倍虽然被刺杀，但他的修宪主张终于成功。<br><br>DW 中文- 德国之声: 在出席完G20外长会议后，德国外长贝尔伯克取道帕劳前往日本。在长崎，贝尔伯克呼吁全球各国放弃核武器。<br> <a href="https://p.dw.com/p/4DvdG" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DvdG</a>
 
 ### 7: [2022-07-11 10:54:40+08:00 推文](https://twitter.com/HeQinglian/status/1546327081554001920)
 
@@ -65,11 +65,11 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
-经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。 <a href="https://zh.weatherspark.com/countries/DE" target="_blank" rel="noopener noreferrer">https://zh.weatherspark.com/countries/DE</a>
+经查：德国气候温和，在一年中，气温通常在-2°C到25°C之间变化，极少低于-10°C或高于31°C ...<br><br>比中国南部的天气好得多，中国南部城市，也就少部分人近年冬天安装了电暖气。<br>煤球炉可以取暖，打开一扇窗户通气，烧热水。<br><br>DW 中文- 德国之声: 今天开始，北溪1号管线进入十多天的维修季，停止供气。如果之后俄罗斯不恢复供气，不仅德国老百姓将挨冻，德国经济可能萎缩12%。<br><br>这些天来，许多租户收到房主的通知，柏林一家大型出租房产公司告诉租客，今后油气取暖费至少翻倍。<br> <a href="https://p.dw.com/p/4DxFD" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DxFD</a>
 
 ### 15: [2022-07-11 21:43:55+08:00 推文](https://twitter.com/HeQinglian/status/1546490470557270019)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -349,7 +349,7 @@ Re @NAConservative9 希望各位对我这条推文留言补充，看看我遗漏
 
 ### 84: [2022-07-14 04:58:24+08:00 推文](https://twitter.com/HeQinglian/status/1547324590661242883)
 
-是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。<br><br>北美保守评论🇺🇸🇨🇦: 《我们是否正面临着另一场内战？》<br><br>左派一直在为战争作准备：在军队中安插各种“觉醒派”人员，包括LGBTQ等，显然是削弱军队的战斗力，却是对付国内保守派的有效措施。近一、二十年来的“控枪”努力，也使百姓拥枪变得更加困难。多年对孩子的洗脑，使多数青年无常识地支持左派。<br><br><img style="" src="https://pbs.twimg.com/media/FXkYJ5pX0Acld05?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/07/13/are-we-looking-at-another-civil-war/</a>
+是否会有内战，我不知道。但此推所讲，全是事实。<br>一看到觉醒派们痛哭流涕讲述白人对黑人的罪恶与压迫，那比中国斗地主还过去一千公里。<br>控诉地主阶级的罪恶主要是土改积极分子（极少真正的贫下中农、多为流氓地痞），美国多是白左，尤其是女士。
 
 ### 85: [2022-07-14 05:04:42+08:00 推文](https://twitter.com/HeQinglian/status/1547326173239189505)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -373,7 +373,7 @@ Re @mayuki753 @NAConservative9 对。还有一点未兑现：说了给黑人奴�
 
 ### 90: [2022-07-14 08:07:07+08:00 推文](https://twitter.com/HeQinglian/status/1547372081888874497)
 
-左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。
+左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。<br><br>He Qinglian: @NAConservative9 平心而论，那位黑人说拜登骗了他，我觉得没有。<br>除了免除学生贷款，拜登实现了大部分竞选承诺：让8岁小孩自主变性、实施绿色能源政策（关闭页岩油开采）、提高LGBTQI权利、开放边境欢迎移民、增加对底层的福利、花钱搞基建、增加某收入线上的人的税收<br>当然他没说要通胀。但上述措施都要花钱，势必通胀<br>
 
 ### 91: [2022-07-14 08:08:38+08:00 推文](https://twitter.com/HeQinglian/status/1547372461217484800)
 

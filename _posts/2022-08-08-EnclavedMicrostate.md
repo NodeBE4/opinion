@@ -75,3 +75,7 @@ Hello and thanks for coming on! I'll try to make this a question rather than a s
 
 In the admittedly somewhat cursory reading I've done on the Red Flag pirates of early 19th century China, a theme that seems to have emerged is that the role of Ching Shih (also known by other names) in the fleet was deliberately exaggerated by elite male Qing authors to emphasise the pirates' deviation from orthodox social norms. How did gender affect how female pirates were written about compared to their male counterparts? I suppose a necessary corollary to that is, *who* wrote about pirates? How strongly do women's voices feature in the source landscape?
 
+----- __685.2__ -----2022-08-10 00:09:45+08:00:
+
+Thank you!
+
