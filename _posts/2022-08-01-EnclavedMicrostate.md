@@ -239,3 +239,7 @@ Ah yes, the 'vomity dwarves' problem [(context here)](https://www.reddit.com/r/H
 
 I tend to be interested in most things that aren't sports, but there are some which are mostly about sciencey nerding out which just doesn't appeal either. For obvious reasons I will read anything VTubery, assuming I didn't write it to begin with.
 
+----- __678.4__ -----2022-08-10 02:37:35+08:00:
+
+The only thing I know about the Magnus Archives is that it gummed up my IFTTT feed because they tripped an applet I had set up to check for the word 'Taiping'. I have no idea if the Taiping Heavenly Kingdom was part of it because I never cared enough to even ctrl-F to find where the word popped up, but that's how I heard of it.
+

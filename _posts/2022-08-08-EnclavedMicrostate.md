@@ -79,3 +79,11 @@ In the admittedly somewhat cursory reading I've done on the Red Flag pirates of 
 
 Thank you!
 
+### 686: [I've gotten fascinated with the Three Kingdoms period of China. What books about the topic are worth reading?](https://old.reddit.com/r/AskHistorians/comments/wk6zj1/ive_gotten_fascinated_with_the_three_kingdoms/), submitted on 2022-08-09 23:59:03+08:00.
+
+----- __686.1__ -----2022-08-10 02:30:27+08:00:
+
+Unfortunately, the academically solid material is, in some instances, rather inaccessible. However, while much of Rafe de Crespigny's oeuvre is, as you have discovered, extremely pricey in print copy, the Australian National University has graciously made almost all of his key works available as free PDFs through its Open Research Repository:
+
+https://openresearch-repository.anu.edu.au/browse?type=author&authority=907b8620-2109-49aa-93b6-6e3f3a72b2c2
+
