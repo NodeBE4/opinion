@@ -67,3 +67,11 @@ Hans van de Ven's *China at War* is relatively recent and probably the best mili
 
 To be fair, he does not cover policy as much. For that, and for a more in-depth set of nuts-and-bolts discussions, you'll want Peattie and Drea's edited volume *The Battle for China*, which consists of a series of articles discussing various elements of the Nationalist and Japanese war efforts at various levels.
 
+### 685: [AMA: Female Pirates](https://old.reddit.com/r/AskHistorians/comments/wk2yfu/ama_female_pirates/), submitted on 2022-08-09 21:11:10+08:00.
+
+----- __685.1__ -----2022-08-09 21:38:01+08:00:
+
+Hello and thanks for coming on! I'll try to make this a question rather than a statement.
+
+In the admittedly somewhat cursory reading I've done on the Red Flag pirates of early 19th century China, a theme that seems to have emerged is that the role of Ching Shih (also known by other names) in the fleet was deliberately exaggerated by elite male Qing authors to emphasise the pirates' deviation from orthodox social norms. How did gender affect how female pirates were written about compared to their male counterparts? I suppose a necessary corollary to that is, *who* wrote about pirates? How strongly do women's voices feature in the source landscape?
+
