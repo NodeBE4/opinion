@@ -83,15 +83,23 @@ To be fair, he does not cover policy as much. For that, and for a more in-depth 
 
 ----- __685.1__ -----2022-08-10 03:31:07+08:00:
 
-Unluckily for you, the signs are in Cantonese (both the lexicon and the rhyme scheme give that away), and not directly translated across the two languages. 
+Unluckily for you, the signs are in Cantonese rather than Mandarin (both the lexicon and the rhyme scheme give that away). Also unluckily, the phrases are not translations of each other, but rather phrases with similar (intended) meaning. Fortunately for you, I do speak Cantonese, and am willing to at least claim to be your friend for the purposes of translating.
 
-'You are my love my angle don't treat me like potato' originally would have meant, idiomatically, 'I treat you like a jewel, don't treat me like swamp grass'.
+'You are my love my angle don't treat me like potato' originally would have meant, idiomatically, 'I treat you like a jewel, don't treat me like swamp grass'. So, no potatoes here.
 
-'You talk like angel walk like model but your body look like buffalo' originally would have been 'looking from a distance you are picturesque, looking up close you're a pork chop'. This requires a couple of explanations. The phrase in the first clause meaning 'picturesque' is actually miswritten as 如絲如畫 'like silk, like artwork' instead of the standard 如詩如畫 'like poetry, like artwork'; this is, by the by, another giveaway that it's Cantonese because both 絲 and 詩 are *si1* in Cantonese, but *si1* and *shi1* respectively in Mandarin. The term 'pork chop' is also Cantonese slang for an unattractive woman.
+'You talk like angel walk like model but your body look like buffalo' originally would have been 'looking from a distance you are picturesque, looking up close you're a pork chop'. This requires a couple of explanations. The phrase in the first clause meaning 'picturesque' is actually miswritten as 如絲如畫 'like silk, like artwork' instead of the standard 如詩如畫 'like poetry, like artwork'; this is, by the by, another giveaway that it's Cantonese because both 絲 and 詩 are *si1* in Cantonese, but *si1* and *shi1* respectively in Mandarin. The term 'pork chop' is Cantonese slang for an unattractive woman.
 
-You can actually find the full sign for the rambo phrase here: https://preview.redd.it/fk8q423um1l21.jpg?auto=webp&s=cc1a8b6d447add7cbbb26d31cb3366a83855f4b7. Idiomatically, the Cantonese would be along the lines of 'your head is big but you have no brain; your brain is just a big pile of grass'.
+You can actually find the full sign for the rambo phrase here: https://preview.redd.it/fk8q423um1l21.jpg?auto=webp&s=cc1a8b6d447add7cbbb26d31cb3366a83855f4b7. Idiomatically, the Cantonese would be along the lines of 'your head is big but you have no brain; your brain is just a big pile of grass'. No potatoes here either.
 
 Cantonese (at least HK Cantonese, other varieties may be different) for 'potato' is 薯仔 *syu4 zai2*.
+
+----- __685.2__ -----2022-08-10 03:39:37+08:00:
+
+It depends how you speak it, and whether you do so as your first language. In the case of Hong Kong Cantonese speakers, there are certain distinctions in tone and emphasis from American/Commonwealth English speakers. In particular, there tends to be one syllable that gets pitched up and held, but never the final one, which is always a bit de-emphasised and so sound differences are not as obvious. So for instance *a-n*gel, po*ta-*to, *mo-*del, *buff-*alo. Secondly, Cantonese doesn't have a final 'l' sound, so it is often replaced by simply holding the vowel. What that means is 'angel' ends up sounding like 'ain-jo', which would rhyme with 'potato', and similarly 'model' becomes 'mod-oh', which would rhyme with 'buffalo'.
+
+So no, they don't rhyme in 'standard' British, Canadian, Australian, New Zealand, or American English, but they do rhyme in strongly Cantonese-accented English.
+
+cc /u/Grammophon and /u/Such-Wrongdoer-2198
 
 ### 686: [AMA: Female Pirates](https://old.reddit.com/r/AskHistorians/comments/wk2yfu/ama_female_pirates/), submitted on 2022-08-09 21:11:10+08:00.
 
@@ -104,6 +112,10 @@ In the admittedly somewhat cursory reading I've done on the Red Flag pirates of 
 ----- __686.2__ -----2022-08-10 00:09:45+08:00:
 
 Thank you!
+
+----- __686.3__ -----2022-08-10 03:50:31+08:00:
+
+Now that you mention it, I honestly cannot remember at this point; as noted it's not really my subfield at all and it has been a long time since I did that reading. It *might* have been Murray but to be honest, it might even have been an older post on AH by a user whose name I have long since forgotten. It's worth noting by the by that 'Zheng Yi Sao' is in fact 'wife of Zheng Yi', so 'Ching I's widow' is in fact the same term, just not using Pinyin Romanisation.
 
 ### 687: [I've gotten fascinated with the Three Kingdoms period of China. What books about the topic are worth reading?](https://old.reddit.com/r/AskHistorians/comments/wk6zj1/ive_gotten_fascinated_with_the_three_kingdoms/), submitted on 2022-08-09 23:59:03+08:00.
 
