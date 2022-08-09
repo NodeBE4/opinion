@@ -205,6 +205,10 @@ I didn't cite these figures primarily because they were not to hand. Indeed, I h
 
 I'd also caution against simply multiplying the population figure by 4 to get the number of adult male smokers and also to use that figure to measure the effect on the economy and society: for one there were plenty of women who smoked opium, even if fewer than men by a significant margin; for another, women also contributed to the economy and were no less part of wider society.
 
+----- __675.10__ -----2022-08-09 10:57:32+08:00:
+
+In effect, I am very sceptical of modern non-Chinese writers somehow devising higher estimates than even the most alarmist of contemporaneous Chinese commentators. There may be any number of ways these figures might have come about: dividing total import numbers by some arbitrary figure for average annual consumption might give wildly varying numbers depending on what that assumed annual consumption figure is, for instance. The other thing is that during the war itself, quite obviously the British would be encountering larger numbers of smokers because they operated exclusively next to major bodies of water (the sea and the Yangtze) which were of course the routes by which opium entered the country to begin with. If these sources were obtained by extrapolation from local contexts, that might also explain a lot. After all, if you go by consumption figures in Guangdong and extrapolate to the empire, you will get a considerable overestimate, whereas if you go by consumption figures in, say, Henan, and extrapolate that, you will get a considerable *under* estimate.
+
 ### 676: [What If? China (Taiwan) | Alternate History Of China](https://old.reddit.com/r/imaginarymaps/comments/whqhh6/what_if_china_taiwan_alternate_history_of_china/), submitted on 2022-08-06 23:07:51+08:00.
 
 ----- __676.1__ -----2022-08-07 15:25:24+08:00:
@@ -226,4 +230,12 @@ That said, I do believe I have the answer to this question (which I will happily
 ----- __678.1__ -----2022-08-08 09:56:32+08:00:
 
 I remember it being played by several Hololive members shortly after coming out - funnily enough, it was one of the games played by time-themed member Ouro Kronii during her debut week. It may not have been a great game to play, but I won’t lie, it was fun watching people play it.
+
+----- __678.2__ -----2022-08-09 11:44:58+08:00:
+
+Ah yes, the 'vomity dwarves' problem [(context here)](https://www.reddit.com/r/HobbyDrama/comments/vcu34h/tabletop_wargaming_4ground_fades_into_the/).
+
+----- __678.3__ -----2022-08-09 11:47:59+08:00:
+
+I tend to be interested in most things that aren't sports, but there are some which are mostly about sciencey nerding out which just doesn't appeal either. For obvious reasons I will read anything VTubery, assuming I didn't write it to begin with.
 
