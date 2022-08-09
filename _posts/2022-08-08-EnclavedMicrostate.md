@@ -51,6 +51,18 @@ I'm half-wondering if there's something else at work with the actual user – th
 
 Either for being lifeless or for smelling, which uh... would this not be true of literally any other concert experience? Unless of course they were allegedly singling out the mostly-white audience which we know it was because this was a concert that took place in Japan in July 2022 which is of course when you would naturally expect many white people to be there.
 
+----- __682.5__ -----2022-08-10 02:52:43+08:00:
+
+> a project from another company to try and ride the popularity of kizuna ai
+
+As the others have noted, that company was Cover. Miko has said she was directly scouted by Yagoo.
+
+----- __682.6__ -----2022-08-10 02:58:20+08:00:
+
+> I believe the first holo tuber model
+
+Pretty much. kuromaru made the first concept images for Roboco in 2013 and the model was finished in late May 2016, with the first animations around late 2017 if I'm not mistaken.
+
 ### 683: [Based Fauna](https://old.reddit.com/r/Hololive/comments/wjgtp5/based_fauna/), submitted on 2022-08-09 02:51:08+08:00.
 
 ----- __683.1__ -----2022-08-09 11:56:09+08:00:
@@ -67,21 +79,35 @@ Hans van de Ven's *China at War* is relatively recent and probably the best mili
 
 To be fair, he does not cover policy as much. For that, and for a more in-depth set of nuts-and-bolts discussions, you'll want Peattie and Drea's edited volume *The Battle for China*, which consists of a series of articles discussing various elements of the Nationalist and Japanese war efforts at various levels.
 
-### 685: [AMA: Female Pirates](https://old.reddit.com/r/AskHistorians/comments/wk2yfu/ama_female_pirates/), submitted on 2022-08-09 21:11:10+08:00.
+### 685: [me irl](https://old.reddit.com/r/me_irl/comments/wk28bv/me_irl/), submitted on 2022-08-09 20:37:18+08:00.
 
------ __685.1__ -----2022-08-09 21:38:01+08:00:
+----- __685.1__ -----2022-08-10 03:31:07+08:00:
+
+Unluckily for you, the signs are in Cantonese (both the lexicon and the rhyme scheme give that away), and not directly translated across the two languages. 
+
+'You are my love my angle don't treat me like potato' originally would have meant, idiomatically, 'I treat you like a jewel, don't treat me like swamp grass'.
+
+'You talk like angel walk like model but your body look like buffalo' originally would have been 'looking from a distance you are picturesque, looking up close you're a pork chop'. This requires a couple of explanations. The phrase in the first clause meaning 'picturesque' is actually miswritten as 如絲如畫 'like silk, like artwork' instead of the standard 如詩如畫 'like poetry, like artwork'; this is, by the by, another giveaway that it's Cantonese because both 絲 and 詩 are *si1* in Cantonese, but *si1* and *shi1* respectively in Mandarin. The term 'pork chop' is also Cantonese slang for an unattractive woman.
+
+You can actually find the full sign for the rambo phrase here: https://preview.redd.it/fk8q423um1l21.jpg?auto=webp&s=cc1a8b6d447add7cbbb26d31cb3366a83855f4b7. Idiomatically, the Cantonese would be along the lines of 'your head is big but you have no brain; your brain is just a big pile of grass'.
+
+Cantonese (at least HK Cantonese, other varieties may be different) for 'potato' is 薯仔 *syu4 zai2*.
+
+### 686: [AMA: Female Pirates](https://old.reddit.com/r/AskHistorians/comments/wk2yfu/ama_female_pirates/), submitted on 2022-08-09 21:11:10+08:00.
+
+----- __686.1__ -----2022-08-09 21:38:01+08:00:
 
 Hello and thanks for coming on! I'll try to make this a question rather than a statement.
 
 In the admittedly somewhat cursory reading I've done on the Red Flag pirates of early 19th century China, a theme that seems to have emerged is that the role of Ching Shih (also known by other names) in the fleet was deliberately exaggerated by elite male Qing authors to emphasise the pirates' deviation from orthodox social norms. How did gender affect how female pirates were written about compared to their male counterparts? I suppose a necessary corollary to that is, *who* wrote about pirates? How strongly do women's voices feature in the source landscape?
 
------ __685.2__ -----2022-08-10 00:09:45+08:00:
+----- __686.2__ -----2022-08-10 00:09:45+08:00:
 
 Thank you!
 
-### 686: [I've gotten fascinated with the Three Kingdoms period of China. What books about the topic are worth reading?](https://old.reddit.com/r/AskHistorians/comments/wk6zj1/ive_gotten_fascinated_with_the_three_kingdoms/), submitted on 2022-08-09 23:59:03+08:00.
+### 687: [I've gotten fascinated with the Three Kingdoms period of China. What books about the topic are worth reading?](https://old.reddit.com/r/AskHistorians/comments/wk6zj1/ive_gotten_fascinated_with_the_three_kingdoms/), submitted on 2022-08-09 23:59:03+08:00.
 
------ __686.1__ -----2022-08-10 02:30:27+08:00:
+----- __687.1__ -----2022-08-10 02:30:27+08:00:
 
 Unfortunately, the academically solid material is, in some instances, rather inaccessible. However, while much of Rafe de Crespigny's oeuvre is, as you have discovered, extremely pricey in print copy, the Australian National University has graciously made almost all of his key works available as free PDFs through its Open Research Repository:
 
