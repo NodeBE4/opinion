@@ -63,3 +63,15 @@ Re @shenliangqing2 供参考。国家脉搏透露，去年UN气候峰会召开�
 
 Re @Vince6610 中小商业。
 
+### 13: [2022-08-09 13:25:13+08:00 推文](https://twitter.com/NAConservative9/status/1556874217261600769)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《FBI对川普总统突袭抄家的理由：纯属第三世界的胡说八道》<br><br>这是一种可怕的耻辱，我们不是住在古巴，我们不是住在金正恩的手下，我们生活在一个宪政共和国，却有一群联邦调查局特工，突袭一位前总统的家，因为他们不喜欢他的政治主张！<br><br>油管：<br>（谢谢你的订阅） <a href="https://youtu.be/uzPb2shVkvg" target="_blank" rel="noopener noreferrer">https://youtu.be/uzPb2shVkvg</a>
+
+### 14: [2022-08-09 18:27:54+08:00 推文](https://twitter.com/HeQinglian/status/1556950391593500672)
+
+Re @zhixiangziyou 忍忍吧，这几天连晚上最低温度者是77度。<br>过了今天，就会好转。
+
+### 15: [2022-08-09 18:41:55+08:00 推文](https://twitter.com/HeQinglian/status/1556953919959482372)
+
+Re @pandatress1 五角大楼：自乌克兰战争爆发以来，有近8万名俄罗斯士兵伤亡 <br>仔细读数字。主要是乌克兰的伤亡数字没公布，还净增数万兵力——莫非从北约借了十万兵？<br>原文：“乌克兰军队在2月24日战争开始时拥有17万现役士兵和10万预备役军人，现在已经得到增援，士兵人数达到30万至35万。” <a href="https://rfi.my/8e7K.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8e7K.T</a>
+
