@@ -91,3 +91,15 @@ Re @wmorries1 @NAConservative9 你太缺乏相关知识了。<br>与中国人无
 
 Re @seadognw 同病相怜，想想他本人是如何结束政治生涯的。
 
+### 20: [2022-08-10 06:19:24+08:00 推文](https://twitter.com/fading_you1/status/1557129446154444804)
+
+RT 天降伟人包由检<br>你看，你的民主女神还是两头通吃既要又要。去趟台湾就被一帮傻小子封神。接着热乎劲儿把老川收拾一下，你不好意思说啥吧？她老公再买啥股票，你别叽歪跟着买行不？中期选举多投民主党，这不啥都有了嘛<br><br>Breaking911: PELOSI: “China is one of the freest societies in the world.”<br><br><video src="https://video.twimg.com/ext_tw_video/1557020554674192388/pu/vid/1280x720/1p8KdRzJ2Sc_26sl.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1557020554674192388/pu/img/HbJLysMpPx1GPs7n.jpg"></video>
+
+### 21: [2022-08-10 07:17:59+08:00 推文](https://twitter.com/Grace05393466/status/1557144186758959104)
+
+RT Grace<br>賓州國會議員、眾院自由黨團（Freedom Caucus）領袖佩利Scott Perry在和家人旅行時被三位FBI探員攔住，出示搜查令後收繳了他的手機，作為犯罪取證。這又是一個前所未有的事件。<br><br>Insider Paper: BREAKING: House Republican Rep. Scott Perry tells Fox News that FBI seized his phone at the airport today.<br>
+
+### 22: [2022-08-10 08:06:47+08:00 推文](https://twitter.com/HeQinglian/status/1557156470726295553)
+
+白宫：拜登“不知道”联邦调查局突袭川普的海湖庄园<br><br>我的理解：不管如何，拜登先摘清自己与这事的关系。<br>信不信由你。 <a href="https://www.aol.com/news/white-house-biden-not-aware-205610414.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/white-house-biden-not-aware-205610414.html</a>
+
