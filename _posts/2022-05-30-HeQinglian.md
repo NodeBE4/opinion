@@ -173,7 +173,7 @@ Re @eGUAbe2V7j26GHw @biantainorth @biantaishabi 奇怪，粤菜我极欣赏，�
 
 ### 40: [2022-06-04 23:17:25+08:00 推文](https://twitter.com/HeQinglian/status/1533105650439540737)
 
-想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。<br><br>Ezio Mao☢: 有盛必有衰，有生必有死，就连诸神也不能例外。回想三月当西方拿起手中名为“SWIFT”的“永恒之枪”（永恒之枪一旦投出去，必定百发百中，威力巨大，刺穿一切）为俄罗斯降下“神罚”的时候，普京看了一眼手中的牌，往地上吐了一口浓痰…呸…然后接着该干啥干啥。<br><br>乌克兰战争打到现在这个样子，慌的是拜登…<br><br><img style="" src="https://pbs.twimg.com/media/FUVpJpRXEAc19Vo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1498160472000188422" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1498160472000188422</a>
+想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。
 
 ### 41: [2022-06-04 23:20:13+08:00 推文](https://twitter.com/HeQinglian/status/1533106353870409728)
 
@@ -213,7 +213,7 @@ Re @chinazi198404 @JiangShangrong 说得很清楚：半黑半白，全看什么�
 
 ### 50: [2022-06-05 10:06:14+08:00 推文](https://twitter.com/HeQinglian/status/1533268929946296320)
 
-疫情以来，世卫无论说什么，包括承认错误、批评中国之类，只能让我猜想：世卫这番折腾，是奔什么标的物去的？
+疫情以来，世卫无论说什么，包括承认错误、批评中国之类，只能让我猜想：世卫这番折腾，是奔什么标的物去的？<br><br>KimPR: 政變：世衛組織正式承認其關於新冠死亡率的大量數據是錯誤的🤡🍿<br><br><img style="" src="https://pbs.twimg.com/media/FUXmKbgXwAAgeDK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 51: [2022-06-05 10:16:30+08:00 推文](https://twitter.com/HeQinglian/status/1533271515873034241)
 

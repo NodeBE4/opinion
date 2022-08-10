@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-10
+date: 2022-08-11
 from: https://twitter.com/HeQinglian/status/1556375294143041543
 layout: post
 tags:
@@ -110,4 +110,16 @@ Re @HettyJ008 孩子就象蒲公英的种子，落在谁家决定命运。落在
 ### 24: [2022-08-10 21:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1557353505542791169)
 
 Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 美国式锦衣卫。<br>为国家利益服务到为党派政治服务，这中间翻过了几座大山，美国人居然被蒙在鼓里。
+
+### 25: [2022-08-11 01:36:18+08:00 推文](https://twitter.com/HeQinglian/status/1557420589085704192)
+
+Re @Tepezano161 @HettyJ008 你难道没听拜登竞选时说过，八岁孩子可自主变性，不用征求家长同意，他当总统后就要落实这点。<br>有大陆人还说这是编的。
+
+### 26: [2022-08-11 01:46:28+08:00 推文](https://twitter.com/HeQinglian/status/1557423147217027073)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 一位老朋友托人来问我，听说美国中小学在搞变性教育，是不是真的？<br>我发了几份盖洛普等机构的相关调查，并且将旧金山一个华人写的一篇文章，谈他们反了半年，才迫使学校换掉教科书——原来小学五年级教科书教育孩子如何学会与变性人性交，同性性交——的文章发给他。<br>CCTV与中国的媒体难道从未谈过这些？
+
+### 27: [2022-08-11 01:48:11+08:00 推文](https://twitter.com/HeQinglian/status/1557423577267404800)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 估计中国媒体谈也没用，一定会被认为是抹黑美国。
 
