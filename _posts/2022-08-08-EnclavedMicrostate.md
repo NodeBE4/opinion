@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-09
+date: 2022-08-10
 from: https://old.reddit.com/r/AskHistorians/comments/wix7qh/what_was_the_relationship_between_china_and/
 layout: post
 tags:
@@ -128,4 +128,10 @@ Now that you mention it, I honestly cannot remember at this point; as noted it's
 Unfortunately, the academically solid material is, in some instances, rather inaccessible. However, while much of Rafe de Crespigny's oeuvre is, as you have discovered, extremely pricey in print copy, the Australian National University has graciously made almost all of his key works available as free PDFs through its Open Research Repository:
 
 https://openresearch-repository.anu.edu.au/browse?type=author&authority=907b8620-2109-49aa-93b6-6e3f3a72b2c2
+
+### 688: [Corruption is rampant in many countries at all levels of society. And yet, in America corruption at the low government or police level is nearly unheard of. What is the history of low level corruption in America, and at what point did America achieve the current status quo and how?](https://old.reddit.com/r/AskHistorians/comments/wkt68o/corruption_is_rampant_in_many_countries_at_all/), submitted on 2022-08-10 17:42:13+08:00.
+
+----- __688.1__ -----2022-08-10 21:33:59+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 

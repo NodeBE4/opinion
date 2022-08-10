@@ -247,3 +247,7 @@ The only thing I know about the Magnus Archives is that it gummed up my IFTTT fe
 
 Could be. I forget if it's still the case, but for a good while the applet was so sensitive that it presumed that 'taiping' was the continuous verb form of 'taip', the Lithuanian word for 'yes', and that meant I got a *bunch* of Lithuanian subs (most frequently lithuania_abdl or something similar... yeah) gumming up that feed and I just turned it off for a while.
 
+----- __678.6__ -----2022-08-10 21:32:30+08:00:
+
+Anything's a hobby if you squint hard enough. And, for what it's worth, arguably one of the first VTubers was a virtual weather presenter, and we get plenty of VTuber stuff here, ergo...
+
