@@ -121,6 +121,10 @@ Thank you!
 
 Now that you mention it, I honestly cannot remember at this point; as noted it's not really my subfield at all and it has been a long time since I did that reading. It *might* have been Murray but to be honest, it might even have been an older post on AH by a user whose name I have long since forgotten. It's worth noting by the by that 'Zheng Yi Sao' is in fact 'wife of Zheng Yi', so 'Ching I's widow' is in fact the same term, just not using Pinyin Romanisation.
 
+----- __686.4__ -----2022-08-11 01:13:47+08:00:
+
+You're right, I think it was you!
+
 ### 687: [I've gotten fascinated with the Three Kingdoms period of China. What books about the topic are worth reading?](https://old.reddit.com/r/AskHistorians/comments/wk6zj1/ive_gotten_fascinated_with_the_three_kingdoms/), submitted on 2022-08-09 23:59:03+08:00.
 
 ----- __687.1__ -----2022-08-10 02:30:27+08:00:
