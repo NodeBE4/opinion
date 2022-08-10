@@ -123,3 +123,23 @@ Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 一位老朋友托�
 
 Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 估计中国媒体谈也没用，一定会被认为是抹黑美国。
 
+### 28: [2022-08-11 05:09:32+08:00 推文](https://twitter.com/HeQinglian/status/1557474249857798144)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @RealBeiMing @ngexp 现在全世界的人都以为别处比自己呆的地方好。前天看了一条消息，美国35岁以下的人想到欧洲工作的人越来越多，今年上半年获批5万——但多数都是远程上班的，让他们很失望。<br>国内人完全不了解美国2020以后的情况。广州沙面美领馆大太阳下几百米的长龙排队签证，多是留学的。
+
+### 29: [2022-08-11 05:29:44+08:00 推文](https://twitter.com/HeQinglian/status/1557479334981636098)
+
+华盛顿智库兵棋推演显示美台能抵御中国攻台<br><br>战略与国际问题研究中心进行了一场推演，表明中国在100英里宽的台湾海峡发动一场两栖入侵将是一项艰巨的任务，美台能够抵御，但代价会很高。台湾经济将支离破碎，美军会受到重创，需多年才能恢复元气，美国的全球影响力会受到影响。 <a href="https://cn.wsj.com/articles/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%99%BA%E5%BA%93%E5%85%B5%E6%A3%8B%E6%8E%A8%E6%BC%94%E6%98%BE%E7%A4%BA%E7%BE%8E%E5%8F%B0%E8%83%BD%E6%8A%B5%E5%BE%A1%E4%B8%AD%E5%9B%BD%E6%94%BB%E5%8F%B0-11660102205" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%99%BA%E5%BA%93%E5%85%B5%E6%A3%8B%E6%8E%A8%E6%BC%94%E6%98%BE%E7%A4%BA%E7%BE%8E%E5%8F%B0%E8%83%BD%E6%8A%B5%E5%BE%A1%E4%B8%AD%E5%9B%BD%E6%94%BB%E5%8F%B0-11660102205</a>
+
+### 30: [2022-08-11 05:36:52+08:00 推文](https://twitter.com/HeQinglian/status/1557481127891329024)
+
+Re 从这条消息来看，美国看来明白“豪猪战略”吓不退中共。<br>但是，中共似乎更想用“非战争军事行动”，使用“民兵”骚扰增加压力，因为有日内瓦条约的保护，你没法证明民兵是军人。因此，现阶段如何对付这种非战争军事行动是关键。<br>美军教官指导乌克兰时也利用了日内瓦条约，在医院、学校、教堂等设军事设施。
+
+### 31: [2022-08-11 05:39:01+08:00 推文](https://twitter.com/HeQinglian/status/1557481671858987010)
+
+Re @HHWyH5IacghLykf 这点，我相信中共推演时也会这样。<br>前一向制裁俄罗斯时，如何说的，大家应该没忘记，但那次并未评估己方损失。<br>也因此，我更关注推演时如何评估己方损失。
+
+### 32: [2022-08-11 05:40:01+08:00 推文](https://twitter.com/HeQinglian/status/1557481922502295553)
+
+Re @WmShuai @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 愿闻其详。
+
