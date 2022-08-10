@@ -143,3 +143,7 @@ Re @HHWyH5IacghLykf 这点，我相信中共推演时也会这样。<br>前一�
 
 Re @WmShuai @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 愿闻其详。
 
+### 33: [2022-08-11 05:43:44+08:00 推文](https://twitter.com/HeQinglian/status/1557482855453835264)
+
+Re @lawyer_sui 觉得你与沈良庆两位，在那个圈里呆着真困难，挺孤独的。
+

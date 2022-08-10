@@ -357,7 +357,7 @@ Re @zhixiangziyou 实话实说，如果我在深圳，一定去现场看。
 
 ### 86: [2022-07-28 21:52:45+08:00 推文](https://twitter.com/HeQinglian/status/1552653287966380036)
 
-这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。
+这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。<br><br>Ezio Mao☢: 据《华尔街日报》报道，由于对俄罗斯的制裁，上半年西方公司将损失590亿美元.<br><br>2022年第一季度，英国公司BP亏损255亿美元，壳牌 - 42亿美元，德国Uniper-32亿欧元，奥地利OMV-20亿欧元，德国 Wintershall Dea - 11亿欧元，法国Engie-10亿欧元。法国雷诺集团亏损 22 亿欧元。<br> <a href="https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400</a>
 
 ### 87: [2022-07-28 21:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1552654036498653186)
 
