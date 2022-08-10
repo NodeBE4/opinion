@@ -51,3 +51,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FZqEPlIX0AQkECb?format=jpg
 
 昔有毛泽东评论“利用小说反党，也是一大发明”，习近平父亲因小说《刘志丹》而遭噩运；今有中共习近平当局以“以医学反党”罪名,彻底封杀医学界交流与科普医学知识的网上平台—《丁香园》。不知是否有医学专家像习近平父亲那样为此再遭噩运？<br><br>韩连潮: 【以医学反党？】丁香园是我喜欢的一个网站，过去从中了解到不少医学科技和生物科技发展情况，惊闻今天被中共“以医学反党”一锅端了。太荒唐了！<br><br><img style="" src="https://pbs.twimg.com/media/FZw2PZSVsAAICJr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-08-10 22:20:40+08:00 推文](https://twitter.com/realcaixia/status/1557371356475494401)
+
+请听北大法学院张千帆教授的讲座，句句直指要害。<br><br>正视历史▪️传播真相🇺🇸V2: 这个2分多钟的视频，足以令14亿墙人觉醒，足以令中共颤抖。<br><br>它撕破了中共的面纱，<br>它剥去了中共华丽的外衣，<br>它让中共的本质赤裸裸地展现在世人面前。<br><br>#张千帆 #辛亥革命与中国宪政 #辛亥革命100周年<br><br><video src="https://video.twimg.com/ext_tw_video/1556707210960416768/pu/vid/640x480/3KLpJJLMhm_dNoEV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1556707210960416768/pu/img/zEcivVT50n-4ucDW.jpg"></video>
+
+### 11: [2022-08-10 23:23:24+08:00 推文](https://twitter.com/realcaixia/status/1557387142204096512)
+
+特别推荐#议报发布子野文章《当今中国不需要领袖，而需要“非领袖化”》<br>专制独裁者掌控国家权力的合法性相当脆弱，只能自己给自己的权力地位垒合法性，其中之一就是暗示、纵容手下人制造领袖神话，吹捧“领袖”、神化“领袖”。 <a href="https://yibaochina.com/?p=247393" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247393</a>
+
