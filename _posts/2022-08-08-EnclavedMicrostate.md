@@ -135,3 +135,9 @@ https://openresearch-repository.anu.edu.au/browse?type=author&authority=907b8620
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 689: [In what way would the fate of Afghanistan had changed if they handed out Bin Laden to the US?](https://old.reddit.com/r/AskHistorians/comments/wky8ph/in_what_way_would_the_fate_of_afghanistan_had/), submitted on 2022-08-10 22:01:30+08:00.
+
+----- __689.1__ -----2022-08-10 22:03:18+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+

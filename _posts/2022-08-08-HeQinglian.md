@@ -103,3 +103,11 @@ RT Grace<br>賓州國會議員、眾院自由黨團（Freedom Caucus）領袖�
 
 白宫：拜登“不知道”联邦调查局突袭川普的海湖庄园<br><br>我的理解：不管如何，拜登先摘清自己与这事的关系。<br>信不信由你。 <a href="https://www.aol.com/news/white-house-biden-not-aware-205610414.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/white-house-biden-not-aware-205610414.html</a>
 
+### 23: [2022-08-10 21:06:53+08:00 推文](https://twitter.com/HeQinglian/status/1557352786190376963)
+
+Re @HettyJ008 孩子就象蒲公英的种子，落在谁家决定命运。落在穷家也不怕，只要是正常人家，总能励志向上。<br>落在非正常人家，哪怕就是拜登与比尔·盖茨这类富豪之家，要成为正常人也很困难，不染上五毒、不在未成年时变性就算运气，仅仅满脑子左派思维已经算好的了。
+
+### 24: [2022-08-10 21:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1557353505542791169)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 美国式锦衣卫。<br>为国家利益服务到为党派政治服务，这中间翻过了几座大山，美国人居然被蒙在鼓里。
+
