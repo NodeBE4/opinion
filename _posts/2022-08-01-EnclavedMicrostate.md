@@ -243,3 +243,7 @@ I tend to be interested in most things that aren't sports, but there are some wh
 
 The only thing I know about the Magnus Archives is that it gummed up my IFTTT feed because a lot of posts on its subreddit tripped an applet I had set up to check for the word 'Taiping'. I have no idea if the Taiping Heavenly Kingdom was part of it because I never cared enough to even ctrl-F to find where the word popped up, but that's how I heard of it.
 
+----- __678.5__ -----2022-08-10 11:33:30+08:00:
+
+Could be. I forget if it's still the case, but for a good while the applet was so sensitive that it presumed that 'taiping' was the continuous verb form of 'taip', the Lithuanian word for 'yes', and that meant I got a *bunch* of Lithuanian subs (most frequently lithuania_abdl or something similar... yeah) gumming up that feed and I just turned it off for a while.
+
