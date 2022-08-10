@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-09
+date: 2022-08-10
 from: https://twitter.com/realcaixia/status/1556692785905942530
 layout: post
 tags:
@@ -42,4 +42,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FZqEPlIX0AQkECb?format=jpg
 ### 7: [2022-08-09 04:41:10+08:00 推文](https://twitter.com/realcaixia/status/1556742337623199746)
 
 不管是不是蔡英文说的，道理就是那么个道理。<br><br>苗也: 转帖图：两岸关系不是国共两党<br><br><img style="" src="https://pbs.twimg.com/media/FZnX-Y_WQAA4s4W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-08-10 10:26:16+08:00 推文](https://twitter.com/realcaixia/status/1557191572256690177)
+
+请看中国农民报“全县静默，庄稼没法静默”。这标题真抢眼，抢眼的背后是官员罔顾民生，不计一切地执行清零政策的荒谬，是农民为保庄稼保生计而被责罚的无奈。<br>据报道，河南省商丘市宁陵县一位农民因疫情管控期间下地打药，被迫通过大喇叭，向全体村民做10遍检讨。<br><img style="" src="https://pbs.twimg.com/media/FZxBewlX0AAQd_m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-08-10 10:39:17+08:00 推文](https://twitter.com/realcaixia/status/1557194846351380480)
+
+昔有毛泽东评论“利用小说反党，也是一大发明”，习近平父亲因小说《刘志丹》而遭噩运；今有中共习近平当局以“以医学反党”罪名,彻底封杀医学界交流与科普医学知识的网上平台—《丁香园》。不知是否有医学专家像习近平父亲那样为此再遭噩运？<br><br>韩连潮: 【以医学反党？】丁香园是我喜欢的一个网站，过去从中了解到不少医学科技和生物科技发展情况，惊闻今天被中共“以医学反党”一锅端了。太荒唐了！<br><br><img style="" src="https://pbs.twimg.com/media/FZw2PZSVsAAICJr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

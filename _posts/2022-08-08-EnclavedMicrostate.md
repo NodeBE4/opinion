@@ -63,6 +63,10 @@ As the others have noted, that company was Cover. Miko has said she was directly
 
 Pretty much. kuromaru made the first concept images for Roboco in 2013 and the model was finished in late May 2016, with the first animations around late 2017 if I'm not mistaken.
 
+----- __682.7__ -----2022-08-10 12:52:21+08:00:
+
+I've no idea if it was bullshit at the time and if it's still accepted now, but many years ago I read an article that noted that money correlates with happiness *up to a point*, that being where your perceived basic needs are met *and* you have a certain amount to spend on yourself. So even if there are plenty of people who are at the point where more money won't make a difference, there are plenty more who aren't.
+
 ### 683: [Based Fauna](https://old.reddit.com/r/Hololive/comments/wjgtp5/based_fauna/), submitted on 2022-08-09 02:51:08+08:00.
 
 ----- __683.1__ -----2022-08-09 11:56:09+08:00:
