@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-10
+date: 2022-08-11
 from: https://twitter.com/realcaixia/status/1556692785905942530
 layout: post
 tags:
@@ -58,4 +58,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FZqEPlIX0AQkECb?format=jpg
 ### 11: [2022-08-10 23:23:24+08:00 推文](https://twitter.com/realcaixia/status/1557387142204096512)
 
 特别推荐#议报发布子野文章《当今中国不需要领袖，而需要“非领袖化”》<br>专制独裁者掌控国家权力的合法性相当脆弱，只能自己给自己的权力地位垒合法性，其中之一就是暗示、纵容手下人制造领袖神话，吹捧“领袖”、神化“领袖”。 <a href="https://yibaochina.com/?p=247393" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247393</a>
+
+### 12: [2022-08-11 01:59:27+08:00 推文](https://twitter.com/realcaixia/status/1557426412604252160)
+
+Re 我和千帆是彼此最信任的好朋友，我们认识10多年了。我和他还有全喜教授在京的住处特别靠近，在京时凡有讨论会聚会聚餐，我们三人都是同一车一起往返。他的声音我太熟悉了，现在这个视频就是他的声音。下面跟帖说不是张千帆声音的，毫无疑问都是为极权统治洗地的粉红五毛和中共网军释放的幽灵机器人。
 
