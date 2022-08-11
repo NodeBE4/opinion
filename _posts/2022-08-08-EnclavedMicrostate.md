@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-10
+date: 2022-08-11
 from: https://old.reddit.com/r/AskHistorians/comments/wix7qh/what_was_the_relationship_between_china_and/
 layout: post
 tags:
@@ -144,4 +144,10 @@ This submission has been removed because it violates our ['20-Year Rule'](http:/
 ----- __689.1__ -----2022-08-10 22:03:18+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
+### 690: [COWnFauna & Noel Milk? FAQing Diabolical](https://old.reddit.com/r/Hololive/comments/wl8zx5/cownfauna_noel_milk_faqing_diabolical/), submitted on 2022-08-11 05:13:47+08:00.
+
+----- __690.1__ -----2022-08-11 07:56:14+08:00:
+
+I mean I'll take just a Noel/Fauna ASMR stream in general.
 

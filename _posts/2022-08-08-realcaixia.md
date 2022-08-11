@@ -63,3 +63,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FZqEPlIX0AQkECb?format=jpg
 
 Re 我和千帆是彼此最信任的好朋友，我们认识10多年了。我和他还有全喜教授在京的住处特别靠近，在京时凡有讨论会聚会聚餐，我们三人都是同一车一起往返。他的声音我太熟悉了，现在这个视频就是他的声音。下面跟帖说不是张千帆声音的，毫无疑问都是为极权统治洗地的粉红五毛和中共网军释放的幽灵机器人。
 
+### 13: [2022-08-11 09:44:32+08:00 推文](https://twitter.com/realcaixia/status/1557543455705948160)
+
+他是我心中很尊敬的大写的人。<br><br>PENG Jian: 今天即8月10日下午我在临沭县以视频连线方式会见了被羁押在临沭县看守所的丁家喜。基本没有防暑降温措施的监室很难熬，丁身上起了大片红点子。大半的时间我在读他的家信。老丁很坚强乐观，但听到他妻身体不好的消息，他俯身拭泪……<br><br><img style="" src="https://pbs.twimg.com/media/FZzRLWcaMAAGtuU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZzRLZZakAU1F5n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

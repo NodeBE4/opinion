@@ -147,3 +147,43 @@ Re @WmShuai @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 愿闻其�
 
 Re @lawyer_sui 觉得你与沈良庆两位，在那个圈里呆着真困难，挺孤独的。
 
+### 34: [2022-08-11 05:52:41+08:00 推文](https://twitter.com/xiaxiaoqiang/status/1557485110114525184)
+
+RT xiaxiaoqiang 夏小強<br>沈默克：川普與美國的最後一戰（終極修訂版） <a href="https://www.xiaxiaoqiang.net/trumps-final-battle-with-america/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/trumps-final-battle-with-america/.html</a>
+
+### 35: [2022-08-11 08:39:49+08:00 推文](https://twitter.com/HeQinglian/status/1557527168275578881)
+
+Re @WmShuai @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 这分析有道理。<br>不过，上次不是有清华女生去送什么彩虹旗之类的事情么？骄傲月也有中国的LGBTQ参加——不过，外表比美国这些异形正常多了，至少都穿了衣服。
+
+### 36: [2022-08-11 08:41:22+08:00 推文](https://twitter.com/HeQinglian/status/1557527560052948992)
+
+Re @0HCAvycgN60lwXM 我重视这一推演的政治含义，你仔细想。我想明白了，但是我不说破。
+
+### 37: [2022-08-11 08:42:18+08:00 推文](https://twitter.com/HeQinglian/status/1557527793642229761)
+
+Re @mamaoli7 能想到这一层，值得👍。
+
+### 38: [2022-08-11 08:43:51+08:00 推文](https://twitter.com/HeQinglian/status/1557528186874888192)
+
+Re @Tepezano161 👍👍
+
+### 39: [2022-08-11 08:46:18+08:00 推文](https://twitter.com/HeQinglian/status/1557528800585519107)
+
+Re @zhuxiuyuan @lawyer_sui 你觉得他与你观点很一致吗？<br>中国人现在是观点不致，就是比杀父之仇还大的仇恨，尤其是那个圈。<br>你有点特殊，明明知道来我这里得不到赞，但总还是来，有点趣。不过，我包容性较大，管你说什么，不在意。
+
+### 40: [2022-08-11 08:49:22+08:00 推文](https://twitter.com/HeQinglian/status/1557529575474827265)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 我觉得中国人不了解现在的美国，因此还在倾家助子女留学美国，有的从中学开始。不问，我懒得理会。问我，我必劝先看清楚再说，等会送出一个儿子或者女儿，几年大钱花下来，得到一个人妖，还要终生为他们负担药费、心理咨询费。
+
+### 41: [2022-08-11 08:51:03+08:00 推文](https://twitter.com/HeQinglian/status/1557529998319304707)
+
+Re @luanping33 没废除日内瓦公约吧？至少可以用来对付敌军。
+
+### 42: [2022-08-11 09:01:26+08:00 推文](https://twitter.com/HeQinglian/status/1557532610099912705)
+
+Re @lawyer_sui 通胀率归零，我购买食物价格同比上涨一倍多，没法归零。<br>一个政府到如此不要脸皮的程度，鬼都拿它没办法。
+
+### 43: [2022-08-11 09:04:36+08:00 推文](https://twitter.com/HeQinglian/status/1557533408770854913)
+
+Re @zbhbox 你应该去建议，这样不用全球发动政变，直接斩首好了。比政变简单有效得多。<br>为什么没将普京斩首？
+
