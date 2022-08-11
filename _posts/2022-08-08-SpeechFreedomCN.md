@@ -39,3 +39,7 @@ Henan man Hu, a CCP member and likely an SOE employee, arrested in 2018 for "att
 
 Zhejiang woman He detained for 7 days for sending "false info" in WeChat that caused public gathering. He's remarks remain unknown but is likely to be negative about the government.<br><img style="" src="https://pbs.twimg.com/media/FZ0iLdQXEAYzABY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-08-11 16:40:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1557648011366383617)
+
+辽宁省葫芦岛市一名教师郑某，因在推特发布了“侮辱、辱骂国家领导人的推文163条”，于2018年10月被刑事拘留，次年3月被检方以寻衅滋事罪名提起公诉，后续判决结果不详。<br><img style="" src="https://pbs.twimg.com/media/FZ0isS8WIAEPBtt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
