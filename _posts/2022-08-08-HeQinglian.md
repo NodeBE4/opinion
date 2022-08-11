@@ -187,3 +187,51 @@ Re @lawyer_sui 通胀率归零，我购买食物价格同比上涨一倍多，�
 
 Re @zbhbox 你应该去建议，这样不用全球发动政变，直接斩首好了。比政变简单有效得多。<br>为什么没将普京斩首？
 
+### 44: [2022-08-11 10:07:23+08:00 推文](https://twitter.com/HeQinglian/status/1557549208466497540)
+
+Re @ForestLi8 @lawyer_sui 非农岗位56万新增就业岗位，其中8.7万是税务局的稽查人员，这是什么性质？天朝如果增加这样的就业岗位，你会说是好事？<br>另外那47万多，我不知是什么性质的就业岗位。如果是变性人心理咨询、骄傲月服饰（比如那拖在屁股后面的毛尾巴产品）生产，就那么回事。
+
+### 45: [2022-08-11 10:14:33+08:00 推文](https://twitter.com/HeQinglian/status/1557551011396554759)
+
+Re @jGXbGh7VYUY8PIz @mingshi_chen @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 一件工业产品，从创意、外形设计到成熟投产，有几个环节，国外创意、外形设计是强项，比如美国小发明很多，日本产品外形设计很好，零部件加工也很不错。中国加工什么的，还是挺强的。
+
+### 46: [2022-08-11 10:17:51+08:00 推文](https://twitter.com/HeQinglian/status/1557551840740483078)
+
+Re @realJackLaw 这得让中国政府来说明，因为只有它觉得有收益。<br>我觉得让台湾维持现状，世界安定，台湾人能够保持现有生活状态，挺好。<br>参照香港二次回归，似乎只有北京觉得好，香港人可没觉得好，世界也没觉得好。
+
+### 47: [2022-08-11 10:25:20+08:00 推文](https://twitter.com/HeQinglian/status/1557553726017126402)
+
+Re @JianglinLi @BojoHaha @Wu_Zhi @david_david1968 @RealBeiMing @ngexp 澳大利亚“自古以来”是与大英帝国有关系吧？不是一直说“澳大利亚人是欧洲流放犯的后代”。<br>如果硬要这样写，希望将The 1619 project的解说者发明者借过去，这些人能写出美利坚是黑人创造的国度，自然也能写出各种“自古以来”的故事。再配合以焚书灭史的取消文化，何事不成？
+
+### 48: [2022-08-11 10:26:43+08:00 推文](https://twitter.com/HeQinglian/status/1557554070973562880)
+
+Re @lawyer_sui 听起来很有希望，我怎么看到全是为BLM唱赞歌、觉得拜登美国就是好的一类？
+
+### 49: [2022-08-11 10:30:07+08:00 推文](https://twitter.com/HeQinglian/status/1557554926850547712)
+
+Re @ForestLi8 @lawyer_sui 继续生活在灯塔之下吧，哪怕画一个。勿复。
+
+### 50: [2022-08-11 10:32:54+08:00 推文](https://twitter.com/HeQinglian/status/1557555628364660736)
+
+Re @zhixiangziyou 2000名骡子，应该只是部分吧？<br>今年中选，民主党雇佣了不少基层选举专业人员收割选票（美其名曰深耕基层），应该也算56万新增非农就业人员的一部分，只是不知数目。
+
+### 51: [2022-08-11 10:45:12+08:00 推文](https://twitter.com/HeQinglian/status/1557558723765231618)
+
+Re @Tepezano161 @lawyer_sui 我认为这位的智力属于橡皮筋状态，很有弹性，但因此逃避了政治责任。<br>美国发生什么事情，都是自找的，至少是一半人自找的。
+
+### 52: [2022-08-11 10:57:21+08:00 推文](https://twitter.com/HeQinglian/status/1557561783510081536)
+
+台海三方博弈──非戰爭軍事行動、豪豬戰略與API<br><br>中国《非战争军事行动》主要针对台湾，美军方为台湾量身定做了“豪猪战略”，“亚洲实力指数”（API）则指澳日印等国军事力量——加上盟友美国的实力，将形成“统合威慑”。<br>现在最大的变数其实是盟友美国——拜登当家的美国失去了方向。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=151423" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=151423</a>
+
+### 53: [2022-08-11 11:02:24+08:00 推文](https://twitter.com/HeQinglian/status/1557563051775332353)
+
+Re @lawyer_sui @zhuxiuyuan 竺律的看法，经常很清奇。十次我也许回问一次Why，一般不问。<br>我现在是他说，我听那么一耳朵。😅
+
+### 54: [2022-08-11 11:05:31+08:00 推文](https://twitter.com/HeQinglian/status/1557563834847617029)
+
+Re @zhixiangziyou 这类岗位不创造价值，只转移价值。不知有什么好高兴的。
+
+### 55: [2022-08-11 11:06:27+08:00 推文](https://twitter.com/HeQinglian/status/1557564070827642882)
+
+Re @zhuxiuyuan @lawyer_sui 你居然算躺平派？
+
