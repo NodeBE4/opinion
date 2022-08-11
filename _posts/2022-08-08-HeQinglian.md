@@ -239,63 +239,75 @@ Re @zhixiangziyou 这类岗位不创造价值，只转移价值。不知有什�
 
 Re @zhuxiuyuan @lawyer_sui 你居然算躺平派？
 
-### 57: [2022-08-11 12:00:20+08:00 推文](https://twitter.com/lexislex7/status/1557577632140730369)
+### 57: [2022-08-11 11:39:13+08:00 推文](https://twitter.com/SSK2024/status/1557572319282872320)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>她从奥兰多开车过来，在堤坝上过了一夜。她说：“我想对处于黑暗时期的川普总统表示支持。” 来自中国的黄说，她曾挨家挨户敲了3000个门，为川普在2020年的选举中拉票。她说：“他正在拯救我们的国家。我们爱他。”<br><br>FBI突袭后，向到海湖庄园表达对川普总统支持的爱国者们致敬！ <a href="https://mp.weixin.qq.com/s/X9RGldfl-9J37hCG_XuqVw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/X9RGldfl-9J37hCG_XuqVw</a><br><img style="" src="https://pbs.twimg.com/media/FZ2bxM_XEAAiXZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ2bxM_WAAAO5S1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ2bxNBXwAAbi1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ2bxNCX0AACXOR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 58: [2022-08-11 12:00:20+08:00 推文](https://twitter.com/lexislex7/status/1557577632140730369)
 
 RT lexislex<br>联邦调查局从Mar-A-Lago没收的物品包括。<br><br>- 金正恩的信<br>- 奥巴马的信<br>- 鸡尾酒会餐巾纸<br>- 生日聚会晚餐菜单<br><img style="" src="https://pbs.twimg.com/media/FZ2gmdxWAAYjpY5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 58: [2022-08-11 21:01:43+08:00 推文](https://twitter.com/HeQinglian/status/1557713873775509511)
+### 59: [2022-08-11 21:01:43+08:00 推文](https://twitter.com/HeQinglian/status/1557713873775509511)
 
 这篇文章我昨天就看到了。<br>要点不在这，而是结论：尽管美台能够击退中共攻台，但损失惨重，国力大伤，需要数年才能恢复。<br>没说出来的问题是道选择题：<br>A. 台湾是民主国家，意识形态也紧跟美国民主党，美国应该为它一战；<br>B. 世界上民主国家很多，台湾对美国有多重要？值得为它大伤国力么（国会辩论）？<br><br>自由亚洲电台: 如果中国攻台，头三周会击沉两艘美国航母，袭击日本和关岛美军基地，摧毁数百架美国先进战机<br>解放军在台登陆，夺取南部1/3地区，但两栖部队在美日导弹和潜艇攻击下减损严重，无法获得补给，无法占领台北<br>攻台时间预测为2027年或2036年<br>这是上周美国军事专家在智库CSIS进行的兵棋推演，您觉得靠谱吗？<br><br><img style="" src="https://pbs.twimg.com/media/FZ0J48JXwAcqcTo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ0LoUQXgAM0i53?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ0LoUPWIAAhEtU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ0LoUNXkAI-KgI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 59: [2022-08-11 21:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1557715672007852033)
+### 60: [2022-08-11 21:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1557715672007852033)
 
 Re @wDYMdxKfYqByh1E 这个选择题就是台湾此刻的处境，你没见蔡英文亦步亦趋跟随民主党？经常强调“唯有民主，能救台湾”——台湾早就是个民主政体，救字何解？<br>台湾对亚太地区安全很重要，美国在小布什时期曾经退出太平洋。<br>中国宣示的重要性是两点，一是祖国统一（政权合法性来源之一），二是国家安全。
 
-### 60: [2022-08-11 21:14:20+08:00 推文](https://twitter.com/HeQinglian/status/1557717048825888768)
+### 61: [2022-08-11 21:14:20+08:00 推文](https://twitter.com/HeQinglian/status/1557717048825888768)
 
 Re @shenliangqing2 现代工商业经济对制度环境依托极高，制度环境好，对GDP贡献大；制度环境不好，经济萎缩——香港就是实例。<br>台湾如果“回归”，恐怕台湾经济会立刻萎缩，就算大陆一文不收，维持现有水平已经极为困难。
 
-### 61: [2022-08-11 21:21:17+08:00 推文](https://twitter.com/HeQinglian/status/1557718800136638464)
+### 62: [2022-08-11 21:21:17+08:00 推文](https://twitter.com/HeQinglian/status/1557718800136638464)
 
 Re @Wu_Zhi @WmShuai @JianglinLi @david_david1968 @RealBeiMing @ngexp 深圳也有一个，与鸭子混业经营，就在红岭中路。经营者将其分为两处，一处是夜总会，紧挨荔枝公园，让Gay与鸭子接头；另一处是幽会之地，离那地过一个十字路口，民居。<br>夜总会我听同行记者说过，另一处完全是偶然发现。1998年6月，因大阵雨我在那民居的门廊躲雨，有人认出我以为是暗访——事后听同事说。
 
-### 62: [2022-08-11 21:26:11+08:00 推文](https://twitter.com/HeQinglian/status/1557720034750898177)
+### 63: [2022-08-11 21:26:11+08:00 推文](https://twitter.com/HeQinglian/status/1557720034750898177)
 
 Re @Wu_Zhi @WmShuai @JianglinLi @david_david1968 @RealBeiMing @ngexp 大约三四天后，一位同事告诉我，何姐，你前几天把人吓坏了。我不解，说什么事吓坏什么人了，我怎么不知？同事说，前几天下大雨，你在附近小面包店买午餐，在隔壁门廊躲雨，有这事么？我回答说，有啊，就这事吓坏人了？同事告诉我，你不知那是什么地方，是鸭子与Gay的俱乐部，人家以为你来暗访写报道。
 
-### 63: [2022-08-11 21:29:46+08:00 推文](https://twitter.com/HeQinglian/status/1557720936471732229)
+### 64: [2022-08-11 21:29:46+08:00 推文](https://twitter.com/HeQinglian/status/1557720936471732229)
 
 Re @zhixiangziyou @Wu_Zhi @WmShuai @JianglinLi @david_david1968 @RealBeiMing @ngexp 我不鼓励记者写这类题材，自己也不感兴趣。这个行业，哪朝哪代都存在，只要不象美国登堂入室成为正统文化，颠倒社会伦理，还真不觉得应该打压。<br>大美国如今也真是好日子过腻烦了。
 
-### 64: [2022-08-11 21:57:38+08:00 推文](https://twitter.com/HeQinglian/status/1557727946034774017)
+### 65: [2022-08-11 21:57:38+08:00 推文](https://twitter.com/HeQinglian/status/1557727946034774017)
 
 Re @TaipingZhu @shenliangqing2 中国是政府强干预下的市场经济，国家垄断资源及分配权，不知脱离政治制度从何谈起。<br>特点一：政府能够集中能力办大事，国富但民多数穷，缺乏对私有产权的尊重，经济发展缺后劲，产业结构很难均衡合理；<br>特点二：政府既是经济活动的规则制定者，又是参赛者，还是裁判者——目前的状态你应该看到。
 
-### 65: [2022-08-11 22:19:48+08:00 推文](https://twitter.com/HeQinglian/status/1557733524160909314)
+### 66: [2022-08-11 22:19:48+08:00 推文](https://twitter.com/HeQinglian/status/1557733524160909314)
 
 Re @Wu_Zhi @KELMAND1 找到导弹所在地，先行摧毁。
 
-### 66: [2022-08-11 23:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1557750889942851584)
+### 67: [2022-08-11 23:28:48+08:00 推文](https://twitter.com/HeQinglian/status/1557750889942851584)
 
 Re @maga_kureea 说起来你不相信，台湾民进党对川普没什么好感，媒体天天重复美主流媒体对川普的诬蔑。
 
-### 67: [2022-08-11 23:30:46+08:00 推文](https://twitter.com/HeQinglian/status/1557751386082795522)
+### 68: [2022-08-11 23:30:46+08:00 推文](https://twitter.com/HeQinglian/status/1557751386082795522)
 
 Re @david_david1968 从2016年开始就如此，我多次提过《纽约时报》一篇文章：为了打击川普，坚持了半个世纪的新闻原则（以事实为准绳）可以放弃。
 
-### 68: [2022-08-11 23:32:18+08:00 推文](https://twitter.com/HeQinglian/status/1557751770058817536)
+### 69: [2022-08-11 23:32:18+08:00 推文](https://twitter.com/HeQinglian/status/1557751770058817536)
 
 Re @Wu_Zhi @seadognw 美国的CRT理论与零元购再发展下去，就是南非大号版，纽约、旧金山先实现。
 
-### 69: [2022-08-11 23:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1557752816214888448)
+### 70: [2022-08-11 23:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1557752816214888448)
 
 Re @maga_kureea 某台湾外交官就是民主党的铁杆粉丝。<br>但现在两千金都在小学，受不了变性教育。
 
-### 70: [2022-08-12 01:41:40+08:00 推文](https://twitter.com/HeQinglian/status/1557784329035685890)
+### 71: [2022-08-12 01:41:40+08:00 推文](https://twitter.com/HeQinglian/status/1557784329035685890)
 
 普京推手 俄罗斯开展“清美”文化大革命 <br>关于这点我想听听<br>@JiangShangrong 介绍<br>法广没谈，但我猜想到应该不少是针对LGBTQI及骄傲月文化。<br>与美国2020年BLM全国范围打砸抢烧、政客示范全民下跪、左派的取消文化、砸历史文物、亲人朋友熟人之间的大检举告发相比，哪种更可怕？ <a href="https://rfi.my/8eX3.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8eX3.T</a>
 
-### 71: [2022-08-12 01:45:38+08:00 推文](https://twitter.com/HeQinglian/status/1557785326692843520)
+### 72: [2022-08-12 01:45:38+08:00 推文](https://twitter.com/HeQinglian/status/1557785326692843520)
 
 可怜中国一大票知识精英还以为美国是“民有、民治、民享”的宪政民主，用他们那可怜的过去印象教育中国民众，疯狂挺民主党。<br><br>北美保守评论🇺🇸🇨🇦: 《美国国税局因特别探员职位要求“必要时”使用致命武力而在网上引起轩然大波》<br><br>美国是 “我们人民” 自主的国家，政府是人民设立的自我管理的机构，当这个它把枪指向所有纳税人之时，这个政府就成了 “我们人民” 的敌人！拜登伪政府正是一个与人民为敌的政府。不能再忍受下去了！<br><br><img style="" src="https://pbs.twimg.com/media/FZ5MjAiWIAEsPDC?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/08/11/irs-faces-online-uproar-over-special-agent-job-posting-requiring-ability-to-use-deadly-force/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/08/11/irs-faces-online-uproar-over-special-agent-job-posting-requiring-ability-to-use-deadly-force/</a>
+
+### 73: [2022-08-12 04:08:37+08:00 推文](https://twitter.com/HeQinglian/status/1557821310096506883)
+
+Re @Annw1309 @JiangShangrong 如果更深的问题你想不了，就想一下受害者人数，拜托了。
+
+### 74: [2022-08-12 04:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1557821545535488002)
+
+Re @realJackLaw 台湾前参谋总长李喜明：<br>中國、美國、台灣戰力已經今非昔比，1996年中共國防預算是台灣兩倍，如今是22倍，再者，從中美雙方的阿拉斯加會談，中共敢用如此強烈的語氣與美國對談，以及俄烏戰爭美國不願意派兵，美國「台灣政策法案」延後審查，都可以看出美國有逐漸弱化的趨勢。 <a href="https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%85%98%E4%BA%86-%E5%A4%A7%E9%99%B8%E8%BB%8D%E6%BC%94%E7%BE%8E%E5%9C%8B%E8%B7%91%E8%80%81%E9%81%A0-%E5%89%8D%E5%8F%83%E8%AC%80%E7%B8%BD%E9%95%B7%E9%A9%9A%E7%88%86%E5%85%A7%E5%B9%95-141218769.html" target="_blank" rel="noopener noreferrer">https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%85%98%E4%BA%86-%E5%A4%A7%E9%99%B8%E8%BB%8D%E6%BC%94%E7%BE%8E%E5%9C%8B%E8%B7%91%E8%80%81%E9%81%A0-%E5%89%8D%E5%8F%83%E8%AC%80%E7%B8%BD%E9%95%B7%E9%A9%9A%E7%88%86%E5%85%A7%E5%B9%95-141218769.html</a>
 
