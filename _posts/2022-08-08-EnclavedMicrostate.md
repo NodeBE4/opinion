@@ -179,6 +179,16 @@ So there was a very clear set of stipulations as to how the Qing could maintain 
 
 What followed was a period in which the British government basically Kowloon City in legal limbo, voiding the existing land ownership of any remaining inhabitants (not that many, as the civilian population had never been more than about 200) and issuing 5-year leases in their place. Public services would effectively be provided by the Church of England, which maintained chapels, schools, orphanages, and medical facilities, but there was virtually no new construction of private houses, which were largely in disrepair. The British would, in 1933, announce plans to demolish the houses, but the ROC government protested on the grounds that this would violate the 1898 Convention, and refused to accept any proposed British intervention. When the restored colonial government made a second attempt in 1947, again it was rebuffed by the ROC. After that, the colonial government simply chose not to press the issue, and essentially allowed the Walled City to expand upwards.
 
+----- __691.4__ -----2022-08-11 21:14:54+08:00:
+
+It was a community of outcasts, but one linked to the city around them, and which therefore couldn't exactly be stopped from contracting and subcontracting builders from the British city. In terms of renting and ownership, while there wasn't a firm legal mechanism to confirm ownership of property, apartments were privately owned and rented out: there's several references to this in the translated testimonies reproduced in Girard and Lambot's *City of Darkness*, cited in the above answer. To cite just three examples which illustrate somewhat different levels of financial fortune:
+
+> I've been around the City for the past 25 years. Actually, we used to be In Sai Tau Village [the adjoining 'squatter' settlement pulled down in 1985]. When we first moved here the rent was a little over $100 a month; now It's about $1300. This building used to be a three-storey block until it was rebuilt. During the redevelopment we moved next door for eight or nine months.– *Hui Tung Choy, noodle shop owner*
+
+> I've been around the City for some 30 or 40 years. We took over the store for $13000, though this included several thousand dollars' worth of stock in cigarettes and about a $1000 worth of medicine... I still own a flat on the fifth floor too, and that pays me $1000 in rent each month. I don't need a lot of money. – *Yau Lap Cheong, retired shopkeeper*
+
+> We built a place across the alley. I bought a wooden hut for about $3000 and then, about 20 years ago, I asked a contractor 10 build a 10-storey building to replace it. It cost more than $100,000. Each storey was about 500 square feet. We kept four for ourselves and sold the rest for $30,000 each. It took several months to build. The architectural plans were drawn up by the contractor, and he arranged the electricity and water supplies as well. – *Lam Mei Kwong, doctor*
+
 ### 692: [COWnFauna & Noel Milk? FAQing Diabolical](https://old.reddit.com/r/Hololive/comments/wl8zx5/cownfauna_noel_milk_faqing_diabolical/), submitted on 2022-08-11 05:13:47+08:00.
 
 ----- __692.1__ -----2022-08-11 07:56:14+08:00:
