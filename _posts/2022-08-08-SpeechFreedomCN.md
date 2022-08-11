@@ -43,3 +43,7 @@ Zhejiang woman He detained for 7 days for sending "false info" in WeChat that ca
 
 辽宁省葫芦岛市一名教师郑某，因在推特发布了“侮辱、辱骂国家领导人的推文163条”，于2018年10月被刑事拘留，次年3月被检方以寻衅滋事罪名提起公诉，后续判决结果不详。<br><img style="" src="https://pbs.twimg.com/media/FZ0isS8WIAEPBtt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-08-11 16:51:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1557650779540017153)
+
+Teacher surnamed Zheng in Liaoning Province arrested in Oct 2018 for his 163 pieces of tweets that "insulted state leaders" and prosecuted in Mar the next year. The court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FZ0jIQcXEAAFjQw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

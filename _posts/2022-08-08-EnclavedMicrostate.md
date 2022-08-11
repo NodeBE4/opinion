@@ -159,6 +159,26 @@ The emergence of the Walled City relates directly to the aforementioned treaties
 
 The decision to demolish the city was made in 1987 by mutual British and PRC agreement, with the handover agreement having been made back in 1984. Issues with its status had been threefold: firstly it was a haven for various forms of illegal and unregistered businesses, secondly there were considerable health and safety concerns, and thirdly, it also lay in the flight path for the Runway 13 approach to what was then the Hong Kong International Airport at Kai Tak, already a particularly tricky one even without buildings in the way. Feasibility studies for a replacement for Kai Tak would not begin the year after. So with the handover now agreed to, both parties agreed that the demolition could go ahead.
 
+----- __690.3__ -----2022-08-11 18:42:32+08:00:
+
+So the long story short is it didn't. In theory, it could have done. The Convention is quite explicit on key counts concerning the Walled City (indeed, arguably more space is devoted to the 'city of Kowloon' than to any other thing). Quoting the relevant sections:
+
+> It is at the same time agreed that within the city of Kowloon the Chinese officials now stationed there shall continue to exercise jurisdiction except so far as may be inconsistent with the military requirements for the defence of Hong Kong. Within the remainder of the newly-leased territory Great Britain shall have sole jurisdiction. Chinese officials and people shall be allowed as heretofore to use the road from Kowloon to Hsinan.
+
+> It is further agreed that the existing landing-place near Kowloon city shall be reserved for the convenience of Chinese men-of-war, merchant 
+and passenger vessels, which may come and go and lie there at their pleasure ; and for the convenience of movement of the officials and people within the city.
+
+> [...]
+
+> It is further understood that there will be no expropriation or expulsion of the inhabitants of the district included within the extension, and 
+that if land is required for public offices, fortifications, or the like official purposes, it shall be bought at a fair price. 
+
+> If cases of extradition of criminals occur, they shall be dealt with in accordance with the existing treaties between Great Britain and China  and the Hong Kong Regulations. 
+
+So there was a very clear set of stipulations as to how the Qing could maintain an official presence – even an armed one within reason – within their existing settlement (which I will refer to here as Kowloon City, as distinguished from Kowloon in the sense of the 1860 concession). The Qing were in fact willing to make use of that provision, and in April 1899, in the wake of the Six-Day War between the British garrison and villagers in the New Territories protesting land reform, the Qing sent 600 reinforcements to Kowloon City on top of an existing garrison of just under 550. Most of this garrison was soon withdrawn under pressure, leaving just 200 men by 4 May, and it would then be expelled in the second half of the month when British troops marched in to occupy Kowloon City in parallel with a temporary occupation of Shum Chun (aka Shenzhen) as a result of tensions that had mounted over allegations that the Qing Viceroy of Guangdong and Guangxi, Tan Zhonglin, had sent the reinforcements in April in an attempt to aid the rebels. After this was defused, the British occupation force left, but the Qing garrison and local officials did not. In other words, the Qing jurisdiction was only practically exercised for 10 months before it was abandoned – hence my noting that it was purely *de jure*.
+
+What followed was a period in which the British government basically put the Walled City in legal limbo, voiding the existing land ownership of any remaining inhabitants (not that many, as the civilian population had never been more than about 200) and issuing 5-year leases in their place. Public services would effectively be provided by the Church of England, which maintained chapels, schools, orphanages, and medical facilities, but there was virtually no new construction of private houses, which were largely in disrepair. The British would, in 1933, announce plans to demolish the houses, but the ROC government protested on the grounds that this would violate the 1898 Convention, and refused to accept any proposed British intervention. When the restored colonial government made a second attempt in 1947, again it was rebuffed by the ROC. After that, the colonial government simply chose not to press the issue, and essentially allowed the Walled City to expand upwards.
+
 ### 691: [COWnFauna & Noel Milk? FAQing Diabolical](https://old.reddit.com/r/Hololive/comments/wl8zx5/cownfauna_noel_milk_faqing_diabolical/), submitted on 2022-08-11 05:13:47+08:00.
 
 ----- __691.1__ -----2022-08-11 07:56:14+08:00:
