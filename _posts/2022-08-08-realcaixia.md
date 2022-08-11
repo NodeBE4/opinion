@@ -67,3 +67,7 @@ Re 我和千帆是彼此最信任的好朋友，我们认识10多年了。我和
 
 他是我心中很尊敬的大写的人。<br><br>PENG Jian: 今天即8月10日下午我在临沭县以视频连线方式会见了被羁押在临沭县看守所的丁家喜。基本没有防暑降温措施的监室很难熬，丁身上起了大片红点子。大半的时间我在读他的家信。老丁很坚强乐观，但听到他妻身体不好的消息，他俯身拭泪……<br><br><img style="" src="https://pbs.twimg.com/media/FZzRLWcaMAAGtuU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZzRLZZakAU1F5n?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-08-11 23:20:52+08:00 推文](https://twitter.com/realcaixia/status/1557748894376886275)
+
+特别推荐：#议报转发某胖：通向未来的航班可能没有我们的座位 - 议报 <a href="https://yibaochina.com/?p=247447" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247447</a>
+
