@@ -155,6 +155,10 @@ Firstly, it is important to note that while the first Google results for 'Kowloo
 
 The emergence of the Walled City relates directly to the aforementioned treaties. The 1898 lease explicitly excluded 'the city of Kowloon', which the Qing used as a military outpost, and it remained under *de jure* Qing jurisdiction until the imperial state fell in 1912. Its ambiguous legal status meant that there was no investment in the area by British public authorities, and both the Republic of China and latterly the People's Republic of China would claim to continue the Qing's jurisdiction, but had very little means of enforcing it through British territory. This put the Walled City in a bit of a legal loophole where the British colonial government had no jurisdiction to exercise, while the mainland governments claimed jurisdiction but could not meaningfully exercise it. The Walled City in the form it is best known – a dense chunk of buildings up to 14 storeys high, crisscrossed by damp alleyways – was the result of considerable construction works that took place in the 1960s, as the Walled City essentially became a high-rise version of the earlier squatter communities mentioned in the above answer, housing those who could not afford to live elsewhere, either for financial reasons or because of one's involvement in illicit businesses.
 
+----- __690.2__ -----2022-08-11 14:18:54+08:00:
+
+The decision to demolish the city was made in 1987 by mutual British and PRC agreement, with the handover agreement having been made back in 1984. Issues with its status had been threefold: firstly it was a haven for various forms of illegal and unregistered businesses, secondly there were considerable health and safety concerns, and thirdly, it also lay in the flight path for the Runway 13 approach to what was then the Hong Kong International Airport at Kai Tak, already a particularly tricky one even without buildings in the way. Feasibility studies for a replacement for Kai Tak would not begin the year after. So with the handover now agreed to, both parties agreed that the demolition could go ahead.
+
 ### 691: [COWnFauna & Noel Milk? FAQing Diabolical](https://old.reddit.com/r/Hololive/comments/wl8zx5/cownfauna_noel_milk_faqing_diabolical/), submitted on 2022-08-11 05:13:47+08:00.
 
 ----- __691.1__ -----2022-08-11 07:56:14+08:00:
@@ -170,4 +174,36 @@ I mean I'll take just a Noel/Fauna ASMR stream in general.
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 693: [Vikings raid England in the start of 793 AD. Army size?](https://old.reddit.com/r/AskHistorians/comments/wlfh6p/vikings_raid_england_in_the_start_of_793_ad_army/), submitted on 2022-08-11 10:06:47+08:00.
+
+----- __693.1__ -----2022-08-11 13:37:19+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 694: [How exactly does a military occupation work in the ~modern era?](https://old.reddit.com/r/AskHistorians/comments/wlhimm/how_exactly_does_a_military_occupation_work_in/), submitted on 2022-08-11 11:47:13+08:00.
+
+----- __694.1__ -----2022-08-11 13:37:44+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 695: [How important is John Calvin to western thought?](https://old.reddit.com/r/AskHistorians/comments/wlims6/how_important_is_john_calvin_to_western_thought/), submitted on 2022-08-11 12:46:48+08:00.
+
+----- __695.1__ -----2022-08-11 13:38:12+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 696: [What constellations were most important to humanity's development(s) of oceanic navigation?](https://old.reddit.com/r/AskHistorians/comments/wlj3o5/what_constellations_were_most_important_to/), submitted on 2022-08-11 13:13:17+08:00.
+
+----- __696.1__ -----2022-08-11 13:38:02+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
