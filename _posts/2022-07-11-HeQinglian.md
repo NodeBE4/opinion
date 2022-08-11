@@ -65,7 +65,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 

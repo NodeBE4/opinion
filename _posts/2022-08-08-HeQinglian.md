@@ -311,3 +311,7 @@ Re @Annw1309 @JiangShangrong 如果更深的问题你想不了，就想一下受
 
 Re @realJackLaw 台湾前参谋总长李喜明：<br>中國、美國、台灣戰力已經今非昔比，1996年中共國防預算是台灣兩倍，如今是22倍，再者，從中美雙方的阿拉斯加會談，中共敢用如此強烈的語氣與美國對談，以及俄烏戰爭美國不願意派兵，美國「台灣政策法案」延後審查，都可以看出美國有逐漸弱化的趨勢。 <a href="https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%85%98%E4%BA%86-%E5%A4%A7%E9%99%B8%E8%BB%8D%E6%BC%94%E7%BE%8E%E5%9C%8B%E8%B7%91%E8%80%81%E9%81%A0-%E5%89%8D%E5%8F%83%E8%AC%80%E7%B8%BD%E9%95%B7%E9%A9%9A%E7%88%86%E5%85%A7%E5%B9%95-141218769.html" target="_blank" rel="noopener noreferrer">https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E6%85%98%E4%BA%86-%E5%A4%A7%E9%99%B8%E8%BB%8D%E6%BC%94%E7%BE%8E%E5%9C%8B%E8%B7%91%E8%80%81%E9%81%A0-%E5%89%8D%E5%8F%83%E8%AC%80%E7%B8%BD%E9%95%B7%E9%A9%9A%E7%88%86%E5%85%A7%E5%B9%95-141218769.html</a>
 
+### 75: [2022-08-12 04:32:28+08:00 推文](https://twitter.com/NAConservative9/status/1557827312028090370)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《埃里克·川普披露FBI突袭期间发生的令人震惊的细节》<br><br>埃里克透露，FBI 特工拒绝出示财产突袭的搜查令。特工要求关闭监控摄像头，但被拒绝。当搜查进行时，律师被迫在车道边缘等待。他们用破解器打开了保险箱。监控录下了他们的不当行为。这是对川普的又一次有组织的攻击。 <a href="https://nacr.info/WordPress/index.php/2022/08/11/eric-trump-reveals-shocking-details-of-what-really-happened-during-fbi-raid/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/08/11/eric-trump-reveals-shocking-details-of-what-really-happened-during-fbi-raid/</a><br><img style="" src="https://pbs.twimg.com/media/FZ6ClB_XkAEE0WP?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
