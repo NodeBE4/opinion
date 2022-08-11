@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-08-08
+date: 2022-08-11
 from: https://twitter.com/SpeechFreedomCN/status/1556483588585127938
 layout: post
 tags:
@@ -30,4 +30,12 @@ Hainan man Cai, who said in an online video that local police assisted the gover
 ### 4: [2022-08-08 14:54:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1556534171643744257)
 
 Henan man Hu, a CCP member and likely an SOE employee, arrested in 2018 for "attacking and cursed state leaders" in WeChat. The case was dropped a few months later for the prosecutor found his offense was too mild to constitute a criminal act.<br><img style="" src="https://pbs.twimg.com/media/FZkdj7lXwAAM9FL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-08-11 14:45:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1557619070706622470)
+
+2017年5月，浙江省东阳县女子何某，因在微信群发布“虚假信息”并引发民众聚集，被处拘留7日。何某的具体言论内容及真实性不详，但警方称其言论引发了民众聚集，推测必定是对政府不利的信息。<br><img style="" src="https://pbs.twimg.com/media/FZ0huYwUUAAd6fz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-08-11 14:47:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1557619573997768704)
+
+Zhejiang woman He detained for 7 days for sending "false info" in WeChat that caused public gathering. He's remarks remain unknown but is likely to be negative about the government.<br><img style="" src="https://pbs.twimg.com/media/FZ0iLdQXEAYzABY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
