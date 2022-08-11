@@ -89,11 +89,11 @@ With a 1.2 billion dollar fine, the saga of the CAC investigation against the ve
 
 ### 19: [2022-07-22 21:43:56+08:00 推文](https://twitter.com/amyyqin/status/1550476744007634945)
 
-RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!<br><br>NYTimes Communications: We’re excited to announce that @CAMcGrady and @amyyqin are joining @nytnational.<br> <a href="https://www.nytco.com/press/national-welcomes-two-new-colleagues/" target="_blank" rel="noopener noreferrer">https://www.nytco.com/press/national-welcomes-two-new-colleagues/</a>
+RT Amy Qin<br>Some personal news: after a decade in Asia, I'm moving back to the US to take on a new role covering Asian Americans. It's a dream beat though I'll miss the China team immensely. Please send all tips for story ideas, reading, listening, watching and especially eating!
 
 ### 20: [2022-07-23 05:24:58+08:00 推文](https://twitter.com/CarlMinzner/status/1550592767184748544)
 
-RT Carl Minzner<br>50 years later, we’re probably only a few years away from a 21st century Xi Jinping Thought version of this.<br><br>Development of Xi Jinping Thought on Diplomacy/Law/Ecological Civilization/etc was already a key step. The rest will follow soon enough …
+RT Carl Minzner<br>50 years later, we’re probably only a few years away from a 21st century Xi Jinping Thought version of this.<br><br>Development of Xi Jinping Thought on Diplomacy/Law/Ecological Civilization/etc was already a key step. The rest will follow soon enough …<br><br>Cultural Revolution OTD 1972: 22/7/72 The People's Daily celebrates the application of Mao Zedong Thought to the field of beekeeping, unlocking earlier egg-laying and more honey.<br>
 
 ### 21: [2022-07-23 07:21:26+08:00 推文](https://twitter.com/ruima/status/1550622075408113664)
 
