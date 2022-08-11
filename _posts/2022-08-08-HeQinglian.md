@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-11
+date: 2022-08-12
 from: https://twitter.com/HeQinglian/status/1556375294143041543
 layout: post
 tags:
@@ -290,4 +290,12 @@ Re @Wu_Zhi @seadognw 美国的CRT理论与零元购再发展下去，就是南�
 ### 69: [2022-08-11 23:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1557752816214888448)
 
 Re @maga_kureea 某台湾外交官就是民主党的铁杆粉丝。<br>但现在两千金都在小学，受不了变性教育。
+
+### 70: [2022-08-12 01:41:40+08:00 推文](https://twitter.com/HeQinglian/status/1557784329035685890)
+
+普京推手 俄罗斯开展“清美”文化大革命 <br>关于这点我想听听<br>@JiangShangrong 介绍<br>法广没谈，但我猜想到应该不少是针对LGBTQI及骄傲月文化。<br>与美国2020年BLM全国范围打砸抢烧、政客示范全民下跪、左派的取消文化、砸历史文物、亲人朋友熟人之间的大检举告发相比，哪种更可怕？ <a href="https://rfi.my/8eX3.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8eX3.T</a>
+
+### 71: [2022-08-12 01:45:38+08:00 推文](https://twitter.com/HeQinglian/status/1557785326692843520)
+
+可怜中国一大票知识精英还以为美国是“民有、民治、民享”的宪政民主，用他们那可怜的过去印象教育中国民众，疯狂挺民主党。<br><br>北美保守评论🇺🇸🇨🇦: 《美国国税局因特别探员职位要求“必要时”使用致命武力而在网上引起轩然大波》<br><br>美国是 “我们人民” 自主的国家，政府是人民设立的自我管理的机构，当这个它把枪指向所有纳税人之时，这个政府就成了 “我们人民” 的敌人！拜登伪政府正是一个与人民为敌的政府。不能再忍受下去了！<br><br><img style="" src="https://pbs.twimg.com/media/FZ5MjAiWIAEsPDC?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/08/11/irs-faces-online-uproar-over-special-agent-job-posting-requiring-ability-to-use-deadly-force/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/08/11/irs-faces-online-uproar-over-special-agent-job-posting-requiring-ability-to-use-deadly-force/</a>
 
