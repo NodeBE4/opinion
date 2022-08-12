@@ -334,3 +334,11 @@ What's the source of the Nazi claim? I've seen claims of her doing Islamophobic 
 
 That's true of basically anything though, not just fanfiction. It's kind of hard to make anything fly under an ultranationalist, neo-traditionalist regime.
 
+----- __679.9__ -----2022-08-12 12:40:59+08:00:
+
+Ah, it was drawn for her then. And she was... looking forward to seeing it in person. Oh dear.
+
+----- __679.10__ -----2022-08-12 12:42:27+08:00:
+
+True, I don't want to undersell the degree of specifically state-sanctioned homophobia and just general queerphobia involved. But that also ties in with ultranationalism and eugenicism as part of a wholesale package of awful, but which affects different people disproportionately.
+

@@ -29,9 +29,9 @@ The European Parliament has made a rational decision -- freezing the EU-China in
 
 1. Last week I was invited to attend a guest series at UChicago’s Harris School of Public Policy. By then, I did not realize that the UC Chinese Students and Scholars Association(CSSA) protested the invitation and accuse me of “hurting” their feelings with all the disinformation.<br><img style src="https://pbs.twimg.com/media/E2A3uyNXEAMw8Cm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 4: [2021-05-23 02:54:49+08:00 推文](https://twitter.com/nathanlawkc/status/1396177747475582978)
+### 4: [2021-05-23 02:54:49+08:00 推文](https://twitter.com/nathanlawkc/status/1396177746137690113)
 
-Re 4. The false statements in the emails to the University of Chicago and the messages [关于今晚Mentor Program讲座的立场声明以及中国学生呼吁] circulated widely in the WeChat groups are defamatory. I reserve all my legal rights in this matter. -END
+Re 3. The event went smoothly. Yet, the attack shows how CCP aggression threatens our cherished values. The other schools may not stand as firmly as Uchicago did. I hope the govt can look into signs of infiltration in these CSSA and to ACT to protect the FREEDOMS in YOUR country.
 
 ### 5: [2021-05-23 17:59:18+08:00 推文](https://twitter.com/nathanlawkc/status/1396405368562061314)
 
