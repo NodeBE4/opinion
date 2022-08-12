@@ -285,3 +285,9 @@ Apologies, but we have removed your question in its current form as it breaks ou
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
+### 704: [Free for All Friday, 12 August 2022](https://old.reddit.com/r/badhistory/comments/wmieyw/free_for_all_friday_12_august_2022/), submitted on 2022-08-12 19:00:11+08:00.
+
+----- __704.1__ -----2022-08-13 02:51:33+08:00:
+
+Meanwhile Jurchen Jin does not get to be a canonical 'dynasty' despite total control of the Central Plain. Welcome to Han chauvinism.
+
