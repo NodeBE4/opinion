@@ -358,3 +358,7 @@ Same here; saw Silvervale playing it and was like 'wait... this isn't Genshin, b
 
 You can excuse the "uniforms are hot" part!?
 
+----- __679.14__ -----2022-08-13 00:40:13+08:00:
+
+I assume she brought back a record player too?
+
