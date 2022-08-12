@@ -342,3 +342,13 @@ Ah, it was drawn for her then. And she was... looking forward to seeing it in pe
 
 True, I don't want to undersell the degree of specifically state-sanctioned homophobia and just general queerphobia involved. But that also ties in with ultranationalism and eugenicism as part of a wholesale package of awful, but which affects different people disproportionately.
 
+----- __679.11__ -----2022-08-12 13:30:28+08:00:
+
+Same here; saw Silvervale playing it and was like 'wait... this isn't Genshin, but it's not *not* Genshin either...'
+
+----- __679.12__ -----2022-08-12 13:34:23+08:00:
+
+> I think she had Quasimodo painting Civil War soldier figurines at one point
+
+...where did he *get* them from? The first tin soldiers weren't produced until the 1730s, some two and a half centuries after the setting of Victor Hugo's original novel.
+
