@@ -352,3 +352,9 @@ Same here; saw Silvervale playing it and was like 'wait... this isn't Genshin, b
 
 ...where did he *get* them from? The first tin soldiers weren't produced until the 1730s, some two and a half centuries after the setting of Victor Hugo's original novel.
 
+----- __679.13__ -----2022-08-12 21:10:09+08:00:
+
+> I can excuse the "uniforms are hot" part
+
+You can excuse the "uniforms are hot" part!?
+
