@@ -315,3 +315,7 @@ Re @realJackLaw 台湾前参谋总长李喜明：<br>中國、美國、台灣戰
 
 RT 北美保守评论🇺🇸🇨🇦<br>《埃里克·川普披露FBI突袭期间发生的令人震惊的细节》<br><br>埃里克透露，FBI 特工拒绝出示财产突袭的搜查令。特工要求关闭监控摄像头，但被拒绝。当搜查进行时，律师被迫在车道边缘等待。他们用破解器打开了保险箱。监控录下了他们的不当行为。这是对川普的又一次有组织的攻击。 <a href="https://nacr.info/WordPress/index.php/2022/08/11/eric-trump-reveals-shocking-details-of-what-really-happened-during-fbi-raid/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/08/11/eric-trump-reveals-shocking-details-of-what-really-happened-during-fbi-raid/</a><br><img style="" src="https://pbs.twimg.com/media/FZ6ClB_XkAEE0WP?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 76: [2022-08-12 10:16:16+08:00 推文](https://twitter.com/HeQinglian/status/1557913828930854913)
+
+Re @JianglinLi 这类事情太多了，不知指哪一类？
+

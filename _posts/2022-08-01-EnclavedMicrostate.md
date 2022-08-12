@@ -324,3 +324,13 @@ Could be. I forget if it's still the case, but for a good while the applet was s
 
 Anything's a hobby if you squint hard enough. And, for what it's worth, arguably one of the first VTubers was a virtual weather presenter, and we get plenty of VTuber stuff here, ergo...
 
+----- __679.7__ -----2022-08-12 10:58:10+08:00:
+
+What's the source of the Nazi claim? I've seen claims of her doing Islamophobic and racist art (which seems par for the course, considering) and bestiality art (which I find *weird* but at least isn't overtly harmful), but the Nazi bit I haven't seen substantiated.
+
+----- __679.8__ -----2022-08-12 11:13:53+08:00:
+
+> difficult to have a good public image in China unless there is some heavy censorship.
+
+That's true of basically anything though, not just fanfiction. It's kind of hard to make anything fly under an ultranationalist, neo-traditionalist regime.
+
