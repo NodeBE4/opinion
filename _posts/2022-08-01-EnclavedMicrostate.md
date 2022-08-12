@@ -362,3 +362,11 @@ You can excuse the "uniforms are hot" part!?
 
 I assume she brought back a record player too?
 
+----- __679.15__ -----2022-08-13 02:12:41+08:00:
+
+Specifically:
+
+https://www.reddit.com/r/HobbyDrama/comments/wihowq/hobby_scuffles_week_of_august_8_2022/ijwfyr8/
+
+https://www.reddit.com/r/HobbyDrama/comments/wihowq/hobby_scuffles_week_of_august_8_2022/ijwhhwf/
+
