@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-11
+date: 2022-08-12
 from: https://twitter.com/osmastro/status/1556732315597938688
 layout: post
 tags:
@@ -34,4 +34,8 @@ RT Amanda Hsiao 萧嫣然<br>Prelim thoughts: China’s new Taiwan White Paper
 ### 5: [2022-08-11 22:45:02+08:00 推文](https://twitter.com/fangkc/status/1557739875595845633)
 
 RT FANG Kecheng 方可成<br>I understand why @nytopinion publishes Wang's piece: to show diversity of opinion, to criticize US policies. But I am so sick of hearing Wang Wen speaking on behalf of "China's people". No, he cannot represent us. And I'm disappointed that NYT let him speak on behalf of us.<br><br>Jeryl Bier: On Tuesday, the New York Times published an essay by Wang Wen: Why China’s People No Longer Look Up to America.<br><br>In Oct 2021, the @NYTimes reported that Wen Wang was one of the authors of a Chinese report that suggested COVID started in the United States.<br><br><img style="" src="https://pbs.twimg.com/media/FZ13AS7XoAA5MaM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ13CSEX0AAW6N_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ13CaTWYAAKdIL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://www.nytimes.com/2022/08/09/opinion/china-us-relations.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/08/09/opinion/china-us-relations.html</a>
+
+### 6: [2022-08-12 01:48:51+08:00 推文](https://twitter.com/chenchenzh/status/1557786132938739712)
+
+RT Chenchen Zhang 🤦🏻‍♀️<br>one really can't make this up<br>amidst Zhengzhou's crisis of numerous suspended property projects, some projects are hiring "actors" to "performatively resume construction" 表演式复工<br>JD: pretend to work when there r visitors<br><img style="" src="https://pbs.twimg.com/media/FZ5eOfJX0AEsfho?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ5eOqTXwAIms9m?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FZ5eO3jWYAAuJgo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
