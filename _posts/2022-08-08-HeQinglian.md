@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-13
+date: 2022-08-14
 from: https://twitter.com/HeQinglian/status/1556375294143041543
 layout: post
 tags:
@@ -418,4 +418,8 @@ FBI的搜查会帮助特朗普再次当选？<br><br>作者指出：“我们”
 ### 101: [2022-08-13 23:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1558470539634769921)
 
 Re 这篇文章让我看到一个事实：共和党的建制派与民主党互通款曲。<br>我有理由相信前年自称要落选的共和党参议员（参院共和党领袖）麦康纳当选是民主党助推，因为他当选后所作的事大都有利于民主党。
+
+### 102: [2022-08-14 01:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1558499186596876288)
+
+Re @JianglinLi @david_david1968 我相信这位女士2015年一定大爱无疆地支持默克尔“接收难民无上限。”
 
