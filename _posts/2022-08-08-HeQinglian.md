@@ -395,3 +395,11 @@ Re @fading_you1 这事，我正等着看美国《纽约时报》怎么评说。
 
 Re @JianglinLi 他们正在忙于“保护中期选举”，与2020年忙于“保护民主”——窃选一样。
 
+### 96: [2022-08-13 22:29:21+08:00 推文](https://twitter.com/HeQinglian/status/1558460703782174721)
+
+Re @zhixiangziyou 只有一个目的，找到可以起诉川普的“秘密文件”，只要官司缠身，他背书的候选人可能失败，哪怕是RINO们背书的上位，也能够与民主党在关键问题上合作——即期目标。<br>长期目标：2024年，川普以“待罪之身”无法参选。<br>民主党并不讳言，连纽约时报也是如此说。
+
+### 97: [2022-08-13 22:35:59+08:00 推文](https://twitter.com/HeQinglian/status/1558462373912002561)
+
+对于佩洛西孙子开玩笑，说中国难道制裁他使用TikTok，所有的媒体如获至宝般地转载，左派在社媒疯转。<br>这一条，很少有媒体转载，社媒也很冷淡。<br>佩洛西很有人缘与媒体缘。😉<br><br>He Qinglian: 报告：南希佩洛西的兒子跟随期母在台灣旅行，他是中國科技公司的投資者。<br>文中说“小保羅·佩洛西（Paul Pelosi Jr.）曾獲得 700,000 股播思科技股票作為其服務的報酬“——也就是说获赠干股。<br><br>中国说制裁不是没有根据，她孙子出面说TikTok是摆了一道乌龙。<br> <a href="https://nypost.com/2022/08/11/nancy-pelosis-son-is-investor-in-chinese-tech-firm-report/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/08/11/nancy-pelosis-son-is-investor-in-chinese-tech-firm-report/</a>
+
