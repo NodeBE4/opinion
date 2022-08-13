@@ -61,7 +61,7 @@ China's Global Soundbite Factory: The CCP has long kept a network of quotable in
 
 ### 12: [2022-08-05 19:34:16+08:00 推文](https://twitter.com/niubi/status/1555517538779500545)
 
-RT Bill Bishop<br>What is the logic of suspending climate talks? To remind the us that nothing can be separated out in the relationship, no matter how important it is to humanity? Hoping to spur us domestic constituencies to pressure Biden administration to return to the “correct” path?<br><br>Bill Bishop: The full list.<br><br><img style="" src="https://pbs.twimg.com/media/FZZDxRLXEAI8PfN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/WilliamYang120/status/1555504786488799232" target="_blank" rel="noopener noreferrer">https://twitter.com/WilliamYang120/status/1555504786488799232</a>
+RT Bill Bishop<br>What is the logic of suspending climate talks? To remind the us that nothing can be separated out in the relationship, no matter how important it is to humanity? Hoping to spur us domestic constituencies to pressure Biden administration to return to the “correct” path?<br><br>Bill Bishop: The full list.<br><br><img style="" src="https://pbs.twimg.com/media/FZZDxRLXEAI8PfN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-08-05 23:52:08+08:00 推文](https://twitter.com/williamnee/status/1555582432996274176)
 

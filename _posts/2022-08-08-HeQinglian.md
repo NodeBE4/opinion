@@ -371,3 +371,27 @@ Re @JianglinLi @david_david1968 很多人谈起理论上的言论自由头头是
 
 Re @h5LPyKL7TP6jjop “台湾民主也开始比烂了吗？令人痛心！”😂😂<br>不是“开始”，是“早就”。<br>但是还没选举做票。
 
+### 90: [2022-08-13 09:52:45+08:00 推文](https://twitter.com/HeQinglian/status/1558270298297876482)
+
+Re @david_david1968 现在社会是比黑、比狠、比恶，包括美国。<br>这样的社会不需要逻辑。<br>今天有件事情我很吃惊：邻居一位女士，是位虔诚的基督教徒，晚上散步时遇见，聊天中，她居然说美国现在搞的是中国文革那套。
+
+### 91: [2022-08-13 10:01:49+08:00 推文](https://twitter.com/HeQinglian/status/1558272582675308545)
+
+Re @Tepezano161 @h5LPyKL7TP6jjop 关键是将美国民主党的作派当作民主指南针了，现在 LBGT闹得欢畅，尽管北京虎视眈眈。
+
+### 92: [2022-08-13 10:08:12+08:00 推文](https://twitter.com/HeQinglian/status/1558274188246409217)
+
+Re @fading_you1 这事，我正等着看美国《纽约时报》怎么评说。
+
+### 93: [2022-08-13 10:11:55+08:00 推文](https://twitter.com/HeQinglian/status/1558275125648261122)
+
+这是拉什迪被刺案的最新消息，有他本人、凶手的情况。万幸，可能只失去一只眼睛。 <a href="https://www.sbs.com.au/language/chinese/zh-hans/article/salman-rushdie-on-ventilator-may-lose-an-eye-after-new-york-stabbing-agent-says/qmxervaat" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/language/chinese/zh-hans/article/salman-rushdie-on-ventilator-may-lose-an-eye-after-new-york-stabbing-agent-says/qmxervaat</a>
+
+### 94: [2022-08-13 10:25:57+08:00 推文](https://twitter.com/HeQinglian/status/1558278656287457281)
+
+报告：南希佩洛西的兒子跟随期母在台灣旅行，他是中國科技公司的投資者。<br>文中说“小保羅·佩洛西（Paul Pelosi Jr.）曾獲得 700,000 股播思科技股票作為其服務的報酬“——也就是说获赠干股。<br><br>中国说制裁不是没有根据，她孙子出面说TikTok是摆了一道乌龙。 <a href="https://nypost.com/2022/08/11/nancy-pelosis-son-is-investor-in-chinese-tech-firm-report/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/08/11/nancy-pelosis-son-is-investor-in-chinese-tech-firm-report/</a>
+
+### 95: [2022-08-13 10:27:43+08:00 推文](https://twitter.com/HeQinglian/status/1558279098400645121)
+
+Re @JianglinLi 他们正在忙于“保护中期选举”，与2020年忙于“保护民主”——窃选一样。
+

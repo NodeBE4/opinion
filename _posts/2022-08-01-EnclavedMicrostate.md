@@ -168,6 +168,10 @@ You may be sensing a pattern here. In short, if we are to be sceptical of the cl
 
 * Elizabeth Baynham, *Alexander the Great: The Unique History of Quintus Curtius Rufus* (1998)
 
+----- __668.3__ -----2022-08-13 11:57:01+08:00:
+
+Robin Waterfield's *Dividing the Spoils* is a decent narrative treatment, though it has a couple of notable issues – see [this review](https://www.tandfonline.com/doi/abs/10.1080/03612759.2012.644511?journalCode=vhis20) (which should be fully visible in free preview) for some of them.
+
 ### 669: [2d vs 3d](https://old.reddit.com/r/Hololive/comments/wev4ae/2d_vs_3d/), submitted on 2022-08-03 11:01:01+08:00.
 
 ----- __669.1__ -----2022-08-04 12:47:32+08:00:
