@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-08-11
+date: 2022-08-14
 from: https://twitter.com/SpeechFreedomCN/status/1556483588585127938
 layout: post
 tags:
@@ -46,4 +46,12 @@ Zhejiang woman He detained for 7 days for sending "false info" in WeChat that ca
 ### 8: [2022-08-11 16:51:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1557650779540017153)
 
 Teacher surnamed Zheng in Liaoning Province arrested in Oct 2018 for his 163 pieces of tweets that "insulted state leaders" and prosecuted in Mar the next year. The court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FZ0jIQcXEAAFjQw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-08-14 07:28:38+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1558596421686890496)
+
+自媒体人毛慧斌近日被捕，疑因发文追问唐山烧烤店打人事件有关。毛慧斌是微信公众号“慧慧人间”和“营养师慧慧”的运营者，唐山烧烤店打人事件发生后，他多次撰文追踪该事件，包括曝光央视记者欲到当地采访却被暴力阻拦，以及追问当事人下落等。其妻子透露其近日被刑拘，罪名是寻衅滋事。<br><img style="" src="https://pbs.twimg.com/media/FaE9ZQNXoAAEyZ9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-08-14 07:33:21+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1558597607156490245)
+
+After Tangshan BBQ Restaurant Attack Incident that outraged the entire country, a blogger tried to follow the development of the case. Now he got arrested, apparently for demanding updates &amp; exposing authority's efforts to violently stop journalists from covering the case.<br><img style="" src="https://pbs.twimg.com/media/FaE_NCGWIAA52LD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
