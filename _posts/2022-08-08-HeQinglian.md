@@ -403,3 +403,19 @@ Re @zhixiangziyou 只有一个目的，找到可以起诉川普的“秘密文�
 
 对于佩洛西孙子开玩笑，说中国难道制裁他使用TikTok，所有的媒体如获至宝般地转载，左派在社媒疯转。<br>这一条，很少有媒体转载，社媒也很冷淡。<br>佩洛西很有人缘与媒体缘。😉<br><br>He Qinglian: 报告：南希佩洛西的兒子跟随期母在台灣旅行，他是中國科技公司的投資者。<br>文中说“小保羅·佩洛西（Paul Pelosi Jr.）曾獲得 700,000 股播思科技股票作為其服務的報酬“——也就是说获赠干股。<br><br>中国说制裁不是没有根据，她孙子出面说TikTok是摆了一道乌龙。<br> <a href="https://nypost.com/2022/08/11/nancy-pelosis-son-is-investor-in-chinese-tech-firm-report/" target="_blank" rel="noopener noreferrer">https://nypost.com/2022/08/11/nancy-pelosis-son-is-investor-in-chinese-tech-firm-report/</a>
 
+### 98: [2022-08-13 22:47:14+08:00 推文](https://twitter.com/HeQinglian/status/1558465203418824704)
+
+Re @Vince6610 @lawyer_sui 认穴位，下针手法。
+
+### 99: [2022-08-13 22:47:52+08:00 推文](https://twitter.com/HeQinglian/status/1558465364689838085)
+
+Re @franklin99996 @lawyer_sui 问题是什么？
+
+### 100: [2022-08-13 23:06:04+08:00 推文](https://twitter.com/HeQinglian/status/1558469945427730434)
+
+FBI的搜查会帮助特朗普再次当选？<br><br>作者指出：“我们”正生活在一场合法性危机中，对既有权力的不信任是如此严重，对川普的调查被视为令人发指的“政权”阴谋。搜查行动已动摇了共和党的政治格局。几周前民调称大约一半的共和党选民准备放弃特朗普。本周，整个政党似乎都在支持他。 <a href="https://cn.nytimes.com/opinion/20220812/fbi-trump-mar-a-lago-raid/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220812/fbi-trump-mar-a-lago-raid/</a>
+
+### 101: [2022-08-13 23:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1558470539634769921)
+
+Re 这篇文章让我看到一个事实：共和党的建制派与民主党互通款曲。<br>我有理由相信前年自称要落选的共和党参议员（参院共和党领袖）麦康纳当选是民主党助推，因为他当选后所作的事大都有利于民主党。
+
