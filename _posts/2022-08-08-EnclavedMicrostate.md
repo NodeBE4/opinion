@@ -291,3 +291,9 @@ So for example, if you wanted to ask, "*Have people always rebelled against heal
 
 Meanwhile Jurchen Jin does not get to be a canonical 'dynasty' despite total control of the Central Plain. Welcome to Han chauvinism.
 
+----- __704.2__ -----2022-08-13 09:34:18+08:00:
+
+> (just ignore all the classical Chinese culture they adopted)
+
+To be fair, that need not be particularly relevant either.
+
