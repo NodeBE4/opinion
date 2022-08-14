@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-12
+date: 2022-08-14
 from: https://twitter.com/osmastro/status/1556732315597938688
 layout: post
 tags:
@@ -46,4 +46,8 @@ RT Coco Feng<br>Oh man, what a ridiculous finding...working for state-owned co
 ### 8: [2022-08-12 19:47:29+08:00 推文](https://twitter.com/GeringTuvia/status/1558057583067500544)
 
 RT Tuvia Gering 陶文亚<br>Re 1st for some context, see my article on China, the “civilization nation” <a href="https://tuviagering.substack.com/p/discourse-power-july-18-2022?r=t2py&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://tuviagering.substack.com/p/discourse-power-july-18-2022?r=t2py&amp;s=w&amp;utm_campaign=post&amp;utm_medium=web</a> <a href="https://academic.oup.com/ia/article-abstract/94/6/1217/5162435?login=false" target="_blank" rel="noopener noreferrer">https://academic.oup.com/ia/article-abstract/94/6/1217/5162435?login=false</a> <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a>
+
+### 9: [2022-08-14 09:02:48+08:00 推文](https://twitter.com/cnmediaproject/status/1558620119877971968)
+
+Elon Musk's recent article on his vision of technology <a href="https://bit.ly/3Pis8uN" target="_blank" rel="noopener noreferrer">https://bit.ly/3Pis8uN</a> <a href="https://bit.ly/3w2etS3" target="_blank" rel="noopener noreferrer">https://bit.ly/3w2etS3</a><br><img style="" src="https://pbs.twimg.com/media/FaFUuw9aIAAuARA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

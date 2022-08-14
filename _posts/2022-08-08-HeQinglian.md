@@ -435,3 +435,27 @@ Re @5yHLSCyBaAdwQz6 @lawyer_sui 中国人喜欢革命，推翻一切重来，这
 
 Re @shenliangqing2 @JianglinLi @david_david1968 这事儿，我没你那么乐观。<br>就说我一台湾熟人，暂住纽约。2020年拥护民主党，见不得批评言论。<br>现因两千金上小学（7岁、10岁），成天接受变性教育与各种性交知识，方知这党这方面真要不得。但其余的并未醒。
 
+### 106: [2022-08-14 09:51:19+08:00 推文](https://twitter.com/HeQinglian/status/1558632327948926976)
+
+Re @JianglinLi @pandatress1 @xuezhou_yang @shenliangqing2 @david_david1968 这个教以前喜欢阉割人吗？似乎没听说过。<br>马克思曾说过一嘴东方宫廷的阉人，满心瞧不起——不记得是在什么文章里说过。
+
+### 107: [2022-08-14 09:54:03+08:00 推文](https://twitter.com/HeQinglian/status/1558633016968314886)
+
+Re @TomMa07952688 众口铄金，积毁销骨。
+
+### 108: [2022-08-14 10:02:08+08:00 推文](https://twitter.com/HeQinglian/status/1558635048676610052)
+
+Re @zhixiangziyou 叫“彩虹痘”，五颜六色，灿若云霞，艳如桃花——名至实归。
+
+### 109: [2022-08-14 10:07:54+08:00 推文](https://twitter.com/HeQinglian/status/1558636500992024576)
+
+Re @shenliangqing2 其实，就学习中国，现成的口袋罪：泄露国家机密罪、危害国家安全罪、阴谋颠覆政府罪。一罪不够时，两罪三罪齐上，总有一款适合。
+
+### 110: [2022-08-14 10:09:05+08:00 推文](https://twitter.com/HeQinglian/status/1558636798460526595)
+
+Re @JianglinLi @TomMa07952688 我记得所有美国主流左媒都批判过中共这类行为，认为是侵犯人权。
+
+### 111: [2022-08-14 10:10:17+08:00 推文](https://twitter.com/HeQinglian/status/1558637100895019009)
+
+Re @zhixiangziyou 译成英文，贴到谭德赛的推号后面。他看了准保大喜。
+
