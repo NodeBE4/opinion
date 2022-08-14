@@ -55,3 +55,11 @@ Teacher surnamed Zheng in Liaoning Province arrested in Oct 2018 for his 163 pie
 
 After Tangshan BBQ Restaurant Attack Incident that outraged the entire country, a blogger tried to follow the development of the case. Now he got arrested, apparently for demanding updates &amp; exposing authority's efforts to violently stop journalists from covering the case.<br><img style="" src="https://pbs.twimg.com/media/FaE_NCGWIAA52LD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 11: [2022-08-14 20:47:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1558797337526509569)
+
+今年5月，海南省海口市男子郑贵贤，因在网络转发“辱骂赵立坚的言论”并“扬言要殴打赵立坚”，被处拘留15日，并收缴作案手机。<br><img style="" src="https://pbs.twimg.com/media/FaH1j8-XkAAeEUm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-08-14 20:50:50+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1558798302069547009)
+
+Hainan man Zheng Guixian detained for 15 days for "insulting China MFA Spokesperson Zhao Lijian (@zlj517) and threatening to beat him".<br>FYI: around 2 years ago, Zhao's ministry published an article that said no single person in China would get legal punishment for their speech.<br><img style="" src="https://pbs.twimg.com/media/FaH19BRWYAI_jrG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

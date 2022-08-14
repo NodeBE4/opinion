@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-12
+date: 2022-08-14
 from: https://twitter.com/realcaixia/status/1556692785905942530
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re 我和千帆是彼此最信任的好朋友，我们认识10多年了。我和
 ### 15: [2022-08-12 00:53:55+08:00 推文](https://twitter.com/realcaixia/status/1557772311444463616)
 
 佩洛西访台，中共用谩骂来替代正常沟通方式，几位战狼发言人已经充分显示外交流氓化；中共军队不敢打美军，等佩洛西飞机飞离台湾后发动军事演习。这真应了中国老话：柿子捡软的捏。中共军队以为台湾是“软柿子”，用武力恫吓台湾。这更让全世界看明白中共国实在是个流氓国。<br><br>《议报》: 墨獠 | 这一夜，倒车开到了19世纪<br> <a href="https://yibaochina.com/?p=247450" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247450</a>
+
+### 16: [2022-08-14 20:56:54+08:00 推文](https://twitter.com/realcaixia/status/1558799824883011584)
+
+推荐郑旭光先生关于20大顶层人事的分析。<br><br>新人誰入局，北戴河定案；放權改集權，部委勢力強；地方不彰顯，習系才吃香；趙樂際王滬寧監習同進退，胡春華丁薛祥或入常；魏鳳和李作成軍方入局，張又俠... <a href="https://youtu.be/nQsXXw1QJB0" target="_blank" rel="noopener noreferrer">https://youtu.be/nQsXXw1QJB0</a>
 
