@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
+大眼是热血贲张悲悯满怀的真诚坦荡的人。
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 
@@ -177,7 +177,7 @@ Re 文章充满悲愤但不止于悲愤！<br>我的推特引言第三段文字�
 
 ### 41: [2022-04-23 07:18:26+08:00 推文](https://twitter.com/realcaixia/status/1517644022205980680)
 
-四月之声！2020年春武汉再现！
+四月之声！2020年春武汉再现！<br><br>freelysiumeu: @realcaixia<br> <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664" target="_blank" rel="noopener noreferrer">https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664</a>
 
 ### 42: [2022-04-23 09:12:30+08:00 推文](https://twitter.com/realcaixia/status/1517672730711281664)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
 
