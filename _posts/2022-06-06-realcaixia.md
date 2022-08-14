@@ -77,7 +77,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 16: [2022-06-09 20:43:51+08:00 推文](https://twitter.com/realcaixia/status/1534878944360644608)
 
-这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。
+这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。<br><br>RICHARD FULL: 6月3日晚，在维多利亚公园（香港六四烛光晚会曾经一直在这里举行，直到2020年被禁止），一名男子坐在那里看书，面前放着两根电蜡烛。警察搜查了他的包，问他在那里做什么。他说，"无可奉告"。<br><br>重压之下云淡风轻，了不起的香港人👍<br><br><img style="" src="https://pbs.twimg.com/media/FUXT5nPUcAEgLZb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2022-06-09 20:52:33+08:00 推文](https://twitter.com/realcaixia/status/1534881131392294919)
 
