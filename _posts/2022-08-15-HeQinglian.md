@@ -43,3 +43,27 @@ Re @Wu_Zhi @JianglinLi @david_david1968 @ngexp 波兰好象最近消停了一些
 
 Re 忘记说的是：川普塑像也是用来供纽约人侮辱练拳头。
 
+### 8: [2022-08-15 06:39:56+08:00 推文](https://twitter.com/xiaxiaoqiang/status/1558946552823140354)
+
+RT xiaxiaoqiang 夏小強<br>抄家川普後，美國司法系統民調降到谷底，從監聽總統候選人到抄家前總統，叛國者的黑歷史被翻出 <a href="https://www.xiaxiaoqiang.net/after-the-copycat-trump/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/after-the-copycat-trump/.html</a>
+
+### 9: [2022-08-15 09:04:23+08:00 推文](https://twitter.com/HeQinglian/status/1558982904134369281)
+
+泽连斯基：如果你是俄国公民却沉默不语，这意味着你在支持战争 <br>补一句：不管你是哪国公民，如果你没有表态支持乌克兰，你就是支持俄罗斯的侵略战争。<br>道德绑架三部曲：<br>第一步：是国家层面；第二步，是俄罗斯公民；第三步，猜想是世界各国的公民。 <a href="https://rfi.my/8f3o.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8f3o.T</a>
+
+### 10: [2022-08-15 09:10:01+08:00 推文](https://twitter.com/HeQinglian/status/1558984320123019264)
+
+Re @GxYnjDy7NcVJquG 当然错了。<br>人家是俄罗斯公民，人家爱自己国家，为什么一定要支持一个与本国为敌的国家？<br>更何况，乌克兰除了贴上西方之外，这个国家一无是处。
+
+### 11: [2022-08-15 09:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1558986030690213888)
+
+Re @pandatress1 @Wu_Zhi @JianglinLi @david_david1968 @ngexp 冻死事小，支持制裁的政治正确事大。<br>只要政治正确，“纵做冻死鬼，也幸福”——这是我抄来的，改了一个字。
+
+### 12: [2022-08-15 10:49:40+08:00 推文](https://twitter.com/HeQinglian/status/1559009400924377089)
+
+Re @motorheroSyd 现在川普受迫害，你不表态支持，就是你丧失良心，OK？
+
+### 13: [2022-08-15 10:50:28+08:00 推文](https://twitter.com/HeQinglian/status/1559009599277219840)
+
+Re @Spicy62425660 你是中国人，因此你就是你说的这号人——按你的逻辑推演。
+

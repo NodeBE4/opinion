@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-13
+date: 2022-08-14
 from: https://old.reddit.com/r/AskHistorians/comments/wix7qh/what_was_the_relationship_between_china_and/
 layout: post
 tags:
@@ -312,4 +312,22 @@ Chinese diplomatic propaganda is all but literal dick-waving anyway. 90% of mode
 ----- __706.1__ -----2022-08-14 02:53:47+08:00:
 
 It's an interesting podcast that is worth a listen, though if I'm not mistaken the host is (or at least, was at time of production) a lowkey cryptobro. He seems to believe there are legitimate crypto use cases, and that aside from being a scam in itself, OneCoin poisoned the well around crypto. The takeaway really – imo – is that it is arguably the best example of how crypto all runs on hype, in that one of the most invested-in crypto schemes ever turned out to not even require any of its core technology.
+
+### 707: [Are wizards and magicians from medieval literature strictly fictional, or were there people IRL who claimed to be wizards?](https://old.reddit.com/r/AskHistorians/comments/wo57s0/are_wizards_and_magicians_from_medieval/), submitted on 2022-08-14 20:26:30+08:00.
+
+----- __707.1__ -----2022-08-15 10:53:02+08:00:
+
+Sorry, but we have had to remove your comment. [Please understand that people come here because they want an informed response from someone capable of engaging with the sources, and providing follow-up information](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). Wikipedia can be a useful tool, but merely repeating information found there doesn't provide the type of answers we seek to encourage here. [As such, we don't allow answers which simply link to, quote from, or are otherwise heavily dependent on Wikipedia](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources). We presume that someone posting a question here either doesn't want to get the 'Wikipedia answer', or has already checked there and found it lacking. You can find further discussion of this policy [here](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/). In the future, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) before contributing again.
+
+### 708: [[Hobby Scuffles] Week of August 15, 2022](https://old.reddit.com/r/HobbyDrama/comments/wo8d9h/hobby_scuffles_week_of_august_15_2022/), submitted on 2022-08-14 23:00:11+08:00.
+
+----- __708.1__ -----2022-08-15 10:17:18+08:00:
+
+> And I don't think anyone thinks she's outright a CCP spy so much as she maybe buys into the CCP propaganda on queer stuff and maybe wants to appeal to China a bit too much.
+
+I think there is an important conversation to be had about how disliking or opposing the CCP and/or emigrating from China doesn't mean that a person disagrees with the core tenets of modern Chinese ultranationalism, its attendant emphases on purist ideals of masculinity and femininity and, as a direct extension of that, queerphobia in all its guises. 'I, as a cishet Han Chinese person, believe I deserve more political rights' is not fundamentally in conflict with Han-centric nationalism, nor does it logically follow that this position would also entail supporting rights for minorities (of any kind).
+
+----- __708.2__ -----2022-08-15 10:20:52+08:00:
+
+Wait, I thought he was pro GamerGate at one stage? Did he swing the other way politically in the past few years, or is it just that Chinese ultranationalism happens to appeal to a side of him that was always there?
 
