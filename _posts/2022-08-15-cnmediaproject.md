@@ -47,3 +47,7 @@ A long read that won't disappoint. Fake foreign film festivals. Applauding audie
 
 RT Melissa Chan<br>Batshit story from @cnmediaproject about China's attempts setting up fake foreign film festivals to give its sketchy documentaries awards (a non-existent Prague film festival, a "Canadian" narrator with a Russian phone number who is actually named Sergei). <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
 
+### 9: [2022-08-15 20:54:17+08:00 推文](https://twitter.com/cnmediaproject/status/1559161557732704256)
+
+Telling China’s Story, Poorly: Why did four Chinese propaganda documentaries of questionable quality and dubious provenance win awards at minor, as well as fake, international film festivals? <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a><br><img style="" src="https://pbs.twimg.com/media/FaNBKggaAAE-8H-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
