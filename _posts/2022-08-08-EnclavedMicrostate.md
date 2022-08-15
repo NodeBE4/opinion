@@ -313,29 +313,37 @@ Chinese diplomatic propaganda is all but literal dick-waving anyway. 90% of mode
 
 It's an interesting podcast that is worth a listen, though if I'm not mistaken the host is (or at least, was at time of production) a lowkey cryptobro. He seems to believe there are legitimate crypto use cases, and that aside from being a scam in itself, OneCoin poisoned the well around crypto. The takeaway really – imo – is that it is arguably the best example of how crypto all runs on hype, in that one of the most invested-in crypto schemes ever turned out to not even require any of its core technology.
 
-### 707: [Are wizards and magicians from medieval literature strictly fictional, or were there people IRL who claimed to be wizards?](https://old.reddit.com/r/AskHistorians/comments/wo57s0/are_wizards_and_magicians_from_medieval/), submitted on 2022-08-14 20:26:30+08:00.
+### 707: [Did Alexander the Great cease his eastward conquest on account of a defeat in India?](https://old.reddit.com/r/AskHistorians/comments/wnwidw/did_alexander_the_great_cease_his_eastward/), submitted on 2022-08-14 11:38:12+08:00.
 
------ __707.1__ -----2022-08-15 10:53:02+08:00:
+----- __707.1__ -----2022-08-15 18:30:17+08:00:
+
+I discuss the 'mutiny' (or otherwise) at the Hyphasis River in [this past answer](https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr177l/). As ever, there are multiple contradictory versions that are equally, or at least comparably, legitimate.
+
+That said, to quickly address the more specific wording of your question I think the answer is to say that both perspectives are, in some sense, correct. On the one hand, Alexander did not suffer any battlefield defeats in India. But on the other, there is broad concurrence in the sources that by 326 BCE, the Macedonian army had suffered heavy material attrition and was deeply demoralised. While that is far from being the same as having 'lost on the battlefield', which would imply some covered-up tactical disaster, it would be correct to say that the army was 'sufficiently weakened that he [Alexander] could not progress further'.
+
+### 708: [Are wizards and magicians from medieval literature strictly fictional, or were there people IRL who claimed to be wizards?](https://old.reddit.com/r/AskHistorians/comments/wo57s0/are_wizards_and_magicians_from_medieval/), submitted on 2022-08-14 20:26:30+08:00.
+
+----- __708.1__ -----2022-08-15 10:53:02+08:00:
 
 Sorry, but we have had to remove your comment. [Please understand that people come here because they want an informed response from someone capable of engaging with the sources, and providing follow-up information](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). Wikipedia can be a useful tool, but merely repeating information found there doesn't provide the type of answers we seek to encourage here. [As such, we don't allow answers which simply link to, quote from, or are otherwise heavily dependent on Wikipedia](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources). We presume that someone posting a question here either doesn't want to get the 'Wikipedia answer', or has already checked there and found it lacking. You can find further discussion of this policy [here](https://www.reddit.com/r/AskHistorians/comments/fj1ieh/rules_roundtable_v_sources_what_is_required/). In the future, please take the time to better familiarize yourself with [the rules](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer) before contributing again.
 
-### 708: [[Hobby Scuffles] Week of August 15, 2022](https://old.reddit.com/r/HobbyDrama/comments/wo8d9h/hobby_scuffles_week_of_august_15_2022/), submitted on 2022-08-14 23:00:11+08:00.
+### 709: [[Hobby Scuffles] Week of August 15, 2022](https://old.reddit.com/r/HobbyDrama/comments/wo8d9h/hobby_scuffles_week_of_august_15_2022/), submitted on 2022-08-14 23:00:11+08:00.
 
------ __708.1__ -----2022-08-15 10:17:18+08:00:
+----- __709.1__ -----2022-08-15 10:17:18+08:00:
 
 > And I don't think anyone thinks she's outright a CCP spy so much as she maybe buys into the CCP propaganda on queer stuff and maybe wants to appeal to China a bit too much.
 
 I think there is an important conversation to be had about how disliking or opposing the CCP and/or emigrating from China doesn't mean that a person disagrees with the core tenets of modern Chinese ultranationalism, its attendant emphases on purist ideals of masculinity and femininity, or, as a direct extension of that, queerphobia in all its guises. 'I, as a cishet Han Chinese person, believe I deserve more political rights' is not fundamentally in conflict with Han-centric nationalism, nor does it logically follow that this position would also entail supporting rights for minorities (of any kind).
 
------ __708.2__ -----2022-08-15 10:20:52+08:00:
+----- __709.2__ -----2022-08-15 10:20:52+08:00:
 
 Wait, I thought he was pro GamerGate at one stage? Did he swing the other way politically in the past few years, or is it just that Chinese ultranationalism happens to appeal to a side of him that was always there?
 
------ __708.3__ -----2022-08-15 14:00:12+08:00:
+----- __709.3__ -----2022-08-15 14:00:12+08:00:
 
 The Russian version of the TOS presumably. Cyrillic is just the script.
 
------ __708.4__ -----2022-08-15 16:46:22+08:00:
+----- __709.4__ -----2022-08-15 16:46:22+08:00:
 
 Sorry, I might have phrased that awkwardly – I was expanding on rather than contending with your point.
 

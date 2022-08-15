@@ -43,3 +43,7 @@ RT Richard McGregor<br>Fascinating and detailed descent into the murky, global
 
 A long read that won't disappoint. Fake foreign film festivals. Applauding audiences that don't exist. Directors who promote, and then deny involvement. Producers invisible. You can't make up the mess that can come with "telling China's story well." <a href="https://bit.ly/3QI5HjN" target="_blank" rel="noopener noreferrer">https://bit.ly/3QI5HjN</a><br><img style="" src="https://pbs.twimg.com/media/FaL9UEnagAA45Zm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 8: [2022-08-15 18:14:45+08:00 推文](https://twitter.com/melissakchan/status/1559121408524959745)
+
+RT Melissa Chan<br>Batshit story from @cnmediaproject about China's attempts setting up fake foreign film festivals to give its sketchy documentaries awards (a non-existent Prague film festival, a "Canadian" narrator with a Russian phone number who is actually named Sergei). <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
+
