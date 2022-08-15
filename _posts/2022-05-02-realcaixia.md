@@ -61,7 +61,7 @@ Re @HenryCh34283099 对北大清华之类的大学，出于政治需要，即便
 
 ### 12: [2022-05-06 23:15:09+08:00 推文](https://twitter.com/realcaixia/status/1522595830305366018)
 
-强力推荐！#议报发布 <br>读笑蜀先生文章想起亨廷顿的《第三波》与福山的《历史的终极》，那时人们以为自由民主必然取代极权统治。事实上中共极权借此机会而获得时间和空间，快速崛起威胁世界和平。俄侵乌战争使普金结局已可见，此后即是自由民主与中共极权的对决。世界处在又一次关乎人类命运的历史关口
+强力推荐！#议报发布 <br>读笑蜀先生文章想起亨廷顿的《第三波》与福山的《历史的终极》，那时人们以为自由民主必然取代极权统治。事实上中共极权借此机会而获得时间和空间，快速崛起威胁世界和平。俄侵乌战争使普金结局已可见，此后即是自由民主与中共极权的对决。世界处在又一次关乎人类命运的历史关口<br><br>《议报》: 笑蜀：俄乌之战将威权打回原形，全球民主转型或会重启<br> <a href="https://yibaochina.com/?p=246302" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246302</a>
 
 ### 13: [2022-05-07 02:03:11+08:00 推文](https://twitter.com/realcaixia/status/1522638118935015426)
 
@@ -81,7 +81,7 @@ Re @Tututula4 @HenryCh34283099 这个问题需要您去问执行者。猜，没�
 
 ### 17: [2022-05-07 08:58:37+08:00 推文](https://twitter.com/realcaixia/status/1522742665699340290)
 
-开心！<br><br>荣剑: 网上说张维为清空了他的微博，还以为是谣传，从微博上看了一下，果然如此，看来这回渣国师“被揍”之后，心灵受到的打击远大于其被揍得鼻青脸肿，这叫伤害不大，羞辱不小，于是，恼羞成怒，关了自己的微博。😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FRUOppXUUAAAaaa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOqN0VkAA78HY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOq0_VkAE0ReB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOrVhVgAAOmgU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+开心！
 
 ### 18: [2022-05-08 00:46:48+08:00 推文](https://twitter.com/realcaixia/status/1522981283751555072)
 
