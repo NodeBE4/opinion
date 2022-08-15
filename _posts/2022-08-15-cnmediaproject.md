@@ -47,7 +47,19 @@ A long read that won't disappoint. Fake foreign film festivals. Applauding audie
 
 RT Melissa Chan<br>Batshit story from @cnmediaproject about China's attempts setting up fake foreign film festivals to give its sketchy documentaries awards (a non-existent Prague film festival, a "Canadian" narrator with a Russian phone number who is actually named Sergei). <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
 
-### 9: [2022-08-15 20:54:17+08:00 推文](https://twitter.com/cnmediaproject/status/1559161557732704256)
+### 9: [2022-08-15 19:45:13+08:00 推文](https://twitter.com/donweinland/status/1559144176482103298)
+
+RT Don Weinland<br>Re This is an excellent, often humorous piece by @cnmediaproject that ultimately raises questions over why people go through the trouble of making fake docs and film festivals that no one sees or attends
+
+### 10: [2022-08-15 20:54:17+08:00 推文](https://twitter.com/cnmediaproject/status/1559161557732704256)
 
 Telling China’s Story, Poorly: Why did four Chinese propaganda documentaries of questionable quality and dubious provenance win awards at minor, as well as fake, international film festivals? <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a><br><img style="" src="https://pbs.twimg.com/media/FaNBKggaAAE-8H-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-08-15 21:45:00+08:00 推文](https://twitter.com/mauracunningham/status/1559174319502229504)
+
+RT Maura Elizabeth Cunningham 马丽娜<br>At @cnmediaproject, one of the weirder Chinese propaganda stories I've heard lately, involving fake film festivals/screenings, clumsy "documentary" footage, and credits that name people who have never heard of the movies they supposedly contributed to. <a href="https://buff.ly/3Qs86PQ" target="_blank" rel="noopener noreferrer">https://buff.ly/3Qs86PQ</a>
+
+### 12: [2022-08-15 22:47:29+08:00 推文](https://twitter.com/niubi/status/1559190043025199104)
+
+RT Bill Bishop<br>Jörg Wuttke on China’s Self-Destruction <a href="https://www.thewirechina.com/2022/08/14/jorg-wuttke-on-chinas-self-destruction/" target="_blank" rel="noopener noreferrer">https://www.thewirechina.com/2022/08/14/jorg-wuttke-on-chinas-self-destruction/</a><br><img style="" src="https://pbs.twimg.com/media/FaNbDkJXkAc8l9U?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

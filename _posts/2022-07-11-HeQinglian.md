@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 
@@ -657,7 +657,7 @@ Re @farmdirect8 @shenliangqing2 @peichang_yang 为什么要费尽心思？男女
 
 ### 161: [2022-07-17 05:53:35+08:00 推文](https://twitter.com/HeQinglian/status/1548425640264708100)
 
-经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。
+经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。<br><br>The Economist: Joe Biden’s hosts will offer a friendly welcome, but they will probably send him home with little more than a few token souvenirs<br> <a href="https://econ.st/3IOSlzP" target="_blank" rel="noopener noreferrer">https://econ.st/3IOSlzP</a>
 
 ### 162: [2022-07-17 09:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1548473706740994049)
 

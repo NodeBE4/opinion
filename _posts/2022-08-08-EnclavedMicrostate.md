@@ -351,3 +351,9 @@ Sorry, I might have phrased that awkwardly – I was expanding on rather than co
 
 I'm honestly surprised anyone is still invested in any product that might give kickbacks – financial or publicity – to JKR.
 
+----- __709.6__ -----2022-08-15 22:58:40+08:00:
+
+!!!! This !!!!
+
+I remember back in the early 2010s all of the hardcore fans complaining about Dave Filoni, dropped off the Star Wars wagon for a while, and came back around 2020 to discover that apparently Dave Filoni was the second coming of Christ or something within fandom. Because of course.
+
