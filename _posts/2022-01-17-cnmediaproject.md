@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-01-18 19:52:39+08:00 推文](https://twitter.com/cnmediaproject/status/1483406980836642818)
 
-Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
+Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-18 23:50:12+08:00 推文](https://twitter.com/CHRDnet/status/1483466762351906816)
 
@@ -29,11 +29,11 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
-The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
+The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style="" src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 14:48:09+08:00 推文](https://twitter.com/jcmittelstaedt/status/1483692739426463748)
 
@@ -61,7 +61,7 @@ Re CCHRC content is strikingly in line with the CCP line, though Zwart insists h
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
@@ -81,11 +81,11 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
-RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent & smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
+RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent &amp; smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
 
 ### 19: [2022-01-20 15:42:11+08:00 推文](https://twitter.com/vshih2/status/1484068724445310976)
 
