@@ -1,0 +1,37 @@
+---
+author: EnclavedMicrostate
+categories:
+- Reddit
+date: 2022-08-15
+from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
+layout: post
+tags:
+- Reddit
+title: EnclavedMicrostate在2022-08-15~2022-08-21的言论
+---
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 709: [Why isn't the Taiping Rebellion more well known?](https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/), submitted on 2022-08-15 05:53:50+08:00.
+
+----- __709.1__ -----2022-08-15 13:59:08+08:00:
+
+It is absolutely worth stressing that the importance of an event is never simply proportionate to the raw number of human lives lost in it. A wonderfully succinct articulation of this point can be found in [this piece](https://eidolon.pub/when-numbers-dont-count-56a2b3c3d07) by Monica Green on the Plague of Justinian:
+
+> Yet it should be stressed that the question “how many died?” is not the only, nor the most important, question to ask about the plague. From the perspective of the history of medicine, there is no threshold, no magic number of deaths that will automatically determine “significance.” The 1918–19 Flu Pandemic killed “only” an estimated 2% of the world’s population; the HIV pandemic (whose spiraling numbers only started to decline in the early 2000s) killed even less. Yet because many of the dead from both pandemics were young, previously healthy adults, the economic and cultural impact was profound. Plague need not have had equal effects on all parts of western Eurasia and North Africa to have been profoundly influential as an infectious disease in late antiquity.
+
+The piece is well worth reading as a whole, but the above quotation encapsulates my point: causing a lot of deaths does not make an event *more* important, but not causing a lot of deaths does not make it *less* important, either. The effects of the Taiping War need to be assessed my metrics beyond simply the scale of demographic loss.
+
+I'm going to assume your perspective is American or otherwise Anglophone here. In which case the first and simplest reason the Taiping War isn't better known is that it happened in China, and not in an Anglophone country. The American Civil War does not feature heavily in Chinese popular consciousness, and why should it? Nor does either conflict, I would think, have particular resonance in European countries. To turn it around, you probably have not heard of (or at least, not much of) the French Wars of Religion, or the Imjin War, or the Mughal-Maratha conflicts, because you almost certainly do not live somewhere where one or more of these conflicts form part of an accepted narrative of national history. Now, this does get into an important point of nuance: history as both a field of study and a cultural phenomenon is, in its current form, still shaped heavily by nationalism, and particularly in the popular sphere there continues to be a strong emphasis on specifically *national* history, in which history exists to reinforce the idea of the nation. A different country's civil war is unlikely to feature particularly strongly in such a narrative, with the odd exception such as, funnily enough, the US, where some level of cultural memory of the English Civil War persisted into the nineteenth century. In this case the problem is not simply that the Taiping War took place in China, but also that the way history is taught and discussed de-emphasises histories outside the national narrative of any given context.
+
+That is not to say that the Taiping War was an event of purely regional significance. Interest in the diplomatic history of the Taiping goes back to at least the 1960s, and probably the best narrative history of the Taiping out there, Stephen Platt's *Autumn in the Heavenly Kingdom*, firmly situates the Taiping conflict in a global context and emphasises its broader impacts beyond the Yangtze valley. But as noted, lay discourse tends not to treat history in transnational terms, particularly in the context of relatively modern history, which the Taiping War absolutely qualifies as.
+
+Now, we can frame the Taiping conflict in such transnational, imperial terms: this was a war that had a substantial effect on the British and French empires, to a lesser but still notable extent the Russian empire, and even influenced the course of the American Civil War. But for one, because the Taiping War's influence was indirect, it doesn't really feature. For another, to most people these are the histories of Britain, France, Russia, and the USA respectively. That is to say that insofar as there is a conception of imperial history in wider discourse, it is as an extension of national history. There was, it must be granted, some limited involvement of various foreign volunteers and observers, and for some that has meant a hazy awareness, typically through the figures of Frederick Townsend Ward (American) and Charles George Gordon (British); by extension the Taiping have made the odd appearance in some popular media, although from what I know the only particularly enduring example is perhaps George MacDonald Fraser's *Flashman and the Dragon*. But you will note that that is because of the direct involvement of those countries' nationals, such that the Taiping feature as an extension of American and/or British national histories.
+
+It also doesn't help that the relatively low-level involvement of imperial powers in the Taiping War is easily overshadowed by the far more direct imperial hand in the Opium War and Arrow War, which are much easier to present as being significant to a Western – particularly British, French, or to a lesser extent American – audience. Direct imposition of terms upon the Qing government (which, in the end, won the Taiping War) at the point of a gun is something that is very concrete and easy to point to as a thing that people you [are expected to] identify with as having some common identity did. Policies of faux neutrality, low-level anti-smuggling operations, and the like are a lot harder to square.
+
+It ought also to be noted that the Taiping have ceased to feature particularly strongly in the Chinese national narrative either, which is fundamentally related to the PRC's pivot away from socialism towards thinly-veiled eugenicist ultranationalism as its guiding ideology since the late 1980s. Whereas the Mao era saw a huge boom in Taiping scholarship and public interest, since the 1980s work has instead been done to assert the 'Chineseness' of the Qing and to rehabilitate former 'race-traitors' like Zeng Guofan who represented the old conservative, traditionalist order. Whereas once, episodes of class struggle like the Taiping War and the Chinese Civil War were seen as the key moments of Chinese history, now China's history is one of resistance to foreign invaders. The Chinese Civil War has been de-emphasised in favour of the Second Sino-Japanese War, and so too has the Taiping War been brushed aside in favour of the Opium Wars.
+
+The answer, then, is depressingly straightforward: most history is national history, and the Taiping do not fit into anyone's national history.
+

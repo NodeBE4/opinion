@@ -331,3 +331,7 @@ I think there is an important conversation to be had about how disliking or oppo
 
 Wait, I thought he was pro GamerGate at one stage? Did he swing the other way politically in the past few years, or is it just that Chinese ultranationalism happens to appeal to a side of him that was always there?
 
+----- __708.3__ -----2022-08-15 14:00:12+08:00:
+
+The Russian version of the TOS presumably. Cyrillic is just the script.
+
