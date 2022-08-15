@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-15
+date: 2022-08-16
 from: https://twitter.com/HeQinglian/status/1558916977850257408
 layout: post
 tags:
@@ -114,4 +114,20 @@ Re @elenly @GxYnjDy7NcVJquG 那是。在我眼里一无是处的进步文化，�
 ### 25: [2022-08-15 21:45:49+08:00 推文](https://twitter.com/HeQinglian/status/1559174523014070274)
 
 Re @david_david1968 一听那种酒吧音乐脑袋就要炸。
+
+### 26: [2022-08-16 04:28:53+08:00 推文](https://twitter.com/HeQinglian/status/1559275958640730114)
+
+Re @wuxingtianxiaqq @GxYnjDy7NcVJquG 我每天都在摆事实，文章里有注解，奇怪你居然看不见。<br>本来就是你没事找事，到现在还在梦里。我不干预你做梦，但你别将别人的清醒当作过激、极端。如同当年郭粉逼人挺郭一样。<br>今天我转的一推，推友谈对美国堕落的看法，那见识，出去多说点话于人有益。你还是与同好交流吧。
+
+### 27: [2022-08-16 04:42:43+08:00 推文](https://twitter.com/HeQinglian/status/1559279440886222851)
+
+俄乌战争的主角们都知道发生了什么，只有看客还在激动不已。昨天泽连斯基取消俄罗斯人沉默权的推文引来一堆乌粉叫唤（鸡血少点了），还有人要瓜分俄罗斯。看看这条弄明白此刻正在发生什么，人家不会告诉你。 <a href="https://hk.finance.yahoo.com/news/%E5%88%B6%E8%A3%81%E4%B9%8B%E5%BE%8C-%E5%A4%9A%E9%96%93%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%81%A2%E5%BE%A9%E4%BF%84%E7%BE%85%E6%96%AF%E5%82%B5%E5%88%B8%E4%BA%A4%E6%98%93-083715321.html" target="_blank" rel="noopener noreferrer">https://hk.finance.yahoo.com/news/%E5%88%B6%E8%A3%81%E4%B9%8B%E5%BE%8C-%E5%A4%9A%E9%96%93%E7%BE%8E%E5%9C%8B%E9%8A%80%E8%A1%8C%E6%81%A2%E5%BE%A9%E4%BF%84%E7%BE%85%E6%96%AF%E5%82%B5%E5%88%B8%E4%BA%A4%E6%98%93-083715321.html</a>
+
+### 28: [2022-08-16 04:48:47+08:00 推文](https://twitter.com/HeQinglian/status/1559280968074240001)
+
+Re @zhixiangziyou 这类信号明显的信息，估计他们也不会看。弄不清这些人的接收系统出了什么问题。<br><br>jiang shangrong: 俄导弹巡洋舰瓦良格号在亚得里亚海拦截了打算离开该地区的美航母打击群.意《共和报》报道.因北约和俄紧张局势.直接冲突风险非常高,因此决定不承认这一事件<br><br>“没人注意到,但三周前,亚得里亚海的俄舰队正处于与北约船只相撞的边缘”<br><br>俄船只机动旨在阻止美航母“哈里杜鲁门”移动<br> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+
+### 29: [2022-08-16 05:14:45+08:00 推文](https://twitter.com/HeQinglian/status/1559287501541593094)
+
+Re @HushPup42308990 @motorheroSyd 又双标了。<br>看见乌鸡血就烦，有点自尊好么？别来我这现眼了。
 
