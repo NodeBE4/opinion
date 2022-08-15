@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -769,7 +769,7 @@ Re @fading_you1 恭喜你。推特上几百万中文用户，你排在如此靠�
 
 ### 189: [2022-07-24 20:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1551180986469285888)
 
-这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉
+这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉<br><br>绫波: 意大利和西班牙指责俄罗斯在意西两个国的森林火灾局面中无所作为。<br><br>今年，俄罗斯紧急救援部并没有派出消防机帮助他们应对森林火灾。<br><br><img style="" src="https://pbs.twimg.com/media/FYXmfQhUsAAOgAh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 190: [2022-07-24 20:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1551181855545860100)
 
@@ -801,5 +801,5 @@ Re @realJackLaw @KELMAND1 @ZedongWinine @LetsBeatRabbits 正好相反。
 
 ### 197: [2022-07-24 23:35:41+08:00 推文](https://twitter.com/HeQinglian/status/1551229642526318592)
 
-米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？<br><br>RFI 華語 - 法國國際廣播電台: 米利將軍：中國更具侵略性 對美國及盟友很危險<br><br><img style="" src="https://pbs.twimg.com/media/FYcPrOoUEAEWRZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bk1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bk1.t</a>
+米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？
 

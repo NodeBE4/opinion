@@ -257,7 +257,7 @@ Re @Wu_Zhi @JianglinLi “Maybe von Clausewitz was wrong, and war is shitposting
 
 ### 61: [2022-03-29 11:35:42+08:00 推文](https://twitter.com/HeQinglian/status/1508649071195705346)
 
-俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
+RT He Qinglian<br>俄乌战争终结了西方的和平主义外交政策<br><br>全球化行至 世纪之交后，增加了两大乌托邦理想：地球村——和平主义外交政府；绿色能源。一场俄乌战争，终结了两大乌托邦理想。战争还未结束，世界有能力的国家都开始考虑增加军备，甚至发展核武（如日本）。<br>军火工业将获大发展。 <a href="https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/chinese/mandarin/zh-hans/russia-ukraine-war-ends-west-s-pacifist-foreign-policy</a>
 
 ### 62: [2022-03-29 20:50:30+08:00 推文](https://twitter.com/HeQinglian/status/1508788691900284928)
 
