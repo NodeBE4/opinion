@@ -347,3 +347,7 @@ The Russian version of the TOS presumably. Cyrillic is just the script.
 
 Sorry, I might have phrased that awkwardly – I was expanding on rather than contending with your point.
 
+----- __709.5__ -----2022-08-15 22:04:27+08:00:
+
+I'm honestly surprised anyone is still invested in any product that might give kickbacks – financial or publicity – to JKR.
+
