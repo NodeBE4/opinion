@@ -325,7 +325,7 @@ Sorry, but we have had to remove your comment. [Please understand that people co
 
 > And I don't think anyone thinks she's outright a CCP spy so much as she maybe buys into the CCP propaganda on queer stuff and maybe wants to appeal to China a bit too much.
 
-I think there is an important conversation to be had about how disliking or opposing the CCP and/or emigrating from China doesn't mean that a person disagrees with the core tenets of modern Chinese ultranationalism, its attendant emphases on purist ideals of masculinity and femininity and, as a direct extension of that, queerphobia in all its guises. 'I, as a cishet Han Chinese person, believe I deserve more political rights' is not fundamentally in conflict with Han-centric nationalism, nor does it logically follow that this position would also entail supporting rights for minorities (of any kind).
+I think there is an important conversation to be had about how disliking or opposing the CCP and/or emigrating from China doesn't mean that a person disagrees with the core tenets of modern Chinese ultranationalism, its attendant emphases on purist ideals of masculinity and femininity, or, as a direct extension of that, queerphobia in all its guises. 'I, as a cishet Han Chinese person, believe I deserve more political rights' is not fundamentally in conflict with Han-centric nationalism, nor does it logically follow that this position would also entail supporting rights for minorities (of any kind).
 
 ----- __708.2__ -----2022-08-15 10:20:52+08:00:
 

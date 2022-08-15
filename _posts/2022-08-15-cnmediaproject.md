@@ -31,3 +31,7 @@ Re Fascinating investigation by @schoenmakersk into a bizarre case of faking glo
 
 Re Thanks to earlier spotters/reporters of this mystifying case, including @ktse852 and the Czech Republic's Deník N @enkocz.
 
+### 5: [2022-08-15 11:26:04+08:00 推文](https://twitter.com/mcgregorrichard/status/1559018559963295744)
+
+RT Richard McGregor<br>Fascinating and detailed descent into the murky, global networks of Chinese propaganda efforts to get their message out abroad, here into international film festivals @cnmediaproject h/t @mbrookerhk <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
+

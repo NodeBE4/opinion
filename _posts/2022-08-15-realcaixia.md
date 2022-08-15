@@ -35,3 +35,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJUX6DWYAICJ71?format=jpg
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaJXErpXoAAcf2C?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaJXErpXEAEvnqk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaJXErpXwAAGMgB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-08-15 11:23:19+08:00 推文](https://twitter.com/realcaixia/status/1559017866837516288)
+
+<br><img style="" src="https://pbs.twimg.com/media/FaK-fMuXEAAu32r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
