@@ -335,3 +335,7 @@ Wait, I thought he was pro GamerGate at one stage? Did he swing the other way po
 
 The Russian version of the TOS presumably. Cyrillic is just the script.
 
+----- __708.4__ -----2022-08-15 16:46:22+08:00:
+
+Sorry, I might have phrased that awkwardly – I was expanding on rather than contending with your point.
+
