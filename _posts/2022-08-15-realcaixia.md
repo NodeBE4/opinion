@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-15
+date: 2022-08-16
 from: https://twitter.com/realcaixia/status/1558881121261305856
 layout: post
 tags:
@@ -38,4 +38,20 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 ### 6: [2022-08-15 11:23:19+08:00 推文](https://twitter.com/realcaixia/status/1559017866837516288)
 
 <br><img style="" src="https://pbs.twimg.com/media/FaK-fMuXEAAu32r?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-08-16 03:50:30+08:00 推文](https://twitter.com/realcaixia/status/1559266302425956354)
+
+习上台以来，言论罪、文字狱空前严酷。中共极权统治的专政暴力机器，完全用来镇压民间维权。维稳与维权之间水火不容。<br><br>GreatFire.org: #名家观点#<br>刘晓波：在言论自由已经成为人类公认的基本权利和社会公正之标准的今天，在大陆中国，统治者从来没有对自己的暴行做过任何忏悔，没有对那些因言论而受迫害者做过一次哪怕是装点门面的道歉。<br> <a href="http://liuxiaobo.info/blog/archives/5518" target="_blank" rel="noopener noreferrer">http://liuxiaobo.info/blog/archives/5518</a>
+
+### 8: [2022-08-16 04:01:35+08:00 推文](https://twitter.com/realcaixia/status/1559269090468024320)
+
+这就是刘晓波2000年的文章全文：《割去社会的舌头》。文章中揭露公民所遭受的酷刑摧残，惨不忍睹,令人发指！<br><img style="" src="https://pbs.twimg.com/media/FaOi9DSXEAE16HB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaOi9UEWIAAkADp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaOi9n0XEAEPE3N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaOi-G-WYAAqsiO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-08-16 04:08:13+08:00 推文](https://twitter.com/realcaixia/status/1559270757175369731)
+
+特别推荐#议报转发北大著名经济学家张维迎教授的文章。<br><br>《议报》: 张维迎 | 非理性决策的四大陷阱<br> <a href="https://yibaochina.com/?p=247487" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247487</a>
+
+### 10: [2022-08-16 04:11:58+08:00 推文](https://twitter.com/realcaixia/status/1559271704353980416)
+
+特别推荐：大陆著名金融学家管清友的微博文章。文章对这一年多以来，大陆房地产公司暴雷、房地产业几乎崩盘的情况作了冷峻透彻的分析。<br><br>《议报》: 管清友 | 真没尿了<br> <a href="https://yibaochina.com/?p=247484" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247484</a>
 
