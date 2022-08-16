@@ -131,15 +131,35 @@ Re @zhixiangziyou 这类信号明显的信息，估计他们也不会看。弄�
 
 Re @HushPup42308990 @motorheroSyd 又双标了。<br>看见乌鸡血就烦，有点自尊好么？别来我这现眼了。
 
-### 30: [2022-08-16 08:41:14+08:00 推文](https://twitter.com/HeQinglian/status/1559339467449798656)
+### 30: [2022-08-16 06:24:30+08:00 推文](https://twitter.com/Jessie2021626/status/1559305054515040258)
+
+RT 一土2.0🇺🇸🇮🇱🇷🇺<br>感谢北美保守派的字幕翻译👍众议员@Jim_Jordan 和前CIA局长约翰谈FBI对川普的抄家和政府机构的日益两极化问题。<br>他们说FBI里有很多好人，有问题的是那些在顶端掌权的人🤡FBI 有告密者告诉我们现在正在流传的都是胡说八道，充分的显示了司法部成了民主党的打手。1/<br><video src="https://video.twimg.com/ext_tw_video/1559304910306418688/pu/vid/888x510/ZkBDDRCzE5WtHiMT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1559304910306418688/pu/img/xk-JN8ugsKyGv1kq.jpg"></video>
+
+### 31: [2022-08-16 08:41:14+08:00 推文](https://twitter.com/HeQinglian/status/1559339467449798656)
 
 Re @daoge2018 @david_david1968 还有过挺川历史？<br>这种华丽大转身，也算一绝。
 
-### 31: [2022-08-16 08:51:13+08:00 推文](https://twitter.com/HeQinglian/status/1559341978176864260)
+### 32: [2022-08-16 08:51:13+08:00 推文](https://twitter.com/HeQinglian/status/1559341978176864260)
 
 Re @shenliangqing2 中共大使馆的人这种下流，怎样批评怒骂都不过份。<br>“问个问题，如果是美国官员对美国民众这样做，后果会是什么？”——别忘记，美国总统拜登去年7月说了，人民要反抗政府，得有核武与F-15战机。<br>再想想1月6日。<br>2020年以前可以这样问，自从BLM成了贵族、毒贩罪犯弗洛伊德成了英雄，再这样问有点一厢情愿。
 
-### 32: [2022-08-16 09:58:04+08:00 推文](https://twitter.com/HeQinglian/status/1559358803749048321)
+### 33: [2022-08-16 09:58:04+08:00 推文](https://twitter.com/HeQinglian/status/1559358803749048321)
 
 Re @wuxingtianxiaqq @GxYnjDy7NcVJquG 哪句算骂你？<br>既然简中圈这么不好，来这里干什么？<br>以为繁中就好，恐怕是见识少了。<br>一、我用简中，你贴上来说简中不好，会不会尊重人？<br>二、没骂你一句，只说了你不看事实，这不算骂人，只算陈述事实。<br>走好，不送。
+
+### 34: [2022-08-16 20:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1559513196217749505)
+
+Re @cskun1989 欲知真假，就查几个大的进出口伙伴国的数据，比如美国海关、德国、日本也都有相应的进出口数据，只是公布时间相差半个月一个月左右。
+
+### 35: [2022-08-16 20:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1559513779913822208)
+
+民主党希望听到的是：川普保证退出政治，不再支持任何人当选，自己也承诺2024不再参选。<br><br>萧生客SSK🇺🇸🇨🇦: 如果川普总统对 "国家安全 "有如此大的威胁，为什么要等18个月才取回他家里的 "敏感 "文件？即使是民主党人也无法回答这个问题!<br><br>“这个国家的人民不会容忍另一个骗局。”<br><br>川普总统对司法部长加兰德喊话：这个国家正在燃烧，我能怎么做才能降温?<br><br><img style="" src="https://pbs.twimg.com/media/FaQBZFpXoAAVDTX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaQBZFpWYAAIPqe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaQBZFvWIAAlIzJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaQBZFsXkAAHkdy?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/eapd8Re2aMQBsn2gnzYSsg" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/eapd8Re2aMQBsn2gnzYSsg</a>
+
+### 36: [2022-08-16 20:28:38+08:00 推文](https://twitter.com/HeQinglian/status/1559517488030924802)
+
+推荐一部老法国电视剧《幕后枭雄》。<br>第一季数年前拍，但已经将西方选战的丑恶肮脏、黑幕交易揭露得相当深，包括将婚外情包装成感人的爱情故事化劣势为优势。但所有的肮脏中没包括造选票，只是引导选民将票投给己方阵营。<br>尽管与2020美国大选实况相比逊色不少，不象纸牌屋那样玩闹，但更深刻。
+
+### 37: [2022-08-16 20:33:05+08:00 推文](https://twitter.com/HeQinglian/status/1559518607742230530)
+
+再推以示郑重。<br>看了此推及后面的留言，我多少有点欣慰。欣慰的是不少推友从灯塔梦中醒来，愿意正视事实，而且还说得特别到位：美国以反伦理（政治、家庭、社会三个层面）的堕落，意味着世界文明的式微与衰败。<br><br>星沉海底: 现在朋友跟我说天朝的糗事，我已经不大想听了，没啥意思。因为美国目前的堕落更让我忧闷。感觉对于人类文明来说，天朝只是疥癬之疾，毕竟它本来就不是灯塔，它也是看一步走一步的。美国正常，它也不好意思离得太远；美国这种反伦理的堕落，才是抽走了整个人类文明的脊梁骨，危害更大。<br>
 
