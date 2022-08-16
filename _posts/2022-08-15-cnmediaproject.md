@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-15
+date: 2022-08-16
 from: https://twitter.com/cnmediaproject/status/1558971107054878722
 layout: post
 tags:
@@ -62,4 +62,28 @@ RT Maura Elizabeth Cunningham 马丽娜<br>At @cnmediaproject, one of the weir
 ### 12: [2022-08-15 22:47:29+08:00 推文](https://twitter.com/niubi/status/1559190043025199104)
 
 RT Bill Bishop<br>Jörg Wuttke on China’s Self-Destruction <a href="https://www.thewirechina.com/2022/08/14/jorg-wuttke-on-chinas-self-destruction/" target="_blank" rel="noopener noreferrer">https://www.thewirechina.com/2022/08/14/jorg-wuttke-on-chinas-self-destruction/</a><br><img style="" src="https://pbs.twimg.com/media/FaNbDkJXkAc8l9U?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-08-16 04:18:02+08:00 推文](https://twitter.com/niubi/status/1559273228106883073)
+
+RT Bill Bishop<br>lead essay in latest qiushi on the new development philosophy is Xi's speech from January 2021 Politburo study session. "common prosperity 共同富裕" is mentioned 13 times in this speech <a href="http://www.qstheory.cn/dukan/qs/2022-08/15/c_1128913644.htm" target="_blank" rel="noopener noreferrer">http://www.qstheory.cn/dukan/qs/2022-08/15/c_1128913644.htm</a>
+
+### 14: [2022-08-16 08:36:41+08:00 推文](https://twitter.com/cnmediaproject/status/1559338323075772417)
+
+Re @heguisen Some important context in this thread about the recent history of legislator visits to Taiwan — and how they did not precipitate crises or military exercises.
+
+### 15: [2022-08-16 08:39:17+08:00 推文](https://twitter.com/cnmediaproject/status/1559338975910719488)
+
+A story for your morning coffee, readers in Asia. With mystery — and many laughs. <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
+
+### 16: [2022-08-16 09:10:29+08:00 推文](https://twitter.com/cnmediaproject/status/1559346825189998592)
+
+Some important context in this thread about the recent history of legislator visits to Taiwan — and how they did not precipitate crises or military exercises.<br><br>Chris Horton 何貴森: There is nothing new about legislators and other officials from the US and other democracies visiting Taiwan. China is manufacturing a crisis with the explicit aim of dictating the foreign policy of sovereign states.<br><br><img style="" src="https://pbs.twimg.com/media/FaODqFyXkAM8dKJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-08-16 09:50:20+08:00 推文](https://twitter.com/cnmediaproject/status/1559356856409391104)
+
+Re @qianjinghua @supchinanews Like the Harvard China Project, China-Africa Project, the China Global South Project, the China Power Project. . . 😂
+
+### 18: [2022-08-16 09:57:09+08:00 推文](https://twitter.com/cnmediaproject/status/1559358572651507714)
+
+The latest in the CMP Dictionary: <a href="https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/</a>
 
