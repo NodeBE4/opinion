@@ -35,3 +35,7 @@ It ought also to be noted that the Taiping have ceased to feature particularly s
 
 The answer, then, is depressingly straightforward: most history is national history, and the Taiping do not fit into anyone's national history.
 
+----- __710.2__ -----2022-08-16 12:04:26+08:00:
+
+This verges heavily on modern politics, but a good couple of reads from a historiographical and cultural memory standpoint are the later chapters of Julia Lovell's *The Opium War* and Rana Mitter's recent work *China's Good War*. While I will limit what I discuss here to the period up to about 2000, even within that timeframe it is clear from changes in historical discourse that the PRC's official line on history matched the change of its political direction. The rise of state capitalism under Deng Xiaoping meant the abandonment of all but the most nominal claims to practicing socialism in China (hence the joke that 'X with Chinese characteristics' means 'X in name only' – 'Socialism with Chinese characteristics' is how Deng referred to his state capitalist economics), and in its place nationalism – and to a great extent Han ethnic nationalism – took its place as the cohering ideological substance of the PRC. This played out in the historical sphere as described above: events like the Taiping War and Chinese Civil War that were understood as class conflicts within China were increasingly de-emphasised in favour of the Opium Wars and Second Sino-Japanese War, which saw China fighting against outside powers.
+
