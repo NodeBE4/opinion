@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-15
+date: 2022-08-16
 from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
 layout: post
 tags:
@@ -38,4 +38,12 @@ The answer, then, is depressingly straightforward: most history is national hist
 ----- __710.2__ -----2022-08-16 12:04:26+08:00:
 
 This verges heavily on modern politics, but a good couple of reads from a historiographical and cultural memory standpoint are the later chapters of Julia Lovell's *The Opium War* and Rana Mitter's recent work *China's Good War*. While I will limit what I discuss here to the period up to about 2000, even within that timeframe it is clear from changes in historical discourse that the PRC's official line on history matched the change of its political direction. The rise of state capitalism under Deng Xiaoping meant the abandonment of all but the most nominal claims to practicing socialism in China (hence the joke that 'X with Chinese characteristics' means 'X in name only' – 'Socialism with Chinese characteristics' is how Deng referred to his state capitalist economics), and in its place nationalism – and to a great extent Han ethnic nationalism – took its place as the cohering ideological substance of the PRC. This played out in the historical sphere as described above: events like the Taiping War and Chinese Civil War that were understood as class conflicts within China were increasingly de-emphasised in favour of the Opium Wars and Second Sino-Japanese War, which saw China fighting against outside powers.
+
+### 711: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
+
+----- __711.1__ -----2022-08-16 15:10:29+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
