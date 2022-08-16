@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-16
+date: 2022-08-17
 from: https://twitter.com/HeQinglian/status/1558916977850257408
 layout: post
 tags:
@@ -182,4 +182,12 @@ Re @hx_maggie 我们这里有的商场还贴有这类告示，有的商场没有
 ### 42: [2022-08-16 23:22:33+08:00 推文](https://twitter.com/HeQinglian/status/1559561256067112962)
 
 Re 乔姆斯基从不反对限制保守派的言论自由，直到2020年他自己被“取消文化“恶狠狠的消费了一把，他的徒子徒孙们因他对Antifa的看法而恶毒攻击他，这才醒悟。
+
+### 43: [2022-08-17 03:54:09+08:00 推文](https://twitter.com/HeQinglian/status/1559629606117834760)
+
+我理解川普阵营的愤怒。这个问题我想过很多次，结论如下：<br>如果共和党赢回两院，首要任务是将美国政治拉回法治正轨，将奥巴马从州检察官一级的人员按照规则甄别，建设一支合格的司法队伍。<br>如果因为对方不讲规则，也不讲规则，“按闹分配”，美国再无翻身之日。<br>选民支持川普的重要理由是法治与秩序。<br><br>xiaxiaoqiang 夏小強: 川普律師：若贏得大選首先抄家拜登！「先打破平衡的是你們…拜登陣營的每個人都別想躲過…」<br> <a href="https://www.xiaxiaoqiang.net/if-win-the-election/.html" target="_blank" rel="noopener noreferrer">https://www.xiaxiaoqiang.net/if-win-the-election/.html</a>
+
+### 44: [2022-08-17 04:35:34+08:00 推文](https://twitter.com/HeQinglian/status/1559640028564934659)
+
+Re @mingshi_chen 刀子现在究竟在谁手里？<br>自己处于待宰割状态，天天声明要杀对方，这与中国极端反政府人士经常说“民主化后杀你全家”不一样么？
 
