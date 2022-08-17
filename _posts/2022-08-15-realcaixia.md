@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-17
+date: 2022-08-18
 from: https://twitter.com/realcaixia/status/1558881121261305856
 layout: post
 tags:
@@ -70,4 +70,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 ### 14: [2022-08-17 09:06:05+08:00 推文](https://twitter.com/realcaixia/status/1559708107701456897)
 
 中共国的经济真相从商务办公楼空置率中可见一斑。<br><br>Hao HONG 洪灝, CFA: - 二季度，9城甲级写字楼空置率&gt;30%，天津最高近50%，去化压力大；<br>- 8城处于20%～30%；<br>- 北上广在20%以内。<br><br>Office building vacancy rate% in 40 cities:<br><br>- 9 cities vacancy &gt;30%, Tianjin highest at ~50%;<br>- 8 cities 20-30%;<br>- T-1 cities &lt;20%.<br><br>Too many offices, too few businesses.<br><br><img style="" src="https://pbs.twimg.com/media/FaSMCjOXwAIM0z2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-08-18 00:30:38+08:00 推文](https://twitter.com/realcaixia/status/1559940780344614915)
+
+在京时曾经和几位朋友一起讨论过上了台就折腾，搞内走毛路外走希特勒路的习，大概能折腾到什么地步？当时朋友们说，折腾到国家财政没钱了。那时就OK了。<br>1978年底改革开放以来，特别是加入WTO以来累积的国民财富，从国库到民众口袋，就10来年折腾的基本见底了。20大谁上台谁先收拾烂摊子，力保苟延残喘<br><br>韩连潮: 墙国网友谈党国经济困境和时事如图：<br><br><img style="" src="https://pbs.twimg.com/media/FaXNHJmXoAEaVP7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaXNHJpWYAEAwCp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FaXNHJtXkAAXQdy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-08-18 00:45:17+08:00 推文](https://twitter.com/realcaixia/status/1559944463715389444)
+
+这种“老师”就是极权暴政的打手，就是个流氓占着讲台。有学生反抗，说明大陆年轻一代不那么容易被驯服。<br><br>野山🎗: 发布者述，思政课上学生与老师发生了价值观的争议，老师的行为导致男生英雄救美的状举。<br><br><video src="https://video.twimg.com/ext_tw_video/1559419478127308800/pu/vid/320x564/08B2Fm4Hqas7gLDr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1559419478127308800/pu/img/RYZi6ObzgSUNj3po.jpg"></video>
 
