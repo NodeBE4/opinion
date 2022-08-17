@@ -373,3 +373,7 @@ I think the issue has to do in part with *most* 'Corpo' VTubers still being orig
 
 Well, Kizuna AI's popularity tanked *because* they did it, which essentially proved that it's not a viable approach.
 
+----- __709.9__ -----2022-08-17 23:09:10+08:00:
+
+Game-bu, a unit under Brave Group. Brave is apparently better these days although not before recasting one of its remaining VTubers in late 2020 (albeit in a much more tactful and generally accepted way) and it's running the decently successful Riot Music. Still unfortunate for the four original Game-bu members, but all have resurfaced in the VTubing sphere since.
+
