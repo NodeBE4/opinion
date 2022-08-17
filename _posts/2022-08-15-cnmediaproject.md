@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-16
+date: 2022-08-17
 from: https://twitter.com/cnmediaproject/status/1558971107054878722
 layout: post
 tags:
@@ -86,4 +86,8 @@ Re @qianjinghua @supchinanews Like the Harvard China Project, China-Africa Proje
 ### 18: [2022-08-16 09:57:09+08:00 推文](https://twitter.com/cnmediaproject/status/1559358572651507714)
 
 The latest in the CMP Dictionary: <a href="https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/</a>
+
+### 19: [2022-08-17 09:14:40+08:00 推文](https://twitter.com/cnmediaproject/status/1559710269101981696)
+
+From our Going Global archives, the story of an adventure show on the Discovery Channel, reaching millions outside China, that was planned by the CCP's Central Propaganda Department —without any indication to audiences. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FaU0NwDaQAEcG39?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

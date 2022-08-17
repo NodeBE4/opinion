@@ -63,3 +63,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 
 2000多年前，秦统一六国，建秦制暴政，生灵涂炭。2000多年后，又连续军事恫吓武统台湾。真是想以两岸民众生灵涂炭为代价，当秦始皇第二吗？！<br><video src="https://video.twimg.com/ext_tw_video/1559639445770539022/pu/vid/360x492/U9DyQ290TRhf1Ol5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1559639445770539022/pu/img/Gd5Xu54XFB21-BtE.jpg"></video>
 
+### 13: [2022-08-17 08:48:51+08:00 推文](https://twitter.com/realcaixia/status/1559703769197182978)
+
+特别推荐重磅文章：<br><br>《议报》: 【译丛】美国必须为台湾战争做准备<br> <a href="https://yibaochina.com/?p=247504" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247504</a>
+
+### 14: [2022-08-17 09:06:05+08:00 推文](https://twitter.com/realcaixia/status/1559708107701456897)
+
+中共国的经济真相从商务办公楼空置率中可见一斑。<br><br>Hao HONG 洪灝, CFA: - 二季度，9城甲级写字楼空置率&gt;30%，天津最高近50%，去化压力大；<br>- 8城处于20%～30%；<br>- 北上广在20%以内。<br><br>Office building vacancy rate% in 40 cities:<br><br>- 9 cities vacancy &gt;30%, Tianjin highest at ~50%;<br>- 8 cities 20-30%;<br>- T-1 cities &lt;20%.<br><br>Too many offices, too few businesses.<br><br><img style="" src="https://pbs.twimg.com/media/FaSMCjOXwAIM0z2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
