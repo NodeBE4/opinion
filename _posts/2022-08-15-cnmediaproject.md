@@ -87,7 +87,11 @@ Re @qianjinghua @supchinanews Like the Harvard China Project, China-Africa Proje
 
 The latest in the CMP Dictionary: <a href="https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/</a>
 
-### 19: [2022-08-17 09:14:40+08:00 推文](https://twitter.com/cnmediaproject/status/1559710269101981696)
+### 19: [2022-08-16 20:52:47+08:00 推文](https://twitter.com/AnupKaphle/status/1559523568454713344)
+
+RT Anup Kaphle<br>~ some very exciting hiring news ~<br><br>I'm elated to announce that Yi-Ling Liu (@yilingliu95) will join Rest of World as our China Editor, taking charge of our growing China coverage at the beginning of next year.
+
+### 20: [2022-08-17 09:14:40+08:00 推文](https://twitter.com/cnmediaproject/status/1559710269101981696)
 
 From our Going Global archives, the story of an adventure show on the Discovery Channel, reaching millions outside China, that was planned by the CCP's Central Propaganda Department —without any indication to audiences. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FaU0NwDaQAEcG39?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
