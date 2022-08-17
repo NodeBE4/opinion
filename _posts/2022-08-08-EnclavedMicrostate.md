@@ -369,3 +369,7 @@ I remember back in the early 2010s all of the hardcore fans complaining about Da
 
 I think the issue has to do in part with *most* 'Corpo' VTubers still being original IPs and not existing characters, as well as the general affirmation of the principle of one talent to one VTuber which makes Tony the Tiger, a frequently-recast mascot, definitely a transgression of typical norms of the scene.
 
+----- __709.8__ -----2022-08-17 22:36:43+08:00:
+
+Well, Kizuna AI's popularity tanked *because* they did it, which essentially proved that it's not a viable approach.
+

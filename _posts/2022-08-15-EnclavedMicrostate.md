@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-16
+date: 2022-08-17
 from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
 layout: post
 tags:
@@ -46,4 +46,10 @@ This verges heavily on modern politics, but a good couple of reads from a histor
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 712: [If you're itching for Joseon-era stuff reminiscent of Kingdom...](https://old.reddit.com/r/NetflixKingdom/comments/wqnqyf/if_youre_itching_for_joseonera_stuff_reminiscent/), submitted on 2022-08-17 20:29:53+08:00.
+
+----- __712.1__ -----2022-08-17 22:15:18+08:00:
+
+This is the one where the Manchus speak Manchu, right?
 
