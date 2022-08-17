@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-08-01~2022-08-07'
 
 ### 2: [2022-08-01 08:06:28+08:00 推文](https://twitter.com/realcaixia/status/1553894897333280774)
 
-非常有道理！<br><br>新聞看點: 這位大姐：『是你中華人民共和國先從中華民國獨立出去的.... 』<br>誰先獨？😂<br><br><video src="https://video.twimg.com/amplify_video/1553582353582551040/vid/480x320/YJUKQrejPY7fGVnZ.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1553582353582551040/img/QbnjUgweUZQUSZkI.jpg"></video>
+非常有道理！
 
 ### 3: [2022-08-01 09:41:09+08:00 推文](https://twitter.com/realcaixia/status/1553918724545155073)
 
