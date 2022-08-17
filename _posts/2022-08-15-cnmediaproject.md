@@ -95,3 +95,7 @@ RT Anup Kaphle<br>~ some very exciting hiring news ~<br><br>I'm elated to anno
 
 From our Going Global archives, the story of an adventure show on the Discovery Channel, reaching millions outside China, that was planned by the CCP's Central Propaganda Department —without any indication to audiences. <a href="https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/03/01/warriors-on-the-red-road/</a><br><img style="" src="https://pbs.twimg.com/media/FaU0NwDaQAEcG39?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 21: [2022-08-17 16:17:49+08:00 推文](https://twitter.com/AlexDukalskis/status/1559816756448870400)
+
+RT Alex Dukalskis<br>Remarkable deep dive by @schoenmakersk for @cnmediaproject about efforts to get international legitimacy, acclaim, and awards for pro-CCP documentaries <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
+

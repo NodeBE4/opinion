@@ -71,3 +71,11 @@ But you may contend that you want to understand *everything*. Well, you will nee
 
 Maybe you choose to do so eclectically – that is, I would stress, *entirely valid* and something that this sub is actually a good resource for going about doing so. But maybe you want to specialise in a given region, or a given period, or a given topic, or some combination of the three. Interested in Roman military history? Go ahead! Pre-Columbian Mesoamerican religion? Knock yourself out! 19th century imperialism in Central Asia? Historians have got you covered! The long and the short of it is that you will never even approximate an understanding of any more than a fraction of human history, *and that's okay*. Focus on the things that tick.
 
+### 714: [What is the largest human society that could be archaeologically hidden using current techniques?](https://old.reddit.com/r/AskHistorians/comments/wqrzdc/what_is_the_largest_human_society_that_could_be/), submitted on 2022-08-17 23:32:45+08:00.
+
+----- __714.1__ -----2022-08-18 01:33:56+08:00:
+
+Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AskAnthropology.
+
+If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
+
