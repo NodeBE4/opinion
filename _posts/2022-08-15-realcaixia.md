@@ -79,3 +79,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 
 这种“老师”就是极权暴政的打手，就是个流氓占着讲台。有学生反抗，说明大陆年轻一代不那么容易被驯服。<br><br>野山🎗: 发布者述，思政课上学生与老师发生了价值观的争议，老师的行为导致男生英雄救美的状举。<br><br><video src="https://video.twimg.com/ext_tw_video/1559419478127308800/pu/vid/320x564/08B2Fm4Hqas7gLDr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1559419478127308800/pu/img/RYZi6ObzgSUNj3po.jpg"></video>
 
+### 17: [2022-08-18 01:40:17+08:00 推文](https://twitter.com/realcaixia/status/1559958304197050373)
+
+议报重磅推荐阅读文章【译丛】美国必须为台湾战争做准备 <a href="https://yibaochina.com/?p=247504" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247504</a>
+

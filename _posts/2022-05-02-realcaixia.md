@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-05-02~2022-05-08'
 
 ### 3: [2022-05-03 21:58:44+08:00 推文](https://twitter.com/realcaixia/status/1521489437028491271)
 
-恶法下的执法与土匪没有什么区别。<br><br>蔡慎坤: 这是上海吗？怎么如同土匪一样！<br> <a href="https://twitter.com/salmon_ten/status/1520985187412492289" target="_blank" rel="noopener noreferrer">https://twitter.com/salmon_ten/status/1520985187412492289</a>
+恶法下的执法与土匪没有什么区别。
 
 ### 4: [2022-05-03 22:01:00+08:00 推文](https://twitter.com/realcaixia/status/1521490008003198976)
 
