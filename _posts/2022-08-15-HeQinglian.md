@@ -259,3 +259,7 @@ Re @jbchen2009 @JianglinLi @shenliangqing2 不要太强调美欧的差别。<br>
 
 Re @shenliangqing2 你讲的那些，那些人不懂。<br>好比天降伟人包，他常引用的中国典故，大半人不懂。<br>这些人懂国骂。
 
+### 62: [2022-08-18 01:55:11+08:00 推文](https://twitter.com/HeQinglian/status/1559962056316575744)
+
+Re @Wu_Zhi @JianglinLi @shenliangqing2 左派大宗师乔姆斯基都是双标，徒子徒孙自然学样。
+
