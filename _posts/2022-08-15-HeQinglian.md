@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-18
+date: 2022-08-19
 from: https://twitter.com/HeQinglian/status/1558916977850257408
 layout: post
 tags:
@@ -282,4 +282,28 @@ Re @alexlin315 @KELMAND1 他消灭了反对党、并将反对党领袖囚禁，�
 ### 67: [2022-08-18 10:24:41+08:00 推文](https://twitter.com/HeQinglian/status/1560090275913113600)
 
 今天看了不少评论切尼·丽兹在共和党初选中落败的报道与评论，发现情感高度一致的群落有三：<br>美国民主党、中国官方宣传、中国民主人士与异议知识人。看起来他们完全不同，但均惋惜丽兹落败、痛恨川普在共和党选民中的影响力，认为川普劫持了共和党。<br>谁能解释三者为何能产生共鸣？😂
+
+### 68: [2022-08-19 05:07:26+08:00 推文](https://twitter.com/HeQinglian/status/1560372827164925952)
+
+Re @jianmang051 为了让你看到，我留你这推号一会儿。<br>脑子有蛆虫的人才会按种族给思想、价值观划线。<br>你是亚裔，但与你想不到一起的亚裔太多了。<br>黑人有弗洛伊德这种毒贩、有零元购的积极参与者。但也有非常杰出的索维尔。
+
+### 69: [2022-08-19 05:14:31+08:00 推文](https://twitter.com/HeQinglian/status/1560374607735128071)
+
+Re @KELMAND1 能源是挪威最主要的经济支柱。
+
+### 70: [2022-08-19 05:20:24+08:00 推文](https://twitter.com/HeQinglian/status/1560376088840339456)
+
+Re @JianglinLi 你们明年安装一个自动喷灌系统，这样就不会出现这种情况了。<br>今年是我来美国之后最干旱的一年。
+
+### 71: [2022-08-19 05:32:57+08:00 推文](https://twitter.com/HeQinglian/status/1560379246920564738)
+
+《台湾统一白皮书》将“迫统”提上日程<br><br>白皮书首次提出“非和平统一”，主要是两种方式：一、武力统一；二、迫统，透过围封台湾等武力手段，逼台湾谈判接受统一。<br>美军现阶段的作战能力当然远强过中共，但决定战争成败的关键还有意志力，台海战争成败的关键是美国护台的意志力。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-08172022182106.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-08172022182106.html</a>
+
+### 72: [2022-08-19 06:10:52+08:00 推文](https://twitter.com/HeQinglian/status/1560388789616377857)
+
+Re @mamaoli7 没有美利坚民族，所说的“民族”应该是“国家”。
+
+### 73: [2022-08-19 06:22:03+08:00 推文](https://twitter.com/HeQinglian/status/1560391604271288321)
+
+Re @JiangShangrong 我的经验，不用管这种反中医与中成药的人吃什么药。病的是他们，不是信中医（不是迷信）的人。<br>推上太多极端者了，这些人只有在反对一切中才能找到存在感。<br>中成药有效的太多了。
 
