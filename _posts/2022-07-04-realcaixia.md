@@ -33,7 +33,7 @@ Re 任先生认为习不在乎中国经济，不在乎十多亿人的生计活�
 
 ### 5: [2022-07-04 18:22:52+08:00 推文](https://twitter.com/realcaixia/status/1543903160061857792)
 
-这种只抓贪官不废除出贪官的制度的做法，大陆民众早就叫他们是“守着粪坑打苍蝇”。这种做法即是流氓政治。
+这种只抓贪官不废除出贪官的制度的做法，大陆民众早就叫他们是“守着粪坑打苍蝇”。这种做法即是流氓政治。<br><br>Jam: 在露天茅坑，别炫耀抓到多少只苍蝇。解决问题的最好办法是填掉茅坑，改成抽水马桶。<br><br><img style="" src="https://pbs.twimg.com/media/FWt3qfmWYAEDR4a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-07-04 21:07:21+08:00 推文](https://twitter.com/realcaixia/status/1543944554302275588)
 
@@ -85,7 +85,7 @@ Re 这三场人祸是全民受害，必上史书；还有许多局部人祸，�
 
 ### 18: [2022-07-09 21:09:39+08:00 推文](https://twitter.com/realcaixia/status/1545757071169167361)
 
-科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。<br><br>鲁  难: 数据技术的进步不仅没有使中国人获得自由，反而陷入更加严酷的禁锢之中。<br> <a href="https://twitter.com/rfa_chinese/status/1545432275004833792" target="_blank" rel="noopener noreferrer">https://twitter.com/rfa_chinese/status/1545432275004833792</a>
+科学创新与技术进步本身无所谓善与恶，而是在什么制度条件下，被谁掌控和所用，就会显示出极端的善恶两极。
 
 ### 19: [2022-07-09 21:19:49+08:00 推文](https://twitter.com/realcaixia/status/1545759631246598147)
 

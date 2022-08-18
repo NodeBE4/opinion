@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-17
+date: 2022-08-18
 from: https://twitter.com/cnmediaproject/status/1558971107054878722
 layout: post
 tags:
@@ -98,4 +98,12 @@ From our Going Global archives, the story of an adventure show on the Discovery 
 ### 21: [2022-08-17 16:17:49+08:00 推文](https://twitter.com/AlexDukalskis/status/1559816756448870400)
 
 RT Alex Dukalskis<br>Remarkable deep dive by @schoenmakersk for @cnmediaproject about efforts to get international legitimacy, acclaim, and awards for pro-CCP documentaries <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
+
+### 22: [2022-08-18 13:20:48+08:00 推文](https://twitter.com/ulywang/status/1560134597069123585)
+
+RT 王丰 Wang Feng<br>Asset Management Association of China, a quasi-governmental regulator, reminds private equity firms to strictly comply with Foreign Ministry sanctions on Nancy Pelosi's family members and prohibit all trading with them, reports business newswire CLS.<br><img style="" src="https://pbs.twimg.com/media/Faa2JbwaIAA-OOR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-08-18 15:39:39+08:00 推文](https://twitter.com/cnmediaproject/status/1560169541900304387)
+
+In the latest CMP Interview, @JoycepyChan talks to Runako Celina about her revealing BBC documentary "Racism for Sale," about a video industry in China that exploits children across Africa. <a href="https://chinamediaproject.org/2022/08/18/unpacking-the-booming-racist-video-industry-in-china%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/18/unpacking-the-booming-racist-video-industry-in-china%ef%bf%bc/</a>
 
