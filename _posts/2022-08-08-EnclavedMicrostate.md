@@ -385,3 +385,15 @@ What *then* became apparent was that they had been actively harassing the mods o
 
 There's really not *that* much to add to be honest, though summaries and links can be found [here](https://www.reddit.com/r/VirtualYoutubers/comments/wjap40/pipsimon_projection_paradrop_weekly_discussion/ijol160/) and [here](https://www.reddit.com/r/VirtualYoutubers/comments/wjap40/pipsimon_projection_paradrop_weekly_discussion/ijxhfq0/) on the VirtualYoutubers sub – names are named, so visit at your peril.
 
+----- __709.11__ -----2022-08-18 23:45:25+08:00:
+
+So here's the thing, right: *most* of these are basically true? Like, Virginia Woolf *did* actually dress in blackface and a fake beard to pretend to be an Ethiopian diplomat and actually fooled the Royal Navy, for instance. Roald Dahl *was* a virulent anti-Semite. And Orson Scott Card is *really* a real piece of work.
+
+But it's the individual *wild* ones that stand out. John Green being an implicit antisemite is... fascinatingly weird; ditto Stephenie Meyer being pro-underage relationships; and most bewilderingly Asian-American novelist Celeste Ng being accused of anti-Asian racism. 
+
+But on the flip-side you have all these 19th/20th century authors whom it seems like she only knows *of* but hasn't really read, and so simply accuses them of 'racism' and not *all the other stuff as well*. Enid Blyton was plenty xenophobic and liked traditional gender roles, so that's more than just racism there. Any Rand [sic] was surely more than just racist. And is racism the *only* thing you can dob Rudyard Kipling for?
+
+----- __709.12__ -----2022-08-18 23:47:53+08:00:
+
+Oh yeah, raving antisemite despite actually serving in the RAF in WW2 (he was quite literally a fighter ace at that, having shot down 5 enemy aircraft). You can (many TWs) read up a bit on his views [here](https://www.newstatesman.com/archive/2021/10/from-the-ns-archive-tale-of-the-unexpected) if you'd like (but... you probably don't want to).
+
