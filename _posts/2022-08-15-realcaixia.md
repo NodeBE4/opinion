@@ -87,3 +87,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 
 特别推荐：<br>王剑老师的评论分析。有种说法：中共官媒、大外宣与习外宣私媒不断为习连任造势，恰恰表明习连任迄今为止还没有把握。王剑老师对众说纷纭的北戴河情况与习连任与否，有他的分析：<br><br>习近平与李克强的路线之争/俄军开始溃败/王剑每日观察/20220817 <a href="https://youtu.be/rmCg6f06Ngo" target="_blank" rel="noopener noreferrer">https://youtu.be/rmCg6f06Ngo</a>
 
+### 19: [2022-08-18 20:48:41+08:00 推文](https://twitter.com/realcaixia/status/1560247310109507585)
+
+看这架势中共内斗继续，20大结局未定。当下习个人保权位与中共要维持政权正处于根本性冲突中。习若连任，中国则进一步孤立、经济全面坍塌，高压恐怖统治将更严酷，西朝鲜是唯一前景。若习下，中共无论谁上台将重新开放，改善中国孤立状态，民众将从当下绝境中获得喘息改善处境，宪政民主变革将不可避免<br><br>官场观察工作室 昭明: 李克强在邓小平铜像纪念园区发表重要讲话，人民生活的幸福感与改革开放密切相关，不点名地批评了过去10年那股暗中否定邓小平路线的歪风，然而央视就是不报道，俨然一副针插不进，水泼不进的独立王国。<br><br><video src="https://video.twimg.com/ext_tw_video/1559922160876920835/pu/vid/640x368/pjGPB9sxBI6mkKvt.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1559922160876920835/pu/img/CJ_dR6QK3zW5U2X7.jpg"></video>
+

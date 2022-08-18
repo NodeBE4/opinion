@@ -377,3 +377,11 @@ Well, Kizuna AI's popularity tanked *because* they did it, which essentially pro
 
 Game-bu, a unit under Brave Group. Brave is apparently better these days although not before recasting one of its remaining VTubers in late 2020 (albeit in a much more tactful and generally accepted way) and it's running the decently successful Riot Music. Still unfortunate for the four original Game-bu members, but all have resurfaced in the VTubing sphere since.
 
+----- __709.10__ -----2022-08-18 20:48:27+08:00:
+
+I very deliberately kept quiet about this at the time because I didn't think it deserved getting too much attention in the heat of it, but there was a bit of a blow-up in the Hololive community about a week ago when a Redditor who was a BNF of its male branch, Holostars, went on a public tirade and declared they were quitting both the Hololive and Holostars subs because the Hololive subreddit moderators wouldn't answer his repeated calls (over the course of a year and a half, apparently) to increase their promotion of Holostars content, and as a parting shot broadcast the Discord handle of r Hololive's head mod, just to make sure that they, er, would immediately destroy any potential goodwill on the part of the community?
+
+What *then* became apparent was that they had been actively harassing the mods of at least one other subreddit (although the user making this claim mods 17 subs and didn't specify which in particular) in a similar manner, so that was also unpleasant for many to have discovered.
+
+There's really not *that* much to add to be honest, though summaries and links can be found [here](https://www.reddit.com/r/VirtualYoutubers/comments/wjap40/pipsimon_projection_paradrop_weekly_discussion/ijol160/) and [here](https://www.reddit.com/r/VirtualYoutubers/comments/wjap40/pipsimon_projection_paradrop_weekly_discussion/ijxhfq0/) on the VirtualYoutubers sub – names are named, so visit at your peril.
+
