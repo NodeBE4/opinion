@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-18
+date: 2022-08-19
 from: https://twitter.com/realcaixia/status/1558881121261305856
 layout: post
 tags:
@@ -90,4 +90,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 ### 19: [2022-08-18 20:48:41+08:00 推文](https://twitter.com/realcaixia/status/1560247310109507585)
 
 看这架势中共内斗继续，20大结局未定。当下习个人保权位与中共要维持政权正处于根本性冲突中。习若连任，中国则进一步孤立、经济全面坍塌，高压恐怖统治将更严酷，西朝鲜是唯一前景。若习下，中共无论谁上台将重新开放，改善中国孤立状态，民众将从当下绝境中获得喘息改善处境，宪政民主变革将不可避免<br><br>官场观察工作室 昭明: 李克强在邓小平铜像纪念园区发表重要讲话，人民生活的幸福感与改革开放密切相关，不点名地批评了过去10年那股暗中否定邓小平路线的歪风，然而央视就是不报道，俨然一副针插不进，水泼不进的独立王国。<br><br><video src="https://video.twimg.com/ext_tw_video/1559922160876920835/pu/vid/640x368/pjGPB9sxBI6mkKvt.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1559922160876920835/pu/img/CJ_dR6QK3zW5U2X7.jpg"></video>
+
+### 20: [2022-08-19 00:39:33+08:00 推文](https://twitter.com/realcaixia/status/1560305409201774595)
+
+从北戴河出来后，李南下拜谒邓小平塑像，强调改革开放；习北上再看辽沈战役纪念馆，凭吊革命和内战。这不仅是这两人的分歧继续表面化而且暗含着中国未来走向。中共把持着中国，20大前是中国人命运的十字路口。现在李克强此次的深圳讲话被官媒撤下，微信传发被审核阻拦，难道中国人只能当西朝鲜奴民？！<br><img style="" src="https://pbs.twimg.com/media/FadRf8SWAAM0wfw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-08-19 01:09:47+08:00 推文](https://twitter.com/realcaixia/status/1560313019489468417)
+
+Re 中共政权性质是极权统治，极权不可能直接转向宪政民主。如果习下，中共内部无论谁上，只要还想苟延残喘，都必然改变习那套走绝路的路线政策。只要终止习的走绝路，重新向现代文明靠拢，未来中国的政治变化非中共所能完全控制，早晚都得走向宪政民主。其基本趋势是：极权逐步松动—威权—转向宪政民主
 
