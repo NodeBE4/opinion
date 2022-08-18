@@ -401,3 +401,7 @@ Oh yeah, raving antisemite despite actually serving in the RAF in WW2 (he was qu
 
 Are or aren't? I don't see them.
 
+----- __709.14__ -----2022-08-19 03:15:52+08:00:
+
+To be 'fair', the Tempus ban was lifted after the outburst so he wouldn't have known. Not that that makes it *better* by any means.
+
