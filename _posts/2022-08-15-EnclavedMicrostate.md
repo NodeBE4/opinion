@@ -39,27 +39,37 @@ The answer, then, is depressingly straightforward: most history is national hist
 
 This verges heavily on modern politics, but a good couple of reads from a historiographical and cultural memory standpoint are the later chapters of Julia Lovell's *The Opium War* and also Rana Mitter's recent work *China's Good War*. While I will limit what I discuss here to the period up to about 2000, even within that timeframe it is clear from changes in historical discourse that the PRC's official line on history matched the change of its political direction. The rise of state capitalism under Deng Xiaoping meant the abandonment of all but the most nominal claims to practicing socialism in China (hence the joke that 'X with Chinese characteristics' means 'X in name only' – 'Socialism with Chinese characteristics' is how Deng referred to his state capitalist economics), and in its place nationalism – and to a great extent Han ethnic nationalism – took its place as the cohering ideological substance of the PRC. This played out in the historical sphere as described above: events like the Taiping War and Chinese Civil War that were understood as class conflicts within China were increasingly de-emphasised in favour of the Opium Wars and Second Sino-Japanese War, which saw China fighting against outside powers.
 
-### 711: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
+### 711: [AMA Announcement from PRISM Project/Weekly Wild Wankery Thread, Weekly Discussion Thread, August 15th, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/wop0f6/ama_announcement_from_prism_projectweekly_wild/), submitted on 2022-08-15 11:27:54+08:00.
 
------ __711.1__ -----2022-08-16 15:10:29+08:00:
+----- __711.1__ -----2022-08-18 18:01:49+08:00:
+
+There's been a bit of a move to regard 'Holostars proper' as being the nine remaining members of Gens 1-3, I believe.
+
+----- __711.2__ -----2022-08-18 18:01:56+08:00:
+
+They might be reaching the sidebar character limit.
+
+### 712: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
+
+----- __712.1__ -----2022-08-16 15:10:29+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
-### 712: [If you're itching for Joseon-era stuff reminiscent of Kingdom...](https://old.reddit.com/r/NetflixKingdom/comments/wqnqyf/if_youre_itching_for_joseonera_stuff_reminiscent/), submitted on 2022-08-17 20:29:53+08:00.
+### 713: [If you're itching for Joseon-era stuff reminiscent of Kingdom...](https://old.reddit.com/r/NetflixKingdom/comments/wqnqyf/if_youre_itching_for_joseonera_stuff_reminiscent/), submitted on 2022-08-17 20:29:53+08:00.
 
------ __712.1__ -----2022-08-17 22:15:18+08:00:
+----- __713.1__ -----2022-08-17 22:15:18+08:00:
 
 This is the one where the Manchus speak Manchu, right?
 
------ __712.2__ -----2022-08-17 23:19:14+08:00:
+----- __713.2__ -----2022-08-17 23:19:14+08:00:
 
 They should call it Dor-gone.
 
-### 713: [Can you recommend some between-the-cracks books?](https://old.reddit.com/r/AskHistorians/comments/wqp5o0/can_you_recommend_some_betweenthecracks_books/), submitted on 2022-08-17 21:35:10+08:00.
+### 714: [Can you recommend some between-the-cracks books?](https://old.reddit.com/r/AskHistorians/comments/wqp5o0/can_you_recommend_some_betweenthecracks_books/), submitted on 2022-08-17 21:35:10+08:00.
 
------ __713.1__ -----2022-08-17 23:06:31+08:00:
+----- __714.1__ -----2022-08-17 23:06:31+08:00:
 
 I think it's worth making two points before I get into it. The first is this: Yuval Noah Harari's *Sapiens* is dubious scholarship at best. [This section of the FAQ](https://www.reddit.com/r/AskHistorians/wiki/historians_views#wiki_historians.27_views_of_yuval_noah_harari.2C_sapiens_and_homo_deus) includes answers complicating or even outright disputing claims Harari makes, generally critiquing the quality of the book as a whole (see especially /u/CommodoreCoCo), or (in the case of the answer by /u/MySkinsRedditAcct) even pointing out issues with 'Big History' as a field (or genre, if you prefer). It is worth suggesting that *Sapiens* is fundamentally a work of macro-scale anthropology and evolutionary psychology that claims the status of a work of history via its title and its author's background and qualifications, but not really written by someone whose formal training concentrates on the subject or approach. To be precise, Yuval Noah Harari's pre-*Sapiens* career was as a relatively decent historian of medieval military history, particularly of the Crusades, and while that is a very legitimate field it's also not the sort of thing that intuitively leads one towards expertise in *checks notes* the entirety of human history. The second is to say that more broadly, the 'Big History' genre is deeply problematic, and rarely (read: never) produces anything more than a rough synthesis of a huge number of subfields, rolled into a pile of meh. Anyone who claims that they are able to produce a single, coherent, and academically solid sweep of human history is either supremely overconfident or wilfully lying.
 
@@ -71,23 +81,23 @@ But you may contend that you want to understand *everything*. Well, you will nee
 
 Maybe you choose to do so eclectically – that is, I would stress, *entirely valid* and something that this sub is actually a good resource for going about doing so. But maybe you want to specialise in a given region, or a given period, or a given topic, or some combination of the three. Interested in Roman military history? Go ahead! Pre-Columbian Mesoamerican religion? Knock yourself out! 19th century imperialism in Central Asia? Historians have got you covered! The long and the short of it is that you will never even approximate an understanding of any more than a fraction of human history, *and that's okay*. Focus on the things that tick.
 
-### 714: [What is the largest human society that could be archaeologically hidden using current techniques?](https://old.reddit.com/r/AskHistorians/comments/wqrzdc/what_is_the_largest_human_society_that_could_be/), submitted on 2022-08-17 23:32:45+08:00.
+### 715: [What is the largest human society that could be archaeologically hidden using current techniques?](https://old.reddit.com/r/AskHistorians/comments/wqrzdc/what_is_the_largest_human_society_that_could_be/), submitted on 2022-08-17 23:32:45+08:00.
 
------ __714.1__ -----2022-08-18 01:33:56+08:00:
+----- __715.1__ -----2022-08-18 01:33:56+08:00:
 
 Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AskAnthropology.
 
 If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
-### 715: [What was The Great Tartaria?](https://old.reddit.com/r/AskHistorians/comments/wr0l86/what_was_the_great_tartaria/), submitted on 2022-08-18 05:23:33+08:00.
+### 716: [What was The Great Tartaria?](https://old.reddit.com/r/AskHistorians/comments/wr0l86/what_was_the_great_tartaria/), submitted on 2022-08-18 05:23:33+08:00.
 
------ __715.1__ -----2022-08-18 10:23:04+08:00:
+----- __716.1__ -----2022-08-18 10:23:04+08:00:
 
 At least in the Anglophone world. I believe the origins of the claim go back to Anatoly Fomenko, although really the only similarity between the Fomenko version and the internet version is the name.
 
-### 716: [Was Sun Yat-sen betrayed by the Beiyang Government?](https://old.reddit.com/r/AskHistorians/comments/wr7mx0/was_sun_yatsen_betrayed_by_the_beiyang_government/), submitted on 2022-08-18 10:35:37+08:00.
+### 717: [Was Sun Yat-sen betrayed by the Beiyang Government?](https://old.reddit.com/r/AskHistorians/comments/wr7mx0/was_sun_yatsen_betrayed_by_the_beiyang_government/), submitted on 2022-08-18 10:35:37+08:00.
 
------ __716.1__ -----2022-08-18 16:04:28+08:00:
+----- __717.1__ -----2022-08-18 16:04:28+08:00:
 
 Not really. But it is worth interrogating the original claim itself a bit from a historiographical standpoint before getting into the weeds of it. The fact of the matter is that the claim that the 1911 Revolution was mainly the brainchild of Sun Yat-Sen and the Tongmenghui but hijacked by military strongmen like Yuan Shikai is one that is *very frequently repeated*. Even modern China specialists who really only cover the Nationalist and later periods are prone to making this assertion: see for instance Rana Mitter in *Forgotten Ally* (which, that fault aside, is pretty much *the* book to read for a general overview of China in WW2, alongside Hans van de Ven's *China at War*). But this is in essence the perspective of the Tongmenghui's successor entities, notably the Kuomintang (founded by Sun directly) and the Communist Party (which has often made the claim to being the true torchbearer for Sun's political programme). It has rather obviously suited these parties to assert that the modern Chinese state owes its existence to their claimed ideological founder, irrespective of whether that is the whole truth. These narratives are in a sense legitimate, in that they were propounded by those later parties and thus constitute a critical part of perceived historical truth, but they don't necessarily really reflect our best understanding of what things were like in the moment.
 
@@ -102,4 +112,16 @@ Yuan Shikai entered the picture when he was brought out of retirement to lead th
 Nevertheless, these talks took a while to occur, and may have been the reason behind Sun Yat-Sen holding a presidential election on 29 December. In declaring overt pretensions to national leadership by the Tongmenghui, Sun forced the hands of both of the other parties involved. Yuan Shikai could no longer walk away with a deal in which the Qing government continued to exist, and Li Yuanhong, although elected Vice-President, faced the possibility of being sidelined or even ousted if a more ideologically pure Tongmenghui leadership took hold. Furthermore, Sun began drafting plans for a northward military offensive in January. It's not clear quite how far Sun seriously believed that he would hold the presidency, or that he would actually execute the plan, rather than simply using these as bargaining chips to force Yuan to accept a republican settlement rather than a compromise – indeed, Sun declared that his intention was to resign the presidency to Yuan should he accept it. Still, Yuan vacillated for a time, and armed clashes would resume in January and February 1912. Aware of a deteriorating military and political situation amid unrest having spread now to northern China, Yuan ultimately agreed to the republicans' proposals and petitioned the Qing to abdicate on 12 February.
 
 In some ways, it is worth suggesting that the key political decision-makers in 1911-12 were not in fact ideologically-committed republicans, but instead pro-reform members of the Qing military, whose disagreement lay largely in whether continued Qing rule was compatible with their desired programmes of reform. We could, if we wanted to, argue that in fact the 1911 Revolution was a somewhat drawn-out coup by reformists in the military, which the revolutionary ideologues *tried* to hijack, which is a neat turnaround but perhaps going a bit *too* far the other way. But it would be relatively uncontroversial to say that the Tongmenghui was at best one of many anti-Qing factions involved in the fall of the empire, and one that punched politically well above its nominal military weight. In the end, the revolution began and ended within the Qing army.
+
+----- __717.2__ -----2022-08-18 18:42:42+08:00:
+
+> So in essence, Yuan Shikai couldn't have been a traitor to Sun because he bore no actual allegiance to the various Republican factions, and Sun's actions were mostly a desperate gambit to win him over (and failed to do so)?
+
+You've got it in one. Sun Yat-Sen had only a very slim chance of actually gaining power in 1911.
+
+That said, I feel like I might need to expand on the above answer a little because what I didn't get into was the National Assembly election of 1912 and subsequent dissolution of the Kuomintang. It *is* true that Yuan Shikai did not take kindly to the Kuomintang achieving near-majorities in the Senate and House, and that he basically tried to cajole the various non-KMT reformist parties (united as the Progressive Party under Liang Qichao) into forming a minority government. However, there is no concrete evidence to suggest that Yuan orchestrated the assassination of the KMT's party president Song Jiaoren, which in turn led to a KMT-led revolt against Yuan and the banning of the KMT in retaliation. Even if he *had*, you can argue that while this was despotic behaviour it was not treachery, as Yuan had been essentially pressed into becoming President by circumstance, and that Sun Yat-Sen had basically gifted him a poisoned chalice.
+
+> Also, if I could ask a second question, was Yuan always planning to declare himself Emperor, or was that itself more of an opportunistic act? Thank you!
+
+It's very hard to tell. I discuss it a bit in [this answer](https://www.reddit.com/r/AskHistorians/comments/c3rjok/how_much_support_was_there_for_reestablishing_the/) from, gosh, three years ago(!), but to compress it down a bit here, we don't really know for sure when the idea of becoming emperor entered his head. We can, however, surmise some degree of reasoning for why he thought he could pull it off. For one, his main support base within the rump National Assembly were former constitutional monarchists; for another, he was probably subject to deliberate misinformation by his political allies to encourage him to make a bid for greater authority. In a broader sense, Yuan had hoped to preserve the territorial integrity of the Qing Empire, and to that end had at least nominally promised ethnic seats in the Assembly for Tibetans and Mongols should they wish to take them (they did not); while that doesn't necessarily mean he was a monarchist in the sort of ideological-constitutional sense we might imagine, it is worth accounting for as it may have informed how he viewed the institution of the emperorship.
 
