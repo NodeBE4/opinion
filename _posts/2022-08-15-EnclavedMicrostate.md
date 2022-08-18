@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-17
+date: 2022-08-18
 from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
 layout: post
 tags:
@@ -78,4 +78,10 @@ Maybe you choose to do so eclectically – that is, I would stress, *entirely va
 Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AskAnthropology.
 
 If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
+
+### 715: [What was The Great Tartaria?](https://old.reddit.com/r/AskHistorians/comments/wr0l86/what_was_the_great_tartaria/), submitted on 2022-08-18 05:23:33+08:00.
+
+----- __715.1__ -----2022-08-18 10:23:04+08:00:
+
+At least in the Anglophone world. I believe the origins of the claim go back to Anatoly Fomenko, although really the only similarity between the Fomenko version and the internet version is the name.
 

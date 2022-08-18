@@ -83,3 +83,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FaJXErpX0Ag8HUi?format=jpg
 
 议报重磅推荐阅读文章【译丛】美国必须为台湾战争做准备 <a href="https://yibaochina.com/?p=247504" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247504</a>
 
+### 18: [2022-08-18 08:13:11+08:00 推文](https://twitter.com/realcaixia/status/1560057184804798464)
+
+特别推荐：<br>王剑老师的评论分析。有种说法：中共官媒、大外宣与习外宣私媒不断为习连任造势，恰恰表明习连任迄今为止还没有把握。王剑老师对众说纷纭的北戴河情况与习连任与否，有他的分析：<br><br>习近平与李克强的路线之争/俄军开始溃败/王剑每日观察/20220817 <a href="https://youtu.be/rmCg6f06Ngo" target="_blank" rel="noopener noreferrer">https://youtu.be/rmCg6f06Ngo</a>
+
