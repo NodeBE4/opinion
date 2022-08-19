@@ -75,6 +75,18 @@ I mean, it is though. I know that's apparently a hot take in this sub, but it's 
 
 Hime Hajime definitely wasn't, and I'm 95% sure Froot wasn't either.
 
+----- __711.8__ -----2022-08-19 20:16:51+08:00:
+
+Froot didn't. Well, not entirely anyway – she did her own model but rigging was hired.
+
+----- __711.9__ -----2022-08-19 20:17:48+08:00:
+
+>  literally slander.
+
+It is not, I resent that.
+
+Slander is spoken. In print, it's libel.
+
 ### 712: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
 
 ----- __712.1__ -----2022-08-16 15:10:29+08:00:
