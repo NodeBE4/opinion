@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-18
+date: 2022-08-19
 from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
 layout: post
 tags:
@@ -132,4 +132,10 @@ That said, I feel like I might need to expand on the above answer a little becau
 > Also, if I could ask a second question, was Yuan always planning to declare himself Emperor, or was that itself more of an opportunistic act? Thank you!
 
 It's very hard to tell. I discuss it a bit in [this answer](https://www.reddit.com/r/AskHistorians/comments/c3rjok/how_much_support_was_there_for_reestablishing_the/) from, gosh, three years ago(!), but to compress it down a bit here, we don't really know for sure when the idea of becoming emperor entered his head. We can, however, surmise some degree of reasoning for why he thought he could pull it off. For one, his main support base within the rump National Assembly were former constitutional monarchists; for another, he was probably subject to deliberate misinformation by his political allies to encourage him to make a bid for greater authority. In a broader sense, Yuan had hoped to preserve the territorial integrity of the Qing Empire, and to that end had at least nominally promised ethnic seats in the Assembly for Tibetans and Mongols should they wish to take them (they did not); while that doesn't necessarily mean he was a monarchist in the sort of ideological-constitutional sense we might imagine, it is worth accounting for as it may have informed how he viewed the institution of the emperorship.
+
+### 718: [What did the ideology and practice of rulership in the Zulu Kingdom look like? What entitled a king (or queen?) to rule and what were they expected to provide for their subjects? How much was drawn from existing regional traditions, and how much was innovated specifically by the Zulu kingdom?](https://old.reddit.com/r/AskHistorians/comments/wrsrfq/what_did_the_ideology_and_practice_of_rulership/), submitted on 2022-08-19 03:42:57+08:00.
+
+----- __718.1__ -----2022-08-19 12:53:45+08:00:
+
+Thank you!
 
