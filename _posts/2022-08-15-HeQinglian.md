@@ -343,3 +343,23 @@ Re @mingshi_chen @Wu_Zhi 有时候，是他们两人共同的错。我见过这�
 
 Re @HHWyH5IacghLykf @Rememberthem64 多少年了，求侵略。去查查2014年以后，那地儿发生了什么。<br>“我可以扰你千百遍，你只要一动手就是错。”<br>推上也一样，骂粗口毫无顾忌，你一个字也没骂只是指出其谬，就是你是学者，不应如何如何。
 
+### 83: [2022-08-20 03:52:44+08:00 推文](https://twitter.com/HeQinglian/status/1560716414771728385)
+
+Re @franktianxie 如果打仗是先让自己货币崩盘，为什么要打这场仗？有病么？
+
+### 84: [2022-08-20 04:00:24+08:00 推文](https://twitter.com/HeQinglian/status/1560718345384632321)
+
+Re @mingshi_chen @franktianxie 应该就是使用黄金做本位之意。这次卢布没崩，在国际社会使用度比卢布高得多的，就算真打仗，也不会崩。<br>能否干掉美元，那是愿望，很难成为事实的愿望。
+
+### 85: [2022-08-20 04:01:55+08:00 推文](https://twitter.com/HeQinglian/status/1560718724197502978)
+
+Re @Mark_Graphic 你看的是哪家媒体？哪一年的？
+
+### 86: [2022-08-20 04:35:08+08:00 推文](https://twitter.com/HeQinglian/status/1560727082400874501)
+
+Re @c33uviiip0cp @HHWyH5IacghLykf @Rememberthem64 回你一句，是美国的代理人战争，弄清楚。不学无术如此，领教了。<br>应该是你俩的判断一直背离事实。你们甚至连美媒的节奏也跟不上。弄不清你们生活在哪个世界。
+
+### 87: [2022-08-20 04:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1560730297397805056)
+
+我小时地方的花鼓戏中有演老旦的一位演员，下了舞台也是老旦派头，扭扭捏捏，翘起兰花指，说话拿腔捏调，成为地方一景——八卦景。<br>但比这个看起来好得多。<br>我早就不看好莱坞片了，一想到将来某天这类占领舞台，恐怕更不能看。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1560049325622771712/pu/vid/576x1024/AHFLUcWPoh3NDNrI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1560049325622771712/pu/img/TfdRHfcFCjc5KMdL.jpg"></video>
+

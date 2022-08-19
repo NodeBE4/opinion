@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-19
+date: 2022-08-20
 from: https://twitter.com/realcaixia/status/1558881121261305856
 layout: post
 tags:
@@ -110,4 +110,8 @@ Re 走向宪政民主是中国政治发展的必然趋势，只是迟早而已�
 ### 24: [2022-08-19 09:38:41+08:00 推文](https://twitter.com/realcaixia/status/1560441086211915776)
 
 推荐#议报转发蔡慎坤 老师文章《公交停运不过是盛世的一个缩影 》<br>这篇文章由公交车停运层层递进，揭示中国的经济财政真相，揭露中共国不断增加吃财政饭的官府人员庞大数量，不仅国库被吃空，而且将越来越变本加厉盘剥民众。 <a href="https://yibaochina.com/?p=247510" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247510</a>
+
+### 25: [2022-08-20 04:07:21+08:00 推文](https://twitter.com/realcaixia/status/1560720092056682496)
+
+肖建华案真是拍电影写小说的好题材。香港兴衰史、中共高层黑金内幕、权斗内幕之类的都有肖建华的份。<br><br>楊建利 Yang Jianli: 肖建华被判刑13年，远远低于坊间这几年的预测，其中必有门道。习近平是想在20大前让政治家族都放心呢还是都不放心呢？<br>据一位熟悉肖建华的朋友介绍，一般权贵白手套只和一家或两家顶层政治家族搞定关系，而肖建华却处心积虑试图和所有政治家族搞定关系。另外还有鲜为人知的是：肖建华痴迷研究毛泽东。<br><br><img style="" src="https://pbs.twimg.com/media/FahqsQaWIAEoqwR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fahqt-hWQAE3BPk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
