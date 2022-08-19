@@ -173,7 +173,7 @@ Re @eGUAbe2V7j26GHw @biantainorth @biantaishabi 奇怪，粤菜我极欣赏，�
 
 ### 40: [2022-06-04 23:17:25+08:00 推文](https://twitter.com/HeQinglian/status/1533105650439540737)
 
-想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。<br><br>Ezio Mao☢: 有盛必有衰，有生必有死，就连诸神也不能例外。回想三月当西方拿起手中名为“SWIFT”的“永恒之枪”（永恒之枪一旦投出去，必定百发百中，威力巨大，刺穿一切）为俄罗斯降下“神罚”的时候，普京看了一眼手中的牌，往地上吐了一口浓痰…呸…然后接着该干啥干啥。<br><br>乌克兰战争打到现在这个样子，慌的是拜登…<br><br><img style="" src="https://pbs.twimg.com/media/FUVpJpRXEAc19Vo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1498160472000188422" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1498160472000188422</a>
+想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。
 
 ### 41: [2022-06-04 23:20:13+08:00 推文](https://twitter.com/HeQinglian/status/1533106353870409728)
 
@@ -225,7 +225,7 @@ RT 🇷🇺圣母白莲花高级研究员<br>印度外长苏杰生质问欧盟
 
 ### 53: [2022-06-05 20:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1533423461288263681)
 
-美国民主党的拳头就是BLM、Antifa、严重党派化的司法系统。<br>2024年拜登控枪演讲时说“想用武器对抗政府就得有F15战机和核武器” ，虽然被解释成开玩笑，我觉得是真言。
+美国民主党的拳头就是BLM、Antifa、严重党派化的司法系统。<br>2024年拜登控枪演讲时说“想用武器对抗政府就得有F15战机和核武器” ，虽然被解释成开玩笑，我觉得是真言。<br><br>沈良庆二世: 美国政治学者罗素.哈丁曾指出宪法、民主功能的有限性：只有我们能协调自己，这些东西才能协调我们。意指特定政治社会价值和利益多元的人们必须有基本共识，这些游戏规则才能发挥协调作用。在那些分裂型社会，如索马里、卢旺达那样的非洲国家，赢家通吃导致输家不接受游戏规则，最后只能靠拳头决雌雄。<br>
 
 ### 54: [2022-06-05 20:31:32+08:00 推文](https://twitter.com/HeQinglian/status/1533426292699369472)
 
@@ -241,5 +241,5 @@ Re @xiaxiaoqiang 以前电影、电视剧看得少，近几年的不好看。本
 
 ### 57: [2022-06-05 20:43:17+08:00 推文](https://twitter.com/HeQinglian/status/1533429248261771264)
 
-这几天上推少，居然遗漏了这条重要消息。 <a href="https://twitter.com/JiangShangrong/status/1533321188046405635" target="_blank" rel="noopener noreferrer">https://twitter.com/JiangShangrong/status/1533321188046405635</a>
+这几天上推少，居然遗漏了这条重要消息。
 
