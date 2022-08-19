@@ -169,3 +169,13 @@ It's very hard to tell. I discuss it a bit in [this answer](https://www.reddit.c
 
 Thank you!
 
+### 719: [Favorite or upcoming war/skirmish games that aren't warhammer, legion, or malifaux?](https://old.reddit.com/r/wargaming/comments/ws3ia5/favorite_or_upcoming_warskirmish_games_that_arent/), submitted on 2022-08-19 11:38:40+08:00.
+
+----- __719.1__ -----2022-08-19 22:05:18+08:00:
+
+You might have replied to the wrong person here, but eh, I thought it worth replying to anyway.
+
+With historical wargaming especially, it's generally not the case that rules are 'vertically integrated' systems with manufacturers producing rules specific to a given figure range and vice versa, and especially with skirmish games there's rarely an expectation that you will be using a basing system that is mutually exclusive with any others. So you should be looking not for who 'sells Lion Rampant' (you can get it as a PDF on the Osprey site for about £10), but rather where you can get medieval minis from to use the rules with. Perry Miniatures in the UK do a decent range of minis in metal for the Crusades, Hundred Years War, and Wars of the Roses for instance, while Fireforge do a huge range of plastic and resins for everything from the the fall of the Western Roman Empire to also the Wars of the Roses.
+
+Basically the same applies to any of the Osprey sets. Osprey is just a book publisher and not a minis manufacturer, so all the rules they publish are essentially miniatures-agnostic. If you want to play *Ronin* then any samurai range will do. *Castles in the Sky* can be played with Leviathans or with Brigade Models' *Imperial Skies* range. You'll likely find someone in the area who has Napoleonics and can play *Chosen Men* or *Absolute Emperor*. The world's your oyster.
+
