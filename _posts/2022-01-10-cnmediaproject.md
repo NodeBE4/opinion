@@ -41,7 +41,7 @@ The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zh
 
 ### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
 
-RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Susan Finder<br>Before 扫黑 there was 扫黄！<br><img style="" src="https://pbs.twimg.com/media/FI0QVTjaIAMvWl0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-11 23:13:18+08:00 推文](https://twitter.com/JunMai_Beijing/status/1480920761166663681)
 
@@ -53,7 +53,7 @@ RT Bill Bishop<br>are there cases in Shanghai?<br><br>方舟子: 上海还�
 
 ### 10: [2022-01-12 17:15:51+08:00 推文](https://twitter.com/lingli_vienna/status/1481193194041786370)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Heads of cyberspace admin offices met in Beijing. <br><br>Expecting a lot more on Xi Thought in 2022.<br><img style="" src="https://pbs.twimg.com/media/FI5AdVdWQAMldML?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-13 14:35:29+08:00 推文](https://twitter.com/cnmediaproject/status/1481515224310370304)
 

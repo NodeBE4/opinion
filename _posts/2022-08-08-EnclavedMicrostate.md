@@ -405,3 +405,9 @@ Are or aren't? I don't see them.
 
 To be 'fair', the Tempus ban was lifted after the outburst so he wouldn't have known. Not that that makes it *better* by any means.
 
+----- __709.15__ -----2022-08-19 11:18:20+08:00:
+
+Remember, China is neither nationalist nor eugenicist, and has no notions of racial purity.
+
+(/s if that was needed)
+
