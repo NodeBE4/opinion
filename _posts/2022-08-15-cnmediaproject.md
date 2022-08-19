@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-18
+date: 2022-08-19
 from: https://twitter.com/cnmediaproject/status/1558971107054878722
 layout: post
 tags:
@@ -106,4 +106,32 @@ RT 王丰 Wang Feng<br>Asset Management Association of China, a quasi-governme
 ### 23: [2022-08-18 15:39:39+08:00 推文](https://twitter.com/cnmediaproject/status/1560169541900304387)
 
 In the latest CMP Interview, @JoycepyChan talks to Runako Celina about her revealing BBC documentary "Racism for Sale," about a video industry in China that exploits children across Africa. <a href="https://chinamediaproject.org/2022/08/18/unpacking-the-booming-racist-video-industry-in-china%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/18/unpacking-the-booming-racist-video-industry-in-china%ef%bf%bc/</a>
+
+### 24: [2022-08-18 23:30:01+08:00 推文](https://twitter.com/PhelimKine/status/1560287910192041985)
+
+RT Phelim Kine “老 康“<br>Many thanks to this week's @politico China Watcher contributors @rkmcshane @AlexConant @AmbQinGang @RepSteveChabot @nicolle_liu @tradereporter @davidrdollar @Redmond_WF_Wong @jedmark888 @cnmediaproject @schoenmakersk Brian Leung @hkdc_us @DawnMurphyChina <a href="https://www.politico.com/newsletters/politico-china-watcher/2022/08/18/the-china-campaign-cudgel-meets-the-midterms-00052537" target="_blank" rel="noopener noreferrer">https://www.politico.com/newsletters/politico-china-watcher/2022/08/18/the-china-campaign-cudgel-meets-the-midterms-00052537</a>
+
+### 25: [2022-08-19 09:24:07+08:00 推文](https://twitter.com/cnmediaproject/status/1560437422642823169)
+
+If you're one of the rare folks who have not yet read Kevin Schoenmaker's gripping and sordid tale of China's external propaganda through documentary film gone horribly wrong . . . Here you go: <a href="https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/15/telling-chinas-story-poorly/</a>
+
+### 26: [2022-08-19 09:24:53+08:00 推文](https://twitter.com/cnmediaproject/status/1560437613257162752)
+
+In the CMP Dictionary, "streamlining services," a phrase introduced by Premier Li Keqiang. <a href="https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/streamlining-services/</a>
+
+### 27: [2022-08-19 09:26:29+08:00 推文](https://twitter.com/cnmediaproject/status/1560438016107515904)
+
+In case you missed it: Chinese journalism veteran Jiang Yiping looks back on the "golden era" of the PRC press in 1990s-2000s. <a href="https://chinamediaproject.org/2022/08/05/looking-back-on-chinas-golden-era/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/05/looking-back-on-chinas-golden-era/</a>
+
+### 28: [2022-08-19 09:28:11+08:00 推文](https://twitter.com/cnmediaproject/status/1560438443951689728)
+
+Our latest interview is out. Joyce Chan speaks with Runako Celina about her wonderful BBC investigation into a video industry in China exploiting African children, "Racism for Sale." <a href="https://chinamediaproject.org/2022/08/18/unpacking-the-booming-racist-video-industry-in-china" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/18/unpacking-the-booming-racist-video-industry-in-china</a>
+
+### 29: [2022-08-19 09:36:45+08:00 推文](https://twitter.com/cnmediaproject/status/1560440600402731009)
+
+One phrase at the top of the great big piece on the front page of the People's Daily today about Xi Jinping touring the northeast is "seeking progress in stability" 稳中求进. Learn more in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/seeking-progress-in-stability/</a>
+
+### 30: [2022-08-19 09:42:34+08:00 推文](https://twitter.com/cnmediaproject/status/1560442064932061184)
+
+Read this thread. Absolutely essential to understanding China's WeChat public accounts, or "gonghao" (公号).<br><br>FANG Kecheng 方可成: Yesterday was the 10th anniversary of WeChat public platform, or the commonly known “gonghao 公号”. Gonghao has since become the most important channel for Chinese to get news and information. It also gave birth to the “zimeiti (self-media/we media)” industry.<br><br>(A thread🧵)<br><br><img style="" src="https://pbs.twimg.com/media/FadKsLSaUAEwVa7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
