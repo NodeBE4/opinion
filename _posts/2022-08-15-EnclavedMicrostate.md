@@ -57,6 +57,24 @@ Surely [this clip](https://www.youtube.com/watch?v=FaN-J3c9lnI), which involves 
 
 My suspicion is that Mel was simply a test run for Live2D and would latterly slot into Gen 0 in the sense of Gen 0 being mostly one-off members originally part of experimental projects.
 
+----- __711.5__ -----2022-08-19 18:37:54+08:00:
+
+> History is filled with stuff nobody gives 2 shits about
+
+Speaking as a historian, there's a difference between not everyone caring about a given topic, and nobody caring about it. Very few people give shits about the Taiping War, but that's still people giving shits about it.
+
+----- __711.6__ -----2022-08-19 18:39:09+08:00:
+
+> >!due to her thinking it is a derogatory slang!<
+
+I mean, it is though. I know that's apparently a hot take in this sub, but it's worth stressing regardless.
+
+----- __711.7__ -----2022-08-19 18:43:16+08:00:
+
+> they were already established vtubers
+
+Hime Hajime definitely wasn't, and I'm 95% sure Froot wasn't either.
+
 ### 712: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
 
 ----- __712.1__ -----2022-08-16 15:10:29+08:00:
