@@ -135,3 +135,15 @@ One phrase at the top of the great big piece on the front page of the People's D
 
 Read this thread. Absolutely essential to understanding China's WeChat public accounts, or "gonghao" (公号).<br><br>FANG Kecheng 方可成: Yesterday was the 10th anniversary of WeChat public platform, or the commonly known “gonghao 公号”. Gonghao has since become the most important channel for Chinese to get news and information. It also gave birth to the “zimeiti (self-media/we media)” industry.<br><br>(A thread🧵)<br><br><img style="" src="https://pbs.twimg.com/media/FadKsLSaUAEwVa7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 31: [2022-08-19 13:58:21+08:00 推文](https://twitter.com/cnmediaproject/status/1560506435330785280)
+
+Coverage of Xi Jinping's visit to Liaoning province notes today his use of the term "red country," or "red rivers and mountains" (红色江山). What does this term mean? More in our CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-country/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-country/</a>
+
+### 32: [2022-08-19 14:00:52+08:00 推文](https://twitter.com/cnmediaproject/status/1560507067299143680)
+
+Re The term is essentially a call to remember the class nature of the Party as a representative of the people, and a claim to the Party's long-term legitimacy and the enduring value of socialism. But it is also a reminder of the dramatic return of ideology under Xi.<br><img style="" src="https://pbs.twimg.com/media/FagI39waIAA_-Nj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2022-08-19 14:08:35+08:00 推文](https://twitter.com/cnmediaproject/status/1560509012097245184)
+
+Re "Red country" emerged in the run-up to the Cultural Revolution and soared through that decade of horrors. During reform and opening, in the 32 years from 1980 to 2012, the term appeared just 19 times in the People's Daily. Under Xi? So far 152 separate articles in the paper.<br><img style="" src="https://pbs.twimg.com/media/FagKq1WacAAqqic?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
