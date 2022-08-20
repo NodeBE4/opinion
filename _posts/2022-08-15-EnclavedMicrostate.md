@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-19
+date: 2022-08-20
 from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
 layout: post
 tags:
@@ -182,4 +182,12 @@ You might have replied to the wrong person here, but eh, I thought it worth repl
 With historical wargaming especially, it's generally not the case that rules are 'vertically integrated' systems with manufacturers producing rules specific to a given figure range and vice versa, and especially with skirmish games there's rarely an expectation that you will be using a basing system that is mutually exclusive with any others. So you should be looking not for who 'sells Lion Rampant' (you can get it as a PDF on the Osprey site for about £10), but rather where you can get medieval minis from to use the rules with. Perry Miniatures in the UK do a decent range of minis in metal for the Crusades, Hundred Years War, and Wars of the Roses for instance, while Fireforge do a huge range of plastic and resins for everything from the the fall of the Western Roman Empire to also the Wars of the Roses.
 
 Basically the same applies to any of the Osprey sets. Osprey is just a book publisher and not a minis manufacturer, so all the rules they publish are essentially miniatures-agnostic. If you want to play *Ronin* then any samurai range will do. *Castles in the Sky* can be played with Leviathans or with Brigade Models' *Imperial Skies* range. You'll likely find someone in the area who has Napoleonics and can play *Chosen Men* or *Absolute Emperor*. The world's your oyster.
+
+### 720: [Suggestions for learning more about the Chu-Han Contention for fans of Ken Liu?](https://old.reddit.com/r/AskHistorians/comments/wso1k5/suggestions_for_learning_more_about_the_chuhan/), submitted on 2022-08-20 04:28:13+08:00.
+
+----- __720.1__ -----2022-08-20 16:07:00+08:00:
+
+> not available as an e-book
+
+That's not entirely true as it is technically [available through Cambridge Core](https://www.cambridge.org/core/books/cambridge-history-of-china/00EC13D6E578FBC73F04750D644FF3EA), but price will likely still be an issue unless you have library access to it.
 

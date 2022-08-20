@@ -411,3 +411,13 @@ Remember, China is neither nationalist nor eugenicist, and has no notions of rac
 
 (/s if that was needed)
 
+----- __709.16__ -----2022-08-20 16:05:19+08:00:
+
+It's a thing that pops up in wargaming rules too, and to be honest I think the argument can swing both ways. Here it's even more drastic because wargaming tends to be done with D6s, so an automatic fail on 1 and automatic success on 6 is way more common.
+
+The justification is, in my view, sensible enough, especially for automatic success on 6: let's imagine I have a situation where a unit is shooting at the limit of its effective range and could hit on a 5, but let's say the defender has a cover modifier that reduces it by -2, making hits mathematically impossible. This wouldn't make sense in the real world, though: some hits *should* still be scored. Similarly, if you're at really close range and have some other modifier, your hit rate still shouldn't be exactly 100%.
+
+----- __709.17__ -----2022-08-20 16:32:28+08:00:
+
+I'm kind of surprised how quickly the toxic side of fandom came out after what had been a genuine outpouring of grief but also goodwill from the rest of the community. I half-wonder if Kson and Nazuna (formerly Hololive's Coco and Rushia) joining VShojo, which has itself fired a lot of PR shots at Hololive recently, has led to the hardcore tribalists going after anyone who looks to be betraying the brand somehow.
+

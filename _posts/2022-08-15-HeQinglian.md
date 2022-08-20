@@ -403,3 +403,7 @@ Re @TonyQuSH @KELMAND1 不行，成色差太多了，泰国人妖很靓的（至
 
 自从BLM2020年借反抗之名开始零元购以来，每逢节日来一轮，不知今日何日？如果不是节日，恭喜拜登政府治下，BLM零元购成为新常态。<br>小拜有豪宅在加州，应该去光顾一下。<br><br>Andy Ngô 🏳️‍🌈: Los Angeles: @LAPDHQ has released footage of a mass looting of a 7-11 on Aug. 15 at Figueroa and El Segundo.<br><br><video src="https://video.twimg.com/ext_tw_video/1560577337841930240/pu/vid/1280x720/A1YNae57_kLt1Jdn.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1560577337841930240/pu/img/ZCe0vuubCwzv3I5n.jpg"></video> <a href="https://www.lapdonline.org/newsroom/flash-mob-looters-ransack-convenient-store-after-street-takeover-nr22237jl/" target="_blank" rel="noopener noreferrer">https://www.lapdonline.org/newsroom/flash-mob-looters-ransack-convenient-store-after-street-takeover-nr22237jl/</a>
 
+### 98: [2022-08-20 15:22:36+08:00 推文](https://twitter.com/HeQinglian/status/1560890024324915200)
+
+Re @shenliangqing2 <br>就在这里。重点在最后一段的结论。 <a href="https://chinadigitaltimes.net/chinese/661510.html" target="_blank" rel="noopener noreferrer">https://chinadigitaltimes.net/chinese/661510.html</a>
+
