@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-20
+date: 2022-08-21
 from: https://twitter.com/realcaixia/status/1558881121261305856
 layout: post
 tags:
@@ -126,4 +126,16 @@ Re 走向宪政民主是中国政治发展的必然趋势，只是迟早而已�
 ### 28: [2022-08-20 20:13:27+08:00 推文](https://twitter.com/realcaixia/status/1560963220218732546)
 
 请从12分45秒左右起看肖案判决。这判决威胁到每一个有绿卡和已经入籍他国的海外华人。习当局无视国际规则。<br><br>LT 視界: 立即對蘋果設備軟件安全升級；中國不得不接受在國際上“吹牛上稅”；習近平如此處置蕭建華背後有“大學問”。 （8月19日）<br><br><img style="" src="https://pbs.twimg.com/media/FajymUkWIAAc_bg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/RRDX7z2d83k" target="_blank" rel="noopener noreferrer">https://youtu.be/RRDX7z2d83k</a>
+
+### 29: [2022-08-21 02:31:41+08:00 推文](https://twitter.com/realcaixia/status/1561058403321094146)
+
+中共将加拿大公民绑架到中国大陆本身就违反中国的国籍法。请看第九条关键词“自动”丧失中国国籍。请注意，“自动”二字前面没有任何前提条件。<br><img style="" src="https://pbs.twimg.com/media/Fan-Vu2WAAMjQnb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fan-V9tXoAEj84N?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 30: [2022-08-21 03:24:36+08:00 推文](https://twitter.com/realcaixia/status/1561071722065018883)
+
+Re 肖建华还有香港永居身份。肖建华是从香港被绑架到大陆的。官方事实上在1997以后也没把香港看作为中国。事实为证：1，所有中国大陆居民去香港必须办理《出入境》证件，去香港就是出了国境，就要有过海关手续：2，打电话到香港，算作“国际长途电话”。肖建华不是在北京被绑架到香港而是从香港被绑架到大陆
+
+### 31: [2022-08-21 03:26:21+08:00 推文](https://twitter.com/realcaixia/status/1561072161925767168)
+
+Re @Alvin_Canada 对。这就是中国法律的自相矛盾之处。
 
