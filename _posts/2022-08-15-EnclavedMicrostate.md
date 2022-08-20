@@ -91,6 +91,12 @@ Slander is spoken. In print, it's libel.
 
 No, Suisei would still be the exception as far as Holo is concerned. The Roboco model predates Hololive but Cover hired the talent; Pekora was scouted but still debuted as a Hololive member; Coco joined Hololive conventionally.
 
+----- __711.11__ -----2022-08-20 17:01:59+08:00:
+
+> (something actually banned in another company with supposedly more creative freedom)
+
+Wait, which one?
+
 ### 712: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
 
 ----- __712.1__ -----2022-08-16 15:10:29+08:00:
