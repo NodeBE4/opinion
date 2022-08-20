@@ -201,6 +201,10 @@ Basically the same applies to any of the Osprey sets. Osprey is just a book publ
 
 That's not entirely true as it is technically [available through Cambridge Core](https://www.cambridge.org/core/books/cambridge-history-of-china/00EC13D6E578FBC73F04750D644FF3EA), but price will likely still be an issue unless you have library access to it.
 
+----- __720.2__ -----2022-08-21 02:25:48+08:00:
+
+I think you're right. I exploited my institutional access to basically download the entire series a while back so I haven't had to access it entirely as a private individual before.
+
 ### 721: [When you love a girl so much you started calling her illustrator mama your mother-in-law](https://old.reddit.com/r/Hololive/comments/wt2fe1/when_you_love_a_girl_so_much_you_started_calling/), submitted on 2022-08-20 16:53:43+08:00.
 
 ----- __721.1__ -----2022-08-20 20:17:33+08:00:

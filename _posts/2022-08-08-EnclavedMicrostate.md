@@ -421,3 +421,7 @@ The justification is, in my view, sensible enough, especially for automatic succ
 
 I'm kind of surprised how quickly the toxic side of fandom came out after what had been a genuine outpouring of grief but also goodwill from the rest of the community. I half-wonder if Kson and Nazuna (formerly Hololive's Coco and Rushia) joining VShojo, which has itself fired a lot of PR shots at Hololive recently, has led to the hardcore tribalists going after anyone who looks to be betraying the brand somehow.
 
+----- __709.18__ -----2022-08-21 02:36:06+08:00:
+
+While I don't *utterly* disagree, I don't think that's a fair statement in this case, where the core issue is a specific – and relatively high-profile – VTuber giving an interview with a relatively high-profile VTuber news/gossip site and appearing to take aim at the top VTuber agency, then *also* the next most, and *then* it turning out to have involved a bunch of editorialising by the article author, but with the VTuber in question and her agency not exactly publicly claiming that the substance was untrue. It is very overtly a case where the agency and the site are appearing to deliberately attempt to stoke drama, and possibly the VTuber herself although in context it seems more like a misinformed take on her end, but one that ties in closely to her agency's PR stance.
+
