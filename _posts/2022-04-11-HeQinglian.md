@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
