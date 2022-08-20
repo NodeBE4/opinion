@@ -119,3 +119,11 @@ Re 走向宪政民主是中国政治发展的必然趋势，只是迟早而已�
 
 这篇文章很深刻，特别推荐：<br><br>《议报》: 他们以为他们是自由的<br> <a href="https://yibaochina.com/?p=247514" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247514</a>
 
+### 27: [2022-08-20 19:57:26+08:00 推文](https://twitter.com/realcaixia/status/1560959188418936833)
+
+特别强烈推荐LT视界关于肖建华案的判决分析。<br>借用一网友的评论：是华文媒体圈里分析最深刻的。肖建华案判决的某些点，关系到每个海外华人的命运<br><br>立即對蘋果設備軟件安全升級；中國不得不在國際上“吹牛上稅”；習近平如此處置蕭建華背後有“大學問”。 （8月19日） <a href="https://youtu.be/RRDX7z2d83k" target="_blank" rel="noopener noreferrer">https://youtu.be/RRDX7z2d83k</a>
+
+### 28: [2022-08-20 20:13:27+08:00 推文](https://twitter.com/realcaixia/status/1560963220218732546)
+
+请从12分45秒左右起看肖案判决。这判决威胁到每一个有绿卡和已经入籍他国的海外华人。习当局无视国际规则。<br><br>LT 視界: 立即對蘋果設備軟件安全升級；中國不得不接受在國際上“吹牛上稅”；習近平如此處置蕭建華背後有“大學問”。 （8月19日）<br><br><img style="" src="https://pbs.twimg.com/media/FajymUkWIAAc_bg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/RRDX7z2d83k" target="_blank" rel="noopener noreferrer">https://youtu.be/RRDX7z2d83k</a>
+
