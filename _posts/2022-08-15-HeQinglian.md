@@ -363,3 +363,43 @@ Re @c33uviiip0cp @HHWyH5IacghLykf @Rememberthem64 回你一句，是美国的代
 
 我小时地方的花鼓戏中有演老旦的一位演员，下了舞台也是老旦派头，扭扭捏捏，翘起兰花指，说话拿腔捏调，成为地方一景——八卦景。<br>但比这个看起来好得多。<br>我早就不看好莱坞片了，一想到将来某天这类占领舞台，恐怕更不能看。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1560049325622771712/pu/vid/576x1024/AHFLUcWPoh3NDNrI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1560049325622771712/pu/img/TfdRHfcFCjc5KMdL.jpg"></video>
 
+### 88: [2022-08-20 08:52:11+08:00 推文](https://twitter.com/HeQinglian/status/1560791771508006912)
+
+Re @JianglinLi @guchuan81 最开始我还盼雨，现在不盼了。早上有点秋露，花事已经快过完了。
+
+### 89: [2022-08-20 08:54:58+08:00 推文](https://twitter.com/HeQinglian/status/1560792474347622402)
+
+Re @FightForJiuCai 如今拥护民主党的华左们，就剩下俄罗斯侵略乌克兰这一点“正气”了，知道其他的提起来都丢脸（假设他们还有正常人的生活要求）。一谈起这，就来劲。<br>我今天拉黑几只乌鸡血。
+
+### 90: [2022-08-20 08:58:07+08:00 推文](https://twitter.com/HeQinglian/status/1560793266941050880)
+
+Re @JianglinLi @guchuan81 我家安了自动喷灌系统，倒也不会干死。但紫薇有点可怜，每天花头被浇水，花苞长了霉，有部分开不出花。
+
+### 91: [2022-08-20 09:40:40+08:00 推文](https://twitter.com/HeQinglian/status/1560803972507750400)
+
+Re @JianglinLi @pandatress1 @guchuan81 再豪华的公寓也无法替代有花园的Single House。
+
+### 92: [2022-08-20 09:45:02+08:00 推文](https://twitter.com/HeQinglian/status/1560805072283508738)
+
+Re @pandatress1 @JianglinLi @guchuan81 养花与看花不是一回事。<br>我与江琳说的是养花。
+
+### 93: [2022-08-20 09:50:14+08:00 推文](https://twitter.com/HeQinglian/status/1560806380298276864)
+
+Re @shenliangqing2 你拉黑这些进步人就行。我是一个也不留，只要冒头。不少人都诉苦诉到晓农那里去了。
+
+### 94: [2022-08-20 10:03:17+08:00 推文](https://twitter.com/HeQinglian/status/1560809667210756097)
+
+Re @Wu_Zhi 男人演旦角，是演戏；<br>这种人是将雌化当作生存状态，还乐此不疲，民主党政府还将这当作进步意识形态推销，要国民效尊敬并效仿，只能说这个政府将施政当作舞台，将自身当作演员了。<br>突然想起尼禄。
+
+### 95: [2022-08-20 10:12:07+08:00 推文](https://twitter.com/HeQinglian/status/1560811889059299328)
+
+芬兰人民选的。<br>别说是她欺骗了你们。<br><br>Very Finnish Problems: No prizes for guessing who gets my vote 😎👌<br><br><video src="https://video.twimg.com/ext_tw_video/1560577247261622272/pu/vid/404x720/cxJ5ix2FTc6KS6Oe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1560577247261622272/pu/img/IkeQUczmYs6RV0cn.jpg"></video>
+
+### 96: [2022-08-20 10:26:02+08:00 推文](https://twitter.com/HeQinglian/status/1560815392519487495)
+
+Re @TonyQuSH @KELMAND1 不行，成色差太多了，泰国人妖很靓的（至少扮相如此），而且好象还有点行业技巧。<br>泰国可以试办人妖大学（美国多所名校已经开办大麻专业，产供销一条龙），估计美国左派不少人会踊跃报名，成为一个产业。
+
+### 97: [2022-08-20 10:31:28+08:00 推文](https://twitter.com/HeQinglian/status/1560816758818312193)
+
+自从BLM2020年借反抗之名开始零元购以来，每逢节日来一轮，不知今日何日？如果不是节日，恭喜拜登政府治下，BLM零元购成为新常态。<br>小拜有豪宅在加州，应该去光顾一下。<br><br>Andy Ngô 🏳️‍🌈: Los Angeles: @LAPDHQ has released footage of a mass looting of a 7-11 on Aug. 15 at Figueroa and El Segundo.<br><br><video src="https://video.twimg.com/ext_tw_video/1560577337841930240/pu/vid/1280x720/A1YNae57_kLt1Jdn.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1560577337841930240/pu/img/ZCe0vuubCwzv3I5n.jpg"></video> <a href="https://www.lapdonline.org/newsroom/flash-mob-looters-ransack-convenient-store-after-street-takeover-nr22237jl/" target="_blank" rel="noopener noreferrer">https://www.lapdonline.org/newsroom/flash-mob-looters-ransack-convenient-store-after-street-takeover-nr22237jl/</a>
+

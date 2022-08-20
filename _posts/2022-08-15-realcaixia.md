@@ -115,3 +115,7 @@ Re 走向宪政民主是中国政治发展的必然趋势，只是迟早而已�
 
 肖建华案真是拍电影写小说的好题材。香港兴衰史、中共高层黑金内幕、权斗内幕之类的都有肖建华的份。<br><br>楊建利 Yang Jianli: 肖建华被判刑13年，远远低于坊间这几年的预测，其中必有门道。习近平是想在20大前让政治家族都放心呢还是都不放心呢？<br>据一位熟悉肖建华的朋友介绍，一般权贵白手套只和一家或两家顶层政治家族搞定关系，而肖建华却处心积虑试图和所有政治家族搞定关系。另外还有鲜为人知的是：肖建华痴迷研究毛泽东。<br><br><img style="" src="https://pbs.twimg.com/media/FahqsQaWIAEoqwR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fahqt-hWQAE3BPk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 26: [2022-08-20 10:09:01+08:00 推文](https://twitter.com/realcaixia/status/1560811108218425345)
+
+这篇文章很深刻，特别推荐：<br><br>《议报》: 他们以为他们是自由的<br> <a href="https://yibaochina.com/?p=247514" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247514</a>
+

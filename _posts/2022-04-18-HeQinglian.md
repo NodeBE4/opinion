@@ -893,7 +893,7 @@ Re @HelloTommy2015 你本来就没名声，换个推号再来。重新开张。<
 
 ### 220: [2022-04-23 03:56:19+08:00 推文](https://twitter.com/Awaken168/status/1517593160813318144)
 
-RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!<br><br>nikola  tesla prvi: 🔥⚡Телевизијска мрежа Раша тудеј емитовала је вест о цурењу 2000 докумената који доказују одговорност Џорџа Сороша и Отвореног друштва у манипулацији изборима у земљама широм Европе!!!<br><br><video src="https://video.twimg.com/ext_tw_video/1517535973395025920/pu/vid/432x304/OcOf_8CH8iIU8ogS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517535973395025920/pu/img/ciYjsBp4DeS5kcy9.jpg"></video>
+RT ⚜️Awaken🔱<br>🔴🔥⚡電視網絡 Rasha Tudej 播放了有關 #洩露 2000 份文件的消息…⬇️<br>🔴這些文件證明了 #喬治·索羅斯 和開放社會在 #操縱 歐洲各國 #選舉 方面的責任!!!
 
 ### 221: [2022-04-23 08:27:28+08:00 推文](https://twitter.com/HeQinglian/status/1517661395919290368)
 
