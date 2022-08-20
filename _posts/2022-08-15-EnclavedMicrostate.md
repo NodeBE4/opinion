@@ -97,6 +97,10 @@ No, Suisei would still be the exception as far as Holo is concerned. The Roboco 
 
 Wait, which one?
 
+----- __711.12__ -----2022-08-20 18:09:54+08:00:
+
+Oh I see. I hadn’t known.
+
 ### 712: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
 
 ----- __712.1__ -----2022-08-16 15:10:29+08:00:

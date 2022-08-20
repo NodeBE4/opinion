@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。
+转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 
@@ -297,7 +297,7 @@ Re @david_david1968 这我完全不能同意。
 
 ### 71: [2022-06-25 04:46:40+08:00 推文](https://twitter.com/HeQinglian/status/1540436264884834304)
 
-立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？
+立本推存照，请记住，2019年1月全美选举委员会听证，专家指出多米尼系统有问题：无法验证选民身份，对外开放不到0.1秒就会被入侵，说来不及了；2020年1月同样的听证会，同样的理由。<br>现在美国缺那几亿美元了。<br>大权在握，就是不更换偷票机，你奈我何？<br><br>He Qinglian: 美国投票机有问题，但没钱更换，美国缺钱：<br>布伦南中心和验证投票的联合分析发现，更换老化的投票设备将花费数亿美元。<br>近年来，这些模型中的一些“翻转”投票，由于与老化硬件相关的校准错误，触摸屏错误记录了选民的选择。这反过来又导致了病毒视频和机器“窃取选票”的阴谋论。<br> <a href="https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022" target="_blank" rel="noopener noreferrer">https://www.brennancenter.org/our-work/research-reports/voting-machines-risk-2022</a>
 
 ### 72: [2022-06-25 13:10:44+08:00 推文](https://twitter.com/bonsandcake/status/1540563119096881152)
 
@@ -305,7 +305,7 @@ RT Stacy Chen 🇨🇦🇺🇸<br>Re @franktianxie 从“1-6委员会”，到
 
 ### 73: [2022-06-25 21:11:23+08:00 推文](https://twitter.com/HeQinglian/status/1540684079456059392)
 
-堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗
+堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗<br><br>RFI 華語 - 法國國際廣播電台: 美最高法院終結墮胎權憲法保障後，美西岸3州承諾捍衛墮胎權<br><br><img style="" src="https://pbs.twimg.com/media/FWDXjlXUAAAlx1N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Wuu.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Wuu.t</a>
 
 ### 74: [2022-06-25 21:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1540684709931274240)
 
