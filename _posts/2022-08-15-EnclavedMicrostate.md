@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-20
+date: 2022-08-21
 from: https://old.reddit.com/r/AskHistorians/comments/wohtte/why_isnt_the_taiping_rebellion_more_well_known/
 layout: post
 tags:
@@ -214,4 +214,12 @@ And so begins the harem arc...
 ----- __721.2__ -----2022-08-21 10:37:05+08:00:
 
 I meant Noel's harem.
+
+### 722: [There's a rational reason for the difference between TNG and DS9 Ferengi.](https://old.reddit.com/r/DaystromInstitute/comments/wtg5b7/theres_a_rational_reason_for_the_difference/), submitted on 2022-08-21 04:04:53+08:00.
+
+----- __722.1__ -----2022-08-21 10:57:47+08:00:
+
+> civil service
+
+The phrase you're thinking of is maybe national service or mandatory service. A civil service is a professional bureaucracy.
 
