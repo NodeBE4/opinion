@@ -73,7 +73,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
 
-鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
 
@@ -101,7 +101,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
-偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style="" src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
+偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-05 22:59:27+08:00 推文](https://twitter.com/realcaixia/status/1478742949714399236)
 
