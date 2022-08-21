@@ -101,6 +101,12 @@ Wait, which one?
 
 Oh I see. I hadn’t known.
 
+----- __711.13__ -----2022-08-21 20:59:34+08:00:
+
+> [...]this is the first PK Gen[...]
+
+*snrks in Cantonese*
+
 ### 712: [What religion has the most historical evidence to back it up?](https://old.reddit.com/r/AskHistorians/comments/wplqjo/what_religion_has_the_most_historical_evidence_to/), submitted on 2022-08-16 13:22:26+08:00.
 
 ----- __712.1__ -----2022-08-16 15:10:29+08:00:
