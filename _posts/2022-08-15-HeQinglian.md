@@ -529,7 +529,7 @@ Re @KELMAND1 这种事情，中国文革发生过，朱毛井岗山会师变成�
 
 ### 129: [2022-08-21 04:19:47+08:00 推文](https://twitter.com/HeQinglian/status/1561085609728528385)
 
-维持社会稳定的两个重要约束：<br>一是法律，这是他律。但是社会生活极其复杂，法律能够规范的毕竟有限，不在他律约束之内的就靠自律；<br>二是自律的内容。一是社会约成俗定的习俗，二是社会现行的道德标准。<br>社会对担任高阶公职的人要求比一般人高。拜登进了白宫，也清退了工作人员当中的吸麻者。<br><br>He Qinglian: 芬兰人民选的。<br>别说是她欺骗了你们。<br> <a href="https://twitter.com/VFinnishProbs/status/1560577542150569985" target="_blank" rel="noopener noreferrer">https://twitter.com/VFinnishProbs/status/1560577542150569985</a>
+维持社会稳定的两个重要约束：<br>一是法律，这是他律。但是社会生活极其复杂，法律能够规范的毕竟有限，不在他律约束之内的就靠自律；<br>二是自律的内容。一是社会约成俗定的习俗，二是社会现行的道德标准。<br>社会对担任高阶公职的人要求比一般人高。拜登进了白宫，也清退了工作人员当中的吸麻者。<br><br>He Qinglian: 芬兰人民选的。<br>别说是她欺骗了你们。<br>
 
 ### 130: [2022-08-21 04:26:09+08:00 推文](https://twitter.com/HeQinglian/status/1561087211390439424)
 
@@ -539,31 +539,51 @@ Re 吸麻是法律允许的，不违法。<br>芬兰女总理是进步人士，�
 
 Re @joeyisbest1235 政治人物需要担当能力。不过，如今的选举政治主要靠作秀吸选票。这些能力，选民没要求，参选者也没练过。<br>更何况年轻选民就是被高水平的物质社会娇养出来的Z世代与千禧一代。
 
-### 132: [2022-08-21 08:52:15+08:00 推文](https://twitter.com/HeQinglian/status/1561154177568497665)
+### 132: [2022-08-21 07:48:39+08:00 推文](https://twitter.com/JiangShangrong/status/1561138171055833089)
+
+RT jiang shangrong<br>著名记者政评人Daria Dugina被汽车炸弹在莫斯科郊区谋杀,迅速在各大媒体发酵.各种文章铺天盖地.继扎波罗热,克里米亚,库尔斯克频繁挑衅之后,他们把手伸到了莫斯科,并造成伤亡.而且是典型恐怖主义手段.相信俄政府会迫于民意,加强打击力度.拭目以待。这事儿,应是一个转折点.<br><img style="" src="https://pbs.twimg.com/media/FapG5CyWQAABKpP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FapG44EWIAESY3_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FapG44CXoAY-04Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FapG44IWAAAyouC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>jiang shangrong: ‼️俄爱国公众人物亚历山大·杜金女儿Darya Dugina 的汽车在莫斯科附近Bolshiye Vyazemy村的 Mozhayskoye高速路上被炸毁。目击者称，丰田汽车在行驶中发生爆炸，女孩当场死亡...<br>A. Dugin 是欧亚主义的思想家和著名的爱国领袖。<br>而女儿Daria是著名记者曾多次赴顿巴斯报道。<br>现在俄罗斯各大媒体翻了天<br><br><video src="https://video.twimg.com/ext_tw_video/1561135014783377408/pu/vid/720x554/duUVgv_xNgTEl894.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1561135014783377408/pu/img/Dil14JL2G2C4B5Oj.jpg"></video>
+
+### 133: [2022-08-21 08:52:15+08:00 推文](https://twitter.com/HeQinglian/status/1561154177568497665)
 
 Re @JiangShangrong 太黑暗了。
 
-### 133: [2022-08-21 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1561156650370846720)
+### 134: [2022-08-21 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1561156650370846720)
 
 近 1200 多名科学家签署的《世界气候宣言》（WCD），沉重打击了“气候宗教”，重心是两点，1、气候变化的叙述是荒谬的，但数万亿美元以及依赖资助的学者和议程的强势宣传及受驱使的记者目前表示这并不荒谬。2、科学家们说，没有气候紧急情况，但反对气候宗教的研究很难得到资助。 <a href="https://dailysceptic.org/2022/08/18/1200-scientists-and-professionals-declare-there-is-no-climate-emergency/" target="_blank" rel="noopener noreferrer">https://dailysceptic.org/2022/08/18/1200-scientists-and-professionals-declare-there-is-no-climate-emergency/</a>
 
-### 134: [2022-08-21 09:06:52+08:00 推文](https://twitter.com/HeQinglian/status/1561157855214010368)
+### 135: [2022-08-21 09:06:52+08:00 推文](https://twitter.com/HeQinglian/status/1561157855214010368)
 
 Re @speakingout89 你误解了。我的意思很明确：国家领导人必须有道德约束。不是法律未禁止的事情就可以肆意而为。我赞成该国公众要求她说明是否吸毒。<br>比如美国吸麻、在少数州吸毒、抢劫1000元以下不算犯罪，但拜登作为总统，不可以吸毒并去抢劫999元。<br>很多不知自我约束的人才赞同她下班后去跳艳舞。
 
-### 135: [2022-08-21 09:11:20+08:00 推文](https://twitter.com/HeQinglian/status/1561158978951856132)
+### 136: [2022-08-21 09:11:20+08:00 推文](https://twitter.com/HeQinglian/status/1561158978951856132)
 
 Re @zt33268778 美国警界有句著名的话：<br>盯住一个人开车，50英里可能不会违规，那就盯上100 英里、200英里……，只要时间够长，总能找到他的驾驶违规行为。
 
-### 136: [2022-08-21 10:02:02+08:00 推文](https://twitter.com/HeQinglian/status/1561171739530379264)
+### 137: [2022-08-21 10:02:02+08:00 推文](https://twitter.com/HeQinglian/status/1561171739530379264)
 
 Re @eGUAbe2V7j26GHw 👍👍
 
-### 137: [2022-08-21 10:05:30+08:00 推文](https://twitter.com/HeQinglian/status/1561172610980921344)
+### 138: [2022-08-21 10:05:30+08:00 推文](https://twitter.com/HeQinglian/status/1561172610980921344)
 
 Re @seadognw 如果是个人，立刻被灭了。<br>你应该懂这点，气候宗教那么大的压迫力，成了政治正确之首，不集结力量，会被打得落花流水。<br>想想covid-19初期，少数持不同看法的病毒学家们的处境。
 
-### 138: [2022-08-21 10:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1561176850273079296)
+### 139: [2022-08-21 10:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1561176850273079296)
 
 Re @eGUAbe2V7j26GHw 从那个年代一步一步走过来。有些需求是被压抑的释放出来，比如住房，如果住房不走市场化这条路，中国人三代同堂，一房难求。问题是将其作为产业支柱，政府钱袋、涨价太快，成了央行超发货币的蓄水池。<br>医疗这事也是从一个极端到另一个极端。教育产业化则是将政府承担的责任完全卸给家庭。
+
+### 140: [2022-08-21 14:26:22+08:00 推文](https://twitter.com/shenliangqing2/status/1561238259468218369)
+
+RT 沈良庆二世<br>崇拜与理性：是粉难免脑残，小粉红如此，小粉蓝也如此。甭管什么人，说过什么话，做过什么事，只要遭到打压，遑论坐牢，立马各种不必要的道德化，人格拔高和偶像崇拜。党员同志挨整、被杀多了去了。刘少奇、贺龙都死的很难看，要不要讴歌啊？哪天胡锡进、司马南进去了，要不要崇拜啊？#观推有感
+
+### 141: [2022-08-21 21:49:53+08:00 推文](https://twitter.com/HeQinglian/status/1561349876293713920)
+
+Re @WB22nd @shenliangqing2 其实你应该率先垂范，先离开我园子。我既然是“普京崇拜者”（其实只是讨厌极左的变态行为），不必在我呆着。
+
+### 142: [2022-08-21 21:53:16+08:00 推文](https://twitter.com/HeQinglian/status/1561350728714784770)
+
+Re @MyInfo62952549 @shenliangqing2 “西方很多民主国家担任公职就是一份工作”——民选公职时，应该展示所有方面，她没告诉选民这些吧。<br>至少该国国民不知道她有这爱好，因此要求她作毒品检测。她自己也承认有点疯狂。<br>泽连斯基的裸舞降低了你们对西方公职人物的行为标准。
+
+### 143: [2022-08-21 21:55:18+08:00 推文](https://twitter.com/HeQinglian/status/1561351237345447938)
+
+Re @ageorge3899 美国宪法没规定总统家族可以是犯罪家族，因此美国选了这么一个家族。<br>还是冷冷地打量一下自己到底有无常识，尤其是政治常识。
 
