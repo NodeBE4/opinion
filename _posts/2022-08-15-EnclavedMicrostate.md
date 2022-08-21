@@ -215,17 +215,49 @@ And so begins the harem arc...
 
 I meant Noel's harem.
 
-### 722: [There's a rational reason for the difference between TNG and DS9 Ferengi.](https://old.reddit.com/r/DaystromInstitute/comments/wtg5b7/theres_a_rational_reason_for_the_difference/), submitted on 2022-08-21 04:04:53+08:00.
+### 722: [The blending of the Greek and Roman pantheons is a famous example of religious syncretism, but I realized I haven't learned about many other instances of this (presumably!) common occurrence. Historians, what are some of the most impactful examples of religious syncretism in your area of expertise?](https://old.reddit.com/r/AskHistorians/comments/wt8z0a/the_blending_of_the_greek_and_roman_pantheons_is/), submitted on 2022-08-20 22:52:16+08:00.
 
------ __722.1__ -----2022-08-21 10:57:47+08:00:
+----- __722.1__ -----2022-08-21 15:03:58+08:00:
+
+I briefly flirted with the idea of writing about Qing attempts at syncretising war deities, something that isn't my main area, when it suddenly and embarrassingly struck me that my primary specialism revolves entirely around a syncretic religion! Taiping Christianity is something I've written on a few times before, but hey – why not do it again? Trying to talk about Taiping Christianity in this context is made complicated simply by virtue of how much has been written on it, and therefore how much material you have to try to select from and summarise, so instead I'll be mostly historiographical here, and if you want more specifics then have a gander through [my past answers](https://www.reddit.com/r/AskHistorians/wiki/profiles/enclavedmicrostate#wiki_the_taiping_heavenly_kingdom) on the subject.
+
+To lay out the groundwork first, Taiping Christianity was a short-lived syncretism of largely Protestant Christianity and Chinese popular religion that first emerged in 1843 and which would be effectively destroyed by the Qing government in 1866. Its founder, Hong Xiuquan, believed that he had received visions in 1837 which, when interpreted through the information found in a Protestant missionary tract which he read in 1843, identified him as God's second son, with a mission to drive out the demons that infested the earth and to restore the worship of the true God. He and a cousin, Feng Yunshan, then established the God-Worshipping Society in rural Guangxi, which served as a militia and aid organisation as well as a church amid a general weakening of Qing local government in rural areas. The Society increasingly came to blows with the Qing before formally declaring the establishment of an independent state, the Taiping Heavenly Kingdom, in 1851, which relocated to Nanjing over the course of 1851-3, from which it expanded to control much of the Lower Yangtze valley, before being eventually ground down and destroyed by the Qing.
+
+The conflict sometimes known as the Taiping Rebellion, the Taiping Civil War, or the Taiping War, was perhaps the most momentous event in China's 19th century history, causing millions of casualties, ravaging some of China's most prosperous regions, setting off a number of smaller regional uprisings, and, perhaps, emboldening a somewhat dormant but nonetheless potent strain of Han Chinese nativism that ultimately led to the overthrow of the Manchu-led Qing empire in 1912. The image of the Taiping either as nationalist heroes or as social revolutionaries (or occasionally as both) would be mobilised by anti-Qing agitators and post-Qing regimes, with Sun Yat-Sen and Mao Zedong especially being proponents of the idea that their own political movements were outgrowths of the Taiping's failed revolt. From an external perspective, the ostensible oddity of the Taiping's religion became an object of curiosity for generations of Anglophone scholars.
+
+But it may be surprising to learn that seriously approaching the Taiping in syncretic terms is *comparatively* recent. A lot of mid-20th century scholarship on the Taiping tends to adopt a highly essentialist and binary viewpoint in which the Taiping were either Christian or not. Eugene Boardman in 1952 declared the Taiping non-Christian because of their failure to adopt what *he* (as a Quaker) saw as key tenets of Christianity such as the Golden Rule; in 1962 Joseph Levenson declared that the Taiping *were* sincere in their Christianity and thus presented a fundamental challenge to the Confucian order; in 1967 Vincent Shih dissected a vast number of Taiping official documents to unearth their influences, and concluded that the Taiping were broadly Confucian in their ideological influences, and merely adopted Christian trappings as a pretext for an essentially secular agenda; in 1973 Jen Yu-Wen asserted that Christianity was fundamental to the Taiping as a 'revolutionary movement'. Rudolf Wagner would be one of the first to seriously approach the Taiping through a syncretic lens with *Re-enacting the Heavenly Vision* in 1982, stressing the importance of the *intersection* between Christianity and Chinese folk religion in the coalescence of Taiping ideology. Jonathan Spence, in his narrative history of the Taiping, *God's Chinese Son*, in 1996, would specifically hone in on the probable influence of Buddhist eschatological pamphlets on Hong's interpretation of Christianity.
+
+The two modern touchstones for any serious discussion of Taiping religion are Thomas Reilly's *The Taiping Heavenly Kingdom: Religion and the Blasphemy of Empire* (2004) and Carl Kilcourse's *Taiping Theology* (2017). Each work approaches the subject somewhat differently and homes in on different aspects. Reilly situates the Taiping principally in chronological context, focussing especially on the problem of communicating Christian religious concepts in written Chinese, and on how the Taiping's approach differed from – but also evolved out of – those of the Catholic and later Protestant missions in China. In turn, a major focus is placed on the Taiping idea that China had once practiced a form of Abrahamic monotheism before the introduction of Confucianism and latterly Buddhism, thus making Taiping Christianity in some ways a fundamentally nativist religious movement. Kilcourse situates the Taiping in a global rather than chronological context, arguing that the Taiping should be treated as a legitimate 19th century 'glocalisation' of Christianity, that is to say that while Christianity was a global religion, the Taiping imposed their own imagery and meaning onto it. He doesn't reject Reilly's work in so doing – indeed, the Taiping's Sinocentric view of Christianity is a critical element of this 'glocalisation' – but he arrives at these conclusions through a somewhat different framework.
+
+I think the area of Taiping syncretism that is most apparent and pervasive in their writings and history is in how Christianity was interpreted in a context where interaction with spirits, both good and evil, was commonplace. Hong's alleged mission to destroy demons and expel evil spirits was not spun from whole cloth, but specifically emerged out of a popular understanding that spirits and demons actively involved themselves in the world of the living. Texts discussing Taiping activities, especially those of the pre-Heavenly Kingdom years, have a particular focus on interactions with such spirits. I go into much more detail in [this answer](https://www.reddit.com/r/AskHistorians/comments/jjr5go/what_did_the_taiping_think_of_ghosts/gahlg0x/), but we see this for instance in an episode supposed to have taken place in 1847 in which Hong Xiuquan personally carried out an elaborate exorcism against a local deity known as King Gan, a malevolent entity whose image, housed in a cave, was given offerings as a form of appeasement. What this illustrates particularly pertinently is that the Taiping's rejection of spirit-worship derived from *belief* and not scepticism: they did not reject the existence of spirits and other lesser deities, but were in fact profoundly convinced of their existence, while abhorring the existing religious practices surrounding them. Equally important was the act of spirit channelling, in which a human claimed to serve temporarily as the vessel for a spiritual being. While Hong Xiuquan and Feng Yunshan ultimately rejected most such channellers as illegitimate, they did ultimately recognise the claims of Yang Xiuqing and Xiao Chaogui to be able to channel God and Jesus respectively (note that the Taiping adopted a sort of unitarian Christology), such that for several years (until Xiao's death in battle in 1853 and Yang's purging and execution in 1856) the Taiping could claim to be receiving continuous revelation from God and Jesus – the sole deistic presences worthy of worship – through these mortal vessels.
+
+Again, the above is only one example of Taiping syncretism in practice, and there is plenty more out there to discuss. Aside from my own answers you may wish to go straight to the sources, including:
+
+* Rudolf Wagner, *Re-enacting the Heavenly Vision* (1982)
+
+* Jonathan Spence, *God's Chinese Son* (1996)
+
+* Thomas Reilly, *The Taiping Heavenly Kingdom* (2004)
+
+* Carl Kilcourse, *Taiping Theology* (2017)
+
+* Daniel H. Bays, 'Christianity and the Chinese Sectarian Tradition' (1982)
+
+* Roland Boer, 'Marxism, Religion and the Taiping Revolution' (2016)
+
+* Carl Kilcourse, 'Instructing the Heavenly King: Joseph Edkins’s Mission to Correct the Theology of Hong Xiuquan' (2019)
+
+### 723: [There's a rational reason for the difference between TNG and DS9 Ferengi.](https://old.reddit.com/r/DaystromInstitute/comments/wtg5b7/theres_a_rational_reason_for_the_difference/), submitted on 2022-08-21 04:04:53+08:00.
+
+----- __723.1__ -----2022-08-21 10:57:47+08:00:
 
 > civil service
 
 The phrase you're thinking of is maybe national service or mandatory service. A civil service is a professional bureaucracy.
 
-### 723: [Did Adolf Hitler ever travel outside of Europe?](https://old.reddit.com/r/AskHistorians/comments/wtpiw5/did_adolf_hitler_ever_travel_outside_of_europe/), submitted on 2022-08-21 11:34:07+08:00.
+### 724: [Did Adolf Hitler ever travel outside of Europe?](https://old.reddit.com/r/AskHistorians/comments/wtpiw5/did_adolf_hitler_ever_travel_outside_of_europe/), submitted on 2022-08-21 11:34:07+08:00.
 
------ __723.1__ -----2022-08-21 12:25:00+08:00:
+----- __724.1__ -----2022-08-21 12:25:00+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -233,9 +265,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 724: [What spice has the most amount of people killed over it?](https://old.reddit.com/r/AskHistorians/comments/wtq2vv/what_spice_has_the_most_amount_of_people_killed/), submitted on 2022-08-21 12:04:03+08:00.
+### 725: [What spice has the most amount of people killed over it?](https://old.reddit.com/r/AskHistorians/comments/wtq2vv/what_spice_has_the_most_amount_of_people_killed/), submitted on 2022-08-21 12:04:03+08:00.
 
------ __724.1__ -----2022-08-21 12:25:27+08:00:
+----- __725.1__ -----2022-08-21 12:25:27+08:00:
 
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
