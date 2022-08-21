@@ -1057,7 +1057,7 @@ Re @RealBeiMing @JianglinLi @aMichaelHsu @JiangShangrong 以基辅幽灵为例�
 
 ### 261: [2022-05-08 04:50:21+08:00 推文](https://twitter.com/HeQinglian/status/1523042576521220101)
 
-1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。<br><br>Ezio Mao☢: 每月70亿美元，谁养得起……😅<br><br><img style="" src="https://pbs.twimg.com/media/FSIyd9VaIAA3eW0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/tjlyy009/status/1522435973082419201" target="_blank" rel="noopener noreferrer">https://twitter.com/tjlyy009/status/1522435973082419201</a>
+1月70亿，一年840亿美元。<br>据2020年世界各国GDP排名：<br>204个国家，排名第66的的斯里兰卡，年GDP总量为806.77亿美元。排名146的巴哈马年GDP总量为99.08亿，最末位是图瓦卢，年GDP总量为4886万美元。<br><br>如果谁愿意花时间，会计算出，排名后几十位的国家GDP总量也不足840亿美元。 <a href="https://www.kylc.com/stats/global/yearly_overview/g_gdp.html" target="_blank" rel="noopener noreferrer">https://www.kylc.com/stats/global/yearly_overview/g_gdp.html</a>
 
 ### 262: [2022-05-08 04:54:10+08:00 推文](https://twitter.com/HeQinglian/status/1523043537608187911)
 
@@ -1065,7 +1065,7 @@ Re @oldbeijingman 我从不照顾底层逻辑框架，也绝对不会为了屈�
 
 ### 263: [2022-05-08 05:35:06+08:00 推文](https://twitter.com/HeQinglian/status/1523053835467444224)
 
-据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。<br><br>美国之音中文网: 塔利班再度命令阿富汗妇女在公开场合遮面<br> <a href="http://dlvr.it/SPxn67" target="_blank" rel="noopener noreferrer">http://dlvr.it/SPxn67</a>
+据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。
 
 ### 264: [2022-05-08 05:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1523056629234618369)
 
