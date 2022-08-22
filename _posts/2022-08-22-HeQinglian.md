@@ -215,3 +215,19 @@ Re @AmJUzJTHTPUcVLk @JiangShangrong 滚。
 
 这是1984的超级加强版，也就是华左们口头批判、实际热爱的生活——他们的行为就是就是跟着领头者唱“四条腿好，两条腿坏”，对不同意见必欲杀之而后快。<br>先在美国势力范围内推行吧，拜登及民主党上层率先实行。<br><br>Frau-H: 世界经济论坛推荐儿童植入微芯片。<br><br><img style="" src="https://pbs.twimg.com/media/Faw8cHxXoAE1Eph?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 51: [2022-08-23 03:24:33+08:00 推文](https://twitter.com/HeQinglian/status/1561796487230676993)
+
+Re @mayuki753 @Wu_Zhi @mingshi_chen 这是几位研究文明史的专家，比较历史上几大文明，包括普通人未听说过的一些文明（用考古资料），再到西罗马、意大利城邦文化，最后得出这个大致结论。
+
+### 52: [2022-08-23 03:28:40+08:00 推文](https://twitter.com/HeQinglian/status/1561797519620902912)
+
+Re @hx_maggie 实不相瞒。我想过无数次如何建立一种自给自足的生活，也考察过一些宜人居的小岛，最后发现，天下之大，无人能够逃遁政府，尤其是互联网时代的全球化政府。<br>毛时代控制得那么严，中国有新疆、甘肃、贵州等天高皇帝远的地方，现在已经没有了。
+
+### 53: [2022-08-23 03:36:11+08:00 推文](https://twitter.com/HeQinglian/status/1561799412480937984)
+
+香港与台湾青年与大陆生活完全脱节，也不了解中国当代史，这是一张拿中国文革时期女孩穿补丁衣服与现代时髦女穿乞丐服的比较，我有评论在旁边。<br>确实不算一个国家，对事物的认知差别比美国华府精英与黄石公园的农场主还大。 <a href="https://www.facebook.com/photo/?fbid=10228632714148685&amp;set=a.2970857516380" target="_blank" rel="noopener noreferrer">https://www.facebook.com/photo/?fbid=10228632714148685&amp;set=a.2970857516380</a>
+
+### 54: [2022-08-23 03:43:12+08:00 推文](https://twitter.com/HeQinglian/status/1561801180568850433)
+
+Re @91SbECqyxeKEPvR 有网友说过，这是以前的作品，那时年轻气盛。现在经事多了，不再这样主张。<br>你看看他现在的主张是什么，反全球化2.0版是有道理的，那套东西太反人类了。
+
