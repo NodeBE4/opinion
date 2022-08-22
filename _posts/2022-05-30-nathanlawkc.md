@@ -23,7 +23,7 @@ We continue our battle regardless of where we are.<br>On June 4th, we are hostin
 
 ### 2: [2022-06-02 19:14:44+08:00 推文](https://twitter.com/nathanlawkc/status/1532319800415993857)
 
-"You always rebel for ideas, a collective future, something that is much bigger than yourself. It will push you to become a better person, to live a life with purpose.<br>Rebel for love. The love for life, for your community, for your friends."<br>#StandwithHongKong
+"You always rebel for ideas, a collective future, something that is much bigger than yourself. It will push you to become a better person, to live a life with purpose.<br>Rebel for love. The love for life, for your community, for your friends."<br>#StandwithHongKong<br><br>Nathan Law 羅冠聰: "My life will be full if I realize the dream of democracy and freedom in Hong Kong. But my life is not empty without it, and I am always proud of the hurdles I have overcome ... The result does not define you as a person; the process does."<br>@WJcollege<br><br><video src="https://video.twimg.com/amplify_video/1529513605212807170/vid/1280x720/5ygwm3KZTNoTERus.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1529513605212807170/img/HLHV6xHMyc9BxkmG.jpg"></video>
 
 ### 3: [2022-06-04 20:17:24+08:00 推文](https://twitter.com/nathanlawkc/status/1533060347783008257)
 
