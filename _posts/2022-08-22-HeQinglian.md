@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-22
+date: 2022-08-23
 from: https://twitter.com/HeQinglian/status/1561395465966469122
 layout: post
 tags:
@@ -194,4 +194,24 @@ Re @Wazy1988bW 毛时代用过阶级敌人这一套，余痛犹在，暂时不�
 ### 45: [2022-08-22 23:35:08+08:00 推文](https://twitter.com/HeQinglian/status/1561738749733650434)
 
 Re @Wu_Zhi @mingshi_chen 通过乌克兰战争，我对民主党治下的美国外交、西方媒体、欧洲各国政府，有了更进一步的认识。<br>十余年前看过BBC一部文明的衰落，说文明兴盛从未有超过300年的，先由英国、继由美国接棒的西方文明已经超过了300多年，其衰落是必然的。<br>当时，还没有大重置这套东西。看来也是应运而生。
+
+### 46: [2022-08-22 23:44:50+08:00 推文](https://twitter.com/HeQinglian/status/1561741193305808897)
+
+Re @Vince6610 @FranzMendelsso1 @JiangShangrong 所言甚是。<br>习与普的包装都比较难看，因为都是冷战期间批过的类型；后者的内里就是剧毒，但包装非常华丽，借美国民主的壳包装上市。
+
+### 47: [2022-08-22 23:48:12+08:00 推文](https://twitter.com/HeQinglian/status/1561742037854167040)
+
+Re @kNa7Q6IOFVwQoA2 @JiangShangrong 我这样说过吗？你还是不要留在我园子里为好。<br>我现在最讨厌无脑者。
+
+### 48: [2022-08-22 23:54:59+08:00 推文](https://twitter.com/HeQinglian/status/1561743745023938562)
+
+Re @AmJUzJTHTPUcVLk @JiangShangrong 滚。
+
+### 49: [2022-08-23 01:37:46+08:00 推文](https://twitter.com/HeQinglian/status/1561769611556786179)
+
+2020年之后，大重置势力美国民主党通过选举舞弊，成功地借美国之壳上市<br>此前，美国为推手的全球化推行的普世价值是三权分立的民主制、人权（第一代政治权利、第二代经济权利、第三代妇女与儿童权益）、各民族平等、言论自由<br>此后，美国推行的是LGBTQI（包括未成年人变性）+CRT（BLM）+大麻+取消文化。
+
+### 50: [2022-08-23 01:44:16+08:00 推文](https://twitter.com/HeQinglian/status/1561771249331740672)
+
+这是1984的超级加强版，也就是华左们口头批判、实际热爱的生活——他们的行为就是就是跟着领头者唱“四条腿好，两条腿坏”，对不同意见必欲杀之而后快。<br>先在美国势力范围内推行吧，拜登及民主党上层率先实行。<br><br>Frau-H: 世界经济论坛推荐儿童植入微芯片。<br><br><img style="" src="https://pbs.twimg.com/media/Faw8cHxXoAE1Eph?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
