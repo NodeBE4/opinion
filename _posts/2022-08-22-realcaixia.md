@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-22
+date: 2022-08-23
 from: https://twitter.com/realcaixia/status/1561391545961615361
 layout: post
 tags:
@@ -22,4 +22,20 @@ title: 'Twitter @蔡霞: 2022-08-22~2022-08-28'
 ### 2: [2022-08-22 00:44:38+08:00 推文](https://twitter.com/realcaixia/status/1561393854728658944)
 
 两个历史决议推出了一部充满谎言欺骗的党史，造了一个毛神；2021年又如法炮制了第三部历史决议，再造一个神。这三部决议都必须推倒，还历史以真实面目。<br><br>《议报》: 阮铭 | 对党史伪造学派的清算<br> <a href="https://yibaochina.com/?p=247517" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247517</a>
+
+### 3: [2022-08-23 00:43:39+08:00 推文](https://twitter.com/realcaixia/status/1561755993155018753)
+
+人们把30年前的新闻联播找出来。今天看30年前邓小平的话，正说的是现在这位。把14亿人的生计连碗带锅一起都砸了，还想霸着不下台。<br><br>Petrichor: 愚蠢的背叛，到头来自找苦吃。就这样还要连任，真是个不平凡的人。<br><br><video src="https://video.twimg.com/ext_tw_video/1561597801066283008/pu/vid/736x716/IxDH2HiH_74UYgQg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1561597801066283008/pu/img/EO5rAzJZo40E1-9d.jpg"></video>
+
+### 4: [2022-08-23 00:47:43+08:00 推文](https://twitter.com/realcaixia/status/1561757018674937856)
+
+以前很不明白前苏共为何那么打压艺术家，现在理解了并且为之鼓与呼。<br><br>bridgeduan: 北京，望京。另一个行为艺术式抗议。<br><br><img style="" src="https://pbs.twimg.com/media/Favv79CaMAIB-Ek?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FavwAq8aMAAWWfS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FavwFH1agAAzYPX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FavwGgMacAAzNoU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-08-23 00:49:20+08:00 推文](https://twitter.com/realcaixia/status/1561757423928590336)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-08-23 02:06:40+08:00 推文](https://twitter.com/realcaixia/status/1561776886367371264)
+
+1949前国共两党是内战。1949后中华民国在台湾，中共政权占大陆，两个国家政权从没相互隶属过。人们有同一祖国而不为同一国家。祖国是族群共同体，人无法选出生；国家是政治共同体，人们有权建立或选择接受哪个政权。新加坡国有75.9%华人，既不属于民国，也不属于中共国，即为此理。中共武统即是侵略。<br><br>高瑜: 昨天牆內網絡出現這份《反內戰宣言》，開篇即指明“中國社會科學院台灣問題專家，政協民進，民建中央等民主黨派和平反內戰人士指出”，無個人署名，提及單位尚無表態。這篇宣言是用文件發出，沒有被封殺、屏蔽。<br><br><img style="" src="https://pbs.twimg.com/media/FavY29XVQAIMLVk?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FavY5iGUUAA1hdz?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FavY-fiUUAAOtza?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
