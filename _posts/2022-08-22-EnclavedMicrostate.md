@@ -101,3 +101,9 @@ I never was!
 
 I ended up doing three (including a drama society which meant a lot of extra time commitment), although I tended to let that one take priority over the others rather than commit to absolutely everything.
 
+### 732: [For people who dont know these tank silencers exist because there is a village nearby. Otherwise they would constantly hear noises of over 100db. this silencer reduces the noice by about 20db](https://old.reddit.com/r/interestingasfuck/comments/wvmiq5/for_people_who_dont_know_these_tank_silencers/), submitted on 2022-08-23 19:38:46+08:00.
+
+----- __732.1__ -----2022-08-24 02:54:59+08:00:
+
+Tanks are armoured vehicles that are expected to be fired on by a lot of stuff and hopefully survive. Self-propelled howitzers are artillery pieces, some of which are armoured to give some measure of protection against enemy artillery fire, but rarely if ever protected enough to survive sustained attack because if it gets to that point, you are having a really bad day.
+
