@@ -355,3 +355,15 @@ Re 俄乌双方，无论什么算，都是胜负各有算法。<br>我关心的�
 
 Re @YaxueCao 我等无论支持还是不支持，他都会连任。<br>我倒是想看看，拜登领导的美国与习近平领导的中国，二者谁衰落的速度更快。<br>2021年 ，美国要快一些。如今年终还未到，期末成绩单还没出来。
 
+### 86: [2022-08-23 22:05:20+08:00 推文](https://twitter.com/HeQinglian/status/1562078540773875712)
+
+Re @JianglinLi @ngexp @RealBeiMing 这件事情，民主党内还是好好掐一阵，极端进步派绝对不会干，他们想送的桑德斯都还没进去。
+
+### 87: [2022-08-23 22:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1562079318313943041)
+
+Re @Farmer9911 @YaxueCao “美国多次左右摇摆，但大方向没有问题”。<br>事实是：毛式专制是中共祖传，经济改革也从未放弃专制，大方向从没变。<br>美国是宪政民主，主导全球化时通过颜色革命推广民主人权。如今宪政被破坏，选举舞弊去民主化。主导大重置时推广的是彩虹革命——内容我不重复了。
+
+### 88: [2022-08-23 22:20:15+08:00 推文](https://twitter.com/HeQinglian/status/1562082295535861761)
+
+今年4月28日，美国务卿布林肯宣布在全球进行彩虹革命：美国发布第一份公开的政府报告，展示在推进LGBTQI+方面的成就，并敦促所有政府一起采取行动。<br>以下报告显示👇，此后除乌克兰宣布实行同婚，彩虹革命效果甚微，不少城市的友好度下降。<br>疫苗证受抵制、绿能洗绿，大重置三大革命现在只剩彩虹革命。<br><br>He Qinglian: 大重置明面上的指挥中心世界经济论坛刚公布的进步价值观攻城战绩：<br>哪些城市在包容LGBTQ+方面表现良好？<br>2022年8月10日<br> <a href="https://cn.weforum.org/agenda/2022/08/nei-xie-cheng-shi-zai-bao-rong-lgbtq-fang-mian-biao-xian-liang-hao/" target="_blank" rel="noopener noreferrer">https://cn.weforum.org/agenda/2022/08/nei-xie-cheng-shi-zai-bao-rong-lgbtq-fang-mian-biao-xian-liang-hao/</a>
+
