@@ -447,3 +447,7 @@ Re @banoncn @Tracy60414679 @peterconet5 @GBCtoront 习近平不太听话，至�
 
 Re @shenliangqing2 @Wu_Zhi @fading_you1 @JianglinLi 我如果在他们这群中能够看到AOC、布林肯、拜登夫人、南希·波洛西的身影，那我就相信这真是“进步”了。<br>同理，他们家的晚餐以后变成虫子为主，我也相信那是“进步”了。<br>这种“进步标配”必须身体力行。
 
+### 109: [2022-08-24 00:50:57+08:00 推文](https://twitter.com/HeQinglian/status/1562120218331193344)
+
+Re @FlyInRainS3 @kshienator1 有些人对2020年之后的美国无感。他们看不到地铁里美国新贵族推人下轨道的消息，也看不见零元购的壮观场面更看不到小拜登的荒唐及与中共的勾连。<br>弄不明白这些人看见什么。
+

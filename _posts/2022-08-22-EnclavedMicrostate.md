@@ -91,3 +91,13 @@ This would be suited to Scuffles, but not to being a top-level post.
 
 It will depend how efficiently you apply yourself. For my part I typically only really 'worked' 8 hours a day, two and a half days a week (four days in terms where I had historiography/approaches papers running in parallel with my main term paper), and came away with a First at the end of it all. But that also entailed having done a certain amount of pre-reading out of term, in conjunction with a lot of informal 'work' in the form of simply spending time thinking things over even after handing something in.
 
+----- __731.2__ -----2022-08-24 02:32:52+08:00:
+
+> you'll really get caught out on that sort of a timescale.
+
+I never was!
+
+----- __731.3__ -----2022-08-24 02:33:44+08:00:
+
+I ended up doing three (including a drama society which meant a lot of extra time commitment), although I tended to let that one take priority over the others rather than commit to absolutely everything.
+
