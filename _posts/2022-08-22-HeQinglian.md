@@ -259,3 +259,83 @@ Re @busschool3 @mingshi_chen @zhixiangziyou @hx_maggie 你说的有道理，因�
 
 Re @mayuki753 @91SbECqyxeKEPvR 那时苏联刚解体，亨廷顿说俄罗斯无所适从，在当时是对的。直到亨氏去世之时，普京其实还是希望求得西方认可与接纳的，配合反恐等要求。<br>澳大利亚努力想成为西方世界的成员，但绿能上却无法承受牺牲，又不想靠近中共与俄罗斯，确实无所适从。<br>中国与伊斯兰的几个主要国家真有可能结盟。
 
+### 62: [2022-08-23 08:45:47+08:00 推文](https://twitter.com/HeQinglian/status/1561877327566589952)
+
+Re @cLb0SW7bwSU6y6p 与我同龄的香港人，无论是不是从大陆去的，还能在许多话题上找到共同点，因为有些事情有类似的记忆。<br>自从1980后的人成长起来后，与大陆脱节越来越厉害，他们甚至不知道大陆以前有多穷，香港与大陆相比就是天堂。
+
+### 63: [2022-08-23 08:50:51+08:00 推文](https://twitter.com/HeQinglian/status/1561878602676830208)
+
+全世界的时装面料设计，铁链成为时尚。<br>我并不认为这与徐州铁链女有何关系。 <a href="https://www.ryabe.com/products/93z4a2gawgtag?variant=42620134326510&amp;fbclid=IwAR2mJZeFLsohNkKtiMi9wE2g2VRpBkM2DnACw0nMudHte1c8wSsb9yhLZL8" target="_blank" rel="noopener noreferrer">https://www.ryabe.com/products/93z4a2gawgtag?variant=42620134326510&amp;fbclid=IwAR2mJZeFLsohNkKtiMi9wE2g2VRpBkM2DnACw0nMudHte1c8wSsb9yhLZL8</a>
+
+### 64: [2022-08-23 08:52:53+08:00 推文](https://twitter.com/HeQinglian/status/1561879114973429760)
+
+Re @Tepezano161 @ericxu1997 对这样的西方文明还能保持向往且认为自己非常正确的人，也恭喜他们。
+
+### 65: [2022-08-23 09:04:01+08:00 推文](https://twitter.com/HeQinglian/status/1561881916810330114)
+
+我认为一战各表，双方最后都赢了，赢的定义有不同。<br>至于观战者，再各自站边——这是可以预期的结果。<br>衡量这场战争的胜负标准是：拜登美国推行的LGBTQI+大麻+CRT等，各国政府配合推广的有多少。<br>如果还是40国（亚洲的日本、新加坡本就在里面），美方未赢；如果拉美、中东有国家推行，美方大胜。<br><br>Hu Ping胡平: 乌克兰大胜的可能性很小。然而在这场2月24日俄罗斯发起的入侵乌克兰的战争中，乌克兰不赢未必就是输。应该说，乌克兰不输就是赢，俄罗斯不赢就是输。<br> <a href="https://twitter.com/kjwong13/status/1561452802064674816" target="_blank" rel="noopener noreferrer">https://twitter.com/kjwong13/status/1561452802064674816</a>
+
+### 66: [2022-08-23 09:14:32+08:00 推文](https://twitter.com/HeQinglian/status/1561884561423974400)
+
+大重置明面上的指挥中心世界经济论坛刚公布的进步价值观攻城战绩：<br>哪些城市在包容LGBTQ+方面表现良好？<br>2022年8月10日 <a href="https://cn.weforum.org/agenda/2022/08/nei-xie-cheng-shi-zai-bao-rong-lgbtq-fang-mian-biao-xian-liang-hao/" target="_blank" rel="noopener noreferrer">https://cn.weforum.org/agenda/2022/08/nei-xie-cheng-shi-zai-bao-rong-lgbtq-fang-mian-biao-xian-liang-hao/</a>
+
+### 67: [2022-08-23 09:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1561885109665538048)
+
+Re @zhuxiuyuan 乌克兰也有同样优势啊，都生活在冰天雪地之中，只是程度不相同一点而已。<br>那时中选已过，拜登政府的动力何在？
+
+### 68: [2022-08-23 09:18:14+08:00 推文](https://twitter.com/HeQinglian/status/1561885494392274944)
+
+Re @GiselleonGnews 是不是将来还有骷髅头做面料设计？
+
+### 69: [2022-08-23 09:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1561886166403661824)
+
+Re @zhuxiuyuan 举个实例，有多少俄坦克陷在乌克兰的沼泽泥地里？我一直想寻找这样的实例，推上问过，没有答案。
+
+### 70: [2022-08-23 09:23:55+08:00 推文](https://twitter.com/HeQinglian/status/1561886922322108417)
+
+Re @GiselleonGnews 从那个范思美开始，就非常变态。很多年以前，还看看T台，后来完全不看了。<br>2008年之后的奥斯卡颁奖也不看了。
+
+### 71: [2022-08-23 09:27:41+08:00 推文](https://twitter.com/HeQinglian/status/1561887868590628864)
+
+Re @zhuxiuyuan 请你提供几张可信的照片。
+
+### 72: [2022-08-23 09:32:30+08:00 推文](https://twitter.com/HeQinglian/status/1561889083378606081)
+
+Re @Zegreatpatricks 半年后再来看，俄乌战争之后，是不是全球包容LGBTQ的城市更多，评级上升而非下降，如果是，这场文化战争，美国与大重置赢了；如果不是，那就是没赢。
+
+### 73: [2022-08-23 09:35:11+08:00 推文](https://twitter.com/HeQinglian/status/1561889757197701120)
+
+Re @GiselleonGnews 对，说错了，是范思哲。你看来对这很内行，我只是凭感觉。倒是见过大红嘴唇面料，不知是不是犬吻？纽约第五大道常见这种稀奇古怪的面料时装，我常在想，什么人会买它们？
+
+### 74: [2022-08-23 09:37:03+08:00 推文](https://twitter.com/HeQinglian/status/1561890229602209792)
+
+Re @zhuxiuyuan 算了，坦克基本都在公路上，有人后来论证，乌克兰这些年修了不少公路，不需要在泥地上走。这照片，连个时间、地点都没有。几辆而已，你就算了吧。
+
+### 75: [2022-08-23 09:46:56+08:00 推文](https://twitter.com/HeQinglian/status/1561892714697859074)
+
+Re @zhuxiuyuan 这次好象没有大规模会战啊，基本是巷战、游击战。
+
+### 76: [2022-08-23 09:51:48+08:00 推文](https://twitter.com/HeQinglian/status/1561893939031965696)
+
+Re @zhuxiuyuan 竺大律师，你还是关注一下实际战况吧，时间不久，都能查到。<br>这次完全不是沙漠风暴那种打法。美方评说，俄是二战时期的战法加上叙利亚战法；乌军则是美军训练的阿富汗战法。
+
+### 77: [2022-08-23 09:55:09+08:00 推文](https://twitter.com/HeQinglian/status/1561894782196121602)
+
+Re 补充一句：是2022年开始新立法推行，并非几年前推行并于2022年生效的国家。
+
+### 78: [2022-08-23 09:57:00+08:00 推文](https://twitter.com/HeQinglian/status/1561895249781342213)
+
+Re @zhuxiuyuan 你的意思难道是：冬天会战，俄罗斯有利，而这些是美国有意延至那时的？
+
+### 79: [2022-08-23 10:01:21+08:00 推文](https://twitter.com/HeQinglian/status/1561896342452162562)
+
+在这个案例中，LGBT赢了BLM。<br>亚特兰大警方确定嫌疑人（BLM）涉嫌在彩虹人行横道上喷涂万字符，在与警方对峙约 5 小时后，嫌疑人被捕。<br><br>Meadowshadow 🇺🇸: LGBT vs BLM<br> <a href="https://fxn.ws/3cftNE8" target="_blank" rel="noopener noreferrer">https://fxn.ws/3cftNE8</a>
+
+### 80: [2022-08-23 10:03:46+08:00 推文](https://twitter.com/HeQinglian/status/1561896949724450816)
+
+Re @busschool3 @mingshi_chen @zhixiangziyou @hx_maggie 第一代进步主义者威尔逊当了总统之后，开创了行政国家这个模式（DS的雏型），开国时的美国就不存在了，因此美国史称“第二次美国革命”。
+
+### 81: [2022-08-23 10:04:50+08:00 推文](https://twitter.com/HeQinglian/status/1561897221011931138)
+
+Re @Tepezano161 2019年台湾通过之时，我正好在那。
+

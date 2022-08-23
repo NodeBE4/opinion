@@ -283,3 +283,9 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 726: [[Hobby Scuffles] Week of August 22, 2022 (Rules update + poll)](https://old.reddit.com/r/HobbyDrama/comments/wu1n17/hobby_scuffles_week_of_august_22_2022_rules/), submitted on 2022-08-21 23:00:14+08:00.
+
+----- __726.1__ -----2022-08-23 09:40:20+08:00:
+
+I feel like this was inevitably going to happen. Vox has been the cause of *serious* issues enough times that a non-issue is now getting blown up into drama.
+
