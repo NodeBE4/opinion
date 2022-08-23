@@ -61,6 +61,14 @@ I feel we were spoiled by Myth getting theirs 9ish months in.
 
 To be fair, no, but I speak as someone who speaks a non-Mandarin Sinitic language. Plus, Spanish and Italian dialects are, on the whole, far more mutually intelligible than Sinitic languages are. It's less 'using "Spanish" as a catch-all for all Iberian languages' and more 'using "German" to also refer to Dutch and Swedish'.
 
+----- __729.7__ -----2022-08-23 13:09:45+08:00:
+
+I didn't say 'actually mutually intelligible', I said *more* mutually intelligible. At least with Italian dialects you might pick up a word or two.
+
+----- __729.8__ -----2022-08-23 13:10:04+08:00:
+
+Basque is a language isolate though, it isn't even Indo-European.
+
 ### 730: [[Formula 1] Off the Grid: F1's new owners shake things up by ditching Grid Girls, people are mad.](https://old.reddit.com/r/HobbyDrama/comments/wv5ra7/formula_1_off_the_grid_f1s_new_owners_shake/), submitted on 2022-08-23 05:28:40+08:00.
 
 ----- __730.1__ -----2022-08-23 10:32:54+08:00:
