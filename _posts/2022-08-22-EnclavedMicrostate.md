@@ -69,6 +69,10 @@ I didn't say 'actually mutually intelligible', I said *more* mutually intelligib
 
 Basque is a language isolate though, it isn't even Indo-European.
 
+----- __729.9__ -----2022-08-23 19:07:25+08:00:
+
+I'm glad you can universalise your experience based on a country where Mandarin is the dominant Sinitic language, but *I am part of the annoyed minority here* as someone whose language is frequently ignored and increasingly endangered, even if markedly less so than a number of other languages, Sinitic or otherwise.
+
 ### 730: [[Formula 1] Off the Grid: F1's new owners shake things up by ditching Grid Girls, people are mad.](https://old.reddit.com/r/HobbyDrama/comments/wv5ra7/formula_1_off_the_grid_f1s_new_owners_shake/), submitted on 2022-08-23 05:28:40+08:00.
 
 ----- __730.1__ -----2022-08-23 10:32:54+08:00:
