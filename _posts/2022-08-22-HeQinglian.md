@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-23
+date: 2022-08-24
 from: https://twitter.com/HeQinglian/status/1561395465966469122
 layout: post
 tags:
@@ -366,4 +366,84 @@ Re @Farmer9911 @YaxueCao “美国多次左右摇摆，但大方向没有问题�
 ### 88: [2022-08-23 22:20:15+08:00 推文](https://twitter.com/HeQinglian/status/1562082295535861761)
 
 今年4月28日，美国务卿布林肯宣布在全球进行彩虹革命：美国发布第一份公开的政府报告，展示在推进LGBTQI+方面的成就，并敦促所有政府一起采取行动。<br>以下报告显示👇，此后除乌克兰宣布实行同婚，彩虹革命效果甚微，不少城市的友好度下降。<br>疫苗证受抵制、绿能洗绿，大重置三大革命现在只剩彩虹革命。<br><br>He Qinglian: 大重置明面上的指挥中心世界经济论坛刚公布的进步价值观攻城战绩：<br>哪些城市在包容LGBTQ+方面表现良好？<br>2022年8月10日<br> <a href="https://cn.weforum.org/agenda/2022/08/nei-xie-cheng-shi-zai-bao-rong-lgbtq-fang-mian-biao-xian-liang-hao/" target="_blank" rel="noopener noreferrer">https://cn.weforum.org/agenda/2022/08/nei-xie-cheng-shi-zai-bao-rong-lgbtq-fang-mian-biao-xian-liang-hao/</a>
+
+### 89: [2022-08-23 22:39:00+08:00 推文](https://twitter.com/HeQinglian/status/1562087013876224000)
+
+Re 看了这条推上的几条留言，发现乌粉几乎全是垃圾，怪不得特别喜欢拜登与民主党的彩虹革命与彩虹痘。😂
+
+### 90: [2022-08-23 22:40:27+08:00 推文](https://twitter.com/HeQinglian/status/1562087376025014274)
+
+Re @Farmer9911 @YaxueCao 并非美国衰了，中国就光明。<br>世界同时堕入黑暗之时的历史，有过多次。
+
+### 91: [2022-08-23 22:41:20+08:00 推文](https://twitter.com/HeQinglian/status/1562087597584912384)
+
+Re @Vince6610 @Farmer9911 @YaxueCao 现在这词仍然在用，只是包装相同，内里变了。
+
+### 92: [2022-08-23 22:43:30+08:00 推文](https://twitter.com/HeQinglian/status/1562088144610140163)
+
+Re @helooloa @YaxueCao 美国衰了，无处可去。这是在2020年大选年，一位古巴难民来美后成企业家的人公开说的，当然，我在更早时也说过类似的话。<br>千万不要将美国的问题只当作美国的问题，中国可能主要影响自家，美国影响的是世界。
+
+### 93: [2022-08-23 22:45:20+08:00 推文](https://twitter.com/HeQinglian/status/1562088605857812482)
+
+Re @shenliangqing2 这是第四代人权，比前三代更新潮。<br>身份政治也借这代人权复归了。<br>没见昨天那推，彩虹革命在德国有新内容，人兽交应该成为合法权利。
+
+### 94: [2022-08-23 22:55:22+08:00 推文](https://twitter.com/HeQinglian/status/1562091128928739329)
+
+Re @FightForJiuCai 1，是为了实现“到了2030年，你将一无所有，但很快乐”——全依赖超级大政府了；<br>2、有待就业数据与人口增长数据；<br>3、绿能破产，被迫“洗绿”勉强维持；<br>4、改变的是美欧农业与左派的饮食习惯，对亚洲拉美影响甚小。非洲本来就吃虫子。<br>其余等我看完再谈感想。
+
+### 95: [2022-08-23 23:00:07+08:00 推文](https://twitter.com/HeQinglian/status/1562092326947807232)
+
+下列消息表明美中脱钩还是不脱钩，自行判断。<br>8月17日，《华尔街日报》发表Kate O'Keeffe署名报道称，美国商务部数据显示，在需要许可证的出口中，商务部批准了94%（2,652项）的对华技术出口申请。 <a href="https://www.wsj.com/articles/u-s-approves-nearly-all-tech-exports-to-china-data-shows-11660596886" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/u-s-approves-nearly-all-tech-exports-to-china-data-shows-11660596886</a>
+
+### 96: [2022-08-23 23:01:36+08:00 推文](https://twitter.com/HeQinglian/status/1562092701318774784)
+
+Re @shenliangqing2 世界经济论坛下一份“世界彩虹革命”报告，不知是否会将这内容列进去。
+
+### 97: [2022-08-23 23:06:00+08:00 推文](https://twitter.com/HeQinglian/status/1562093808849928196)
+
+Re @lsf3131 那天还有位乌粉说，俄国都亲自上场了，哪里是什么代理人战争？<br>相关文献太多，我介绍过不少，就事论事，也得先了解一下基本情况。
+
+### 98: [2022-08-23 23:12:16+08:00 推文](https://twitter.com/HeQinglian/status/1562095384725524481)
+
+最近台湾有个调查，相信美国会因保护台湾而出兵的比例竟然低于相信日本会出兵的比例。<br><br>DW 中文- 德国之声: 位于坎培拉的公共政策智库 “澳洲协会”（The Australia Institute）8月22日发布的研究指出，被问到是否準備好 #为了台湾独立而参战，有26%的澳洲人回答是、33%的澳洲人对此表示否。而台湾人只有17%表示準備好為台湾独立而战，回答否的台湾人占将近6成（59%）。<br><br><img style="" src="https://pbs.twimg.com/media/Fa1lRVIXoAE8QQJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 99: [2022-08-23 23:20:34+08:00 推文](https://twitter.com/HeQinglian/status/1562097471416827906)
+
+Re @david_david1968 这是什么节奏？5天之前，刚报道过希腊至保加利亚天然气管道已完成，可以供气了，好几国还找它想匀点。怎么又与俄罗斯谈判天然气了？
+
+### 100: [2022-08-23 23:22:04+08:00 推文](https://twitter.com/HeQinglian/status/1562097850728812546)
+
+Re @lsf3131 一个俄字都没提，你就开始得妄想症了？果然，乌粉大多是疯子。
+
+### 101: [2022-08-23 23:31:35+08:00 推文](https://twitter.com/HeQinglian/status/1562100245311414272)
+
+欧盟委员会前一向开会，号召大家节能并互相支持，尤其是支持缺少天然气的国家么？怎么不听命令呢？<br><br>华尔街日报中文网: 欧洲能源危机引发了一场全球范围的天然气油轮争夺战，导致运输船舶短缺，并进一步推高了创纪录的天然气价格。<br>船舶经纪公司主管表示，从现在起至少两个月内，只有一艘LNG货船可供在亚洲单航次租借。而在大西洋水域，没有LNG货船可供租用。<br> <a href="https://on.wsj.com/3wogWGl" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3wogWGl</a>
+
+### 102: [2022-08-23 23:35:20+08:00 推文](https://twitter.com/HeQinglian/status/1562101190833340416)
+
+Re @Ts15349772 我说的原话还在：“这种类比完全不了解历史”——如果你喜欢这样类比，那你就包括在里面。<br>我至少不会这样去误导别人。<br>对不起啊，让你受刺激了。
+
+### 103: [2022-08-23 23:42:26+08:00 推文](https://twitter.com/HeQinglian/status/1562102975119720450)
+
+Re @Wu_Zhi @fading_you1 @JianglinLi 以后不用建房子了，进步人士可以住大棚通铺，自由流动。饿了去食物站领个面包加瓶饮料，疲倦了找个地儿就睡，高兴了就表演。比西雅图的才子国还好。如果是旧金山，还可以去政府提供的吸毒屋里过把瘾。<br>才子国还有人从商店里顺来Compose想种点蔬菜，那多累人。
+
+### 104: [2022-08-23 23:50:48+08:00 推文](https://twitter.com/HeQinglian/status/1562105080333176835)
+
+Re @Wu_Zhi @fading_you1 @JianglinLi 最理想的是波士顿（世界经济论坛关于彩虹革命效果的报道里说的）。<br>那里有两县实行了群婚制，一个家庭可以多配偶，一个人可以同时在多个家庭里担任丈夫或妻子，不受性别限制。<br>——那是哈佛精英集中居住之地。
+
+### 105: [2022-08-23 23:57:14+08:00 推文](https://twitter.com/HeQinglian/status/1562106698617290752)
+
+Re @Lucs24659702 除了销毁文件，否则下台也会被追查。
+
+### 106: [2022-08-24 00:09:23+08:00 推文](https://twitter.com/HeQinglian/status/1562109759716720642)
+
+Re @Ts15349772 这话留给你自己挺好。
+
+### 107: [2022-08-24 00:13:30+08:00 推文](https://twitter.com/HeQinglian/status/1562110795034595328)
+
+Re @banoncn @Tracy60414679 @peterconet5 @GBCtoront 习近平不太听话，至少不肯参与碳排放权交易。所以索罗斯去年连批他三次。<br>再则大政府、政治垄断经济、控制言论（取消文化），都是中共玩剩下的。还有个世界政府的领导权问题——后一点是有网友说的。
+
+### 108: [2022-08-24 00:25:49+08:00 推文](https://twitter.com/HeQinglian/status/1562113891290710016)
+
+Re @shenliangqing2 @Wu_Zhi @fading_you1 @JianglinLi 我如果在他们这群中能够看到AOC、布林肯、拜登夫人、南希·波洛西的身影，那我就相信这真是“进步”了。<br>同理，他们家的晚餐以后变成虫子为主，我也相信那是“进步”了。<br>这种“进步标配”必须身体力行。
 
