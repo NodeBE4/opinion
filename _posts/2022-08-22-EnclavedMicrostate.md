@@ -177,9 +177,15 @@ We don't, actually. [Three of the five surviving narrative histories of Alexande
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
-### 737: [I can't seem to find the military ranks of the Swedish army during the Napoleonic wars. Feel free to comment if you know what they are. Thanks! (Due to the auto-moderation, I am obligated to put a question mark)?](https://old.reddit.com/r/AskHistorians/comments/wwhfxl/i_cant_seem_to_find_the_military_ranks_of_the/), submitted on 2022-08-24 19:48:46+08:00.
+### 737: [TIL the great and almighty Laplus is a brocon](https://old.reddit.com/r/Hololive/comments/wwh97a/til_the_great_and_almighty_laplus_is_a_brocon/), submitted on 2022-08-24 19:39:30+08:00.
 
------ __737.1__ -----2022-08-24 19:57:56+08:00:
+----- __737.1__ -----2022-08-24 22:26:39+08:00:
+
+Too bad, she's already taken.
+
+### 738: [I can't seem to find the military ranks of the Swedish army during the Napoleonic wars. Feel free to comment if you know what they are. Thanks! (Due to the auto-moderation, I am obligated to put a question mark)?](https://old.reddit.com/r/AskHistorians/comments/wwhfxl/i_cant_seem_to_find_the_military_ranks_of_the/), submitted on 2022-08-24 19:48:46+08:00.
+
+----- __738.1__ -----2022-08-24 19:57:56+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
