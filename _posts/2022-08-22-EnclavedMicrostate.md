@@ -171,3 +171,9 @@ I'd also note that this is [not consistent across all five sources](https://www.
 
 We don't, actually. [Three of the five surviving narrative histories of Alexander are based on sources hostile to him.](https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/)
 
+### 736: [Richard Wolff: What did Karl Marx think about worker cooperatives?](https://old.reddit.com/r/AskHistorians/comments/wwbeuh/richard_wolff_what_did_karl_marx_think_about/), submitted on 2022-08-24 13:55:28+08:00.
+
+----- __736.1__ -----2022-08-24 15:09:25+08:00:
+
+This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
+
