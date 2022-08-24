@@ -55,3 +55,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 
 迷恋权位是所有专制独裁者的共同心理。但是，民众对此极为反感。议报发布了一位网友的评论，相信网友们会有很多共鸣。<br>特别推荐#议报首发范稳先生的评论文章。<br><br>《议报》: 范稳 | “鞠躬尽瘁”足矣，何必“死而后已”？<br> <a href="https://yibaochina.com/?p=247557" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247557</a>
 
+### 11: [2022-08-24 20:08:37+08:00 推文](https://twitter.com/realcaixia/status/1562411553441271809)
+
+8月24日是乌克兰独立日。英勇不屈的乌克兰民众在基辅的大街上展出俄军的战车、坦克“尸体”来庆祝他们自己的节日！乌克兰人民赢得全世界的高度尊敬！俄国普金挑起的侵乌战争必将以乌克兰的胜利而结束，战争罪人普金必然倒台。<br><video src="https://video.twimg.com/ext_tw_video/1562411456661970945/pu/vid/720x1280/AiAnjFW67SHKsuTH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1562411456661970945/pu/img/dzPWxG2Duf1NSkkH.jpg"></video>
+

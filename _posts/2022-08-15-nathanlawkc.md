@@ -3,7 +3,7 @@ author: nathanlawkc
 categories:
 - Twitter
 date: 2022-08-16
-from: https://twitter.com/nathanlawkc/status/1559157335339290624
+from: https://twitter.com/nathanlawkc/status/1559157338744971266
 layout: post
 tags:
 - Twitter
@@ -17,9 +17,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 1: [2022-08-15 20:37:31+08:00 推文](https://twitter.com/nathanlawkc/status/1559157335339290624)
+### 1: [2022-08-15 20:37:31+08:00 推文](https://twitter.com/nathanlawkc/status/1559157338744971266)
 
-1. It's been a few months since I published "Freedom." There's been positive news for the book, including getting 2021 Foreword INDIES Gold Winner. I want to talk about why I wanted to write this introductory book for the HK protest movement and the moving reviews.<br><img style="" src="https://pbs.twimg.com/media/FaM9GXeX0AA-KHR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 2. It starts with the story of my father. In his late twenties, there was no food in his peasant village and going to HK was the only hope for survival. He smuggled to HK through a dangerous raft ride for three days, and gained citizenship in HK through govt policy.
 
 ### 2: [2022-08-15 20:37:32+08:00 推文](https://twitter.com/nathanlawkc/status/1559157342087905280)
 
