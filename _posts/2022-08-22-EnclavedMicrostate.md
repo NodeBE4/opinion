@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-23
+date: 2022-08-24
 from: https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/
 layout: post
 tags:
@@ -106,4 +106,22 @@ I ended up doing three (including a drama society which meant a lot of extra tim
 ----- __732.1__ -----2022-08-24 02:54:59+08:00:
 
 Tanks are armoured vehicles that are expected to be fired on by a lot of stuff and hopefully survive. Self-propelled howitzers are artillery pieces, some of which are armoured to give some measure of protection against enemy artillery fire, but rarely if ever protected enough to survive sustained attack because if it gets to that point, you are having a really bad day.
+
+### 733: [Newest consensus on whether the Ming/Qing China was predominantly an atheist/agnostic civilization?](https://old.reddit.com/r/AskHistorians/comments/wvq701/newest_consensus_on_whether_the_mingqing_china/), submitted on 2022-08-23 22:24:49+08:00.
+
+----- __733.1__ -----2022-08-24 11:54:51+08:00:
+
+Not meaningfully, I wouldn't say. The Qing balanced a number of religious worldviews in the construction of their empire, precisely because each of their constituent populations' elites had a particular cosmological outlook. I discuss it in some detail in [this answer](https://www.reddit.com/r/AskHistorians/comments/e1q2ft/did_any_of_the_qing_emperors_and_court_advisors/) but feel free to ask any follow-ups.
+
+### 734: [How is it that Indians have such a starkly different account of the Battle of the Hydaspes? Is there any evidence at all to back up that Alexander was defeated there?](https://old.reddit.com/r/AskHistorians/comments/wvw6rf/how_is_it_that_indians_have_such_a_starkly/), submitted on 2022-08-24 02:28:10+08:00.
+
+----- __734.1__ -----2022-08-24 11:29:18+08:00:
+
+> During the mutiny Alexander's troops expressed concerns over the difficulty of facing the great empires in the Ganges and their armies of elephants, having struggled against Porus. 
+
+I'd also note that this is [not consistent across all five sources](https://www.reddit.com/r/AskHistorians/comments/qzlynj/what_scared_alexanders_soldiers_when_they_reached/hlr177l/), and that the earliest (Diodoros) does not even mention the existence of a mutiny at all.
+
+----- __734.2__ -----2022-08-24 11:30:45+08:00:
+
+We don't, actually. [Three of the five surviving narrative histories of Alexander are based on sources hostile to him.](https://www.reddit.com/r/AskHistorians/comments/l06m2l/concerning_alexander_the_great_how_much_of_the/gjwy3ha/)
 
