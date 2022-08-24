@@ -65,7 +65,7 @@ RT Bill Bishop<br>What is the logic of suspending climate talks? To remind the
 
 ### 13: [2022-08-05 23:52:08+08:00 推文](https://twitter.com/williamnee/status/1555582432996274176)
 
-RT William Nee<br>RTHK was once one of the world's best &amp; most highly respected public broadcasters, akin to PBS or the BBC.<br><br>Now, under CCP rule, its independence has ended. <br><br>Context via @cnmediaproject: <br><br>Politicians running the newspapers 政治家办报 <a href="https://chinamediaproject.org/2008/06/06/politicians-running-the-newspapers-" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2008/06/06/politicians-running-the-newspapers-</a> <a href="https://twitter.com/CHRDnet/status/1555580582368645121" target="_blank" rel="noopener noreferrer">https://twitter.com/CHRDnet/status/1555580582368645121</a>
+RT William Nee<br>RTHK was once one of the world's best &amp; most highly respected public broadcasters, akin to PBS or the BBC.<br><br>Now, under CCP rule, its independence has ended. <br><br>Context via @cnmediaproject: <br><br>Politicians running the newspapers 政治家办报<br><br>CHRD人权捍卫者: Hong Kong appoints new head of public broadcaster #RTHK<br><br>Eddie Cheung, who has no experience in the media &amp; is currently based in Brussels as the Special Representative for HK Economic and Trade Affairs to the EU, will take up the position in October<br> <a href="https://hongkongfp.com/2022/08/05/hong-kong-appoints-new-head-of-public-broadcaster-rthk/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/08/05/hong-kong-appoints-new-head-of-public-broadcaster-rthk/</a>
 
 ### 14: [2022-08-06 03:15:18+08:00 推文](https://twitter.com/chenchenzh/status/1555633561767710724)
 
