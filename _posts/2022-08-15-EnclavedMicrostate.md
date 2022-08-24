@@ -257,6 +257,12 @@ Again, the above is only one example of Taiping syncretism in practice, and ther
 
 * Carl Kilcourse, 'Instructing the Heavenly King: Joseph Edkins’s Mission to Correct the Theology of Hong Xiuquan' (2019)
 
+----- __722.2__ -----2022-08-24 10:14:35+08:00:
+
+Ultimately he arrived at these judgements arbitrarily by condemning what he considered the violent nature of the Taiping movement.
+
+That said, this is a fun segue into noting that the Taiping relationship with the classical canon was a nuanced one. Fundamentally, while the Taiping accepted the Zhou-era canon (the Five Classics), they considered the Confucian *interpretation* of this canon (the Four Books) to be corrupt. This nuance was something not quite appreciated by Vincent Shih when he wrote *The Taiping Ideology*, which a close reading of basically affirms – the Taiping drew *heavily* on the *Classic of History* and the *Classic of Rites*, but very little on the Confucian commentaries.
+
 ### 723: [There's a rational reason for the difference between TNG and DS9 Ferengi.](https://old.reddit.com/r/DaystromInstitute/comments/wtg5b7/theres_a_rational_reason_for_the_difference/), submitted on 2022-08-21 04:04:53+08:00.
 
 ----- __723.1__ -----2022-08-21 10:57:47+08:00:

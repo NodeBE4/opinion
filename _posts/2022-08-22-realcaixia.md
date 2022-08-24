@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-23
+date: 2022-08-24
 from: https://twitter.com/realcaixia/status/1561391545961615361
 layout: post
 tags:
@@ -46,4 +46,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 ### 8: [2022-08-23 21:48:01+08:00 推文](https://twitter.com/realcaixia/status/1562074179654062081)
 
 特别推荐议报转发的这篇文章。这篇文章很值得有一定理论基础、愿意思考问题的人好好读读。作者回顾分析法国思想界雷蒙.阿隆与萨特的“30年”之争这件事本身，就从某个角度折射出中国1978年后，中国学术界思想界走过的思考路。<br><br>《议报》: 鲁越 | 雷蒙·阿隆与萨特的世纪之争<br> <a href="https://yibaochina.com/?p=247524" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247524</a>
+
+### 9: [2022-08-24 07:48:17+08:00 推文](https://twitter.com/realcaixia/status/1562225242650644480)
+
+中共在上世纪末时国企改革中提出，军工企业应是生产军品的同时，拓展民品市场，比如平时生产拖拉机战时生产坦克，提高军工企业在市场竞争中的生存发展能力。21世纪后提出军工企业产品应军民融合。<br>下l文章提到的情况又进一步，要求民企转向生产军用品，这揭示了一点，中共走向战争的准备正在加快。<br><br>《议报》: 章家敦 | 中国正在为战争做准备<br> <a href="https://yibaochina.com/?p=247551" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247551</a>
+
+### 10: [2022-08-24 09:33:43+08:00 推文](https://twitter.com/realcaixia/status/1562251775041851392)
+
+迷恋权位是所有专制独裁者的共同心理。但是，民众对此极为反感。议报发布了一位网友的评论，相信网友们会有很多共鸣。<br>特别推荐#议报首发范稳先生的评论文章。<br><br>《议报》: 范稳 | “鞠躬尽瘁”足矣，何必“死而后已”？<br> <a href="https://yibaochina.com/?p=247557" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247557</a>
 
