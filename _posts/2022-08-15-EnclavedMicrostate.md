@@ -299,3 +299,7 @@ I feel like this was inevitably going to happen. Vox has been the cause of *seri
 
 To tack on the other comment a bit, a lot of Nijisanji EN's early audience migrated over from Hololive and especially Hololive Myth, which NijiEN seemed to specifically be emulating during the second half of 2021 by virtue of its first three waves also being all-female. The audience for Luxiem and to a lesser extent Noctyx – the all-male waves – was dominated by new fans of a different demographic, which has meant there's pretty substantial resentment and friction coming from the fanbase of the three – less popular – girls' waves. Not all of it is, I think, unwarranted, given Nijisanji's obvious Luxiem favouritism when it comes to merch and other promotions, but it's also wrapped up in a lot of entitlement and I'd argue implicit sexism as well.
 
+----- __726.3__ -----2022-08-25 04:00:33+08:00:
+
+The daughter was less prominent, but still a pretty public figure.
+
