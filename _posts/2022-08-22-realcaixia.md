@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-24
+date: 2022-08-25
 from: https://twitter.com/realcaixia/status/1561391545961615361
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 ### 13: [2022-08-24 22:13:14+08:00 推文](https://twitter.com/realcaixia/status/1562442916173615106)
 
 特别推荐议报转发大陆著名党史研究学者杨奎松 文章：世上有两种“历史” 。 <a href="https://yibaochina.com/?p=247536" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247536</a>
+
+### 14: [2022-08-25 01:58:29+08:00 推文](https://twitter.com/realcaixia/status/1562499600736342017)
+
+强烈推荐【译丛】一名俄罗斯士兵的日记：“我不会参与这种疯狂的行为” 。看看俄军士兵的悲惨处境，他们是被普大帝扩张野心送到侵乌战场的无辜炮灰。<br>如果习发动武统台湾的战争，那么未来中共军队的官兵同样难以逃脱悲惨命运。 <a href="https://yibaochina.com/?p=247561" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247561</a>
 
