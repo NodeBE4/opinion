@@ -483,3 +483,31 @@ Re @Wen2033 @xinlijian110 👍
 
 Re @JianglinLi @HongfuDing @lindahuiyun @RealBeiMing @ngexp 果真如此，这30万学生大概不会被阉割，也不会被引导至LGBTQI+的彩虹之路上去了。<br>想起来很悲哀，如今美国人争的竟然是这个权利。
 
+### 118: [2022-08-24 22:44:25+08:00 推文](https://twitter.com/HeQinglian/status/1562450763452157952)
+
+Re @FranzMendelsso1 @FightForJiuCai 与黄埔军校的校友类似。
+
+### 119: [2022-08-24 22:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1562452223950729217)
+
+Re @evaqiao2017 @JianglinLi @HongfuDing @lindahuiyun @RealBeiMing @ngexp 好久没见你了。希望一切好。<br>LGBTQI与吸麻，还真不是移民带来的。拉美、亚洲、中东穆斯林都不好这口，这还真是美国本土的白左们兴起的。1968的的反越战运动，参与者黑人也很少。<br>《美国牧歌》那位放炸弹的女主，祖父是瑞典移民。
+
+### 120: [2022-08-24 23:02:31+08:00 推文](https://twitter.com/HeQinglian/status/1562455318831177733)
+
+Re @shenliangqing2 一国的政府领导人，其首要责任是给本国人民营造一个安居乐业的环境，提升生活质量，而不是世界秀存在感优先。<br>从这方面来说，李氏父子确实是富有现实感的领导者。<br>另外还有个小国尼泊尔，在中印之间也算两边都不得罪，让本国有安定的生存空间。
+
+### 121: [2022-08-24 23:14:01+08:00 推文](https://twitter.com/HeQinglian/status/1562458212137259009)
+
+Re @david_david1968 2004年，我刚去过欧洲，参观过几个艺术品展馆；回来后到华府，去看了两个展馆，其中一个是现代艺术。传统的那个，从美国有画作开始到现代，与欧洲不能比。<br>至于沙俄时代的画家，就连风景画家希什金，也比欧洲法国风景画内涵深多了。
+
+### 122: [2022-08-24 23:18:22+08:00 推文](https://twitter.com/HeQinglian/status/1562459308301828097)
+
+Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 收藏了。<br>《西方文明的自杀》有个说法，美国第一代进步主义受德国文化影响甚深，当时的美国大学教授，不是留学德国，就是师从德国留学的教授。<br>德国是共产主义的发源地，当然也是伯恩施坦“修正主义”的发源地。
+
+### 123: [2022-08-24 23:19:52+08:00 推文](https://twitter.com/HeQinglian/status/1562459684250218496)
+
+Re @seadognw 当年德国纳粹时期有过类似研究。
+
+### 124: [2022-08-24 23:33:53+08:00 推文](https://twitter.com/HeQinglian/status/1562463211185934336)
+
+Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 这就是所谓“体制内新长征”（The long march through the institutions”，这是了解美国教育左化的起点。有人甚至将1940年代后期也算进去——那也太长了点，容易混淆。
+

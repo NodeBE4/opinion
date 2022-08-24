@@ -59,3 +59,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 
 8月24日是乌克兰独立日。英勇不屈的乌克兰民众在基辅的大街上展出俄军的战车、坦克“尸体”来庆祝他们自己的节日！乌克兰人民赢得全世界的高度尊敬！俄国普金挑起的侵乌战争必将以乌克兰的胜利而结束，战争罪人普金必然倒台。<br><video src="https://video.twimg.com/ext_tw_video/1562411456661970945/pu/vid/720x1280/AiAnjFW67SHKsuTH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1562411456661970945/pu/img/dzPWxG2Duf1NSkkH.jpg"></video>
 
+### 12: [2022-08-24 21:56:07+08:00 推文](https://twitter.com/realcaixia/status/1562438609352896512)
+
+乌克兰人民必胜！<br><video src="https://video.twimg.com/ext_tw_video/1562438325713006593/pu/vid/720x1280/g_HpY8ms7IRgRWZ2.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1562438325713006593/pu/img/FRCqusep5JkHcEpU.jpg"></video>
+
+### 13: [2022-08-24 22:13:14+08:00 推文](https://twitter.com/realcaixia/status/1562442916173615106)
+
+特别推荐议报转发大陆著名党史研究学者杨奎松 文章：世上有两种“历史” 。 <a href="https://yibaochina.com/?p=247536" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247536</a>
+
