@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-24
+date: 2022-08-25
 from: https://twitter.com/HeQinglian/status/1561395465966469122
 layout: post
 tags:
@@ -510,4 +510,52 @@ Re @seadognw 当年德国纳粹时期有过类似研究。
 ### 124: [2022-08-24 23:33:53+08:00 推文](https://twitter.com/HeQinglian/status/1562463211185934336)
 
 Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 这就是所谓“体制内新长征”（The long march through the institutions”，这是了解美国教育左化的起点。有人甚至将1940年代后期也算进去——那也太长了点，容易混淆。
+
+### 125: [2022-08-25 01:19:49+08:00 推文](https://twitter.com/SSK2024/status/1562489869288771585)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>联邦政府抄家成瘾了，最近抄家了阿米什有机农场, 仅仅因为他生产肉类，还是要杀鸡儆猴，要打击独立的农夫！<br><br>通过剔除中间商，剔除政府，你就把权力和杠杆从政府手中夺走，把权力和杠杆放在社区、农民和人民手中，这是拜登政府不允许的！<br>阿莫斯农场不使用任何汽油或肥料⋯ <a href="https://mp.weixin.qq.com/s/2K631OxQ6XhEvWhY-5KSjQ" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/2K631OxQ6XhEvWhY-5KSjQ</a><br><video src="https://video.twimg.com/ext_tw_video/1562489835214061568/pu/vid/1280x720/eUOIRaVYApRwSICY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1562489835214061568/pu/img/Rsv8sTkUqV15lBCZ.jpg"></video>
+
+### 126: [2022-08-25 04:36:16+08:00 推文](https://twitter.com/HeQinglian/status/1562539309495832578)
+
+Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 反美是乔姆斯基的最大标牌。<br>有人问他为何不迁居他喜欢的古巴，他回答说，美国有言论自由，这是他很看重的。
+
+### 127: [2022-08-25 04:39:43+08:00 推文](https://twitter.com/HeQinglian/status/1562540176165175299)
+
+Re @lzhn96836555 @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 美国变成如今这样，除了那些边缘群体及利益集团的食物链上人物，应该没有什么人受益吧？<br>司马南得到的应该是心理满足。<br>世界没有以前的美国成为国际秩序的压舱石，要重新洗牌，重新定出新的权力格局，只要发生战争，这个过程会有很多人失去生命与安定的生活。
+
+### 128: [2022-08-25 04:42:47+08:00 推文](https://twitter.com/HeQinglian/status/1562540950844350465)
+
+Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 这点，德国左派早就说过：头脑要向左思维，生活上要向布尔乔亚看齐。因此，政府提供的福利要足够过体面生活——车尔尼雪夫斯基《怎么办》里面那种生活清苦、清教徒的左翼民粹主义者早就没有了。
+
+### 129: [2022-08-25 04:47:16+08:00 推文](https://twitter.com/HeQinglian/status/1562542077703233537)
+
+Re @JianglinLi @lzhn96836555 @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 能够想抢就抢而不受惩，这简直就是最大的福利——试问哪国有这福利？一抢就不是那点可怜的福利金了。
+
+### 130: [2022-08-25 04:51:22+08:00 推文](https://twitter.com/HeQinglian/status/1562543108771876865)
+
+Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 有件事情特别有意思：<br>里德带回那《震撼世界的十天》，美左（美共）简直崇拜得发疯；经斯大林大清洗之后，西方左派开始仇苏，慢慢经法兰克福学派发展出一套新左理论来，与苏再也没和解过。尽管根子上是同宗。
+
+### 131: [2022-08-25 04:53:33+08:00 推文](https://twitter.com/HeQinglian/status/1562543660017025024)
+
+Re @shenliangqing2 舞弊的战场州，最好每州找出两三个重判，否则今年还会有骡子出现。<br>不过，必须抓捕策划者。
+
+### 132: [2022-08-25 04:55:00+08:00 推文](https://twitter.com/HeQinglian/status/1562544023440850950)
+
+Re @liyuvv 这也是信息战的一个门类，离间。
+
+### 133: [2022-08-25 04:56:42+08:00 推文](https://twitter.com/HeQinglian/status/1562544451431833601)
+
+Re @JianglinLi @evaqiao2017 @HongfuDing @lindahuiyun @RealBeiMing @ngexp 最高权力最多就是寡头集团，比如咱们这现在这样上百号人及依附者群体，总有人，比如库莫就被抛弃了。
+
+### 134: [2022-08-25 05:01:11+08:00 推文](https://twitter.com/HeQinglian/status/1562545581460901888)
+
+Re @FightForJiuCai 这是纽约时报写的“阿富汗帐本”。恋童之事，美左媒没报导。这些男孩很可怜，因为伊斯兰教不容这种行为，他们活不成，除了隐瞒这段受害经历。 <a href="https://cn.nytimes.com/opinion/20210915/afghanistan-war-economy/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20210915/afghanistan-war-economy/</a>
+
+### 135: [2022-08-25 05:14:10+08:00 推文](https://twitter.com/HeQinglian/status/1562548846105792512)
+
+Re @david_david1968 懒得看了，等最后结果吧。过了今年中选截止期，看美国还支不支持。只有美国不断资助，这战才能打下去。<br>美国现在成立税警，对付中小商业企业，也许又能多收个十亿二十亿，再多印点钞票，资助总是有的。<br>欧盟就不一定了，除了德法，其余的真的拿不出太多了，主要是道义支持。
+
+### 136: [2022-08-25 05:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1562550546342760453)
+
+Re @FightForJiuCai 你转的那条讲到塔利班政权禁毒有效——如今真稀奇，文明政府全放开吸毒贩毒，专制政权禁毒。<br>等以后历史学家分析这段历史，得对这种弱民政治建立一个新评判坐标。
 
