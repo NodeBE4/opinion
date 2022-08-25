@@ -71,3 +71,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 
 强烈推荐【译丛】一名俄罗斯士兵的日记：“我不会参与这种疯狂的行为” 。看看俄军士兵的悲惨处境，他们是被普大帝扩张野心送到侵乌战场的无辜炮灰。<br>如果习发动武统台湾的战争，那么未来中共军队的官兵同样难以逃脱悲惨命运。 <a href="https://yibaochina.com/?p=247561" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247561</a>
 
+### 15: [2022-08-25 21:06:19+08:00 推文](https://twitter.com/realcaixia/status/1562788462729646080)
+
+中共党内对习倒行逆施早就普遍不满，但很少人敢公开表达，这三位的公开信犹如地火爆出……。<br>中共党内早已党心涣散。1990年代后，很多党员一旦迁移到外地外省，就藏匿党员组织关系介绍信而不交给新到地的党组织。对此现象当时就有个说法叫“口袋党员”。中共党阻止党员公开退党，怕群起效仿。<br><br>Gancheng Wang: 敬请关注：三个中共党员发公开信反对“党领导一切”，呼吁坚决抵制“个人崇拜”<br>董洪义、马贵会、田奇庄三个老共产党员不满习近平十年祸国倒行逆施，发公开信呼吁中共修改党章，要求去除“党领导一切”，抵制领导干部的个人崇拜。现在三人均处于中共严密监控之中，随时有人身危险。不过他们已经准备好了一切<br><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUgXoAAByXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUjWYAAs23h?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUmXwAArAtu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUvWIAEFpN5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
