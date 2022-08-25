@@ -227,3 +227,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 741: [Was the Silk Road Easily Navigable?](https://old.reddit.com/r/AskHistorians/comments/wx4a31/was_the_silk_road_easily_navigable/), submitted on 2022-08-25 12:14:40+08:00.
+
+----- __741.1__ -----2022-08-25 16:23:17+08:00:
+
+This is not an answerable question because [the Silk Road never existed](https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/). There never was a singular, marked route called the 'Silk Road' at any point in history.
+
