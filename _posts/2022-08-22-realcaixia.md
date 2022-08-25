@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-25
+date: 2022-08-26
 from: https://twitter.com/realcaixia/status/1561391545961615361
 layout: post
 tags:
@@ -74,4 +74,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 ### 15: [2022-08-25 21:06:19+08:00 推文](https://twitter.com/realcaixia/status/1562788462729646080)
 
 中共党内对习倒行逆施早就普遍不满，但很少人敢公开表达，这三位的公开信犹如地火爆出……。<br>中共党内早已党心涣散。1990年代后，很多党员一旦迁移到外地外省，就藏匿党员组织关系介绍信而不交给新到地的党组织。对此现象当时就有个说法叫“口袋党员”。中共党阻止党员公开退党，怕群起效仿。<br><br>Gancheng Wang: 敬请关注：三个中共党员发公开信反对“党领导一切”，呼吁坚决抵制“个人崇拜”<br>董洪义、马贵会、田奇庄三个老共产党员不满习近平十年祸国倒行逆施，发公开信呼吁中共修改党章，要求去除“党领导一切”，抵制领导干部的个人崇拜。现在三人均处于中共严密监控之中，随时有人身危险。不过他们已经准备好了一切<br><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUgXoAAByXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUjWYAAs23h?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUmXwAArAtu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fa_SVUvWIAEFpN5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-08-26 00:31:45+08:00 推文](https://twitter.com/realcaixia/status/1562840161553043456)
+
+这两国与现代文明不是一个世界。<br><br>Michael Anti: 太后现代了，女排亚洲杯排小组赛，中国对伊朗，一边全口罩，一边全黑袍头罩，都在不顾一切地预防想象中的伤害。<br><br><img style="" src="https://pbs.twimg.com/media/Fa_9Sl4UcAQrxSu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

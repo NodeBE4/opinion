@@ -591,3 +591,15 @@ Re @FranzMendelsso1 @FightForJiuCai 就看谁来写这段历史了。<br>有的�
 
 Re @shenliangqing2 《六幕危机》一定要看，这是左派好莱坞第一次拿1968年人开涮，算捅了马蜂窝。从这以后，好莱坞对他不客气，尤其是女性拿几十年前的事情MeToo。他招架不住，最后只好说，很多事情当初对方愿意，也许记忆不同，就算他的错吧（大意）。但宣布不再续拍了。
 
+### 145: [2022-08-25 21:06:47+08:00 推文](https://twitter.com/HeQinglian/status/1562788579319103488)
+
+Re @shenliangqing2 <br>还有一部《美国牧歌》，这是关于1968年人的唯二的两部制作。其实还是美化了这群人。 <a href="https://xiaoheimi.net/index.php/vod/detail/id/4459.html" target="_blank" rel="noopener noreferrer">https://xiaoheimi.net/index.php/vod/detail/id/4459.html</a>
+
+### 146: [2022-08-25 23:28:10+08:00 推文](https://twitter.com/HeQinglian/status/1562824162028032000)
+
+Re @Bowen900493541 @RFI_Cn 从政治角度看，美国的俄罗斯（包括前苏联）专家基本是将其放在“地缘政治”这个框架里看——现代地缘政治学说本就是美国最先完善并使用。<br>从文化角度看，是俄罗斯近年兴起的欧亚主义VS大重置。<br>战争结束之后，世界重新洗牌完毕，这种角度在专业分析上会被广泛接受。
+
+### 147: [2022-08-25 23:45:29+08:00 推文](https://twitter.com/HeQinglian/status/1562828520874979333)
+
+New World Order.<br><br>Jon: 猴痘全球现在已经超过四万五确诊，根据新英格兰医学期刊的分析，其中通过男男捅屁眼+男性双性恋感染的超过90%，然后柳叶刀又有个新研究，说狗也被传染了，这狗的主人是一对男同性恋……<br><br><img style="" src="https://pbs.twimg.com/media/FbATbhiaQAEevYu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
