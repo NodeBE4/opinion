@@ -41,6 +41,14 @@ I tend to use Pamela Crossley's terminology of 'Taiping War', if for no other re
 
 In broader terms, I feel like 'Qing Civil War' is a valid descriptor for the broad period of conflict within the Qing Empire from 1850 through 1878, of which the Taiping War was the materially largest part. There just isn't really enough consideration of these as interconnected conflicts, and I suspect that relates to the continuing lack of a good framing narrative of *Qing* history in this period. There's a lot of individual, focussed studies, but nothing as yet that tries to really analyse the empire as a singular system.
 
+----- __729.2__ -----2022-08-25 11:20:39+08:00:
+
+Who was it again who said letting Taiwan remain independent was like letting the CSA continue to exist on Puerto Rico? Turns out they were making the case *for* Taiwan!
+
+----- __729.3__ -----2022-08-25 11:25:47+08:00:
+
+Thereby affirming that diplomatic dick-waving is a gender-neutral activity.
+
 ### 730: [Magical Michelada Mondays - Weekly Discussion Thread, August 22nd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/wuw70t/magical_michelada_mondays_weekly_discussion/), submitted on 2022-08-22 23:10:16+08:00.
 
 ----- __730.1__ -----2022-08-23 10:39:39+08:00:
