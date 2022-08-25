@@ -121,7 +121,7 @@ Re @farmdirect8 很好理解。<br>左派自己喜好大麻与其他毒品，这
 
 ### 27: [2022-06-28 03:24:49+08:00 推文](https://twitter.com/JianglinLi/status/1541502832704196614)
 
-RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣<br><br>Newsmax: BREAKING: The U.S. Supreme Court on Monday backed a Christian public high school football coach who was disciplined for leading prayers on the field after games.<br><br><img style="" src="https://pbs.twimg.com/media/FWQ9yshUcAAoBn3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3xTWbCB" target="_blank" rel="noopener noreferrer">https://bit.ly/3xTWbCB</a>
+RT 李江琳<br>Re @HeQinglian @RealBeiMing @ngexp @Wu_Zhi @david_david1968 最高法院又作出一個令某些人跳脚的裁決。👇🤣
 
 ### 28: [2022-06-28 04:49:17+08:00 推文](https://twitter.com/HeQinglian/status/1541524088094605312)
 
@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -521,7 +521,7 @@ Re @shenliangqing2 你这样考虑，听后不那么担心了。弦拉断后，�
 
 ### 127: [2022-07-01 22:26:46+08:00 推文](https://twitter.com/HeQinglian/status/1542877374798336001)
 
-全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。
+全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。<br><br>DW 中文- 德国之声: #大众汽车 总裁迪斯表示，在德国，人们严重低估了 “中国给德国繁荣带来的贡献”。<br><br>“如果没有与中国的业务往来，通货膨胀将进一步加剧。因此我们需要更多的对话。”<br> <a href="https://p.dw.com/p/4DWDh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DWDh</a>
 
 ### 128: [2022-07-02 01:24:35+08:00 推文](https://twitter.com/HeQinglian/status/1542922124880494592)
 
@@ -585,7 +585,7 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 
 ### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
 
 ### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
@@ -693,7 +693,7 @@ BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结�
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
-如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。<br><br>绫波: 乌克兰总统泽连斯基：待与俄罗斯的冲突结束后，乌克兰必须在西方安全架构中有一个“体面的位置”，而不是充当北约和俄罗斯之间的“灰色地带”。<br><br><img style="" src="https://pbs.twimg.com/media/FWpVYJnWIAEsu70?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如果泽连斯基真说了这话，说明他知道乌克兰现在、过去在西方的安全架构中的位置“不体面”。从这点来说，他有自知之明，比如3月28日接受《经济学人》采访时很明确地挑明自己在打代理人战争。
 
 ### 171: [2022-07-03 04:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1543332051557941249)
 
@@ -725,7 +725,7 @@ Re @RealBeiMing 好莱坞有一类鬼怪片，里面的鬼怪就是这样打扮�
 
 ### 178: [2022-07-03 19:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1543559502095683587)
 
-拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。 <a href="https://twitter.com/zt33268778/status/1543262704902848513" target="_blank" rel="noopener noreferrer">https://twitter.com/zt33268778/status/1543262704902848513</a>
+拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
 
 ### 179: [2022-07-03 19:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1543561198909759488)
 
