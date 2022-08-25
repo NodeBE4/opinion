@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-25
+date: 2022-08-26
 from: https://twitter.com/HeQinglian/status/1561395465966469122
 layout: post
 tags:
@@ -602,4 +602,24 @@ Re @Bowen900493541 @RFI_Cn 从政治角度看，美国的俄罗斯（包括前�
 ### 147: [2022-08-25 23:45:29+08:00 推文](https://twitter.com/HeQinglian/status/1562828520874979333)
 
 New World Order.<br><br>Jon: 猴痘全球现在已经超过四万五确诊，根据新英格兰医学期刊的分析，其中通过男男捅屁眼+男性双性恋感染的超过90%，然后柳叶刀又有个新研究，说狗也被传染了，这狗的主人是一对男同性恋……<br><br><img style="" src="https://pbs.twimg.com/media/FbATbhiaQAEevYu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 148: [2022-08-26 00:37:34+08:00 推文](https://twitter.com/HeQinglian/status/1562841625054756864)
+
+俄罗斯制裁扰乱欧洲市场和能源安全<br>文内说，德国正从南非及世界上第四大产煤大国美国购买煤炭。根据一家公司的私人评估，到2022年，大部分欧洲国家将支付相当于GDP 13%的能源费用。<br>文章引述多位专家的话：欧洲正变成西方国家中的第三世界。 <a href="https://www.forbes.com/sites/kenrapoza/2022/08/23/europes-markets-and-energy-security-disrupted-by-russia-sanctions/?sh=3716eb45097f" target="_blank" rel="noopener noreferrer">https://www.forbes.com/sites/kenrapoza/2022/08/23/europes-markets-and-energy-security-disrupted-by-russia-sanctions/?sh=3716eb45097f</a>
+
+### 149: [2022-08-26 01:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1562855155137073154)
+
+Re @Xianggang191 继续提，只是将原来的非绿能源陆续纳入绿色能源，谓之“洗绿”（Green Washing)。<br>文章讽刺德国绿党：我们拒用俄煤，是为了给本国压力，尽早实现能源转型。<br>这文章报道的现象挺奇幻，应该看全文。
+
+### 150: [2022-08-26 01:32:08+08:00 推文](https://twitter.com/HeQinglian/status/1562855359366443008)
+
+Re @cloudy886 好象加拿大说其实不现实（运输成本）。
+
+### 151: [2022-08-26 01:42:38+08:00 推文](https://twitter.com/HeQinglian/status/1562858000284495874)
+
+Re @YaxueCao 香港二次回归，美国已经取消香港特别关税优惠。以前有事放在香港做，可以说是与香港交易、合作，如今是与中国的省政府做交易、合作。
+
+### 152: [2022-08-26 01:48:09+08:00 推文](https://twitter.com/HeQinglian/status/1562859389471453184)
+
+Re @FightForJiuCai 德国现在正四处找气，包括到遥远的加拿大。成本自然会上升。<br>欧洲人的愤怒似乎比美国人还淡点。美国人说别的可能意见不一，但说到通胀，就只有18-20%的人认为拜登的政策是正确的（据民调）。<br>我周围的人没有对通胀表示满意的。
 
