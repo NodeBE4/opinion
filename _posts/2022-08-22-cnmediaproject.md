@@ -35,3 +35,11 @@ Pleased to have worked with Quartz on this interesting article about Chinese buz
 
 Two articles mentioning "Two Establishes" today in the People's Daily. This key term for signaling Xi's power and position has been weak over the past 8 days. More in our latest CMP Newspeak article. <a href="https://chinamediaproject.org/2022/08/24/tracing-the-two-establishes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/24/tracing-the-two-establishes/</a>
 
+### 6: [2022-08-25 11:25:41+08:00 推文](https://twitter.com/cnmediaproject/status/1562642341198200833)
+
+US House Speaker Pelosi has appeared in more than 70 articles in the CCP's flagship newspaper so far in August — stratospheric by historical standards. The latest outpouring of rage from China appears across two pages today. <a href="https://chinamediaproject.org/2022/08/25/pelosi-in-the-peoples-daily/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/25/pelosi-in-the-peoples-daily/</a><br><img style="" src="https://pbs.twimg.com/media/Fa-e6lYaQAA7Hly?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-08-25 11:27:21+08:00 推文](https://twitter.com/cnmediaproject/status/1562642760515358720)
+
+Re To put the number in context, the top foreign leader in the People’s Daily in July was Joe Biden, who appeared in just 9 articles. Pelosi is sure to far outpace all other foreign political figures in August, a reflection of just how much her visit infuriated and concerned China.<br><img style="" src="https://pbs.twimg.com/media/Fa-fTFfaUAM2es8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
