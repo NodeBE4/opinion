@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-24
+date: 2022-08-25
 from: https://twitter.com/alexludoboyd/status/1562149242327781376
 layout: post
 tags:
@@ -30,4 +30,8 @@ RT Mary Hui<br>Re w/ thanks to @cnmediaproject for the data on the frequency o
 ### 4: [2022-08-24 20:56:25+08:00 推文](https://twitter.com/cnmediaproject/status/1562423584743919616)
 
 Pleased to have worked with Quartz on this interesting article about Chinese buzzwords like "new normal." <a href="https://qz.com/new-china-dictionary-entries-economic-goals-1849449903" target="_blank" rel="noopener noreferrer">https://qz.com/new-china-dictionary-entries-economic-goals-1849449903</a>
+
+### 5: [2022-08-25 09:32:44+08:00 推文](https://twitter.com/cnmediaproject/status/1562613917935083520)
+
+Two articles mentioning "Two Establishes" today in the People's Daily. This key term for signaling Xi's power and position has been weak over the past 8 days. More in our latest CMP Newspeak article. <a href="https://chinamediaproject.org/2022/08/24/tracing-the-two-establishes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/24/tracing-the-two-establishes/</a>
 
