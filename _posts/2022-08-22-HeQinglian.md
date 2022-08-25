@@ -595,31 +595,43 @@ Re @shenliangqing2 《六幕危机》一定要看，这是左派好莱坞第一�
 
 Re @shenliangqing2 <br>还有一部《美国牧歌》，这是关于1968年人的唯二的两部制作。其实还是美化了这群人。 <a href="https://xiaoheimi.net/index.php/vod/detail/id/4459.html" target="_blank" rel="noopener noreferrer">https://xiaoheimi.net/index.php/vod/detail/id/4459.html</a>
 
-### 146: [2022-08-25 23:28:10+08:00 推文](https://twitter.com/HeQinglian/status/1562824162028032000)
+### 146: [2022-08-25 22:30:00+08:00 推文](https://twitter.com/dw_chinese/status/1562809522355331072)
+
+RT DW 中文- 德国之声<br>过去数十年的商业模式可简述如下：使用来自俄罗斯的大量廉价能源，将中国的初级产品变成高质产品--并主要出口到中国；中国是最重要贸易伙伴；整个经济部门都依赖中国市场；其它领域的供应链也依赖中国供应商。 这样的模式如今开始动摇。 <a href="https://p.dw.com/p/4G1fo" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4G1fo</a>
+
+### 147: [2022-08-25 23:28:10+08:00 推文](https://twitter.com/HeQinglian/status/1562824162028032000)
 
 Re @Bowen900493541 @RFI_Cn 从政治角度看，美国的俄罗斯（包括前苏联）专家基本是将其放在“地缘政治”这个框架里看——现代地缘政治学说本就是美国最先完善并使用。<br>从文化角度看，是俄罗斯近年兴起的欧亚主义VS大重置。<br>战争结束之后，世界重新洗牌完毕，这种角度在专业分析上会被广泛接受。
 
-### 147: [2022-08-25 23:45:29+08:00 推文](https://twitter.com/HeQinglian/status/1562828520874979333)
+### 148: [2022-08-25 23:45:29+08:00 推文](https://twitter.com/HeQinglian/status/1562828520874979333)
 
 New World Order.<br><br>Jon: 猴痘全球现在已经超过四万五确诊，根据新英格兰医学期刊的分析，其中通过男男捅屁眼+男性双性恋感染的超过90%，然后柳叶刀又有个新研究，说狗也被传染了，这狗的主人是一对男同性恋……<br><br><img style="" src="https://pbs.twimg.com/media/FbATbhiaQAEevYu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 148: [2022-08-26 00:37:34+08:00 推文](https://twitter.com/HeQinglian/status/1562841625054756864)
+### 149: [2022-08-26 00:37:34+08:00 推文](https://twitter.com/HeQinglian/status/1562841625054756864)
 
 俄罗斯制裁扰乱欧洲市场和能源安全<br>文内说，德国正从南非及世界上第四大产煤大国美国购买煤炭。根据一家公司的私人评估，到2022年，大部分欧洲国家将支付相当于GDP 13%的能源费用。<br>文章引述多位专家的话：欧洲正变成西方国家中的第三世界。 <a href="https://www.forbes.com/sites/kenrapoza/2022/08/23/europes-markets-and-energy-security-disrupted-by-russia-sanctions/?sh=3716eb45097f" target="_blank" rel="noopener noreferrer">https://www.forbes.com/sites/kenrapoza/2022/08/23/europes-markets-and-energy-security-disrupted-by-russia-sanctions/?sh=3716eb45097f</a>
 
-### 149: [2022-08-26 01:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1562855155137073154)
+### 150: [2022-08-26 01:31:20+08:00 推文](https://twitter.com/HeQinglian/status/1562855155137073154)
 
 Re @Xianggang191 继续提，只是将原来的非绿能源陆续纳入绿色能源，谓之“洗绿”（Green Washing)。<br>文章讽刺德国绿党：我们拒用俄煤，是为了给本国压力，尽早实现能源转型。<br>这文章报道的现象挺奇幻，应该看全文。
 
-### 150: [2022-08-26 01:32:08+08:00 推文](https://twitter.com/HeQinglian/status/1562855359366443008)
+### 151: [2022-08-26 01:32:08+08:00 推文](https://twitter.com/HeQinglian/status/1562855359366443008)
 
 Re @cloudy886 好象加拿大说其实不现实（运输成本）。
 
-### 151: [2022-08-26 01:42:38+08:00 推文](https://twitter.com/HeQinglian/status/1562858000284495874)
+### 152: [2022-08-26 01:42:38+08:00 推文](https://twitter.com/HeQinglian/status/1562858000284495874)
 
 Re @YaxueCao 香港二次回归，美国已经取消香港特别关税优惠。以前有事放在香港做，可以说是与香港交易、合作，如今是与中国的省政府做交易、合作。
 
-### 152: [2022-08-26 01:48:09+08:00 推文](https://twitter.com/HeQinglian/status/1562859389471453184)
+### 153: [2022-08-26 01:48:09+08:00 推文](https://twitter.com/HeQinglian/status/1562859389471453184)
 
 Re @FightForJiuCai 德国现在正四处找气，包括到遥远的加拿大。成本自然会上升。<br>欧洲人的愤怒似乎比美国人还淡点。美国人说别的可能意见不一，但说到通胀，就只有18-20%的人认为拜登的政策是正确的（据民调）。<br>我周围的人没有对通胀表示满意的。
+
+### 154: [2022-08-26 04:15:05+08:00 推文](https://twitter.com/HeQinglian/status/1562896367898722304)
+
+Re @alexqu32910738 作者善于调侃：“气候变化：一些煤炭比其他煤炭更适合地球（Climate Change: Some Coal Better for the Planet Than Others）。<br>“欧盟现在正在从南非购买煤炭。与去年同期相比，美国对欧洲的煤炭出口在 5 月份增长了 140% 以上……美国煤炭出口联盟表示，到 10 月，美煤运输量将需要比现在高得多”…
+
+### 155: [2022-08-26 04:18:12+08:00 推文](https://twitter.com/HeQinglian/status/1562897151042002950)
+
+Re @xchen62 @YaxueCao 要审查，就真审查。正因为是你说的这种情况，以前说与香港合作、交易是与自由世界做生意，有块遮羞布；现在没了，也就哄自个罢了。
 
