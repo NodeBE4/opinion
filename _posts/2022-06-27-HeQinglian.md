@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -521,7 +521,7 @@ Re @shenliangqing2 你这样考虑，听后不那么担心了。弦拉断后，�
 
 ### 127: [2022-07-01 22:26:46+08:00 推文](https://twitter.com/HeQinglian/status/1542877374798336001)
 
-全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。
+全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。<br><br>DW 中文- 德国之声: #大众汽车 总裁迪斯表示，在德国，人们严重低估了 “中国给德国繁荣带来的贡献”。<br><br>“如果没有与中国的业务往来，通货膨胀将进一步加剧。因此我们需要更多的对话。”<br> <a href="https://p.dw.com/p/4DWDh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DWDh</a>
 
 ### 128: [2022-07-02 01:24:35+08:00 推文](https://twitter.com/HeQinglian/status/1542922124880494592)
 

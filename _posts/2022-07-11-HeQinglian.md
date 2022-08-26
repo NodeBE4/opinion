@@ -25,7 +25,7 @@ Re @bcyixiu 这我还真不能写，主要原因是：我并不比你们了解�
 
 ### 3: [2022-07-11 02:05:45+08:00 推文](https://twitter.com/HeQinglian/status/1546193978126733313)
 
-将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。
+将熊熊一窝。不是美国能力不行，是领导人不行。<br>我要是布林肯，拒绝接受那四份要求美国纠正错误言论与政策的清单，让王毅带回北京去。<br><br>华尔街日报中文网: #本周热读 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 4: [2022-07-11 04:16:48+08:00 推文](https://twitter.com/HeQinglian/status/1546226957813256192)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -537,7 +537,7 @@ Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰�
 
 ### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
 
-彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。<br><br>Bloomberg: Is the US in a recession? Here's what you need to know and how to prepare<br> <a href="https://trib.al/L6SduXt" target="_blank" rel="noopener noreferrer">https://trib.al/L6SduXt</a>
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
 
 ### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 
