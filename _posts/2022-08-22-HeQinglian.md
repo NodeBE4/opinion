@@ -667,3 +667,23 @@ Re @NAConservative9 自从2020年5月，BLM在全美零元购并美其名曰“�
 
 Re @worldpeople2019 @fading_you1 抵制过了，大学停教，图书馆下架普希金、果戈里（忘记他其实是乌克兰人），包括柴可夫斯基的音乐。<br>有些病，是有传染力的。
 
+### 164: [2022-08-27 03:47:33+08:00 推文](https://twitter.com/HeQinglian/status/1563251824056213505)
+
+Re @shenliangqing2 今年有关中国的“分析”（其实是愿望）大致如下：<br>国内政治：习下李上，政变在悄悄发生——如今是习上李不下，李做全国人大委员长；<br>国际政治：美国将狠狠打击中共，迫使中概股退市，严重打击中国经济，订单消失——事实是欧美两地为中国提供巨额顺差，中国在美上市公司审查成形式。<br>大家开心就好。
+
+### 165: [2022-08-27 03:53:51+08:00 推文](https://twitter.com/HeQinglian/status/1563253411721621504)
+
+Re @NAConservative9 搬去德州逃避左祸，当真是白费劲。
+
+### 166: [2022-08-27 04:04:26+08:00 推文](https://twitter.com/HeQinglian/status/1563256074849124352)
+
+德国对华外交困境：脱钩声中依赖更强<br><br>俄乌战争开始后，德国将对华经济依赖当作政治问题提出并试图解决。IW的研究报告指出，德国经济在2022年上半年变得更加依赖中国，直接投资和贸易逆差均达到新的高度。<br>西方对华外交历来是政经分开考量，一旦有事，常因政治正确而精神撕裂。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-08262022143046.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-08262022143046.html</a>
+
+### 167: [2022-08-27 04:23:52+08:00 推文](https://twitter.com/HeQinglian/status/1563260965155934208)
+
+Re @zhixiangziyou @NAConservative9 @mingshi_chen<br>@zhixiangziyou<br>你们可能没看到这条消息，民主党通过引进非移之外，还通过帮助就业等方式，让大学生去一些只需要几十个人就能改变选情的选区定居。这是几年前就开始的计划。
+
+### 168: [2022-08-27 04:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1563263494543519746)
+
+Re @franktianxie 批判社会主义制度时，资本主义世界异口同声地说“这是奖懒罚勤的制度，因此必会垮台”。<br>言犹在耳，资本主义的堡垒美国已经将奖懒罚勤当作进步 主义国策了。
+
