@@ -319,3 +319,7 @@ This deserves to be a full-on post at this stage...
 
 Welcome down the rabbit hole, no you don't need that ladder...
 
+----- __726.7__ -----2022-08-27 02:08:34+08:00:
+
+I feel like I vaguely know what you're talking about but I'm going to ask for a reminder anyway.
+
