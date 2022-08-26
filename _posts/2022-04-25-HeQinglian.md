@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。<br><br>kingbull199: @HeQinglian @KELMAND1 其实只要议会通过，还可以再次派生其他工具，理论上他的货币发行量可以是无限的！隔夜逆回购其实去年就调整过额度，从每个counterpart的80亿上调到160亿，现在平均日逆回购量就有1.5万亿左右，未来还可以继续上调单个机构的额度！<br>
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
@@ -469,7 +469,7 @@ Re @Wu_Zhi @JianglinLi @HongfuDing 我觉得没认错，只是在说：我努力
 
 ### 114: [2022-04-30 20:20:50+08:00 推文](https://twitter.com/HeQinglian/status/1520377636400529409)
 
-以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？
+以前美国政府报告谈对外使命是推广民主，拜登政府第一份公开的政府报告，谈的是美国极左偏爱的性别多元化，与民主普世人权没半点关系。<br>该政府一年多负债10万亿（共30万亿），经济增速-1.4%，通货膨胀8.9%；想带盟国战俄罗斯，又提供不了盟国需要的能源；盗选以来软实力降为负值。<br>世界需要你领导吗？<br><br>美国驻华使领馆 US MissionCN: 我们发布了有史以来的第一份公开的美国政府报告，展示我们为在全球推动男女同性恋、双性恋、跨性别者、酷儿及间性人等人士（LGBTQI+）的人权所作的工作。我们敦促所有政府与我们一起采取行动，支持LGBTQI+人权捍卫者不懈和崇高的工作。<br> <a href="https://twitter.com/SecBlinken/status/1519651037988233216" target="_blank" rel="noopener noreferrer">https://twitter.com/SecBlinken/status/1519651037988233216</a>
 
 ### 115: [2022-04-30 21:16:58+08:00 推文](https://twitter.com/HeQinglian/status/1520391763294306304)
 
@@ -517,7 +517,7 @@ Re @Lucs24659702 拜登美国价值观的体现，正准备推向全世界。
 
 ### 126: [2022-05-01 20:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1520747918399094784)
 
-Re 拜登美国价值观的体现，正准备推向全世界。<br><br>Lucs: 宾州一所学校的老师为学生举办了一个变装秀，作为LGBT俱乐部的活动一部分。据报告他们没有通知学生父母，Hempfield学区今早确认老师在休假中。<br>该视频是变装活动的一部分。<br><br><video src="https://video.twimg.com/ext_tw_video/1520615927766667265/pu/vid/720x1264/s5cbGltHLiEDHIfy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520615927766667265/pu/img/TdCjSRU-zJNzFP8q.jpg"></video>
+Re 拜登美国价值观的体现，正准备推向全世界。 <a href="https://twitter.com/Lucs24659702/status/1520615972125560832" target="_blank" rel="noopener noreferrer">https://twitter.com/Lucs24659702/status/1520615972125560832</a>
 
 ### 127: [2022-05-01 20:54:52+08:00 推文](https://twitter.com/HeQinglian/status/1520748589139517440)
 
