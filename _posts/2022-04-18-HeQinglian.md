@@ -845,7 +845,7 @@ Re @JianglinLi @Wu_Zhi @JiangShangrong 连自己都没照亮。<br>记得有位U
 
 ### 208: [2022-04-23 00:53:01+08:00 推文](https://twitter.com/HeQinglian/status/1517547030146600965)
 
-[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。
+[欧盟委员会周五表示，如果欧盟公司以欧元或美元支付，然后将其兑换成俄罗斯货币，那么它们可能能够解决俄罗斯要求以卢布支付天然气的要求，而不会违反制裁。]<br>路透还有一条，英国允许本国公司购买俄能源到5月31日。<br>自己撒落的一地鸡毛，一片一片捡吧。<br><br>Reuters: EU says gas payments may be possible under Russian roubles proposal without breaching sanctions<br><br><img style="" src="https://pbs.twimg.com/media/FQ9PUVfXwAAdBc4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://reut.rs/3KadHGC" target="_blank" rel="noopener noreferrer">http://reut.rs/3KadHGC</a>
 
 ### 209: [2022-04-23 00:55:41+08:00 推文](https://twitter.com/HeQinglian/status/1517547703382724609)
 
@@ -857,7 +857,7 @@ Re @Wu_Zhi 还有一大帮生活在不用为乌克兰支付代理人费用的国
 
 ### 211: [2022-04-23 01:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1517550065660878851)
 
-拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升
+拜登也没达到目的：<br>The Hill报导，昆尼皮亚克大学（Quinnipiac University）日前公布的一项民调发现，拜登当前的支持率只有33%，标志着他在昆尼皮亚克大学民调记录中的最低点。他在拉美裔选民中的支持率更低，仅26%。<br>乌克兰人的血、美国纳税人与通胀掠夺来的钱、盟友的经济，未换来拜登支持率的上升<br><br>He Qinglian: 2月14日，冷战大师马特洛克（美驻苏前大使，1987-1991）指出：我们正目睹一场精心策划、被严重放大的闹剧，以服务于国内政治目的。面对不断上升的通胀、covid-19的蹂躏、对阿富汗撤军的指责，以及未能获得本党对重建更好法案的全力支持。拜登政府得为今年的国会选举做准备……<br> <a href="https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us" target="_blank" rel="noopener noreferrer">https://www.democracynow.org/2022/2/17/jack_matlock_ukraine_russia_nato_us</a> <a href="https://twitter.com/HeQinglian/status/1516780090457301008" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1516780090457301008</a>
 
 ### 212: [2022-04-23 02:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1517577686033518594)
 
@@ -973,7 +973,7 @@ Re @JianglinLi @Wu_Zhi 好象正主儿们都没欢庆吧？<br>对双方而言�
 
 ### 240: [2022-04-24 21:37:06+08:00 推文](https://twitter.com/HeQinglian/status/1518222501918224385)
 
-感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。<br><br>Junson Chan 🇺🇸: The guardian is now saying Putin may win in the Ukraine. <br><br>People are stupid though, they'll always believe the media, never questioning ever "hey, these idiots have always lied and been wrong, what does that make me?"<br> <a href="https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe</a>
+感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。
 
 ### 241: [2022-04-24 21:45:34+08:00 推文](https://twitter.com/HeQinglian/status/1518224635225161730)
 
