@@ -67,6 +67,18 @@ You'd be surprised. Xiaowei Zheng has an excellent article, 'Loyalty, Anxiety, a
 
 I realise at this juncture I ought never to have responded the moment I realised you were coming at this from a perspective of pseudo-ironic chauvinism.
 
+----- __729.5__ -----2022-08-26 16:03:28+08:00:
+
+Please explain, then, the following selections from the same article, discussing Shaoxing, where gentry opposition in the county is clearly highlighted:
+
+> Shaoxing prefecture went into a panic at the approach of the “long hairs” (the Taipings). Despite Shaoxing’s strategic position at the entrance to eastern Zhejiang, Qing officials there were ill prepared. In particular, the relationship between the provincial government and the elites at Shaoxing City (the county and prefectual capital) worsened, in spite of the Taipings’ approach. In the spring of 1861, gentryman Wang Lüqian impeached several provincial officials. To fight back, Zhejiang Governor Wang Youling accused four powerful members of the gentry from Shaoxing of fraudulence and disobedience.
+
+> The Shaoxing gentry’s hatred toward the government was violently unleashed—a group of bodyguards of one Shaoxing local elite member murdered Liao before the ingress of the Taipings.
+
+No, these were not explicitly supporting the Taiping, but they were very clearly considering them a lesser concern than the Qing government.
+
+Should I be shocked that you've chosen to read this article entirely tendentiously? Probably not.
+
 ### 730: [Magical Michelada Mondays - Weekly Discussion Thread, August 22nd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/wuw70t/magical_michelada_mondays_weekly_discussion/), submitted on 2022-08-22 23:10:16+08:00.
 
 ----- __730.1__ -----2022-08-23 10:39:39+08:00:
