@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-25
+date: 2022-08-26
 from: https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/
 layout: post
 tags:
@@ -284,4 +284,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 ----- __744.1__ -----2022-08-26 11:02:40+08:00:
 
 I can't see it through the tears
+
+### 745: [I don’t even know anymore….](https://old.reddit.com/r/engrish/comments/wxqqxr/i_dont_even_know_anymore/), submitted on 2022-08-26 05:56:03+08:00.
+
+----- __745.1__ -----2022-08-26 19:55:48+08:00:
+
+Accurate in sentiment if not in semantics.
 

@@ -307,3 +307,15 @@ To tack on the other comment a bit, a lot of Nijisanji EN's early audience migra
 
 The daughter was less prominent, but still a pretty public figure.
 
+----- __726.4__ -----2022-08-26 20:00:23+08:00:
+
+Given the data isn't actually hosted in the app itself, would the data team be able to block the app from using their data somehow?
+
+----- __726.5__ -----2022-08-26 20:03:21+08:00:
+
+This deserves to be a full-on post at this stage...
+
+----- __726.6__ -----2022-08-26 20:10:23+08:00:
+
+Welcome down the rabbit hole, no you don't need that ladder...
+

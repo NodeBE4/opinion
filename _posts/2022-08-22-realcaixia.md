@@ -79,3 +79,27 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fax6GT7WIAAJkQ5?format=jpg
 
 这两国与现代文明不是一个世界。<br><br>Michael Anti: 太后现代了，女排亚洲杯排小组赛，中国对伊朗，一边全口罩，一边全黑袍头罩，都在不顾一切地预防想象中的伤害。<br><br><img style="" src="https://pbs.twimg.com/media/Fa_9Sl4UcAQrxSu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 17: [2022-08-26 20:10:54+08:00 推文](https://twitter.com/realcaixia/status/1563136904349900801)
+
+鲍彤老先生所言极是！<br><br>鲍彤 Bao Tong: 索尔孟十年前的洞见。<br>先富起来的，会是韭菜吗！<br>手持镰刀的“先富者”，肯改掉“领导一切”的制度吗？<br>老虎和蠅蛆，会成为铲除粪堆的动力吗？ <br>残酷的事实是：<br>全世界仍在倾听着先富者对“邓公”的赞美，<br>期盼着先富者成为“南巡改革”的动力！<br>——鲍彤。<br><br><img style="" src="https://pbs.twimg.com/media/FbFHU3NUcAAZdbc?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-08-26 20:28:15+08:00 推文](https://twitter.com/realcaixia/status/1563141270247157763)
+
+推荐这期，主持人直接连线了写公开信的老党员，请听老党员的电话声音。我只推荐推友听主持人与写公开信老党员的对话，至于明镜本身如何，相信众人自有评判。<br>习近平遭遇公开信：河北老党员联署反个人崇拜，中共党校教授点赞；当事人连线：高层似有牵制力量…… <a href="https://youtu.be/Ynm3SMq4z-0" target="_blank" rel="noopener noreferrer">https://youtu.be/Ynm3SMq4z-0</a>
+
+### 19: [2022-08-26 20:34:34+08:00 推文](https://twitter.com/realcaixia/status/1563142858906800129)
+
+习近平手下人抄金家三代作业，这是“西朝鲜化”的小规模预演……。<br><br>糊涂（复活号）: 万民敬仰新时代……<br><br><video src="https://video.twimg.com/ext_tw_video/1562968985393664000/pu/vid/1280x720/JQsLyK8MyoQGgkaT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1562968985393664000/pu/img/PPi6PIcMDHBwT6I1.jpg"></video>
+
+### 20: [2022-08-26 20:44:02+08:00 推文](https://twitter.com/realcaixia/status/1563145244753141763)
+
+领导官员显示“政治正确”和绝对忠诚，置中国女排运动员的身体健康生命安全于不顾。全世界亲眼目睹中国习时代的荒唐、残忍……<br><br>高伐林: 在菲律宾参加2022年女排亚洲杯的中国女排，在与伊朗女排的比赛中竟戴着口罩，令人震惊。评论员和网友纷纷留言：“简直是体育史上从未见过的荒唐”“剧烈运动戴口罩对身体的伤害不可逆”“戴口罩比赛，运动量大，容易猝死”“哪个混账领导下的混账命令？！”<br>第一局中国队失利，摘下口罩后以3比1获胜。<br><br><img style="" src="https://pbs.twimg.com/media/FbAw12tWAAAJLVT?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-08-26 21:01:53+08:00 推文](https://twitter.com/realcaixia/status/1563149736341049344)
+
+Re 三位老党员在连线电话里坦陈了他们的看法，这不只是他们三人，而是中共党内大部分人的共同看法。中共残酷打压党内不同意见是长期一贯的，到习时期尤甚。这三位老人的处境将会如何，令人担忧。<br><img style="" src="https://pbs.twimg.com/media/FbFsZi3XkAAPBuu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-08-26 21:04:51+08:00 推文](https://twitter.com/realcaixia/status/1563150481811468289)
+
+任志强就是因直言批评揭露习而遭受的残酷迫害。<br><br>韩连潮: 【13年和18年的差别】我昨天听一位熟悉中共高层内幕的朋友说，按中共法律，金融大鳄肖建华应判死罪，结果只判了13年徒刑，而清白无辜的任志强却以莫须有的罪名判刑18年，两者的差别是：肖为众多中共高层家族当白手套，包括习近平家族，任批评习独裁、抗疫失误。足见习利用反腐清洗异见独裁专权。<br><br><img style="" src="https://pbs.twimg.com/media/FbFaOrwVEAEpGIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbFarnnX0AAeK8V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
