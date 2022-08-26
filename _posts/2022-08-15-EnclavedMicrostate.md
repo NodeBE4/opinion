@@ -225,6 +225,10 @@ And so begins the harem arc...
 
 I meant Noel's harem.
 
+----- __721.3__ -----2022-08-26 11:21:54+08:00:
+
+Yes. To paraphrase, ['Subaru is my oshi, Flare is *kiss noises*.'](https://youtu.be/4TaTV1EQ2Zs?t=482)
+
 ### 722: [The blending of the Greek and Roman pantheons is a famous example of religious syncretism, but I realized I haven't learned about many other instances of this (presumably!) common occurrence. Historians, what are some of the most impactful examples of religious syncretism in your area of expertise?](https://old.reddit.com/r/AskHistorians/comments/wt8z0a/the_blending_of_the_greek_and_roman_pantheons_is/), submitted on 2022-08-20 22:52:16+08:00.
 
 ----- __722.1__ -----2022-08-21 15:03:58+08:00:

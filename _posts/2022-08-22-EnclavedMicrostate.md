@@ -251,9 +251,15 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 This is not an answerable question because [the Silk Road never existed](https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/gbyl2uc/). There never was a singular, marked route called the 'Silk Road' at any point in history.
 
-### 742: [Can I ask a few things about Mongol history ?](https://old.reddit.com/r/AskHistorians/comments/wxg43f/can_i_ask_a_few_things_about_mongol_history/), submitted on 2022-08-25 22:44:44+08:00.
+### 742: [I want to study at Oxford, but I'm not sure whether my grades are good enough](https://old.reddit.com/r/oxforduni/comments/wxewft/i_want_to_study_at_oxford_but_im_not_sure_whether/), submitted on 2022-08-25 21:54:44+08:00.
 
------ __742.1__ -----2022-08-26 01:30:39+08:00:
+----- __742.1__ -----2022-08-26 11:35:55+08:00:
+
+I read History at Oxford and I got a B in GCSE History back when grades were lettered. Don't worry too much about the grades, especially as Oxford's typical requirements are AAA. What gets you in is the interview process.
+
+### 743: [Can I ask a few things about Mongol history ?](https://old.reddit.com/r/AskHistorians/comments/wxg43f/can_i_ask_a_few_things_about_mongol_history/), submitted on 2022-08-25 22:44:44+08:00.
+
+----- __743.1__ -----2022-08-26 01:30:39+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -261,9 +267,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 743: [Gave Sana a haircut, how does it look?](https://old.reddit.com/r/Hololive/comments/wxhusk/gave_sana_a_haircut_how_does_it_look/), submitted on 2022-08-25 23:55:18+08:00.
+### 744: [Gave Sana a haircut, how does it look?](https://old.reddit.com/r/Hololive/comments/wxhusk/gave_sana_a_haircut_how_does_it_look/), submitted on 2022-08-25 23:55:18+08:00.
 
------ __743.1__ -----2022-08-26 11:02:40+08:00:
+----- __744.1__ -----2022-08-26 11:02:40+08:00:
 
 I can't see it through the tears
 
