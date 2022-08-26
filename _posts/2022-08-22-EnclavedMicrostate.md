@@ -49,6 +49,24 @@ Who was it again who said letting Taiwan remain independent was like letting the
 
 Thereby affirming that diplomatic dick-waving is a gender-neutral activity.
 
+----- __729.4__ -----2022-08-26 10:44:57+08:00:
+
+> A failed revolution is a rebellion.
+
+No? Typically, we consider a revolution (figurative examples aside like the Industrial Revolution for instance) to be where a successful uprising takes place that attempts to radically change the social and/or political structure of the entire political unit in which it takes place, be that a nation-state or an empire. An independence movement can be a rebellion without being a revolution. Moreover, there are successful rebellions that we don't call revolutions despite succeeding on a national/imperial scale: the Red Turban Rebellion for instance.
+
+Yes, the Taiping are a rebellion by definition, but not by yours.
+
+> and got 0 sympathies from the gentries
+
+You'd be surprised. Xiaowei Zheng has an excellent article, 'Loyalty, Anxiety, and Opportunism', discussing gentry responses to the Taiping War in Zhejiang, and many gentry did actually support the Taiping rather than the Qing.
+
+> But in reality, the Taipings are pseudo-Christian scums who defile their ancestors and deserved to be purged.
+
+> half /s
+
+I realise at this juncture I ought never to have responded the moment I realised you were coming at this from a perspective of pseudo-ironic chauvinism.
+
 ### 730: [Magical Michelada Mondays - Weekly Discussion Thread, August 22nd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/wuw70t/magical_michelada_mondays_weekly_discussion/), submitted on 2022-08-22 23:10:16+08:00.
 
 ----- __730.1__ -----2022-08-23 10:39:39+08:00:
@@ -242,4 +260,10 @@ This is not an answerable question because [the Silk Road never existed](https:/
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 743: [Gave Sana a haircut, how does it look?](https://old.reddit.com/r/Hololive/comments/wxhusk/gave_sana_a_haircut_how_does_it_look/), submitted on 2022-08-25 23:55:18+08:00.
+
+----- __743.1__ -----2022-08-26 11:02:40+08:00:
+
+I can't see it through the tears
 

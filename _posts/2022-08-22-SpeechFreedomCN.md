@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-08-22
+date: 2022-08-26
 from: https://twitter.com/SpeechFreedomCN/status/1561491093665075200
 layout: post
 tags:
@@ -30,4 +30,12 @@ China cyberspace authority recently announced that it has dealt with 1.34 billio
 ### 4: [2022-08-22 12:23:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1561569601623924737)
 
 Henan man Xiao, who retweeted "false info on Twitter that attacked the constitution, judicial system and leaders of China", arrested in Dec 2018 and prosecuted in Apr 2019. Police ordered Xiao to delete his tweets via phone call at first, which Xiao agreed to but did not do.<br><img style="" src="https://pbs.twimg.com/media/FauMg5VXkAEdlYD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-08-26 10:01:35+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1562983563662086146)
+
+Re 甘肃异议人士龙克海再被拘留：5月26日，甘肃徽县国保以“虚构事实扰乱公共秩序为由”传唤异议人士龙克海，6月12日，龙克海被国保以“非法持有恐怖主义物品”和“虚构事实扰乱公共秩序”为由分别处拘留10日，共拘留20日。龙克海实际观看的视频为谴责战争的视频，其发表的言论是涉及社会时政的言论。<br><img style="" src="https://pbs.twimg.com/media/FbDT847WQAAokm0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbDT-7MXgAARLep?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbDUAz_XoAAky5u?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-08-26 10:04:57+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1562984410697199617)
+
+Re Gansu dissident Long Kehai detained again in June. He was accused of possessing terrorism related media and falsifying facts to abrupt public order. Both charges were apparently politically motivated and he got a 20-day detention punishment in total.<br><img style="" src="https://pbs.twimg.com/media/FbDVYcoXkAAIwk9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbDVZ9_WAAAJJUP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbDVbyTXgAA45Q9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
