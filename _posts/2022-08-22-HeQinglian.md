@@ -647,3 +647,11 @@ Re @YaxueCao 看云图，经常到了宾州上空，就沿着阿巴拉契亚山�
 
 谈到戴口罩，新州没有统一规定。<br>去看医生，不管是什么科，注意事项上标明必须戴。如果自己没戴，会送你一只一次性的。有的医生还戴双重。<br>去商场，有的规定必须戴，有的不必戴。<br>我的方法是，外出随身携带口罩，按规定决定是否戴。
 
+### 159: [2022-08-26 22:17:44+08:00 推文](https://twitter.com/shenliangqing2/status/1563168823439937536)
+
+RT 沈良庆二世<br>高压之下认罪很正常，勇敢无畏不认罪者更令人尊敬，我在这里给黎智英点个大大的👍🏻#爱港无罪释放黎智英<br><img style="" src="https://pbs.twimg.com/media/FbF9wWwVsAIxbP1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 160: [2022-08-26 22:38:48+08:00 推文](https://twitter.com/HeQinglian/status/1563174125392494594)
+
+Re @david_david1968 中俄两国是前社会主义中坚。相比之下，俄罗斯改变要多得多，至少有选举与议会的存在，但美国区别对待，只因利益关系不同。
+
