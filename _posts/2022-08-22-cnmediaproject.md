@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-25
+date: 2022-08-26
 from: https://twitter.com/alexludoboyd/status/1562149242327781376
 layout: post
 tags:
@@ -42,4 +42,12 @@ US House Speaker Pelosi has appeared in more than 70 articles in the CCP's flags
 ### 7: [2022-08-25 11:27:21+08:00 推文](https://twitter.com/cnmediaproject/status/1562642760515358720)
 
 Re To put the number in context, the top foreign leader in the People’s Daily in July was Joe Biden, who appeared in just 9 articles. Pelosi is sure to far outpace all other foreign political figures in August, a reflection of just how much her visit infuriated and concerned China.<br><img style="" src="https://pbs.twimg.com/media/Fa-fTFfaUAM2es8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-08-26 09:06:58+08:00 推文](https://twitter.com/cnmediaproject/status/1562969821989715968)
+
+Pelosi has soared in the People's Daily in August, appearing in more than 70 articles — a rarity for a foreign politician (Biden was on top with just 9 articles in July). . . A portrait of China's outrage over the Taiwan visit. <a href="https://chinamediaproject.org/2022/08/25/pelosi-in-the-peoples-daily/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/25/pelosi-in-the-peoples-daily/</a>
+
+### 9: [2022-08-26 09:49:08+08:00 推文](https://twitter.com/cnmediaproject/status/1562980431494250496)
+
+Just two appearances in the People's Daily today of a key term to signal Xi Jinping's power and prestige: "Two Establishes" (两个确立). Our take on how this phrase is more understated right now than should be expected. <a href="https://chinamediaproject.org/2022/08/24/tracing-the-two-establishes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/08/24/tracing-the-two-establishes/</a>
 
