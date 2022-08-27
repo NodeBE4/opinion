@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-27
+date: 2022-08-28
 from: https://twitter.com/realcaixia/status/1561391545961615361
 layout: post
 tags:
@@ -106,4 +106,12 @@ Re 三位老党员在连线电话里坦陈了他们的看法，这不只是他�
 ### 23: [2022-08-27 20:48:21+08:00 推文](https://twitter.com/realcaixia/status/1563508718368567297)
 
 对习十年的这个总结客观真实。<br><br>全球倒习救国翡翠运动: #网友讨习 看看习近平这十年干了什么？ <br><br>这十年，习近平赢了，他的事都办成了，但中国毁了，内政外交一塌糊涂<br><br>这十年，全中国获益最大的，不是农民，不是工人，也不是企业家，不是上市公司，不是哪个行业，只是一个人，习近平<br><br>这十年，习近平成功地把反腐=打政敌；把抗新冠=搞专制；把改宪法=当皇帝<br><br><img style="" src="https://pbs.twimg.com/media/FbGiSXyXgAAWTti?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-08-28 01:41:14+08:00 推文](https://twitter.com/realcaixia/status/1563582425472839682)
+
+中共撒谎成性。一在现场网友说排队做核酸时突遇雷击，2死7伤，明天看新闻吧。然而，堂堂官媒撒谎说健身运动时雷击，社会议论纷纷；官方改口说跳广场舞时雷击身亡；网上舆论哗然。迫于舆论，官媒最终承认排队等候做核酸时遭雷击。网友追问：为何不敢说做核酸时遭雷击？新闻还有真话吗？！<br><img style="" src="https://pbs.twimg.com/media/FbL16eLVEAAyDs-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbL16uGUYAAOu4w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbL17AZVUAIPceW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbL17T9UcAA521p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-08-28 02:09:19+08:00 推文](https://twitter.com/realcaixia/status/1563589490475945984)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FbL8WmFVQAAIAKj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbL8WmNUYAAtWvD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbL8WmGUUAEzndc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbL8WmBUcAIU7TU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
