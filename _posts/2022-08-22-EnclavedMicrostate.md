@@ -313,6 +313,10 @@ That's not history, that's some kind of evo-psych. History is a literary and not
 
 Right, and history is not a fundamentally systematic exercise. History is about imparting some kind of meaning on the remnants of the past, and each individual historian does so in an individual and selective manner.
 
+----- __747.3__ -----2022-08-27 18:04:28+08:00:
+
+Yes, pretty much.
+
 ### 748: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
 
 ----- __748.1__ -----2022-08-27 10:55:58+08:00:
