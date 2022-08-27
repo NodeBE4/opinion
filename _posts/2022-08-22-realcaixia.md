@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-26
+date: 2022-08-27
 from: https://twitter.com/realcaixia/status/1561391545961615361
 layout: post
 tags:
@@ -102,4 +102,8 @@ Re 三位老党员在连线电话里坦陈了他们的看法，这不只是他�
 ### 22: [2022-08-26 21:04:51+08:00 推文](https://twitter.com/realcaixia/status/1563150481811468289)
 
 任志强就是因直言批评揭露习而遭受的残酷迫害。<br><br>韩连潮: 【13年和18年的差别】我昨天听一位熟悉中共高层内幕的朋友说，按中共法律，金融大鳄肖建华应判死罪，结果只判了13年徒刑，而清白无辜的任志强却以莫须有的罪名判刑18年，两者的差别是：肖为众多中共高层家族当白手套，包括习近平家族，任批评习独裁、抗疫失误。足见习利用反腐清洗异见独裁专权。<br><br><img style="" src="https://pbs.twimg.com/media/FbFaOrwVEAEpGIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbFarnnX0AAeK8V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-08-27 20:48:21+08:00 推文](https://twitter.com/realcaixia/status/1563508718368567297)
+
+对习十年的这个总结客观真实。<br><br>全球倒习救国翡翠运动: #网友讨习 看看习近平这十年干了什么？ <br><br>这十年，习近平赢了，他的事都办成了，但中国毁了，内政外交一塌糊涂<br><br>这十年，全中国获益最大的，不是农民，不是工人，也不是企业家，不是上市公司，不是哪个行业，只是一个人，习近平<br><br>这十年，习近平成功地把反腐=打政敌；把抗新冠=搞专制；把改宪法=当皇帝<br><br><img style="" src="https://pbs.twimg.com/media/FbGiSXyXgAAWTti?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
