@@ -309,6 +309,10 @@ Interestingly, while the idea that Ögedei's death stopped the invasion of Europ
 
 That's not history, that's some kind of evo-psych. History is a literary and not a scientific exercise, focussed on the analysis of past phenomena in their context.
 
+----- __747.2__ -----2022-08-27 13:16:10+08:00:
+
+Right, and history is not a fundamentally systematic exercise. History is about imparting some kind of meaning on the remnants of the past, and each individual historian does so in an individual and selective manner.
+
 ### 748: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
 
 ----- __748.1__ -----2022-08-27 10:55:58+08:00:
