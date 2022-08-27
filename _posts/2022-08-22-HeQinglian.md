@@ -687,3 +687,19 @@ Re @zhixiangziyou @NAConservative9 @mingshi_chen<br>@zhixiangziyou<br>你们可�
 
 Re @franktianxie 批判社会主义制度时，资本主义世界异口同声地说“这是奖懒罚勤的制度，因此必会垮台”。<br>言犹在耳，资本主义的堡垒美国已经将奖懒罚勤当作进步 主义国策了。
 
+### 169: [2022-08-27 08:25:26+08:00 推文](https://twitter.com/HeQinglian/status/1563321755523231745)
+
+看来，还有希望拉入大重置行列内？也罢，疫苗护照妥妥的，比哪国都做得好；大（强）政府是现成的，社会控制是样板；就差LGBTQI+了，北京、上海有种子，努力吧。<br><br>美国之音中文网: 拜登：习近平和中国不确定未来要怎么走<br> <a href="http://dlvr.it/SXJLYm" target="_blank" rel="noopener noreferrer">http://dlvr.it/SXJLYm</a>
+
+### 170: [2022-08-27 08:40:07+08:00 推文](https://twitter.com/HeQinglian/status/1563325452453756928)
+
+乌战：中国愈加对俄罗斯给予更有力的支持 <br>本篇最大看点：【中俄意识形态专家一起谈论 "复兴 "和新发现的国家力量，异口同声地谈论 "自由媒体"，并不放过任何机会呼吁建立 "世界新秩序"。】<br>大重置得将自己的New World Order与自由媒体改名了，免得双方重名，混淆不清。 <a href="https://rfi.my/8gsX.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8gsX.T</a>
+
+### 171: [2022-08-27 10:21:46+08:00 推文](https://twitter.com/HeQinglian/status/1563351031937138688)
+
+Re @franktianxie 北京与上海，不知哪里更多。广东人不好这口，外地打工族还没进化到这地步。
+
+### 172: [2022-08-27 10:34:19+08:00 推文](https://twitter.com/HeQinglian/status/1563354190256443393)
+
+与俄中竞争 美国将设立北极大使 <br>我很好奇，美国驻北极大使除了带星条旗之外，还带不带上彩虹旗？美国驻华大使馆是率先插上彩虹旗的。 <a href="https://rfi.my/8gw9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8gw9.T</a>
+

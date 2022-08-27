@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-26
+date: 2022-08-27
 from: https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/
 layout: post
 tags:
@@ -290,4 +290,22 @@ I can't see it through the tears
 ----- __745.1__ -----2022-08-26 19:55:48+08:00:
 
 Accurate in sentiment if not in semantics.
+
+### 746: [Free for All Friday, 26 August 2022](https://old.reddit.com/r/badhistory/comments/wy660b/free_for_all_friday_26_august_2022/), submitted on 2022-08-26 19:00:13+08:00.
+
+----- __746.1__ -----2022-08-27 10:39:49+08:00:
+
+Thanks /u/King_Vercingetorix!
+
+For narrative the [History of China Podcast](https://thehistoryofchina.wordpress.com/) is a good choice; while [The Chinese History Podcast](http://www.chinesehistorypodcast.com/) has a good selection of interviews with academics. Both are run by current or former flairs on AskHistorians, to boot.
+
+----- __746.2__ -----2022-08-27 10:48:05+08:00:
+
+Interestingly, while the idea that Ögedei's death stopped the invasion of Europe is dubious, there is some credence to the idea that the death of Möngke is what led to the failure of the Ilkhanate's invasion of Syria and subsequent debacle at Ayn Jālūt. Reuven Amitai-Preiss (IIRC) noted that a huge part of the Ilkhanate host was relocated to the southern Caucasus rather suddenly, and attributes this to the sudden need to guard the Toluids' northwest frontier against the Jochids.
+
+### 747: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
+
+----- __747.1__ -----2022-08-27 10:55:58+08:00:
+
+Yes. It is not a long period, although it is longer for graduate students than for undergraduates.
 
