@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-07-25~2022-07-31'
 
 ### 2: [2022-07-25 08:12:06+08:00 推文](https://twitter.com/realcaixia/status/1551359600271806469)
 
-支持！<br><br>Luo Shengchun丁家喜律师妻子: #一人一照声援丁家喜许志永 非常感谢国内朋友发来照片声援家喜！考虑到国内朋友发声有危险，我决定在海外发起一场一人一照声援丁家喜许志永活动，欢迎海外的朋友们踊跃参加！照片做完可以发给我来发推特，或者您直接发推特把链接分享给我或放群里。<br><br>非常感谢清鹏率先参与支持！<br> <a href="https://twitter.com/wangqingpeng1/status/1540175207616245760" target="_blank" rel="noopener noreferrer">https://twitter.com/wangqingpeng1/status/1540175207616245760</a>
+支持！
 
 ### 3: [2022-07-25 20:00:20+08:00 推文](https://twitter.com/realcaixia/status/1551537832728174593)
 
@@ -85,7 +85,7 @@ Re 请点击最上推文中的完整链接，可以观看电影《一九八四�
 
 ### 18: [2022-07-29 09:13:26+08:00 推文](https://twitter.com/realcaixia/status/1552824587611766784)
 
-支持王爱忠律师！支持王爱忠律师夫人王贺楠女士。很多朋友在关心着王爱忠律师的情况。
+支持王爱忠律师！支持王爱忠律师夫人王贺楠女士。很多朋友在关心着王爱忠律师的情况。<br><br>王贺楠: 第一次在室外录视频还有些不习惯，一会儿律师会见爱忠。<br><br><video src="https://video.twimg.com/ext_tw_video/1552480365045895168/pu/vid/720x960/yI3fa0VZQCJZCC60.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552480365045895168/pu/img/AVjw0XaT5rD2h28T.jpg"></video>
 
 ### 19: [2022-07-29 09:16:30+08:00 推文](https://twitter.com/realcaixia/status/1552825358306742273)
 
@@ -109,7 +109,7 @@ Re @guidepeter2004 我不太清楚怎么能买到书，想了解多一些李锐�
 
 ### 24: [2022-07-31 18:47:49+08:00 推文](https://twitter.com/realcaixia/status/1553693913738887169)
 
-非常了不起的大翻译运动！非常优秀的年轻人！
+非常了不起的大翻译运动！非常优秀的年轻人！<br><br>The Great Translation Movement 大翻译运动官方推号: <br><br><img style="" src="https://pbs.twimg.com/media/FY6wB18VsAMh5VY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xPaxUIAAuqRD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xQeXUcAAlEQ9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-07-31 20:00:44+08:00 推文](https://twitter.com/realcaixia/status/1553712261545529344)
 

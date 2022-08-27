@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-27
+date: 2022-08-28
 from: https://twitter.com/HeQinglian/status/1561395465966469122
 layout: post
 tags:
@@ -702,4 +702,8 @@ Re @franktianxie 北京与上海，不知哪里更多。广东人不好这口，
 ### 172: [2022-08-27 10:34:19+08:00 推文](https://twitter.com/HeQinglian/status/1563354190256443393)
 
 与俄中竞争 美国将设立北极大使 <br>我很好奇，美国驻北极大使除了带星条旗之外，还带不带上彩虹旗？美国驻华大使馆是率先插上彩虹旗的。 <a href="https://rfi.my/8gw9.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8gw9.T</a>
+
+### 173: [2022-08-28 03:51:49+08:00 推文](https://twitter.com/HeQinglian/status/1563615287412498433)
+
+纽约州参议院民主党初选获胜者克里斯汀·冈萨雷斯:<br>“我们真的证明了社会主义赢了! 我们哪里也不去，我们不会停下来，直到我们在这座城市看到社会主义的石板!”<br><br>RNC Research: New York State Senate Democrat primary winner Kristen Gonzalez:<br><br>"We really proved that socialism wins! We are not going anywhere, and we will not stop until we see a socialist slate across this city!"<br><br><video src="https://video.twimg.com/amplify_video/1562441592883261441/vid/1280x720/CTdFGH2pkI3sYAVe.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/Fa7pfH9aMAMAPaP?format=jpg&amp;name=orig"></video>
 
