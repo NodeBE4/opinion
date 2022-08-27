@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-20~2021-12-26'
 
 ### 1: [2021-12-21 18:16:49+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473236004102455303)
 
-Re 深圳大学教师吴远卿，因在朋友圈转发人《人民日报》旧闻《不告密不揭发是道德底线》并配文“恶意举报老师的小人，其告密行为将记入档案，终生受益呦”，以批评近日举报上海震旦学院教师宋庚一并导致其被开除的学生，现被校方调查。<br><img style src="https://pbs.twimg.com/media/FHH60fBWUAAqKrV?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 深圳大学教师吴远卿，因在朋友圈转发人《人民日报》旧闻《不告密不揭发是道德底线》并配文“恶意举报老师的小人，其告密行为将记入档案，终生受益呦”，以批评近日举报上海震旦学院教师宋庚一并导致其被开除的学生，现被校方调查。<br><img style="" src="https://pbs.twimg.com/media/FHH60fBWUAAqKrV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-21 18:19:48+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473236755310694405)
 
@@ -33,7 +33,7 @@ Re Shenzhen University teacher Wu Yuanqing under investigation by the University
 
 ### 5: [2021-12-23 18:55:24+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473970490851086339)
 
-Back in 2010, MPS China issued a notice: mental asylums shall not admit normal people without police authorization. The notice meant what it meant. A teacher in Hunan Province has now been locked in a mental asylum for voicing her support to a Shanghai teacher in Weibo.<br><img style src="https://pbs.twimg.com/media/FHSXDzLWQAAszn9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSXForXEAs5MPf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSXHfWXIAIgHy3?format=jpg&name=orig" referrerpolicy="no-referrer">
+Back in 2010, MPS China issued a notice: mental asylums shall not admit normal people without police authorization. The notice meant what it meant. A teacher in Hunan Province has now been locked in a mental asylum for voicing her support to a Shanghai teacher in Weibo.<br><img style="" src="https://pbs.twimg.com/media/FHSXDzLWQAAszn9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSXForXEAs5MPf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSXHfWXIAIgHy3?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-23 19:10:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473974272037109763)
 
@@ -45,5 +45,5 @@ Re The teacher's name is Li Tiantian, and the Shanghai teacher she supported on 
 
 ### 8: [2021-12-26 20:31:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081875840552963)
 
-Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
 

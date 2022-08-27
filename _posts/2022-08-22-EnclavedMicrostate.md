@@ -339,3 +339,13 @@ Yes. It is not a long period, although it is longer for graduate students than f
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
+----- __749.2__ -----2022-08-27 23:52:16+08:00:
+
+As it stands it quite heavily implies a particular theory. A more neutral wording might be
+
+"Are there historical underpinnings to the animosity between India and Pakistan that predate the partition of India, or even the British colonial period?"
+
+or
+
+"Is there a historical continuity to the animosity between India and Pakistan that we can trace into the past beyond the period of British colonialism?
+
