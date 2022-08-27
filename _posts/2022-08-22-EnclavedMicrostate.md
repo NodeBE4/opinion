@@ -303,9 +303,15 @@ For narrative the [History of China Podcast](https://thehistoryofchina.wordpress
 
 Interestingly, while the idea that Ögedei's death stopped the invasion of Europe is dubious, there is some credence to the idea that the death of Möngke is what led to the failure of the Ilkhanate's invasion of Syria and subsequent debacle at Ayn Jālūt. Reuven Amitai-Preiss (IIRC) noted that a huge part of the Ilkhanate host was relocated to the southern Caucasus rather suddenly, and attributes this to the sudden need to guard the Toluids' northwest frontier against the Jochids.
 
-### 747: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
+### 747: ["No one is guiltless"- R/historymemes tackles the transatlantic slave trade](https://old.reddit.com/r/SubredditDrama/comments/wyamlj/no_one_is_guiltless_rhistorymemes_tackles_the/), submitted on 2022-08-26 22:27:32+08:00.
 
------ __747.1__ -----2022-08-27 10:55:58+08:00:
+----- __747.1__ -----2022-08-27 12:16:48+08:00:
+
+That's not history, that's some kind of evo-psych. History is a literary and not a scientific exercise, focussed on the analysis of past phenomena in their context.
+
+### 748: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
+
+----- __748.1__ -----2022-08-27 10:55:58+08:00:
 
 Yes. It is not a long period, although it is longer for graduate students than for undergraduates.
 
