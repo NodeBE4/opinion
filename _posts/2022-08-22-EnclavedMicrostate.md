@@ -317,9 +317,25 @@ Right, and history is not a fundamentally systematic exercise. History is about 
 
 Yes, pretty much.
 
+----- __747.4__ -----2022-08-27 19:50:37+08:00:
+
+Among other things, history does not say it is practicing science, and would indeed actively reject that label. I am saying so *as a historian here*. I think calling history a science fundamentally fails to grasp that it is a field whose underlying principles are incredibly different.
+
+----- __747.5__ -----2022-08-27 20:30:18+08:00:
+
+Well, it will depend how you define 'science' for sure, but in general, science is about attempting to achieve, as best as possible, an objective understanding of the mechanics of the natural world, as best as can be attained. History, however, operates entirely in the realm of the subjective: it is about subjective observers in the present day taking their own lens to the subjective remnants of the past, attempting to construct some form of narrative to make sense of it. And in a particular point of view I can see how those are comparable, but I just don't. Historians don't have access to complete, objective data, nor can they – outside of some specific subfields like experimental archaeology – carry out experiments to gather that data. Historians tend not to prescribe universal laws of history, although they may often advocate certain methodologies that can be used across geographical and temporal contexts.
+
+To use the case of Robert Vitalis there, as you've described what he was doing was history rather than science – he was looking from his then-present perspective at past documents to construct a narrative. This in turn influenced the way that the field operated going forward of course, and I'm not about to deny that history and scientific fields can have mutual influence. But their functions and methods differ considerably.
+
 ### 748: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
 
 ----- __748.1__ -----2022-08-27 10:55:58+08:00:
 
 Yes. It is not a long period, although it is longer for graduate students than for undergraduates.
+
+### 749: [Is the reason why India has beef with Pakistan because of the political history of North India (Islam) taking over Delhi in the 13th century, thus an example of continuity?](https://old.reddit.com/r/AskHistorians/comments/wysd03/is_the_reason_why_india_has_beef_with_pakistan/), submitted on 2022-08-27 11:28:12+08:00.
+
+----- __749.1__ -----2022-08-27 20:39:07+08:00:
+
+This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
