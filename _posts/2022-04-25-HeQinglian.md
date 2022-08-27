@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -489,7 +489,7 @@ Re @xchen156 我这些天研究了一下关于中国为何要做完全不可能�
 
 ### 119: [2022-05-01 06:54:22+08:00 推文](https://twitter.com/HeQinglian/status/1520537070875328512)
 
-欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
+RT He Qinglian<br>欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
 
 ### 120: [2022-05-01 08:32:16+08:00 推文](https://twitter.com/HeQinglian/status/1520561706983993345)
 
