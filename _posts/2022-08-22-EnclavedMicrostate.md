@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-27
+date: 2022-08-28
 from: https://old.reddit.com/r/AskHistorians/comments/wuj7zw/what_are_some_examples_of_weather_affecting_not/
 layout: post
 tags:
@@ -348,4 +348,10 @@ As it stands it quite heavily implies a particular theory. A more neutral wordin
 or
 
 "Is there a historical continuity to the animosity between India and Pakistan that we can trace into the past beyond the period of British colonialism?
+
+### 750: [What do people use to take notes?](https://old.reddit.com/r/oxforduni/comments/wz6ztw/what_do_people_use_to_take_notes/), submitted on 2022-08-28 00:26:19+08:00.
+
+----- __750.1__ -----2022-08-28 01:09:05+08:00:
+
+This will ultimately depend on your subject. As a history student I mostly typed my reading notes and wrote lecture and tutorial notes, and ultimately I feel I generally got more out of reading than discussion although the latter was still vital to actually refining my thoughts. Going back later, it was very useful to have easily searchable and well-organised notes on my laptop.
 
