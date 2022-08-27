@@ -707,3 +707,15 @@ Re @franktianxie 北京与上海，不知哪里更多。广东人不好这口，
 
 纽约州参议院民主党初选获胜者克里斯汀·冈萨雷斯:<br>“我们真的证明了社会主义赢了! 我们哪里也不去，我们不会停下来，直到我们在这座城市看到社会主义的石板!”<br><br>RNC Research: New York State Senate Democrat primary winner Kristen Gonzalez:<br><br>"We really proved that socialism wins! We are not going anywhere, and we will not stop until we see a socialist slate across this city!"<br><br><video src="https://video.twimg.com/amplify_video/1562441592883261441/vid/1280x720/CTdFGH2pkI3sYAVe.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/Fa7pfH9aMAMAPaP?format=jpg&amp;name=orig"></video>
 
+### 174: [2022-08-28 03:58:08+08:00 推文](https://twitter.com/HeQinglian/status/1563616875703324672)
+
+Re @Wu_Zhi 纽约的民主党内初选，据说凡AOC背书的必赢——这座城市，Wall Street应该迁走了。<br>社会主义城市里，世界资本主义股票交易中心呆在那里，说不定某天陈毅同志率领军队看管股市的情景再现。
+
+### 175: [2022-08-28 04:07:04+08:00 推文](https://twitter.com/HeQinglian/status/1563619125611708416)
+
+Re @Tianshuihanyan 😇😇😇<br>这种建议都能上政治圆桌，美国已经成了一个大号第六病室。
+
+### 176: [2022-08-28 05:56:53+08:00 推文](https://twitter.com/HeQinglian/status/1563646761469501440)
+
+Re @qihang19211 谢谢提醒。她是借喻，“铺满社会主义的石板"，就是你说的这意思。<br>我考虑了一下，还是直译。估计推友也能理解她的意思。
+
