@@ -49,7 +49,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 9: [2022-06-02 23:11:45+08:00 推文](https://twitter.com/realcaixia/status/1532379450226225152)
 
-记住六.四！<br><br>周锋锁 Fengsuo Zhou: 江林的经历，是近年来最重要的八九六四新证词。这件保存了三十三年的血衣，见证了她在六四屠杀中生死之交的抉择，也带出了当年军队内部反对戒严的历史事实。<br>她和张胜一家被戒严部队暴力殴打到致命程度，张胜儿子手指打断被捕。<br>张胜是总参作战部战役局局长，父亲张爱萍领衔七上将公开反对军队武力进城<br> <a href="https://twitter.com/voachinese/status/1531494177195712512" target="_blank" rel="noopener noreferrer">https://twitter.com/voachinese/status/1531494177195712512</a>
+记住六.四！
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
@@ -61,7 +61,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 12: [2022-06-04 03:42:09+08:00 推文](https://twitter.com/realcaixia/status/1532809885511045121)
 
-明天六.四！<br><br>ZHANGDONG: 明天又是“六.四”纪念日，香港维园最后的蜡烛也被无情地踩灭了。历史真相必须揭露并不断反思才能让悲剧不再发生。<br>现在中国“6.4”这个日期都成了🈲词，更狂谈纪念反思。而今又借瘟疫把中国变成了人间地狱，这就是今日中国之黑现状！33年来中共独裁专制进一步把中国推向深渊。鲍彤先生的回忆很有历史价值.<br><br><video src="https://video.twimg.com/ext_tw_video/1532643686441426945/pu/vid/932x720/XrU9-7xZIoTcxzm7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1532643686441426945/pu/img/pM537xrpmEjWELHq.jpg"></video> <a href="https://twitter.com/gaoyu200812/status/1532613508067602437" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1532613508067602437</a>
+明天六.四！
 
 ### 13: [2022-06-04 04:04:43+08:00 推文](https://twitter.com/realcaixia/status/1532815562753347584)
 
@@ -85,15 +85,15 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。
+昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
-1989.6.4 杜宪与张宏民，原先误传是薛飞，从这个视频上看应该是张宏民。
+1989.6.4 杜宪与张宏民，原先误传是薛飞，从这个视频上看应该是张宏民。<br><br>浩哥i✝️i🇺🇸iA2: 这个新闻联播我看过，杜宪的靠别演播☹️<br><br><video src="https://video.twimg.com/ext_tw_video/1533127689321689089/pu/vid/576x324/vutDcrXolaSPFrnQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1533127689321689089/pu/img/HCEwxhy1qIO1E59n.jpg"></video>
 
 ### 20: [2022-06-05 07:15:22+08:00 推文](https://twitter.com/realcaixia/status/1533225932743331840)
 
-他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。
+他们恐惧任何可能联想到6•4屠杀的事物，这是罪犯的本能，就像秃子最初忌讳“癞”字，后来连别人说到“光”、“亮”、“灯”也忌讳一样。<br><br>学文- insist: 我气坏了。刚接到老家国宝电话。说我凌晨发的莫扎特的安魂曲上面关注了。我问：你们为什么不把莫扎特禁了？这是一个何等荒谬的时代啊！<br><br><img style="" src="https://pbs.twimg.com/media/FUYBWg5UUAArOwn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2022-06-05 22:53:16+08:00 推文](https://twitter.com/realcaixia/status/1533461960741765122)
 
