@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-08-26
+date: 2022-08-28
 from: https://twitter.com/SpeechFreedomCN/status/1561491093665075200
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re 甘肃异议人士龙克海再被拘留：5月26日，甘肃徽县国保以�
 ### 6: [2022-08-26 10:04:57+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1562984410697199617)
 
 Re Gansu dissident Long Kehai detained again in June. He was accused of possessing terrorism related media and falsifying facts to abrupt public order. Both charges were apparently politically motivated and he got a 20-day detention punishment in total.<br><img style="" src="https://pbs.twimg.com/media/FbDVYcoXkAAIwk9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbDVZ9_WAAAJJUP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbDVbyTXgAA45Q9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-08-28 14:10:38+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1563771016165351425)
+
+安徽蚌埠一名警察刘建（曾获十佳人民警察称号），因于近日在网上发布视频曝光其单位警察存在私自烧毁卷宗导致案件无法侦破等违规违法行为，被以寻衅滋事罪为由刑事拘留。图3为其提到的被烧毁的卷宗的灰烬。两个月前，刘建也发视频曝光称自己在警察局内被十多名领导殴打，而局长当时就在场旁观。<br><img style="" src="https://pbs.twimg.com/media/FbOfpFOWIAAtZD2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbOfut1XkAQroaA?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbOhLEEXoAERqI3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-08-28 14:14:51+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1563772077039050752)
+
+Liu Jian, a police officer in Anhui Province, recently uploaded a video on Internet to reveal some irregularities within police force, such as burning case documents, some of which may constitute crimes. Now, he is under criminal custody for Picking Quarrel and Provoking Trouble.<br><img style="" src="https://pbs.twimg.com/media/FbOhgEEXkAAlV6w?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbOhjYyWQAEQTeV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
