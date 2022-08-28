@@ -327,6 +327,18 @@ Well, it will depend how you define 'science' for sure, but in general, science 
 
 To use the case of Robert Vitalis there, as you've described what he was doing was history rather than science – he was looking from his then-present perspective at past documents to construct a narrative. This in turn influenced the way that the field operated going forward of course, and I'm not about to deny that history and scientific fields can have mutual influence. But their functions and methods differ considerably.
 
+----- __747.6__ -----2022-08-28 10:28:59+08:00:
+
+To put it quite simply, I don't disagree that political scientists can call themselves scientists, but it would be on one of two bases:
+
+1. The cynical basis, which is that political science as a field has called itself a science because we as a society tend to lend credence to things that call themselves science;
+
+2. The etymological basis, in which political science uses 'science' in a way that has diverged from how 'science' is colloquially employed , but which is, in broad terms, valid.
+
+The issue then becomes, however, when non-historians attempt to assert that history *is* a science by the standards of non-historical fields. As you have seen from our above discussion, this is a perspective actively rejected by historians because we are *generally* uninterested in seeking out universal laws or general conclusions on how the mechanisms of societies function; rather we are interested in the specific and the contingent. We don't so much *use* case studies as *create* case studies. That's maybe a bit clumsy and you can quibble with how far that's the case, but our interest is in developing coherent narratives of confined, contingent episodes, not attempting to seek out wider patterns in human and societal behaviour.
+
+I'd also argue that for instance a psychologist *is* operating partly in the objective world, by attempting to employ objective methodologies through which to study individual humans' subjective experiences. I'm not saying that 'any level of subjectivity makes you *not* a scientist', I'm saying that 'any substantial degree of objectivity probably *does* make you a scientist'.
+
 ### 748: [Oxford Academic Year?](https://old.reddit.com/r/oxforduni/comments/wyqhqo/oxford_academic_year/), submitted on 2022-08-27 09:53:15+08:00.
 
 ----- __748.1__ -----2022-08-27 10:55:58+08:00:
