@@ -33,7 +33,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
-这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。<br><br>猪骨粒: 1、美国正在变烂，目前还是比中国好<br><br>2、但美国变烂的影响是世界级的，中国只能影响一部分<br><br>3、俄罗斯本来对世界影响不大，把他惹毛了发现他影响很大<br><br>4、乌克兰只有挨揍的时候才有影响力<br><br>5、欧盟比较悲催，活儿一点没少干，收入却下降最多，影响力还特么没增加。<br>
+这位网友总结得挺到位。🤣<br>补充一点：乌克兰只在在挨揍时，世界才忘记它的所有阴暗面：政权不改的腐败、全世界门类最齐全的地下经济、新纳粹。
 
 ### 6: [2022-06-13 05:21:41+08:00 推文](https://twitter.com/HeQinglian/status/1536096425775443968)
 
@@ -265,7 +265,7 @@ Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏
 
 ### 63: [2022-06-16 22:21:33+08:00 推文](https://twitter.com/RealBeiMing/status/1537440244986892288)
 
-RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>正念先生-东欧视角: 欧洲劝降团到达基辅<br><br><img style="" src="https://pbs.twimg.com/media/FVWz80uWAAAcW71?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVWz85sX0AAnLE0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
@@ -289,7 +289,7 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
@@ -341,7 +341,7 @@ Re 有个典故，看来经历过文革的也忘记了。<br>1970年代，有支
 
 ### 82: [2022-06-17 20:55:36+08:00 推文](https://twitter.com/HeQinglian/status/1537781002134863873)
 
-群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。
+群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。<br><br>Adaliab: They're not even hiding it anymore!<br><br><video src="https://video.twimg.com/ext_tw_video/1537500714443972608/pu/vid/560x352/c6edzy2w8y-GHEjF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537500714443972608/pu/img/gmhQPd6gCXSApcii.jpg"></video>
 
 ### 83: [2022-06-17 20:58:34+08:00 推文](https://twitter.com/HeQinglian/status/1537781748947353600)
 
