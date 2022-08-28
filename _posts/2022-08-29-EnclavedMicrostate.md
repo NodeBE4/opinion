@@ -23,3 +23,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 754: [It is AskHistorians' ELEVENTH BIRTHDAY! As is tradition, you may be jocular and/or slightly cheeky in this thread!](https://old.reddit.com/r/AskHistorians/comments/wzztsi/it_is_askhistorians_eleventh_birthday_as_is/), submitted on 2022-08-29 00:40:03+08:00.
+
+----- __754.1__ -----2022-08-29 01:00:08+08:00:
+
+Terrifying to imagine that AskHistorians is now a tween!
+
