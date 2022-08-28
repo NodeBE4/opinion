@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
@@ -141,11 +141,11 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 32: [2022-04-05 09:09:49+08:00 推文](https://twitter.com/realcaixia/status/1511149071708344328)
 
-大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。
+大翻译找回2020年元旦央视迫害李文亮等八名s吹哨人的新闻播报。历史不能被忘记。需要让全世界更多的人知道武汉病毒的真相。<br><br>新闻调查: 大翻译运动又一杰作，武汉病毒的真相来了<br><br><video src="https://video.twimg.com/ext_tw_video/1510704705630269440/pu/vid/1280x720/d7gebXM6hxKtZKSU.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510704705630269440/pu/img/exVPb1RXvZtcMvJq.jpg"></video>
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
-看看方舱医院什么情况吧。
+看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
 
 ### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
@@ -205,7 +205,7 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
-议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。<br><br>楊建利 Yang Jianli: #议报 以及 #公民力量 所属其他网站遭到黑客攻击，感染严重病毒，公民力量团队在紧急清理修复中，我们决心“清零”，绝不与病毒共存。望大家理解和支持。<br> <a href="https://twitter.com/yibaochina/status/1511520166600916998" target="_blank" rel="noopener noreferrer">https://twitter.com/yibaochina/status/1511520166600916998</a>
 
 ### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
 
@@ -225,7 +225,7 @@ RT @lianchaohan: 【演艺圈的良心孙海英】一直在关注孙海英，虽
 
 ### 53: [2022-04-06 22:25:53+08:00 推文](https://twitter.com/realcaixia/status/1511711797232943104)
 
-可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。
+可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。<br><br>lily valley: 上海地下党组织成员被封家里，无法和他的同志接头！<br><br><img style="" src="https://pbs.twimg.com/media/FPgVKb_WUAMnib9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-04-06 22:28:50+08:00 推文](https://twitter.com/realcaixia/status/1511712538769170439)
 
@@ -281,7 +281,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 67: [2022-04-09 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1512813972965273600)
 
-习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难
+习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难<br><br>Murong Xuecun慕容雪村: 《上海人為什么會飢餓》，完整版<br><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLDaQAUJgEE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLOakAAVEEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLJaQAElLPN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-04-09 23:28:27+08:00 推文](https://twitter.com/realcaixia/status/1512814706800660480)
 
@@ -289,7 +289,7 @@ Re @JinYuzhe_ 我删了哪个推文？
 
 ### 69: [2022-04-10 00:19:18+08:00 推文](https://twitter.com/realcaixia/status/1512827504192598022)
 
-上海13万阳性，1例重症；98%为无症状感染者。上海封城迄今，封2600万人禁足挨饿。竟有多少婴幼儿被从母亲身边强行带走？竟有几万病人无法做肾透析？又有多少急病突发死于无医院救治？有多少人因封城断了生计而轻生赴死？有多少人因发出求生呼吁而被官员警察恐吓惩罚？有多少人遭百卫兵和警察毒打迫害？<br><br>荣剑: 最高指示要求以最小代价防控疫情，实际上是不计代价，上海目前13万阳，只有一例重症，没有死亡，却封了全上海，2500万人足不出户，真是看不懂。<br><br><img style="" src="https://pbs.twimg.com/media/FP0xz31VUAk-Lm6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+上海13万阳性，1例重症；98%为无症状感染者。上海封城迄今，封2600万人禁足挨饿。竟有多少婴幼儿被从母亲身边强行带走？竟有几万病人无法做肾透析？又有多少急病突发死于无医院救治？有多少人因封城断了生计而轻生赴死？有多少人因发出求生呼吁而被官员警察恐吓惩罚？有多少人遭百卫兵和警察毒打迫害？
 
 ### 70: [2022-04-10 03:41:35+08:00 推文](https://twitter.com/realcaixia/status/1512878409260703752)
 
