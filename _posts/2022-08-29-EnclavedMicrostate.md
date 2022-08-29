@@ -63,3 +63,7 @@ This question has been removed because it is [soapboxing](https://www.reddit.com
 
 Ah, thanks for the link, and thanks u/McFoodBot!
 
+----- __759.2__ -----2022-08-29 23:51:15+08:00:
+
+Thanks! The point about white vs minority experiences is an especially appreciated one.
+

@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-06-06~2022-06-12'
 
 ### 1: [2022-06-06 00:56:57+08:00 推文](https://twitter.com/realcaixia/status/1533493088835993605)
 
-转发此推文，以便于更多推友获知更多信息。<br><br>老好人: @realcaixia 1988年5月，于北师大相遇老鬼，得此书及老鬼的勉励。马先生应该认得他的笔迹。<br><br><img style="" src="https://pbs.twimg.com/media/FUgJO3pXoAEUr1x?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPMlWQAI-v5e?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPd4XEAII_Xn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+转发此推文，以便于更多推友获知更多信息。
 
 ### 2: [2022-06-06 01:08:16+08:00 推文](https://twitter.com/realcaixia/status/1533495934994243584)
 
@@ -25,7 +25,7 @@ Re @lxm13529648 感谢您🙏🌹。
 
 ### 3: [2022-06-06 01:37:23+08:00 推文](https://twitter.com/realcaixia/status/1533503263282286595)
 
-他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。<br><br>方舟子: 带货的网红，因为在6月4日这天带货了一款坦克造型的蛋糕，被全网封杀了。我猜他和多数中国年轻人一样根本不知道6月4日这天和坦克有什么关系。<br><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUUAEzFtp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDOVIAA92ft?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDMUsAA4Kwt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUEAE0cE8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。
 
 ### 4: [2022-06-06 01:51:19+08:00 推文](https://twitter.com/realcaixia/status/1533506769783226370)
 
@@ -73,11 +73,11 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 15: [2022-06-09 00:00:05+08:00 推文](https://twitter.com/realcaixia/status/1534565938405617664)
 
-从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。
+从小在中共洗脑欺骗下，我曾经以为“国民党反动派”这六个字是必须连读的一个“专用”名词，反动派是国民党的专利。在我逐步清除极权统治的谎言宣传洗脑毒害过程中，才明白一切反时代前进潮流而动的政治集团都是反动派。习当局就是反动派，他们岂只是开倒车、阻挡中国历史前进，他们是反动，反文明反人性。<br><br>LeLeFarley 乐乐法利: 喔！这段儿我在历史书上看过不止一次👍<br><br><img style="" src="https://pbs.twimg.com/media/FUqWGipWYAE3_6Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-06-09 20:43:51+08:00 推文](https://twitter.com/realcaixia/status/1534878944360644608)
 
-这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。<br><br>RICHARD FULL: 6月3日晚，在维多利亚公园（香港六四烛光晚会曾经一直在这里举行，直到2020年被禁止），一名男子坐在那里看书，面前放着两根电蜡烛。警察搜查了他的包，问他在那里做什么。他说，"无可奉告"。<br><br>重压之下云淡风轻，了不起的香港人👍<br><br><img style="" src="https://pbs.twimg.com/media/FUXT5nPUcAEgLZb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这就是反抗专制，维护自由香港精神，港人光复香港终有一天会到来。
 
 ### 17: [2022-06-09 20:52:33+08:00 推文](https://twitter.com/realcaixia/status/1534881131392294919)
 
