@@ -57,3 +57,9 @@ This submission has been removed because it violates our ['20-Year Rule'](http:/
 
 This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
 
+### 759: [Many former British colonies, especially in Oceania, South Asia, and the Carribbean, are quite keen – to say the least – on cricket, and consistently perform very well at the international level. Why is this not also the case for Canada?](https://old.reddit.com/r/AskHistorians/comments/x0olcj/many_former_british_colonies_especially_in/), submitted on 2022-08-29 21:19:09+08:00.
+
+----- __759.1__ -----2022-08-29 22:04:03+08:00:
+
+Ah, thanks for the link, and thanks u/McFoodBot!
+
