@@ -469,3 +469,9 @@ I got very confused seeing vagueposts about this on Twitter so it's helpful that
 
 There's a distinction, I would argue, between theory and methodology. A theory is essentially a prescriptive model derived from descriptive study – you look at X phenomenon, and from that you derive conclusions that will, if the theory holds, apply to all instances of X phenomenon. Historians *tend* not to take this approach, but they may nevertheless make use of consistent methodologies that inform the sorts of information analysed, and the methods used in doing so.
 
+----- __753.3__ -----2022-08-29 19:24:03+08:00:
+
+> But there are absolutely theories of methodology. Certain types of events has proved to be amenable to certain types of analysis and should be best analyzed that way. Or certain types of evidence are particularly good for certain types of questions.
+
+Sure, but you're not applying a theory to the events you're studying, you're applying a theory to your method of analysis, which is a meaningful layer of separation. Something like 'glocalisation is a viable framework for analysing 19th century Christian movements' does not mean you can take conclusions obtained by studying the Taiping and apply them wholesale to Mormonism, for instance. It means you will look at both phenomena through a lens in which Christianity as a global belief system comes to be reinvented in a locally-specific context, on their own individual terms.
+
