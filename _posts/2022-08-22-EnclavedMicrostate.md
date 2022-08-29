@@ -449,6 +449,10 @@ In addition, although the evidence for this is necessarily thin, low-level anti-
 
 * David G. Atwill, *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873* (2006)
 
+----- __752.3__ -----2022-08-29 13:01:21+08:00:
+
+A number of societies have historically used 'Tartar' as a catch-all, often derogatory, for nomadic societies and peoples as well as non-nomadic tribes connected with the Mongolic steppe, although its use in both English and in Sinitic languages is somewhat of a product of coincidence. Mandarin *dada* 韃靼 ultimately derives from a Khitan term for the Shiwei 室韋 people, which was then somewhat reified during Mongol rule in China as a term for Mongolic peoples; 'Tartar' meanwhile was used as a term for the Mongols in Latin texts and so entered the European lexicon. The Manchus, while not nomadic themselves, were sufficiently associated with the nomadic world by Han Chinese and European observers alike that 'Tartar' and its derivatives were readily used by both, with the specific Taiping formulation likely being *dayao* 韃妖 'Tar[tar] demon'.
+
 ### 753: [[Hobby Scuffles] Week of August 29, 2022 (Poll)](https://old.reddit.com/r/HobbyDrama/comments/wzxiv6/hobby_scuffles_week_of_august_29_2022_poll/), submitted on 2022-08-28 23:00:17+08:00.
 
 ----- __753.1__ -----2022-08-29 08:23:46+08:00:
