@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 

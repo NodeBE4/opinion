@@ -463,3 +463,9 @@ This is in some ways a bigish question outside my core area, but in short, it ha
 
 I got very confused seeing vagueposts about this on Twitter so it's helpful that there's at least *one* summary somewhere!
 
+----- __753.2__ -----2022-08-29 18:38:10+08:00:
+
+> But I cannot literally understand how many discipline could ever seriously make the claim that it just simply doesn't use theories. Even in terms of simply studying historical happenstance, from a pure epistemological perspective, concepts of what evidence is relevant while what is irrelevant would involve theories?
+
+There's a distinction, I would argue, between theory and methodology. A theory is essentially a prescriptive model derived from descriptive study – you look at X phenomenon, and from that you derive conclusions that will, if the theory holds, apply to all instances of X phenomenon. Historians *tend* not to take this approach, but they may nevertheless make use of consistent methodologies that inform the sorts of information analysed, and the methods used in doing so.
+
