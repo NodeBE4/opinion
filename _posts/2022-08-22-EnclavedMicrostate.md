@@ -475,3 +475,13 @@ There's a distinction, I would argue, between theory and methodology. A theory i
 
 Sure, but you're not applying a theory to the events you're studying, you're applying a theory to your method of analysis, which is a meaningful layer of separation. Something like 'glocalisation is a viable framework for analysing 19th century Christian movements' does not mean you can take conclusions obtained by studying the Taiping and apply them wholesale to Mormonism, for instance. It means you will look at both phenomena through a lens in which Christianity as a global belief system comes to be reinvented in a locally-specific context, on their own individual terms.
 
+----- __753.4__ -----2022-08-29 20:17:45+08:00:
+
+> Using the glocalisation example, presumably your theory has some set of local characteristics for Taiping that determines your conclusions there. There is implicitly a theory there - if another location that also had those same conditions existed, it would have behaved similarly. Perhaps something close but not the same across those conditions would be expected to have acted similarly but not the same.
+
+I mean if you say so, but from my point of view, it's as simple as saying that this could *only* happen for the Taiping, because the historical field deals in contingencies. *No* other location will have those same conditions, and even a 99% similarity is still meaningfully different.
+
+> Ignoring that point, you've fully articulated a theory. No theory of economics or any largely empirical social science of which I'm aware would ever predict two different things like in your example to behave exactly the same. Instead, you get trends or relationships in almost the exact same way you described.
+
+But you've simply asserted that what I'm propounding is a theory. In what way is 'you could use this method of analysis in these two cases' a statement that we can derive predictable conclusions? The 'trend' or 'relationship' would derive solely from the fact that one chose to use that particular methodology. If I do not choose to use a glocalisation framework, then I will not be seeking – and therefore unlikely to find – patterns aligning with it.
+
