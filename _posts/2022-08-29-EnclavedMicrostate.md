@@ -29,6 +29,10 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Terrifying to imagine that AskHistorians is now a tween!
 
+----- __755.2__ -----2022-08-29 21:36:35+08:00:
+
+I can't claim to have discovered them for particularly amazing reasons, purely that we apparently share VTuber oshis.
+
 ### 756: [Kobo Regis stream that that keeps on giving](https://old.reddit.com/r/Hololive/comments/x00hwc/kobo_regis_stream_that_that_keeps_on_giving/), submitted on 2022-08-29 01:09:00+08:00.
 
 ----- __756.1__ -----2022-08-29 13:37:05+08:00:
