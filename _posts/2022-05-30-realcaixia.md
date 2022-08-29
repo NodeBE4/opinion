@@ -49,7 +49,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 9: [2022-06-02 23:11:45+08:00 推文](https://twitter.com/realcaixia/status/1532379450226225152)
 
-记住六.四！
+记住六.四！<br><br>周锋锁 Fengsuo Zhou: 江林的经历，是近年来最重要的八九六四新证词。这件保存了三十三年的血衣，见证了她在六四屠杀中生死之交的抉择，也带出了当年军队内部反对戒严的历史事实。<br>她和张胜一家被戒严部队暴力殴打到致命程度，张胜儿子手指打断被捕。<br>张胜是总参作战部战役局局长，父亲张爱萍领衔七上将公开反对军队武力进城<br> <a href="https://twitter.com/voachinese/status/1531494177195712512" target="_blank" rel="noopener noreferrer">https://twitter.com/voachinese/status/1531494177195712512</a>
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
@@ -85,7 +85,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+昨晚我在现场。
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
