@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-29
+date: 2022-08-30
 from: https://twitter.com/HeQinglian/status/1563958403998834694
 layout: post
 tags:
@@ -86,4 +86,12 @@ Re @dinglili7 说实在的，可能我们这些中国来的人，对美国此刻
 ### 18: [2022-08-29 23:07:31+08:00 推文](https://twitter.com/HeQinglian/status/1564268513983959040)
 
 Re @fading_you1 除了第一条之外，其余三条是肯定的，目前都已经有苗头。<br>经济拉美化，如果是指委内瑞拉，那是有可能的。民主党当政，十年可期。
+
+### 19: [2022-08-30 04:42:22+08:00 推文](https://twitter.com/HeQinglian/status/1564352781393223685)
+
+Re @Wu_Zhi 也许我们都不了解瑞典人。
+
+### 20: [2022-08-30 04:43:26+08:00 推文](https://twitter.com/HeQinglian/status/1564353050562756612)
+
+Re @Wu_Zhi 重要的是姿态。
 
