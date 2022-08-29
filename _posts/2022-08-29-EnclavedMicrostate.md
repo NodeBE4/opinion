@@ -29,3 +29,27 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 Terrifying to imagine that AskHistorians is now a tween!
 
+### 756: [Kobo Regis stream that that keeps on giving](https://old.reddit.com/r/Hololive/comments/x00hwc/kobo_regis_stream_that_that_keeps_on_giving/), submitted on 2022-08-29 01:09:00+08:00.
+
+----- __756.1__ -----2022-08-29 13:37:05+08:00:
+
+> Noel has shifted some attention to Shuba
+
+This can be a bit misunderstood – to paraphrase Noel herself, ['Subaru is my oshi, Flare is *[kiss noises]*.'](https://youtu.be/4TaTV1EQ2Zs?t=482)
+
+----- __756.2__ -----2022-08-29 13:40:14+08:00:
+
+You might be conflating it a bit with Nijisanji's Tomoe and Kana (aka Crossick), who have quite publicly tried to downplay the existence of a ship dynamic at least at present. Noel and Flare definitely dropped aspects that were being 'played up for the camera' so to speak around this time last year, but they've not really overtly said to cut it out the way Kiara did.
+
+### 757: [At what point were the Nazis completely “gone”? Are they even gone?](https://old.reddit.com/r/AskHistorians/comments/x0eloo/at_what_point_were_the_nazis_completely_gone_are/), submitted on 2022-08-29 11:42:16+08:00.
+
+----- __757.1__ -----2022-08-29 13:43:32+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
+### 758: [Does the Soviet Union bear more responsibility for WWII?](https://old.reddit.com/r/AskHistorians/comments/x0fsdy/does_the_soviet_union_bear_more_responsibility/), submitted on 2022-08-29 12:44:58+08:00.
+
+----- __758.1__ -----2022-08-29 13:42:41+08:00:
+
+This question has been removed because it is [soapboxing](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22soapboxing.22_or_loaded_questions.) or otherwise a [loaded question](https://www.reddit.com/r/AskHistorians/comments/glq47z/rules_roundtable_xiii_soapboxing_loaded_questions/): it has the effect of promoting an existing interpretation or opinion at the expense of open-ended enquiry. Although we understand if you may have an existing interest in the topic, expressing a detailed opinion on the matter in your question is usually a sign that it is a loaded one, and we will remove questions that appear to put a deliberate slant on their subject or solicit answers that align with a specific pre-existing view.
+
