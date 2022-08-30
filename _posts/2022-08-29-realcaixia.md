@@ -33,7 +33,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 5: [2022-08-30 11:04:38+08:00 推文](https://twitter.com/realcaixia/status/1564448983434641408)
 
-全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br>
+全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br> <a href="https://twitter.com/im1266/status/1564393817524109319" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1564393817524109319</a>
 
 ### 6: [2022-08-30 23:21:13+08:00 推文](https://twitter.com/realcaixia/status/1564634352360865799)
 
