@@ -79,6 +79,10 @@ No, these were not explicitly supporting the Taiping, but they were very clearly
 
 Should I be shocked that you've chosen to read this article entirely tendentiously? Probably not.
 
+----- __729.6__ -----2022-08-30 10:13:29+08:00:
+
+I was not satisfied you had meaningfully responded to me, and saw no reason to return the courtesy. Good day, sir.
+
 ### 730: [Magical Michelada Mondays - Weekly Discussion Thread, August 22nd, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/wuw70t/magical_michelada_mondays_weekly_discussion/), submitted on 2022-08-22 23:10:16+08:00.
 
 ----- __730.1__ -----2022-08-23 10:39:39+08:00:

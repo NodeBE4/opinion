@@ -37,11 +37,11 @@ Re @GuRu_999999 请你拿出你的论文来。
 
 ### 6: [2022-07-26 00:09:30+08:00 推文](https://twitter.com/realcaixia/status/1551600538218905600)
 
-关注。
+关注。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我还被堵在凤县的高速路口，来了很多公安和特警<br><br><img style="" src="https://pbs.twimg.com/media/FYgcO6lUsAAN7hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6oUIAIfzjq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6oUcAIPv-2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6qVUAA3jaS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-07-26 00:12:55+08:00 推文](https://twitter.com/realcaixia/status/1551601399795965953)
 
-常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我的车周围围满了车，有公安、特警标记，还有社会车辆，刚刚还有穿着防化服的人来敲我的车窗，天已经黑了，请大家关注我和孩子及我母亲的安危<br><br><img style="" src="https://pbs.twimg.com/media/FYg3GtUVUAEuEPh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。
 
 ### 8: [2022-07-26 20:50:08+08:00 推文](https://twitter.com/realcaixia/status/1551912755179012096)
 
@@ -85,11 +85,11 @@ Re 请点击最上推文中的完整链接，可以观看电影《一九八四�
 
 ### 18: [2022-07-29 09:13:26+08:00 推文](https://twitter.com/realcaixia/status/1552824587611766784)
 
-支持王爱忠律师！支持王爱忠律师夫人王贺楠女士。很多朋友在关心着王爱忠律师的情况。
+支持王爱忠律师！支持王爱忠律师夫人王贺楠女士。很多朋友在关心着王爱忠律师的情况。<br><br>王贺楠: 第一次在室外录视频还有些不习惯，一会儿律师会见爱忠。<br><br><video src="https://video.twimg.com/ext_tw_video/1552480365045895168/pu/vid/720x960/yI3fa0VZQCJZCC60.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552480365045895168/pu/img/AVjw0XaT5rD2h28T.jpg"></video>
 
 ### 19: [2022-07-29 09:16:30+08:00 推文](https://twitter.com/realcaixia/status/1552825358306742273)
 
-高福主任提的问题很到位，很讲理。<br><br>谷风: 以习近平的性格和习惯，单凭你这番话，就可以把你腐败，还说你妄议中央，现在让你下岗算是给足你面子：<br><br><video src="https://video.twimg.com/ext_tw_video/1552598846781370368/pu/vid/496x638/TkmaJhg8sznH77rc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552598846781370368/pu/img/vZqcDoYU9Qmub0ME.jpg"></video>
+高福主任提的问题很到位，很讲理。
 
 ### 20: [2022-07-30 07:36:43+08:00 推文](https://twitter.com/realcaixia/status/1553162636401037314)
 
@@ -109,7 +109,7 @@ Re @guidepeter2004 我不太清楚怎么能买到书，想了解多一些李锐�
 
 ### 24: [2022-07-31 18:47:49+08:00 推文](https://twitter.com/realcaixia/status/1553693913738887169)
 
-非常了不起的大翻译运动！非常优秀的年轻人！<br><br>The Great Translation Movement 大翻译运动官方推号: <br><br><img style="" src="https://pbs.twimg.com/media/FY6wB18VsAMh5VY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xPaxUIAAuqRD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xQeXUcAAlEQ9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+非常了不起的大翻译运动！非常优秀的年轻人！
 
 ### 25: [2022-07-31 20:00:44+08:00 推文](https://twitter.com/realcaixia/status/1553712261545529344)
 

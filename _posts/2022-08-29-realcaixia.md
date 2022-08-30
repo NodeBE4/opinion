@@ -27,3 +27,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
 
+### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
+
+这12项呼吁确实既是直接事关切身权益、反映民心所系的当下现实问题，又是关系到中国人未来命运的大事。<br><br>Henry Chang: 微信：12项呼吁<br>停止动态清零政策；反对在开学前对学生们进行核酸检测、打疫苗；提升人权保障，纠正极左政策；停止国进民退、公私合营、打压民营企业；停止倒向北朝鲜化；落实一国两制；停止无度的援外；停止支持俄入侵乌；立即停止战狼外交；与西方国家搞好关系；拿出发展硬招；换人、换思维、换制度<br>
+
+### 5: [2022-08-30 11:04:38+08:00 推文](https://twitter.com/realcaixia/status/1564448983434641408)
+
+全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br> <a href="https://twitter.com/im1266/status/1564393817524109319" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1564393817524109319</a>
+
