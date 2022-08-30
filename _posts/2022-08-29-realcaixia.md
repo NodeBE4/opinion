@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-30
+date: 2022-08-31
 from: https://twitter.com/realcaixia/status/1564107952738508801
 layout: post
 tags:
@@ -33,7 +33,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 5: [2022-08-30 11:04:38+08:00 推文](https://twitter.com/realcaixia/status/1564448983434641408)
 
-全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br> <a href="https://twitter.com/im1266/status/1564393817524109319" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1564393817524109319</a>
+全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br>
 
 ### 6: [2022-08-30 23:21:13+08:00 推文](https://twitter.com/realcaixia/status/1564634352360865799)
 
@@ -42,4 +42,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 ### 7: [2022-08-30 23:52:06+08:00 推文](https://twitter.com/realcaixia/status/1564642124452298752)
 
 这好比中美民间关系的状况。美国民众许多人想象不出极权统治有多邪恶，政府公然撒谎、官员暴打民众、民众住房被强拆、企业家一夜之间被秘密关押……，中国许多人想象不出民众进议会听议员辩论、把部长叫去质询，想象不出自己组党参加竞选，想象不出不送礼官员怎么会帮自己解决问题，想象不出………<br><br>躲猫猫3.0: 二维世界的母亲教不了三维世界的儿子<br>一切科学发明创造都依赖于想象力发达的人。一个不敢想不敢说不敢做的人，能会有怎样的发展呢？而想象力丰富的人必然会有奇思妙想，甚至已经超越别人的想法。<br>丘吉尔说 “ 我不相信一个限制人头脑的国家，一个禁锢人思想的国家，会成为世界的老大。”<br>这话，深以为然<br><br><video src="https://video.twimg.com/ext_tw_video/1564371867552587778/pu/vid/720x1270/zLWpIDBTgJAwPi-8.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1564371867552587778/pu/img/F7kvtu2RBJCncnTh.jpg"></video>
+
+### 8: [2022-08-31 02:23:41+08:00 推文](https://twitter.com/realcaixia/status/1564680270795661313)
+
+苛政猛于虎！政府鱼肉平民到如此不可思议的程度，直接撕开“为人民服务”‘“人民利益之上”宣传的虚伪无耻。<br><br>《议报》: 章小舟 | 史眼下的习共腐恶：以“一菜罚万金”为例<br> <a href="https://yibaochina.com/?p=247615" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247615</a>
+
+### 9: [2022-08-31 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1564681658191777793)
+
+推荐这篇议报发布的文章，作者对佩洛西访台后的中美台关系谈到台湾内部的九合一选举的影响，角度很好，值得一读。<br><br>《议报》: 苏稳中 | 斐洛西访台对2022年九合一选举的影响评估<br> <a href="https://yibaochina.com/?p=247612" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247612</a>
+
+### 10: [2022-08-31 02:32:58+08:00 推文](https://twitter.com/realcaixia/status/1564682607832473604)
+
+作者提出了一个重大问题：考察与研究21世纪信息文明条件下的极权主义。<br><br>《议报》: 潘新智 | 呼唤当代的汉娜·阿伦特<br> <a href="https://yibaochina.com/?p=247608" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247608</a>
 
