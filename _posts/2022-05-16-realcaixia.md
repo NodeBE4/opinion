@@ -81,7 +81,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？<br><br>荣剑: 虽然今天关于李总的消息爆屏了，但也有坏消息，有人因为越来越喜欢总理而招致删帖扣分处理 。这世道越来越看不明白了。<br><br><img style="" src="https://pbs.twimg.com/media/FTC8FUcVIAA1d2R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1526848927768510464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526848927768510464</a>
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
@@ -125,7 +125,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
+技術改進一小步，獲取信息一大步。
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 
