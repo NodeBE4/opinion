@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
@@ -81,7 +81,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 17: [2022-07-21 00:25:41+08:00 推文](https://twitter.com/realcaixia/status/1549792672059121672)
 
-在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。
+在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。<br><br>反对独裁专治政权: 中共国的法盲警察<br><br><video src="https://video.twimg.com/ext_tw_video/1549115735837798400/pu/vid/636x360/SADqJ1LyhnRFx2da.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549115735837798400/pu/img/id03pZkPaj2iEbsE.jpg"></video>
 
 ### 18: [2022-07-21 00:44:19+08:00 推文](https://twitter.com/realcaixia/status/1549797359642710016)
 
@@ -93,7 +93,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>hanbugerger: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
@@ -125,7 +125,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 28: [2022-07-22 05:48:02+08:00 推文](https://twitter.com/realcaixia/status/1550236182981869575)
 
-清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！
+清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！<br><br>高瑜: 清華最近張貼出《從法西斯手中保衛生活》的傳單，校方緊張搜捕張貼者。傳單開宗明義：公開的法西斯主義被消滅近80年，今天的法西斯主義，以“習慣”的形式侵蝕我們的生活和我們的道德。我們變得冷漠而殘忍，以他人的痛苦為樂，我們為仇恨言論所吸引，自以為能在叢林競爭中獲得優勝。張貼者號召：<br><br><img style="" src="https://pbs.twimg.com/media/FYKb7LJagAEWTIr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-07-22 05:54:47+08:00 推文](https://twitter.com/realcaixia/status/1550237880592859138)
 
