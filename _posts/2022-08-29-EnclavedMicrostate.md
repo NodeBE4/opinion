@@ -67,3 +67,11 @@ Ah, thanks for the link, and thanks u/McFoodBot!
 
 Thanks! The point about white vs minority experiences is an especially appreciated one.
 
+### 761: [Look at that Smug face!](https://old.reddit.com/r/Hololive/comments/x0pl2e/look_at_that_smug_face/), submitted on 2022-08-29 22:03:13+08:00.
+
+----- __761.1__ -----2022-08-30 20:29:28+08:00:
+
+> For a 10-centimeter thick strip of fabric
+
+...10 centimetres thick!?
+
