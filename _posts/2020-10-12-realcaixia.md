@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2020-10-12~2020-10-18'
 
 ### 2: [2020-10-13 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1315778676261302274)
 
-Re 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。<hr><small>10/13/2020, 6:17:37 AM</small>
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
@@ -37,7 +37,7 @@ Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供�
 
 ### 6: [2020-10-13 08:04:41+08:00 推文](https://twitter.com/realcaixia/status/1315805620411469824)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 3，中共强化极权统治的一个重要标志就是警察头子提升官职级别，周永康当中央政治局常委、中央政法委书记期间，省公安厅长级别提高半级兼任副省长，自此以后，各级公安机构照此办理，都提高半级兼政法委书记、兼副市长进常委会。现在此做法一直延伸到社会最基层—乡镇街道。<hr><small>10/13/2020, 8:04:41 AM</small>
+Re 3，中共强化极权统治的一个重要标志就是警察头子提升官职级别，周永康当中央政治局常委、中央政法委书记期间，省公安厅长级别提高半级兼任副省长，自此以后，各级公安机构照此办理，都提高半级兼政法委书记、兼副市长进常委会。现在此做法一直延伸到社会最基层—乡镇街道。
 
 ### 7: [2020-10-13 08:05:29+08:00 推文](https://twitter.com/realcaixia/status/1315805822493097985)
 
@@ -57,7 +57,7 @@ Re @zfb468590 谢谢您看的仔细。
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
-最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/14/2020, 8:37:45 AM</small>
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 

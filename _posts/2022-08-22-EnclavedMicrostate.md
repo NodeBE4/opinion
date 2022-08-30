@@ -365,15 +365,23 @@ or
 
 "Is there a historical continuity to the animosity between India and Pakistan that we can trace into the past beyond the period of British colonialism?
 
-### 750: [What do people use to take notes?](https://old.reddit.com/r/oxforduni/comments/wz6ztw/what_do_people_use_to_take_notes/), submitted on 2022-08-28 00:26:19+08:00.
+### 750: [Kiosk selling kids toys and adult reading material.](https://old.reddit.com/r/mildlyinteresting/comments/wyvek4/kiosk_selling_kids_toys_and_adult_reading_material/), submitted on 2022-08-27 14:16:56+08:00.
 
------ __750.1__ -----2022-08-28 01:09:05+08:00:
+----- __750.1__ -----2022-08-30 19:08:31+08:00:
+
+> I’m pretty sure that this stall is located in Tsim Sha Tsui, near a pier.
+
+Even says Star Ferry in the top right corner!
+
+### 751: [What do people use to take notes?](https://old.reddit.com/r/oxforduni/comments/wz6ztw/what_do_people_use_to_take_notes/), submitted on 2022-08-28 00:26:19+08:00.
+
+----- __751.1__ -----2022-08-28 01:09:05+08:00:
 
 This will ultimately depend on your subject. As a history student I mostly typed my reading notes and wrote lecture and tutorial notes, and ultimately I feel I generally got more out of reading than discussion although the latter was still vital to actually refining my thoughts. Going back later, it was very useful to have easily searchable and well-organised notes on my laptop.
 
-### 751: [Why didn't China invade the port of Tsingtao in WWI?](https://old.reddit.com/r/AskHistorians/comments/wz84eh/why_didnt_china_invade_the_port_of_tsingtao_in_wwi/), submitted on 2022-08-28 01:13:39+08:00.
+### 752: [Why didn't China invade the port of Tsingtao in WWI?](https://old.reddit.com/r/AskHistorians/comments/wz84eh/why_didnt_china_invade_the_port_of_tsingtao_in_wwi/), submitted on 2022-08-28 01:13:39+08:00.
 
------ __751.1__ -----2022-08-28 15:29:55+08:00:
+----- __752.1__ -----2022-08-28 15:29:55+08:00:
 
 The First World War in Europe is generally considered to have broken out on 28 July 1914 with the Austro-Hungarian declaration of war on Serbia. On 4 August, German troops crossed the Belgian border, and the United Kingdom declared war at midnight. At this juncture, Britain also moved to activate its alliance with Japan, which formally issued an ultimatum to Germany on 15 August, formally declaring war on the 23rd. On 2 September, the Japanese army landed in Shandong and encircled the German colony at Qingdao, whose defenders surrendered on 7 November. In short, the window in which the Republic of China could conceivably have attacked the port was incredibly brief, assuming that they could even reach a firm decision on which side to back. Bear in mind that the Qingdao campaign was merely one part of what was becoming a global conflict, centred on Europe. While the ROC might reasonably bet that the Central Powers would lose in Asia in 1914, they could not have been certain that the Entente/Allied powers would ultimately win in Europe, and that choosing their side too early might not backfire.
 
@@ -401,9 +409,9 @@ So, the Republic of China *did* actually come very close to attacking Qingdao. T
 
 * Hans van de Ven, 'Public Finance and the Rise of Warlordism', *Modern Asian Studies* 30:4 (1996)
 
-### 752: [Anti-Manchu racism played a central part in many anti-Qing ideologies, such as those of the Taipings. To what extent were such ideas popular amongst ordinary Han Chinese? Were ordinary Manchus affected? What happened to such ideas after the Qing overthrow?](https://old.reddit.com/r/AskHistorians/comments/wzt8kn/antimanchu_racism_played_a_central_part_in_many/), submitted on 2022-08-28 19:29:50+08:00.
+### 753: [Anti-Manchu racism played a central part in many anti-Qing ideologies, such as those of the Taipings. To what extent were such ideas popular amongst ordinary Han Chinese? Were ordinary Manchus affected? What happened to such ideas after the Qing overthrow?](https://old.reddit.com/r/AskHistorians/comments/wzt8kn/antimanchu_racism_played_a_central_part_in_many/), submitted on 2022-08-28 19:29:50+08:00.
 
------ __752.1__ -----2022-08-29 00:01:16+08:00:
+----- __753.1__ -----2022-08-29 00:01:16+08:00:
 
 It would, I would suggest, be more than accurate to say that there was a popular dimension to anti-Manchuism, and that it was not strictly an elite phenomenon. The problem with discussing it is that working-class Chinese voices rarely come through in the sources directly. Elite anti-Manchuism is much easier to discuss because, in contrast, elites wrote a lot more and things that elites wrote survived much more easily. We don't have essays by Chinese farmers arguing that enforced miscegenation of Han and Manchus was necessary to preserve Manchu bloodlines through the inevitable upcoming race war between whites and East Asians, but we do have them from elite writers like Liang Qichao. Instead, we often have to apply a layer of interpretation to mass action, and that requires that there is some anti-Manchu action to analyse. In periods when there were not enough tensions to boil over into open action, we may not really be able to say how far there were such tensions, if any at all.
 
@@ -433,7 +441,7 @@ Nor were Manchus outside established garrisons particularly safe, as, on the day
 
 Now, in all of the above cases, most of the massacring was carried out principally under the auspices of the heavily-radicalised military, rather than the population at large. But even so, it seems an unavoidable conclusion that anti-Manchuism was generally widespread, even if the exact nature of how it manifested – in Taiping-style genocidal mode in Wuchang and Xi'an, or Yunnan-style anti-government mode in Jingzhou – varied from one place to another.
 
------ __752.2__ -----2022-08-29 00:18:54+08:00:
+----- __753.2__ -----2022-08-29 00:18:54+08:00:
 
 In the wake of the revolution, anti-Manchu rhetoric did not vanish outright, but it did diminish considerably in the political sphere if for no other reason than that the pragmatic arguments behind it (principally related to the Manchus' apparent institutional privileges) no longer applied. The Manchus were also helped by the fact that the Revolution led to the installation of an old imperial loyalist, Yuan Shikai, as President, who sought to limit the damage caused to the integrity of the empire as a political formation and offered what clemency and incentives he could to its principal non-Han populations. It is also worth considering that the primacy of anti-Manchuism as a core position among revolutionary ideologues may already have been declining by 1911, if for no other reason than that a purely Han-centric state might have difficulty justifying attempts to retain claims to the wider imperial space of the Qing Empire, without resorting to the rather self-contradictory but nevertheless quite widespread notion of empire as the natural extension of a nation too vibrant to remain within its own natural boundaries – an idea we can easily argue similarly applied to Japan and the European powers. Both the conservative and radical factions within the post-imperial state had obvious incentives to rapidly pivot away from overt anti-Manchuism in favour of an at least nominal state of multiethnic egalitarianism.
 
@@ -453,33 +461,33 @@ In addition, although the evidence for this is necessarily thin, low-level anti-
 
 * David G. Atwill, *The Chinese Sultanate: Islam, Ethnicity, and the Panthay Rebellion in Southwest China, 1856-1873* (2006)
 
------ __752.3__ -----2022-08-29 13:01:21+08:00:
+----- __753.3__ -----2022-08-29 13:01:21+08:00:
 
 A number of societies have historically used 'Tartar' as a catch-all term, often derogatorily, for nomadic societies and peoples as well as non-nomadic tribes connected with the Mongolic steppe, although its use in both English and in Sinitic languages is somewhat of a product of coincidence. Mandarin *dada* 韃靼 ultimately derives from a Khitan term for the Shiwei 室韋 people, which was then somewhat reified during Mongol rule in China as a term for Mongolic peoples; 'Tartar' meanwhile was used as a term for the Mongols in Latin texts and so entered the European lexicon. The Manchus, while not nomadic themselves, were sufficiently associated with the nomadic world by Han Chinese and European observers alike that 'Tartar' and its derivatives were readily used by both, with the specific Taiping formulation likely being *dayao* 韃妖 'Tar[tar] demon'.
 
------ __752.4__ -----2022-08-29 13:07:20+08:00:
+----- __753.4__ -----2022-08-29 13:07:20+08:00:
 
 This is in some ways a bigish question outside my core area, but in short, it has to do with Social Darwinism, a pseudoscientific ideology particularly prominent in the late nineteenth and early twentieth centuries predicated on the assertion that there was an innate notion of racial difference between different human ethnic groups. Some formulations of Social Darwinist thought, especially those prominent in China, asserted that these different races (often broadly categorised as white, black, red, and yellow) would ultimately engage in a struggle for the survival of the fittest, and that it was therefore in the interests of the 'yellow' peoples of East Asia to unite and establish a common front against the 'white' peoples of Europe in order to win out in that coming struggle. Some proponents like Liang Qichao believed that the Manchus, while under the 'yellow' umbrella, were a lesser subrace whose position of dominance over the Han was an aberrant fluke, and that they would either have to be absorbed into the wider Han-led racial paradigm, or eradicated, be it by the Han themselves or as some of the first casualties in the race war.
 
-### 753: [[Hobby Scuffles] Week of August 29, 2022 (Poll)](https://old.reddit.com/r/HobbyDrama/comments/wzxiv6/hobby_scuffles_week_of_august_29_2022_poll/), submitted on 2022-08-28 23:00:17+08:00.
+### 754: [[Hobby Scuffles] Week of August 29, 2022 (Poll)](https://old.reddit.com/r/HobbyDrama/comments/wzxiv6/hobby_scuffles_week_of_august_29_2022_poll/), submitted on 2022-08-28 23:00:17+08:00.
 
------ __753.1__ -----2022-08-29 08:23:46+08:00:
+----- __754.1__ -----2022-08-29 08:23:46+08:00:
 
 I got very confused seeing vagueposts about this on Twitter so it's helpful that there's at least *one* summary somewhere!
 
------ __753.2__ -----2022-08-29 18:38:10+08:00:
+----- __754.2__ -----2022-08-29 18:38:10+08:00:
 
 > But I cannot literally understand how many discipline could ever seriously make the claim that it just simply doesn't use theories. Even in terms of simply studying historical happenstance, from a pure epistemological perspective, concepts of what evidence is relevant while what is irrelevant would involve theories?
 
 There's a distinction, I would argue, between theory and methodology. A theory is essentially a prescriptive model derived from descriptive study – you look at X phenomenon, and from that you derive conclusions that will, if the theory holds, apply to all instances of X phenomenon. Historians *tend* not to take this approach, but they may nevertheless make use of consistent methodologies that inform the sorts of information analysed, and the methods used in doing so.
 
------ __753.3__ -----2022-08-29 19:24:03+08:00:
+----- __754.3__ -----2022-08-29 19:24:03+08:00:
 
 > But there are absolutely theories of methodology. Certain types of events has proved to be amenable to certain types of analysis and should be best analyzed that way. Or certain types of evidence are particularly good for certain types of questions.
 
 Sure, but you're not applying a theory to the events you're studying, you're applying a theory to your method of analysis, which is a meaningful layer of separation. Something like 'glocalisation is a viable framework for analysing 19th century Christian movements' does not mean you can take conclusions obtained by studying the Taiping and apply them wholesale to Mormonism, for instance. It means you will look at both phenomena through a lens in which Christianity as a global belief system comes to be reinvented in a locally-specific context, on their own individual terms.
 
------ __753.4__ -----2022-08-29 20:17:45+08:00:
+----- __754.4__ -----2022-08-29 20:17:45+08:00:
 
 > Using the glocalisation example, presumably your theory has some set of local characteristics for Taiping that determines your conclusions there. There is implicitly a theory there - if another location that also had those same conditions existed, it would have behaved similarly. Perhaps something close but not the same across those conditions would be expected to have acted similarly but not the same.
 
