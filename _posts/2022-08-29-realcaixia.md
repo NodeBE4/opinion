@@ -25,7 +25,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 3: [2022-08-30 06:45:24+08:00 推文](https://twitter.com/realcaixia/status/1564383744047333376)
 
-这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/KathyHu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/KathyHu56423186/status/1562452514947362816</a>
+这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
 
 ### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
 
@@ -33,7 +33,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 5: [2022-08-30 11:04:38+08:00 推文](https://twitter.com/realcaixia/status/1564448983434641408)
 
-全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br> <a href="https://twitter.com/im1266/status/1564393817524109319" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1564393817524109319</a>
+全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br>
 
 ### 6: [2022-08-30 23:21:13+08:00 推文](https://twitter.com/realcaixia/status/1564634352360865799)
 
@@ -54,4 +54,40 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 ### 10: [2022-08-31 02:32:58+08:00 推文](https://twitter.com/realcaixia/status/1564682607832473604)
 
 作者提出了一个重大问题：考察与研究21世纪信息文明条件下的极权主义。<br><br>《议报》: 潘新智 | 呼唤当代的汉娜·阿伦特<br> <a href="https://yibaochina.com/?p=247608" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247608</a>
+
+### 11: [2022-08-31 02:53:50+08:00 推文](https://twitter.com/realcaixia/status/1564687855993094146)
+
+习意图闭关锁国，中国社科院历史研究院已经在做吹鼓手了。<br>特别推荐#议报发布《郁风 | 批驳历史研究院“闭国锁国有利论” -》，郁风这篇评论文章首先被大陆网管封杀，但网上依然舆论哗然，经历了解放思想改革开放、经历了加入WTO，中国人再不情愿被闭锁于国内，舆论汹涌。 <a href="https://yibaochina.com/?p=247620" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247620</a>
+
+### 12: [2022-08-31 03:07:04+08:00 推文](https://twitter.com/realcaixia/status/1564691189890273280)
+
+这个很形象<br><br>鱼眼观察S: @lianchaohan<br><br><img style="" src="https://pbs.twimg.com/media/FbaS7aJaQAA4MIK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-08-31 03:16:31+08:00 推文](https://twitter.com/realcaixia/status/1564693566705881089)
+
+为什么我看不到我的推特的点击数？昨天还都能看到。我为什么被限制？请教推友更请教推特后台管理系统<br><img style="" src="https://pbs.twimg.com/media/FbbogNjX0AAU5L0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbbogaAWQAAaez8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-08-31 03:55:37+08:00 推文](https://twitter.com/realcaixia/status/1564703407520219136)
+
+特别推荐：议报发布《鲁越：雷蒙·阿隆与萨特的世纪之争（三）》阿隆与萨特的思想理论之争，也是中国思想界必须经历、曾经经历和正在被中共严厉打压、努力寻求现代文明理念、解构共产主义乌托邦理论、摆脱现代极权奴役的痛苦的思想过程。没有这个过程就无法彻底摆脱共产主义极权的诱惑和欺骗。<br><br>《议报》: 鲁越 | 雷蒙·阿隆与萨特的世纪之争（第二回合）<br> <a href="https://yibaochina.com/?p=247623" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247623</a>
+
+### 15: [2022-08-31 03:59:50+08:00 推文](https://twitter.com/realcaixia/status/1564704465831215116)
+
+Re 作者鲁越是中国大陆的一位学者，他发表了系列文章谈雷蒙阿隆与萨特的争论以及法国左翼思想界的变化，相信读者会从中获得启发和激发更多的思考。
+
+### 16: [2022-08-31 04:02:29+08:00 推文](https://twitter.com/realcaixia/status/1564705136294903810)
+
+Re @IchiroJiang 我就是按您说的步骤操作的，我在我自己推特的页面上，但是无论如何也打不开具体分析页面。
+
+### 17: [2022-08-31 04:06:47+08:00 推文](https://twitter.com/realcaixia/status/1564706215682351106)
+
+再推荐#议报发布《秦先：致人民子弟兵的公开信》： <a href="https://yibaochina.com/?p=246969" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246969</a>
+
+### 18: [2022-08-31 04:10:12+08:00 推文](https://twitter.com/realcaixia/status/1564707075304951815)
+
+Re @qinxian54220128 谢谢您的提醒，我已经推荐发到推特上了。
+
+### 19: [2022-08-31 06:43:52+08:00 推文](https://twitter.com/realcaixia/status/1564745747043606533)
+
+曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br> <a href="https://twitter.com/GaoFalin/status/1563949162189791233" target="_blank" rel="noopener noreferrer">https://twitter.com/GaoFalin/status/1563949162189791233</a>
 
