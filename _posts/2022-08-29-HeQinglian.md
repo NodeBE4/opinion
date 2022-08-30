@@ -123,3 +123,51 @@ Re @seadognw 脸书有位台湾小年轻，将此图片配图，说是两代人�
 
 Re @FightForJiuCai 这事，只需要看路透消息就行了。如果是乌军胜利，路透不会漏了这条消息。如果是无法确认的消息，路透会转引乌军、俄军双方消息，并说明核实的情况，包括无法核实。<br>至今为止，路透只在信息战初期报道过一些假消息，后来全部澄清是假消息，采取上述报道模式。<br>如今为真，西方国家政府与西媒早就沸腾了。
 
+### 28: [2022-08-30 23:07:57+08:00 推文](https://twitter.com/HeQinglian/status/1564631012512043012)
+
+Re @SingXu @seadognw 从何谈起？他是公开发的，一大段说话，完全不是针对我。<br>逗你玩是真。
+
+### 29: [2022-08-30 23:10:48+08:00 推文](https://twitter.com/HeQinglian/status/1564631727745679364)
+
+Re @clamber100 @seadognw 劳动布与牛仔布有很大区别。上海大国营工厂的劳动布才能洗褪色，有点防皱功能。<br>我们邵阳湘印机从上海迁来，工作服是上海订制来的，非常抢手。不少人领了新工作服换当地土特产，如木耳、黄花、笋干带回去，双方都很乐意。
+
+### 30: [2022-08-30 23:11:32+08:00 推文](https://twitter.com/HeQinglian/status/1564631914203463691)
+
+Re @SingXu @seadognw 行了，这些我分得出。台湾限制言论了？
+
+### 31: [2022-08-30 23:13:23+08:00 推文](https://twitter.com/HeQinglian/status/1564632378286505985)
+
+Re @lawyer_sui 仅以水平而言，申作一定成功——只可惜，你没有著名作家加持。😉
+
+### 32: [2022-08-30 23:19:43+08:00 推文](https://twitter.com/HeQinglian/status/1564633973787082752)
+
+Re @shenliangqing2 有几部剧可以消暑。<br>谈二战与战后美占苏占德人生活的德剧：《我们的父辈》第一季、第二季（其实应该译成《冷杉溪》）、一部关于制作这两部剧的纪录片（采访经历者并成为创作原型的人物）<br><br>这样的好剧不太多。一九零零、巴尔干雄鹰系列是同类，葡萄牙的《庄园（遗产）》差了点。 <a href="https://open.163.com/newview/movie/free?pid=OFJIN5KPM&amp;mid=PFJIN5KQH" target="_blank" rel="noopener noreferrer">https://open.163.com/newview/movie/free?pid=OFJIN5KPM&amp;mid=PFJIN5KQH</a>
+
+### 33: [2022-08-30 23:21:13+08:00 推文](https://twitter.com/HeQinglian/status/1564634353182953472)
+
+Re @SingXu @seadognw 中国小年轻，确实有你说的这情况。但台湾年轻人不是，香港也不是。<br>虽然都用中文，实为不同的物种。
+
+### 34: [2022-08-30 23:25:51+08:00 推文](https://twitter.com/HeQinglian/status/1564635518138195972)
+
+Re @Tianshuihanyan @franktianxie “负责抄家的FBI探员被押解出FBI大楼”，这条消息很劲爆，我去查查原始出处，执行者成了替罪羊？
+
+### 35: [2022-08-30 23:35:30+08:00 推文](https://twitter.com/HeQinglian/status/1564637945977511939)
+
+Re @jeki50806373 @Tianshuihanyan @franktianxie <br>应该是全媒体后一推说的小拜电脑事情为主，而且说是正常退休，护着离开是标准程序。 <a href="https://www.newsweek.com/trump-slams-fbi-truth-social-posts-after-special-agent-leaves-bureau-1738031" target="_blank" rel="noopener noreferrer">https://www.newsweek.com/trump-slams-fbi-truth-social-posts-after-special-agent-leaves-bureau-1738031</a>
+
+### 36: [2022-08-30 23:39:31+08:00 推文](https://twitter.com/HeQinglian/status/1564638956028936193)
+
+Re @dinglili7 彭博经常“政治不正确”，一会儿报道国际雇佣军在乌克兰参战的真相；一会儿报道专家看法，谈这场战争的真正起因；有次还报道制裁没打击到俄罗斯，于美国无损，只涨了油价，但盟友很难过，冬天无法熬。😂
+
+### 37: [2022-08-30 23:41:28+08:00 推文](https://twitter.com/HeQinglian/status/1564639448339464197)
+
+Re @xinlijian110 这点还真不是，早就是敌我矛盾了，远比中美矛盾性质严重。<br>拜登多次说过，民主、共和两党根本完全没有共同利益与合作点了。
+
+### 38: [2022-08-30 23:42:37+08:00 推文](https://twitter.com/HeQinglian/status/1564639736332943366)
+
+Re @jeki50806373 @Tianshuihanyan @franktianxie 这个我去查查。
+
+### 39: [2022-08-30 23:45:49+08:00 推文](https://twitter.com/HeQinglian/status/1564640543602262017)
+
+Re @dinglili7 话说，我在美国，就看了一次百老汇的妈妈咪亚，发誓不再看了。但俄罗斯的芭蕾舞专场，我却看过两次。
+
