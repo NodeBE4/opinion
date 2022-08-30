@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
@@ -225,7 +225,7 @@ RT @lianchaohan: 【演艺圈的良心孙海英】一直在关注孙海英，虽
 
 ### 53: [2022-04-06 22:25:53+08:00 推文](https://twitter.com/realcaixia/status/1511711797232943104)
 
-可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。<br><br>lily valley: 上海地下党组织成员被封家里，无法和他的同志接头！<br><br><img style="" src="https://pbs.twimg.com/media/FPgVKb_WUAMnib9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。
 
 ### 54: [2022-04-06 22:28:50+08:00 推文](https://twitter.com/realcaixia/status/1511712538769170439)
 
@@ -289,7 +289,7 @@ Re @JinYuzhe_ 我删了哪个推文？
 
 ### 69: [2022-04-10 00:19:18+08:00 推文](https://twitter.com/realcaixia/status/1512827504192598022)
 
-上海13万阳性，1例重症；98%为无症状感染者。上海封城迄今，封2600万人禁足挨饿。竟有多少婴幼儿被从母亲身边强行带走？竟有几万病人无法做肾透析？又有多少急病突发死于无医院救治？有多少人因封城断了生计而轻生赴死？有多少人因发出求生呼吁而被官员警察恐吓惩罚？有多少人遭百卫兵和警察毒打迫害？
+上海13万阳性，1例重症；98%为无症状感染者。上海封城迄今，封2600万人禁足挨饿。竟有多少婴幼儿被从母亲身边强行带走？竟有几万病人无法做肾透析？又有多少急病突发死于无医院救治？有多少人因封城断了生计而轻生赴死？有多少人因发出求生呼吁而被官员警察恐吓惩罚？有多少人遭百卫兵和警察毒打迫害？<br><br>荣剑: 最高指示要求以最小代价防控疫情，实际上是不计代价，上海目前13万阳，只有一例重症，没有死亡，却封了全上海，2500万人足不出户，真是看不懂。<br><br><img style="" src="https://pbs.twimg.com/media/FP0xz31VUAk-Lm6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 70: [2022-04-10 03:41:35+08:00 推文](https://twitter.com/realcaixia/status/1512878409260703752)
 
