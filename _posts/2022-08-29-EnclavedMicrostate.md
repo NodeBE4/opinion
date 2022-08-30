@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-08-29
+date: 2022-08-30
 from: https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/
 layout: post
 tags:
@@ -74,4 +74,14 @@ Thanks! The point about white vs minority experiences is an especially appreciat
 > For a 10-centimeter thick strip of fabric
 
 ...10 centimetres thick!?
+
+### 762: [Rainy Nights - Paprika_d](https://old.reddit.com/r/PixelArt/comments/x1d4yn/rainy_nights_paprika_d/), submitted on 2022-08-30 15:59:03+08:00.
+
+----- __762.1__ -----2022-08-30 21:48:51+08:00:
+
+Yung's café.
+
+----- __762.2__ -----2022-08-30 21:49:01+08:00:
+
+Wrong city – it's Hong Kong.
 
