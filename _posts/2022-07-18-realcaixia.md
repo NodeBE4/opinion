@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-18~2022-07-24'
 
 ### 1: [2022-07-18 09:34:51+08:00 推文](https://twitter.com/realcaixia/status/1548843710527508481)
 
-我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。<br><br>一剑飘尘 007: 习近平时代，中共倒退到“连坐”制度，还有人说“谁上都一样”！不要说八十年代胡赵时期，就是江胡时代，也不至于如此明目张胆连坐孩子吧？习下是方向，谁上都更强<br><br><img style="" src="https://pbs.twimg.com/media/FX6IDYbUcAEuEYE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+我曾是中央党校代表团成员之一访问朝鲜。一天参观朝鲜劳动党中央党校，教室墙上有几个大挂幅，上面写满了朝鲜文。我们团的一个鲜族教授，大声翻译那些朝鲜文。原来这是培训官员如何“管理党员和民众”的要点，其中之一就是实行五户连坐制。一人被控谋反，五家人连坐判同罪。看来，中国朝鲜化正在进行时。
 
 ### 2: [2022-07-19 08:41:33+08:00 推文](https://twitter.com/realcaixia/status/1549192684144934912)
 
@@ -97,7 +97,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
-对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运
+对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运<br><br>《议报》: 真叫卢俊: “我躲在虹桥的卫生间，不知道去哪。”<br> <a href="https://yibaochina.com/?p=247198" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247198</a>
 
 ### 22: [2022-07-21 06:26:29+08:00 推文](https://twitter.com/realcaixia/status/1549883471451111424)
 
@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+因知了诗而生祸，真是前无古人。
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
@@ -121,11 +121,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 27: [2022-07-21 22:43:27+08:00 推文](https://twitter.com/realcaixia/status/1550129333116608512)
 
-特别推荐盛洪先生的这篇分析文章。<br><br>Sheng Hong: 据报道，近来多达300多楼盘业主采取强制停贷，以逼迫开发商复工。这显然是开发商的违约导致的。然而这不是偶然出现的，不是个别开发商违规使用资金所能完全解释的，这是一个系统性问题，是去年就出现的房地产市场萎缩的进一步恶化。而以土地为中心的<br> <a href="https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/" target="_blank" rel="noopener noreferrer">https://five-woods.com/2021/10/21/%e3%80%90%e6%a8%aa%e8%ae%ae%e3%80%91%e4%b8%ba%e4%bb%80%e4%b9%88%e4%b8%8d%e5%8f%97%e7%ba%a6%e6%9d%9f%e7%9a%84%e6%9d%83%e5%8a%9b%e4%bc%9a%e7%93%a6%e8%a7%a3%e4%b8%ad%e5%9b%bd%e5%a5%87%e8%bf%b9%ef%bc%9f/</a>
+特别推荐盛洪先生的这篇分析文章。
 
 ### 28: [2022-07-22 05:48:02+08:00 推文](https://twitter.com/realcaixia/status/1550236182981869575)
 
-清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！<br><br>高瑜: 清華最近張貼出《從法西斯手中保衛生活》的傳單，校方緊張搜捕張貼者。傳單開宗明義：公開的法西斯主義被消滅近80年，今天的法西斯主義，以“習慣”的形式侵蝕我們的生活和我們的道德。我們變得冷漠而殘忍，以他人的痛苦為樂，我們為仇恨言論所吸引，自以為能在叢林競爭中獲得優勝。張貼者號召：<br><br><img style="" src="https://pbs.twimg.com/media/FYKb7LJagAEWTIr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！
 
 ### 29: [2022-07-22 05:54:47+08:00 推文](https://twitter.com/realcaixia/status/1550237880592859138)
 
