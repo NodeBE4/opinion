@@ -37,7 +37,7 @@ Re 任先生认为习不在乎中国经济，不在乎十多亿人的生计活�
 
 ### 6: [2022-07-04 21:07:21+08:00 推文](https://twitter.com/realcaixia/status/1543944554302275588)
 
-我理解乐乐法利的感受，转发乐乐法利这个推文以表支持。乐乐法利对中国的观察分析很犀利，并且用他丰富想像力和巨大创造性来表达他的观察思考，他的真诚与热情都令人钦佩与感动。<br>中国与西方的文明发育水平差距至少200年，尊重保护知识产权的社会意识相当薄弱，甚至有些人或许没有知识产权概念。
+我理解乐乐法利的感受，转发乐乐法利这个推文以表支持。乐乐法利对中国的观察分析很犀利，并且用他丰富想像力和巨大创造性来表达他的观察思考，他的真诚与热情都令人钦佩与感动。<br>中国与西方的文明发育水平差距至少200年，尊重保护知识产权的社会意识相当薄弱，甚至有些人或许没有知识产权概念。<br><br>LeLeFarley 乐乐法利: 我花了很多时间把这个视频做出来，结果被@Sophia36982957 直接搬到她的推特上，没有我的授权，没有第一时间贴上油管链接，也没有at我。我自己为这个视频付出了几十个小时的劳动力，被人花三分钟占尽便宜，油管原视频却毫无热度<br>I’m taking a break. 今天真的很失望<br><br><video src="https://video.twimg.com/ext_tw_video/1543652048486498310/pu/vid/1280x720/mYOTokGzaLUAUOjP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1543652048486498310/pu/img/gBXd1ixn5MgvLfhD.jpg"></video> <a href="https://youtu.be/VGwQFKNgD7M" target="_blank" rel="noopener noreferrer">https://youtu.be/VGwQFKNgD7M</a>
 
 ### 7: [2022-07-05 02:24:05+08:00 推文](https://twitter.com/realcaixia/status/1544024263111446529)
 

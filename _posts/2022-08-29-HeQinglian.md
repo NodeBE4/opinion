@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-08-30
+date: 2022-08-31
 from: https://twitter.com/HeQinglian/status/1563958403998834694
 layout: post
 tags:
@@ -170,4 +170,8 @@ Re @jeki50806373 @Tianshuihanyan @franktianxie 这个我去查查。
 ### 39: [2022-08-30 23:45:49+08:00 推文](https://twitter.com/HeQinglian/status/1564640543602262017)
 
 Re @dinglili7 话说，我在美国，就看了一次百老汇的妈妈咪亚，发誓不再看了。但俄罗斯的芭蕾舞专场，我却看过两次。
+
+### 40: [2022-08-31 01:33:27+08:00 推文](https://twitter.com/HeQinglian/status/1564667629981368326)
+
+Re @su37404145 @xinlijian110 你看新闻，什么时候它们真正反共了？共同反俄倒是真的。<br>民主党早就追求共产-社会主义了，共和党至今也未将这追求当成真的。
 
