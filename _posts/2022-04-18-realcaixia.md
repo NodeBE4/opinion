@@ -61,7 +61,7 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
-上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！
 
 ### 13: [2022-04-18 15:35:00+08:00 推文](https://twitter.com/realcaixia/status/1515957049401749507)
 
@@ -105,7 +105,7 @@ Re @yangjianli001 哈哈！
 
 ### 23: [2022-04-20 02:29:10+08:00 推文](https://twitter.com/realcaixia/status/1516484065544708098)
 
-上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
@@ -129,15 +129,15 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 29: [2022-04-21 07:33:21+08:00 推文](https://twitter.com/realcaixia/status/1516923001849085953)
 
-请听台湾大学生身处上海封城的亲身感受。<br><br>iPaul🇨🇦🇺🇦: 一位台湾交换生在上海复旦大学的感悟<br><br><video src="https://video.twimg.com/ext_tw_video/1516403115612082177/pu/vid/640x360/hJ_6ULeiUrwHBisC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516403115612082177/pu/img/OeLrtek3dlxf7UD-.jpg"></video>
+请听台湾大学生身处上海封城的亲身感受。
 
 ### 30: [2022-04-22 08:16:20+08:00 推文](https://twitter.com/realcaixia/status/1517296205520416769)
 
-这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。
+这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。<br><br>苗也: 剥削来自权力，而非资本<br>马斯克能说出这话，不愧是首富<br><br><img style="" src="https://pbs.twimg.com/media/FQr9_xOXMAQf9de?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
-李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！<br><br>《议报》: 李承鹏：上海是预示未来一百年的大河<br> <a href="https://yibaochina.com/?p=246090" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246090</a>
+李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！
 
 ### 32: [2022-04-22 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1517489646720229380)
 
@@ -145,7 +145,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 33: [2022-04-22 21:21:51+08:00 推文](https://twitter.com/realcaixia/status/1517493889900367876)
 
-上海逝者名单，两天前接力数163。今天是194。尽管163后接力数排序有小小的错乱，但这是很多上海人齐心尽力在连续共同做的一件事。细读每一个接力数叙说逝者最后的境况，总是痛心悲愤，；而透过每一个接力数看到的是许多上海市民在这场人祸中思考醒悟，从市民成为公民，公民社会在苦难中顽强生长！
+上海逝者名单，两天前接力数163。今天是194。尽管163后接力数排序有小小的错乱，但这是很多上海人齐心尽力在连续共同做的一件事。细读每一个接力数叙说逝者最后的境况，总是痛心悲愤，；而透过每一个接力数看到的是许多上海市民在这场人祸中思考醒悟，从市民成为公民，公民社会在苦难中顽强生长！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 34: [2022-04-22 21:52:05+08:00 推文](https://twitter.com/realcaixia/status/1517501496669007874)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。
+大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 

@@ -61,7 +61,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 12: [2021-12-16 11:08:38+08:00 推文](https://twitter.com/realcaixia/status/1471316309300457481)
 
-这篇文章是我发给《议报》与光传媒网站同时发布，不同的媒体各有不同的传播受众。<br>撕掉极权统治的掠夺式经济增长方式“奇迹”光鲜外表，将其背后的丑恶与罪孽拿到太阳下曝曝光。<br>这样的掠夺式经济增长、政治上独裁专制、对全社会的恐怖统治，不仅不可能使中国经济持续增长，而且对中国与世界都是灾难！ <a href="https://twitter.com/ipkmedia/status/1470480679129468931" target="_blank" rel="noopener noreferrer">https://twitter.com/ipkmedia/status/1470480679129468931</a>
+这篇文章是我发给《议报》与光传媒网站同时发布，不同的媒体各有不同的传播受众。<br>撕掉极权统治的掠夺式经济增长方式“奇迹”光鲜外表，将其背后的丑恶与罪孽拿到太阳下曝曝光。<br>这样的掠夺式经济增长、政治上独裁专制、对全社会的恐怖统治，不仅不可能使中国经济持续增长，而且对中国与世界都是灾难！<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【独家首发】<br><br>蔡 霞: 中共极权统治下的中国没有未来<br> <a href="https://ipkmedia.com/?p=114528" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=114528</a>
 
 ### 13: [2021-12-16 11:32:02+08:00 推文](https://twitter.com/realcaixia/status/1471322196849180674)
 
@@ -101,5 +101,5 @@ Re 大陆经济至此，根源在于极权专制制度，非是政策转向所�
 
 ### 22: [2021-12-19 22:33:16+08:00 推文](https://twitter.com/realcaixia/status/1472575764499517444)
 
-呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style="" src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
+呼吁能转推的都转一下，多一些人关注就是多一些对李田田老师的支持。<br><br>默默: 緊急關注：湖南湘西永順的這位李田田老師，她因在新浪微博聲援上海震旦學院被開除的宋庚一老師，而被當地縣教育局和公安局上門威脅，以精神有問題為由要求她住院打針治療。李田田目前懷孕，堅決不從。目前正被多人圍困，手機被搶，請大家關注！李田田：13669285468<br><br><img style src="https://pbs.twimg.com/media/FG9vO4laMAAiBBR?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FG9vO4nakAQsr9g?format=jpg&name=orig" referrerpolicy="no-referrer">
 
