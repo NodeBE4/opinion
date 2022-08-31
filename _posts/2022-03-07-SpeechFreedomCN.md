@@ -27,9 +27,9 @@ title: 'Twitter @中国文字狱事件盘点: 2022-03-07~2022-03-13'
 
 Re 2/2: dissident Huang Genbao, who had spent 16 months in jail for "insulting state leaders" on Internet, and who also lives in Xuzhou, reveals he had the same experience yesterday. Police visited his house to warn him not to talk about the Incident again.
 
-### 4: [2022-03-10 08:05:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1501710820492914694)
+### 4: [2022-03-10 08:05:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1501710817691119617)
 
-Re 另：曾因批评中国政府而被判刑一年四个月的异议人士黄根宝（现居徐州）透露其昨天（3月9日）也遇到了相同的遭遇。在其在网上转发关于铁链女新闻之后，徐州警方电话联系他让其去派出所了解情况，但其没有照做，国保部门的警查遂登门对其进行了警告，让其不得再转发相关信息。
+警方开始解决提出问题的人。网传视频显示，一名名叫杨林（音）的网友，因在微信朋友圈呼吁网友持续关注铁链女事件，被警察“查水表”，不清楚警察目的是警告还是抓捕。杨林称其只是呼吁大家关注该事件，且这是每一个有良心的中国人都应该做的事，警察则称他煽动游行，而其完全否认。<br><video src="https://video.twimg.com/ext_tw_video/1501691179108376576/pu/vid/720x1272/M1jphGsGc4QswBXP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1501691179108376576/pu/img/LLojybViSAkp7uZt.jpg"></video>
 
 ### 5: [2022-03-12 13:04:26+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1502510808743432204)
 
