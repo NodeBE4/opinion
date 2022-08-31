@@ -469,6 +469,38 @@ A number of societies have historically used 'Tartar' as a catch-all term, often
 
 This is in some ways a bigish question outside my core area, but in short, it has to do with Social Darwinism, a pseudoscientific ideology particularly prominent in the late nineteenth and early twentieth centuries predicated on the assertion that there was an innate notion of racial difference between different human ethnic groups. Some formulations of Social Darwinist thought, especially those prominent in China, asserted that these different races (often broadly categorised as white, black, red, and yellow) would ultimately engage in a struggle for the survival of the fittest, and that it was therefore in the interests of the 'yellow' peoples of East Asia to unite and establish a common front against the 'white' peoples of Europe in order to win out in that coming struggle. Some proponents like Liang Qichao believed that the Manchus, while under the 'yellow' umbrella, were a lesser subrace whose position of dominance over the Han was an aberrant fluke, and that they would either have to be absorbed into the wider Han-led racial paradigm, or eradicated, be it by the Han themselves or as some of the first casualties in the race war.
 
+----- __753.5__ -----2022-08-31 10:06:01+08:00:
+
+One is presuming here that just because it is Western scholars making the argument that it is a purely Western intellectual imposition going on. The reality of the situation, though, is that the reason it seems Western ideas of race are being discussed here is that so much of the discourse *was rooted in Western ideas of race*, at least from the elite standpoint. Han elites were absolutely eating up Western-developed ideas about Social Darwinism and other comparable 'race science' nonsense from abroad. There is also strong evidence that the Qing court in the 18th century developed a coherent sense of ethnic essentialism that percolated down to the general population – at least among Han Chinese – by the 19th century, which influenced, for instance, Han Chinese colonial policy on Taiwan.
+
+> but the Taiping movement is largely a cult led rebellion of the poor against society
+
+To some extent, yes, but outside of the *Land System of the Heavenly Dynasty*, itself a somewhat elaborated version of a system in the *Lijing*, the Taiping broadly did not engage in programmes of economic equalisation. As argued pretty persuasively by Carl Kilcourse, the Taiping system was fundamentally accepting of – indeed, actively created – hierarchies as a result of its theological outlook.
+
+>  Manchurians, by the structure they've setup, all have better socio economic standings than not just Han but all none Manchurians. They are usually living a better life and have properties.
+
+This was simply objectively untrue. Outside of a handful of hereditarily wealthy noble lineages, the vast majority of Manchus were effectively destitute and lived off state stipends, having divested themselves of their land grants in the 18th century. Poverty within the Banners was an issue raised *constantly* from the 1720s onward and never effectively resolved by the Qing state.
+
+> The massacres against Manchurians by Taiping can also easily be a struggle between classes rather than race.
+
+Which is why, of course, we see so many massacres of landed gentry by the Taiping having been committed?
+
+> In the Chinese context, using dynasties established by northern invaders as examples, the Chinese don't really care about the exact "race" of their rulers as long as they follow the Chinese customs and preserve the Chinese civilization.
+
+This is not actually as clear-cut as we might think. There's an argument to be made that Han elites' distaste over the Turkic ancestry of the Li family which ruled the Tang was part of what led to a pattern of refusal to marry into the imperial line until well into the 9th century among Han noble households, among a number of forms of passive resistance – see Sanping Chen's article 'Succession Struggle and the Ethnic Identity of the Tang Imperial House'. Similarly, the Yuan, although retrospectively regarded as at least nominally legitimate, were not overtly welcomed given the whole revolt thing that brought them down, and early Ming rule was characterised in large part by a process of 'de-Mongolification' – for instance see Edward Farmer's *Zhu Yuanzhang and Early Ming Legislation*.
+
+> The Machurians were hated not because they are northerners but because they forced their customs onto the rest of China as means of control.
+
+Or both.
+
+> But that hatred by the time of the late 1800s was nowhere near on intensity comparing to 1600s.
+
+That presumes, of course, that the basis of that enmity was the same in both cases, but that is not necessarily the case. The extent to which ethnic essentialism had been reified by the 1640s is questionable at best, and the nature of the anti-Qing agitations of the early period – up to and including the Zeng Jing case in 1727 – was rooted primarily, though not exclusively, in a sort of cultural chauvinism around the notion that Chinese customs were not simply more 'natural' to a Chinese context but indeed on some level inherently superior, and that the exercise of rule by those who did not follow those customs, and worse still the imposition of their own, 'inferior' customs, was fundamentally objectionable. A state-generated discourse of ethnic essentialism from the Qianlong reign onward would lead to the Taiping and Yunnanese revolts (among others, although the precise dynamics of anti-Manchuism in these two revolts are the best studied). This would later combine into a potent and dangerous mixture with the Western import of 'race science' which, in 1911, exploded into several localised outbursts of ethnic violence.
+
+> Anyways... My point is that, is viewing Chinese history through the western concept of race and racism even a valid starting point or foundation?
+
+I think what I've written above is enough of a Q.E.D. on its own, but to succinctly sum it all up, absolutely so, *especially* when we're discussing periods from the 1880s onward when the western concept of race was actively and willingly imported into China by literate elites, and thereby informed their behaviour.
+
 ### 754: [[Hobby Scuffles] Week of August 29, 2022 (Poll)](https://old.reddit.com/r/HobbyDrama/comments/wzxiv6/hobby_scuffles_week_of_august_29_2022_poll/), submitted on 2022-08-28 23:00:17+08:00.
 
 ----- __754.1__ -----2022-08-29 08:23:46+08:00:

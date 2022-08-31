@@ -29,7 +29,7 @@ Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock tra
 
 ### 4: [2022-01-05 16:52:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478650594701332483)
 
-Re 这些言论中的部分出处如下：<br><img style src="https://pbs.twimg.com/media/FIU3_hnWYAAcFiY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU4OBQXMAMZHSt?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU42PUWUAUXnX8?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIU43hDX0AE_N--?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 这些言论中的部分出处如下：<br><img style="" src="https://pbs.twimg.com/media/FIU3_hnWYAAcFiY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU4OBQXMAMZHSt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU42PUWUAUXnX8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIU43hDX0AE_N--?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-06 11:47:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936182641856516)
 
@@ -45,5 +45,5 @@ Hebei man Zhang detained for 5 days for referring to police as "Licensed police 
 
 ### 8: [2022-01-07 22:35:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1479461818099765248)
 
-Government officer in China dismissed for publishing an article to criticize the handling of pandemic in Xi'an City, which is now under China style lockdown. The article said the pandemic combat measures were cruel and inhumane and people were suffering from it.<br><img style="" src="https://pbs.twimg.com/media/FIgYzjHXoAcdxxy?format=jpg&name=orig" referrerpolicy="no-referrer">
+Government officer in China dismissed for publishing an article to criticize the handling of pandemic in Xi'an City, which is now under China style lockdown. The article said the pandemic combat measures were cruel and inhumane and people were suffering from it.<br><img style="" src="https://pbs.twimg.com/media/FIgYzjHXoAcdxxy?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
