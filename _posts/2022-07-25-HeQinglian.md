@@ -149,7 +149,7 @@ Re @CrabNJ 你愿意称呼令堂为“会怀孕的女人”吗？如果你不愿
 
 ### 34: [2022-07-26 04:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1551660953955074060)
 
-刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。
+刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。<br><br>He Qinglian: 想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br> <a href="https://twitter.com/RFI_TradCn/status/1551357705066950658" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_TradCn/status/1551357705066950658</a>
 
 ### 35: [2022-07-26 04:14:15+08:00 推文](https://twitter.com/HeQinglian/status/1551662132877484037)
 
@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
