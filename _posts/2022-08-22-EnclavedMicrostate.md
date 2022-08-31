@@ -529,3 +529,17 @@ I mean if you say so, but from my point of view, it's as simple as saying that t
 
 But you've simply asserted that what I'm propounding is a theory. In what way is 'you could use this method of analysis in these two cases' a statement that we can derive predictable conclusions? The 'trend' or 'relationship' would derive solely from the fact that one chose to use that particular methodology. If I do not choose to use a glocalisation framework, then I will not be seeking – and therefore unlikely to find – patterns aligning with it.
 
+----- __754.5__ -----2022-08-31 21:41:38+08:00:
+
+I suspect it's to do with the fact Ehrman isn't some overt antitheist in the way that a lot of modern internet 'sceptics' *want* him to be, he's mainly just someone who really wants to promote good textual criticism, especially in his own field, and it only happens to be that a lot of hardcore fundamentalists prefer bad criticism.
+
+----- __754.6__ -----2022-08-31 21:44:02+08:00:
+
+> He is Dirk Obbink, an Oxford Classics professor
+
+And, for a time, *also* an assistant professor at Columbia University, as in both at once, which is essentially unheard of.
+
+Well also, *former* Oxford Classics lecturer (the Professor title is a bit more exclusive at Oxford because everything is), as he was suspended in 2019.
+
+What's really quite bewildering about the Obbink scandal is that I believe a lot of the early highly public reporting of it was in mid-2018, which is before I started an undergraduate degree at Oxford, and yet it is *still going on now*, a year after I graduated.
+
