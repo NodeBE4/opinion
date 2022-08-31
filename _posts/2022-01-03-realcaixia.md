@@ -125,7 +125,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
@@ -205,7 +205,7 @@ Re 公共服务和基本的社会正常运转，而且意味着无法偿还债�
 
 ### 48: [2022-01-09 02:17:33+08:00 推文](https://twitter.com/realcaixia/status/1479879967638962183)
 
-宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style="" src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
+宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-01-09 02:36:51+08:00 推文](https://twitter.com/realcaixia/status/1479884825024778250)
 
