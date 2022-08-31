@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -77,7 +77,7 @@ Re @21KsJZBSV3yPD9w @YouTub 李锐的《庐山会议实录》、杨继绳的《�
 
 ### 16: [2022-04-18 22:58:17+08:00 推文](https://twitter.com/realcaixia/status/1516068606408278016)
 
-说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。<br><br>韩连潮: 【李总理，你应当去上海！】有人把清零和共存说成两条路线斗争、内斗、制度和文明之争, 动辄上纲上线、戴帽子打棍子，说明野心家别有用心；李克强总理作为抗疫领导小组组长应当前往上海亲临一线坐镇主场，这是你的基本职责。领导不是神仙，科学也会出错，亲临其境才知道民众的困苦，找到应对方案。<br><br><img style="" src="https://pbs.twimg.com/media/FQoJIMTX0AE-Qkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。
 
 ### 17: [2022-04-18 23:20:53+08:00 推文](https://twitter.com/realcaixia/status/1516074293133602820)
 
@@ -105,7 +105,7 @@ Re @yangjianli001 哈哈！
 
 ### 23: [2022-04-20 02:29:10+08:00 推文](https://twitter.com/realcaixia/status/1516484065544708098)
 
-上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。
+大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

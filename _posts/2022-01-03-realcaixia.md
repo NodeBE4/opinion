@@ -125,11 +125,11 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
-央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style="" src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
+央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-01-07 20:31:59+08:00 推文](https://twitter.com/realcaixia/status/1479430615606996993)
 
@@ -137,7 +137,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 31: [2022-01-07 20:35:57+08:00 推文](https://twitter.com/realcaixia/status/1479431614069456900)
 
-想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
+想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2022-01-07 21:09:18+08:00 推文](https://twitter.com/realcaixia/status/1479440004460036096)
 

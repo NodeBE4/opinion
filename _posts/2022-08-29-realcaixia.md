@@ -89,5 +89,25 @@ Re @qinxian54220128 谢谢您的提醒，我已经推荐发到推特上了。
 
 ### 19: [2022-08-31 06:43:52+08:00 推文](https://twitter.com/realcaixia/status/1564745747043606533)
 
-曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br>
+曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br> <a href="https://twitter.com/GaoFalin/status/1563949162189791233" target="_blank" rel="noopener noreferrer">https://twitter.com/GaoFalin/status/1563949162189791233</a>
+
+### 20: [2022-08-31 21:43:30+08:00 推文](https://twitter.com/realcaixia/status/1564972148254539776)
+
+戈尔巴乔夫昨日去世。对这位政治人物，共产党政权官方与自由民主国家朝野评价截然相反。自由民主国家朝野对戈尔巴乔夫赞誉有加，习近平在2012年上台前说苏共党内“竟无一人是男儿”。<br>戈尔巴乔夫改变了历史，结束了苏联与自由民主世界的冷战，前苏联与东欧国家人民抓住了历史机会，摆脱了共产极权统治。<br><img style="" src="https://pbs.twimg.com/media/Fbfl37BWYAAQkPH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfl36_X0AcPQXt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-08-31 21:44:03+08:00 推文](https://twitter.com/realcaixia/status/1564972285706080257)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fbfl_0VWAAEfpQT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfl_0pWAAIsT8I?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfl_0rXoAAXzlf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfl_0qX0AIcM0S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-08-31 22:34:26+08:00 推文](https://twitter.com/realcaixia/status/1564984965636448258)
+
+请再读一遍戈尔巴乔夫读最后一次公开讲话。这个讲话真诚恳切，从中显露出他对祖国对民众的拳拳挚爱之心，他对民主政治的坚定信念。戈尔巴乔夫登上前苏联最高权力时，完全可以现成的当个独裁者，但他选择了并开启了民主改革。最后他辞去了总统职务，把自己最后的命运交给人民决定。他是杰出的政治家。<br><img style="" src="https://pbs.twimg.com/media/Fbfxh80WQAIMDov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfxh81X0AINfq5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfxh80WIAEgxUp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbfxh83WYAA9P3V?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 23: [2022-08-31 22:35:03+08:00 推文](https://twitter.com/realcaixia/status/1564985119252910080)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FbfxqynXEAEegTN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbfxqyzXgAAajCs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbfxqynXwAEEMJ_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbfxqyrXEAAjF_8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-08-31 22:35:16+08:00 推文](https://twitter.com/realcaixia/status/1564985173711749121)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
