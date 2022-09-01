@@ -547,3 +547,52 @@ What's really quite bewildering about the Obbink scandal is that I believe a lot
 
 Jesus mythicism is such a fascinating hill to die on, which I know firsthand because I used to buy into it myself. The question of whether Jesus existed is so fundamentally unremarkable it's barely worth asking. The real question really, and the one that would prompt at least interesting discussion, is how much of Jesus' life we can actually be certain of, *beyond* the simple fact of his existence.
 
+----- __754.8__ -----2022-09-01 21:10:19+08:00:
+
+TW: very heavy stuff ahead relating to warcrimes and sexual assault
+
+So, this is very hot off the presses, but a TikTok has gained traction in the last 12 hours or so coming from Evan Kail, aka @pawnman, alleging that a customer gave him a photo album to sell taken by a relative in the US Navy who had witnessed the Nanjing Massacre (aka the 'Rape of Nanjing', a somewhat problematic term hence the scare quotes) from December 1937 to January 1938. For those not in the know, this was when the Japanese army, having captured the then-capital of China, killed at least 200,000 people and committed at least 20,000 counts of rape over a roughly six-week period, per postwar tribunals. This was an absolutely shocking atrocity even the time, but its modern legacy is complicated both by a general atmosphere of warcrimes denial in Japan and by somewhat of weaponisation of the event by the powers-that-be in China, the victims being effectively instrumentalised in support of modern nationalist narratives.
+
+*Anyway*, Kail's TikTok was clipped on Twitter [here](https://twitter.com/thiccmatisse/status/1565190598939869187) and he also posted several photos from the album [on his own Twitter](https://twitter.com/EvanKail/status/1565265493824622592). According to the video he wanted to ensure it was sold to a museum, but that he had not bought it himself, but that he had also no plans of returning it to the owner without ensuring its sale, which all seemed a little sus, and some did note that surely the obvious thing to do would be to contact a museum directly.
+
+More pressingly, though, there's a lot of suggestions that the album is quite likely to be a fake. Several tweets pointed out that, contrary to his claim that these photos were never-before-seen, at least some of the photos shown are actually already in the public domain, with a couple suggesting that in fact Photoshop was used to create some of the ones in the album:
+
+* https://twitter.com/dancow/status/1565271791408488448
+* https://twitter.com/Just_Stasia_/status/1565245150447558656
+* https://twitter.com/Monk_Wally_Honk/status/1565255378887122944
+
+Worse still, some were *not even from the period or place in question*:
+
+* https://twitter.com/dancow/status/1565287455355543554
+* https://twitter.com/shirui1988/status/1565274676405817344 (note: especially visibly gory)
+
+A general lack of wear was also noted:
+
+* https://twitter.com/Monk_Wally_Honk/status/1565257548961402880
+
+Another key point of interest was the identity of the alleged photographer, Leslie Jay Allen, who is a real person who served in the US Navy aboard USS *Augusta*. If he remained aboard Augusta, however, then Allen was not in Nanjing in December 1937, as *Augusta* was moored at Shanghai between 12 December and 6 January, before departing for the Philippines. Unless Allen took a completely unrecorded detour to Nanjing then he cannot have taken the photos himself. *Augusta* only visited Nanjing for a four-day period in November 193*9*, nearly two years after the massacres.
+
+* https://twitter.com/pararose38/status/1565286778889650176
+
+Probably the most measured response comes from @fakehistoryhunt, whose explanation of the discrepancies is the probably simple enough one that this was an album compiled in the 1930s from purchased photographs, even if it wasn't taken by the person in question:
+
+* https://twitter.com/fakehistoryhunt/status/1565312676443611142
+
+But what that still leaves open is the question of whether we will therefore find any *new* photos, and as of yet that remains very much to be seen.
+
+____
+
+EDIT(orialising):
+
+My own view is that there are essentially three possible scenarios:
+
+1. The Long Shot: That is, the person in question did actually take some photographs of the Nanjing Massacre as it took place that are not known from elsewhere. This I call the 'Long Shot' but to be frank given that the person in question should not have been at the scene during the events, and that most of the album would still have been compiled from purchased photos, I am deeply sceptical.
+
+2. The Bad Faith Scenario: It's a hoax by either the TikToker or his client. The album is either partially or completely fake between the covers, and either this was an original album where modern reproductions were inserted, or it is entirely constituted from other sources; either way it contains nothing new.
+
+3. The Good Faith Scenario: The album is genuine insofar as its original owner filled it with photos that he *purchased* rather than took himself, but for that reason almost certainly does not contain anything not already known, and the TikToker has been over-enthusiasitc.
+
+----- __754.9__ -----2022-09-01 21:25:50+08:00:
+
+Well, for a particularly understated definition of problematic...
+
