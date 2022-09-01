@@ -570,7 +570,7 @@ A general lack of wear was also noted:
 
 * https://twitter.com/Monk_Wally_Honk/status/1565257548961402880
 
-Another key point of interest was the identity of the alleged photographer, Leslie Jay Allen, who is a real person who served in the US Navy aboard USS *Augusta*. If he remained aboard Augusta, however, then Allen was not in Nanjing in December 1937, as *Augusta* was moored at Shanghai between 12 December and 6 January, before departing for the Philippines. Unless Allen took a completely unrecorded detour to Nanjing then he cannot have taken the photos himself. *Augusta* only visited Nanjing for a four-day period in November 193*9*, nearly two years after the massacres.
+Another key point of interest was the identity of the alleged photographer, Leslie Jay Allen, who was a real person who served in the US Navy aboard USS *Augusta*. If he remained aboard Augusta, however, then Allen was not in Nanjing in December 1937, as *Augusta* was moored at Shanghai between 12 December and 6 January, before departing for the Philippines. Unless Allen took a completely unrecorded detour to Nanjing then he cannot have taken the photos himself. *Augusta* only visited Nanjing for a four-day period in November 193*9*, nearly two years after the massacres.
 
 * https://twitter.com/pararose38/status/1565286778889650176
 
