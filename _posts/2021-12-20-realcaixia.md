@@ -141,7 +141,7 @@ Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？�
 
 ### 32: [2021-12-26 00:19:25+08:00 推文](https://twitter.com/realcaixia/status/1474776807601811459)
 
-前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
+前三句很有名，体制内流传甚广，唯冰心老人一问，丝毫没有听说。“无士则亡”！而今一语成谶！<br><br>高伐林: 转贴——<br><br><img style="" src="https://pbs.twimg.com/media/FHaQXV_XsAUUmZx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2021-12-26 01:24:29+08:00 推文](https://twitter.com/realcaixia/status/1474793179966853123)
 
@@ -169,7 +169,7 @@ Re @LipingHuang7 低端人口這詞是習在一次會議上首說，隨後就被
 
 ### 39: [2021-12-26 22:32:03+08:00 推文](https://twitter.com/realcaixia/status/1475112175861653514)
 
-习当局自我隔绝于世界，把大陆中国人隔绝成世界弃儿。<br><br>荣剑: 文化自信不是在于你今天抵制这个明天抵制那个，而是在于你对世界持包容心，对优秀的文明和文化持开放态度。据说国内目前要对公共场所交通标示用汉语拼音取代英文，大概就是想体现文化自信，可决策者是否想到，拼音也是外来物，为什么不一块抵制?既然抵制了圣诞节，那就把元旦节也抵制了吧！<br><br><img style src="https://pbs.twimg.com/media/FHahCE3VkAENxyv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahCTUVUAIasqp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahC-sVgAMuTLi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahDkSVkAI__cj?format=jpg&name=orig" referrerpolicy="no-referrer">
+习当局自我隔绝于世界，把大陆中国人隔绝成世界弃儿。<br><br>荣剑: 文化自信不是在于你今天抵制这个明天抵制那个，而是在于你对世界持包容心，对优秀的文明和文化持开放态度。据说国内目前要对公共场所交通标示用汉语拼音取代英文，大概就是想体现文化自信，可决策者是否想到，拼音也是外来物，为什么不一块抵制?既然抵制了圣诞节，那就把元旦节也抵制了吧！<br><br><img style="" src="https://pbs.twimg.com/media/FHahCE3VkAENxyv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahCTUVUAIasqp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahC-sVgAMuTLi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahDkSVkAI__cj?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-26 23:32:51+08:00 推文](https://twitter.com/realcaixia/status/1475127475046957064)
 
