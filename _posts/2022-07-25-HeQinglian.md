@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -149,7 +149,7 @@ Re @CrabNJ 你愿意称呼令堂为“会怀孕的女人”吗？如果你不愿
 
 ### 34: [2022-07-26 04:09:34+08:00 推文](https://twitter.com/HeQinglian/status/1551660953955074060)
 
-刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。
+刚知道，【英相候选人苏纳克“一度顾左右而言他，表示要在维护国家利益和价值的同时，‘继续和中国交往’。而中共喉舌《环球时报》早前曾发文形容，在英国首相之争中，苏纳克是唯一一位“对发展中英关系持明确而务实观点”的候选人。<br>这个定性，被外界形容是中方对苏纳克的“死亡之吻”。】<br>果然是竞选策略。<br><br>He Qinglian: 想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br> <a href="https://twitter.com/RFI_TradCn/status/1551357705066950658" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_TradCn/status/1551357705066950658</a>
 
 ### 35: [2022-07-26 04:14:15+08:00 推文](https://twitter.com/HeQinglian/status/1551662132877484037)
 
@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -217,7 +217,7 @@ Re @shenliangqing2 美国现在最大的问题是忘记了自身的辉煌是宪�
 
 ### 51: [2022-07-27 22:16:03+08:00 推文](https://twitter.com/HeQinglian/status/1552296764446834689)
 
-由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。
+由于民主党的努力，美国LGBT人口快接近10%（不包插QI，前一向古川有疑问，给过链接），猴痘应运而生，WHO、法国已经证明此病在男同及与他们有性关系的人群，敬请拜登政府与福奇对症下药，最多扩大至LGBT人群。<br><br>华尔街日报中文网: 美国联邦数据显示，美国已经报告了3,400多例确诊或疑似猴痘病例，成为自这个国际关注的突发公共卫生事件发生以来已知感染病例最多的国家。<br> <a href="https://on.wsj.com/3JfATo7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3JfATo7</a>
 
 ### 52: [2022-07-27 22:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1552298464578572288)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -733,7 +733,7 @@ Re @riverkiosk 又来了，是不是最近乌战实际战况让你心情不愉�
 
 ### 180: [2022-07-31 10:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1553569459113181184)
 
-这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂<br><br>DW 中文- 德国之声: 对俄制裁，是俄罗斯蒙受重创、金融市场的前景堪称“全球最差”？还是西方“伤敌八百、自损一千”？<br> <a href="https://p.dw.com/p/4Erre" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Erre</a>
+这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂
 
 ### 181: [2022-07-31 20:48:35+08:00 推文](https://twitter.com/HeQinglian/status/1553724302461210624)
 
