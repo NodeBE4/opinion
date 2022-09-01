@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-08-30
+date: 2022-09-01
 from: https://twitter.com/cnmediaproject/status/1564436880879681536
 layout: post
 tags:
@@ -38,4 +38,16 @@ Re You might also check out our investigation into the documentary "China: Time 
 ### 6: [2022-08-30 11:09:24+08:00 推文](https://twitter.com/cnmediaproject/status/1564450181948776448)
 
 Re And we started the year looking at new strategies to use "personal IP" (the individual accounts of reporters at Party-state media) to support what China sees as a global "public opinion struggle." <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a>
+
+### 7: [2022-09-01 08:11:47+08:00 推文](https://twitter.com/cnmediaproject/status/1565130260001456128)
+
+The People's Daily announces another Xi Jinping speech headlining the Seeking Truth journal today.<br><img style="" src="https://pbs.twimg.com/media/Fbh1emIaQAA8t2a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-09-01 08:12:29+08:00 推文](https://twitter.com/cnmediaproject/status/1565130436862685184)
+
+Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist." <a href="https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/01/20/xi-jinping-headline-columnist/</a>
+
+### 9: [2022-09-01 10:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1565164065282215936)
+
+Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
 
