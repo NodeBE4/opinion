@@ -584,15 +584,29 @@ ____
 
 EDIT(orialising):
 
-My own view is that there are essentially three possible scenarios:
+My own view is that there are essentially ~~three~~ four possible scenarios:
 
 1. The Long Shot: That is, the person in question did actually take some photographs of the Nanjing Massacre as it took place that are not known from elsewhere. This I call the 'Long Shot' but to be frank given that the person in question should not have been at the scene during the events, and that most of the album would still have been compiled from purchased photos, I am deeply sceptical.
 
-2. The Bad Faith Scenario: It's a hoax by either the TikToker or his client. The album is either partially or completely fake between the covers, and either this was an original album where modern reproductions were inserted, or it is entirely constituted from other sources; either way it contains nothing new.
+2. The Extra-Bad Faith Scenario: It's a full-on hoax by either the TikToker or his client. The album is either partially or completely fake between the covers, and either this was an original album where modern reproductions were inserted, or it is entirely constituted from other sources; either way it contains nothing new.
 
-3. The Good Faith Scenario: The album is genuine insofar as its original owner filled it with photos that he *purchased* rather than took himself, but for that reason almost certainly does not contain anything not already known, and the TikToker has been over-enthusiasitc.
+3. The Bad Faith Scenario: It's a more limited hoax in that while it is a genuine 1930s album, it contains nothing not already known, but the TikToker is intentionally attempting to disguise it as revelatory for clour.
+
+4. The Good Faith Scenario: The album is genuine insofar as its original owner filled it with photos that he *purchased* rather than took himself, but for that reason almost certainly does not contain anything not already known, and the TikToker has been over-enthusiasitc.
+
+____
+
+UPDATE:
+
+This thread by @fakehistoryhunt probably is the best summary at present for the good faith scenario: https://twitter.com/fakehistoryhunt/status/1565357318698635266
 
 ----- __754.9__ -----2022-09-01 21:25:50+08:00:
 
 Well, for a particularly understated definition of problematic...
+
+----- __754.10__ -----2022-09-02 00:56:59+08:00:
+
+For a more in-depth discussion I'll point to my friend /u/hellcatfighter's answer at r/AskHistorians on why scholars seem to have avoided the term of late: https://www.reddit.com/r/AskHistorians/comments/l4d1as/why_do_more_contemporary_sources_and/
+
+But in brief, it's not that you can't use it. The phrase 'rape of Nanking' (albeit *without* an initial capital letter) is actually pretty contemporary to the event in question, and 'Nanjing massacre' arguably fails to fully cover the nature of the atrocity. At the same time, the use of 'rape' implicitly robs China and the Chinese of agency in the context of the events in question, which while not 'untrue' in some objective sense, can still be a bit problematic. But arguably the main reason is simply that it is very associated with the book of that title by Iris Chang, which, although extremely significant in raising awareness of the event, has some issues with framing and sourcing that make it unfortunately somewhat shoddy scholarship in parts.
 
