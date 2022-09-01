@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-09-01
+date: 2022-09-02
 from: https://twitter.com/SpeechFreedomCN/status/1564800155647459329
 layout: post
 tags:
@@ -42,4 +42,8 @@ Re 更正：<br>“余某”应为“佘某”；<br>“网民”应为“网名
 ### 7: [2022-09-01 14:57:32+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1565232372475478022)
 
 Re Correction: the man's surname is She, instead of Yu.
+
+### 8: [2022-09-02 05:57:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1565458847317299201)
+
+Freedom of speech.
 

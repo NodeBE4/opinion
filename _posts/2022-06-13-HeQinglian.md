@@ -265,7 +265,7 @@ Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏
 
 ### 63: [2022-06-16 22:21:33+08:00 推文](https://twitter.com/RealBeiMing/status/1537440244986892288)
 
-RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>正念先生-东欧视角: 欧洲劝降团到达基辅<br><br><img style="" src="https://pbs.twimg.com/media/FVWz80uWAAAcW71?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVWz85sX0AAnLE0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 
@@ -349,7 +349,7 @@ Re @tankand300 那你高看了我。我是异类，你没见过我写这段生�
 
 ### 84: [2022-06-17 21:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1537784230855462913)
 
-这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。<br><br>联合早报 Lianhe Zaobao: 美国国家安全顾问沙利文说，美国总统拜登将发起一项全球基础设施倡议，以对抗中国在全球，特别是印太地区的野心。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220617-1283915" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220617-1283915</a>
+这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。
 
 ### 85: [2022-06-17 21:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1537784919358849029)
 

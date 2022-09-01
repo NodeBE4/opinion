@@ -115,3 +115,15 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg
 
 习保权保位第一，以清零核酸检测为名，不许民众乱说乱动；各级官吏争相行动乃至采取极端化措施。基层官员只求平安保乌纱帽，省部级地厅级还有往上爬的空间，贪图“官位高升”的竞相表现“积极作为”。这帮权迷心窍的人，眼里只有“打江山坐江山”，从上到下没把民生苦难放在心里。李克强救不了经济更救不了民<br><br>荣剑: 现在看来各省会城市要挨个来一次静默，全城全员核酸检测，忠不忠，看行动。<br><br><img style="" src="https://pbs.twimg.com/media/Fbi0l5XUcAAF1aX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbi0mgCVUAA0b-l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbi0m9AUcAAjvjA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 26: [2022-09-02 05:45:41+08:00 推文](https://twitter.com/realcaixia/status/1565455879381696519)
+
+唯愿鲍老节哀顺变，保重身体。鲍老夫妇在8964后几十年深受极权当局迫害，但始终无悔。我们多次一起聚餐聚议，老人家每次讲话都是启发我这样的后人继续前人的努力。有些话当时听好像平和无奇，现在回头想，深感声不在高，在于坚信不疑坚定践行。中国争取宪政民主需要数代人几百年的接力奋斗。<br><br>鲍简: “1949年6月，上海，我在南洋中学，她在达人中学，由区学委决定两校联合配合解放军办一件事，这是我们第一次见面。<br>两年后的1951年，我已经在华东局组织部工作了，这年的夏天，我办公桌对面多了一张桌子，要来个新同志，来的是谁呢，来的就是她。<br>从此以后一辈子，我叫她蒋宗曹，她叫我鲍彤。”<br><br><img style="" src="https://pbs.twimg.com/media/Fba8yPbVsAEXtd_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-09-02 05:49:14+08:00 推文](https://twitter.com/realcaixia/status/1565456773288546307)
+
+中国人生活在监控器下，老大哥无时不刻不在盯着你。<br><br>韩连潮: 艺术源于生活<br><br><img style="" src="https://pbs.twimg.com/media/FbfVICiXgAAtJRD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbfVICiXkAQOmcF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-09-02 07:42:56+08:00 推文](https://twitter.com/realcaixia/status/1565485386205462531)
+
+特别推荐议报发布《巴巴拉·塔奇曼 | 越预判越错判：历史没有剧本，只有意外》<br>从习2018流氓修宪得逞后，习是否会连任成为2022年全球关注中国的首要问题，许多人都发布了各种带预判性的评论。中共是无法预判的，因为不透明，因为无规则，因为中共内斗无底线，一切皆有可能。 <a href="https://yibaochina.com/?p=247643" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247643</a>
+

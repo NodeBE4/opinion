@@ -49,7 +49,7 @@ Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist."�
 
 ### 9: [2022-09-01 10:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1565164065282215936)
 
-Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
+Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br>
 
 ### 10: [2022-09-01 14:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1565229111022604288)
 
@@ -67,7 +67,11 @@ Re CSHRS refers to itself as “the largest national non-governmental organizati
 
 Re CFHRD calls itself a “public foundation.” But it also states unambiguously in its formal charter from 1994 that “the business unit in charge is the Propaganda Department of the Central Committee of the Chinese Communist Party (Information Office of the State Council).”<br><video src="https://video.twimg.com/tweet_video/FbjmrOfaQAEs2sS.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/FbjmrOfaQAEs2sS.jpg"></video>
 
-### 14: [2022-09-01 20:06:22+08:00 推文](https://twitter.com/cnmediaproject/status/1565310091397840896)
+### 14: [2022-09-01 16:28:12+08:00 推文](https://twitter.com/arvmoh97/status/1565255188633780224)
+
+RT Arvind Mohan<br>'Xi is an authoritarian skeptic of capitalism. He sees his historic mission as summoning China out of the Gilded Age and into a Red Progressive Era, using the tools of Leninism: commands and campaigns' <a href="https://www.noemamag.com/the-clash-of-two-gilded-ages/" target="_blank" rel="noopener noreferrer">https://www.noemamag.com/the-clash-of-two-gilded-ages/</a>
+
+### 15: [2022-09-01 20:06:22+08:00 推文](https://twitter.com/cnmediaproject/status/1565310091397840896)
 
 The "OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region" report met with Chinese media silence today. While we wait for the biting commentaries, some context. <a href="https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/</a>
 
