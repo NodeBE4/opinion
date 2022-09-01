@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-08-31
+date: 2022-09-02
 from: https://twitter.com/realcaixia/status/1564107952738508801
 layout: post
 tags:
@@ -25,7 +25,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 3: [2022-08-30 06:45:24+08:00 推文](https://twitter.com/realcaixia/status/1564383744047333376)
 
-这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
+这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br>
 
 ### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
 
@@ -110,4 +110,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxqynXEAEegTN?format=jpg
 ### 24: [2022-08-31 22:35:16+08:00 推文](https://twitter.com/realcaixia/status/1564985173711749121)
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-09-02 01:35:17+08:00 推文](https://twitter.com/realcaixia/status/1565392865404063744)
+
+习保权保位第一，以清零核酸检测为名，不许民众乱说乱动；各级官吏争相行动乃至采取极端化措施。基层官员只求平安保乌纱帽，省部级地厅级还有往上爬的空间，贪图“官位高升”的竞相表现“积极作为”。这帮权迷心窍的人，眼里只有“打江山坐江山”，从上到下没把民生苦难放在心里。李克强救不了经济更救不了民<br><br>荣剑: 现在看来各省会城市要挨个来一次静默，全城全员核酸检测，忠不忠，看行动。<br><br><img style="" src="https://pbs.twimg.com/media/Fbi0l5XUcAAF1aX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbi0mgCVUAA0b-l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbi0m9AUcAAjvjA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
