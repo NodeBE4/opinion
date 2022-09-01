@@ -265,7 +265,7 @@ Re @shenliangqing2 你错过了美国历史上最重要的转折点，我算经�
 
 ### 63: [2022-07-20 23:09:44+08:00 推文](https://twitter.com/HeQinglian/status/1549773556812288000)
 
-希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？
+希拉里准备参加2024年大选，以阻止川普。<br>感想：美国政治现在越来越好玩且让人难脱滑稽感。<br>1、当年民主党未准备全面使用多米尼机器，虽然主媒一边倒支持希拉里，纽时还为总统先生克林顿男士想官称，但希拉里还是失败了。<br>2、如果要用多米尼与邮寄选票，民主党的极左哪里会让她出征？<br><br>Newsmax: Hillary Clinton will run again for president in 2024 to stop Donald Trump, says Dick Morris:<br><br><img style="" src="https://pbs.twimg.com/media/FYFXKrSVEAAJkg5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3uYQaUe" target="_blank" rel="noopener noreferrer">https://bit.ly/3uYQaUe</a>
 
 ### 64: [2022-07-20 23:11:51+08:00 推文](https://twitter.com/HeQinglian/status/1549774090059259907)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -309,7 +309,7 @@ Re @cskun1989 @520CHINA025 胡温时期过去不久，许多时政分析的文�
 
 ### 74: [2022-07-21 08:49:14+08:00 推文](https://twitter.com/HeQinglian/status/1549919395035635713)
 
-萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。<br><br>He Qinglian: 马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br> <a href="https://twitter.com/RFI_Cn/status/1549862099291033602" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1549862099291033602</a>
+萨缪尔逊的《经济学》应该从教科书经典的位置上赶下来，美国左派经济学家比如纽时那两位专栏作家赶紧加班加点编写《大重置时代的经济学原理》，将供需原理、消费者需求、边际需求、恩格尔定律等等，全扫进历史垃圾堆。<br>从此，生产什么、生产多少、为谁生产，全由世界政府决定。
 
 ### 75: [2022-07-21 09:26:35+08:00 推文](https://twitter.com/HeQinglian/status/1549928793149677569)
 
@@ -481,7 +481,7 @@ RT 北明BeiMing<br>美國前駐蘇大使：蓄意促成的烏克蘭危機<br>
 
 ### 117: [2022-07-22 20:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1550458605211631618)
 
-战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。
+战争虽然还未结束，但欧盟却注定是最大的失败者。三个短板充分暴露：<br>能源上，对俄罗斯的依赖度太高；<br>市场上，对中国的依赖度太高；<br>军事上，对美国的依赖度太高。<br>和平年代，三大依赖能够维持，欧洲繁荣；发生一场局部战争，短板立显。<br>欧盟的危机刚开始。<br><br>北明BeiMing: 美國前駐蘇大使：蓄意促成的烏克蘭危機<br><br>編者按：文章雖發表在戰爭爆發前，卻準確地預測和分析了戰爭的必然性以及導致戰爭的諸多因素，特別對美國長期以來針對俄羅斯的外交政策進行了深刻而犀利的反思，並透露出一些重大的珍貴史實，值得一讀。<br> <a href="http://taiwanus.net/news/news/2022/202207201549431364.htm" target="_blank" rel="noopener noreferrer">http://taiwanus.net/news/news/2022/202207201549431364.htm</a>
 
 ### 118: [2022-07-22 20:34:18+08:00 推文](https://twitter.com/HeQinglian/status/1550459216875458562)
 
@@ -801,5 +801,5 @@ Re @realJackLaw @KELMAND1 @ZedongWinine @LetsBeatRabbits 正好相反。
 
 ### 197: [2022-07-24 23:35:41+08:00 推文](https://twitter.com/HeQinglian/status/1551229642526318592)
 
-米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？
+米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？<br><br>RFI 華語 - 法國國際廣播電台: 米利將軍：中國更具侵略性 對美國及盟友很危險<br><br><img style="" src="https://pbs.twimg.com/media/FYcPrOoUEAEWRZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bk1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bk1.t</a>
 
