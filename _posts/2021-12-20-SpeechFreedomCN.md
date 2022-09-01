@@ -25,7 +25,7 @@ Re Shenzhen University teacher Wu Yuanqing under investigation by the University
 
 ### 3: [2021-12-21 20:27:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473268982690074625)
 
-事情是这样的：先是上海震旦学院的宋庚一老师在课堂上说南京大屠杀的死亡人数没有历史依据，被学生举报，导致其被开除。官方也批评她并力挺举报的学生。而深圳大学的教师吴远卿则在朋友圈转发了一篇人民日报的旧闻《不告密不揭发是道德底线》，谴责震旦学院举报的学生，现吴远卿也被举报，正接受调查。<br><img style src="https://pbs.twimg.com/media/FHIZYD-XIAE_QsH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHIZi-QWUAUNk2V?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHIZlmgXoAQfa-9?format=jpg&name=orig" referrerpolicy="no-referrer">
+事情是这样的：先是上海震旦学院的宋庚一老师在课堂上说南京大屠杀的死亡人数没有历史依据，被学生举报，导致其被开除。官方也批评她并力挺举报的学生。而深圳大学的教师吴远卿则在朋友圈转发了一篇人民日报的旧闻《不告密不揭发是道德底线》，谴责震旦学院举报的学生，现吴远卿也被举报，正接受调查。<br><img style="" src="https://pbs.twimg.com/media/FHIZYD-XIAE_QsH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHIZi-QWUAUNk2V?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHIZlmgXoAQfa-9?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-23 18:49:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1473968894872330242)
 
@@ -45,5 +45,5 @@ Re The teacher's name is Li Tiantian, and the Shanghai teacher she supported on 
 
 ### 8: [2021-12-26 20:31:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081875840552963)
 
-Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
 

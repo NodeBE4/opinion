@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -1117,7 +1117,7 @@ Re @davidyching 拜登是这样说的：让普京政权垮台。我知道欧盟�
 
 ### 276: [2022-04-10 10:07:33+08:00 推文](https://twitter.com/HeQinglian/status/1512975543544819712)
 
-德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂
+德国让一些人很生气：<br>英国“卫报”报导，德总理萧兹（Olaf Scholz）上任后首度与英国进行双边扩大会谈，会后与英首相Boris Johnson共同举行记者会。<br>萧兹表示，德国正竭尽所能摆脱对俄罗斯能源的依赖，但不愿为英国首相提出2024年中起停止从俄国进口天然气的要求背书。<br>😂<br><br>He Qinglian: 德国联邦国防军几乎没有可供给乌克兰的武器了 <br>德国前总理默克尔为任期内没有同意乌克兰靠近北约和欧盟而受到批评。默克尔为自己当年的政策做了辩护。但批评声持续不断，认为默对现在的乌克兰战争负有潜在的连带责任。现基民盟高层经过讨论后，明确支持前党领袖默克尔的路线。<br> <a href="https://rfi.my/8K6d.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8K6d.T</a>
 
 ### 277: [2022-04-10 10:13:07+08:00 推文](https://twitter.com/HeQinglian/status/1512976942206791686)
 

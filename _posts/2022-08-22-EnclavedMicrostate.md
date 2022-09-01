@@ -543,3 +543,7 @@ Well also, *former* Oxford Classics lecturer (the Professor title is a bit more 
 
 What's really quite bewildering about the Obbink scandal is that I believe a lot of the early highly public reporting of it was in mid-2018, which is before I started an undergraduate degree at Oxford, and yet it is *still going on now*, a year after I graduated.
 
+----- __754.7__ -----2022-09-01 14:56:27+08:00:
+
+Jesus mythicism is such a fascinating hill to die on, which I know firsthand because I used to buy into it myself. The question of whether Jesus existed is so fundamentally unremarkable it's barely worth asking. The real question really, and the one that would prompt at least interesting discussion, is how much of Jesus' life we can actually be certain of, *beyond* the simple fact of his existence.
+
