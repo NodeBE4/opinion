@@ -67,3 +67,7 @@ Re CSHRS refers to itself as “the largest national non-governmental organizati
 
 Re CFHRD calls itself a “public foundation.” But it also states unambiguously in its formal charter from 1994 that “the business unit in charge is the Propaganda Department of the Central Committee of the Chinese Communist Party (Information Office of the State Council).”<br><video src="https://video.twimg.com/tweet_video/FbjmrOfaQAEs2sS.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/FbjmrOfaQAEs2sS.jpg"></video>
 
+### 14: [2022-09-01 20:06:22+08:00 推文](https://twitter.com/cnmediaproject/status/1565310091397840896)
+
+The "OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region" report met with Chinese media silence today. While we wait for the biting commentaries, some context. <a href="https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/</a>
+

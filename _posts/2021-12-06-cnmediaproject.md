@@ -57,7 +57,7 @@ Topping page one of the People's Daily today -- the release of a new book on hum
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -85,11 +85,11 @@ Re And of course these top headlines are mirrored in position on the homepage of
 
 ### 18: [2021-12-08 08:33:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468378119002550272)
 
-Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Wait. Can't get enough of these inspiring layouts? Here is Shenyang Daily.<br><img style="" src="https://pbs.twimg.com/media/FGC6Fa4VQAAwz0-?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2021-12-08 08:34:33+08:00 推文](https://twitter.com/cnmediaproject/status/1468378428462477313)
 
-Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth League. <a href="http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://zqb.cyol.com/html/2021-12/08/nw.D110000zgqnb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC6Y8PUcAEVH-7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
@@ -105,7 +105,7 @@ Re On definitions, CMP is proud to be a partner in the excellent Decoding China 
 
 ### 23: [2021-12-08 19:00:19+08:00 推文](https://twitter.com/cnmediaproject/status/1468535910900047873)
 
-Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Hailed inside China as a film transforming the appeal of CCP films, The Battle at Lake Changjin may have broken domestic box office records this year. But the struggle for global audiences for "red culture" will be far more difficult. <a href="https://bit.ly/31Khh9O" target="_blank" rel="noopener noreferrer">https://bit.ly/31Khh9O</a><br><img style="" src="https://pbs.twimg.com/media/FGFJbzKVIAAOepf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-08 21:36:31+08:00 推文](https://twitter.com/AlexDukalskis/status/1468575217228337156)
 
@@ -125,7 +125,7 @@ Re A report from the Global Times late yesterday about the forum asserts that: "
 
 ### 28: [2021-12-09 09:03:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468748020888240134)
 
-Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re They are: Ma Zhaoxu, a MOFA vice-minister; Russia's Vladimir Norov of the SCO; Peng Qinxuan of Wuhan University Institute of International Law; and Zhu Ying of SW Univ of Pol. Science and Law. Zhu is a regular in human rights related takedowns of the West. <a href="https://hri.swupl.edu.cn/rmxx/301614.htm" target="_blank" rel="noopener noreferrer">https://hri.swupl.edu.cn/rmxx/301614.htm</a><br><img style src="https://pbs.twimg.com/media/FGIKfxWUcAM0dVC?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2021-12-09 09:29:12+08:00 推文](https://twitter.com/cnmediaproject/status/1468754569799028736)
 
@@ -165,11 +165,11 @@ Don't miss today's page-two "Zhong Sheng" (钟声) commentary in the People's Da
 
 ### 38: [2021-12-10 02:42:32+08:00 推文](https://twitter.com/GeringTuvia/status/1469014618307641344)
 
-RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"The economic card is currently our best hand, with political influence following in second and security coming in third" - US expert Professor Wu Xinbo of Fudan University speaks on the "impact of US hegemony's decline on the international order."<br>1/<br><img style="" src="https://pbs.twimg.com/media/FGL88k2VUAA7Txf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-11 03:02:36+08:00 推文](https://twitter.com/vshih2/status/1469382055511265280)
 
-RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Victor Shih<br>Kind of hard to believe but the fans economy in China was projected to grow to 1 trillion USD by 2023 before CAC decided to reduce it to essentially zero, was like a combination of online shopping and gambling.  This is a big story actually.<br><img style="" src="https://pbs.twimg.com/media/FGRK6r1VkAALOH7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-11 14:45:48+08:00 推文](https://twitter.com/nickbouchet/status/1469559023510769664)
 
