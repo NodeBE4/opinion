@@ -51,3 +51,19 @@ Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist."�
 
 Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
 
+### 10: [2022-09-01 14:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1565229111022604288)
+
+Near total silence in China's media on the OHCHR report on Xinjiang today. But while we wait for the fire-breathing, a quick dive into the CCP's front organizations for human rights engagement. <a href="https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/</a>
+
+### 11: [2022-09-01 16:24:19+08:00 推文](https://twitter.com/cnmediaproject/status/1565254212648583168)
+
+The CCP’s flagship People’s Daily reported along with other state media in early July that the China Society of Human Rights had released a new report called “US Commits Grave Human Rights Violations in the Middle East and Elsewhere.” Who is the CSHRS? 1/3 <a href="https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/</a>
+
+### 12: [2022-09-01 16:24:54+08:00 推文](https://twitter.com/cnmediaproject/status/1565254357930905600)
+
+Re CSHRS refers to itself as “the largest national non-governmental organization in the field of human rights in China." The group is “active in human rights studies," it says. But its funding comes mainly from the China Foundation for Human Rights Development. CFHRD?<br><video src="https://video.twimg.com/tweet_video/FbjmiW9agAAyaGi.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/FbjmiW9agAAyaGi.jpg"></video>
+
+### 13: [2022-09-01 16:25:30+08:00 推文](https://twitter.com/cnmediaproject/status/1565254510423207938)
+
+Re CFHRD calls itself a “public foundation.” But it also states unambiguously in its formal charter from 1994 that “the business unit in charge is the Propaganda Department of the Central Committee of the Chinese Communist Party (Information Office of the State Council).”<br><video src="https://video.twimg.com/tweet_video/FbjmrOfaQAEs2sS.mp4" autoplay="" loop="" muted="" webkit-playsinline="" playsinline="" controls="controls" poster="https://pbs.twimg.com/tweet_video_thumb/FbjmrOfaQAEs2sS.jpg"></video>
+

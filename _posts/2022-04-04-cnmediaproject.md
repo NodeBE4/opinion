@@ -65,7 +65,7 @@ RT Roy Ngerng 鄞義林<br>I grew up in an authoritarian regime, and you have 
 
 ### 13: [2022-04-06 01:01:36+08:00 推文](https://twitter.com/NeysunM/status/1511388598150451208)
 
-RT Neysun Mahboubi<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Neysun Mahboubi 马瑞欣<br>Together w/@China_Digital, I'm delighted to announce the launch of our "Transatlantic &amp; European Dialogue on China", ft. the excellent persons below plus a few more. Many thanks to @FordFoundation for their support, and institutional partners @AsiaLeiden &amp; @UniLUISS. Stay tuned..<br><img style="" src="https://pbs.twimg.com/media/FPmGypQUYAIIgsj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-04-06 08:06:18+08:00 推文](https://twitter.com/cnmediaproject/status/1511495475177820167)
 
@@ -85,7 +85,7 @@ Prominent play in official Chinese media lately to the phrase "seeking progress 
 
 ### 18: [2022-04-06 13:15:22+08:00 推文](https://twitter.com/niccijsmith/status/1511573256062439427)
 
-RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇
+RT Nicola Smith<br>Remember when locked down citizens in Wuhan chanted from their windows &amp; balconies to help each other in 2020? Here we have Shanghai in 2022..👇<br><br>Alice Su: As seen on Weibo: Shanghai residents go to their balconies to sing &amp; protest lack of supplies. A drone appears: “Please comply w covid restrictions. Control your soul’s desire for freedom. Do not open the window or sing.”<br><br><video src="https://video.twimg.com/ext_tw_video/1511558805997645828/pu/vid/540x960/OVLxe_dyshml00vn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511558805997645828/pu/img/mx9eylEl0JVhlkBN.jpg"></video> <a href="https://m.weibo.cn/status/4755028135383701" target="_blank" rel="noopener noreferrer">https://m.weibo.cn/status/4755028135383701</a>
 
 ### 19: [2022-04-06 13:15:37+08:00 推文](https://twitter.com/cnmediaproject/status/1511573319036071938)
 
@@ -129,7 +129,7 @@ RT Programme on Democracy and Technology<br>Our latest China Information Opera
 
 ### 29: [2022-04-06 20:30:46+08:00 推文](https://twitter.com/CarlMinzner/status/1511682826252521475)
 
-RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public.<br><br>William Farris: Snapshot of what folks in PRC vs Taiwan see re: Ukraine - I translated the first page of Baidu and Yahoo News results for "Bucha Incident" (布查事件) on April 5. Red means source is a PRC Party mouthpiece. Blue indicates the same story about Russia submitting its "evidence" to UN<br><br><img style="" src="https://pbs.twimg.com/media/FPqQDVZaAAgAK9o?format=png&amp;name=orig" referrerpolicy="no-referrer">
+RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public. <a href="https://twitter.com/wafarris/status/1511680611907694597?s=20&amp;t=fQLFpkYGAFYZBc_TXEg4Cg" target="_blank" rel="noopener noreferrer">https://twitter.com/wafarris/status/1511680611907694597?s=20&amp;t=fQLFpkYGAFYZBc_TXEg4Cg</a>
 
 ### 30: [2022-04-06 21:41:46+08:00 推文](https://twitter.com/niubi/status/1511700694172155909)
 
