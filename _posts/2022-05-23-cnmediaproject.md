@@ -185,7 +185,7 @@ RT Jun Mai<br>Re 2. The exc @cnmediaproject did a very detailed analysis of th
 
 ### 43: [2022-05-27 17:56:41+08:00 推文](https://twitter.com/LiYuan6/status/1530125833276620801)
 
-RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!
+RT Li Yuan<br>This is a weekly Chinese podcast I launched with a few journalist friends. We would like to bring fascinating and uncensored conversations to the Chinese audience. Please subscribe!<br><br>不明白播客: 由几位在独立媒体工作的新闻记者共同发起、袁莉@LiYuan6 主持的《不明白播客》今天正式上线了! 第一期播客我们和作家慕容雪村@hawking197428 讨论了他如何在万分恐惧之中写出《禁城: 武汉传来的声音》一书，以及他如何处理很多中国知识分子面对的出版和母语写作困境。<br>官网:<br> <a href="https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/" target="_blank" rel="noopener noreferrer">https://www.bumingbai.net/2022/05/ep-001-murong-xuecun/</a>
 
 ### 44: [2022-05-27 18:13:14+08:00 推文](https://twitter.com/joshchin/status/1530129995909443584)
 
