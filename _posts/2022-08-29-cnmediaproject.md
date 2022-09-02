@@ -91,3 +91,7 @@ Silence tells its own story, of Xinjiang as a matter so sensitive to China’s l
 
 Re "Perhaps the most revealing fact to note today, 48 hours after the release of the Xinjiang report, is that there has been almost no reporting at all inside China."
 
+### 20: [2022-09-02 18:04:18+08:00 推文](https://twitter.com/GreatFireChina/status/1565641761774526464)
+
+RT GreatFire.org<br>Also noteworthy is that the UN Human Rights Office website is not being blocked in China. Both the report and the Chinese government response to the report can be downloaded inside the great firewall.<br><img style="" src="https://pbs.twimg.com/media/FbpGjevXEAEEklZ?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: "Perhaps the most revealing fact to note today, 48 hours after the release of the Xinjiang report, is that there has been almost no reporting at all inside China."<br>
+
