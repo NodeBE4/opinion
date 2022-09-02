@@ -25,7 +25,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 3: [2022-08-30 06:45:24+08:00 推文](https://twitter.com/realcaixia/status/1564383744047333376)
 
-这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br>
+这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
 
 ### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
 
@@ -89,7 +89,7 @@ Re @qinxian54220128 谢谢您的提醒，我已经推荐发到推特上了。
 
 ### 19: [2022-08-31 06:43:52+08:00 推文](https://twitter.com/realcaixia/status/1564745747043606533)
 
-曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br> <a href="https://twitter.com/GaoFalin/status/1563949162189791233" target="_blank" rel="noopener noreferrer">https://twitter.com/GaoFalin/status/1563949162189791233</a>
+曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br>
 
 ### 20: [2022-08-31 21:43:30+08:00 推文](https://twitter.com/realcaixia/status/1564972148254539776)
 
@@ -138,4 +138,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg
 ### 31: [2022-09-03 02:14:58+08:00 推文](https://twitter.com/realcaixia/status/1565765239760723968)
 
 无语。<br><br>Petrichor: 他不尴尬，大家都尴尬。<br><br><video src="https://video.twimg.com/ext_tw_video/1565365565463601156/pu/vid/640x360/KyECtJFaexSTLqFK.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1565365565463601156/pu/img/LY4qdK26Qcjnrwx7.jpg"></video>
+
+### 32: [2022-09-03 05:30:51+08:00 推文](https://twitter.com/realcaixia/status/1565814535956697089)
+
+联合国人权事务高级专员办事处发布了新疆维吾尔等民族人权状况报告，在海外引起高度关注。中国政府企图以防火墙对大陆民众封锁信息。但毕竟信息是挡不住的。下面几张图片就是墙内中国人传发的。<br><img style="" src="https://pbs.twimg.com/media/FbrkA9rXoAAbwbT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbrkBKBXgAEIogZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FbrkBToXEAYcc8E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2022-09-03 05:35:07+08:00 推文](https://twitter.com/realcaixia/status/1565815610222776327)
+
+现在再读狄更斯这段话，正是对大陆中国状况十分贴切的描述。<br><br>韩连潮: 【大革命前奏】当下中国和狄更斯笔下欧洲极相似：这是最好的时代，这是最坏的时代；这是智慧的时代，这是愚蠢的时代；这是信仰的时期，这是怀疑的时期；这是光明的季节，这是黑暗的季节；这是希望之春，这是失望之冬；人们面前有着各样事物，人们面前一无所有；人们正在直登天堂，人们正在直下地狱。<br><br><img style="" src="https://pbs.twimg.com/media/FbnG8G7WIAIDR06?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
