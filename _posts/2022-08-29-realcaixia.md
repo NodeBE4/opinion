@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-02
+date: 2022-09-03
 from: https://twitter.com/realcaixia/status/1564107952738508801
 layout: post
 tags:
@@ -89,7 +89,7 @@ Re @qinxian54220128 谢谢您的提醒，我已经推荐发到推特上了。
 
 ### 19: [2022-08-31 06:43:52+08:00 推文](https://twitter.com/realcaixia/status/1564745747043606533)
 
-曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br>
+曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br> <a href="https://twitter.com/GaoFalin/status/1563949162189791233" target="_blank" rel="noopener noreferrer">https://twitter.com/GaoFalin/status/1563949162189791233</a>
 
 ### 20: [2022-08-31 21:43:30+08:00 推文](https://twitter.com/realcaixia/status/1564972148254539776)
 
@@ -130,4 +130,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg
 ### 29: [2022-09-02 10:56:55+08:00 推文](https://twitter.com/realcaixia/status/1565534207237132295)
 
 特别推荐#议报发布阿克顿勋爵的文章节选《自由人的思想遗产：历史要的是批判与真相,而非狂妄与激情》<br>阿克顿勋爵是英国的一位历史学家，他对法国大革命的反思是极为深刻的。他的《法国大革命讲稿》是中国人走出马克思主义列宁主义、中共党宣传暴力革命的思想迷误的有效启蒙。<br><br>《议报》: 阿克顿 | 自由人的思想遗产：历史要的是批判与真相，​而非狂妄与激情<br> <a href="https://yibaochina.com/?p=247659" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247659</a>
+
+### 30: [2022-09-03 00:48:41+08:00 推文](https://twitter.com/realcaixia/status/1565743527136477188)
+
+如今大陆民众想过个正常的安生日子都成了奢望。这几张不仅可得奖而且该上史书。<br><br>荣剑: 这几张照片都可以获普利策奖！<br><br><img style="" src="https://pbs.twimg.com/media/Fbm_eYSVEAAdyuo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbm_ek4VEAADty1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fbm_fNRUcAAeZbC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-09-03 02:14:58+08:00 推文](https://twitter.com/realcaixia/status/1565765239760723968)
+
+无语。<br><br>Petrichor: 他不尴尬，大家都尴尬。<br><br><video src="https://video.twimg.com/ext_tw_video/1565365565463601156/pu/vid/640x360/KyECtJFaexSTLqFK.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1565365565463601156/pu/img/LY4qdK26Qcjnrwx7.jpg"></video>
 
