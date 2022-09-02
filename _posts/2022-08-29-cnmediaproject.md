@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-01
+date: 2022-09-02
 from: https://twitter.com/cnmediaproject/status/1564436880879681536
 layout: post
 tags:
@@ -74,4 +74,8 @@ RT Arvind Mohan<br>'Xi is an authoritarian skeptic of capitalism. He sees his 
 ### 15: [2022-09-01 20:06:22+08:00 推文](https://twitter.com/cnmediaproject/status/1565310091397840896)
 
 The "OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous Region" report met with Chinese media silence today. While we wait for the biting commentaries, some context. <a href="https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/</a>
+
+### 16: [2022-09-02 08:43:13+08:00 推文](https://twitter.com/cnmediaproject/status/1565500558785794048)
+
+While waiting for China's furious official media response to the UN report on human rights abuses in Xinjiang, CMP took a closer look at the organizations through which China engages internationally on these issues. <a href="https://bit.ly/3wPQshb" target="_blank" rel="noopener noreferrer">https://bit.ly/3wPQshb</a><br><img style="" src="https://pbs.twimg.com/media/FbnGdQGaUAAOELb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
