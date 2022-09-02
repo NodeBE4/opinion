@@ -165,7 +165,7 @@ Re @q5E5KqUxIoWkM33 @AndrickLi 我遇到过两次查我：1，2013年我发文�
 
 ### 38: [2022-05-09 22:02:46+08:00 推文](https://twitter.com/realcaixia/status/1523664777976852481)
 
-这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢 100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这个文件如果是真实的，很值得关注。文革时期的各种做法改头换面的死灰复燃了。“斗争”是文革时期的主旋律，以各种借口挑起民众斗民众，并且还是政府组织一支队伍斗争民众。<br><br>餘錢100: @realcaixia 【組建法理鬥爭民兵排】什麼玩意東西？難道是中共見識到了上海的懂法群眾，專門組建起來用來對付敢言的法學教授或學者？打不贏就用糾纏？這不就是文革式流氓嗎？司法局難道要文革复闢打倒法學教材嗎？上海人的主張是完全有法理的，法理鬥爭民兵排拿什麼來鬥爭？用假法理鬥爭真法理？真的是貽笑大方！<br><br><img style="" src="https://pbs.twimg.com/media/FSUYNMQXsAAw_WQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-05-10 02:09:28+08:00 推文](https://twitter.com/realcaixia/status/1523726863918534658)
 
@@ -193,7 +193,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 45: [2022-05-11 21:21:45+08:00 推文](https://twitter.com/realcaixia/status/1524379234466250761)
 
-這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！
+這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！<br><br>躲猫猫3.0: 新冠目前比艾滋和癌症更让民众恐惧，恐惧的不是医学上的危害，而是政治上的恐惧和社会性的死亡，说到底，新冠现在是一种严重的政治病和人身迫害症。<br><br><video src="https://video.twimg.com/ext_tw_video/1524015266509639680/pu/vid/720x960/TdVj1QB1zDjghph1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524015266509639680/pu/img/ddOjckRe3OBKVC-d.jpg"></video>
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
@@ -249,5 +249,5 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 59: [2022-05-15 23:02:55+08:00 推文](https://twitter.com/realcaixia/status/1525854245110489090)
 
-英雄出狱。<br><br>维权网: 维权网: 获刑3年的安徽合肥著名异议人士沈良庆刑满出狱<br><br><img style="" src="https://pbs.twimg.com/media/FSxcWf1akAcphhR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcXTAagAAqJRm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSxcYYtacAApsZq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://wqw2010.blogspot.com/2022/05/3.html?spref=tw" target="_blank" rel="noopener noreferrer">https://wqw2010.blogspot.com/2022/05/3.html?spref=tw</a>
+英雄出狱。
 

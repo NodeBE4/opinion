@@ -65,11 +65,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 13: [2022-06-29 11:26:25+08:00 推文](https://twitter.com/realcaixia/status/1541986418406326273)
 
-我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。
+我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。<br><br>楊建利 Yang Jianli: 敬告<br><br>由于不明来源的攻击，《议报》网站目前处于不稳定的状态。我们正紧急维修，相信很快会恢复正常。对因此给读者造成的不便和困扰，我们深表歉意。<br><br>致敬读者，您的信任是我们工作的动力，也是我们团队存在的价值。<br>致敬作者，您高质量的文章，给世界增添了精神色彩和思想资源。<br><br>《议报》编辑部<br>
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
-送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。
+送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。<br><br>浦志强: 老浦说点事：6月28日：八宝山送别张思之先生：限定20人，不许拍照，没致悼词，没读生平，我们送老爷子低调远行（附：《张思之先生生平》和《波尔基金...<br><br><img style="" src="https://pbs.twimg.com/media/FWYmuN0UAAAg3yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuOUUYAAWV-v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UsAAVXv3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UEAA2UO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/pLCwc-i-Jms" target="_blank" rel="noopener noreferrer">https://youtu.be/pLCwc-i-Jms</a>
 
 ### 15: [2022-06-29 12:21:55+08:00 推文](https://twitter.com/realcaixia/status/1542000383782014978)
 
@@ -105,11 +105,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 23: [2022-06-30 08:21:41+08:00 推文](https://twitter.com/realcaixia/status/1542302314706378754)
 
-看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。
+看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。<br><br>唐和尚: 20220629唐师曾：北京房山长阳镇（转发） <br>#北京核酸<br><br><video src="https://video.twimg.com/ext_tw_video/1542011217304223750/pu/vid/406x720/lKm8bTsVjK7NMwUn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542011217304223750/pu/img/yrtsdlUb29N3lVnH.jpg"></video> <a href="https://youtu.be/-bvR2S9uIY8" target="_blank" rel="noopener noreferrer">https://youtu.be/-bvR2S9uIY8</a>
 
 ### 24: [2022-06-30 08:39:03+08:00 推文](https://twitter.com/realcaixia/status/1542306687071174657)
 
-恒青先生说得对！<br><br>李恒青: 习近平今天在武汉强调，新冠肺炎疫情是一场大考。坚持动态清零是党中央确定的，宁可暂时影响一点经济发展，也不能让人民群众生命安全和身体健康受到伤害。如果算总账，我们的防疫措施是最经济的、效果最好的。<br>最经济、效果最好是你自己说了算吗？所有伤天害理的事都是在“一切为了人民”的幌子下干的。<br><br><img style="" src="https://pbs.twimg.com/media/FWbAos_XkAIHfHU?format=png&amp;name=orig" referrerpolicy="no-referrer">
+恒青先生说得对！
 
 ### 25: [2022-06-30 22:19:04+08:00 推文](https://twitter.com/realcaixia/status/1542513049046618113)
 
@@ -117,7 +117,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 26: [2022-06-30 23:48:59+08:00 推文](https://twitter.com/realcaixia/status/1542535677866377216)
 
-杨先生这推文撕掉了习近平在港讲话的假面具，把习近平上台后的毁港本质曝光了。<br><br>楊建利 Yang Jianli: 1/2<br>人们现在明白了，对香港和对内地一样，中共所谓的“两制”其实就是“邓制”和“习制”。<br>习近平去香港，就是参加“习制”香港的验收仪式。<br>“邓制”变成“习制”是回归时时人们未曾预料的。<br>
+杨先生这推文撕掉了习近平在港讲话的假面具，把习近平上台后的毁港本质曝光了。
 
 ### 27: [2022-06-30 23:57:04+08:00 推文](https://twitter.com/realcaixia/status/1542537711881519105)
 
@@ -129,7 +129,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 29: [2022-07-01 02:53:56+08:00 推文](https://twitter.com/realcaixia/status/1542582221881704448)
 
-非常赞同文章作者观点。
+非常赞同文章作者观点。<br><br>韩连潮: 美媒Politico发文，题为“美国不能就这样埋葬和遗忘香港”，值得一读。英美和其他西方民主国家有责任支持香港人维护其政治权利和公民权利。<br>U.S. can't just bury and forget Hong Kong<br><br><img style="" src="https://pbs.twimg.com/media/FWgF7BwX0AEkPs4?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://politi.co/3AfE78x" target="_blank" rel="noopener noreferrer">https://politi.co/3AfE78x</a>
 
 ### 30: [2022-07-01 03:05:39+08:00 推文](https://twitter.com/realcaixia/status/1542585172381601794)
 
@@ -141,7 +141,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 32: [2022-07-01 23:28:54+08:00 推文](https://twitter.com/realcaixia/status/1542893011419467776)
 
-1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。
+1920年前后，整个中国社会的文明发育水平达不到建立现代政党的程度，只能产生政治色彩浓厚、顶着“政党”名称的江湖帮会组织。中共与国民党早期都不具备现代政党特质。但国民党艰难地进化反思，接受英美文明，改造成党；中共始终是底层流氓无产者品性为主导，以马克思列宁理论为包装，黑社会本色不改。<br><br>韩连潮: 【中共是流氓帮会】今天是中共建党101周年，这个镰刀斧头帮等级森严的组织形态、邪恶的共产理念、切口、帮规和暴力手段等都证明它是地道的流氓帮会。流氓帮会掌控流氓政权，流氓政权宣扬流氓文化，流氓文化加速社会黑恶化，而中国黑社会化必将祸害人类世界。结论是，中共不除，国无宁日！<br><br><img style="" src="https://pbs.twimg.com/media/FWk7ySPXEAQg9OW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 33: [2022-07-01 23:49:24+08:00 推文](https://twitter.com/realcaixia/status/1542898170530758656)
 
@@ -165,7 +165,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
@@ -173,7 +173,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
-在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。
+在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。<br><br>Vicky Huang: @ZhaoMingObserve @Littlerize 看看當時影片 跟現在樣板完全不同<br> <a href="https://youtu.be/kxRYIrwnU_c" target="_blank" rel="noopener noreferrer">https://youtu.be/kxRYIrwnU_c</a>
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
