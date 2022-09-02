@@ -83,3 +83,11 @@ While waiting for China's furious official media response to the UN report on hu
 
 Chen Xi (陈希), head of the Organization Department, said in a speech at the Central Party School that the “Two Establishes” (meaning the unassailable position of Xi Jinping) is “one of the greatest political achievements of the Party in the New Era.” <a href="https://chinamediaproject.org/2022/09/02/all-aboard-the-adulation-express/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/all-aboard-the-adulation-express/</a>
 
+### 18: [2022-09-02 15:34:43+08:00 推文](https://twitter.com/cnmediaproject/status/1565604116243808256)
+
+Silence tells its own story, of Xinjiang as a matter so sensitive to China’s leadership that the only voices permitted to speak are the megaphones intended for external audiences. <a href="https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/</a>
+
+### 19: [2022-09-02 15:44:02+08:00 推文](https://twitter.com/cnmediaproject/status/1565606461790908421)
+
+Re "Perhaps the most revealing fact to note today, 48 hours after the release of the Xinjiang report, is that there has been almost no reporting at all inside China."
+
