@@ -555,7 +555,7 @@ So, this is very hot off the presses, but a TikTok has gained traction in the la
 
 *Anyway*, Kail's TikTok was clipped on Twitter [here](https://twitter.com/thiccmatisse/status/1565190598939869187) and he also posted several photos from the album [on his own Twitter](https://twitter.com/EvanKail/status/1565265493824622592). According to the video he wanted to ensure it was sold to a museum, but that he had not bought it himself, but that he had also no plans of returning it to the owner without ensuring its sale, which all seemed a little sus, and some did note that surely the obvious thing to do would be to contact a museum directly.
 
-More pressingly, though, there's a lot of suggestions that the album is quite likely to be a fake. Several tweets pointed out that, contrary to his claim that these photos were never-before-seen, at least some of the photos shown are actually already in the public domain, with a couple suggesting that in fact Photoshop was used to create some of the ones in the album:
+More pressingly, though, there's a lot of suggestions that the album is a fake. Several tweets pointed out that, contrary to his claim that these photos were never-before-seen, at least some of the photos shown are actually already in the public domain, with a couple suggesting that in fact Photoshop was used to create some of the ones in the album:
 
 * https://twitter.com/dancow/status/1565271791408488448
 * https://twitter.com/Just_Stasia_/status/1565245150447558656
@@ -574,7 +574,7 @@ Another key point of interest was the identity of the alleged photographer, Lesl
 
 * https://twitter.com/pararose38/status/1565286778889650176
 
-Probably the most measured response comes from @fakehistoryhunt, whose explanation of the discrepancies is the probably simple enough one that this was an album compiled in the 1930s from purchased photographs, even if it wasn't taken by the person in question:
+But probably the most measured response comes from @fakehistoryhunt, whose explanation of the discrepancies is the simple enough one that this was an album genuinely compiled in the 1930s from purchased photographs, even if it wasn't taken by the person in question:
 
 * https://twitter.com/fakehistoryhunt/status/1565312676443611142
 
@@ -586,11 +586,11 @@ EDIT(orialising):
 
 My own view is that there are essentially ~~three~~ four possible scenarios:
 
-1. The Long Shot: That is, the person in question did actually take some photographs of the Nanjing Massacre as it took place that are not known from elsewhere. This I call the 'Long Shot' but to be frank given that the person in question should not have been at the scene during the events, and that most of the album would still have been compiled from purchased photos, I am deeply sceptical.
+1. The Long Shot: That is, the person in question did actually take some photographs of the Nanjing Massacre as it took place that are not known from elsewhere. Given that the person in question should not have been at the scene during the events, and that most of the album would still have been compiled from purchased photos, the likelihood of this scenario being true is basically nil.
 
 2. The Extra-Bad Faith Scenario: It's a full-on hoax by either the TikToker or his client. The album is either partially or completely fake between the covers, and either this was an original album where modern reproductions were inserted, or it is entirely constituted from other sources; either way it contains nothing new.
 
-3. The Bad Faith Scenario: It's a more limited hoax in that while it is a genuine 1930s album, it contains nothing not already known, but the TikToker is intentionally attempting to disguise it as revelatory for clour.
+3. The Bad Faith Scenario: It's a more limited hoax in that while it is a genuine 1930s album, it contains nothing not already known, but the TikToker is intentionally attempting to disguise it as revelatory for clout.
 
 4. The Good Faith Scenario: The album is genuine insofar as its original owner filled it with photos that he *purchased* rather than took himself, but for that reason almost certainly does not contain anything not already known, and the TikToker has been over-enthusiasitc.
 
