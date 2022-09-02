@@ -127,3 +127,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg
 
 特别推荐议报发布《巴巴拉·塔奇曼 | 越预判越错判：历史没有剧本，只有意外》<br>从习2018流氓修宪得逞后，习是否会连任成为2022年全球关注中国的首要问题，许多人都发布了各种带预判性的评论。中共是无法预判的，因为不透明，因为无规则，因为中共内斗无底线，一切皆有可能。 <a href="https://yibaochina.com/?p=247643" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247643</a>
 
+### 29: [2022-09-02 10:56:55+08:00 推文](https://twitter.com/realcaixia/status/1565534207237132295)
+
+特别推荐#议报发布阿克顿勋爵的文章节选《自由人的思想遗产：历史要的是批判与真相,而非狂妄与激情》<br>阿克顿勋爵是英国的一位历史学家，他对法国大革命的反思是极为深刻的。他的《法国大革命讲稿》是中国人走出马克思主义列宁主义、中共党宣传暴力革命的思想迷误的有效启蒙。<br><br>《议报》: 阿克顿 | 自由人的思想遗产：历史要的是批判与真相，​而非狂妄与激情<br> <a href="https://yibaochina.com/?p=247659" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247659</a>
+

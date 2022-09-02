@@ -79,3 +79,7 @@ The "OHCHR Assessment of human rights concerns in the Xinjiang Uyghur Autonomous
 
 While waiting for China's furious official media response to the UN report on human rights abuses in Xinjiang, CMP took a closer look at the organizations through which China engages internationally on these issues. <a href="https://bit.ly/3wPQshb" target="_blank" rel="noopener noreferrer">https://bit.ly/3wPQshb</a><br><img style="" src="https://pbs.twimg.com/media/FbnGdQGaUAAOELb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 17: [2022-09-02 12:51:39+08:00 推文](https://twitter.com/cnmediaproject/status/1565563079806849024)
+
+Chen Xi (陈希), head of the Organization Department, said in a speech at the Central Party School that the “Two Establishes” (meaning the unassailable position of Xi Jinping) is “one of the greatest political achievements of the Party in the New Era.” <a href="https://chinamediaproject.org/2022/09/02/all-aboard-the-adulation-express/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/all-aboard-the-adulation-express/</a>
+
