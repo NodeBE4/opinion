@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-03
+date: 2022-09-04
 from: https://twitter.com/HeQinglian/status/1563958403998834694
 layout: post
 tags:
@@ -226,4 +226,16 @@ Re @John91056265 @lawyer_sui 变装皇后是变性人教育的游戏名称，让
 ### 53: [2022-09-03 20:04:22+08:00 推文](https://twitter.com/HeQinglian/status/1566034363879505925)
 
 苏联最后一任总书记戈尔巴乔夫的一生，注定被定格于1990年代初结束苏联铁幕统治与终结冷战的高光时刻。他的逝世时间点正逢俄乌战争，俄罗斯本土与西方对他的两极评价，是如此的对立与爱憎分明，因此，戈尔巴乔夫注定将拥有评价截然不同的两块墓碑，由俄罗斯与西方分别书写。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-09022022135334.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-09022022135334.html</a>
+
+### 54: [2022-09-03 23:06:08+08:00 推文](https://twitter.com/HeQinglian/status/1566080106354860033)
+
+Re @wbn19971 全看双方的得利与利益受损，这种利益尖锐对立的事情，你怎能要求一致？<br>西方庆祝的是戈尔巴乔夫为他们消除了一个大敌（他们没做到），俄罗斯人看到的是家国被毁，承受是的转型阵痛。<br>你将自己代入就明白了。
+
+### 55: [2022-09-03 23:16:57+08:00 推文](https://twitter.com/HeQinglian/status/1566082830165282819)
+
+Re @lzhn96836555 我从不批判人，我宁可将人当作一种社会现象分析。<br>我认为大千世界存在各种意见是非常正常的，如果都将不同于自己的观念恶批一通，不知不觉会助长自己的唯我正确之感。<br>就这样，还有人因为我很少犯他们那样的低级错误，比如拥郭、拥BLM而不见容。
+
+### 56: [2022-09-04 00:30:29+08:00 推文](https://twitter.com/HeQinglian/status/1566101334947921920)
+
+Re @zhixiangziyou 你看到这种图片后，最好搜索一下，许多是自制的，网易上完全没有。<br>我如果需要引用，一定核查。
 
