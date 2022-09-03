@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-02
+date: 2022-09-03
 from: https://twitter.com/cnmediaproject/status/1564436880879681536
 layout: post
 tags:
@@ -49,7 +49,7 @@ Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist."�
 
 ### 9: [2022-09-01 10:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1565164065282215936)
 
-Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
+Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br>
 
 ### 10: [2022-09-01 14:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1565229111022604288)
 
@@ -94,4 +94,8 @@ Re "Perhaps the most revealing fact to note today, 48 hours after the release of
 ### 20: [2022-09-02 18:04:18+08:00 推文](https://twitter.com/GreatFireChina/status/1565641761774526464)
 
 RT GreatFire.org<br>Also noteworthy is that the UN Human Rights Office website is not being blocked in China. Both the report and the Chinese government response to the report can be downloaded inside the great firewall.<br><img style="" src="https://pbs.twimg.com/media/FbpGjevXEAEEklZ?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><br>China Media Project: "Perhaps the most revealing fact to note today, 48 hours after the release of the Xinjiang report, is that there has been almost no reporting at all inside China."<br>
+
+### 21: [2022-09-03 10:31:44+08:00 推文](https://twitter.com/Maoviews/status/1565890254204448768)
+
+RT Mao<br>新華社社長傅華提出「三個一分鐘」：<br><br>新华社必须旗帜鲜明讲政治，做到一分钟都不站在党的队伍之外，一分钟都不偏离习近平总书记指引的方向，一分钟都不离开习近平总书记和党中央的视野。👏<br><img style="" src="https://pbs.twimg.com/media/Fbso4k0aQAAkzdA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
