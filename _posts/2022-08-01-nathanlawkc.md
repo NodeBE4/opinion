@@ -47,5 +47,5 @@ The Chinese regime has been blackmailing other countries by ceasing collaboratio
 
 ### 8: [2022-08-07 04:29:47+08:00 推文](https://twitter.com/nathanlawkc/status/1556014694745489409)
 
-👌👌<br><br>jack: End the CCP<br> <a href="https://twitter.com/selinawangtv/status/1532547318171373568" target="_blank" rel="noopener noreferrer">https://twitter.com/selinawangtv/status/1532547318171373568</a>
+👌👌<br><br>jack: End the CCP<br>
 

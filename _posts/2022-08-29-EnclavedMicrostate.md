@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-02
+date: 2022-09-03
 from: https://old.reddit.com/r/AskHistorians/comments/wzztho/did_john_glenn_go_to_space_while_serving_as_a/
 layout: post
 tags:
@@ -228,9 +228,15 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 767: [Is this Solzhenitsyn quote legit? — "Without Jews there would never have been Bolshevism. ..."](https://old.reddit.com/r/AskHistorians/comments/x3qii4/is_this_solzhenitsyn_quote_legit_without_jews/), submitted on 2022-09-02 11:03:50+08:00.
+### 767: [Who is responsible for why the US disability system is the way it is? How could they do it without a fuss being made?](https://old.reddit.com/r/AskHistorians/comments/x3ob0k/who_is_responsible_for_why_the_us_disability/), submitted on 2022-09-02 09:17:58+08:00.
 
------ __767.1__ -----2022-09-02 14:58:46+08:00:
+----- __767.1__ -----2022-09-03 09:26:08+08:00:
+
+Sorry, but this response has been removed because we [do not allow the personal anecdotes or second-hand stories](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_personal_anecdotes) of users to form the basis of a response. While they can sometimes be quite interesting, the medium and anonymity of this forum does not allow for them to be properly contextualized, nor the source vetted or contextualized.  A more thorough explanation for the reasoning behind this rule can be found in [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/fj1kw7/rules_roundtable_vii_no_personal_anecdotes/). For users who *are* interested in this more personal type of answer, we would suggest you consider /r/AskReddit.
+
+### 768: [Is this Solzhenitsyn quote legit? — "Without Jews there would never have been Bolshevism. ..."](https://old.reddit.com/r/AskHistorians/comments/x3qii4/is_this_solzhenitsyn_quote_legit_without_jews/), submitted on 2022-09-02 11:03:50+08:00.
+
+----- __768.1__ -----2022-09-02 14:58:46+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -238,27 +244,17 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 768: [How did the PKK begin recruiting folks? Or, more broader, if anyone knows how a rebel group recruits?](https://old.reddit.com/r/AskHistorians/comments/x3r88w/how_did_the_pkk_begin_recruiting_folks_or_more/), submitted on 2022-09-02 11:40:11+08:00.
+### 769: [How did the PKK begin recruiting folks? Or, more broader, if anyone knows how a rebel group recruits?](https://old.reddit.com/r/AskHistorians/comments/x3r88w/how_did_the_pkk_begin_recruiting_folks_or_more/), submitted on 2022-09-02 11:40:11+08:00.
 
------ __768.1__ -----2022-09-02 14:59:39+08:00:
+----- __769.1__ -----2022-09-02 14:59:39+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 769: [What is the most likely etymology of the goddess Athena?](https://old.reddit.com/r/AskHistorians/comments/x3sww6/what_is_the_most_likely_etymology_of_the_goddess/), submitted on 2022-09-02 13:07:56+08:00.
+### 770: [What is the most likely etymology of the goddess Athena?](https://old.reddit.com/r/AskHistorians/comments/x3sww6/what_is_the_most_likely_etymology_of_the_goddess/), submitted on 2022-09-02 13:07:56+08:00.
 
------ __769.1__ -----2022-09-02 15:00:17+08:00:
-
-**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
-
-Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
-
-Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
-
-### 770: [Were there any other islands other than Great Britain and Japan that held a lot of power compared to their size?](https://old.reddit.com/r/AskHistorians/comments/x3tit5/were_there_any_other_islands_other_than_great/), submitted on 2022-09-02 13:43:15+08:00.
-
------ __770.1__ -----2022-09-02 15:00:29+08:00:
+----- __770.1__ -----2022-09-02 15:00:17+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -266,9 +262,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 771: [Question: Was Babur related to Genghis Khan through Chagatai Khan?](https://old.reddit.com/r/AskHistorians/comments/x3tss8/question_was_babur_related_to_genghis_khan/), submitted on 2022-09-02 13:59:44+08:00.
+### 771: [Were there any other islands other than Great Britain and Japan that held a lot of power compared to their size?](https://old.reddit.com/r/AskHistorians/comments/x3tit5/were_there_any_other_islands_other_than_great/), submitted on 2022-09-02 13:43:15+08:00.
 
------ __771.1__ -----2022-09-02 15:00:37+08:00:
+----- __771.1__ -----2022-09-02 15:00:29+08:00:
 
 **Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
 
@@ -276,11 +272,39 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
-### 772: [Free for All Friday, 02 September 2022](https://old.reddit.com/r/badhistory/comments/x3yjzc/free_for_all_friday_02_september_2022/), submitted on 2022-09-02 19:00:11+08:00.
+### 772: [Question: Was Babur related to Genghis Khan through Chagatai Khan?](https://old.reddit.com/r/AskHistorians/comments/x3tss8/question_was_babur_related_to_genghis_khan/), submitted on 2022-09-02 13:59:44+08:00.
 
------ __772.1__ -----2022-09-03 03:08:48+08:00:
+----- __772.1__ -----2022-09-02 15:00:37+08:00:
+
+**Please repost this question to the weekly "[Short Answers](https://www.reddit.com/r/AskHistorians/search?sort=new&restrict_sr=on&q=flair%3ASASQ)" thread stickied to the top of the subreddit, which will be the best place to get an answer to this question**; for that reason, we have removed your post here. Standalone questions are [intended to be seeking detailed, comprehensive answers](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth), and we ask that [questions looking for a name, a number, a date or time, a location, the origin of a word, the first/last instance of a specific phenomenon, or a simple list of examples or facts](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_basic_facts) be contained to that thread as they are more likely to receive an answer there. For more information on this rule, [please see this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pdjp/rules_roundtable_ix_the_basics_facts_rule_and/).
+
+Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
+
+Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 773: [Free for All Friday, 02 September 2022](https://old.reddit.com/r/badhistory/comments/x3yjzc/free_for_all_friday_02_september_2022/), submitted on 2022-09-02 19:00:11+08:00.
+
+----- __773.1__ -----2022-09-03 03:08:48+08:00:
 
 > but I suspect it had a not-inconsiderable amount to do with the increased emphasis on Vader's character and his relationship with Luke.
 
 Killing off Tarkin, the most obvious representative of the Imperial bureaucracy, while keeping Vader alive almost certainly also contributed.
+
+### 774: [Several thesis questions?](https://old.reddit.com/r/AskHistorians/comments/x4f35o/several_thesis_questions/), submitted on 2022-09-03 07:01:04+08:00.
+
+----- __774.1__ -----2022-09-03 09:59:50+08:00:
+
+Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
+
+If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
+
+Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 775: [What your favorite unreliable or conflicting historical narrative?](https://old.reddit.com/r/AskHistorians/comments/x4im62/what_your_favorite_unreliable_or_conflicting/), submitted on 2022-09-03 09:54:26+08:00.
+
+----- __775.1__ -----2022-09-03 10:23:33+08:00:
+
+This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
+
+For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
