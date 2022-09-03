@@ -614,3 +614,7 @@ But in brief, it's not that you can't use it. The phrase 'rape of Nanking' (albe
 
 I mean he didn't actually include the Nanjing photos in the TikTok though, he shared them on his Twitter. So you should really hate his Twitter and not his TikTok.
 
+----- __754.12__ -----2022-09-03 16:34:14+08:00:
+
+A small update to the [Hololive Dan Dan Hayaku Naru music video drama](https://reddit.com/r/HobbyDrama/comments/wcqp91/hobby_scuffles_week_of_august_1_2022/ij1tsb6/?context=999) from last month. A [new version](https://www.youtube.com/watch?v=RRq4-uktHiI) of the video has been uploaded, with both the Hindenburg and Challenger references removed (as well as some seemingly unprompted changes to a later sequence in a forest only involving other Hololive members), thereby proving that both arguments were right in the end. Or something.
+
