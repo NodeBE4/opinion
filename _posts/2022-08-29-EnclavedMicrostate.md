@@ -308,3 +308,9 @@ This submission has been removed because it violates the [rule on poll-type ques
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
 
+### 776: [UNO card meaning](https://old.reddit.com/r/ChineseTranslation/comments/x4o798/uno_card_meaning/), submitted on 2022-09-03 15:11:34+08:00.
+
+----- __776.1__ -----2022-09-03 17:05:55+08:00:
+
+Just to double-confirm, you've got the wrong language; this is Japanese.
+
