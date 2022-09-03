@@ -25,7 +25,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 3: [2022-08-30 06:45:24+08:00 推文](https://twitter.com/realcaixia/status/1564383744047333376)
 
-这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
+这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br>
 
 ### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
 
@@ -33,7 +33,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 5: [2022-08-30 11:04:38+08:00 推文](https://twitter.com/realcaixia/status/1564448983434641408)
 
-全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br>
+全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br> <a href="https://twitter.com/im1266/status/1564393817524109319" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1564393817524109319</a>
 
 ### 6: [2022-08-30 23:21:13+08:00 推文](https://twitter.com/realcaixia/status/1564634352360865799)
 
@@ -89,7 +89,7 @@ Re @qinxian54220128 谢谢您的提醒，我已经推荐发到推特上了。
 
 ### 19: [2022-08-31 06:43:52+08:00 推文](https://twitter.com/realcaixia/status/1564745747043606533)
 
-曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br> <a href="https://twitter.com/GaoFalin/status/1563949162189791233" target="_blank" rel="noopener noreferrer">https://twitter.com/GaoFalin/status/1563949162189791233</a>
+曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br>
 
 ### 20: [2022-08-31 21:43:30+08:00 推文](https://twitter.com/realcaixia/status/1564972148254539776)
 
@@ -150,4 +150,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg
 ### 34: [2022-09-04 00:14:33+08:00 推文](https://twitter.com/realcaixia/status/1566097325159862277)
 
 鲍老夫人我只见过一次，有一次一起聚餐。老人家气质高雅，不大说话，主要是听大家议论。她大气沉静，是一位文化素养道德修养品味很高的老人。两位老人的风骨令后人景仰！<br><br>鲍简: 8964前，那年5.28，爸爸在中午时分被中办电话骗走，说要开政治局会议，通知他参加，从此关押在秦城，直至7+1年后出狱。<br>据爸爸的同事叔叔笔记，事发当天陈小鲁找妈妈谈话。妈妈当即表示：1.陪住；2.见一面送点东西；3.如以上不同意，请派人当面谈并送东西去。<br>这就是看似外表柔弱然而内心强大的妈妈。<br><br><img style="" src="https://pbs.twimg.com/media/FbsaoD1UEAAoWdF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-09-04 07:25:45+08:00 推文](https://twitter.com/realcaixia/status/1566205839051988992)
+
+真正把祖国的未来、人民的根本福祉放在心里的并以良知顺应人民的心愿的政治人物，人们会一直记得他。戈尔巴乔夫就是这样的一个政治家。他使前苏东国家在改旗易帜、抛弃共产极权体制时，最大限度地避免了大规模流血与社会失序。随着时间的流逝，历史的发展，相信后人会给予他更高的评价。<br><br>《议报》: 张正承 | 他孤独地走了，他带走了一个时代！<br> <a href="https://yibaochina.com/?p=247675" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247675</a>
 
