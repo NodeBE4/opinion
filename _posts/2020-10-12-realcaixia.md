@@ -25,7 +25,7 @@ Re 3、中共司法当局明知无证据、无事实根据、无法律依据，�
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯<hr><small>10/13/2020, 6:20:30 AM</small>
+Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯
 
 ### 4: [2020-10-13 08:00:08+08:00 推文](https://twitter.com/realcaixia/status/1315804478453489670)
 
@@ -41,7 +41,7 @@ Re 3，中共强化极权统治的一个重要标志就是警察头子提升官�
 
 ### 7: [2020-10-13 08:05:29+08:00 推文](https://twitter.com/realcaixia/status/1315805822493097985)
 
-Re 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。<hr><small>10/13/2020, 8:05:29 AM</small>
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
@@ -61,7 +61,7 @@ Re 4，这意味着，中国自上而下通过强化警察在政府系统中的�
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！<hr><small>10/15/2020, 11:01:12 PM</small>
+Re @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！
 
 ### 13: [2020-10-15 23:03:54+08:00 推文](https://twitter.com/realcaixia/status/1316756691510325248)
 
