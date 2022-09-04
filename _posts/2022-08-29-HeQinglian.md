@@ -243,3 +243,27 @@ Re @zhixiangziyou 你看到这种图片后，最好搜索一下，许多是自�
 
 Re @succeclaim 你的思维基于幻想，我的思维基于事实。<br>不基于事实的任何思想，都与疯人院的无异。<br>你还是操心一下自己的思维是否正常。我家的事情不用你操心。
 
+### 58: [2022-09-04 22:50:51+08:00 推文](https://twitter.com/HeQinglian/status/1566438650275037191)
+
+台湾不毁于中共，就毁于美左的性多元化。<br>行政院「性別變更要件法制化及立法建議」研究案 <br>复制标题搜索就可看到全文并打开，链接复制过来不灵。该报告集中了全世界左派国度的变性经验，美国加州专列一章。<br>这样的台湾，让人喟叹。<br>蔡政府这个方案是2020年就开始做的，那时民主党正在准备选举舞弊。
+
+### 59: [2022-09-04 22:56:42+08:00 推文](https://twitter.com/HeQinglian/status/1566440122832371717)
+
+Re @shenliangqing2 @rtrtheoinfntv 共产主义2.0版回归西土，比1.0版更邪门，1.0版是改造人，生产共产主义新人；2.0版是阉人，耶鲁大学儿科性别项目的主任克里斯蒂·奥莱泽斯基 （Christy Olezeski） 在其制作的视频中，解释了自己如何运行一个项目，帮助 3 岁以上的儿童进行“性别之旅”——将拜登的8岁提前5年实现。 <a href="https://www.dailymail.co.uk/news/article-11111841/Yale-Professor-sparks-fury-bragging-helps-children-young-THREE-gender-journey.html#:~:text=Fury%20as%20Yale,PhD%20%3C%20Psychology%20Section" target="_blank" rel="noopener noreferrer">https://www.dailymail.co.uk/news/article-11111841/Yale-Professor-sparks-fury-bragging-helps-children-young-THREE-gender-journey.html#:~:text=Fury%20as%20Yale,PhD%20%3C%20Psychology%20Section</a>
+
+### 60: [2022-09-04 23:00:14+08:00 推文](https://twitter.com/HeQinglian/status/1566441011169181705)
+
+Re @lzhn96836555 这属于恶意传播传染性疾病，应该有法律规定的刑求。真有其事，按法律判决，罚款并驱逐出境，还必须通知中国政府对其管制。
+
+### 61: [2022-09-04 23:03:34+08:00 推文](https://twitter.com/HeQinglian/status/1566441850168303617)
+
+Re @david_david1968 难道中共祭出“救我台湾同胞于被阉之难”？这也得台湾人愿意才行，如果台湾进步人士说，“宁可被阉，也不愿意被中共统治”，这舆论战就有点意思了。
+
+### 62: [2022-09-04 23:11:49+08:00 推文](https://twitter.com/HeQinglian/status/1566443924012634113)
+
+Re @xxj2040 你忙于“正名”，我研究“实”。此时此刻，“实”比“名”重要。
+
+### 63: [2022-09-04 23:13:44+08:00 推文](https://twitter.com/HeQinglian/status/1566444409104875523)
+
+Re @david_david1968 黄左现在只有一件事情没公开表态：赞成变性。因为担心跟帖让他们立刻实践。<br>大麻与BLM抢劫，这人家早就赞成了。
+
