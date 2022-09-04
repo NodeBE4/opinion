@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-03
+date: 2022-09-04
 from: https://twitter.com/cnmediaproject/status/1564436880879681536
 layout: post
 tags:
@@ -49,7 +49,7 @@ Re More about this trend in our 2021 article, "Xi Jinping, Headline Columnist."�
 
 ### 9: [2022-09-01 10:26:07+08:00 推文](https://twitter.com/cnmediaproject/status/1565164065282215936)
 
-Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br>
+Indeed. "Great struggle" (伟大斗争), complex and daunting (艰巨).<br><br>Ho-fung Hung: that speech is important. it ends with the utmost priority of struggle, struggle, and struggle. struggle is the key word<br> <a href="https://twitter.com/cnmediaproject/status/1565130260001456128" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1565130260001456128</a>
 
 ### 10: [2022-09-01 14:44:35+08:00 推文](https://twitter.com/cnmediaproject/status/1565229111022604288)
 
@@ -98,4 +98,8 @@ RT GreatFire.org<br>Also noteworthy is that the UN Human Rights Office website
 ### 21: [2022-09-03 10:31:44+08:00 推文](https://twitter.com/Maoviews/status/1565890254204448768)
 
 RT Mao<br>新華社社長傅華提出「三個一分鐘」：<br><br>新华社必须旗帜鲜明讲政治，做到一分钟都不站在党的队伍之外，一分钟都不偏离习近平总书记指引的方向，一分钟都不离开习近平总书记和党中央的视野。👏<br><img style="" src="https://pbs.twimg.com/media/Fbso4k0aQAAkzdA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-09-04 13:09:17+08:00 推文](https://twitter.com/cnmediaproject/status/1566292292691841024)
+
+Very funny standup. And some pointed social commentary on its back. The lack of guide dogs in China is very real.<br><br>𝐋𝐢𝐧𝐠 𝐋𝐢: So glad and relieved to see that standup comedy is starting to take root in China despite of stringent censorship.<br><br>盲人小伙黑灯纯享：边牧不仅通人性，还通人情世故【脱口秀大会第五季】<br> <a href="https://youtu.be/0monayhYD84" target="_blank" rel="noopener noreferrer">https://youtu.be/0monayhYD84</a>
 
