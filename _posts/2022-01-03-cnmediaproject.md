@@ -21,7 +21,7 @@ RT China Law Translate<br>Happy New Year.<br><br>The Paywall on CLT (<br><br>T
 
 ### 2: [2022-01-05 21:22:42+08:00 推文](https://twitter.com/niubi/status/1478718600244563969)
 
-RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking at things?<br><br>Peter M. Drucker: I’m in shock.<br><br><img style="" src="https://pbs.twimg.com/media/FIVt8rBVUAAqlcu?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking at things?<br><br>Peter M. Drucker: I’m in shock.<br><br><img style src="https://pbs.twimg.com/media/FIVt8rBVUAAqlcu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-06 15:00:45+08:00 推文](https://twitter.com/cnmediaproject/status/1478984869737017345)
 
@@ -45,7 +45,7 @@ In a bid to advance Chinese state narratives more credibly overseas, CCP media h
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 
-Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style="" src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-01-08 09:56:39+08:00 推文](https://twitter.com/cnmediaproject/status/1479633113131421696)
 
