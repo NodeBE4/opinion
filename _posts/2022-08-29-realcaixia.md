@@ -25,7 +25,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 3: [2022-08-30 06:45:24+08:00 推文](https://twitter.com/realcaixia/status/1564383744047333376)
 
-这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br>
+这首短诗实在是很精妙！<br><br>Kathy Hu 胡閔之: 可能是“等风来”这段文字引起了太多人共鸣，被许多人从推特截图传回到国内后，传播得太广。现在这段话已经被全网删除了，微博封禁、微信也发不出了。当“等风来”三个字真的成为某种现象的象征词汇之后，恰恰印证了某种真实。<br> <a href="https://twitter.com/kathyhu56423186/status/1562452514947362816" target="_blank" rel="noopener noreferrer">https://twitter.com/kathyhu56423186/status/1562452514947362816</a>
 
 ### 4: [2022-08-30 08:40:09+08:00 推文](https://twitter.com/realcaixia/status/1564412623671664640)
 
@@ -33,7 +33,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbTYBeiXkAArpGV?format=jpg
 
 ### 5: [2022-08-30 11:04:38+08:00 推文](https://twitter.com/realcaixia/status/1564448983434641408)
 
-全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br> <a href="https://twitter.com/im1266/status/1564393817524109319" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1564393817524109319</a>
+全世界都放开了，为什么号称世界第二大国的中共国民众依然被封城被红码黄码被核酸，甚至一些人面临被饿死的悲惨境地？<br><br>鲁  难: 新疆因为众所周知的原因，消息封锁格外严密，而封城的手法更狠。<br>
 
 ### 6: [2022-08-30 23:21:13+08:00 推文](https://twitter.com/realcaixia/status/1564634352360865799)
 
@@ -89,7 +89,7 @@ Re @qinxian54220128 谢谢您的提醒，我已经推荐发到推特上了。
 
 ### 19: [2022-08-31 06:43:52+08:00 推文](https://twitter.com/realcaixia/status/1564745747043606533)
 
-曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br>
+曾经以为历史倒退是文学用语，现在就是每时每刻的现实，习领导下的中国倒退、残暴、荒谬在全世界眼皮底下活生生地展现。把刘少奇的话送给习近平：“这是要上史书的！”<br><br>荣剑: 历史研究全面复辟倒退！全面实行历史虚无主义！<br> <a href="https://twitter.com/GaoFalin/status/1563949162189791233" target="_blank" rel="noopener noreferrer">https://twitter.com/GaoFalin/status/1563949162189791233</a>
 
 ### 20: [2022-08-31 21:43:30+08:00 推文](https://twitter.com/realcaixia/status/1564972148254539776)
 
@@ -154,4 +154,12 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FbfxuFPWQAAg6W-?format=jpg
 ### 35: [2022-09-04 07:25:45+08:00 推文](https://twitter.com/realcaixia/status/1566205839051988992)
 
 真正把祖国的未来、人民的根本福祉放在心里的并以良知顺应人民的心愿的政治人物，人们会一直记得他。戈尔巴乔夫就是这样的一个政治家。他使前苏东国家在改旗易帜、抛弃共产极权体制时，最大限度地避免了大规模流血与社会失序。随着时间的流逝，历史的发展，相信后人会给予他更高的评价。<br><br>《议报》: 张正承 | 他孤独地走了，他带走了一个时代！<br> <a href="https://yibaochina.com/?p=247675" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247675</a>
+
+### 36: [2022-09-04 07:44:49+08:00 推文](https://twitter.com/realcaixia/status/1566210635767193602)
+
+我很赞成这位推友的推文。揭示了何以毛有三年大饥荒习有三年大瘟疫的机制性原因，说到根子上了。<br><br>望: 经此三年大疫，就基本搞清楚了三年大饥荒的真正成因；<br>在只对上负责的体制里，是不会有自下而上的纠错体制的，只有一级压一级的碾压动员，直到塔尖上的动能衰竭归零。<br>
+
+### 37: [2022-09-04 07:50:23+08:00 推文](https://twitter.com/realcaixia/status/1566212039181275136)
+
+社会道德堕落到没有任何底线了，令人愤慨。<br><br>花仙子: 看完令人发指！这还是人类社会吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1565885998483087362/pu/vid/960x544/yAi_wrFMQUQV-ap5.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1565885998483087362/pu/img/BJPNO1PjhwxMoDaR.jpg"></video>
 
