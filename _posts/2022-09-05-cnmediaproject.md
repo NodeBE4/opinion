@@ -1,0 +1,25 @@
+---
+author: cnmediaproject
+categories:
+- Twitter
+date: 2022-09-05
+from: https://twitter.com/cnmediaproject/status/1566687391481757696
+layout: post
+tags:
+- Twitter
+title: 'Twitter @China Media Project: 2022-09-05~2022-09-11'
+---
+
+CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+
+* This will become a table of contents (this text will be scrapped).
+{:toc}
+
+### 1: [2022-09-05 15:19:16+08:00 推文](https://twitter.com/cnmediaproject/status/1566687391481757696)
+
+As China growled and screamed last month about US House Speaker Nancy Pelosi landing in Taiwan, state media called the trip not a "visit" but a "sneaky visit," or cuanfang (窜访). Read all about the CCP history of the "sneaky visit" in our CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/</a>
+
+### 2: [2022-09-05 15:23:35+08:00 推文](https://twitter.com/cnmediaproject/status/1566688476623687681)
+
+In case you missed it: China’s Quiet Fury Over Xinjiang. In external propaganda, China has been angry and outspoken over the UN report on human rights in Xinjiang . . . . Internally? Hardly a peep. <a href="https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/</a>
+
