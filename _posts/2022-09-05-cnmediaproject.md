@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-05
+date: 2022-09-06
 from: https://twitter.com/cnmediaproject/status/1566687391481757696
 layout: post
 tags:
@@ -34,4 +34,12 @@ Re @KaiserKuo @isabelhilton @goldkorn And at CMP we haven't heard the end of it 
 ### 5: [2022-09-05 23:14:53+08:00 推文](https://twitter.com/cnmediaproject/status/1566807082933727232)
 
 Essential background for the fun to come.<br><br>𝐋𝐢𝐧𝐠 𝐋𝐢: I wrote a long-form piece for The Diplomat, explaining how the Party Congress works.<br><br>I also identify the formally authorized group who makes the final approval of nominated candidates for the membership of the Central Committee. <br><br>Main takeaways. A thread.<br><br><img style="" src="https://pbs.twimg.com/media/Fb5PCIjWQAEQsrJ?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-09-06 01:48:02+08:00 推文](https://twitter.com/SophieHRW/status/1566845626800738304)
+
+RT Sophie Richardson<br>60 million people. <a href="https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html?smid=nytcore-ios-share&amp;referringSource=articleShare" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a>
+
+### 7: [2022-09-06 07:28:28+08:00 推文](https://twitter.com/cnmediaproject/status/1566931297846509568)
+
+This is very true. The 新型主流媒体, incl. Official sources on public accounts, becoming crucial.<br><br>Kendra Schaefer 凯娜: @NeysunM @donaldcclarke @ZichenWanghere @ChenDingding As for our own work, I can tell you that government agencies often post more on their wechat accounts than they do on browser-based web - or post on WeChat first and on web days later. Having access to wechat is critical.<br>
 
