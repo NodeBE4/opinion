@@ -35,3 +35,35 @@ Re @mayuki753 @david_david1968 知道是反讽，所有附了个表情包。我�
 
 Re @open5107 这个提案不是台湾行政院弄的，是中共帮你们弄的？<br>学习美国民主党，死路一条。<br>估计你好这口，变性吸麻群婚，没人拦着你。
 
+### 6: [2022-09-05 21:57:19+08:00 推文](https://twitter.com/HeQinglian/status/1566787564513673224)
+
+Re @Leon73103592 你眼睛不好使吧？我这条推谈的是同性恋，还是变性？尤其是加州，现在强迫未成年人变性，你认为合适不？<br>如果你还是正常人，认为不合适，说一声。否则十分钟以后拉黑。
+
+### 7: [2022-09-05 21:59:35+08:00 推文](https://twitter.com/HeQinglian/status/1566788133932630018)
+
+Re @open5107 你攻击在前，还说别人攻击你。<br>这种双重标准，极左爱用。
+
+### 8: [2022-09-05 22:05:29+08:00 推文](https://twitter.com/HeQinglian/status/1566789618246328321)
+
+Re @Luo1Shixiong @maga_kureea 算了，不对你谈那些乌克兰的LGBTQ文化了。那位总统当选前的行事方式，基本属于进步派。
+
+### 9: [2022-09-05 22:48:42+08:00 推文](https://twitter.com/HeQinglian/status/1566800493527158784)
+
+梅就任前，就被媒体报导是铁娘子第二。梅很骄傲地回说，她不会做任何人的第二，她就做自己。<br>英国历史上两首相，每有新的上任，媒体盛赞时，男必是邱吉尔，女必是撒切尔——他们自己也往往会有此自我期待，比如约翰逊。<br><br>BBC News 中文: 成功当选保守党党魁的特拉斯(Liz Truss)将出任英国新一任首相，她此前曾公开表示将把中国视为对英国国家安全的“威胁”。新首相面临哪些执政难题？<br> <a href="https://bbc.in/3BeO1Yf" target="_blank" rel="noopener noreferrer">https://bbc.in/3BeO1Yf</a>
+
+### 10: [2022-09-05 22:53:41+08:00 推文](https://twitter.com/HeQinglian/status/1566801748001423360)
+
+Re @JianglinLi @david_david1968 很多人是思想化石，来来回回就会背那几句：美国是民主灯塔，有很好的纠错机制，不行就选下去。
+
+### 11: [2022-09-05 22:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1566802260469972995)
+
+Re @zhixiangziyou 拦得住人家的自我期许么？乌战时期，几乎膨胀了一倍。
+
+### 12: [2022-09-05 23:18:14+08:00 推文](https://twitter.com/HeQinglian/status/1566807927482089476)
+
+据路透、彭博3日报道，约十万捷克民众在布拉格市中心的瓦茨拉夫广场抗议，要求政府控制飙升的能源价格，高呼反对欧盟和北约的口号，“最好的都给乌克兰了，只给我们剩两件毛衣。”示威团体光谱涵盖了从右到左，呼吁捷克在军事上保持中立，并确保与俄天然气供应商签订直接合同。 <a href="https://www.reuters.com/world/europe/tens-thousands-protest-prague-against-czech-government-eu-nato-2022-09-03/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/tens-thousands-protest-prague-against-czech-government-eu-nato-2022-09-03/</a>
+
+### 13: [2022-09-05 23:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1566808154591092742)
+
+Re @zhixiangziyou 我指的是这位自我感觉膨胀。
+

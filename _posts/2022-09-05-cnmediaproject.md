@@ -27,3 +27,11 @@ In case you missed it: China’s Quiet Fury Over Xinjiang. In external propagand
 
 Fascinating subject.<br><br>Mary Hui: The ability of “unofficial” lingua franca to cultivate a powerful &amp; unique sense of shared identity, distinct from and at odds with the state-sanctioned national identity...makes languages like Cantonese potentially threatening to authoritarian governments<br> <a href="https://qz.com/china-censors-stumped-by-cantonese-1849496778" target="_blank" rel="noopener noreferrer">https://qz.com/china-censors-stumped-by-cantonese-1849496778</a>
 
+### 4: [2022-09-05 22:52:36+08:00 推文](https://twitter.com/cnmediaproject/status/1566801478555013121)
+
+Re @KaiserKuo @isabelhilton @goldkorn And at CMP we haven't heard the end of it this week. If one more person asks. . .
+
+### 5: [2022-09-05 23:14:53+08:00 推文](https://twitter.com/cnmediaproject/status/1566807082933727232)
+
+Essential background for the fun to come.<br><br>𝐋𝐢𝐧𝐠 𝐋𝐢: I wrote a long-form piece for The Diplomat, explaining how the Party Congress works.<br><br>I also identify the formally authorized group who makes the final approval of nominated candidates for the membership of the Central Committee. <br><br>Main takeaways. A thread.<br><br><img style="" src="https://pbs.twimg.com/media/Fb5PCIjWQAEQsrJ?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
