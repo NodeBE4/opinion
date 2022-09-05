@@ -121,7 +121,7 @@ RT 李江琳<br>北明譯：维克多-戴维斯-汉森：想象不可想象之
 
 ### 27: [2022-06-02 01:14:26+08:00 推文](https://twitter.com/RealBeiMing/status/1532047935831216129)
 
-RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：<br><br>李江琳: 北明譯：维克多-戴维斯-汉森：想象不可想象之事<br> <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
+RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：
 
 ### 28: [2022-06-02 20:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1532339682448752648)
 
@@ -173,7 +173,7 @@ Re @eGUAbe2V7j26GHw @biantainorth @biantaishabi 奇怪，粤菜我极欣赏，�
 
 ### 40: [2022-06-04 23:17:25+08:00 推文](https://twitter.com/HeQinglian/status/1533105650439540737)
 
-想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。<br><br>Ezio Mao☢: 有盛必有衰，有生必有死，就连诸神也不能例外。回想三月当西方拿起手中名为“SWIFT”的“永恒之枪”（永恒之枪一旦投出去，必定百发百中，威力巨大，刺穿一切）为俄罗斯降下“神罚”的时候，普京看了一眼手中的牌，往地上吐了一口浓痰…呸…然后接着该干啥干啥。<br><br>乌克兰战争打到现在这个样子，慌的是拜登…<br><br><img style="" src="https://pbs.twimg.com/media/FUVpJpRXEAc19Vo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1498160472000188422" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1498160472000188422</a>
+想起《三国演义》一书中魏蜀的汉中之战“鸡肋”这一典故，战事陷入僵局，曹操知机而退，专营魏地发展，奠定统一之国力。<br>哪象如今美欧这样，只会说“普京必须失败”。
 
 ### 41: [2022-06-04 23:20:13+08:00 推文](https://twitter.com/HeQinglian/status/1533106353870409728)
 
@@ -241,5 +241,5 @@ Re @xiaxiaoqiang 以前电影、电视剧看得少，近几年的不好看。本
 
 ### 57: [2022-06-05 20:43:17+08:00 推文](https://twitter.com/HeQinglian/status/1533429248261771264)
 
-这几天上推少，居然遗漏了这条重要消息。<br><br>jiang shangrong: ‼️🇺🇸🇺🇦“拜登说,作为‘协商解决’一部分,乌可能不得不将领土交给俄”—纽约邮报<br><br>“拜登下属此前表示,乌正放弃土地以安抚普京”纽约邮报说<br><br>评:不是言之凿凿要肢解俄,让普京下台,作战犯审判吗?咋“安抚”普京了?主动割地求和了?可惜，现在的局势，什么时候停，怎么停，可不是你说了算了<br><br><img style="" src="https://pbs.twimg.com/media/FUdzfd6X0AE2Orp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://t.me/JShangrong" target="_blank" rel="noopener noreferrer">http://t.me/JShangrong</a>
+这几天上推少，居然遗漏了这条重要消息。 <a href="https://twitter.com/JiangShangrong/status/1533321188046405635" target="_blank" rel="noopener noreferrer">https://twitter.com/JiangShangrong/status/1533321188046405635</a>
 

@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-01-18 19:52:39+08:00 推文](https://twitter.com/cnmediaproject/status/1483406980836642818)
 
-Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
+Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-18 23:50:12+08:00 推文](https://twitter.com/CHRDnet/status/1483466762351906816)
 
@@ -29,7 +29,7 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
@@ -69,7 +69,7 @@ Re On "care," one listed associate, Peng Qinxuan, is identified as having "studi
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
@@ -81,7 +81,7 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
