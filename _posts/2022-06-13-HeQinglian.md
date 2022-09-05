@@ -289,7 +289,7 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
@@ -513,7 +513,7 @@ Re @wakeup_arrow 出于好奇看了一眼。那位巴丢草我因其左得出位
 
 ### 125: [2022-06-19 23:19:59+08:00 推文](https://twitter.com/HeQinglian/status/1538542113008271364)
 
-我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事<br><br>华尔街日报中文网: #本周热读 习近平在自己69岁生日这天与普京通话，重申支持莫斯科方面的安全关切，这一举动意味着中国无意在中俄密切关系上收手。保持与俄罗斯的伙伴关系意味着，中国必须继续采取一种向来很难的骑墙外交立场。<br> <a href="https://on.wsj.com/3zDmHCH" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zDmHCH</a>
+我一直觉得西方在中俄关系上，对中国有不切实际的期待。<br>1、习近平对俄与普京的好感，中国人都知道，不是国家机密；2、地缘政治的需要，中国从未向美国许诺过亲美疏俄；3、金砖五国自2009年以来每年开会，日渐亲密，这也是公开信息。<br>西方要么不看自家之外的信息，要么将自家愿望当作他国必须要做之事
 
 ### 126: [2022-06-19 23:32:06+08:00 推文](https://twitter.com/HeQinglian/status/1538545164909682690)
 
