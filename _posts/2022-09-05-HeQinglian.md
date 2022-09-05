@@ -67,3 +67,7 @@ Re @zhixiangziyou 拦得住人家的自我期许么？乌战时期，几乎膨�
 
 Re @zhixiangziyou 我指的是这位自我感觉膨胀。
 
+### 14: [2022-09-05 23:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1566815472930136065)
+
+Re @Wu_Zhi 捷克人民的思想落后，历来比德国人民少那么一点政治正确。
+

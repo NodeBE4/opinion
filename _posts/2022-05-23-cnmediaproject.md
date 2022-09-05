@@ -117,7 +117,7 @@ RT Shiqi Ma<br>Delighted to share our work (with @jessicacweiss) in the Journa
 
 ### 26: [2022-05-25 17:51:01+08:00 推文](https://twitter.com/ulywang/status/1529399632501293057)
 
-RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now. <a href="https://twitter.com/ZichenWanghere/status/1529372986318303232" target="_blank" rel="noopener noreferrer">https://twitter.com/ZichenWanghere/status/1529372986318303232</a>
+RT 王丰 Wang Feng<br>Meeting minutes, including a detailed &amp; intense report by Premier Li Keqiang, are spreading like wildfire in wechat groups right now.<br><br>Zichen Wang: not officially reported yet but by all unofficial accounts China is holding a nationwide meeting on the economy where central, provincial, municipal, and county govt officials are attending by video link, which is quite rare and underscores Beijing's recognition &amp; determination<br>
 
 ### 27: [2022-05-25 18:05:20+08:00 推文](https://twitter.com/cnmediaproject/status/1529403234858979329)
 
@@ -137,7 +137,7 @@ RT 浦志强<br>发改委主任、财政部长、人民银行行长讲话，�
 
 ### 31: [2022-05-25 19:48:37+08:00 推文](https://twitter.com/LHongqiao/status/1529429227551989760)
 
-RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)
+RT Hongqiao Liu<br>Li warns that China's economy is *in danger of slipping out of the reasonable range*<br><br>He adds that once slipped out of the reasonable range, it'd be very difficult to pull it back without *paying a huge price*, and it will take a longer time.<br><br>(based on unofficial meeting minute)<br><br>Hongqiao Liu: Li reveals in the meeting:<br><br>- Significant decline in economic indexes, many hitting record low<br>- Economic (downturn) has hit the govt budget (negative growth in both national &amp; local budgets)<br>- Weak trend in recovery since May: must work very hard to reverse the negative growth<br><br><img style="" src="https://pbs.twimg.com/media/FTmc8qiXEAIDTDd?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FTmdv1gWQAAFsm3?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/LHongqiao/status/1529404306708905984" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1529404306708905984</a>
 
 ### 32: [2022-05-25 21:50:36+08:00 推文](https://twitter.com/niubi/status/1529459925893754882)
 
