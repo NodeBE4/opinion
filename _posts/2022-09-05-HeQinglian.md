@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-05
+date: 2022-09-06
 from: https://twitter.com/HeQinglian/status/1566521499724513280
 layout: post
 tags:
@@ -70,4 +70,24 @@ Re @zhixiangziyou 我指的是这位自我感觉膨胀。
 ### 14: [2022-09-05 23:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1566815472930136065)
 
 Re @Wu_Zhi 捷克人民的思想落后，历来比德国人民少那么一点政治正确。
+
+### 15: [2022-09-06 01:19:09+08:00 推文](https://twitter.com/HeQinglian/status/1566838356184600576)
+
+Re @mayuki753 @JianglinLi @david_david1968 美国有四年一次的总统大选，还有地方选举，这就是民主。<br>但是，美国“民主”前面需要加上“宪政”二字，联邦政府与地方的关系创建时则更多共和色彩，只是从第一代进步主义者威尔逊创立“行政国家”的“二次革命”以来，国内国际逐渐走上二战后模式，再发展至今。
+
+### 16: [2022-09-06 01:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1566838802945130498)
+
+Re @justinli79 @Wu_Zhi 你眼光长远，能否捐出一万人民币援乌？
+
+### 17: [2022-09-06 01:28:51+08:00 推文](https://twitter.com/HeQinglian/status/1566840798804672518)
+
+Re @mayuki753 @JianglinLi @david_david1968 正确地说，三权当中，行政权力比较大。
+
+### 18: [2022-09-06 01:30:54+08:00 推文](https://twitter.com/HeQinglian/status/1566841315626811407)
+
+Re @maga_kureea @mayuki753 总统是直选。各州长大多也算直选。
+
+### 19: [2022-09-06 01:34:28+08:00 推文](https://twitter.com/HeQinglian/status/1566842212649996288)
+
+Re @mayuki753 @JianglinLi @david_david1968 这是奥巴马时期修改的简单多数原则，原来通过一法案，需要五分之三（具体多少，我记不太清了）参议员同意。查一下就知道。<br>这是民主党特点：法律有约束，立刻想办法改法律。
 
