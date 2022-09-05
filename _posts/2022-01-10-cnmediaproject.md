@@ -61,7 +61,7 @@ The Cyberspace Administration of China has released its list of top keywords for
 
 ### 12: [2022-01-13 15:39:24+08:00 推文](https://twitter.com/JeromeTaylor/status/1481531309180678145)
 
-RT Jerome Taylor<br>The Hong Kong government's list of letters it has written to foreign media over their coverage has gone multilingual this month <a href="https://www.brandhk.gov.hk/en/clarifications-archives?page=1" target="_blank" rel="noopener noreferrer">https://www.brandhk.gov.hk/en/clarifications-archives?page=1</a><br><img style="" src="https://pbs.twimg.com/media/FI903vwaIAIvCkJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Jerome Taylor<br>The Hong Kong government's list of letters it has written to foreign media over their coverage has gone multilingual this month <a href="https://www.brandhk.gov.hk/en/clarifications-archives?page=1" target="_blank" rel="noopener noreferrer">https://www.brandhk.gov.hk/en/clarifications-archives?page=1</a><br><img style src="https://pbs.twimg.com/media/FI903vwaIAIvCkJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-13 16:52:24+08:00 推文](https://twitter.com/cnmediaproject/status/1481549681717297152)
 
