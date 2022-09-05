@@ -23,3 +23,7 @@ As China growled and screamed last month about US House Speaker Nancy Pelosi lan
 
 In case you missed it: China’s Quiet Fury Over Xinjiang. In external propaganda, China has been angry and outspoken over the UN report on human rights in Xinjiang . . . . Internally? Hardly a peep. <a href="https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/</a>
 
+### 3: [2022-09-05 18:15:04+08:00 推文](https://twitter.com/cnmediaproject/status/1566731632887099393)
+
+Fascinating subject.<br><br>Mary Hui: The ability of “unofficial” lingua franca to cultivate a powerful &amp; unique sense of shared identity, distinct from and at odds with the state-sanctioned national identity...makes languages like Cantonese potentially threatening to authoritarian governments<br> <a href="https://qz.com/china-censors-stumped-by-cantonese-1849496778" target="_blank" rel="noopener noreferrer">https://qz.com/china-censors-stumped-by-cantonese-1849496778</a>
+
