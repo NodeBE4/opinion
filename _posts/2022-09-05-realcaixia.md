@@ -51,3 +51,7 @@ title: 'Twitter @蔡霞: 2022-09-05~2022-09-11'
 
 这个国家统治者集团典型的吃里扒外。对国内民众吃干榨尽，对国外一掷千金。置民之死活于不顾，拿民脂民膏充大头。统治者的虚荣面子是用民众的汗、泪、血乃至命撑起来的！<br><br>荣剑: 网友：对内用像挤牙膏，外援大笔一挥上百亿。<br><br><img style="" src="https://pbs.twimg.com/media/Fb7i790UsAE5qaq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fb7i8J4UcAA_WtM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 10: [2022-09-06 23:36:03+08:00 推文](https://twitter.com/realcaixia/status/1567174798106566659)
+
+这是美国外交事务【Foreign Affairs】杂志刚刚发表的我的文章，题目《习近平的弱点——狂妄与偏执如何威胁中国的未来》，全文14000多字。 <br>将我的想法与网友们分享，谢谢网友们。<br><br>习近平的弱点 | Foreign Affairs <a href="https://www.foreignaffairs.com/china/xijinpingderuodian" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xijinpingderuodian</a>
+
