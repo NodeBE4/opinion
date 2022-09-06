@@ -37,7 +37,7 @@ Re @GuRu_999999 请你拿出你的论文来。
 
 ### 6: [2022-07-26 00:09:30+08:00 推文](https://twitter.com/realcaixia/status/1551600538218905600)
 
-关注。
+关注。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我还被堵在凤县的高速路口，来了很多公安和特警<br><br><img style="" src="https://pbs.twimg.com/media/FYgcO6lUsAAN7hT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6oUIAIfzjq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6oUcAIPv-2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgcO6qVUAA3jaS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-07-26 00:12:55+08:00 推文](https://twitter.com/realcaixia/status/1551601399795965953)
 
@@ -89,7 +89,7 @@ Re 请点击最上推文中的完整链接，可以观看电影《一九八四�
 
 ### 19: [2022-07-29 09:16:30+08:00 推文](https://twitter.com/realcaixia/status/1552825358306742273)
 
-高福主任提的问题很到位，很讲理。
+高福主任提的问题很到位，很讲理。<br><br>谷风: 以习近平的性格和习惯，单凭你这番话，就可以把你腐败，还说你妄议中央，现在让你下岗算是给足你面子：<br><br><video src="https://video.twimg.com/ext_tw_video/1552598846781370368/pu/vid/496x638/TkmaJhg8sznH77rc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552598846781370368/pu/img/vZqcDoYU9Qmub0ME.jpg"></video>
 
 ### 20: [2022-07-30 07:36:43+08:00 推文](https://twitter.com/realcaixia/status/1553162636401037314)
 
@@ -109,7 +109,7 @@ Re @guidepeter2004 我不太清楚怎么能买到书，想了解多一些李锐�
 
 ### 24: [2022-07-31 18:47:49+08:00 推文](https://twitter.com/realcaixia/status/1553693913738887169)
 
-非常了不起的大翻译运动！非常优秀的年轻人！<br><br>The Great Translation Movement 大翻译运动官方推号: <br><br><img style="" src="https://pbs.twimg.com/media/FY6wB18VsAMh5VY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xPaxUIAAuqRD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xQeXUcAAlEQ9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+非常了不起的大翻译运动！非常优秀的年轻人！
 
 ### 25: [2022-07-31 20:00:44+08:00 推文](https://twitter.com/realcaixia/status/1553712261545529344)
 
