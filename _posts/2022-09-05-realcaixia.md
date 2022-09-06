@@ -47,3 +47,7 @@ title: 'Twitter @蔡霞: 2022-09-05~2022-09-11'
 
 这个春天上海市民经历旷世悲剧，这个夏天是上海悲剧成都重演！这个政权这些当官的光天化日下杀人，逼人陷人于绝境。<br><br>李承诺: 刚才，成都妈妈哭诉儿子因隔离耽误心脏病治疗而死去。这不是第一例，也注定不是最后一例，从武汉到西安到上海到成都，所有悲伤的故事都是相同的。更悲伤的是只能向负责隔离的政府哭诉。这显然没用。自由都是有代价的，希望这代价不是以至亲的生命。我只能说到这儿了。<br><br><video src="https://video.twimg.com/ext_tw_video/1566463500494438403/pu/vid/592x1280/ahEKs-hy-nYg8hmc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1566463500494438403/pu/img/WzcEl9J-mocXQKWe.jpg"></video>
 
+### 9: [2022-09-06 20:10:46+08:00 推文](https://twitter.com/realcaixia/status/1567123136772030467)
+
+这个国家统治者集团典型的吃里扒外。对国内民众吃干榨尽，对国外一掷千金。置民之死活于不顾，拿民脂民膏充大头。统治者的虚荣面子是用民众的汗、泪、血乃至命撑起来的！<br><br>荣剑: 网友：对内用像挤牙膏，外援大笔一挥上百亿。<br><br><img style="" src="https://pbs.twimg.com/media/Fb7i790UsAE5qaq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fb7i8J4UcAA_WtM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
