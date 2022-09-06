@@ -39,7 +39,55 @@ Essential background for the fun to come.<br><br>𝐋𝐢𝐧𝐠 𝐋𝐢: I 
 
 RT Sophie Richardson<br>60 million people. <a href="https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html?smid=nytcore-ios-share&amp;referringSource=articleShare" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/09/05/world/asia/china-covid-lockdowns.html?smid=nytcore-ios-share&amp;referringSource=articleShare</a>
 
-### 7: [2022-09-06 07:28:28+08:00 推文](https://twitter.com/cnmediaproject/status/1566931297846509568)
+### 7: [2022-09-06 04:54:17+08:00 推文](https://twitter.com/chinalawpolicy/status/1566892498278129668)
+
+RT China Law &amp; Policy<br>In addition to @cnmediaproject's great piece on the fact that the UN Xinjiang report is being 100% censored in China, does anyone know when the @UNHumanRights will translate the report into Chinese? <a href="https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/</a>
+
+### 8: [2022-09-06 07:28:28+08:00 推文](https://twitter.com/cnmediaproject/status/1566931297846509568)
 
 This is very true. The 新型主流媒体, incl. Official sources on public accounts, becoming crucial.<br><br>Kendra Schaefer 凯娜: @NeysunM @donaldcclarke @ZichenWanghere @ChenDingding As for our own work, I can tell you that government agencies often post more on their wechat accounts than they do on browser-based web - or post on WeChat first and on web days later. Having access to wechat is critical.<br>
+
+### 9: [2022-09-06 09:21:17+08:00 推文](https://twitter.com/cnmediaproject/status/1566959688411156481)
+
+The People's Daily has rarely in the reform era had such a sustained stretch of full frontal attacks on the US for its failures as we have seen in recent years. The onslaught continues today with a commentary on US policy in Iraq. <a href="https://bit.ly/3eqwT8O" target="_blank" rel="noopener noreferrer">https://bit.ly/3eqwT8O</a><br><img style="" src="https://pbs.twimg.com/media/Fb71arraAAAkBHh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-09-06 09:24:40+08:00 推文](https://twitter.com/cnmediaproject/status/1566960540517548033)
+
+Re But the US is just the chief representative of the broader failure of "Western-style democracy" (西式民主), which is the focus of the piece today. The final paragraph alleges that "Western-style democracy" has sown divisions in Iraqi society. 2/4<br><img style="" src="https://pbs.twimg.com/media/Fb72SaGacAEj_5G?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-09-06 09:31:48+08:00 推文](https://twitter.com/cnmediaproject/status/1566962337047023618)
+
+Re In a similar piece yesterday, the People's Daily said the US had destroyed global peace and stability by fomenting "color revolutions" everywhere. US was called the "greatest enemy of democracy and human rights." 3/4 <a href="https://news.sina.com.cn/gov/xlxw/2022-09-05/doc-imizmscv9214082.shtml#/" target="_blank" rel="noopener noreferrer">https://news.sina.com.cn/gov/xlxw/2022-09-05/doc-imizmscv9214082.shtml#/</a>
+
+### 12: [2022-09-06 09:37:11+08:00 推文](https://twitter.com/cnmediaproject/status/1566963693564624896)
+
+Re These attacks target the idea that demo. nations in the world have a right to say anything in criticism of China's policies -- such as in Xinjiang. Articles like this one last month want "pluralistic" views of democracy. China is uniquely democratic. 4/4 <a href="https://bit.ly/3eqYreg" target="_blank" rel="noopener noreferrer">https://bit.ly/3eqYreg</a>
+
+### 13: [2022-09-06 09:40:12+08:00 推文](https://twitter.com/cnmediaproject/status/1566964452196757505)
+
+Pelosi's visit to Taiwan last month could not be just a "visit" for the Chinese Communist Party. It had to be a "sneaky visit" (窜访), so that all stories mentioning it implied its illegitimacy and a position of disgust. Read more in our CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/</a><br><img style="" src="https://pbs.twimg.com/media/Fb752tiaQAc6RWX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-09-06 10:17:29+08:00 推文](https://twitter.com/cnmediaproject/status/1566973832896081921)
+
+Time to turn to the entry for "Party spirit" (党性) in the CMP Dictionary:<br><br>ꜱɪᴍᴏɴ ᴄᴏᴜꜱɪɴꜱ 🇺🇦: In shock announcement, "Chinese state media chief vows to toe the line for Communist Party’s national congress" #resistanceisfutile #nottheonion<br> <a href="https://www.scmp.com/news/china/politics/article/3191429/chinese-state-media-chief-vows-toe-line-communist-partys?utm_source=feedly_feed" target="_blank" rel="noopener noreferrer">https://www.scmp.com/news/china/politics/article/3191429/chinese-state-media-chief-vows-toe-line-communist-partys?utm_source=feedly_feed</a>
+
+### 15: [2022-09-06 11:58:29+08:00 推文](https://twitter.com/cnmediaproject/status/1566999249233276929)
+
+The removal of the sense of "mission" seems significant too. Much less sense of agency.<br><br>Jerome Taylor: The @fcchk board has approved &amp; published a new statement on press freedom.<br><br>Here's how it compares with the previous statement before the club gave up Asia's biggest human rights press awards. <br><br>New on left, older on right.<br><br><img style="" src="https://pbs.twimg.com/media/Fb8FF1faUAERrYw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fb8FG8MakAY_zcF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-09-06 14:04:25+08:00 推文](https://twitter.com/cnmediaproject/status/1567030944607117314)
+
+An update to CMP's look at mentions in Chinese media of the UN report on Xinjiang. In "China's Front on Human Rights" we found one post on Toutiao in a press database -- while we waited for fury to strike and looked at CCP human rights orgs. 1/4 <a href="https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/01/chinas-civil-society-front-on-human-rights/</a>
+
+### 17: [2022-09-06 14:05:24+08:00 推文](https://twitter.com/cnmediaproject/status/1567031190145859585)
+
+Re That was the only post that day to mention "Xinjiang human rights report" (新疆人权报告). It has now disappeared, leaving only a 404 trace. 2/4<br><img style="" src="https://pbs.twimg.com/media/Fb82jkGagAA8p8X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-09-06 14:07:19+08:00 推文](https://twitter.com/cnmediaproject/status/1567031672876707843)
+
+Re The next day we noted cont. silence on the report in "China's Quiet Fury Over Xinjiang." "Perhaps the most revealing fact to note today, 48 hours after the release of the Xinjiang report, is that there has been almost no reporting at all inside China." 3/4 <a href="https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/02/chinas-quiet-fury-over-xinjiang/</a>
+
+### 19: [2022-09-06 14:11:38+08:00 推文](https://twitter.com/cnmediaproject/status/1567032758513594369)
+
+Re Today, a search in the press database for "Xinjiang human rights report" turns up nothing in the past week except the Toutiao post, now gone. In Chinese-language media outside China since August 31: 588 articles mention the phrase. 4/4<br><img style="" src="https://pbs.twimg.com/media/Fb839ipaQAApSZH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
