@@ -69,7 +69,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
-送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。<br><br>浦志强: 老浦说点事：6月28日：八宝山送别张思之先生：限定20人，不许拍照，没致悼词，没读生平，我们送老爷子低调远行（附：《张思之先生生平》和《波尔基金...<br><br><img style="" src="https://pbs.twimg.com/media/FWYmuN0UAAAg3yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuOUUYAAWV-v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UsAAVXv3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UEAA2UO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/pLCwc-i-Jms" target="_blank" rel="noopener noreferrer">https://youtu.be/pLCwc-i-Jms</a>
+送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。
 
 ### 15: [2022-06-29 12:21:55+08:00 推文](https://twitter.com/realcaixia/status/1542000383782014978)
 
@@ -105,11 +105,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 23: [2022-06-30 08:21:41+08:00 推文](https://twitter.com/realcaixia/status/1542302314706378754)
 
-看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。<br><br>唐和尚: 20220629唐师曾：北京房山长阳镇（转发） <br>#北京核酸<br><br><video src="https://video.twimg.com/ext_tw_video/1542011217304223750/pu/vid/406x720/lKm8bTsVjK7NMwUn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542011217304223750/pu/img/yrtsdlUb29N3lVnH.jpg"></video> <a href="https://youtu.be/-bvR2S9uIY8" target="_blank" rel="noopener noreferrer">https://youtu.be/-bvR2S9uIY8</a>
+看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。
 
 ### 24: [2022-06-30 08:39:03+08:00 推文](https://twitter.com/realcaixia/status/1542306687071174657)
 
-恒青先生说得对！
+恒青先生说得对！<br><br>李恒青: 习近平今天在武汉强调，新冠肺炎疫情是一场大考。坚持动态清零是党中央确定的，宁可暂时影响一点经济发展，也不能让人民群众生命安全和身体健康受到伤害。如果算总账，我们的防疫措施是最经济的、效果最好的。<br>最经济、效果最好是你自己说了算吗？所有伤天害理的事都是在“一切为了人民”的幌子下干的。<br><br><img style="" src="https://pbs.twimg.com/media/FWbAos_XkAIHfHU?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-06-30 22:19:04+08:00 推文](https://twitter.com/realcaixia/status/1542513049046618113)
 
@@ -161,7 +161,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 37: [2022-07-02 07:19:20+08:00 推文](https://twitter.com/realcaixia/status/1543011400871821312)
 
-香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适
+香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适<br><br>自由亚洲电台: 【港新任特首李加超就职演说表情十足】<br>【惟台下观众多“闭目养神”】<br>于7月1日就任的香港特首李家超表就职演说。虽然李家超一改以往平实发言的风格，不时刻意调高嗓子，双眉、双眼与及口部动作亦明显比平时增多，但也未能得到台下观众注目。<br>13分钟演说里，台下有不少观众都呼呼入睡。<br><br>视频截图<br><br><img style="" src="https://pbs.twimg.com/media/FWkYJhYWQAE7UvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
