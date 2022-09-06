@@ -55,3 +55,7 @@ title: 'Twitter @蔡霞: 2022-09-05~2022-09-11'
 
 这是美国外交事务【Foreign Affairs】杂志刚刚发表的我的文章，题目《习近平的弱点——狂妄与偏执如何威胁中国的未来》，全文14000多字。 <br>将我的想法与网友们分享，谢谢网友们。<br><br>习近平的弱点 | Foreign Affairs <a href="https://www.foreignaffairs.com/china/xijinpingderuodian" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xijinpingderuodian</a>
 
+### 11: [2022-09-06 23:51:46+08:00 推文](https://twitter.com/realcaixia/status/1567178755205959680)
+
+《The Weakness of Xi Jinping | Foreign Affairs》，这是我的文章的英文版。与网友们分享。 <a href="https://www.foreignaffairs.com/china/xi-jinping-china-weakness-hubris-paranoia-threaten-future" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xi-jinping-china-weakness-hubris-paranoia-threaten-future</a>
+
