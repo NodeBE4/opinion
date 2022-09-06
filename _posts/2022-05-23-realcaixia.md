@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -89,7 +89,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
-这便是信念与信心的宣示。
+这便是信念与信心的宣示。<br><br>ZHANGDONG: 每年五月的第三个星期四是乌克兰的刺绣衫节，富有民族特色的刺绣衫象征着乌克兰民族团结和民族认同，它把乌克兰人民凝聚在一起。今天泽伦斯基总统用刺绣衫替换下了军绿T-恤衫，精神焕发，流露出乌克兰必胜信心。<br>欧盟女主席今天也亮出刺绣时装秀，表示在困难时期，与乌克兰人民一起共度时艰。<br><br><video src="https://video.twimg.com/ext_tw_video/1527359586797178888/pu/vid/848x480/sHK-f3ykZ1EM8_wr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527359586797178888/pu/img/NJdcjf_nGE0__CSv.jpg"></video> <a href="https://twitter.com/vonderleyen/status/1527317182623150080" target="_blank" rel="noopener noreferrer">https://twitter.com/vonderleyen/status/1527317182623150080</a>
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
@@ -113,7 +113,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
-陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。
+陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。<br><br>韩连潮: 【格杀勿论令】陈全国5.28讲话：<br>“你像我们的17、8岁的孩子，20多岁的孩子，一参加暴恐团伙就击毙，这些人，不也是受蒙蔽的受害人吗？”<br>“...否则参加暴恐就击毙了，参加培训班还可以转化，转化之后还能生活..."<br>"...跑几步把他击毙了，你像这些你跑了就击毙没什么问题的，早都授权了。"<br><br><img style="" src="https://pbs.twimg.com/media/FTmeAw5XEAMRMs1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
+请听学生喊的口号。
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 
@@ -189,7 +189,7 @@ Re 对于我来说，死亡威胁吓不倒我，中共网军在我的推下已�
 
 ### 44: [2022-05-28 09:03:04+08:00 推文](https://twitter.com/realcaixia/status/1530353930034728963)
 
-#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。
+#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。<br><br>《议报》: 陈光诚等：呼吁联合国人权高级专员巴彻莱特询问高智晟、孙文广下落<br> <a href="https://yibaochina.com/?p=246674" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246674</a>
 
 ### 45: [2022-05-28 09:19:47+08:00 推文](https://twitter.com/realcaixia/status/1530358139018674178)
 

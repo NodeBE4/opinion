@@ -21,7 +21,7 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-03~2022-01-09'
 
 ### 2: [2022-01-04 09:39:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478179218089459713)
 
-Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock traffic police, saying they were like "ghosts that were seen everywhere". Police claim Liao's video humiliated them.<br><img style="" src="https://pbs.twimg.com/media/FIOL24cWYAQmzY7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOL5GaWUAkbuFX?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Guizhou woman Liao detained for 5 days for posting a video on Douyin to mock traffic police, saying they were like "ghosts that were seen everywhere". Police claim Liao's video humiliated them.<br><img style="" src="https://pbs.twimg.com/media/FIOL24cWYAQmzY7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIOL5GaWUAkbuFX?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-04 12:03:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478215559602970629)
 
@@ -37,7 +37,7 @@ Re 这些言论中的部分出处如下：<br><img style src="https://pbs.twimg.
 
 ### 6: [2022-01-06 11:48:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936453594116099)
 
-Hebei man Zhang detained for 5 days for referring to police as "Licensed police dogs" in Kuaishou.<br><img style="" src="https://pbs.twimg.com/media/FIY8qpRX0AI1q98?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8sOJWYAgl22v?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Hebei man Zhang detained for 5 days for referring to police as "Licensed police dogs" in Kuaishou.<br><img style src="https://pbs.twimg.com/media/FIY8qpRX0AI1q98?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIY8sOJWYAgl22v?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-07 22:27:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1479459721727954944)
 
