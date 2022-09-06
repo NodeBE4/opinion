@@ -33,7 +33,7 @@ Re 这些言论中的部分出处如下：<br><img style src="https://pbs.twimg.
 
 ### 5: [2022-01-06 11:47:17+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936182641856516)
 
-2019年2月，河北省灵寿县男子张某，因在快手发表一张警察巡逻的照片，并配文“xx保平安；有血统，有证的，警犬“，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIY8C6TXoAEV_O7?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8IKbWYAE0KCF?format=png&name=orig" referrerpolicy="no-referrer">
+2019年2月，河北省灵寿县男子张某，因在快手发表一张警察巡逻的照片，并配文“xx保平安；有血统，有证的，警犬“，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/FIY8C6TXoAEV_O7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIY8IKbWYAE0KCF?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-06 11:48:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1478936453594116099)
 
