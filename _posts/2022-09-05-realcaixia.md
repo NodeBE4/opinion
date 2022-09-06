@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-06
+date: 2022-09-07
 from: https://twitter.com/realcaixia/status/1566554648009482243
 layout: post
 tags:
@@ -58,4 +58,16 @@ title: 'Twitter @蔡霞: 2022-09-05~2022-09-11'
 ### 11: [2022-09-06 23:51:46+08:00 推文](https://twitter.com/realcaixia/status/1567178755205959680)
 
 《The Weakness of Xi Jinping | Foreign Affairs》，这是我的文章的英文版。与网友们分享。 <a href="https://www.foreignaffairs.com/china/xi-jinping-china-weakness-hubris-paranoia-threaten-future" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xi-jinping-china-weakness-hubris-paranoia-threaten-future</a>
+
+### 12: [2022-09-07 01:17:47+08:00 推文](https://twitter.com/realcaixia/status/1567200399416872967)
+
+Re @flc18379 感谢指出🌹，当时粗心了。有时候一忙就一眼晃过去没注意。现在打字也经常手指误碰到隔壁字符。
+
+### 13: [2022-09-07 01:23:13+08:00 推文](https://twitter.com/realcaixia/status/1567201768580300802)
+
+Re @LiYuan6 感谢转发。🌹🤝🫂
+
+### 14: [2022-09-07 02:49:40+08:00 推文](https://twitter.com/realcaixia/status/1567223523126480896)
+
+Re @xaty715 感谢🌹
 
