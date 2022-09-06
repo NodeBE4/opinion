@@ -193,7 +193,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 45: [2022-05-11 21:21:45+08:00 推文](https://twitter.com/realcaixia/status/1524379234466250761)
 
-這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！<br><br>躲猫猫3.0: 新冠目前比艾滋和癌症更让民众恐惧，恐惧的不是医学上的危害，而是政治上的恐惧和社会性的死亡，说到底，新冠现在是一种严重的政治病和人身迫害症。<br><br><video src="https://video.twimg.com/ext_tw_video/1524015266509639680/pu/vid/720x960/TdVj1QB1zDjghph1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524015266509639680/pu/img/ddOjckRe3OBKVC-d.jpg"></video>
+這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
@@ -237,7 +237,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
-这个推文很好，特别转推。<br><br>端咖啡内女的🇺🇦🇺🇦: 我出国前啥都不懂。同学们都出国，不出国就像个loser，所以我也跟风出国了。出国后给家里写的信上说：如果不是亲眼见，你不会相信世界上有这么好的国家、有这么好的社会。每个人都被尊重，每个人做事都认真守规矩，我感到精神上前所未有的放松和自由。<br>
+这个推文很好，特别转推。
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
