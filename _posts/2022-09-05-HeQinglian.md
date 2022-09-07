@@ -215,3 +215,19 @@ Re 有的推友上推晚，或者当时没注意。这可不是玩笑，堂堂�
 
 Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国人民得重新学习英语，带Men的词太多了。<br>取消母亲之后，家里人没法称呼，在拜登、佩洛希家没带头称呼革命之前，全美人民不好办，称呼失去了方向。
 
+### 51: [2022-09-07 19:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1567481782794059776)
+
+Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
+
+### 52: [2022-09-07 19:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1567482280540618758)
+
+Re @Nooka71853753 你的保守定义，可能就只限于名。<br>先弄清楚英美政治大趋势，再来发言不迟。
+
+### 53: [2022-09-07 20:02:00+08:00 推文](https://twitter.com/HeQinglian/status/1567483320560230402)
+
+Re @shenliangqing2 @guchuan81 目前，还只是向全世界推广LGBTQI+、第四代女权，同性婚，布林肯也只是要求各国政府配合（并未说不配合就如何如何）。<br>群婚制还只在麻省两县实行，希望明年的118届国会的极端进步派不会学毛，说这是小脚女人的步伐，必须立刻在全美推广。
+
+### 54: [2022-09-07 20:05:49+08:00 推文](https://twitter.com/HeQinglian/status/1567484279487078401)
+
+“现实是这种法案没能得到执行，明显没能体现大多数人的意愿。<br>但它通过了，这就是问题所在。<br>美共在以法律之名施行独裁。”<br>“取消母亲”的“语言革命”，其实就是指鹿为马，测试美国人的政治服从度。<br><br>美国队长 (金秋红叶)中国队长: @HeQinglian 国家只能让人们去遵守人们愿意遵守的规则，如果大多数人们都不遵守，那就说明这法案违背了大多数人的意愿。<br><br>法案如果体现了大多数人的意愿，一定可以很好地推行。<br>现实是这种法案没能得到执行，明显没能体现大多数人的意愿。<br>但它通过了，这就是问题所在。<br><br>美共在以法律之名施行独裁。<br>
+

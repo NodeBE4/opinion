@@ -85,7 +85,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
-一党专政遍地是灾！一人独裁全民遭殃！<br><br>Chenchen Zhang 🤦🏻‍♀️: what's it like to be quarantined in uni dorms in Changchun...<br>stuck in a 6-person room for a month, only able to take a shower once, can only go to the water distribution room and public bathroom (no toilet or water tap in the dorm), where one must use one designated stall<br><br><img style="" src="https://pbs.twimg.com/media/FQH9AppXoAE7J9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一党专政遍地是灾！一人独裁全民遭殃！
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
@@ -149,11 +149,11 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：
+强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
-2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播
+2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播<br><br>《议报》: 王维洛: 郑州水灾真相难以掩盖（七）<br> <a href="https://yibaochina.com/?p=245968" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245968</a>
 
 ### 36: [2022-04-15 22:19:35+08:00 推文](https://twitter.com/realcaixia/status/1514971703604125697)
 
@@ -161,11 +161,11 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 37: [2022-04-16 03:34:21+08:00 推文](https://twitter.com/realcaixia/status/1515050916776398862)
 
-好消息！
+好消息！<br><br>韩连潮: 美国国防部一位高级官员周五证实，周四在火灾中受损的俄罗斯导弹巡洋舰被两枚海王星导弹击中并最终沉没，<br>俄方可能有人员伤亡。<br><br><img style="" src="https://pbs.twimg.com/media/FQaIbWnXwAEuhI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -197,7 +197,7 @@ Re @lianchaohan 我昨夜看到这个链接，当时链接数116，现在链接�
 
 ### 46: [2022-04-16 21:18:09+08:00 推文](https://twitter.com/realcaixia/status/1515318630229196800)
 
-我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏
 
 ### 47: [2022-04-16 21:33:12+08:00 推文](https://twitter.com/realcaixia/status/1515322418616799240)
 
@@ -233,15 +233,15 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 55: [2022-04-17 10:40:30+08:00 推文](https://twitter.com/realcaixia/status/1515520547970506752)
 
-#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人<br><br>《议报》: 褚朝新：新闻实战｜普通人的声音<br> <a href="https://yibaochina.com/?p=246029" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246029</a>
+#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人
 
 ### 56: [2022-04-17 11:10:49+08:00 推文](https://twitter.com/realcaixia/status/1515528177287766018)
 
-这张照片很珍贵。<br><br>Jam: 今天是胡耀邦去世的纪念日。照片中的他带着两个学生。他们不折腾，免农民税，都是党内好人。习近平时代里，人民却更加怀念胡耀邦，这大概是习近平不知道的，他没那个自知之明呢。<br><br><img style="" src="https://pbs.twimg.com/media/FQa47yyXsAA8rvP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这张照片很珍贵。
 
 ### 57: [2022-04-17 19:19:02+08:00 推文](https://twitter.com/realcaixia/status/1515651043052433409)
 
-建嵘兄干的事跨度太大，他一人活了别人几辈子，能量大到令上面恐惧。从写访民报告到课题研究到写小说“我的父亲是流氓”到黑白山水画人物肖像画；从开北京东书房到开云南大理书院讲学；从卖画到卖农家杂货，从定局北京宋庄到云游四方，国安对他人盯人也10多年了，建嵘兄不妨再写部小说“我把警察当兄弟”。<br><br>章立凡 Zhang Lifan: #转【于建嵘：盯这么紧，有必要吗？】<br><br><img style="" src="https://pbs.twimg.com/media/FQdu8Y8aQAY5T33?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+建嵘兄干的事跨度太大，他一人活了别人几辈子，能量大到令上面恐惧。从写访民报告到课题研究到写小说“我的父亲是流氓”到黑白山水画人物肖像画；从开北京东书房到开云南大理书院讲学；从卖画到卖农家杂货，从定局北京宋庄到云游四方，国安对他人盯人也10多年了，建嵘兄不妨再写部小说“我把警察当兄弟”。
 
 ### 58: [2022-04-17 20:20:44+08:00 推文](https://twitter.com/realcaixia/status/1515666570264993794)
 
@@ -249,9 +249,9 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
-上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！
+上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！<br><br>Jam: 每天晚上七点雷打不动的腥闻联播，骗骗骗，扯扯扯。一位四川百姓实在是忍无可忍，编了这首歌来“夸夸CCTV”,亲切地称之为“骗子”。<br><br><video src="https://video.twimg.com/ext_tw_video/1515461449342201858/pu/vid/240x180/CgsMzoSJ8FA1QjfZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1515461449342201858/pu/img/Hp8T17mHFWY70JpD.jpg"></video>
 
