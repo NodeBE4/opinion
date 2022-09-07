@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-07
+date: 2022-09-08
 from: https://twitter.com/realcaixia/status/1566554648009482243
 layout: post
 tags:
@@ -90,4 +90,16 @@ Re @zhangxiao99 对。感谢指出，感谢您看的那么细致。应该是18�
 ### 19: [2022-09-07 19:32:31+08:00 推文](https://twitter.com/realcaixia/status/1567475898428936192)
 
 Re @yaohehong0006 有中文版，请在我推特上找一下。
+
+### 20: [2022-09-07 23:55:06+08:00 推文](https://twitter.com/realcaixia/status/1567541979969474561)
+
+Re @caichu88 感谢先生🌹
+
+### 21: [2022-09-07 23:58:30+08:00 推文](https://twitter.com/realcaixia/status/1567542838040186880)
+
+Re @yifanxxx 🤝
+
+### 22: [2022-09-08 00:01:43+08:00 推文](https://twitter.com/realcaixia/status/1567543646433542144)
+
+Re @baojianella @xchen156 小平老师提出了一个好问题。
 
