@@ -57,7 +57,7 @@ Re <br><video src="https://video.twimg.com/ext_tw_video/1549418664331460610/pu/v
 
 ### 11: [2022-07-20 00:11:36+08:00 推文](https://twitter.com/realcaixia/status/1549426740623187975)
 
-王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力<br><br>韩连潮: 【谁想把中美拉入战火】王缉思最近的发言是猪八戒倒打一耙，混淆是非，比战狼危害更大。他说中共高官无攻台时间表，事实是98年江泽民就提出时间表，习也提过，还用地动山摇来威胁；目前和平统一的“和平”二字都已删掉，天天军机扰台，拿下台湾成为民族复兴主要任务，一直叫嚣战争的是党国，而不是美国。<br><br><img style="" src="https://pbs.twimg.com/media/FYBsGTHXoAIQ4dF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+王缉思教授对中共高层很有影响力。近年来中共战狼外交遭世界普遍反感，中共在国际上处境孤立，正在遭文明世界抛弃。王教授的发言或许是中共外交策略有所改变的征兆：收敛战狼嘴脸，遮掩中共军事威胁台湾、破坏国际秩序、危害他国国家安全的种种恶行，继续打利益牌鼓吹增进往来。王教授学问为党国效力
 
 ### 12: [2022-07-20 00:18:32+08:00 推文](https://twitter.com/realcaixia/status/1549428485936058368)
 
@@ -93,11 +93,11 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 20: [2022-07-21 01:14:43+08:00 推文](https://twitter.com/realcaixia/status/1549805012095848450)
 
-中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。<br><br>HAO.: @realcaixia 墙内现状。<br><br><img style="" src="https://pbs.twimg.com/media/FYH_7mNXgAYXpU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共對自己幹的罪惡一清二楚，他們害怕人們的紀念，他們千方百計地想要扼殺人們的記憶。這和它們年年妄圖扼殺人們對6.4天安門廣場死難者的紀念一樣。
 
 ### 21: [2022-07-21 01:48:51+08:00 推文](https://twitter.com/realcaixia/status/1549813602693140480)
 
-对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运<br><br>《议报》: 真叫卢俊: “我躲在虹桥的卫生间，不知道去哪。”<br> <a href="https://yibaochina.com/?p=247198" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247198</a>
+对许多打工人来说，清零政策的后续影响仅仅只是厄运的开始。中共国一向有各种歧视，不合情理不合法，但那是权力意志的产物，独裁权力扼着人们的生活和命运
 
 ### 22: [2022-07-21 06:26:29+08:00 推文](https://twitter.com/realcaixia/status/1549883471451111424)
 
@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+因知了诗而生祸，真是前无古人。
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
