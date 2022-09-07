@@ -117,7 +117,7 @@ Re @wuzuolai 祚来老师大度平和🌹🌹👍。
 
 ### 26: [2022-01-23 22:43:08+08:00 推文](https://twitter.com/realcaixia/status/1485261825381969927)
 
-据纽时报报道，中共官方提供的冬奥通app有后门，可以窃取使用者的资料，并设置了4位数之多的敏感词，可以监控并限制运动员言论。运动员参加的是无观众无喝彩的比赛。以防疫为名的运动员被“清零”式封闭、被全时空监控的奥运会，真是21世纪的希特勒式奥运会。国际奥林匹克运动将因此被蒙上耻辱。<br><br>韩连潮: 国内网友传来的当局对参加北京冬奥运动员严加管束的信息，看来中共要借疫情来禁止运动员批评其侵犯人权和反人类的罪行。<br><br><img style="" src="https://pbs.twimg.com/media/FJydMDeXwAA4Txl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+据纽时报报道，中共官方提供的冬奥通app有后门，可以窃取使用者的资料，并设置了4位数之多的敏感词，可以监控并限制运动员言论。运动员参加的是无观众无喝彩的比赛。以防疫为名的运动员被“清零”式封闭、被全时空监控的奥运会，真是21世纪的希特勒式奥运会。国际奥林匹克运动将因此被蒙上耻辱。<br><br>韩连潮: 国内网友传来的当局对参加北京冬奥运动员严加管束的信息，看来中共要借疫情来禁止运动员批评其侵犯人权和反人类的罪行。<br><br><img style src="https://pbs.twimg.com/media/FJydMDeXwAA4Txl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2022-01-23 22:45:35+08:00 推文](https://twitter.com/realcaixia/status/1485262439864274947)
 
