@@ -103,3 +103,7 @@ This should be essential reading. There will be a copy on the shelf at CMP — n
 
 Learning about "red genes" and the greatness of the Chinese Communist Party? Just another day in a PRC biology class. The mixing of politics in science under Xi Jinping is an old tradition made new. <a href="https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/</a>
 
+### 23: [2022-09-07 14:20:29+08:00 推文](https://twitter.com/cnmediaproject/status/1567397375806951424)
+
+"In the shadows, resentment among CCP elites is rising." A must-read from someone who knows China's system from the inside like few others. <a href="https://www.foreignaffairs.com/china/xi-jinping-china-weakness-hubris-paranoia-threaten-future?check_logged_in=1&amp;utm_medium=newsletters&amp;utm_source=press_release&amp;utm_campaign=&amp;utm_content=20220906&amp;utm_term=PressCFR%20and%20Members%20-%20ALL" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xi-jinping-china-weakness-hubris-paranoia-threaten-future?check_logged_in=1&amp;utm_medium=newsletters&amp;utm_source=press_release&amp;utm_campaign=&amp;utm_content=20220906&amp;utm_term=PressCFR%20and%20Members%20-%20ALL</a>
+
