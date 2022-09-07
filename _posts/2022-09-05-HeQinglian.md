@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-07
+date: 2022-09-08
 from: https://twitter.com/HeQinglian/status/1566521499724513280
 layout: post
 tags:
@@ -230,4 +230,16 @@ Re @shenliangqing2 @guchuan81 目前，还只是向全世界推广LGBTQI+、第�
 ### 54: [2022-09-07 20:05:49+08:00 推文](https://twitter.com/HeQinglian/status/1567484279487078401)
 
 “现实是这种法案没能得到执行，明显没能体现大多数人的意愿。<br>但它通过了，这就是问题所在。<br>美共在以法律之名施行独裁。”<br>“取消母亲”的“语言革命”，其实就是指鹿为马，测试美国人的政治服从度。<br><br>美国队长 (金秋红叶)中国队长: @HeQinglian 国家只能让人们去遵守人们愿意遵守的规则，如果大多数人们都不遵守，那就说明这法案违背了大多数人的意愿。<br><br>法案如果体现了大多数人的意愿，一定可以很好地推行。<br>现实是这种法案没能得到执行，明显没能体现大多数人的意愿。<br>但它通过了，这就是问题所在。<br><br>美共在以法律之名施行独裁。<br>
+
+### 55: [2022-09-08 00:48:56+08:00 推文](https://twitter.com/HeQinglian/status/1567555527525244932)
+
+Re @shenliangqing2 找了半天，链接都不灵。方便时给个链接。<br>私信给也可。
+
+### 56: [2022-09-08 00:52:46+08:00 推文](https://twitter.com/HeQinglian/status/1567556493351833601)
+
+Re @shenliangqing2 有位为BLM抢劫正名的女作家维姬·欧斯特威尔（Vicky Osterweil），书名是《捍卫战利品：不文明的暴乱历史》（In Defense Of Looting’, In Defense of Looting: A Riotous History of Uncivil Action）出版后，美国NPR、纽约客、大西洋月刊等都重点介绍。<br>推上有维律热情讴歌。 <a href="http://heqinglian.net/2020/09/10/american-constitutional-crisis/" target="_blank" rel="noopener noreferrer">http://heqinglian.net/2020/09/10/american-constitutional-crisis/</a>
+
+### 57: [2022-09-08 00:58:31+08:00 推文](https://twitter.com/HeQinglian/status/1567557941611438081)
+
+Re @shenliangqing2 不少热情讴歌打砸抢的民主党官员、主播，不幸被BLM光顾后，立刻翻脸，痛骂BLM抢劫无耻。<br>西雅图女市长就是一例，我都写在文章里，资料全有链接。<br>比华利山庄的影星们在山庄入口写上“我们支持BLM”，也未能幸免，最后是他们赞成取消的警察（Defund the Police)赶来救他们。<br>我犹如经历了一次美国文革。
 
