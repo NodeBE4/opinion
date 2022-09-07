@@ -45,7 +45,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 8: [2022-05-23 21:42:51+08:00 推文](https://twitter.com/realcaixia/status/1528733199098122242)
 
-荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。<br><br>荣剑: 这大概就是文明的分野，没有经过清朝的人，也不必说遗憾，清和后清有什么区别吗？区别或许就是帖子中所说的疯狂的删帖取代了文字狱——当然，有人肯定会说，现在因言获罪还少吗？面对这样的质疑，我无言以答。<br><br><img style="" src="https://pbs.twimg.com/media/FTXKTPGVIAEGNN3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
@@ -109,7 +109,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 24: [2022-05-25 12:40:07+08:00 推文](https://twitter.com/realcaixia/status/1529321388275748864)
 
-这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。
+这就是大度、豁达、善良，通透。不浪费时间精力打无聊口水仗，把时间精力投入在值得做的事情上。这就是活得坦荡。<br><br>王局志安: 这两天有不少人告诉我一些人在攻击我，我第一不在意，第二不关心，第三我也不会回复那些子虚乌有的各种污蔑。话说我现在非常忙，上午日语课，下午找选题录节目，看办公室，看招聘的简历，和各路想要投资的人相谈。根本顾不上看这些攻击的言论。我已两鬓斑白，不想把有限的生命浪费到这些事情上。<br>
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
@@ -121,11 +121,11 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
-索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。<br><br>韩连潮: 【索罗斯如是说】索罗斯昨在世界经济论坛上发表演讲，称俄入侵乌克兰可能是第三次世界大战的开始，威胁到人类文明；中俄利用高科技构成了对世界的最大威胁。但他也指这两个专制政权都开始出现裂痕 -- 普京入侵乌克兰被世界孤立，习近平抗疫失误引发人民不满。<br><br><img style="" src="https://pbs.twimg.com/media/FTmnuiaWIAAIgnI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+索罗斯是位目光极为锐利的智者。早在2019年，索罗斯就指出中共国利用高科技，正在威胁世界和平和人类文明。<br>后来索罗斯几次发表文章，提醒与告诫自由民主国家要高度警惕习近平掌控下的中国。他对中共极权政权的清醒认识，甚至超过美国的一些热衷于中美engagement policy 的政治家们。
 
 ### 28: [2022-05-26 02:17:21+08:00 推文](https://twitter.com/realcaixia/status/1529527052629528581)
 
-封城清零封到老鼠饿死在面店里。<br><br>吴文行wenxingwu: 上海因疫情店面关闭，老鼠被活活饿死！饥荒达到高水准！<br><br><img style="" src="https://pbs.twimg.com/media/FTlbvqPVsAAZA3s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+封城清零封到老鼠饿死在面店里。
 
 ### 29: [2022-05-26 22:53:06+08:00 推文](https://twitter.com/realcaixia/status/1529838039152922625)
 
@@ -189,7 +189,7 @@ Re 对于我来说，死亡威胁吓不倒我，中共网军在我的推下已�
 
 ### 44: [2022-05-28 09:03:04+08:00 推文](https://twitter.com/realcaixia/status/1530353930034728963)
 
-#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。
+#议报发布的“呼吁公开信”，特别推荐。<br>中国著名的异见者人权律师高智晟和老教授孙文广先生，被中共警察带走后，至今音信全无，他们的人身境遇令人十分担心。趁着联合国人权高级专员巴彻莱特为了解新疆的人权真相而去中国，全球华人朋友联合签名，呼吁巴彻莱特关注高智晟和孙文广，关注中国的人权真相。<br><br>《议报》: 陈光诚等：呼吁联合国人权高级专员巴彻莱特询问高智晟、孙文广下落<br> <a href="https://yibaochina.com/?p=246674" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246674</a>
 
 ### 45: [2022-05-28 09:19:47+08:00 推文](https://twitter.com/realcaixia/status/1530358139018674178)
 
@@ -205,7 +205,7 @@ Re 就是这个视频。请关注。<br><img style="" src="https://pbs.twimg.com
 
 ### 48: [2022-05-28 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1530550852913704961)
 
-请读一读这篇文章。
+请读一读这篇文章。<br><br>公民力量: CPIFC: The Myth of Public Opinion Under Xi Jinping #xijinping<br> <a href="https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/</a>
 
 ### 49: [2022-05-28 22:08:33+08:00 推文](https://twitter.com/realcaixia/status/1530551603727675393)
 
