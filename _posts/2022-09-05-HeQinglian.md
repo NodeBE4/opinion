@@ -217,7 +217,7 @@ Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国
 
 ### 51: [2022-09-07 19:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1567481782794059776)
 
-Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
+RT He Qinglian<br>Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
 
 ### 52: [2022-09-07 19:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1567482280540618758)
 
@@ -242,4 +242,16 @@ Re @shenliangqing2 有位为BLM抢劫正名的女作家维姬·欧斯特威尔�
 ### 57: [2022-09-08 00:58:31+08:00 推文](https://twitter.com/HeQinglian/status/1567557941611438081)
 
 Re @shenliangqing2 不少热情讴歌打砸抢的民主党官员、主播，不幸被BLM光顾后，立刻翻脸，痛骂BLM抢劫无耻。<br>西雅图女市长就是一例，我都写在文章里，资料全有链接。<br>比华利山庄的影星们在山庄入口写上“我们支持BLM”，也未能幸免，最后是他们赞成取消的警察（Defund the Police)赶来救他们。<br>我犹如经历了一次美国文革。
+
+### 58: [2022-09-08 03:35:12+08:00 推文](https://twitter.com/HeQinglian/status/1567597373211250690)
+
+Re @Alvin_Canada @shenliangqing2 你的问题，我在链接的文章里谈得很清楚。<br>BLM从问世之时开始，就与打砸抢等暴力行为相伴随，支持BLM的人就是支持他们的一切，主张抢劫有理。<br>你人在温哥华，应该没有资讯障碍，关键是你愿意读什么。<br>比如佩洛西2021年第一个法案是取消Mother，当时无论媒体还是社媒都谈得很热闹，但有的人是青蛙脑子。
+
+### 59: [2022-09-08 03:48:13+08:00 推文](https://twitter.com/HeQinglian/status/1567600646769049601)
+
+英国脱欧数年，成了不脱欧的脱欧。<br>从意识形态上、对外政策上、国内政策上，英国现在的保守党徒有其名，并无其实。<br>唯一的成绩就是原来英国有两个老板，欧盟与美国，现在总算只有一个，欧盟成了伙伴，不再是欧盟的老三。
+
+### 60: [2022-09-08 04:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1567605072594345984)
+
+Re @aki_xavier @shenliangqing2 【99%中国人的政治思维属于右翼】<br>如果只指变性一项，中国人可能99%不赞成，吸大麻可能90%的中国人不会公开赞成——但这与左、右无关，而是正常人与非正常人的差别。<br>中国人总体是左的，至少知识界90%是左的。
 
