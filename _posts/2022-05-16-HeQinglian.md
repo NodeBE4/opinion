@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
