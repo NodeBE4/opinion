@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-07-25~2022-07-31'
 
 ### 2: [2022-07-25 08:12:06+08:00 推文](https://twitter.com/realcaixia/status/1551359600271806469)
 
-支持！<br><br>Luo Shengchun丁家喜律师妻子: #一人一照声援丁家喜许志永 非常感谢国内朋友发来照片声援家喜！考虑到国内朋友发声有危险，我决定在海外发起一场一人一照声援丁家喜许志永活动，欢迎海外的朋友们踊跃参加！照片做完可以发给我来发推特，或者您直接发推特把链接分享给我或放群里。<br><br>非常感谢清鹏率先参与支持！<br> <a href="https://twitter.com/wangqingpeng1/status/1540175207616245760" target="_blank" rel="noopener noreferrer">https://twitter.com/wangqingpeng1/status/1540175207616245760</a>
+支持！
 
 ### 3: [2022-07-25 20:00:20+08:00 推文](https://twitter.com/realcaixia/status/1551537832728174593)
 
@@ -41,7 +41,7 @@ Re @GuRu_999999 请你拿出你的论文来。
 
 ### 7: [2022-07-26 00:12:55+08:00 推文](https://twitter.com/realcaixia/status/1551601399795965953)
 
-常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我的车周围围满了车，有公安、特警标记，还有社会车辆，刚刚还有穿着防化服的人来敲我的车窗，天已经黑了，请大家关注我和孩子及我母亲的安危<br><br><img style="" src="https://pbs.twimg.com/media/FYg3GtUVUAEuEPh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。
 
 ### 8: [2022-07-26 20:50:08+08:00 推文](https://twitter.com/realcaixia/status/1551912755179012096)
 
@@ -73,7 +73,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYnp4TgWAAABRqf?format=jpg
 
 ### 15: [2022-07-27 04:55:35+08:00 推文](https://twitter.com/realcaixia/status/1552034924093374464)
 
-从一剑先生的推文中看到这篇推文，感慨万千，特别转推。<br>昨天前天读长篇纪实作品《情义无价》，深深感动。作品写肖远先生与武汉一群当时创办科技企业，并已获得重大成就的科研人员、企业管理者以及女大学生在危急关头挺身而出，为救助素不相识的王军涛先生，他们被中共判罪入狱。情义无价，义薄云天！<br><br>邬Sir: 八九一代都已渐渐老去，陆续逝去，这是无法逆转的规律。唯盼民主自由薪火相传，大家则珍重保重。这代近百年中曾最奉献、最纯真、最进步、最爱国的青年大学生也许注定会成为最压抑、最冤屈、最无奈、最破灭的一代。然生命不息，追求不止。上帝保佑！<br>
+从一剑先生的推文中看到这篇推文，感慨万千，特别转推。<br>昨天前天读长篇纪实作品《情义无价》，深深感动。作品写肖远先生与武汉一群当时创办科技企业，并已获得重大成就的科研人员、企业管理者以及女大学生在危急关头挺身而出，为救助素不相识的王军涛先生，他们被中共判罪入狱。情义无价，义薄云天！<br><br>邬Sir: 八九一代都已渐渐老去，陆续逝去，这是无法逆转的规律。唯盼民主自由薪火相传，大家则珍重保重。这代近百年中曾最奉献、最纯真、最进步、最爱国的青年大学生也许注定会成为最压抑、最冤屈、最无奈、最破灭的一代。然生命不息，追求不止。上帝保佑！<br> <a href="https://twitter.com/hua8907/status/1551414828618489861" target="_blank" rel="noopener noreferrer">https://twitter.com/hua8907/status/1551414828618489861</a>
 
 ### 16: [2022-07-27 04:59:22+08:00 推文](https://twitter.com/realcaixia/status/1552035873176408067)
 
@@ -109,9 +109,9 @@ Re @guidepeter2004 我不太清楚怎么能买到书，想了解多一些李锐�
 
 ### 24: [2022-07-31 18:47:49+08:00 推文](https://twitter.com/realcaixia/status/1553693913738887169)
 
-非常了不起的大翻译运动！非常优秀的年轻人！
+非常了不起的大翻译运动！非常优秀的年轻人！<br><br>The Great Translation Movement 大翻译运动官方推号: <br><br><img style="" src="https://pbs.twimg.com/media/FY6wB18VsAMh5VY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xPaxUIAAuqRD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FY6xQeXUcAAlEQ9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-07-31 20:00:44+08:00 推文](https://twitter.com/realcaixia/status/1553712261545529344)
 
-中共黨章第38條規定：各級領導幹部无论是选举产生或是由领导机关任命的，他们的职务都不是终身的，都可以变动或解除。<br>遵守八二憲法並與憲法規定的國家級領導職務任期制相銜接，中共《黨政領導幹部職務任期制暫行規定》第二，三，六，七條均做了明確規定。<br>習凌駕於全黨之上，公開違反黨章。
+中共黨章第38條規定：各級領導幹部无论是选举产生或是由领导机关任命的，他们的职务都不是终身的，都可以变动或解除。<br>遵守八二憲法並與憲法規定的國家級領導職務任期制相銜接，中共《黨政領導幹部職務任期制暫行規定》第二，三，六，七條均做了明確規定。<br>習凌駕於全黨之上，公開違反黨章。<br><br>章立凡 Zhang Lifan: 历史上的昨天，翻篇了……<br><br>转【中共中央在北京召开政治局扩大会议】邓小平和陈云分别作《设顾问委员会是废除领导职务终身制的过渡办法》和《干部队伍的交接班问题是完的一件大事》的讲话。<br><br><img style="" src="https://pbs.twimg.com/media/FY9Q5DcXoAI-11H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

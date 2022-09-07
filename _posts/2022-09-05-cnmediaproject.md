@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-06
+date: 2022-09-07
 from: https://twitter.com/cnmediaproject/status/1566687391481757696
 layout: post
 tags:
@@ -90,4 +90,16 @@ Re The next day we noted cont. silence on the report in "China's Quiet Fury Over
 ### 19: [2022-09-06 14:11:38+08:00 推文](https://twitter.com/cnmediaproject/status/1567032758513594369)
 
 Re Today, a search in the press database for "Xinjiang human rights report" turns up nothing in the past week except the Toutiao post, now gone. In Chinese-language media outside China since August 31: 588 articles mention the phrase. 4/4<br><img style="" src="https://pbs.twimg.com/media/Fb839ipaQAApSZH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-09-07 10:17:34+08:00 推文](https://twitter.com/cnmediaproject/status/1567336240458113025)
+
+New rules for “science popularization” released over the weekend make the Chinese Communist Party's history of interweaving politics and science painfully present. <a href="https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/</a>
+
+### 21: [2022-09-07 10:25:32+08:00 推文](https://twitter.com/cnmediaproject/status/1567338245171851264)
+
+This should be essential reading. There will be a copy on the shelf at CMP — not far from the Chinese-language edition of Animal Farm.<br><br>Josh Chin: I’m thrilled to announce that SURVEILLANCE STATE, my book with @lizalinwsj, is out today. It documents how China’s Communist Party is using cutting-edge surveillance technology to conduct a vast, unprecedented experiment in social engineering<br><br><img style="" src="https://pbs.twimg.com/media/FcADzLJagAMbKFD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcADzLKaIAEVyBx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcADzLKaIAAtNrx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://us.macmillan.com/books/9781250249296/surveillancestate" target="_blank" rel="noopener noreferrer">https://us.macmillan.com/books/9781250249296/surveillancestate</a>
+
+### 22: [2022-09-07 11:00:08+08:00 推文](https://twitter.com/cnmediaproject/status/1567346953893314561)
+
+Learning about "red genes" and the greatness of the Chinese Communist Party? Just another day in a PRC biology class. The mixing of politics in science under Xi Jinping is an old tradition made new. <a href="https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/</a>
 

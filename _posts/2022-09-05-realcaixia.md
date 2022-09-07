@@ -75,3 +75,11 @@ Re @xaty715 感谢🌹
 
 Re @zzffcca 看到一个网友译成“软肋”，这个词最好！
 
+### 16: [2022-09-07 08:11:14+08:00 推文](https://twitter.com/realcaixia/status/1567304451194605569)
+
+勿忘张展。她在为我们大陆中国人受难！<br><img style="" src="https://pbs.twimg.com/media/FcAvFOMXEAEOhNY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcAvFYtWQAEbYH_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcAvFmxXgAEUeEi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcAvF2aWAAIq0bU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-09-07 09:58:00+08:00 推文](https://twitter.com/realcaixia/status/1567331316550569986)
+
+说得对。<br><br>vitalik.eth: @ioveamg1 说一个国家的人必须支持自己国家的政府并不是爱国，而是一种奴隶制。真正的爱国有时候需要对抗自己国家发出的邪恶，因为这样才能帮自己国家变得更美<br>
+

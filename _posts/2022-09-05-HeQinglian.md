@@ -171,3 +171,47 @@ Re @Wu_Zhi 美国主流媒体记者喜欢就行。<br>当初他们那么讨厌�
 
 Re @dinglili7 那就是，用印钞-通胀的方式 解决问题，最后通过通胀再掠夺回来。<br>好聪明的No.31——不愧是大重置选中之人。
 
+### 40: [2022-09-07 07:37:54+08:00 推文](https://twitter.com/HeQinglian/status/1567296062402052096)
+
+香港报告首例猴痘病例 港府提高猴痘警戒级别 <br>消息称，“这名男性患者在海外曾经有高风险活动”——但未指何谓“高风险”，也许是指Gay的活动，为避免“污名化”，不报道了。<br>世卫称，“目前超过90个非流行国家报告了疫情，确诊病例超过52700例，某国报告了首例死亡病例”。 <a href="https://rfi.my/8if5.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8if5.T</a>
+
+### 41: [2022-09-07 08:07:18+08:00 推文](https://twitter.com/HeQinglian/status/1567303457975017473)
+
+美国第116届国会行将任满，回忆本届国会履行职责的第一单提案非常重要：取消母亲。<br>议长佩洛西率民主党提议从众议院规则中删除“父亲、母亲、儿子、女儿、兄弟、姐妹”和所有被认为不够“性别包容”的语言。它们将被替换为“父母、孩子、兄弟姐妹、父母的兄弟姐妹”等术语。<br>不知南希子女如何称呼她？
+
+### 42: [2022-09-07 08:14:44+08:00 推文](https://twitter.com/HeQinglian/status/1567305329649623044)
+
+Re 提供对应英语，让推友头上的雾水少一点：<br>father, mother, son, daughter, brother, sister（父亲、母亲、儿子、女儿、兄弟、姐妹）<br> parent, child, sibling, parent’s sibling（父母双亲、孩子、兄弟姐妹、父母的兄弟姐妹）
+
+### 43: [2022-09-07 08:29:14+08:00 推文](https://twitter.com/HeQinglian/status/1567308980497661955)
+
+Re @arthurwl 你是Human，取消了，你不是Human。<br>你的进步，可以追比佩洛西，来美国吧，说不定下届议长是你。
+
+### 44: [2022-09-07 09:44:33+08:00 推文](https://twitter.com/HeQinglian/status/1567327931663278081)
+
+Re @arthurwl 看来，对不知道的事情喜欢发言是你的特点。刚才我那句话你看明白了没？
+
+### 45: [2022-09-07 09:56:05+08:00 推文](https://twitter.com/HeQinglian/status/1567330835648417792)
+
+Re @washearg 不知道。当时依照佩洛西众议院规则，将所有带“man”等性别含义的词全修改，如policeman改成了police officer，Fireman改成了firefighter，后来发现还有mailman/human/women/men……，还有Grandmother/grandfather/godfather/godmother……，改不胜改，然后，这场美国破四旧的改名风就没有“然后”了。
+
+### 46: [2022-09-07 10:04:22+08:00 推文](https://twitter.com/HeQinglian/status/1567332918678245378)
+
+堂堂美利坚合众国国会网站上纪录还在：<br>deemed insufficiently “gender-inclusive” from House rules. <br><br>纠正一下，这不是疯，这是进步主义的政治正确。<br><br>flyingbird: @HeQinglian 没研究过，这是真的吗？简直难以置信，是疯了吗<br>
+
+### 47: [2022-09-07 10:05:33+08:00 推文](https://twitter.com/HeQinglian/status/1567333216255606784)
+
+Re @170202Dxx 算了，连在美国的华左们，这些附有资料出处链接的事实都闭眼不看，大陆的装睡客，一定以为我是诬蔑美国。
+
+### 48: [2022-09-07 10:07:13+08:00 推文](https://twitter.com/HeQinglian/status/1567333636927520772)
+
+Re 有的推友上推晚，或者当时没注意。这可不是玩笑，堂堂美利坚合众国国会网站上纪录还在：<br>deemed insufficiently “gender-inclusive” from House rules. <a href="https://congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://congress.gov/bill/117th-congress/house-resolution/8/text</a>
+
+### 49: [2022-09-07 10:24:14+08:00 推文](https://twitter.com/HeQinglian/status/1567337921568555015)
+
+身份政治新标配。<br>与中国文革时按阶级、民族选中央委员的身份政治异曲同工，差别是：欧美新身份政治以肤色（种族）、性别为标尺（变性人与LGBTQI+选拔优先），中共的身份政治以阶级、民族为标尺。<br><br>联合早报 Lianhe Zaobao: 接受英国女王伊丽莎白二世任命的新首相特拉斯公布了政府新内阁成员名单。如外界所预测，新政府打破英国纪录，四个最主要的政府高官职位没有一个是白人男性。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220907-1310507" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220907-1310507</a>
+
+### 50: [2022-09-07 10:27:11+08:00 推文](https://twitter.com/HeQinglian/status/1567338662257459201)
+
+Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国人民得重新学习英语，带Men的词太多了。<br>取消母亲之后，家里人没法称呼，在拜登、佩洛希家没带头称呼革命之前，全美人民不好办，称呼失去了方向。
+
