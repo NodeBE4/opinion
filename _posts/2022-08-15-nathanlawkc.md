@@ -25,9 +25,9 @@ Re 2. It starts with the story of my father. In his late twenties, there was no 
 
 Re 3. Hong Kong was meant to be a safe haven and refuge. Generations of Chinese escaped the economic disasters and political terror in last century and found peace and prosperity in this city. Sadly, it turns to a persecutor now — this is a fascinating historical irony.
 
-### 3: [2022-08-15 20:37:33+08:00 推文](https://twitter.com/nathanlawkc/status/1559157344348635139)
+### 3: [2022-08-15 20:37:33+08:00 推文](https://twitter.com/nathanlawkc/status/1559157346294718464)
 
-Re 5. Most of us who repel and resist are not innately anti-CCP. I grew up cheering for the achievement of China and its great Olympic campaign in 2008. It was how they stripped away our freedoms, and the brutalities to its people that propelled us to do so. To dissent is a reaction
+Re 6. My years of activism in the center of HK politics demonstrated how it had changed drastically over the past few years. My role turned from a student activist, lawmaker, political prisoner, and exiled activist. Room for political participation and diversity shrank.
 
 ### 4: [2022-08-15 20:37:34+08:00 推文](https://twitter.com/nathanlawkc/status/1559157349813833728)
 
