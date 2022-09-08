@@ -217,7 +217,7 @@ Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国
 
 ### 51: [2022-09-07 19:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1567481782794059776)
 
-Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
+RT He Qinglian<br>Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
 
 ### 52: [2022-09-07 19:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1567482280540618758)
 
@@ -254,4 +254,20 @@ Re @Alvin_Canada @shenliangqing2 你的问题，我在链接的文章里谈得�
 ### 60: [2022-09-08 04:05:48+08:00 推文](https://twitter.com/HeQinglian/status/1567605072594345984)
 
 Re @aki_xavier @shenliangqing2 【99%中国人的政治思维属于右翼】<br>如果只指变性一项，中国人可能99%不赞成，吸大麻可能90%的中国人不会公开赞成——但这与左、右无关，而是正常人与非正常人的差别。<br>中国人总体是左的，至少知识界90%是左的。
+
+### 61: [2022-09-08 08:37:00+08:00 推文](https://twitter.com/HeQinglian/status/1567673320643993601)
+
+Re @Alvin_Canada @shenliangqing2 一个人最好对一件事情、一个政治人物有所了解再发言。<br>我没空对你多讲。自己上网查，这位佩洛西在2020年5月，率领民主党议员向BLM下跪，照片到处都有。<br>以后，希望有点知识储备再来，别人没有义务为你从ABC讲起。
+
+### 62: [2022-09-08 08:39:24+08:00 推文](https://twitter.com/HeQinglian/status/1567673926381182979)
+
+Re @lawyer_sui 至今，这位仍然是美国媒体、学界顶礼的对象，集各种政治正确于一身。他可以打破所有的政治禁忌，公开干政。<br>纽约时报对他的赞美，有如中国文革对红太阳。就连最美丽的第一夫人这种颂词也不止一次用过。
+
+### 63: [2022-09-08 09:00:34+08:00 推文](https://twitter.com/HeQinglian/status/1567679253189099520)
+
+Re @lindahuiyun 人之一生，无法让别人事事如意，但求问心无愧就行。<br>不要太累，尤其是心不要太累。<br>就写这几句，希望让你心里舒服一些。
+
+### 64: [2022-09-08 09:06:11+08:00 推文](https://twitter.com/HeQinglian/status/1567680664899657730)
+
+拜登的坏消息。<br>根据拉斯穆森报道9月 6日公布的一项民意调查，近三分之二的登记选民（62%）认为拜登知道并可能从其儿子亨特·拜登（Hunter Biden）获得的商业交易中获利，这些交易涉及与敌对政府有关的数据，包括中国。<br>拜登本人一直声称这是对他的抹黑。 <a href="https://conservativebrief.com/nearly-4-66251/?utm_source=CB&amp;utm_medium=DJD" target="_blank" rel="noopener noreferrer">https://conservativebrief.com/nearly-4-66251/?utm_source=CB&amp;utm_medium=DJD</a>
 
