@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-09-08
+date: 2022-09-09
 from: https://twitter.com/nathanlawkc/status/1567184126926528514
 layout: post
 tags:
@@ -28,4 +28,8 @@ Iain has been appealing for a tougher stance towards the authoritarian influnce 
 ### 3: [2022-09-08 18:52:52+08:00 推文](https://twitter.com/nathanlawkc/status/1567828309861449728)
 
 For anyone who says there's freedom of speech in Hong Kong -- this is what speech crime looks like. <br>Tales are not allowed in the city anymore.<br><br>Hong Kong therapists convicted of sedition over children’s books <a href="https://www.theguardian.com/world/2022/sep/07/hong-kong-authors-of-childrens-books-sheep-wolves-convicted-of-sedition?CMP=share_btn_tw" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/sep/07/hong-kong-authors-of-childrens-books-sheep-wolves-convicted-of-sedition?CMP=share_btn_tw</a>
+
+### 4: [2022-09-09 00:50:31+08:00 推文](https://twitter.com/nathanlawkc/status/1567918313119928324)
+
+The Queen is loved by millions of Hong Kong people. The thoughts and prayers of us are with The Queen and her family.
 
