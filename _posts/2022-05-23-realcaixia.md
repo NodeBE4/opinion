@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -65,7 +65,7 @@ Re @yjpc007 @YouTube 在大陆，习讲忠诚不绝对等于绝对不忠诚；�
 
 ### 13: [2022-05-24 02:30:58+08:00 推文](https://twitter.com/realcaixia/status/1528805702801805312)
 
-👍🌹🌹🌹<br><br>Gancheng Wang: 上海发生“自行解封”运动<br>人民正在觉醒<br>拒绝继续被强制封闭<br><br>上海多个小区居民据理力争，终于喊出“自行解封”的响亮口号。目前徐汇区、静安区多个小区居民已经突破封锁自行解封。“自解”运动正在上海不断发酵和扩大。<br><br><video src="https://video.twimg.com/ext_tw_video/1528750422797824001/pu/vid/592x1280/xNgDGcLGyHh2A6--.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528750422797824001/pu/img/BSVm97JkTt_SDrX4.jpg"></video>
+👍🌹🌹🌹
 
 ### 14: [2022-05-24 04:51:44+08:00 推文](https://twitter.com/realcaixia/status/1528841129139269632)
 
@@ -117,7 +117,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
-💔<br><br>韩连潮: 看到这张照片仍无动于衷的，我不知道他们是什么！<br><br><img style="" src="https://pbs.twimg.com/media/FTmkwgvXsAASlep?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+💔
 
 ### 27: [2022-05-26 02:13:17+08:00 推文](https://twitter.com/realcaixia/status/1529526030536708096)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。
+请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 
@@ -213,7 +213,7 @@ Re 我不会个别回答任何问题，只是推荐网友获取更多视角和�
 
 ### 50: [2022-05-28 23:22:30+08:00 推文](https://twitter.com/realcaixia/status/1530570213896466436)
 
-推特导语写得好！陕西日报这标题首先违反中共党章。<br>中共党章说：“党除了工人阶级和最广大人民群众的利益，没有自己的特殊利益。党在任何时候都把群众利益放在第一位…”（党章原话照抄）。尽管中共一直拿这话欺骗民众，毕竟还要披着这块羊皮，陕西日报赤裸裸地扔掉羊皮，等于自爆党黑本质，自揭老底。<br><br>蔡慎坤: 过去还习惯遮遮掩掩，现在完全撕下了遮羞布，过去还说说为人民服务，人民利益高于一切，把人民利益放在第一位！现在完全变换了面孔，公开的叫嚣是邀功请赏还是另有所图？一份党报变得如此狰狞，背后必定有人图谋不轨，意欲通过这种方式来取宠！<br><br><img style="" src="https://pbs.twimg.com/media/FTxCpdKUYAIzdqg?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+推特导语写得好！陕西日报这标题首先违反中共党章。<br>中共党章说：“党除了工人阶级和最广大人民群众的利益，没有自己的特殊利益。党在任何时候都把群众利益放在第一位…”（党章原话照抄）。尽管中共一直拿这话欺骗民众，毕竟还要披着这块羊皮，陕西日报赤裸裸地扔掉羊皮，等于自爆党黑本质，自揭老底。
 
 ### 51: [2022-05-28 23:45:22+08:00 推文](https://twitter.com/realcaixia/status/1530575970780041216)
 
