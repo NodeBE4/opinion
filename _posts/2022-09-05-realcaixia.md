@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-08
+date: 2022-09-09
 from: https://twitter.com/realcaixia/status/1566554648009482243
 layout: post
 tags:
@@ -106,4 +106,8 @@ Re @baojianella @xchen156 小平老师提出了一个好问题。
 ### 23: [2022-09-08 15:12:02+08:00 推文](https://twitter.com/realcaixia/status/1567772733152399362)
 
 拿走一大半GDP是为了造福人民？凌驾于民生之上的三大分配原则 - YouTube <a href="https://www.youtube.com/shorts/cGOL7UE8NMs" target="_blank" rel="noopener noreferrer">https://www.youtube.com/shorts/cGOL7UE8NMs</a>
+
+### 24: [2022-09-09 03:19:52+08:00 推文](https://twitter.com/realcaixia/status/1567955898588332037)
+
+Re @jenniferatntd Thank you so much.
 
