@@ -33,3 +33,7 @@ For anyone who says there's freedom of speech in Hong Kong -- this is what speec
 
 The Queen is loved by millions of Hong Kong people. The thoughts and prayers of us are with The Queen and her family.
 
+### 5: [2022-09-09 01:46:38+08:00 推文](https://twitter.com/nathanlawkc/status/1567932439292682240)
+
+The Queen's first visit to Hong Kong in May 1975. Years went on, and people still talked about it.<br>May she rest in peace.<br><img style="" src="https://pbs.twimg.com/media/FcJpTEjXkAME9AP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

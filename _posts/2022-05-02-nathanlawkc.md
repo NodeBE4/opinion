@@ -33,9 +33,9 @@ Re 5. The real purpose of Christine Lee’s BCP is now under fierce scrutiny as 
 
 Re 7. I believe I am utilizing publicly available resources to make these allegations in the interest of the public. Alex, as an elected councilor and candidate running for office in Sutton Wylde Green ward, should respond to these questions to reassure the public and the voters.
 
-### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483170465685504)
+### 5: [2022-05-03 21:33:50+08:00 推文](https://twitter.com/nathanlawkc/status/1521483172223062018)
 
-Re 8. Rather, he chose to send me emails that hinted he may take “further steps” if I refuse to take down the “defamatory post.” It makes me worried that he has an intention to press a defamation case. I hope he can clarify on this point.
+Re 9. Still, until now, he refuses to explain his relationship with Christine Lee. His connection with Lee is a matter of public interest. By hiding behind closed doors and refusing to clarify on this matter is disappointing and worrying to the voters and the Hongkongers community.
 
 ### 6: [2022-05-03 21:33:51+08:00 推文](https://twitter.com/nathanlawkc/status/1521483176023105538)
 
