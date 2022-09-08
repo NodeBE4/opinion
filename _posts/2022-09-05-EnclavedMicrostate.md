@@ -23,6 +23,10 @@ title: EnclavedMicrostate在2022-09-05~2022-09-11的言论
 
 So... why not just fix it by transferring chats?
 
+----- __780.3__ -----2022-09-08 18:14:44+08:00:
+
+I suspect that it's because on some level it's a PR pitch to outsiders.
+
 ### 781: [Are there any actual evidences that the Chinese discovered America?](https://old.reddit.com/r/AskHistorians/comments/x7hll5/are_there_any_actual_evidences_that_the_chinese/), submitted on 2022-09-07 02:14:26+08:00.
 
 ----- __781.1__ -----2022-09-07 08:16:08+08:00:
