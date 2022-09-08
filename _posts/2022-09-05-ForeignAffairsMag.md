@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-09-07
+date: 2022-09-09
 from: https://old.reddit.com/r/geopolitics/comments/x7cho7/the_dangerous_decade_a_foreign_policy_for_a_world/
 layout: post
 tags:
@@ -45,4 +45,12 @@ At that point, China may experience a vicious cycle in which Xi reacts to the pe
 
 At the CCP’s 20th National Party Congress this fall, Xi expects that he will be given a third five-year term. And even if the growing irritation among some party elites means that his bid will not go entirely uncontested, he will probably succeed. But that success will bring more turbulence down the road. Emboldened by the unprecedented additional term, Xi will likely tighten his grip even further domestically and raise his ambitions internationally. As Xi’s rule becomes more extreme, the infighting and resentment he has already triggered will only grow stronger. The competition between various factions within the party will get more intense, complicated, and brutal than ever before.  
 At that point, China may experience a vicious cycle in which Xi reacts to the perceived sense of threat by taking ever bolder actions that generate even more pushback. Trapped in an echo chamber and desperately seeking redemption, he may even do something catastrophically ill advised, such as attack Taiwan. Xi may well ruin something China has earned over the course of four decades: a reputation for steady, competent leadership. In fact, he already has.
+
+### 301: [Ukraine Holds the Future: The War Between Democracy and Nihilism](https://old.reddit.com/r/geopolitics/comments/x985nq/ukraine_holds_the_future_the_war_between/), submitted on 2022-09-09 02:30:47+08:00.
+
+----- __301.1__ -----2022-09-09 02:44:35+08:00:
+
+\[SS from the essay by Timothy Snyder, Richard C. Levin Professor of History and Global Affairs at Yale University and the author of Bloodlands and On Tyranny.\]
+
+For 30 years, too many Americans took for granted that democracy was something that someone else did—or rather, that something else did: history by ending, alternatives by disappearing, capitalism by some inexplicable magic. (Russia and China are capitalist, after all.) That era ended when Zelensky emerged one night in February to film himself saying, “The president is here.” If a leader believes that democracy is just a result of larger factors, then he will flee when those larger factors seem to be against him. The issue of responsibility will never arise. But democracy demands “earnest struggle,” as the American abolitionist Frederick Douglass said. Ukrainian resistance to what appeared to be overwhelming force reminded the world that democracy is not about accepting the apparent verdict of history. It is about making history; striving toward human values despite the weight of empire, oligarchy, and propaganda; and, in so doing, revealing previously unseen possibilities.
 
