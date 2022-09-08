@@ -271,3 +271,27 @@ Re @lindahuiyun 人之一生，无法让别人事事如意，但求问心无愧�
 
 拜登的坏消息。<br>根据拉斯穆森报道9月 6日公布的一项民意调查，近三分之二的登记选民（62%）认为拜登知道并可能从其儿子亨特·拜登（Hunter Biden）获得的商业交易中获利，这些交易涉及与敌对政府有关的数据，包括中国。<br>拜登本人一直声称这是对他的抹黑。 <a href="https://conservativebrief.com/nearly-4-66251/?utm_source=CB&amp;utm_medium=DJD" target="_blank" rel="noopener noreferrer">https://conservativebrief.com/nearly-4-66251/?utm_source=CB&amp;utm_medium=DJD</a>
 
+### 65: [2022-09-08 22:13:08+08:00 推文](https://twitter.com/HeQinglian/status/1567878709536751618)
+
+美國內政外交新「成就」──變性<br>美国拜登政府执政两年，内政外交中最有“成就”的就是变性，不仅变性教育深入美国中小学，LGBTQI+人士还成为政府、军队优先提拔的进步典范。最出位的是，美国还将推广这套美国进步价值观当作外交政府的重心。在亚洲国家当中，台湾亦步亦趋跟随。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=153588&amp;fbclid=IwAR3Zi12VHCUwvokDawCleJVmVnve9DXrqC4c_qeT-_gOsmODkNHEgC8qxgk" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=153588&amp;fbclid=IwAR3Zi12VHCUwvokDawCleJVmVnve9DXrqC4c_qeT-_gOsmODkNHEgC8qxgk</a>
+
+### 66: [2022-09-08 22:19:26+08:00 推文](https://twitter.com/HeQinglian/status/1567880292043558913)
+
+Re 上报还有一篇文章，讲的是中国不应该排斥Lady Gaga的进步演出。<br>不知这作者想什么，是不是以为中国接受这些，就会收敛对台侵略野心？中国政府抵制美国宪政价值观确实恶劣，但抵制变性教育，算做对了一件事情。
+
+### 67: [2022-09-08 22:20:30+08:00 推文](https://twitter.com/HeQinglian/status/1567880562756521984)
+
+Re @FranzMendelsso1 弱他人之国，最大的武器就是让人自愿阉割。
+
+### 68: [2022-09-08 22:26:38+08:00 推文](https://twitter.com/HeQinglian/status/1567882107627704321)
+
+Re @zhixiangziyou 这是美国正在发生的一切。文中所引资料，来自政府网站、研究所网站与有信誉的媒体。点开可见。<br>这几天我这里来了好几只“青蛙”，对事情只有三秒钟记忆。不反省自己无知与选择性记忆，还说要我停止造谣。
+
+### 69: [2022-09-08 22:31:00+08:00 推文](https://twitter.com/HeQinglian/status/1567883204366929926)
+
+Re @FightForJiuCai 我认为美国需要乌克兰有一场胜仗，哪怕小胜亦可，有这场胜利，才可体面结束这场战争。<br>问题是，泽连斯基向世界许诺的八月胜利大反攻出师不利——我不是依据俄方宣布的消息，而是依据西方媒体的低调。<br>因此，美国得重新谋划一下。
+
+### 70: [2022-09-08 22:33:41+08:00 推文](https://twitter.com/HeQinglian/status/1567883878769037313)
+
+Re @OfcIQOD2XkWhsKt <br>是这篇。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=153695" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=153695</a>
+
