@@ -637,7 +637,7 @@ Re @Wu_Zhi 👍👍👍
 
 ### 156: [2022-07-09 06:53:30+08:00 推文](https://twitter.com/HeQinglian/status/1545541615216984067)
 
-全是专制极权政府之能，如果要夸耀此能，就别抱怨专制之痛。<br>目前，世界上多的是希望甘蔗两头甜的人：要有专制政权的强权，同时要有民主国家的个人自由与社会福利。<br>第三条道路之说早就画好了大饼。😂
+全是专制极权政府之能，如果要夸耀此能，就别抱怨专制之痛。<br>目前，世界上多的是希望甘蔗两头甜的人：要有专制政权的强权，同时要有民主国家的个人自由与社会福利。<br>第三条道路之说早就画好了大饼。😂<br><br>明实：没法眼佛眼但有真眼: @HeQinglian @FightForJiuCai 能够把民众锁在家里，而让欧美供应断裂;<br>能够在俄乌之战前买进天量的粮食、铜等;<br>能够让欧美摒弃庞大的燃油车产业链发展电动力;<br>能够早早发展光伏风能，让欧美见方抓药;<br>能够让普京主动进攻乌克兰，而让自己立于不败之地;<br>能够让恒大、中国200多家华尔街上市公司针对性爆破……<br>这是一般决策者敢干的？<br>
 
 ### 157: [2022-07-09 09:55:09+08:00 推文](https://twitter.com/HeQinglian/status/1545587327355043841)
 
@@ -697,7 +697,7 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
