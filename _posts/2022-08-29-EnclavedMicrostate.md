@@ -326,3 +326,9 @@ Just to double-confirm, you've got the wrong language; this is Japanese.
 
 From what I'm able to tell, the STAY HOME-era model is essentially just a different outfit on the original debut model, and that second outfit got retconned into being Miko's default outfit, with an updated base model – with the second version of that outfit as the default – added in December 2020. Incidentally, although her 'default' outfit is now the second one that came after her debut one was replaced, her updated model does also include the original debut outfit, but she's only shown it once during New Year's this year.
 
+### 779: [[Hobby Scuffles] Week of September 5, 2022 (Poll)](https://old.reddit.com/r/HobbyDrama/comments/x5p0u1/hobby_scuffles_week_of_september_5_2022_poll/), submitted on 2022-09-04 23:00:12+08:00.
+
+----- __779.1__ -----2022-09-08 14:02:23+08:00:
+
+I've said it before and I'll say it again; that there are still *new* projects and products being made that are attached to JKR utterly astounds me.
+
