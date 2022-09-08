@@ -103,3 +103,7 @@ Re @yifanxxx 🤝
 
 Re @baojianella @xchen156 小平老师提出了一个好问题。
 
+### 23: [2022-09-08 15:12:02+08:00 推文](https://twitter.com/realcaixia/status/1567772733152399362)
+
+拿走一大半GDP是为了造福人民？凌驾于民生之上的三大分配原则 - YouTube <a href="https://www.youtube.com/shorts/cGOL7UE8NMs" target="_blank" rel="noopener noreferrer">https://www.youtube.com/shorts/cGOL7UE8NMs</a>
+
