@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
 
-这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-08 03:24:15+08:00 推文](https://twitter.com/realcaixia/status/1468300339531194368)
 
@@ -41,7 +41,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
-很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style="" src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-09 01:39:11+08:00 推文](https://twitter.com/realcaixia/status/1468636286114320390)
 
@@ -97,7 +97,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 21: [2021-12-11 01:33:14+08:00 推文](https://twitter.com/realcaixia/status/1469359564613165058)
 
-完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style="" src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
+完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
