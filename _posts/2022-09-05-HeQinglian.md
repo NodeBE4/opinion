@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-09
+date: 2022-09-10
 from: https://twitter.com/HeQinglian/status/1566521499724513280
 layout: post
 tags:
@@ -342,4 +342,8 @@ Re @jbchen2009 美国有啊，贵不贵气，看谁来评说了。<br>奥八夫�
 ### 82: [2022-09-09 04:31:56+08:00 推文](https://twitter.com/HeQinglian/status/1567974035300175872)
 
 Re @lianghuiwang2 因为她已经宣布不参选总统了。不知民主党用了什么法子“劝服”她。
+
+### 83: [2022-09-10 01:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1568289948729737216)
+
+蓝州都如此。没事不要你提供疫苗证，但关键时刻却要求，比如手术当天，让你提供疫苗证，否则进不了手术室。<br><br>Frau-H: 加州州长表示， 加州人需要出示疫苗 接种证明和最近的Covid 阴性测试才 能恢复供电。<br>👇<br><br><img style="" src="https://pbs.twimg.com/media/FcKdfmVXwAgUmoe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2020-10-19~2020-10-25'
 
 ### 4: [2020-10-22 23:11:02+08:00 推文](https://twitter.com/realcaixia/status/1319295203048525824)
 
-任志強重判，許章潤軟禁，聲援中國良心的耿瀟男為何被捕？習近平的政治上的明白人終極目的是什麼？十二月黨人的女人的故事（江峰漫談20201021第2... <a href="https://youtu.be/3omRhBSYqFg" target="_blank" rel="noopener noreferrer">https://youtu.be/3omRhBSYqFg</a>
+任志強重判，許章潤軟禁，聲援中國良心的耿瀟男為何被捕？習近平的政治上的明白人終極目的是什麼？十二月黨人的女人的故事（江峰漫談20201021第2... <a href="https://youtu.be/3omRhBSYqFg" target="_blank" rel="noopener noreferrer">https://youtu.be/3omRhBSYqFg</a>
 
 ### 5: [2020-10-23 09:23:04+08:00 推文](https://twitter.com/realcaixia/status/1319449226548568065)
 
