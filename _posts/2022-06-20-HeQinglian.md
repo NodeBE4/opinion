@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -137,7 +137,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 31: [2022-06-22 00:59:50+08:00 推文](https://twitter.com/HeQinglian/status/1539292020371599360)
 
-关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br><br>陶瑞 TaoRay: 马斯克18岁的儿子刚刚成年，进行了变性，最近向法院提交文件，要求更改名字、姓氏以及性别，并在文件中声称要彻底断绝和生父的一切连系，不相往来。<br><br>哎，家家有本难念的经，首富也不例外。马斯克曾经发推称他支持变性人，但是各种Pronouns是噩梦。<br>
+关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。
 
 ### 32: [2022-06-22 01:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1539294342761914368)
 
@@ -145,7 +145,7 @@ Re @realTaoRay 马斯克既然发推支持变性人，为了言行一致，支�
 
 ### 33: [2022-06-22 01:16:43+08:00 推文](https://twitter.com/HeQinglian/status/1539296267167272963)
 
-美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力 <a href="https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report" target="_blank" rel="noopener noreferrer">https://www.axios.com/2022/06/10/transgender-teenagers-young-adults-ucla-report</a>
+美国加州大学洛杉矶分校（UCLA）最新研究报告：在美国13岁以上的160万变性人中，青少年和年轻人约占43%，他们的年龄分布在13至24岁之间，反映跨性别现象在青少年和年轻人之间相当普遍。<br><br>中国三年大饥荒时期人口约6亿，3000万占总人口5%。<br>美国变性人约占总人口0.5%，还须努力<br><br>He Qinglian: 关于美国2021年以来通过教育系统轰轰烈烈推行的变性运动（主要是动员青少年变性），与当年毛泽东跑步进入共产主义的大跃进，思想都是马克思主义的“人定胜天”（战胜自然），前者导致后来饿死三千万人；后者批量生产会达到多少尚不知晓。<br>都是戕害人类。<br> <a href="https://twitter.com/realTaoRay/status/1539266023509008385" target="_blank" rel="noopener noreferrer">https://twitter.com/realTaoRay/status/1539266023509008385</a>
 
 ### 34: [2022-06-22 03:14:41+08:00 推文](https://twitter.com/HeQinglian/status/1539325952647483392)
 

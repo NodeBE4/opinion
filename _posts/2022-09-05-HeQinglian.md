@@ -343,7 +343,63 @@ Re @jbchen2009 美国有啊，贵不贵气，看谁来评说了。<br>奥八夫�
 
 Re @lianghuiwang2 因为她已经宣布不参选总统了。不知民主党用了什么法子“劝服”她。
 
-### 83: [2022-09-10 01:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1568289948729737216)
+### 83: [2022-09-09 22:56:57+08:00 推文](https://twitter.com/SSK2024/status/1568252121518063616)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>他们巧立名目用钱收买大学生的选票！<br><br>他们明目张胆地花钱请高中生、年轻人帮忙拜票，但用“校园接管”运动来收购大学生的选票这一招更加厉害！<br><br>因为我们面临的对手除了没有良知和底线外，作弊造假的阴谋诡计、充足的竞选金钱、对政府福利感恩戴德的无脑支持者……比比皆是！ <a href="https://mp.weixin.qq.com/s/GynoiHlgBU-vsBaejHMgsA" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/GynoiHlgBU-vsBaejHMgsA</a><br><img style="" src="https://pbs.twimg.com/media/FcOM_c1XwAQX2Re?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcOM_czWIAINd8f?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcOM_cwWAAIlAKt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcOM_cxWIAA66nt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 84: [2022-09-10 01:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1568289948729737216)
 
 蓝州都如此。没事不要你提供疫苗证，但关键时刻却要求，比如手术当天，让你提供疫苗证，否则进不了手术室。<br><br>Frau-H: 加州州长表示， 加州人需要出示疫苗 接种证明和最近的Covid 阴性测试才 能恢复供电。<br>👇<br><br><img style="" src="https://pbs.twimg.com/media/FcKdfmVXwAgUmoe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 85: [2022-09-10 04:21:33+08:00 推文](https://twitter.com/HeQinglian/status/1568333811628261379)
+
+Re @Stella__Guo 这是本人经历，上周五刚经过的。我那天做个小手术，进手术室前一小时，才发现有此要求。只是因为我接种过辉瑞，随身没带，但可以上州政府网站搜到相关资料，扫描后算做提供了证明。<br>因此，是你自己不在美国，或者在美国没经历。<br>我得请你说声Sorry，为你说的“智商感人”。
+
+### 86: [2022-09-10 04:22:17+08:00 推文](https://twitter.com/HeQinglian/status/1568333997901488129)
+
+Re @zlhlt 已经回答了，因为是本人亲身经历。
+
+### 87: [2022-09-10 04:24:07+08:00 推文](https://twitter.com/HeQinglian/status/1568334456091467783)
+
+Re @franktianxie 这位的好话向来夸大其辞，别当真。
+
+### 88: [2022-09-10 04:27:47+08:00 推文](https://twitter.com/HeQinglian/status/1568335379832475648)
+
+我关于蓝州进手术室前或者做一些特殊检查前需要疫苗证，前者是本人上周五亲身经历；后者是一邻居。但有我的Fo说我智商感人。<br>这条新闻我也不信，但上网查了后，发现是真的。这位网友引的内容，就是这条新闻当地居民要求改正的内容。<br>自己住在香港或大陆，却怀疑我们的亲身经历<br><br>Lucs: 令人不安：民主党控制的伊利诺伊州已经签署了“安全 T 法案”，该法案将允许从 2023 年 1 月 1 日开始犯下以下罪行的罪犯立即获释<br> • 绑架<br> • 二级谋杀<br> • 吸毒杀人<br> • 纵火、炮击、武装抢劫等……<br><br><video src="https://video.twimg.com/ext_tw_video/1568048426696470530/pu/vid/560x640/BthIYC1EfH6tJQmQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1568048426696470530/pu/img/hKm3rVlLgI66Yhbq.jpg"></video>
+
+### 89: [2022-09-10 04:31:34+08:00 推文](https://twitter.com/HeQinglian/status/1568336332631441408)
+
+Re @Wu_Zhi 我只知道一条，这场发起于八月下旬的最大的胜利大反攻（泽说要将俄军打回本土），到现在，西方主流媒体没跟进报道乌方胜利。
+
+### 90: [2022-09-10 04:38:19+08:00 推文](https://twitter.com/HeQinglian/status/1568338032654426112)
+
+Re @zhixiangziyou 我真想把这个蠢货 Stella Kuo<br>@Stella__Guo 痛骂一顿。<br>我上周五做手术前预检过两次，医生处未见过这提示。周五去看到手术中心有告示，当时有点傻眼，因为没带疫苗卡。护士让我注册一个GoogPlay，折腾了半天，才上成州政府网找到资料，护士扫描后才算完成这手续。<br>美国的疯，现在除亲身经历，难以感受
+
+### 91: [2022-09-10 04:39:04+08:00 推文](https://twitter.com/HeQinglian/status/1568338219728527360)
+
+Re @zhixiangziyou 刚才那蠢货应该在香港。港台蠢货不少。
+
+### 92: [2022-09-10 04:45:53+08:00 推文](https://twitter.com/HeQinglian/status/1568339934859395073)
+
+致某些Fo我的推号：<br>佩洛希率民主党众议院通过“废除Mother……等亲属称呼”的法案你们不信，我提供了链接；<br>美国变性青少年数据，我提供了加大洛杉矶分校的调查数据，你们不信；<br>我亲身经历，本州进手术室前要提供疫苗证，你们不信。说我们几位将美国看成疯人院。<br>但事实就如此。请这类人自动离开我园子
+
+### 93: [2022-09-10 04:51:41+08:00 推文](https://twitter.com/HeQinglian/status/1568341396523720704)
+
+Re @Lucs24659702 从不与这些蠢货争论。但我必须说清楚真相。<br>我对一些听起来惊耸的消息，我会去查证。比如你刚才这条，听起来实在过于惊耸，我输入几个关键词，包括视频中的人名，总算找到了。
+
+### 94: [2022-09-10 04:56:38+08:00 推文](https://twitter.com/HeQinglian/status/1568342640143536128)
+
+Re @wechat2525138 @simonliu43 这段话，你能提供具体出处吗？看起来，对美国潜藏的一些可能性，还是有智者预感到了。
+
+### 95: [2022-09-10 05:05:06+08:00 推文](https://twitter.com/HeQinglian/status/1568344771608854532)
+
+Re @Wu_Zhi @VOAChinese 查了一下，以下数据网上得来：<br>开战以来，乌约20%领土2603个定居点完全在俄控制下,前线长度超1000公里。据称，俄已占领乌克兰98444平方公里土地。<br>如今夺回1000多平方公里，任重道远，还得继续努力。
+
+### 96: [2022-09-10 05:18:35+08:00 推文](https://twitter.com/HeQinglian/status/1568348165392285697)
+
+Re @zhixiangziyou @Stella__Guo 判断太简单，现在一大票用繁体字冒充港台人士的水货。
+
+### 97: [2022-09-10 05:20:32+08:00 推文](https://twitter.com/HeQinglian/status/1568348655991803904)
+
+Re @enjoygracelife 不知道在哪个州。我这州，表面看起来没规定。但要亲身经历才知道。
 
