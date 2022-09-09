@@ -217,7 +217,7 @@ Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国
 
 ### 51: [2022-09-07 19:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1567481782794059776)
 
-RT He Qinglian<br>Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
+Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
 
 ### 52: [2022-09-07 19:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1567482280540618758)
 
@@ -402,4 +402,8 @@ Re @zhixiangziyou @Stella__Guo 判断太简单，现在一大票用繁体字冒�
 ### 97: [2022-09-10 05:20:32+08:00 推文](https://twitter.com/HeQinglian/status/1568348655991803904)
 
 Re @enjoygracelife 不知道在哪个州。我这州，表面看起来没规定。但要亲身经历才知道。
+
+### 98: [2022-09-10 05:53:10+08:00 推文](https://twitter.com/HeQinglian/status/1568356868585672704)
+
+Re @larouhaochi 问题在于：废除Mother、Father、Brother、sister等带有性别的称号，是他们民主党中央的法案呀，国会网站还有链接。
 
