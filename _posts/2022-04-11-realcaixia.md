@@ -41,7 +41,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
@@ -81,7 +81,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 17: [2022-04-12 21:31:38+08:00 推文](https://twitter.com/realcaixia/status/1513872470633234442)
 
-这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。<br><br>鲁  难: 当父母的很多都经历过小孩子夜晚发烧的艰难时刻。<br>不过我们有机会给孩子吃退烧药，或者到医院急诊来应对。<br>凌晨两点半，上海被封禁的这位妈妈挨家挨户敲门乞求退烧药，是她孩子的唯一希望了。<br>生活远比剧本更扣人心弦。<br>这深夜里的一幕，这撕心裂肺的哀求声，不应该被历史忘记。<br><br><video src="https://video.twimg.com/ext_tw_video/1513716452951568384/pu/vid/1186x720/h4l41LC8pExUIFGi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513716452951568384/pu/img/QcgvAOkI6RTyxKTr.jpg"></video>
+这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
@@ -129,7 +129,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 29: [2022-04-15 00:16:03+08:00 推文](https://twitter.com/realcaixia/status/1514638623097823240)
 
-上海市志愿者反抗强权意志！为这样的志愿者叫好！
+上海市志愿者反抗强权意志！为这样的志愿者叫好！<br><br>鲁  难: 上海市徐汇区的志愿者拒绝上门贴封条：难道法律还没有你们的领导大吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1514075238883020813/pu/vid/720x1006/cy7J2U_-8NkvLIJ3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514075238883020813/pu/img/-PHWGVwKEUbf8spp.jpg"></video>
 
 ### 30: [2022-04-15 02:13:41+08:00 推文](https://twitter.com/realcaixia/status/1514668227716005889)
 
@@ -197,7 +197,7 @@ Re @lianchaohan 我昨夜看到这个链接，当时链接数116，现在链接�
 
 ### 46: [2022-04-16 21:18:09+08:00 推文](https://twitter.com/realcaixia/status/1515318630229196800)
 
-我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+我昨夜看到这个链接，当时链接数116，现在链接数已达121。<br>昨夜细看了l链接的逝者信息，获得的几个印象：1，有不少是老人；2，有急病无处医疗救治而死；3,有因为医院封闭了，病人正常的医治无法持续而使病情快速恶化而死；4，有绝望而结束生命；5，有基层干部和志愿者等劳累过度而死。哀悼所有逝者💔🙏
 
 ### 47: [2022-04-16 21:33:12+08:00 推文](https://twitter.com/realcaixia/status/1515322418616799240)
 
