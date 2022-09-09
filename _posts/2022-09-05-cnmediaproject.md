@@ -115,3 +115,7 @@ Interesting note in the Cai Xia FP piece on "competitive" <br> candidate selecti
 
 RT Henry Gao<br>Xi: The great rejuvenation of the Chinese nation must be achieved with Chinese-style modernization.<br><br>What, then, is Chinese-style modernization?<br><img style="" src="https://pbs.twimg.com/media/FcLPGaIaQAEsuLO?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 26: [2022-09-09 20:34:54+08:00 推文](https://twitter.com/niubi/status/1568216375411212288)
+
+RT Bill Bishop<br>The Information - Sequoia Capital’s China Arm Employed Daughter of Politburo Member <a href="https://www.theinformation.com/articles/sequoia-capitals-china-arm-employed-daughter-of-politburo-member?rc=b3aj0i" target="_blank" rel="noopener noreferrer">https://www.theinformation.com/articles/sequoia-capitals-china-arm-employed-daughter-of-politburo-member?rc=b3aj0i</a>
+
