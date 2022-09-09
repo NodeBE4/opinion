@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-08
+date: 2022-09-09
 from: https://twitter.com/cnmediaproject/status/1566687391481757696
 layout: post
 tags:
@@ -110,4 +110,8 @@ Learning about "red genes" and the greatness of the Chinese Communist Party? Jus
 ### 24: [2022-09-08 13:13:15+08:00 推文](https://twitter.com/cnmediaproject/status/1567742844244488193)
 
 Interesting note in the Cai Xia FP piece on "competitive" <br> candidate selection. This is called "competitive election," or 差额选举. July notice on 20th NC delegates said: 会议通过差额选举，产生了293名中央和国家机关出席党的二十大代表. Q: How many candidates were there in 2022?<br><img style="" src="https://pbs.twimg.com/media/FcG9Y27acAAHXJx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-09-09 09:07:20+08:00 推文](https://twitter.com/henrysgao/status/1568043341908168704)
+
+RT Henry Gao<br>Xi: The great rejuvenation of the Chinese nation must be achieved with Chinese-style modernization.<br><br>What, then, is Chinese-style modernization?<br><img style="" src="https://pbs.twimg.com/media/FcLPGaIaQAEsuLO?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
