@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-09
+date: 2022-09-10
 from: https://twitter.com/realcaixia/status/1566554648009482243
 layout: post
 tags:
@@ -110,4 +110,12 @@ Re @baojianella @xchen156 小平老师提出了一个好问题。
 ### 24: [2022-09-09 03:19:52+08:00 推文](https://twitter.com/realcaixia/status/1567955898588332037)
 
 Re @jenniferatntd Thank you so much.
+
+### 25: [2022-09-10 02:35:19+08:00 推文](https://twitter.com/realcaixia/status/1568307076337737735)
+
+有趣！安徒生童话《皇帝的新装》原来是大陆幼儿园小朋友可以阅读的童话故事，现在在大陆某地教育部门审查幼儿园教材中被踢出幼儿园，选刊了这个童话故事的幼儿读物被下架！<br>教育孩子要诚实的故事被下架，而灌输仇恨的语言、故事、表演被作为政治正确在大陆幼儿园铺天盖地！<br>这让人想到任志强、张展……<br><br>章立凡 Zhang Lifan: G点？安徒生又没说你……<br><br>转【怎么了？《皇帝的新装》被踢出幼儿园】<br><br><img style="" src="https://pbs.twimg.com/media/FcFhYxXXwAEWQWZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcFhZiXXwAA93dx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-09-10 03:10:46+08:00 推文](https://twitter.com/realcaixia/status/1568315997685260289)
+
+这才是温暖善良有安全感的文明社会。<br><br>時事金掃描 - 金然: 小男孩走丟了。路人讓孩子騎在肩上，在場陌生人一起幫孩子喊父親的名字。樂隊也即興編了歌曲，大家一起跟著節奏幫孩子喊 “愛德華多，來找胡安克魯茲” ，不久孩子的父親出現了... 💕<br><br>這才是溫暖善良的人類社會！<br><br><video src="https://video.twimg.com/amplify_video/1567766925983481858/vid/606x1080/GylpZpb-Wq1tvvwi.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1567766925983481858/img/YBSMTXt3QFSLxlHL.jpg"></video>
 
