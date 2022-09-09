@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-01-18 19:52:39+08:00 推文](https://twitter.com/cnmediaproject/status/1483406980836642818)
 
-Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
+Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-18 23:50:12+08:00 推文](https://twitter.com/CHRDnet/status/1483466762351906816)
 
@@ -53,23 +53,23 @@ In December, CMP wrote about the Human Rights Institute of the SW Univ. of Polit
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
-Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
-Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style="" src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
@@ -85,7 +85,7 @@ Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Right
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
-RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent & smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
+RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent &amp; smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
 
 ### 19: [2022-01-20 15:42:11+08:00 推文](https://twitter.com/vshih2/status/1484068724445310976)
 
@@ -97,7 +97,7 @@ RT Alan Wong<br>Chinese contact tracing accidentally revealed a migrant worker
 
 ### 21: [2022-01-20 17:24:22+08:00 推文](https://twitter.com/SPCmonitor/status/1484094440939655170)
 
-RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
+RT Susan Finder<br>Dean Jiang Huiling on Chinese Judicial&nbsp;Reform <a href="http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/" target="_blank" rel="noopener noreferrer">http://supremepeoplescourtmonitor.com/2022/01/20/dean-jiang-huiling-on-chinese-judicial-reform/</a>
 
 ### 22: [2022-01-20 22:45:15+08:00 推文](https://twitter.com/eileenguo/status/1484175192934871046)
 
