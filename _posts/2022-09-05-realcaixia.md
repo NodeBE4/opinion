@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-10
+date: 2022-09-11
 from: https://twitter.com/realcaixia/status/1566554648009482243
 layout: post
 tags:
@@ -206,4 +206,16 @@ Re @xiaopei2014 👍
 ### 48: [2022-09-10 21:52:17+08:00 推文](https://twitter.com/realcaixia/status/1568598236427952128)
 
 Re @ximichen151719 祝福你全家中秋节平安喜乐。🌹
+
+### 49: [2022-09-11 00:28:57+08:00 推文](https://twitter.com/realcaixia/status/1568637662130569216)
+
+这是我最近的文章，与网友分享：习近平的弱点 | Foreign Affairs <a href="https://www.foreignaffairs.com/china/xijinpingderuodian" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xijinpingderuodian</a>
+
+### 50: [2022-09-11 00:33:36+08:00 推文](https://twitter.com/realcaixia/status/1568638833570488327)
+
+Re @yqb716610 有这么无耻的人！
+
+### 51: [2022-09-11 00:35:28+08:00 推文](https://twitter.com/realcaixia/status/1568639303277756424)
+
+Re @yqb716610 这个鲁国平有多无耻才干得出替党国造谣的话来！
 
