@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -45,7 +45,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 8: [2022-05-23 21:42:51+08:00 推文](https://twitter.com/realcaixia/status/1528733199098122242)
 
-荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。
+荣剑老师的推文，文字平和，思想深刻，眼光锐利，意味深长。<br><br>荣剑: 这大概就是文明的分野，没有经过清朝的人，也不必说遗憾，清和后清有什么区别吗？区别或许就是帖子中所说的疯狂的删帖取代了文字狱——当然，有人肯定会说，现在因言获罪还少吗？面对这样的质疑，我无言以答。<br><br><img style="" src="https://pbs.twimg.com/media/FTXKTPGVIAEGNN3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
@@ -93,7 +93,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 20: [2022-05-24 21:52:40+08:00 推文](https://twitter.com/realcaixia/status/1529098058063089666)
 
-香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。
+香港媒体当时记录的真实场面。中国一切热爱自由、争取自由的人，当永远记住6.4，并传告子孙后代。<br><br>🥜食花生🍻飲啤酒🤥吹吹水🤣: @realcaixia HK #TVB recorded the footage of the #8964 massacre that year, and the sound of gunfire was endless.<br><br>Many young people in China have never heard of June 4th. <br>Take a good look at it, keep it well, spread it widely, and remember it forever.<br>@un<br> #wuforget64<br><br><video src="https://video.twimg.com/ext_tw_video/1527617002948284417/pu/vid/932x720/X-xmm6o3emBHQB7f.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1527617002948284417/pu/img/MT4j0ivG0Wp8T9I0.jpg"></video>
 
 ### 21: [2022-05-25 12:00:44+08:00 推文](https://twitter.com/realcaixia/status/1529311480008560640)
 
@@ -161,7 +161,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 37: [2022-05-27 21:26:25+08:00 推文](https://twitter.com/realcaixia/status/1530178613085192192)
 
-请听学生喊的口号。<br><br>帥哥: @realcaixia 給<br><br><video src="https://video.twimg.com/ext_tw_video/1530177981246672897/pu/vid/960x528/K5bnn03vwg2Pb1Wh.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1530177981246672897/pu/img/-QFYc18VqmxNE6gP.jpg"></video>
+请听学生喊的口号。
 
 ### 38: [2022-05-27 21:39:12+08:00 推文](https://twitter.com/realcaixia/status/1530181830594502659)
 
