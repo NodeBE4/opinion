@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-09
+date: 2022-09-10
 from: https://old.reddit.com/r/VirtualYoutubers/comments/x6ksfg/lilikoi_laboratory_lapses_weekly_discussion/
 layout: post
 tags:
@@ -172,4 +172,11 @@ We understand this can be discouraging, but we would also encourage you to consu
 Sorry, but we have had to remove your comment as [we do not allow answers that consist primarily of links or block quotations from sources](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations). This subreddit is intended as a space [not merely to get an answer in and of itself](https://www.reddit.com/r/AskHistorians/comments/f7fb8o/introducing_the_rules_roundtables_20_the/) as with other history subs, but [for users with deep knowledge and understanding of it to share that in their responses](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer). While [relevant sources  are a key building block for such an answer](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources), they need to be adequately contextualized and [we need to see that you have your own independent knowledge of the topic](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
 
 If you believe you are able to use this source as part of an in-depth and comprehensive answer, we would encourage you to consider revising to do so, and you can find further guidance on what is expected of an answer here by consulting [this Rules Roundtable which discusses how we evaluate responses](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/).
+
+### 790: [Question about the Manchu population before 1644](https://old.reddit.com/r/ChineseHistory/comments/xah0a8/question_about_the_manchu_population_before_1644/), submitted on 2022-09-10 13:26:14+08:00.
+
+----- __790.1__ -----2022-09-10 20:08:10+08:00:
+
+It's an interesting question. I'd suggest a read of the relevant scholarship, of which thankfully one of the *most* relevant items is available easily online: [Elliott, Campbell, and Lee's 'A Demographic estimate of the population of the
+Qing eight banners' (2016)](https://dash.harvard.edu/bitstream/handle/1/34391735/10421826.pdf?sequence=2&isAllowed=y). The Manchu population was indeed quite small, but we ought to place this in the context of the late Ming, when large parts of southern Manchuria, the best suited for agriculture with available technology, were effectively monopolised by Han colonists. We also ought to consider that while the 'Jurchens' at the foundation of the Jin were large in number, these large tribal names often obscure quite complicated confederations; the Manchus were not totally exclusionary in terms of who was defined as 'Manchu', but several Jurchen tribes, particularly to the north, were excluded. So 400,000 'core' Manchus is not an utterly absurd suggestion, and it fits the data we have.
 
