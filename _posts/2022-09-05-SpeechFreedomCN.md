@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-09-09
+date: 2022-09-10
 from: https://twitter.com/SpeechFreedomCN/status/1566721717309001732
 layout: post
 tags:
@@ -30,4 +30,12 @@ Guangxi man Yan, a former auxiliary police officer, administratively detained fo
 ### 4: [2022-09-09 17:54:58+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1568176126828101632)
 
 Guangdong man He, who tweeted and retweeted over 300 pieces of "false info on Twitter that slandered the Communist Party of China, damaged national image and harmed national interest", arrested in Oct 2019 and prosecuted in Apr the next year. Court ruling remains unknown.<br><img style="" src="https://pbs.twimg.com/media/FcNHZebXEAELc2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-09-10 17:07:28+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1568526559987867648)
+
+Re 后续更新：该男子全名杨家豪，那篇《致习锦平》文章使其被判刑一年三个月，且二审维持原判。据其自述，该文章是一篇公开信，内容为指控基层干部违法犯罪办理冤假错案。<br><img style="" src="https://pbs.twimg.com/media/FcSFr0LXkAEHHgk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcSF0jAWAAMy4uo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcSGBDkXkAElfiE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcSGF5yXkAAc7us?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-09-10 17:11:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1568527599286079488)
+
+Re It has been just learnt that the full name of the person concerned in the previous tweet is Yang Jiahao. He was sentenced to 15 months in prison for the article and his appeal was rejected. According to him, the article was to accuse some local officials of illegal activities.<br><img style="" src="https://pbs.twimg.com/media/FcSG-JPXgAAvIv_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcSG_nnX0AIAazN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcSHBDtXoAEEFlJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcSHCm5XgAEBk3m?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
