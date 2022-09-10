@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+因知了诗而生祸，真是前无古人。
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
@@ -125,7 +125,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 28: [2022-07-22 05:48:02+08:00 推文](https://twitter.com/realcaixia/status/1550236182981869575)
 
-清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！
+清华大学校园出现传单，令校方十分紧张，他们正在四处打搜捕传单张贴者。<br>这令我想起从小看过的中共宣传的“革命”电影。电影里机智勇敢张贴传单者都是共产党员，出动军警全城大搜捕的是反动独裁政府。<br>现在“革命”电影情景再现于清华大学。真是莫大的历史讽刺！！！<br><br>高瑜: 清華最近張貼出《從法西斯手中保衛生活》的傳單，校方緊張搜捕張貼者。傳單開宗明義：公開的法西斯主義被消滅近80年，今天的法西斯主義，以“習慣”的形式侵蝕我們的生活和我們的道德。我們變得冷漠而殘忍，以他人的痛苦為樂，我們為仇恨言論所吸引，自以為能在叢林競爭中獲得優勝。張貼者號召：<br><br><img style="" src="https://pbs.twimg.com/media/FYKb7LJagAEWTIr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-07-22 05:54:47+08:00 推文](https://twitter.com/realcaixia/status/1550237880592859138)
 
