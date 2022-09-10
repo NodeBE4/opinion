@@ -145,7 +145,7 @@ Re @tlzhlyq 我和毛新宇同班同学。党校招考博士研究生很严格�
 
 ### 33: [2022-05-09 20:46:36+08:00 推文](https://twitter.com/realcaixia/status/1523645612666761216)
 
-中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产
+中共党和政府是世界上最大的撒谎者。央视天天撒谎。<br>很多年前，觉醒了的中国人说人日报和央视新华社都撒谎，只有天气预报是真的。<br>自从美国驻华大使馆顶住中国压力发布空气污染指数，越来越多中国人重视PM2.5后，中共气象台被迫播报空气质量，但很快人们知道原来天气预报也造假。中共信誉已经彻底破产<br><br>美国驻华使领馆 US MissionCN: 五角大楼新闻秘书@PentagonPresSec：2022年4月20日，美国国防部长@SecDef与中华人民共和国国防部长通话。中华人民共和国国防部发布的会后汇报错误地宣称“the United States adheres to the one-China principle”（美国坚持一个中国原则<br> <a href="http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm" target="_blank" rel="noopener noreferrer">http://eng.mod.gov.cn/news/2022-04/20/content_4909446.htm</a> <a href="https://twitter.com/DeptofDefense/status/1522322906319044608" target="_blank" rel="noopener noreferrer">https://twitter.com/DeptofDefense/status/1522322906319044608</a>
 
 ### 34: [2022-05-09 21:07:43+08:00 推文](https://twitter.com/realcaixia/status/1523650927336382465)
 
@@ -229,7 +229,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 54: [2022-05-15 22:24:54+08:00 推文](https://twitter.com/realcaixia/status/1525844675994652672)
 
-这是大陆一位很有造诣的政治学学者的文章。特别推荐。
+这是大陆一位很有造诣的政治学学者的文章。特别推荐。<br><br>《议报》: 包刚升: 贫富冲突与现代政治<br> <a href="https://yibaochina.com/?p=246460" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246460</a>
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
@@ -241,7 +241,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
-荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。<br><br>liqun chen（陈立群）: 北京人应该都知道杨佳吧！虽然事情发生在上海。<br>杨佳说：你不给我一个说法，我就给你一个说法！<br> <a href="https://twitter.com/Jupiterf5/status/1525734088409092096" target="_blank" rel="noopener noreferrer">https://twitter.com/Jupiterf5/status/1525734088409092096</a>
+荒谬的消杀做法，是政府违法犯法，是打着防疫名义的犯罪行为。杨佳至今活在人们心里，是因为杨佳拼死反抗了极权政权。大陆当局正在逼迫越来越多的人成为杨佳。
 
 ### 58: [2022-05-15 23:00:59+08:00 推文](https://twitter.com/realcaixia/status/1525853756176277504)
 

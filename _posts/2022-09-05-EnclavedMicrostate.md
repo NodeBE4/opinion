@@ -188,6 +188,16 @@ Qing eight banners' (2016)](https://dash.harvard.edu/bitstream/handle/1/34391735
 
 To give a somewhat potted summary of the key takeaways, especially from the latter answer, Manchukuo and Mengkukuo were not conceived of as Japanese puppet regimes in China, but rather as breakaway regions under effective Japanese suzerainty. Japan's official foreign policy line on Manchukuo – insofar as there ever was one – ultimately sought to assert that it was legitimate as an independent state *from* China, as opposed to a Japanese foothold *in* China, derived at first from claims to it being a Manchu nation-state and latterly from claims to it being a state for a multinational 'Manchurian' identity. Neither was particularly convincing on the international stage, mind you, but it is worth suggesting that the former, at least, was not entirely spun from whole cloth – that most Manchus resided outside Manchuria and that Manchuria was mostly non-Manchu doesn't by default mean that the Manchus might not have been entitled to statehood had they desired it, and arguably Japan's foreign policy served to poison the well for that particular hope, had it ever been entertained seriously.
 
+----- __791.2__ -----2022-09-11 01:50:36+08:00:
+
+Just to preface, my familiarity is not really with interwar Japanese politics. But, to be frank 'annexation' would not really have entailed many benefits, while coming at substantially greater risk. The civilian government had not supported the invasion of Manchuria in the first place, so the military running it as a protectorate made more sense from their perspective. Globally, an overt Japanese annexation of Manchuria would have been seen as a far greater act of aggression than a claimed liberation of the Manchus. The notion that Japan could simply annex Manchuria without one or more of the USSR, USA, and UK at least raising serious objections is laughable.
+
+We also ought to consider the line between 'annexation' and the establishment of a puppet state to be far less rigid than something like Hearts of Iron IV's depiction. Direct Japanese military rule would not have inherently given Japan more long-term control over Manchurian resources than a nominally-but-not-actually-particularly autonomous collaboration government.
+
+----- __791.3__ -----2022-09-11 01:59:38+08:00:
+
+It was, but at the very least the theoretical possibility existed that it would be recognised. Annexing the territory off the bat would give Japan none of the plausible deniability that it might claim via the puppet regime. Moreover, the invasion was (retrospectively) justified as a liberation of the Manchus; this could not be reconciled with overt annexation on the international stage. And again, it is very much unclear that annexation somehow would have been responded to with merely the mild disapproval that the Manchukuo project received, as opposed to more overt sanctions or even hostility.
+
 ### 792: [Why did the British 95th Rifles wear green during the Napoleonic Wars?](https://old.reddit.com/r/AskHistorians/comments/xamlrb/why_did_the_british_95th_rifles_wear_green_during/), submitted on 2022-09-10 19:03:34+08:00.
 
 ----- __792.1__ -----2022-09-10 23:00:23+08:00:

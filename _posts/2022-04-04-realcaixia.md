@@ -157,7 +157,7 @@ RT @chenqiushi404: 央视永远不会报道这个中国弗洛伊德
 
 ### 36: [2022-04-05 09:23:59+08:00 推文](https://twitter.com/realcaixia/status/1511152639093977092)
 
-海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。
+海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。<br><br>杨佩昌: 对这么勇敢的孩子，不能让他的前途耽误了。我也可以帮他去德国留学，完成他的学业。<br>不用学德语，英语就行，希望他看到后和我私信联系。<br>多说一句，我以前负责德国国家奖学金项目，能够帮到他。<br><br><img style="" src="https://pbs.twimg.com/media/FPfR2qxWYAMkyWU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2022-04-05 09:24:36+08:00 推文](https://twitter.com/realcaixia/status/1511152795361161224)
 

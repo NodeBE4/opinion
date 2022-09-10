@@ -332,3 +332,7 @@ From what I'm able to tell, the STAY HOME-era model is essentially just a differ
 
 I've said it before and I'll say it again; that there are still *new* projects and products being made that are attached to JKR utterly astounds me.
 
+----- __779.2__ -----2022-09-11 02:13:41+08:00:
+
+In some cool VTubery news, Hololive has sprung on us the news that Hololive Indonesia's 1st Generation are all in Japan right now and will be doing 3D debuts in the next week, so that's definitely hype!
+
