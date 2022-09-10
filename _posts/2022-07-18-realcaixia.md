@@ -81,7 +81,7 @@ Re @wongkim728 你有什么根据说某人刻意造谣呢？这需要拿出事�
 
 ### 17: [2022-07-21 00:25:41+08:00 推文](https://twitter.com/realcaixia/status/1549792672059121672)
 
-在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。<br><br>反对独裁专治政权: 中共国的法盲警察<br><br><video src="https://video.twimg.com/ext_tw_video/1549115735837798400/pu/vid/636x360/SADqJ1LyhnRFx2da.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549115735837798400/pu/img/id03pZkPaj2iEbsE.jpg"></video>
+在中国无执法权的保安以为自己有权力执法，他们执行上司指令时同样凶恶，若出了事，他们的上司像扔破抹布一样的把他们拿出去顶替责任。这些人不懂法，还自以为自己背靠权力大树，可悲。
 
 ### 18: [2022-07-21 00:44:19+08:00 推文](https://twitter.com/realcaixia/status/1549797359642710016)
 

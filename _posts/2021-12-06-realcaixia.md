@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 4: [2021-12-08 00:36:57+08:00 推文](https://twitter.com/realcaixia/status/1468258238642728968)
 
-这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style="" src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
+这是政府违法，无执法权的商业性公司居然行使政府法律职权，这个政府本身就是违法，必须追究当地政府的法律责任。中共国地面上有多少这样的政府公然雇佣所谓的公司行使法律职权，这类公司是如何拿到这类权力的，需要彻查。政府公然官匪一体！<br><br>鲁  难: <br><br><img style src="https://pbs.twimg.com/media/FF-yd43XMAc1FOd?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-08 03:24:15+08:00 推文](https://twitter.com/realcaixia/status/1468300339531194368)
 
@@ -101,7 +101,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
-我转的老浦推文居然被封了，老浦的推文既没有宣扬暴力，也没有色情暴力，又没有欺诈蒙骗，更不涉及中国政府机密泄漏，只是说了他自己的一些事情，何来被封的事由？难不成是中共幽灵在推上作祟？！<br><img style src="https://pbs.twimg.com/media/FGSaQCXWQAAr4DY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGSaQScXsDEOJWH?format=jpg&name=orig" referrerpolicy="no-referrer">
+我转的老浦推文居然被封了，老浦的推文既没有宣扬暴力，也没有色情暴力，又没有欺诈蒙骗，更不涉及中国政府机密泄漏，只是说了他自己的一些事情，何来被封的事由？难不成是中共幽灵在推上作祟？！<br><img style="" src="https://pbs.twimg.com/media/FGSaQCXWQAAr4DY?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGSaQScXsDEOJWH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-11 09:06:52+08:00 推文](https://twitter.com/realcaixia/status/1469473725158502404)
 
