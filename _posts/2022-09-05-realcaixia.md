@@ -227,3 +227,19 @@ Re @JBitee 美国是穷人中常见肥胖，富人比较少见有像图片上那
 
 Re @ChoProtest 祝你中秋🥮节快乐！人没有过不去的坎，心理强大，外在的任何东西压不垮人。
 
+### 54: [2022-09-11 03:22:45+08:00 推文](https://twitter.com/realcaixia/status/1568681401096245249)
+
+墙里朋友的作品—广寒宫也得查核酸！黑色幽默。未知嫦娥是否绿码？或许牛郎泪撒银河，皆因嫦娥黄码。<br><img style="" src="https://pbs.twimg.com/media/FcUTa0lWYAAGSbh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 55: [2022-09-11 03:29:59+08:00 推文](https://twitter.com/realcaixia/status/1568683222925725698)
+
+Re @Tough6923<br><img style="" src="https://pbs.twimg.com/media/FcUVE7rXwAMizl2?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 56: [2022-09-11 04:10:40+08:00 推文](https://twitter.com/realcaixia/status/1568693460340703233)
+
+Re 没错，是吴刚。是我的记忆一时出错了，感谢推友纠正🌹。我还曾经有过记忆一时出错，又没有再检查一下，就把老舍的《骆驼祥子》写成鲁迅的《骆驼祥子》呢。人非圣贤，孰能无错。有错就改，在什么范围内出错，就在什么范围内纠正。<br>死不认错并且强权威逼数亿人服从的，前有三年大饥荒；现有三年核酸清零
+
+### 57: [2022-09-11 04:36:09+08:00 推文](https://twitter.com/realcaixia/status/1568699872773312512)
+
+Re @HopefullyUyghur 请您细看文章，也请你上YouTube看看VOA和自由亚洲电台对我的访谈，还有我2020年5月的发言音频。我想你就不会这样做判断了。
+
