@@ -143,3 +143,15 @@ Re @Rolf72860956 @lianchaohan 1，新疆首先实行，不是广东，“始作�
 
 Re @Rolf72860956 @lianchaohan 说到底，中共太黑，体制外确实难以搞清楚中共内的分工与运转。而有了民怨自然是把帐记在中共在当地官最大的人头上。这个可以理解。所以，我说你公然造谣也是语言有过分了，我向你表示歉意，因为推特留言没法改了。
 
+### 33: [2022-09-10 11:21:16+08:00 推文](https://twitter.com/realcaixia/status/1568439436572082176)
+
+Re @Rolf72860956 @lianchaohan 🤝🌹
+
+### 34: [2022-09-10 11:43:44+08:00 推文](https://twitter.com/realcaixia/status/1568445090942619649)
+
+中共干部过节拿着礼品所谓给民众“送温暖”，还拍照为证，这大多用来记录在工作台帐中，说明他们确实“干工作”了。这张照片里农民骨瘦如柴，官员肥头凸肚。中共党控制的政府榨干农民肥了官员。<br><img style="" src="https://pbs.twimg.com/media/FcQ8fsoXwAIVpRg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcQ8fssXEAAndxM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-09-10 11:56:58+08:00 推文](https://twitter.com/realcaixia/status/1568448419303137281)
+
+Re @smartscmp 你是盗用胡德平姓名。
+
