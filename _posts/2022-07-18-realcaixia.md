@@ -137,7 +137,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYObfD5XgAMmgmH?format=jpg
 
 ### 31: [2022-07-22 23:11:57+08:00 推文](https://twitter.com/realcaixia/status/1550498892197896192)
 
-沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？
+沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？<br><br>高伐林: 中国网信办《互联网用户账号管理规定》自8月1日起生效，互联网用户注册须填写真实职业，将揭露IP地址；过去网民用错别字、谐音或相近文字、数字和符号打擦边球传布“敏感”信息，规避审查，现在都遭明文禁止；严格管控数据跨国流通，对最重要学术平台“知网”启动网络安全审查。<br> <a href="https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html</a>
 
 ### 32: [2022-07-23 02:53:08+08:00 推文](https://twitter.com/realcaixia/status/1550554556538490883)
 
