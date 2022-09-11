@@ -217,7 +217,7 @@ Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国
 
 ### 51: [2022-09-07 19:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1567481782794059776)
 
-RT He Qinglian<br>Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
+Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
 
 ### 52: [2022-09-07 19:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1567482280540618758)
 
@@ -474,4 +474,40 @@ Re @hx_maggie 你那里的鸟儿多吗？
 ### 115: [2022-09-11 09:06:35+08:00 推文](https://twitter.com/HeQinglian/status/1568767929210261505)
 
 Re @Jeremyyin1 是。也因此，捷克说匈牙利那一票让欧盟没法做决议。
+
+### 116: [2022-09-11 22:47:30+08:00 推文](https://twitter.com/HeQinglian/status/1568974521876598793)
+
+Re @eGUAbe2V7j26GHw @RealBeiMing 真可能是你讲的这样。
+
+### 117: [2022-09-11 22:54:09+08:00 推文](https://twitter.com/HeQinglian/status/1568976194791505922)
+
+Re @DrAbnormal 地主也罢，农场主也罢，人家要经营管理，要投入资本，这就是劳动-资本相结合。<br>福利族穷，为什么不去工作，做个自食其力的人？
+
+### 118: [2022-09-11 23:01:32+08:00 推文](https://twitter.com/HeQinglian/status/1568978052998217730)
+
+今年4月28日，美国国务院发布了有史以来的第一份公开的美国政府报告，展示美国为在全球推动LGBTQI+的人权所作的工作。并称：“我们敦促所有政府与我们一起采取行动，支持LGBTQI+人权捍卫者不懈和崇高的工作。” <br><br>这就是拜登政府捍卫的“民主”。<br><br>纽约时报中文网: #一周热门 拜登内政外交议程核心：捍卫民主<br> <a href="https://nyti.ms/3TNzyd7" target="_blank" rel="noopener noreferrer">https://nyti.ms/3TNzyd7</a>
+
+### 119: [2022-09-11 23:07:01+08:00 推文](https://twitter.com/HeQinglian/status/1568979433373011970)
+
+Re @Wu_Zhi @KELMAND1 @Alexjandro990 本月应该有结果了。10月就进入中期选举了，拜登政府需要胜利拉抬人气，你没见纽约时报开始造势，说拜登外交政策的核心是捍卫民主。我将美国国务院今年4月28日发布的要求世界各国配合美国推广LGBTQI+的政府工作报告链接发给纽时推特了——那就是拜登政府捍卫的“民主”。
+
+### 120: [2022-09-11 23:13:55+08:00 推文](https://twitter.com/HeQinglian/status/1568981170297126916)
+
+Re @hzkoala 静待结果。<br>我只知道，这是一次组织了很久，乌克兰投入全部家底，北约（主要是美英军队）加入并全力支持的大反攻，拜登太需要这场胜利，而且必须在10月中旬中期选举投票开始以前有确定性的胜利结果。<br>俄罗斯也知道这仗必须赢。
+
+### 121: [2022-09-11 23:19:52+08:00 推文](https://twitter.com/HeQinglian/status/1568982666036523008)
+
+Re @lzhn96836555 有这种肤色的护士，那天检查我疫苗证的护士就是黑人女子。但态度很专业。<br>患者会选手术执刀医生，医生的信息在网上是公开的，从业年资、信誉，是何族裔一看就知。我动的是白内障手术，这种专业资格门槛高，这位50多岁的医生已经动过3000多例。
+
+### 122: [2022-09-11 23:22:48+08:00 推文](https://twitter.com/HeQinglian/status/1568983404435197952)
+
+Re @lawyer_sui 你这样与儿子交流，对他的成长很有好处。你还要注意他的朋友，千万不要有太左的人。
+
+### 123: [2022-09-11 23:24:42+08:00 推文](https://twitter.com/HeQinglian/status/1568983882707476482)
+
+Re @dinglili7 反对马克龙的人左中右皆有，但每到关键时刻，选民就被一些与马克龙合作的政党领袖卖了。
+
+### 124: [2022-09-11 23:37:18+08:00 推文](https://twitter.com/HeQinglian/status/1568987053022478337)
+
+Re @Greatorentalman 一场战争中，双方互有胜败是常事。我建议你看看军事形势图，就是此刻的。
 
