@@ -33,7 +33,7 @@ Re 任先生认为习不在乎中国经济，不在乎十多亿人的生计活�
 
 ### 5: [2022-07-04 18:22:52+08:00 推文](https://twitter.com/realcaixia/status/1543903160061857792)
 
-这种只抓贪官不废除出贪官的制度的做法，大陆民众早就叫他们是“守着粪坑打苍蝇”。这种做法即是流氓政治。<br><br>Jam: 在露天茅坑，别炫耀抓到多少只苍蝇。解决问题的最好办法是填掉茅坑，改成抽水马桶。<br><br><img style="" src="https://pbs.twimg.com/media/FWt3qfmWYAEDR4a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这种只抓贪官不废除出贪官的制度的做法，大陆民众早就叫他们是“守着粪坑打苍蝇”。这种做法即是流氓政治。
 
 ### 6: [2022-07-04 21:07:21+08:00 推文](https://twitter.com/realcaixia/status/1543944554302275588)
 
