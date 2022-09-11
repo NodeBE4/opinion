@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
+Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -773,7 +773,7 @@ Re @jeki50806373 仇俄可以理解。但天天指责中共撒谎的那群人热
 
 ### 190: [2022-04-08 22:12:01+08:00 推文](https://twitter.com/HeQinglian/status/1512433084335013902)
 
-农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。
+农业大国的好消息。<br>左派一定要记住自家老祖宗、全球主义的中坚萨米尔·阿明的中心-边缘论：受压迫的是资源国与农业国，掠夺者是工业国（即老牌资本主义国家）<br>现在是受压迫者要翻身<br>不过，阿明实在没想到几个不好归类的国家：美、加、澳，它们既是资本主义掠夺者，又是资源农业兼具。<br>赶紧修改理论吧。<br><br>RFI 華語 - 法國國際廣播電台: 世界糧農組織指全球食品價格創歷史新高<br><br><img style="" src="https://pbs.twimg.com/media/FP066qPVEAIwYtI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8JuC.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8JuC.t</a>
 
 ### 191: [2022-04-08 22:16:37+08:00 推文](https://twitter.com/HeQinglian/status/1512434241950343171)
 
@@ -1205,7 +1205,7 @@ Re @Wu_Zhi 自己相信就好，不是好多人都说美乌共享信息战非常
 
 ### 298: [2022-04-10 21:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1513154388877062150)
 
-RT He Qinglian<br>Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
+Re @telte99 @Colosseo77 因为我比你看得远。<br>第一层次：俄罗斯侵略乌克兰——你属于这个层次，大多数，70%；<br>第二层次：两国的历史恩怨，乌克兰本身的问题——25%；<br>第三层次：全球化失败后的大重置，拜登治下的美国是理想模式。<br>因此，你离我这远点，你还差得太远。就是左派思维，不同意见就是投共。
 
 ### 299: [2022-04-10 22:01:33+08:00 推文](https://twitter.com/HeQinglian/status/1513155223539306496)
 

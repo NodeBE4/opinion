@@ -193,23 +193,23 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 45: [2022-05-11 21:21:45+08:00 推文](https://twitter.com/realcaixia/status/1524379234466250761)
 
-這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！
+這位推友說得好！這是清零防疫帶來巨大人禍災難的本質！<br><br>躲猫猫3.0: 新冠目前比艾滋和癌症更让民众恐惧，恐惧的不是医学上的危害，而是政治上的恐惧和社会性的死亡，说到底，新冠现在是一种严重的政治病和人身迫害症。<br><br><video src="https://video.twimg.com/ext_tw_video/1524015266509639680/pu/vid/720x960/TdVj1QB1zDjghph1.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1524015266509639680/pu/img/ddOjckRe3OBKVC-d.jpg"></video>
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
-李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。<br><br>韩连潮: 【陈日君被抓】中共恶警李家超无端抓捕一个90岁的老人向习近平献媚讨好，必将遭世人唾骂和诅咒。<br><br><img style="" src="https://pbs.twimg.com/media/FSfLkrjUUAI3IsK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
-王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。<br><br>《议报》: 王维洛: 毛泽东的消灭血吸虫病和习近平的防疫清零<br> <a href="https://yibaochina.com/?p=246444" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246444</a>
+王维洛先生把毛消灭血吸虫病与习的防疫清零做了全面比较，让人大开眼界，又令人极为沉重，从中可以看到防疫清零其实是再现毛的做法，并且是一整套运作机制的重复。 中共一再遮蔽历史，以至于人们只以为当下陷入困境与绝境，实际是60年前历史重演。习近平复辟毛路，陷中国人再次在历史的泥潭里挣扎。
 
 ### 48: [2022-05-12 23:48:07+08:00 推文](https://twitter.com/realcaixia/status/1524778456667627527)
 
-跟推传发一夜庐诗作。<br><br>ZHANGDONG: 疫情新三别（之二）<br>小兒别<br><br><img style="" src="https://pbs.twimg.com/media/FSRTha1X0AU8QJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRThosXoAIrT6H?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTh6IXMAAnddt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FSRTiIdXwAAJzkl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+跟推传发一夜庐诗作。
 
 ### 49: [2022-05-12 23:48:39+08:00 推文](https://twitter.com/realcaixia/status/1524778589404774400)
 
-跟推传发。
+跟推传发。<br><br>ZHANGDONG: 承蒙一夜廬先生特许，本推连载其新作《疫情新三吏三别》，至此六首诗作全部推出。先生常以古诗词形式针砭时弊，深得读者共鸣，在国内网络广为流传。<br>
 
 ### 50: [2022-05-13 22:18:10+08:00 推文](https://twitter.com/realcaixia/status/1525118207941484544)
 
