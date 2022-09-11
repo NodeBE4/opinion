@@ -327,3 +327,15 @@ Re @BillSuns 也祝您阖家团圆中秋快乐🎑！🌹
 
 Re @XiaoQiangWu1 也祝您阖家团圆中秋快乐🎑！🌹
 
+### 79: [2022-09-11 21:53:27+08:00 推文](https://twitter.com/realcaixia/status/1568960918238756866)
+
+人为制造灾难，摆出场面救灾，明明路宽车进无障碍，却偏要数百人接龙传菜，这不仅是宣传造假，荒唐可笑，而且鲜明地暴露出中共党典型的农业文文明思维特点：人海战术手工操作。肉身进入高科技信息技术时代，脑子里依旧是前现代农业文明的思维。<br><br>iPaul🇨🇦🇺🇦: 制造困难，感动自己。全世界的笑话。<br><br><video src="https://video.twimg.com/ext_tw_video/1568372549611823105/pu/vid/1280x720/YGgKUCnlXbmvhsuW.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1568372549611823105/pu/img/GAGWs96I6LEFTvcy.jpg"></video>
+
+### 80: [2022-09-11 23:36:23+08:00 推文](https://twitter.com/realcaixia/status/1568986823090753538)
+
+中共9月9日召开了又一次政治局会议，新闻报道中说，会议研究了修改党章问题。我在评习近平为了连任流氓修宪的文章里谈到：有可能习近平会修改党章，再设党主席位子。现将中共党章明文规定废除终身制的条文和有关干部职务任期制暂行规定的有关内容，以及我的评论分析贴出如下：<br><img style="" src="https://pbs.twimg.com/media/FcYpMtHXgAAHlYl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 81: [2022-09-11 23:37:31+08:00 推文](https://twitter.com/realcaixia/status/1568987105803608065)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FcYpdImWYAAZakf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

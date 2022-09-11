@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-04-11~2022-04-17'
 
 ### 1: [2022-04-11 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1513198753209065473)
 
-当局是大规模传播病毒感染的制造者。<br><br>鲁  难: 按照广州测核酸的这个模式来推测，距离封城应该不远了。<br>测核酸就说明知道有潜在的病毒携带者。<br>然后把人们聚在一起测核酸，创造一个集体感染、让疾病集中爆发的环境条件，这是抗疫还是在传播疫情？<br><br><video src="https://video.twimg.com/ext_tw_video/1513170686134697985/pu/vid/720x1146/FHPTK1I1OIEPxWAO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513170686134697985/pu/img/yjgXNGA6Ixu7xf1E.jpg"></video>
+当局是大规模传播病毒感染的制造者。
 
 ### 2: [2022-04-11 01:03:19+08:00 推文](https://twitter.com/realcaixia/status/1513200970234224641)
 
@@ -25,7 +25,7 @@ Re @Jam79922967 @lianchaohan 这类长冷兵器不是城管混混儿能有的，
 
 ### 3: [2022-04-11 01:13:39+08:00 推文](https://twitter.com/realcaixia/status/1513203569540882442)
 
-这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！
+这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！<br><br>Jam: 今日上海，我为上海哭泣。上帝啊，你一定也看到了，为什么你无动于衷呢？该出手了，是时候了。<br><br><video src="https://video.twimg.com/ext_tw_video/1513180381436157959/pu/vid/720x1280/5qe_KowCgMbPf5uy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513180381436157959/pu/img/4zfVb1Ljm9SQGGnk.jpg"></video>
 
 ### 4: [2022-04-11 01:25:56+08:00 推文](https://twitter.com/realcaixia/status/1513206661049114626)
 
@@ -41,7 +41,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
@@ -81,7 +81,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 17: [2022-04-12 21:31:38+08:00 推文](https://twitter.com/realcaixia/status/1513872470633234442)
 
-这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。<br><br>鲁  难: 当父母的很多都经历过小孩子夜晚发烧的艰难时刻。<br>不过我们有机会给孩子吃退烧药，或者到医院急诊来应对。<br>凌晨两点半，上海被封禁的这位妈妈挨家挨户敲门乞求退烧药，是她孩子的唯一希望了。<br>生活远比剧本更扣人心弦。<br>这深夜里的一幕，这撕心裂肺的哀求声，不应该被历史忘记。<br><br><video src="https://video.twimg.com/ext_tw_video/1513716452951568384/pu/vid/1186x720/h4l41LC8pExUIFGi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513716452951568384/pu/img/QcgvAOkI6RTyxKTr.jpg"></video>
+这种揪人心肺的半夜乞求声实在令人心碎。所有的妈妈都经历过孩子发高烧的时候，所有的妈妈都能切身感受这位妈妈带泪的乞求。<br>21世纪的国际大都会上海啊！缺医少药救命难的事已经不是孤例了！这种害人命要人命的清零，这种支撑和保护害人命要人命的极权体制正在制造一起又一起的人间惨剧。
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
@@ -149,7 +149,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：
+强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
@@ -241,7 +241,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 57: [2022-04-17 19:19:02+08:00 推文](https://twitter.com/realcaixia/status/1515651043052433409)
 
-建嵘兄干的事跨度太大，他一人活了别人几辈子，能量大到令上面恐惧。从写访民报告到课题研究到写小说“我的父亲是流氓”到黑白山水画人物肖像画；从开北京东书房到开云南大理书院讲学；从卖画到卖农家杂货，从定局北京宋庄到云游四方，国安对他人盯人也10多年了，建嵘兄不妨再写部小说“我把警察当兄弟”。<br><br>章立凡 Zhang Lifan: #转【于建嵘：盯这么紧，有必要吗？】<br><br><img style="" src="https://pbs.twimg.com/media/FQdu8Y8aQAY5T33?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+建嵘兄干的事跨度太大，他一人活了别人几辈子，能量大到令上面恐惧。从写访民报告到课题研究到写小说“我的父亲是流氓”到黑白山水画人物肖像画；从开北京东书房到开云南大理书院讲学；从卖画到卖农家杂货，从定局北京宋庄到云游四方，国安对他人盯人也10多年了，建嵘兄不妨再写部小说“我把警察当兄弟”。
 
 ### 58: [2022-04-17 20:20:44+08:00 推文](https://twitter.com/realcaixia/status/1515666570264993794)
 
@@ -249,7 +249,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
