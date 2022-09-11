@@ -53,11 +53,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 10: [2022-06-28 21:23:21+08:00 推文](https://twitter.com/realcaixia/status/1541774252550098946)
 
-这是我最近完成的一篇文章，比较长，有兴趣的朋友请耐心读完。我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。习近平2018修宪坑害了中共党，同时坑害了10多亿国人。
+这是我最近完成的一篇文章，比较长，有兴趣的朋友请耐心读完。我把习近平是如何诡诈修宪的过程做了分析，从中国宪法和立法法角度；从中共党自己的党章规定和中共党的制度规定，揭露习是如何违宪违法、违反中共党章和党内制度规定的。习近平2018修宪坑害了中共党，同时坑害了10多亿国人。<br><br>《议报》: 蔡霞 ：2018年春他打开了什么样的潘多拉魔盒？——习近平诡诈而狡蛮的修宪及其影响<br> <a href="https://yibaochina.com/?p=247040" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247040</a>
 
 ### 11: [2022-06-28 23:39:00+08:00 推文](https://twitter.com/realcaixia/status/1541808389797322753)
 
-张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。
+张思之大律师告别仪式。大律师是我特别尊敬的前辈，看到这场面很伤感。第一张图片里有我的闺蜜和我很尊敬的老浦。<br><br>浦志强: 我做不到啊，惭愧啊！连家属在内，只让二十人进兰厅，再不能多了；厅里不许停留，不让拍照——经交涉，始许一人专司拍摄；殡仪馆服务人员，着淡蓝色罩袍，站姿极其飒爽。<br><br><img style="" src="https://pbs.twimg.com/media/FWT5wURUEAENUT_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUSUsAAnjj2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUTUYAAQD9t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWT5wUQUsAAUfEs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410" target="_blank" rel="noopener noreferrer">https://twitter.com/zt9i7ye015ljzg0/status/1541592241692561410</a>
 
 ### 12: [2022-06-29 03:20:19+08:00 推文](https://twitter.com/realcaixia/status/1541864087583440896)
 
@@ -93,7 +93,7 @@ Re @drkimharry 看来我们见过？
 
 ### 20: [2022-06-29 21:10:33+08:00 推文](https://twitter.com/realcaixia/status/1542133419542454272)
 
-非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。
+非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。<br><br>Sayori: @realcaixia 蔡霞老师的这篇文章确实很长，已经截屏不知可否帮助到各位，谢谢👒<br><br><video src="https://video.twimg.com/ext_tw_video/1542048648753979392/pu/vid/592x1280/RIxcHwjF1UfISao6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542048648753979392/pu/img/dQ56qV-uzAWFXwXB.jpg"></video>
 
 ### 21: [2022-06-29 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1542168726618898432)
 
@@ -105,7 +105,7 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 23: [2022-06-30 08:21:41+08:00 推文](https://twitter.com/realcaixia/status/1542302314706378754)
 
-看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。<br><br>唐和尚: 20220629唐师曾：北京房山长阳镇（转发） <br>#北京核酸<br><br><video src="https://video.twimg.com/ext_tw_video/1542011217304223750/pu/vid/406x720/lKm8bTsVjK7NMwUn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542011217304223750/pu/img/yrtsdlUb29N3lVnH.jpg"></video> <a href="https://youtu.be/-bvR2S9uIY8" target="_blank" rel="noopener noreferrer">https://youtu.be/-bvR2S9uIY8</a>
+看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。
 
 ### 24: [2022-06-30 08:39:03+08:00 推文](https://twitter.com/realcaixia/status/1542306687071174657)
 
@@ -169,7 +169,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。
+看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 

@@ -197,7 +197,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 46: [2022-05-12 00:52:51+08:00 推文](https://twitter.com/realcaixia/status/1524432357956145152)
 
-李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。
+李家超在镇压反送中运动中交了投名状，现在是向习近平表忠心，表绝对忠诚。极权制度从来是用最恶的人激发人性恶，无底线地干坏事。<br><br>韩连潮: 【陈日君被抓】中共恶警李家超无端抓捕一个90岁的老人向习近平献媚讨好，必将遭世人唾骂和诅咒。<br><br><img style="" src="https://pbs.twimg.com/media/FSfLkrjUUAI3IsK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 47: [2022-05-12 19:39:02+08:00 推文](https://twitter.com/realcaixia/status/1524715771519287296)
 
@@ -233,7 +233,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
+特别推荐。
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 

@@ -315,3 +315,15 @@ Re @tiandihai2 祝你们阖家平安中秋快乐！🌹
 
 Re @mai_qian 祝你们阖家平安中秋快乐！🌹
 
+### 76: [2022-09-11 11:36:38+08:00 推文](https://twitter.com/realcaixia/status/1568805691007139842)
+
+推荐王剑老师的分析。请点击下面这个链接。 <a href="https://youtu.be/Rk9zgn_gKek" target="_blank" rel="noopener noreferrer">https://youtu.be/Rk9zgn_gKek</a><br><img style="" src="https://pbs.twimg.com/media/FcWEdaxXwAA4D4h?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 77: [2022-09-11 11:41:36+08:00 推文](https://twitter.com/realcaixia/status/1568806940385415168)
+
+Re @BillSuns 也祝您阖家团圆中秋快乐🎑！🌹
+
+### 78: [2022-09-11 11:43:28+08:00 推文](https://twitter.com/realcaixia/status/1568807412198432768)
+
+Re @XiaoQiangWu1 也祝您阖家团圆中秋快乐🎑！🌹
+
