@@ -339,3 +339,7 @@ Re @XiaoQiangWu1 也祝您阖家团圆中秋快乐🎑！🌹
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FcYpdImWYAAZakf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 82: [2022-09-11 23:59:34+08:00 推文](https://twitter.com/realcaixia/status/1568992658084732928)
+
+Re 这是中共十九大通过的最新党章。关于废除终身制的党章第三十八条，是从1982年中共党就写进了党章，至今30年历经中共党七届全国代表大会七次修改党章，第三十八条始终坚持没有变动；始终不再设“党主席”这个职位。毛泽东主席个人凌驾于全党之上，给中共党与中国人带来巨大人祸劫难和民族悲剧，记忆犹新！
+
