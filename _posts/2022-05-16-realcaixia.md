@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 4: [2022-05-17 06:24:50+08:00 推文](https://twitter.com/realcaixia/status/1526327844862930945)
 
-特别推荐。强力推荐。欢迎所有朋友都来下载。<br><br>韩连潮: 【翻墙APP】#议报 在 @GreatFireChina 的帮助下完善了翻墙APP。下载安装后不仅可以阅读 #议报 内容，而且可以遨游自由网络。下载链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FSzcoJzXwAAY9uh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a>
+特别推荐。强力推荐。欢迎所有朋友都来下载。
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
@@ -81,7 +81,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
