@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-10
+date: 2022-09-11
 from: https://old.reddit.com/r/VirtualYoutubers/comments/x6ksfg/lilikoi_laboratory_lapses_weekly_discussion/
 layout: post
 tags:
@@ -219,4 +219,10 @@ We can also look at precedents from within recent British military practice. Lig
 As for the claim that George III liked the colour green, while there is apparently a common story that George was behind St Patrick coming to be associated with green rather than blue, I can find no evidence that he was personally involved in the selection of the Rifles' uniforms. With regards to officers' proclivities in uniforms, it is worth noting that in general, uniforms were pretty uniform by this stage, and it was largely the *quality of manufacture* and not the basic appearance of a given regiment or battalion's uniforms over which a commanding officer would have influence. Basically only facing colours (that is to say cuffs, collars, and shoulder straps) could vary at the regimental level. In that regard the rather bold green-and-black of the Rifles does reflect a particularly stark departure, but as noted above, there were both European and British precedents for garbing light infantry specialists, and particularly riflemen, in green.
 
 As a further coda, it is interesting that the first campaign of the Rifle Corps would in fact be in Spain, but during the failed Ferrol Expedition in August 1800 rather than the Peninsular War that began in 1808. Now, it is true that dark green is not necessarily the most intuitive colour for a long campaign in Iberia, but the 95th was not necessarily confined to any one theatre long term – and indeed it was only in Spain for a matter of two days in 1800. The Rifles went on to fight in the Spanish Viceroyalty of the Rio Plata in 1806 and went on the Danish expedition of 1807 before heading to Spain, and parts of the newly-raised 3rd Battalion were sent off to North America in 1814 during the closing stages of the War of 1812. While green might not have been the ideal uniform for Iberia, it was presumably deemed a good choice for a force that could theoretically end up anywhere.
+
+### 793: [Green Kronii And Blue Fauna](https://old.reddit.com/r/Hololive/comments/xbcocq/green_kronii_and_blue_fauna/), submitted on 2022-09-11 15:57:57+08:00.
+
+----- __793.1__ -----2022-09-11 19:24:53+08:00:
+
+Shego and not-Suisei.
 
