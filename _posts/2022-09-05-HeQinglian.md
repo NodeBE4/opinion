@@ -217,7 +217,7 @@ Re @maga_kureea 没死，因为不能承认错误；<br>没实行，因为美国
 
 ### 51: [2022-09-07 19:55:54+08:00 推文](https://twitter.com/HeQinglian/status/1567481782794059776)
 
-RT He Qinglian<br>Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
+Re @simonliu43 睁大眼睛看，佩洛西取消Mother：<br>deemed insufficiently “gender-inclusive” from House rules.<br><br>Pelosi may strip all gender references from House of Representatives rules<br><br>回你一句：你不丢人现眼，会活得象人一些。<br>自己滚，利索一点。 <a href="https://www.congress.gov/bill/117th-congress/house-resolution/8/text" target="_blank" rel="noopener noreferrer">https://www.congress.gov/bill/117th-congress/house-resolution/8/text</a> <a href="https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/" target="_blank" rel="noopener noreferrer">https://nypost.com/2021/01/01/house-rules-may-be-stripped-of-all-gender-references/</a>
 
 ### 52: [2022-09-07 19:57:52+08:00 推文](https://twitter.com/HeQinglian/status/1567482280540618758)
 
@@ -458,4 +458,20 @@ Re @lzhn96836555 医院里的肤色，患者没法选择。但是家庭医生是
 ### 111: [2022-09-11 05:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1568710811513675778)
 
 Re @Tianshuihanyan 算了，他好歹是做父亲的，对儿子提出这点要求，是份内之事。
+
+### 112: [2022-09-11 08:21:53+08:00 推文](https://twitter.com/HeQinglian/status/1568756682922024960)
+
+Re @RealBeiMing 东欧几国在欧盟中讲话还有点份量，全因维谢格拉德四国集团同进同退，如果捷克如此，这个集团瓦解，它们在欧盟的位置也会变得非常可怜。<br>想必捷克应该懂这道理。事实上，欧盟成员国没有退出机制，谁也不能开除谁。
+
+### 113: [2022-09-11 08:23:37+08:00 推文](https://twitter.com/HeQinglian/status/1568757115732336646)
+
+Re @tonylaodie1 民主与保守不是对应关系。<br>在中国，向往美国宪政共和。
+
+### 114: [2022-09-11 09:04:03+08:00 推文](https://twitter.com/HeQinglian/status/1568767290606342147)
+
+Re @hx_maggie 你那里的鸟儿多吗？
+
+### 115: [2022-09-11 09:06:35+08:00 推文](https://twitter.com/HeQinglian/status/1568767929210261505)
+
+Re @Jeremyyin1 是。也因此，捷克说匈牙利那一票让欧盟没法做决议。
 

@@ -198,6 +198,10 @@ We also ought to consider the line between 'annexation' and the establishment of
 
 It was, but at the very least the theoretical possibility existed that it would be recognised. Annexing the territory off the bat would give Japan none of the plausible deniability that it might claim via the puppet regime. Moreover, the invasion was (retrospectively) justified as a liberation of the Manchus; this could not be reconciled with overt annexation on the international stage. And again, it is very much unclear that annexation somehow would have been responded to with merely the mild disapproval that the Manchukuo project received, as opposed to more overt sanctions or even hostility.
 
+----- __791.4__ -----2022-09-11 10:33:35+08:00:
+
+No, it's because Japan's ostensible position was that the Republic of China was not inherently entitled to inherit the Inner Asian territories of the Qing Empire. To say this again, Japan's official line was that Manchukuo and Mengkukuo were *breakaway states* and not actually part of China. When Japan invaded in 1937 and began setting up collaborator governments, it therefore was not going to hand over Chinese territory to its 'Manchurian' and 'Mongolian' puppets, but would instead set up equivalents in China itself.
+
 ### 792: [Why did the British 95th Rifles wear green during the Napoleonic Wars?](https://old.reddit.com/r/AskHistorians/comments/xamlrb/why_did_the_british_95th_rifles_wear_green_during/), submitted on 2022-09-10 19:03:34+08:00.
 
 ----- __792.1__ -----2022-09-10 23:00:23+08:00:
