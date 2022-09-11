@@ -33,7 +33,7 @@ Re @Lisa00792327545 @cskun1989 请搜议报网站，议报发布了全文。
 
 ### 5: [2022-05-04 03:27:22+08:00 推文](https://twitter.com/realcaixia/status/1521572140671279105)
 
-别忘了，新华社和央视报道过李文亮等“武汉有8人造谣”。<br><br>Henry Chang: 马某被国安采取刑事强制措施 像假新闻 以震慑民营企业家<br>说它假的理由是：一是杭州国安越俎代庖。煽颠罪应由公安局政保处侦办，而不是国安局。二是采取刑事强制措施语焉不详。公安、国安的强制措施就2种:行政拘留和刑事拘留。行拘15天放人；刑拘须报检察院批捕。<br>这么做意在吓唬民企别高兴得太早了。<br><br><img style="" src="https://pbs.twimg.com/media/FRzlluVVgAAc0U-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+别忘了，新华社和央视报道过李文亮等“武汉有8人造谣”。
 
 ### 6: [2022-05-06 04:14:01+08:00 推文](https://twitter.com/realcaixia/status/1522308656926277634)
 
@@ -81,7 +81,7 @@ Re @Tututula4 @HenryCh34283099 这个问题需要您去问执行者。猜，没�
 
 ### 17: [2022-05-07 08:58:37+08:00 推文](https://twitter.com/realcaixia/status/1522742665699340290)
 
-开心！
+开心！<br><br>荣剑: 网上说张维为清空了他的微博，还以为是谣传，从微博上看了一下，果然如此，看来这回渣国师“被揍”之后，心灵受到的打击远大于其被揍得鼻青脸肿，这叫伤害不大，羞辱不小，于是，恼羞成怒，关了自己的微博。😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FRUOppXUUAAAaaa?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOqN0VkAA78HY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOq0_VkAE0ReB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FRUOrVhVgAAOmgU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-05-08 00:46:48+08:00 推文](https://twitter.com/realcaixia/status/1522981283751555072)
 
