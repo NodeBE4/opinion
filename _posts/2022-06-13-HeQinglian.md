@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。 <a href="https://twitter.com/RFI_Cn/status/1536034120605630465" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1536034120605630465</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -265,7 +265,7 @@ Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏
 
 ### 63: [2022-06-16 22:21:33+08:00 推文](https://twitter.com/RealBeiMing/status/1537440244986892288)
 
-RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>正念先生-东欧视角: 欧洲劝降团到达基辅<br><br><img style="" src="https://pbs.twimg.com/media/FVWz80uWAAAcW71?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVWz85sX0AAnLE0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
@@ -349,7 +349,7 @@ Re @tankand300 那你高看了我。我是异类，你没见过我写这段生�
 
 ### 84: [2022-06-17 21:08:25+08:00 推文](https://twitter.com/HeQinglian/status/1537784230855462913)
 
-这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。<br><br>联合早报 Lianhe Zaobao: 美国国家安全顾问沙利文说，美国总统拜登将发起一项全球基础设施倡议，以对抗中国在全球，特别是印太地区的野心。<br> <a href="https://www.zaobao.com.sg/realtime/world/story20220617-1283915" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/realtime/world/story20220617-1283915</a>
+这主意不错，撒币（傻B)比赛。鼓励一带一路的国家两边通吃，一女二嫁，白天张家吃饭，晚上李家睡眠。<br>美国债务将以一年10多万亿的速度增长，通胀速度将与金元券相比。<br>当年冷战时期，里根用军备竞赛拖垮苏联；今天美中新冷战，拜登用基础设施建设竞赛消耗中国。<br>拜登与美国民主党手段实在是高。
 
 ### 85: [2022-06-17 21:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1537784919358849029)
 
