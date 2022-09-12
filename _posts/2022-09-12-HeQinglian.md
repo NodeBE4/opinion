@@ -175,3 +175,7 @@ Re @mingshi_chen @pandatress1 @KELMAND1 能否请复习普京6月一段讲话？
 
 Re @FranzMendelsso1 @mingshi_chen @pandatress1 @KELMAND1 从前苏联时代开始的大国博弈，苏联一直很有经验。俄罗斯应该继承了这一点。
 
+### 41: [2022-09-12 10:45:12+08:00 推文](https://twitter.com/HeQinglian/status/1569155135707774982)
+
+Re @nanzhang1978 @FranzMendelsso1 只问一条：损失极大的乌军，人员如何补给？美英军队变装加入？<br>听起来，查理三世给NWO带来了好运。
+
