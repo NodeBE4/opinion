@@ -289,11 +289,11 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
-支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。
+支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。<br><br>DW 中文- 德国之声: "中国虽投入巨资，却仍然无法在技术上赶超台湾，这也许恰恰会成为武力攻台的一个理由。中国也许会孤注一掷，将这个芯片基地据为己有。"<br> <a href="https://p.dw.com/p/4CoYc" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CoYc</a>
 
 ### 71: [2022-06-17 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1537601438389571584)
 
@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 

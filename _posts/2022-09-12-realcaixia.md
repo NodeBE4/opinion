@@ -47,3 +47,11 @@ Re @jamesjicma 你是中国人吗？你这样的说话对得起这个民族吗�
 
 Re @dingding9527 那是最后的决战，必须要经过的决战。
 
+### 9: [2022-09-12 20:29:59+08:00 推文](https://twitter.com/realcaixia/status/1569302299914416133)
+
+Re @gary89797772 @Atakk_outsider 理论上修改党章不由总书记个人说了算，而是宪法要全民讨论，修党章要全党讨论，修宪全国人大代表会议通过；同理，修党章要党的全国代表大会通过，中央委员会，政治局，中央常委会无权。习只能搞流氓诡诈修宪修党章。因此，不仅要盯着习在宪法和党章塞进什么、抹掉了什么，而且要紧盯着习怎么修宪修党章
+
+### 10: [2022-09-12 21:14:16+08:00 推文](https://twitter.com/realcaixia/status/1569313445387845633)
+
+中共宣布要修党章，让我们看看习是否故伎重演，玩弄流氓诡诈手段。2018年修宪建议以中共中央名义提出，但经不起党内程序合法性的拷问。可以说程序不合法。请看下面：<br><img style="" src="https://pbs.twimg.com/media/FcdSP24WIAAKnl9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcdSQBmXkAAddz5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcdSQWkXEAMjK9E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcdSQm2XoAAY09O?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

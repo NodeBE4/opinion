@@ -137,7 +137,7 @@ Re 有跟帖说林郑坐的也是雕龙椅。对，全图显示所有参与者�
 
 ### 31: [2021-12-26 00:12:16+08:00 推文](https://twitter.com/realcaixia/status/1474775009465970697)
 
-Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？如果还要睁眼说瞎话，不是装瞎就是蠢坏兼备。<br><img style src="https://pbs.twimg.com/media/FHd0DeRWQA0ASgu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 请看这张全图。参会的人坐的椅子与习近平是一样的吗？如果还要睁眼说瞎话，不是装瞎就是蠢坏兼备。<br><img style="" src="https://pbs.twimg.com/media/FHd0DeRWQA0ASgu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-26 00:19:25+08:00 推文](https://twitter.com/realcaixia/status/1474776807601811459)
 
