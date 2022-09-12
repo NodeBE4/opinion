@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -637,7 +637,7 @@ Re @Wu_Zhi 👍👍👍
 
 ### 156: [2022-07-09 06:53:30+08:00 推文](https://twitter.com/HeQinglian/status/1545541615216984067)
 
-全是专制极权政府之能，如果要夸耀此能，就别抱怨专制之痛。<br>目前，世界上多的是希望甘蔗两头甜的人：要有专制政权的强权，同时要有民主国家的个人自由与社会福利。<br>第三条道路之说早就画好了大饼。😂
+全是专制极权政府之能，如果要夸耀此能，就别抱怨专制之痛。<br>目前，世界上多的是希望甘蔗两头甜的人：要有专制政权的强权，同时要有民主国家的个人自由与社会福利。<br>第三条道路之说早就画好了大饼。😂<br><br>明实：没法眼佛眼但有真眼: @HeQinglian @FightForJiuCai 能够把民众锁在家里，而让欧美供应断裂;<br>能够在俄乌之战前买进天量的粮食、铜等;<br>能够让欧美摒弃庞大的燃油车产业链发展电动力;<br>能够早早发展光伏风能，让欧美见方抓药;<br>能够让普京主动进攻乌克兰，而让自己立于不败之地;<br>能够让恒大、中国200多家华尔街上市公司针对性爆破……<br>这是一般决策者敢干的？<br>
 
 ### 157: [2022-07-09 09:55:09+08:00 推文](https://twitter.com/HeQinglian/status/1545587327355043841)
 
@@ -697,7 +697,7 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
