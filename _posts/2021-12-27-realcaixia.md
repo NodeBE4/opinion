@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 2: [2021-12-29 02:28:43+08:00 推文](https://twitter.com/realcaixia/status/1475896511791865856)
 
-现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style="" src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
+现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 06:06:33+08:00 推文](https://twitter.com/realcaixia/status/1475951330896322564)
 
@@ -133,7 +133,7 @@ Re @dayangelcp @John17Churchill 倒翻篇。
 
 ### 30: [2022-01-02 00:28:18+08:00 推文](https://twitter.com/realcaixia/status/1477315755788091399)
 
-忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
+忘不了武汉，如今又增添一个城市：忘不了西安…<br><br>张海。: 这类图片很刺激我的内心，我总忘不了武汉封城期间电话那头传来的哭泣声，她先生发烧到昏迷，症状就是染上了新冠病毒🦠求遍了所有能求的人，没有床位，也没人管，更出不去。人上午走在了家里，下午很晚才拖走，社区开的死亡证明：猝死……当时的武汉这类悲剧太多太多，她的哭泣声永远留在我的脑海里……<br><br><img style="" src="https://pbs.twimg.com/media/FH6GrzHVkAAhTNW?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-01-02 00:31:37+08:00 推文](https://twitter.com/realcaixia/status/1477316590597255169)
 
