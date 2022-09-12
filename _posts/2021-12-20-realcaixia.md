@@ -93,7 +93,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 20: [2021-12-25 10:51:09+08:00 推文](https://twitter.com/realcaixia/status/1474573401775816710)
 
-感謝謝阳律师。<br><img style="" src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
+感謝謝阳律师。<br><img style src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-25 20:27:29+08:00 推文](https://twitter.com/realcaixia/status/1474718440720150528)
 
@@ -101,7 +101,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 22: [2021-12-25 20:42:00+08:00 推文](https://twitter.com/realcaixia/status/1474722093417877509)
 
-2021年上海圣诞节节日布置。上海与北京显然不同调。<br>还记得1991年春节一过上海皇浦平文章横空出世震动北京嚒？<br><img style src="https://pbs.twimg.com/media/FHdD7NOWYAEj67X?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHdD7YdXoAcWCGw?format=jpg&name=orig" referrerpolicy="no-referrer">
+2021年上海圣诞节节日布置。上海与北京显然不同调。<br>还记得1991年春节一过上海皇浦平文章横空出世震动北京嚒？<br><img style="" src="https://pbs.twimg.com/media/FHdD7NOWYAEj67X?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHdD7YdXoAcWCGw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2021-12-25 21:56:49+08:00 推文](https://twitter.com/realcaixia/status/1474740919501037570)
 
