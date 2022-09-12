@@ -103,3 +103,75 @@ Re @MT78021483 @RFI_TradCn 你离开吧。为什么赖在我这里？<br>我只�
 
 Re @SHINSHI86369552 @MT78021483 @RFI_TradCn 他们确实是精神病。
 
+### 23: [2022-09-12 07:50:34+08:00 推文](https://twitter.com/HeQinglian/status/1569111189849882624)
+
+Re @zhixiangziyou 我这几天 断断续续读了四个报告，资料如下：<br>纽约13 至 17 岁青年的跨性别者为3.0% ，在怀俄明州的比例为 0.6%。并无13岁以下的数据。 <a href="https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Jun-2022.pdf" target="_blank" rel="noopener noreferrer">https://williamsinstitute.law.ucla.edu/wp-content/uploads/Trans-Pop-Update-Jun-2022.pdf</a>
+
+### 24: [2022-09-12 07:55:47+08:00 推文](https://twitter.com/HeQinglian/status/1569112498669817856)
+
+刚看法广文章，说上合组织开会，习普见面时机不好，因为俄罗斯正失败ing，习近平很尴尬。<br>新加坡总理李显龙国庆讲话中谈到中国挺俄，他很清醒：拜登说了这是民主与专制之战，中国政府当然会认为美国下一个就针对他了——这意思是说习不是考虑一时得失，而是考虑长远。<br><br>DW 中文- 德国之声: #栗战书 向普京表示：“两国政治互信、战略协作、务实合作都达到了新高度“。<br> <a href="https://p.dw.com/p/4GgvV" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4GgvV</a>
+
+### 25: [2022-09-12 08:07:19+08:00 推文](https://twitter.com/HeQinglian/status/1569115402118090754)
+
+在6月我就指出，决定开战的难度远低于决定结束战争的难度。战争结束有几种方式：<br>二战模式：一方决定性胜利，另一方战败；<br>一战模式：一方出现内乱，最终战败；<br>越战模式：强势一方认为损失大于收益，承认战败，主动停止战争撤退；<br>两伊战争模式：都打的精疲力尽，两败俱伤，最终议和。<br>三或四。
+
+### 26: [2022-09-12 08:11:10+08:00 推文](https://twitter.com/HeQinglian/status/1569116371501326336)
+
+Re @pangguangchen 川普对军队、情报机构、行政机构的指挥真有如臂使指之能，就不是当年那情况了。
+
+### 27: [2022-09-12 08:17:01+08:00 推文](https://twitter.com/HeQinglian/status/1569117843714895874)
+
+Re @FranzMendelsso1 美俄双方，政治考虑大于军事考虑。严格说，军事是手段，政治才是目的。<br>只要看看政治、经济上的得失，就明白美国主要是为了中期选举拉抬人气（长远目的不在这一役），俄罗斯当然也有长远考虑。
+
+### 28: [2022-09-12 08:26:39+08:00 推文](https://twitter.com/HeQinglian/status/1569120270249598978)
+
+Re @yu_su_chen 建议你看看这篇演讲。日子是9月7日，内容比较实在。 <a href="https://news.ifeng.com/c/8JBgV9DFPm7" target="_blank" rel="noopener noreferrer">https://news.ifeng.com/c/8JBgV9DFPm7</a>
+
+### 29: [2022-09-12 08:29:00+08:00 推文](https://twitter.com/HeQinglian/status/1569120861281554433)
+
+Re @xchen62 @FranzMendelsso1 法国媒体有一家注意到“代价”。<br>不着急，9月底应该有个大致结果了。我是按美国出钱出力务必要在10月上旬有场胜利拉抬选情来倒推的。
+
+### 30: [2022-09-12 08:38:04+08:00 推文](https://twitter.com/HeQinglian/status/1569123141674479616)
+
+Re @laohei789 你谈到这点，我从另一个角度提供一点想法。<br>911针对伊拉克，这国是伊斯兰世界当中比较世俗化的（与极端化相比较）。美国人悼念世贸大厦3000余死难者的悲痛还未过去，奥巴马当政后的穆斯林移民猛增二百余万。伊斯兰世界也在极端化。<br>这个政治大弯如何转过来的背后原因，还不太清楚。<br>历史需要时间沉淀。
+
+### 31: [2022-09-12 08:44:42+08:00 推文](https://twitter.com/HeQinglian/status/1569124811254775809)
+
+Re @yu_su_chen 这位不能来推特了，真是清醒者的损失。有什么重要的，你通知一下。
+
+### 32: [2022-09-12 09:02:44+08:00 推文](https://twitter.com/HeQinglian/status/1569129349739077632)
+
+Re @Jimmy42484631 @Jessie2021626 我已经好多年没去那地了，前几年是路过转机，没出机场。但费城隔两三年总有点事儿得去一趟。<br>我2001年去时，真美好；后来去过，印象差点，但也还没糟糕到遍布流浪汉随地遗污的地步。
+
+### 33: [2022-09-12 09:51:24+08:00 推文](https://twitter.com/HeQinglian/status/1569141598356733952)
+
+Re @TTexan4 @KELMAND1 这一推说明你很可怜，既无战争史知识，也无军事知识，还无政治常识，却头大到以为自己无所不知。<br>一个刚注册的Fo,定是被我拉黑又重新注册跟着我的。<br>滚。
+
+### 34: [2022-09-12 09:52:41+08:00 推文](https://twitter.com/HeQinglian/status/1569141920437239808)
+
+Re @pandatress1 @mingshi_chen @KELMAND1 基辅应该是“能源”接近瘫痪状态吧？
+
+### 35: [2022-09-12 10:00:26+08:00 推文](https://twitter.com/HeQinglian/status/1569143870016864262)
+
+Re @FranzMendelsso1 @nanzhang1978 我看了军事形势图，再考虑到俄军撤退，似乎不是撤回俄罗斯，而是处于可进可退之境的地方，觉得这次有些西方媒体对胜利保持审慎乐观，还考虑到胜利的代价，也是它们几个月来见识方面的长进。
+
+### 36: [2022-09-12 10:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1569144329746227201)
+
+Re @mingshi_chen @pandatress1 @KELMAND1 事情很明显，普京希望政治上有所收获，军事上就算胜利，政治上一败涂地，也是失败。
+
+### 37: [2022-09-12 10:05:09+08:00 推文](https://twitter.com/HeQinglian/status/1569145056904232962)
+
+Re @eGUAbe2V7j26GHw 法国已经非常高兴地发表声明，今年将与德国在能源上好好合作。<br>意思是：我法国核电站多供电，支持你们德国——德国绿能关闭了不少核电站，虽然洗绿了煤炭与核电，但重开还须时日，更何况绿党必须坚持绿能，否则失去立身之本。<br>美国的变性也是富贵病。
+
+### 38: [2022-09-12 10:14:48+08:00 推文](https://twitter.com/HeQinglian/status/1569147485737598980)
+
+Re @jjamesw1 英王室存废问题，是1950年代到1970年代反复冒出的问题。<br>伊莉莎白女王的最大成就是让英国多数人不仅忘记了王室是过时的奢侈品，反而认为这是英国文明的标志。<br>有人预言查理三世将会成为王室制度的终结者，看他这些天的二踢脚，觉得有此可能。主要是心胸太狭窄，又急于事功——他母亲正好相反。
+
+### 39: [2022-09-12 10:17:46+08:00 推文](https://twitter.com/HeQinglian/status/1569148233598869506)
+
+Re @mingshi_chen @pandatress1 @KELMAND1 能否请复习普京6月一段讲话？姜尚荣今天在电报上刚引用过。
+
+### 40: [2022-09-12 10:21:12+08:00 推文](https://twitter.com/HeQinglian/status/1569149097059274753)
+
+Re @FranzMendelsso1 @mingshi_chen @pandatress1 @KELMAND1 从前苏联时代开始的大国博弈，苏联一直很有经验。俄罗斯应该继承了这一点。
+

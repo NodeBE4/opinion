@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-06 01:30:25+08:00 推文](https://twitter.com/realcaixia/status/1467546917089468420)
 
-权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br><br><video src="https://video.twimg.com/ext_tw_video/1466612372982882316/pu/vid/720x760/LT465FCn3TSE3xry.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1466612372982882316/pu/img/tH4fdpriuw65M4OD.jpg"></video>
+权力任性，企业难办，民众受苦。<br><br>天下新闻-精华版: 中山大学教授曝光中国限电真实原因<br> <a href="https://twitter.com/LQ0068/status/1466612591468462082/video/1" target="_blank" rel="noopener noreferrer">https://twitter.com/LQ0068/status/1466612591468462082/video/1</a>
 
 ### 2: [2021-12-07 07:13:05+08:00 推文](https://twitter.com/realcaixia/status/1467995540814237710)
 
@@ -37,7 +37,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 6: [2021-12-08 13:04:38+08:00 推文](https://twitter.com/realcaixia/status/1468446399981395971)
 
-精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
+精彩至极！<br><br>日常現象: 人民日报发微博称一图起底美国民主七大假象，网民评论大翻车。<br><br><img style src="https://pbs.twimg.com/media/FF8I2v-UcAIuKIc?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v9VkAUSFF5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2u_UYAQer9q?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FF8I2v-VQAYOIaN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
