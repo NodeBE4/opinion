@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-12
+date: 2022-09-13
 from: https://twitter.com/HeQinglian/status/1569005344608731144
 layout: post
 tags:
@@ -254,4 +254,56 @@ Re @Wazy1988bW 你去姜尚荣频道看看，可弥补推特上相关信息盲�
 ### 60: [2022-09-12 23:35:29+08:00 推文](https://twitter.com/HeQinglian/status/1569348985068060673)
 
 Re 说是“非正式联盟”，是因为今年中国驻德大使还正式发言澄清：中俄不是盟友。<br>今天查了一下，发现北京至今未正式使用过盟友这词来描绘中俄关系，只说过“合作无上限”。
+
+### 61: [2022-09-13 00:13:21+08:00 推文](https://twitter.com/HeQinglian/status/1569358511468957696)
+
+乔治·毕比George Beebe，白宫顾问，美国昆西研究所大战略主任，美国中情局前俄罗斯分析部主任<br><br>主要观点：在乌克兰和俄罗斯拼耐力，西方肯定力不从心：收紧对俄制裁肯定无效；升级军事行动是场巨大的赌博；在俄国国内推动政治变革肯定是一项长期努力，目前做适得其反。 <a href="https://thehill.com/opinion/national-security/3622828-our-narrowing-options-in-ukraine/" target="_blank" rel="noopener noreferrer">https://thehill.com/opinion/national-security/3622828-our-narrowing-options-in-ukraine/</a>
+
+### 62: [2022-09-13 00:15:49+08:00 推文](https://twitter.com/HeQinglian/status/1569359134222594054)
+
+Re 大家回忆一下，战争之初，西方媒体与主流战略分析认为俄耐力不行，几乎异口同声说打持久战，耗死俄罗斯，让乌克兰成为普京的坟场。<br>美拜登与英相约翰逊都说过战争目标是让普京下台。<br>200天之后，出现了完全相反的分析：耐力上西方不行。
+
+### 63: [2022-09-13 00:19:45+08:00 推文](https://twitter.com/HeQinglian/status/1569360124250054656)
+
+Re @tankand300 你们这类人的习惯是：凡没表态站边，就是支持俄罗斯。<br>我自始至终一个原则：当个旁观者，各方意见者听，了解来龙去脉及对国际局势的影响。用地缘政治来解析这场战争。<br>希望这次你听清楚了。
+
+### 64: [2022-09-13 00:21:20+08:00 推文](https://twitter.com/HeQinglian/status/1569360521392013314)
+
+Re @N92F99 看来，需要你去电视上讲讲，与这位美国的俄罗斯专家打擂台。
+
+### 65: [2022-09-13 01:36:37+08:00 推文](https://twitter.com/HeQinglian/status/1569379467445039105)
+
+Re @JazielChow 这人的身份很正：民主党方面的智囊，而且是前中情局俄罗斯分析室主任。<br>我还想去找找他此前的文章看看，开战之初发的言。
+
+### 66: [2022-09-13 01:38:09+08:00 推文](https://twitter.com/HeQinglian/status/1569379853455228929)
+
+Re @lunanweiyi 这个判断不是我的。我只是转述。<br>你在美国，只要你愿意通胀持续，上涨无上限，而且你这样的人多，那当然可以。<br>但是，我还是建议你看看The Hill那篇白宫顾问文章。我相信，他比你与我更清楚美国现在的耐力。<br>毕竟不是美俄战争，是俄乌战争。
+
+### 67: [2022-09-13 01:40:22+08:00 推文](https://twitter.com/HeQinglian/status/1569380412832595972)
+
+Re @Bforge3 前后不到十年。国际政治，敌友之间关系翻覆，比翻手掌也没困难多少。
+
+### 68: [2022-09-13 01:50:15+08:00 推文](https://twitter.com/HeQinglian/status/1569382897454403584)
+
+Re @xchen62 @FranzMendelsso1 据欧洲有色金属行业协会（Eurometaux）消息，近日，欧洲有色金属行业协会等10余个有色金属行业组织负责人和嘉能可等40余家有色金属生产商CEO联合向欧盟致公开信，称由于电力危机，欧盟50%的铝和锌产能已被迫停产。预计更多厂商将在冬季来临之前濒临倒闭。这些被迫关停的产能，极有可能“一去不复返”。
+
+### 69: [2022-09-13 01:53:31+08:00 推文](https://twitter.com/HeQinglian/status/1569383719701721090)
+
+今天我查资料，发现一件事情，在俄乌战争之前，美国很多重要的俄罗斯专家都反对与俄开战。<br>俄罗斯分析报告，2021 年 12 月 6 日至 13 日<br><br>结合战争开始后的不少专家分析，我发现这场战争在美国少有专家支持。挺奇特的现象。<br><br>He Qinglian: 乔治·毕比George Beebe，白宫顾问，美国昆西研究所大战略主任，美国中情局前俄罗斯分析部主任<br><br>主要观点：在乌克兰和俄罗斯拼耐力，西方肯定力不从心：收紧对俄制裁肯定无效；升级军事行动是场巨大的赌博；在俄国国内推动政治变革肯定是一项长期努力，目前做适得其反。<br> <a href="https://thehill.com/opinion/national-security/3622828-our-narrowing-options-in-ukraine/" target="_blank" rel="noopener noreferrer">https://thehill.com/opinion/national-security/3622828-our-narrowing-options-in-ukraine/</a>
+
+### 70: [2022-09-13 02:01:06+08:00 推文](https://twitter.com/HeQinglian/status/1569385628286042112)
+
+欧洲现状。<br><br>He Qinglian: @xchen62 @FranzMendelsso1 据欧洲有色金属行业协会（Eurometaux）消息，近日，欧洲有色金属行业协会等10余个有色金属行业组织负责人和嘉能可等40余家有色金属生产商CEO联合向欧盟致公开信，称由于电力危机，欧盟50%的铝和锌产能已被迫停产。预计更多厂商将在冬季来临之前濒临倒闭。这些被迫关停的产能，极有可能“一去不复返”。<br>
+
+### 71: [2022-09-13 02:02:55+08:00 推文](https://twitter.com/HeQinglian/status/1569386088174858240)
+
+Re @maga_kureea 俄罗斯不需要让本国人民在被窝里过冬吧？目前天然气白白在燃烧。
+
+### 72: [2022-09-13 02:06:44+08:00 推文](https://twitter.com/HeQinglian/status/1569387045637734400)
+
+Re @franktianxie 文章内比较直白，对鹰派的指摘尖锐。<br>我刚查了一下他过去的文章，发现他虽然身为白宫顾问，但从未赞成对俄开战。
+
+### 73: [2022-09-13 02:12:58+08:00 推文](https://twitter.com/HeQinglian/status/1569388616324890624)
+
+Re @Wu_Zhi 以前美国打仗，好歹弄些专家与军方一起讨论，沙盘推演，资金耗费，战争中出现的几种可能前景，主要方案与预案都有。<br>这次好象什么也没有，但各智库的俄罗斯专家们却嗅出味道了，从去年12月开始，就讨论这问题并全力反对之。
 

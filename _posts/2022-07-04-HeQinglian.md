@@ -33,7 +33,7 @@ Re @whisperCDX @cskun1989 15-20年前，我接触的台湾学界与文化界都�
 
 ### 5: [2022-07-04 09:46:00+08:00 推文](https://twitter.com/HeQinglian/status/1543773087661015041)
 
-7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。 <a href="https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/china-not-giving-material-support-russias-war-ukraine-us-official-2022-07-01/</a>
+7月1日路透发布英文消息：《美国官方消息：中国没有为俄罗斯在乌克兰的战争提供物质支持》，拜登政府一名高官在告诉路透，美商务部黑名单是针对企业，不是针对政府。<br><br>G7表态在前。由此可见，胡萝卜+大棒并用，美对华政策仍然处在战略摇摆状态，依据是中国经济前景不明朗。<br><br>华尔街日报中文网: #本周热读 美国及其在欧洲和亚洲的主要盟友正联合起来对抗中国，它们都将中国视为安全挑战，而且中方在乌克兰战争中对俄罗斯的支持更是令人不安。欧洲国家曾倾向于将中国视为一个经济机会，但最近对中国的强硬姿态显示出反感。<br> <a href="https://on.wsj.com/3NyRX9d" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NyRX9d</a>
 
 ### 6: [2022-07-04 09:48:32+08:00 推文](https://twitter.com/HeQinglian/status/1543773724310224897)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -697,11 +697,11 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
