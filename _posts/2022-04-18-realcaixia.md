@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。
+关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
@@ -57,7 +57,7 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 11: [2022-04-18 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1515872221230682116)
 
-真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。
+真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。<br><br>Luo Shengchun丁家喜律师妻子: #纽约人权活动之旅 前天驱车来到纽约市参加由非政府机构中国人权（HRIC）@hrichina 举办的法律程序国际标准有关的培训，结识了一批年轻活动者和律师，并一起学习探讨中国政府制定及执行法律时与国际标准的距离，受益非浅！培训结束与全程参与培训的中国人权执行主任，法学荣誉退休教授谭女士合影留念。<br><br><img style="" src="https://pbs.twimg.com/media/FQgdB4xXoAccxMK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQgdB4wWQAs4HiU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -137,7 +137,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
-李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！<br><br>《议报》: 李承鹏：上海是预示未来一百年的大河<br> <a href="https://yibaochina.com/?p=246090" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246090</a>
+李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！
 
 ### 32: [2022-04-22 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1517489646720229380)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。
+大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 
@@ -177,7 +177,7 @@ Re 文章充满悲愤但不止于悲愤！<br>我的推特引言第三段文字�
 
 ### 41: [2022-04-23 07:18:26+08:00 推文](https://twitter.com/realcaixia/status/1517644022205980680)
 
-四月之声！2020年春武汉再现！
+四月之声！2020年春武汉再现！<br><br>freelysiumeu: @realcaixia<br> <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664" target="_blank" rel="noopener noreferrer">https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664</a>
 
 ### 42: [2022-04-23 09:12:30+08:00 推文](https://twitter.com/realcaixia/status/1517672730711281664)
 
@@ -189,11 +189,11 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 44: [2022-04-23 11:34:05+08:00 推文](https://twitter.com/realcaixia/status/1517708362615468033)
 
-这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。<br><br>QWERTY: 臥槽，一個保姆，做飯的阿姨，環球出手啦，國家隊出手啦，哈哈哈哈不是真的才怪😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FQ2RJ67aQAADvJW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
-上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。
+上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。<br><br>Voice From Germany 德國之音🎗️: 上海市民集体转发 #四月之声 视频，中共吓得命令腾讯公司紧急开发 “同城”朋友圈。重庆用户看不到上海用户的朋友圈了<br><br><video src="https://video.twimg.com/ext_tw_video/1517691410161577985/pu/vid/592x1280/J0Zla5NHPr663hhe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517691410161577985/pu/img/k1rpeTGDv9EDAQpf.jpg"></video>
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
 

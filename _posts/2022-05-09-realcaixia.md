@@ -185,7 +185,7 @@ Re @UGy9oNugsWfeYes 这个文件我不知道。
 
 ### 43: [2022-05-10 22:26:29+08:00 推文](https://twitter.com/realcaixia/status/1524033138153951232)
 
-极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。<br><br>荣剑: 上海自开埠以来，和平时期，从未遭遇如此人为之灾难。<br><br><img style="" src="https://pbs.twimg.com/media/FSUYQUdVUAArSMe?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+极权统治下，人权灾难既能发生在新疆西藏也能发生在国际大都市的上海。曾经以为只要安分守己远离政治就可以岁月静好的人，现在不得不面对难以想象的，发生在和平时期的居家囚禁、饥饿死亡威胁、被面目模糊亦警亦匪白卫兵暴力恫吓有家不得居、出门即遭打，霎时就被抓的恐怖煎熬。这即中国特色防疫优势。
 
 ### 44: [2022-05-11 04:59:52+08:00 推文](https://twitter.com/realcaixia/status/1524132136407605248)
 
@@ -233,11 +233,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FSrg9DDUUAEO-Jq?format=jpg
 
 ### 55: [2022-05-15 22:25:52+08:00 推文](https://twitter.com/realcaixia/status/1525844920161820672)
 
-特别推荐。
+特别推荐。<br><br>《议报》: 柴思原：对于 “不可知论”的反驳以及何为现代人的“多元主义”<br> <a href="https://yibaochina.com/?p=246464" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246464</a>
 
 ### 56: [2022-05-15 22:38:50+08:00 推文](https://twitter.com/realcaixia/status/1525848181522587648)
 
-这个推文很好，特别转推。
+这个推文很好，特别转推。<br><br>端咖啡内女的🇺🇦🇺🇦: 我出国前啥都不懂。同学们都出国，不出国就像个loser，所以我也跟风出国了。出国后给家里写的信上说：如果不是亲眼见，你不会相信世界上有这么好的国家、有这么好的社会。每个人都被尊重，每个人做事都认真守规矩，我感到精神上前所未有的放松和自由。<br>
 
 ### 57: [2022-05-15 22:45:45+08:00 推文](https://twitter.com/realcaixia/status/1525849924092297216)
 
