@@ -483,3 +483,23 @@ Re @Wu_Zhi @JianglinLi @Cuperti62009250 要什么样的结局，由美乌共同�
 
 遗漏了路透社这条消息：<br>根据欧盟轮值主席国捷克发布的一份会议摘要，欧盟能源部长会议上，对俄罗斯天然气价格进行限制的提议并未赢得欧盟国家的广泛支持。<br>摘要显示，各国部长们要求欧盟委员会准备好其他的紧急措施，如规定更为广泛的天然气价格上限，而不是专门针对俄罗斯。 <a href="https://www.reuters.com/business/energy/eu-countries-seek-emergency-solution-soaring-energy-bills-2022-09-09/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/business/energy/eu-countries-seek-emergency-solution-soaring-energy-bills-2022-09-09/</a>
 
+### 118: [2022-09-14 04:17:32+08:00 推文](https://twitter.com/HeQinglian/status/1569782352397889536)
+
+Re @yu_su_chen @Cuperti62009250 🙏<br>我尽量努力。
+
+### 119: [2022-09-14 04:29:14+08:00 推文](https://twitter.com/HeQinglian/status/1569785296782237697)
+
+Re @xchen62 那天看到一消息，挪威已经同意了。不过，不是路透、彭博消息。你去查证一下。
+
+### 120: [2022-09-14 04:33:37+08:00 推文](https://twitter.com/HeQinglian/status/1569786397996769281)
+
+Re @FangYiDuan1 商品供求分卖方市场与买方市场，供过于求，有利于买方则是买方市场；供不应求，就是卖方市场。定价权在占据有利地位的一方手中。<br>目前欧盟可能还没弄清楚世界能源供求格局有利于哪一方。自己虽然是买方，不高兴就送顶能源敲诈的帽子给卖方，政治正确压死人——国内政治操作的老套路。
+
+### 121: [2022-09-14 04:39:20+08:00 推文](https://twitter.com/HeQinglian/status/1569787839461588992)
+
+上合普习会为何举世瞩目？<br><br>本文回溯了近10余年中俄关系的变化，指出自克里米亚危机之后，两国小心经营这份原来俄不太Care的关系，达成了地缘政治与能源方面的合作。如今世界多极化格局已经形成，美欧还在留恋西方主导世界格局的昔日辉煌，中俄却已看清自己需要谋求的新位势。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-09132022134809.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-09132022134809.html</a>
+
+### 122: [2022-09-14 04:45:18+08:00 推文](https://twitter.com/HeQinglian/status/1569789339042828296)
+
+Re @xchen62 你这条应该是真实的。因为我那天是推上看了一眼，没去查证。<br>挪威就那点资源，限量开采，小心使用，维持国民的生活水准，今年已经被资源穷亲戚与远亲惦记好几回了。😅<br>BTW，美国的黑海战略目标之一，就是让俄罗斯的运输管道阻断，削弱其资源供应国地位。
+
