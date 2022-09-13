@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-13
+date: 2022-09-14
 from: https://twitter.com/realcaixia/status/1568993723857477633
 layout: post
 tags:
@@ -86,4 +86,20 @@ Re @gary89797772 @Atakk_outsider 理论上修改党章不由总书记个人说�
 ### 18: [2022-09-13 22:46:00+08:00 推文](https://twitter.com/realcaixia/status/1569698919206068225)
 
 推荐王剑这期分析，他从习出访看到了更深的含意。<br><br>习近平出访中亚 谋求连任的政治豪赌/王剑每日观察/20220912 <a href="https://youtu.be/C9tx15f_Qkk" target="_blank" rel="noopener noreferrer">https://youtu.be/C9tx15f_Qkk</a>
+
+### 19: [2022-09-14 02:30:30+08:00 推文](https://twitter.com/realcaixia/status/1569755417512759297)
+
+Re @reindee2022 @YouTube 你可以跳过他前面的新闻播报，听听他对习出访中亚这事是如何分析的。
+
+### 20: [2022-09-14 02:33:04+08:00 推文](https://twitter.com/realcaixia/status/1569756061963370503)
+
+Re @monkey3215688 @YouTube 我看到了，感谢LT的分析。他的解读大部分我都同意，他的评论客观理性还具有透视力。🌹
+
+### 21: [2022-09-14 02:40:34+08:00 推文](https://twitter.com/realcaixia/status/1569757950813634560)
+
+Re @caihongbin11 @YouTube 我的父亲为了争取中国人赢得自由民主而流血打仗，他战场负伤，弹片嵌入身上没能全部取出来。然而，中国至今仍在极权政治统治之下，我继承他的事业就是要继续为中国实现向自由民主政治转型而努力。这一点，我在2020年8月自由亚洲电台和VOA的采访视频里都明确地说了。
+
+### 22: [2022-09-14 02:55:45+08:00 推文](https://twitter.com/realcaixia/status/1569761769953890305)
+
+索性把这个中共黑客特务的跟帖推出来。说这个推文发出者是中共黑客特务，是因为这个黑客此前已经侵入我的邮箱，盗读我的写作文稿，并在前几天到我的推文下跟帖发出恐吓。今天又在我推下活动。这个黑客搞到了我于2001年写的回忆我父亲的文章，贴出我父亲的照片。我就干脆发个推，公开回应中共黑客特务。<br><img style="" src="https://pbs.twimg.com/media/FcjqAjfX0AAL8yS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

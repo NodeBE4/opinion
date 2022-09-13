@@ -479,3 +479,7 @@ RT zhix<br>Re @JianglinLi @ZLKYBNt9u0RgiDG @Isabel_3299 新左派理论核心�
 
 Re @Wu_Zhi @JianglinLi @Cuperti62009250 要什么样的结局，由美乌共同决定。<br>这个你得看看。早在2014年美国情报公司Stratfor董事乔治·弗里德曼（George Friedman）发表了一份报告《乌克兰、伊拉克和黑海战略》。<br><br>所有的战略都在一步步实施。也因此，不主战的美国俄罗斯专家讲不上话。 <a href="https://worldview.stratfor.com/article/ukraine-iraq-and-black-sea-strategy" target="_blank" rel="noopener noreferrer">https://worldview.stratfor.com/article/ukraine-iraq-and-black-sea-strategy</a>
 
+### 117: [2022-09-14 01:40:34+08:00 推文](https://twitter.com/HeQinglian/status/1569742851071950853)
+
+遗漏了路透社这条消息：<br>根据欧盟轮值主席国捷克发布的一份会议摘要，欧盟能源部长会议上，对俄罗斯天然气价格进行限制的提议并未赢得欧盟国家的广泛支持。<br>摘要显示，各国部长们要求欧盟委员会准备好其他的紧急措施，如规定更为广泛的天然气价格上限，而不是专门针对俄罗斯。 <a href="https://www.reuters.com/business/energy/eu-countries-seek-emergency-solution-soaring-energy-bills-2022-09-09/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/business/energy/eu-countries-seek-emergency-solution-soaring-energy-bills-2022-09-09/</a>
+
