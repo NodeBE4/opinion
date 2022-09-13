@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-13
+date: 2022-09-14
 from: https://twitter.com/HeQinglian/status/1569005344608731144
 layout: post
 tags:
@@ -470,4 +470,12 @@ Re @HEFANG3 😅<br>事实上，这就是NWO。
 ### 114: [2022-09-13 23:18:31+08:00 推文](https://twitter.com/HeQinglian/status/1569707102167252992)
 
 Re @XiChen_6055 @Cuperti62009250 没空，就看了你留言的这条。<br>我有义务看你所有的推文吗？<br>为你欣慰的是，你回答说你没发过假信息。希望继续保持清醒。
+
+### 115: [2022-09-13 23:43:01+08:00 推文](https://twitter.com/Wu_Zhi/status/1569713266808573952)
+
+RT zhix<br>Re @JianglinLi @ZLKYBNt9u0RgiDG @Isabel_3299 新左派理论核心就是要反常识，颠覆常识，跨越边界嘛。<br>整体政策出来，就是：<br><br>新闻机构跨越边界：制造假新闻<br>新闻发言跨越边界：答非所问<br>专家跨越边界：假专家<br>科学家跨越边界：政治至上<br>艺术家跨越边界：假艺术<br>民主宪政跨越边界：假选举，虚伪承诺，不对选民负责<br>有限政府跨越边界：无限政府<br>……
+
+### 116: [2022-09-14 00:07:55+08:00 推文](https://twitter.com/HeQinglian/status/1569719533291569157)
+
+Re @Wu_Zhi @JianglinLi @Cuperti62009250 要什么样的结局，由美乌共同决定。<br>这个你得看看。早在2014年美国情报公司Stratfor董事乔治·弗里德曼（George Friedman）发表了一份报告《乌克兰、伊拉克和黑海战略》。<br><br>所有的战略都在一步步实施。也因此，不主战的美国俄罗斯专家讲不上话。 <a href="https://worldview.stratfor.com/article/ukraine-iraq-and-black-sea-strategy" target="_blank" rel="noopener noreferrer">https://worldview.stratfor.com/article/ukraine-iraq-and-black-sea-strategy</a>
 
