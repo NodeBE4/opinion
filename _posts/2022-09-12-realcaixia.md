@@ -103,3 +103,11 @@ Re @caihongbin11 @YouTube 我的父亲为了争取中国人赢得自由民主而
 
 索性把这个中共黑客特务的跟帖推出来。说这个推文发出者是中共黑客特务，是因为这个黑客此前已经侵入我的邮箱，盗读我的写作文稿，并在前几天到我的推文下跟帖发出恐吓。今天又在我推下活动。这个黑客搞到了我于2001年写的回忆我父亲的文章，贴出我父亲的照片。我就干脆发个推，公开回应中共黑客特务。<br><img style="" src="https://pbs.twimg.com/media/FcjqAjfX0AAL8yS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 23: [2022-09-14 03:16:26+08:00 推文](https://twitter.com/realcaixia/status/1569766974560911360)
+
+Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等报到打卡，上班挣分挣钱。
+
+### 24: [2022-09-14 05:07:29+08:00 推文](https://twitter.com/realcaixia/status/1569794921451737092)
+
+推荐议报转发孙立平教授的文章。孙立平教授是北京清华大学社会学系的教授，他以独特的视角观察中国社会的观察，提出的思考常有相当的深度以及超前意识。<br><br>孙立平 | 理解眼下：我最近提出的两个概念 - 议报 <a href="https://yibaochina.com/?p=247724" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247724</a>
+
