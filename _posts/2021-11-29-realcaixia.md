@@ -49,7 +49,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 9: [2021-12-03 22:37:07+08:00 推文](https://twitter.com/realcaixia/status/1466778530008780801)
 
-在中共國，凡申报所谓國家社科理论重点課題的，都只是重金利誘下的“知識”分子投名状。这些投名状一旦被挑中，这些“知識分子”将都身价不菲而唯独人格尊严扫地。细看中共国发布的国家重点社科课题目录，每一项都是为造神而定制新袈裟，产出的各堆垃圾文字，历史将会把耻辱印记贴在这些“知識分子”脸上。<br><br>Jam: 三百多个项目，一半是研究习思想、中国特色社会理论和中国治理模式。<br><br>都是骗钱花的！犹如纺织皇帝的外衣，没毛病！<br><br><img style src="https://pbs.twimg.com/media/FFbWqmcWUAQq74n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FFbWqmdXEAETRJr?format=jpg&name=orig" referrerpolicy="no-referrer">
+在中共國，凡申报所谓國家社科理论重点課題的，都只是重金利誘下的“知識”分子投名状。这些投名状一旦被挑中，这些“知識分子”将都身价不菲而唯独人格尊严扫地。细看中共国发布的国家重点社科课题目录，每一项都是为造神而定制新袈裟，产出的各堆垃圾文字，历史将会把耻辱印记贴在这些“知識分子”脸上。<br><br>Jam: 三百多个项目，一半是研究习思想、中国特色社会理论和中国治理模式。<br><br>都是骗钱花的！犹如纺织皇帝的外衣，没毛病！<br><br><img style="" src="https://pbs.twimg.com/media/FFbWqmcWUAQq74n?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FFbWqmdXEAETRJr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-04 05:33:39+08:00 推文](https://twitter.com/realcaixia/status/1466883351839657993)
 
@@ -57,7 +57,7 @@ WTA的決定顯示了良知與正義，不為利益誘惑而出賣原則。相�
 
 ### 11: [2021-12-05 00:28:35+08:00 推文](https://twitter.com/realcaixia/status/1467168968901337088)
 
-这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style="" src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
+这幅帖子概括得好！<br><br>章立凡 Zhang Lifan: ＃转【人家只好试试了】<br><br><img style src="https://pbs.twimg.com/media/FFpFlonWQAE87Ul?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-05 00:50:44+08:00 推文](https://twitter.com/realcaixia/status/1467174543093649412)
 
