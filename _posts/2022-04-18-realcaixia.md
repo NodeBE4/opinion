@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。
+关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
@@ -77,7 +77,7 @@ Re @21KsJZBSV3yPD9w @YouTub 李锐的《庐山会议实录》、杨继绳的《�
 
 ### 16: [2022-04-18 22:58:17+08:00 推文](https://twitter.com/realcaixia/status/1516068606408278016)
 
-说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。<br><br>韩连潮: 【李总理，你应当去上海！】有人把清零和共存说成两条路线斗争、内斗、制度和文明之争, 动辄上纲上线、戴帽子打棍子，说明野心家别有用心；李克强总理作为抗疫领导小组组长应当前往上海亲临一线坐镇主场，这是你的基本职责。领导不是神仙，科学也会出错，亲临其境才知道民众的困苦，找到应对方案。<br><br><img style="" src="https://pbs.twimg.com/media/FQoJIMTX0AE-Qkj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+说的对！李克强总理应该去上海苏州等疫情严重的地区实地了解情况。
 
 ### 17: [2022-04-18 23:20:53+08:00 推文](https://twitter.com/realcaixia/status/1516074293133602820)
 
@@ -109,7 +109,7 @@ Re @yangjianli001 哈哈！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
-💔😭
+💔😭<br><br>变态辣椒RebelPepper: 上海一保姆講述她照顧的一位老太太因為封城隔離無法及時照顧，被活活餓死，老太太死之前保姆最後一次有機會去看她的時候已經餓到在吃屎<br><br><video src="https://video.twimg.com/ext_tw_video/1516146424903258125/pu/vid/540x952/YX2YY61UDRAdheMV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516146424903258125/pu/img/D2eJR8-ro5daj1ha.jpg"></video>
 
 ### 25: [2022-04-20 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1516500100159258631)
 
@@ -133,7 +133,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 30: [2022-04-22 08:16:20+08:00 推文](https://twitter.com/realcaixia/status/1517296205520416769)
 
-这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。
+这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。<br><br>苗也: 剥削来自权力，而非资本<br>马斯克能说出这话，不愧是首富<br><br><img style="" src="https://pbs.twimg.com/media/FQr9_xOXMAQf9de?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
@@ -145,7 +145,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 33: [2022-04-22 21:21:51+08:00 推文](https://twitter.com/realcaixia/status/1517493889900367876)
 
-上海逝者名单，两天前接力数163。今天是194。尽管163后接力数排序有小小的错乱，但这是很多上海人齐心尽力在连续共同做的一件事。细读每一个接力数叙说逝者最后的境况，总是痛心悲愤，；而透过每一个接力数看到的是许多上海市民在这场人祸中思考醒悟，从市民成为公民，公民社会在苦难中顽强生长！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，两天前接力数163。今天是194。尽管163后接力数排序有小小的错乱，但这是很多上海人齐心尽力在连续共同做的一件事。细读每一个接力数叙说逝者最后的境况，总是痛心悲愤，；而透过每一个接力数看到的是许多上海市民在这场人祸中思考醒悟，从市民成为公民，公民社会在苦难中顽强生长！
 
 ### 34: [2022-04-22 21:52:05+08:00 推文](https://twitter.com/realcaixia/status/1517501496669007874)
 
@@ -177,7 +177,7 @@ Re 文章充满悲愤但不止于悲愤！<br>我的推特引言第三段文字�
 
 ### 41: [2022-04-23 07:18:26+08:00 推文](https://twitter.com/realcaixia/status/1517644022205980680)
 
-四月之声！2020年春武汉再现！<br><br>freelysiumeu: @realcaixia<br> <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664" target="_blank" rel="noopener noreferrer">https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664</a>
+四月之声！2020年春武汉再现！
 
 ### 42: [2022-04-23 09:12:30+08:00 推文](https://twitter.com/realcaixia/status/1517672730711281664)
 
