@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-04-11~2022-04-17'
 
 ### 1: [2022-04-11 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1513198753209065473)
 
-当局是大规模传播病毒感染的制造者。
+当局是大规模传播病毒感染的制造者。<br><br>鲁  难: 按照广州测核酸的这个模式来推测，距离封城应该不远了。<br>测核酸就说明知道有潜在的病毒携带者。<br>然后把人们聚在一起测核酸，创造一个集体感染、让疾病集中爆发的环境条件，这是抗疫还是在传播疫情？<br><br><video src="https://video.twimg.com/ext_tw_video/1513170686134697985/pu/vid/720x1146/FHPTK1I1OIEPxWAO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513170686134697985/pu/img/yjgXNGA6Ixu7xf1E.jpg"></video>
 
 ### 2: [2022-04-11 01:03:19+08:00 推文](https://twitter.com/realcaixia/status/1513200970234224641)
 
@@ -25,7 +25,7 @@ Re @Jam79922967 @lianchaohan 这类长冷兵器不是城管混混儿能有的，
 
 ### 3: [2022-04-11 01:13:39+08:00 推文](https://twitter.com/realcaixia/status/1513203569540882442)
 
-这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！
+这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！<br><br>Jam: 今日上海，我为上海哭泣。上帝啊，你一定也看到了，为什么你无动于衷呢？该出手了，是时候了。<br><br><video src="https://video.twimg.com/ext_tw_video/1513180381436157959/pu/vid/720x1280/5qe_KowCgMbPf5uy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513180381436157959/pu/img/4zfVb1Ljm9SQGGnk.jpg"></video>
 
 ### 4: [2022-04-11 01:25:56+08:00 推文](https://twitter.com/realcaixia/status/1513206661049114626)
 
@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。
+看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -85,7 +85,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 18: [2022-04-12 21:33:31+08:00 推文](https://twitter.com/realcaixia/status/1513872948087640067)
 
-一党专政遍地是灾！一人独裁全民遭殃！
+一党专政遍地是灾！一人独裁全民遭殃！<br><br>Chenchen Zhang 🤦🏻‍♀️: what's it like to be quarantined in uni dorms in Changchun...<br>stuck in a 6-person room for a month, only able to take a shower once, can only go to the water distribution room and public bathroom (no toilet or water tap in the dorm), where one must use one designated stall<br><br><img style="" src="https://pbs.twimg.com/media/FQH9AppXoAE7J9z?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
@@ -129,7 +129,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 29: [2022-04-15 00:16:03+08:00 推文](https://twitter.com/realcaixia/status/1514638623097823240)
 
-上海市志愿者反抗强权意志！为这样的志愿者叫好！
+上海市志愿者反抗强权意志！为这样的志愿者叫好！<br><br>鲁  难: 上海市徐汇区的志愿者拒绝上门贴封条：难道法律还没有你们的领导大吗？<br><br><video src="https://video.twimg.com/ext_tw_video/1514075238883020813/pu/vid/720x1006/cy7J2U_-8NkvLIJ3.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514075238883020813/pu/img/-PHWGVwKEUbf8spp.jpg"></video>
 
 ### 30: [2022-04-15 02:13:41+08:00 推文](https://twitter.com/realcaixia/status/1514668227716005889)
 
@@ -149,7 +149,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：
+强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
@@ -165,7 +165,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -249,9 +249,9 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
-上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！
+上海rapper彻底火爆，网上又传四川rapper，相信将有更多的方言rapper出现。嬉笑怒骂皆成文章，幽默反讽皆可为用。民众心声言语朴实，却相当犀利威力巨大。<br>rapper是年轻人最喜欢的一种音乐风格，rapper携载反抗极权的声音可以快速传播，岂是习当局网管禁得过来的？！rapper清楚显现人心向背！<br><br>Jam: 每天晚上七点雷打不动的腥闻联播，骗骗骗，扯扯扯。一位四川百姓实在是忍无可忍，编了这首歌来“夸夸CCTV”,亲切地称之为“骗子”。<br><br><video src="https://video.twimg.com/ext_tw_video/1515461449342201858/pu/vid/240x180/CgsMzoSJ8FA1QjfZ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1515461449342201858/pu/img/Hp8T17mHFWY70JpD.jpg"></video>
 
