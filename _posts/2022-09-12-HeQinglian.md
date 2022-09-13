@@ -391,3 +391,83 @@ Re @solo88715596 @Cuperti62009250 你承认，为了打击俄罗斯，编造任�
 
 Re @Tepezano161 @Cuperti62009250 我这叫做引脑残冒头，等会一个个拉黑。
 
+### 95: [2022-09-13 21:29:28+08:00 推文](https://twitter.com/HeQinglian/status/1569679657087164417)
+
+克鲁格曼：为什么世界没那么平了 <br>比福山诚实一些。干脆自我否定《世界是平的》。<br>福山《历史的终结》为全球化统一世界提供了理论基础，修改四次，还是千孔百疮，难以自圆其说。到现在都不肯承认多极化世界是常态，一统江湖是梦想。 <a href="https://cn.nytimes.com/opinion/20220907/the-world-is-getting-less-flat/" target="_blank" rel="noopener noreferrer">https://cn.nytimes.com/opinion/20220907/the-world-is-getting-less-flat/</a>
+
+### 96: [2022-09-13 21:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1569680733274243073)
+
+Re @POPSKY9999 看日本战史，有几大数据收获：<br>一是咱们都谈到的日本击沉美国航母数字数倍于美国真实拥有数量；<br>二是日本战死在中国的军人数字，只有中国国府统计的数字的十分之一不到。<br>结论是：战争时期的数据，不要太当真。看战争结果就行了，历史是由战胜者写的。
+
+### 97: [2022-09-13 21:36:05+08:00 推文](https://twitter.com/HeQinglian/status/1569681324818202624)
+
+Re @dashihua77 福山不愿意，这是人家的终身成就。
+
+### 98: [2022-09-13 21:42:15+08:00 推文](https://twitter.com/HeQinglian/status/1569682874466734087)
+
+Re @shenliangqing2 《纽约时报》将自己当作美宣部第一喉舌或者美国民主党中央机关报了。<br>人家英国的国事，本国人民作主，存废王室都是人家的家务事，你还是管好美国宪政民主是否应该终结的事情，多谈谈终结者拜登所作所为吧。
+
+### 99: [2022-09-13 21:48:58+08:00 推文](https://twitter.com/HeQinglian/status/1569684567283343366)
+
+Re @shenliangqing2 @midiexiang6555 比美国进步派当中的奇葩——恋童是正常的性取向还差点成色。不知中国进步人士某天是否因为听了某教授的课，也去中国贩卖这一美国进步派理论。
+
+### 100: [2022-09-13 21:55:48+08:00 推文](https://twitter.com/HeQinglian/status/1569686284641107969)
+
+Re @shenliangqing2 @midiexiang6555 为节省你查找资料的时间，贴上出处，文内有英文链接。<br><br>北美保守评论🇺🇸🇨🇦: 《老多米尼大学跨性别教授将娈童癖名称改为“被未成年人吸引的人”》<br><br>对于极左人士来说，没有任何东西是圣洁的，包括孩童的天真。明明是主动对儿童发动性侵的罪犯，左派却颠倒黑白，将他们称为 “被未成年人吸引的人”，言下之意他们性侵儿童反而是儿童自己的错，实在是厚颜无耻！<br><br><img style="" src="https://pbs.twimg.com/media/FEgydEyXwAgLBZx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://nacr.info/WordPress/index.php/2021/11/18/transgender-professor-at-old-dominion-university-rebrands-pedophiles-as-minor-attracted-persons/" target="_blank" rel="noopener noreferrer">http://nacr.info/WordPress/index.php/2021/11/18/transgender-professor-at-old-dominion-university-rebrands-pedophiles-as-minor-attracted-persons/</a>
+
+### 101: [2022-09-13 22:10:26+08:00 推文](https://twitter.com/HeQinglian/status/1569689969450418178)
+
+Re @HA4UqCgElI7Fvh8 拜登有英王御赐特权（唯一），允许自带座驾。 <a href="https://www.thetimes.co.uk/article/biden-can-bring-his-beast-but-other-dignitaries-face-taking-bus-76q2vt563" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/biden-can-bring-his-beast-but-other-dignitaries-face-taking-bus-76q2vt563</a>
+
+### 102: [2022-09-13 22:12:43+08:00 推文](https://twitter.com/HeQinglian/status/1569690542841151488)
+
+Re @JianglinLi @Cuperti62009250 最让人不能容忍的是：他们自愿被谎言欺骗，还逼着别人与他们一样愚蠢。
+
+### 103: [2022-09-13 22:41:51+08:00 推文](https://twitter.com/HeQinglian/status/1569697875973513223)
+
+Re @jumperoverfgw @Cuperti62009250 对你是如此，但对欧美左派来说，他们是唯一正义；对俄罗斯大多数人民来说，他们也不会认为普京邪恶。<br>世界上能够统一正义标准的人，前有马克思、列宁，后有斯大林、毛泽东。<br>他们没做到，你也只能坚持自己的标准。
+
+### 104: [2022-09-13 22:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1569698301758558212)
+
+Re @XiChen_6055 @Cuperti62009250 请注意用词的准确性。这方面，看路透社的即可，你的描述，我当成参考。
+
+### 105: [2022-09-13 22:48:53+08:00 推文](https://twitter.com/HeQinglian/status/1569699644061454339)
+
+Re @XiChen_6055 @Cuperti62009250 我转发的是泽连斯基的两天内5000平方公里，你讲的战果，就留着自己看吧。<br>除了特定推友的（我鉴定过比较可靠的），从来不以你们的推为依据。有那时间，我看路透，因为只有它承认了当初误报的几条虚假信息，并从此谨慎对待各种信息。<br>你自管饮庆功酒，我就不陪了。<br>我一直记得乌战初期信息战的各种战果
+
+### 106: [2022-09-13 22:50:03+08:00 推文](https://twitter.com/HeQinglian/status/1569699939147472896)
+
+Re @FranzMendelsso1 @JianglinLi @Cuperti62009250 我这里还有乌粉将俄驻华卸任大使的名字说成为这位中将的名字。😅
+
+### 107: [2022-09-13 22:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1569701071060348930)
+
+Re @POPSKY9999 必须解释。历史由战胜者书写是名言，不是我说的。<br>我们看到的都是战胜者写的。因此，除了专业研究与特别兴趣，一般人不了解何谓真实历史。<br>“看结果”，指的是：战争过程中，双方都有夸大自己方胜利成果、敌方败绩的倾向，只是有程度差异。因此，战争结果才是真实的，战果大小可能虚报，输赢没法作假。
+
+### 108: [2022-09-13 22:55:14+08:00 推文](https://twitter.com/HeQinglian/status/1569701244427554825)
+
+Re @jumperoverfgw @Cuperti62009250 我不用更正，左派就是如此，极左更甚。
+
+### 109: [2022-09-13 22:56:49+08:00 推文](https://twitter.com/HeQinglian/status/1569701642047737856)
+
+Re @XiChen_6055 @Cuperti62009250 你推文的信息，全部是你自己上战场找来的？<br>如果不是，那就有“们”，至少代表这些信息的发布者。
+
+### 110: [2022-09-13 22:59:31+08:00 推文](https://twitter.com/HeQinglian/status/1569702318764965891)
+
+Re @Wu_Zhi “拟”，是代表乌方打算这么做，以前也“拟”过。<br>最近人家确实三天内收复了6000平公，其中5000是两天内收复的——据泽本人提供的信息。<br>这当然是胜利，而且不是小胜，是大胜。
+
+### 111: [2022-09-13 23:01:01+08:00 推文](https://twitter.com/HeQinglian/status/1569702697577709571)
+
+Re @XiChen_6055 @Cuperti62009250 我与你不同：<br>请注意，信息来源，我标明了；自己的看法，也标明了。因此，我就是我，没有“们”。<br>你标明了么？一幅不容质疑的唯一真实信息提供者的架势。
+
+### 112: [2022-09-13 23:07:51+08:00 推文](https://twitter.com/HeQinglian/status/1569704415841370114)
+
+Re @XiChen_6055 @Cuperti62009250 你一条链接也没给。<br>事实上，我不想“指教”你。<br>法国电视台就说了战胜的代价，我不想与你费事。<br>昨天有人贴了据称是俄国防部的地图，失去8000平公，比你的地图还多。<br>我真信你们的，我也信基辅幽灵。<br>很想知道当时你转发过多少胜利消息。
+
+### 113: [2022-09-13 23:15:57+08:00 推文](https://twitter.com/HeQinglian/status/1569706455770570753)
+
+Re @HEFANG3 😅<br>事实上，这就是NWO。
+
+### 114: [2022-09-13 23:18:31+08:00 推文](https://twitter.com/HeQinglian/status/1569707102167252992)
+
+Re @XiChen_6055 @Cuperti62009250 没空，就看了你留言的这条。<br>我有义务看你所有的推文吗？<br>为你欣慰的是，你回答说你没发过假信息。希望继续保持清醒。
+
