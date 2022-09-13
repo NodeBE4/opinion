@@ -25,7 +25,7 @@ Re @Jam79922967 @lianchaohan 这类长冷兵器不是城管混混儿能有的，
 
 ### 3: [2022-04-11 01:13:39+08:00 推文](https://twitter.com/realcaixia/status/1513203569540882442)
 
-这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！
+这类长冷兵器不是城管混混儿能有的，再看看他们统一的发型，他们应该是武警。2014年昆明火车站“3.1”恐怖袭击事件的第四天我到了昆明，武警在昆明街头巡逻，就拿着这类长冷兵器。那时我第一次看到这类长冷兵器，当场就觉得中国处在三国演义时代。现在再次出现在上海高楼大厦下，真是时空穿越，魔幻！<br><br>Jam: 今日上海，我为上海哭泣。上帝啊，你一定也看到了，为什么你无动于衷呢？该出手了，是时候了。<br><br><video src="https://video.twimg.com/ext_tw_video/1513180381436157959/pu/vid/720x1280/5qe_KowCgMbPf5uy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513180381436157959/pu/img/4zfVb1Ljm9SQGGnk.jpg"></video>
 
 ### 4: [2022-04-11 01:25:56+08:00 推文](https://twitter.com/realcaixia/status/1513206661049114626)
 
@@ -41,11 +41,11 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 7: [2022-04-11 11:29:22+08:00 推文](https://twitter.com/realcaixia/status/1513358520623591426)
 
-太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。
+太好了！台湾民选政府才是中国人的真正民主政府，期望看到有更多的国家和台湾建立正式邦交关系。台湾是中国人推动大陆向宪政民主政治转型的榜样。<br><br>Dr. Bo 🇺🇸🇹🇼🇭🇰: 台灣外交部歡迎瑞典國會和歐洲議會代表訪問台灣。這是歷史上首次歐洲立法機構代表訪問台灣。<br> <a href="https://twitter.com/MOFA_Taiwan/status/1513121067090743301" target="_blank" rel="noopener noreferrer">https://twitter.com/MOFA_Taiwan/status/1513121067090743301</a>
 
 ### 8: [2022-04-11 11:45:34+08:00 推文](https://twitter.com/realcaixia/status/1513362596484714499)
 
-这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！<br><br>新闻/真话: 上海程序员有善心，想减少封城引发的次生灾害，就搞了一个上海人自救网站，让网友把自己的紧急情况登记在上面，本来是功德无量的事，却无意间曝光了中共的罪恶，导致中共恼羞成怒，封杀了这个救人的网站<br><br><img style="" src="https://pbs.twimg.com/media/FP_lJ19agAMzv-r?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP_lJ1-agAM1B4Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这是民间自救互救，本是大好事。中共对这个都要封杀，可见他们是多么的残暴与虚伪。他们不是天天说“人民至上”吗？！
 
 ### 9: [2022-04-11 13:38:12+08:00 推文](https://twitter.com/realcaixia/status/1513390942648078337)
 
@@ -89,7 +89,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
-人间惨剧，令人心碎。
+人间惨剧，令人心碎。<br><br>鲁  难: 上海市虹口区卫健委信息中心主任钱文雄在办公室自尽。<br>稍后，其患癌症多时的妻子也随他而去。虽不能同年同月同日生，但是做到了同年同月同日死。<br>有爱，有勇气。<br>而活在上海，也需要勇气。<br><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXIAseQAl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VxWQAsiZkb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXoBEzcJl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VyWYAghA25?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2022-04-14 08:23:40+08:00 推文](https://twitter.com/realcaixia/status/1514398948286517248)
 
@@ -109,7 +109,7 @@ Re @tomsemibio 你是中共网军造出来的无耻卑鄙的机器幽灵。
 
 ### 24: [2022-04-14 09:12:53+08:00 推文](https://twitter.com/realcaixia/status/1514411333755625472)
 
-杨继绳老师写的《墓碑》记录了中共毛时期三年大饥荒饿死几千万人的惨绝人寰的真实历史。<br><br>新闻调查: 所有上海人应该看看！ 全世界人应该看看！（中英文字幕）<br><br><video src="https://video.twimg.com/amplify_video/1513602577723756561/vid/640x480/M-3rK9xOW3VquvwH.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1513602577723756561/img/Qd1DThIG19Sd999h.jpg"></video>
+杨继绳老师写的《墓碑》记录了中共毛时期三年大饥荒饿死几千万人的惨绝人寰的真实历史。
 
 ### 25: [2022-04-14 20:49:09+08:00 推文](https://twitter.com/realcaixia/status/1514586555490476036)
 
@@ -137,7 +137,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 31: [2022-04-15 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1514672132105592835)
 
-请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……
+请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……<br><br>Ying Li: @liuhong @ZhouFengSuo<br> <a href="https://twitter.com/suxinpl/status/1514584550239875074" target="_blank" rel="noopener noreferrer">https://twitter.com/suxinpl/status/1514584550239875074</a>
 
 ### 32: [2022-04-15 02:47:44+08:00 推文](https://twitter.com/realcaixia/status/1514676798964989953)
 
@@ -165,7 +165,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -233,7 +233,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 55: [2022-04-17 10:40:30+08:00 推文](https://twitter.com/realcaixia/status/1515520547970506752)
 
-#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人
+#议报发布：《普通人的声音》推荐。<br><br>当大陆在高压恐怖下，记者学者文化人不得不自我阉割自我审查时，普通人的个体写作就显得尤为重要尤为珍贵。普通人拿起笔真实地再现个体的遭遇。他们值得我们高度尊重，因为他们的勇气、诚实、担当！比如上海高中生、上海逝者名单接龙的一个个普通市民、陈顺平家人<br><br>《议报》: 褚朝新：新闻实战｜普通人的声音<br> <a href="https://yibaochina.com/?p=246029" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246029</a>
 
 ### 56: [2022-04-17 11:10:49+08:00 推文](https://twitter.com/realcaixia/status/1515528177287766018)
 
@@ -249,7 +249,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
