@@ -67,3 +67,19 @@ Re @gary89797772 @Atakk_outsider 理论上修改党章不由总书记个人说�
 
 请看香港民众排队5个小时只为着为逝世的女王献上一束花!这就是人心向背！<br><br>DAVID: 2022年9月12日<br>香港人排隊五個鐘只係為咗獻花。<br>香港人加油！<br><br><video src="https://video.twimg.com/ext_tw_video/1569309936555028485/pu/vid/640x360/_DBUhXA4RHRik57H.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1569309936555028485/pu/img/EAkFI0Epxi-BctxH.jpg"></video>
 
+### 14: [2022-09-13 20:38:11+08:00 推文](https://twitter.com/realcaixia/status/1569666753214517249)
+
+推荐大宇新闻这期节目。<br>大宇提请人们关注泸定地震灾区信息被严密封锁；大宇提请关注贵阳用武警换大白执行封控。以清零为名一封百了，不顾一切保20大。<br>💥胡耀邦之子、劉亞洲之弟，公開跟習對嗆！；大批武警進貴陽；瀘定地震“頭七”，災區成禁區；“一... <a href="https://youtu.be/5mBk3bR1TMs" target="_blank" rel="noopener noreferrer">https://youtu.be/5mBk3bR1TMs</a><br><img style="" src="https://pbs.twimg.com/media/FciTlwsX0AAexon?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FciTlwpX0AA8FqQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FciTlwsWIAAkVaN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FciTlwrWQAEl9xw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-09-13 20:43:56+08:00 推文](https://twitter.com/realcaixia/status/1569668200438157312)
+
+再推。<br><br>蔡霞: 中共宣布要修党章，让我们看看习是否故伎重演，玩弄流氓诡诈手段。2018年修宪建议以中共中央名义提出，但经不起党内程序合法性的拷问。可以说程序不合法。请看下面：<br><br><img style="" src="https://pbs.twimg.com/media/FcdSP24WIAAKnl9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcdSQBmXkAAddz5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcdSQWkXEAMjK9E?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcdSQm2XoAAY09O?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 16: [2022-09-13 20:44:35+08:00 推文](https://twitter.com/realcaixia/status/1569668362434760705)
+
+再推<br><br>蔡霞: 中共9月9日召开了又一次政治局会议，新闻报道中说，会议研究了修改党章问题。我在评习近平为了连任流氓修宪的文章里谈到：有可能习近平会修改党章，再设党主席位子。现将中共党章明文规定废除终身制的条文和有关干部职务任期制暂行规定的有关内容，以及我的评论分析贴出如下：<br><br><img style="" src="https://pbs.twimg.com/media/FcYpMtHXgAAHlYl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-09-13 20:47:00+08:00 推文](https://twitter.com/realcaixia/status/1569668970612985859)
+
+再推。<br><br>蔡霞: 这是中共十九大通过的最新党章。关于废除终身制的党章第三十八条，是从1982年中共党就写进了党章，至今30年历经中共党七届全国代表大会七次修改党章，第三十八条始终坚持没有变动；始终不再设“党主席”这个职位。毛泽东主席个人凌驾于全党之上，给中共党与中国人带来巨大人祸劫难和民族悲剧，记忆犹新！<br>
+
