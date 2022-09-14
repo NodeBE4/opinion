@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-27~2022-01-02'
 
 ### 1: [2021-12-28 22:27:40+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475835847551377418)
 
-Re 12月31日，前人权律师覃永沛煽动颠覆国家政权罪一案将在南宁市中院不公开审理。检方指控他的“犯罪事实”包括：在微博、推特、外媒采访中“诋毁造谣国家领导人、攻击国家政权和社会主义制度”；在曾代理的一些案件中“诽谤司法机关腐败、抹黑现行司法体制”；以及策划运作“模拟法庭”。<br><img style="" src="https://pbs.twimg.com/media/FHs32LKXIAMJYsO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHs34G8X0AAI-GT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHs352qXoAEzRyD?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re 12月31日，前人权律师覃永沛煽动颠覆国家政权罪一案将在南宁市中院不公开审理。检方指控他的“犯罪事实”包括：在微博、推特、外媒采访中“诋毁造谣国家领导人、攻击国家政权和社会主义制度”；在曾代理的一些案件中“诽谤司法机关腐败、抹黑现行司法体制”；以及策划运作“模拟法庭”。<br><img style src="https://pbs.twimg.com/media/FHs32LKXIAMJYsO?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHs34G8X0AAI-GT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHs352qXoAEzRyD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-28 22:33:08+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475837224642097152)
 
