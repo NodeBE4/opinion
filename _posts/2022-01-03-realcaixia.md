@@ -41,7 +41,7 @@ Re @jiashengzhou 只是习没有当时毛在中共党内高级官员心中的高
 
 ### 7: [2022-01-03 06:13:44+08:00 推文](https://twitter.com/realcaixia/status/1477765075071078405)
 
-怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
+怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style="" src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-03 06:21:34+08:00 推文](https://twitter.com/realcaixia/status/1477767049485197318)
 
@@ -73,7 +73,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
 
-鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
 
@@ -85,7 +85,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
 
-Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-01-04 21:26:13+08:00 推文](https://twitter.com/realcaixia/status/1478357099000340490)
 
@@ -109,7 +109,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 24: [2022-01-06 08:15:19+08:00 推文](https://twitter.com/realcaixia/status/1478882837499682817)
 
-有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
+有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style="" src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-01-06 08:38:10+08:00 推文](https://twitter.com/realcaixia/status/1478888586435080198)
 
@@ -125,11 +125,11 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
-央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style="" src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
+央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-01-07 20:31:59+08:00 推文](https://twitter.com/realcaixia/status/1479430615606996993)
 
@@ -205,7 +205,7 @@ Re 公共服务和基本的社会正常运转，而且意味着无法偿还债�
 
 ### 48: [2022-01-09 02:17:33+08:00 推文](https://twitter.com/realcaixia/status/1479879967638962183)
 
-宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
+宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style="" src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-01-09 02:36:51+08:00 推文](https://twitter.com/realcaixia/status/1479884825024778250)
 
@@ -213,7 +213,7 @@ Re 我在北京时，曾经听黑龙江省的退休基层干部（80多岁）说
 
 ### 50: [2022-01-09 02:44:58+08:00 推文](https://twitter.com/realcaixia/status/1479886864677019649)
 
-防疫清零不仅不科学更是骗人的鬼话。大陆极权当局真正清零的目标在言论——就怕人们说真话。它们封江雪《长安十日》，封郭于华教授文章，再一次自证习当局的邪恶、野蛮与脆弱。<br><br>ZHANGDONG: 继江雪的《长安十日》，郭于华昨天在其公号上发表了《西安，西安，可否长安》，此两篇文章在大陆网络获得热烈反响和传播。不出所料，两文先后遭到网络全面封杀，江雪文存活了4天，郭于华文仅存活了1天，连带微信号也被封杀，她们就这样被“社会层面清零”了。官家以为封杀社会舆情就能清灭新冠病毒了吗？<br><br><img style src="https://pbs.twimg.com/media/FImYynEWQAMOHoa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImYyzpWQAEStdo?format=jpg&name=orig" referrerpolicy="no-referrer">
+防疫清零不仅不科学更是骗人的鬼话。大陆极权当局真正清零的目标在言论——就怕人们说真话。它们封江雪《长安十日》，封郭于华教授文章，再一次自证习当局的邪恶、野蛮与脆弱。<br><br>ZHANGDONG: 继江雪的《长安十日》，郭于华昨天在其公号上发表了《西安，西安，可否长安》，此两篇文章在大陆网络获得热烈反响和传播。不出所料，两文先后遭到网络全面封杀，江雪文存活了4天，郭于华文仅存活了1天，连带微信号也被封杀，她们就这样被“社会层面清零”了。官家以为封杀社会舆情就能清灭新冠病毒了吗？<br><br><img style="" src="https://pbs.twimg.com/media/FImYynEWQAMOHoa?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImYyzpWQAEStdo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 51: [2022-01-09 02:52:10+08:00 推文](https://twitter.com/realcaixia/status/1479888676314361862)
 
