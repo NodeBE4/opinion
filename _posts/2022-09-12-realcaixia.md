@@ -117,9 +117,13 @@ Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等�
 
 ### 26: [2022-09-14 09:11:12+08:00 推文](https://twitter.com/realcaixia/status/1569856257326202886)
 
-民生艰难啊！一个清零封控，断了无数人家的生计。张文宏主任都发出吼声：再封下去，就要崩溃了！为了一个人的强权意志，迫使全国10多亿人付出沉重代价包括生命代价！这是正常国家吗？祸国殃民！<br><br>鲁  难: 当成都未封控的时候，满满的正能量连央视都被感动了。现在，爱心冰柜的爱心依然，不过人似乎掉进了冰柜。明天，你是否依然爱我。<br>
+民生艰难啊！一个清零封控，断了无数人家的生计。张文宏主任都发出吼声：再封下去，就要崩溃了！为了一个人的强权意志，迫使全国10多亿人付出沉重代价包括生命代价！这是正常国家吗？祸国殃民！<br><br>鲁  难: 当成都未封控的时候，满满的正能量连央视都被感动了。现在，爱心冰柜的爱心依然，不过人似乎掉进了冰柜。明天，你是否依然爱我。<br> <a href="https://twitter.com/im1266/status/1569743466242125825" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1569743466242125825</a>
 
 ### 27: [2022-09-14 17:10:41+08:00 推文](https://twitter.com/realcaixia/status/1569976921341005826)
 
 <br><video src="https://video.twimg.com/ext_tw_video/1569976888692457472/pu/vid/560x320/jM4XBdpf_XgLIYQm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1569976888692457472/pu/img/b7NGGQtKNsfmjSms.jpg"></video>
+
+### 28: [2022-09-14 22:59:22+08:00 推文](https://twitter.com/realcaixia/status/1570064671637639169)
+
+建造三峡大坝，改变了三峡地区及周边的自然环境，原先经过数百上千万年形成的环境与气候的自然平衡被打破，结果必定是大自然剧烈运动，重新形成新的平衡。我以为，这就是云贵川渝地区连续多年出现极端天气现象的重要原因。大自然对妄想蛮干的惩罚。而这将由多少代人承受极端气候与生态灾难的痛苦为代价<br><br>《议报》: 王维洛 | 三峡水库将使重庆“冬暖夏凉”的论断来源<br> <a href="https://yibaochina.com/?p=247727" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247727</a>
 
