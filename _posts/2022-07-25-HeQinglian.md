@@ -53,7 +53,7 @@ Re @GaoMilan 既然如此，还抱怨什么？认吧。
 
 ### 10: [2022-07-25 09:37:02+08:00 推文](https://twitter.com/HeQinglian/status/1551380976240140288)
 
-想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。
+想当年，克林顿竞选时的豪言：我如果当了美国总统，从北京到巴格达的独裁者，一个也不放过。<br>后来，克林顿力主中国入世，成了中国政府的好朋友。退位后经常到中国演讲，每场演讲进帐几十万美元——友谊长青。<br>因此，我宁可将这些看作政治噱头。<br><br>RFI 華語 - 法國國際廣播電台: 英保守黨黨魁競選周一電視辯論： 蘇納克將抨擊特拉斯對華政策軟弱<br><br><img style="" src="https://pbs.twimg.com/media/FYeHnGJUEAEws_L?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bmS.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bmS.t</a>
 
 ### 11: [2022-07-25 20:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1551542097773223936)
 
@@ -165,7 +165,7 @@ Re @CrabNJ @badpeop19875194 @KELMAND1 推上当真是藏龙卧虎，什么人才
 
 ### 38: [2022-07-26 10:03:42+08:00 推文](https://twitter.com/HeQinglian/status/1551750072462893056)
 
-纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。
+纵观所有的颜色革命，包括美欧最推崇的“诺贝尔和平奖得主领导模式”南非与缅甸，其实都未竟全功，问题多多。<br>只有美国民主党阵营精心策划的2020年美国大选，将积20余年颜色革命的全套功夫用于本国，非常成功地夺取了政权，开始改造社会与大众思想大业。<br><br>曹長青: 美国中情局长伍尔西曾在电视上承认，美国干预他国选举。白宫顾问博尔顿对CNN说，他谋划多国政变。克里米亚事件就起源奥巴马政府支持乌克兰街头暴力推翻民选总统的“政变”，导致俄国不再调解克里米亚，结果那里人民公投回归俄国；该事件是奥巴马反俄、干预乌内政结果；拜登更煽动乌反俄，是战争导火索。<br>
 
 ### 39: [2022-07-26 10:05:03+08:00 推文](https://twitter.com/HeQinglian/status/1551750413778665472)
 
@@ -253,7 +253,7 @@ Re @realTaoRay 这么害怕川普2024出山？<br>其实，只要诚实选举，
 
 ### 60: [2022-07-28 03:28:43+08:00 推文](https://twitter.com/HeQinglian/status/1552375447291367425)
 
-解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。<br><br>RFI 华语 - 法国国际广播电台: 佩洛西何时访台？彭博社：应在拜登与习近平通话几天后<br><br><img style="" src="https://pbs.twimg.com/media/FYoQQ3VVQAAI_cX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8c72.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8c72.t</a>
+解决方案来了：<br>1、拜习通话后，拜登想要的能否得到已成定局，不会再传达军方意见反对南希去。民主党内矛盾让位于美中矛盾；<br>2、南希等人成行，如中方不用武力威慑，从此可视中共为Paper Tiger；如果美方回应，政治反对派解放中国的梦想可实现。如果不回应，美国就是Paper Tiger。<br>前提是南希健康。
 
 ### 61: [2022-07-28 03:30:44+08:00 推文](https://twitter.com/HeQinglian/status/1552375957826174979)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -681,7 +681,7 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
