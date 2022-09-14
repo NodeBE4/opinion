@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -578,4 +578,40 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
 Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
+
+Re @zhixiangziyou @KELMAND1 广告词我都想好了：<br>4个月前，头上无毛，皱纹满脸（头顶与面部特写镜头）<br>自从饮用了第聂伯河水，再回青年时（头顶与面部特写镜头）<br>第聂伯河水，真好。
+
+### 143: [2022-09-14 11:12:38+08:00 推文](https://twitter.com/HeQinglian/status/1569886814537752578)
+
+Re @FranzMendelsso1 @Wu_Zhi 有个印度裔助理国务卿，战争初期派至印度游说。不知他如何措辞，但将母国惹怒了，不给面子。
+
+### 144: [2022-09-14 11:18:45+08:00 推文](https://twitter.com/HeQinglian/status/1569888353117679619)
+
+Re @realTaoRay 他自己也知道至少是“半派胡言”，因此亲自操刀，修改了四次。
+
+### 145: [2022-09-14 11:39:05+08:00 推文](https://twitter.com/HeQinglian/status/1569893470705225728)
+
+清零成了社会控制的重要手段，疫苗护照是大重置的施瓦布提出的，中国最成功。中国人的迁居自由还未达成（户口制），行动自由先行失去。<br><br>纽约时报中文网: 对于那些不遵守清零规则的人，地方当局的惩罚变得越来越严厉。近几个月来，许多人因没有接受新冠检测而被警方拘留五至10天。8月，陕西的警察将一名20岁的男子拘留五天，原因是他两次没有参加核酸检测，并在外面骑自行车。他们说，他的行为“存在疫情传播风险”。<br> <a href="https://nyti.ms/3TXkMjY" target="_blank" rel="noopener noreferrer">https://nyti.ms/3TXkMjY</a>
+
+### 146: [2022-09-14 11:50:08+08:00 推文](https://twitter.com/HeQinglian/status/1569896252371865600)
+
+Re @KELMAND1 Queer，是送给大重置主要推手查理三世的最好礼物。LGBTQI的Q，不就是Queer吗？今后人家不干政，但会谈气候环保与LGBTQI+，BBC已经预测过这点了。<br>女王本人已登极乐，不管人世间事情。
+
+### 147: [2022-09-14 11:51:10+08:00 推文](https://twitter.com/HeQinglian/status/1569896513412952065)
+
+Re @FranzMendelsso1 @Wu_Zhi 好象是上邦天使派头惹怒了母国接待高官。
+
+### 148: [2022-09-14 11:56:24+08:00 推文](https://twitter.com/HeQinglian/status/1569897830696845314)
+
+Re @Eudorachung @Alexxiaoai 糟了，只怕由美国政府接手，推特更不自由。
+
+### 149: [2022-09-14 12:10:36+08:00 推文](https://twitter.com/HeQinglian/status/1569901403992375296)
+
+Re @xchen62 @david_david1968<br>两位读读经济学人这篇：<br>挪威从欧洲战争中尴尬地获利<br>它应该想办法帮助欧盟度过危机<br><br>挪威一直在谨慎地过自己的美好小日子，尽量减少外部干预与影响，看来全球化-大重置之下，没有国家可以幸免。 <a href="https://www.economist.com/europe/2022/09/08/norway-is-profiting-embarrassingly-from-war-in-europe" target="_blank" rel="noopener noreferrer">https://www.economist.com/europe/2022/09/08/norway-is-profiting-embarrassingly-from-war-in-europe</a>
+
+### 150: [2022-09-14 12:13:13+08:00 推文](https://twitter.com/HeQinglian/status/1569902062145519616)
+
+Re @Tepezano161 放在社会控制这点思考，有半解。<br>但我实在不明白，这样控制社会，对习的统治有何好处？
 

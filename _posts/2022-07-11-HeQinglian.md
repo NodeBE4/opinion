@@ -373,7 +373,7 @@ Re @mayuki753 @NAConservative9 对。还有一点未兑现：说了给黑人奴�
 
 ### 90: [2022-07-14 08:07:07+08:00 推文](https://twitter.com/HeQinglian/status/1547372081888874497)
 
-左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。<br><br>He Qinglian: @NAConservative9 平心而论，那位黑人说拜登骗了他，我觉得没有。<br>除了免除学生贷款，拜登实现了大部分竞选承诺：让8岁小孩自主变性、实施绿色能源政策（关闭页岩油开采）、提高LGBTQI权利、开放边境欢迎移民、增加对底层的福利、花钱搞基建、增加某收入线上的人的税收<br>当然他没说要通胀。但上述措施都要花钱，势必通胀<br>
+左派文化的最大欺骗术就是：人民永远是对的，不会犯错误——人民其实是集合词。作为个人，很难不犯错。<br>美国现状不能说是拜登欺骗了选民，是左派选民发现现实不美妙，但不愿承认这就是他们当初上街闹腾死活也想要的生活，因此就说拜登欺骗了他们。<br>美国最大的问题在于这类人占了42%左右，只是程度不同。
 
 ### 91: [2022-07-14 08:08:38+08:00 推文](https://twitter.com/HeQinglian/status/1547372461217484800)
 
@@ -409,7 +409,7 @@ Re 曾有推友认为我讲40国联军是段子，真不是，就是美国讲过
 
 ### 99: [2022-07-14 08:47:17+08:00 推文](https://twitter.com/HeQinglian/status/1547382189557440513)
 
-这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。
+这句话……，<br>是念稿子还是拜登即兴发挥？白宫发言人能否解释一下？以释天下之疑。<br><br>Newsmax: President Biden, after touching down in Israel on Wednesday, mistakenly said we must keep alive the "honor of the Holocaust," instead of the "horror of the Holocaust." <br><br>Biden also mispronounced the name of the Jerusalem Holocaust museum Yad Vashem.<br><br><video src="https://video.twimg.com/ext_tw_video/1547351417999872001/pu/vid/720x720/sVbxqwFXpVticfYH.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1547351417999872001/pu/img/wNf8BYThTWYdtlcd.jpg"></video> <a href="https://bit.ly/3Ru2PZ7" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ru2PZ7</a>
 
 ### 100: [2022-07-14 10:21:19+08:00 推文](https://twitter.com/HeQinglian/status/1547405851232796672)
 
@@ -417,7 +417,7 @@ Re @dongle_smith @RFI_Cn 这是谴责名单，不是一回事。
 
 ### 101: [2022-07-14 10:29:59+08:00 推文](https://twitter.com/HeQinglian/status/1547408034061815815)
 
-历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>Frank Tian Xie (謝田), Ph.D.: 纽约时报六月卅日报导：普京近来神情“轻松、耐心、自信”，告别数月前“紧张、易怒，甚至心神不定”的他。这戏剧化转变怎么来的？<br> <a href="https://twitter.com/bannedebook/status/1547372813874794496" target="_blank" rel="noopener noreferrer">https://twitter.com/bannedebook/status/1547372813874794496</a>
+历史的经验告诉人们：<br>当年拿破仑要回来了，巴黎的报纸一天换一个标题。<br>第一天：“科西嘉的怪物在儒安港登陆”<br>第二天：“吃人的魔鬼向格腊斯前进”<br>第三天：“篡位者进入格勒诺布尔”<br>第四天：“波拿巴占领里昂”<br>第五天：“拿破仑接近枫丹白露”<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”
 
 ### 102: [2022-07-14 22:04:25+08:00 推文](https://twitter.com/HeQinglian/status/1547582795123343366)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 @ngexp 这倒不是。2017�
 
 ### 123: [2022-07-15 01:28:31+08:00 推文](https://twitter.com/HeQinglian/status/1547634157076918275)
 
-RT He Qinglian<br>斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
+斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
 
 ### 124: [2022-07-15 03:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1547671274280742914)
 
@@ -537,7 +537,7 @@ Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰�
 
 ### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
 
-彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。<br><br>Bloomberg: Is the US in a recession? Here's what you need to know and how to prepare<br> <a href="https://trib.al/L6SduXt" target="_blank" rel="noopener noreferrer">https://trib.al/L6SduXt</a>
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
 
 ### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 

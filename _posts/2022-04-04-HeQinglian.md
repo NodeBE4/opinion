@@ -361,7 +361,7 @@ Re @wen_spring Musk还未进入工作状态。<br>Twitter经营团队说了，�
 
 ### 87: [2022-04-07 01:51:55+08:00 推文](https://twitter.com/HeQinglian/status/1511763649693683716)
 
-Re 附一网友推文：<br><br>Bruccess: @HeQinglian 不是你给的链接错了，是短链接服务崩了，没法解析，<br> <a href="https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953" target="_blank" rel="noopener noreferrer">https://www.servicesaustralia.gov.au/how-to-make-claim-under-covid-19-vaccine-claims-scheme?context=55953</a>
+Re 附一网友推文： <a href="https://twitter.com/bruce_sun/status/1511744704303443974" target="_blank" rel="noopener noreferrer">https://twitter.com/bruce_sun/status/1511744704303443974</a>
 
 ### 88: [2022-04-07 02:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1511765986311036928)
 
@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -989,7 +989,7 @@ Re @HHWyH5IacghLykf 泽连斯基正在攀登他人生的珠穆朗玛峰，这也
 
 ### 244: [2022-04-09 22:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1512806646686306311)
 
-展示一枚头大症。<br>这位头大症以为自己是万国智库，说句话世界都得听。其实，各国是否制裁中国，完全看自己有无能力。世界上没有哪个国家会根据这位头大症的话，让本国民众失业去制裁另一国家。欧盟国家的烦恼正大着呢。
+展示一枚头大症。<br>这位头大症以为自己是万国智库，说句话世界都得听。其实，各国是否制裁中国，完全看自己有无能力。世界上没有哪个国家会根据这位头大症的话，让本国民众失业去制裁另一国家。欧盟国家的烦恼正大着呢。<br><br>Colosseo: 德国也依赖中国市场，按照你这种逻辑美国是不是要放共匪一码，免得误伤盟友？看到没，啧啧，归根结底还是要回到放生党国的逻辑线上。<br> <a href="https://twitter.com/HeQinglian/status/1512804560385028109" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1512804560385028109</a>
 
 ### 245: [2022-04-09 22:59:41+08:00 推文](https://twitter.com/HeQinglian/status/1512807466454630403)
 
