@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -726,4 +726,24 @@ Re @lindahuiyun 泰国人妖的血泪史，20年前是西方媒体聚焦的话�
 ### 178: [2022-09-15 04:25:15+08:00 推文](https://twitter.com/HeQinglian/status/1570146680971853827)
 
 Re @RCIZhongwen 估计10月中下旬结束，因为那时美国国会选举完成。<br>几件大事都会在那时接近终点。
+
+### 179: [2022-09-15 04:53:10+08:00 推文](https://twitter.com/HeQinglian/status/1570153706523336709)
+
+Re @TX15132891 @PZ2OEpoDZvMIky8 不用讽刺，再去查一下地形，除掉山区森林面积（没听说阵地仗在这些地区打），也就一半国土适宜用来打仗。韩战从1950年6月25日开始，1953年7月27日结束，共计3年1个月又2天，一千余天，半个月在7000-8000平公的土地上平一次，你认为还有噍类么？<br>看见这种自以为是的人，就得让他闭嘴。<br>你呢？
+
+### 180: [2022-09-15 04:56:53+08:00 推文](https://twitter.com/HeQinglian/status/1570154643027816448)
+
+Re @Boloberbal @david_david1968 这都是真的，但不是直接战力，主要是情报。
+
+### 181: [2022-09-15 05:06:20+08:00 推文](https://twitter.com/HeQinglian/status/1570157019046334464)
+
+Re @xchen156 我相信，这是经过授意的。<br>他又不想进牢房。
+
+### 182: [2022-09-15 05:47:10+08:00 推文](https://twitter.com/HeQinglian/status/1570167295208730625)
+
+Re @xchen156 “策应”二字，范围可宽可窄。提供无人机与武器，也算策应——这点中国可以做，美欧也无法阻止。<br>只是美欧这几天在乌克兰战事进入关键时期，不希望有任何有利于俄的事情发生，关心则乱。
+
+### 183: [2022-09-15 07:16:21+08:00 推文](https://twitter.com/HeQinglian/status/1570189740745560064)
+
+Re @PZ2OEpoDZvMIky8 @TX15132891 找错了点，何必如此气急败坏？<br>你自己查查，谈的是两天推进5000平公，你说韩战时美军志愿军经常这样，既然经常，我就与你算面积。谁与你谈了整个韩战？<br>关于韩战史，想必你读得不比我多。<br>我是反贼，你是党的人，对么？别来我这啊。
 
