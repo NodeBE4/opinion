@@ -489,7 +489,7 @@ Re @xchen156 我这些天研究了一下关于中国为何要做完全不可能�
 
 ### 119: [2022-05-01 06:54:22+08:00 推文](https://twitter.com/HeQinglian/status/1520537070875328512)
 
-欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
+RT He Qinglian<br>欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
 
 ### 120: [2022-05-01 08:32:16+08:00 推文](https://twitter.com/HeQinglian/status/1520561706983993345)
 
@@ -517,7 +517,7 @@ Re @Lucs24659702 拜登美国价值观的体现，正准备推向全世界。
 
 ### 126: [2022-05-01 20:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1520747918399094784)
 
-Re 拜登美国价值观的体现，正准备推向全世界。<br><br>Lucs: 宾州一所学校的老师为学生举办了一个变装秀，作为LGBT俱乐部的活动一部分。据报告他们没有通知学生父母，Hempfield学区今早确认老师在休假中。<br>该视频是变装活动的一部分。<br><br><video src="https://video.twimg.com/ext_tw_video/1520615927766667265/pu/vid/720x1264/s5cbGltHLiEDHIfy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520615927766667265/pu/img/TdCjSRU-zJNzFP8q.jpg"></video>
+Re 拜登美国价值观的体现，正准备推向全世界。 <a href="https://twitter.com/Lucs24659702/status/1520615972125560832" target="_blank" rel="noopener noreferrer">https://twitter.com/Lucs24659702/status/1520615972125560832</a>
 
 ### 127: [2022-05-01 20:54:52+08:00 推文](https://twitter.com/HeQinglian/status/1520748589139517440)
 

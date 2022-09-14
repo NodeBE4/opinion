@@ -929,7 +929,7 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多�
 
 ### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
 
-RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
 
 ### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
 
@@ -1089,7 +1089,7 @@ Re @NAConservative9 仅有一个州是不够的。<br>应该让法官们都去�
 
 ### 269: [2022-05-08 08:11:34+08:00 推文](https://twitter.com/HeQinglian/status/1523093214990782464)
 
-欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？
+欧美都在转向，<br>欧盟官员称欧盟约60%至80%的人口感染过新冠病毒，美国说是60%。<br>只有加拿大还坚持强制疫苗，中国坚持清零。何不都改变方式，看国民是否形成群体免疫？<br><br>张佩芝Peggy Chang: 近60%美国人有通过感染产生的新冠抗体，美国走出大流行了吗？<br> <a href="https://www.voachinese.com/a/6561629.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/6561629.html</a>
 
 ### 270: [2022-05-08 08:21:52+08:00 推文](https://twitter.com/HeQinglian/status/1523095806827409408)
 
