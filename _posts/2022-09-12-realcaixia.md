@@ -119,3 +119,7 @@ Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等�
 
 民生艰难啊！一个清零封控，断了无数人家的生计。张文宏主任都发出吼声：再封下去，就要崩溃了！为了一个人的强权意志，迫使全国10多亿人付出沉重代价包括生命代价！这是正常国家吗？祸国殃民！<br><br>鲁  难: 当成都未封控的时候，满满的正能量连央视都被感动了。现在，爱心冰柜的爱心依然，不过人似乎掉进了冰柜。明天，你是否依然爱我。<br>
 
+### 27: [2022-09-14 17:10:41+08:00 推文](https://twitter.com/realcaixia/status/1569976921341005826)
+
+<br><video src="https://video.twimg.com/ext_tw_video/1569976888692457472/pu/vid/560x320/jM4XBdpf_XgLIYQm.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1569976888692457472/pu/img/b7NGGQtKNsfmjSms.jpg"></video>
+
