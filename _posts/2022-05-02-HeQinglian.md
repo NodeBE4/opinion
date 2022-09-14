@@ -761,7 +761,7 @@ Re @FranzMendelsso1 @JiangShangrong 这种双重标准不含糊的反贼太多�
 
 ### 187: [2022-05-07 01:00:54+08:00 推文](https://twitter.com/HeQinglian/status/1522622445466886145)
 
-3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲 <a href="https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/web/wjbxw_new/202203/t20220319_10653411.shtml</a> <a href="https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz" target="_blank" rel="noopener noreferrer">https://goglobal.tsinghua.edu.cn/en/news/news.cn/tSyGfjGwTz</a>
+3月份的有类似内容。<br>外交部副部长乐玉成出席第四届战略与安全国际论坛并发表演讲<br>2022-03-19 <br>珍惜和平，团结合作，共赢亚太未来<br>——外交部副部长乐玉成在第四届战略与安全国际论坛的演讲<br><br>jiang shangrong: ‼️🇨🇳中国的强硬声明：西方国家打算利用乌克兰作为“炮灰”来削弱俄罗斯并维持其霸权，——中国外交部副部长乐玉成。<br><br>——看国内新闻的能否核实一下？<br>
 
 ### 188: [2022-05-07 01:09:39+08:00 推文](https://twitter.com/HeQinglian/status/1522624645849096194)
 
@@ -929,7 +929,7 @@ Re @JianglinLi @Coco198946 @JsP7Y8 @Wu_Zhi 先饿死地主、富农，总归多�
 
 ### 229: [2022-05-07 13:51:33+08:00 推文](https://twitter.com/enoughtalk4/status/1522816386875023360)
 
-RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "<br><br>RSBN 🇺🇸: "In this movie, we show that there are at least 400,000 fraudulent votes and when you look at them state by state...And if you re-do the electoral map, you'll see that means that Trump WON the 2020 election." @dineshdsouza<br><br><video src="https://video.twimg.com/amplify_video/1522701583548616704/vid/1280x720/TGKyCj4VljhW_S1L.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1522701583548616704/img/Hi3p1gRxe8tEtw6o.jpg"></video>
+RT matho887<br>拜登集团窃选铁证如山💥💯💥<br><br>“在这部电影中，我们展示了至少有 400,000 张欺诈性选票，当你逐州查看它们时……如果你重新绘制选举地图，你会发现这意味着特朗普赢得了 2020 年的选举。 "
 
 ### 230: [2022-05-07 21:39:51+08:00 推文](https://twitter.com/JiangShangrong/status/1522934236667392000)
 
@@ -1065,7 +1065,7 @@ Re @oldbeijingman 我从不照顾底层逻辑框架，也绝对不会为了屈�
 
 ### 263: [2022-05-08 05:35:06+08:00 推文](https://twitter.com/HeQinglian/status/1523053835467444224)
 
-据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。
+据美国防部公开信息，撤退之前的两年里，美国对阿富汗人进行性多元化教育。<br>因此，阿富汗人得认真考虑：在男女热衷变性与妇女遮面二者之间，哪种方式更可以接受？<br>——他们当然不需要征求阿富汗女性的意见。<br><br>美国之音中文网: 塔利班再度命令阿富汗妇女在公开场合遮面<br> <a href="http://dlvr.it/SPxn67" target="_blank" rel="noopener noreferrer">http://dlvr.it/SPxn67</a>
 
 ### 264: [2022-05-08 05:46:12+08:00 推文](https://twitter.com/HeQinglian/status/1523056629234618369)
 
