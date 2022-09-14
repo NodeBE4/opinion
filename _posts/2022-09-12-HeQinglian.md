@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -614,4 +614,44 @@ Re @xchen62 @david_david1968<br>两位读读经济学人这篇：<br>挪威从�
 ### 150: [2022-09-14 12:13:13+08:00 推文](https://twitter.com/HeQinglian/status/1569902062145519616)
 
 Re @Tepezano161 放在社会控制这点思考，有半解。<br>但我实在不明白，这样控制社会，对习的统治有何好处？
+
+### 151: [2022-09-14 20:49:50+08:00 推文](https://twitter.com/HeQinglian/status/1570032070889447424)
+
+Re @shyj0106 @HuPing1 三种态度：<br>1、如你这般，将希望两国完蛋的愿望表达出来；<br>2、西方媒体与政界，希望习近平不给实质性的援助；<br>3、实事求是，分析两国关系的核心实质，以及双方要什么——我是这种。<br>文中说了，中英日外媒期盼亲俄派乐玉成调离外交口，是中国重视与美国关系的信号，盼了大半年。
+
+### 152: [2022-09-14 21:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1570036400485027840)
+
+冯德莱恩：你把账单送到莫斯科去！ <br>欧洲议会就欧盟年度国情咨文举行听证辩论。法左翼议员Manon Aubry手举一份能源费用账单责问冯：你知道这是什么吗，你知道这个问题多么严重吗？！冯反击称，你最好把账单寄送到莫斯科，他们是罪魁祸首!<br>——折腾出一个无需负责的机构，自找。 <a href="https://rfi.my/8juA.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8juA.T</a>
+
+### 153: [2022-09-14 21:14:51+08:00 推文](https://twitter.com/HeQinglian/status/1570038369589010433)
+
+朔尔茨要求俄罗斯军队完全撤出乌克兰 <br>朔普通话约90分钟。据德总理府消息，朔尔茨向莫斯科提出了一系列要求和警告<br>读后感：和平有望。据法广报道，马克龙此前申斥了普京。面对两大国领导人训斥，普京应该束手受教。再轮到拜登打电话训斥，后果非常严重，投降都找不到门了。 <a href="https://rfi.my/8joz.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8joz.T</a>
+
+### 154: [2022-09-14 21:21:12+08:00 推文](https://twitter.com/HeQinglian/status/1570039964502577152)
+
+Re @david_david1968 台湾这些节目，嘉宾们互相促进，调门越来越高亢，信心也越来越强。
+
+### 155: [2022-09-14 21:24:06+08:00 推文](https://twitter.com/HeQinglian/status/1570040697654476801)
+
+Re @KELMAND1 有件事情，各位可能有所不知。<br>欧盟议会的议员不是民选，是各国政府的政治分配，不必对选民负责。<br>据说美国钦点了不少。
+
+### 156: [2022-09-14 21:25:16+08:00 推文](https://twitter.com/HeQinglian/status/1570040989863010310)
+
+Re @Tepezano161 好题目，为何媒体没想到？但不能加引号，以示真实性。😅
+
+### 157: [2022-09-14 21:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1570041122730409986)
+
+Re @david_david1968 我从来不看，现在终于明白一点了。
+
+### 158: [2022-09-14 21:30:45+08:00 推文](https://twitter.com/HeQinglian/status/1570042368283262977)
+
+Re @shenliangqing2 这是真的还是乌龙新闻？<br>真是低估了美国进步文化的影响力。选这个与中共无关吧？
+
+### 159: [2022-09-14 21:40:45+08:00 推文](https://twitter.com/HeQinglian/status/1570044885855617028)
+
+Re @shenliangqing2 应该是受了美国2020那个变性超模的影响。美国做的，一切都是正确的，必须迎头赶上。
+
+### 160: [2022-09-14 21:45:39+08:00 推文](https://twitter.com/HeQinglian/status/1570046119841001478)
+
+Re @chenbing171819 我觉得暗度陈仓式的支援可能性更大。比如通过伊朗支援无人机，通过北韩援助些什么。
 
