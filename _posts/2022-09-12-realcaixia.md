@@ -111,3 +111,11 @@ Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等�
 
 推荐议报转发孙立平教授的文章。孙立平教授是北京清华大学社会学系的教授，他以独特的视角观察中国社会的观察，提出的思考常有相当的深度以及超前意识。<br><br>孙立平 | 理解眼下：我最近提出的两个概念 - 议报 <a href="https://yibaochina.com/?p=247724" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247724</a>
 
+### 25: [2022-09-14 08:29:55+08:00 推文](https://twitter.com/realcaixia/status/1569845866248241154)
+
+吴淦还有246天才能回家与亲人团聚，吴淦无罪！还吴淦自由！<br><br>王荔蕻💙💛: 今天2022年9月14日 <br> #屠夫吳淦 為捍衛人權、推動社會進步奔走呼號。2015年5月19日被抓，酷刑之後拒絕妥協，以「顛覆國家政權罪罪」惡判八年。數失去自由的日子到今天——吳淦已扛過2675天，距「刑滿」還有246天。 #還吳淦自由 #還所有良心犯自由 #FreeWuGan #言論自由無罪<br><br><img style="" src="https://pbs.twimg.com/media/FckYbPjakAAJurW?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FckYbPaakAESKL2?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FckYbPXaMAIqo8l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FckYbPYacAAdwjL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-09-14 09:11:12+08:00 推文](https://twitter.com/realcaixia/status/1569856257326202886)
+
+民生艰难啊！一个清零封控，断了无数人家的生计。张文宏主任都发出吼声：再封下去，就要崩溃了！为了一个人的强权意志，迫使全国10多亿人付出沉重代价包括生命代价！这是正常国家吗？祸国殃民！<br><br>鲁  难: 当成都未封控的时候，满满的正能量连央视都被感动了。现在，爱心冰柜的爱心依然，不过人似乎掉进了冰柜。明天，你是否依然爱我。<br>
+

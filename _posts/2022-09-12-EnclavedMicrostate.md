@@ -19,3 +19,9 @@ title: EnclavedMicrostate在2022-09-12~2022-09-18的言论
 
 Thanks!
 
+### 795: [One of the narratives I got about (the British experience on the Western Front of) the First World War at school was that the rum ration given to soldiers was a critical part of the war effort, as one would have to be somewhat tipsy to even contemplate going 'over the top'. How much of this is true?](https://old.reddit.com/r/AskHistorians/comments/xc7gc8/one_of_the_narratives_i_got_about_the_british/), submitted on 2022-09-12 16:39:11+08:00.
+
+----- __795.1__ -----2022-09-14 09:48:00+08:00:
+
+Thanks! Seems like it was indeed more of an ad-hoc process than had been presented.
+

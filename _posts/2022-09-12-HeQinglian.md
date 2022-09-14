@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -479,47 +479,103 @@ RT zhix<br>Re @JianglinLi @ZLKYBNt9u0RgiDG @Isabel_3299 新左派理论核心�
 
 Re @Wu_Zhi @JianglinLi @Cuperti62009250 要什么样的结局，由美乌共同决定。<br>这个你得看看。早在2014年美国情报公司Stratfor董事乔治·弗里德曼（George Friedman）发表了一份报告《乌克兰、伊拉克和黑海战略》。<br><br>所有的战略都在一步步实施。也因此，不主战的美国俄罗斯专家讲不上话。 <a href="https://worldview.stratfor.com/article/ukraine-iraq-and-black-sea-strategy" target="_blank" rel="noopener noreferrer">https://worldview.stratfor.com/article/ukraine-iraq-and-black-sea-strategy</a>
 
-### 117: [2022-09-14 01:40:34+08:00 推文](https://twitter.com/HeQinglian/status/1569742851071950853)
+### 117: [2022-09-14 00:19:46+08:00 推文](https://twitter.com/Wu_Zhi/status/1569722516788084736)
+
+RT zhix<br>Re @JianglinLi @ZLKYBNt9u0RgiDG @Isabel_3299 道德跨越边界：道德败坏<br>审美跨越边界：审丑<br>性别跨越边界：LGBT……<br>历史跨越边界：改历史为传说<br><br>😆
+
+### 118: [2022-09-14 01:40:34+08:00 推文](https://twitter.com/HeQinglian/status/1569742851071950853)
 
 遗漏了路透社这条消息：<br>根据欧盟轮值主席国捷克发布的一份会议摘要，欧盟能源部长会议上，对俄罗斯天然气价格进行限制的提议并未赢得欧盟国家的广泛支持。<br>摘要显示，各国部长们要求欧盟委员会准备好其他的紧急措施，如规定更为广泛的天然气价格上限，而不是专门针对俄罗斯。 <a href="https://www.reuters.com/business/energy/eu-countries-seek-emergency-solution-soaring-energy-bills-2022-09-09/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/business/energy/eu-countries-seek-emergency-solution-soaring-energy-bills-2022-09-09/</a>
 
-### 118: [2022-09-14 04:17:32+08:00 推文](https://twitter.com/HeQinglian/status/1569782352397889536)
+### 119: [2022-09-14 04:17:32+08:00 推文](https://twitter.com/HeQinglian/status/1569782352397889536)
 
 Re @yu_su_chen @Cuperti62009250 🙏<br>我尽量努力。
 
-### 119: [2022-09-14 04:29:14+08:00 推文](https://twitter.com/HeQinglian/status/1569785296782237697)
+### 120: [2022-09-14 04:29:14+08:00 推文](https://twitter.com/HeQinglian/status/1569785296782237697)
 
 Re @xchen62 那天看到一消息，挪威已经同意了。不过，不是路透、彭博消息。你去查证一下。
 
-### 120: [2022-09-14 04:33:37+08:00 推文](https://twitter.com/HeQinglian/status/1569786397996769281)
+### 121: [2022-09-14 04:33:37+08:00 推文](https://twitter.com/HeQinglian/status/1569786397996769281)
 
 Re @FangYiDuan1 商品供求分卖方市场与买方市场，供过于求，有利于买方则是买方市场；供不应求，就是卖方市场。定价权在占据有利地位的一方手中。<br>目前欧盟可能还没弄清楚世界能源供求格局有利于哪一方。自己虽然是买方，不高兴就送顶能源敲诈的帽子给卖方，政治正确压死人——国内政治操作的老套路。
 
-### 121: [2022-09-14 04:39:20+08:00 推文](https://twitter.com/HeQinglian/status/1569787839461588992)
+### 122: [2022-09-14 04:39:20+08:00 推文](https://twitter.com/HeQinglian/status/1569787839461588992)
 
 上合普习会为何举世瞩目？<br><br>本文回溯了近10余年中俄关系的变化，指出自克里米亚危机之后，两国小心经营这份原来俄不太Care的关系，达成了地缘政治与能源方面的合作。如今世界多极化格局已经形成，美欧还在留恋西方主导世界格局的昔日辉煌，中俄却已看清自己需要谋求的新位势。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-09132022134809.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-09132022134809.html</a>
 
-### 122: [2022-09-14 04:45:18+08:00 推文](https://twitter.com/HeQinglian/status/1569789339042828296)
+### 123: [2022-09-14 04:45:18+08:00 推文](https://twitter.com/HeQinglian/status/1569789339042828296)
 
 Re @xchen62 你这条应该是真实的。因为我那天是推上看了一眼，没去查证。<br>挪威就那点资源，限量开采，小心使用，维持国民的生活水准，今年已经被资源穷亲戚与远亲惦记好几回了。😅<br>BTW，美国的黑海战略目标之一，就是让俄罗斯的运输管道阻断，削弱其资源供应国地位。
 
-### 123: [2022-09-14 04:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1569790337400582145)
+### 124: [2022-09-14 04:49:16+08:00 推文](https://twitter.com/HeQinglian/status/1569790337400582145)
 
 Re @shenliangqing2 还有七个样板戏。最方便搬上美国芭蕾舞台的还有《红色娘子军》，现成。<br>如果再改编加进LGBTQ元素，洪常青多角恋，准保卖座。
 
-### 124: [2022-09-14 04:51:29+08:00 推文](https://twitter.com/HeQinglian/status/1569790896748601348)
+### 125: [2022-09-14 04:51:29+08:00 推文](https://twitter.com/HeQinglian/status/1569790896748601348)
 
 Re @david_david1968 你与ukdadie（陈昕舟）<br>@xchen62做个节目，谈谈欧盟能源限价的角色错位。<br>只是这种专业性的解析，不合大众胃口。
 
-### 125: [2022-09-14 05:00:59+08:00 推文](https://twitter.com/HeQinglian/status/1569793286658822144)
+### 126: [2022-09-14 05:00:59+08:00 推文](https://twitter.com/HeQinglian/status/1569793286658822144)
 
 Re @johnxie414 @JianglinLi @Cuperti62009250 多谢。我这个园子里理性的推友多一些，欢迎常来。
 
-### 126: [2022-09-14 05:02:37+08:00 推文](https://twitter.com/HeQinglian/status/1569793697864159234)
+### 127: [2022-09-14 05:02:37+08:00 推文](https://twitter.com/HeQinglian/status/1569793697864159234)
 
 Re @david_david1968 邀请了习近平么？
 
-### 127: [2022-09-14 07:01:42+08:00 推文](https://twitter.com/HeQinglian/status/1569823665889443848)
+### 128: [2022-09-14 07:01:42+08:00 推文](https://twitter.com/HeQinglian/status/1569823665889443848)
 
 Re @POPSKY9999 越接近真相，越少心灵鸡汤，越让人不舒服。<br>失败者当然不是一无是处。中国古代与日本文化都尊重失败的英雄<br>迦太基名将汉尼拔是位一生从未打过败仗的统帅，但最后因国亡而失败，后世都给予他极高的尊重。<br>以中共国史来说，失败的地主资产阶级全成了剥削者，十一次党内路线斗争的中共党领导是什么形象？
+
+### 129: [2022-09-14 08:31:54+08:00 推文](https://twitter.com/HeQinglian/status/1569846367387893761)
+
+Re @lindahuiyun 这些身为人母者，最好想到自己的孩子是个人，而不是她的玩具。
+
+### 130: [2022-09-14 08:42:09+08:00 推文](https://twitter.com/HeQinglian/status/1569848945282805760)
+
+Re @Victori59552046 @EQ392766 求真实不等于不支持乌克兰与支持俄罗斯。<br>看来，在你们心目中，乌克兰需要用谎言维护。<br>到此为止。我的原则是宁与智者争高下，后面那半句，不说了。
+
+### 131: [2022-09-14 08:44:43+08:00 推文](https://twitter.com/HeQinglian/status/1569849591431942146)
+
+Re @lindahuiyun 西方近代启蒙最大的成就是确立了“人是目的”。现在倒好，蜕变为“人是工具”——这是马克思主义的精髓。
+
+### 132: [2022-09-14 08:49:04+08:00 推文](https://twitter.com/HeQinglian/status/1569850687302914049)
+
+Re @david_david1968 以前，常常觉得美国的近邻拉美不能与美国维持好关系是个遗憾，养成了一个反美反殖的左派文化圈。现在突然觉得有点距离好，至少不能直接去推销LGBTQI+CRT+大麻毒品这类进步文化。<br>哥伦比亚黑帮贩毒，但本帮人吸毒绝对严处——毒品是用来赚钱害他人的，不是用来害本国人民的。
+
+### 133: [2022-09-14 08:55:20+08:00 推文](https://twitter.com/HeQinglian/status/1569852260582313984)
+
+Re @lindahuiyun 这些家庭会有福报的。那些戏精家族，表演时的快感，会被子女将来的种种恶习折腾——没什么好怨恨，因为这是她们这些做父母的所求所愿。<br>人一辈子，老了就是子女运。
+
+### 134: [2022-09-14 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1569853650666770434)
+
+Re @david_david1968 印度人在电视里一开始就说，这是拜登的战争。
+
+### 135: [2022-09-14 09:02:15+08:00 推文](https://twitter.com/HeQinglian/status/1569854001247576070)
+
+Re @lindahuiyun @JianglinLi 是王妻李银河吧？她那三本书与我在同一家出版社，我去北京时，正好在出版社遇见她。
+
+### 136: [2022-09-14 09:10:56+08:00 推文](https://twitter.com/HeQinglian/status/1569856187272658946)
+
+Re @lindahuiyun @JianglinLi 关于这二位的传说，有机会见面谈。
+
+### 137: [2022-09-14 09:18:39+08:00 推文](https://twitter.com/HeQinglian/status/1569858129935884289)
+
+Re @KELMAND1 我那里来了一个推主，死活说是中将，而且他核实了。另一位推友贴出几个月前的照片对比，一看就知道这位被抓的“中将”年轻了20岁，秃顶还长出头发了。<br>还有一位的推主顺便将刚卸任的俄驻华大使的名字送给了这位中将。<br>愿他们在这些自造的胜利消息中得到快乐。
+
+### 138: [2022-09-14 09:29:25+08:00 推文](https://twitter.com/HeQinglian/status/1569860839728971776)
+
+Re @KELMAND1 我正在考虑提个建议，弄个什么驻颜生发水，让这位“中将”拍广告，两张照片一对比，说饮用了第聂伯河的水，几个月年轻20岁，秃顶再生黑发。<br>欧美人现在富而无聊，不是折腾变性就是驻颜，比如希拉里花很多钱在这上面，是门生财之道。第聂伯河水取之不尽，成本就是塑料瓶与广告费，再加上人工与物流，很低
+
+### 139: [2022-09-14 09:41:50+08:00 推文](https://twitter.com/HeQinglian/status/1569863965353574400)
+
+Re @PZ2OEpoDZvMIky8 @TX15132891 我确实读书太少，因此刚才查了一下，朝鲜国土12万平方公里，南韩10万，其计22万平方公里。<br>攻势猛得多，这是两天5000平方公里，那就加码吧，两天7000-8000平方公里，不用几天，两韩就平了。<br>不对呀，打了好几年。美军、志愿军这么来回平，那地一定没人了。<br>对不起啊，我爱较个真，尤其是喜欢数字上较真
+
+### 140: [2022-09-14 09:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1569865155642626049)
+
+Re @FranzMendelsso1 人生大戏台，戏台小人生。
+
+### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
+
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
