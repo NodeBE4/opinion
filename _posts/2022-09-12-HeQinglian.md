@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-14
+date: 2022-09-15
 from: https://twitter.com/HeQinglian/status/1569005344608731144
 layout: post
 tags:
@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -666,4 +666,64 @@ Re @mayuki753 @david_david1968 不是。老熟人，不过，如今台湾面临�
 ### 163: [2022-09-14 22:14:35+08:00 推文](https://twitter.com/HeQinglian/status/1570053399063957504)
 
 Re @Tepezano161 @chenbing171819 从基辛格时代开始，美国对中、苏（俄）、伊朗、朝鲜的外交策略就是一条：不能让这些国家结盟，尤其是不能让中俄结盟。老一代美国外交专家基本都是这样做的。<br>拜登这两年，终于将中俄结盟变成现实。其实，美国再强大，同时对付两个核大国，还是非常吃力，更何况欧洲盟友的相对实力远不如中苏冷战时期。
+
+### 164: [2022-09-15 01:33:54+08:00 推文](https://twitter.com/HeQinglian/status/1570103560242663425)
+
+Re @KELMAND1 纠正一下，此推本是想说冯德莱恩做主席的欧盟委员会，这个机构的成员不是通过选举产生。<br>欧盟各机构当中，唯一通过选举产生的机构是欧洲议会，但欧洲议会是个议事机构，不是权力机构。
+
+### 165: [2022-09-15 01:54:46+08:00 推文](https://twitter.com/HeQinglian/status/1570108811356037122)
+
+纽时文三要点：<br>1、九月反攻的时间计算，第一场雪之前，不能让普京利用能源威胁欧盟<br>2、非全面进攻，而是两个点，赫尔松，哈尔科夫附近。美国提供了关于俄军的准确的情报<br>乌方未提供方案细节，美方怀疑，乌方用寻求建议的方式与美方商量。但美方仍然认为是场极大赌注的豪赌 <a href="https://www.nytimes.com/2022/09/10/us/politics/ukraine-military-intelligence.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/2022/09/10/us/politics/ukraine-military-intelligence.html</a>
+
+### 166: [2022-09-15 01:55:40+08:00 推文](https://twitter.com/HeQinglian/status/1570109038997782530)
+
+Re @mayuki753 @david_david1968 台湾政论家当中，水平最高的。
+
+### 167: [2022-09-15 02:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1570111303578185728)
+
+Re 另，纽约时报这篇据说多位参加战前会议者透露的文章说了。乌军因军力不够，对俄撤退之后的地方无法形成有效占领，美方已估计到。因此，三天内 6000平方公里的收复，小泽说得高兴，美方未必真信——欧盟法德是否相信，不清楚。<br>CNN数月前文章谈过，美方并不真相信乌方报的武器损耗数据，但承认无法查实。
+
+### 168: [2022-09-15 02:14:25+08:00 推文](https://twitter.com/HeQinglian/status/1570113756385910785)
+
+Re @FangYiDuan1 纽约有两篇，四天前与一天前，四天前那篇也是信心爆棚；这篇给美国留的余地大多了。<br>目前，西媒不报 俄军反攻消息，姜尚荣电报与推上有位Mao有。估计半个月后见分晓，在10月初雪之前再打一轮的可能性不太大了。
+
+### 169: [2022-09-15 02:16:13+08:00 推文](https://twitter.com/HeQinglian/status/1570114208737677313)
+
+Re @TomMa07952688 不是11月，初雪估计在10月上中旬，是按纬度计算的。<br>我觉得其实是美国中选前最后动员选民时间段，不好这么说，就说成初雪。
+
+### 170: [2022-09-15 02:21:58+08:00 推文](https://twitter.com/HeQinglian/status/1570115656720195584)
+
+Re @HuPing1 态度一直非常明确，只是西方有所期待。<br>这次上合会面，有个因素西方必须知道：佩洛西访台这仇记下了，目前美国正在制订台湾政策法案。<br>栗战书那句逼到墙角，不是只说俄罗斯，而是中共自家感受。
+
+### 171: [2022-09-15 02:26:56+08:00 推文](https://twitter.com/HeQinglian/status/1570116907151360000)
+
+Re @FangYiDuan1 不要相信媒体报道的朔尔茨与普京电话中谈的警告之类，90分钟电话，普京德语很好，不用翻译。这话最多10分钟，其余时间谈什么，朔尔茨心里清楚。他至今不肯按美国要求支持武器，其实就是留有余地。另外，纽时文中谈的时间点，其实就是美国担心天冷了，欧盟因能源需要软下来，不再支持乌战，所以要抢时间
+
+### 172: [2022-09-15 02:28:42+08:00 推文](https://twitter.com/HeQinglian/status/1570117352469004288)
+
+Re @david_david1968 这法子可行，由台湾负担军费即可。
+
+### 173: [2022-09-15 04:12:09+08:00 推文](https://twitter.com/HeQinglian/status/1570143383259123716)
+
+Re @FangYiDuan1 媒体只报道了马克龙与朔尔茨都对普京发出严重警告，要求全撤的事情。但两次谈话时间都很长，马克龙那次我没多想，因为双方都需要翻译，费时间。这次通话，我突然想起普京年轻时在KGB驻柏林工作站，德语很好。<br>工业方面，有色金属行业已经一半关停了。
+
+### 174: [2022-09-15 04:13:19+08:00 推文](https://twitter.com/HeQinglian/status/1570143680698396672)
+
+Re @HesserPlato 你还想管控他人思想？
+
+### 175: [2022-09-15 04:18:43+08:00 推文](https://twitter.com/HeQinglian/status/1570145039053107201)
+
+Re @sncm439 @HuPing1 从台湾立场来看，是自己的危境日深；从中共立场来看，台湾是“自家省份”，美国天天承诺一个中国政策没变，却不断施加压力。中共好面子，佩洛西访台，撕了中国脸皮，还要制订支持台湾的法案，中共当然会这么想。<br>中共不会站在台湾立场想问题，台湾也不会站在中国立场想问题。
+
+### 176: [2022-09-15 04:20:28+08:00 推文](https://twitter.com/HeQinglian/status/1570145478033145857)
+
+Re @Peter205815 @HuPing1 中共目前不会攻打台湾，但必然会通过支持俄罗斯，为美国打赢乌战增加困难。
+
+### 177: [2022-09-15 04:24:01+08:00 推文](https://twitter.com/HeQinglian/status/1570146370501099524)
+
+Re @lindahuiyun 泰国人妖的血泪史，20年前是西方媒体聚焦的话题。
+
+### 178: [2022-09-15 04:25:15+08:00 推文](https://twitter.com/HeQinglian/status/1570146680971853827)
+
+Re @RCIZhongwen 估计10月中下旬结束，因为那时美国国会选举完成。<br>几件大事都会在那时接近终点。
 

@@ -17,11 +17,11 @@ title: 'Twitter @中国文字狱事件盘点: 2021-12-06~2021-12-12'
 
 ### 1: [2021-12-08 13:33:22+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1468453628440715264)
 
-2018年10月，南京市新街口街道几栋建筑物通过灯光打出了“邓煌，生日快乐“的文字，有传闻称这是市委书记张敬华为他的情人邓煌庆生，花了600万元。邓的单位紧急辟谣，并称警察已经处理了造谣者。直到三年后的近日，张敬华因贪腐落马，当时的灯光秀“谣言”才被证明其实是真的，但官方没有为“造谣者”平反。<br><img style src="https://pbs.twimg.com/media/FGD85ndWYAEszkg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD89USXsAA2GBV?format=jpg&name=orig" referrerpolicy="no-referrer">
+2018年10月，南京市新街口街道几栋建筑物通过灯光打出了“邓煌，生日快乐“的文字，有传闻称这是市委书记张敬华为他的情人邓煌庆生，花了600万元。邓的单位紧急辟谣，并称警察已经处理了造谣者。直到三年后的近日，张敬华因贪腐落马，当时的灯光秀“谣言”才被证明其实是真的，但官方没有为“造谣者”平反。<br><img style="" src="https://pbs.twimg.com/media/FGD85ndWYAEszkg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD89USXsAA2GBV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-08 13:38:59+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1468455041170386947)
 
-3 years ago, someone spread a "rumor" that a government officer in Nanjing spent 6 million RMB to celebrate his secret lover's birthday. Police immediately arrested & punished the one who spread the "rumor". The officer was arrested recently, and the rumor was revealed true.<br><img style src="https://pbs.twimg.com/media/FGD-2VbWUAISsDb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD-4EOXwAYqPOF?format=jpg&name=orig" referrerpolicy="no-referrer">
+3 years ago, someone spread a "rumor" that a government officer in Nanjing spent 6 million RMB to celebrate his secret lover's birthday. Police immediately arrested & punished the one who spread the "rumor". The officer was arrested recently, and the rumor was revealed true.<br><img style="" src="https://pbs.twimg.com/media/FGD-2VbWUAISsDb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD-4EOXwAYqPOF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-10 12:43:34+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469165872279400449)
 
@@ -33,7 +33,7 @@ Jiangxi man Sun administratively detained for referring to police as bandits in 
 
 ### 5: [2021-12-11 17:15:16+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469596636880019458)
 
-2020年初，湖北利川市人士肖某，在驾车回家途中发现公路被人用车拦住，车上的标识显示这是当地政府的防疫措施。肖某联系该车主（村干部）要求挪车让行，村干部拒绝并让其绕路回家。肖某绕路两小时回家后，越发气愤，便打电话给该村干部对其辱骂长达两分钟。次日，肖某被以寻衅滋事为罪名拘留7日。<br><img style src="https://pbs.twimg.com/media/FGUNK3RWYAEOR63?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGUNNe-XsAIa5xx?format=jpg&name=orig" referrerpolicy="no-referrer">
+2020年初，湖北利川市人士肖某，在驾车回家途中发现公路被人用车拦住，车上的标识显示这是当地政府的防疫措施。肖某联系该车主（村干部）要求挪车让行，村干部拒绝并让其绕路回家。肖某绕路两小时回家后，越发气愤，便打电话给该村干部对其辱骂长达两分钟。次日，肖某被以寻衅滋事为罪名拘留7日。<br><img style="" src="https://pbs.twimg.com/media/FGUNK3RWYAEOR63?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGUNNe-XsAIa5xx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-11 17:24:23+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1469598928555413504)
 
