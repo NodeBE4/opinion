@@ -97,7 +97,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 21: [2022-01-01 08:05:26+08:00 推文](https://twitter.com/realcaixia/status/1477068411666669581)
 
-发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style="" src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
+发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
@@ -105,7 +105,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 
