@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -37,7 +37,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -105,7 +105,7 @@ Re @yangjianli001 哈哈！
 
 ### 23: [2022-04-20 02:29:10+08:00 推文](https://twitter.com/realcaixia/status/1516484065544708098)
 
-上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！
+上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
@@ -153,7 +153,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 35: [2022-04-22 21:57:59+08:00 推文](https://twitter.com/realcaixia/status/1517502982350249984)
 
-大眼是热血贲张悲悯满怀的真诚坦荡的人。<br><br>菲菲4.0: 上海是什么？上海就是她面前奔腾而过的那条大河，漂过太平天国军队的战船，漂过洋枪队，漂过英勇抗战的淞沪战役将士遗体，漂过张爱玲，她只想了一秒钟，就知道自己还是喜欢穿着漂亮旗袍而不是蓝灰军装，迅速收拾好行李，从此地而香港，而遥远的彼岸，连信都不想再写一封。。<br> <a href="https://www.aboluowang.com/2022/0422/1738332.html" target="_blank" rel="noopener noreferrer">https://www.aboluowang.com/2022/0422/1738332.html</a>
+大眼是热血贲张悲悯满怀的真诚坦荡的人。
 
 ### 36: [2022-04-22 22:39:52+08:00 推文](https://twitter.com/realcaixia/status/1517513521218662400)
 
@@ -177,7 +177,7 @@ Re 文章充满悲愤但不止于悲愤！<br>我的推特引言第三段文字�
 
 ### 41: [2022-04-23 07:18:26+08:00 推文](https://twitter.com/realcaixia/status/1517644022205980680)
 
-四月之声！2020年春武汉再现！<br><br>freelysiumeu: @realcaixia<br> <a href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664" target="_blank" rel="noopener noreferrer">https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/98184146930795487353300674104408349111337395201102057100202626976557421298664</a>
+四月之声！2020年春武汉再现！
 
 ### 42: [2022-04-23 09:12:30+08:00 推文](https://twitter.com/realcaixia/status/1517672730711281664)
 
@@ -189,15 +189,15 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 44: [2022-04-23 11:34:05+08:00 推文](https://twitter.com/realcaixia/status/1517708362615468033)
 
-这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。<br><br>QWERTY: 臥槽，一個保姆，做飯的阿姨，環球出手啦，國家隊出手啦，哈哈哈哈不是真的才怪😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FQ2RJ67aQAADvJW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
-上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。
+上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。<br><br>Voice From Germany 德國之音🎗️: 上海市民集体转发 #四月之声 视频，中共吓得命令腾讯公司紧急开发 “同城”朋友圈。重庆用户看不到上海用户的朋友圈了<br><br><video src="https://video.twimg.com/ext_tw_video/1517691410161577985/pu/vid/592x1280/J0Zla5NHPr663hhe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517691410161577985/pu/img/k1rpeTGDv9EDAQpf.jpg"></video>
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
-普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。
+普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。<br><br>💙NiKITa💛🇺🇦🇪🇺: 今日普丁，👀腿<br><br><video src="https://video.twimg.com/ext_tw_video/1517900449483005954/pu/vid/624x352/OO3ARYTE93ktNC5L.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517900449483005954/pu/img/RfL1S1xH_OMPQrdM.jpg"></video>
 
 ### 47: [2022-04-24 22:29:10+08:00 推文](https://twitter.com/realcaixia/status/1518235606777704449)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
 

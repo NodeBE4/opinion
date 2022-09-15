@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -826,4 +826,20 @@ Re @kbclindy 延安群众爱看扭秧歌、打腰鼓。听京剧与昆曲，要�
 ### 203: [2022-09-16 00:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1570442889171271681)
 
 Re @KELMAND1 这事，是欧盟自身的事情。当初就应该向美国商谈这方面问题，然后再决定是否参加全方位的经济制裁。<br>美国如果未承诺什么，真是只能怨自己。<br>毕竟，大重置刚开始，各国政府还是独立主权，美国不是欧盟“各省”的“中央政府”。选民选出不对本国负责的政府，只能说这种选民也有问题。
+
+### 204: [2022-09-16 01:39:44+08:00 推文](https://twitter.com/HeQinglian/status/1570467417842937856)
+
+Re @Wu_Zhi 现在的新闻评论，不说社媒，就算专业媒体的政论写手，也总是将自己的想象当作现实。
+
+### 205: [2022-09-16 01:45:44+08:00 推文](https://twitter.com/HeQinglian/status/1570468926357897216)
+
+Re @19970sina 你去看《张国焘回忆录》吧。这是在延安发生的事情，张国焘的儿子被学校分配扮演黄世仁。<br>李银桥当毛的卫士长，是在北京中南海，延安的卫士长（警卫团团长后期是汪东兴，胡宗南进攻延安后）。
+
+### 206: [2022-09-16 01:51:22+08:00 推文](https://twitter.com/HeQinglian/status/1570470345508790277)
+
+Re @Tianshuihanyan 他们其实应该说，我们不稀罕什么公主、王子头衔。因为殖民帝国的历史让我们感到耻辱。
+
+### 207: [2022-09-16 01:53:32+08:00 推文](https://twitter.com/HeQinglian/status/1570470889774252033)
+
+Re @19970sina 已经说了是两件事情。你去找一下高华的红太阳，其中也提到张毛交恶的这件事情。
 
