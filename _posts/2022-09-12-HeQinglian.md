@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -746,4 +746,24 @@ Re @xchen156 “策应”二字，范围可宽可窄。提供无人机与武器�
 ### 183: [2022-09-15 07:16:21+08:00 推文](https://twitter.com/HeQinglian/status/1570189740745560064)
 
 Re @PZ2OEpoDZvMIky8 @TX15132891 找错了点，何必如此气急败坏？<br>你自己查查，谈的是两天推进5000平公，你说韩战时美军志愿军经常这样，既然经常，我就与你算面积。谁与你谈了整个韩战？<br>关于韩战史，想必你读得不比我多。<br>我是反贼，你是党的人，对么？别来我这啊。
+
+### 184: [2022-09-15 08:33:32+08:00 推文](https://twitter.com/HeQinglian/status/1570209165036998658)
+
+Re @VDWA5VrjwKlvCsW @chenbing171819 你看这篇，挺有意思，其中有个细节很好玩。<br><br>DW 中文- 德国之声: 乌克兰战场上的 #大疆无人机<br>高科技无人机在现代战争中发挥着越来越重要的作用。然而，在乌克兰战场上，俄乌双方都更多选择现成出售的大疆无人机。基辅指责大疆将一个重要的追踪软件只提供给俄军。中国公司大疆则否认偏袒俄方。目前，乌克兰黑客已经出手。<br><br><video src="https://video.twimg.com/amplify_video/1569678808575315970/vid/1280x720/94AiA3wxVOcFe7Zp.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1569678808575315970/img/yvWwdw_ythZzfs3d.jpg"></video>
+
+### 185: [2022-09-15 08:41:03+08:00 推文](https://twitter.com/HeQinglian/status/1570211057460813824)
+
+Re @chenweijian2011 你就等着看吧。说不定梦想成真。😂
+
+### 186: [2022-09-15 08:48:04+08:00 推文](https://twitter.com/HeQinglian/status/1570212821610160128)
+
+Re @franktianxie 这也算围魏救赵之计，让俄罗斯无法首尾相顾。
+
+### 187: [2022-09-15 09:16:56+08:00 推文](https://twitter.com/HeQinglian/status/1570220086320939010)
+
+关于习普会有多种猜测。其实，明天就揭盅了。<br>“策应”之说，范围可宽可窄。如今世界领导人无论面谈还是电话，双方都只挑自己愿意公诸于世的说。<br>我能断定的是，习近平一定不会与俄保持西方希望的距离，尽管有人很智慧地说：长远来看，中国希望弱化俄罗斯。<br>那得多长远？至少目前中国不希望俄罗斯弱化。
+
+### 188: [2022-09-15 09:18:07+08:00 推文](https://twitter.com/HeQinglian/status/1570220386020741122)
+
+Re @RFI_TradCn 俄罗斯太穷了，这点钱根本上不了台面。
 

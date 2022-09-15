@@ -135,3 +135,7 @@ Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等�
 
 特别推荐：#议报转发自网刊杂志“北京之春”发表的作者高瞻文章《我所知道的胡春华 》<br>临近中共20大，胡春华也是人们关注的热点人物之一。作者文章从北大同学的视角，回顾并评论了胡春华与李克强各自有交接有分叉的人生经历。值得一读。特别与网友们分享。 <a href="https://yibaochina.com/?p=247748" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247748</a>
 
+### 31: [2022-09-15 11:00:41+08:00 推文](https://twitter.com/realcaixia/status/1570246196224225281)
+
+请听墙里网友如何评价中共70多年的执政。<br>40年倒退！评价中共的贡献，不可以文过饰非！ <a href="https://youtube.com/shorts/s-dR75Xu-1o?feature=share" target="_blank" rel="noopener noreferrer">https://youtube.com/shorts/s-dR75Xu-1o?feature=share</a>
+
