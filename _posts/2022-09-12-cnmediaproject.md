@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-14
+date: 2022-09-15
 from: https://twitter.com/cnmediaproject/status/1569181612239355906
 layout: post
 tags:
@@ -30,4 +30,8 @@ Re “The US dog politicians are madly barking again,” said one comment. “Fi
 ### 4: [2022-09-14 12:23:49+08:00 推文](https://twitter.com/henrysgao/status/1569904728548716544)
 
 RT Henry Gao<br>Note that the exact word he used for assistance is 策应, which means:<br>1. Cooperate with each other in battle against the enemy;<br>2. Support one's own side by creating momentum in public opinion or action during the battle<br><img style="" src="https://pbs.twimg.com/media/Fclr0KmaAAAD42v?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><br>Henry Gao: China’s NPC Chairman Li Zhanshu:<br>“The US and NATO threatened Russia at its home door, forcing it into a corner. It’s only natural for Russia to fight back to protect its core national interest. China fully understands Russia and has assisted Russia in various ways. ”<br><br><video src="https://video.twimg.com/ext_tw_video/1569865656551751682/pu/vid/960x544/7CnemEnH4g_vMhrr.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1569865656551751682/pu/img/oO5nRblr2OJPrT1F.jpg"></video>
+
+### 5: [2022-09-15 12:32:27+08:00 推文](https://twitter.com/cnmediaproject/status/1570269289353203712)
+
+Incredible look at how "speaking politics" overrides basic science.<br><br>Xifan Yang 杨希璠: After 8 nights of quarantine in an empty apartment block I’m being released for 3 nights of home quarantine. While walking towards the 🚑 (!) that drove me home, this ghostbusters fellow tailed me all the way disinfecting every inch I’d stepped on. Who came up with this crap?<br><br><img style="" src="https://pbs.twimg.com/media/FcqoWPYaIAEIdo6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcqoWPXagAE-tIu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
