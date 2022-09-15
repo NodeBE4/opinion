@@ -85,7 +85,7 @@ Re 请点击最上推文中的完整链接，可以观看电影《一九八四�
 
 ### 18: [2022-07-29 09:13:26+08:00 推文](https://twitter.com/realcaixia/status/1552824587611766784)
 
-支持王爱忠律师！支持王爱忠律师夫人王贺楠女士。很多朋友在关心着王爱忠律师的情况。
+支持王爱忠律师！支持王爱忠律师夫人王贺楠女士。很多朋友在关心着王爱忠律师的情况。<br><br>王贺楠: 第一次在室外录视频还有些不习惯，一会儿律师会见爱忠。<br><br><video src="https://video.twimg.com/ext_tw_video/1552480365045895168/pu/vid/720x960/yI3fa0VZQCJZCC60.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552480365045895168/pu/img/AVjw0XaT5rD2h28T.jpg"></video>
 
 ### 19: [2022-07-29 09:16:30+08:00 推文](https://twitter.com/realcaixia/status/1552825358306742273)
 

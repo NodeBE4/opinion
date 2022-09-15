@@ -57,7 +57,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 11: [2021-12-09 09:57:27+08:00 推文](https://twitter.com/realcaixia/status/1468761680972759042)
 
-丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
+丁家喜律师的夫人罗胜春女士很了不起！<br><br>Luo Shengchun丁家喜律师妻子: #世界人权日到来之际DC行 （2）会上我以许志永和丁家喜案为例讲述了中共当局对中国公民运动的打压，讲述了标榜已实现全程民主的厉害国如何害怕其公民有自己的声音和态度。讲述厉害国公民如何因言论、聚会，及倡导践行宪法赋予公民的权利被失踪，被酷刑，被指控颠覆的故事，呼吁无罪释放许志永丁家喜！<br><br><img style="" src="https://pbs.twimg.com/media/FGD3YaMX0AA7Tlq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3Yf2WYAAA6M1?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGD3YflX0AMPZAN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
