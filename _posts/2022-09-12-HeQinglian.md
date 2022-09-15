@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-15
+date: 2022-09-16
 from: https://twitter.com/HeQinglian/status/1569005344608731144
 layout: post
 tags:
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -775,31 +775,55 @@ Re @xiaxiaoqiang 布拉格有个酒吧，里面全是各种年代的钟装饰，
 
 Re @suwoluofu123 @Peter205815 @HuPing1 完全不是。但双方都得调整何谓赢的标准。<br>这次俄罗斯被迫改变战略，将占领改为弃守，反而少了负担。占领，需要军力、经济支持，还需要行仁政收人心，是个非常复杂的工程（看你的推文，你深知此中得失）。<br>兵无常法，有时需要“善败”。
 
-### 191: [2022-09-15 21:54:49+08:00 推文](https://twitter.com/HeQinglian/status/1570410814380855298)
+### 191: [2022-09-15 20:02:03+08:00 推文](https://twitter.com/NAConservative9/status/1570382433350045698)
+
+RT 北美保守评论🇺🇸🇨🇦<br>民主党各层立法委员和官员关于撤资警察的言论集锦<br><br><br>民主党人关于撤资警察并不仅仅是某几个人的奇谈怪论，而是整个民主党，在各个层次的政客都以撤资警察纵容罪犯作为他们的执政理念的主要纲领之一。如果他们在中期选举的普选之前改变说法的话，那不过是为了选举选票装修而已⋯ <a href="https://youtu.be/qs37gNWXv90" target="_blank" rel="noopener noreferrer">https://youtu.be/qs37gNWXv90</a><br><img style="" src="https://pbs.twimg.com/media/Fcsef9_WYAAP1bl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 192: [2022-09-15 21:54:49+08:00 推文](https://twitter.com/HeQinglian/status/1570410814380855298)
 
 不着急。WHO谭德赛宣布，疫情行将结束。估计时间点就在美国中选、泽连斯基反攻形成新的势态之后，到了10月下旬，欧洲国家得认真准备过冬。美国得考虑盟友的日子。<br>那时，世界都没疫情，就中国有疫情，不利于中国对外交流。<br><br>蔡慎坤: 北师大教授肖川问本科生和研究生两个问题，要求学生诚实回答，一是俄乌战争支持谁，二是支持“动态清零”还是与“病毒共处”，绝大多数学生支持俄罗斯支持“动态清零”，他一直试图回答“中国教育究竟培养了什么样的人”，学生基本上给出了答案，北师大学生认知如此，其他高校都差不多，这就是中国教育的悲哀！<br>
 
-### 192: [2022-09-15 22:10:58+08:00 推文](https://twitter.com/HeQinglian/status/1570414876865994755)
+### 193: [2022-09-15 22:10:58+08:00 推文](https://twitter.com/HeQinglian/status/1570414876865994755)
 
 Re 如果有人到现在还看不明白，这场疫情在世界范围内都被高度政治化（主要是美欧与中国），就算这几年白过了。
 
-### 193: [2022-09-15 22:14:59+08:00 推文](https://twitter.com/HeQinglian/status/1570415887798370310)
+### 194: [2022-09-15 22:14:59+08:00 推文](https://twitter.com/HeQinglian/status/1570415887798370310)
 
 习近平说：愿以强权姿态与普京驰骋国际 <br>标题不是原话，原话：【据法新社说，习近平在上海合作组织（SCO）峰会期间说：“中国愿意与俄罗斯合作，承担起大国责任，发挥主导作用，为这个被混乱困扰的世界注入稳定和正能量。”】<br>具体如何策应，估计不会出现在媒体上。猜谜结束。 <a href="https://rfi.my/8k6e.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8k6e.T</a>
 
-### 194: [2022-09-15 22:40:26+08:00 推文](https://twitter.com/HeQinglian/status/1570422295298179078)
+### 195: [2022-09-15 22:40:26+08:00 推文](https://twitter.com/HeQinglian/status/1570422295298179078)
 
 Re @maga_kureea 台湾日本总体来说，没拿疫情做大的政治操作。
 
-### 195: [2022-09-15 22:42:27+08:00 推文](https://twitter.com/HeQinglian/status/1570422800669900803)
+### 196: [2022-09-15 22:42:27+08:00 推文](https://twitter.com/HeQinglian/status/1570422800669900803)
 
 Re @wechat2525138 我只猜了一个谜，见昨天的推文：“我能断定的是，习近平一定不会与俄保持西方希望的距离，……至少目前中国不希望俄罗斯弱化。”😂
 
-### 196: [2022-09-15 22:55:10+08:00 推文](https://twitter.com/HeQinglian/status/1570426001397780487)
+### 197: [2022-09-15 22:55:10+08:00 推文](https://twitter.com/HeQinglian/status/1570426001397780487)
 
 Re @FangYiDuan1 涅瓦河波涛滚滚，莫斯科郊外的夏日晚上非常温馨，换个地点照样浪漫。😂<br>“我努力了多少年，只为追寻你这个婵娟”<br>刚看到DW一篇旧报道：拜登说，我与习近平不是老朋友，只是工作关系。附上的视频，是记者问拜登，你曾说过，您与习近平见过面，散过步，单独晤谈了多少小时。 <a href="https://p.dw.com/p/3v5UI" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/3v5UI</a>
 
-### 197: [2022-09-15 22:59:18+08:00 推文](https://twitter.com/HeQinglian/status/1570427043673772033)
+### 198: [2022-09-15 22:59:18+08:00 推文](https://twitter.com/HeQinglian/status/1570427043673772033)
 
 Re @KELMAND1 因为不知乌军这次进攻用的总军力，所以不知“5000多人”是其战力的几分之一。<br>纽约时报两篇介绍美乌决策过程的文章，都未谈及数字。
+
+### 199: [2022-09-15 23:19:12+08:00 推文](https://twitter.com/HeQinglian/status/1570432049697230850)
+
+Re @david_david1968 @YouTube 最妙的操作，是英政府有失误，女王出面弥补，邀请该国元首来女王宫中做客，打猎骑马聚餐。不少受邀者在自己不熟悉的王宫礼仪前产生敬意（其实是自卑），往往很成功<br>只有美总统约翰逊婉拒了邀请。行为逾矩随意的玛格丽特公主在美国与总统见面，两人相谈甚欢。总统直言，乡巴佬受不了你那姐姐的宫廷礼仪
+
+### 200: [2022-09-15 23:25:58+08:00 推文](https://twitter.com/HeQinglian/status/1570433751489941506)
+
+戏园子赏戏，因观众不同而情景不同：<br>在北京赏京戏、上海赏昆曲，观众多是行家，演唱至妙处，送上采声；<br>在延安，毛与革命者共看白毛女，看至激情处，观众一片喊打声，有的冲上台殴打饰黄世仁的演员，毛一激动站起来，不革命行吗？
+
+### 201: [2022-09-15 23:52:50+08:00 推文](https://twitter.com/HeQinglian/status/1570440513719009286)
+
+Re @XiChen_6055 年代不同的两次事情。<br>你说的是建政后北京的事情。李银桥写的。<br>我说的是张国焘儿子的故事，那次演黄世仁的是张的儿子，被打得很惨，而且毛还说了一句，张国焘的儿子，活该，两人自此结怨。
+
+### 202: [2022-09-15 23:54:02+08:00 推文](https://twitter.com/HeQinglian/status/1570440813917704194)
+
+Re @kbclindy 延安群众爱看扭秧歌、打腰鼓。听京剧与昆曲，要睡觉的。
+
+### 203: [2022-09-16 00:02:16+08:00 推文](https://twitter.com/HeQinglian/status/1570442889171271681)
+
+Re @KELMAND1 这事，是欧盟自身的事情。当初就应该向美国商谈这方面问题，然后再决定是否参加全方位的经济制裁。<br>美国如果未承诺什么，真是只能怨自己。<br>毕竟，大重置刚开始，各国政府还是独立主权，美国不是欧盟“各省”的“中央政府”。选民选出不对本国负责的政府，只能说这种选民也有问题。
 
