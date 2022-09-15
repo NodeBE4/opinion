@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -842,4 +842,24 @@ Re @Tianshuihanyan 他们其实应该说，我们不稀罕什么公主、王子�
 ### 207: [2022-09-16 01:53:32+08:00 推文](https://twitter.com/HeQinglian/status/1570470889774252033)
 
 Re @19970sina 已经说了是两件事情。你去找一下高华的红太阳，其中也提到张毛交恶的这件事情。
+
+### 208: [2022-09-16 04:35:03+08:00 推文](https://twitter.com/HeQinglian/status/1570511536564867072)
+
+彭博：德国目前正在考虑将国内三大天然气公司——Uniper、VNG 和 Securing Energy for Europe（前 Gazprom Germanía）国有化，以避免其国内能源市场崩溃 。<br>点评：大重置强调大政府、由政府管控经济，轻易实现了，方式比当初中共没收私人资本温柔得多，是救私企于水火之中——先促成危机，再解救其于危机。<br><br>Javier Blas: BREAKING: Germany is now mulling the nationalisation of THREE of the country’s largest natural gas companies — Uniper, VNG and Securing Energy for Europe (the former Gazprom Germanía)  — to avoid a collapse of its domestic energy market | #EnergyCrisis<br> <a href="https://www.bloomberg.com/news/articles/2022-09-15/germany-working-on-historic-takeover-of-three-gas-companies?leadSource=uverify%20wall" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-09-15/germany-working-on-historic-takeover-of-three-gas-companies?leadSource=uverify%20wall</a>
+
+### 209: [2022-09-16 04:37:15+08:00 推文](https://twitter.com/HeQinglian/status/1570512089684541440)
+
+Re @lee_1819 是两个故事，看白蛇传是1950年代的事情。那看白毛女的事情发生于延安时期。
+
+### 210: [2022-09-16 04:58:08+08:00 推文](https://twitter.com/HeQinglian/status/1570517344585396224)
+
+Re @Wu_Zhi @KELMAND1 这只是表面现象。
+
+### 211: [2022-09-16 05:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1570527490220920835)
+
+《外交政策》：普京有一个新的反对派——对在乌克兰的失败感到愤怒。这个阵线广泛的反对派希望普京升级战争，使用更具毁灭性的武器，更加无情地打击乌克兰。<br><br>读后感：西方原希望通过这场战争结束普京政权。看来是既不知己（能源软肋），也不知彼（俄罗斯国情），收南辕北辙之效 <a href="https://foreignpolicy.com/2022/09/12/russia-ukraine-war-defeat-opposition-putin-stab-in-the-back-conspiracy-theory-far-right/" target="_blank" rel="noopener noreferrer">https://foreignpolicy.com/2022/09/12/russia-ukraine-war-defeat-opposition-putin-stab-in-the-back-conspiracy-theory-far-right/</a>
+
+### 212: [2022-09-16 05:41:53+08:00 推文](https://twitter.com/HeQinglian/status/1570528354767634432)
+
+Re 考虑到同时发生的两件事情：普习会与美欧国会相继通过新台湾政策法案，这场战争正朝着美欧无法控制的方向发展——这个结果，是正常人任谁也不想看到的。
 
