@@ -59,3 +59,7 @@ I ask as I had recently come across and read George Orwell's two essays on Rudya
 
 Obviously Orwell's writing reflects a very specific and individual perspective, but to what extent is it argued today that fascism represented a fundamental rupture from 19th century patterns of thought, even militant imperialism?
 
+----- __797.2__ -----2022-09-15 17:02:23+08:00:
+
+A lot for me to chew on and think over. Thanks!
+

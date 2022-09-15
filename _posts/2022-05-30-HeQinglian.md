@@ -73,7 +73,7 @@ Re @lee_1819 @qia38243615 @KELMAND1 骂得好。不知是哪个NGO赞助的推�
 
 ### 15: [2022-05-31 20:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1531613277838622721)
 
-The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎” <a href="https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm" target="_blank" rel="noopener noreferrer">https://www.thetimes.co.uk/article/russia-is-winning-battle-to-control-the-worlds-wheat-wzvctlhjm</a>
+The Telegraph的报道演化是一个缩影。<br>《时代》5·28文：当普京总统开始他的战争时，他这样做是为了收复乌克兰并分裂西方。然而，到目前为止，他最大的收获是小麦。<br><br>如同当年报道拿破仑：<br>第一天：“科西嘉的怪物在儒安港登陆”<br>……<br>第六天：“皇帝陛下将于今日抵达他忠实的巴黎”<br><br>jiang shangrong: 观察英报The Telegraph报道演化很有趣<br>2月24日:普京血腥统治走到头了<br>4月3日:俄将输掉这场西方主打的游戏<br>5月12日:战胜普京我们须付出高昂代价。<br>5月26日:马上!普京将取得惊人胜利<br><br>现有人预测10月1日新闻:<br>莫斯科塔吉克工头用铁锹殴打美国和波兰打工仔,高喊:“干活外地人!莫斯科是莫斯科人的莫斯科!”😂<br><br><img style="" src="https://pbs.twimg.com/media/FUBxfLvWIAEUz4I?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-05-31 20:30:53+08:00 推文](https://twitter.com/HeQinglian/status/1531614188136763392)
 
@@ -121,7 +121,7 @@ RT 李江琳<br>北明譯：维克多-戴维斯-汉森：想象不可想象之
 
 ### 27: [2022-06-02 01:14:26+08:00 推文](https://twitter.com/RealBeiMing/status/1532047935831216129)
 
-RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：
+RT 北明BeiMing<br>美國頂級學者的警訊！<br><br>美國制度的傳統基石——穩定的經濟、獨立的能源、巨大盈餘的糧食、神聖的大學、一個專業的司法機構、執法機構和可信的刑事司法系統——正在消亡。<br> ——維克多·戴維斯·漢森（Victor Davis Hanson）<br><br>全文：<br><br>李江琳: 北明譯：维克多-戴维斯-汉森：想象不可想象之事<br> <a href="https://jianglinswritings.blogspot.com/2022/06/blog-post.html" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/06/blog-post.html</a>
 
 ### 28: [2022-06-02 20:33:44+08:00 推文](https://twitter.com/HeQinglian/status/1532339682448752648)
 
@@ -241,5 +241,5 @@ Re @xiaxiaoqiang 以前电影、电视剧看得少，近几年的不好看。本
 
 ### 57: [2022-06-05 20:43:17+08:00 推文](https://twitter.com/HeQinglian/status/1533429248261771264)
 
-这几天上推少，居然遗漏了这条重要消息。<br><br>jiang shangrong: ‼️🇺🇸🇺🇦“拜登说,作为‘协商解决’一部分,乌可能不得不将领土交给俄”—纽约邮报<br><br>“拜登下属此前表示,乌正放弃土地以安抚普京”纽约邮报说<br><br>评:不是言之凿凿要肢解俄,让普京下台,作战犯审判吗?咋“安抚”普京了?主动割地求和了?可惜，现在的局势，什么时候停，怎么停，可不是你说了算了<br><br><img style="" src="https://pbs.twimg.com/media/FUdzfd6X0AE2Orp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://t.me/JShangrong" target="_blank" rel="noopener noreferrer">http://t.me/JShangrong</a>
+这几天上推少，居然遗漏了这条重要消息。 <a href="https://twitter.com/JiangShangrong/status/1533321188046405635" target="_blank" rel="noopener noreferrer">https://twitter.com/JiangShangrong/status/1533321188046405635</a>
 
