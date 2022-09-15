@@ -25,3 +25,7 @@ Dictators work together to retain control. The collaboration of Russia and China
 
 Meeting with Russian officials, CCP's no.3 official expressed China's support on "important issues." He said it's Russia's national security interest to take "appropriate measures" regarding the Ukraine situation, and China provides support accordingly. <a href="https://www.newsweek.com/china-russia-ukraine-support-li-zhanshu-vyacheslav-volodin-1742731" target="_blank" rel="noopener noreferrer">https://www.newsweek.com/china-russia-ukraine-support-li-zhanshu-vyacheslav-volodin-1742731</a>
 
+### 3: [2022-09-15 21:36:54+08:00 推文](https://twitter.com/nathanlawkc/status/1570406304203833348)
+
+These CCP state agents must be scrutinized. It's a worrying sign.<br>//By using the police “service” stations instead of following formal extradition proceedings, the Chinese government “manages to avoid the growing scrutiny of its human rights record”.// <a href="https://www.telegraph.co.uk/world-news/2022/09/14/china-opens-unofficial-police-stations-britain-hunt-people-return/" target="_blank" rel="noopener noreferrer">https://www.telegraph.co.uk/world-news/2022/09/14/china-opens-unofficial-police-stations-britain-hunt-people-return/</a>
+
