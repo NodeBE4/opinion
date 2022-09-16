@@ -71,7 +71,7 @@ Until recently, the photos you cite of [Hong Tianguifu](https://static.wikia.noc
 
 ### Hong Tianguifu (The 'Young Monarch')
 
-Hong Tianguifu was just under 15 when he was executed by the Qing, having nominally occupied the Heavenly Throne for a mere five and a half months – only one of which was spent in the Taiping capital before it fell to the Qing. It almost certainly is not Hong Tianguifu in the photo linked earlier, as his clothing does not at all resemble that of known Taiping dress styles. A quick search through on Wikimedia Commons shows that users discovered it to be a hoax. It is in fact part of [a wedding photo](http://mbook.kongfz.com/3424/409394156/) showing an arranged child marriage during the Republican era, half a century after Hong Tianguifu was executed.
+Hong Tianguifu was just under 15 when he was executed by the Qing, having nominally occupied the Heavenly Throne for a mere five and a half months – only one of which was spent in the Taiping capital before it fell to the Qing. It is not Hong Tianguifu in the photo linked earlier, and not only because his clothing does not at all resemble that of known Taiping dress styles. A quick search through on Wikimedia Commons shows that users discovered the actual provenance of the photo and that its claim to being of Hong Tianguifu is a hoax. It is in fact part of [a wedding photo](http://mbook.kongfz.com/3424/409394156/) auctioned in 2015, showing an arranged child marriage during the Republican era, half a century after Hong Tianguifu was executed.
 
 ### Hong Rengan (The Shield King)
 

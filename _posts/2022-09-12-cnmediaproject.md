@@ -39,11 +39,27 @@ Incredible look at how "speaking politics" overrides basic science.<br><br>Xifan
 
 RT Bill Bishop<br>A Chinese spy tried to steal GE’s secrets. Instead he got caught by the US—and gave the world an unprecedented glimpse into China’s espionage apparatus <a href="https://www.bloomberg.com/news/features/2022-09-15/china-wanted-ge-s-secrets-but-then-their-spy-got-caught?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2022-09-15/china-wanted-ge-s-secrets-but-then-their-spy-got-caught?sref=6ZE6q2XR</a>
 
-### 7: [2022-09-16 14:13:28+08:00 推文](https://twitter.com/cnmediaproject/status/1570657100153647105)
+### 7: [2022-09-16 13:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1570646410982301698)
+
+RT Jonathan Cheng<br>Uzbek President: "President Xi is the greatest statesman and a preeminent leader in today’s world. Under his wise leadership…China’s international status and influence has been on the rise. President Xi is without a doubt…the core of all Chinese people." <a href="https://bit.ly/3Ucy6kF" target="_blank" rel="noopener noreferrer">https://bit.ly/3Ucy6kF</a>
+
+### 8: [2022-09-16 14:13:28+08:00 推文](https://twitter.com/cnmediaproject/status/1570657100153647105)
 
 An excellent new piece by @RaphaelChanTS using the CMP's growing database of Chinese patents on public opinion monitoring and control. <a href="https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats%ef%bf%bc/</a>
 
-### 8: [2022-09-16 14:14:22+08:00 推文](https://twitter.com/cnmediaproject/status/1570657327203889155)
+### 9: [2022-09-16 14:14:22+08:00 推文](https://twitter.com/cnmediaproject/status/1570657327203889155)
 
 Re "For the Chinese leadership today, the intelligent control of public opinion is about perceiving and removing political risks to the regime by seeing through mountains of data in a rapidly changing information landscape."<br><img style="" src="https://pbs.twimg.com/media/FcwYgZVaEAENlfN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-09-16 16:07:30+08:00 推文](https://twitter.com/cnmediaproject/status/1570685797845848065)
+
+With the "core" missing.<br><br>Marina Rudyak 卢玛丽: #Mannel of the year.<br>#SCO #Samarkand<br><br><img style="" src="https://pbs.twimg.com/media/FcuAkO-X0AAEIxB?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-09-16 16:13:58+08:00 推文](https://twitter.com/cnmediaproject/status/1570687422253629441)
+
+CMP's first study of Chinese patents that show how various actors – including the defense industry, state-owned enterprises (SOEs), universities, and private corporations – have enabled the state to monitor and control the internet. <a href="https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats/</a>
+
+### 12: [2022-09-16 16:15:42+08:00 推文](https://twitter.com/cnmediaproject/status/1570687860868784129)
+
+Re As Xi said at the first leadership conference on the internet and cybersecurity policy in 2016: “Not realizing where risks are is the biggest risk of all.” China is actively working on automated capabilities and AI meant not just to detect risks but to address and dissolve them.<br><img style="" src="https://pbs.twimg.com/media/Fcw0Rq3aMAYqUx9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
