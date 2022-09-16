@@ -45,5 +45,5 @@ Re The teacher's name is Li Tiantian, and the Shanghai teacher she supported on 
 
 ### 8: [2021-12-26 20:31:39+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1475081875840552963)
 
-Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
+Gansu man Zhang detained for 6 days for "insulting village officials" in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FHiK_zrXsAEnQ6c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHiLAxtXIAAw8Hu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
