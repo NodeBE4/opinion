@@ -85,3 +85,11 @@ Hong Xiuquan was notoriously reclusive after his coronation, and was never photo
 
 Many members of the Hong clan actually escaped China in the aftermath of the Taiping War, and we actually have some photos of them. One of Hong Rengan's sons, Fung Khui-Syu, fled eventually to Guyana, and there are photos of him such as [this one](https://twitter.com/DevonDilly/status/1351205699829821443), and ones of his own sons, compiled [here](https://twitter.com/JennySiung/status/1441127154511646721). There is also an alleged photograph of [Hong Quanfu](https://upload.wikimedia.org/wikipedia/commons/3/3c/%E6%B4%AA%E5%85%A8%E7%A6%8F.jpg?20150820105453), a member of the extended Hong clan although his exact relationship to Xiuquan is unknown; he fled to Southeast Asia before quietly cropping up in Hong Kong and getting roped into a plot to establish a second Heavenly Kingdom in Guangzhou in 1903 (which ended in disaster). So we do have *some* photographic record of the wider clan, but not of its most key members during the period of the original Heavenly Kingdom.
 
+### 799: [Reminds me of the time Matsuri met a Roboco fan in Valorant lmao](https://old.reddit.com/r/Hololive/comments/xfkpzi/reminds_me_of_the_time_matsuri_met_a_roboco_fan/), submitted on 2022-09-16 15:30:52+08:00.
+
+----- __799.1__ -----2022-09-16 21:44:59+08:00:
+
+> power level
+
+Isn't 'power level' just 4chan speak for how many groups of people you're bigoted against though?
+
