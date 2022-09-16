@@ -35,3 +35,7 @@ RT Henry Gao<br>Note that the exact word he used for assistance is 策应, whi
 
 Incredible look at how "speaking politics" overrides basic science.<br><br>Xifan Yang 杨希璠: After 8 nights of quarantine in an empty apartment block I’m being released for 3 nights of home quarantine. While walking towards the 🚑 (!) that drove me home, this ghostbusters fellow tailed me all the way disinfecting every inch I’d stepped on. Who came up with this crap?<br><br><img style="" src="https://pbs.twimg.com/media/FcqoWPYaIAEIdo6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcqoWPXagAE-tIu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 6: [2022-09-15 18:41:17+08:00 推文](https://twitter.com/niubi/status/1570362109237800960)
+
+RT Bill Bishop<br>A Chinese spy tried to steal GE’s secrets. Instead he got caught by the US—and gave the world an unprecedented glimpse into China’s espionage apparatus <a href="https://www.bloomberg.com/news/features/2022-09-15/china-wanted-ge-s-secrets-but-then-their-spy-got-caught?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2022-09-15/china-wanted-ge-s-secrets-but-then-their-spy-got-caught?sref=6ZE6q2XR</a>
+
