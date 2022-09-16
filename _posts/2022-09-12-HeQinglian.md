@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-16
+date: 2022-09-17
 from: https://twitter.com/HeQinglian/status/1569005344608731144
 layout: post
 tags:
@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -954,4 +954,28 @@ Re @nHyLz0PyFBOb02Z 读书读一半，犹如认字认半边。<br>你只记得�
 ### 235: [2022-09-16 21:42:33+08:00 推文](https://twitter.com/HeQinglian/status/1570770114227863552)
 
 Re @yyffnn1963 竞选时比的才能，就是不断放出大话、空话、承诺画饼。
+
+### 236: [2022-09-17 02:54:59+08:00 推文](https://twitter.com/HeQinglian/status/1570848742420676615)
+
+Re @JianglinLi 奥巴马最后两年推出的郊区新社区计划，就是要让非法移民分散居住在郊区中产社区，在好社区相邻的地方盖政府廉租房，让附近中产负担相关开销与公共服务。<br>看来，他的社区除外。
+
+### 237: [2022-09-17 03:01:00+08:00 推文](https://twitter.com/HeQinglian/status/1570850253477408769)
+
+另开油管 俄罗斯将给欧洲的天然气输送到中国去 <br>读了后，总有这样的感觉：中国抢了欧洲的天然气奶酪。俄罗斯的能源只能卖给欧洲，不管欧洲是否制裁俄罗斯或者拒买。<br>我有点恍然：现在是全球化的市场经济，还是王朝的专卖制度？<br>各位看看内容后，请告诉我，是否有同感。 <a href="https://rfi.my/8kHv.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8kHv.T</a>
+
+### 238: [2022-09-17 03:23:39+08:00 推文](https://twitter.com/HeQinglian/status/1570855955423961088)
+
+Re @realTaoRay 从全球化开始我就关注国际分工理论的极限。直到2005年，是西方国家的红利时期。自从中国加入WTO之后，全球产业大转移，美欧不少产业转移至中国，失业剧增，中国进入全球化净获利时期<br>欧洲既无资源，产业外移，又想坐收红利，于是搞绿色能源，无中生有地折腾了一个碳排放权额度分配，但资源国并非傻瓜。
+
+### 239: [2022-09-17 03:34:51+08:00 推文](https://twitter.com/HeQinglian/status/1570858774315008000)
+
+法广文章中的猴痘出现在重庆，是外部输入型。<br>据2020年这篇研究报告，中国男同性恋人口主要分布于东北-西南方向, 与城市人口分布方向一致, 但两者 的空间格局方向偏差表现为增大趋势, 空间聚集 模式以中国大陆西部地区低-低聚集为主, 其他空间集聚模式零星分布.<br><br>RFI 华语 - 法国国际广播电台: 猴痘惊报传入中国大陆<br><br><img style="" src="https://pbs.twimg.com/media/FcyPWVlagAEvDDo?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8kJ4.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8kJ4.t</a>
+
+### 240: [2022-09-17 03:37:53+08:00 推文](https://twitter.com/HeQinglian/status/1570859535283408896)
+
+Re @Jack_Ryan2001 很不幸，“习总书记”，你不了解你管理的中国，早就成了全球化的中心，曾经以世界工厂的身份辉煌过十余年，不管它配不配。
+
+### 241: [2022-09-17 03:44:07+08:00 推文](https://twitter.com/HeQinglian/status/1570861106608111616)
+
+Re @cskun1989 这事情，我曾问过好几位最接近当事人的人，有些内幕，但没谁敢翻出来说。
 
