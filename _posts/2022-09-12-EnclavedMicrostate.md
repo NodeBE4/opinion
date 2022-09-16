@@ -13,21 +13,21 @@ title: EnclavedMicrostate在2022-09-12~2022-09-18的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 794: [How did the idea of the 'Nine Worthies' (Hector, Alexander, Caesar; Joshua, David, Judas Maccabeus; Arthur, Charlemagne, Godfrey of Bouillon) as exemplars of chivalric virtue come to be canonised? How widespread was recognition? Did different places have different versions of the nine?](https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/), submitted on 2022-09-12 11:23:45+08:00.
+### 795: [How did the idea of the 'Nine Worthies' (Hector, Alexander, Caesar; Joshua, David, Judas Maccabeus; Arthur, Charlemagne, Godfrey of Bouillon) as exemplars of chivalric virtue come to be canonised? How widespread was recognition? Did different places have different versions of the nine?](https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/), submitted on 2022-09-12 11:23:45+08:00.
 
------ __794.1__ -----2022-09-13 13:59:18+08:00:
+----- __795.1__ -----2022-09-13 13:59:18+08:00:
 
 Thanks!
 
-### 795: [One of the narratives I got about (the British experience on the Western Front of) the First World War at school was that the rum ration given to soldiers was a critical part of the war effort, as one would have to be somewhat tipsy to even contemplate going 'over the top'. How much of this is true?](https://old.reddit.com/r/AskHistorians/comments/xc7gc8/one_of_the_narratives_i_got_about_the_british/), submitted on 2022-09-12 16:39:11+08:00.
+### 796: [One of the narratives I got about (the British experience on the Western Front of) the First World War at school was that the rum ration given to soldiers was a critical part of the war effort, as one would have to be somewhat tipsy to even contemplate going 'over the top'. How much of this is true?](https://old.reddit.com/r/AskHistorians/comments/xc7gc8/one_of_the_narratives_i_got_about_the_british/), submitted on 2022-09-12 16:39:11+08:00.
 
------ __795.1__ -----2022-09-14 09:48:00+08:00:
+----- __796.1__ -----2022-09-14 09:48:00+08:00:
 
 Thanks! Seems like it was indeed more of an ad-hoc process than had been presented.
 
-### 796: [What are the specific ways that Taiping Christianity differed from more mainstream versions of Christianity?](https://old.reddit.com/r/AskHistorians/comments/xdd47g/what_are_the_specific_ways_that_taiping/), submitted on 2022-09-14 01:08:56+08:00.
+### 797: [What are the specific ways that Taiping Christianity differed from more mainstream versions of Christianity?](https://old.reddit.com/r/AskHistorians/comments/xdd47g/what_are_the_specific_ways_that_taiping/), submitted on 2022-09-14 01:08:56+08:00.
 
------ __796.1__ -----2022-09-14 16:34:49+08:00:
+----- __797.1__ -----2022-09-14 16:34:49+08:00:
 
 Not to evade the question too much, but the matter of what 'mainstream versions of Christianity' would constitute in a nineteenth-century context is not necessarily a simple one to tackle. Even if we just go by what is colloquially called 'mainstream Christianity', i.e. Nicene, which encompasses overarching categories of Catholic, Orthodox, and Protestant, we run into a lot of heterogeneity within these categories (take for instance Lutheranism vs Calvinism) as well as differences across them. Transubstantiation is perhaps the most easily discussed (and something that happens to cover both belief and practice at the same time), with the Catholic and Orthodox traditions holding that the wine and bread literally become the blood and flesh of Christ when imbibed, while Protestant denominations hold the Eucharist as purely symbolic (except for the Anglo-Catholic communion although that's a weird middle ground of doctrinal Catholicism but outside communion with Rome). And that's not even getting into established offshoots like the Society of Friends (Quakers) – what do we consider 'mainstream' and what do we not? What we *could* do to attempt a more grounded approach is look at missionary accounts and mine them for instances where differences in beliefs are highlighted, but this will generally skew towards the viewpoints of individual evangelists with specific areas of focus in any given document.
 
@@ -41,9 +41,9 @@ In some ways perhaps the approach I've hinted at above is the most useful way of
 
 Now, I could enumerate every single difference and we would be here all year, and there are those who have written more detailed works on Taiping religion that are worth consulting – Carl Kilcourse's *Taiping Theology* (2017) and Thomas Reilly's *The Taiping Heavenly Kingdom* (2004) being the main ones. If you have more specific questions I would be happy to try to tackle them, but as it is there's only so much I can think to write about on the very broad topic of how the *entire* belief system of the Taiping measured up against the *entire* belief system of Chalcedonian Christianity.
 
-### 797: [What is a “proto-fascist” and is the term worth anything to historians?](https://old.reddit.com/r/AskHistorians/comments/xe1oze/what_is_a_protofascist_and_is_the_term_worth/), submitted on 2022-09-14 21:13:46+08:00.
+### 798: [What is a “proto-fascist” and is the term worth anything to historians?](https://old.reddit.com/r/AskHistorians/comments/xe1oze/what_is_a_protofascist_and_is_the_term_worth/), submitted on 2022-09-14 21:13:46+08:00.
 
------ __797.1__ -----2022-09-15 13:22:09+08:00:
+----- __798.1__ -----2022-09-15 13:22:09+08:00:
 
 Apologies if this ends up being a slightly tangential question, but how does modern fascism studies see the relationship between fascism and earlier New Imperialism?
 
@@ -59,13 +59,13 @@ I ask as I had recently come across and read George Orwell's two essays on Rudya
 
 Obviously Orwell's writing reflects a very specific and individual perspective, but to what extent is it argued today that fascism represented a fundamental rupture from 19th century patterns of thought, even militant imperialism?
 
------ __797.2__ -----2022-09-15 17:02:23+08:00:
+----- __798.2__ -----2022-09-15 17:02:23+08:00:
 
 A lot for me to chew on and think over. Thanks!
 
-### 798: [On Google images there are photos supposedly of Hong Xiuquans son and his cousin Rengan, A.) are these real? And B.) are there photos of Hong himself?](https://old.reddit.com/r/AskHistorians/comments/xfh6sb/on_google_images_there_are_photos_supposedly_of/), submitted on 2022-09-16 12:13:27+08:00.
+### 799: [On Google images there are photos supposedly of Hong Xiuquans son and his cousin Rengan, A.) are these real? And B.) are there photos of Hong himself?](https://old.reddit.com/r/AskHistorians/comments/xfh6sb/on_google_images_there_are_photos_supposedly_of/), submitted on 2022-09-16 12:13:27+08:00.
 
------ __798.1__ -----2022-09-16 14:17:39+08:00:
+----- __799.1__ -----2022-09-16 14:17:39+08:00:
 
 Until recently, the photos you cite of [Hong Tianguifu](https://static.wikia.nocookie.net/totalwar-ar/images/5/57/245px-Hong_Tianguifu.png/revision/latest?cb=20190714104250) and [Hong Rengan](http://taipingrebellion.com/HongRengan.jpg) were up on the two people's Wikipedia pages, but I will confess to having always been somewhat sceptical, and I see that in the months or even years since I last visited those pages, the photos have been removed (which is for the better IMO). As you cite three figures, why not go through them in turn?
 
@@ -85,17 +85,17 @@ Hong Xiuquan was notoriously reclusive after his coronation, and was never photo
 
 Many members of the Hong clan actually escaped China in the aftermath of the Taiping War, and we actually have some photos of them. One of Hong Rengan's sons, Fung Khui-Syu, fled eventually to Guyana, and there are photos of him such as [this one](https://twitter.com/DevonDilly/status/1351205699829821443), and ones of his own sons, compiled [here](https://twitter.com/JennySiung/status/1441127154511646721). There is also an alleged photograph of [Hong Quanfu](https://upload.wikimedia.org/wikipedia/commons/3/3c/%E6%B4%AA%E5%85%A8%E7%A6%8F.jpg?20150820105453), a member of the extended Hong clan although his exact relationship to Xiuquan is unknown; he fled to Southeast Asia before quietly cropping up in Hong Kong and getting roped into a plot to establish a second Heavenly Kingdom in Guangzhou in 1903 (which ended in disaster). So we do have *some* photographic record of the wider clan, but not of its most key members during the period of the original Heavenly Kingdom.
 
------ __798.2__ -----2022-09-16 23:40:32+08:00:
+----- __799.2__ -----2022-09-16 23:40:32+08:00:
 
 Unfortunately I'm not well-versed enough in Chinese diaspora dynamics to comment particularly effectively on either. I did once do some digging on the Yang Fuqing claim and found very little to substantiate it, while the Low Yet claim comes from an unreferenced remark in a popular-press book from 1962. While ex-Taiping were certainly part of the waves of trans-Pacific Chinese migration and by extension various criminal and non-criminal societies, I can't verify anything about those two men in particular.
 
------ __798.3__ -----2022-09-16 23:42:31+08:00:
+----- __799.3__ -----2022-09-16 23:42:31+08:00:
 
 This was a plot to establish an anti-Qing regime in Guangzhou in 1902, independent of any Tongmenghui involvement and mainly drawing on the old constitutionalists, now fallen from grace after the 1898 coup. I've never written about it myself, but the standard account is [this 1976 article](https://www.jstor.org/stable/311670) by L. Eve Armentrout.
 
-### 799: [Reminds me of the time Matsuri met a Roboco fan in Valorant lmao](https://old.reddit.com/r/Hololive/comments/xfkpzi/reminds_me_of_the_time_matsuri_met_a_roboco_fan/), submitted on 2022-09-16 15:30:52+08:00.
+### 800: [Reminds me of the time Matsuri met a Roboco fan in Valorant lmao](https://old.reddit.com/r/Hololive/comments/xfkpzi/reminds_me_of_the_time_matsuri_met_a_roboco_fan/), submitted on 2022-09-16 15:30:52+08:00.
 
------ __799.1__ -----2022-09-16 21:44:59+08:00:
+----- __800.1__ -----2022-09-16 21:44:59+08:00:
 
 > power level
 

@@ -226,3 +226,13 @@ As a further coda, it is interesting that the first campaign of the Rifle Corps 
 
 Shego and not-Suisei.
 
+### 794: [[Hobby Scuffles] Week of September 12, 2022](https://old.reddit.com/r/HobbyDrama/comments/xbkr5b/hobby_scuffles_week_of_september_12_2022/), submitted on 2022-09-11 23:00:15+08:00.
+
+----- __794.1__ -----2022-09-17 01:56:49+08:00:
+
+Abdicated, not died. Let's wait a couple years and see.
+
+----- __794.2__ -----2022-09-17 02:00:10+08:00:
+
+Having watched the video in question, my read was that he wasn't saying that anyone who doesn't like X cancelled manga was too young and immature to handle moral complexity, but rather that the nature of the stories in question didn't gel well with WSJ's intended demographic, which tends towards younger, male readers in Japan.
+
