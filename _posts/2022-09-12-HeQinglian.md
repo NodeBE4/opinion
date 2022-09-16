@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -862,4 +862,76 @@ Re @Wu_Zhi @KELMAND1 这只是表面现象。
 ### 212: [2022-09-16 05:41:53+08:00 推文](https://twitter.com/HeQinglian/status/1570528354767634432)
 
 Re 考虑到同时发生的两件事情：普习会与美欧国会相继通过新台湾政策法案，这场战争正朝着美欧无法控制的方向发展——这个结果，是正常人任谁也不想看到的。
+
+### 213: [2022-09-16 08:24:51+08:00 推文](https://twitter.com/HeQinglian/status/1570569365124423680)
+
+不愧是德国人，两次世界大战的发起国。<br><br>绫波: 欧盟主席冯德莱恩：我提议“向普京宣战、向俄罗斯宣战”。<br><br><img style="" src="https://pbs.twimg.com/media/FcsPWPtWYAAPX3B?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 214: [2022-09-16 08:51:24+08:00 推文](https://twitter.com/HeQinglian/status/1570576048668168193)
+
+Re @comewithusbaby 你要点脸好吗？<br>你懂不懂开战与军事行动之间的差别？<br>如果是开战，将实行一系列战时法律，限制本国公民自由；经济结构将调整为战时结构。<br>我园子里怎么会有你这种垃圾，立刻除掉，不要再注册新推号来，也不要求人转告解封。无知者最大的特点，是丢了脸还不知道如何捡回来。<br>滚。
+
+### 215: [2022-09-16 08:52:32+08:00 推文](https://twitter.com/HeQinglian/status/1570576335642464256)
+
+Re @Steven30667765 有。德国人喜欢共产主义、发动战争、大重置。一切让世界不安定的事情，总有德国人喜欢干。
+
+### 216: [2022-09-16 08:59:57+08:00 推文](https://twitter.com/HeQinglian/status/1570578198441897984)
+
+Re @oldfreemanchu 幸亏拜登只是老年痴呆，不是疯子。他还知道不宣战、只军事介入的好处。<br>下次拜托你查好宣战后，一个国家进入战时状态是什么情况，再来发言。<br>还有，拜登目前深得左派拥护，重要的原因之一就是没宣战，并且只援助而不派军队。1968年的美国左派反战，导致输掉一场战争。
+
+### 217: [2022-09-16 09:03:18+08:00 推文](https://twitter.com/HeQinglian/status/1570579042918862848)
+
+Re @Steven30667765 你能因此否定它不是共产主义、大重置（共产主义2.0版）的发源地吗？<br>一种主义能够在一国先流行，都有社会基础。少数不喜欢的不能阻止，比如美国的LGBTQI+，吸大麻。
+
+### 218: [2022-09-16 09:07:22+08:00 推文](https://twitter.com/HeQinglian/status/1570580066094161920)
+
+和平日久，很多人不知战争状态意味什么<br>一个国家宣布进入战时状态后会准备，包括军方会对交通工具进行统一管理（征用以备前线所需）；对粮食和其他日用消费品进行统一管理，平民不可随便购买；限制奢侈品生产；国内工厂开始为军方服务，开始生产军工所需；并进行人口登记，召回预备役人员进行战时训练
+
+### 219: [2022-09-16 09:10:57+08:00 推文](https://twitter.com/HeQinglian/status/1570580966334398468)
+
+Re 如果中国宣布进入战时状态，除了上述情况之外，所有反对统一台湾的言论均会被处以破坏战时状态处以刑罚。各位希望别人去打仗的适龄者会进行军训——比清零核酸要难受得多。<br>欧洲进入战争状态，当然也是这样。连个疫苗证都受不了的欧洲少爷小姐，受得了么？
+
+### 220: [2022-09-16 09:20:29+08:00 推文](https://twitter.com/HeQinglian/status/1570583366810107905)
+
+Re 还有一个通敌罪。只要被认为发表对敌有利的言论均可抓捕。
+
+### 221: [2022-09-16 09:24:24+08:00 推文](https://twitter.com/HeQinglian/status/1570584354598047747)
+
+Re @oldfreemanchu 一边去。德国要宣战，你以为美国能够呆在一边？也不看看德国国防部长曾自称军备一无所有，拿什么去打？
+
+### 222: [2022-09-16 09:25:28+08:00 推文](https://twitter.com/HeQinglian/status/1570584623322923008)
+
+Re @wang0820 你看全所有推文再说。
+
+### 223: [2022-09-16 09:27:38+08:00 推文](https://twitter.com/HeQinglian/status/1570585166757916672)
+
+Re @ske_ting @Steven30667765 在孔雀王朝时期，确实如此。
+
+### 224: [2022-09-16 10:30:17+08:00 推文](https://twitter.com/HeQinglian/status/1570600932295200771)
+
+Re @Bravo74624407 要是欧洲左派与美国左派有你这同样的觉悟，那就好了，省得开展反战运动。
+
+### 225: [2022-09-16 10:33:00+08:00 推文](https://twitter.com/HeQinglian/status/1570601618810470406)
+
+Re @princeton_walk 现在左派的老祖宗，比如奥巴马的导师艾尔斯，一边说要埋葬美帝国，炸警局与公共设施；另一方面坚决反越战。<br>你认为他们除了内战外，会真想去前线打仗？<br>民调显示，他们支持拜登政府援乌卖武器，但不赞成派军队。
+
+### 226: [2022-09-16 10:34:47+08:00 推文](https://twitter.com/HeQinglian/status/1570602067642945538)
+
+Re @mingshi_chen 去看冯德莱恩说什么吧。
+
+### 227: [2022-09-16 10:37:20+08:00 推文](https://twitter.com/HeQinglian/status/1570602708423548928)
+
+Re @Frank26970699 @comewithusbaby 你好象回错了对象。
+
+### 228: [2022-09-16 10:39:47+08:00 推文](https://twitter.com/HeQinglian/status/1570603325338558472)
+
+Re @FrankYa00203168 既然如此封闭，那就劝你一句：“万言万当，不如一默”。<br>你的人生经验，一是不完全，二是过时了。美国自2020以来，变化太快。
+
+### 229: [2022-09-16 10:46:57+08:00 推文](https://twitter.com/HeQinglian/status/1570605126645317636)
+
+Re @LZX_8315 👍<br>看来，你明白我讲什么。
+
+### 230: [2022-09-16 10:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1570606577341825025)
+
+Re @RFI_TradCn 6亿能管多久？半个月就耗光了。
 

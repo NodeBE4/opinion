@@ -117,7 +117,7 @@ Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等�
 
 ### 26: [2022-09-14 09:11:12+08:00 推文](https://twitter.com/realcaixia/status/1569856257326202886)
 
-民生艰难啊！一个清零封控，断了无数人家的生计。张文宏主任都发出吼声：再封下去，就要崩溃了！为了一个人的强权意志，迫使全国10多亿人付出沉重代价包括生命代价！这是正常国家吗？祸国殃民！<br><br>鲁  难: 当成都未封控的时候，满满的正能量连央视都被感动了。现在，爱心冰柜的爱心依然，不过人似乎掉进了冰柜。明天，你是否依然爱我。<br>
+民生艰难啊！一个清零封控，断了无数人家的生计。张文宏主任都发出吼声：再封下去，就要崩溃了！为了一个人的强权意志，迫使全国10多亿人付出沉重代价包括生命代价！这是正常国家吗？祸国殃民！<br><br>鲁  难: 当成都未封控的时候，满满的正能量连央视都被感动了。现在，爱心冰柜的爱心依然，不过人似乎掉进了冰柜。明天，你是否依然爱我。<br> <a href="https://twitter.com/im1266/status/1569743466242125825" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1569743466242125825</a>
 
 ### 27: [2022-09-14 17:10:41+08:00 推文](https://twitter.com/realcaixia/status/1569976921341005826)
 
@@ -150,4 +150,12 @@ Re 我的推特下每天都有一大堆中共网军幽灵、五毛、粉红等�
 ### 34: [2022-09-16 04:43:37+08:00 推文](https://twitter.com/realcaixia/status/1570513691719901184)
 
 2015年习当局镇压人权律师，在全国范围内各地恶警同时行动抓捕了200多位人权律师，被称为“709”案。王全璋律师是京津地区被抓捕律师中关押时间最长、遭受残酷折磨，被迫害最严重的一位。他夫人李文足与朋友们不畏高压恐怖奔走呼号，揭露控诉中共暴政。请网友们都来声援王全璋夫妇。请密切关注此事。<br><br>王峭岭: #709家人   #王全璋李文足<br>2022.9.15下午5:30左右<br>709的王全璋、李文足在亮马桥地铁站下了地铁，从B口往外出的时候，被一群不明身份的人拦住去路。随后，来了一群制服警察，查了他俩的身份证，不让他们走。然后，不停的打电话，来了一个领导，把他们带到警务室。阵仗很大……<br><br><video src="https://video.twimg.com/ext_tw_video/1570358831745568770/pu/vid/1280x720/LXoj636l3a-DFOyV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1570358831745568770/pu/img/GNxYQJxjR4_qePIB.jpg"></video>
+
+### 35: [2022-09-16 09:27:58+08:00 推文](https://twitter.com/realcaixia/status/1570585252791451649)
+
+胡发云先生是中国著名的作家，他的长篇小说屡屡遭中共当局封杀，但在民间以各种方式一传再传。胡发云先生的人生经历以及他文革时期就开始对共产极权中国的批判性思考，是我们这代人中思想走在最前面的人。<br><br>胡发云 hufayun: 今天收到韩秀的三本书。我与作者神交已久，但从未谋面。这是一个一生都是故事的女人，一个同时生活在两个平行世界中的女人，一个受尽能想象得到的所有苦难的女人，一个踏遍世界无数国度的女人，也是一个侠骨柔肠刚柔相济的女人，一个永远不老的美丽女人……近些日子，她的名字突然如秋风四处传扬……<br><br><img style="" src="https://pbs.twimg.com/media/FcpRP9YXgAI4io0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcpRP9WX0AAY8b6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcpRP9VXEAQAo_l?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FcpRP9WX0AEuTTn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 36: [2022-09-16 11:19:33+08:00 推文](https://twitter.com/realcaixia/status/1570613330590535682)
+
+特别推荐#议报转发《周舆丨集团被一个大傻玩坏了 》<br>这篇可当短篇小说读的文字，很有读头。既让人一读就放不下手，更引人掩卷咀嚼回味，含意颇深且微妙。一个通篇不涉政治的短文，却被习当局莫名封杀。推荐给网友分享。 <a href="https://yibaochina.com/?p=247751" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247751</a>
 

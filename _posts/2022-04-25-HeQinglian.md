@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -441,7 +441,7 @@ Re @Swanlake1979 连一个经济会议都无法将俄罗斯踢出去，离拿俄
 
 ### 107: [2022-04-30 03:49:08+08:00 推文](https://twitter.com/HeQinglian/status/1520128066231668736)
 
-美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。<br><br>He Qinglian: 据美国CNBC28日报道，美国商务部28日报告称，美国2022年一季度GDP年化增速为-1.4%，这标志着美国经济自1984年以来的上升趋势突然出现逆转。分析称，2022年前三个月，有众多因素影响美国经济增长，包括不断激增的奥密克戎新冠病毒病例，通胀率飙升至1980年代初以来的最高水平，俄乌冲突等等。<br>
+美欧经济增长哥俩好：<br>歐盟GDP增長放緩至0.2% 通脹連續6個月創新高<br><br>歐盟統計局另外發佈的通脹數據方面，通脹率由去年年底的5%升至最新4月7.5%，較3月再升0.1個百分點。去年4月通脹率只有1.6%。撇除能源和新鮮食物的通脹率為3.9%。<br>欧盟比美国略争气一点：美国是负1.4%。 <a href="https://europechinese.blogspot.com/2022/04/gdp02-6.html" target="_blank" rel="noopener noreferrer">https://europechinese.blogspot.com/2022/04/gdp02-6.html</a>
 
 ### 108: [2022-04-30 03:49:57+08:00 推文](https://twitter.com/HeQinglian/status/1520128273182859266)
 
@@ -517,7 +517,7 @@ Re @Lucs24659702 拜登美国价值观的体现，正准备推向全世界。
 
 ### 126: [2022-05-01 20:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1520747918399094784)
 
-Re 拜登美国价值观的体现，正准备推向全世界。<br><br>Lucs: 宾州一所学校的老师为学生举办了一个变装秀，作为LGBT俱乐部的活动一部分。据报告他们没有通知学生父母，Hempfield学区今早确认老师在休假中。<br>该视频是变装活动的一部分。<br><br><video src="https://video.twimg.com/ext_tw_video/1520615927766667265/pu/vid/720x1264/s5cbGltHLiEDHIfy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520615927766667265/pu/img/TdCjSRU-zJNzFP8q.jpg"></video>
+Re 拜登美国价值观的体现，正准备推向全世界。 <a href="https://twitter.com/Lucs24659702/status/1520615972125560832" target="_blank" rel="noopener noreferrer">https://twitter.com/Lucs24659702/status/1520615972125560832</a>
 
 ### 127: [2022-05-01 20:54:52+08:00 推文](https://twitter.com/HeQinglian/status/1520748589139517440)
 
