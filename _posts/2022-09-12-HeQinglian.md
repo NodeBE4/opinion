@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -938,4 +938,20 @@ Re @LZX_8315 👍<br>看来，你明白我讲什么。
 ### 231: [2022-09-16 10:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1570606577341825025)
 
 Re @RFI_TradCn 6亿能管多久？半个月就耗光了。
+
+### 232: [2022-09-16 21:22:20+08:00 推文](https://twitter.com/HeQinglian/status/1570765028948869120)
+
+Re @FightForJiuCai 我看了《外交政策》的文章，对希望加强打击的反普京力量有了较全面的认识，此前是零星印象<br>俄国内舆论一步步升温，战略与战术调整才能顺理成章<br>其实，考虑到俄乌历史恩怨，占领费力不讨好，泥足深陷。阿富汗为例，前苏联占了10年，拔足而逃；美国占领20年，最后也是拔足而逃。<br>这次打完后收场最明智。
+
+### 233: [2022-09-16 21:25:56+08:00 推文](https://twitter.com/HeQinglian/status/1570765933861543936)
+
+Re @shenliangqing2 你可能还不知道2020大选之夜，许多民主党州宣布大麻合法化，少数几个冰毒、海洛因合法化，因此，美大麻协会的会长直呼：大选的胜利是大麻的胜利，是大麻人民战争的胜利——美国60%以上选民赞成大麻开禁。<br>多所美大学开设了大麻专业，研究生产销售一条龙。<br>我现在回想，大重置的推手并非空想家。
+
+### 234: [2022-09-16 21:34:53+08:00 推文](https://twitter.com/HeQinglian/status/1570768185812725760)
+
+Re @nHyLz0PyFBOb02Z 读书读一半，犹如认字认半边。<br>你只记得这四字，但忘记另外一句：尽管脚下是污泥浊水，但仍然要仰望星空。<br>当年，我仰望的星空是宪政美国。自2020之后，美国正在迅速朝向更变态的共产2.0版、新身份政治滑落。我如果还继续仰望已经变得暗淡无光的星空，是让自己成为动物庄园的两脚羊。<br>继续幻想。
+
+### 235: [2022-09-16 21:42:33+08:00 推文](https://twitter.com/HeQinglian/status/1570770114227863552)
+
+Re @yyffnn1963 竞选时比的才能，就是不断放出大话、空话、承诺画饼。
 
