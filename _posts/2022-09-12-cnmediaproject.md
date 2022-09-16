@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-15
+date: 2022-09-16
 from: https://twitter.com/cnmediaproject/status/1569181612239355906
 layout: post
 tags:
@@ -38,4 +38,12 @@ Incredible look at how "speaking politics" overrides basic science.<br><br>Xifan
 ### 6: [2022-09-15 18:41:17+08:00 推文](https://twitter.com/niubi/status/1570362109237800960)
 
 RT Bill Bishop<br>A Chinese spy tried to steal GE’s secrets. Instead he got caught by the US—and gave the world an unprecedented glimpse into China’s espionage apparatus <a href="https://www.bloomberg.com/news/features/2022-09-15/china-wanted-ge-s-secrets-but-then-their-spy-got-caught?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/features/2022-09-15/china-wanted-ge-s-secrets-but-then-their-spy-got-caught?sref=6ZE6q2XR</a>
+
+### 7: [2022-09-16 14:13:28+08:00 推文](https://twitter.com/cnmediaproject/status/1570657100153647105)
+
+An excellent new piece by @RaphaelChanTS using the CMP's growing database of Chinese patents on public opinion monitoring and control. <a href="https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats%ef%bf%bc/</a>
+
+### 8: [2022-09-16 14:14:22+08:00 推文](https://twitter.com/cnmediaproject/status/1570657327203889155)
+
+Re "For the Chinese leadership today, the intelligent control of public opinion is about perceiving and removing political risks to the regime by seeing through mountains of data in a rapidly changing information landscape."<br><img style="" src="https://pbs.twimg.com/media/FcwYgZVaEAENlfN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-14
+date: 2022-09-16
 from: https://old.reddit.com/r/AskHistorians/comments/xc200s/how_did_the_idea_of_the_nine_worthies_hector/
 layout: post
 tags:
@@ -62,4 +62,26 @@ Obviously Orwell's writing reflects a very specific and individual perspective, 
 ----- __797.2__ -----2022-09-15 17:02:23+08:00:
 
 A lot for me to chew on and think over. Thanks!
+
+### 798: [On Google images there are photos supposedly of Hong Xiuquans son and his cousin Rengan, A.) are these real? And B.) are there photos of Hong himself?](https://old.reddit.com/r/AskHistorians/comments/xfh6sb/on_google_images_there_are_photos_supposedly_of/), submitted on 2022-09-16 12:13:27+08:00.
+
+----- __798.1__ -----2022-09-16 14:17:39+08:00:
+
+Until recently, the photos you cite of [Hong Tianguifu](https://static.wikia.nocookie.net/totalwar-ar/images/5/57/245px-Hong_Tianguifu.png/revision/latest?cb=20190714104250) and [Hong Rengan](http://taipingrebellion.com/HongRengan.jpg) were up on the two people's Wikipedia pages, but I will confess to having always been somewhat sceptical, and I see that in the months or even years since I last visited those pages, the photos have been removed (which is for the better IMO). As you cite three figures, why not go through them in turn?
+
+### Hong Tianguifu (The 'Young Monarch')
+
+Hong Tianguifu was just under 15 when he was executed by the Qing, having nominally occupied the Heavenly Throne for a mere five and a half months – only one of which was spent in the Taiping capital before it fell to the Qing. It almost certainly is not Hong Tianguifu in the photo linked earlier, as his clothing does not at all resemble that of known Taiping dress styles. A quick search through on Wikimedia Commons shows that users discovered it to be a hoax. It is in fact part of [a wedding photo](http://mbook.kongfz.com/3424/409394156/) showing an arranged child marriage during the Republican era, half a century after Hong Tianguifu was executed.
+
+### Hong Rengan (The Shield King)
+
+The photograph allegedly of Hong Rengan during his time in Hong Kong has very little provenance attached. In English, it only appears on taipingrebellion.com, a very mixed bag as a reference site, although there are at least some Taiwanese and Chinese websites also allegedly depicting him. In reality though, this is not a photo of Hong Rengan at all, as can be seen from the more high-quality versions of the photo in which the subject can very clearly be seen sporting a thick grey moustache (Hong Rengan was in his 30s during his time in Hong Kong). A reverse image search suggests that the subject of the photo may actually be comprador and reformist Zheng Guanyin, at least according to [a page on the English-language website for his birthplace, Zhongshan City](http://www.zs.gov.cn/ywb/aboutzhongshan/celebrities/content/post_1637860.html). How the photo came to be associated with Hong Rengan is unclear.
+
+### Hong Xiuquan (The Heavenly King)
+
+Hong Xiuquan was notoriously reclusive after his coronation, and was never photographed during his lifetime. There are, however, two hand-made images that may be contemporary depictions of him. The [more well-known](https://upload.wikimedia.org/wikipedia/commons/c/cc/Hong_Xiuquan.jpg) is an engraving from Yvan and Callery's sensationalist 1853 work *L'Insurrection en Chine*, which actually does not purport to depict Hong himself but rather the imagined figure of 'Tièn-Tè', distinct from Hong Xiuquan who was identified as one of his subordinates. However, if it was indeed somehow drawn from life, or derived from an image that was, then it is not impossible that the original subject was indeed Hong Xiuquan. The other, which is quite obscure indeed, is [a portrait](https://web.archive.org/web/20191216095950/https://www.nicholasgrindley.com/06-0616.html) by the Shanghai painter Tingqua which used to be hosted on an art dealership website but which has since been taken offline (hence the archive.org link). How it came to be painted is unclear, and the colour of the clothing is not what would be expected for Hong Xiuquan, but it is at least more *likely* to be an authentic rendering. [Seemingly contemporary copies of the painting](https://bkimg.cdn.bcebos.com/pic/b64543a98226cffc71c9093bb7014a90f703ea5c?) circulate on parts of the Chinese internet, but again, attribution is tricky.
+
+### Other members of the Hong family
+
+Many members of the Hong clan actually escaped China in the aftermath of the Taiping War, and we actually have some photos of them. One of Hong Rengan's sons, Fung Khui-Syu, fled eventually to Guyana, and there are photos of him such as [this one](https://twitter.com/DevonDilly/status/1351205699829821443), and ones of his own sons, compiled [here](https://twitter.com/JennySiung/status/1441127154511646721). There is also an alleged photograph of [Hong Quanfu](https://upload.wikimedia.org/wikipedia/commons/3/3c/%E6%B4%AA%E5%85%A8%E7%A6%8F.jpg?20150820105453), a member of the extended Hong clan although his exact relationship to Xiuquan is unknown; he fled to Southeast Asia before quietly cropping up in Hong Kong and getting roped into a plot to establish a second Heavenly Kingdom in Guangzhou in 1903 (which ended in disaster). So we do have *some* photographic record of the wider clan, but not of its most key members during the period of the original Heavenly Kingdom.
 
