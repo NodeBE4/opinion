@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-16
+date: 2022-09-17
 from: https://twitter.com/cnmediaproject/status/1569181612239355906
 layout: post
 tags:
@@ -62,4 +62,12 @@ CMP's first study of Chinese patents that show how various actors – including 
 ### 12: [2022-09-16 16:15:42+08:00 推文](https://twitter.com/cnmediaproject/status/1570687860868784129)
 
 Re As Xi said at the first leadership conference on the internet and cybersecurity policy in 2016: “Not realizing where risks are is the biggest risk of all.” China is actively working on automated capabilities and AI meant not just to detect risks but to address and dissolve them.<br><img style="" src="https://pbs.twimg.com/media/Fcw0Rq3aMAYqUx9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-09-17 08:32:17+08:00 推文](https://twitter.com/niubi/status/1570933626958761984)
+
+RT Bill Bishop<br>China’s local government financing vehicles go on land-buying spree | Financial Times <a href="https://www.ft.com/content/b6ef0852-6d51-44eb-9c7c-128f9c47c75a" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/b6ef0852-6d51-44eb-9c7c-128f9c47c75a</a>
+
+### 14: [2022-09-17 08:40:24+08:00 推文](https://twitter.com/cnmediaproject/status/1570935667697537024)
+
+We looked at 20 patent applications submitted by the China Electronics Technology Group Corporation (CETC), the state-owned military technology supplier, to better understand China's pursuit of new technologies to monitor public opinion. <a href="https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats/</a>
 
