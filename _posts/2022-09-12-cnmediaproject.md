@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-17
+date: 2022-09-18
 from: https://twitter.com/cnmediaproject/status/1569181612239355906
 layout: post
 tags:
@@ -70,4 +70,8 @@ RT Bill Bishop<br>China’s local government financing vehicles go on land-buy
 ### 14: [2022-09-17 08:40:24+08:00 推文](https://twitter.com/cnmediaproject/status/1570935667697537024)
 
 We looked at 20 patent applications submitted by the China Electronics Technology Group Corporation (CETC), the state-owned military technology supplier, to better understand China's pursuit of new technologies to monitor public opinion. <a href="https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats/</a>
+
+### 15: [2022-09-18 15:10:13+08:00 推文](https://twitter.com/ChuYang_Journ/status/1571396157729042432)
+
+RT Chu Yang<br>To achieve its “zero Covid” goal on the 19th, Guiyang transfers positives and close contacts to surrounding counties. Early hours of this morning, a transfer bus heading to Libo had a rollover accident, which tragically killed 27 passengers. 20 people are still under treatment.<br><img style="" src="https://pbs.twimg.com/media/Fc64ecqXoAA1eKX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
