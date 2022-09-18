@@ -109,7 +109,7 @@ Hailed inside China as a film transforming the appeal of CCP films, The Battle a
 
 ### 24: [2021-12-08 21:36:31+08:00 推文](https://twitter.com/AlexDukalskis/status/1468575217228337156)
 
-RT Alex Dukalskis<br>If you are curious about why authoritarian states spend so much time and effort doing things like this, give my @OUPAcademic book Making the World Safe for Dictatorship a look:<br><br>China Media Project: Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech.<br><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a>
+RT Alex Dukalskis<br>If you are curious about why authoritarian states spend so much time and effort doing things like this, give my @OUPAcademic book Making the World Safe for Dictatorship a look:<br><br>China Media Project: Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech.<br><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a>
 
 ### 25: [2021-12-09 07:03:33+08:00 推文](https://twitter.com/lingli_vienna/status/1468717917776723968)
 
@@ -117,7 +117,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Hot takes by @MaryGao on the PRC White Paper o
 
 ### 26: [2021-12-09 08:49:15+08:00 推文](https://twitter.com/cnmediaproject/status/1468744516048125955)
 
-Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping the People's Daily today, a message sent by Xi Jinping to the "South-South Human Rights Forum" (南南人权论坛). Begins: "XJP pointed out that human rights are a mark of the progress of human civilization." <a href="http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/09/nw.D110000renmrb_20211209_1-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIHHnRUUAAHriF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 27: [2021-12-09 08:53:13+08:00 推文](https://twitter.com/cnmediaproject/status/1468745515122958336)
 

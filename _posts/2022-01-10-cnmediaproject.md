@@ -37,7 +37,7 @@ RT Tom Kellogg<br>Re This film should be placed right beside works like @Anne_
 
 ### 6: [2022-01-11 16:20:35+08:00 推文](https://twitter.com/cnmediaproject/status/1480816899495964672)
 
-The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style="" src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
+The former director and editor-in-chief of the China Youth Daily newspaper,Xu Zhuqing, passed away in Beijing on January 5 from lung cancer. He led the paper through what many now see as its golden age in the intellectual ferment of the 1980s. <a href="https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/11/remembering-xu-zhuqing/</a><br><img style src="https://pbs.twimg.com/media/FIzq5C0aUAE_JG2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-11 19:04:40+08:00 推文](https://twitter.com/SPCmonitor/status/1480858190346878977)
 
@@ -81,7 +81,7 @@ RT Lingling Wei 魏玲灵<br>China's economic plan these days reads like a mas
 
 ### 17: [2022-01-14 08:18:35+08:00 推文](https://twitter.com/cnmediaproject/status/1481782762940268546)
 
-As the Covid lockdown in the city of Xi'an continues, one media observation site calls the colorful and inventive front-page designs of a local commercial newspaper “a light in the darkness, lighting the way for people in their fight against the epidemic.” <a href="https://chinamediaproject.org/2022/01/14/pining-for-paper-media/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/14/pining-for-paper-media/</a><br><img style src="https://pbs.twimg.com/media/FJBZhxaaIAYIQvy?format=jpg&name=orig" referrerpolicy="no-referrer">
+As the Covid lockdown in the city of Xi'an continues, one media observation site calls the colorful and inventive front-page designs of a local commercial newspaper “a light in the darkness, lighting the way for people in their fight against the epidemic.” <a href="https://chinamediaproject.org/2022/01/14/pining-for-paper-media/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/14/pining-for-paper-media/</a><br><img style="" src="https://pbs.twimg.com/media/FJBZhxaaIAYIQvy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-14 08:23:01+08:00 推文](https://twitter.com/cnmediaproject/status/1481783879745024008)
 
