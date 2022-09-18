@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-01-03~2022-01-09'
 
 ### 3: [2022-01-03 04:28:20+08:00 推文](https://twitter.com/realcaixia/status/1477738554042327043)
 
-中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-03 05:07:05+08:00 推文](https://twitter.com/realcaixia/status/1477748304511385600)
 
@@ -101,7 +101,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
-偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style="" src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
+偶然读到了这篇短文，好心酸。这是大陆最底层民生艰难的真实叙述，是一颗悲苦的灵魂最后的呼喊。希望更多的网友来读这篇带着孩子稚嫩笔迹的短文。特此推荐。<br><br>请勿提我的名字🙏: 小时候学朱自清的背影，最让我感动的就是父亲肥胖的背影那段描写，这篇短文再次让我感动了，小文不是视频，没办法摆拍吧<br><br><img style src="https://pbs.twimg.com/media/FITXz2tVcAErygy?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 23: [2022-01-05 22:59:27+08:00 推文](https://twitter.com/realcaixia/status/1478742949714399236)
 
@@ -205,7 +205,7 @@ Re 公共服务和基本的社会正常运转，而且意味着无法偿还债�
 
 ### 48: [2022-01-09 02:17:33+08:00 推文](https://twitter.com/realcaixia/status/1479879967638962183)
 
-宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
+宣布鹤岗市政府破产，会不会成为各地政府赖账的第一步？<br><img style="" src="https://pbs.twimg.com/media/FImW-FkWUAEGmFB?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-WKXsAs3v8c?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW-ntXEAAhMmf?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FImW_GFXMAMm8Xf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 49: [2022-01-09 02:36:51+08:00 推文](https://twitter.com/realcaixia/status/1479884825024778250)
 
