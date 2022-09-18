@@ -585,7 +585,7 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 
 ### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
 
 ### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
@@ -637,7 +637,7 @@ Re @ricco_chen @KELMAND1 这是纽约邮报，非纽约时报，纽约时报现�
 
 ### 156: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
 
-中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。
+中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。<br><br>华尔街日报中文网: 中美两国领导人正将大国竞争的部分焦点转向比拼谁的国家增长更强劲。<br>很长时间以来，经济学家一直认为中国经济超越美国是迟早的事。但现在一些人指出，随着中国政府对经济的控制不断加强，加上生产力增长放缓和劳动力萎缩，中国也可能永远无法超越美国。<br> <a href="https://on.wsj.com/3QZLOpr" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3QZLOpr</a>
 
 ### 157: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
 
@@ -689,7 +689,7 @@ Re @fanggexu @JianglinLi @david_david1968 @Wu_Zhi 我完全不耽心2035年的�
 
 ### 169: [2022-07-03 03:25:03+08:00 推文](https://twitter.com/HeQinglian/status/1543314830785904642)
 
-BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？
+BRICKS在俄乌战后启动内部结算系统，五国贸易不再用美元结算，可以用五国货币结算，印度、中国都增加对俄能源天然气的购买，不知这算不算“实质性援助”？<br><br>美国之音中文网: 白宫再次表示，尚未发现中国为俄罗斯提供实质性援助<br> <a href="http://dlvr.it/STBcg9" target="_blank" rel="noopener noreferrer">http://dlvr.it/STBcg9</a>
 
 ### 170: [2022-07-03 03:46:49+08:00 推文](https://twitter.com/HeQinglian/status/1543320305912905729)
 
@@ -725,7 +725,7 @@ Re @RealBeiMing 好莱坞有一类鬼怪片，里面的鬼怪就是这样打扮�
 
 ### 178: [2022-07-03 19:37:17+08:00 推文](https://twitter.com/HeQinglian/status/1543559502095683587)
 
-拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。<br><br>Clown World ™ 🤡: <br><br><video src="https://video.twimg.com/ext_tw_video/1542979457585074177/pu/vid/606x1080/eFgmNpIyLY-U1PRy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542979457585074177/pu/img/K9J_B57yzYVK0C4n.jpg"></video>
+拉斯穆森近日调查，还有42%支持拜登，图中这类人、经常洗劫商店的BLM与骄傲日裸体游行的人，加上75%以上的青年大学生，以及95%以上的NGO，就是拜登民主党的社会基础。这个社会基础培育多年，很难短期内消失。 <a href="https://twitter.com/zt33268778/status/1543262704902848513" target="_blank" rel="noopener noreferrer">https://twitter.com/zt33268778/status/1543262704902848513</a>
 
 ### 179: [2022-07-03 19:44:02+08:00 推文](https://twitter.com/HeQinglian/status/1543561198909759488)
 
