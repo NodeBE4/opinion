@@ -75,3 +75,7 @@ We looked at 20 patent applications submitted by the China Electronics Technolog
 
 RT Chu Yang<br>To achieve its “zero Covid” goal on the 19th, Guiyang transfers positives and close contacts to surrounding counties. Early hours of this morning, a transfer bus heading to Libo had a rollover accident, which tragically killed 27 passengers. 20 people are still under treatment.<br><img style="" src="https://pbs.twimg.com/media/Fc64ecqXoAA1eKX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 16: [2022-09-18 23:02:12+08:00 推文](https://twitter.com/RaphaelChanTS/status/1571514936282738688)
+
+RT Raphael Chan<br>1/7: @cnmediaproject looked at 20 online information-related patent applications made by state-owned defense conglomerate CETC. They offer a glimpse into the state’s priorities and methods in policing online activity and guiding public opinion. <a href="https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats%ef%bf%bc/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/16/eliminating-unformed-threats%ef%bf%bc/</a>
+

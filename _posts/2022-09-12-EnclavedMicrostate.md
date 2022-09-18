@@ -129,17 +129,25 @@ While more might be said, a few past answers by /u/keyilan discuss various aspec
 * [When did Mandarin form as a recognizable language?](https://www.reddit.com/r/AskHistorians/comments/2npr3g/when_did_mandarin_form_as_a_recognizable_language/)
 * [What was widely spoken in China before Mandarin Chinese was standardized?](https://www.reddit.com/r/AskHistorians/comments/lm5sai/what_was_widely_spoken_in_china_before_mandarin/gnvc0tn/)
 
-### 805: [Did most people know/care who their king was?](https://old.reddit.com/r/AskHistorians/comments/xh46jy/did_most_people_knowcare_who_their_king_was/), submitted on 2022-09-18 10:03:57+08:00.
+### 805: [If this is Gura's origin story then why is Hololive advertising that an illustrator will create a character for the auditioner?](https://old.reddit.com/r/Hololive/comments/xh42x7/if_this_is_guras_origin_story_then_why_is/), submitted on 2022-09-18 09:59:23+08:00.
 
------ __805.1__ -----2022-09-18 11:13:58+08:00:
+----- __805.1__ -----2022-09-19 01:05:47+08:00:
+
+> Roboco
+
+This seems to be a misconception – the Roboco *model* predates Hololive, but wasn't matched with a talent till later.
+
+### 806: [Did most people know/care who their king was?](https://old.reddit.com/r/AskHistorians/comments/xh46jy/did_most_people_knowcare_who_their_king_was/), submitted on 2022-09-18 10:03:57+08:00.
+
+----- __806.1__ -----2022-09-18 11:13:58+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
 
-### 806: [Why were the armies in the Boshin War so small?](https://old.reddit.com/r/AskHistorians/comments/xh5zv8/why_were_the_armies_in_the_boshin_war_so_small/), submitted on 2022-09-18 11:35:50+08:00.
+### 807: [Why were the armies in the Boshin War so small?](https://old.reddit.com/r/AskHistorians/comments/xh5zv8/why_were_the_armies_in_the_boshin_war_so_small/), submitted on 2022-09-18 11:35:50+08:00.
 
------ __806.1__ -----2022-09-18 17:17:36+08:00:
+----- __807.1__ -----2022-09-18 17:17:36+08:00:
 
 The small sizes of armies in the Boshin War really ought not to surprise us in light of the political and military structure of the late Edo period. Simply put, Japan and its domains had not been on a war footing for a *very* long time, and were still in the process of developing their ability to mobilise manpower and materiel when regional conflict boiled over into civil war in January 1868.
 
@@ -151,7 +159,7 @@ If we look at these domains, we find that their military power – helped consid
 
 Conditions in Japan ca. 1868 were really quite different from those of the Napoleonic Wars or the American Civil War. By the time of the Napoleonic Wars, European states had been on a war footing for centuries and had developed considerable mobilisation systems as well as domestic arms industries. While the French Revolution would see these expand even further, this was built on quite considerable foundations. Impressive as the alleged 1.4 million Frenchmen under arms in 1794 was (though actual strength likely did not exceed 800,000), this was not even an order of magnitude increase over the perhaps 250,000 troops that the Bourbons could field during the War of the Spanish Succession less than a century earlier. The United and Confederate States may have split a tiny standing army between them, but both had large militias, some level of domestic arms production, and – at least to begin with in the Confederacy's case – the financial power to purchase weapons from overseas, allowing the two to create high-intensity war efforts off the bat, and for the US to sustain its for the better part of half a decade. The Japanese domains simply did not have the same baseline around which to coordinate a rapid military expansion.
 
------ __806.2__ -----2022-09-18 23:25:38+08:00:
+----- __807.2__ -----2022-09-18 23:25:38+08:00:
 
 I'm afraid my interest in the Bakumatsu period remains very uneven, so apologies if I can't provide much detail. The only work *of which I know* that discusses logistics in the Boshin War is as part of a general chapter on military aspects of the period by Hōya Tōru, but he mainly discusses the arrangements made by the nascent Imperial Army after April 1868. The aspects he discusses, though, would appear to hold true for most of the period in question and indeed with the general state of early modern military logistics.
 
