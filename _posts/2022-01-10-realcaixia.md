@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-01-10~2022-01-16'
 
 ### 2: [2022-01-10 00:34:00+08:00 推文](https://twitter.com/realcaixia/status/1480216293903151104)
 
-借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
+借口防疫，大规模侵犯人权。上百户人家都被封死在楼上，一旦发生火灾，上百家人中将失去多少生命？封门封楼，上百户中会有多少户人家挨饿；上百户人家中若有慢性病患者急性发病，怎么去看病？这样的防疫措施是反人类的，因为它剥夺人生存的基本条件和具备要求。<br><br>大耳朵猫妹: 能焊门就能锁单元楼门，只有万一发生了群死群伤事故，才会像孕产妇被拒诊流产引起极大民愤一样，下命令不许锁楼门。<br><br><img style="" src="https://pbs.twimg.com/media/FInPha1X0AA-tcp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-10 02:02:44+08:00 推文](https://twitter.com/realcaixia/status/1480238624746754054)
 
@@ -65,7 +65,7 @@ Re @SoundOfHope_SOH 19届6中全会是2021年11月上旬举行的。你们查了
 
 ### 13: [2022-01-14 13:01:23+08:00 推文](https://twitter.com/realcaixia/status/1481853929973596162)
 
-我支持光传媒维护自己权益。光传媒YouTube频道播出没有色情暴力，都是讨论问题发表见解，行使言论自由权利。YouTube事先没有任何告知，突然采取“永久移除”，依凭哪一条管理规则如此处理？请公开规则，不要搞黑洞管理。YouTube突然“永久移除”令我想起中共网管的“永久封号”。难道说YouTube从中共学来的？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【号外】<br><br>2022年1月13日早8:44分光传媒突然收到YouTube发来的邮件，告知“已经永久移除”我们的频道，之前没有任何告知和提醒程序<br>此前九个小时我司已发出民主人士郭飞雄妻子张青追思会的直播预告…<br><br>我们深感震惊，对油管微信化感到痛心，这样蛮横的做法我们有异议将进行力争，相信美国民主制度的力量<br><br><img style="" src="https://pbs.twimg.com/media/FJCVduiWYAAbVyZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJCVdujXMAASKeg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJCVduiXwAMZ-Dd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJCVduiWQAAH19r?format=jpg&name=orig" referrerpolicy="no-referrer">
+我支持光传媒维护自己权益。光传媒YouTube频道播出没有色情暴力，都是讨论问题发表见解，行使言论自由权利。YouTube事先没有任何告知，突然采取“永久移除”，依凭哪一条管理规则如此处理？请公开规则，不要搞黑洞管理。YouTube突然“永久移除”令我想起中共网管的“永久封号”。难道说YouTube从中共学来的？<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【号外】<br><br>2022年1月13日早8:44分光传媒突然收到YouTube发来的邮件，告知“已经永久移除”我们的频道，之前没有任何告知和提醒程序<br>此前九个小时我司已发出民主人士郭飞雄妻子张青追思会的直播预告…<br><br>我们深感震惊，对油管微信化感到痛心，这样蛮横的做法我们有异议将进行力争，相信美国民主制度的力量<br><br><img style src="https://pbs.twimg.com/media/FJCVduiWYAAbVyZ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJCVdujXMAASKeg?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJCVduiXwAMZ-Dd?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJCVduiWQAAH19r?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-01-14 20:54:44+08:00 推文](https://twitter.com/realcaixia/status/1481973054586736642)
 
@@ -85,5 +85,5 @@ Re 访谈中我的语速过于快了，当时怕时间不够，所以加快了�
 
 ### 18: [2022-01-16 11:54:19+08:00 推文](https://twitter.com/realcaixia/status/1482561830782488579)
 
-苏州市原本是书香之城鱼米之乡，吴侬软语也是形成苏州人温和性格的文化基因。现在的苏州变得如此野蛮暴力，特别是司法机构如此野蛮，何来文明、法治、和谐？！<br><br>王宇律师: 我们在苏州市姑苏区法院开庭，结果开完庭之后，我突然被一群人从背后大背着拖出法院，摔在门口。我现在法院门口，已经打110报警，等待警察来调监控，做笔录。但我不知道出警民警是否能真正按法律执法，是不是官官相互。<br><br><img style src="https://pbs.twimg.com/media/FI9xPzpacAMzm0G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FI9xPznaIAEwoai?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FI9xPzlaUAEWYoe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FI9xP1QacAUaXoL?format=jpg&name=orig" referrerpolicy="no-referrer">
+苏州市原本是书香之城鱼米之乡，吴侬软语也是形成苏州人温和性格的文化基因。现在的苏州变得如此野蛮暴力，特别是司法机构如此野蛮，何来文明、法治、和谐？！<br><br>王宇律师: 我们在苏州市姑苏区法院开庭，结果开完庭之后，我突然被一群人从背后大背着拖出法院，摔在门口。我现在法院门口，已经打110报警，等待警察来调监控，做笔录。但我不知道出警民警是否能真正按法律执法，是不是官官相互。<br><br><img style="" src="https://pbs.twimg.com/media/FI9xPzpacAMzm0G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FI9xPznaIAEwoai?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FI9xPzlaUAEWYoe?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FI9xP1QacAUaXoL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
