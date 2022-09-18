@@ -87,5 +87,5 @@ With @TransworldBooks donating the books, I had my book signing session yesterda
 
 ### 18: [2022-04-09 22:35:15+08:00 推文](https://twitter.com/nathanlawkc/status/1512801317617606658)
 
-🇺🇦🇺🇦🇺🇦
+🇺🇦🇺🇦🇺🇦<br><br>Embassy of Ukraine to the UK: Surprise 😉<br><br><img style="" src="https://pbs.twimg.com/media/FP6D3xQXsAAA0Yw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
