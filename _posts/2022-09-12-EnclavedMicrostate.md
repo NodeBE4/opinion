@@ -101,21 +101,27 @@ This was a plot to establish an anti-Qing regime in Guangzhou in 1902, independe
 
 Isn't 'power level' just 4chan speak for how many groups of people you're bigoted against though?
 
-### 801: [Was the Fengtian Clique led by Manchus?](https://old.reddit.com/r/ChineseHistory/comments/xgwway/was_the_fengtian_clique_led_by_manchus/), submitted on 2022-09-18 04:33:55+08:00.
+### 801: [Has Perry Miniatures stopped printing their WotR minis?](https://old.reddit.com/r/wargaming/comments/xgrfik/has_perry_miniatures_stopped_printing_their_wotr/), submitted on 2022-09-18 00:47:18+08:00.
 
------ __801.1__ -----2022-09-18 11:10:08+08:00:
+----- __801.1__ -----2022-09-18 13:24:27+08:00:
+
+Perry's own website doesn't suggest stock issues, have you checked there?
+
+### 802: [Was the Fengtian Clique led by Manchus?](https://old.reddit.com/r/ChineseHistory/comments/xgwway/was_the_fengtian_clique_led_by_manchus/), submitted on 2022-09-18 04:33:55+08:00.
+
+----- __802.1__ -----2022-09-18 11:10:08+08:00:
 
 The ethnic definitions of 'Manchu' vs 'Han' changed over time. While the 'Banner'/'Manchu' elision had *largely* set in by the fall of the Qing, Zhang and Zhao's specific claims to being Hanjun Bannermen suggests they were still implying something other than full ethnic Manchu status, but rather asserting status as Manchu-adjacent, at least in my view. There's something to the suggestion that Hanjun (as in Han Bannermen) were, under the Qing, originally conceived of as ethnically distinct from the Han writ large, but whether the Fengtian Clique officers understood this is unclear to me.
 
-### 802: [Ming/Qing military governorates](https://old.reddit.com/r/ChineseHistory/comments/xgx5jd/mingqing_military_governorates/), submitted on 2022-09-18 04:44:38+08:00.
+### 803: [Ming/Qing military governorates](https://old.reddit.com/r/ChineseHistory/comments/xgx5jd/mingqing_military_governorates/), submitted on 2022-09-18 04:44:38+08:00.
 
------ __802.1__ -----2022-09-18 11:13:41+08:00:
+----- __803.1__ -----2022-09-18 11:13:41+08:00:
 
 You very much could, and indeed a number of European maps from the 18th and 19th centuries *do* show a distinction between China Proper and Inner Asia for the Qing. Take for instance [this](https://upload.wikimedia.org/wikipedia/commons/7/7b/1861_Johnson_Map_of_China_-_Geographicus_-_China-johnson-1861.jpg), [this](https://www.alamy.com/stock-photo-china-china-c1885-antique-map-102562777.html?imageid=8B48E2EA-2C87-4F16-A1F8-011B3452E8FA&p=283958&pn=1&searchId=104a9bdc57960faeda77eeb3b5618f57&searchtype=0), [this](https://www.istockphoto.com/hk/%E5%90%91%E9%87%8F/%E4%B8%AD%E5%9C%8B%E5%B8%9D%E5%9C%8B%E5%8F%A4%E5%9C%96-%E6%97%A5%E6%9C%AC-1897%E5%B9%B4-19%E4%B8%96%E7%B4%80%E5%BE%8C%E6%9C%9F-gm1067458876-285482203), and [this](http://www.emersonkent.com/map_archive/china_1910.htm).
 
-### 803: [When, and how, did Mandarin become the dominant lingua franca within China? What common languages were used before Mandarin's rise?](https://old.reddit.com/r/AskHistorians/comments/xgysnd/when_and_how_did_mandarin_become_the_dominant/), submitted on 2022-09-18 05:54:00+08:00.
+### 804: [When, and how, did Mandarin become the dominant lingua franca within China? What common languages were used before Mandarin's rise?](https://old.reddit.com/r/AskHistorians/comments/xgysnd/when_and_how_did_mandarin_become_the_dominant/), submitted on 2022-09-18 05:54:00+08:00.
 
------ __803.1__ -----2022-09-18 10:56:16+08:00:
+----- __804.1__ -----2022-09-18 10:56:16+08:00:
 
 While more might be said, a few past answers by /u/keyilan discuss various aspects of your question:
 
@@ -123,9 +129,9 @@ While more might be said, a few past answers by /u/keyilan discuss various aspec
 * [When did Mandarin form as a recognizable language?](https://www.reddit.com/r/AskHistorians/comments/2npr3g/when_did_mandarin_form_as_a_recognizable_language/)
 * [What was widely spoken in China before Mandarin Chinese was standardized?](https://www.reddit.com/r/AskHistorians/comments/lm5sai/what_was_widely_spoken_in_china_before_mandarin/gnvc0tn/)
 
-### 804: [Did most people know/care who their king was?](https://old.reddit.com/r/AskHistorians/comments/xh46jy/did_most_people_knowcare_who_their_king_was/), submitted on 2022-09-18 10:03:57+08:00.
+### 805: [Did most people know/care who their king was?](https://old.reddit.com/r/AskHistorians/comments/xh46jy/did_most_people_knowcare_who_their_king_was/), submitted on 2022-09-18 10:03:57+08:00.
 
------ __804.1__ -----2022-09-18 11:13:58+08:00:
+----- __805.1__ -----2022-09-18 11:13:58+08:00:
 
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  

@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-01-18 19:52:39+08:00 推文](https://twitter.com/cnmediaproject/status/1483406980836642818)
 
-Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
+Viewed by nearly 90% of China's one billion internet users, short videos are the rage. Hoping to ride the wave and change minds, CCP propaganda leaders are rewarding the promotion of Party agendas at home and abroad through the popular medium. <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJYexeGaIAU5Crg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-18 23:50:12+08:00 推文](https://twitter.com/CHRDnet/status/1483466762351906816)
 
@@ -45,7 +45,7 @@ Re @sebastianveghk @lingli_vienna 人生的扣子 goes back to 2014 apparently: 
 
 ### 8: [2022-01-19 23:15:36+08:00 推文](https://twitter.com/sehof/status/1483820443710922753)
 
-RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
+RT Sense Hofstede<br>Re Het Cross-Cultural Human Rights Centre van de VU verscheen eerder al in Chinese propaganda:<br><br>China Media Project: He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart .<br><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a>
 
 ### 9: [2022-01-20 07:45:03+08:00 推文](https://twitter.com/cnmediaproject/status/1483948651726897153)
 
@@ -57,7 +57,7 @@ Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human 
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
-Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CCHRC content is strikingly in line with the CCP line, though Zwart insists he "is able to operate independently despite the funding from China." Here is a "news" piece attacking the Summit for Democracy and linking to China's foreign ministry. <a href="https://crossculturalhumanrightscentre.com/?page_id=12" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=12</a><br><img style="" src="https://pbs.twimg.com/media/FJgOOT2aIAMARaX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
@@ -85,7 +85,7 @@ Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Right
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
-RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent &amp; smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
+RT Dake Kang<br>Emily went to report a nice feature story about a food she loves, calls it pungent & smelly but delicious (just the way many in China describe it), and… gets harassed by police, called a race-traitor infiltrator, smeared in state media.<br><br>Just the worst blend of Kafka and Orwell.<br><br>Emily Feng 冯哲芸: 1/ This story has generated vitriolic backlash in China, and reporting it turned out to be more difficult than I imagined. A Tweet thread 🧵on reporting in China these days: <br><br>Last year, we lined up interviews with factories and government noodle officials (yes, they exist)<br> <a href="https://twitter.com/EmilyZFeng/status/1483632947370467331" target="_blank" rel="noopener noreferrer">https://twitter.com/EmilyZFeng/status/1483632947370467331</a>
 
 ### 19: [2022-01-20 15:42:11+08:00 推文](https://twitter.com/vshih2/status/1484068724445310976)
 
