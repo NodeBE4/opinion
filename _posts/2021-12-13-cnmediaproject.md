@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
@@ -47,9 +47,9 @@ The "real results" reading of China's political system would be far more compell
 
 RT Made in China Journal<br>Now that we are nearing the year’s end, it’s time to share our most widely read articles for 2021. No. 10 is Ivan Franceschini’s (@FangYiren) review essay on the sorry state of neoliberal academia. 1/ <a href="https://madeinchinajournal.com/2021/07/20/the-work-of-culture/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/07/20/the-work-of-culture/</a>
 
-### 9: [2021-12-14 17:07:43+08:00 推文](https://twitter.com/MIC_Journal/status/1470681898615590912)
+### 9: [2021-12-14 17:07:43+08:00 推文](https://twitter.com/MIC_Journal/status/1470681900901494785)
 
-RT Made in China Journal<br>Re No. 5 is @StellaHongZhang’s op-ed on whether China’s Belt and Road Initiative is actually slowing down, originally published in our @GlobalChinaMap. 6/ <a href="https://thepeoplesmap.net/2021/06/21/is-chinas-belt-and-road-initiative-slowing-down/" target="_blank" rel="noopener noreferrer">https://thepeoplesmap.net/2021/06/21/is-chinas-belt-and-road-initiative-slowing-down/</a>
+RT Made in China Journal<br>Re No. 4 is @lingli_vienna’s op-ed about a possible strategy that Xi Jinping could adopt to remain in power after next year. 7/ <a href="https://madeinchinajournal.com/2021/11/01/the-third-road-where-will-xi-jinping-go-in-2022/" target="_blank" rel="noopener noreferrer">https://madeinchinajournal.com/2021/11/01/the-third-road-where-will-xi-jinping-go-in-2022/</a>
 
 ### 10: [2021-12-14 17:07:44+08:00 推文](https://twitter.com/MIC_Journal/status/1470681905766940674)
 
@@ -77,7 +77,7 @@ Re @TruthOfFinance @niubi But perhaps "top online influencer" also good here.
 
 ### 16: [2021-12-16 10:59:23+08:00 推文](https://twitter.com/cnmediaproject/status/1471313981596106754)
 
-In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style="" src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
+In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
