@@ -65,7 +65,7 @@ My Top 5 Non-Fiction:
 
 No Paywall: https://archive.ph/MSfrm
 
-### 311: [Russian sport has embarked on a degradation route](https://old.reddit.com/r/geopolitics/comments/vh9uuc/russian_sport_has_embarked_on_a_degradation_route/), submitted on 2022-06-21 18:07:17+08:00.
+### 311: [[deleted by user]](https://old.reddit.com/r/geopolitics/comments/vh9uuc/deleted_by_user/), submitted on 2022-06-21 18:07:17+08:00.
 
 ----- __311.1__ -----2022-06-21 20:11:22+08:00:
 
