@@ -63,3 +63,7 @@ Re @lawyer_sui 推上有几大华女左疯，属于心理变态类。<br>BTW，�
 
 Re @david_david1968 一个天天举报别人的人，推特也会看看是个什么货。
 
+### 13: [2022-09-20 04:04:59+08:00 推文](https://twitter.com/HeQinglian/status/1571953521645260800)
+
+Re @FightForJiuCai 听起来，乌克兰已经大获全胜。但为何没见西方主媒捷报？
+
