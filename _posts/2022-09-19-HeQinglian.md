@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-19
+date: 2022-09-20
 from: https://twitter.com/HeQinglian/status/1571602839218036736
 layout: post
 tags:
@@ -58,4 +58,8 @@ Re @FranzMendelsso1 @david_david1968 那就太惨了点。大概还不敢吧？
 ### 11: [2022-09-19 23:13:24+08:00 推文](https://twitter.com/HeQinglian/status/1571880139872518148)
 
 Re @lawyer_sui 推上有几大华女左疯，属于心理变态类。<br>BTW，要记住皮尤的一项调查：白人女左，超过一半有精神疾病（程度不等），我给过链接。估计其他族裔如果做调查，结果差不多。
+
+### 12: [2022-09-20 00:08:38+08:00 推文](https://twitter.com/HeQinglian/status/1571894041435938816)
+
+Re @david_david1968 一个天天举报别人的人，推特也会看看是个什么货。
 
