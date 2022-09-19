@@ -31,3 +31,7 @@ RT Susan Finder<br>Analysis of the Guizhou bus accident--it is not just a simp
 
 What happens when laws meant to protect basic safety are suspended in the name of top-down policies meant to ensure public health? CMP translates an important post on the breaking of laws behind the Guizhou bus accident. <a href="https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/</a>
 
+### 5: [2022-09-19 23:19:49+08:00 推文](https://twitter.com/cnmediaproject/status/1571881754881052677)
+
+Guizhou officials have pledged to investigate the causes of a deadly traffic accident over the weekend. But some of the most basic facts in the tragedy already point to the key role played by unyielding top-down Covid mandates in China. <a href="https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/</a>
+
