@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-19
+date: 2022-09-20
 from: https://twitter.com/realcaixia/status/1571795403028168704
 layout: post
 tags:
@@ -34,4 +34,8 @@ Re 请听方的言评论。最后的两篇短文，实在是令人愤懑不已�
 ### 5: [2022-09-19 22:12:20+08:00 推文](https://twitter.com/realcaixia/status/1571864774069358594)
 
 中共网管一键封喉，谁说话谁被封号封群被警察训诫被拘留N多天。中国数亿民众的苦难呼号就这样被消声了！中国数亿人因强制清零而遭受人权被侵害，将会写入为21世纪最大规模的人权灾难历史记录。<br><br>王剑 Wong Kim: <br><br><img style="" src="https://pbs.twimg.com/media/Fc9KFhDWQAEeApE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 6: [2022-09-20 02:59:23+08:00 推文](https://twitter.com/realcaixia/status/1571937010830426112)
+
+请关注和声援这位当事人。当事人开个小饭店维持生存，警察吃饭不付钱；当事人请律师帮助讨还公道，警察一大早6点敲门！被官府被警察欺压敲诈的普通民众有成千上万，但敢于公开揭露的勇敢者并不多。这位当事人敢于抗争强权，勇于维护自己权利和尊严令人尊敬！希望有更多人站出来，不再逆来顺受。<br><br>lily valley: 赶尽杀绝！<br><br>上海通报警察办案期间就餐未付款的当事人再次发声：跟阿Sir约好了礼拜一和律师一起来上海配合调查，结果早上六点警察就来家里敲门！<br><br>网友：再报就是半夜破门直接拖走了！<br><br><video src="https://video.twimg.com/ext_tw_video/1571430719985008641/pu/vid/720x1280/7vcPOwkQyUW2LvO0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1571430719985008641/pu/img/jlmmVj59U-ddL-kG.jpg"></video>
 
