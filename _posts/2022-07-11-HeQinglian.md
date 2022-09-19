@@ -505,7 +505,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 @ngexp 这倒不是。2017�
 
 ### 123: [2022-07-15 01:28:31+08:00 推文](https://twitter.com/HeQinglian/status/1547634157076918275)
 
-斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
+RT He Qinglian<br>斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
 
 ### 124: [2022-07-15 03:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1547671274280742914)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 
@@ -657,7 +657,7 @@ Re @farmdirect8 @shenliangqing2 @peichang_yang 为什么要费尽心思？男女
 
 ### 161: [2022-07-17 05:53:35+08:00 推文](https://twitter.com/HeQinglian/status/1548425640264708100)
 
-经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。<br><br>The Economist: Joe Biden’s hosts will offer a friendly welcome, but they will probably send him home with little more than a few token souvenirs<br> <a href="https://econ.st/3IOSlzP" target="_blank" rel="noopener noreferrer">https://econ.st/3IOSlzP</a>
+经济学人：中东为美国提供了什么？<br>美国总统开始漫无目的的旅行<br>乔·拜登于 7 月 13 日开始对以色列和巴勒斯坦进行近 48 小时的访问，目的是进行平庸的练习：握手，看几个景点，然后返回机场。在最近的记忆中，没有哪位美国总统在谈到该地区最棘手的冲突时几乎无话可说。
 
 ### 162: [2022-07-17 09:04:35+08:00 推文](https://twitter.com/HeQinglian/status/1548473706740994049)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 

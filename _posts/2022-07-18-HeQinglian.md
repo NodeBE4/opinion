@@ -117,7 +117,7 @@ Re @KELMAND1 作者的意思很明显：一段时期只能有一个外交重心�
 
 ### 26: [2022-07-19 08:51:26+08:00 推文](https://twitter.com/HeQinglian/status/1549195174395494402)
 
-资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。<br><br>Ezio Mao☢: “现在强迫中国自己制造芯片，意味着如果将来发生冲突，你不仅放弃了这些高薪工作，而且会迫使中国完全实现自给自足。”比尔·盖茨曾接受美国彭博社采访时表示：“这样做真的会有好处吗?”<br><br><img style="" src="https://pbs.twimg.com/media/FX6nBfYakAETGea?format=png&amp;name=orig" referrerpolicy="no-referrer">
+资本主义经济是种持续扩张型经济，需要市场，一旦市场收缩，生产就过剩。
 
 ### 27: [2022-07-19 09:00:32+08:00 推文](https://twitter.com/HeQinglian/status/1549197462434373634)
 
@@ -297,7 +297,7 @@ Re @zhixiangziyou 这事属于安慰性质。<br>当年宋美龄来美国，个�
 
 ### 71: [2022-07-21 08:21:25+08:00 推文](https://twitter.com/HeQinglian/status/1549912395836964866)
 
-马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。<br><br>RFI 华语 - 法国国际广播电台: 美英法德日等18个经济体发表联合声明：提出全球供应链合作四大原则<br><br><img style="" src="https://pbs.twimg.com/media/FYI3XbBUUAAed_i?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bAe.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bAe.t</a>
+马克思政治经济学的终极真理就是政府安排一切，西方经济学的核心就是市场这只看不见的手导引一切。1980年代我们这代学子完全皈依西方经济学。<br>如今西方国家更上一层楼，世界政府安排一切，至少先让十分之一的国家（GDP总量可能超过世界五分之三）先接受世界中央领导。<br>大重置力量也真拼了，屡败屡战。
 
 ### 72: [2022-07-21 08:33:55+08:00 推文](https://twitter.com/HeQinglian/status/1549915540361207809)
 
@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -769,7 +769,7 @@ Re @fading_you1 恭喜你。推特上几百万中文用户，你排在如此靠�
 
 ### 189: [2022-07-24 20:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1551180986469285888)
 
-这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉
+这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉<br><br>绫波: 意大利和西班牙指责俄罗斯在意西两个国的森林火灾局面中无所作为。<br><br>今年，俄罗斯紧急救援部并没有派出消防机帮助他们应对森林火灾。<br><br><img style="" src="https://pbs.twimg.com/media/FYXmfQhUsAAOgAh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 190: [2022-07-24 20:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1551181855545860100)
 
@@ -801,5 +801,5 @@ Re @realJackLaw @KELMAND1 @ZedongWinine @LetsBeatRabbits 正好相反。
 
 ### 197: [2022-07-24 23:35:41+08:00 推文](https://twitter.com/HeQinglian/status/1551229642526318592)
 
-米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？
+米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？<br><br>RFI 華語 - 法國國際廣播電台: 米利將軍：中國更具侵略性 對美國及盟友很危險<br><br><img style="" src="https://pbs.twimg.com/media/FYcPrOoUEAEWRZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bk1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bk1.t</a>
 
