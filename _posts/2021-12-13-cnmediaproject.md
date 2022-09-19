@@ -77,11 +77,11 @@ Re @TruthOfFinance @niubi But perhaps "top online influencer" also good here.
 
 ### 16: [2021-12-16 10:59:23+08:00 推文](https://twitter.com/cnmediaproject/status/1471313981596106754)
 
-In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style="" src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
+In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGsqL6uVkAEsAQB?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-16 11:09:12+08:00 推文](https://twitter.com/cnmediaproject/status/1471316452531904512)
 
@@ -89,15 +89,15 @@ Re Sorry, link to the article is here: <a href="https://chinamediaproject.org/
 
 ### 19: [2021-12-16 11:10:38+08:00 推文](https://twitter.com/cnmediaproject/status/1471316813388869633)
 
-The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
+The CAC announced yesterday it has shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.” <a href="https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/shutting-down-top-influencers/</a><br><img style="" src="https://pbs.twimg.com/media/FGsq0A9VQAAScX8?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-16 11:19:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471319064304054280)
 
-Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style="" src="https://pbs.twimg.com/media/FGss2ttUYAIbPEF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re CMP looks a bit more closely at the language in the CAC notice. One point is that the mandate of "guidance," once the resp. of traditional media gatekeepers, is now the responsibility of ALL. See Bandurski's 2017 analysis on the "hive" approach. <a href="https://bit.ly/3GSVIn7" target="_blank" rel="noopener noreferrer">https://bit.ly/3GSVIn7</a><br><img style src="https://pbs.twimg.com/media/FGss2ttUYAIbPEF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
-RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style="" src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
@@ -137,7 +137,7 @@ RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛:�
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
-A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
+A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
@@ -153,7 +153,7 @@ Re Here is a page from the textbook, now deleted from WeChat.<br><img style src=
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
-Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style="" src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
+Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 
@@ -161,7 +161,7 @@ Re Here is a whole group of texts designed to teach teachers in HOW TO work "ide
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
-Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
+Judging from our per-article site statistics, schadenfreude over Hu Xijin's "retirement" is a super-incentive for readers. Seriously, though, do take the time for good analysis, like our dictionary entry on the infiltration of CCP politics into education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxz2H0aIAYIgIA?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2021-12-17 11:17:41+08:00 推文](https://twitter.com/suelinwong/status/1471680973347901442)
 
