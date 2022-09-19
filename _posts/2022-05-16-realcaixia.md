@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
-6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。
+6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。<br><br>方舟子: 北大学生闹事后，辅导员鼓励同学根据现场照片相互检举揭发，秋后算帐，从来如此。<br><br><img style="" src="https://pbs.twimg.com/media/FS26l20VIAEEaw6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l21VEAIvTmi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l23UUAA27Da?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
@@ -97,7 +97,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 21: [2022-05-19 23:26:00+08:00 推文](https://twitter.com/realcaixia/status/1527309606577635330)
 
-这就是所有马克思列宁主义极权政党所宣传所期望的：把人改造成“共产主义新人”。
+这就是所有马克思列宁主义极权政党所宣传所期望的：把人改造成“共产主义新人”。<br><br>李承诺: 最终我们开发出一种芯片羊水，纳米级芯片会进入胎儿大脑、血液，促使其思想正确、举止正能量。再饿也不敲盆子、高唱《国际歌》。我们用芯片管理人性最终超越人性。按照李森科理论，子子孙孙遗传，宝宝一出生便露出胡锡进般的诡异微笑，问：粑粑，我要看新闻联播。<br>慢慢的，我们就成了优质变种人。<br> <a href="https://twitter.com/dayangelcp/status/1526090231694303232" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1526090231694303232</a>
 
 ### 22: [2022-05-20 20:59:16+08:00 推文](https://twitter.com/realcaixia/status/1527635065760534531)
 
@@ -121,7 +121,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
