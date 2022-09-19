@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 2: [2021-12-29 02:28:43+08:00 推文](https://twitter.com/realcaixia/status/1475896511791865856)
 
-现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style="" src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
+现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 06:06:33+08:00 推文](https://twitter.com/realcaixia/status/1475951330896322564)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 7: [2021-12-30 03:33:22+08:00 推文](https://twitter.com/realcaixia/status/1476275167831728130)
 
-民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style="" src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
+民主国家政府抵制冬奥，这是正义之举，应该唤起更多的国家政府共同抵制冬奥会！<br><br>DW 中文- 德国之声: 北京冬季奥运会即将开幕。美国已宣布外交抵制。欧盟尚在寻求共同立场。🇩🇪外交、内政部长已作出个人决定：不去北京。<br>不过她们都强调，此为个人决定，并非外交抵制的政治决策。<br>相关报道：<br><br><img style src="https://pbs.twimg.com/media/FHySweXWQAUb0Bt?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://dw.com/p/44xdn" target="_blank" rel="noopener noreferrer">http://dw.com/p/44xdn</a>
 
 ### 8: [2021-12-30 20:19:44+08:00 推文](https://twitter.com/realcaixia/status/1476528427725381633)
 
@@ -105,7 +105,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 
