@@ -67,3 +67,7 @@ Re @david_david1968 一个天天举报别人的人，推特也会看看是个什
 
 Re @FightForJiuCai 听起来，乌克兰已经大获全胜。但为何没见西方主媒捷报？
 
+### 14: [2022-09-20 08:19:28+08:00 推文](https://twitter.com/HeQinglian/status/1572017561688248320)
+
+如今的美国政府真厉害，能够让病毒听命，该来就来，为大选服务；该走就走，因为有了猴痘。<br><br>DW 中文- 德国之声: 美国总统拜登在专访节目中明确表示，大流行已告终结。"正如您所看到的，这里没人戴口罩了。大家似乎都显得很健康。" <br>根据美国联邦疾控中心（CDC）提供的数据，该国目前每天仍有近400人死于新冠。当局最近批准了两款能应对奥密克戎变体的二价mRNA疫苗，分别由BioNTech/辉瑞和莫德纳公司提供。<br><br><img style="" src="https://pbs.twimg.com/media/FdAtjsnXEAE2LvP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

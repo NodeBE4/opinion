@@ -39,3 +39,11 @@ Re 请听方的言评论。最后的两篇短文，实在是令人愤懑不已�
 
 请关注和声援这位当事人。当事人开个小饭店维持生存，警察吃饭不付钱；当事人请律师帮助讨还公道，警察一大早6点敲门！被官府被警察欺压敲诈的普通民众有成千上万，但敢于公开揭露的勇敢者并不多。这位当事人敢于抗争强权，勇于维护自己权利和尊严令人尊敬！希望有更多人站出来，不再逆来顺受。<br><br>lily valley: 赶尽杀绝！<br><br>上海通报警察办案期间就餐未付款的当事人再次发声：跟阿Sir约好了礼拜一和律师一起来上海配合调查，结果早上六点警察就来家里敲门！<br><br>网友：再报就是半夜破门直接拖走了！<br><br><video src="https://video.twimg.com/ext_tw_video/1571430719985008641/pu/vid/720x1280/7vcPOwkQyUW2LvO0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1571430719985008641/pu/img/jlmmVj59U-ddL-kG.jpg"></video>
 
+### 7: [2022-09-20 10:08:18+08:00 推文](https://twitter.com/realcaixia/status/1572044953597120512)
+
+再推。<br><br>蔡霞: 这是美国外交事务【Foreign Affairs】杂志刚刚发表的我的文章，题目《习近平的弱点——狂妄与偏执如何威胁中国的未来》，全文14000多字。 <br>将我的想法与网友们分享，谢谢网友们。<br><br>习近平的弱点 | Foreign Affairs<br> <a href="https://www.foreignaffairs.com/china/xijinpingderuodian" target="_blank" rel="noopener noreferrer">https://www.foreignaffairs.com/china/xijinpingderuodian</a>
+
+### 8: [2022-09-20 10:44:54+08:00 推文](https://twitter.com/realcaixia/status/1572054165186035712)
+
+Re @sakamoto2023 说得好！🌹我有时候还会不自觉地用习惯了的“党言党语”说话。可见清除洗脑毒素对我的影响，还有很长的路要走。
+

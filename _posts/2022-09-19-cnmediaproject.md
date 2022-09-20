@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-19
+date: 2022-09-20
 from: https://twitter.com/niubi/status/1571635614403170306
 layout: post
 tags:
@@ -34,4 +34,16 @@ What happens when laws meant to protect basic safety are suspended in the name o
 ### 5: [2022-09-19 23:19:49+08:00 推文](https://twitter.com/cnmediaproject/status/1571881754881052677)
 
 Guizhou officials have pledged to investigate the causes of a deadly traffic accident over the weekend. But some of the most basic facts in the tragedy already point to the key role played by unyielding top-down Covid mandates in China. <a href="https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/</a>
+
+### 6: [2022-09-20 10:45:33+08:00 推文](https://twitter.com/cnmediaproject/status/1572054327753347073)
+
+The fatal crash of a quarantine transport bus in Guizhou province over the weekend has galvanized anger over China's Covid policies. CMP has translated a post that made the rounds yesterday from a senior magazine editor. <a href="https://chinamediaproject.org/2022/09/20/we-must-wake-up/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/20/we-must-wake-up/</a>
+
+### 7: [2022-09-20 10:54:38+08:00 推文](https://twitter.com/cnmediaproject/status/1572056614529802240)
+
+Re Also have a look at CMP's post yesterday: "When Laws Fail for Policies," about how local authorities in Guizhou ignored laws meant to ensure safety because they were hard-pressed to pursue top-down and inflexible Covid mandates. <a href="https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/19/when-laws-fail-for-policies/</a>
+
+### 8: [2022-09-20 10:57:29+08:00 推文](https://twitter.com/cnmediaproject/status/1572057331197956096)
+
+Re Thanks to @CDT for the essential work archiving 404'd posts like the one above.
 

@@ -33,11 +33,11 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。
+关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/seer_cold_mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/seer_cold_mist/status/1515919805756280835</a>
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -105,7 +105,7 @@ Re @yangjianli001 哈哈！
 
 ### 23: [2022-04-20 02:29:10+08:00 推文](https://twitter.com/realcaixia/status/1516484065544708098)
 
-上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！
+上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
@@ -193,11 +193,11 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
-上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。<br><br>Voice From Germany 德國之音🎗️: 上海市民集体转发 #四月之声 视频，中共吓得命令腾讯公司紧急开发 “同城”朋友圈。重庆用户看不到上海用户的朋友圈了<br><br><video src="https://video.twimg.com/ext_tw_video/1517691410161577985/pu/vid/592x1280/J0Zla5NHPr663hhe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517691410161577985/pu/img/k1rpeTGDv9EDAQpf.jpg"></video>
+上海人和大陆许多网友共同努力推转、传播#四月之声视频。保护自己的生存权利，维护自己作为人的尊严。言论自由、信仰自由，免于恐惧的自由，免于匮乏的自由。上海人和大陆人的诉说事实真相，转发四月之声，就是在为自己争这四大自由。人同此心，心同此理。
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
-普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。
+普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。<br><br>💙NiKITa💛🇺🇦🇪🇺: 今日普丁，👀腿<br><br><video src="https://video.twimg.com/ext_tw_video/1517900449483005954/pu/vid/624x352/OO3ARYTE93ktNC5L.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517900449483005954/pu/img/RfL1S1xH_OMPQrdM.jpg"></video>
 
 ### 47: [2022-04-24 22:29:10+08:00 推文](https://twitter.com/realcaixia/status/1518235606777704449)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
 
