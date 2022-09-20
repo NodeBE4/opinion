@@ -173,3 +173,29 @@ So, how you answer this question depends how you define a 'handgun'. As a modern
 
 To try to give a more specific accounting of things in this context, gunpowder's early military uses were as a relatively stable incendiary, rather than as a propellant. The recognition that certain mixtures might have greater explosive potential was recognised by Chinese weaponmakers, who developed small hand grenades and, eventually, the 'fire-lance', first definitively employed in the 1130s but possibly being in limited use as early as 1000. The fire-lance was a single-use device that had a gunpowder charge housed in a typically bamboo tube which was used to project a plume of flame outwards, with variations including metal, stone, or ceramic fragments as well. The general suggestion is that early hand-guns, and in turn larger anti-personnel-calibre cannons, emerged out of making reusable fire-lances with metal chambers instead of bamboo or other organic materials. So depending on whether you count the single-use 'fire-lance' or not, we can definitively date the medieval hand-gun to either the 1130s (when the bamboo examples are definitively attested) or the 1290s (when we have the earliest definitive example of a metal gun from western China).
 
+### 809: [[Hobby Scuffles] Week of September 19, 2022](https://old.reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/), submitted on 2022-09-18 23:00:13+08:00.
+
+----- __809.1__ -----2022-09-20 17:20:17+08:00:
+
+An unofficial update on the Marble Machine X saga, if anyone recalls that (if not then [this post](https://www.reddit.com/r/HobbyDrama/comments/w4sh7v/music_engineering_martin_vs_the_marble_machine_x/) by /u/Praesil is a good summary):
+
+In June, both the original Marble Machine and the MMX were [moved to the Siegfrieds Mechanisches Musikkabinett in Rüdesheim, Germany](https://www.youtube.com/watch?v=Ym7lKEtxhpg) and have since been maintained by a guy called Lukas.
+
+Now, to give some context, ever since Martin said he was suspending development indefinitely, there have been three broad schools of thought regarding the machine's level of readiness:
+
+* The machine was very near a stage of basic functionality, and Martin abandoned it solely due to perfectionism and demanding a level of precision and error-freeness that couldn't be achieved in practice.
+* While the machine had reached a level of functionality, the remaining obstacles standing between that and full functionality were actually insurmountable, and a new machine would have to be built from scratch even if Martin loosened his requirements.
+* There were fundamental existing flaws with the machine that meant even its then-current level of functionality was essentially hanging by a thread.
+
+Well, we now have a bit of an answer to that question. Back in late July/early August, a small British-Mexican Youtuber, lemiffe, [visited the SMM](https://www.youtube.com/watch?v=wUKPspLzMFg) and spoke with Lukas for a bit. From the video it seems like the MMX was actually in considerably worse shape than even the more pessimistic viewers had believed. To summarise:
+
+* A major control lever was apparently 'surprisingly difficult to actuate'.
+* A number of elements were damaged or broken, some relatively superficial parts breaking in transit, but others due to extreme wear.
+* Loosened screws on moving parts went undetected and damaged some of the wood and the key gear assemblies were no longer running smoothly. 
+* In the interests of fine-tuning on the fly, Martin had used obscene quantities of washers – a bad idea in the first place but which also made reassembly difficult because it isn't clear how many washers should go where. These were also stored badly, having adhered to a welding magnet and thus likely become magnetised themselves.
+* The programming plates are 'stupidly heavy' (and there are eight of them), and made using the rather odd method of CNCing a flat plastic block and then heat-bending it around wood, when a more viable approach might have been using (or indeed commissioning someone to use) a rotary axis CNC device on an already-cylindrical piece.
+
+Now, the poor functionality of the original Marble Machine has been remarked upon before, but Lukas wasn't keen on its storage either, as it spent 'five years in a shed in France' and certainly looks like it! According to him a complete disassembly might be needed to deal with mould buildup.
+
+This may of course simply be the cynical take on things, but it does look like the pessimists who have been referring to the development process as a shambles may be the ones having the last laugh.
+
