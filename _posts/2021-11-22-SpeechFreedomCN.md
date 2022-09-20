@@ -17,7 +17,7 @@ title: 'Twitter @中国文字狱事件盘点: 2021-11-22~2021-11-28'
 
 ### 1: [2021-11-24 11:11:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344370648854530)
 
-湖南省邵阳县男子卿某，因在QQ发表“侮辱亵渎革命英烈”的言论，被处拘留10日，其具体言论内容不详。<br><img style src="https://pbs.twimg.com/media/FE6hMXPX0AYDrYK?format=jpg&name=orig" referrerpolicy="no-referrer">
+湖南省邵阳县男子卿某，因在QQ发表“侮辱亵渎革命英烈”的言论，被处拘留10日，其具体言论内容不详。<br><img style="" src="https://pbs.twimg.com/media/FE6hMXPX0AYDrYK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-11-24 11:13:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1463344873977917445)
 
@@ -41,9 +41,9 @@ Shaanxi woman Xiao detained for 7 days for referring to police as robbers and ba
 
 ### 7: [2021-11-27 11:41:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464439083879395331)
 
-北京道衡律师事务所主任，人权律师梁小军（@liangxiaojun） 因在推特和微博发表支持法轮功的言论和“丑化、抹黑根本制度和基本原则“，被吊销律师资格证。<br><img style="" src="https://pbs.twimg.com/media/FFJNq7aXwAA1ZdL?format=jpg&name=orig" referrerpolicy="no-referrer">
+北京道衡律师事务所主任，人权律师梁小军（@liangxiaojun） 因在推特和微博发表支持法轮功的言论和“丑化、抹黑根本制度和基本原则“，被吊销律师资格证。<br><img style src="https://pbs.twimg.com/media/FFJNq7aXwAA1ZdL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-11-27 11:44:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1464439838808104969)
 
-Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
+Human rights lawyer @liangxiaojun based in Beijing revoked of Lawyer's License yesterday, for supporting Falun Gong and "vilifying and slandering China's political system and principals" on Twitter and Weibo.<br><img style="" src="https://pbs.twimg.com/media/FFJOfwnXoAww72M?format=jpg&name=orig" referrerpolicy="no-referrer">
 

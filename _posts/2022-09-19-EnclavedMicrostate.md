@@ -83,3 +83,11 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 820: [I’m Dr. Christian Raffensperger, author of Reimagining Europe: Kievan Rus’ in the Medieval World, and I’m here to talk about medieval eastern Europe and, if you’re interested, the medieval factors in the war in Ukraine. AMA!](https://old.reddit.com/r/AskHistorians/comments/xj7y8j/im_dr_christian_raffensperger_author_of/), submitted on 2022-09-20 20:50:14+08:00.
+
+----- __820.1__ -----2022-09-20 21:17:15+08:00:
+
+Hi Dr Raffensperger, thanks for coming on to do this AMA with us.
+
+My very superficial impression of Kievan Rus' is that it was dominated, at least politically and commercially, by Norse peoples, but that over time the Rus' polities increasingly reverted to the control of native Slavic dynasties. I feel like I can already guess that this impression is incorrect or at best horrifically oversimplified, but what actually was the relationship between Norse, Slavic, and indeed other peoples within the Rus' polity? Were Norse traders actually a relatively transient community whose influence declined? Did a more hybridised identity emerge that flattened out the differences, so to speak?
+
