@@ -190,7 +190,7 @@ Now, to give some context, ever since Martin said he was suspending development 
 Well, we now have a bit of an answer to that question. Back in late July/early August, a small British-Mexican Youtuber, lemiffe, [visited the SMM](https://www.youtube.com/watch?v=wUKPspLzMFg) and spoke with Lukas for a bit. From the video it seems like the MMX was actually in considerably worse shape than even the more pessimistic viewers had believed. To summarise:
 
 * A major control lever was apparently 'surprisingly difficult to actuate'.
-* A number of elements were damaged or broken, some relatively superficial parts breaking in transit, but others due to extreme wear.
+* A number of elements were damaged or broken, some relatively superficial parts breaking in transit, but others due to extreme wear from poor lubrication.
 * Loosened screws on moving parts went undetected and damaged some of the wood and the key gear assemblies were no longer running smoothly. 
 * In the interests of fine-tuning on the fly, Martin had used obscene quantities of washers – a bad idea in the first place but which also made reassembly difficult because it isn't clear how many washers should go where. These were also stored badly, having adhered to a welding magnet and thus likely become magnetised themselves.
 * The programming plates are 'stupidly heavy' (and there are eight of them), and made using the rather odd method of CNCing a flat plastic block and then heat-bending it around wood, when a more viable approach might have been using (or indeed commissioning someone to use) a rotary axis CNC device on an already-cylindrical piece.
@@ -198,4 +198,16 @@ Well, we now have a bit of an answer to that question. Back in late July/early A
 Now, the poor functionality of the original Marble Machine has been remarked upon before, but Lukas wasn't keen on its storage either, as it spent 'five years in a shed in France' and certainly looks like it! According to him a complete disassembly might be needed to deal with mould buildup.
 
 This may of course simply be the cynical take on things, but it does look like the pessimists who have been referring to the development process as a shambles may be the ones having the last laugh.
+
+----- __809.2__ -----2022-09-20 20:02:11+08:00:
+
+I think consensus used to be that his perfectionism got in the way of producing a machine that was functional at a basic level even if its reliability wasn't as good as hoped. As more facts come to light occasionally, it seems like people – insofar as anyone is still particularly invested – are shifting towards the idea that it was a mess all along. 
+
+My own view, which I think is pretty close to the consensus, is that the design philosophy changed in exactly the wrong way. It started out with too much of an obsession with the cool factor and led to the earliest and most integral components having fatal flaws; he then switched to a heavily function-over-form approach but wasn't the most competent of engineers, and thus ended up producing a large number of incrementally better fixes for systems that were perhaps impossible to fix, or should at least have been much better designed in the first place. What seems to have ended up happening was that he was unwilling to cut his losses until quite late, having created in some cases multiple iterations of certain components without resolving the underlying issues that he was increasingly cognisant of, even apart from the escaping marbles issue.
+
+It also doesn't help that Martin got into crypto at one stage and was very clearly on the self-help alt-right pipeline (huge Elon Musk stan, name-dropped Jordan Peterson and Ayn Rand), which isn't a healthy mentality in general.
+
+----- __809.3__ -----2022-09-20 21:06:43+08:00:
+
+I think it was the 'ondaphone' he made a stab at including but without even modifying the design to carry more ball bearings? But yeah, it was frustrating watching repeated attempts at redoing the peripherals without reckoning with the limitations of the core components (namely the inefficient lifting mechanism).
 
