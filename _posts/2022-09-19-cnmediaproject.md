@@ -51,3 +51,15 @@ Re Thanks to @CDT for the essential work archiving 404'd posts like the one abov
 
 Re @GreatFireChina Oh my. Thank you! Correcting now.
 
+### 10: [2022-09-20 18:33:49+08:00 推文](https://twitter.com/cnmediaproject/status/1572172170306154506)
+
+"We Must Wake Up!" CMP's translation of one of a growing number of posts in China that express frustration with the government's increasingly foolhardy adherence to "zero Covid." <a href="https://chinamediaproject.org/2022/09/20/we-must-wake-up/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/20/we-must-wake-up/</a>
+
+### 11: [2022-09-20 18:35:23+08:00 推文](https://twitter.com/cnmediaproject/status/1572172563962540033)
+
+Re An image of that foolhardiness. "Just look at this doomed driver who doesn’t know what’s even happening, and he wearing a hazmat suit and two layers of masks, and senselessly he’s wearing goggles too, and probably two layers of protective gloves." . . . .<br><img style="" src="https://pbs.twimg.com/media/FdF6mniakAAcH47?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-09-20 18:35:52+08:00 推文](https://twitter.com/cnmediaproject/status/1572172686583013376)
+
+Re "And for the entire journey, he was prohibited from using the air conditioning. And it was 2:30 AM. This is the foggy trance in which this bus was driven toward death."
+
