@@ -71,3 +71,43 @@ Re @FightForJiuCai 听起来，乌克兰已经大获全胜。但为何没见西�
 
 如今的美国政府真厉害，能够让病毒听命，该来就来，为大选服务；该走就走，因为有了猴痘。<br><br>DW 中文- 德国之声: 美国总统拜登在专访节目中明确表示，大流行已告终结。"正如您所看到的，这里没人戴口罩了。大家似乎都显得很健康。" <br>根据美国联邦疾控中心（CDC）提供的数据，该国目前每天仍有近400人死于新冠。当局最近批准了两款能应对奥密克戎变体的二价mRNA疫苗，分别由BioNTech/辉瑞和莫德纳公司提供。<br><br><img style="" src="https://pbs.twimg.com/media/FdAtjsnXEAE2LvP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 15: [2022-09-20 21:27:43+08:00 推文](https://twitter.com/HeQinglian/status/1572215933548089349)
+
+说明美国富有远见。克里米亚危机发生于2014年。<br>20年前，应该是2002年；当时中国刚于2001年12月加入WTO，欢庆在全球化进程中，中国成为国际社会的新成员。美国波音、微软等十来个大公司为中国加入WTO花了游说费用数亿美元。<br>有比较才有意思。在俄罗斯问题上，谁敢说美国没有远见？<br><br>美国之音中文网: 除了援助标枪导弹和海马斯火箭炮等百亿美元计的先进武器外，美军对乌克兰军人长达20年的训练也对其战场表现发挥着重要作用，包括摆脱传统的苏俄军队中央集权化指挥、前线部队严重缺乏灵活性的模式，改为采用美军去中心化、赋能低阶军官的方式，激活士官的作用乃至确保单兵作战技能。<br><br><video src="https://video.twimg.com/amplify_video/1571966614337196036/vid/1280x720/jjcLZsC7ZVCfvDJL.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1571966614337196036/img/LxdrTynRPYqNDhEA.jpg"></video>
+
+### 16: [2022-09-20 21:31:14+08:00 推文](https://twitter.com/HeQinglian/status/1572216816667082759)
+
+Re @xiaxiaoqiang 一定要去卢采恩一游，那是一个梦中古城。
+
+### 17: [2022-09-20 21:48:46+08:00 推文](https://twitter.com/HeQinglian/status/1572221228953354248)
+
+Re @david_david1968 这种证明美国富有远见的信息不能删啊。😅<br>Putin ally deepens Russia's 'strategic partnership' with China<br><br>比纽时那篇客观一些。 <a href="https://www.reuters.com/world/russia-china-agree-deepen-defence-cooperation-joint-exercises-interfax-cites-2022-09-19/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/russia-china-agree-deepen-defence-cooperation-joint-exercises-interfax-cites-2022-09-19/</a>
+
+### 18: [2022-09-20 21:52:03+08:00 推文](https://twitter.com/HeQinglian/status/1572222056757878788)
+
+Re @realTaoRay 其实，这几个口罩传递的真正信息应该是：中国清零防疫还在继续。美国与WHO说10月结束疫情状态，咱中国不听他们吆喝。
+
+### 19: [2022-09-20 21:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1572222341471518723)
+
+Re @FranzMendelsso1 @YiTJ18 你发个串推谈谈，如果有资料来源，请附上。听起来很有料。
+
+### 20: [2022-09-20 21:54:44+08:00 推文](https://twitter.com/HeQinglian/status/1572222734012190725)
+
+Re @zhixiangziyou @realTaoRay 那是你与看热闹者的看法，我相信，WHO与白宫不是这样看的。他们看出来的是：疫情何时结束，供应链何时恢复，得中国参与决定。
+
+### 21: [2022-09-20 22:04:48+08:00 推文](https://twitter.com/HeQinglian/status/1572225264213721094)
+
+Re @9788Abc 你可能忽视了男克与中国的亲密关系，那些债务清零，中国功不可没。去了二十多次，每次演讲都是几十万美元的报酬。
+
+### 22: [2022-09-20 22:12:30+08:00 推文](https://twitter.com/HeQinglian/status/1572227204070920203)
+
+Re @9788Abc 😉Maybe Yes, Maybe Not.
+
+### 23: [2022-09-20 22:52:05+08:00 推文](https://twitter.com/HeQinglian/status/1572237166826360832)
+
+Re @FranzMendelsso1 @YiTJ18 这个纽兰，我第一次关注她，是美国参议院听证会上，她承认在乌克兰修建数百个生化研究室的事情，因为她是经手人与参与者。
+
+### 24: [2022-09-20 23:05:34+08:00 推文](https://twitter.com/HeQinglian/status/1572240557329489922)
+
+Re @wechat2525138 两者都有。<br>国运爆棚是事实，全球化进程中唯一净赢家。<br>精于算计也是事实，我从昨天开始复盘中国的能源布局，确实因为对外依赖过高而居安思危，从2003年成为能源净进口国就有研究报告。因为知道俄在天然气、石油与煤方面全是生产与出口大国，一直努力经营这关系。<br>目前是四条海外通道。<br>比德国强多了
+

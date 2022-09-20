@@ -91,3 +91,7 @@ Hi Dr Raffensperger, thanks for coming on to do this AMA with us.
 
 My very superficial impression of Kievan Rus' is that it was dominated, at least politically and commercially, by Norse peoples, but that over time the Rus' polities increasingly reverted to the control of native Slavic dynasties. I feel like I can already guess that this impression is incorrect or at best horrifically oversimplified, but what actually was the relationship between Norse, Slavic, and indeed other peoples within the Rus' polity? Were Norse traders actually a relatively transient community whose influence declined? Did a more hybridised identity emerge that flattened out the differences, so to speak?
 
+----- __820.2__ -----2022-09-20 23:27:51+08:00:
+
+Thank you!
+
