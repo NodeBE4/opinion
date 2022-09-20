@@ -47,3 +47,7 @@ Re Also have a look at CMP's post yesterday: "When Laws Fail for Policies," abou
 
 Re Thanks to @CDT for the essential work archiving 404'd posts like the one above.
 
+### 9: [2022-09-20 15:42:47+08:00 推文](https://twitter.com/cnmediaproject/status/1572129129100906496)
+
+Re @GreatFireChina Oh my. Thank you! Correcting now.
+
