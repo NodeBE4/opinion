@@ -305,7 +305,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @ngexp @david_david1968 去之前，李显�
 
 ### 73: [2022-06-30 20:22:02+08:00 推文](https://twitter.com/HeQinglian/status/1542483599534039042)
 
-译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？ <a href="https://rfi.my/8XK6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8XK6.T</a>
+译：西方将在数年内失去俄罗斯能源市场。<br>再比对：德总理萧兹：不排除出席G20峰会 即使普京在场 <br>还有没在这条消息中出现的话：欧洲国家都不会破坏G20.<br>竞猜：西方政府首脑出席G20，是为了普京入场时集体退场羞辱他，还是别有目的？<br><br>🅰pocalypsis 🅰pocalypseos 🇷🇺 🇨🇳 🅉: “The energy market of the West will be lost for Russia for several years. The processes are irreversible. For Europe, these are questions of pure politics, insane and reckless, but such are modern realities.” — Spydell 🧵<br>
 
 ### 74: [2022-06-30 20:47:44+08:00 推文](https://twitter.com/HeQinglian/status/1542490064806101001)
 
@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -489,7 +489,7 @@ Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北�
 
 ### 119: [2022-07-01 21:55:26+08:00 推文](https://twitter.com/JianglinLi/status/1542869490169483267)
 
-RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂<br><br>C.J. Wilson: H/T to @JunkScience for posting this- an EPA Hot Take from 1986 saying that Florida would be wiped out in 2020 due to climate change.  Important to understand that anyone can come up with a scary scenario if their job depends on it. History ends up debunking most doomsday ideas.<br><br><img style="" src="https://pbs.twimg.com/media/FWldVp-UcAAh-Nx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂
 
 ### 120: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
 
@@ -521,7 +521,7 @@ Re @shenliangqing2 你这样考虑，听后不那么担心了。弦拉断后，�
 
 ### 127: [2022-07-01 22:26:46+08:00 推文](https://twitter.com/HeQinglian/status/1542877374798336001)
 
-全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。
+全球化30年，德国经济在能源上依靠俄罗斯（石油与天然气是工业的血液），在市场上依靠中国，这种双重依赖，如果不弄个绿能，折腾一个“碳排放权配额”让中俄印巴等购买，实在是太不平衡了。<br>问题是：碳排放权配额，是强卖的虚拟产品，不是能源与市场，实打实的货。<br><br>DW 中文- 德国之声: #大众汽车 总裁迪斯表示，在德国，人们严重低估了 “中国给德国繁荣带来的贡献”。<br><br>“如果没有与中国的业务往来，通货膨胀将进一步加剧。因此我们需要更多的对话。”<br> <a href="https://p.dw.com/p/4DWDh" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4DWDh</a>
 
 ### 128: [2022-07-02 01:24:35+08:00 推文](https://twitter.com/HeQinglian/status/1542922124880494592)
 
