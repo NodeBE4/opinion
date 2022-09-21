@@ -51,3 +51,19 @@ Re @sakamoto2023 说得好！🌹我有时候还会不自觉地用习惯了的�
 
 特别推荐李承鹏先生的最新力作！<br>中国人这三年的日子可用一些语词描述“祸从天降”、“朝不保夕”、“战战兢兢 ，如履薄冰”；无军事战争的“兵慌马乱”、无灾害性气候的“饥民、饿殍”……，李承鹏先生悲悯之心力透纸背。<br><br>李承诺: 《霸王别姬》里，程蝶衣说：你道今儿个是小人作乱，祸从天降。不是，不对！是咱们自个儿，一步一步，一步步走到这步田地里来的！报应！<br>
 
+### 10: [2022-09-21 21:43:29+08:00 推文](https://twitter.com/realcaixia/status/1572582290097864705)
+
+再推！习上台十年，国库几近掏空，经济几近崩盘，改革成果几近全部毁弃……，中共国已成暴政恐怖警察国家。习若连任，其基本趋势是加速大陆朝鲜化。<br>金家王朝三代至今70多年仍然延续；伊朗巴列维国王改革新政被推翻，历史倒退至今43年依旧继续。习若连任无“短痛”，人民苦难更深更长。呼吁全民倒习！<br><br>蔡霞: 想到未来中国大陆的前景堪忧，无以安心读书。索性写了出来与大家分享：<br><br><img style="" src="https://pbs.twimg.com/media/FcZ5keLXgAM5GrF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-09-21 21:49:21+08:00 推文](https://twitter.com/realcaixia/status/1572583764949348352)
+
+这张照片让人泪下…心痛心碎。人的良知如何能唤醒哪些冷漠无情的人？<br><br>余钱💯: 這張照片是一個女孩跳樓的時候，圍觀者都在等著看熱鬧和笑話，只有這個老人不斷含淚對女孩揮手說: 不要。 這張照片一直在提醒我說，看這些醜陋的鬼臉，在別人都這樣做的時候，你依然要守住內心的善良。<br><br><img style="" src="https://pbs.twimg.com/media/Fc-03JBaAAE6C4-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-09-21 21:54:19+08:00 推文](https://twitter.com/realcaixia/status/1572585014285717515)
+
+Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展乃至政治变革赢得可能的空间。<br>并且，一旦扭转经济与社会的死寂状态，打破这种胶作掐卡难于动弹的局面，中国社会的自救能力将迸发巨大的能量。
+
+### 13: [2022-09-21 22:43:48+08:00 推文](https://twitter.com/realcaixia/status/1572597467073462273)
+
+伊朗民众起来反抗暴政！<br><br>方舟子: 伊朗一名拒绝戴头巾的22岁女人被“道德警察”打死，引发暴动。伊朗女演员Katayoun Riahi说，伊朗人民不再害怕监狱，因为伊朗本身就是一座监狱。<br><br><video src="https://video.twimg.com/ext_tw_video/1572441670427508736/pu/vid/352x640/xrIAqga4SbZk9j0U.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1572441670427508736/pu/img/GsTh7KE_GUdEy0u3.jpg"></video>
+
