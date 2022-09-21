@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -33,11 +33,11 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 5: [2022-04-18 08:02:39+08:00 推文](https://twitter.com/realcaixia/status/1515843212354727943)
 
-关洪导演说的是中国大陆当下正在反复证明的至理名言。
+关洪导演说的是中国大陆当下正在反复证明的至理名言。<br><br>贺江兵: 我的老友关洪导演说的完全正确，没有自由你会被饿死！😊<br><br><img style="" src="https://pbs.twimg.com/media/FQiEaLgVgAUal2H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-18 08:23:05+08:00 推文](https://twitter.com/realcaixia/status/1515848354290356226)
 
-查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？<br><br>韩连潮: 【广西马屁】刚才看到《广西日报》根据自治区党委的部署推出拍习马屁的系列重磅报道，将其称为“伟大复兴领航人”，还怕领航人不识“踔厉笃行”的踔字，又特意用横线标出，看来广西这个马屁恐怕拍到马蹄儿上了。<br><br><img style="" src="https://pbs.twimg.com/media/FQkp698XEAU82wD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+查查现在的广西自治区委书记是什么人，估计是想20大争进局或2023年想进南院的。现在拍有点儿临死抱佛脚了，早干嘛去了？
 
 ### 7: [2022-04-18 08:47:27+08:00 推文](https://twitter.com/realcaixia/status/1515854487893725192)
 
@@ -85,7 +85,7 @@ Re @yangjianli001 哈哈！
 
 ### 18: [2022-04-19 23:39:13+08:00 推文](https://twitter.com/realcaixia/status/1516441293584580611)
 
-这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。 <a href="https://twitter.com/Seer_Cold_Mist/status/1515919805756280835" target="_blank" rel="noopener noreferrer">https://twitter.com/Seer_Cold_Mist/status/1515919805756280835</a>
+这条视频满是网友评语飘过。弹幕恰反映了真实民意。党国官媒造神以为这就能搞定人心向背，看看这条视频，就知他们是在自欺欺人。
 
 ### 19: [2022-04-19 23:59:31+08:00 推文](https://twitter.com/realcaixia/status/1516446403698040841)
 
@@ -137,7 +137,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
-李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！<br><br>《议报》: 李承鹏：上海是预示未来一百年的大河<br> <a href="https://yibaochina.com/?p=246090" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246090</a>
+李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！
 
 ### 32: [2022-04-22 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1517489646720229380)
 
@@ -145,7 +145,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 33: [2022-04-22 21:21:51+08:00 推文](https://twitter.com/realcaixia/status/1517493889900367876)
 
-上海逝者名单，两天前接力数163。今天是194。尽管163后接力数排序有小小的错乱，但这是很多上海人齐心尽力在连续共同做的一件事。细读每一个接力数叙说逝者最后的境况，总是痛心悲愤，；而透过每一个接力数看到的是许多上海市民在这场人祸中思考醒悟，从市民成为公民，公民社会在苦难中顽强生长！
+上海逝者名单，两天前接力数163。今天是194。尽管163后接力数排序有小小的错乱，但这是很多上海人齐心尽力在连续共同做的一件事。细读每一个接力数叙说逝者最后的境况，总是痛心悲愤，；而透过每一个接力数看到的是许多上海市民在这场人祸中思考醒悟，从市民成为公民，公民社会在苦难中顽强生长！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 34: [2022-04-22 21:52:05+08:00 推文](https://twitter.com/realcaixia/status/1517501496669007874)
 
@@ -189,7 +189,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 44: [2022-04-23 11:34:05+08:00 推文](https://twitter.com/realcaixia/status/1517708362615468033)
 
-这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。
+这位善良的阿姨，在上海照顾老人，她叙述了老人在最后的日子里令人心碎的求生情境。我前几天在推特上转发过这个阿姨的述说。语言无法表达我的内心，谁没有长辈？谁家没有老人？<br>现在中共警方处罚阿姨，并且坏球报胡叼盘出来洗地，只能说明两点：1，中共害怕一切真相；2，习当局毫无人性。<br><br>QWERTY: 臥槽，一個保姆，做飯的阿姨，環球出手啦，國家隊出手啦，哈哈哈哈不是真的才怪😂😂<br><br><img style="" src="https://pbs.twimg.com/media/FQ2RJ67aQAADvJW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 45: [2022-04-23 18:32:24+08:00 推文](https://twitter.com/realcaixia/status/1517813631769063430)
 
@@ -197,7 +197,7 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 46: [2022-04-24 01:53:59+08:00 推文](https://twitter.com/realcaixia/status/1517924761824808962)
 
-普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。<br><br>💙NiKITa💛🇺🇦🇪🇺: 今日普丁，👀腿<br><br><video src="https://video.twimg.com/ext_tw_video/1517900449483005954/pu/vid/624x352/OO3ARYTE93ktNC5L.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1517900449483005954/pu/img/RfL1S1xH_OMPQrdM.jpg"></video>
+普大帝与习大帝大概同病相怜。感觉习大帝也有腿打晃的，只是掩盖得比普大帝高明。
 
 ### 47: [2022-04-24 22:29:10+08:00 推文](https://twitter.com/realcaixia/status/1518235606777704449)
 
