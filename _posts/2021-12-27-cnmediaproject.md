@@ -41,7 +41,7 @@ RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’
 
 ### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
 
-CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style="" src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
+CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-29 17:54:28+08:00 推文](https://twitter.com/cnmediaproject/status/1476129481417183234)
 
@@ -53,11 +53,11 @@ RT Bill Bishop<br>Peking University gets extra dose of Xi ideology with new ce
 
 ### 10: [2021-12-30 09:07:52+08:00 推文](https://twitter.com/cnmediaproject/status/1476359347253178369)
 
-For the past 4 years the "Four Confidences" formula affirming the strengths of CCP rule has been firmly in place, finally added to the Party Charter in 2017. But the “confidence doctrine" has now been upgraded with a 5th: "historical confidence." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style="" src="https://pbs.twimg.com/media/FH0U-IYaUAAV6zP?format=jpg&name=orig" referrerpolicy="no-referrer">
+For the past 4 years the "Four Confidences" formula affirming the strengths of CCP rule has been firmly in place, finally added to the Party Charter in 2017. But the “confidence doctrine" has now been upgraded with a 5th: "historical confidence." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style src="https://pbs.twimg.com/media/FH0U-IYaUAAV6zP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-30 09:09:30+08:00 推文](https://twitter.com/cnmediaproject/status/1476359756726304776)
 
-Re The "confidence doctrine," evolving from the "Three Confidences" to the now "Five Confidences," is a great example of how CCP buzzwords (提法) evolve over time, generally with political cycles like Party anniversaries, plenums, congresses and so on.<br><img style="" src="https://pbs.twimg.com/media/FH0VXHAaQAEeRqG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The "confidence doctrine," evolving from the "Three Confidences" to the now "Five Confidences," is a great example of how CCP buzzwords (提法) evolve over time, generally with political cycles like Party anniversaries, plenums, congresses and so on.<br><img style src="https://pbs.twimg.com/media/FH0VXHAaQAEeRqG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2022-01-02 02:36:19+08:00 推文](https://twitter.com/MareikeOhlberg/status/1477347973914935300)
 
