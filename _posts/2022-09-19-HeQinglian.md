@@ -175,3 +175,11 @@ Re @FranzMendelsso1 @YiTJ18 可惜的是，一大批墙国出来的知之有限�
 
 Re @dabowagaga @LinYueYang 看了推下的留言，发现为人父母者，比较容易体会我的说法。给大家一点鼓励：孩子过了反叛期，进入大学后对父母的教育会有思考，运气好，孩子会很贴心。<br>中学时期某事无法说服他时，我会说，请记住我今天说过的话，以后看是否有道理。等到孩子会说：妈妈，你以前说过某话很有道理，但那时就是听不进。
 
+### 41: [2022-09-21 21:48:27+08:00 推文](https://twitter.com/HeQinglian/status/1572583538469535747)
+
+德国：欧洲在制裁俄罗斯问题上的团结“开始瓦解”<br><br>欧盟努力寻求禁运俄罗斯石油，但各成员国之间仍存在分歧，难以找到妥协方案。<br>注：昨天俄罗斯行动升级，欧盟的反应现在还主要表现在口头反应。且等进一步反应。 <a href="https://d2b0shd2ijglgd.cloudfront.net/interactive/72676?s=w&amp;ccode=2C2022may30newsletternone&amp;exclusive#s=w" target="_blank" rel="noopener noreferrer">https://d2b0shd2ijglgd.cloudfront.net/interactive/72676?s=w&amp;ccode=2C2022may30newsletternone&amp;exclusive#s=w</a>
+
+### 42: [2022-09-21 22:04:45+08:00 推文](https://twitter.com/HeQinglian/status/1572587640746315782)
+
+Re @Tepezano161 普京招兵动员令引爆抢购飞机票离开俄罗斯热潮 <br>VOA等都报了相同的消息，第二轮舆论战开始。😂 <a href="https://rfi.my/8l5e.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8l5e.T</a>
+
