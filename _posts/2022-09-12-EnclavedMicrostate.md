@@ -191,7 +191,7 @@ Well, we now have a bit of an answer to that question. Back in late July/early A
 
 * A major control lever was apparently 'surprisingly difficult to actuate'.
 * A number of elements were damaged or broken, some relatively superficial parts breaking in transit, but others due to extreme wear from poor lubrication.
-* Loosened screws on moving parts went undetected and damaged some of the wood and the key gear assemblies were no longer running smoothly. 
+* Loosened screws on moving parts went undetected, which led to damage on some of the wood during operation, and the key gear assemblies were no longer running smoothly. 
 * In the interests of fine-tuning on the fly, Martin had used obscene quantities of washers – a bad idea in the first place but which also made reassembly difficult because it isn't clear how many washers should go where. These were also stored badly, having adhered to a welding magnet and thus likely become magnetised themselves.
 * The programming plates are 'stupidly heavy' (and there are eight of them), and made using the rather odd method of CNCing a flat plastic block and then heat-bending it around wood, when a more viable approach might have been using (or indeed commissioning someone to use) a rotary axis CNC device on an already-cylindrical piece.
 
