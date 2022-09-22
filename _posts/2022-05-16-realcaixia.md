@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
-6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。<br><br>方舟子: 北大学生闹事后，辅导员鼓励同学根据现场照片相互检举揭发，秋后算帐，从来如此。<br><br><img style="" src="https://pbs.twimg.com/media/FS26l20VIAEEaw6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l21VEAIvTmi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l23UUAA27Da?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
@@ -81,7 +81,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
@@ -89,7 +89,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
-这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”
+这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”<br><br>iPaul🇨🇦🇺🇦: 北京领导，好大的官威<br><br><video src="https://video.twimg.com/ext_tw_video/1522570401787826176/pu/vid/480x848/xjM9HkNSKZp3B5jg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522570401787826176/pu/img/77MS-dWq6haNJ805.jpg"></video>
 
 ### 20: [2022-05-19 22:31:37+08:00 推文](https://twitter.com/realcaixia/status/1527295917451116547)
 
@@ -97,7 +97,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 21: [2022-05-19 23:26:00+08:00 推文](https://twitter.com/realcaixia/status/1527309606577635330)
 
-这就是所有马克思列宁主义极权政党所宣传所期望的：把人改造成“共产主义新人”。
+这就是所有马克思列宁主义极权政党所宣传所期望的：把人改造成“共产主义新人”。<br><br>李承诺: 最终我们开发出一种芯片羊水，纳米级芯片会进入胎儿大脑、血液，促使其思想正确、举止正能量。再饿也不敲盆子、高唱《国际歌》。我们用芯片管理人性最终超越人性。按照李森科理论，子子孙孙遗传，宝宝一出生便露出胡锡进般的诡异微笑，问：粑粑，我要看新闻联播。<br>慢慢的，我们就成了优质变种人。<br> <a href="https://twitter.com/dayangelcp/status/1526090231694303232" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1526090231694303232</a>
 
 ### 22: [2022-05-20 20:59:16+08:00 推文](https://twitter.com/realcaixia/status/1527635065760534531)
 
@@ -125,7 +125,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。
+技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 
