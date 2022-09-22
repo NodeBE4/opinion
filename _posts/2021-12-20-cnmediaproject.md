@@ -25,7 +25,7 @@ Journalism teacher Song Gengyi was fired for making "erroneous remarks" on the #
 
 ### 3: [2021-12-20 12:17:11+08:00 推文](https://twitter.com/cnmediaproject/status/1472783109792100352)
 
-Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style="" src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re It seems that those criticizing Song have the upper hand as comments and posts in support of her are being systematically removed.<br><img style src="https://pbs.twimg.com/media/FHBgap8aAAI4iLP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-20 13:19:50+08:00 推文](https://twitter.com/xinwenfan/status/1472798876956434437)
 
@@ -53,7 +53,7 @@ Updated content restrictions for short video platforms in China add a few politi
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
