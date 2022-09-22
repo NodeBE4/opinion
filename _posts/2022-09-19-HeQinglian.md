@@ -291,3 +291,59 @@ Re @Wu_Zhi @franktianxie 贵国的巴斯夫在其中：<br>巴斯夫公司宣布
 
 Re @zlhlt 是语言特点吧？战争期间的行为可不容易，得上战场，比在纽约裸体游行、骄傲月穿奇异服装游行的风险大两个量级。
 
+### 70: [2022-09-23 01:28:21+08:00 推文](https://twitter.com/HeQinglian/status/1573001267412176897)
+
+Re @pandatress1 西方工会应该去那里宣传，强制加班是严重破坏人权的行为，让工人反战。
+
+### 71: [2022-09-23 01:29:55+08:00 推文](https://twitter.com/HeQinglian/status/1573001661651599365)
+
+Re @pandatress1 @youjijiulang2nd 知道。因为海湾战争实现在“零伤亡奇迹”（只有零星死亡，非战争原因），人们没注意到数量，而且从此认为战争可以让死亡走开。
+
+### 72: [2022-09-23 01:34:47+08:00 推文](https://twitter.com/HeQinglian/status/1573002883666219008)
+
+Re @KELMAND1 @Alexjandro990 人家本来就打算发展绿色能源，节能减少碳排放，然后全球分配碳排放额度，欧盟可以将自己节下来的额度卖给中、印以及能源输出大国俄、澳等。去年UN气候峰会被印巴等搅场，中俄虽未出席，不肯买筹码上赌桌。
+
+### 73: [2022-09-23 01:38:53+08:00 推文](https://twitter.com/HeQinglian/status/1573003915892854785)
+
+Re @o_tanker 好啊，西方发动的是文化战争，要将其他国家的男女都变性，或成为LGBQI，打一打好。赢了，你可以不变性；输了，成LGBTQI。<br>你看来希望变性？
+
+### 74: [2022-09-23 01:41:10+08:00 推文](https://twitter.com/HeQinglian/status/1573004491351330817)
+
+Re @KELMAND1 @Alexjandro990 绿色标准本就由他们定，改改有什么了不得？<br>没见国会、政府立法，都注明解释权在立法机构。<br>洗绿就是，他国的煤炭不环保，本国的环保。😂
+
+### 75: [2022-09-23 01:41:59+08:00 推文](https://twitter.com/HeQinglian/status/1573004695505084416)
+
+这说的是中国。<br><br>美国之音中文网: 乌克兰总统泽连斯基21日通过视讯向联大发表讲话，谴责俄罗斯对乌克兰犯下罪行并要求对俄罗斯实施公正的惩罚，泽连斯基还指出一些声称中立的国家实际上只在乎自己的既得利益。<br><br><video src="https://video.twimg.com/amplify_video/1572998063286779904/vid/720x720/-LcN7arepysb6FI6.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FdRqUYUXoAgDzJa?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3BYpEhU" target="_blank" rel="noopener noreferrer">https://bit.ly/3BYpEhU</a>
+
+### 76: [2022-09-23 01:45:44+08:00 推文](https://twitter.com/HeQinglian/status/1573005642012495875)
+
+Re @banzhao6 如果是现在的美民共，应该是感染猴痘之类，梅毒这东西太落后了。
+
+### 77: [2022-09-23 01:49:35+08:00 推文](https://twitter.com/HeQinglian/status/1573006611748200448)
+
+Re @mingshi_chen 高炉闲置就废了，不可能搬走。
+
+### 78: [2022-09-23 03:28:57+08:00 推文](https://twitter.com/HeQinglian/status/1573031615755845633)
+
+猴痘除歧视男同之外，还有严重的种族歧视倾向。<br>大多数病例影响男同性恋、双性恋男性和与其他男性发生性关系的男性。马里兰州卫生部门统计显示，在该州571例猴痘病例中，57.6%病例是非裔，白人病例仅占16.3%（看图表）<br>非裔病例占比均远高于该群体在当地总人口所占比重。 <a href="https://www.marylandmatters.org/2022/09/19/monkeypox-cases-slow-but-disease-hit-marylands-black-communities-harder/" target="_blank" rel="noopener noreferrer">https://www.marylandmatters.org/2022/09/19/monkeypox-cases-slow-but-disease-hit-marylands-black-communities-harder/</a>
+
+### 79: [2022-09-23 03:31:52+08:00 推文](https://twitter.com/HeQinglian/status/1573032350233116672)
+
+Re @HappyR38066185 我其实只是坚持以事实为准绳。
+
+### 80: [2022-09-23 03:40:53+08:00 推文](https://twitter.com/HeQinglian/status/1573034618751750145)
+
+德国自身承认，全球化以来，德国的技术、俄罗斯的能源、中国的市场是德国经济发展的三大因素。<br>但能源是生产的始端，没有生产，市场就算开放也没啥用啊。德国政界首脑的思路清奇。<br>还是加大军事援助，让俄战败，揪住普京的领口让他回到谈判桌前，签署保量限价供应能源的合同，这比较现实。<br><br>DW 中文- 德国之声: 《南华早报》周四引述消息人士报道称，中国前驻柏林大使史明德上周在柏林协商筹划肖尔茨11月访华的细节。<br>报道称，外界预期，法国总统马克龙也将在11月单独访问北京并与习近平举行会晤。<br>如果访问成行，这将是西欧国家领导人在新冠疫情爆发后首度重新访问北京。<br> <a href="https://p.dw.com/p/4HD2b" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HD2b</a>
+
+### 81: [2022-09-23 03:53:18+08:00 推文](https://twitter.com/HeQinglian/status/1573037743550173185)
+
+Re @Dan63174340 1979年伊朗伊斯兰革命推翻巴列维王朝是一种历史的倒退吗？ <br><br>观果易，究因难。因此，凡人问果，菩萨问因。看这篇吧。 <a href="https://www.zhihu.com/question/31580864?write" target="_blank" rel="noopener noreferrer">https://www.zhihu.com/question/31580864?write</a>
+
+### 82: [2022-09-23 05:24:22+08:00 推文](https://twitter.com/HeQinglian/status/1573060660258566145)
+
+Re @pandatress1 @Dan63174340 这位的意思是：与俄中友好的国家没一个好东西。<br>我让他察其因。让曾经高度世俗化的伊朗妇女戴上黑面纱的国家是谁。
+
+### 83: [2022-09-23 06:31:53+08:00 推文](https://twitter.com/HeQinglian/status/1573077654898888705)
+
+Re @xxj2040 往上溯根，基本都这样，区别是溯多少年代，千年还是万年。
+
