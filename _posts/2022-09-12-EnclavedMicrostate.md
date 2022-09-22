@@ -211,3 +211,9 @@ It also doesn't help that Martin got into crypto at one stage and was very clear
 
 I think it was the 'ondaphone' he made a stab at including but without even modifying the design to carry more ball bearings? But yeah, it was frustrating watching repeated attempts at redoing the peripherals without reckoning with the limitations of the core components (namely the inefficient lifting mechanism).
 
+----- __809.4__ -----2022-09-22 18:25:32+08:00:
+
+> And, a cheongsam is just. Clothing. It’s ok to make it sexy? It’s not some super sacred outfit or anything lol, what a weird thing to be concerned over. I actually liked the Chinese inspired stuff, personally.
+
+To be fair, there's an interesting question to be asked over cultural appropriation in this context – the cheongsam is also known as the qipao, or 'Banner dress', which gives away its origin in the clothing of Manchu women. While the Manchu people were generally politically privileged until 1911, the power balance between Manchus and Han Chinese inverted *hard* when the Qing fell, and you can make the case that there's an iffiness to Manchu clothing suddenly becoming a fashion trend among Han Chinese in the wake of *several* Han massacres of Manchu civilians during the Revolution, and a general suppression of Manchu identity and culture.
+
