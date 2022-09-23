@@ -27,3 +27,7 @@ Re Yu recently applied for administrative review of the detention penalty he rec
 
 西藏阿里地区男子格某，在被检测为新冠病毒阳性后被隔离，隔离期间其饮食未得到保障，一天只能吃一桶方便面，因此在微信群中“辱骂政府和防疫工作人员”并抱怨隔离点存在其它问题，导致被处拘留9日、罚款300元。<br><img style="" src="https://pbs.twimg.com/media/FdWR2muXkAEv5CU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 4: [2022-09-23 23:00:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1573326340035678208)
+
+Tibetan man in Ngari Prefecture, who was tested positive for Covid &amp; therefore under quarantine, detained for 9 days and fined 300 RMB for "insulting the government and employees" and complaining about the awful quarantine condition in a WeChat group chat.<br><img style="" src="https://pbs.twimg.com/media/FdWS5SXXgAQmnzf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
