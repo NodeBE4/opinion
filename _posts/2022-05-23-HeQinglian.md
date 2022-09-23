@@ -105,7 +105,7 @@ Re @Wu_Zhi 😂😂
 
 ### 23: [2022-05-23 21:45:16+08:00 推文](https://twitter.com/HeQinglian/status/1528733807205093381)
 
-这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？
+这位记者问得太模糊，应该更明确：<br>1、请总统先生解释一下美国为保护台湾而采取的军事介入，是指乌式介入，还是直接派美军？是正式美军还是前军人组成的志愿军？<br>2、如果是乌式介入，军援是免费援助还是租借法案？<br><br>纽约时报中文网: 一名记者问拜登：“如果真的到了那一步，你愿意为保护台湾而介入军事行动吗？”“是的，”拜登直截了当地回答。“你愿意？” 这名记者追问道。“这是我们给过的承诺，”拜登说。<br> <a href="http://nyti.ms/3yPe9s1" target="_blank" rel="noopener noreferrer">http://nyti.ms/3yPe9s1</a>
 
 ### 24: [2022-05-23 21:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1528734464360300545)
 
@@ -205,7 +205,7 @@ Re @Wu_Zhi @pandatress1 @JianglinLi @david_david1968 早就知道美国进入选
 
 ### 48: [2022-05-24 09:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1528903670888267776)
 
-美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
+RT He Qinglian<br>美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
 
 ### 49: [2022-05-24 10:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1528921551076470784)
 
@@ -233,7 +233,7 @@ Re @Jessie2021626 😭😭
 
 ### 55: [2022-05-24 21:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1529086923326857219)
 
-如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。<br><br>The Hill: Expert: Monkeypox likely spread by sex at 2 raves in Europe<br><br><img style="" src="https://pbs.twimg.com/media/FThnrr9WYAAEokf?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://hill.cm/vNS8dm8" target="_blank" rel="noopener noreferrer">http://hill.cm/vNS8dm8</a>
+如果如这报道所言，猴痘的传染途径是性，左派比较悲摧，因为他们的性开放无边无际，《水形物语》不是编的，有现实版本。
 
 ### 56: [2022-05-24 21:19:08+08:00 推文](https://twitter.com/HeQinglian/status/1529089616669818883)
 
@@ -281,7 +281,7 @@ Re 中国对拜登此番发言很生气，又不能认真。人家美国会说�
 
 ### 67: [2022-05-25 21:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1529460988411527168)
 
-索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。<br><br>jiang shangrong: ‼️‼️索罗斯‼️‼️<br><br>乔治·索罗斯在世界经济论坛的晚宴上在一篇论文中呼吁“击败普京以拯救我们的文明”<br><br>“我们的文明可能无法在这场（全球军事冲突）中幸存下来。保持它的最好，也许是唯一的方法就是尽快击败普京。”<br><br>‼️终于看懂普京在和谁作战了！<br><br><img style="" src="https://pbs.twimg.com/media/FTldD40WYAA5HMw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+索罗斯应该将“我们的文明”外延说清楚。<br>索罗斯的文明就是LGBTQI+大麻（包括毒品）+BLM（Antifa）+移民无疆界（人口大置换）+绿色+疫苗护照+社会主义+取消文化。<br>这文明，留给索罗斯家族与极左派好好享受。美国正常人群不需要。
 
 ### 68: [2022-05-25 22:33:29+08:00 推文](https://twitter.com/HeQinglian/status/1529470716026015745)
 
