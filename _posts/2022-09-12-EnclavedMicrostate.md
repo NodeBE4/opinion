@@ -221,3 +221,9 @@ To be fair, there's an interesting question to be asked over cultural appropriat
 
 I mean, while there's a truthiness to this statement, I don't see you offering any clear evidence for this.
 
+----- __809.6__ -----2022-09-23 18:45:26+08:00:
+
+MMX Micro-update: the new MMX team in Rüdesheim have posted a 4-minute video showing the progress made so far in the last 3 months, which... actually isn't a whole lot and so far is just the completion of reassembly and the addition of a replacement crankshaft, but on the whole it looks like they have an actual physically-present team and more equipment to work with, so for all we know they could actually get the thing working sooner or later.
+
+https://www.youtube.com/watch?v=WUJXCPZ1VrQ
+
