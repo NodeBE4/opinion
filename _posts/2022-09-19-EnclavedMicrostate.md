@@ -95,23 +95,29 @@ My very superficial impression of Kievan Rus' is that it was dominated, at least
 
 Thank you!
 
-### 821: [Do historians or archaeologists age faster than in other academic professions? Or is it just an academic profession thing to age faster in general?](https://old.reddit.com/r/AskHistorians/comments/xlkgln/do_historians_or_archaeologists_age_faster_than/), submitted on 2022-09-23 10:06:07+08:00.
+### 821: [TIL a section of the great wall of China stretches into Russia](https://old.reddit.com/r/MapPorn/comments/xl3hbh/til_a_section_of_the_great_wall_of_china/), submitted on 2022-09-22 22:49:37+08:00.
 
------ __821.1__ -----2022-09-23 13:36:46+08:00:
+----- __821.1__ -----2022-09-23 21:42:19+08:00:
+
+Thanks to /u/Fluffy_Shoulder_57 for the ping. I'll re-link the relevant AH answer [here](https://www.reddit.com/r/AskHistorians/comments/wb8na3/when_it_comes_to_the_great_wall_of_china_what_is/), but to condense out the key points, the 'wall' in Mongolia and Russia is in fact a set of earthworks built by non-Chinese states that happen to occasionally but inconsistently form part of the 'canonical' succession of 'dynasties', and 500 years before the *actual* 'Great Wall' built by the Ming. Earlier walls were actually very similar in construction, being un-reinforced earthworks, and had been *long* in disrepair since their abandonment during the Han. While the (non-Chinese) Northern Wei and Qi states built walls around Datong, this was a very limited set of construction compared to the earlier Warring States and later Ming efforts.
+
+### 822: [Do historians or archaeologists age faster than in other academic professions? Or is it just an academic profession thing to age faster in general?](https://old.reddit.com/r/AskHistorians/comments/xlkgln/do_historians_or_archaeologists_age_faster_than/), submitted on 2022-09-23 10:06:07+08:00.
+
+----- __822.1__ -----2022-09-23 13:36:46+08:00:
 
 Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AskScience.
 
 If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
 
-### 822: [HEY HOW WHO WOOOOOOOOO](https://old.reddit.com/r/Hololive/comments/xlmh0s/hey_how_who_wooooooooo/), submitted on 2022-09-23 11:41:17+08:00.
+### 823: [HEY HOW WHO WOOOOOOOOO](https://old.reddit.com/r/Hololive/comments/xlmh0s/hey_how_who_wooooooooo/), submitted on 2022-09-23 11:41:17+08:00.
 
------ __822.1__ -----2022-09-23 13:42:59+08:00:
+----- __823.1__ -----2022-09-23 13:42:59+08:00:
 
 Wait what? I thought it was supposed to be in Kwun Tong
 
-### 823: [IOS 16 has the ability to dictate texts in Cantonese. 你哋而家唔使打字！](https://old.reddit.com/r/Cantonese/comments/xlpedb/ios_16_has_the_ability_to_dictate_texts_in/), submitted on 2022-09-23 14:14:23+08:00.
+### 824: [IOS 16 has the ability to dictate texts in Cantonese. 你哋而家唔使打字！](https://old.reddit.com/r/Cantonese/comments/xlpedb/ios_16_has_the_ability_to_dictate_texts_in/), submitted on 2022-09-23 14:14:23+08:00.
 
------ __823.1__ -----2022-09-23 19:06:08+08:00:
+----- __824.1__ -----2022-09-23 19:06:08+08:00:
 
 I've been using Cantonese dictation on IOS for nearly 3 years now, it's not new.
 
