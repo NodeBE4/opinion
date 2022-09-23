@@ -109,3 +109,9 @@ If you are interested in an historical answer, however, you are welcome to rewor
 
 Wait what? I thought it was supposed to be in Kwun Tong
 
+### 823: [IOS 16 has the ability to dictate texts in Cantonese. 你哋而家唔使打字！](https://old.reddit.com/r/Cantonese/comments/xlpedb/ios_16_has_the_ability_to_dictate_texts_in/), submitted on 2022-09-23 14:14:23+08:00.
+
+----- __823.1__ -----2022-09-23 19:06:08+08:00:
+
+I've been using Cantonese dictation on IOS for nearly 3 years now, it's not new.
+
