@@ -217,3 +217,7 @@ I think it was the 'ondaphone' he made a stab at including but without even modi
 
 To be fair, there's an interesting question to be asked over cultural appropriation in this context – the cheongsam is also known as the qipao, or 'Banner dress', which gives away its origin in the clothing of Manchu women. While the Manchu people were generally politically privileged until 1911, the power balance between Manchus and Han Chinese inverted *hard* when the Qing fell, and you can make the case that there's an iffiness to Manchu clothing suddenly becoming a fashion trend among Han Chinese in the wake of *several* Han massacres of Manchu civilians during the Revolution, and a general suppression of Manchu identity and culture.
 
+----- __809.5__ -----2022-09-23 13:10:37+08:00:
+
+I mean, while there's a truthiness to this statement, I don't see you offering any clear evidence for this.
+

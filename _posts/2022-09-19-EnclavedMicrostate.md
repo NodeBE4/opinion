@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-20
+date: 2022-09-23
 from: https://old.reddit.com/r/AskHistorians/comments/xhzg5r/iso_a_specific_passage_about_appomattox/
 layout: post
 tags:
@@ -94,4 +94,18 @@ My very superficial impression of Kievan Rus' is that it was dominated, at least
 ----- __820.2__ -----2022-09-20 23:27:51+08:00:
 
 Thank you!
+
+### 821: [Do historians or archaeologists age faster than in other academic professions? Or is it just an academic profession thing to age faster in general?](https://old.reddit.com/r/AskHistorians/comments/xlkgln/do_historians_or_archaeologists_age_faster_than/), submitted on 2022-09-23 10:06:07+08:00.
+
+----- __821.1__ -----2022-09-23 13:36:46+08:00:
+
+Apologies, but we have had to remove your submission. We ask that questions in this subreddit be limited to those asking about history, or for historical answers. This is not a judgement of your question, but to receive the answer you are looking for, it would be better suited to /r/AskScience.
+
+If you are interested in an historical answer, however, you are welcome to rework your question to fit the theme of this subreddit and resubmit it.
+
+### 822: [HEY HOW WHO WOOOOOOOOO](https://old.reddit.com/r/Hololive/comments/xlmh0s/hey_how_who_wooooooooo/), submitted on 2022-09-23 11:41:17+08:00.
+
+----- __822.1__ -----2022-09-23 13:42:59+08:00:
+
+Wait what? I thought it was supposed to be in Kwun Tong
 
