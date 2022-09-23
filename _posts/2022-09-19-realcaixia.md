@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-21
+date: 2022-09-23
 from: https://twitter.com/realcaixia/status/1571795403028168704
 layout: post
 tags:
@@ -66,4 +66,8 @@ Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展�
 ### 13: [2022-09-21 22:43:48+08:00 推文](https://twitter.com/realcaixia/status/1572597467073462273)
 
 伊朗民众起来反抗暴政！<br><br>方舟子: 伊朗一名拒绝戴头巾的22岁女人被“道德警察”打死，引发暴动。伊朗女演员Katayoun Riahi说，伊朗人民不再害怕监狱，因为伊朗本身就是一座监狱。<br><br><video src="https://video.twimg.com/ext_tw_video/1572441670427508736/pu/vid/352x640/xrIAqga4SbZk9j0U.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1572441670427508736/pu/img/GsTh7KE_GUdEy0u3.jpg"></video>
+
+### 14: [2022-09-23 21:16:58+08:00 推文](https://twitter.com/realcaixia/status/1573300389943836673)
+
+胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a>
 
