@@ -107,6 +107,12 @@ Thanks to /u/Fluffy_Shoulder_57 for the ping. I'll re-link the relevant AH answe
 
 Um, no? The only full territorial concessions were, with the exception of Macau and Hong Kong, small leaseholds – international settlements in treaty ports, and a few naval bases like Port Arthur, Guangzhouwan, and Weihaiwei. There *were* broader economic 'spheres of influence' entitling certain powers exclusive rights to investment, but the Qing handed over very little in terms of direct territorial sovereignty.
 
+----- __821.3__ -----2022-09-24 11:34:07+08:00:
+
+> The Great Wall was built 2000 years ago
+
+500, actually, in terms of what we would recognise. While there were older earthworks these were not maintained past the Han period.
+
 ### 822: [Do historians or archaeologists age faster than in other academic professions? Or is it just an academic profession thing to age faster in general?](https://old.reddit.com/r/AskHistorians/comments/xlkgln/do_historians_or_archaeologists_age_faster_than/), submitted on 2022-09-23 10:06:07+08:00.
 
 ----- __822.1__ -----2022-09-23 13:36:46+08:00:
