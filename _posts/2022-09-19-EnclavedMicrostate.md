@@ -101,6 +101,12 @@ Thank you!
 
 Thanks to /u/Fluffy_Shoulder_57 for the ping. I'll re-link the relevant AH answer [here](https://www.reddit.com/r/AskHistorians/comments/wb8na3/when_it_comes_to_the_great_wall_of_china_what_is/), but to condense out the key points, the 'wall' in Mongolia and Russia is in fact a set of earthworks built by non-Chinese states that happen to occasionally but inconsistently form part of the 'canonical' succession of 'dynasties', and 500 years before the *actual* 'Great Wall' built by the Ming. Earlier walls were actually very similar in construction, being un-reinforced earthworks, and had been *long* in disrepair since their abandonment during the Han. While the (non-Chinese) Northern Wei and Qi states built walls around Datong, this was a very limited set of construction compared to the earlier Warring States and later Ming efforts. In practical terms, the only fortifications we can seriously call the 'Great Wall' are the Warring States-to-Han defences and then the Ming network, with basically no equivalent in between.
 
+----- __821.2__ -----2022-09-24 11:20:45+08:00:
+
+> that splits Chinese controlled areas to other countries(like Russia, UK, Portugal), that’s how current China’s border are formed.
+
+Um, no? The only full territorial concessions were, with the exception of Macau and Hong Kong, small leaseholds – international settlements in treaty ports, and a few naval bases like Port Arthur, Guangzhouwan, and Weihaiwei. There *were* broader economic 'spheres of influence' entitling certain powers exclusive rights to investment, but the Qing handed over very little in terms of direct territorial sovereignty.
+
 ### 822: [Do historians or archaeologists age faster than in other academic professions? Or is it just an academic profession thing to age faster in general?](https://old.reddit.com/r/AskHistorians/comments/xlkgln/do_historians_or_archaeologists_age_faster_than/), submitted on 2022-09-23 10:06:07+08:00.
 
 ----- __822.1__ -----2022-09-23 13:36:46+08:00:
