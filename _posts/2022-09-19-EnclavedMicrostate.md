@@ -151,9 +151,15 @@ I've been using Cantonese dictation on IOS for nearly 3 years now, it's not new.
 
 ----- __826.1__ -----2022-09-25 01:29:46+08:00:
 
-Changeling_Wil is, ByzantineBasileus isn't.
+~~Changeling_Wil is, ByzantineBasileus isn't.~~
 
-source: am a (largely dormant) BH mod
+~~source: am a (largely dormant) BH mod~~
+
+Yeah so dormant I legit forgot he wasn't.
+
+----- __826.2__ -----2022-09-25 20:23:50+08:00:
+
+No wait shit he isn't, I'm thinking of all the other mods that start with a C. I have been a disinformation dump today.
 
 ### 827: [Why were early website names so on the nose, and how did they become so abstract in current times?](https://old.reddit.com/r/AskHistorians/comments/xmg0io/why_were_early_website_names_so_on_the_nose_and/), submitted on 2022-09-24 10:01:56+08:00.
 
@@ -215,6 +221,10 @@ For questions of this type, we ask that you redirect them to more appropriate su
 
 I'd amend the wording to suggest that Chinese merchants had no particular reason to travel more than a reasonable short hop into Central Asia or, as /u/Anekdota-Press notes, overseas to a reasonably accessible port. 
 However, I would dispute /u/Anekdota-Press' use of 'Maritime Silk Road' here on two grounds. Firstly, the 'Maritime Silk Road' as a term effectively exists solely to attempt to salvage some degree of validity to the 'Silk Road' concept without actually fixing its underlying theoretical problems. Secondly, although maritime routes did make up a considerable part of Chinese international trade, colloquial uses of the 'Silk Road' almost invariably refer to land routes, and it is not unreasonable for an answer about that (depending somewhat on context) to do the same.
+
+----- __833.2__ -----2022-09-25 20:33:09+08:00:
+
+Fair points all round. To be extra-fair, the hardcore objection to the 'Silk Road' terminology has come out of the Central Asia field in the last 2-3 years or so, so I'm not surprised that it hasn't travelled back in time to 2003, nor that maritime specialists are still a little bit behind in that regard. I'm probably not the one to propose an alternative, but simply referring to it as 'Chinese maritime trade' as something that demythologises the concept might be a way forward. But we'll see what actual specialists in the field do.
 
 ### 834: [Has there ever been an instance of a King’s first born heirs being twin boys? If so, how was succession determined?](https://old.reddit.com/r/AskHistorians/comments/xncu4a/has_there_ever_been_an_instance_of_a_kings_first/), submitted on 2022-09-25 11:58:26+08:00.
 
