@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-24
+date: 2022-09-25
 from: https://old.reddit.com/r/AskHistorians/comments/xhzg5r/iso_a_specific_passage_about_appomattox/
 layout: post
 tags:
@@ -208,4 +208,11 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 This submission has been removed because it violates the [rule on poll-type questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_.22poll.22-type_questions). These questions do not lend themselves to answers with a firm foundation in sources and research, and the resulting threads usually turn into monsters with enormous speculation and little focused discussion. Questions about the "most", the "worst", "unknown", or other value judgments usually lead to vague, subjective, and speculative answers.  For further information, please consult [this Roundtable discussion](https://www.reddit.com/r/AskHistorians/comments/f7fhjf/rules_roundtable_iii_no_example_seeking_or/).
 
 For questions of this type, we ask that you redirect them to more appropriate subreddits, such as /r/history or /r/askhistory.
+
+### 833: [Why was the Silk Road trade so one-sided?](https://old.reddit.com/r/AskHistorians/comments/xmyb4f/why_was_the_silk_road_trade_so_onesided/), submitted on 2022-09-25 01:09:55+08:00.
+
+----- __833.1__ -----2022-09-25 09:49:46+08:00:
+
+I'd amend the wording to suggest that Chinese merchants had no particular reason to travel more than a reasonable short hop into Central Asia or, as /u/Anekdota-Press notes, overseas to a reasonably accessible port. 
+However, I would dispute /u/Anekdota-Press' use of 'Maritime Silk Road' here on two grounds. Firstly, the 'Maritime Silk Road' as a term effectively exists solely to attempt to salvage some degree of validity to the 'Silk Road' concept without actually fixing its underlying theoretical problems. Secondly, although maritime routes did make up a considerable part of Chinese international trade, colloquial uses of the 'Silk Road' almost invariably refer to land routes, and it is not unreasonable for an answer about that (depending somewhat on context) to do the same.
 
