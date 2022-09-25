@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-24
+date: 2022-09-25
 from: https://twitter.com/realcaixia/status/1571795403028168704
 layout: post
 tags:
@@ -49,7 +49,7 @@ Re @sakamoto2023 说得好！🌹我有时候还会不自觉地用习惯了的�
 
 ### 9: [2022-09-21 20:54:00+08:00 推文](https://twitter.com/realcaixia/status/1572569836869537793)
 
-特别推荐李承鹏先生的最新力作！<br>中国人这三年的日子可用一些语词描述“祸从天降”、“朝不保夕”、“战战兢兢 ，如履薄冰”；无军事战争的“兵慌马乱”、无灾害性气候的“饥民、饿殍”……，李承鹏先生悲悯之心力透纸背。<br><br>李承诺: 《霸王别姬》里，程蝶衣说：你道今儿个是小人作乱，祸从天降。不是，不对！是咱们自个儿，一步一步，一步步走到这步田地里来的！报应！<br>
+特别推荐李承鹏先生的最新力作！<br>中国人这三年的日子可用一些语词描述“祸从天降”、“朝不保夕”、“战战兢兢 ，如履薄冰”；无军事战争的“兵慌马乱”、无灾害性气候的“饥民、饿殍”……，李承鹏先生悲悯之心力透纸背。<br><br>李承诺: 《霸王别姬》里，程蝶衣说：你道今儿个是小人作乱，祸从天降。不是，不对！是咱们自个儿，一步一步，一步步走到这步田地里来的！报应！<br> <a href="https://twitter.com/dayangelcp/status/1572405821073666049" target="_blank" rel="noopener noreferrer">https://twitter.com/dayangelcp/status/1572405821073666049</a>
 
 ### 10: [2022-09-21 21:43:29+08:00 推文](https://twitter.com/realcaixia/status/1572582290097864705)
 
@@ -69,7 +69,7 @@ Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展�
 
 ### 14: [2022-09-23 21:16:58+08:00 推文](https://twitter.com/realcaixia/status/1573300389943836673)
 
-胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a> <a href="https://twitter.com/L2socialmedia/status/1573104151793631232" target="_blank" rel="noopener noreferrer">https://twitter.com/L2socialmedia/status/1573104151793631232</a>
+胡平老师的这篇文章，为如何解读习以及中共国的官方舆论宣传提供了很好的历史借鉴。<br><br>Hu Ping胡平: 大跃进惨败，导致了人类历史上最大的人为大饥荒，暴君兼昏君毛泽东不因此而垮台就已经够不可思议的了，殊不知三五年后，毛泽东的个人威望不降反升，竟然还达到最高点，以至于攒足了发动文革的本钱。岂非咄咄怪事？<br>胡平：从经济狂想到政治狂想<br>链接：<br> <a href="https://www.chinesepen.org/blog/archives/110973" target="_blank" rel="noopener noreferrer">https://www.chinesepen.org/blog/archives/110973</a>
 
 ### 15: [2022-09-24 05:11:15+08:00 推文](https://twitter.com/realcaixia/status/1573419749731872768)
 
@@ -78,4 +78,16 @@ Re 只有阻止习连任，中国人才有逐步恢复生计，为经济发展�
 ### 16: [2022-09-24 05:51:25+08:00 推文](https://twitter.com/realcaixia/status/1573429857647988736)
 
 墨索里尼总是有理—中共国战狼部长完全不顾基本事实基本礼貌，将一个政权的野蛮性、侵略性以及霸权蛮横充分显露出来。<br><br>韩连潮: 【党国逻辑】党国外长王毅昨在亚洲协会提供的平台老调重弹大放厥词，称中美问题根本症结还是美方出了偏差。中共的无耻在于从不反省自己，永远把错误和问题推给别人，自己总是有理，国际关系中典型的无赖。习近平要的所谓正确相处之道就是听任党国吞并台湾、不支持中国人民反抗中共极权，让其永久执政。<br><br><img style="" src="https://pbs.twimg.com/media/FdVzMJJWAAAylRs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 17: [2022-09-25 21:16:55+08:00 推文](https://twitter.com/realcaixia/status/1574025154107215872)
+
+特别推荐罗小朋先生的这个发言。一共15分钟不到，但内涵之深之广很令人反复思考。<br>罗小朋：完蛋了！二十大将宣告习近平折腾时代的终结 <a href="https://youtu.be/1tihHgIfazc" target="_blank" rel="noopener noreferrer">https://youtu.be/1tihHgIfazc</a>
+
+### 18: [2022-09-25 21:22:53+08:00 推文](https://twitter.com/realcaixia/status/1574026657425408001)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FdgQ5vVXoAQj2Ap?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FdgQ5vUXEAAA53f?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-09-25 21:33:04+08:00 推文](https://twitter.com/realcaixia/status/1574029218081554432)
+
+这篇文章在墙内广为传播且没有被封禁，是有些蹊跷。<br><br>草祭: 這篇在中國國內正在廣泛傳播的、類似官方公告的文章，已基本宣告胡、溫在106歲的中共元老宋平以及其它中共元老朱鎔基、曾慶紅等的支持下，挺身而出，力挽狂瀾，拔亂反正，一舉將習近平及其黨羽拿下，再次挽救了黨、國家和人民。此篇文章能被刊出到現在還沒被删掉，從一個側面證明了習已被軟禁的傳言。<br><br><img style="" src="https://pbs.twimg.com/media/Fda9qbdacAI41M7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
