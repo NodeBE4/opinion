@@ -314,3 +314,12 @@ Actually, to be really pedantic here, WWI was being called the First World War i
 
 But the bigger thing is, the 'Silk Road' genuinely never existed. There never was a singular route whose primary purpose was the intentional transport of silk from China to Europe. World War One is a phrase that is technically correct: it was the first conflict broadly recognised (albeit in the Western world) as having global scale, scope, and implications. 'Silk Road' is not: trade was about much more than silk, it happened by multiple routes on land and at sea, and it has heavily problematic implications for how we understand Eurasian history.
 
+----- __840.5__ -----2022-09-26 21:28:04+08:00:
+
+Sure, but that's come out of years of trying to wrestle the phrase 'Silk Road' into a situation that it describes badly, rather than doing the sensible thing of just not using the term anymore. It wasn't about silk, and it wasn't a road, but we'll call it the Silk Road anyway because... reasons. Which sure, inertia can be a valid reason for doing things, but the nature of the 'Silk Road' as generally discussed is that it ties it all up in problematic narratives that regard long-distance trade as the most important part of Central Asia's history rather than anything happening within the region in and of itself.
+
+----- __840.6__ -----2022-09-26 22:00:24+08:00:
+
+This was the original meaning of the term – Ferdinand von Richtofen was merely describing a route described in Ptolemy's *Geographica* 
+by which one specific silk merchant claimed his silk originated. This *then* got morphed into 'the route by which Chinese silk entered Europe throughout premodern history', *then* 'Central Asian trade routes in general', and now to 'any kind of trade anywhere, as long as China might be tangentially involved'.
+
