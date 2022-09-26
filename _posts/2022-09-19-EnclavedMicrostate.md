@@ -272,3 +272,9 @@ Alternatively, if you didn't mean to ask a question seeking a short answer or a 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
 
+### 839: [[Hobby Scuffles] Week of September 26, 2022](https://old.reddit.com/r/HobbyDrama/comments/xnpnbc/hobby_scuffles_week_of_september_26_2022/), submitted on 2022-09-25 23:00:15+08:00.
+
+----- __839.1__ -----2022-09-26 14:55:44+08:00:
+
+Have certain historians of Central Asia chimed in to add that the Silk Road never actually existed outside the fevered imaginings of white antiquarians in the late 19th century?
+
