@@ -335,3 +335,9 @@ That's probably the best way of putting it, but even then I would stress that *t
 
 That'd be true if the Underground Railroad didn't literally call itself the Underground Railroad, and the first people to do so were a bunch of white antiquarians centuries later. As stressed, 'Silk Road' is a term coined by Europeans to describe a non-European phenomenon, which over time gained certain mystical qualities that helped create an impression of the phenomenon described as unusual and distinctive when, in reality, all that was happening was the same old systems of trade that have characterised the majority of continental trade in Eurasia before the railway. It's not just that the term is literally inaccurate, it's also that it doesn't actually meaningfully describe anything once you strip away the gloss and realise that there's nothing special going on. It's just Eurasian commerce.
 
+----- __840.10__ -----2022-09-27 00:19:14+08:00:
+
+If that's what you've taken from it I must have miscommunicated horribly, because I haven't said that at all. I'm insisting that you can't use 'road' in the singular to describe *all* the possible routes between two places. To use a specific example, let's take [this bit of the UK](https://www.google.com/maps/@51.7142962,0.4492791,12.82z?hl=en): if I were to try to get from Margaretting to Howe Green, I could go straight there by the A12 or I could take the A414 into Chelmsford and then the A1114 out. I could coin the phrase 'Margaretting to Howe Green Road' to describe *either* of these roads, but I cannot use it to simultaneously describe *both*.
+
+Now imagine using the singular phrase 'Silk Road' to describe [this entire network](http://web.archive.org/web/20201111234130/https://transportgeography.org/wp-content/uploads/Silk-Road.png) of maritime and non-maritime trade routes. (And the map is already highly simplified.)
+

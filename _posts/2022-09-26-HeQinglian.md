@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-26
+date: 2022-09-27
 from: https://twitter.com/HeQinglian/status/1574198073986895872
 layout: post
 tags:
@@ -54,4 +54,40 @@ Re @xxj2040 你的动作比欧盟还快，率先宣布。
 ### 10: [2022-09-26 11:43:49+08:00 推文](https://twitter.com/HeQinglian/status/1574243316140593154)
 
 Re @ngexp 重要的是欧盟开裂了。
+
+### 11: [2022-09-26 23:23:11+08:00 推文](https://twitter.com/HeQinglian/status/1574419317793464326)
+
+欧盟现在南有意大利；东有匈牙利、保加利亚；北有瑞典，都选了右翼“法西斯”政党。就剩西欧德法比奥荷等国了，奥还是中立态度。<br>冯德莱恩女士现在非常辛苦，每天需要接受美国指导，与德法首脑商量如何发布威慑言论。<br>俄乌（美）战争还未结束，欧盟已经成了铁定的输家。<br><br>RICHARD FULL: 欧盟这位未经选举的官员乌尔苏拉·冯德莱恩公开警告说，如果意大利投票支持他们不同意的人，他们将制裁意大利。<br><br>谁给她的自信？！！！<br><br><video src="https://video.twimg.com/ext_tw_video/1574294737296580608/pu/vid/1280x720/5oKLFhQUgVYbeZrS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1574294737296580608/pu/img/N1iuY5X0inXpHQk1.jpg"></video>
+
+### 12: [2022-09-26 23:25:40+08:00 推文](https://twitter.com/HeQinglian/status/1574419941821976577)
+
+Re @JianglinLi @Richard_JJ_Cui 很多，年龄比我们小一轮两轮，早就成了冰河冻马。
+
+### 13: [2022-09-26 23:26:51+08:00 推文](https://twitter.com/HeQinglian/status/1574420241987162112)
+
+Re @verona33375613 @dinglili7 你说了不该说的话。
+
+### 14: [2022-09-26 23:28:15+08:00 推文](https://twitter.com/HeQinglian/status/1574420593310683138)
+
+Re @Men_laoshuaige 分不清男女的人，往往也分不清左右。
+
+### 15: [2022-09-26 23:38:01+08:00 推文](https://twitter.com/HeQinglian/status/1574423051659366402)
+
+Re @dinglili7 @verona33375613 他是咒人家死在战场，这么明显的用意，你居然看不出？<br>不管他个人命运如何，总之，他已经打过一场漂亮的仗了。
+
+### 16: [2022-09-26 23:44:23+08:00 推文](https://twitter.com/HeQinglian/status/1574424653040439296)
+
+Re @FlyInRainS3 然后，美国资助她成立一个NGO？<br>哪比得上欧洲委员会主席声望与地位？
+
+### 17: [2022-09-26 23:48:11+08:00 推文](https://twitter.com/HeQinglian/status/1574425611900256259)
+
+Re @KELMAND1 这节奏就是不准备过限制天然气使用的冬天？
+
+### 18: [2022-09-26 23:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1574428140365029376)
+
+Re @JianglinLi @Richard_JJ_Cui 以前有个自以为是的人，读了大重置那文章，来我这里留言，说充满了理想主义精神，非常正面、鼓舞人心。<br>我问他如何读的？然后告诉他：<br>加强政府对经济的干预能力——中国模式；<br>疫苗证——中国的健康码；<br>绿能——中国与能源生产国、消费国都向欧洲购买碳排放配额。<br>这人从此消失了。
+
+### 19: [2022-09-27 00:00:18+08:00 推文](https://twitter.com/HeQinglian/status/1574428659246665730)
+
+Re @Alexjandro990 覆巢之下，安有完卵。
 
