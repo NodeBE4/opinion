@@ -157,7 +157,7 @@ Re @HettyJ008 @JianglinLi Mark了，买包试试。不知有无季节限制？
 
 ### 36: [2022-07-05 04:15:58+08:00 推文](https://twitter.com/HeQinglian/status/1544052420363403265)
 
-中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。” <a href="https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion</a>
+中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。”<br><br>He Qinglian: 关于中国斥资2500亿，购买近300架空客，不得不说几句：这是对拜登的双重打击。<br>1、在川普之前的空客与波音之争，空客已经败下阵来，因质量问题；<br>2、这时购买有战略考量：一是帮欧盟（德法）一把，让欧盟与美国的中国战略保持距离；二是给拜登难堪，波音肯定对此有极大意见，减少对拜登民主党的捐款。<br>
 
 ### 37: [2022-07-05 04:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1544052632603557890)
 
@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -281,7 +281,7 @@ Re @comeonjustchill 战争初起，我就提过一点：前十大GDP国家中，
 
 ### 67: [2022-07-06 03:50:56+08:00 推文](https://twitter.com/HeQinglian/status/1544408505976856576)
 
-这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？
+这几年，美国、英国就拿这事领导世界新潮流了。<br>骄傲月的妖魔鬼怪性活动表演，什么时候能禁止？<br><br>BBC News 中文: 英国政府表示，越来越多的“性别中立”厕所让女性“处于不公平的弱势地位”，增加女性排队时间。政府提议修法，规定新建公共建筑必须设置男女分开的单一性别厕所。<br><br>“性别中立”厕所让使用者按照自己的性别认同选择使用厕所，通常有数个厕所隔间，但使用者必须共用排队和洗手设施，有些女性对此感到不舒服。<br><br><img style="" src="https://pbs.twimg.com/media/FW6CBUDWAAI-qQV?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-07-06 04:16:01+08:00 推文](https://twitter.com/HeQinglian/status/1544414820631470081)
 
@@ -697,11 +697,11 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
@@ -749,7 +749,7 @@ Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>�
 
 ### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
 
-日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
 
 ### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
 
