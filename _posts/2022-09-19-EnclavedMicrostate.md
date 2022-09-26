@@ -327,3 +327,11 @@ by which one specific silk merchant claimed his silk originated. This *then* got
 
 Which, again – if it's not about silk and it's not on a particular road, nor indeed only on roads... then why call it that?
 
+----- __840.8__ -----2022-09-26 23:22:07+08:00:
+
+That's probably the best way of putting it, but even then I would stress that *there is no need to mystify the concept by giving it a capitalised name*. We can speak, in the abstract, of 'trans-Eurasian trade' or 'Chinese exports' or what have you, i.e. use language targeted to specific contexts, rather than appeal to a term with huge amounts of problematic symbolic baggage.
+
+----- __840.9__ -----2022-09-26 23:24:57+08:00:
+
+That'd be true if the Underground Railroad didn't literally call itself the Underground Railroad, and the first people to do so were a bunch of white antiquarians centuries later. As stressed, 'Silk Road' is a term coined by Europeans to describe a non-European phenomenon, which over time gained certain mystical qualities that helped create an impression of the phenomenon described as unusual and distinctive when, in reality, all that was happening was the same old systems of trade that have characterised the majority of continental trade in Eurasia before the railway. It's not just that the term is literally inaccurate, it's also that it doesn't actually meaningfully describe anything once you strip away the gloss and realise that there's nothing special going on. It's just Eurasian commerce.
+
