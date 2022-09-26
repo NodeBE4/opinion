@@ -323,3 +323,7 @@ Sure, but that's come out of years of trying to wrestle the phrase 'Silk Road' i
 This was the original meaning of the term – Ferdinand von Richtofen was merely describing a route described in Ptolemy's *Geographica* 
 by which one specific silk merchant claimed his silk originated. This *then* got morphed into 'the route by which Chinese silk entered Europe throughout premodern history', *then* 'Central Asian trade routes in general', and now to 'any kind of trade anywhere, as long as China might be tangentially involved'.
 
+----- __840.7__ -----2022-09-26 22:15:44+08:00:
+
+Which, again – if it's not about silk and it's not on a particular road, nor indeed only on roads... then why call it that?
+
