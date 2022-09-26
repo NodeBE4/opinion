@@ -23,3 +23,7 @@ title: 'Twitter @蔡霞: 2022-09-26~2022-10-02'
 
 下面是我2月6日发布的文章《二十大前中共内斗充满变数》节选。<br>中共非现代政党，用观察政党的方法看中共往往会有偏差；中共内斗无底线，哪怕人们用江湖黑帮的帮规也难看得准。中共党章党规用来控制全党，独独管不住习。所以，任何预测都不可靠，尘埃落定才见分晓。<br>传言反映人心，当真就不必了。<br><img style="" src="https://pbs.twimg.com/media/Fdi-q7dWYAUt7yM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fdi-rJOXgAEIrqH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fdi-re2XkAM8TNU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fdi-r5_WQAAraFN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-09-26 18:28:38+08:00 推文](https://twitter.com/realcaixia/status/1574345194463531010)
+
+特别推荐#议报发布《北约理事会关于乌克兰部分地区所谓“入俄公投”的声明》。<br><br>《议报》: 【译丛】北约理事会关于乌克兰部分地区所谓“入俄公投”的声明<br> <a href="https://yibaochina.com/?p=247797" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247797</a>
+
