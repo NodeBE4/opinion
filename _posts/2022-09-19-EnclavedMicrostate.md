@@ -337,7 +337,11 @@ That'd be true if the Underground Railroad didn't literally call itself the Unde
 
 ----- __840.10__ -----2022-09-27 00:19:14+08:00:
 
-If that's what you've taken from it I must have miscommunicated horribly, because I haven't said that at all. I'm insisting that you can't use 'road' in the singular to describe *all* the possible routes between two places. To use a specific example, let's take [this bit of the UK](https://www.google.com/maps/@51.7142962,0.4492791,12.82z?hl=en): if I were to try to get from Margaretting to Howe Green, I could go straight there by the A12 or I could take the A414 into Chelmsford and then the A1114 out. I could coin the phrase 'Margaretting to Howe Green Road' to describe *either* of these roads, but I cannot use it to simultaneously describe *both*.
+If that's what you've taken from it I must have miscommunicated horribly, because I haven't said that at all. I'm insisting that you can't use 'road' in the singular to describe *all* the possible routes between two places. To use a specific example, let's take [this bit of the UK](https://www.google.com/maps/@51.7142962,0.4492791,12.82z?hl=en): if I were to try to get from Margaretting to Howe Green, I could go straight there by the A12 or I could take the A414 into Chelmsford and then the A1114 out. I could coin the phrase 'The Margaretting to Howe Green Road' to describe *either* of these roads, but I cannot use it to simultaneously describe *both*.
 
 Now imagine using the singular phrase 'Silk Road' to describe [this entire network](http://web.archive.org/web/20201111234130/https://transportgeography.org/wp-content/uploads/Silk-Road.png) of maritime and non-maritime trade routes. (And the map is already highly simplified.)
+
+----- __840.11__ -----2022-09-27 09:34:41+08:00:
+
+Yep.
 
