@@ -55,3 +55,11 @@ Re @Sh_Jmusic 我完全赞同您的意见。我在2020年5月的发言音频里�
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 11: [2022-09-27 13:43:14+08:00 推文](https://twitter.com/realcaixia/status/1574635758299684864)
+
+香港已经成为内地的一个城市，统治集团在大陆砸瘫了互联网经济，砸瘫了民营企业，现在把这套搬到香港来用了，香港民营企业和企业家开始成为极权统治刀俎下的鱼肉。大陆多年来有句经典名言：“民营企业家不是在监狱里，就是在通往监狱的路上”，这会成为香港企业家的悲惨前景吗？<br><br>端傳媒 Initium Media: 【今晨 #志記鎅木廠 遭圍封，負責人指木廠內仍有700噸木材】<br><br>位於香港新界、至今有74年歷史的志記鎅木廠，於9月13日面臨搬遷期限。今早（27日）7時許傳出有大批地政總署人員及警察圍封木廠，指因木廠危險將不再容許入場，亦不得取回其他工具或私人物品。<br><br><img style="" src="https://pbs.twimg.com/media/FdoYF5oUcAAgyzt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FdoYI3aVQAE__0k?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
+
+大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+

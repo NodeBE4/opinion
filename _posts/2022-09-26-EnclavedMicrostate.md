@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-26
+date: 2022-09-27
 from: https://old.reddit.com/r/AskHistorians/comments/xo9m0n/does_obama_regret_role_his_administration_played/
 layout: post
 tags:
@@ -34,4 +34,10 @@ This submission has been removed because it involves current events.  To keep fr
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 844: [Chinese translation to english needed](https://old.reddit.com/r/ChineseTranslation/comments/xop51a/chinese_translation_to_english_needed/), submitted on 2022-09-27 01:02:50+08:00.
+
+----- __844.1__ -----2022-09-27 14:21:43+08:00:
+
+無論東西/无论东西 which I'd guess is intended as something along the lines of 'Whatever', given no other context.
 

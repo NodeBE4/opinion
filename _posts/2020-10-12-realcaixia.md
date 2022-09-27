@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2020-10-12~2020-10-18'
 
 ### 2: [2020-10-13 06:17:37+08:00 推文](https://twitter.com/realcaixia/status/1315778676261302274)
 
-Re 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 3、中共司法当局明知无证据、无事实根据、无法律依据，但依旧拘许志远和丁家喜，致使冤狱依旧发生！<br>4，许为北大博士，大学法学教师；丁为成功的商业律师，2013年为推动自己过公民社会建设而获罪并都被判刑入狱。他们2017年出狱后矢志不渝继续推进中国公民社会建设，为中国政治和平有序转型而努力。<hr><small>10/13/2020, 6:17:37 AM</small>
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
@@ -41,7 +41,7 @@ Re 3，中共强化极权统治的一个重要标志就是警察头子提升官�
 
 ### 7: [2020-10-13 08:05:29+08:00 推文](https://twitter.com/realcaixia/status/1315805822493097985)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。<hr><small>10/13/2020, 8:05:29 AM</small>
+Re 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 

@@ -49,7 +49,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 9: [2022-06-28 09:44:03+08:00 推文](https://twitter.com/realcaixia/status/1541598267372339200)
 
-特别推荐:#议报独家首发蔡慎坤先生文章<br>这篇文章以大量详实的数据，分析了中国经济在后疫情时代面临的险恶情势，文章分析了生产、消费、房地产、地方政府债务、地方财政收入锐减、公务员大幅度减少绩效工资甚至拖欠公务员工资、失业人数增长、大企业减员等各个方面的情况。<br><br>《议报》: 蔡慎坤：后疫情时代中国经济何去何从？<br> <a href="https://yibaochina.com/?p=247033" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247033</a>
+特别推荐:#议报独家首发蔡慎坤先生文章<br>这篇文章以大量详实的数据，分析了中国经济在后疫情时代面临的险恶情势，文章分析了生产、消费、房地产、地方政府债务、地方财政收入锐减、公务员大幅度减少绩效工资甚至拖欠公务员工资、失业人数增长、大企业减员等各个方面的情况。
 
 ### 10: [2022-06-28 21:23:21+08:00 推文](https://twitter.com/realcaixia/status/1541774252550098946)
 
@@ -65,11 +65,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 13: [2022-06-29 11:26:25+08:00 推文](https://twitter.com/realcaixia/status/1541986418406326273)
 
-我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。
+我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。<br><br>楊建利 Yang Jianli: 敬告<br><br>由于不明来源的攻击，《议报》网站目前处于不稳定的状态。我们正紧急维修，相信很快会恢复正常。对因此给读者造成的不便和困扰，我们深表歉意。<br><br>致敬读者，您的信任是我们工作的动力，也是我们团队存在的价值。<br>致敬作者，您高质量的文章，给世界增添了精神色彩和思想资源。<br><br>《议报》编辑部<br>
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
-送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。
+送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。<br><br>浦志强: 老浦说点事：6月28日：八宝山送别张思之先生：限定20人，不许拍照，没致悼词，没读生平，我们送老爷子低调远行（附：《张思之先生生平》和《波尔基金...<br><br><img style="" src="https://pbs.twimg.com/media/FWYmuN0UAAAg3yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuOUUYAAWV-v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UsAAVXv3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UEAA2UO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/pLCwc-i-Jms" target="_blank" rel="noopener noreferrer">https://youtu.be/pLCwc-i-Jms</a>
 
 ### 15: [2022-06-29 12:21:55+08:00 推文](https://twitter.com/realcaixia/status/1542000383782014978)
 
@@ -177,7 +177,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。
+极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 
