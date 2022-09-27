@@ -29,11 +29,11 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 4: [2022-05-17 06:24:50+08:00 推文](https://twitter.com/realcaixia/status/1526327844862930945)
 
-特别推荐。强力推荐。欢迎所有朋友都来下载。<br><br>韩连潮: 【翻墙APP】#议报 在 @GreatFireChina 的帮助下完善了翻墙APP。下载安装后不仅可以阅读 #议报 内容，而且可以遨游自由网络。下载链接如下：<br><br><img style="" src="https://pbs.twimg.com/media/FSzcoJzXwAAY9uh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://yibaochina.com/?page_id=245397" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?page_id=245397</a>
+特别推荐。强力推荐。欢迎所有朋友都来下载。
 
 ### 5: [2022-05-17 20:16:39+08:00 推文](https://twitter.com/realcaixia/status/1526537175604641792)
 
-6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。<br><br>方舟子: 北大学生闹事后，辅导员鼓励同学根据现场照片相互检举揭发，秋后算帐，从来如此。<br><br><img style="" src="https://pbs.twimg.com/media/FS26l20VIAEEaw6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l21VEAIvTmi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS26l23UUAA27Da?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+6•4将近，习当局怕学生续6.4精神，自然是先好话哄过去再说。但是秋后算帐、镇压学生运动，历来是他们的本能。
 
 ### 6: [2022-05-18 07:48:15+08:00 推文](https://twitter.com/realcaixia/status/1526711223609434112)
 
@@ -85,7 +85,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
-特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？
+特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？<br><br>《议报》: 全国政协委员：价值观颠倒必导致国运逆转<br> <a href="https://yibaochina.com/?p=246529" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246529</a>
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
@@ -121,7 +121,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
