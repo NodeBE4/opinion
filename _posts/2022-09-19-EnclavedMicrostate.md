@@ -353,7 +353,7 @@ Yep.
 
 > we can’t enter for the forseeable future
 
-By which you mean 2 weeks, right? Japan's essentially reopening international tourism as of 11 October: https://www.japantimes.co.jp/news/2022/09/23/national/kishida-japan-border-opening/
+By which you mean 2 weeks, right? Japan's essentially completely reopening international tourism as of 11 October: https://www.japantimes.co.jp/news/2022/09/23/national/kishida-japan-border-opening/
 
 ----- __840.13__ -----2022-09-27 15:13:50+08:00:
 
