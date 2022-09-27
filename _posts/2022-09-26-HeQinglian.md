@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-27
+date: 2022-09-28
 from: https://twitter.com/HeQinglian/status/1574198073986895872
 layout: post
 tags:
@@ -170,4 +170,8 @@ Re @shenliangqing2 已经有个体面的说法了：<br>早就知道不是真的
 ### 39: [2022-09-27 23:56:36+08:00 推文](https://twitter.com/HeQinglian/status/1574790113975992320)
 
 Re @ngexp @JianglinLi @david_david1968 @Wu_Zhi 欧盟、美国也得反思一下，推行颜色革命几十年，最后就剩下他们这些自许的民主国家，世界并不认可他们推行的那套进步主义价值观，WHY？
+
+### 40: [2022-09-28 02:19:14+08:00 推文](https://twitter.com/HeQinglian/status/1574826012684292112)
+
+Re @Wu_Zhi @KELMAND1 贵国有点反应：<br>POLITICO Europe刚报导，德国在野党基督教民主党（CDU）领袖梅尔茨（Friedrich Merz）指控部分乌克兰难民利用德国的社会福利系统，在德国、乌克兰之间来回福利旅游（Welfare tourism）”，又指超过110万在德国登记的乌克兰难民中，“一大群”在榨干德国。 <a href="https://www.politico.eu/article/german-conservative-leader-accuses-ukrainian-refugees-of-welfare-tourism/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/german-conservative-leader-accuses-ukrainian-refugees-of-welfare-tourism/</a>
 
