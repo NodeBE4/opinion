@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。
+大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -70,4 +70,8 @@ Re 这⬆️是转的一个推友的推特。是深圳福田区的许多民众�
 ### 14: [2022-09-28 00:59:31+08:00 推文](https://twitter.com/realcaixia/status/1574805947456921603)
 
 我转推的就是深圳福田沙尾民众抗争的视屏。全中国就是一座大监狱。油管上没封住视频，特再次推出。<br>深圳市民拿喇叭大罵共產黨；深圳沙尾再封控引發抗議 上千民眾大喊「解封」；深圳多地封控 打工人跑路不斷；西藏封城已四、五十天 隔離方艙堪比集中營；... <a href="https://youtu.be/BjsfDipjc8o" target="_blank" rel="noopener noreferrer">https://youtu.be/BjsfDipjc8o</a>
+
+### 15: [2022-09-28 07:30:38+08:00 推文](https://twitter.com/realcaixia/status/1574904376250048533)
+
+Re @gaoyu200812 逢场作戏罢了，这些细节不说明什么，维护表面的统一，不仅是习想要的也是这党希望的，给外界一个假象，似乎这党团结，他们各自都有这个需要，尽管出发点不一样。
 
