@@ -41,3 +41,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 無論東西/无论东西 which I'd guess is intended as something along the lines of 'Whatever', given no other context.
 
+### 845: [Is Soviet tc Sergei Gadyuk still alive?](https://old.reddit.com/r/AskHistorians/comments/xp85zd/is_soviet_tc_sergei_gadyuk_still_alive/), submitted on 2022-09-27 13:57:10+08:00.
+
+----- __845.1__ -----2022-09-27 14:25:56+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
+
