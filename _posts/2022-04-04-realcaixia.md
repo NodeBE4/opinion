@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
@@ -145,7 +145,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
-看看方舱医院什么情况吧。
+看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
 
 ### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
@@ -201,7 +201,7 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 47: [2022-04-06 21:46:55+08:00 推文](https://twitter.com/realcaixia/status/1511701989897478150)
 
-勇气、胆识与智慧，令人敬佩！<br><br>Harvey JI季孝龙（@cesuogeming 厕所革命发起者): 各位朋友，我已把我生命自由及尊严全部都交给了上海。我已连续两天和朋友做最后道别，按中国敢言公民的遭遇为参考，我是不准备活着出来了。当然我是基督徒，我绝对不会自暴自弃自杀啥的。<br>我道别得连自己都觉得有点矫情了。好像到了一个朋友家做客，我说我走了啊。又聊了一小时。我还自由着。<br>请朋友转<br><br><img style="" src="https://pbs.twimg.com/media/FPpgjFKUcAQMDDD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+勇气、胆识与智慧，令人敬佩！
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
@@ -237,7 +237,7 @@ RT @peichang_yang: 布查惨案发生后，俄乌之间已经失去了谈判基�
 
 ### 56: [2022-04-06 22:41:34+08:00 推文](https://twitter.com/realcaixia/status/1511715744635133956)
 
-活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。<br><br>Jacky: 传说中的恶警,大概率最后上海军管.(第一部分)<br><br><video src="https://video.twimg.com/ext_tw_video/1511310669228175361/pu/vid/368x640/bc944MQo8OKnMOXp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511310669228175361/pu/img/LsmYTb4C8T1Fvcg0.jpg"></video>
+活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。
 
 ### 57: [2022-04-06 22:42:41+08:00 推文](https://twitter.com/realcaixia/status/1511716025758326790)
 
@@ -253,7 +253,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 60: [2022-04-07 20:09:30+08:00 推文](https://twitter.com/realcaixia/status/1512039862626656257)
 
-中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。<br><br>新闻/真话: 宁波一个捡破烂的老头，被狠狠的踩在一块木板下，目光呆滞，他一定在怀疑自己穿越了，遇到皇军了<br><br><img style="" src="https://pbs.twimg.com/media/FPvG935aIAIbxT6?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+中共军队號稱“人民子弟兵”，8964向人民开枪。64以後，進京的27军向北京市民辯解說他們沒有開槍，開槍的是38軍，說明那時軍人心中還有負罪感。随着中国政治从改革开放转向封闭倒退反动，民众与极权统治矛盾的尖锐化，中共军警殘越来越暴兇惡地對待民眾、这类侵害人權的暴力犯罪行為，屡屡发生处处可见。
 
 ### 61: [2022-04-08 20:27:47+08:00 推文](https://twitter.com/realcaixia/status/1512406852948181003)
 
@@ -261,7 +261,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 62: [2022-04-08 20:35:48+08:00 推文](https://twitter.com/realcaixia/status/1512408868734881793)
 
-专制独裁者是同一个德性。他们用尽各种谎言、强作姿态维护面子，实质是维持他们统治权力的脆弱的人心基础，他们内心越恐慌越要装的“我不在乎”，越要装得外表强硬。什么叫无赖虚张声势？俄国这就是。<br><br>ZHANGDONG: 联合国大会今天以压倒多数表决通过将俄国踢出人权理事会的决议.联合国发推公布表决结果半个小时之后,俄罗斯驻联合国代表用俄语发推公布：<br>"俄罗斯联邦已决定从 2022 年4月7日起提前终止作为联合国人权理事会成员的权力。"<br>【翻译】是我俄帝主动退出联大人权理事会,而非被联大踢出去的。<br>面子必须维护😓<br> <a href="https://twitter.com/UN/status/1512099689730129930" target="_blank" rel="noopener noreferrer">https://twitter.com/UN/status/1512099689730129930</a>
+专制独裁者是同一个德性。他们用尽各种谎言、强作姿态维护面子，实质是维持他们统治权力的脆弱的人心基础，他们内心越恐慌越要装的“我不在乎”，越要装得外表强硬。什么叫无赖虚张声势？俄国这就是。
 
 ### 63: [2022-04-09 21:28:50+08:00 推文](https://twitter.com/realcaixia/status/1512784603248955394)
 

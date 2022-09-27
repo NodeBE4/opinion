@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-09-26
+date: 2022-09-27
 from: https://old.reddit.com/r/geopolitics/comments/xo2fgo/italys_election_paradox_why_america_and_the_eu/
 layout: post
 tags:
@@ -24,4 +24,15 @@ Now that Meloni has consolidated her leadership among protest voters, she has ev
 Salvini wants to challenge Meloni’s leadership, and he can do so only by clawing back the protest vote. His strategy is to outflank Meloni on the extremes. Lega has proposed a flat tax to replace the existing progressive income tax and a pension reform that would give every Italian access to a full pension after 41 years of employment. Estimates suggest that these plans alone would cost an additional 57 billion euros annually, roughly 3.3 percent of gross domestic product. Such plans for heavy borrowing would likely spark another budget showdown with Brussels, similar to one that Salvini engineered in 2018. In turn, this might create another market crisis of confidence in Italy, a highly indebted economy facing poor demographic prospects and a grim forecast for economic growth. It would be made worse by the fact that the European Central Bank has made it clear that it will not step in to prevent market turmoil in member states that do not abide by Brussels’s fiscal rules. A crisis of confidence in Italy’s ability to service its debt might call into question the long-term viability of the common currency, as it did in 2011-12. From a geopolitical standpoint, too, Salvini’s stance is unreliable. A few weeks ago, he publicly called for a reconsideration of EU sanctions on Russia, though he later backtracked...
 
 The difficulty for Meloni is to find a way to moderate or accommodate Salvini without reducing her credibility with EU partners and international investors. By compromising with him on these issues, Meloni would risk fracturing the West’s united front on Ukraine, starting a fight with the EU over budgets, or both—a nightmare scenario. Even if Meloni holds firm, the very presence of a strong Salvini within her government would raise doubts about how long she would be able to sustain his pressure.
+
+### 306: [What Mobilization Means for Russia: The End of Putin’s Bargain With the People](https://old.reddit.com/r/geopolitics/comments/xpj1n3/what_mobilization_means_for_russia_the_end_of/), submitted on 2022-09-27 22:57:35+08:00.
+
+----- __306.1__ -----2022-09-27 23:01:08+08:00:
+
+\[SS from the essay by Michael Kimmage, Professor of History at the Catholic University of America, and Maria Lipman, Senior Visiting Fellow at the Institute of European, Russian, and Eurasian Studies of George Washington University\]
+
+The conscription represents a dramatic turning point in the war, and in Putin’s rule. The Kremlin expected the war to be brief. When it did not end quickly, Putin found a way of waging it that was consistent with the political style he has employed since coming to power in 2000. The few Russians who thrilled to the war’s imperial promises could wave the flag and display the letter “z,” the official symbol of the war. Those who were apprehensive or disturbed by the war could quietly harbor their uncertainties. Those voicing discontent in public were invariably punished: thousands were arrested for marching or holding signs that read, among other things, net vojne (“no to war”) or the phrase dva slova—“two words,” a euphemism for net vojne. Nobody could come out against the government or give voice to their dissent in the public sphere. Any organizing against the war was strictly prohibited, and violators have been harshly punished.  
+This response was not fascism, despite the common application of that term to describe Putin’s rule. It was, instead, the preservation of an atomized and compliant society, one that was securely apolitical and that would not disrupt the Kremlin’s actions. For this atomization to stay in effect, the war had to remain far away. It had to be a mutable abstraction onto which Russians’ subjective attitudes could be projected, whether they were pro-war or antiwar. Polling data suggest that, prior to the mobilization, the war retained the support of more than 75 percent of Russians. Such acquiescence was the best possible public response from the Kremlin’s point of view. Indifference was a close second.
+
+But the war did not go as planned, and Putin has run out of options.
 
