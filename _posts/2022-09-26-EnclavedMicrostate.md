@@ -47,3 +47,9 @@ Finally, don’t forget that there are many subreddits on Reddit aimed at answer
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 846: [[Video Games] The downfall of a CEO that chose a very misoginistic hill to die on.](https://old.reddit.com/r/HobbyDrama/comments/xpdecb/video_games_the_downfall_of_a_ceo_that_chose_a/), submitted on 2022-09-27 18:52:48+08:00.
+
+----- __846.1__ -----2022-09-27 19:18:35+08:00:
+
+As a couple of users have pointed out, this is too recent per Rule 5. Please consider reposting once 2 weeks have passed.
+
