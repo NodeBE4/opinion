@@ -25,7 +25,7 @@ Re 3、中共司法当局明知无证据、无事实根据、无法律依据，�
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯<hr><small>10/13/2020, 6:20:30 AM</small>
+Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯
 
 ### 4: [2020-10-13 08:00:08+08:00 推文](https://twitter.com/realcaixia/status/1315804478453489670)
 
@@ -49,7 +49,7 @@ Re @zfb468590 谢谢您看的仔细。
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
@@ -65,7 +65,7 @@ Re @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人�
 
 ### 13: [2020-10-15 23:03:54+08:00 推文](https://twitter.com/realcaixia/status/1316756691510325248)
 
-有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！特再推。 <br><br>韩连潮: 【五中全会欲结新朋党？】以下信息为国内网友转来，真实性无法确认，试翻译如下：歧山因病下课；李强接副（副总理？国家副主席？）并兼上海书记；黄坤明接王沪宁；王小红接公安部长；蔡琦可能去全国政协；李小鹏接手善（首善：首都市委书记，但没有最后定）五中全会主要内容。请读者自判。 <br><br><img src="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！特再推。<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/lianchaohan"><img align="left" src="https://pbs.twimg.com/profile_images/1066380930183516161/sqLkirNc_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>韩连潮</strong></a>:  【五中全会欲结新朋党？】以下信息为国内网友转来，真实性无法确认，试翻译如下：歧山因病下课；李强接副（副总理？国家副主席？）并兼上海书记；黄坤明接王沪宁；王小红接公安部长；蔡琦可能去全国政协；李小鹏接手善（首善：首都市委书记，但没有最后定）五中全会主要内容。请读者自判。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkXmatwWkAA4bEM?format=jpg&name=orig" referrerpolicy="no-referrer"></a><br><small>Source: <a href="https://twitter.com/lianchaohan/status/1316714818913669121" target="_blank" rel="noopener noreferrer">https://twitter.com/lianchaohan/status/1316714818913669121</a></small><br><small>10/15/2020, 8:17:30 PM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/15/2020, 11:03:54 PM</small>
 
 ### 14: [2020-10-18 20:42:39+08:00 推文](https://twitter.com/realcaixia/status/1317808310570176513)
 

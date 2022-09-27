@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-26
+date: 2022-09-27
 from: https://twitter.com/realcaixia/status/1574209161528840202
 layout: post
 tags:
@@ -38,4 +38,20 @@ Re @wuzuolai @ziliyang @yibaochina 胡平老师是针对“公域”中问题的
 ### 6: [2022-09-26 21:41:00+08:00 推文](https://twitter.com/realcaixia/status/1574393601253064705)
 
 Re @Sh_Jmusic 我完全赞同您的意见。我在2020年5月的发言音频里中说了：“倒习只是第一步”。
+
+### 7: [2022-09-27 11:25:00+08:00 推文](https://twitter.com/realcaixia/status/1574600971220656129)
+
+特别推荐：<br>作者通过文本分析，对中共最高权力更迭中的半制度化的“隐性”规则的梳理，初步揭示了“退下来的”中共政治老人，何以能在中共顶层权力更迭交接中、何以能在重大分歧、重大决策中发挥影响和作用的原因所在。<br>作者揭开了中共党内政治黑幕的一角，这往往是人们难以看清的“神秘”点之一。<br><br>《议报》: 锺英時 | 中国共产党的全国代表大会体制与最高权力代际结构<br> <a href="https://yibaochina.com/?p=247801" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247801</a>
+
+### 8: [2022-09-27 11:31:38+08:00 推文](https://twitter.com/realcaixia/status/1574602641035993097)
+
+周世锋主任是北京一个著名律师事务所的主任，他们所为维护人权而遭受中共极权统治当局的残酷迫害。<br><br>学文- insist: 周世锋主任受苦七年多刚回到京城家中，目前居家隔离中，他非常想念大家！感谢大家对他的挂念！<br><br><img style="" src="https://pbs.twimg.com/media/FdY7e5vVUAEWvmH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-09-27 11:38:02+08:00 推文](https://twitter.com/realcaixia/status/1574604249010511906)
+
+【译丛】欧盟高级高级代表受委托代表欧盟就俄罗斯侵略乌克兰战争发表声明 - 议报 <a href="https://yibaochina.com/?p=247804" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247804</a>
+
+### 10: [2022-09-27 11:41:32+08:00 推文](https://twitter.com/realcaixia/status/1574605129524944896)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
