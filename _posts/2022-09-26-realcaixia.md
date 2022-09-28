@@ -103,3 +103,11 @@ Re @cskun1989 香港即是明证。曾经的香港：世界著名的自由贸易
 
 这个推文评论极为精彩！<br><br>ZHANGDONG: 2月份乌俄战争爆发时，乌克兰男人把女人和孩子送出國避难，自己留下来抗击入侵敌人；9月份普京发布战争动员令后，俄罗斯男人把女人和孩子留下来，自己逃到國外躲避战斗。<br>乌克兰难民是因为祖国受到侵略，俄罗斯难民是因为祖国侵略邻国。<br><br><img style="" src="https://pbs.twimg.com/media/FdwQlTRXEAASaWX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 23: [2022-09-29 06:41:54+08:00 推文](https://twitter.com/realcaixia/status/1575254501874958356)
+
+特别推荐这篇墙里传出来的文章。这是一篇散文：叙事，读了很让人心暖，泪目，感触良多。特地与推友们分享：<br><br>张3丰 | 一次典型的成都饭局 - 议报 <a href="https://yibaochina.com/?p=247844" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247844</a>
+
+### 24: [2022-09-29 07:16:38+08:00 推文](https://twitter.com/realcaixia/status/1575263241231638529)
+
+请看截图：我昨天转推勿忘六四的开枪视频，立即被封，连下面点赞和评论都不能正常使用。不知何时又冒出个蓝色小标示：“你可以回复此对话”。今天我再次转推，我在推文中问：为什么我就转推不了6‘4的血腥真相影像资料？这转推视频活下来，点赞与评论也能正常使用了。请教推友，谁能说一下，这什么情况？<br><img style="" src="https://pbs.twimg.com/media/Fdx1kBQXoAAMAlN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fdx1kRzXoAA5u5i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
