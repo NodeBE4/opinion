@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-27
+date: 2022-09-28
 from: https://old.reddit.com/r/AskHistorians/comments/xo9m0n/does_obama_regret_role_his_administration_played/
 layout: post
 tags:
@@ -52,4 +52,10 @@ This submission has been removed because it violates our ['20-Year Rule'](http:/
 ----- __846.1__ -----2022-09-27 19:18:35+08:00:
 
 As a couple of users have pointed out, this is too recent per Rule 5. Please consider reposting once 2 weeks have passed.
+
+### 847: [How does our current economic situation compare to the economies of the past?](https://old.reddit.com/r/AskHistorians/comments/xq0jfy/how_does_our_current_economic_situation_compare/), submitted on 2022-09-28 10:45:05+08:00.
+
+----- __847.1__ -----2022-09-28 11:55:36+08:00:
+
+This submission has been removed because it involves current events.  To keep from discussion of politics, we have a [20-year rule](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events) here.  You may want to try /r/ask_politics, /r/NeutralPolitics, or another current-events focused sub. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 

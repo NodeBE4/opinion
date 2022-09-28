@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+大陆全国是个大监狱。人们终有反抗的一天。
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -74,4 +74,8 @@ Re 这⬆️是转的一个推友的推特。是深圳福田区的许多民众�
 ### 15: [2022-09-28 07:30:38+08:00 推文](https://twitter.com/realcaixia/status/1574904376250048533)
 
 Re @gaoyu200812 逢场作戏罢了，这些细节不说明什么，维护表面的统一，不仅是习想要的也是这党希望的，给外界一个假象，似乎这党团结，他们各自都有这个需要，尽管出发点不一样。
+
+### 16: [2022-09-28 10:36:29+08:00 推文](https://twitter.com/realcaixia/status/1574951147445575681)
+
+长江水枯石出，环境这样的巨变，令人恐怖。这些年，大陆长江中上游地区的极端灾害频发，四川青海云南等地震几乎年年发，极端的干旱地裂不再是少见现象。我们民族的子孙万代将在这样的环境中生息繁衍，将会是什么样的命运？为什么自然环境如此剧变？<br><video src="https://video.twimg.com/ext_tw_video/1574951107968770048/pu/vid/480x848/-wWzjwk7w0j9vvlf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1574951107968770048/pu/img/3t_p6FyAKsImvdZ_.jpg"></video>
 
