@@ -79,3 +79,15 @@ Re @gaoyu200812 逢场作戏罢了，这些细节不说明什么，维护表面�
 
 长江水枯石出，环境这样的巨变，令人恐怖。这些年，大陆长江中上游地区的极端灾害频发，四川青海云南等地震几乎年年发，极端的干旱地裂不再是少见现象。我们民族的子孙万代将在这样的环境中生息繁衍，将会是什么样的命运？为什么自然环境如此剧变？<br><video src="https://video.twimg.com/ext_tw_video/1574951107968770048/pu/vid/480x848/-wWzjwk7w0j9vvlf.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1574951107968770048/pu/img/3t_p6FyAKsImvdZ_.jpg"></video>
 
+### 17: [2022-09-28 21:58:48+08:00 推文](https://twitter.com/realcaixia/status/1575122858921148416)
+
+中共国是全世界公权力最恣意妄为的国家，是国民最无人权保障、最不自由的国家。<br><br>望: 中国是全世界最自由的国家： 政府可以自由收税， 国企可以自由涨价， 领导可以自由卖国， 专家可以自由胡说八道， 官员可以自由吃喝玩乐， 法官可以自由解释法律， 警察可以自由抓捕百姓， 住房可以自由拆除， 历史可以自由篡改， 常识可以被自由颠覆。<br>
+
+### 18: [2022-09-28 22:09:21+08:00 推文](https://twitter.com/realcaixia/status/1575125513504526338)
+
+泼墨女董瑶琼被强行关进精神病院，至今音信全无；董瑶琼父亲又惨死狱中。习极权统治搞人权迫害罪孽深重。记好这两笔帐，待到中国转型建立宪政民主时，极权统治的桩桩件件罪行都必须清算！<br><br>刘飞龙: #董建彪 #董瑶琼 <br>关注董建彪惨死狱中，营救被精神病的董瑶琼。<br><br><img style="" src="https://pbs.twimg.com/media/FdrANk_XEAAGjdX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FdrANk2XkAM-dzH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-09-28 22:10:55+08:00 推文](https://twitter.com/realcaixia/status/1575125906753986563)
+
+这是金句！<br><br>Elena传播真相: 👻转帖：中国人普遍不互相信任，为什么那么相信共产党政府呢？<br><br><img style="" src="https://pbs.twimg.com/media/FdszszYXgAAi3lC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
