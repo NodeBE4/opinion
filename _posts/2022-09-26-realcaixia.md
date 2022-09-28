@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-28
+date: 2022-09-29
 from: https://twitter.com/realcaixia/status/1574209161528840202
 layout: post
 tags:
@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+大陆全国是个大监狱。人们终有反抗的一天。
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -98,4 +98,8 @@ Re @cskun1989 香港即是明证。曾经的香港：世界著名的自由贸易
 ### 21: [2022-09-28 22:49:25+08:00 推文](https://twitter.com/realcaixia/status/1575135594602266625)
 
 为什么我就转推不了6.4的血腥真相影像资料？当时我在距离北京1000多公里的外省，杜宪的黑衣服杜宪的沉重语音牢牢地烙在了心里，可是看不到这些影像史料。在京几十年，听朋友们零散地说当时开枪。中共很希望抹去这一段时间，就像中共谈百年党史，必定对1958—1961、1966—1976，几句带过、语焉不详一样。<br><br>正视历史▪️毋忘六四🇺🇸: 众多的知名国际媒体见证并记录了 #六四 大屠杀，BBC 就是其中一家，它拍下了6月3日深夜到6月4日天安门广场及附近最惨烈的一幕。<br><br>#毋忘六四<br><br><video src="https://video.twimg.com/ext_tw_video/1574018123619274753/pu/vid/1102x720/XWALvW_o020kYAfx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1574018123619274753/pu/img/Ik9QxLPyWZHNciCH.jpg"></video>
+
+### 22: [2022-09-29 01:33:29+08:00 推文](https://twitter.com/realcaixia/status/1575176886266650624)
+
+这个推文评论极为精彩！<br><br>ZHANGDONG: 2月份乌俄战争爆发时，乌克兰男人把女人和孩子送出國避难，自己留下来抗击入侵敌人；9月份普京发布战争动员令后，俄罗斯男人把女人和孩子留下来，自己逃到國外躲避战斗。<br>乌克兰难民是因为祖国受到侵略，俄罗斯难民是因为祖国侵略邻国。<br><br><img style="" src="https://pbs.twimg.com/media/FdwQlTRXEAASaWX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

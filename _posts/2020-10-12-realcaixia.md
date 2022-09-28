@@ -25,7 +25,7 @@ Re 3、中共司法当局明知无证据、无事实根据、无法律依据，�
 
 ### 3: [2020-10-13 06:20:30+08:00 推文](https://twitter.com/realcaixia/status/1315779405147496449)
 
-Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后，放下对妻女的眷恋，重返中国大陆为中国的政治发展而不懈努力。<br> 5，谢律师指出：专制历史终将终结。我们面对着的是少数反法治反正义反人类的邪恶势力。善恶终有报是天道法则，伤天害理放纵堕落必将劫数难逃！掌权者应无罪释放许丁等所有良心犯<hr><small>10/13/2020, 6:20:30 AM</small>
 
 ### 4: [2020-10-13 08:00:08+08:00 推文](https://twitter.com/realcaixia/status/1315804478453489670)
 
@@ -41,27 +41,27 @@ Re 丁家喜夫人女儿移居在美，丁家喜2017年到美与家人团聚后�
 
 ### 7: [2020-10-13 08:05:29+08:00 推文](https://twitter.com/realcaixia/status/1315805822493097985)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。<hr><small>10/13/2020, 8:05:29 AM</small>
+Re 4，这意味着，中国自上而下通过强化警察在政府系统中的权力地位，正逐步形成警察控制政府，政府配合警察的高强度管控社会的警察政府模式。确实如这文章所说：增加乡镇派出所所长在乡镇的话语权，可以统筹整合乡镇的力量，共同开展好派出所牵头的有关工作。
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-Re @zfb468590 谢谢您看的仔细。
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
+Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/mars36449"><img align="left" src="https://pbs.twimg.com/profile_images/1313033311623671809/Bkh2tJCo_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ</strong></a>:  @realcaixia<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/mars36449/status/1315874412223098887" target="_blank" rel="noopener noreferrer">https://twitter.com/mars36449/status/1315874412223098887</a></small><br><small>10/13/2020, 12:38:02 PM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/13/2020, 10:28:45 PM</small>
+看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。 <br><br>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ: @realcaixia <br><br><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video>
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/14/2020, 8:37:45 AM</small>
+最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 
-Re @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @lianchaohan 推文下有对这信息表示怀疑的，是因其超出了人们想像的底线、范围、正常逻辑。许多网友是以善良之心看事情，认为这不可能。但国内自2013年以后、世界上自中共病毒疫情以来，多少事一再超出人的良知底线。事实表明，他们毫无底线！2013以来习一帮狐朋狗友结党营私爬上高位，捧一人而保权分赃还少吗？！<hr><small>10/15/2020, 11:01:12 PM</small>
 
 ### 13: [2020-10-15 23:03:54+08:00 推文](https://twitter.com/realcaixia/status/1316756691510325248)
 
