@@ -359,3 +359,7 @@ By which you mean 2 weeks, right? Japan's essentially completely reopening inter
 
 We could indeed.
 
+----- __840.14__ -----2022-09-28 15:20:15+08:00:
+
+What, and I cannot stress this enough, the actual fuck.
+
