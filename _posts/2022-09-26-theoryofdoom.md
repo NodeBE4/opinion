@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-09-27
+date: 2022-09-28
 from: https://old.reddit.com/r/CoronavirusIllinois/comments/xp4143/cdc_no_longer_recommends_universal_masking_in/
 layout: post
 tags:
@@ -20,4 +20,12 @@ title: theoryofdoom在2022-09-26~2022-10-02的言论
 > We can get special hats to let people know we're sick.
 
 [Those already exist](https://www.trumpstore.com/products/classic-maga-hat/).
+
+### 358: [How does russian media handle the gasleak, what is said to be the cause of it?](https://old.reddit.com/r/AskARussian/comments/xplza6/how_does_russian_media_handle_the_gasleak_what_is/), submitted on 2022-09-28 00:48:53+08:00.
+
+----- __358.1__ -----2022-09-28 08:24:22+08:00:
+
+> It was predicted in an analytical article dated 03/31/2020: 'Russian underwater gas pipelines will be destroyed'
+
+A rare occasion where someone is bold enough to say what everyone was thinking.
 

@@ -175,3 +175,23 @@ Re @ngexp @JianglinLi @david_david1968 @Wu_Zhi 欧盟、美国也得反思一下
 
 Re @Wu_Zhi @KELMAND1 贵国有点反应：<br>POLITICO Europe刚报导，德国在野党基督教民主党（CDU）领袖梅尔茨（Friedrich Merz）指控部分乌克兰难民利用德国的社会福利系统，在德国、乌克兰之间来回福利旅游（Welfare tourism）”，又指超过110万在德国登记的乌克兰难民中，“一大群”在榨干德国。 <a href="https://www.politico.eu/article/german-conservative-leader-accuses-ukrainian-refugees-of-welfare-tourism/" target="_blank" rel="noopener noreferrer">https://www.politico.eu/article/german-conservative-leader-accuses-ukrainian-refugees-of-welfare-tourism/</a>
 
+### 41: [2022-09-28 08:42:51+08:00 推文](https://twitter.com/HeQinglian/status/1574922549112147975)
+
+Re @zt33268778 半岛电视台这篇文章很有意思，美国学者在一大堆政治正确言辞下劝拜登促成和谈：<br>1、俄罗斯输了，但肯定不接受现实。会发疯升级战争。<br>2、因此，拜登政府为了不让普京发疯，赶紧促成和谈，尽管为时已晚。<br>什么时候美国学者必须这样表达意见了？这说明什么？ <a href="https://chinese.aljazeera.net/news/war-in-ukraine/2022/9/27/%E7%BE%8E%E5%9B%BD%E5%AD%A6%E8%80%85%E5%9C%A8%E4%B8%BA%E6%97%B6%E5%B7%B2%E6%99%9A%E4%B9%8B%E5%89%8D%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E8%AF%9D" target="_blank" rel="noopener noreferrer">https://chinese.aljazeera.net/news/war-in-ukraine/2022/9/27/%E7%BE%8E%E5%9B%BD%E5%AD%A6%E8%80%85%E5%9C%A8%E4%B8%BA%E6%97%B6%E5%B7%B2%E6%99%9A%E4%B9%8B%E5%89%8D%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E8%AF%9D</a>
+
+### 42: [2022-09-28 09:00:47+08:00 推文](https://twitter.com/HeQinglian/status/1574927064746323968)
+
+Re @mingshi_chen @Wu_Zhi @KELMAND1 德国之败，首因在自己。为什么连说“不”的勇气也没有？
+
+### 43: [2022-09-28 10:08:20+08:00 推文](https://twitter.com/HeQinglian/status/1574944063329304579)
+
+世界围绕能源供给重新组合<br><br>西方各国数月来关注中国是否支持俄罗斯，完全忘记关注中俄进一步深化的能源合作，对世界能源市场的重组产生的深远影响。仅从能源供给来说，欧洲将自身置于巨大的不稳定当中并引起去工业化过程；中国则因苦心经营多年，现处于相对安全位置。 <a href="https://www.sbs.com.au/language/chinese/zh-hans/article/comment-on-restructuring-of-global-energy-markets/s8l196tyq" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/language/chinese/zh-hans/article/comment-on-restructuring-of-global-energy-markets/s8l196tyq</a>
+
+### 44: [2022-09-28 10:19:43+08:00 推文](https://twitter.com/HeQinglian/status/1574946927279747072)
+
+Re @dinglili7 四地公投加入俄罗斯，一州公投加入波兰，乌克兰的国土还经得起几次公投？
+
+### 45: [2022-09-28 10:22:26+08:00 推文](https://twitter.com/HeQinglian/status/1574947610753843201)
+
+1、如果是俄罗斯（只要有51%的可能），应该宣布了，不是猜测；<br>2、猜测的方向是：谁受损？谁受益？<br><br>绫波: 🇩🇰丹麦政府发布关于北溪局势的新声明，<br>总理梅特·弗雷德里克森说：“这些都是蓄意的行动，而不是意外……我们以最严重的态度看待这件事，情况已经严重到了极点，但我不会猜测这件事的幕后黑手是谁。”<br><br><img style="" src="https://pbs.twimg.com/media/Fds4tcqXgAA2aY7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
