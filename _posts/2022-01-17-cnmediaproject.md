@@ -29,11 +29,11 @@ RT Craig Kafura<br>New for @ChicagoCouncil's Running Numbers: how do older and
 
 ### 4: [2022-01-19 07:14:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483578629733105664)
 
-China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
+China’s first annual Short Video Online Influencer Night offers a glimpse into how the CCP hopes to use the popularity of short videos to sing the CCP’s “main melody” (主旋律) and conduct external propaganda, "telling China's story well." <a href="https://chinamediaproject.org/2022/01/18/streaming-the-china-story/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/18/streaming-the-china-story/</a><br><img style="" src="https://pbs.twimg.com/media/FJa6xOEaQAQDEa6?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 10:07:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483622209730256896)
 
-The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&name=orig" referrerpolicy="no-referrer">
+The president of the CCP's Xinhua News Agency has been formally appointed as the head of China's national association for journalists, an important layer in official controls on the media. What does this mean? More of the same. <a href="https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/19/xinhua-chief-takes-charge-at-the-acja/</a><br><img style="" src="https://pbs.twimg.com/media/FJbifr6acAAt4x1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-01-19 14:48:09+08:00 推文](https://twitter.com/jcmittelstaedt/status/1483692739426463748)
 
@@ -53,7 +53,7 @@ In December, CMP wrote about the Human Rights Institute of the SW Univ. of Polit
 
 ### 10: [2022-01-20 07:45:51+08:00 推文](https://twitter.com/cnmediaproject/status/1483948852730560512)
 
-Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Dutch media have reported in the last 24 hours that the Cross-Cultural Human Rights Centre (CCHRC) at Free University, a public research university, has received between 250,000 and 300,00 euros per year in 2018, 2019 and 2020. <a href="https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8" target="_blank" rel="noopener noreferrer">https://www.nieuwsnos.nl/nieuws/binnenland/china-financiert-onderzoek-naar-mensenrechten-bij-de-vu-61e81bb9787b8</a><br><img style="" src="https://pbs.twimg.com/media/FJgLmPxacAAx3PF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-20 07:57:17+08:00 推文](https://twitter.com/cnmediaproject/status/1483951731277197312)
 
@@ -69,7 +69,7 @@ Re On "care," one listed associate, Peng Qinxuan, is identified as having "studi
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 

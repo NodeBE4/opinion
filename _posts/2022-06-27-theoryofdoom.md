@@ -43,7 +43,7 @@ Bottom line: About one in five patients with chronic liver disease (CLD) develop
 
 COVID-19 related liver injury was more common among patients with CLD. Following severe COVID-19, CLD patients showed progressive cholestasis with persistently increasing levels of alkaline phosphatase and gamma-glutamyl transferase. 23.1 percent developed cholestatic liver failure --- cholestasis plus bilirubin ≥6 mg/dL --- during infection, and 15.4 percent of patients with CLD developed secondary sclerosing cholangitis (SSC), which was significantly more frequent with CLD and COVID-19 versus CLD patients with non-COVID-19 pneumonia. Nonalcoholic fatty liver disease/nonalcoholic steatohepatitis patients with metabolic risk factors accounted for most COVID-19-associated SSC. 26.3 percent of advanced CLD patients experienced hepatic decompensation following COVID-19.
 
-### 321: [Turkey supports Finland and Sweden Nato bid](https://old.reddit.com/r/geopolitics/comments/vnc33m/turkey_supports_finland_and_sweden_nato_bid/), submitted on 2022-06-29 17:58:05+08:00.
+### 321: [[deleted by user]](https://old.reddit.com/r/geopolitics/comments/vnc33m/deleted_by_user/), submitted on 2022-06-29 17:58:05+08:00.
 
 ----- __321.1__ -----2022-06-30 10:47:25+08:00:
 
