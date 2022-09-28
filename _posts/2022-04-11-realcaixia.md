@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-04-11~2022-04-17'
 
 ### 1: [2022-04-11 00:54:31+08:00 推文](https://twitter.com/realcaixia/status/1513198753209065473)
 
-当局是大规模传播病毒感染的制造者。<br><br>鲁  难: 按照广州测核酸的这个模式来推测，距离封城应该不远了。<br>测核酸就说明知道有潜在的病毒携带者。<br>然后把人们聚在一起测核酸，创造一个集体感染、让疾病集中爆发的环境条件，这是抗疫还是在传播疫情？<br><br><video src="https://video.twimg.com/ext_tw_video/1513170686134697985/pu/vid/720x1146/FHPTK1I1OIEPxWAO.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1513170686134697985/pu/img/yjgXNGA6Ixu7xf1E.jpg"></video>
+当局是大规模传播病毒感染的制造者。
 
 ### 2: [2022-04-11 01:03:19+08:00 推文](https://twitter.com/realcaixia/status/1513200970234224641)
 
@@ -33,7 +33,7 @@ Re 多个跟帖说现在这长冷兵器已经充分普及了。反过来想，�
 
 ### 5: [2022-04-11 04:11:43+08:00 推文](https://twitter.com/realcaixia/status/1513248381908398081)
 
-看看，习是知道这些用来对付谁的。
+看看，习是知道这些用来对付谁的。<br><br>熊二快跑: @realcaixia 习主席在基层视察维稳利器。<br><br><img style="" src="https://pbs.twimg.com/media/FQAMXf1XsAY8iCx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2022-04-11 11:18:09+08:00 推文](https://twitter.com/realcaixia/status/1513355696099581955)
 
@@ -61,7 +61,7 @@ Re @lianchaohan 习是人祸制造者。
 
 ### 12: [2022-04-12 00:01:46+08:00 推文](https://twitter.com/realcaixia/status/1513547866375172108)
 
-中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？
+中共文件的标题就表明了挂羊头卖狗肉。市场经济是法治保障公平竞争的自由经济。所谓“统一”大市场，“统一”什么？谁来统一？怎么统一？中共文件从头到尾充满强权意志话语。看看他们对孙大午企业的公然抢劫，他们对孙大午的公开迫害，就知道他们要干什么。用脚投票是正确选择，但是许多人还能出得来吗？<br><br>荣剑: 今天的股市，当然，未必是对这个即将到来的统一大市场的恐惧性反映，你们看吧，在这样的政策下，总是会有越来越多的人选择用脚投票。<br><br><img style="" src="https://pbs.twimg.com/media/FQCZHkVagAUSOpv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1513321867003641859" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1513321867003641859</a>
 
 ### 13: [2022-04-12 00:25:03+08:00 推文](https://twitter.com/realcaixia/status/1513553725968814080)
 
@@ -89,7 +89,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 19: [2022-04-14 05:02:18+08:00 推文](https://twitter.com/realcaixia/status/1514348274844672003)
 
-人间惨剧，令人心碎。
+人间惨剧，令人心碎。<br><br>鲁  难: 上海市虹口区卫健委信息中心主任钱文雄在办公室自尽。<br>稍后，其患癌症多时的妻子也随他而去。虽不能同年同月同日生，但是做到了同年同月同日死。<br>有爱，有勇气。<br>而活在上海，也需要勇气。<br><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXIAseQAl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VxWQAsiZkb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VzXoBEzcJl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQPX9VyWYAghA25?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2022-04-14 08:23:40+08:00 推文](https://twitter.com/realcaixia/status/1514398948286517248)
 
@@ -153,7 +153,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
-2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播
+2021年“7.20”郑州市民遭遇的灭顶洪水与现在全球关注的上海人道灾难具有同一性：都是人祸！<br><br>自郑州灭顶洪水发生后，水利专家王维洛先生一直在追查真相，追查洪水滔天的由来。<br>#特别推荐议报发布王先生系列文章（七），文章详细而充分地论证了郑州洪水的直接原因是水库无预警泄洪造成的。敬请阅读并传播<br><br>《议报》: 王维洛: 郑州水灾真相难以掩盖（七）<br> <a href="https://yibaochina.com/?p=245968" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245968</a>
 
 ### 36: [2022-04-15 22:19:35+08:00 推文](https://twitter.com/realcaixia/status/1514971703604125697)
 
@@ -161,7 +161,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 37: [2022-04-16 03:34:21+08:00 推文](https://twitter.com/realcaixia/status/1515050916776398862)
 
-好消息！
+好消息！<br><br>韩连潮: 美国国防部一位高级官员周五证实，周四在火灾中受损的俄罗斯导弹巡洋舰被两枚海王星导弹击中并最终沉没，<br>俄方可能有人员伤亡。<br><br><img style="" src="https://pbs.twimg.com/media/FQaIbWnXwAEuhI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
