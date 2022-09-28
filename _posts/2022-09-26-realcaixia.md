@@ -91,3 +91,11 @@ Re @gaoyu200812 逢场作戏罢了，这些细节不说明什么，维护表面�
 
 这是金句！<br><br>Elena传播真相: 👻转帖：中国人普遍不互相信任，为什么那么相信共产党政府呢？<br><br><img style="" src="https://pbs.twimg.com/media/FdszszYXgAAi3lC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 20: [2022-09-28 22:33:37+08:00 推文](https://twitter.com/realcaixia/status/1575131619530260480)
+
+Re @cskun1989 香港即是明证。曾经的香港：世界著名的自由贸易港、世界三大金融中心之一、世界经济最繁荣的城市之一。现在的香港：中共国的内地二线城市。
+
+### 21: [2022-09-28 22:49:25+08:00 推文](https://twitter.com/realcaixia/status/1575135594602266625)
+
+为什么我就转推不了6.4的血腥真相影像资料？当时我在距离北京1000多公里的外省，杜宪的黑衣服杜宪的沉重语音牢牢地烙在了心里，可是看不到这些影像史料。在京几十年，听朋友们零散地说当时开枪。中共很希望抹去这一段时间，就像中共谈百年党史，必定对1958—1961、1966—1976，几句带过、语焉不详一样。<br><br>正视历史▪️毋忘六四🇺🇸: 众多的知名国际媒体见证并记录了 #六四 大屠杀，BBC 就是其中一家，它拍下了6月3日深夜到6月4日天安门广场及附近最惨烈的一幕。<br><br>#毋忘六四<br><br><video src="https://video.twimg.com/ext_tw_video/1574018123619274753/pu/vid/1102x720/XWALvW_o020kYAfx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1574018123619274753/pu/img/Ik9QxLPyWZHNciCH.jpg"></video>
+

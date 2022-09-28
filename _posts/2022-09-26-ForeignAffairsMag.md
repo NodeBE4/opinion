@@ -2,7 +2,7 @@
 author: ForeignAffairsMag
 categories:
 - Reddit
-date: 2022-09-27
+date: 2022-09-29
 from: https://old.reddit.com/r/geopolitics/comments/xo2fgo/italys_election_paradox_why_america_and_the_eu/
 layout: post
 tags:
@@ -35,4 +35,13 @@ The conscription represents a dramatic turning point in the war, and in Putin’
 This response was not fascism, despite the common application of that term to describe Putin’s rule. It was, instead, the preservation of an atomized and compliant society, one that was securely apolitical and that would not disrupt the Kremlin’s actions. For this atomization to stay in effect, the war had to remain far away. It had to be a mutable abstraction onto which Russians’ subjective attitudes could be projected, whether they were pro-war or antiwar. Polling data suggest that, prior to the mobilization, the war retained the support of more than 75 percent of Russians. Such acquiescence was the best possible public response from the Kremlin’s point of view. Indifference was a close second.
 
 But the war did not go as planned, and Putin has run out of options.
+
+### 307: [Iran’s Crisis of Legitimacy: An Embattled Regime Faces Mass Protests—and an Ailing Supreme Leader](https://old.reddit.com/r/geopolitics/comments/xqgqt6/irans_crisis_of_legitimacy_an_embattled_regime/), submitted on 2022-09-29 00:08:51+08:00.
+
+----- __307.1__ -----2022-09-29 00:15:04+08:00:
+
+\[SS from the essay by Sanam Vakil, Deputy Director of Chatham House’s Middle East and North Africa Program.\]
+
+On September 17, the ayatollah made a televised appearance at a mourning ceremony for Arbaeen, the national holiday commemorating the martyrdom of Imam Hussein, whose death during the seventh-century Battle of Karbala is a foundational event in Shiite history and theology. At the ceremony, Khamenei could be seen not just sitting upright but standing, waving, and striding around with a microphone exhorting his audience to ignore “bandits” whose lies might undermine their faith. The cane Khamenei has used in public for more than 40 years was nowhere to be seen.  
+But within hours, Khamenei’s carefully choreographed reemergence had been overshadowed as protests that erupted in northwestern Iran that morning at the funeral of 22-year-old Mahsa Amiri—whose death following her arrest by Tehran’s religious police over an improperly tied headscarf sparked widespread outrage—began to spread to nearby cities. Iranian President Ebrahim Raisi’s government, distracted by the president’s first appearance on the world stage, at the UN General Assembly in New York, was caught off guard. Over the next few days, as Khamenei made several more public appearances, all exhaustively covered by Iranian state media, the demonstrations—many of them led by young women, some of whom brazenly burned their headscarfs in public to protest the mandatory veiling requirements—spread to more than 80 cities across Iran. The protests have continued to intensify, and calls to abolish the religious police have given way to full-throated attacks on the clerical establishment and on the supreme leader himself. The current protests are now believed to be the most serious challenge Iran’s government has confronted since the Green Movement protests in 2009. A series of challenges facing the Iranian regime—widening frustration over social restrictions; outrage over economic collapse and mismanagement; and seething anger at Khamenei and a clerical establishment that has shown little regard for the needs of the people—have now converged into a crisis of legitimacy for the Islamic Republic.
 

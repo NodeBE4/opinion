@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-28
+date: 2022-09-29
 from: https://twitter.com/HeQinglian/status/1574198073986895872
 layout: post
 tags:
@@ -274,4 +274,64 @@ Re @min61504992 你呢，学会自立，说我就说我，别带上我先生。<
 ### 65: [2022-09-28 23:01:00+08:00 推文](https://twitter.com/HeQinglian/status/1575138513183555588)
 
 Re @fading_you1 心远地自偏。<br>基于同理，我也不想搬家了。后园很大（借景，自家地很少），这种地儿很难找。亚洲超市也多。
+
+### 66: [2022-09-28 23:15:26+08:00 推文](https://twitter.com/HeQinglian/status/1575142144213401600)
+
+【突发：德国表示，对北溪管道的袭击触发了北约第 5 条，但由于它是由美国发起的，因此情况很复杂】<br>信不信，由你。布林肯昨天说了：美国正在关注北溪管道情况，发生这事对谁也没好处——他没说这是俄罗斯干的。<br><br>Reuters Pitchbot (Satire): BREAKING: Germany says attack on Nordstream pipeline has triggered NATO Article 5, but it's complicated since it was by the United States<br>
+
+### 67: [2022-09-28 23:16:58+08:00 推文](https://twitter.com/HeQinglian/status/1575142528726204416)
+
+Re @Yu_Ze_Cheng @KELMAND1 差别是：明朝没实行纸币，制钱没在全世界发行。
+
+### 68: [2022-09-28 23:18:33+08:00 推文](https://twitter.com/HeQinglian/status/1575142928309260288)
+
+Re @HappAccura 看推特吧，分清推主是谁。
+
+### 69: [2022-09-28 23:19:19+08:00 推文](https://twitter.com/HeQinglian/status/1575143122832588800)
+
+Re @wza8964 替你的拜登爷爷说话的也不多了，包括美国国内。
+
+### 70: [2022-09-28 23:20:25+08:00 推文](https://twitter.com/HeQinglian/status/1575143396808818689)
+
+Re @killody 谁来鉴定真公投、假公投？<br>是拜登政府？自家选举都做假，有什么脸皮与资格。
+
+### 71: [2022-09-28 23:22:58+08:00 推文](https://twitter.com/HeQinglian/status/1575144040667947016)
+
+Re @Wu_Zhi 这条推的推主并非路透本尊。<br>你得看看德媒的报道。但很多人已经猜到谁干的。
+
+### 72: [2022-09-28 23:24:11+08:00 推文](https://twitter.com/HeQinglian/status/1575144344159485955)
+
+Re @FranzMendelsso1 @Wu_Zhi 没人认为是俄罗斯干的。除了中文推上一些傻乌鸡血——不太多了。占中文推20%左右吧。
+
+### 73: [2022-09-28 23:26:34+08:00 推文](https://twitter.com/HeQinglian/status/1575144946310463494)
+
+Re @D03fair3MfOiZzi 意义在于实际占领。<br>你不相信，下次入境时尽管不拿相应的护照。<br>回话时过点脑子。<br>我其实多次说过，拜托你等不要来我园子里。
+
+### 74: [2022-09-28 23:27:29+08:00 推文](https://twitter.com/HeQinglian/status/1575145178226204678)
+
+Re @FranzMendelsso1 @Wu_Zhi 很快会改口，或者表示沉默。
+
+### 75: [2022-09-29 01:04:36+08:00 推文](https://twitter.com/HeQinglian/status/1575169616334057477)
+
+Re @FlyInRainS3 乌克兰的命运，泽连斯基专门关心。<br>我只关心其余国家地区是否会波及，美国的通胀上涨多少。我们会不会被通胀掠夺光。
+
+### 76: [2022-09-29 01:08:58+08:00 推文](https://twitter.com/HeQinglian/status/1575170713564352512)
+
+这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br><br>He Qinglian: 【突发：德国表示，对北溪管道的袭击触发了北约第 5 条，但由于它是由美国发起的，因此情况很复杂】<br>信不信，由你。布林肯昨天说了：美国正在关注北溪管道情况，发生这事对谁也没好处——他没说这是俄罗斯干的。<br>
+
+### 77: [2022-09-29 01:10:20+08:00 推文](https://twitter.com/HeQinglian/status/1575171058256445440)
+
+Re @Isabel_3299 @min61504992 遇上傻女，比如那些左疯女、这位拎不清的货，再好的男人也成次品。
+
+### 78: [2022-09-29 01:12:05+08:00 推文](https://twitter.com/HeQinglian/status/1575171500361256961)
+
+Re @smilej28 你看了我下面的话没有？<br>讽刺频道，讽刺的就是可能制造灾祸的人与国。
+
+### 79: [2022-09-29 01:14:06+08:00 推文](https://twitter.com/HeQinglian/status/1575172006815100928)
+
+Re @FlyInRainS3 这事好象赖不上中国吧？虽然供应链的事情说是中国清零，美国消费者买不到便宜的中国货，耶伦希降关税中国多进口降低通胀，但毕竟赖不上。
+
+### 80: [2022-09-29 01:15:59+08:00 推文](https://twitter.com/HeQinglian/status/1575172482327191552)
+
+Re @surreal_disco 去看我的推文，我没误解，没说路透。是你们误解了，以为只有你们知道Satire.
 
