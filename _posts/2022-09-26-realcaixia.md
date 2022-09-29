@@ -111,3 +111,7 @@ Re @cskun1989 香港即是明证。曾经的香港：世界著名的自由贸易
 
 请看截图：我昨天转推勿忘六四的开枪视频，立即被封，连下面点赞和评论都不能正常使用。不知何时又冒出个蓝色小标示：“你可以回复此对话”。今天我再次转推，我在推文中问：为什么我就转推不了6‘4的血腥真相影像资料？这转推视频活下来，点赞与评论也能正常使用了。请教推友，谁能说一下，这什么情况？<br><img style="" src="https://pbs.twimg.com/media/Fdx1kBQXoAAMAlN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fdx1kRzXoAA5u5i?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 25: [2022-09-29 08:58:01+08:00 推文](https://twitter.com/realcaixia/status/1575288755837190146)
+
+Re 我从开推特起，就没有自己设置过或改动过任何推特事先已经有的设置。
+
