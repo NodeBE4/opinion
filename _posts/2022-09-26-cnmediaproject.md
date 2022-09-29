@@ -47,3 +47,7 @@ CMP's David Bandurski writes about a so-far unremarked change in official transl
 
 Re @Anguche This is wonderful. Thank you. We have added this as recommended reading.
 
+### 9: [2022-09-29 17:23:55+08:00 推文](https://twitter.com/cnmediaproject/status/1575416071183822848)
+
+The use of “Xizang” instead of "Tibet" by the GT and MOFA is a move to shift the discussion away from a place name that has come in Western languages to symbolize China’s human rights abuses, and to have toxic associations with wrangling over sovereignty. <a href="https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/</a>
+
