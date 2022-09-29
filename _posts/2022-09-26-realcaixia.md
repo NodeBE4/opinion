@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-29
+date: 2022-09-30
 from: https://twitter.com/realcaixia/status/1574209161528840202
 layout: post
 tags:
@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+大陆全国是个大监狱。人们终有反抗的一天。
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -118,4 +118,8 @@ Re 我从开推特起，就没有自己设置过或改动过任何推特事先�
 ### 26: [2022-09-29 23:47:39+08:00 推文](https://twitter.com/realcaixia/status/1575512639840583680)
 
 特别推荐：#《先知书店 | 文化与文明 - 议报》文明与文化，这两个词语在中文世界里经常有人会混用，北京大学哲学教授何怀宏专门区分了它们的不同含义。用何教授的话来说：“知道100种酷刑的方法，叫文化；知道不能使用酷刑，叫文明。”这篇是评论何教授专著的文章，特别推荐分享 <a href="https://yibaochina.com/?p=247849" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247849</a>
+
+### 27: [2022-09-30 01:39:40+08:00 推文](https://twitter.com/realcaixia/status/1575540831368450048)
+
+推荐：<br>章小舟 | 为何“加速倒车”大概率导致“长痛”？ - 议报 <a href="https://yibaochina.com/?p=247856" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247856</a>
 

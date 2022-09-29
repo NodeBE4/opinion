@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -293,7 +293,7 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
-支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。<br><br>DW 中文- 德国之声: "中国虽投入巨资，却仍然无法在技术上赶超台湾，这也许恰恰会成为武力攻台的一个理由。中国也许会孤注一掷，将这个芯片基地据为己有。"<br> <a href="https://p.dw.com/p/4CoYc" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4CoYc</a>
+支持乌克兰还未竟全功，现在又吹响支持台湾抗中的集结号了，费用列入2023财年开支。美国需要上千亿美元。<br>这次肯定也是四十国联军，习近平听了这滴滴答的号声，仿佛如临寒冬，在中南海里瑟瑟发抖。
 
 ### 71: [2022-06-17 09:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1537601438389571584)
 
@@ -341,7 +341,7 @@ Re 有个典故，看来经历过文革的也忘记了。<br>1970年代，有支
 
 ### 82: [2022-06-17 20:55:36+08:00 推文](https://twitter.com/HeQinglian/status/1537781002134863873)
 
-群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。<br><br>Adaliab: They're not even hiding it anymore!<br><br><video src="https://video.twimg.com/ext_tw_video/1537500714443972608/pu/vid/560x352/c6edzy2w8y-GHEjF.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1537500714443972608/pu/img/gmhQPd6gCXSApcii.jpg"></video>
+群魔乱舞。<br>华拜粉们带领儿女们去参加吧——一代而终，因为这都是无家可归之人。这家，指的是精神家园。<br>Liberal men与Women是心理上最不健康的，高吸毒率，高抑郁率，高家庭破碎率，喜欢回归丛林的原始状态。
 
 ### 83: [2022-06-17 20:58:34+08:00 推文](https://twitter.com/HeQinglian/status/1537781748947353600)
 
