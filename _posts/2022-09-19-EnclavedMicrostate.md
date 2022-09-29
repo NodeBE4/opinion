@@ -367,3 +367,13 @@ What, and I cannot stress this enough, the actual fuck.
 
 Rob has been in a long-term relationship with Tamara Chambers since at least 2012 and they married in late 2020; Chambers has been part of the Nostalgia Critic cast since January 2014 when she replaced Rachel Tietz. That’s a pretty direct tie between him and CA. It is therefore also impossible that Scallon didn't know about ChangeTheChannel, although he and Tamara have kept their professional lives relatively separate for a good few years now (to the point where at one stage I thought they'd broken up), which is why I suspect he's felt able to quietly scrub as much as he could of his prior involvement with Doug Walker.
 
+----- __840.16__ -----2022-09-29 21:54:52+08:00:
+
+Rachel has a [pretty active Twitter account](https://twitter.com/racheltietz?lang=en) and has apparently still been doing acting and a bit of music as well. She's apparently mainly in theatre these days which would explain her lack of significant IMDB presence. I came across [a podcast appearance](https://www.spreaker.com/user/12913261/play-up-stream-podcast-rachel-tietz-1) she did back in March last year discussing her experience in acting and music; I haven't listened to it at great length but it may have more for those interested in where she's been since leaving NC.
+
+----- __840.17__ -----2022-09-29 22:09:15+08:00:
+
+> Also realising that Tietz left in 2014 has made me feel horribly old. That was hot drama at the time.
+
+If you want to *really* feel the passage of time, Demo Reel began airing on 30 October 2012 and Rachel's last regular Nostalgia Critic appearance was on 7 January 2014, so appeared as part of the regular DR/NC cast for 434 days. Tamara has been an NC regular since 21 January 2014, so has been there for 3173 days – nearly 7 and a half times as long as Rachel.
+
