@@ -369,7 +369,7 @@ Rob has been in a long-term relationship with Tamara Chambers since at least 201
 
 ----- __840.16__ -----2022-09-29 21:54:52+08:00:
 
-Rachel has a [pretty active Twitter account](https://twitter.com/racheltietz?lang=en) and has apparently still been doing acting and a bit of music as well. She's apparently mainly in theatre these days which would explain her lack of significant IMDB presence. I came across [a podcast appearance](https://www.spreaker.com/user/12913261/play-up-stream-podcast-rachel-tietz-1) she did back in March last year discussing her experience in acting and music; I haven't listened to it at great length but it may have more for those interested in where she's been since leaving NC.
+Rachel has a [pretty active Twitter account](https://twitter.com/racheltietz?lang=en) and has apparently still been doing acting and a bit of music as well. It seems she's mainly in theatre these days which would explain her lack of significant IMDB presence. I came across [a podcast appearance](https://www.spreaker.com/user/12913261/play-up-stream-podcast-rachel-tietz-1) she did back in March last year discussing her experience in acting and music; I haven't listened to it at great length but it may have more for those interested in where she's been since leaving NC.
 
 ----- __840.17__ -----2022-09-29 22:09:15+08:00:
 
