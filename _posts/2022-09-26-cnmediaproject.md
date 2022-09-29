@@ -39,3 +39,7 @@ There is a great deal of waste, inefficiency and even stupidity in how China con
 
 Re To be clear, this "stupidity" is not about minds, but about the system, which drives initiatives through a top-down process of command without real attempts and efforts to understand global audiences. Under this system, the real audience becomes the commander.
 
+### 7: [2022-09-29 13:10:06+08:00 推文](https://twitter.com/cnmediaproject/status/1575352195939434496)
+
+CMP's David Bandurski writes about a so-far unremarked change in official translations for "Tibet" at the Global Times and Ministry of Foreign Affairs. Is this a trial for changes at other state media down the line? <a href="https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/</a>
+
