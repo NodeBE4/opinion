@@ -491,3 +491,19 @@ Re @zhuxiuyuan @zt33268778 这我倒不相信，牢房会出现严重短缺。�
 
 Re @xxj2040 很有帝王之气，与前中共中央主席华国锋在伯仲之间。
 
+### 120: [2022-09-29 10:02:04+08:00 推文](https://twitter.com/HeQinglian/status/1575304875486871552)
+
+中国也可在国内媒体上发文：中国本无法胜过美国，但自从2020年大选之后，美国推行的各种政策，比如青少年自主变性、容忍BLM零元购、操纵选举、放任大麻合法化……，拜登民主党执政越久，美国的竞争力越弱<br>——这口水仗，从毛泽东御命的九评苏共、赵朴初助兴的“三哭”，中共算是集大成者，美国能后来居上？<br><br>亚洲金融: 美国决策层认为，本来中国的确是对手，但是经过这些年的折腾，中国经济增长基本歇菜了！大西洋月刊作者舒曼(Michael Schuman分析认为，尽管习近平将打破先例，获得第三个任期，但与普京一样，实际各种迹象表明，习近平执政时间愈长，中国的竞争力会愈弱，也愈难与美国竞争。<br> <a href="https://www.theatlantic.com/international/archive/2022/09/xi-jinping-china-us-mistakes/671544/" target="_blank" rel="noopener noreferrer">https://www.theatlantic.com/international/archive/2022/09/xi-jinping-china-us-mistakes/671544/</a>
+
+### 121: [2022-09-29 10:12:06+08:00 推文](https://twitter.com/HeQinglian/status/1575307398847336449)
+
+Re @hojihu19 @VOAChinese 乌克兰战场上的大疆无人机<br>高科技无人机在现代战争中发挥着越来越重要的作用。然而，在乌克兰战场上，俄乌双方都更多选择面向消费者的大疆无人机。基辅指责大疆将一个重要的追踪软件只提供给俄军。中国公司大疆则否认偏袒俄方。<br><br>你如果还算“好家伙”，说声Sorry. <a href="https://p.dw.com/p/4GmuB" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4GmuB</a>
+
+### 122: [2022-09-29 10:15:52+08:00 推文](https://twitter.com/HeQinglian/status/1575308345421987841)
+
+有个“好家伙”推号说大疆两头吃是谣言，且看这条：<br>乌克兰战场上的大疆无人机<br>在乌克兰战场上，俄乌双方都更多选择面向消费者的大疆无人机。基辅指责大疆将一个重要的追踪软件只提供给俄军。中国公司大疆则否认偏袒俄方。<br><br>He Qinglian: @VOAChinese 大疆两边都卖，前一向还说大疆生产者偏爱俄，功能多点，大疆坚决否认。<br>连战争期间，都能两边通吃。<br>
+
+### 123: [2022-09-29 10:25:14+08:00 推文](https://twitter.com/HeQinglian/status/1575310705204535297)
+
+欧盟非常勇敢地表态了，希望尽快还击，越狠越好。<br><br>联合早报 Lianhe Zaobao: 欧洲领袖指出，波罗的海天然气管道泄漏是蓄意破坏行为所致。欧洲联盟表明要对任何故意破坏欧洲能源基础设施的行为采取“最强力的还击”。<br> <a href="https://www.zaobao.com.sg/news/world/story20220929-1317663" target="_blank" rel="noopener noreferrer">https://www.zaobao.com.sg/news/world/story20220929-1317663</a>
+
