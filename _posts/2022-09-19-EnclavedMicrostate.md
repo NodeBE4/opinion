@@ -365,5 +365,5 @@ What, and I cannot stress this enough, the actual fuck.
 
 ----- __840.15__ -----2022-09-29 14:19:01+08:00:
 
-Rob has been in a long-term relationship with Tamara Chambers since at least 2012 and they married in late 2020; Chambers has been part of the Nostalgia Critic cast since January 2014 when she replaced Rachel Tietz. It is therefore impossible that Scallon didn't know about ChangeTheChannel, although he and Tamara have kept their professional lives relatively separate for a good few years now (to the point where at one stage I thought they'd broken up), which is why I suspect he's felt able to quietly scrub as much as he could of his prior involvement with Doug Walker.
+Rob has been in a long-term relationship with Tamara Chambers since at least 2012 and they married in late 2020; Chambers has been part of the Nostalgia Critic cast since January 2014 when she replaced Rachel Tietz. That’s a pretty direct tie between him and CA. It is therefore also impossible that Scallon didn't know about ChangeTheChannel, although he and Tamara have kept their professional lives relatively separate for a good few years now (to the point where at one stage I thought they'd broken up), which is why I suspect he's felt able to quietly scrub as much as he could of his prior involvement with Doug Walker.
 
