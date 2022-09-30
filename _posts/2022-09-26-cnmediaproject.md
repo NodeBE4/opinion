@@ -59,3 +59,7 @@ CMP looks into changes in references to Tibet at the Global Times and the Minist
 
 In case you missed it: earlier this month CMP looked at the past and current politicization of science under the Chinese Communist Party. Learning about "red genes" in your biology class? This is why. <a href="https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/</a>
 
+### 12: [2022-09-30 18:49:32+08:00 推文](https://twitter.com/cnmediaproject/status/1575800004501204992)
+
+And for more on the term "sneaky visit" (窜访), readers can turn to the CMP Dictionary.<br><br>Bill Bishop: China’s Political Discourse August 2022: Pelosi’s “Sneaky Visit” to Taiwan, by @cnmediaproject<br> <a href="https://sinocism.com/p/chinas-political-discourse-august-f7d?r=2e&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-august-f7d?r=2e&amp;utm_campaign=post&amp;utm_medium=web</a>
+
