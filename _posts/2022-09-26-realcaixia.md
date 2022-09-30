@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。
+大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -122,4 +122,48 @@ Re 我从开推特起，就没有自己设置过或改动过任何推特事先�
 ### 27: [2022-09-30 01:39:40+08:00 推文](https://twitter.com/realcaixia/status/1575540831368450048)
 
 推荐：<br>章小舟 | 为何“加速倒车”大概率导致“长痛”？ - 议报 <a href="https://yibaochina.com/?p=247856" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247856</a>
+
+### 28: [2022-09-30 08:35:16+08:00 推文](https://twitter.com/realcaixia/status/1575645418440241152)
+
+推荐LT评论：特别请墙内朋友从7分57秒听起，中共把2020年武汉大疫推行健康码的调查拿出来，为利用健康码对全民实行无差别监视造舆论。须高度警惕！<br><br>一次弄懂人民幣貶值背後的真相；《人民日報》稱九成群眾支持健康碼永久化傳遞什麼信息？(9月28日） <a href="https://youtu.be/bd5wGwgL86I" target="_blank" rel="noopener noreferrer">https://youtu.be/bd5wGwgL86I</a>
+
+### 29: [2022-09-30 09:01:26+08:00 推文](https://twitter.com/realcaixia/status/1575652001475543041)
+
+2008汶川地震后，西部水电大开发地区地震不断：<br>2010青海玉树7.1级地震，<br>2013四川芦山7.0级地震、<br>2014四川康定6.3级地震，<br>2017四川九寨沟7.0级地震，<br>2021青海玛多7.4级地震， <br>2022年5月四川雅安市汉源4.8级地震、<br>6月雅安市芦山6.1级地震， <br>6月10日阿坝州三次强震与中强震为5.8级、6.0级和5.2级<br><br>《议报》: 王维洛 | 高坝大库密集的巨大风险<br> <a href="https://yibaochina.com/?p=247819" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247819</a>
+
+### 30: [2022-09-30 09:10:28+08:00 推文](https://twitter.com/realcaixia/status/1575654276847706113)
+
+Re 西部现在如此密集的高坝大库搞水电开发，严重破坏自然环境生态，是拿当代中国人的命、子孙后代的生存环境做代价,当下政府赚钱挣政绩。中共信奉斗争哲学，毛泽东说：与天斗其乐无穷，与地斗其乐无穷；与人斗其乐无穷。这种斗法，结果是中国大地上到处血迹斑斑，白骨累累啊！<br><img style="" src="https://pbs.twimg.com/media/Fd3ZNjbXwAEkHWa?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-09-30 09:19:18+08:00 推文](https://twitter.com/realcaixia/status/1575656501175205888)
+
+Re 这不是发展经济，这是造孽啊！
+
+### 32: [2022-09-30 09:33:56+08:00 推文](https://twitter.com/realcaixia/status/1575660181840883712)
+
+这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br>
+
+### 33: [2022-09-30 09:38:51+08:00 推文](https://twitter.com/realcaixia/status/1575661419835830272)
+
+盼望星链早日发射到中国上空，帮助中国人推倒中共信息防火墙。让信息自由流动，促进言论自由！<br><br>Inty: 重磅消息：<br><br>布林肯：我们今天采取行动，推动伊朗人民的互联网自由和信息自由流动，发布了一个通用许可证（比如给马斯克特例，因为伊朗被制裁中），为他们提供更多的数字通信机会，以对抗伊朗政府的审查制度。<br><br>马斯克直接回应：正在启动（伊朗上空）的信号！<br><br><img style="" src="https://pbs.twimg.com/media/FdXKFfsUAA8N-NS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 34: [2022-09-30 09:47:17+08:00 推文](https://twitter.com/realcaixia/status/1575663540202967040)
+
+毛当年大跃进接着大饥荒，现在习坚决清零后面会接着什么？？？一人左右国运，拿饿死几千万人做代价的历史惨剧，中国人经得起再演吗？<br><br>朱韵和: @唤贝征回来了:有意思的对话。<br><br><img style="" src="https://pbs.twimg.com/media/FdTKZgGUAAAnczu?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-09-30 09:52:27+08:00 推文](https://twitter.com/realcaixia/status/1575664841297055745)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Fd3i0jwXkAIol7S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 36: [2022-09-30 09:57:10+08:00 推文](https://twitter.com/realcaixia/status/1575666029950545920)
+
+特别喜欢蓬佩奥这句话！“我相信同样的事情也会在中国发生，它的到来将比任何人想象得快！”<br><br>自由亚洲电台: 9月28日，美国前国务卿蓬佩奥说，1989年当他还是一名排长时，被调离东德边境，离开两周后，柏林围墙倒塌了，欧洲各地都迈向自由，这改变数百万欧洲人的生活。<br><br>“我相信同样的事情也会在中国发生，它的到来将比任何人想像得快。”<br><br><img style="" src="https://pbs.twimg.com/media/Fd2vpZdXoAcQE6P?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-09-30 10:04:02+08:00 推文](https://twitter.com/realcaixia/status/1575667757202706433)
+
+萧瀚老师说得很对。<br><br>萧瀚: 外交政策的变化才是最重要的晴雨表。从判断依据来说，内政问题可以推后处理，会显得扑朔迷离，外交问题无法拖延，过村无店。有些不该做的事，做了就是做了，无法圆转；有些该做的事，没做就是没做，无法弥补。所以，哪怕再想掩饰，外交问题做不到。<br>
+
+### 38: [2022-09-30 10:17:53+08:00 推文](https://twitter.com/realcaixia/status/1575671244480913408)
+
+经典评论！<br><br>章立凡 Zhang Lifan: 今日酷评<br><br>转【中美对垒】<br><br><img style="" src="https://pbs.twimg.com/media/FdtyS9jWIAYjR6c?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

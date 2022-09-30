@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-07-11~2022-07-17'
 
 ### 1: [2022-07-11 03:55:32+08:00 推文](https://twitter.com/realcaixia/status/1546221602446213125)
 
-这与中国大陆形成鲜明对照。
+这与中国大陆形成鲜明对照。<br><br>Jam: 政府随时被合法颠覆，领导随时卷铺盖走人，这在民主国家是正常的事。越是贪腐严重、政治黑暗的国家，独裁者越是死赖在权力的位子上，用各种各样谎言欺骗百姓。<br><br><img style="" src="https://pbs.twimg.com/media/FXQ-RdxXkAAbahl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-07-13 21:22:03+08:00 推文](https://twitter.com/realcaixia/status/1547209743848165377)
 
@@ -41,7 +41,7 @@ Re 中国著名作家胡发云先生的文章—索尔维格之歌的故事：�
 
 ### 7: [2022-07-15 00:56:12+08:00 推文](https://twitter.com/realcaixia/status/1547626026435375104)
 
-荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。<br><br>荣剑: 再次推广！<br> <a href="https://twitter.com/ArtNext/status/1446509334087847947" target="_blank" rel="noopener noreferrer">https://twitter.com/ArtNext/status/1446509334087847947</a>
+荣剑的著作哪本都是精品，阅读荣剑的大作，既是思想盛宴又是文字美的艺术享受。我是在1989年6·4运动前后读到荣剑的文章的，如醍醐灌顶，从此后我就成了荣剑的铁杆粉丝。期待Amazon上能买到荣剑的这本纸质书。
 
 ### 8: [2022-07-15 05:45:33+08:00 推文](https://twitter.com/realcaixia/status/1547698840366567429)
 
@@ -65,5 +65,5 @@ Re @gaoyu200812 原先是有规则的，新闻联播前25分钟是国内报道�
 
 ### 13: [2022-07-16 23:53:07+08:00 推文](https://twitter.com/realcaixia/status/1548334925681635332)
 
-一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。<br><br>荣剑: 一起舆情事故就这么发生了，人家说的是知了，挡不住别人联想丰富。<br><br><img style="" src="https://pbs.twimg.com/media/FXwQrhGUYAQyUJu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQsQCUUAcb9es?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQtR6UYAMQMov?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FXwQt_WUcAADxuN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一方面，这个事件的滑稽可笑表明，中共以及五毛粉红们的以言论罪，完全不讲逻辑、无可理喻，充满邪恶。另一方面，中共与习不是宣称有强大的五个自信吗？自信到了以捕风捉影、邪念妄想症来坑人整人的地步。
 

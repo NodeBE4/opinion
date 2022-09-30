@@ -55,3 +55,7 @@ The use of “Xizang” instead of "Tibet" by the GT and MOFA is a move to shift
 
 CMP looks into changes in references to Tibet at the Global Times and the Ministry of Foreign Affairs. The shift to "Xizang" is clear, but inconsistent. <a href="https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/</a>
 
+### 11: [2022-09-30 10:52:56+08:00 推文](https://twitter.com/cnmediaproject/status/1575680064552738816)
+
+In case you missed it: earlier this month CMP looked at the past and current politicization of science under the Chinese Communist Party. Learning about "red genes" in your biology class? This is why. <a href="https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/07/mixing-science-and-politics/</a>
+
