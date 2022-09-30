@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-09-30
+date: 2022-10-01
 from: https://twitter.com/HeQinglian/status/1574198073986895872
 layout: post
 tags:
@@ -361,7 +361,7 @@ Re @david_david1968 德国人也是新左理论的奉行者，柏林自由大学
 
 ### 87: [2022-09-29 01:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1575178525887598592)
 
-只要想一个脑子正常、尚有思维能力的人都会想的问题：<br>如果是俄罗斯干的（只要有10-51%的可能），这丹麦瑞典肯定控诉高污染贻害两国国国健康；德国肯定将经济衰退、企业破产全怪到俄罗斯头上。<br>丹麦称不想猜测；瑞典说不是对瑞典的行动；德国说不影响德国的能源供应——这说明，三国的畏惧发自内心。<br><br>He Qinglian: 这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br> <a href="https://p.dw.com/p/4HPLJ" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HPLJ</a> <a href="https://twitter.com/HeQinglian/status/1575142144213401600" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1575142144213401600</a>
+只要想一个脑子正常、尚有思维能力的人都会想的问题：<br>如果是俄罗斯干的（只要有10-51%的可能），这丹麦瑞典肯定控诉高污染贻害两国国国健康；德国肯定将经济衰退、企业破产全怪到俄罗斯头上。<br>丹麦称不想猜测；瑞典说不是对瑞典的行动；德国说不影响德国的能源供应——这说明，三国的畏惧发自内心。<br><br>He Qinglian: 这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br> <a href="https://p.dw.com/p/4HPLJ" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HPLJ</a>
 
 ### 88: [2022-09-29 01:41:18+08:00 推文](https://twitter.com/HeQinglian/status/1575178850761576449)
 
@@ -602,4 +602,8 @@ Re @compassiondays 不提供了，太多了。看得我哈哈大笑，美国民�
 ### 147: [2022-09-30 09:39:53+08:00 推文](https://twitter.com/HeQinglian/status/1575661678070407169)
 
 Re @david_david1968 不与乌鸡血讲什么，看见就烦，除了展示粗口，喷洒鸡血，一无所长。<br>至于历史、现状、地理位置，你问他们，那是白问。
+
+### 148: [2022-10-01 00:42:23+08:00 推文](https://twitter.com/HeQinglian/status/1575888800697683969)
+
+Re @SHINSHI86369552 @david_david1968 她在1.6事件之后休推了。再也没来过，但应该没事。
 
