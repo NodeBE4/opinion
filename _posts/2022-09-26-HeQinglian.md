@@ -361,7 +361,7 @@ Re @david_david1968 德国人也是新左理论的奉行者，柏林自由大学
 
 ### 87: [2022-09-29 01:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1575178525887598592)
 
-只要想一个脑子正常、尚有思维能力的人都会想的问题：<br>如果是俄罗斯干的（只要有10-51%的可能），这丹麦瑞典肯定控诉高污染贻害两国国国健康；德国肯定将经济衰退、企业破产全怪到俄罗斯头上。<br>丹麦称不想猜测；瑞典说不是对瑞典的行动；德国说不影响德国的能源供应——这说明，三国的畏惧发自内心。<br><br>He Qinglian: 这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br> <a href="https://p.dw.com/p/4HPLJ" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HPLJ</a> <a href="https://twitter.com/HeQinglian/status/1575142144213401600" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1575142144213401600</a>
+只要想一个脑子正常、尚有思维能力的人都会想的问题：<br>如果是俄罗斯干的（只要有10-51%的可能），这丹麦瑞典肯定控诉高污染贻害两国国国健康；德国肯定将经济衰退、企业破产全怪到俄罗斯头上。<br>丹麦称不想猜测；瑞典说不是对瑞典的行动；德国说不影响德国的能源供应——这说明，三国的畏惧发自内心。<br><br>He Qinglian: 这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br> <a href="https://p.dw.com/p/4HPLJ" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HPLJ</a>
 
 ### 88: [2022-09-29 01:41:18+08:00 推文](https://twitter.com/HeQinglian/status/1575178850761576449)
 
@@ -610,4 +610,16 @@ Re @SHINSHI86369552 @david_david1968 她在1.6事件之后休推了。再也没�
 ### 149: [2022-10-01 01:14:30+08:00 推文](https://twitter.com/HeQinglian/status/1575896883423477760)
 
 Re @david_david1968 由美国民主党政府主导的NWO将是以下情景：<br><br>Dr. Sydney Watson: I will never fly this airline.<br><br><video src="https://video.twimg.com/ext_tw_video/1575442298351091712/pu/vid/720x900/3enTShICX_46Z-VS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1575442298351091712/pu/img/PX95DZ8htIxrH2Vt.jpg"></video>
+
+### 150: [2022-10-01 04:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1575945027879981056)
+
+即时：路透华盛顿9月30日 - 美国和阿尔巴尼亚在联合国安理会提出一项谴责俄罗斯宣布吞并乌克兰部分地区的决议周五在俄罗斯行使否决权后被否决。<br>周五下午在安理会会议厅举行的投票中，包括美国和英国在内的10个国家投了赞成票，而中国、加蓬、印度和巴西投了弃权票。 <a href="https://www.reuters.com/world/us-act-un-friday-russias-proclaimed-annexations-ukraine-blinken-2022-09-30/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/us-act-un-friday-russias-proclaimed-annexations-ukraine-blinken-2022-09-30/</a>
+
+### 151: [2022-10-01 04:35:27+08:00 推文](https://twitter.com/HeQinglian/status/1575947452808851462)
+
+Re @Tepezano161 你想，教育产业化将一大批原本考不上学的人提升成大学毕业，无业可就呆在村里、镇里，再听东家长西家短也太没格调了，于是将这些家长里短的主角换个高位，再满足一下任意评点天下帝王宫闱秘事、江山易主的潇洒感，真是人生快事。😂
+
+### 152: [2022-10-01 04:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1575948025591103510)
+
+Re @sunny_g9 各国代表在联合国呆着，闲着也是闲着，开个会见个面也好。<br>我真正奇怪的是，好歹也该找个比阿尔巴尼亚个儿大、光鲜点的做合作提议者。
 
