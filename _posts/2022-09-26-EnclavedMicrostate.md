@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-28
+date: 2022-09-30
 from: https://old.reddit.com/r/AskHistorians/comments/xo9m0n/does_obama_regret_role_his_administration_played/
 layout: post
 tags:
@@ -72,4 +72,10 @@ This submission has been removed because it involves current events.  To keep fr
 > and what the Devil was the Royal Navy up to
 
 Also fighting the Spanish, and dealing with French agitations in other theatres (especially India), basically.
+
+### 850: [Would medieval Europe have discovered gunpowder independently if not for the Silk Road? Were there similar avenues of discovery?](https://old.reddit.com/r/AskHistorians/comments/xrni2s/would_medieval_europe_have_discovered_gunpowder/), submitted on 2022-09-30 08:30:25+08:00.
+
+----- __850.1__ -----2022-09-30 12:39:45+08:00:
+
+Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
 
