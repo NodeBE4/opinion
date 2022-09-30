@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
