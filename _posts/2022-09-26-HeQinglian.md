@@ -607,3 +607,7 @@ Re @david_david1968 不与乌鸡血讲什么，看见就烦，除了展示粗口
 
 Re @SHINSHI86369552 @david_david1968 她在1.6事件之后休推了。再也没来过，但应该没事。
 
+### 149: [2022-10-01 01:14:30+08:00 推文](https://twitter.com/HeQinglian/status/1575896883423477760)
+
+Re @david_david1968 由美国民主党政府主导的NWO将是以下情景：<br><br>Dr. Sydney Watson: I will never fly this airline.<br><br><video src="https://video.twimg.com/ext_tw_video/1575442298351091712/pu/vid/720x900/3enTShICX_46Z-VS.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1575442298351091712/pu/img/PX95DZ8htIxrH2Vt.jpg"></video>
+
