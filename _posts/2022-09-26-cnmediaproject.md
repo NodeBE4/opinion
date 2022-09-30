@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-09-29
+date: 2022-09-30
 from: https://twitter.com/meta_lab/status/1574093222741254145
 layout: post
 tags:
@@ -50,4 +50,8 @@ Re @Anguche This is wonderful. Thank you. We have added this as recommended read
 ### 9: [2022-09-29 17:23:55+08:00 推文](https://twitter.com/cnmediaproject/status/1575416071183822848)
 
 The use of “Xizang” instead of "Tibet" by the GT and MOFA is a move to shift the discussion away from a place name that has come in Western languages to symbolize China’s human rights abuses, and to have toxic associations with wrangling over sovereignty. <a href="https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/</a>
+
+### 10: [2022-09-30 07:48:34+08:00 推文](https://twitter.com/cnmediaproject/status/1575633666986102785)
+
+CMP looks into changes in references to Tibet at the Global Times and the Ministry of Foreign Affairs. The shift to "Xizang" is clear, but inconsistent. <a href="https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/09/29/tibet-by-any-other-name/</a>
 
