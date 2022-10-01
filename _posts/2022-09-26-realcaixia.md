@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-01
+date: 2022-10-02
 from: https://twitter.com/realcaixia/status/1574209161528840202
 layout: post
 tags:
@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。
+大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -141,7 +141,7 @@ Re 这不是发展经济，这是造孽啊！
 
 ### 32: [2022-09-30 09:33:56+08:00 推文](https://twitter.com/realcaixia/status/1575660181840883712)
 
-这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br>
+这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br> <a href="https://twitter.com/zhu0588/status/1573765751042764801" target="_blank" rel="noopener noreferrer">https://twitter.com/zhu0588/status/1573765751042764801</a>
 
 ### 33: [2022-09-30 09:38:51+08:00 推文](https://twitter.com/realcaixia/status/1575661419835830272)
 
@@ -194,4 +194,16 @@ Re @wangxiaoshan 选择怎样生活是个人权利，只要没伤害到他人利
 ### 45: [2022-10-01 22:52:36+08:00 推文](https://twitter.com/realcaixia/status/1576223559818485760)
 
 这段视频当时在国内微信群广为流传，直接撕掉中共国假民主的画皮。<br><br>正视历史▪️传播真相🇺🇸: 数年前的视频，现在翻出来看依然忍俊不禁。<br><br>笑的不仅仅是墙国虚假的 #中国式民主 #全过程民主，中共这种下三滥的龌龊手段让人捧腹大笑。<br><br><video src="https://video.twimg.com/ext_tw_video/1575668150951063553/pu/vid/1280x720/ha4yklSLbDi0VQhx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1575668150951063553/pu/img/vhypBjJECWp7jKWb.jpg"></video>
+
+### 46: [2022-10-02 06:10:03+08:00 推文](https://twitter.com/realcaixia/status/1576333649334747136)
+
+有推友向我推荐这篇推文。为便于推友们阅读，我会紧接着贴出这篇劝退请愿书的全文。敬请关注。<br><img style="" src="https://pbs.twimg.com/media/FeBDGRbXgAIjC1E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 47: [2022-10-02 06:12:14+08:00 推文](https://twitter.com/realcaixia/status/1576334199447257088)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FeBDmPDXgAA2f0t?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeBDmOtX0AUAWX_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeBDmOuWYAAy0Ym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeBDmOuWQAAb6tF?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 48: [2022-10-02 06:23:21+08:00 推文](https://twitter.com/realcaixia/status/1576336994762121216)
+
+Re @GreatFireChina @VOAChinese 点击进去看了看，挺感兴趣的，索性把他们的页面截图推出来，也许会有很多朋友感兴趣的。<br><img style="" src="https://pbs.twimg.com/media/FeBGI5BWAAA-yvG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeBGI5CWIAcnA2B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeBGI5BX0AMFJvA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
