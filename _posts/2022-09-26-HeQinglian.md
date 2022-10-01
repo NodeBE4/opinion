@@ -321,7 +321,7 @@ Re @FlyInRainS3 乌克兰的命运，泽连斯基专门关心。<br>我只关心
 
 ### 77: [2022-09-29 01:08:58+08:00 推文](https://twitter.com/HeQinglian/status/1575170713564352512)
 
-这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br><br>He Qinglian: 【突发：德国表示，对北溪管道的袭击触发了北约第 5 条，但由于它是由美国发起的，因此情况很复杂】<br>信不信，由你。布林肯昨天说了：美国正在关注北溪管道情况，发生这事对谁也没好处——他没说这是俄罗斯干的。<br>
+这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br><br>He Qinglian: 【突发：德国表示，对北溪管道的袭击触发了北约第 5 条，但由于它是由美国发起的，因此情况很复杂】<br>信不信，由你。布林肯昨天说了：美国正在关注北溪管道情况，发生这事对谁也没好处——他没说这是俄罗斯干的。<br> <a href="https://twitter.com/ReutersPitchbot/status/1574848089709547524" target="_blank" rel="noopener noreferrer">https://twitter.com/ReutersPitchbot/status/1574848089709547524</a>
 
 ### 78: [2022-09-29 01:10:20+08:00 推文](https://twitter.com/HeQinglian/status/1575171058256445440)
 
@@ -361,7 +361,7 @@ Re @david_david1968 德国人也是新左理论的奉行者，柏林自由大学
 
 ### 87: [2022-09-29 01:40:00+08:00 推文](https://twitter.com/HeQinglian/status/1575178525887598592)
 
-只要想一个脑子正常、尚有思维能力的人都会想的问题：<br>如果是俄罗斯干的（只要有10-51%的可能），这丹麦瑞典肯定控诉高污染贻害两国国国健康；德国肯定将经济衰退、企业破产全怪到俄罗斯头上。<br>丹麦称不想猜测；瑞典说不是对瑞典的行动；德国说不影响德国的能源供应——这说明，三国的畏惧发自内心。<br><br>He Qinglian: 这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br> <a href="https://p.dw.com/p/4HPLJ" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HPLJ</a>
+只要想一个脑子正常、尚有思维能力的人都会想的问题：<br>如果是俄罗斯干的（只要有10-51%的可能），这丹麦瑞典肯定控诉高污染贻害两国国国健康；德国肯定将经济衰退、企业破产全怪到俄罗斯头上。<br>丹麦称不想猜测；瑞典说不是对瑞典的行动；德国说不影响德国的能源供应——这说明，三国的畏惧发自内心。<br><br>He Qinglian: 这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br> <a href="https://p.dw.com/p/4HPLJ" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4HPLJ</a> <a href="https://twitter.com/HeQinglian/status/1575142144213401600" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1575142144213401600</a>
 
 ### 88: [2022-09-29 01:41:18+08:00 推文](https://twitter.com/HeQinglian/status/1575178850761576449)
 
@@ -622,4 +622,40 @@ Re @Tepezano161 你想，教育产业化将一大批原本考不上学的人提�
 ### 152: [2022-10-01 04:37:43+08:00 推文](https://twitter.com/HeQinglian/status/1575948025591103510)
 
 Re @sunny_g9 各国代表在联合国呆着，闲着也是闲着，开个会见个面也好。<br>我真正奇怪的是，好歹也该找个比阿尔巴尼亚个儿大、光鲜点的做合作提议者。
+
+### 153: [2022-10-01 06:43:20+08:00 推文](https://twitter.com/HeQinglian/status/1575979636730654720)
+
+Re @xxj2040 反对非法移民，不是反对移民。<br>他说过多次，需要素质相对高的移民。<br>其实英国也这样做，列举过单子。
+
+### 154: [2022-10-01 06:45:25+08:00 推文](https://twitter.com/HeQinglian/status/1575980161710714881)
+
+Re @Alexjandro990 美国家底再厚，也禁不住拜登政府可着劲儿败家。
+
+### 155: [2022-10-01 06:54:50+08:00 推文](https://twitter.com/HeQinglian/status/1575982531949625345)
+
+Re @david_david1968 建议有兴趣的人去看BBC的《皇亲们的战争》，将欧洲王室（包括英、俄）之间错综复杂的关系与继承由来讲得清清楚楚。
+
+### 156: [2022-10-01 07:26:01+08:00 推文](https://twitter.com/NAConservative9/status/1575990377857028105)
+
+RT 北美保守评论🇺🇸🇨🇦<br>‼️ @All 中期选举的这三十多天，是打仗期，请大家多发这两个帖，盼望更多的选民选共和党候选人！⬇️<br><img style="" src="https://pbs.twimg.com/media/Fd8K5PhWIAQqfhd?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fd8K5PiWYAEu0O0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 157: [2022-10-01 08:01:13+08:00 推文](https://twitter.com/HeQinglian/status/1575999236369678336)
+
+Re @xxj2040 链式移民不非法，利用链式移民将父母亲属移民来也是允许的。<br>有个实践大概你也不需要反驳，人尽皆知：许多华人移民时声明自己有赡养能力，将退休的父母接来后就违背承诺，申请贫困救济，让美国纳税人供养。<br>你如果觉得这很合适，不需要再谈。
+
+### 158: [2022-10-01 08:38:32+08:00 推文](https://twitter.com/HeQinglian/status/1576008628280008704)
+
+北约秘书长延斯·斯托尔滕贝格今天举行的新闻发布会：<br>1、北约谴责俄罗斯吞并乌克兰领土<br>2、北约不是冲突的一方。我们支持乌克兰，但这并不会使我们参与冲突。我们支持主权国家的自卫主权。<br>3、现在我们不能接受乌克兰加入北约，没有快速通道程序。 <a href="https://www.nato.int/cps/en/natohq/opinions_207788.htm" target="_blank" rel="noopener noreferrer">https://www.nato.int/cps/en/natohq/opinions_207788.htm</a>
+
+### 159: [2022-10-01 08:56:04+08:00 推文](https://twitter.com/HeQinglian/status/1576013040037658624)
+
+美宣部没尽责：<br>格林·沃尔德：北溪管道为俄罗斯提供了“巨大的影响力”,他们可以随时关闭该管道，这正是他们最想要的权力。俄为何要炸毁自己的管道巨大的影响力？<br>我知道一个国家会这样做。美国多年来一直痴迷于试图胁迫并说服欧洲人不要从莫斯科购买天然气，而是从美国购买。 <a href="https://www.foxnews.com/media/glenn-greenwald-nord-stream-pipeline-provides-enormous-leverage-russia" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/media/glenn-greenwald-nord-stream-pipeline-provides-enormous-leverage-russia</a>
+
+### 160: [2022-10-01 08:57:20+08:00 推文](https://twitter.com/HeQinglian/status/1576013358393741312)
+
+Re 沃尔德还翻旧帐：<br>“在过去的五六年里，有多少事情被西方媒体、欧盟、新自由主义者和深层国家特工归咎于俄罗斯，而这些事情被证明是完全错误的？例如一些超级秘密的高超音速武器对美国外交官造成了以前从未听说过的脑损伤，结果甚至被中央情报局揭穿了。”
+
+### 161: [2022-10-01 10:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1576033361143160833)
+
+左派的逻辑：凡选出的不是左派，就不是民主。<br>拜登在民主党州长协会招待会上发表讲话，提到意大利大选。 “民主正受到威胁，全世界都有这样的例子。”美国咨询公司X Strategies高级数字策略师格雷格普莱斯质疑，拜登“在暗示意大利人民选举梅洛尼成为下任总理意味着民主的终结。” <a href="https://www.foxnews.com/media/biden-blasted-using-italian-election-example-democracy-stake-democrats-elected" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/media/biden-blasted-using-italian-election-example-democracy-stake-democrats-elected</a>
 
