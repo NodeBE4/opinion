@@ -321,7 +321,7 @@ Re @FlyInRainS3 乌克兰的命运，泽连斯基专门关心。<br>我只关心
 
 ### 77: [2022-09-29 01:08:58+08:00 推文](https://twitter.com/HeQinglian/status/1575170713564352512)
 
-这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br><br>He Qinglian: 【突发：德国表示，对北溪管道的袭击触发了北约第 5 条，但由于它是由美国发起的，因此情况很复杂】<br>信不信，由你。布林肯昨天说了：美国正在关注北溪管道情况，发生这事对谁也没好处——他没说这是俄罗斯干的。<br> <a href="https://twitter.com/ReutersPitchbot/status/1574848089709547524" target="_blank" rel="noopener noreferrer">https://twitter.com/ReutersPitchbot/status/1574848089709547524</a>
+这次DW正主儿发话了：<br>1、丹麦和瑞典均证实，北溪1号和北溪2号出现天然气泄漏现象。<br>2、事故调查：有可能存在破坏行为<br>3、柏林《每日镜报》引述德国安全圈内的消息认为，这很可能是破坏行为所导致<br>4、负责管理电力的联邦网络局表示，北溪1号漏气并未对能源供应安全造成影响。<br><br>He Qinglian: 【突发：德国表示，对北溪管道的袭击触发了北约第 5 条，但由于它是由美国发起的，因此情况很复杂】<br>信不信，由你。布林肯昨天说了：美国正在关注北溪管道情况，发生这事对谁也没好处——他没说这是俄罗斯干的。<br>
 
 ### 78: [2022-09-29 01:10:20+08:00 推文](https://twitter.com/HeQinglian/status/1575171058256445440)
 
@@ -658,4 +658,16 @@ Re 沃尔德还翻旧帐：<br>“在过去的五六年里，有多少事情被�
 ### 161: [2022-10-01 10:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1576033361143160833)
 
 左派的逻辑：凡选出的不是左派，就不是民主。<br>拜登在民主党州长协会招待会上发表讲话，提到意大利大选。 “民主正受到威胁，全世界都有这样的例子。”美国咨询公司X Strategies高级数字策略师格雷格普莱斯质疑，拜登“在暗示意大利人民选举梅洛尼成为下任总理意味着民主的终结。” <a href="https://www.foxnews.com/media/biden-blasted-using-italian-election-example-democracy-stake-democrats-elected" target="_blank" rel="noopener noreferrer">https://www.foxnews.com/media/biden-blasted-using-italian-election-example-democracy-stake-democrats-elected</a>
+
+### 162: [2022-10-01 20:03:03+08:00 推文](https://twitter.com/HeQinglian/status/1576180894641328128)
+
+Re @fish20207 看东西看全，你拉下去，在秘书长回答记者的讲话时，再次强调，就是这意思。<br>我非常怀疑你挑刺的用心。
+
+### 163: [2022-10-01 20:03:56+08:00 推文](https://twitter.com/HeQinglian/status/1576181114343141376)
+
+Re @bMsbmdnihpZcxKl 看东西看全，你拉下去，在秘书长回答记者的讲话时，再次强调，就是这意思。比讲话中更明确。<br>我非常怀疑你挑刺的用心。
+
+### 164: [2022-10-01 20:17:34+08:00 推文](https://twitter.com/HeQinglian/status/1576184545040224256)
+
+【NATO is not party to the conflict. We support Ukraine, but that doesn't make us part to the conflict. We support a sovereign nation in the sovereign right for self-defence.<br>北约不是冲突的一方。我们支持乌克兰，但这并不会使我们参与冲突。我们支持主权国家的自卫主权。】<br>道歉或离开<br><br>fish2020: @HeQinglian 你这个三条是有问题的，也和原文意思有差别：第2条中：但这并不会使我们参与冲突。讲话里是没有这样的说法的，因为会不会发生冲突不是单方面的因果，逻辑不通。第3条：加入北约需要程序，说能不能和快不快的事为时尚早！<br>
 
