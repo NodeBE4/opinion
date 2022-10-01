@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-01
+date: 2022-10-02
 from: https://twitter.com/HeQinglian/status/1574198073986895872
 layout: post
 tags:
@@ -670,4 +670,28 @@ Re @bMsbmdnihpZcxKl 看东西看全，你拉下去，在秘书长回答记者的
 ### 164: [2022-10-01 20:17:34+08:00 推文](https://twitter.com/HeQinglian/status/1576184545040224256)
 
 【NATO is not party to the conflict. We support Ukraine, but that doesn't make us part to the conflict. We support a sovereign nation in the sovereign right for self-defence.<br>北约不是冲突的一方。我们支持乌克兰，但这并不会使我们参与冲突。我们支持主权国家的自卫主权。】<br>道歉或离开<br><br>fish2020: @HeQinglian 你这个三条是有问题的，也和原文意思有差别：第2条中：但这并不会使我们参与冲突。讲话里是没有这样的说法的，因为会不会发生冲突不是单方面的因果，逻辑不通。第3条：加入北约需要程序，说能不能和快不快的事为时尚早！<br>
+
+### 165: [2022-10-01 22:07:02+08:00 推文](https://twitter.com/HeQinglian/status/1576212094231674886)
+
+Re 原文贴出，这个乌鸡血 @fish20207 在语无伦次地强辩，不道歉，这两推 @bMsbmdnihpZcxKl @rocbear2 跟在他后面傻叫唤，一律拉黑，给两分钟时间让他们看到此推。<br>人一成左派，就不要脸。
+
+### 166: [2022-10-01 22:09:33+08:00 推文](https://twitter.com/HeQinglian/status/1576212727856791552)
+
+Re @xxj2040 他们活得很好，很滋润。
+
+### 167: [2022-10-01 22:32:29+08:00 推文](https://twitter.com/HeQinglian/status/1576218497893355521)
+
+Re @lindahuiyun 还有一条，供养本党的专办非移庇护的NGO，许多人依此为生。
+
+### 168: [2022-10-01 23:18:07+08:00 推文](https://twitter.com/HeQinglian/status/1576229981084348416)
+
+Re @TomMa07952688 @lindahuiyun 民主党选民当中，不少NGO工作人员及其家人，吃这门饭还不知道？
+
+### 169: [2022-10-01 23:30:13+08:00 推文](https://twitter.com/HeQinglian/status/1576233029689040896)
+
+德国加码防疫措施 秋冬感染潮已经开始 <a href="https://p.dw.com/p/4Hcib?maca=zh-Twitter-sharing" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Hcib?maca=zh-Twitter-sharing</a>
+
+### 170: [2022-10-02 01:33:41+08:00 推文](https://twitter.com/HeQinglian/status/1576264099876712448)
+
+Re @KELMAND1 这世界上的国家，在战争与和平之间找不到平衡点了？<br>中国孩子背东风一号，培养军事爱好者（往前一点就是军事狂）。但思来想去，比美国全国中小学开展变性运动还是好得多，将来有矫正的希望。<br>但男女一旦被阉割，没有回头路好走。
 
