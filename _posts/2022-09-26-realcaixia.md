@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-09-30
+date: 2022-10-01
 from: https://twitter.com/realcaixia/status/1574209161528840202
 layout: post
 tags:
@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+大陆全国是个大监狱。人们终有反抗的一天。
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -141,7 +141,7 @@ Re 这不是发展经济，这是造孽啊！
 
 ### 32: [2022-09-30 09:33:56+08:00 推文](https://twitter.com/realcaixia/status/1575660181840883712)
 
-这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br> <a href="https://twitter.com/zhu0588/status/1573765751042764801" target="_blank" rel="noopener noreferrer">https://twitter.com/zhu0588/status/1573765751042764801</a>
+这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br>
 
 ### 33: [2022-09-30 09:38:51+08:00 推文](https://twitter.com/realcaixia/status/1575661419835830272)
 
@@ -166,4 +166,8 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fd3i0jwXkAIol7S?format=jpg
 ### 38: [2022-09-30 10:17:53+08:00 推文](https://twitter.com/realcaixia/status/1575671244480913408)
 
 经典评论！<br><br>章立凡 Zhang Lifan: 今日酷评<br><br>转【中美对垒】<br><br><img style="" src="https://pbs.twimg.com/media/FdtyS9jWIAYjR6c?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 39: [2022-10-01 12:21:04+08:00 推文](https://twitter.com/realcaixia/status/1576064628928438273)
+
+Legal dispute over longtime Chinese Communist Party critic’s archive plods on | Courthouse News Service <a href="https://www.courthousenews.com/legal-dispute-over-longtime-chinese-communist-party-critics-archive-plods-on/" target="_blank" rel="noopener noreferrer">https://www.courthousenews.com/legal-dispute-over-longtime-chinese-communist-party-critics-archive-plods-on/</a>
 

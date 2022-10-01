@@ -89,7 +89,7 @@ Re @shenliangqing2 你忘记本月底拜习视频会是熄火会、和好努力�
 
 ### 19: [2022-07-25 21:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1551564164006612992)
 
-与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。<br><br>美国之音莉雅: 所罗门群岛议会外委会主席、反对党议员凯尼洛里(Peter Kenilorea Jr.)7月25日在议会反对党领导人办公室接受我们的专访时说，如果反对派在下次的选举中获胜组阁的话，第一件事就是废除所中安全协议。至于是否会重新与台湾建交，他说，有这种可能性但这是一个更长的程序，而且涉及到国际方面的议题。<br><br><img style="" src="https://pbs.twimg.com/media/FYgt5y4akAER6xJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FYgt7S4akAEUEWl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+与台、中轮流建交，早就成了小国的生存之道，废一次、兴一次，就是几十亿美元的进帐，三年来一次吧。
 
 ### 20: [2022-07-25 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1551564705423970304)
 
@@ -577,7 +577,7 @@ Re @shenliangqing2 @FranzMendelsso1 @RealBeiMing 美国演变至今，有个过�
 
 ### 141: [2022-07-30 04:16:09+08:00 推文](https://twitter.com/HeQinglian/status/1553112163069399041)
 
-看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。
+看了法广这条的留言与Quote后，我去看了一眼：<br>“俄總統新聞秘書佩斯科夫當天告訴媒體稱，克里姆林宮同意中國領導人習近平的觀點（不要“玩火”）”。<br>拉夫羅夫在回答有關台灣周邊局勢和佩洛西可能計畫訪問台灣的問題時說：“我們只有一個中國的立場沒有改變”。<br>发表评论却连内容都不看。<br><br>RFI 華語 - 法國國際廣播電台: 拉夫羅夫：俄羅斯希望不會出現使台灣周邊局勢惡化的挑釁行為<br><br><img style="" src="https://pbs.twimg.com/media/FY12eHWUUAAWFwq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8caD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8caD.t</a>
 
 ### 142: [2022-07-30 04:42:17+08:00 推文](https://twitter.com/HeQinglian/status/1553118738119069696)
 

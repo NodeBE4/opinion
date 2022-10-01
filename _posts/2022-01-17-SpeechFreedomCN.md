@@ -21,11 +21,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-01-17~2022-01-23'
 
 ### 2: [2022-01-17 21:32:54+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483069823315845120)
 
-It appears China has redefined terrorism as something that terrorizes the government: journalist Hu Xincheng from China's Shanxi Province arrested for advocating nationwide free medicare, and the charge against him is advocating terrorism, according to his lawyer & family.<br><img style="" src="https://pbs.twimg.com/media/FJTrLtyX0AAMIBb?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTrNyFXEAEsNxI?format=png&name=orig" referrerpolicy="no-referrer">
+It appears China has redefined terrorism as something that terrorizes the government: journalist Hu Xincheng from China's Shanxi Province arrested for advocating nationwide free medicare, and the charge against him is advocating terrorism, according to his lawyer &amp; family.<br><img style="" src="https://pbs.twimg.com/media/FJTrLtyX0AAMIBb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJTrNyFXEAEsNxI?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-18 21:02:36+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483424585378840579)
 
-Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田田老师后，就被跟踪骚扰，随后被失踪，现确认其已被刑事拘留，罪名为煽动颠覆国家政权罪。谢阳在2017年就被判处煽颠罪免予处罚。<br>图为一个月前的谢阳和一个月后的谢阳。<br><img style="" src="https://pbs.twimg.com/media/FJYtMoZXsAQ3XTw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYtXFmXoAYBLqi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田田老师后，就被跟踪骚扰，随后被失踪，现确认其已被刑事拘留，罪名为煽动颠覆国家政权罪。谢阳在2017年就被判处煽颠罪免予处罚。<br>图为一个月前的谢阳和一个月后的谢阳。<br><img style src="https://pbs.twimg.com/media/FJYtMoZXsAQ3XTw?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJYtXFmXoAYBLqi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-18 21:08:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483426136684126216)
 
@@ -37,7 +37,7 @@ Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting 
 
 ### 6: [2022-01-19 20:05:52+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483772694034370562)
 
-Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that PCR tests should not be done too shortly after vaccination, or the result might falsely be positive. However, health authority in Guangdong Province clarified that the "rumor" is evidently true.<br><img style src="https://pbs.twimg.com/media/FJdqkQoWYAUPfaj?format=png&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FJdqlx9XMAAktbX?format=jpg&name=orig" referrerpolicy="no-referrer">
+Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that PCR tests should not be done too shortly after vaccination, or the result might falsely be positive. However, health authority in Guangdong Province clarified that the "rumor" is evidently true.<br><img style="" src="https://pbs.twimg.com/media/FJdqkQoWYAUPfaj?format=png&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJdqlx9XMAAktbX?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 7: [2022-01-21 18:58:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484480433538707456)
 
