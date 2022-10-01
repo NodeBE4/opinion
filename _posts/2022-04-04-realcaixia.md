@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
@@ -165,11 +165,11 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
 
-好悲壮！
+好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
-义士义举令人感佩，话语令人暖心。
+义士义举令人感佩，话语令人暖心。<br><br>杨佩昌: 收到太多溢美之词，受之有愧。其实留学德国这事不难，不过举手之劳而已（留学中介别骂）。只要语言过关、符合留学资格（Hochschulzugangberechtigung）都不难办。<br>小孙这事难在如何让德国大学相信，他被开除并非行为不端，只是言论表达惹的祸。这需要一个德国高校信任的人来说明，正巧我就是这个人。<br>
 
 ### 40: [2022-04-05 09:45:35+08:00 推文](https://twitter.com/realcaixia/status/1511158075381665792)
 
@@ -265,11 +265,11 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 63: [2022-04-09 21:28:50+08:00 推文](https://twitter.com/realcaixia/status/1512784603248955394)
 
-上海极端的清零，把政治站位、绝对忠诚演绎到了极致，也把反文明反人性反智主义演绎到了上海开埠以来绝无仅有的地步。<br><br>lily valley: 大白这一身皮，将中国有些畜生的恶发挥到了极致！他们在这身画皮下做着伤天害理、人神共愤的事而被模糊了。谁来救救这些毛孩子！！！<br><br><video src="https://video.twimg.com/ext_tw_video/1512386832369082371/pu/vid/720x1280/xIaNooNdNUh03dgo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1512386832369082371/pu/img/zYKBcY_ZPk5R33rT.jpg"></video>
+上海极端的清零，把政治站位、绝对忠诚演绎到了极致，也把反文明反人性反智主义演绎到了上海开埠以来绝无仅有的地步。
 
 ### 64: [2022-04-09 22:04:41+08:00 推文](https://twitter.com/realcaixia/status/1512793625066979339)
 
-清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。<br><br>大耳朵猫妹: 就一个字，惨<br><br><img style="" src="https://pbs.twimg.com/media/FP0sATZX0AwJPI7?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sATpWUAMVMr_?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAU8XwAQ--Zh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP0sAVJXwAQP4-q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+清零祸国殃民，祸首在海里吃喝不愁。21世纪，国际大都会，上海高楼大厦里，将有饿死冤魂。
 
 ### 65: [2022-04-09 22:34:47+08:00 推文](https://twitter.com/realcaixia/status/1512801200147628033)
 
@@ -281,7 +281,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 67: [2022-04-09 23:25:32+08:00 推文](https://twitter.com/realcaixia/status/1512813972965273600)
 
-习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难
+习当局推行上海市清零封城：<br>独裁强权意志+计划控制思维+政府行政包揽+顺民臣民文化=人祸：大规模次生人道灾难<br><br>Murong Xuecun慕容雪村: 《上海人為什么會飢餓》，完整版<br><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLDaQAUJgEE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLOakAAVEEq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FP4ZNLJaQAElLPN?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 68: [2022-04-09 23:28:27+08:00 推文](https://twitter.com/realcaixia/status/1512814706800660480)
 
@@ -305,5 +305,5 @@ Re @HenryCh34283099 @EdwinHChiang 就是我上面这个Edwin Chiang 的什么李
 
 ### 73: [2022-04-10 05:03:09+08:00 推文](https://twitter.com/realcaixia/status/1512898936020873220)
 
-萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。
+萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。<br><br>Nini艾番妮USA- Fata morgana🇺🇸🇭🇰🎗️✋👍: #上海疫情 一手资料，中国政法大学法学院副教授萧瀚不要命了，开天窗，痛骂习近平，此文随后被秒删。<br><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAIxWnO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VcAAHKTj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy987VsAIwISb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAg7Ok-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
