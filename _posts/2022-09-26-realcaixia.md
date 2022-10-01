@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+大陆全国是个大监狱。人们终有反抗的一天。
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -170,4 +170,28 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Fd3i0jwXkAIol7S?format=jpg
 ### 39: [2022-10-01 12:21:04+08:00 推文](https://twitter.com/realcaixia/status/1576064628928438273)
 
 Legal dispute over longtime Chinese Communist Party critic’s archive plods on | Courthouse News Service <a href="https://www.courthousenews.com/legal-dispute-over-longtime-chinese-communist-party-critics-archive-plods-on/" target="_blank" rel="noopener noreferrer">https://www.courthousenews.com/legal-dispute-over-longtime-chinese-communist-party-critics-archive-plods-on/</a>
+
+### 40: [2022-10-01 21:57:19+08:00 推文](https://twitter.com/realcaixia/status/1576209649430241280)
+
+我很喜欢孙海英和吕丽萍这两位正直善良的影视人！活得堂堂正正，不向邪恶势力低头！是有骨气的中国人！<br><br>演员孙海英: 岁月不饶人，苍天饶过谁？<br><br><img style="" src="https://pbs.twimg.com/media/Fd6XoP7agAAePua?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 41: [2022-10-01 21:58:17+08:00 推文](https://twitter.com/realcaixia/status/1576209893878812673)
+
+助推。<br><br>free创始人: free chat已经进入野蛮生长阶段，欢迎各界人士来访，探讨进一步合作思考，集思广益，再创辉煌<br>
+
+### 42: [2022-10-01 22:19:48+08:00 推文](https://twitter.com/realcaixia/status/1576215307173392384)
+
+Re @wangxiaoshan 选择怎样生活是个人权利，只要没伤害到他人利益就行。中国传统文化历来界限不清：一是“公域”“私域”不分。公权力侵犯私人空间，健康码永久化监控每个人行踪是侵犯个人隐私权，但民众没有足够警惕；二是自己与他人不分。把自己的好心强加到他人头上，“我是为你好”成了强加于人和训斥人的正当理由。
+
+### 43: [2022-10-01 22:39:03+08:00 推文](https://twitter.com/realcaixia/status/1576220150449475584)
+
+从中国民间社会的视角看73年。<br><br>章立凡 Zhang Lifan: 今日酷评<br>转【70年，只做了两件事……】<br><br><img style="" src="https://pbs.twimg.com/media/Fd77zSGUoAAnupW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 44: [2022-10-01 22:49:51+08:00 推文](https://twitter.com/realcaixia/status/1576222867687354369)
+
+前东德党对东德的德国人是有罪的，因而在推倒柏林墙、东西德重新成为一个完整的国家那场政治变动中，德国人没有放弃转型正义，而是清算了东德党对人民犯下的罪行，克伦茨作为东德党魁被判罪入刑。中共驻德大使馆邀克伦茨参加晚会，这是对德国法律、德国人民与德国政府尊严的亵渎。<br><br>ZHANGDONG: 臭味相投!<br>前西德总理普京老朋友施罗德，前东德领导人克伦茨，受邀参加中国驻德使馆庆祝国庆及中德建交晚会。<br>克伦茨何许人也？东德执政党末任总书记，1989年他在昂纳克辞职后曾担任数周东德国家领导人，当年公开称赞中共天安门大屠杀。两德统一后被控谋杀罪而被判6年半有期徒刑，刑期直到2003年结束。<br><br><img style="" src="https://pbs.twimg.com/media/Fd-CXsVWIAApZft?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-10-01 22:52:36+08:00 推文](https://twitter.com/realcaixia/status/1576223559818485760)
+
+这段视频当时在国内微信群广为流传，直接撕掉中共国假民主的画皮。<br><br>正视历史▪️传播真相🇺🇸: 数年前的视频，现在翻出来看依然忍俊不禁。<br><br>笑的不仅仅是墙国虚假的 #中国式民主 #全过程民主，中共这种下三滥的龌龊手段让人捧腹大笑。<br><br><video src="https://video.twimg.com/ext_tw_video/1575668150951063553/pu/vid/1280x720/ha4yklSLbDi0VQhx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1575668150951063553/pu/img/vhypBjJECWp7jKWb.jpg"></video>
 
