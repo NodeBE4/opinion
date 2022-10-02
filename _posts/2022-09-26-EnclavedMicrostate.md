@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-09-30
+date: 2022-10-01
 from: https://old.reddit.com/r/AskHistorians/comments/xo9m0n/does_obama_regret_role_his_administration_played/
 layout: post
 tags:
@@ -92,4 +92,18 @@ For questions of this type, we ask that you redirect them to more appropriate su
 ----- __852.1__ -----2022-09-30 12:39:45+08:00:
 
 Sorry, but your submission has been removed because we [don't allow hypothetical questions](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_is_this_the_right_place_for_your_question.3F). If possible, please rephrase the question so that it does not call for such speculation, and resubmit. Otherwise, this sort of thing is better suited for /r/HistoryWhatIf or /r/HistoricalWhatIf. You can find a more in-depth discussion of this rule [here](https://www.reddit.com/r/AskHistorians/comments/fj1jym/rules_roundtable_vi_no_historical_whatif/).
+
+### 853: [What does ‘Dynasty’ actually refer to in Chinese history?](https://old.reddit.com/r/AskHistorians/comments/xsw5pv/what_does_dynasty_actually_refer_to_in_chinese/), submitted on 2022-10-01 22:05:02+08:00.
+
+----- __853.1__ -----2022-10-02 21:13:18+08:00:
+
+It took a while but I finally rediscovered an old answer I wrote that covers this: https://www.reddit.com/r/AskHistorians/comments/nr8qo8/why_are_chinese_dynasties_not_named_after_the/h0fhsdx/?context=3
+
+To break it down simply, the term 'dynasty' is not an incorrect translation but it's an incomplete one. The most direct translation of the term *chao* is not 'dynasty' but rather 'court', which encompasses both the imperial house as a family entity *and* the institution of the imperial state. Indeed, the term *chao* typically refers not to the imperial house, but rather the state that it ruled. Some historians, especially more recently, have on that basis preferred to use 'Empire' in place of 'Dynasty'.
+
+You ask in your followup to /u/Professional-Rent-62 what the 'nation' was called, and this is perhaps a more complicated question than it first appears. If you actually mean the state, then there was no all-encompassing term that described them all, because it was not perceived that there was a single state that passed between ruling houses, but rather a series of states that were vaguely geographically and ideologically continuous. The Great Qing *was* the name of the state. If you in fact mean 'nation', then there are a whole load of distinct terms, some ethnic like 'Han' or 'Tang', and some cultural like 'Huaxia', that could be used to refer to certain identity groups, but the evolution of these over time is a huge issue in itself.
+
+----- __853.2__ -----2022-10-02 21:26:47+08:00:
+
+In my view, yes.
 
