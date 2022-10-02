@@ -55,3 +55,11 @@ Re @david_david1968 这话回得好。德国的民选议员任由本国迅速在
 
 生活成本飙升，英国超50城镇同时爆发示威游行：我们受够了！每件东西都在涨价。<br>示威者抨击保守党政府丢掉了“财政预算责任”，推行的能源政策完全失败了。威尔士的示威者指责英国政府并没有为国家的最佳利益服务。<br><br>附：法国、德国也爆发大规模民众抗议，要求停止支持乌战。 <a href="https://www.theguardian.com/world/2022/oct/01/its-scary-things-are-escalating-fast-protesters-fill-uk-streets-to-highlight-climate-crisis-and-cost-of-living" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/oct/01/its-scary-things-are-escalating-fast-protesters-fill-uk-streets-to-highlight-climate-crisis-and-cost-of-living</a>
 
+### 11: [2022-10-03 05:27:15+08:00 推文](https://twitter.com/HeQinglian/status/1576685265418342400)
+
+Re @lzhn96836555 这场战争过后，支持欧盟的支柱——德国经济倒了，左派的大锅饭清汤寡水，看他们是否会变得清醒一点。<br>美国现在不会，尽管连耶伦都说美国经济很危险，但美国民主党信奉现代货币理论，以为开机印钞就是财富。
+
+### 12: [2022-10-03 05:29:54+08:00 推文](https://twitter.com/HeQinglian/status/1576685934820884480)
+
+Re @lzhn96836555 @dinglili7 @yu_su_chen 德国抗议者应该是反美国，比如科隆那边就是。他们哪会分左右谁当美国的家——过去他们反川普。
+
