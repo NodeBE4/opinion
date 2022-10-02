@@ -45,7 +45,7 @@ RT Guobin Yang<br>In the coming months, I've a series of book talks which I'll
 
 ### 8: [2021-12-06 23:34:13+08:00 推文](https://twitter.com/manyapan/status/1467880064528400395)
 
-RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Manya Koetse<br>This iconic photo was taken when Wham! visited the Great Wall in 1985 during their historic 10-day visit to China. They were the first Western pop band to give a concert in the mainland. (*Not the first Western artist - Jean Michel Jarre did his Concerts in China in 1981).<br><img style="" src="https://pbs.twimg.com/media/FF7w4vuXwAQlaic?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-07 18:43:00+08:00 推文](https://twitter.com/PM_Thornton/status/1468169162363125763)
 
@@ -57,7 +57,7 @@ Topping page one of the People's Daily today -- the release of a new book on hum
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -133,7 +133,7 @@ Re Zhu Ying is with the Human Rights Institute at SW Univ. of Political Science 
 
 ### 30: [2021-12-09 09:31:59+08:00 推文](https://twitter.com/cnmediaproject/status/1468755270180667393)
 
-Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re He is listed as the dir. of the Cross-Cultural HR Centre, affiliated (?) with Free Univ. Amsterdam. This "informal group of researchers" has real scholars listed. But also odd rel. with state media and the forum itself. Intro video is from CGTN w/ Zwart . <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FGIRFlsVEAEtPmN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 31: [2021-12-09 09:39:10+08:00 推文](https://twitter.com/cnmediaproject/status/1468757077455966208)
 
@@ -153,11 +153,11 @@ Re Back to this year's forum. The news of Xi's letter ran on CGTN, which noted t
 
 ### 35: [2021-12-09 10:12:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468765349042855937)
 
-Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The forum was launched in 2017, making this the 5th such event. The forum does have its own official website. But guess where that is hosted. Yes, on <a href="http://china.org.cn/" target="_blank" rel="noopener noreferrer">http://China.org.cn</a> <a href="http://p.china.org.cn/node_8001790.htm" target="_blank" rel="noopener noreferrer">http://p.china.org.cn/node_8001790.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGIaSmrUUAACS3y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-09 10:20:48+08:00 推文](https://twitter.com/cnmediaproject/status/1468767555016093696)
 
-Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style="" src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Recall that the purpose of the SCIO, founded 1991, is external propaganda and "explaining China to the world." It is run by the CCP's Central Propaganda Department -- again under Huang Kunming, who read Xi's letter to the human rights forum. <a href="http://www.scio.gov.cn/xwbjs/" target="_blank" rel="noopener noreferrer">http://www.scio.gov.cn/xwbjs/</a><br><img style src="https://pbs.twimg.com/media/FGIcBy0VEAAf8lp?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-09 11:23:02+08:00 推文](https://twitter.com/cnmediaproject/status/1468783218573082631)
 
