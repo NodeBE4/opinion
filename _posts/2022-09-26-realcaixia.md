@@ -61,7 +61,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FdofBNbXoBQNRo4?format=jpg
 
 ### 12: [2022-09-27 13:54:56+08:00 推文](https://twitter.com/realcaixia/status/1574638700440477697)
 
-大陆全国是个大监狱。人们终有反抗的一天。 <a href="https://twitter.com/wangfunway/status/1574420831593058304" target="_blank" rel="noopener noreferrer">https://twitter.com/wangfunway/status/1574420831593058304</a>
+大陆全国是个大监狱。人们终有反抗的一天。
 
 ### 13: [2022-09-28 00:48:02+08:00 推文](https://twitter.com/realcaixia/status/1574803061545091073)
 
@@ -141,7 +141,7 @@ Re 这不是发展经济，这是造孽啊！
 
 ### 32: [2022-09-30 09:33:56+08:00 推文](https://twitter.com/realcaixia/status/1575660181840883712)
 
-这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br> <a href="https://twitter.com/zhu0588/status/1573765751042764801" target="_blank" rel="noopener noreferrer">https://twitter.com/zhu0588/status/1573765751042764801</a>
+这张照片可以获奖。看看中共国处处活跃盯梢监视告密者，这还是能正常生活愉快工作的地方吗？<br><br>高瑜: “朝陽大媽”前身是“小腳偵緝隊”，文革時期的“造反有理”和“工人階級領導一切”。現在工人階級已經淪落為“低端人口”，但是“紅袖章”的流毒還在，戴上就不是“正常人”，就是權力加冕，“階級鬥爭這根弦”立即撥動。<br>
 
 ### 33: [2022-09-30 09:38:51+08:00 推文](https://twitter.com/realcaixia/status/1575661419835830272)
 
@@ -210,4 +210,12 @@ Re @GreatFireChina @VOAChinese 点击进去看了看，挺感兴趣的，索性�
 ### 49: [2022-10-02 07:04:45+08:00 推文](https://twitter.com/realcaixia/status/1576347414323113986)
 
 李承鵬：一些雜感，一個建議【無冕之聲】 <a href="https://youtu.be/Fb_PsgRBMV8" target="_blank" rel="noopener noreferrer">https://youtu.be/Fb_PsgRBMV8</a>
+
+### 50: [2022-10-02 21:51:34+08:00 推文](https://twitter.com/realcaixia/status/1576570591284719616)
+
+这推说得对！中共所说“安全”的实质是政权统治稳固，而非民众的安居乐业，任何一个专制统治集团本能地视自由为天敌。<br><br>GreatFire.org: CCP告诉人们，自由和安全不能共存，因此剥夺了人们集会结社、游行示威、发表言论的自由，然而拥有这些权利和自由的国家的人们，也一直过着平静而祥和的生活，即使在那些持枪自由的国家。<br><br>富兰克林： <br>准备用自由换取暂时安全的人们，既不配得到自由，也不配得到安全。<br><br><img style="" src="https://pbs.twimg.com/media/Fd-fblCXwAMFzvk?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 51: [2022-10-02 22:09:18+08:00 推文](https://twitter.com/realcaixia/status/1576575052413161473)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FeEepysXwAIHe8A?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeEepyyWYAAdqNm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeEepyyWAAIkWeC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeEepytXoAIgx5a?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
