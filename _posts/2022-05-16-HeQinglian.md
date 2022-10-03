@@ -61,7 +61,7 @@ Re @wechat2525138 与挪威前年那个案子的案由一样，当然，这些�
 
 ### 12: [2022-05-18 00:05:19+08:00 推文](https://twitter.com/HeQinglian/status/1526594722269212674)
 
-这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。
+这篇报道的用词，很好地诠释了乌克兰及支持它的美国政府为何能够立于不败之地，其实就是名词包装的“认知战”：<br>失败=撤离；投降时的缴枪不杀=被允许离开安全转移；对方对俘虏的人道救助=接受医疗救助。<br>与2020年盗选名为“捍卫民主”，同出一辙。<br>美国无敌。<br><br>华尔街日报中文网: 乌克兰政府宣布结束其在马里乌波尔的作战任务，结束了与俄罗斯军队数月的血腥战斗。这场战斗的尾声是在一家废弃钢铁厂避难的战斗人员和平民遭到惊心动魄的围困。泽连斯基说，亚速钢铁厂的战斗人员正在接受医疗救助，他恳请在他们被允许离开后保全他们的性命。<br> <a href="https://on.wsj.com/3NgEqTZ" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NgEqTZ</a>
 
 ### 13: [2022-05-18 03:08:51+08:00 推文](https://twitter.com/HeQinglian/status/1526640910716616707)
 
@@ -233,7 +233,7 @@ Re @gmzhaogmailcom1 你还是先帮欧盟找着天然气、石油等能源替代
 
 ### 55: [2022-05-19 20:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1527267629915938817)
 
-评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？<br><br>美国之音中文网: 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言<br> <a href="http://dlvr.it/SQdBq4" target="_blank" rel="noopener noreferrer">http://dlvr.it/SQdBq4</a>
+评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？
 
 ### 56: [2022-05-19 20:59:01+08:00 推文](https://twitter.com/HeQinglian/status/1527272617102741507)
 
@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 
