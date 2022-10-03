@@ -175,3 +175,23 @@ Re @Lucs24659702 我就奇怪：机器点票出了这么多问题，为什么就
 
 Re @dinglili7 这是事实。<br>问题是：在西方价值观正常时，西方主导世界，国际社会愿意接受；如今西方价值观已经变化，选举大规模舞弊导致去民主化过程开始；价值观成了LGBTQI+第四代女权+大麻合法化，有国家不接受应该也属正常吧？<br>美国也还只有一半人不到接受这些进步价值观。
 
+### 41: [2022-10-04 03:52:12+08:00 推文](https://twitter.com/HeQinglian/status/1577023735424745472)
+
+美国国防部长警告：普京不无可能射放原子弹！ <br>这是需要时时更新的消息。前天还说美国严密监控，没发现任何迹象，今天说不无可能。<br>全世界现在就这一件事情。按照这节奏，也许明天早上发现某国某地平了。每天大家都要庆祝自己还活着。 <a href="https://rfi.my/8n3U.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8n3U.T</a>
+
+### 42: [2022-10-04 03:56:28+08:00 推文](https://twitter.com/HeQinglian/status/1577024808495173632)
+
+译：传言称，瑞士信贷和德意志银行都处于崩溃的边缘。<br>两银行管理着2.7万亿的资产。<br>这可能是我们真正崩溃的“雷曼”时刻。<br>——德意志银行有如德国的中央银行，德国没直接参战，如今经济如同战败国一样雪崩。<br><br>Lark Davis: Both Credit Suisse and Deutsche Bank are rumoured to be on the brink of collapse. <br><br>They have 2.7 trillion in assets under management between them. <br><br>This could be our "Lehman" moment when shit REALLY breaks.<br>
+
+### 43: [2022-10-04 04:29:10+08:00 推文](https://twitter.com/HeQinglian/status/1577033035031056384)
+
+Re @david_david1968 美国高等教育一直是吸金泵，顺带为世界各国培养了一批又一批左派。
+
+### 44: [2022-10-04 04:40:44+08:00 推文](https://twitter.com/HeQinglian/status/1577035946083594240)
+
+Re @Wu_Zhi 其他的另说，马斯克这一下将成为华左的公敌，被淹死在他们口水的汪洋大海中。<br>欧洲的左派因为此刻日子难过，除了美德法主流媒体之外，不少可能开始考虑柴米油盐与物价了——毕竟只有少数富豪可飞往他国过冬。
+
+### 45: [2022-10-04 04:42:01+08:00 推文](https://twitter.com/HeQinglian/status/1577036272421392384)
+
+Re @dinglili7 这事儿，只差一张窗户纸没捅破。
+
