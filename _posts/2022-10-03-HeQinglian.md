@@ -195,3 +195,35 @@ Re @Wu_Zhi 其他的另说，马斯克这一下将成为华左的公敌，被淹
 
 Re @dinglili7 这事儿，只差一张窗户纸没捅破。
 
+### 46: [2022-10-04 05:01:42+08:00 推文](https://twitter.com/HeQinglian/status/1577041222447026176)
+
+Re @BlackFisher16 @Wu_Zhi 核战好象不分意识形态群灭。<br>但白宫地下室据说经过奥巴马重新修建，非常安全。
+
+### 47: [2022-10-04 05:06:24+08:00 推文](https://twitter.com/HeQinglian/status/1577042408092884992)
+
+Re @Wu_Zhi @BlackFisher16 有点来不及。据《美国秘密》相关集介绍，奥巴马修建了好几年。<br>政府领导换届太快，现在修建，是下一届受益。比如德国修建的防核地下室，不一定邀请默克尔入内躲避。
+
+### 48: [2022-10-04 05:11:02+08:00 推文](https://twitter.com/HeQinglian/status/1577043570891976704)
+
+Re @lzhn96836555 @Wu_Zhi 日本中小企业、店铺很多，如果一开启零元购，这些店家及员工就活不成。
+
+### 49: [2022-10-04 05:15:31+08:00 推文](https://twitter.com/HeQinglian/status/1577044702326837249)
+
+Re @xchen156 @zhixiangziyou @RFI_Cn 现任国防部长应该够官方了吧？比退役上将官方100倍。😂
+
+### 50: [2022-10-04 05:17:32+08:00 推文](https://twitter.com/HeQinglian/status/1577045208105357313)
+
+Re @SmallnoD 12月呆在家里比外边好不了多少，上街抗议可以抱团取暖，发泄闷气。
+
+### 51: [2022-10-04 05:20:58+08:00 推文](https://twitter.com/HeQinglian/status/1577046074489196545)
+
+纽约这地方出左棍，尤其是华左。<br>上次一华人老头被BLM打倒在地，华文媒体记者采访时他哭诉说：都是川普种族主义害的。<br>此例不孤。<br><br>D. Scott @eclipsethis2003: NY city.<br><br><video src="https://video.twimg.com/ext_tw_video/1576970067581042698/pu/vid/720x634/XpyZ9PN7ocazbCs7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1576970067581042698/pu/img/cxMQSNbJTk8TaVjM.jpg"></video>
+
+### 52: [2022-10-04 05:57:07+08:00 推文](https://twitter.com/HeQinglian/status/1577055172081364993)
+
+Re @markfubus888 @RFI_Cn 你还能发现这不存在的说法，服了。<br>有能力还是关心一下地面战争的情况，双方现在是老本儿兜底上了，双方的指挥官都不清楚“未来”一天内会发生什么。
+
+### 53: [2022-10-04 06:12:09+08:00 推文](https://twitter.com/HeQinglian/status/1577058952827002882)
+
+Re @fbLikeThis @markfubus888 @RFI_Cn 你与那位的理解能力更成问题。没见我推文说了“这是需要时时更新的消息”。<br>既然没发现，以他的身份，就该慎言。等发现了再说。
+
