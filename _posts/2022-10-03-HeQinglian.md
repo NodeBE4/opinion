@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-03
+date: 2022-10-04
 from: https://twitter.com/realTaoRay/status/1576604239094157313
 layout: post
 tags:
@@ -142,4 +142,36 @@ Re @bxz96 那就让他在里面闹腾，一票否决任何美国不喜欢的方�
 ### 32: [2022-10-03 22:36:19+08:00 推文](https://twitter.com/HeQinglian/status/1576944238973288449)
 
 Re @xxj2040 最后回你一推：<br>连《纽约时报》都知道一点：撤军的方案没错，错在撤的方式。
+
+### 33: [2022-10-03 22:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1576945116639825921)
+
+这些家长当中，我同情那些未给民主党投票的家长。<br>在青少年当中大力开展变性运动，只因变性人是没法回头的铁票队伍。非移定居后可能改变态度，但只有变性人无法回到正常状态，只能在民主党政治中找认同感。<br><br>北美保守评论🇺🇸🇨🇦: 《众议院民主党人一致投票剥夺父母了解孩子在学校接受性别认同辅导的权利》<br><br>民主党国会议员无一例外地主张，以法律的形式剥夺家长对自己孩子在学校里接受这种 ”特殊辅导“ 的知情权，也是父母对自己孩子的监护权，任凭他们给我们的孩子洗脑、在精神上和肉体上残害我们的孩子。<br><br><img style="" src="https://pbs.twimg.com/media/FeJr_MWX0AAMkAa?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/10/03/every-house-democrat-just-voted-against-parental-rights-legislation/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/10/03/every-house-democrat-just-voted-against-parental-rights-legislation/</a>
+
+### 34: [2022-10-03 22:53:24+08:00 推文](https://twitter.com/HeQinglian/status/1576948540194295808)
+
+Re @Wu_Zhi 参考秦朝，“坑灰未冷山东乱”，时机未到。
+
+### 35: [2022-10-03 22:57:29+08:00 推文](https://twitter.com/HeQinglian/status/1576949564627505152)
+
+Re @princeton_walk @david_david1968 不过是信息战的一部分。<br>参考一下二战时美国击落山本五十六去前线视察座机的讨论，交战规则，以及当时的美国顾忌什么，后来给自己找的理由是什么。<br>不过，对于台湾来说，这身份已经够了。因为他们多年来就是与这类二线人物打交道、通过他们传递信息。
+
+### 36: [2022-10-03 23:02:59+08:00 推文](https://twitter.com/HeQinglian/status/1576950948919812096)
+
+Re @dinglili7 丛林社会样板。区别是：丛林社会的王是杀出来的，这个可是选出来的。<br>太奇幻了。
+
+### 37: [2022-10-03 23:27:38+08:00 推文](https://twitter.com/HeQinglian/status/1576957154212257792)
+
+路透社消息：<br>波兰外长兹比格涅夫·劳周一表示，已就二战的赔款向德国签署了一份外交照会，正式确定了波兰在柏林最高外交官访问之前提出的赔偿要求。<br>波兰政府上个月估计德国欠该国 6.2 万亿兹罗提（1.26 万亿美元）。当时德国表示与战争有关的所有金融债权都已得到解决。 <a href="https://www.reuters.com/world/europe/polish-foreign-minister-signs-diplomatic-note-germany-ww2-reparations-2022-10-03/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/polish-foreign-minister-signs-diplomatic-note-germany-ww2-reparations-2022-10-03/</a>
+
+### 38: [2022-10-03 23:29:48+08:00 推文](https://twitter.com/HeQinglian/status/1576957696862932993)
+
+Re @bxz96 LGBTQI+也只在俄罗斯的莫斯科、彼得堡活跃。NGO毕竟无法到乡村去。😂
+
+### 39: [2022-10-04 01:09:09+08:00 推文](https://twitter.com/HeQinglian/status/1576982701105893377)
+
+Re @Lucs24659702 我就奇怪：机器点票出了这么多问题，为什么就不放弃并采用人工计票？
+
+### 40: [2022-10-04 01:13:38+08:00 推文](https://twitter.com/HeQinglian/status/1576983828555763713)
+
+Re @dinglili7 这是事实。<br>问题是：在西方价值观正常时，西方主导世界，国际社会愿意接受；如今西方价值观已经变化，选举大规模舞弊导致去民主化过程开始；价值观成了LGBTQI+第四代女权+大麻合法化，有国家不接受应该也属正常吧？<br>美国也还只有一半人不到接受这些进步价值观。
 
