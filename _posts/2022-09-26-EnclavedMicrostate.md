@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-01
+date: 2022-10-02
 from: https://old.reddit.com/r/AskHistorians/comments/xo9m0n/does_obama_regret_role_his_administration_played/
 layout: post
 tags:
@@ -106,4 +106,18 @@ You ask in your followup to /u/Professional-Rent-62 what the 'nation' was called
 ----- __853.2__ -----2022-10-02 21:26:47+08:00:
 
 In my view, yes.
+
+### 854: [[Hobby Scuffles] Week of October 3, 2022](https://old.reddit.com/r/HobbyDrama/comments/xtpo36/hobby_scuffles_week_of_october_3_2022/), submitted on 2022-10-02 22:05:39+08:00.
+
+----- __854.1__ -----2022-10-05 05:51:44+08:00:
+
+I dunno, it seems like complete nothing? It's unprecedented for the person in question but also very normal for the rest of the agency members. Plus there's the angle that it might be scheduled – 4 October is 10/4 in MM/D, and 'I say ten-four dinosaur' is a line from Oki Doki Boomer.
+
+----- __854.2__ -----2022-10-05 05:53:28+08:00:
+
+> My dudes, Hololive has always favored established creators (and people recommended by them) since at least 2nd generation, that's one of the reasons why they got so big on the first place.
+> 
+> 
+
+I think you misread – LordMonday is talking about VShojo, not Hololive, which somewhat infamously opened auditions for new EN members over a year ago with nary a peep as to where those have gone, while in the same timeframe rushing an ex-Hololive member into a new identity within less than 2 months.
 

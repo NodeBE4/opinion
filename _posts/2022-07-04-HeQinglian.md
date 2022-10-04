@@ -225,7 +225,7 @@ Re @franktianxie 我觉得，俄乌战争以来经济神话破灭得最彻底的
 
 ### 53: [2022-07-05 22:44:19+08:00 推文](https://twitter.com/HeQinglian/status/1544331343492009985)
 
-中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。
+中国的节令是公历8月8日（或7日）立秋，西方的秋天大概也在8月，难怪乌克兰总理昨天说要在8月取得第一场可观的胜利（以前的胜利不可观？），白宫官员传拜登要在8月终战。<br>还是有始有终地好。不过，北约收获了新成员国，反俄力量壮大了。<br><br>Ezio Mao☢: 如果基辅在秋天之前不扭转局势，西方将开始削减援助。<br><br>《每日电讯报》参考其自己的消息来源对此进行了报道。<br><br>该出版物报道，西方集体逐渐得出结论，支持乌克兰毫无意义。<br><br><img style="" src="https://pbs.twimg.com/media/FW6P6l-UEAAAyPr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 54: [2022-07-05 22:58:18+08:00 推文](https://twitter.com/HeQinglian/status/1544334862919811076)
 
@@ -305,7 +305,7 @@ Re @comeonjustchill 对于俄罗斯，我觉得是随机调整。当初启动Swi
 
 ### 73: [2022-07-06 21:42:19+08:00 推文](https://twitter.com/HeQinglian/status/1544678131100958726)
 
-拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？
+拜登、南希们等左派领导的美国。<br>福利供养出来的“美国新贵族”，Liberal World Order。<br>拜粉们喜欢么？<br><br>🍃 Ɣ 🍃: When you run out of chicken nuggets..<br><br><video src="https://video.twimg.com/ext_tw_video/1544317716408016900/pu/vid/576x720/DGc1bjXJDE5uyidy.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1544317716408016900/pu/img/8-dE9FO405azD8zE.jpg"></video>
 
 ### 74: [2022-07-06 21:43:33+08:00 推文](https://twitter.com/HeQinglian/status/1544678441764769793)
 
@@ -329,7 +329,7 @@ Re @owenusa 快了，还差五公里，普京也差点被抓，只差那么一�
 
 ### 79: [2022-07-06 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1544688323779764224)
 
-明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。
+明白了。<br>那年，美国民主党在选前推出一个“红色幻影”的说法，并拟定了78天政变计划（给过AIXOS的链接）。<br>中国也做好了准备。<br>基于同一个原因：知道多米尼投票机将大显神威（2019年1月、2020年1月全美选举委员会听证会上专家均提及此机器来自中国，有两大问题）。<br>一切尽在不言中。<br><br>Ezio Mao☢: 这是老共两年前（2020年7月）提出来的，当时很多人还非常惊诧，其实就是提前布局，论下大棋，真的不是针对谁...啧啧啧<br><br><img style="" src="https://pbs.twimg.com/media/FW8rR_GaMAAYuy4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 80: [2022-07-06 22:23:34+08:00 推文](https://twitter.com/HeQinglian/status/1544688512577986560)
 
@@ -337,7 +337,7 @@ Re @david_david1968 那司机可能要连升15级？
 
 ### 81: [2022-07-06 22:30:25+08:00 推文](https://twitter.com/HeQinglian/status/1544690233295380482)
 
-英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。<br><br>Vanessa 姗: 突发新闻: 财政大臣辞职，财政部长辞职，健康部长辞职，交通部长辞职，司法部长辞职，学校部长辞职, 环境部长辞职，住房部长辞职。。。。。。从昨晚开始，已经有18位约翰逊手下的各部门大臣向他递交了辞职书 ，恐怕约翰逊会因此被迫辞职，尽管他已表示会坚持，不知他能否坚持过今晚🤦‍♀️。<br><br><img style="" src="https://pbs.twimg.com/media/FW_Ec1lXkAMk9yu?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FW_EdAMWQAAMrUs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+英国政客比美国政客有自尊。<br>拜登、南希将美国打理成这样，还天天玩怪罪游戏：一切都是普京的错，通胀全是他折腾的。没见他们要辞职，还说要竞选连任。
 
 ### 82: [2022-07-06 23:00:29+08:00 推文](https://twitter.com/HeQinglian/status/1544697802613297154)
 
@@ -421,7 +421,7 @@ Re @JianglinLi 这些人就是这么走过来的，当年挺郭、挺拜包括�
 
 ### 102: [2022-07-07 20:18:05+08:00 推文](https://twitter.com/HeQinglian/status/1545019318538326018)
 
-因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。<br><br>jiang shangrong: 约翰逊宣布辞去首相职务。<br><br><video src="https://video.twimg.com/ext_tw_video/1545011890589507590/pu/vid/848x464/0v71lXJMNKLUrp8R.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1545011890589507590/pu/img/WaQ0CQQfM-9SPxwn.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+因为研究养成的习惯，总喜欢了解事情全过程，观其首尾。<br>从约翰逊首次郑重宣布“普京必须下台”，到现在也不过就三个多月而已。<br>世事之无常也还罢了，希望一干人忙着变脸时，认真想想这几个月世界发生了什么。<br>拜登如果不下台，美国现在的“民主”绝对有问题，英相主要祸害本国，拜登祸害要广得多。
 
 ### 103: [2022-07-07 20:22:34+08:00 推文](https://twitter.com/HeQinglian/status/1545020449410752514)
 
@@ -701,7 +701,7 @@ RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆�
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 
@@ -749,7 +749,7 @@ Re @RealBeiMing @Tianshuihanyan 人家从嘲讽里听出了不服从。😉<br>�
 
 ### 184: [2022-07-10 21:35:57+08:00 推文](https://twitter.com/HeQinglian/status/1546126078086987777)
 
-日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅
+日本警方严重失职（至少破除了东京警视厅神话），导致安倍被害。<br>目前，全世界专业、业余侦探全部出动，要找出安倍被害的深黑背景。<br>我坐等结果。😅<br><br>纽约时报中文网: #讣告 在寻求修宪的过程中，安倍惹怒了日本20世纪军国主义的两个受害者——中国与韩国。他还否认“二战”期间日军曾强迫亚洲女性做慰安妇，并着手修改教科书，讲述了批评人士所谓的日本战时历史的粉饰版本。<br> <a href="https://nyti.ms/3NRB6i3" target="_blank" rel="noopener noreferrer">https://nyti.ms/3NRB6i3</a>
 
 ### 185: [2022-07-10 21:43:46+08:00 推文](https://twitter.com/HeQinglian/status/1546128045798555648)
 

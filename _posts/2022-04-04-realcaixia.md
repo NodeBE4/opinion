@@ -101,7 +101,7 @@ Re @haofengrushui1 @jackqzq @Jiexu04225144 “老法人”，地道上海方言�
 
 ### 22: [2022-04-04 22:06:23+08:00 推文](https://twitter.com/realcaixia/status/1510982115185377286)
 
-文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/yaxuecao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/yaxuecao/status/1510962947606073349</a>
+文革时期搞过所谓“三支两军”，两军即“军管军训”。习当局没有别的能耐，就是炒毛在1967年控制全国局势的做法：军队介入地方文革，搞军管军训，接着建立“三结合”的军政权。军队进驻——现在对上海，或许也将对全国棘手地区都实行。让我们拭目以待，看看习这次抄毛作业抄得几分？ <a href="https://twitter.com/YaxueCao/status/1510962947606073349" target="_blank" rel="noopener noreferrer">https://twitter.com/YaxueCao/status/1510962947606073349</a>
 
 ### 23: [2022-04-04 22:21:28+08:00 推文](https://twitter.com/realcaixia/status/1510985909860290560)
 
@@ -145,7 +145,7 @@ Re @CCPoffice 我从部队回到地方定居苏州，后来父母养老都在苏
 
 ### 33: [2022-04-05 09:12:06+08:00 推文](https://twitter.com/realcaixia/status/1511149645745078272)
 
-看看方舱医院什么情况吧。<br><br>鲁  难: 上海南汇的方舱隔离点，被隔离的人需要自己动手抢物资才有铺盖的被褥和食品、饮水。一位只抢到了一箱水的女士呼吁大家转发视频，引起有关管理者的注意，帮她度过难关。<br><br><video src="https://video.twimg.com/ext_tw_video/1510861373391187968/pu/vid/1280x720/t9BMw7Swwn17E-Kb.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1510861373391187968/pu/img/ltrdDy_tQXc5GvYf.jpg"></video>
+看看方舱医院什么情况吧。
 
 ### 34: [2022-04-05 09:13:15+08:00 推文](https://twitter.com/realcaixia/status/1511149935181406209)
 
@@ -157,7 +157,7 @@ RT @chenqiushi404: 央视永远不会报道这个中国弗洛伊德
 
 ### 36: [2022-04-05 09:23:59+08:00 推文](https://twitter.com/realcaixia/status/1511152639093977092)
 
-海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。<br><br>杨佩昌: 对这么勇敢的孩子，不能让他的前途耽误了。我也可以帮他去德国留学，完成他的学业。<br>不用学德语，英语就行，希望他看到后和我私信联系。<br>多说一句，我以前负责德国国家奖学金项目，能够帮到他。<br><br><img style="" src="https://pbs.twimg.com/media/FPfR2qxWYAMkyWU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+海外的同胞都在努力援助孙健同学，请热心推友帮忙转推，让更多的人看到得道多助。
 
 ### 37: [2022-04-05 09:24:36+08:00 推文](https://twitter.com/realcaixia/status/1511152795361161224)
 
@@ -165,7 +165,7 @@ RT @Jam79922967: 枪口下的抗疫，世界独此一国。用枪击毙新冠病
 
 ### 38: [2022-04-05 09:26:15+08:00 推文](https://twitter.com/realcaixia/status/1511153210832130053)
 
-好悲壮！<br><br>ZHANGDONG: 现在马里乌波尔只剩下亚述营武装坚守残城。<br>
+好悲壮！
 
 ### 39: [2022-04-05 09:43:50+08:00 推文](https://twitter.com/realcaixia/status/1511157635411857408)
 
@@ -205,7 +205,7 @@ RT @ZhangDong_SCH: （基辅）6岁的男孩站在自家院子里妈妈的坟墓
 
 ### 48: [2022-04-06 22:04:11+08:00 推文](https://twitter.com/realcaixia/status/1511706335016099840)
 
-议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。<br><br>楊建利 Yang Jianli: #议报 以及 #公民力量 所属其他网站遭到黑客攻击，感染严重病毒，公民力量团队在紧急清理修复中，我们决心“清零”，绝不与病毒共存。望大家理解和支持。<br> <a href="https://twitter.com/yibaochina/status/1511520166600916998" target="_blank" rel="noopener noreferrer">https://twitter.com/yibaochina/status/1511520166600916998</a>
+议报网站最近2月发布了一些重磅文章，近日连遭攻击。这最大可能就是中共网军黑色幽灵干的卑鄙龌龊行径。我们在组织技术力量紧急处置中，请网友理解。
 
 ### 49: [2022-04-06 22:18:44+08:00 推文](https://twitter.com/realcaixia/status/1511709999923408899)
 
@@ -225,7 +225,7 @@ RT @lianchaohan: 【演艺圈的良心孙海英】一直在关注孙海英，虽
 
 ### 53: [2022-04-06 22:25:53+08:00 推文](https://twitter.com/realcaixia/status/1511711797232943104)
 
-可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。<br><br>lily valley: 上海地下党组织成员被封家里，无法和他的同志接头！<br><br><img style="" src="https://pbs.twimg.com/media/FPgVKb_WUAMnib9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+可见中共党的荒谬。普通党员同样是极权统治的受害者，普通党员机智地表达对反人性反人道的清零种种残暴凶狠做法的不满。
 
 ### 54: [2022-04-06 22:28:50+08:00 推文](https://twitter.com/realcaixia/status/1511712538769170439)
 
@@ -237,7 +237,7 @@ RT @peichang_yang: 布查惨案发生后，俄乌之间已经失去了谈判基�
 
 ### 56: [2022-04-06 22:41:34+08:00 推文](https://twitter.com/realcaixia/status/1511715744635133956)
 
-活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。<br><br>Jacky: 传说中的恶警,大概率最后上海军管.(第一部分)<br><br><video src="https://video.twimg.com/ext_tw_video/1511310669228175361/pu/vid/368x640/bc944MQo8OKnMOXp.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511310669228175361/pu/img/LsmYTb4C8T1Fvcg0.jpg"></video>
+活生生的“不解决问题，解决提出问题的人”的真实情况。这位上海阿姨因为找干部请求解决问题，结果被人模狗样的打手警察凶恶威胁，被胁迫到派出所去。不知这位上海阿姨进到派出所将会遭遇到什么？令人担心。有网友知道后来的情况吗？苛政猛于虎。上海这些天成了人间炼狱。
 
 ### 57: [2022-04-06 22:42:41+08:00 推文](https://twitter.com/realcaixia/status/1511716025758326790)
 
@@ -245,7 +245,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 58: [2022-04-07 00:12:27+08:00 推文](https://twitter.com/realcaixia/status/1511738616048926720)
 
-今日金句。<br><br>kevin cheng: @maomao113 @ayase_hazuki @lg19901213 即使民间自救，也不会这样<br><br><img style="" src="https://pbs.twimg.com/media/FPqulGqVcAMr0P8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+今日金句。
 
 ### 59: [2022-04-07 03:02:12+08:00 推文](https://twitter.com/realcaixia/status/1511781334380945412)
 
@@ -265,7 +265,7 @@ RT @BigRmbusd: 要求解封的声音越来越大<br><video src="https://video.tw
 
 ### 63: [2022-04-09 21:28:50+08:00 推文](https://twitter.com/realcaixia/status/1512784603248955394)
 
-上海极端的清零，把政治站位、绝对忠诚演绎到了极致，也把反文明反人性反智主义演绎到了上海开埠以来绝无仅有的地步。
+上海极端的清零，把政治站位、绝对忠诚演绎到了极致，也把反文明反人性反智主义演绎到了上海开埠以来绝无仅有的地步。<br><br>lily valley: 大白这一身皮，将中国有些畜生的恶发挥到了极致！他们在这身画皮下做着伤天害理、人神共愤的事而被模糊了。谁来救救这些毛孩子！！！<br><br><video src="https://video.twimg.com/ext_tw_video/1512386832369082371/pu/vid/720x1280/xIaNooNdNUh03dgo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1512386832369082371/pu/img/zYKBcY_ZPk5R33rT.jpg"></video>
 
 ### 64: [2022-04-09 22:04:41+08:00 推文](https://twitter.com/realcaixia/status/1512793625066979339)
 
@@ -305,5 +305,5 @@ Re @HenryCh34283099 @EdwinHChiang 就是我上面这个Edwin Chiang 的什么李
 
 ### 73: [2022-04-10 05:03:09+08:00 推文](https://twitter.com/realcaixia/status/1512898936020873220)
 
-萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。<br><br>Nini艾番妮USA- Fata morgana🇺🇸🇭🇰🎗️✋👍: #上海疫情 一手资料，中国政法大学法学院副教授萧瀚不要命了，开天窗，痛骂习近平，此文随后被秒删。<br><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAIxWnO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VcAAHKTj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy987VsAIwISb?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FPzy988VUAg7Ok-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+萧瀚教授是有学识有境界的正义者。他对中共极权制度的揭露批判，对宪政民主政治的坚定信念，使他许多年来被剥夺教学上课的权利，但他始终没有后退过半步！十多年前我们一起在一共6人参加的晚餐上见面聊天。他低调，沉静，坚毅，令人敬佩。
 
