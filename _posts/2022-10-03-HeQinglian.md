@@ -227,3 +227,23 @@ Re @markfubus888 @RFI_Cn 你还能发现这不存在的说法，服了。<br>有
 
 Re @fbLikeThis @markfubus888 @RFI_Cn 你与那位的理解能力更成问题。没见我推文说了“这是需要时时更新的消息”。<br>既然没发现，以他的身份，就该慎言。等发现了再说。
 
+### 54: [2022-10-04 07:26:47+08:00 推文](https://twitter.com/HeQinglian/status/1577077737532948480)
+
+Re @Jumboriceball @Wu_Zhi 这是乌北联军的胜利，不要忘记这一点。<br>打到莫斯科，是前一向泽连斯基说的。不过，好象美国也没把他这表态当真。<br>接下来十天，对双方都很关键。双方这次都是拼老本，乌克兰还包括从友邦那里借来的本钱。无论结果怎样，不是升级，就是准备谈判。谁在战场上居有利地位，谈判主动权在谁手里。
+
+### 55: [2022-10-04 07:29:06+08:00 推文](https://twitter.com/HeQinglian/status/1577078317546512384)
+
+Re @Ciccysolomon 谢告知，能否将其德文全名写出来？<br>共有三家银行都能发钞。
+
+### 56: [2022-10-04 07:36:07+08:00 推文](https://twitter.com/HeQinglian/status/1577080086385537024)
+
+Re @xxj2040 人已老，志未衰，青春少年志犹存。😂😂<br>祝你心想事成。<br>据说东西两岸与纽约最可能成为目标。当然，我们离纽约近，肯定会波及。
+
+### 57: [2022-10-04 08:19:21+08:00 推文](https://twitter.com/HeQinglian/status/1577090963054694400)
+
+就算出现了美国2020的情况，比如有人代替选民预先投票，按机器投A却现出B的名字，但左翼还是很困难。<br>巴西左翼失望之极，发生了什么？！<br><br>Ben Ao, PhD: In Brazil, 2020 once more.<br><br><img style="" src="https://pbs.twimg.com/media/FeLlLpDUAAE1Ocu?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 58: [2022-10-04 09:32:48+08:00 推文](https://twitter.com/HeQinglian/status/1577109448694190081)
+
+Re @Tianshuihanyan @franktianxie 数年前，有熟人相约搬往佛州，房价便宜，气候比北边要温暖一些。<br>我查了一下，发现佛州最大的问题是飓风，每年都有，只是级别大小、为害程度。<br>好比夏威夷的地火，无法预知。
+
