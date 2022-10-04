@@ -291,3 +291,19 @@ Re @shenliangqing2 桌子不掀，还是在那上面吃饭，只是为了本国�
 
 Re @RealBeiMing 我在2015年欧洲难民潮发生之时就有言，守护民主比建立民主更难。
 
+### 70: [2022-10-05 01:23:53+08:00 推文](https://twitter.com/HeQinglian/status/1577348795486146560)
+
+Re @Wazy1988bW @shenliangqing2 法国表面上会Nice多了，毕竟现在他已经是欧洲老大席位在望，得端着点。😂
+
+### 71: [2022-10-05 01:26:41+08:00 推文](https://twitter.com/HeQinglian/status/1577349500053733377)
+
+Re @Icehare_Van @RealBeiMing 美国侵夺个人权利的种种，正是假民主之名以行。你去看看加州那些奇葩立法。
+
+### 72: [2022-10-05 01:28:19+08:00 推文](https://twitter.com/HeQinglian/status/1577349911204577303)
+
+Re @lindahuiyun 我一生南北方都呆过，美国的冬天并不算太难过，因为供暖的原因。南方各地，有长处亦有短处，如果是认为那里红，就不要作此想了，得州现在就很危险。
+
+### 73: [2022-10-05 01:39:28+08:00 推文](https://twitter.com/HeQinglian/status/1577352717579821059)
+
+由中国跨境执法看近年国际关系的演变<br><br>最近海外报道中国海外110大量存在。本人分析：<br>中共对外长期渗透，包括跨境执法在内。在东南亚邻国当中，只有新加坡禁止中国这种活动<br>“海外110”从2018年开始存在，疑似“猎狐2014”与各国司法协作的延续<br>中国跨境执法存在不确定性与时效性 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-10042022125218.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-10042022125218.html</a>
+

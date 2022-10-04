@@ -93,7 +93,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 20: [2021-12-25 10:51:09+08:00 推文](https://twitter.com/realcaixia/status/1474573401775816710)
 
-感謝謝阳律师。<br><img style src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
+感謝謝阳律师。<br><img style="" src="https://pbs.twimg.com/media/FHa8sV-XsAAvAJg?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-25 20:27:29+08:00 推文](https://twitter.com/realcaixia/status/1474718440720150528)
 
@@ -165,7 +165,7 @@ Re @LipingHuang7 低端人口這詞是習在一次會議上首說，隨後就被
 
 ### 38: [2021-12-26 09:43:57+08:00 推文](https://twitter.com/realcaixia/status/1474918875292749827)
 
-1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style="" src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
+1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-26 22:32:03+08:00 推文](https://twitter.com/realcaixia/status/1475112175861653514)
 
