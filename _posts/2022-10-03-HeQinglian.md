@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-04
+date: 2022-10-05
 from: https://twitter.com/realTaoRay/status/1576604239094157313
 layout: post
 tags:
@@ -246,4 +246,48 @@ Re @xxj2040 人已老，志未衰，青春少年志犹存。😂😂<br>祝你�
 ### 58: [2022-10-04 09:32:48+08:00 推文](https://twitter.com/HeQinglian/status/1577109448694190081)
 
 Re @Tianshuihanyan @franktianxie 数年前，有熟人相约搬往佛州，房价便宜，气候比北边要温暖一些。<br>我查了一下，发现佛州最大的问题是飓风，每年都有，只是级别大小、为害程度。<br>好比夏威夷的地火，无法预知。
+
+### 59: [2022-10-04 20:50:25+08:00 推文](https://twitter.com/dinglili7/status/1577279977854472194)
+
+RT 绫波<br>美国福克斯新闻台的塔克·卡尔森说：“无论他们在NBC新闻上告诉你什么，泽连斯基都不是一个民主国家的独立领导人。不，根本不是，这是虚构的。泽连斯基是拜登政府的客户，拜登政府管理着他的国家。”<br><img style="" src="https://pbs.twimg.com/media/FeOfxAdWIAIjYTo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 60: [2022-10-04 21:50:41+08:00 推文](https://twitter.com/NAConservative9/status/1577295143258017798)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《维克多·戴维斯·汉森：文明残存的最薄的外表》<br><br>西方文明的伟大成就：共识政府、个人自由、与宗教信仰合作的理性主义、自由市场经济、不断的自我批判和审计 —— 是将人们从日常对国家暴力、随机犯罪、饥荒和往往不可饶恕的本性的担忧中解放出来。 <a href="https://nacr.info/WordPress/index.php/2022/10/04/the-thinnest-veneer-of-civilization-remains/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/10/04/the-thinnest-veneer-of-civilization-remains/</a><br><img style="" src="https://pbs.twimg.com/media/FeOrHs8XEAka9X0?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 61: [2022-10-04 22:02:01+08:00 推文](https://twitter.com/HeQinglian/status/1577297996152201217)
+
+Re @dinglili7 马斯克不是挑衅乌克兰人，只是站在中间立场提出一个他认为最好的方案。<br>涉及到如今的国际政治形势，就华人圈来说，基本是美、中两国国内政治的延续：不容异见。前者是美左的政治正确；后者是中国专制硬币的另一面，同体生物。
+
+### 62: [2022-10-04 22:10:43+08:00 推文](https://twitter.com/HeQinglian/status/1577300184136032260)
+
+Re @johnlen5 @dinglili7 各国是主权国家，“全球各国”就某国事务投票，管得太宽。<br>看来人人都有美国情结，希望成为美国那样的世界警察。<br>对中国人来说，目前最要紧的是先能够做本国的主，先拿到投票权，拿到后赶紧想法看紧投票箱。世界范围内的投票权，暂时放一放。<br>美国是世界警察，美国人民还没觉得世界哪里都有他的投票权。
+
+### 63: [2022-10-04 22:13:45+08:00 推文](https://twitter.com/HeQinglian/status/1577300949642649602)
+
+Re @johnlen5 @dinglili7 你忘记你自己加入的谴责队伍了？<br>当然，我的说法不妨碍你继续做美梦：全球各国的事务你都有权作主。每个人都有做梦的权利，尤其是在现实中地位相当卑微之时，做梦是唯一的人生乐趣。
+
+### 64: [2022-10-04 22:17:58+08:00 推文](https://twitter.com/HeQinglian/status/1577302008339496962)
+
+Re @Jumboriceball @Wu_Zhi 还有一途：俄军战略性后撤，但必须保护公投各州人民的安全——这得看俄内部各派是否有长远眼光。<br>双方准备长期战略对峙，北约各国继续为乌克兰军事长期输血。<br>时间站在哪一边，得看拜登民主党如何继续作践美国。
+
+### 65: [2022-10-04 22:30:14+08:00 推文](https://twitter.com/HeQinglian/status/1577305096240652288)
+
+Re @lzhn96836555 @realTaoRay 连经济学领域都是左疯一堆一堆地。大学研究所95%是左派.
+
+### 66: [2022-10-04 22:42:56+08:00 推文](https://twitter.com/HeQinglian/status/1577308293948661762)
+
+Re @dinglili7 北约这次也算拼了。
+
+### 67: [2022-10-04 22:49:29+08:00 推文](https://twitter.com/HeQinglian/status/1577309941710348289)
+
+Re @Isabel_3299 你应该再加进一个参数：是否挺川的Q信众——我相信重合率会相当高。
+
+### 68: [2022-10-04 23:56:07+08:00 推文](https://twitter.com/HeQinglian/status/1577326710751649794)
+
+Re @shenliangqing2 桌子不掀，还是在那上面吃饭，只是为了本国不还债找个正当理由。<br>此刻德国非常狼狈，与俄谈判的筹码被粉碎；国内一向政治正确的民众终因忍受不了油盐柴米齐上涨，开始聚众闹事，被三次瓜分过的波兰发现此时正值“宜将剩勇追穷寇”之时。
+
+### 69: [2022-10-05 00:18:27+08:00 推文](https://twitter.com/HeQinglian/status/1577332328497651713)
+
+Re @RealBeiMing 我在2015年欧洲难民潮发生之时就有言，守护民主比建立民主更难。
 
