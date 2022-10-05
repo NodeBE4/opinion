@@ -121,3 +121,7 @@ I dunno, it seems like complete nothing? It's unprecedented for the person in qu
 
 I think you misread – LordMonday is talking about VShojo, not Hololive, which somewhat infamously opened auditions for new EN members over a year ago with nary a peep as to where those have gone, while in the same timeframe rushing an ex-Hololive member into a new identity within less than 2 months.
 
+----- __854.3__ -----2022-10-05 14:22:55+08:00:
+
+The video she came back on her other identity for was a roleplay ASMR, which she doesn't really do as Fauna but did a lot of on her other channel. She also did it very soon after upgrading her setup, so it seems almost like a technical test that she posted on her alt instead of her main.
+
