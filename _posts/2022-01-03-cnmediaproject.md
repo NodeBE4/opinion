@@ -29,7 +29,7 @@ RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking
 
 ### 4: [2022-01-06 22:07:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1479092256426627072)
 
-RT Alex Dukalskis<br>Remarkable visual. Mentions of Xi in People's Daily front page headlines outpacing Mao at height of Cultural Revolution.<br><br>Christian Goebel: Updated version of a graph I posted in February. It visualises frontpage headline mentions of China's political leaders in the People's Daily between 1946 and 2021.<br><br><img style src="https://pbs.twimg.com/media/FIX9aaiXoAItbGD?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>Remarkable visual. Mentions of Xi in People's Daily front page headlines outpacing Mao at height of Cultural Revolution.<br><br>Christian Goebel: Updated version of a graph I posted in February. It visualises frontpage headline mentions of China's political leaders in the People's Daily between 1946 and 2021.<br><br><img style="" src="https://pbs.twimg.com/media/FIX9aaiXoAItbGD?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-07 03:34:07+08:00 推文](https://twitter.com/emily_sw1/status/1479174459110170627)
 
@@ -41,15 +41,15 @@ RT Lingling Wei 魏玲灵<br>Must read by @DSORennie: China’s online nationa
 
 ### 7: [2022-01-08 09:38:32+08:00 推文](https://twitter.com/cnmediaproject/status/1479628555139297280)
 
-In a bid to advance Chinese state narratives more credibly overseas, CCP media have encouraged more "flexible and personalized" use of individual accounts of employees on Twitter and Facebook. Our latest in Going Global. <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a><br><img style="" src="https://pbs.twimg.com/media/FIiyRelakAMBl2K?format=jpg&name=orig" referrerpolicy="no-referrer">
+In a bid to advance Chinese state narratives more credibly overseas, CCP media have encouraged more "flexible and personalized" use of individual accounts of employees on Twitter and Facebook. Our latest in Going Global. <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a><br><img style src="https://pbs.twimg.com/media/FIiyRelakAMBl2K?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 
-Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style="" src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-01-08 09:56:39+08:00 推文](https://twitter.com/cnmediaproject/status/1479633113131421696)
 
-Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style="" src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2022-01-08 10:49:38+08:00 推文](https://twitter.com/caixin/status/1479646447729479685)
 
