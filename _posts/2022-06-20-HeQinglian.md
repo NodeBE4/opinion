@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
@@ -241,7 +241,7 @@ Re 此情景让我想起一寓言：<br>有夫妻俩听说河豚美味但有毒�
 
 ### 57: [2022-06-24 08:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1540136026114609155)
 
-德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。
+德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。<br><br>华尔街日报中文网: 欧盟领导人周四同意让乌克兰成为加入该集团的正式候选国，为未来几年可能加入欧盟打开了大门。<br>同时，德国政府启动了其应对天然气短缺的三步计划中的第二步，距离天然气配给制更近一步。如果实行配给制可能将德国这个欧洲最大的经济体推入衰退。<br> <a href="https://on.wsj.com/3zUF0Dw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zUF0Dw</a>
 
 ### 58: [2022-06-24 21:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1540328841717379073)
 

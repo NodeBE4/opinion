@@ -431,3 +431,59 @@ Re @SagerWang8 @Yaochen64034657 俄勒冈州我没去过。<br>芝加哥大学�
 
 Re @xyquser 人最可笑的是以为“我认为”就是事实。<br>只有唯一赢家，不是“我认为”，是事实，非常清楚的事实。
 
+### 105: [2022-10-05 22:03:22+08:00 推文](https://twitter.com/HeQinglian/status/1577660724050104320)
+
+Re @xyquser 我在美国，看得比你清楚不知多少。因为首先受到冲击的是我们这些在美国的居住者。<br>到此为止，别再以为自己知道得比别人多，追随了民主党就成了正义化身，喋喋不休。
+
+### 106: [2022-10-05 22:05:42+08:00 推文](https://twitter.com/HeQinglian/status/1577661310652801027)
+
+Re @Yu_Ze_Cheng 有穆斯林世界的高生育率，就足以平衡了。<br>未来的世界是他们的。
+
+### 107: [2022-10-05 22:06:56+08:00 推文](https://twitter.com/HeQinglian/status/1577661620293091328)
+
+Re @PerthLee “他腦子不好使美國人會讓他下崗”——做梦吧？
+
+### 108: [2022-10-05 22:08:26+08:00 推文](https://twitter.com/HeQinglian/status/1577661997835059203)
+
+Re @dinglili7 最明智的方式是任何国家都不要参与中东事务，让他们自主自决。
+
+### 109: [2022-10-05 22:11:30+08:00 推文](https://twitter.com/HeQinglian/status/1577662770102812673)
+
+Re @mengyan12345 这可真是意外。我世纪之交前后去过日本四次，知道日本人不丢垃圾，随身带有塑料袋，将自产垃圾放置塑料袋内。这点我学会后一直保持至今。
+
+### 110: [2022-10-05 22:22:16+08:00 推文](https://twitter.com/HeQinglian/status/1577665478524297218)
+
+欧盟同意对俄罗斯实施第八轮制裁，包括：<br>禁止为俄罗斯公司提供法律、IT和工程服务；<br>禁止以高于既定上限的价格向第三国运输和销售俄罗斯石油；<br>禁止进口钢材、纸张、化工塑料和香烟；<br>评：第一项不知俄罗斯有多大需求；第二项是自杀式制裁；第三项没实际意义，德国与欧盟相关企业因能源短缺大量破产。
+
+### 111: [2022-10-05 22:25:51+08:00 推文](https://twitter.com/HeQinglian/status/1577666382233231361)
+
+Re @KELMAND1 @david_david1968 当年在车臣的反恐经验，西方媒体可以重温一下。
+
+### 112: [2022-10-05 22:29:32+08:00 推文](https://twitter.com/HeQinglian/status/1577667308889186309)
+
+Re @manee27027325 对带头大哥来说，重要的是表示服从的态度。
+
+### 113: [2022-10-05 22:32:05+08:00 推文](https://twitter.com/HeQinglian/status/1577667948688318466)
+
+Re @princeton_walk 当年默多克收购WSJ时，该报员工非常反对，直到承诺不干预采编业务及办报方针，该报员工才开始配合。<br>不过，近十余年来，资本集团都明显地将自家媒体当作宣传机器了。所谓新闻原则，早就被丢弃了。
+
+### 114: [2022-10-05 22:34:23+08:00 推文](https://twitter.com/HeQinglian/status/1577668529180082177)
+
+Re @mingshi_chen 其实是一道难受，欧盟这种愿陪敌人到地狱旅行的精神还是非常可贵的。世上很难找到这种盟友。
+
+### 115: [2022-10-05 22:37:15+08:00 推文](https://twitter.com/HeQinglian/status/1577669248415154176)
+
+Re @dinglili7 这是引导俄罗斯采取行动，还是重演北溪事件？那次管道被炸之前，美国通知过德国相关部门，说管道可能会被破坏——没说谁破坏。
+
+### 116: [2022-10-05 22:41:33+08:00 推文](https://twitter.com/HeQinglian/status/1577670332403654656)
+
+Re @KELMAND1 这血酬太低了。美国给非移的补助，每年高达5、6万美元。去年拜登准备赔偿精神受损的非移每人45万。
+
+### 117: [2022-10-05 22:43:50+08:00 推文](https://twitter.com/HeQinglian/status/1577670907392393216)
+
+Re @mingshi_chen 还是能爬回去的，按照华乌鸡血每天在推上宣示的战略目标，瓜分肢解俄罗斯之后，资源不要钱，任拿任取，欧盟可以重新获得再工业化。<br>因为能源钱省了，世界可以消费廉价的欧盟产品。
+
+### 118: [2022-10-05 23:02:21+08:00 推文](https://twitter.com/HeQinglian/status/1577675565993279489)
+
+👇文章主要内容：<br>俄乌冲突持续的时间越长，道德地理越难以预测。<br>早期迹象表明，非洲国家将站在美国及其西方盟友一边，坚决捍卫乌克兰和乌克兰的独立。在9月30日谴责俄侵乌的联合国投票中，17 个非洲国家弃权。<br>作者认为，这部分源于西方对国际规范的双重标准所产生的怨恨。<br><br>Adam Townsend: Now do you understand?<br><br>Analyzing the Russia-Ukraine Conflict from an African Standpoint | Council on Foreign Relations<br> <a href="https://www.cfr.org/blog/analyzing-russia-ukraine-conflict-african-standpoint" target="_blank" rel="noopener noreferrer">https://www.cfr.org/blog/analyzing-russia-ukraine-conflict-african-standpoint</a>
+
