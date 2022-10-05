@@ -145,7 +145,7 @@ Re @david_david1968 用大炮对准吧。我记得阿利托大法官曾有个发
 
 ### 33: [2022-06-28 08:21:24+08:00 推文](https://twitter.com/HeQinglian/status/1541577471098855426)
 
-你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。 <a href="https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/" target="_blank" rel="noopener noreferrer">https://www.euractiv.com/section/energy/news/czech-ambassador-we-will-burn-anything-we-can-to-keep-our-people-warm-this-winter/</a>
+你们还没看到这条：<br>冬天没气可用怎么办？东欧国家强硬表态：我们将焚烧所有东西取暖<br>环保理念梦碎一地。<br><br>zhix: @JianglinLi @zhixiangziyou @HeQinglian 自断后路的玩家，越玩越把自己整得越惨，<br>他们还笑得那样灿烂。<br>
 
 ### 34: [2022-06-28 08:35:55+08:00 推文](https://twitter.com/HeQinglian/status/1541581122429140992)
 
@@ -585,7 +585,7 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 
 ### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
 
 ### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
@@ -637,7 +637,7 @@ Re @ricco_chen @KELMAND1 这是纽约邮报，非纽约时报，纽约时报现�
 
 ### 156: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
 
-中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。<br><br>华尔街日报中文网: 中美两国领导人正将大国竞争的部分焦点转向比拼谁的国家增长更强劲。<br>很长时间以来，经济学家一直认为中国经济超越美国是迟早的事。但现在一些人指出，随着中国政府对经济的控制不断加强，加上生产力增长放缓和劳动力萎缩，中国也可能永远无法超越美国。<br> <a href="https://on.wsj.com/3QZLOpr" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3QZLOpr</a>
+中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。
 
 ### 157: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
 
