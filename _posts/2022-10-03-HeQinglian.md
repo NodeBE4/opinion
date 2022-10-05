@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-05
+date: 2022-10-06
 from: https://twitter.com/realTaoRay/status/1576604239094157313
 layout: post
 tags:
@@ -486,4 +486,20 @@ Re @mingshi_chen 还是能爬回去的，按照华乌鸡血每天在推上宣示
 ### 118: [2022-10-05 23:02:21+08:00 推文](https://twitter.com/HeQinglian/status/1577675565993279489)
 
 👇文章主要内容：<br>俄乌冲突持续的时间越长，道德地理越难以预测。<br>早期迹象表明，非洲国家将站在美国及其西方盟友一边，坚决捍卫乌克兰和乌克兰的独立。在9月30日谴责俄侵乌的联合国投票中，17 个非洲国家弃权。<br>作者认为，这部分源于西方对国际规范的双重标准所产生的怨恨。<br><br>Adam Townsend: Now do you understand?<br><br>Analyzing the Russia-Ukraine Conflict from an African Standpoint | Council on Foreign Relations<br> <a href="https://www.cfr.org/blog/analyzing-russia-ukraine-conflict-african-standpoint" target="_blank" rel="noopener noreferrer">https://www.cfr.org/blog/analyzing-russia-ukraine-conflict-african-standpoint</a>
+
+### 119: [2022-10-06 00:32:58+08:00 推文](https://twitter.com/HeQinglian/status/1577698372210786308)
+
+Re @OfcIQOD2XkWhsKt @KELMAND1 这张纸不能撕破。<br>撕破了俄罗斯也很难办：向北约正式宣战？<br>北约当然不会主动撕破，否则会引发战争升级（一半可能）。
+
+### 120: [2022-10-06 01:04:56+08:00 推文](https://twitter.com/HeQinglian/status/1577706416307142657)
+
+Re @dinglili7 这只是她从另一个角度向期前任约翰逊学来的话：<br>“普京会下台，普京必须下台，普京必须失败”——没什么创意啊。
+
+### 121: [2022-10-06 01:59:38+08:00 推文](https://twitter.com/HeQinglian/status/1577720180695670784)
+
+Re @ShuZhan37958441 中东本来就是欧洲之灯。<br>只是那地政治风险高，价格不便宜，因此才弃中东选俄气俄油。<br>愿意承担高价格，那当然会有，区别在这里。
+
+### 122: [2022-10-06 02:04:27+08:00 推文](https://twitter.com/HeQinglian/status/1577721392543440896)
+
+Re @gmshp777 不行，得成为世界老大才有定义权。比如美国这些年，就连超肥变性模特也定义为最美最政治正确的模特。<br>如果其他国家想争夺话语权，先得将老大打趴下。这比较困难，单打，美国赢；群殴，还是美国赢。
 
