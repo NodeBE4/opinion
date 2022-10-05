@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-05
+date: 2022-10-06
 from: https://twitter.com/realcaixia/status/1576979863579213829
 layout: post
 tags:
@@ -26,4 +26,12 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 ### 3: [2022-10-05 03:12:55+08:00 推文](https://twitter.com/realcaixia/status/1577376234891264027)
 
 为被中共迫害的良心犯呼吁：释放所有良心犯！释放陈兆志老师！<br><br>躺平人: 现年70岁的 #陈兆志，是北京科技大学的退休教师、发明家，被认为是中国知识产权维权第一人。2020年3月因为发表“中共病毒”被控“#寻衅滋事”批捕，判刑两年半，服刑期间又被追加起诉“发布反共反习言论”。再次呼吁各界关注，给与中共压力释放所有囚禁的良心犯！<br>#一人一推良心犯<br><br><img style="" src="https://pbs.twimg.com/media/FeMbD4pWYAAqRK_?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://msguancha.com/a/lanmu13/2022/0719/22097.html" target="_blank" rel="noopener noreferrer">https://msguancha.com/a/lanmu13/2022/0719/22097.html</a>
+
+### 4: [2022-10-06 00:51:45+08:00 推文](https://twitter.com/realcaixia/status/1577703096142430208)
+
+议报转发这篇文章很有意义。<br>请那些竭力钻进习帝朝“南书房行走”的投机笔杆子们，比如中国社科院历史研究院的鼓吹闭关锁国论之类的；比如温铁军鼓吹“人民经济”之类的，看看文革中摇唇鼓舌笔下翻云覆雨的三大笔杆子是啥下场吧。今天摆弄文字反常识反历史真相仰鼻息爬上去，明天必因此而得历史的宣判。<br><br>《议报》: 何仁勇 | “文革”初期三大笔杆子的最终命运<br> <a href="https://yibaochina.com/?p=247904" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247904</a>
+
+### 5: [2022-10-06 00:56:58+08:00 推文](https://twitter.com/realcaixia/status/1577704409076797443)
+
+这段历史应该让更多的中国人知道。<br><br>駁士Ⅱ: 那邊整天嚷嚷著反米的小粉紅看過來！當年若不是米帝阻止，蘇聯的核彈恐怕已經在你祖宗的頭上開花了，還可能蹦你這賤種出來到處高喊反米口號麼？<br><br><video src="https://video.twimg.com/ext_tw_video/1577565894590443520/pu/vid/544x800/Jwk8cOt8AYCTj6XI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1577565894590443520/pu/img/o9zEiqJ7VfzronaY.jpg"></video>
 
