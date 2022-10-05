@@ -265,7 +265,7 @@ Re 这封信用中国人一听就明白的话来说，两大要点：<br>1、坏
 
 ### 63: [2022-06-16 22:21:33+08:00 推文](https://twitter.com/RealBeiMing/status/1537440244986892288)
 
-RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>正念先生-东欧视角: 欧洲劝降团到达基辅<br><br><img style="" src="https://pbs.twimg.com/media/FVWz80uWAAAcW71?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVWz85sX0AAnLE0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 北明BeiMing<br>◆挑釁成禍，老闆在全國支持率太低惱羞成怒進退維谷;<br>◆輕諾寡信，弟兄們憤怒喧囂一陣發現制裁效率不彰本土經濟無法承受要退出;<br>◆利益趨同，俄中經濟合作夥伴開始建立;<br>◆重要!!——聖彼得堡“國際經濟論壇”將對峙達沃斯“世界經濟論壇”，提出人類秩序神聖原則，世界“均勢”機制建立中。<br><br>俄通社即日消息<br><img style="" src="https://pbs.twimg.com/media/FVYOU7XUUAAuR40?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-16 22:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1537442487224004608)
 
