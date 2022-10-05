@@ -503,3 +503,35 @@ Re @ShuZhan37958441 中东本来就是欧洲之灯。<br>只是那地政治风�
 
 Re @gmshp777 不行，得成为世界老大才有定义权。比如美国这些年，就连超肥变性模特也定义为最美最政治正确的模特。<br>如果其他国家想争夺话语权，先得将老大打趴下。这比较困难，单打，美国赢；群殴，还是美国赢。
 
+### 123: [2022-10-06 02:11:25+08:00 推文](https://twitter.com/HeQinglian/status/1577723146651799555)
+
+法国一直表示要引领欧洲进入军事防卫自力更生的新时代。但俄乌战争发生后，法国提供给乌克兰的武器占比很小。<br>最近在波、乌进行的实地分析表明，法国交付给乌克兰的武器份额在所有外国援助中所占比例还不到 2%，远远落后于美国的 49%，甚至远远落后于波兰的22%和德国的9%。 <a href="https://www.bbc.com/zhongwen/simp/world-63116370" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-63116370</a>
+
+### 124: [2022-10-06 02:12:50+08:00 推文](https://twitter.com/HeQinglian/status/1577723504908275738)
+
+Re 援助乌克兰的共有44国（美国说法），除这四国之外，包括英国在内的40国援助占比共为18%。
+
+### 125: [2022-10-06 04:13:37+08:00 推文](https://twitter.com/HeQinglian/status/1577753900383408134)
+
+Re @Cherokee_TX @ShuZhan37958441 对这些人，说这些道理没用。<br>自己忍十天半月都要骂人，却指望别人为乌克兰“大义”灭自己需求——都是这类主。
+
+### 126: [2022-10-06 04:25:28+08:00 推文](https://twitter.com/HeQinglian/status/1577756882592301056)
+
+Re @KELMAND1 所以，我就好奇，他买推特干吗？花钱提供平台让人骂自己？<br>最好的办法是做了推特主人之后就闷声发大财，不再就公共事务发言，否则，总有人不满意要开骂。删贴拉黑，普通人可以，推特老板不行。
+
+### 127: [2022-10-06 04:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1577757748187615243)
+
+Re @KELMAND1 难道最近乌克兰不听话，要敲打敲打？波兰总统刚说过，<br>允许北约在波兰布署核武器逼普京谈判<br>小泽日前宣布决不谈判，发生了冲突？<br>大家分析一下，这是什么路数。<br><br>Newsmax: BREAKING NEWS: The President of Poland announced he is in talks right now to potentially allow NATO to put Nuclear weapons on Polish soil in an effort to deter Russia.<br><br>Stay tuned for more on this story.<br><br><video src="https://video.twimg.com/ext_tw_video/1577667520063885315/pu/vid/1280x720/HtdBIlzPkBx9Uqsu.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1577667520063885315/pu/img/p0dQas9YitBNZuf7.jpg"></video> <a href="https://bit.ly/3xH3SLZ" target="_blank" rel="noopener noreferrer">https://bit.ly/3xH3SLZ</a>
+
+### 128: [2022-10-06 04:34:56+08:00 推文](https://twitter.com/HeQinglian/status/1577759262398418965)
+
+Re @Wu_Zhi @KELMAND1 你还只是开始？<br>我这里看下来，郭-拜-乌粉是一体，有位女士，多年就是这么走下来的。我实在不愿意再看见这，将她拉黑了。
+
+### 129: [2022-10-06 04:38:26+08:00 推文](https://twitter.com/HeQinglian/status/1577760144645132288)
+
+Re @Lucs24659702 我们这里今年十月上旬，就象往年的11月上旬，寒冷提前一个月来到，这还叫全球变暖？<br>本来今年五月才回暖，也比平常晚了大半个月。<br>希望美国的核按纽交到他手里之后，有人手把手教他操作。
+
+### 130: [2022-10-06 04:40:25+08:00 推文](https://twitter.com/HeQinglian/status/1577760642701955073)
+
+Re @gmshp777 台湾的民主就出息成这样了？
+
