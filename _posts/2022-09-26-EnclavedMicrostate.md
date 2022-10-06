@@ -129,3 +129,7 @@ The video she came back on her other identity for was a roleplay ASMR, which she
 
 Well, it is also true, but my read of it wasn't 'getting people who were already content creators' but rather 'scooping some of the biggest names', particularly in light of their audition process being so opaque.
 
+----- __854.5__ -----2022-10-06 15:10:17+08:00:
+
+So two things: first I used 'scooped' rather than 'scouted' because I am very aware the latter has a very specific meaning. Secondly, I did miswrite a bit – my intention was to indicate that a 1+ year lag between audition and debut, assuming debut even happens, is *very* unusual and suggests some kind of shenanigans up to and including the new members simply not existing, but if so then VShojo has done nothing to indicate that it's cancelled, or to assure people that new members are coming.
+
