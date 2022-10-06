@@ -75,7 +75,7 @@ Thanks @nprscottsimon for having me on NPR’s morning program.<br><br>Scott Sim
 
 ### 15: [2021-12-11 22:57:55+08:00 推文](https://twitter.com/nathanlawkc/status/1469682865197793281)
 
-Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocracy remark, it's surely a timely read.<br>The story of Hong Kong is narrated through my life. It is a touching, warm, and insightful touch on why we should protect freedom and democracy. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style src="https://pbs.twimg.com/media/FGVcAqzXwAQUAsF?format=jpg&name=orig" referrerpolicy="no-referrer">
+Friends in #NA:<br>“#Freedom” is out now. Reflecting on my #SummitforDemocracy remark, it's surely a timely read.<br>The story of Hong Kong is narrated through my life. It is a touching, warm, and insightful touch on why we should protect freedom and democracy. <a href="http://bit.ly/Freedom-Book" target="_blank" rel="noopener noreferrer">http://bit.ly/Freedom-Book</a><br><img style="" src="https://pbs.twimg.com/media/FGVcAqzXwAQUAsF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-12 04:32:00+08:00 推文](https://twitter.com/nathanlawkc/status/1469766940432510977)
 

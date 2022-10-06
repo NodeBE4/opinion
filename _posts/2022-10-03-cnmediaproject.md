@@ -63,3 +63,15 @@ Re Might it instead have been "Xi Jinping Concept” (习近平理念)? . . . Al
 
 Self-criticism, or 自我批评, of this nature is chilling to read in 21st-century China. But the "letter of self-confession," or jiantaoshu (检讨书), is terribly common, and possibly one of the most prolific genres under CCP rule.<br><br>Muyi Xiao: We are making public for the first time the contents of the apology letter that Dr. Li’s employer made him write.<br> <a href="https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter.html</a>
 
+### 13: [2022-10-06 17:59:57+08:00 推文](https://twitter.com/cnmediaproject/status/1577961854064013312)
+
+Re Aside from the language in the letter, it's important to note of course the date: December 30. This is 3 full weeks before Xi Jinping issued his "important instructions" on the virus and the official state media got on board.<br><img style="" src="https://pbs.twimg.com/media/FeYL5Q3aAAA9Y08?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-10-06 18:02:15+08:00 推文](https://twitter.com/cnmediaproject/status/1577962433028980736)
+
+Re But even then, this major story with implications for the world was still downplayed for days. For 4 days from January 22—25 there was NO MENTION of Covid in the People's Daily. Xi Jinping propaganda took the central position. More from Qian Gang: <a href="https://chinamediaproject.org/2020/02/24/what-ails-the-peoples-daily/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2020/02/24/what-ails-the-peoples-daily/</a>
+
+### 15: [2022-10-06 18:05:29+08:00 推文](https://twitter.com/cnmediaproject/status/1577963244781989889)
+
+Re It's important also to note that the Li Wenliang letter explicitly mentions the 2003 SARS epidemic — because that was meant to have been the episode from which China learned the hard lesson about grappling with breaking crises openly and concertedly.
+
