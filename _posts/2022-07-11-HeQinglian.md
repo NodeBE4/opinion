@@ -65,7 +65,7 @@ Re @dongle_smith “欧洲逼和团去了几次，热心金毛突然下台”，
 
 ### 13: [2022-07-11 21:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1546484765561393152)
 
-消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。<br><br>Qing: 几个月前，比尔·盖茨（ Bill Gates ）的一家科技初创公司将数百万只转基因蚊子放归野外。如今，美国各地的蚊子对极其罕见的致命病毒呈阳性反应，其中一些病毒在美国之前从未被报道过。⬇️<br><br><img style="" src="https://pbs.twimg.com/media/FXVQwawUcAAjZI5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+消息来源应该是这：<br>比尔盖茨在野外释放数百万蚊子后，美国数月内蚊子对罕见、致命的病毒检测呈阳性<br>Mosquitoes Testing Positive to Rare, Deadly Viruses in US Months After Bill Gates Released Millions in The Wild<br><br>推主们可看这位Qing的串推。<br>美国有钱的疯子狂人多。 <a href="https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/" target="_blank" rel="noopener noreferrer">https://newspunch.com/mosquitoes-testing-positive-to-rare-deadly-viruses-in-us-months-after-bill-gates-released-millions-in-the-wild/</a>
 
 ### 14: [2022-07-11 21:39:30+08:00 推文](https://twitter.com/HeQinglian/status/1546489359276417026)
 
@@ -293,7 +293,7 @@ Re @KELMAND1 从制造话题的效果来看，李克强政变被炒作得很成�
 
 ### 70: [2022-07-13 20:59:03+08:00 推文](https://twitter.com/HeQinglian/status/1547203957801598978)
 
-如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。<br><br>DW 中文- 德国之声: 中国海关总署发布的数据显示，6月份中国进出口同比增长14.3%；前6个月进出口同比增长9.4%。<br><br>海关总署新闻发言人李魁文在新闻发布会上表示，外贸企业复工复产有序推进，特别是长三角等地区进出口快速恢复，带动中国全国外贸整体增速明显回升。<br><br><img style="" src="https://pbs.twimg.com/media/FXiTt7ZXkAEoGsA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+如今这世界，领导一个国家，只要奉行胡锦涛金句“不折腾”，或者少折腾，就能坐着赢。<br>中国的清零算是折腾，如今就是少折腾一下，与西方世界那大折腾相比，就出口增长了——这可以今年北京没预料到的，一直说出口因疫情，会在疫情好转时下降。
 
 ### 71: [2022-07-13 21:01:56+08:00 推文](https://twitter.com/HeQinglian/status/1547204680224317440)
 
@@ -305,7 +305,7 @@ Re @JiangShangrong 通过他国购买后贴牌转让的算不算？<br>壳牌公
 
 ### 73: [2022-07-13 23:23:19+08:00 推文](https://twitter.com/gliderhook/status/1547240261042012162)
 
-RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。
+RT 滑翔戟<br>鼓掌还要缓，一方面看战局发展和泽伦斯基到时候的“春秋评价”，另一方面，大家都是成年人，话要说全：天然气、贵金属、粮食、第三方转运都要禁，这才是全部真相——尤其转运，德国切割硬度达不到对付刚玉的莫氏9级，印度就达不到切玻璃的6级，中国干脆不考虑，切塑料戏法也不演了。<br><br>DW 中文- 德国之声: 德国国务秘书库基斯在澳大利亚悉尼出席全球能源论坛时表示，德国很快将不再从俄罗斯进口煤炭和石油。他说，德国希望从8月1日起不再进口俄罗斯的煤炭，从12月31日起停止从俄罗斯进口石油。他说，这将从根本上改变德国的能源供应。<br><br>德国从俄罗斯进口的煤炭和石油曾在国内需求量中的占比达到40%。<br><br><img style="" src="https://pbs.twimg.com/media/FXi_44JWYAEBp1X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 74: [2022-07-13 23:31:19+08:00 推文](https://twitter.com/HeQinglian/status/1547242273640947712)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -505,7 +505,7 @@ Re @Wu_Zhi @JianglinLi @RealBeiMing @david_david1968 @ngexp 这倒不是。2017�
 
 ### 123: [2022-07-15 01:28:31+08:00 推文](https://twitter.com/HeQinglian/status/1547634157076918275)
 
-RT He Qinglian<br>斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
+斯里兰卡毁于中国债务陷阱还是绿色农业？<br>中国债务陷阱，指中国利用斯前总统的基建野心不断放贷，于2017年利用债转股方式，控制了汉班托塔港70%的股权与周边设施99年的租用权，完成了珍珠链战略<br>本次危机起于2020年现任总统不顾国情，强行推广绿色农业，造成全局性的经济灾难 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07142022124112.html</a>
 
 ### 124: [2022-07-15 03:56:00+08:00 推文](https://twitter.com/HeQinglian/status/1547671274280742914)
 
@@ -537,7 +537,7 @@ Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰�
 
 ### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
 
-彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。<br><br>Bloomberg: Is the US in a recession? Here's what you need to know and how to prepare<br> <a href="https://trib.al/L6SduXt" target="_blank" rel="noopener noreferrer">https://trib.al/L6SduXt</a>
 
 ### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 
