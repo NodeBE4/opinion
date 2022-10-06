@@ -41,7 +41,7 @@ Re @GuRu_999999 请你拿出你的论文来。
 
 ### 7: [2022-07-26 00:12:55+08:00 推文](https://twitter.com/realcaixia/status/1551601399795965953)
 
-常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。
+常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我的车周围围满了车，有公安、特警标记，还有社会车辆，刚刚还有穿着防化服的人来敲我的车窗，天已经黑了，请大家关注我和孩子及我母亲的安危<br><br><img style="" src="https://pbs.twimg.com/media/FYg3GtUVUAEuEPh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-07-26 20:50:08+08:00 推文](https://twitter.com/realcaixia/status/1551912755179012096)
 
