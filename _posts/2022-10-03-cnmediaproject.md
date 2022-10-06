@@ -59,3 +59,7 @@ Re At that time, we looked at several possibilities, which included Xi Jinping T
 
 Re Might it instead have been "Xi Jinping Concept” (习近平理念)? . . . All of these seemingly pointless questions are in fact very important within the CCP's political culture and history. Understanding that is critical to understanding what comes at the 20th Nat. Congress.
 
+### 12: [2022-10-06 17:49:53+08:00 推文](https://twitter.com/cnmediaproject/status/1577959320683442176)
+
+Self-criticism, or 自我批评, of this nature is chilling to read in 21st-century China. But the "letter of self-confession," or jiantaoshu (检讨书), is terribly common, and possibly one of the most prolific genres under CCP rule.<br><br>Muyi Xiao: We are making public for the first time the contents of the apology letter that Dr. Li’s employer made him write.<br> <a href="https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter.html</a>
+
