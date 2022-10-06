@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-05
+date: 2022-10-06
 from: https://twitter.com/cnmediaproject/status/1576788121672634368
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re And a helpful rundown of the schedule this month as well.<br><img style="" sr
 ### 6: [2022-10-05 11:16:31+08:00 推文](https://twitter.com/cnmediaproject/status/1577497937525239808)
 
 Re This piece by Martin Wolf in the FT is also well worth a read. "Ten years is always enough." <a href="https://www.ft.com/content/fa1510a3-0ea9-4eab-a67c-392c7704fdb1" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/fa1510a3-0ea9-4eab-a67c-392c7704fdb1</a>
+
+### 7: [2022-10-06 09:26:06+08:00 推文](https://twitter.com/cnmediaproject/status/1577832540056211456)
+
+Our latest: a fascinating example of how the Chinese leadership appropriates popular memes from social media to incorporate them into "mainstream" (CCP-led) propaganda. <a href="https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/</a>
+
+### 8: [2022-10-06 10:48:32+08:00 推文](https://twitter.com/cnmediaproject/status/1577853284513361920)
+
+"Lying down" (躺平) rose in popularity in 2021 in China as an anti-battle-cry against ambition. Now the CCP leadership is turning the buzzword into a harsh critique of those who suggest the country should relax Covid-related restrictions. <a href="https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/</a>
 

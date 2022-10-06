@@ -555,3 +555,51 @@ Re @JingZhang2020 @LinYueYang 悼念李怡。<br>于我来说，他的形象永�
 
 Re @Hupsoon22 @aaronliu1974 @KELMAND1 没谈这些，谈的是乌克兰的地下经济，乌克兰的文化秉性，包括画作《第聂伯河的月夜》。<br>乌克兰自身的问题，无论亲俄还是亲美，都解决不了。
 
+### 136: [2022-10-06 08:34:26+08:00 推文](https://twitter.com/HeQinglian/status/1577819537864638464)
+
+Re @luxiaoshan @gmshp777 👍<br>就是这理儿。不是正从自家内部烂起么？而且特别快。
+
+### 137: [2022-10-06 08:37:47+08:00 推文](https://twitter.com/HeQinglian/status/1577820378969395200)
+
+Re @YaxueCao 那时，不仅习仲勋被吹上天，彭丽媛也被看作中国将实行开明政治的重要促进因素，见纽约时报纪思道文章。
+
+### 138: [2022-10-06 08:39:11+08:00 推文](https://twitter.com/HeQinglian/status/1577820731940937728)
+
+Re @zhuang_matthew @Lucs24659702 从古到今，气候难道没变化？
+
+### 139: [2022-10-06 08:45:07+08:00 推文](https://twitter.com/Lucs24659702/status/1577822224987279361)
+
+RT Lucs<br>杰西：美国政府用我们的税款资助了一个性交易网络<br><br> 拜登的国土安全部向“非政府”组织 MVM Inc. 支付了 1.36 亿美元，将非法移民少女贩运给“赞助商”<br><video src="https://video.twimg.com/ext_tw_video/1577822155831537666/pu/vid/816x464/H_x3XDd5fL6bwdA0.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1577822155831537666/pu/img/ZdPTA1Kvieb4ms2i.jpg"></video>
+
+### 140: [2022-10-06 08:45:49+08:00 推文](https://twitter.com/HeQinglian/status/1577822400800079876)
+
+Re @enoughtalk4 @KELMAND1 啊？还有这一说？纽约时报这两年一直在庆祝电子版订户快两百万，不会也是这个原因吧？
+
+### 141: [2022-10-06 08:53:32+08:00 推文](https://twitter.com/HeQinglian/status/1577824342771224577)
+
+美国卫生与公众服务部（Health and Human Services ，HHS）购买用于放射性和核紧急情况的药物<br>为了在放射性和核紧急情况后更好地为挽救生命做好准备，HHS正从 Amgen USA Inc 购买药物 Nplate； Nplate 被批准用于治疗成人和儿童患者 (ARS) 因急性辐射综合征引发的血细胞损伤。 <a href="https://aspr.hhs.gov/newsroom/Pages/NewsRoomHome.aspx" target="_blank" rel="noopener noreferrer">https://aspr.hhs.gov/newsroom/Pages/NewsRoomHome.aspx</a>
+
+### 142: [2022-10-06 08:56:14+08:00 推文](https://twitter.com/HeQinglian/status/1577825023653453824)
+
+Re 在美国的拜乌粉如果得到白宫发放的Nplate，在网上周知一下，让大家为你们庆祝。
+
+### 143: [2022-10-06 08:58:14+08:00 推文](https://twitter.com/HeQinglian/status/1577825526625992707)
+
+Re @YangYan60107172 @KELMAND1 这事我还是要为乌克兰说一句，有心无力，缺乏技术能力与技术操作人员。<br>这事不是演戏。
+
+### 144: [2022-10-06 09:04:59+08:00 推文](https://twitter.com/HeQinglian/status/1577827225105219584)
+
+Re @zJdKxP9pi4RHTXJ 面对恶鬼一样的乌鸡血与拜粉，你这种要求，是让保守派引颈就戳，也是以善为名的作恶。<br>人呢，有时候说话过过脑子。<br>我其实想知道HHS买的这些药物，除了政治高层能够分享之外，是否也照顾一下追随者，这些人好辛苦，指鹿为马、颠倒黑白，总得有点奖赏吧？<br>你拿到了一片吗？
+
+### 145: [2022-10-06 09:15:54+08:00 推文](https://twitter.com/HeQinglian/status/1577829969916530688)
+
+Re @mingshi_chen 原来又是一波概念炒作。不是刚炒作过地下防空洞吗？那是平民付不起的豪奢，还是炒药划算。<br>HHS一带头，大家跟风，这药肯定每天都上涨，最后一片难求。
+
+### 146: [2022-10-06 09:17:06+08:00 推文](https://twitter.com/HeQinglian/status/1577830272057446401)
+
+Re @li63151848 起码70%。纽约、旧金山、洛杉矶是华人主要聚集之地，多数都投民主党。
+
+### 147: [2022-10-06 09:21:20+08:00 推文](https://twitter.com/HeQinglian/status/1577831337712648194)
+
+Re @li63151848 我有位熟人的女儿，耶鲁生，声泪俱下地支持BLM，说他们受压迫，就是我们亚裔受压迫。
+

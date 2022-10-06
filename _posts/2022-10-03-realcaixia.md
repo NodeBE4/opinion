@@ -35,3 +35,11 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 
 这段历史应该让更多的中国人知道。<br><br>駁士Ⅱ: 那邊整天嚷嚷著反米的小粉紅看過來！當年若不是米帝阻止，蘇聯的核彈恐怕已經在你祖宗的頭上開花了，還可能蹦你這賤種出來到處高喊反米口號麼？<br><br><video src="https://video.twimg.com/ext_tw_video/1577565894590443520/pu/vid/544x800/Jwk8cOt8AYCTj6XI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1577565894590443520/pu/img/o9zEiqJ7VfzronaY.jpg"></video>
 
+### 6: [2022-10-06 09:54:17+08:00 推文](https://twitter.com/realcaixia/status/1577839629457301505)
+
+先把推友推出的视频推特放在这里，等20大开会看看代表们怎么选举；怎么表决大会报告、修改党章和中纪委工作报告。<br><br>穆桂英: 毛泽东在中共九大的讲话，大流氓本性显露无遗.<br><br><video src="https://video.twimg.com/ext_tw_video/1577432657436168193/pu/vid/544x544/4r-x3IQn7EZN_9eP.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1577432657436168193/pu/img/Qo0WQH8-tBUqWXv4.jpg"></video>
+
+### 7: [2022-10-06 09:57:32+08:00 推文](https://twitter.com/realcaixia/status/1577840446755291137)
+
+一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br> <a href="https://twitter.com/JingzhouTao/status/1577498013055954944" target="_blank" rel="noopener noreferrer">https://twitter.com/JingzhouTao/status/1577498013055954944</a>
+
