@@ -47,3 +47,15 @@ Our latest: a fascinating example of how the Chinese leadership appropriates pop
 
 "Lying down" (躺平) rose in popularity in 2021 in China as an anti-battle-cry against ambition. Now the CCP leadership is turning the buzzword into a harsh critique of those who suggest the country should relax Covid-related restrictions. <a href="https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/</a>
 
+### 9: [2022-10-06 14:39:38+08:00 推文](https://twitter.com/cnmediaproject/status/1577911442539687936)
+
+It's not often that we promote a post that is more than 5 years old. But CMP's analysis in March 2017 of how Xi Jinping MIGHT POSSIBLY frame his "banner term" and seal his legacy is a crucial look at the 20th National Congress thru what might have been. <a href="https://chinamediaproject.org/2017/03/19/xi-jinping-gotten-crown/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2017/03/19/xi-jinping-gotten-crown/</a>
+
+### 10: [2022-10-06 14:43:28+08:00 推文](https://twitter.com/cnmediaproject/status/1577912404771762176)
+
+Re At that time, we looked at several possibilities, which included Xi Jinping Theory" (习近平理论) and "Xi Jinping Strategy" (习近平战略).
+
+### 11: [2022-10-06 14:46:30+08:00 推文](https://twitter.com/cnmediaproject/status/1577913170441932801)
+
+Re Might it instead have been "Xi Jinping Concept” (习近平理念)? . . . All of these seemingly pointless questions are in fact very important within the CCP's political culture and history. Understanding that is critical to understanding what comes at the 20th Nat. Congress.
+
