@@ -125,3 +125,7 @@ I think you misread – LordMonday is talking about VShojo, not Hololive, which 
 
 The video she came back on her other identity for was a roleplay ASMR, which she doesn't really do as Fauna but did a lot of on her other channel. She also did it very soon after upgrading her setup, so it seems almost like a technical test that she posted on her alt instead of her main.
 
+----- __854.4__ -----2022-10-06 13:22:20+08:00:
+
+Well, it is also true, but my read of it wasn't 'getting people who were already content creators' but rather 'scooping some of the biggest names', particularly in light of their audition process being so opaque.
+
