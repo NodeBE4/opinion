@@ -221,7 +221,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 52: [2022-04-28 03:28:55+08:00 推文](https://twitter.com/HeQinglian/status/1519398205733093378)
 
-突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？
+突发新闻：<br>意大利能源巨头埃尼集团将在 Gazprombank 开设卢布账户。<br>问：这是G7集团成员，欧盟怎么办？<br><br>The Spectator Index: BREAKING: Italian energy giant Eni set to open rubles accounts with Gazprombank<br>
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
@@ -337,7 +337,7 @@ Re @JianglinLi @wDYMdxKfYqByh1E @Wu_Zhi @moyehnyy @david_david1968 比烂，没�
 
 ### 81: [2022-04-28 20:46:50+08:00 推文](https://twitter.com/HeQinglian/status/1519659404144037888)
 
-你这道理可以用于左派政治：<br>为什么福利与不当政治赔偿会受不劳而获者欢迎？<br>因为这些人不需要努力向上，只需要声称自己是受压迫（或者祖上受压迫）的弱势群体，社会欠了他们的就行。<br>这些人的代表口号由BLM大纽约地区负责人2020年5月在电视上公开提出：“如果不给我们所需要的，我们就毁了这个世界”。
+你这道理可以用于左派政治：<br>为什么福利与不当政治赔偿会受不劳而获者欢迎？<br>因为这些人不需要努力向上，只需要声称自己是受压迫（或者祖上受压迫）的弱势群体，社会欠了他们的就行。<br>这些人的代表口号由BLM大纽约地区负责人2020年5月在电视上公开提出：“如果不给我们所需要的，我们就毁了这个世界”。<br><br>seadog: 转锁推网友：为什么很多女人会长期反复被男人骗？<br>因为他们的要求，只有骗子才能满足，正常人满足不了<br>
 
 ### 82: [2022-04-28 20:51:17+08:00 推文](https://twitter.com/HeQinglian/status/1519660524375580672)
 
@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。 <a href="https://twitter.com/kingbull199/status/1519672901183500288" target="_blank" rel="noopener noreferrer">https://twitter.com/kingbull199/status/1519672901183500288</a>
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
