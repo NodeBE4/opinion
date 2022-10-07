@@ -91,3 +91,23 @@ In turn, if there are institutional arguments for why China and Europe diverged 
 
 This is where things move beyond my specific expertise, unfortunately, as I'm someone more on the institutional than the technical side of things.
 
+----- __861.3__ -----2022-10-08 05:39:27+08:00:
+
+I'm afraid my specific expertise is largely confined to the period of the Qing and the pre-Qing Manchu ascendancy; that said I do think there is credibility to the idea that the late Ming/early Qing parity was more a process of importation than innovation. However I don't feel qualified to comment on the full longue duree back into pre-Ming states.
+
+----- __861.4__ -----2022-10-08 05:41:20+08:00:
+
+It's an interesting question and one that may find a more helpful answer from a Europe specialist. My impression is that naval developments certainly did drive a lot of innovation at least in the organisational sphere, but I don't know how well that translates to firearms technology as well.
+
+----- __861.5__ -----2022-10-08 05:42:43+08:00:
+
+We're talking matchlock arquebuses and cast, non-bored cannons. In terms of basic techniques, artillery was about to lag behind Europe, while small arms were some six decades out of date, with the flintlock starting to predominate in Europe by 1700.
+
+----- __861.6__ -----2022-10-08 05:44:13+08:00:
+
+I don't think the Darwinian argument necessarily holds a lot of water. The Qing certainly did face existential threats but they perceived them as internal. I'd also stress that with the argument as formulated by Andrade, the Zunghar Wars, even in their final stages when the Zunghars did *not* existentially threaten the Qing, were the last hotbed of innovation, whereas the other late Qing conflicts were not, not even the White Lotus Rebellion which was not a full-on existential threat, but still threatening enough to warrant huge expenditures.
+
+----- __861.7__ -----2022-10-08 05:44:26+08:00:
+
+Well, hardly ever.
+

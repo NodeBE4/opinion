@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 
 ### 7: [2022-10-06 09:57:32+08:00 推文](https://twitter.com/realcaixia/status/1577840446755291137)
 
-一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br>
+一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br> <a href="https://twitter.com/JingzhouTao/status/1577498013055954944" target="_blank" rel="noopener noreferrer">https://twitter.com/JingzhouTao/status/1577498013055954944</a>
 
 ### 8: [2022-10-06 22:41:27+08:00 推文](https://twitter.com/realcaixia/status/1578032692720848896)
 
