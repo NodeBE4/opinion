@@ -111,3 +111,11 @@ I don't think the Darwinian argument necessarily holds a lot of water. The Qing 
 
 Well, hardly ever.
 
+----- __861.8__ -----2022-10-08 05:59:38+08:00:
+
+So this is something that first requires a counter-question: were not the Zunghars, too, not particularly well-equipped? And yet the formulation, as phrased, states that the Zunghar wars were the last one requiring innovation in military technology.
+
+The other thing to note is that Burma certainly did have access to European weapons. Quoting a footnote from Yingcong Dai's 'A Disguised Defeat: The Myanmar Campaign of the Qing Dynasty':
+
+> In the 1760s, Myanmar had been exposed to Western penetration for many years. From India, the British were eager to expand into Myanmar, which brought them into conflict with the French, who were also proactive in imposing their influence on this country. Through trade with the Western countries, Myanmar had ready access to the advanced European weapons. During the war, they had used all these weapons, along with traditional weaponry and war vehicles such as elephants to battle the Manchu Bannermen, who still used old-fashioned fire weapons and bows. The Myanmar armies even used land mines in the war, which gave the Qing troops much headache. There are a number of accounts on the Myanmar's use of the Western weaponry in *Mian dang* (e.g. the 33rd year, 2/66; 2/89).
+
