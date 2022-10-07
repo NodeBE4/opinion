@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-10-06
+date: 2022-10-07
 from: https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/
 layout: post
 tags:
@@ -50,4 +50,24 @@ Lamentable.
 Let's draft David Hogg to go fight the war he clearly wants. 
 
 I do not understand the American fascination with stupid kids, such as Hogg, who say stupid things, such as [this](https://twitter.com/davidhogg111/status/1577628899785117696?s=19).
+
+### 364: [Chechen warlord Ramzan Kadyrov ‘promoted’ to general by Putin](https://old.reddit.com/r/politicalwarfare/comments/xxk3c8/chechen_warlord_ramzan_kadyrov_promoted_to/), submitted on 2022-10-07 07:53:55+08:00.
+
+----- __364.1__ -----2022-10-07 07:54:28+08:00:
+
+Kadyrov is to Russia what Uday Saddam Hussein was to Iraq.
+
+### 365: [Aparece OVNI en Valle Hermoso Tamaulipas](https://old.reddit.com/r/N_N_N/comments/xxmhob/aparece_ovni_en_valle_hermoso_tamaulipas/), submitted on 2022-10-07 09:50:55+08:00.
+
+----- __365.1__ -----2022-10-07 09:56:47+08:00:
+
+Compare: https://youtu.be/2GRjgBVw9Pk?t=31
+
+### 366: [The CIA Thought Putin Would Quickly Conquer Ukraine. Why Did They Get It So Wrong?](https://old.reddit.com/r/politicalwarfare/comments/xxnlia/the_cia_thought_putin_would_quickly_conquer/), submitted on 2022-10-07 10:45:40+08:00.
+
+----- __366.1__ -----2022-10-07 10:49:13+08:00:
+
+> “There was no reporting on the corruption in the Russian system,” said the former senior intelligence official. “They missed it, and ignored any evidence of it.”
+
+You miss 100% of what you can't see.  And the United States couldn't see much of anything, because on an overreliance on sigint at the expense of actual targeting by actual operatives in denied areas.
 
