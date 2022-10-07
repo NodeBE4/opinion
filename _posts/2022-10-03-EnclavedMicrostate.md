@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-04
+date: 2022-10-07
 from: https://old.reddit.com/r/AskHistorians/comments/xv5nlc/what_would_be_considered_the_first_known_instance/
 layout: post
 tags:
@@ -56,4 +56,10 @@ Sorry, but your submission has been removed because we [don't allow hypothetical
 Alternatively, if you didn't mean to ask a question seeking a short answer or a list of examples, but have a more complex question in mind, feel free to repost a reworded question. Examples of questions appropriate for the 'Short Answers' thread would be "Who won the 1932 election?" or "What are some famous natural disasters from the past?". Versions more appropriate as standalone questions would be "How did FDR win the 1932 election?", or "In your area of expertise, how did people deal with natural disasters?" If you need some pointers, be sure to check out this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/g3pbdv/rules_roundtable_viii_asking_better_questions_to/) on asking better questions. 
 
 Finally, don’t forget that there are many subreddits on Reddit aimed at answering your questions. Consider /r/AskHistory (which has lighter moderation but similar topic matter to /r/AskHistorians), /r/explainlikeimfive (which is specifically aimed at simple and easily digested answers), or /r/etymology (which focuses on the origins of words and phrases).
+
+### 860: [[miniature] posting pictures and videos](https://old.reddit.com/r/HobbyDrama/comments/xxrk90/miniature_posting_pictures_and_videos/), submitted on 2022-10-07 14:18:42+08:00.
+
+----- __860.1__ -----2022-10-07 15:17:02+08:00:
+
+In the Scuffles threads, but not as top-levels. If you have any future questions about subreddit business please direct them to the monthly Town Hall threads.
 
