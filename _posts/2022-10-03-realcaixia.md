@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 
 ### 7: [2022-10-06 09:57:32+08:00 推文](https://twitter.com/realcaixia/status/1577840446755291137)
 
-一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br>
+一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br> <a href="https://twitter.com/JingzhouTao/status/1577498013055954944" target="_blank" rel="noopener noreferrer">https://twitter.com/JingzhouTao/status/1577498013055954944</a>
 
 ### 8: [2022-10-06 22:41:27+08:00 推文](https://twitter.com/realcaixia/status/1578032692720848896)
 
@@ -62,4 +62,20 @@ The Chinese Christians Fighting for Hong Kong <a href="https://providencemag.c
 ### 12: [2022-10-08 03:23:10+08:00 推文](https://twitter.com/realcaixia/status/1578465980069474304)
 
 看清了中文字才知道，这些全身黑的荷枪人原来不是欧美大导演雇用拍影视恐怖片，而是北京朝阳区特警在行进。若是北京都要这般如临大敌，那全中国哪里有一块让习近平有安全感的土地？四个自信何在？（据说已经是五个自信了？）号称“人民领袖”的习若感觉中国处处有敌人，那岂不是他从领袖跃成了全民公敌？<br><br>Jixian Wang: 乌克兰的俄国🇷🇺占领区都不这样巡逻，至于么？厉害了你的国🇨🇳👍<br><br><video src="https://video.twimg.com/ext_tw_video/1578323349188612097/pu/vid/720x1280/e7B1ljXJxFJ8WE0c.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1578323349188612097/pu/img/fznHYo4KOg7Edi9d.jpg"></video>
+
+### 13: [2022-10-08 06:44:17+08:00 推文](https://twitter.com/realcaixia/status/1578516593398587392)
+
+最近VOA专访原中共中央文献研究室周恩来组组长，研究中共党的专家高文谦先生的文章引起广泛关注和很大反响。高文谦先生对中共党内顶层政治有相当深透的观察研究。特别推荐这篇访谈，与推友们分享。<br><img style="" src="https://pbs.twimg.com/media/FegEeQ4XEAAe2qC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FegEeQ2WIAErwk1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FegEeQ4WQAUSBWG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FegEeQ6WQAADvyp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-10-08 06:44:50+08:00 推文](https://twitter.com/realcaixia/status/1578516730317443072)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FegEmU9WAAA46xT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FegEmU6XwAIxdD3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 15: [2022-10-08 07:38:47+08:00 推文](https://twitter.com/realcaixia/status/1578530307103690752)
+
+Re @HenryCh34283099 周恩来组是文献研究室的正式编制内机构，长期存在。同样，文献研究室有毛、刘、周、朱等组，包括后来的邓组，江组之类的，这些最重要的组长都是室务委员，这应该是中央文献研究室的领导机构。
+
+### 16: [2022-10-08 07:47:26+08:00 推文](https://twitter.com/realcaixia/status/1578532481997099008)
+
+Re @HenryCh34283099 对。这类机构中央党校也有，中央党校叫校务委员。究竟起什么作用，我不太清楚。
 
