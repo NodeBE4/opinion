@@ -69,7 +69,7 @@ Re @Tianshuihanyan 激将法。不是一起去，他去，希望在那见到南�
 
 ### 14: [2022-07-25 21:20:04+08:00 推文](https://twitter.com/HeQinglian/status/1551557899209654273)
 
-RT He Qinglian<br>Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
+Re @JianglinLi @9527joshua @KELMAND1 @ZedongWinine @LetsBeatRabbits 马克思主义在东、西方回归，各有套路。<br>中国的年轻一代信的马经，就是马克思主义哲学（唯物辨证法）、剩余价值理论做主干的政经学、暴革说。<br>西方年轻人则是新马那套，高福利、人性的解放——进步主义，包括LGBTQI、消解男女组成的婚姻家庭，实行性多元化。<br>不知“两马会师”是何情景？正邪决斗还是相容？
 
 ### 15: [2022-07-25 21:27:08+08:00 推文](https://twitter.com/HeQinglian/status/1551559679628697600)
 
@@ -265,7 +265,7 @@ Re @shenliangqing2 @OfcIQOD2XkWhsKt @JianglinLi 台湾30岁以下青年一代，
 
 ### 63: [2022-07-28 03:46:23+08:00 推文](https://twitter.com/HeQinglian/status/1552379895698923520)
 
-完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。<br><br>RedSteelWorker: @KELMAND1 @feli0meow 乌克兰惨了！竟然开始卖地！根据澳媒消息，乌克兰已经卖给美国三大企业1700万公顷农业土地，这大概已经占到了乌克兰国土面积的60万平方公里的28.3%了。<br>
+完全不用担心。<br>不是早就有美国智库预测，“华盛顿希望与俄罗斯战斗至最后一个乌克兰人”么？<br>“有民乃有土，有土乃有国”，当最后一个乌克兰人倒下之后，那土地属于谁，国家叫什么名称，已经没有原住民关注了。
 
 ### 64: [2022-07-28 03:52:43+08:00 推文](https://twitter.com/HeQinglian/status/1552381490763370502)
 
@@ -305,7 +305,7 @@ Re @xxj2040 年龄这么大，生个病又不是难事。上次是covid-19阳性
 
 ### 73: [2022-07-28 10:34:15+08:00 推文](https://twitter.com/HeQinglian/status/1552482537762693121)
 
-三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。<br><br>晚風: 還剩一半了，波瀾心動嗎？<br><br><img style="" src="https://pbs.twimg.com/media/FYq8LctaQAAg6yz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+三大美国跨国公司购买了 1700 万公顷乌克兰农业用地<br>对这条消息，不少推主表示怀疑，此为原始出处。 <a href="https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/" target="_blank" rel="noopener noreferrer">https://www.australiannationalreview.com/lifestyle/three-large-american-multinationals-bought-17-million-hectares-of-ukrainian-agricultural-land/</a>
 
 ### 74: [2022-07-28 10:37:11+08:00 推文](https://twitter.com/HeQinglian/status/1552483274462748672)
 
@@ -357,7 +357,7 @@ Re @zhixiangziyou 实话实说，如果我在深圳，一定去现场看。
 
 ### 86: [2022-07-28 21:52:45+08:00 推文](https://twitter.com/HeQinglian/status/1552653287966380036)
 
-这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。
+这帐要这样算：<br>如果俄罗斯损失591亿美元，西方完胜；<br>如果俄罗斯损失500亿，西方大胜；<br>如果俄罗斯损失400亿，西方获得可观胜利；<br>如果俄罗斯经济损失极小，西方胜在道义。因为俄罗斯至少与西方40国交恶，被踢出先进文明的世界，美国将不再向俄直接推广LGBTQI+第四代女权+吸大麻（吸毒）+BLM（CRT）。<br><br>Ezio Mao☢: 据《华尔街日报》报道，由于对俄罗斯的制裁，上半年西方公司将损失590亿美元.<br><br>2022年第一季度，英国公司BP亏损255亿美元，壳牌 - 42亿美元，德国Uniper-32亿欧元，奥地利OMV-20亿欧元，德国 Wintershall Dea - 11亿欧元，法国Engie-10亿欧元。法国雷诺集团亏损 22 亿欧元。<br> <a href="https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/business-losses-from-russia-top-59-billion-as-sanctions-hit-11654853400</a>
 
 ### 87: [2022-07-28 21:55:43+08:00 推文](https://twitter.com/HeQinglian/status/1552654036498653186)
 
@@ -681,11 +681,11 @@ Re @zhixiangziyou @triplebai 羊肉冬瓜汤？<br>羊肉是温补食物，冬�
 
 ### 167: [2022-07-31 03:46:34+08:00 推文](https://twitter.com/HeQinglian/status/1553467102958424065)
 
-尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。
+尽管知道文化快餐的年代，这种严肃的社会病溯源文章不会有多少人读，但我还是认真推荐。<br>文化马克思主义正在毁掉西方，只是美国有BLM这种暴马加文马存在，毁的速度特别快。<br><br>戴维（英国观察）: 解滨：文化马克思主义正在毁掉美国<br> <a href="https://groups.google.com/g/2ncn/c/DIVTQSFiM6o" target="_blank" rel="noopener noreferrer">https://groups.google.com/g/2ncn/c/DIVTQSFiM6o</a>
 
 ### 168: [2022-07-31 04:05:52+08:00 推文](https://twitter.com/HeQinglian/status/1553471960604200960)
 
-目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。
+目前世界确实进入十字路口，但比日本外相林芳正讲的要复杂得多。<br>从近期看，俄乌战争确实让地缘政治中的国家安全处于首位；<br>从长远看，接受美拜登政府推广的LGBTQI+第四代女权+大麻+BLM(CRT)换取美国保护是未来的大问题<br>拜乌粉们考虑不了这些问题。少数知道后者的危害的人，迷失在“救亡压倒启蒙”当中。<br><br>RFI 华语 - 法国国际广播电台: 日外相：在乌克兰发生的事情决不允许在世界其他地方发生<br><br><img style="" src="https://pbs.twimg.com/media/FY6EqpsUYAAvJot?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8cgI.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8cgI.t</a>
 
 ### 169: [2022-07-31 04:17:18+08:00 推文](https://twitter.com/HeQinglian/status/1553474839356313600)
 
@@ -733,7 +733,7 @@ Re @riverkiosk 又来了，是不是最近乌战实际战况让你心情不愉�
 
 ### 180: [2022-07-31 10:33:17+08:00 推文](https://twitter.com/HeQinglian/status/1553569459113181184)
 
-这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂<br><br>DW 中文- 德国之声: 对俄制裁，是俄罗斯蒙受重创、金融市场的前景堪称“全球最差”？还是西方“伤敌八百、自损一千”？<br> <a href="https://p.dw.com/p/4Erre" target="_blank" rel="noopener noreferrer">https://p.dw.com/p/4Erre</a>
+这篇文章建议大家花五分钟，有趣之处在于德国专家与美国专家立场不同。<br>德国专家认为是“伤敌八百，自损一千”——因为专家本人也身受能源短缺之痛，与普通人有同理心<br>耶鲁专家在美国，除了油价飚升与通胀之外，并无德国人能源短缺之痛，因此主张继续制裁。德国自损两千都与其无关。<br>——立场决定研究结果😂
 
 ### 181: [2022-07-31 20:48:35+08:00 推文](https://twitter.com/HeQinglian/status/1553724302461210624)
 

@@ -81,7 +81,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 17: [2021-12-24 12:11:37+08:00 推文](https://twitter.com/realcaixia/status/1474231262449741828)
 
-什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
+什么都不用说，一目了然。<br><br>李其 Lizzi: 习李差异…<br><br><img style="" src="https://pbs.twimg.com/media/FHSIIWnXIAANdD5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHSIIXkWQAg1hGm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2021-12-24 22:14:56+08:00 推文](https://twitter.com/realcaixia/status/1474383092206944271)
 
@@ -89,7 +89,7 @@ Re @JIEDU4 看来你是个假基督徒！
 
 ### 19: [2021-12-25 08:09:46+08:00 推文](https://twitter.com/realcaixia/status/1474532784853200896)
 
-如果这个消息是可靠的话。感恩上帝，平安夜送来的最好的消息。希望所有善良的人都能一生平安。<br><br>靜心: 李田田最新消息。<br><br><img style src="https://pbs.twimg.com/media/FHYLZt3XsAAu3Wo?format=jpg&name=orig" referrerpolicy="no-referrer">
+如果这个消息是可靠的话。感恩上帝，平安夜送来的最好的消息。希望所有善良的人都能一生平安。<br><br>靜心: 李田田最新消息。<br><br><img style="" src="https://pbs.twimg.com/media/FHYLZt3XsAAu3Wo?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 20: [2021-12-25 10:51:09+08:00 推文](https://twitter.com/realcaixia/status/1474573401775816710)
 
@@ -165,11 +165,11 @@ Re @LipingHuang7 低端人口這詞是習在一次會議上首說，隨後就被
 
 ### 38: [2021-12-26 09:43:57+08:00 推文](https://twitter.com/realcaixia/status/1474918875292749827)
 
-1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
+1991年12/25這一天，前蘇共解體，迄今30年。<br><br>大耳朵猫妹: 原来历史上的今天还这么有意义<br><br><img style="" src="https://pbs.twimg.com/media/FHdzpL-XsAYSgg2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHdzpXYWQAMzRfV?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2021-12-26 22:32:03+08:00 推文](https://twitter.com/realcaixia/status/1475112175861653514)
 
-习当局自我隔绝于世界，把大陆中国人隔绝成世界弃儿。<br><br>荣剑: 文化自信不是在于你今天抵制这个明天抵制那个，而是在于你对世界持包容心，对优秀的文明和文化持开放态度。据说国内目前要对公共场所交通标示用汉语拼音取代英文，大概就是想体现文化自信，可决策者是否想到，拼音也是外来物，为什么不一块抵制?既然抵制了圣诞节，那就把元旦节也抵制了吧！<br><br><img style="" src="https://pbs.twimg.com/media/FHahCE3VkAENxyv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahCTUVUAIasqp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahC-sVgAMuTLi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHahDkSVkAI__cj?format=jpg&name=orig" referrerpolicy="no-referrer">
+习当局自我隔绝于世界，把大陆中国人隔绝成世界弃儿。<br><br>荣剑: 文化自信不是在于你今天抵制这个明天抵制那个，而是在于你对世界持包容心，对优秀的文明和文化持开放态度。据说国内目前要对公共场所交通标示用汉语拼音取代英文，大概就是想体现文化自信，可决策者是否想到，拼音也是外来物，为什么不一块抵制?既然抵制了圣诞节，那就把元旦节也抵制了吧！<br><br><img style src="https://pbs.twimg.com/media/FHahCE3VkAENxyv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahCTUVUAIasqp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahC-sVgAMuTLi?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHahDkSVkAI__cj?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 40: [2021-12-26 23:32:51+08:00 推文](https://twitter.com/realcaixia/status/1475127475046957064)
 
