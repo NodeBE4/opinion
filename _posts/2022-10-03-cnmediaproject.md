@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-06
+date: 2022-10-07
 from: https://twitter.com/cnmediaproject/status/1576788121672634368
 layout: post
 tags:
@@ -74,4 +74,16 @@ Re But even then, this major story with implications for the world was still dow
 ### 15: [2022-10-06 18:05:29+08:00 推文](https://twitter.com/cnmediaproject/status/1577963244781989889)
 
 Re It's important also to note that the Li Wenliang letter explicitly mentions the 2003 SARS epidemic — because that was meant to have been the episode from which China learned the hard lesson about grappling with breaking crises openly and concertedly.
+
+### 16: [2022-10-07 17:16:29+08:00 推文](https://twitter.com/cnmediaproject/status/1578313301213483008)
+
+The discourse of the Chinese Communist Party can be rigid and ritualistic. But it also changes, incorporating new terms and recycling old ones. Here's a look at how CCP media are now using a popular online phrase. <a href="https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/06/no-lying-down-on-covid/</a>
+
+### 17: [2022-10-07 17:18:05+08:00 推文](https://twitter.com/cnmediaproject/status/1578313704739082240)
+
+"Political depression": A good term to study up on as the run-up to the 20th National Congress has you, well, depressed about the direction of CCP politics. More in the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/political-depression/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/political-depression/</a>
+
+### 18: [2022-10-07 17:51:08+08:00 推文](https://twitter.com/cnmediaproject/status/1578322020378759168)
+
+A simple yet profound observation about where information is in China today.<br><br>Chenchen Zhang 🤦🏻‍♀️: unfortunately not an exaggeration<br>and the web is dead in China, not just bc of WeChat<br>if I search something in baidu all I get is a full page of apps. in other words all the "content" the internet has to offer is hosted by segregated apps<br> <a href="https://twitter.com/yiqinfu/status/1578082198594367489" target="_blank" rel="noopener noreferrer">https://twitter.com/yiqinfu/status/1578082198594367489</a>
 
