@@ -61,9 +61,9 @@ In case you missed it: earlier this month CMP looked at the past and current pol
 
 ### 12: [2022-09-30 18:49:32+08:00 推文](https://twitter.com/cnmediaproject/status/1575800004501204992)
 
-And for more on the term "sneaky visit" (窜访), readers can turn to the CMP Dictionary.<br><br>Bill Bishop: China’s Political Discourse August 2022: Pelosi’s “Sneaky Visit” to Taiwan, by @cnmediaproject<br> <a href="https://sinocism.com/p/chinas-political-discourse-august-f7d?r=2e&amp;utm_campaign=post&amp;utm_medium=web" target="_blank" rel="noopener noreferrer">https://sinocism.com/p/chinas-political-discourse-august-f7d?r=2e&amp;utm_campaign=post&amp;utm_medium=web</a>
+And for more on the term "sneaky visit" (窜访), readers can turn to the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/</a>
 
 ### 13: [2022-09-30 20:12:14+08:00 推文](https://twitter.com/cnmediaproject/status/1575820815513182209)
 
-Looking forward to this essential pre-20th Congress prep.<br><br>Sue-Lin Wong 黄淑琳: Delighted that for the first time ever in the history of The Economist, a podcast we made is also our cover story. To listen to our 8 episode series on the life and rise of China's leader Xi Jinping, search for The Prince wherever you get your podcasts<br> <a href="https://econ.st/3dSHv0A" target="_blank" rel="noopener noreferrer">https://econ.st/3dSHv0A</a> <a href="https://twitter.com/TheEconomist/status/1575473826506366978" target="_blank" rel="noopener noreferrer">https://twitter.com/TheEconomist/status/1575473826506366978</a>
+Looking forward to this essential pre-20th Congress prep.<br><br>Sue-Lin Wong 黄淑琳: Delighted that for the first time ever in the history of The Economist, a podcast we made is also our cover story. To listen to our 8 episode series on the life and rise of China's leader Xi Jinping, search for The Prince wherever you get your podcasts<br> <a href="https://econ.st/3dSHv0A" target="_blank" rel="noopener noreferrer">https://econ.st/3dSHv0A</a>
 

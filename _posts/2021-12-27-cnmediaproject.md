@@ -25,7 +25,7 @@ RT Kaiser Kuo<br>Rest In Peace. You were one of the greats.<br><br>The Associa
 
 ### 3: [2021-12-27 22:34:25+08:00 推文](https://twitter.com/iheartbeijing/status/1475475160329162753)
 
-RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style="" src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Elyse Ribbons 柳素英<br>I’m very sad to learn of Jonathan Spence’s passing - I absolutely love his books on Chinese history.<br><br>Sad day for the #sinophile folks in your life, send them a hug. <br><br>#china #history #historian #rip #jonathanspence<br><img style src="https://pbs.twimg.com/media/FHnw1cmVcAE6GDH?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-29 10:45:39+08:00 推文](https://twitter.com/ZhangTaisu/status/1476021568878923784)
 
@@ -33,7 +33,7 @@ RT Taisu Zhang<br>An obituary that I wrote for Spence (in Chinese—there are 
 
 ### 5: [2021-12-29 16:29:57+08:00 推文](https://twitter.com/rhokilpatrick/status/1476108212143149056)
 
-RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing operations and letting go of all staff, after HK police froze its assets and arrested six for publishing seditious material.<br><br>After Apple Daily, this is the second opposition news source that authorities have shut down this year.<br><img style src="https://pbs.twimg.com/media/FHwwmGzVIAAPEQZ?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Ryan Ho Kilpatrick 何松濤<br>.@StandNewsHK announces it is ceasing operations and letting go of all staff, after HK police froze its assets and arrested six for publishing seditious material.<br><br>After Apple Daily, this is the second opposition news source that authorities have shut down this year.<br><img style="" src="https://pbs.twimg.com/media/FHwwmGzVIAAPEQZ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-29 17:26:32+08:00 推文](https://twitter.com/rhokilpatrick/status/1476122451574595587)
 
