@@ -29,7 +29,7 @@ Re @RealBeiMing @JianglinLi @Wu_Zhi @david_david1968 @ngexp 没错，这世界�
 
 ### 4: [2022-06-13 04:19:25+08:00 推文](https://twitter.com/HeQinglian/status/1536080754521870338)
 
-乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。
+乌克兰的好总统，自家一屋未扫净，志在扫天下他人居所。<br>有点觉得他在寻找新的军事援助生成点。台湾蔡总统已经将推广LGBTQI当成美国民主新价值观，别再犯糊涂，“在北京动武前”不是个好建议。<br><br>RFI 华语 - 法国国际广播电台: 华邮: 泽连斯基吁国际社会在中国动武前助台湾抵御侵略<br><br><img style="" src="https://pbs.twimg.com/media/FVEW5I6UcAAJ0WP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8UmD.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8UmD.t</a>
 
 ### 5: [2022-06-13 04:29:31+08:00 推文](https://twitter.com/HeQinglian/status/1536083296807010307)
 
@@ -289,7 +289,7 @@ Re @Vince6610 吓唬谁呢？打就打。
 
 ### 69: [2022-06-17 08:55:55+08:00 推文](https://twitter.com/HeQinglian/status/1537599889936371714)
 
-拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。<br><br>jiang shangrong: 拜登说，美国的经济和他的一样地充满健康和活力。<br><br><img style="" src="https://pbs.twimg.com/media/FVU-KkVWYAEk-3j?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a>
+拜登进白宫一年半以来，说的最正确的就是这句话。<br>希望他某天能够说出另一句真话：支持我领导美国的人，是与我一样，或者与我儿子一样的人。
 
 ### 70: [2022-06-17 09:00:51+08:00 推文](https://twitter.com/HeQinglian/status/1537601129588084738)
 
@@ -325,7 +325,7 @@ Re @JianglinLi @nypost 戈培尔家的嫡传后裔。
 
 ### 78: [2022-06-17 10:09:04+08:00 推文](https://twitter.com/HeQinglian/status/1537618296819818496)
 
-听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。<br><br>白月玲珑🇨🇳: 随着中国国防科技水平的不断提升，如今中国成功造出全球最小导弹，士兵一次可以背很多枚导弹，直接将士兵武装成超级战士，它就是国产QN202微型导弹，射程2公里黄瓜大小，狙击手见了头皮发麻。<br><br><img style="" src="https://pbs.twimg.com/media/FVXRZSyaUAAJVpi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZS1aAAAfOge?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FVXRZSzaAAE-rPP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+听起来，中台开战，也会是信息战先行模式。<br>西方媒体一直说，外宣上，中国比俄罗斯笨拙。这次俄信息战完败，中国可能败得更惨？<br>中文世界的一半肯定是中国大胜，其他语种肯定是台湾一方碾压中国。<br>到时观众戏码肯定是：逼人站队表态支持、谣言满天飞。
 
 ### 79: [2022-06-17 10:19:37+08:00 推文](https://twitter.com/HeQinglian/status/1537620951373840390)
 
