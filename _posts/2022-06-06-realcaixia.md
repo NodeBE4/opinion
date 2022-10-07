@@ -25,7 +25,7 @@ Re @lxm13529648 感谢您🙏🌹。
 
 ### 3: [2022-06-06 01:37:23+08:00 推文](https://twitter.com/realcaixia/status/1533503263282286595)
 
-他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。
+他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。<br><br>方舟子: 带货的网红，因为在6月4日这天带货了一款坦克造型的蛋糕，被全网封杀了。我猜他和多数中国年轻人一样根本不知道6月4日这天和坦克有什么关系。<br><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUUAEzFtp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDOVIAA92ft?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDMUsAA4Kwt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUEAE0cE8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-06-06 01:51:19+08:00 推文](https://twitter.com/realcaixia/status/1533506769783226370)
 
