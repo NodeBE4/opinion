@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 3: [2021-12-14 08:08:15+08:00 推文](https://twitter.com/realcaixia/status/1470546139556593672)
 
-每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style="" src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
+每日一推，长沙公益仨无罪！<br><br>HRIC - Human Rights in China 中国人权: 12.14是在狱中的 #吴葛健雄 的生日,其父吴有水律师呼吁大家通过支付宝转账短信功能给小吴送去生日祝福及支持。小吴是长沙公益机构长沙富能的工作人员,2019.7.22与程渊和刘大志同时被捕,2021.7.20被以颠覆国家政权罪判刑三年。呼吁信:<br><br><img style src="https://pbs.twimg.com/media/FGhhHN4XEAMS30H?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="http://hrichina.org/chs/node/27710" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/27710</a> <a href="http://hrichina.org/chs/node/26719" target="_blank" rel="noopener noreferrer">http://hrichina.org/chs/node/26719</a>
 
 ### 4: [2021-12-14 08:09:39+08:00 推文](https://twitter.com/realcaixia/status/1470546491680952325)
 
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 5: [2021-12-15 08:19:53+08:00 推文](https://twitter.com/realcaixia/status/1470911454115209218)
 
-每日一推！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月15日）<br>今天我给湖南省10月新上任的省委书记张庆伟写了一封公开信，要求湖南津市监狱 衡州监狱依法归还我们的亲属探视权！<br><br>明天会给其他公仆写信 省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGjQXbSWQAAcfxv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjQXbTXwAA_3bT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGjQXbUX0AAEiPm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
+每日一推！<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月15日）<br>今天我给湖南省10月新上任的省委书记张庆伟写了一封公开信，要求湖南津市监狱 衡州监狱依法归还我们的亲属探视权！<br><br>明天会给其他公仆写信 省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FGjQXbSWQAAcfxv?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjQXbTXwAA_3bT?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGjQXbUX0AAEiPm?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
 
 ### 6: [2021-12-15 09:27:05+08:00 推文](https://twitter.com/realcaixia/status/1470928366681444357)
 
@@ -53,15 +53,15 @@ title: 'Twitter @蔡霞: 2021-12-13~2021-12-19'
 
 ### 10: [2021-12-16 09:57:22+08:00 推文](https://twitter.com/realcaixia/status/1471298374536212480)
 
-每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
+每日一推。为所有被剥夺合法权利的人呼喊。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊吴葛健雄的家属探视权和律师会见权 （12月16日）<br>质问湖南司法厅厅长范运田：湖南省司法厅称视频会见系统2021年建成，这个造价不菲的系统，为啥程渊，吴葛健雄的家属不能用？？<br><br>湖南省委书记 #张庆伟 政法委书记 #魏建锋，湖南司法厅厅长 #范运田 湖南监狱管理局局长 #钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FGrLXWqXoAg9-PB?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/MindyShi227/status/1469111277024915457" target="_blank" rel="noopener noreferrer">https://twitter.com/MindyShi227/status/1469111277024915457</a>
 
 ### 11: [2021-12-16 09:58:41+08:00 推文](https://twitter.com/realcaixia/status/1471298706674704384)
 
-丁家喜律师和许志永律师无罪！<br><br>Luo Shengchun丁家喜律师妻子: #释放丁家喜 #释放许志永 美国国会与行政当局中国委员会CECC的“奥运囚犯”中国良心犯系列：<br>丁家喜律师和许志永律师被指控犯有 "颠覆罪"，并因不懈地倡导中国的法律改革和健全的公民社会而被任意拘留，至今已有近两年时间。他们，以及所有被拘留的维权人士，都应该被释放！<br> <a href="https://twitter.com/ceccgov/status/1470820893941239820" target="_blank" rel="noopener noreferrer">https://twitter.com/ceccgov/status/1470820893941239820</a>
+丁家喜律师和许志永律师无罪！<br><br>Luo Shengchun丁家喜律师妻子: #释放丁家喜 #释放许志永 美国国会与行政当局中国委员会CECC的“奥运囚犯”中国良心犯系列：<br>丁家喜律师和许志永律师被指控犯有 "颠覆罪"，并因不懈地倡导中国的法律改革和健全的公民社会而被任意拘留，至今已有近两年时间。他们，以及所有被拘留的维权人士，都应该被释放！<br> <a href="https://twitter.com/CECCgov/status/1470820893941239820" target="_blank" rel="noopener noreferrer">https://twitter.com/CECCgov/status/1470820893941239820</a>
 
 ### 12: [2021-12-16 11:08:38+08:00 推文](https://twitter.com/realcaixia/status/1471316309300457481)
 
-这篇文章是我发给《议报》与光传媒网站同时发布，不同的媒体各有不同的传播受众。<br>撕掉极权统治的掠夺式经济增长方式“奇迹”光鲜外表，将其背后的丑恶与罪孽拿到太阳下曝曝光。<br>这样的掠夺式经济增长、政治上独裁专制、对全社会的恐怖统治，不仅不可能使中国经济持续增长，而且对中国与世界都是灾难！ <a href="https://twitter.com/ipkmedia/status/1470480679129468931" target="_blank" rel="noopener noreferrer">https://twitter.com/ipkmedia/status/1470480679129468931</a>
+这篇文章是我发给《议报》与光传媒网站同时发布，不同的媒体各有不同的传播受众。<br>撕掉极权统治的掠夺式经济增长方式“奇迹”光鲜外表，将其背后的丑恶与罪孽拿到太阳下曝曝光。<br>这样的掠夺式经济增长、政治上独裁专制、对全社会的恐怖统治，不仅不可能使中国经济持续增长，而且对中国与世界都是灾难！<br><br>光傳媒官推 官網 https://www.ipkmedia.net: 【独家首发】<br><br>蔡 霞: 中共极权统治下的中国没有未来<br> <a href="https://ipkmedia.com/?p=114528" target="_blank" rel="noopener noreferrer">https://ipkmedia.com/?p=114528</a>
 
 ### 13: [2021-12-16 11:32:02+08:00 推文](https://twitter.com/realcaixia/status/1471322196849180674)
 
@@ -69,7 +69,7 @@ Re @Ipkmedia @ZhangDong_SCH 胡叼盘这是要就坡撤叫驴。叼盘是本性�
 
 ### 14: [2021-12-16 19:23:31+08:00 推文](https://twitter.com/realcaixia/status/1471440850093760523)
 
-中共极权统治下的大陆是全世界人权状况最恶劣的国家。<br><br>刘晓原: 历史上的今天：1966年12月16日，联合国大会通过了《公民权利及政治权利国际公约》，由此掀开了国际人权的新篇章。<br>  截止到2019年7月3日为止，《公民权利及政治权利国际公约》有74个签署国及173个缔约国。<br>     中国政府于1998年10月5日在联合国总部签署了《公约》，但至今还未提交全国人大批准实施。<br><br><img style src="https://pbs.twimg.com/media/FGsDsaGVQAAFyG3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGsDscyUYAAa9Xk?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共极权统治下的大陆是全世界人权状况最恶劣的国家。<br><br>刘晓原: 历史上的今天：1966年12月16日，联合国大会通过了《公民权利及政治权利国际公约》，由此掀开了国际人权的新篇章。<br>  截止到2019年7月3日为止，《公民权利及政治权利国际公约》有74个签署国及173个缔约国。<br>     中国政府于1998年10月5日在联合国总部签署了《公约》，但至今还未提交全国人大批准实施。<br><br><img style="" src="https://pbs.twimg.com/media/FGsDsaGVQAAFyG3?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGsDscyUYAAa9Xk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2021-12-16 19:30:22+08:00 推文](https://twitter.com/realcaixia/status/1471442575974404099)
 

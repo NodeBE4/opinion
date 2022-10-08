@@ -903,3 +903,75 @@ Re @Wu_Zhi @JianglinLi @david_david1968 他们不明白，俄罗斯太大，只�
 
 Re @Wu_Zhi @david_david1968 关键是：话语定义权在世界一哥手里。<br>2020年以前，美国没盗选，大家服气；2020年以后，拜登政府说啥，都难逃盗选之时就盖上的指鹿为马、颠倒黑白的印记。
 
+### 223: [2022-10-08 07:06:07+08:00 推文](https://twitter.com/HeQinglian/status/1578522085785481217)
+
+Re @xxj2040 无产者只有两个愿望：<br>1、闯王心思。<br>2、愿天下人与自己一样。
+
+### 224: [2022-10-08 07:11:41+08:00 推文](https://twitter.com/Jessie2021626/status/1578523486066159618)
+
+RT 一土2.0🇺🇸🇮🇱🇷🇺<br>美媒10月7日消息特拉华州最高法院周五裁定，邮寄投票在该州是违宪的。👍👍🙏🙏<br>特拉华州最高法院一致裁定该州的邮寄投票和当日选民登记法违宪。<br>在 11 月 8 日的大选中，两者都不会被允许。<br>这项裁决是在口头辩论后仅一天作出的，对州长约翰·卡尼和特拉华州民主党来说是一次重大失败。<br><br>全媒体日报/全媒体新闻台 QM News: 好消息！！！<br><br>主媒不报的我们报，主媒不谈的我们谈！<br>真实，及时，直面问题！<br>有立场，有态度，有温度！<br><br>🌹欢迎下载“全媒体小镇”App，阅读“全媒体日报”！<br> <a href="http://qtown.media/" target="_blank" rel="noopener noreferrer">http://qtown.media</a> <a href="https://www.qtown.media/share/linkPage/E87FA101-12E8-4DCB-AC2A-405CDFAE4390.html" target="_blank" rel="noopener noreferrer">https://www.qtown.media/share/linkPage/E87FA101-12E8-4DCB-AC2A-405CDFAE4390.html</a>
+
+### 225: [2022-10-08 07:47:49+08:00 推文](https://twitter.com/HeQinglian/status/1578532581234343936)
+
+Re @ySoU7IqT9MckriB @shenliangqing2 @JianglinLi @Wu_Zhi @david_david1968 你的简介里说“道不行，乘桴浮于海”，还是呆在原地别动算了，可能避过即将发生的正义“预防核打击”的连锁反应。<br>欧美变成核幅射场后，再浮于海吧，至少知道哪里可去了。
+
+### 226: [2022-10-08 07:49:33+08:00 推文](https://twitter.com/HeQinglian/status/1578533016774664192)
+
+Re @Farmer9911 确实，能举50公斤，波兰勇敢地举起了100公斤。<br>秦武王举鼎的故事听说过么？
+
+### 227: [2022-10-08 08:06:23+08:00 推文](https://twitter.com/HeQinglian/status/1578537251029807105)
+
+Re @JianglinLi @franktianxie 左派有充分的言论自由、随时随地零元购与聚众吸麻的集会自由；<br>保守派的言论被定为仇恨言论，仇恨言论会被取消与集体批判（围攻），至于有没有集会自由，参考2021年1月6日华府的Rally。<br>掌握真理及好人坏人定义权的中央文革名言：“只许坏人规规矩矩，不许坏人乱说乱动”。
+
+### 228: [2022-10-08 08:13:03+08:00 推文](https://twitter.com/HeQinglian/status/1578538931666100225)
+
+瑞典安全局在一份声明中表示，已完成的北溪管道初步调查“加强了对严重破坏的怀疑”。但调查人员没有说明爆炸是如何发生的，也没有说明谁可能对此负责。<br>竞猜：<br>1、知道是谁，但不会公布结果；<br>2、指认俄罗斯。<br>1、2各占50%的可能。
+
+### 229: [2022-10-08 08:20:36+08:00 推文](https://twitter.com/HeQinglian/status/1578540830683328512)
+
+Re @YaxueCao 我这小区有位园园艺达人邻居，想桂花想得发疯，在他家墙角种了一株，去年特意备了一个小型Green House，零下十度的天气还坚持供暖（安几个灯）。<br>我也盼望这桂花安然成活，结果，桂花终于在今年5月被拔掉了——大家都很失望。<br>还有一位邻居正试种Zone 7能成活的栀子花，我也在等结果。
+
+### 230: [2022-10-08 08:21:15+08:00 推文](https://twitter.com/HeQinglian/status/1578540993548554241)
+
+Re @Fumitoku_T @y2xd @wakeup_arrow 知道蒋庆么？
+
+### 231: [2022-10-08 08:22:19+08:00 推文](https://twitter.com/HeQinglian/status/1578541262382063618)
+
+Re @JianglinLi @lindahuiyun 仿佛听见你明天回家后那声“我回来了”。😂😂
+
+### 232: [2022-10-08 08:25:27+08:00 推文](https://twitter.com/HeQinglian/status/1578542049984663553)
+
+看了Quote与留言，发现推友居然没明白美国导弹防御系统是防谁的。<br>据说有核武的伊朗看来要赢了。<br><br>绫波: 在海湾国家支持欧佩克+石油减产、公然与俄罗斯合作后，美国众议院民主党人提出了一项从沙特阿拉伯和阿联酋撤出美国导弹防御系统和军队的法案。<br><br><img style="" src="https://pbs.twimg.com/media/FeeOyG7UYAAIvru?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 233: [2022-10-08 09:36:06+08:00 推文](https://twitter.com/HeQinglian/status/1578559830104494080)
+
+Re @JianglinLi “老要张狂少要稳”，那是人性受束缚，如今要从0岁开始“自主”变性，少要张狂，老更要张狂。
+
+### 234: [2022-10-08 09:37:01+08:00 推文](https://twitter.com/HeQinglian/status/1578560063018389505)
+
+Re @JianglinLi @lindahuiyun 想来是亚热带的。
+
+### 235: [2022-10-08 09:39:31+08:00 推文](https://twitter.com/HeQinglian/status/1578560691950141440)
+
+Re @JianglinLi @lindahuiyun 你也真是好远游，我肯定在外游不了这么久。
+
+### 236: [2022-10-08 09:40:50+08:00 推文](https://twitter.com/HeQinglian/status/1578561023618924545)
+
+Re @JianglinLi @Isabel_3299 你还别说，有次看美国风光片，好象发生龙卷风的地方，是有地窝子之类，不过比陕北那里讲究一些。
+
+### 237: [2022-10-08 09:53:00+08:00 推文](https://twitter.com/HeQinglian/status/1578564084383027204)
+
+Re @zhixiangziyou @JianglinLi 看了，突然觉得美国人比较幸运，第一夫人没有通过总统夫人令强行在全美推广。<br>还记得中国第一夫人江青终于厌倦了灰色毛服（中山装），亲自设计了一款连衣裙——江青裙，让全国女子穿？<br><br>各地裁缝当时很忙，要做一条这连衣裙，得等上一个月。 <a href="https://baike.baidu.com/item/%E6%B1%9F%E9%9D%92%E8%A3%99/6276162" target="_blank" rel="noopener noreferrer">https://baike.baidu.com/item/%E6%B1%9F%E9%9D%92%E8%A3%99/6276162</a>
+
+### 238: [2022-10-08 10:00:34+08:00 推文](https://twitter.com/HeQinglian/status/1578565988735324161)
+
+Re @FightForJiuCai 从泽连斯基要求北约对俄罗斯进行“预防性核打击”以来，我什么都不想了。<br>园子里的活儿，没干完的全撂在那里了，趁机先休息几天，等着那玉石俱焚、善恶同归的一天。只有做饭没法赖掉。<br>北约这几天可能正在开会讨论是否满足地球球王的要求。
+
+### 239: [2022-10-08 10:05:39+08:00 推文](https://twitter.com/HeQinglian/status/1578567268929515521)
+
+我比较关心是否派美国驻北极文化参赞，在那里推广LGBTQI+。如果是南极，肯定会在企鹅群里推广这民主党的左派进步价值观，北极好象只有北极熊？<br><br>美国之音中文网: 拜登政府宣布新的《北极圈国家战略》，特别针对中国与俄罗斯的威胁。美国国务卿布林肯说，北极圈同时拥有可观的经济潜力与大量天然资源，美国政府将在北极圈活动，保障美国人民，捍卫领土主权，并指派首位北极无任所大使，与其他国家一同确保国际法规与准则都受到遵守。<br><br><video src="https://video.twimg.com/amplify_video/1578535370156904449/vid/720x720/IwJW61tnbUj0TcQ2.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FegWEefWQAIzH-y?format=jpg&amp;name=orig"></video>
+
+### 240: [2022-10-08 10:09:31+08:00 推文](https://twitter.com/HeQinglian/status/1578568239034105856)
+
+Re @tracy68683668 赞一个，真是美国左派的好总统，求仁得仁。
+

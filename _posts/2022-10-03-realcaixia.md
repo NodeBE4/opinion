@@ -79,3 +79,7 @@ Re @HenryCh34283099 周恩来组是文献研究室的正式编制内机构，长
 
 Re @HenryCh34283099 对。这类机构中央党校也有，中央党校叫校务委员。究竟起什么作用，我不太清楚。
 
+### 17: [2022-10-08 07:54:54+08:00 推文](https://twitter.com/realcaixia/status/1578534363725066240)
+
+中共二十大报道: 高文谦: 习近平最大的对手是他本人 <a href="https://www.voachinese.com/a/xi-jinping-s-biggest-opponent-is-himself-because-he-has-fallen-into-the-fate-of-a-dictator/6778620.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/xi-jinping-s-biggest-opponent-is-himself-because-he-has-fallen-into-the-fate-of-a-dictator/6778620.html</a>
+
