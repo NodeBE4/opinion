@@ -81,3 +81,7 @@ Many of the moderators on /r/worldnews and other such subs also moderate other s
 
 It's not so much a "hive mind" as a cultivated information ecosystem.
 
+----- __368.2__ -----2022-10-08 14:07:47+08:00:
+
+Thai tourist industry, for example.  I'm not inclined to speculate, though.
+
