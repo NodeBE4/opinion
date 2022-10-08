@@ -181,7 +181,7 @@ Re @shenliangqing2 @JianglinLi @RealBeiMing @ngexp @Wu_Zhi 你这倒提醒了我
 
 ### 42: [2022-06-28 22:52:24+08:00 推文](https://twitter.com/HeQinglian/status/1541796662078750720)
 
-如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了<br><br>RFI 华语 - 法国国际广播电台: 澳大利亚总理: 北京要从普京的错误中吸取教训<br><br><img style="" src="https://pbs.twimg.com/media/FWVvNFVUIAAsWmB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8XRF.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8XRF.t</a>
+如果是说北京要从俄乌战争中吸取教训，百分之百正确，资源依赖过高的国家在战争状态中处于不利地位，而中国资源对外依赖过高。<br>和平年代是买方市场，大买方有话事权；战争年代供方一咬牙，将买方市场扭转成卖方市场，对方喉咙就被捏住。6月15日俄宣布因技术原因减少供应，烧柴论包括什么都烧论就出来了
 
 ### 43: [2022-06-28 23:44:28+08:00 推文](https://twitter.com/HeQinglian/status/1541809767643070464)
 
@@ -265,7 +265,7 @@ Re @chuangnanzoubei 烧木柴，除了美国之外，大头也是俄罗斯供。
 
 ### 63: [2022-06-30 02:18:16+08:00 推文](https://twitter.com/RealBeiMing/status/1542210860172582915)
 
-RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。
+RT 北明BeiMing<br>白宮命名“變性人日”，克宮命名“家庭、愛與忠誠日”。<br><br>想起另一個類似的歷史事件：當年毛澤東在大陸發動“文化大革命運動”，蔣中正針鋒相對在台灣掀起了“中國文化復興運動”。<br><br>Lucs: 普京刚刚宣布 7 月 8 日为家庭、爱和忠诚日…我们的白宫宣布为变性人日。🤦🏻‍♀️<br><br><img style="" src="https://pbs.twimg.com/media/FWb_1q7VsAAlO76?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 64: [2022-06-30 03:38:27+08:00 推文](https://twitter.com/HeQinglian/status/1542231038730158083)
 
@@ -585,7 +585,7 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 
 ### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
 
 ### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 

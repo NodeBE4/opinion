@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-08
+date: 2022-10-09
 from: https://twitter.com/realcaixia/status/1576979863579213829
 layout: post
 tags:
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 
 ### 7: [2022-10-06 09:57:32+08:00 推文](https://twitter.com/realcaixia/status/1577840446755291137)
 
-一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br> <a href="https://twitter.com/JingzhouTao/status/1577498013055954944" target="_blank" rel="noopener noreferrer">https://twitter.com/JingzhouTao/status/1577498013055954944</a>
+一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br>
 
 ### 8: [2022-10-06 22:41:27+08:00 推文](https://twitter.com/realcaixia/status/1578032692720848896)
 
@@ -94,4 +94,12 @@ Re @HenryCh34283099 很好。政府部门设党组，党的直属机构设校委
 ### 20: [2022-10-08 20:56:37+08:00 推文](https://twitter.com/realcaixia/status/1578731086267367424)
 
 这张表决结果很有思考价值。投反对票的国家，相信是难民输出国，并且绝大多数人移民都不会选择进入那些国家；投赞成票的17国是世界上公认的国民安居乐业的国家，是全世界的移民们希望移民进去和平生活的地方；投弃权票的国家各有与中共国的复杂纠结的利益干系或自身存在复杂问题包括某种侵犯人权的问题<br><br>白花恋诗: @rongjian1957 然后乌克兰弃权了<br><br><img style="" src="https://pbs.twimg.com/media/FeiyOsqagAQuBeA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-10-08 23:10:30+08:00 推文](https://twitter.com/realcaixia/status/1578764779371511808)
+
+任剑涛老师是我佩服的一位学者，1996年曾经在中央党校哲学部发起的近现代人学理论学术研讨会上听他发言，曾读过他好些篇文章，他一直保有学术锐气、思想棱角和批判精神。<br><br>少城: 十八大前夕，任剑涛教授说习近平，十年后仍值得看👀<br><br><video src="https://video.twimg.com/ext_tw_video/1578748209031041024/pu/vid/1280x720/dlT3S48NpnQfS2dq.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1578748209031041024/pu/img/bo60sedb1ZkhB-CH.jpg"></video>
+
+### 22: [2022-10-09 00:37:26+08:00 推文](https://twitter.com/realcaixia/status/1578786656483934208)
+
+常常为我们的维权律师夫人们和孩子们深深感动。<br>2015年7月9号那天，中共警察突然在23个省市同时行动；共抓了300多位律师监禁判刑。中共当局以为这样能吓退律师们，结果恰恰相反。许多律师的夫人们勇敢地站出来反抗揭露极权暴政罪行，她们成为了大陆女性的优秀榜样！支持王贺楠女士，我们和您站在一起！<br><br>王贺楠: 今天是爱忠失去自由的499天<br>两个小孩都去上学了，有时间录下视频<br>昨天何伟民律师特地的会见爱忠，告诉爱忠我们回老家的情况，爱忠得知我们回老家特别开心。<br><br><video src="https://video.twimg.com/ext_tw_video/1578579032173518849/pu/vid/720x960/RhzFbpnUJ3eOuesT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1578579032173518849/pu/img/TkbN65bs57jcDErn.jpg"></video>
 

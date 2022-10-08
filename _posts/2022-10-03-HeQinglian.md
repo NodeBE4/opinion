@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-08
+date: 2022-10-09
 from: https://twitter.com/realTaoRay/status/1576604239094157313
 layout: post
 tags:
@@ -1006,4 +1006,48 @@ Re @desheng777777 历史从来不需要设想。<br>水到渠成。独立后过�
 ### 248: [2022-10-08 21:53:19+08:00 推文](https://twitter.com/HeQinglian/status/1578745355910676484)
 
 😂😂😂<br>马克龙终于神智正常了。这推我得送一个人看看，因为这位老友谈到这，就认为欧洲应该付高价买俄之外的能源，过去一切全是错。<br><br>Qing: 法国总统马克龙：本着友谊的精神，我对我们的美国朋友说，你们为我们提供了汽油，你们很棒，但我们不能付给你们四倍的价格。请为了友谊不要这样做。<br><br><video src="https://video.twimg.com/ext_tw_video/1578369715864449024/pu/vid/1280x720/GthuJu8h7GkyyDX-.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1578369715864449024/pu/img/ERXq3qgcikIlHjBk.jpg"></video>
+
+### 249: [2022-10-08 22:07:50+08:00 推文](https://twitter.com/HeQinglian/status/1578749011854774272)
+
+Re 法广居然没报道自家总统的话。<br>我刚去看过，乌克兰总统的预防性核打击没有出现，反而是拜登担心俄罗斯投放核弹。<br>反俄形势一片大好，不是小好。还算客气，只说了普京帝国的黄昏，没说进入末日。<br>乌粉应该去看看，看后相信攻克莫斯科克宫、活捉普京指日可待。
+
+### 250: [2022-10-08 22:09:49+08:00 推文](https://twitter.com/HeQinglian/status/1578749509533716480)
+
+Re @FightForJiuCai 应该是拜登电话中面谕的结果。
+
+### 251: [2022-10-08 22:11:03+08:00 推文](https://twitter.com/HeQinglian/status/1578749820470452225)
+
+Re @lianghuiwang2 这需要杜马的民意。煮成夹生饭，非常不好。
+
+### 252: [2022-10-08 22:12:04+08:00 推文](https://twitter.com/HeQinglian/status/1578750074955345920)
+
+Re @cche_pp 这次乌军是集中乌北军优势兵力，攻其一点。
+
+### 253: [2022-10-08 22:12:36+08:00 推文](https://twitter.com/HeQinglian/status/1578750211689967616)
+
+Re @guyan8070 去泽连斯基推下建议，你看来在中宣部工作过。
+
+### 254: [2022-10-08 22:40:50+08:00 推文](https://twitter.com/HeQinglian/status/1578757316467646464)
+
+Re 以下是Qing消息的英文来源：<br>10月6日，马克龙在巴黎一企业家会议上说，“本着伟大友谊的精神，我们将对我们的美国和挪威朋友说:‘你们太棒了，你们为我们提供能源和天然气，但有一件事不能持续太久，那就是我们支付的价格是你们卖给你们行业的四倍多。这并不是友谊的真正意义。” <a href="https://www.bloomberg.com/news/articles/2022-10-06/macron-pledges-to-talk-tough-on-gas-with-us-when-g-7-meets" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-10-06/macron-pledges-to-talk-tough-on-gas-with-us-when-g-7-meets</a>
+
+### 255: [2022-10-08 22:42:04+08:00 推文](https://twitter.com/HeQinglian/status/1578757624514117633)
+
+Re @YongzuoLi 看来你期盼已久。
+
+### 256: [2022-10-08 22:44:20+08:00 推文](https://twitter.com/HeQinglian/status/1578758196696862722)
+
+Re @Wu_Zhi 法广不报道本国总统10月6日关于美国能源价格贵的抱怨，热衷于这类报道，说明他们忍受力很强，电费贵些不怕，还要更贵一些。
+
+### 257: [2022-10-08 23:01:28+08:00 推文](https://twitter.com/HeQinglian/status/1578762509439619072)
+
+Re @kanjianchuiyan 你能不能展示一下，你还有脑子，脑子里是脑浆，不是水？<br>除了意识形态站边，能不能考虑一点高级生物考虑的问题？
+
+### 258: [2022-10-08 23:29:43+08:00 推文](https://twitter.com/HeQinglian/status/1578769616482230272)
+
+Re @Wu_Zhi @RFI_Cn 再次证明我们两年之前关于乌克兰人秉赋的讨论：这是一个诗歌民族，擅长用诗歌表达一切，政治、经济、军事、外交方面的才能远逊于诗歌才能。
+
+### 259: [2022-10-09 00:00:08+08:00 推文](https://twitter.com/HeQinglian/status/1578777273099948032)
+
+Re @KELMAND1 你这个串推，让我从另一个角度考虑最近的动向。<br>鉴于没有美国支持就打不下去这事实，我认为不妨将最近乌克兰的所有“骚操作”，看成美国默许的战略性试探。<br>美国民主党政府务求中期选举有利好消息。<br>杜金女儿消息的释放其实是：暗杀了，怎么样？有本事就报复。
 
