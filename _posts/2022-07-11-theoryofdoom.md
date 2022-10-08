@@ -19,7 +19,7 @@ title: theoryofdoom在2022-07-11~2022-07-17的言论
 
 This low quality text post has received multiple reports and should not have been approved.  If you want to submit general discussion items, do it on /r/geopolitics2.
 
-### 336: [Thoughts on modern Chinese ethnic regionalism?](https://old.reddit.com/r/geopolitics/comments/vvwix5/thoughts_on_modern_chinese_ethnic_regionalism/), submitted on 2022-07-11 01:32:38+08:00.
+### 336: [[deleted by user]](https://old.reddit.com/r/geopolitics/comments/vvwix5/deleted_by_user/), submitted on 2022-07-11 01:32:38+08:00.
 
 ----- __336.1__ -----2022-07-11 05:12:51+08:00:
 
