@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 
 ### 7: [2022-10-06 09:57:32+08:00 推文](https://twitter.com/realcaixia/status/1577840446755291137)
 
-一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br>
+一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br> <a href="https://twitter.com/JingzhouTao/status/1577498013055954944" target="_blank" rel="noopener noreferrer">https://twitter.com/JingzhouTao/status/1577498013055954944</a>
 
 ### 8: [2022-10-06 22:41:27+08:00 推文](https://twitter.com/realcaixia/status/1578032692720848896)
 
@@ -82,4 +82,16 @@ Re @HenryCh34283099 对。这类机构中央党校也有，中央党校叫校务
 ### 17: [2022-10-08 07:54:54+08:00 推文](https://twitter.com/realcaixia/status/1578534363725066240)
 
 中共二十大报道: 高文谦: 习近平最大的对手是他本人 <a href="https://www.voachinese.com/a/xi-jinping-s-biggest-opponent-is-himself-because-he-has-fallen-into-the-fate-of-a-dictator/6778620.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/xi-jinping-s-biggest-opponent-is-himself-because-he-has-fallen-into-the-fate-of-a-dictator/6778620.html</a>
+
+### 18: [2022-10-08 20:25:48+08:00 推文](https://twitter.com/realcaixia/status/1578723332299509761)
+
+Re @HenryCh34283099 很好。政府部门设党组，党的直属机构设校委室委，那求是杂志社就是社务委员会了。中央编译局就是局务委员会？党史研究室也是室务委员会？中央办公厅设什么呢？
+
+### 19: [2022-10-08 20:42:47+08:00 推文](https://twitter.com/realcaixia/status/1578727607491002368)
+
+特别推荐议报发布在【译丛】后普京时代的俄罗斯 - 议报<br>这篇文章提出的问题很深刻很现实。令人想起二次世界大战结束后，日本国家与社会经历深刻反思与政治制度的根本性重建的历史过程。这确立了日本国治愈战争创伤而没有回到军国主义老路，现在成为自由民主国家的亚洲支柱。 <a href="https://yibaochina.com/?p=247910" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=247910</a>
+
+### 20: [2022-10-08 20:56:37+08:00 推文](https://twitter.com/realcaixia/status/1578731086267367424)
+
+这张表决结果很有思考价值。投反对票的国家，相信是难民输出国，并且绝大多数人移民都不会选择进入那些国家；投赞成票的17国是世界上公认的国民安居乐业的国家，是全世界的移民们希望移民进去和平生活的地方；投弃权票的国家各有与中共国的复杂纠结的利益干系或自身存在复杂问题包括某种侵犯人权的问题<br><br>白花恋诗: @rongjian1957 然后乌克兰弃权了<br><br><img style="" src="https://pbs.twimg.com/media/FeiyOsqagAQuBeA?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
