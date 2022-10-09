@@ -71,6 +71,28 @@ Compare: https://youtu.be/2GRjgBVw9Pk?t=31
 
 You miss 100% of what you can't see.  And the United States couldn't see much of anything, because on an overreliance on sigint at the expense of actual targeting by actual operatives in denied areas.
 
+----- __367.2__ -----2022-10-09 23:44:08+08:00:
+
+The basic premise of the article is that the CIA's analysis of Putin's odds of success were wildly off, which amounts to an inexplicable intelligence failure. 
+
+The problem is that this article is evaluating an assessment of what would have happened in Ukraine upon Putin's invasion, without American and other external intervention in Ukraine itself.  It turns out that Putin would have conquered Ukraine very quickly, had the United States not provided the material, tactical and intelligence support it has. Here's a quick example/explanation:  
+
+* The Russian army's points of greatest vulnerability are in the logistics of its operations.  Fuel trucks are one case of that particular category of vulnerabilities.   
+
+* Targeting fuel trucks was a force magnifier, which allowed Ukraine's "army" to punch well above its weight.  If you stop fuel trucks, then you stop tanks.  
+
+* Russian tanks have about a 45-65 km range, and if they can't be refueled they are functionally useless, as the images of abandoned, destroyed and empty tanks littered throughout Ukraine readily demonstrate. 
+
+* The idea to target fuel trucks was not Ukraine's.  They were provided with both the strategy (to target fuel trucks) and the actual targets (the actual inbound fuel trucks) in real time.  
+
+* Had Ukraine not been provided with both the strategy and real time targets, those fuel trucks would have resupplied Russian tanks and they would have kept advancing in and throughout Ukraine.  
+
+The analysis the Intercept is referring to, and criticizing, was a scenario in which Ukraine lacked any such support. 
+
+But I'd also note that the quality of assessments is not exactly what it could be.  Starting in the 1990s and continuing through the present, the United States' ground capabilities in denied areas, or formerly denied areas (such as the territory that is now the Russian Federation) is acutely limited.  
+
+This is as a result of many decisions to rely on information sources that are not humint to an unreasonably significant degree.  So, instead of having people inside and in proximity to the Kremlin, the United States largely relies on other information sources (e.g., sigint).  This is why the United States struggles to understand what is going on inside Russia and at the highest levels of Russia's political leadership.
+
 ### 368: [r/worldnews removing all posts about an ex-cop who murdered 24 children at a preschool in Thailand](https://old.reddit.com/r/RedditCensorship/comments/xxqhe5/rworldnews_removing_all_posts_about_an_excop_who/), submitted on 2022-10-07 13:18:17+08:00.
 
 ----- __368.1__ -----2022-10-08 00:27:52+08:00:
