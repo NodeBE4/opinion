@@ -1093,7 +1093,7 @@ Re @guchuan81 @Lucs24659702 有道理，我今天在Deck上刷油漆，发现得
 
 ### 270: [2022-10-09 08:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1578901251349106688)
 
-刻舟求剑之辈，就是讲你这号人。<br>从战争初期到现在，形势越过万重山，还停留在最初的认识，别来丢脸了。<br>反复去说“我会缝扣子”吧，离我这远点。<br><br>cnsinga游子: @kanjianchuiyan ：我要是占了你们家卧室，然后说是我家地方了，你反攻就是侵略了。就好像你被强奸了，就成了我的人，你老公要是揍我，就是流氓，是这个意思吧。<br> <a href="https://twitter.com/heqinglian/status/1578738874230091776" target="_blank" rel="noopener noreferrer">https://twitter.com/heqinglian/status/1578738874230091776</a>
+刻舟求剑之辈，就是讲你这号人。<br>从战争初期到现在，形势越过万重山，还停留在最初的认识，别来丢脸了。<br>反复去说“我会缝扣子”吧，离我这远点。<br><br>cnsinga游子: @kanjianchuiyan ：我要是占了你们家卧室，然后说是我家地方了，你反攻就是侵略了。就好像你被强奸了，就成了我的人，你老公要是揍我，就是流氓，是这个意思吧。<br> <a href="https://twitter.com/HeQinglian/status/1578738874230091776" target="_blank" rel="noopener noreferrer">https://twitter.com/HeQinglian/status/1578738874230091776</a>
 
 ### 271: [2022-10-09 08:19:04+08:00 推文](https://twitter.com/HeQinglian/status/1578902830819463168)
 
