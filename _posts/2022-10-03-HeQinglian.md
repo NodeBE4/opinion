@@ -1063,23 +1063,59 @@ Re @pandatress1 @xuezhou_yang 那是凭借地理优势比如天险之类。<br>�
 
 Re @mpwpeterp @enoughtalk4 基本如此。
 
-### 263: [2022-10-09 04:28:17+08:00 推文](https://twitter.com/HeQinglian/status/1578844755462868993)
+### 263: [2022-10-09 04:19:19+08:00 推文](https://twitter.com/Iz2Y2SvJbL2ILAm/status/1578842496615862273)
+
+RT 全媒体财经俱乐部<br>特拉华州最高法院10月7日周五裁定，邮寄投票在该州是违宪的！ <a href="https://www.qtown.media/share/linkPage/9AAF30BD-EC2F-48AC-9471-512B8332AD8D.html" target="_blank" rel="noopener noreferrer">https://www.qtown.media/share/linkPage/9AAF30BD-EC2F-48AC-9471-512B8332AD8D.html</a><br><img style="" src="https://pbs.twimg.com/media/Feks4Z9akAAhbBS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 264: [2022-10-09 04:28:17+08:00 推文](https://twitter.com/HeQinglian/status/1578844755462868993)
 
 Re @CygnusMysterie1 @KELMAND1 确实也得考虑这种事情的发生。
 
-### 264: [2022-10-09 04:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1578849799734177792)
+### 265: [2022-10-09 04:48:20+08:00 推文](https://twitter.com/HeQinglian/status/1578849799734177792)
 
 Re @stupidwz 看你过去不太蠢的份上，提醒你一次：我谈的是非意识形态认可的战场形势。<br>你就站那在洼地里看吧，推特不容姜尚荣，容得下你。
 
-### 265: [2022-10-09 04:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1578851366164140032)
+### 266: [2022-10-09 04:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1578851366164140032)
 
 为想跳出中文推特圈认知洼地的推友推荐一位推主：Michael Weiss 🌻🇺🇸🇮🇪<br>@michaeldweiss <br>这位雅虎新闻高级军事和情报作家提出了基于信息分析的火箭袭击版本。<br>他研究了 9 月 9 日克里米亚基地“萨基”遭到袭击后的卫星图像，请来一位前海豹突击队指挥官的专家分析，分析结果极有意思。
 
-### 266: [2022-10-09 04:56:44+08:00 推文](https://twitter.com/HeQinglian/status/1578851914690613248)
+### 267: [2022-10-09 04:56:44+08:00 推文](https://twitter.com/HeQinglian/status/1578851914690613248)
 
 Re 拜托乌鸡血别来我这里献丑了，自己站在洼地里踮着脚尖看吧，看多少算多少，别想拉着其他人与自己一样站在洼地里。
 
-### 267: [2022-10-09 05:00:38+08:00 推文](https://twitter.com/HeQinglian/status/1578852895281512448)
+### 268: [2022-10-09 05:00:38+08:00 推文](https://twitter.com/HeQinglian/status/1578852895281512448)
 
 Re 本人就自己看看这位提供的重要信息了，偶然视情况分享一些。记住我今天分享的消息就行。泽连斯基不是说着玩儿的。
+
+### 269: [2022-10-09 08:10:02+08:00 推文](https://twitter.com/HeQinglian/status/1578900560962805761)
+
+Re @guchuan81 @Lucs24659702 有道理，我今天在Deck上刷油漆，发现得穿厚衣服，傍晚时很冷。
+
+### 270: [2022-10-09 08:12:47+08:00 推文](https://twitter.com/HeQinglian/status/1578901251349106688)
+
+刻舟求剑之辈，就是讲你这号人。<br>从战争初期到现在，形势越过万重山，还停留在最初的认识，别来丢脸了。<br>反复去说“我会缝扣子”吧，离我这远点。<br><br>cnsinga游子: @kanjianchuiyan ：我要是占了你们家卧室，然后说是我家地方了，你反攻就是侵略了。就好像你被强奸了，就成了我的人，你老公要是揍我，就是流氓，是这个意思吧。<br> <a href="https://twitter.com/heqinglian/status/1578738874230091776" target="_blank" rel="noopener noreferrer">https://twitter.com/heqinglian/status/1578738874230091776</a>
+
+### 271: [2022-10-09 08:19:04+08:00 推文](https://twitter.com/HeQinglian/status/1578902830819463168)
+
+Re 接上：这位海豹突击队指挥官的专家分析，这意味着远程导弹已经在乌克兰武装部队服役，美国提供指导，因为乌克兰没有这样的系统和训练有素的军事人员。根据韦斯的说法，防空系统拦截 ATACMS 几乎是不可能的，而且导弹的飞行速度也无法拍摄。<br>他还指出，卡车不太可能携带足够的炸药来进行破坏。
+
+### 272: [2022-10-09 08:30:39+08:00 推文](https://twitter.com/HeQinglian/status/1578905746619924480)
+
+Re @xiaxiaoqiang 人家国小，养自家国民，能过童话般的生活。外来者多了，就不行了。<br>比如一家四口，一套四个Bedroom的房子，增加两个外来人，生活就不太童话了。
+
+### 273: [2022-10-09 08:41:04+08:00 推文](https://twitter.com/HeQinglian/status/1578908367212642304)
+
+Re @noahmitchell07 听听各方面说法，也算一种对事态的了解吧。我现在不相信乌美方很多说法，因为反复太多。
+
+### 274: [2022-10-09 09:53:17+08:00 推文](https://twitter.com/HeQinglian/status/1578926541459058689)
+
+Re @Alexjandro990 默克尔退休后不太讲话，最近发表言论，要点有二，一是要认真对待普京的说话，他说了就会做。二是只有俄罗斯参与，欧洲的持久和平才能实现。<br>不太清楚美国政府与欧盟现任领导层对她这番话的真实态度。
+
+### 275: [2022-10-09 09:59:27+08:00 推文](https://twitter.com/HeQinglian/status/1578928093150208001)
+
+Re @mengyan12345 你还没提到这个因素：纽约、加州、芝加哥对于BLM，早就是轻罪不罚，999元的抢劫不算犯罪。
+
+### 276: [2022-10-09 10:15:09+08:00 推文](https://twitter.com/HeQinglian/status/1578932045296046082)
+
+Re @tankand300 @Alexjandro990 反正打的不是你家，说话容易。
 
