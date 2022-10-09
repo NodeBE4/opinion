@@ -61,7 +61,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 12: [2022-06-04 03:42:09+08:00 推文](https://twitter.com/realcaixia/status/1532809885511045121)
 
-明天六.四！
+明天六.四！<br><br>ZHANGDONG: 明天又是“六.四”纪念日，香港维园最后的蜡烛也被无情地踩灭了。历史真相必须揭露并不断反思才能让悲剧不再发生。<br>现在中国“6.4”这个日期都成了🈲词，更狂谈纪念反思。而今又借瘟疫把中国变成了人间地狱，这就是今日中国之黑现状！33年来中共独裁专制进一步把中国推向深渊。鲍彤先生的回忆很有历史价值.<br><br><video src="https://video.twimg.com/ext_tw_video/1532643686441426945/pu/vid/932x720/XrU9-7xZIoTcxzm7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1532643686441426945/pu/img/pM537xrpmEjWELHq.jpg"></video> <a href="https://twitter.com/gaoyu200812/status/1532613508067602437" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1532613508067602437</a>
 
 ### 13: [2022-06-04 04:04:43+08:00 推文](https://twitter.com/realcaixia/status/1532815562753347584)
 
@@ -85,7 +85,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。
+昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
