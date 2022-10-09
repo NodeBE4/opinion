@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-07
+date: 2022-10-08
 from: https://old.reddit.com/r/AskHistorians/comments/xv5nlc/what_would_be_considered_the_first_known_instance/
 layout: post
 tags:
@@ -118,4 +118,10 @@ So this is something that first requires a counter-question: were not the Zungha
 The other thing to note is that Burma certainly did have access to European weapons. Quoting a footnote from Yingcong Dai's 'A Disguised Defeat: The Myanmar Campaign of the Qing Dynasty':
 
 > In the 1760s, Myanmar had been exposed to Western penetration for many years. From India, the British were eager to expand into Myanmar, which brought them into conflict with the French, who were also proactive in imposing their influence on this country. Through trade with the Western countries, Myanmar had ready access to the advanced European weapons. During the war, they had used all these weapons, along with traditional weaponry and war vehicles such as elephants to battle the Manchu Bannermen, who still used old-fashioned fire weapons and bows. The Myanmar armies even used land mines in the war, which gave the Qing troops much headache. There are a number of accounts on the Myanmar's use of the Western weaponry in *Mian dang* (e.g. the 33rd year, 2/66; 2/89).
+
+### 862: [Duality of cat-dog relationship in hololive](https://old.reddit.com/r/VirtualYoutubers/comments/xytuxv/duality_of_catdog_relationship_in_hololive/), submitted on 2022-10-08 22:14:54+08:00.
+
+----- __862.1__ -----2022-10-09 15:48:25+08:00:
+
+Ha Fauna is not gentle, she just doesn't swear. Zeta's difference is she does.
 
