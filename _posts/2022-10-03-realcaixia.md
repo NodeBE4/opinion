@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-03~2022-10-09'
 
 ### 7: [2022-10-06 09:57:32+08:00 推文](https://twitter.com/realcaixia/status/1577840446755291137)
 
-一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br>
+一推友说这婚礼是要上史书的。<br><br>荣剑: 黑色幽默还是红色幽默？<br> <a href="https://twitter.com/JingzhouTao/status/1577498013055954944" target="_blank" rel="noopener noreferrer">https://twitter.com/JingzhouTao/status/1577498013055954944</a>
 
 ### 8: [2022-10-06 22:41:27+08:00 推文](https://twitter.com/realcaixia/status/1578032692720848896)
 
@@ -102,4 +102,24 @@ Re @HenryCh34283099 很好。政府部门设党组，党的直属机构设校委
 ### 22: [2022-10-09 00:37:26+08:00 推文](https://twitter.com/realcaixia/status/1578786656483934208)
 
 常常为我们的维权律师夫人们和孩子们深深感动。<br>2015年7月9号那天，中共警察突然在23个省市同时行动；共抓了300多位律师监禁判刑。中共当局以为这样能吓退律师们，结果恰恰相反。许多律师的夫人们勇敢地站出来反抗揭露极权暴政罪行，她们成为了大陆女性的优秀榜样！支持王贺楠女士，我们和您站在一起！<br><br>王贺楠: 今天是爱忠失去自由的499天<br>两个小孩都去上学了，有时间录下视频<br>昨天何伟民律师特地的会见爱忠，告诉爱忠我们回老家的情况，爱忠得知我们回老家特别开心。<br><br><video src="https://video.twimg.com/ext_tw_video/1578579032173518849/pu/vid/720x960/RhzFbpnUJ3eOuesT.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1578579032173518849/pu/img/TkbN65bs57jcDErn.jpg"></video>
+
+### 23: [2022-10-09 10:11:32+08:00 推文](https://twitter.com/realcaixia/status/1578931133617606656)
+
+特别推荐：<br>1930年代日本军国主义侵略中国，遂有国共二次合作以共同抗日。中共49年后谎言编造历史，自夸是抗日中流砥柱。史实是当时中共欺骗国民政府，打国军抢地盘 ；李锐日记有记录，恢复历史真相。<br><br>禁忌史話：李銳日記秘密12｜揭開「 皖南事變」真相（上） <a href="https://youtu.be/OvQmQWyQaFg" target="_blank" rel="noopener noreferrer">https://youtu.be/OvQmQWyQaFg</a>
+
+### 24: [2022-10-09 10:23:13+08:00 推文](https://twitter.com/realcaixia/status/1578934073804091392)
+
+只有言论自由、权利得到保障、活得有人格尊严的国家才是人安居乐业的地方。1930年代初，纳粹法西斯希特勒上台后，爱因斯坦离开德国到达美国，继续为人类科学事业作出伟大贡献。对于追求自由不愿当奴隶的人来说，哪里有自由，哪里就是自己的国家。<br><br>演员孙海英: 辟谣:这里比新浪微博自由的多，还是可以讲理的地方，不会招呼都不打就封了你，我言论自由，可以随便说话，我现在好的很，喜乐极了，没有特殊情况不会回国<br><br><img style="" src="https://pbs.twimg.com/media/FeirNl6akAESitg?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeirN6NaEAAKUMM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 25: [2022-10-09 10:56:55+08:00 推文](https://twitter.com/realcaixia/status/1578942556876197889)
+
+Re 李锐日记写到周恩来给李锐夫人范元甄写信隐晦地提到皖南事变。这集视频精炼提取史料，梳理中共对国共合作抗日统一战线的基本原则，回顾中共党薄一波等人瞒骗阎锡山，发展中共军事力量，揭开八路军120师和129师的由来，追述八路军消灭以南下学生为主体的河北抗日民军：新四军打黄桥战役消灭国军的事实。<br><img style="" src="https://pbs.twimg.com/media/FemH4qUWQAESogJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FemH4qRXoAEdwor?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FemH4qSWYAImLfq?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FemH4qSXkAIZ3vn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-10-09 12:29:37+08:00 推文](https://twitter.com/realcaixia/status/1578965884097691648)
+
+推荐：<br><br>邱家军: 中共二十大报道：党内改革派及民间倒习劝退呼声纷传<br> <a href="https://www.voachinese.com/a/voices-against-xi-s-ambition-of-reelection-across-social-media-ringing-ahead-of-ccp-congress-20221009/6782093.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/voices-against-xi-s-ambition-of-reelection-across-social-media-ringing-ahead-of-ccp-congress-20221009/6782093.html</a>
+
+### 27: [2022-10-09 12:33:18+08:00 推文](https://twitter.com/realcaixia/status/1578966812301017088)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Femd8kaWYAE2S3I?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Femd8kXWYAIP8E8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

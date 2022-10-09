@@ -233,7 +233,7 @@ Re @gmzhaogmailcom1 你还是先帮欧盟找着天然气、石油等能源替代
 
 ### 55: [2022-05-19 20:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1527267629915938817)
 
-评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？
+评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？<br><br>美国之音中文网: 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言<br> <a href="http://dlvr.it/SQdBq4" target="_blank" rel="noopener noreferrer">http://dlvr.it/SQdBq4</a>
 
 ### 56: [2022-05-19 20:59:01+08:00 推文](https://twitter.com/HeQinglian/status/1527272617102741507)
 
@@ -269,7 +269,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
-如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。
+如果可能，今后选议员，一定需要这些人有过挣工资养活自己的经历，否则都不知道钱是需要辛苦工作。<br>才写完，想起AOC做酒吧服务生时，也需要辛苦工作。但现在根本不知道“谁知盘中餐，粒粒皆辛苦”，全是小拜登那号以父之名挣钱、敞开手花钱的主儿。<br><br>The Hill: Thursday, the Senate blocked $48 billion aid package for restaurants and other small businesses.<br><br><video src="https://video.twimg.com/amplify_video/1527422746413645824/vid/1280x720/6woAhhNPx20kERzk.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/amplify_video_thumb/1527422746413645824/img/j-O9AhQ_PhBxDqrS.jpg"></video> <a href="http://hill.cm/ELVsWwr" target="_blank" rel="noopener noreferrer">http://hill.cm/ELVsWwr</a>
 
 ### 65: [2022-05-20 08:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1527442443716673536)
 
@@ -277,7 +277,7 @@ Re @KELMAND1 我一是痛惜乌克兰人的命，二是希望俄罗斯少点牺�
 
 ### 66: [2022-05-20 08:17:48+08:00 推文](https://twitter.com/HeQinglian/status/1527443437733257216)
 
-届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。<br><br>lexislex: 预告一个个来了<br>May, 2022<br><br><img style="" src="https://pbs.twimg.com/media/FTIOwpXUYAEvYo7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+届时我一定将世界欢呼拜登当选的媒体报道一篇篇翻出来，让媒体人知道自己做了多大的孽。
 
 ### 67: [2022-05-20 08:20:54+08:00 推文](https://twitter.com/HeQinglian/status/1527444218196680711)
 

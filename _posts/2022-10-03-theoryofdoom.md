@@ -2,7 +2,7 @@
 author: theoryofdoom
 categories:
 - Reddit
-date: 2022-10-07
+date: 2022-10-09
 from: https://old.reddit.com/r/N_N_N/comments/xu2ao0/azerbaijanis_executing_armenian_pows_nsfl/
 layout: post
 tags:
@@ -84,4 +84,12 @@ It's not so much a "hive mind" as a cultivated information ecosystem.
 ----- __368.2__ -----2022-10-08 14:07:47+08:00:
 
 Thai tourist industry, for example.  I'm not inclined to speculate, though.
+
+### 369: [FBI and CISA Publish a PSA on Information Manipulation Tactics for 2022 Midterm Elections](https://old.reddit.com/r/ElectionInterference/comments/xz1cr7/fbi_and_cisa_publish_a_psa_on_information/), submitted on 2022-10-09 03:30:19+08:00.
+
+----- __369.1__ -----2022-10-09 12:41:39+08:00:
+
+The underlying Public Service Announcement seems to have been removed:
+
+https://www.cisa.gov/uscert/sites/default/files/publications/PSA-information-activities_508.pdf
 
