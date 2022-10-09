@@ -31,3 +31,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FepikeoXwAAeyHH?format=jpg
 
 Re 下面这两图片就是我们聊到的问题，袁莉按时间轴排列了，便于有兴趣的推友们或者全听（时间比较长，得一个多小时），或者看小标题选择听。可以说，这次聊天，袁莉替许多网友问了我一些大家都想知道的问题，我正好借此机会给大家一个公开回答。感谢老朋友袁莉给了我这个机会。<br><img style="" src="https://pbs.twimg.com/media/FeqCXh1XoAEIBJC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FeqCXh3X0AMuTZj?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 5: [2022-10-10 06:47:48+08:00 推文](https://twitter.com/realcaixia/status/1579242250504376321)
+
+Re @Zealots2022 她好像没有在电视台工作过。
+
