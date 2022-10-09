@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-10-06
+date: 2022-10-09
 from: https://twitter.com/SpeechFreedomCN/status/1577141029563572224
 layout: post
 tags:
@@ -34,4 +34,16 @@ Jiangxi man Yang, who criticized the Communist government of China on Weibo &amp
 ### 5: [2022-10-06 13:44:12+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1577897492368203776)
 
 Re To be precise: judicial authentication found him mentally unstable and therefore Partially Criminally Responsible.<br>Correction: the Procuratorate sought a 22 months sentence for him.<br>The exact court ruling remains unknown.
+
+### 6: [2022-10-09 20:23:11+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1579085061680693249)
+
+2018年6月，江西省宁都县男子刘某，因在其运营的微信公众号发布了文章《拆老宅，拆不出一个社会主义》，内容为指控当地政府强拆并描述了受害者哭喊的惨状，导致被行政拘留10日。警方称该文章“内容虚假，恶意抨击党委和政府”，警方还发现该公众号过去也发布过一些“敏感、虚假和负面”的信息。<br><img style="" src="https://pbs.twimg.com/media/FeoIyGOWAAAR2fR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-10-09 20:25:05+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1579085542343729152)
+
+Old news: Jiangxi man Liu detained for 10 days for publishing an article on WeChat Media Platform that accused the government of forced demolition, which police claimed was false and maliciously attacking the government.<br><img style="" src="https://pbs.twimg.com/media/FeoJhroWIAA5irf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-10-09 20:37:16+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1579088606979059713)
+
+Thank you Chinese diplomat for reminding us that people deserve the right take to streets to express their opinion, even when it's inconsistent with their governments' official attitude.<br><br>Zhang Meifang张美芳: "Let's get out of NATO!"<br><br>Tens of thousands of people in Paris today calling for France to leave NATO.<br><br><video src="https://video.twimg.com/ext_tw_video/1578796360479948800/pu/vid/960x540/e0KlUNjTV-_GpbmI.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1578796360479948800/pu/img/m5rbYzjto-sB3X5l.jpg"></video>
 
