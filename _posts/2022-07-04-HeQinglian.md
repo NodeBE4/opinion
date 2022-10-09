@@ -445,11 +445,11 @@ Re @LeungBread 不是正在发动网络政变，差点抓到他了？你且等�
 
 ### 108: [2022-07-07 20:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1545024269620584450)
 
-WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。
+WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。<br><br>华尔街日报中文网: 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
-说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/jacob43817149/status/1544766052021813249</a>
+说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/Jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/Jacob43817149/status/1544766052021813249</a>
 
 ### 110: [2022-07-07 23:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1545065171353206784)
 
@@ -697,11 +697,11 @@ Re @guchuan81 我其实也好想种棵樱桃树，查了资料，畏惧甲虫与
 
 ### 171: [2022-07-10 03:24:05+08:00 推文](https://twitter.com/Tianshuihanyan/status/1545851299811442688)
 
-RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>拜登老婆比女皇还威风！退休3星将军只在拜登老婆的推下面回了一句话：“很高兴看到你终于知道什么是女人了！”  . 居然被美军解除高薪顾问工作合约！<br><br>左派就是用这些卑鄙手段恐吓打击军中保守派官兵，让他们屈服于左派的统治！<br><br>New York Post: Retired three-star general Gary Volesky suspended over tweet mocking Jill Biden<br><br><img style="" src="https://pbs.twimg.com/media/FXPdBhpXEAAIBVm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/pzgrj03" target="_blank" rel="noopener noreferrer">https://trib.al/pzgrj03</a>
 
 ### 172: [2022-07-10 03:56:25+08:00 推文](https://twitter.com/HeQinglian/status/1545859437658783745)
 
-RT He Qinglian<br>Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
+Re @Wu_Zhi @JianglinLi 西方媒体正在忙于报道G20俄外长先离场之事，为西方团结冷落俄罗斯高兴不已。<br>BTW，不管是否愿意看到，这次G20王毅成了主角。中方向美方提出四份清单：要求美纠正错误对华政策和言行的清单、中方关切的重点个案清单、中方重点关切的涉华法案清单、中美8个领域合作清单。<br>拜登对华外交办成这样，无语。
 
 ### 173: [2022-07-10 03:58:59+08:00 推文](https://twitter.com/HeQinglian/status/1545860082692399106)
 

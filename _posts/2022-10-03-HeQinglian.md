@@ -1215,3 +1215,11 @@ Re @tracy68683668 上次去沙特，目的是为修复关系。但拜登不知�
 
 Re @wechat2525138 桥上应该有限速，速度低，停止就容易一些。我经历过火车强停脱轨事件，但因为在平地，没有翻车。
 
+### 301: [2022-10-09 23:57:20+08:00 推文](https://twitter.com/HeQinglian/status/1579138953537781760)
+
+Re @KELMAND1 @youjijiulang2nd @jojowheel @david_david1968 根据我的观察，在俄乌信息战的年代，乌方十二分夸大，美欧政府一方十分夸大，但非主流媒体与一些专家分析接近实况。<br>相信宣传的人大有人在，为此激动并找人吵架则是智商情商欠奉。
+
+### 302: [2022-10-09 23:59:43+08:00 推文](https://twitter.com/RealBeiMing/status/1579139554132779009)
+
+RT 北明BeiMing<br>轉發<br>（簡評：兩黨理念簡化後的分野，基本準確）<br><img style="" src="https://pbs.twimg.com/media/Feo5tVMWAAEkPDZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
