@@ -105,7 +105,7 @@ Re @yangjianli001 哈哈！
 
 ### 23: [2022-04-20 02:29:10+08:00 推文](https://twitter.com/realcaixia/status/1516484065544708098)
 
-上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，上次转推计数143，现在163。实际逝去者远不止163人。接力第157是一位网友记述，他计数到在上海老人院运尸车拉走19位逝去的老人。从143到163，逝去者中还有自杀、急病无处救治、忠于职守的小区物业经理、保安，他们本不该离开人世的。细看每一个接力，令人撕心的痛！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
@@ -137,7 +137,7 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
-李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！<br><br>《议报》: 李承鹏：上海是预示未来一百年的大河<br> <a href="https://yibaochina.com/?p=246090" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246090</a>
+李承鹏老师的散文，讽刺幽默笔如匕首投枪，嬉笑怒骂皆成文章。这篇文章字字犀利、悲愤力透纸背，悲悯穿透人心。庆父不死 鲁难未已。承鹏老师借小说《白鹿原》中一情节愤然诘问：“折腾到何时为止”！
 
 ### 32: [2022-04-22 21:05:00+08:00 推文](https://twitter.com/realcaixia/status/1517489646720229380)
 
@@ -161,7 +161,7 @@ Re @henry50383806 @lianchaohan 一直挖下去！让真相大白于天下！
 
 ### 37: [2022-04-22 22:58:07+08:00 推文](https://twitter.com/realcaixia/status/1517518115160080386)
 
-比较同意这个推友的看法。
+比较同意这个推友的看法。<br><br>Henry Chang: 莫把中共神秘化。中共就是当代的八旗兵，是泛官僚体系、准军事组织<br>共产党员早已没有一丁点理想，有的只是通过加入这个自利型集团谋取私利的贪婪。<br>但是，不同阶层的党员的政治倾向是不同的。<br>权贵、上层是顽固分子，局级是易动摇可争取的阶层，处级以下则与普罗大众无异，是随时被踩在脚底下口香糖。<br>
 
 ### 38: [2022-04-23 00:44:52+08:00 推文](https://twitter.com/realcaixia/status/1517544978972614657)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
