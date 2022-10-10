@@ -49,7 +49,7 @@ Re @FangYiDuan1 @david_david1968 华文圈的分析，作者应该在大陆才�
 
 ### 9: [2022-06-20 09:39:22+08:00 推文](https://twitter.com/HeQinglian/status/1538697987114864640)
 
-Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。
+Fox：共和党人正在考虑竞选总统而不是等待川普<br>从文中内容来看，共和党内有几位将在中期选举后考虑参选2024。川普看来并未打算放弃参赛。<br><br>Fox News: Republicans mulling run for president not waiting on Trump<br> <a href="https://fxn.ws/3y4hVNh" target="_blank" rel="noopener noreferrer">https://fxn.ws/3y4hVNh</a>
 
 ### 10: [2022-06-20 11:02:03+08:00 推文](https://twitter.com/HeQinglian/status/1538718795476393985)
 
@@ -117,7 +117,7 @@ Re @lindahuiyun 环保主义者的鸟类保护专业人士对此视而不见？
 
 ### 26: [2022-06-21 21:57:26+08:00 推文](https://twitter.com/HeQinglian/status/1539246117816352768)
 
-转发，BBC近几年以来，这算做了件正经事。
+转发，BBC近几年以来，这算做了件正经事。<br><br>BBC News 中文: BBC一项调查发现，联合国总部存在多起包括性侵、强奸和腐败行为的指控，主要针对联合国工作人员，而高级人员拥有的法律豁免权，使之成为犯罪者的天堂。<br><br>有指控者表示，相关投诉一直被掩盖，而一些人在说出自己的经历后受到惩罚，甚至被开除。<br><br>完整纪录片将于今晚在BBC第二台（BBC Two）播出。<br><br><video src="https://video.twimg.com/amplify_video/1539168374164492289/vid/1280x720/5nIeFGY3VPryZIhY.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FVxZSRLXsAACAlA?format=jpg&amp;name=orig"></video>
 
 ### 27: [2022-06-21 21:58:58+08:00 推文](https://twitter.com/HeQinglian/status/1539246502522101761)
 
@@ -165,7 +165,7 @@ Re @JianglinLi @david_david1968 @RealBeiMing @Wu_Zhi @HongfuDing @ngexp Mark了�
 
 ### 38: [2022-06-22 21:17:02+08:00 推文](https://twitter.com/HeQinglian/status/1539598337455841280)
 
-昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。<br><br>He Qinglian: 昨天看韩剧《第五共和国》1979年朴正熙被枪杀案，发现中情部长金载圭完全未谋划，而是血气之勇。<br>1976年叶、汪、华逮捕四人帮，那谋划之周密、等待时机之耐心，与金载圭刺杀相比高了几个等级。<br>中国传说的李克强倒习，可能二者都不是，口头操练。<br>
+昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。
 
 ### 39: [2022-06-22 21:19:23+08:00 推文](https://twitter.com/HeQinglian/status/1539598929322450945)
 
@@ -241,7 +241,7 @@ Re 此情景让我想起一寓言：<br>有夫妻俩听说河豚美味但有毒�
 
 ### 57: [2022-06-24 08:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1540136026114609155)
 
-德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。<br><br>华尔街日报中文网: 欧盟领导人周四同意让乌克兰成为加入该集团的正式候选国，为未来几年可能加入欧盟打开了大门。<br>同时，德国政府启动了其应对天然气短缺的三步计划中的第二步，距离天然气配给制更近一步。如果实行配给制可能将德国这个欧洲最大的经济体推入衰退。<br> <a href="https://on.wsj.com/3zUF0Dw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zUF0Dw</a>
+德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。
 
 ### 58: [2022-06-24 21:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1540328841717379073)
 
@@ -305,7 +305,7 @@ RT Stacy Chen 🇨🇦🇺🇸<br>Re @franktianxie 从“1-6委员会”，到
 
 ### 73: [2022-06-25 21:11:23+08:00 推文](https://twitter.com/HeQinglian/status/1540684079456059392)
 
-堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗
+堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗<br><br>RFI 華語 - 法國國際廣播電台: 美最高法院終結墮胎權憲法保障後，美西岸3州承諾捍衛墮胎權<br><br><img style="" src="https://pbs.twimg.com/media/FWDXjlXUAAAlx1N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Wuu.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Wuu.t</a>
 
 ### 74: [2022-06-25 21:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1540684709931274240)
 
