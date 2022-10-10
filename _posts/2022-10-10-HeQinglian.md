@@ -115,3 +115,51 @@ Re @jokergetupearly @dinglili7 《天龙八部》当中，乔峰的一生就是�
 
 Re @xxj2040 美国左派见了BLM，忏悔下跪，被抢被杀也毫无怨言，原来是他们又比世界他国与其他族裔先行一步，率先认祖归宗。<br>《水浒传》很有预见性：黑爷爷、黑祖宗这名号最先发明。
 
+### 26: [2022-10-10 07:12:46+08:00 推文](https://twitter.com/HeQinglian/status/1579248533957668864)
+
+Re @xxj2040 吴国光是政治学教授，研究中国政治是其长项。
+
+### 27: [2022-10-10 07:22:51+08:00 推文](https://twitter.com/HeQinglian/status/1579251073692205056)
+
+RealClearPolitics 预测显示，美国参议院在 2022 年中期选举中以 52-48 的多数票翻红<br>预测显示特朗普支持的共和党人亚当拉克萨尔特在内华达州击败现任民主党参议员凯茜科尔特斯马斯特罗<br>——如果为真，那就可以阻止拜登许多极端的败国议程。<br><br>Jenna Ellis 🍊🦅: New Model Shows Republicans Taking Back Senate 52 - 48<br> <a href="https://conservativebrief.com/taking-67206/?utm_source=CB&amp;utm_medium=JE" target="_blank" rel="noopener noreferrer">https://conservativebrief.com/taking-67206/?utm_source=CB&amp;utm_medium=JE</a>
+
+### 28: [2022-10-10 07:30:37+08:00 推文](https://twitter.com/HeQinglian/status/1579253025931001857)
+
+Re @FranzMendelsso1 @david_david1968 我说的不一样，是林彪在四野有极高人望，手下将官服他，被视为军神。<br>徐才厚一和平将军，上位全靠经营人脉，手下全凭利益结网。<br>也因此，曾有消息说他夫人神智失常，大院居然没人管她。林豆豆不一样，除了非常极端的那几年，以后一直有人看望她。
+
+### 29: [2022-10-10 07:33:38+08:00 推文](https://twitter.com/HeQinglian/status/1579253786425843713)
+
+泰媒：制裁俄罗斯，东西方不同调 <br>东南亚国家作为轮值主席仍未放弃促成美俄中三国领导人见面并举行会谈的希望。拜登此前声称因要参加孙女婚礼而将缺席今年底在亚洲举行的系列峰会。但东盟国家正在积极动用外交资源敦促拜登改变。<br>——原来世界都知道美国是乌克兰的主人。 <a href="https://rfi.my/8o3F.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8o3F.T</a>
+
+### 30: [2022-10-10 07:52:46+08:00 推文](https://twitter.com/HeQinglian/status/1579258599611990016)
+
+绝望的欧洲人重新使用世界上最古老的取暖燃料<br>寒冬将至，欧洲对木柴的需求增加了数倍。法国的木材价格几乎翻了一番，现价为每吨 600 欧元。匈牙利禁止出口木材，罗马尼亚已对木柴限价六个月。对燃木炉的需求也显着增加。销售公司的老板说订单增加了四倍多。 <a href="https://www.bloomberg.com/news/articles/2022-10-08/firewood-demand-is-surging-as-europeans-return-to-world-s-oldest-fuel" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-10-08/firewood-demand-is-surging-as-europeans-return-to-world-s-oldest-fuel</a>
+
+### 31: [2022-10-10 08:03:09+08:00 推文](https://twitter.com/HeQinglian/status/1579261213011480576)
+
+Re @xxj2040 晚明冒辟疆故事：<br>此人文采风流自不必说，奔走抗清失败后不仕满清也做到了，但到70多岁时，为了孙子一个县吏职位，不惜低首下心求人，连当时的县令都看得难受。<br>我看了也难受。
+
+### 32: [2022-10-10 09:33:08+08:00 推文](https://twitter.com/HeQinglian/status/1579283858620837888)
+
+Re @Rainding45 昨天看了一眼，被拒绝了，说加入国必须处理好所有的领土纷争，BlaBla，还是旧话重提。
+
+### 33: [2022-10-10 09:36:47+08:00 推文](https://twitter.com/HeQinglian/status/1579284779111174145)
+
+Re @JianglinLi @lindahuiyun @princeton_walk 那位朋友对这位左派教授说了：“中国人不喜欢毛，毛让大家生活得很痛苦压抑，而且经常搞运动……”，人家反问：“怎么可能？无产阶级专政下继续革命不是挺好？你看美国资本主义多坏。”
+
+### 34: [2022-10-10 10:05:12+08:00 推文](https://twitter.com/HeQinglian/status/1579291931187609601)
+
+Re @xxj2040 他胡说多多，但这条不是。麦肯锡《无疆界市场》：“谁掌控全球资本市场的定价权，谁就掌控了全球资金的流向、掌控了主权国家的货币政策和金融政策、掌控了主权国家兴衰成败的命脉。试问当今世界，谁掌控着全球债券市场和资本市场的定价权呢？答案是：那就是以穆迪、标准普尔为代表的美国信用评级机构。”
+
+### 35: [2022-10-10 10:11:20+08:00 推文](https://twitter.com/HeQinglian/status/1579293472997388289)
+
+Re @xxj2040 评级机构都有网页，上面有详细介绍。
+
+### 36: [2022-10-10 10:14:01+08:00 推文](https://twitter.com/HeQinglian/status/1579294147764453377)
+
+Re @xxj2040 这你得去寻找《美国秘密》的拍摄者，他可能清楚。😂
+
+### 37: [2022-10-10 10:32:29+08:00 推文](https://twitter.com/HeQinglian/status/1579298794289926146)
+
+美企的工作岗位正以创纪录速度从中国回流美国<br><br>美企今年有望令35万个工作岗位从中国、东南亚等地区回流美国。原因是中美贸易战带来的关税攀升、乌克兰战争和新冠疫情引发的供应链危机。但这对于美国蓝领工人来说并非完全是利好消息，因为公司也开始转向机器自动化生产。 <a href="https://www.wsj.com/video/china/FD16913B-0AE8-427B-8438-7D9178BA124B.html" target="_blank" rel="noopener noreferrer">https://www.wsj.com/video/china/FD16913B-0AE8-427B-8438-7D9178BA124B.html</a>
+
