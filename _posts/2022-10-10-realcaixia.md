@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-10-10~2022-10-16'
 
 ### 1: [2022-10-10 02:44:14+08:00 推文](https://twitter.com/realcaixia/status/1579180956488908800)
 
-这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br>
+这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br> <a href="https://twitter.com/RFI_Cn/status/1578896305753325568" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1578896305753325568</a>
 
 ### 2: [2022-10-10 02:52:22+08:00 推文](https://twitter.com/realcaixia/status/1579183002751766528)
 
@@ -50,4 +50,8 @@ Re @Zealots2022 她好像没有在电视台工作过。
 ### 9: [2022-10-10 19:28:17+08:00 推文](https://twitter.com/realcaixia/status/1579433632728756225)
 
 杨恒均民主小贩文章影响巨大，杨恒均最近3年多身陷牢狱而不得正常法律程序的裁定，也影响力巨大。杨恒均的遭遇告诉每个中国人告诉每个中共政法系统和国家安全部系统的人，当您只是极权政治系统的工具而无人权保障时，极权政治系统同样随时可以加害于你。对极权统治制度和极权统治集团不能存丝毫幻想！<br><br>蔡慎坤: 杨恒均身陷牢狱已经三年多了，什么时候才能出来几乎看不到希望，一个影响千万人的“民主小贩”沦为战狼外交或派系恶斗的牺牲品，真是无比悲哀！家国情怀使他关键时刻失去基本判断力，对于抱有幻想的华裔是最大的警示！遥想30多年前我们都戏称他为“椰城哨兵”，最终却连自己和家人都被绞肉机绞得遍体鳞伤！<br><br><img style="" src="https://pbs.twimg.com/media/Fes_CqjaUAAZGIf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fes_CqhacAELphl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fes_CqlacAAQ7Rh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fes_CqgaMAAOahD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-10-10 23:39:33+08:00 推文](https://twitter.com/realcaixia/status/1579496867423195136)
+
+《议报》英文版 #yibao 今天正式上线。作为《议报》主编，我感谢为此付出心血的翻译编辑团队的中外志愿者。<br>《议报》英文版是大翻译运动的一部分，旨在把在万马齐喑的党国遭受打压的中国公民社会不屈抗争的故事和公民“议见”告诉世界，希望赐稿或参加翻译编辑团队。链接如下： <a href="https://www.yibao.net/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/</a><br><img style="" src="https://pbs.twimg.com/media/FeuABzDWYAAzhzs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
