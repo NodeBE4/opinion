@@ -163,3 +163,39 @@ Re @xxj2040 这你得去寻找《美国秘密》的拍摄者，他可能清楚�
 
 美企的工作岗位正以创纪录速度从中国回流美国<br><br>美企今年有望令35万个工作岗位从中国、东南亚等地区回流美国。原因是中美贸易战带来的关税攀升、乌克兰战争和新冠疫情引发的供应链危机。但这对于美国蓝领工人来说并非完全是利好消息，因为公司也开始转向机器自动化生产。 <a href="https://www.wsj.com/video/china/FD16913B-0AE8-427B-8438-7D9178BA124B.html" target="_blank" rel="noopener noreferrer">https://www.wsj.com/video/china/FD16913B-0AE8-427B-8438-7D9178BA124B.html</a>
 
+### 38: [2022-10-10 16:44:32+08:00 推文](https://twitter.com/ElaineYuMuMu/status/1579392425726210048)
+
+RT Elaine Yu<br>我在节目中曾经说过，挺乌的人很难继续假装正义下去，因为他们能够找到的道德支撑越来越少。<br>当然你可以不去挺俄，但是如果到现在还在继续挺乌，那就无疑是选择挺污、挺左派民主党、挺索罗斯、挺世界大重置、挺敌基督！<br>基督徒污粉们在上帝面前是无可推诿的！<br><video src="https://video.twimg.com/ext_tw_video/1579392305815252992/pu/vid/1280x720/OSGW6u-wPA9-uEkx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1579392305815252992/pu/img/w9iNQlUnOgvpQ4FC.jpg"></video>
+
+### 39: [2022-10-10 21:34:49+08:00 推文](https://twitter.com/HeQinglian/status/1579465476677439490)
+
+Re @Jessie2021626 一个内政方面出了方向性严重问题的国家，还居然被所谓自由民主人士当作世界领导，为美国极左盗选借壳上市的灯塔国名义做出的一切外交军事行动叫好，实在让人无语。<br>外交是内政的延续，军事是外交的极端手段。
+
+### 40: [2022-10-10 21:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1579466289512579074)
+
+Re @timothyshlong 今年一定要小心火烛。<br>松树烧两月，任何房子都变成黑油烟覆盖。还是不要用吧。
+
+### 41: [2022-10-10 21:40:32+08:00 推文](https://twitter.com/HeQinglian/status/1579466914929446914)
+
+Re @5dInAhXwdNEufcj 数量问题，就业首先是计量。
+
+### 42: [2022-10-10 21:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1579468574393274368)
+
+欧洲如此困难，民众抗议蜂起，北溪管道事件后，欧洲普遍沉默，但瑞典丹麦两国调查后未指证俄罗斯，美国国内多家媒体分析认为是美国干的。<br>主媒虽然还在坚持，但拜登政府还能一意孤行，坚持下去么？拜登回避这事不是办法。<br>台湾不是当前的紧急问题，还是俄乌止战，符合全世界利益。<br><br>He Qinglian: 泰媒：制裁俄罗斯，东西方不同调 <br>东南亚国家作为轮值主席仍未放弃促成美俄中三国领导人见面并举行会谈的希望。拜登此前声称因要参加孙女婚礼而将缺席今年底在亚洲举行的系列峰会。但东盟国家正在积极动用外交资源敦促拜登改变。<br>——原来世界都知道美国是乌克兰的主人。<br> <a href="https://rfi.my/8o3F.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8o3F.T</a>
+
+### 43: [2022-10-10 21:48:03+08:00 推文](https://twitter.com/HeQinglian/status/1579468808095690753)
+
+Re @mingshi_chen @Jessie2021626 人家体制内新长征准备了半个世纪。
+
+### 44: [2022-10-10 21:50:37+08:00 推文](https://twitter.com/HeQinglian/status/1579469451476762624)
+
+Re @Jessie2021626 补充：正人先正己。我欢迎往昔的宪政法治美国重新回归，那个美国才能充当世界警察。<br>一个自身不正的政府，手中拥有再强大的军力、实力，做出的事，最后既不利世界，也不利自身。
+
+### 45: [2022-10-10 21:52:09+08:00 推文](https://twitter.com/HeQinglian/status/1579469837348540416)
+
+Re @lindahuiyun 有加州熟人将未成年孩子送回老家上海就读，应该是正确的选择。以后美国如果还能回复正常，再回来吧。
+
+### 46: [2022-10-10 21:57:53+08:00 推文](https://twitter.com/HeQinglian/status/1579471281757761536)
+
+Re @ElaineYuMuMu 这些人就剩下满腔污秽之气，胡乱喷洒，人不要脸，百事可为。
+
