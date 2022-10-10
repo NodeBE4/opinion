@@ -35,3 +35,19 @@ Re 下面这两图片就是我们聊到的问题，袁莉按时间轴排列了�
 
 Re @Zealots2022 她好像没有在电视台工作过。
 
+### 6: [2022-10-10 18:13:56+08:00 推文](https://twitter.com/realcaixia/status/1579414923838648320)
+
+转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br>
+
+### 7: [2022-10-10 18:57:20+08:00 推文](https://twitter.com/realcaixia/status/1579425845063868416)
+
+辛灏年教授回答的太好了！究竟是爱中国还是爱中共，这是我们自己首先必须扪心自问的问题，请诚实对待自己，并公开坦荡地回答大家。<br><br>浅: 回答太漂亮了！<br>“我是爱中国！你是爱中共！”<br><br><video src="https://video.twimg.com/ext_tw_video/874919686617657345/pu/vid/1280x720/e3FZEWyGqDE_JDlg.mp4" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/874919686617657345/pu/img/g7klE1Hn2N_rvWJA.jpg"></video>
+
+### 8: [2022-10-10 19:17:26+08:00 推文](https://twitter.com/realcaixia/status/1579430901855186946)
+
+我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br>
+
+### 9: [2022-10-10 19:28:17+08:00 推文](https://twitter.com/realcaixia/status/1579433632728756225)
+
+杨恒均民主小贩文章影响巨大，杨恒均最近3年多身陷牢狱而不得正常法律程序的裁定，也影响力巨大。杨恒均的遭遇告诉每个中国人告诉每个中共政法系统和国家安全部系统的人，当您只是极权政治系统的工具而无人权保障时，极权政治系统同样随时可以加害于你。对极权统治制度和极权统治集团不能存丝毫幻想！<br><br>蔡慎坤: 杨恒均身陷牢狱已经三年多了，什么时候才能出来几乎看不到希望，一个影响千万人的“民主小贩”沦为战狼外交或派系恶斗的牺牲品，真是无比悲哀！家国情怀使他关键时刻失去基本判断力，对于抱有幻想的华裔是最大的警示！遥想30多年前我们都戏称他为“椰城哨兵”，最终却连自己和家人都被绞肉机绞得遍体鳞伤！<br><br><img style="" src="https://pbs.twimg.com/media/Fes_CqjaUAAZGIf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fes_CqhacAELphl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fes_CqlacAAQ7Rh?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fes_CqgaMAAOahD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
