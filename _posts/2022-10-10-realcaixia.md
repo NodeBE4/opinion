@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-10
+date: 2022-10-11
 from: https://twitter.com/realcaixia/status/1579180956488908800
 layout: post
 tags:
@@ -37,7 +37,7 @@ Re @Zealots2022 她好像没有在电视台工作过。
 
 ### 6: [2022-10-10 18:13:56+08:00 推文](https://twitter.com/realcaixia/status/1579414923838648320)
 
-转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br>
+转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br> <a href="https://twitter.com/bumingbaipod/status/1579358385694466050" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1579358385694466050</a>
 
 ### 7: [2022-10-10 18:57:20+08:00 推文](https://twitter.com/realcaixia/status/1579425845063868416)
 
@@ -45,7 +45,7 @@ Re @Zealots2022 她好像没有在电视台工作过。
 
 ### 8: [2022-10-10 19:17:26+08:00 推文](https://twitter.com/realcaixia/status/1579430901855186946)
 
-我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br> <a href="https://twitter.com/im1266/status/1579368415768477696" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1579368415768477696</a>
+我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br>
 
 ### 9: [2022-10-10 19:28:17+08:00 推文](https://twitter.com/realcaixia/status/1579433632728756225)
 
@@ -54,4 +54,12 @@ Re @Zealots2022 她好像没有在电视台工作过。
 ### 10: [2022-10-10 23:39:33+08:00 推文](https://twitter.com/realcaixia/status/1579496867423195136)
 
 《议报》英文版 #yibao 今天正式上线。作为《议报》主编，我感谢为此付出心血的翻译编辑团队的中外志愿者。<br>《议报》英文版是大翻译运动的一部分，旨在把在万马齐喑的党国遭受打压的中国公民社会不屈抗争的故事和公民“议见”告诉世界，希望赐稿或参加翻译编辑团队。链接如下： <a href="https://www.yibao.net/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/</a><br><img style="" src="https://pbs.twimg.com/media/FeuABzDWYAAzhzs?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 11: [2022-10-11 12:56:22+08:00 推文](https://twitter.com/realcaixia/status/1579697393032867840)
+
+Re @Sh_Jmusic 好，感谢。🌹🤝
+
+### 12: [2022-10-11 12:59:16+08:00 推文](https://twitter.com/realcaixia/status/1579698123144040448)
+
+Re @xchen156 小平老师过奖了，感谢大家的支持。
 

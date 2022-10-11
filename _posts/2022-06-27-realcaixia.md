@@ -65,11 +65,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FWSJb9CXEAElwMm?format=jpg
 
 ### 13: [2022-06-29 11:26:25+08:00 推文](https://twitter.com/realcaixia/status/1541986418406326273)
 
-我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。<br><br>楊建利 Yang Jianli: 敬告<br><br>由于不明来源的攻击，《议报》网站目前处于不稳定的状态。我们正紧急维修，相信很快会恢复正常。对因此给读者造成的不便和困扰，我们深表歉意。<br><br>致敬读者，您的信任是我们工作的动力，也是我们团队存在的价值。<br>致敬作者，您高质量的文章，给世界增添了精神色彩和思想资源。<br><br>《议报》编辑部<br>
+我们议报今天遭不明来源的攻击,处在抢修—恢复—攻击—抢修—恢复—攻击的反复拉锯之中，技术人员说感觉不是单纯的技术故障，感觉似有某种隐秘因素。
 
 ### 14: [2022-06-29 11:41:22+08:00 推文](https://twitter.com/realcaixia/status/1541990179686289409)
 
-送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。
+送老爷子远行，在老浦照片里看到几位极好的好朋友，他们去向老爷子作最后的告别。老爷子一生坎坷，一生坚守公平正义法治。历史将会记住他，我和我的朋友们会一生记住他。<br><br>浦志强: 老浦说点事：6月28日：八宝山送别张思之先生：限定20人，不许拍照，没致悼词，没读生平，我们送老爷子低调远行（附：《张思之先生生平》和《波尔基金...<br><br><img style="" src="https://pbs.twimg.com/media/FWYmuN0UAAAg3yT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuOUUYAAWV-v?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UsAAVXv3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWYmuO8UEAA2UO-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://youtu.be/pLCwc-i-Jms" target="_blank" rel="noopener noreferrer">https://youtu.be/pLCwc-i-Jms</a>
 
 ### 15: [2022-06-29 12:21:55+08:00 推文](https://twitter.com/realcaixia/status/1542000383782014978)
 
@@ -93,7 +93,7 @@ Re @drkimharry 看来我们见过？
 
 ### 20: [2022-06-29 21:10:33+08:00 推文](https://twitter.com/realcaixia/status/1542133419542454272)
 
-非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。<br><br>Sayori: @realcaixia 蔡霞老师的这篇文章确实很长，已经截屏不知可否帮助到各位，谢谢👒<br><br><video src="https://video.twimg.com/ext_tw_video/1542048648753979392/pu/vid/592x1280/RIxcHwjF1UfISao6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542048648753979392/pu/img/dQ56qV-uzAWFXwXB.jpg"></video>
+非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。
 
 ### 21: [2022-06-29 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1542168726618898432)
 
@@ -161,19 +161,19 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 37: [2022-07-02 07:19:20+08:00 推文](https://twitter.com/realcaixia/status/1543011400871821312)
 
-香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适
+香港上了一个以警察为业的特首，这和习越来越依赖于警察治国的总方针很吻合。作为警察，李家超几十年来在处置港人保护自由香港的抗争中忠实执行了北京意志，其表现令北京满意。否则，香港作为世界金融中心之一、世界自由贸易港、亚洲四小龙，怎么也轮不到李当特首。现在管香港，维稳第一，李家超正合适<br><br>自由亚洲电台: 【港新任特首李加超就职演说表情十足】<br>【惟台下观众多“闭目养神”】<br>于7月1日就任的香港特首李家超表就职演说。虽然李家超一改以往平实发言的风格，不时刻意调高嗓子，双眉、双眼与及口部动作亦明显比平时增多，但也未能得到台下观众注目。<br>13分钟演说里，台下有不少观众都呼呼入睡。<br><br>视频截图<br><br><img style="" src="https://pbs.twimg.com/media/FWkYJhYWQAE7UvT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
+看到有几个推特都在推这个视频，跟着凑个热闹。
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
-在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。
+在转一个胡锦涛在香港的视频，是一个推友转发的Youtube上的。<br><br>Vicky Huang: @ZhaoMingObserve @Littlerize 看看當時影片 跟現在樣板完全不同<br> <a href="https://youtu.be/kxRYIrwnU_c" target="_blank" rel="noopener noreferrer">https://youtu.be/kxRYIrwnU_c</a>
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
