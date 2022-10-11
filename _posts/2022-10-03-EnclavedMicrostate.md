@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-08
+date: 2022-10-09
 from: https://old.reddit.com/r/AskHistorians/comments/xv5nlc/what_would_be_considered_the_first_known_instance/
 layout: post
 tags:
@@ -124,4 +124,22 @@ The other thing to note is that Burma certainly did have access to European weap
 ----- __862.1__ -----2022-10-09 15:48:25+08:00:
 
 Ha Fauna is not gentle, she just doesn't swear. Zeta's difference is she does.
+
+### 863: [What are some historical units that deserve table representaion?](https://old.reddit.com/r/wargaming/comments/xz2bu3/what_are_some_historical_units_that_deserve_table/), submitted on 2022-10-09 04:10:44+08:00.
+
+----- __863.1__ -----2022-10-11 06:58:59+08:00:
+
+> Second Mexican Empire
+
+Wargames Foundry does a range for it in 28mm, and there's a free supplement for TooFatLardies' Sharp Practice covering it.
+
+----- __863.2__ -----2022-10-11 06:59:34+08:00:
+
+Also has a manufacturer in 28mm specialising in the period, which makes it easy to get into.
+
+----- __863.3__ -----2022-10-11 07:01:01+08:00:
+
+> severe lack of miniatures
+
+There's some manufacturers if you know where to look – Newline does Han figures in 20mm while Khurasan has a variety of ancient, medieval, and early modern Chinese and Inner/Central Asian figures in 15mm.
 
