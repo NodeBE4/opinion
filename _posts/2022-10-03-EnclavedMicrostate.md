@@ -152,3 +152,29 @@ There's some manufacturers if you know where to look – Newline does Han figure
 
 I appreciate the commitment to the bit included wearing a balaclava under the dino suit as well.
 
+----- __864.2__ -----2022-10-11 22:58:26+08:00:
+
+> But I saw it in the ITV adaptation of Murder on the Orient Express, where Poirot was a lot more callous and judgmental than he came off as in the book.
+
+So I watched that last month as part of a general watch through the entire ITV Poirot series (now finished), and I suspect there's two elements at work. The first is that the series itself has its own internal chronology, with the stories adapted out of publication order, and by Series 9 at the very least, Poirot has become a mite more cynical and jaded than in the mostly quite light early episodes when the short stories were being adapted. Basically once the Hastings/Lemon/Japp trio stop appearing as regulars, there's a noticeable tonal shift, but there's shades even before that, given the specific liberties that ended up being taken with *The Murder of Roger Ackroyd* in S7. *Orient Express* was adapted during the penultimate series (S12) so it's well into that tonal shift. The second is that Suchet himself noted that the version of *Orient Express* he filmed was intentionally much more serious in tone than the 1974 Albert Finney film, so it's also in large part an attempt to differentiate itself from what was the definitive adaptation of that particular story for the screen.
+
+----- __864.3__ -----2022-10-11 23:02:34+08:00:
+
+It's kind of interesting how Suchet viewed some of his predecessors, or at least what he said in the *Being Poirot* programme he did alongside the final series. In particular he noted that Peter Ustinov came 'very close' to being the definitive Poirot, though in what sense he meant that, the programme didn't clarify. That said, Suchet quietly elided the fact that he had been Japp in one of the Ustinov adaptations!
+
+----- __864.4__ -----2022-10-11 23:04:09+08:00:
+
+> Physically unthreatening but still able to take down murderers using only the little grey cells (and also Captian Hastings).
+
+>!And, in one instance, drugged hot chocolate and a gun.!<
+
+----- __864.5__ -----2022-10-11 23:05:40+08:00:
+
+> Philippa Langley does come off as a Richard III stan on the level of vtubers
+
+Please don't put us in the same league as Philippa Langley...
+
+----- __864.6__ -----2022-10-11 23:13:08+08:00:
+
+I guess it depends what 'well-known' is. Until Josh Strife Hayes covered it, I suspect very few people would have known about [Otherland](https://www.youtube.com/watch?v=-uHJYTpcUxs&list=PLEpisdBgNpviZ1viroWuBVjZFyPGrBufR) – I certainly didn't! It's very weird and I don't actually get the plot, but I understand that at least *part* of it is about cults and WWI until it then becomes a thing in an East Asian fantasy virtual world that is also a hub for a bunch of other virtual worlds and then it was never finished.
+
