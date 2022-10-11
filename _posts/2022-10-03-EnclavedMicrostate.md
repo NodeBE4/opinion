@@ -143,3 +143,12 @@ Also has a manufacturer in 28mm specialising in the period, which makes it easy 
 
 There's some manufacturers if you know where to look – Newline does Han figures in 20mm while Khurasan has a variety of ancient, medieval, and early modern Chinese and Inner/Central Asian figures in 15mm.
 
+### 864: [[Hobby Scuffles] Week of October 10, 2022](https://old.reddit.com/r/HobbyDrama/comments/xzndgb/hobby_scuffles_week_of_october_10_2022/), submitted on 2022-10-09 22:44:30+08:00.
+
+----- __864.1__ -----2022-10-11 14:56:32+08:00:
+
+> while donning a dinosaur suit
+> 
+
+I appreciate the commitment to the bit included wearing a balaclava under the dino suit as well.
+
