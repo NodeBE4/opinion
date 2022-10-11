@@ -53,9 +53,15 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 870: [Voluntarist vs Structuralist](https://old.reddit.com/r/ChineseHistory/comments/y10s4o/voluntarist_vs_structuralist/), submitted on 2022-10-11 13:35:53+08:00.
+### 870: [Moderator of an unnamed "anti-racist subreddit" takes to /r/ModSupport to demand the admins explain their "draconian" and "unjustifiable" removal of a mod for violating a week-old rule. Shockingly, the story falls apart with the bombshell revelation of (checks notes) the subreddit's name.](https://old.reddit.com/r/SubredditDrama/comments/y0pmm9/moderator_of_an_unnamed_antiracist_subreddit/), submitted on 2022-10-11 04:48:15+08:00.
 
------ __870.1__ -----2022-10-11 14:31:21+08:00:
+----- __870.1__ -----2022-10-11 16:08:52+08:00:
+
+Was it ever good? I can only ever remember it being a supremacist sub.
+
+### 871: [Voluntarist vs Structuralist](https://old.reddit.com/r/ChineseHistory/comments/y10s4o/voluntarist_vs_structuralist/), submitted on 2022-10-11 13:35:53+08:00.
+
+----- __871.1__ -----2022-10-11 14:31:21+08:00:
 
 Your previous post was removed because it was explicitly soliciting for help with homework, which is, to put it simply, a bit ethically dubious.
 
