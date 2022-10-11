@@ -65,3 +65,11 @@ Was it ever good? I can only ever remember it being a supremacist sub.
 
 Your previous post was removed because it was explicitly soliciting for help with homework, which is, to put it simply, a bit ethically dubious.
 
+### 872: [How did New Age and offshoot movement become so obsessed with (often pseudo-)“Native American” culture?](https://old.reddit.com/r/AskHistorians/comments/y18gn7/how_did_new_age_and_offshoot_movement_become_so/), submitted on 2022-10-11 21:00:03+08:00.
+
+----- __872.1__ -----2022-10-11 23:58:36+08:00:
+
+Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
+ 
+We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
+
