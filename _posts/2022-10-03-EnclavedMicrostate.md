@@ -178,3 +178,7 @@ Please don't put us in the same league as Philippa Langley...
 
 I guess it depends what 'well-known' is. Until Josh Strife Hayes covered it, I suspect very few people would have known about [Otherland](https://www.youtube.com/watch?v=-uHJYTpcUxs&list=PLEpisdBgNpviZ1viroWuBVjZFyPGrBufR) – I certainly didn't! It's very weird and I don't actually get the plot, but I understand that at least *part* of it is about cults and WWI until it then becomes a thing in an East Asian fantasy virtual world that is also a hub for a bunch of other virtual worlds and then it was never finished.
 
+----- __864.7__ -----2022-10-12 04:32:21+08:00:
+
+There's also an earlier discussion [here](https://www.reddit.com/r/HobbyDrama/comments/xzndgb/hobby_scuffles_week_of_october_10_2022/irs7i5x/) with further context (tagging in /u/Anaxamander57 so they know). Shinso-gumi is made up in large part of adult entertainers and is apparently known for being quite edgy already, so it's apparently kind of par for the course in terms of the nature of the content.
+
