@@ -53,21 +53,37 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 870: [Moderator of an unnamed "anti-racist subreddit" takes to /r/ModSupport to demand the admins explain their "draconian" and "unjustifiable" removal of a mod for violating a week-old rule. Shockingly, the story falls apart with the bombshell revelation of (checks notes) the subreddit's name.](https://old.reddit.com/r/SubredditDrama/comments/y0pmm9/moderator_of_an_unnamed_antiracist_subreddit/), submitted on 2022-10-11 04:48:15+08:00.
+### 870: [Mindless Monday, 10 October 2022](https://old.reddit.com/r/badhistory/comments/y0bsdf/mindless_monday_10_october_2022/), submitted on 2022-10-10 19:00:09+08:00.
 
------ __870.1__ -----2022-10-11 16:08:52+08:00:
+----- __870.1__ -----2022-10-12 04:57:49+08:00:
+
+> Obviously, the genocidal action must take a substantial toll on its target.
+
+Define 'substantial', because wherever you draw the line, *someone* will find *some event* that is *just shy* and ask why that arbitrarily doesn't count.
+
+Or rather, the key thing is that genocide is about intentions and not about scope.
+
+> It's not enough to prove that there have been cases of forced sterilization because, guess what, there's been cases of forced sterilizations of Han women too, China is shitty to all of its people.
+
+Well, even beyond the sterilisations, the evidence for specific targeting of Uighurs and Kazakhs (as the principal representatives of Turkic Muslim groups) is extremely clear: there has been overt settlement of Han Chinese people in Xinjiang to out-populate the indigenous population, *only* Turkic-speakers and Muslims have been placed in concentration camps, there is active suppression of non-Mandarin languages and Islam, including the destruction of mosques, etc. It's not like China is also trying to force Han Chinese people to drop Mandarin or blowing up Confucian sites at the same time that it's suppressing Uighur and Kazakh and demolishing mosques.
+
+But on the sterilisation point, that there may be individual sterilisations of Han women does not change the broad trend, that being [antinatalism towards Uighurs and Kazakhs and pronatalism towards Han women](https://www.thinkglobalhealth.org/article/abortion-china), in which reproductive autonomy is curtailed towards ends that are unavoidably eugenicist in nature.
+
+### 871: [Moderator of an unnamed "anti-racist subreddit" takes to /r/ModSupport to demand the admins explain their "draconian" and "unjustifiable" removal of a mod for violating a week-old rule. Shockingly, the story falls apart with the bombshell revelation of (checks notes) the subreddit's name.](https://old.reddit.com/r/SubredditDrama/comments/y0pmm9/moderator_of_an_unnamed_antiracist_subreddit/), submitted on 2022-10-11 04:48:15+08:00.
+
+----- __871.1__ -----2022-10-11 16:08:52+08:00:
 
 Was it ever good? I can only ever remember it being a supremacist sub.
 
-### 871: [Voluntarist vs Structuralist](https://old.reddit.com/r/ChineseHistory/comments/y10s4o/voluntarist_vs_structuralist/), submitted on 2022-10-11 13:35:53+08:00.
+### 872: [Voluntarist vs Structuralist](https://old.reddit.com/r/ChineseHistory/comments/y10s4o/voluntarist_vs_structuralist/), submitted on 2022-10-11 13:35:53+08:00.
 
------ __871.1__ -----2022-10-11 14:31:21+08:00:
+----- __872.1__ -----2022-10-11 14:31:21+08:00:
 
 Your previous post was removed because it was explicitly soliciting for help with homework, which is, to put it simply, a bit ethically dubious.
 
-### 872: [How did New Age and offshoot movement become so obsessed with (often pseudo-)“Native American” culture?](https://old.reddit.com/r/AskHistorians/comments/y18gn7/how_did_new_age_and_offshoot_movement_become_so/), submitted on 2022-10-11 21:00:03+08:00.
+### 873: [How did New Age and offshoot movement become so obsessed with (often pseudo-)“Native American” culture?](https://old.reddit.com/r/AskHistorians/comments/y18gn7/how_did_new_age_and_offshoot_movement_become_so/), submitted on 2022-10-11 21:00:03+08:00.
 
------ __872.1__ -----2022-10-11 23:58:36+08:00:
+----- __873.1__ -----2022-10-11 23:58:36+08:00:
 
 Thank you for your response. Unfortunately, we have had to remove it due to violations of [subreddit’s rules about answers needing to reflect current scholarship](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_answers). While we appreciate the effort you have put into this comment, there are nevertheless significant errors, misunderstandings, or omissions of the topic at hand [which necessitated its removal](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
  
