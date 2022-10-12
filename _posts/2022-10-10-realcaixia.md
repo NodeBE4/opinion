@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-11
+date: 2022-10-12
 from: https://twitter.com/realcaixia/status/1579180956488908800
 layout: post
 tags:
@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-10-10~2022-10-16'
 
 ### 1: [2022-10-10 02:44:14+08:00 推文](https://twitter.com/realcaixia/status/1579180956488908800)
 
-这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br> <a href="https://twitter.com/RFI_Cn/status/1578896305753325568" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1578896305753325568</a>
+这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br>
 
 ### 2: [2022-10-10 02:52:22+08:00 推文](https://twitter.com/realcaixia/status/1579183002751766528)
 
@@ -37,7 +37,7 @@ Re @Zealots2022 她好像没有在电视台工作过。
 
 ### 6: [2022-10-10 18:13:56+08:00 推文](https://twitter.com/realcaixia/status/1579414923838648320)
 
-转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br> <a href="https://twitter.com/bumingbaipod/status/1579358385694466050" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1579358385694466050</a>
+转发推荐：<br><br>Li Yuan: 非常为我们的团队骄傲。一个5月份才开始的播客，没有任何平台、经费，每个人都是用爱发电，很多周末和深夜都用在了制作、编辑播客上。也非常感谢中文听众的大力支持和传播，“不明白播客”成功在微博上成为敏感词～<br>
 
 ### 7: [2022-10-10 18:57:20+08:00 推文](https://twitter.com/realcaixia/status/1579425845063868416)
 
@@ -62,4 +62,8 @@ Re @Sh_Jmusic 好，感谢。🌹🤝
 ### 12: [2022-10-11 12:59:16+08:00 推文](https://twitter.com/realcaixia/status/1579698123144040448)
 
 Re @xchen156 小平老师过奖了，感谢大家的支持。
+
+### 13: [2022-10-12 07:25:09+08:00 推文](https://twitter.com/realcaixia/status/1579976428829175808)
+
+看到有报道说中央党校教授公开批评“清零”，特地转到推上来。中央党校一直是中共党内思想最活跃最开放的。<br>静默为哀：蔡霞同事、中共中央党校教授公开批官员，央媒齐发声“动态清零必须坚持”；坚持派胜利了！副部级官员谈20大后疫控；一二把手在北京，三四把手... <a href="https://youtu.be/ecaztpjaMJY" target="_blank" rel="noopener noreferrer">https://youtu.be/ecaztpjaMJY</a>
 

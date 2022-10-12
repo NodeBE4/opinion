@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 1: [2022-05-16 00:34:39+08:00 推文](https://twitter.com/realcaixia/status/1525877328219209728)
 
-看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年
+看到女性在国家事务中发挥越来越大的作用，很自豪。<br>“我们的身体不过是我们灵魂的外衣，是他与她之间唯一的区别，<br>至于灵魂，是一样好的，<br>是的，在许多女性身体中的灵魂也同样伟大。”<br>——索菲亚.布伦纳 写于1719年<br><br>韩连潮: 【巾帼英雄】芬兰和瑞典拟放弃分别实施了70多年和200年的中立，加入北约。不是安全受到来自普京的极大威胁，她们不会轻易更改这项国策。这两位国家领导敢作敢为，是真正的巾帼英雄。<br><br><img style="" src="https://pbs.twimg.com/media/FSzkJhOXwAE0o1H?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-05-16 01:31:00+08:00 推文](https://twitter.com/realcaixia/status/1525891510989889536)
 
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+一个模版专供抄作业（二）
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
@@ -81,11 +81,11 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 17: [2022-05-19 20:16:57+08:00 推文](https://twitter.com/realcaixia/status/1527262026896232450)
 
-真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？ <a href="https://twitter.com/rongjian1957/status/1526927075138887681" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526927075138887681</a>
+真是一山容不得两虎，宁可习自己一条道走到黑，把9500万弄到翻船、把14亿打入地狱，也不许李伸手收拾烂摊子。是蠢到家还是坏到底？<br><br>荣剑: 虽然今天关于李总的消息爆屏了，但也有坏消息，有人因为越来越喜欢总理而招致删帖扣分处理 。这世道越来越看不明白了。<br><br><img style="" src="https://pbs.twimg.com/media/FTC8FUcVIAA1d2R?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1526848927768510464" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1526848927768510464</a>
 
 ### 18: [2022-05-19 20:23:58+08:00 推文](https://twitter.com/realcaixia/status/1527263792677134338)
 
-特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？<br><br>《议报》: 全国政协委员：价值观颠倒必导致国运逆转<br> <a href="https://yibaochina.com/?p=246529" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246529</a>
+特别推荐#议报转发刘梦熊先生文章：价值观颠倒必然逆转国运。与世界和平相对立，为侵略者做辩护，必然招致被文明世界孤立。孤立于国际社会之外的国家能有什么前途？
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
@@ -121,11 +121,11 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
-技術改進一小步，獲取信息一大步。<br><br>GreatFire.org: Have you read an interesting story on WeChat? Think it might get censored? Archive the story on <br>帮助我们改进自由微信的抓取系统，以便您更容易的看到感兴趣的内容。<br><br><img style="" src="https://pbs.twimg.com/media/FTMFaNFWQAA-Wgx?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="http://freewechat.com/" target="_blank" rel="noopener noreferrer">http://FreeWeChat.com</a> <a href="https://freewechat.com/submit" target="_blank" rel="noopener noreferrer">https://freewechat.com/submit</a>
+技術改進一小步，獲取信息一大步。
 
 ### 29: [2022-05-22 00:54:13+08:00 推文](https://twitter.com/realcaixia/status/1528056580440309760)
 
