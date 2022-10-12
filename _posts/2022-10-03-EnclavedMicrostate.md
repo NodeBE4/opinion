@@ -204,3 +204,13 @@ As a friend of mine noted, it says a lot that it's the cannibalism fetish and no
 
 A very good point to have added.
 
+----- __864.11__ -----2022-10-13 00:52:24+08:00:
+
+STOP THE PRESSES NEW MARBLE MACHINE NEWS
+
+Not *much* news and not a clear progress report, but [Martin Molin finally uploaded a new video showing a test of a new marble gate design](https://www.youtube.com/watch?v=VyIk0IqC7SQ), so stuff is now known to be happening with the 'official' design effort again.
+
+----- __864.12__ -----2022-10-13 00:58:28+08:00:
+
+It's how William S Gilbert died at the age of 75.
+
