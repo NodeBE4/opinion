@@ -214,3 +214,7 @@ Not *much* news and not a clear progress report, but [Martin Molin finally uploa
 
 It's how William S Gilbert died at the age of 75.
 
+----- __864.13__ -----2022-10-13 01:50:56+08:00:
+
+As noted by another user, the weirder thing is that Kiara >!is herself a former idol, along with a few other Hololive members – among them is one of the JP member's she's closest with, Gen 5's Momosuzu Nene!<. So in many ways her relatively 'traditionalist' view is one that comes from being on the inside, much as it clashes with what seems to be the modern understanding within idol fandom.
+
