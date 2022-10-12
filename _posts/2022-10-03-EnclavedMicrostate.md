@@ -200,3 +200,7 @@ This is an interesting one – I think the potential critical difference between
 
 As a friend of mine noted, it says a lot that it's the cannibalism fetish and not the lack of consent which tends to get picked up on.
 
+----- __864.10__ -----2022-10-12 21:26:59+08:00:
+
+A very good point to have added.
+
