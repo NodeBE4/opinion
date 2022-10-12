@@ -127,3 +127,11 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
+### 876: [Effectiveness of the Varangian guard. (Hardrada's veteran unit)](https://old.reddit.com/r/WarCollege/comments/y22odf/effectiveness_of_the_varangian_guard_hardradas/), submitted on 2022-10-12 20:30:53+08:00.
+
+----- __876.1__ -----2022-10-12 22:51:51+08:00:
+
+> Spartans were anything but ahead of their times. Most of the writing we have on Spartans were written by their rivals (Athenian nobility) whose driving motivation were:
+
+I mean, that isn't really true of Xenophon, who was hardly anti-democratic nor some major Athenian flag-waver. But then again, he's also *very* realistic about Spartan military ability in the *Hellenika*, so... make of that what you will.
+
