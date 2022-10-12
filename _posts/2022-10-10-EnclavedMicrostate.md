@@ -89,9 +89,37 @@ Thank you for your response. Unfortunately, we have had to remove it due to viol
  
 We understand this can be discouraging, but we would also encourage you to consult [this Rules Roundtable to better understand how the mod team evaluates answers on the sub](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). If you are interested in feedback on improving future contributions, please feel free to [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Improving%20Future%20Responses). Thank you for your understanding.
 
-### 874: [What were some of the specific reforms that Japan and China undertook in their attempts to modernize during the 19th and 20th century?](https://old.reddit.com/r/AskHistorians/comments/y1tomy/what_were_some_of_the_specific_reforms_that_japan/), submitted on 2022-10-12 12:07:27+08:00.
+### 874: [Is there a good english language book about the Taiping Rebellion?](https://old.reddit.com/r/AskHistorians/comments/y1ptp4/is_there_a_good_english_language_book_about_the/), submitted on 2022-10-12 09:02:07+08:00.
 
------ __874.1__ -----2022-10-12 13:30:39+08:00:
+----- __874.1__ -----2022-10-12 14:15:01+08:00:
+
+So, there is actually a *lot* of English-language scholarship on the Taiping both in absolute terms and in contextual – compared to basically any other 20-year period in Chinese history (at least before the 20th century), it is *incredibly* well-studied in many respects. *However* only a portion of that makes it out into published monograph form, rather than languishing as unpublished doctoral theses or theoretically accessible but often obscure journal articles. And then only a portion of *that* is general overview and/or narrative history rather than specialist studies aimed at a broadly academic readership. But, not to fear – it's why I'm here.
+
+In terms of narrative histories, there are four main options to consider: Franz Michael and Chung-li Chang's *The Taiping Rebellion, Volume I* (1966), Jen Yu-Wen's *The Taiping Revolutionary Movement* (1973), Jonathan Spence's *God's Chinese Son* (1996), and Stephen R. Platt's *Autumn in the Heavenly Kingdom* (2012). 
+
+Michael and Chang's book isn't as problematic as one might fear from its considerable age. Taiping scholarship has only really gone through perhaps one noticeable paradigm shift since then, focussed more or less entirely on the framing and interpretation of Taiping Christianity, which is very important obviously but which I don't think fundamentally undermines Michael and Chang's narrative. In a broader sense however, the late 80s onwards also saw a shift towards much greater recognition of ethnic dynamics in the Qing period writ large, and that's something that is especially noticeable by its absence in the older work.
+
+Jen's book is prohibitively expensive, a bit dry, and overtly moralising, but it is also the most comprehensive chronology in English, and critically it gives coverage to a number of side theatres that most narratives disregard. This is what you read, *if you have every intention of becoming a Taiping specialist*. I bring this one up, however, because this book had a significant impact on the next two, which explicitly, if briefly, note that they are only going to offer a partial coverage, precisely because the complete chronology had already been completed by Jen back in the 70s.
+
+Spence's book puts religion at the front and centre of the Taiping movement, and primarily follows the perspective of Hong Xiuquan. The result of this is a fascinating narrative that explains how Hong Xiuquan's belief system emerged and in turn took hold within the religious environment of mid-19th century south China. However, these emphases also serve as its limitations: after covering the coups and purges of 1856 that gutted the Taiping leadership for the remainder of the decade, Spence's coverage of the wider Taiping conflict becomes somewhat scattershot as he comes to focus mostly on Hong Xiuquan himself and his religious writings while isolated in his royal palace. The climactic phase of the conflict thus lies largely undiscussed, or at least very impressionistically.
+
+Platt's book effectively picks up where Spence leaves off, and heretical as it may be among Sinologists for me to say this, his book manages to be even better written. Platt's approach is informed quite a bit by the field of global history, and his Taiping War is thus not only situated in the context of the Qing Empire, but also the wider diplomatic and commercial environment of the Pacific amidst the Second Opium War and the American Civil War. That does not mean he is writing a massive comparative history, but rather that connectedness and connectivity is given an extremely prominent role, alongside the largely domestic narrative covering the Taiping reform attempts under Hong Rengan, and the Qing counteroffensive campaigns under Zeng Guofan. But Platt's narrative is not totally comprehensive: when it comes to the war's 'eastern theatre', he focusses almost exclusively on Jiangsu with very little mention of the campaigning in Zhejiang, amid a general sidelining of the French from the narrative (albeit likely for linguistic reasons); he also, as noted, chooses to start things *in medias res* in 1859, and while he does an extremely good job bringing the reader up to speed on what is relevant, one may ask whether something might be lost in not considering longer-term continuities within the Heavenly Kingdom.
+
+I would suggest that if you're trying to understand the Taiping Heavenly Kingdom as a religious phenomenon, then read Spence. If you're trying to understand the Taiping War as an event in the context of wider global history, then read Platt. If you're trying to get a start-to-finish narrative, read both.
+
+I'll also throw up some of the more specialist pieces if you want to dig into some more specific aspects:
+
+* Tobie Meyer-Fong, *What Remains* (2013) – A harrowing work discussing the civilian experience and commemoration of the Taiping War.
+
+* Carl Kilcourse, *Taiping Theology* (2017) – Pretty self-explanatory.
+
+* Chuck Wooldridge, *City of Virtues* (2016) – Not about the Taiping as such, but rather a history of Nanjing and its place in literary space, with one chapter devoted to the Taiping years and another to the post-Taiping reconstruction.
+
+* Prosper Giquel, Stephen Leibo, *A Journal of the Chinese Civil War, 1864* (1985) – A translation with commentary of one of the journals of the French naval officer Prosper Giquel, who organised and occasionally commanded the Franco-Chinese Corps of Zhejiang between 1862 and 1864. It's preceded by a brisk but still reasonably detailed narrative history of the Franco-Chinese Corps and its antecedents, which serves as one of the only English-language writings on French involvement in the Taiping conflict.
+
+### 875: [What were some of the specific reforms that Japan and China undertook in their attempts to modernize during the 19th and 20th century?](https://old.reddit.com/r/AskHistorians/comments/y1tomy/what_were_some_of_the_specific_reforms_that_japan/), submitted on 2022-10-12 12:07:27+08:00.
+
+----- __875.1__ -----2022-10-12 13:30:39+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
