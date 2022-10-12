@@ -196,3 +196,7 @@ Indeed, the term 'NDA' does not appear in Cover's statement, it's *entirely* an 
 
 This is an interesting one – I think the potential critical difference between Sana and, say, Marine, Suisei, or very recently Ina, is the *nature* of the health issue. Their health issues were/are temporary in some regard and could be resolved with rest, but a back injury can have seriously permanent consequences. A big part of what sets the more notable Japanese agencies apart, Hololive most prominently but far from exclusively, is live concerts and other 3D events. Sana may have recovered well enough for streaming and art, but there's a potential limit to that recovery, it's highly plausible that she came to regard this injury as one that prevented her from being involved in the *other* side of Hololive, especially with a new concert in the cards by early the next year and Council likely being on the list for appearances, given Myth and ID1's appearance in the 2021 one.
 
+----- __864.9__ -----2022-10-12 15:53:33+08:00:
+
+As a friend of mine noted, it says a lot that it's the cannibalism fetish and not the lack of consent which tends to get picked up on.
+
