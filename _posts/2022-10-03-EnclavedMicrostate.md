@@ -182,3 +182,17 @@ I guess it depends what 'well-known' is. Until Josh Strife Hayes covered it, I s
 
 There's also an earlier discussion [here](https://www.reddit.com/r/HobbyDrama/comments/xzndgb/hobby_scuffles_week_of_october_10_2022/irs7i5x/) with further context (tagging in /u/Anaxamander57 so they know). Shinso-gumi is made up in large part of adult entertainers and is apparently known for being quite edgy already, so it's apparently kind of par for the course in terms of the nature of the content.
 
+----- __864.8__ -----2022-10-12 15:24:28+08:00:
+
+>  And there are cases of the company taking down something seemingly fairly innocuous like the Mumei celebration video.
+
+Given that the reuploaded version removed references to the Space Shuttle Challenger explosion and the Hindenburg disaster (the latter specifically having Kiara, as in an Austrian, depicted on the Hindenburg-equivalent, when the original Hindenburg was operated by Nazi Germany), I wouldn't call it 'innocuous' as such.
+
+> The NDA break is disputed
+
+Indeed, the term 'NDA' does not appear in Cover's statement, it's *entirely* an audience interpolation.
+
+> Some talents have taken some health breaks. Given Sana, I don't think one can confidently say that the company always allows the talents to take as long as they need, although again, none of us knows exactly what happened there. It remains the case that a lot of talents work objectively excessive hours.
+
+This is an interesting one – I think the potential critical difference between Sana and, say, Marine, Suisei, or very recently Ina, is the *nature* of the health issue. Their health issues were/are temporary in some regard and could be resolved with rest, but a back injury can have seriously permanent consequences. A big part of what sets the more notable Japanese agencies apart, Hololive most prominently but far from exclusively, is live concerts and other 3D events. Sana may have recovered well enough for streaming and art, but there's a potential limit to that recovery, it's highly plausible that she came to regard this injury as one that prevented her from being involved in the *other* side of Hololive, especially with a new concert in the cards by early the next year and Council likely being on the list for appearances, given Myth and ID1's appearance in the 2021 one.
+
