@@ -135,3 +135,9 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 
 I mean, that isn't really true of Xenophon, who was hardly anti-democratic nor some major Athenian flag-waver. But then again, he's also *very* realistic about Spartan military ability in the *Hellenika*, so... make of that what you will.
 
+----- __876.2__ -----2022-10-13 06:02:19+08:00:
+
+> Xenophon was still an Athenian general - i.e. a member of the aristocracy. 
+
+Yeah sure, but not an anti-democrat by any means. You've subtly shifted the goalposts here – we *do* have Athenian voices who give a realistic rather than a romantic view of Sparta.
+
