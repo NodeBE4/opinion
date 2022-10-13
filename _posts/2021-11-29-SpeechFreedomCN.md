@@ -45,5 +45,5 @@ Guizhou woman Ou detained for 5 days for complaining in a WeChat group chat that
 
 ### 8: [2021-12-04 16:50:00+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1467053561485807618)
 
-Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style="" src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
+Qinghai man Tian detained for 8 days for "insulting village officials" in a WeChat group chat. Tian was then in Guangdong Province, and Qinghai police sent a special team there to arrest him.<br><img style src="https://pbs.twimg.com/media/FFtg2ccXEAQqX91?format=jpg&name=orig" referrerpolicy="no-referrer">
 
