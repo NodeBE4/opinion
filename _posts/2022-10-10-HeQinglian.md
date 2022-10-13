@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-13
+date: 2022-10-14
 from: https://twitter.com/HeQinglian/status/1579159924718047233
 layout: post
 tags:
@@ -169,7 +169,7 @@ RT Elaine Yu<br>我在节目中曾经说过，挺乌的人很难继续假装�
 
 ### 39: [2022-10-10 21:34:49+08:00 推文](https://twitter.com/HeQinglian/status/1579465476677439490)
 
-Re @Jessie2021626 一个内政方面出了方向性严重问题的国家，还居然被所谓自由民主人士当作世界领导，为美国极左盗选借壳上市的灯塔国名义做出的一切外交军事行动叫好，实在让人无语。<br>外交是内政的延续，军事是外交的极端手段。
+RT He Qinglian<br>Re @Jessie2021626 一个内政方面出了方向性严重问题的国家，还居然被所谓自由民主人士当作世界领导，为美国极左盗选借壳上市的灯塔国名义做出的一切外交军事行动叫好，实在让人无语。<br>外交是内政的延续，军事是外交的极端手段。
 
 ### 40: [2022-10-10 21:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1579466289512579074)
 
@@ -206,4 +206,20 @@ Re @ElaineYuMuMu 这些人就剩下满腔污秽之气，胡乱喷洒，人不要
 ### 48: [2022-10-13 23:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1580576406878027776)
 
 Re @Wu_Zhi @JianglinLi @ngexp @david_david1968 自有左派以来，不管中外，基本是觉得与自己不合，就象严冬一样残酷无情，祖师爷乔姆斯基、一度的精神领袖j.k.罗琳都尚且如此，更何况马斯克这种钱袋？<br>你难道没见，成天有人说“过去读过你的书，如今要如何如何”的中文推号，那脏话不是人能够说出来的。
+
+### 49: [2022-10-14 01:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1580608670475333633)
+
+Re @lzhn96836555 @Wu_Zhi @JianglinLi @ngexp @david_david1968 说的是以前。
+
+### 50: [2022-10-14 01:31:25+08:00 推文](https://twitter.com/HeQinglian/status/1580612184488304640)
+
+朔尔茨周四在柏林举行的欧洲社会主义、自由主义和绿色政治家和思想家峰会的视频讲话中指责普京发动了一场“针对我们生活方式的十字军东征”。<br><br>分析：1、绿能是因为制裁失败伤及自身，不得不洗绿，将煤炭、核能纳入绿能，重新烧柴；<br>2、美布林肯4月28日宣布要向全世界推广LGBTQI <a href="https://rfi.my/8ol6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8ol6.T</a>
+
+### 51: [2022-10-14 01:34:06+08:00 推文](https://twitter.com/HeQinglian/status/1580612857468973057)
+
+Re 3、普京只是针对乌克兰发动战争，至今从未要求乌克兰结束同性婚与LGBTQI政策。四州公投是入俄，是领土，不是要求欧美结束正在推广的生活方式。他甚至从未明确提过他反对美国欧盟在自己领土上变性。
+
+### 52: [2022-10-14 01:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1580613826046660610)
+
+Re @Wu_Zhi @KELMAND1 朔尔茨脑袋全是浆糊。你看他周四的讲话就知道。
 
