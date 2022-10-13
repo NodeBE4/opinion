@@ -65,7 +65,7 @@ title: 'Twitter @蔡霞: 2022-06-20~2022-06-26'
 
 ### 13: [2022-06-24 05:15:50+08:00 推文](https://twitter.com/realcaixia/status/1540081219471392769)
 
-全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。
+全世界众目睽睽之下，中共当局迫害中国正义人士。这笔帐记着，中国宪政民主之时，习近平、习的酷吏打手将会向米洛舍维奇一样被押上人权法庭接受审判。<br><br>BBC News 中文: 许志永是中国知名的法律学者，推动中国公民运动的领军人。丁家喜曾是航空工程师，后来转任律师，曾与许志永等人发起 “新公民运动”。<br><br>他们二人涉嫌“颠覆国家政权罪”的案件，将分别于22日和24日在山东一家法院不公开开庭审理。<br> <a href="https://bbc.in/3QB7FmN" target="_blank" rel="noopener noreferrer">https://bbc.in/3QB7FmN</a>
 
 ### 14: [2022-06-24 05:27:38+08:00 推文](https://twitter.com/realcaixia/status/1540084187755122688)
 
@@ -85,7 +85,7 @@ Re 刚才少说了几分钟，建议想多听者，从10分钟开始到30-32分�
 
 ### 18: [2022-06-25 21:52:10+08:00 推文](https://twitter.com/realcaixia/status/1540694340120416274)
 
-在北京时我去朋友家见过几次大律师，很文质彬彬很温和慈祥的老人。听他聊天很受教益。大律师病后曾有一段不能说话，后来恢复得很好。想起来恍如昨日，老人的音容笑貌犹在眼前。哀悼大律师，纪念大律师。作为后辈的我，会照着大律师的追求去做，让薪火代代相传。
+在北京时我去朋友家见过几次大律师，很文质彬彬很温和慈祥的老人。听他聊天很受教益。大律师病后曾有一段不能说话，后来恢复得很好。想起来恍如昨日，老人的音容笑貌犹在眼前。哀悼大律师，纪念大律师。作为后辈的我，会照着大律师的追求去做，让薪火代代相传。<br><br>韩连潮: 【悼念中国法治先行者张思之】张思之律师的逝去结束了一代法律人的追求，但他展现的死磕精神 --屡辩屡败，虽败尤荣，维护被诉者的辩护权，为蒙冤者呐喊 -- 开了中国法治之先河。对张先生最好的悼念就是承传其追求法治的精神，反思质疑，勇于担当，坚持任何人（包括党）都不得凌驾于法律之上的原则。<br><br><img style="" src="https://pbs.twimg.com/media/FWGIgsFWIAIJsks?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-06-25 22:40:29+08:00 推文](https://twitter.com/realcaixia/status/1540706502675030018)
 
@@ -97,7 +97,7 @@ Re 人以群分物以类聚，价值观相同，追求一致的人迟早聚到�
 
 ### 21: [2022-06-26 02:35:37+08:00 推文](https://twitter.com/realcaixia/status/1540765676217982978)
 
-习为世界发展指明方向？！跟着习近平走就是走绝路。<br><br>Winnie Pooh: 清华小学直博博士为全球发展指明了方向<br><br><img style="" src="https://pbs.twimg.com/media/FWGY2FzVUAAkaZ0?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY3ZtUAAAOLZ8?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWGY49BVUAAozyl?format=png&amp;name=orig" referrerpolicy="no-referrer">
+习为世界发展指明方向？！跟着习近平走就是走绝路。
 
 ### 22: [2022-06-26 06:16:34+08:00 推文](https://twitter.com/realcaixia/status/1540821277321175043)
 
