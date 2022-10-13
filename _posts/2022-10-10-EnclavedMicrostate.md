@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-12
+date: 2022-10-13
 from: https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/
 layout: post
 tags:
@@ -140,4 +140,10 @@ I mean, that isn't really true of Xenophon, who was hardly anti-democratic nor s
 > Xenophon was still an Athenian general - i.e. a member of the aristocracy. 
 
 Yeah sure, but not an anti-democrat by any means. You've subtly shifted the goalposts here – we *do* have Athenian voices who give a realistic rather than a romantic view of Sparta.
+
+### 877: [Please help me identify this pottery marking](https://old.reddit.com/r/ChineseTranslation/comments/y2upax/please_help_me_identify_this_pottery_marking/), submitted on 2022-10-13 17:59:08+08:00.
+
+----- __877.1__ -----2022-10-13 22:01:43+08:00:
+
+大清雍正 – Great Qing Yongzheng, indicating the empire (Qing) and the reign period (Yongzheng i.e. 1722-35) in which the piece purports to have been made.
 

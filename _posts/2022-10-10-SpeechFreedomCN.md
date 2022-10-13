@@ -39,3 +39,7 @@ Re However, it is also sad to expect how he will almost inevitably end up.
 
 Xinjiang man Yuan detained for 5 days for saying the pandemic is killing people by making people suicide or starve, according to a recent official report. A Weibo user corrected him: the pandemic is not killing people, but the government's effort to stop the pandemic is.<br><img style="" src="https://pbs.twimg.com/media/Fe81fzRXoAAFjDL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe81hOLWAAAWYXP?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-10-13 22:36:09+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1580568073936859136)
+
+Re Correction: one line in the banner was missed in the tweet, which reads "Don't be a slave, be a citizen".
+
