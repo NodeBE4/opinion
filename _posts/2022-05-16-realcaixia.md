@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-05-16~2022-05-22'
 
 ### 7: [2022-05-18 07:49:51+08:00 推文](https://twitter.com/realcaixia/status/1526711628372246528)
 
-一个模版专供抄作业（二）
+一个模版专供抄作业（二）<br><br>鲁难-: 大爷，改一改数字很难吗？非要一分钟也不差………<br><br><img style="" src="https://pbs.twimg.com/media/FS8CaycWIAE4vIt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaydXoAAwFdm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CayfX0AAqtNs?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FS8CaybWIAEgXZW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-05-18 08:55:45+08:00 推文](https://twitter.com/realcaixia/status/1526728213061410817)
 
@@ -89,7 +89,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 19: [2022-05-19 20:33:12+08:00 推文](https://twitter.com/realcaixia/status/1527266118389334017)
 
-这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”<br><br>iPaul🇨🇦🇺🇦: 北京领导，好大的官威<br><br><video src="https://video.twimg.com/ext_tw_video/1522570401787826176/pu/vid/480x848/xjM9HkNSKZp3B5jg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1522570401787826176/pu/img/77MS-dWq6haNJ805.jpg"></video>
+这种言语活活现出恶棍一样的品质。习从2009年教训中央党校h教师“不许吃党飯砸党锅”，2011年左右教训国内国际不许“说三道四”；2015年教训9500万“不得妄议”。上有所好下必甚焉，有恶行必学恶样。这是北京什么官？这人是谁？最好拉下口罩爆爆真面目。居然坐在台上公开教训人“哪来这么多废话？！”
 
 ### 20: [2022-05-19 22:31:37+08:00 推文](https://twitter.com/realcaixia/status/1527295917451116547)
 
@@ -121,7 +121,7 @@ Re 中共秘书侍候领导十分周到，20年前我曾经参加过中组部一
 
 ### 27: [2022-05-21 08:38:22+08:00 推文](https://twitter.com/realcaixia/status/1527811001432915969)
 
-特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。<br><br>《议报》: 王胜生: 被留置武汉火车站纪实<br> <a href="https://yibaochina.com/?p=246597" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246597</a>
+特别推荐#议报发布的这篇纪实报告。议报推文引语写的好。
 
 ### 28: [2022-05-21 21:50:02+08:00 推文](https://twitter.com/realcaixia/status/1528010227945177090)
 
