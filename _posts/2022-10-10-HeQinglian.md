@@ -203,27 +203,51 @@ Re @ElaineYuMuMu 这些人就剩下满腔污秽之气，胡乱喷洒，人不要
 
 全球化形成产业金字塔层级：资源-农业国是金字塔基座，数量庞大，但被视为低端存在；劳动密集型制造业居于第二层级，比如中越等；技术密集型制造业居于第三层级，德日为其代表；金融业、高科技业为顶端，美国集其大成。<br>俄乌战争对世界影响深远的是世界产业金字塔的价值重构。 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=156132" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=156132</a>
 
-### 48: [2022-10-13 23:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1580576406878027776)
+### 48: [2022-10-13 22:40:48+08:00 推文](https://twitter.com/dinglili7/status/1580569245536047104)
+
+RT 绫波<br>拜登在科罗拉多州的一次演讲中提醒人们他的儿子在中东英勇牺牲，这让人们感到尴尬。“我作为一名获得铜星勋章并在伊拉克丧生的男人的父亲说”，拜登说。<br>美国总统拜登的长子在2008-2009年确实在伊拉克服役，但2015年在美国住院后死于肿瘤。<br><img style="" src="https://pbs.twimg.com/media/Fe9PVljVQAAQnId?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 49: [2022-10-13 23:09:15+08:00 推文](https://twitter.com/HeQinglian/status/1580576406878027776)
 
 Re @Wu_Zhi @JianglinLi @ngexp @david_david1968 自有左派以来，不管中外，基本是觉得与自己不合，就象严冬一样残酷无情，祖师爷乔姆斯基、一度的精神领袖j.k.罗琳都尚且如此，更何况马斯克这种钱袋？<br>你难道没见，成天有人说“过去读过你的书，如今要如何如何”的中文推号，那脏话不是人能够说出来的。
 
-### 49: [2022-10-14 01:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1580608670475333633)
+### 50: [2022-10-14 01:17:27+08:00 推文](https://twitter.com/HeQinglian/status/1580608670475333633)
 
 Re @lzhn96836555 @Wu_Zhi @JianglinLi @ngexp @david_david1968 说的是以前。
 
-### 50: [2022-10-14 01:31:25+08:00 推文](https://twitter.com/HeQinglian/status/1580612184488304640)
+### 51: [2022-10-14 01:31:25+08:00 推文](https://twitter.com/HeQinglian/status/1580612184488304640)
 
 朔尔茨周四在柏林举行的欧洲社会主义、自由主义和绿色政治家和思想家峰会的视频讲话中指责普京发动了一场“针对我们生活方式的十字军东征”。<br><br>分析：1、绿能是因为制裁失败伤及自身，不得不洗绿，将煤炭、核能纳入绿能，重新烧柴；<br>2、美布林肯4月28日宣布要向全世界推广LGBTQI <a href="https://rfi.my/8ol6.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8ol6.T</a>
 
-### 51: [2022-10-14 01:34:06+08:00 推文](https://twitter.com/HeQinglian/status/1580612857468973057)
+### 52: [2022-10-14 01:34:06+08:00 推文](https://twitter.com/HeQinglian/status/1580612857468973057)
 
 Re 3、普京只是针对乌克兰发动战争，至今从未要求乌克兰结束同性婚与LGBTQI政策。四州公投是入俄，是领土，不是要求欧美结束正在推广的生活方式。他甚至从未明确提过他反对美国欧盟在自己领土上变性。
 
-### 52: [2022-10-14 01:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1580613826046660610)
+### 53: [2022-10-14 01:37:57+08:00 推文](https://twitter.com/HeQinglian/status/1580613826046660610)
 
 Re @Wu_Zhi @KELMAND1 朔尔茨脑袋全是浆糊。你看他周四的讲话就知道。
 
-### 53: [2022-10-14 02:10:27+08:00 推文](https://twitter.com/HeQinglian/status/1580622005052706816)
+### 54: [2022-10-14 02:10:27+08:00 推文](https://twitter.com/HeQinglian/status/1580622005052706816)
 
 估计中南海也是通过这篇评论才知道自己是全球海洋强国。<br>海洋强国的题中应有之义是有支强大的海军。中国自甲午海战之后，就没有象话的海军。最近练的这支，还未拉出来试战——没实战过的海军，谁敢说是善战之师？<br><br>纽约时报中文网: #观点 中国已成为全球海洋强国，在全球供应链占据主导地位，在冲突中可能会迫使美国就范。美国需要一个船舶法案，制定明确的国家海事战略。<br> <a href="https://nyti.ms/3T9VnSW" target="_blank" rel="noopener noreferrer">https://nyti.ms/3T9VnSW</a>
+
+### 55: [2022-10-14 09:44:58+08:00 推文](https://twitter.com/HeQinglian/status/1580736389712596992)
+
+Re @KELMAND1 北约当中的美国、英国在俄罗斯采取军事行动之前，反复多次声明：绝不介入俄乌之间的军事冲突。<br>后来呢，不但介入，还派了不少雇佣军。<br>我不反对介入，只反对声称不介入但实质性介入。
+
+### 56: [2022-10-14 09:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1580736932224434176)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp 为德不卒，不如不为——容易招怨。<br>现在得罪的不止乌克兰。
+
+### 57: [2022-10-14 09:52:14+08:00 推文](https://twitter.com/HeQinglian/status/1580738219666452480)
+
+Re @KELMAND1 耶伦说好撑到中期选举后辞职，想法子吧。你走之后哪怕洪水滔天，让别人去撑吧。<br>她本来回去做教授挺好的，硬要做一任财长，也不看看都是些什么货在当美国的家。
+
+### 58: [2022-10-14 09:54:43+08:00 推文](https://twitter.com/HeQinglian/status/1580738841324896256)
+
+Re @JianglinLi 没与这位有联系。某次在超市看到，我避开了，免得尴尬。她那宝贝女儿绝对是恨欧文斯的主儿。
+
+### 59: [2022-10-14 10:09:20+08:00 推文](https://twitter.com/HeQinglian/status/1580742521696579584)
+
+Re @KELMAND1 天知道，占人口40%左右的民主党粉，是铁了心拥护进步价值观的。
 
