@@ -251,3 +251,11 @@ Re @JianglinLi 没与这位有联系。某次在超市看到，我避开了，�
 
 Re @KELMAND1 天知道，占人口40%左右的民主党粉，是铁了心拥护进步价值观的。
 
+### 60: [2022-10-14 21:38:25+08:00 推文](https://twitter.com/HeQinglian/status/1580915933580709888)
+
+Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp Musk 遵循乌克兰人的建议，滚了。 <a href="https://t.me/JShangrong/10264" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong/10264</a>
+
+### 61: [2022-10-14 21:40:41+08:00 推文](https://twitter.com/HeQinglian/status/1580916507021746178)
+
+Re @noahmitchell07 我也没看到这报道，能否请提供一下链接。这挺重要。
+
