@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-01-03~2022-01-09'
 
 ### 3: [2022-01-03 04:28:20+08:00 推文](https://twitter.com/realcaixia/status/1477738554042327043)
 
-中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
+中共7000人大会上，刘少奇说：这是“三分天灾七分人祸”；刘少奇还说：“人相食，是要上史书的。”林彪说：“这是交学费”。会后，毛重用林彪直至“林副统帅”；毛对刘说：“你有什么了不起，我动一个小手指就能把你打倒。”文革中刘被批斗至死，林彪摔死温都尔汗。这段人相食惨史，中共党史一直在百般掩盖。<br><br>越南老挝跑路支持: 所谓的三年“自然灾害”。人吃人！舔共的小粉蛆们好好看看吧<br><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXoAIcnYK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XWX0AIgKSU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXsAIkXm2?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIBh2XVXwAMrbyr?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-03 05:07:05+08:00 推文](https://twitter.com/realcaixia/status/1477748304511385600)
 
@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -73,7 +73,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
 
-鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
 
@@ -85,7 +85,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
 
-Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-01-04 21:26:13+08:00 推文](https://twitter.com/realcaixia/status/1478357099000340490)
 
@@ -97,7 +97,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 21: [2022-01-05 22:23:56+08:00 推文](https://twitter.com/realcaixia/status/1478734010260066307)
 
-封锁真相，禁止发声，这是专制独裁者的本能做法。言论自由新闻自由既是民主政治的前提又是民主政治的最基本最重要的要素。说真话遭镇压，何来民主？！把习的“全过程民主”说辞与中共当下对西安疫情做法一起观照，习的“全过程民主”就不只是荒谬可笑，实质是全过程恐怖暴政。<br><br>高瑜: 1300萬人被封城哪能不發聲！<br>西安雁塔區委書記、副書記被免職，人民日報的官微評論區評論上萬。<br>獨立媒體人，前財新記者江雪發表《長安十日》<br>不論聲音響不響，能發出就不易！不論代價如何，先致敬！撲滅這樣的聲音，那叫泯滅人性！<br><br><img style src="https://pbs.twimg.com/media/FIT8zUcakAEhi7k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIT82lMaAAIQBlw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://reurl.cc/8Wn0eo" target="_blank" rel="noopener noreferrer">https://reurl.cc/8Wn0eo</a> <a href="https://reurl.cc/bkRDAy" target="_blank" rel="noopener noreferrer">https://reurl.cc/bkRDAy</a>
+封锁真相，禁止发声，这是专制独裁者的本能做法。言论自由新闻自由既是民主政治的前提又是民主政治的最基本最重要的要素。说真话遭镇压，何来民主？！把习的“全过程民主”说辞与中共当下对西安疫情做法一起观照，习的“全过程民主”就不只是荒谬可笑，实质是全过程恐怖暴政。<br><br>高瑜: 1300萬人被封城哪能不發聲！<br>西安雁塔區委書記、副書記被免職，人民日報的官微評論區評論上萬。<br>獨立媒體人，前財新記者江雪發表《長安十日》<br>不論聲音響不響，能發出就不易！不論代價如何，先致敬！撲滅這樣的聲音，那叫泯滅人性！<br><br><img style="" src="https://pbs.twimg.com/media/FIT8zUcakAEhi7k?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIT82lMaAAIQBlw?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://reurl.cc/8Wn0eo" target="_blank" rel="noopener noreferrer">https://reurl.cc/8Wn0eo</a> <a href="https://reurl.cc/bkRDAy" target="_blank" rel="noopener noreferrer">https://reurl.cc/bkRDAy</a>
 
 ### 22: [2022-01-05 22:40:25+08:00 推文](https://twitter.com/realcaixia/status/1478738161132093449)
 
@@ -125,11 +125,11 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 28: [2022-01-07 11:23:14+08:00 推文](https://twitter.com/realcaixia/status/1479292517262807041)
 
-這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
+這就是中國版的塔利班炸毀巴米揚大佛。<br><br>博讯新闻网: 【藏族僧侣和民众被迫现场观看大型佛像被毁过程】中国四川省甘孜藏族自治州一座99英尺高的佛像，被中共以“太高”为由拆毁，与其一同拆除的，还有在附近竖立的45个转经轮。据悉，佛像摧毁时，当地僧侣、民众以及附近城镇的藏人均被当局强迫前去观看。有当地藏人谴责道，中共摧毁宗教认同已不择手段。<br><br><img style="" src="https://pbs.twimg.com/media/FIZGmIIaUAIpEuD?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
-央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
+央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style="" src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-01-07 20:31:59+08:00 推文](https://twitter.com/realcaixia/status/1479430615606996993)
 
@@ -137,7 +137,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 31: [2022-01-07 20:35:57+08:00 推文](https://twitter.com/realcaixia/status/1479431614069456900)
 
-想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
+想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2022-01-07 21:09:18+08:00 推文](https://twitter.com/realcaixia/status/1479440004460036096)
 
