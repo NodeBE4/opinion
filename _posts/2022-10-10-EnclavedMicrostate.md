@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-13
+date: 2022-10-15
 from: https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/
 layout: post
 tags:
@@ -146,4 +146,22 @@ Yeah sure, but not an anti-democrat by any means. You've subtly shifted the goal
 ----- __877.1__ -----2022-10-13 22:01:43+08:00:
 
 大清雍正 – Great Qing Yongzheng, indicating the empire (Qing) and the reign period (Yongzheng i.e. 1722-35) in which the piece purports to have been made.
+
+### 878: [Free for All Friday, 14 October 2022](https://old.reddit.com/r/badhistory/comments/y3qrzh/free_for_all_friday_14_october_2022/), submitted on 2022-10-14 19:00:09+08:00.
+
+----- __878.1__ -----2022-10-15 05:29:54+08:00:
+
+Also 1960s movie Zulus apparently. No really, their war chant is literally ripped straight from Cy Endfield's *Zulu*. They shout 'uSuthu!' when emerging from the forest.
+
+### 879: [Musashi (romance) and WWII](https://old.reddit.com/r/badhistory/comments/y41ulq/musashi_romance_and_wwii/), submitted on 2022-10-15 02:44:02+08:00.
+
+----- __879.1__ -----2022-10-15 05:21:59+08:00:
+
+Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
+
+Your submission is in violation of **Rule 2**. Your submission Is a question and should be directed at one of the weekly free for all posts or history subs that allows these like AskHistorians.
+
+
+
+If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/VirusWest2463&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/y41ulq/-/\))
 

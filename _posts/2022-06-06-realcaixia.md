@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-06-06~2022-06-12'
 
 ### 1: [2022-06-06 00:56:57+08:00 推文](https://twitter.com/realcaixia/status/1533493088835993605)
 
-转发此推文，以便于更多推友获知更多信息。
+转发此推文，以便于更多推友获知更多信息。<br><br>老好人: @realcaixia 1988年5月，于北师大相遇老鬼，得此书及老鬼的勉励。马先生应该认得他的笔迹。<br><br><img style="" src="https://pbs.twimg.com/media/FUgJO3pXoAEUr1x?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPMlWQAI-v5e?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUgJPd4XEAII_Xn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-06-06 01:08:16+08:00 推文](https://twitter.com/realcaixia/status/1533495934994243584)
 
@@ -25,7 +25,7 @@ Re @lxm13529648 感谢您🙏🌹。
 
 ### 3: [2022-06-06 01:37:23+08:00 推文](https://twitter.com/realcaixia/status/1533503263282286595)
 
-他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。
+他们知道自己是罪犯，他们害怕历史有一天会清账，所以他们千方百计地扼杀任何一点能唤起集体记忆的事物、符号，这不能帮助他们逃脱历史的审判，反而更加坐实他们是蓄意制造那起罪恶！896•4后他们给屠杀学生的士兵打气，封他们为“共和国卫士”称号，接着第二年他们就不敢再提这个称号了。<br><br>方舟子: 带货的网红，因为在6月4日这天带货了一款坦克造型的蛋糕，被全网封杀了。我猜他和多数中国年轻人一样根本不知道6月4日这天和坦克有什么关系。<br><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUUAEzFtp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDOVIAA92ft?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDMUsAA4Kwt?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUcGuDNUEAE0cE8?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-06-06 01:51:19+08:00 推文](https://twitter.com/realcaixia/status/1533506769783226370)
 
@@ -93,11 +93,11 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 20: [2022-06-09 22:58:29+08:00 推文](https://twitter.com/realcaixia/status/1534912825981816840)
 
-特别喜欢这个视频。<br><br>ZHANGDONG: 这个民族有希望💪💪<br> <a href="https://twitter.com/wutingzy/status/1534339164539428864" target="_blank" rel="noopener noreferrer">https://twitter.com/wutingzy/status/1534339164539428864</a>
+特别喜欢这个视频。
 
 ### 21: [2022-06-09 23:27:22+08:00 推文](https://twitter.com/realcaixia/status/1534920093943078914)
 
-昨晚与杨建利博士一同参加“共产主义受难者纪念馆”开馆招待会。发起人爱德华兹博士32年坚持不懈努力，终于建成纪念馆。纪念馆有一专室，展出北京6.4屠杀事件，血衣陈列在此。在京时多次听血衣捐献者江林女士回忆那一夜，也听过多位因6.4入秦城监狱的体制反叛者的讲述。这纪念馆极有教育意义，极为珍贵。
+昨晚与杨建利博士一同参加“共产主义受难者纪念馆”开馆招待会。发起人爱德华兹博士32年坚持不懈努力，终于建成纪念馆。纪念馆有一专室，展出北京6.4屠杀事件，血衣陈列在此。在京时多次听血衣捐献者江林女士回忆那一夜，也听过多位因6.4入秦城监狱的体制反叛者的讲述。这纪念馆极有教育意义，极为珍贵。<br><br>楊建利 Yang Jianli: 蔡霞教授。抱歉，笔误。<br>
 
 ### 22: [2022-06-09 23:57:05+08:00 推文](https://twitter.com/realcaixia/status/1534927573020442626)
 
@@ -105,7 +105,7 @@ Re @yonghewang1969 谢谢您和大家的支持鼓励，让我们在反抗极权�
 
 ### 23: [2022-06-10 02:05:53+08:00 推文](https://twitter.com/realcaixia/status/1534959984722726913)
 
-毛是个游走在城市边缘的乡村小知识分子，对大知识分子怀有复杂的感情：羡慕，嫉妒、忌恨、惧怕。1957毛对有真才实学又敢提出异议者，由欣赏到惧怕到镇压。习基本是文化白痴，对有风骨知识分子只能靠镇压。当年毛打压清华黄万里，现在习打压清华许章润。毛习能作恶全靠极权体制。除极权才能断人祸。<br><br>叶兵 YE BING: 今天是人民日报社论“这是为什么？”发表65周年。这标志着毛泽东“横扫牛鬼蛇神”的反右运动正式开始。黄万里教授因写小说《花丛小语》和诗词“百花齐放颂”被毛钦点为右派，厄运连连，仍矢志不渝，其批评三门峡和三峡工程的意见屡遭高层忽略。他被称为“二十世纪中国知识分子的标本”<br> <a href="https://www.voachinese.com/a/the-anniversary-of-mao-s-anti-rightists-campaign-remembered-as-crackdowns-on-dissent-intensify-20220606/6588272.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/the-anniversary-of-mao-s-anti-rightists-campaign-remembered-as-crackdowns-on-dissent-intensify-20220606/6588272.html</a>
+毛是个游走在城市边缘的乡村小知识分子，对大知识分子怀有复杂的感情：羡慕，嫉妒、忌恨、惧怕。1957毛对有真才实学又敢提出异议者，由欣赏到惧怕到镇压。习基本是文化白痴，对有风骨知识分子只能靠镇压。当年毛打压清华黄万里，现在习打压清华许章润。毛习能作恶全靠极权体制。除极权才能断人祸。
 
 ### 24: [2022-06-10 02:25:47+08:00 推文](https://twitter.com/realcaixia/status/1534964995758379008)
 
