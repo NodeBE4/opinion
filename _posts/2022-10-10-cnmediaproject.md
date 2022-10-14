@@ -63,3 +63,11 @@ As is typical ahead of the CCP National Congress, we also have today an official
 
 Re If you choose NOT to read this massive accounting of Xi's glories, you might opt to read instead the Q&amp;A on page 8, in which an official from the Central Institute of Party History and Literature talks about the process. <a href="http://paper.people.com.cn/rmrb/html/2022-10/14/nw.D110000renmrb_20221014_1-08.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2022-10/14/nw.D110000renmrb_20221014_1-08.htm</a><br><img style="" src="https://pbs.twimg.com/media/Fe_jVx-aUAAkJ9t?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 13: [2022-10-14 15:27:59+08:00 推文](https://twitter.com/cnmediaproject/status/1580822713664692225)
+
+CMP's David Bandurski looks at signs that can be read from today's “A Chronicle of Major Events Since the Party’s 19th National Congress.” Must-read for the event to open in just 2 days. <a href="https://chinamediaproject.org/2022/10/14/writing-the-future-into-history/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/14/writing-the-future-into-history/</a>
+
+### 14: [2022-10-14 15:30:06+08:00 推文](https://twitter.com/cnmediaproject/status/1580823243078111232)
+
+Re The rise in mentions of Xi Jinping in this year’s chronicle represents just over a 25% increase over his mentions in the 2017 chronicle, clearly reflecting his growing profile within the official account of the past five years. The chronicles are nearly identical in size.<br><img style="" src="https://pbs.twimg.com/media/FfA2KebaEAAzMjG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

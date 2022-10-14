@@ -41,7 +41,7 @@ Re @mark89066384 @lunanweiyi 末日疯狂。上帝要让他灭亡，必先使其
 
 ### 7: [2021-12-09 00:09:43+08:00 推文](https://twitter.com/realcaixia/status/1468613773569277963)
 
-很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style="" src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
+很朴实的三个字道尽人格尊严，致敬老人家！<br><br>鲁  难: 视频被封，我们暂时听不到卖蔗翁的声音。但是，我们都同意：不原谅！<br><br><img style src="https://pbs.twimg.com/media/FGGHthjXEBID_0V?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthnX0AQJrw4?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGGHthlXMAMtmBJ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-09 01:39:11+08:00 推文](https://twitter.com/realcaixia/status/1468636286114320390)
 
@@ -61,7 +61,7 @@ Re @jiang_xicheng @luoye_figtree 说得好！👍🌹
 
 ### 12: [2021-12-09 10:10:37+08:00 推文](https://twitter.com/realcaixia/status/1468764994670145539)
 
-21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style="" src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
+21世纪了，中共国妖孽倍出，不知中共当局以为今夕是何年？<br><br>刘晓原: 如今这个年代了，竟然还在搞“一人犯罪、株连全家”，又谈何法治精神？<br>但就是在古代，除了谋反、叛逆罪，一般的涉财产犯罪，也不会株连家人，更不会给他的家庭挂上囚牌，仅是罪犯额头刻个“囚”字。<br><br><img style src="https://pbs.twimg.com/media/FGDdO0jUcAQBbYk?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2021-12-09 12:53:30+08:00 推文](https://twitter.com/realcaixia/status/1468805982830706689)
 
@@ -97,7 +97,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 21: [2021-12-11 01:33:14+08:00 推文](https://twitter.com/realcaixia/status/1469359564613165058)
 
-完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
+完全同意。<br><br>韩连潮: 【写在人权日的话】今天是世界人权日，我呼吁中共当局释放张展、伊力哈木、曹三强、陈杰人等知名和不知名的良心犯。要中共尊重人权无疑是与虎谋皮，改善人权必须改变政权。对抗极权、打击贪腐与改善人权要采取实质行动：没收中共贪官在美的数万亿美元资产，用于促进中国人权项目，实现中国的民主转型。<br><br><img style="" src="https://pbs.twimg.com/media/FGP56LGWUAUwNQ2?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-11 08:48:02+08:00 推文](https://twitter.com/realcaixia/status/1469468987784409099)
 
@@ -109,7 +109,7 @@ Re 美国举行民主“峰会”。那意思是执政党和政府首脑是人�
 
 ### 24: [2021-12-11 09:15:42+08:00 推文](https://twitter.com/realcaixia/status/1469475948978397186)
 
-文革时大学停课了，红色斗争精神也就只能进小学中学课本。现在红色斗争精神的官名“红色基因”正式进入大学教材、登上大学讲堂，还和DNA直接挂钩，真是毛二世时代的中国特色创新——新妖辈出。<br><br>荣剑: 范忠信老师：原来以为“红色基因〞仅仅是一种社会文化上的比喻，是红色斗争精神的代名词。没想到，现在居然正式进了生物学科课程，居然正式与DNA联系起来了。真让人目瞪狗呆。什么叫高级黑？这就是。马上让你联想到古时金枝玉叶、天潢贵胄、龙子龙孙。<br><br><img style="" src="https://pbs.twimg.com/media/FGQMjc8VgAE9R1p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FGQMkE7VUAEj62H?format=jpg&name=orig" referrerpolicy="no-referrer">
+文革时大学停课了，红色斗争精神也就只能进小学中学课本。现在红色斗争精神的官名“红色基因”正式进入大学教材、登上大学讲堂，还和DNA直接挂钩，真是毛二世时代的中国特色创新——新妖辈出。<br><br>荣剑: 范忠信老师：原来以为“红色基因〞仅仅是一种社会文化上的比喻，是红色斗争精神的代名词。没想到，现在居然正式进了生物学科课程，居然正式与DNA联系起来了。真让人目瞪狗呆。什么叫高级黑？这就是。马上让你联想到古时金枝玉叶、天潢贵胄、龙子龙孙。<br><br><img style src="https://pbs.twimg.com/media/FGQMjc8VgAE9R1p?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FGQMkE7VUAEj62H?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2021-12-11 09:48:01+08:00 推文](https://twitter.com/realcaixia/status/1469484082933518340)
 
