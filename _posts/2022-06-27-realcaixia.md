@@ -25,7 +25,7 @@ title: 'Twitter @蔡霞: 2022-06-27~2022-07-03'
 
 ### 3: [2022-06-28 00:57:03+08:00 推文](https://twitter.com/realcaixia/status/1541465644427886594)
 
-中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。
+中共對逝者如此恐懼，說明逝者在人們心中有多麼強大的感召力，反過來也說明中共是多麼的心虛膽顫，多麼的害怕。<br><br>高瑜: 張思之律師送別式于明日八寶山舉行。因疫情只限制20人參加，僅張老親屬已經差不多了。張老弟子、當事人浦志強都在爭取之中。朋輩、晚輩及眾多仰慕者都不能最後送別，這是壬寅仲夏無以補救的遺憾。<br>推友給我發來1999年我與張老的合影，花也是張老送的。我曾用於我為張老80 大壽寫的文章《永遠的張思之》<br><br><img style="" src="https://pbs.twimg.com/media/FWOpWzdVsAEdddH?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FWOqrYZUYAI6YBe?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-06-28 02:54:36+08:00 推文](https://twitter.com/realcaixia/status/1541495226841407489)
 
@@ -93,7 +93,7 @@ Re @drkimharry 看来我们见过？
 
 ### 20: [2022-06-29 21:10:33+08:00 推文](https://twitter.com/realcaixia/status/1542133419542454272)
 
-非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。
+非常感谢这位推友，他（她）做了一个视频，很感谢🙏🌹🌹。<br><br>Sayori: @realcaixia 蔡霞老师的这篇文章确实很长，已经截屏不知可否帮助到各位，谢谢👒<br><br><video src="https://video.twimg.com/ext_tw_video/1542048648753979392/pu/vid/592x1280/RIxcHwjF1UfISao6.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542048648753979392/pu/img/dQ56qV-uzAWFXwXB.jpg"></video>
 
 ### 21: [2022-06-29 23:30:51+08:00 推文](https://twitter.com/realcaixia/status/1542168726618898432)
 
@@ -105,11 +105,11 @@ Re @Kk98721066 看明白了，警察开车从这走，检查核酸检测的工�
 
 ### 23: [2022-06-30 08:21:41+08:00 推文](https://twitter.com/realcaixia/status/1542302314706378754)
 
-看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。
+看明白了，警察开车从这走，检查核酸检测的工作人员让出示核酸检测结果，发现警察7天没做核酸，要警察回去不能走，警察下车拿手铐要拷那哥检查人员，双方上演全武行。调解的人说，你是工作，我们也是工作。这出戏倒是不多见。难怪唐老鸭拍的这段小视频从大陆流到外面。<br><br>唐和尚: 20220629唐师曾：北京房山长阳镇（转发） <br>#北京核酸<br><br><video src="https://video.twimg.com/ext_tw_video/1542011217304223750/pu/vid/406x720/lKm8bTsVjK7NMwUn.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542011217304223750/pu/img/yrtsdlUb29N3lVnH.jpg"></video> <a href="https://youtu.be/-bvR2S9uIY8" target="_blank" rel="noopener noreferrer">https://youtu.be/-bvR2S9uIY8</a>
 
 ### 24: [2022-06-30 08:39:03+08:00 推文](https://twitter.com/realcaixia/status/1542306687071174657)
 
-恒青先生说得对！<br><br>李恒青: 习近平今天在武汉强调，新冠肺炎疫情是一场大考。坚持动态清零是党中央确定的，宁可暂时影响一点经济发展，也不能让人民群众生命安全和身体健康受到伤害。如果算总账，我们的防疫措施是最经济的、效果最好的。<br>最经济、效果最好是你自己说了算吗？所有伤天害理的事都是在“一切为了人民”的幌子下干的。<br><br><img style="" src="https://pbs.twimg.com/media/FWbAos_XkAIHfHU?format=png&amp;name=orig" referrerpolicy="no-referrer">
+恒青先生说得对！
 
 ### 25: [2022-06-30 22:19:04+08:00 推文](https://twitter.com/realcaixia/status/1542513049046618113)
 
@@ -165,11 +165,11 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 38: [2022-07-02 07:25:34+08:00 推文](https://twitter.com/realcaixia/status/1543012970762043393)
 
-习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。
+习近平在李家超就职演说时踏实睡觉了，就像文革后期曾经传说的毛泽东的六个字那样：“你办事我放心”。有枪在，有港版国安法在，还有李家超在。<br><br>浪得难受: @RFA_Chinese 你们不敢发，我来帮你们补一张。<br><br><img style="" src="https://pbs.twimg.com/media/FWkblU6UIAAFEPo?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-07-02 20:50:01+08:00 推文](https://twitter.com/realcaixia/status/1543215415165435906)
 
-看到有几个推特都在推这个视频，跟着凑个热闹。<br><br>官场观察工作室 昭明: 当年老江去香港时，到都是操着粤语的香港本地人到场欢迎，老江也能说一两句粤语，还能给大家表演一两段，老江倒是不怕暗杀，更没有把内地大陆的小粉红带到香港造假欢迎场面。<br><br><video src="https://video.twimg.com/ext_tw_video/1542857715051302912/pu/vid/608x480/usMiqB-2VmhsWMbo.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1542857715051302912/pu/img/hjzTjQ5uecHBptm9.jpg"></video>
+看到有几个推特都在推这个视频，跟着凑个热闹。
 
 ### 40: [2022-07-02 21:32:49+08:00 推文](https://twitter.com/realcaixia/status/1543226187417354240)
 
@@ -177,7 +177,7 @@ Re 中共党内奴性文化、阴谋文化是中共党性修养的本质内涵�
 
 ### 41: [2022-07-02 22:18:52+08:00 推文](https://twitter.com/realcaixia/status/1543237776904175617)
 
-极权统治出打手举刀了。<br><br>靜心: 轉：雷霆行動，唐山開始抓捕舉報人了，微博和微信賬號銷了一萬多，這就是他們解決問題的手段！<br><br><img style="" src="https://pbs.twimg.com/media/FWlC29XWQAATeXf?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+极权统治出打手举刀了。
 
 ### 42: [2022-07-02 22:22:48+08:00 推文](https://twitter.com/realcaixia/status/1543238766894223361)
 
