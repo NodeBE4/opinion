@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-14
+date: 2022-10-15
 from: https://twitter.com/HeQinglian/status/1579159924718047233
 layout: post
 tags:
@@ -258,4 +258,24 @@ Re @JianglinLi @david_david1968 @Wu_Zhi @ngexp Musk 遵循乌克兰人的建议�
 ### 61: [2022-10-14 21:40:41+08:00 推文](https://twitter.com/HeQinglian/status/1580916507021746178)
 
 Re @noahmitchell07 我也没看到这报道，能否请提供一下链接。这挺重要。
+
+### 62: [2022-10-15 01:34:33+08:00 推文](https://twitter.com/YaxueCao/status/1580975361613258752)
+
+RT Yaxue Cao<br>在所有 #四通桥 照片中，我最喜欢这张。四通桥长286米，是一个双向6车道城市快速路封闭桥，警察和消防只能从桥两端开车上来阻止 #彭载舟 的行动。这一条件使得他有时间悬挂横幅，点燃杂物，同时播放录音。完美选址，完美选时，完美计划，完美执行，影响最大化。<br><br>賈葭: 北京海淀。<br>佩服這位的勇氣。<br><br><img style="" src="https://pbs.twimg.com/media/Fe7L5Q6agAESEay?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 63: [2022-10-15 01:39:44+08:00 推文](https://twitter.com/HeQinglian/status/1580976663214534657)
+
+Re @noahmitchell07 Thanks.<br>说明马克龙早就知道，美国欧洲的进步价值观，只能自个享受变性之乐了，其他国家不稀罕。
+
+### 64: [2022-10-15 01:47:40+08:00 推文](https://twitter.com/HeQinglian/status/1580978658537181184)
+
+民主党与左派心仪并机选的总统拜登在洛杉矶发表讲话说，“如果共和党赢了，通货膨胀会变得更糟。事情就是这么简单。”<br>拜登称，民主党人是站出来替民众说话的。<br>拜登上任时，通胀率为 1.4%；现美国通胀率为8.2%——白宫、国会现在竟然是共和党当家？<br><br>绫波: 拜登在科罗拉多州的一次演讲中提醒人们他的儿子在中东英勇牺牲，这让人们感到尴尬。“我作为一名获得铜星勋章并在伊拉克丧生的男人的父亲说”，拜登说。<br>美国总统拜登的长子在2008-2009年确实在伊拉克服役，但2015年在美国住院后死于肿瘤。<br><br><img style="" src="https://pbs.twimg.com/media/Fe9PVljVQAAQnId?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 65: [2022-10-15 01:53:55+08:00 推文](https://twitter.com/HeQinglian/status/1580980235419648000)
+
+Re @xzHhJ21axSh 赞成。<br>美国、欧盟与北约国家必须给，这是血酬。
+
+### 66: [2022-10-15 01:58:45+08:00 推文](https://twitter.com/HeQinglian/status/1580981450148839425)
+
+Re @lzhn96836555 @silinforest @lindahuiyun 你最好别将那些不要脸的造谣上传。<br>有个白檀，经常假借别人的话说自己的意见，我已经拉黑他了。
 

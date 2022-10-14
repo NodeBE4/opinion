@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-04-18~2022-04-24'
 
 ### 2: [2022-04-18 05:15:28+08:00 推文](https://twitter.com/realcaixia/status/1515801140885082113)
 
-根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。<br><br>GenX Lin: @zhu0588 孔令宝先生原先是区委书记，正处级，下属女公务员几百个。他没有潜规则女下属，通过看小黄片解决个人性压力，即环保又文明！ 他被捕的真实原因，是“发表不当言论”，他説了“不能再给共产党卖命了” 这话，被政治对手录音。 然后也找不出其他贪腐事实，就用看小黄片抹黑他的形象<br> <a href="https://twitter.com/_civil_rights/status/1345378372067577857" target="_blank" rel="noopener noreferrer">https://twitter.com/_civil_rights/status/1345378372067577857</a>
+根據我对中共内部的了解，下面這網友推文可信度比較高。以往党内清除异己的对象若是男性官员，實在挖不出貪腐走私販毒之類時，最好用的就是“嫖娼”罪。“嫖娼”罪已没人信臭大街了，居然又造个新罪名“看黄片”。欲加之罪何患无辞！<br>真心劝中共官员看清党内的血腥残暴，多想想时代大势人心向背儿孙命运。
 
 ### 3: [2022-04-18 07:49:11+08:00 推文](https://twitter.com/realcaixia/status/1515839822526652419)
 
@@ -57,11 +57,11 @@ Re 刘犯了大忌，这下真拍到了马脚上。“踔厉笃行”真乃“�
 
 ### 11: [2022-04-18 09:57:55+08:00 推文](https://twitter.com/realcaixia/status/1515872221230682116)
 
-真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。<br><br>Luo Shengchun丁家喜律师妻子: #纽约人权活动之旅 前天驱车来到纽约市参加由非政府机构中国人权（HRIC）@hrichina 举办的法律程序国际标准有关的培训，结识了一批年轻活动者和律师，并一起学习探讨中国政府制定及执行法律时与国际标准的距离，受益非浅！培训结束与全程参与培训的中国人权执行主任，法学荣誉退休教授谭女士合影留念。<br><br><img style="" src="https://pbs.twimg.com/media/FQgdB4xXoAccxMK?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FQgdB4wWQAs4HiU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+真好！真希望有更多像谭教授这样的师长和朋友，援助中国人反抗极权政治。
 
 ### 12: [2022-04-18 10:42:43+08:00 推文](https://twitter.com/realcaixia/status/1515883495498919938)
 
-上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！
+上海逝者名单，前天晚上逝者数是116，昨天下午是121，今早是132；现在是143。这是不完全统计。刚才看到的逝者有因生计路绝而自杀，有早晨5点多出去偷买菜而掉河中溺水而亡。每个数字都是一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。病毒毒不死人，清零杀人！<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
 
 ### 13: [2022-04-18 15:35:00+08:00 推文](https://twitter.com/realcaixia/status/1515957049401749507)
 
@@ -109,7 +109,7 @@ Re @yangjianli001 哈哈！
 
 ### 24: [2022-04-20 03:26:12+08:00 推文](https://twitter.com/realcaixia/status/1516498415617773572)
 
-💔😭<br><br>变态辣椒RebelPepper: 上海一保姆講述她照顧的一位老太太因為封城隔離無法及時照顧，被活活餓死，老太太死之前保姆最後一次有機會去看她的時候已經餓到在吃屎<br><br><video src="https://video.twimg.com/ext_tw_video/1516146424903258125/pu/vid/540x952/YX2YY61UDRAdheMV.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516146424903258125/pu/img/D2eJR8-ro5daj1ha.jpg"></video>
+💔😭
 
 ### 25: [2022-04-20 03:32:53+08:00 推文](https://twitter.com/realcaixia/status/1516500100159258631)
 
@@ -129,11 +129,11 @@ Re 在这个视频下为中共洗地的，全都不是人！这些家伙丧尽�
 
 ### 29: [2022-04-21 07:33:21+08:00 推文](https://twitter.com/realcaixia/status/1516923001849085953)
 
-请听台湾大学生身处上海封城的亲身感受。<br><br>iPaul🇨🇦🇺🇦: 一位台湾交换生在上海复旦大学的感悟<br><br><video src="https://video.twimg.com/ext_tw_video/1516403115612082177/pu/vid/640x360/hJ_6ULeiUrwHBisC.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1516403115612082177/pu/img/OeLrtek3dlxf7UD-.jpg"></video>
+请听台湾大学生身处上海封城的亲身感受。
 
 ### 30: [2022-04-22 08:16:20+08:00 推文](https://twitter.com/realcaixia/status/1517296205520416769)
 
-这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。<br><br>苗也: 剥削来自权力，而非资本<br>马斯克能说出这话，不愧是首富<br><br><img style="" src="https://pbs.twimg.com/media/FQr9_xOXMAQf9de?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这句话击碎剩余价值理论—马克思主义的理论基石。剩余价值理论是中共用以煽动仇富，1949年中共搞农村土改、搞城市工商业社会主义改造、抢劫私有财产的理由。中共用剩余价值理论制造了中国社会罪恶的掠夺文化。
 
 ### 31: [2022-04-22 20:22:15+08:00 推文](https://twitter.com/realcaixia/status/1517478888280100865)
 
@@ -161,7 +161,7 @@ Re @henry50383806 @lianchaohan 一直挖下去！让真相大白于天下！
 
 ### 37: [2022-04-22 22:58:07+08:00 推文](https://twitter.com/realcaixia/status/1517518115160080386)
 
-比较同意这个推友的看法。<br><br>Henry Chang: 莫把中共神秘化。中共就是当代的八旗兵，是泛官僚体系、准军事组织<br>共产党员早已没有一丁点理想，有的只是通过加入这个自利型集团谋取私利的贪婪。<br>但是，不同阶层的党员的政治倾向是不同的。<br>权贵、上层是顽固分子，局级是易动摇可争取的阶层，处级以下则与普罗大众无异，是随时被踩在脚底下口香糖。<br>
+比较同意这个推友的看法。
 
 ### 38: [2022-04-23 00:44:52+08:00 推文](https://twitter.com/realcaixia/status/1517544978972614657)
 
@@ -205,5 +205,5 @@ Re @caojitw 另一边脚看着是摆在椅子往下，这边脚是踩实了地�
 
 ### 48: [2022-04-24 22:35:20+08:00 推文](https://twitter.com/realcaixia/status/1518237159370633216)
 
-这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。
+这种抓人到了肆无忌惮，人身安全完全没有保障。这是一个国家将要脱序/失序的征兆。<br><br>章立凡 Zhang Lifan: ＃转【实录：“像文革运动”（公安大白深夜抓人）】<br><br><img style="" src="https://pbs.twimg.com/media/FREbr4BUcAAg9SR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FREbsemVgAE06ZN?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
