@@ -165,3 +165,9 @@ Your submission is in violation of **Rule 2**. Your submission Is a question and
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/VirusWest2463&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/y41ulq/-/\))
 
+### 880: [Why did the British lose the American War of Independence, according to the British in the late 18th and early 19th century?](https://old.reddit.com/r/AskHistorians/comments/y4ovbg/why_did_the_british_lose_the_american_war_of/), submitted on 2022-10-15 22:06:58+08:00.
+
+----- __880.1__ -----2022-10-16 04:35:03+08:00:
+
+Apologies, but we have had to remove your comment. While we appreciate your interest in eventually providing a response, as it is not an answer unto itself, but rather a [placeholder](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_partial_answers_or_.22placeholders.22), we have had to remove your comment. In the future, please only post a response when you have done so, rather than only promising to later. If you do return later to provide a full answer, and we hope you will, please post a new comment in this thread rather than editing this removed placeholder comment, as we may overlook it and thus not re-approve it even if it is up-to-scratch. [This rule is explained in more depth here](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/).
+
