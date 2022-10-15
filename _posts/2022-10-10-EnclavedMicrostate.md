@@ -151,7 +151,7 @@ Yeah sure, but not an anti-democrat by any means. You've subtly shifted the goal
 
 ----- __878.1__ -----2022-10-15 05:29:54+08:00:
 
-Also 1960s movie Zulus apparently. No really, their war chant is literally ripped straight from Cy Endfield's *Zulu*. They shout 'uSuthu!' when emerging from the forest.
+Also 1960s movie Zulus apparently. No really, their war chant is literally ripped straight from the audio of Cy Endfield's *Zulu*. They shout 'uSuthu!' when emerging from the forest.
 
 ### 879: [Musashi (romance) and WWII](https://old.reddit.com/r/badhistory/comments/y41ulq/musashi_romance_and_wwii/), submitted on 2022-10-15 02:44:02+08:00.
 
