@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-10-10~2022-10-16'
 
 ### 1: [2022-10-10 02:44:14+08:00 推文](https://twitter.com/realcaixia/status/1579180956488908800)
 
-这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br>
+这个信息值得重视！在中共眼里，华人在哪里，中共警察就必须派到哪里，于是美国政府的眼皮子底下有了一个国中之国警察机构，还是习的公安部牛！<br><br>GreatFire.org: 中国警察在全球多个国家设立“警务服务站”，把中国警察的“长臂”伸到海外华人社区。美国纽约在首批设立的名单中，设在曼哈顿唐人街亲共侨团“长乐公会”内。 <br>国际人权组织“保护卫士”近日发布的报告，福州市公安局已经在21个国家的25个城市，设立了第共30个“警务海外服务站”。<br> <a href="https://twitter.com/RFI_Cn/status/1578896305753325568" target="_blank" rel="noopener noreferrer">https://twitter.com/RFI_Cn/status/1578896305753325568</a>
 
 ### 2: [2022-10-10 02:52:22+08:00 推文](https://twitter.com/realcaixia/status/1579183002751766528)
 
@@ -45,7 +45,7 @@ Re @Zealots2022 她好像没有在电视台工作过。
 
 ### 8: [2022-10-10 19:17:26+08:00 推文](https://twitter.com/realcaixia/status/1579430901855186946)
 
-我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br> <a href="https://twitter.com/im1266/status/1579368415768477696" target="_blank" rel="noopener noreferrer">https://twitter.com/im1266/status/1579368415768477696</a>
+我知道人大校友会，是因为他们在为雷洋事件发声，维护社会正义方面的巨大影响力。2016年人大校友会曾经带动了全国几十所中国名校大学的学生起来为雷洋伸张正义。<br><br>鲁  难: 1979年的今天，中国人民大学77、78、79级上千名学生走上天安门广场游行示威，包围新华门并静坐抗议，以索要二炮占领的校舍为名，开启了反特权的社会活动。<br>这是中国1949年后首次由大学生自发组织的反抗运动，由于限定目标，有理有节，而且事发突然，并未受到当局镇压，人大校友由此走上社会活动舞台。<br>
 
 ### 9: [2022-10-10 19:28:17+08:00 推文](https://twitter.com/realcaixia/status/1579433632728756225)
 
@@ -69,7 +69,7 @@ Re @xchen156 小平老师过奖了，感谢大家的支持。
 
 ### 14: [2022-10-12 23:17:56+08:00 推文](https://twitter.com/realcaixia/status/1580216204492316672)
 
-这是我和袁莉的聊天。有一点小的更正，我不是去中南海讲课，而是作为中共中央有关部门和领导人就党建问题的咨询对象。一般说来，“去中南海讲课”会被理解为给中共政治局委员和常委们讲课，我不是。我是作为有关党建问题的咨询人员，进入中南海开会，会议都是小范围的，没有对外说的义务。<br><br>ZHANGDONG: 蔡霞和袁莉的这个聊天，从她进入党校开始，描绘了中共党内的政治氛围和运作机制，从给中南海上课到用党章替任志强发声，从被中共视为异己到被打上反党标签直至被开除党籍，从她的经历可见她对中共认识的逐步变化，以及她对习近平看法的转变，使我们了解到，一个曾经忠实的中共党员为什么对中共绝望。<br>
+这是我和袁莉的聊天。有一点小的更正，我不是去中南海讲课，而是作为中共中央有关部门和领导人就党建问题的咨询对象。一般说来，“去中南海讲课”会被理解为给中共政治局委员和常委们讲课，我不是。我是作为有关党建问题的咨询人员，进入中南海开会，会议都是小范围的，没有对外说的义务。<br><br>ZHANGDONG: 蔡霞和袁莉的这个聊天，从她进入党校开始，描绘了中共党内的政治氛围和运作机制，从给中南海上课到用党章替任志强发声，从被中共视为异己到被打上反党标签直至被开除党籍，从她的经历可见她对中共认识的逐步变化，以及她对习近平看法的转变，使我们了解到，一个曾经忠实的中共党员为什么对中共绝望。<br> <a href="https://twitter.com/bumingbaipod/status/1579092698635517952" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1579092698635517952</a>
 
 ### 15: [2022-10-12 23:44:11+08:00 推文](https://twitter.com/realcaixia/status/1580222807585492993)
 
@@ -101,7 +101,7 @@ Re @xinlijian110 这说的是老习与小习。
 
 ### 22: [2022-10-14 01:27:25+08:00 推文](https://twitter.com/realcaixia/status/1580611176462831616)
 
-让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+让我们大家都来关注、都来声援都来响应彭载舟！<br><br>全球倒习救国翡翠运动: 他叫#彭载舟，本名#彭立发，号召大家从10月16日起全民#罢工#罢课#汽车鸣笛。他已经做出表率，在北京四通桥挂出横幅，震惊世界。他已经被拘捕，求仁得仁。一个彭立发，震惊世界。一万个彭立发，再造中国！<br><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhfXgAIENym?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXkAIQmwj?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXhdWQAsRkdz?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fe9NXheXoAIcBbX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/changchengwai/status/1580534048614932481" target="_blank" rel="noopener noreferrer">https://twitter.com/changchengwai/status/1580534048614932481</a>
 
 ### 23: [2022-10-14 03:23:03+08:00 推文](https://twitter.com/realcaixia/status/1580640277106413568)
 
@@ -214,4 +214,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FfEEDn8WYAE-Hps?format=jpg
 ### 50: [2022-10-15 15:53:25+08:00 推文](https://twitter.com/realcaixia/status/1581191501601964032)
 
 北京横幅抗议事件发酵 “民不畏死，奈何以死惧之” — 普通话主页 <a href="https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/kw-10142022094809.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/yataibaodao/renquanfazhi/kw-10142022094809.html</a>
+
+### 51: [2022-10-15 18:54:28+08:00 推文](https://twitter.com/realcaixia/status/1581237062140690432)
+
+且看中共当局以此迎接他们的20大（1）<br><br>孤胆英雄彭载舟的四通桥壮举，震动全世界，吓破习胆。<br><img style="" src="https://pbs.twimg.com/media/FfGuuANXoAIx2HJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfGuuL_XgAE4oEB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfGuuVrWQAAJfB1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfGuuiTXEAAtLDi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 52: [2022-10-15 19:23:30+08:00 推文](https://twitter.com/realcaixia/status/1581244367838199808)
+
+且看中共当局以此迎接他们的20大（2):<br><br>图1是2021年网信办政绩；<br>图3是继5月中共发文不许老干部“妄议”后，9月对老干部及遗孀的住家保姆进行政治考核，明摆着要保姆当告密者和中共眼线。卑劣无耻的政治绑架。<br>图2是习时代的“良民证加路条”；<br>图4是中共最新的部署。<br>总结：全民封口封腿，不许妄议乱动。<br><img style="" src="https://pbs.twimg.com/media/FfG1XHIXgAEPW47?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfG1XVJXgAE4Jnm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfG1Xe2WAAE7zHw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfG1Xs8XkAA4nx4?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 53: [2022-10-15 19:54:02+08:00 推文](https://twitter.com/realcaixia/status/1581252053900271618)
+
+【跟进时代勇士】1   今天继续推发孤胆英雄彭载舟的罢课罢工罢免习近平攻略的内容：中国宪法上明文阐明了的公民权利。<br><br>尽管中共国宪法尽管本质上是中共统治的遮羞布，但因为要掩盖其极权统治本质，就不得不写上公民权利。彭载舟先生特地把公民权利摘取出来写进攻略。公民行使权利的行动合理合法！<br><img style="" src="https://pbs.twimg.com/media/FfG8Wh-WAAMl1pC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfG8Wr2XkAM2uhr?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfG8W6SWYAMc1X6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfG8XHbX0AID-Ko?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
