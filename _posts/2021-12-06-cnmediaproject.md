@@ -53,11 +53,11 @@ RT Patricia M Thornton<br>(On November 23, Gu Kailai's mother, Fan Chengxiu, w
 
 ### 10: [2021-12-08 08:13:20+08:00 推文](https://twitter.com/cnmediaproject/status/1468373089344176128)
 
-Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Topping page one of the People's Daily today -- the release of a new book on human rights by Xi Jinping. CCP really working overtime to advertise its alternative readings on universal values -- including democracy and freedom of speech. <a href="http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2021-12/08/nw.D110000renmrb_20211208_2-01.htm</a><br><img style="" src="https://pbs.twimg.com/media/FGC0xFOVEAAoLjh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-08 08:17:00+08:00 推文](https://twitter.com/cnmediaproject/status/1468374013861072896)
 
-Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book release was covered last night on the official newscast Xinwen Lianbo, which said that the "CCP and the Chinese government have respected and protected human rights throughout," and "found a path to human rights suiting national circumstances." <a href="https://www.yicai.com/news/101251439.html" target="_blank" rel="noopener noreferrer">https://www.yicai.com/news/101251439.html</a><br><img style="" src="https://pbs.twimg.com/media/FGC1qAAVEAQBVf_?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-08 08:19:45+08:00 推文](https://twitter.com/niubi/status/1468374707007275015)
 
@@ -65,7 +65,7 @@ RT Bill Bishop<br>14k+ character people's daily article-Summary of General Sec
 
 ### 13: [2021-12-08 08:20:58+08:00 推文](https://twitter.com/cnmediaproject/status/1468375013317570560)
 
-Re The book's publication is big news, right? And editors would freely choose to place it in a prominent spot next to the masthead. . . . No, that's not how it works. They are under strict instructions to run the release, and to place it exactly here. Economic Daily. Look familiar?<br><img style="" src="https://pbs.twimg.com/media/FGC3GKPVEAQ2XXx?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The book's publication is big news, right? And editors would freely choose to place it in a prominent spot next to the masthead. . . . No, that's not how it works. They are under strict instructions to run the release, and to place it exactly here. Economic Daily. Look familiar?<br><img style src="https://pbs.twimg.com/media/FGC3GKPVEAQ2XXx?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-08 08:24:04+08:00 推文](https://twitter.com/cnmediaproject/status/1468375793504239616)
 
@@ -73,7 +73,7 @@ Re And here is Tianjin Daily, the official mouthpiece of the CCP leadership in T
 
 ### 15: [2021-12-08 08:26:14+08:00 推文](https://twitter.com/cnmediaproject/status/1468376336456888322)
 
-Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style="" src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re How about Changjiang Daily, the official mouthpiece of the CCP leadership in the city of Wuhan? Deja vu all over again.<br><img style src="https://pbs.twimg.com/media/FGC4EBpUYAICIw0?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2021-12-08 08:27:31+08:00 推文](https://twitter.com/cnmediaproject/status/1468376658998861824)
 
@@ -93,7 +93,7 @@ Re And China Youth Daily, the official mouthpiece of the Chinese Communist Youth
 
 ### 20: [2021-12-08 08:35:32+08:00 推文](https://twitter.com/cnmediaproject/status/1468378676064833536)
 
-Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re And how about Sichuan Daily, the official organ of the CCP leadership in Sichuan province?<br><img style="" src="https://pbs.twimg.com/media/FGC6nS6VgAEPzbT?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 21: [2021-12-08 08:40:36+08:00 推文](https://twitter.com/cnmediaproject/status/1468379952647409664)
 

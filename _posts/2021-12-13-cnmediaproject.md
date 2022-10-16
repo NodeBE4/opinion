@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
@@ -57,7 +57,7 @@ RT Made in China Journal<br>Re No. 2 is again @lingli_vienna in conversation w
 
 ### 11: [2021-12-14 20:34:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1470733930286440468)
 
-RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Alex Dukalskis<br>As usual some excellent reporting by @paulmozur & team about 🇨🇳 external propaganda. <br><br>This photo of the other side of one of these "spontaneous" pro-CCP YouTube videos is worth its full 1,000 words. <a href="https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/interactive/2021/12/13/technology/china-propaganda-youtube-influencers.html</a><br><img style="" src="https://pbs.twimg.com/media/FGkYgsqXoAQWv-Y?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2021-12-15 17:34:01+08:00 推文](https://twitter.com/ABPevzner/status/1471050904820461574)
 
@@ -133,11 +133,11 @@ RT Hu Xijin 胡锡进<br>I have retired and my new role is Global Times specia
 
 ### 30: [2021-12-17 08:07:39+08:00 推文](https://twitter.com/DemesDavid/status/1471633150808068097)
 
-RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
+RT David Demes 戴達衛<br>Re @cnmediaproject<br><br>David Demes 戴達衛: In his English-language tweet, Hu Xijin omits a key details from his original Weibo-post: That he will "continue to do my best for the party's news and public opinion work". So when he’s talking about "both sides", he’s actually referring to his work as a CCP mouthpiece.<br><br><img style="" src="https://pbs.twimg.com/media/FGvTchRUUA853IO?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/HuXijin_GT/status/1471488933192433664" target="_blank" rel="noopener noreferrer">https://twitter.com/HuXijin_GT/status/1471488933192433664</a>
 
 ### 31: [2021-12-17 08:31:32+08:00 推文](https://twitter.com/cnmediaproject/status/1471639162776584193)
 
-A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
+A must-read post by CMP's Stella Chen on the history (and current practice) of "ideological and political education" (思政). Quite a chilling glimpse into how the CCP weaves the study of obedience and gratitude into all subjects in higher education. <a href="https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/ideological-and-political-education/</a><br><img style="" src="https://pbs.twimg.com/media/FGxP88OVcAAixQI?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2021-12-17 09:34:35+08:00 推文](https://twitter.com/cnmediaproject/status/1471655029144981505)
 
@@ -157,7 +157,7 @@ Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teacher
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 
-Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style="" src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
