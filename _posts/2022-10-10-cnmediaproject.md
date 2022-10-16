@@ -211,3 +211,7 @@ For a China-related distraction from 20th National Congress coverage today, we a
 
 In commentary on CCTV after Xi's political report, it was mentioned that the version read by Xi Jinping was not the full-text version of the report. Once the full version is released, there could be more surprises. So far, though, no real surprises stand out.<br><img style="" src="https://pbs.twimg.com/media/FfKdwnQagAEsSmx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 50: [2022-10-16 17:13:33+08:00 推文](https://twitter.com/cnmediaproject/status/1581574055479881728)
+
+But you have earned such admiration! :)<br><br>William Yang: I must be crazy for trying to translate the whole speech by Xi Jinping.<br>
+
