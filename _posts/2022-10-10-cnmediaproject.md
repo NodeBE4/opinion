@@ -215,3 +215,23 @@ In commentary on CCTV after Xi's political report, it was mentioned that the ver
 
 But you have earned such admiration! :)<br><br>William Yang: I must be crazy for trying to translate the whole speech by Xi Jinping.<br>
 
+### 51: [2022-10-16 19:34:20+08:00 推文](https://twitter.com/cnmediaproject/status/1581609484153425920)
+
+The last time there was a pronounced difference between the report as read by the general secretary and the full-text version of the report was at the 16th National Congress of the CCP in November 2002, 20 years ago. That was delivered by a very elderly Jiang Zemin.<br><br>China Media Project: In commentary on CCTV after Xi's political report, it was mentioned that the version read by Xi Jinping was not the full-text version of the report. Once the full version is released, there could be more surprises. So far, though, no real surprises stand out.<br><br><img style="" src="https://pbs.twimg.com/media/FfKdwnQagAEsSmx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 52: [2022-10-16 19:37:06+08:00 推文](https://twitter.com/cnmediaproject/status/1581610181364166656)
+
+Re Combine this fact with Xi's frequent sips of tea and throat clearings and one wonders if there was a consideration of the physical toll required to deliver the full report.<br><img style="" src="https://pbs.twimg.com/media/FfMCDsJaMAELSga?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 53: [2022-10-16 19:38:04+08:00 推文](https://twitter.com/cnmediaproject/status/1581610425028050950)
+
+Re One of a number of stories from Chinese-language media outside the PRC making related observations. <a href="https://udn.com/news/story/123078/6690414" target="_blank" rel="noopener noreferrer">https://udn.com/news/story/123078/6690414</a>
+
+### 54: [2022-10-16 19:44:27+08:00 推文](https://twitter.com/cnmediaproject/status/1581612029076721666)
+
+Re It's also interesting to note how the microphone was adjusted at a number of points as Xi paused to cough and clear his throat. At a few points, it almost seemed there had been technical glitches — but this was of course done to ensure the coughs were not broadcast too loudly.<br><img style="" src="https://pbs.twimg.com/media/FfMDwPTagAAut3X?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 55: [2022-10-16 20:37:09+08:00 推文](https://twitter.com/cnmediaproject/status/1581625290648096769)
+
+The report Xi delivered live today was not the full report. Here is a quick link to download the full version in Chinese + a brief rundown of why there was possibly a gap. <a href="https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/</a>
+
