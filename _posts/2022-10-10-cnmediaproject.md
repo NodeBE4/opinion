@@ -235,3 +235,27 @@ Re It's also interesting to note how the microphone was adjusted at a number of 
 
 The report Xi delivered live today was not the full report. Here is a quick link to download the full version in Chinese + a brief rundown of why there was possibly a gap. <a href="https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/</a>
 
+### 56: [2022-10-16 22:31:51+08:00 推文](https://twitter.com/cnmediaproject/status/1581654159031685121)
+
+“'Xi Jinping Thought on Socialism With Chinese Characteristics for a New Era' is a crown that's too heavy to wear,” said David Bandurski. <a href="https://www.nytimes.com/live/2022/10/15/world/china-party-congress-xi-jinping" target="_blank" rel="noopener noreferrer">https://www.nytimes.com/live/2022/10/15/world/china-party-congress-xi-jinping</a>
+
+### 57: [2022-10-16 22:32:47+08:00 推文](https://twitter.com/cnmediaproject/status/1581654394378293248)
+
+“It’s not just about ideas, it’s really about signaling a leader’s power and legacy,” David Bandurski, the co-director at the China Media Project, a research program that analyses the country’s media landscape, said. <a href="http://nbcnews.com/news/world/china-communist-party-congress-xi-jinping-third-term-zero-covid-rcna51613" target="_blank" rel="noopener noreferrer">http://nbcnews.com/news/world/china-communist-party-congress-xi-jinping-third-term-zero-covid-rcna51613</a>
+
+### 58: [2022-10-16 23:00:31+08:00 推文](https://twitter.com/cnmediaproject/status/1581661373255516160)
+
+Hats off.<br><br>𝐋𝐢𝐧𝐠 𝐋𝐢: Someone made out the seat map of the Presidium of the #20thPartyCongress. Doing that requires quite some work, patience and a good memory and facial recognition ability. <br><br>h/t @mybigcharacterposter<br><br><img style="" src="https://pbs.twimg.com/media/FfMtNVGWQAII3tP?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 59: [2022-10-16 23:01:47+08:00 推文](https://twitter.com/cnmediaproject/status/1581661690810466306)
+
+As fair a summary as most.<br><br>Bill Bishop: now that he is awake he gave me his first hot take about the report: "too much struggle, not enough treats".<br> <a href="https://twitter.com/niubi/status/1581619215156809728" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1581619215156809728</a>
+
+### 60: [2022-10-16 23:07:12+08:00 推文](https://twitter.com/cnmediaproject/status/1581663052327682049)
+
+Just a note here for accuracy that this is a "political report" 政治报告 (CCP) not a "work report" 工作报告 (government).<br><br>Joseph Torigian: A thread of reactions to Xi's speech.<br>The work report was unambiguously about continuity. I think I’ve read almost everything he said here somewhere else. Although historic, this Congress will almost certainly not signify fundamental new policy directions.<br>
+
+### 61: [2022-10-16 23:18:27+08:00 推文](https://twitter.com/theChinaDude/status/1581665884594409472)
+
+RT Manoj Kewalramani<br>It's really good to see Indian journalists in Beijing covering the Congress. Indian newsrooms should be investing in more of this for us to understand China better and less of desks picking up Twitter rumours as news.<br><br>Ananth Krishnan: With @anshu13 and @spatranobis at the 20th Congress opening<br><br><img style="" src="https://pbs.twimg.com/media/FfKZj9oVIAAHpR_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

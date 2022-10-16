@@ -177,3 +177,9 @@ Apologies, but we have had to remove your comment. While we appreciate your inte
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
+### 882: [[Hobby Scuffles] Week of October 17, 2022](https://old.reddit.com/r/HobbyDrama/comments/y5iyb2/hobby_scuffles_week_of_october_17_2022/), submitted on 2022-10-16 23:01:24+08:00.
+
+----- __882.1__ -----2022-10-17 00:51:47+08:00:
+
+I finally got a new desk lamp, which means mini painting can resume… eventually.
+
