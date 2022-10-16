@@ -19,3 +19,7 @@ title: EnclavedMicrostate在2018-08-27~2018-09-02的言论
 
 Gosh, what an old post to receive a new comment on! The answer is that it's because Daikyu have 175 range compared to normal Bow Samurai's 150, so they start shooting earlier and thus spend more time shooting overall.
 
+----- __1.2__ -----2022-10-16 15:02:20+08:00:
+
+Interesting! That would explain quite a bit.
+

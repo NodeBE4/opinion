@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-15
+date: 2022-10-16
 from: https://old.reddit.com/r/AskHistory/comments/xzzric/has_there_ever_been_a_proven_case_of_arranged_war/
 layout: post
 tags:
@@ -170,4 +170,10 @@ If you feel this was done in error, or would like better clarification or need f
 ----- __880.1__ -----2022-10-16 04:35:03+08:00:
 
 Apologies, but we have had to remove your comment. While we appreciate your interest in eventually providing a response, as it is not an answer unto itself, but rather a [placeholder](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_partial_answers_or_.22placeholders.22), we have had to remove your comment. In the future, please only post a response when you have done so, rather than only promising to later. If you do return later to provide a full answer, and we hope you will, please post a new comment in this thread rather than editing this removed placeholder comment, as we may overlook it and thus not re-approve it even if it is up-to-scratch. [This rule is explained in more depth here](https://www.reddit.com/r/AskHistorians/comments/g3peg6/rules_roundtable_x_informed_complete_answers_the/).
+
+### 881: [How much has Ancient Chinese culture changed under the CCP?](https://old.reddit.com/r/AskHistorians/comments/y57mpy/how_much_has_ancient_chinese_culture_changed/), submitted on 2022-10-16 12:32:02+08:00.
+
+----- __881.1__ -----2022-10-16 15:03:21+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
