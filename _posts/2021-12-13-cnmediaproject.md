@@ -105,7 +105,7 @@ After serving more than 15 years as the controversial editor-in-chief of China's
 
 ### 23: [2021-12-16 13:36:40+08:00 推文](https://twitter.com/cnmediaproject/status/1471353563909861376)
 
-Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style="" src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re We also look at Fan Zhengwei (范正伟), who is rumored to be taking up a new "director" post at the Global Times -- likely a move to enforce greater political discipline.<br><img style src="https://pbs.twimg.com/media/FGtMQxPVkAAKL0p?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 24: [2021-12-16 13:39:50+08:00 推文](https://twitter.com/cnmediaproject/status/1471354358847918082)
 
@@ -149,15 +149,15 @@ Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
-Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style="" src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
+Re Discussion of DNA, prokaryotic cells 等等 leads to: "At this point, teachers can associate this with the red heritage passed between generations of communists who inherit ‘red genes.'"<br><img style src="https://pbs.twimg.com/media/FGxgQXRaQAIFkT_?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 36: [2021-12-17 09:45:09+08:00 推文](https://twitter.com/cnmediaproject/status/1471657685795835904)
 
-Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a whole group of texts designed to teach teachers in HOW TO work "ideological and political education" into their subjects -- from college English to economics to business management to geography, biology and medicine.<br><img style="" src="https://pbs.twimg.com/media/FGxg255aMAARDAL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 37: [2021-12-17 11:08:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471678563963502595)
 
