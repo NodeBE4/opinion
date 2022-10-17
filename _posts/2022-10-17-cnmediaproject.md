@@ -147,3 +147,7 @@ Totally fascinating for report-crunching junkies. Although, perhaps an obvious p
 
 Re . . . which would put it in an entirely different category to talk of science policy or science talent and so on. Actually, Hu's banner appears just once. But I use this simply to make the point. “Democracy" is the perfect case in point. Pulling it out is hugely misleading. 2/2
 
+### 34: [2022-10-17 21:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1582005467865583617)
+
+Good overview of some key points.<br><br>William Yang: Following Chinese President Xi Jinping's speech at the 20th Party Congress on Sunday, I talked to @ChongJaIan, @wentisung, @HollySnapeWang, @cnmediaproject, @Iris_Pang_China and @dtiffroberts about what messages does it send to the world. My latest:<br> <a href="https://www.dw.com/en/china-how-xi-jinpings-congress-speech-reveals-his-ambitious-plan/a-63460604" target="_blank" rel="noopener noreferrer">https://www.dw.com/en/china-how-xi-jinpings-congress-speech-reveals-his-ambitious-plan/a-63460604</a>
+
