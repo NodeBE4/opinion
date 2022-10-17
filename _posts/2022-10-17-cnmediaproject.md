@@ -131,3 +131,11 @@ And I see you one map of Xi Jinping Thought.<br><img style="" src="https://pbs.t
 
 RT David Barboza<br>Logan Wright's opinion piece: Public messaging that Xi Jinping is further consolidating power at the 20th Party Congress would make a financial crisis in China more probable. <a href="https://www.thewirechina.com/2022/10/16/financial-crisis-in-china/" target="_blank" rel="noopener noreferrer">https://www.thewirechina.com/2022/10/16/financial-crisis-in-china/</a>
 
+### 30: [2022-10-17 14:49:42+08:00 推文](https://twitter.com/cnmediaproject/status/1581900242076971008)
+
+CMP has been observing not 安全 alone, a word fragment, but the full term "national security" (国家安全). The rise over three CCP congresses is pronounced. 2012: 4. 2017: 17. 2022: 27. If you look at the ratio of mentions/ report character length you have a clear trend. 🙂<br><img style="" src="https://pbs.twimg.com/media/FfQJyl7aEAA1HwB?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Christoph Steinhardt: @cnmediaproject It appears to me that 安全 is a very Xi-ish term. Explaining what the Xi-style security discourse is all about sounds like a project for @cnmediaproject to me. 🙂<br>
+
+### 31: [2022-10-17 15:11:41+08:00 推文](https://twitter.com/cnmediaproject/status/1581905773277630467)
+
+Re @hcsteinhardt Yes, this is visible in the Xi era, and in the report as well, though comparison and context is necessary. There is "cultural security" (文化安全), "[political] system security" (制度安全), "ideological security" (意识形态安全), and so on.
+
