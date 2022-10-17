@@ -41,7 +41,7 @@ Re @jiashengzhou 只是习没有当时毛在中共党内高级官员心中的高
 
 ### 7: [2022-01-03 06:13:44+08:00 推文](https://twitter.com/realcaixia/status/1477765075071078405)
 
-怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
+怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style="" src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-03 06:21:34+08:00 推文](https://twitter.com/realcaixia/status/1477767049485197318)
 
@@ -109,7 +109,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" sr
 
 ### 24: [2022-01-06 08:15:19+08:00 推文](https://twitter.com/realcaixia/status/1478882837499682817)
 
-有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style="" src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
+有一天，这一幕应该发生在京城。争自由争民主是所有人的权利。<br><br>韩连潮: 【勇敢的哈萨克人】哈萨克人民对30多年独裁统治的不满终于爆发，出现自苏联解体后最大的抗议浪潮，独裁者雕像被打翻在地；为哈萨克人民叫好，盼他们取得胜利。<br><br><img style src="https://pbs.twimg.com/media/FIX8weiWQAYA5HU?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIX8y5wXIAo3Pov?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 25: [2022-01-06 08:38:10+08:00 推文](https://twitter.com/realcaixia/status/1478888586435080198)
 

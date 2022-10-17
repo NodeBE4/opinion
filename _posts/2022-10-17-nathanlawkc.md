@@ -21,3 +21,7 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 A Hongkonger was dragged into the PRC Consulate and beaten.<br>If the consulate staff responsible are not held accountable, Hongkongers would live in fear of being kidnapped and persecuted.<br>Foreign&amp;Home Secretaries must Investigate and protect our community and people in the UK.<br><img style="" src="https://pbs.twimg.com/media/FfN7_FQWIAYFXYO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 2: [2022-10-17 16:05:45+08:00 推文](https://twitter.com/nathanlawkc/status/1581919380283486209)
+
+I’ve repeatedly stated it: Hong Kong protestors fight against the dictatorial PRC regime, not the Chinese people. We stand in solidarity with brave dissidents in China and overseas. We have the same demands – to elect govts leaders, and determine our futures.<br>#致四通橋彭載舟勇士<br><img style="" src="https://pbs.twimg.com/media/FfQbCD5XEAYfO0Y?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

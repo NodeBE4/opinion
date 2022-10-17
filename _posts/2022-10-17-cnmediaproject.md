@@ -139,3 +139,11 @@ CMP has been observing not 安全 alone, a word fragment, but the full term "nat
 
 Re @hcsteinhardt Yes, this is visible in the Xi era, and in the report as well, though comparison and context is necessary. There is "cultural security" (文化安全), "[political] system security" (制度安全), "ideological security" (意识形态安全), and so on.
 
+### 32: [2022-10-17 16:24:53+08:00 推文](https://twitter.com/cnmediaproject/status/1581924193314443264)
+
+Totally fascinating for report-crunching junkies. Although, perhaps an obvious point, it can often be far more helpful to put words back into their formulas, or 提法. For example, "science" could be appearing within Hu's banner term, "Scientific View of Development" . . . 1/2<br><br>Clemens Ruben: @hcsteinhardt @cnmediaproject<br><br><img style="" src="https://pbs.twimg.com/media/FfQdGVhUYAE_H-p?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 33: [2022-10-17 16:27:58+08:00 推文](https://twitter.com/cnmediaproject/status/1581924970359582721)
+
+Re . . . which would put it in an entirely different category to talk of science policy or science talent and so on. Actually, Hu's banner appears just once. But I use this simply to make the point. “Democracy" is the perfect case in point. Pulling it out is hugely misleading. 2/2
+
