@@ -21,9 +21,19 @@ Thank you for your response, however, we have had to remove it. A [core tenet](h
  
 If you need guidance to better understand what we are looking for in our requirements, [please consult this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/) which discusses how we evaluate answers on the subreddit, or else [reach out to us via modmail](https://www.reddit.com/message/compose?to=%2Fr%2FAskHistorians&subject=Inquiry%20About%20Revising%20My%20Response). Thank you for your understanding.
 
-### 884: [What are some good books to learn about the Silk Road of ancient China?](https://old.reddit.com/r/AskHistorians/comments/y6f4yy/what_are_some_good_books_to_learn_about_the_silk/), submitted on 2022-10-18 00:11:24+08:00.
+### 884: [Aischylos' The Persians is both the oldest surviving Greek tragedy, and the only one to portray a recent historical event. Is there a significance to this? Was there an older tradition of drama about recent events that died out? Was it a one-off experiment? Or is this just an accident of survival?](https://old.reddit.com/r/AskHistorians/comments/y6btt1/aischylos_the_persians_is_both_the_oldest/), submitted on 2022-10-17 21:50:57+08:00.
 
------ __884.1__ -----2022-10-18 02:23:54+08:00:
+----- __884.1__ -----2022-10-18 05:56:36+08:00:
+
+Thank you! A lot of context I'd previously had no idea of.
+
+----- __884.2__ -----2022-10-18 05:57:12+08:00:
+
+Thanks! The further reading is much appreciated.
+
+### 885: [What are some good books to learn about the Silk Road of ancient China?](https://old.reddit.com/r/AskHistorians/comments/y6f4yy/what_are_some_good_books_to_learn_about_the_silk/), submitted on 2022-10-18 00:11:24+08:00.
+
+----- __885.1__ -----2022-10-18 02:23:54+08:00:
 
 So as ever, it is worth prefacing by noting that there has been a move by some historians of Central Asia quite recently to [do away with the 'Silk Road' concept](https://www.reddit.com/r/AskHistorians/comments/jsb5my/whats_the_state_of_scholarship_on_the_silk_road/), amid a more general complication and problematisation of the idea that's gone on for decades. The reason you are unlikely to find accounts of *The* Silk Road is that there never actually was one – long-distance movement of goods was never really an intentional process on a specific route, but rather the emergent property of numerous intersecting local trade networks. Scott C. Levi's book in the linked answer, *The Bukharan Crisis*, is the most concentrated deconstruction of both the traditional and revised 'Silk Road' concepts out there, and my first recommendation.
 

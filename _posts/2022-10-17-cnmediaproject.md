@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-17
+date: 2022-10-18
 from: https://twitter.com/ProfYangZhang/status/1581677189300654082
 layout: post
 tags:
@@ -150,4 +150,8 @@ Re . . . which would put it in an entirely different category to talk of science
 ### 34: [2022-10-17 21:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1582005467865583617)
 
 Good overview of some key points.<br><br>William Yang: Following Chinese President Xi Jinping's speech at the 20th Party Congress on Sunday, I talked to @ChongJaIan, @wentisung, @HollySnapeWang, @cnmediaproject, @Iris_Pang_China and @dtiffroberts about what messages does it send to the world. My latest:<br> <a href="https://www.dw.com/en/china-how-xi-jinpings-congress-speech-reveals-his-ambitious-plan/a-63460604" target="_blank" rel="noopener noreferrer">https://www.dw.com/en/china-how-xi-jinpings-congress-speech-reveals-his-ambitious-plan/a-63460604</a>
+
+### 35: [2022-10-18 01:28:36+08:00 推文](https://twitter.com/joshchin/status/1582061025645383681)
+
+RT Josh Chin<br>EXCLUSIVE: Xi is preparing to name loyalists to top positions in CCP hierarchy, people close to party leaders tell us. Shanghai’s embattled party boss is poised for a promotion. <a href="https://www.wsj.com/articles/chinas-xi-jinping-likely-to-pack-party-leadership-with-allies-in-show-of-strength-11666024652?st=s38aj44b432hfwk&amp;reflink=share_mobilewebshare" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-jinping-likely-to-pack-party-leadership-with-allies-in-show-of-strength-11666024652?st=s38aj44b432hfwk&amp;reflink=share_mobilewebshare</a>
 

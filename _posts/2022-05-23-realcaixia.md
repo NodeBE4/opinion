@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 2: [2022-05-23 03:41:29+08:00 推文](https://twitter.com/realcaixia/status/1528461062135087104)
 
-六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。
+六四将近，当局要加强防控。借口就是“防疫”。全世界都知道Omicron传染性强但重症率死亡率都极低。全世界都在恢复正常开放，但中共国偏要封校封城。全世界都知道中共国假装防疫，中共当局也知道全世界都知道他们在假装，他们依然要把假装进行到底。这个“到底”是经济社会崩溃还是当局崩溃？且拭目以待。<br><br>新闻调查: 怕北大学生聚众闹事，开始疏散学生了！<br><br><img style="" src="https://pbs.twimg.com/media/FTXOw4IUcAAUMcD?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-05-23 05:38:34+08:00 推文](https://twitter.com/realcaixia/status/1528490529268240385)
 
@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-05-23~2022-05-29'
 
 ### 4: [2022-05-23 06:11:00+08:00 推文](https://twitter.com/realcaixia/status/1528498689857052673)
 
-这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。<br><br>NewLife: @realcaixia 加油💪我們支持上海獨立‼️我們支持中國人獨立‼️奪回本應屬於我們的權力‼️加油💪<br> <a href="https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ" target="_blank" rel="noopener noreferrer">https://twitter.com/newlife62675967/status/1524463179778207745?s=21&amp;t=do5AVW58Lu0wBNv34KVEiQ</a>
+这是我推下的一个推友跟帖。他发出了自己的声音。在中共极权高压下，这需要巨大的勇气。特别转推推荐。
 
 ### 5: [2022-05-23 06:18:14+08:00 推文](https://twitter.com/realcaixia/status/1528500511195836416)
 
@@ -49,7 +49,7 @@ Re 请看市民这封给公安机关人员的公开信。信的一开始就说�
 
 ### 9: [2022-05-23 23:38:02+08:00 推文](https://twitter.com/realcaixia/status/1528762185098440708)
 
-清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。<br><br>《议报》: 郑荣南：除了胡锡进，没人关心经济了<br> <a href="https://yibaochina.com/?p=246616" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246616</a>
+清零封城搞到天怒人怨，胡锡进着急投谏保经济，是为保党国不翻船。以往网民骂胡“叼盘”他一概不反应：现在一说他关心经济，胡就怕了。说明什么？至少两点：1、中共国里无人有安全，人人皆可为阶下囚；2，清零与经济、保党国与保习上帝，内在利益是冲突的。习坑民也坑党国，天怒人怨党内不满或许合流。
 
 ### 10: [2022-05-23 23:40:12+08:00 推文](https://twitter.com/realcaixia/status/1528762731532255232)
 
@@ -65,7 +65,7 @@ Re @yjpc007 @YouTube 在大陆，习讲忠诚不绝对等于绝对不忠诚；�
 
 ### 13: [2022-05-24 02:30:58+08:00 推文](https://twitter.com/realcaixia/status/1528805702801805312)
 
-👍🌹🌹🌹
+👍🌹🌹🌹<br><br>Gancheng Wang: 上海发生“自行解封”运动<br>人民正在觉醒<br>拒绝继续被强制封闭<br><br>上海多个小区居民据理力争，终于喊出“自行解封”的响亮口号。目前徐汇区、静安区多个小区居民已经突破封锁自行解封。“自解”运动正在上海不断发酵和扩大。<br><br><video src="https://video.twimg.com/ext_tw_video/1528750422797824001/pu/vid/592x1280/xNgDGcLGyHh2A6--.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1528750422797824001/pu/img/BSVm97JkTt_SDrX4.jpg"></video>
 
 ### 14: [2022-05-24 04:51:44+08:00 推文](https://twitter.com/realcaixia/status/1528841129139269632)
 
@@ -85,7 +85,7 @@ Re @wang6332558 @xizhutou2020 @yjpc007 @YouTube 就是啊，相煎何太急！�
 
 ### 18: [2022-05-24 21:40:13+08:00 推文](https://twitter.com/realcaixia/status/1529094922023862276)
 
-中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。
+中共国内正万马齐喑，此将是最后的绝响，再后是“于无声处听惊雷”，但要经过一长短不定的至暗时刻与死寂社会，许多人将遭受更严酷的迫害摧残……。<br>信念不死，抗争将会继续，但需要更大的勇气，更多的智慧，更宽广的胸怀与更长远的眼光。对我们每个反抗者来说，要锤炼个人更高的素质，作更韧性的努力。<br><br>ZHANGDONG: 遗憾！被封口或被迫闭嘴的还有清华教授郭于华，她的最后一条推特停留在2022年1月31日，微博公号还在九死一生地挣扎。此外，备受尊敬的鲍彤老先生也已长达四个月没再更新推特，与之互动频繁的老友孟孙先生也于3月11日告别推友。😭😭<br>何时起，东方苍茫大地万马齐喑？<br><br><img style="" src="https://pbs.twimg.com/media/FTgZ7JeWQAISNMM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/gaoyu200812/status/1528943209975623680" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1528943209975623680</a>
 
 ### 19: [2022-05-24 21:44:40+08:00 推文](https://twitter.com/realcaixia/status/1529096043987607552)
 
@@ -113,7 +113,7 @@ Re @fishsalt8 说得好！不改变思维方式不可能真具有自由民主观
 
 ### 25: [2022-05-25 20:52:42+08:00 推文](https://twitter.com/realcaixia/status/1529445354650886146)
 
-陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。<br><br>韩连潮: 【格杀勿论令】陈全国5.28讲话：<br>“你像我们的17、8岁的孩子，20多岁的孩子，一参加暴恐团伙就击毙，这些人，不也是受蒙蔽的受害人吗？”<br>“...否则参加暴恐就击毙了，参加培训班还可以转化，转化之后还能生活..."<br>"...跑几步把他击毙了，你像这些你跑了就击毙没什么问题的，早都授权了。"<br><br><img style="" src="https://pbs.twimg.com/media/FTmeAw5XEAMRMs1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+陈全国这些话做实自己就是屠夫，陈说已经授权了，即屠杀维族人是北京最高层下令了。
 
 ### 26: [2022-05-25 20:55:34+08:00 推文](https://twitter.com/realcaixia/status/1529446076134064132)
 
@@ -205,7 +205,7 @@ Re 就是这个视频。请关注。<br><img style="" src="https://pbs.twimg.com
 
 ### 48: [2022-05-28 22:05:34+08:00 推文](https://twitter.com/realcaixia/status/1530550852913704961)
 
-请读一读这篇文章。
+请读一读这篇文章。<br><br>公民力量: CPIFC: The Myth of Public Opinion Under Xi Jinping #xijinping<br> <a href="https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/" target="_blank" rel="noopener noreferrer">https://www.citizenpowerforchina.org/the-myth-of-public-opinion-under-xi-jinping/</a>
 
 ### 49: [2022-05-28 22:08:33+08:00 推文](https://twitter.com/realcaixia/status/1530551603727675393)
 
