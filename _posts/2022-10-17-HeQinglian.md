@@ -23,3 +23,19 @@ Re @wanghw91 他在全州赢了。这个县反思不够，但其他县有所反�
 
 Re @GaoMilan 你难道忘记了提前投票与邮寄选票？
 
+### 3: [2022-10-17 21:44:37+08:00 推文](https://twitter.com/HeQinglian/status/1582004659622854658)
+
+这幻想十分坚韧，需要十年才能粉碎。比这幻想更坚韧的是拜登美国仍然是灯塔。可能需要更长时间才能粉碎。<br>中共20大：习近平10年威权终于粉碎对其幻想 <a href="https://rfi.my/8pJB.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8pJB.T</a>
+
+### 4: [2022-10-17 22:01:11+08:00 推文](https://twitter.com/HeQinglian/status/1582008825917296641)
+
+这是要抛弃乌克兰的节奏？该国庞大的地下经济当中，人口贩卖是条主要产业链，子宫出租只是其中一个分项。《纽约时报》准备一个个萝卜接着洗？青少年性奴出租黑幕是否准备揭开？<br>话说，据以往历史资料，这类业务的主顾基本是欧洲，美国因距离原因，相对少些。<br><br>纽约时报中文网: 乌克兰曾是合法代孕服务的主要提供国家。俄乌战争爆发后，代孕妈妈、机构和医务人员面临许多新的困境。但随着乌克兰中西部逐渐恢复稳定，这项业务也开始复苏。<br> <a href="https://nyti.ms/3yNnSyd" target="_blank" rel="noopener noreferrer">https://nyti.ms/3yNnSyd</a>
+
+### 5: [2022-10-17 23:44:22+08:00 推文](https://twitter.com/HeQinglian/status/1582034793344094208)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 这得十分周密。不能象北溪管道事件，煮成了一锅夹生饭，只差一张标签没贴在脑门上了，连本国许多精英都知道是谁干的——只有民主党的底层支持者不管这些。
+
+### 6: [2022-10-17 23:45:43+08:00 推文](https://twitter.com/HeQinglian/status/1582035136094224384)
+
+Re @JianglinLi @cowboyspirit_01 @david_david1968 你离开太久了。那时BLM还未零元购。
+

@@ -321,7 +321,7 @@ Re @Wu_Zhi @JianglinLi @eGUAbe2V7j26GHw @KELMAND1 中国皇帝没这医疗水平
 
 ### 77: [2022-05-11 05:44:33+08:00 推文](https://twitter.com/HeQinglian/status/1524143377725411334)
 
-RT He Qinglian<br>拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
+拜登经济学VS习近平“战疫”经济学 世界傻眼<br>拜登经济学导致美国陷入经济滞胀，习”战疫”经济学让中国经济躺平。美国是世界第一消费国，2021年贸易逆差1万多亿美元，许多国家依靠美国市场。中国是世界最大廉价消费品供给者，如今躺平，西方意识到价廉物美的消费时代已经一去不复返 <a href="https://www.epochtimes.com/gb/22/5/10/n13732384.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/10/n13732384.htm</a>
 
 ### 78: [2022-05-11 05:56:51+08:00 推文](https://twitter.com/HeQinglian/status/1524146473734127617)
 
@@ -353,7 +353,7 @@ RT joe wong<br>Re @Lucs24659702<br><img style="" src="https://pbs.twimg.com/me
 
 ### 85: [2022-05-11 06:49:30+08:00 推文](https://twitter.com/RealBeiMing/status/1524159724018716672)
 
-RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！
+RT 北明BeiMing<br>死吻！<br>鮑德此文大陸也有了譯本.朋友說:轉給裡面知識人,他們拒看,因為那個譯本是大陆反美網站做的.我能理解:中共幾十年如一日反美,而我們親美擁憲政民主.但此文作者是瑞典前情報官,此文法美兩國均有載,在大陸反美網站上一登就沒價值了?余英時先生名言:中共的呼籲是‘死吻’.兼聽撞上死吻,吻則不明,悲哉！<br><br>北明BeiMing: 中文版 烏俄戰爭隱藏的事實<br>歐洲權威人士披露，內容充實，視角深入，筆觸平實……作者的特殊身份和經歷使文章自帶權威性。<br><br>譯者冒天下大不韙翻譯此文，是出於道義責任和職業習慣，希望為善於思考的少數讀者提供被屏蔽的信息和埋沒在海量論說中的有價值的見解，以便兼聽則明。<br> <a href="https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw" target="_blank" rel="noopener noreferrer">https://jianglinswritings.blogspot.com/2022/04/blog-post.html?spref=tw</a> <a href="https://twitter.com/fuzzyface/status/1515549870484238336" target="_blank" rel="noopener noreferrer">https://twitter.com/fuzzyface/status/1515549870484238336</a>
 
 ### 86: [2022-05-11 06:55:42+08:00 推文](https://twitter.com/HeQinglian/status/1524161283263766528)
 
@@ -421,7 +421,7 @@ Re @Wu_Zhi 欧盟为什么离开美国就活不成一样？当年怼 川普时�
 
 ### 102: [2022-05-12 10:31:05+08:00 推文](https://twitter.com/HeQinglian/status/1524577874124095488)
 
-文内说：“2020年和2021年过于宽松的货币政策是（推高价格）最大的因素。数额庞大的开支法案是其次。然后就是一些特别因素，比如乌克兰战争，供应链瓶颈，俄乌小麦供应不足。”<br>宽松的货币政策，世界上没有超过拜登政府的，一年负债10万亿。所以，推高世界通胀的首责是美国，发行那么多美元，输出通胀。<br><br>美国之音中文网: 报告：中国和俄罗斯拖累全球经济增长，推高通胀至新高<br> <a href="http://dlvr.it/SQBfq6" target="_blank" rel="noopener noreferrer">http://dlvr.it/SQBfq6</a>
+文内说：“2020年和2021年过于宽松的货币政策是（推高价格）最大的因素。数额庞大的开支法案是其次。然后就是一些特别因素，比如乌克兰战争，供应链瓶颈，俄乌小麦供应不足。”<br>宽松的货币政策，世界上没有超过拜登政府的，一年负债10万亿。所以，推高世界通胀的首责是美国，发行那么多美元，输出通胀。
 
 ### 103: [2022-05-12 21:34:03+08:00 推文](https://twitter.com/HeQinglian/status/1524744716553752577)
 
