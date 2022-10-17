@@ -111,3 +111,23 @@ Re @nerysinchina Oh, certainly hope not. But certainly wish everyone would slow 
 
 Re @nerysinchina I think that's a totally fair point. And how long, I wonder, will it take us all to walk back the misunderstandings that result?
 
+### 25: [2022-10-17 03:20:20+08:00 推文](https://twitter.com/Chri5tianGoebel/status/1581726758008520705)
+
+RT Christian Goebel<br>It is only mid-October, but complaints about residents not being able to heat their apartments are already reaching the government.<br><img style="" src="https://pbs.twimg.com/media/FfNoNJzX0AEBEYi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-10-17 07:18:54+08:00 推文](https://twitter.com/cnmediaproject/status/1581786795188314114)
+
+Re @hcsteinhardt 19 by our count.
+
+### 27: [2022-10-17 08:03:35+08:00 推文](https://twitter.com/cnmediaproject/status/1581798037499744256)
+
+From the must-read Geremie Barme: "I came to appreciate that the stilted, formulaic and absurd rhetoric of the Communist Party actually gave expression to a politics that was deadly serious." <a href="https://chinaheritage.net/journal/chinas-highly-consequential-political-silly-season-part-i/" target="_blank" rel="noopener noreferrer">https://chinaheritage.net/journal/chinas-highly-consequential-political-silly-season-part-i/</a>
+
+### 28: [2022-10-17 08:55:16+08:00 推文](https://twitter.com/cnmediaproject/status/1581811047022792704)
+
+And I see you one map of Xi Jinping Thought.<br><img style="" src="https://pbs.twimg.com/media/FfO4wiuUoAI5fnC?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Neysun Mahboubi: Well, I haven’t slept in 24 hours, but I finally finished my outline of XJP’s speech yesterday! <br><br>(j/k, but whomever actually did this is Legend)<br><br><img style="" src="https://pbs.twimg.com/media/FfO3qe5XkAE3-Pp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 29: [2022-10-17 08:57:58+08:00 推文](https://twitter.com/DavidBarboza2/status/1581811723102990337)
+
+RT David Barboza<br>Logan Wright's opinion piece: Public messaging that Xi Jinping is further consolidating power at the 20th Party Congress would make a financial crisis in China more probable. <a href="https://www.thewirechina.com/2022/10/16/financial-crisis-in-china/" target="_blank" rel="noopener noreferrer">https://www.thewirechina.com/2022/10/16/financial-crisis-in-china/</a>
+
