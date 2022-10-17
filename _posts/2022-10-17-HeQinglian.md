@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-17
+date: 2022-10-18
 from: https://twitter.com/HeQinglian/status/1581786526010441729
 layout: post
 tags:
@@ -38,4 +38,12 @@ Re @JianglinLi @Wu_Zhi @david_david1968 这得十分周密。不能象北溪管�
 ### 6: [2022-10-17 23:45:43+08:00 推文](https://twitter.com/HeQinglian/status/1582035136094224384)
 
 Re @JianglinLi @cowboyspirit_01 @david_david1968 你离开太久了。那时BLM还未零元购。
+
+### 7: [2022-10-18 02:03:28+08:00 推文](https://twitter.com/HeQinglian/status/1582069799647318016)
+
+Re @mumu_cai 整售，性奴，妓女；零卖，器官，租子宫。
+
+### 8: [2022-10-18 02:07:03+08:00 推文](https://twitter.com/HeQinglian/status/1582070701409783808)
+
+Re @RealBeiMing 你忘记西方左派近20年也是这样？
 
