@@ -171,3 +171,7 @@ A reminder that CMP has archived the (downloadable) long and short versions of X
 
 Indeed. But it seems there are areas of "security" well beyond the scope of the 国安法. Thoughts? For example, we have 网络舆论安全, though that might fall under cybersecurity. And "ideological security" (意识形态安全) and "regime security" (制度安全), both in Xi's report.<br><br>China Law Translate: @hcsteinhardt @cnmediaproject You only need to look at the national security law, which defines the term, to see how expansive the idea of national security has become... including threats both from within and without.<br><br><img style="" src="https://pbs.twimg.com/media/FfTIxTKWYAEcCol?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://www.chinalawtranslate.com/sorting-the-security-laws/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/sorting-the-security-laws/</a>
 
+### 40: [2022-10-18 14:03:59+08:00 推文](https://twitter.com/WilliamYang120/status/1582251124924350464)
+
+RT William Yang<br>"... interpreting history and expanding history is really key to signaling power for Xi. Everything is about telling the basic story, which is that the last five years have been a great success and here's why," said David Bandurski at @cnmediaproject. <a href="https://www.dw.com/en/china-xi-jinpings-speech-short-on-detail-big-on-pride/a-63460604" target="_blank" rel="noopener noreferrer">https://www.dw.com/en/china-xi-jinpings-speech-short-on-detail-big-on-pride/a-63460604</a>
+
