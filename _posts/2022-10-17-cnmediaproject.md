@@ -175,3 +175,11 @@ Indeed. But it seems there are areas of "security" well beyond the scope of the 
 
 RT William Yang<br>"... interpreting history and expanding history is really key to signaling power for Xi. Everything is about telling the basic story, which is that the last five years have been a great success and here's why," said David Bandurski at @cnmediaproject. <a href="https://www.dw.com/en/china-xi-jinpings-speech-short-on-detail-big-on-pride/a-63460604" target="_blank" rel="noopener noreferrer">https://www.dw.com/en/china-xi-jinpings-speech-short-on-detail-big-on-pride/a-63460604</a>
 
+### 41: [2022-10-18 15:53:08+08:00 推文](https://twitter.com/cnmediaproject/status/1582278592746381312)
+
+Oh, what would we do without the graphic divisions proliferating in CCP-run media and Party-state offices? These should all be collected in one place. Joint project anyone?<br><br>Clemens Ruben: @ChinaLawTransl8 @hcsteinhardt @cnmediaproject This phenomenon actually has a name in Xi's China 总体国家安全观 "holistic understanding of national security". The picture below gives a good impression of what it entails. Politics, economy, ecology, internet, culture, space,...<br>basically everything is national security now<br><br><img style="" src="https://pbs.twimg.com/media/FfVeaGsUUAAnx7K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 42: [2022-10-18 16:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1582280572067536899)
+
+RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged Chinese commercial banks to extend new loans to the troubled sector…individual loan officers simply do not want to be held accountable for lending to riskier private developers during the…downturn." <a href="https://bit.ly/3TqqV77" target="_blank" rel="noopener noreferrer">https://bit.ly/3TqqV77</a>
+
