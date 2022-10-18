@@ -183,3 +183,7 @@ Oh, what would we do without the graphic divisions proliferating in CCP-run medi
 
 RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged Chinese commercial banks to extend new loans to the troubled sector…individual loan officers simply do not want to be held accountable for lending to riskier private developers during the…downturn." <a href="https://bit.ly/3TqqV77" target="_blank" rel="noopener noreferrer">https://bit.ly/3TqqV77</a>
 
+### 43: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
+
+A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
+
