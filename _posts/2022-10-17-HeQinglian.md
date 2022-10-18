@@ -71,3 +71,15 @@ Re @JianglinLi @Jessie2021626 本来以为自己要做欧盟老大了，没承�
 
 Re @abc__china 你应该认识到一点：许多人原来并不反感这些人的存在，认为LGBTQI+有存在的权利，与正常性取向一样。<br>问题是这些人如今要特权，拜登政府鼓励并支持他们获比正常性取向多得多的特权，比如在晋升、入学、就业上优先，否则就是歧视，而且还利用政治权力在全美中小学发动变性运动。<br>那个博主认为这应该么？
 
+### 15: [2022-10-18 23:30:59+08:00 推文](https://twitter.com/HeQinglian/status/1582393814450589696)
+
+Re @JianglinLi @david_david1968 @ngexp @RealBeiMing @HongfuDing @Wu_Zhi 这些“马蜂”总是要咬人。想想他们能选出拜登-哈里斯这种人，没什么好说。
+
+### 16: [2022-10-18 23:40:03+08:00 推文](https://twitter.com/HeQinglian/status/1582396095438606336)
+
+Re @fading_you1 他的大秘班子总想卖弄一下文字功夫，“努力奋发”非得写成“戮力奋发”，意思一样，却念白字，置主人于何地？
+
+### 17: [2022-10-18 23:49:24+08:00 推文](https://twitter.com/HeQinglian/status/1582398449869127687)
+
+连任引发的中国政治疲劳期<br><br>本文指出，长期执政的真正问题是独裁政权（独裁者）必将引发民众的政治疲劳症。前车之覆，后车之鉴，本文以中东四强人当中政治形象最好的穆巴拉克与本·阿里为例，这两位的精明、政治手腕不逊于习，开明胜之，但亦无法让本国人民不产生政治疲劳症。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-10182022111102.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-10182022111102.html</a>
+
