@@ -201,3 +201,9 @@ CRWBY is the fandom term for the production crew, and yes, it is 'crewby'.
 
 So, out of sheer curiosity, which of Singapore's 4+ main languages was the dub done in?
 
+----- __882.6__ -----2022-10-19 03:28:12+08:00:
+
+> They did actually adapt The Murder of Roger Ackroyd!
+
+I know, and as noted, I suspect the difficulty of adapting the twist to film was what led them to instead choose the safer (read: more cowardly) option of a more conventional whodunnit story.
+
