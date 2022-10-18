@@ -63,3 +63,7 @@ Re @JianglinLi @Jessie2021626 本来以为自己要做欧盟老大了，没承�
 
 天下本无事，庸人自扰人。<br>人类社会几千年，最多只有0.1%的人可能有性别焦虑症，为了这0.1%的人，美国左派政府居然愿意让99%的学生家长患上焦虑症。<br><br>萧生客SSK🇺🇸🇨🇦: 好消息！联邦裁决佛州禁止支付“性别认同医疗”合法！为了父母们不再一夜白头，请投下您珍贵的一票！<br><br>佛罗里达州卫生保健管理局颁布条例，禁止使用 “医疗补助计划”（Medicaid）支付所谓 “性别确认治疗”（包括荷尔蒙注射、青春期阻断剂注射或植埋、”变性” 手术）。全美有十几个⋯<br><br><img style="" src="https://pbs.twimg.com/media/FfTpIwMXEDUCxOx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfTpIwNXEAcWXCQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfTpIwUXEAghH2Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfTpIwRXEAQH2NP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/kzOJcnk6z5IqFJKMWvusig" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/kzOJcnk6z5IqFJKMWvusig</a>
 
+### 13: [2022-10-18 21:00:22+08:00 推文](https://twitter.com/HeQinglian/status/1582355909552263168)
+
+这是正常人说的话么？<br>什么人拥护什么人。<br><br>RichL: 美国副总统关于如何控制油价：<br><br>油价高主要是因为它不像以前那么低了。而想要回到以前那么低，我们必须要认识到现在的油价太高了，而高，就是低的反义词。<br><br>——美国副总统 卡麦拉·哈里斯<br><br><img style="" src="https://pbs.twimg.com/media/FfVFOYCVsAATt0Y?format=png&amp;name=orig" referrerpolicy="no-referrer">
+

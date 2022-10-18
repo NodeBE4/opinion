@@ -187,3 +187,15 @@ RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged C
 
 A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
 
+### 44: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
+
+RT 浦志强<br>清华如此管理打印复印店，能有仨后果：一是令清华师生畏首畏尾水准一泻千里，赶超列强为国争光门儿都没有了；二是迅速提升打印复印店员工的审核水平，令其火眼金睛眼里不揉沙子，其创造力必须超过清华师生，否则小买卖关张；三是刺激复印打印一体机销售，两千来块钱一台我买一台自己来嘛！看你咋审查？<br><img style="" src="https://pbs.twimg.com/media/FfVnLw2VsAAzmeF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfVnLw2VQAA2CU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 45: [2022-10-18 18:30:15+08:00 推文](https://twitter.com/cnmediaproject/status/1582318132081065986)
+
+CMP's latest on the 20th National Congress: a quick look at three key misunderstandings circulating in the past three days. @dbandurski <a href="https://chinamediaproject.org/2022/10/18/ccp-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/18/ccp-political-report/</a>
+
+### 46: [2022-10-18 20:10:24+08:00 推文](https://twitter.com/jessicacweiss/status/1582343337800966146)
+
+RT Jessica Chen Weiss<br>Important piece by @SusanShirk1: “many Americans have concluded that China is bent on supplanting the United States as the world’s number one power and that negotiating would be fruitless.<br>There are two reasons to reject that conclusion. First, American primacy is the wrong goal<br><br>Susan Shirk: 4. The U.S. instead of overreacting to China's overreach, should not give up on diplomacy that can test whether we can induce the Xi regime to moderate its policies. 6/7<br> <a href="https://time.com/6222513/china-xi-jinping-diplomacy/" target="_blank" rel="noopener noreferrer">https://time.com/6222513/china-xi-jinping-diplomacy/</a>
+
