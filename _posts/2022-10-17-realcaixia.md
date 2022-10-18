@@ -27,3 +27,11 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 特别推荐：今天议报发布一位大学生的思考觉醒心路。这篇文章是大陆一位大学生写的，他回顾了自己的思考、自己思想的变化，他在努力清除极权意识形态对自己的毒害。这位大学生的叙述让我心热，它表明中国的年轻人同样是向往自由的、有希望的一代。<br><br>《议报》: 屠生 | 觉醒之路<br> <a href="https://yibaochina.com/?p=248050" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248050</a>
 
+### 4: [2022-10-18 11:00:16+08:00 推文](https://twitter.com/realcaixia/status/1582204889136246785)
+
+【跟进时代的勇士】1  再推孤胆英雄彭载舟设计的《反独裁救中国，罢免独裁国贼习近平》的传播模版，让世界听见中国民众的呼声。<br><img style="" src="https://pbs.twimg.com/media/FfUe9OpXkAIeoYn?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfUe9cIWYAA-glH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 5: [2022-10-18 11:13:43+08:00 推文](https://twitter.com/realcaixia/status/1582208274132533248)
+
+【跟进时代的勇士】1  再推孤胆英雄彭载舟的罢免独裁国贼习近平的《告全国同胞公开信》节选，让世界听见中国民众的呼声。<br>习近平报告念了一百多次“人民”这个词，那就请言行一致，人民行使当家作主权利，人民举行真正公开公正透明的竞争性真选举，国家领导人由人民选举人民授权。<br><img style="" src="https://pbs.twimg.com/media/FfUiBx1WIAIjqqE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfUiCBkXoAELSlE?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfUiCNiXwAYgQBS?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfUiCdKXoAEGH6c?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+

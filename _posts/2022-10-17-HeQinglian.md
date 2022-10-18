@@ -47,7 +47,19 @@ Re @mumu_cai 整售，性奴，妓女；零卖，器官，租子宫。
 
 Re @RealBeiMing 你忘记西方左派近20年也是这样？
 
-### 9: [2022-10-18 05:45:07+08:00 推文](https://twitter.com/HeQinglian/status/1582125581113511938)
+### 9: [2022-10-18 04:08:20+08:00 推文](https://twitter.com/Jessie2021626/status/1582101226061037568)
+
+RT 一土2.0🇺🇸🇮🇱🇷🇺<br>Nike 创始人支持共和党人Christine Drazan参加俄勒冈州的州长竞选。<br>俄勒冈州首富Phil Knight 向共和党人 Christine Drazan 的竞选活动捐赠了 100 万美元，保证 Drazan 获得足够的资金，以与民主党人Tina Kotek一决胜负🙏🙏<br><img style="" src="https://pbs.twimg.com/media/FfTArdPWABgV2TM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-10-18 05:45:07+08:00 推文](https://twitter.com/HeQinglian/status/1582125581113511938)
 
 Re @Wu_Zhi @david_david1968 我从中感觉到的是全球化经济实在太脆弱。比如象德国，能源依靠俄罗斯，市场依靠中国。全球化平稳推进时，德国能够跃居全球GDP前四之列，一逢区域战争，德国一副战败国模样。 <br>实在不行，冬天来美国吧。
+
+### 11: [2022-10-18 07:15:03+08:00 推文](https://twitter.com/HeQinglian/status/1582148212923674624)
+
+Re @JianglinLi @Jessie2021626 本来以为自己要做欧盟老大了，没承想被欧盟老大做了一把——仅有美国看中还是不够的。
+
+### 12: [2022-10-18 07:31:51+08:00 推文](https://twitter.com/HeQinglian/status/1582152442376237057)
+
+天下本无事，庸人自扰人。<br>人类社会几千年，最多只有0.1%的人可能有性别焦虑症，为了这0.1%的人，美国左派政府居然愿意让99%的学生家长患上焦虑症。<br><br>萧生客SSK🇺🇸🇨🇦: 好消息！联邦裁决佛州禁止支付“性别认同医疗”合法！为了父母们不再一夜白头，请投下您珍贵的一票！<br><br>佛罗里达州卫生保健管理局颁布条例，禁止使用 “医疗补助计划”（Medicaid）支付所谓 “性别确认治疗”（包括荷尔蒙注射、青春期阻断剂注射或植埋、”变性” 手术）。全美有十几个⋯<br><br><img style="" src="https://pbs.twimg.com/media/FfTpIwMXEDUCxOx?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfTpIwNXEAcWXCQ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfTpIwUXEAghH2Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfTpIwRXEAQH2NP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/kzOJcnk6z5IqFJKMWvusig" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/kzOJcnk6z5IqFJKMWvusig</a>
 

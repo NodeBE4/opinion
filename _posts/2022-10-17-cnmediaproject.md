@@ -155,3 +155,11 @@ Good overview of some key points.<br><br>William Yang: Following Chinese Presi
 
 RT Josh Chin<br>EXCLUSIVE: Xi is preparing to name loyalists to top positions in CCP hierarchy, people close to party leaders tell us. Shanghai’s embattled party boss is poised for a promotion. <a href="https://www.wsj.com/articles/chinas-xi-jinping-likely-to-pack-party-leadership-with-allies-in-show-of-strength-11666024652?st=s38aj44b432hfwk&amp;reflink=share_mobilewebshare" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-jinping-likely-to-pack-party-leadership-with-allies-in-show-of-strength-11666024652?st=s38aj44b432hfwk&amp;reflink=share_mobilewebshare</a>
 
+### 36: [2022-10-18 08:28:53+08:00 推文](https://twitter.com/cnmediaproject/status/1582166795511029760)
+
+Looking forward to reading this book, which will surely have many insights into how China has conducted its diplomacy and efforts at shaping its international image.<br><br>Susan Shirk: Excited to tell everyone that my book, Overreach:  How China Derailed its Peaceful Rise, is now available. 1/n<br><br><img style="" src="https://pbs.twimg.com/media/FfTE1V1WAAgHLpP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;" target="_blank" rel="noopener noreferrer">https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;</a>
+
+### 37: [2022-10-18 08:31:10+08:00 推文](https://twitter.com/cnmediaproject/status/1582167367744114689)
+
+A reminder that CMP has archived the (downloadable) long and short versions of Xi Jinping's political report to the 20th National Congress of the CCP. <a href="https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/</a>
+
