@@ -87,3 +87,27 @@ Re @fading_you1 他的大秘班子总想卖弄一下文字功夫，“努力奋�
 
 Re @Tianshuihanyan 这里有她的一份功劳。
 
+### 19: [2022-10-19 04:04:39+08:00 推文](https://twitter.com/HeQinglian/status/1582462684447969281)
+
+Re @Ru23704506 @Wu_Zhi 你这样理解？
+
+### 20: [2022-10-19 04:05:14+08:00 推文](https://twitter.com/HeQinglian/status/1582462832745975809)
+
+Re @Kathrin76360871 中国没有选举。
+
+### 21: [2022-10-19 04:34:48+08:00 推文](https://twitter.com/HeQinglian/status/1582470272602763264)
+
+Re @Wu_Zhi @JianglinLi @enoughtalk4 @david_david1968 @ngexp @RealBeiMing @HongfuDing 我怎么说呢？不沾这些人边的，似乎反而清静些。
+
+### 22: [2022-10-19 04:37:25+08:00 推文](https://twitter.com/HeQinglian/status/1582470932634824704)
+
+Re @shenliangqing2 薰衣草是紫色的，有强烈的香味。
+
+### 23: [2022-10-19 04:44:26+08:00 推文](https://twitter.com/HeQinglian/status/1582472697938083840)
+
+Re @david_david1968 让美英多出。
+
+### 24: [2022-10-19 04:45:11+08:00 推文](https://twitter.com/HeQinglian/status/1582472883716358144)
+
+Re @JianglinLi @Wu_Zhi @enoughtalk4 @david_david1968 @ngexp @RealBeiMing @HongfuDing 那么多Old Money，你见谁沾边了？
+
