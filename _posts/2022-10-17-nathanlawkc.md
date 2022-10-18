@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-10-18
+date: 2022-10-19
 from: https://twitter.com/nathanlawkc/status/1581744221589237760
 layout: post
 tags:
@@ -32,4 +32,8 @@ The police confirmed that the Hong Kong protestor was dragged inside the consula
 ### 4: [2022-10-18 18:09:16+08:00 推文](https://twitter.com/nathanlawkc/status/1582312850051465216)
 
 Re Terrible. <a href="https://hongkongfp.com/2022/10/18/protesters-illegally-entered-chinese-consulate-in-manchester-beijing-says/" target="_blank" rel="noopener noreferrer">https://hongkongfp.com/2022/10/18/protesters-illegally-entered-chinese-consulate-in-manchester-beijing-says/</a>
+
+### 5: [2022-10-19 00:39:02+08:00 推文](https://twitter.com/nathanlawkc/status/1582410941303357442)
+
+//I can’t help but imagine what would happen if I was taken to a Chinese embassy. Would I be detained in a small blackout room? Extradited to mainland China and have a forced confession on state television? Or disappeared forever?//<br>#HKbob<br>#Accountability <a href="https://www.theguardian.com/commentisfree/2022/oct/18/manchester-consulate-attack-china-flexing-muscles-abroad-hongkongers-britain?CMP=Share_iOSApp_Other" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2022/oct/18/manchester-consulate-attack-china-flexing-muscles-abroad-hongkongers-britain?CMP=Share_iOSApp_Other</a>
 

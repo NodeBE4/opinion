@@ -109,7 +109,7 @@ RT Manya Koetse<br>'Voices of April' is the biggest topic in China's Covid soc
 
 ### 24: [2022-04-23 04:49:51+08:00 推文](https://twitter.com/alexludoboyd/status/1517606631294607360)
 
-RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video
+RT Alexander Boyd<br>new and improved translation thanks to @niubi<br><br>Pony Ma: “If you guys keep reposting, I’m headed back to the server room to pull the plug [on WeChat].”<br><br>Caption: Tonight, this man is under more pressure than anyone else in China<br><br>Commentary on the Shanghai “Voice of April” video <a href="https://twitter.com/niubi/status/1517604750463807492" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1517604750463807492</a>
 
 ### 25: [2022-04-23 04:51:09+08:00 推文](https://twitter.com/alexludoboyd/status/1517606957921755142)
 

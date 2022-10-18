@@ -3,7 +3,7 @@ author: theoryofdoom
 categories:
 - Reddit
 date: 2022-07-22
-from: https://old.reddit.com/r/AnimalsBeingBros/comments/w2gqqa/i_posted_the_other_day_about_our_older_dog_dying/
+from: https://old.reddit.com/r/AnimalsBeingBros/comments/w2gqqa/deleted_by_user/
 layout: post
 tags:
 - Reddit
@@ -13,7 +13,7 @@ title: theoryofdoom在2022-07-18~2022-07-24的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 341: [I posted the other day about our older dog dying and the younger one coming home with a little kitten in his mouth. Here’s a video of them today:)](https://old.reddit.com/r/AnimalsBeingBros/comments/w2gqqa/i_posted_the_other_day_about_our_older_dog_dying/), submitted on 2022-07-19 10:02:06+08:00.
+### 341: [[deleted by user]](https://old.reddit.com/r/AnimalsBeingBros/comments/w2gqqa/deleted_by_user/), submitted on 2022-07-19 10:02:06+08:00.
 
 ----- __341.1__ -----2022-07-19 19:25:35+08:00:
 

@@ -189,7 +189,7 @@ RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged C
 
 ### 44: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
 
-A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
+A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br> <a href="https://twitter.com/abnersheng/status/1581872470755135488" target="_blank" rel="noopener noreferrer">https://twitter.com/abnersheng/status/1581872470755135488</a>
 
 ### 45: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
 
@@ -210,4 +210,12 @@ RT Jessica Chen Weiss<br>Important piece by @SusanShirk1: “many Americans ha
 ### 49: [2022-10-18 21:44:55+08:00 推文](https://twitter.com/cnmediaproject/status/1582367120549376001)
 
 How Xi Jinping's address on Sunday was not a "work report" — and other misunderstandings about the speech that opened the 20th National Congress of the CCP. <a href="https://chinamediaproject.org/2022/10/18/ccp-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/18/ccp-political-report/</a>
+
+### 50: [2022-10-18 23:40:23+08:00 推文](https://twitter.com/cnmediaproject/status/1582396180163887105)
+
+Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br> <a href="https://twitter.com/cnmediaproject/status/1582367120549376001" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1582367120549376001</a>
+
+### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
+
+Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic  📚 "Trafficking Data: How China is Winning the Battle for Digital Sovereignty" will be released in 2 weeks! I show how weak US data protections empower China to expand its digital borders. With thanks to so many, a 🧵.<br><br><img style="" src="https://pbs.twimg.com/media/FfWo2yZWYAQ26IU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://loom.ly/LL7x11E" target="_blank" rel="noopener noreferrer">https://loom.ly/LL7x11E</a>
 

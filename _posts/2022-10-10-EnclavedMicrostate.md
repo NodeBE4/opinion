@@ -197,3 +197,7 @@ Robert Ackroyd, brother of the more famously murdered Roger.
 
 CRWBY is the fandom term for the production crew, and yes, it is 'crewby'.
 
+----- __882.5__ -----2022-10-19 01:00:29+08:00:
+
+So, out of sheer curiosity, which of Singapore's 4+ main languages was the dub done in?
+

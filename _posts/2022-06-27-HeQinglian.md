@@ -365,7 +365,7 @@ Re @JianglinLi @sorrymaoli 你太乐观了，就在这几年。你我一定会�
 
 ### 88: [2022-06-30 23:32:37+08:00 推文](https://twitter.com/HeQinglian/status/1542531559223353345)
 
-估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。<br><br>华尔街日报中文网: 美国将在欧洲进行数十年来规模最大的军事扩张，包括在波兰永久驻军；而北约则准备再让两个国家加入，以回应俄罗斯对乌克兰的入侵。拜登说，这一事态发展说明俄罗斯总统普京试图让北约大门关闭的做法已经失败。<br> <a href="https://on.wsj.com/3NuSfOs" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3NuSfOs</a>
+估计今后两年内，美国国债将以每年15万-20万亿美元的速度增长。<br>日本、中国都在减持美国国债，其他国家也是同样做法。估计美财政部与美联储又得祭出“隔夜回购”，左手出，右手进的把戏。这把戏刚停止不久（不知是否真停止了）。
 
 ### 89: [2022-07-01 01:08:24+08:00 推文](https://twitter.com/HeQinglian/status/1542555665150926848)
 
@@ -489,7 +489,7 @@ Re 补充：昨天有推友来我推下留言，称拜登支持北约，让北�
 
 ### 119: [2022-07-01 21:55:26+08:00 推文](https://twitter.com/JianglinLi/status/1542869490169483267)
 
-RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂<br><br>C.J. Wilson: H/T to @JunkScience for posting this- an EPA Hot Take from 1986 saying that Florida would be wiped out in 2020 due to climate change.  Important to understand that anyone can come up with a scary scenario if their job depends on it. History ends up debunking most doomsday ideas.<br><br><img style="" src="https://pbs.twimg.com/media/FWldVp-UcAAh-Nx?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 李江琳<br>1986年的预测：到2020年弗罗里达将会由于气候变化而消失。😂😂😂
 
 ### 120: [2022-07-01 21:56:02+08:00 推文](https://twitter.com/HeQinglian/status/1542869642754097154)
 
@@ -585,7 +585,7 @@ Re @JiangShangrong 自己不选他就行了。这十分之七的美国居民当�
 
 ### 143: [2022-07-02 06:09:21+08:00 推文](https://twitter.com/HeQinglian/status/1542993788087537664)
 
-瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。<br><br>He Qinglian: 关于规则，在一个讲信用的时代确实需要规则，以前的美苏冷战还是讲规则。如今美国对内无规则，对外当然也不讲规则了，美国军事实力第一、美元霸权，还掌握Swift系统，可以不讲规则。<br>如今已“胜利”：开战前1美元兑80卢布，今天莫斯科交易所美元汇率跌破51卢布，欧元汇率自2015年4月以来首次跌破53卢布。<br> <a href="https://twitter.com/RealBeiMing/status/1542933622784671745" target="_blank" rel="noopener noreferrer">https://twitter.com/RealBeiMing/status/1542933622784671745</a>
+瑞银(UBS)在2022年4月至6月期间对30家主要央行所做的年度调查显示，已经投资或有兴趣投资人民币的央行储备管理机构的比例从去年的81%升至85%。这是地缘政治纷争可能削弱美元主导地位的一个迹象。<br>我不希望美国如此快衰落，希望拜登认真考虑，没有美国的强大支撑，他是Nothing。 <a href="http://www.ftchinese.com/story/001096547?full=y&amp;exclusive" target="_blank" rel="noopener noreferrer">http://www.ftchinese.com/story/001096547?full=y&amp;exclusive</a>
 
 ### 144: [2022-07-02 07:38:42+08:00 推文](https://twitter.com/HeQinglian/status/1543016275789619201)
 
@@ -637,7 +637,7 @@ Re @ricco_chen @KELMAND1 这是纽约邮报，非纽约时报，纽约时报现�
 
 ### 156: [2022-07-02 09:53:11+08:00 推文](https://twitter.com/HeQinglian/status/1543050120815575040)
 
-中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。<br><br>华尔街日报中文网: 中美两国领导人正将大国竞争的部分焦点转向比拼谁的国家增长更强劲。<br>很长时间以来，经济学家一直认为中国经济超越美国是迟早的事。但现在一些人指出，随着中国政府对经济的控制不断加强，加上生产力增长放缓和劳动力萎缩，中国也可能永远无法超越美国。<br> <a href="https://on.wsj.com/3QZLOpr" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3QZLOpr</a>
+中国经济事实上无法超越美国。但美国拜登当总统，一年新增10多万亿债务，超过GDP总量的50%，再不断支持代理人战争，中国有赢的可能。<br>选败登，败美国。
 
 ### 157: [2022-07-02 09:54:48+08:00 推文](https://twitter.com/HeQinglian/status/1543050526757199874)
 
