@@ -49,7 +49,7 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
@@ -65,7 +65,7 @@ RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>Everyone needs to learn Party history.<br><br>
 
 ### 13: [2021-12-21 08:26:57+08:00 推文](https://twitter.com/cnmediaproject/status/1473087558108463106)
 
-Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style="" src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @mikeygow @lingli_vienna And of course there's that dumpling shop.<br><img style src="https://pbs.twimg.com/media/FHF1TSqaAAEi6ES?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2021-12-21 12:16:51+08:00 推文](https://twitter.com/adriennecarter/status/1473145414308483074)
 

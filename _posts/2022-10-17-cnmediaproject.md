@@ -155,11 +155,19 @@ Good overview of some key points.<br><br>William Yang: Following Chinese Presi
 
 RT Josh Chin<br>EXCLUSIVE: Xi is preparing to name loyalists to top positions in CCP hierarchy, people close to party leaders tell us. Shanghai’s embattled party boss is poised for a promotion. <a href="https://www.wsj.com/articles/chinas-xi-jinping-likely-to-pack-party-leadership-with-allies-in-show-of-strength-11666024652?st=s38aj44b432hfwk&amp;reflink=share_mobilewebshare" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/chinas-xi-jinping-likely-to-pack-party-leadership-with-allies-in-show-of-strength-11666024652?st=s38aj44b432hfwk&amp;reflink=share_mobilewebshare</a>
 
-### 36: [2022-10-18 08:28:53+08:00 推文](https://twitter.com/cnmediaproject/status/1582166795511029760)
+### 36: [2022-10-18 04:43:54+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1582110175888310272)
+
+RT China Law Translate<br>Re @hcsteinhardt @cnmediaproject You only need to look at the national security law, which defines the term, to see how expansive the idea of national security has become... including threats both from within and without. <a href="https://www.chinalawtranslate.com/sorting-the-security-laws/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/sorting-the-security-laws/</a><br><img style="" src="https://pbs.twimg.com/media/FfTIxTKWYAEcCol?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 37: [2022-10-18 08:28:53+08:00 推文](https://twitter.com/cnmediaproject/status/1582166795511029760)
 
 Looking forward to reading this book, which will surely have many insights into how China has conducted its diplomacy and efforts at shaping its international image.<br><br>Susan Shirk: Excited to tell everyone that my book, Overreach:  How China Derailed its Peaceful Rise, is now available. 1/n<br><br><img style="" src="https://pbs.twimg.com/media/FfTE1V1WAAgHLpP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;" target="_blank" rel="noopener noreferrer">https://global.oup.com/academic/product/overreach-9780190068516?cc=us&amp;lang=en&amp;</a>
 
-### 37: [2022-10-18 08:31:10+08:00 推文](https://twitter.com/cnmediaproject/status/1582167367744114689)
+### 38: [2022-10-18 08:31:10+08:00 推文](https://twitter.com/cnmediaproject/status/1582167367744114689)
 
 A reminder that CMP has archived the (downloadable) long and short versions of Xi Jinping's political report to the 20th National Congress of the CCP. <a href="https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/</a>
+
+### 39: [2022-10-18 12:06:06+08:00 推文](https://twitter.com/cnmediaproject/status/1582221459803762689)
+
+Indeed. But it seems there are areas of "security" well beyond the scope of the 国安法. Thoughts? For example, we have 网络舆论安全, though that might fall under cybersecurity. And "ideological security" (意识形态安全) and "regime security" (制度安全), both in Xi's report.<br><br>China Law Translate: @hcsteinhardt @cnmediaproject You only need to look at the national security law, which defines the term, to see how expansive the idea of national security has become... including threats both from within and without.<br><br><img style="" src="https://pbs.twimg.com/media/FfTIxTKWYAEcCol?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://www.chinalawtranslate.com/sorting-the-security-laws/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/sorting-the-security-laws/</a>
 
