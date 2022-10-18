@@ -25,7 +25,7 @@ RT Bill Bishop<br>why has @twitter suspended the account of Xi Jinping looking
 
 ### 3: [2022-01-06 15:00:45+08:00 推文](https://twitter.com/cnmediaproject/status/1478984869737017345)
 
-2022 has hardly begun, but for CCP propaganda ministers there can be no doubt that the year’s biggest news story will be the CCP congress starting 10+ months from now. Quick take on the propaganda ministers' conference. <a href="https://bit.ly/3EZo1i4" target="_blank" rel="noopener noreferrer">https://bit.ly/3EZo1i4</a><br><img style="" src="https://pbs.twimg.com/media/FIZo32KacAcpW-I?format=jpg&name=orig" referrerpolicy="no-referrer">
+2022 has hardly begun, but for CCP propaganda ministers there can be no doubt that the year’s biggest news story will be the CCP congress starting 10+ months from now. Quick take on the propaganda ministers' conference. <a href="https://bit.ly/3EZo1i4" target="_blank" rel="noopener noreferrer">https://bit.ly/3EZo1i4</a><br><img style src="https://pbs.twimg.com/media/FIZo32KacAcpW-I?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2022-01-06 22:07:28+08:00 推文](https://twitter.com/AlexDukalskis/status/1479092256426627072)
 
@@ -45,11 +45,11 @@ In a bid to advance Chinese state narratives more credibly overseas, CCP media h
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 
-Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Key question: When are social media accounts personal? And when are they being disingenuous about the state agendas they serve? . . . @schoenmakersk looks at clearly-state strategies from the CCP to exploit this ambiguity and use "personal brands" for conduct external propaganda.<br><img style="" src="https://pbs.twimg.com/media/FIi2MkgaAAEyXSO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-01-08 09:56:39+08:00 推文](https://twitter.com/cnmediaproject/status/1479633113131421696)
 
-Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re In at least six cases, Internet Archive’s Wayback Machine shows Chinese state media journalists removing their employers from their social media bios over the past 2 years, perhaps trying to avoid the "China state-affiliated media" label -- and enabling them to advertise.<br><img style="" src="https://pbs.twimg.com/media/FIi2ZejaQAEi4hP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2022-01-08 10:49:38+08:00 推文](https://twitter.com/caixin/status/1479646447729479685)
 

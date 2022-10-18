@@ -167,35 +167,47 @@ Looking forward to reading this book, which will surely have many insights into 
 
 A reminder that CMP has archived the (downloadable) long and short versions of Xi Jinping's political report to the 20th National Congress of the CCP. <a href="https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/16/the-long-and-short-of-xis-political-report/</a>
 
-### 39: [2022-10-18 12:06:06+08:00 推文](https://twitter.com/cnmediaproject/status/1582221459803762689)
+### 39: [2022-10-18 11:12:10+08:00 推文](https://twitter.com/WilliamYang120/status/1582207885223698432)
+
+RT William Yang<br>Apart from @joshchin's exclusive list of possible new Politburo Standing Committee members, #Taiwan's United Daily also has a list of their own prediction, which is quite different from @WSJ's version: <a href="https://udn.com/news/amp/story/123078/6694147" target="_blank" rel="noopener noreferrer">https://udn.com/news/amp/story/123078/6694147</a>
+
+### 40: [2022-10-18 12:06:06+08:00 推文](https://twitter.com/cnmediaproject/status/1582221459803762689)
 
 Indeed. But it seems there are areas of "security" well beyond the scope of the 国安法. Thoughts? For example, we have 网络舆论安全, though that might fall under cybersecurity. And "ideological security" (意识形态安全) and "regime security" (制度安全), both in Xi's report.<br><br>China Law Translate: @hcsteinhardt @cnmediaproject You only need to look at the national security law, which defines the term, to see how expansive the idea of national security has become... including threats both from within and without.<br><br><img style="" src="https://pbs.twimg.com/media/FfTIxTKWYAEcCol?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://www.chinalawtranslate.com/sorting-the-security-laws/" target="_blank" rel="noopener noreferrer">https://www.chinalawtranslate.com/sorting-the-security-laws/</a>
 
-### 40: [2022-10-18 14:03:59+08:00 推文](https://twitter.com/WilliamYang120/status/1582251124924350464)
+### 41: [2022-10-18 14:03:59+08:00 推文](https://twitter.com/WilliamYang120/status/1582251124924350464)
 
 RT William Yang<br>"... interpreting history and expanding history is really key to signaling power for Xi. Everything is about telling the basic story, which is that the last five years have been a great success and here's why," said David Bandurski at @cnmediaproject. <a href="https://www.dw.com/en/china-xi-jinpings-speech-short-on-detail-big-on-pride/a-63460604" target="_blank" rel="noopener noreferrer">https://www.dw.com/en/china-xi-jinpings-speech-short-on-detail-big-on-pride/a-63460604</a>
 
-### 41: [2022-10-18 15:53:08+08:00 推文](https://twitter.com/cnmediaproject/status/1582278592746381312)
+### 42: [2022-10-18 15:53:08+08:00 推文](https://twitter.com/cnmediaproject/status/1582278592746381312)
 
 Oh, what would we do without the graphic divisions proliferating in CCP-run media and Party-state offices? These should all be collected in one place. Joint project anyone?<br><br>Clemens Ruben: @ChinaLawTransl8 @hcsteinhardt @cnmediaproject This phenomenon actually has a name in Xi's China 总体国家安全观 "holistic understanding of national security". The picture below gives a good impression of what it entails. Politics, economy, ecology, internet, culture, space,...<br>basically everything is national security now<br><br><img style="" src="https://pbs.twimg.com/media/FfVeaGsUUAAnx7K?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 42: [2022-10-18 16:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1582280572067536899)
+### 43: [2022-10-18 16:01:00+08:00 推文](https://twitter.com/JChengWSJ/status/1582280572067536899)
 
 RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged Chinese commercial banks to extend new loans to the troubled sector…individual loan officers simply do not want to be held accountable for lending to riskier private developers during the…downturn." <a href="https://bit.ly/3TqqV77" target="_blank" rel="noopener noreferrer">https://bit.ly/3TqqV77</a>
 
-### 43: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
+### 44: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
 
 A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
 
-### 44: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
+### 45: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
 
 RT 浦志强<br>清华如此管理打印复印店，能有仨后果：一是令清华师生畏首畏尾水准一泻千里，赶超列强为国争光门儿都没有了；二是迅速提升打印复印店员工的审核水平，令其火眼金睛眼里不揉沙子，其创造力必须超过清华师生，否则小买卖关张；三是刺激复印打印一体机销售，两千来块钱一台我买一台自己来嘛！看你咋审查？<br><img style="" src="https://pbs.twimg.com/media/FfVnLw2VsAAzmeF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfVnLw2VQAA2CU9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
-### 45: [2022-10-18 18:30:15+08:00 推文](https://twitter.com/cnmediaproject/status/1582318132081065986)
+### 46: [2022-10-18 18:30:15+08:00 推文](https://twitter.com/cnmediaproject/status/1582318132081065986)
 
 CMP's latest on the 20th National Congress: a quick look at three key misunderstandings circulating in the past three days. @dbandurski <a href="https://chinamediaproject.org/2022/10/18/ccp-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/18/ccp-political-report/</a>
 
-### 46: [2022-10-18 20:10:24+08:00 推文](https://twitter.com/jessicacweiss/status/1582343337800966146)
+### 47: [2022-10-18 19:15:48+08:00 推文](https://twitter.com/noahbarkin/status/1582329596153761794)
+
+RT Noah Barkin 🇺🇦<br>The head of Germany’s foreign intelligence service says (in so many words) that politicians have ignored his warnings about China &amp; Russia for years. He sees a dangerous tendency to think only in positive scenarios vis à vis these countries. <a href="https://www.bundestag.de/presse/hib/kurzmeldungen-916626" target="_blank" rel="noopener noreferrer">https://www.bundestag.de/presse/hib/kurzmeldungen-916626</a>
+
+### 48: [2022-10-18 20:10:24+08:00 推文](https://twitter.com/jessicacweiss/status/1582343337800966146)
 
 RT Jessica Chen Weiss<br>Important piece by @SusanShirk1: “many Americans have concluded that China is bent on supplanting the United States as the world’s number one power and that negotiating would be fruitless.<br>There are two reasons to reject that conclusion. First, American primacy is the wrong goal<br><br>Susan Shirk: 4. The U.S. instead of overreacting to China's overreach, should not give up on diplomacy that can test whether we can induce the Xi regime to moderate its policies. 6/7<br> <a href="https://time.com/6222513/china-xi-jinping-diplomacy/" target="_blank" rel="noopener noreferrer">https://time.com/6222513/china-xi-jinping-diplomacy/</a>
+
+### 49: [2022-10-18 21:44:55+08:00 推文](https://twitter.com/cnmediaproject/status/1582367120549376001)
+
+How Xi Jinping's address on Sunday was not a "work report" — and other misunderstandings about the speech that opened the 20th National Congress of the CCP. <a href="https://chinamediaproject.org/2022/10/18/ccp-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/18/ccp-political-report/</a>
 

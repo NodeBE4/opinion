@@ -67,3 +67,7 @@ Re @JianglinLi @Jessie2021626 本来以为自己要做欧盟老大了，没承�
 
 这是正常人说的话么？<br>什么人拥护什么人。<br><br>RichL: 美国副总统关于如何控制油价：<br><br>油价高主要是因为它不像以前那么低了。而想要回到以前那么低，我们必须要认识到现在的油价太高了，而高，就是低的反义词。<br><br>——美国副总统 卡麦拉·哈里斯<br><br><img style="" src="https://pbs.twimg.com/media/FfVFOYCVsAATt0Y?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 14: [2022-10-18 21:57:17+08:00 推文](https://twitter.com/HeQinglian/status/1582370235503742976)
+
+Re @abc__china 你应该认识到一点：许多人原来并不反感这些人的存在，认为LGBTQI+有存在的权利，与正常性取向一样。<br>问题是这些人如今要特权，拜登政府鼓励并支持他们获比正常性取向多得多的特权，比如在晋升、入学、就业上优先，否则就是歧视，而且还利用政治权力在全美中小学发动变性运动。<br>那个博主认为这应该么？
+
