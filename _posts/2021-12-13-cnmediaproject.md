@@ -77,7 +77,7 @@ Re @TruthOfFinance @niubi But perhaps "top online influencer" also good here.
 
 ### 16: [2021-12-16 10:59:23+08:00 推文](https://twitter.com/cnmediaproject/status/1471313981596106754)
 
-In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style="" src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
+In the latest move against influencers, the CAC announced yesterday it had shut down 20,000 “top online influencer accounts” (头部账号), including that of a well-known former magazine editor detained back in October on charges that he had “insulted heroes and martyrs.”<br><img style src="https://pbs.twimg.com/media/FGsoOvlVUAACvEU?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 17: [2021-12-16 11:07:49+08:00 推文](https://twitter.com/cnmediaproject/status/1471316101632262144)
 
@@ -145,7 +145,7 @@ In our dictionary entry on "ideol. and pol. education" (思政), this example st
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
-Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style="" src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 

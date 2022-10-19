@@ -213,7 +213,7 @@ How Xi Jinping's address on Sunday was not a "work report" — and other misunde
 
 ### 50: [2022-10-18 23:40:23+08:00 推文](https://twitter.com/cnmediaproject/status/1582396180163887105)
 
-Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br>
+Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br> <a href="https://twitter.com/cnmediaproject/status/1582367120549376001" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1582367120549376001</a>
 
 ### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
 
@@ -221,9 +221,21 @@ Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic
 
 ### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
 
-On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br>
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/chairmanrabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/chairmanrabbit/status/1582417462771200000</a>
 
-### 53: [2022-10-19 13:28:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582604516956213248)
+### 53: [2022-10-19 12:13:03+08:00 推文](https://twitter.com/lauriechenwords/status/1582585595431243777)
+
+RT Laurie Chen<br>Just noticed that all of mine and Reuters' questions about the assault of the Hong Kong protester on the grounds of the Chinese Consulate in Manchester were wiped from the official transcript of yesterday's Chinese foreign ministry briefing... <a href="https://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2511_665403/202210/t20221018_10785403.html" target="_blank" rel="noopener noreferrer">https://www.fmprc.gov.cn/mfa_eng/xwfw_665399/s2510_665401/2511_665403/202210/t20221018_10785403.html</a>
+
+### 54: [2022-10-19 13:28:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582604516956213248)
 
 CMP is very pleased to be a part of a fantastic and necessary project!<br><br>Malin Oud: Ready for (pre-)launch! In preparation for the Decoding China Dictionary 2nd edition launch later this month, we are holding an event today with a fantastic line up of participants!  Looking forward to a full day of deliberations and 20th Party Congress analysis!<br><br><img style="" src="https://pbs.twimg.com/media/FfaFCF-WYAEf_F9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 55: [2022-10-19 19:17:08+08:00 推文](https://twitter.com/RudyakMarina/status/1582692318507073536)
+
+RT Marina Rudyak 卢玛丽<br>Having just presented “Aid” at the #DecodingChina Dictionary 2.0 pre-launch, this 🧵 is a perfect example of how “aid” or “help” has a different meaning in the Chinese discourse. Anything in the range “you need it, we have it” can be called #aid, incl. commercial transactions.<br><br>Alex Dukalskis: "Chinese leaders boast of 'providing' almost 3.8bn doses of covid vaccines to the world. Dozens of Chinese embassies lobbied recipient countries to hold airport arrival ceremonies for arrivals of Sinopharm and Sinovac jabs." 2/<br>
+
+### 56: [2022-10-19 20:15:40+08:00 推文](https://twitter.com/niubi/status/1582707047820189698)
+
+RT Bill Bishop<br>Shanghai will build an isolation facility that can house thousands of people near the center of the city, adding to signs China is unlikely to shift away from Covid Zero any time soon <a href="https://www.bloomberg.com/news/articles/2022-10-19/shanghai-to-build-a-3-250-bed-covid-facility-near-city-center?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-10-19/shanghai-to-build-a-3-250-bed-covid-facility-near-city-center?sref=6ZE6q2XR</a>
 
