@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-18
+date: 2022-10-19
 from: https://twitter.com/realcaixia/status/1582110371992653824
 layout: post
 tags:
@@ -38,4 +38,8 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 ### 6: [2022-10-18 11:27:46+08:00 推文](https://twitter.com/realcaixia/status/1582211810857717760)
 
 【跟进时代的勇士】3  再推孤胆英雄彭载舟的罢免独裁国贼习近平攻略——让世界听见中国民众的呼声。<br>彭载舟先生特地摘录了中共党章关于党员权利、干部标准、干部性质定位和有限任期的规则条文。呼吁中共20大代表们认真学习党章，执行党章，坚决反对习公然破坏党章、违反党章，保权连任的无耻企图。<br><img style="" src="https://pbs.twimg.com/media/FfUlP7EX0AASuLl?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfUlQJ4WQAAvdUG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfUlQVXWAAAnZmH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 7: [2022-10-19 10:27:31+08:00 推文](https://twitter.com/realcaixia/status/1582559038520590336)
+
+请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English 議報 英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
 

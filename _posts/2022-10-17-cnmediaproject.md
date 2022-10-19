@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-18
+date: 2022-10-19
 from: https://twitter.com/ProfYangZhang/status/1581677189300654082
 layout: post
 tags:
@@ -218,4 +218,8 @@ Good to know. Next up is the keyword fallacy -- words like 开放 that many crun
 ### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
 
 Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic  📚 "Trafficking Data: How China is Winning the Battle for Digital Sovereignty" will be released in 2 weeks! I show how weak US data protections empower China to expand its digital borders. With thanks to so many, a 🧵.<br><br><img style="" src="https://pbs.twimg.com/media/FfWo2yZWYAQ26IU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://loom.ly/LL7x11E" target="_blank" rel="noopener noreferrer">https://loom.ly/LL7x11E</a>
+
+### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
+
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br>
 

@@ -111,3 +111,35 @@ Re @david_david1968 让美英多出。
 
 Re @JianglinLi @Wu_Zhi @enoughtalk4 @david_david1968 @ngexp @RealBeiMing @HongfuDing 那么多Old Money，你见谁沾边了？
 
+### 25: [2022-10-19 07:17:03+08:00 推文](https://twitter.com/HeQinglian/status/1582511102482472961)
+
+Re @ElizaWong4ever 原来爱哈里斯的人在这，不止民主党。
+
+### 26: [2022-10-19 07:24:32+08:00 推文](https://twitter.com/HeQinglian/status/1582512985465311232)
+
+10 月 18 日，路透社最新消息：卡塔尔能源公司的首席执行官表示，今年冬天卡塔尔不会将已经与亚洲买家签订合同的天然气转移到欧洲。<br>“卡塔尔绝对致力于合同的神圣性......当我们与亚洲买家或欧洲买家签约时，我们会遵守该协议。”<br><br>美国能为盟友想点法子么？ <a href="https://www.reuters.com/article/qatarenergy-lng-europe/qatar-will-not-divert-gas-from-asia-to-europe-this-winter-qatarenergy-ceo-says-idINS8N30R020" target="_blank" rel="noopener noreferrer">https://www.reuters.com/article/qatarenergy-lng-europe/qatar-will-not-divert-gas-from-asia-to-europe-this-winter-qatarenergy-ceo-says-idINS8N30R020</a>
+
+### 27: [2022-10-19 07:27:07+08:00 推文](https://twitter.com/HeQinglian/status/1582513636085444612)
+
+Re @Wu_Zhi @JianglinLi @david_david1968 @RealBeiMing 如果欧盟其他国家效尤，等于开启制裁乌克兰货币的机制。<br>俄罗斯的卢布受制裁，人家有天然气与能源做后盾。不知乌克兰拿什么做后盾，让本国货币活起来。
+
+### 28: [2022-10-19 07:29:24+08:00 推文](https://twitter.com/HeQinglian/status/1582514213540745216)
+
+Re @JianglinLi @Wu_Zhi @enoughtalk4 @david_david1968 @ngexp @RealBeiMing @HongfuDing 总有不沾这事这些人的。我相信沾的基本不会沉默——这是挣表现分的大好时机，没见2022年5月之后两个月内那疯劲？拜登后来都养成下跪习惯，见了以色列总理立即下跪。<br>现在要波洛西下跪，她恐怕不干了。
+
+### 29: [2022-10-19 07:30:40+08:00 推文](https://twitter.com/HeQinglian/status/1582514530495496192)
+
+Re @Wu_Zhi @JianglinLi @Isabel_3299 你家那位算算通胀，就知道自家钱袋鼓了还是瘪了。
+
+### 30: [2022-10-19 07:37:35+08:00 推文](https://twitter.com/HeQinglian/status/1582516270888812545)
+
+Re @JianglinLi @Wu_Zhi @david_david1968 @RealBeiMing 欧盟一半国家百姓的不满到了爆发点，各国政府心里不知咒了几百遍，只因怕美国而不敢吱声，都在等着有国家出头说No.
+
+### 31: [2022-10-19 07:39:29+08:00 推文](https://twitter.com/HeQinglian/status/1582516748682612736)
+
+Re @franktianxie 这刀的锋利，简直堪比瑞士军刀。我家没这刀子。
+
+### 32: [2022-10-19 09:21:47+08:00 推文](https://twitter.com/HeQinglian/status/1582542495246090242)
+
+Re @shenliangqing2 <a href="https://baike.baidu.hk/pic/%E8%96%B0%E8%A1%A3%E8%8D%89/14513/1/3812b31bb051f8198618f69fe8fb5ded2e738ad4499c?fr=lemma&amp;ct=single#aid=1&amp;pic=3812b31bb051f8198618f69fe8fb5ded2e738ad4499c" target="_blank" rel="noopener noreferrer">https://baike.baidu.hk/pic/%E8%96%B0%E8%A1%A3%E8%8D%89/14513/1/3812b31bb051f8198618f69fe8fb5ded2e738ad4499c?fr=lemma&amp;ct=single#aid=1&amp;pic=3812b31bb051f8198618f69fe8fb5ded2e738ad4499c</a>
+
