@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-19
+date: 2022-10-20
 from: https://twitter.com/HeQinglian/status/1581786526010441729
 layout: post
 tags:
@@ -150,4 +150,12 @@ Re @xxj2040 这是“紧气”。
 ### 34: [2022-10-19 22:35:10+08:00 推文](https://twitter.com/HeQinglian/status/1582742156976205825)
 
 Re @dinglili7 奥巴马太谦虚了，他早就将自己视为上帝，一切人伦都要反其道而行之，变性、性别心理认同、毒品无罪化，所有上帝厌弃的，他全要当作进步文化推行；所有上帝赞赏的，比如工作养家，他偏要某贵族不工作，给福利养还不够，要一次性赔偿。
+
+### 35: [2022-10-20 05:18:37+08:00 推文](https://twitter.com/HeQinglian/status/1582843685921689600)
+
+Re @Wu_Zhi @dw_chinese 政府是德国人选的，一届又一届，走到如今。<br>德国人只要继续坚持政治正确，不在此时翻车，就会在别处翻车。
+
+### 36: [2022-10-20 05:20:57+08:00 推文](https://twitter.com/HeQinglian/status/1582844274474819584)
+
+Re @fading_you1 @jjamesw1 想想中联办在香港的作用与习在事后对他们的处置。
 
