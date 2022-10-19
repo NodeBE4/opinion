@@ -53,7 +53,7 @@ Re @xxj2040 英国退欧，有个原因是在欧盟内部的地位尴尬，德�
 
 ### 10: [2022-07-11 11:13:51+08:00 推文](https://twitter.com/HeQinglian/status/1546331910334517255)
 
-7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。<br><br>jiang shangrong: ‼️‼️泽连斯基：“我们需要惩罚俄罗斯——一个恐怖主义国家——对乌克兰和国际法律秩序所做的一切。”<br><br>泽连斯基承诺，在“未来几周”内，他将寻求全世界承认“俄罗斯的罪行”。他承诺，俄罗斯的“战犯”将在世界各地被捕，即便年龄在 90 至 100 岁之间。<br><br><video src="https://video.twimg.com/ext_tw_video/1546237120053792768/pu/vid/848x464/3-sfP6zMZP-9db3Q.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1546237120053792768/pu/img/f2OsX91TSfVeAb20.jpg"></video> <a href="https://t.me/JShangrong" target="_blank" rel="noopener noreferrer">https://t.me/JShangrong</a> <a href="https://twitter.com/jiangshangrong/status/1545832524391321602" target="_blank" rel="noopener noreferrer">https://twitter.com/jiangshangrong/status/1545832524391321602</a>
+7月6日，由于担心基辅无法归还这笔钱，欧盟委员会预算机构拒绝批准通过欧洲投资银行向乌克兰援助的15亿欧元贷款；德国亦出手阻止欧盟对乌克兰的 90 亿欧元一揽子援助计划<br><br>此信息说明目前乌克兰战争已经成了西方世界的鸡肋。不知泽连斯基下一个筹款对象是哪些国家。 <a href="https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-07/eu-bureaucracy-seen-blocking-1-5-billion-euro-loan-to-ukraine</a>
 
 ### 11: [2022-07-11 11:17:56+08:00 推文](https://twitter.com/HeQinglian/status/1546332938031321089)
 
@@ -97,7 +97,7 @@ Re @shenliangqing2 实不实，自己去查。用几个关键英文词，第一�
 
 ### 21: [2022-07-12 00:05:58+08:00 推文](https://twitter.com/HeQinglian/status/1546526221739216898)
 
-这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。<br><br>井上-Z-不二雄: 总统杠上贝索斯，后果很严重。亿万富翁拥有的传媒，不需要做什么，只需要如实报道（停止帮总统擦屁股）就够总统喝一壶的。<br> <a href="https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty" target="_blank" rel="noopener noreferrer">https://www.zerohedge.com/political/knives-out-wapo-nyt-go-biden-blood-scathing-moment-honesty</a>
+这篇文章值得一看。现在是主流媒体好几家觉得拜登不能应付紧急状态。<br>这事儿我想过，发现原因很简单：换人，贺锦丽比拜登更糟糕，就算一年之后换人，是南希。<br>主要是没来得及改宪法。希拉里倒是想当，也比这几位合适一点，但宪法没为她准备接位的空间。<br>赶紧修宪，量身定做。
 
 ### 22: [2022-07-12 00:13:53+08:00 推文](https://twitter.com/HeQinglian/status/1546528212775276546)
 
@@ -361,7 +361,7 @@ Re @shenliangqing2 应该说，你是现在各方都想争取的力量，因此�
 
 ### 87: [2022-07-14 05:59:24+08:00 推文](https://twitter.com/HeQinglian/status/1547339938559135744)
 
-美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。
+美军在阿富汗“有序撤退”时，留下价值数百亿的军事装备，算不算资敌？美国媒体讨论了一阵就放弃了。因为《纽约时报》等主媒发现，再讨论下去，有损他们力推的拜登总统的光辉形象，让亲者痛仇者快。<br><br>Ezio Mao☢: 这事儿有更新了，根据俄罗斯方面可靠消息来源 - 乌克兰以 80 万美元的价格向俄军出售了一架 HIMARS火箭炮。<br><br>此外，正在协商转让33万美元的弹药问题。<br><br>选择的交货方法非常有趣：将海马斯留在灰色区域的棚子中，以便俄罗斯军人在扫荡过程中“不小心”偶然发现它。<br><br><img style="" src="https://pbs.twimg.com/media/FXey6GKUEAANz9X?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/KELMAND1/status/1543106999222939648" target="_blank" rel="noopener noreferrer">https://twitter.com/KELMAND1/status/1543106999222939648</a>
 
 ### 88: [2022-07-14 07:58:47+08:00 推文](https://twitter.com/HeQinglian/status/1547369983457607686)
 
@@ -537,7 +537,7 @@ Re @Meitiaowushi @shenliangqing2 变革，要有时机、条件。<br>斯里兰�
 
 ### 131: [2022-07-15 21:32:53+08:00 推文](https://twitter.com/HeQinglian/status/1547937246170427392)
 
-彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。<br><br>Bloomberg: Is the US in a recession? Here's what you need to know and how to prepare<br> <a href="https://trib.al/L6SduXt" target="_blank" rel="noopener noreferrer">https://trib.al/L6SduXt</a>
+彭博这篇文章还在讨论衰退到底是否到来，列出的指标是连续两个季节衰退。<br>美国衰退不可避免，彭博谈的只是经济，其实还有国势。<br>2020年的大选，无论如何是一场国运之赌，希望民主党选民想清楚，自己到底要什么。<br>拜登履行了绝大部分竞选承诺，不太撒谎，除了没亲口承认自己家族是个犯罪家族。
 
 ### 132: [2022-07-15 21:36:33+08:00 推文](https://twitter.com/HeQinglian/status/1547938169093402624)
 
@@ -549,7 +549,7 @@ Re @Tepezano161 是腐蚀了，而且早就开始，目前只是结果显现。
 
 ### 134: [2022-07-15 21:42:59+08:00 推文](https://twitter.com/HeQinglian/status/1547939787314565122)
 
-从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。
+从2010年初开始，关于中国房地产，我说过这泡沫迟早会破，只是从30层、50层还是100层往下跳的区别。<br>防护网质量好，对30层的跳楼者可能还有点保护作用，如今破灭，是无人生还的境地。<br><br>华尔街日报中文网: 来自全国各地的业主们纷纷宣称，如果开发商不履行承诺，不能按期交付预售房，他们也“停贷”。 大型中资银行的股价和许多开发商的股债跌声一片。<br>分析人士说，投资者对整个中国房地产行业基本上信心尽失，因为住房销售几乎没有好转迹象。<br> <a href="https://on.wsj.com/3PqtjJa" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3PqtjJa</a>
 
 ### 135: [2022-07-15 21:44:55+08:00 推文](https://twitter.com/HeQinglian/status/1547940275820998656)
 
@@ -697,7 +697,7 @@ Re @JianglinLi 我们这下了一场雨，一英寸不到。但是喷灌系统�
 
 ### 171: [2022-07-17 21:56:27+08:00 推文](https://twitter.com/HeQinglian/status/1548667952366485504)
 
-我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。<br><br>BBC News 中文: 2020年，据称属于乔·拜登之子亨特·拜登的笔记本电脑内容曝光，内容涉及以权谋私指称以及亨特的私生活细节。直至今日，“硬盘门”风波依然涟漪未息。亨特·拜登电脑事件真相到底是什么?<br> <a href="https://bbc.in/3ci3FrO" target="_blank" rel="noopener noreferrer">https://bbc.in/3ci3FrO</a>
+我可没觉得当初BBC不知道这消息。<br>此时报，我也不觉得是该台想恢复媒体追求事实。
 
 ### 172: [2022-07-17 22:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1548670019877437441)
 
