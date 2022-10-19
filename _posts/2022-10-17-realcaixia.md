@@ -55,3 +55,23 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 Re @CHZX05 《英文版议报》的推特，今天推荐了这篇文章。凡是发现好的英文文章，《英文版议报》的推特就会给网友们做推荐。
 
+### 11: [2022-10-19 21:16:50+08:00 推文](https://twitter.com/realcaixia/status/1582722442518110209)
+
+【跟进时代的勇士】1.  再推孤胆英雄彭载舟的罢免独裁国贼习近平攻略——让世界听见中国民众的呼声。<br>彭载舟先生针对中共极权暴政统治下的中国各个领域中压榨民众坑害民众的情况，提出了各个方面的诉求。请看：<br><img style="" src="https://pbs.twimg.com/media/Ffb1qNRXwAEjW7B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb1qbWWAAAWUI-?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb1qrqWYAAcYxc?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb1q8LXEAI303M?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 12: [2022-10-19 21:35:02+08:00 推文](https://twitter.com/realcaixia/status/1582727021548871683)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Ffb51d0WAAAcOPH?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb51d5WYAEnuxF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb51eAXkAIhLgL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb51d6X0AEVmqv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 13: [2022-10-19 21:38:51+08:00 推文](https://twitter.com/realcaixia/status/1582727984129056769)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffb6tbuXwAQPVMm?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-10-19 21:51:17+08:00 推文](https://twitter.com/realcaixia/status/1582731111595413505)
+
+英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English 議報 英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
+
+### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
+
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
+

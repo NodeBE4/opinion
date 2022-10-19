@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2022-04-25~2022-05-01'
 
 ### 4: [2022-04-25 13:47:04+08:00 推文](https://twitter.com/realcaixia/status/1518466603066691584)
 
-中共党章早就写明反对任何方式的个人崇拜。习与刘宁共同违反党章与准则。<br><br>《议报》: 田奇庄：向中纪委赵乐际同志实名举报——广西壮族自治区党委书记刘宁公然违反党章搞个人崇拜<br> <a href="https://yibaochina.com/?p=246109" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=246109</a>
+中共党章早就写明反对任何方式的个人崇拜。习与刘宁共同违反党章与准则。
 
 ### 5: [2022-04-25 14:19:40+08:00 推文](https://twitter.com/realcaixia/status/1518474806525665280)
 

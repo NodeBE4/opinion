@@ -143,3 +143,11 @@ Re @franktianxie 这刀的锋利，简直堪比瑞士军刀。我家没这刀子
 
 Re @shenliangqing2 <a href="https://baike.baidu.hk/pic/%E8%96%B0%E8%A1%A3%E8%8D%89/14513/1/3812b31bb051f8198618f69fe8fb5ded2e738ad4499c?fr=lemma&amp;ct=single#aid=1&amp;pic=3812b31bb051f8198618f69fe8fb5ded2e738ad4499c" target="_blank" rel="noopener noreferrer">https://baike.baidu.hk/pic/%E8%96%B0%E8%A1%A3%E8%8D%89/14513/1/3812b31bb051f8198618f69fe8fb5ded2e738ad4499c?fr=lemma&amp;ct=single#aid=1&amp;pic=3812b31bb051f8198618f69fe8fb5ded2e738ad4499c</a>
 
+### 33: [2022-10-19 22:30:19+08:00 推文](https://twitter.com/HeQinglian/status/1582740933304455169)
+
+Re @xxj2040 这是“紧气”。
+
+### 34: [2022-10-19 22:35:10+08:00 推文](https://twitter.com/HeQinglian/status/1582742156976205825)
+
+Re @dinglili7 奥巴马太谦虚了，他早就将自己视为上帝，一切人伦都要反其道而行之，变性、性别心理认同、毒品无罪化，所有上帝厌弃的，他全要当作进步文化推行；所有上帝赞赏的，比如工作养家，他偏要某贵族不工作，给福利养还不够，要一次性赔偿。
+

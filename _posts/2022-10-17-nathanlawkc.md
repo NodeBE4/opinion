@@ -37,3 +37,7 @@ Re Terrible. <a href="https://hongkongfp.com/2022/10/18/protesters-illegally-e
 
 //I can’t help but imagine what would happen if I was taken to a Chinese embassy. Would I be detained in a small blackout room? Extradited to mainland China and have a forced confession on state television? Or disappeared forever?//<br>#HKbob<br>#Accountability <a href="https://www.theguardian.com/commentisfree/2022/oct/18/manchester-consulate-attack-china-flexing-muscles-abroad-hongkongers-britain?CMP=Share_iOSApp_Other" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/commentisfree/2022/oct/18/manchester-consulate-attack-china-flexing-muscles-abroad-hongkongers-britain?CMP=Share_iOSApp_Other</a>
 
+### 6: [2022-10-19 23:01:07+08:00 推文](https://twitter.com/nathanlawkc/status/1582748686286671872)
+
+Friends in the west coast— see you soon!<br><br>Protest and Repression in Hong Kong and Iran: 2019 to 2022<br><br>October 20, 3pm to 4:30pm, at UCI in HIB 135 <a href="https://www.humanities.uci.edu/events/protest-and-repression-hong-kong-and-iran-2019-2022-0" target="_blank" rel="noopener noreferrer">https://www.humanities.uci.edu/events/protest-and-repression-hong-kong-and-iran-2019-2022-0</a>
+
