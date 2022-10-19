@@ -189,7 +189,7 @@ RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged C
 
 ### 44: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
 
-A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br> <a href="https://twitter.com/abnersheng/status/1581872470755135488" target="_blank" rel="noopener noreferrer">https://twitter.com/abnersheng/status/1581872470755135488</a>
+A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
 
 ### 45: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
 
@@ -221,5 +221,9 @@ Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic
 
 ### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
 
-On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/chairmanrabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/chairmanrabbit/status/1582417462771200000</a>
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br>
+
+### 53: [2022-10-19 13:28:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582604516956213248)
+
+CMP is very pleased to be a part of a fantastic and necessary project!<br><br>Malin Oud: Ready for (pre-)launch! In preparation for the Decoding China Dictionary 2nd edition launch later this month, we are holding an event today with a fantastic line up of participants!  Looking forward to a full day of deliberations and 20th Party Congress analysis!<br><br><img style="" src="https://pbs.twimg.com/media/FfaFCF-WYAEf_F9?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

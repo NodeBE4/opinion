@@ -43,3 +43,15 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English 議報 英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
 
+### 8: [2022-10-19 10:42:58+08:00 推文](https://twitter.com/realcaixia/status/1582562926099329025)
+
+推荐：下面是我们《议报英文版》推特推荐的英文文章：<br>《议报英文版》已经上线发布文章了，有兴趣的网友欢迎上议报英文版阅读英文文章，你会发现那里是一个新的思想园地和信息宝库。我们议报英文团队正努力把事情做得更好，以满足更多英文读者的需要。<br><br>Gabriele Cosentino: “We want food, not PCR tests. We want freedom, not lockdowns. We want respect, not lies. We want reform, not a Cultural Revolution. We want a vote, not a leader. We want to be citizens, not slaves.” <br>Anti-Xi Jinping protest electrifies Chinese internet<br> <a href="https://www.theguardian.com/world/2022/oct/14/we-all-saw-it-anti-xi-jinping-protest-electrifies-chinese-internet?CMP=share_btn_tw" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/oct/14/we-all-saw-it-anti-xi-jinping-protest-electrifies-chinese-internet?CMP=share_btn_tw</a>
+
+### 9: [2022-10-19 10:55:34+08:00 推文](https://twitter.com/realcaixia/status/1582566097378680832)
+
+特别推荐：<br>这是我们《英文版议报》：<br>《英文版议报》已经上线发布文章了，有感兴趣的网友欢迎去《英文版议报》阅读文字，您会发现，这是一个新的思想园地和宝贵的信息资料库。链接就是图片画红圈里的网址。<br><img style="" src="https://pbs.twimg.com/media/FfZnd3qXoAAtcNL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfZneGOX0AE4SRp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfZneSyWAAA8HAi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfZneg7XwAETtaC?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-10-19 11:05:53+08:00 推文](https://twitter.com/realcaixia/status/1582568692977582082)
+
+Re @CHZX05 《英文版议报》的推特，今天推荐了这篇文章。凡是发现好的英文文章，《英文版议报》的推特就会给网友们做推荐。
+
