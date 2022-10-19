@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-18
+date: 2022-10-19
 from: https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/
 layout: post
 tags:
@@ -40,4 +40,10 @@ So as ever, it is worth prefacing by noting that there has been a move by some h
 That said, it's not as though there were not still phenomena that get pointed to as forming part of the 'Silk Road' in practice, and for that, Valerie Hansen's *The Silk Road: A New History* (2012) is probably your best bet for an academically solid general overview of trade networks and connections in premodern Eurasia. Frances Wood's *The Silk Road: Two Thousand Years in the Heart of Asia* (2002)... *exists*, but I've not read it myself, and Wood also became rather infamous among historians of China for her insistence that Marco Polo never went there, which is generally regarded as pseudohistory these days. Even less recommended – i.e. not at all – is Peter Frankopan's *The Silk Roads* (2015), which is half a work of Big History, and half focussed on Iran, ironically at the expense of the traditional 'Silk Road' regions of Central Asia. In all honesty, there is surprisingly little else. The 'Silk Road' is so taken for granted as an aspect of Eurasian history that there are actually quite few good treatments of it out there.
 
 That said, if you're interested in the more general political history of the region, then James Millward's *Eurasian Crossroads: A History of Xinjiang* (2006) is still the definitive treatment of the history of western Central Asia, while Christopher Beckwith's *Empires of the Silk Road* is a good overview of the steppe empires and the polities of southern Central Asia.
+
+### 886: [Britain, Her Sister Republics, and Russia's Western Holdings in 1795](https://old.reddit.com/r/imaginarymaps/comments/y7e5g4/britain_her_sister_republics_and_russias_western/), submitted on 2022-10-19 02:02:58+08:00.
+
+----- __886.1__ -----2022-10-19 17:39:50+08:00:
+
+I'd swap in 'Britannia' for 'Britain' – the 'ain' in 'Britain' is quite a weak syllable to stress.
 
