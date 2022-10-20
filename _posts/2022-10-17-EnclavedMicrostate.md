@@ -75,6 +75,10 @@ As for other ethnic groups, there is no single reason why a more concerted move 
 
 Yes. I go into more detail [here](https://www.reddit.com/r/AskHistorians/comments/d8u46f/in_19th_century_yunnan_there_was_a_muslim_led/f1cxdae/) in the context of the 'Panthay' Rebellion of 1856-73.
 
+----- __886.4__ -----2022-10-20 16:15:17+08:00:
+
+It is important to understand that 'Hui' is not a term with a fixed meaning. Originally, in official parlance it was used to refer to Turkic Muslim communities, latterly to all Muslims, and today it refers specifically to an ethnic group that is broadly Sinophone Muslim. It is also worth noting that 'Hui' derives etymologically from 'Uighur', and so it is not actually self-evident that the Yunnanese Hui *did* abandon their identity, as opposed to there being a divergence between how that identity was conceived among Yunnanese Muslims, versus Muslims in northwest China and in Turkestan.
+
 ### 887: [Britain, Her Sister Republics, and Russia's Western Holdings in 1795](https://old.reddit.com/r/imaginarymaps/comments/y7e5g4/britain_her_sister_republics_and_russias_western/), submitted on 2022-10-19 02:02:58+08:00.
 
 ----- __887.1__ -----2022-10-19 17:39:50+08:00:
