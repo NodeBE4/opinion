@@ -159,3 +159,31 @@ Re @Wu_Zhi @dw_chinese 政府是德国人选的，一届又一届，走到如今
 
 Re @fading_you1 @jjamesw1 想想中联办在香港的作用与习在事后对他们的处置。
 
+### 37: [2022-10-20 09:17:24+08:00 推文](https://twitter.com/HeQinglian/status/1582903780500131840)
+
+Re @Wu_Zhi @dinglili7 反正美媒这块牌子，说啥都有人跟着叫好。
+
+### 38: [2022-10-20 09:26:39+08:00 推文](https://twitter.com/HeQinglian/status/1582906104819773440)
+
+据英《卫报》18日报道，BBC已准备了一份秘密广播稿，将在英国发生大规模停电和能源短缺时用此稿安抚民众。英国政府会在广播中警告民众注意医院、警察局等系统面临的“极端压力”，网络、银行及电话系统都会出现瘫痪，而政府会尽力在未来的36到48小时内重新恢复供电和天然气。 <a href="https://www.theguardian.com/media/2022/oct/18/bbc-prepares-secret-scripts-for-possible-use-in-winter-blackouts" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/media/2022/oct/18/bbc-prepares-secret-scripts-for-possible-use-in-winter-blackouts</a>
+
+### 39: [2022-10-20 09:29:28+08:00 推文](https://twitter.com/HeQinglian/status/1582906815305875457)
+
+Re 估计所有西方国家都会准备这样一份稿子，如果是美拜登宣传部，内容会加上：这是俄罗斯对伟大民主国家的攻击，是川普当年勾结俄罗斯埋下的病根。
+
+### 40: [2022-10-20 09:32:38+08:00 推文](https://twitter.com/HeQinglian/status/1582907612932079616)
+
+据欧盟外交部发言人纳比尔·马斯拉利（Nabil Massrali）周一在外交部长会议上表示，部长们对伊朗无人机交付的报道“表示担忧”，“有人表示，欧盟应迅速做出反应。既然我们已经收到了足够的证据，欧盟理事会正在努力制定欧盟明确、迅速和坚定的回应”。<br>怎么办？制裁伊朗，拒购石油。
+
+### 41: [2022-10-20 09:43:04+08:00 推文](https://twitter.com/HeQinglian/status/1582910240080953345)
+
+Re @fading_you1 恭喜。很快你会有中国食品超市与饭店了。<br>我们这里，20年前只有两家中国超市，东西不太好。后来最多开到五家，供应丰富。
+
+### 42: [2022-10-20 10:39:24+08:00 推文](https://twitter.com/HeQinglian/status/1582924413879844864)
+
+路透社消息，拜登18日出席民主党全国委员会在华府的一场活动，他站在“恢复罗诉韦德案”的巨大标语前拉票，“最后的决定权并不在法庭上，……这取决于你们。”拜登声明，如果民主党胜利了，他在明年1月提交给国会的第一个法案就是保护女性堕胎权。<br><br>如果再给男性怀孕权，得票更多😂 <a href="https://www.reuters.com/world/us/biden-highlight-choice-facing-voters-abortion-midterms-near-2022-10-18/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/us/biden-highlight-choice-facing-voters-abortion-midterms-near-2022-10-18/</a>
+
+### 43: [2022-10-20 10:45:20+08:00 推文](https://twitter.com/HeQinglian/status/1582925909111476225)
+
+Re @shenliangqing2 @meimei1935 @CrushGFW013 其实不是拜登自家找的，是配给的。
+

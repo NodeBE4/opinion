@@ -2,7 +2,7 @@
 author: nathanlawkc
 categories:
 - Twitter
-date: 2022-10-19
+date: 2022-10-20
 from: https://twitter.com/nathanlawkc/status/1581744221589237760
 layout: post
 tags:
@@ -40,4 +40,8 @@ Re Terrible. <a href="https://hongkongfp.com/2022/10/18/protesters-illegally-e
 ### 6: [2022-10-19 23:01:07+08:00 推文](https://twitter.com/nathanlawkc/status/1582748686286671872)
 
 Friends in the west coast— see you soon!<br><br>Protest and Repression in Hong Kong and Iran: 2019 to 2022<br><br>October 20, 3pm to 4:30pm, at UCI in HIB 135 <a href="https://www.humanities.uci.edu/events/protest-and-repression-hong-kong-and-iran-2019-2022-0" target="_blank" rel="noopener noreferrer">https://www.humanities.uci.edu/events/protest-and-repression-hong-kong-and-iran-2019-2022-0</a>
+
+### 7: [2022-10-20 08:07:43+08:00 推文](https://twitter.com/nathanlawkc/status/1582886241132896256)
+
+Time to get this man out of the country.<br><br>Inzamam Rashid: EXCLUSIVE: “It’s my duty!” Manchester’s Chinese consul general tells me, responding to claims that he pulled a pro-democracy protestor’s hair - following violent clashes on Sunday.  <br>He blames protestors for offensive &amp; harassing banners - which he tore down. @SkyNews<br><br><img style="" src="https://pbs.twimg.com/media/FfdRFBJXEAU1bVO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfdRFBHXoAExGXw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
