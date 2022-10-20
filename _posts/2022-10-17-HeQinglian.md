@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-20
+date: 2022-10-21
 from: https://twitter.com/HeQinglian/status/1581786526010441729
 layout: post
 tags:
@@ -198,4 +198,28 @@ Re @Wu_Zhi @Qing2022022 奥巴马敦促提醒基辅注意允许的范围<br><br>
 ### 46: [2022-10-20 23:19:03+08:00 推文](https://twitter.com/HeQinglian/status/1583115588703965184)
 
 Re @Bowen900493541 @RFI_Cn 哪里，就这家媒体，昨天还在说普京日子很难过。
+
+### 47: [2022-10-21 00:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1583129159059968000)
+
+Re @0HCAvycgN60lwXM 你可能没弄清楚：堕胎权不是取消，是发还各州，由各州自决。<br>无非是少数不允许堕胎的人要花钱去允许的州去。
+
+### 48: [2022-10-21 00:28:22+08:00 推文](https://twitter.com/HeQinglian/status/1583133032105377793)
+
+Re @Wu_Zhi @JianglinLi @RFI_Cn 现在的问题是：俄罗斯如果不用核战就能取得胜利，谁来制造这一假旗事件？<br>信誉已经在北溪炸管上透支太多，除了乌粉之外，世界还有很多正常思维者。
+
+### 49: [2022-10-21 01:28:45+08:00 推文](https://twitter.com/HeQinglian/status/1583148228937408512)
+
+40天之内：<br>英国首相特拉斯辞职 执政保守党将再一次选举党魁<br>英国执政党保守党因袖珍预算案导致的财政风暴面临巨大政治压力，特拉斯执政45天之后宣布辞职，成为英国有史以来任期最短的首相<br>英国首相特拉斯就减税政策错误道歉，但拒绝辞职<br>特拉斯：英国首相又出一位“铁娘子”？ <a href="https://www.bbc.com/zhongwen/simp" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp</a>
+
+### 50: [2022-10-21 01:33:27+08:00 推文](https://twitter.com/HeQinglian/status/1583149409872642048)
+
+Re @JianglinLi @david_david1968 这位特拉斯排名32位，“三哥”何指？如果是那位与她争锋的财政大臣，保守党已经明言，不会是他。
+
+### 51: [2022-10-21 01:35:33+08:00 推文](https://twitter.com/HeQinglian/status/1583149936455340032)
+
+Re @KELMAND1 @kugi55 做列强是好事，但要有实力。否则象小泽同志一样，自己倒是做了一段世界级英雄（比特拉斯的44天风光），想批谁就批谁，但国家就是做不成列强。
+
+### 52: [2022-10-21 01:36:31+08:00 推文](https://twitter.com/HeQinglian/status/1583150180013965313)
+
+Re @JianglinLi @Wu_Zhi @RFI_Cn 好象正在商量金砖圈儿如何起名，有人建议就叫BRICKS+。
 
