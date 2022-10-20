@@ -233,7 +233,7 @@ Re @gmzhaogmailcom1 你还是先帮欧盟找着天然气、石油等能源替代
 
 ### 55: [2022-05-19 20:39:12+08:00 推文](https://twitter.com/HeQinglian/status/1527267629915938817)
 
-评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？
+评论一下2020年以来美国的取消文化，至少告诉世人，那是允许一种还是多种声音存在。<br>政府控制言论，目前不能堂皇登场；但政党唆使取消文化这种群众运动，与毛的文革发动群众斗群众，有什么区别？<br><br>美国之音中文网: 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言<br> <a href="http://dlvr.it/SQdBq4" target="_blank" rel="noopener noreferrer">http://dlvr.it/SQdBq4</a>
 
 ### 56: [2022-05-19 20:59:01+08:00 推文](https://twitter.com/HeQinglian/status/1527272617102741507)
 
@@ -265,7 +265,7 @@ Re @franktianxie @dajiyuan 最近认知战影响很大，梦想现在越来越�
 
 ### 63: [2022-05-20 08:04:38+08:00 推文](https://twitter.com/HeQinglian/status/1527440122161029122)
 
-这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。
+这个委员会将与拜登曲线一样，是美国史上的耻辱——当然，这得要美国今后不是左派的美国。<br><br>北美保守评论🇺🇸🇨🇦: 《“虚假信息委员会”心虚停业 委员会主任自觉下岗》<br><br>国土安全部之下的 “虚假信息治理委员会” —— 美国的 “真理部”、“中宣部”，以便从联邦政府层面加强舆论和新闻审查，限制、扼杀言论自由，这明显是违背美国宪法第一修正案的。这种想法是由他们左派极权主义的思维方式决定的。<br><br><img style="" src="https://pbs.twimg.com/media/FTJ0D9QWUA0zgFA?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/05/19/dhs-disinformation-chief-quits-after-board-is-put-on-hold/</a>
 
 ### 64: [2022-05-20 08:09:08+08:00 推文](https://twitter.com/HeQinglian/status/1527441254446948368)
 
@@ -385,7 +385,7 @@ Re @FranzMendelsso1 奥巴第一次选举，在某县就遭遇选民空前热情
 
 ### 93: [2022-05-21 09:21:07+08:00 推文](https://twitter.com/HeQinglian/status/1527821757394067456)
 
-以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。
+以前一谈起袁克定为其父袁世凯办一份专供皇上御览的《顺天时报》，人人充满了嘲笑之情。今后不必嘲笑了，只要合适，哪个左派国家都会出现真理部——不幸的是，左派现在很得势，到处都是马克思、新马、变种马（法兰克福学派各种传人）当政的国家。<br><br>He Qinglian: 美国反虚假信息工作组：争议中的“真理部”尚未满月被叫停<br><br>报道说：<br>“该工作组自4月27日成立以来，引发了主要来自右翼和公民社团的大规模抗议”——意思是左派很欢迎。<br>整篇评论对真理部被关停充满了惋惜。<br>建议英国赶紧成立类似部门，BBC派员负责。<br> <a href="https://www.bbc.com/zhongwen/simp/world-61521549" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/world-61521549</a>
 
 ### 94: [2022-05-21 09:25:47+08:00 推文](https://twitter.com/HeQinglian/status/1527822932399034370)
 

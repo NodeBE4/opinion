@@ -249,7 +249,7 @@ Re @princeton_walk 据说是俄海军太弱，管理不善，某些装置没启�
 
 ### 59: [2022-04-18 21:19:31+08:00 推文](https://twitter.com/HeQinglian/status/1516043752074326019)
 
-RT He Qinglian<br>Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
+Re @yu_su_chen 你说的自宫，美国一直在做。<br>俄乌战争那么吃紧，拜登都始终未忘本国公民的生殖器官阉割问题，提拔了一位变性人（男变女）做能源部长，号召全美未成年人自主变性，父母干涉就是违法。<br>就算天塌下来，拜登也不会忘记这件自宫大事。<br>有时我怀疑金老爷子说的《葵花宝典》被倒卖到美国，被民主党捡了漏。
 
 ### 60: [2022-04-18 21:20:55+08:00 推文](https://twitter.com/HeQinglian/status/1516044104534310912)
 
@@ -973,7 +973,7 @@ Re @JianglinLi @Wu_Zhi 好象正主儿们都没欢庆吧？<br>对双方而言�
 
 ### 240: [2022-04-24 21:37:06+08:00 推文](https://twitter.com/HeQinglian/status/1518222501918224385)
 
-感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。
+感言：<br>The media has always been the best friend of those who are willing to believe them.（媒体从来都是那些愿意相信它们的人的好朋友）。<br>Guadian这篇评论文章惹祸了，因为它预测普京要赢。🤣失去民心失订户。<br><br>Junson Chan 🇺🇸: The guardian is now saying Putin may win in the Ukraine. <br><br>People are stupid though, they'll always believe the media, never questioning ever "hey, these idiots have always lied and been wrong, what does that make me?"<br> <a href="https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2022/apr/24/the-awful-truth-is-dawning-putin-may-win-in-ukraine-the-result-would-be-catastrophe</a>
 
 ### 241: [2022-04-24 21:45:34+08:00 推文](https://twitter.com/HeQinglian/status/1518224635225161730)
 
