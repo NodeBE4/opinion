@@ -223,3 +223,15 @@ Re @KELMAND1 @kugi55 做列强是好事，但要有实力。否则象小泽同�
 
 Re @JianglinLi @Wu_Zhi @RFI_Cn 好象正在商量金砖圈儿如何起名，有人建议就叫BRICKS+。
 
+### 53: [2022-10-21 05:20:43+08:00 推文](https://twitter.com/HeQinglian/status/1583206601959256064)
+
+10月19日，哥伦比亚总统古斯塔沃·佩特罗在乌拉巴安蒂奥克尼奥市的演讲中说，指责美国为了保护自己而破坏了世界上几乎所有的经济体，而不管其他国家会发生什么。<br><br>实话实说，拜登政府在破坏美国法治、经济、社会以推行大重置方面，堪称模范。如果不是选情告急，决不会放缓步伐。 <a href="https://www.telesurenglish.net/news/Colombian-President-Accuses-US-of-Ruining-World-Economies-20221019-0011.html" target="_blank" rel="noopener noreferrer">https://www.telesurenglish.net/news/Colombian-President-Accuses-US-of-Ruining-World-Economies-20221019-0011.html</a>
+
+### 54: [2022-10-21 05:34:55+08:00 推文](https://twitter.com/HeQinglian/status/1583210177607917568)
+
+Re @xchen62 有件事情，咱们继续观察。<br>英国扮演鹰派，背后有推手。查理国王对大重置的迷恋，世人皆知。没有英的配合，拜登不可能闹得这么欢畅。<br>已经有人事先放风，英相人选不是那位印裔财长，另有备胎——备胎是什么人，行什么政，咱们继续观察。
+
+### 55: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
+
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
+
