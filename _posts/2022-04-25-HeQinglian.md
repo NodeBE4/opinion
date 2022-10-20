@@ -225,7 +225,7 @@ Re @TONY19891989 @FightForJiuCai 还以为真理在手，加上仇恨在胸，�
 
 ### 53: [2022-04-28 03:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1519399528176271360)
 
-路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？ <a href="https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/" target="_blank" rel="noopener noreferrer">https://www.reuters.com/world/europe/eu-looks-ramping-up-covid-vaccinations-kids-developing-antivirals-2022-04-27/</a>
+路透：<br>欧盟估计超80%的人群感染过covid-19<br>EU estimates up to 80% of population has had COVID<br><br>既然中国今后还要对EU、美国等保持门户开放，还搞什么清零？来个美国人、欧洲人说不定就是病毒载体。承认群体免疫已经形成，少折腾百姓难道不行么？<br><br>北明BeiMing: 上海疫情，ICU醫生怒而發言： <br><br>你们都什么专业要挑战人家吃饭的本事。这种脑子送给我们神经外科研究一下，为什么会长成这样。<br><br>張文宏月份就预见omicron的影响, 建議上海針對疫情規模，超過5到10倍的預警案，提出各項具體措施。<br><br>控制民间舆论，业内的也控制，發國難財……。<br><br><img style="" src="https://pbs.twimg.com/media/FRXaPX9XoAoRJjv?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/BoBdn1VsREAH4VU3sbi95Q</a>
 
 ### 54: [2022-04-28 03:36:01+08:00 推文](https://twitter.com/HeQinglian/status/1519399992141750273)
 
@@ -365,7 +365,7 @@ Re @o2pIHqzvuxGd9Uu “贪婪无度”，不说历史，就说近20年，最好�
 
 ### 88: [2022-04-28 22:04:02+08:00 推文](https://twitter.com/HeQinglian/status/1519678831782764544)
 
-这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。
+这是美国的现代货币理论：只要美元是世界硬通货，美元发行可以无上限，通胀可以外溢，全世界承受。<br>奥巴马最喜欢这理论了。民主党奉若圭臬。 <a href="https://twitter.com/kingbull199/status/1519672901183500288" target="_blank" rel="noopener noreferrer">https://twitter.com/kingbull199/status/1519672901183500288</a>
 
 ### 89: [2022-04-28 22:32:28+08:00 推文](https://twitter.com/HeQinglian/status/1519685988230082563)
 
@@ -489,7 +489,7 @@ Re @xchen156 我这些天研究了一下关于中国为何要做完全不可能�
 
 ### 119: [2022-05-01 06:54:22+08:00 推文](https://twitter.com/HeQinglian/status/1520537070875328512)
 
-RT He Qinglian<br>欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
+欧盟接受群体免疫  中国为何坚持清零？<br><br>中国坚持清零有内外双重目标：<br>对内，测试中国政府对社会的强管控能力。<br>对外，测试中国在国际经济中有多重份量。选择上海清零不为无因。早在今年1月，IMF总裁公开表示，中国应重新评估其“清零”政策，否则将对中国和全球经济构成负担。 <a href="https://www.epochtimes.com/gb/22/4/30/n13724337.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/4/30/n13724337.htm</a>
 
 ### 120: [2022-05-01 08:32:16+08:00 推文](https://twitter.com/HeQinglian/status/1520561706983993345)
 
