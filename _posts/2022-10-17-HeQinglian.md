@@ -187,3 +187,11 @@ Re @fading_you1 恭喜。很快你会有中国食品超市与饭店了。<br>我
 
 Re @shenliangqing2 @meimei1935 @CrushGFW013 其实不是拜登自家找的，是配给的。
 
+### 44: [2022-10-20 20:12:42+08:00 推文](https://twitter.com/HeQinglian/status/1583068691281108992)
+
+Re @Wu_Zhi @Qing2022022 奥巴马敦促提醒基辅注意允许的范围<br><br>“我们必须诚实地告诉乌克兰，我们能做什么不能做什么。美国、北约和其他国家应考虑到，俄乌之间的冲突可能发展成俄美和北约之间的局势升级，要独立确定界限。华盛顿及其盟友应该考虑向乌克兰运送哪些武器以及如何提供支持”。<br>后台老板到前台 <a href="https://sputniknews.cn/20221020/1044866822.html" target="_blank" rel="noopener noreferrer">https://sputniknews.cn/20221020/1044866822.html</a>
+
+### 45: [2022-10-20 20:26:56+08:00 推文](https://twitter.com/HeQinglian/status/1583072273078321152)
+
+乌克兰基础设施被炸毁 今起限用能源 <br>评：昨天还是一片形势大好，全世界就中国有严重问题。结果今天看到这条消息。<br>奥巴马已经从地下指挥所走到地面了，见美国前总统奥巴马在接受 《Pod Save America》节目采访时内容。前台的拜登现在主要关心中期选举。 <a href="https://rfi.my/8pws.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8pws.T</a>
+
