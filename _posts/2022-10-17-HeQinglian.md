@@ -195,3 +195,7 @@ Re @Wu_Zhi @Qing2022022 奥巴马敦促提醒基辅注意允许的范围<br><br>
 
 乌克兰基础设施被炸毁 今起限用能源 <br>评：昨天还是一片形势大好，全世界就中国有严重问题。结果今天看到这条消息。<br>奥巴马已经从地下指挥所走到地面了，见美国前总统奥巴马在接受 《Pod Save America》节目采访时内容。前台的拜登现在主要关心中期选举。 <a href="https://rfi.my/8pws.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8pws.T</a>
 
+### 46: [2022-10-20 23:19:03+08:00 推文](https://twitter.com/HeQinglian/status/1583115588703965184)
+
+Re @Bowen900493541 @RFI_Cn 哪里，就这家媒体，昨天还在说普京日子很难过。
+
