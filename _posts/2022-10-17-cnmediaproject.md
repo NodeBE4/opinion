@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-19
+date: 2022-10-20
 from: https://twitter.com/ProfYangZhang/status/1581677189300654082
 layout: post
 tags:
@@ -189,7 +189,7 @@ RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged C
 
 ### 44: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
 
-A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br> <a href="https://twitter.com/abnersheng/status/1581872470755135488" target="_blank" rel="noopener noreferrer">https://twitter.com/abnersheng/status/1581872470755135488</a>
+A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
 
 ### 45: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
 
@@ -221,7 +221,7 @@ Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic
 
 ### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
 
-On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/ChairmanRabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/ChairmanRabbit/status/1582417462771200000</a>
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/chairmanrabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/chairmanrabbit/status/1582417462771200000</a>
 
 ### 53: [2022-10-19 12:13:03+08:00 推文](https://twitter.com/lauriechenwords/status/1582585595431243777)
 
@@ -238,4 +238,8 @@ RT Marina Rudyak 卢玛丽<br>Having just presented “Aid” at the #Decoding
 ### 56: [2022-10-19 20:15:40+08:00 推文](https://twitter.com/niubi/status/1582707047820189698)
 
 RT Bill Bishop<br>Shanghai will build an isolation facility that can house thousands of people near the center of the city, adding to signs China is unlikely to shift away from Covid Zero any time soon <a href="https://www.bloomberg.com/news/articles/2022-10-19/shanghai-to-build-a-3-250-bed-covid-facility-near-city-center?sref=6ZE6q2XR" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-10-19/shanghai-to-build-a-3-250-bed-covid-facility-near-city-center?sref=6ZE6q2XR</a>
+
+### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
+
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
 
