@@ -61,7 +61,7 @@ In case you missed it: earlier this month CMP looked at the past and current pol
 
 ### 12: [2022-09-30 18:49:32+08:00 推文](https://twitter.com/cnmediaproject/status/1575800004501204992)
 
-And for more on the term "sneaky visit" (窜访), readers can turn to the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/</a>
+And for more on the term "sneaky visit" (窜访), readers can turn to the CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/sneaky-visit/</a> <a href="https://twitter.com/niubi/status/1575620462289092608" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1575620462289092608</a>
 
 ### 13: [2022-09-30 20:12:14+08:00 推文](https://twitter.com/cnmediaproject/status/1575820815513182209)
 

@@ -17,7 +17,7 @@ CMP (中国传媒研究计划) is a research program in partnership with Hong Ko
 
 ### 1: [2022-05-02 11:32:37+08:00 推文](https://twitter.com/puzhiqiang/status/1520969483350814720)
 
-RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。
+RT 浦志强<br>我当然乐见中美关系恢复正常，但真想释放善意，至少换个人传递声音才行，阴阳怪气松松垮垮嘴脸道貌岸然的不行，所以赵立坚、汪文斌、华春莹都得换才行。我估计，环球时报、观察者网、共青团中央，加上外交部这三位发言人，乃至其部长王毅，已然是外国人眼中，中国的象征了。<br><br>新闻调查: 赵战狼收敛言辞，话风急转，修补中美关系。请求在座记者多做促进中美人民友谊的事情<br><br><video src="https://video.twimg.com/ext_tw_video/1520617504942731265/pu/vid/848x560/crGzKU-GxPLUtpVa.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1520617504942731265/pu/img/7A1kdP3cG2dds8V9.jpg"></video>
 
 ### 2: [2022-05-02 21:31:13+08:00 推文](https://twitter.com/RuanVictoria/status/1521120126862508032)
 
@@ -61,7 +61,7 @@ RT Kenneth Roth<br>Because of Beijing's "national security" law, "Hong Kong, o
 
 ### 12: [2022-05-04 17:23:00+08:00 推文](https://twitter.com/Tominmedill/status/1521782435452706816)
 
-RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").<br><br>Edward Lawrence: As already mentioned, four days ago we were meant to be released and allowed into our sub-district due to not having any cases for weeks, but compound management won't allow it - and the final decision is theirs. Guess they don't want to risk any consequences if it goes wrong...<br>
+RT Thomas Yau<br>1/2 A major controversy in #Shanghai lockdown is how much power does neighbourhood committees ("Ju Wei") have. Technically they are self-governing bodies of residents, but in reality they are under the leadership of street admin ("Jie Dao").
 
 ### 13: [2022-05-05 04:02:14+08:00 推文](https://twitter.com/osmastro/status/1521943301586313219)
 

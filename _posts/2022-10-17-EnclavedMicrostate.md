@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-19
+date: 2022-10-20
 from: https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/
 layout: post
 tags:
@@ -71,9 +71,19 @@ When the revolution took place in 1911, Tibet declared its independence, but so 
 
 As for other ethnic groups, there is no single reason why a more concerted move towards independence did not take place, but an argument can be made for the principal factor being their lack of discrete overarching identities, and thus any ability or intent to organise themselves as a group towards achieving some kind of independent statehood. There simply wasn't a political institution or even just a broad group consciousness uniting, say, the Miao, the Zhuang, or the Solons into a coherent force that might successfully press for freedom from impending Han Chinese rule. That said, study of these minority groups in general is quite sparse, and especially so in relation to the late Qing and revolutionary periods, so we may gain better insight in future. Nevertheless, we are unlikely to find anything that would radically disrupt the idea that ethnic groups outside the 'big five' simply lacked the means or the motive (or both) to establish independent state entities.
 
+----- __886.3__ -----2022-10-20 15:12:51+08:00:
+
+Yes. I go into more detail [here](https://www.reddit.com/r/AskHistorians/comments/d8u46f/in_19th_century_yunnan_there_was_a_muslim_led/f1cxdae/) in the context of the 'Panthay' Rebellion of 1856-73.
+
 ### 887: [Britain, Her Sister Republics, and Russia's Western Holdings in 1795](https://old.reddit.com/r/imaginarymaps/comments/y7e5g4/britain_her_sister_republics_and_russias_western/), submitted on 2022-10-19 02:02:58+08:00.
 
 ----- __887.1__ -----2022-10-19 17:39:50+08:00:
 
 I'd swap in 'Britannia' for 'Britain' – the 'ain' in 'Britain' is quite a weak syllable to stress.
+
+### 888: [The people's wife](https://old.reddit.com/r/Hololive/comments/y8k5fq/the_peoples_wife/), submitted on 2022-10-20 09:14:39+08:00.
+
+----- __888.1__ -----2022-10-20 15:24:29+08:00:
+
+See, I was thinking that it was the case that people in their friends group were choosing to get married outside Japan in case VTubers got recognised and doxxed at the wedding. This... makes more *and* less sense at the same time.
 
