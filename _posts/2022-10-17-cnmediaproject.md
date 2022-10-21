@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-21
+date: 2022-10-22
 from: https://twitter.com/ProfYangZhang/status/1581677189300654082
 layout: post
 tags:
@@ -221,7 +221,7 @@ Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic
 
 ### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
 
-On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br>
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/ChairmanRabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/ChairmanRabbit/status/1582417462771200000</a>
 
 ### 53: [2022-10-19 12:13:03+08:00 推文](https://twitter.com/lauriechenwords/status/1582585595431243777)
 
@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -286,4 +286,8 @@ Re The term also appeared in the report by Hua Guofeng (华国锋) to the 11th C
 ### 68: [2022-10-21 21:30:22+08:00 推文](https://twitter.com/cnmediaproject/status/1583450624506535936)
 
 Re @BeatriceGallel1 That's right. We wrote about that here: <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a>
+
+### 69: [2022-10-22 06:48:45+08:00 推文](https://twitter.com/cnmediaproject/status/1583591146466340864)
+
+Re Important to note that in Xi's 2017 formulation, intra-party democracy was not an aspiration but a claimed achievement -- even as he consolidated power.
 
