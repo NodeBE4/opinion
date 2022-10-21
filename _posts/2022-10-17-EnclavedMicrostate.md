@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-20
+date: 2022-10-21
 from: https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/
 layout: post
 tags:
@@ -89,4 +89,12 @@ I'd swap in 'Britannia' for 'Britain' – the 'ain' in 'Britain' is quite a weak
 ----- __888.1__ -----2022-10-20 15:24:29+08:00:
 
 See, I was thinking that it was the case that people in their friends group were choosing to get married outside Japan in case VTubers got recognised and doxxed at the wedding. This... makes more *and* less sense at the same time.
+
+### 889: [Why wasn't the Qing Dynasty of China able to successfully modernize and organize its military to the extent Imperial Japan was?](https://old.reddit.com/r/WarCollege/comments/y9dl5p/why_wasnt_the_qing_dynasty_of_china_able_to/), submitted on 2022-10-21 07:35:26+08:00.
+
+----- __889.1__ -----2022-10-21 15:26:31+08:00:
+
+> Earlier historians portrayed this as a voluntary action, but the reality revealed by newly translated primary sources is that Ci Xi was forced from power by her enemies, chief among them Grand Tutor Weng.
+
+I'm interested in whether you can point me to some secondary literature covering this – it does sort of gel with my understanding but I don't think I have come across anything concretely covering this period.
 
