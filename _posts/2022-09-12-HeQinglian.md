@@ -381,7 +381,7 @@ Re @jumperoverfgw 俄军已经死了好多将军了，你这名字不在名单�
 
 ### 92: [2022-09-13 21:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1569675511311261697)
 
-RT He Qinglian<br>Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
+Re @Cuperti62009250 从头到尾，我在为信息的真实性努力。<br>以正义之名撒谎，也是谎言。因为正义的标准，从来是主观的，尤其是左派与独裁者，都认为自己是正义化身。<br>请推友评评理，我们需要信息的真实性，还是需要听谎言。
 
 ### 93: [2022-09-13 21:20:16+08:00 推文](https://twitter.com/HeQinglian/status/1569677344285270017)
 
@@ -577,7 +577,7 @@ Re @FranzMendelsso1 人生大戏台，戏台小人生。
 
 ### 141: [2022-09-14 09:50:13+08:00 推文](https://twitter.com/HeQinglian/status/1569866072848728065)
 
-Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/YutianZhouxh/status/1568072737922469888" target="_blank" rel="noopener noreferrer">https://twitter.com/YutianZhouxh/status/1568072737922469888</a>
+Re @KELMAND1 附上推友的比较图，做驻颜生发纯净水广告参考。<br><br>Franz Mendelssohn: 大图中被俘的俄军中校是不是小图中的俄军中将，各位可自行判断。<br><br><img style="" src="https://pbs.twimg.com/media/FcNhnFgaQAAeTa5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 142: [2022-09-14 09:58:36+08:00 推文](https://twitter.com/HeQinglian/status/1569868182256553984)
 
@@ -1009,5 +1009,5 @@ Re @JianglinLi 这次欧盟受损，除了能源短缺之外，最大的损失�
 
 ### 249: [2022-09-18 20:24:29+08:00 推文](https://twitter.com/HeQinglian/status/1571475244095000579)
 
-事到如今，还认为只有中共政治是站边，民主国家不站边，恐怕得修正看法了。<br>西方本来就是党派政治。以美国为例，2016以前，是两派还多少保持一点共同底线。自那以后没有了，与中共党内政治一样，都得选边站。<br>流风所及，每有大事发生，社交媒体上选边站蔚然成风。哪个语种都概莫能外，素质差的直接开骂<br><br>蔡霞: 我的同学毕业后进了海里工作，有一次聊天，他不无感慨地说，最初他进海里，一个对他很好的老领导说：这里没有对错，只有“站边”。<br>他当时还不能清楚理解，待的时间越长越感到那个老领导说的千真万确。习使刘亚洲兄弟突然“失联”，就是警告军中将领必须站边。<br>
+事到如今，还认为只有中共政治是站边，民主国家不站边，恐怕得修正看法了。<br>西方本来就是党派政治。以美国为例，2016以前，是两派还多少保持一点共同底线。自那以后没有了，与中共党内政治一样，都得选边站。<br>流风所及，每有大事发生，社交媒体上选边站蔚然成风。哪个语种都概莫能外，素质差的直接开骂<br><br>蔡霞: 我的同学毕业后进了海里工作，有一次聊天，他不无感慨地说，最初他进海里，一个对他很好的老领导说：这里没有对错，只有“站边”。<br>他当时还不能清楚理解，待的时间越长越感到那个老领导说的千真万确。习使刘亚洲兄弟突然“失联”，就是警告军中将领必须站边。<br> <a href="https://twitter.com/lianchaohan/status/1571096440281387009" target="_blank" rel="noopener noreferrer">https://twitter.com/lianchaohan/status/1571096440281387009</a>
 
