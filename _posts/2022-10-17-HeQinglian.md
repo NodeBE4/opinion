@@ -241,7 +241,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：�
 
 ### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
-此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br> <a href="https://twitter.com/echo_chamberz/status/1582504597804834817" target="_blank" rel="noopener noreferrer">https://twitter.com/echo_chamberz/status/1582504597804834817</a>
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
 
 ### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
 
@@ -306,4 +306,32 @@ Re @xchen62 @Wu_Zhi 英国重新回欧盟，如果不甘心当老三，就趁机
 ### 73: [2022-10-21 20:55:27+08:00 推文](https://twitter.com/HeQinglian/status/1583441838106898434)
 
 Re @Tepezano161 @dinglili7 人家索罗斯说得很清楚，不再按传统划分国界，全球化，世界一统。
+
+### 74: [2022-10-21 21:29:20+08:00 推文](https://twitter.com/HeQinglian/status/1583450365428903936)
+
+Re @HettyJ008 去年费城那位华裔女高中生被几位女BLM群殴之后，她与母亲哭诉的就是“我们都支持BLM”，其母还说自己发起一个群体支持。<br>纽约那位被推下地铁的华人女士，多年来为纽约收容所做义工，帮助受压迫的BLM。
+
+### 75: [2022-10-21 21:49:52+08:00 推文](https://twitter.com/HeQinglian/status/1583455531749949440)
+
+Re @david_david1968 @YouTube 我今天也在读这篇讲话。颇有心得。
+
+### 76: [2022-10-21 21:54:34+08:00 推文](https://twitter.com/HeQinglian/status/1583456714325565441)
+
+Re @KELMAND1 关于越南制造，前一向美国因中国供应链不畅，提出越南加大出口，越方回说，许多产品的部件（包括服装）都从中国进口，他们完成组装工序。中国不供应，他们没办法多生产。<br>这是当年对中国加关税之后，中国厂商的变通之法，比如服装的领子、袖子全部生产好，放到越南组装。但越南技术差，袖子接得难看。
+
+### 77: [2022-10-21 21:55:40+08:00 推文](https://twitter.com/HeQinglian/status/1583456989556117505)
+
+Re @david_david1968 我是与索罗斯1993年11月1日讲话比照着看——估计普京那时也未想到这层。
+
+### 78: [2022-10-21 22:22:49+08:00 推文](https://twitter.com/HeQinglian/status/1583463822051790850)
+
+美军将领示警中最快2022年犯台 白宫：没有冲突理由 <br>评：2022年还剩下70天，美国中选前为17天。习近平要打就趁这17天，拯救民主党。一则方便拜登-民主党以战时为理由，为中选按下暂停键。二则为北约减压。 <a href="https://rfi.my/8q2R.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8q2R.T</a>
+
+### 79: [2022-10-21 22:57:56+08:00 推文](https://twitter.com/HeQinglian/status/1583472661606191104)
+
+10月21日早，俄罗斯国防部部长绍伊古与美国国防部长奥斯汀通话讨论了包括乌克兰局势在内的国际安全热点问题。<br>俄美两国防长上一次电话交谈是在今年5月13日举行。<br>疑问：双方到底讨论什么？进攻时间、使用的武器类别？如果是这，干脆休战算了。 <a href="https://sputniknews.cn/20221021/1044922826.html" target="_blank" rel="noopener noreferrer">https://sputniknews.cn/20221021/1044922826.html</a>
+
+### 80: [2022-10-21 23:34:43+08:00 推文](https://twitter.com/HeQinglian/status/1583481919639257089)
+
+Re @JianglinLi 请注意今天法广那条美将军说习在2022年将攻台的消息。
 
