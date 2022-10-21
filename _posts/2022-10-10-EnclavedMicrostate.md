@@ -207,3 +207,11 @@ So, out of sheer curiosity, which of Singapore's 4+ main languages was the dub d
 
 I know, and as noted, I suspect the difficulty of adapting the twist to film was what led them to instead choose the safer (read: more cowardly) option of a more conventional whodunnit story.
 
+----- __882.7__ -----2022-10-22 07:14:31+08:00:
+
+Sure, but I don't even think that's what Malleon was saying – the issue was *agreeing* to hire her.
+
+----- __882.8__ -----2022-10-22 07:15:12+08:00:
+
+That's what got me – if Delutaya's timeline is accurate, Mikeneko's insinuations would have been around the time she debuted her Live2D model, and surely far from coincidental.
+

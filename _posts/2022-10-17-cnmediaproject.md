@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -287,7 +287,15 @@ Re The term also appeared in the report by Hua Guofeng (华国锋) to the 11th C
 
 Re @BeatriceGallel1 That's right. We wrote about that here: <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a>
 
-### 69: [2022-10-22 06:48:45+08:00 推文](https://twitter.com/cnmediaproject/status/1583591146466340864)
+### 69: [2022-10-22 03:26:45+08:00 推文](https://twitter.com/niubi/status/1583540310948204544)
+
+RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 70: [2022-10-22 06:48:45+08:00 推文](https://twitter.com/cnmediaproject/status/1583591146466340864)
 
 Re Important to note that in Xi's 2017 formulation, intra-party democracy was not an aspiration but a claimed achievement -- even as he consolidated power.
+
+### 71: [2022-10-22 07:39:56+08:00 推文](https://twitter.com/cnmediaproject/status/1583604027245309953)
+
+When looking at the 20th report, phrases like 人民领袖 are crucial -- but many other term fragments here deserve caution.<br><br>Vicky Xu / 许秀中: 我和@nrg8000把“人民领袖”习近平这次20大的报告和之前19、18、17、16大的报告比较了一下。我们分析了关键词在每小时被提及的次数<br><br>大家来看看数据：左图是习反复提及，而胡锦涛江泽民较少提的（斗争、自信、外部势力、意识形态、人类等）；右图是胡江提得较多，习不再提的（和平、教育、市场、企业等）<br><br><img style="" src="https://pbs.twimg.com/media/FfkXGOQaUAEejJi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfkXGObaEAEFm3Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
