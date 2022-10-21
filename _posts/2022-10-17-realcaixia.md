@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-19
+date: 2022-10-21
 from: https://twitter.com/realcaixia/status/1582110371992653824
 layout: post
 tags:
@@ -73,5 +73,9 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
-英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br> <a href="https://twitter.com/JamesCleverly/status/1582410222735196160" target="_blank" rel="noopener noreferrer">https://twitter.com/JamesCleverly/status/1582410222735196160</a>
+
+### 16: [2022-10-21 21:23:27+08:00 推文](https://twitter.com/realcaixia/status/1583448884675678208)
+
+特别推荐：#议报【议想天开】开出孤勇者专题，特推荐推友们分享。孤胆英雄彭载舟先生为大陆中国人争人权争自由，舍个人生命安全于不顾，他的壮举令世界震动，令许多人动容。<br>开辟孤勇者专题，让我们与彭载舟先生一起，以我们各自的方式继续彭载舟先生的努力。<br><br>《议报》: 宛如“坦克人”從一九八九年六月四日的天安門廣場穿行而來，這一次他被傳頌的名字是“孤勇者”，這一次他站立的地方是北京北三環四通橋，這一次的時間是二O二二年的十月十三日。<br>[議想天開】· 孤勇者專題<br> <a href="https://yibaochina.com/?p=248061" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248061</a>
 

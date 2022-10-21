@@ -241,7 +241,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：�
 
 ### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
-此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br> <a href="https://twitter.com/echo_chamberz/status/1582504597804834817" target="_blank" rel="noopener noreferrer">https://twitter.com/echo_chamberz/status/1582504597804834817</a>
 
 ### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
 
@@ -261,7 +261,7 @@ Re @FangYiDuan1 @RFI_Cn 左派是通过社会运动（反抗）起家的，左�
 
 ### 62: [2022-10-21 09:17:42+08:00 推文](https://twitter.com/HeQinglian/status/1583266243435704320)
 
-在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a>
+在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a> <a href="https://twitter.com/JianglinLi/status/1582668508868988929" target="_blank" rel="noopener noreferrer">https://twitter.com/JianglinLi/status/1582668508868988929</a>
 
 ### 63: [2022-10-21 09:54:11+08:00 推文](https://twitter.com/HeQinglian/status/1583275422980009984)
 
@@ -270,4 +270,40 @@ Re @Wu_Zhi @xchen62 刚才看到有消息，三位竞争者当中，包括金毛
 ### 64: [2022-10-21 09:55:02+08:00 推文](https://twitter.com/HeQinglian/status/1583275638970281984)
 
 Re @Tepezano161 你难道一点也不看左派的重要文献？你要什么样的实证？
+
+### 65: [2022-10-21 19:11:00+08:00 推文](https://twitter.com/fading_you1/status/1583415549731557376)
+
+RT 天降伟人包由检<br>其实嘛，我非常赞成特拉斯减税政策。但你一边减税，一边真金白银的填乌克兰那无底洞。英国人都做冬天断电断煤气的准备了，你还唱高调。你说老百姓冬天都吃不上热饭了，会有心情支持乌克兰？坐在火炉边喝着热咖啡的时候喊口号那是没问题的，起身往窗户上贴个乌克兰国旗也行，可真牵走家里那头牛可不行啊
+
+### 66: [2022-10-21 19:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1583424832909475840)
+
+Re @Tepezano161 拜托你仔细读索罗斯的文章。人家的纲领是以北约为组织，以美国为具体执行者，其他的为响应者，一步一步走过来的。<br>这文章，我早就读过，但不到如今，不会有人认真对待。
+
+### 67: [2022-10-21 19:55:51+08:00 推文](https://twitter.com/HeQinglian/status/1583426836180393986)
+
+Re @fading_you1 从乌克兰过往的历史来说，领导层不会发展经济，但会放纵地下经济。<br>如果停战，援助就是一次性战后援建，今后怎么办？因此，与俄是停战，还是继续2014年之后的局面？也得费尽思量，还得看俄罗斯干不干。<br>因此，我充分理解小泽说永不谈判。话说，西方担保的《明斯克协议》有何作用？
+
+### 68: [2022-10-21 20:00:28+08:00 推文](https://twitter.com/HeQinglian/status/1583427999625453568)
+
+Re @fading_you1 你这主意甚妙。<br>按美国规矩，心理认同性别即可。就是常委中选谁担当自我认同为女性这一重任的问题。<br>少数崇“拜”的极端政治反对者是拜登美国花好月圆万事皆人类标杆，应该对此衷心拥护。
+
+### 69: [2022-10-21 20:02:37+08:00 推文](https://twitter.com/HeQinglian/status/1583428540443152385)
+
+Re @xchen62 @Wu_Zhi 那就由美拜登政府直接委任，免得折腾英国人。
+
+### 70: [2022-10-21 20:06:45+08:00 推文](https://twitter.com/HeQinglian/status/1583429580026966016)
+
+Re @dinglili7 问题是，比利时帮助了多少？如果他说比利时领导不断激励比利时人民，我就真服了。
+
+### 71: [2022-10-21 20:52:42+08:00 推文](https://twitter.com/HeQinglian/status/1583441145962827776)
+
+Re @fading_you1 按这位最近的表现来看，有时候忘记自己的角色，有点“主观能动性”了，因此华邮报道，拜登警告他，不可以再抱怨武器给得少，否则……。
+
+### 72: [2022-10-21 20:54:33+08:00 推文](https://twitter.com/HeQinglian/status/1583441611824168963)
+
+Re @xchen62 @Wu_Zhi 英国重新回欧盟，如果不甘心当老三，就趁机与德法争一争老大位置。<br>不过，德国那老大不是白给的，拿钱换来的。
+
+### 73: [2022-10-21 20:55:27+08:00 推文](https://twitter.com/HeQinglian/status/1583441838106898434)
+
+Re @Tepezano161 @dinglili7 人家索罗斯说得很清楚，不再按传统划分国界，全球化，世界一统。
 
