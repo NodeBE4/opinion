@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2021-11-22~2021-11-28'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent research program and think
+The China Media Project (中国传媒研究计划) is an independent think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}

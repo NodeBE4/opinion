@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-05-30~2022-06-05'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent research program and think
+The China Media Project (中国传媒研究计划) is an independent think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -29,7 +29,7 @@ RT Nerys Avery<br>“The media briefing itself was run by the visiting governm
 
 ### 4: [2022-05-31 19:10:03+08:00 推文](https://twitter.com/LHongqiao/status/1531593849101070343)
 
-RT Hongqiao Liu<br>Re Wonder why I launch a free newsletter on China/climate?<br><br>I explained it in a recent conversation with @schoenmakersk (who edits the newsletter) @cnmediaproject<br><br>Long story short: I believe in the power of journalism in fast-tracking the green transition <a href="https://twitter.com/LHongqiao/status/1525026729009598464?s=20&amp;t=mzNiDMW0HZjkWTpGSX84Jg" target="_blank" rel="noopener noreferrer">https://twitter.com/LHongqiao/status/1525026729009598464?s=20&amp;t=mzNiDMW0HZjkWTpGSX84Jg</a>
+RT Hongqiao Liu<br>Re Wonder why I launch a free newsletter on China/climate?<br><br>I explained it in a recent conversation with @schoenmakersk (who edits the newsletter) @cnmediaproject<br><br>Long story short: I believe in the power of journalism in fast-tracking the green transition<br><br>Hongqiao Liu: With @schoenmakersk, I discussed:<br><br>Investigative journalism exists/-ed in China, and it once enabled social changes<br><br>Over the last decade, environmental journalism went from a burgeoning beat to an underfunded afterthought<br><br>Too much strategic comms, too little quality journalism<br> <a href="https://twitter.com/cnmediaproject/status/1525018040978767872" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1525018040978767872</a>
 
 ### 5: [2022-05-31 22:11:52+08:00 推文](https://twitter.com/cnmediaproject/status/1531639603610144768)
 

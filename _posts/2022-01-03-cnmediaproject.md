@@ -10,14 +10,14 @@ tags:
 title: 'Twitter @China Media Project: 2022-01-03~2022-01-09'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent research program and think
+The China Media Project (中国传媒研究计划) is an independent think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
 ### 1: [2022-01-04 01:10:10+08:00 推文](https://twitter.com/ChinaLawTransl8/status/1478051069242523658)
 
-RT China Law Translate<br>Happy New Year.<br><br>The Paywall on CLT (<br><br>Thank you all for your support. <a href="http://chinalawtranslate.com/" target="_blank" rel="noopener noreferrer">http://chinalawtranslate.com</a><br><img style src="https://pbs.twimg.com/media/FIMWbykXsAUO2fo?format=png&name=orig" referrerpolicy="no-referrer">
+RT China Law Translate<br>Happy New Year.<br><br>The Paywall on CLT (<br><br>Thank you all for your support. <a href="http://chinalawtranslate.com/" target="_blank" rel="noopener noreferrer">http://chinalawtranslate.com</a><br><img style="" src="https://pbs.twimg.com/media/FIMWbykXsAUO2fo?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-01-05 21:22:42+08:00 推文](https://twitter.com/niubi/status/1478718600244563969)
 
@@ -41,7 +41,7 @@ RT Lingling Wei 魏玲灵<br>Must read by @DSORennie: China’s online nationa
 
 ### 7: [2022-01-08 09:38:32+08:00 推文](https://twitter.com/cnmediaproject/status/1479628555139297280)
 
-In a bid to advance Chinese state narratives more credibly overseas, CCP media have encouraged more "flexible and personalized" use of individual accounts of employees on Twitter and Facebook. Our latest in Going Global. <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a><br><img style src="https://pbs.twimg.com/media/FIiyRelakAMBl2K?format=jpg&name=orig" referrerpolicy="no-referrer">
+In a bid to advance Chinese state narratives more credibly overseas, CCP media have encouraged more "flexible and personalized" use of individual accounts of employees on Twitter and Facebook. Our latest in Going Global. <a href="https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/01/07/personal-brands-for-party-agendas/</a><br><img style="" src="https://pbs.twimg.com/media/FIiyRelakAMBl2K?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-08 09:55:41+08:00 推文](https://twitter.com/cnmediaproject/status/1479632870532861952)
 

@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-06-06~2022-06-12'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent research program and think
+The China Media Project (中国传媒研究计划) is an independent think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -21,7 +21,7 @@ Generational Changes for Investigative Reporting: In amongst the commemorative a
 
 ### 2: [2022-06-07 07:24:26+08:00 推文](https://twitter.com/donaldcclarke/status/1533952989974646784)
 
-RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔<br><br>Fergus Ryan: The British Embassy posted this article: 'Why is the Peterloo Massacre remembered in Britain?'<br><br>WeChat stopped users from being able to:<br><br>♢ copy the link<br>♢ send to chat<br>♢ share on Moments<br>♢ add to favs<br>♢ open in WeRead<br>♢ open in browser<br>♢ email it<br><br><img style="" src="https://pbs.twimg.com/media/FUidkgRVsAMVeFP?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUidnj_VsAA_Gd1?format=png&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://archive.ph/lgRga" target="_blank" rel="noopener noreferrer">https://archive.ph/lgRga</a>
+RT Donald Clarke<br>The Chinese government won’t let Chinese citizens read about a massacre committed by the British government. 🤔
 
 ### 3: [2022-06-08 11:42:25+08:00 推文](https://twitter.com/cnmediaproject/status/1534380298376716289)
 

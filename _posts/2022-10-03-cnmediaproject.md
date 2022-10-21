@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-10-03~2022-10-09'
 ---
 
-The China Media Project (中国传媒研究计划) is an independent research program and think
+The China Media Project (中国传媒研究计划) is an independent think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -89,5 +89,5 @@ The discourse of the Chinese Communist Party can be rigid and ritualistic. But i
 
 ### 19: [2022-10-07 17:51:08+08:00 推文](https://twitter.com/cnmediaproject/status/1578322020378759168)
 
-A simple yet profound observation about where information is in China today.<br><br>Chenchen Zhang 🤦🏻‍♀️: unfortunately not an exaggeration<br>and the web is dead in China, not just bc of WeChat<br>if I search something in baidu all I get is a full page of apps. in other words all the "content" the internet has to offer is hosted by segregated apps<br> <a href="https://twitter.com/yiqinfu/status/1578082198594367489" target="_blank" rel="noopener noreferrer">https://twitter.com/yiqinfu/status/1578082198594367489</a>
+A simple yet profound observation about where information is in China today.<br><br>Chenchen Zhang 🤦🏻‍♀️: unfortunately not an exaggeration<br>and the web is dead in China, not just bc of WeChat<br>if I search something in baidu all I get is a full page of apps. in other words all the "content" the internet has to offer is hosted by segregated apps<br>
 
