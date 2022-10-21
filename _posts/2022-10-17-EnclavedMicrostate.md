@@ -98,3 +98,7 @@ See, I was thinking that it was the case that people in their friends group were
 
 I'm interested in whether you can point me to some secondary literature covering this – it does sort of gel with my understanding but I don't think I have come across anything concretely covering this period.
 
+----- __889.2__ -----2022-10-22 01:16:35+08:00:
+
+That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the book.
+
