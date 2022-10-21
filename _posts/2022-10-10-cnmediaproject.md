@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-10-10~2022-10-16'
 ---
 
-CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+The China Media Project (中国传媒研究计划) is an independent research program and think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -33,7 +33,7 @@ RT Bill Bishop<br>deep dive on possible personnel moves at the 20th Party Cong
 
 ### 5: [2022-10-14 09:03:59+08:00 推文](https://twitter.com/cnmediaproject/status/1580726074870497280)
 
-Even references to the seen cannot be seen. The control of information and ideas seems to have reached new heights of absurdity. But . . . .<br><br>Chenchen Zhang 🤦🏻‍♀️: weibo said the statement "I saw it" "violated rules and regulations" and suspended the user for 60 days<br>we've reached the point where both "I saw it" and "I didn't see anything" could be illegal<br> <a href="https://twitter.com/jajia/status/1580503483954114566" target="_blank" rel="noopener noreferrer">https://twitter.com/jajia/status/1580503483954114566</a>
+Even references to the seen cannot be seen. The control of information and ideas seems to have reached new heights of absurdity. But . . . .<br><br>Chenchen Zhang 🤦🏻‍♀️: weibo said the statement "I saw it" "violated rules and regulations" and suspended the user for 60 days<br>we've reached the point where both "I saw it" and "I didn't see anything" could be illegal<br>
 
 ### 6: [2022-10-14 09:06:12+08:00 推文](https://twitter.com/cnmediaproject/status/1580726631928561664)
 

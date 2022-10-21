@@ -45,19 +45,19 @@ Re 2、中共国党库国库不分，纳税人既要供养政府系统还要供�
 
 ### 8: [2020-10-13 10:02:38+08:00 推文](https://twitter.com/realcaixia/status/1315835304234946562)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 @zfb468590 谢谢您看的仔细。<hr><small>10/13/2020, 10:02:38 AM</small>
+Re @zfb468590 谢谢您看的仔细。
 
 ### 9: [2020-10-13 10:15:50+08:00 推文](https://twitter.com/realcaixia/status/1315838628216688640)
 
-Re 辅警纳入政府事业单位编制。 <br><img src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer">
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  🔁 辅警纳入政府事业单位编制。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkLMQeAX0Acryt7?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/13/2020, 10:15:50 AM</small>
 
 ### 10: [2020-10-13 22:28:45+08:00 推文](https://twitter.com/realcaixia/status/1316023071715684358)
 
-看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。 <br><br>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ: @realcaixia <br><br><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video>
+<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  看到一推友贴出资先生的讲座短视频，特转发。感谢这位推友在我的推下留言中贴出这么好的视频。<br clear="both"><div style="clear: both"></div><blockquote><a href="https://twitter.com/mars36449"><img align="left" src="https://pbs.twimg.com/profile_images/1313033311623671809/Bkh2tJCo_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>🇹🇼ROC洪希疆 ㄇㄧㄣˊ ㄍㄨㄛˊ ㄖㄣˊ ㄐㄧㄚ ㄗㄞˋ ㄊㄞˊ ㄨㄢ</strong></a>:  @realcaixia<br clear="both"><div style="clear: both"></div><video src="https://video.twimg.com/ext_tw_video/1315874364764479490/pu/vid/720x720/k-HPEd-_43-nnh51.mp4?tag=10" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1315874364764479490/pu/img/vNJU8NMQLK02WmdI.jpg" style="width: 100%"></video><br><small>Source: <a href="https://twitter.com/mars36449/status/1315874412223098887" target="_blank" rel="noopener noreferrer">https://twitter.com/mars36449/status/1315874412223098887</a></small><br><small>10/13/2020, 12:38:02 PM</small><br clear="both"><div style="clear: both"></div></blockquote><hr><small>10/13/2020, 10:28:45 PM</small>
 
 ### 11: [2020-10-14 08:37:45+08:00 推文](https://twitter.com/realcaixia/status/1316176330992611328)
 
-<a href="https://twitter.com/realcaixia"><img align="left" src="https://pbs.twimg.com/profile_images/1298903072148721664/quWlSJWM_normal.jpg" hspace="8" vspace="8" referrerpolicy="no-referrer"><strong>蔡霞</strong></a>:  最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。<br clear="both"><div style="clear: both"></div><a href="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"></a><a href="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig"><img hspace="4" vspace="8" src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer"></a><hr><small>10/14/2020, 8:37:45 AM</small>
+最近一则惩罚中共官员的新闻，有几个看点：1，10月12日。说明尽管中共党内极度高压,但官员们并不维护习核心；2，党内控制严酷程度：只要传播文章就“双开”（双开：开除出党；开除公职——取消退休养老待遇）3，捏造罪名也要把你送进监狱。收受…礼金；涉嫌受贿…中共9000万党员名副其实是党奴。 <br><img src="https://pbs.twimg.com/media/EkP_ZRGWkAAwnka?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img src="https://pbs.twimg.com/media/EkP_ZRJXsAAWQix?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 12: [2020-10-15 23:01:12+08:00 推文](https://twitter.com/realcaixia/status/1316756015803756546)
 

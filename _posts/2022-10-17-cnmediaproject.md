@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-20
+date: 2022-10-21
 from: https://twitter.com/ProfYangZhang/status/1581677189300654082
 layout: post
 tags:
@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-10-17~2022-10-23'
 ---
 
-CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+The China Media Project (中国传媒研究计划) is an independent research program and think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -213,7 +213,7 @@ How Xi Jinping's address on Sunday was not a "work report" — and other misunde
 
 ### 50: [2022-10-18 23:40:23+08:00 推文](https://twitter.com/cnmediaproject/status/1582396180163887105)
 
-Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br>
+Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br> <a href="https://twitter.com/cnmediaproject/status/1582367120549376001" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1582367120549376001</a>
 
 ### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
 
@@ -221,7 +221,7 @@ Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic
 
 ### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
 
-On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br>
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/ChairmanRabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/ChairmanRabbit/status/1582417462771200000</a>
 
 ### 53: [2022-10-19 12:13:03+08:00 推文](https://twitter.com/lauriechenwords/status/1582585595431243777)
 
@@ -241,5 +241,45 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
+
+### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
+
+Re @olivertheyoung Thanks for sharing. And the latest how-to on reading the 20th Congress report, with cautions, is here. <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a>
+
+### 59: [2022-10-21 15:22:56+08:00 推文](https://twitter.com/cnmediaproject/status/1583358157187059712)
+
+A must-read on the Congress to close out the week. Cautions on how to read and not read buzzwords in the congress report and other CCP documents. And a telling absence in Xi's latest political report. <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a>
+
+### 60: [2022-10-21 15:48:20+08:00 推文](https://twitter.com/cnmediaproject/status/1583364549188911104)
+
+Re @hancocktom Also missing @hancocktom and @JChengWSJ = intra-party democracy (党内民主).
+
+### 61: [2022-10-21 15:57:37+08:00 推文](https://twitter.com/cnmediaproject/status/1583366884040527873)
+
+A good read on China's GDP data blackout. <a href="https://www.ft.com/content/43bea201-ff6c-4d94-8506-e58ff787802c" target="_blank" rel="noopener noreferrer">https://www.ft.com/content/43bea201-ff6c-4d94-8506-e58ff787802c</a>
+
+### 62: [2022-10-21 16:28:15+08:00 推文](https://twitter.com/cnmediaproject/status/1583374592382742531)
+
+CMP's two contributions this week on the reading of CCP reports. First, on the difference bet. "work reports" and "political reports" — and starting off with reasonable expectations. 1/2 <a href="https://chinamediaproject.org/2022/10/18/ccp-political-report/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/18/ccp-political-report/</a>
+
+### 63: [2022-10-21 16:30:17+08:00 推文](https://twitter.com/cnmediaproject/status/1583375104096243713)
+
+Re And next "Buzzword Babble": on how we should and shouldn't break up and group Chinese terms / buzzwords / keywords. + some insight into takeaways from Xi's report. 2/2 <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a>
+
+### 64: [2022-10-21 16:36:30+08:00 推文](https://twitter.com/cnmediaproject/status/1583376671100792833)
+
+The real secret lurking in Xi Jinping’s political report, one that tells us quietly and convincingly that the “New Era” is about one man’s grasp for power: For the first time in almost 40 years, “political reform” is gone. <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a>
+
+### 65: [2022-10-21 16:48:36+08:00 推文](https://twitter.com/cnmediaproject/status/1583379713216909312)
+
+You've possibly seen charts this week like the recreated one here, plotting words like "democracy" in Xi Jinping's political report. CMP explains why this just heaps confusion on top of the opaque. <a href="https://chinamediaproject.org/2022/10/21/buzzword-babble/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/21/buzzword-babble/</a><br><img style="" src="https://pbs.twimg.com/media/FflLXkSaMAA6VEY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 66: [2022-10-21 17:32:48+08:00 推文](https://twitter.com/cnmediaproject/status/1583390839937851392)
+
+"Intra-party democracy" (党内民主) has long been included in the CCP's political reports as a goal for greater collective and deliberative decision-making within the Party. For the first time in 45 years — gone.<br><img style="" src="https://pbs.twimg.com/media/FflU77UaAAAENrl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 67: [2022-10-21 17:42:54+08:00 推文](https://twitter.com/cnmediaproject/status/1583393379840593920)
+
+Re The term also appeared in the report by Hua Guofeng (华国锋) to the 11th Congress in 1977, and in the report by Hu Yaobang (胡耀邦) to the 12th Congress in 1982.<br><img style="" src="https://pbs.twimg.com/media/FflX2OcakAAF7gS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 

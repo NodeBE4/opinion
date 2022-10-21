@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2020-12-21~2020-12-27'
 ---
 
-CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+The China Media Project (中国传媒研究计划) is an independent research program and think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -25,7 +25,7 @@ RT Sheena Greitens<br>Terribly sad to hear of Ezra Vogel's passing. He was a r
 
 ### 3: [2020-12-21 12:52:00+08:00 推文](https://twitter.com/PekingMike/status/1340882690858479616)
 
-RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Mike Forsythe  傅才德<br>Professor Vogel was an uncommonly gracious person who was a deeply respected scholar of both Japan and China. He had a wonderful, long life and I will miss him.<br><br>Fairbank Center: It is with great sadness that we announce the passing of our former director Ezra F. Vogel (1930-2020).<br><br>Professor Vogel served as director from 1973-75 and from 1995-99. He was a true champion of our center, an erudite scholar, and a wonderful friend. He will be truly missed.<br><br><img style="" src="https://pbs.twimg.com/media/EpujUVUW4AAiacE?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2020-12-21 15:52:27+08:00 推文](https://twitter.com/bueti/status/1340928103942643712)
 

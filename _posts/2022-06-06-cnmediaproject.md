@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-06-06~2022-06-12'
 ---
 
-CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+The China Media Project (中国传媒研究计划) is an independent research program and think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}

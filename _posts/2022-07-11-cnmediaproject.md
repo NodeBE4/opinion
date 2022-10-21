@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-07-11~2022-07-17'
 ---
 
-CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+The China Media Project (中国传媒研究计划) is an independent research program and think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -45,7 +45,7 @@ For those who missed it: CMP's must-read on the CCP's not-so-secret system of pe
 
 ### 8: [2022-07-12 22:34:20+08:00 推文](https://twitter.com/LiyaYuBerlin/status/1546865545231757312)
 
-RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Columbia Univ Press: Now Available! VULNERABLE MINDS "is a wonderful example of interdisciplinary scholarship on the brain and society, and prudent reading given humanity’s current crises." - @lasana_harris<br><br><img style="" src="https://pbs.twimg.com/media/FXFOZ3pXEAAa4h9?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://buff.ly/3HBKgOg" target="_blank" rel="noopener noreferrer">https://buff.ly/3HBKgOg</a>
+RT Liya Yu 喻俐雅<br>Book launch day today📚🥳! VULNERABLE MINDS addresses our most divisive issues around race, identity and dehumanization through a completely novel, neuropolitical language and persuasive strategy. With chapters for activists, policy makers and educators.<br><br>Get 20% off with CUP20<br><img style="" src="https://pbs.twimg.com/media/FXeSAEsUYAEfHvZ?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2022-07-13 06:33:48+08:00 推文](https://twitter.com/relevantorgans/status/1546986209016066049)
 

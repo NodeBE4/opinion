@@ -10,7 +10,7 @@ tags:
 title: 'Twitter @China Media Project: 2022-01-17~2022-01-23'
 ---
 
-CMP (中国传媒研究计划) is a research program in partnership with Hong Kong University's JMSC. People: Qian Gang (钱钢), David Bandurski (班志远). 
+The China Media Project (中国传媒研究计划) is an independent research program and think
 
 * This will become a table of contents (this text will be scrapped).
 {:toc}
@@ -61,19 +61,19 @@ Re CCHRC content is strikingly in line with the CCP line, though Zwart insists h
 
 ### 12: [2022-01-20 08:04:20+08:00 推文](https://twitter.com/cnmediaproject/status/1483953502523371520)
 
-Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style="" src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Notice the site reads: "Opinions expressed in the blogs do not necessarily express the opinions of the CCHRC, but have been added here after careful selection." How carefully? The content is an embarrassment for the university and those associated. <a href="https://crossculturalhumanrightscentre.com/?page_id=2" target="_blank" rel="noopener noreferrer">https://crossculturalhumanrightscentre.com/?page_id=2</a><br><img style src="https://pbs.twimg.com/media/FJgP1rDaMAEMJqw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-20 08:10:35+08:00 推文](https://twitter.com/cnmediaproject/status/1483955077908156416)
 
-Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style="" src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re On "care," one listed associate, Peng Qinxuan, is identified as having "studied internatioan law at Wuhan University." Perhaps the same as this Peng Qinxuan in the Global Times, where's she promotes Xi's "community of shared destiny". <a href="https://www.globaltimes.cn/page/202112/1241032.shtml" target="_blank" rel="noopener noreferrer">https://www.globaltimes.cn/page/202112/1241032.shtml</a><br><img style="" src="https://pbs.twimg.com/media/FJgROnVakAIfM3E?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 14: [2022-01-20 09:00:56+08:00 推文](https://twitter.com/cnmediaproject/status/1483967747336052740)
 
-Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Peng is listed in 2016 as head of the Assoc. of Chinese Students Netherlands, part of the network of United Front linked CSSAs. They openly state coordination with state media ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3rBoL8q" target="_blank" rel="noopener noreferrer">https://bit.ly/3rBoL8q</a><br><img style="" src="https://pbs.twimg.com/media/FJgbLgEagAAFAHG?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 15: [2022-01-20 09:05:05+08:00 推文](https://twitter.com/cnmediaproject/status/1483968793651326976)
 
-Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style="" src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re The association's links with the Chinese government, aren't clear from the "About Us" section of their website ( <a href="https://www.acssnl.nl/1" target="_blank" rel="noopener noreferrer">https://www.acssnl.nl/1</a> <a href="https://bit.ly/3fL6Syo" target="_blank" rel="noopener noreferrer">https://bit.ly/3fL6Syo</a><br><img style src="https://pbs.twimg.com/media/FJgdu46aUAUB0qh?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-20 09:24:43+08:00 推文](https://twitter.com/cnmediaproject/status/1483973733660655617)
 
@@ -81,7 +81,7 @@ Re Scholars and their supposed independence aside, it is clear that the Free Uni
 
 ### 17: [2022-01-20 09:26:53+08:00 推文](https://twitter.com/cnmediaproject/status/1483974277301161985)
 
-Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Peng Qinxuan's CSSA presidency is listed at the China Society for Human Rights Studies ( <a href="https://bit.ly/33rDRWk" target="_blank" rel="noopener noreferrer">https://bit.ly/33rDRWk</a><br><img style="" src="https://pbs.twimg.com/media/FJgiuTpaUAUV0hm?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 18: [2022-01-20 12:43:44+08:00 推文](https://twitter.com/dakekang/status/1484023815596216320)
 
