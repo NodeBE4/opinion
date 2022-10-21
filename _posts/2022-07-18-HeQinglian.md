@@ -801,5 +801,5 @@ Re @realJackLaw @KELMAND1 @ZedongWinine @LetsBeatRabbits 正好相反。
 
 ### 197: [2022-07-24 23:35:41+08:00 推文](https://twitter.com/HeQinglian/status/1551229642526318592)
 
-米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？<br><br>RFI 華語 - 法國國際廣播電台: 米利將軍：中國更具侵略性 對美國及盟友很危險<br><br><img style="" src="https://pbs.twimg.com/media/FYcPrOoUEAEWRZF?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8bk1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8bk1.t</a>
+米利将军那个通风报信电话的事情，大家应该都还记得。<br>现在则称昔日密友“最危险”，前后判若云泥。<br>最近这两年，他与中共之间发生了什么事情？让他从“友好过度”变成绝情过度？难道到绝情谷中扎满了一身情花刺？
 

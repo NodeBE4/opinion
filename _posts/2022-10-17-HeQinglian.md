@@ -195,43 +195,59 @@ Re @Wu_Zhi @Qing2022022 奥巴马敦促提醒基辅注意允许的范围<br><br>
 
 乌克兰基础设施被炸毁 今起限用能源 <br>评：昨天还是一片形势大好，全世界就中国有严重问题。结果今天看到这条消息。<br>奥巴马已经从地下指挥所走到地面了，见美国前总统奥巴马在接受 《Pod Save America》节目采访时内容。前台的拜登现在主要关心中期选举。 <a href="https://rfi.my/8pws.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8pws.T</a>
 
-### 46: [2022-10-20 23:19:03+08:00 推文](https://twitter.com/HeQinglian/status/1583115588703965184)
+### 46: [2022-10-20 22:39:22+08:00 推文](https://twitter.com/Vanessa_ZhangUK/status/1583105600615219200)
+
+RT Vanessa 姗<br>如果不重新大选，新的首相人选估计下周五公布，一个夏天过来，才4个月，英国经历了4个财政大臣，3个内政部长，2+1个首相，2位君主。。。 🙈🙈🙈
+
+### 47: [2022-10-20 23:19:03+08:00 推文](https://twitter.com/HeQinglian/status/1583115588703965184)
 
 Re @Bowen900493541 @RFI_Cn 哪里，就这家媒体，昨天还在说普京日子很难过。
 
-### 47: [2022-10-21 00:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1583129159059968000)
+### 48: [2022-10-21 00:12:59+08:00 推文](https://twitter.com/HeQinglian/status/1583129159059968000)
 
 Re @0HCAvycgN60lwXM 你可能没弄清楚：堕胎权不是取消，是发还各州，由各州自决。<br>无非是少数不允许堕胎的人要花钱去允许的州去。
 
-### 48: [2022-10-21 00:28:22+08:00 推文](https://twitter.com/HeQinglian/status/1583133032105377793)
+### 49: [2022-10-21 00:28:22+08:00 推文](https://twitter.com/HeQinglian/status/1583133032105377793)
 
 Re @Wu_Zhi @JianglinLi @RFI_Cn 现在的问题是：俄罗斯如果不用核战就能取得胜利，谁来制造这一假旗事件？<br>信誉已经在北溪炸管上透支太多，除了乌粉之外，世界还有很多正常思维者。
 
-### 49: [2022-10-21 01:28:45+08:00 推文](https://twitter.com/HeQinglian/status/1583148228937408512)
+### 50: [2022-10-21 01:28:45+08:00 推文](https://twitter.com/HeQinglian/status/1583148228937408512)
 
 40天之内：<br>英国首相特拉斯辞职 执政保守党将再一次选举党魁<br>英国执政党保守党因袖珍预算案导致的财政风暴面临巨大政治压力，特拉斯执政45天之后宣布辞职，成为英国有史以来任期最短的首相<br>英国首相特拉斯就减税政策错误道歉，但拒绝辞职<br>特拉斯：英国首相又出一位“铁娘子”？ <a href="https://www.bbc.com/zhongwen/simp" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp</a>
 
-### 50: [2022-10-21 01:33:27+08:00 推文](https://twitter.com/HeQinglian/status/1583149409872642048)
+### 51: [2022-10-21 01:33:27+08:00 推文](https://twitter.com/HeQinglian/status/1583149409872642048)
 
 Re @JianglinLi @david_david1968 这位特拉斯排名32位，“三哥”何指？如果是那位与她争锋的财政大臣，保守党已经明言，不会是他。
 
-### 51: [2022-10-21 01:35:33+08:00 推文](https://twitter.com/HeQinglian/status/1583149936455340032)
+### 52: [2022-10-21 01:35:33+08:00 推文](https://twitter.com/HeQinglian/status/1583149936455340032)
 
 Re @KELMAND1 @kugi55 做列强是好事，但要有实力。否则象小泽同志一样，自己倒是做了一段世界级英雄（比特拉斯的44天风光），想批谁就批谁，但国家就是做不成列强。
 
-### 52: [2022-10-21 01:36:31+08:00 推文](https://twitter.com/HeQinglian/status/1583150180013965313)
+### 53: [2022-10-21 01:36:31+08:00 推文](https://twitter.com/HeQinglian/status/1583150180013965313)
 
 Re @JianglinLi @Wu_Zhi @RFI_Cn 好象正在商量金砖圈儿如何起名，有人建议就叫BRICKS+。
 
-### 53: [2022-10-21 05:20:43+08:00 推文](https://twitter.com/HeQinglian/status/1583206601959256064)
+### 54: [2022-10-21 05:20:43+08:00 推文](https://twitter.com/HeQinglian/status/1583206601959256064)
 
 10月19日，哥伦比亚总统古斯塔沃·佩特罗在乌拉巴安蒂奥克尼奥市的演讲中说，指责美国为了保护自己而破坏了世界上几乎所有的经济体，而不管其他国家会发生什么。<br><br>实话实说，拜登政府在破坏美国法治、经济、社会以推行大重置方面，堪称模范。如果不是选情告急，决不会放缓步伐。 <a href="https://www.telesurenglish.net/news/Colombian-President-Accuses-US-of-Ruining-World-Economies-20221019-0011.html" target="_blank" rel="noopener noreferrer">https://www.telesurenglish.net/news/Colombian-President-Accuses-US-of-Ruining-World-Economies-20221019-0011.html</a>
 
-### 54: [2022-10-21 05:34:55+08:00 推文](https://twitter.com/HeQinglian/status/1583210177607917568)
+### 55: [2022-10-21 05:34:55+08:00 推文](https://twitter.com/HeQinglian/status/1583210177607917568)
 
 Re @xchen62 有件事情，咱们继续观察。<br>英国扮演鹰派，背后有推手。查理国王对大重置的迷恋，世人皆知。没有英的配合，拜登不可能闹得这么欢畅。<br>已经有人事先放风，英相人选不是那位印裔财长，另有备胎——备胎是什么人，行什么政，咱们继续观察。
 
-### 55: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
+### 56: [2022-10-21 06:06:24+08:00 推文](https://twitter.com/NAConservative9/status/1583218100249337856)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：民主党统治了40年，够了！》<br><br>无家可归人数、犯罪率和生活成本飙升，俄勒冈人已准备好进行变革。<br>“他们知道克里斯汀·德拉赞将赢得这场竞选，他们无法阻止这种情况的发生。”<br>俄勒冈州首富菲尔·奈特表示，他将不惜一切代价结束民主党人对该州40年的控制。 <a href="https://nacr.info/WordPress/index.php/2022/10/20/oregons-richest-man-phil-knight-democrats-ruled-for-40-years-enough/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/10/20/oregons-richest-man-phil-knight-democrats-ruled-for-40-years-enough/</a><br><img style="" src="https://pbs.twimg.com/media/Ffi3sqhXEAMvYb9?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
+
+### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
+
+RT 纳姐 全媒体首席主播，全媒体美国小镇镇长<br>转发：<br>📣📣这里是佛州67个县的投票指南，请您帮助转发下面的链接⬇️<br><br>一张选票很重要但不够多， 佛州已经回邮500万的邮寄选票，时间不等人，每一天都很重要， 一直到11月8日！<br>亲们，现在就转发，找出你的县....<br>God Bless America 🇺🇸 🙏 ❤️ 为中期选举助力加油！ <a href="https://5morevotes.com/voterguide_fl.php" target="_blank" rel="noopener noreferrer">https://5morevotes.com/voterguide_fl.php</a><br><img style="" src="https://pbs.twimg.com/media/FfjB5YRXgAED_zG?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 59: [2022-10-21 08:56:57+08:00 推文](https://twitter.com/HeQinglian/status/1583261019152883713)
+
+Re @Wu_Zhi @xchen62 如果需要“世界政府”首肯的人才能出任此职，仍然会是这结果。如今拉美、中东国家愿意说些真话，只因他们不在这个网络中。
 
