@@ -129,7 +129,7 @@ RT Programme on Democracy and Technology<br>Our latest China Information Opera
 
 ### 29: [2022-04-06 20:30:46+08:00 推文](https://twitter.com/CarlMinzner/status/1511682826252521475)
 
-RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public. <a href="https://twitter.com/wafarris/status/1511680611907694597?s=20&amp;t=fQLFpkYGAFYZBc_TXEg4Cg" target="_blank" rel="noopener noreferrer">https://twitter.com/wafarris/status/1511680611907694597?s=20&amp;t=fQLFpkYGAFYZBc_TXEg4Cg</a>
+RT Carl Minzner<br>Re @NeysunM @PM_Thornton @TGTM_Official Even better to look at how information on Bucha is being comprehensively censored/presented for the domestic Chinese public.<br><br>William Farris: Snapshot of what folks in PRC vs Taiwan see re: Ukraine - I translated the first page of Baidu and Yahoo News results for "Bucha Incident" (布查事件) on April 5. Red means source is a PRC Party mouthpiece. Blue indicates the same story about Russia submitting its "evidence" to UN<br><br><img style="" src="https://pbs.twimg.com/media/FPqQDVZaAAgAK9o?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-04-06 21:41:46+08:00 推文](https://twitter.com/niubi/status/1511700694172155909)
 

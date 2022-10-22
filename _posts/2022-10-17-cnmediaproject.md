@@ -189,7 +189,7 @@ RT Jonathan Cheng<br>"While China’s central bank has repeatedly encouraged C
 
 ### 44: [2022-10-18 16:14:33+08:00 推文](https://twitter.com/cnmediaproject/status/1582283983936966658)
 
-A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br> <a href="https://twitter.com/abnersheng/status/1581872470755135488" target="_blank" rel="noopener noreferrer">https://twitter.com/abnersheng/status/1581872470755135488</a>
+A reminder in the digital age of keyword blocks and 404 messages of just how elementary the control of ideas can be.<br><br>Chenchen Zhang 🤦🏻‍♀️: no more self-service printing in Tsinghua print shops. "make sure every print &amp; photocopy page is inspected by staff".<br>one can destroy all the printers in the world but ideas don't die. they may be suppressed but they won't die which why power finds it so threatening<br>
 
 ### 45: [2022-10-18 16:15:50+08:00 推文](https://twitter.com/puzhiqiang/status/1582284306721800193)
 
@@ -310,4 +310,8 @@ The hottest topics on Weibo right now. Chinese care only about the 20th National
 ### 74: [2022-10-22 14:03:02+08:00 推文](https://twitter.com/cnmediaproject/status/1583700437206585345)
 
 根據官方公布的205名新一屆中央委員會委員名單，7名中央政治局常委中，僅有習近平、王滬寧和趙樂際在列；李克強、栗戰書、汪洋和韓正則不在名單內，顯示這4人將退出中共最高決策層。中共二十大｜李克強、栗戰書、汪洋、韓正不在中央委員名單 <a href="https://news.mingpao.com/ins/%e5%85%a9%e5%b2%b8/article/20221022/s00004/1666417227795" target="_blank" rel="noopener noreferrer">https://news.mingpao.com/ins/%e5%85%a9%e5%b2%b8/article/20221022/s00004/1666417227795</a>
+
+### 75: [2022-10-22 21:09:00+08:00 推文](https://twitter.com/dakekang/status/1583807633588654080)
+
+RT Dake Kang<br>One more interesting tidbit in the Hu Jintao affair today: The man helping up Hu is Kong Shaoxun (孔绍逊), the deputy director of the General Office of the CPC Central Committee. His boss is Ding Xuexiang, widely expected to be on the next Standing Committee.<br><img style="" src="https://pbs.twimg.com/media/FfrMnKoXwAYTPHJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfrM17oWAAABGs-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
