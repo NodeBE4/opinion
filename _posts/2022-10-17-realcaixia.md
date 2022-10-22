@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-21
+date: 2022-10-22
 from: https://twitter.com/realcaixia/status/1582110371992653824
 layout: post
 tags:
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 ### 7: [2022-10-19 10:27:31+08:00 推文](https://twitter.com/realcaixia/status/1582559038520590336)
 
-请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English 議報 英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
+请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English《議報》英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
 
 ### 8: [2022-10-19 10:42:58+08:00 推文](https://twitter.com/realcaixia/status/1582562926099329025)
 
@@ -73,7 +73,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
-英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br> <a href="https://twitter.com/JamesCleverly/status/1582410222735196160" target="_blank" rel="noopener noreferrer">https://twitter.com/JamesCleverly/status/1582410222735196160</a>
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English《議報》英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
 
 ### 16: [2022-10-21 21:23:27+08:00 推文](https://twitter.com/realcaixia/status/1583448884675678208)
 
@@ -82,4 +82,24 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 ### 17: [2022-10-21 22:21:32+08:00 推文](https://twitter.com/realcaixia/status/1583463501435383808)
 
 中共外交人员的不断“进步”。从语言风格的“战狼”特点升级到暴力殴打抗议民众，他们还是外交官吗？他们连人的文明行为的底线都不要，直接变成了披着外交官外衣的流氓暴徒。<br><br>纽约时报中文网: 被打男子表示，他在阻止领馆人员撕毁横幅时被拉入领馆内殴打。<br>随着殴打事件的画面在本周传播开来，英国立法者和规模快速增长的移英港人群体的活动人士对此发出了越来越强烈的不满和担忧。中国官员则将此次冲突描述为非法冲击领事馆，并称抗议者展示的横幅具有“侮辱性”。<br> <a href="https://nyti.ms/3CPaYRu" target="_blank" rel="noopener noreferrer">https://nyti.ms/3CPaYRu</a>
+
+### 18: [2022-10-22 09:41:54+08:00 推文](https://twitter.com/realcaixia/status/1583634718935101443)
+
+【跟进时代的勇士】1. 再推孤胆英雄彭载舟的罢免独裁国贼习近平攻略——让世界听见中国民众的呼声。<br>彭载舟先生提出的罢免独裁者国贼习近平的攻略中，专门全文推出了中国著名作家老鬼发表在议报的文章《终身制误国害民，危及国家安全》。下面就是这篇全文：<br><img style="" src="https://pbs.twimg.com/media/FfozXuWWQAAQr3V?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfozX_PWIAImH94?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfozYNMWIAInDWV?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfozYeBXwAQyt4W?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 19: [2022-10-22 09:45:06+08:00 推文](https://twitter.com/realcaixia/status/1583635527143944194)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Ffo0HSuWAAA_0gO?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0HStXwAEtBOG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0HSsX0AERRoe?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0HSsX0AArsc_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-10-22 09:46:48+08:00 推文](https://twitter.com/realcaixia/status/1583635954094739456)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Ffo0gPXXEAAiFpf?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0gPFXkAAaUxM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0gPYWQAEAxo1?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0gPWWIAAwEjw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 21: [2022-10-22 09:48:01+08:00 推文](https://twitter.com/realcaixia/status/1583636261478092801)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Ffo0yGnXoAAI91Z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ffo0yG8XEAEuLXb?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 22: [2022-10-22 09:55:04+08:00 推文](https://twitter.com/realcaixia/status/1583638033748086784)
+
+特别推荐：<br>今天《英文版议报》推特转推了美国司法部对在美中共代理人的指控，六名中共代理人被逮捕。这个消息应在中文世界里大力传播。<br><br>YiBao English《議報》英文: #海外爱国党 #美国司法部指控 #中共代理人 #serveformycountry #CCP  #foxhunt<br>6 Chinese nationals charged as act Illegal agents for PRC. 六名中共代理人被捕<br> <a href="https://www.justice.gov/usao-edny/pr/six-individuals-charged-conspiring-act-illegal-agents-peoples-republic-china-0" target="_blank" rel="noopener noreferrer">https://www.justice.gov/usao-edny/pr/six-individuals-charged-conspiring-act-illegal-agents-peoples-republic-china-0</a>
 
