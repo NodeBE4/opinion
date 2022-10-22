@@ -21,7 +21,7 @@ RT Adam Segal<br>Jack Ma's Ant Group implicated in corruption scandal by Chine
 
 ### 2: [2022-01-25 13:47:50+08:00 推文](https://twitter.com/cnmediaproject/status/1485851888860172288)
 
-Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style="" src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Xi has stressed traditional culture in "telling the China story." But why can't China find discourse power on a desert highway in the post-apocalyptic American West, where zombies and monsters must be dispatched through brutal combat? <a href="https://bit.ly/3tWwIb3" target="_blank" rel="noopener noreferrer">https://bit.ly/3tWwIb3</a><br><img style src="https://pbs.twimg.com/media/FJ7OYyUacAEXAtv?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2022-01-25 14:01:27+08:00 推文](https://twitter.com/cnmediaproject/status/1485855315270991878)
 
