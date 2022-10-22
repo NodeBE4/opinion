@@ -241,7 +241,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：�
 
 ### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
-此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br> <a href="https://twitter.com/echo_chamberz/status/1582504597804834817" target="_blank" rel="noopener noreferrer">https://twitter.com/echo_chamberz/status/1582504597804834817</a>
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
 
 ### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
 
@@ -261,7 +261,7 @@ Re @FangYiDuan1 @RFI_Cn 左派是通过社会运动（反抗）起家的，左�
 
 ### 62: [2022-10-21 09:17:42+08:00 推文](https://twitter.com/HeQinglian/status/1583266243435704320)
 
-在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a> <a href="https://twitter.com/JianglinLi/status/1582668508868988929" target="_blank" rel="noopener noreferrer">https://twitter.com/JianglinLi/status/1582668508868988929</a>
+在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a>
 
 ### 63: [2022-10-21 09:54:11+08:00 推文](https://twitter.com/HeQinglian/status/1583275422980009984)
 
@@ -434,4 +434,24 @@ Re @KELMAND1 @aifaily 现在有图不一定是真相，连视频都作假。
 ### 105: [2022-10-23 00:13:06+08:00 推文](https://twitter.com/HeQinglian/status/1583853966169116672)
 
 Re @YangZshui @CrabNJ 你自己想想你会如何用人就行了。<br>靠恩荫与靠自己，是有区别的。
+
+### 106: [2022-10-23 01:11:45+08:00 推文](https://twitter.com/HeQinglian/status/1583868724800786433)
+
+Re @Wu_Zhi @VOAChinese 每逢这类事情，我就想起“上帝帮助自助者”这句话。<br>除了依赖者视别人帮助为理所当然之外，想充当上帝的人与国，都会得到教训。
+
+### 107: [2022-10-23 01:30:43+08:00 推文](https://twitter.com/HeQinglian/status/1583873498577260544)
+
+无梦事实：<br>中共二十大闭幕：李克强汪洋韩正栗战书未名列中央委员，胡锦涛提前退场<br>多家媒体报道，记者被允许进入会场时，工作人员正与胡锦涛交谈。随后胡锦涛在两名工作人员陪同下离场，他没有继续参加下半场的大会。胡锦涛离场时跟习近平打了个招呼，也轻拍了一下李克强左肩 <a href="https://www.bbc.com/zhongwen/simp/chinese-news-63355764" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/chinese-news-63355764</a>
+
+### 108: [2022-10-23 01:33:26+08:00 推文](https://twitter.com/HeQinglian/status/1583874182416601089)
+
+Re @Wu_Zhi @RFI_Cn 改装上阵比较方便，进退自如。又不是没干过。<br>无论如何，还是熬上半个月，等美国拜登政府11月8日再做计较。
+
+### 109: [2022-10-23 01:34:53+08:00 推文](https://twitter.com/HeQinglian/status/1583874546519937024)
+
+Re @david_david1968 人家还有儿子女儿，那么大的腐败案，这些年就未曾被反——全靠会做。
+
+### 110: [2022-10-23 01:37:28+08:00 推文](https://twitter.com/HeQinglian/status/1583875194711470081)
+
+Re @xchen156 这是对的。<br>只是老大要名至实归。<br>华国锋、胡锦涛就是有名无实；<br>邓小平是有实无名；<br>江泽民有名有实，1997年以前不算。后来总算做到了。<br>习近平现在也算名至实归。
 
