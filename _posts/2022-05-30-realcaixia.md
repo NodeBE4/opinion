@@ -17,7 +17,7 @@ title: 'Twitter @蔡霞: 2022-05-30~2022-06-05'
 
 ### 1: [2022-05-31 07:20:48+08:00 推文](https://twitter.com/realcaixia/status/1531415358187487232)
 
-自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……
+自2020年武汉新冠病毒祸害全世界，习当局就上演过种种甩锅丑剧。上行下效，上海市委跟着学，甩锅给居委会。这种甩锅能寒了上千万中共基层干部的心，他们也要给自己留条后路，躺平和枪口抬高一寸是必然的反应。这将使极权专制机器越来越半瘫痪……<br><br>韩连潮: 【上海市委太差火】习近平下令上海封城引发天怒人怨，上海市领导居然把责任推到居委会头上，引发全市民众议论。详情如图，最后一幅是居委会干部不管了，他们开始躺平，最后一句话表达了其极度不满情绪：“还管啥管”！<br><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUVEAAJDId?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeUUAAI905F?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeTUcAAR5LU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FUCdXeVUEAAefGT?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2022-05-31 09:36:19+08:00 推文](https://twitter.com/realcaixia/status/1531449460835876864)
 
@@ -61,7 +61,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 12: [2022-06-04 03:42:09+08:00 推文](https://twitter.com/realcaixia/status/1532809885511045121)
 
-明天六.四！<br><br>ZHANGDONG: 明天又是“六.四”纪念日，香港维园最后的蜡烛也被无情地踩灭了。历史真相必须揭露并不断反思才能让悲剧不再发生。<br>现在中国“6.4”这个日期都成了🈲词，更狂谈纪念反思。而今又借瘟疫把中国变成了人间地狱，这就是今日中国之黑现状！33年来中共独裁专制进一步把中国推向深渊。鲍彤先生的回忆很有历史价值.<br><br><video src="https://video.twimg.com/ext_tw_video/1532643686441426945/pu/vid/932x720/XrU9-7xZIoTcxzm7.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1532643686441426945/pu/img/pM537xrpmEjWELHq.jpg"></video> <a href="https://twitter.com/gaoyu200812/status/1532613508067602437" target="_blank" rel="noopener noreferrer">https://twitter.com/gaoyu200812/status/1532613508067602437</a>
+明天六.四！
 
 ### 13: [2022-06-04 04:04:43+08:00 推文](https://twitter.com/realcaixia/status/1532815562753347584)
 
@@ -85,11 +85,11 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+昨晚我在现场。
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 
-1989.6.4 杜宪与张宏民，原先误传是薛飞，从这个视频上看应该是张宏民。
+1989.6.4 杜宪与张宏民，原先误传是薛飞，从这个视频上看应该是张宏民。<br><br>浩哥i✝️i🇺🇸iA2: 这个新闻联播我看过，杜宪的靠别演播☹️<br><br><video src="https://video.twimg.com/ext_tw_video/1533127689321689089/pu/vid/576x324/vutDcrXolaSPFrnQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1533127689321689089/pu/img/HCEwxhy1qIO1E59n.jpg"></video>
 
 ### 20: [2022-06-05 07:15:22+08:00 推文](https://twitter.com/realcaixia/status/1533225932743331840)
 

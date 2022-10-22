@@ -100,5 +100,5 @@ I'm interested in whether you can point me to some secondary literature covering
 
 ----- __889.2__ -----2022-10-22 01:16:35+08:00:
 
-That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the book.
+That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the book. 'Cixi was the main reason the army was any good' sounds like *exactly* the tendentious line Jung Chang would come up with.
 
