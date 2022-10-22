@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 ### 7: [2022-10-19 10:27:31+08:00 推文](https://twitter.com/realcaixia/status/1582559038520590336)
 
-请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English 議報 英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
+请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English《議報》英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
 
 ### 8: [2022-10-19 10:42:58+08:00 推文](https://twitter.com/realcaixia/status/1582562926099329025)
 
@@ -69,11 +69,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 14: [2022-10-19 21:51:17+08:00 推文](https://twitter.com/realcaixia/status/1582731111595413505)
 
-英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English 議報 英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
+英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English《議報》英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
-英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English《議報》英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br> <a href="https://twitter.com/JamesCleverly/status/1582410222735196160" target="_blank" rel="noopener noreferrer">https://twitter.com/JamesCleverly/status/1582410222735196160</a>
 
 ### 16: [2022-10-21 21:23:27+08:00 推文](https://twitter.com/realcaixia/status/1583448884675678208)
 
@@ -114,4 +114,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffo0yGnXoAAI91Z?format=jpg
 ### 25: [2022-10-23 01:03:21+08:00 推文](https://twitter.com/realcaixia/status/1583866612016631809)
 
 请看工作人员把胡锦涛拉出座位，把胡拉得一个小咧咀，险些站不稳。请看工作人员拽着胡锦涛手臂那一侧衣服都被拽歪了。细节！！<br><br>美国之音中文网: 中共前总书记胡锦涛在22日的中共二十大闭幕式上令人意外地被带离会场。胡锦涛当时坐在习近平的左侧，由两名工作人员带离主席台。目前不清楚他被带离的原因，视频显示他似乎并不情愿离开。这次事件被认为很不寻常，相关视频在推特广泛传播，但在微博等中国社媒平台却找不到。<br><br><video src="https://video.twimg.com/amplify_video/1583813364782075906/vid/1280x720/NDtCfkGlat4olquE.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FfrWUVHUYAEqvpT?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3VSlLTo" target="_blank" rel="noopener noreferrer">https://bit.ly/3VSlLTo</a>
+
+### 26: [2022-10-23 03:48:16+08:00 推文](https://twitter.com/realcaixia/status/1583908113476104192)
+
+胡锦涛被强迫离开会场！不由想起2年前被传到网上的我的发言音频。20大这场景再次映证习就是黑帮老大，党早成了政治僵尸。<br>特别推荐👇2020年5月发言音频。<br><br>音频：中央党校蔡霞教授在红色后代秘密会议上的发言：必须换习、否则亡党！；中共已成政治僵尸（6/3） <a href="https://youtu.be/hEBHVsHlPeI" target="_blank" rel="noopener noreferrer">https://youtu.be/hEBHVsHlPeI</a>
+
+### 27: [2022-10-23 04:42:26+08:00 推文](https://twitter.com/realcaixia/status/1583921744452390914)
+
+Re @xchen156 @guoguang_wu 栗战书拿走了胡的那份红皮白纸，胡去拿习那边白纸，习手按住那白纸并手下人推开胡锦涛的手，于是胡锦涛站起来去拿工作人员手里的那个红皮白纸，工作人员不给胡闪开了。<br>看这一幕，想到朝鲜金三胖会场押走他姑父，三胖姑父瘫软了被架出去；中共习近平强迫带离胡锦涛；胡锦涛挣扎着维护尊严体面走出去
+
+### 28: [2022-10-23 04:53:14+08:00 推文](https://twitter.com/realcaixia/status/1583924463321894912)
+
+Re @baojianella @RFA_Chinese 栗战书拿了那个名单从胡背后递给习手下人，然后对胡说了什么……
 
