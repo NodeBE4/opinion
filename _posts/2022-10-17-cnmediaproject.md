@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -306,4 +306,8 @@ RT Jonathan Cheng<br>China's decade of change under Xi Jinping, in nine charts
 ### 73: [2022-10-22 12:43:46+08:00 推文](https://twitter.com/cnmediaproject/status/1583680489625628678)
 
 The hottest topics on Weibo right now. Chinese care only about the 20th National Congress apparently. But no one is asking why Hu Jintao was escorted out of the hall. . . The Party decides what is trending too.<br><img style="" src="https://pbs.twimg.com/media/Ffpcvr7acAAGTkn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 74: [2022-10-22 14:03:02+08:00 推文](https://twitter.com/cnmediaproject/status/1583700437206585345)
+
+根據官方公布的205名新一屆中央委員會委員名單，7名中央政治局常委中，僅有習近平、王滬寧和趙樂際在列；李克強、栗戰書、汪洋和韓正則不在名單內，顯示這4人將退出中共最高決策層。中共二十大｜李克強、栗戰書、汪洋、韓正不在中央委員名單 <a href="https://news.mingpao.com/ins/%e5%85%a9%e5%b2%b8/article/20221022/s00004/1666417227795" target="_blank" rel="noopener noreferrer">https://news.mingpao.com/ins/%e5%85%a9%e5%b2%b8/article/20221022/s00004/1666417227795</a>
 
