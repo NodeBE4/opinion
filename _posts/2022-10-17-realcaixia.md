@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-22
+date: 2022-10-23
 from: https://twitter.com/realcaixia/status/1582110371992653824
 layout: post
 tags:
@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 ### 7: [2022-10-19 10:27:31+08:00 推文](https://twitter.com/realcaixia/status/1582559038520590336)
 
-请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English 議報 英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
+请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English《議報》英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
 
 ### 8: [2022-10-19 10:42:58+08:00 推文](https://twitter.com/realcaixia/status/1582562926099329025)
 
@@ -69,7 +69,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 14: [2022-10-19 21:51:17+08:00 推文](https://twitter.com/realcaixia/status/1582731111595413505)
 
-英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English 議報 英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
+英文版议报推特 ：<br>推荐英国媒体关于中共曼城领事馆暴力事件的报道，英国可能会因此事驱出中共外交官。<br><br>YiBao English《議報》英文: UK may expel Chinese diplomats over Manchester consulate violence!! #goodjobjamescleverly #flexingmusclesinchinia<br> <a href="https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/politics/2022/oct/19/uk-may-expel-chinese-diplomats-over-manchester-consulate-violence</a>
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
@@ -102,4 +102,16 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffo0yGnXoAAI91Z?format=jpg
 ### 22: [2022-10-22 09:55:04+08:00 推文](https://twitter.com/realcaixia/status/1583638033748086784)
 
 特别推荐：<br>今天《英文版议报》推特转推了美国司法部对在美中共代理人的指控，六名中共代理人被逮捕。这个消息应在中文世界里大力传播。<br><br>YiBao English《議報》英文: #海外爱国党 #美国司法部指控 #中共代理人 #serveformycountry #CCP  #foxhunt<br>6 Chinese nationals charged as act Illegal agents for PRC. 六名中共代理人被捕<br> <a href="https://www.justice.gov/usao-edny/pr/six-individuals-charged-conspiring-act-illegal-agents-peoples-republic-china-0" target="_blank" rel="noopener noreferrer">https://www.justice.gov/usao-edny/pr/six-individuals-charged-conspiring-act-illegal-agents-peoples-republic-china-0</a>
+
+### 23: [2022-10-23 00:49:10+08:00 推文](https://twitter.com/realcaixia/status/1583863039962406912)
+
+想看清楚胡锦涛被强迫带离会场的每一个细节的网友，可以从8分50秒开始往后看。奶爸观察的细，他看到胡锦涛不情愿离开，工作人员从胡锦涛背后把胡拽离座位时，胡锦涛又坐下去了………<br><br>奇观！胡锦涛被带离会场活活逼疯了中共文宣，推特假账号疯狂刷屏 <a href="https://youtu.be/eldhfGKUiH8" target="_blank" rel="noopener noreferrer">https://youtu.be/eldhfGKUiH8</a>
+
+### 24: [2022-10-23 00:56:44+08:00 推文](https://twitter.com/realcaixia/status/1583864945615462400)
+
+细节！请仔细看细节！<br><br>方舟子: 胡锦涛很明显是被强行带离现场，什么原因将成为千古之谜。旁边的栗战书吓得直冒汗，站起来被王沪宁拉下去。<br><br><video src="https://video.twimg.com/ext_tw_video/1583706266743939073/pu/vid/888x490/MjiKGPgz3_Xy-Yyb.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1583706266743939073/pu/img/RaVGAvYyoAFgnRR0.jpg"></video>
+
+### 25: [2022-10-23 01:03:21+08:00 推文](https://twitter.com/realcaixia/status/1583866612016631809)
+
+请看工作人员把胡锦涛拉出座位，把胡拉得一个小咧咀，险些站不稳。请看工作人员拽着胡锦涛手臂那一侧衣服都被拽歪了。细节！！<br><br>美国之音中文网: 中共前总书记胡锦涛在22日的中共二十大闭幕式上令人意外地被带离会场。胡锦涛当时坐在习近平的左侧，由两名工作人员带离主席台。目前不清楚他被带离的原因，视频显示他似乎并不情愿离开。这次事件被认为很不寻常，相关视频在推特广泛传播，但在微博等中国社媒平台却找不到。<br><br><video src="https://video.twimg.com/amplify_video/1583813364782075906/vid/1280x720/NDtCfkGlat4olquE.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/media/FfrWUVHUYAEqvpT?format=jpg&amp;name=orig"></video> <a href="https://bit.ly/3VSlLTo" target="_blank" rel="noopener noreferrer">https://bit.ly/3VSlLTo</a>
 
