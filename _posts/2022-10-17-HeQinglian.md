@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-22
+date: 2022-10-23
 from: https://twitter.com/HeQinglian/status/1581786526010441729
 layout: post
 tags:
@@ -418,4 +418,20 @@ Re @JianglinLi 让他晕倒在台上，不会比较聪明。
 ### 101: [2022-10-22 22:47:54+08:00 推文](https://twitter.com/HeQinglian/status/1583832525146767361)
 
 Re @JianglinLi 不去更有传言。记得领导人在这种场合，只要能爬也得爬着去，双方都有需要。<br>政治上欺老不欺少，官场都知道。深圳当年主管城建的副市长王建就是欺负乔石儿子早了点，后来的下场很不好。
+
+### 102: [2022-10-22 23:48:43+08:00 推文](https://twitter.com/HeQinglian/status/1583847827339255808)
+
+Re @CrabNJ 胡海峰能力有限，到（副）省部级就碰顶了。恩荫有限度。
+
+### 103: [2022-10-22 23:50:38+08:00 推文](https://twitter.com/HeQinglian/status/1583848312527986688)
+
+Re @mingshi_chen @yfn3h0card5 他们主要是将中央全会想象成村官开会。
+
+### 104: [2022-10-23 00:10:30+08:00 推文](https://twitter.com/HeQinglian/status/1583853311434055682)
+
+Re @KELMAND1 @aifaily 现在有图不一定是真相，连视频都作假。
+
+### 105: [2022-10-23 00:13:06+08:00 推文](https://twitter.com/HeQinglian/status/1583853966169116672)
+
+Re @YangZshui @CrabNJ 你自己想想你会如何用人就行了。<br>靠恩荫与靠自己，是有区别的。
 
