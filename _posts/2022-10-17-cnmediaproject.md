@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -298,4 +298,12 @@ Re Important to note that in Xi's 2017 formulation, intra-party democracy was no
 ### 71: [2022-10-22 07:39:56+08:00 推文](https://twitter.com/cnmediaproject/status/1583604027245309953)
 
 When looking at the 20th report, phrases like 人民领袖 are crucial -- but many other term fragments here deserve caution.<br><br>Vicky Xu / 许秀中: 我和@nrg8000把“人民领袖”习近平这次20大的报告和之前19、18、17、16大的报告比较了一下。我们分析了关键词在每小时被提及的次数<br><br>大家来看看数据：左图是习反复提及，而胡锦涛江泽民较少提的（斗争、自信、外部势力、意识形态、人类等）；右图是胡江提得较多，习不再提的（和平、教育、市场、企业等）<br><br><img style="" src="https://pbs.twimg.com/media/FfkXGOQaUAEejJi?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfkXGObaEAEFm3Q?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 72: [2022-10-22 10:31:00+08:00 推文](https://twitter.com/JChengWSJ/status/1583647075790528513)
+
+RT Jonathan Cheng<br>China's decade of change under Xi Jinping, in nine charts. Xi has transformed the country economically, socially and politically. Challenges lie ahead for his next term.<br>@Kubota_Yoko @ByChunHan @TByGraceZhu @QiLiyan @lizalinwsj @raffaelehuang <a href="https://on.wsj.com/3eQOCa7" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3eQOCa7</a>
+
+### 73: [2022-10-22 12:43:46+08:00 推文](https://twitter.com/cnmediaproject/status/1583680489625628678)
+
+The hottest topics on Weibo right now. Chinese care only about the 20th National Congress apparently. But no one is asking why Hu Jintao was escorted out of the hall. . . The Party decides what is trending too.<br><img style="" src="https://pbs.twimg.com/media/Ffpcvr7acAAGTkn?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
