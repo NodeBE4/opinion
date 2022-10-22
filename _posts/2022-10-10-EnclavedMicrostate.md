@@ -213,5 +213,5 @@ Sure, but I don't even think that's what Malleon was saying – the issue was *a
 
 ----- __882.8__ -----2022-10-22 07:15:12+08:00:
 
-That's what got me – if Delutaya's timeline is accurate, Mikeneko's insinuations would have been around the time she debuted her Live2D model, and surely far from coincidental.
+That's what got me – if Delutaya's timeline is accurate, Mikeneko's insinuations would have been around the time Delu debuted her Live2D model, and surely far from coincidental.
 

@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2021-12-13 10:59:59+08:00 推文](https://twitter.com/cnmediaproject/status/1470226969992200196)
 
-For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style="" src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
+For those who missed it: Douban, which had slightly more chatter last month about the Peng Shuai case, is among 106 apps dropped from app stores in China (along with karaoke app Changba). <a href="https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/10/douban-pulled-from-app-stores/</a><br><img style src="https://pbs.twimg.com/media/FGdLVzMVcAAxM1x?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-13 11:04:23+08:00 推文](https://twitter.com/cnmediaproject/status/1470228074658922497)
 
@@ -97,7 +97,7 @@ Re CMP looks a bit more closely at the language in the CAC notice. One point is 
 
 ### 21: [2021-12-16 13:33:54+08:00 推文](https://twitter.com/GeringTuvia/status/1471352867374059524)
 
-RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
+RT Tuvia Gering 陶文亚<br>"Let Lithuania taste the bitter fruit of serving as a 'pawn' for the US" - East China Normal University's Professor Liu Jun, Deputy Dean of the School of Advanced International and Area Studies and Deputy Director of the Center for Russian Studies, with a word of caution.<br>1/4<br><img style="" src="https://pbs.twimg.com/media/FGtKuq0VcAA5JMV?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2021-12-16 13:34:07+08:00 推文](https://twitter.com/cnmediaproject/status/1471352921329893377)
 
@@ -113,7 +113,7 @@ Re @emilyjodell It certainly does look that way.
 
 ### 25: [2021-12-16 13:54:06+08:00 推文](https://twitter.com/cnmediaproject/status/1471357948480073728)
 
-This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style="" src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
+This is perhaps one of Hu's last spin jobs -- depicting his own departure from the Global Times as a "retirement."<br><img style src="https://pbs.twimg.com/media/FGtQOh5VUAAHh-e?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2021-12-16 13:55:18+08:00 推文](https://twitter.com/cnmediaproject/status/1471358253871562752)
 
@@ -121,7 +121,7 @@ Re Serious question: How long before he posts the same news to Twitter?
 
 ### 27: [2021-12-16 15:17:20+08:00 推文](https://twitter.com/cnmediaproject/status/1471378897703157760)
 
-Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+Our report on the "retirement" of Hu Xijin as editor-in-chief of the Global Times, with some notes on his possible replacements. <a href="https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/16/good-bye-hu-xijin/</a><br><img style="" src="https://pbs.twimg.com/media/FGtjR5zVcAYHjIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 28: [2021-12-16 16:32:34+08:00 推文](https://twitter.com/vshih2/status/1471397830212218884)
 
@@ -145,11 +145,11 @@ In our dictionary entry on "ideol. and pol. education" (思政), this example st
 
 ### 33: [2021-12-17 09:36:29+08:00 推文](https://twitter.com/cnmediaproject/status/1471655508486811652)
 
-Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style="" src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re "Red Genes" (红色基因) is another term in our growing CMP Dictionary. <a href="https://chinamediaproject.org/the_ccp_dictionary/red-genes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/red-genes/</a><br><img style src="https://pbs.twimg.com/media/FGxe4E2aMAEucKz?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 34: [2021-12-17 09:37:42+08:00 推文](https://twitter.com/cnmediaproject/status/1471655811298791426)
 
-Re Here is a page from the textbook, now deleted from WeChat.<br><img style="" src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re Here is a page from the textbook, now deleted from WeChat.<br><img style src="https://pbs.twimg.com/media/FGxfItQaUAwfIPf?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 35: [2021-12-17 09:42:30+08:00 推文](https://twitter.com/cnmediaproject/status/1471657021661663238)
 
