@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2020-12-07 16:54:52+08:00 推文](https://twitter.com/MalinOud/status/1335870381094219778)
 
-RT Malin Oud<br>Thanks to all the China specialists, policymakers and practitioners who participated in our "Decoding China Dictionary" workshop last week! Co-authored by @cmphku, Katja Drinhausen (@merics_eu), @JerkerHellstrom, @RudyakMarina and me, the dictionary currently contains 12 terms--><br><img style src="https://pbs.twimg.com/media/EonvQBQXUAEKXy0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EonvUQFWMAIcbvo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/EonvYd8XUAEI6BQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/Eonvaz6XcAA4ka1?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Malin Oud<br>Thanks to all the China specialists, policymakers and practitioners who participated in our "Decoding China Dictionary" workshop last week! Co-authored by @cmphku, Katja Drinhausen (@merics_eu), @JerkerHellstrom, @RudyakMarina and me, the dictionary currently contains 12 terms--><br><img style="" src="https://pbs.twimg.com/media/EonvQBQXUAEKXy0?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EonvUQFWMAIcbvo?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/EonvYd8XUAEI6BQ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Eonvaz6XcAA4ka1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2020-12-07 22:01:48+08:00 推文](https://twitter.com/RollandNadege/status/1335947622264213504)
 
@@ -33,7 +33,7 @@ Scandal Dogs China’s ‘King of Vaccines,’ Partner to AstraZeneca <a href=
 
 ### 5: [2020-12-09 01:30:53+08:00 推文](https://twitter.com/xinwenxiaojie/status/1336362625886777350)
 
-RT Yuen Chan<br>Once upon a time in Beijing.<br>When there was healthy competition among the TV news operations in Hong Kong. <br>When the city was a beacon for press freedom in the region.<br>One of those stations is extinct, the other has been shaken to the core.<br><img style="" src="https://pbs.twimg.com/media/Eou2NIFXIAI-CR1?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Yuen Chan<br>Once upon a time in Beijing.<br>When there was healthy competition among the TV news operations in Hong Kong. <br>When the city was a beacon for press freedom in the region.<br>One of those stations is extinct, the other has been shaken to the core.<br><img style src="https://pbs.twimg.com/media/Eou2NIFXIAI-CR1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2020-12-11 22:07:58+08:00 推文](https://twitter.com/cnmediaproject/status/1337398726801952771)
 
