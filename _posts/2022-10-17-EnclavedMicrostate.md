@@ -84,21 +84,27 @@ It is important to understand that 'Hui' is not a term with a fixed meaning. Ori
 
 I'd swap in 'Britannia' for 'Britain' – the 'ain' in 'Britain' is quite a weak syllable to stress.
 
-### 888: [The people's wife](https://old.reddit.com/r/Hololive/comments/y8k5fq/the_peoples_wife/), submitted on 2022-10-20 09:14:39+08:00.
+### 888: [This car](https://old.reddit.com/r/ATBGE/comments/y7zblm/this_car/), submitted on 2022-10-19 18:43:22+08:00.
 
------ __888.1__ -----2022-10-20 15:24:29+08:00:
+----- __888.1__ -----2022-10-23 15:24:02+08:00:
+
+This is how you can tell someone has failed at aircraft identification: the RAF didn't start using grey and green camo until September 1941, nearly a year after the Battle of Britain. The tail stripes and roundels are also of late war design.
+
+### 889: [The people's wife](https://old.reddit.com/r/Hololive/comments/y8k5fq/the_peoples_wife/), submitted on 2022-10-20 09:14:39+08:00.
+
+----- __889.1__ -----2022-10-20 15:24:29+08:00:
 
 See, I was thinking that it was the case that people in their friends group were choosing to get married outside Japan in case VTubers got recognised and doxxed at the wedding. This... makes more *and* less sense at the same time.
 
-### 889: [Why wasn't the Qing Dynasty of China able to successfully modernize and organize its military to the extent Imperial Japan was?](https://old.reddit.com/r/WarCollege/comments/y9dl5p/why_wasnt_the_qing_dynasty_of_china_able_to/), submitted on 2022-10-21 07:35:26+08:00.
+### 890: [Why wasn't the Qing Dynasty of China able to successfully modernize and organize its military to the extent Imperial Japan was?](https://old.reddit.com/r/WarCollege/comments/y9dl5p/why_wasnt_the_qing_dynasty_of_china_able_to/), submitted on 2022-10-21 07:35:26+08:00.
 
------ __889.1__ -----2022-10-21 15:26:31+08:00:
+----- __890.1__ -----2022-10-21 15:26:31+08:00:
 
 > Earlier historians portrayed this as a voluntary action, but the reality revealed by newly translated primary sources is that Ci Xi was forced from power by her enemies, chief among them Grand Tutor Weng.
 
 I'm interested in whether you can point me to some secondary literature covering this – it does sort of gel with my understanding but I don't think I have come across anything concretely covering this period.
 
------ __889.2__ -----2022-10-22 01:16:35+08:00:
+----- __890.2__ -----2022-10-22 01:16:35+08:00:
 
 That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the book. 'Cixi was the main reason the army was any good' sounds like *exactly* the tendentious line Jung Chang would come up with.
 
