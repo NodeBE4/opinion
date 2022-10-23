@@ -213,7 +213,7 @@ How Xi Jinping's address on Sunday was not a "work report" — and other misunde
 
 ### 50: [2022-10-18 23:40:23+08:00 推文](https://twitter.com/cnmediaproject/status/1582396180163887105)
 
-Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br> <a href="https://twitter.com/cnmediaproject/status/1582367120549376001" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1582367120549376001</a>
+Good to know. Next up is the keyword fallacy -- words like 开放 that many crunch into data at their peril. The charts are proliferating.<br><br>Holly Snape: 👏👏👏 This is awesome. Clear and concise, it corrects the key common misunderstandings.<br>
 
 ### 51: [2022-10-18 23:42:02+08:00 推文](https://twitter.com/cnmediaproject/status/1582396595701968897)
 
@@ -221,7 +221,7 @@ Looks like a must-read at a must time.<br><br>Aynne Kokas: My new @OUPAcademic
 
 ### 52: [2022-10-19 09:07:21+08:00 推文](https://twitter.com/cnmediaproject/status/1582538861150076928)
 
-On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br> <a href="https://twitter.com/ChairmanRabbit/status/1582417462771200000" target="_blank" rel="noopener noreferrer">https://twitter.com/ChairmanRabbit/status/1582417462771200000</a>
+On this note, CMP looks at three simple misunderstandings that unfortunately have dogged the analysis this week of Xi's report to the 20th National Congress of the CCP.<br><br>Marina Rudyak 卢玛丽: 👇 This, people, is why we need to invest massively in Chinese language and decoding Chinese politics literacy.<br>
 
 ### 53: [2022-10-19 12:13:03+08:00 推文](https://twitter.com/lauriechenwords/status/1582585595431243777)
 
@@ -241,7 +241,7 @@ RT Bill Bishop<br>Shanghai will build an isolation facility that can house tho
 
 ### 57: [2022-10-20 13:59:14+08:00 推文](https://twitter.com/cnmediaproject/status/1582974702846636032)
 
-A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br> <a href="https://twitter.com/fryan/status/1582960014053949440" target="_blank" rel="noopener noreferrer">https://twitter.com/fryan/status/1582960014053949440</a>
+A revealing case dealt with in greater detail in the new ASPI report that is well worth a read. The tactic of what we call "cloaking" at CMP (hiding clear associations with state media and agencies to make interactions seem real and organic) is actually many decades old.<br><br>Nerys Avery: Fascinating thread and exposé<br>
 
 ### 58: [2022-10-21 15:21:13+08:00 推文](https://twitter.com/cnmediaproject/status/1583357722388746240)
 
@@ -350,4 +350,36 @@ Re Read more in CMP's latest on the concept, and the application of Xi thought a
 ### 84: [2022-10-23 10:49:30+08:00 推文](https://twitter.com/cnmediaproject/status/1584014121653399552)
 
 Yes, this is a very crucial point. This section on the state of affairs in 2012 is damning in laying the base for the glorious change of the "New Era."<br><br>Henry Gao: Anyone who believes in the sickness theory should go back and re-read the 20th Party Congress Report: Why else would Xi devote 1.5 pages to what went wrong with the Party,  government, economy, society, national security etc when he took office in 2012?<br> <a href="https://twitter.com/henrysgao/status/1583693199117193217" target="_blank" rel="noopener noreferrer">https://twitter.com/henrysgao/status/1583693199117193217</a>
+
+### 85: [2022-10-23 12:11:55+08:00 推文](https://twitter.com/cnmediaproject/status/1584034859642916864)
+
+"I was re-elected as the General Secretary of the CCP Central Committee."<br><img style="" src="https://pbs.twimg.com/media/FfufSvLagAMFH89?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 86: [2022-10-23 12:19:27+08:00 推文](https://twitter.com/cnmediaproject/status/1584036758786039808)
+
+"The enormity of the task is what makes it great and infinitely glorious." Make no mistake, we are entering a new era of fatuousness (with peril just behind) within a "New Era" for the CCP. This language cannot even lose its edges in translation without leaving a vacuum.<br><img style="" src="https://pbs.twimg.com/media/FfugtEXaAAEId8A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 87: [2022-10-23 12:22:27+08:00 推文](https://twitter.com/cnmediaproject/status/1584037511755890691)
+
+Before the glory comes the stiffness.<br><img style="" src="https://pbs.twimg.com/media/Ffuhn61agAAPPnE?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 88: [2022-10-23 12:24:59+08:00 推文](https://twitter.com/cnmediaproject/status/1584038147687866368)
+
+Xi emphasizes "self-governance." But as we mentioned in a thread recently, the key phrase "intra-Party democracy," with a long history in the CCP, was dropped this year for the first time in more than four decades.<br><img style="" src="https://pbs.twimg.com/media/FfuiSbtaYAAT1sK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 89: [2022-10-23 12:33:37+08:00 推文](https://twitter.com/cnmediaproject/status/1584040323583733760)
+
+Xi Jinping finishes by enjoining journalists to offer an "unbiased" view of China, and the "story of the Chinese Communist Party." The entry on "Journalism" in our partner project Decoding China will be up soon. Here is "freedom of speech." <a href="https://decodingchina.eu/freedom-of-speech/" target="_blank" rel="noopener noreferrer">https://decodingchina.eu/freedom-of-speech/</a><br><img style="" src="https://pbs.twimg.com/media/FfujyyAakAA_5f0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 90: [2022-10-23 12:42:10+08:00 推文](https://twitter.com/cnmediaproject/status/1584042473047085058)
+
+Re @thinking_panda That's exactly right: We're in the "New Era" of "whole-process democracy."
+
+### 91: [2022-10-23 12:53:25+08:00 推文](https://twitter.com/cnmediaproject/status/1584045304898543624)
+
+The eagerly-awaited lineup of Politburo Standing Committee members is now a done deal. You have time to read our latest on the shiny new 20th Congress buzzword: "Five Firm Grasps" (五个牢牢把握). <a href="https://chinamediaproject.org/2022/10/23/five-firm-grasps-for-the-world/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/23/five-firm-grasps-for-the-world/</a>
+
+### 92: [2022-10-23 13:08:48+08:00 推文](https://twitter.com/cnmediaproject/status/1584049175649751046)
+
+Watching Xi's new standing committee line up today, and reflecting on changes globally in the past 10 years, it is impossible not to consider that the entire world has forgotten its history lessons.<br><img style="" src="https://pbs.twimg.com/media/FfusTA8aUAA3IRI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
