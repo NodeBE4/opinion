@@ -53,7 +53,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 10: [2022-06-03 20:28:55+08:00 推文](https://twitter.com/realcaixia/status/1532700857816457216)
 
-在端午节这个日子里，期盼所有被极权迫害被关押的的正义人士都能早日回家与亲人团聚。期盼张展、潇男、翘楚、任志强、孙大午、丁家喜、高智晟………都能早日回家……<br><br>王贺楠: 又是一年端午节，我只愿我先生王爱忠能够早日回家和我们团聚。越是这些节日我越会想念。在这里我和家人祝所有一直关心我们的朋友：端午安康！<br><br><img style="" src="https://pbs.twimg.com/media/FUTCIA6VUAA0eyY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+在端午节这个日子里，期盼所有被极权迫害被关押的的正义人士都能早日回家与亲人团聚。期盼张展、潇男、翘楚、任志强、孙大午、丁家喜、高智晟………都能早日回家……
 
 ### 11: [2022-06-03 21:26:56+08:00 推文](https://twitter.com/realcaixia/status/1532715458557890563)
 
@@ -85,7 +85,7 @@ Re 1、规避这个规定而继续大权独揽的路径是：中共党内另设�
 
 ### 18: [2022-06-05 03:37:36+08:00 推文](https://twitter.com/realcaixia/status/1533171126125436930)
 
-昨晚我在现场。<br><br>Joey Siu 邵嵐🌻☘️: The Chinese Communist regime can ban vigils at Victoria’s Park but they cannot stop the candlelight from turning into sparks that ignite change around the world.🕯<br><br>#June4th #TiananmenSquareMassacre<br><br><img style="" src="https://pbs.twimg.com/media/FUYHMKvXwAATT_s?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+昨晚我在现场。
 
 ### 19: [2022-06-05 07:02:47+08:00 推文](https://twitter.com/realcaixia/status/1533222763439304704)
 

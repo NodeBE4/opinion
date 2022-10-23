@@ -23,11 +23,11 @@ The "fake election" of Hong Kong made it to the headlines. Less than a quarter o
 
 ### 2: [2021-12-22 23:34:23+08:00 推文](https://twitter.com/nathanlawkc/status/1473678311276617738)
 
-Publishing #Freedom means a lot to me. I’ve been trying different ways to raise awareness for the Hong Kong protests. Depicting it from personal insight and making it easy to read for international audiences has always been part of the goals -- “Freedom” indeed achieved it.<br><img style="" src="https://pbs.twimg.com/media/FHOOf67WUAMmNYO?format=jpg&name=orig" referrerpolicy="no-referrer">
+Publishing #Freedom means a lot to me. I’ve been trying different ways to raise awareness for the Hong Kong protests. Depicting it from personal insight and making it easy to read for international audiences has always been part of the goals -- “Freedom” indeed achieved it.<br><img style src="https://pbs.twimg.com/media/FHOOf67WUAMmNYO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-23 08:12:35+08:00 推文](https://twitter.com/nathanlawkc/status/1473808720983433221)
 
-The #PillarOfShame is removed, while memory lives.<br>We must remember what happened on June 4th, 1989.<br>#TiananmenMassacre<br><br>Xinqi Su 蘇昕琪: In a statement confirming its decision to remove #PillarOfShame, #HKU council said latest legal advice cautioned that the continued display of the statue would pose legal risks based on the Crimes Ordinance enacted in British colonial years. <br><br>So not #NSL?<br><br><img style="" src="https://pbs.twimg.com/media/FHP-A11UYAEvqUN?format=jpg&name=orig" referrerpolicy="no-referrer">
+The #PillarOfShame is removed, while memory lives.<br>We must remember what happened on June 4th, 1989.<br>#TiananmenMassacre<br><br>Xinqi Su 蘇昕琪: In a statement confirming its decision to remove #PillarOfShame, #HKU council said latest legal advice cautioned that the continued display of the statue would pose legal risks based on the Crimes Ordinance enacted in British colonial years. <br><br>So not #NSL?<br><br><img style src="https://pbs.twimg.com/media/FHP-A11UYAEvqUN?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 4: [2021-12-23 09:29:51+08:00 推文](https://twitter.com/nathanlawkc/status/1473828164279410688)
 
