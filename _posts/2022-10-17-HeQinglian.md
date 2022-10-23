@@ -241,7 +241,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：�
 
 ### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
-此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br> <a href="https://twitter.com/echo_chamberz/status/1582504597804834817" target="_blank" rel="noopener noreferrer">https://twitter.com/echo_chamberz/status/1582504597804834817</a>
 
 ### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
 
@@ -261,7 +261,7 @@ Re @FangYiDuan1 @RFI_Cn 左派是通过社会运动（反抗）起家的，左�
 
 ### 62: [2022-10-21 09:17:42+08:00 推文](https://twitter.com/HeQinglian/status/1583266243435704320)
 
-在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a>
+在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a> <a href="https://twitter.com/JianglinLi/status/1582668508868988929" target="_blank" rel="noopener noreferrer">https://twitter.com/JianglinLi/status/1582668508868988929</a>
 
 ### 63: [2022-10-21 09:54:11+08:00 推文](https://twitter.com/HeQinglian/status/1583275422980009984)
 
