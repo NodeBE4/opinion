@@ -241,7 +241,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>《俄勒冈首富菲尔·奈特：�
 
 ### 57: [2022-10-21 06:28:52+08:00 推文](https://twitter.com/HeQinglian/status/1583223755803078661)
 
-此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br> <a href="https://twitter.com/echo_chamberz/status/1582504597804834817" target="_blank" rel="noopener noreferrer">https://twitter.com/echo_chamberz/status/1582504597804834817</a>
+此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br><br>李江琳: @Wu_Zhi @david_david1968 @HeQinglian @ngexp @RealBeiMing<br>
 
 ### 58: [2022-10-21 06:47:35+08:00 推文](https://twitter.com/Tianshuihanyan/status/1583228463406018560)
 
@@ -261,7 +261,7 @@ Re @FangYiDuan1 @RFI_Cn 左派是通过社会运动（反抗）起家的，左�
 
 ### 62: [2022-10-21 09:17:42+08:00 推文](https://twitter.com/HeQinglian/status/1583266243435704320)
 
-在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a> <a href="https://twitter.com/JianglinLi/status/1582668508868988929" target="_blank" rel="noopener noreferrer">https://twitter.com/JianglinLi/status/1582668508868988929</a>
+在👇文中，索罗斯说，“我们将开始为新的世界秩序建立架构。它的基础是美国作为剩余的超级大国，开放社会作为组织原则。它由一系列联盟组成，其中最重要的是北约，以及通过北约，围绕北半球的和平伙伴关系。美国不会被要求充当世界警察。当它行动时，它会与其他人一起行动。”<br>对比俄乌战争中的美欧行动<br><br>He Qinglian: 此贴图来自于索罗斯11/1/1993发表的文章：<br>Toward a New World Order: The Future of NATOToward a New World Order: The Future of NATO<br><br>中国1990年代有本《战略与管理》，登过他主题类似的另一篇文章。当时据说他在美国还是另类，20多年过去寄生于左派之中终成主流。<br> <a href="https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/" target="_blank" rel="noopener noreferrer">https://www.georgesoros.com/1993/11/01/toward-a-new-world-order-the-future-of-nato/</a>
 
 ### 63: [2022-10-21 09:54:11+08:00 推文](https://twitter.com/HeQinglian/status/1583275422980009984)
 
@@ -454,4 +454,60 @@ Re @david_david1968 人家还有儿子女儿，那么大的腐败案，这些年
 ### 110: [2022-10-23 01:37:28+08:00 推文](https://twitter.com/HeQinglian/status/1583875194711470081)
 
 Re @xchen156 这是对的。<br>只是老大要名至实归。<br>华国锋、胡锦涛就是有名无实；<br>邓小平是有实无名；<br>江泽民有名有实，1997年以前不算。后来总算做到了。<br>习近平现在也算名至实归。
+
+### 111: [2022-10-23 08:10:44+08:00 推文](https://twitter.com/HeQinglian/status/1583974165148622848)
+
+Re @xxj2040 没有提前，就是按常规，会议将结束时，让他们入场拍照。这一幕就发生在这时。
+
+### 112: [2022-10-23 08:14:39+08:00 推文](https://twitter.com/HeQinglian/status/1583975149287530497)
+
+Re @StudyIssac 英文媒体对三个人的报道，你听听就算了。一是普京，二是川普，三是习近平——对习的报道，其实是疫情之后发生变化的，此前还常说他要改革。<br>中国政府控制媒体太厉害，出现这种情况，也是情理中事。
+
+### 113: [2022-10-23 08:17:23+08:00 推文](https://twitter.com/HeQinglian/status/1583975840156905472)
+
+Re @david_david1968 主要是中国政治黑箱操作，离开宫廷斗争叙事，人们不知道如何分析。
+
+### 114: [2022-10-23 08:38:35+08:00 推文](https://twitter.com/HeQinglian/status/1583981175043162112)
+
+Re @kbclindy @david_david1968 网络时代消费政治就是如此，有快感第一，真实情况大家不感兴趣。
+
+### 115: [2022-10-23 08:40:32+08:00 推文](https://twitter.com/HeQinglian/status/1583981665637892096)
+
+Re @Vanessa_ZhangUK @JianglinLi 原来就选他，岂不省事？<br>不过，按英国这节奏，原来选他，现在也可能下了。
+
+### 116: [2022-10-23 08:43:12+08:00 推文](https://twitter.com/HeQinglian/status/1583982336164913152)
+
+Re @kbclindy @Tepezano161 @xxj2040 事实就是如此。我相信这次会议开过，公布了名单，还会有人经常“曝料”，I Hear，BlaBlaBla，听的人高兴，讲的人涨粉，继续玩中南海占星术。<br>相比读文件，看政府宣传的枯燥，这种东西带来的快感不可同日而语。
+
+### 117: [2022-10-23 08:47:53+08:00 推文](https://twitter.com/HeQinglian/status/1583983515670302720)
+
+Re @kbclindy @xxj2040 这些人都戴了医疗监测仪器，保健医生时刻都在看着。
+
+### 118: [2022-10-23 08:52:21+08:00 推文](https://twitter.com/HeQinglian/status/1583984640485793792)
+
+Re @kbclindy @Tepezano161 @xxj2040 这种情形在2015年就开始了。<br>那时，出了一个《国企改革方案》，纲要才5100多字，许多人不看方案，接受媒体采访硬说是要最后一次瓜分国有资产。我实在看不过了，一条一条分析，是要做大做强国有企业，并且让国企“收购”优质民企，那篇文章标题是《国有企业改革的风，到底姓私还是姓公？》。
+
+### 119: [2022-10-23 09:02:00+08:00 推文](https://twitter.com/HeQinglian/status/1583987068006387712)
+
+Re @kbclindy @Tepezano161 @xxj2040 <br>我写得比较客气。 <a href="http://heqinglian.net/2015/09/19/state-owned-enterprises/" target="_blank" rel="noopener noreferrer">http://heqinglian.net/2015/09/19/state-owned-enterprises/</a>
+
+### 120: [2022-10-23 09:02:58+08:00 推文](https://twitter.com/HeQinglian/status/1583987308788781057)
+
+Re @kbclindy @Vince6610 @xxj2040 话说，今后大会就别请元老出席了，各自在家荣养，省事多多。
+
+### 121: [2022-10-23 09:05:39+08:00 推文](https://twitter.com/HeQinglian/status/1583987984462118912)
+
+Re @yebingvoa 没弄明白，习连任产生大变局，习要改革？改到哪里去？如果是继续他的施政，那就没有变局，国内继续加强社会管控，国际政策也不会有太大的变化。
+
+### 122: [2022-10-23 10:18:28+08:00 推文](https://twitter.com/HeQinglian/status/1584006309208170497)
+
+Re @yebingvoa 怎么可能朝向良性？<br>在世界都向下沉沦之时，下沉得缓慢一些，就算是“良性发展”了。
+
+### 123: [2022-10-23 10:21:17+08:00 推文](https://twitter.com/HeQinglian/status/1584007018175639552)
+
+Re @dinglili7 “祂”这模样，会加深家长们对变性的警惕，少有家长愿意看到自家儿子变成这模样。
+
+### 124: [2022-10-23 10:26:21+08:00 推文](https://twitter.com/HeQinglian/status/1584008293433118720)
+
+Re @kbclindy @Tepezano161 @xxj2040 基本上做到了。那时，马云的江南会还没收摊，还以为自己有点活动舞台。
 

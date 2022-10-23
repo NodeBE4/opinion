@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-22
+date: 2022-10-23
 from: https://twitter.com/ProfYangZhang/status/1581677189300654082
 layout: post
 tags:
@@ -289,7 +289,7 @@ Re @BeatriceGallel1 That's right. We wrote about that here: <a href="https://c
 
 ### 69: [2022-10-22 03:26:45+08:00 推文](https://twitter.com/niubi/status/1583540310948204544)
 
-RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT Bill Bishop<br>An Quanzhong owns the Parc hotel, which he will likely be forced to forfeit now. Guy clearly a flight risk, bail likely will be denied.<br><img style="" src="https://pbs.twimg.com/media/FfndhIpXgBAm2l3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>Bill Bishop: The indictment is fascinating. Some highlights. FBI should put mob investigators on these cases<br><br><img style="" src="https://pbs.twimg.com/media/FfncwyHXgAoEFsY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyAXgBQZa_B?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyBXgAUU2ow?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfncwyiagAEuYJU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/niubi/status/1583527512868409344" target="_blank" rel="noopener noreferrer">https://twitter.com/niubi/status/1583527512868409344</a>
 
 ### 70: [2022-10-22 06:48:45+08:00 推文](https://twitter.com/cnmediaproject/status/1583591146466340864)
 
@@ -314,4 +314,40 @@ The hottest topics on Weibo right now. Chinese care only about the 20th National
 ### 75: [2022-10-22 21:09:00+08:00 推文](https://twitter.com/dakekang/status/1583807633588654080)
 
 RT Dake Kang<br>One more interesting tidbit in the Hu Jintao affair today: The man helping up Hu is Kong Shaoxun (孔绍逊), the deputy director of the General Office of the CPC Central Committee. His boss is Ding Xuexiang, widely expected to be on the next Standing Committee.<br><img style="" src="https://pbs.twimg.com/media/FfrMnKoXwAYTPHJ?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfrM17oWAAABGs-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 76: [2022-10-23 08:34:58+08:00 推文](https://twitter.com/cnmediaproject/status/1583980265894187008)
+
+The banner signaling language still very strong, despite no "Xi Jinping Thought" . . . yet. The lead commentary today in the People's Daily is very strong on Xi's 旗帜语, seeming to tamp down the foundation.  🧵 <a href="http://cpc.people.com.cn/20th/n1/2022/1023/c448334-32549782.html" target="_blank" rel="noopener noreferrer">http://cpc.people.com.cn/20th/n1/2022/1023/c448334-32549782.html</a><br><img style="" src="https://pbs.twimg.com/media/FfttX1FagAAWuOU?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 77: [2022-10-23 08:37:38+08:00 推文](https://twitter.com/cnmediaproject/status/1583980936160763904)
+
+Re Toward the end of this selection, you can see the "Two Establishes" (两个确立) formula, all about Xi Jinping being 1) the "core" and 2) the fountainhead of visionary CCP ideas. We introduce the formula in our CMP Dictionary: <a href="https://chinamediaproject.org/the_ccp_dictionary/two-establishes/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/two-establishes/</a>
+
+### 78: [2022-10-23 08:40:16+08:00 推文](https://twitter.com/cnmediaproject/status/1583981595668918273)
+
+Re The "Two Establishes" are stressed in the commentary today as a "major political outcome" (重大政治成果) of the Party, trumpets blaring. And the finish repeats the phrase 高举中国特色社会主义伟大旗帜，全面贯彻习近平新时代中国特色社会主义思想.<br><img style="" src="https://pbs.twimg.com/media/Fftu3JaaUAINX2w?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 79: [2022-10-23 08:42:21+08:00 推文](https://twitter.com/cnmediaproject/status/1583982123945709568)
+
+Re "Raising high the great banner of socialism with Chinese characteristics, fully implementing Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era." This is begging to become "raising high the great banner of Xi Jinping Thought," which could still happen.<br><img style="" src="https://pbs.twimg.com/media/FftvVvJaMAAFvP0?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 80: [2022-10-23 09:02:29+08:00 推文](https://twitter.com/cnmediaproject/status/1583987190119682048)
+
+In the live coverage, they almost seemed stunned into resignation: Really, back to this point again in China's history?<br><br>Bill Bishop: they look ready to go<br><br><img style="" src="https://pbs.twimg.com/media/FfsAxC3X0AEli9L?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 81: [2022-10-23 09:56:21+08:00 推文](https://twitter.com/cnmediaproject/status/1584000745518792704)
+
+While you await today's events in Beijing, read up on the new phrase meant to encapsulate the "spirit" emerging from the 20th CCP Congress: “Five Firm Grasps” (五个牢牢把握) <a href="https://chinamediaproject.org/2022/10/23/five-firm-grasps-for-the-world/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/23/five-firm-grasps-for-the-world/</a>
+
+### 82: [2022-10-23 10:19:13+08:00 推文](https://twitter.com/cnmediaproject/status/1584006498526842881)
+
+Today's special edition of the People's Daily leads with the "Five Firm Grasps." 🧵 <a href="http://paper.people.com.cn/rmrb/html/2022-10/23/nbs.D110000renmrb_07.htm" target="_blank" rel="noopener noreferrer">http://paper.people.com.cn/rmrb/html/2022-10/23/nbs.D110000renmrb_07.htm</a><br><img style="" src="https://pbs.twimg.com/media/FfuFbngaAAA3YlM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 83: [2022-10-23 10:19:50+08:00 推文](https://twitter.com/cnmediaproject/status/1584006655607721984)
+
+Re Read more in CMP's latest on the concept, and the application of Xi thought as a "world view" and "methodology." <a href="https://chinamediaproject.org/2022/10/23/five-firm-grasps-for-the-world/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2022/10/23/five-firm-grasps-for-the-world/</a>
+
+### 84: [2022-10-23 10:49:30+08:00 推文](https://twitter.com/cnmediaproject/status/1584014121653399552)
+
+Yes, this is a very crucial point. This section on the state of affairs in 2012 is damning in laying the base for the glorious change of the "New Era."<br><br>Henry Gao: Anyone who believes in the sickness theory should go back and re-read the 20th Party Congress Report: Why else would Xi devote 1.5 pages to what went wrong with the Party,  government, economy, society, national security etc when he took office in 2012?<br> <a href="https://twitter.com/henrysgao/status/1583693199117193217" target="_blank" rel="noopener noreferrer">https://twitter.com/henrysgao/status/1583693199117193217</a>
 
