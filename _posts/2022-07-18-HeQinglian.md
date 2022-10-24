@@ -325,7 +325,7 @@ Re @Wu_Zhi @zt33268778 与其他的相比，气候问题经过一大批“专家
 
 ### 78: [2022-07-21 16:34:56+08:00 推文](https://twitter.com/fading_you1/status/1550036591959326721)
 
-RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分<br><br>Carl: This image stays with me. It was August 2020, a crowd (mostly white) was marching in support of BLM. They demanded that everyone at an open-air restaurant raise their fists. This one woman refused. If you think their behavior was good and decent, we are in deep disagreement.<br>1/<br><br><img style="" src="https://pbs.twimg.com/media/FYHw_YaWIAAoa3S?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+RT 天降伟人包由检<br>我在现场也将坚决拒绝。民主的质量是建立在公民素质之上。跟着BLM兴风作浪的“民主”，不过是“无产阶级专政”的变种，最终形态是“民王”，也就是暴民/奴隶结合体，与帝王的二元结构。显然，想当帝王的美帝精英正在把一个公民社会推向这个二元结构。BLM，身份政治就是“打倒走资派”这个浑水摸鱼计划的一部分
 
 ### 79: [2022-07-21 19:45:15+08:00 推文](https://twitter.com/HeQinglian/status/1550084488562196481)
 
@@ -769,7 +769,7 @@ Re @fading_you1 恭喜你。推特上几百万中文用户，你排在如此靠�
 
 ### 189: [2022-07-24 20:22:21+08:00 推文](https://twitter.com/HeQinglian/status/1551180986469285888)
 
-这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉<br><br>绫波: 意大利和西班牙指责俄罗斯在意西两个国的森林火灾局面中无所作为。<br><br>今年，俄罗斯紧急救援部并没有派出消防机帮助他们应对森林火灾。<br><br><img style="" src="https://pbs.twimg.com/media/FYXmfQhUsAAOgAh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+这事我说句公道话。<br>瓜田李下之嫌，普京虽然又老又病又面临政变之忧，可能还是知道。<br>如果他派了，作用不大，西方媒体与一干乌鸡血会不会说他趁机让火势蔓延？<br>如果他派了，会不会说他让俄军伪装成消防员，趁机占领意西领土？<br>感谢这条消息，我得知俄罗斯过去还干过助邻灭火这好事（也许别有用心）。😉
 
 ### 190: [2022-07-24 20:25:48+08:00 推文](https://twitter.com/HeQinglian/status/1551181855545860100)
 
