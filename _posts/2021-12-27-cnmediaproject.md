@@ -41,7 +41,7 @@ RT Ryan Ho Kilpatrick 何松濤<br>How fitting and tragic that @StandNewsHK’
 
 ### 7: [2021-12-29 17:52:48+08:00 推文](https://twitter.com/cnmediaproject/status/1476129063953891329)
 
-CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
+CMP continues to watch Chinese discourse dry . . . so you don't have to. Our latest on how Xi Jinping's "Four Confidences" (四个自信) looks on the basis of today's People's Daily to be upgraded to the "Five Confidences." <a href="https://chinamediaproject.org/2021/12/29/and-then-there-were-five/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/29/and-then-there-were-five/</a><br><img style="" src="https://pbs.twimg.com/media/FHxDbenaMAQQaec?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-29 17:54:28+08:00 推文](https://twitter.com/cnmediaproject/status/1476129481417183234)
 
