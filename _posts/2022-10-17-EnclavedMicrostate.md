@@ -112,7 +112,7 @@ That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the boo
 
 ----- __891.1__ -----2022-10-24 17:13:34+08:00:
 
-Unfortunately I am somewhat strapped for time, so I will link two past answers I've written that cover some aspects of your question:
+Unfortunately I am somewhat strapped for time, so whereas I would normally write something more substantial, for now I will just link two past answers I've written that cover some aspects of your question:
 
 https://www.reddit.com/r/AskHistorians/comments/otls3c/how_was_qing_china_able_to_project_power_over/h6xq7qo/
 
