@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-24
+date: 2022-10-25
 from: https://twitter.com/HeQinglian/status/1584271948892471296
 layout: post
 tags:
@@ -131,15 +131,71 @@ Re @KingWan86749833 你这段子让我想起那时的旧事：当时陈云说让
 
 Re @KingWan86749833 现在看来，不去地方，连人马都拉不起来。
 
-### 30: [2022-10-24 10:09:05+08:00 推文](https://twitter.com/HeQinglian/status/1584366338273087490)
+### 30: [2022-10-24 10:03:59+08:00 推文](https://twitter.com/dinglili7/status/1584365053012107264)
+
+RT 绫波<br>美国《TIMES》：“新冠长期后遗症专家、患者和活动人士说，美国政府在无视这一起人类历史上最大的大规模致残事件。”<br><img style="" src="https://pbs.twimg.com/media/FfzLmn2WIAcmrQl?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-10-24 10:09:05+08:00 推文](https://twitter.com/HeQinglian/status/1584366338273087490)
 
 Re @caobaoli1 莫非你是人民日报的小号？这话说得与贵党的宣传无异。😂😂
 
-### 31: [2022-10-24 10:15:00+08:00 推文](https://twitter.com/HeQinglian/status/1584367824910548992)
+### 32: [2022-10-24 10:15:00+08:00 推文](https://twitter.com/HeQinglian/status/1584367824910548992)
 
 Re @eGUAbe2V7j26GHw 我在深圳时，杨尚昆倒了，他家公子的公司也关张了，一大堆办公用具留在那。<br>一位工商局的熟人让我去挑办公桌，有套价值数万的庞大办公桌，他说，付300元就可拿走。我说，我倒是想拿，但拿回家没地方摆，庙小了，装不下大神。
 
-### 32: [2022-10-24 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1584539643709509632)
+### 33: [2022-10-24 21:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1584539643709509632)
 
 Re @kokesilikiang 蠢驴一头。但肯定是蒙着眼睛拉磨的一类最下品，不是野驴。
+
+### 34: [2022-10-24 23:43:57+08:00 推文](https://twitter.com/dinglili7/status/1584571405479587842)
+
+RT 绫波<br>“自1950年以来，世界上最残酷的国家是美国”——说完这句话后，美国经济学家杰弗里·萨克斯教授在雅典论坛上的演讲被主持人打断了。<br><img style="" src="https://pbs.twimg.com/media/Ff2HSJIX0AAsO_3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 35: [2022-10-25 05:59:57+08:00 推文](https://twitter.com/HeQinglian/status/1584666029870809088)
+
+Re @JianglinLi 为了BLM与少数族设置的左派教育课程，结果竟然是这两大族裔不喜欢。
+
+### 36: [2022-10-25 06:01:20+08:00 推文](https://twitter.com/HeQinglian/status/1584666375108165632)
+
+Re @Zyzsx18 弄清楚联储的作用。<br>至少弄清楚美联储与财政部的功能，正好与中国的央行及财政部相反。
+
+### 37: [2022-10-25 06:03:50+08:00 推文](https://twitter.com/HeQinglian/status/1584667007076950016)
+
+Re @jjamesw1 这样吧，认真研究一下P2P在中国的起始、发展，以及谁推动。<br>这事与外国没关系，因为外国资本看着这样玩，吓坏了，不介入这业务。
+
+### 38: [2022-10-25 06:04:40+08:00 推文](https://twitter.com/HeQinglian/status/1584667215521284096)
+
+Re @axialmedia1 只因伤了拜粉的心，看见你的这面旗帜，决定拉黑。
+
+### 39: [2022-10-25 06:06:08+08:00 推文](https://twitter.com/HeQinglian/status/1584667585148121090)
+
+Re @sintree_leo 这倒是真的，中国特色。
+
+### 40: [2022-10-25 06:07:22+08:00 推文](https://twitter.com/HeQinglian/status/1584667893848952832)
+
+Re @GoooglerH 原来如此，你认为上海经济蒸蒸日上？
+
+### 41: [2022-10-25 06:15:49+08:00 推文](https://twitter.com/HeQinglian/status/1584670021069860864)
+
+Re @princeton_walk 明年初要开中央经济工作会议，名义上是李克强主持，但李强的新班底实际上要拿出纲要，即重点是什么。交接之年的中央经济工作会议，两大内容，一是总结过去的成绩与教训；二是新头儿的经济思路。<br>是骡子是马，那时候就看出来了。估计那时清零也差不多接近尾声了。
+
+### 42: [2022-10-25 06:17:26+08:00 推文](https://twitter.com/HeQinglian/status/1584670426554257408)
+
+Re @washearg 这还真是中共政府总理的任务。就算朱镕基，不就是为党办了国企工人下岗、医疗制度改革——其实就是甩包袱这件大事么？
+
+### 43: [2022-10-25 06:29:03+08:00 推文](https://twitter.com/HeQinglian/status/1584673349716041729)
+
+Re @Wu_Zhi @washearg 没有朱镕基抓大放小的现代企业制度改革，成功培养了一批国有企业寡头，有了崛起的家底，就没有胡温十年的经济繁荣<br>胡温十年，胡这只猫只管住自家子女退出商界，但不抓老鼠，各口子都是监守自盗，九龙治水，各有自家代理人，形成了多条食物链，这也是许多人在胡温时代过得不错的原因<br>历届总理，朱最称职
+
+### 44: [2022-10-25 06:29:56+08:00 推文](https://twitter.com/HeQinglian/status/1584673575491219456)
+
+Re @xxj2040 @shenliangqing2 明白了，谈的不是胡锦涛家那位。😂
+
+### 45: [2022-10-25 06:34:24+08:00 推文](https://twitter.com/HeQinglian/status/1584674697681461249)
+
+Re @dinglili7 如此甚好。<br>真分了之后，民主党用不着再对红州实行蓝色渗透了。我们搬家也不再白费劲了。
+
+### 46: [2022-10-25 06:39:26+08:00 推文](https://twitter.com/HeQinglian/status/1584675964721987585)
+
+习近平号称“总加速师”，这次会议将其炼成了习皇帝，多数评论是认为中共前景不妙，崩溃在即。有人认为中共不存在了，变成习家皇朝。<br>既然如此，长痛不如短痛，让习近平成为袁世凯，说不定冒出蔡将军护共讨袁。<br>不知一些“反共”人士何以代中共如此着急，简直痛心疾首？
 
