@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-24
+date: 2022-10-25
 from: https://twitter.com/realcaixia/status/1584213237784252421
 layout: post
 tags:
@@ -50,4 +50,12 @@ Re 有趣的是：请把4个图片放大了看李克强。李克强坐姿是纹�
 ### 9: [2022-10-24 08:50:01+08:00 推文](https://twitter.com/realcaixia/status/1584346440939163648)
 
 说得好。<br><br>ZHANGDONG: 最令国人焦虑的一届党代会竟以狗血剧形式剧终。又一轮大清洗令异己悉数出局，斯大林纳粹在东方复活。中国何去何从？更加令世人焦虑！<br>
+
+### 10: [2022-10-25 02:55:36+08:00 推文](https://twitter.com/realcaixia/status/1584619635109814272)
+
+这是今天上午VOA的访谈，与有兴趣的推友分享。<br><br>时事大家谈：专访蔡霞: 习近平携小兄弟治理中国？习皇帝是怎样炼成的？ <a href="https://youtu.be/aw5IZzY1AUY" target="_blank" rel="noopener noreferrer">https://youtu.be/aw5IZzY1AUY</a>
+
+### 11: [2022-10-25 03:01:28+08:00 推文](https://twitter.com/realcaixia/status/1584621112272375810)
+
+这个视频有2集：今天上午刚做的。与推友们分享：<br><br>10/24【时事大家谈】专访蔡霞: 习近平携小兄弟治理中国？习皇帝是怎样炼成的？习近平如何将中共返祖为“黑手党”？ <a href="https://youtu.be/wt40mpLwq8Y" target="_blank" rel="noopener noreferrer">https://youtu.be/wt40mpLwq8Y</a>
 
