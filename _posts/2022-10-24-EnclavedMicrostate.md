@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-10-24~2022-10-30的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 891: [Does anyone have recommendations for good books on China over the last 200-300 years?](https://old.reddit.com/r/AskHistorians/comments/yc47fy/does_anyone_have_recommendations_for_good_books/), submitted on 2022-10-24 14:42:18+08:00.
+### 892: [Does anyone have recommendations for good books on China over the last 200-300 years?](https://old.reddit.com/r/AskHistorians/comments/yc47fy/does_anyone_have_recommendations_for_good_books/), submitted on 2022-10-24 14:42:18+08:00.
 
------ __891.1__ -----2022-10-24 17:01:29+08:00:
+----- __892.1__ -----2022-10-24 17:01:29+08:00:
 
 The two relatively standard recommendations are the late Jonathan Spence's *The Search for Modern China* (3rd edition 2012) and Pamela Kyle Crossley's *The Wobbling Pivot – China Since 1800: an Interpretive History* (1st ed. 2010). Each has its upsides and downsides.
 

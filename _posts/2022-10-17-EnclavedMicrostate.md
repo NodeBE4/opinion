@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-21
+date: 2022-10-23
 from: https://old.reddit.com/r/AskHistorians/comments/y5ur7a/marcus_aurelius_was_born_in_rome_to_parents_from/
 layout: post
 tags:
@@ -107,4 +107,16 @@ I'm interested in whether you can point me to some secondary literature covering
 ----- __890.2__ -----2022-10-22 01:16:35+08:00:
 
 That’s uh. Not encouraging. Pamela Crossley’s review utterly savages the book. 'Cixi was the main reason the army was any good' sounds like *exactly* the tendentious line Jung Chang would come up with.
+
+### 891: [When and how did Xinjiang become part of China?](https://old.reddit.com/r/AskHistorians/comments/ybes44/when_and_how_did_xinjiang_become_part_of_china/), submitted on 2022-10-23 18:59:56+08:00.
+
+----- __891.1__ -----2022-10-24 17:13:34+08:00:
+
+Unfortunately I am somewhat strapped for time, so I will link two past answers I've written that cover some aspects of your question:
+
+https://www.reddit.com/r/AskHistorians/comments/otls3c/how_was_qing_china_able_to_project_power_over/h6xq7qo/
+
+https://www.reddit.com/r/AskHistorians/comments/cq34w8/how_and_why_did_the_qing_dynasty_conquer_xinjiang/ewu9j90/
+
+If you have any follow-up questions though, do please ask.
 
