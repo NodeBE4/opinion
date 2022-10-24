@@ -39,3 +39,15 @@ Re 有趣的是：请把4个图片放大了看李克强。李克强坐姿是纹�
 
 再专门发一推，便于推友一目了然：<br><img style="" src="https://pbs.twimg.com/media/FfyrXvGXwAgLKTL?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FfyrX-gWYAE-MqI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 7: [2022-10-24 07:55:38+08:00 推文](https://twitter.com/realcaixia/status/1584332751611645953)
+
+从胡锦涛被強拽离开会场、7个20大新常委亮相起，事实已经向全世界宣告：以政党名义存在的中共已经终结，习完成了中共“返祖”过程，回到初起阶段的“江湖帮会”组织本色。中国大陆上习家店开张（指7常委），“习天下”时期开始。
+
+### 8: [2022-10-24 08:25:37+08:00 推文](https://twitter.com/realcaixia/status/1584340299047784448)
+
+今天英文版议报推特很有趣！ <a href="https://twitter.com/yibao_en/status/1584319471862546433" target="_blank" rel="noopener noreferrer">https://twitter.com/yibao_en/status/1584319471862546433</a>
+
+### 9: [2022-10-24 08:50:01+08:00 推文](https://twitter.com/realcaixia/status/1584346440939163648)
+
+说得好。<br><br>ZHANGDONG: 最令国人焦虑的一届党代会竟以狗血剧形式剧终。又一轮大清洗令异己悉数出局，斯大林纳粹在东方复活。中国何去何从？更加令世人焦虑！<br>
+
