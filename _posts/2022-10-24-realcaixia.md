@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-25
+date: 2022-10-26
 from: https://twitter.com/realcaixia/status/1584213237784252421
 layout: post
 tags:
@@ -78,4 +78,12 @@ Re 江峰指出有可能有名单A与名单B，用先欺骗后造假手段达到
 ### 16: [2022-10-25 21:49:52+08:00 推文](https://twitter.com/realcaixia/status/1584905082642071554)
 
 20大上胡锦涛被强拽、被拉扯离场这一幕，把中共权斗曝光于全世界。<br>习帮独占中央常委会全部席位，并如此粗暴无礼对待胡锦涛，自曝黑帮流氓本性与嘴脸。<br>当胡锦涛被强拽、拉扯离场时，全场呆若木鸡，竟无一男儿！这表明习帮伙灭了中共，取代中共。<br>一党专政本就无合法性，习帮统治中国更无合法性。
+
+### 17: [2022-10-26 05:27:45+08:00 推文](https://twitter.com/realcaixia/status/1585020313733324800)
+
+孤勇者前有上海董瑶琼再有深圳鲁杨和北京彭载舟。他们是我们民族的英雄。<br><br>中国数字时代: 向 #二十大 “献礼”，#孤勇者 系列之深圳街头举牌青年。<br><br>#每日一语<br><br><img style="" src="https://pbs.twimg.com/media/Ff4fG9RWIAArq4e?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-10-26 05:56:06+08:00 推文](https://twitter.com/realcaixia/status/1585027447929511937)
+
+无论新华社如何摇唇鼓舌吹捧习登基，20大会议闭幕式上强行拽扯胡锦涛离场，就已自曝习帮伙获取权力，即便在中共内部，同样经不起合法性正当性拷问。<br><br>20大会上这一幕，令9000万党奴心寒胆颤，令世界见识20大会议之黑。令所有人看到中共内部何其冷酷何其残酷，胡锦涛在中国政治舞台上的谢幕何其凄凉！<br><br>韩连潮: 【政治流氓习】新华社发布吹棒习登基文章，用了人民领袖继续掌舵领航，是党心所向...，也是党、国、军、人民之大幸”等极其恶心措辞，并透露一些领导人主动退出，以及习人事安排未征求元老意见的信息。 习自己因2007党内民主投票得票最多上位，今天一句不能“以票取人”独断人事，也是个地道的政治流氓。<br><br><img style="" src="https://pbs.twimg.com/media/Ff4FNuuaUAAUyy_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
