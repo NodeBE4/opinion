@@ -75,3 +75,7 @@ Re 江峰指出有可能有名单A与名单B，用先欺骗后造假手段达到
 
 我特别推荐下面两个小视频：<br>视频1，时长2分钟，看胡被拽离会场的起因，栗战书对胡锦涛做了什么；<br>视频3，时长1分22秒左右，卫士两手插入胡锦涛腋下，从背后拽起胡锦涛，胡锦涛努力抗拒，竭力坐回座位。胡的文件在栗手里，胡去拿习的文件，习阻挡胡。<br>这两个视频拍到了关键时刻的关键细节。<br><br>鏟蛇人（依銀）（伊恩）: 最新畫面流出<br><br>震驚：胡錦濤被帶走之前是對名單感到錯愕的。<br><br>其它的是舊畫面，大家對照看。<br><br><video src="https://video.twimg.com/ext_tw_video/1584585324935532553/pu/vid/1280x720/HROXVN1sViloqpcQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1584585324935532553/pu/img/_KrIEB9OqLKewlE5.jpg"></video> <a href="https://twitter.com/i/web/status/1584585408112775176" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1584585408112775176</a>
 
+### 16: [2022-10-25 21:49:52+08:00 推文](https://twitter.com/realcaixia/status/1584905082642071554)
+
+20大上胡锦涛被强拽、被拉扯离场这一幕，把中共权斗曝光于全世界。<br>习帮独占中央常委会全部席位，并如此粗暴无礼对待胡锦涛，自曝黑帮流氓本性与嘴脸。<br>当胡锦涛被强拽、拉扯离场时，全场呆若木鸡，竟无一男儿！这表明习帮伙灭了中共，取代中共。<br>一党专政本就无合法性，习帮统治中国更无合法性。
+
