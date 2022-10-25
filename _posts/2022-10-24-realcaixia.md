@@ -59,3 +59,19 @@ Re 有趣的是：请把4个图片放大了看李克强。李克强坐姿是纹�
 
 这个视频有2集：今天上午刚做的。与推友们分享：<br><br>10/24【时事大家谈】专访蔡霞: 习近平携小兄弟治理中国？习皇帝是怎样炼成的？习近平如何将中共返祖为“黑手党”？ <a href="https://youtu.be/wt40mpLwq8Y" target="_blank" rel="noopener noreferrer">https://youtu.be/wt40mpLwq8Y</a>
 
+### 12: [2022-10-25 20:23:03+08:00 推文](https://twitter.com/realcaixia/status/1584883235527397376)
+
+推荐江峰这期评论。<br>江峰的评论抓住了关键要点；1、胡锦涛被栗、习、卫士三次阻拦不让看的文件是什么？<br><br>一定要看到10’58”！二十大权斗關鍵在這份名單！胡待外國記者入場發難挫习政變；趙紫陽待遇，中央《求是》雜誌胡錦濤文檔全銷，胡春華政治局除名，對... <a href="https://youtu.be/50ThGTcGTDs" target="_blank" rel="noopener noreferrer">https://youtu.be/50ThGTcGTDs</a>
+
+### 13: [2022-10-25 20:43:26+08:00 推文](https://twitter.com/realcaixia/status/1584888365111209985)
+
+Re 2，习近平叫中办副主任兼纪委书记到身边做指示，卫士强拽胡锦涛离座，胡锦涛抗拒努力坐回座位；<br>3，卫士拉扯胡锦涛衣服要他离开，胡锦涛站起来又两次转身回位，明显不情愿离场；<br>4，江峰指出关键在名单！猜有名单A与名单B。<br>5、习帮无底线，胡锦涛抓住记者入场时的机会，发难力挫习政变。胡孤掌难赢<br><img style="" src="https://pbs.twimg.com/media/Ff6nkQEX0AAxdA3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 14: [2022-10-25 21:03:31+08:00 推文](https://twitter.com/realcaixia/status/1584893418123440128)
+
+Re 江峰指出有可能有名单A与名单B，用先欺骗后造假手段达到目的。我很同意江峰分析，中共内部谎言成风，普遍造假。<br>中国一著名刑事律师曾说过，官方存心要整倒谁而又无正当理由，就会以A罪名羁押，以B罪名搜集证据材料，以C罪名庭审，以D罪名判刑。
+
+### 15: [2022-10-25 21:22:25+08:00 推文](https://twitter.com/realcaixia/status/1584898173562425344)
+
+我特别推荐下面两个小视频：<br>视频1，时长2分钟，看胡被拽离会场的起因，栗战书对胡锦涛做了什么；<br>视频3，时长1分22秒左右，卫士两手插入胡锦涛腋下，从背后拽起胡锦涛，胡锦涛努力抗拒，竭力坐回座位。胡的文件在栗手里，胡去拿习的文件，习阻挡胡。<br>这两个视频拍到了关键时刻的关键细节。<br><br>鏟蛇人（依銀）（伊恩）: 最新畫面流出<br><br>震驚：胡錦濤被帶走之前是對名單感到錯愕的。<br><br>其它的是舊畫面，大家對照看。<br><br><video src="https://video.twimg.com/ext_tw_video/1584585324935532553/pu/vid/1280x720/HROXVN1sViloqpcQ.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1584585324935532553/pu/img/_KrIEB9OqLKewlE5.jpg"></video> <a href="https://twitter.com/i/web/status/1584585408112775176" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1584585408112775176</a>
+
