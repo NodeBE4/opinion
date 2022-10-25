@@ -319,3 +319,7 @@ RT 北美保守评论🇺🇸🇨🇦<br>加尔文：当上帝要审判一个�
 
 Re @shenliangqing2 2016年9月30日：路透社引述不愿透露姓名的消息来源说，习近平将在十九大期间阻止团派主宰由7人组成的政治局常委的位置。共青团中央年度预算被削减一半，<br>年初，中国官媒撰文批评共青团中央“机关化、行政化、贵族化、娱乐化”。外界广泛认为，习近平主导了这些批评。 <a href="https://www.bbc.com/zhongwen/simp/china/2016/09/160930_china_politics_league_xi" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/china/2016/09/160930_china_politics_league_xi</a>
 
+### 77: [2022-10-26 04:12:18+08:00 推文](https://twitter.com/HeQinglian/status/1585001324915363840)
+
+美国确实认为邓江时期的中国最好合作，尤其是克林顿开启了中美法律援助合作项目，此后美国1000多NGO进了中国（加上各种在地成立与欧洲的将近1万多）。胡锦涛2005年开始反颜色革命，然后吴邦国宣布五不搞，最后到习，外国NGO干脆绝了气。<br>但胡春华是自由派旗手，实在太扯了。恐怕胡本人也不认这帐。<br><br>沈良庆二世: （华尔街日报真能扯淡，老胡为团派培养的中共接班人小胡一出局，怎么就成了“中国自由派旗手”，他恐怕也不乐意外媒这么定位吧？同情权力斗争中的失败者可以理解，描述政治光谱时乱点鸳鸯谱就不合适了。）<br>中國自由派旗手胡春華落選政治局委員會 - 華爾街日報<br> <a href="https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E8%87%AA%E7%94%B1%E6%B4%BE%E6%97%97%E6%89%8B%E8%83%A1%E6%98%A5%E8%8F%AF%E8%90%BD%E9%81%B8%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%93%A1%E6%9C%83-121666594969" target="_blank" rel="noopener noreferrer">https://cn.wsj.com/articles/%E4%B8%AD%E5%9C%8B%E8%87%AA%E7%94%B1%E6%B4%BE%E6%97%97%E6%89%8B%E8%83%A1%E6%98%A5%E8%8F%AF%E8%90%BD%E9%81%B8%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%93%A1%E6%9C%83-121666594969</a>
+
