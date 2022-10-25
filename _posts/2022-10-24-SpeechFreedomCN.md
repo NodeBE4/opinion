@@ -23,3 +23,11 @@ title: 'Twitter @中国文字狱事件盘点: 2022-10-24~2022-10-30'
 
 Shortly after Pelosi landed in Taiwan in August, Shanghai man Zhou Zhen, a China supporter who was too outraged by the incident, went to the US consulate to protest it, only to be arrested upon arrival. He was then taken to police station, and the punishment remains unknown.<br><img style="" src="https://pbs.twimg.com/media/Ff324rEX0AMsBQU?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff327ScX0AIY8OW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 3: [2022-10-25 18:45:19+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1584858640217178113)
+
+内蒙古鄂尔多斯男子高某，因在抖音发布“不实言论视频，恶意解读疫情防控措施”，被处拘留5日。<br><img style="" src="https://pbs.twimg.com/media/Ff6MR-kX0AEyykL?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 4: [2022-10-25 18:46:47+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1584859008233414656)
+
+Inner Mongolian man Gao detained for 5 days for "maliciously interpreting the covid-zero policy" on Douyin, via a video he posted that contained "false speech".<br><img style="" src="https://pbs.twimg.com/media/Ff6MkVIXwAAEV5l?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
