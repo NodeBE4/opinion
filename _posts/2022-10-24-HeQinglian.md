@@ -311,3 +311,11 @@ Re @zhou63195556 这才是正道。
 
 Re @Vanessa_ZhangUK 先看他的内外政策。<br>如果这人不急于表演，愿意沉下心来做实事，就比那位女士强。
 
+### 75: [2022-10-26 00:58:14+08:00 推文](https://twitter.com/NAConservative9/status/1584952485524828160)
+
+RT 北美保守评论🇺🇸🇨🇦<br>加尔文：当上帝要审判一个民族时，祂就给他们邪恶的领袖。<br><br>真诚的悔改:<br>弯曲悖谬的世代，不少教会沦为世界的俘虏。教会或福音机构为了名利和私人关系，会拼命为犯罪的领袖推卸责任或掩盖罪，抗拒或逃离悔改。当抗拒悔改带来损失和不利时，人会假装悔改，欺哄善良的弟兄姊妹。 <a href="https://youtu.be/AdAMb8QvSao" target="_blank" rel="noopener noreferrer">https://youtu.be/AdAMb8QvSao</a><br><video src="https://video.twimg.com/ext_tw_video/1584951840818532357/pu/vid/888x478/iHKw2ZP5Lt-l1IDe.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1584951840818532357/pu/img/cCSzLC82TjHlRNEc.jpg"></video>
+
+### 76: [2022-10-26 01:49:00+08:00 推文](https://twitter.com/HeQinglian/status/1584965261723332611)
+
+Re @shenliangqing2 2016年9月30日：路透社引述不愿透露姓名的消息来源说，习近平将在十九大期间阻止团派主宰由7人组成的政治局常委的位置。共青团中央年度预算被削减一半，<br>年初，中国官媒撰文批评共青团中央“机关化、行政化、贵族化、娱乐化”。外界广泛认为，习近平主导了这些批评。 <a href="https://www.bbc.com/zhongwen/simp/china/2016/09/160930_china_politics_league_xi" target="_blank" rel="noopener noreferrer">https://www.bbc.com/zhongwen/simp/china/2016/09/160930_china_politics_league_xi</a>
+
