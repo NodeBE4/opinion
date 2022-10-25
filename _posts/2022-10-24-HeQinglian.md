@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-25
+date: 2022-10-26
 from: https://twitter.com/HeQinglian/status/1584271948892471296
 layout: post
 tags:
@@ -302,4 +302,12 @@ Re @kbclindy 从政权体制来说，本质没变，都是独裁政权。<br>从
 ### 72: [2022-10-25 22:34:50+08:00 推文](https://twitter.com/HeQinglian/status/1584916398156947458)
 
 Re @YiHuang66739742 这需要通过常委么？总书记通过中央办公厅发文，如果有意见，可以在常委会上讨论。没见过这方面信息。
+
+### 73: [2022-10-26 00:29:07+08:00 推文](https://twitter.com/HeQinglian/status/1584945157849640963)
+
+Re @zhou63195556 这才是正道。
+
+### 74: [2022-10-26 00:30:27+08:00 推文](https://twitter.com/HeQinglian/status/1584945496543879168)
+
+Re @Vanessa_ZhangUK 先看他的内外政策。<br>如果这人不急于表演，愿意沉下心来做实事，就比那位女士强。
 
