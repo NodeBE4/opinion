@@ -21,9 +21,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 When free press is the focal point of human rights discussion this year, CCP keeps charging journalists and media that dare to challenge them and speak the truth. Among many others, the arrests of Denise Ho, Margaret Ng are prime examples. RELEASE THEM! <a href="https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news" target="_blank" rel="noopener noreferrer">https://www.theguardian.com/world/2021/dec/29/hong-kong-police-arrest-six-journalists-from-independent-media-outlet-stand-news</a>
 
-### 2: [2021-12-29 20:51:43+08:00 推文](https://twitter.com/nathanlawkc/status/1476174090931261445)
+### 2: [2021-12-29 20:51:43+08:00 推文](https://twitter.com/nathanlawkc/status/1476174087999438856)
 
-Re 2. In mainland China, all media outlets are controlled by party branches. Now, this trend is extended to Hong Kong. What's worth noticing is the charge the government used -- "conspiracy to publish seditious publications." It has never been used for more than five decades.
+THREAD:<br>1.After the Apple Daily closure, Stand News became the largest free media in Hong Kong. Today, we have witnessed another forced closure with a number of arrests. The message Beijing sends is clear: report in the way that we allow, or end up in jail.<br><img style src="https://pbs.twimg.com/media/FHxry3QXsAMFjM1?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 20:51:44+08:00 推文](https://twitter.com/nathanlawkc/status/1476174095003926534)
 
@@ -45,9 +45,9 @@ Re 6. I hope it does not create a domino effect that other smaller independent o
 
 Re 7. Let's not forget who are arrested. Denise Ho, a Hong Kong canto-pop diva who has been very vocal on LGBTQI rights and social justice. She could have lived a prosperous and fancy life if she had stayed silent. But she didn't. Wealth cannot buy out one's faith and values.<br><img style="" src="https://pbs.twimg.com/media/FHxsPZ4WUAUH41T?format=jpg&name=orig" referrerpolicy="no-referrer">
 
-### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174115883077644)
+### 8: [2021-12-29 20:51:49+08:00 推文](https://twitter.com/nathanlawkc/status/1476174113580404739)
 
-Re 9. Many more are facing political suppression, and we must extend our support to them as much as we can. Please spread the word on the erosion of freedom in HK. It's our beloved home, and it was once the freest city in Asia. Now, everything we were once proud of are gone. -END
+Re 8. Margaret Ng, a former legislator and well respected barrister. She is 73 and continues to campaign for a better judicial system in Hong Kong. Many political campaigners see her as a role model and the most powerful voice to preserve our values.<br><img style src="https://pbs.twimg.com/media/FHxsWd9WUAcWHKF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 9: [2021-12-30 19:50:24+08:00 推文](https://twitter.com/nathanlawkc/status/1476521046668886020)
 
