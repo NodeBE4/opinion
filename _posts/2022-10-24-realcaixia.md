@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-26
+date: 2022-10-27
 from: https://twitter.com/realcaixia/status/1584213237784252421
 layout: post
 tags:
@@ -129,7 +129,7 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 ### 29: [2022-10-26 21:11:45+08:00 推文](https://twitter.com/realcaixia/status/1585257877820043264)
 
-因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
+因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br> <a href="https://twitter.com/CHRDnet/status/1219037024583241728" target="_blank" rel="noopener noreferrer">https://twitter.com/CHRDnet/status/1219037024583241728</a>
 
 ### 30: [2022-10-26 21:25:24+08:00 推文](https://twitter.com/realcaixia/status/1585261311826558982)
 
@@ -138,4 +138,8 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 ### 31: [2022-10-26 21:31:36+08:00 推文](https://twitter.com/realcaixia/status/1585262874531954689)
 
 孤胆英雄彭载舟在四通桥上高呼要自由反独裁，这一幕将会载入历史史册，被子孙后代铭记。<br><img style="" src="https://pbs.twimg.com/media/Ff_8LHXXgAEo9v3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff_8LYjXEAElN7u?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff_8LmyXoAY4e5x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 32: [2022-10-27 00:55:30+08:00 推文](https://twitter.com/realcaixia/status/1585314186749349889)
+
+特别推荐#议报发布北京大学著名教授钱理群先生的文章。<br>钱理群先生十年前就预见到中国今后将要面临的厄运，当时他写了这样一篇文章以发出警告。他是国人将要面对新的劫难的“吹哨人”。<br><br>《议报》: 钱理群 | 对老红卫兵当政的担忧<br> <a href="https://yibaochina.com/?p=248118" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248118</a>
 

@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-26
+date: 2022-10-27
 from: https://twitter.com/HeQinglian/status/1584271948892471296
 layout: post
 tags:
@@ -334,4 +334,8 @@ Re @JianglinLi 那是必要的。
 ### 80: [2022-10-26 21:46:42+08:00 推文](https://twitter.com/HeQinglian/status/1585266674210639872)
 
 Re @joepark05162815 万事有始。罗马城不是一天建成的。你试打方向盘，转得太急，要出事。
+
+### 81: [2022-10-27 01:42:04+08:00 推文](https://twitter.com/HeQinglian/status/1585325904296693760)
+
+这条旧推出来，恍如隔世。如今被西媒痛贬的习近平，就在几年前，还是这些媒体众望所归的新的“全球化领军”。纽约时报、金融时报、CNN全都这样说。<br><br>He Qinglian: 钟祖康先生绝对没料想到会出现如此奇景：如今全世界左派政府与媒体团结起来，要求被他视为“全球文明和市场的破坏者”的中国力扛全球化领军大旗。<br> <a href="https://twitter.com/Jack18610628357/status/825755175872712704" target="_blank" rel="noopener noreferrer">https://twitter.com/Jack18610628357/status/825755175872712704</a>
 
