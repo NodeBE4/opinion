@@ -131,3 +131,11 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
 
+### 30: [2022-10-26 21:25:24+08:00 推文](https://twitter.com/realcaixia/status/1585261311826558982)
+
+<br><img style="" src="https://pbs.twimg.com/media/Ff_6wqfXEAMn5gR?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 31: [2022-10-26 21:31:36+08:00 推文](https://twitter.com/realcaixia/status/1585262874531954689)
+
+孤胆英雄彭载舟在四通桥上高呼要自由反独裁，这一幕将会载入历史史册，被子孙后代铭记。<br><img style="" src="https://pbs.twimg.com/media/Ff_8LHXXgAEo9v3?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff_8LYjXEAElN7u?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff_8LmyXoAY4e5x?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
