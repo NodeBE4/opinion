@@ -95,3 +95,39 @@ Re 江峰指出有可能有名单A与名单B，用先欺骗后造假手段达到
 
 特别推荐#议报发布这篇文章。<br>20大会议开完，大陆许多人对中国前景相当悲观：中国股市大幅跳水，人民币汇率大幅贬值，上海富人豪宅几乎腰斩降价出售，外资外企加快撤离中国，更多中国人计划润启动润甚至匆忙润……。<br><br>《议报》: 何与怀 | 习总一条死路走到黑<br> <a href="https://yibaochina.com/?p=248111" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248111</a>
 
+### 21: [2022-10-26 19:18:03+08:00 推文](https://twitter.com/realcaixia/status/1585229264785313793)
+
+下面这是两年前对我的访谈，回头看这两年的情况，感触良多。想和推友分享这个访谈视频。<br><br>RFA独家：蔡霞（上）：中国社会:从威权时代到精致新极权时代 | 观点 <a href="https://youtu.be/p6DcXSAlJq0" target="_blank" rel="noopener noreferrer">https://youtu.be/p6DcXSAlJq0</a>
+
+### 22: [2022-10-26 19:23:55+08:00 推文](https://twitter.com/realcaixia/status/1585230741348065280)
+
+江雪推荐的文章是精品，我相信她的眼光。下面这篇文章即是。<br><br>江雪: <br> <a href="https://ngocn2.org/article/2022-10-26-si-tong-bridge-chinese-student/" target="_blank" rel="noopener noreferrer">https://ngocn2.org/article/2022-10-26-si-tong-bridge-chinese-student/</a>
+
+### 23: [2022-10-26 19:31:59+08:00 推文](https://twitter.com/realcaixia/status/1585232769218596866)
+
+关注所有敢于反抗极权统治的政治异见勇士，他们是我们这个民族的英雄。请关注，关注就是声援。<br><br>liqun chen（陈立群）: 曾因公开反对一党专政被判囚10年的南京学者郭泉，因涉嫌“煽动颠覆国家政权”于2021年九月初受审，至今没有宣判。<br>郭泉2007年发表公开信要求中国进行宪政改革，宣布组建「中国新民党」，被当局重点打压，后以涉嫌「颠覆国家政权罪」拘捕，判监十年<br>这是一个不肯认罪换取减刑的英雄！请关注郭泉博士！<br><br><img style="" src="https://pbs.twimg.com/media/Ff91QwBWAAARgaS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 24: [2022-10-26 19:33:48+08:00 推文](https://twitter.com/realcaixia/status/1585233227744415747)
+
+特别推荐：越来越多的年轻人正在觉醒过来。<br><br>《议报》: 屠生 | 我的觉醒之路 （二）生理、物质疾苦<br> <a href="https://yibaochina.com/?p=248104" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248104</a>
+
+### 25: [2022-10-26 19:36:31+08:00 推文](https://twitter.com/realcaixia/status/1585233911046901763)
+
+Re @jiangxuestory<br><img style="" src="https://pbs.twimg.com/media/Ff_h1sBXEAAgXdt?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-10-26 19:38:21+08:00 推文](https://twitter.com/realcaixia/status/1585234372566781953)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/Ff_iQnYXoAA0G4A?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 27: [2022-10-26 19:53:56+08:00 推文](https://twitter.com/realcaixia/status/1585238293926801411)
+
+Re 更正一字：视频出现“集权”字幕时请改视为“极权”。“集权”与“极权”涵义有很大不同。<br>中共自49年以后建立了共产“极权”统治，习上台后运用高科技技术手段将极权统治极端化精致化。所谓“精致”：即大数据能够精准监控到每个人，每个角落，每分钟。经过“清零”，这种精致的新极权统治之残酷，大陆人切身感受。
+
+### 28: [2022-10-26 20:02:33+08:00 推文](https://twitter.com/realcaixia/status/1585240464315518987)
+
+习上台后封锁互联网，对大陆内部不停地疯狂删图删帖封号封群，对外建立信息防火墙，这道信息防火墙比曾经的物理“柏林墙”更黑。<br><br>美国驻华使领馆 US MissionCN: 认识互联网通道守护者：缅甸军方在2021年2发动政变夺取政权后，军方封锁了互联网，以打压公众对政变的广泛反对，并阻止报道其正在对缅甸人民施加的暴行。<br> <a href="https://share.america.gov/zh-hans/meet-the-watchdogs-guarding-internet-access/" target="_blank" rel="noopener noreferrer">https://share.america.gov/zh-hans/meet-the-watchdogs-guarding-internet-access/</a>
+
+### 29: [2022-10-26 21:11:45+08:00 推文](https://twitter.com/realcaixia/status/1585257877820043264)
+
+因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
+

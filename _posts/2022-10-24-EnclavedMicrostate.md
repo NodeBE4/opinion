@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-25
+date: 2022-10-26
 from: https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/
 layout: post
 tags:
@@ -100,4 +100,10 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 ----- __897.1__ -----2022-10-26 15:51:00+08:00:
 
 I can no longer recall a source beyond 'trust me bro', but >!from what I understand he was born/grew up in Australia, but one parent is Japanese and the other from Hong Kong.!<
+
+### 898: [Alexander, buddy, I had multiple cities in the actual Caucasus, and yet you save this name for the one single city located in Africa in my empire.](https://old.reddit.com/r/civ/comments/ydrguw/alexander_buddy_i_had_multiple_cities_in_the/), submitted on 2022-10-26 15:04:24+08:00.
+
+----- __898.1__ -----2022-10-26 20:22:02+08:00:
+
+As the other commenter noted, Alexander in the Caucasus was in the *other* Caucasus, i.e. the Hindu Kush, which was known to the Macedonians by the same name as the mountains we call the Caucasus.
 
