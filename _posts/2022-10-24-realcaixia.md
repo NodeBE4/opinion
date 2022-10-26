@@ -87,3 +87,11 @@ Re 江峰指出有可能有名单A与名单B，用先欺骗后造假手段达到
 
 无论新华社如何摇唇鼓舌吹捧习登基，20大会议闭幕式上强行拽扯胡锦涛离场，就已自曝习帮伙获取权力，即便在中共内部，同样经不起合法性正当性拷问。<br><br>20大会上这一幕，令9000万党奴心寒胆颤，令世界见识20大会议之黑。令所有人看到中共内部何其冷酷何其残酷，胡锦涛在中国政治舞台上的谢幕何其凄凉！<br><br>韩连潮: 【政治流氓习】新华社发布吹棒习登基文章，用了人民领袖继续掌舵领航，是党心所向...，也是党、国、军、人民之大幸”等极其恶心措辞，并透露一些领导人主动退出，以及习人事安排未征求元老意见的信息。 习自己因2007党内民主投票得票最多上位，今天一句不能“以票取人”独断人事，也是个地道的政治流氓。<br><br><img style="" src="https://pbs.twimg.com/media/Ff4FNuuaUAAUyy_?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 19: [2022-10-26 06:31:31+08:00 推文](https://twitter.com/realcaixia/status/1585036361509502976)
+
+今日#议报发布墙内微信友对当下中国情况，尤其20大会议上强驱胡锦涛及7个常委皆习帮伙的感想：<br><img style="" src="https://pbs.twimg.com/media/Ff8uKwGXoAoUwi6?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff8uKwBXoAMxYBp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><br>《议报》: 短评 | 文革的恶果显现<br> <a href="https://yibaochina.com/?p=248113" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248113</a>
+
+### 20: [2022-10-26 06:47:11+08:00 推文](https://twitter.com/realcaixia/status/1585040302477230080)
+
+特别推荐#议报发布这篇文章。<br>20大会议开完，大陆许多人对中国前景相当悲观：中国股市大幅跳水，人民币汇率大幅贬值，上海富人豪宅几乎腰斩降价出售，外资外企加快撤离中国，更多中国人计划润启动润甚至匆忙润……。<br><br>《议报》: 何与怀 | 习总一条死路走到黑<br> <a href="https://yibaochina.com/?p=248111" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248111</a>
+
