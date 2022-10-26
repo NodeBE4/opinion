@@ -29,7 +29,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 4: [2021-12-29 12:54:32+08:00 推文](https://twitter.com/realcaixia/status/1476054000898383873)
 
-每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
+每日一推，呼吁无罪释放长沙公益仨。<br><br>施明磊 #释放长沙公益仨: #每日一推要求程渊和吴葛健雄的家属探视权12月28日 第18推）<br>小吴在的衡州监狱来电话了，说你们没有亲属关系，拒绝我们要求吴葛健雄家属探视权的投诉。<br><br>根据监狱法四十八条规定，#程渊、#吴葛健雄 享有亲属会见的权利。<br><br>衡州监狱，你们在违法懂不懂？<br><br>@湖南司法厅厅长范运田，监狱管理局局长钟艺兵<br><br><img style="" src="https://pbs.twimg.com/media/FHtweDUWYAAUzht?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweDRWYAQV-wJ?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD6X0AY4o3E?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FHtweD-XEAEjTWP?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 10: [2022-01-01 00:16:36+08:00 推文](https://twitter.com/realcaixia/status/1476950427543375872)
 
-八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
+八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style="" src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-01 00:46:29+08:00 推文](https://twitter.com/realcaixia/status/1476957947641188361)
 
