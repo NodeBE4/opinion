@@ -126,3 +126,13 @@ If you have any follow-up questions though, do please ask.
 
 Looks like the Reddit portion of the Marble Machine X... fandom? Watchdom? Whatever, is [not universally favourable](https://www.reddit.com/r/MarbleMachineX/comments/ye5uz9/this_marble_gate_surprised_me/) towards the new iteration's current progress. Lot of complaining that Martin has become obsessed with absolute theoretical precision over making a working machine with reasonable redundancy and tolerance.
 
+----- __892.2__ -----2022-10-28 07:16:13+08:00:
+
+There was, and I continue to be annoyed that I got beaten to writing it! But I've been updating on Scuffles for some time:
+
+https://reddit.com/r/HobbyDrama/comments/xzndgb/hobby_scuffles_week_of_october_10_2022/is1i3ls/?context=999
+
+https://reddit.com/r/HobbyDrama/comments/xhiwtl/hobby_scuffles_week_of_september_19_2022/ip68xpv/?context=999
+
+https://reddit.com/r/HobbyDrama/comments/qa0e8y/hobby_scuffles_week_of_october_18_2021/hh0hz2g/?context=999
+
