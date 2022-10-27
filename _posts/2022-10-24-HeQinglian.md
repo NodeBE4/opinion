@@ -391,3 +391,31 @@ Re @Kathrin76360871 这话李老一直说，我亲耳听到过。
 
 Re @Isabel_3299 剥去皮，太老的去掉，炒肉片，很好吃。
 
+### 95: [2022-10-27 10:44:19+08:00 推文](https://twitter.com/shenliangqing2/status/1585462366799810561)
+
+RT 沈良庆二世<br>从“反极权”前领袖（老胡），到“人民的好总理”（李）和“中国自由派领袖”（小胡），极权国家温室里人工栽培的弱不禁风团派被新时代一踢出局，立马赚足了西方媒体和江湖之远廉价泪水，完成了道德升华，可以进神圣罗马帝国万神庙和先贤祠了。🫠
+
+### 96: [2022-10-27 21:10:54+08:00 推文](https://twitter.com/HeQinglian/status/1585620052988026882)
+
+Re @zhy612 @lindahuiyun 滚远点。指出某人无能就是为其他人摇旗呐喊，终于明白邵阳为什么穷得叮当响，全因你这类缺心眼与脑子的，非要认爹。
+
+### 97: [2022-10-27 21:15:35+08:00 推文](https://twitter.com/HeQinglian/status/1585621231310626824)
+
+Re @Isabel_3299 鲜肉以及咸肉（无异味）都行。可惜这边买不到，我也找不到种子。
+
+### 98: [2022-10-27 21:20:38+08:00 推文](https://twitter.com/HeQinglian/status/1585622501522022400)
+
+Re @abc__china @david_david1968 @liqunchen 从朝廷规制出发，李强只是军机处首辅。连陕西富平龙兴之地都未公然庆祝，温州李氏这么庆祝，不知收敛，简直是找死的节奏。<br>都说李强能力差，做官的这点心机还是有的。
+
+### 99: [2022-10-27 21:32:45+08:00 推文](https://twitter.com/HeQinglian/status/1585625549426376705)
+
+Re @shenliangqing2 😂😂😂<br>这种政治态度，说变就变。就在2019年那会儿，美英媒体比如纽约时报、金融时报、BBC、CNN都翘首盼望习近平的中国勇扛全球化领军大旗。<br>当时，好象胡环球还出来说过，中国不上这当——非官方表态。
+
+### 100: [2022-10-27 21:36:43+08:00 推文](https://twitter.com/HeQinglian/status/1585626549587525634)
+
+Re @RFI_Cn 我现在觉得所有的媒体都有中国《人民日报》的画风，敌人一天天烂下去，我们一天天好起来。<br>如果也对法国如今的烂，象查理周刊一样讽刺一下，我对西方媒体的好感会多一些。
+
+### 101: [2022-10-27 21:49:38+08:00 推文](https://twitter.com/HeQinglian/status/1585629797903998976)
+
+The Hill ：Morning Consult近日就是否支持对乌克兰继续提供援助进行调查，样本 为 2200 名美国人，调查误差约为 2%。 <br>调查结果显示：反对继续为乌克兰提供援助的美国人党派分布：<br>71% 的共和党人<br>44% 的民主党人<br>62% 的独立选民 <a href="https://thehill.com/policy/international/3702492-only-29-percent-of-gop-voters-say-us-has-an-obligation-to-help-ukraine-poll/" target="_blank" rel="noopener noreferrer">https://thehill.com/policy/international/3702492-only-29-percent-of-gop-voters-say-us-has-an-obligation-to-help-ukraine-poll/</a>
+
