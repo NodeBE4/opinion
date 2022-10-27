@@ -129,7 +129,7 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 ### 29: [2022-10-26 21:11:45+08:00 推文](https://twitter.com/realcaixia/status/1585257877820043264)
 
-因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
+因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br> <a href="https://twitter.com/CHRDnet/status/1219037024583241728" target="_blank" rel="noopener noreferrer">https://twitter.com/CHRDnet/status/1219037024583241728</a>
 
 ### 30: [2022-10-26 21:25:24+08:00 推文](https://twitter.com/realcaixia/status/1585261311826558982)
 
