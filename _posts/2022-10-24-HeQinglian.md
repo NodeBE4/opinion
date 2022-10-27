@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-27
+date: 2022-10-28
 from: https://twitter.com/HeQinglian/status/1584271948892471296
 layout: post
 tags:
@@ -458,4 +458,20 @@ Re @jojowheel 还有好戏在后头，今后是LGBTQI大行动年， 678 人（�
 ### 111: [2022-10-27 23:50:27+08:00 推文](https://twitter.com/HeQinglian/status/1585660203860738050)
 
 寒冬将至，彭博在谈美国的柴油储备不足半月。纽约时报应该鼓舞美国人心，号召大家节能过冬。先满足这十多天，中选结束后立刻减能，那时选票已经收归囊中了。<br><br>纽约时报中文网: #专栏作者 随着俄军在乌克兰行动继续受挫，全世界都在担心普京可能会使用核武器。但就目前而言，我认为他正在组装另一种武器——能源炸弹。<br>西方国家没有一个适当的能源战略来抑制普京能源炸弹的影响。引爆油价炸弹会分裂西方联盟与乌克兰，也会让我们进入一个充满痛苦的世界。<br> <a href="https://nyti.ms/3DdReaa" target="_blank" rel="noopener noreferrer">https://nyti.ms/3DdReaa</a>
+
+### 112: [2022-10-27 23:53:10+08:00 推文](https://twitter.com/HeQinglian/status/1585660887393869826)
+
+Re @Isabel_3299 不用。确实太冷了，种不出。谢谢。<br>其实，我的小菜园已经有香椿、马兰头、野种的马齿苋等。茭白今年也买到了（贵得咬手），冬笋能买到。本地超市与中国供应品种差别不大。
+
+### 113: [2022-10-27 23:55:22+08:00 推文](https://twitter.com/HeQinglian/status/1585661441230643200)
+
+Re @Dan63174340 马斯克是美国左派的公敌，不在乎多一项罪名。左派大不了集体离推，另找乐园。<br>中国的五毛与极端人士如果跟过去，大幸。
+
+### 114: [2022-10-28 01:21:12+08:00 推文](https://twitter.com/HeQinglian/status/1585683044266016786)
+
+集体领导终结、团派被灭发生于何时？<br><br>论政需从事实出发，集体领导、团灭红二代与团派并非发生在二十大，而是自从习近平十八大之后当政以来，步步为营地推进，十九大就已基本完成。<br>资料网上皆有，西方媒体均有报道。为何过去10年不曾“发现”？与西方对中国的态度有关。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-10262022133706.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-10262022133706.html</a>
+
+### 115: [2022-10-28 01:34:11+08:00 推文](https://twitter.com/HeQinglian/status/1585686310420762624)
+
+Re @Wu_Zhi 今天我在仔细看荣鼎的报告，有个现象值得注意：在华投资的德企与英企，几乎都将去年利润的一半以上用于在中国再投资。欧盟在华商会与英国在华商会及日本在华商会的报告都很认真的向中国政府表达希望，要求改善投资环境，建议非常具体。
 
