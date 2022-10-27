@@ -13,9 +13,9 @@ title: EnclavedMicrostate在2022-10-24~2022-10-30的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 892: [Is the “Qing conquest theory” that the Qing Dynasty destroyed the economic, scientific, and cultural progress of the Song and Ming dynasties true? Basically, did the Qing leadership lead to a “Chinese Dark Age” as some claim?](https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/), submitted on 2022-10-24 06:45:52+08:00.
+### 893: [Is the “Qing conquest theory” that the Qing Dynasty destroyed the economic, scientific, and cultural progress of the Song and Ming dynasties true? Basically, did the Qing leadership lead to a “Chinese Dark Age” as some claim?](https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/), submitted on 2022-10-24 06:45:52+08:00.
 
------ __892.1__ -----2022-10-24 18:28:41+08:00:
+----- __893.1__ -----2022-10-24 18:28:41+08:00:
 
 This is one of those cases where the answer can be quite short or quite complicated depending on how and how far you want to engage with the dimensions of the issue. I am most certainly not an economic historian, and my contact with the Great Divergence scholarship has generally been pretty tangential. However, there are interesting discussions to be had here about historiographical matters, and also about how Wikipedia editors can sometimes weave historiographical debates from whole cloth.
 
@@ -41,25 +41,25 @@ So, the question of 'is the Qing conquest theory true' actually holds an unexpec
 
 The problematic aspect to this discussion is ultimately the way that this has entered the online space. A Wikipedian decided around 2010 that their characterisation of a body of Chinese scholarship was deserving of an article, and the end result was something that mostly replicated the arguments in those articles (especially Xu (2005), who is cited a whopping 12 times in an article with 42 total citations, except the link to the cited article is dead) without a full examination of how other scholars reacted to it – quite possibly because few specialists outside China *cared* about stuff that was mostly nationalist nonsense. What we now have is an article whose genesis lies with one particular person more than a decade ago, and which has essentially *never* been updated to discuss more modern scholarship – you will note that its bibliography includes nothing in Chinese more recent than 2010, and nothing in English more recent than 2007. It's not that we cannot speak of such a concept, but its current articulation on the internet is extremely problematic.
 
------ __892.2__ -----2022-10-24 22:22:55+08:00:
+----- __893.2__ -----2022-10-24 22:22:55+08:00:
 
 These aren't actually related though. That there is not post-2010 historiography that deals in depth with claims about Qing rule's effect on the Chinese economy doesn't mean you can't still analyse this mid-2000s historical writing in light of other trends relating to 'New Qing' history,  such as what I discuss in [this past answer](https://www.reddit.com/r/AskHistorians/comments/gh01vp/why_is_there_such_antipathy_to_new_qing_history/fq73fra/), albeit mainly reckoning with the argument from the other end – that Qing rule's legitimation through appeals to Chinese tradition entailed a fundamental continuity with pre- and post-Qing regimes. It's not like you can't tell from the arguments made by the articles that there is clearly tendentious work being done based on quite easily identifiable motives. It's like saying you can't dismiss Niall Ferguson as an apologist for the British Empire unless an academic specifically writes a response to one of his books.
 
------ __892.3__ -----2022-10-24 23:27:10+08:00:
+----- __893.3__ -----2022-10-24 23:27:10+08:00:
 
 So, the problem with discussing the Qing within a Chinese context is that modern, post-imperial China simultaneously owes its geographical scope to the Qing Empire, and owes its political form to a revolt against the Qing Empire. At the same time, there is the problem of Han Sinocentrism at work and just... *very complicated* ethnic politics, such that there are conflicting priorities over whether the Qing ought to be presented as a period of ethnic harmony or one of Manchu-led oppression. As such there are two conflicting lines on how to interpret the Qing from a moralistic perspective: either the Qing were essentially foreign and pursued policies that fatally weakened China, or the Qing were highly 'Sinicised' and belong to a grand continuum of Chinese states. The popularities of these two perspectives wax and wane at their own pace, but the perspective held by Western historians – that we ought to understand the Qing in terms that are *not* moralistic or centred on China's national experience – simply doesn't have purchase in a context where history is still understood as having a concrete instrumental function as an elucidation and justification of the nation-state as it currently exists, just as it was in 19th and early 20th century Europe and America.
 
------ __892.4__ -----2022-10-25 05:12:40+08:00:
+----- __893.4__ -----2022-10-25 05:12:40+08:00:
 
 So that's all fair – again, as said, I'm not an economic historian and I'm not claiming that I know the modern historiography well. *That said*, the problem with the 'Qing conquest thesis' is that from what can be gleaned (the articles are not always still accessible), A) they don't actually give a strong case for the existence of economic disparity and have been at best vindicated retrospectively; B) they attribute it to deliberately obfuscatory Qing policy, which is the primary point of contention and which, as you say, is not supported by even the modern scholarship; and C) if the Qing conquest alone were the cause of a major economic decline, it would manifest in the 1640s and not as a stagnation starting in the 1700s-50s. So even if the revised scholarship would agree that Chinese economic parity ended sooner than 1800, it would still fundamentally not agree with the nationalist scholarship claiming it was directly the result of the Qing conquest and discriminatory policy agendas. I agree, by the by, that the structural causes of disparity would have predated the disparity, but that is also something very much conceded by the historians at the turn of the millennium, for the most part.
 
------ __892.5__ -----2022-10-26 00:41:11+08:00:
+----- __893.5__ -----2022-10-26 00:41:11+08:00:
 
 Well, that is also an argument some historians have deployed, but there is still an argument to be had that no, it is worth asking what kind of bad luck was involved, and how to rationalise that 'luck' into a series of concrete factors. So take for instance Pomeranz's argument that it was European polities being able to extract wealth from their colonies to offset what would otherwise have been the limits of their growth in pure Malthusian terms. Now that explanation is not uncontroversial and elements have been walked back by Pomeranz over the years, but it is still some attempt to explain how the Industrial Revolution *did* happen, on the assumption that it was not an inevitability across societies.
 
-### 893: [Does anyone have recommendations for good books on China over the last 200-300 years?](https://old.reddit.com/r/AskHistorians/comments/yc47fy/does_anyone_have_recommendations_for_good_books/), submitted on 2022-10-24 14:42:18+08:00.
+### 894: [Does anyone have recommendations for good books on China over the last 200-300 years?](https://old.reddit.com/r/AskHistorians/comments/yc47fy/does_anyone_have_recommendations_for_good_books/), submitted on 2022-10-24 14:42:18+08:00.
 
------ __893.1__ -----2022-10-24 17:01:29+08:00:
+----- __894.1__ -----2022-10-24 17:01:29+08:00:
 
 The two relatively standard recommendations are the late Jonathan Spence's *The Search for Modern China* (3rd edition 2012) and Pamela Kyle Crossley's *The Wobbling Pivot – China Since 1800: an Interpretive History* (1st ed. 2010). Each has its upsides and downsides.
 
@@ -67,27 +67,27 @@ Spence's book is decidedly more narrative, with a certain running theme being it
 
 Crossley's book is distinctly more theoretical and interpretive, and its intended audience is somewhat more scholarly if not necessarily narrowly academic. Her writing style can occasionally be a bit obtuse when she gets into highly theoretical or analytical topics, but this is much less pronounced in *The Wobbling Pivot* than some of her other writings (*A Translucent Mirror* is the most egregious example cited). Crossley also makes the odd albeit often inconsequential factual error, especially when covering post-Qing subjects, while her coverage of Cixi's political ascendancy takes a relatively strong view of Cixi as being functionally irrelevant, in contrast to most historians who afford her at least some degree of influence in one or more spheres of power (see for instance Edward Rhoads' *Manchus and Han*). It's a somewhat mixed bag, but serves as a pretty good primer on the period covered, with a focus on bringing approaches and lenses of analysis from the Qing period forward into the 20th and 21st centuries, and suggesting that fundamental continuities persisted past the more superficially apparent disruptions of the Republican and Communist revolutions.
 
------ __893.2__ -----2022-10-25 05:14:03+08:00:
+----- __894.2__ -----2022-10-25 05:14:03+08:00:
 
 The second edition was 1999 while the third was 2012, so it depends how much you care about the 13 years in between, mainly. I also don't know if there were revisions in between to account for the major spate of revisionist work on the Qing that mostly came out ca. 1998-2005, so while I can't guarantee the third edition is more up to date on that, I can guarantee the second won't be.
 
-### 894: [How do past and present militaries deal with the soldiers' fear of death?](https://old.reddit.com/r/AskHistorians/comments/yc853i/how_do_past_and_present_militaries_deal_with_the/), submitted on 2022-10-24 18:53:45+08:00.
+### 895: [How do past and present militaries deal with the soldiers' fear of death?](https://old.reddit.com/r/AskHistorians/comments/yc853i/how_do_past_and_present_militaries_deal_with_the/), submitted on 2022-10-24 18:53:45+08:00.
 
------ __894.1__ -----2022-10-24 19:04:15+08:00:
+----- __895.1__ -----2022-10-24 19:04:15+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 895: [Mindless Monday, 24 October 2022](https://old.reddit.com/r/badhistory/comments/yc890g/mindless_monday_24_october_2022/), submitted on 2022-10-24 19:00:11+08:00.
+### 896: [Mindless Monday, 24 October 2022](https://old.reddit.com/r/badhistory/comments/yc890g/mindless_monday_24_october_2022/), submitted on 2022-10-24 19:00:11+08:00.
 
------ __895.1__ -----2022-10-25 05:47:43+08:00:
+----- __896.1__ -----2022-10-25 05:47:43+08:00:
 
 *gasp*
 
 Using repatriation of loot as cover for a domestic nationalist enterprise? How shocking and unheard-of.
 
-### 896: [What was the importance of the literature boom in Ming Dynasty China?](https://old.reddit.com/r/AskHistorians/comments/yceeqr/what_was_the_importance_of_the_literature_boom_in/), submitted on 2022-10-24 23:36:55+08:00.
+### 897: [What was the importance of the literature boom in Ming Dynasty China?](https://old.reddit.com/r/AskHistorians/comments/yceeqr/what_was_the_importance_of_the_literature_boom_in/), submitted on 2022-10-24 23:36:55+08:00.
 
------ __896.1__ -----2022-10-25 00:43:55+08:00:
+----- __897.1__ -----2022-10-25 00:43:55+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 
@@ -95,33 +95,33 @@ If you have indeed asked a homework question, you should consider resubmitting a
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
 
-### 897: [Gamliel's Gaberdine Garments - Weekly Discussion Thread, 24th/25th of October, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/ycrlu0/gamliels_gaberdine_garments_weekly_discussion/), submitted on 2022-10-25 08:51:08+08:00.
+### 898: [Gamliel's Gaberdine Garments - Weekly Discussion Thread, 24th/25th of October, 2022](https://old.reddit.com/r/VirtualYoutubers/comments/ycrlu0/gamliels_gaberdine_garments_weekly_discussion/), submitted on 2022-10-25 08:51:08+08:00.
 
------ __897.1__ -----2022-10-26 15:51:00+08:00:
+----- __898.1__ -----2022-10-26 15:51:00+08:00:
 
 I can no longer recall a source beyond 'trust me bro', but >!from what I understand he was born/grew up in Australia, but one parent is Japanese and the other from Hong Kong.!<
 
-### 898: [Alexander, buddy, I had multiple cities in the actual Caucasus, and yet you save this name for the one single city located in Africa in my empire.](https://old.reddit.com/r/civ/comments/ydrguw/alexander_buddy_i_had_multiple_cities_in_the/), submitted on 2022-10-26 15:04:24+08:00.
+### 899: [Alexander, buddy, I had multiple cities in the actual Caucasus, and yet you save this name for the one single city located in Africa in my empire.](https://old.reddit.com/r/civ/comments/ydrguw/alexander_buddy_i_had_multiple_cities_in_the/), submitted on 2022-10-26 15:04:24+08:00.
 
------ __898.1__ -----2022-10-26 20:22:02+08:00:
+----- __899.1__ -----2022-10-26 20:22:02+08:00:
 
 As the other commenter noted, Alexander in the Caucasus was in the *other* Caucasus, i.e. the Hindu Kush, which was known to the Macedonians by the same name as the mountains we call the Caucasus.
 
-### 899: [Graduate College Choice](https://old.reddit.com/r/oxforduni/comments/ye8nyv/graduate_college_choice/), submitted on 2022-10-27 04:54:20+08:00.
+### 900: [Graduate College Choice](https://old.reddit.com/r/oxforduni/comments/ye8nyv/graduate_college_choice/), submitted on 2022-10-27 04:54:20+08:00.
 
------ __899.1__ -----2022-10-27 20:06:32+08:00:
+----- __900.1__ -----2022-10-27 20:06:32+08:00:
 
 I didn't specify a preference and ended up at Mansfield (hi /u/CheeseMarionette) and that worked out for me!
 
-### 900: [Is the British Empire to blame for the war in Ukraine?](https://old.reddit.com/r/AskHistorians/comments/yehzhh/is_the_british_empire_to_blame_for_the_war_in/), submitted on 2022-10-27 12:03:33+08:00.
+### 901: [Is the British Empire to blame for the war in Ukraine?](https://old.reddit.com/r/AskHistorians/comments/yehzhh/is_the_british_empire_to_blame_for_the_war_in/), submitted on 2022-10-27 12:03:33+08:00.
 
------ __900.1__ -----2022-10-27 18:47:20+08:00:
+----- __901.1__ -----2022-10-27 18:47:20+08:00:
 
 This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
-### 901: [What led to the rise of the CCP?](https://old.reddit.com/r/AskHistorians/comments/yervyo/what_led_to_the_rise_of_the_ccp/), submitted on 2022-10-27 21:23:46+08:00.
+### 902: [What led to the rise of the CCP?](https://old.reddit.com/r/AskHistorians/comments/yervyo/what_led_to_the_rise_of_the_ccp/), submitted on 2022-10-27 21:23:46+08:00.
 
------ __901.1__ -----2022-10-27 21:33:25+08:00:
+----- __902.1__ -----2022-10-27 21:33:25+08:00:
 
 Hi there - unfortunately we have had to remove your question, because [/r/AskHistorians isn't here to do your homework for you](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_homework). However, our rules DO permit people to ask for help with their homework, so long as they are seeking clarification or resources, rather than the answer itself. 
 

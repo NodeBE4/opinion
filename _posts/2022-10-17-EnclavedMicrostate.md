@@ -120,3 +120,9 @@ https://www.reddit.com/r/AskHistorians/comments/cq34w8/how_and_why_did_the_qing_
 
 If you have any follow-up questions though, do please ask.
 
+### 892: [[Hobby Scuffles] Week of October 24, 2022](https://old.reddit.com/r/HobbyDrama/comments/ybj5yc/hobby_scuffles_week_of_october_24_2022/), submitted on 2022-10-23 22:30:09+08:00.
+
+----- __892.1__ -----2022-10-28 03:52:47+08:00:
+
+Looks like the Reddit portion of the Marble Machine X... fandom? Watchdom? Whatever, is [not universally favourable](https://www.reddit.com/r/MarbleMachineX/comments/ye5uz9/this_marble_gate_surprised_me/) towards the new iteration's current progress. Lot of complaining that Martin has become obsessed with absolute theoretical precision over making a working machine with reasonable redundancy and tolerance.
+
