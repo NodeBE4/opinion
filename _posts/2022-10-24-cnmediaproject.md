@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-10-26
+date: 2022-10-27
 from: https://twitter.com/cnmediaproject/status/1584363319963488256
 layout: post
 tags:
@@ -21,7 +21,7 @@ This tweet is a real headscratcher. Just TRY to make clear sense of what it's re
 
 ### 2: [2022-10-25 09:58:35+08:00 推文](https://twitter.com/cnmediaproject/status/1584726082728517632)
 
-"The state constitution and CCP Charter are paper the Party uses to wipe its ass.  . . " From a respected former Chinese newspaper publisher now overseas.<br><br>程益中: 中共以平等正义的名义和人民的流血牺牲夺取中国政权，建立的却是一个公民无选票、人民无人权、执政无竞争的极权国家；在中国社会，人人脚下无寸土、手中无存权、家中无恒产，只有统治和被统治两极、掌权者与无权者两极。党国党章和宪法，都是中共党魁擦屁股的纸巾，中国就是一座960万平方公里的监狱…<br>
+"The state constitution and CCP Charter are paper the Party uses to wipe its ass.  . . " From a respected former Chinese newspaper publisher now overseas.<br><br>程益中: 中共以平等正义的名义和人民的流血牺牲夺取中国政权，建立的却是一个公民无选票、人民无人权、执政无竞争的极权国家；在中国社会，人人脚下无寸土、手中无存权、家中无恒产，只有统治和被统治两极、掌权者与无权者两极。党国党章和宪法，都是中共党魁擦屁股的纸巾，中国就是一座960万平方公里的监狱…<br> <a href="https://twitter.com/chengyizhong/status/1584698213453697024" target="_blank" rel="noopener noreferrer">https://twitter.com/chengyizhong/status/1584698213453697024</a>
 
 ### 3: [2022-10-26 01:43:19+08:00 推文](https://twitter.com/cnmediaproject/status/1584963832468107266)
 
@@ -30,4 +30,8 @@ Re Based on the full version of Xi's report as released by Xinhua on Tuesday, th
 ### 4: [2022-10-26 01:44:08+08:00 推文](https://twitter.com/cnmediaproject/status/1584964038450380800)
 
 Re The phrase "passing on the red gene, continuing the red bloodline" 传承红色基因， 赓续红色血脉 also appears in this official full-text version — and seems to have not been included previously.
+
+### 5: [2022-10-27 11:08:03+08:00 推文](https://twitter.com/cnmediaproject/status/1585468340067135488)
+
+A fascinating thread on Cai Qi, a new member of the Standing Committee of the CCP.<br><br>Paul Huang: Did you know.. Cai Qi, a new (and arguably the least expected) China CCP Politburo Standing Committee member, visited Taiwan in 2012 and published a short diary?<br>Here are my takeaways from reading it so you don't have to:<br><br><img style="" src="https://pbs.twimg.com/media/Ff8-4IAWQAogU5z?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff8-4IZXoAAK6Qq?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
