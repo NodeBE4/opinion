@@ -143,3 +143,11 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 特别推荐#议报发布北京大学著名教授钱理群先生的文章。<br>钱理群先生十年前就预见到中国今后将要面临的厄运，当时他写了这样一篇文章以发出警告。他是国人将要面对新的劫难的“吹哨人”。<br><br>《议报》: 钱理群 | 对老红卫兵当政的担忧<br> <a href="https://yibaochina.com/?p=248118" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=248118</a>
 
+### 33: [2022-10-27 13:03:44+08:00 推文](https://twitter.com/realcaixia/status/1585497453062758400)
+
+大陆许多自由民主人士对夏霖律师这个名字不陌生，2014年他被以污名拘捕判刑，夏霖律师宁可承受酷刑也没有一字口供，他绝不让警察从他这里找到任何借口再去伤害别人。夏霖律师赢得许多朋友的深深敬重！<br><br>刚巧读到端传媒一篇写夏霖律师的文章，特别推荐与网友分享。 <a href="https://mcusercontent.com/d8d2fa652b56364002f0ee007/images/af6e331b-30f9-8ffa-a7a1-ce80559a96b7.png" target="_blank" rel="noopener noreferrer">https://mcusercontent.com/d8d2fa652b56364002f0ee007/images/af6e331b-30f9-8ffa-a7a1-ce80559a96b7.png</a>
+
+### 34: [2022-10-27 13:11:03+08:00 推文](https://twitter.com/realcaixia/status/1585499294869737473)
+
+Re @dongmianxiong1 这个北极熊极为无耻！习近平面前的白色名单纸页一直就没用文件夹盖上；怕胡锦涛泄密，难不成就不怕习近平泄密？！到现在还撒谎编故事，真以为可以随意侮辱别人智商？！
+
