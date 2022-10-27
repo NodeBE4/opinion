@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-26
+date: 2022-10-27
 from: https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/
 layout: post
 tags:
@@ -106,4 +106,10 @@ I can no longer recall a source beyond 'trust me bro', but >!from what I underst
 ----- __898.1__ -----2022-10-26 20:22:02+08:00:
 
 As the other commenter noted, Alexander in the Caucasus was in the *other* Caucasus, i.e. the Hindu Kush, which was known to the Macedonians by the same name as the mountains we call the Caucasus.
+
+### 899: [Is the British Empire to blame for the war in Ukraine?](https://old.reddit.com/r/AskHistorians/comments/yehzhh/is_the_british_empire_to_blame_for_the_war_in/), submitted on 2022-10-27 12:03:33+08:00.
+
+----- __899.1__ -----2022-10-27 18:47:20+08:00:
+
+This submission has been removed because it violates our ['20-Year Rule'](http://www.reddit.com/r/AskHistorians/wiki/rules#wiki_no_current_events). To discourage off-topic discussions of current events, questions, answers, and all other comments must be confined to events that happened 20 years ago or more. For further explanation of this rule, feel free to consult [this Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/glj8c4/rules_roundtable_xii_the_twenty_year_rule/).
 
