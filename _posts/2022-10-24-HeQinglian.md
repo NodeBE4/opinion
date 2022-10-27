@@ -419,3 +419,43 @@ Re @RFI_Cn 我现在觉得所有的媒体都有中国《人民日报》的画风
 
 The Hill ：Morning Consult近日就是否支持对乌克兰继续提供援助进行调查，样本 为 2200 名美国人，调查误差约为 2%。 <br>调查结果显示：反对继续为乌克兰提供援助的美国人党派分布：<br>71% 的共和党人<br>44% 的民主党人<br>62% 的独立选民 <a href="https://thehill.com/policy/international/3702492-only-29-percent-of-gop-voters-say-us-has-an-obligation-to-help-ukraine-poll/" target="_blank" rel="noopener noreferrer">https://thehill.com/policy/international/3702492-only-29-percent-of-gop-voters-say-us-has-an-obligation-to-help-ukraine-poll/</a>
 
+### 102: [2022-10-27 22:19:06+08:00 推文](https://twitter.com/HeQinglian/status/1585637217149792258)
+
+今年中选将是LGBTQ人士的大行动年：<br>美国政治行动委员会 LGBTQ 胜利基金的一份新报告发现，在参加初选的 1,065 名 LGBTQ 候选人中，历史性的 678 人（绝大多数是民主党人）将出现在 11 月的选票上，比去年增加了 18.1%<br>据称：今年州立法机构已提出了 340 多项反 LGBTQ 法案。 <a href="https://www.aol.com/news/historic-first-lgbtq-americans-ballot-172825180.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/historic-first-lgbtq-americans-ballot-172825180.html</a>
+
+### 103: [2022-10-27 22:21:35+08:00 推文](https://twitter.com/HeQinglian/status/1585637840255602691)
+
+Re 如果民主党国会议员人数中LGBTQI占三分之一以上，应该成立相应对外联络机构，让各国议会对口衔接。<br>中国要想与美国继续友好来往，需要在人大中引进这一机制。
+
+### 104: [2022-10-27 22:25:25+08:00 推文](https://twitter.com/HeQinglian/status/1585638803032920066)
+
+Re @shenliangqing2 好象不算。因为当时开战之初援助并未做过相应民调。是白宫决策，这责任是白宫的。
+
+### 105: [2022-10-27 22:33:21+08:00 推文](https://twitter.com/lindahuiyun/status/1585640803292286978)
+
+RT 慧云<br>這是屋後的一棵楓樹，應該有20多米高，入秋以來，滿樹的葉變黃、飛落，像是在做一場莊嚴的祭祀，好像是要把里爾克的《秋日》寫滿這地。<br><br>“誰這時沒有房屋，就不必建築，<br>誰這時孤獨，就永遠孤獨，<br>就醒着，讀着，寫着長信，<br>在林蔭道上來回<br>不安地遊蕩，當着落葉紛飛。”<br><img style="" src="https://pbs.twimg.com/media/FgFT5k8aAAEiVhN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FgFT5k0VUAAtISW?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 106: [2022-10-27 22:38:38+08:00 推文](https://twitter.com/HeQinglian/status/1585642132064591872)
+
+Re @yaotao999 Who Cares？他们又不是美国纳税人。<br>话说，民主党的基本盘当中，福利族是不纳税的。
+
+### 107: [2022-10-27 22:40:12+08:00 推文](https://twitter.com/HeQinglian/status/1585642526806974464)
+
+Re @kbclindy 不用担心，他们可以上街游行，模仿美国骄傲月，订购很多服装那天穿，或者不穿，抹上油彩就行。
+
+### 108: [2022-10-27 22:44:14+08:00 推文](https://twitter.com/HeQinglian/status/1585643540402819075)
+
+Re @seeyoua22819375 你去调查一下吧。<br>这个调查公司，其实也是偏左的。
+
+### 109: [2022-10-27 22:47:07+08:00 推文](https://twitter.com/HeQinglian/status/1585644265555693569)
+
+Re @seeyoua22819375 你得弄清楚，是什么公司在做调查。<br>如果是推特调查，你最好就姑妄视之。
+
+### 110: [2022-10-27 23:01:32+08:00 推文](https://twitter.com/HeQinglian/status/1585647892190330881)
+
+Re @jojowheel 还有好戏在后头，今后是LGBTQI大行动年， 678 人（绝大多数是民主党人）将出现在 11 月的选票上，如果美国民主党选民选择了他们当中的6分之1，人类最奇葩的国会将为这一组合增添光彩。<br>美帝的新身份政治将成为人类山颠。
+
+### 111: [2022-10-27 23:50:27+08:00 推文](https://twitter.com/HeQinglian/status/1585660203860738050)
+
+寒冬将至，彭博在谈美国的柴油储备不足半月。纽约时报应该鼓舞美国人心，号召大家节能过冬。先满足这十多天，中选结束后立刻减能，那时选票已经收归囊中了。<br><br>纽约时报中文网: #专栏作者 随着俄军在乌克兰行动继续受挫，全世界都在担心普京可能会使用核武器。但就目前而言，我认为他正在组装另一种武器——能源炸弹。<br>西方国家没有一个适当的能源战略来抑制普京能源炸弹的影响。引爆油价炸弹会分裂西方联盟与乌克兰，也会让我们进入一个充满痛苦的世界。<br> <a href="https://nyti.ms/3DdReaa" target="_blank" rel="noopener noreferrer">https://nyti.ms/3DdReaa</a>
+
