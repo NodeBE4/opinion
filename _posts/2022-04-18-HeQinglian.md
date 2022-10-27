@@ -409,7 +409,7 @@ Re @livivian86 @JiangShangrong 再怼你一次，因为你不怀好意。<br>我
 
 ### 99: [2022-04-20 05:03:21+08:00 推文](https://twitter.com/HeQinglian/status/1516522865381810183)
 
-Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。
+Z世代以前出生者，活在西方，知道什么叫言论自由。我们曾向往过。<br>现在，我们正目睹言论自由如何被这代白左生生送进坟墓。<br><br>萧生客SSK🇺🇸🇨🇦: “我预测在传统互联网体系的所有层面，审查/封杀政策基本相同。客户端和服务器端的ISP、云平台、CDN、支付网络、客户端操作系统、浏览器、电子邮件客户端。只有极少数的例外。压力很大。“<br><br>一龙：非常令人担忧。谁在推动这种审查/封杀？非常阴暗。<br><br>马对邪教邪党沼泽生物的恶仅风闻无体验吧，是政治小白<br><br><img style="" src="https://pbs.twimg.com/media/FQuj6CHXoAk2Mx1?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 100: [2022-04-20 05:18:11+08:00 推文](https://twitter.com/HeQinglian/status/1516526596974329856)
 
