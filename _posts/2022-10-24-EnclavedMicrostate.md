@@ -211,3 +211,31 @@ Stephen Platt argues that the American Civil War was the ultimate cause of Anglo
 
 The Fifth Dalai Lama died in 1682 but this was actively covered up by the Tibetan government until 1696; 10 years later the Sixth Dalai Lama would soon be [deposed under murky circumstances and probably murdered](https://www.reddit.com/r/AskHistorians/comments/fgj1vr/whats_the_story_behind_the_murder_of_the_6th/fk7d36c/). Most Dalai Lamas before and since have had much less ignominious careers (Chinese annexation of Tibet notwithstanding). (Thanks /u/JimeDorje for the older answer being linked.)
 
+----- __903.21__ -----2022-10-29 06:52:29+08:00:
+
+Too terrifying to contemplate.
+
+----- __903.22__ -----2022-10-29 06:54:08+08:00:
+
+Jen Yu-Wen, arguably the most prolific historian of the Taiping Heavenly Kingdom who ever lived, went to my primary school.
+
+----- __903.23__ -----2022-10-29 06:56:59+08:00:
+
+Napoleon attributed his first major field defeat at Aspern-Essling in 1809 to 'General Danube' – the Austrians had found a floating watermill up river from where the French had established their pontoon bridges over the Danube, and basically let it loose down the river where it smashed the bridges and split the French army in half. Had the Austrians known they had been successful and pressed the attack, Napoleon's entire campaign might have been ruined – along with about a quarter of the French army.
+
+----- __903.24__ -----2022-10-29 07:10:04+08:00:
+
+Between 1883 and 1889, a (likely fraudulent) Cossack named Nikolai Ashinov made repeated attempts to bolster Ethiopia against its various rivals on the basis that Ethiopia was a fellow Orthodox polity that Russia ought to defend against its new Catholic neighbours (Italy and France now having interest in the region). Ashinov was, weirdly, already a fugitive from Russia, but had managed to win over a decent amount of private support among civil servants and military officers with which to fund his activities. He also got a lucky break by defrauding the British, as he offered to start a Cossack insurgency against the Russians in Central Asia, only to end up absconding to Ethiopia (which is how he first got there). His ignominious career culminated in his attempt to lead a couple of hundred Cossacks and their followers to establish the town of 'New Moscow' on the site of an abandoned Egyptian fort in Somaliland called Sagallo in December 1888, but he was kicked out by the French after less than a month for intruding on their claimed turf.
+
+----- __903.25__ -----2022-10-29 07:24:48+08:00:
+
+When Lord Macartney went on his (in)famous embassy to China in 1793, he went casting around for Chinese interpreters, and found a pair of Chinese priests in Rome who were orphans that had been taken in by Catholic missionaries. When the ships arrived off Macau, one of the two immediately jumped overboard and swam for shore.
+
+----- __903.26__ -----2022-10-29 07:26:18+08:00:
+
+According to Arrian, Alexander only ever drank in the company of friends, and only ever in moderation. He is the only Alexander biographer to make this claim and is frankly lying through his teeth.
+
+----- __903.27__ -----2022-10-29 07:32:27+08:00:
+
+The historian Jamie Belich attributes the New Zealand Musket Wars in part to the introduction of potatoes, which gave Māori chiefs additional agricultural surplus and thus more ability to wage war; this coincided with a huge drop in arms prices after the Napoleonic Wars.
+
