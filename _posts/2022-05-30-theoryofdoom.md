@@ -13,15 +13,15 @@ title: theoryofdoom在2022-05-30~2022-06-05的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 279: [Unofficial Daily Update for 2022-05-31. 2103 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v1x23b/unofficial_daily_update_for_20220531_2103_new/), submitted on 2022-06-01 02:40:39+08:00.
+### 280: [Unofficial Daily Update for 2022-05-31. 2103 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v1x23b/unofficial_daily_update_for_20220531_2103_new/), submitted on 2022-06-01 02:40:39+08:00.
 
------ __279.1__ -----2022-06-01 11:05:04+08:00:
+----- __280.1__ -----2022-06-01 11:05:04+08:00:
 
 Sure you do.
 
-### 280: [Which books have made the biggest impact on your understanding as a mathematician? And why?](https://old.reddit.com/r/math/comments/v2lzp3/which_books_have_made_the_biggest_impact_on_your/), submitted on 2022-06-02 01:12:57+08:00.
+### 281: [Which books have made the biggest impact on your understanding as a mathematician? And why?](https://old.reddit.com/r/math/comments/v2lzp3/which_books_have_made_the_biggest_impact_on_your/), submitted on 2022-06-02 01:12:57+08:00.
 
------ __280.1__ -----2022-06-02 20:16:46+08:00:
+----- __281.1__ -----2022-06-02 20:16:46+08:00:
 
 "Mostly Harmless Econometrics" by Angrist and Pischke reduces theory to practice in a way that few, if any, have otherwise managed.
 
@@ -29,13 +29,13 @@ Sure you do.
 
 Edit: Added "Probability Theory" by Jaynes.
 
-### 281: [Unofficial Daily Update for 2022-06-01. 4347 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v2n3ww/unofficial_daily_update_for_20220601_4347_new/), submitted on 2022-06-02 02:00:18+08:00.
+### 282: [Unofficial Daily Update for 2022-06-01. 4347 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v2n3ww/unofficial_daily_update_for_20220601_4347_new/), submitted on 2022-06-02 02:00:18+08:00.
 
------ __281.1__ -----2022-06-02 12:48:07+08:00:
+----- __282.1__ -----2022-06-02 12:48:07+08:00:
 
 We'll see ebbs and flows, for as long as we continue to keep track of the results.  Whether such data offer any value whatsoever at this point is another matter.
 
------ __281.2__ -----2022-06-03 08:43:34+08:00:
+----- __282.2__ -----2022-06-03 08:43:34+08:00:
 
 > Lockdown Skepticism
 
@@ -49,22 +49,22 @@ In this subreddit, you will not be banned for posting there.  Now or ever.
 
 That many default subs engage in inexplicable stupidity . . . well, that's beyond my control.
 
-### 282: [Unofficial Daily Update for 2022-06-02. 6399 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v3eu5a/unofficial_daily_update_for_20220602_6399_new/), submitted on 2022-06-03 02:00:17+08:00.
+### 283: [Unofficial Daily Update for 2022-06-02. 6399 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/v3eu5a/unofficial_daily_update_for_20220602_6399_new/), submitted on 2022-06-03 02:00:17+08:00.
 
------ __282.1__ -----2022-06-03 08:35:01+08:00:
+----- __283.1__ -----2022-06-03 08:35:01+08:00:
 
 Speaking in generalities only and not with respect to any particular or individual user, it's hard to distinguish between low-information posters and accounts that are actually and intentionally trying to push a narrative. 
  Here's an example: When most people express themselves, they don't have remarkable things to say.  A bot very well might sound a lot like a person and people might [sound like bots, even if they're talking in real life](https://www.youtube.com/watch?v=u3WktU6b2BE&ab_channel=FoxNews).  
 
 Another thing to consider is the impact of misinformation, including that which people may have heard from media, government or so called "experts."  Most people just believe what they hear from people who they think are credible.  They aren't skeptical, they don't think and they don't question.  Even if they have the ability to understand how something works, they rarely undertake the effort.
 
------ __282.2__ -----2022-06-05 02:30:25+08:00:
+----- __283.2__ -----2022-06-05 02:30:25+08:00:
 
 This kind of mindless low effort nonsense adds exactly no value, here or anywhere.
 
-### 283: [A Forecasting Model Used by the CIA Predicts a Surprising Turn in U.S.-China Relations](https://old.reddit.com/r/geopolitics/comments/v3ooz1/a_forecasting_model_used_by_the_cia_predicts_a/), submitted on 2022-06-03 09:57:28+08:00.
+### 284: [A Forecasting Model Used by the CIA Predicts a Surprising Turn in U.S.-China Relations](https://old.reddit.com/r/geopolitics/comments/v3ooz1/a_forecasting_model_used_by_the_cia_predicts_a/), submitted on 2022-06-03 09:57:28+08:00.
 
------ __283.1__ -----2022-06-03 10:17:42+08:00:
+----- __284.1__ -----2022-06-03 10:17:42+08:00:
 
 Submission Statement:
 
@@ -75,9 +75,9 @@ While past performance isn't necessarily an indicator of future results, the mod
 
 > Biden and Xi, who initially showed no interest in a deal, would go along, the model predicted, in part, because so much of their attention was now focused on other issues and because a deal met their needs. In fact, Biden said earlier this month that he was weighing whether to ease the tariffs. In the game, as in real life, the leaders make compromises they didn’t expect to make.
 
-### 284: [Bowing to the Prince: Why It’s a Mistake for Biden to Visit Saudi Arabia](https://old.reddit.com/r/geopolitics/comments/v410au/bowing_to_the_prince_why_its_a_mistake_for_biden/), submitted on 2022-06-03 22:46:42+08:00.
+### 285: [Bowing to the Prince: Why It’s a Mistake for Biden to Visit Saudi Arabia](https://old.reddit.com/r/geopolitics/comments/v410au/bowing_to_the_prince_why_its_a_mistake_for_biden/), submitted on 2022-06-03 22:46:42+08:00.
 
------ __284.1__ -----2022-06-04 16:02:32+08:00:
+----- __285.1__ -----2022-06-04 16:02:32+08:00:
 
 Kaye's article was insightful and well reasoned.  
 
@@ -95,23 +95,23 @@ What does Saudi Arabia look like, in a post-"Green New Deal" world?  It is possi
 
 This is barely the beginning of the geopolitical disruption the move away from oil will cause.
 
-### 285: [Permanent Pandemic: Will COVID controls keep controlling us?](https://old.reddit.com/r/CoronavirusIllinois/comments/v4s6qf/permanent_pandemic_will_covid_controls_keep/), submitted on 2022-06-05 00:16:48+08:00.
+### 286: [Permanent Pandemic: Will COVID controls keep controlling us?](https://old.reddit.com/r/CoronavirusIllinois/comments/v4s6qf/permanent_pandemic_will_covid_controls_keep/), submitted on 2022-06-05 00:16:48+08:00.
 
------ __285.1__ -----2022-06-05 01:21:46+08:00:
+----- __286.1__ -----2022-06-05 01:21:46+08:00:
 
 > Some good stuff in here. Too bad Harper’s wasn’t putting these things out there when some of us were saying these things two-plus years ago.
 
 Everyone was too busy pretending to be "experts," thinking they were "following the science."  All the while, they were doing no such thing.
 
-### 286: [Physical interventions to interrupt or reduce the spread of respiratory viruses](https://old.reddit.com/r/CoronavirusIllinois/comments/v4shth/physical_interventions_to_interrupt_or_reduce_the/), submitted on 2022-06-05 00:32:01+08:00.
+### 287: [Physical interventions to interrupt or reduce the spread of respiratory viruses](https://old.reddit.com/r/CoronavirusIllinois/comments/v4shth/physical_interventions_to_interrupt_or_reduce_the/), submitted on 2022-06-05 00:32:01+08:00.
 
------ __286.1__ -----2022-06-05 00:40:41+08:00:
+----- __287.1__ -----2022-06-05 00:40:41+08:00:
 
 This is a Cochrane Review.  If you don't know what that is, Google it.
 
 Jefferson T, Del Mar CB, Dooley L, Ferroni E, Al-Ansary LA, Bawazeer GA, van Driel ML, Jones MA, Thorning S, Beller EM, Clark J, Hoffmann TC, Glasziou PP, Conly JM. Physical interventions to interrupt or reduce the spread of respiratory viruses. Cochrane Database Syst Rev. 2020 Nov 20;11(11):CD006207. doi: 10.1002/14651858.CD006207.pub5. PMID: 33215698; PMCID: PMC8094623.
 
------ __286.2__ -----2022-06-05 04:52:13+08:00:
+----- __287.2__ -----2022-06-05 04:52:13+08:00:
 
 Not exactly.  The point is simpler: 
 
@@ -123,7 +123,7 @@ Those who claimed to find otherwise, didn't.
 
 More and better research is needed to support that claim, because there is no scientific evidence to support the conclusion now.
 
------ __286.3__ -----2022-06-05 04:55:18+08:00:
+----- __287.3__ -----2022-06-05 04:55:18+08:00:
 
 A tremendous amount of misinformation exists, that has caused people to think they are protected by using non-medical devices for medical purposes.  
 
@@ -133,11 +133,11 @@ So proceed understanding the risks you're exposed to, as they exist in the world
 
 As opposed to the state of collective delusion that people have otherwise been laboring under.
 
------ __286.4__ -----2022-06-05 04:58:32+08:00:
+----- __287.4__ -----2022-06-05 04:58:32+08:00:
 
 Data are not good or bad.  Data is what it is.  The issue is what it says.  And this Cochrane Review is correcting the record.
 
------ __286.5__ -----2022-06-05 05:03:19+08:00:
+----- __287.5__ -----2022-06-05 05:03:19+08:00:
 
 lol . . . so that is precisely why this is important.  
 
@@ -147,31 +147,31 @@ Cochrane Reviews tell you what the evidence is, and whether it's reliable.
 
 That the usual ship of fools thinks otherwise is of no consequence.
 
------ __286.6__ -----2022-06-05 05:26:04+08:00:
+----- __287.6__ -----2022-06-05 05:26:04+08:00:
 
 The article does not say what you think it says.  Your adjective-laden characterizations are inconsequential.  
 
 Spend some more time with the material and then ask questions.  But right now, your attitude suggests that you're not in a position to participate in a productive conversation.
 
-### 287: [Revisiting Pediatric COVID-19 Cases in Counties With and Without School Mask Requirements—United States, July 1—October 20 2021](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siaa/revisiting_pediatric_covid19_cases_in_counties/), submitted on 2022-06-05 00:32:38+08:00.
+### 288: [Revisiting Pediatric COVID-19 Cases in Counties With and Without School Mask Requirements—United States, July 1—October 20 2021](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siaa/revisiting_pediatric_covid19_cases_in_counties/), submitted on 2022-06-05 00:32:38+08:00.
 
------ __287.1__ -----2022-06-05 00:39:04+08:00:
+----- __288.1__ -----2022-06-05 00:39:04+08:00:
 
 This is a Lancet scientific publication from Dr. Ambarish Chandra (contact author), among others.
 
 Chandra, Ambarish and Høeg, Tracy Beth, Revisiting Pediatric COVID-19 Cases in Counties With and Without School Mask Requirements—United States, July 1—October 20 2021. Available at SSRN: https://ssrn.com/abstract=4118566 or http://dx.doi.org/10.2139/ssrn.4118566
 
-### 288: [Surveillance and Vaccination on a University Campus During the Spread of the SARS-CoV-2 Omicron Variant](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siln/surveillance_and_vaccination_on_a_university/), submitted on 2022-06-05 00:33:07+08:00.
+### 289: [Surveillance and Vaccination on a University Campus During the Spread of the SARS-CoV-2 Omicron Variant](https://old.reddit.com/r/CoronavirusIllinois/comments/v4siln/surveillance_and_vaccination_on_a_university/), submitted on 2022-06-05 00:33:07+08:00.
 
------ __288.1__ -----2022-06-05 00:36:39+08:00:
+----- __289.1__ -----2022-06-05 00:36:39+08:00:
 
 This is a JAMA scientific publication, from Genevive R. Meredith, DrPH, MPH, Cornell University (among others).
 
 Meredith GR, Diel DG, Frazier PI, et al. Routine Surveillance and Vaccination on a University Campus During the Spread of the SARS-CoV-2 Omicron Variant. JAMA Netw Open. 2022;5(5):e2212906. doi:10.1001/jamanetworkopen.2022.12906
 
-### 289: [Two Pandemic Years Have Created a PPE Wasteland](https://old.reddit.com/r/CoronavirusIllinois/comments/v4vz00/two_pandemic_years_have_created_a_ppe_wasteland/), submitted on 2022-06-05 03:18:13+08:00.
+### 290: [Two Pandemic Years Have Created a PPE Wasteland](https://old.reddit.com/r/CoronavirusIllinois/comments/v4vz00/two_pandemic_years_have_created_a_ppe_wasteland/), submitted on 2022-06-05 03:18:13+08:00.
 
------ __289.1__ -----2022-06-05 04:57:14+08:00:
+----- __290.1__ -----2022-06-05 04:57:14+08:00:
 
 This is such a great article.  The environmental impact of this hygiene theater is devastating.
 

@@ -13,19 +13,19 @@ title: theoryofdoom在2022-03-14~2022-03-20的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 172: [Russia seeks military equipment and aid from China, U.S. officials say](https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/), submitted on 2022-03-14 11:11:12+08:00.
+### 173: [Russia seeks military equipment and aid from China, U.S. officials say](https://old.reddit.com/r/geopolitics/comments/tdnqkh/russia_seeks_military_equipment_and_aid_from/), submitted on 2022-03-14 11:11:12+08:00.
 
------ __172.1__ -----2022-03-14 11:19:58+08:00:
+----- __173.1__ -----2022-03-14 11:19:58+08:00:
 
 Submission Statement:  
 
 This Washington Post article (hosted on Microsoft News) reports that Russia has sought military aid from China, including equipment.  China denies any such request was placed.  According to White House National Security Advisor Jake Sullivan, the Biden Administration is "communicating directly, privately" with Beijing on this matter and stated "that there will absolutely be consequences," but Sullivan failed to offer meaningful details on the same.
 
------ __172.2__ -----2022-03-14 19:21:52+08:00:
+----- __173.2__ -----2022-03-14 19:21:52+08:00:
 
 Trucks, generally, and fuel trucks, specifically, have been a big problem for Russia.  Logistics are their military's main issue.
 
------ __172.3__ -----2022-03-14 19:47:28+08:00:
+----- __173.3__ -----2022-03-14 19:47:28+08:00:
 
 Further Reading from the [Associated Press](https://apnews.com/article/russia-ukraine-biden-business-europe-china-d7cfda44db57c0ff19109d66ed876c6a): 
 
@@ -37,15 +37,15 @@ Further Reading from the [Associated Press](https://apnews.com/article/russia-uk
 
 https://apnews.com/article/russia-ukraine-biden-business-europe-china-d7cfda44db57c0ff19109d66ed876c6a
 
-### 173: [A New World Energy Order Is Emerging From Putin’s War on Ukraine](https://old.reddit.com/r/geopolitics/comments/tdvqy4/a_new_world_energy_order_is_emerging_from_putins/), submitted on 2022-03-14 19:53:45+08:00.
+### 174: [A New World Energy Order Is Emerging From Putin’s War on Ukraine](https://old.reddit.com/r/geopolitics/comments/tdvqy4/a_new_world_energy_order_is_emerging_from_putins/), submitted on 2022-03-14 19:53:45+08:00.
 
------ __173.1__ -----2022-03-14 19:54:43+08:00:
+----- __174.1__ -----2022-03-14 19:54:43+08:00:
 
 No Paywall: https://archive.ph/87zId
 
 Note that the above link may not work for you in certain countries, due to national laws.
 
------ __173.2__ -----2022-03-14 20:01:09+08:00:
+----- __174.2__ -----2022-03-14 20:01:09+08:00:
 
 Submission Statement:
 
@@ -54,9 +54,9 @@ This article considers geopolitical shifts underway amid Vladimir Putin's war in
 * Source:https://www.bloomberg.com/news/articles/2022-03-11/a-new-world-energy-order-is-emerging-from-putin-s-war-on-ukraine 
 * No-Paywall: https://archive.ph/87zId
 
-### 174: [The Return of Pax Americana?: Putin’s War Is Fortifying the Democratic Alliance](https://old.reddit.com/r/geopolitics/comments/tdxfij/the_return_of_pax_americana_putins_war_is/), submitted on 2022-03-14 21:24:11+08:00.
+### 175: [The Return of Pax Americana?: Putin’s War Is Fortifying the Democratic Alliance](https://old.reddit.com/r/geopolitics/comments/tdxfij/the_return_of_pax_americana_putins_war_is/), submitted on 2022-03-14 21:24:11+08:00.
 
------ __174.1__ -----2022-03-15 11:47:54+08:00:
+----- __175.1__ -----2022-03-15 11:47:54+08:00:
 
 Very little of this analysis is persuasive.  
 
@@ -68,33 +68,33 @@ And in any case, there is no "fortifying" of any "alliiance," whether "democrati
 
 Reading this article is like watching a poker player who missed his flush on the turn bluff his way through the river.
 
-### 175: [Rifts in global systems following the Ukraine war](https://old.reddit.com/r/geopolitics/comments/te23x5/rifts_in_global_systems_following_the_ukraine_war/), submitted on 2022-03-15 00:56:42+08:00.
+### 176: [Rifts in global systems following the Ukraine war](https://old.reddit.com/r/geopolitics/comments/te23x5/rifts_in_global_systems_following_the_ukraine_war/), submitted on 2022-03-15 00:56:42+08:00.
 
------ __175.1__ -----2022-03-15 11:05:28+08:00:
+----- __176.1__ -----2022-03-15 11:05:28+08:00:
 
 This would be better submitted in response to the article already approved which focuses on these issues.
 
-### 176: [Unofficial Daily Update for 2022-03-14. 697 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/te2b5e/unofficial_daily_update_for_20220314_697_new_cases/), submitted on 2022-03-15 01:05:04+08:00.
+### 177: [Unofficial Daily Update for 2022-03-14. 697 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/te2b5e/unofficial_daily_update_for_20220314_697_new_cases/), submitted on 2022-03-15 01:05:04+08:00.
 
------ __176.1__ -----2022-03-15 11:52:36+08:00:
+----- __177.1__ -----2022-03-15 11:52:36+08:00:
 
 Misleading, misinformation.  The era of pseudo-expertise found among Twitter-based COVID-speculation is over.
 
-### 177: [Russia to pay off foreign debt in Chinese yuan: Official](https://old.reddit.com/r/geopolitics/comments/te7wug/russia_to_pay_off_foreign_debt_in_chinese_yuan/), submitted on 2022-03-15 05:10:10+08:00.
+### 178: [Russia to pay off foreign debt in Chinese yuan: Official](https://old.reddit.com/r/geopolitics/comments/te7wug/russia_to_pay_off_foreign_debt_in_chinese_yuan/), submitted on 2022-03-15 05:10:10+08:00.
 
------ __177.1__ -----2022-03-15 11:22:46+08:00:
+----- __178.1__ -----2022-03-15 11:22:46+08:00:
 
 Misleading, doubtful reporting.  Removed.
 
-### 178: [The Economic Fallout of the Ukraine War in the Middle East](https://old.reddit.com/r/geopolitics/comments/tewlwc/the_economic_fallout_of_the_ukraine_war_in_the/), submitted on 2022-03-16 02:46:42+08:00.
+### 179: [The Economic Fallout of the Ukraine War in the Middle East](https://old.reddit.com/r/geopolitics/comments/tewlwc/the_economic_fallout_of_the_ukraine_war_in_the/), submitted on 2022-03-16 02:46:42+08:00.
 
------ __178.1__ -----2022-03-16 19:41:04+08:00:
+----- __179.1__ -----2022-03-16 19:41:04+08:00:
 
 Stop these crossposts.
 
-### 179: [Xi Jinping’s Faltering Foreign Policy: The War in Ukraine and the Perils of Strongman Rule](https://old.reddit.com/r/geopolitics/comments/tfj6jl/xi_jinpings_faltering_foreign_policy_the_war_in/), submitted on 2022-03-16 22:40:51+08:00.
+### 180: [Xi Jinping’s Faltering Foreign Policy: The War in Ukraine and the Perils of Strongman Rule](https://old.reddit.com/r/geopolitics/comments/tfj6jl/xi_jinpings_faltering_foreign_policy_the_war_in/), submitted on 2022-03-16 22:40:51+08:00.
 
------ __179.1__ -----2022-03-17 12:18:43+08:00:
+----- __180.1__ -----2022-03-17 12:18:43+08:00:
 
 Perspectives such as those expressed in the article linked here give me pause.  I worry that some foreign policy stakeholders fail to understand how interests are perceived by their adversaries, which would result in avoidable strategic error. 
 
@@ -108,15 +108,15 @@ Basically, reading this article's "analysis" feels like sipping the kool-aid.  F
 
 * Additionally, Xi's "threats toward Taiwan are," in fact "driving Washington and Taipei closer together and forcing other regional powers, such as Australia and Japan, to declare their own compelling interest in Taiwan’s security." But, consider that: (a) the "compelling" nature of that interest was already well established, (b) "declar[ing]" it now is unlikely to be perceived as anything other than what it is --- purely symbolic and (c) the only thing that matters is whether the United States is willing to prevent forcible reunification, and based on what Biden is allowing to happen in Ukraine now, Biden is clearly unwilling to do anything with the military whatsoever.
 
-### 180: [Unofficial Daily Update for 2022-03-16. 1031 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tfmtex/unofficial_daily_update_for_20220316_1031_new/), submitted on 2022-03-17 01:05:05+08:00.
+### 181: [Unofficial Daily Update for 2022-03-16. 1031 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tfmtex/unofficial_daily_update_for_20220316_1031_new/), submitted on 2022-03-17 01:05:05+08:00.
 
------ __180.1__ -----2022-03-17 11:47:59+08:00:
+----- __181.1__ -----2022-03-17 11:47:59+08:00:
 
 Seasonal allergies.   I hate spring.
 
-### 181: [The False Promise of Arming Insurgents: America’s Spotty Record Warrants Caution in Ukraine](https://old.reddit.com/r/geopolitics/comments/th3svd/the_false_promise_of_arming_insurgents_americas/), submitted on 2022-03-18 23:21:42+08:00.
+### 182: [The False Promise of Arming Insurgents: America’s Spotty Record Warrants Caution in Ukraine](https://old.reddit.com/r/geopolitics/comments/th3svd/the_false_promise_of_arming_insurgents_americas/), submitted on 2022-03-18 23:21:42+08:00.
 
------ __181.1__ -----2022-03-19 14:01:24+08:00:
+----- __182.1__ -----2022-03-19 14:01:24+08:00:
 
 > I wrote an article in January where I reached that exact same conclusion.
 
@@ -132,43 +132,43 @@ Furnishing arms, as was considered at that time, involved uncertain and potentia
 
 In any event, Ukraine is not Syria.  Regime change is not the desired end for anyone, other than Vladimir Putin.  No appropriate analogy can be drawn to any case of Cold War appropriations to anti-Soviet opposition or insurgency.  There is an appropriate analogy to be drawn, however, to Bosnia.  There, earlier intervention might have shortened the conflict duration and resulted in fewer casualties in the long run.
 
------ __181.2__ -----2022-03-21 19:38:57+08:00:
+----- __182.2__ -----2022-03-21 19:38:57+08:00:
 
 Тебе нужно перестать делать то, что ты делаешь.
 
------ __181.3__ -----2022-03-21 19:46:40+08:00:
+----- __182.3__ -----2022-03-21 19:46:40+08:00:
 
 This comment section was out of hand and is locked as a result.  Users are reminded to keep comments up to par, refrain from exchanging insults or contributing to low-quality discourse.
 
-### 182: [Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)](https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/), submitted on 2022-03-19 00:38:00+08:00.
+### 183: [Could any expieraned lifter critique my dip form. Just started incorporating these into my training today. (Excuse my ghetto set up)](https://old.reddit.com/r/GYM/comments/th5j56/could_any_expieraned_lifter_critique_my_dip_form/), submitted on 2022-03-19 00:38:00+08:00.
 
------ __182.1__ -----2022-03-19 12:03:49+08:00:
+----- __183.1__ -----2022-03-19 12:03:49+08:00:
 
 I see that he put weights on them, but my anxiety over those chairs was really high.
 
-### 183: [Joe Biden's historic speech from 1995 regarding Bosnia sounds so relevant in context of today's aggression in Ukraine, also mentioning the fear of future wars in Europe.](https://old.reddit.com/r/geopolitics/comments/thh6qt/joe_bidens_historic_speech_from_1995_regarding/), submitted on 2022-03-19 06:42:17+08:00.
+### 184: [Joe Biden's historic speech from 1995 regarding Bosnia sounds so relevant in context of today's aggression in Ukraine, also mentioning the fear of future wars in Europe.](https://old.reddit.com/r/geopolitics/comments/thh6qt/joe_bidens_historic_speech_from_1995_regarding/), submitted on 2022-03-19 06:42:17+08:00.
 
------ __183.1__ -----2022-03-20 00:24:59+08:00:
+----- __184.1__ -----2022-03-20 00:24:59+08:00:
 
 You should submit some kind of original post explaining why you think this speech is relevant to Ukraine today, link the video and analyze it.  But you currently have no submission statement and just linking the video isn't enough.
 
-### 184: [Chicagohenge 2022: When and Where You Can See It This Weekend](https://old.reddit.com/r/CoronavirusIllinois/comments/thymhh/chicagohenge_2022_when_and_where_you_can_see_it/), submitted on 2022-03-20 00:16:55+08:00.
+### 185: [Chicagohenge 2022: When and Where You Can See It This Weekend](https://old.reddit.com/r/CoronavirusIllinois/comments/thymhh/chicagohenge_2022_when_and_where_you_can_see_it/), submitted on 2022-03-20 00:16:55+08:00.
 
------ __184.1__ -----2022-03-20 00:17:34+08:00:
+----- __185.1__ -----2022-03-20 00:17:34+08:00:
 
 Not relevant to COVID, but something interesting to see if you're in Chicago.
 
-### 185: [[Fox] Fauci warns Americans could face more lockdowns amid spread of new COVID-19 variant](https://old.reddit.com/r/LockdownCriticalLeft/comments/ti1w98/fox_fauci_warns_americans_could_face_more/), submitted on 2022-03-20 02:46:55+08:00.
+### 186: [[Fox] Fauci warns Americans could face more lockdowns amid spread of new COVID-19 variant](https://old.reddit.com/r/LockdownCriticalLeft/comments/ti1w98/fox_fauci_warns_americans_could_face_more/), submitted on 2022-03-20 02:46:55+08:00.
 
------ __185.1__ -----2022-03-20 09:45:14+08:00:
+----- __186.1__ -----2022-03-20 09:45:14+08:00:
 
 There are rumors Fauci is going to retire or step down.  Those rumors correlate to political initiatives in congress that split his job into three roles, curing the tripartite conflicts of interest that he has exploited for decades to enrich himself.  
 
 What's funny is that Fauci doesn't realize that the democrats will throw him away.  It's just a matter of time.
 
-### 186: [Former President of Poland: In the long term, China wants to vassalise Russia. Erdogan is playing his game well. Le Pen will get a beating for her love of Putin.](https://old.reddit.com/r/geopolitics/comments/ti524n/former_president_of_poland_in_the_long_term_china/), submitted on 2022-03-20 05:14:56+08:00.
+### 187: [Former President of Poland: In the long term, China wants to vassalise Russia. Erdogan is playing his game well. Le Pen will get a beating for her love of Putin.](https://old.reddit.com/r/geopolitics/comments/ti524n/former_president_of_poland_in_the_long_term_china/), submitted on 2022-03-20 05:14:56+08:00.
 
------ __186.1__ -----2022-03-20 05:25:30+08:00:
+----- __187.1__ -----2022-03-20 05:25:30+08:00:
 
 Link to the original article.  Post the translation in the comments. 
 
@@ -180,7 +180,7 @@ This is the translation of that link to English, which you should use *exactly* 
 
 Be sure to post a submission statement.
 
------ __186.2__ -----2022-03-20 23:22:08+08:00:
+----- __187.2__ -----2022-03-20 23:22:08+08:00:
 
 Just as an FYI, here's what I was looking for:
 
@@ -188,21 +188,21 @@ https://www.reddit.com/r/geopolitics/comments/tim3sd/kwa%C5%9Bniewski_20_years_a
 
 You had a great find.  Please feel free to share similar content here in the future.
 
-### 187: [Have American sanctions ever actually gotten a nation to change its leadership?](https://old.reddit.com/r/geopolitics/comments/ti97yf/have_american_sanctions_ever_actually_gotten_a/), submitted on 2022-03-20 08:42:15+08:00.
+### 188: [Have American sanctions ever actually gotten a nation to change its leadership?](https://old.reddit.com/r/geopolitics/comments/ti97yf/have_american_sanctions_ever_actually_gotten_a/), submitted on 2022-03-20 08:42:15+08:00.
 
------ __187.1__ -----2022-03-20 23:45:13+08:00:
+----- __188.1__ -----2022-03-20 23:45:13+08:00:
 
 > Sanctions were only part of the reason.
 
 Milošević's fall had almost nothing to do with Western sanctions.
 
------ __187.2__ -----2022-03-21 00:27:51+08:00:
+----- __188.2__ -----2022-03-21 00:27:51+08:00:
 
 Milošević's days were numbered, because of what he was doing and what it meant for the people to whom he was doing it.  Sanctions just happened to tag along to what was already inevitable.
 
-### 188: [Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]](https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/), submitted on 2022-03-20 22:21:05+08:00.
+### 189: [Kwaśniewski: "20 years ago I had a face-to-face conversation with Putin. He spoke directly about the reconstruction of great Russia" [Translated Interview]](https://old.reddit.com/r/geopolitics/comments/tim3sd/kwaśniewski_20_years_ago_i_had_a_facetoface/), submitted on 2022-03-20 22:21:05+08:00.
 
------ __188.1__ -----2022-03-20 22:32:41+08:00:
+----- __189.1__ -----2022-03-20 22:32:41+08:00:
 
 # Submission Statement:
 
@@ -212,7 +212,7 @@ The interview is in Polish.  A translation will follow.
 
 Quick note as well.  The user u/boskee originally submitted a translation of this article to r/ukraine, where it was removed for reasons that defy rational explanation. The same user posted the same version here.  I encouraged him to share the original link with a submission statement, but after 24 hours I saw it hadn't been done.  Because that user identified a worthwhile perspective to add to r/geopolitics, I have shared it here.
 
------ __188.2__ -----2022-03-20 22:37:32+08:00:
+----- __189.2__ -----2022-03-20 22:37:32+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -244,7 +244,7 @@ Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,
 
 This translation continues.
 
------ __188.3__ -----2022-03-20 22:40:53+08:00:
+----- __189.3__ -----2022-03-20 22:40:53+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -276,7 +276,7 @@ Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,
 
 This translation continues.
 
------ __188.4__ -----2022-03-20 22:43:02+08:00:
+----- __189.4__ -----2022-03-20 22:43:02+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -301,7 +301,7 @@ Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,
 
 This translation continues.
 
------ __188.5__ -----2022-03-20 22:50:35+08:00:
+----- __189.5__ -----2022-03-20 22:50:35+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -365,7 +365,7 @@ It is difficult to predict today, but this turn must be taken seriously - it wil
 
 This translation continues.
 
------ __188.6__ -----2022-03-20 22:50:51+08:00:
+----- __189.6__ -----2022-03-20 22:50:51+08:00:
 
 Translation of Interview from: https://wiadomosci.gazeta.pl/wiadomosci/7,114883,28238646,kwasniewski-20-lat-temu-mialem-z-putinem-rozmowe-w-cztery-oczy.html
 
@@ -407,25 +407,25 @@ I hope. Today, everyone is aware that we need more unity, because in the face of
 
 This is the last part of the translation.
 
------ __188.7__ -----2022-03-20 23:19:56+08:00:
+----- __189.7__ -----2022-03-20 23:19:56+08:00:
 
 I think it's really important to share non-English international perspectives, like these.  I would like to see more submissions from international sources.
 
------ __188.8__ -----2022-03-20 23:39:16+08:00:
+----- __189.8__ -----2022-03-20 23:39:16+08:00:
 
 > The whole thing is about NATO. 
 
 Why do you think that?
 
------ __188.9__ -----2022-03-21 00:14:23+08:00:
+----- __189.9__ -----2022-03-21 00:14:23+08:00:
 
 Putin invaded Ukraine because he believes that a Ukraine affiliated with Western Europe or NATO is a threat to Russia.  Putin's perceptions of threats to Russia is what this is all about.  NATO is one category of such threats, in his view.
 
------ __188.10__ -----2022-03-21 00:16:53+08:00:
+----- __189.10__ -----2022-03-21 00:16:53+08:00:
 
 It's really incredible to me that people writing for think tanks in Washington who have never spent more than a day in Eastern Europe think they can predict Putin's next move.  It's clear to me that they don't understand why he moved in the first place.  Mike Baker's perspective on this mirror's my own.
 
------ __188.11__ -----2022-03-21 00:25:16+08:00:
+----- __189.11__ -----2022-03-21 00:25:16+08:00:
 
 Kwasniewski's take was harsh.  But, if by "we" you mean "Americans," then it's reasonable to question whether people writing for think tanks could possibly get anything right  in understanding Putin or his foreign policy.  That cohort, after all, only knows what other people writing for think tanks have said.  At the considerable risk of being profane, that kind of quasi-intellectual circle-jerk is dangerous because it creates strategic blind spots that can't be overcome with more of that same thinking. 
 
@@ -433,29 +433,29 @@ There's a tendency among Western-foreign policy types to try to project Western 
 
 I have never seen more such strategic blindness than prior to Vladimir Putin's invading Ukraine.
 
------ __188.12__ -----2022-03-21 08:24:44+08:00:
+----- __189.12__ -----2022-03-21 08:24:44+08:00:
 
 People outside the United States are a lot more aware of the United States than the United States is aware of them.
 
------ __188.13__ -----2022-03-21 08:26:45+08:00:
+----- __189.13__ -----2022-03-21 08:26:45+08:00:
 
 Credit to u/boskee, because this was his find.
 
------ __188.14__ -----2022-03-21 08:34:17+08:00:
+----- __189.14__ -----2022-03-21 08:34:17+08:00:
 
 No.  There is *nothing* about Ukraine that was unpredictable, if people just listened to what Putin said and considered it in the context of his past actions.  But the problem is that the so-called "foreign policy" advisors Biden has surrounded himself with are too busy blowing smoke up one another's posteriors to see the elephant in the room.
 
------ __188.15__ -----2022-03-21 08:35:00+08:00:
+----- __189.15__ -----2022-03-21 08:35:00+08:00:
 
 Germany's irrational hostility to nuclear energy is mainly to blame for that.
 
------ __188.16__ -----2022-03-21 09:26:55+08:00:
+----- __189.16__ -----2022-03-21 09:26:55+08:00:
 
 > His own CIA director has been warning about this very thing for more than a decade.
 
 The CIA got it right, for sure.  I think with more resources, they would have done even better.
 
------ __188.17__ -----2022-03-21 19:52:23+08:00:
+----- __189.17__ -----2022-03-21 19:52:23+08:00:
 
 Gates is correct.
 

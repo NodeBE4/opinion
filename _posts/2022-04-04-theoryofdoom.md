@@ -13,15 +13,15 @@ title: theoryofdoom在2022-04-04~2022-04-10的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 209: [Piercing the Fog of War - An ongoing effort.](https://old.reddit.com/r/geopolitics/comments/tvs6ur/piercing_the_fog_of_war_an_ongoing_effort/), submitted on 2022-04-04 11:34:40+08:00.
+### 210: [Piercing the Fog of War - An ongoing effort.](https://old.reddit.com/r/geopolitics/comments/tvs6ur/piercing_the_fog_of_war_an_ongoing_effort/), submitted on 2022-04-04 11:34:40+08:00.
 
------ __209.1__ -----2022-04-08 18:51:04+08:00:
+----- __210.1__ -----2022-04-08 18:51:04+08:00:
 
 If you want this to be approved, reformat it so that the numbers show up properly and edit it down.  Further, properly incorporate your links according to the format Reddit requires for hyperlinks.  Right now, this looks messy and is difficult to follow.  Otherwise, it will not be approved.
 
-### 210: [Republican-controlled states have higher murder rates than Democratic ones: study](https://old.reddit.com/r/crime/comments/twuqpj/republicancontrolled_states_have_higher_murder/), submitted on 2022-04-05 21:17:22+08:00.
+### 211: [Republican-controlled states have higher murder rates than Democratic ones: study](https://old.reddit.com/r/crime/comments/twuqpj/republicancontrolled_states_have_higher_murder/), submitted on 2022-04-05 21:17:22+08:00.
 
------ __210.1__ -----2022-04-06 19:29:31+08:00:
+----- __211.1__ -----2022-04-06 19:29:31+08:00:
 
 This is an article about a "study" from a partisan group called Third Way, which was linked several paragraphs in.  According to the article:
 
@@ -39,9 +39,9 @@ The above deficits are merely an illustrative sampling of why this Yahoo article
 
 Accordingly, this article is removed.  We encourage submissions from reliable think tanks and sources, but Third Way is no such thing when they publish this kind of low-effort garbage.
 
-### 211: [Chicago's, schools' COVID-19 numbers climb but ‘nothing alarming'](https://old.reddit.com/r/CoronavirusIllinois/comments/txkfai/chicagos_schools_covid19_numbers_climb_but/), submitted on 2022-04-06 19:54:35+08:00.
+### 212: [Chicago's, schools' COVID-19 numbers climb but ‘nothing alarming'](https://old.reddit.com/r/CoronavirusIllinois/comments/txkfai/chicagos_schools_covid19_numbers_climb_but/), submitted on 2022-04-06 19:54:35+08:00.
 
------ __211.1__ -----2022-04-06 20:00:08+08:00:
+----- __212.1__ -----2022-04-06 20:00:08+08:00:
 
 According to Chicago's so-called public health commissioner, Allison Arwady: 
 
@@ -51,45 +51,45 @@ This statement's baseline stupidity should be readily obvious.  Anyone even casu
 
 Even setting aside the fact that, of course, Arwady's predictions are --- as always --- based on nothing, these repeat occurrences continue to undermine Arwady's credibility and effectiveness.  This innumerate individual would do well to refrain from further public appearances.  But interestingly, Arwady's approach has clearly shifted, in any case, to one that is tailored by the obvious political gravity associated with COVID policies and in view of the upcoming elections this fall.
 
------ __211.2__ -----2022-04-07 07:02:29+08:00:
+----- __212.2__ -----2022-04-07 07:02:29+08:00:
 
 I suggest that Awrady be relieved of her responsibilities.
 
-### 212: [Unofficial Daily Update for 2022-04-07. 1496 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tyiwbr/unofficial_daily_update_for_20220407_1496_new/), submitted on 2022-04-08 02:05:20+08:00.
+### 213: [Unofficial Daily Update for 2022-04-07. 1496 New Cases.](https://old.reddit.com/r/CoronavirusIllinois/comments/tyiwbr/unofficial_daily_update_for_20220407_1496_new/), submitted on 2022-04-08 02:05:20+08:00.
 
------ __212.1__ -----2022-04-08 18:04:18+08:00:
+----- __213.1__ -----2022-04-08 18:04:18+08:00:
 
 What is confusing about this to you?
 
------ __212.2__ -----2022-04-08 18:05:19+08:00:
+----- __213.2__ -----2022-04-08 18:05:19+08:00:
 
 I see almost no utility in these daily updates.
 
------ __212.3__ -----2022-04-08 19:36:00+08:00:
+----- __213.3__ -----2022-04-08 19:36:00+08:00:
 
 The "positivity rate" is an unhelpful metric, particularly when the amount of tests administered is low.  All other issues associated with these data points notwithstanding, because the "positivity rate" is a function of a numerator comprising the amount of purported "positives" and a denominator comprising the amount of tests administered, higher such rates should be expected to be significantly associated with lower numbers of tests administered.  Basically, the fewer tests you administer the more likely you're going to see a higher "positivity rate."  
 
 In view of recent changes to testing, coverage and related problems associated with that data's aggregation, I would further expect to see the "positivity rate" continue to become more misleading and unhelpful for related reasons.  For example, it is unclear whether or two what extent self tests are reported.  Further, as coverage continues to become more restrictive, the population seeking COVID tests is more likely to be self-selecting and biased.
 
------ __212.4__ -----2022-04-08 19:47:17+08:00:
+----- __213.4__ -----2022-04-08 19:47:17+08:00:
 
 Well, I'm glad we're on the same page.
 
-### 213: [Is there a methodic way to study geopolitics?](https://old.reddit.com/r/geopolitics/comments/tz1cvq/is_there_a_methodic_way_to_study_geopolitics/), submitted on 2022-04-08 19:26:09+08:00.
+### 214: [Is there a methodic way to study geopolitics?](https://old.reddit.com/r/geopolitics/comments/tz1cvq/is_there_a_methodic_way_to_study_geopolitics/), submitted on 2022-04-08 19:26:09+08:00.
 
------ __213.1__ -----2022-04-08 19:50:28+08:00:
+----- __214.1__ -----2022-04-08 19:50:28+08:00:
 
 Try /r/geopolitics2.
 
-### 214: [Hate to have to ask, but what is this piece of equipment called boys?](https://old.reddit.com/r/GYM/comments/tzabs3/hate_to_have_to_ask_but_what_is_this_piece_of/), submitted on 2022-04-09 02:43:11+08:00.
+### 215: [Hate to have to ask, but what is this piece of equipment called boys?](https://old.reddit.com/r/GYM/comments/tzabs3/hate_to_have_to_ask_but_what_is_this_piece_of/), submitted on 2022-04-09 02:43:11+08:00.
 
------ __214.1__ -----2022-04-09 12:09:52+08:00:
+----- __215.1__ -----2022-04-09 12:09:52+08:00:
 
 Alternatively, you could get the same exercise by getting a job at Home Depot unloading refrigerators.
 
-### 215: [Pevear/Volokhonsky Bicentennial Edition Changes to Notes from Underground? From “wicked” to “spite.”](https://old.reddit.com/r/dostoevsky/comments/u05xr6/pevearvolokhonsky_bicentennial_edition_changes_to/), submitted on 2022-04-10 08:18:17+08:00.
+### 216: [Pevear/Volokhonsky Bicentennial Edition Changes to Notes from Underground? From “wicked” to “spite.”](https://old.reddit.com/r/dostoevsky/comments/u05xr6/pevearvolokhonsky_bicentennial_edition_changes_to/), submitted on 2022-04-10 08:18:17+08:00.
 
------ __215.1__ -----2022-04-10 10:01:21+08:00:
+----- __216.1__ -----2022-04-10 10:01:21+08:00:
 
 Volokhonsky's idiosyncrasies, Peaver's illiteracy and their collective inability to appreciate the difference between a connotation and denotation are why.
 

@@ -13,37 +13,37 @@ title: theoryofdoom在2022-06-06~2022-06-12的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 290: [Don’t romanticise the global south. Its sympathy for Russia should change western liberals’ sentimental view of the developing world](https://old.reddit.com/r/geopolitics/comments/v5myav/dont_romanticise_the_global_south_its_sympathy/), submitted on 2022-06-06 05:23:28+08:00.
+### 291: [Don’t romanticise the global south. Its sympathy for Russia should change western liberals’ sentimental view of the developing world](https://old.reddit.com/r/geopolitics/comments/v5myav/dont_romanticise_the_global_south_its_sympathy/), submitted on 2022-06-06 05:23:28+08:00.
 
------ __290.1__ -----2022-06-06 19:01:53+08:00:
+----- __291.1__ -----2022-06-06 19:01:53+08:00:
 
 Post a submission statement.
 
-### 291: [Climbing the ladder: How the West can manage escalation in Ukraine and beyond](https://old.reddit.com/r/geopolitics/comments/v61j7c/climbing_the_ladder_how_the_west_can_manage/), submitted on 2022-06-06 19:41:34+08:00.
+### 292: [Climbing the ladder: How the West can manage escalation in Ukraine and beyond](https://old.reddit.com/r/geopolitics/comments/v61j7c/climbing_the_ladder_how_the_west_can_manage/), submitted on 2022-06-06 19:41:34+08:00.
 
------ __291.1__ -----2022-06-06 19:46:20+08:00:
+----- __292.1__ -----2022-06-06 19:46:20+08:00:
 
 Submission Statement: 
 
 In this Atlantic Council report, Richard D. Hooker, Jr. analyzes triggers for escalation in Ukraine at several different levels and suggests strategic approaches to manage those risks.  According to Hooker, what will become of Ukraine remains dependent on Western leadership.  The greatest risk is a settlement in which Putin remains poised to fight another day, and preventing such an outcome ought to be NATO and the EU's central objective.  To accomplish this, both NATO and the EU should adopt a comprehensive strategy to cooperate out of mutual self interest on all levels.
 
-### 292: [Beyond Weapons: Time for a New U.S. Strategy on Taiwan](https://old.reddit.com/r/geopolitics/comments/v6la38/beyond_weapons_time_for_a_new_us_strategy_on/), submitted on 2022-06-07 11:23:04+08:00.
+### 293: [Beyond Weapons: Time for a New U.S. Strategy on Taiwan](https://old.reddit.com/r/geopolitics/comments/v6la38/beyond_weapons_time_for_a_new_us_strategy_on/), submitted on 2022-06-07 11:23:04+08:00.
 
------ __292.1__ -----2022-06-07 11:39:55+08:00:
-
-Submission Statement:  
-
-In this Op-Ed, John Bolton argues that the time has come to reconsider the United States' strategic approach to Taiwan.  But a new framework is needed first.  The debate over Taiwan is not simply a matter of "defense," or providing the "right weaponry." So called "strategic ambiguity" is an archaic concept that has long outlived its utility --- a realization that has apparently even dawned on the current administration, since Biden has said no less than three times that the United States would defend Taiwan if it were attacked.  And that should come as no surprise.  Aside from economic and strategic access perspectives, Taiwan's territorial claim in the first island chain between China and the broader Pacific alone explains why.  Accordingly, America's strategy on Taiwan must contend with the fact that Taiwan is the geopolitical chokepoint to Beijing's hegemony in the eastern hemisphere, at the very least.
-
------ __292.2__ -----2022-06-07 11:43:12+08:00:
+----- __293.1__ -----2022-06-07 11:39:55+08:00:
 
 Submission Statement:  
 
 In this Op-Ed, John Bolton argues that the time has come to reconsider the United States' strategic approach to Taiwan.  But a new framework is needed first.  The debate over Taiwan is not simply a matter of "defense," or providing the "right weaponry." So called "strategic ambiguity" is an archaic concept that has long outlived its utility --- a realization that has apparently even dawned on the current administration, since Biden has said no less than three times that the United States would defend Taiwan if it were attacked.  And that should come as no surprise.  Aside from economic and strategic access perspectives, Taiwan's territorial claim in the first island chain between China and the broader Pacific alone explains why.  Accordingly, America's strategy on Taiwan must contend with the fact that Taiwan is the geopolitical chokepoint to Beijing's hegemony in the eastern hemisphere, at the very least.
 
-### 293: [The New Energy Order: How Governments Will Transform Energy Markets](https://old.reddit.com/r/geopolitics/comments/v6xh36/the_new_energy_order_how_governments_will/), submitted on 2022-06-07 22:40:09+08:00.
+----- __293.2__ -----2022-06-07 11:43:12+08:00:
 
------ __293.1__ -----2022-06-09 20:46:33+08:00:
+Submission Statement:  
+
+In this Op-Ed, John Bolton argues that the time has come to reconsider the United States' strategic approach to Taiwan.  But a new framework is needed first.  The debate over Taiwan is not simply a matter of "defense," or providing the "right weaponry." So called "strategic ambiguity" is an archaic concept that has long outlived its utility --- a realization that has apparently even dawned on the current administration, since Biden has said no less than three times that the United States would defend Taiwan if it were attacked.  And that should come as no surprise.  Aside from economic and strategic access perspectives, Taiwan's territorial claim in the first island chain between China and the broader Pacific alone explains why.  Accordingly, America's strategy on Taiwan must contend with the fact that Taiwan is the geopolitical chokepoint to Beijing's hegemony in the eastern hemisphere, at the very least.
+
+### 294: [The New Energy Order: How Governments Will Transform Energy Markets](https://old.reddit.com/r/geopolitics/comments/v6xh36/the_new_energy_order_how_governments_will/), submitted on 2022-06-07 22:40:09+08:00.
+
+----- __294.1__ -----2022-06-09 20:46:33+08:00:
 
 > Business leaders have declared the acceleration of deglobalization and sounded the alarm about a new period of stagflation.
 
@@ -81,7 +81,7 @@ Germany either has to import LNG to meet its needs, which it lacks the ability t
  
 Europe needs to follow France's model (except to the extent that anti-nuclear voices seem to inexplicably be gaining ground there), in any case.  Electricity generation by coal is no longer a viable means and must be replaced, for reasons that should be obvious.  Coal can only be replaced by nuclear, but nuclear can't meet fluctuating grid demand.  Other options have to be available to supplement, and natural gas is the least worst means to that end at this time.  Likewise, so called green advocates need to understand the technologies they advocate for.  The useful life of wind turbines is a lot less than people realize and their carbon footprint is woefully undervalued.  Same with solar.  And both suffer the same reliability problems, because it turns out that acute increases in grid demand don't reliably correlate with the weather.  Sometimes that is true, but it has to always be true for those technologies to be viable in the absence of storage capacity.
 
------ __293.2__ -----2022-06-11 21:21:56+08:00:
+----- __294.2__ -----2022-06-11 21:21:56+08:00:
 
 > Business leaders have declared the acceleration of deglobalization and sounded the alarm about a new period of stagflation.
 
@@ -119,15 +119,15 @@ Germany either has to import LNG to meet its needs, which it lacks the ability t
  
 Europe needs to follow France's model (except to the extent that anti-nuclear voices seem to inexplicably be gaining ground there), in any case.  Electricity generation by coal is no longer a viable means and must be replaced, for reasons that should be obvious.  Coal can only be replaced by nuclear, but nuclear can't meet fluctuating grid demand.  Other options have to be available to supplement, and natural gas is the least worst means to that end at this time.  Likewise, so called green advocates need to understand the technologies they advocate for.  The useful life of wind turbines is a lot less than people realize and their carbon footprint is woefully undervalued.  Same with solar.  And both suffer the same reliability problems, because it turns out that acute increases in grid demand don't reliably correlate with the weather.  Sometimes that is true, but it has to always be true for those technologies to be viable in the absence of storage capacity.
 
-### 294: [Sci-fi series for 9 year old with a (12-15 year old's reading level)](https://old.reddit.com/r/suggestmeabook/comments/v9vfvj/scifi_series_for_9_year_old_with_a_1215_year_olds/), submitted on 2022-06-11 19:16:47+08:00.
+### 295: [Sci-fi series for 9 year old with a (12-15 year old's reading level)](https://old.reddit.com/r/suggestmeabook/comments/v9vfvj/scifi_series_for_9_year_old_with_a_1215_year_olds/), submitted on 2022-06-11 19:16:47+08:00.
 
------ __294.1__ -----2022-06-12 01:47:25+08:00:
+----- __295.1__ -----2022-06-12 01:47:25+08:00:
 
 Dune.  If your son can read and understand the Harry Potter series, then he should be reaching just slightly outside the scope of his current ability.
 
-### 295: [Former state health director Ezike under scrutiny by ethics investigator](https://old.reddit.com/r/CoronavirusIllinois/comments/v9wnlo/former_state_health_director_ezike_under_scrutiny/), submitted on 2022-06-11 20:34:06+08:00.
+### 296: [Former state health director Ezike under scrutiny by ethics investigator](https://old.reddit.com/r/CoronavirusIllinois/comments/v9wnlo/former_state_health_director_ezike_under_scrutiny/), submitted on 2022-06-11 20:34:06+08:00.
 
------ __295.1__ -----2022-06-11 21:40:40+08:00:
+----- __296.1__ -----2022-06-11 21:40:40+08:00:
 
 From [the article](https://www.dailyherald.com/news/20220610/former-state-health-director-ezike-under-scrutiny-by-ethics-investigator):
 
@@ -139,7 +139,7 @@ From [the article](https://www.dailyherald.com/news/20220610/former-state-health
 
 . . . Not even surprised. This is Illinois.
 
------ __295.2__ -----2022-06-12 00:03:28+08:00:
+----- __296.2__ -----2022-06-12 00:03:28+08:00:
 
 The reason that the law exists as written is pretty straightforward.  It's a check against corruption, applicable to very high level public officials.  
 
@@ -163,15 +163,15 @@ Even still, this is Illinois.
 
 Things are what they are.
 
------ __295.3__ -----2022-06-12 01:36:46+08:00:
+----- __296.3__ -----2022-06-12 01:36:46+08:00:
 
 Indeed.  A casual review of public records suggests that Vaught --- Madigan's lawyer --- was a common denominator in all sorts of eyebrow-raising circumstances throughout her "legal career."  A "legal career" that is fairly surprising, considering that she graduated from a law school whose admission criteria is little more than walking in the door.  But she's a power player behind the scenes.  Which is the important thing.  In Illinois, at least.
 
------ __295.4__ -----2022-06-13 02:55:35+08:00:
+----- __296.4__ -----2022-06-13 02:55:35+08:00:
 
 Perhaps one day folks will comprehend the fact that a report button is *not* a "disagree" button.
 
------ __295.5__ -----2022-06-13 06:24:38+08:00:
+----- __296.5__ -----2022-06-13 06:24:38+08:00:
 
 > Just pretend to care about the rules
 
