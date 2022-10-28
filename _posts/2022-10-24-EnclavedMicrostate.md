@@ -179,3 +179,35 @@ The Ottomans have had some notable entanglements with Xinjiang separatism. Yaqub
 
 The Taiping have at least three weird connections with the military history of 1860s Japan. Takasugi Shinsaku of Chōshū, whom some consider to have been the founder of what would become the Imperial Japanese Army, may have been inspired by the Qing use of militias in his decision to form rifle units composed of peasants as well as samurai. Henry Burgevine, an American mercenary commander who had fought for the Qing, defected to the Taiping, and then went into exile, made several petitions to Japanese domains to train up their armies, and eventually ended up briefly working for Chōshū before being duped by a steamer captain into being taken to Shanghai, where the Qing arrested him for breaking the terms of his exile, and he may have been quietly murdered afterward. The Satsuma domain warship *Kasuga* was originally the *Keangsoo*, a 6-gun corvette – and the fastest armed ship in the world – that served as the flagship of the Lay-Osborn Flotilla, a small brown-water squadron assembled by British investors to support the Qing war effort, but which was refused by the Qing after it became clear that Horatio Lay (its creator) intended to command it entirely independently. It ended up in Japanese hands after being anchored in Bombay for two years, as the American consul in China had insisted it be removed from Shanghai to prevent it being obtained by Confederate privateers.
 
+----- __903.13__ -----2022-10-29 06:17:14+08:00:
+
+*Shatranj ke Khilari* (*The Chess Players*) is the only feature-length film by Satyajit Ray to be in Hindi rather than Bengali; it's also one of a handful to actually depict a real historical event, that being the 1856 annexation of the Indian state of Awadh (Oudh) by the East India Company on the eve of the Rebellion. It's also a fantastic film that's well worth watching!
+
+----- __903.14__ -----2022-10-29 06:23:01+08:00:
+
+So the weird thing is that AskHistorians invented the 20-year rule to make moderation easier. There is no *actual* 20-year rule in real life. Also as far as AskHistorians is concerned it ticks over every year rather than every day. And it's kind of a 19-year rule. So you can talk about the history of any point in 2003 from 1 January 2023.
+
+----- __903.15__ -----2022-10-29 06:26:43+08:00:
+
+The word 'chopsticks' may have entered English thanks to Chinese Pidgin English, which developed between speakers of Cantonese and English in southern China in the 18th and early 19th centuries. Cantonese for chopsticks is 筷子 *faai3 zi2*, or just 筷 *faai3* in a literary context, which is a homophone of 快 *faai3*, 'fast'. 'Chop chop' being a Pidgin term for 'fast', it's possible that 'chop sticks' as a term for Chinese eating utensils was a result of this homophone.
+
+----- __903.16__ -----2022-10-29 06:29:40+08:00:
+
+To paraphrase from an earlier fact in the thread, the first treaties between the Qing Empire and Russia (Nerchinsk in 1689 and Kiakhta in 1727) were composed in Latin, then translated to Russian and Manchu. The Qing court included several Jesuit advisors who served as Latin interpreters, which is how that managed to happen. That said, Peter Perdue has pointed out that it is interesting how the Jesuits inserted themselves into the process, as the Russians and the Qing could just as well – indeed, potentially more easily – used Mongolian as an intermediary language.
+
+----- __903.17__ -----2022-10-29 06:31:33+08:00:
+
+Smithian economics has indeed been a disaster.
+
+----- __903.18__ -----2022-10-29 06:33:57+08:00:
+
+The original 'Six-Day War' was in 1899, when several rural villages in the New Territories then-recently leased to Britain rose up in revolt in a pre-emptive protest against land reform. An estimated 500 villagers died, but their aims were ultimately somewhat achieved – the governor and the local commander-in-chief had been blindsided by the more junior military officers, and quickly offered a package of concessions which was actually baked into the Basic Law (Hong Kong's current, nominally-still-active local constitution) during the handover process in the '80s and '90s. The war was also essentially covered up and virtually never spoken of again in official documents.
+
+----- __903.19__ -----2022-10-29 06:35:14+08:00:
+
+Stephen Platt argues that the American Civil War was the ultimate cause of Anglo-French intervention in the Taiping War in China: the sudden contraction of the American market led to the European empires attempting to restore political stability in China to stabilise commerce there.
+
+----- __903.20__ -----2022-10-29 06:42:02+08:00:
+
+The Fifth Dalai Lama died in 1682 but this was actively covered up by the Tibetan government until 1696; 10 years later the Sixth Dalai Lama would soon be [deposed under murky circumstances and probably murdered](https://www.reddit.com/r/AskHistorians/comments/fgj1vr/whats_the_story_behind_the_murder_of_the_6th/fk7d36c/). Most Dalai Lamas before and since have had much less ignominious careers (Chinese annexation of Tibet notwithstanding). (Thanks /u/JimeDorje for the older answer being linked.)
+
