@@ -41,7 +41,7 @@ RT Fredrik Fällman 杨富雷<br>Absurd, but fascinating for studying propagan
 
 ### 7: [2021-12-20 16:58:16+08:00 推文](https://twitter.com/ZichenWanghere/status/1472853847999926273)
 
-RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT Zichen Wang<br>China's tax authorities just announced it slapped a 1.341 bln tax bill (including unpaid taxes and penalties) on HUANG Wei, popularly known as 薇娅 Wei Ya, China's most popular influencer/live streaming saleswoman. <a href="http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html" target="_blank" rel="noopener noreferrer">http://www.chinatax.gov.cn/chinatax/n810219/c102025/c5171508/content.html</a><br><img style="" src="https://pbs.twimg.com/media/FHCgwNQaIAIAWcO?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2021-12-20 21:54:29+08:00 推文](https://twitter.com/muyixiao/status/1472928395621187592)
 
@@ -49,7 +49,7 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
