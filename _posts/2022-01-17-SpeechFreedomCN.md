@@ -29,7 +29,7 @@ Re 人权律师谢阳，自上月到湖南永顺县声援被精神病的李田�
 
 ### 4: [2022-01-18 21:08:46+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483426136684126216)
 
-Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting subversion of state regime in 2017, arrested again recently on the same charge, shortly after he publicly protested against the government amid teacher Li Tiantian being locked up in a mental asylum.<br><img style="" src="https://pbs.twimg.com/media/FJYvXA3XIAMoJVp?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYvZEqXwAQHhJX?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYv1GcXsAQkDLi?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re Human rights lawyer Xie Yang (@xieyang911), who was found guilty of inciting subversion of state regime in 2017, arrested again recently on the same charge, shortly after he publicly protested against the government amid teacher Li Tiantian being locked up in a mental asylum.<br><img style="" src="https://pbs.twimg.com/media/FJYvXA3XIAMoJVp?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYvZEqXwAQHhJX?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FJYv1GcXsAQkDLi?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 5: [2022-01-19 20:02:04+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1483771738039197698)
 
@@ -41,7 +41,7 @@ Shaanxi man Li fined 500 RMB for spreading a "rumor" in a WeChat group chat that
 
 ### 7: [2022-01-21 18:58:10+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484480433538707456)
 
-Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了处罚，并退回了罚款。<br><img style="" src="https://pbs.twimg.com/media/FJnu8-BWQAMSu-3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+Re 后续：在案件引发关注和热议之后，彬州公安已经撤销了处罚，并退回了罚款。<br><img style="" src="https://pbs.twimg.com/media/FJnu8-BWQAMSu-3?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-21 19:01:06+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1484481171601997831)
 
