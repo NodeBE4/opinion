@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-27
+date: 2022-10-29
 from: https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/
 layout: post
 tags:
@@ -128,4 +128,54 @@ Hi there - unfortunately we have had to remove your question, because [/r/AskHis
 If you have indeed asked a homework question, you should consider resubmitting a question more focused on finding resources and seeking clarification on confusing issues: tell us what you've researched so far, what resources you've consulted, and what you've learned, and we are more likely to approve your question. Please see this [Rules Roundtable](https://www.reddit.com/r/AskHistorians/comments/hplxyf/rules_roundtable_xx_the_no_homework_rule/) thread for more information on what makes for the kind of homework question we'd approve. Additionally, if you're not sure where to start in terms of finding and understanding sources in general, we have a six-part series, "[Finding and Understanding Sources](https://www.reddit.com/r/AskHistorians/wiki/theory#wiki_monday_methods.3A_finding_and_understanding_sources)", which has a wealth of information that may be useful for finding and understanding information for your essay. Finally, other subreddits are likely to be more suitable for help with homework - try looking for help at /r/HomeworkHelp. 
 
 Alternatively, if you are not a student and are not doing homework, we have removed your question because it resembled a homework question. It may resemble a common essay question from a prominent history syllabus or may be worded in a broad, open-ended way that feels like the kind of essay question that a professor would set. Professors often word essay questions in order to provide the student with a platform to show how much they understand a topic, and these questions are typically broader and more interested in interpretations and delineating between historical theories than the average /r/AskHistorians question. If your non-homework question was incorrectly removed for this reason, we will be happy to approve your question if you **wait for 7 days** and then ask a less open-ended question on the same topic.
+
+### 903: [AskHistorians has hit 1.5 million subscribers! To celebrate, we’re giving away 1.5 million historical facts. Join us HERE to claim your free fact!](https://old.reddit.com/r/AskHistorians/comments/yfs7uh/askhistorians_has_hit_15_million_subscribers_to/), submitted on 2022-10-29 00:00:18+08:00.
+
+----- __903.1__ -----2022-10-29 02:05:58+08:00:
+
+The first known appearance of Hong Xiuquan (the Taiping Heavenly King) in the written record is in a Kentucky missionary gazette from 1847. Issachar Roberts, a Tennesseean missionary whom Hong studied with for a few months in 1846, sent back a letter to friends in the US about how remarkable it was that he had met a man who had converted to Christianity after a series of visions, which Roberts himself believed to be fully genuine.
+
+----- __903.2__ -----2022-10-29 02:15:35+08:00:
+
+Harry Parkes. Just. Harry Parkes.
+
+----- __903.3__ -----2022-10-29 02:16:25+08:00:
+
+There is a portrait of the Yongzheng Emperor where he [hunts tigers while cosplaying as Louis XIII](https://preview.redd.it/trutmfntk1e41.jpg?width=640&crop=smart&auto=webp&s=8eb2f4f16fc4d22c147aba7768c126fcfcb127af)
+
+----- __903.4__ -----2022-10-29 02:18:28+08:00:
+
+A guy calling himself Jesus' younger brother nearly overthrew the Qing government in China in the 1850s. I know that's the really annoying oversimplified version that I hate but it is nevertheless substantively true.
+
+----- __903.5__ -----2022-10-29 02:21:42+08:00:
+
+The Daoguang Emperor, who (in)famously issued a major series of opium prohibition policies in 1836, may actually have smoked it himself when he was younger, although it's ambiguous whether he was smoking *madak* (opium-laced tobacco) or just plain tobacco.
+
+----- __903.6__ -----2022-10-29 02:23:20+08:00:
+
+The oft-repeated factoid that Chinggis' bloodline is so widespread because of his repeated acts of sexual violence is not even supported by the article people cite for it. The article suggests that if it is indeed true, it is mostly attributable to the fact that male-line descendants of Chinggis held a privileged position in many post-Mongol societies, which encouraged having more children in Chinggisid families.
+
+----- __903.7__ -----2022-10-29 02:27:27+08:00:
+
+The [earliest recognisable visual depiction of a firearm](https://upload.wikimedia.org/wikipedia/commons/7/7a/EarlyCannonDeNobilitatibusSapientiiEtPrudentiisRegumManuscriptWalterdeMilemete1326.jpg) is from 1326, appearing in the illuminations of *De Nobilitatibus*, a treatise commissioned for King Edward III by his mother and written by Walter de Milemete. I have seen it up close in person.
+
+----- __903.8__ -----2022-10-29 02:29:27+08:00:
+
+The 1689 Treaty of Nerchinsk and the 1727 Treaty of Kiakhta, which defined the border between the Qing and Russian empires, were composed in Latin thanks to the presence of Jesuit interpreters in the Qing court. Official derived versions in Russian and Manchu were also produced, although not in Chinese.
+
+----- __903.9__ -----2022-10-29 02:32:48+08:00:
+
+Luo Dagang, a pirate who joined the Taiping Heavenly Kingdom, may well have been a Christian convert even before the Taiping turned up. According to a British report containing a translation of a letter from Luo in 1853, he was a bit of a collaborator with the British during their occupation of Guangzhou during the Opium War in 1840-42.
+
+----- __903.10__ -----2022-10-29 02:37:36+08:00:
+
+Scottish solidarity contributed heavily to a major diplomatic near-crisis. The Napier Affair of 1834 almost saw Britain go to war with the Qing empire thanks to aggressive policies to increase British trade access in China being pushed by British opium merchants and supported by the new British trade superintendent, Napier. It is quite possible that the reason Napier, born in Ireland but from a Scottish family and a member of the Scottish peerage, was so favourable towards the smugglers, was that he ended up forming a close rapport with the two main opium merchants in Canton – William Jardine (born in rural Dumfrieshire) and James Matheson (born in Lairg in Sutherland). Thankfully for most involved – except perhaps himself – Napier died of malaria before diplomatic tension boiled over into outright war.
+
+----- __903.11__ -----2022-10-29 02:41:18+08:00:
+
+The Ottomans have had some notable entanglements with Xinjiang separatism. Yaqub Beg, a Kokandi general who invaded Xinjiang during its revolt against the Qing in the 1860s and held onto the region until his death in 1877, was formally made Emir of Kashgar by an edict of Sultan Abdülaziz in 1873 and minted coins in the latter's name. Later on, Prince Abdülkerim of the deposed family attempted to start a Turanist movement from Xinjiang in 1932 and received an informal but not inconsiderable amount of support from Japan, but was quickly expelled by local warlords and died in exile in New York at the age of 29.
+
+----- __903.12__ -----2022-10-29 02:47:53+08:00:
+
+The Taiping have at least three weird connections with the military history of 1860s Japan. Takasugi Shinsaku of Chōshū, whom some consider to have been the founder of what would become the Imperial Japanese Army, may have been inspired by the Qing use of militias in his decision to form rifle units composed of peasants as well as samurai. Henry Burgevine, an American mercenary commander who had fought for the Qing, defected to the Taiping, and then went into exile, made several petitions to Japanese domains to train up their armies, and eventually ended up briefly working for Chōshū before being duped by a steamer captain into being taken to Shanghai, where the Qing arrested him for breaking the terms of his exile, and he may have been quietly murdered afterward. The Satsuma domain warship *Kasuga* was originally the *Keangsoo*, a 6-gun corvette – and the fastest armed ship in the world – that served as the flagship of the Lay-Osborn Flotilla, a small brown-water squadron assembled by British investors to support the Qing war effort, but which was refused by the Qing after it became clear that Horatio Lay (its creator) intended to command it entirely independently. It ended up in Japanese hands after being anchored in Bombay for two years, as the American consul in China had insisted it be removed from Shanghai to prevent it being obtained by Confederate privateers.
 
