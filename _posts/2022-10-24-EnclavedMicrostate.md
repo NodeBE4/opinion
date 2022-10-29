@@ -243,6 +243,14 @@ The historian Jamie Belich attributes the New Zealand Musket Wars in part to the
 
 Dim sum is a specifically Cantonese form of cuisine, so its fortunes in North America have waxed and waned with the relative strength of Cantonese communities over time. While quite prominent in the 1920s-40s, there was an extended period in the mid-1920s when American Chinese food was dominated more by Taiwanese immigrants (themselves from a diverse geographic background thanks to the post-Civil War evacuations), and dim sum would not see a major resurgence in terms of its relative prominence until emigration from Hong Kong in the 1980s.
 
+----- __903.29__ -----2022-10-29 19:54:17+08:00:
+
+York served as the Royalist capital for a portion of the First English Civil War, being where Charles I raised the royal standard after fleeing London in January 1642. The seat of government effectively relocated to Oxford from January 1644 as the alignment of the Scottish Covenanters with the Parliamentarians made the Royalist position in the North increasingly untenable.
+
+----- __903.30__ -----2022-10-29 19:55:55+08:00:
+
+A Flemish astronomer named Ferdinand Verbiest helped the young Kangxi Emperor and his grandmother overthrow Oboi, the head of the young ruler's regency council, in 1669, by proving that the regents had been miscalculating key dates.
+
 ### 904: [What was homelessness like throughout history?](https://old.reddit.com/r/AskHistorians/comments/ygddsf/what_was_homelessness_like_throughout_history/), submitted on 2022-10-29 15:42:39+08:00.
 
 ----- __904.1__ -----2022-10-29 15:52:05+08:00:

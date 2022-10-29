@@ -2,7 +2,7 @@
 author: SpeechFreedomCN
 categories:
 - Twitter
-date: 2022-10-26
+date: 2022-10-29
 from: https://twitter.com/SpeechFreedomCN/status/1584693967211229184
 layout: post
 tags:
@@ -42,4 +42,12 @@ Re 2 weeks ago, Zhengzhou man Zhang detained for 10 days for spreading a rumor t
 ### 7: [2022-10-26 21:24:43+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1585261142112600065)
 
 <br><img style="" src="https://pbs.twimg.com/media/Ff_6hzUWYAIcftR?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Ff_6mW4XgAAt-h3?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 8: [2022-10-29 20:33:02+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1586335298895728640)
+
+据乌鲁木齐公安10月14日通报，当地三名男子因发表对疫情防控措施不满的言论而被处罚。一名文姓和杨姓男子因在微信群内“煽动群众聚集滋事”被行政拘留，另外一名吴姓男子因在微信群内发布“煽动群众违反管控措施的言论”，被刑事拘留。<br><img style="" src="https://pbs.twimg.com/media/FgPKqAdXoAIJT8k?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 9: [2022-10-29 20:35:33+08:00 推文](https://twitter.com/SpeechFreedomCN/status/1586335933200486401)
+
+According to a recent notice of Urumqi police, three local men punished for expressing their dissatisfactory with Zero Covid Policy in WeChat. Two of them administratively detained for "inciting gathering", while the other criminally detained for "inciting violation of lockdown".<br><img style="" src="https://pbs.twimg.com/media/FgPLlFWXoAIxmSr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
