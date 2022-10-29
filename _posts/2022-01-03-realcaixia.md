@@ -41,7 +41,7 @@ Re @jiashengzhou 只是习没有当时毛在中共党内高级官员心中的高
 
 ### 7: [2022-01-03 06:13:44+08:00 推文](https://twitter.com/realcaixia/status/1477765075071078405)
 
-怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
+怕无人喝彩，花大陆人的血汗钱买虚假的赞。可见他们有多么“自信”！心理脆弱到如此地步，下面阿谀奉承之徒还将其吹捧为“政治家思想家战略家”！十足笑话。<br><br>新高地官推 官网：https://www.newhighlandvision.com/: 花纳税人的钱为习买赞，还当作政治任务。这有多假啊<br><br><img style="" src="https://pbs.twimg.com/media/FIIDfuHXsAYg4s9?format=png&name=orig" referrerpolicy="no-referrer">
 
 ### 8: [2022-01-03 06:21:34+08:00 推文](https://twitter.com/realcaixia/status/1477767049485197318)
 
@@ -61,7 +61,7 @@ Re @ihuyang @liqunchen 看样子你年轻，没见过铅字印刷版。
 
 ### 12: [2022-01-04 03:38:08+08:00 推文](https://twitter.com/realcaixia/status/1478088305082343432)
 
-裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style="" src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
+裹挟9500万党奴的黑帮老大公开挑明向被裹挟的人开刀，习曾说要防止“祸起萧墙”，这意味着二十大前中共党内将血光一片。2022，谁是被开刀的第一个？<br><br>韩连潮: 【习近平又磨刀霍霍】中共党媒《求是》2022年第一期登了习近平以史为鉴的讲话，称中共“没有任何自己特殊的利益“，提出向党内被利益集团、权势团体、特权阶层“所裹挟的人开刀”，看到让人笑掉大牙，试问习主席，你不去惩治裹挟人的人，反而拿受害者开刀，这是什么大套路？<br><br><img style src="https://pbs.twimg.com/media/FIMS0O5XEAEzKKQ?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 13: [2022-01-04 06:17:59+08:00 推文](https://twitter.com/realcaixia/status/1478128535327887361)
 
@@ -73,7 +73,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 15: [2022-01-04 15:47:10+08:00 推文](https://twitter.com/realcaixia/status/1478271774424973313)
 
-鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
+鹤岗是第一个，相信绝不是唯一的一个。2022地方政府破产的消息还将会陆续传出。<br><br>鲁  难: 黑龙江鹤岗，中国第一个破产、或者承认破产的城市？又是财新第一个报道！<br><br><img style="" src="https://pbs.twimg.com/media/FINoPFhWUAMxJ-G?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFmWUAMzVO9?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FINoPFjWQAAMAIK?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 16: [2022-01-04 16:15:06+08:00 推文](https://twitter.com/realcaixia/status/1478278801452945410)
 
@@ -85,7 +85,7 @@ Re @wellone6 中国政治转型不可能毕其功于一役。
 
 ### 18: [2022-01-04 16:43:58+08:00 推文](https://twitter.com/realcaixia/status/1478286069263216640)
 
-Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
+Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style="" src="https://pbs.twimg.com/media/FIPtWFnXMAAgmEL?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 19: [2022-01-04 21:26:13+08:00 推文](https://twitter.com/realcaixia/status/1478357099000340490)
 
@@ -93,7 +93,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 20: [2022-01-05 22:05:33+08:00 推文](https://twitter.com/realcaixia/status/1478729384701960202)
 
-中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style="" src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
+中共如此害怕西安情况从民间传出去，可见中共官方对外隐藏了真相。在事涉社会公共事务并且每个人切身利益与当下情况有直接关联的，政府有责任及时公开情况，不得隐瞒更不得扭曲撒谎。这本是政府最基本的最起码的行事原则，但中共肆意与之相反，并且镇压民间叙述真实情况。反常必有妖，怕见光必有妖！<br><br>自由亚洲电台: 【“清零” 杀手锏】<br>【西安政府禁发小道疫情消息传负面新闻】<br>详细报道 : <br>西安居民手机收到政府“重要通知”:“群里不允许发疫情期间小道消息,马路新闻、小程序、链接、疫情视频，尤其是负面新闻，微信团队的 后台在监控着所有的微信群,如有负面新闻传播，这个群就会被封掉。”<br><br><img style src="https://pbs.twimg.com/media/FIVO1szXoAAaepT?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3pVdf8j" target="_blank" rel="noopener noreferrer">https://bit.ly/3pVdf8j</a>
 
 ### 21: [2022-01-05 22:23:56+08:00 推文](https://twitter.com/realcaixia/status/1478734010260066307)
 
@@ -129,7 +129,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 29: [2022-01-07 20:08:52+08:00 推文](https://twitter.com/realcaixia/status/1479424797704609792)
 
-央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style="" src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
+央视每天关心美国报道美国，无视中国人感受，评论区再翻车。<br><br>rigi2019 (Parler and Safechat ID : @rigi2019: 央妈忘记关闭评论了（转）<br>😂🤣<br><br><img style src="https://pbs.twimg.com/media/FIdOGajXMAEEbVH?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGagXwAA9_Hr?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIdOGaiWQAQOuvu?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 30: [2022-01-07 20:31:59+08:00 推文](https://twitter.com/realcaixia/status/1479430615606996993)
 
@@ -137,7 +137,7 @@ Re @jamesgu321 这是议报的推特，请关注。感谢。<br><img style src="
 
 ### 31: [2022-01-07 20:35:57+08:00 推文](https://twitter.com/realcaixia/status/1479431614069456900)
 
-想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
+想給你什麼碼就是什麼碼！以碼囚人以城為獄！<br><br>鲁  难: 郑州：进出都要核酸检测。黄河大桥：郑州车辆全部劝返，也就是出球不成了。<br><br><img style src="https://pbs.twimg.com/media/FIb1DQ3X0AYL_rq?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DQ3XsAAXSEl?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIb1DRCXoAQcWQF?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 32: [2022-01-07 21:09:18+08:00 推文](https://twitter.com/realcaixia/status/1479440004460036096)
 
