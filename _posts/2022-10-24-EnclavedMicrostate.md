@@ -239,3 +239,15 @@ According to Arrian, Alexander only ever drank in the company of friends, and on
 
 The historian Jamie Belich attributes the New Zealand Musket Wars in part to the introduction of potatoes, which gave Māori chiefs additional agricultural surplus and thus more ability to wage war; this coincided with a huge drop in arms prices after the Napoleonic Wars.
 
+----- __903.28__ -----2022-10-29 16:28:59+08:00:
+
+Dim sum is a specifically Cantonese form of cuisine, so its fortunes in North America have waxed and waned with the relative strength of Cantonese communities over time. While quite prominent in the 1920s-40s, there was an extended period in the mid-1920s when American Chinese food was dominated more by Taiwanese immigrants (themselves from a diverse geographic background thanks to the post-Civil War evacuations), and dim sum would not see a major resurgence in terms of its relative prominence until emigration from Hong Kong in the 1980s.
+
+### 904: [What was homelessness like throughout history?](https://old.reddit.com/r/AskHistorians/comments/ygddsf/what_was_homelessness_like_throughout_history/), submitted on 2022-10-29 15:42:39+08:00.
+
+----- __904.1__ -----2022-10-29 15:52:05+08:00:
+
+Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
+ 
+So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
+
