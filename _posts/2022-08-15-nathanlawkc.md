@@ -25,9 +25,9 @@ Author of Freedom, UK (https://t.co/2OFalKXJG1) and NA (https://t.co/mkF6N8U5d0)
 
 Re 4. Then I talked about my growing up in a blue-collar, apolitical family. I studied in schools operated by pro-Beijing institutes. I had been indifferent to social affairs until I learned the story of Liu Xiao Bo, the Nobel Peace Prize laureate, and the Tiananmen massacre.
 
-### 3: [2022-08-15 20:37:33+08:00 推文](https://twitter.com/nathanlawkc/status/1559157346294718464)
+### 3: [2022-08-15 20:37:33+08:00 推文](https://twitter.com/nathanlawkc/status/1559157344348635139)
 
-Re 6. My years of activism in the center of HK politics demonstrated how it had changed drastically over the past few years. My role turned from a student activist, lawmaker, political prisoner, and exiled activist. Room for political participation and diversity shrank.
+Re 5. Most of us who repel and resist are not innately anti-CCP. I grew up cheering for the achievement of China and its great Olympic campaign in 2008. It was how they stripped away our freedoms, and the brutalities to its people that propelled us to do so. To dissent is a reaction
 
 ### 4: [2022-08-15 20:37:34+08:00 推文](https://twitter.com/nathanlawkc/status/1559157349813833728)
 
