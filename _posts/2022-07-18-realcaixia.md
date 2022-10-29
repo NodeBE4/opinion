@@ -45,7 +45,7 @@ Re 中共党政官员中包括国企央企高管，所有党员干部都有行�
 
 ### 8: [2022-07-19 20:57:08+08:00 推文](https://twitter.com/realcaixia/status/1549377803040264192)
 
-他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。<br><br>方舟子: 冲锋枪不够威武了，坦克出动。<br><br><video src="https://video.twimg.com/ext_tw_video/1549159214169305089/pu/vid/888x502/NgwZx8eN7lfdinra.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549159214169305089/pu/img/SIhVLuj8jIgCUXlU.jpg"></video>
+他们又开坦克。8964后，坦克成为一种政治象征。那次，人们还认为他们“不致于”，经过6.4那一夜，人们知道他们什么都能干得出来。现在他们又公然出动坦克。习统治下，中国越来越成为坦克轮子上的帝国”了。
 
 ### 9: [2022-07-19 23:36:46+08:00 推文](https://twitter.com/realcaixia/status/1549417975777820674)
 
@@ -113,7 +113,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYJewOwX0AUPknj?format=jpg
 
 ### 25: [2022-07-21 20:44:44+08:00 推文](https://twitter.com/realcaixia/status/1550099458054144002)
 
-因知了诗而生祸，真是前无古人。
+因知了诗而生祸，真是前无古人。<br><br>Jam: 习近平新时代的文字狱，前无古人。<br><br><img style="" src="https://pbs.twimg.com/media/FYH-CA5WYAItfJK?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 26: [2022-07-21 21:41:34+08:00 推文](https://twitter.com/realcaixia/status/1550113757296304128)
 
@@ -137,11 +137,11 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FYObfD5XgAMmgmH?format=jpg
 
 ### 31: [2022-07-22 23:11:57+08:00 推文](https://twitter.com/realcaixia/status/1550498892197896192)
 
-沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？
+沉默啊沉默，不在沉默中死亡，就在沉默中爆发。中共极权统治集团做好死无葬身之地的准备了吗？<br><br>高伐林: 中国网信办《互联网用户账号管理规定》自8月1日起生效，互联网用户注册须填写真实职业，将揭露IP地址；过去网民用错别字、谐音或相近文字、数字和符号打擦边球传布“敏感”信息，规避审查，现在都遭明文禁止；严格管控数据跨国流通，对最重要学术平台“知网”启动网络安全审查。<br> <a href="https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html" target="_blank" rel="noopener noreferrer">https://www.voachinese.com/a/china-launches-security-review-on-cnki-the-country-s-leading-academic-research-database-0722222/6666367.html</a>
 
 ### 32: [2022-07-23 02:53:08+08:00 推文](https://twitter.com/realcaixia/status/1550554556538490883)
 
-相信越来越多的人会像这位世界小姐一样，勇敢地站出来。
+相信越来越多的人会像这位世界小姐一样，勇敢地站出来。<br><br>婉清: 加拿大世界小姐選美皇后，因为这些演讲，父親被國安請“喝茶”！<br>  <br>为勇敢揭露中共的美女点赞👍💐！<br><br><video src="https://video.twimg.com/ext_tw_video/1549889783664484352/pu/vid/720x720/lcWu_0qUAC8OtlZg.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1549889783664484352/pu/img/HFTuhs044upF7xQ4.jpg"></video>
 
 ### 33: [2022-07-24 21:00:09+08:00 推文](https://twitter.com/realcaixia/status/1551190497888182274)
 

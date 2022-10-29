@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-28
+date: 2022-10-29
 from: https://twitter.com/realcaixia/status/1584213237784252421
 layout: post
 tags:
@@ -129,7 +129,7 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 ### 29: [2022-10-26 21:11:45+08:00 推文](https://twitter.com/realcaixia/status/1585257877820043264)
 
-因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br> <a href="https://twitter.com/CHRDnet/status/1219037024583241728" target="_blank" rel="noopener noreferrer">https://twitter.com/CHRDnet/status/1219037024583241728</a>
+因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
 
 ### 30: [2022-10-26 21:25:24+08:00 推文](https://twitter.com/realcaixia/status/1585261311826558982)
 
@@ -178,4 +178,12 @@ Re @m_wo8y 现在网上到处流传的新加坡媒体视频，号称是完整视
 ### 41: [2022-10-28 11:10:10+08:00 推文](https://twitter.com/realcaixia/status/1585831260143775745)
 
 选举名单疑云重重，众目睽睽下习授意强驱胡离场，已给习常委团伙笼罩了厚厚的不合法阴霾。去延安抢正统牌位，也抵消不掉恶劣影响。<br>令人想起毛当初。在井冈占山为王的草莽王佐袁文才，将毛迎上了井冈山，毛站稳了脚跟即杀王佐袁文才。毛不多久开杀戒，大杀AB团……习该带这伙人去井冈山叩头不忘初心。<br><br>韩连潮: 【习班为何去延安】习近平率喽啰访延安、七大会址和毛旧居是争党统、抢灵牌，把自己打扮成毛和中共的正统合法传人，来掩饰其非法连任的得逞阴谋。<br><br><img style="" src="https://pbs.twimg.com/media/FgF6P52acAAmyA5?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 42: [2022-10-29 10:03:09+08:00 推文](https://twitter.com/realcaixia/status/1586176783468175363)
+
+这是我25号参加的一个访谈节目。在这场访谈讨论中，我们主要讨论了三个问题：1，胡锦涛被强拽离场；2，习近平修改党章；3，习近平会不会“武统台湾”？<br>这些是网友们关注中共20大的热点话题，特分享<br><br>习近平治下的中国与世界 （戴忠仁/蔡霞/明居正）| 亚洲很想聊 <a href="https://youtu.be/InlrFnXaPNQ" target="_blank" rel="noopener noreferrer">https://youtu.be/InlrFnXaPNQ</a>
+
+### 43: [2022-10-29 10:03:58+08:00 推文](https://twitter.com/realcaixia/status/1586176990586933248)
+
+特别推荐：<br><br>陈小平: 吴国光 @guoguang_wu 认为，“以经济建设为中心”已被降级，被安全与斗争替代。24个政治局委员有十余位来自安全、军事、航天系统，说明安全高于经济。<br><br>检讨以前预断：原来以为20大前有政治局委员要被拿下，结果是会后胡春华被拿下，汪洋、李克强下课。<br><br>说明习不需反腐打击对手，操弄规则就可达到目的<br>
 

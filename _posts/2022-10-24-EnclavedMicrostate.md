@@ -133,7 +133,7 @@ Alternatively, if you are not a student and are not doing homework, we have remo
 
 ----- __903.1__ -----2022-10-29 02:05:58+08:00:
 
-The first known appearance of Hong Xiuquan (the Taiping Heavenly King) in the written record is in a Kentucky missionary gazette from 1847. Issachar Roberts, a Tennesseean missionary whom Hong studied with for a few months in 1846, sent back a letter to friends in the US about how remarkable it was that he had met a man who had converted to Christianity after a series of visions, which Roberts himself believed to be fully genuine.
+The first known appearance of Hong Xiuquan (the Taiping Heavenly King) in the written record is in a missionary gazette from 1847 printed in Kentucky. Issachar Roberts, a Tennesseean missionary whom Hong studied with for a few months in 1846, sent back a letter to friends in the US about how remarkable it was that he had met a man who had converted to Christianity after a series of visions, which Roberts himself believed to be fully genuine. Hong would not reappear in the textual record until 1851, when Hong Rengan (a cousin who had briefly accompanied Hong Xiuquan with Roberts) wrote a short testimony of his experiences.
 
 ----- __903.2__ -----2022-10-29 02:15:35+08:00:
 
