@@ -251,6 +251,10 @@ York served as the Royalist capital for a portion of the First English Civil War
 
 A Flemish astronomer named Ferdinand Verbiest helped the young Kangxi Emperor and his grandmother overthrow Oboi, the head of the young ruler's regency council, in 1669, by proving that the regents had been miscalculating key dates.
 
+----- __903.31__ -----2022-10-30 03:48:49+08:00:
+
+A rather unusual semi-religious movement emerged during the Taiping War which placed great importance on the sanctity of the written word. Among other practices, it advocated not using paper that had been written on as toilet paper, and called for putting an end to having words on the underside of pottery, as this would, supposedly, literally debase the written word in so doing.
+
 ### 904: [What was homelessness like throughout history?](https://old.reddit.com/r/AskHistorians/comments/ygddsf/what_was_homelessness_like_throughout_history/), submitted on 2022-10-29 15:42:39+08:00.
 
 ----- __904.1__ -----2022-10-29 15:52:05+08:00:
