@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-29
+date: 2022-10-30
 from: https://twitter.com/HeQinglian/status/1584271948892471296
 layout: post
 tags:
@@ -586,4 +586,24 @@ Re @tracy2060 🙏
 ### 143: [2022-10-29 21:40:12+08:00 推文](https://twitter.com/HeQinglian/status/1586352200351105026)
 
 Re @KELMAND1 @dw_chinese 就是“软饭硬吃”这四字，如果坚持这样，结果可想而知。<br>其前任默克尔是实质交易达成，临到收尾时见几个异议人士，两头高兴。<br>我正好刚将德在今年在华投资盘了家底。
+
+### 144: [2022-10-30 15:58:17+08:00 推文](https://twitter.com/david_david1968/status/1586628544569942016)
+
+RT 戴维<br>英国谚语：国王在众人之上，在上帝和法律之下；在人间制定的法律之上，还有个神圣的自然法则。<br><br>【英国观察】20221026B期：邀请多伦多简先生从目前英加保守党的运作，谈谈他对保守主义的理解及全球化的当下西方民主的困境、民众的无奈 <a href="https://youtu.be/HV_Z1ngXYAs" target="_blank" rel="noopener noreferrer">https://youtu.be/HV_Z1ngXYAs</a>
+
+### 145: [2022-10-30 22:44:09+08:00 推文](https://twitter.com/HeQinglian/status/1586730683262795781)
+
+这两天没太上推，上推后发现好多条这种信息。经查，不是谣言。<br>查了一下，说是“家庭暴力”算幽默。因为加州还未立法，让开放式婚姻（即多性别、多配偶的群居）算家庭。<br>这是美式进步派“民主偶像”南希·佩洛西女士的家庭，与拜登的家庭算同类进步家庭，谁更“进步”，还是奥八说了算。<br><br>你先说我就看你胡说八道: 保罗.破罗西因独自去“美国最同性恋小镇”旧金山的同性恋酒吧而臭名昭著，邻居常看到他在晚上不同时间带回年龄只有他一半的男人。<br>在昨天事发前，有人看到德帕佩多次进入破罗西的豪宅。<br>为什么主媒不报道这个至关重要的信息？<br>而让它看起来像是一个随机事件。<br>这是一起自愿性关系中的家庭暴力案件。<br><br><img style="" src="https://pbs.twimg.com/media/FgRCB9hVEAEyVho?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 146: [2022-10-30 22:50:58+08:00 推文](https://twitter.com/HeQinglian/status/1586732397726416896)
+
+Re @Isabel_3299 你看她背后站的人，我觉得让他们开启自毁程序最好。<br>如果不是拜登-民主党盗选之后这两年，许多人说不定还以为民主党是弱势群体的天使。<br>内华达州一位参议员席位竞争，就悬于一个Sleepy County。其中一位白老太说：除了通胀，其余所有的事情，都是民主党好，她还想选民主党。并说了，几十年了她无法转弯
+
+### 147: [2022-10-30 22:52:02+08:00 推文](https://twitter.com/HeQinglian/status/1586732667927760900)
+
+Re @david_david1968 我对台湾的感情热度因他们下降至零度。
+
+### 148: [2022-10-30 22:54:25+08:00 推文](https://twitter.com/HeQinglian/status/1586733265477582849)
+
+Re @enoughtalk4 向其“丈夫”学习，做拉拉就行。
 
