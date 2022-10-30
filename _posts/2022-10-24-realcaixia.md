@@ -129,7 +129,7 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 ### 29: [2022-10-26 21:11:45+08:00 推文](https://twitter.com/realcaixia/status/1585257877820043264)
 
-因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br> <a href="https://twitter.com/CHRDnet/status/1219037024583241728" target="_blank" rel="noopener noreferrer">https://twitter.com/CHRDnet/status/1219037024583241728</a>
+因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
 
 ### 30: [2022-10-26 21:25:24+08:00 推文](https://twitter.com/realcaixia/status/1585261311826558982)
 
@@ -185,9 +185,21 @@ Re @m_wo8y 现在网上到处流传的新加坡媒体视频，号称是完整视
 
 ### 43: [2022-10-29 10:03:58+08:00 推文](https://twitter.com/realcaixia/status/1586176990586933248)
 
-特别推荐：<br><br>陈小平: 吴国光 @guoguang_wu 认为，“以经济建设为中心”已被降级，被安全与斗争替代。24个政治局委员有十余位来自安全、军事、航天系统，说明安全高于经济。<br><br>检讨以前预断：原来以为20大前有政治局委员要被拿下，结果是会后胡春华被拿下，汪洋、李克强下课。<br><br>说明习不需反腐打击对手，操弄规则就可达到目的<br> <a href="https://twitter.com/VOAChinese/status/1585617452762906627" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1585617452762906627</a>
+特别推荐：<br><br>陈小平: 吴国光 @guoguang_wu 认为，“以经济建设为中心”已被降级，被安全与斗争替代。24个政治局委员有十余位来自安全、军事、航天系统，说明安全高于经济。<br><br>检讨以前预断：原来以为20大前有政治局委员要被拿下，结果是会后胡春华被拿下，汪洋、李克强下课。<br><br>说明习不需反腐打击对手，操弄规则就可达到目的<br>
 
 ### 44: [2022-10-30 10:59:40+08:00 推文](https://twitter.com/realcaixia/status/1586553395875282944)
 
 重磅推荐：<br>LT视界特别分享华尔街日报的重磅报道，逐帧分解照片，还原胡锦涛被强制离场的每一个细节，每一个时刻。终有一天历史真相会大白<br><br>《華爾街日報》重磅報導《逐幀分解胡錦濤在二十大閉幕會上的中途離場》，用刑偵方式揭秘這一歷史事件；富士康大逃亡背後 <a href="https://youtu.be/mnr3ohuXIds" target="_blank" rel="noopener noreferrer">https://youtu.be/mnr3ohuXIds</a>
+
+### 45: [2022-10-30 11:13:07+08:00 推文](https://twitter.com/realcaixia/status/1586556780003328001)
+
+LT视界里提到的第二段视频22秒很关键，这里清楚地看到卫士在纠缠胡锦涛，胡锦涛不愿服从。三段视频连起来看，胡锦涛自始至终是神志清楚的，完全没有短时间或霎那间“犯糊涂”的迹象。相信这个历史性事件终有一天真相大白。<br><br>正本清源（不私聊谢谢！）: 习派的卫士去纠缠胡锦涛让他出去，胡锦涛不愿服从，栗战书显然不知内情拿起胡锦涛桌前的名单跟卫士解释着什么，这时候王沪宁这狗拍了拍栗并与之耳语，拉了他一把后又耳语应该是试图阻止他对卫士的解释。王沪宁直接干预了栗战书两次，这是第一次。<br>胡锦涛并无身体的异常状况，习杀恩人儆猴，举座皆惊！<br><br><video src="https://video.twimg.com/ext_tw_video/1583964143836856320/pu/vid/638x478/GNIGMv8xU9TYdHtz.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1583964143836856320/pu/img/DaRKUmDk65r9mNCh.jpg"></video>
+
+### 46: [2022-10-30 11:38:11+08:00 推文](https://twitter.com/realcaixia/status/1586563085392830465)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FgSat3LX0AEVCw-?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 47: [2022-10-30 11:45:50+08:00 推文](https://twitter.com/realcaixia/status/1586565012268761091)
+
+中共20大闭幕式上强行驱离胡锦涛，20大新常委班子亮相，立即引发市场反应，股市股指大跌，中共国家队加急进场救市………，但是挡不住人心离去的力量。这些天大陆移民臆向人数激增。<br><br>韩连潮: 【股市对习党投了不信任票】习近平新班子亮相后陆港股市和中概股遭受重挫，人民币汇率大幅下跌。恒生指数创下2008年全球金融危机以来最大跌幅，在岸人民币汇率本周也跌至近15年来最低点，表明资本市场对习政权投了不信任票，因当今股市已民主化，这个投票相当人民投出了不信任票。<br><br><img style="" src="https://pbs.twimg.com/media/FgKBCHsaMAU1hn5?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
