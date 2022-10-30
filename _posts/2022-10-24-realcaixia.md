@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-10-29
+date: 2022-10-30
 from: https://twitter.com/realcaixia/status/1584213237784252421
 layout: post
 tags:
@@ -129,7 +129,7 @@ Re 更正一字：视频出现“集权”字幕时请改视为“极权”。�
 
 ### 29: [2022-10-26 21:11:45+08:00 推文](https://twitter.com/realcaixia/status/1585257877820043264)
 
-因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br> <a href="https://twitter.com/CHRDnet/status/1219037024583241728" target="_blank" rel="noopener noreferrer">https://twitter.com/CHRDnet/status/1219037024583241728</a>
+因吃饭被抓，这样的骇人听闻的真事，在习王朝还会不断发生。关注一切因反抗极权统治而受难的异见勇士。关注就是声援！请关注➕转发，请更多的人关注。<br><br>Jane Wang 王剑虹 #FreeZhangZhan: 脸书提醒：#刘家财 囚中生日快乐！<br><br>刘家财 9月23日被抓，与他相濡以沫的太太 #王玉兰 同日失联至今<br>
 
 ### 30: [2022-10-26 21:25:24+08:00 推文](https://twitter.com/realcaixia/status/1585261311826558982)
 
@@ -185,5 +185,9 @@ Re @m_wo8y 现在网上到处流传的新加坡媒体视频，号称是完整视
 
 ### 43: [2022-10-29 10:03:58+08:00 推文](https://twitter.com/realcaixia/status/1586176990586933248)
 
-特别推荐：<br><br>陈小平: 吴国光 @guoguang_wu 认为，“以经济建设为中心”已被降级，被安全与斗争替代。24个政治局委员有十余位来自安全、军事、航天系统，说明安全高于经济。<br><br>检讨以前预断：原来以为20大前有政治局委员要被拿下，结果是会后胡春华被拿下，汪洋、李克强下课。<br><br>说明习不需反腐打击对手，操弄规则就可达到目的<br> <a href="https://twitter.com/VOAChinese/status/1585617452762906627" target="_blank" rel="noopener noreferrer">https://twitter.com/VOAChinese/status/1585617452762906627</a>
+特别推荐：<br><br>陈小平: 吴国光 @guoguang_wu 认为，“以经济建设为中心”已被降级，被安全与斗争替代。24个政治局委员有十余位来自安全、军事、航天系统，说明安全高于经济。<br><br>检讨以前预断：原来以为20大前有政治局委员要被拿下，结果是会后胡春华被拿下，汪洋、李克强下课。<br><br>说明习不需反腐打击对手，操弄规则就可达到目的<br>
+
+### 44: [2022-10-30 10:59:40+08:00 推文](https://twitter.com/realcaixia/status/1586553395875282944)
+
+重磅推荐：<br>LT视界特别分享华尔街日报的重磅报道，逐帧分解照片，还原胡锦涛被强制离场的每一个细节，每一个时刻。终有一天历史真相会大白<br><br>《華爾街日報》重磅報導《逐幀分解胡錦濤在二十大閉幕會上的中途離場》，用刑偵方式揭秘這一歷史事件；富士康大逃亡背後 <a href="https://youtu.be/mnr3ohuXIds" target="_blank" rel="noopener noreferrer">https://youtu.be/mnr3ohuXIds</a>
 
