@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 2: [2021-12-29 02:28:43+08:00 推文](https://twitter.com/realcaixia/status/1475896511791865856)
 
-现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
+现在大陆把人关进精神病院是极权当局迫害政治异见人士的常用手法。这类事情曾经在前苏联前东欧共产极权国家末期都发生过。大陆正在重蹈覆辙。<br><br>ZHANGDONG: 继泼墨女孩董瑶琼三度被关进精神病医院后，土家族乡村女教师李田田也被强制关进精神病医院，此事引发全国愤怒。今有律师申请政府信息公开。其实人们更关心公安局办案流程，他们是怎么把李田田强行扭进精神病医院的。当下在中国大陆，精神病医院已经成为关押不同政见者的外监狱，比指定居留关押还恶劣！<br><br><img style="" src="https://pbs.twimg.com/media/FHQSE15WUAUinlw?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 3: [2021-12-29 06:06:33+08:00 推文](https://twitter.com/realcaixia/status/1475951330896322564)
 
@@ -33,7 +33,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 5: [2021-12-30 00:39:20+08:00 推文](https://twitter.com/realcaixia/status/1476231371718803461)
 
-造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style="" src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
+造假与谎言蒙人，是极权意识形态的一贯手法，。这样的胡编乱造，是下面人某种半躺平半糊弄的干法。<br><br>浩哥i✝️i🇺🇸iA2: 故事编得太潦草😩<br><br><img style src="https://pbs.twimg.com/media/FHtTHKyXsAAte2Q?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 6: [2021-12-30 03:29:31+08:00 推文](https://twitter.com/realcaixia/status/1476274199429881857)
 
@@ -53,7 +53,7 @@ title: 'Twitter @蔡霞: 2021-12-27~2022-01-02'
 
 ### 10: [2022-01-01 00:16:36+08:00 推文](https://twitter.com/realcaixia/status/1476950427543375872)
 
-八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style="" src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
+八年前，中国海关无理扣留《李锐口述往事》这书，自那起，南央为维护言论与出版自由与中共国海关总署已打了八年官司，并将进入第九年。跟进此事，亦是跟进一种信念，跟进一种精神。<br>南央整理了诸多朋友与她分享的跟进感言发来，读完深为感动并感触良多，特与众推友分享。<br>第四图是我的跟进感言完整篇。<br><img style src="https://pbs.twimg.com/media/FH8ukRbWYAEwH_I?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ukqBXMAA3bv6?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulAlXsAIBJ3d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH8ulW4XsAkui3t?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2022-01-01 00:46:29+08:00 推文](https://twitter.com/realcaixia/status/1476957947641188361)
 
@@ -97,7 +97,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 21: [2022-01-01 08:05:26+08:00 推文](https://twitter.com/realcaixia/status/1477068411666669581)
 
-发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style="" src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
+发出了“发哨人子的人——艾芬”推文后，有推友跟帖说还有更早上报疫情的人——张继先。于是我又去搜寻来张继先的报道。最先上报病毒疫情是12月26号，12月29号她就判断这是人传人。国家专家最早到武汉是元旦期间。但是，直至1月中武汉当局还在否认人传人。<br><img style src="https://pbs.twimg.com/media/FH-Z36pXEAU1j4x?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4MhXMAI_EgK?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z4haXEAAtosN?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FH-Z45VXsAASEnl?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 22: [2022-01-01 08:20:27+08:00 推文](https://twitter.com/realcaixia/status/1477072189954351107)
 
@@ -105,7 +105,7 @@ Re @ni87107 这本书是香港出版的，估计香港已经买不到了。
 
 ### 23: [2022-01-01 21:58:50+08:00 推文](https://twitter.com/realcaixia/status/1477278143853600769)
 
-盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
+盘点经济，王小二过年一年不如一年。<br><br>荣剑: 记得在2019年底，有人说，2019年是过去十年最差的一年，却可能是未来十年最好的一年。<br><br><img style="" src="https://pbs.twimg.com/media/FIA1BW2aUAEGLQ5?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1B-ZaAAMlGv_?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1CfzacAQXT2d?format=jpg&name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FIA1DAzacAAQrxy?format=jpg&name=orig" referrerpolicy="no-referrer"> <a href="https://twitter.com/rongjian1957/status/1477238018582872065" target="_blank" rel="noopener noreferrer">https://twitter.com/rongjian1957/status/1477238018582872065</a>
 
 ### 24: [2022-01-01 23:15:36+08:00 推文](https://twitter.com/realcaixia/status/1477297463128174593)
 
