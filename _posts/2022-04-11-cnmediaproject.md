@@ -77,7 +77,7 @@ RT Patricia M Thornton<br>Anne Stevenson-Yang for @forbes: #China is facing wh
 
 ### 16: [2022-04-17 22:16:36+08:00 推文](https://twitter.com/jojjeols/status/1515695727728640007)
 
-RT Jojje Olsson<br>Wonder what happens to this guy once the lockdown ends.<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
+RT Jojje Olsson<br>Wonder what happens to this guy once the lockdown ends.
 
 ### 17: [2022-04-17 22:25:33+08:00 推文](https://twitter.com/SPCmonitor/status/1515697981982646277)
 
