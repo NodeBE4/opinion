@@ -157,7 +157,7 @@ The oft-repeated factoid that Chinggis' bloodline is so widespread because of hi
 
 ----- __903.7__ -----2022-10-29 02:27:27+08:00:
 
-The [earliest recognisable visual depiction of a firearm](https://upload.wikimedia.org/wikipedia/commons/7/7a/EarlyCannonDeNobilitatibusSapientiiEtPrudentiisRegumManuscriptWalterdeMilemete1326.jpg) is from 1326, appearing in the illuminations of *De Nobilitatibus*, a treatise commissioned for King Edward III by his mother and written by Walter de Milemete. I have seen it up close in person.
+The [earliest recognisable visual depiction of a firearm](https://upload.wikimedia.org/wikipedia/commons/7/7a/EarlyCannonDeNobilitatibusSapientiiEtPrudentiisRegumManuscriptWalterdeMilemete1326.jpg) is from 1326, appearing in the illuminations of *De Nobilitatibus*, a treatise commissioned for King Edward III by his mother and written by Walter de Milemete. I have not only seen it up close in person; I got to turn the page.
 
 ----- __903.8__ -----2022-10-29 02:29:27+08:00:
 
@@ -165,7 +165,7 @@ The 1689 Treaty of Nerchinsk and the 1727 Treaty of Kiakhta, which defined the b
 
 ----- __903.9__ -----2022-10-29 02:32:48+08:00:
 
-Luo Dagang, a pirate who joined the Taiping Heavenly Kingdom, may well have been a Christian convert even before the Taiping turned up. According to a British report containing a translation of a letter from Luo in 1853, he was a bit of a collaborator with the British during their occupation of Guangzhou during the Opium War in 1840-42.
+Luo Dagang, a pirate who joined the Taiping Heavenly Kingdom, may well have been a Christian convert even before the Taiping turned up. According to a British report containing a translation of a letter from Luo in 1853, he was a bit of a collaborator with the British during their occupation of Guangzhou during the Opium War in 1840-42 and helped build churches during that time.
 
 ----- __903.10__ -----2022-10-29 02:37:36+08:00:
 
@@ -181,7 +181,7 @@ The Taiping have at least three weird connections with the military history of 1
 
 ----- __903.13__ -----2022-10-29 06:17:14+08:00:
 
-*Shatranj ke Khilari* (*The Chess Players*) is the only feature-length film by Satyajit Ray to be in Hindi rather than Bengali; it's also one of a handful to actually depict a real historical event, that being the 1856 annexation of the Indian state of Awadh (Oudh) by the East India Company on the eve of the Rebellion. It's also a fantastic film that's well worth watching!
+*Shatranj ke Khilari* (*The Chess Players*) is the only feature-length film by Satyajit Ray to be in Hindi rather than Bengali; it's also one of a handful of his films to actually depict a specific real historical event, that being the 1856 annexation of the Indian state of Awadh (Oudh) by the East India Company on the eve of the Rebellion. It's also a fantastic film that's well worth watching!
 
 ----- __903.14__ -----2022-10-29 06:23:01+08:00:
 
@@ -201,7 +201,7 @@ Smithian economics has indeed been a disaster.
 
 ----- __903.18__ -----2022-10-29 06:33:57+08:00:
 
-The original 'Six-Day War' was in 1899, when several rural villages in the New Territories then-recently leased to Britain rose up in revolt in a pre-emptive protest against land reform. An estimated 500 villagers died, but their aims were ultimately somewhat achieved – the governor and the local commander-in-chief had been blindsided by the more junior military officers, and quickly offered a package of concessions which was actually baked into the Basic Law (Hong Kong's current, nominally-still-active local constitution) during the handover process in the '80s and '90s. The war was also essentially covered up and virtually never spoken of again in official documents.
+The original 'Six-Day War' was in 1899, when several rural villages in the New Territories of Hong Kong, leased to Britain the previous year, rose up in revolt in a pre-emptive protest against land reform. An estimated 500 villagers died, but their aims were ultimately somewhat achieved – the governor and the local commander-in-chief had been blindsided by the more junior military officers, and quickly offered a package of concessions which was actually baked into the Basic Law (Hong Kong's current, nominally-still-active local constitution) during the handover process in the '80s and '90s. The war was also essentially covered up and virtually never spoken of again in official documents.
 
 ----- __903.19__ -----2022-10-29 06:35:14+08:00:
 
