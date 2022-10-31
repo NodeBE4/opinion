@@ -201,7 +201,7 @@ Smithian economics has indeed been a disaster.
 
 ----- __903.18__ -----2022-10-29 06:33:57+08:00:
 
-The original 'Six-Day War' was in 1899, when several rural villages in the New Territories of Hong Kong, leased to Britain the previous year, rose up in revolt in a pre-emptive protest against land reform. An estimated 500 villagers died, but their aims were ultimately somewhat achieved – the governor and the local commander-in-chief had been blindsided by the more junior military officers, and quickly offered a package of concessions which was actually baked into the Basic Law (Hong Kong's current, nominally-still-active local constitution) during the handover process in the '80s and '90s. The war was also essentially covered up and virtually never spoken of again in official documents.
+The original 'Six-Day War' was in 1899, when several rural villages in the New Territories of Hong Kong, leased to Britain the previous year, rose up in revolt in a pre-emptive protest against land reform. An estimated 500 villagers died, but their aims were ultimately somewhat achieved – the governor and the local commander-in-chief had been blindsided by the more junior military officers who carried out the war, and quickly offered a package of concessions which, in largely similar form, would end up being baked into the Basic Law (Hong Kong's current, nominally-still-active local constitution) during the handover process in the '80s and '90s. The war was also essentially covered up and virtually never spoken of again in official documents.
 
 ----- __903.19__ -----2022-10-29 06:35:14+08:00:
 
@@ -249,7 +249,7 @@ York served as the Royalist capital for a portion of the First English Civil War
 
 ----- __903.30__ -----2022-10-29 19:55:55+08:00:
 
-A Flemish astronomer named Ferdinand Verbiest helped the young Kangxi Emperor and his grandmother overthrow Oboi, the head of the young ruler's regency council, in 1669, by proving that the regents had been miscalculating key dates.
+A Flemish astronomer named Ferdinand Verbiest helped the teenaged Kangxi Emperor and his grandmother overthrow Oboi, the head of the young ruler's regency council, in 1669, by proving that the regents had been miscalculating key dates.
 
 ----- __903.31__ -----2022-10-30 03:48:49+08:00:
 
