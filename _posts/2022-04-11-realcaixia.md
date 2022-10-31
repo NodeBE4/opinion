@@ -93,7 +93,7 @@ Re @wsddasfgd @yibaochina 是的，这个问题还没有最终解决，我们正
 
 ### 20: [2022-04-14 08:23:40+08:00 推文](https://twitter.com/realcaixia/status/1514398948286517248)
 
-#议报发布中国旅欧著名作家胡发云先生的短文。特别推荐<br>一场不义战争带给几代人巨大的伤痛，这不仅是经历了亲人在战争中死亡的巨大伤痛，而且作为后人内心代先人所承受的长久的负罪感。这成为几代人难以愈合的心灵创伤。这篇短文从这个独特视角，深刻地控诉一切侵略战争的罪恶，读后令人震撼。<br><br>《议报》: 胡发云：一场不义之战，三代刻骨之痛<br> <a href="https://yibaochina.com/?p=245953" target="_blank" rel="noopener noreferrer">https://yibaochina.com/?p=245953</a>
+#议报发布中国旅欧著名作家胡发云先生的短文。特别推荐<br>一场不义战争带给几代人巨大的伤痛，这不仅是经历了亲人在战争中死亡的巨大伤痛，而且作为后人内心代先人所承受的长久的负罪感。这成为几代人难以愈合的心灵创伤。这篇短文从这个独特视角，深刻地控诉一切侵略战争的罪恶，读后令人震撼。
 
 ### 21: [2022-04-14 08:47:25+08:00 推文](https://twitter.com/realcaixia/status/1514404928340598786)
 
@@ -137,7 +137,7 @@ Re 孙大午对官府绝不行贿，依靠自己和村民勤劳努力办企业�
 
 ### 31: [2022-04-15 02:29:12+08:00 推文](https://twitter.com/realcaixia/status/1514672132105592835)
 
-请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……<br><br>Ying Li: @liuhong @ZhouFengSuo<br> <a href="https://twitter.com/suxinpl/status/1514584550239875074" target="_blank" rel="noopener noreferrer">https://twitter.com/suxinpl/status/1514584550239875074</a>
+请看这篇推友发布的上海非正常逝去生命的一些信息。有网友提议：希望这份名单可以成为一份开放协作文档，请大家添上身边逝者的故事。<br>虽然很残酷很令人痛心，但为的是让大家看到这不仅只是数字，而是一个个真实的人，曾经鲜活的生命。每一个逝去的生命都让数个家庭数位亲友瞬时跌入无尽痛苦深渊……
 
 ### 32: [2022-04-15 02:47:44+08:00 推文](https://twitter.com/realcaixia/status/1514676798964989953)
 
@@ -149,7 +149,7 @@ Re @tsui_c2019 请看这篇推友发布的上海非正常逝去生命的一些�
 
 ### 34: [2022-04-15 20:04:58+08:00 推文](https://twitter.com/realcaixia/status/1514937825963171851)
 
-强力推荐：<br><br>新闻调查: 上海rapper，彻底火了<br><br><video src="https://video.twimg.com/ext_tw_video/1514626941583872006/pu/vid/886x532/dZz1AwhG8HqmU2JY.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1514626941583872006/pu/img/eADl3LSyE0LuHKCr.jpg"></video>
+强力推荐：
 
 ### 35: [2022-04-15 20:54:52+08:00 推文](https://twitter.com/realcaixia/status/1514950385416376323)
 
@@ -165,7 +165,7 @@ Re @lizaixi5 感谢各位网友的支持关注和给我的帮助。我们一起�
 
 ### 38: [2022-04-16 03:49:25+08:00 推文](https://twitter.com/realcaixia/status/1515054708292931586)
 
-怀念胡耀邦，他是中共党内的良心。
+怀念胡耀邦，他是中共党内的良心。<br><br>浦志强: 33年前的今天，胡耀邦去世。<br><br><img style="" src="https://pbs.twimg.com/media/FQXf_iGUcAUtfMI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 39: [2022-04-16 10:35:29+08:00 推文](https://twitter.com/realcaixia/status/1515156899708121088)
 
@@ -241,7 +241,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 57: [2022-04-17 19:19:02+08:00 推文](https://twitter.com/realcaixia/status/1515651043052433409)
 
-建嵘兄干的事跨度太大，他一人活了别人几辈子，能量大到令上面恐惧。从写访民报告到课题研究到写小说“我的父亲是流氓”到黑白山水画人物肖像画；从开北京东书房到开云南大理书院讲学；从卖画到卖农家杂货，从定局北京宋庄到云游四方，国安对他人盯人也10多年了，建嵘兄不妨再写部小说“我把警察当兄弟”。
+建嵘兄干的事跨度太大，他一人活了别人几辈子，能量大到令上面恐惧。从写访民报告到课题研究到写小说“我的父亲是流氓”到黑白山水画人物肖像画；从开北京东书房到开云南大理书院讲学；从卖画到卖农家杂货，从定局北京宋庄到云游四方，国安对他人盯人也10多年了，建嵘兄不妨再写部小说“我把警察当兄弟”。<br><br>章立凡 Zhang Lifan: #转【于建嵘：盯这么紧，有必要吗？】<br><br><img style="" src="https://pbs.twimg.com/media/FQdu8Y8aQAY5T33?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 58: [2022-04-17 20:20:44+08:00 推文](https://twitter.com/realcaixia/status/1515666570264993794)
 
@@ -249,7 +249,7 @@ Re @lianchaohan 这个名单中应该加上“支持恐怖主义的国家：中�
 
 ### 59: [2022-04-17 20:23:20+08:00 推文](https://twitter.com/realcaixia/status/1515667223892807685)
 
-上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中<br><br>韩连潮: 病毒毒不死人，制度杀人！<br>关注上海逝者名单接力链接：<br><br><img style="" src="https://pbs.twimg.com/media/FQd40VAXwAcNXMG?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN" target="_blank" rel="noopener noreferrer">https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN</a>
+上海逝者名单，前天晚上接龙续写逝者数是116，昨天下午是121，今早接龙续写数已经是132。这是不完全统计。每个数字都是一个人，一个生命，他们中许多人本不该这样走完人生的路程，他们的生命本不会在这时划上句号。一个生命逝去，多少人痛彻心肺💔<br>名单还在接龙中
 
 ### 60: [2022-04-17 22:14:21+08:00 推文](https://twitter.com/realcaixia/status/1515695161497509888)
 
