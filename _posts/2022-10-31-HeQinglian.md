@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-10-31
+date: 2022-11-01
 from: https://twitter.com/HeQinglian/status/1586909091464626180
 layout: post
 tags:
@@ -34,4 +34,16 @@ Re 美国在线时事通讯库克政治报告（Cook Political Report）上周�
 ### 5: [2022-10-31 11:01:40+08:00 推文](https://twitter.com/HeQinglian/status/1586916284385693697)
 
 Re 库克政治报告（Cook Political Report）周二（10月25日）宣布，它已将自己认为的共和党可能在中期选举中赢得的众议院席位由10-20席增加到了25席。<br>关于参议院选举：2022美国中期选举，可能决定参议院命运的六场关键选战将在乔治亚、宾州、俄亥俄、内华达、亚历桑那、威斯康辛等六州展开。
+
+### 6: [2022-11-01 06:09:59+08:00 推文](https://twitter.com/HeQinglian/status/1587205269918031873)
+
+Re @franktianxie 他一个人出资购买，当然是一个人的董事会。
+
+### 7: [2022-11-01 06:10:59+08:00 推文](https://twitter.com/HeQinglian/status/1587205521446166528)
+
+Re @KELMAND1 西方根本没有意识到，还以为自己继续引领世界。不承认期领导权，就是专制回潮。
+
+### 8: [2022-11-01 06:16:38+08:00 推文](https://twitter.com/HeQinglian/status/1587206941364953090)
+
+俄罗斯军方10月31日要求乌克兰就粮食走廊非军事化做出“承诺”。美方表示：莫斯科让粮食走廊非军事化的要求是“敲诈勒索”。<br><br>这件事情很好判断：究竟是谁需要粮食。如果是俄方需要，那当然是敲诈勒索；但如果是其他国家需要，这顶帽子送不出。 <a href="https://rfi.my/8rqT.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8rqT.T</a>
 
