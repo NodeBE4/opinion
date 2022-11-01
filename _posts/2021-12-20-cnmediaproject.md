@@ -17,7 +17,7 @@ The China Media Project (中国传媒研究计划) is an independent think
 
 ### 1: [2021-12-20 06:13:17+08:00 推文](https://twitter.com/lingli_vienna/status/1472691531605811202)
 
-RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style="" src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
+RT 𝐋𝐢𝐧𝐠 𝐋𝐢<br>8 knowledge points that one shall make when teaching in China to shield oneself from being reported to the authority by students:<br><img style src="https://pbs.twimg.com/media/FHANIm9XsAkQ8or?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 2: [2021-12-20 12:15:49+08:00 推文](https://twitter.com/cnmediaproject/status/1472782768145047556)
 
@@ -49,11 +49,11 @@ RT Muyi Xiao<br>We found documents where Chinese police lay out their efforts 
 
 ### 9: [2021-12-20 22:42:27+08:00 推文](https://twitter.com/cnmediaproject/status/1472940467180679169)
 
-Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style="" src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
+Updated content restrictions for short video platforms in China add a few political priorities to the old 2019 list -- including respect for the CCP's new resolution on history and not criticizing Xi Jinping's claim on the soul of 21st century Marxism. <a href="https://bit.ly/3qcEk5R" target="_blank" rel="noopener noreferrer">https://bit.ly/3qcEk5R</a><br><img style src="https://pbs.twimg.com/media/FHDvizfaAAMHbys?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 10: [2021-12-20 22:43:54+08:00 推文](https://twitter.com/cnmediaproject/status/1472940829346271233)
 
-Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
+Journalism teacher Song Gengyi was fired for "erroneous remarks" on the victims of the 1937 Nanjing Massacre. Her firing prompted a fierce struggle online. <a href="https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2021/12/20/a-struggle-for-historical-truth/</a><br><img style="" src="https://pbs.twimg.com/media/FHDv25jaUAEvoUb?format=jpg&name=orig" referrerpolicy="no-referrer">
 
 ### 11: [2021-12-20 22:46:22+08:00 推文](https://twitter.com/muyixiao/status/1472941451608797186)
 
