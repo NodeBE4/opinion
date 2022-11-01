@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-01
+date: 2022-11-02
 from: https://twitter.com/HeQinglian/status/1586909091464626180
 layout: post
 tags:
@@ -50,4 +50,28 @@ Re @KELMAND1 西方根本没有意识到，还以为自己继续引领世界。�
 ### 9: [2022-11-01 23:45:39+08:00 推文](https://twitter.com/HeQinglian/status/1587470936286134272)
 
 Re @JianglinLi 金钱超过一定数量时，就成了游戏人生的一种资本。<br>这位马斯克收购一家对自己充满敌意、总想掌控舆论的社媒，其实就超越了为短期赢利而投资的投资界人士眼光。<br>其他的不说，看到他炒掉那些动辄就封杀不同意见推号的左棍，心里很痛快。<br>留部分人表演，这些人控管言论的恶习不改，总会提供被炒的理由。
+
+### 10: [2022-11-01 23:53:12+08:00 推文](https://twitter.com/HeQinglian/status/1587472836377120769)
+
+Re @franktianxie @JianglinLi 荣誉董事，以及无投票权的董事。<br>推特是上市公司，可以请一些股东当董事。过渡期，他一个人话事最好。
+
+### 11: [2022-11-01 23:59:09+08:00 推文](https://twitter.com/HeQinglian/status/1587474331780743170)
+
+下面这条平常的推，炸出我园子里好些心思恶坏的乌鸡血。<br>我现在每天都增加几十个Fo，没法一一鉴别，用这种方式打扫园子，也算是种办法。<br>再过几天，11月8日之后，这类东西不是狂喜就是狂怒，但喜怒均会用变态方式发泄，包括一些挂川普头像的东西。<br><br>He Qinglian: 俄罗斯军方10月31日要求乌克兰就粮食走廊非军事化做出“承诺”。美方表示：莫斯科让粮食走廊非军事化的要求是“敲诈勒索”。<br><br>这件事情很好判断：究竟是谁需要粮食。如果是俄方需要，那当然是敲诈勒索；但如果是其他国家需要，这顶帽子送不出。<br> <a href="https://rfi.my/8rqT.T" target="_blank" rel="noopener noreferrer">https://rfi.my/8rqT.T</a>
+
+### 12: [2022-11-02 00:06:29+08:00 推文](https://twitter.com/HeQinglian/status/1587476176473300992)
+
+媒体舆论、政府意见与利润：资本最听谁的话？<br><br>2022年无论是世界政治还是经济，发生的变化让传统的西方观察分析失灵，比如中国在西方媒体批评指责强度最烈的时候，西方资本（含日韩在内）都在中国逆势上扬。典型例证是围绕德国大公司到中国投资，企业界与政界、媒体意见对立。 <a href="https://www.sbs.com.au/language/chinese/zh-hans/article/analysis-of-the-growth-of-foreign-investment-in-china/er3tsbfqk" target="_blank" rel="noopener noreferrer">https://www.sbs.com.au/language/chinese/zh-hans/article/analysis-of-the-growth-of-foreign-investment-in-china/er3tsbfqk</a>
+
+### 13: [2022-11-02 00:13:26+08:00 推文](https://twitter.com/HeQinglian/status/1587477928840945667)
+
+Re @realTaoRay 401K退休金大幅缩水，已经成了事实，还会进一步恶化。
+
+### 14: [2022-11-02 00:17:58+08:00 推文](https://twitter.com/HeQinglian/status/1587479068009799683)
+
+Re @realTaoRay @dongFreeMan10 你又没去他们那里得罪他们，只是发表了自己的看法。他们发表各种意见不妨，粗口脏话乱喷，是它们得罪你。<br>弄清楚谁攻击谁，谁不尊重别人的言论自由，是首要问题。
+
+### 15: [2022-11-02 00:21:46+08:00 推文](https://twitter.com/HeQinglian/status/1587480023950303235)
+
+Re @Wu_Zhi 这次贵国肖尔茨访华，带去的企业家团队，是你德最大的那些，全是500强当中前100之内的。那份诚心，不知德媒今天是否轰炸？
 
