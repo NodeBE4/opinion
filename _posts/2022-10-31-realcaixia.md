@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-01
+date: 2022-11-02
 from: https://twitter.com/realcaixia/status/1587160080704835586
 layout: post
 tags:
@@ -42,4 +42,8 @@ Re 是清除“极权意识形态”不是清除“汲取意识形态”，拼�
 ### 7: [2022-11-01 19:19:51+08:00 推文](https://twitter.com/realcaixia/status/1587404046893301760)
 
 特别推荐VOA【美国热搜】。中国土地上的悲惨世界实情，中共政府禁止报道和传播，而是世界民主国家媒体人在关注和报道，报道透着浓浓的人道关怀。<br><br>10/31【美国热搜】民众借鬼怪讥讽习近平；富士康大逃离，二十大后清零更甚；满网都是韩国踩踏，无人关心民众苦难 <a href="https://youtu.be/Uqzx97byDmY" target="_blank" rel="noopener noreferrer">https://youtu.be/Uqzx97byDmY</a>
+
+### 8: [2022-11-02 17:43:35+08:00 推文](https://twitter.com/realcaixia/status/1587742207968247810)
+
+Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
