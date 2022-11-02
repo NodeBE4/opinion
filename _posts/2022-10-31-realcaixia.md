@@ -47,3 +47,11 @@ Re 是清除“极权意识形态”不是清除“汲取意识形态”，拼�
 
 Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
+### 9: [2022-11-02 18:15:37+08:00 推文](https://twitter.com/realcaixia/status/1587750267654660096)
+
+我长大在供销社垄断的计划经济时期，供销社货品稀少品种稀少，无可挑选余地。我工作后去过北朝鲜作官方访问，曾专门进平壤的商店看看，商店门口罗雀，店里货架空空，店员瞪着眼看我们，他们看到我没戴金日成像章，知道我不是朝鲜人。没人敢与我说话，他们恐惧被抓。习独霸朝政，中国即成西朝鲜。<br><br>高瑜: 真是“30年河東，30年河西”，80年代消失的合作社（城裡一般叫副食店“又回來了。向推友推薦某胖的微博”他們要幹什麼？“<br><br><img style="" src="https://pbs.twimg.com/media/Fgi-4YEVQAAoIxm?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgi_G_YVIAEhY_A?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgi_KhzUYAMu_Fy?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgi_NWPUUAEJYI5?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
+
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
+
