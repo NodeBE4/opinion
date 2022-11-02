@@ -2,7 +2,7 @@
 author: cnmediaproject
 categories:
 - Twitter
-date: 2022-11-01
+date: 2022-11-02
 from: https://twitter.com/cnmediaproject/status/1587263445300580352
 layout: post
 tags:
@@ -25,5 +25,9 @@ Certainly, the language of the CCP can be mystifying. But the way this article t
 
 ### 3: [2022-11-01 14:13:34+08:00 推文](https://twitter.com/cnmediaproject/status/1587326968147873792)
 
-One pitfall when it comes to reading CCP discourse is that if you view it as a mysterious black box of secrets, you become convinced that what lies inside is of paramount importance — when in all likelihood it is perfectly mundane.<br><br>Alan Wong: Note this is coming from China Media Project, which published these pieces on “pishi” last year. They point out the subtleties of party communications and important exceptions.<br> <a href="https://chinamediaproject.org/the_ccp_dictionary/written-comment/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/written-comment/</a> <a href="https://chinamediaproject.org/2019/06/19/the-power-to-instruct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2019/06/19/the-power-to-instruct/</a> <a href="https://twitter.com/cnmediaproject/status/1587294946369081344" target="_blank" rel="noopener noreferrer">https://twitter.com/cnmediaproject/status/1587294946369081344</a>
+One pitfall when it comes to reading CCP discourse is that if you view it as a mysterious black box of secrets, you become convinced that what lies inside is of paramount importance — when in all likelihood it is perfectly mundane.<br><br>Alan Wong: Note this is coming from China Media Project, which published these pieces on “pishi” last year. They point out the subtleties of party communications and important exceptions.<br> <a href="https://chinamediaproject.org/the_ccp_dictionary/written-comment/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/the_ccp_dictionary/written-comment/</a> <a href="https://chinamediaproject.org/2019/06/19/the-power-to-instruct/" target="_blank" rel="noopener noreferrer">https://chinamediaproject.org/2019/06/19/the-power-to-instruct/</a>
+
+### 4: [2022-11-02 08:43:41+08:00 推文](https://twitter.com/cnmediaproject/status/1587606335956217856)
+
+Are pockets of criticism and openness still possible in Xi's "New Era" China? A must-read on the troubles facing even the internal reference (neican) system. <a href="https://www.dailyitem.com/news/nation/in-xis-china-even-internal-reports-fall-prey-to-censorship/article_ff0636e2-ab9e-5ee5-8c32-f54e9d8c7f6e.html" target="_blank" rel="noopener noreferrer">https://www.dailyitem.com/news/nation/in-xis-china-even-internal-reports-fall-prey-to-censorship/article_ff0636e2-ab9e-5ee5-8c32-f54e9d8c7f6e.html</a>
 
