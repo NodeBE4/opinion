@@ -13,23 +13,23 @@ title: EnclavedMicrostate在2022-10-31~2022-11-06的言论
 * This will become a table of contents (this text will be scrapped).
 {:toc}
 
-### 905: [At the end of the 2022 movie adaption of All Quiet On The Western Front an unnamed German general sends his troops into a suicidal attack against French forces out of sheer spite, only hours before the war ends. Did such an attack or such attacks really happen during the last hours of WW1?](https://old.reddit.com/r/AskHistorians/comments/yiogv0/at_the_end_of_the_2022_movie_adaption_of_all/), submitted on 2022-11-01 04:47:24+08:00.
+### 906: [At the end of the 2022 movie adaption of All Quiet On The Western Front an unnamed German general sends his troops into a suicidal attack against French forces out of sheer spite, only hours before the war ends. Did such an attack or such attacks really happen during the last hours of WW1?](https://old.reddit.com/r/AskHistorians/comments/yiogv0/at_the_end_of_the_2022_movie_adaption_of_all/), submitted on 2022-11-01 04:47:24+08:00.
 
------ __905.1__ -----2022-11-02 04:27:39+08:00:
+----- __906.1__ -----2022-11-02 04:27:39+08:00:
 
 Sorry, but we have had to remove your comment as [we do not allow answers that consist primarily of links or block quotations from sources](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_do_not_just_post_links_or_quotations). This subreddit is intended as a space [not merely to get an answer in and of itself](https://www.reddit.com/r/AskHistorians/comments/f7fb8o/introducing_the_rules_roundtables_20_the/) as with other history subs, but [for users with deep knowledge and understanding of it to share that in their responses](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_write_an_in-depth_answer). While [relevant sources  are a key building block for such an answer](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_sources), they need to be adequately contextualized and [we need to see that you have your own independent knowledge of the topic](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/). 
 
 If you believe you are able to use this source as part of an in-depth and comprehensive answer, we would encourage you to consider revising to do so, and you can find further guidance on what is expected of an answer here by consulting [this Rules Roundtable which discusses how we evaluate responses](https://www.reddit.com/r/AskHistorians/comments/f7ffl8/rules_roundtable_ii_the_four_questions_what_does/).
 
-### 906: [Author Tom Holland argues that it was not our Greco-Roman western heritage that lead to liberal values, but Christianity, and that the ancient world was notably cruel. Do historians mostly agree with this stance?](https://old.reddit.com/r/AskHistorians/comments/yis5pk/author_tom_holland_argues_that_it_was_not_our/), submitted on 2022-11-01 07:19:19+08:00.
+### 907: [Author Tom Holland argues that it was not our Greco-Roman western heritage that lead to liberal values, but Christianity, and that the ancient world was notably cruel. Do historians mostly agree with this stance?](https://old.reddit.com/r/AskHistorians/comments/yis5pk/author_tom_holland_argues_that_it_was_not_our/), submitted on 2022-11-01 07:19:19+08:00.
 
------ __906.1__ -----2022-11-01 16:36:15+08:00:
+----- __907.1__ -----2022-11-01 16:36:15+08:00:
 
 I suspect you may mean /u/J-Force in those two instances!
 
-### 907: [Why were the Manchus assimilated into the Han despite ruling the last dynasty and never facing any widespread persecution?](https://old.reddit.com/r/AskHistorians/comments/yjjw2u/why_were_the_manchus_assimilated_into_the_han/), submitted on 2022-11-02 04:12:47+08:00.
+### 908: [Why were the Manchus assimilated into the Han despite ruling the last dynasty and never facing any widespread persecution?](https://old.reddit.com/r/AskHistorians/comments/yjjw2u/why_were_the_manchus_assimilated_into_the_han/), submitted on 2022-11-02 04:12:47+08:00.
 
------ __907.1__ -----2022-11-02 05:57:08+08:00:
+----- __908.1__ -----2022-11-02 05:57:08+08:00:
 
 So I feel compelled to begin this answer by stating that almost all the premises of the question are wrong. Do not, however, feel discouraged: these are errors that are *extremely* common, especially in relation to this particular question, and carry some assumptions worth unpacking.
 
@@ -41,7 +41,7 @@ Does it matter that few speak Manchu natively, or that few uniquely Manchu pract
 
 Which is why the Manchus *have* remained as a distinct minority. Manchus are the fourth-largest of the 56 recognised ethnic groups in China, sitting between the Hui and the Uyghurs with around 10.5 million members and making up 0.78% of the population. They are relatively geographically scattered compared to some other minorities, but no more so than the Hui, whose coherence as an ethnic group is basically never questioned the way the Manchus' is. What I hope I have managed to demonstrate is that Manchu identity has continued to exist, and that it is not particularly unique in context for doing so, even if perhaps the level of apparent acculturation is more extreme than many comparable examples.
 
------ __907.2__ -----2022-11-02 08:50:08+08:00:
+----- __908.2__ -----2022-11-02 08:50:08+08:00:
 
 So again, the issue here is that you're taking an approach to Manchu identity that is rooted solely in the notion that it revolves around some kind of inherited cultural practice. The reality is it doesn't, because if it did, Manchus wouldn't keep calling themselves Manchus. The act of identification, in and of itself, is what creates an identity that is distinct. Manchus may be indistinguishable from Han in terms of appearance or day-to-day behaviour, but the difference in identification is fundamentally all that needs to exist for an identity to do so as well. I can't say I know with any certainty what it is that has led many to take up the Manchu label again after decades of both hard and soft persecution. But clearly there is some motivation behind doing so.
 

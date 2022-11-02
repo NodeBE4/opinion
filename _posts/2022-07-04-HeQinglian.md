@@ -157,7 +157,7 @@ Re @HettyJ008 @JianglinLi Mark了，买包试试。不知有无季节限制？
 
 ### 36: [2022-07-05 04:15:58+08:00 推文](https://twitter.com/HeQinglian/status/1544052420363403265)
 
-中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。” <a href="https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion" target="_blank" rel="noopener noreferrer">https://www.bloomberg.com/news/articles/2022-07-04/boeing-rues-us-china-trade-war-as-airbus-wins-37-billion-deal#:~:text=A%20giant%20aviation%20deal%20from,worth%20at%20least%20%2437%20billion</a>
+中国用2500亿美元订购了近 300 架空客喷气式飞机，是这家欧洲飞机制造商有史以来最大的单日交易之一，这块石头丢下去，波音的反应来了，该公司发言人称：<br>“令人失望的是，地缘政治差异继续限制美国飞机出口，对中国的销售历来支持数以万计的美国工作岗位。”<br><br>He Qinglian: 关于中国斥资2500亿，购买近300架空客，不得不说几句：这是对拜登的双重打击。<br>1、在川普之前的空客与波音之争，空客已经败下阵来，因质量问题；<br>2、这时购买有战略考量：一是帮欧盟（德法）一把，让欧盟与美国的中国战略保持距离；二是给拜登难堪，波音肯定对此有极大意见，减少对拜登民主党的捐款。<br>
 
 ### 37: [2022-07-05 04:16:49+08:00 推文](https://twitter.com/HeQinglian/status/1544052632603557890)
 
@@ -257,7 +257,7 @@ Re @suisam007 @KELMAND1 推上风光，喊口号表态，代表政治正确。�
 
 ### 61: [2022-07-06 03:22:14+08:00 推文](https://twitter.com/HeQinglian/status/1544401284064854018)
 
-美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
+RT He Qinglian<br>美国对华外交的战略判断<br><br>美国对华的外交战略判断从来就不是政治为主，确定对华外交的战略判断是中国经济繁荣与否，对美国有利与否。拜登政府上任伊始，明言不干涉中国的政治制度。促成拜登结束战略摇摆期的因素都已浮现，耶伦与刘鹤通话是预热，习拜已经预约近期通话。 <a href="https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html" target="_blank" rel="noopener noreferrer">https://www.rfa.org/mandarin/pinglun/heqinglian/hql-07052022122839.html</a>
 
 ### 62: [2022-07-06 03:24:50+08:00 推文](https://twitter.com/HeQinglian/status/1544401939013799936)
 
@@ -445,11 +445,11 @@ Re @LeungBread 不是正在发动网络政变，差点抓到他了？你且等�
 
 ### 108: [2022-07-07 20:37:45+08:00 推文](https://twitter.com/HeQinglian/status/1545024269620584450)
 
-WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。
+WSJ总算说了点不讨白宫与民主党大佬们喜欢的话。可以说，现在白宫班子与民主党州都没做好政治上的准备，包括部分共和党州。当年中国对美友好深入了美国基层，州县一级。彭佩奥在离任前几个月专门就此发言。<br>经济体系最多是实体经济的某些与中国无关的企业做好了准备。<br><br>华尔街日报中文网: 经济专栏记者Greg Ip写道，虽然美国的经济体系已准备好迎接与中国的地缘政治竞赛，但政治体系是否做好了准备还不好说。过去一周发生的一些重大事件引起了很多疑问。<br> <a href="https://on.wsj.com/3AyyOBw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3AyyOBw</a>
 
 ### 109: [2022-07-07 20:44:00+08:00 推文](https://twitter.com/HeQinglian/status/1545025841767321600)
 
-说得好，痛快淋漓。👍👍👍<br><br>天降伟人包由检: 何止不用性别？我都不用人类来定义这种垃圾。真善美是人类社会伦理的根基。颠覆这三个根基就是为了推翻人类社会现有价值夺权。这就是左棍们破四旧的核心动力和主要手段。宣传LGBT审丑是摧毁美；用政治正确来让说真话的人闭嘴是摧毁真；用BLM之流的流氓无产者专政来摧毁善。不折不扣的文革，一模一样<br> <a href="https://twitter.com/Jacob43817149/status/1544766052021813249" target="_blank" rel="noopener noreferrer">https://twitter.com/Jacob43817149/status/1544766052021813249</a>
+说得好，痛快淋漓。👍👍👍
 
 ### 110: [2022-07-07 23:20:17+08:00 推文](https://twitter.com/HeQinglian/status/1545065171353206784)
 

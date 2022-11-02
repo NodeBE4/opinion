@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-10-29
+date: 2022-10-30
 from: https://old.reddit.com/r/AskHistorians/comments/ybv8rr/is_the_qing_conquest_theory_that_the_qing_dynasty/
 layout: post
 tags:
@@ -270,4 +270,16 @@ Whatever the case, an interesting little episode.
 Apologies, but we have removed your question in its current form as it breaks our [rules concerning the scope of questions](https://www.reddit.com/r/AskHistorians/wiki/rules#wiki_scope_and_depth). However, it might be that an altered version of your question would fit within our rules, and we encourage you to reword your question to fit the rule. While we do allow questions which ask about general topics without specific bounding by time or space, we do ask that they be clearly phrased and presented in a way that can be answered by an individual historian focusing on only one example which they can write about in good detail.
  
 So for example, if you wanted to ask, "*Have people always rebelled against health rules in pandemics?*" we would remove the question. As phrased, it asks broadly about many places collectively. However if you ask "*In the time and place you study, how did people rebel against health rules in a pandemic?*" we would allow the question. As phrased, while still asking broadly, it does so in a way that clearly invites a given expert to write exclusively about their topic of focus! We encourage you to think about rewording your question to fit this rule, and thank you for your understanding. If you are unsure of how best to reshape your question to fit these requirements, [please reach out to us for assistance](https://www.reddit.com/message/compose/?to=/r/AskHistorians).
+
+### 905: [[Hobby Scuffles] Week of October 31, 2022](https://old.reddit.com/r/HobbyDrama/comments/yhgdrj/hobby_scuffles_week_of_october_31_2022/), submitted on 2022-10-30 23:00:10+08:00.
+
+----- __905.1__ -----2022-11-03 05:32:49+08:00:
+
+Mid-sized drama from the middle leagues of the EN VTuber space:
+
+For a while, CyberLive was one of the five agencies that one r/VirtualYoutubers user nicknamed the 'Pettan Five', a group of mid-sized agencies whose members were generally in the five-digit range in terms of sub counts: not big players with some degree of general-audience popularity like Hololive, Nijisanji, or VShojo, but definitely very noticeable within the overall VTuber space. CyberLive's first, five-member generation debuted in July 2021, and its second (also of five), including its (relative) breakout member Oumiya Emma, debuted in December.
+
+Unfortunately there seem to have been management issues quite early on, with the main public-facing manager, Sato Misaki, apparently just not doing her job, to the point of failing to do stuff for the agency that actively cost it money. This led to her being publicly terminated in late March this year. This came amid a spate of talent departures: Ayane Hylo went independent in early February, Kaneko Lumi and Amaris Yuri transferred to Phase-Connect in early March (about two weeks before Sato Misaki's termination), and Kurohana Inori left to go independent in mid-May. Shortly before Inori's departure, CyberLive officially rebranded itself as Aetheria, ostensibly switching from an agency format to an indie network, with manager Vera Vee retaining some management role and also becoming a public-facing talent.
+
+Well, now allegations have come out about Vera Vee leaking private conversations with the Aetheria members, taking advantage of fans, and having an affair with a Cyberlive/Aetheria Discord mod. While these just allegations from the mod in question at present, this has led to Vera Vee deleting her Twitter account, and Aetheria announcing its official dissolution as of 30 October. This seems to have been sprung on the talents as well. It's fortunate that the damage seems to have been limited by Aetheria already being a downsize from CyberLive, but it's still not great that a support structure has suddenly been kicked out under them.
 
