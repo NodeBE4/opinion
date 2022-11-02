@@ -181,7 +181,7 @@ Re @thisisacrazyguy @RICHARD08999364 2020年6月大重置宣言中，施瓦布�
 
 ### 42: [2022-05-24 04:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1528837518216634372)
 
-拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。<br><br>Rasmussen Reports: 69% of voters think the US is on the wrong track. The highest of Biden's term.<br><br><br> #rightdirection #wrongtrack<br><br><img style="" src="https://pbs.twimg.com/media/FTdSIQsXEAAB5NN?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://bit.ly/3LEeeS2" target="_blank" rel="noopener noreferrer">https://bit.ly/3LEeeS2</a>
+拉斯穆森最新调查：69%的选民认为美国走在错误的道路上，24%的选民认为美国行进在正确的道路上。
 
 ### 43: [2022-05-24 04:43:15+08:00 推文](https://twitter.com/HeQinglian/status/1528838994506686467)
 
@@ -205,7 +205,7 @@ Re @Wu_Zhi @pandatress1 @JianglinLi @david_david1968 早就知道美国进入选
 
 ### 48: [2022-05-24 09:00:15+08:00 推文](https://twitter.com/HeQinglian/status/1528903670888267776)
 
-美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
+RT He Qinglian<br>美国左派与马克思主义亲缘密切<br>美左派建构的身份政治缘于马克思的阶级压迫论，共同点是要制造一个受害者群体<br>马主张暴力革命，美左派擅长用暴力作为诉求手段<br>马与美左都痛恨私有财产不可侵犯的资本主义法则。<br>马主义痛恨人类自然秩序，主张改造自然。左派性别改造本质相同。 <a href="https://www.epochtimes.com/gb/22/5/23/n13743745.htm" target="_blank" rel="noopener noreferrer">https://www.epochtimes.com/gb/22/5/23/n13743745.htm</a>
 
 ### 49: [2022-05-24 10:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1528921551076470784)
 

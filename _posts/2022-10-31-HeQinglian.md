@@ -163,3 +163,23 @@ Re @Iz2Y2SvJbL2ILAm 民主党就等下一轮，明年下半年将进入2024年�
 
 Re @xxj2040 可能比财更复杂一些，是地位。这些人的财，应该早就够了，更何况现在对他们的片酬有个封顶政策。<br>我记得在三年前的“国庆大礼”期间一些大牌演员就开始群体诗朗诵赞美“伟大的党”。当时觉得这些人运气真好，总算是演过各种角色、有过一段辉煌。年轻演员今后则只能演政治脸谱化的剧，塑造不了象话的角色。
 
+### 38: [2022-11-03 03:16:53+08:00 推文](https://twitter.com/HeQinglian/status/1587886480931840000)
+
+Re @dinglili7 北京欢迎她不？那地儿有不少成天想着推翻资本主义制度的人。<br>当然，奥八阵营欢迎她也很好，这也是要推翻资本主义制度的。<br>北京是外部力量，奥八是内部力量。
+
+### 39: [2022-11-03 03:26:04+08:00 推文](https://twitter.com/HeQinglian/status/1587888791263608837)
+
+Re @Tepezano161 @xxj2040 如果我记得不错，习登台后，2014年10月曾在北京主持召开文艺工作座谈会，听取七位文艺界人士发言后，发表了约两小时的讲话。习讲话正式发布晚一点。<br>如果我记得不错，似乎周带鱼与花千芳就是“一会成名”。只是不太记得是哪几位发言。<br>我那时写过文章，说过中国人身上有专制基因，随时可以复活。
+
+### 40: [2022-11-03 03:37:32+08:00 推文](https://twitter.com/SSK2024/status/1587891680933560321)
+
+RT 萧生客SSK🇺🇸🇨🇦<br>哇！这才是真正的事实核查！<br>白宫在被核查的绝对羞辱之后，正式删除了这条推文。<br><br>白宫：老年人将获得10年来的最大社保增幅补贴。<br>核查员：那是因为通货膨胀是这几十年来最高的。<br>白宫：删除该推文。<br><br>老马：推特社区的提示功能很赞<br>我们的目标是使推特成为地球上最准确的信息来源，不考虑政治因素。<br><img style="" src="https://pbs.twimg.com/media/FglTETgWAAAS9PI?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FglTETgXoAMgmXO?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 41: [2022-11-03 03:43:59+08:00 推文](https://twitter.com/HeQinglian/status/1587893300702445568)
+
+我相信这篇《我为什么预测11月8日将出现红色浪潮》，里面有句话绝对正确：民主党关心的都是错误的问题，共和党关心的都是民众真正关心的问题——前提是：民主党预告出现选举错误是正常的，共和党与中间选民必须不让他们利用错误劫夺选举。 <a href="https://nacr.info/WordPress/index.php/2022/10/31/heres-why-i-am-predicting-a-red-wave-on-november-8/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/10/31/heres-why-i-am-predicting-a-red-wave-on-november-8/</a>
+
+### 42: [2022-11-03 03:49:52+08:00 推文](https://twitter.com/HeQinglian/status/1587894784303169538)
+
+Re @sophyzhang2003 @xxj2040 这就有点远了。陈道明演艺成名，是在江青入狱之后好几年。
+
