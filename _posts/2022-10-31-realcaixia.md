@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-02
+date: 2022-11-03
 from: https://twitter.com/realcaixia/status/1587160080704835586
 layout: post
 tags:
@@ -53,5 +53,9 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
+
+### 11: [2022-11-03 00:51:32+08:00 推文](https://twitter.com/realcaixia/status/1587849903543287810)
+
+清零使多少人无辜丧命，民愤滔天。一人独裁宝座下尽是白骨累累！<br><br>墙国蛙蛤蛤🐸: 11月1日，甘肃兰州七里河，三岁小孩煤气中毒，社区防疫人员耽误抢救1个多小时，而最近的医院距离仅几百米，孩子最终死亡。当晚，兰州特警全副武装，果断重拳出击震慑街头现行反清零分子，现场围观群众无不高声赞叹：“共产党牛逼！操你妈！”<br><br>#坚持动态清零一百年不动摇 <br>#人民就是江山 <br>#打江山守江山<br><br><video src="https://video.twimg.com/ext_tw_video/1587496805184536581/pu/vid/544x960/9O17O1K7E1eiPxgx.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1587496805184536581/pu/img/P7oKBg0J7LeHMzFf.jpg"></video> <a href="https://twitter.com/i/web/status/1587497219799846912" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1587497219799846912</a>
 
