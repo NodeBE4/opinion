@@ -53,5 +53,5 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
 
