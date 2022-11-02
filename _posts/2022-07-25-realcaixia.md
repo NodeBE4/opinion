@@ -21,7 +21,7 @@ title: 'Twitter @蔡霞: 2022-07-25~2022-07-31'
 
 ### 2: [2022-07-25 08:12:06+08:00 推文](https://twitter.com/realcaixia/status/1551359600271806469)
 
-支持！<br><br>Luo Shengchun丁家喜律师妻子: #一人一照声援丁家喜许志永 非常感谢国内朋友发来照片声援家喜！考虑到国内朋友发声有危险，我决定在海外发起一场一人一照声援丁家喜许志永活动，欢迎海外的朋友们踊跃参加！照片做完可以发给我来发推特，或者您直接发推特把链接分享给我或放群里。<br><br>非常感谢清鹏率先参与支持！<br> <a href="https://twitter.com/wangqingpeng1/status/1540175207616245760" target="_blank" rel="noopener noreferrer">https://twitter.com/wangqingpeng1/status/1540175207616245760</a>
+支持！
 
 ### 3: [2022-07-25 20:00:20+08:00 推文](https://twitter.com/realcaixia/status/1551537832728174593)
 
@@ -41,7 +41,7 @@ Re @GuRu_999999 请你拿出你的论文来。
 
 ### 7: [2022-07-26 00:12:55+08:00 推文](https://twitter.com/realcaixia/status/1551601399795965953)
 
-常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。<br><br>Chen Zijuan(常玮平律师的妻子): 现在我的车周围围满了车，有公安、特警标记，还有社会车辆，刚刚还有穿着防化服的人来敲我的车窗，天已经黑了，请大家关注我和孩子及我母亲的安危<br><br><img style="" src="https://pbs.twimg.com/media/FYg3GtUVUAEuEPh?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+常玮平律师妻子被中共豢养的黑恶势力包围。不知现在她们母子情况如何，有了解情况的吗？请报个信。
 
 ### 8: [2022-07-26 20:50:08+08:00 推文](https://twitter.com/realcaixia/status/1551912755179012096)
 
@@ -89,7 +89,7 @@ Re 请点击最上推文中的完整链接，可以观看电影《一九八四�
 
 ### 19: [2022-07-29 09:16:30+08:00 推文](https://twitter.com/realcaixia/status/1552825358306742273)
 
-高福主任提的问题很到位，很讲理。
+高福主任提的问题很到位，很讲理。<br><br>谷风: 以习近平的性格和习惯，单凭你这番话，就可以把你腐败，还说你妄议中央，现在让你下岗算是给足你面子：<br><br><video src="https://video.twimg.com/ext_tw_video/1552598846781370368/pu/vid/496x638/TkmaJhg8sznH77rc.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1552598846781370368/pu/img/vZqcDoYU9Qmub0ME.jpg"></video>
 
 ### 20: [2022-07-30 07:36:43+08:00 推文](https://twitter.com/realcaixia/status/1553162636401037314)
 
