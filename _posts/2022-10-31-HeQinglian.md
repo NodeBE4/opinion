@@ -207,3 +207,27 @@ Re @mengyan1234567 这让我想起推上2017-2018年的旧故事，某人的战�
 
 自由之家发布《北京的全球媒体影响力：威权扩充与民主韧性的力量 》报告，称在其研究的30国中，北京在16国的影响媒体力度为“高”或“非常高”。台湾、美国、英国受中共媒体渗透的影响最深。其它同样受到中共严重渗透的国家包括阿根廷、意大利、肯尼亚、菲律宾和西班牙。 <a href="https://freedomhouse.org/report/beijing-global-media-influence/2022/authoritarian-expansion-power-democratic-resilience" target="_blank" rel="noopener noreferrer">https://freedomhouse.org/report/beijing-global-media-influence/2022/authoritarian-expansion-power-democratic-resilience</a>
 
+### 49: [2022-11-03 22:21:18+08:00 推文](https://twitter.com/HeQinglian/status/1588174483797385216)
+
+Re @gunplaer2014 奥巴马与AOC们最信奉的理论是“现代货币理论”：美元是世界硬通货，想印多少都行。<br>我曾写过文章用学术语言介绍过，但实质就是这一句。
+
+### 50: [2022-11-03 22:27:16+08:00 推文](https://twitter.com/HeQinglian/status/1588175986931146758)
+
+Ezio Mao☢<br>@KELMAND1<br><br>Elon Musk: To all complainers, please continue complaining, but it will cost $8<br>
+
+### 51: [2022-11-03 22:34:28+08:00 推文](https://twitter.com/HeQinglian/status/1588177796823941122)
+
+Re @farmdirect8 纽约就由民主党万年统治吧。<br>共和党连个禁邮寄选票都做不到，就别争了。
+
+### 52: [2022-11-03 22:39:42+08:00 推文](https://twitter.com/HeQinglian/status/1588179114342875136)
+
+Re @KELMAND1 可能会成功。原因有二：<br>一、别的社媒争不过Twitter。2020年之后，因左派太猖狂，很多推主离开了推特，但在别的地方不免寂寞，终于回来了。这证明推特有自己的优势。<br>二、这是认证推号先试行。以后如果实行收费制，机器人与自干五会少得多，五毛号也增加了成本。<br>Twitter野蛮成长的时代终于要结束了。
+
+### 53: [2022-11-03 22:45:23+08:00 推文](https://twitter.com/HeQinglian/status/1588180544394698752)
+
+Re @Tepezano161 @farmdirect8 差别很大。<br>共和党主张法治与秩序，民主党零元购/Antifa<br>以经济为例，民主党热衷大政府强干预经济。共和党是消极干预，主要通过美联储用利息调节。<br>拜登成立农业银行，以环保政策挤压农场主收购土地，这把戏《黄石公园》展现过，共和党通过农业政策扶持农场主。<br>讨论美国，需要了解这些基本面。
+
+### 54: [2022-11-03 23:41:39+08:00 推文](https://twitter.com/HeQinglian/status/1588194703786352640)
+
+Re @Tepezano161 @farmdirect8 你这态度就很好了，有利于自己成长，当然也方便别人。<br>推上太多住在美国，也不了解美国政治ABC的人，就知道一点：按两党对中共的态度划线决定自己支持哪一方。其实， 外交在美国选民的选择中，重要性从来未进入前八项。
+
