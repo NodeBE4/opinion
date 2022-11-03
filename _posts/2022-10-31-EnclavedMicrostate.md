@@ -63,3 +63,7 @@ So, I reposted this question mainly to test a couple of new moderation features,
 
 Actually, a bit of a follow-up: Yoshinobu may have had a relatively small clan holding himself, but what of the estates passed down the Shoguns? Was it simply that he hadn't had enough time in power to get them organised, or were there legal barriers to their full utilisation?
 
+----- __909.3__ -----2022-11-04 07:37:16+08:00:
+
+Ahh, I see now – I think I was misreading some of the chronology you presented. Thanks for clearing things up!
+
