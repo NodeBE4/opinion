@@ -165,7 +165,7 @@ Re @JianglinLi @david_david1968 @RealBeiMing @Wu_Zhi @HongfuDing @ngexp Mark了�
 
 ### 38: [2022-06-22 21:17:02+08:00 推文](https://twitter.com/HeQinglian/status/1539598337455841280)
 
-昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。<br><br>He Qinglian: 昨天看韩剧《第五共和国》1979年朴正熙被枪杀案，发现中情部长金载圭完全未谋划，而是血气之勇。<br>1976年叶、汪、华逮捕四人帮，那谋划之周密、等待时机之耐心，与金载圭刺杀相比高了几个等级。<br>中国传说的李克强倒习，可能二者都不是，口头操练。<br>
+昨天看到《第五共和国》第四、五集，金载圭被审时有段话挺有意思，他问审讯者，美国方面过问我的事情没有？这点告诉我应该没问题吧？正好军方不相信他一个人敢于行动，背后有人，想法罗织。<br>最后结论是：金与美关系密切，了解美不喜欢朴，认为刺杀朴美方会高兴；但美指使查无实据，美韩关系留下阴影。
 
 ### 39: [2022-06-22 21:19:23+08:00 推文](https://twitter.com/HeQinglian/status/1539598929322450945)
 
@@ -177,7 +177,7 @@ Re @Dchu07559344 这面旗帜是真的吗？两个有镰刀斧头的国家都没
 
 ### 41: [2022-06-22 21:49:27+08:00 推文](https://twitter.com/HeQinglian/status/1539606494601265153)
 
-Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。 <a href="https://twitter.com/MailOnline/status/1539254232813125636" target="_blank" rel="noopener noreferrer">https://twitter.com/MailOnline/status/1539254232813125636</a>
+Re @enoughtalk4 @xuezhou_yang @realTaoRay 看看图右的几则马斯克的推文。<br><br>Daily Mail Online: Elon Musk's ex-wife Justine says she's 'very proud' of their 'normal' 18-year-old son for filing paperwork to change gender to become a woman<br><br><img style="" src="https://pbs.twimg.com/media/FVyHkVIWUAMgUUD?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://trib.al/OBBBPeF" target="_blank" rel="noopener noreferrer">https://trib.al/OBBBPeF</a>
 
 ### 42: [2022-06-22 21:51:45+08:00 推文](https://twitter.com/HeQinglian/status/1539607072173703171)
 
@@ -241,7 +241,7 @@ Re 此情景让我想起一寓言：<br>有夫妻俩听说河豚美味但有毒�
 
 ### 57: [2022-06-24 08:53:37+08:00 推文](https://twitter.com/HeQinglian/status/1540136026114609155)
 
-德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。<br><br>华尔街日报中文网: 欧盟领导人周四同意让乌克兰成为加入该集团的正式候选国，为未来几年可能加入欧盟打开了大门。<br>同时，德国政府启动了其应对天然气短缺的三步计划中的第二步，距离天然气配给制更近一步。如果实行配给制可能将德国这个欧洲最大的经济体推入衰退。<br> <a href="https://on.wsj.com/3zUF0Dw" target="_blank" rel="noopener noreferrer">https://on.wsj.com/3zUF0Dw</a>
+德国是欧盟的经济支柱，德国衰落，意味着欧盟衰落。<br>乌克兰想加入欧盟，本是想沾欧盟的光。欧盟强盛时，乌克兰不得其门而入；欧盟衰落了，乌克兰赶这晚集，图了个虚名。
 
 ### 58: [2022-06-24 21:39:48+08:00 推文](https://twitter.com/HeQinglian/status/1540328841717379073)
 
@@ -305,7 +305,7 @@ RT Stacy Chen 🇨🇦🇺🇸<br>Re @franktianxie 从“1-6委员会”，到
 
 ### 73: [2022-06-25 21:11:23+08:00 推文](https://twitter.com/HeQinglian/status/1540684079456059392)
 
-堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗<br><br>RFI 華語 - 法國國際廣播電台: 美最高法院終結墮胎權憲法保障後，美西岸3州承諾捍衛墮胎權<br><br><img style="" src="https://pbs.twimg.com/media/FWDXjlXUAAAlx1N?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Wuu.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Wuu.t</a>
+堕胎与变性，一定得在当事人成年后知晓其中利害之后，这是政府责任<br>黄石公园女主贝丝13岁怀孕，不敢求助于父亲，找其大哥（养子），15岁男孩因保护妹妹与家庭名誉，去找印第安人，老妇告知该族的堕胎法将终生不能生育，他告知妹妹，妹妹不知利害，要求做手术。<br>这事成为贝丝终身之痛，兄妹父子失和的梗
 
 ### 74: [2022-06-25 21:13:54+08:00 推文](https://twitter.com/HeQinglian/status/1540684709931274240)
 
