@@ -49,3 +49,7 @@ And it is important to note that an *ethnic* identity is not a *cultural* one: a
 
 I hope that's helped explain where our difference in approach and interpretation lies: I'm talking in purely ethnic terms, because I am more or less only concerned with ethnic identity here.
 
+----- __908.3__ -----2022-11-03 17:13:08+08:00:
+
+It's a considerable oversimplification at best. 'Hui' is a complex catch-all that mostly encompasses Sinophone Muslims, but from a wide variety of genealogical backgrounds, including historic Han converts and the descendants of Turkic migrants. The concept of a 'Hui' identity emerged out of the notion that they were *essentially* different from the Han, whatever their background, and that this essential difference was reified through Islam. But to paraphrase one of my other comments in this thread, there's a difference between 'usually' and 'must' that can be drawn here: in the 1850s for instance we see Muslim leaders in southwest China lamenting a decline in religious sentiment, but their wording implies that those who effectively dropped out of the *ummah* would still be ethnic Hui.
+
