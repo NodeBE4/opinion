@@ -53,3 +53,9 @@ I hope that's helped explain where our difference in approach and interpretation
 
 It's a considerable oversimplification at best. 'Hui' is a complex catch-all that mostly encompasses Sinophone Muslims, but from a wide variety of genealogical backgrounds, including historic Han converts and the descendants of Turkic migrants. The concept of a 'Hui' identity emerged out of the notion that they were *essentially* different from the Han, whatever their background, and that this underlying difference was then performed and reified through Islam. But to paraphrase one of my other comments in this thread, there's a difference between 'usually' and 'must' that can be drawn here: in the 1850s for instance we see Muslim leaders in southwest China lamenting a decline in religious sentiment, but their wording implies that those who effectively dropped out of the *ummah* would still be ethnic Hui.
 
+### 909: [What motivated the Shōgitai and other pro-Tokugawa troops at Ueno to keep fighting after Tokugawa Yoshinobu surrendered in the spring of 1868?](https://old.reddit.com/r/AskHistorians/comments/yjl335/what_motivated_the_shōgitai_and_other_protokugawa/), submitted on 2022-11-02 04:55:48+08:00.
+
+----- __909.1__ -----2022-11-04 00:23:46+08:00:
+
+So, I reposted this question mainly to test a couple of new moderation features, so getting an answer – especially one of this depth – was an unexpected surprise! Thanks!
+
