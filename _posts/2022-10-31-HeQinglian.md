@@ -183,3 +183,27 @@ RT 萧生客SSK🇺🇸🇨🇦<br>哇！这才是真正的事实核查！<br>
 
 Re @sophyzhang2003 @xxj2040 这就有点远了。陈道明演艺成名，是在江青入狱之后好几年。
 
+### 43: [2022-11-03 09:18:37+08:00 推文](https://twitter.com/HeQinglian/status/1587977515968208896)
+
+Re @dinglili7 支持者还挺多的。😂
+
+### 44: [2022-11-03 09:24:02+08:00 推文](https://twitter.com/HeQinglian/status/1587978878307401736)
+
+Re @KELMAND1 Twitter收入当中，90%来自广告。广告本身是品牌带来的，加上全球负责任媒体联盟（GARM）偏左，其创办者WFA 连接了全球 60 多个市场的最大品牌所有者和国家广告商协会，汇集了当地数以万计的品牌，因此推特过去胡作非为，广告收入依旧。<br>Musk并非GARM钟爱的资本家，今后推特的广告收入会有所减少。
+
+### 45: [2022-11-03 09:30:32+08:00 推文](https://twitter.com/HeQinglian/status/1587980513834311680)
+
+Re @KELMAND1 提出的新创收方法是开发“认证费”，让每位认证过的大V交8元月费。有70%以上的人不想交——估计最后会交。<br>如果马斯克能清理机器人——五毛帐号（中国的、洋的），我愿意交。
+
+### 46: [2022-11-03 09:47:51+08:00 推文](https://twitter.com/HeQinglian/status/1587984870457970690)
+
+Re @gunplaer2014 鲍威尔任期满时不想干了，是参议院的共和党参议员及曼钦强烈希望他留下，因为清楚他一离开，拜登选中的人担任此职，美联储的货币政策会成为脱韁野马。<br>耶伦原来挺附从拜登，三个月前也表示经济会出大问题，她留任至11月中选后辞职。
+
+### 47: [2022-11-03 09:55:25+08:00 推文](https://twitter.com/HeQinglian/status/1587986777528094720)
+
+Re @mengyan1234567 这让我想起推上2017-2018年的旧故事，某人的战袍之类。更早的还有葵瓜子。
+
+### 48: [2022-11-03 10:03:14+08:00 推文](https://twitter.com/HeQinglian/status/1587988744581300224)
+
+自由之家发布《北京的全球媒体影响力：威权扩充与民主韧性的力量 》报告，称在其研究的30国中，北京在16国的影响媒体力度为“高”或“非常高”。台湾、美国、英国受中共媒体渗透的影响最深。其它同样受到中共严重渗透的国家包括阿根廷、意大利、肯尼亚、菲律宾和西班牙。 <a href="https://freedomhouse.org/report/beijing-global-media-influence/2022/authoritarian-expansion-power-democratic-resilience" target="_blank" rel="noopener noreferrer">https://freedomhouse.org/report/beijing-global-media-influence/2022/authoritarian-expansion-power-democratic-resilience</a>
+
