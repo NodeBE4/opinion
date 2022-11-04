@@ -263,6 +263,10 @@ What's interesting is that there is still not really a good idea of *why* the po
 
 Whatever the case, an interesting little episode.
 
+----- __903.33__ -----2022-11-04 23:44:37+08:00:
+
+It's all a lie by the Phoenicians! Tyre relocated itself to Central Asia and invented the mudfloods to conceal its secret plots...
+
 ### 904: [What was homelessness like throughout history?](https://old.reddit.com/r/AskHistorians/comments/ygddsf/what_was_homelessness_like_throughout_history/), submitted on 2022-10-29 15:42:39+08:00.
 
 ----- __904.1__ -----2022-10-29 15:52:05+08:00:
