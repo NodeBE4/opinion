@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-04
+date: 2022-11-05
 from: https://twitter.com/HeQinglian/status/1586909091464626180
 layout: post
 tags:
@@ -326,4 +326,12 @@ Re @SSK2024 如果选举是One Person，One Vote，美国最多只有40%的人�
 ### 78: [2022-11-04 23:37:23+08:00 推文](https://twitter.com/HeQinglian/status/1588556017637347329)
 
 Re @Michael52068295 @SSK2024 其实，比信仰更严重。是生活方式的选择，信仰只是生活方式的精神层面。美国人原有的生活方式将被严重破坏，慢慢走上通往奴役之路。
+
+### 79: [2022-11-05 00:11:18+08:00 推文](https://twitter.com/HeQinglian/status/1588564552475906048)
+
+Re @david_david1968 关于学贯中西，陈的时代要求与今天不一样。<br>有人早就论述过，那时一个学科的经典著作就那么十几部最多几十部；如今写篇博士论文，提出的参考文献之要求就达几十部（篇）。<br>因此，那时能够翻译几部著作，就可称为“学贯中西”了。中学的底子，只要在光绪前十年束发受教，读过四书五经就算通中学了。
+
+### 80: [2022-11-05 00:12:09+08:00 推文](https://twitter.com/HeQinglian/status/1588564766435737600)
+
+Re @dinglili7 言下之意是：必须要给民主党根据需要做票赢得选举的时间。<br>还要脸么？
 
