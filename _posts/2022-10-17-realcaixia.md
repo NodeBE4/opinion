@@ -41,7 +41,7 @@ title: 'Twitter @蔡霞: 2022-10-17~2022-10-23'
 
 ### 7: [2022-10-19 10:27:31+08:00 推文](https://twitter.com/realcaixia/status/1582559038520590336)
 
-请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English《議報》英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
+请关注我们议报英文版文章。今天推荐：<br>#elonmuskchina #yibao<br>如何阻止埃隆马斯克与中国的冒险交易？中共能否将埃隆的技术用于中国自己的太空利益？ #spaceact #marcorubio引入的美国指挥与企业 (SPACE) 太空保护法<br><br>YiBao English 議報 英文: #elonmuskchina #yibao<br>How to stop to Elon Musk's risky dealings with China? Could the CCP take Elon's technology and use it for China's own space interest? #spaceact Space Protection of American Command and Enterprise (SPACE) Act  introduced by #marcorubio<br> <a href="https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/" target="_blank" rel="noopener noreferrer">https://www.yibao.net/2022/10/16/heres-how-to-stop-to-elon-musks-risky-dealings-with-china/</a>
 
 ### 8: [2022-10-19 10:42:58+08:00 推文](https://twitter.com/realcaixia/status/1582562926099329025)
 
@@ -73,7 +73,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/Ffb6tbZWIAQrHYw?format=jpg
 
 ### 15: [2022-10-19 21:53:50+08:00 推文](https://twitter.com/realcaixia/status/1582731752791232512)
 
-英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English《議報》英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
+英文版议报的推特跟进了英国曼城事件。请看：<br><br>YiBao English 議報 英文: Peaceful protest should be a fundamental right in everywhere. Shame on Chinese "Wolf Warrior Diplomacy"!<br>
 
 ### 16: [2022-10-21 21:23:27+08:00 推文](https://twitter.com/realcaixia/status/1583448884675678208)
 
