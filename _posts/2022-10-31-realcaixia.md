@@ -95,3 +95,7 @@ Re @franktianxie 现李克强政府无一人能参与中央常委会会议，而
 
 敬贺鲍老华诞！生日快乐🎂🎈🎂！<br><br>高瑜: 敬祝鮑老九秩華誕！生日快樂！<br>庚子年，即將“新桃換舊符”之際，鮑老用他米壽生日照向朋友拜年。<br><br><img style="" src="https://pbs.twimg.com/media/FgxQXsRVsAEGdUj?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
+### 21: [2022-11-05 22:57:15+08:00 推文](https://twitter.com/realcaixia/status/1588908308437819392)
+
+Re @liuyangeming 以往没有出现过20大常委班子这样的一人兄弟伙班子，而且兄弟伙实在是层次不够，没一个在国务院系统工作过，仅凭习个人十之八九是灾难性决策；同时，看过英国一部电视剧《是，部长先生！》吗？政府系统的官僚体系是不那么容易配合他们内心鄙视的下层爬上来的高官的，更别说还当总理，官僚体系服他们吗？
+
