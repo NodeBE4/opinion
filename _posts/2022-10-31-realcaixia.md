@@ -53,7 +53,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
 
 ### 11: [2022-11-03 00:51:32+08:00 推文](https://twitter.com/realcaixia/status/1587849903543287810)
 
@@ -82,4 +82,16 @@ Re @franktianxie 现李克强政府无一人能参与中央常委会会议，而
 ### 17: [2022-11-05 12:47:05+08:00 推文](https://twitter.com/realcaixia/status/1588754753626177537)
 
 某胖声声泪字字血，道不尽心酸心寒与无奈。<br><br>高瑜: 某胖是位活躍的網民，他不知道這種用圖片表達思想可以維持多久。他說“我這種人最大的悲哀就是清醒而且窮，知道會發生什麼卻貧賤不能移。”他又發一篇微博“凜冬已至，唯苟活而不可亂說”他說：“我們很想苟活。可問題是，想苟活就能活得下去嗎？”他為自己的微博，也為他和千千萬萬和他一樣的人的生計擔憂。<br><br><img style="" src="https://pbs.twimg.com/media/Fgs85DHVIAArSX3?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgs9DTeVUAEr_tr?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgs9LU7VIAAHKOY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgs9PinUoAA2EXI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 18: [2022-11-05 17:52:18+08:00 推文](https://twitter.com/realcaixia/status/1588831561956593664)
+
+中共国人间惨剧何时休？<br><br>方舟子: 【方老师你好，我家乡呼和浩封闭33天了，兴光小区有个阿姨跳楼，原因不详。阿姨的孩子出不了单元门哭得撕心裂肺；小区所有门全被铁皮焊死了，一起打电话求物业开门，物业人间蒸发，却不忘把小区里灯都关上防止形象受损，叫了救护车说是在穿防护服，穿了一个小时都不来，没得到及时救治就死在小区里了】<br><br><video src="https://video.twimg.com/ext_tw_video/1588626098903916544/pu/vid/778x1538/emfT5t-25cpytIXO.mp4?tag=14" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1588626098903916544/pu/img/ElaPauPj7zRiq_YL.jpg"></video> <a href="https://twitter.com/i/web/status/1588626267636916225" target="_blank" rel="noopener noreferrer">https://twitter.com/i/web/status/1588626267636916225</a>
+
+### 19: [2022-11-05 18:08:40+08:00 推文](https://twitter.com/realcaixia/status/1588835684353462272)
+
+有家难回，中共国成流浪者制造大国。刘少奇1962年7000人大会上说：“人相食，是要上史书的。”武汉新冠病毒疫情、核酸、清零、红黄绿码等，也是要上史书的。<br><br>徐晓冬 北京格斗狂人: 地点南昌，无疫情。目的地：家 北京。  弹窗3不让回京。 继续12345申诉～ 7天了。这个时代将写入史册。<br><br><img style="" src="https://pbs.twimg.com/media/FgxEWK0aAAEJd4O?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 20: [2022-11-05 20:31:36+08:00 推文](https://twitter.com/realcaixia/status/1588871652674179073)
+
+敬贺鲍老华诞！生日快乐🎂🎈🎂！<br><br>高瑜: 敬祝鮑老九秩華誕！生日快樂！<br>庚子年，即將“新桃換舊符”之際，鮑老用他米壽生日照向朋友拜年。<br><br><img style="" src="https://pbs.twimg.com/media/FgxQXsRVsAEGdUj?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
