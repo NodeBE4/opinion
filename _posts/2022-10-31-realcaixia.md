@@ -53,7 +53,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
 
 ### 11: [2022-11-03 00:51:32+08:00 推文](https://twitter.com/realcaixia/status/1587849903543287810)
 
@@ -102,4 +102,20 @@ Re @liuyangeming 以往没有出现过20大常委班子这样的一人兄弟伙�
 ### 22: [2022-11-06 01:42:03+08:00 推文](https://twitter.com/realcaixia/status/1588949778674913281)
 
 Re @liuyangeming 可以想见，未来的政府运转将会更多地出现不畅、梗阻、等等。
+
+### 23: [2022-11-06 07:32:25+08:00 推文](https://twitter.com/realcaixia/status/1589037953686589441)
+
+偶然看到这推文，一开读就被吸引了。颜宁是我很有好感的女科学家，推主所写如果确实，真是令人唏嘘。<br>科学来不得半点虚假，这不仅是从事科学研究应该知道的最基本准则，而且直接决定能不能做出科学发现和创新性成果。<br>再说闫润涛，他的文章曾经传进大陆，一时洛阳纸贵。竟然离世了，好令人感伤。<br><br>Dave Sun: 生物学家颜宁要回国担任新创办的深圳医学科学院创始院长了。颜宁赖以成名的成果是“人类葡萄糖转运蛋白GLUT1的三维晶体结构”。这是一个困扰了科学家50年的问题，在颜宁团队的努力下，第一次在冷冻电镜下得到了揭示。但是这个成果从“颜宁验证了这个结构变成了颜宁发现了这个结构”，其中的故事令人感慨。<br>
+
+### 24: [2022-11-06 07:33:16+08:00 推文](https://twitter.com/realcaixia/status/1589038165884817408)
+
+Re @baojianella 鲍老好字啊！🌹
+
+### 25: [2022-11-06 07:37:20+08:00 推文](https://twitter.com/realcaixia/status/1589039188984627200)
+
+令人感动也感伤，老太太的先走，能够想到鲍老何等悲伤。愿鲍老身体康健，有我们相伴，共渡长夜。<br><br>鲍简: 一年前爸爸的生日还有妈妈陪伴。<br><br><img style="" src="https://pbs.twimg.com/media/Fg0BPHrUcAA0-Cr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 26: [2022-11-06 07:39:23+08:00 推文](https://twitter.com/realcaixia/status/1589039704770764800)
+
+民众的声音，民众的行动！<br><br>小黑人行动: 小黑人行动在墙内抖音爆发，我们以前是韭菜，现在是小黑人。一个社会不能只有一种声音，一群人的勇敢不能没有回声！反抗镰刀，准备冲塔！<br>想找组织伙伴？加入我们，或者在抖音制作小黑人，发出你的心声：不要谎言要尊严，不要封控要自由！<br><br>#小黑人 #已黑化 #彭立发 #二十大 #抖音 #公民运动 #冲塔<br><br><video src="https://video.twimg.com/ext_tw_video/1588720286895071232/pu/vid/480x640/tFzu39NUkiY_gOSi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1588720286895071232/pu/img/b40DfMvTFTgmLSjZ.jpg"></video>
 
