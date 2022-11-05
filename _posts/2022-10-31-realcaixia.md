@@ -2,7 +2,7 @@
 author: realcaixia
 categories:
 - Twitter
-date: 2022-11-05
+date: 2022-11-06
 from: https://twitter.com/realcaixia/status/1587160080704835586
 layout: post
 tags:
@@ -53,7 +53,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
 
 ### 11: [2022-11-03 00:51:32+08:00 推文](https://twitter.com/realcaixia/status/1587849903543287810)
 
@@ -98,4 +98,8 @@ Re @franktianxie 现李克强政府无一人能参与中央常委会会议，而
 ### 21: [2022-11-05 22:57:15+08:00 推文](https://twitter.com/realcaixia/status/1588908308437819392)
 
 Re @liuyangeming 以往没有出现过20大常委班子这样的一人兄弟伙班子，而且兄弟伙实在是层次不够，没一个在国务院系统工作过，仅凭习个人十之八九是灾难性决策；同时，看过英国一部电视剧《是，部长先生！》吗？政府系统的官僚体系是不那么容易配合他们内心鄙视的下层爬上来的高官的，更别说还当总理，官僚体系服他们吗？
+
+### 22: [2022-11-06 01:42:03+08:00 推文](https://twitter.com/realcaixia/status/1588949778674913281)
+
+Re @liuyangeming 可以想见，未来的政府运转将会更多地出现不畅、梗阻、等等。
 
