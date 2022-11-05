@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-02
+date: 2022-11-05
 from: https://old.reddit.com/r/AskHistorians/comments/yiogv0/at_the_end_of_the_2022_movie_adaption_of_all/
 layout: post
 tags:
@@ -66,4 +66,16 @@ Actually, a bit of a follow-up: Yoshinobu may have had a relatively small clan h
 ----- __909.3__ -----2022-11-04 07:37:16+08:00:
 
 Ahh, I see now – I think I was misreading some of the chronology you presented. Thanks for clearing things up!
+
+### 910: [Sacks and the pope, hmmm](https://old.reddit.com/r/badhistory/comments/ymcb4y/sacks_and_the_pope_hmmm/), submitted on 2022-11-05 06:23:33+08:00.
+
+----- __910.1__ -----2022-11-05 22:18:51+08:00:
+
+Thank you for your submission to /r/badhistory! Unfortunately, it has been removed for the following reason(s):
+
+Your submission is in violation of **Rule 2**. Your submission Is a question and should be directed at one of the weekly free for all posts or history subs that allows these like AskHistorians.
+
+
+
+If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/No-Habit-454&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ymcb4y/-/\))
 
