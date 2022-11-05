@@ -2,7 +2,7 @@
 author: HeQinglian
 categories:
 - Twitter
-date: 2022-11-05
+date: 2022-11-06
 from: https://twitter.com/HeQinglian/status/1586909091464626180
 layout: post
 tags:
@@ -434,4 +434,16 @@ Re @KELMAND1 @franktianxie @dajiyuan 本来想写篇关于供销社的文章，�
 ### 105: [2022-11-05 21:32:02+08:00 推文](https://twitter.com/HeQinglian/status/1588886861585403905)
 
 Re @Isabel_3299 不同意。每个民族的凝聚力来自于传统文化。<br>中国人就是彻底抛弃并贬低了自家的传统文化（优秀一面），留下了坏的一面（江湖匪气、造反精神），如今到哪都不行。
+
+### 106: [2022-11-06 01:48:12+08:00 推文](https://twitter.com/HeQinglian/status/1588951326335307779)
+
+Re @Isabel_3299 看了这条推后的留言，无话可说。<br>中国传统文化到了一半人不知且根本不想知就欲灭的程度，不亡无天理。<br>中国过去是科举制承载传统文化的优秀一面（明朝算是特殊），废科举之后再来了五四，迎来了马克思主义。<br>好好享受马克思主义吧。
+
+### 107: [2022-11-06 01:53:33+08:00 推文](https://twitter.com/HeQinglian/status/1588952675634511873)
+
+Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 如果一律改成名号“公共食堂”，肯定就是倒退了。😂
+
+### 108: [2022-11-06 02:05:05+08:00 推文](https://twitter.com/HeQinglian/status/1588955574875860993)
+
+推特易主 美國左派怒懟為哪般？<br>本文考察了推特服务于政党利益的来龙去脉。2007年开张就逢奥巴马参选总统，从此食髓知味，希拉里任国务卿时开始E外交，首单业绩是美国务院操控伊朗大选时的推特革命，从此推特被视为美国（民主党）重要战略资产。<br>去政党化应该是推特改革的目标 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=158257" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=158257</a>
 
