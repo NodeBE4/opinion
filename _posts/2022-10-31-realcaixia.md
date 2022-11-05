@@ -53,7 +53,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
 
 ### 11: [2022-11-03 00:51:32+08:00 推文](https://twitter.com/realcaixia/status/1587849903543287810)
 
@@ -66,4 +66,20 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 ### 13: [2022-11-05 01:05:41+08:00 推文](https://twitter.com/realcaixia/status/1588578239135420416)
 
 Re 推文中有误，规范表述应该是“全国人大常委会委员长”。
+
+### 14: [2022-11-05 10:40:01+08:00 推文](https://twitter.com/realcaixia/status/1588722776084733952)
+
+Re @HenryCh34283099 这种出任只是党内安排，以为这几个人上位就叫接手了政府工作？如此简单的话，我根本就不需要提出问题了。
+
+### 15: [2022-11-05 10:54:40+08:00 推文](https://twitter.com/realcaixia/status/1588726464828305408)
+
+Re @franktianxie 当然有不同。以前逢10产生新一届中委，即便总书记换人，新一届中常委中依然会有相应数量的老常委，且都是在中央层面历练多年的人，对中央层面各系统工作不会出现断裂式的交接，显示出的是政府和中共党顶层的换人交接内在有一定的连续性。现在这个常委班子，无一人曾在中央政府层面工作过，
+
+### 16: [2022-11-05 11:03:57+08:00 推文](https://twitter.com/realcaixia/status/1588728799646330881)
+
+Re @franktianxie 现李克强政府无一人能参与中央常委会会议，而中共国目前的经济社会局势的复杂难题交织纠缠一体，决策是否正确，除了各地上报的信息情况是否真实外，还与中常委把握政府工作与社会全局的能力、对现代经济与社会的认知程度与感受灵敏度相关。没有相当的中央政府层面经验，七常委靠喊口号是只能饿死人的。
+
+### 17: [2022-11-05 12:47:05+08:00 推文](https://twitter.com/realcaixia/status/1588754753626177537)
+
+某胖声声泪字字血，道不尽心酸心寒与无奈。<br><br>高瑜: 某胖是位活躍的網民，他不知道這種用圖片表達思想可以維持多久。他說“我這種人最大的悲哀就是清醒而且窮，知道會發生什麼卻貧賤不能移。”他又發一篇微博“凜冬已至，唯苟活而不可亂說”他說：“我們很想苟活。可問題是，想苟活就能活得下去嗎？”他為自己的微博，也為他和千千萬萬和他一樣的人的生計擔憂。<br><br><img style="" src="https://pbs.twimg.com/media/Fgs85DHVIAArSX3?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgs9DTeVUAEr_tr?format=png&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgs9LU7VIAAHKOY?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fgs9PinUoAA2EXI?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
