@@ -267,6 +267,14 @@ Whatever the case, an interesting little episode.
 
 It's all a lie by the Phoenicians! Tyre relocated itself to Central Asia and invented the mudfloods to conceal its secret plots...
 
+----- __903.34__ -----2022-11-06 17:25:23+08:00:
+
+I've written about this portrait [before on the sub](https://www.reddit.com/r/AskHistorians/comments/phr4fn/saturday_showcase_september_04_2021/hbkbr8l/), but to distill out the key points:
+
+There was a surprisingly strong set of intellectual ties between the Kingdom of France and the Qing Empire under the Kangxi and Yongzheng Emperors, with Catholic reports about the Qing court inspiring Voltaire to write admiringly of the former ruler as 'China's Sun King', while some knowledge of French fashions made its way to the Qing as well, not just through missionaries but also through private merchants. It's important to understand that Qing trade policy was protectionist, not isolationist: huge volumes of cargo moved through Canton (Guangzhou), and this cargo was moved by people. Moreover, there was a massive market for commissioned porcelainware, which saw the imperial kiln complex at Jingdezhen turn out huge quantities of bowls, plates, and teacups (among other items) with European designs. So both ideas about Europe and European aesthetic influences disseminated quite widely.
+
+What this also led to, somewhat inexplicably, was a strange bit of religious iconography, wherein one of the forms that could be taken by a Bodhisattva in Qing-era religious art was a European nobleman. In the Kangxi-era woodblock album *Fifty-Three Transformation Bodies of Guanyin*, the goddess Guanyin (Avalokitasvara) appears in one image as a moustachioed gentleman with a sceptre, seemingly modelled on portraits of Louis XIII. This gives some context to the Yongzheng Emperor's appearance in Bourbon garb in the tiger-hunting image, as he may have been seeking to evoke the imagery of the Maitreya tradition. In particular, one of Maitreya's heralds in Chinese Mahayana, the Eighteen Arhats, is the Tiger-Tamer or Tiger-Subduer, who is sometimes associated with Maitreya himself, leading to a number of Qing depictions of Maitreya as a tiger-slayer. The album in which the Yongzheng Emperor's tiger hunt appears, descriptively titled *The Yongzheng Emperor in Costumes*, can be read as inserting itself into this trend of religious art, drawing a similarity between the emperor's ability to switch costumes and roles and the ability of Bodhisattvas to change forms, and in turn, it quite likely drew on the precedent for depicting one such form as a European aristocrat.
+
 ### 904: [What was homelessness like throughout history?](https://old.reddit.com/r/AskHistorians/comments/ygddsf/what_was_homelessness_like_throughout_history/), submitted on 2022-10-29 15:42:39+08:00.
 
 ----- __904.1__ -----2022-10-29 15:52:05+08:00:
