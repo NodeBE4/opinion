@@ -53,7 +53,7 @@ Re @JianglinLi @Wazy1988bW 1984-2.0版。老大哥无时无刻都在看着你。
 
 ### 10: [2022-04-11 09:36:27+08:00 推文](https://twitter.com/HeQinglian/status/1513330102498643968)
 
-查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。 <a href="https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/" target="_blank" rel="noopener noreferrer">https://www.infobae.com/cn/2022/04/10/who-is-alexander-dvornikov-the-general-known-as-the-butcher-of-syria-who-was-appointed-by-putin-to-sweep-eastern-ukraine/</a>
+查今日俄罗斯，发现平淡报导俄任命新的乌克兰战争指挥官。但美等西方媒体却高调报道。以下是美联社与法新社的中文译报：<br>《谁是亚历山大·德沃尔尼科夫，被普京任命横扫乌克兰东部的被称为 “叙利亚屠夫” 的将军》<br>战略上只谈及一点：过去没有统一指挥，新指挥官将统一指挥。<br><br>He Qinglian: 俄罗斯任命南部军区司令员德沃尔尼科夫担任新的乌克兰战争指挥官，他在第二次车臣战争中参战，并在 2015 年被任命为驻叙利亚的俄罗斯军队负责之前担任过多个高级职位。<br>2016年，普京授予德沃尔尼科夫俄罗斯英雄勋章，这是该国最高奖项之一。<br> <a href="https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html" target="_blank" rel="noopener noreferrer">https://www.aol.com/news/us-official-russia-appoints-ukraine-142216330-152946083.html</a>
 
 ### 11: [2022-04-11 09:49:09+08:00 推文](https://twitter.com/HeQinglian/status/1513333297656610818)
 
@@ -333,7 +333,7 @@ Re @princeton_walk @JiangShangrong 如今信息战，消息一定要多方Check�
 
 ### 80: [2022-04-13 10:26:50+08:00 推文](https://twitter.com/HeQinglian/status/1514067559787733004)
 
-请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。<br><br>美国之音中文网: 盖洛普全球领导地位排名：德国继续位居第一，美国出现回升，中俄相当<br> <a href="http://dlvr.it/SNTBpY" target="_blank" rel="noopener noreferrer">http://dlvr.it/SNTBpY</a>
+请注意调查 样本搜集期限：“到2021年8月之前”，7个月后，发生俄乌战争。德国如今成了被泽连斯基吊打的对象，领导力江河日下。
 
 ### 81: [2022-04-13 10:28:07+08:00 推文](https://twitter.com/HeQinglian/status/1514067881608335364)
 
@@ -505,7 +505,7 @@ Re @Zhongkui_liu 不要无视事实好不好？<br>新疆的事情，天天谴�
 
 ### 123: [2022-04-15 00:55:31+08:00 推文](https://twitter.com/HeQinglian/status/1514648556983963654)
 
-世界上欧美之外的国家如果日子过不好，有历史原因、现实原因、技不如人，资源依赖、市场依赖等各种情况，只有美国天时地利样样有，政府没钱了，有限制地印点钞票就算硬通货。<br>现在出了问题是民主党左派自找的。2020年1月以前，那是美国最后一抹灿烂。<br>病毒被认为是上帝送给美国左派的礼物，开始使劲作
+世界上欧美之外的国家如果日子过不好，有历史原因、现实原因、技不如人，资源依赖、市场依赖等各种情况，只有美国天时地利样样有，政府没钱了，有限制地印点钞票就算硬通货。<br>现在出了问题是民主党左派自找的。2020年1月以前，那是美国最后一抹灿烂。<br>病毒被认为是上帝送给美国左派的礼物，开始使劲作<br><br>Alejandro Bernard: 现在美国一片悲观主义者，突然之间感受到了美联储不会再像上次那样被市场哀嚎声吓坏了，而且金融格局今时不同往日，小国家债务崩溃，美国经济衰退，在高通胀导致的选情失利面前都是洒洒水。<br>现金为王的论调这两天又开始充斥美国金融评论界。<br>所以说你永远赢不了，评论家们永远都说当时最主流的话。<br><br><img style="" src="https://pbs.twimg.com/media/FQUWj5DakAAHrDw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
 ### 124: [2022-04-15 01:12:45+08:00 推文](https://twitter.com/HeQinglian/status/1514652893042950155)
 
