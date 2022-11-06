@@ -463,3 +463,15 @@ Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 你的社区食堂应该�
 
 Re @sohfangwei 这事情我得问问：<br>民主党的系统意见是今年按时计完选票？<br>如果是这样，民主党总算有点自尊，要点脸皮了。偷一次，自称是“捍卫民主”；在纽约、加州继续偷，算是为那地的左派留活路，毕竟别处政府不派发毒品，不做纽森那些破事；在全国范围偷，不是东西。
 
+### 113: [2022-11-06 22:04:32+08:00 推文](https://twitter.com/NAConservative9/status/1589257427694026752)
+
+RT 北美保守评论🇺🇸🇨🇦<br>《为什么这次中期选举将成了治安选举？》<br><br>民主党在治安问题上信息混乱。他们先说犯罪问题不过是共和党的恐吓运动：右翼构想出来的种族主义臆想。当越来越多的民主党人承认这个问题时，他们提出了一个滑稽的说法，即犯罪率在红州实际更高。他们没做出任何解决这个问题的承诺。 <a href="https://nacr.info/WordPress/index.php/2022/11/06/why-these-midterms-will-be-the-crime-elections/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/06/why-these-midterms-will-be-the-crime-elections/</a><br><img style="" src="https://pbs.twimg.com/media/Fg4sGodXkAEaqyG?format=png&amp;name=orig" referrerpolicy="no-referrer">
+
+### 114: [2022-11-06 22:35:07+08:00 推文](https://twitter.com/HeQinglian/status/1589265123499446274)
+
+Re @realTaoRay 看了这么多年，只有几句话想说：<br>1、美国的道路，是美国人的选择——2007年为奥八横空出世的狂欢与推特的配合、部分县选票溢出、媒体对诸多事情的装聋作哑<br>2、关键时刻，上帝只给了美国川普（优点弱点全都非常突出）<br>3、共和党本身有严重问题：RINO、涣散、软弱，难敌无赖痞子党<br>可惜保守人士别无选择
+
+### 115: [2022-11-06 22:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1589265864238718976)
+
+Re @david_david1968 王的古汉语造诣并不深，应该另有其人。
+
