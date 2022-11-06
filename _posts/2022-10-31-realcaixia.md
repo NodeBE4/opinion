@@ -53,7 +53,7 @@ Re <br><img style="" src="https://pbs.twimg.com/media/FgjLHxIXEAIRUer?format=jpg
 
 ### 10: [2022-11-02 18:29:13+08:00 推文](https://twitter.com/realcaixia/status/1587753692228423680)
 
-祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br> <a href="https://twitter.com/bumingbaipod/status/1587257913323683840" target="_blank" rel="noopener noreferrer">https://twitter.com/bumingbaipod/status/1587257913323683840</a>
+祝贺yuanli！不明白播客的访谈节目每一集都好精彩。<br><br>Li Yuan: 虽然针对我们的墙越砌越高，虽然“不明白播客”变成了敏感词，无法搜索，但墙内的朋友们想尽各种办法收听。有位听众称我们为“网络时代的地下刊物”，真是非常高的荣誉了。请大家多跟自己的亲友分享，我们也会继续加油的！<br>
 
 ### 11: [2022-11-03 00:51:32+08:00 推文](https://twitter.com/realcaixia/status/1587849903543287810)
 
@@ -118,4 +118,12 @@ Re @baojianella 鲍老好字啊！🌹
 ### 26: [2022-11-06 07:39:23+08:00 推文](https://twitter.com/realcaixia/status/1589039704770764800)
 
 民众的声音，民众的行动！<br><br>小黑人行动: 小黑人行动在墙内抖音爆发，我们以前是韭菜，现在是小黑人。一个社会不能只有一种声音，一群人的勇敢不能没有回声！反抗镰刀，准备冲塔！<br>想找组织伙伴？加入我们，或者在抖音制作小黑人，发出你的心声：不要谎言要尊严，不要封控要自由！<br><br>#小黑人 #已黑化 #彭立发 #二十大 #抖音 #公民运动 #冲塔<br><br><video src="https://video.twimg.com/ext_tw_video/1588720286895071232/pu/vid/480x640/tFzu39NUkiY_gOSi.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1588720286895071232/pu/img/b40DfMvTFTgmLSjZ.jpg"></video>
+
+### 27: [2022-11-06 20:33:32+08:00 推文](https://twitter.com/realcaixia/status/1589234526718681088)
+
+一切短视的政客想几头得好，必将是被各方都唾弃。舒尔茨是自取侮辱。<br><br>ZHANGDONG: 昨天舒尔茨中国一日游的同时，G7外长在德国明斯克开会给他上眼药，在G7联合公报里，警告中国要遵守以规则为基础的国际秩序。<br>舒尔茨在德国大企业的撺掇下不合时宜地访华，被德国内外上下骂翻了天，记吃不记打。<br><br><img style="" src="https://pbs.twimg.com/media/Fg0ST_pWQAAtxoT?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fg0SUQ7WYAACxFk?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/Fg0SUjuWIAESVOw?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 28: [2022-11-06 20:41:50+08:00 推文](https://twitter.com/realcaixia/status/1589236615503032320)
+
+清零政策现在已经不是防疫而是防人。习当局对民众呼号充耳不闻，对人命关天冷若冰霜，对经济几乎崩溃毫不在意，习喉舌鼓吹要“算大账”，他们只算政治账不算经济账，习的唯一实质性目标就是稳固权力宝座，他的所有帐都算在这点上。他们视民众如草芥；他们防民众如敌手；他们视权力为命根子。<br><br>韩连潮: 【清零的祸福】习近平近三年不惜一切代价清零防疫是中国社会创伤最深、最持久的灾难之一，给人民身心造成了难以评估、难以愈合的普遍伤害；它的好处是让人民彻底认识了中共专制体制“优越性”的庐山真面目。<br><br><img style="" src="https://pbs.twimg.com/media/Fg1W_WrXoAIxNtz?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
 
