@@ -59,3 +59,15 @@ Re @KingWan86749833 @X7Hm9J2Ddgk8P7z @KELMAND1 @franktianxie @dajiyuan 说事实
 
 Re @fading_you1 @shichuangang 这一点，我儿子在高中时就认识到：妈妈来自中国，但在美国却能自力更生，笔耕养活自己与孩子，远比出身于美国、身体健康却要依靠福利为生的美国人强多了。
 
+### 12: [2022-11-07 05:24:34+08:00 推文](https://twitter.com/HeQinglian/status/1589368167495008256)
+
+《华盛顿邮报》爆料：<br>美国私下要求乌克兰表明它愿意与俄罗斯谈判<br>但鼓励的目的不是将乌克兰推到谈判桌前，而是确保基辅政府维持其他国家的支持。战争的破坏性影响了欧非拉美部分地区食物和燃料的供应，美国民调显示共和党人继续为乌克兰军队提供资金的支持正在减弱。 <a href="https://www.washingtonpost.com/national-security/2022/11/05/ukraine-russia-peace-negotiations/" target="_blank" rel="noopener noreferrer">https://www.washingtonpost.com/national-security/2022/11/05/ukraine-russia-peace-negotiations/</a>
+
+### 13: [2022-11-07 05:26:19+08:00 推文](https://twitter.com/HeQinglian/status/1589368605636165632)
+
+Re @KELMAND1 能否将LGBT一事说得更清楚一点？
+
+### 14: [2022-11-07 07:32:56+08:00 推文](https://twitter.com/HeQinglian/status/1589400469453303809)
+
+Re @dinglili7 发现无生命物体有一种记忆性，比如合金材料的形状记忆，第一次加热后弯曲成什么样，今后就是什么样。<br>德国还是检讨自己为好。为什么从2015年难民潮开始，总上演这种戏码：高调展示道德在前，最后为德不卒。<br>这种事情怨恨受惠者没有用。<br>中国有东郭先生与狼的故事，不知德国有类似的寓言没有。
+
