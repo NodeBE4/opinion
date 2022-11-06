@@ -19,3 +19,7 @@ title: EnclavedMicrostate在2022-11-07~2022-11-13的言论
 
 Rule 5: The combined total of votes across all interest groups is something like 4x my voting population, but also the only party that will actually get these votes is the Nazis led by the Armed Forces. So that's... interesting.
 
+----- __911.2__ -----2022-11-07 02:17:34+08:00:
+
+I believe that that's the Radical Party symbol. As for your second question, parties cause all Interest Groups within them to be counted as one, so you don't get the legitimacy penalty that comes with having more than one group in government.
+
