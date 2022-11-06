@@ -463,15 +463,47 @@ Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 你的社区食堂应该�
 
 Re @sohfangwei 这事情我得问问：<br>民主党的系统意见是今年按时计完选票？<br>如果是这样，民主党总算有点自尊，要点脸皮了。偷一次，自称是“捍卫民主”；在纽约、加州继续偷，算是为那地的左派留活路，毕竟别处政府不派发毒品，不做纽森那些破事；在全国范围偷，不是东西。
 
-### 113: [2022-11-06 22:04:32+08:00 推文](https://twitter.com/NAConservative9/status/1589257427694026752)
+### 113: [2022-11-06 15:29:07+08:00 推文](https://twitter.com/dinglili7/status/1589157916535558144)
+
+RT 绫波<br>华尔街日报：<br><br>乌克兰的冲突表明，美国在世界舞台上以军事力量威慑对手的能力正在下降<br><br>美国武装部队战略司令部负责人查尔斯-理查德上将表达了这一观点。他认为，美国实际上没有可能遏制中国。他把美国比作一艘正在沉没的船。<br><img style="" src="https://pbs.twimg.com/media/Fg3SsXfVUAABncY?format=jpg&amp;name=orig" referrerpolicy="no-referrer">
+
+### 114: [2022-11-06 22:04:32+08:00 推文](https://twitter.com/NAConservative9/status/1589257427694026752)
 
 RT 北美保守评论🇺🇸🇨🇦<br>《为什么这次中期选举将成了治安选举？》<br><br>民主党在治安问题上信息混乱。他们先说犯罪问题不过是共和党的恐吓运动：右翼构想出来的种族主义臆想。当越来越多的民主党人承认这个问题时，他们提出了一个滑稽的说法，即犯罪率在红州实际更高。他们没做出任何解决这个问题的承诺。 <a href="https://nacr.info/WordPress/index.php/2022/11/06/why-these-midterms-will-be-the-crime-elections/" target="_blank" rel="noopener noreferrer">https://nacr.info/WordPress/index.php/2022/11/06/why-these-midterms-will-be-the-crime-elections/</a><br><img style="" src="https://pbs.twimg.com/media/Fg4sGodXkAEaqyG?format=png&amp;name=orig" referrerpolicy="no-referrer">
 
-### 114: [2022-11-06 22:35:07+08:00 推文](https://twitter.com/HeQinglian/status/1589265123499446274)
+### 115: [2022-11-06 22:35:07+08:00 推文](https://twitter.com/HeQinglian/status/1589265123499446274)
 
 Re @realTaoRay 看了这么多年，只有几句话想说：<br>1、美国的道路，是美国人的选择——2007年为奥八横空出世的狂欢与推特的配合、部分县选票溢出、媒体对诸多事情的装聋作哑<br>2、关键时刻，上帝只给了美国川普（优点弱点全都非常突出）<br>3、共和党本身有严重问题：RINO、涣散、软弱，难敌无赖痞子党<br>可惜保守人士别无选择
 
-### 115: [2022-11-06 22:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1589265864238718976)
+### 116: [2022-11-06 22:38:03+08:00 推文](https://twitter.com/HeQinglian/status/1589265864238718976)
 
 Re @david_david1968 王的古汉语造诣并不深，应该另有其人。
+
+### 117: [2022-11-06 23:09:20+08:00 推文](https://twitter.com/HeQinglian/status/1589273737588707329)
+
+Re @shenliangqing2 大概还有保障LGBTQI占推特员工的大比例。
+
+### 118: [2022-11-06 23:17:01+08:00 推文](https://twitter.com/HeQinglian/status/1589275669669683200)
+
+Re @Stariver @txyyss 说得对。古文古诗有比、兴、喻多种手法。论辩时也是如此。<br>也因此，出了几位擅长理财的宰相，就是千古名相，比如唐代裴度。《史记》中对人口的统计是：家有僮仆千指（一人十指，百人）；直到近代，薛福成讲中国人口之多，用的是“如恒河之沙”，并不是引用户部户籍中人口统计资料。
+
+### 119: [2022-11-06 23:18:24+08:00 推文](https://twitter.com/HeQinglian/status/1589276018082451459)
+
+Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 能否见告，这是何时的价格？比如早餐都有什么？
+
+### 120: [2022-11-06 23:21:38+08:00 推文](https://twitter.com/HeQinglian/status/1589276830833340417)
+
+Re @JianglinLi 我们这里，今年的秋色非常好，站在后园，极目望去，满目深浅不同的红色与金黄。<br>再过十来天，就进入秋末了。
+
+### 121: [2022-11-06 23:30:04+08:00 推文](https://twitter.com/HeQinglian/status/1589278953587736577)
+
+Re @chongqings1 @KELMAND1 这层纸就不撕破了，撕破对谁都没好处。<br>对北约来说，保留不正式参战的名目；对俄罗斯来说，不用进攻乌克兰之外的国家。双方就以乌克兰作战场比试高低，没人在意乌克兰成为修罗场。<br>两天前，WSJ《美军日益衰弱》这篇文章算是继阿富汗之后又一次打破“美军不可战胜”之神话。 <a href="https://www.wsj.com/articles/the-big-one-is-coming-china-russia-charles-richard-u-s-military-11667597291" target="_blank" rel="noopener noreferrer">https://www.wsj.com/articles/the-big-one-is-coming-china-russia-charles-richard-u-s-military-11667597291</a>
+
+### 122: [2022-11-06 23:46:18+08:00 推文](https://twitter.com/HeQinglian/status/1589283039649357825)
+
+Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 听起来，与台湾社区食堂差不多。<br>这么多人反对，是为哪般？😂
+
+### 123: [2022-11-06 23:48:18+08:00 推文](https://twitter.com/HeQinglian/status/1589283540700581888)
+
+Re @shenliangqing2 说实话，英美片包括日本片，现在都多是这类题材，我早就不看了。<br>乌战结束后，如果美国北约没赢，或者是惨胜，这个系列的几十个国家也许会消停一下，先将自家的窝收拾一下再说。
 
