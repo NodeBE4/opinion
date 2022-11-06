@@ -447,3 +447,19 @@ Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 如果一律改成名号�
 
 推特易主 美國左派怒懟為哪般？<br>本文考察了推特服务于政党利益的来龙去脉。2007年开张就逢奥巴马参选总统，从此食髓知味，希拉里任国务卿时开始E外交，首单业绩是美国务院操控伊朗大选时的推特革命，从此推特被视为美国（民主党）重要战略资产。<br>去政党化应该是推特改革的目标 <a href="https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=158257" target="_blank" rel="noopener noreferrer">https://www.upmedia.mg/news_info.php?Type=2&amp;SerialNo=158257</a>
 
+### 109: [2022-11-06 09:35:30+08:00 推文](https://twitter.com/HeQinglian/status/1589068927426244608)
+
+Re @Torabek403 没错。这本书的港版在前，就叫《中国的陷阱》。国内出版时，为减少阻力，改成《现代化的陷阱》。
+
+### 110: [2022-11-06 09:41:49+08:00 推文](https://twitter.com/HeQinglian/status/1589070517310717952)
+
+Re @enoughtalk4 难怪他们巴心巴肝为民主党政党利益服务。
+
+### 111: [2022-11-06 09:57:29+08:00 推文](https://twitter.com/HeQinglian/status/1589074458525847552)
+
+Re @KingWan86749833 @KELMAND1 @franktianxie @dajiyuan 你的社区食堂应该要付钱买饭菜，大概不会让你白吃“大锅饭”。
+
+### 112: [2022-11-06 10:08:53+08:00 推文](https://twitter.com/HeQinglian/status/1589077328344231937)
+
+Re @sohfangwei 这事情我得问问：<br>民主党的系统意见是今年按时计完选票？<br>如果是这样，民主党总算有点自尊，要点脸皮了。偷一次，自称是“捍卫民主”；在纽约、加州继续偷，算是为那地的左派留活路，毕竟别处政府不派发毒品，不做纽森那些破事；在全国范围偷，不是东西。
+
