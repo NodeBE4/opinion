@@ -31,3 +31,11 @@ Even so, the Nazis should not get *all* the votes.
 
 They join these parties if they have common ideological stances, either inherently or because of their leaders. So in this case, all five of the Interest Groups shown were either inherently or temporarily Radical, and were thus willing to join under that banner. If you unlock the option to have an Anarchist party, the Trade Unions might split off to form that, for instance.
 
+----- __911.5__ -----2022-11-07 04:58:37+08:00:
+
+Universal Suffrage.
+
+----- __911.6__ -----2022-11-07 05:37:16+08:00:
+
+Okay cool, so what about the other part which is the part where the Nazis get 100% of the vote?
+
