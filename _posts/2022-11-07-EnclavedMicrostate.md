@@ -23,3 +23,11 @@ Rule 5: The combined total of votes across all interest groups is something like
 
 I believe that that's the Radical Party symbol. As for your second question, parties cause all Interest Groups within them to be counted as one, so you don't get the legitimacy penalty that comes with having more than one group in government.
 
+----- __911.3__ -----2022-11-07 03:16:05+08:00:
+
+Even so, the Nazis should not get *all* the votes.
+
+----- __911.4__ -----2022-11-07 03:26:58+08:00:
+
+They join these parties if they have common ideological stances, either inherently or because of their leaders. So in this case, all five of the Interest Groups shown were either inherently or temporarily Radical, and were thus willing to join under that banner. If you unlock the option to have an Anarchist party, the Trade Unions might split off to form that, for instance.
+
