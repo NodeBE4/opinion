@@ -349,7 +349,7 @@ Re 【新冠肺炎】因疫苗副作用　逾万澳洲人向当局索赔<br><br>
 
 ### 84: [2022-04-06 23:57:08+08:00 推文](https://twitter.com/HeQinglian/status/1511734760292458503)
 
-IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。 <a href="https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas" target="_blank" rel="noopener noreferrer">https://www.imf.org/zh/About/Factsheets/Sheets/2016/07/14/12/21/IMF-Quotas</a>
+IMF基金组织份额<br>2016年7月29日<br>始自2014年的IMF改革，份额比重显著调整。中国成为基金组织第三大成员国，调整后基金组织份额最大的十个成员国中有四个新兴市场和发展中国家（巴西、中国、印度和俄罗斯）。<br><br>WilderMohn’er 野罂粟2: 把俄罗斯开除出国际货币基金组织将不能成功 - 美国财政部长<br> <a href="https://twitter.com/ntvru/status/1511732103460933634" target="_blank" rel="noopener noreferrer">https://twitter.com/ntvru/status/1511732103460933634</a>
 
 ### 85: [2022-04-07 01:36:08+08:00 推文](https://twitter.com/HeQinglian/status/1511759675477405702)
 
@@ -385,7 +385,7 @@ Re @Northpoleyyy 这些国家这些年是不是活得太顺了？居然丧失了
 
 ### 93: [2022-04-07 08:25:13+08:00 推文](https://twitter.com/HeQinglian/status/1511862624765587461)
 
-德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。
+德国的混乱于此文可见：<br>1、快速的天然气禁运会给德意奥匈牙利等国带来巨大压力，明智的做法是，停止来自俄罗斯的煤炭进口。成员国可以很好的应对对俄罗斯煤炭的放弃。<br>2、德国驱逐了40名俄外交官是愚蠢的。外交确保对话，否则就只有武器能说话了。<br>3、真正的敌人是中国。<br><br>RFI 华语 - 法国国际广播电台: 德国物流业面临破产潮<br><br><img style="" src="https://pbs.twimg.com/media/FPszIJFVIAA9HNM?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://rfi.my/8Jc1.t" target="_blank" rel="noopener noreferrer">https://rfi.my/8Jc1.t</a>
 
 ### 94: [2022-04-07 08:27:20+08:00 推文](https://twitter.com/HeQinglian/status/1511863159694450694)
 
@@ -453,7 +453,7 @@ Re @zhuxiuyuan 比喻不当。
 
 ### 110: [2022-04-07 21:54:12+08:00 推文](https://twitter.com/DongFang_USA/status/1512066212443799566)
 
-RT 东方<br>老拜登瞬間感受到什麽叫孤獨。<br><br>BDW: Watch these 13 seconds and tell me who Democrats think is President of the United States.<br><br><video src="https://video.twimg.com/ext_tw_video/1511411124431990794/pu/vid/1280x720/2ipvQe2cHzjmSA7Y.mp4?tag=12" controls="controls" poster="https://pbs.twimg.com/ext_tw_video_thumb/1511411124431990794/pu/img/wWmmjtUbuyRflaoK.jpg"></video>
+RT 东方<br>老拜登瞬間感受到什麽叫孤獨。
 
 ### 111: [2022-04-07 22:17:17+08:00 推文](https://twitter.com/HeQinglian/status/1512072019516354571)
 
@@ -1169,7 +1169,7 @@ BFM电视台网站公布的一项民调显示，马克龙的支持率再下降�
 
 ### 289: [2022-04-10 12:46:06+08:00 推文](https://twitter.com/HeQinglian/status/1513015443845521411)
 
-也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂<br><br>He Qinglian: BFM电视台网站公布的一项民调显示，马克龙的支持率再下降两个百分点，来到26%，勒庞则是上升两个百分点至25%。<br><br>猜想：小马一定痛悔，没有及时引进无需验证选民身份的多米尼投票机，不知现在立法规定邮寄选票（选举日过后20天来都算数）是否来得及。<br> <a href="https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040" target="_blank" rel="noopener noreferrer">https://cn.reuters.com/article/france-presidential-election-0408-fri-idCNKCS2M1040</a>
+也许中文推特圈觉得勒庞当选的消息不咋的，但美国政治网站却如此反应：<br>白宫吓坏了  普京的下一个重大胜利可能是在巴黎<br><br>如果俄罗斯的辩护者马琳·勒庞赢得法国大选，华盛顿担心她可能会瓦解西方的北约联盟。<br>😂😂 <a href="https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054" target="_blank" rel="noopener noreferrer">https://www.politico.com/news/2022/04/08/white-house-putin-paris-00024054</a>
 
 ### 290: [2022-04-10 12:49:23+08:00 推文](https://twitter.com/HeQinglian/status/1513016270383423488)
 
