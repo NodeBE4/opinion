@@ -2,7 +2,7 @@
 author: EnclavedMicrostate
 categories:
 - Reddit
-date: 2022-11-05
+date: 2022-11-06
 from: https://old.reddit.com/r/AskHistorians/comments/yiogv0/at_the_end_of_the_2022_movie_adaption_of_all/
 layout: post
 tags:
@@ -78,4 +78,16 @@ Your submission is in violation of **Rule 2**. Your submission Is a question and
 
 
 If you feel this was done in error, or would like better clarification or need further assistance, please don't hesitate to [message the moderators.](https://www.reddit.com/message/compose?to=/r/badhistory&subject=Question regarding the removal of this submission by /u/No-Habit-454&message=I have a question regarding the removal of [this submission](https://www.reddit.com/r/badhistory/comments/ymcb4y/-/\))
+
+### 911: [Need help. Thanks](https://old.reddit.com/r/ChineseTranslation/comments/ynnozu/need_help_thanks/), submitted on 2022-11-06 19:36:31+08:00.
+
+----- __911.1__ -----2022-11-07 17:58:18+08:00:
+
+古韵圆茶 – *gu3yun2 yuan2cha2*: archaic round tea
+
+思一园茶行出品 – *si1yi1yuan2 cha2hang2 chu1pin3*: Product of [the] Siyiyuan Tea Company
+
+普洱茶【熟茶】– *pu3er3cha2 shu2cha2*: Pu'er tea (ripe tea)
+
+净含量：200克 – *jing4han2liang4 er4bai3ke4*: Net weight: 200 grams
 
